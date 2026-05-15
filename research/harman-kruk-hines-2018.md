@@ -39,14 +39,17 @@
 - `case-law/united-kingdom/re-c-2023.md` *(seed — UK High Court decision citing this work)*
 - `core-concepts/family-violence-frame.md` *(seed)*
 
-## Citing posts
+## Source-blog hyperlinks (where this work is cited on antialienate.com)
 
-*(Updated as posts cite this work.)*
+| Post # | Title | Live URL |
+|---:|---|---|
+| 49 | What Alienating Parents Tell New Partners — The Propaganda Architecture | [antialienate.com/blog/what-alienating-parents-tell-new-partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners) |
+| 51 | Documenting Parental Alienation for Court — The Comprehensive Framework | [antialienate.com/blog/documenting-parental-alienation-for-court](https://www.antialienate.com/blog/documenting-parental-alienation-for-court) |
+| 52 | How to Document PA for Court — The Daily Tactical Checklist | [antialienate.com/blog/documenting-alienation-for-court](https://www.antialienate.com/blog/documenting-alienation-for-court) |
+| 54 | Spotting Parental Alienation — The Early Warning Signs Most Parents Miss Until It's Late | [antialienate.com/blog/spotting-parental-alienation-early-warning-signs](https://www.antialienate.com/blog/spotting-parental-alienation-early-warning-signs) |
+| 55 | Recognizing Parental Alienation — The Key Signs That Distinguish It From Everything Else | [antialienate.com/blog/recognizing-parental-alienation-key-signs](https://www.antialienate.com/blog/recognizing-parental-alienation-key-signs) |
 
-- Post #49 — *What Alienators Tell New Partners* (LinkedIn body + meme)
-- Post #51 — *Documenting Parental Alienation for Court — The Comprehensive Framework* (LinkedIn + Daubert frame)
-- Post #52 — *How to Document PA for Court — The Daily Tactical Checklist* (Daubert safeguard slide + meme)
-- Post #54 — *Spotting PA Early Warning Signs* (clinical anchor across 4-tier system)
+*(Updated as posts cite this work. Standing rule: every repo entry must link back to the original AntiAlienate blog posts that reference it.)*
 
 ## Open research questions
 
@@ -64,3 +67,4 @@
 
 **Last reviewed:** 2026-05-15 by Alan Markson.
 **License:** [CC BY 4.0](../LICENSE).
+**Originally published at [antialienate.com](https://www.antialienate.com).**
