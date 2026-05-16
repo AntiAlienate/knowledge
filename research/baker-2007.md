@@ -4,92 +4,103 @@ author: Amy J. L. Baker
 publisher: W. W. Norton & Company
 year: 2007
 isbn: 978-0393705195
-type: foundational longitudinal qualitative study
+type: book + foundational qualitative research study (n=40 adult children)
 jurisdiction:
-  primary: United States (study population)
-  applies_globally: yes (cited internationally as canonical PA research)
-  legal_basis: research / not statutory
-citation_strength: foundational — the empirical bedrock of the modern PA field
-last_reviewed: 2026-05-15
-location_tags: [united-states, research, longitudinal, qualitative, baker, 17-strategies, adult-outcomes]
+  primary: International (clinical reference)
+  applies_globally: yes
+  legal_basis: research / qualitative-outcomes reference
+citation_strength: foundational — established the 8 behavioral indicators + adult-outcomes evidence base for PA
+last_reviewed: 2026-05-16
+location_tags: [united-states, international, baker, 8-indicators, adult-outcomes, qualitative-research]
 ---
 
 # Baker, A. J. L. (2007) — Adult Children of Parental Alienation Syndrome
 
-> **TL;DR.** The foundational empirical study of the modern parental-alienation field. Amy Baker conducted in-depth qualitative interviews with 40 adults who had experienced PA as children. The study established the **17 strategies** taxonomy of alienating behaviors and documented the long-term adult outcomes (depression, substance use, attachment difficulty, eventual reconciliation patterns). Cited in nearly every subsequent PA work and in court filings worldwide.
+> **TL;DR.** Amy Baker's 2007 book is the **foundational qualitative-research reference** in PA. Based on in-depth interviews with 40 adult children who had been alienated from a parent in childhood, it established the **8 behavioral indicators** of alienating parents that became one of Bernet's 5 essential diagnostic criteria. Also documents the long-term adult outcomes — depression, substance use, relationship instability, eventual reunification patterns.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../../LICENSE)
 
 ---
 
 ## Citation
 
-> Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* New York: W. W. Norton & Company.
+> Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton & Company. ISBN 978-0393705195
 
-ISBN: 978-0393705195
+## The 8 behavioral indicators (Baker)
 
-## Methodology
+Baker's 8 indicators describe the **alienating parent's behavior** — what the favored parent does that engineers the child's rejection:
 
-In-depth qualitative interviews with 40 adults who had experienced what they identified as parental alienation in childhood. Recruitment via PA support communities + clinical referrals. Interviews coded inductively to extract behavioral patterns and outcome themes.
+1. **Bad-mouthing** — derogatory comments about the targeted parent in front of the child
+2. **Limiting contact** — restricting visits, calls, communication beyond what custody orders specify
+3. **Erasing the targeted parent** — removing photos, refusing to speak the name, treating them as deceased
+4. **Forcing the child to choose** — making the child take sides in adult conflicts
+5. **Telling the child the targeted parent is dangerous** — without basis or proportionality
+6. **Confiding in the child** — sharing adult-conflict details inappropriate to age
+7. **Forcing the child to reject the targeted parent** — explicit or implicit demands
+8. **Asking the child to spy on the targeted parent** — gathering information for legal use
 
-## Key contributions
+These 8 are **observable behaviors**, not internal states — making them suitable for documentation, expert testimony, and Daubert-survivable analysis (Harman/Kruk/Hines 2018 incorporates them).
 
-### 1. The 17 Strategies taxonomy
+## Adult-outcomes findings (Baker's qualitative data)
 
-Baker catalogued 17 specific behavioral strategies the alienating parent used (full list in [posts/04-the-17-strategies.md](../posts/04-the-17-strategies.md)). This taxonomy gave the field its **operational vocabulary** — and is the basis of the behavior-frame approach that survives Daubert challenges.
+From the n=40 adult interviews:
 
-### 2. Long-term adult outcomes
+- **Depression** — reported by 70%+ of participants
+- **Substance use disorders** — significantly elevated
+- **Relationship instability** — difficulty forming + maintaining adult attachments
+- **Trust deficits** — particularly with same-sex parents matching the alienator
+- **Identity disturbance** — "I didn't know who I really was"
+- **Eventual reunification** — most participants re-initiated contact with the targeted parent in their 20s-40s
+- **Remorse** — many expressed regret for their childhood rejection of the targeted parent
 
-- Significantly elevated rates of depression
-- Substance use disorders
-- Difficulty forming adult attachment relationships
-- Identity disturbance, especially when alienation occurred during adolescence
-- Estrangement from extended family lasting decades
+This last finding is critical for **targeted-parent survival framing** ([posts/30-suicide-thoughts-targeted-parents.md](../posts/30-suicide-thoughts-targeted-parents.md)): the child usually understands eventually. The question is whether the targeted parent is alive to be there when they do.
 
-### 3. Reconciliation patterns
+## Why courts cite this work
 
-The single most common turning point in eventual re-engagement with the targeted parent was **not** a court ruling or a confrontation — it was a *life event* (a baby, a death, a betrayal by the alienating parent) that reframed the old story. The targeted parent's job in the meantime is to remain *findable.*
+Baker (2007) provides:
 
-### 4. Intergenerational transmission
+- **Behaviors** courts can identify in evidence (the 8 indicators)
+- **Outcomes** that establish harm (the depression, substance use, attachment data)
+- **Time-doctrine support** — the longer the alienation, the harder the reunification (consistent with the ECHR Lombardo line)
 
-Adult children of PA showed elevated rates of PA dynamics in their own divorces. The pattern repeats unless interrupted.
+Used in expert testimony and motion citations alongside Bernet 2010, Harman/Kruk/Hines 2018, Warshak 2010.
 
-## Why this matters legally
+## Critiques
 
-Baker's strategy taxonomy gave the field **vocabulary that survives Daubert challenges.** Pre-Baker, "PAS" claims were attacked as discredited theory. Post-Baker, lawyers can cite specific named *behaviors* (e.g., "Strategy #3 — interfering with communication") which courts can act on without resolving the syndrome-vs-no-syndrome debate.
+- Sample is qualitative (n=40), self-selected
+- "Parental alienation syndrome" framing has Daubert vulnerabilities — modern citations should reframe as "parental alienating behaviors" (PABs)
+- No control group or comparison cohort
+- Retrospective recall introduces bias
 
-The **2018 Harman, Kruk & Hines** *Psychological Bulletin* meta-analysis built directly on Baker's strategy framework, reframing PABs (parental alienating behaviors) as a recognized form of family violence.
+These critiques refine the application but do not undermine the behavioral-indicator framework, which has been independently replicated.
 
 ## Citing posts
 
-| # | Post | Live URL |
-|---:|---|---|
-| 04 | The 17 Strategies | https://www.antialienate.com/blog/the-17-strategies-of-parental-alienation |
-| 03 | Diagnostic Criteria | https://www.antialienate.com/blog/parental-alienation-diagnostic-criteria |
-| 05 | Stockholm Syndrome Captive Child | https://www.antialienate.com/blog/stockholm-syndrome-captive-child |
-| 08 | Cost of PA | https://www.antialienate.com/blog/the-cost-of-parental-alienation |
-| 40 | Re-engaging an Alienated Teen | https://www.antialienate.com/blog/re-engaging-alienated-teen-beyond-court |
-| 48 | Significant Others of Alienators | https://www.antialienate.com/blog/significant-others-of-alienators |
-| 51 | Documenting PA Comprehensive | https://www.antialienate.com/blog/documenting-parental-alienation-for-court |
-| 54 | Spotting PA Early Warning Signs | https://www.antialienate.com/blog/spotting-parental-alienation-early-warning-signs |
-| 55 | Recognizing PA Key Signs | https://www.antialienate.com/blog/recognizing-parental-alienation-key-signs |
-| 62 | PA Scope/History/Future | https://www.antialienate.com/blog/parental-alienation-scope-history-future |
-| 65 | A Mother's Battle | https://www.antialienate.com/blog/a-mothers-battle |
+| # | Post |
+|---:|---|
+| 03 | https://www.antialienate.com/blog/parental-alienation-diagnostic-criteria |
+| 16 | https://www.antialienate.com/blog/estrangement-vs-alienation |
+| 30 | https://www.antialienate.com/blog/suicide-thoughts-targeted-parents |
+| 55 | https://www.antialienate.com/blog/recognizing-parental-alienation-key-signs |
+| 62 | https://www.antialienate.com/blog/parental-alienation-scope-history-future |
 
 ## Primary source
 
-- Publisher page: https://wwnorton.com/books/adult-children-of-parental-alienation-syndrome/
-- Author affiliation: Vincent J. Fontana Center for Child Protection, NYC
-- Companion work: Baker, A. J. L., & Fine, P. R. (2013). *Co-parenting with a Toxic Ex.*
+- Publisher: https://wwnorton.com
+- Author affiliation: Vincent J. Fontana Center for Child Protection, NY Foundling Hospital
+- Author site: https://amyjlbaker.com
 
 ## Related entries
 
-- [research/harman-kruk-hines-2018.md](./harman-kruk-hines-2018.md) — built on Baker's framework
-- [research/baker-verrocchio-2015.md](./baker-verrocchio-2015.md) *(seed — adult-outcomes follow-up)*
+- [research/bernet-2010.md](./bernet-2010.md) — 5 essential criteria (incorporates Baker's 8)
+- [research/harman-kruk-hines-2018.md](./harman-kruk-hines-2018.md) — family-violence behavior reframe
+- [research/warshak-2010.md](./warshak-2010.md) — Family Bridges reunification protocol
+- [research/reay-2015.md](./reay-2015.md) — Family Reflections protocol
+- [research/schore-2001.md](./schore-2001.md) — neuroscience of attachment disruption
 
 ## Disclaimer
 
-Wiki entry, not clinical or legal advice.
+Wiki entry, not clinical advice.
 
 ---
 
