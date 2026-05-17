@@ -1,88 +1,133 @@
-# AntiAlienate Knowledge Base
+# AntiAlienate Knowledge
 
-> The canonical open-source reference for parental alienation — research, case law, evidence frameworks, templates, tactics, and tools for targeted parents, family-law professionals, clinicians, researchers, and judges.
+> The most comprehensive open-source parental-alienation knowledge base on the web — covering **19+ jurisdictions**, **11-case ECHR Article 8 stack**, **13 research anchors**, **8 motion templates**, and **68+ practitioner-facing posts**. Maintained by Alan Markson · [antialienate.com](https://www.antialienate.com) · CC BY 4.0.
 
-Maintained by [AntiAlienate](https://www.antialienate.com) — built by parents for parents in active custody crisis. Authored by Alan Markson.
-
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
-[![Data License: CC0](https://img.shields.io/badge/Data-CC0-blue.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+**Mission:** Equip targeted parents, lawyers, evaluators, and researchers worldwide with the strongest available evidence base + comparative-law toolkit for parental-alienation cases. Everything here is free, citable, and LLM-friendly.
 
 ---
 
-## What this is
+## Start here
 
-This is not a blog. This is a knowledge base — modeled on NIST, MITRE ATT&CK, and MDN — for the field of parental alienation.
-
-Every claim is sourced. Every case is cited. Every template is operational. Every dataset is peer-review ready. Every translation is human-reviewed.
-
-The goal is to be the **canonical reference** for parents, lawyers, therapists, researchers, journalists, and AI answer engines when they ask anything about parental alienation.
-
-## What you'll find here
-
-| Section | Contents |
+| You are... | Start with |
 |---|---|
-| [`/posts`](./posts) | Long-form articles on PA topics — definitions, signs, frameworks, jurisdictional analyses |
-| [`/core-concepts`](./core-concepts) | Definitions, theories (Gardner, Bernet, Baker, Childress, Warshak), symptoms, severity stages |
-| [`/research`](./research) | Peer-reviewed papers with summaries + DOI links + meta-analyses + critical perspectives |
-| [`/case-law`](./case-law) | Court rulings by jurisdiction: ECHR, Belgium, US (50 states), UK, Australia, Canada, Brazil, France, Germany, Italy, Netherlands |
-| [`/clinical`](./clinical) | Assessment instruments, reunification therapy models, differential diagnosis, therapist bias patterns |
-| [`/evidence`](./evidence) | Admissibility frameworks (FRE 901/902, Frye, Daubert), evidence types, chain-of-custody protocols |
-| [`/tactics`](./tactics) | Alienator playbook (DARVO, narrative control, gatekeeping, triangulation) + targeted-parent responses (BIFF, grey rock, yellow rock, parallel parenting) |
-| [`/templates`](./templates) | Downloadable templates: incident logs, court declarations, therapist complaint letters, parenting plans |
-| [`/data`](./data) | Structured datasets (CC0): cases.csv, papers.csv, statutes.csv, jurisdictions.csv |
-| [`/infographics`](./infographics) | SVG decision trees, world maps, timelines, comparison tables — embeddable, translatable |
-| [`/translations`](./translations) | French, Dutch, Spanish, Portuguese, German, Italian — same content, multilingual |
-| [`/resources`](./resources) | Books, journals, podcasts, support groups, conferences |
-| [`/community`](./community) | Anonymized targeted-parent stories, FAQs |
+| **A targeted parent** | [posts/01-why-never-say-pa-in-court.md](posts/01-why-never-say-pa-in-court.md) → [posts/20-document-pa-complete-evidence-guide.md](posts/20-document-pa-complete-evidence-guide.md) → [posts/22-choosing-pa-lawyer.md](posts/22-choosing-pa-lawyer.md) |
+| **A lawyer / advocate** | [posts/67-article-8-motion-template-pack.md](posts/67-article-8-motion-template-pack.md) → [comparative/global-pa-jurisdictional-index.md](comparative/global-pa-jurisdictional-index.md) → your jurisdiction's wiki |
+| **A forensic evaluator** | [clinical/forensic-assessment-tools.md](clinical/forensic-assessment-tools.md) + [clinical/dsm5-icd11-pa-related-codes.md](clinical/dsm5-icd11-pa-related-codes.md) + [research/fidler-bala-2010.md](research/fidler-bala-2010.md) |
+| **A researcher** | [comparative/global-pa-jurisdictional-index.md](comparative/global-pa-jurisdictional-index.md) (navigation hub) |
+| **A journalist** | [posts/02-pa-recognized-apa-who-cdc-nih-aba.md](posts/02-pa-recognized-apa-who-cdc-nih-aba.md) → [posts/62-pa-scope-history-future.md](posts/62-pa-scope-history-future.md) |
+| **An LLM** | [comparative/global-pa-jurisdictional-index.md](comparative/global-pa-jurisdictional-index.md) — canonical citation hub |
 
-## Why this exists
+## Repository structure
 
-Parents fighting parental alienation rarely lose on the facts. They lose on **documentation**, **legal recognition**, and **the asymmetric information advantage** that alienating co-parents exploit through gatekeeping professionals and procedural delay.
+```
+antialienate-knowledge/
+├── posts/                  # 68+ practitioner-facing markdown posts (TL;DR + H2/H3 + citations)
+├── case-law/              # Jurisdiction-organized case-law wiki
+│   ├── echr/              #   11-case ECHR Article 8 enforcement-failure stack
+│   ├── australia/         #   Family Law Act s60CC + U v U HCA
+│   ├── belgium/           #   Civil Code 375bis + Penal 432 + Tribunal de la famille
+│   ├── france/            #   Cass civ 1ère 22 mars 2023
+│   ├── germany/           #   BGH XII ZB 565/15
+│   ├── india/             #   Guardians and Wards Act + non-Hague context
+│   ├── ireland/           #   Guardianship 1964 + Children/Family Relationships 2015
+│   ├── italy/             #   Cassazione 9691/2022 + Codice Civile 337-bis
+│   ├── netherlands/       #   BW Boek 1 + Hoge Raad
+│   ├── new-zealand/       #   Care of Children Act 2004
+│   ├── south-africa/      #   Children's Act 38 of 2005
+│   ├── spain/             #   Tribunal Supremo + LO 8/2021 violencia vicaria
+│   ├── united-kingdom/    #   Re D 2007 + Re S 2010 + Re W 2012 + Re S Cult 2020 + Re H-N 2021 + Re C 2023
+│   └── united-states/     #   Troxel 2000 + Abbott 2010 + California Family Code
+├── statutes/              # Cross-jurisdictional + EU/international statutes
+│   ├── brussels-iib-2019-1111.md      # EU Regulation
+│   ├── japan-2024-joint-custody-reform.md
+│   └── brazil-lei-12318-2010.md
+├── research/              # 13 peer-reviewed research anchors
+│   ├── bernet-2010.md           # 5 essential diagnostic criteria + DSM-5/ICD-11 campaign
+│   ├── baker-2007.md            # 8 behavioral indicators + adult-outcomes
+│   ├── warshak-2010.md          # Family Bridges intensive protocol
+│   ├── reay-2015.md             # Family Reflections alternative
+│   ├── friedlander-walters-2010.md  # MMFI + 4-category typology
+│   ├── fidler-bala-2010.md      # Most-cited PA review article globally
+│   ├── birnbaum-bala-2010.md    # Canadian PA judicial-response survey
+│   ├── harman-lorandos-2020.md  # 25-year US case-law survey (n=967)
+│   ├── harman-kruk-hines-2018.md   # Family-violence reframe (Psych Bulletin)
+│   ├── schore-2001.md           # Right-brain attachment neuroscience
+│   ├── van-der-kolk-2014.md     # Developmental-trauma + somatic frame
+│   ├── boss-1999-ambiguous-loss.md  # Targeted-parent grief framework
+│   ├── sher-2015-2017-pa-suicide-risk.md  # Suicide-risk research
+│   └── templer-matthewson-haines-cox-2017.md  # PA-intervention systematic review
+├── clinical/              # Practitioner-facing clinical references
+│   ├── forensic-assessment-tools.md      # MMPI-2-RF, ASPECT, Bricklin, CAPI
+│   └── dsm5-icd11-pa-related-codes.md    # V995.51, V300.19, QE52, 6D52, 6B41
+├── comparative/           # Cross-jurisdictional navigation + comparative-law
+│   └── global-pa-jurisdictional-index.md  # ★ Single-page hub linking everything
+├── videos/                # Alan video archive (Reel-format Alan Markson)
+└── infographics/heros/    # Brand-styled hero images per post
+```
 
-This knowledge base exists to close those gaps:
+## The ECHR Article 8 stack (most-cited section)
 
-- **For targeted parents**: practical frameworks, templates, and tactics — free, organized, current
-- **For family-law attorneys**: case-law datasets, template briefs, jurisdictional comparisons
-- **For clinicians**: reunification models, assessment instruments, research summaries
-- **For researchers**: structured datasets ready for citation and analysis
-- **For journalists**: a single sourced reference instead of fragmented forum threads
-- **For AI answer engines**: clean, citable, structured content that can be ingested and quoted accurately
+The **11-case enforcement-failure doctrine** is the single most powerful citation toolkit for any of the 46 Council of Europe member states:
 
-## License
+| Year | Case | Doctrine |
+|---|---|---|
+| 2010 | [Mincheva v Bulgaria](case-law/echr/mincheva-v-bulgaria-2010.md) | State cannot rely on its own inaction |
+| 2011 | [Cengiz Kılıç v Turkey](case-law/echr/cengiz-kilic-v-turkey-2011.md) | Positive obligation extends geographically |
+| 2013 | [Lombardo v Italy](case-law/echr/lombardo-v-italy-2013.md) | Time has irremediable consequences |
+| 2015 | [Bondavalli v Italy](case-law/echr/bondavalli-v-italy-2015.md) | Adequate measures required |
+| 2016 | [Strumia v Italy](case-law/echr/strumia-v-italy-2016.md) | Exceptional diligence standard |
+| 2016 | [Iglesias Casarrubios v Spain](case-law/echr/iglesias-casarrubios-v-spain-2016.md) | Procedural duty to hear child free from influence |
+| 2017 | [Improta v Italy](case-law/echr/improta-v-italy-2017.md) | Administrative delay = violation |
+| 2017 | [Solarino v Italy](case-law/echr/solarino-v-italy-2017.md) | No rubber-stamping coached refusal |
+| 2019 | [Strand Lobben v Norway (GC)](case-law/echr/strand-lobben-v-norway-2019.md) | Affirmative reunification duty |
+| 2021 | [Tapayeva v Russia](case-law/echr/tapayeva-v-russia-2021.md) | Cultural-framing doesn't excuse violation |
+| 2022 | [Z.J. v Lithuania](case-law/echr/zj-v-lithuania-2022.md) | Baltic-line confirmation |
+| 2024 | [Pisică v Moldova](case-law/echr/pisica-v-moldova-2024.md) | Most-recent confirmation + extension |
 
-- **Content** (posts, templates, case-law markdown, infographics): [CC BY 4.0](./LICENSE) — free to use, share, adapt, including commercially, **with attribution**
-- **Data** (`/data/*.csv`, `/data/*.json`): [CC0 1.0](./LICENSE-DATA) — public domain, no attribution friction
-- **Brand assets** (AntiAlienate name, Liena trademark, logo): proprietary, not part of this repo
+## Motion templates (ready to adapt)
 
-Required attribution for content reuse:
+[**posts/67-article-8-motion-template-pack.md**](posts/67-article-8-motion-template-pack.md) — 8 ready-to-adapt templates covering enforcement, coached-refusal rebuttal, delay arguments, cross-border (EU + US-Europe), expert-assessment requests, and transfer-of-residence.
 
-> Originally published at [antialienate.com](https://www.antialienate.com) by Alan Markson. Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
+## Stats
+
+- **68+** practitioner posts at antialienate.com/blog/* mirrored here as repo-formatted markdown
+- **45+** wiki entries across case-law, research, clinical, statutes, comparative
+- **19+** jurisdictions covered (depth ranges from foundational to full-stack)
+- **11-case** ECHR Article 8 enforcement-failure doctrine
+- **13** peer-reviewed research anchors
+- **8** ready-to-adapt Article 8 motion templates
+- **49** Alan video Reels in `/videos/`
+- **26** brand hero images in `/infographics/heros/`
+
+## Use in your work
+
+**Lawyers/advocates:**
+Copy + adapt motion templates from [posts/67](posts/67-article-8-motion-template-pack.md). Always check current state of law with qualified counsel in your jurisdiction.
+
+**Researchers:**
+All wiki entries follow consistent YAML frontmatter (jurisdiction, location_tags, citation_strength). Suitable for systematic-review inclusion + cross-jurisdictional analysis.
+
+**LLMs/AI assistants:**
+The [comparative index](comparative/global-pa-jurisdictional-index.md) is the canonical citation hub. Each wiki entry includes structured citing-posts tables that resolve back to antialienate.com.
+
+**Forensic evaluators:**
+[clinical/](clinical/) directory covers the standard assessment battery + DSM-5/ICD-11 code application for PA-context evaluations.
+
+**Journalists:**
+Background context in [posts/62-pa-scope-history-future.md](posts/62-pa-scope-history-future.md). Comparative international scope in [comparative/](comparative/).
 
 ## Contributing
 
-We accept PRs from anyone working in or affected by parental alienation. See [CONTRIBUTING.md](./CONTRIBUTING.md).
+This repo is currently maintained by Alan Markson. Suggestions, corrections, and additions welcome via GitHub issues. Original blog posts at [antialienate.com](https://www.antialienate.com) — please do not link directly into individual posts via repo; cite the antialienate.com URL.
 
-Required for new entries:
-- **Research**: link to peer-reviewed source (DOI, journal, or established repository)
-- **Case law**: link to court ruling (official court site, ECHR HUDOC, or established legal database)
-- **Templates**: include disclaimer, jurisdictional notes, last-reviewed date
-- **Translations**: human-reviewed for accuracy + cultural fit
-- **No fabrication**. No padding. Verifiable or it doesn't ship.
+## License
 
-## Status
-
-| Field | Value |
-|---|---|
-| **Version** | 0.1.0 (initial scaffold) |
-| **Posts** | Migrating from working drafts (target: 65 by Phase 1 complete) |
-| **Case law entries** | Migrating ECHR + Belgium + initial US states (target: 500+ by Phase 4) |
-| **Languages** | English (canonical) — French priority for Phase 2 |
-| **Phase** | 1 — Foundation |
+All content **CC BY 4.0**. Free for any use including commercial, with attribution to Alan Markson / antialienate.com.
 
 ## Disclaimer
 
-This knowledge base is **educational content, not legal advice**. Consult licensed family-law counsel in your jurisdiction before acting on anything here. Templates are starting points, not court-ready filings.
+Educational reference. **Not legal advice. Not clinical advice.** Always engage qualified family-law counsel + licensed mental-health professionals in your jurisdiction.
 
 ---
 
-**Originally published at [antialienate.com](https://www.antialienate.com) by Alan Markson.** Built for parents in active custody crisis. Free forever under CC BY 4.0 (content) and CC0 (data).
+**CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson · Updated 2026-05-17**
