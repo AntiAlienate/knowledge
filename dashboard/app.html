@@ -309,14 +309,29 @@ ul.feed li .meta{color:var(--dim);font-size:11px;margin-top:2px}
 </div>
 
 <script>
-// ---------- Embedded data (refresh by re-generating dashboard) ----------
+// ---------- Bootstrap data (overridden by live fetch below) ----------
+const REPO = "AntiAlienate/antialienate-knowledge";
+const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/main`;
+const API_BASE = `https://api.github.com/repos/${REPO}`;
+const TZ_LABEL = Intl.DateTimeFormat().resolvedOptions().timeZone || "local";
+function fmtLocal(iso){
+  try{const d=new Date(iso);return d.toLocaleString(undefined,{dateStyle:"short",timeStyle:"medium"})}
+  catch{return iso}
+}
+function fmtAgo(iso){
+  const d=new Date(iso); const s=Math.floor((Date.now()-d.getTime())/1000);
+  if(s<60) return s+"s ago";
+  if(s<3600) return Math.floor(s/60)+"m ago";
+  if(s<86400) return Math.floor(s/3600)+"h "+Math.floor((s%3600)/60)+"m ago";
+  return Math.floor(s/86400)+"d ago";
+}
 const DATA = {
   generated: new Date().toISOString(),
-  repo: "AntiAlienate/antialienate-knowledge",
+  repo: REPO,
   counters: {
-    repo_entries: 82,
-    jurisdictions: 82,
-    fb_posted: 79,
+    repo_entries: 87,
+    jurisdictions: 87,
+    fb_posted: 81,
     videos_pushed: 30,
     research_entries: 12,
     echr_standalones: 7
@@ -516,27 +531,49 @@ setText('ov-res',DATA.counters.research_entries);
 setText('ov-echr',DATA.counters.echr_standalones);
 setText('wk-jur',DATA.counters.jurisdictions);
 setText('wk-res',DATA.counters.research_entries);
-setText('last-tick','Snapshot: '+new Date(DATA.generated).toLocaleString());
+setText('last-tick','Times in '+TZ_LABEL+' · Loaded: '+fmtLocal(DATA.generated)+' · Auto-refresh every 60s');
+setInterval(()=>{liveFetch().catch(e=>console.warn(e))}, 60000);
 
 setText('nav-bf',DATA.backfill_posts.length+' / 65');
 setText('nav-wiki',DATA.counters.jurisdictions);
 setText('nav-vid',DATA.counters.videos_pushed);
 setText('nav-fb',DATA.counters.fb_posted);
 
-// Recent commits panels
-const rc=document.getElementById('recent-commits');
-rc.innerHTML='';
-DATA.recent_commits.slice(0,8).forEach(c=>{
-  const li=document.createElement('li');
-  li.innerHTML=`<a href="https://github.com/${DATA.repo}/commit/${c.sha}" target="_blank">${c.sha}</a> · ${c.msg}<div class="meta">${c.t}</div>`;
-  rc.appendChild(li);
-});
-const ct=document.getElementById('commits-table');
-DATA.recent_commits.forEach(c=>{
-  const tr=document.createElement('tr');
-  tr.innerHTML=`<td><a href="https://github.com/${DATA.repo}/commit/${c.sha}" target="_blank">${c.sha}</a></td><td>${c.msg}</td><td style="color:var(--dim)">${c.t}</td>`;
-  ct.appendChild(tr);
-});
+function renderCommits(commits){
+  const rc=document.getElementById('recent-commits'); rc.innerHTML='';
+  const ct=document.getElementById('commits-table'); ct.innerHTML='';
+  const cc=document.getElementById('commit-cards'); if(cc) cc.innerHTML='';
+  commits.slice(0,8).forEach(c=>{
+    const li=document.createElement('li');
+    li.innerHTML=`<a href="https://github.com/${DATA.repo}/commit/${c.sha}" target="_blank">${c.sha.slice(0,7)}</a> · ${c.msg}<div class="meta">${fmtLocal(c.t)} · ${fmtAgo(c.t)}</div>`;
+    rc.appendChild(li);
+  });
+  commits.slice(0,20).forEach(c=>{
+    const tr=document.createElement('tr');
+    tr.innerHTML=`<td><a href="https://github.com/${DATA.repo}/commit/${c.sha}" target="_blank">${c.sha.slice(0,7)}</a></td><td>${c.msg}</td><td style="color:var(--dim)" title="${c.t}">${fmtLocal(c.t)} · ${fmtAgo(c.t)}</td>`;
+    ct.appendChild(tr);
+  });
+  if(cc){
+    commits.slice(0,8).forEach(c=>{
+      const url=`https://github.com/${DATA.repo}/commit/${c.sha}`;
+      const card=document.createElement('a');
+      card.href=url; card.target='_blank';
+      card.style.cssText='display:block;background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:14px;text-decoration:none;color:var(--ink);transition:border-color .15s';
+      card.onmouseover=()=>card.style.borderColor='var(--mint)';
+      card.onmouseout=()=>card.style.borderColor='var(--line)';
+      const m=c.msg.match(/^([a-z-]+)(\(([a-z]+)\))?:/);
+      const kind=m?m[1]:'misc'; const tag=m&&m[3]?m[3].toUpperCase():'';
+      card.innerHTML=`<div style="display:flex;justify-content:space-between;align-items:center">
+        <span style="font-family:monospace;color:var(--mint);font-size:11px">${c.sha.slice(0,7)}</span>
+        <span style="color:var(--dim);font-size:11px">${fmtAgo(c.t)}</span>
+      </div>
+      <div style="margin-top:6px;font-size:13px;line-height:1.4">${c.msg}</div>
+      <div style="margin-top:10px"><span class="tag">${kind}</span>${tag?'<span class="tag ok">'+tag+'</span>':''}</div>`;
+      cc.appendChild(card);
+    });
+  }
+}
+renderCommits(DATA.recent_commits);
 
 // Backfill table — clickable links to blog + repo file
 const bf=document.getElementById('bf-table');
@@ -637,27 +674,73 @@ DATA.fb_posts.slice(0,8).forEach(p=>{
   bc.appendChild(card);
 });
 
-// Commit preview cards
-const cc=document.getElementById('commit-cards');
-DATA.recent_commits.slice(0,8).forEach(c=>{
-  const url=`https://github.com/${DATA.repo}/commit/${c.sha}`;
-  const card=document.createElement('a');
-  card.href=url; card.target='_blank';
-  card.style.cssText='display:block;background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:14px;text-decoration:none;color:var(--ink);transition:border-color .15s';
-  card.onmouseover=()=>card.style.borderColor='var(--mint)';
-  card.onmouseout=()=>card.style.borderColor='var(--line)';
-  // pick type from message prefix
-  const m=c.msg.match(/^([a-z-]+)(\(([a-z]+)\))?:/);
-  const kind=m?m[1]:'misc';
-  const tag=m&&m[3]?m[3].toUpperCase():'';
-  card.innerHTML=`<div style="display:flex;justify-content:space-between;align-items:center">
-      <span style="font-family:monospace;color:var(--mint);font-size:11px">${c.sha}</span>
-      <span style="color:var(--dim);font-size:11px">${c.t}</span>
-    </div>
-    <div style="margin-top:6px;font-size:13px;line-height:1.4">${c.msg}</div>
-    <div style="margin-top:10px"><span class="tag">${kind}</span>${tag?'<span class="tag ok">'+tag+'</span>':''}</div>`;
-  cc.appendChild(card);
-});
+// ---------- LIVE FETCH from GitHub API + raw action log ----------
+async function liveFetch(){
+  // Public-repo commits — unauth, 60/hr rate
+  try{
+    const r=await fetch(`${API_BASE}/commits?per_page=25`, {cache:"no-store"});
+    if(r.ok){
+      const commits=(await r.json()).map(c=>({
+        sha:c.sha,
+        msg:c.commit.message.split('\n')[0],
+        t:c.commit.author.date
+      }));
+      renderCommits(commits);
+      const latestTime=commits[0]?.t;
+      setText('last-tick','Times in '+TZ_LABEL+' · Synced: '+fmtLocal(new Date())+' · Latest commit: '+fmtAgo(latestTime));
+      // update KPI counts heuristically from commit count visible
+      // (real counts pulled from data.json below)
+    }
+  }catch(e){console.warn("commit fetch failed",e)}
+  // Sidecar data.json (counters)
+  try{
+    const r=await fetch(`${RAW_BASE}/dashboard/data.json?cb=`+Date.now(), {cache:"no-store"});
+    if(r.ok){
+      const d=await r.json();
+      if(d.counters){
+        Object.assign(DATA.counters,d.counters);
+        setText('kpi-repo',DATA.counters.repo_entries);
+        setText('kpi-fb',DATA.counters.fb_posted);
+        setText('kpi-vid',DATA.counters.videos_pushed);
+        setText('kpi-jur',DATA.counters.jurisdictions);
+        setText('ov-repo',DATA.counters.repo_entries);
+        setText('ov-jur',DATA.counters.jurisdictions);
+        setText('ov-fb',DATA.counters.fb_posted);
+        setText('ov-vid',DATA.counters.videos_pushed);
+        setText('ov-res',DATA.counters.research_entries);
+        setText('ov-echr',DATA.counters.echr_standalones);
+        setText('wk-jur',DATA.counters.jurisdictions);
+        setText('wk-res',DATA.counters.research_entries);
+      }
+    }
+  }catch(e){console.warn("data.json fetch failed",e)}
+  // Action log (raw file from repo)
+  try{
+    const r=await fetch(`${RAW_BASE}/dashboard/action-log.jsonl?cb=`+Date.now(), {cache:"no-store"});
+    if(r.ok){
+      const text=await r.text();
+      const items=text.trim().split('\n').filter(Boolean).map(l=>{try{return JSON.parse(l)}catch{return null}}).filter(Boolean).reverse();
+      setText('nav-log',items.length);
+      const view=document.getElementById('log-view');
+      view.innerHTML=items.map(i=>{
+        const cls=i.kind==='fb'?'info':i.kind==='commit'?'ok':i.kind==='err'?'err':'';
+        const link=i.sha?` <a href="https://github.com/${DATA.repo}/commit/${i.sha}" target="_blank" style="color:#7fb6ff">↗</a>`:i.id?` <a href="https://www.facebook.com/${i.id.split('_')[0]}/posts/${i.id.split('_')[1]||''}" target="_blank" style="color:#7fb6ff">↗</a>`:'';
+        return `<div><span class="ts">[${i.t}]</span> <span class="${cls}">${(i.kind||'-').toUpperCase()}</span> ${i.msg}${link}</div>`;
+      }).join('');
+      const ra=document.getElementById('recent-actions'); ra.innerHTML='';
+      items.slice(0,10).forEach(i=>{
+        const li=document.createElement('li');
+        let link='';
+        if(i.sha) link=` <a href="https://github.com/${DATA.repo}/commit/${i.sha}" target="_blank">view ↗</a>`;
+        else if(i.id){const parts=i.id.split('_');link=parts.length===2?` <a href="https://www.facebook.com/${parts[0]}/posts/${parts[1]}" target="_blank">view ↗</a>`:''}
+        li.innerHTML=`${i.msg}${link}<div class="meta">${i.t} · ${i.kind}</div>`;
+        ra.appendChild(li);
+      });
+    }
+  }catch(e){console.warn("action-log fetch failed",e)}
+}
+// Kick live fetch immediately
+liveFetch();
 
 // Recent actions feed (loads from log)
 async function loadLog(){
