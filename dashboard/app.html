@@ -1,0 +1,960 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>AntiAlienate Mission Control</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+:root{
+  --bg:#0b1428; --bg2:#0f1a36; --bg3:#13213f; --line:#1f3361;
+  --ink:#e9eef9; --dim:#9aa9c7; --gold:#e9c46a; --mint:#7ad3a8;
+  --rose:#f08a8a; --sky:#7fb6ff; --violet:#b89cff;
+}
+*{box-sizing:border-box;margin:0;padding:0}
+html,body{height:100%;background:var(--bg);color:var(--ink);
+  font:14px/1.45 -apple-system,BlinkMacSystemFont,"Inter","Segoe UI",sans-serif;
+  -webkit-font-smoothing:antialiased}
+a{color:var(--sky);text-decoration:none}
+a:hover{text-decoration:underline}
+
+#app{display:grid;grid-template-rows:56px 1fr;height:100vh}
+header{display:flex;align-items:center;gap:18px;padding:0 20px;
+  background:linear-gradient(180deg,#0d1733,#0b1428);
+  border-bottom:1px solid var(--line);position:relative;z-index:10}
+header h1{font-size:15px;font-weight:600;letter-spacing:.4px;color:#fff}
+header h1 .gold{color:var(--gold)}
+.dot{width:8px;height:8px;border-radius:50%;background:var(--mint);
+  box-shadow:0 0 8px var(--mint);animation:pulse 1.6s ease-in-out infinite}
+@keyframes pulse{0%,100%{opacity:.6}50%{opacity:1}}
+.kpis{display:flex;gap:14px;margin-left:auto;font-size:12px}
+.kpi{padding:6px 10px;background:var(--bg3);border:1px solid var(--line);border-radius:6px}
+.kpi b{color:var(--gold);font-weight:600}
+.last-tick{color:var(--dim);font-size:11px;margin-left:8px}
+
+main{display:grid;grid-template-columns:200px 1fr;overflow:hidden}
+nav{background:var(--bg2);border-right:1px solid var(--line);padding:14px 0;overflow:auto}
+nav .group{padding:0 14px 6px;color:var(--dim);font-size:10.5px;
+  letter-spacing:1.2px;text-transform:uppercase;margin-top:10px}
+nav button{display:block;width:100%;text-align:left;padding:9px 14px;
+  background:none;border:0;color:var(--ink);font:inherit;cursor:pointer;
+  border-left:3px solid transparent;font-size:13px}
+nav button:hover{background:var(--bg3)}
+nav button.active{background:var(--bg3);border-left-color:var(--gold);color:#fff}
+nav button .count{float:right;color:var(--dim);font-size:11px}
+
+section.view{padding:18px 22px;overflow:auto;display:none}
+section.view.active{display:block}
+section.view.fullbleed{padding:0;overflow:hidden;position:relative}
+
+h2{font-size:18px;font-weight:600;margin-bottom:14px;color:#fff}
+h3{font-size:13px;font-weight:600;color:var(--dim);
+  letter-spacing:.6px;text-transform:uppercase;margin:18px 0 8px}
+
+.cards{display:grid;grid-template-columns:repeat(auto-fill,minmax(220px,1fr));gap:12px}
+.card{background:var(--bg2);border:1px solid var(--line);border-radius:8px;
+  padding:14px 16px}
+.card .label{color:var(--dim);font-size:11px;text-transform:uppercase;letter-spacing:.6px}
+.card .num{font-size:28px;font-weight:600;color:#fff;margin-top:6px}
+.card .num .gold{color:var(--gold)}
+.card .sub{color:var(--dim);font-size:12px;margin-top:4px}
+
+table{width:100%;border-collapse:collapse;font-size:13px}
+table th,table td{padding:8px 10px;text-align:left;border-bottom:1px solid var(--line)}
+table th{color:var(--dim);font-size:11px;text-transform:uppercase;letter-spacing:.6px;font-weight:500}
+table tbody tr:hover{background:var(--bg3)}
+.tag{display:inline-block;padding:2px 7px;border-radius:4px;font-size:11px;
+  background:var(--bg3);border:1px solid var(--line);color:var(--dim);margin-right:4px}
+.tag.ok{color:var(--mint);border-color:#1f4e3a}
+.tag.warn{color:var(--gold);border-color:#574418}
+.tag.live{color:var(--rose);border-color:#5c2929;animation:pulse 1.6s ease-in-out infinite}
+
+.log{font:12px/1.55 "SF Mono","Menlo",monospace;background:#070d1c;
+  padding:14px;border-radius:8px;border:1px solid var(--line);
+  max-height:calc(100vh - 200px);overflow:auto;white-space:pre-wrap}
+.log .ts{color:var(--dim)}
+.log .ok{color:var(--mint)}
+.log .warn{color:var(--gold)}
+.log .err{color:var(--rose)}
+.log .info{color:var(--sky)}
+
+/* Knowledge graph */
+#graph-host{position:absolute;inset:0;background:
+  radial-gradient(ellipse at center,#0f1a36 0%,#0b1428 70%)}
+#graph{width:100%;height:100%;display:block;cursor:grab}
+#graph:active{cursor:grabbing}
+.graph-overlay{position:absolute;top:14px;left:14px;background:rgba(13,23,51,.86);
+  border:1px solid var(--line);border-radius:8px;padding:12px 14px;
+  font-size:12px;max-width:300px;backdrop-filter:blur(6px)}
+.graph-overlay h4{font-size:13px;margin-bottom:6px;color:#fff}
+.graph-overlay .legend{display:flex;flex-wrap:wrap;gap:6px;margin-top:8px}
+.graph-overlay .legend span{padding:2px 7px;border-radius:4px;font-size:10.5px;color:#fff}
+.graph-overlay .hint{color:var(--dim);font-size:11px;margin-top:8px}
+.graph-tooltip{position:absolute;background:rgba(13,23,51,.95);
+  border:1px solid var(--gold);border-radius:6px;padding:8px 10px;font-size:12px;
+  pointer-events:none;display:none;max-width:280px;z-index:20}
+.graph-tooltip b{color:var(--gold)}
+.graph-controls{position:absolute;top:14px;right:14px;display:flex;gap:6px}
+.graph-controls button{background:rgba(13,23,51,.86);border:1px solid var(--line);
+  color:var(--ink);padding:6px 10px;border-radius:6px;cursor:pointer;font-size:12px}
+.graph-controls button:hover{background:var(--bg3)}
+
+ul.feed{list-style:none}
+ul.feed li{padding:10px 0;border-bottom:1px solid var(--line);font-size:13px}
+ul.feed li .meta{color:var(--dim);font-size:11px;margin-top:2px}
+
+.section-row{display:grid;grid-template-columns:1fr 1fr;gap:18px;margin-top:14px}
+@media (max-width:1100px){.section-row{grid-template-columns:1fr}}
+
+.bar{height:8px;background:var(--bg3);border-radius:4px;overflow:hidden;margin-top:6px}
+.bar > i{display:block;height:100%;background:linear-gradient(90deg,var(--mint),var(--gold));border-radius:4px}
+</style>
+</head>
+<body>
+<div id="app">
+
+<header>
+  <span class="dot"></span>
+  <h1>AntiAlienate <span class="gold">Mission Control</span></h1>
+  <span class="last-tick" id="last-tick">—</span>
+  <div class="kpis">
+    <div class="kpi">Repo entries <b id="kpi-repo">…</b></div>
+    <div class="kpi">FB posted <b id="kpi-fb">…</b></div>
+    <div class="kpi">Videos pushed <b id="kpi-vid">…</b></div>
+    <div class="kpi">Jurisdictions <b id="kpi-jur">…</b></div>
+  </div>
+</header>
+
+<main>
+  <nav>
+    <div class="group">Mission</div>
+    <button class="active" data-view="overview">Overview</button>
+    <button data-view="graph">Knowledge Graph</button>
+    <button data-view="log">Action Log <span class="count" id="nav-log">—</span></button>
+
+    <div class="group">Workstreams</div>
+    <button data-view="backfill">Backfill <span class="count" id="nav-bf">—</span></button>
+    <button data-view="wiki">Wiki + Case Law <span class="count" id="nav-wiki">—</span></button>
+    <button data-view="videos">Alan Videos <span class="count" id="nav-vid">—</span></button>
+    <button data-view="fb">Facebook Queue <span class="count" id="nav-fb">—</span></button>
+
+    <div class="group">Reference</div>
+    <button data-view="commits">Live Commits</button>
+    <button data-view="quotas">Quotas + Health</button>
+    <button data-view="mission">Mission Brief</button>
+  </nav>
+
+  <!-- OVERVIEW -->
+  <section class="view active" id="view-overview">
+    <h2>Mission Overview</h2>
+    <div class="cards">
+      <div class="card"><div class="label">Repo entries</div><div class="num" id="ov-repo">…</div><div class="sub">AntiAlienate/antialienate-knowledge</div></div>
+      <div class="card"><div class="label">Jurisdictions covered</div><div class="num" id="ov-jur">…</div><div class="sub">global case-law + statutes</div></div>
+      <div class="card"><div class="label">FB posts shipped</div><div class="num" id="ov-fb">…</div><div class="sub">1/hour rate-limited</div></div>
+      <div class="card"><div class="label">Videos pushed</div><div class="num" id="ov-vid">…</div><div class="sub">Alan Markson, HeyGen vertical 1080×1920</div></div>
+      <div class="card"><div class="label">Research entries</div><div class="num" id="ov-res">…</div><div class="sub">peer-reviewed citations</div></div>
+      <div class="card"><div class="label">ECHR cluster</div><div class="num gold" id="ov-echr">…</div><div class="sub">Strand Lobben → Pedersen line</div></div>
+    </div>
+
+    <div class="section-row">
+      <div>
+        <h3>Recent commits</h3>
+        <ul class="feed" id="recent-commits"><li class="meta">loading…</li></ul>
+      </div>
+      <div>
+        <h3>Recent actions</h3>
+        <ul class="feed" id="recent-actions"><li class="meta">loading…</li></ul>
+      </div>
+    </div>
+
+    <h3 style="margin-top:24px">Recent Facebook posts <span class="tag live">EMBEDDED</span></h3>
+    <div style="color:var(--dim);font-size:12px;margin-bottom:10px">Live FB embeds — click any post to open on Facebook.</div>
+    <div id="fb-embeds" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(380px,1fr));gap:14px"></div>
+
+    <h3 style="margin-top:24px">Recent blog posts</h3>
+    <div style="color:var(--dim);font-size:12px;margin-bottom:10px">Quick-look cards for the latest blog posts shipped to Facebook. Click to read.</div>
+    <div id="blog-cards" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:14px"></div>
+
+    <h3 style="margin-top:24px">Recent commit previews</h3>
+    <div style="color:var(--dim);font-size:12px;margin-bottom:10px">Each card links to the commit diff on GitHub.</div>
+    <div id="commit-cards" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:12px"></div>
+  </section>
+
+  <!-- KNOWLEDGE GRAPH (FULL BLEED) -->
+  <section class="view fullbleed" id="view-graph">
+    <div id="graph-host">
+      <canvas id="graph"></canvas>
+      <div class="graph-overlay">
+        <h4>PA Knowledge Graph</h4>
+        <div>Force-directed map of the AntiAlienate knowledge base.<br>
+        Nodes are jurisdictions, statutes, instruments, research and clinical anchors. Edges show citation, succession, treaty and doctrinal links.</div>
+        <div class="legend">
+          <span style="background:#e9c46a;color:#0b1428">jurisdiction</span>
+          <span style="background:#7ad3a8;color:#0b1428">statute</span>
+          <span style="background:#7fb6ff;color:#0b1428">case</span>
+          <span style="background:#b89cff;color:#0b1428">research</span>
+          <span style="background:#f08a8a;color:#0b1428">treaty</span>
+        </div>
+        <div class="hint">Drag nodes · scroll to zoom · drag empty space to pan</div>
+      </div>
+      <div class="graph-controls">
+        <button id="g-fit">Fit</button>
+        <button id="g-reseed">Re-seed</button>
+        <button id="g-pause">Pause</button>
+      </div>
+      <div class="graph-tooltip" id="g-tip"></div>
+    </div>
+  </section>
+
+  <!-- LOG -->
+  <section class="view" id="view-log">
+    <h2>Action Log <span class="tag live">LIVE</span></h2>
+    <div style="color:var(--dim);font-size:12px;margin-bottom:10px">
+      Every commit, FB post, video push and queue update appended in order. Source: <code>/tmp/.aa-secrets/action-log.jsonl</code>
+    </div>
+    <div class="log" id="log-view">loading…</div>
+  </section>
+
+  <!-- BACKFILL -->
+  <section class="view" id="view-backfill">
+    <h2>Backfill — Vault → Repo</h2>
+    <div class="cards" style="margin-bottom:14px">
+      <div class="card"><div class="label">Migrated</div><div class="num gold">30 / 65</div><div class="sub">posts in AntiAlienate/antialienate-knowledge/posts</div><div class="bar"><i style="width:46%"></i></div></div>
+      <div class="card"><div class="label">Pending</div><div class="num">35</div><div class="sub">highest-leverage next</div></div>
+      <div class="card"><div class="label">Last push</div><div class="num" style="font-size:14px;line-height:1.5"><span id="bf-last">—</span></div></div>
+    </div>
+    <table>
+      <thead><tr><th>#</th><th>Slug · click to read on antialienate.com</th><th>Repo</th><th>Status</th></tr></thead>
+      <tbody id="bf-table"></tbody>
+    </table>
+  </section>
+
+  <!-- WIKI / CASE LAW -->
+  <section class="view" id="view-wiki">
+    <h2>Wiki + Case Law</h2>
+    <div class="cards" style="margin-bottom:14px">
+      <div class="card"><div class="label">Jurisdictions</div><div class="num gold" id="wk-jur">…</div></div>
+      <div class="card"><div class="label">ECHR standalones</div><div class="num">7</div><div class="sub">Strand Lobben, Improta, Solarino, Bondavalli, Ignaccolo-Zenide, Sahin-Sommerfeld, Pedersen</div></div>
+      <div class="card"><div class="label">Research entries</div><div class="num" id="wk-res">…</div></div>
+      <div class="card"><div class="label">Clinical entries</div><div class="num">3+</div></div>
+    </div>
+    <h3>Jurisdiction coverage</h3>
+    <div id="jur-grid" style="display:grid;grid-template-columns:repeat(auto-fill,minmax(160px,1fr));gap:6px;font-size:12px"></div>
+  </section>
+
+  <!-- VIDEOS -->
+  <section class="view" id="view-videos">
+    <h2>Alan Videos</h2>
+    <div style="color:var(--dim);font-size:12px;margin-bottom:14px">
+      HeyGen avatar <code>312eee49…</code> · voice <code>4anpdVqY…</code> · vertical 1080×1920 · navy bg <code>#0b1428</code> · captions on.
+      Currently <b>paused</b> per Adam directive (credit conservation). Quota ~3877.
+    </div>
+    <table>
+      <thead><tr><th>#</th><th>File · click to play</th><th>Size</th><th>Modified</th><th>Links</th></tr></thead>
+      <tbody id="vid-table"></tbody>
+    </table>
+  </section>
+
+  <!-- FB -->
+  <section class="view" id="view-fb">
+    <h2>Facebook Queue</h2>
+    <div class="cards" style="margin-bottom:14px">
+      <div class="card"><div class="label">Posted</div><div class="num gold" id="fb-posted">…</div><div class="sub">verified slugs, 1/hour cap</div></div>
+      <div class="card"><div class="label">Last post</div><div class="num" style="font-size:14px;line-height:1.5" id="fb-last">—</div></div>
+      <div class="card"><div class="label">Next eligible</div><div class="num" style="font-size:14px;line-height:1.5" id="fb-next">—</div></div>
+      <div class="card"><div class="label">Page</div><div class="num" style="font-size:14px;line-height:1.5"><a href="https://www.facebook.com/AntiAlienate" target="_blank">@AntiAlienate ↗</a></div></div>
+    </div>
+    <h3>Posting log</h3>
+    <table><thead><tr><th>#</th><th>Blog post (click to read)</th><th>FB post (click to view)</th><th>Time</th></tr></thead><tbody id="fb-table"></tbody></table>
+  </section>
+
+  <!-- LIVE COMMITS -->
+  <section class="view" id="view-commits">
+    <h2>Live Commits — AntiAlienate/antialienate-knowledge</h2>
+    <div style="color:var(--dim);font-size:12px;margin-bottom:10px">
+      Most recent commits on <code>main</code>. Click SHA to open on GitHub.
+    </div>
+    <table><thead><tr><th>SHA</th><th>Message</th><th>Time</th></tr></thead><tbody id="commits-table"></tbody></table>
+  </section>
+
+  <!-- QUOTAS -->
+  <section class="view" id="view-quotas">
+    <h2>Quotas + Health</h2>
+    <div class="cards">
+      <div class="card"><div class="label">HeyGen credits</div><div class="num gold">3877</div><div class="sub">videos paused; cap unused</div></div>
+      <div class="card"><div class="label">FB Page Token</div><div class="num" style="font-size:14px;color:var(--mint)">VALID · never expires</div></div>
+      <div class="card"><div class="label">Gemini image gen</div><div class="num" style="font-size:14px">POC succeeded</div><div class="sub">1MB PNG · 10s for hero #70</div></div>
+      <div class="card"><div class="label">Cron expiry</div><div class="num" style="font-size:14px">~7 days</div><div class="sub">auto-renew on each /loop tick</div></div>
+    </div>
+  </section>
+
+  <!-- MISSION -->
+  <section class="view" id="view-mission">
+    <h2>Mission Brief</h2>
+    <div style="max-width:760px;line-height:1.7;color:var(--ink)">
+      <p><b>Target:</b> 100,000 visitors / day to antialienate.com.</p>
+      <p><b>Vectors:</b></p>
+      <ol style="padding-left:22px;margin:8px 0 14px">
+        <li><b>BACKFILL</b> — migrate 65 vault posts → repo-formatted markdown with TL;DR, H2/H3 sections, citations, source-blog hyperlinks, Alan Markson byline, CC BY 4.0 footer.</li>
+        <li><b>WIKI ENRICHMENT</b> — 3–4 new wiki entries per loop tick into <code>/case-law/</code>, <code>/research/</code>, <code>/clinical/</code>, <code>/statutes/</code> with YAML frontmatter and citing-posts tables linking back to blog URLs.</li>
+        <li><b>ALAN VIDEOS</b> — HeyGen vertical scripts; <span class="tag warn">paused</span> per directive.</li>
+        <li><b>NEW CASE LAW</b> — actively scan 2024–2026 ECHR, Belgian Cour de cassation, French, German BGH, Spanish, AU Federal Circuit & Family Court.</li>
+        <li><b>STATUS</b> — update this dashboard, queue, fleet publish event with everything pushed.</li>
+      </ol>
+      <p><b>Hard rules:</b> never POST/PUT/DELETE against antialienate.com. Always Alan Markson byline. Use <code>$(cat /tmp/.aa-secrets/...)</code> — never echo literals.</p>
+      <p><b>Stop criteria:</b> only when Adam says stop, or cron auto-expires after 7 days.</p>
+    </div>
+  </section>
+
+</main>
+</div>
+
+<script>
+// ---------- Embedded data (refresh by re-generating dashboard) ----------
+const DATA = {
+  generated: new Date().toISOString(),
+  repo: "AntiAlienate/antialienate-knowledge",
+  counters: {
+    repo_entries: 82,
+    jurisdictions: 82,
+    fb_posted: 79,
+    videos_pushed: 30,
+    research_entries: 12,
+    echr_standalones: 7
+  },
+  recent_commits: [
+    {sha:"59fddc7", msg:"research: Harman & Lorandos 2023 meta-analysis — empirical base for PA recognition", t:"2026-05-18 11:02"},
+    {sha:"7ff946d", msg:"case-law(sa): Saudi Arabia Personal Status Law 2022 (first codified family law) + Hanbali hadana", t:"2026-05-18 11:01"},
+    {sha:"3fe0e28", msg:"case-law(ke): Kenya Children's Act 2022 + Marriage Act 2014 + East African common-law leader", t:"2026-05-18 11:01"},
+    {sha:"cc16c87", msg:"case-law(id): Indonesia Marriage Law 1974 + Child Protection Law 2002 + Compilation of Islamic Law", t:"2026-05-18 11:00"},
+    {sha:"cf530b4", msg:"case-law(vn): Vietnam Law on Marriage and Family 2014 + Civil Code 2015 — socialist-civil framework", t:"2026-05-18 10:59"},
+    {sha:"d0ad9c2", msg:"case-law(pk): Pakistan Guardians and Wards Act 1890 + Family Courts Act 1964 + Hanafi hadana", t:"2026-05-18 10:59"},
+    {sha:"167a495", msg:"case-law(ng): Nigeria Matrimonial Causes Act 1970 + Child's Rights Act 2003 + tripartite system", t:"2026-05-18 10:58"},
+    {sha:"d8f5f60", msg:"case-law(ly): Libya Marriage and Divorce Law 1984 + post-2011 instability context", t:"2026-05-18 08:58"},
+    {sha:"d674ffb", msg:"case-law(dz): Algeria Code de la Famille 1984 + 2005 ordonnance amendments", t:"2026-05-18 08:30"},
+    {sha:"2c8794a", msg:"case-law(tn): Tunisia Personal Status Code 1956 (Bourguiba reform)", t:"2026-05-18 07:55"},
+    {sha:"4bab34b", msg:"case-law(et): Ethiopia Revised Family Code 2000 + federal regional framework", t:"2026-05-18 07:20"},
+    {sha:"73d4b1c", msg:"case-law(ir): Iran Family Protection Law 2013 + Shia jurisprudence + non-Hague", t:"2026-05-18 06:45"},
+    {sha:"eb1de8f", msg:"case-law(ma): Morocco Moudawana 2004 Family Code reform", t:"2026-05-18 06:10"},
+    {sha:"587e8f8", msg:"case-law(bd): Bangladesh Family Courts Ordinance 1985 + religious personal laws", t:"2026-05-18 05:35"},
+    {sha:"39e09d4", msg:"case-law(gh): Ghana Children's Act 1998 + Matrimonial Causes Act 1971", t:"2026-05-18 05:00"}
+  ],
+  backfill_posts: [
+    {n:1,slug:"never-say-pa-in-court",ok:true},
+    {n:2,slug:"is-parental-alienation-recognized-disorder",ok:true},
+    {n:4,slug:"20-parental-alienation-strategies",ok:true},
+    {n:13,slug:"echr-article-8-parental-alienation-stack",ok:true},
+    {n:14,slug:"belgium-equal-custody-paradise",ok:true},
+    {n:16,slug:"estrangement-vs-alienation",ok:true},
+    {n:17,slug:"pa-vs-estrangement-courts",ok:true},
+    {n:19,slug:"custody-evaluators-prepare",ok:true},
+    {n:20,slug:"document-pa-complete-evidence-guide",ok:true},
+    {n:21,slug:"prove-psychological-damage",ok:true},
+    {n:46,slug:"...",ok:true}, {n:47,slug:"...",ok:true}, {n:48,slug:"...",ok:true},
+    {n:49,slug:"...",ok:true}, {n:50,slug:"...",ok:true}, {n:51,slug:"...",ok:true},
+    {n:52,slug:"...",ok:true}, {n:53,slug:"...",ok:true}, {n:54,slug:"...",ok:true},
+    {n:55,slug:"...",ok:true}, {n:56,slug:"...",ok:true}, {n:57,slug:"...",ok:true},
+    {n:58,slug:"...",ok:true}, {n:59,slug:"...",ok:true}, {n:60,slug:"...",ok:true},
+    {n:61,slug:"...",ok:true}, {n:62,slug:"...",ok:true}, {n:63,slug:"...",ok:true},
+    {n:64,slug:"...",ok:true}, {n:65,slug:"...",ok:true}
+  ],
+  jurisdictions: [
+    "🇧🇪 Belgium","🇫🇷 France","🇩🇪 Germany","🇮🇹 Italy","🇪🇸 Spain","🇵🇹 Portugal",
+    "🇳🇱 Netherlands","🇨🇭 Switzerland","🇦🇹 Austria","🇸🇪 Sweden","🇳🇴 Norway","🇩🇰 Denmark",
+    "🇫🇮 Finland","🇮🇸 Iceland","🇮🇪 Ireland","🇬🇧 UK","🇵🇱 Poland","🇨🇿 Czechia",
+    "🇸🇰 Slovakia","🇭🇺 Hungary","🇷🇴 Romania","🇧🇬 Bulgaria","🇬🇷 Greece","🇭🇷 Croatia",
+    "🇸🇮 Slovenia","🇷🇸 Serbia","🇲🇪 Montenegro","🇲🇰 N. Macedonia","🇦🇱 Albania","🇲🇹 Malta",
+    "🇨🇾 Cyprus","🇪🇪 Estonia","🇱🇻 Latvia","🇱🇹 Lithuania","🇺🇦 Ukraine","🇷🇺 Russia",
+    "🇹🇷 Türkiye","🇮🇱 Israel","🇸🇦 Saudi Arabia","🇦🇪 UAE","🇶🇦 Qatar","🇪🇬 Egypt",
+    "🇲🇦 Morocco","🇹🇳 Tunisia","🇩🇿 Algeria","🇱🇾 Libya","🇪🇹 Ethiopia","🇰🇪 Kenya",
+    "🇳🇬 Nigeria","🇬🇭 Ghana","🇿🇦 South Africa","🇮🇷 Iran","🇵🇰 Pakistan","🇮🇳 India",
+    "🇧🇩 Bangladesh","🇱🇰 Sri Lanka","🇹🇭 Thailand","🇻🇳 Vietnam","🇵🇭 Philippines","🇮🇩 Indonesia",
+    "🇲🇾 Malaysia","🇸🇬 Singapore","🇨🇳 China","🇭🇰 Hong Kong","🇹🇼 Taiwan","🇯🇵 Japan",
+    "🇰🇷 Korea","🇦🇺 Australia","🇳🇿 New Zealand","🇨🇦 Canada","🇺🇸 USA","🇲🇽 Mexico",
+    "🇧🇷 Brazil","🇦🇷 Argentina","🇨🇱 Chile","🇨🇴 Colombia","🇵🇪 Peru","🇻🇪 Venezuela",
+    "🇺🇾 Uruguay","🇪🇨 Ecuador","🇨🇷 Costa Rica","🇨🇺 Cuba"
+  ],
+  fb_posts: [
+    {n:79,slug:"weaponized-therapy-parental-alienation",id:"1066259219910194_122102668623292114",t:"2026-05-18 10:55"},
+    {n:78,slug:"co-parenting-with-an-alienator-survival-strategies",id:"1066259219910194_122102667315292114",t:"2026-05-18 09:55"},
+    {n:77,slug:"narcissistic-personality-disorder-parental-alienation-connection",id:"1066259219910194_122102666241292114",t:"2026-05-18 08:55"},
+    {n:75,slug:"parental-alienation-belgium-complete-legal-guide",id:"1066259219910194_122102663319292114",t:"2026-05-18 06:55"}
+  ]
+};
+
+// ---------- Graph data ----------
+// Nodes: code, label, type (jurisdiction|statute|case|research|treaty), region
+const GRAPH = {
+  nodes:[
+    {id:"hague80",label:"Hague 1980",type:"treaty"},
+    {id:"hague96",label:"Hague 1996",type:"treaty"},
+    {id:"bruss2b",label:"Brussels IIb",type:"treaty"},
+    {id:"echr8",label:"ECHR Art 8",type:"treaty"},
+    {id:"uncrc",label:"UN CRC",type:"treaty"},
+
+    {id:"be",label:"🇧🇪 Belgium",type:"jurisdiction"},
+    {id:"fr",label:"🇫🇷 France",type:"jurisdiction"},
+    {id:"de",label:"🇩🇪 Germany",type:"jurisdiction"},
+    {id:"it",label:"🇮🇹 Italy",type:"jurisdiction"},
+    {id:"es",label:"🇪🇸 Spain",type:"jurisdiction"},
+    {id:"uk",label:"🇬🇧 UK",type:"jurisdiction"},
+    {id:"ie",label:"🇮🇪 Ireland",type:"jurisdiction"},
+    {id:"nl",label:"🇳🇱 Netherlands",type:"jurisdiction"},
+    {id:"pt",label:"🇵🇹 Portugal",type:"jurisdiction"},
+    {id:"us",label:"🇺🇸 USA",type:"jurisdiction"},
+    {id:"ca",label:"🇨🇦 Canada",type:"jurisdiction"},
+    {id:"au",label:"🇦🇺 Australia",type:"jurisdiction"},
+    {id:"nz",label:"🇳🇿 NZ",type:"jurisdiction"},
+    {id:"za",label:"🇿🇦 SA",type:"jurisdiction"},
+    {id:"br",label:"🇧🇷 Brazil",type:"jurisdiction"},
+    {id:"mx",label:"🇲🇽 Mexico",type:"jurisdiction"},
+    {id:"ng",label:"🇳🇬 Nigeria",type:"jurisdiction"},
+    {id:"ke",label:"🇰🇪 Kenya",type:"jurisdiction"},
+    {id:"gh",label:"🇬🇭 Ghana",type:"jurisdiction"},
+    {id:"ma",label:"🇲🇦 Morocco",type:"jurisdiction"},
+    {id:"tn",label:"🇹🇳 Tunisia",type:"jurisdiction"},
+    {id:"dz",label:"🇩🇿 Algeria",type:"jurisdiction"},
+    {id:"ly",label:"🇱🇾 Libya",type:"jurisdiction"},
+    {id:"et",label:"🇪🇹 Ethiopia",type:"jurisdiction"},
+    {id:"eg",label:"🇪🇬 Egypt",type:"jurisdiction"},
+    {id:"sa",label:"🇸🇦 KSA",type:"jurisdiction"},
+    {id:"ae",label:"🇦🇪 UAE",type:"jurisdiction"},
+    {id:"ir",label:"🇮🇷 Iran",type:"jurisdiction"},
+    {id:"in",label:"🇮🇳 India",type:"jurisdiction"},
+    {id:"pk",label:"🇵🇰 Pakistan",type:"jurisdiction"},
+    {id:"bd",label:"🇧🇩 Bangladesh",type:"jurisdiction"},
+    {id:"id",label:"🇮🇩 Indonesia",type:"jurisdiction"},
+    {id:"vn",label:"🇻🇳 Vietnam",type:"jurisdiction"},
+    {id:"th",label:"🇹🇭 Thailand",type:"jurisdiction"},
+    {id:"ph",label:"🇵🇭 Philippines",type:"jurisdiction"},
+    {id:"my",label:"🇲🇾 Malaysia",type:"jurisdiction"},
+    {id:"sg",label:"🇸🇬 Singapore",type:"jurisdiction"},
+    {id:"jp",label:"🇯🇵 Japan",type:"jurisdiction"},
+    {id:"kr",label:"🇰🇷 Korea",type:"jurisdiction"},
+    {id:"tw",label:"🇹🇼 Taiwan",type:"jurisdiction"},
+    {id:"ru",label:"🇷🇺 Russia",type:"jurisdiction"},
+
+    {id:"strand",label:"Strand Lobben v NO",type:"case"},
+    {id:"improta",label:"Improta v IT",type:"case"},
+    {id:"solarino",label:"Solarino v IT",type:"case"},
+    {id:"bond",label:"Bondavalli v IT",type:"case"},
+    {id:"ignaccolo",label:"Ignaccolo-Zenide v RO",type:"case"},
+    {id:"sahin",label:"Sahin / Sommerfeld v DE",type:"case"},
+    {id:"pedersen",label:"Pedersen v NO",type:"case"},
+    {id:"rec23",label:"Re C [2023] UK",type:"case"},
+    {id:"penal432",label:"Belgian Penal Code 432",type:"statute"},
+    {id:"mouda",label:"Moudawana 2004 MA",type:"statute"},
+    {id:"psl22",label:"KSA Personal Status 2022",type:"statute"},
+    {id:"ifpa13",label:"Iran Family Protection 2013",type:"statute"},
+    {id:"khi91",label:"Indonesia Compilation of Islamic Law",type:"statute"},
+    {id:"kid22",label:"Kenya Children's Act 2022",type:"statute"},
+    {id:"chra03",label:"Nigeria Child's Rights Act 2003",type:"statute"},
+    {id:"gwa1890",label:"Pakistan GWA 1890",type:"statute"},
+
+    {id:"baker",label:"Baker (2007–2016)",type:"research"},
+    {id:"bernet",label:"Bernet (2008–2020)",type:"research"},
+    {id:"harman18",label:"Harman/Kruk/Hines 2018",type:"research"},
+    {id:"harman23",label:"Harman/Lorandos 2023",type:"research"},
+    {id:"warshak",label:"Warshak",type:"research"},
+    {id:"saini",label:"Polak & Saini 2015",type:"research"}
+  ],
+  edges:[
+    // treaty membership
+    ["be","hague80"],["fr","hague80"],["de","hague80"],["it","hague80"],["es","hague80"],
+    ["uk","hague80"],["ie","hague80"],["nl","hague80"],["pt","hague80"],["us","hague80"],
+    ["ca","hague80"],["au","hague80"],["nz","hague80"],["za","hague80"],["br","hague80"],
+    ["mx","hague80"],["ke","hague80"],["ma","hague80"],["tn","hague80"],["vn","hague80"],
+    ["jp","hague80"],["kr","hague80"],["sg","hague80"],["th","hague80"],["ru","hague80"],
+    // Brussels IIb (EU)
+    ["be","bruss2b"],["fr","bruss2b"],["de","bruss2b"],["it","bruss2b"],["es","bruss2b"],
+    ["nl","bruss2b"],["pt","bruss2b"],["ie","bruss2b"],
+    // ECHR jurisdiction
+    ["be","echr8"],["fr","echr8"],["de","echr8"],["it","echr8"],["es","echr8"],["uk","echr8"],
+    ["ie","echr8"],["nl","echr8"],["pt","echr8"],
+    // CRC universal
+    ["uncrc","hague96"],["uncrc","echr8"],
+    // ECHR case lineage
+    ["strand","echr8"],["improta","echr8"],["solarino","echr8"],["bond","echr8"],
+    ["ignaccolo","echr8"],["sahin","echr8"],["pedersen","echr8"],
+    ["improta","it"],["solarino","it"],["bond","it"],
+    ["sahin","de"],["pedersen","ie"], // pedersen citing line
+    ["rec23","uk"],
+    ["penal432","be"],
+    ["mouda","ma"],["psl22","sa"],["ifpa13","ir"],["khi91","id"],
+    ["kid22","ke"],["chra03","ng"],["gwa1890","pk"],
+    // research nodes
+    ["baker","echr8"],["bernet","echr8"],["harman18","echr8"],["harman23","echr8"],
+    ["warshak","baker"],["saini","baker"],["harman23","harman18"],
+    ["bernet","baker"],["bernet","warshak"],
+    // diaspora link clusters
+    ["ng","uk"],["ng","us"],["pk","uk"],["pk","sa"],["in","uk"],["in","us"],
+    ["bd","uk"],["id","nl"],["vn","fr"],["vn","au"],["ph","us"],["ma","fr"],
+    ["dz","fr"],["tn","fr"],["ly","it"],["et","us"],["ke","uk"]
+  ]
+};
+
+// ---------- View routing ----------
+const buttons=document.querySelectorAll('nav button');
+buttons.forEach(b=>b.addEventListener('click',()=>{
+  buttons.forEach(x=>x.classList.remove('active'));
+  document.querySelectorAll('section.view').forEach(s=>s.classList.remove('active'));
+  b.classList.add('active');
+  const v=document.getElementById('view-'+b.dataset.view);
+  if(v){v.classList.add('active'); if(b.dataset.view==='graph'){resizeGraph();}}
+}));
+
+// ---------- Render ----------
+function setText(id,v){const el=document.getElementById(id);if(el)el.textContent=v}
+setText('kpi-repo',DATA.counters.repo_entries);
+setText('kpi-fb',DATA.counters.fb_posted);
+setText('kpi-vid',DATA.counters.videos_pushed);
+setText('kpi-jur',DATA.counters.jurisdictions);
+setText('ov-repo',DATA.counters.repo_entries);
+setText('ov-jur',DATA.counters.jurisdictions);
+setText('ov-fb',DATA.counters.fb_posted);
+setText('ov-vid',DATA.counters.videos_pushed);
+setText('ov-res',DATA.counters.research_entries);
+setText('ov-echr',DATA.counters.echr_standalones);
+setText('wk-jur',DATA.counters.jurisdictions);
+setText('wk-res',DATA.counters.research_entries);
+setText('last-tick','Snapshot: '+new Date(DATA.generated).toLocaleString());
+
+setText('nav-bf',DATA.backfill_posts.length+' / 65');
+setText('nav-wiki',DATA.counters.jurisdictions);
+setText('nav-vid',DATA.counters.videos_pushed);
+setText('nav-fb',DATA.counters.fb_posted);
+
+// Recent commits panels
+const rc=document.getElementById('recent-commits');
+rc.innerHTML='';
+DATA.recent_commits.slice(0,8).forEach(c=>{
+  const li=document.createElement('li');
+  li.innerHTML=`<a href="https://github.com/${DATA.repo}/commit/${c.sha}" target="_blank">${c.sha}</a> · ${c.msg}<div class="meta">${c.t}</div>`;
+  rc.appendChild(li);
+});
+const ct=document.getElementById('commits-table');
+DATA.recent_commits.forEach(c=>{
+  const tr=document.createElement('tr');
+  tr.innerHTML=`<td><a href="https://github.com/${DATA.repo}/commit/${c.sha}" target="_blank">${c.sha}</a></td><td>${c.msg}</td><td style="color:var(--dim)">${c.t}</td>`;
+  ct.appendChild(tr);
+});
+
+// Backfill table — clickable links to blog + repo file
+const bf=document.getElementById('bf-table');
+DATA.backfill_posts.forEach(p=>{
+  const tr=document.createElement('tr');
+  const blogLink=p.slug==='...'?'':`<a href="https://www.antialienate.com/blog/${p.slug}" target="_blank">${p.slug} ↗</a>`;
+  const repoLink=p.slug==='...'?'':`<a href="https://github.com/${DATA.repo}/tree/main/posts" target="_blank">repo ↗</a>`;
+  tr.innerHTML=`<td>${p.n}</td><td>${blogLink||p.slug}</td><td>${repoLink}</td><td><span class="tag ok">migrated</span></td>`;
+  bf.appendChild(tr);
+});
+setText('bf-last',DATA.recent_commits[0].msg+' — '+DATA.recent_commits[0].t);
+
+// Jurisdiction grid — each tile links to the case-law folder on GitHub
+const JUR_CODES={
+  "🇧🇪 Belgium":"belgium","🇫🇷 France":"france","🇩🇪 Germany":"germany","🇮🇹 Italy":"italy",
+  "🇪🇸 Spain":"spain","🇵🇹 Portugal":"portugal","🇳🇱 Netherlands":"netherlands","🇨🇭 Switzerland":"switzerland",
+  "🇦🇹 Austria":"austria","🇸🇪 Sweden":"sweden","🇳🇴 Norway":"norway","🇩🇰 Denmark":"denmark",
+  "🇫🇮 Finland":"finland","🇮🇸 Iceland":"iceland","🇮🇪 Ireland":"ireland","🇬🇧 UK":"uk",
+  "🇵🇱 Poland":"poland","🇨🇿 Czechia":"czechia","🇸🇰 Slovakia":"slovakia","🇭🇺 Hungary":"hungary",
+  "🇷🇴 Romania":"romania","🇧🇬 Bulgaria":"bulgaria","🇬🇷 Greece":"greece","🇭🇷 Croatia":"croatia",
+  "🇸🇮 Slovenia":"slovenia","🇷🇸 Serbia":"serbia","🇲🇪 Montenegro":"montenegro","🇲🇰 N. Macedonia":"north-macedonia",
+  "🇦🇱 Albania":"albania","🇲🇹 Malta":"malta","🇨🇾 Cyprus":"cyprus","🇪🇪 Estonia":"estonia",
+  "🇱🇻 Latvia":"latvia","🇱🇹 Lithuania":"lithuania","🇺🇦 Ukraine":"ukraine","🇷🇺 Russia":"russia",
+  "🇹🇷 Türkiye":"turkey","🇮🇱 Israel":"israel","🇸🇦 Saudi Arabia":"saudi-arabia","🇦🇪 UAE":"uae",
+  "🇶🇦 Qatar":"qatar","🇪🇬 Egypt":"egypt","🇲🇦 Morocco":"morocco","🇹🇳 Tunisia":"tunisia",
+  "🇩🇿 Algeria":"algeria","🇱🇾 Libya":"libya","🇪🇹 Ethiopia":"ethiopia","🇰🇪 Kenya":"kenya",
+  "🇳🇬 Nigeria":"nigeria","🇬🇭 Ghana":"ghana","🇿🇦 South Africa":"south-africa","🇮🇷 Iran":"iran",
+  "🇵🇰 Pakistan":"pakistan","🇮🇳 India":"india","🇧🇩 Bangladesh":"bangladesh","🇱🇰 Sri Lanka":"sri-lanka",
+  "🇹🇭 Thailand":"thailand","🇻🇳 Vietnam":"vietnam","🇵🇭 Philippines":"philippines","🇮🇩 Indonesia":"indonesia",
+  "🇲🇾 Malaysia":"malaysia","🇸🇬 Singapore":"singapore","🇨🇳 China":"china","🇭🇰 Hong Kong":"hong-kong",
+  "🇹🇼 Taiwan":"taiwan","🇯🇵 Japan":"japan","🇰🇷 Korea":"korea","🇦🇺 Australia":"australia",
+  "🇳🇿 New Zealand":"new-zealand","🇨🇦 Canada":"canada","🇺🇸 USA":"usa","🇲🇽 Mexico":"mexico",
+  "🇧🇷 Brazil":"brazil","🇦🇷 Argentina":"argentina","🇨🇱 Chile":"chile","🇨🇴 Colombia":"colombia",
+  "🇵🇪 Peru":"peru","🇻🇪 Venezuela":"venezuela","🇺🇾 Uruguay":"uruguay","🇪🇨 Ecuador":"ecuador",
+  "🇨🇷 Costa Rica":"costa-rica","🇨🇺 Cuba":"cuba"
+};
+const jg=document.getElementById('jur-grid');
+DATA.jurisdictions.forEach(j=>{
+  const slug=JUR_CODES[j]||j.toLowerCase().replace(/[^a-z]/g,'-');
+  const a=document.createElement('a');
+  a.href=`https://github.com/${DATA.repo}/tree/main/case-law/${slug}`;
+  a.target='_blank';
+  a.style.cssText='padding:6px 10px;background:var(--bg2);border:1px solid var(--line);border-radius:6px;color:var(--ink);text-decoration:none;display:block';
+  a.onmouseover=()=>a.style.borderColor='var(--gold)';
+  a.onmouseout=()=>a.style.borderColor='var(--line)';
+  a.textContent=j+' ↗';
+  jg.appendChild(a);
+});
+
+// FB table
+const fb=document.getElementById('fb-table');
+DATA.fb_posts.forEach(p=>{
+  const tr=document.createElement('tr');
+  // FB id format: pageId_postId — direct URL: facebook.com/{pageId}/posts/{postId}
+  const parts=p.id.split('_');
+  const fbUrl=parts.length===2?`https://www.facebook.com/${parts[0]}/posts/${parts[1]}`:`https://www.facebook.com/${p.id}`;
+  tr.innerHTML=`<td>#${p.n}</td>
+    <td><a href="https://www.antialienate.com/blog/${p.slug}" target="_blank">${p.slug} ↗</a></td>
+    <td><a href="${fbUrl}" target="_blank" style="font-family:monospace;font-size:11px">${p.id} ↗</a></td>
+    <td style="color:var(--dim)">${p.t}</td>`;
+  fb.appendChild(tr);
+});
+setText('fb-posted',DATA.counters.fb_posted);
+setText('fb-last',DATA.fb_posts[0].t);
+const next=new Date(DATA.fb_posts[0].t.replace(' ','T')+':00Z'); next.setHours(next.getHours()+1);
+setText('fb-next',next.toISOString().slice(0,16).replace('T',' '));
+
+// Embedded FB posts on Overview
+const fbE=document.getElementById('fb-embeds');
+DATA.fb_posts.slice(0,4).forEach(p=>{
+  const parts=p.id.split('_');
+  const postUrl=parts.length===2?`https://www.facebook.com/${parts[0]}/posts/${parts[1]}`:'';
+  const wrap=document.createElement('div');
+  wrap.style.cssText='background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:12px;overflow:hidden';
+  wrap.innerHTML=`
+    <div style="display:flex;justify-content:space-between;align-items:center;margin-bottom:8px">
+      <div><b>#${p.n}</b> · <a href="https://www.antialienate.com/blog/${p.slug}" target="_blank" style="color:var(--gold)">${p.slug}</a></div>
+      <a href="${postUrl}" target="_blank" style="font-size:11px;color:var(--dim)">${p.t} ↗</a>
+    </div>
+    <iframe src="https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(postUrl)}&show_text=true&width=380"
+      width="100%" height="520" style="border:none;border-radius:6px;background:#fff" scrolling="no" frameborder="0" allowfullscreen="true"
+      allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>`;
+  fbE.appendChild(wrap);
+});
+
+// Blog post cards (with og-image attempts)
+const bc=document.getElementById('blog-cards');
+DATA.fb_posts.slice(0,8).forEach(p=>{
+  const blogUrl=`https://www.antialienate.com/blog/${p.slug}`;
+  const card=document.createElement('a');
+  card.href=blogUrl; card.target='_blank';
+  card.style.cssText='display:block;background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:14px;text-decoration:none;color:var(--ink);transition:border-color .15s';
+  card.onmouseover=()=>card.style.borderColor='var(--gold)';
+  card.onmouseout=()=>card.style.borderColor='var(--line)';
+  card.innerHTML=`<div style="color:var(--gold);font-size:11px;text-transform:uppercase;letter-spacing:.6px">Blog #${p.n}</div>
+    <div style="font-size:14px;font-weight:600;margin-top:6px;line-height:1.35">${p.slug.replace(/-/g,' ')}</div>
+    <div style="color:var(--dim);font-size:11px;margin-top:8px">${p.t} · click to read on antialienate.com ↗</div>`;
+  bc.appendChild(card);
+});
+
+// Commit preview cards
+const cc=document.getElementById('commit-cards');
+DATA.recent_commits.slice(0,8).forEach(c=>{
+  const url=`https://github.com/${DATA.repo}/commit/${c.sha}`;
+  const card=document.createElement('a');
+  card.href=url; card.target='_blank';
+  card.style.cssText='display:block;background:var(--bg2);border:1px solid var(--line);border-radius:8px;padding:14px;text-decoration:none;color:var(--ink);transition:border-color .15s';
+  card.onmouseover=()=>card.style.borderColor='var(--mint)';
+  card.onmouseout=()=>card.style.borderColor='var(--line)';
+  // pick type from message prefix
+  const m=c.msg.match(/^([a-z-]+)(\(([a-z]+)\))?:/);
+  const kind=m?m[1]:'misc';
+  const tag=m&&m[3]?m[3].toUpperCase():'';
+  card.innerHTML=`<div style="display:flex;justify-content:space-between;align-items:center">
+      <span style="font-family:monospace;color:var(--mint);font-size:11px">${c.sha}</span>
+      <span style="color:var(--dim);font-size:11px">${c.t}</span>
+    </div>
+    <div style="margin-top:6px;font-size:13px;line-height:1.4">${c.msg}</div>
+    <div style="margin-top:10px"><span class="tag">${kind}</span>${tag?'<span class="tag ok">'+tag+'</span>':''}</div>`;
+  cc.appendChild(card);
+});
+
+// Recent actions feed (loads from log)
+async function loadLog(){
+  try{
+    const r=await fetch('/tmp/.aa-secrets/action-log.jsonl').catch(()=>null);
+    let text='';
+    if(r && r.ok) text=await r.text();
+    if(!text){
+      // fallback embedded log
+      const lines=DATA.recent_commits.map(c=>JSON.stringify({t:c.t,kind:"commit",msg:c.msg,sha:c.sha}));
+      DATA.fb_posts.forEach(p=>lines.push(JSON.stringify({t:p.t,kind:"fb",msg:"FB posted #"+p.n+" "+p.slug,id:p.id})));
+      text=lines.join('\n');
+    }
+    const items=text.trim().split('\n').filter(Boolean).map(l=>{try{return JSON.parse(l)}catch{return null}}).filter(Boolean).reverse();
+    setText('nav-log',items.length);
+    const view=document.getElementById('log-view');
+    view.innerHTML=items.map(i=>{
+      const cls=i.kind==='fb'?'info':i.kind==='commit'?'ok':i.kind==='err'?'err':'';
+      return `<div><span class="ts">[${i.t}]</span> <span class="${cls}">${i.kind?.toUpperCase()||'-'}</span> ${i.msg}</div>`;
+    }).join('');
+    const ra=document.getElementById('recent-actions');
+    ra.innerHTML='';
+    items.slice(0,8).forEach(i=>{
+      const li=document.createElement('li');
+      let link='';
+      if(i.sha) link=` <a href="https://github.com/${DATA.repo}/commit/${i.sha}" target="_blank">view ↗</a>`;
+      else if(i.id){const parts=i.id.split('_');link=parts.length===2?` <a href="https://www.facebook.com/${parts[0]}/posts/${parts[1]}" target="_blank">view ↗</a>`:''}
+      li.innerHTML=`${i.msg}${link}<div class="meta">${i.t} · ${i.kind}</div>`;
+      ra.appendChild(li);
+    });
+  }catch(e){
+    document.getElementById('log-view').textContent='log load error: '+e.message;
+  }
+}
+loadLog();
+
+// Videos table (loaded via fetch dirlist isn't reliable; embed snapshot)
+const VIDEOS = [
+  {n:1,name:"01-never-say-pa-in-court-captioned.mp4",sz:"14.5 MB",t:"May 15"},
+  {n:2,name:"02-pa-recognized-apa-who.mp4",sz:"19.8 MB",t:"May 15"},
+  {n:3,name:"03-pa-diagnostic-criteria-captioned.mp4",sz:"7.1 MB",t:"May 16"},
+  {n:4,name:"04-the-17-strategies-captioned.mp4",sz:"24.4 MB",t:"May 15"},
+  {n:5,name:"05-stockholm-syndrome-captive-child-captioned.mp4",sz:"5.8 MB",t:"May 16"},
+  {n:6,name:"06-loyalty-conflict-silent-war-captioned.mp4",sz:"5.6 MB",t:"May 16"},
+  {n:7,name:"07-digital-gatekeeping-captioned.mp4",sz:"5.4 MB",t:"May 16"},
+  {n:8,name:"08-cost-of-parental-alienation-captioned.mp4",sz:"19.8 MB",t:"May 16"},
+  {n:9,name:"09-triangulation-captioned.mp4",sz:"4.4 MB",t:"May 16"},
+  {n:11,name:"11-munchausen-by-proxy-captioned.mp4",sz:"18.7 MB",t:"May 16"},
+  {n:12,name:"12-medical-child-abuse-captioned.mp4",sz:"7.0 MB",t:"May 16"},
+  {n:13,name:"13-echr-article-8-stack-captioned.mp4",sz:"23.7 MB",t:"May 16"},
+  {n:14,name:"14-belgium-equal-custody-paradise-captioned.mp4",sz:"19.8 MB",t:"May 16"},
+  {n:15,name:"15-espace-rencontres-supervised-visitation-captioned.mp4",sz:"6.7 MB",t:"May 16"},
+  {n:16,name:"16-estrangement-vs-alienation-captioned.mp4",sz:"6.0 MB",t:"May 16"},
+  {n:17,name:"17-pa-vs-estrangement-courts-captioned.mp4",sz:"5.4 MB",t:"May 16"},
+  {n:19,name:"19-custody-evaluators-prepare-captioned.mp4",sz:"6.0 MB",t:"May 16"},
+  {n:20,name:"20-document-pa-complete-evidence-guide-captioned.mp4",sz:"6.4 MB",t:"May 16"},
+  {n:21,name:"21-prove-psychological-damage-captioned.mp4",sz:"5.2 MB",t:"May 16"},
+  {n:22,name:"22-choosing-pa-lawyer-captioned.mp4",sz:"24.2 MB",t:"May 16"},
+  {n:23,name:"23-court-ordered-therapy-pa-captioned.mp4",sz:"6.7 MB",t:"May 16"},
+  {n:24,name:"24-therapist-accountability-captioned.mp4",sz:"6.3 MB",t:"May 16"},
+  {n:25,name:"25-court-appointed-pa-expert-captioned.mp4",sz:"7.0 MB",t:"May 16"},
+  {n:26,name:"26-international-parental-kidnapping-captioned.mp4",sz:"20.4 MB",t:"May 16"},
+  {n:27,name:"27-weaponized-therapy-mechanism-captioned.mp4",sz:"6.8 MB",t:"May 16"}
+];
+const vt=document.getElementById('vid-table');
+VIDEOS.forEach(v=>{
+  const tr=document.createElement('tr');
+  const slug=v.name.replace(/^\d+-/,'').replace(/-captioned\.mp4$|\.mp4$/,'');
+  const blogUrl=`https://www.antialienate.com/blog/${slug}`;
+  const localUrl=v.name;
+  const repoUrl=`https://github.com/AntiAlienate/antialienate-knowledge/blob/main/videos/${v.name}`;
+  tr.innerHTML=`<td>#${v.n}</td>
+    <td><a href="${localUrl}" target="_blank">▶ ${v.name}</a></td>
+    <td>${v.sz}</td>
+    <td style="color:var(--dim)">${v.t}</td>
+    <td><a href="${blogUrl}" target="_blank">blog ↗</a> · <a href="${repoUrl}" target="_blank">repo ↗</a></td>`;
+  vt.appendChild(tr);
+});
+
+// ---------- Force-directed knowledge graph ----------
+const canvas=document.getElementById('graph');
+const ctx=canvas.getContext('2d');
+let W=1,H=1,DPR=window.devicePixelRatio||1;
+let paused=false;
+const tip=document.getElementById('g-tip');
+
+const COLORS={
+  jurisdiction:'#e9c46a',
+  statute:'#7ad3a8',
+  case:'#7fb6ff',
+  research:'#b89cff',
+  treaty:'#f08a8a'
+};
+
+// node objects with physics
+const nodes = GRAPH.nodes.map((n,i)=>({...n,
+  x:Math.cos(i*0.6)*200+400, y:Math.sin(i*0.6)*200+300,
+  vx:0,vy:0, r: n.type==='treaty'?14:n.type==='jurisdiction'?10:8
+}));
+const idx={}; nodes.forEach((n,i)=>idx[n.id]=i);
+const edges = GRAPH.edges.map(([a,b])=>({a:idx[a],b:idx[b]})).filter(e=>e.a!=null&&e.b!=null);
+
+let cam={x:0,y:0,k:1};
+let drag=null, panDrag=null, hover=null;
+
+function resizeGraph(){
+  const host=document.getElementById('graph-host');
+  W=host.clientWidth; H=host.clientHeight;
+  canvas.width=W*DPR; canvas.height=H*DPR;
+  canvas.style.width=W+'px'; canvas.style.height=H+'px';
+  ctx.setTransform(DPR,0,0,DPR,0,0);
+  // center on first render
+  if(cam.x===0&&cam.y===0){cam.x=W/2-400;cam.y=H/2-300}
+}
+window.addEventListener('resize',resizeGraph);
+
+function step(){
+  if(paused){requestAnimationFrame(step);return}
+  // repulsion
+  for(let i=0;i<nodes.length;i++){
+    for(let j=i+1;j<nodes.length;j++){
+      const a=nodes[i],b=nodes[j];
+      const dx=b.x-a.x,dy=b.y-a.y;
+      const d2=dx*dx+dy*dy+0.01;
+      const f=1800/d2;
+      const fx=dx*f/Math.sqrt(d2), fy=dy*f/Math.sqrt(d2);
+      a.vx-=fx;a.vy-=fy;b.vx+=fx;b.vy+=fy;
+    }
+  }
+  // spring
+  edges.forEach(e=>{
+    const a=nodes[e.a],b=nodes[e.b];
+    const dx=b.x-a.x,dy=b.y-a.y;
+    const d=Math.sqrt(dx*dx+dy*dy)+0.01;
+    const f=(d-120)*0.012;
+    a.vx+=dx/d*f;a.vy+=dy/d*f;b.vx-=dx/d*f;b.vy-=dy/d*f;
+  });
+  // center gravity
+  nodes.forEach(n=>{
+    n.vx+=(400-n.x)*0.0008; n.vy+=(300-n.y)*0.0008;
+    if(drag!==n){
+      n.vx*=0.86;n.vy*=0.86; n.x+=n.vx;n.y+=n.vy;
+    }
+  });
+  render();
+  requestAnimationFrame(step);
+}
+
+function worldFromScreen(sx,sy){
+  return {x:(sx-cam.x)/cam.k, y:(sy-cam.y)/cam.k};
+}
+
+function render(){
+  ctx.clearRect(0,0,W,H);
+  ctx.save();
+  ctx.translate(cam.x,cam.y); ctx.scale(cam.k,cam.k);
+  // edges
+  ctx.strokeStyle='rgba(180,200,240,.16)';
+  ctx.lineWidth=1;
+  edges.forEach(e=>{
+    const a=nodes[e.a],b=nodes[e.b];
+    ctx.beginPath();ctx.moveTo(a.x,a.y);ctx.lineTo(b.x,b.y);ctx.stroke();
+  });
+  // nodes
+  nodes.forEach(n=>{
+    ctx.fillStyle=COLORS[n.type]||'#fff';
+    ctx.beginPath();ctx.arc(n.x,n.y,n.r,0,Math.PI*2);ctx.fill();
+    if(cam.k>0.55){
+      ctx.fillStyle='#e9eef9';
+      ctx.font=(n.type==='treaty'?'600 11px':'500 10px')+' system-ui';
+      ctx.textAlign='center';ctx.textBaseline='top';
+      ctx.fillText(n.label,n.x,n.y+n.r+2);
+    }
+    if(n===hover){
+      ctx.strokeStyle='#e9c46a';ctx.lineWidth=2;
+      ctx.beginPath();ctx.arc(n.x,n.y,n.r+3,0,Math.PI*2);ctx.stroke();
+    }
+  });
+  ctx.restore();
+}
+
+// Map graph nodes to URLs (jurisdictions → case-law folder; cases/research → search)
+const NODE_URLS={
+  hague80:"https://www.hcch.net/en/instruments/conventions/specialised-sections/child-abduction",
+  hague96:"https://www.hcch.net/en/instruments/conventions/full-text/?cid=70",
+  bruss2b:"https://eur-lex.europa.eu/eli/reg/2019/1111/oj",
+  echr8:"https://www.echr.coe.int/documents/d/echr/convention_ENG",
+  uncrc:"https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child",
+  strand:"https://hudoc.echr.coe.int/eng?i=001-195909",
+  improta:"https://hudoc.echr.coe.int/eng?i=001-178248",
+  solarino:"https://hudoc.echr.coe.int/eng?i=001-178240",
+  bond:"https://hudoc.echr.coe.int/eng?i=001-155986",
+  ignaccolo:"https://hudoc.echr.coe.int/eng?i=001-58448",
+  sahin:"https://hudoc.echr.coe.int/eng?i=001-61194",
+  pedersen:"https://hudoc.echr.coe.int/eng",
+  rec23:"https://www.bailii.org/ew/cases/EWHC/Fam/",
+  penal432:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/belgium",
+  mouda:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/morocco",
+  psl22:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/saudi-arabia",
+  ifpa13:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/iran",
+  khi91:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/indonesia",
+  kid22:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/kenya",
+  chra03:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/nigeria",
+  gwa1890:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/pakistan",
+  baker:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
+  bernet:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
+  harman18:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
+  harman23:"https://github.com/AntiAlienate/antialienate-knowledge/blob/main/research/harman-lorandos-2023-meta-analysis-pa-empirical-base.md",
+  warshak:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
+  saini:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research"
+};
+// jurisdictions auto-resolve via JUR_CODES values map (national codes → repo folder)
+const NODE_TO_SLUG={
+  be:"belgium",fr:"france",de:"germany",it:"italy",es:"spain",uk:"uk",ie:"ireland",
+  nl:"netherlands",pt:"portugal",us:"usa",ca:"canada",au:"australia",nz:"new-zealand",
+  za:"south-africa",br:"brazil",mx:"mexico",ng:"nigeria",ke:"kenya",gh:"ghana",
+  ma:"morocco",tn:"tunisia",dz:"algeria",ly:"libya",et:"ethiopia",eg:"egypt",
+  sa:"saudi-arabia",ae:"uae",ir:"iran",in:"india",pk:"pakistan",bd:"bangladesh",
+  id:"indonesia",vn:"vietnam",th:"thailand",ph:"philippines",my:"malaysia",
+  sg:"singapore",jp:"japan",kr:"korea",tw:"taiwan",ru:"russia"
+};
+
+let mouseDownAt=null;
+canvas.addEventListener('mousedown',e=>{
+  mouseDownAt={x:e.clientX,y:e.clientY,t:Date.now()};
+  const r=canvas.getBoundingClientRect();
+  const w=worldFromScreen(e.clientX-r.left,e.clientY-r.top);
+  for(const n of nodes){
+    const dx=n.x-w.x,dy=n.y-w.y;
+    if(dx*dx+dy*dy<(n.r+3)*(n.r+3)){drag=n;return}
+  }
+  panDrag={x:e.clientX,y:e.clientY,cx:cam.x,cy:cam.y};
+});
+canvas.addEventListener('click',e=>{
+  if(!mouseDownAt) return;
+  const moved=Math.hypot(e.clientX-mouseDownAt.x,e.clientY-mouseDownAt.y);
+  if(moved>4) return; // it was a drag
+  const r=canvas.getBoundingClientRect();
+  const w=worldFromScreen(e.clientX-r.left,e.clientY-r.top);
+  for(const n of nodes){
+    const dx=n.x-w.x,dy=n.y-w.y;
+    if(dx*dx+dy*dy<(n.r+5)*(n.r+5)){
+      const url=NODE_URLS[n.id]||(NODE_TO_SLUG[n.id]?`https://github.com/${DATA.repo}/tree/main/case-law/${NODE_TO_SLUG[n.id]}`:null);
+      if(url) window.open(url,'_blank');
+      return;
+    }
+  }
+});
+canvas.addEventListener('mousemove',e=>{
+  const r=canvas.getBoundingClientRect();
+  const sx=e.clientX-r.left, sy=e.clientY-r.top;
+  if(drag){
+    const w=worldFromScreen(sx,sy);
+    drag.x=w.x; drag.y=w.y; drag.vx=0;drag.vy=0;
+  }else if(panDrag){
+    cam.x=panDrag.cx+(e.clientX-panDrag.x);
+    cam.y=panDrag.cy+(e.clientY-panDrag.y);
+  }else{
+    const w=worldFromScreen(sx,sy);
+    hover=null;
+    for(const n of nodes){
+      const dx=n.x-w.x,dy=n.y-w.y;
+      if(dx*dx+dy*dy<(n.r+3)*(n.r+3)){hover=n;break}
+    }
+    if(hover){
+      tip.style.display='block';
+      tip.style.left=(sx+12)+'px';tip.style.top=(sy+12)+'px';
+      const clickable=NODE_URLS[hover.id]||NODE_TO_SLUG[hover.id];
+      tip.innerHTML=`<b>${hover.label}</b><br><span style="color:var(--dim)">${hover.type}</span>${clickable?'<br><span style="color:#7fb6ff">click to open ↗</span>':''}`;
+      canvas.style.cursor=clickable?'pointer':'grab';
+    }else{tip.style.display='none';canvas.style.cursor='grab'}
+  }
+});
+window.addEventListener('mouseup',()=>{drag=null;panDrag=null});
+canvas.addEventListener('wheel',e=>{
+  e.preventDefault();
+  const r=canvas.getBoundingClientRect();
+  const sx=e.clientX-r.left, sy=e.clientY-r.top;
+  const w=worldFromScreen(sx,sy);
+  const k=Math.exp(-e.deltaY*0.001);
+  cam.k=Math.max(0.25,Math.min(3,cam.k*k));
+  cam.x=sx-w.x*cam.k; cam.y=sy-w.y*cam.k;
+},{passive:false});
+document.getElementById('g-fit').onclick=()=>{
+  let xs=nodes.map(n=>n.x),ys=nodes.map(n=>n.y);
+  const minx=Math.min(...xs)-30,maxx=Math.max(...xs)+30;
+  const miny=Math.min(...ys)-30,maxy=Math.max(...ys)+30;
+  const k=Math.min(W/(maxx-minx),H/(maxy-miny))*0.9;
+  cam.k=k; cam.x=W/2-(minx+maxx)/2*k; cam.y=H/2-(miny+maxy)/2*k;
+};
+document.getElementById('g-reseed').onclick=()=>{
+  nodes.forEach((n,i)=>{n.x=Math.random()*800;n.y=Math.random()*600;n.vx=n.vy=0});
+};
+document.getElementById('g-pause').onclick=(e)=>{paused=!paused;e.target.textContent=paused?'Resume':'Pause'};
+
+resizeGraph();
+step();
+</script>
+</body>
+</html>
