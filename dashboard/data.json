@@ -1,0 +1,17 @@
+{
+  "generated_iso_utc": "2026-05-18T12:01:00Z",
+  "counters": {
+    "repo_entries": 87,
+    "jurisdictions": 87,
+    "fb_posted": 81,
+    "videos_pushed": 30,
+    "research_entries": 12,
+    "echr_standalones": 7,
+    "clinical_entries": 4,
+    "statute_entries": 8
+  },
+  "fb_last_slug": "parentification-hidden-weapon-parental-alienation",
+  "fb_last_id": "1066259219910194_122102708169292114",
+  "fb_last_t_utc": "2026-05-18T12:00:00Z",
+  "stop_criteria": "Adam-stops OR cron-auto-expire-7d"
+}
