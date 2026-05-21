@@ -1,3 +1,47 @@
+
+<p align="center">
+  <a href="https://antialienate.com">
+    <img src="https://antialienate.com/og-knowledge.png" alt="AntiAlienate Knowledge" width="640">
+  </a>
+</p>
+
+<h1 align="center">AntiAlienate Knowledge</h1>
+
+<p align="center">
+  <b>250+ open-source case-law, statute, and research entries across 77 jurisdictions.</b><br>
+  Public domain. Court-ready. Anyone can read, fork, or contribute.
+</p>
+
+<p align="center">
+  <a href="https://antialienate.com/case-law/browse"><b>Browse online →</b></a> ·
+  <a href="https://antialienate.com/cli"><b>Query locally with the CLI →</b></a> ·
+  <a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/CONTRIBUTING.md"><b>Contribute →</b></a>
+</p>
+
+---
+
+## Query this repo locally in 30 seconds
+
+​bash
+# Install the aa CLI (macOS / Linux / Windows)
+curl -sSL https://get.antialienate.com | sh
+
+# Search 77 jurisdictions
+aa law search "alienation" --country=belgium
+
+# Get a court-ready citation with auditable Git commit SHA
+aa law cite belgium/penal-code-art-432
+​
+
+No login. No credits. No server. Just data.
+
+## Need more than search?
+
+The CLI's `aa law` commands are free forever. When you're ready to cross-reference citations against your own evidence and generate court-ready rebuttals automatically →
+
+**[Sign up at antialienate.com](https://antialienate.com/signup)** for the full forensic suite.
+
+
 # AntiAlienate Knowledge
 
 > The most comprehensive open-source parental-alienation knowledge base on the web — covering **19+ jurisdictions**, **11-case ECHR Article 8 stack**, **13 research anchors**, **8 motion templates**, and **68+ practitioner-facing posts**. Maintained by Alan Markson · [antialienate.com](https://www.antialienate.com) · CC BY 4.0.
