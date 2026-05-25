@@ -10,13 +10,15 @@ What to actually do, in order, when you're in the middle of it.
 - **[Reunification Therapy](reunification-therapy.md)** — what to ask for and what to avoid when court orders intervention
 - **[Teenage Alienation](teen-alienation.md)** — why ages 12–17 need a different approach
 - **[Documentation System](documentation-system.md)** — what to capture, where to store it, how to retain it
+- **[Accused of Alienation](accused-of-alienation.md)** — when you're the one being named
+- **[Cross-Border / Hague](cross-border-hague.md)** — jurisdiction selection and international abduction basics
+- **[Grandparent Alienation](grandparent-pa.md)** — when the bridge to a child goes through the extended family
 
 ## Coming soon
 
-- International / cross-border cases: jurisdiction selection and Hague Convention basics
 - Step-parent dynamics and PA
-- Grandparent alienation: separate playbook for grandparent rights and PA overlap
-- The reverse case: when you've been accused of alienation
+- The successful reunification case study — anonymised composite stories
+- PA + domestic violence allegations: navigating the overlap
 
 ## Related
 
