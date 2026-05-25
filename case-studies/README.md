@@ -17,75 +17,83 @@ If you are a parent or lawyer, these are the cases you will hear cited. Knowing 
 
 **Arc:** act early (Re A), act on findings (Re S), find facts properly (Re H-N), only with proper procedure (Re Y).
 
-## Canada — the foundational modern case
+## Canada
 
 5. **[L.(A.G.) v D.(K.B.), 2009 — Justice McWatt, Ontario](l-ag-v-d-kb-2009-ontario-mcwatt.md)** — Family Workshop reunification camp; Globe & Mail coverage.
 
-## United States — high-profile cases and an open gap
+## United States
 
 6. **[Tsimhoni v Eibschitz-Tsimhoni, Michigan 2015](tsimhoni-v-eibschitz-tsimhoni-michigan-2015.md)** — Judge Lisa Gorcyca jailing the three children; later sanctioned.
 7. **[In re Marriage of Humphries, 2024 COA 92](in-re-marriage-of-humphries-2024-coa-92.md)** — Mixed disposition. The page flags an honest gap: a clean US appellate reversal of a *core* PA finding to this repo's evidentiary standards remains an open contributor invitation.
 
-## Europe — the Article 8 anchor
+## Europe — the Article 8 cluster
 
-8. **[Improta v Italy, App. 66396/14, ECtHR First Section, 4 May 2017](improta-v-italy-echr-66396-14-2017.md)** — Strasbourg violation; €15k; cluster authority with Strumia/Solarino/Lombardo/R.V.
+8. **[Improta v Italy, App. 66396/14 (ECtHR, 4 May 2017)](improta-v-italy-echr-66396-14-2017.md)** — €15k; cluster authority with Strumia/Solarino/Lombardo/R.V.
+9. **[Strumia v Italy, App. 53377/13 (ECtHR, 23 June 2016)](strumia-v-italy-echr-53377-13-2016.md)** — €15k. The duration-and-passivity extreme of the *bigenitorialità* line: **eight years** of obstructed contact in Tuscany; mother's parental authority suspended only after the relationship was largely destroyed. Florence Juvenile Court / Pisa Tribunal / Florence Court of Appeal.
 
-## Australia — the post-reform landscape
+## Australia
 
-9. **[Green & Green [2024] FedCFamC1F 896](green-and-green-2024-fedcfamc1f-896.md)** — Post-2024-reform interim PA refusal; Banks rule; the new s 60CC framework.
+10. **[Green & Green [2024] FedCFamC1F 896](green-and-green-2024-fedcfamc1f-896.md)** — Post-2024-reform interim PA refusal; Banks rule; new s 60CC framework.
 
 ---
 
 ## Civil-law supreme courts — the constitutional and cassation frame
 
-10. **[BVerfG, 1 BvR 1076/23 (17 November 2023)](bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md)** — Germany. Federal Constitutional Court calling PAS "outdated and scientifically refuted."
-11. **[Cass. 1re civ., 26 juin 2013, n° 12-14.392](cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)** — France. The foundational French SAP arrêt now in retreat.
-12. **[STS 519/2017, Tribunal Supremo, Sala Primera, 22 September 2017](sts-519-2017-tribunal-supremo-alienacion-parental.md)** — Spain. PA work without the PA label.
-13. **[Cass. civ. sez. I, ord. n. 9691/2022](cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md)** — Italy. Supreme court direct rejection of PAS as pseudoscience; four-year doctrinal line (13217/2021 → 9691/2022 → 3576/2024 → 4595/2025).
+11. **[BVerfG, 1 BvR 1076/23 (17 November 2023)](bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md)** — Germany. PAS as "outdated and scientifically refuted."
+12. **[Cass. 1re civ., 26 juin 2013, n° 12-14.392](cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)** — France. The foundational French SAP arrêt now in retreat.
+13. **[STS 519/2017, Tribunal Supremo, Sala Primera, 22 September 2017](sts-519-2017-tribunal-supremo-alienacion-parental.md)** — Spain. PA work without the PA label.
+14. **[Cass. civ. sez. I, ord. n. 9691/2022](cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md)** — Italy. Direct rejection of PAS as pseudoscience; four-year doctrinal line.
 
-## Criminal-law approach — contact obstruction as a crime
+## Criminal-law approach
 
-14. **[Hoge Raad, 15 februari 2005, ECLI:NL:HR:2005:AR8250](hoge-raad-15-februari-2005-ecli-nl-hr-2005-ar8250-onttrekking-omgangsregeling.md)** — Netherlands. Criminal-law art. 279 Sr applied to contact obstruction. Gender-neutral in operation.
+15. **[Hoge Raad, 15 februari 2005, ECLI:NL:HR:2005:AR8250](hoge-raad-15-februari-2005-ecli-nl-hr-2005-ar8250-onttrekking-omgangsregeling.md)** — Netherlands. Criminal-law art. 279 Sr applied to contact obstruction.
 
 ## Statutory PA regimes — Brazil's Lei 12.318/2010
 
-Brazil has the world's most explicit PA statutory regime. Two STJ (Superior Tribunal de Justiça) decisions show how the highest civil court actually applies it:
+16. **[STJ, REsp 1.859.228/SP (Rel. Min. Nancy Andrighi, 2024)](stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024.md)** — STJ "no-automaticity" doctrine.
+17. **[STJ, REsp 2.108.750/GO (Terceira Turma, 2024)](stj-resp-2108750-go-alienacao-parental-abuso-sexual-2024.md)** — Procedural caution when PA+abuse alleged.
 
-15. **[STJ, REsp 1.859.228/SP (Rel. Min. Nancy Andrighi, 2024)](stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024.md)** — the cleanest recent illustration of STJ's "no-automaticity" doctrine: a finding of *alienação parental* does not, by itself, trigger custody inversion under art. 6º, V — more severe remedies require concrete evidence of harm and graduated reasoning. Embedded in the live political contest over Projeto de Lei nº 1.372/2023 (CCJ approval 3 Dec 2025).
+## Eastern European doctrinal pivot
 
-16. **[STJ, REsp 2.108.750/GO (Terceira Turma, 2024)](stj-resp-2108750-go-alienacao-parental-abuso-sexual-2024.md)** — the procedural counterpoint case: STJ annulled procedural acts where PA and *abuso sexual* were alleged reciprocally, holding evidentiary caution *intensifies* when severe Lei 12.318/2010 sanctions are sought without full perícia. The Brazilian-procedural answer to the Meier/Barnett concern that PA framings are used to discount safeguarding allegations.
+18. **[Sąd Najwyższy, uchwała III CZP 20/25 (3 October 2025)](stj-iii-czp-20-25-uchwala-sad-najwyzszy-alienacja-rodzicielska-2025.md)** — Polish Supreme Court. Counter-trend: re-opening enforcement against alienating custodial parents.
 
-## Eastern European doctrinal pivot — Poland
+## Asia — the world's most populous democracy enters the canon
 
-17. **[Sąd Najwyższy, uchwała III CZP 20/25 (3 October 2025)](stj-iii-czp-20-25-uchwala-sad-najwyzszy-alienacja-rodzicielska-2025.md)** — Polish Supreme Court landmark resolution on enforcement of contact orders under art. 598¹⁶ k.p.c., explicitly framed in Polish practitioner commentary as the "fight against *alienacja rodzicielska*." The counterweight to the Italian/German PA-as-pseudoscience line: a European supreme court *re-opening* the statutory enforcement tool against alienating custodial parents within the post-2022 constitutional landscape (Trybunał Konstytucyjny SK 3/20). Highly politically contested.
+19. **[Vivek Singh v Romani Singh, Civil Appeal 3962/2016, (2017) 3 SCC 231](vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md)** — Supreme Court of India, 13 February 2017. Chelameswar J + Sikri J. First SCI judgment to put "parental alienation syndrome" into operative reasoning in a custody appeal — cites Richard A. Gardner directly. Refuses to give dispositive weight to an 8-year-old's preference formed over 8 years of sole paternal custody after the father defied a Delhi High Court order. Opens India as the 13th jurisdiction in the repo.
+
+## Africa — Constitution-anchored structured remedy
+
+20. **[T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801](tld-v-bg-2023-zagpjhc-801-south-africa-parental-alienation.md)** — Gauteng Local Division, Adams J, 13 July 2023. Fully reasoned post-Children's Act 38 of 2005 High Court judgment that operationalises Constitution s.28(2) plus expert evidence (Carr clinical psychologist + Haskins SC curator ad litem + Dr De Wit) into a structured therapeutic remedy: 3-month contact suspension paired with reconstruction therapy, then graduated supervised re-introduction. Leave to appeal refused. Opens South Africa as the 14th jurisdiction.
 
 ---
 
-## What the 17-case map shows
+## What the 20-case map shows
 
 | Jurisdiction | Direction of travel |
 |---|---|
 | UK common-law | Procedural tightening — fact-finding first, no unregulated experts (Re Y) |
 | Canada | Built reunification-camp model, now tempering it |
 | US | Mixed appellate signals; clean reversal of core PA finding still wanted |
-| ECHR | Article 8 anchor — effective contact procedures required regardless of PA theory |
+| ECHR | Article 8 anchor — effective contact procedures required; eight-year cases produce €15k violations |
 | Australia | Post-2024 reform — interim caution; presumption removed |
 | Germany | Constitutional rejection of PAS as scientifically refuted |
 | France | Initially accepted SAP terminology; now retreating via legislative reform |
 | Spain | Officially rejects label; courts apply functionally similar reasoning |
-| Italy | Supreme Court direct rejection of PAS as pseudoscience; four-year doctrinal line |
+| Italy | Supreme Court direct rejection of PAS as pseudoscience |
 | Netherlands | Criminal-law enforcement available alongside family-law remedies |
-| Brazil | Most explicit statutory regime (Lei 12.318/2010); STJ applies it cautiously, no-automaticity |
-| Poland | Counter-trend: supreme court *re-opening* enforcement against alienating custodial parents |
+| Brazil | Most explicit statutory regime; STJ applies it cautiously, no-automaticity |
+| Poland | Counter-trend: SN re-opening enforcement against alienating custodial parents |
+| India | Supreme Court endorsement of PAS framework, citing Gardner; Hindu Marriage Act s.26 |
+| South Africa | Constitution-anchored structured therapeutic remedy; Children's Act 2005 |
 
-**The synthesis:** the global trajectory is away from a single "PAS = diagnosis = custody change" pipeline and toward fact-first, evidence-skeptical, jurisdiction-specific frameworks that distinguish behaviour from diagnosis. Poland (2025) and Brazil (2024) show the trajectory is not unidirectional — different jurisdictions are arriving at different equilibria.
+**The synthesis:** the global trajectory is *not* unidirectional. Common-law procedural reform (UK, AU), civil-law constitutional rejection (DE, IT), and statutory-regime caution (BR) all push toward fact-first, evidence-skeptical frameworks. But India (2017) endorsed the Gardner framework, South Africa (2023) operationalises a structured-remedy approach, and Poland (2025) re-opened enforcement against alienating parents. Different jurisdictions are reaching different equilibria on the same evidence base.
 
 ---
 
 ## How these case studies are sourced
 
 For each case:
-- **Primary**: the judgment itself (BAILII / CanLII / AustLII / HUDOC / state-court records / BVerfG / Légifrance / CENDOJ / Italgiure / De Rechtspraak / sn.pl / stj.jus.br)
+- **Primary**: the judgment itself (BAILII / CanLII / AustLII / HUDOC / state-court records / BVerfG / Légifrance / CENDOJ / Italgiure / De Rechtspraak / sn.pl / stj.jus.br / indiankanoon.org / SAFLII)
 - **Secondary**: practitioner commentary from family-law chambers, academic publications, and named law reviews
 - **Tertiary**: investigative journalism with named reporters and traceable sources (TBIJ's Hannah Summers, Transparency Project's Lucy Reed KC, Globe and Mail's Kirk Makin, Detroit News, Forward's Paul Berger, Haaretz's Allison Kaplan Sommer, BBC's Sanchia Berg, Guardian's Louise Tickle)
 
@@ -98,10 +106,13 @@ We are actively seeking:
 - Joan Meier's case series follow-ups (with cite-checkable case names)
 - Belgian Cour de cassation / Hof van Cassatie family-law PA decisions
 - Italian first-instance and appellate cases following the Cass. 9691/2022 line
-- More Brazilian appellate-tribunal cases (Tribunais de Justiça) below the STJ
+- Other ECHR cluster cases (Solarino, Lombardo, R.V. and others)
+- Argentine CSJN and Mexican SCJN family-law cases
+- Singapore High Court Family Division
+- Japan Supreme Court (post-2024 joint-custody reform)
 - Polish lower-court cases applying the III CZP 20/25 resolution
-- Argentine and Mexican Supreme Court cases
-- South African and Indian Supreme Court family-law cases
+- Brazilian appellate-tribunal cases (Tribunais de Justiça) below STJ
+- Indian High Court decisions building on Vivek Singh
 - Cases that journalists are working on right now — when the Transparency Project, TBIJ, or Right to Equality publish on a new judgment, we'll add it here within 24 hours
 
 ## How to use these
