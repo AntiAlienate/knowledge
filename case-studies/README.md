@@ -10,24 +10,21 @@ If you are a parent or lawyer, these are the cases you will hear cited. Knowing 
 
 ## United Kingdom — the common-law doctrinal arc, 2019→2026
 
-Four English cases now tell a coherent story about how the family courts have learned to handle alienation matters:
-
-1. **[Re A (Children) (Parental Alienation) [2019] EWFC B56](re-a-children-parental-alienation-2019-ewfc-b56.md)** — HHJ Wildblood QC, Bristol. *"Every agency at fault."*
+1. **[Re A (Children) (Parental Alienation) [2019] EWFC B56](re-a-children-parental-alienation-2019-ewfc-b56.md)** — HHJ Wildblood QC. *"Every agency at fault."*
 2. **[Re S (Parental Alienation: Cult) [2020] EWCA Civ 568](re-s-parental-alienation-cult-2020-ewca-civ-568.md)** — Peter Jackson LJ. Universal Medicine / Serge Benhayon.
-3. **[Re H-N and Others [2021] EWCA Civ 448](re-h-n-and-others-2021-ewca-civ-448.md)** — McFarlane P, Sharp PQBD, King LJ. Four interveners. DA-vs-PA framework.
+3. **[Re H-N and Others [2021] EWCA Civ 448](re-h-n-and-others-2021-ewca-civ-448.md)** — McFarlane P, Sharp PQBD, King LJ. DA-vs-PA framework.
 4. **[Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38](re-y-experts-and-alienating-behaviour-2026-ewfc-38.md)** — McFarlane P. Melanie Gill set-aside.
 
-Together: **act early (Re A), act on findings (Re S), find facts properly (Re H-N), only with proper procedure (Re Y).**
+**Arc:** act early (Re A), act on findings (Re S), find facts properly (Re H-N), only with proper procedure (Re Y).
 
 ## Canada — the foundational modern case
 
-5. **[L.(A.G.) v D.(K.B.), 2009 — Justice McWatt, Ontario](l-ag-v-d-kb-2009-ontario-mcwatt.md)** — Family Workshop reunification camp; named experts; Globe & Mail front-page coverage.
+5. **[L.(A.G.) v D.(K.B.), 2009 — Justice McWatt, Ontario](l-ag-v-d-kb-2009-ontario-mcwatt.md)** — Family Workshop reunification camp; Globe & Mail coverage.
 
-## United States — high-profile cases and an honest gap
+## United States — high-profile cases and an open gap
 
-6. **[Tsimhoni v Eibschitz-Tsimhoni, Michigan 2015](tsimhoni-v-eibschitz-tsimhoni-michigan-2015.md)** — Judge Lisa Gorcyca jailing the three children; later sanctioned by the Michigan Supreme Court.
-
-7. **[In re Marriage of Humphries, 2024 COA 92 (Colorado Court of Appeals, August 2024)](in-re-marriage-of-humphries-2024-coa-92.md)** — Mixed disposition: *affirms* admissibility/substance of PA expert testimony, *reverses* punitive remedies (decision-making transfer + $36,500 civil fine) for failure to follow Colorado's statutory architecture. Useful precisely because it doesn't fit either camp's clean narrative. Page flags the gap: a clean US appellate reversal of the *core* PA finding meeting this repo's evidentiary standards remains an open contributor invitation.
+6. **[Tsimhoni v Eibschitz-Tsimhoni, Michigan 2015](tsimhoni-v-eibschitz-tsimhoni-michigan-2015.md)** — Judge Lisa Gorcyca jailing the three children; later sanctioned.
+7. **[In re Marriage of Humphries, 2024 COA 92](in-re-marriage-of-humphries-2024-coa-92.md)** — Mixed disposition. The page flags an honest gap: a clean US appellate reversal of a *core* PA finding to this repo's evidentiary standards remains an open contributor invitation.
 
 ## Europe — the Article 8 anchor
 
@@ -41,47 +38,54 @@ Together: **act early (Re A), act on findings (Re S), find facts properly (Re H-
 
 ## Civil-law supreme courts — the constitutional and cassation frame
 
-Civil-law systems handle PA differently: shorter judgments, narrower cassation function, decisions often anchored in constitutional family-protection clauses or civil-code articles. The cases below are the leading civil-law authorities — read together they show **the same vocabulary discipline producing very different operative outcomes**.
-
-10. **[BVerfG, 1 BvR 1076/23 (17 November 2023)](bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md)** — Germany. The Federal Constitutional Court calling PAS / *Eltern-Kind-Entfremdung* "*überkommene und fachwissenschaftlich als widerlegt geltende*" ("outdated and scientifically refuted"). Strongest civil-law constitutional ruling *against* PAS framings as basis for residence-transfer orders.
-
-11. **[Cass. 1re civ., 26 juin 2013, n° 12-14.392](cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)** — France. *Publié au bulletin*. The foundational French Supreme Court arrêt putting "syndrome d'aliénation parentale" into Cass.civ.1 reasoning. The high-water mark from which the 2018 circulaire and Loi du 30 juillet 2020 have receded.
-
-12. **[STS 519/2017, Tribunal Supremo, Sala Primera, 22 September 2017](sts-519-2017-tribunal-supremo-alienacion-parental.md)** — Spain. The clearest example anywhere of a top European court doing PA work *without* using PA labels — articulates the parental duty "*no influir negativamente en las opiniones de su hija*" while studiously avoiding "síndrome de alienación parental."
-
-13. **[Cass. civ. sez. I, ord. n. 9691/2022 (Italy)](cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md)** — Italy's Supreme Court (First Civil Section) ordinance holding directly that PAS / "alienazione genitoriale" is a "pseudoscientific" foundation that cannot ground child-removal orders. The cleanest civil-law-jurisdiction supreme-court rejection of PA-as-doctrine on the books. Doctrinal symmetrical pair to Re Y in the UK and BVerfG 1 BvR 1076/23 in Germany. Sits in a four-year line: 13217/2021 → 9691/2022 → 3576/2024 → 4595/2025.
-
-**Read the four civil-law cases together** to see four different constitutional traditions reaching three different operative answers on PAS terminology and remedies. The German and Italian courts reject the label *and* refuse the remedy. The Spanish court rejects the label *but* grants something close to the remedy under different reasoning. The French court used the label and is now in retreat from it.
+10. **[BVerfG, 1 BvR 1076/23 (17 November 2023)](bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md)** — Germany. Federal Constitutional Court calling PAS "outdated and scientifically refuted."
+11. **[Cass. 1re civ., 26 juin 2013, n° 12-14.392](cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)** — France. The foundational French SAP arrêt now in retreat.
+12. **[STS 519/2017, Tribunal Supremo, Sala Primera, 22 September 2017](sts-519-2017-tribunal-supremo-alienacion-parental.md)** — Spain. PA work without the PA label.
+13. **[Cass. civ. sez. I, ord. n. 9691/2022](cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md)** — Italy. Supreme court direct rejection of PAS as pseudoscience; four-year doctrinal line (13217/2021 → 9691/2022 → 3576/2024 → 4595/2025).
 
 ## Criminal-law approach — contact obstruction as a crime
 
-14. **[Hoge Raad, 15 februari 2005, ECLI:NL:HR:2005:AR8250](hoge-raad-15-februari-2005-ecli-nl-hr-2005-ar8250-onttrekking-omgangsregeling.md)** — Netherlands. Dutch Supreme Court (Criminal Chamber) landmark holding that a co-custodial parent who wilfully breaches a court-ordered contact arrangement commits the criminal offence of "onttrekking aan het wettig gezag" under art. 279 Sr. The only European supreme-court authority that brings the *criminal* law into contact obstruction. Gender-neutral in operation. Honestly framed as an enforcement/criminal-law authority rather than a PA-doctrine ruling.
+14. **[Hoge Raad, 15 februari 2005, ECLI:NL:HR:2005:AR8250](hoge-raad-15-februari-2005-ecli-nl-hr-2005-ar8250-onttrekking-omgangsregeling.md)** — Netherlands. Criminal-law art. 279 Sr applied to contact obstruction. Gender-neutral in operation.
+
+## Statutory PA regimes — Brazil's Lei 12.318/2010
+
+Brazil has the world's most explicit PA statutory regime. Two STJ (Superior Tribunal de Justiça) decisions show how the highest civil court actually applies it:
+
+15. **[STJ, REsp 1.859.228/SP (Rel. Min. Nancy Andrighi, 2024)](stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024.md)** — the cleanest recent illustration of STJ's "no-automaticity" doctrine: a finding of *alienação parental* does not, by itself, trigger custody inversion under art. 6º, V — more severe remedies require concrete evidence of harm and graduated reasoning. Embedded in the live political contest over Projeto de Lei nº 1.372/2023 (CCJ approval 3 Dec 2025).
+
+16. **[STJ, REsp 2.108.750/GO (Terceira Turma, 2024)](stj-resp-2108750-go-alienacao-parental-abuso-sexual-2024.md)** — the procedural counterpoint case: STJ annulled procedural acts where PA and *abuso sexual* were alleged reciprocally, holding evidentiary caution *intensifies* when severe Lei 12.318/2010 sanctions are sought without full perícia. The Brazilian-procedural answer to the Meier/Barnett concern that PA framings are used to discount safeguarding allegations.
+
+## Eastern European doctrinal pivot — Poland
+
+17. **[Sąd Najwyższy, uchwała III CZP 20/25 (3 October 2025)](stj-iii-czp-20-25-uchwala-sad-najwyzszy-alienacja-rodzicielska-2025.md)** — Polish Supreme Court landmark resolution on enforcement of contact orders under art. 598¹⁶ k.p.c., explicitly framed in Polish practitioner commentary as the "fight against *alienacja rodzicielska*." The counterweight to the Italian/German PA-as-pseudoscience line: a European supreme court *re-opening* the statutory enforcement tool against alienating custodial parents within the post-2022 constitutional landscape (Trybunał Konstytucyjny SK 3/20). Highly politically contested.
 
 ---
 
-## What the 14-case map shows
+## What the 17-case map shows
 
 | Jurisdiction | Direction of travel |
 |---|---|
 | UK common-law | Procedural tightening — fact-finding first, no unregulated experts (Re Y) |
-| Canada | Built the reunification-camp model, now tempering it |
-| US | Mixed appellate signals — Tsimhoni discrediting overreach, Humphries affirming substance but reversing punitive remedies |
+| Canada | Built reunification-camp model, now tempering it |
+| US | Mixed appellate signals; clean reversal of core PA finding still wanted |
 | ECHR | Article 8 anchor — effective contact procedures required regardless of PA theory |
-| Australia | Post-2024 reform — interim caution; presumption of equal-shared-parental-responsibility removed |
+| Australia | Post-2024 reform — interim caution; presumption removed |
 | Germany | Constitutional rejection of PAS as scientifically refuted |
 | France | Initially accepted SAP terminology; now retreating via legislative reform |
-| Spain | Officially rejects label, courts apply functionally similar reasoning |
+| Spain | Officially rejects label; courts apply functionally similar reasoning |
 | Italy | Supreme Court direct rejection of PAS as pseudoscience; four-year doctrinal line |
 | Netherlands | Criminal-law enforcement available alongside family-law remedies |
+| Brazil | Most explicit statutory regime (Lei 12.318/2010); STJ applies it cautiously, no-automaticity |
+| Poland | Counter-trend: supreme court *re-opening* enforcement against alienating custodial parents |
 
-**The synthesis:** the global trajectory is away from a single "PAS = diagnosis = custody change" pipeline and toward fact-first, evidence-skeptical, jurisdiction-specific frameworks that distinguish behaviour from diagnosis.
+**The synthesis:** the global trajectory is away from a single "PAS = diagnosis = custody change" pipeline and toward fact-first, evidence-skeptical, jurisdiction-specific frameworks that distinguish behaviour from diagnosis. Poland (2025) and Brazil (2024) show the trajectory is not unidirectional — different jurisdictions are arriving at different equilibria.
 
 ---
 
 ## How these case studies are sourced
 
 For each case:
-- **Primary**: the judgment itself (BAILII / CanLII / AustLII / HUDOC / state-court records / BVerfG / Légifrance / CENDOJ / Italgiure / De Rechtspraak)
+- **Primary**: the judgment itself (BAILII / CanLII / AustLII / HUDOC / state-court records / BVerfG / Légifrance / CENDOJ / Italgiure / De Rechtspraak / sn.pl / stj.jus.br)
 - **Secondary**: practitioner commentary from family-law chambers, academic publications, and named law reviews
 - **Tertiary**: investigative journalism with named reporters and traceable sources (TBIJ's Hannah Summers, Transparency Project's Lucy Reed KC, Globe and Mail's Kirk Makin, Detroit News, Forward's Paul Berger, Haaretz's Allison Kaplan Sommer, BBC's Sanchia Berg, Guardian's Louise Tickle)
 
@@ -94,7 +98,10 @@ We are actively seeking:
 - Joan Meier's case series follow-ups (with cite-checkable case names)
 - Belgian Cour de cassation / Hof van Cassatie family-law PA decisions
 - Italian first-instance and appellate cases following the Cass. 9691/2022 line
-- Cases from PASG-network jurisdictions we don't yet cover: Brazil (Law 12.318/2010), Mexico, Poland, Romania
+- More Brazilian appellate-tribunal cases (Tribunais de Justiça) below the STJ
+- Polish lower-court cases applying the III CZP 20/25 resolution
+- Argentine and Mexican Supreme Court cases
+- South African and Indian Supreme Court family-law cases
 - Cases that journalists are working on right now — when the Transparency Project, TBIJ, or Right to Equality publish on a new judgment, we'll add it here within 24 hours
 
 ## How to use these
