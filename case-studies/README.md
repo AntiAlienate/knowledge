@@ -8,7 +8,7 @@ If you are a parent or lawyer, these are the cases you will hear cited. Knowing 
 
 ---
 
-## United Kingdom — the doctrinal arc, 2019→2026
+## United Kingdom — the common-law doctrinal arc, 2019→2026
 
 Four English cases now tell a coherent story about how the family courts have learned to handle alienation matters:
 
@@ -18,7 +18,7 @@ Four English cases now tell a coherent story about how the family courts have le
 
 3. **[Re H-N and Others [2021] EWCA Civ 448](re-h-n-and-others-2021-ewca-civ-448.md)** — McFarlane P, Sharp PQBD, King LJ. Four interveners. The DA-vs-PA framework case. *Patterns over incidents. Fact-finding cannot be displaced by counter-allegations of alienation.*
 
-4. **[Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38](re-y-experts-and-alienating-behaviour-2026-ewfc-38.md)** — McFarlane P, February 2026. The Melanie Gill set-aside. *No fact-finding, no expert. No registration, no permission.* The biggest current PA story — with TBIJ's investigative reporting, the Victims' Commissioner calling it "Post Office-scale," and a viable Part 18 set-aside route now open to potentially hundreds of affected mothers.
+4. **[Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38](re-y-experts-and-alienating-behaviour-2026-ewfc-38.md)** — McFarlane P, February 2026. The Melanie Gill set-aside. *No fact-finding, no expert. No registration, no permission.* The biggest current PA story — TBIJ's investigative reporting, the Victims' Commissioner calling it "Post Office-scale," and a viable Part 18 set-aside route now open to potentially hundreds of affected mothers.
 
 Together: **act early (Re A), act on findings (Re S), find facts properly (Re H-N), only with proper procedure (Re Y).**
 
@@ -28,7 +28,7 @@ Together: **act early (Re A), act on findings (Re S), find facts properly (Re H-
 
 ## United States — the case that became a worldwide cautionary tale
 
-6. **[Tsimhoni v Eibschitz-Tsimhoni, Michigan 2015](tsimhoni-v-eibschitz-tsimhoni-michigan-2015.md)** — Judge Lisa Gorcyca jailed three children (named: Liam, Roee, Natalie) in juvenile detention for refusing lunch with their father, comparing them to the Manson cult on the bench. Massive press coverage (Detroit News, Patch, Forward, Haaretz, CBS). Children released after public outcry; Judge Gorcyca formally sanctioned by the Michigan Supreme Court for judicial misconduct. The case that *named* the worst-case PA-court overreach and now anchors every "what not to do" discussion in the US literature.
+6. **[Tsimhoni v Eibschitz-Tsimhoni, Michigan 2015](tsimhoni-v-eibschitz-tsimhoni-michigan-2015.md)** — Judge Lisa Gorcyca jailed three children (Liam, Roee, Natalie) in juvenile detention for refusing lunch with their father, comparing them to the Manson cult on the bench. Massive press coverage (Detroit News, Patch, Forward, Haaretz, CBS). Children released after public outcry; Judge Gorcyca formally sanctioned by the Michigan Supreme Court for judicial misconduct. The case that *named* the worst-case PA-court overreach and now anchors every "what not to do" discussion in the US literature.
 
 ## Europe — the Article 8 anchor
 
@@ -40,11 +40,25 @@ Together: **act early (Re A), act on findings (Re S), find facts properly (Re H-
 
 ---
 
+## Civil-law jurisdictions — the constitutional and supreme-court frame
+
+Civil-law systems handle PA differently from common-law: shorter judgments, narrower cassation function, decisions often anchored in constitutional family-protection clauses or civil-code articles rather than welfare reasoning. The three cases below are the leading civil-law authorities and read together they show the **same vocabulary discipline producing opposite operative outcomes**.
+
+9. **[BVerfG, 1 BvR 1076/23 (17 November 2023)](bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md)** — Germany. The Federal Constitutional Court (Second Chamber of the First Senate, Justices Ott, Radtke, Wolff) called PAS / *Eltern-Kind-Entfremdung* "*überkommene und fachwissenschaftlich als widerlegt geltende*" ("outdated and scientifically refuted") at Rn. 34. Anchored in Art. 6(2)(1) Grundgesetz. Counsel: Rechtsanwältin Kerstin Bielefeld, Cologne. Strongest civil-law constitutional ruling to date *against* using PAS framings as a basis for residence-transfer orders.
+
+10. **[Cass. 1re civ., 26 juin 2013, n° 12-14.392](cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)** — France. *Publié au bulletin*. The foundational French Supreme Court arrêt that put "syndrome d'aliénation parentale" into Cour de cassation reasoning, upholding a *Cour d'appel de Rennes* order. Panel: Charruault (president), Savatier (rapporteur), Petit (avocat général). Counsel: SCP Richard and SCP Waquet, Farge et Hazan. Reactions documented from Sophie Paricard (Toulouse 1), Maître Michèle Bauer (Bordeaux), and ACALPA. The high-water mark from which the 2018 ministerial circular and Loi du 30 juillet 2020 have since receded.
+
+11. **[STS 519/2017, Tribunal Supremo, Sala Primera, 22 September 2017](sts-519-2017-tribunal-supremo-alienacion-parental.md)** — Spain. The clearest example anywhere of a top European court doing PA work *without* using PA labels — the TS articulates the parental duty "*no influir negativamente en las opiniones de su hija*" and holds that a 12-year-old's manipulated rejection of a parent cannot defeat *interés superior* analysis, while studiously avoiding "síndrome de alienación parental" terminology in line with post-Ley Rhodes policy. Sits in direct, instructive tension with the German BVerfG decision: same vocabulary discipline, opposite operative result.
+
+**Read the three civil-law cases together** to see what "PA without PAS" looks like in three different constitutional traditions. The German court rejects the label *and* refuses the remedy; the Spanish court rejects the label *and* grants something close to the remedy under different reasoning; the French court used the label and is now in retreat from it.
+
+---
+
 ## How these case studies are sourced
 
 For each case:
-- **Primary**: the judgment itself (BAILII / CanLII / AustLII / HUDOC / state-court records)
-- **Secondary**: practitioner commentary from family-law chambers and academic publications
+- **Primary**: the judgment itself (BAILII / CanLII / AustLII / HUDOC / state-court records / BVerfG / Légifrance / CENDOJ)
+- **Secondary**: practitioner commentary from family-law chambers, academic publications, and named law reviews
 - **Tertiary**: investigative journalism with named reporters and traceable sources (TBIJ's Hannah Summers, Transparency Project's Lucy Reed KC, Globe and Mail's Kirk Makin, Detroit News, Forward's Paul Berger, Haaretz's Allison Kaplan Sommer, BBC's Sanchia Berg, Guardian's Louise Tickle)
 
 Where a fact is contested, we identify the contestation. Where children's identities are anonymised in the judgment, we work within that anonymisation — except where children's names were so widely reported in the contemporary press (Tsimhoni) that pretending otherwise would be dishonest; in those cases we acknowledge the issue explicitly. Where we could not verify a detail, we say "**not publicly confirmed**" rather than guess.
@@ -53,9 +67,11 @@ Where a fact is contested, we identify the contestation. Where children's identi
 
 - More US state-appellate PA decisions
 - Joan Meier's case series follow-ups
-- German BVerfG decisions on Umgangsrecht (contact rights)
-- French Cour de cassation civ. 1 PA-relevant decisions
-- Spanish Tribunal Supremo cases (in the context of Spain's officially-rejected-but-court-cited SAP)
+- BGH (German federal supreme court, civil family-law) decisions
+- Italian Cassazione cases (especially the Bibbiano context)
+- Dutch Hoge Raad cases
+- Belgian cases (francophone + flamand cassation)
+- Polish Sąd Najwyższy
 - Cases that journalists are working on right now — when the Transparency Project, TBIJ, or Right to Equality publish on a new judgment, we'll add it here within 24 hours
 
 ## How to use these
