@@ -10,8 +10,10 @@ The goal: be the single most comprehensive open-source reference on parental ali
 |---|---|
 | **A parent who just lost contact** | [/playbooks/first-90-days.md](./playbooks/first-90-days.md) for week-by-week steps, then [/templates/](./templates/) for the artefacts you need |
 | **Preparing for a court hearing** | [/playbooks/court-prep-checklist.md](./playbooks/court-prep-checklist.md), [/templates/court-bundle-structure.md](./templates/court-bundle-structure.md), [/landmark-cases/](./landmark-cases/) |
+| **Accused of alienating** | [/playbooks/accused-of-alienation.md](./playbooks/accused-of-alienation.md) |
+| **In a cross-border / international case** | [/playbooks/cross-border-hague.md](./playbooks/cross-border-hague.md) |
 | **Vetting / working with a lawyer** | [/playbooks/working-with-lawyer.md](./playbooks/working-with-lawyer.md) |
-| **Needing an evidence tool now** | [/templates/gdpr-art-15-school-sar.md](./templates/gdpr-art-15-school-sar.md), [/templates/contact-log-spreadsheet.md](./templates/contact-log-spreadsheet.md) |
+| **Needing the vocabulary** | [/glossary/](./glossary/) — definitions, what to use, what to avoid |
 | **Looking for peer support** | [/community/](./community/) — Reddit subreddits + advocacy orgs |
 | **Researching the field** | [/resources/research-databases.md](./resources/research-databases.md), [/resources/key-books.md](./resources/key-books.md), [/influencers/](./influencers/), [/case-law/2024-2026-rulings.md](./case-law/2024-2026-rulings.md) |
 | **Wanting shareable educational material** | [/open-source/infographics/](./open-source/infographics/) — 38 purpose-built reference cards |
@@ -20,9 +22,10 @@ The goal: be the single most comprehensive open-source reference on parental ali
 
 | Section | What's there | Approx count |
 |---|---|---|
-| **[/playbooks/](./playbooks/)** | Step-by-step guides — first 90 days, court prep, working with a lawyer | 3 + index |
+| **[/playbooks/](./playbooks/)** | Step-by-step guides — first 90 days, court prep, lawyer work, reunification, teens, documentation, accused, cross-border, grandparent | 9 + index |
 | **[/templates/](./templates/)** | Practical artefacts — letters, log templates, prep briefs, communication patterns | 9 + index |
 | **[/resources/](./resources/)** | Where the evidence lives — research databases + the key-books reading shelf | 2 + index |
+| **[/glossary/](./glossary/)** | PA vocabulary — definitions, what to use in court, what to avoid | 1 + index |
 | **[/jurisdictions/](./jurisdictions/)** | Per-country / per-US-state legal-reference pages | 30 |
 | **[/landmark-cases/](./landmark-cases/)** | Foundational cases everyone should be able to cite | Curated |
 | **[/case-law/2024-2026-rulings.md](./case-law/)** | Cross-jurisdiction recent rulings consolidation | ~60 |
@@ -33,10 +36,11 @@ The goal: be the single most comprehensive open-source reference on parental ali
 | **[/tools/legal-research.md](./tools/legal-research.md)** | Free authoritative legal databases | 12 |
 | **[/publishers/](./publishers/)** | Verified Upstream Publishers we mirror or credit | 2 |
 | **[/digest/](./digest/)** | Daily auto-accumulated finds from PubMed / CrossRef / CourtListener / BAILII / Reddit | Rolling |
+| **[/press/](./press/)** | Press kit for the open-source launch (draft, pre-distribution) | 4 + index |
 
 ## How this is maintained
 
-A background agent polls public legal-research sources every 25 minutes (PubMed, CrossRef, CourtListener, BAILII, Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Playbooks, value cards, templates, jurisdiction pages, influencer pages, and case-law consolidations are added on a rolling basis.
+A background agent polls public legal-research sources every 25 minutes (PubMed, CrossRef, CourtListener, BAILII, Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Playbooks, value cards, templates, jurisdiction pages, influencer pages, glossary entries, and case-law consolidations are added on a rolling basis.
 
 The repo grows continuously. If you bookmark only one URL: this one.
 
@@ -51,6 +55,7 @@ We credit independent publishers whose work we mirror or draw from. Crediting up
 
 Issues and PRs welcome on:
 - Additional playbooks for situations not yet covered
+- Glossary terms missing or in need of refinement
 - Additional jurisdictions
 - Additional templates — translations, jurisdictional adaptations
 - New value cards
