@@ -1,31 +1,34 @@
 # Auto-Accumulated Finds
 
-Daily digests of fresh PA-related material from zero-auth public sources, pushed automatically by the AntiAlienate knowledge-base agent each loop tick.
+Daily digests of fresh PA-related material from public legal-research sources, pushed automatically by the AntiAlienate knowledge-base agent each loop tick.
 
-## Sources polled
+## Sources polled (each tick)
 
-- **PubMed** — clinical & academic research (E-utilities API, no key required)
-- **CrossRef** — academic papers with DOI metadata (no key)
-- **BAILII** — recent UK/IE court decisions (scrape-friendly recent-decisions page)
+| Source | Coverage | Auth |
+|---|---|---|
+| **PubMed** (E-utilities) | Clinical & academic research | none |
+| **CrossRef** REST | Academic papers + DOI metadata | none |
+| **CourtListener** | US federal + state appellate opinions | account |
+| **BAILII** recent-decisions | UK/IE family-court rulings | none (scrape) |
 
 ## File format
 
-`YYYY-MM-DD-finds.md` — one digest per day, organised by source, with full citation + URL per item.
+`YYYY-MM-DD-finds.md` — one digest per day, organised by source, with full citation + URL per item. Re-runs append new items + skip dupes via `known-finds.json`.
 
 ## Verification
 
 These are **research leads** auto-pulled by keyword match. Verify against primary source before relying on any specific item for advocacy or legal use.
 
-## Future sources
+## Future sources (when access available)
 
-When access becomes available:
-- CourtListener (needs free API token)
-- HUDOC (JS-rendered, needs different scraping approach)
-- OpenAlex, Indian Kanoon, CanLII
+- **HUDOC** — JS-rendered, needs Playwright-style scraping
+- **OpenAlex** — academic graph
+- **Indian Kanoon**, **CanLII** — same scrape-friendly model as BAILII
+- **EUR-Lex** — EU legal database (has API)
 
 ## Generator
 
-Script: `/tmp/.aa-secrets/accumulator.py` (host machine — not in repo). Runs each loop tick. Idempotent — dedupes against `known-finds.json`.
+Script: `/tmp/.aa-secrets/accumulator.py` (host machine — not in repo). Runs each loop tick. Idempotent — dedupes against `known-finds.json`. Sources extensible via `def {source}_search(...)` plumbing.
 
 ---
 
