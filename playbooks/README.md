@@ -15,11 +15,13 @@ What to actually do, in order, when you're in the middle of it.
 - **[Cross-Border / Hague](cross-border-hague.md)** — jurisdiction selection and international abduction basics
 - **[Grandparent Alienation](grandparent-pa.md)** — when the bridge to a child goes through the extended family
 - **[PA and Domestic Violence](pa-and-domestic-violence.md)** — navigating the overlap from both directions
+- **[Step-Parent Dynamics](step-parent-dynamics.md)** — when a new partner enters the PA picture (four scenarios)
 
 ## Coming soon
 
-- Step-parent dynamics and PA
 - The successful reunification case study — anonymised composite stories
+- High-net-worth PA cases — specific tactics and pitfalls
+- LGBTQ+ family PA dynamics
 
 ## Related
 
