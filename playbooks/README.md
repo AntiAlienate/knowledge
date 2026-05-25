@@ -14,16 +14,16 @@ What to actually do, in order, when you're in the middle of it.
 - **[Accused of Alienation](accused-of-alienation.md)** — when you're the one being named
 - **[Cross-Border / Hague](cross-border-hague.md)** — jurisdiction selection and international abduction basics
 - **[Grandparent Alienation](grandparent-pa.md)** — when the bridge to a child goes through the extended family
+- **[PA and Domestic Violence](pa-and-domestic-violence.md)** — navigating the overlap from both directions
 
 ## Coming soon
 
 - Step-parent dynamics and PA
 - The successful reunification case study — anonymised composite stories
-- PA + domestic violence allegations: navigating the overlap
 
 ## Related
 
-- [The Debate](../the-debate/) — recognition vs critique literatures (read before evaluator selection)
+- [The Debate](../the-debate/) — recognition vs critique literatures (read before evaluator selection or DV-overlap cases)
 - [Templates](../templates/) — concrete documents (letters, statements, request forms)
 - [Case law](../case-law/) — citable rulings by region
 - [Influencers](../influencers/) — clinicians and lawyers behind the methods these playbooks use
