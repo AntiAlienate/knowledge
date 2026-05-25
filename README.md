@@ -1,6 +1,6 @@
 # AntiAlienate — The Open-Source Highway for Parental Alienation
 
-> If you're dealing with parental alienation — or working with someone who is — this repository is the central hub of legal references, practical templates, peer-reviewed research, jurisdiction-by-jurisdiction case law, influencer reference pages, community routing, and shareable infographics. **Open-source. Free. No paywall. CC BY 4.0.**
+> If you're dealing with parental alienation — or working with someone who is — this repository is the central hub of legal references, practical templates, peer-reviewed research, jurisdiction-by-jurisdiction case law, influencer reference pages, community routing, step-by-step playbooks, and shareable infographics. **Open-source. Free. No paywall. CC BY 4.0.**
 
 The goal: be the single most comprehensive open-source reference on parental alienation. The highway every other resource routes through.
 
@@ -8,18 +8,21 @@ The goal: be the single most comprehensive open-source reference on parental ali
 
 | If you are… | Go to |
 |---|---|
-| **A parent who just lost contact** | [/templates/](./templates/) for the artefacts you need this week, then [/jurisdictions/](./jurisdictions/) for your legal framework |
-| **Preparing for a court hearing** | [/templates/court-bundle-structure.md](./templates/court-bundle-structure.md), [/templates/cafcass-prep-brief.md](./templates/cafcass-prep-brief.md), [/landmark-cases/](./landmark-cases/) |
+| **A parent who just lost contact** | [/playbooks/first-90-days.md](./playbooks/first-90-days.md) for week-by-week steps, then [/templates/](./templates/) for the artefacts you need |
+| **Preparing for a court hearing** | [/playbooks/court-prep-checklist.md](./playbooks/court-prep-checklist.md), [/templates/court-bundle-structure.md](./templates/court-bundle-structure.md), [/landmark-cases/](./landmark-cases/) |
+| **Vetting / working with a lawyer** | [/playbooks/working-with-lawyer.md](./playbooks/working-with-lawyer.md) |
 | **Needing an evidence tool now** | [/templates/gdpr-art-15-school-sar.md](./templates/gdpr-art-15-school-sar.md), [/templates/contact-log-spreadsheet.md](./templates/contact-log-spreadsheet.md) |
 | **Looking for peer support** | [/community/](./community/) — Reddit subreddits + advocacy orgs |
-| **Researching the field** | [/research/](./research/), [/influencers/](./influencers/), [/case-law/2024-2026-rulings.md](./case-law/2024-2026-rulings.md), [/tools/legal-research.md](./tools/legal-research.md) |
+| **Researching the field** | [/resources/research-databases.md](./resources/research-databases.md), [/resources/key-books.md](./resources/key-books.md), [/influencers/](./influencers/), [/case-law/2024-2026-rulings.md](./case-law/2024-2026-rulings.md) |
 | **Wanting shareable educational material** | [/open-source/infographics/](./open-source/infographics/) — 38 purpose-built reference cards |
 
 ## All sections
 
 | Section | What's there | Approx count |
 |---|---|---|
+| **[/playbooks/](./playbooks/)** | Step-by-step guides — first 90 days, court prep, working with a lawyer | 3 + index |
 | **[/templates/](./templates/)** | Practical artefacts — letters, log templates, prep briefs, communication patterns | 9 + index |
+| **[/resources/](./resources/)** | Where the evidence lives — research databases + the key-books reading shelf | 2 + index |
 | **[/jurisdictions/](./jurisdictions/)** | Per-country / per-US-state legal-reference pages | 30 |
 | **[/landmark-cases/](./landmark-cases/)** | Foundational cases everyone should be able to cite | Curated |
 | **[/case-law/2024-2026-rulings.md](./case-law/)** | Cross-jurisdiction recent rulings consolidation | ~60 |
@@ -33,7 +36,7 @@ The goal: be the single most comprehensive open-source reference on parental ali
 
 ## How this is maintained
 
-A background agent polls public legal-research sources every 25 minutes (PubMed, CrossRef, CourtListener, BAILII, Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Value cards, templates, jurisdiction pages, influencer pages, and case-law consolidations are added on a rolling basis.
+A background agent polls public legal-research sources every 25 minutes (PubMed, CrossRef, CourtListener, BAILII, Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Playbooks, value cards, templates, jurisdiction pages, influencer pages, and case-law consolidations are added on a rolling basis.
 
 The repo grows continuously. If you bookmark only one URL: this one.
 
@@ -47,11 +50,12 @@ We credit independent publishers whose work we mirror or draw from. Crediting up
 ## Contributing
 
 Issues and PRs welcome on:
+- Additional playbooks for situations not yet covered
 - Additional jurisdictions
 - Additional templates — translations, jurisdictional adaptations
 - New value cards
 - Foundational cases we've missed
-- Additional influencers / community resources
+- Additional influencers / community resources / books for the resources shelf
 - Corrections, link rot, primary-source verification of unlinked citations
 
 ## License & attribution
