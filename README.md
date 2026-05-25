@@ -1,6 +1,6 @@
 # AntiAlienate — The Open-Source Highway for Parental Alienation
 
-> If you're dealing with parental alienation — or working with someone who is — this repository is the central hub of legal references, practical templates, peer-reviewed research, jurisdiction-by-jurisdiction case law, influencer reference pages, community routing, step-by-step playbooks, glossary, the field's real debate, and shareable infographics. **Open-source. Free. No paywall. CC BY 4.0.**
+> If you're dealing with parental alienation — or working with someone who is — this repository is the central hub of legal references, practical templates, peer-reviewed research, jurisdiction-by-jurisdiction case law, deeply-investigated case studies, influencer reference pages, community routing, step-by-step playbooks, glossary, the field's real debate, and shareable infographics. **Open-source. Free. No paywall. CC BY 4.0.**
 
 The goal: be the single most comprehensive open-source reference on parental alienation. The highway every other resource routes through.
 
@@ -13,9 +13,11 @@ The goal: be the single most comprehensive open-source reference on parental ali
 | **Facing a forensic evaluation** | [/playbooks/evaluator-selection.md](./playbooks/evaluator-selection.md) — how to pick, vet, and object |
 | **Accused of alienating** | [/playbooks/accused-of-alienation.md](./playbooks/accused-of-alienation.md) |
 | **In a cross-border / international case** | [/playbooks/cross-border-hague.md](./playbooks/cross-border-hague.md) |
+| **In a case involving DV and PA allegations** | [/playbooks/pa-and-domestic-violence.md](./playbooks/pa-and-domestic-violence.md) |
 | **Vetting / working with a lawyer** | [/playbooks/working-with-lawyer.md](./playbooks/working-with-lawyer.md) |
 | **Needing the vocabulary** | [/glossary/](./glossary/) — definitions, what to use, what to avoid |
 | **Trying to understand the field's actual debate** | [/the-debate/recognition-vs-critique.md](./the-debate/recognition-vs-critique.md) |
+| **Wanting to read real cases, not citation lists** | [/case-studies/](./case-studies/) — 8 cases deeply investigated, named participants, journalism trail |
 | **Looking for peer support** | [/community/](./community/) — Reddit subreddits + advocacy orgs (intl) |
 | **Researching the field** | [/resources/research-databases.md](./resources/research-databases.md), [/resources/key-books.md](./resources/key-books.md), [/influencers/](./influencers/), [/case-law/2024-2026-rulings.md](./case-law/2024-2026-rulings.md) |
 | **Wanting shareable educational material** | [/open-source/infographics/](./open-source/infographics/) — 38 purpose-built reference cards |
@@ -24,7 +26,8 @@ The goal: be the single most comprehensive open-source reference on parental ali
 
 | Section | What's there | Approx count |
 |---|---|---|
-| **[/playbooks/](./playbooks/)** | Step-by-step guides — first 90 days, court prep, lawyer work, reunification, teens, documentation, accused, cross-border, grandparent, evaluator selection | 10 + index |
+| **[/playbooks/](./playbooks/)** | Step-by-step guides — first 90 days, court prep, lawyer work, reunification, teens, documentation, accused, cross-border, grandparent, evaluator selection, DV-overlap, step-parent | 12 + index |
+| **[/case-studies/](./case-studies/)** | Real PA cases deeply investigated — named participants, journalism trail, doctrinal arcs (UK / Canada / US / EU / AU) | 8 + index |
 | **[/templates/](./templates/)** | Practical artefacts — letters, log templates, prep briefs, communication patterns | 9 + index |
 | **[/resources/](./resources/)** | Where the evidence lives — research databases + the key-books reading shelf | 2 + index |
 | **[/glossary/](./glossary/)** | PA vocabulary — definitions, what to use in court, what to avoid | 1 + index |
@@ -43,7 +46,7 @@ The goal: be the single most comprehensive open-source reference on parental ali
 
 ## How this is maintained
 
-A background agent polls public legal-research sources every 25 minutes (PubMed, CrossRef, CourtListener, BAILII, Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Playbooks, value cards, templates, jurisdiction pages, influencer pages, glossary entries, debate analysis, and case-law consolidations are added on a rolling basis.
+A background agent polls public legal-research sources every 25 minutes (PubMed, CrossRef, CourtListener, BAILII, Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Case studies, playbooks, value cards, templates, jurisdiction pages, influencer pages, glossary entries, debate analysis, and case-law consolidations are added on a rolling basis.
 
 The repo grows continuously. If you bookmark only one URL: this one.
 
@@ -61,6 +64,7 @@ We credit independent publishers whose work we mirror or draw from. Crediting up
 ## Contributing
 
 Issues and PRs welcome on:
+- Additional case-study investigations from your jurisdiction (especially with named participants and journalism trail)
 - Additional playbooks for situations not yet covered
 - Glossary terms missing or in need of refinement
 - Additional jurisdictions
