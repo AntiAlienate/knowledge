@@ -7,13 +7,16 @@ What to actually do, in order, when you're in the middle of it.
 - **[First 90 Days](first-90-days.md)** — what to do in the first three months after realising your child is being turned against you
 - **[Court Prep Checklist](court-prep-checklist.md)** — what to bring, say, and avoid in a contested hearing
 - **[Working With Your Family Lawyer](working-with-lawyer.md)** — how to vet, brief, and get value from your legal counsel
+- **[Reunification Therapy](reunification-therapy.md)** — what to ask for and what to avoid when court orders intervention
+- **[Teenage Alienation](teen-alienation.md)** — why ages 12–17 need a different approach
+- **[Documentation System](documentation-system.md)** — what to capture, where to store it, how to retain it
 
 ## Coming soon
 
-- Reunification therapy: what to ask for and what to avoid
-- Documentation system: tools, templates, retention rules
-- The teenage alienation case: why ages 12–17 need a different approach
 - International / cross-border cases: jurisdiction selection and Hague Convention basics
+- Step-parent dynamics and PA
+- Grandparent alienation: separate playbook for grandparent rights and PA overlap
+- The reverse case: when you've been accused of alienation
 
 ## Related
 
