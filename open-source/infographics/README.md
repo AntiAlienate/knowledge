@@ -22,7 +22,19 @@ The eight observable child-behaviour markers Bernet uses to identify alienation.
 
 ![Strand Lobben v Norway — ECHR Article 8 doctrine](./strand-lobben.png)
 
-The grand-chamber case that requires states to actively support family-ties restoration.
+The Grand Chamber case requiring states to actively support family-ties restoration.
+
+### Brazil — Lei 12.318/2010 (Lei da Alienação Parental)
+
+![Brazil — Lei 12.318/2010 (Lei da Alienação Parental)](./lei-12318.png)
+
+Brazilian statute defining alienação parental + 7 conduct categories + remedies. Constitutionality reaffirmed STF ADI 2024.
+
+### Family Bridges / Warshak — Welcoming Our Children Home
+
+![Family Bridges / Warshak — Welcoming Our Children Home](./family-bridges.png)
+
+Four-day residential reunification intensive + 90-day aftercare. The leading evidence-based protocol.
 
 ## Statistics
 
@@ -30,7 +42,13 @@ The grand-chamber case that requires states to actively support family-ties rest
 
 ![ICD-11 QE52.2 — Caregiver-child relationship problem](./icd11-qe52-2.png)
 
-The WHO clinical code that names the dynamic. In force since 2022.
+WHO clinical code naming the dynamic. In force since 2022.
+
+### DSM-5-TR V61.29 — Child affected by parental relationship distress
+
+![DSM-5-TR V61.29 — Child affected by parental relationship distress](./dsm5tr-v6129.png)
+
+Companion to ICD-11 QE52.2. The DSM-5-TR Z-code for children harmed by parental conflict.
 
 ### 85% of children with behavioural disorders come from fatherless homes
 
@@ -44,7 +62,7 @@ US Census / fatherhood.org statistic on father-absence as a child-adversity corr
 
 ![Astreintes (Belgium / France / Netherlands)](./astreintes.png)
 
-A per-breach financial penalty that compounds — stronger than flat fines.
+Per-breach financial penalty that compounds. Stronger than flat fines.
 
 ### Affido super-esclusivo (Italy)
 
@@ -64,6 +82,12 @@ Dutch termination-of-parental-authority remedy under BW Boek 1 Art. 266.
 
 Foundational US Supreme Court case affirming parents' fundamental 14th-Am liberty interest.
 
+### UK GDPR Article 15 — Subject Access Right
+
+![UK GDPR Article 15 — Subject Access Right](./uk-gdpr-rights.png)
+
+Every parent with parental responsibility can pull EVERYTHING the school/doctor/social-services holds on the child.
+
 ## Tactics
 
 ### Three things to prepare before Cafcass / GAL / court-psychologist interview
@@ -82,7 +106,13 @@ Column structure for the dated contact log that beats any oral testimony.
 
 ![Use GDPR Art. 15 to pull the school's full file on your child](./gdpr-art-15-school.png)
 
-How to get everything the school holds about your child — free, in 30 days.
+How to get everything the school holds on your child — free, in 30 days.
+
+### How to ask a Belgian / French judge for an astreinte
+
+![How to ask a Belgian / French judge for an astreinte](./astreintes-filing.png)
+
+Four-step procedural ask for automatic per-breach accrual.
 
 ---
 
@@ -90,6 +120,6 @@ How to get everything the school holds about your child — free, in 30 days.
 
 - Embed directly in your blog, advocacy site, or social post.
 - Adapt and remix under CC BY 4.0 — credit AntiAlienate.com.
-- New card requests via GitHub issue. PRs welcome (use `/tmp/.aa-secrets/make-card-v1.py` as the generator).
+- New card requests via GitHub issue. PRs welcome (generator: `make-card-v1.py`).
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
