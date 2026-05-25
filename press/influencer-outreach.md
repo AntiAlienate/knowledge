@@ -12,58 +12,92 @@ Use alongside [launch-copy.md](launch-copy.md) for the actual outreach copy. Per
 2. **Tier 2 same window** — practitioners and expert witnesses.
 3. **Tier 3** — orgs may share with their member bases; lower-friction asks.
 4. **Tier 4** — journalists, pitched only after the repo is publicly live (launch day or +1).
-5. Track in a simple sheet: name, date sent, response (none / opened / replied / shared), next action.
-6. **One follow-up at the 3-week mark only.** Researchers are busy.
+5. **Critics (Silberg, Geffner)** — pitch with the same respectful, non-defensive tone. The open-source ethos requires their critique be referenced, and they should know we have done so.
+6. Track in a sheet: name, date sent, response (none / opened / replied / shared), next action.
+7. **One follow-up at the 3-week mark only.** Researchers are busy.
 
 ---
 
 ## Tier 1 — Academics & Clinicians (field-defining)
 
-| # | Name | Primary contact | Backup | Source | Personalisation hook |
-|---|------|----------------|--------|--------|---------------------|
-| 1 | **William Bernet, MD** (Vanderbilt; founder PASG) | william.bernet@vumc.org | PASG Facebook @ParentalAlienationStudyGroup; mail: PO Box 4090, Brentwood TN 37024 | [Vanderbilt profile](https://www.vumc.org/psychiatry/person/william-bernet-md), [PASG](https://pasg.info) | Founder of PASG; reference the group's 1,000+ members across 60+ countries and the ongoing Five-Factor Model of PA diagnosis. |
-| 2 | **Richard A. Warshak, PhD** (author *Divorce Poison*) | media@warshak.com (media); doc@warshak.com (speaking) | Phone 972-248-7700; 1920 N Coit Rd Ste 200-203, Richardson TX 75080 | [Warshak media kit](https://r.warshak.com/media/kit.html) | Cite his Family Bridges reunification work and the 30th-anniversary updates to *Divorce Poison*. |
-| 3 | **Amy J. L. Baker, PhD** (Vincent J. Fontana Center) | DrAmyJLBaker@gmail.com | amyjlbaker@aol.com; phone (201) 321-9874; [contact form](https://www.amyjlbaker.com/contact-9) | [amyjlbaker.com](https://www.amyjlbaker.com/) | Director of research at Vincent J. Fontana Center — reference her 17-Alienating-Behaviors framework. |
-| 4 | **Bill Eddy, LCSW, Esq.** (High Conflict Institute) | info@highconflictinstitute.com | X: @HighConflict; [LinkedIn](https://www.linkedin.com/in/bill-eddy-bba98a1b/) | [highconflictinstitute.com](https://www.highconflictinstitute.com/) | Co-founder HCI; reference his BIFF Response method and *Our New World of Adult Bullies*. |
-| 5 | **Jennifer Harman, PhD** (Colorado State University) | Jennifer.Harman@ColoState.edu | Phone (970) 491-1529; Office 219 BHSCI, CSU | [CSU faculty](https://psyweb.psych.colostate.edu/deptlist/facdetail.php?FirstName=Jennifer+Jill&LastName=Harman) | Reference her PA-as-family-violence prevalence research and the EurekAlert release framing PA as "intimate terrorism." |
+| # | Name | Primary contact | Backup | Source | Hook |
+|---|------|----------------|--------|--------|------|
+| 1 | **William Bernet, MD** (Vanderbilt; founder PASG) | william.bernet@vumc.org | PASG FB @ParentalAlienationStudyGroup; mail PO Box 4090, Brentwood TN 37024 | [Vanderbilt profile](https://www.vumc.org/psychiatry/person/william-bernet-md) | PASG 1,000+ members across 60+ countries; ongoing Five-Factor Model of PA diagnosis |
+| 2 | **Richard A. Warshak, PhD** (author *Divorce Poison*) | media@warshak.com (media); doc@warshak.com (speaking) | Phone 972-248-7700; Richardson TX | [Warshak media kit](https://r.warshak.com/media/kit.html) | Family Bridges reunification work; 30th-anniversary *Divorce Poison* |
+| 3 | **Amy J. L. Baker, PhD** (Vincent J. Fontana Center) | DrAmyJLBaker@gmail.com | amyjlbaker@aol.com; phone (201) 321-9874 | [amyjlbaker.com](https://www.amyjlbaker.com/) | 17-Alienating-Behaviors framework; adult-children-of-PA research |
+| 4 | **Bill Eddy, LCSW, Esq.** (High Conflict Institute) | info@highconflictinstitute.com | X @HighConflict; [LinkedIn](https://www.linkedin.com/in/bill-eddy-bba98a1b/) | [highconflictinstitute.com](https://www.highconflictinstitute.com/) | BIFF Response method; *Our New World of Adult Bullies* |
+| 5 | **Jennifer Harman, PhD** (Colorado State University) | Jennifer.Harman@ColoState.edu | (970) 491-1529; Office 219 BHSCI, CSU | [CSU faculty](https://psyweb.psych.colostate.edu/deptlist/facdetail.php?FirstName=Jennifer+Jill&LastName=Harman) | PA-as-family-violence prevalence research; "intimate terrorism" framing |
+| 6 | **Joan B. Kelly, PhD** *(field founder — resist-refuse framework)* | No verified public path; historically via Northern California Mediation Center | [ResearchGate](https://www.researchgate.net/profile/Joan-Kelly-3) | ResearchGate | 2001 "Alienated Child" reformulation; foundational *Surviving the Breakup* |
+| 7 | **Janet R. Johnston, PhD** *(field founder — bridge figure)* | No direct public personal path; SJSU department only | LinkedIn | [SJSU Justice Studies](https://www.sjsu.edu/justicestudies/) | 2020 "In Search of Common Ground"; bridge between recognition + safeguarding camps |
 
 ---
 
 ## Tier 2 — Practitioners & Expert Witnesses
 
-| # | Name | Primary contact | Backup | Source | Personalisation hook |
-|---|------|----------------|--------|--------|---------------------|
-| 6 | **Karen Woodall** (UK Family Separation Clinic) | Contact form at [karenwoodall.blog/contact](https://karenwoodall.blog/contact/) or familyseparationclinic.com contact page (no direct email listed) | Blog: karenwoodall.blog | [Family Separation Clinic](https://www.familyseparationclinic.com/) | Reference her 2024 blog series "The Secret Life of the Alienated Child" and her therapeutic-parenting recovery model. |
-| 7 | **Edward Kruk, PhD** (UBC School of Social Work) | edward.kruk@ubc.ca | Phone 604-822-2383; UBC, 2080 West Mall, Vancouver BC V6T 1Z2 | [UBC profile](https://socialwork.ubc.ca/profile/edward-kruk/), [UBC Experts](https://experts.news.ubc.ca/expert/edward-kruk/) | Cite *The Equal Parent Presumption* and his Psychology Today columns on shared parenting policy. |
-| 8 | **Craig Childress, PsyD** (Multi-Modal Family Intervention) | [Contact form](https://drcachildress.org/asp/Site/ContactUs/index) at drcachildress.org (no public email listed) | Blog: drcraigchildressblog.com; YouTube channel UC_ZRgxrpZJs2RD3U-VDPCTw | [drcraigchildressblog.com](https://drcraigchildressblog.com/) | Reference his Attachment-Based Model (AB-PA) and the "trifecta" diagnostic indicators — show you understand the paradigm shift from Gardner's PAS. |
-| 9 | **Demosthenes Lorandos, JD, PhD** — *⚠️ retired; firm now run by Shawn Wygant* | swygant@psychlaw.net | Phone 989-335-5134; X/FB: @PsychLawScience | [psychlaw.net](https://psychlaw.net/) | Reference *Parental Alienation: Science and Law* (2020, with Bernet). Address outreach to the firm, not Lorandos personally. |
+| # | Name | Primary contact | Backup | Source | Hook |
+|---|------|----------------|--------|--------|------|
+| 8 | **Karen Woodall** (UK Family Separation Clinic) | Contact form at [karenwoodall.blog/contact](https://karenwoodall.blog/contact/) | familyseparationclinic.com contact page | [Family Separation Clinic](https://www.familyseparationclinic.com/) | 2024 "Secret Life of the Alienated Child" series; therapeutic-parenting recovery model |
+| 9 | **Edward Kruk, PhD** (UBC Social Work) | edward.kruk@ubc.ca | Phone 604-822-2383; Vancouver BC | [UBC profile](https://socialwork.ubc.ca/profile/edward-kruk/) | *The Equal Parent Presumption*; Psychology Today shared-parenting columns |
+| 10 | **Craig Childress, PsyD** (Multi-Modal Family Intervention) | Contact form at [drcachildress.org](https://drcachildress.org/asp/Site/ContactUs/index) | Blog drcraigchildressblog.com; YouTube channel UC_ZRgxrpZJs2RD3U-VDPCTw | [drcraigchildressblog.com](https://drcraigchildressblog.com/) | Attachment-Based Model (AB-PA); "trifecta" diagnostic indicators |
+| 11 | **Demosthenes Lorandos, JD, PhD** *(⚠️ retired; firm now Shawn Wygant)* | swygant@psychlaw.net | Phone 989-335-5134; X/FB @PsychLawScience | [psychlaw.net](https://psychlaw.net/) | *Parental Alienation: Science and Law* (2020, with Bernet) — address firm not Lorandos |
+| 12 | **Nicholas (Nick) Bala, LLM** (Queen's Law, Canada) | nick.bala@queensu.ca | Faculty page (publicly listed) | [Queen's Law](https://law.queensu.ca/directory/nicholas-c-bala) | *Children Who Resist Postseparation Parental Contact* (Oxford 2013); 2024 SSRN strategy paper |
+| 13 | **Barbara Jo Fidler, PhD, C.Psych.** (Toronto private practice; AFCC senior trainer) | Contact form at [bjfidler.com](https://www.bjfidler.com) | No public email | [bjfidler.com](https://www.bjfidler.com) | Co-author *Children Who Resist Postseparation Parental Contact*; AFCC parenting-coordination training |
+| 14 | **Linda J. Gottlieb, LMFT, LCSW-R** (Turning Points for Families) | Contact form at [lindagottlieb.com/contact](https://lindagottlieb.com/contact) | Intake email on site | [lindagottlieb.com](https://lindagottlieb.com) | TPFF intensive reunification; 2021 Colorado State outcome study |
+| 15 | **J. Michael Bone, PhD** (Winter Park FL — expert witness) | Contact form at [jmichaelbone.com](https://www.jmichaelbone.com/contact.html) | Office tel on site | [jmichaelbone.com](https://www.jmichaelbone.com) | "Four Criteria" framework (1999); long-running CE-course expert |
+| 16 | **Wilfrid von Boch-Galhau, MD** *(⚠️ retired)* (Würzburg, Germany) | Practice tel +49 931 3592133 (verify — retired) | Practice address Oberer Dallenbergweg 15, 97082 Würzburg | [drvboch.de](http://www.drvboch.de) | German-language PA monograph; PASG voice; Würzburg interdisciplinary group |
+| 17 | **Asunción Tejedor Huerta, PhD** (Spain — forensic) | Via Colegio Oficial de Psicólogos del Principado de Asturias (no personal email verified) | [Sociedad Española de Psicología Jurídica y Forense](https://psicologiajuridica.org) | psicologiajuridica.org | *El síndrome de alienación parental* (EOS); PIVIP intervention manual |
+| 18 | **Sietske Dijkstra, PhD** (Netherlands — coercive-control bridge) | Contact form at [sietske-dijkstra.nl](https://www.sietske-dijkstra.nl) | Bureau Dijkstra, Utrecht | [sietske-dijkstra.nl](https://www.sietske-dijkstra.nl) | 2020 *Journal of Gender-Based Violence* paper on mother-daughter contact + coercive control |
+
+---
+
+## Tier 2C — Critics (pitch with same respect; their critique is referenced in our repo)
+
+| # | Name | Primary contact | Backup | Source | Hook |
+|---|------|----------------|--------|--------|------|
+| 19 | **Joyanna Silberg, PhD** (Leadership Council) | info@leadershipcouncil.org | thechildsurvivor.com contact | [Leadership Council](https://leadershipcouncil.org) | We've profiled her critique alongside the recognition literature — Mercer & Silberg 2016, Silberg & Dallam 2019. Lead with the genuine point that we cite her work in our balance section. |
+| 20 | **Robert Geffner, PhD** (Institute on Violence, Abuse and Trauma) | Via [ivatcenters.org](https://ivatcenters.org) contact page | n/a | ivatcenters.org | 2022 critique of TPFF and Family Bridges in *J. Family Trauma, Child Custody & Child Development* — same framing: we reference his work and want him to see how |
 
 ---
 
 ## Tier 3 — Advocacy Organisations
 
-| # | Org | Primary contact | Backup | Source | Personalisation hook |
-|---|-----|----------------|--------|--------|---------------------|
-| 10 | **Parental Alienation Study Group (PASG)** | [Contact form](https://pasg.info/contact/) at pasg.info | FB: @ParentalAlienationStudyGroup; YouTube @pasg3541; PO Box 4090, Brentwood TN 37024 | [pasg.info](https://pasg.info) | Mention the annual PASG conference and member-base across 60+ countries; offer the knowledge base as a free CC-BY resource for members. |
-| 11 | **National Parents Organization (NPO)** — US | [Contact form](https://nationalparentsorganization.org/contact-us); phone 617-431-8019 | X: @NatlParentsOrg; FB: @nationalparentsorganization; 2 Abbott St #543, Woburn MA 01801 | [nationalparentsorganization.org](https://nationalparentsorganization.org/) | Reference their Shared Parenting Report Card grading US states and recent equal-parenting wins in KY, AR, WV, FL, MO. |
-| 12 | **Both Parents Matter Cymru (FNF-BPM)** — *⚠️ CLOSING 23 Dec 2025* | INFO@FNF-BPM.ORG.UK | Helpline 0333 050 6815; phone 07967 463153; 61 Cowbridge Road East, Cardiff CF11 9AE | [fnf-bpm.org.uk](https://www.fnf-bpm.org.uk/info/contact.htm) | Acknowledge wind-down; offer the knowledge base as a legacy resource for their helpline base. |
-| 13 | **Centre for Justice in Family Law** — *⚠️ no verified path found* | n/a | n/a | n/a | Possible name confusion with [Transparency Project](https://transparencyproject.org.uk), Centre for Family Law and Practice (CFLP), or Family Justice Council. Re-confirm name before pitching. |
-| 14 | **Australian Brotherhood of Fathers** | info@theabf.com.au | Phone 1300 008 602; PO Box 3831, Robina Town Centre QLD 4230; founder Leith Erikson | [theabf.com.au](https://theabf.com.au/contact-us/) | Reference their submissions to the Joint Select Committee on Family Law and Leith Erikson's national media work. |
-| 15 | **Families Need Fathers (FNF UK)** | admin@fnf.org.uk | FB facebook.com/231208770254871; X @bothparentsmtr; LinkedIn /company/families-need-fathers | [fnf.org.uk](https://www.fnf.org.uk/) | Reference their "Keep the Presumption of Parental Involvement" campaign and ongoing helpline work. |
-| 16 | **Fathers 4 Justice (F4J)** | office@fathers-4-justice.org | Media phone 07788 235 250 (*media only — not a helpline*) | [fathers-4-justice.org](https://www.fathers-4-justice.org/contact-us/) | Reference Matt O'Connor's founding story and the org's "Contact Your MP" campaign tool. |
+### Existing (verified earlier)
+| # | Org | Primary contact | Source | Hook |
+|---|-----|----------------|--------|------|
+| 21 | **PASG** | [Contact form](https://pasg.info/contact/) | [pasg.info](https://pasg.info) | Annual PASG conference; 60+ countries; offer KB as free CC-BY resource |
+| 22 | **National Parents Organization (NPO)** US | [Contact form](https://nationalparentsorganization.org/contact-us); 617-431-8019 | [nationalparentsorganization.org](https://nationalparentsorganization.org/) | Shared Parenting Report Card grading US states |
+| 23 | **Both Parents Matter Cymru** *(⚠️ closing Dec 2025)* | INFO@FNF-BPM.ORG.UK | [fnf-bpm.org.uk](https://www.fnf-bpm.org.uk/info/contact.htm) | Acknowledge wind-down; KB as legacy resource |
+| 24 | **Australian Brotherhood of Fathers** | info@theabf.com.au | [theabf.com.au](https://theabf.com.au/contact-us/) | Joint Select Committee submissions; Leith Erikson's national media work |
+| 25 | **Families Need Fathers (FNF UK)** | admin@fnf.org.uk | [fnf.org.uk](https://www.fnf.org.uk/) | "Keep the Presumption of Parental Involvement" campaign |
+| 26 | **Fathers 4 Justice (F4J)** | office@fathers-4-justice.org | [fathers-4-justice.org](https://www.fathers-4-justice.org/contact-us/) | "Contact Your MP" campaign tool |
+
+### Added in expansion
+| # | Org | Primary contact | Source | Hook |
+|---|-----|----------------|--------|------|
+| 27 | **Family Separation Clinic** UK | admin@familyseparationclinic.com | [familyseparationclinic.com](https://www.familyseparationclinic.com) | Karen + Nick Woodall's clinic; High Court instructed assessor |
+| 28 | **EMMM Foundation** Australia | Contact form at [emmm.org.au](https://emmm.org.au) | emmm.org.au | Peak Australian PA awareness body |
+| 29 | **ICSP — International Council on Shared Parenting** | Contact form at [twohomes.org](https://www.twohomes.org) | twohomes.org | Edward Kruk-founded; biennial Bonn/Strasbourg/Málaga/Vancouver conferences |
+| 30 | **Väteraufbruch für Kinder e.V.** Germany | info@vafk.de | [vaeteraufbruch.de](https://vaeteraufbruch.de) | Germany's largest shared-parenting NGO; active in BVerfG / ECHR cases |
+| 31 | **SOS Papa** France | Contact form at [sospapa.net](https://sospapa.net) | sospapa.net | Founded 1990; ~40 regional delegations |
+| 32 | **ANASAP** Spain | info@anasap.org | [anasap.org](https://www.anasap.org) | Main Spanish-language SAP affected-relatives association |
+| 33 | **APADESHI** Argentina (Latin America) | Email on apadeshi.com contact pages | [apadeshi.com](http://www.apadeshi.com) | Spanish-language clearinghouse for Mexico/Peru/Brazil |
+| 34 | **PAPA — People Against Parental Alienation** UK | Contact form on [papaorg.co.uk](https://www.papaorg.co.uk) | papaorg.co.uk | One of UK's largest free PA support communities |
+| 35 | **Leadership Council on Child Abuse and Interpersonal Violence** US *(critic-side)* | info@leadershipcouncil.org | [leadershipcouncil.org](https://leadershipcouncil.org) | Silberg + Dallam home org |
+| 36 | **Institute on Violence, Abuse and Trauma (IVAT)** US *(critic-side)* | Via [ivatcenters.org](https://ivatcenters.org) | ivatcenters.org | Geffner's critic-side institute |
+| 37 | **CISMAI** Italy *(critic-side)* | Via [cismai.it](https://www.cismai.it) | cismai.it | Italian child-abuse coordination body; broadly PA-sceptical |
 
 ---
 
 ## Tier 4 — Family-Law Journalists (pitch after public launch)
 
-| Journalist / Outlet | Primary contact | Backup | Source | Hook |
-|--------------------|----------------|--------|--------|------|
-| **Sanchia Berg** — freelance, ex-BBC; family-courts specialist | Via [Muck Rack profile](https://muckrack.com/sanchia-berg) (no direct email publicly) | X @Sanchia7; LinkedIn /in/sanchia-berg-5a072818 | muckrack.com | Left BBC staff Aug 2024 after 32 years; now freelancing on Family Courts — perfect timing for a tipped story. |
-| **Louise Tickle** — Guardian/Observer freelance; family-court transparency specialist | louiseticklejourno@gmail.com | X @louisetickle | [louisetickle.co.uk](https://louisetickle.co.uk/) | Reference her work with the Bureau of Investigative Journalism on family-court transparency and Open Family Court blog. |
-| **Above the Law** (US legal blog — Joe Patrice, David Lat) | tips@abovethelaw.com | SMS tips: (646) 820-8477; tips form on site | [abovethelaw.com](https://abovethelaw.com/send-tips/) | Pitch the KB as a free open-knowledge resource for family-law practitioners; reference Joe Patrice's "Thinking Like A Lawyer" podcast angle. |
-| **Bloomberg News tips** (general — no dedicated family-law reporter found) | tips2@bloomberg.net | SecureDrop / Signal; bottom-of-story reporter emails | [Bloomberg tips](https://www.bloomberg.com/tips/) | Better to pitch individual Bloomberg Law reporters via the byline email on family-court stories rather than the general tipline. |
-| **Right to Equality** — UK family-court blog network commissioning pieces | info@righttoequality.org | n/a | [righttoequality.org](https://righttoequality.org/updates-resources/family-court-blog/) | Pays £250 per 800–1,000-word commissioned piece on family-court cases — a possible amplifier for AntiAlienate-authored content. |
-| **The Bureau of Investigative Journalism — Family Justice hub** | Via [thebureauinvestigates.com contact](https://www.thebureauinvestigates.com/contact-us/) | n/a | [Bureau Family Justice hub](https://www.thebureauinvestigates.com/hubs/family-justice) | Reference the December 2024 Family Court Reporting Week pilot and their commissioning of court-coverage. |
+| Journalist / Outlet | Primary contact | Source | Hook |
+|--------------------|----------------|--------|------|
+| **Sanchia Berg** — freelance, ex-BBC family-courts specialist | Via [Muck Rack profile](https://muckrack.com/sanchia-berg) | muckrack.com | Left BBC staff Aug 2024 after 32 yrs; now freelancing on Family Courts |
+| **Louise Tickle** — Guardian/Observer freelance; family-court transparency | louiseticklejourno@gmail.com | [louisetickle.co.uk](https://louisetickle.co.uk/) | Bureau of Investigative Journalism family-court transparency work |
+| **Above the Law** — Joe Patrice, David Lat (US legal blog) | tips@abovethelaw.com | [abovethelaw.com](https://abovethelaw.com/send-tips/) | Pitch as free open-knowledge resource for family-law practitioners |
+| **Bloomberg News tips** (no dedicated family-law reporter found) | tips2@bloomberg.net | [Bloomberg tips](https://www.bloomberg.com/tips/) | Better to pitch individual Bloomberg Law reporters via byline |
+| **Right to Equality** UK | info@righttoequality.org | [righttoequality.org](https://righttoequality.org/updates-resources/family-court-blog/) | Pays £250 per 800–1,000-word commissioned piece — amplifier for AntiAlienate-authored content |
+| **The Bureau of Investigative Journalism — Family Justice hub** | Via [thebureauinvestigates.com contact](https://www.thebureauinvestigates.com/contact-us/) | [Bureau Family Justice hub](https://www.thebureauinvestigates.com/hubs/family-justice) | Dec 2024 Family Court Reporting Week pilot |
 
 ---
 
@@ -102,15 +136,45 @@ Alan Markson
 AntiAlienate.com
 ```
 
+### Critic variant (Silberg, Geffner, IVAT, CISMAI)
+
+```
+Subject: [Personalised — reference their specific critique]
+
+Dr. [Name],
+
+We've built an open-source knowledge base on parental alienation and
+included your critique alongside the recognition literature — Mercer
+& Silberg 2016, Silberg & Dallam 2019, etc. [or relevant work].
+
+Your work makes the field navigable. A reference resource that ignored
+it would be both incomplete and intellectually dishonest. We wanted you
+to see how we've represented the critique before we share the resource
+more widely.
+
+Repo: github.com/AntiAlienate/antialienate-knowledge
+Your reference page: /influencers/[their-page].md
+
+If our framing of your work misrepresents your position in any way,
+please reply and we will correct it within 24 hours. We are not asking
+for endorsement — only fairness.
+
+With respect for your work,
+
+Alan Markson
+AntiAlienate.com
+```
+
 ---
 
 ## Notes & flags
 
-- **Tier 2 #9 (Lorandos)** — retired; firm now run by Shawn Wygant. Address outreach to the firm, not Lorandos personally.
-- **Tier 3 #12 (BPM Cymru)** — closing 23 Dec 2025. Frame outreach as legacy resource for their helpline base.
-- **Tier 3 #13 (CJE)** — name unverified. Likely confusion with Transparency Project or CFLP. Confirm before pitching.
-- **Tier 1 #4 (Eddy) and #2 (Warshak)** — sites blocked automated fetching; contacts verified via Google snippets pointing to official media-kit pages.
-- **No emails were invented.** Where a contact form is the only public path (Childress, PASG, NPO general, Woodall), it's stated explicitly.
+- **Tier 2 #11 (Lorandos)** — retired; firm now run by Shawn Wygant. Address outreach to the firm.
+- **Tier 2 #16 (von Boch-Galhau)** — retired; verify before contacting practice number.
+- **Tier 3 #23 (BPM Cymru)** — closing 23 Dec 2025. Frame as legacy resource.
+- **Tier 3 — CJE (Centre for Justice in Family Law)** — name unverified earlier; possibly Transparency Project, CFLP, or Family Justice Council confusion. Re-confirm before pitching.
+- **Tier 1 #6–7 (Kelly, Johnston)** — no direct public emails verified; consider going through Family Court Review editorial board or AFCC.
+- **No emails were invented.** Where a contact form is the only public path, it's stated explicitly.
 
 ---
 
