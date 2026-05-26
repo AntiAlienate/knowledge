@@ -1,0 +1,107 @@
+name: Build and Deploy MkDocs site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: pip-mkdocs-${{ hashFiles('requirements.txt') }}
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+      - name: Build site
+        run: mkdocs build --strict --site-dir _site
+      - name: Upload site artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site
+          path: _site
+          retention-days: 7
+
+  # === GitHub Pages deploy (default) ===
+  # Uncomment to enable; uses built-in GitHub Pages.
+  # Permissions and Pages must be enabled at repo Settings → Pages.
+  deploy-gh-pages:
+    if: ${{ vars.DEPLOY_TARGET == 'github-pages' || vars.DEPLOY_TARGET == '' }}
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Download site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
+
+  # === Cloudflare Pages deploy ===
+  # Set repo variable DEPLOY_TARGET=cloudflare and repo secrets CF_API_TOKEN + CF_ACCOUNT_ID.
+  # Project must exist at Cloudflare Pages: antialienate-knowledge
+  deploy-cloudflare:
+    if: ${{ vars.DEPLOY_TARGET == 'cloudflare' }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Download site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: Deploy to Cloudflare Pages
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CF_API_TOKEN }}
+          accountId: ${{ secrets.CF_ACCOUNT_ID }}
+          command: pages deploy _site --project-name=antialienate-knowledge --branch=main
+
+  # === Firebase Hosting deploy (Google Cloud) ===
+  # Set repo variable DEPLOY_TARGET=firebase and repo secret FIREBASE_SERVICE_ACCOUNT_KEY (JSON).
+  # firebase.json + .firebaserc must exist at repo root.
+  deploy-firebase:
+    if: ${{ vars.DEPLOY_TARGET == 'firebase' }}
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout (for firebase.json)
+        uses: actions/checkout@v4
+      - name: Download site
+        uses: actions/download-artifact@v4
+        with:
+          name: site
+          path: _site
+      - name: Deploy to Firebase Hosting
+        uses: FirebaseExtended/action-hosting-deploy@v0
+        with:
+          repoToken: ${{ secrets.GITHUB_TOKEN }}
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
+          channelId: live
+          projectId: antialienate-knowledge
