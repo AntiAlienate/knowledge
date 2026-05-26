@@ -1,105 +1,90 @@
-# Website Setup Options — knowledge.antialienate.com
+# Website Deployment — knowledge.antialienate.com + command.antialienate.com
 
-> **Status:** Staging documentation. Awaiting maintainer decision on path before any infrastructure is committed. No external publication or DNS change has happened.
+This repo is configured to build a static MkDocs Material site (`mkdocs.yml`) and to deploy via any of three hosts. Pick the one you prefer.
 
-The repository's 70+ markdown pages should be reachable at `knowledge.antialienate.com` as a navigable knowledge hub. Two paths.
+## What's been committed
 
----
+| File | Purpose |
+|---|---|
+| `mkdocs.yml` | Static-site config (theme, nav, plugins, exclusions) |
+| `requirements.txt` | Python deps (`mkdocs`, `mkdocs-material`, `awesome-pages`) |
+| `.github/workflows/docs.yml` | Build + deploy workflow (one of three targets) |
+| `firebase.json` | Firebase Hosting two-target config (knowledge + command) |
+| `.firebaserc` | Firebase project pointer |
+| `CNAME` | Custom-domain pointer for GitHub Pages path |
 
-## Path A — GitHub Pages with Jekyll (fastest)
+The build step always runs. The deploy step depends on a repo variable `DEPLOY_TARGET`.
 
-**Setup time:** ~30 minutes.
-**Cost:** $0.
-**What you get:** Auto-published static site from the markdown files. Default theme renders the README and section files.
+## Option A — Cloudflare Pages (simplest, single-vendor with your existing DNS)
 
-**Steps:**
-1. Enable GitHub Pages: Settings → Pages → Source: `main` branch, `/` (root)
-2. Pick a Jekyll theme: Settings → Pages → Theme: Cayman / Minimal / Hacker / etc.
-3. Add a `CNAME` file at repo root containing the single line: `knowledge.antialienate.com`
-4. DNS at antialienate.com registrar: add a CNAME record `knowledge` → `antialienate.github.io`
-5. Wait ~5 min for DNS + GitHub provisioning. Set "Enforce HTTPS" once available.
+**Recommended.** Cloudflare-DNS + Cloudflare-Pages = one console; no manual CNAME juggling.
 
-**Pros:** No build pipeline needed. Markdown files in the repo serve directly. Minimum surface area.
+**Setup once:**
+1. Cloudflare dashboard → **Workers & Pages** → Create application → Pages → Connect to Git
+2. Select `AntiAlienate/antialienate-knowledge` → branch `main`
+3. Build settings: Build command `pip install -r requirements.txt && mkdocs build --site-dir _site`, build output `_site`
+4. Pages assigns `antialienate-knowledge.pages.dev`
+5. Custom domain → add `knowledge.antialienate.com` → Cloudflare auto-creates the CNAME because you own the DNS
+6. For the dashboard: create a second Pages project, build output `dashboard/`, custom domain `command.antialienate.com`
 
-**Cons:** Navigation is weak for 70+ pages — Jekyll's default themes give you the README as the homepage and require manual front-matter and `_config.yml` to build a proper sidebar/nav. Search is non-existent without third-party plugin (e.g., lunr.js). The aesthetic is functional, not polished.
+**Repo settings to add:**
+- Repo variable: `DEPLOY_TARGET = cloudflare`
+- Repo secret: `CF_API_TOKEN` (create at Cloudflare → My Profile → API Tokens → "Edit Cloudflare Workers" template)
+- Repo secret: `CF_ACCOUNT_ID` (Cloudflare dashboard → right sidebar)
 
-**Best for:** "Live this week, polish later."
+**CNAMEs you add manually:** none needed — Cloudflare auto-handles them in the Pages flow.
 
----
+## Option B — Firebase Hosting (Google Cloud, via ICOS)
 
-## Path B — MkDocs Material on GitHub Pages (recommended)
+**If you prefer the Google stack** and ICOS already has Firebase project access.
 
-**Setup time:** ~3-4 hours.
-**Cost:** $0.
-**What you get:** A first-class documentation site — full-text search, sidebar TOC, mobile nav, dark mode, breadcrumbs, mobile-first responsive design, tag system. The standard tool for reference content (used by Anthropic, Stripe, FastAPI, hundreds of major OSS projects).
+**Setup once (you or ICOS):**
+1. Firebase Console → Create project `antialienate-knowledge` (or use existing)
+2. Enable Hosting → add two sites: `antialienate-knowledge` + `antialienate-command`
+3. Generate service-account key (Project Settings → Service Accounts → Generate new private key → JSON)
+4. Add Firebase Hosting custom domain in Firebase Console for each subdomain
+5. Firebase provides A records (typically `151.101.x.x` Fastly CDN) — add those in Cloudflare DNS
 
-**Steps:**
-1. Add `mkdocs.yml` at repo root configuring:
-   - `site_name: AntiAlienate Knowledge`
-   - `site_url: https://knowledge.antialienate.com`
-   - `theme: material` + nav structure mirroring our 14 sections
-   - `docs_dir: .` (use existing markdown files in-place) OR move content under `/docs/` (cleaner but requires updating all internal links)
-   - Search, dark mode, social-card generation enabled
-2. Add `.github/workflows/docs.yml` — GitHub Actions workflow that runs `mkdocs build` on push to `main` and deploys to `gh-pages` branch
-3. Settings → Pages → Source: `gh-pages` branch
-4. Add `CNAME` file at root: `knowledge.antialienate.com`
-5. DNS at registrar: CNAME `knowledge` → `antialienate.github.io`
-6. Wait ~10 min for first GitHub Actions run + provisioning
+**Repo settings to add:**
+- Repo variable: `DEPLOY_TARGET = firebase`
+- Repo secret: `FIREBASE_SERVICE_ACCOUNT_KEY` (paste the JSON)
 
-**Pros:** Production-quality reference site. Search across all pages out of the box. Navigation auto-generated from `mkdocs.yml` nav tree. Loads fast. Looks credible to press, journalists, lawyers, parents alike. Mobile-friendly.
+**CNAMEs / A records you add in Cloudflare (after Firebase custom-domain wizard):**
 
-**Cons:** Requires `mkdocs.yml` to be hand-crafted; if we use `docs_dir: .` then files like `MEMORY.md` need explicit `not_in_nav` exclusion; existing internal markdown links should be tested (most will work but some need adjustment).
+| Subdomain | Record | Target |
+|---|---|---|
+| `knowledge` | A | `151.101.1.195` |
+| `knowledge` | A | `151.101.65.195` |
+| `command` | A | `151.101.1.195` |
+| `command` | A | `151.101.65.195` |
 
-**Best for:** Long-term reference site. Worth doing right.
+(Firebase will show you the actual exact A records to use when you add the custom domain — copy from there. Set proxy status OFF (DNS only, grey cloud) initially so Firebase can verify; can be re-enabled after SSL issues.)
 
----
+## Option C — GitHub Pages (no extra vendor)
 
-## Path C — Cloudflare Pages from GitHub source (alternative deploy host)
+**Simplest, but only supports one custom domain per repo.**
 
-Same MkDocs Material setup but deployed via Cloudflare Pages instead of GitHub Pages.
-- Cloudflare's CDN is faster globally
-- Better analytics out of the box
-- Same cost ($0 on free tier)
-- Same CNAME approach for `knowledge.antialienate.com` (or use Cloudflare-managed DNS)
+**Setup once:**
+1. Repo Settings → Pages → Source: GitHub Actions
+2. Add CNAME file at repo root with `knowledge.antialienate.com` (already done)
+3. Workflow auto-deploys
 
-Choose this if you want better edge performance and analytics. Otherwise GitHub Pages is fine.
+**Repo settings to add:**
+- Repo variable: `DEPLOY_TARGET = github-pages` (or leave unset — this is default)
 
----
+**CNAME you add in Cloudflare:**
 
-## What I need from you to proceed
+| Subdomain | Record | Target |
+|---|---|---|
+| `knowledge` | CNAME | `antialienate.github.io` (proxy: OFF) |
 
-1. **Path preference**: A (Jekyll fast), B (MkDocs done right), or C (MkDocs on Cloudflare Pages)?
-2. **DNS access**: Can you add the CNAME at the antialienate.com registrar, or do you want a written set of instructions you'll forward to whoever holds it?
-3. **Homepage**: Should `knowledge.antialienate.com/` show the existing repo README as the landing page, or do you want a redesigned landing-page-style index optimized for first-time visitors (probably worth doing — the README is great for GitHub but a landing page should be shorter and more visual)?
+For `command.antialienate.com` you'd need a separate repo or a different host — GitHub Pages can't serve two custom domains per repo.
 
-Once those are answered I'll commit the config files in one PR and walk you through the DNS step.
+## What to tell me to proceed
 
----
+1. **Pick A, B, or C.**
+2. **If A**: add the CF_API_TOKEN + CF_ACCOUNT_ID secrets, set DEPLOY_TARGET=cloudflare, then click Save in Pages. I'll watch the deploy.
+3. **If B**: confirm the Firebase project name (default `antialienate-knowledge`); paste the service-account JSON to a vault key I can read. I'll handle the rest.
+4. **If C**: enable Pages in Settings, set DEPLOY_TARGET=github-pages. Live in ~3 min.
 
-## What stays in scope of the knowledge hub website
-
-Public sections worth surfacing on the site:
-- Top-level README (recast as landing page)
-- /playbooks/ (12 step-by-step guides)
-- /case-studies/ (24 deep case investigations)
-- /evidence/ (PA-as-child-abuse evidence base)
-- /the-debate/ (recognition vs critique)
-- /glossary/
-- /influencers/ (19 profile pages)
-- /community/ (advocacy orgs international)
-- /resources/ (research databases + key books)
-- /jurisdictions/ (30 jurisdiction pages)
-- /landmark-cases/, /case-law/, /research/
-- /open-source/infographics/ (38 shareable cards)
-- /publishers/
-- /tools/legal-research.md
-
-## What stays OUT
-
-- /press/ (internal staging only — pre-distribution)
-- /digest/ (auto-accumulator output; could be linked but not featured)
-- Any working files like CONTRIBUTING.md (linked from footer not nav)
-
----
-
-*Reviewed: 2026-05-25. Open a PR or just message back with your choice and I'll execute.*
+Once you pick + complete the per-option setup, the site goes live on the next push to `main`.
