@@ -11,16 +11,17 @@ This section gathers the strongest primary-source evidence — peer-reviewed res
 - **[International Institutional Positions](international-institutional-positions.md)** — WHO/UN/CoE/APA/APSAC positions verbatim.
 - **[Prevalence Claims Under Scrutiny](prevalence-claims.md)** — Bernet 740k chain disclosed; Saini "no defensible estimates."
 - **[Diagnostic Codes That DO Apply](diagnostic-codes-that-apply.md)** — V995.51 + V61.20 + V61.29 + QE52.0 + Bernet/Wamboldt/Narrow 2016 CAPRD doctrinal vehicle.
-- **[What Court Submissions Can Honestly Claim](what-court-submissions-can-claim.md)** — practitioner distillation. 7 CAN-claim with primary support; 6 CANNOT-claim with refutation paths; sample report language; sample skeleton arguments for both sides. **The page that turns the evidence corpus into operational filings.**
+- **[What Court Submissions Can Honestly Claim](what-court-submissions-can-claim.md)** — practitioner distillation. 7 CAN-claim with primary support; 6 CANNOT-claim with refutation paths.
+- **[Evaluator Training Asymmetry](evaluator-training-asymmetry.md)** — Saunders 2011-2016 NIJ-funded research on n=465 US custody evaluators (38% never use validated DV screening; PAS-belief score predicts custody recommendations) + AFCC Model Standards verbatim + Stahl/Drozd practitioner defense + state-level reform (CA SB 331 Piqui's Law 2024, CO HB23-1178 2023, federal Kayden's Law 2022). Five-tier confidence synthesis. The page on whether US custody evaluators are systematically under-trained on DV and over-trained on PA frameworks.
 
 ## Coming next
 
-- **The Saunders training-asymmetry data + Stahl methodological defense** — full primary-source on the evaluator-training debate
 - **Standard-of-proof analysis** — what the civil-balance-of-probabilities standard actually requires for a PA finding
+- **The historical Gardner-to-modern arc** — how PA terminology has evolved across DSM/ICD/court treatment 1985-2026
 
 ## Pending corrections
 
-**[Maintainer note]** The APSAC 2022 quotations attributed in [pa-as-child-abuse.md](pa-as-child-abuse.md) ("negligent, even reckless" and "a child's avoidance of a parent is not sufficient evidence of psychological abuse") are *functional equivalents* of language in the APSAC PDF, **not verbatim**. The accurate APSAC text is captured in [international-institutional-positions.md](international-institutional-positions.md) and [diagnostic-codes-that-apply.md](diagnostic-codes-that-apply.md). The pa-as-child-abuse page will be updated in the next maintenance pass.
+**[Maintainer note]** The APSAC 2022 quotations attributed in [pa-as-child-abuse.md](pa-as-child-abuse.md) ("negligent, even reckless" and "a child's avoidance of a parent is not sufficient evidence of psychological abuse") are *functional equivalents* of language in the APSAC PDF, **not verbatim**. The accurate APSAC text is captured in [international-institutional-positions.md](international-institutional-positions.md), [diagnostic-codes-that-apply.md](diagnostic-codes-that-apply.md), and [evaluator-training-asymmetry.md](evaluator-training-asymmetry.md). The pa-as-child-abuse page will be updated in the next maintenance pass.
 
 **[Maintainer note]** The "82% low / very low quality" GRADE figure widely cited from Saini, Johnston, Fidler & Bala does not appear verbatim in the 2016 second-edition chapter at the locations checked — likely originates in the 2013 first edition.
 
@@ -34,7 +35,7 @@ Every claim in this section must cite a primary source with a working URL. See [
 - [Case Studies](../case-studies/) — 26 deeply investigated cases
 - [Case Studies → Global Comparison Matrix](../case-studies/global-comparison.md) — single-page cross-jurisdictional synthesis
 - [Playbooks → Reunification Therapy](../playbooks/reunification-therapy.md)
-- [Playbooks → Evaluator Selection](../playbooks/evaluator-selection.md)
+- [Playbooks → Evaluator Selection](../playbooks/evaluator-selection.md) — practical lawyer-facing companion to the evaluator-training-asymmetry evidence page
 - [Playbooks → PA and Domestic Violence](../playbooks/pa-and-domestic-violence.md)
 - [Influencers](../influencers/) — profile pages on the researchers cited
 
