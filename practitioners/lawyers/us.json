@@ -1,0 +1,257 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-26",
+  "country": "US",
+  "type": "lawyers",
+  "license": "CC BY 4.0",
+  "scope": "US-admitted attorneys who have handled PA cases at appellate level, published in the field, or testified/consulted as expert witnesses. Stance is sourced, not inferred.",
+  "stance_taxonomy": {
+    "recognition": "treats PA as a legitimate, diagnosable phenomenon worth litigating",
+    "critique": "argues PA is misused in family court, especially against DV survivors",
+    "middle": "engages both family violence and alienating-behaviour frames; AFCC-aligned differentiated approach"
+  },
+  "practitioners": [
+    {
+      "name": "Ashish S. Joshi, JD",
+      "firm": "Joshi, Attorneys + Counselors (successor to Lorandos Joshi PC)",
+      "firm_url": "https://www.joshiattorneys.com/",
+      "bar_admissions": ["MI", "NY", "DC", "US Supreme Court", "Gujarat (India)"],
+      "stance": "recognition",
+      "stance_source": "https://www.americanbar.org/products/inv/book/409061453/",
+      "named_cases": [
+        "Litigating Parental Alienation: Evaluating and Presenting an Effective Case in Court (ABA Publishing, 2021)",
+        "Leave No Child Behind: Parental Alienation in Family Courts, ABA Litigation Journal Summer 2020-21"
+      ],
+      "primary_contact": "https://www.joshiattorneys.com/contact/",
+      "tier": 1,
+      "hook": "Author of the ABA's only book-length litigation manual on PA — gateway to the entire ABA recognition-camp network.",
+      "notes": "Firm rebranded after Lorandos's retirement. Named appellate citations from his casework not publicly enumerated on firm site."
+    },
+    {
+      "name": "Demosthenes Lorandos, PhD, JD",
+      "firm": "PsychLaw (founder; retired; firm now led by Shawn A. Wygant)",
+      "firm_url": "https://psychlaw.net/",
+      "bar_admissions": ["MI (historical)"],
+      "stance": "recognition",
+      "stance_source": "https://www.amazon.com/Parental-Alienation-Science-Demosthenes-Lorandos/dp/0398093245",
+      "named_cases": [
+        "Parental Alienation: Science and Law (Charles C. Thomas, 2020) — Appendix B catalogues 1,000+ PA trial and appellate cases",
+        "Harman & Lorandos (2020), Allegations of Family Violence in Court: How Parental Alienation Affects Judicial Outcomes, Psychology, Public Policy, and Law"
+      ],
+      "primary_contact": "swygant@psychlaw.net (successor)",
+      "tier": 2,
+      "hook": "Architect of the appellate-case catalogue the recognition camp relies on — open via Wygant.",
+      "notes": "Now retired per firm site. Direct post-retirement contact path not publicly confirmed."
+    },
+    {
+      "name": "Jeffery M. Leving, JD",
+      "firm": "The Law Offices of Jeffery M. Leving, Ltd.",
+      "firm_url": "https://www.dadsrights.com/",
+      "bar_admissions": ["IL"],
+      "stance": "recognition",
+      "stance_source": "https://www.dadsrights.com/articles/parental-alienation-syndrome-in-illinois-child-custody-cases/",
+      "named_cases": [
+        "Co-author, Illinois Joint Custody Law",
+        "Co-author, Illinois Virtual Visitation statute",
+        "Author, Fathers' Rights: Hard-Hitting and Fair Advice for Every Father Involved in a Custody Dispute",
+        "Author, Divorce Wars: A Field Guide to the Winning Tactics"
+      ],
+      "primary_contact": "https://www.dadsrights.com/attorney/jeffery-m-leving/",
+      "tier": 2,
+      "hook": "Legislative co-author — the policy/statute angle distinguishes him from pure litigators.",
+      "notes": "Specific named appellate citations not publicly confirmed on firm site."
+    },
+    {
+      "name": "Charles D. Jamieson, JD",
+      "firm": "The Law Firm of Charles D. Jamieson, P.A.",
+      "firm_url": "https://cjamiesonlaw.com/",
+      "bar_admissions": ["ME (1978)", "FL (1990)"],
+      "stance": "recognition",
+      "stance_source": "https://cjamiesonlaw.com/blog/is-parental-alienation-a-form-of-child-abuse/",
+      "named_cases": [
+        "Lead counsel or consultant in 20+ states on PA matters (per firm bio)",
+        "Florida Bar Board Certified Marital & Family Law specialist"
+      ],
+      "primary_contact": "https://cjamiesonlaw.com/contact-us/",
+      "tier": 2,
+      "hook": "Florida Bar Board Certification — high-credential signal for any directory that vets credentials.",
+      "notes": "Named appellate cases not publicly confirmed on firm site."
+    },
+    {
+      "name": "Joan S. Meier, JD",
+      "firm": "George Washington University Law School — National Family Violence Law Center",
+      "firm_url": "https://www.law.gwu.edu/joan-s-meier",
+      "bar_admissions": ["DC"],
+      "stance": "critique",
+      "stance_source": "https://xyonline.net/sites/xyonline.net/files/2020-05/Meier,%20U.S.%20child%20custody%20outcomes%20in%20cases%20involving%20parental%20alienation%20and%20abuse%20allegations%202020.pdf",
+      "named_cases": [
+        "Lead author, NIJ-funded U.S. Child Custody Outcomes empirical study (2019)",
+        "Co-drafter, Keeping Children Safe from Family Violence Act (Kayden's Law) — VAWA 2022 reauthorization",
+        "At DV LEAP: co-author of 11 amicus and 3 party briefs in US courts"
+      ],
+      "primary_contact": "jmeier@law.gwu.edu",
+      "tier": 1,
+      "hook": "Most-cited critique-camp scholar in US PA litigation; her NIJ data backs Kayden's Law.",
+      "notes": "State bar enumeration beyond DC not publicly confirmed; clerked US 7th Circuit. Office phone (202) 994-2278 per CV at https://www.law.gwu.edu/sites/g/files/zaxdzs5421/files/2026-02/joan-meier-cv-spring-2025.pdf"
+    },
+    {
+      "name": "Toby G. Kleinman, JD",
+      "firm": "Adler & Kleinman; adjunct, Nova Southeastern University",
+      "firm_url": "https://psychology.nova.edu/adjuncts/kleinman-toby.html",
+      "bar_admissions": ["NJ"],
+      "stance": "critique",
+      "stance_source": "https://www.amazon.com/Domestic-Abuse-Child-Custody-Visitation/dp/0190641576",
+      "named_cases": [
+        "Domestic Abuse, Child Custody, and Visitation: Winning in Family Court (Oxford UP, 2017, with Daniel Pollack)",
+        "Social Work and the Courts: A Casebook (with Daniel Pollack)",
+        "Chapters in The Broken Family Court anthology",
+        "Consultant in DV/child-abuse cases across 45+ states"
+      ],
+      "primary_contact": "toby@adlerkleinman.com",
+      "tier": 1,
+      "hook": "NJ contact for PA-misuse cases; Harvard School of Public Health teaching bridges to public-health framing.",
+      "notes": "Firm 732-878-1170 (988 River Road, Piscataway, NJ 08854); direct line 732-309-5952."
+    },
+    {
+      "name": "Paul Griffin, JD",
+      "firm": "Child Justice, Inc. — Legal Director",
+      "firm_url": "https://child-justice.org/about/team/paul-griffin/",
+      "bar_admissions": ["MD", "DC"],
+      "stance": "critique",
+      "stance_source": "https://www.propublica.org/article/parental-alienation-and-its-use-in-family-court",
+      "named_cases": [
+        "20+ years litigating DV and child-abuse custody cases",
+        "Trains attorneys on appellate strategy in PA-based custody rulings",
+        "Quoted in ProPublica's PA investigation (interview source)"
+      ],
+      "primary_contact": "info@child-justice.org",
+      "tier": 1,
+      "hook": "Child Justice is one of the only US legal-services orgs explicitly built to appeal PA-based custody decisions.",
+      "notes": "Phone 301-283-1762; office 8720 Georgia Avenue, Suite 703, Silver Spring, MD 20910. Specific named appellate citations not publicly confirmed on Child Justice site. JD Georgetown 1997."
+    },
+    {
+      "name": "Margaret Drew, JD",
+      "firm": "University of Massachusetts School of Law — Associate Professor of Law",
+      "firm_url": "https://www.umassd.edu/law/faculty/profiles/margaret-drew.html",
+      "bar_admissions": ["MA"],
+      "stance": "critique",
+      "stance_source": "https://www.amazon.com/Challenging-Parental-Alienation-Directions-Professionals/dp/0367559773",
+      "named_cases": [
+        "Co-editor (with Jean Mercer), Challenging Parental Alienation: New Directions for Professionals and Parents (Routledge, 2022)",
+        "Prior trial and appellate practice representing DV survivors"
+      ],
+      "primary_contact": "UMass Law faculty directory",
+      "tier": 2,
+      "hook": "Edited the academic-press counter-volume to the Lorandos/Bernet treatise — the direct intellectual counterweight pairing.",
+      "notes": "Specific state bar enumeration and direct email not publicly confirmed at provided URL; verify via UMass Law directory."
+    },
+    {
+      "name": "Stephanie A. Tabashneck, PsyD, JD",
+      "firm": "Solo forensic practice (Wellesley/Boston, MA); Senior Fellow CLBB-MGH + Petrie-Flom Center, Harvard Law School",
+      "firm_url": "https://www.stephanietabashneck.com/",
+      "bar_admissions": ["MA"],
+      "stance": "middle",
+      "stance_source": "https://www.stephanietabashneck.com/about",
+      "named_cases": [
+        "Editor, Substance Use and Parenting: Best Practices for Family Court Practitioners (ABA)",
+        "Co-first author, White Paper on the Science of Late Adolescence: A Guide for Judges, Attorneys, and Policy Makers",
+        "President, Massachusetts Chapter, AFCC"
+      ],
+      "primary_contact": "StephanieTabashneck@gmail.com",
+      "tier": 2,
+      "hook": "Rare dual-credentialed (PsyD + JD) practitioner — useful for bridging recognition/critique in MA.",
+      "notes": "Original task brief described her as DV+PA publisher; her own bio frames her work as substance use + complex custody (incl. contact-refusal coaching), so stance positioned as middle, not critique."
+    },
+    {
+      "name": "William A. (Bill) Eddy, LCSW, JD/Esq., CFLS",
+      "firm": "High Conflict Institute (co-founder, CINO); Pepperdine Caruso School of Law Straus Institute faculty",
+      "firm_url": "https://www.highconflictinstitute.com/our_team/bill-eddy-lcsw-esq/",
+      "bar_admissions": ["CA"],
+      "stance": "middle",
+      "stance_source": "https://www.highconflictinstitute.com/bill-eddy",
+      "named_cases": [
+        "15 years as Certified Family Law Specialist, State Bar of California",
+        "Author of multiple books on high-conflict personalities in family court",
+        "Conjoint associate professor, University of Newcastle Law School (Australia)"
+      ],
+      "primary_contact": "info@highconflictinstitute.com",
+      "tier": 2,
+      "hook": "His 'high-conflict personality' frame is the most-used neutral vocabulary in US family courts when neither pure-PA nor pure-DV framing fits.",
+      "notes": "Primarily a trainer/author now; current active bar status not publicly confirmed."
+    },
+    {
+      "name": "Hon. Donna J. Martinson (retired)",
+      "firm": "Retired BC Supreme Court Justice; Adjunct, SFU School of Criminology (FREDA Centre) and Allard School of Law, UBC",
+      "firm_url": "https://fredacentre.com/the-honourable-donna-j-martinson-access-to-justice-awards/",
+      "bar_admissions": ["Alberta (Canada)", "British Columbia (Canada)"],
+      "stance": "middle",
+      "stance_source": "https://www.canlii.org/en/commentary/doc/2017CanLIIDocs3962",
+      "named_cases": [
+        "A.A. v S.N.A. 2007 BCSC 594 (PA sole-custody ruling)",
+        "Co-author, Family Violence and Evolving Judicial Roles: Judges as Equality Guardians in Family Law Cases, (2017) 30:1 Can J Fam L 11"
+      ],
+      "primary_contact": "https://fredacentre.com/contact/",
+      "tier": 3,
+      "hook": "Her trajectory (recognition-camp ruling, then DV-aware writing) is rare evidence that the two camps can be bridged judicially.",
+      "notes": "NOT US-admitted. Included as cross-jurisdictional reference only; move to a Canadian list. country: CA."
+    }
+  ],
+  "excluded_with_reason": [
+    {
+      "name": "Steve Miller, MD",
+      "reason": "Deceased 2022; was an MD (Harvard Medical School faculty), not a JD.",
+      "source": "https://lindagottlieb.com/steven-miller-parental-alienation/"
+    },
+    {
+      "name": "Karen Anderson Hyde",
+      "reason": "Closest match is Karen Anna Anderson (CA Bar #167056), a Long Beach family lawyer — no demonstrable PA-specific publication, appellate, or expert-witness record found.",
+      "source": "https://apps.calbar.ca.gov/attorney/Licensee/Detail/167056"
+    },
+    {
+      "name": "Adrienne Adams, MD",
+      "reason": "No verifiable US-based 'Adrienne Adams, MD' with PA publications. Closest match is UK academic Dr Adrienne Barnett — flag for UK list.",
+      "source": "https://www.brunel.ac.uk/people/adrienne-barnett"
+    },
+    {
+      "name": "Hannah Brenner Johnson, JD",
+      "reason": "California Western law professor focused on sexual violence in institutional settings, not PA/custody specifically.",
+      "source": "https://www.cwsl.edu/news/faculty/professor_hannah_brenner_johnson.html"
+    },
+    {
+      "name": "Hon. Anne McGowan",
+      "reason": "Could not be uniquely identified from public sources.",
+      "source": null
+    },
+    {
+      "name": "Charlotte Proudman",
+      "reason": "UK barrister (Right to Equality); not US-admitted. Flag for UK list.",
+      "source": "https://righttoequality.com/"
+    },
+    {
+      "name": "Robert A. Evans, PhD",
+      "reason": "PhD school psychologist, not JD. Belongs on experts/expert-witness list, not lawyers.",
+      "source": "https://drbobevans.com/"
+    },
+    {
+      "name": "Joseph Goldberg",
+      "reason": "Consultant; JD admission status not publicly confirmed. Belongs on experts/consultants list. Public sources locate him in FL/Toronto, not Houston TX as task brief suggested.",
+      "source": "https://www.parentalalienationeducation.com/speaker/joseph-goldberg/"
+    }
+  ],
+  "methodology_notes": {
+    "total_entries": 11,
+    "us_admitted_lawyers_verified": 10,
+    "cross_jurisdictional_reference": 1,
+    "verification_principle": "Primary sources only (firm sites, bar profiles, published works, named press coverage). Stance characterization must be sourced — never inferred. Unconfirmed facts flagged 'not publicly confirmed'.",
+    "honest_gaps": [
+      "Joan Meier's state bar admissions beyond DC not publicly confirmed",
+      "Specific named appellate citations for Joshi, Leving, Jamieson, Lorandos, and Griffin not enumerated on firm sites (their PA work is documented via books, articles, statutes, and press coverage instead)",
+      "Margaret Drew's direct email and bar admission state not publicly confirmed at faculty page",
+      "Bill Eddy's current active bar status not publicly confirmed (long-time CFLS but now primarily trainer/author)",
+      "Joseph Goldberg's JD status not confirmed; recommend moving him to a separate experts/consultants directory",
+      "Robert Evans is a PhD, not JD; same recommendation",
+      "Original brief named several candidates (Karen Anderson Hyde, Adrienne Adams MD, Hon. Anne McGowan, Steve Miller as JD) that could not be verified as US-admitted JDs",
+      "AFCC-affiliated lawyers as a group: Tabashneck and Pruett both surfaced, but Pruett is PhD not JD; Sullivan is PhD; only Tabashneck qualifies as a JD-credentialed AFCC affiliate from the search batch"
+    ]
+  }
+}
