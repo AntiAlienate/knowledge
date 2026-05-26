@@ -5,22 +5,23 @@ This section gathers the strongest primary-source evidence — peer-reviewed res
 ## Pages
 
 - **[PA as Child Abuse](pa-as-child-abuse.md)** — strongest evidence for and against the proposition that parental-alienating conduct constitutes child abuse. Five categories + synthesis with high/moderate/low confidence framing.
-- **[Mental-Health Outcomes](mental-health-outcomes.md)** — quantitative outcomes data. Depression/anxiety, suicidality, attachment, substance use, adult-life sequelae, intergenerational transmission, biomarker frameworks.
-- **[Reunification Therapy Outcomes](reunification-outcomes.md)** — empirical record on court-ordered intensive reunification programs. Family Bridges / TPFF / AB-PA / MMFI / OBFC / Transitioning Families. **No programme has independent peer-reviewed outcome data; Kayden's Law standard not met.**
-- **[Forensic Operation in Courts](forensic-operation-in-courts.md)** — how PA actually operates in US family courts. Meier 2020 (4,338 NIJ-funded cases) + Silberg/Dallam 2019 27-case series + Saini 2016 middle position + Saunders 2015 evaluator-training asymmetry.
-- **[International Institutional Positions](international-institutional-positions.md)** — what WHO/UN/CoE/APA/APSAC actually say. WHO formally removed PA from ICD-11 index February 2020; APA + APSAC reject PA-as-diagnosis; UN/CoE critical of forensic misuse.
-- **[Prevalence Claims Under Scrutiny](prevalence-claims.md)** — what the numbers actually are and where they come from. Bernet's 740,000 (a calculation chain, not a measurement); Harman 2019 polls (35.5% / 22M "feel targeted" — not "alienated"); the new UK Hine 2026 18-25 sample (98.3% / 58.5% / 25.9%, definition-sensitive); Saini 2016 verbatim verdict: **"to date there are no defensible estimates of the prevalence or incidence of the problem"** (p. 380); Alsalem A/HRC/53/36 "lack of empirical basis"; cross-national work (Verrocchio Italian, Bentley AU); Daubert/Frye implications for expert testimony.
+- **[Mental-Health Outcomes](mental-health-outcomes.md)** — quantitative outcomes data across 8 categories. Includes Chinese longitudinal samples + Italian SCL-90-R + critique citations.
+- **[Reunification Therapy Outcomes](reunification-outcomes.md)** — empirical record on Family Bridges / TPFF / AB-PA / MMFI / OBFC / Transitioning Families. **No programme has independent peer-reviewed outcome data; Kayden's Law standard not met.**
+- **[Forensic Operation in Courts](forensic-operation-in-courts.md)** — Meier 2020 (4,338 NIJ cases) + Silberg/Dallam 2019 + Saini middle position + Saunders 2015 evaluator-training asymmetry.
+- **[International Institutional Positions](international-institutional-positions.md)** — WHO formally removed PA Feb 2020; APA + APSAC reject PA-as-diagnosis; UN/CoE critical of forensic misuse.
+- **[Prevalence Claims Under Scrutiny](prevalence-claims.md)** — Bernet 740k as calculation chain not measurement; Harman 2019 polls verbatim; Hine 2026 UK 18-25 definition-sensitive figures; Saini 2016 verbatim: **"no defensible estimates"** of prevalence.
+- **[Diagnostic Codes That DO Apply](diagnostic-codes-that-apply.md)** — what clinicians and evaluators can defensibly code without depending on the contested "PA diagnosis" framing. **V995.51 Child Psychological Abuse** (DSM-5) + **V61.20 Parent-Child Relational Problem** + **V61.29 Child Affected by Parental Relationship Distress** + **QE52.0 Caregiver-Child Relationship Problem** (ICD-11). Includes Bernet/Wamboldt/Narrow 2016 CAPRD framework, APSAC + Saini differential-diagnosis guardrails, cross-jurisdictional practice (US/UK Cafcass/AU/EU/Canada), insurance/billing/mandatory reporting implications, sample report language. The page that lets practitioners write defensible reports without invoking "PAS."
 
 ## Coming next
 
-- **The DSM-5/ICD-11 codes that DO apply** — V995.51 Child Psychological Abuse + QE52.0 Caregiver-child relationship problem; what they cover, what they don't
-- **What court submissions can honestly claim** — practitioner-facing distillation of the evidence pages for skeleton-argument drafting
+- **What court submissions can honestly claim** — practitioner-facing distillation of the seven evidence pages for skeleton-argument drafting
+- **The Saunders training-asymmetry data + Stahl methodological defense** — full primary-source on the evaluator-training debate
 
 ## Pending corrections
 
-**[Maintainer note]** The APSAC 2022 quotations attributed in [pa-as-child-abuse.md](pa-as-child-abuse.md) ("negligent, even reckless" and "a child's avoidance of a parent is not sufficient evidence of psychological abuse") are *functional equivalents* of language in the APSAC PDF, **not verbatim**. The accurate APSAC text is captured in [international-institutional-positions.md](international-institutional-positions.md). The pa-as-child-abuse page will be updated in the next maintenance pass.
+**[Maintainer note]** The APSAC 2022 quotations attributed in [pa-as-child-abuse.md](pa-as-child-abuse.md) ("negligent, even reckless" and "a child's avoidance of a parent is not sufficient evidence of psychological abuse") are *functional equivalents* of language in the APSAC PDF, **not verbatim**. The accurate APSAC text is captured in [international-institutional-positions.md](international-institutional-positions.md) and applied throughout [diagnostic-codes-that-apply.md](diagnostic-codes-that-apply.md). The pa-as-child-abuse page will be updated in the next maintenance pass.
 
-**[Maintainer note]** The "82% low / very low quality" GRADE figure widely cited from Saini, Johnston, Fidler & Bala does not appear verbatim in the 2016 second-edition chapter at the locations checked — likely originates in the 2013 first edition. Documented in [prevalence-claims.md](prevalence-claims.md) and flagged for correction wherever cited in other pages.
+**[Maintainer note]** The "82% low / very low quality" GRADE figure widely cited from Saini, Johnston, Fidler & Bala does not appear verbatim in the 2016 second-edition chapter at the locations checked — likely originates in the 2013 first edition. Documented in [prevalence-claims.md](prevalence-claims.md).
 
 ## Editorial standard
 
