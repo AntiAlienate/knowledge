@@ -1,0 +1,297 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-26",
+  "country": "UK",
+  "jurisdiction": "England & Wales",
+  "type": "lawyers",
+  "license": "CC BY 4.0",
+  "scope": "Barristers, solicitors and legal academics (England & Wales) who have appeared in named PA proceedings, published in the field, or sat on relevant working groups. Judges listed separately for citation completeness. Stance is sourced, not inferred.",
+  "stance_taxonomy": {
+    "recognition": "treats PA / alienating behaviour as a legitimate, litigable phenomenon",
+    "critique": "argues PA is misused in family court, especially against DV survivors",
+    "middle": "procedural-reform / differentiated approach engaging both DV and alienating-behaviour frames"
+  },
+  "practitioners": [
+    {
+      "name": "Dr Charlotte Proudman, Barrister (PhD)",
+      "firm": "Goldsmith Chambers; Founder, Right to Equality; Founder, Proudmans (Nov 2025)",
+      "firm_url": "https://www.goldsmithchambers.com/our-people/dr-charlotte-proudman/",
+      "bar_admissions": ["Bar of England & Wales"],
+      "stance": "critique",
+      "stance_source": "https://righttoequality.org/re-y-experts-and-alienating-behaviour-the-modern-approach-2026-ewfc-28-fam/",
+      "named_cases": [
+        "Re GB (Part 25 Application: Parental Alienation) [2023] EWFC 150 — successful appeal for mother",
+        "Re GB (Parental Alienation: Factual Findings) [2024] EWFC 75 (B)",
+        "Re H-N and Others (Children) [2021] EWCA Civ 448 — joined DV-finding-of-fact appeals"
+      ],
+      "primary_contact": "clerks@goldsmithchambers.com",
+      "tier": 1,
+      "hook": "Co-led the campaign that secured the October 2023 government commitment to repeal s.1(2A) parental-involvement presumption.",
+      "notes": "Year of call not publicly confirmed on chambers PDF profile. Proudmans firm site not publicly confirmed live as of writing."
+    },
+    {
+      "name": "Olive Craig, Senior Legal Officer",
+      "firm": "Rights of Women",
+      "firm_url": "https://rightsofwomen.org.uk/about-us/",
+      "bar_admissions": ["Senior legal officer; specific roll/Bar enumeration not publicly confirmed"],
+      "stance": "critique",
+      "stance_source": "https://www.thebureauinvestigates.com/stories/2025-01-30/psychologists-alarming-views-on-domestic-abuse-put-spotlight-on-family-court-experts",
+      "named_cases": [
+        "Co-signatory, Right to Equality / Rights of Women letter to President of the Family Division on urgent review of cases involving unregulated PA experts",
+        "Collaborator on Brunel/Rights of Women PA research project (Barnett PI)"
+      ],
+      "primary_contact": "advice@row.org.uk",
+      "tier": 1,
+      "hook": "Rights of Women runs one of only two national legal-advice helplines for women in family-court PA disputes.",
+      "notes": "Original brief placed her at Garden Court Chambers; primary-source check places her at Rights of Women."
+    },
+    {
+      "name": "Cris McCurley, Solicitor (Partner)",
+      "firm": "Ben Hoare Bell LLP (Newcastle upon Tyne); Head of International Family Law",
+      "firm_url": "https://www.benhoarebell.co.uk/staffmember/cris-mccurley/",
+      "bar_admissions": ["Solicitor of the Senior Courts of England & Wales (SRA-regulated)", "Solicitor Advocate"],
+      "stance": "critique",
+      "stance_source": "https://www.lawgazette.co.uk/people/profile-cris-mccurley/5046090.fullarticle",
+      "named_cases": [
+        "Resolution-accredited specialist (international child abduction, DV, forced marriage, honour-based violence)",
+        "Member, Resolution Domestic Violence National Committee (since 2009)",
+        "Manages Resolution's specialist forced-marriage and honour-based-violence panel"
+      ],
+      "primary_contact": "cris.mccurley@benhoarebell.co.uk",
+      "tier": 2,
+      "hook": "Only named solicitor on Resolution's DV national committee with 30+ years of frontline DV/PA-counter litigation in the North East.",
+      "notes": "Direct email follows firm convention; confirm via switchboard 0191 275 7060."
+    },
+    {
+      "name": "Dr Adrienne Barnett, Reader in Law (Barrister, non-practising)",
+      "firm": "Brunel Law School, Brunel University London; Co-Director, Right to Equality",
+      "firm_url": "https://www.brunel.ac.uk/people/adrienne-barnett",
+      "bar_admissions": ["Bar of England & Wales (called 1981; 30+ years independent practice; now academic)"],
+      "stance": "critique",
+      "stance_source": "https://www.tandfonline.com/doi/full/10.1080/09649069.2020.1701921",
+      "named_cases": [
+        "A genealogy of hostility: parental alienation in England and Wales, JSWFL 42(1) (2020)",
+        "Experiences of Parental Alienation Interventions, chapter in Challenging Parental Alienation (Routledge, 2021)",
+        "Domestic Abuse, Parental Alienation and the Family Courts (Brunel/Rights of Women, BA/Leverhulme 2022-2025) — https://bura.brunel.ac.uk/handle/2438/30736",
+        "Child Sexual Abuse and Family Court Proceedings, Family Law (Jan 2025)"
+      ],
+      "primary_contact": "adrienne.barnett@brunel.ac.uk",
+      "tier": 1,
+      "hook": "Author of the only England-and-Wales-specific peer-reviewed genealogy of PA — UK academic counterpart to Joan Meier.",
+      "notes": "Originally listed in the US brief as 'Adrienne Adams, MD' — that was a misidentification of Barnett."
+    },
+    {
+      "name": "Professor Felicity Kaganas, Professor of Law",
+      "firm": "Brunel Law School, Brunel University London",
+      "firm_url": "https://www.brunel.ac.uk/people/felicity-kaganas",
+      "bar_admissions": ["Academic role; non-practising; Bar/roll status not publicly confirmed"],
+      "stance": "critique",
+      "stance_source": "https://www.tandfonline.com/doi/full/10.1080/09649069.2024.2414620",
+      "named_cases": [
+        "Parental Involvement: A Discretionary Presumption, Legal Studies (2018)",
+        "When is 'the end of the road' reached? Observing the presumption of parental involvement through systems theory, JSWFL (2024)",
+        "Contact disputes: Narrative constructions of 'good' parents, Feminist Legal Studies (2004) — with Sclater"
+      ],
+      "primary_contact": "felicity.kaganas@brunel.ac.uk",
+      "tier": 2,
+      "hook": "Statutory-presumption critique is the precise legal theory underpinning the October 2023 government repeal commitment for s.1(2A) Children Act 1989.",
+      "notes": "Email follows Brunel directory convention."
+    },
+    {
+      "name": "Jenny Beck KC (Hon), Solicitor",
+      "firm": "Beck Fitzgerald (London) — founding partner / Director",
+      "firm_url": "https://beckfitzgerald.co.uk/jenny-beck/",
+      "bar_admissions": ["Solicitor of England & Wales", "Honorary King's Counsel (KC Hon), 2021"],
+      "stance": "critique",
+      "stance_source": "https://www.judiciary.uk/wp-content/uploads/2024/12/Family-Justice-Council-Guidance-on-responding-to-allegations-of-alienating-behaviour-2024-1-1.pdf",
+      "named_cases": [
+        "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — instructed solicitor for mother (with Georgiana Farnell), instructing Justin Ageros of 4PB",
+        "Re H-N, Re T, Re H and Re B-B (joined appeals, Court of Appeal, 2021)",
+        "Chair, Family Justice Council working group producing December 2024 alienating-behaviour guidance",
+        "Chair, Nuffield Family Justice Observatory board",
+        "Co-chair, Legal Aid Practitioners Group"
+      ],
+      "primary_contact": "Jenny.Beck@beckfitzgerald.co.uk",
+      "tier": 1,
+      "hook": "Instructing solicitor on Re Y [2026] EWFC 38, the most important UK PA judgment of the year; chaired the FJC guidance. Highest-leverage UK contact on this list.",
+      "notes": "Office phone 020 3866 5721."
+    },
+    {
+      "name": "Sam (Samantha) King KC, Barrister",
+      "firm": "4 Paper Buildings (4PB), London",
+      "firm_url": "https://www.4pb.com/barristers/sam-king/",
+      "bar_admissions": ["Bar of England & Wales (Year of Call 1990; Year of Silk 2018)", "Master of the Bench, Middle Temple (2019)"],
+      "stance": "recognition",
+      "stance_source": "https://www.lawbriefpublishing.com/product/parentalalienation/",
+      "named_cases": [
+        "A Practical Guide to Parental Alienation in Private and Public Law Children Cases (Law Brief Publishing, 2022; co-author Frankie Shama)",
+        "Regular instructions in Children Act 1989 private- and public-law alienation cases"
+      ],
+      "primary_contact": "clerks@4pb.com",
+      "tier": 1,
+      "hook": "Only KC-authored UK practitioner manual on PA — recognition-camp counterpart to Joshi's ABA book.",
+      "notes": "Original brief placed her at 1 King's Bench Walk; correct chambers is 4PB. Clerks switchboard +44 (0)20 7427 5200."
+    },
+    {
+      "name": "Frankie Shama, Barrister",
+      "firm": "4 Paper Buildings (4PB), London",
+      "firm_url": "https://www.4pb.com/barristers/frankie-shama/",
+      "bar_admissions": ["Bar of England & Wales (year of call not publicly confirmed)"],
+      "stance": "recognition",
+      "stance_source": "https://www.lawbriefpublishing.com/product/parentalalienation/",
+      "named_cases": [
+        "Co-author, A Practical Guide to Parental Alienation in Private and Public Law Children Cases (Law Brief Publishing, 2022)",
+        "Junior counsel instructed in private-children-law PA cases at 4PB"
+      ],
+      "primary_contact": "clerks@4pb.com",
+      "tier": 2,
+      "hook": "Junior counterpart to Sam King KC; entry point to the next-generation recognition bar.",
+      "notes": "Profile page returned 403 on direct fetch; verified via Law Brief Publishing co-author byline and 4PB barrister index."
+    },
+    {
+      "name": "Sarah Phillimore, Barrister",
+      "firm": "St John's Chambers (Bristol)",
+      "firm_url": "https://www.stjohnschambers.co.uk/profile/sarah-phillimore",
+      "bar_admissions": ["Bar of England & Wales (called 1994)"],
+      "stance": "middle",
+      "stance_source": "https://www.stjohnschambers.co.uk/podcast/from-parental-alienation-to-alienating-behaviours",
+      "named_cases": [
+        "Recent application for permission to appeal refusal of direct-contact order (specific citation not publicly enumerated)",
+        "Author, childprotectionresource.online",
+        "Families Need Fathers commentary on indirect contact (Family Law journal, May 2019)"
+      ],
+      "primary_contact": "clerks@stjohnschambers.co.uk",
+      "tier": 2,
+      "hook": "Writes for both fathers'-rights and child-protection audiences — bridge-builder; opens FNF/Resolution simultaneously.",
+      "notes": "Stance positioned 'middle' rather than pure recognition because her published work is explicitly about reframing vocabulary."
+    },
+    {
+      "name": "Maria Scotland, Barrister",
+      "firm": "5 St Andrew's Hill (5SAH), London — Joint Head of Family Team, Deputy Head of Chambers",
+      "firm_url": "https://www.5sah.co.uk/barristers/maria-scotland",
+      "bar_admissions": ["Bar of England & Wales (called 1995)", "Qualified arbitrator and mediator"],
+      "stance": "middle",
+      "stance_source": "https://www.5sah.co.uk/knowledge-hub/articles/2024-04-24/high-court-confirms-the-importance-of-a-young-persons-wishes-and-feelings-when-considering-if-a-child-arrangements-order-should-be-made-beyond-the-age-of-16",
+      "named_cases": [
+        "Re T (A Child) (s.9(6) Children Act 1989 orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam) — successful appeal for applicant mother",
+        "Successful appeal preventing publication of named-parent High Court PA judgment (mother as appellant)"
+      ],
+      "primary_contact": "clerks@5sah.co.uk",
+      "tier": 2,
+      "hook": "Rare UK barrister with arbitrator/mediator dual hat — opens ADR-route PA work.",
+      "notes": "Original brief placed her at '36 Family'; primary-source check confirms 5SAH. Clerks +44 (0)20 7332 5400."
+    },
+    {
+      "name": "Lucy Reed KC, Barrister",
+      "firm": "St John's Chambers (Bristol); Chair, The Transparency Project",
+      "firm_url": "https://www.stjohnschambers.co.uk/profile/lucy-reed-kc",
+      "bar_admissions": ["Bar of England & Wales (year of call / silk not publicly confirmed at fetched URL)"],
+      "stance": "middle",
+      "stance_source": "https://www.counselmagazine.co.uk/articles/my-transparency-journey-lucy-reed",
+      "named_cases": [
+        "Transparency in the Family Courts: Publicity and Privacy in Practice (2nd ed., Bloomsbury Professional) — co-author",
+        "The Family Court Without a Lawyer: A Handbook for Litigants in Person (4th ed., Bath Publishing, 2022)",
+        "Pink Tape blog (since 2007)",
+        "Regular Radio 4 Today Programme contributor on family-court transparency"
+      ],
+      "primary_contact": "clerks@stjohnschambers.co.uk",
+      "tier": 1,
+      "hook": "Chair of the only UK charity built around family-court transparency — the body whose stated mission AntiAlienate's published case-studies most directly support.",
+      "notes": "Direct profile fetch returned 403; verified via Counsel magazine, St John's Chambers news pages, Transparency Project."
+    },
+    {
+      "name": "Justin Ageros, Barrister",
+      "firm": "4 Paper Buildings (4PB), London",
+      "firm_url": "https://www.4pb.com/barristers/justin-ageros/",
+      "bar_admissions": ["Bar of England & Wales (30+ years' call; specific year not publicly enumerated)"],
+      "stance": "middle",
+      "stance_source": "https://www.4pb.com/news/justin-ageros-successfully-argues-in-the-high-court-for-the-setting-aside-of-five-year-old-parental-alienation-findings/",
+      "named_cases": [
+        "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — lead counsel for applicant mother",
+        "O v C [2025] EWFC 334 — earlier set-aside of PA findings on similar grounds"
+      ],
+      "primary_contact": "clerks@4pb.com",
+      "tier": 1,
+      "hook": "Counsel of record on the 2026 set-aside that re-set UK PA jurisprudence — concrete, current, named-judgment hook."
+    },
+    {
+      "name": "Jo Delahunty KC, Professor & Barrister",
+      "firm": "4 Paper Buildings (4PB), London",
+      "firm_url": "https://www.4pb.com/barristers/jo-delahunty/",
+      "bar_admissions": ["Bar of England & Wales", "King's Counsel"],
+      "stance": "middle",
+      "stance_source": "https://www.thebureauinvestigates.com/stories/2026-02-13/family-courts-gill-vindicated",
+      "named_cases": [
+        "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — leading Chris Barnes KC for the child Dylan, instructed by Peggy Ray (Goodman Ray)",
+        "Multiple Court of Appeal serious-injury / sexual-assault / radicalisation / abuse children cases"
+      ],
+      "primary_contact": "clerks@4pb.com",
+      "tier": 1,
+      "hook": "Senior children silk who specifically advanced the 'child's voice unheard' argument in Re Y — opens the child-representation / Cafcass-reform conversation."
+    },
+    {
+      "name": "Chris Barnes KC, Barrister",
+      "firm": "4 Paper Buildings (4PB), London",
+      "firm_url": "https://www.4pb.com/barristers/chris-barnes/",
+      "bar_admissions": ["Bar of England & Wales", "King's Counsel"],
+      "stance": "middle",
+      "stance_source": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf",
+      "named_cases": [
+        "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — junior silk to Jo Delahunty KC for the child"
+      ],
+      "primary_contact": "clerks@4pb.com",
+      "tier": 2,
+      "hook": "Completes the 4PB three-silk team in Re Y; useful as a junior-silk follow-on contact."
+    }
+  ],
+  "judges": [
+    {
+      "name": "The Rt Hon Sir Andrew McFarlane",
+      "court": "Family Division, High Court of Justice of England & Wales (President)",
+      "profile_url": "https://www.judiciary.uk/guidance-and-resources/president-of-the-family-division-the-rt-hon-sir-andrew-mcfarlane/",
+      "judicial_stance": "middle / procedural-reform",
+      "named_judgments": [
+        "Re H-N and Others (Children) [2021] EWCA Civ 448 — DV finding-of-fact framework",
+        "Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) — https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html",
+        "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"
+      ],
+      "stance_source": "https://www.thebureauinvestigates.com/stories/2026-02-27/dont-use-unregulated-psychologists-top-judge-rules",
+      "tier": "N/A — judicial; do not solicit",
+      "hook": "Author of the spine of UK PA jurisprudence — cite him in every UK-facing AntiAlienate document."
+    },
+    {
+      "name": "The Hon Dame Lucy Theis DBE (Mrs Justice Theis)",
+      "court": "High Court of Justice, Family Division; Chair, Family Procedure Rules Committee; Chair, Family Justice Council",
+      "profile_url": "https://www.judiciary.uk/guidance-and-resources/mrs-justice-theis/",
+      "judicial_stance": "middle / procedural-reform",
+      "named_judgments": [
+        "Structural: Chair of FJC which issued December 2024 alienating-behaviour guidance (chaired by Jenny Beck KC working group)",
+        "Specific named PA appellate authorship not publicly confirmed at the level of McFarlane's Re C / Re Y"
+      ],
+      "stance_source": "https://en.wikipedia.org/wiki/Lucy_Theis",
+      "tier": "N/A — judicial; do not solicit",
+      "hook": "FJC + FPRC chair — her structural role is why the December 2024 alienating-behaviour guidance exists."
+    }
+  ],
+  "excluded": [
+    {
+      "name": "Karen Woodall",
+      "reason": "Psychotherapist (lead therapist, Family Separation Clinic); not bar/roll-admitted as a lawyer. Already on influencers list.",
+      "url": "https://www.familyseparationclinic.com/about-1/karen-woodall/"
+    }
+  ],
+  "gaps_acknowledged": [
+    "Garden Court Chambers and 36 Group barristers (Kate Grieve, Kelly Webb, George Harley): named in chambers PA-practice descriptions but individual sourced stances not yet published within time budget.",
+    "Court of Appeal Re S (Parental Alienation: Cult) [2020] EWCA Civ 568 counsel — Will Tyler KC, Kate Grieve, Portia O'Connor — verified but not yet stance-sourced individually.",
+    "Family Justice Council working-group members beyond Jenny Beck KC: FJC has not published the full list; FOI request candidate.",
+    "Welsh / Northern Irish / Scottish-jurisdiction lawyers: out of scope for this E&W batch; flagged for separate jurisdictional split."
+  ],
+  "stance_distribution": {
+    "critique": 6,
+    "recognition": 2,
+    "middle": 5,
+    "judges_separate_section": 2,
+    "excluded": 1,
+    "total_practitioner_entries": 13
+  }
+}
