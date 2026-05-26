@@ -1,0 +1,295 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-25",
+  "country": "CA",
+  "type": "lawyers",
+  "license": "CC BY 4.0",
+  "scope": "Canadian-admitted barristers, solicitors, KCs/QCs, retired judges and legal academics who have handled PA cases at appellate level, published in the field, or testified/consulted in family-court PA matters. Stance is sourced, not inferred.",
+  "stance_taxonomy": {
+    "recognition": "treats PA as a legitimate, litigable phenomenon worth pursuing in family court",
+    "critique": "argues PA is misused in family court, especially against DV survivors",
+    "middle": "engages both family violence and alienating-behaviour frames; AFCC-aligned differentiated approach"
+  },
+  "practitioners": [
+    {
+      "name": "Harold Niman",
+      "firm": "Niman Counsel (in association with Gelgoot & Partners LLP), Toronto",
+      "firm_url": "https://www.nimancounsel.ca/",
+      "bar_admissions": ["ON (Law Society of Ontario; year of call not publicly confirmed; 40+ years practice per profile)"],
+      "stance": "recognition",
+      "stance_source": "https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/",
+      "named_cases": [
+        "L.(A.G.) v D.(K.B.), 93 O.R. (3d) 409 (Ont. S.C.J. 2009) (McWatt J.) — lead counsel for applicant father",
+        "Editor and co-author, Evidence in Family Law textbook",
+        "Associate editor, Reports of Family Law"
+      ],
+      "primary_contact": "niman@nimancounsel.ca ; (416) 324-5503",
+      "tier": 1,
+      "hook": "Lead counsel of record on the most-cited Ontario PA judgment (McWatt 2009) already in AntiAlienate's case-study set.",
+      "notes": "Predecessor firm Niman Gelgoot and Associates LLP at time of McWatt case. Niman Mamo LLP is a separate Niman-branded practice."
+    },
+    {
+      "name": "Donna Wowk",
+      "firm": "Wowk Law, Toronto",
+      "firm_url": "https://www.wowklaw.ca/about-us/",
+      "bar_admissions": ["ON (Law Society of Ontario; 35+ years practice per profile; specific call year not publicly confirmed)"],
+      "stance": "recognition",
+      "stance_source": "https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/",
+      "named_cases": [
+        "L.(A.G.) v D.(K.B.), 2009 (McWatt J.) — co-counsel for applicant father (with Niman)",
+        "9-year service on Ontario Family Rules Committee",
+        "Conference speaker on parental alienation remedies; published articles on parental alienation per firm bio"
+      ],
+      "primary_contact": "(647) 267-0847 ; 99 Yorkville Ave., Suite 200, Toronto, ON M5R 3K5",
+      "tier": 2,
+      "hook": "Junior counsel of record on McWatt 2009 — natural follow-on to Niman.",
+      "notes": "Previously at Niman Gelgoot and Associates LLP (12 years) and Harper Jaskot LLP."
+    },
+    {
+      "name": "Brian Ludmer, B.Comm, LLB",
+      "firm": "Ludmer Law, Toronto",
+      "firm_url": "https://www.ludmerlaw.com/",
+      "bar_admissions": ["ON (Law Society of Ontario; LLB U. of Toronto 1985; specific call year not publicly confirmed)"],
+      "stance": "recognition",
+      "stance_source": "https://www.newharbinger.com/author/brian-ludmer/",
+      "named_cases": [
+        "Co-author, The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation (with Amy J.L. Baker and J. Michael Bone, New Harbinger 2014)",
+        "Co-drafter, Bill C-560 (Canada's proposed equal shared parenting legislation, defeated 2014)",
+        "Advisory board member, Parental Alienation Awareness Organization",
+        "Advisory board member, International Support Network for Alienated Families",
+        "Co-founder, Lawyers for Shared Parenting"
+      ],
+      "primary_contact": "Firm contact form https://www.ludmerlaw.com/ ; secondary https://brianludmer.ca/",
+      "tier": 1,
+      "hook": "Co-author of the most-cited Canadian-authored target-parent practitioner manual; legislative co-drafter of Bill C-560 — opens both litigation and policy-reform doors.",
+      "notes": "Specific named appellate citations not publicly enumerated on firm site."
+    },
+    {
+      "name": "Gene C. Colman",
+      "firm": "Gene C. Colman Family Law Centre, Toronto",
+      "firm_url": "https://www.complexfamilylaw.com/lawyers/gene-c-colman/",
+      "bar_admissions": ["ON (Law Society of Ontario; called 1979; LLB Osgoode Hall 1977; LLM Hebrew U. of Jerusalem)"],
+      "stance": "recognition",
+      "stance_source": "https://www.complexfamilylaw.com/parental-alienation/",
+      "named_cases": [
+        "Farrar v. Farrar (2003) — procedural fairness",
+        "Kozak v. Kozak (2018) — child support modification",
+        "Presenter, Canadian Symposium for Parental Alienation Syndrome (2009)",
+        "FDRIO Member of the Month, September 2018"
+      ],
+      "primary_contact": "(888) 389-3099 ext. 101 ; contact form https://www.complexfamilylaw.com/",
+      "tier": 2,
+      "hook": "40+ years exclusively in family law with explicit PA framing — direct AntiAlienate-vocabulary match.",
+      "notes": null
+    },
+    {
+      "name": "Lorne N. MacLean, KC",
+      "firm": "MacLean Law (Vancouver / Surrey / Kelowna / Fort St. John / Calgary)",
+      "firm_url": "https://macleanfamilylaw.ca/",
+      "bar_admissions": ["BC (Law Society of British Columbia; KC; 33+ years practice; specific call year not publicly confirmed)"],
+      "stance": "recognition",
+      "stance_source": "https://macleanfamilylaw.ca/2024/12/01/parental-alienation-and-reverse-parenting-orders-a-drastic-remedy/",
+      "named_cases": [
+        "Multiple firm-authored BC reverse-parenting / transfer-of-residence PA case commentaries",
+        "Repeated successful 50/50 shared-parenting orders in alienation-flagged cases (specific reported citations not publicly enumerated on firm posts)"
+      ],
+      "primary_contact": "1-877-602-9900 ; contact form https://macleanfamilylaw.ca/contact/",
+      "tier": 2,
+      "hook": "Largest BC family-law firm, openly recognition-camp on PA — BC counterpart to Niman / Ludmer in Ontario.",
+      "notes": null
+    },
+    {
+      "name": "Steve Benmor, BSc, LLB, LLM",
+      "firm": "Benmor Family Law Group, Toronto",
+      "firm_url": "https://www.benmor.com/",
+      "bar_admissions": ["ON (Law Society of Ontario; Certified Specialist in Family Law; 30+ years practice; specific call year not publicly confirmed)"],
+      "stance": "recognition",
+      "stance_source": "https://www.benmor.com/",
+      "named_cases": [
+        "Lead counsel in numerous divorce trials per firm bio",
+        "Certified Specialist in Family Law, Law Society of Ontario (one of Toronto's 24)",
+        "Fellow, International Academy of Family Lawyers (one of Canada's 56)"
+      ],
+      "primary_contact": "steve@benmor.com ; (416) 489-8890 ; 77 Bloor Street West, Suite 600, Toronto, ON M5S 1M2",
+      "tier": 3,
+      "hook": "Law Society of Ontario Certified Specialist — credential-vetting check for any directory that filters by specialist designation.",
+      "notes": "Promoted from verify candidate; standalone published PA-specific stance source not publicly confirmed within budget. Recommend follow-up before tier promotion."
+    },
+    {
+      "name": "Suzanne Zaccour, BCL, LLB, LLM, DPhil (Oxon)",
+      "firm": "National Association of Women and the Law (NAWL / ANFD) — Director of Legal Affairs",
+      "firm_url": "https://nawl.ca/about-us/",
+      "bar_admissions": ["ON (Law Society of Ontario, called 2021); Supreme Court of Canada law clerk 2019-2020; BCL/LLB McGill; LLM Toronto; DPhil Oxford"],
+      "stance": "critique",
+      "stance_source": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3573794",
+      "named_cases": [
+        "Zaccour, 'Parental Alienation in Quebec Custody Litigation' (2018), 30 Can. J. Fam. L. — https://www.canlii.org/en/commentary/doc/2018CanLIIDocs10698",
+        "Zaccour, 'Does Domestic Violence Disappear from Parental Alienation Cases? Five Lessons from Quebec' (2021), 33 Can. J. Fam. L. 301 — https://commons.allard.ubc.ca/can-j-fam-l/vol33/iss2/8/",
+        "Zaccour, 'Parental alienation: The one-size-fits-none theory,' Law360 Canada — https://www.law360.ca/ca/articles/1829261/",
+        "NAWL FEWO brief, 'Banning Parental Alienation Accusations in Family Court' (2024) — https://nawl.ca/wp-content/uploads/2024/05/NAWL-FEWO-brief-PA-EN.pdf",
+        "Lead spokesperson, January 2024 NAWL-led 250+-organisation coalition to ban PA accusations"
+      ],
+      "primary_contact": "media@nawl.ca ; contact@nawl.ca",
+      "tier": 1,
+      "hook": "Single most-published Canadian critique-camp lawyer on PA — Canadian counterpart to Joan Meier. Quebec-data-driven; opens Ontario and Quebec doors simultaneously.",
+      "notes": "Ontario-barred, not Quebec-barred despite Quebec-data corpus."
+    },
+    {
+      "name": "Pamela Cross, BA, LLB",
+      "firm": "Luke's Place (Durham Region, ON) — Legal Director; consultancy at pamelacross.ca",
+      "firm_url": "https://lukesplace.ca/about-us/pamela-cross/",
+      "bar_admissions": ["ON (Law Society of Ontario; Queen's Law alumna per 2020 J.A. Corry Award; specific call year not publicly confirmed)"],
+      "stance": "critique",
+      "stance_source": "https://lukesplace.ca/case-summary-parental-alienation-and-reunification-therapy/",
+      "named_cases": [
+        "And Sometimes They Kill You: Confronting the Epidemic of Intimate Partner Violence (book)",
+        "Co-author, Luke's Place toolkit 'The law and parenting arrangements after separation' (2021)",
+        "Co-author, 'Family Court and Beyond' toolkit (2018, 2021)",
+        "Co-presenter (with Prof. Peter Jaffe) of free e-learning courses on parent-child contact problems / alienation",
+        "Member, Ontario Domestic Violence Death Review Committee"
+      ],
+      "primary_contact": "Luke's Place intake https://lukesplace.ca/ ; secondary via https://pamelacross.ca/contact/",
+      "tier": 1,
+      "hook": "Highest-profile DV-frame critique-camp lawyer in Ontario; J.A. Corry (Queen's Law), Laura Legge (LSO), Guthrie (LFO), and AG Victim Services awards.",
+      "notes": null
+    },
+    {
+      "name": "Dr. Linda C. Neilson, BA(Hons), LLB, PhD (Law, LSE)",
+      "firm": "Professor Emerita, Department of Sociology, University of New Brunswick; Research Associate, Muriel McQueen Fergusson Centre for Family Violence Research",
+      "firm_url": "https://www.unb.ca/faculty-staff/directory/arts-fr-sociology/neilson-linda.html",
+      "bar_admissions": ["NB (Law Society of New Brunswick; practised 1979-1986 and 1988-1992 before academia)"],
+      "stance": "critique",
+      "stance_source": "https://www.fredacentre.com/wp-content/uploads/Parental-Alienation-Linda-Neilson.pdf",
+      "named_cases": [
+        "Neilson, Parental Alienation Empirical Analysis: Child Best Interests or Parental Rights? (FREDA Centre, 2018)",
+        "Neilson, 'Parental Alienation Belief Versus Child Best Interests: Family Law in Crisis' (2023)",
+        "Webinar, 'The misuse of alienation in domestic violence cases in family court' (GBV Learning Network / Western Univ., 2021)",
+        "Brief on Bill C-78 (Divorce Act amendments) to House of Commons Justice Committee"
+      ],
+      "primary_contact": "lcn@unb.ca ; +1 (506) 453-4849",
+      "tier": 1,
+      "hook": "Author of the only Canadian-level empirical PA case-analysis (2018 FREDA report) — Canadian counterpart to Joan Meier's NIJ study.",
+      "notes": null
+    },
+    {
+      "name": "Prof. Nicholas C. Bala, L.S.M., BA, JD (Queen's), LLM (Harvard)",
+      "firm": "William R. Lederman Distinguished Professor of Law, Queen's University Faculty of Law",
+      "firm_url": "https://law.queensu.ca/directory/nicholas-c-bala",
+      "bar_admissions": ["Academic (Queen's); Law Society membership / call year not publicly confirmed on faculty profile"],
+      "stance": "middle",
+      "stance_source": "https://global.oup.com/academic/product/children-who-resist-postseparation-parental-contact-9780199895496",
+      "named_cases": [
+        "Fidler, Bala & Saini, Children Who Resist Postseparation Parental Contact: A Differential Approach (Oxford U. Press / American Psychology-Law Society, 2013)",
+        "Co-editor, Special Issue of Family Court Review on PA and children resisting contact (2020)",
+        "Bala, Birnbaum & Farshait, 'Children Resisting Contact & Parental Alienation: Strategies for Lawyers in High Conflict Parenting Cases' (May 2024) — https://www.canlii.org/en/commentary/doc/2024CanLIIDocs921",
+        "Bala, Hunt & McCarney, 'Parental Alienation Myths, Realities & Uncertainties: A Canadian Study, 1989-2008'",
+        "2022 Dena Moyal Distinguished Service Award (AFCC Ontario)"
+      ],
+      "primary_contact": "bala@queensu.ca ; +1 (613) 533-6000 ext. 74275",
+      "tier": 1,
+      "hook": "Single most-cited Canadian academic on PA across both camps — the differentiated-approach framework recognition and critique camps both engage with.",
+      "notes": null
+    },
+    {
+      "name": "Prof. Rachel Birnbaum, PhD, RSW, LLM",
+      "firm": "Distinguished University Professor Emerita, King's University College at Western University (Social Work / Childhood and Youth Studies); Adjunct, McGill School of Social Work",
+      "firm_url": "https://socialwork.kings.uwo.ca/people/faculty-and-administration/member-profile/?doaction=getProfile&id=rbirnbau",
+      "bar_admissions": ["RSW (Ontario College of Social Workers); LLM; Law Society membership not publicly confirmed"],
+      "stance": "middle",
+      "stance_source": "https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.70001",
+      "named_cases": [
+        "Birnbaum & Bala, '\"Parental alienation\" cases: Experiences of Ontario legal and mental health professionals' (2025), 63 Family Court Review 491",
+        "Birnbaum & Bala, 'Parental alienation: A retrospective study of the experiences of children and parents in Ontario' (2024), U.N.B.L.J. 62 — https://journals.lib.unb.ca/index.php/unblj/article/download/34796/1882530454",
+        "Co-author with Bala, Children Who Resist Postseparation Parental Contact (Oxford U. Press, 2013)",
+        "Bill C-223 brief to House of Commons — https://www.ourcommons.ca/Content/Committee/451/JUST/Brief/BR14053603/br-external/Jointly01-e.pdf"
+      ],
+      "primary_contact": "rbirnbau@uwo.ca",
+      "tier": 2,
+      "hook": "Social-work half of the Bala-Birnbaum-Saini triumvirate — pair her with Bala for the full differentiated-approach package.",
+      "notes": null
+    },
+    {
+      "name": "Charles A. Amissah-Ocran",
+      "firm": "Law Office of Charles A. Ocran, Brampton, ON",
+      "firm_url": "https://lawsocietytribunal.ca/licensee/lic-charles-ato-amissah-ocran/",
+      "bar_admissions": ["ON (Law Society of Ontario; called 1998)"],
+      "stance": "middle",
+      "stance_source": "https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/",
+      "named_cases": [
+        "L.(A.G.) v D.(K.B.), 2009 (McWatt J.) — counsel for respondent mother"
+      ],
+      "primary_contact": "Brampton firm; specific email / direct line not publicly confirmed from primary firm site",
+      "tier": 3,
+      "hook": "Completes the McWatt case-counsel set — procedural-completeness contact, not stance-aligned.",
+      "notes": "Law Society Tribunal record exists per https://lawsocietytribunal.ca — verify current standing before outreach."
+    },
+    {
+      "name": "Elizabeth McCarty",
+      "firm": "Office of the Children's Lawyer (OCL), Ministry of the Attorney General, Ontario — 393 University Ave., 14th Floor, Toronto",
+      "firm_url": "https://www.ontario.ca/page/office-childrens-lawyer",
+      "bar_admissions": ["ON (Law Society of Ontario; specific call year not publicly confirmed)"],
+      "stance": "middle",
+      "stance_source": "https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/",
+      "named_cases": [
+        "L.(A.G.) v D.(K.B.), 2009 — counsel for OCL on behalf of the children",
+        "Supreme Court of Canada docket 36850 appearance as OCL counsel — https://www.scc-csc.ca/cases-dossiers/search-recherche/36850/"
+      ],
+      "primary_contact": "elizabeth.mccarty@ontario.ca ; (416) 314-8108",
+      "tier": 3,
+      "hook": "OCL institutional line for any child-voice / Cafcass-equivalent reform conversation in Ontario.",
+      "notes": "Institutional role — approach only via institutional channel, not as a stance-aligned practitioner."
+    },
+    {
+      "name": "Lawrence I.Z. Pinsky, KC",
+      "firm": "Taylor McCaffrey LLP, Winnipeg",
+      "firm_url": "https://www.tmlawyers.com/?our_people=lawrence-i-z-pinsky",
+      "bar_admissions": ["MB (Law Society of Manitoba, called 1993); KC"],
+      "stance": "middle",
+      "stance_source": "https://www.iafl.com/find-a-lawyer/search-details/?id=20002",
+      "named_cases": [
+        "Counsel on a large body of reported family law decisions per firm bio (specific citations not publicly enumerated)",
+        "Founder, Family Arbitration Mediation Legal Institute (FAMLI)",
+        "Founding member, National Family Law Arbitration Course",
+        "Human Rights Adjudicator, Manitoba Human Rights Board",
+        "Best Lawyers Canada 2026, Family Law (since 2013)"
+      ],
+      "primary_contact": "lpinsky@tmlawyers.com ; 204-988-0451",
+      "tier": 3,
+      "hook": "Senior Manitoba family-law silk with arbitration/mediation specialism — useful for prairie-province coverage and ADR-route PA cases.",
+      "notes": "Promoted from verify candidate; standalone published PA-specific stance source not publicly confirmed within budget. Listed for jurisdictional completeness (MB)."
+    },
+    {
+      "name": "The Hon. Donna J. Martinson, QC, LL.M. (retired judge)",
+      "firm": "Retired Justice, Supreme Court of British Columbia (1998-30 June 2009); previously Provincial Court of BC; FREDA Centre author / co-investigator",
+      "firm_url": "https://blogs.ubc.ca/cfls/files/2013/06/Honourable-Donna-Martinson-Bio.pdf",
+      "bar_admissions": ["SK / federal (Crown and defence counsel pre-bench); QC designation; specific call year not publicly confirmed"],
+      "stance": "middle",
+      "stance_source": "https://www.fredacentre.com/wp-content/uploads/Martinson-FVFL-Brief-March-2023.pdf",
+      "named_cases": [
+        "A.A. v. S.N.A., 2009 BCSC 387 — extreme PA finding; mother barred from contact >1 year (subsequently overturned on appeal)",
+        "Martinson, 'Treating Children as Full Rights Bearers: Independent Legal Representation for Children in Family Violence and/or Resist-Refuse Contact Cases,' FVFL Brief 20 (March 2023, FREDA Centre)",
+        "Martinson & Jackson, 'The 2021 Divorce Act: Using statutory interpretation principles to support substantive equality for women and children in family violence cases,' FVFL Brief 5 (2021)",
+        "Martinson & Raven, 'Implementing Children's Participation Rights in All Family Court Cases,' FVFL Brief 9 (Dec 2021)",
+        "Martinson & Jackson, Family Violence and Parenting Assessments: Law, Skills and Social Context (FREDA Centre, 2019)",
+        "'Family Violence and Evolving Judicial Roles: Judges as Equality Guardians in Family Law Cases' — https://www.canlii.org/en/commentary/doc/2017CanLIIDocs3962"
+      ],
+      "primary_contact": "Via FREDA Centre https://fredacentre.com/ (retired judge — cite, do not solicit as litigation practitioner)",
+      "tier": "N/A",
+      "hook": "Most-published retired Canadian judge on PA / DV intersection — her FREDA Brief 20 is the spine citation for any child-as-full-rights-bearer / Independent Legal Representation argument.",
+      "notes": "Cross-listed in US batch as middle reference; primary jurisdictional placement is here. Originally Saskatchewan-bar criminal/family lawyer before BC bench."
+    }
+  ],
+  "drop_list": [
+    {"name": "Lonny Balbi, KC (Calgary)", "reason": "Senior Alberta family-law silk, KC, but no public PA-specific authored stance source within 30-min budget."},
+    {"name": "Diane Halpern, KC (Toronto)", "reason": "No verifiable LSO profile or firm page matching this name. Likely brief misidentification."},
+    {"name": "Renatta Austin (Toronto)", "reason": "Confirmed OCL panel member but personal website under construction; no publicly enumerated PA-named-case or stance source. Defer."},
+    {"name": "Russell Alexander (Whitby ON)", "reason": "Extensive blog content but no individual stance-source PA article attributable above editorial. Defer."},
+    {"name": "Andrew Feldstein (Markham ON)", "reason": "Firm offers PA service line but no individual stance source attributable to Feldstein within budget. Defer."},
+    {"name": "Carmen Lavallée (U Sherbrooke)", "reason": "Child-protection / adoption / filiation focus confirmed; no publication specifically on parental alienation."},
+    {"name": "Senator Kim Pate", "reason": "Dalhousie Law 1984 and former CAEFS Executive Director, but advocacy is criminalised-women / penal reform, not family-court PA. Belongs on DV-policy influencers list."},
+    {"name": "Karen Woodall", "reason": "UK psychotherapist, already excluded from UK lawyers list."},
+    {"name": "Quebec-bar PA litigators", "reason": "Zaccour catalogues Quebec case law but does not name counsel of record per case. SOQUIJ named-counsel extraction outside public-internet budget. Recommend paid SOQUIJ pull."},
+    {"name": "BC / AB / SK / MB additional named-case counsel", "reason": "MacLean (BC) and Pinsky (MB) cover those provinces. AB / SK individual stance-source verifications outside budget."}
+  ],
+  "methodology_note": "Final count 14 entries (13 living practitioners + 1 retired judge). Stance distribution among 13 living practitioners: recognition 6 (Niman, Wowk, Ludmer, Colman, MacLean, Benmor); critique 3 (Zaccour, Cross, Neilson); middle 5 (Bala, Birnbaum, Amissah-Ocran, McCarty, Pinsky). All firm / faculty URLs verified live as of 2026-05-25. Where year of call, KC year or specific case citations could not be confirmed from a public primary source they are flagged 'not publicly confirmed' inline. Quality over completeness — Steve Benmor and Lawrence Pinsky lack standalone PA stance sources and are tier 3 with that gap flagged; Charles Amissah-Ocran and Elizabeth McCarty are tier 3 institutional/case-record entries only."
+}
