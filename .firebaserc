@@ -1,0 +1,13 @@
+{
+  "projects": {
+    "default": "antialienate-knowledge"
+  },
+  "targets": {
+    "antialienate-knowledge": {
+      "hosting": {
+        "knowledge": ["antialienate-knowledge"],
+        "command": ["antialienate-command"]
+      }
+    }
+  }
+}
