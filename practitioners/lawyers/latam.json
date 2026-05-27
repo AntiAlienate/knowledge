@@ -1,0 +1,660 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-27",
+  "license": "CC BY 4.0",
+  "region": "LATAM",
+  "type": "lawyers",
+  "scope": "Latin-American family-law practitioners (BR/MX/AR/CO/CL) who have appeared as named counsel / promovente in apex PA litigation, published in the field at scholarly / book-length level, chaired an official PA-related expert body, or publicly stated a sourced stance through institutional advocacy. Institutional entries listed where the institution itself has filed a court action / issued a sourced PA position and named individual members are confirmable.",
+  "stance_taxonomy": {
+    "recognition": "Treats parental alienation as a legitimate, litigable phenomenon",
+    "critique": "Argues PA / SAP is misused in family courts, especially against DV survivors; supports statutory repeal or proscription",
+    "middle": "Procedural-reform / differentiated approach engaging both DV and alienating-behaviour frames",
+    "not_publicly_confirmed": "Included for record-completeness; PA-specific stance not in primary sources"
+  },
+  "summary": {
+    "total_entries": 20,
+    "by_country": {"BR": 8, "MX": 4, "AR": 4, "CO": 2, "CL": 2},
+    "by_stance": {"recognition": 4, "middle": 3, "critique": 12, "not_publicly_confirmed": 1}
+  },
+  "practitioners": [
+    {
+      "id": "br-dias-maria-berenice",
+      "country_code": "BR",
+      "name": "Maria Berenice Dias",
+      "credentials": "Advogada; ex-Desembargadora 7ª Câmara Cível TJRS; IBDFAM honorary vice-president",
+      "firm": "Independent practice (Porto Alegre); consultor Rodrigo da Cunha Pereira Advocacia",
+      "firm_url": "https://berenicedias.com.br/",
+      "additional_urls": ["http://www.mariaberenice.com.br/", "https://ibdfam.org.br/"],
+      "address": "Rua Mostardeiro 333 cj. 1101, Moinhos de Vento, Porto Alegre/RS",
+      "bar": "OAB/RS",
+      "bar_number": "not publicly confirmed",
+      "stance": "middle",
+      "stance_sources": [
+        "https://www.conjur.com.br/2018-abr-05/maria-berenice-dias-agora-alienacao-parental-motivo-prisao/",
+        "https://www.conjur.com.br/2022-mai-19/maria-berenice-dias-ajustes-lei-alienacao-parental/",
+        "https://berenicedias.com.br/category/artigos/alienacao-parental/",
+        "https://ibdfam.org.br/artigos/876/A+Aliena%C3%A7%C3%A3o+Parental+no+Ordenamento+Jur%C3%ADdico+Brasileiro",
+        "https://www.editorajuspodivm.com.br/media/juspodivm_material/material/file/JUS2449-Degustacao.pdf"
+      ],
+      "named_cases_or_publications": [
+        "Incesto e Alienação Parental: Realidades que a Justiça insiste em não ver (coord., RT 4a ed. 2023)",
+        "Manual de Direito das Famílias (15+ editions)",
+        "IBDFAM founder + honorary vice-president",
+        "Conjur PA-relevant columns 2018-2022"
+      ],
+      "contact": {
+        "email": "mberenice@berenicedias.com.br",
+        "contact_form": "https://berenicedias.com.br/contato/"
+      },
+      "tier": 1,
+      "hook": "The Brazilian author who has held both child-protective-feminist and PA-recognition lines for two decades; the single most credible interlocutor for an honest-broker position on Lei 12.318."
+    },
+    {
+      "id": "br-madaleno-rolf",
+      "country_code": "BR",
+      "name": "Rolf Madaleno",
+      "credentials": "Advogado; IBDFAM 1o Secretario / Diretor Nacional; Professor PUC-RS",
+      "firm": "Madaleno Advocacia de Família e Sucessões",
+      "firm_url": "https://www.rolfmadaleno.com.br/web/",
+      "additional_urls": ["https://ibdfam.org.br/escritorios/detalhes/10597", "https://www.migalhas.com.br/autor/rolf-madaleno"],
+      "address": "Rua Tobias da Silva 120 cj. 1012, Moinhos de Vento, Porto Alegre/RS 90570-020",
+      "bar": "OAB/RS",
+      "bar_number": "not publicly confirmed",
+      "stance": "recognition",
+      "stance_sources": [
+        "https://ibdfam.org.br/eventos/982/Congresso+Brasileiro+de+Guarda+Compartilhada+e+Aliena%C3%A7%C3%A3o+Parental",
+        "https://www.migalhas.com.br/autor/rolf-madaleno"
+      ],
+      "named_cases_or_publications": [
+        "Curso de Direito de Família (Forense, 10+ editions, 2023)",
+        "Direito de Família e o Novo Código de Processo Civil",
+        "IBDFAM Diretoria Nacional position",
+        "Congresso Brasileiro de Guarda Compartilhada e Alienação Parental speaker"
+      ],
+      "contact": {
+        "contact_form": "https://www.rolfmadaleno.com.br/web/"
+      },
+      "tier": 1,
+      "hook": "IBDFAM national director carrying the institutional family-law-academic recognition line — natural counterpart to Dias for the unambiguous-recognition camp."
+    },
+    {
+      "id": "br-pereira-rodrigo-cunha",
+      "country_code": "BR",
+      "name": "Rodrigo da Cunha Pereira",
+      "credentials": "Advogado; Presidente Nacional IBDFAM; Professor associado licenciado PUC-MG; Doutor Direito Civil UFPR",
+      "firm": "Escritório de Advocacia Rodrigo da Cunha Pereira e Associados",
+      "firm_url": "https://www.rodrigodacunha.adv.br/",
+      "additional_urls": ["https://ibdfam.org.br/"],
+      "address": "Rua Ceará 1431 cj. 1502, Funcionários, Belo Horizonte/MG 30150-311",
+      "bar": "OAB/MG",
+      "bar_number": "not publicly confirmed",
+      "stance": "recognition",
+      "stance_sources": [
+        "https://ibdfam.org.br/noticias/12612/Aliena%C3%A7%C3%A3o+parental+%C3%A9+tema+do+novo+epis%C3%B3dio+do+Podcast+IBDFAM",
+        "https://www.rodrigodacunha.adv.br/alienacao-parental-novo-cpc-e-o-ministerio-publico/",
+        "https://ibdfam.org.br/noticias/7095/Especialistas+do+IBDFAM+s%C3%A3o+contra+revoga%C3%A7%C3%A3o+da+Lei+de+Aliena%C3%A7%C3%A3o+Parental",
+        "https://ibdfam.org.br/assets/img/upload/files/ebook%202024%20(1).pdf"
+      ],
+      "named_cases_or_publications": [
+        "Dicionário de Direito de Família (Saraiva)",
+        "Direito de Família: uma abordagem psicanalítica (Forense, 6 editions)",
+        "IBDFAM Enunciados Doutrinários 2024-2025",
+        "IBDFAM editorial position against PL 1.372/2023 repeal"
+      ],
+      "contact": {
+        "email": "rodrigo@rodrigodacunha.adv.br",
+        "contact_form": "https://www.rodrigodacunha.adv.br/contato/"
+      },
+      "tier": 1,
+      "hook": "Single highest-leverage institutional voice in Brazilian family-law recognition camp; the IBDFAM presidency is the natural press-and-policy contact against PL 1.372/2023 repeal."
+    },
+    {
+      "id": "br-rosa-conrado-paulino",
+      "country_code": "BR",
+      "name": "Conrado Paulino da Rosa",
+      "credentials": "Advogado; Pós-Doutor em Direito UFSC; Professor FMP-RS; ex-Presidente IBDFAM/RS",
+      "firm": "Conrado Paulino Advocacia",
+      "firm_url": "https://conradopaulinoadv.com.br/",
+      "additional_urls": ["https://www.conradopaulinoadv.com.br/quem-somos", "https://www.migalhas.com.br/autor/conrado-paulino-da-rosa"],
+      "address": "Porto Alegre/RS",
+      "bar": "OAB/RS",
+      "bar_number": "not publicly confirmed",
+      "stance": "recognition",
+      "stance_sources": [
+        "https://www.conjur.com.br/2022-set-27/conrado-paulino-alienacao-parental-exclusao-sucessoria/",
+        "https://ibdfam.org.br/artigos/1631/Aliena%C3%A7%C3%A3o+parental+e+as+falsas+den%C3%BAncias",
+        "https://www.fmp.edu.br/professor-conrado-fala-sobre-alienacao-parental-da-rbstv/"
+      ],
+      "named_cases_or_publications": [
+        "Direito de Família Contemporâneo (JusPodivm, 2023)",
+        "12+ books on Direito de Família e Sucessões",
+        "ex-Presidente IBDFAM/RS (2014/15, 2016/17, 2017/19, 2024/25 — removed by IBDFAM National Board 19 Sept 2025; firm role unaffected)"
+      ],
+      "contact": {
+        "contact_form": "https://conradopaulinoadv.com.br/contato"
+      },
+      "tier": 2,
+      "hook": "Mid-career academic-practitioner with the most popular Brazilian PA practice-manual material; natural press contact for the recognition camp in the South.",
+      "note": "IBDFAM/RS leadership in transition as of Sept 2025 (IBDFAM Nota Oficial https://ibdfam.org.br/noticias/13263/Nota+Oficial)"
+    },
+    {
+      "id": "br-cruz-rubia-abs",
+      "country_code": "BR",
+      "name": "Rúbia Abs da Cruz",
+      "credentials": "Advogada; sócia Themis; AAIG; Mestre em Direitos Humanos",
+      "firm": "Themis - Gênero, Justiça e Direitos Humanos; Associação Nacional de Advogadas pela Igualdade de Gênero (AAIG)",
+      "firm_url": "https://themis.org.br/",
+      "additional_urls": ["https://themis.org.br/somos/"],
+      "address": "Rua dos Andradas 1234 cj. 1607, Centro Histórico, Porto Alegre/RS 90020-008",
+      "bar": "OAB/RS 40.946",
+      "stance": "critique",
+      "stance_sources": [
+        "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=432397&tip=UN",
+        "https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=478866&ori=1",
+        "https://themis.org.br/entenda-porque-revogar-lei-de-alienacao-parental-e-importante-para-mulheres-e-criancas/",
+        "https://themis.org.br/entenda-como-lei-de-alienacao-parental-pode-ser-considerada-violencia-de-genero-contra-mulheres-e-representar-risco-as-criancas/"
+      ],
+      "named_cases_or_publications": [
+        "STF ADI 6273/2019 (challenged Lei 12.318/2010 constitutionality; dismissed unanimously 17 Dec 2021 by Pleno for lack of standing, Rel. Min. Rosa Weber)",
+        "Themis institutional PA-critique series",
+        "Co-signatory feminist-coalition material underpinning UN SR Alsalem's 2022 + 2025 calls for revocation"
+      ],
+      "contact": {
+        "phone": "+55 (51) 3212-5141",
+        "email": "themis@themis.org.br"
+      },
+      "tier": 1,
+      "hook": "The named lawyer behind the first STF constitutional challenge to Lei 12.318 — the single most direct interlocutor for the critique camp at apex-court level."
+    },
+    {
+      "id": "br-scarance-valeria",
+      "country_code": "BR",
+      "name": "Valéria Diez Scarance Fernandes",
+      "credentials": "Promotora de Justiça MPSP; Doutora Direito Processual Penal PUC-SP; ex-Coordenadora COPEVID",
+      "firm": "Ministério Público do Estado de São Paulo (GEVID); PUC-SP Direito",
+      "firm_url": "https://dossies.agenciapatriciagalvao.org.br/dados-e-fontes/fonte/valeria-diez-scarance-fernandes/",
+      "additional_urls": [
+        "https://enciclopediajuridica.pucsp.br/autor/521/valeria-diez-scarance-fernandes",
+        "https://www.editorajuspodivm.com.br/authors/page/view/id/3218/"
+      ],
+      "address": "MPSP GEVID, Rua Riachuelo 115, Centro, São Paulo/SP 01007-000",
+      "bar": "MPSP Promotora de Justiça (CNMP register)",
+      "bar_number": "not publicly confirmed",
+      "stance": "critique",
+      "stance_sources": [
+        "https://www.cnj.jus.br/wp-content/uploads/2019/09/Disputa-de-Guarda-e-o-risco-da-aliena%C3%A7%C3%A3o-parental-Val%C3%A9ria-Diez.pdf",
+        "https://www.camara.leg.br/noticias/561422-debatedoras-defendem-revogacao-da-lei-de-alienacao-parental/",
+        "https://www.mprs.mp.br/noticias/ceaf/61443/"
+      ],
+      "named_cases_or_publications": [
+        "Disputa de Guarda e o Risco da Alienação Parental (CNJ 2019)",
+        "Lei Maria da Penha: O Processo Penal no Caminho da Efetividade (Atlas)",
+        "Manual de Atuação no Combate à Violência contra a Mulher (MPSP/ONU Bangkok 2013)",
+        "Câmara dos Deputados public hearing on PA Law repeal"
+      ],
+      "contact": {
+        "contact_form": "https://www.mpsp.mp.br/"
+      },
+      "tier": 1,
+      "hook": "The MPSP prosecutor whose CNJ-published material is the most-cited Brazilian critique-camp source on the abuse-as-PA-defence pattern — institutional voice with prosecutor-level legitimacy."
+    },
+    {
+      "id": "br-galli-beatriz",
+      "country_code": "BR",
+      "name": "Beatriz Galli",
+      "credentials": "Advogada; Ipas Brasil senior policy advisor; Relatora Plataforma Dhesca; LL.M. Toronto",
+      "firm": "Ipas Brasil; Plataforma Dhesca",
+      "firm_url": "https://www.ipas.org/",
+      "additional_urls": ["https://www.plataformadh.org.br/relatorias/relatoras-e-relatores/beatriz-galli/"],
+      "bar": "OAB/RJ",
+      "bar_number": "not publicly confirmed",
+      "stance": "not_publicly_confirmed",
+      "stance_sources": [
+        "https://www.ipas.org/resource/lutar-pelo-direito-ao-aborto-no-brasil-e-transitar-a-realidade-e-a-utopia/"
+      ],
+      "named_cases_or_publications": [
+        "Ipas Brasil reproductive-rights / CIDH advocacy",
+        "Direitos Reprodutivos enquanto Direitos Humanos (Revista de Direitos Humanos em Perspectiva)"
+      ],
+      "contact": {
+        "contact_form": "https://www.ipas.org/contact/"
+      },
+      "tier": 3,
+      "hook": "Sits at the intersection of Brazilian reproductive-rights advocacy and the feminist-coalition critique infrastructure; not a frontline PA voice but a cross-reference into the broader Dhesca / Themis network."
+    },
+    {
+      "id": "br-recchia-maira",
+      "country_code": "BR",
+      "name": "Maíra Calidone Recchia",
+      "credentials": "Advogada; ex-Presidente OAB-SP Comissão Mulheres Advogadas; PUC-Campinas",
+      "firm": "Araújo Recchia Santos Sociedade de Advogadas (São Paulo)",
+      "firm_url": "https://araujorecchiasantos.com.br/",
+      "additional_urls": [
+        "https://www.oabsp.org.br/noticia/24-02-23-1315-maira-pereira-velez",
+        "https://abradep.org/directory-membros/listagem/maira-recchia/"
+      ],
+      "address": "São Paulo/SP",
+      "bar": "OAB/SP",
+      "bar_number": "not publicly confirmed",
+      "stance": "critique",
+      "stance_sources": [
+        "https://abradep.org/midias/violencia-misoginia-representatividade-e-democracia/",
+        "https://prerro.com.br/author/maira-calidone-recchia/"
+      ],
+      "named_cases_or_publications": [
+        "Multiple ConJur / PRERRÔ columns on gender lawfare and use of alienação parental against women in custody disputes",
+        "Member deFEMde (Rede Feminista de Juristas), MeToo Brasil, ABMCJ, CAB",
+        "OAB-SP institutional output on violência contra mulheres advogadas"
+      ],
+      "contact": {
+        "contact_form": "https://araujorecchiasantos.com.br/sobre-nos"
+      },
+      "tier": 2,
+      "hook": "OAB-SP feminist legal-coalition voice writing the most-cited gender-lawfare framing of false PA accusations — a credible second-tier critique-camp interlocutor in São Paulo."
+    },
+    {
+      "id": "mx-peimbert-arturo",
+      "country_code": "MX",
+      "name": "Arturo de Jesús Peimbert Calvo",
+      "credentials": "Defensor / Abogado; ex-Defensor de los Derechos Humanos del Pueblo de Oaxaca (2014-2020); Fiscal General del Estado de Oaxaca (2022-)",
+      "firm": "Defensoría de los Derechos Humanos del Pueblo de Oaxaca (DDHPO) - historical; Fiscalía General de Oaxaca - current",
+      "firm_url": "https://www.dof.gob.mx/nota_detalle.php?codigo=5522808&fecha=16/05/2018",
+      "additional_urls": [
+        "https://www.scjn.gob.mx/sites/default/files/cronicas_pleno_salas/documento/2019-08/cr-NLPH-0011-16.pdf",
+        "https://www2.scjn.gob.mx/juridica/engroses/3/2016/19/3_193848_3583_firmado.pdf"
+      ],
+      "address": "Fiscalía General de Oaxaca, Av. Gerardo Pandal Graff 1, Oaxaca/Oax 71248",
+      "bar": "Barra Mexicana de Abogados / Oaxaca state bar",
+      "bar_number": "not publicly confirmed",
+      "stance": "critique",
+      "stance_sources": [
+        "https://www.dof.gob.mx/nota_detalle.php?codigo=5522808&fecha=16/05/2018",
+        "https://www.scjn.gob.mx/sites/default/files/cronicas_pleno_salas/documento/2019-08/cr-NLPH-0011-16.pdf"
+      ],
+      "named_cases_or_publications": [
+        "SCJN Acción de Inconstitucionalidad 11/2016 — promovente (Decreto 1380 Oaxaca, partial unconstitutionality, ponente Piña Hernández, decided 26 Oct 2017)"
+      ],
+      "contact": {
+        "institutional": "Fiscalía General de Oaxaca channels"
+      },
+      "tier": 1,
+      "hook": "The named promovente of the anchor Mexican constitutional case on parental alienation — the named lawyer behind the Latin-American Spanish-civil-law PA-statute test.",
+      "cross_ref": "case-studies/scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca.md"
+    },
+    {
+      "id": "mx-rios-maria-estela",
+      "country_code": "MX",
+      "name": "María Estela Ríos González",
+      "credentials": "Abogada; ex-Consejera Jurídica del Ejecutivo Federal (2021-2024); ex-Consejera Jurídica Jefatura de Gobierno CDMX (2018-2021); UNAM Facultad de Derecho",
+      "firm": "Consejería Jurídica del Ejecutivo Federal (historical 2021-2024)",
+      "firm_url": "https://www.gob.mx/cjef",
+      "additional_urls": [
+        "https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8241",
+        "https://www2.scjn.gob.mx/juridica/engroses/3/2024/19/3_331970_7141_firmado.pdf"
+      ],
+      "bar": "Barra Mexicana de Abogados",
+      "bar_number": "not publicly confirmed",
+      "stance": "critique",
+      "stance_sources": [
+        "https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8241",
+        "https://www2.scjn.gob.mx/juridica/engroses/3/2024/19/3_331970_7141_firmado.pdf"
+      ],
+      "named_cases_or_publications": [
+        "SCJN Acción de Inconstitucionalidad 74/2024 — promovente (filed 25 March 2024; Pleno invalidated fourth paragraph Art. 168 Ter Tlaxcala Civil Code on 11/2016 doctrine, 29 April 2025)"
+      ],
+      "contact": {
+        "institutional": "CJEF historical channels"
+      },
+      "tier": 1,
+      "hook": "The federal-executive lawyer who filed the 2025 Tlaxcala extension of the Mexican PA-constitutional doctrine — direct counterpart to Peimbert Calvo at the federal layer.",
+      "cross_ref": "case-studies/scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca.md"
+    },
+    {
+      "id": "mx-equis-justicia",
+      "country_code": "MX",
+      "name": "Equis Justicia para las Mujeres A.C.",
+      "credentials": "Mexican feminist legal advocacy NGO (Mexico City); civil association",
+      "firm": "Equis Justicia para las Mujeres",
+      "firm_url": "https://equis.org.mx/",
+      "additional_urls": ["https://equis.org.mx/author/wp-help/"],
+      "bar": "Civil association; legal team admitted to Barra Mexicana de Abogados",
+      "bar_number": "n/a — institutional",
+      "stance": "critique",
+      "stance_sources": [
+        "https://genero.congresocdmx.gob.mx/wp-content/uploads/2024/05/CELIG-Inform-Te%CC%81c-Alienacio%CC%81n-Parental-29-05-24.pdf",
+        "https://cimacnoticias.com.mx/2017/10/25/scjn-avala-incluir-en-codigo-penal-oaxaqueno-alienacion-parental/"
+      ],
+      "named_cases_or_publications": [
+        "Editorial alignment with SCJN AI 11/2016 + 74/2024 doctrine",
+        "MESECVI (Belém do Pará follow-up) Mexican alignment",
+        "PA-related interventions in state-level reform debates"
+      ],
+      "contact": {
+        "email": "info@equis.org.mx",
+        "contact_form": "https://equis.org.mx/contacto/"
+      },
+      "tier": 2,
+      "hook": "The Mexican feminist legal NGO whose technical interventions sit at the centre of the CDMX legislative-research record on alienación parental — institutional contact for any Mexican critique-camp coordination."
+    },
+    {
+      "id": "mx-intersecta",
+      "country_code": "MX",
+      "name": "Intersecta Organización para la Igualdad A.C.",
+      "credentials": "Mexican feminist think-tank; civil association; legal/policy team includes abogadas admitted to BMA",
+      "firm": "Intersecta",
+      "firm_url": "https://www.intersecta.org/",
+      "bar": "Civil association",
+      "bar_number": "n/a — institutional",
+      "stance": "critique",
+      "stance_sources": [
+        "https://genero.congresocdmx.gob.mx/wp-content/uploads/2024/05/CELIG-Inform-Te%CC%81c-Alienacio%CC%81n-Parental-29-05-24.pdf"
+      ],
+      "named_cases_or_publications": [
+        "Public policy research on intersectional violence against women in Mexico",
+        "Cross-cited in feminist coalition material flagged by CELIG-CDMX (May 2024)",
+        "Estefanía Vela Barba (executive director) public commentary"
+      ],
+      "contact": {
+        "email": "contacto@intersecta.org",
+        "contact_form": "https://www.intersecta.org/contacto"
+      },
+      "tier": 3,
+      "hook": "Mexican think-tank with intersectional methodology relevant to PA-policy analysis; secondary institutional contact in the critique infrastructure."
+    },
+    {
+      "id": "ar-mizrahi-mauricio",
+      "country_code": "AR",
+      "name": "Mauricio Luis Mizrahi",
+      "credentials": "Abogado; Doctor en Derecho y Ciencias Sociales; ex-Juez Cámara Nacional Civil (~30 años); Profesor Titular Consulto UBA; Profesor Universidad de Palermo",
+      "firm": "Independent practice (Buenos Aires); CEAP - Centro de Estudios en Alienación Parental",
+      "firm_url": "https://alienacionparental.com.ar/",
+      "additional_urls": [
+        "https://alienacionparental.com.ar/en/quienes-somos/",
+        "https://www.derecho.uba.ar/institucional/deinteres/2022/presentacion-del-libro-i-alienacion-parental-ninos-huerfanos-de-padres-vivos-i-del-dr-mauricio-luis-mizrahi",
+        "https://www.palermo.edu/derecho/facultad/profesores/mauricio-mizrahi.html",
+        "https://www.linkedin.com/in/mauricio-luis-mizrahi-456116167/"
+      ],
+      "address": "Buenos Aires, CABA",
+      "bar": "CPACF (Colegio Público de Abogados de la Capital Federal)",
+      "bar_number": "not publicly confirmed",
+      "stance": "recognition",
+      "stance_sources": [
+        "Mizrahi, Un leading case: plena admisión de la alienación parental por la justicia nacional, La Ley 12/4/2022 p.8 (TR La Ley AR/DOC/1227/2022)",
+        "https://alienacionparental.com.ar/wp-content/uploads/2024/09/NUEVOS-FALLOS-QUE-RECONOCEN-LA-ALIENACION-PARENTAL.pdf",
+        "https://www.infobae.com/sociedad/2024/11/03/por-primera-vez-la-alienacion-parental-sera-debatida-en-un-congreso-en-la-facultad-de-derecho-de-la-uba/"
+      ],
+      "named_cases_or_publications": [
+        "Doctrinal anchor on CSJN 7-X-2021 P.B., E.G. c/ B., K.E. (CSJ 1813/2018/RH1)",
+        "Alienación parental. Hijos huérfanos de padres vivos (Editorial Astrea, Buenos Aires, 2022)",
+        "Responsabilidad parental (Astrea)",
+        "Co-organiser UBA Facultad de Derecho 2024 Congreso on alienación parental",
+        "Founding figure CEAP"
+      ],
+      "contact": {
+        "contact_form": "https://alienacionparental.com.ar/"
+      },
+      "tier": 1,
+      "hook": "The single most-cited Argentine PA-recognition author at apex-court doctrinal level; the natural primary interlocutor for Spanish-language PA-recognition outreach in the southern cone.",
+      "cross_ref": "case-studies/csjn-p-b-e-g-c-b-k-e-medidas-precautorias-2021-alienacion-parental.md"
+    },
+    {
+      "id": "ar-herrera-marisa",
+      "country_code": "AR",
+      "name": "Marisa Herrera",
+      "credentials": "Abogada; Doctora en Derecho UBA; Especialista Derecho de Familia UBA; Investigadora independiente CONICET; Profesora UBA / UNDAV",
+      "firm": "Academic — Universidad de Buenos Aires Facultad de Derecho; Universidad Nacional de Avellaneda; CONICET",
+      "firm_url": "https://www.derecho.uba.ar/investigacion/investigadores/cv/marisa-herrera.php",
+      "additional_urls": [
+        "https://www.derecho.uba.ar/investigacion/investigadores/herrera.php",
+        "https://ri.conicet.gov.ar/bitstream/handle/11336/106740/CONICET_Digital_Nro.c42a1ee1-77b4-4e5c-9c78-ede5012ceec9_A.pdf?sequence=2",
+        "https://www.colectivoderechofamilia.com/wp-content/uploads/2015/05/MH.-C%C3%B3digo-Civil-y-Comercial-perspectiva-de-g%C3%A9nero.pdf"
+      ],
+      "address": "UBA Facultad de Derecho, Av. Figueroa Alcorta 2263, CABA C1425CKB",
+      "bar": "CPACF",
+      "bar_number": "not publicly confirmed",
+      "stance": "middle",
+      "stance_sources": [
+        "https://www.saij.gob.ar/marisa-herrera-logica-codigo-civil-comercial-nacion-materia-familia-reformar-para-transformar-dacf140902-2014-12-29/123456789-0abc-defg2090-41fcanirtcod",
+        "https://www.colectivoderechofamilia.com/wp-content/uploads/2015/05/MH.-C%C3%B3digo-Civil-y-Comercial-perspectiva-de-g%C3%A9nero.pdf"
+      ],
+      "named_cases_or_publications": [
+        "Manual de Derecho de las Familias (Abeledo Perrot, 2a ed. 2019)",
+        "Tratado de Derecho de Familia según el Código Civil y Comercial 2014 (co-director with Kemelmajer + Lloveras)",
+        "Co-author / drafter of Código Civil y Comercial family-law framework",
+        "Derecho de las Familias, Infancia y Adolescencia (SAIJ)"
+      ],
+      "contact": {
+        "institutional": "UBA Facultad de Derecho channels via derecho.uba.ar"
+      },
+      "tier": 2,
+      "hook": "The UBA family-law professor whose perspectiva-de-género methodology shapes the institutional middle ground — natural academic interlocutor for differentiated PA approach."
+    },
+    {
+      "id": "ar-kemelmajer-aida",
+      "country_code": "AR",
+      "name": "Aída R. Kemelmajer de Carlucci",
+      "credentials": "Abogada; ex-Ministra Suprema Corte de Justicia de Mendoza (1984-2010); Doctora en Derecho U. Mendoza; Doctora Honoris Causa multiple",
+      "firm": "Academic / consultor — Universidad Nacional de Cuyo; IDIBE",
+      "firm_url": "https://en.wikipedia.org/wiki/A%C3%ADda_Kemelmajer",
+      "additional_urls": [
+        "https://idibe.org/organizacion-institucional/dra-aida-kemelmajer-de-carlucci/",
+        "https://fundesi.com.ar/member/aida-kemelmajer-carlucci/",
+        "https://www.rubinzal.com.ar/autores/kemelmajer-de-carlucci-aida/42/",
+        "https://www.fundacionkonex.org/b123-aida-r-kemelmajer-de-carlucci"
+      ],
+      "address": "Universidad Nacional de Cuyo, Mendoza",
+      "bar": "Colegio de Abogados de Mendoza",
+      "bar_number": "not publicly confirmed",
+      "stance": "middle",
+      "stance_sources": [
+        "https://www.fundacionkonex.org/b123-aida-r-kemelmajer-de-carlucci",
+        "Tratado de Derecho de Familia (co-director with Herrera / Lloveras)"
+      ],
+      "named_cases_or_publications": [
+        "Member Drafting Commission Código Civil y Comercial 2011-2012",
+        "La responsabilidad civil en el derecho de familia",
+        "El nuevo Derecho de Familia",
+        "20+ books + 600+ monographic articles"
+      ],
+      "contact": {
+        "institutional": "via IDIBE / Rubinzal Culzoni / Universidad Nacional de Cuyo"
+      },
+      "tier": 2,
+      "hook": "The most senior living Argentine civil-law academic; doctrinal architect of the Código Civil y Comercial framework that the CSJN's 7-X-2021 ruling operates within. Influence-by-doctrine rather than direct PA practice."
+    },
+    {
+      "id": "ar-asapmi",
+      "country_code": "AR",
+      "name": "ASAPMI - Asociación Argentina de Prevención del Maltrato Infanto-Juvenil",
+      "credentials": "Argentine civil association (founded 2000); interdisciplinary (psychologists, psychiatrists, paediatricians, judges, lawyers, researchers)",
+      "firm": "ASAPMI (Buenos Aires)",
+      "firm_url": "https://asapmi.org.ar/",
+      "additional_urls": [
+        "https://asapmi.org.ar/about/",
+        "https://asapmi.org.ar/nuestra-historia/",
+        "https://buenosaires.gob.ar/organizacion/asapmi-asociacion-argentina-de-prevencion-del-maltrato-infanto-juvenil",
+        "https://asapmi.org.ar/jurisprudencia/?id=25",
+        "https://asapmi.org.ar/wp-content/uploads/2024/09/PBEG-c-BK-E-Medidas-precautorias.pdf"
+      ],
+      "address": "Buenos Aires, CABA",
+      "bar": "Civil association; legal-team members admitted to CPACF / provincial bars",
+      "bar_number": "n/a — institutional",
+      "stance": "critique",
+      "stance_sources": [
+        "https://backend.congresos.unlp.edu.ar/index.php/7ciip/article/view/466",
+        "http://www.asapmi.org.ar/publicaciones/articulos-juridicos/?id=1068"
+      ],
+      "named_cases_or_publications": [
+        "El falso síndrome de alienación parental: hacia la erradicación de un constructo patriarcal (UNLP 7th Internacional de Investigación en Psicología)",
+        "Argentine institutional repository for SAP-critical jurisprudence and academic critique",
+        "Hosts SCBA 2024 P.B., E.G. PDF in jurisprudence archive"
+      ],
+      "contact": {
+        "email": "asapmi@asapmi.org.ar",
+        "contact_form": "https://asapmi.org.ar/contacto/"
+      },
+      "tier": 2,
+      "hook": "The Argentine institutional voice with the longest-running interdisciplinary child-protection record critical of SAP — natural counterpart to Mizrahi/CEAP in the Argentine debate.",
+      "note": "Original brief listed Eduardo Cárdenas as 'president of ASAPMI' — primary-source check: Cárdenas was an ex-Juez de Familia who in 2000 published 'El abuso de la denuncia de abuso' introducing SAP/PA into Argentine practitioner discourse. Not ASAPMI president (ASAPMI's stance is opposite). Cárdenas role historical-doctrinal."
+    },
+    {
+      "id": "co-sisma-mujer",
+      "country_code": "CO",
+      "name": "Corporación Sisma Mujer",
+      "credentials": "Colombian feminist civil association (founded 11 September 1998); legal team admitted to Consejo Superior de la Judicatura",
+      "firm": "Sisma Mujer (Bogotá); director: Linda Cabrera (since c. 2018)",
+      "firm_url": "https://sismamujer.org/",
+      "additional_urls": [
+        "https://sismamujer.org/mision-y-vision/",
+        "https://www.oas.org/es/cidh/consulta/docs/II.es.18.consulta_medidas_cautelaressisma_mujer_colombia.pdf",
+        "https://belemdopara.org/wp-content/uploads/2025/05/SISMA-MUJER.pdf",
+        "https://www.eltiempo.com/justicia/paz-y-derechos-humanos/sisma-mujer-organizacion-feminista-y-su-directora-linda-cabrera-comparten-logros-en-el-aniversario-25-825795"
+      ],
+      "address": "Bogotá, Colombia",
+      "bar": "Civil association; individual lawyers via Registro Nacional de Abogados (Consejo Superior de la Judicatura)",
+      "bar_number": "n/a — institutional",
+      "stance": "critique",
+      "stance_sources": [
+        "https://afrofeminas.com/2024/07/13/feministas-colombianas-llevan-a-la-cidh-casos-del-falso-sindrome-de-alienacion-parental/",
+        "https://efeminista.com/organizacion-colombiana-cidh-casos-falso-sindrome-alienacion-parental/",
+        "https://www.swissinfo.ch/spa/llevan-petici%C3%B3n-a-cidh-por-uso-de-%22dictamen-obsoleto%22-en-violencia-de-g%C3%A9nero-en-colombia/83172704",
+        "https://sismamujer.org/violencia-contra-las-mujeres-y-las-ninas-publicaciones/"
+      ],
+      "named_cases_or_publications": [
+        "2024 CIDH petition documenting five Colombian SAP-related cases against DV-survivor mothers",
+        "Institutional alignment with Corte Constitucional Sentencia T-526/23 (Diana Fajardo, 30 Nov 2023, Sala Tercera de Revisión)",
+        "Violencia contra las mujeres y las niñas publications series"
+      ],
+      "contact": {
+        "email": "info@sismamujer.org",
+        "contact_form": "https://sismamujer.org/contacto/"
+      },
+      "tier": 1,
+      "hook": "The institutional architect of the strongest LATAM apex-court PA-proscription jurisprudence (Corte Constitucional T-526/23) — single most direct Colombian critique-camp contact."
+    },
+    {
+      "id": "co-fajardo-diana",
+      "country_code": "CO",
+      "name": "Diana Fajardo Rivera",
+      "credentials": "Magistrada Corte Constitucional de Colombia (Sala Tercera de Revisión); elected by Senado 2017",
+      "firm": "Corte Constitucional de Colombia",
+      "firm_url": "https://www.corteconstitucional.gov.co/",
+      "additional_urls": ["https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm"],
+      "address": "Corte Constitucional, Calle 12 No. 7-65, Bogotá",
+      "bar": "Colombian Consejo Superior de la Judicatura registered",
+      "bar_number": "not publicly confirmed",
+      "stance": "critique",
+      "stance_sources": [
+        "https://www.corteconstitucional.gov.co/relatoria/2023/t-526-23.htm",
+        "https://img.lpderecho.pe/wp-content/uploads/2024/01/Sentencia-T-526-de-2023-LPDerecho.pdf",
+        "https://efeminista.com/colombia-prohibe-sindrome-alienacion-parental/",
+        "https://www.infobae.com/colombia/2024/01/06/que-es-el-sindrome-de-alienacion-parental-y-por-que-la-corte-constitucional-lo-prohibio-en-procesos-judiciales-en-colombia/",
+        "https://www.diarioconstitucional.cl/2024/02/16/corte-constitucional-de-colombia-prohibe-los-diagnosticos-basados-en-el-sindrome-de-alienacion-parental-por-carecer-de-base-cientifica/",
+        "https://lpderecho.pe/uso-sindrome-alienacion-parental-proscribirse-criterio-procesos-judiciales-sustento-cientifico-colombia-sentencia-t-526-2023/"
+      ],
+      "named_cases_or_publications": [
+        "Sentencia T-526 de 2023 — ponente (Sala Tercera de Revisión with Jorge Enrique Ibáñez Najar and Alejandro Linares Cantillo, decided 30 November 2023). Anchor Colombian PA-proscription precedent: SAP 'is not currently accredited by science … reproduces gender stereotypes and generates discrimination and violence against women on the basis of gender'"
+      ],
+      "contact": {
+        "institutional": "Corte Constitucional channels"
+      },
+      "tier": 1,
+      "hook": "The author of LATAM's strongest 2023 PA-proscription ruling — the natural jurisprudential citation anchor for Colombia and Spanish-language Latin America generally.",
+      "note": "Institutional / jurisprudential reference — not a target for private outreach"
+    },
+    {
+      "id": "cl-munoz-andrea",
+      "country_code": "CL",
+      "name": "Andrea Muñoz Sánchez",
+      "credentials": "Ministra Corte Suprema de Chile; responsable institucional de Igualdad de Género y No Discriminación",
+      "firm": "Corte Suprema de Chile",
+      "firm_url": "https://secretariadegenero.pjud.cl/",
+      "additional_urls": [
+        "https://secretariadegenero.pjud.cl/index.php/secretaria-tecnica-de-igualdad-de-genero-y-no-discriminacion/blog-noticias/770-ministra-munoz-la-comprension-de-la-violencia-es-vital-para-lograr-cambios-efectivos-en-la-administracion-de-justicia"
+      ],
+      "address": "Corte Suprema de Chile, Compañía de Jesús 1140, Santiago",
+      "bar": "Colegio de Abogados de Chile (CAJ)",
+      "bar_number": "not publicly confirmed",
+      "stance": "critique",
+      "stance_sources": [
+        "https://secretariadegenero.pjud.cl/index.php/secretaria-tecnica-de-igualdad-de-genero-y-no-discriminacion/blog-noticias/770-ministra-munoz-la-comprension-de-la-violencia-es-vital-para-lograr-cambios-efectivos-en-la-administracion-de-justicia",
+        "https://www.elmostrador.cl/braga/yo-opino/2024/04/22/el-rechazo-al-sindrome-de-alienacion-parental-y-al-sesgo-de-genero-en-tribunales/",
+        "https://www.elmostrador.cl/braga/2023/01/10/controversias-por-proyecto-que-considera-el-sindrome-de-alienacion-parental-como-acto-constitutivo-de-violencia-intrafamiliar/"
+      ],
+      "named_cases_or_publications": [
+        "Coordinadora institutional gender-perspective work at Chilean Supreme Court",
+        "Led hybrid presentation of Oxford Prof. Shazia Choudhry's research 'The response of family justice to domestic abuse' (Poder Judicial Chile)"
+      ],
+      "contact": {
+        "email": "secretaria@pjud.cl"
+      },
+      "tier": 2,
+      "hook": "The Chilean Supreme Court's institutional lead on gender-perspective jurisprudence — the natural interlocutor for any Chilean PA-and-DV cross-allegation discussion at apex level."
+    },
+    {
+      "id": "cl-humanas",
+      "country_code": "CL",
+      "name": "Corporación Humanas Chile - Centro Regional de Derechos Humanos y Justicia de Género",
+      "credentials": "Chilean feminist civil association (founded 2004)",
+      "firm": "Corporación Humanas (Santiago)",
+      "firm_url": "https://www.humanas.cl/",
+      "additional_urls": [
+        "https://www.humanas.cl/que-hacemos/",
+        "https://www.devex.com/organizations/regional-center-for-human-rights-and-gender-justice-corporacion-humanas-centro-regional-de-derechos-humanos-y-justicia-de-genero-66083",
+        "https://www.omct.org/en/network-members/corporacion-humanas-centro-regional-de-derechos-humanos-y-justiciade-de-genero"
+      ],
+      "address": "Don Carlos 2939 of. 1004, Las Condes, Santiago",
+      "bar": "Civil association; legal team admitted to Colegio de Abogados de Chile",
+      "bar_number": "n/a — institutional",
+      "stance": "critique",
+      "stance_sources": [
+        "https://www.elmostrador.cl/braga/2023/01/10/controversias-por-proyecto-que-considera-el-sindrome-de-alienacion-parental-como-acto-constitutivo-de-violencia-intrafamiliar/",
+        "https://www.indh.cl/sociedad-civil-indh/"
+      ],
+      "named_cases_or_publications": [
+        "Institutional opposition to 2023 Chilean legislative proposal recognising SAP as form of intra-family violence",
+        "Regional women's-rights advocacy",
+        "CEDAW shadow reports"
+      ],
+      "contact": {
+        "phone": "+56 (2) 2231-1080",
+        "email": "corporacion@humanas.cl"
+      },
+      "tier": 2,
+      "hook": "Chilean feminist legal institution with the most direct documented opposition to PA / SAP recognition at legislative level — institutional contact for the Chilean critique camp."
+    }
+  ],
+  "excluded_entries": [
+    {"name": "Glaucia Maria Lauletta Frascino (BR)", "reason": "Confirmed via Mattos Filho + Chambers as TAX litigator, not family law"},
+    {"name": "Eliane Antonioli (BR)", "reason": "Name not retrievable from OAB-SP register or any PA-specific publication"},
+    {"name": "Counsel of record STJ REsp 1.859.228/SP and REsp 2.108.750/GO (BR)", "reason": "STJ family-law privacy anonymisation; not in publicly indexed acórdão extracts"},
+    {"name": "Karla Quintana Osuna (MX)", "reason": "Enforced-disappearances expertise; no PA-specific stance or publication"},
+    {"name": "Estefanía Veloz (MX)", "reason": "TV/columnist + feminist commentator; no PA-specific publication or court intervention"},
+    {"name": "Ana Pamela Romero Guerra (MX)", "reason": "Criminal procedure / forensic science academic; not family law / PA"},
+    {"name": "Cecilia Grosman (AR)", "reason": "Deceased 2024"},
+    {"name": "Nelly Minyersky (AR)", "reason": "Abortion-rights primary focus; no PA-specific publication or court intervention identified"},
+    {"name": "Florencia Gutiérrez Pampillón (AR)", "reason": "Not publicly confirmed as identifiable PA practitioner from available sources"},
+    {"name": "Aída Patricia Hernández (CO)", "reason": "State responsibility / administrative contracting academic; not family law / PA"},
+    {"name": "Néstor Raúl Charrupí Hernández (CO)", "reason": "Procesal-law professor; no PA-specific publication confirmed"},
+    {"name": "Sergio Estrada-Vélez (CO)", "reason": "Constitutional lawyer (C-683/2015 homoparental adoption); no PA-specific publication"},
+    {"name": "Carmen Domínguez Hidalgo (CL)", "reason": "Senior family-law academic at PUC Chile but no PA-specific publication surfaced at directory level — natural future addition once PA-specific source identified"},
+    {"name": "Daniela Marzi Muñoz (CL)", "reason": "Labor-law / current Pres. Tribunal Constitucional de Chile; not family law / PA"}
+  ],
+  "honest_gaps": [
+    "Apex-court counsel anonymisation: BR (STJ), AR (CSJN, SCBA), CO (Corte Constitucional T-526/23 tutela) anonymise child parties and frequently their counsel. Named-counsel entries are concentrated on (a) constitutional-action promoventes where standing is institutional and (b) doctrinal-commentary authors.",
+    "Chile sparsity: Chile lacks single anchor apex-court PA ruling comparable to MX 11/2016, CO T-526/23, AR P.B., E.G. Both flagship CL entries are partial-fit rather than perfect-fit.",
+    "PUC Chile / Centro UC de la Familia (Carmen Domínguez): substantial family-law output but PA-specific publication not surfaced in available web sources. Spanish-language academic-library pass would likely identify a PA piece.",
+    "Critique-camp named-counsel verification: original brief's hypothesis of a single named Brazilian advocate fronting Alsalem 2022 submission appears to overstate institutional reality. The Alsalem call drew on AAIG/Themis collective work plus Câmara feminist deputies (Melchionna, Bomfim, Reis on PL 2812/22) — not a single named advocate.",
+    "Mexico CDMX private practice: PA jurisprudence dominated by institutional / constitutional-action lawyers. Private-practice family lawyers handling individual SCJN amparo cases not retrievable from public-source searches at directory level."
+  ],
+  "cross_references": [
+    "case-studies/stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024.md",
+    "case-studies/stj-resp-2108750-go-alienacao-parental-abuso-sexual-2024.md",
+    "case-studies/scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca.md",
+    "case-studies/csjn-p-b-e-g-c-b-k-e-medidas-precautorias-2021-alienacion-parental.md",
+    "jurisdictions/brazil.md",
+    "jurisdictions/mexico.md",
+    "jurisdictions/argentina.md",
+    "evidence-international-institutional-positions.md"
+  ]
+}
