@@ -8,7 +8,7 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 |---|---|---|---|
 | **United States** | [us.md](us.md) | [us.json](us.json) | 19 verified |
 | **United Kingdom (E&W)** | [uk.md](uk.md) | [uk.json](uk.json) | 12 verified + 1 excluded |
-| Canada | coming next | coming next | — |
+| **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | 12 verified + 16 borderline/excluded |
 | Australia / NZ | coming next | coming next | — |
 | EU member states | coming next | coming next | — |
 | International | coming next | coming next | — |
