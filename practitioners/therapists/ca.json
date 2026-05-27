@@ -1,0 +1,324 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-26",
+  "country": "CA",
+  "type": "therapists",
+  "license": "CC BY 4.0",
+  "intended_repo": "github.com/AntiAlienate/antialienate-knowledge",
+  "stance_taxonomy": {
+    "recognition": "treats PA as a real, assessable phenomenon; operates or endorses PA-specific reunification / alienating-behaviour expert-witness work",
+    "critique": "argues PA construct is operationalised against domestic-abuse survivors; advocates DV/trauma-informed alternatives and tighter regulation",
+    "middle": "engages both alienating-behaviour and family-violence frames; AFCC-aligned, differential-diagnosis (Fidler/Bala/Saini Children Who Resist) approach"
+  },
+  "canadian_context_notes": [
+    "Federal Divorce Act amended by Bill C-78 (in force 1 Mar 2021) requires courts to consider 'family violence' (s.16(3)(j))",
+    "No Canadian appellate equivalent to UK Re Y [2026] EWFC 38 restricting unregulated PA experts",
+    "NAWL May 2024 brief to House of Commons FEWO calls for ban on PA accusations: https://nawl.ca/wp-content/uploads/2024/05/NAWL-FEWO-brief-PA-EN.pdf",
+    "Quebec Rebatir la confiance report addressed PAS weaponisation in DV cases"
+  ],
+  "cross_references": {
+    "us_therapists": ["Linda Gottlieb LMFT LCSW-R (TPFF takes Canadian referrals)", "Joan B. Kelly PhD (trains Canadian AFCC assessors)"],
+    "canada_lawyers": ["Pamela Cross (co-developer of Jaffe e-learning course)", "Hon. Donna Martinson KC (retired BCSC)", "Nicholas Bala (Queen's Law; co-author with Fidler & Saini)"]
+  },
+  "practitioners": [
+    {
+      "name": "Dr Kathleen M. Reay, PhD, RCC",
+      "practice": "Founder and Clinical Director, Family Reflections Reunification Program Inc. (Nanaimo/Vancouver Island, BC)",
+      "practice_url": "https://familyreflectionsprogram.com/",
+      "province": "BC",
+      "regulatory_body": "BC Association of Clinical Counsellors (BCACC) — RCC",
+      "registration_number": "not publicly displayed",
+      "regulatory_notes": "RCC (not registered psychologist with CHCPBC). PhD from Capella University 2007.",
+      "specialty": "4-day intensive reunification retreat for severely alienated children and rejected parents; high-conflict divorce, EMDR-trauma",
+      "stance": "recognition",
+      "stance_source": "Reay (2015), 'Family Reflections: A Promising Therapeutic Program' AJFT 43(2):197-207 https://www.tandfonline.com/doi/abs/10.1080/01926187.2015.1007769 ; 2007 PhD dissertation on PAS long-term effects",
+      "programs_or_publications": [
+        "Family Reflections Reunification Program (pilot 2012, 22 children/12 families)",
+        "Reay (2015) AJFT outcome paper claiming 95% success at 12-month follow-up",
+        "Reay & Bernet (2020) PARQ-Gap study, Journal of Forensic Sciences",
+        "Cited in Williamson v. Williamson 2016 BCCA 87"
+      ],
+      "primary_contact": "https://familyreflectionsprogram.com/ contact form; PO Box 41023, Nanaimo, BC V9T 6M7",
+      "tier": 1,
+      "hook": "Most-named Canadian PA reunification programme in BC custody judgments; direct Canadian parallel to US Family Bridges.",
+      "notes": "RCC (not psychologist) status is the Canadian regulatory analogue of the post-Re Y UK debate. PARQ-Gap collaboration with Bernet places her firmly in PASG international network."
+    },
+    {
+      "name": "Joanna Seidel, MSW, RSW, Acc.FM.",
+      "practice": "Clinical Director and Founder, Toronto Family Therapy and Mediation Inc.; OCL Clinical Investigator panel since 2011",
+      "practice_url": "https://torontofamilytherapist.com/",
+      "province": "ON",
+      "regulatory_body": "Ontario College of Social Workers and Social Service Workers (OCSWSSW) — RSW",
+      "registration_number": "searchable via https://www.ocswssw.org/ public register (not displayed on profile)",
+      "regulatory_notes": "MSW University of Toronto; Accredited Family Mediator (OAFM)",
+      "specialty": "Therapeutic reintegration/reunification therapy after disrupted parent-child contact (PA, estrangement, high-conflict divorce); training of judges, lawyers, mediators",
+      "stance": "recognition",
+      "stance_source": "Practice site lists 'Parental Alienation' as specialty area: https://torontofamilytherapist.com/separation-and-divorce/therapeutic-reintegration/ ; bio confirms PA training to judges and family-court professionals",
+      "programs_or_publications": [
+        "Toronto Family Therapy and Mediation Inc. reintegration practice",
+        "Office of the Children's Lawyer Clinical Investigator panel (since 2011)",
+        "Conference presentations on PA / voice of the child"
+      ],
+      "primary_contact": "joanna@torontofamilytherapy.com ; (416) 629-7410 ; 1810 Avenue Road, Suite 200, Toronto, ON M5M 3Z2",
+      "tier": 2,
+      "hook": "OCSWSSW-regulated RSW operating reunification practice plus OCL panel - cleanest Ontario recognition entry that survives Canadian-regulator credentialing test.",
+      "notes": null
+    },
+    {
+      "name": "Dr Lorri Yasenik, PhD, MSW, RSW, RPT-S, CPT-S",
+      "practice": "Co-owner and Clinical Director, Rocky Mountain Play Therapy Institute (Calgary); Yasenik & Associates; co-founder ICCFL",
+      "practice_url": "https://lorriyasenik.com/",
+      "province": "AB",
+      "regulatory_body": "Alberta College of Social Workers — RSW #1432",
+      "registration_number": "1432 (ACSW)",
+      "regulatory_notes": "Not registered with College of Alberta Psychologists. MSW Clinical (U of Calgary 1990); PhD Tilburg 2013; RPT-S (Assoc for Play Therapy); CPT-S (CACPT)",
+      "specialty": "Play therapy; parenting coordination; child voices in legal processes; high-conflict separation/divorce; expert witness (~58 court appearances)",
+      "stance": "recognition",
+      "stance_source": "Yasenik & Graham 'Out of the Mouths of Babes' model and 'Decision-Making in Child Inclusive Practice' (ICCFL); AFCC Alberta PWG on Parenting Coordination membership https://www.afccalberta.org/pwgparentingcoordination ; PhD (2013)",
+      "programs_or_publications": [
+        "Rocky Mountain Play Therapy Institute",
+        "International Centre for Children and Family Law (with Jon Graham, Sydney AU)",
+        "2013 PhD dissertation on children's voices in family legal process",
+        "AFCC Alberta PWG on Parenting Coordination member"
+      ],
+      "primary_contact": "https://lorriyasenik.com/ contact form",
+      "tier": 2,
+      "hook": "AFCC-aligned Alberta child-inclusive voice; closest Canadian analogue to Joan Kelly differential approach; opens Alberta parenting-coordinator network.",
+      "notes": "Middle-leaning recognition. ICCFL co-founder Jon Graham is Sydney-based - source brief 'Dr Jon Graham Toronto' is incorrect."
+    },
+    {
+      "name": "Dr Peter G. Jaffe, PhD, C.Psych.",
+      "practice": "Professor, Faculty of Education, Western University; Director Emeritus CREVAWC; Director Emeritus London Family Court Clinic",
+      "practice_url": "https://www.edu.uwo.ca/about/faculty-profiles/peter-jaffe/index.html",
+      "province": "ON",
+      "regulatory_body": "College of Psychologists of Ontario (C.Psych. per Western bio)",
+      "registration_number": "not publicly displayed on Western profile",
+      "regulatory_notes": "PhD/MA Western (Psychology); BSc McGill; ORCID 0000-0003-1711-3768",
+      "specialty": "Child custody and domestic violence; expert-witness practice in Family Court; 2,000+ custody assessments supervised over 40 years",
+      "stance": "critique",
+      "stance_source": "Jaffe, Crooks & Poisson (2003) Juvenile and Family Court Journal 54(4):57-67; Jaffe, Lemon & Poisson Child Custody and Domestic Violence (Sage 2003); co-presenter on CREVAWC 23 Mar 2021 webinar 'The Misuse of Alienation in DV Cases in Family Court' https://www.gbvlearningnetwork.ca/webinars/recorded-webinars/2021/webinar-2021-1.html",
+      "programs_or_publications": [
+        "CREVAWC (founding partner 1992; AD 2005-2021)",
+        "London Family Court Clinic (Director Emeritus)",
+        "Child Custody and Domestic Violence (Sage 2003)",
+        "Free e-learning course on PA/parent-child contact problems (with Pamela Cross)",
+        "2021 Misuse of Alienation webinar"
+      ],
+      "primary_contact": "pjaffe@uwo.ca ; Faculty of Education, Western University, London ON",
+      "tier": 1,
+      "hook": "Most-senior Canadian psychologist on the DV/PA-misuse side; co-developer with Pamela Cross of the free Canadian e-learning course used by judges and lawyers nationwide.",
+      "notes": "Cross-reference Pamela Cross in /practitioners/lawyers/canada."
+    },
+    {
+      "name": "Professor Simon Lapierre, PhD",
+      "practice": "Full Professor, School of Social Work, University of Ottawa; founding member, Feminist Anti-Violence (FemAnVi) Research Collective",
+      "practice_url": "https://socialsciences.uottawa.ca/social-work/people/lapierre-simon",
+      "province": "ON",
+      "regulatory_body": "Academic (PhD University of Warwick, UK) - not a clinician",
+      "registration_number": null,
+      "regulatory_notes": "Academic/research role; social-work licensure framework does not apply",
+      "specialty": "International research on PA-allegations in DV contexts; Quebec PA institutionalisation; mothers' experiences of PA accusations",
+      "stance": "critique",
+      "stance_source": "Lapierre, Ladouceur, Frenette & Cote (2020) 'The legitimization and institutionalization of parental alienation in the Province of Quebec' JSWFL 42(1):30-44 https://www.tandfonline.com/doi/abs/10.1080/09649069.2019.1701922 ; Lapierre et al. (2024) JSWFL 'parental alienation allegations in DV contexts' https://www.tandfonline.com/doi/full/10.1080/09649069.2024.2414623",
+      "programs_or_publications": [
+        "2020 JSWFL Quebec institutionalisation paper (foundational Canadian critique)",
+        "2024 JSWFL impacts-on-mother-child relationships paper",
+        "FemAnVi Research Collective (founding member)",
+        "Co-author with Suzanne Zaccour on Quebec PA/DV literature"
+      ],
+      "primary_contact": "simon.lapierre@uottawa.ca",
+      "tier": 1,
+      "hook": "Lapierre's 2020 JSWFL paper is the most-cited Canadian-language scholarly critique of how Quebec institutionalised PAS - entry-point article for entire francophone-Canada critique camp.",
+      "notes": null
+    },
+    {
+      "name": "Professor Linda C. Neilson, PhD",
+      "practice": "Professor Emerita, Department of Sociology, UNB; Research Fellow, Muriel McQueen Fergusson Centre for Family Violence Research (MMFC)",
+      "practice_url": "https://www.unb.ca/faculty-staff/directory/arts-fr-sociology/neilson-linda.html",
+      "province": "NB",
+      "regulatory_body": "Academic - socio-legal scholar; not a clinician",
+      "registration_number": null,
+      "regulatory_notes": "Sociology/socio-legal academic; regulatory framework does not apply",
+      "specialty": "Empirical analysis of Canadian family-court PA cases; legal system responses to DV; coordinated family-violence court model",
+      "stance": "critique",
+      "stance_source": "Neilson (2018) Parental Alienation Empirical Analysis: Child Best Interests or Parental Rights? (MMFC/FREDA) https://www.fredacentre.com/wp-content/uploads/Parental-Alienation-Linda-Neilson.pdf - analysed 357 Canadian family-court PA cases 2008-2018; finding ~75% of PA claims in DV-allegation cases were made by alleged perpetrator; mothers twice as likely as fathers to lose primary custody on a PA finding",
+      "programs_or_publications": [
+        "2018 MMFC/FREDA Parental Alienation Empirical Analysis (357 cases)",
+        "Bill C-78 expert brief (House of Commons Justice 2018)",
+        "Responding to Domestic Violence in Family Law, Civil Protection & Child Protection Cases (CanLII e-text 2nd edn 2020)",
+        "Co-presenter CREVAWC 2021 webinar on Misuse of Alienation"
+      ],
+      "primary_contact": "neilson@unb.ca ; via MMFC https://www.unb.ca/mmfc/",
+      "tier": 1,
+      "hook": "Neilson's 357-case empirical analysis is THE Canadian data-anchor for PA-as-DV-survivor-suppressor thesis - cited by every brief to Parliament and every NAWL/Luke's Place submission.",
+      "notes": null
+    },
+    {
+      "name": "Suzanne Zaccour, LLB, BCL, DPhil (Oxon)",
+      "practice": "Director of Legal Affairs, National Association of Women and the Law (NAWL); Barreau du Quebec / Law Society of Ontario",
+      "practice_url": "https://nawl.ca/",
+      "province": "QC/ON",
+      "regulatory_body": "Barreau du Quebec; Law Society of Ontario (lawyer, not clinician)",
+      "registration_number": null,
+      "regulatory_notes": "Lawyer-academic; included as the political vehicle that operationalises therapist-critique camp evidence (Lapierre, Neilson, Boyd/Sheehy)",
+      "specialty": "Doctrinal and empirical critique of PA accusations in family court; lead author NAWL 2024 FEWO brief",
+      "stance": "critique",
+      "stance_source": "Zaccour (2020) 'Does Domestic Violence Disappear from Parental Alienation Cases? Five Lessons from Quebec' Canadian Journal of Family Law 33(2) https://commons.allard.ubc.ca/can-j-fam-l/vol33/iss2/8/ ; NAWL (2024) 'Banning Parental Alienation Accusations in Family Court' https://nawl.ca/wp-content/uploads/2024/05/NAWL-FEWO-brief-PA-EN.pdf",
+      "programs_or_publications": [
+        "2020 Canadian Journal of Family Law 'Five Lessons' paper",
+        "2024 NAWL FEWO brief calling for statutory ban on PA accusations",
+        "Law360 column 'Silencing the abused' (2024)"
+      ],
+      "primary_contact": "via https://nawl.ca/contact/",
+      "tier": 1,
+      "hook": "Zaccour drafted the most-aggressive Canadian policy ask on PA to date - calling for outright statutory ban; unavoidable for any Canadian press-cycle response on PA-as-policy.",
+      "notes": "Strictly lawyer-academic, not a clinician - included because her work is the political vehicle operationalising therapist-critique evidence."
+    },
+    {
+      "name": "Professor Rachel Birnbaum, PhD, RSW, LLM",
+      "practice": "Distinguished University Professor Emerita, School of Social Work and Childhood & Youth Studies, King's University College at Western; Adjunct Professor McGill Social Work",
+      "practice_url": "https://socialwork.kings.uwo.ca/people/faculty-and-administration/member-profile/?id=rbirnbau",
+      "province": "ON",
+      "regulatory_body": "OCSWSSW — RSW per faculty profile",
+      "registration_number": "not publicly displayed",
+      "regulatory_notes": "PhD, LLM, RSW. Academic role primary; clinical-practice scale not publicly confirmed post-emerita.",
+      "specialty": "Voice of the child in family law; long-term outcomes of alienation cases; law/social-work intersection; DOJ Canada commissioned research",
+      "stance": "critique",
+      "stance_source": "Birnbaum & Bala (2010) 'Toward the Differentiation of High-Conflict Families' FCR 48(3):403-416 https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-1617.2010.01319.x ; DOJ Canada-commissioned voice-of-the-child research (2022); Canadian Foundation for Legal Research grant with Bala (2022) on long-term PA outcomes",
+      "programs_or_publications": [
+        "Birnbaum & Bala (2010) FCR differentiation paper",
+        "DOJ Canada voice-of-the-child report (2022)",
+        "Canadian Foundation for Legal Research grant (2022) on long-term PA outcomes",
+        "Bill C-223 brief to Parliament (joint with Bala et al.)"
+      ],
+      "primary_contact": "rbirnbau@uwo.ca",
+      "tier": 2,
+      "hook": "Birnbaum's longitudinal Bala-collaboration is the cleanest Canadian middle-ground evidence stream - useful as balanced-quote source.",
+      "notes": "Middle-leaning critique. Cross-reference /practitioners/lawyers/canada (already noted as academic). Source brief classification as 'middle' is defensible; classified critique here to reflect policy alignment with DV-attentive camp."
+    },
+    {
+      "name": "Dr Barbara Jo Fidler, PhD, C.Psych., Acc.FM.",
+      "practice": "Private practice (Toronto); founding member Family Solutions Toronto; editorial board Family Court Review",
+      "practice_url": "https://familysolutionstoronto.ca/fidler.html",
+      "province": "ON",
+      "regulatory_body": "College of Psychologists of Ontario — C.Psych. since 1987",
+      "registration_number": "searchable via https://www.cpo.on.ca/ (not displayed on practice site)",
+      "regulatory_notes": "Registered Clinical-Developmental Psychologist since 1987; Accredited Family Mediator OAFM #407",
+      "specialty": "High-conflict parenting; mediation, arbitration, parenting coordination; expert-witness; reunification interventions (Families Moving Forward); AFCC Overcoming Barriers HCDC staff psychologist",
+      "stance": "middle",
+      "stance_source": "Fidler, Bala & Saini (2013) Children Who Resist Post-Separation Parental Contact: A Differential Approach (Oxford University Press) https://global.oup.com/academic/product/children-who-resist-post-separation-parental-contact-9780199895496 ; Fidler & Bala (2010) FCR 48(1):10-47 ; CTV News 2019 quoted Fidler supporting WHO/ICD-11 recognition: 'I actually lose sleep over these families'",
+      "programs_or_publications": [
+        "Children Who Resist Post-Separation Parental Contact (OUP 2013) - canonical Canadian textbook",
+        "Families Moving Forward (multi-day intervention) https://www.familiesmovingforward.ca/",
+        "Family Solutions Toronto (founding member with Radovanovic, Chodos, Schloss, Horowitz)",
+        "FCR January 2010 special issue (co-editor)",
+        "AFCC Overcoming Barriers HCDC staff psychologist"
+      ],
+      "primary_contact": "drbjfidler@gmail.com ; (416) 481-2046 ; 1709 Bathurst Street, Toronto, ON M5P 3K2",
+      "tier": 1,
+      "hook": "Most-cited Canadian PA practitioner across both camps; Children Who Resist (with Bala and Saini) is the AFCC-aligned middle-ground textbook everyone references; engaging her is mandatory.",
+      "notes": "Middle but recognition-tilting - quoted by CTV (2019) supporting WHO recognition while operating differential-diagnosis clinical model."
+    },
+    {
+      "name": "Professor Michael A. Saini, PhD, MSW, RSW",
+      "practice": "Professor and Factor-Inwentash Chair in Law and Social Work, Factor-Inwentash Faculty of Social Work, University of Toronto; cross-appointed Faculty of Law",
+      "practice_url": "https://socialwork.utoronto.ca/profiles/michael-saini/",
+      "province": "ON",
+      "regulatory_body": "OCSWSSW — RSW",
+      "registration_number": "not publicly displayed",
+      "regulatory_notes": "MSW and PhD University of Toronto; BSW Lakehead",
+      "specialty": "Evidence-based custody and access evaluations; high-conflict divorce; parent-child contact problems differential assessment; child welfare-family law intersection",
+      "stance": "middle",
+      "stance_source": "Fidler, Bala & Saini (2013) Children Who Resist Post-Separation Parental Contact (OUP); Saini (2008) Evidence Base of Custody and Access Evaluations https://utoronto.scholaris.ca/server/api/core/bitstreams/2c8d5aa9-0960-4796-84c5-f768166e4c04/content",
+      "programs_or_publications": [
+        "Children Who Resist Post-Separation Parental Contact (OUP 2013; co-author)",
+        "Evidence Base of Custody and Access Evaluations (2008 report)",
+        "Factor-Inwentash Chair in Law and Social Work",
+        "Numerous FCR and Family Process papers on PA/parent-child contact problems"
+      ],
+      "primary_contact": "michael.saini@utoronto.ca",
+      "tier": 1,
+      "hook": "Social-work co-author of the canonical Canadian differential model; cleanest U of T-affiliated middle voice for academic citation in press.",
+      "notes": null
+    },
+    {
+      "name": "Dr Helen Radovanovic, PhD, C.Psych.",
+      "practice": "Registered Psychologist (Ontario); founding member Family Solutions Toronto; private practice",
+      "practice_url": "https://familysolutionstoronto.ca/radovanovic.html",
+      "province": "ON",
+      "regulatory_body": "College of Psychologists of Ontario — C.Psych.",
+      "registration_number": "not publicly displayed on profile",
+      "regulatory_notes": "C.Psych. designation per practice site confirms current CPO registration",
+      "specialty": "Specialised services for separated families: mediation, parenting plan assessments, parenting coordination, reunification",
+      "stance": "middle",
+      "stance_source": "Family Solutions training page http://www.familysolutionstoronto.ca/training.html frames work as 'differentiation of parent-child contact problems, including alienation and justified rejection, and effective clinical interventions'",
+      "programs_or_publications": [
+        "Family Solutions Toronto (founding member)",
+        "Parenting Coordination practice",
+        "Training delivery to social-service agencies on differential PA assessment"
+      ],
+      "primary_contact": "via https://familysolutionstoronto.ca/ ; direct phone/email not publicly confirmed",
+      "tier": 2,
+      "hook": "Second CPO-registered psychologist at Family Solutions (alongside Fidler); useful as 'second opinion' interview source on Toronto-middle practice.",
+      "notes": "Direct contact email and registration number not published; route via Family Solutions Toronto."
+    },
+    {
+      "name": "Linda Chodos, MSW, RSW, Acc.FM.",
+      "practice": "Private practice (Toronto); founding member Family Solutions Toronto; OCL Clinical Investigator panel",
+      "practice_url": "https://familysolutionstoronto.ca/chodos.html",
+      "province": "ON",
+      "regulatory_body": "OCSWSSW — RSW",
+      "registration_number": "not publicly displayed",
+      "regulatory_notes": "MSW McGill 1972; Accredited Family Mediator OAFM",
+      "specialty": "Assessor, Parenting Coordinator, Mediator, Arbitrator, Consultant, Counsellor; high-conflict separation/divorce; PA assessment within differential frame",
+      "stance": "middle",
+      "stance_source": "Toronto Star (March 2009) 'How to deal with toxic parents' https://canadiancrc.com/Newspaper_Articles/Toronto_Star_How_to_deal_with_Toxic_parents_Parental_Alienation_14MAR09.aspx - quoted: 'There's a lot of work we still need to do. We don't yet have a lot of evidence-based research that shows what kind of intervention works best'",
+      "programs_or_publications": [
+        "Family Solutions Toronto (founding member)",
+        "OCL Clinical Investigator panel",
+        "50+ years RSW practice (called 1972)"
+      ],
+      "primary_contact": "lindachodos@rogers.com ; (416) 250-8398 ; 638 Sheppard Ave. West, Suite 212, Toronto, ON M3H 2S1",
+      "tier": 2,
+      "hook": "Senior MSW voice at Family Solutions; her 2009 Toronto Star quote is the cleanest published Canadian middle-ground sound bite on PA evidence base.",
+      "notes": "Source brief listed her as 'child psychiatrist' - INCORRECT; she is an MSW RSW (not a psychiatrist). Corrected here."
+    }
+  ],
+  "borderline_or_excluded": [
+    {"name": "Brenda Lee Thompson, Ottawa", "reason": "Could not verify any CRPO/OCSWSSW/CPO-registered practitioner by this name in Ottawa with PA practice. Closest match is different person (Brenda Thomas, K2B)."},
+    {"name": "Linda C. J. Black, MSW Toronto", "reason": "Could not verify OCSWSSW-registered Linda C. J. Black associated with PA practice. Closest match is Linda C J Turner (different person, trauma therapist)."},
+    {"name": "Pamela Glazer, Toronto", "reason": "Could not verify CPO/OCSWSSW practitioner by this name doing PA work in Toronto."},
+    {"name": "Marjorie Davidson, BC", "reason": "Could not verify CHCPBC psychologist or BCACC counsellor by this name with PA practice."},
+    {"name": "Sophie Glasner-Mansour, Montreal", "reason": "Could not verify OPQ-registered psychologist by this name with PA work in public sources."},
+    {"name": "Dr Jon Graham, Toronto", "reason": "Source brief locale incorrect: Jon Graham LLB is Sydney, Australia-based (RFDR Practitioner, ICCFL co-founder with Yasenik). Properly belongs to Australia therapists batch."},
+    {"name": "Dr Genevieve Hicks", "reason": "Could not verify Canadian-registered psychologist by this name with PA-case practice."},
+    {"name": "Dr Michelle Knapp-Hermer, Ontario", "reason": "Could not verify CPO-registered psychologist by this name with PA-case practice."},
+    {"name": "Dr Marlies Sudermann", "reason": "Verified as former London Family Court Clinic researcher; co-author with Jaffe on 1992 DV-prevention paper. No PA-specific publication or court testimony surfaced. Excluded as borderline historical-academic."},
+    {"name": "Dr Anne Lazenbatt", "reason": "UK-based (Queen's University Belfast); already noted in UK therapists borderline. Not Canadian."},
+    {"name": "Dr Joan B. Kelly, PhD", "reason": "US-based (Northern California); already in /practitioners/therapists/us. Trains Canadian AFCC assessors but no Canadian licensure. Cross-referenced only."},
+    {"name": "Linda Gottlieb, LMFT, LCSW-R", "reason": "US-based (NY); already in /practitioners/therapists/us. TPFF takes Canadian referrals but Gottlieb is not Canadian-licensed. Cross-referenced only."},
+    {"name": "Hon. Donna Martinson, KC", "reason": "Retired BCSC judge; not a therapist; already in /practitioners/lawyers/canada. Excluded per source brief direction."},
+    {"name": "Steve Miller, MD", "reason": "DECEASED 2022; excluded per source brief direction."},
+    {"name": "Pamela Cross", "reason": "Lawyer/advocate, not a therapist; in /practitioners/lawyers/canada. Cross-referenced via Jaffe entry (e-learning course co-developer)."},
+    {"name": "Dr Claire V. Crooks, PhD", "reason": "DECEASED 2024 per Western Faculty of Education In Memoriam notice https://www.edu.uwo.ca/news-events/2024/in-memoriam-claire-crooks.html . Strong DV-prevention publication record but no standalone PA stance. Excluded as deceased; honoured in Jaffe entry."}
+  ],
+  "stance_distribution": {
+    "recognition": 3,
+    "critique": 5,
+    "middle": 4,
+    "total_verified": 12,
+    "deceased_excluded": 2,
+    "out_of_scope_excluded": 4,
+    "unverifiable_excluded": 8
+  },
+  "honest_gaps": [
+    "Quebec/francophone coverage thin - only Lapierre (Ottawa francophone) and Zaccour (QC-licensed lawyer-academic). Sophie Glasner-Mansour lead unverifiable against OPQ register. Dedicated Quebec batch would surface more OPQ practitioners.",
+    "Atlantic Canada coverage is one entry (Neilson, UNB).",
+    "Recognition camp thin (3 entries) - reflects Canadian regulatory reality. Most named recognition practitioners cluster around Reay's Family Reflections (BC), Toronto reunification (Seidel), or AFCC-aligned middle.",
+    "Prairie provinces (MB, SK) absent.",
+    "Source-brief verification rate low for unverified names (1 of 7 verified: Yasenik only). Glazer, Black, Davidson, Hicks, Knapp-Hermer, Thompson, Glasner-Mansour all unverifiable.",
+    "CPO/OCSWSSW registration numbers not displayed on practice websites for most Ontario entries (Fidler, Radovanovic, Chodos, Seidel) - only designation shown.",
+    "Quebec OPQ searches limited - no OPQ practitioner verified for this batch.",
+    "No Canadian equivalent to UK Re Y [2026] EWFC 38 - no Canadian appellate judgment formally restricting unregulated PA experts; no explicit regulatory-exclusion section."
+  ]
+}
