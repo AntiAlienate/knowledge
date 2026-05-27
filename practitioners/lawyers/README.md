@@ -13,17 +13,17 @@ Open directory of lawyers who specialize in parental-alienation cases, with stan
 | **EU (DE/FR/ES/IT/NL/BE)** | [eu.md](eu.md) | [eu.json](eu.json) | 19 verified across 6 countries |
 | **LATAM (BR/MX/AR/CO/CL)** | [latam.md](latam.md) | [latam.json](latam.json) | 20 verified across 5 countries |
 | **Asia (IN/SG/HK/JP)** | [asia.md](asia.md) | [asia.json](asia.json) | 22 verified across 4 countries |
+| **Africa (ZA + KE/TZ/GH)** | [africa.md](africa.md) | [africa.json](africa.json) | 12 verified across 4 countries |
 | Scotland / NI / Wales-Welsh | coming next | coming next | — |
 | New Zealand | coming next | coming next | — |
-| Africa (ZA / others) | coming next | coming next | — |
 
 ## Structural findings
 
-**LATAM (outside Brazil) apex-court consolidation against PA recognition 2017-2025:**
-- MX SCJN AI 11/2016 + AI 74/2024; AR CSJN 2021 limits; CO Corte Constitucional T-526/23 proscribes SAP; CL 2023 SAP-as-violence bill rejected
-- Brazilian IBDFAM recognition camp is the regional outlier — contested at home
+**LATAM (outside Brazil) apex-court consolidation against PA recognition 2017-2025**
 
-**Asia recognition-camp dominance:** unlike EU/LATAM, Asian apex jurisprudence (India SC Vivek Singh 2017; Singapore HCFD TEN v TEO 2020; Hong Kong CA H v W 2021; Japan Civil Code 2024 joint-custody reform) skews toward PA recognition. Critique-adjacent voices are present but minority. Japan-specific note: 80% of surveyed Japanese bengoshi (Nichibenren survey) opposed the 2024 joint-custody outline.
+**Asia recognition-camp dominance** unlike EU/LATAM — Asian apex jurisprudence skews toward PA recognition (India SC 2017, Singapore HCFD 2020, Hong Kong CA 2021, Japan Civil Code 2024 joint-custody reform)
+
+**Africa anchored by South Africa** — only ZA has a verifiable PA case-study at apex level (T.L.D v B.G [2023] ZAGPJHC 801). Centre for Child Law (UP) under Skelton/Ozah provides the critical-academic counterweight. Other African jurisdictions surfaced only institutional/feminist legal collectives (FIDA Kenya, TAWLA Tanzania, WiLDAF Ghana) — no individual named PA counsel of record verified.
 
 ## Editorial standards
 
