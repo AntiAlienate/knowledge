@@ -1,0 +1,274 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-26",
+  "country": "UK",
+  "type": "therapists",
+  "license": "CC BY 4.0",
+  "intended_repo": "github.com/AntiAlienate/antialienate-knowledge",
+  "stance_taxonomy": {
+    "recognition": "treats parental alienation as a real and assessable phenomenon; operates or endorses PA-specific intervention / alienating-behaviour expert-witness work",
+    "critique": "argues the PA construct is misused in family court, especially against domestic-abuse survivors; advocates trauma-informed alternatives and tighter regulation of PA experts",
+    "middle": "engages both alienating-behaviour and family-violence frames; works within FJC / BPS / AFCC-aligned differential-diagnosis approach"
+  },
+  "regulatory_context": {
+    "leading_case": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38, Sir Andrew McFarlane P, 20 Feb 2026",
+    "ruling_summary": "Permission should not be given for the instruction of an expert 'psychologist' who is neither registered by a relevant statutory body, nor chartered by the BPS.",
+    "fjc_2024_guidance_url": "https://www.judiciary.uk/wp-content/uploads/2024/12/Family-Justice-Council-Guidance-on-responding-to-allegations-of-alienating-behaviour-2024-1-1.pdf",
+    "bps_fjc_expert_guidance_url": "https://www.bps.org.uk/guideline/psychologists-expert-witnesses-family-courts-england-wales",
+    "key_quote_fjc_2024_para_2": "'Parental alienation syndrome' has no evidential basis and is considered a harmful pseudo-science."
+  },
+  "practitioners": [
+    {
+      "name": "Karen Woodall",
+      "practice": "Co-founder and lead therapist, Family Separation Clinic (London); Karen Woodall Trainings",
+      "practice_url": "https://www.familyseparationclinic.com/",
+      "uk_registration": ["Psychotherapist", "Not HCPC-registered", "Not chartered by BPS", "BACP-sanctioned 2015 for professional malpractice; sanction lifted May 2016"],
+      "specialty": "Court-instructed assessment and therapeutic-parenting intervention in alienation cases; international PA practitioner training",
+      "stance": "recognition",
+      "stance_source": "https://www.familyseparationclinic.com/ — clinic framing of PA as discrete assessable treatable phenomenon; https://transparencyproject.org.uk/parental-alienation-experts/",
+      "programs_or_publications": [
+        "Family Separation Clinic intensive intervention",
+        "International PA practitioner training programme",
+        "Co-author Understanding Parental Alienation (Charles C. Thomas, 2017, with Nick Woodall)"
+      ],
+      "primary_contact": "https://www.familyseparationclinic.com/contact/",
+      "tier": 1,
+      "hook": "Single most-named UK PA practitioner; unavoidable for any UK recognition-camp directory and equally unavoidable for the critique camp's regulatory case post-Re Y.",
+      "notes": "Unregulated practitioner; post-Re Y framework means she should not be instructed as psychologist expert in future cases. 2015 BACP sanction (lacked Sincerity, Integrity, Competence and Wisdom) disclosed at http://thecustodyminefield.com/karen-woodall-bacp-sanction-compliance/."
+    },
+    {
+      "name": "Nick Woodall",
+      "practice": "Co-founder and partner, Family Separation Clinic LLP; independent psychotherapist",
+      "practice_url": "https://www.nickwoodall.net/",
+      "uk_registration": ["MA psychodynamic/psychoanalytic counselling (University of London)", "Therapeutic-mediator accreditation (School of Psychotherapy & Counselling Psychology, Regents University London)", "HCPC / BPS chartered status not publicly confirmed"],
+      "specialty": "Direct therapeutic work with separated families; co-trainer FSC PA practitioner training",
+      "stance": "recognition",
+      "stance_source": "https://www.familyseparationclinic.com/ — co-author of clinic's PA model; co-author Understanding Parental Alienation (2017)",
+      "programs_or_publications": [
+        "Family Separation Clinic LLP partner",
+        "Co-author Understanding Parental Alienation (Charles C. Thomas, 2017)",
+        "Co-trainer on FSC's international PA practitioner training"
+      ],
+      "primary_contact": "https://www.nickwoodall.net/contact",
+      "tier": 2,
+      "hook": "Co-architect of the dominant UK PA-recognition clinical model; useful as the 'other Woodall' for press symmetry.",
+      "notes": "Same Re Y regulatory exposure as Karen Woodall."
+    },
+    {
+      "name": "Dr Sue Whitcombe, DCounsPsy, CPsychol, AFBPsS",
+      "practice": "Principal Psychologist and founder, Family Psychology Solutions CIC (Teesside University-supported)",
+      "practice_url": "https://fpscic.org/",
+      "uk_registration": ["HCPC-registered Counselling Psychologist (PYL protected title)", "BPS Chartered Member and Associate Fellow (CPsychol, AFBPsS)", "Deputy Chair BPS Training Committee for Counselling Psychology", "BPS Expert Witness Advisory Group", "Registered expert witness with BPS"],
+      "specialty": "Court-instructed assessment in alienation / implacable hostility cases; targeted evidence-informed intervention; training for legal, mental-health and social-work professions on PA",
+      "stance": "recognition",
+      "stance_source": "https://www.bps.org.uk/psychologist/new-voices-parental-alienation-time-notice-time-intervene ; https://www.bps.org.uk/psychologist/parental-alienation-time-make-difference ; PhD thesis Cardiff Metropolitan 'Powerlessness, betrayal, abuse: The trauma of parental alienation'",
+      "programs_or_publications": [
+        "Family Psychology Solutions CIC clinical service",
+        "PhD on PA-as-trauma (Cardiff Metropolitan)",
+        "BPS The Psychologist PA series",
+        "BPS Expert Witness Advisory Group member"
+      ],
+      "primary_contact": "https://fpscic.org/ contact form",
+      "tier": 1,
+      "hook": "The only UK CPsychol + HCPC-registered counselling psychologist with sustained PA-specific publication record; survives Re Y regulatory test on the recognition side.",
+      "notes": "Distinguished from the Woodalls precisely because she meets McFarlane P's regulatory bar."
+    },
+    {
+      "name": "Dr Adrienne Barnett",
+      "practice": "Reader in Law, Brunel Law School, Brunel University London; former family-law barrister",
+      "practice_url": "https://www.brunel.ac.uk/people/adrienne-barnett",
+      "uk_registration": ["Academic/research role", "Cross-references the UK lawyers entry"],
+      "specialty": "Empirical/doctrinal critique of PA as courtroom rhetorical device weaponised against DV survivors",
+      "stance": "critique",
+      "stance_source": "https://www.tandfonline.com/doi/full/10.1080/09649069.2020.1701950 — Barnett (2020) A genealogy of hostility, JSWFL 42(1):18-29",
+      "programs_or_publications": [
+        "Barnett (2020) JSWFL genealogy paper",
+        "BA/Leverhulme-funded action research 'Domestic Abuse, Parental Alienation and the Family Courts' (2022-2025)",
+        "Co-editor JSWFL Festschrift for Felicity Kaganas (2024)",
+        "Advisory roles: Rights of Women; Cafcass Research Advisory Committee; SHERA co-founder; Hague Mothers UK lead"
+      ],
+      "primary_contact": "adrienne.barnett@brunel.ac.uk ; +44 (0)1895 265198",
+      "tier": 1,
+      "hook": "Single most-cited UK academic critique of PA-as-rhetoric; her 2020 paper is the entry point to the entire UK critique-camp literature.",
+      "notes": "Already in /practitioners/lawyers/uk; this entry focuses on research-practice rather than bar credentials."
+    },
+    {
+      "name": "Professor Felicity Kaganas",
+      "practice": "Professor, Brunel Law School, Brunel University London",
+      "practice_url": "https://www.brunel.ac.uk/people/felicity-kaganas",
+      "uk_registration": ["Academic"],
+      "specialty": "Feminist socio-legal scholarship; critique of presumption of parental involvement and PA deployment against DV-survivor mothers",
+      "stance": "critique",
+      "stance_source": "https://www.tandfonline.com/doi/full/10.1080/09649069.2018.1519155 — Kaganas (2018) Introduction: contact and domestic abuse, JSWFL ; https://www.tandfonline.com/doi/full/10.1080/09649069.2024.2414627 — 2024 JSWFL Festschrift",
+      "programs_or_publications": [
+        "Co-editor Family Law and Society (Pearson)",
+        "2024 JSWFL Festschrift in her honour",
+        "Long-running PA/DV collaboration with Barnett"
+      ],
+      "primary_contact": "felicity.kaganas@brunel.ac.uk",
+      "tier": 2,
+      "hook": "Doyenne of UK feminist family-law scholarship; citing her unlocks the wider Brunel/UCL DV-academic network.",
+      "notes": "Cross-referenced in /practitioners/lawyers/uk; included here because she is regularly cited by therapists/psychologists in the critique camp."
+    },
+    {
+      "name": "Dr Sonja Ayeb-Karlsson",
+      "practice": "Senior Lecturer / Researcher, UCL Risk & Disaster Reduction; UCL Everyday Disasters and Violences Research Group",
+      "practice_url": "https://www.ucl.ac.uk/risk-disaster-reduction/people",
+      "uk_registration": ["Academic"],
+      "specialty": "Lead author 2024 UCL three-case-study analysis of UK family-court cases where unregulated experts advised removal of children from DV-survivor mothers on basis of alienation",
+      "stance": "critique",
+      "stance_source": "https://www.ucl.ac.uk/news/2024/nov/unregulated-experts-can-cause-harm-children-family-courts — 2024 JSWFL three-case-study",
+      "programs_or_publications": [
+        "Ayeb-Karlsson (2024) JSWFL three-case-study of unregulated PA experts",
+        "UCL Everyday Disasters and Violences Research Group"
+      ],
+      "primary_contact": "s.ayeb-karlsson@ucl.ac.uk",
+      "tier": 1,
+      "hook": "Her three-case-study paper is the single best UK empirical artefact of harms caused by unregulated PA experts; directly cited in post-Re Y discourse.",
+      "notes": "Research-practitioner; entry included because the research she produced is the empirical underpinning of post-Re Y regulatory tightening."
+    },
+    {
+      "name": "Dr Claire Sturge",
+      "practice": "Consultant Child & Adolescent Psychiatrist (retired NHS; long-standing Family Court expert witness)",
+      "practice_url": null,
+      "uk_registration": ["Historically GMC-registered", "Current registration status post-retirement not publicly confirmed"],
+      "specialty": "Child psychiatric assessment in contact/residence disputes; co-author foundational UK court report on contact and DV",
+      "stance": "critique",
+      "stance_source": "Sturge & Glaser (2000) 'Contact and Domestic Violence: The Experts' Court Report', Family Law (September) 615 — cited at footnote 2 of FJC 2024 Guidance as authority that PAS 'has no evidential basis'",
+      "programs_or_publications": [
+        "Sturge & Glaser (2000) UK court canonical text",
+        "Repeated court-appointed expert in private-law children's cases"
+      ],
+      "primary_contact": "Not publicly confirmed; route via Royal College of Psychiatrists CAP faculty",
+      "tier": 2,
+      "hook": "Sturge & Glaser 2000 is THE UK authority cited by FJC for rejection of PAS; naming her places directory on same evidence base courts now use.",
+      "notes": "Primarily historical/referent; contact gap noted honestly."
+    },
+    {
+      "name": "Professor Danya Glaser",
+      "practice": "Visiting Professor, UCL Psychoanalysis Unit; Honorary Consultant Child & Adolescent Psychiatrist, Great Ormond Street Hospital",
+      "practice_url": "https://www.ucl.ac.uk/psychoanalysis/people/danya-glaser",
+      "uk_registration": ["GMC-registered psychiatrist (historic; current status post-honorary not publicly confirmed)", "RCPsych Fellow", "Former 6-year member Family Justice Council"],
+      "specialty": "Child maltreatment, emotional abuse, fabricated/induced illness; child-protection expert witness; co-author Sturge & Glaser court report",
+      "stance": "critique",
+      "stance_source": "Sturge & Glaser (2000); chair of NICE Development Group 'When to Suspect Child Maltreatment' (2009); former FJC member per UCL profile",
+      "programs_or_publications": [
+        "Sturge & Glaser (2000) court report",
+        "NICE Guideline development chair (2009)",
+        "Former FJC member",
+        "Routledge/Guilford monographs on child maltreatment"
+      ],
+      "primary_contact": "via https://www.ucl.ac.uk/psychoanalysis/contact-us",
+      "tier": 1,
+      "hook": "UK's most-senior child-psychiatric voice rejecting PAS as diagnosable construct; bridges medical-establishment side of critique camp.",
+      "notes": "Retains honorary appointments; contact route is institutional."
+    },
+    {
+      "name": "Dr Hannah Jones, ForenPsyD, CPsychol, AFBPsS",
+      "practice": "Senior Lecturer, Centre for Psychiatry & Mental Health, Queen Mary University of London; Programme Director MSc Forensic Psychology & Mental Health (BPS-accredited); independent forensic-psychology expert-witness practice",
+      "practice_url": "https://www.qmul.ac.uk/wiph/people/profiles/jones-hannah.html",
+      "uk_registration": ["Chartered Forensic Psychologist (CPsychol)", "Associate Fellow BPS (AFBPsS)", "HCPC-registered Forensic Psychologist (PYL protected title; specific HCPC number not publicly confirmed)", "Stage 2 Assessor for BPS Qualification in Forensic Psychology"],
+      "specialty": "Trauma-informed and domestic-abuse-informed forensic assessment of parents in Family Court; alternative to PA-diagnosis expert pipeline",
+      "stance": "critique",
+      "stance_source": "https://transparencyproject.org.uk/parental-alienation-experts/ — quoted: 'true alienation ... is rare enough that it does not need its own concept'",
+      "programs_or_publications": [
+        "QMUL MSc Forensic Psychology & Mental Health (Programme Director)",
+        "Expert-witness reports in UK family proceedings (trauma-informed framework)",
+        "SHERA Research Network member"
+      ],
+      "primary_contact": "h.jones@qmul.ac.uk ; +44 (0)20 7882 2043",
+      "tier": 1,
+      "hook": "A regulated UK CPsychol who explicitly rejects standalone PA diagnosis; the critique-camp answer to 'who *should* the court be instructing?' post-Re Y.",
+      "notes": "Survives Re Y regulatory bar squarely and is publicly quoted opposing standalone-PA framing."
+    },
+    {
+      "name": "Dr Jaime Craig, Consultant Clinical & Forensic Psychologist",
+      "practice": "Chair, Association of Clinical Psychologists UK (ACP-UK); member Family Justice Council; lead author 2022 BPS/FJC Guidance on Psychologists as Expert Witnesses",
+      "practice_url": "https://acpuk.org.uk/",
+      "uk_registration": ["HCPC-registered Clinical & Forensic Psychologist", "Chartered Psychologist (CPsychol)"],
+      "specialty": "Family-court expert-witness practice; regulation of psychologist experts; lead author of tightened framework now enforced by Re Y",
+      "stance": "critique",
+      "stance_source": "https://www.bps.org.uk/guideline/psychologists-expert-witnesses-family-courts-england-wales — Craig lead author ; https://www.bondsolon.com/news-and-insights/new-guidance-tightens-framework-for-instructing-psychologist-experts-in-family-proceedings/ ; https://transparencyproject.org.uk/parental-alienation-experts/",
+      "programs_or_publications": [
+        "2022 BPS/FJC Guidance lead author",
+        "Chair ACP-UK",
+        "Member Family Justice Council"
+      ],
+      "primary_contact": "via https://acpuk.org.uk/contact/",
+      "tier": 1,
+      "hook": "Craig literally wrote the rules McFarlane P enforced in Re Y; cleanest UK source for 'what regulated practice looks like' in PA-allegation cases.",
+      "notes": "Sits at intersection of clinical leadership and FJC policymaking; uniquely placed for policy-press interviews."
+    },
+    {
+      "name": "Dr Julie Doughty",
+      "practice": "Reader in Law, Cardiff University School of Law and Politics; lead author Cafcass Cymru-commissioned PA evidence review",
+      "practice_url": "https://www.cardiff.ac.uk/people/view/38440-doughty-julie",
+      "uk_registration": ["Academic / former family-court social worker"],
+      "specialty": "Evidence-base review of PA research and case law for Welsh Government / Cafcass Cymru; peer-reviewed work on professional responses to PA",
+      "stance": "middle",
+      "stance_source": "https://www.gov.wales/sites/default/files/publications/2018-05/review-of-research-and-case-law-on-parental-alienation.pdf — Doughty, Maxwell & Slater (2018) ; https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701938 — Doughty et al. (2020) JSWFL",
+      "programs_or_publications": [
+        "2018 Cafcass Cymru evidence review",
+        "2020 JSWFL paper on professional responses",
+        "Cited at footnote 2 of FJC 2024 Guidance"
+      ],
+      "primary_contact": "DoughtyJ@cardiff.ac.uk",
+      "tier": 1,
+      "hook": "Her 2018 government-commissioned review is the canonical UK 'middle-ground' evidence document; cited by both camps and embedded in FJC 2024 Guidance.",
+      "notes": "Genuinely centrist; neither dismisses nor endorses PA as discrete phenomenon; valuable non-aligned interview source."
+    },
+    {
+      "name": "Professor Marianne Hester, OBE PhD",
+      "practice": "Professor and Head, Centre for Gender and Violence Research, School for Policy Studies, University of Bristol",
+      "practice_url": "http://www.bristol.ac.uk/sps/people/marianne-hester/research.html",
+      "uk_registration": ["Academic"],
+      "specialty": "DV research; Three-Planet Model (DV / private family law / child protection); co-author seminal post-separation contact / DV studies",
+      "stance": "middle",
+      "stance_source": "Hester (2011) 'Three Planet Model', BJSW 41(5):837-853 ; Hester & Radford (1996) Mothering Through Domestic Violence",
+      "programs_or_publications": [
+        "Centre for Gender and Violence Research (Bristol)",
+        "Mothering Through Domestic Violence (Jessica Kingsley, 1996)",
+        "Three-Planet Model paper (BJSW, 2011)"
+      ],
+      "primary_contact": "marianne.hester@bristol.ac.uk",
+      "tier": 2,
+      "hook": "Hester's Three-Planet Model is the single most-cited UK framework for explaining family-court mishandling of DV/PA/safeguarding crossover; useful for press placement on structural problem.",
+      "notes": "Classified middle because primary frame is DV-safeguarding, not standalone-PA rejection; foundational to critique camp's case but not a PA practitioner per se."
+    }
+  ],
+  "excluded_practitioners": [
+    {
+      "name": "Melanie Gill",
+      "reason": "Unregulated; not HCPC-registered; not chartered by BPS; no clinical or therapeutic practice. McFarlane P in Re Y [2026] EWFC 38 (20 Feb 2026) set aside findings made on basis of her assessment and held going forward that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the BPS.'",
+      "primary_sources": [
+        "https://www.thebureauinvestigates.com/stories/2026-02-27/dont-use-unregulated-psychologists-top-judge-rules",
+        "https://www.parklaneplowden.co.uk/setting-aside-findings-of-alienating-behaviour-and-the-role-of-unregistered-experts-following-re-y-experts-and-alienating-behaviour-the-modern-approach-2026-ewfc-38/",
+        "https://www.thebureauinvestigates.com/stories/2025-10-26/family-courts-victims-commissioner-demands-urgent-review-of-all-cases-involving-melanie-gill"
+      ],
+      "parallel_treatment": "Direct UK parallel to US directory's exclusion of Randy Rand"
+    }
+  ],
+  "borderline_or_not_verified": [
+    {"name": "Dr Emma Katz", "actual_affiliation": "Edge Hill University (NOT Birmingham City University as in source brief)", "reason": "Pure academic researcher; no clinical/therapeutic practice; consider for /influencers/ instead", "stance_if_added": "critique"},
+    {"name": "Dr Karen Treisman MBE", "reason": "HCPC-registered Clinical Psychologist (Safe Hands Thinking Minds) but no public PA-specific position or PA-case practice verifiable", "stance_if_added": "unknown"},
+    {"name": "Dr Anne Lazenbatt", "reason": "Strong DV/child-maltreatment record at QUB but no PA-specific publication or court testimony verifiable", "stance_if_added": "critique-leaning"},
+    {"name": "Professor Jane L. Ireland", "reason": "HCPC-registered forensic psychologist with substantial Family-Court expert work; PA-specific stance not publicly confirmed; 2012 FJC-commissioned report is methodological not PA-specific", "stance_if_added": "unknown"},
+    {"name": "Sue Atkins", "reason": "UK parenting coach; not regulated clinician; no PA-specific public position verifiable", "stance_if_added": "unknown"},
+    {"name": "Kayla Smith / Reignite Family Connections", "reason": "Could not verify; no UK BACP-registered Kayla Smith / Reignite Family Connections in public records; the only verifiable Kayla Smith in PA-adjacent practice is US (Nashville MFT)", "stance_if_added": "n/a"},
+    {"name": "Brian O'Sullivan", "reason": "Ireland-based (Changes.ie, Cork); out of UK scope", "stance_if_added": "recognition"}
+  ],
+  "stance_distribution": {
+    "recognition": 3,
+    "critique": 7,
+    "middle": 2,
+    "total_verified": 12,
+    "excluded_disclosure": 1
+  },
+  "honest_gaps": [
+    "Recognition camp thin (3 entries) and dominated by FSC — reflects regulatory reality post-Re Y where most named UK PA experts are unregulated and now formally excluded from future Family Court instruction.",
+    "Middle camp thin (2 entries) — UK PA discourse is more polarised than US; no UK equivalent of AFCC OBFC/Drozd/Sullivan triangulation network.",
+    "Critique camp drew heavily on academic researchers (Barnett, Kaganas, Ayeb-Karlsson, Hester) plus medical-establishment psychiatrists (Sturge, Glaser) plus regulated psychologists (Hannah Jones, Jaime Craig) — reflecting post-Re Y institutional alignment with HCPC/BPS/FJC.",
+    "FJC December 2024 Guidance does not name individual working-group members beyond Sir Andrew McFarlane (Chair); group described only as multidisciplinary.",
+    "Northern Ireland / Scotland coverage essentially zero — all verified entries are England/Wales-based. Cafcass Cymru cited via Doughty's review; Scottish practitioners not surfaced."
+  ]
+}
