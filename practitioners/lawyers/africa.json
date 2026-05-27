@@ -1,0 +1,368 @@
+{
+  "schema_version": "1.0",
+  "last_updated": "2026-05-27",
+  "region": "Africa",
+  "type": "lawyers",
+  "license": "CC BY 4.0",
+  "intended_repo": "github.com/AntiAlienate/antialienate-knowledge",
+  "anchor_cases": [
+    {
+      "citation": "T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801",
+      "court": "Gauteng Local Division Johannesburg",
+      "date": "2023-07-13",
+      "judge": "Adams J",
+      "url": "https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html",
+      "alt_citation": "D, TE v G, B (015642/2022) [2023] ZAGPJHC 821",
+      "reasons_judgment": "T.L.D v B.G (015642/2022) [2023] ZAGPJHC 872 (4 August 2023)",
+      "named_persons": {
+        "curator_ad_litem": "Adv Mark Leonard Haskins SC",
+        "clinical_psychologist_primary": "Leonard Carr",
+        "clinical_psychologist_expert_review": "Dr De Wit",
+        "clinical_psychologist_parenting_coordinator": "Dr Lynette Roux",
+        "parenting_coordinator_advocate": "Adv Vicky Olivier",
+        "clinical_psychologist_fathers_expert": "Ms Christie Els"
+      }
+    },
+    {
+      "citation": "ZDE v CE (1011/2022) [2024] ZASCA 159",
+      "court": "Supreme Court of Appeal",
+      "date": "2024-11-18",
+      "url": "https://familylaws.co.za/sca-custody-battle-zde-v-ce/"
+    },
+    {
+      "citation": "M.D v L.N and Another (3051/2020) [2025] ZAECQBHC 4",
+      "court": "Eastern Cape Division Bhisho",
+      "date": "2025-02-03",
+      "url": "https://www.saflii.org/za/cases/ZAECQBHC/2025/4.html"
+    },
+    {
+      "citation": "DM v CHP (B6773/23) [2024] ZAGPPHC 76",
+      "court": "Gauteng Division Pretoria",
+      "date": "2024-01-04",
+      "url": "https://www.saflii.org/za/cases/ZAGPPHC/2024/76.html"
+    },
+    {
+      "citation": "B.P.M v J.L.M (1909/2024) [2025] ZALMPPHC 96",
+      "court": "Limpopo Division Polokwane",
+      "date": "2025-05-13",
+      "url": "https://familylaws.co.za/rule-43-parental-alienation-divorce-limpopo-2025/"
+    },
+    {
+      "citation": "S.P v S.H (2021/017378; 2023/129706) [2025] ZAGPJHC 259",
+      "court": "Gauteng Local Division Johannesburg",
+      "date": "2025-03-13",
+      "url": "https://www.saflii.org/za/cases/ZAGPJHC/2025/259.html"
+    },
+    {
+      "citation": "Sadiqi v Muteswa [2020] ZWHHC 249",
+      "court": "Zimbabwe High Court (Harare)",
+      "url": "https://noyam.org/ehass202561226/"
+    }
+  ],
+  "stance_taxonomy": ["recognition", "critique", "middle", "not_publicly_confirmed"],
+  "practitioners": [
+    {
+      "country_code": "ZA",
+      "name": "Mark Leonard Haskins SC",
+      "credentials": "Senior Counsel (Silk), Advocate",
+      "bar": "General Council of the Bar of South Africa via Pretoria Society of Advocates",
+      "firm": "Pretoria Bar (Pretoria Society of Advocates)",
+      "firm_url": "https://www.pretoriabar.co.za/",
+      "other_urls": ["https://www.linkedin.com/in/marc-haskins-47873a125/"],
+      "stance": "recognition",
+      "stance_source": "Curator ad litem of record, T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801, endorsing clinical-psychology PA findings of Leonard Carr; https://bregmans.co.za/2023/07/25/court-awards-full-parental-responsibilities-to-mother-in-parental-alienation-syndrome-case/ ; https://familylaws.co.za/parental-alienation-syndrome-landmark-case-south-africa/",
+      "named_cases_publications": [
+        "Curator ad litem, T.L.D v B.G [2023] ZAGPJHC 801 (Adams J presiding)",
+        "Pretoria Bar SC family-law and matrimonial practice"
+      ],
+      "primary_contact": "Via Pretoria Bar https://www.pretoriabar.co.za/ ; LinkedIn https://www.linkedin.com/in/marc-haskins-47873a125/ ; firm email not publicly confirmed on bar register",
+      "tier": 1,
+      "hook": "The Senior Counsel actually appointed curator ad litem in South Africa's leading 2023 PA judgment — single highest-leverage SA interlocutor on PA recognition at the apex-of-record level."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Bertus Preller",
+      "credentials": "Attorney of the High Court of South Africa; FAMAC-accredited mediator",
+      "bar": "Law Society of South Africa; admitted 1989",
+      "firm": "Maurice Phillips Wisenberg (MPW), Cape Town",
+      "firm_url": "https://www.mpw.co.za/Our-Team/BertusPreller",
+      "other_urls": [
+        "https://familylaws.co.za/bertus-preller/",
+        "https://www.divorcelaws.co.za/about-the-author.html",
+        "https://za.linkedin.com/in/bertuspreller"
+      ],
+      "stance": "recognition",
+      "stance_source": "https://familylaws.co.za/parental-alienation-syndrome-landmark-case-south-africa/ ; https://familylaws.co.za/parental-alienation-south-africa-family-law/ ; book Everyone's Guide to Divorce and Separation (Random House 2013); The Unexpected Counsellor (2023)",
+      "named_cases_publications": [
+        "Attorney of record in PA / frustration-of-contact contempt matter (MPW profile)",
+        "Author Everyone's Guide to Divorce and Separation (Random House, 2013)",
+        "Author The Unexpected Counsellor (2023)",
+        "Founder Divorcelaws.co.za and FamilyLaws.co.za",
+        "2015 ACQ5 Family Law Attorney of the Year (SA)",
+        "IBA Family Law Committee; Reunite International; IACP"
+      ],
+      "primary_contact": "bertus@mpw.co.za ; +27 21 419 7115 ; +27 83 443 9838 ; MPW 20th Floor, 2 Long Street, Cape Town",
+      "tier": 1,
+      "hook": "The Cape Town family-law attorney who wrote the practitioner-canon summary of T.L.D v B.G — most search-visible SA PA voice with 35-year High Court attorney record and Hague-abduction / collaborative-law standing."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Zenobia Elizabeth du Toit",
+      "credentials": "Attorney of the High Court of South Africa; FAMAC family-law mediator and arbitrator; IAFL Fellow",
+      "bar": "Law Society of South Africa; admitted April 1982",
+      "firm": "Miller du Toit Cloete Inc (MDT), Cape Town",
+      "firm_url": "https://www.mdtcinc.co.za/zenobia-du-toit/",
+      "other_urls": [
+        "https://www.iafl.com/find-a-lawyer/search-details/?id=20342",
+        "https://www.southafricanlawyer.co.za/lawyer/zenobia-elizabeth-du-toit/1556434230/",
+        "https://www.martindale.com/attorney/zenobia-du-toit-1266639/",
+        "https://www.globallegalpost.com/authors/zenobia-du-toit"
+      ],
+      "stance": "recognition",
+      "stance_source": "MDT firm bio https://www.mdtcinc.co.za/zenobia-du-toit/ — practice areas include child custody law, relocation, representation of children, Hague Convention issues; appointed Hague Conference International Working Group on the 1980 Child Abduction Convention 2013; IBA Family Law Committee Co-chair 2016-2018",
+      "named_cases_publications": [
+        "Hague Conference International Working Group on 1980 Child Abduction Convention (appointed 2013)",
+        "IBA Family Law Committee member 2007-2018; Co-chair 2016-2018",
+        "Global Legal Post recurring author on SA family law"
+      ],
+      "primary_contact": "Via MDT https://www.mdtcinc.co.za/contact/ ; firm direct email not publicly confirmed on bio page",
+      "tier": 1,
+      "hook": "IAFL-Fellow, IBA Family Law Committee Co-chair (2016-18) attorney with 43-year SA family-law record and Hague experts-group seat — natural cross-jurisdictional MDT interlocutor on PA/abduction overlap."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Roy Bregman",
+      "credentials": "Attorney of the High Court of South Africa; Director",
+      "bar": "Law Society of South Africa; admitted 1974",
+      "firm": "Bregman Moodley Attorneys (BMA), Killarney, Johannesburg",
+      "firm_url": "https://bregmans.co.za/about-us/our-law-firm/",
+      "other_urls": [
+        "https://www.golegal.co.za/author/roy-bregman/",
+        "https://www.attorneys.co.za/AttorneyHomePage.asp?AttorneyID=5693&CompanyID=1396"
+      ],
+      "stance": "recognition",
+      "stance_source": "https://bregmans.co.za/2025/02/19/parental-alienation-in-south-african-family-law-legal-principles-case-law-and-implications/ ; https://bregmans.co.za/2023/07/25/court-awards-full-parental-responsibilities-to-mother-in-parental-alienation-syndrome-case/ ; https://www.bregmans.co.za/parental-alienation/",
+      "named_cases_publications": [
+        "Bregman Moodley PA publication corpus — T.L.D v B.G summary (2023), 2025 legal-principles long-form, Children Articles archive",
+        "50-year Johannesburg family-law practice"
+      ],
+      "primary_contact": "roy@bmalaw.co.za ; https://bregmans.co.za/ ; Suite 316, 3rd Floor, Office Towers, Killarney Mall, 60 Riviera Road, Killarney, Johannesburg",
+      "tier": 2,
+      "hook": "Johannesburg attorney with largest SA firm-blog PA publication footprint and 50-year High Court record — standing Killarney/Sandton-adjacent interlocutor for media commentary on PA jurisprudence."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Ann Marie Skelton",
+      "credentials": "Professor; Admitted Advocate of the High Court of South Africa; LLB Natal (1985); LLD Pretoria (2005); NRF B1",
+      "bar": "General Council of the Bar of South Africa — admitted advocate of the High Court of South Africa",
+      "firm": "University of Pretoria, Faculty of Law (UNESCO Chair in Education Law in Africa) / Leiden University (Chair in Children's Rights in a Sustainable World)",
+      "firm_url": "https://www.up.ac.za/private-law/article/2919182/professor-ann-skelton",
+      "other_urls": [
+        "https://en.wikipedia.org/wiki/Ann_Skelton",
+        "https://www.universiteitleiden.nl/en/staffmembers/ann-skelton",
+        "https://www.dejure.up.ac.za/skelton-a"
+      ],
+      "stance": "middle",
+      "stance_source": "UP bio https://www.up.ac.za/private-law/article/2919182/professor-ann-skelton ; founding Director Centre for Child Law UP (to end-2018); Chair UN Committee on the Rights of the Child 2023-2025; ≥12 Constitutional Court matters argued under CCL strategic litigation; PA-specific direct public stance not publicly confirmed — included for institutional weight",
+      "named_cases_publications": [
+        "S v M 2008 (3) SA 232 (CC)",
+        "Teddy Bear Clinic v Minister of Justice 2014 (2) SA 168 (CC)",
+        "Eastern Cape schools-infrastructure litigation (CCL + LRC)",
+        "Chair UN Committee on the Rights of the Child 2023-2025",
+        "De Jure author archive https://www.dejure.up.ac.za/skelton-a"
+      ],
+      "primary_contact": "UP Department of Private Law, Pretoria; CCL central email centreforchildlaw@up.ac.za ; +27 12 420 4502",
+      "tier": 2,
+      "hook": "South Africa's most internationally-cited children's-rights jurist and former UN CRC chair — institutional gravity-well any PA submission to a SA apex court must reckon with via the CCL jurisprudence she built."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Karabo Ozah",
+      "credentials": "Attorney; Senior Attorney + Lecturer; LLB + LLM Child Law (cum laude) + LLM Constitutional & Administrative Law (UP); Advanced Labour Law cert",
+      "bar": "Law Society of South Africa; admitted via UP Law Clinic (candidate 2005, CCL 2007)",
+      "firm": "Centre for Child Law (Director), University of Pretoria",
+      "firm_url": "https://centreforchildlaw.co.za/bios/karabo-ozah/",
+      "other_urls": [
+        "https://www.centreforchildlaw.co.za/karabo-ozah-2/",
+        "https://www.up.ac.za/news/post_2875933-up-centre-for-child-law-director-karabo-ozah-appointed-as-member-of-advisory-committee-of-sa-law-reform-commission-project"
+      ],
+      "stance": "middle",
+      "stance_source": "Member SALRC Advisory Committee Project 100D (care and contact matters) https://www.up.ac.za/faculty-of-law/news/post_2874740-centre-for-child-law-director-karabo-ozah-appointed-as-member-of-advisory-committee-of-project-100d ; Hague Expert Group on International Parentage and Surrogacy; PA-specific direct public stance not publicly confirmed",
+      "named_cases_publications": [
+        "CCL litigation victories in Constitutional Court / SCA / High Courts",
+        "Former National Chairperson Childline South Africa 2009-2016",
+        "Rules Board Children's Court Task Team",
+        "SALRC Project 100D Advisory Committee"
+      ],
+      "primary_contact": "centreforchildlaw@up.ac.za ; +27 12 420 4502 ; UP Centre for Child Law, Pretoria",
+      "tier": 2,
+      "hook": "Current CCL Director and SA Law Reform Commission Project-100D adviser — practitioner who sits on the committee that will actually re-write the SA care-and-contact procedural code within which PA is litigated."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Madelene (Leentjie) de Jong",
+      "credentials": "Emerita Professor; Attorney; SAAM-accredited divorce/family mediator and parenting coordinator; BLC + LLB (UP); LLD UNISA 2003",
+      "bar": "Law Society of South Africa",
+      "firm": "Independent mediator / parenting coordinator / divorce liquidator; Research Associate, School of Law, University of Limpopo (Emerita UNISA, retired end-2019)",
+      "firm_url": "https://za.linkedin.com/in/madelene-leentjie-de-jong-05829a62",
+      "other_urls": [
+        "https://perjournal.co.za/article/view/12776",
+        "https://scielo.org.za/pdf/pelj/v25n1/28.pdf"
+      ],
+      "stance": "middle",
+      "stance_source": "De Jong M, 'Towards a more uniform approach to parenting coordination in South Africa' PER/PELJ 2022 (25) https://perjournal.co.za/article/view/12776 ; De Rebus July 2013 column",
+      "named_cases_publications": [
+        "'Towards a more uniform approach to parenting coordination in South Africa' PER/PELJ 2022 (25)",
+        "LLD thesis 2003 'Divorce mediation in South Africa – a comparative study'",
+        "De Rebus and PER/PELJ author corpus"
+      ],
+      "primary_contact": "Via University of Limpopo Faculty of Law; LinkedIn https://za.linkedin.com/in/madelene-leentjie-de-jong-05829a62",
+      "tier": 2,
+      "hook": "Peer-reviewed scholar of SA parenting coordination — practitioner-academic whose PER/PELJ work is the standard citation for any SA submission on the para-judicial process inside which PA dynamics are managed post-decree."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Centre for Child Law, University of Pretoria",
+      "credentials": "Institutional — Faculty of Law strategic-litigation centre, est. 1998",
+      "bar": "Operates via admitted attorneys (Skelton, Ozah and others)",
+      "firm": "Centre for Child Law (CCL), Faculty of Law, University of Pretoria",
+      "firm_url": "https://centreforchildlaw.co.za/",
+      "other_urls": [
+        "https://www.centreforchildlaw.co.za/case-law-south-africa/"
+      ],
+      "stance": "middle",
+      "stance_source": "CCL case-law archive https://www.centreforchildlaw.co.za/case-law-south-africa/ ; amicus interventions in AD and Another v DW 2008 (3) SA 183 (CC); S v M 2008 (3) SA 232 (CC); De Gree v Webb 2007 (5) SA 184 (SCA)",
+      "named_cases_publications": [
+        "AD and Another v DW 2008 (3) SA 183 (CC) (CCL amicus)",
+        "S v M 2008 (3) SA 232 (CC) (CCL amicus)",
+        "Teddy Bear Clinic v Minister of Justice 2014 (2) SA 168 (CC)",
+        "De Gree v Webb 2007 (5) SA 184 (SCA) (CCL amicus)",
+        "Eastern Cape education-infrastructure litigation"
+      ],
+      "primary_contact": "centreforchildlaw@up.ac.za ; +27 12 420 4502 ; UP Centre for Child Law, Pretoria",
+      "tier": 2,
+      "hook": "Institutional amicus engine that wrote South Africa's child-best-interests Constitutional Court jurisprudence — the standing intervenor any apex-court PA matter must engage."
+    },
+    {
+      "country_code": "ZA",
+      "name": "Lawyers for Human Rights — Gender Equality Programme",
+      "credentials": "Institutional — public-interest NGO legal practice, founded 1979",
+      "bar": "Operates via admitted attorneys; six strategic programmes",
+      "firm": "Lawyers for Human Rights (LHR), Gender Equality Programme",
+      "firm_url": "https://www.lhr.org.za/lhr-programmes/gender-equality-programme/",
+      "other_urls": [
+        "https://www.lhr.org.za/about-us/",
+        "https://www.lhr.org.za/"
+      ],
+      "stance": "critique",
+      "stance_source": "Gender Equality Programme page https://www.lhr.org.za/lhr-programmes/gender-equality-programme/ — 'pursues systemic remedies for gender-based violence and discrimination in South Africa and the region'; would push DV-protection and child-voice safeguards against PA-as-defence misuse",
+      "named_cases_publications": [
+        "Gender Equality Programme: GBV / discrimination strategic litigation portfolio",
+        "Citizenship, refugee-rights and SOGIE-rights litigation"
+      ],
+      "primary_contact": "Johannesburg LHR office +27 11 339 1960 ; contact via https://www.lhr.org.za/",
+      "tier": 3,
+      "hook": "South Africa's leading rights-NGO Gender Equality Programme — standing critique-side institutional interlocutor when PA collides with DV / GBV protection-order practice."
+    },
+    {
+      "country_code": "KE",
+      "name": "FIDA Kenya (Federation of Women Lawyers — Kenya)",
+      "credentials": "Institutional — women-lawyer federation, 35-yr free legal-aid practice, 3M+ women served",
+      "bar": "Member chapter Federación Internacional de Abogadas; coordinates with Law Society of Kenya",
+      "firm": "FIDA Kenya — Federation of Women Lawyers (Kenya)",
+      "firm_url": "https://fidakenya.org/",
+      "other_urls": [
+        "https://fidakenya.org/how-we-work/",
+        "https://ealawsociety.org/fida/",
+        "https://www.voanews.com/a/6546428.html"
+      ],
+      "stance": "middle",
+      "stance_source": "FIDA Kenya programme page https://fidakenya.org/how-we-work/ ; cited in VOA News on Kenya custody jurisprudence — 'best interest of a child is key in custody matters, regardless of gender' https://www.voanews.com/a/6546428.html",
+      "named_cases_publications": [
+        "FIDA Kenya custody and maintenance litigation portfolio",
+        "SGBV advocacy materials and legislative-advocacy contribution to Children Act 2022 reform"
+      ],
+      "primary_contact": "info@fidakenya.org ; https://fidakenya.org/ ; Nairobi",
+      "tier": 2,
+      "hook": "Kenya's premier women-lawyer federation — standing public-voice on best-interests-of-the-child framing in Kenyan custody / alienation jurisprudence post Children Act 2022."
+    },
+    {
+      "country_code": "TZ",
+      "name": "TAWLA — Tanzania Women Lawyers Association",
+      "credentials": "Institutional — women-lawyer association, founded 1989 / registered 1990; Family Mediation Centre",
+      "bar": "Registered legal-aid NGO under Societies Act (Tanzania)",
+      "firm": "Tanzania Women Lawyers Association (TAWLA)",
+      "firm_url": "https://www.tawla.or.tz/",
+      "other_urls": [
+        "https://www.tawla.or.tz/about-tawla/",
+        "https://www.tawla.or.tz/portfolio/legal-aid-services/",
+        "https://www.girlsnotbrides.org/our-partnership/member-directory/tanzania-women-lawyers-association-tawla/"
+      ],
+      "stance": "middle",
+      "stance_source": "TAWLA Family Mediation Centre programme page https://www.tawla.or.tz/portfolio/legal-aid-services/ — child custody and maintenance via ADR framing; PA-specific stance not publicly confirmed",
+      "named_cases_publications": [
+        "TAWLA legal-aid and family-mediation publications",
+        "Juvenile-detainees and child-labour advocacy outputs"
+      ],
+      "primary_contact": "info@tawla.or.tz ; https://www.tawla.or.tz/ ; Dar es Salaam HQ (+ Dodoma, Mwanza, Tanga, Arusha)",
+      "tier": 3,
+      "hook": "Tanzania's largest women-and-children legal-aid organisation and Family Mediation Centre — natural institutional landing-place for any PA-adjacent custody / ADR collaboration in Tanzania."
+    },
+    {
+      "country_code": "GH",
+      "name": "WiLDAF Ghana — Women in Law and Development in Africa",
+      "credentials": "Institutional — Pan-African women's-rights legal network, est. 1993 (Ghana chapter)",
+      "bar": "Registered NGO; coordinates with Ghana Bar Association / Legal Aid",
+      "firm": "WiLDAF Ghana",
+      "firm_url": "https://wildaf-ghana.org/",
+      "other_urls": [
+        "https://site.wildaf-ghana.org/",
+        "https://site.wildaf-ghana.org/access-to-justice/",
+        "https://citinewsroom.com/2023/03/bp-associates-wildaf-intensify-education-on-domestic-violence-to-mark-iwd2023/"
+      ],
+      "stance": "middle",
+      "stance_source": "WiLDAF Ghana programmes page https://site.wildaf-ghana.org/access-to-justice/ — Family Law Education covers Marriage and Divorce, Child Protection, GBV legislation; PA-specific stance not publicly confirmed",
+      "named_cases_publications": [
+        "Family Law Education curriculum (GBV, marriage/divorce, child-protection, inheritance)",
+        "Legal-aid services in Volta, Western and Greater Accra regions"
+      ],
+      "primary_contact": "Via https://wildaf-ghana.org/ ; Accra HQ",
+      "tier": 3,
+      "hook": "Ghana's leading women's-rights legal-development network — institutional family-law-education interlocutor for PA-adjacent custody work in Ghana."
+    }
+  ],
+  "honest_gaps": {
+    "verified_but_excluded": [
+      {"name": "Carla Clamp", "reason": "No public primary-source attorney registration, firm page or PA publication located; identity unverifiable."},
+      {"name": "Beatrice Bray", "reason": "No public primary-source attorney registration, firm page or PA publication located; identity unverifiable."},
+      {"name": "Hayley Stein", "reason": "No public primary-source attorney registration, firm page or PA publication located; identity unverifiable."},
+      {"name": "Sonja Cremers-Bezuidenhout", "reason": "No public primary-source attorney registration or PA publication located under this name."},
+      {"name": "Lisa Vetten", "reason": "Verified as a WiSER / ISS Africa researcher on women's-rights / DV, not as a practising attorney / advocate; out of scope for a lawyer-only directory."},
+      {"name": "Sandra Liebenberg", "reason": "Verified as Stellenbosch H.F. Oppenheimer Chair in Human Rights Law and admitted Cape High Court attorney, but published portfolio is socio-economic-rights (not family law / PA)."},
+      {"name": "Children's Litigation Trust SA", "reason": "No verifiable institution found under this name; likely conflation with Centre for Child Law (UP), which is included separately."}
+    ],
+    "country_gaps": {
+      "NG": "FIDA Nigeria (https://fida.org.ng/) exists as the natural institutional counterpart but no PA-specific institutional publication or named-counsel-of-record verifiable within time budget; entry deferred.",
+      "EG": "National Council for Women (NCW) is the standing women's-rights body; publicly critiqued 2016 draft expanding non-custodial parent access on women-safety grounds; no PA-specialist named family-law advocate verifiable from public sources within time budget.",
+      "ZW": "Sadiqi v Muteswa [2020] ZWHHC 249 anchors jurisprudence (court notes PA / abuse-allegation debate) but no PA-specialist named-counsel-of-record verifiable within time budget.",
+      "UG": "Zero PA-relevant primary-source material located within time budget. Honest finding: zero verifiable entries.",
+      "BW": "Zero PA-relevant primary-source material located within time budget. Honest finding: zero verifiable entries."
+    },
+    "data_quality_notes": [
+      "Marc Haskins SC: Pretoria Bar member page returned 404 at verification; LinkedIn confirmed SC status; firm email haskins@lawcircle.co.za reported in a third-party search snippet but could not be confirmed against the bar's own register.",
+      "T.L.D v B.G case-name variants: SAFLII cites T.L.D v B.G [2023] ZAGPJHC 801 (13 July 2023); a parallel reasons judgment exists at [2023] ZAGPJHC 872 (4 August 2023); Law Library SA cites the same case as D, TE v G, B (015642/2022) [2023] ZAGPJHC 821 — all three refer to the same matter before Adams J.",
+      "Sandton-bar PA-specialist gap: T.L.D v B.G originated in Gauteng Local Division (Johannesburg) but named curator ad litem is Pretoria-Bar-based; verification of any Sandton-side counsel-of-record requires the unredacted court file beyond the public SAFLII headnote."
+    ]
+  },
+  "stance_distribution_by_country": {
+    "ZA": {"recognition": 4, "middle": 4, "critique": 1, "not_publicly_confirmed": 0, "total": 9},
+    "KE": {"middle": 1, "total": 1},
+    "TZ": {"middle": 1, "total": 1},
+    "GH": {"middle": 1, "total": 1},
+    "NG": {"total": 0},
+    "EG": {"total": 0},
+    "ZW": {"total": 0},
+    "UG": {"total": 0},
+    "BW": {"total": 0}
+  }
+}
