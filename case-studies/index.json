@@ -2,7 +2,7 @@
   "schema": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
   "type": "case-study",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T19:05:18Z",
+  "generated": "2026-05-31T19:10:55Z",
   "cases": [
     {
       "path": "case-studies/bverfg-1-bvr-1076-23-germany-2023.json",
@@ -69,6 +69,38 @@
       "sources_count": 10
     },
     {
+      "path": "case-studies/green-and-green-2024-fedcfamc1f-896.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/green-and-green-2024-fedcfamc1f-896.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/green-and-green-2024-fedcfamc1f-896.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/green-and-green-2024-fedcfamc1f-896.json",
+      "slug": "green-and-green-2024-fedcfamc1f-896",
+      "caption": "Green & Green [2024] FedCFamC1F 896",
+      "ecli": null,
+      "neutral_citation": "[2024] FedCFamC1F 896",
+      "jurisdiction_code": "AU",
+      "decision_date": "2024-10-31",
+      "court": "Federal Circuit and Family Court of Australia (Division 1)",
+      "schema_version": "1.0",
+      "references_count": 6,
+      "sources_count": 13
+    },
+    {
+      "path": "case-studies/h-v-w-2021-hkca-733-hong-kong.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/h-v-w-2021-hkca-733-hong-kong.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/h-v-w-2021-hkca-733-hong-kong.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/h-v-w-2021-hkca-733-hong-kong.json",
+      "slug": "h-v-w-2021-hkca-733-hong-kong",
+      "caption": "H v W [2021] HKCA 733",
+      "ecli": null,
+      "neutral_citation": "[2021] HKCA 733",
+      "jurisdiction_code": "HK",
+      "decision_date": "2021-05-24",
+      "court": "High Court of the Hong Kong Special Administrative Region — Court of Appeal",
+      "schema_version": "1.0",
+      "references_count": 7,
+      "sources_count": 11
+    },
+    {
       "path": "case-studies/index.json",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.json",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.md",
@@ -83,6 +115,22 @@
       "schema_version": null,
       "references_count": 0,
       "sources_count": 0
+    },
+    {
+      "path": "case-studies/lag-v-dkb-2009-ontario.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/lag-v-dkb-2009-ontario.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/lag-v-dkb-2009-ontario.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/lag-v-dkb-2009-ontario.json",
+      "slug": "lag-v-dkb-2009-ontario",
+      "caption": "L. (A.G.) v. D. (K.B.) (2009), 93 O.R. (3d) 409 (Ont. S.C.J.)",
+      "ecli": null,
+      "neutral_citation": "2009 CanLII 943 (ON SC)",
+      "jurisdiction_code": "CA",
+      "decision_date": "2009-01-16",
+      "court": "Ontario Superior Court of Justice",
+      "schema_version": "1.0",
+      "references_count": 8,
+      "sources_count": 9
     },
     {
       "path": "case-studies/nf-v-af-2025-csoh-13-scotland.json",
@@ -211,6 +259,22 @@
       "schema_version": "1.0",
       "references_count": 8,
       "sources_count": 9
+    },
+    {
+      "path": "case-studies/ten-v-teo-2020-sghcf-20-singapore.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/ten-v-teo-2020-sghcf-20-singapore.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/ten-v-teo-2020-sghcf-20-singapore.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/ten-v-teo-2020-sghcf-20-singapore.json",
+      "slug": "ten-v-teo-2020-sghcf-20-singapore",
+      "caption": "TEN v TEO and another appeal [2020] SGHCF 20",
+      "ecli": null,
+      "neutral_citation": "[2020] SGHCF 20",
+      "jurisdiction_code": "SG",
+      "decision_date": "2020-11-23",
+      "court": "Singapore High Court (Family Division)",
+      "schema_version": "1.0",
+      "references_count": 9,
+      "sources_count": 15
     },
     {
       "path": "case-studies/tld-v-bg-2023-zagpjhc-801-south-africa.json",

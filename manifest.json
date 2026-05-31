@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T19:05:18Z",
+  "generated": "2026-05-31T19:10:55Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json"
@@ -24,7 +24,7 @@
   "counts": {
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
-    "case_studies": 15,
+    "case_studies": 19,
     "jurisdictions": 0,
     "evidence_pages": 0
   },
