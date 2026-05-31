@@ -20,22 +20,36 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **Mexico** | [mexico.md](mexico.md) | [mexico.json](mexico.json) | v1.0 (legacy) | 15 verified + 9 excluded |
 | **Argentina** | [ar.md](ar.md) | [ar.json](ar.json) | **v2.0** | 14 verified + 9 excluded |
 | **Colombia** | [co.md](co.md) | [co.json](co.json) | **v2.0** | 13 verified + 6 excluded |
-| **LATAM (BR/MX/AR/CO/CL)** | [latam.md](latam.md) | [latam.json](latam.json) | v1.0 (legacy) | 18 verified across 5 countries |
+| **Chile** | [cl.md](cl.md) | [cl.json](cl.json) | **v2.0** | 16 verified + 7 excluded |
+| **LATAM (BR/MX/AR/CO/CL)** | [latam.md](latam.md) | [latam.json](latam.json) | v1.0 (legacy) | 18 verified across 5 countries (superseded by per-country v2 deepenings) |
 | **India** | [india.md](india.md) | [india.json](india.json) | v1.0 (legacy) | 12 verified |
 | **Asia (IN/SG/HK/JP)** | [asia.md](asia.md) | [asia.json](asia.json) | v1.0 (legacy) | 4 from backlog |
 | **Africa (ZA + KE/NG/EG)** | [africa.md](africa.md) | [africa.json](africa.json) | v1.0 (legacy) | from backlog |
 
 **v2.0** files are JSON-canonical (the `.md` is rendered from the JSON by `bin/aa-build render`). v1.0 (legacy) files are MD-and-JSON parallel — pending migration. See [/ARCHITECTURE.md](../../ARCHITECTURE.md) for the migration plan.
 
+**LATAM5 bloc fully deepened** (BR / MX / AR / CO / CL all standalone). The legacy `latam.md` aggregate is now superseded by the per-country files — kept for backwards-link continuity.
+
 ## Structural findings
 
-- **Colombia — widest institutional critique coalition in LATAM**: five converging state authorities — **COLPSIC** (professional regulator, *Posición Gremial sobre el llamado SAP*, 16.11.2023) + **ICBF** (child-welfare authority) + **MinSalud** (sanitary regulator) + **Procuraduría General** + **Corte Constitucional** — all cited as convergent técnico/jurisprudential concepts in **T-526/2023** (M.P. Diana Fajardo Rivera, Sala Tercera, 30.11.2023), preceded by T-181/2023 (Meneses Mosquera) and followed by T-226/2024. No other LATAM jurisdiction shows this density of converging executive-administrative + judicial + professional-college alignment in a single apex ruling. Important nuance: COLPSIC 2017 was recognition-leaning (Concepto Técnico Unidad PJF 17.9.2017); the 2023 posición is a **deliberate institutional pivot**, not a continuation. COLPSIC also distinguishes "SAP as diagnostic category" (rejected) from "alienación parental as relational description" (admissible with caveats) — finer than BR CFP or AR FePRA. Recognition pole thin at peer-reviewed level: Tapias (USTA 2013), Balaguera (UCC 2018). Institutional 6 / Critique 5 / Recognition 2.
-- **Italy — strongest EU statutory-and-caselaw stance against PAS-CTU**: Cassazione I Civile ordinanze **13217/2021 → 9691/2022 → 4595/2025** + **Riforma Cartabia (D.lgs. 149/2022)**. Italy is now the strictest EU jurisdiction by *statute + caselaw* against PAS-grounded CTU. See [Cassazione 9691/2022 case study](../../case-studies/cassazione-9691-2022-italy.md).
-- **Argentina — institutional inadmission without statutory inadmission (inverse of Spain)**: densest LATAM critique register routed through *colegios profesionales* rather than a single federal regulator. The 2024 Milei restructuring shifted the anchor from federal executive to universities + colegios + civil society.
+### LATAM5 institutional anti-SAP comparison
+
+| Country | Professional regulator | State authorities | Apex court | Statutory hook |
+|---|---|---|---|---|
+| **Brazil** | CFP NT 4/2022 + CFESS | — | — | Lei 12.318/2010 (codifies AP — recognition direction) |
+| **Mexico** | Soc. Mex. Psicología: **silent** | CNDH + INMUJERES | SCJN AI 11/2016 (Oaxaca) — invalidated only *automaticity* | CDMX 323 Septimus *derogated* 2017; state-level remains |
+| **Argentina** | FePRA Pronunciamiento 14.12.2019 + 7 provincial Colegios | ASAPMI + Defensoría del Pueblo CABA | CSJN: **no AP/SAP apex ruling** | CCyC art. 671 + Ley 24.270/1993 (indirect) |
+| **Colombia** | COLPSIC Posición Gremial 16.11.2023 (deliberate pivot from 2017 recognition-leaning) | ICBF + MinSalud + Procuraduría + Defensoría | Corte Constitucional **T-526/2023** | Ley 1098/2006 + Ley 21.430 (children's rights) |
+| **Chile** | CdPCh: **silent** | ANMM + SernamEG + Cámara de Diputadas (Boletín 10.516-18 rejected 58-45-26, abril 2024) | Corte Suprema: **no proscription** (then-vocera Vivanco publicly defended SAP, Jan 2023) | Ley 21.675/2024 substitutes *violencia vicaria* for SAP-as-VIF |
+
+- **Chile — inverted institutional pattern**: The CdPCh has issued NO PA-specific gremial position — silence of the professional regulator is itself the structural anomaly. Rejection runs through Executive (SernamEG / Min. Antonia Orellana) + ANMM (Verónica Vymazal) + Legislature (Cámara de Diputadas rejected Boletín 10.516-18 in April 2024) + Ley 21.675/2024 — NOT through the psychology college or constitutional court. **Two institutional silences converge: CdPCh + Defensoría de la Niñez**. The Corte Suprema is NOT a critique anchor — its then-vocera Ángela Vivanco publicly defended SAP in January 2023; CS Sala Cuarta has incorporated gender perspective + *violencia vicaria* (Ley 21.675/2024) but never proscribed SAP. Chile lacks a T-526/23 equivalent. Recognition camp is **geographically decentralized** (Concepción, Antofagasta, Arica), inverse to metropolitan critique camp. Nelson Zicavo (UBB Concepción) ZICAP scale is unusually strong recognition instrument development for LATAM. Institutional 7 / Critique 5 / Recognition 3 / Middle 1.
+- **Colombia — widest institutional critique coalition in LATAM**: five converging state authorities (COLPSIC + ICBF + MinSalud + Procuraduría General + Corte Constitucional) all cited as convergent técnico/jurisprudential concepts in **T-526/2023**. COLPSIC 2017 was recognition-leaning; the 2023 Posición is a deliberate institutional pivot.
+- **Italy — strongest EU statutory-and-caselaw stance against PAS-CTU**: Cassazione I Civile ordinanze **13217/2021 → 9691/2022 → 4595/2025** + **Riforma Cartabia (D.lgs. 149/2022)**. See [Cassazione 9691/2022 case study](../../case-studies/cassazione-9691-2022-italy.md).
+- **Argentina — institutional inadmission without statutory inadmission (inverse of Spain)**: densest LATAM critique routed through *colegios profesionales*. The 2024 Milei restructuring shifted the anchor from federal executive to universities + colegios + civil society.
 - **Brazil and Spain are the world's only two statutory PA jurisdictions — pointed in opposite directions**.
 - **France — institutionally asymmetric**: no French *autorité publique* has ever endorsed SAP.
 - **Germany — institutional inflection 2023-2026**: BVerfG 17.11.2023 – 1 BvR 1076/23 + DJI 2023 + OLG Frankfurt 7 UF 88/25. See [BVerfG case study](../../case-studies/bverfg-1-bvr-1076-23-germany-2023.md) + [OLG Frankfurt case study](../../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md).
-- **Mexico — uniquely fragmented**: Sociedad Mexicana de Psicología issued no public PA-specific position.
+- **Mexico — uniquely fragmented**: Soc. Mex. Psicología issued no public PA-specific position.
 - **Spain — terminological-arbitrage gap**: LOPIVI targets only the SAP label by name.
 - **Brazil**: only LATAM jurisdiction where institutional critique pole and clinical recognition pole are roughly equal in institutional weight.
 - **India**: ZERO individual critique-camp clinicians with peer-reviewed PA-critique publication.
