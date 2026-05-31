@@ -1,7 +1,10 @@
 #!/usr/bin/env python3
-"""Consolidated GitHub Contents-API push tool.
+"""Atomic GitHub push tool — Git Data API based.
 
-Replaces the ad-hoc push-X.py scripts. One commit per invocation; one tool to maintain.
+All files in a single invocation become ONE atomic commit. This prevents the
+race-condition where sequential single-file Contents-API commits trigger CI
+between landings (e.g. JSON commit lands → CI fires → MD not yet pushed → drift
+detection fails → email storm).
 
 Usage:
   aa-push <file> [<file> ...] --msg "commit message"
@@ -11,11 +14,12 @@ Usage:
   aa-push --token-file PATH               # default: /tmp/.aa-secrets/gh
   aa-push --repo OWNER/REPO               # default: AntiAlienate/antialienate-knowledge
 
-Notes:
+Behaviour:
   - Paths must be relative to the repo root, or absolute under --base.
-  - Each file pushed individually (Contents API is single-file).
-  - If --branch is set and the branch does not exist, it is created from main.
-  - SHAs from the response are printed (12-char prefix) for traceability.
+  - Files are committed atomically — either all land in one commit or none do.
+  - For binary files, set the BINARY extension list below or it'll be detected.
+  - If --branch is set and the branch does not exist, it is created from main HEAD.
+  - The commit message is what arrives in git log; commit author is the token's user.
 """
 from __future__ import annotations
 
@@ -25,10 +29,12 @@ import json
 import os
 import pathlib
 import sys
+import urllib.error
 import urllib.request
 
 DEFAULT_REPO = "AntiAlienate/antialienate-knowledge"
 DEFAULT_TOKEN = "/tmp/.aa-secrets/gh"
+BINARY_EXT = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".pdf", ".zip", ".woff", ".woff2", ".ttf", ".ico"}
 
 
 def gh(method: str, url: str, token: str, body: dict | None = None) -> dict:
@@ -42,43 +48,55 @@ def gh(method: str, url: str, token: str, body: dict | None = None) -> dict:
         headers["Content-Type"] = "application/json"
         data = json.dumps(body).encode()
     req = urllib.request.Request(url, data=data, method=method, headers=headers)
-    with urllib.request.urlopen(req, timeout=30) as r:
-        return json.loads(r.read())
-
-
-def get_sha(token: str, repo: str, path: str, branch: str) -> str | None:
-    url = f"https://api.github.com/repos/{repo}/contents/{path}?ref={branch}"
     try:
-        return gh("GET", url, token).get("sha")
-    except Exception:
-        return None
+        with urllib.request.urlopen(req, timeout=30) as r:
+            return json.loads(r.read())
+    except urllib.error.HTTPError as e:
+        raise RuntimeError(f"{method} {url} -> {e.code}: {e.read().decode('utf-8', 'replace')}") from None
 
 
-def ensure_branch(token: str, repo: str, branch: str) -> None:
-    if branch == "main":
-        return
+def ensure_branch(token: str, repo: str, branch: str) -> str:
+    """Return the sha of the branch tip, creating from main if needed."""
     try:
-        gh("GET", f"https://api.github.com/repos/{repo}/branches/{branch}", token)
-        return
-    except Exception:
-        pass
-    head = gh("GET", f"https://api.github.com/repos/{repo}/git/refs/heads/main", token)
-    gh("POST", f"https://api.github.com/repos/{repo}/git/refs", token,
-       {"ref": f"refs/heads/{branch}", "sha": head["object"]["sha"]})
+        ref = gh("GET", f"https://api.github.com/repos/{repo}/git/refs/heads/{branch}", token)
+        return ref["object"]["sha"]
+    except RuntimeError:
+        if branch == "main":
+            raise
+        head = gh("GET", f"https://api.github.com/repos/{repo}/git/refs/heads/main", token)
+        gh("POST", f"https://api.github.com/repos/{repo}/git/refs", token,
+           {"ref": f"refs/heads/{branch}", "sha": head["object"]["sha"]})
+        return head["object"]["sha"]
 
 
-def push_one(token: str, repo: str, repo_path: str, content: bytes, msg: str, branch: str) -> str:
-    url = f"https://api.github.com/repos/{repo}/contents/{repo_path}"
-    body = {
-        "message": msg,
-        "content": base64.b64encode(content).decode(),
-        "branch": branch,
-    }
-    sha = get_sha(token, repo, repo_path, branch)
-    if sha:
-        body["sha"] = sha
-    resp = gh("PUT", url, token, body)
-    return resp.get("content", {}).get("sha", "?")[:12]
+def create_blob(token: str, repo: str, content: bytes, is_binary: bool) -> str:
+    body = (
+        {"content": base64.b64encode(content).decode(), "encoding": "base64"}
+        if is_binary else
+        {"content": content.decode("utf-8"), "encoding": "utf-8"}
+    )
+    return gh("POST", f"https://api.github.com/repos/{repo}/git/blobs", token, body)["sha"]
+
+
+def push_atomic(token: str, repo: str, branch: str, files: list[tuple[str, bytes]], msg: str) -> str:
+    """Atomically commit N files. Returns the new commit sha (12-char prefix)."""
+    parent_sha = ensure_branch(token, repo, branch)
+    parent_commit = gh("GET", f"https://api.github.com/repos/{repo}/git/commits/{parent_sha}", token)
+    base_tree_sha = parent_commit["tree"]["sha"]
+
+    tree_entries = []
+    for repo_path, content in files:
+        is_binary = pathlib.Path(repo_path).suffix.lower() in BINARY_EXT
+        blob_sha = create_blob(token, repo, content, is_binary)
+        tree_entries.append({"path": repo_path, "mode": "100644", "type": "blob", "sha": blob_sha})
+
+    new_tree = gh("POST", f"https://api.github.com/repos/{repo}/git/trees", token,
+                  {"base_tree": base_tree_sha, "tree": tree_entries})
+    new_commit = gh("POST", f"https://api.github.com/repos/{repo}/git/commits", token,
+                    {"message": msg, "tree": new_tree["sha"], "parents": [parent_sha]})
+    gh("PATCH", f"https://api.github.com/repos/{repo}/git/refs/heads/{branch}", token,
+       {"sha": new_commit["sha"], "force": False})
+    return new_commit["sha"][:12]
 
 
 def main(argv: list[str] | None = None) -> int:
@@ -102,26 +120,26 @@ def main(argv: list[str] | None = None) -> int:
     token = pathlib.Path(args.token_file).read_text().strip()
     base = pathlib.Path(args.base).resolve()
 
-    ensure_branch(token, args.repo, args.branch)
-
-    fails = 0
+    files: list[tuple[str, bytes]] = []
     for p_ in paths:
         local = pathlib.Path(p_)
         if not local.is_absolute():
             local = base / local
         if not local.exists():
             print(f"FAIL missing: {local}", file=sys.stderr)
-            fails += 1
-            continue
+            return 1
         rel = local.resolve().relative_to(base)
-        repo_path = str(rel).replace(os.sep, "/")
-        try:
-            sha = push_one(token, args.repo, repo_path, local.read_bytes(), args.msg, args.branch)
-            print(f"OK  {repo_path}: {sha}")
-        except Exception as e:
-            print(f"FAIL {repo_path}: {e}", file=sys.stderr)
-            fails += 1
-    return 1 if fails else 0
+        files.append((str(rel).replace(os.sep, "/"), local.read_bytes()))
+
+    try:
+        sha = push_atomic(token, args.repo, args.branch, files, args.msg)
+    except RuntimeError as e:
+        print(f"FAIL {e}", file=sys.stderr)
+        return 1
+    for repo_path, _ in files:
+        print(f"OK  {repo_path}")
+    print(f"COMMIT {sha} on {args.branch}")
+    return 0
 
 
 if __name__ == "__main__":
