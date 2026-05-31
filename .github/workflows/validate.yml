@@ -1,16 +1,22 @@
 name: Validate knowledge base
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'practitioners/**'
-      - 'case-studies/**'
-      - 'schemas/**'
-      - 'bin/**'
-      - '.github/workflows/validate.yml'
+  # NOTE: push-trigger temporarily disabled to avoid email-storm from
+  # race-condition between sequential content-API single-file commits.
+  # Re-enable once aa-push uses atomic Git Data API multi-file commits.
+  # push:
+  #   branches: [main]
+  #   paths:
+  #     - 'practitioners/**'
+  #     - 'case-studies/**'
+  #     - 'schemas/**'
+  #     - 'bin/**'
+  #     - '.github/workflows/validate.yml'
   pull_request:
     branches: [main]
   workflow_dispatch:
+  # Weekly safety net so drift can't accumulate silently
+  schedule:
+    - cron: '0 6 * * 1'
 
 jobs:
   validate:
