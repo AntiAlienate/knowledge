@@ -137,7 +137,9 @@ python bin/aa-push \
 python bin/aa-push <files> --branch fix/germany-rn34 --msg "..."
 ```
 
-`aa-push` reads `GITHUB_TOKEN` from `/tmp/.aa-secrets/gh` by default (override with `--token-file`). It creates the branch from `main` if it doesn't exist. SHAs are printed for traceability.
+`aa-push` reads the GitHub token from `/tmp/.aa-secrets/gh` by default (override with `--token-file`). It creates the branch from `main` if it doesn't exist. The commit SHA is printed for traceability.
+
+**Atomic commits.** All files in a single `aa-push` invocation land as **one** Git commit. Internally the tool uses the Git Data API (blobs → tree → commit → ref update), not the per-file Contents API. This is the canonical fix for the email-storm we hit on 2026-05-31: serial single-file commits + per-commit CI = race conditions when JSON lands before its rendered MD. Use one `aa-push` per logical change-set; never split related files across invocations.
 
 ## Anonymisation rules
 
