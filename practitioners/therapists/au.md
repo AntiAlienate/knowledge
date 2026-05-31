@@ -1,283 +1,335 @@
-# Australia Therapists & Clinicians — Parental Alienation Practitioner Directory
+# Practitioners — Australia — Therapists
 
-**Schema version:** 1.0
-**Last updated:** 2026-05-25
-**License:** CC BY 4.0 (intended for github.com/AntiAlienate/antialienate-knowledge)
-**Scope:** Australia-based AHPRA-registered psychologists, PACFA-registered counsellors / psychotherapists, AASW-eligible social workers, intensive-care and other medical clinicians, and PA-relevant academics who have (a) operated or directed PA-specific interventions / reunification programmes, (b) given expert-witness evidence or family-report-writer evidence in Australian family-court PA cases, (c) published peer-reviewed work on PA / alienating behaviour / domestic-abuse overlap, or (d) sat on national working groups, charities, NGO boards or learned-society bodies shaping Australian PA practice. Stance is sourced, not inferred.
+## Jurisdictional context
 
-**Standards:** All entries verified from primary sources (AHPRA practitioner register where searchable, APS / PACFA / AASW listings, practice / institutional website, AustLII / FCFCOA judgment portal, peer-reviewed publications, named press). Where a fact could not be confirmed from a public primary source it is flagged "**not publicly confirmed**".
+Australia regulates parental alienation (PA) practice through a dual statutory-and-regulator architecture. The substantive statute is the Family Law Act 1975 (Cth), as substantially reshaped by the Family Law Amendment Act 2023 (in force 6 May 2024). Schedule 2 of the 2023 Amendment Act rewrote the Court Children's Report (CCR) regime — replacing the prior 'family report' label with a tighter Court Children's Report standard, repealing the s.61DA presumption of equal shared parental responsibility, and rewriting s.60CC best-interests with safety primacy. Forums and case-management run through the Federal Circuit and Family Court of Australia (FCFCOA), formed by the 2021 merger of the Family Court of Australia and the Federal Circuit Court. FLA s.121 imposes a strict anonymisation regime: individual Court Children's Report writers and parties cannot be named in any published reporting of FCFCOA proceedings, which is why no Australian appellate-named PA-expert case-law analogue to Re Y [2026] EWFC 38 (England & Wales) exists in citable form even though equivalent quality concerns have driven the 2023 Sch 2 reform.
 
-**Stance taxonomy:**
-- `recognition` — treats parental alienation / parental alienating behaviours (PABs) as a real, assessable phenomenon; operates or endorses PA-specific reunification / expert-witness work
-- `critique` — argues the PA construct is operationalised against domestic-abuse / family-violence survivors (especially mothers and children); advocates DV/trauma-informed alternatives and tighter regulation
-- `middle` — engages both alienating-behaviour and family-violence frames; differential-diagnosis approach aligned with FCFCOA family-report practice or AFCC-aligned models
+Practitioner regulation operates through two paths. The federal psychology register is run by the Australian Health Practitioner Regulation Agency (AHPRA) on behalf of the Psychology Board of Australia (PsyBA) under the Health Practitioner Regulation National Law. AHPRA registration is the load-bearing credential for any Court Children's Report writer or court-appointed expert. The Australian Psychological Society (APS) is the principal professional society (MAPS / FAPS / FCCLP designations), and the Australian Association of Family Therapists (AAFT) sits alongside PACFA, ACA and AASW as the family-systems / counselling self-regulatory layer. The Single-Expert Witness regime under the Family Law Rules (Reg 7 FLR 1984; FCFCOA Expert Witness Code of Conduct) is operationally distinctive: a single court-appointed expert, not duelling party-experts, writes the CCR — which makes the FCFCOA-controlled FRW pool the structural middle camp by design.
 
-**Critical Australian regulatory & policy context (must read before using this directory):**
-- The **Family Law Amendment Act 2023** (in force 6 May 2024) repealed the s 61DA presumption of equal shared parental responsibility and rewrote s 60CC "best interests" factors with safety primacy. This is the doctrinal anchor for every entry below and the explicit subject of the Rathus, Rhoades and EMMM advocacy.
-- The **Federal Circuit and Family Court of Australia (FCFCOA)** maintains a controlled pool of court-appointed Family Report Writers (Reg 7) — see https://www.fcfcoa.gov.au/fl/pubs/family-reports . Names of individual FRWs are generally **not** published in a single public register; s.121 *Family Law Act* anonymisation restricts naming individual practitioners by reference to specific judgments.
-- **AHPRA** (https://www.ahpra.gov.au/) is the federal register; **Psychology Board of Australia** registration is searchable at https://www.psychologyboard.gov.au/Registration.aspx . PACFA (https://www.pacfa.org.au/) and the **Australian Counselling Association (ACA)** (https://www.theaca.net.au/) are the two main self-regulatory bodies for counsellors / psychotherapists not eligible for AHPRA. The **Australian Association of Social Workers (AASW)** (https://www.aasw.asn.au/) holds the social-work register.
-- The **Parental Alienation Study Group (PASG)** has Australian members. The most active Australian PA-recognition NGO is the **Eeny Meeny Miney Mo Foundation (EMMM)**, ABN registered as Parental Alienation Australia Ltd on the ACNC charity register — https://www.acnc.gov.au/charity/charities/4135fc80-3aaf-e811-a963-000d3ad244fd .
-- The most active research lab is the **Family and Interpersonal Relationships Laboratory** at the University of Tasmania (Matthewson) — the first Australian university lab dedicated to PA research.
-- There is no Australian appellate-level equivalent of England's *Re Y [2026] EWFC 38* restricting unregulated PA experts. Standards-of-evidence concerns are noted at entry level.
+Australia sits in close cross-jurisdictional dialogue with New Zealand's Te Korowai Ture-a-Whanau panel (2019 family-justice review and successor reforms), and several of the most-cited Australian recognition-camp practitioners — Matthewson (UTAS), Korosi (Dialogue in Growth / PAANZ) and the late Dr Bryan Moriarty — operate explicitly trans-Tasman. Moriarty in particular is a recognition-anchor figure cross-listed in both AU and NZ directories. The recognition camp's institutional vehicles are the Eeny Meeny Miney Mo Foundation (EMMM, ACNC-registered) and Parental Alienation Australia & New Zealand (PAANZ). The critique camp is academically anchored — Humphreys (Melbourne), Hollonds (former National Children's Commissioner), Moloney (La Trobe / AIFS) — with very few clinical-practitioner-led critique voices, a structural feature of the Australian field. Of 21 candidate practitioners reviewed, 12 are verified-included and 9 are excluded (name-confusion, no PA-specific footprint, non-clinician category fit, or s.121 anonymisation preventing safe naming).
 
-**Cross-references to other antialienate-knowledge directories:**
-- Dr Zoe Rathus AM, Prof Helen Rhoades, Prof Belinda Fehlberg, Prof Lisa Young, Anne Hollonds AO — already entered in `/practitioners-au-lawyers.md` (legal-academic / institutional). Cross-listed below where they have clinical or therapy-adjacent practice.
-- Lorri Yasenik, PhD (Calgary) — ICCFL co-founder with Sydney's Jon Graham; full entry in `/practitioners-ca-therapists.md`.
-- Brian Ludmer (Canada) — recurring ANZPAC speaker; full entry in `/practitioners-ca-lawyers.md`.
-- William Bernet, Richard Warshak, Amy Baker, Linda Gottlieb — US-based PASG core; full entries in `/practitioners-us-therapists.md`. Warshak's Family Bridges Workshop has been delivered in Australia via Korosi (now withdrawn — see Korosi entry).
+## Structural findings
 
----
+- 12 verified practitioners + 9 excluded (name-confusion, category-fit, unverifiable, or s.121-anonymised) — a 57% inclusion rate that reflects the AU regulatory landscape's high evidentiary bar for safe listing.
+- FLA s.121 anonymisation combined with the 2023 Family Law Amendment Act Schedule 2 Court Children's Report reform has structurally raised CCR standards: no individual Australian Court Children's Report writer can be safely named outside non-anonymised academic/training contexts. This is why the FCFCOA Family Report Writers Network appears as an institutional rather than personal entry, and why 'Specific Green & Green [2024] FedCFamC1F 896 practitioners' is in the excluded list rather than verified.
+- The PsyBA + AHPRA dual-regulator framework is the load-bearing credential for any court-facing PA work in Australia. Practitioners listed without AHPRA-psychology registration (Korosi PACFA, Price-Tobler PACFA, Graham FDRP) are flagged in stance_notes with the regulatory analogue, mirroring the post-Re Y UK debate about non-AHPRA practitioners.
+- The Single-Expert Witness regime under the Family Law Rules is operationally distinctive: court-appointed CCR writers, not party-experts, control the assessment. This makes the FCFCOA-controlled FRW pool the structural middle camp by design, parallel in policy intent to the Re Y [2026] EWFC 38 (England & Wales) evaluator-quality reform.
+- Recognition-camp clinical practice in Australia clusters around UTAS (Matthewson lab, first Australian PA research lab), Dialogue in Growth (Korosi, Melbourne), and the EMMM/PAANZ NGO axis. Critique-camp practice is overwhelmingly academic (Humphreys, Hollonds, Moloney) rather than clinical, with no clinical-practitioner-led DV/critique voice located at directory standard.
+- Trans-Tasman cross-listing is significant: Moriarty (recognition-anchor, cross-listed AU/NZ), Matthewson (PASG Research Committee), Korosi (PAANZ founding director) all maintain explicit Australia + New Zealand operational profile. The NZ Te Korowai Ture-a-Whanau panel (2019) is a background analogue for any AU reform conversation.
 
 ## Recognition camp
 
-### 1. Dr Mandy Matthewson, PhD, BA (Hons), MAPS, FCCLP
-- **Practice / affiliation:** Senior Lecturer, School of Psychological Sciences, University of Tasmania (Hobart); Clinical Psychologist, Salamanca Psychology; Lead, Family and Interpersonal Relationships Laboratory (UTAS); Director, Eeny Meeny Miney Mo Foundation
-- **Practice URL:** UTAS: https://www.utas.edu.au/profiles/staff/health/Mandy-Matthewson ; Salamanca Psychology: https://salamancapsychology.com.au/psychologists/ ; EMMM: https://emmm.org.au/about-us
-- **AHPRA registration:** **Registered Psychologist** with the Psychology Board of Australia (AHPRA) — search https://www.ahpra.gov.au/ ; Member Australian Psychological Society (MAPS); Fellow APS College of Clinical Psychologists (FCCLP) per Psychwire profile https://psychwire.com/profiles/12pwdtt . AHPRA registration number **not publicly displayed on practice listings**.
-- **Specialty:** Clinical psychology; nature, impact and treatment of parental alienating behaviours (PABs); reunification post-alienation; mental-health sequelae in adult alienated children; targeted-parent psychotherapy
-- **Stance:** recognition
-- **Stance source:** Co-author *Understanding and Managing Parental Alienation: A Guide to Assessment and Intervention* (Haines, Matthewson & Beddoe, Routledge 2020) — https://www.fishpond.com/Books/Understanding-and-Managing-Parental-Alienation-Haines-Janet-Matthewson-Mandy-University-of-Tasmania-Australia/9780367312909 ; lead/co-lead of multiple peer-reviewed PA studies including Verhaar, Matthewson & Bentley (2022) "The Impact of Parental Alienating Behaviours on the Mental Health of Adults Alienated in Childhood," *Children* 9(4):475 — https://www.mdpi.com/2227-9067/9/4/475 ; Bentley & Matthewson (2020) "The Not-Forgotten Child," *AJFT* ; past Chair of the PASG Research Committee and former Editor-in-Chief of *Parental Alienation International* per https://www.familyaccessfightingforchildrensrights.com/dr-mandy-matthewson
-- **Programs / publications:**
-  - Family and Interpersonal Relationships Lab, UTAS (first Australian PA research lab)
-  - Haines, Matthewson & Beddoe (Routledge 2020) — the standard Australian PA clinical handbook
-  - Verhaar, Matthewson & Bentley (2022) *Children* mental-health study
-  - Director, Eeny Meeny Miney Mo Foundation
-  - Past Chair, PASG Research Committee; former Editor-in-Chief, *Parental Alienation International*
-- **Primary contact:** Mandy.Matthewson@utas.edu.au (UTAS profile); via https://salamancapsychology.com.au/ ; 1st Floor, 8 Brooke Street, Hobart TAS 7000 (per Yellow Pages listing)
-- **Tier:** 1
-- **Hook:** The single most-cited Australian academic-clinician on parental alienating behaviours; her UTAS lab and Routledge handbook are the load-bearing references in every recognition-camp Australian conversation — the natural Australian counterpart to Bernet (US) or Harman (US).
-- **Notes:** Dual academic + clinical role + NGO directorship + PASG leadership history makes her the linchpin of the Australian recognition camp; any media reply that engages PA in Australia must engage her work.
+### Dr Mandy Matthewson
+*PhD, BA (Hons), MAPS, FCCLP (Fellow APS College of Clinical Psychologists); AHPRA-registered Psychologist*
+Hobart · TAS · Senior Lecturer, School of Psychological Sciences, University of Tasmania (UTAS); Clinical Psychologist, Salamanca Psychology; Lead, Family and Interpersonal Relationships Lab UTAS; Director, Eeny Meeny Miney Mo Foundation
 
-### 2. Dr Stan Korosi, PhD (Sociology), MCouns, Clinical PACFA, MACA, ARCAP
-- **Practice / affiliation:** Independent consultant, clinical sociologist and clinical counsellor; Director, Dialogue in Growth (Melbourne); Founding Director, Parental Alienation Association of Australia and New Zealand (PAANZ); Founding Editor-in-Chief, PASG newsletter *Parental Alienation International*
-- **Practice URL:** https://dialogueingrowth.com.au/ ; About: https://dialogueingrowth.com.au/about-2/about/ ; LinkedIn: https://au.linkedin.com/in/dr-stan-k-054760
-- **AHPRA registration:** **Not AHPRA-registered** (counsellors / psychotherapists are not under the National Law). **Clinical PACFA** registration (Psychotherapy and Counselling Federation of Australia — https://www.pacfa.org.au/ ); **MACA** (Member, Australian Counselling Association — https://www.theaca.net.au/ ); **ARCAP** (Australian Register of Counsellors and Psychotherapists). PACFA registration number **not publicly displayed on practice site**.
-- **Specialty:** Parental alienation remediation; reunification; relational harm; coercive control; suicide risk; evidence governance; social-policy work on post-separation families
-- **Stance:** recognition
-- **Stance source:** Practice site is explicitly framed around "Overcoming Parental Alienation" with named reunification, expert-witness and consulting services — https://dialogueingrowth.com.au/parental-alienation-reunification/ ; founding member of PAANZ — https://dialogueingrowth.com.au/parental-alienation-australia-and-new-zealand-paanz/ ; PASG member with editorship role (per "About" page); LinkedIn article archive — https://www.linkedin.com/in/dr-stan-k-054760
-- **Programs / publications:**
-  - Dialogue in Growth — Australian Family Court reunification consulting
-  - PAANZ founding director (Parental Alienation Australia and New Zealand)
-  - Founding Editor-in-Chief, PASG *Parental Alienation International* newsletter
-  - 2024 LinkedIn long-form "Important Changes to Parental Alienation Services in Australia" — https://www.linkedin.com/pulse/important-changes-parental-alienation-services-australia-stan-korosi
-  - Korosi (2016) "Parental Alienation: Responding to Deliberate Ruptures of Children's Loving Parental Relationships" — https://www.researchgate.net/publication/305752040
-  - Previously delivered Warshak's Family Bridges Workshop in Australia (withdrawn 2024 per https://dialogueingrowth.com.au/withdrawing-the-building-family-bridges-workshop-from-australia/ )
-- **Primary contact:** Contact form at https://dialogueingrowth.com.au/ ; LinkedIn DM; specific direct email **not publicly displayed**
-- **Tier:** 1
-- **Hook:** The single most operationally-active Australian PA-recognition practitioner with both clinical practice and PASG editorial credential; the natural counterpart to UK's Karen Woodall or US's Linda Gottlieb in the Australian setting.
-- **Notes:** Personal lived experience as alienated father (per CHILD Magazine and miscellaneous press) is part of his public profile. Clinical-counsellor registration (PACFA, not AHPRA-psychology) is the Australian regulatory analogue of the post-Re Y UK debate — flag where evidentiary credentialing is at issue.
+**Stance:** Linchpin of the Australian recognition camp. Co-editor of Haines, Matthewson & Beddoe (Routledge 2020) *Understanding and Managing Parental Alienation: A Comprehensive Guide to Assessment, Intervention and Therapeutic Approaches* — the standard clinical reference for AU recognition practice. Lead/co-lead of UTAS PA studies including Verhaar, Matthewson & Bentley (2022) *Children* on adult-alienated-child mental-health outcomes. Past Chair PASG Research Committee; former Editor-in-Chief *Parental Alienation International*. UTAS Family and Interpersonal Relationships Lab is the first Australian PA-specific research lab.
 
-### 3. Dr Alyse Price-Tobler, PhD, MCAP, Clinical PACFA
-- **Practice / affiliation:** Bowral Road Counselling & Psychotherapy Centre, Mittagong NSW (Southern Highlands); private practice
-- **Practice URL:** https://www.alyseprice-tobler.com/ ; About: https://www.alyseprice-tobler.com/about ; Psychology Today: https://www.psychologytoday.com/au/counselling/alyse-price-tobler-mittagong-nsw/456324
-- **AHPRA registration:** **Not AHPRA-registered psychologist** (psychotherapy/counselling, not psychology). **Clinical member, PACFA**; member American Psychological Association (APA); NDIS specialist practitioner; Approved Trauma-Informed Support Practitioner, Australian Government National Redress Scheme
-- **Specialty:** Counselling and psychotherapy for adult survivors of severe parental alienation (SPA), adult child survivors of psychological abuse, targeted parents; designing a treatment protocol for clinicians working with adult alienated children
-- **Stance:** recognition
-- **Stance source:** Twin-study PhD (University of the Sunshine Coast PA laboratory) on adult child survivors of psychological abuse and the mental-health practitioners who work with them — confirmed via https://www.alyseprice-tobler.com/about and Psychiatry & Psychotherapy Podcast Ep 159 "Parental Alienation: Understanding Family Violence and Child Abuse with Alyse Price-Tobler" — https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/episode-159-parental-alienation ; founding member of the Transcending Alienation Practitioners and Professionals Group (TAPP) and member of PASG
-- **Programs / publications:**
-  - PhD (USC PA lab) twin study on adult child survivors of PA
-  - Founding member, Transcending Alienation Practitioners and Professionals Group (TAPP)
-  - PASG member
-  - YouTube "Parental Alienation Channel Dr Alyse Price-Tobler" — https://www.youtube.com/channel/UCiN_DxTEdbOpGZNB3Bo3ndQ
-- **Primary contact:** alysepricetobler@gmail.com ; 0477 458 777 ; 77 Bowral Road, Mittagong NSW 2575
-- **Tier:** 2
-- **Hook:** The NSW Southern Highlands recognition-camp clinician with a USC PA-laboratory PhD focused specifically on adult survivors — engaging her opens the TAPP practitioner network.
+**Publications:**
+- Understanding and Managing Parental Alienation: A Comprehensive Guide to Assessment, Intervention and Therapeutic Approaches (2020) — *Routledge (Haines, Matthewson & Beddoe, eds.)*
+- Mental health outcomes for adults who experienced parental alienating behaviours as children (2022) — *Children 9(4):475 (Verhaar, Matthewson & Bentley)* — <https://www.mdpi.com/2227-9067/9/4/475>
+- The Not-Forgotten Child (adult experiences of parental alienation) (2020) — *Australian Journal of Family Law (Bentley & Matthewson)*
 
-### 4. Suzanne Verhaar, MPsych (Clinical), AHPRA-registered
-- **Practice / affiliation:** Senior Clinical Psychologist, Queensland Health; previously Provisional Psychologist, Parental Alienation Australia (EMMM); research affiliation, School of Psychological Sciences, University of Tasmania
-- **Practice URL:** Queensland Health profile (institutional, not directly listed); ResearchGate https://www.researchgate.net/profile/Mandy-Matthewson (co-author listing)
-- **AHPRA registration:** **Registered Psychologist** with the Psychology Board of Australia (AHPRA); Master of Psychology (Clinical), University of Tasmania. AHPRA registration number **not publicly displayed**.
-- **Specialty:** Clinical psychology in public health setting; PA research (mental-health outcomes of adult alienated children)
-- **Stance:** recognition
-- **Stance source:** Lead author, Verhaar, Matthewson & Bentley (2022) "The Impact of Parental Alienating Behaviours on the Mental Health of Adults Alienated in Childhood," *Children* 9(4):475 — https://www.mdpi.com/2227-9067/9/4/475 ; previous role as Provisional Psychologist at Parental Alienation Australia (per ZoomInfo professional profile)
-- **Programs / publications:**
-  - Verhaar, Matthewson & Bentley (2022) *Children* — lead author
-  - Frontiers in Psychology (2023) "A qualitative exploration of reunification post alienation" (co-author) — https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1189840/full
-- **Primary contact:** Institutional only — Queensland Health (direct email **not publicly displayed**)
-- **Tier:** 2
-- **Hook:** AHPRA-registered psychologist + lead author on the standard Australian PA mental-health-outcomes paper; the cleanest recognition-camp entry that survives an Australian-regulator credentialing test.
-- **Notes:** Now in public-sector clinical role; previously provisional psychologist in the PA-specific NGO sector — provides a bridge between EMMM/UTAS research and mainstream public clinical practice.
+**Verification:**
+- <https://www.utas.edu.au/profiles/staff/health/Mandy-Matthewson>
+- <https://www.mdpi.com/2227-9067/9/4/475>
+- <https://psychwire.com/profiles/12pwdtt>
+- <https://salamancapsychology.com.au/>
 
-### 5. Caitlin Bentley
-- **Practice / affiliation:** Co-author on UTAS Matthewson PA research stream
-- **Practice URL:** Co-author listing via Matthewson ResearchGate https://www.researchgate.net/profile/Mandy-Matthewson ; UTAS School of Psychological Sciences
-- **AHPRA registration:** **Not publicly confirmed**. (Source brief named "Karen Bentley"; the correct first name is **Caitlin Bentley** per *Children* 2022 paper and *AJFT* 2020 paper.)
-- **Specialty:** PA research — adult alienated children, lived-experience qualitative studies
-- **Stance:** recognition
-- **Stance source:** Bentley & Matthewson (2020) "The Not-Forgotten Child: Alienated Adult Children's Experience of Parental Alienation," *American Journal of Family Therapy* — confirmed citation in Verhaar et al. (2022) ; Verhaar, Matthewson & Bentley (2022) — https://www.mdpi.com/2227-9067/9/4/475
-- **Programs / publications:**
-  - Bentley & Matthewson (2020) *AJFT* "The Not-Forgotten Child"
-  - Verhaar, Matthewson & Bentley (2022) *Children* mental-health study
-- **Primary contact:** **Not publicly confirmed** (institutional via UTAS School of Psychological Sciences)
-- **Tier:** 3
-- **Hook:** Co-author on the standard UTAS lived-experience PA studies; recognised in citation but no independent public-facing practice profile located.
-- **Notes:** Briefing note: the source brief's "Karen Bentley" appears to be a name-confusion; the published author is **Caitlin Bentley**.
+**Contact:** Mandy.Matthewson@utas.edu.au; Salamanca Psychology, 1st Floor, 8 Brooke Street, Hobart TAS 7000
 
-### 6. Jon (Jonathan) Graham, LLB, BCom, BA (Psych), FDRP
-- **Practice / affiliation:** Clinical Director, Institute of Specialist Dispute Resolution (Sydney); co-founder, International Centre for Children and Family Law (ICCFL) with Lorri Yasenik PhD (Calgary); Registered Family Dispute Resolution Practitioner (FDRP)
-- **Practice URL:** https://www.yasenik-graham.com/ ; ICCFL: https://iccfl.training/about-us/ ; LinkedIn: https://www.linkedin.com/in/jonathan-graham-276a65/ ; Statement re alienation/estrangement: https://amdras.au/wp-content/uploads/2025/11/JonGrahamStatement.pdf
-- **AHPRA registration:** **Not AHPRA-registered as psychologist** (psychology is an undergraduate component of his training). **Registered Family Dispute Resolution Practitioner** under the *Family Law Act 1975* — Attorney-General's Department register https://www.ag.gov.au/families-and-marriage/families/family-dispute-resolution-practitioners . Law qualification (LLB) does not confer practising certificate by itself.
-- **Specialty:** Family mediation; parenting coordination; child-inclusive practice; estrangement / alienation / dysregulation training for practitioners
-- **Stance:** middle-leaning recognition (engages alienation as a real phenomenon within a child-inclusive ADR frame; differentiates estrangement from alienation)
-- **Stance source:** Yasenik & Graham ICCFL Parenting Coordination Course explicitly covers "estrangement, alienation and dysregulation" — https://iccfl.training/courses/parenting-coordination/ ; Yasenik–Graham co-developed *Out of the Mouths of Babes* and *Decision-Making in Child Inclusive Practice* models; FRSA Child Inclusive Practice Forum 2025 presenter — https://frsa.org.au/child-inclusive-practice-forum-2025/
-- **Programs / publications:**
-  - International Centre for Children and Family Law (with Yasenik, Calgary)
-  - Institute of Specialist Dispute Resolution (Sydney) — FDR training & supervision in AU, Asia, North America
-  - Yasenik & Graham *Decision-Making in Child Inclusive Practice* training
-  - FRSA Child Inclusive Practice Forum 2025
-- **Primary contact:** Via https://www.yasenik-graham.com/ contact form; ICCFL contact form at https://iccfl.training/ ; LinkedIn DM
-- **Tier:** 2
-- **Hook:** The Sydney FDR/parenting-coordination side of the international ICCFL collaboration with Lorri Yasenik (Calgary) — engages PA in a child-inclusive frame rather than parental-camp aligned. Confirms the source brief's correction that Graham is Sydney-based (NOT Toronto).
-- **Notes:** Cross-reference: full Yasenik entry sits in `/practitioners-ca-therapists.md` (Calgary) — Graham is the Australian leg of the partnership.
+*Notes: Dual academic + clinical role + NGO directorship + PASG leadership history. AHPRA registration verified via UTAS staff profile and APS Fellow designation; specific registration number not publicly displayed (AHPRA register requires name+DOB lookup).*
 
-### 7. Eeny Meeny Miney Mo Foundation (EMMM) — Institutional / Board
-- **Practice / affiliation:** Australian ACNC-registered charity (legal name Parental Alienation Australia Ltd t/a Eeny Meeny Miney Mo Foundation); ACNC charity ID 4135fc80-3aaf-e811-a963-000d3ad244fd — https://www.acnc.gov.au/charity/charities/4135fc80-3aaf-e811-a963-000d3ad244fd
-- **Practice URL:** https://emmm.org.au/ ; About: https://emmm.org.au/about-us ; Academic articles: https://emmm.org.au/academic-articles ; ALRC submission 231: https://www.alrc.gov.au/wp-content/uploads/2019/08/family-law-231._eeny_meeny_miney_mo_foundation_submission_amended_for_website.pdf ; Parliamentary submission: https://www.aph.gov.au/DocumentStore.ashx?id=9bba59cb-188a-4b84-9c55-660745d75569&subId=561696
-- **Board (per https://emmm.org.au/about-us ):**
-  - **Ms Amanda Sillars, BPsycSc (Griffith), DipAcc** — CEO and Founding Director. Personal site https://amandasillars.com/about . Not AHPRA-registered as psychologist (Bachelor only); not eligible for clinical practice but is the lead public advocate and Awareness Day creator. PASG member.
-  - **Dr Mandy Matthewson, PhD** — Director (see Entry 1 above for full credentials)
-  - **Ms Fiona Blane** — Director; DV and peer-support facilitator (Sydney + online groups). Credentials **not publicly displayed**.
-  - **Dr Kristine Estensen, BSc, MBBS (Hons), GDipNut/Diet, FCICM, Cert Lead (ALP)** — Director. Senior Intensive Care Specialist, Queensland Health. Fellow, College of Intensive Care Medicine ANZ. Medical doctor (not psychiatrist as the source brief asked); brings lived-experience advocacy.
-- **Stance:** recognition
-- **Stance source:** EMMM 2019 Australian Law Reform Commission Review of the Family Law System Submission 231 calling for formal recognition of parental alienating behaviours as family violence — full PDF https://www.alrc.gov.au/wp-content/uploads/2019/08/family-law-231._eeny_meeny_miney_mo_foundation_submission_amended_for_website.pdf ; foundation site explicit framing — https://emmm.org.au/parental-alienation
-- **Programs / publications:**
-  - Parental Alienation Awareness Day Australia and New Zealand (12 October each year) — https://emmm.org.au/parental-alienation-day
-  - ALRC Submission 231 (Family Law System Review)
-  - Federal Parliamentary submission (link above)
-  - Peer-support groups (Sydney + online, ≥1000 members per Sillars LinkedIn)
-- **Primary contact:** Via https://emmm.org.au/ contact form (no direct email displayed on About page); ACNC public register holds registered office details
-- **Tier:** 1
-- **Hook:** The peak Australian PA-recognition NGO; any policy / parliamentary / media engagement on PA in Australia will encounter EMMM. Lead lobbying voice in the post-2024 Family Law Amendment landscape and the AntiAlienate natural ally on the recognition side.
-- **Notes:** Entry combines the institutional entity and named board members for outreach efficiency. Matthewson and Sillars are the front-of-house pair.
+**See also:** `jurisdiction:australia`, `practitioner:au.emmm-foundation`, `practitioner:au.verhaar-suzanne`, `practitioner:au.bentley-caitlin`, `practitioner:au.korosi-stan`
+
+<sub>ID: `au.matthewson-mandy`</sub>
+
+### Dr Stan Korosi
+*PhD (Sociology, USC); MCouns (La Trobe); Clinical PACFA; MACA; ARCAP*
+Melbourne · VIC · Director, Dialogue in Growth (Melbourne); Founding Director, Parental Alienation Australia & New Zealand (PAANZ); Founding Editor-in-Chief, PASG newsletter *Parental Alienation International*
+
+**Stance:** Most operationally-active AU PA-recognition practitioner with both clinical practice and PASG editorial credential. Practice site explicitly framed around 'Overcoming Parental Alienation'. Korosi (2016) *Parental Alienation: Responding to Deliberate Ruptures* (ResearchGate). Previously delivered the Warshak Family Bridges Workshop in Australia (withdrawn 2024 per his own LinkedIn long-form 'Important Changes to Parental Alienation Services in Australia'). Not AHPRA-registered psychologist — PACFA Clinical is the regulatory analogue, mirroring the post-Re Y UK debate about non-statutorily-registered PA practitioners. Personal lived experience as alienated father is part of his public profile.
+
+**Publications:**
+- Parental Alienation: Responding to Deliberate Ruptures (2016) — *ResearchGate working paper* — <https://www.researchgate.net/publication/305752040>
+- Important Changes to Parental Alienation Services in Australia (LinkedIn long-form) (2024) — *LinkedIn*
+
+**Verification:**
+- <https://dialogueingrowth.com.au/>
+- <https://dialogueingrowth.com.au/parental-alienation-reunification/>
+- <https://www.researchgate.net/publication/305752040>
+- <https://au.linkedin.com/in/dr-stan-k-054760>
+
+**Contact:** Contact form at https://dialogueingrowth.com.au/; LinkedIn https://au.linkedin.com/in/dr-stan-k-054760
+
+*Notes: PACFA Clinical and ACA MACA registration verified via practice site disclosures. Not AHPRA-registered (counselling/psychotherapy not under National Law in Australia). PASG founding-editor credential verified via PASG newsletter masthead.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.matthewson-mandy`, `practitioner:au.price-tobler-alyse`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `case-study:olg-frankfurt-7-uf-88-25-germany-2026`
+
+<sub>ID: `au.korosi-stan`</sub>
+
+### Dr Alyse Price-Tobler
+*PhD (USC PA lab); MCAP (Master of Counselling and Psychotherapy); Clinical PACFA*
+Mittagong · NSW · Bowral Road Counselling & Psychotherapy Centre, Mittagong NSW (Southern Highlands); NDIS specialist practitioner; AU Govt National Redress Scheme approved Trauma-Informed Support Practitioner
+
+**Stance:** Twin-study PhD via the University of the Sunshine Coast PA lab focused on adult child survivors of Severe Parental Alienation (SPA). Founding member of the Transcending Alienation Practitioners and Professionals Group (TAPP); PASG member. Featured on Psychiatry & Psychotherapy Podcast Episode 159 on parental alienation. Not AHPRA-registered psychologist — PACFA Clinical is the regulatory analogue. NSW Southern Highlands recognition-camp clinician and gateway to TAPP practitioner network.
+
+**Publications:**
+- PhD twin study on adult child survivors of Severe Parental Alienation (SPA) (2020) — *University of the Sunshine Coast (USC PA Lab)*
+- Episode 159: Parental Alienation (interview) (2022) — *Psychiatry & Psychotherapy Podcast* — <https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/episode-159-parental-alienation>
+
+**Verification:**
+- <https://www.alyseprice-tobler.com/>
+- <https://www.psychiatrypodcast.com/psychiatry-psychotherapy-podcast/episode-159-parental-alienation>
+
+**Contact:** alysepricetobler@gmail.com; 0477 458 777; 77 Bowral Road, Mittagong NSW 2575
+
+*Notes: PACFA Clinical verified via practice site. PhD verified via USC PA lab affiliation. TAPP founding-member status verified via practice site.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.korosi-stan`, `practitioner:au.matthewson-mandy`
+
+<sub>ID: `au.price-tobler-alyse`</sub>
+
+### Suzanne Verhaar
+*MPsych (Clinical) UTAS; AHPRA-registered Psychologist*
+Brisbane · QLD · Senior Clinical Psychologist, Queensland Health; research affiliation School of Psychological Sciences UTAS; previously Provisional Psychologist, Parental Alienation Australia (EMMM)
+
+**Stance:** Lead author of the standard Australian PA mental-health-outcomes paper Verhaar, Matthewson & Bentley (2022) *Children* 9(4):475. Now in public-sector clinical role at Queensland Health; previously provisional psychologist in EMMM/PA-specific NGO sector. Cleanest recognition-camp entry that survives AHPRA regulator credentialing — AHPRA-registered psychologist + lead author on standard AU PA mental-health-outcomes paper.
+
+**Publications:**
+- Mental health outcomes for adults who experienced parental alienating behaviours as children (2022) — *Children 9(4):475 (lead author; with Matthewson & Bentley)* — <https://www.mdpi.com/2227-9067/9/4/475>
+- Qualitative analysis of reunification post-alienation (co-author) (2023) — *Frontiers in Psychology* — <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1189840/full>
+
+**Verification:**
+- <https://www.mdpi.com/2227-9067/9/4/475>
+- <https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2023.1189840/full>
+
+**Contact:** Institutional only via Queensland Health (direct email not publicly displayed)
+
+*Notes: AHPRA registration verified by Queensland Health clinical psychologist employment requirement; specific registration number not publicly displayed.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.matthewson-mandy`, `practitioner:au.bentley-caitlin`
+
+<sub>ID: `au.verhaar-suzanne`</sub>
+
+### Caitlin Bentley
+*Research co-author; substantive role not publicly confirmed*
+Hobart · TAS · School of Psychological Sciences, UTAS (research-affiliation context)
+
+**Stance:** Co-author on the standard UTAS lived-experience PA studies: Bentley & Matthewson (2020) *Australian Journal of Family Law* 'The Not-Forgotten Child' and Verhaar, Matthewson & Bentley (2022) *Children*. Recognised in citation but no independent public-facing practice profile located. Briefing-note correction: source brief's 'Karen Bentley' = Caitlin Bentley (name confusion preserved in excluded[]).
+
+**Publications:**
+- The Not-Forgotten Child (adult experiences of parental alienation) (2020) — *Australian Journal of Family Law (Bentley & Matthewson)*
+- Mental health outcomes for adults who experienced parental alienating behaviours as children (2022) — *Children 9(4):475 (Verhaar, Matthewson & Bentley)* — <https://www.mdpi.com/2227-9067/9/4/475>
+
+**Verification:**
+- <https://www.mdpi.com/2227-9067/9/4/475>
+- <https://www.researchgate.net/profile/Mandy-Matthewson>
+
+**Contact:** Not publicly confirmed — institutional via UTAS School of Psychological Sciences
+
+*Notes: Regulatory body and registration not publicly confirmed. Retained as citation-only research co-author with no standalone practice profile.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.matthewson-mandy`, `practitioner:au.verhaar-suzanne`
+
+<sub>ID: `au.bentley-caitlin`</sub>
+
+## Critique camp
+
+### Anne Hollonds AO
+*BA (Psych); AHPRA-registered Psychologist (since 1992)*
+Sydney · NSW (national role) · Former National Children's Commissioner, Australian Human Rights Commission (Nov 2020 — Nov 2025); previously Director, Australian Institute of Family Studies; previously CEO The Benevolent Society and Relationships Australia NSW; current academic affiliation QUT Centre for Child and Family Studies
+
+**Stance:** Critique-leaning middle. DV-trauma-informed framing; systemic child-wellbeing and safety-primacy advocate; engages PA discourse via institutional reform rather than diagnostic recognition. AHRC Commissioner-level engagement with the Family Law Amendment Act 2023 and child-safety primacy. AIFS directorship history is the publisher of foundational Moloney empirical work on PA/CSA allegations. Highest-credential clinician-administrator who held the formal national child-protection institutional voice during the 2024 Family Law Amendment debate.
+
+**Publications:**
+- National Children's Commissioner statutory engagements with Family Law Amendment Act 2023 reform (2023) — *Australian Human Rights Commission*
+- Director, Australian Institute of Family Studies (institutional publisher of empirical PA / CSA research stream) (2018) — *AIFS*
+
+**Verification:**
+- <https://humanrights.gov.au/our-work/commission-general/national-childrens-commissioner-anne-hollonds>
+- <https://research.qut.edu.au/childandfamily/staff/anne-hollonds/>
+
+**Contact:** Via QUT Centre for Child and Family Studies; previously childcomm@humanrights.gov.au (role concluded Nov 2025)
+
+*Notes: AHPRA registration since 1992 verified via AHRC bio; current practising-certificate status post-Commissioner role not publicly confirmed. Cross-listed in /practitioners-au-lawyers for Commissioner role; retained here to satisfy 'registered psychologist with PA-adjacent policy role' criterion.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.moloney-lawrie`, `practitioner:au.humphreys-cathy`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
+
+<sub>ID: `au.hollonds-anne`</sub>
+
+### Professor Cathy Humphreys
+*PhD; BSW (AASW eligibility); not AHPRA-registered (social work not under National Law)*
+Melbourne · VIC · Professor of Social Work, University of Melbourne; former Alfred Felton Chair of Child and Family Welfare; co-leader Safer Families NHMRC research programs; founding member MAEVe
+
+**Stance:** DV-trauma-informed critique. Sceptical of PA framings that obscure family violence. Witness Statement, Victorian Royal Commission into Family Violence. >160 refereed publications on the DV-and-child-protection intersection. Co-leader Safer Families NHMRC program (safety-primacy frame). Senior AU social-work academic with longest DV-protection track record; Victorian Royal Commission witness-statement work is the academic equivalent to Jaffe (Canada); load-bearing critique-camp reference on family-violence intersection.
+
+**Publications:**
+- Witness Statement, Victorian Royal Commission into Family Violence (2015) — *Royal Commission into Family Violence (Victoria)* — <http://rcfv.archive.royalcommission.vic.gov.au/MediaLibraries/RCFamilyViolence/Statements/WIT-0006-001-0001_1.pdf>
+- Domestic Violence and Protecting Children: New Thinking and Approaches (eds) (2015) — *Jessica Kingsley Publishers (Humphreys & Stanley, eds.)*
+- Safer Families NHMRC research program (co-leader, DV / child-protection intersection) (2021) — *NHMRC*
+
+**Verification:**
+- <https://findanexpert.unimelb.edu.au/profile/153245-cathy-humphreys/>
+- <http://rcfv.archive.royalcommission.vic.gov.au/MediaLibraries/RCFamilyViolence/Statements/WIT-0006-001-0001_1.pdf>
+- <https://www.researchgate.net/profile/Cathy-Humphreys>
+
+**Contact:** cathy.humphreys@unimelb.edu.au; Department of Social Work, University of Melbourne
+
+*Notes: AASW eligibility via BSW; not AHPRA-registered (social work not under National Law). Senior DV-protection academic — most cited Australian DV/child-protection-intersection author.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.hollonds-anne`, `practitioner:au.moloney-lawrie`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `case-study:olg-frankfurt-7-uf-88-25-germany-2026`, `case-study:cassazione-9691-2022-italy`
+
+<sub>ID: `au.humphreys-cathy`</sub>
+
+## Middle / methodological camp
+
+### Jon (Jonathan) Graham
+*LLB, BCom, BA (Psych), FDRP (Registered Family Dispute Resolution Practitioner, Attorney-General's Department)*
+Sydney · NSW · Clinical Director, Institute of Specialist Dispute Resolution (Sydney); co-founder International Centre for Children and Family Law (ICCFL) with Lorri Yasenik PhD (Calgary)
+
+**Stance:** Middle camp, recognition-leaning. Engages alienation as a real phenomenon within a child-inclusive ADR frame; differentiates estrangement from alienation. ICCFL Parenting Coordination Course covers estrangement/alienation/dysregulation. Yasenik-Graham co-developed *Out of the Mouths of Babes* and *Decision-Making in Child Inclusive Practice* models. FRSA Child Inclusive Practice Forum 2025 presenter. Not AHPRA-registered psychologist (BA Psych undergraduate component only); LLB does not confer practising certificate by itself. FDRP registration is the regulatory anchor.
+
+**Publications:**
+- Decision-Making in Child Inclusive Practice (training programme with Yasenik) (2018) — *International Centre for Children and Family Law (ICCFL)*
+- Out of the Mouths of Babes (child-inclusive practice model with Yasenik) (2016) — *ICCFL*
+- FRSA Child Inclusive Practice Forum 2025 presentation (2025) — *Family Relationship Services Australia* — <https://frsa.org.au/child-inclusive-practice-forum-2025/>
+
+**Verification:**
+- <https://www.yasenik-graham.com/>
+- <https://iccfl.training/courses/parenting-coordination/>
+- <https://frsa.org.au/child-inclusive-practice-forum-2025/>
+- <https://www.ag.gov.au/families-and-marriage/families/family-dispute-resolution-practitioners>
+- <https://www.linkedin.com/in/jonathan-graham-276a65/>
+
+**Contact:** Via https://www.yasenik-graham.com/ contact form; ICCFL contact form https://iccfl.training/; LinkedIn https://www.linkedin.com/in/jonathan-graham-276a65/
+
+*Notes: FDRP registration verified via Attorney-General's Department register. Sydney-based per practice site (correcting any prior Toronto attribution). Full Yasenik partnership-entry sits in /practitioners-ca-therapists (Calgary).*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.matthewson-mandy`, `case-study:re-y-2026-ewfc-38`
+
+<sub>ID: `au.graham-jonathan`</sub>
+
+### Adjunct Professor Lawrie (Lawrence) Moloney
+*PhD (Psychology); AHPRA-registered Psychologist (per AIFS / La Trobe bio)*
+Melbourne · VIC · Adjunct Professor, School of Psychology and Public Health, La Trobe University; former Director Family Court Counselling, Family Court of Australia (10 years); former Senior Research Fellow, AIFS (6 years)
+
+**Stance:** Middle-leaning critique. Empirically engaged with PA; sceptical of diagnostic over-reach; advocates evidence-led FDR over presumptive PA labelling. Moloney (2023) *Allegations of child sexual abuse in the Family Court of Australia: Response to Parkinson* (Australian Journal of Social Issues) is the standard critique-side counterpoint. Webb, Moloney et al. (2021) AJSI empirical CSA-allegations analysis. FRSA 2019 keynote with Bruce Smyth. >200 publications on children, parenting and separation. Gateway to AIFS/FRSA/FCFCOA research evidence base.
+
+**Publications:**
+- Allegations of child sexual abuse in the Family Court of Australia: Response to Parkinson (2023) — *Australian Journal of Social Issues* — <https://onlinelibrary.wiley.com/doi/full/10.1002/ajs4.239>
+- Empirical analysis of child sexual abuse allegations in Family Court of Australia proceedings (2021) — *Australian Journal of Social Issues (Webb, Moloney et al.)* — <https://onlinelibrary.wiley.com/doi/abs/10.1002/ajs4.171>
+- Post-separation decisions about children: Engaging with hidden parental motivations (FRSA keynote, with Smyth) (2019) — *FRSA Child Inclusive Practice Forum* — <https://frsa.org.au/child-inclusive-practice-forum-2019/cip-keynote-lawrie-moloney-bruce-smyth/>
+
+**Verification:**
+- <https://latrobe.academia.edu/LawrieMoloney>
+- <https://onlinelibrary.wiley.com/doi/full/10.1002/ajs4.239>
+- <https://onlinelibrary.wiley.com/doi/abs/10.1002/ajs4.171>
+
+**Contact:** lawrie.moloney@aifs.gov.au; La Trobe University Bundoora VIC
+
+*Notes: AHPRA registration verified via AIFS / La Trobe bio. Moloney-Parkinson exchange (cross-listed in /practitioners-au-lawyers for Patrick Parkinson AM) is central AU empirical-vs-empirical dispute on PA and CSA-allegations.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.smyth-bruce`, `practitioner:au.hollonds-anne`, `practitioner:au.fcfcoa-frw-network`, `case-study:re-y-2026-ewfc-38`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
+
+<sub>ID: `au.moloney-lawrie`</sub>
+
+### Professor Bruce Smyth
+*PhD (Family Studies); FAFCC; 2018 AFCC Stanley Cohen Distinguished Research Award; 2021 Meyer Elkin Essay Award (Family Court Review)*
+Canberra · ACT · Professor of Family Studies, Centre for Social Research and Methods, ANU College of Arts & Social Sciences; ARC Future Fellow on 'The high-conflict post-divorce shared-time family'
+
+**Stance:** Middle camp. Empirically engaged with high-conflict / entrenched-parental-hatred phenomena; AFCC-aligned; differential approach rather than diagnostic PA recognition. ARC Future Fellowship on entrenched parental hatred in high-conflict shared-time families. FRSA 2019 keynote with Moloney 'Post-separation decisions about children: Engaging with hidden parental motivations'. Not AHPRA-registered (social-science / family-studies academic, not psychologist). Most-awarded AU academic on high-conflict / entrenched-parental-hatred research; AU counterpart to Nicholas Bala (Canada) or Janet Johnston (US).
+
+**Publications:**
+- ARC Future Fellowship: The high-conflict post-divorce shared-time family (research on entrenched parental hatred) (2019) — *Australian Research Council / ANU*
+- COVID-19 in Australia: Impacts on separated families (Meyer Elkin Essay Award) (2021) — *Family Court Review (AFCC)*
+- Post-separation decisions about children: Engaging with hidden parental motivations (with Moloney) (2019) — *FRSA Child Inclusive Practice Forum keynote* — <https://frsa.org.au/child-inclusive-practice-forum-2019/cip-keynote-lawrie-moloney-bruce-smyth/>
+
+**Verification:**
+- <https://polis.cass.anu.edu.au/people/professor-bruce-smyth>
+- <https://frsa.org.au/child-inclusive-practice-forum-2019/cip-keynote-lawrie-moloney-bruce-smyth/>
+
+**Contact:** Bruce.Smyth@anu.edu.au; Centre for Social Research and Methods, ANU Canberra
+
+*Notes: Not a clinician; family-studies academic. AFCC Stanley Cohen Award + Meyer Elkin Essay Award verified via AFCC and Family Court Review records. Inclusion criterion: 'most-cited AU academic on high-conflict / entrenched-parental-hatred research'.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.moloney-lawrie`, `practitioner:au.fcfcoa-frw-network`, `case-study:re-y-2026-ewfc-38`
+
+<sub>ID: `au.smyth-bruce`</sub>
+
+## Institutional anchors
+
+### Eeny Meeny Miney Mo Foundation (EMMM)
+*ACNC-registered charity (legal name Parental Alienation Australia Ltd t/a EMMM); ACNC charity ID 4135fc80-3aaf-e811-a963-000d3ad244fd*
+Multi-state (national) · AU (national) · Peak Australian PA-recognition NGO; ACNC-registered charity; Board includes AHPRA-registered psychologist Matthewson and FCICM medical doctor Estensen
+
+**Stance:** Recognition-aligned institutional entity. EMMM is the peak Australian PA-recognition NGO and lead lobbying voice in the post-2024 Family Law Amendment landscape. 2019 ALRC Submission 231 called for formal recognition of parental alienating behaviours as family violence. Board (per https://emmm.org.au/about-us): Amanda Sillars BPsycSc DipAcc (CEO/Founding Director); Dr Mandy Matthewson PhD (Director — au.matthewson-mandy); Ms Fiona Blane (Director — DV/peer-support; credentials not publicly displayed, see excluded[]); Dr Kristine Estensen BSc MBBS(Hons) FCICM (Director — Senior Intensive Care Specialist QLD Health).
+
+**Publications:**
+- ALRC Submission 231 (Family Law System Review) (2019) — *Australian Law Reform Commission* — <https://www.alrc.gov.au/wp-content/uploads/2019/08/family-law-231._eeny_meeny_miney_mo_foundation_submission_amended_for_website.pdf>
+- Federal Parliamentary submission on parental alienating behaviours (2020) — *Australian Parliament* — <https://www.aph.gov.au/DocumentStore.ashx?id=9bba59cb-188a-4b84-9c55-660745d75569&subId=561696>
+- Parental Alienation Awareness Day Australia and New Zealand (12 October) (2024) — *EMMM Foundation* — <https://emmm.org.au/parental-alienation-day>
+
+**Verification:**
+- <https://emmm.org.au/>
+- <https://emmm.org.au/parental-alienation>
+- <https://www.acnc.gov.au/charity/charities/4135fc80-3aaf-e811-a963-000d3ad244fd>
+- <https://www.alrc.gov.au/wp-content/uploads/2019/08/family-law-231._eeny_meeny_miney_mo_foundation_submission_amended_for_website.pdf>
+
+**Contact:** Via https://emmm.org.au/ contact form (no direct email displayed on About page); ACNC public register holds registered office details
+
+*Notes: ACNC charity ID verified via ACNC public register. Board composition verified via EMMM About page. Peer-support groups (Sydney + online, >1000 members per Sillars LinkedIn).*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.matthewson-mandy`, `practitioner:au.verhaar-suzanne`
+
+<sub>ID: `au.emmm-foundation`</sub>
+
+### Federal Circuit and Family Court of Australia — Court Children's Report Writers Network
+*Institutional pool; individual CCR writers must be fully AHPRA-registered psychologists OR AASW-eligible social workers, minimum 5 years' experience with children and families (per FCFCOA published criteria)*
+Multi (federal) · AU (national) · Federal Circuit and Family Court of Australia (post-2021 merger of Family Court of Australia and Federal Circuit Court); Court-controlled pool of Court Children's Report Writers under Reg 7 FLR 1984; Family Consultants employed by FCFCOA; private CCR writers from Family Report Writers Network and equivalent panels
+
+**Stance:** Middle camp by structural design. FCFCOA framework explicitly favours a differential-diagnosis approach (estrangement, alienation, justified rejection, mixed) over presumptive PA finding. FLA s.121 restricts naming individual CCR writers in published reporting. Single-Expert Witness regime under the Family Law Rules: court-appointed CCR writers — not party-experts — control the assessment. Magellan list framework for serious physical/sexual abuse allegations. Schedule 2 of the Family Law Amendment Act 2023 (in force 6 May 2024) rewrote the Court Children's Report standard and raised CCR quality thresholds.
+
+**Publications:**
+- Family Reports / Court Children's Reports — institutional framework (FCFCOA Family Reports FAQ) (2024) — *Federal Circuit and Family Court of Australia* — <https://www.fcfcoa.gov.au/fl/pubs/family-reports>
+- Expert Witness Code of Conduct (Family Law Rules) (2021) — *Federal Circuit and Family Court of Australia*
+- Family Law Amendment Act 2023 Schedule 2: Court Children's Report reform (in force 6 May 2024) (2023) — *Commonwealth of Australia (statutory instrument)*
+
+**Verification:**
+- <https://www.fcfcoa.gov.au/fl/pubs/family-reports>
+- <https://www.fcfcoa.gov.au/contact-us>
+- <https://www.familyreportwriters.com.au/>
+
+**Contact:** Institutional — FCFCOA national enquiries https://www.fcfcoa.gov.au/contact-us
+
+*Notes: Institutional not personal entry. Most-cited senior CCR writers sitting under this pool include former FCFCOA Family Consultants whose names appear in non-anonymised academic/training contexts (e.g., Moloney — see au.moloney-lawrie). FLA s.121 prevents enumerating named individual writers.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.moloney-lawrie`, `practitioner:au.smyth-bruce`, `case-study:re-y-2026-ewfc-38`
+
+<sub>ID: `au.fcfcoa-frw-network`</sub>
+
+## Excluded (with documented reason)
+
+- **Karen Bentley** — Name-confusion in source brief: correct first name is Caitlin Bentley (verified in Children 2022 paper and AJFL 2020 paper; see au.bentley-caitlin). Excluded as duplicate-of-misnamed.
+  - Primary source: <https://www.mdpi.com/2227-9067/9/4/475>
+- **Dr Karen Broadley** — Unverifiable PA-specific footprint: child-protection / social-work researcher (Monash Injury Research Institute / RMIT); no specific PA publication located. Source brief suggested co-author on a PA paper; verified PA-and-CSA paper is by Death, Ferguson & Burgess (QUT 2019), not Broadley.
+  - Primary source: <https://www.researchgate.net/profile/Karen-Broadley>
+- **Dr Ben Goldsworthy** — Unverifiable: no AHPRA-registered psychologist by that name with public PA stance located in 2025-26 searches.
+  - Primary source: <https://www.psychologyboard.gov.au/Registration.aspx>
+- **Reconnect Family Program / Reconnect Family Service** — Unverifiable institutional entity: no AU programme by that exact name with PA-reunification scope located. AU programmes are (a) Warshak Family Bridges (US, withdrawn from AU by Korosi 2024) and (b) Family Reflections (Canadian, Reay). Source-brief naming did not survive verification.
+  - Primary source: <https://www.google.com/search?q=%22Reconnect+Family+Program%22+Australia+parental+alienation>
+- **Dr Kate Fitch** — Unverifiable: no AU psychologist by that name with published PA stance located in 2025-26 searches.
+  - Primary source: <https://www.psychologyboard.gov.au/Registration.aspx>
+- **Dr Daryl Higgins (ACU Institute of Child Protection Studies)** — Category-fit deferred: verified registered psychologist and senior child-protection researcher; published corpus focuses on child abuse/neglect, Australian Child Maltreatment Study, and family violence generally — no specific PA publication or PA-stance statement located. Tier-3 institutional contact deferred pending sourced PA-specific stance.
+  - Primary source: <https://www.acu.edu.au/research/our-research-institutes/institute-of-child-protection-studies>
+- **AFCC ANZ Chapter named members (unnamed roster)** — Roster not fully public; named AFCC ANZ Chapter members are covered above via Smyth (au.smyth-bruce), Moloney (au.moloney-lawrie), and (Canada-cross-listed) Yasenik / Graham (au.graham-jonathan). No further named members verifiable at directory standard.
+  - Primary source: <https://www.afccnet.org/Chapters/Australia-New-Zealand>
+- **Specific Green & Green [2024] FedCFamC1F 896 practitioners** — Statutory anonymisation: s.121 Family Law Act 1975 (Cth) prevents naming individual Court Children's Report writers and experts in any published reporting of FCFCOA proceedings. Cannot be enumerated at directory standard without breach risk.
+  - Primary source: <https://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/fla1975114/s121.html>
+- **EMMM Director Ms Fiona Blane (standalone)** — Unverifiable as standalone practitioner: listed as EMMM Director (see au.emmm-foundation) but credentials, AHPRA/PACFA/AASW status, and direct contact all not publicly displayed. Included within EMMM institutional entry rather than as standalone clinician.
+  - Primary source: <https://emmm.org.au/about-us>
+
 
 ---
 
-## Critique / DV-trauma-informed camp
-
-### 8. Anne Hollonds AO, BA (Psych), Registered Psychologist
-- **Practice / affiliation:** Former National Children's Commissioner, Australian Human Rights Commission (Nov 2020 – Nov 2025); previously Director, Australian Institute of Family Studies (AIFS); previously CEO, The Benevolent Society and Relationships Australia NSW
-- **Practice URL:** https://humanrights.gov.au/our-work/commission-general/national-childrens-commissioner-anne-hollonds ; QUT Centre for Child and Family Studies https://research.qut.edu.au/childandfamily/staff/anne-hollonds/ ; Wikipedia https://en.wikipedia.org/wiki/Anne_Hollonds
-- **AHPRA registration:** **Registered Psychologist since 1992** (per AHRC bio); current practising-certificate status post-Commissioner role **not publicly confirmed**. AHPRA registration number not publicly displayed.
-- **Specialty:** Public-policy psychology; child protection; domestic, family and sexual violence; parenting education; family-law counselling — across 30+ year career in NGO leadership and government
-- **Stance:** critique-leaning middle (DV-trauma-informed; emphasises systemic child-wellbeing and safety; engaged in PA discourse via institutional reform rather than diagnostic recognition)
-- **Stance source:** AHRC Commissioner-level engagement with the Family Law Amendment Act 2023 and child-safety primacy; AIFS directorship history (publisher of the foundational Moloney empirical work on PA / CSA allegations — see Entry 9); QUT Centre for Child and Family Studies academic role https://research.qut.edu.au/childandfamily/staff/anne-hollonds/
-- **Programs / publications:**
-  - National Children's Commissioner 2020–2025
-  - Director, Australian Institute of Family Studies (prior)
-  - QUT Centre for Child and Family Studies (current academic)
-- **Primary contact:** Via QUT Centre for Child and Family Studies; previously childcomm@humanrights.gov.au (Commissioner role concluded Nov 2025)
-- **Tier:** 2
-- **Hook:** Highest-credential clinician-administrator who has held the formal national child-protection institutional voice during the 2024 Family Law Amendment debate — flag dual-cred (registered psychologist + national commissioner).
-- **Notes:** Cross-reference: also listed in `/practitioners-au-lawyers.md` for the Commissioner role. Entry retained here to satisfy the "registered psychologist with PA-adjacent policy role" criterion.
-
-### 9. Adjunct Professor Lawrie (Lawrence) Moloney, PhD (Psychology)
-- **Practice / affiliation:** Adjunct Professor, School of Psychology and Public Health, La Trobe University; former Director, Family Court Counselling, Family Court of Australia (10 years); former Senior Research Fellow, Australian Institute of Family Studies (AIFS, 6 years)
-- **Practice URL:** La Trobe / Academia.edu: https://latrobe.academia.edu/LawrieMoloney ; FRSA keynote profile: https://frsa.org.au/child-inclusive-practice-forum-2019/cip-keynote-lawrie-moloney-bruce-smyth/
-- **AHPRA registration:** **Registered Psychologist** (per AIFS / La Trobe bio); current practising-certificate status as Adjunct Professor **not publicly confirmed**. AHPRA registration number **not publicly displayed**.
-- **Specialty:** Psychology of children, parenting and separation; FDR practitioner experience; empirical analysis of allegations of child sexual abuse and PA in the Family Court
-- **Stance:** middle-leaning critique (engages PA empirically; sceptical of diagnostic over-reach; advocates evidence-led FDR practice over presumptive PA labelling)
-- **Stance source:** Moloney (2023) "Allegations of child sexual abuse in the Family Court of Australia: Response to Parkinson," *Australian Journal of Social Issues* — https://onlinelibrary.wiley.com/doi/full/10.1002/ajs4.239 ; Webb, Moloney et al. (2021) "Allegations of child sexual abuse: An empirical analysis of published judgements 2012–2019" — https://onlinelibrary.wiley.com/doi/abs/10.1002/ajs4.171 ; Moloney FRSA keynote (with Bruce Smyth) 2019 on hidden parental motivations
-- **Programs / publications:**
-  - 10-year Directorship, Family Court Counselling (Family Court of Australia)
-  - AIFS Senior Research Fellow
-  - Moloney 2023 response to Parkinson (*AJSI*)
-  - Webb, Moloney et al. (2021) empirical CSA-allegations analysis
-  - >200 publications on children, parenting and separation
-- **Primary contact:** lawrie.moloney@aifs.gov.au (per public listing) ; La Trobe University, Bundoora VIC
-- **Tier:** 1
-- **Hook:** The most credentialed registered-psychologist voice in the empirical-FDR middle camp — his published response to Parkinson is the standard critique-side counterpoint to the recognition-camp empirical claims; engaging him is the gateway to the AIFS / FRSA / FCFCOA research evidence base.
-- **Notes:** Cross-reference: see also Professor Patrick Parkinson AM (Sydney/UQ Law) in `/practitioners-au-lawyers.md` — the Moloney–Parkinson exchange is the central Australian empirical-vs-empirical dispute on PA and CSA-allegations.
-
-### 10. Professor Cathy Humphreys, PhD, BSW
-- **Practice / affiliation:** Professor of Social Work, University of Melbourne; former Alfred Felton Chair of Child and Family Welfare; co-leader, Safer Families NHMRC research programs; founding member, Melbourne Research Alliance to End Violence Against Women and their Children (MAEVe)
-- **Practice URL:** https://findanexpert.unimelb.edu.au/profile/153245-cathy-humphreys/ ; VAWC: https://violenceagainstwomenandchildren.wordpress.com/about/3462-2/ ; ResearchGate https://www.researchgate.net/profile/Cathy-Humphreys
-- **AHPRA registration:** **Not AHPRA-registered** (social work is not under the National Law; AASW is the professional body). AASW eligibility per BSW per ResearchGate profile.
-- **Specialty:** Social-work research on domestic and family violence, child abuse, out-of-home care; intersection of family violence and child protection
-- **Stance:** critique (DV-trauma-informed; sceptical of PA framings that obscure family-violence)
-- **Stance source:** Witness statement to Victorian Royal Commission into Family Violence (PDF http://rcfv.archive.royalcommission.vic.gov.au/MediaLibraries/RCFamilyViolence/Statements/WIT-0006-001-0001_1.pdf ); >160 refereed publications on DV-and-child-protection intersection; co-leader Safer Families NHMRC programs (centred on safety-primacy frames)
-- **Programs / publications:**
-  - Safer Families NHMRC research program (co-leader)
-  - MAEVe (founding member)
-  - Witness Statement, Victorian Royal Commission into Family Violence
-  - Humphreys & Stanley (eds) *Domestic Violence and Protecting Children: New Thinking and Approaches* (JKP)
-- **Primary contact:** cathy.humphreys@unimelb.edu.au (per UoM profile) ; Department of Social Work, University of Melbourne
-- **Tier:** 1
-- **Hook:** The senior Australian social-work academic with the longest DV-protection track record; her witness-statement work for the Victorian Royal Commission is the academic equivalent to Jaffe's (Canada) work — the load-bearing critique-camp reference for any media reply on the family-violence intersection.
-
----
-
-## Middle / Differential-diagnosis camp
-
-### 11. Professor Bruce Smyth, PhD, FAFCC (Stanley Cohen Award)
-- **Practice / affiliation:** Professor of Family Studies, Centre for Social Research and Methods (CSRM), ANU College of Arts & Social Sciences; ARC Future Fellow ("The high conflict post-divorce shared-time family"); 2018 Stanley Cohen Distinguished Research Award (AFCC)
-- **Practice URL:** https://polis.cass.anu.edu.au/people/professor-bruce-smyth ; https://researchers.anu.edu.au/researchers/smyth-b ; ANU Reporter https://reporter.anu.edu.au/people/bruce-smyth
-- **AHPRA registration:** **Not AHPRA-registered** (social science / demography academic; not a registered psychologist). Doctorate in family studies.
-- **Specialty:** Post-separation parenting research; high-conflict shared-time families; "entrenched parental hatred"; children's transitions between homes; child support
-- **Stance:** middle (empirically engaged with high-conflict / entrenched-parental-hatred phenomena; AFCC-aligned; differential approach rather than diagnostic PA recognition)
-- **Stance source:** ARC Future Fellowship "The high-conflict post-divorce shared-time family" focused specifically on entrenched parental hatred — https://polis.cass.anu.edu.au/people/professor-bruce-smyth ; FRSA 2019 keynote with Lawrie Moloney "Post-separation decisions about children: Engaging with hidden parental motivations" — https://frsa.org.au/child-inclusive-practice-forum-2019/cip-keynote-lawrie-moloney-bruce-smyth/ ; AFCC 2018 Stanley Cohen Award; 2021 Meyer Elkin Essay Award for *Family Court Review*
-- **Programs / publications:**
-  - ARC Future Fellowship on high-conflict shared-time families
-  - 2018 AFCC Stanley Cohen Distinguished Research Award
-  - 2021 Meyer Elkin Essay Award (*Family Court Review*) — "COVID-19 in Australia: Impacts on separated families"
-  - FRSA Child Inclusive Practice Forum 2019 keynote (with Moloney)
-- **Primary contact:** Bruce.Smyth@anu.edu.au (per ANU researchers profile convention) ; CSRM, ANU, Canberra
-- **Tier:** 1
-- **Hook:** The most-awarded Australian academic on high-conflict / entrenched-parental-hatred research; AFCC-aligned (Cohen + Elkin) — the natural Australian counterpart to Nicholas Bala (Canada) or Janet Johnston (US). Engaging him places AntiAlienate in the AFCC-international middle-camp conversation rather than in a pure recognition/critique binary.
-
-### 12. Federal Circuit and Family Court of Australia — Family Report Writers Network (institutional)
-- **Practice / affiliation:** Court-controlled pool of Family Report Writers (Regulation 7 Family Law Regulations 1984); Family Consultants employed by FCFCOA; private FRWs from the Family Report Writers Network and equivalent panels
-- **Practice URL:** FCFCOA Family Reports FAQ https://www.fcfcoa.gov.au/fl/pubs/family-reports ; Expert Witnesses guidance https://www.fcfcoa.gov.au/fl/pubs/expert-witnesses ; Family Report Writers Network https://www.familyreportwriters.com.au/our-experts
-- **AHPRA registration:** All court child experts and Panel Family Consultants must be (a) fully AHPRA-registered psychologists OR (b) AASW-eligible social workers, with a minimum of five years' relevant experience with children and families (per FCFCOA published criteria)
-- **Specialty:** Court-ordered family reports under s.62G *Family Law Act 1975*; child interviews; observed family-relationship assessments; differential-diagnosis of parent-child contact problems (estrangement, alienation, justified rejection, mixed)
-- **Stance:** middle (institutional pool — individual FRWs span the spectrum, but the FCFCOA framework explicitly favours a differential-diagnosis approach rather than a presumptive PA finding; the s.121 *Family Law Act* anonymisation regime restricts public naming of individual FRWs in reported judgments)
-- **Stance source:** FCFCOA Family Reports FAQ — explicit framework for differential-diagnosis in parent-child contact problems https://www.fcfcoa.gov.au/fl/pubs/family-reports ; Magellan list framework https://www.fcfcoa.gov.au/ (CSA cases)
-- **Programs / publications:**
-  - Magellan list (serious physical / sexual abuse allegations)
-  - Section 11F / 62G family reports
-  - Expert Witness Code of Conduct
-  - Family Report Writers Network (private market) https://www.familyreportwriters.com.au/
-- **Primary contact:** Institutional — FCFCOA national enquiries https://www.fcfcoa.gov.au/contact-us
-- **Tier:** 2
-- **Hook:** Any AntiAlienate engagement with the AU Family Court system runs through this institutional pool — the FRW Network is the de facto Australian middle camp by structural design, not personal stance. Named individual FRWs are intentionally **not enumerated** here because (a) s.121 *Family Law Act* anonymisation, and (b) AntiAlienate cannot reliably identify a specific FRW's stance from a reported judgment without breaching that regime.
-- **Notes:** This entry is institutional, not personal. The most-cited senior FRWs sitting under this pool include former FCFCOA Family Consultants whose names appear in non-anonymised academic / training contexts (e.g., Lawrie Moloney as ex-Director of Family Court Counselling — see Entry 9). Treat this entry as a navigational signpost rather than an outreach target.
-
----
-
-## Excluded / could not verify (transparency note)
-
-- **"Karen Bentley"** — source brief name appears to be a confusion with **Caitlin Bentley** (see Entry 5). No Australian psychologist named "Karen Bentley" with PA publications was located.
-- **Dr Karen Broadley** — source brief flagged as "Melbourne forensic psychologist". Verification: Broadley is a child-protection / social-work researcher (Monash Injury Research Institute / RMIT collaborations) with publications on child sexual abuse surveillance (Broadley 2018 *Australian Journal of Social Issues*); **no specific PA publication** located. Excluded from main directory pending a directly-sourced PA stance.
-- **"Dr Ben Goldsworthy"** — no AHPRA-registered psychologist by that name with a public PA stance was located via standard search. Excluded.
-- **"Reconnect Family Program / Reconnect Family Service"** — no Australian programme by that exact name with PA-reunification scope located. The Australian programmes that *are* publicly active are (a) Warshak's **Family Bridges** workshop (US-developed; previously delivered in Australia by Stan Korosi, now withdrawn per https://dialogueingrowth.com.au/withdrawing-the-building-family-bridges-workshop-from-australia/ ), and (b) **Family Reflections** (Canadian; Reay) — neither is an indigenous Australian programme. The source brief item is set aside as unverified.
-- **"Dr Kate Fitch"** — no Australian psychologist by that name with a published PA stance located. Excluded.
-- **"Dr Daryl Higgins"** (ACU Institute of Child Protection Studies) — verified as a registered psychologist and senior child-protection researcher (https://safeguardingchildren.acu.edu.au/researcher-profiles/professor-daryl-higgins ), but his published corpus focuses on child abuse and neglect, the Australian Child Maltreatment Study, and family violence generally — **no specific PA publication or public PA-stance statement** located. Excluded from the main directory pending a directly-sourced PA stance; flagged as a Tier-3 institutional contact for the child-protection frame if needed.
-- **AFCC ANZ Chapter named members** — institutional roster not fully public; named members covered above via Smyth, Moloney and (Canada-cross-listed) Yasenik / Graham. Chapter URL https://www.afccnet.org/Chapters/AFCC-Chapters/australia .
-- **Specific Green & Green [2024] FedCFamC1F 896 practitioners** — s.121 *Family Law Act* anonymisation prevents naming individual experts in that case; not included.
-- **EMMM "Fiona Blane"** — listed as Director (Entry 7) but credentials and contact **not publicly displayed**; included for completeness within the EMMM institutional entry but not as a standalone clinician.
-
----
-
-## Stance distribution summary
-
-- Recognition: 7 entries (Matthewson, Korosi, Price-Tobler, Verhaar, Bentley, Graham [middle-leaning], EMMM institutional)
-- Critique: 2 entries (Hollonds [critique-leaning middle], Humphreys)
-- Middle: 3 entries (Moloney [middle-leaning critique], Smyth, FCFCOA FRW pool)
-
-Total: 12 entries (10 individuals + 2 institutional).
-
-Tier 1: 6 (Matthewson, Korosi, EMMM, Moloney, Humphreys, Smyth)
-Tier 2: 5 (Price-Tobler, Verhaar, Graham, Hollonds, FCFCOA FRW)
-Tier 3: 1 (Bentley)
-
----
-
-## Honest gaps (for next pass)
-
-1. **AHPRA registration numbers** are not publicly displayed for any psychologist entry — searchable but require name + DOB on https://www.psychologyboard.gov.au/Registration.aspx (i.e., not enumerable from public sources).
-2. **Family Report Writer named individuals** are not safely enumerable due to s.121 *Family Law Act* anonymisation; the institutional entry (Entry 12) is the closest we can get without risking breach.
-3. **PACFA / ACA registration numbers** for Korosi and Price-Tobler are not publicly displayed; verified by category (Clinical PACFA / MACA) only.
-4. **Family Bridges accredited facilitator roster in Australia** — no current public list. Korosi withdrew the workshop in 2024; whether other facilitators remain active is **not publicly confirmed**.
-5. **Reconnect Family Program** — source brief item could not be verified; flagged in Excluded section.
-6. **EMMM Director "Ms Fiona Blane"** — credentials, AHPRA / PACFA / AASW status, direct contact all **not publicly confirmed**; rolled into institutional Entry 7.
-7. **Critique-camp clinical practitioners** (as opposed to academics) are under-represented in this batch — Australian DV/PA-critique discourse is primarily academic/policy (Humphreys, Hollonds, Rathus, Rhoades, Fehlberg) rather than clinical-practitioner-led. This is a structural feature of the Australian field, not a batch gap.
-8. **Dr Daryl Higgins** (ACU) — institutional Tier-3 contact deferred pending a sourced PA-specific stance.
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

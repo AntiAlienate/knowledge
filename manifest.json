@@ -1,0 +1,38 @@
+{
+  "manifest_version": "1.0",
+  "repository": "AntiAlienate/antialienate-knowledge",
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-31T16:13:00Z",
+  "schemas": {
+    "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
+    "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json"
+  },
+  "id_format": {
+    "practitioner": "<country_code lowercase>.<slug>  e.g. de.zimmermann-walper-fichtner",
+    "case-study": "<slug>  e.g. bverfg-1-bvr-1076-23-germany-2023",
+    "jurisdiction": "<filename stem under jurisdictions/>  e.g. germany",
+    "evidence": "<filename stem under evidence/>  e.g. alienating-tactics-as-child-abuse"
+  },
+  "cross_link_format": "<type>:<id>  e.g. case-study:bverfg-1-bvr-1076-23-germany-2023",
+  "consumption": {
+    "rag": "Prefer JSON over MD. Use entry.id / case-study.slug as stable vector-ID prefix.",
+    "discovery": "Walk this manifest; per-type index.json files give compact listings.",
+    "updates": "Watch GitHub commits to practitioners/**.json and case-studies/**.json; re-ingest on change.",
+    "anonymisation": "Children + family parties are anonymised per the deciding court's convention. Do not attempt de-anonymisation.",
+    "license": "CC BY 4.0 — attribute to AntiAlienate Knowledge with link."
+  },
+  "counts": {
+    "practitioners_therapists": 14,
+    "practitioners_lawyers": 0,
+    "case_studies": 9,
+    "jurisdictions": 0,
+    "evidence_pages": 0
+  },
+  "indexes": {
+    "practitioners_therapists": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/index.json",
+    "practitioners_lawyers": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/lawyers/index.json",
+    "case_studies": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.json"
+  },
+  "jurisdictions": [],
+  "evidence": []
+}

@@ -6,10 +6,10 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 
 | Country / Region | Markdown | Machine-readable JSON | Schema | Entries |
 |---|---|---|---|---|
-| **United States** | [us.md](us.md) | [us.json](us.json) | v1.0 (legacy) | 19 verified |
-| **United Kingdom (E&W)** | [uk.md](uk.md) | [uk.json](uk.json) | v1.0 (legacy) | 12 verified + 1 excluded |
-| **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | v1.0 (legacy) | 12 verified + 16 borderline/excluded |
-| **Australia** | [au.md](au.md) | [au.json](au.json) | v1.0 (legacy) | 12 verified + 9 excluded |
+| **United States** | [us.md](us.md) | [us.json](us.json) | **v2.0** | 19 verified + 12 excluded |
+| **United Kingdom (E&W)** | [uk.md](uk.md) | [uk.json](uk.json) | **v2.0** | 12 verified + 8 excluded |
+| **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | **v2.0** | 17 verified + 16 excluded |
+| **Australia** | [au.md](au.md) | [au.json](au.json) | **v2.0** | 12 verified + 9 excluded |
 | **New Zealand** | [nz.md](nz.md) | [nz.json](nz.json) | v1.0 (legacy) | 15 verified |
 | **Germany** | [germany.md](germany.md) | [germany.json](germany.json) | **v2.0** | 16 verified + 9 excluded |
 | **Spain** | [spain.md](spain.md) | [spain.json](spain.json) | **v2.0** | 16 verified + 3 excluded |
