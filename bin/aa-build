@@ -505,6 +505,149 @@ def cmd_aggregate(args) -> int:
     return 0
 
 
+# ---------- manifest ----------
+
+RAW_BASE = "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main"
+SITE_BASE = "https://github.com/AntiAlienate/antialienate-knowledge/blob/main"
+
+
+def cmd_manifest(args) -> int:
+    """Write /manifest.json (canonical enumeration for downstream consumers)
+    plus per-type indexes:
+      practitioners/therapists/index.json
+      practitioners/lawyers/index.json
+      case-studies/index.json
+    Every downstream consumer (Liena RAG / Archon / search / external citers) can
+    walk manifest.json to discover every entity, its schema, and its URLs."""
+    import datetime
+    now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+
+    schemas = {
+        "practitioner": f"{RAW_BASE}/schemas/practitioner.schema.json",
+        "case-study": f"{RAW_BASE}/schemas/case-study.schema.json",
+    }
+
+    def file_meta(path: pathlib.Path) -> dict:
+        rel = path.relative_to(REPO_ROOT).as_posix()
+        return {
+            "path": rel,
+            "json_url": f"{RAW_BASE}/{rel}",
+            "md_url": f"{RAW_BASE}/{rel[:-5]}.md" if rel.endswith(".json") else None,
+            "html_url": f"{SITE_BASE}/{rel}",
+        }
+
+    practitioners: dict[str, list[dict]] = {"therapists": [], "lawyers": []}
+    for kind in practitioners.keys():
+        d = PRACTITIONERS / kind
+        if not d.exists():
+            continue
+        for f in sorted(d.glob("*.json")):
+            try:
+                data = json.loads(f.read_text())
+            except json.JSONDecodeError:
+                continue
+            if data.get("schema_version") != "2.0":
+                continue
+            meta = file_meta(f) | {
+                "country": data.get("country"),
+                "country_code": data.get("country_code"),
+                "schema_version": data["schema_version"],
+                "entries_count": len(data.get("entries", [])),
+                "excluded_count": len(data.get("excluded", [])),
+                "entry_ids": [e["id"] for e in data.get("entries", []) if "id" in e],
+                "excluded_ids": [e["id"] for e in data.get("excluded", []) if "id" in e],
+            }
+            practitioners[kind].append(meta)
+        # per-type index
+        idx = {
+            "schema": schemas["practitioner"],
+            "type": kind,
+            "license": "CC-BY-4.0",
+            "generated": now,
+            "countries": practitioners[kind],
+        }
+        (d / "index.json").write_text(json.dumps(idx, indent=2, ensure_ascii=False) + "\n")
+
+    case_studies: list[dict] = []
+    if CASE_STUDIES.exists():
+        for f in sorted(CASE_STUDIES.glob("*.json")):
+            try:
+                data = json.loads(f.read_text())
+            except json.JSONDecodeError:
+                continue
+            meta = file_meta(f) | {
+                "slug": data.get("slug"),
+                "caption": data.get("caption"),
+                "ecli": data.get("ecli"),
+                "neutral_citation": data.get("neutral_citation"),
+                "jurisdiction_code": data.get("jurisdiction_code"),
+                "decision_date": data.get("decision_date"),
+                "court": data.get("court"),
+                "schema_version": data.get("schema_version"),
+                "references_count": len(data.get("references", [])),
+                "sources_count": len(data.get("sources", [])),
+            }
+            case_studies.append(meta)
+        idx = {
+            "schema": schemas["case-study"],
+            "type": "case-study",
+            "license": "CC-BY-4.0",
+            "generated": now,
+            "cases": case_studies,
+        }
+        (CASE_STUDIES / "index.json").write_text(json.dumps(idx, indent=2, ensure_ascii=False) + "\n")
+
+    jurisdictions = []
+    jd = REPO_ROOT / "jurisdictions"
+    if jd.exists():
+        for f in sorted(jd.glob("*.md")):
+            jurisdictions.append({"id": f.stem, "md_url": f"{RAW_BASE}/jurisdictions/{f.name}"})
+    evidence = []
+    ed = REPO_ROOT / "evidence"
+    if ed.exists():
+        for f in sorted(ed.glob("*.md")):
+            evidence.append({"id": f.stem, "md_url": f"{RAW_BASE}/evidence/{f.name}"})
+
+    manifest = {
+        "manifest_version": "1.0",
+        "repository": "AntiAlienate/antialienate-knowledge",
+        "license": "CC-BY-4.0",
+        "generated": now,
+        "schemas": schemas,
+        "id_format": {
+            "practitioner": "<country_code lowercase>.<slug>  e.g. de.zimmermann-walper-fichtner",
+            "case-study": "<slug>  e.g. bverfg-1-bvr-1076-23-germany-2023",
+            "jurisdiction": "<filename stem under jurisdictions/>  e.g. germany",
+            "evidence": "<filename stem under evidence/>  e.g. alienating-tactics-as-child-abuse",
+        },
+        "cross_link_format": "<type>:<id>  e.g. case-study:bverfg-1-bvr-1076-23-germany-2023",
+        "consumption": {
+            "rag": "Prefer JSON over MD. Use entry.id / case-study.slug as stable vector-ID prefix.",
+            "discovery": "Walk this manifest; per-type index.json files give compact listings.",
+            "updates": "Watch GitHub commits to practitioners/**.json and case-studies/**.json; re-ingest on change.",
+            "anonymisation": "Children + family parties are anonymised per the deciding court's convention. Do not attempt de-anonymisation.",
+            "license": "CC BY 4.0 — attribute to AntiAlienate Knowledge with link.",
+        },
+        "counts": {
+            "practitioners_therapists": len(practitioners["therapists"]),
+            "practitioners_lawyers": len(practitioners["lawyers"]),
+            "case_studies": len(case_studies),
+            "jurisdictions": len(jurisdictions),
+            "evidence_pages": len(evidence),
+        },
+        "indexes": {
+            "practitioners_therapists": f"{RAW_BASE}/practitioners/therapists/index.json",
+            "practitioners_lawyers": f"{RAW_BASE}/practitioners/lawyers/index.json",
+            "case_studies": f"{RAW_BASE}/case-studies/index.json",
+        },
+        "jurisdictions": jurisdictions,
+        "evidence": evidence,
+    }
+    (REPO_ROOT / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
+    print(f"manifest: written; {len(practitioners['therapists'])} v2 therapist files, {len(case_studies)} case studies, {len(jurisdictions)} jurisdictions, {len(evidence)} evidence pages")
+    return 0
+
+
 # ---------- build ----------
 
 def cmd_build(args) -> int:
@@ -513,6 +656,7 @@ def cmd_build(args) -> int:
     rc |= cmd_render(args)
     rc |= cmd_index(args)
     rc |= cmd_aggregate(args)
+    rc |= cmd_manifest(args)
     return 1 if rc else 0
 
 
@@ -526,7 +670,7 @@ def die(msg: str) -> None:
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="aa-build")
     sub = p.add_subparsers(dest="cmd", required=True)
-    for c in ("validate", "urls", "index", "aggregate", "build"):
+    for c in ("validate", "urls", "index", "aggregate", "manifest", "build"):
         sub.add_parser(c)
     refs = sub.add_parser("refs")
     refs.add_argument("--strict", action="store_true", help="fail (exit 1) on broken refs; default is warn-only during migration")
@@ -540,6 +684,7 @@ def main(argv: list[str] | None = None) -> int:
         "urls": cmd_urls,
         "index": cmd_index,
         "aggregate": cmd_aggregate,
+        "manifest": cmd_manifest,
         "build": cmd_build,
     }[args.cmd](args)
 
