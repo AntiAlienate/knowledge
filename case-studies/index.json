@@ -2,7 +2,7 @@
   "schema": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
   "type": "case-study",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T16:23:31Z",
+  "generated": "2026-05-31T17:21:29Z",
   "cases": [
     {
       "path": "case-studies/bverfg-1-bvr-1076-23-germany-2023.json",
@@ -35,6 +35,22 @@
       "schema_version": "1.0",
       "references_count": 5,
       "sources_count": 13
+    },
+    {
+      "path": "case-studies/cassazione-4595-2025-italy.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/cassazione-4595-2025-italy.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/cassazione-4595-2025-italy.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/cassazione-4595-2025-italy.json",
+      "slug": "cassazione-4595-2025-italy",
+      "caption": "Corte di Cassazione, Sez. I Civile, ordinanza n. 4595 del 2025",
+      "ecli": "ECLI:IT:CASS:2025:4595CIV",
+      "neutral_citation": null,
+      "jurisdiction_code": "IT",
+      "decision_date": "2025-02-21",
+      "court": "Corte Suprema di Cassazione, Sezione Prima Civile",
+      "schema_version": "1.0",
+      "references_count": 10,
+      "sources_count": 14
     },
     {
       "path": "case-studies/cassazione-9691-2022-italy.json",
@@ -101,6 +117,22 @@
       "sources_count": 5
     },
     {
+      "path": "case-studies/re-h-n-2021-ewca-civ-448.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/re-h-n-2021-ewca-civ-448.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/re-h-n-2021-ewca-civ-448.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/re-h-n-2021-ewca-civ-448.json",
+      "slug": "re-h-n-2021-ewca-civ-448",
+      "caption": "Re H-N (Children) (Domestic Abuse: Finding of Fact Hearings) [2021] EWCA Civ 448",
+      "ecli": null,
+      "neutral_citation": "[2021] EWCA Civ 448",
+      "jurisdiction_code": "UK-EWS",
+      "decision_date": "2021-03-30",
+      "court": "Court of Appeal (Civil Division), on appeal from Central Family Court, Guildford Combined Court and Family Court, Canterbury Combined Court Centre",
+      "schema_version": "1.0",
+      "references_count": 6,
+      "sources_count": 13
+    },
+    {
       "path": "case-studies/re-y-2026-ewfc-38.json",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/re-y-2026-ewfc-38.json",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/re-y-2026-ewfc-38.md",
@@ -117,6 +149,22 @@
       "sources_count": 7
     },
     {
+      "path": "case-studies/scjn-ai-11-2016-oaxaca-mexico.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/scjn-ai-11-2016-oaxaca-mexico.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/scjn-ai-11-2016-oaxaca-mexico.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/scjn-ai-11-2016-oaxaca-mexico.json",
+      "slug": "scjn-ai-11-2016-oaxaca-mexico",
+      "caption": "Suprema Corte de Justicia de la Nación, Acción de Inconstitucionalidad 11/2016",
+      "ecli": null,
+      "neutral_citation": null,
+      "jurisdiction_code": "MX",
+      "decision_date": "2017-10-26",
+      "court": "Suprema Corte de Justicia de la Nación, Tribunal Pleno (en banc)",
+      "schema_version": "1.0",
+      "references_count": 6,
+      "sources_count": 14
+    },
+    {
       "path": "case-studies/sts-519-2017-spain.json",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/sts-519-2017-spain.json",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/sts-519-2017-spain.md",
@@ -131,6 +179,22 @@
       "schema_version": "1.0",
       "references_count": 8,
       "sources_count": 9
+    },
+    {
+      "path": "case-studies/tld-v-bg-2023-zagpjhc-801-south-africa.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/tld-v-bg-2023-zagpjhc-801-south-africa.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/tld-v-bg-2023-zagpjhc-801-south-africa.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/tld-v-bg-2023-zagpjhc-801-south-africa.json",
+      "slug": "tld-v-bg-2023-zagpjhc-801-south-africa",
+      "caption": "T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801",
+      "ecli": null,
+      "neutral_citation": "[2023] ZAGPJHC 801",
+      "jurisdiction_code": "ZA",
+      "decision_date": "2023-07-13",
+      "court": "High Court of South Africa, Gauteng Division, Johannesburg (Gauteng Local Division, sitting as upper guardian of all minors in its jurisdiction)",
+      "schema_version": "1.0",
+      "references_count": 12,
+      "sources_count": 14
     },
     {
       "path": "case-studies/vivek-singh-v-romani-singh-2017-india.json",
