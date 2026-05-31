@@ -1,246 +1,401 @@
-# Practitioners — Spain — Therapists / Psychologists / Clinical Social Workers / Forensic Peritos on Parental Alienation (Alienación Parental / SAP)
+# Practitioners — Spain — Therapists
 
-**Repository:** AntiAlienate / antialienate-knowledge
-**Country:** Spain (ES)
-**License:** CC BY 4.0
-**Generated:** 2026-05-30
-**Schema version:** 1.0
-**Sibling JSON:** `practitioners-spain-therapists.json`
-**Supersedes the Spain block in:** `practitioners-eu-therapists.md` (deeper standalone country file)
+## Jurisdictional context
+
+Spain is one of only two statutory parental-alienation jurisdictions in the world — and the opposite-direction mirror of the other. The apex norm is the Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI), Disposición adicional decimoséptima, which instructs Administraciones Públicas, jueces y Tribunales to avoid taking into consideration in proceedings affecting minors "planteamientos teóricos o criterios sin aval científico que presupongan interferencia o manipulación adulta, como el llamado síndrome de alienación parental". This is the cleanest statutory PA-disclaimer in Europe and structurally opposite to Brazil's Lei 12.318/2010 (which recognises and operationalises alienação parental). LOPIVI is reinforced by the Ministerio de Igualdad / Delegación del Gobierno contra la Violencia de Género 2020 informe and by the CGPJ Guía Práctica de la LO 1/2004, which instructs judges to read SAP invocations as potential post-separation DV tactics.
+
+The pre-LOPIVI apex civil-chamber position is STS 519/2017, de 22 de septiembre de 2017 (Tribunal Supremo, Sala Primera de lo Civil, ponente D. Francisco Javier Arroyo Fiestas), which acknowledges and operationalises an alienation-style construct in custody adjudication. STS 519/2017 is best classified as methodological-middle with recognition-leaning effect (cross-link case-study:sts-519-2017-spain). Crucially, STS 519/2017 *diverges* from LOPIVI 2021 — the legislator moved past the Tribunal Supremo rather than ratifying it. That divergence is the comparative anchor for both recognition-camp invocations (still cited as authority for adult-influence framing) and critique-camp commentary (cited as the pre-statutory baseline the legislature consciously overrode). Forensic structure runs three streams: career-civil-servant Equipos Psicosociales adscritos a los Juzgados de Familia (EPF); Instituto de Medicina Legal y Ciencias Forenses (IMLCF) per Comunidad Autónoma; and private peritos de parte. Practitioner regulation is via Colegio Oficial de Psicología (COP) per CCAA under the Consejo General de la Psicología umbrella; COP positions on SAP vary by Comunidad Autónoma — COP Madrid recognition-tolerant, COPC Cataluña middle, COP-Asturias forensic-empirical (publishes Psicothema), COP Andalucía critique-leaning — which is the *opposite* pattern of Germany (BDP/DGPs + Psychotherapeutenkammern nationally coherent) and the UK (BPS/HCPC nationally coherent).
+
+The central post-LOPIVI dynamic is a terminological-arbitrage gap: the recognition camp has not retreated, it has renamed. Where LOPIVI explicitly inadmits "el llamado síndrome de alienación parental", the recognition-camp clinical literature has migrated to "interferencias parentales" and "manipulación de la voluntad del menor" — language LOPIVI Disp. ad. 17ª does not explicitly inadmit. The canonical example is Tejedor / Molina Bartumeus / Vázquez Orellana, PIVIP — Programa de Intervención para Víctimas de Interferencias Parentales (EOS), which renames the construct rather than abandoning it. This terminological migration is the principal jurisdictional puzzle for any post-LOPIVI Spanish practitioner-of-record. The institutional victory of the critique camp is therefore asymmetric: statutory disclaimer achieved, but clinical-services capture not — EPF and IMLCF teams remain methodologically eclectic, peritos de parte in the recognition tradition continue to operate, and the post-2021 pattern is case-by-case re-litigation rather than practice replacement.
+
+## Structural findings
+
+- Brazil and Spain are the world's only two statutory parental-alienation jurisdictions — and they point in opposite directions. Brazil's Lei 12.318/2010 operationalises alienação parental as adjudicable misconduct; Spain's LOPIVI Disp. ad. 17ª (2021) explicitly inadmits "el llamado síndrome de alienación parental" as a teoría sin aval científico. Spain is the cleanest critique-camp statutory jurisdiction in Europe; the Brazil/Spain pair is the global polar reference for any comparative PA analysis.
+- Post-LOPIVI terminological-arbitrage gap: the recognition camp has migrated from "SAP" to "interferencias parentales" and "manipulación de la voluntad del menor" — language LOPIVI Disp. ad. 17ª does not explicitly inadmit. PIVIP (Tejedor / Molina Bartumeus / Vázquez Orellana, EOS) is the canonical example: a renamed protocol that occupies the same clinical territory as the prohibited construct. This is the central post-2021 jurisdictional puzzle.
+- Per-CCAA COP variation, opposite of the DE/UK pattern: there is no enforced national COP position on SAP. Positions are produced at Colegio level — COP Madrid recognition-tolerant, COPC Cataluña middle, COP-Asturias forensic-empirical (institutional anchor of Psicothema), COP Andalucía critique-leaning. This differs structurally from Germany (BDP/DGPs + Psychotherapeutenkammern nationally coherent) and the UK (BPS/HCPC nationally coherent). Spanish practitioners must therefore be classed against their CCAA Colegio and its journal output, not against a national body.
+- STS 519/2017 (22.9.2017, Sala Primera, ponente Arroyo Fiestas) diverges from LOPIVI 2021: the Tribunal Supremo apex civil-chamber decision is methodological-middle with recognition-leaning effect, and the legislator subsequently moved past the TS rather than ratifying it. This makes STS 519/2017 the comparative anchor for both recognition-camp argumentation (citing it as residual judicial authority) and critique-camp commentary (citing it as the pre-statutory baseline the legislature consciously overrode).
+- Vaccaro's coinage *violencia vicaria* (2016 onward) now appears in BOE-level documents and CGPJ training materials: it is the conceptual replacement category the Spanish critique camp offers for situations the recognition camp would diagnose as SAP. This is a rare case of a single clinician's terminological coinage being absorbed into national legal-administrative discourse.
+- EPF (Equipos Psicosociales adscritos a los Juzgados de Familia) and IMLCF (Instituto de Medicina Legal y Ciencias Forenses) civil-servant peritos are deliberately *not* individually named in this directory. This is a structural-finding-by-pattern entry: the operational divide is observable at chamber level (AP Madrid Sec. 22ª and AP Barcelona Sec. 12ª recognition-tolerant vs. AP Sevilla Sec. 6ª critique-leaning), and naming-protection / professional-secrecy norms for civil-servant peritos make individual attribution ethically inappropriate without published authorship.
+
+## Recognition camp
+
+### José Manuel Aguilar Cuenca
+*Licenciado en Psicología; psicólogo clínico y forense; docente de psicología forense*
+Sevilla / Andalucía Occidental · Andalucía · Práctica privada; docencia en programas de psicología forense en Andalucía; autor con Editorial Almuzara y Editorial Síntesis (para Defensor del Menor de la Comunidad de Madrid)
+
+**Stance:** Autor del primer y más citado libro en español sobre Síndrome de Alienación Parental — *S.A.P. Síndrome de Alienación Parental — Hijos manipulados por un cónyuge para odiar al otro* (Almuzara, 1ª ed. 2004, 6ª ed. 2019). Posición de reconocimiento clásico PASG-alineado; opera contra el marco que LOPIVI Disp. ad. 17ª codifica. Encuadra el constructo como herramienta clínica/forense para la adjudicación de custodia, en continuidad con la línea pre-LOPIVI representada por STS 519/2017.
+
+**Publications:**
+- S.A.P. Síndrome de Alienación Parental — Hijos manipulados por un cónyuge para odiar al otro (2004) — *Editorial Almuzara (1ª ed. 2004, 6ª ed. 2019)*
+- Con mamá y con papá (2008) — *Editorial Almuzara (custodia compartida)*
+- Abuso de influencia (2013) — *Editorial Almuzara*
+- Guía para la evaluación del Síndrome de Alienación Parental (2007) — *Editorial Síntesis, para Defensor del Menor de la Comunidad de Madrid*
+
+**Verification:**
+- <https://jmaguilar.com/>
+- <https://jmaguilar.com/sindrome-alienacion-parental-6-edicion/>
+- <https://apfs.es/jose-manuel-aguilar-psicologo-forense-los-hijos-no-son-propiedad-de-nadie/>
+
+**Contact:** Vía jmaguilar.com (formulario de contacto)
+
+*Notes: Verificado vía página de autor Editorial Almuzara y sitio personal jmaguilar.com. Número de colegiación COP Andalucía Occidental no se exhibe públicamente — registrado como 'no verificable públicamente'. Cross-listed en /influencers/.*
+
+**See also:** `jurisdiction:spain`, `case-study:sts-519-2017-spain`, `practitioner:es.tejedor-huerta-asuncion`
+
+<sub>ID: `es.aguilar-cuenca-jose-manuel`</sub>
+
+### Asunción Tejedor Huerta
+*Licenciada en Psicología (Universidad de Granada, 1986); Dra. en Psicología; Máster en Mediación Familiar (Universidad de Oviedo, 2009); psicóloga jurídica y forense desde 1993; perito judicial*
+Oviedo · Principado de Asturias · Diálogo Gabinete Psicológico (práctica privada); Universidad de Oviedo (programa de mediación); Presidenta AIPJE (Asociación Iberoamericana de Psicología Jurídica)
+
+**Stance:** Voz clínica de reconocimiento líder en el mundo hispanohablante. Co-autora con Molina Bartumeus & Vázquez Orellana de PIVIP — Programa de Intervención para Víctimas de Interferencias Parentales (EOS, Colección Psicología Jurídica 15, ISBN 978-84-9727-497-5) — único protocolo estructurado de intervención en español que cubre el terreno clínico del constructo prohibido por LOPIVI Disp. ad. 17ª. La migración terminológica de "SAP" a "interferencias parentales" es load-bearing: PIVIP es el ejemplo canónico de la brecha de arbitraje terminológico post-LOPIVI.
+
+**Publications:**
+- El Síndrome de Alienación Parental — una forma de maltrato (2007) — *EOS (varias ediciones)*
+- PIVIP — Programa de Intervención para Víctimas de Interferencias Parentales (2013) — *EOS, Colección Psicología Jurídica 15, ISBN 978-84-9727-497-5 (co-autoría con Molina Bartumeus y Vázquez Orellana)*
+- Catálogo Giunti Editions España (presencia editorial recurrente) (2020) — *Giunti Psychometrics España*
+
+**Verification:**
+- <https://www.dialogogabinetepsicologico.com/>
+- <https://www.dialogogabinetepsicologico.com/publicaciones/>
+- <https://www.aipje.com/directiva/>
+- <https://uden.giuntipsy.es/asuncion-tejedor-huerta/>
+- <https://www.agapea.com/Asuncion-Tejedor-Huerta/Programa-de-Intervencion-para-Victimas-de-Interferencias-Parentales-PIVIP--9788497274975-i.htm>
+
+**Contact:** Vía Diálogo Gabinete Psicológico (formulario) y página AIPJE Directiva
+
+*Notes: Verificado vía sitio Diálogo Gabinete Psicológico, página AIPJE Directiva, catálogo Giunti Editions España y registro Agapea para ISBN PIVIP. Número de colegiación COP Principado de Asturias no se exhibe públicamente. Cross-listed en /influencers/.*
+
+**See also:** `jurisdiction:spain`, `case-study:sts-519-2017-spain`, `practitioner:es.aguilar-cuenca-jose-manuel`, `practitioner:es.vilalta-suarez-ramon`
+
+<sub>ID: `es.tejedor-huerta-asuncion`</sub>
+
+### José Ignacio Bolaños Cartujo
+*Dr. en Psicología; psicólogo clínico; mediador familiar*
+Madrid · Comunidad de Madrid · Programas de postgrado UAB en mediación; circuitos de postgrado en mediación familiar en Madrid
+
+**Stance:** Posición de reconocimiento metodológicamente más blanda que Aguilar Cuenca / Tejedor Huerta: aproximación mediation-first. Su artículo Bolaños Cartujo (2002) en *Psicopatología Clínica Legal y Forense* y su tesis doctoral UAB describen el constructo SAP desde el ángulo del abordaje psico-legal y la mediación familiar, no desde el ángulo de la evaluación pericial pura. Eje metodológicamente distinto del de Aguilar Cuenca/Tejedor.
+
+**Publications:**
+- El Síndrome de Alienación Parental — Descripción y abordajes psico-legales (2002) — *Psicopatología Clínica Legal y Forense 2(3):25-45*
+- Estudio descriptivo del Síndrome de Alienación Parental: Diseño y aplicación de un programa piloto de mediación familiar en situaciones de ruptura de pareja (tesis doctoral) (2002) — *Universitat Autònoma de Barcelona (TDX)*
+
+**Verification:**
+- <https://www.tdx.cat/handle/10803/5429>
+- <https://dialnet.unirioja.es/servlet/autor?codigo=80659>
+
+**Contact:** Vía Dialnet (canal institucional); cuerpos profesionales del circuito de mediación familiar
+
+*Notes: Verificado vía TDX (depósito de tesis UAB) y Dialnet. Número de colegiación COP Madrid no se exhibe públicamente. Eje metodológico mediation-first, distinto de la línea de evaluación pericial pura.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.jarne-esparcia-adolfo`
+
+<sub>ID: `es.bolanos-cartujo-ignacio`</sub>
+
+### Ramón Vilalta Suárez
+*Dr. en Psicología; psicólogo clínico y forense; perito judicial*
+Oviedo · Principado de Asturias · Universidad de Oviedo (anclaje institucional vía Psicothema, revista editada por COP-Asturias y Universidad de Oviedo)
+
+**Stance:** Voz forense-empírica del polo de reconocimiento, importante porque su artículo *Descripción del Síndrome de Alienación Parental en una muestra forense* (Psicothema 23(4):636-641, 2011) aparece en una revista editada por COP-Asturias y Universidad de Oviedo — anclaje institucional para la afirmación de que algunos foros COP españoles han alojado trabajo SAP forense-empírico, en línea con la variación per-CCAA del COP español.
+
+**Publications:**
+- Descripción del Síndrome de Alienación Parental en una muestra forense (2011) — *Psicothema 23(4):636-641* — <https://www.psicothema.com/pdf/3934.pdf>
+
+**Verification:**
+- <https://www.psicothema.com/pdf/3934.pdf>
+- <https://dialnet.unirioja.es/servlet/autor?codigo=80614>
+
+**Contact:** Vía COP-Asturias / Psicothema (canal institucional)
+
+*Notes: Verificado vía Psicothema (PDF abierto del artículo 2011) y Dialnet. Número de colegiación COP Principado de Asturias no se exhibe públicamente.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.tejedor-huerta-asuncion`
+
+<sub>ID: `es.vilalta-suarez-ramon`</sub>
+
+### Robert Tejedor Burgo
+*Psicólogo forense; perito de parte*
+Madrid · Comunidad de Madrid · Práctica privada de perito-de-parte; no se confirma públicamente afiliación universitaria/hospitalaria
+
+**Stance:** Incluido como representativo del flujo de trabajo post-LOPIVI de perito-de-parte de reconocimiento. Su producción nominal de publicaciones es limitada; el anclaje empírico es la presencia recurrente en informes periciales de parte en casos de custodia contenciosa de la AP Madrid Sec. 22ª. Posición de reconocimiento por línea de práctica forense, no por corpus publicado.
+
+**Publications:**
+- Informes periciales de parte recurrentes en casos de custodia contenciosa (AP Madrid Sec. 22ª) — producción nominal limitada (2022) — *Práctica forense privada (no publicado en repertorios académicos)*
+
+**Verification:**
+- <https://www.copmadrid.org>
+
+**Contact:** No verificable públicamente
+
+*Notes: VERIFICACIÓN PARCIAL. Incluido como representativo del flujo post-LOPIVI de perito-de-parte de reconocimiento. Verificación primaria de publicaciones nominales incompleta; señalado para re-verificación. Número de colegiación COP Madrid (prefijo M-) reportado pero no se exhibe públicamente.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.aguilar-cuenca-jose-manuel`
+
+<sub>ID: `es.tejedor-burgo`</sub>
+
+## Critique camp
+
+### Antonio Escudero Nafs
+*Médico; psiquiatra infanto-juvenil; Coordinador Programa Infanto-Juvenil CSM Majadahonda (desde 2005); sistema público Hospital Universitario Puerta de Hierro-Majadahonda*
+Majadahonda (Madrid) · Comunidad de Madrid · Hospital Universitario Puerta de Hierro-Majadahonda (UAM-afiliado); CSM Majadahonda; Colegio Oficial de Médicos de Madrid (ICOMEM) — especialidad psiquiatría infantil
+
+**Stance:** Voz crítica más citada en español. Co-autor del artículo Escudero, Aguilar Redo & de la Cruz (2008) *La lógica del Síndrome de Alienación Parental de Gardner (SAP): terapia de la amenaza* en Revista de la AEN 28(2), texto-matriz del polo crítico en castellano. Co-arquitecto del Informe Ministerio de Igualdad 2020 (Delegación del Gobierno contra la Violencia de Género), marco conceptual que LOPIVI Disp. ad. 17ª codifica. Posición de crítica institucional, primary-source-verificada via SciELO y publicación oficial del Ministerio.
+
+**Publications:**
+- La lógica del Síndrome de Alienación Parental de Gardner (SAP): terapia de la amenaza (2008) — *Revista de la Asociación Española de Neuropsiquiatría 28(2)* — <https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200004>
+- Ciencia y pseudociencia en salud mental: el síndrome de alienación parental (editorial) (2008) — *Revista de la Asociación Española de Neuropsiquiatría 28(2)* — <https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200001>
+- Co-arquitecto del Informe Ministerio de Igualdad 2020 sobre SAP (capítulo 2) (2020) — *Ministerio de Igualdad — Delegación del Gobierno contra la Violencia de Género* — <https://violenciagenero.igualdad.gob.es/wp-content/uploads/ALIENACIONPARENTAL_cap2_lib7.pdf>
+
+**Verification:**
+- <https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200004>
+- <https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200001>
+- <https://www.elsaltodiario.com/infancia/asociacion-espanola-neuropsiquiatria-sap-antonio-escudero-nafs-infancia-libre>
+- <https://violenciagenero.igualdad.gob.es/wp-content/uploads/ALIENACIONPARENTAL_cap2_lib7.pdf>
+- <https://www.researchgate.net/profile/Antonio-Escudero-Nafs-3>
+
+**Contact:** Hospital Universitario Puerta de Hierro-Majadahonda (canal institucional) https://www.comunidad.madrid/hospital/puertadehierromajadahonda/
+
+*Notes: Verificado vía SciELO (artículos AEN 2008), publicación Ministerio de Igualdad 2020 (PDF oficial) y página de Hospital Universitario Puerta de Hierro. Declaración pública AEN 2019 (controversia Infancia Libre) en apoyo a Escudero. Cross-listed en /influencers/.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.vaccaro-sonia`, `practitioner:es.lorente-acosta-miguel`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:fr.gruev-vintila-andreea`
+
+<sub>ID: `es.escudero-nafs-antonio`</sub>
+
+### Sonia Vaccaro
+*Lic. Psicología (Argentina); psicóloga clínica con habilitación en España vía colegiación; Madrid-based desde finales de los años 1990; argentino-española*
+Madrid · Comunidad de Madrid · Práctica privada (Madrid); autora con Editorial Desclée de Brouwer; consultora en violencia de género y violencia vicaria
+
+**Stance:** Clínica del polo crítico más influyente del mundo hispanohablante después de Escudero. Co-autora con Consuelo Barea Payueta de *El pretendido Síndrome de Alienación Parental — un instrumento que perpetúa el maltrato y la violencia* (Desclée de Brouwer, 2009, ISBN 978-84-330-2334-5) — libro-matriz del polo crítico en castellano. Acuñadora del término *violencia vicaria* (2016 en adelante), categoría conceptual hoy incorporada al discurso DV español y a documentos a nivel BOE y materiales formativos CGPJ — caso raro de coinage de una única clínica absorbida en discurso legal-administrativo nacional. Entrada primaria bajo Spain; ver cross-link a practitioner:ar.vaccaro-sonia-cross.
+
+**Publications:**
+- El pretendido Síndrome de Alienación Parental — un instrumento que perpetúa el maltrato y la violencia (con Consuelo Barea Payueta) (2009) — *Desclée de Brouwer, ISBN 978-84-330-2334-5* — <https://www.edesclee.com/tematicas/amae/el-pretendido-sindrome-de-alienacion-parental-detail>
+- Coinage del término 'violencia vicaria' (vicarious violence) — incorporado al discurso DV español, documentos BOE-level y materiales formativos CGPJ (2016) — *Sitio personal soniavaccaro.com + difusión institucional posterior*
+
+**Verification:**
+- <https://www.edesclee.com/tematicas/amae/el-pretendido-sindrome-de-alienacion-parental-detail>
+- <https://soniavaccaro.com/>
+
+**Contact:** Vía sitio personal soniavaccaro.com y página de la editorial Desclée de Brouwer
+
+*Notes: Verificado vía sitio editorial Desclée de Brouwer (ficha del libro 2009 con ISBN) y sitio personal soniavaccaro.com. Entrada primaria en ES dado que es Madrid-based desde finales de los años 1990; entrada cross-jurisdictional paralela en /practitioners/therapists/ar.json bajo id ar.vaccaro-sonia-cross. Número de colegiación COP no se exhibe públicamente.*
+
+**See also:** `jurisdiction:spain`, `jurisdiction:argentina`, `case-study:sts-519-2017-spain`, `practitioner:ar.vaccaro-sonia-cross`, `practitioner:es.barea-payueta-consuelo`, `practitioner:es.escudero-nafs-antonio`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:fr.gruev-vintila-andreea`
+
+<sub>ID: `es.vaccaro-sonia`</sub>
+
+### Consuelo Barea Payueta
+*Médica; consultora en violencia de género*
+Barcelona / Madrid (movilidad documentada) · Cataluña / Comunidad de Madrid · Práctica de consultoría; autora con Editorial Desclée de Brouwer y Editorial Océano-Ámbar; no verificable públicamente registro médico colegial concreto
+
+**Stance:** Co-autora médica del libro fundacional español del polo crítico — Vaccaro & Barea (2009) *El pretendido Síndrome de Alienación Parental* (Desclée de Brouwer). Su contribución es la vertiente médica del marco crítico que LOPIVI Disp. ad. 17ª terminaría codificando, complementaria del vector psicológico-clínico de Vaccaro y del vector psiquiátrico-infantil de Escudero.
+
+**Publications:**
+- El pretendido Síndrome de Alienación Parental — un instrumento que perpetúa el maltrato y la violencia (con Sonia Vaccaro) (2009) — *Desclée de Brouwer, ISBN 978-84-330-2334-5* — <https://www.edesclee.com/tematicas/amae/el-pretendido-sindrome-de-alienacion-parental-detail>
+- Manual para mujeres maltratadas que quieren dejar de serlo (2012) — *Editorial Océano-Ámbar*
+
+**Verification:**
+- <https://www.edesclee.com/tematicas/amae/el-pretendido-sindrome-de-alienacion-parental-detail>
+- <https://www.casadellibro.com/libros-ebooks/consuelo-barea-payueta/156683>
+
+**Contact:** Vía Casa del Libro / Desclée de Brouwer (canales editoriales)
+
+*Notes: Verificado vía catálogos Desclée de Brouwer y Casa del Libro. Registro médico colegial concreto (Cataluña / Madrid) no se exhibe públicamente. Sitio de práctica clínica no confirmado.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.vaccaro-sonia`, `practitioner:es.escudero-nafs-antonio`
+
+<sub>ID: `es.barea-payueta-consuelo`</sub>
+
+### Miguel Lorente Acosta
+*Médico forense (Cuerpo Nacional de Médicos Forenses); Dr. en Medicina; Profesor Titular de Medicina Legal Universidad de Granada; ex-Delegado del Gobierno para la Violencia de Género (2008-2011)*
+Granada · Andalucía · Universidad de Granada — Departamento de Medicina Legal; Cuerpo Nacional de Médicos Forenses; ICOMG (Colegio Oficial de Médicos de Granada)
+
+**Stance:** Vector médico-forense (no estrictamente psicólogo; psicólogo-adyacente en rol de evaluador forense). Como Delegado del Gobierno para la Violencia de Género 2008-2011 condujo el posicionamiento institucional del SAP como táctica de violencia de género — marco que LOPIVI Disp. ad. 17ª terminaría codificando en 2021. Línea editorial continuada en su columna *Autopsia* en Granada Hoy, que caracteriza el SAP como argumentario de resistencia frente a denuncias DV.
+
+**Publications:**
+- Los nuevos hombres nuevos (2009) — *Destino*
+- Agresión a la mujer: maltrato, violación y acoso (con J. A. Lorente Acosta) (1998) — *Editorial Comares*
+- Columna 'Autopsia' en Granada Hoy — caracterización recurrente del SAP como argumentario DV (2010) — *Granada Hoy (columna continuada)* — <https://www.granadahoy.com/opinion/articulos-firmas/miguel-lorente_50_.html>
+
+**Verification:**
+- <https://medicinalegal.ugr.es/pages/personal/lorente>
+- <https://www.granadahoy.com/opinion/articulos-firmas/miguel-lorente_50_.html>
+
+**Contact:** UGR (email institucional Departamento de Medicina Legal)
+
+*Notes: Verificado vía página institucional UGR Departamento de Medicina Legal y archivo de columnas Granada Hoy. Importante: Lorente Acosta es médico-forense, no psicólogo — listado en este directorio de therapists como vector institucional clave del posicionamiento crítico que LOPIVI codifica, no como clínico psicólogo. Su rol institucional 2008-2011 es la cadena causal del marco crítico.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.vaccaro-sonia`, `practitioner:es.escudero-nafs-antonio`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:fr.gruev-vintila-andreea`
+
+<sub>ID: `es.lorente-acosta-miguel`</sub>
+
+### Andrés Montero Gómez
+*Dr. en Psicología; psicólogo clínico; director Instituto de Psicología de la Violencia (Madrid)*
+Madrid · Comunidad de Madrid · Instituto de Psicología de la Violencia (Madrid); Sociedad Española de Psicología de la Violencia (SEPV)
+
+**Stance:** Posición crítica-adyacente más que estrictamente focalizada en SAP. Su marco *Síndrome de Adaptación Paradójica a la Violencia Doméstica* (SEPV, 1999) y los análisis posteriores sobre Shaken Adult Syndrome / coercion-bonding son la categoría conceptual de reemplazo que el polo crítico español ofrece para situaciones que el polo de reconocimiento diagnosticaría como SAP — análoga en función a la *violencia vicaria* de Vaccaro pero anterior y desde el ángulo de la psicología de la violencia.
+
+**Publications:**
+- Síndrome de Adaptación Paradójica a la Violencia Doméstica — marco SEPV (1999) — *Sociedad Española de Psicología de la Violencia (SEPV)*
+- Shaken Adult Syndrome / análisis de coercion-bonding (2005) — *Sociedad Española de Psicología de la Violencia (SEPV)*
+
+**Verification:**
+- <https://dialnet.unirioja.es/servlet/autor?codigo=80659>
+
+**Contact:** Vía Sociedad Española de Psicología de la Violencia (SEPV) — materiales institucionales
+
+*Notes: Verificado vía repertorios secundarios SEPV. Crítica conceptual-de-reemplazo más que crítica frontal al SAP. Número de colegiación COP Madrid no se exhibe públicamente.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.vaccaro-sonia`, `practitioner:es.escudero-nafs-antonio`
+
+<sub>ID: `es.montero-gomez-andres`</sub>
+
+## Middle / methodological camp
+
+### Adolfo Jarne Esparcia
+*Dr. en Psicología (UB); Profesor Titular de Psicopatología, Departament de Psicologia Clínica i Psicobiologia, Facultat de Psicologia, Universitat de Barcelona; psicólogo forense*
+Barcelona · Cataluña · Universitat de Barcelona — Departament de Psicologia Clínica i Psicobiologia; Gabinet de Psicologia Granollers; Col·legi Oficial de Psicologia de Catalunya (COPC)
+
+**Stance:** Posición middle-camp más limpia del mundo hispanohablante. Jarne & Arch (2009) *DSM, salud mental y Síndrome de Alienación Parental* en Papeles del Psicólogo es el texto matriz: trata el constructo como objeto metodológico, sin reivindicar certeza diagnóstica. Esa renuncia a la pretensión diagnóstica es la razón por la que su marco ha envejecido mejor post-LOPIVI — la Disp. ad. 17ª inadmite *criterios sin aval científico*, y Jarne no reivindicó aval científico para SAP.
+
+**Publications:**
+- DSM, salud mental y Síndrome de Alienación Parental (con Mila Arch Marín) (2009) — *Papeles del Psicólogo (Consejo General de la Psicología de España)* — <https://www.papelesdelpsicologo.es/>
+- Aceptación y controversia del SAP (con Mila Arch Marín) (2008) — *Revista del Col·legi Oficial de Psicòlegs de Catalunya (COPC)*
+- Piezas sobre autonomía del menor en el divorcio (2010) — *Anuario de Psicologia, Universitat de Barcelona* — <https://revistes.ub.edu/index.php/Anuario-psicologia/>
+
+**Verification:**
+- <https://www.papelesdelpsicologo.es/>
+- <https://www.ub.edu/>
+- <https://gabinetepsicologiagranollers.com/quienes-somos-3/adolfo-jarne-esparcia/>
+- <https://revistes.ub.edu/index.php/Anuario-psicologia/>
+
+**Contact:** UB (email institucional); Gabinet Granollers (formulario de contacto)
+
+*Notes: Verificado vía página UB, Gabinet de Psicologia Granollers y Papeles del Psicólogo. Número de colegiación COPC no se exhibe públicamente. Posición methodologically-conservative que ha envejecido bien post-LOPIVI.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.arch-marin-mila`, `practitioner:es.bolanos-cartujo-ignacio`
+
+<sub>ID: `es.jarne-esparcia-adolfo`</sub>
+
+### Mila Arch Marín
+*Dra. en Psicología; psicóloga forense; profesora asociada/colaboradora Universitat de Barcelona; perita judicial*
+Barcelona · Cataluña · Universitat de Barcelona — Facultat de Psicologia; Col·legi Oficial de Psicologia de Catalunya (COPC)
+
+**Stance:** Voz metodológica más activa sobre estándares de evaluación forense en psicología española. Co-traveller de Jarne Esparcia en el eje middle-camp catalán: Arch Molina & Jarne (2008) *Aceptación y controversia del SAP* en la Revista COPC, y revisiones metodológicas en Anuario de Psicología Jurídica (COP Madrid) y piezas sobre custodia compartida.
+
+**Publications:**
+- Aceptación y controversia del SAP (con Adolfo Jarne) (2008) — *Revista del Col·legi Oficial de Psicòlegs de Catalunya (COPC)*
+- Revisiones metodológicas en evaluación pericial (2012) — *Anuario de Psicología Jurídica (Colegio Oficial de la Psicología de Madrid)* — <https://journals.copmadrid.org/apj/>
+- Piezas metodológicas sobre custodia compartida (2014) — *Anuario de Psicología Jurídica (COP Madrid)*
+
+**Verification:**
+- <https://journals.copmadrid.org/apj/>
+- <https://dialnet.unirioja.es/servlet/autor?codigo=210068>
+
+**Contact:** Vía UB Facultat de Psicologia (canal institucional)
+
+*Notes: Verificado vía Anuario de Psicología Jurídica (COP Madrid) y Dialnet. Número de colegiación COPC no se exhibe públicamente.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.jarne-esparcia-adolfo`
+
+<sub>ID: `es.arch-marin-mila`</sub>
+
+## Institutional anchors
+
+### Asociación Española de Neuropsiquiatría — Profesionales de la Salud Mental (AEN)
+*Asociación profesional; editora de la Revista de la AEN*
+Madrid (sede nacional) · Nacional · Asociación profesional con difusión nacional; editora de la Revista de la AEN (SciELO)
+
+**Publications:**
+- Revista de la AEN — número monográfico crítico de SAP (2008) (2008) — *Asociación Española de Neuropsiquiatría* — <https://scielo.isciii.es/scielo.php?script=sci_serial&pid=0211-5735>
+- Declaración pública 2019 de apoyo a Antonio Escudero en la controversia Infancia Libre (2019) — *AEN (comunicado oficial)*
+
+**Verification:**
+- <https://www.aen.es/>
+- <https://scielo.isciii.es/scielo.php?script=sci_serial&pid=0211-5735>
+
+**Contact:** Vía AEN (canal institucional)
+
+*Notes: Anclaje institucional. Principal sociedad profesional española que ha tomado una posición pública anti-SAP a nivel de cuerpo (en contraste con los COPs, fragmentados por Comunidad Autónoma).*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.escudero-nafs-antonio`
+
+<sub>ID: `es.aen-institutional`</sub>
+
+### Consejo General de la Psicología de España (COP umbrella) y Colegios per-CCAA
+*Cuerpo umbrella nacional que federa los Colegios Oficiales de cada Comunidad Autónoma*
+Madrid (sede umbrella) + sedes per-CCAA · Nacional + per-CCAA · Federación nacional de Colegios Oficiales de Psicología; registros per-CCAA (p.ej. M-XXXXX para Madrid, B-XXXXX para Barcelona)
+
+**Publications:**
+- Papeles del Psicólogo (revista de referencia nacional) (2024) — *Consejo General de la Psicología de España* — <https://www.papelesdelpsicologo.es>
+- Anuario de Psicología Jurídica (COP Madrid) (2024) — *Colegio Oficial de la Psicología de Madrid* — <https://journals.copmadrid.org/apj/>
+- Psicothema (COP Asturias + Universidad de Oviedo) (2024) — *COP Asturias y Universidad de Oviedo* — <https://www.psicothema.com>
+- Revista del Col·legi Oficial de Psicòlegs de Catalunya (COPC) (2024) — *Col·legi Oficial de Psicologia de Catalunya*
+
+**Verification:**
+- <https://www.cop.es>
+- <https://www.copmadrid.org>
+- <https://www.copc.cat>
+- <https://www.cop-asturias.org>
+- <https://www.copao.com>
+- <https://www.papelesdelpsicologo.es>
+- <https://journals.copmadrid.org/apj/>
+
+**Contact:** Vía Colegio Oficial per-CCAA
+
+*Notes: STRUCTURAL FINDING. No existe una posición nacional única del COP sobre SAP. Las posiciones se producen a nivel de Colegio: COP Madrid recognition-tolerant; COPC middle; COP-Asturias forensic-empirical (edita Psicothema); COP Andalucía critique-leaning. Los profesionales deben clasificarse contra el COP de su CCAA y su producción editorial, no contra un cuerpo nacional. Patrón opuesto al de Alemania y Reino Unido.*
+
+**See also:** `jurisdiction:spain`
+
+<sub>ID: `es.cop`</sub>
+
+### Save the Children España + Plataforma de Infancia
+*Cuerpos institucionales de la sociedad civil*
+Madrid (sedes nacionales) · Nacional · Save the Children España (filial de Save the Children International); Plataforma de Organizaciones de Infancia (red de ONG de infancia)
+
+**Publications:**
+- Apoyo institucional a LOPIVI Disp. ad. 17ª durante el proceso legislativo (2020-2021) (2021) — *Save the Children España / Plataforma de Infancia (documentos de posicionamiento)*
+- Citados rutinariamente por jueces que adoptan el marco crítico post-LOPIVI (2022) — *Resoluciones AP y JPI (variadas)*
+
+**Verification:**
+- <https://www.savethechildren.es>
+- <https://www.plataformadeinfancia.org>
+
+**Contact:** Vía canales institucionales de Save the Children España y Plataforma de Infancia
+
+*Notes: No son clínicos individuales sino anclajes institucionales que los profesionales invocan al apelar a LOPIVI en presentaciones de juzgado de familia.*
+
+**See also:** `jurisdiction:spain`
+
+<sub>ID: `es.save-the-children-espana`</sub>
+
+### Asociación de Mujeres Juristas Themis (y red FEDEPE)
+*Red legal-feminista de la sociedad civil*
+Madrid (sede nacional) · Nacional · Asociación de Mujeres Juristas Themis; red FEDEPE (Federación Española de Mujeres Directivas, Ejecutivas, Profesionales y Empresarias)
+
+**Publications:**
+- Trabajo de litigación y amicus central en la redacción de la cláusula PA-disclaimer de LOPIVI (2021) — *Themis / FEDEPE (documentos de posicionamiento legislativo)*
+- Colaboración continuada con Vaccaro y Lorente Acosta en discurso público-legislativo sobre violencia vicaria (2020) — *Mesas de trabajo Themis-Igualdad*
+
+**Verification:**
+- <https://www.mujeresjuristasthemis.org>
+
+**Contact:** Vía canal institucional Themis
+
+*Notes: Cross-link institucional entre clínicas del polo crítico y el resultado legislativo. Cross-listed en /practitioners-eu-lawyers.md bloque España.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.vaccaro-sonia`, `practitioner:es.lorente-acosta-miguel`
+
+<sub>ID: `es.themis-fedepe`</sub>
+
+## Excluded (with documented reason)
+
+- **Peritos civil-servant EPF (Equipos Psicosociales adscritos a los Juzgados de Familia) / IMLCF (Instituto de Medicina Legal y Ciencias Forenses) sin autoría publicada** — Excluidos por regla editorial — la verificación primaria de atribución de stance a peritos civil-servant no es éticamente apropiada sin autoría publicada; respeta normas de secreto profesional y protección de naming. Su existencia y patrón operativo aparece como structural-finding-by-pattern (división observable a nivel de sala: AP Madrid Sec. 22ª y AP Barcelona Sec. 12ª recognition-tolerant vs. AP Sevilla Sec. 6ª critique-leaning), no como naming individual.
+  - Primary source: <https://www.mjusticia.gob.es/es/ciudadania/medicina-legal-forense>
+- **Directorios de psicólogo-de-parte de asociaciones pro-reconocimiento (APFS, Asociación de Padres y Madres Separados de sus Hijos)** — Excluidos por ausencia de cadena de verificación primary-source de publicaciones. Los listados de directorios asociativos no constituyen verificación de práctica clínica documentable.
+  - Primary source: <https://apfs.es/>
+- **Clínicos media-personality sin verificación de colegio (Generación Pas y similares)** — Excluidos por ausencia de cadena verificable colegio + publicación. Aparición mediática recurrente no sustituye verificación institucional.
+
 
 ---
 
-## Jurisdictional Context
-
-Spain is **the second statutory PA-critique jurisdiction in the world** — the first being Brazil's *Lei nº 12.318/2010* (which by contrast *recognises* alienação parental and creates a graduated sanction regime). Spain is positioned in the opposite direction: a binding statute that institutionally **inadmits** SAP in family-court decisions affecting children.
-
-Any clinician practising in this space must be read against six load-bearing anchors:
-
-1. **Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI)** — **Disposición adicional decimoséptima**. Verbatim Spanish text:
-
-   > *"Disposición adicional decimoséptima. Prácticas no avaladas por la comunidad científica. Las Administraciones Públicas, jueces y Tribunales, velarán por evitar que pueda ser tomado en consideración, en los procesos relativos a niños, niñas y adolescentes, planteamientos teóricos o criterios sin aval científico que presupongan interferencia o manipulación adulta, como el llamado síndrome de alienación parental."*
-
-   Published in *Boletín Oficial del Estado* núm. 134, 5 June 2021, pp. 67723-67793. **Authoritative URL:** https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347 (consolidated text).
-
-2. **STS 519/2017, de 22 de septiembre, Sala 1ª** — Tribunal Supremo overturns a custody transfer based predominantly on SAP attribution by a court-appointed expert, holding that SAP is not a recognised diagnostic category and cannot ground a *cambio de guarda* absent independent corroborating evidence. (Filed in `/case-studies/sts-519-2017.md`.)
-
-3. **Ministerio de Igualdad — Delegación del Gobierno contra la Violencia de Género (2020)** — *Informe del Grupo de Trabajo de Investigación sobre el Síndrome de Alienación Parental*, published as Cap. 2 / Lib. 7 of the *Colección contra la Violencia de Género*. The official institutional rejection of SAP that LOPIVI later codified.
-   **URL:** https://violenciagenero.igualdad.gob.es/wp-content/uploads/ALIENACIONPARENTAL_cap2_lib7.pdf
-
-4. **CGPJ Guía Práctica de la Ley Orgánica 1/2004, de medidas de protección integral contra la violencia de género** (Consejo General del Poder Judicial, *Observatorio contra la Violencia Doméstica y de Género*) — successive editions (2016, updated post-LOPIVI 2022/2024) instruct family-court judges to treat invocations of SAP / *alienación parental* as a **potential post-separation domestic-violence tactic** rather than as a diagnostic claim. Hosted at https://www.poderjudicial.es/cgpj/es/Temas/Violencia-domestica-y-de-genero/
-
-5. **Consejo General de la Psicología de España (COP) — position network** — There is no single national position; positions are produced by the *Colegios Oficiales* of each Comunidad Autónoma, with significant divergence:
-   - **COP Madrid (M-XXXXX register)** — historically more recognition-tolerant; site https://www.copmadrid.org
-   - **Col·legi Oficial de Psicologia de Catalunya (COPC)** — methodologically cautious / middle; site https://www.copc.cat
-   - **Colegio Oficial de Psicología de Andalucía Oriental / Occidental (COP Andalucía)** — published critical position briefs; https://www.copao.com
-   - **Consejo General de la Psicología de España** umbrella publishes *Papeles del Psicólogo* (the journal where the Jarne/Arch and Escudero-camp debates have been hosted) https://www.papelesdelpsicologo.es
-
-6. **Forensic structure** — Spanish family-court forensic psychology is delivered by two distinct civil-service streams that practitioners in this directory must be classed against:
-   - **Equipos Psicosociales adscritos a los Juzgados de Familia (EPF)** — career-civil-servant peritos (psicólogo + trabajador/a social) attached to each *Juzgado de Familia*; reports are court-ordered, the parties cannot choose the perito.
-   - **Instituto de Medicina Legal y Ciencias Forenses (IMLCF)** — one per Comunidad Autónoma; psychologists and forensic physicians who intervene mainly in violence-against-women and child-victim assessments under the *Ley 1/2004* circuit.
-   - **Peritos de parte** — private forensic psychologists hired by one party; this is where the recognition-camp clinical literature (Aguilar Cuenca, Tejedor, Bolaños) is most often deployed.
-
-**Direction of travel.** Since the 2020 Igualdad informe → 2021 LOPIVI → post-2021 *Audiencias Provinciales* case-law (notably AP Madrid Sec. 22ª and AP Barcelona Sec. 12ª lines rejecting SAP-based custody transfers), the Spanish institutional mainstream has moved decisively to the critique side. The recognition camp (Aguilar Cuenca, Tejedor Huerta, Bolaños Cartujo, the Almuzara/Síntesis publishing line) remains active in the perito-de-parte market and in private clinical practice but is now **counter-mainstream** and operates against an explicit statutory disclaimer — a configuration that no other European jurisdiction shares.
-
----
-
-## Recognition Camp — Clinicians who treat parental alienation as a real and intervention-requiring clinical phenomenon
-
-### 1. José Manuel Aguilar Cuenca
-- **Credentials:** Licenciado en Psicología; psicólogo clínico y forense; university teacher of forensic psychology (Andalucía). Colegio of registration **not publicly displayed** on author site (likely **COP Andalucía Occidental** given Sevilla base).
-- **Comunidad Autónoma:** Andalucía (originally Madrid; long-term Andalucía-based).
-- **Stance:** recognition.
-- **Stance source:** Aguilar Cuenca, *S.A.P. Síndrome de Alienación Parental — Hijos manipulados por un cónyuge para odiar al otro* (Editorial Almuzara, 1ª ed. 2004, 6ª ed. 2019) — author/edition page https://jmaguilar.com/sindrome-alienacion-parental-6-edicion/ ; *Con mamá y con papá* (Almuzara, custodia compartida); *Abuso de influencia* (Almuzara); *Guía para la evaluación del Síndrome de Alienación Parental* prepared for the *Defensor del Menor de la Comunidad de Madrid* (Editorial Síntesis). Interview confirming current forensic-perito activity: APFS (Asociación de Padres y Familias Separadas) interview https://apfs.es/jose-manuel-aguilar-psicologo-forense-los-hijos-no-son-propiedad-de-nadie/
-- **URL:** https://jmaguilar.com/ (primary author site).
-- **Contact:** Contact form at jmaguilar.com.
-- **Verification notes:** The author whose 2004 Almuzara book *made* SAP a Spanish-language household phrase. Operates in explicit tension with the 2020 Igualdad informe and LOPIVI Disp. ad. 17ª; remains the most-cited Spanish-language recognition author. Cross-listed in `/influencers/`.
-
-### 2. Dr. Asunción Tejedor Huerta, PhD
-- **Credentials:** Licenciada en Psicología (Universidad de Granada, 1986); Doctora en Psicología; *Máster en Mediación Familiar* (Universidad de Oviedo, 2009); psicóloga jurídica y forense desde 1993; perito judicial.
-- **Colegio:** **Colegio Oficial de Psicología del Principado de Asturias (COP-Asturias)**. Number not publicly displayed.
-- **Comunidad Autónoma:** Principado de Asturias (Oviedo).
-- **Institutional role:** Presidenta, **Asociación Iberoamericana de Psicología Jurídica España (AIPJE)** — https://www.aipje.com/directiva/ ; long-term collaborator, Sociedad Española de Psicología Jurídica y Forense (SEPJF) http://sepjf.org/ ; private practice *Diálogo Gabinete Psicológico*, Oviedo.
-- **Stance:** recognition.
-- **Stance source:** Tejedor Huerta, *El Síndrome de Alienación Parental — una forma de maltrato* (EOS, varias ediciones) — author page https://www.dialogogabinetepsicologico.com/publicaciones/ ; Molina Bartumeus, Tejedor Huerta & Vázquez Orellana, **PIVIP — Programa de Intervención para Víctimas de Interferencias Parentales** (EOS, Colección Psicología Jurídica 15, ISBN 978-84-9727-497-5) https://www.agapea.com/Asuncion-Tejedor-Huerta/Programa-de-Intervencion-para-Victimas-de-Interferencias-Parentales-PIVIP--9788497274975-i.htm ; Giunti Editions ES author page https://uden.giuntipsy.es/asuncion-tejedor-huerta/
-- **URL:** https://www.dialogogabinetepsicologico.com/ (primary practice).
-- **Contact:** Practice contact form; AIPJE board page https://www.aipje.com/directiva/
-- **Verification notes:** The Spanish-speaking world's leading PA-recognition clinician; PIVIP is the only structured Spanish-language intervention protocol for *interferencias parentales*. After LOPIVI, has reframed clinical language away from "SAP" toward *interferencias parentales* — a load-bearing terminological shift discussed below in the Structural Findings.
-
-### 3. Dr. José Ignacio Bolaños Cartujo, PhD
-- **Credentials:** Doctor en Psicología; psicólogo clínico, mediador familiar; long-standing teaching role in postgraduate mediación familiar / psicología jurídica.
-- **Colegio:** **Colegio Oficial de la Psicología de Madrid (COP Madrid)**. Number not publicly displayed.
-- **Comunidad Autónoma:** Comunidad de Madrid.
-- **University affiliation:** Has taught at **Universitat Autònoma de Barcelona** mediation programmes and Madrid postgraduate venues; primary institutional anchor is the *Asociación Española de Mediación* circuit.
-- **Stance:** recognition (clinical / mediation-oriented, milder than Aguilar Cuenca's forensic-confrontational framing).
-- **Stance source:** Bolaños Cartujo (2002) *El Síndrome de Alienación Parental — Descripción y abordajes psico-legales*, *Psicopatología Clínica, Legal y Forense* 2(3): 25-45 — one of the earliest Spanish-language SAP overview articles; PhD thesis *Estudio descriptivo del Síndrome de Alienación Parental: Diseño y aplicación de un programa piloto de mediación familiar en situaciones de ruptura de pareja* (UAB / Comissionat per a Universitats i Recerca, depositada 2000, eventually published) https://www.tdx.cat/handle/10803/5429
-- **URL:** Dialnet author profile https://dialnet.unirioja.es/servlet/autor?codigo=80659
-- **Contact:** Via Dialnet institutional channel; mediation circuit professional bodies.
-- **Verification notes:** The methodologically softest of the recognition triad — Bolaños' programme is *mediation-first*, not forensic-perito-first. Useful as the recognition-camp voice when the clinical question is *family reorganisation* rather than *custody transfer*.
-
-### 4. Dr. Ramón Vilalta Suárez, PhD
-- **Credentials:** Doctor en Psicología; psicólogo clínico y forense; perito judicial.
-- **Colegio:** **Colegio Oficial de Psicología del Principado de Asturias (COP-Asturias)**. Number not publicly displayed.
-- **Comunidad Autónoma:** Principado de Asturias.
-- **Stance:** recognition (forensic-evaluator framing).
-- **Stance source:** Vilalta Suárez, R. J. (2011) *Descripción del Síndrome de Alienación Parental en una muestra forense*, *Psicothema* 23(4): 636-641 — primary-source Spanish-language empirical paper attempting forensic-sample description of SAP indicators. https://www.psicothema.com/pdf/3934.pdf (Psicothema is published by the *Colegio Oficial de Psicología del Principado de Asturias* and the *Universidad de Oviedo* — institutional anchor).
-- **URL:** Psicothema article URL above; Dialnet https://dialnet.unirioja.es/servlet/autor?codigo=80614
-- **Contact:** Via COP-Asturias / Psicothema institutional channel.
-- **Verification notes:** Important because the article appears in a COP-Asturias-edited journal — institutional anchor for the recognition camp's claim that *some* Spanish COP venues have hosted forensic-empirical SAP work. Often cited alongside Tejedor.
-
-### 5. Robert Tejedor Burgo (forensic perito)
-- **Credentials:** Psicólogo forense; perito de parte; private forensic-psychology practice (Madrid area).
-- **Colegio:** **Colegio Oficial de la Psicología de Madrid (COP Madrid)**. Number not publicly displayed; reported as M-prefixed.
-- **Comunidad Autónoma:** Comunidad de Madrid.
-- **Stance:** recognition (peritaje-de-parte).
-- **Stance source:** Recurring perito-de-parte in Audiencia Provincial de Madrid Sec. 22ª contested-custody cases citing SAP / *interferencias parentales* framing; named in Spanish family-law press coverage of the post-LOPIVI period. **Verification status: partial** — practice listings confirm activity; named-publication output limited.
-- **URL:** Not publicly confirmed (no primary author site verifiable as of 2026-05-30).
-- **Verification notes:** Included as representative of the post-LOPIVI **perito-de-parte recognition workflow** — the niche where the recognition camp now operates after the statutory disclaimer. **Primary-source verification incomplete**; flagged.
-
----
-
-## Critique Camp — Clinicians who critique SAP / alienación parental as pseudoscience or as a post-separation DV tactic
-
-### 6. Dr. Antonio Escudero Nafs, MD
-- **Credentials:** Médico; psiquiatra infanto-juvenil; coordinator of the *Programa Infanto-Juvenil*, **Centro de Salud Mental de Majadahonda** (since 2005), within the Hospital Universitario Puerta de Hierro-Majadahonda public system.
-- **Colegio:** **Colegio Oficial de Médicos de Madrid (ICOMEM)** — *especialidad psiquiatría infantil*. Number not publicly displayed.
-- **Comunidad Autónoma:** Comunidad de Madrid (Majadahonda).
-- **Stance:** critique (the single most-cited Spanish-language critique voice).
-- **Stance source:** Escudero, Aguilar Redo & de la Cruz (2008) *La lógica del Síndrome de Alienación Parental de Gardner (SAP): "terapia de la amenaza"*, *Revista de la Asociación Española de Neuropsiquiatría* 28(2) https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200004 ; editorial same issue *Ciencia y pseudociencia en salud mental: el "síndrome de alienación parental"* https://scielo.isciii.es/scielo.php?script=sci_arttext&pid=S0211-57352008000200001 ; **Asociación Española de Neuropsiquiatría (AEN) public statement of support** following 2019 *Infancia Libre* controversy https://www.elsaltodiario.com/infancia/asociacion-espanola-neuropsiquiatria-sap-antonio-escudero-nafs-infancia-libre ; Ministry of Equality 2020 informe reproduces his framework.
-- **URL:** ResearchGate https://www.researchgate.net/profile/Antonio-Escudero-Nafs-3
-- **Contact:** Via Hospital Universitario Puerta de Hierro-Majadahonda https://www.comunidad.madrid/hospital/puertadehierromajadahonda/
-- **Verification notes:** Architect of the 2020 Igualdad framework that LOPIVI Disp. ad. 17ª codified. Cross-listed in `/influencers/`. The 2008 *Rev. AEN* article is the foundational Spanish-language SAP-as-pseudoscience text.
-
-### 7. Lic. Sonia Vaccaro
-- **Credentials:** Licenciada en Psicología (Argentina); psicóloga clínica con habilitación en España vía colegiación; Madrid-based since the late 1990s. **Colegio:** Madrid-area COP registration reported; number not publicly displayed.
-- **Comunidad Autónoma:** Comunidad de Madrid.
-- **Stance:** critique.
-- **Stance source:** Vaccaro, S. & Barea Payueta, C. (2009) *El pretendido Síndrome de Alienación Parental — un instrumento que perpetúa el maltrato y la violencia* (Desclée de Brouwer, Bilbao, ISBN 978-84-330-2334-5) — the foundational Spanish-language book-length critique of SAP. Publisher page https://www.edesclee.com/tematicas/amae/el-pretendido-sindrome-de-alienacion-parental-detail ; also coined the term **"violencia vicaria"** (vicarious violence) — Vaccaro (2016 onward), now embedded in Spanish DV discourse and used in CGPJ training materials.
-- **URL:** Author page https://soniavaccaro.com/ (intermittent); Desclée publisher page above.
-- **Contact:** Via author site / publisher.
-- **Verification notes:** The single most influential critique-camp clinician in the Spanish-speaking world after Escudero. *Violencia vicaria* (her coinage) is now used in BOE-level documents — including some post-LOPIVI legislative materials. Argentine origin; Madrid-based clinical practice.
-
-### 8. Consuelo Barea Payueta
-- **Credentials:** Médica; consultora en violencia de género; co-author of the Vaccaro & Barea (2009) book above. Colegio of medical registration not publicly displayed (Catalonia / Madrid).
-- **Comunidad Autónoma:** Cataluña / Madrid (peripatetic).
-- **Stance:** critique.
-- **Stance source:** Vaccaro & Barea (2009) *El pretendido Síndrome de Alienación Parental* (Desclée de Brouwer, ISBN 978-84-330-2334-5); Barea (2012) *Manual para mujeres maltratadas que quieren dejar de serlo*, Editorial Océano-Ámbar — author entry https://www.casadellibro.com/libros-ebooks/consuelo-barea-payueta/156683
-- **URL:** Author page via Casa del Libro / Desclée publisher pages above.
-- **Verification notes:** The medical co-author of the foundational Spanish critique. Practice site **not publicly confirmed**.
-
-### 9. Dr. Miguel Lorente Acosta, MD
-- **Credentials:** Médico forense (carrera *Cuerpo Nacional de Médicos Forenses*); Doctor en Medicina; **Profesor Titular de Medicina Legal, Universidad de Granada**.
-- **Comunidad Autónoma:** Andalucía (Granada).
-- **Institutional role:** **Delegado del Gobierno para la Violencia de Género** (2008-2011, Gobierno de España); long-running newspaper column *Autopsia* in *Granada Hoy* and similar.
-- **Stance:** critique (medico-legal / forensic-medicine vector; not strictly psychologist but psychologist-adjacent in forensic-evaluator role and a primary national voice).
-- **Stance source:** Lorente Acosta, M. (2009) *Los nuevos hombres nuevos* (Destino); Lorente Acosta, M. & Lorente Acosta, J. A. (1998) *Agresión a la mujer: maltrato, violación y acoso* (Comares); regular commentary characterising SAP as an *argumentario* of post-separation DV resistance — author archive *Granada Hoy* https://www.granadahoy.com/opinion/articulos-firmas/miguel-lorente_50_.html ; UGR profile https://medicinalegal.ugr.es/pages/personal/lorente
-- **URL:** UGR profile above.
-- **Verification notes:** As Delegado del Gobierno (2008-2011) Lorente drove the institutional positioning of SAP as a DV tactic — a position later codified in LOPIVI. The *single most prominent academic medico-legal critique voice*; cited alongside Escudero in the 2020 Igualdad informe lineage.
-
-### 10. Dr. Andrés Montero Gómez, PhD
-- **Credentials:** Doctor en Psicología; psicólogo clínico; director, **Instituto de Psicología de la Violencia (Madrid)**; long-standing public-commentary role on DV / coercion.
-- **Colegio:** **Colegio Oficial de la Psicología de Madrid (COP Madrid)**. Number not publicly displayed.
-- **Comunidad Autónoma:** Comunidad de Madrid.
-- **Stance:** critique.
-- **Stance source:** Montero Gómez, A. (1999) *Síndrome de adaptación paradójica a la violencia doméstica* — Sociedad Española de Psicología de la Violencia framework now embedded in CGPJ training materials; Montero Gómez (2005) *Shaken Adult Syndrome* / coercion-bonding analyses; institutional anchor via the **Sociedad Española de Psicología de la Violencia (SEPV)**.
-- **URL:** Public-commentary archive via *El País* and *Público* op-eds; SEPV institutional materials.
-- **Verification notes:** Critique-adjacent rather than purely SAP-focused; his coercion-and-bonding framework is the **conceptual replacement** that Spanish critique-camp clinicians offer for what the recognition camp diagnoses as SAP.
-
-### 11. Sociedad Española de Psiquiatría — child & adolescent SAP critique line / Asociación Española de Neuropsiquiatría (AEN)
-- **Institutional entity** (not individual): The **Asociación Española de Neuropsiquiatría — Profesionales de la Salud Mental** (AEN) is the load-bearing professional body that publicly defended Escudero in 2019 and publishes the *Revista de la AEN* (SciELO) — the journal in which the foundational 2008 critique appears.
-- **URL:** https://www.aen.es/ ; *Revista AEN* https://scielo.isciii.es/scielo.php?script=sci_serial&pid=0211-5735
-- **Verification notes:** Included as institutional anchor — the AEN is the principal Spanish professional society that has taken a public anti-SAP position at the body level (in contrast to the COPs, which are more fragmented by Comunidad Autónoma).
-
----
-
-## Middle / Methodological Camp
-
-### 12. Dr. Adolfo Jarne Esparcia, PhD
-- **Credentials:** Doctor en Psicología (Universidad de Barcelona); Profesor Titular de Psicopatología, Departamento de Psicología Clínica i Psicobiologia, **Facultad de Psicología, Universitat de Barcelona**; psicólogo forense; private practice *Gabinete de Psicología Granollers*.
-- **Colegio:** **Col·legi Oficial de Psicologia de Catalunya (COPC)** https://www.copc.cat/. Number not publicly displayed.
-- **Comunidad Autónoma:** Cataluña (Barcelona).
-- **Stance:** middle / methodological.
-- **Stance source:** Jarne & Arch (2009) *DSM, salud mental y Síndrome de Alienación Parental*, *Papeles del Psicólogo* — https://www.papelesdelpsicologo.es/ ; Arch, Molina & Jarne (2008) *Aceptación y controversia del SAP*, *Revista del Col·legi Oficial de Psicòlegs de Catalunya*; Anuario de Psicología (UB) https://revistes.ub.edu/index.php/Anuario-psicologia/
-- **URL:** UB page https://www.ub.edu/ ; practice https://gabinetepsicologiagranollers.com/quienes-somos-3/adolfo-jarne-esparcia/
-- **Contact:** UB institutional email; practice site.
-- **Verification notes:** The cleanest Spanish-language middle-camp position — argues for cautious forensic use only with independent corroboration. After LOPIVI, his methodological framework is the one that has aged best because it never claimed diagnostic certainty.
-
-### 13. Dr. Mila Arch Marin, PhD
-- **Credentials:** Doctora en Psicología; psicóloga forense; profesora asociada / colaboradora, Universitat de Barcelona; perita judicial.
-- **Colegio:** **Col·legi Oficial de Psicologia de Catalunya (COPC)**. Number not publicly displayed.
-- **Comunidad Autónoma:** Cataluña.
-- **Stance:** middle / methodological.
-- **Stance source:** Co-author of Arch, Molina & Jarne (2008) above and of methodological reviews in *Anuario de Psicología Jurídica* (Consejo General de la Psicología / Colegio Oficial de la Psicología de Madrid) — journal https://journals.copmadrid.org/apj/ ; *Custodia compartida* methodological pieces.
-- **URL:** Dialnet https://dialnet.unirioja.es/servlet/autor?codigo=210068 ; UB profile via Facultat de Psicologia.
-- **Verification notes:** The most active methodological voice on Spanish forensic-psychology evaluation standards in custody cases. Co-traveller of Jarne in the Catalan middle-camp axis.
-
----
-
-## Institutional Anchors
-
-### 14. Consejo General de la Psicología de España (COP) — umbrella body
-- **Role:** Federates the *Colegios Oficiales* of each Comunidad Autónoma; publishes *Papeles del Psicólogo* (the journal of record for Spanish psychology); operates the *Comisión de Psicología Jurídica*.
-- **Position differences by Comunidad Autónoma** (load-bearing for this directory):
-  - **COP Madrid** (https://www.copmadrid.org ; *M-XXXXX* register prefix): more recognition-tolerant historically; publishes *Anuario de Psicología Jurídica* (https://journals.copmadrid.org/apj/) which has hosted both camps.
-  - **COPC Cataluña** (https://www.copc.cat): methodologically cautious; closest to the Jarne / Arch middle line.
-  - **COP-Asturias** (https://www.cop-asturias.org): edits *Psicothema*, which has published recognition-leaning forensic-empirical work (Vilalta 2011).
-  - **COP Andalucía Occidental / Oriental** (https://www.copao.com): more critique-leaning post-LOPIVI; aligned with the Igualdad framework and with Lorente's Granada anchor.
-- **URL:** https://www.cop.es
-- **Verification notes:** There is no single national COP position on SAP — practitioners must be classed against the *Comunidad Autónoma* COP and its journal output.
-
-### 15. Save the Children España + Plataforma de Infancia (FAPMI / FAPAES network)
-- **Role:** Civil-society institutional voices that backed LOPIVI Disp. ad. 17ª during the legislative process; routinely cited by judges adopting the critique framework.
-- **URLs:** https://www.savethechildren.es ; https://www.plataformadeinfancia.org
-- **Verification notes:** Not individual clinicians, but institutional anchors that practitioners cite when invoking LOPIVI in family-court submissions.
-
-### 16. FEDEPE / Themis (Asociación de Mujeres Juristas Themis)
-- **Role:** Civil-society legal-feminist network whose litigation and amicus work was central to LOPIVI's PA-disclaimer drafting; long-running collaboration with Vaccaro and Lorente. Not a clinical body but the institutional cross-link between the critique-camp clinicians and the legislative outcome.
-- **URL:** https://www.mujeresjuristasthemis.org
-- **Verification notes:** Included as anchor; cross-listed in `/practitioners-eu-lawyers.md` Spain block.
-
----
-
-## Forensic Peritos / EPF clinicians appearing repeatedly in Audiencia Provincial case-law
-
-This section names patterns rather than individual EPF civil servants (who are subject to professional-secrecy and naming-protection norms that this directory respects). The structural finding:
-
-- **AP Madrid Sec. 22ª** post-2021 has produced a coherent line of decisions citing LOPIVI Disp. ad. 17ª to reject SAP-grounded *cambio de guarda* applications when the EPF report has not independently established abuse-equivalent parental conduct. Representative line: AP Madrid Sec. 22ª, autos throughout 2022-2024 (filed in `/case-studies/` as the *AP Madrid post-LOPIVI* line).
-- **AP Barcelona Sec. 12ª** has produced a parallel line in Catalan jurisdiction, with the COPC methodological framework as the dominant clinical reference.
-- **AP Sevilla Sec. 6ª** has on several occasions sided with recognition-camp perito-de-parte reports despite LOPIVI, producing a *recognised intra-Spanish jurisdictional split* — Sevilla is the geographic anchor of the Almuzara / Aguilar Cuenca recognition line.
-
-**Named EPF / IMLCF peritos** are not enumerated here because (a) primary-source verification of stance attribution to civil-servant peritos is not ethically appropriate without published authorship and (b) the published clinical authorship in this space is overwhelmingly *peritos de parte* (already covered above).
-
----
-
-## Excluded / Unverified
-
-- **Robert Tejedor Burgo** — included above with explicit "verification incomplete" flag; retain in JSON but mark `verification_notes`.
-- Any named individual EPF / IMLCF perito without published authorship — **excluded by editorial rule**, see section above.
-- Several pro-recognition associations (APFS, Asociación Padres y Madres Separados de sus Hijos) post psicólogo *de parte* directories without primary-source publication — **excluded** absent a verifiable journal / book chain.
-- *Generación Pas* style media-personality clinicians without colegio verification — **excluded**.
-
----
-
-## Structural Findings
-
-1. **LOPIVI is the strongest statutory PA-disclaimer in Europe.** Disposición adicional decimoséptima is not a guideline, not a *recomendación* and not a *circular* — it is binding statutory text in a Ley Orgánica, the highest sub-constitutional norm in Spanish law. No other European jurisdiction has this. The closest analogues are BVerfG 17 Nov 2023 in Germany (constitutional-court reasoning, not statute) and Cass. ord. 9691/2022 + 4595/2025 in Italy (Cassazione case-law, not statute). Spain is therefore the *cleanest critique-camp jurisdiction* worldwide — and the **opposite-direction mirror of Brazil**, which produced the first statutory PA framework in 2010 by *recognising* it.
-
-2. **The terminological shift from "SAP" to "interferencias parentales".** The Spanish recognition camp has not retreated post-LOPIVI; it has renamed. Tejedor's PIVIP, the *interferencias parentales* framing, and the post-2021 perito-de-parte literature have largely dropped "SAP" in favour of *interferencias parentales* / *manipulación de la voluntad del menor* — language LOPIVI Disp. ad. 17ª does *not* explicitly inadmit (the statute names only "el llamado síndrome de alienación parental"). This is the most consequential downstream effect of the statute and the central jurisdictional puzzle for any practitioner working in post-LOPIVI Spain.
-
-3. **The institutional split is by Comunidad Autónoma, not by national professional body.** The COP umbrella has no enforced national position; positions are produced at the *Colegio* level (COP Madrid → recognition-tolerant; COPC → middle; COP-Asturias → forensic-empirical; COP Andalucía Occidental → critique). This is the single biggest structural difference from Germany (where the BDP/DGPs and the *Psychotherapeutenkammern* are nationally coherent) and from the UK (where the BPS / HCPC are nationally coherent).
-
-4. **The critique camp's institutional victory is asymmetric.** Critique-camp clinicians (Escudero, Vaccaro, Barea, Lorente, Montero) achieved the statutory disclaimer but did *not* achieve clinical-services capture — the EPF and IMLCF forensic teams remain methodologically eclectic, and *peritos de parte* in the recognition tradition continue to operate. The post-2021 litigation pattern is one of *case-by-case re-litigation*, not of clinical-practice replacement.
-
-5. **The forensic structure (EPF + IMLCF + peritos de parte) is unique in Europe.** Spain's three-stream forensic-psychology structure — career civil servants attached to family courts (EPF), Comunidad-Autónoma forensic-medicine institutes (IMLCF), and a large private peritaje-de-parte market — produces multiple, sometimes conflicting expert reports in the same case. The recognition camp has its operational base in stream 3; the critique camp has its institutional anchor in stream 2 (IMLCF / Igualdad). The EPFs are the methodologically uncertain middle.
-
----
-
-## Cross-references
-
-- Foundational country: `/practitioners-eu-therapists.md` Spain block (4 entries; now superseded by this file).
-- Influencer-level entries: `/influencers/asuncion-tejedor.md`, `/influencers/antonio-escudero-nafs.md`.
-- Case-law: `/case-studies/sts-519-2017.md`; `/case-studies/ap-madrid-post-lopivi.md` (planned).
-- Mirror-direction Brazil: `/practitioners-brazil-therapists.md` (Lei 12.318/2010 framework).
-
----
-
-*End of `practitioners-spain-therapists.md`.*
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
