@@ -220,3 +220,14 @@ If you are a fleet node working on this repo:
 ## Provenance
 
 This architecture was refactored on 2026-05-31 in response to a directly-asked question ("is there anything wrong with the architecture currently"). The fix is documented in commit history under `arch/` prefixed messages.
+
+## Update 2026-05-31 — email-storm root cause + atomic-commit fix
+
+The initial `aa-push` used the GitHub Contents API, which is single-file-per-commit. When a batch of related files (JSON + rendered MD + README) was pushed in sequence, each commit fired CI independently. Between the JSON-commit landing and the MD-commit landing, render-drift detection saw the JSON ahead of the MD and failed. That produced an email storm of false-positive failure notifications.
+
+Fix shipped:
+- `bin/aa-push` rewritten to use the Git Data API (blobs → tree → commit → ref update). All files in one invocation become **one atomic commit**. Race condition is now impossible.
+- `validate.yml` push trigger temporarily disabled while migration finalises; restored after the atomic-push tool is validated in practice.
+- Weekly cron added to `validate.yml` so schema/cross-link drift can't accumulate silently while push-on-validate is off.
+
+The lesson: serial single-file commits + per-commit CI = race conditions. Atomic multi-file commits are the canonical fix.
