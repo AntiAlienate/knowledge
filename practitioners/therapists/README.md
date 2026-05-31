@@ -24,7 +24,7 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **Colombia** | [co.md](co.md) | [co.json](co.json) | **v2.0** | 13 verified + 6 excluded |
 | **Chile** | [cl.md](cl.md) | [cl.json](cl.json) | **v2.0** | 16 verified + 7 excluded |
 | **LATAM (BR/MX/AR/CO/CL)** | [latam.md](latam.md) | [latam.json](latam.json) | v1.0 (legacy) | 18 verified across 5 countries (superseded by per-country v2 deepenings) |
-| **India** | [india.md](india.md) | [india.json](india.json) | v1.0 (legacy) | 12 verified |
+| **India** | [india.md](india.md) | [india.json](india.json) | **v2.0** | 14 verified + 21 excluded |
 | **Asia (IN/SG/HK/JP)** | [asia.md](asia.md) | [asia.json](asia.json) | v1.0 (legacy) | 4 from backlog |
 | **Africa (ZA + KE/NG/EG)** | [africa.md](africa.md) | [africa.json](africa.json) | v1.0 (legacy) | from backlog |
 
