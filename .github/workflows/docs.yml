@@ -88,11 +88,14 @@ jobs:
           path: _site
           retention-days: 7
 
-  # === GitHub Pages deploy (default) ===
-  # Uncomment to enable; uses built-in GitHub Pages.
-  # Permissions and Pages must be enabled at repo Settings → Pages.
+  # === GitHub Pages deploy ===
+  # Opt-in: set repo variable DEPLOY_TARGET=github-pages AND enable
+  # GitHub Pages at repo Settings → Pages → Source: GitHub Actions.
+  # Default behavior (no DEPLOY_TARGET set) is build-only — the site
+  # artifact is produced and uploaded but no deploy attempt is made,
+  # which keeps the workflow green when no hosting target is wired up.
   deploy-gh-pages:
-    if: ${{ vars.DEPLOY_TARGET == 'github-pages' || vars.DEPLOY_TARGET == '' }}
+    if: ${{ vars.DEPLOY_TARGET == 'github-pages' }}
     needs: build
     runs-on: ubuntu-latest
     permissions:
