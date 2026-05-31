@@ -1,0 +1,35 @@
+name: Validate knowledge base
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'practitioners/**'
+      - 'case-studies/**'
+      - 'schemas/**'
+      - 'bin/**'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install jsonschema
+      - name: Validate schemas
+        run: python bin/aa-build validate
+      - name: Cross-link resolution
+        run: python bin/aa-build refs
+      - name: Render (drift detection)
+        run: |
+          python bin/aa-build render
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "::error::Rendered MD files differ from JSON sources. Run 'python bin/aa-build render' locally and commit the result."
+            git --no-pager diff
+            exit 1
+          fi
