@@ -1,20 +1,14 @@
 name: Build and Deploy MkDocs site
 
-# ⚠️ Auto-trigger on push to main DISABLED 2026-05-31 because mkdocs.yml has
-#    `docs_dir: .` which a recent MkDocs release tightened against (now
-#    forbidden — docs_dir must be a child of the config file). Every push
-#    was failing + spamming notification emails.
+# Build strategy: source content stays at repo root (so external links to
+# /blob/main/case-studies/X.md keep working). At build time we symlink each
+# content directory into a `docs/` staging directory, then point mkdocs at
+# `docs/`. This satisfies MkDocs's restriction that `docs_dir` can't be
+# the parent directory of the config file, without moving any source files.
 #
-# To re-enable, do one of:
-#   A) Move repo content into a `docs/` subdirectory and set `docs_dir: docs`
-#      in mkdocs.yml (proper fix — semantic refactor).
-#   B) Pin requirements.txt to a pre-restriction MkDocs version
-#      (e.g. `mkdocs==1.5.3`, `mkdocs-material==9.5.40`) — quick but
-#      eventually you'll need (A) for forward compatibility.
-#   C) Use mkdocs `not_in_nav` + exclude config to keep docs_dir at root
-#      and explicitly exclude _site / sibling non-doc directories.
-#
-# After fixing, re-add `push: branches: [main]` under `on:` below.
+# Auto-trigger remains DISABLED until a manual `workflow_dispatch` run
+# confirms the staging step + build pass cleanly. Once confirmed, the
+# `push: branches: [main]` line below can be re-enabled.
 on:
   # push:
   #   branches: [main]
@@ -39,6 +33,42 @@ jobs:
           key: pip-mkdocs-${{ hashFiles('requirements.txt') }}
       - name: Install dependencies
         run: pip install -r requirements.txt
+
+      # ─── Stage content into docs/ via symlinks ──────────────────────
+      # Source content directories live at the repo root so external
+      # links (https://github.com/AntiAlienate/antialienate-knowledge/
+      # blob/main/case-studies/X.md) keep working. We symlink each into
+      # `docs/` so MkDocs has a child-directory `docs_dir` to point at.
+      # No source files are moved or modified.
+      - name: Stage content into docs/
+        run: |
+          set -e
+          mkdir -p docs
+          # Symlink every top-level content directory (anything that
+          # contains .md files). Skip docs/ itself, .git, .github,
+          # _site, and pure-config files.
+          for d in */; do
+            name="${d%/}"
+            case "$name" in
+              docs|_site|.git|.github|node_modules) continue ;;
+            esac
+            if find "$name" -maxdepth 3 -name "*.md" -print -quit | grep -q .; then
+              if [ ! -e "docs/$name" ]; then
+                ln -s "../$name" "docs/$name"
+                echo "linked docs/$name -> ../$name"
+              fi
+            fi
+          done
+          # Symlink root-level docs files (README, CONTRIBUTING).
+          for f in README.md CONTRIBUTING.md LICENSE LICENSE-DATA; do
+            if [ -f "$f" ] && [ ! -e "docs/$f" ]; then
+              ln -s "../$f" "docs/$f"
+              echo "linked docs/$f -> ../$f"
+            fi
+          done
+          echo "--- docs/ staging complete ---"
+          ls -la docs/
+
       - name: Build site
         run: mkdocs build --strict --site-dir _site
       - name: Upload site artifact

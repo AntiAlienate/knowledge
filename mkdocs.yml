@@ -6,7 +6,15 @@ repo_name: AntiAlienate/antialienate-knowledge
 edit_uri: edit/main/
 copyright: 'CC BY 4.0 · AntiAlienate.com'
 
-docs_dir: .
+# docs_dir points at the build-time staged `docs/` directory.
+# The workflow's "Stage content into docs/" step symlinks each
+# root-level content directory into here BEFORE mkdocs runs, so
+# source files stay in place at the repo root (preserving all
+# external links to /blob/main/<dir>/file.md style URLs) while
+# MkDocs sees a clean child-directory layout.
+# To rebuild locally: run the staging commands from
+# .github/workflows/docs.yml then `mkdocs build --strict --site-dir _site`.
+docs_dir: docs
 site_dir: _site
 
 theme:
