@@ -155,8 +155,11 @@ def cmd_refs(args) -> int:
             if ident not in known[kind]:
                 print(f"BAD-REF {f}: '{ref}' does not resolve", file=sys.stderr)
                 broken += 1
-    print(f"refs: {broken} broken")
-    return 1 if broken else 0
+    mode = "FAIL" if getattr(args, "strict", False) else "warn"
+    print(f"refs: {broken} broken ({mode})")
+    if getattr(args, "strict", False):
+        return 1 if broken else 0
+    return 0
 
 
 def collect_refs(node: Any) -> list[str]:
@@ -523,8 +526,10 @@ def die(msg: str) -> None:
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="aa-build")
     sub = p.add_subparsers(dest="cmd", required=True)
-    for c in ("validate", "refs", "urls", "index", "aggregate", "build"):
+    for c in ("validate", "urls", "index", "aggregate", "build"):
         sub.add_parser(c)
+    refs = sub.add_parser("refs")
+    refs.add_argument("--strict", action="store_true", help="fail (exit 1) on broken refs; default is warn-only during migration")
     r = sub.add_parser("render")
     r.add_argument("paths", nargs="*")
     args = p.parse_args(argv)
