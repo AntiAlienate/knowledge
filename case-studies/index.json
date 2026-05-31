@@ -2,7 +2,7 @@
   "schema": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
   "type": "case-study",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T19:04:41Z",
+  "generated": "2026-05-31T19:05:18Z",
   "cases": [
     {
       "path": "case-studies/bverfg-1-bvr-1076-23-germany-2023.json",
@@ -115,6 +115,22 @@
       "schema_version": "1.0",
       "references_count": 3,
       "sources_count": 5
+    },
+    {
+      "path": "case-studies/re-a-2019-ewfc-b56.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/re-a-2019-ewfc-b56.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/re-a-2019-ewfc-b56.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/re-a-2019-ewfc-b56.json",
+      "slug": "re-a-2019-ewfc-b56",
+      "caption": "Re A (Children) (Parental Alienation) [2019] EWFC B56",
+      "ecli": null,
+      "neutral_citation": "[2019] EWFC B56",
+      "jurisdiction_code": "UK-EWS",
+      "decision_date": "2019-09-24",
+      "court": "Family Court (England & Wales), sitting at Bristol (Designated Family Judge's list, Western Circuit)",
+      "schema_version": "1.0",
+      "references_count": 7,
+      "sources_count": 14
     },
     {
       "path": "case-studies/re-h-n-2021-ewca-civ-448.json",
