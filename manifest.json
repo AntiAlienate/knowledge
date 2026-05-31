@@ -2,10 +2,11 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T21:20:44Z",
+  "generated": "2026-05-31T21:54:57Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
-    "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json"
+    "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
+    "jurisdiction": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/jurisdiction.schema.json"
   },
   "id_format": {
     "practitioner": "<country_code lowercase>.<slug>  e.g. de.zimmermann-walper-fichtner",
@@ -25,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 0,
+    "jurisdictions": 4,
     "evidence_pages": 0
   },
   "indexes": {
@@ -33,6 +34,39 @@
     "practitioners_lawyers": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/lawyers/index.json",
     "case_studies": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.json"
   },
-  "jurisdictions": [],
+  "jurisdictions": [
+    {
+      "id": "brazil",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brazil.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brazil.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "BR",
+      "name": "Brazil"
+    },
+    {
+      "id": "germany",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/germany.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/germany.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "DE",
+      "name": "Germany"
+    },
+    {
+      "id": "italy",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/italy.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/italy.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IT",
+      "name": "Italy"
+    },
+    {
+      "id": "spain",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/spain.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/spain.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES",
+      "name": "Spain"
+    }
+  ],
   "evidence": []
 }

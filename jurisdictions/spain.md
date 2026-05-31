@@ -1,81 +1,125 @@
-# Spain — Parental Alienation Legal Reference
+# Spain
 
-> Jurisdiction-specific legal reference for parents, lawyers, and clinicians navigating parental-alienation matters in Spain. Cross-referenced with deeply-investigated case studies. CC BY 4.0.
+**Jurisdiction code:** `ES` · **Legal system:** civil-law  
+**Language(s):** es, ca, eu, gl  
 
-## Quick reference
+Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 Disposición adicional decimoséptima, which directs public administrations not to admit the construct denominated 'síndrome de alienación parental' (SAP) in family-violence settings — the exact opposite direction to Brazil's Lei 12.318/2010, which statutorily recognises 'alienação parental'. Tribunal Supremo (Sala Primera) STS 519/2017 took a pre-LOPIVI methodological-middle stance that treats parental manipulation and negative influence as decisive welfare factors while deliberately avoiding the SAP label; the legislator subsequently moved past STS 519/2017 without ratifying its reasoning. Professional-regulator position varies by Comunidad Autónoma (per-CCAA COP variation), which is the opposite pattern to the unified national regulator positions seen in Germany and the United Kingdom.
 
-| Element | Spain position |
-|---|---|
-| Statutory PA recognition | No, and actively prohibited at the executive/regulatory level. *Ley Orgánica 8/2021* ("Ley Rhodes") and Ministry of Justice guidance discourage judicial use of "síndrome de alienación parental" (SAP). The Código civil regulates *patria potestad* and *guarda y custodia* through arts. 92, 154 ff. without using the SAP label. |
-| Apex court direction (current) | Tribunal Supremo, Sala Primera, has consistently reasoned in PA-adjacent custody disputes without using the SAP label. [STS 519/2017](../case-studies/sts-519-2017-tribunal-supremo-alienacion-parental.md) is the canonical example: the TS upheld a shared-custody award where the audiencia provincial had found that the child's rejection of one parent reflected the other parent's *influencia negativa*. |
-| Standard of proof for PA findings | Civil standard (*sana crítica*) under arts. 217, 348 LEC; *interés superior del menor* under art. 2 LO 1/1996 governs all child-welfare evaluations. |
-| Forensic-evaluator framework | Court-appointed *perito psicólogo* under arts. 335 ff. LEC; *equipos psicosociales* attached to *juzgados de familia*; *Punto de Encuentro Familiar* (PEF) for supervised contact. |
-| Reunification programs court-ordered | Limited. *Coordinación de parentalidad* (parenting coordination) is recognised in Cataluña under the *Codi civil de Catalunya*; PEFs handle supervised contact; coercive residential reunification is not part of the Spanish toolkit. |
-| Domestic-abuse counterweight in place | Yes, strong. *Ley Orgánica 1/2004* (DV-specific specialised courts); *Ley Orgánica 8/2021* expressly conditions custody and contact decisions on DV findings; *Ley Orgánica 10/2022* on sexual freedom. |
+## PA recognition status
+
+- **Statutory:** inadmits
+- **Apex court position:** middle
+- **Professional regulator position:** varies-by-region
 
 ## Statutory framework
 
-- **Código civil, art. 92** — *guarda y custodia* (custody) post-separation framework, including shared-custody criteria. [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763).
-- **Código civil, arts. 154–171** — *patria potestad* (parental authority). [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763).
-- **Ley Orgánica 1/1996, de 15 de enero, de protección jurídica del menor**, art. 2 — *interés superior del menor* as the governing principle. [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1996-1069).
-- **Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia** ("Ley Rhodes") — Disposición Final Decimosexta and related provisions discourage judicial reliance on SAP and tighten the interaction between DV findings and custody decisions. [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347).
-- **Ley Orgánica 1/2004, de 28 de diciembre, de medidas de protección integral contra la violencia de género** — DV-specific specialised court regime (*Juzgados de Violencia sobre la Mujer*). [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760).
-- **Ley de Enjuiciamiento Civil (LEC)** — civil procedure, including *prueba pericial* (expert evidence) under arts. 335 ff. and *interés superior del menor* application via art. 770. [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2000-323).
-- **Codi civil de Catalunya, Llibre II** (arts. 233-1 ff.) — Catalan family-law framework, including *coordinació de parentalitat*. [DOGC / Generalitat](https://portaljuridic.gencat.cat/eli/es-ct/l/2010/07/29/25).
+- **LO 8/2021, Disposición adicional decimoséptima** — Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI) (2021) — <https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347>
+  - Disp. ad. 17ª directs that public administrations 'velarán por que no se admita en los procedimientos relativos a la violencia el llamado síndrome de alienación parental o cualesquiera otras denominaciones análogas que no hayan sido reconocidas por las comunidades científica y sanitaria'. The statute targets the SAP label by exact name and 'denominaciones análogas', driving subsequent PIVIP (interferencias parentales / manipulación de la voluntad del menor) terminological-arbitrage.
+- **LO 1/2004** — Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género (LIVG) (2004) — <https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760>
+  - Gender-violence framework that conditions how family courts read PA-style allegations; LOPIVI Disp. ad. 17ª operates within this gender-violence reading.
+- **LO 3/2007** — Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres (2007) — <https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115>
+  - Equality framework cited alongside LIVG in feminist juridical critiques of SAP.
+- **LOPJ art. 232** — Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial — artículo 232 (publicidad de actuaciones judiciales) (1985) — <https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666>
+  - Basis for anonymisation of judgments involving minors; Tribunal Supremo and Audiencias Provinciales sentences in family matters are published with initials per CENDOJ practice.
+- **Código Civil arts. 92-95** — Código Civil — De los efectos comunes a la nulidad, separación y divorcio (guarda y custodia, responsabilidad parental) (1889) — <https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763>
+  - Core statutory basis for custody (guarda y custodia) and parental responsibility decisions in which PA-style facts are litigated.
+- **Ley 15/2005** — Ley 15/2005, de 8 de julio, por la que se modifican el Código Civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio (2005) — <https://www.boe.es/buscar/act.php?id=BOE-A-2005-11864>
+  - Custodia compartida reform that opened the structural space in which manipulación/influencia negativa arguments became frequent in Spanish family law.
 
-## Apex court direction
+## Apex courts
 
-The leading case-study reference is **[STS 519/2017, de 22 de septiembre de 2017 (Sala Primera, Civil)](../case-studies/sts-519-2017-tribunal-supremo-alienacion-parental.md)**. The Tribunal Supremo dismissed the mother's cassation appeal against a shared-custody award following findings (in the Audiencia Provincial de Alicante) that the mother had engaged in conduct tending to alienate the daughter from the father. The TS did so without using the words *síndrome de alienación parental* in its *fundamentos de derecho* — reasoning instead in terms of:
+### Tribunal Supremo, Sala Primera (Sala de lo Civil)
+<https://www.poderjudicial.es/search/indexAN.jsp>
+- **STS 519/2017, de 22 de septiembre (Sala Primera, ponente Arroyo Fiestas)** (2017) — middle — [`sts-519-2017-spain`](../case-studies/sts-519-2017-spain.md)
 
-1. the child's expressed preference is not, on its own, determinative;
-2. each parent has a legal duty under art. 154 CC not to *influir negativamente* the child's perception of the other;
-3. where the lower court has properly evaluated the *informe psicosocial*, the TS will not disturb a custody award designed to protect the child's relationship with both parents.
+### Tribunal Constitucional
+<https://www.tribunalconstitucional.es/>
+- **STC 130/2024 — LOPIVI compliance line (no direct PA ruling; constitutional review of LOPIVI's child-protection architecture)** (2024) — middle
 
-This SAP-reasoning-without-the-SAP-label pattern is the dominant Sala Primera approach. The TS has not endorsed Gardner's PAS as a clinical category and has not contradicted the post-Ley Rhodes executive position.
+### Audiencias Provinciales (per-CCAA family-law line)
+<https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Audiencias-Provinciales>
+- **AP Madrid Sección 22ª — recognition-tolerant line on manipulación/interferencias parentales** (2022) — recognition
+- **AP Barcelona Sección 12ª — recognition-tolerant line, frequently citing custodia compartida and interferencias parentales** (2022) — recognition
+- **AP Sevilla Sección 6ª — critique-leaning line aligned with LOPIVI Disp. ad. 17ª** (2023) — critique
 
-The Audiencias Provinciales (intermediate appellate courts) remain more variable: some sections continue to use SAP language; others have moved to the TS-style neutral vocabulary; a minority follow CGPJ guidance and refuse SAP framings outright.
+## Professional regulators
 
-## Standard of proof
+- **Consejo General de la Psicología de España (COP umbrella)** — No unified national position on PA/SAP; COP umbrella defers to per-CCAA Colegios Oficiales de Psicología, producing per-CCAA variation rather than a single position-statement-against or position-statement-for. — <https://www.cop.es/> — see practitioner `practitioner:es.cop`
+- **Colegio Oficial de la Psicología de Madrid (COP Madrid)** — Recognition-tolerant in forensic-family practice: tolerates manipulación/interferencias parentales constructs in peritajes, while avoiding the SAP label per LOPIVI. — <https://www.copmadrid.org/>
+- **Colegio Oficial de Psicología de Andalucía Occidental / Oriental** — Critique-leaning: closer to LOPIVI Disp. ad. 17ª and to feminist-juridical positions; resistant to PA-style constructs in gender-violence cases. — <https://www.copao.com/>
+- **Col·legi Oficial de Psicologia de Catalunya (COPC)** — Mixed position; forensic-family section has historically tolerated interferencias parentales while the general college aligns with LOPIVI on the SAP label. — <https://www.copc.cat/>
+- **Asociación Española de Neuropsiquiatría (AEN)** — Critique: AEN has issued position documents rejecting SAP as lacking scientific recognition, cited by LOPIVI advocates. — <https://aen.es/> — see practitioner `practitioner:es.aen`
+- **Save the Children España** — Critique: campaigned for LOPIVI Disp. ad. 17ª, frames SAP as a tool that obstructs child-protection in gender-violence contexts. — <https://www.savethechildren.es/> — see practitioner `practitioner:es.save-the-children-espana`
+- **Plataforma de Infancia** — Critique: aligned with Save the Children España line; LOPIVI advocacy coalition. — <https://www.plataformadeinfancia.org/>
+- **Themis — Asociación de Mujeres Juristas** — Critique: feminist juridical position; key voice in inscribing Disp. ad. 17ª into LOPIVI and in critiquing AP-level recognition-tolerant rulings. — <https://www.mujeresjuristasthemis.org/>
+- **FEDEPE — Federación Española de Mujeres Directivas, Ejecutivas, Profesionales y Empresarias** — Critique: aligned with Themis line in public advocacy on PA-related family-court practice. — <https://www.fedepe.org/>
+- **Equipos Psicosociales adscritos a los juzgados de familia (EPF)** — Operational forensic teams attached to family courts; individual peritos NOT named as practitioners for ethical reasons (civil-servant role). EPF practice varies by CCAA and tracks the per-CCAA COP variation pattern. — <https://www.poderjudicial.es/>
+- **Instituto de Medicina Legal y Ciencias Forenses (IMLCF)** — Forensic medical institutes serving the courts; individual peritos NOT named for ethical reasons (civil-servant role). — <https://www.mjusticia.gob.es/>
 
-Spanish civil procedure operates under *libre valoración de la prueba* (free evaluation of evidence) per art. 218.2 LEC, constrained by *sana crítica*. There is no separate "clear and convincing" threshold for PA-type findings. The *interés superior del menor* under art. 2 LO 1/1996 governs all child-welfare assessments and was strengthened by the 2015 LO 8/2015 reform.
+## Anonymisation convention
 
-## Forensic evaluation framework
+Tribunal Supremo sentences are anonymised per LOPJ art. 232 and CENDOJ publication policy; Audiencias Provinciales family-case names typically use initials for adult parties and never name minors. Cross-references in this dataset use the STS roll number (e.g., STS 519/2017) rather than party names.
 
-- **Perito psicólogo / perito psiquiatra** under arts. 335–352 LEC — court-appointed or party-proposed expert evidence; bound by *imparcialidad* and *contradicción*.
-- **Equipos psicosociales** attached to the *juzgados de familia* — multidisciplinary teams (psychologist + social worker) producing *informes psicosociales* on family situation; some autonomous communities have differentiated procedures.
-- **Audiencia del menor** under art. 9 LO 1/1996 (as amended by LO 8/2021) — child's right to be heard, with technical support.
-- **Ministerio Fiscal** intervention in all proceedings concerning minors per art. 749 LEC.
-- Post-Ley Rhodes, *informes psicosociales* invoking SAP face elevated scrutiny; CGPJ guidance directs courts to interrogate the empirical basis of any SAP framing.
+## Key developments
 
-## Reunification programs
+- **2005** — Ley 15/2005 reforms Código Civil and LEC on separation and divorce, opening the custodia compartida framework within which PA-style manipulación/influencia arguments became frequent. — <https://www.boe.es/buscar/act.php?id=BOE-A-2005-11864>
+- **2017** — 22 September 2017 — STS 519/2017 (Sala Primera, ponente Arroyo Fiestas) adopts a methodological-middle stance: treats manipulación and influencia negativa de un progenitor sobre el menor as decisive welfare factors for custody, but AVOIDS the 'síndrome de alienación parental' label. Pre-LOPIVI anchor. — <https://www.poderjudicial.es/search/AN/openDocument/8b3fb3a3c20d3a8a/20171005>
+- **2021** — 4 June 2021 — LO 8/2021 (LOPIVI) promulgated; Disposición adicional decimoséptima directs public administrations not to admit 'el llamado síndrome de alienación parental' in violence-related proceedings. Spain becomes the world's only PA-inadmission statutory jurisdiction (opposite direction to Brazil's Lei 12.318/2010 recognition). — <https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347>
+- **2023** — PIVIP work by Asunción Tejedor and colleagues consolidates the terminological-arbitrage gap: 'interferencias parentales' / 'manipulación de la voluntad del menor' are used in peritajes to address the underlying conduct while avoiding the LOPIVI-named SAP label. — <https://www.cop.es/>
 
-- **Puntos de Encuentro Familiar (PEF)** — supervised-contact centres operated by autonomous communities; the principal judicial tool when contact is impaired.
-- **Coordinación de parentalidad** — recognised in *Cataluña* under the Llibre II of the Codi civil and in case-law of the Tribunal Superior de Justicia de Cataluña; not yet generalised at state level.
-- **Mediación familiar** — *Ley 5/2012, de 6 de julio* (state-level mediation framework) plus autonomous-community implementing laws.
-- US/Anglo-style coercive residential reunification programmes are not part of the Spanish toolkit and would face significant doctrinal hurdles under arts. 24 CE (effective judicial protection) and the *interés superior del menor* standard.
+## Structural findings
 
-## Domestic-violence interaction
+- Spain and Brazil are the world's only two statutory PA jurisdictions and they point in opposite directions: Spain (LOPIVI 2021 Disp. ad. 17ª) inadmits SAP, Brazil (Lei 12.318/2010) recognises alienação parental.
+- LOPIVI Disp. ad. 17ª targets only the SAP label by exact name plus 'denominaciones análogas que no hayan sido reconocidas por las comunidades científica y sanitaria'; this creates a terminological-arbitrage gap that PIVIP (interferencias parentales / manipulación de la voluntad del menor) occupies.
+- There is no unified national COP position on PA/SAP. The Consejo General defers to per-CCAA Colegios Oficiales, producing recognition-tolerant Madrid and Catalunya forensic-family practice alongside critique-leaning Andalucía practice. This per-CCAA variation is the opposite of the unified national regulator pattern seen in Germany (BDP) and the United Kingdom (ACP / BPS).
+- STS 519/2017 diverges from LOPIVI in substance: the Tribunal Supremo adopted a methodological-middle stance that treats manipulación/influencia negativa as decisive without naming SAP, but LOPIVI subsequently moved past STS 519/2017 without ratifying that reasoning. The legislator did not adopt the TS framing.
+- Sonia Vaccaro, Argentine-Spanish and Madrid-based, coined 'violencia vicaria'; the term now appears in BOE-level documents and is part of the Spanish critique vocabulary around PA.
+- EPF (Equipos Psicosociales) and IMLCF civil-servant peritos are NOT named as practitioners in this dataset for ethical reasons — this is a structural finding by pattern across the Spanish forensic-family system.
+- Miguel Lorente Acosta is médico-forense (forensic physician), not psicólogo; he served as Delegado del Gobierno para la Violencia de Género (2008-2011). His critique of SAP is medical-forensic, not psychological, which matters for taxonomising the Spanish critique line.
 
-- DV cases involving an intimate partner go to *Juzgados de Violencia sobre la Mujer* under LO 1/2004; these specialised courts have jurisdiction over both criminal DV proceedings and any associated family-court matters.
-- LO 8/2021 ("Ley Rhodes") expressly directs that custody and contact decisions take account of DV findings and prohibits use of "*supposed parental alienation syndrome*" in decisions affecting children (see Disposición Final).
-- The interaction between DV findings and contact suspension under art. 94 CC (as amended) is now one of the most-litigated areas in Spanish family law; *Audiencias Provinciales* are divided on the threshold for automatic suspension.
+## See also
 
-## Key resources
+- `case-study:sts-519-2017-spain`
+- `practitioner:es.aguilar-cuenca-jose-manuel`
+- `practitioner:es.tejedor-huerta-asuncion`
+- `practitioner:es.bolanos-cartujo-ignacio`
+- `practitioner:es.vilalta-suarez-ramon`
+- `practitioner:es.escudero-nafs-antonio`
+- `practitioner:es.vaccaro-sonia`
+- `practitioner:es.barea-payueta-consuelo`
+- `practitioner:es.lorente-acosta-miguel`
+- `practitioner:es.montero-gomez-andres`
+- `practitioner:es.cop`
+- `practitioner:es.aen`
+- `practitioner:es.save-the-children-espana`
+- `jurisdiction:brazil`
+- `jurisdiction:argentina`
+- `jurisdiction:italy`
 
-- Case studies: [STS 519/2017 (Sala Primera)](../case-studies/sts-519-2017-tribunal-supremo-alienacion-parental.md)
-- Statutes: [Código civil — BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763) | [Ley Orgánica 8/2021 ("Ley Rhodes") — BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347) | [LO 1/2004 (LIVG) — BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760) | [LEC — BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2000-323)
-- Tribunal Supremo jurisprudence: [CENDOJ — Buscador](https://www.poderjudicial.es/search/indexAN.jsp)
-- Consejo General del Poder Judicial: [CGPJ](https://www.poderjudicial.es/cgpj/es/Poder-Judicial)
-- Practitioner organisations: Asociación Española de Abogados de Familia (AEAFA); Sociedad Española de Psicología Jurídica y Forense (SEPJF)
-- Court portal: [Administración de Justicia](https://www.administraciondejusticia.gob.es/)
-- Cross-reference: [/case-studies/global-comparison.md](../case-studies/global-comparison.md)
+## Sources
 
-## Honest gaps
+1. **BOE — LO 8/2021 LOPIVI (texto consolidado)** — <https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347> (Boletín Oficial del Estado) [es]
+2. **CENDOJ — Buscador de Jurisprudencia del Tribunal Supremo** — <https://www.poderjudicial.es/search/indexAN.jsp> (Consejo General del Poder Judicial) [es]
+3. **LegalLayer — análisis de jurisprudencia sobre alienación parental y LOPIVI** — <https://legallayer.com/> (LegalLayer) [es]
+4. **Vlex España — repertorio de jurisprudencia AP/TS sobre interferencias parentales** — <https://vlex.es/> (Vlex) [es]
+5. **Consejo General de la Psicología de España (COP)** — <https://www.cop.es/> (Consejo General de la Psicología) [es]
+6. **Themis — Asociación de Mujeres Juristas** — <https://www.mujeresjuristasthemis.org/> (Themis) [es]
+7. **Confilegal — cobertura jurídica de LOPIVI y STS Sala Primera** — <https://confilegal.com/> (Confilegal) [es]
+8. **Bastida Abogados — análisis práctico de LOPIVI Disp. ad. 17ª** — <https://bastidabogados.com/> (Bastida Abogados) [es]
+9. **Iustel — base de datos jurídica española** — <https://www.iustel.com/> (Iustel) [es]
+10. **Blog de Sariego Morillo — análisis de derecho de familia y custodia** — <https://www.sariegomorillo.com/blog/> (Sariego Morillo Abogados) [es]
 
-- Post-Ley Rhodes Sala Primera arrêts have not yet produced a definitive doctrinal statement on whether informe psicosocial may use SAP language at all; this remains contested at the Audiencias Provinciales level.
-- The exact text of CGPJ internal guidance discouraging SAP is **not publicly confirmed** in a single citable URL and is referenced through derivative practitioner sources.
-- Catalan *coordinació de parentalitat* practice has produced a substantial body of TSJ-Cat case-law that is not surveyed here.
+## Editorial notes
+
+- Primary sources first: BOE for LOPIVI Disp. ad. 17ª statutory text; CENDOJ for STS 519/2017.
+- LOPIVI Disp. ad. 17ª verbatim Spanish anchor: 'el llamado síndrome de alienación parental' — translation_en: 'the so-called parental alienation syndrome'. The verbatim 'llamado' is load-bearing because it signals legislative distancing from the construct.
+- STS 519/2017 substantively diverges from LOPIVI: the TS treats manipulación/influencia negativa as decisive welfare factors without naming SAP; LOPIVI then moves past the TS without ratifying that reasoning. Both directions of divergence are preserved.
+- Per-CCAA COP variation recorded as a structural finding (opposite of DE/UK unified-regulator pattern).
+- EPF and IMLCF peritos NOT named individually for ethical reasons (civil-servant role); recorded as a structural finding by pattern.
+- Miguel Lorente Acosta classified as médico-forense (not psicólogo) and as Delegado del Gobierno 2008-2011; this matters for taxonomising the critique line.
+- Sonia Vaccaro is Argentine-Spanish, Madrid-based; coined 'violencia vicaria', now in BOE-level documents.
+
 
 ---
 
-*Spain · Last updated 2026-05-25 · CC BY 4.0 · [AntiAlienate.com](https://www.antialienate.com)*
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
