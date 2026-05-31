@@ -2,7 +2,7 @@
   "schema": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
   "type": "case-study",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T19:10:55Z",
+  "generated": "2026-05-31T19:44:33Z",
   "cases": [
     {
       "path": "case-studies/bverfg-1-bvr-1076-23-germany-2023.json",
@@ -19,6 +19,22 @@
       "schema_version": "1.0",
       "references_count": 4,
       "sources_count": 3
+    },
+    {
+      "path": "case-studies/cass-1re-civ-12-14-392-2013-france.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/cass-1re-civ-12-14-392-2013-france.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/cass-1re-civ-12-14-392-2013-france.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/cass-1re-civ-12-14-392-2013-france.json",
+      "slug": "cass-1re-civ-12-14-392-2013-france",
+      "caption": "Cour de cassation, 1re Chambre civile, arrêt du 26 juin 2013, n° 12-14.392",
+      "ecli": "ECLI:FR:CCASS:2013:C100725",
+      "neutral_citation": "Cass. 1re civ., 26 juin 2013, n° 12-14.392, Bull. civ. I",
+      "jurisdiction_code": "FR",
+      "decision_date": "2013-06-26",
+      "court": "Cour de cassation, Première Chambre civile",
+      "schema_version": "1.0",
+      "references_count": 7,
+      "sources_count": 13
     },
     {
       "path": "case-studies/cassazione-13217-2021-italy.json",
@@ -243,6 +259,54 @@
       "schema_version": "1.0",
       "references_count": 6,
       "sources_count": 14
+    },
+    {
+      "path": "case-studies/sn-iii-czp-20-25-poland-2025.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/sn-iii-czp-20-25-poland-2025.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/sn-iii-czp-20-25-poland-2025.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/sn-iii-czp-20-25-poland-2025.json",
+      "slug": "sn-iii-czp-20-25-poland-2025",
+      "caption": "Sąd Najwyższy, uchwała III CZP 20/25",
+      "ecli": null,
+      "neutral_citation": null,
+      "jurisdiction_code": "PL",
+      "decision_date": "2025-10-03",
+      "court": "Sąd Najwyższy, Izba Cywilna",
+      "schema_version": "1.0",
+      "references_count": 6,
+      "sources_count": 14
+    },
+    {
+      "path": "case-studies/stj-resp-1859228-sp-2024.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/stj-resp-1859228-sp-2024.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/stj-resp-1859228-sp-2024.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/stj-resp-1859228-sp-2024.json",
+      "slug": "stj-resp-1859228-sp-2024",
+      "caption": "STJ, REsp 1859228/SP, 2024 (Rel. Min. Nancy Andrighi)",
+      "ecli": null,
+      "neutral_citation": "REsp 1.859.228/SP",
+      "jurisdiction_code": "BR",
+      "decision_date": "2024-01-01",
+      "court": "Superior Tribunal de Justiça (3ª Turma)",
+      "schema_version": "1.0",
+      "references_count": 7,
+      "sources_count": 13
+    },
+    {
+      "path": "case-studies/stj-resp-2108750-go-2024.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/stj-resp-2108750-go-2024.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/stj-resp-2108750-go-2024.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/stj-resp-2108750-go-2024.json",
+      "slug": "stj-resp-2108750-go-2024",
+      "caption": "STJ, REsp 2108750/GO, 2024",
+      "ecli": null,
+      "neutral_citation": null,
+      "jurisdiction_code": "BR",
+      "decision_date": "2024-01-01",
+      "court": "Superior Tribunal de Justiça (Terceira Turma)",
+      "schema_version": "1.0",
+      "references_count": 6,
+      "sources_count": 15
     },
     {
       "path": "case-studies/sts-519-2017-spain.json",
