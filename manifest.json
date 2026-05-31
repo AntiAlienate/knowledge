@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T21:54:57Z",
+  "generated": "2026-05-31T22:28:20Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 4,
+    "jurisdictions": 8,
     "evidence_pages": 0
   },
   "indexes": {
@@ -36,12 +36,36 @@
   },
   "jurisdictions": [
     {
+      "id": "argentina",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/argentina.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/argentina.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AR",
+      "name": "Argentina"
+    },
+    {
       "id": "brazil",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brazil.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brazil.json",
       "schema_version": "1.0",
       "jurisdiction_code": "BR",
       "name": "Brazil"
+    },
+    {
+      "id": "england-and-wales",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/england-and-wales.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/england-and-wales.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "UK-EWS",
+      "name": "United Kingdom (England & Wales)"
+    },
+    {
+      "id": "france",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/france.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/france.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "FR",
+      "name": "France"
     },
     {
       "id": "germany",
@@ -58,6 +82,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "IT",
       "name": "Italy"
+    },
+    {
+      "id": "scotland",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/scotland.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/scotland.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "UK-SCO",
+      "name": "Scotland"
     },
     {
       "id": "spain",

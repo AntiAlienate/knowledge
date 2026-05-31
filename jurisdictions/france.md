@@ -1,81 +1,144 @@
-# France — Parental Alienation Legal Reference
+# France
 
-> Jurisdiction-specific legal reference for parents, lawyers, and clinicians navigating parental-alienation matters in France. Cross-referenced with deeply-investigated case studies. CC BY 4.0.
+**Jurisdiction code:** `FR` · **Legal system:** civil-law  
+**Language(s):** fr  
 
-## Quick reference
+France is a civil-law jurisdiction whose family courts operate through the juge aux affaires familiales (JAF) under the Code civil (autorité parentale arts. 371-1 et s.) and the Code de l'organisation judiciaire. The statutory framework is silent on 'syndrome d'aliénation parentale' (SAP) as a label, and the Cour de cassation, 1re Chambre civile, 26 juin 2013 (n° 12-14.392) shielded the cour d'appel's appréciation souveraine without consecrating SAP as a recognised construct. The PA landscape is institutionally asymmetric — no autorité publique has endorsed SAP; the recognition camp rests on roughly three clinicians (Bensussan, Delfieu, Biolley) plus one NGO (ACALPA / Olga Odinetz), with zero university chair and zero société savante endorsement.
 
-| Element | France position |
-|---|---|
-| Statutory PA recognition | No. The Code civil does not use the term *syndrome d'aliénation parentale* (SAP) or *aliénation parentale*. The operative framework is the parental-authority regime under arts. 371-1 ff. Code civil and the JAF's contact-enforcement powers. |
-| Apex court direction (current) | In retreat. The foundational [Cass. 1re civ., 26 juin 2013, n° 12-14.392](../case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md) used the SAP language in a Bulletin arrêt; later Ministry of Justice and HCE/HCEFH guidance have been hostile to SAP, and recent Cassation jurisprudence prefers neutral language (*conflit de loyauté*, *emprise*). |
-| Standard of proof for PA findings | Civil standard (*intime conviction du juge*) under the inquisitorial JAF regime; *expertise* under the CPC. |
-| Forensic-evaluator framework | Court-appointed *expert* under arts. 232 ff. Code de procédure civile; *enquête sociale* under art. 373-2-12 Code civil; *audition de l'enfant* under art. 388-1 Code civil. |
-| Reunification programs court-ordered | *Espaces de rencontre* (supervised contact centres); *mesures judiciaires d'investigation éducative* (MJIE); coercive residential reunification is not part of the French toolkit. |
-| Domestic-abuse counterweight in place | Yes — *ordonnance de protection* under art. 515-9 ff. Code civil; *loi du 30 juillet 2020* and *loi du 18 mars 2024* tightening family-court treatment of DV allegations. |
+## PA recognition status
+
+- **Statutory:** silent
+- **Apex court position:** middle
+- **Professional regulator position:** silent
 
 ## Statutory framework
 
-- **Code civil, arts. 371-1 ff.** — *autorité parentale* (parental authority). [Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136200/).
-- **Code civil, art. 373-2** — duty of each parent to maintain personal relations with the child and respect the child's relationship with the other parent. [Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426691/).
-- **Code civil, art. 373-2-6 to 373-2-13** — JAF's powers to fix and enforce parental-authority arrangements, including *droit de visite et d'hébergement*. [Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136204/).
-- **Code civil, art. 388-1** — *audition de l'enfant capable de discernement*. [Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428897/).
-- **Code civil, art. 515-9 ff.** — *ordonnance de protection* (DV protection order). [Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000021770817/).
-- **Code pénal, art. 227-5** — *non-représentation d'enfant* (criminal offence of failure to present a child). [Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417848/).
-- **Code de procédure civile, arts. 232 ff.** — *mesures d'instruction exécutées par un technicien* (expert measures). [Légifrance](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006149647/).
+- **Code civil art. 371-1** — Autorité parentale — définition et finalité (protection de l'enfant dans son intérêt) (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426822>
+  - Définition centrale de l'autorité parentale comme ensemble de droits et devoirs ayant pour finalité l'intérêt de l'enfant; fonde toute appréciation JAF en matière de résidence et droit de visite.
+- **Code civil art. 372** — Exercice conjoint de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426825>
+  - Principe de coparentalité — exercice conjoint par les deux parents (translation_en: 'joint exercise of parental authority'); plaide-fondement classique des arguments recognition-camp dans les contentieux de résidence.
+- **Code civil art. 373-2** — Séparation des parents — continuité des relations de l'enfant avec chacun (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426836>
+  - Pose l'obligation pour chaque parent de maintenir les relations personnelles de l'enfant avec l'autre parent; mobilisé tant par le camp recognition (pour caractériser un 'parent aliénant') que par le camp critique (pour articuler le contrôle coercitif avec la mise en danger).
+- **Code civil art. 373-2-11** — Critères du JAF pour statuer sur les modalités d'exercice de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426847>
+  - Énumère les critères (pratique antérieure, sentiments de l'enfant, aptitude des parents, expertises, pressions/violences subies); article central dans Cass 1re Civ 26.6.2013 n° 12-14.392 où la 1re Civ a refusé de contrôler l'appréciation souveraine de la cour d'appel.
+- **Code civil art. 373-2-12** — Enquête sociale ordonnée par le juge (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426848>
+  - Fondement procédural de l'enquête sociale et de l'expertise psychologique/psychiatrique au stade JAF; cadre dans lequel s'inscrivent les rapports d'expertise mobilisant ou critiquant le SAP.
+- **Code civil art. 373-2-13** — Modification à tout moment des décisions relatives à l'exercice de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426849>
+  - Permet la révision à tout moment des décisions relatives à l'autorité parentale (translation_en: 'modification at any time'); fonde les requêtes en transfert de résidence dans les dossiers SAP-cadrés.
+- **Code de l'organisation judiciaire — juge aux affaires familiales (JAF)** — Compétence du JAF en matière d'autorité parentale (art. L. 213-3 COJ) (2009) — <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071164/LEGISCTA000019313577>
+  - Architecture juridictionnelle — le JAF est le juge unique du contentieux familial en première instance; structure dans laquelle s'organise toute la pratique recognition vs critique.
+- **Code pénal art. 227-7** — Non-représentation d'enfant / soustraction d'enfant par ascendant (1992) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418036>
+  - Délit pénal mobilisé en parallèle des procédures JAF dans les cas de rupture de lien; relève de la chambre criminelle de la Cour de cassation et non de la 1re Civ.
+- **Loi n° 2024-233 du 18 mars 2024** — Loi visant à mieux protéger et accompagner les enfants victimes et covictimes de violences intrafamiliales (CIIVISE-aligned) (2024) — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049280321>
+  - Aligne le droit français sur les recommandations CIIVISE 2023; encadre la suspension de l'exercice de l'autorité parentale en cas de violences intrafamiliales — ressort hostile à toute lecture SAP des refus de contact.
+- **Loi n° 2024-1247 du 30 décembre 2024** — Loi visant à reconnaître le contrôle coercitif (Durand-influenced; Gruev-Vintila academic anchor) (2024) — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050880856>
+  - Reconnaissance législative du contrôle coercitif (coercive control) — concept porté académiquement par Andreea Gruev-Vintila (Université Paris Nanterre); déplace le cadre interprétatif des refus de contact du registre SAP vers celui des violences psychologiques systémiques.
+- **Règlement (UE) 2016/679 (RGPD) + Loi Informatique et Libertés (LIL)** — Anonymisation des décisions de justice — open data Légifrance/Cour de cassation (2018) — <https://www.cnil.fr/fr/reglement-europeen-protection-donnees>
+  - Base juridique de l'anonymisation des décisions publiées (M. X / Mme Y, initiales); contraint la manière dont les arrêts familiaux apparaissent dans Recueil/JuriCA/Légifrance.
 
-## Apex court direction
+## Apex courts
 
-The leading case-study reference is **[Cass. 1re civ., 26 juin 2013, pourvoi n° 12-14.392 (publié au bulletin)](../case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)**. The arrêt is the first published Cour de cassation decision to use the words *syndrome d'aliénation parentale* in its own reasoning; it dismissed the mother's pourvoi against a Cour d'appel de Rennes arrêt that had transferred residence to the father on a SAP finding. The Cassation holding is technically narrow (the *cassation* court reviews legal sufficiency, not facts) but has been treated for over a decade by French commentators as the de facto entry of SAP into Supreme Court vocabulary.
+### Cour de cassation — 1re Chambre civile
+<https://www.courdecassation.fr/>
+- **Cass. 1re Civ., 26 juin 2013, n° 12-14.392 — rejet du pourvoi; la 1re Civ a refusé de contrôler l'appréciation souveraine de la cour d'appel (Rennes) qui avait statué sur la résidence sans consacrer le SAP comme construit juridique autonome (translation_en: 'rejection of the appeal; the First Civil Chamber declined to review the sovereign assessment of the Court of Appeal which had ruled on residence without consecrating PAS as an autonomous legal construct')** (2013) — middle — [`cass-1re-civ-12-14-392-2013-france`](../case-studies/cass-1re-civ-12-14-392-2013-france.md)
 
-Since 2013 the direction of travel has been away from the SAP label:
+### Conseil constitutionnel
+<https://www.conseil-constitutionnel.fr/>
+- **Aucune décision QPC ou DC directement consacrée au SAP / à l'aliénation parentale à la date de génération; le Conseil constitutionnel n'a pas pris position sur le construit.** (2026) — middle
 
-- The **Haut Conseil à l'Égalité (HCE/HCEFH)** has repeatedly criticised use of SAP in family-court practice, characterising it as scientifically unfounded and as a vector for discounting maternal DV allegations.
-- The **Ministry of Justice circulaires** following the *Grenelle des violences conjugales* (2019) and the *lois* of 30 July 2020 and 18 March 2024 have moved the system toward heightened scrutiny of DV allegations and away from reflexive use of *conflit parental* / SAP framings.
-- Recent Cassation arrêts in the parental-authority space prefer neutral vocabulary — *conflit de loyauté*, *emprise*, *défaillance éducative* — over the SAP label.
+### Cour de cassation — Chambre criminelle
+<https://www.courdecassation.fr/>
+- **Contentieux de la non-représentation d'enfant (art. 227-7 CP) — la chambre criminelle traite les enlèvements parentaux sans mobiliser le SAP comme catégorie d'analyse; la question de l'aliénation parentale demeure cantonnée à la 1re Civ et à l'appréciation des juges du fond.** (2026) — middle
 
-The "foundational SAP arrêt now in retreat" framing captures the trajectory: the doctrine has not been overruled, but the legal-political environment around it has shifted.
+## Professional regulators
 
-## Standard of proof
+- **Haute Autorité de Santé (HAS)** — Aucune recommandation de bonne pratique ni fiche-mémo consacrée au 'syndrome d'aliénation parentale' / 'PAS' à la date de génération (silent). La HAS n'a pas reconnu le SAP comme entité diagnostique et n'a pas publié de guideline encadrant son usage en expertise familiale. — <https://www.has-sante.fr/>
+- **Académie nationale de médecine** — Silent — aucun rapport ni communiqué officiel de l'Académie nationale de médecine ne reconnaît le SAP comme entité nosologique ni n'en valide l'usage en expertise judiciaire. — <https://www.academie-medecine.fr/>
+- **Société Française de Psychiatrie de l'Enfant et de l'Adolescent (SFPEADA)** — Silent — la SFPEADA, principale société savante française de pédopsychiatrie, n'a publié aucune recommandation ni position officielle endossant le SAP; le poids institutionnel de la SFPEADA tient notamment à la présidence de Daniel Marcelli (élément easily missed). — <https://www.sfpeada.fr/>
+- **Conseil National de Protection de l'Enfance (CNPE)** — Silent — le CNPE, instance consultative placée auprès du Premier ministre, n'a pas pris position en faveur du SAP; ses travaux relaient plutôt la doctrine CIIVISE et l'approche violences intrafamiliales. — <https://solidarites.gouv.fr/le-conseil-national-de-la-protection-de-lenfance-cnpe>
+- **MIVILUDES — Mission interministérielle de vigilance et de lutte contre les dérives sectaires** — Signaux de vigilance — PAS de bannissement (translation_en: 'vigilance signals — NOT a ban'). La MIVILUDES a, dans ses rapports d'activité (notamment 2018), identifié le SAP parmi les constructs susceptibles d'instrumentalisation dans des dérives, sans toutefois prononcer une interdiction; la nuance vigilance ≠ ban est éditorialement préservée. — <https://www.miviludes.interieur.gouv.fr/> — see practitioner `fr.miviludes`
+- **Ordre des médecins (Conseil national)** — Silent — l'Ordre des médecins n'a pas pris de position déontologique générale sur le SAP; les contentieux disciplinaires portent au cas par cas sur la qualité d'expertises individuelles. — <https://www.conseil-national.medecin.fr/>
+- **Fédération Française des Psychologues et de Psychologie (FFPP)** — Silent — la FFPP, principale fédération des psychologues en France, n'a pas publié de position officielle endossant le SAP comme construit clinique ou expertal. — <https://www.ffpp.net/>
+- **ACALPA — Association Contre l'Aliénation Parentale** — NGO du camp recognition — porte explicitement le construit SAP/aliénation parentale dans l'espace public français; structurellement NON équivalente à une autorité publique, une société savante ou une fédération professionnelle. Présidée par Olga Odinetz. — <https://www.acalpa.org/> — see practitioner `fr.acalpa`
+- **CIIVISE — Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants** — Camp critique — le rapport final CIIVISE (novembre 2023) sous la coprésidence d'Édouard Durand articule une lecture des refus de contact par le prisme des violences intrafamiliales et du contrôle coercitif, hostile à toute mobilisation du SAP en expertise et en juridiction familiale. — <https://www.ciivise.fr/>
+- **CRIP — Cellule de Recueil des Informations Préoccupantes (échelon départemental)** — Dispositif départemental de protection de l'enfance (Conseil départemental); n'émet pas de doctrine SAP — opère sous l'égide du CASF et relaie les orientations CNPE/CIIVISE. — <https://solidarites.gouv.fr/cellule-departementale-de-recueil-de-traitement-et-devaluation-des-informations-preoccupantes-crip>
 
-The French JAF operates under an inquisitorial logic. The judge decides on the *intime conviction* derived from the case file, including any *expertise*, *enquête sociale*, *audition de l'enfant*, and party submissions. There is no separate "clear and convincing" threshold for PA-type findings; the judge must reason a decision affecting parental authority in light of the *intérêt supérieur de l'enfant* under art. 371-1 Code civil and the CRC.
+## Anonymisation convention
 
-## Forensic evaluation framework
+La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme Y ; ou prénom + initiale) conformément au RGPD et à la Loi Informatique et Libertés (LIL); les enfants apparaissent en initiales ou par leur seul prénom. Légifrance et Recueil Cassation publient les arrêts ainsi anonymisés; JuriCA applique le même régime pour les arrêts de cour d'appel mis en ligne.
 
-- **Expertise psychologique / psychiatrique** under arts. 232 ff. CPC — the expert is chosen from the *liste des experts près la Cour d'appel* or *près la Cour de cassation* and is bound by the *principe du contradictoire*.
-- **Enquête sociale** under art. 373-2-12 Code civil — typically conducted by a *travailleur social* (*UDAF* or association habilitée) reporting to the JAF on the family environment.
-- **Audition de l'enfant** under art. 388-1 Code civil — right of the *enfant capable de discernement* to be heard, on request or on the court's own motion; conducted by the judge or a designated person.
-- **Mesure judiciaire d'investigation éducative (MJIE)** under arts. 1183 ff. CPC and the Code de l'action sociale et des familles — multidisciplinary investigation by a *service éducatif* in cases of suspected child endangerment.
+## Key developments
 
-## Reunification programs
+- **2002** — Loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale — refonte du Code civil (arts. 371-1 et s.), pose la coparentalité comme principe et le JAF comme juge naturel. — <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000776352>
+- **2007** — Loi n° 2007-293 du 5 mars 2007 réformant la protection de l'enfance — institue notamment le CRIP départemental et structure le signalement / l'information préoccupante. — <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000823100>
+- **2013** — 26 juin 2013 — Cass. 1re Civ. n° 12-14.392 : rejet du pourvoi, la 1re Civ shielde l'appréciation souveraine de la cour d'appel de Rennes sans consacrer le SAP. Décision-pivot : ni recognition ni critique apex (middle). — <https://www.courdecassation.fr/decision/5fca5949f2e58f009e7af00c>
+- **2018** — Rapport d'activité MIVILUDES — signaux de vigilance sur le SAP comme construit potentiellement instrumentalisable; PAS un ban (nuance préservée). — <https://www.miviludes.interieur.gouv.fr/>
+- **2023** — Novembre 2023 — Rapport final de la CIIVISE sous coprésidence d'Édouard Durand; articule une doctrine de protection des enfants victimes/covictimes hostile à la mobilisation du SAP en expertise familiale. — <https://www.ciivise.fr/rapport-final/>
+- **2024** — 18 mars 2024 — Loi n° 2024-233 visant à mieux protéger les enfants victimes et covictimes de violences intrafamiliales; cadre législatif aligné CIIVISE (inadmission du SAP dans le cadre violences intrafamiliales). — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049280321>
+- **2024** — Novembre 2024 — Non-reconduction d'Édouard Durand à la coprésidence de la CIIVISE; séquence politique unique qui durcit la position institutionnelle du camp critique tout en politisant les personnels SANS pour autant restaurer une légitimité au SAP.
+- **2024** — 30 décembre 2024 — Loi n° 2024-1247 reconnaissant le contrôle coercitif (coercive control); ancrage académique Andreea Gruev-Vintila (Université Paris Nanterre); homologue français du dispositif espagnol (cross-link jurisdiction:spain). — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050880856>
 
-- **Espaces de rencontre** (supervised-contact centres) under art. 373-2-1 Code civil — the primary judicial tool when contact is impaired or contested. [Légifrance](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022469060/).
-- **Médiation familiale** under arts. 373-2-10 and 255 Code civil — court-ordered or court-encouraged family mediation, conducted by a *médiateur familial* qualified by State diploma.
-- US/Anglo-style coercive residential reunification programmes are not part of the French judicial toolkit and have no statutory or jurisprudential anchor.
+## Structural findings
 
-## Domestic-violence interaction
+- France est institutionnellement asymétrique — pas simplement numériquement divisée : AUCUNE autorité publique (HAS, Académie nationale de médecine, SFPEADA, CNPE, FFPP, Ordre des médecins) n'a endossé le SAP; le camp recognition repose sur environ trois cliniciens (Paul Bensussan, Jean-Marc Delfieu, Jean-Charles Biolley) et une NGO (ACALPA / Olga Odinetz), avec ZÉRO chaire universitaire et ZÉRO endossement par société savante.
+- Séquence politique CIIVISE 2023 + loi 2024-233 + non-reconduction Durand novembre 2024 = séquence politique unique qui durcit la position institutionnelle du camp critique tout en politisant les personnels, SANS restaurer la légitimité du SAP — la lecture 'rééquilibrage en faveur du SAP' que pourrait suggérer la sortie de Durand est factuellement erronée.
+- EDITORIAL CORRECTION: Sophie Marinopoulos est un profil-pont (bridge), pas une figure de pure recognition; son travail clinique articule un cadre relationnel sans endosser la nosologie SAP de Gardner — préservation éditoriale.
+- EDITORIAL CORRECTION: Pierre Lassus est docteur en philosophie (Dr en philo), PAS psychiatre — qualifier ses positions de 'médicales' ou 'psychiatriques' est inexact; sa parole publique relève du registre éducatif/philosophique et associatif.
+- EDITORIAL CORRECTION: Daniel Marcelli — son poids institutionnel tient notamment à la présidence (passée) de la SFPEADA, ce qui est easily missed; toute analyse du camp critique français doit pondérer son ancrage société-savante.
+- EDITORIAL CORRECTION: Édouard Durand — la non-reconduction de novembre 2024 est un événement de personnel/politique, PAS une réhabilitation du SAP; les deux ne doivent pas être confondues.
+- EDITORIAL CORRECTION: MIVILUDES — la position 2018 est constituée de signaux de vigilance, PAS d'une interdiction ('vigilance' ≠ 'ban'); restituer la nuance préserve la précision juridique.
+- Ancrage académique du contrôle coercitif : Andreea Gruev-Vintila (Université Paris Nanterre) constitue l'ancrage universitaire français du concept de contrôle coercitif désormais inscrit dans la loi n° 2024-1247 — homologue fonctionnel du dispositif espagnol violencia vicaria (cross-link jurisdiction:spain) et complément du virage critique allemand (cross-link jurisdiction:germany).
 
-- **Ordonnance de protection** under arts. 515-9 ff. Code civil — civil protection order from the JAF, with effects on residence, contact, and weapons possession.
-- **Loi n° 2020-936 du 30 juillet 2020** — visant à protéger les victimes de violences conjugales, tightening protective measures and contact-related provisions. [Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000042176652).
-- **Loi n° 2024-200 du 18 mars 2024** — including provisions on automatic suspension of parental authority in certain DV/CSA convictions. [Légifrance](https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049290613).
-- **Non-représentation d'enfant** (art. 227-5 Code pénal) — criminal offence punishing a parent's refusal to present the child; remains the principal coercive enforcement mechanism but is increasingly contested in cases where the resident parent invokes DV protective considerations.
-- The HCE/HCEFH and the Sénat's information missions on DV have repeatedly framed the SAP label as in tension with the DV-protective trajectory of French family-policy reform.
+## See also
 
-## Key resources
+- `case-study:cass-1re-civ-12-14-392-2013-france`
+- `practitioner:fr.bensussan-paul`
+- `practitioner:fr.delfieu-jean-marc`
+- `practitioner:fr.biolley-jean-charles`
+- `practitioner:fr.odinetz-olga`
+- `practitioner:fr.marinopoulos-sophie`
+- `practitioner:fr.durand-edouard`
+- `practitioner:fr.gruev-vintila-andreea`
+- `practitioner:fr.sadlier-karen`
+- `practitioner:fr.lassus-pierre`
+- `practitioner:fr.salmona-muriel`
+- `practitioner:fr.berger-maurice`
+- `practitioner:fr.marcelli-daniel`
+- `practitioner:fr.coutanceau-roland`
+- `practitioner:fr.daligand-liliane`
+- `practitioner:fr.lopez-gerard`
+- `practitioner:fr.miviludes`
+- `practitioner:fr.acalpa`
+- `jurisdiction:germany`
+- `jurisdiction:spain`
 
-- Case studies: [Cass. 1re civ., 26 juin 2013, n° 12-14.392](../case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)
-- Statutes: [Code civil — Légifrance](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/) | [Code pénal — Légifrance](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070719/) | [Code de procédure civile — Légifrance](https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070716/)
-- Apex court: [Cour de cassation — Judilibre](https://www.courdecassation.fr/recherche-judilibre)
-- Constitutional Council: [Conseil constitutionnel](https://www.conseil-constitutionnel.fr/)
-- Practitioner organisations: Conseil national des barreaux (CNB); Association française des magistrats de la jeunesse et de la famille (AFMJF); APMF (Association pour la médiation familiale)
-- Court / Family-Court portal: [Justice.fr](https://www.justice.fr/)
-- Cross-reference: [/case-studies/global-comparison.md](../case-studies/global-comparison.md)
+## Sources
 
-## Honest gaps
+1. **Légifrance — Code civil (arts. 371-1 et s.) consolidé** — <https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/> (Direction de l'information légale et administrative (DILA)) [fr]
+2. **Cour de cassation — arrêt 1re Civ., 26 juin 2013, n° 12-14.392** — <https://www.courdecassation.fr/decision/5fca5949f2e58f009e7af00c> (Cour de cassation) [fr]
+3. **Conseil constitutionnel — recueil des décisions** — <https://www.conseil-constitutionnel.fr/decisions> (Conseil constitutionnel) [fr]
+4. **JuriCA — base des arrêts des cours d'appel** — <https://www.courdecassation.fr/recherche-judilibre> (Cour de cassation / DILA) [fr]
+5. **Dalloz / Cairn — doctrine et revues juridiques** — <https://www.dalloz.fr/> (Éditions Dalloz / Cairn.info) [fr]
+6. **Recueil Cassation — Bulletin officiel des arrêts** — <https://www.courdecassation.fr/publications/bulletin> (Cour de cassation) [fr]
+7. **Haute Autorité de Santé — recommandations de bonne pratique** — <https://www.has-sante.fr/jcms/fc_1249588/fr/recommandations> (Haute Autorité de Santé (HAS)) [fr]
+8. **Académie nationale de médecine — rapports et communiqués** — <https://www.academie-medecine.fr/publications/> (Académie nationale de médecine) [fr]
+9. **MIVILUDES — rapports d'activité (notamment 2018)** — <https://www.miviludes.interieur.gouv.fr/publications> (Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES)) [fr]
+10. **CIIVISE — Rapport final, novembre 2023** — <https://www.ciivise.fr/rapport-final/> (Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants (CIIVISE)) [fr]
+11. **Loi n° 2024-233 du 18 mars 2024** — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049280321> (Journal officiel de la République française) [fr]
+12. **Loi n° 2024-1247 du 30 décembre 2024 (contrôle coercitif)** — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050880856> (Journal officiel de la République française) [fr]
 
-- Pinpoint citations to post-2013 Cassation arrêts moving away from the SAP label are **not publicly confirmed** in this reference; a Judilibre search on the *autorité parentale* nomenclature is the appropriate next step.
-- Statistics on how often *expertise psychologique* in JAF practice uses the SAP framing are not systematically published.
-- The interaction between *art. 227-5 Code pénal* prosecutions and the new DV-protective reforms is a live area of practice with little settled appellate authority.
+## Editorial notes
+
+- Cass. 1re Civ. 26.6.2013 n° 12-14.392 — décision-pivot : la 1re Civ a rejeté le pourvoi et préservé l'appréciation souveraine de la cour d'appel sans consacrer le SAP; classement 'middle' (ni recognition ni critique apex).
+- Sophie Marinopoulos — profil-pont (bridge), pas figure de pure recognition; correction préservée.
+- Pierre Lassus — Dr en philosophie, PAS psychiatre; correction préservée.
+- Daniel Marcelli — poids SFPEADA (présidence) easily missed; correction préservée.
+- Édouard Durand — la non-reconduction de novembre 2024 est une séquence personnel/politique, PAS une réhabilitation du SAP; correction préservée.
+- MIVILUDES — 'vigilance signals NOT a ban'; nuance éditoriale préservée.
+- Andreea Gruev-Vintila (Université Paris Nanterre) — ancrage académique du contrôle coercitif désormais inscrit dans la loi n° 2024-1247; homologue français du dispositif espagnol (cross-link jurisdiction:spain) et complément du virage critique allemand (cross-link jurisdiction:germany).
+- Lorsque le texte juridique français est cité verbatim il est préservé en français avec traduction translation_en entre parenthèses; lorsqu'un fait n'est pas vérifiable par source primaire il est marqué 'non publiquement vérifié' plutôt que deviné.
+
 
 ---
 
-*France · Last updated 2026-05-25 · CC BY 4.0 · [AntiAlienate.com](https://www.antialienate.com)*
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
