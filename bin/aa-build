@@ -48,6 +48,8 @@ REPO_ROOT = pathlib.Path(os.environ.get("AA_REPO_ROOT", pathlib.Path.cwd()))
 SCHEMAS = REPO_ROOT / "schemas"
 PRACTITIONERS = REPO_ROOT / "practitioners"
 CASE_STUDIES = REPO_ROOT / "case-studies"
+JURISDICTIONS = REPO_ROOT / "jurisdictions"
+EVIDENCE = REPO_ROOT / "evidence"
 
 LICENSE_FOOTER = (
     "\n\n---\n\n"
@@ -85,11 +87,20 @@ def all_case_study_jsons() -> list[pathlib.Path]:
     return [p for p in sorted(CASE_STUDIES.glob("*.json")) if p.name not in _NON_ENTITY_BASENAMES]
 
 
+def all_jurisdiction_jsons() -> list[pathlib.Path]:
+    if not JURISDICTIONS.exists():
+        return []
+    return [p for p in sorted(JURISDICTIONS.glob("*.json")) if p.name not in _NON_ENTITY_BASENAMES]
+
+
 # ---------- validate ----------
 
 def cmd_validate(args) -> int:
     p_val = validator_for("practitioner")
     c_val = validator_for("case-study")
+    j_val = None
+    if (SCHEMAS / "jurisdiction.schema.json").exists():
+        j_val = validator_for("jurisdiction")
     errors = 0
     for f in all_practitioner_jsons():
         data = json.loads(f.read_text())
@@ -105,6 +116,12 @@ def cmd_validate(args) -> int:
         for e in c_val.iter_errors(data):
             print(f"FAIL {f}: {e.message} at {list(e.absolute_path)}", file=sys.stderr)
             errors += 1
+    if j_val is not None:
+        for f in all_jurisdiction_jsons():
+            data = json.loads(f.read_text())
+            for e in j_val.iter_errors(data):
+                print(f"FAIL {f}: {e.message} at {list(e.absolute_path)}", file=sys.stderr)
+                errors += 1
     print(f"validate: {errors} error(s)")
     return 1 if errors else 0
 
@@ -134,10 +151,20 @@ def collect_all_ids() -> dict[str, set[str]]:
             continue
         if "slug" in data:
             ids["case-study"].add(data["slug"])
-    for f in (REPO_ROOT / "jurisdictions").glob("*.md"):
-        ids["jurisdiction"].add(f.stem)
-    for f in (REPO_ROOT / "evidence").glob("*.md"):
-        ids["evidence"].add(f.stem)
+    # jurisdictions: prefer JSON id field; fall back to MD stem
+    for f in all_jurisdiction_jsons():
+        try:
+            data = json.loads(f.read_text())
+        except json.JSONDecodeError:
+            continue
+        if "id" in data:
+            ids["jurisdiction"].add(data["id"])
+    if JURISDICTIONS.exists():
+        for f in JURISDICTIONS.glob("*.md"):
+            ids["jurisdiction"].add(f.stem)
+    if EVIDENCE.exists():
+        for f in EVIDENCE.glob("*.md"):
+            ids["evidence"].add(f.stem)
     return ids
 
 
@@ -376,7 +403,9 @@ def render_case_study_md(data: dict) -> str:
 
 
 def cmd_render(args) -> int:
-    targets = [pathlib.Path(p) for p in args.paths] if args.paths else all_practitioner_jsons() + all_case_study_jsons()
+    targets = [pathlib.Path(p) for p in args.paths] if args.paths else (
+        all_practitioner_jsons() + all_case_study_jsons() + all_jurisdiction_jsons()
+    )
     n = 0
     for f in targets:
         if not f.exists() or f.suffix != ".json":
@@ -392,6 +421,8 @@ def cmd_render(args) -> int:
             if data.get("schema_version") != "2.0":
                 continue
             body = render_practitioner_md(data)
+        elif "jurisdictions" in f.parts:
+            body = render_jurisdiction_md(data)
         else:
             continue
         body += LICENSE_FOOTER
@@ -400,6 +431,101 @@ def cmd_render(args) -> int:
         n += 1
     print(f"render: {n} file(s) rebuilt")
     return 0
+
+
+def render_jurisdiction_md(data: dict) -> str:
+    lines = [f"# {data['name']}", ""]
+    lines.append(f"**Jurisdiction code:** `{data['jurisdiction_code']}` · **Legal system:** {data['legal_system']}  ")
+    if data.get("language"):
+        lines.append(f"**Language(s):** {', '.join(data['language'])}  ")
+    lines.append("")
+    lines.append(data.get("summary", ""))
+    lines.append("")
+    if data.get("pa_recognition_status"):
+        s = data["pa_recognition_status"]
+        lines.append("## PA recognition status")
+        lines.append("")
+        lines.append(f"- **Statutory:** {s.get('statutory','—')}")
+        lines.append(f"- **Apex court position:** {s.get('apex_court_position','—')}")
+        lines.append(f"- **Professional regulator position:** {s.get('professional_regulator_position','—')}")
+        lines.append("")
+    if data.get("statutory_framework"):
+        lines.append("## Statutory framework")
+        lines.append("")
+        for st in data["statutory_framework"]:
+            line = f"- **{st['citation']}**"
+            if st.get("title"): line += f" — {st['title']}"
+            if st.get("year"): line += f" ({st['year']})"
+            if st.get("url"): line += f" — <{st['url']}>"
+            if st.get("relevance"): line += f"\n  - {st['relevance']}"
+            lines.append(line)
+        lines.append("")
+    if data.get("apex_courts"):
+        lines.append("## Apex courts")
+        lines.append("")
+        for ac in data["apex_courts"]:
+            lines.append(f"### {ac['name']}")
+            if ac.get("url"): lines.append(f"<{ac['url']}>")
+            if ac.get("key_decisions"):
+                for k in ac["key_decisions"]:
+                    line = f"- **{k.get('caption','—')}**"
+                    if k.get("year"): line += f" ({k['year']})"
+                    if k.get("stance"): line += f" — {k['stance']}"
+                    if k.get("case_study_ref"): line += f" — [`{k['case_study_ref']}`](../case-studies/{k['case_study_ref']}.md)"
+                    lines.append(line)
+            lines.append("")
+    if data.get("professional_regulators"):
+        lines.append("## Professional regulators")
+        lines.append("")
+        for r in data["professional_regulators"]:
+            line = f"- **{r['name']}**"
+            if r.get("position_statement"): line += f" — {r['position_statement']}"
+            if r.get("position_date"): line += f" ({r['position_date']})"
+            if r.get("url"): line += f" — <{r['url']}>"
+            if r.get("practitioner_ref"): line += f" — see practitioner `{r['practitioner_ref']}`"
+            lines.append(line)
+        lines.append("")
+    if data.get("anonymisation_convention"):
+        lines.append("## Anonymisation convention")
+        lines.append("")
+        lines.append(data["anonymisation_convention"])
+        lines.append("")
+    if data.get("key_developments"):
+        lines.append("## Key developments")
+        lines.append("")
+        for d in sorted(data["key_developments"], key=lambda x: x.get("year", 0)):
+            line = f"- **{d.get('year','—')}** — {d['description']}"
+            if d.get("url"): line += f" — <{d['url']}>"
+            lines.append(line)
+        lines.append("")
+    if data.get("structural_findings"):
+        lines.append("## Structural findings")
+        lines.append("")
+        for f in data["structural_findings"]:
+            lines.append(f"- {f}")
+        lines.append("")
+    if data.get("references"):
+        lines.append("## See also")
+        lines.append("")
+        for r in data["references"]:
+            lines.append(f"- `{r}`")
+        lines.append("")
+    if data.get("sources"):
+        lines.append("## Sources")
+        lines.append("")
+        for i, s in enumerate(data["sources"], 1):
+            line = f"{i}. **{s['title']}** — <{s['url']}>"
+            if s.get("publisher"): line += f" ({s['publisher']})"
+            if s.get("language"): line += f" [{s['language']}]"
+            lines.append(line)
+        lines.append("")
+    if data.get("editorial_notes"):
+        lines.append("## Editorial notes")
+        lines.append("")
+        for n in data["editorial_notes"]:
+            lines.append(f"- {n}")
+        lines.append("")
+    return "\n".join(lines)
 
 
 # ---------- urls ----------
@@ -601,10 +727,36 @@ def cmd_manifest(args) -> int:
         (CASE_STUDIES / "index.json").write_text(json.dumps(idx, indent=2, ensure_ascii=False) + "\n")
 
     jurisdictions = []
-    jd = REPO_ROOT / "jurisdictions"
-    if jd.exists():
-        for f in sorted(jd.glob("*.md")):
-            jurisdictions.append({"id": f.stem, "md_url": f"{RAW_BASE}/jurisdictions/{f.name}"})
+    if JURISDICTIONS.exists():
+        json_stems = {p.stem for p in all_jurisdiction_jsons()}
+        for f in sorted(JURISDICTIONS.glob("*.md")):
+            entry = {"id": f.stem, "md_url": f"{RAW_BASE}/jurisdictions/{f.name}"}
+            if f.stem in json_stems:
+                entry["json_url"] = f"{RAW_BASE}/jurisdictions/{f.stem}.json"
+                try:
+                    jd = json.loads((JURISDICTIONS / f"{f.stem}.json").read_text())
+                    entry["schema_version"] = jd.get("schema_version")
+                    entry["jurisdiction_code"] = jd.get("jurisdiction_code")
+                    entry["name"] = jd.get("name")
+                except Exception:
+                    pass
+            jurisdictions.append(entry)
+        # Also list JSON-only jurisdictions without a sibling MD (shouldn't happen post-render but defensive)
+        md_stems = {f.stem for f in JURISDICTIONS.glob("*.md")}
+        for j in all_jurisdiction_jsons():
+            if j.stem in md_stems:
+                continue
+            try:
+                jd = json.loads(j.read_text())
+            except Exception:
+                continue
+            jurisdictions.append({
+                "id": j.stem,
+                "json_url": f"{RAW_BASE}/jurisdictions/{j.name}",
+                "schema_version": jd.get("schema_version"),
+                "name": jd.get("name"),
+                "jurisdiction_code": jd.get("jurisdiction_code"),
+            })
     evidence = []
     ed = REPO_ROOT / "evidence"
     if ed.exists():
@@ -616,7 +768,7 @@ def cmd_manifest(args) -> int:
         "repository": "AntiAlienate/antialienate-knowledge",
         "license": "CC-BY-4.0",
         "generated": now,
-        "schemas": schemas,
+        "schemas": dict(schemas, jurisdiction=f"{RAW_BASE}/schemas/jurisdiction.schema.json"),
         "id_format": {
             "practitioner": "<country_code lowercase>.<slug>  e.g. de.zimmermann-walper-fichtner",
             "case-study": "<slug>  e.g. bverfg-1-bvr-1076-23-germany-2023",
