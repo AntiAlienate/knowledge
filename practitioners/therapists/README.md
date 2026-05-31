@@ -11,7 +11,7 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | v1.0 (legacy) | 12 verified + 16 borderline/excluded |
 | **Australia** | [au.md](au.md) | [au.json](au.json) | v1.0 (legacy) | 12 verified + 9 excluded |
 | **New Zealand** | [nz.md](nz.md) | [nz.json](nz.json) | v1.0 (legacy) | 15 verified |
-| **Germany** | [germany.md](germany.md) | [germany.json](germany.json) | v1.0 (legacy) | 16 verified |
+| **Germany** | [germany.md](germany.md) | [germany.json](germany.json) | **v2.0** | 16 verified + 9 excluded |
 | **Spain** | [spain.md](spain.md) | [spain.json](spain.json) | v1.0 (legacy) | 16 verified |
 | **France** | [france.md](france.md) | [france.json](france.json) | v1.0 (legacy) | 17 verified |
 | **Italy** | [it.md](it.md) | [it.json](it.json) | **v2.0** | 19 verified + 4 excluded |
