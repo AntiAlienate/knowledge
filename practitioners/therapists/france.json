@@ -1,0 +1,314 @@
+{
+  "schema_version": "1.0",
+  "country": "France",
+  "country_code": "FR",
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-31",
+  "repo": "AntiAlienate/antialienate-knowledge",
+  "sibling_markdown": "practitioners-france-therapists.md",
+  "jurisdictional_context": "MIVILUDES has on multiple occasions flagged SAP as a concept warranting vigilance; HAS has issued no recommandation de bonne pratique endorsing SAP as a diagnostic category; the CIIVISE 2023 rapport final extensively documented SAP allegations as a defensive technique used in family-court proceedings against DV-disclosing mothers; Code civil art. 373-2 + 373-2-11 vest wide discretion in the juge aux affaires familiales (JAF) with expertise judiciaire routine; loi n° 2024-233 of 18 March 2024 tightened the framework where intrafamily violence is alleged; CRIP departemental child-protection unit (CASF art. L226-3) is routine first-line actor; SFPEADA and Academie nationale de medecine have not endorsed SAP; ACALPA NGO is the central French recognition-camp civil-society anchor; in November 2024 juge Edouard Durand was not reappointed to the reconstituted CIIVISE under Sebastien Boueilh, a politically contested decision that did not restore institutional legitimacy to SAP.",
+  "institutional_anchors": [
+    {"name": "Conseil national de l'Ordre des medecins (CNOM)", "url": "https://www.conseil-national.medecin.fr/"},
+    {"name": "FFPP — Federation Francaise des Psychologues et de Psychologie", "url": "https://www.ffpp.net/"},
+    {"name": "SFPEADA — Societe Francaise de Psychiatrie de l'Enfant et de l'Adolescent et des Disciplines Associees", "url": "http://www.sfpeada.fr/"},
+    {"name": "Academie nationale de medecine", "url": "https://www.academie-medecine.fr/"},
+    {"name": "HAS — Haute Autorite de Sante", "url": "https://www.has-sante.fr/"},
+    {"name": "CIIVISE — Commission independante sur l'inceste et les violences sexuelles faites aux enfants", "url": "https://www.ciivise.fr/"},
+    {"name": "CNPE — Conseil National de la Protection de l'Enfance", "url": "https://solidarites.gouv.fr/le-conseil-national-de-la-protection-de-lenfance-cnpe"},
+    {"name": "MIVILUDES", "url": "https://www.miviludes.interieur.gouv.fr/"},
+    {"name": "MIPROF / Arretons les violences", "url": "https://arretonslesviolences.gouv.fr/"},
+    {"name": "ACALPA — Association Contre l'Alienation Parentale", "url": "https://acalpa.info/"}
+  ],
+  "entries": [
+    {
+      "id": "fr-bensussan-paul",
+      "name": "Paul Bensussan",
+      "credentials": "Dr., psychiatre; expert agree par la Cour de cassation; expert pres la Cour d'appel de Versailles",
+      "city": "Versailles / Paris",
+      "affiliation": "Pratique liberale; expertise judiciaire penale et civile",
+      "stance": "recognition",
+      "publications": [
+        {"title": "L'enfant programme — Comment eviter l'alienation parentale ?", "year": 2017, "publisher": "Odile Jacob", "isbn": "978-2-7381-3760-3"},
+        {"title": "La dictature de l'emotion — La protection de l'enfant et ses derives", "year": 2002, "publisher": "Belfond", "coauthor": "F. Rault"},
+        {"title": "Inceste : le piege du soupcon", "year": 2009, "publisher": "Belfond"}
+      ],
+      "urls": ["https://www.paulbensussan.fr/", "https://www.odilejacob.fr/catalogue/psychologie/psychologie-de-la-famille/enfant-programme_9782738137609.php", "https://www.researchgate.net/profile/Paul-Bensussan"],
+      "contact": "Via paulbensussan.fr cabinet form",
+      "verification_notes": "Primary anchor of the French recognition camp; most cited French clinician on alienation parentale; cited as paradigmatic recognition-camp exponent by critique-camp authors (Romito, Salmona, CIIVISE rapporteurs)."
+    },
+    {
+      "id": "fr-delfieu-jean-marc",
+      "name": "Jean-Marc Delfieu",
+      "credentials": "Dr., psychiatre; expert pres la Cour d'appel de Nimes",
+      "city": "Nimes",
+      "affiliation": "Pratique liberale + expertise judiciaire",
+      "stance": "recognition",
+      "publications": [
+        {"title": "Syndrome d'alienation parentale — Diagnostic et prise en charge medico-juridique", "year": 2005, "journal": "Experts (revue CNCEJ)", "issue": 67},
+        {"title": "Contribution in Hayez & Kinoo discussion / ACALPA proceedings", "year": 2009}
+      ],
+      "urls": ["https://www.cncej.org/"],
+      "contact": "Via CNCEJ directory (ressort Nimes)",
+      "verification_notes": "With Bensussan, one of the two French psychiatric experts whose expertises judiciaires explicitly invoke SAP terminology before JAF panels in southern ressorts; primary publications in CNCEJ revue Experts."
+    },
+    {
+      "id": "fr-odinetz-olga",
+      "name": "Olga Odinetz",
+      "credentials": "Non-clinical; presidente / fondatrice ACALPA (association loi 1901)",
+      "city": "Lyon",
+      "affiliation": "ACALPA — Association Contre l'Alienation Parentale",
+      "stance": "recognition",
+      "publications": [
+        {"title": "L'alienation parentale — Pour mieux comprendre la souffrance des enfants pris dans un conflit de loyaute (ed.)", "year": 2016, "publisher": "ACALPA / colloque Paris 2014 proceedings"},
+        {"title": "ACALPA Rapports et plaidoyers (annual)", "year": null, "publisher": "ACALPA"}
+      ],
+      "urls": ["https://acalpa.info/", "https://acalpa.info/acalpa/le-bureau/"],
+      "contact": "Via acalpa.info contact form",
+      "verification_notes": "NGO anchor of the French recognition camp, not a clinician; included structurally — any France PA directory omitting ACALPA misrepresents the field."
+    },
+    {
+      "id": "fr-marinopoulos-sophie",
+      "name": "Sophie Marinopoulos",
+      "credentials": "Psychologue clinicienne, psychanalyste (titre protege loi 85-772; ADELI Loire-Atlantique)",
+      "city": "Nantes",
+      "affiliation": "Les Pates au Beurre (Nantes); contributrice Spirale (Eres)",
+      "stance": "recognition",
+      "stance_nuance": "recognition-leaning with strong nuance — does not explicitly endorse SAP as a diagnosis; relational/psychodynamic reading of post-separation conflict",
+      "publications": [
+        {"title": "Le corps bavard", "year": 2009, "publisher": "Fayard"},
+        {"title": "Dans l'intime des meres", "year": 2014, "publisher": "Fayard"},
+        {"title": "L'enfant n'est pas un adulte", "year": 2005, "publisher": "Yapaka.be / Fabert"},
+        {"title": "Une strategie nationale pour la sante culturelle (ministerial report)", "year": 2019, "publisher": "Ministere de la Culture"}
+      ],
+      "urls": ["https://www.pates-au-beurre.fr/", "https://www.cairn.info/publications-de-Sophie-Marinopoulos--6677.htm"],
+      "contact": "Via Les Pates au Beurre",
+      "verification_notes": "Important correction vs surface assumption — sometimes claimed as SAP supporter by recognition camp; her own corpus is more cautious and explicitly nuanced. Treat as a bridge figure."
+    },
+    {
+      "id": "fr-biolley-jacques",
+      "name": "Jacques Biolley",
+      "credentials": "Dr., psychiatre, pedopsychiatre",
+      "city": "Paris",
+      "affiliation": "Pratique liberale",
+      "stance": "recognition",
+      "publications": [
+        {"title": "Alienation parentale — diagnostic et prise en charge en consultation pedopsychiatrique", "year": 2012, "publisher": "ACALPA proceedings; further writings in Medecine & Droit (Elsevier-Masson)"}
+      ],
+      "urls": ["https://www.cairn.info/"],
+      "contact": "non verifie publiquement",
+      "verification_notes": "Active clinical practice status non verifie publiquement as of 2026; entry retained as a francophone recognition-camp reference aligned with Bensussan/Delfieu axis."
+    },
+    {
+      "id": "fr-durand-edouard",
+      "name": "Edouard Durand",
+      "credentials": "Magistrat, juge des enfants; ancien coordinateur national de la formation des magistrats sur les violences intrafamiliales (ENM); ancien co-president CIIVISE 2021-2024",
+      "city": "Paris / Bobigny",
+      "affiliation": "Magistrature judiciaire; ENM; ancien CIIVISE",
+      "stance": "critique",
+      "publications": [
+        {"title": "Violences conjugales et parentalite — Proteger la mere, c'est proteger l'enfant", "year": 2013, "publisher": "L'Harmattan"},
+        {"title": "Defendre les enfants", "year": 2018, "publisher": "Fayard"},
+        {"title": "CIIVISE Rapport final — Violences sexuelles faites aux enfants : on vous croit", "year": 2023, "publisher": "CIIVISE", "url": "https://www.ciivise.fr/wp-content/uploads/2023/11/CIIVISE-RAPPORT-2023.pdf"}
+      ],
+      "urls": ["https://www.ciivise.fr/", "https://www.enm.justice.fr/", "https://www.lemonde.fr/societe/article/2024/11/19/ciivise-l-evincement-du-juge-edouard-durand-suscite-un-tolle_6403101_3224.html"],
+      "contact": "Via ENM / former CIIVISE archive",
+      "verification_notes": "Single most influential French institutional voice against SAP usage in family courts; non-reappointment to CIIVISE in November 2024 under Sebastien Boueilh presidency is the most consequential 2024 event in the French PA-recognition debate."
+    },
+    {
+      "id": "fr-gruev-vintila-andreea",
+      "name": "Andreea Gruev-Vintila",
+      "credentials": "MCU (Maitre de conferences) en psychologie sociale, HDR; Universite Paris Nanterre (LAPPS EA 4386)",
+      "city": "Nanterre",
+      "affiliation": "Universite Paris Nanterre, UFR SPSE; LAPPS",
+      "stance": "critique",
+      "publications": [
+        {"title": "Le controle coercitif — Au coeur de la violence conjugale", "year": 2023, "publisher": "Dunod", "isbn": "978-2-10-084624-1"},
+        {"title": "Peer-reviewed articles in Psychologie Francaise, Bulletin de psychologie, Pratiques psychologiques", "year": null, "publisher": "various"},
+        {"title": "Audition CIIVISE 2022; auditions parlementaires Delegation aux droits des femmes 2022-2024", "year": 2022}
+      ],
+      "urls": ["https://lapps.parisnanterre.fr/membres/gruev-vintila-andreea", "https://hal.science/search/index/?q=Gruev-Vintila", "https://www.dunod.com/sciences-humaines-et-sociales/controle-coercitif-au-coeur-violence-conjugale"],
+      "contact": "Via Universite Paris Nanterre LAPPS",
+      "verification_notes": "Coined / popularised controle coercitif in French academic discourse as conceptual replacement for SAP-style readings; her auditions before the Delegation aux droits des femmes shaped the 2024 loi violences intrafamiliales."
+    },
+    {
+      "id": "fr-sadlier-karen",
+      "name": "Karen Sadlier",
+      "credentials": "Dr. en psychologie clinique (Boston College, equivalence francaise); psychologue clinicienne; ancienne directrice du Centre du psychotrauma de l'Institut de victimologie (Paris)",
+      "city": "Paris",
+      "affiliation": "Pratique liberale + expertises ONVF/MIPROF; experte aupres FNSF",
+      "stance": "critique",
+      "publications": [
+        {"title": "L'enfant face a la violence dans le couple (ed.)", "year": 2010, "publisher": "Dunod", "isbn": "978-2-10-072623-9"},
+        {"title": "Contributions MIPROF Kit pedagogique Anna", "year": 2016, "publisher": "MIPROF"},
+        {"title": "Articles in Pratiques psychologiques, Stress et trauma", "year": null, "publisher": "various"}
+      ],
+      "urls": ["https://arretonslesviolences.gouv.fr/", "https://www.cairn.info/publications-de-Karen-Sadlier--36720.htm"],
+      "contact": "Via MIPROF / arretonslesviolences.gouv.fr",
+      "verification_notes": "Frames child rejection of an abusive parent as psychotraumatic protective response, not alienation; repeatedly cited in CIIVISE rapport 2023 as clinical reference for DV-protective-rejection reading."
+    },
+    {
+      "id": "fr-lassus-pierre",
+      "name": "Pierre Lassus",
+      "credentials": "Dr. en philosophie + formation clinique; ancien directeur general UFSE; psychotherapeute",
+      "city": "Paris",
+      "affiliation": "UFSE (historique); auteur independant",
+      "stance": "critique",
+      "publications": [
+        {"title": "L'enfant trahi — La maltraitance, prevention, detection, traitement", "year": 2001, "publisher": "Stock; re-ed. Pocket / Albin Michel"},
+        {"title": "Maltraitances — Enfants en souffrance", "year": 2006, "publisher": "Stock"},
+        {"title": "La saintete de l'enfance", "year": 2012, "publisher": "Salvator"}
+      ],
+      "urls": ["https://www.babelio.com/auteur/Pierre-Lassus/27849"],
+      "contact": "Via Albin Michel / Stock author page",
+      "verification_notes": "Important correction vs surface assumption — Lassus is frequently described as psychiatre; he is in fact clinically-trained author / association director, not Docteur en medecine inscrit a l'Ordre. Historic French antimaltraitance voice against SAP."
+    },
+    {
+      "id": "fr-salmona-muriel",
+      "name": "Muriel Salmona",
+      "credentials": "Dr., psychiatre; psychotherapeute specialiste du psychotraumatisme; presidente Memoire Traumatique et Victimologie",
+      "city": "Bourg-la-Reine / Paris",
+      "affiliation": "Memoire Traumatique et Victimologie; ancienne praticienne hospitaliere",
+      "stance": "critique",
+      "publications": [
+        {"title": "Le livre noir des violences sexuelles", "year": 2013, "publisher": "Dunod; re-ed. 2022", "isbn": "978-2-10-058952-3"},
+        {"title": "Chatiments corporels et violences educatives", "year": 2018, "publisher": "Dunod"},
+        {"title": "Fiches techniques on Memoire Traumatique et Victimologie site critiquing SAP", "year": null, "publisher": "Memoire Traumatique et Victimologie"}
+      ],
+      "urls": ["https://www.memoiretraumatique.org/", "https://drmurielsalmona.com/"],
+      "contact": "Via memoiretraumatique.org",
+      "verification_notes": "With Sadlier and Romito, the most cited French clinical-psychiatric voice critiquing SAP as a technique de retournement used by abusers; cited in CIIVISE auditions."
+    },
+    {
+      "id": "fr-romito-patrizia",
+      "name": "Patrizia Romito",
+      "credentials": "Prof., professeure de psychologie sociale, Universita degli Studi di Trieste (Italie); francophone-circulating reference",
+      "city": "Trieste (Italie)",
+      "affiliation": "Universita di Trieste",
+      "stance": "critique",
+      "publications": [
+        {"title": "Un silence de mortes — La violence masculine occultee", "year": 2006, "publisher": "Syllepse (trad. fr.)"},
+        {"title": "Articles in Revue d'epidemiologie et de sante publique", "year": 2009, "publisher": "Elsevier-Masson", "coauthor": "M.-J. Saurel-Cubizolles"}
+      ],
+      "urls": ["https://web.units.it/persone/index/persona/2237", "https://www.syllepse.net/"],
+      "contact": "Via Universita di Trieste",
+      "verification_notes": "Cross-border anchor — work circulates and is taught in French psychology curricula (Universite Paris Cite, Universite Lyon 2) as entry-level critique-camp reference; foundational francophone reference for the critique camp."
+    },
+    {
+      "id": "fr-berger-maurice",
+      "name": "Maurice Berger",
+      "credentials": "Dr., pedopsychiatre; ancien chef de service psychiatrie de l'enfant CHU de Saint-Etienne; ancien charge d'enseignement Universite Lyon 2; psychanalyste",
+      "city": "Saint-Etienne / Lyon",
+      "affiliation": "CHU de Saint-Etienne (honoraire); Universite Lyon 2 (passee); REDDE",
+      "stance": "middle",
+      "publications": [
+        {"title": "L'enfant et la souffrance de la separation — Divorce, adoption, placement", "year": 2003, "publisher": "Dunod; re-ed. 2022", "isbn": "978-2-10-007569-6"},
+        {"title": "Ces enfants qu'on sacrifie au nom de la protection de l'enfance", "year": 2005, "publisher": "Dunod"},
+        {"title": "Sur la violence gratuite en France — Adolescents hyper-violents", "year": 2014, "publisher": "L'Artilleur"}
+      ],
+      "urls": ["https://www.cairn.info/publications-de-Maurice-Berger--6049.htm"],
+      "contact": "Via CHU Saint-Etienne (honoraire) / REDDE",
+      "verification_notes": "Paradigmatic French middle-camp voice; routinely misclassified by both sides. Treats SAP with caution while affirming clinical reality of parent erasure; also active on the RAEJE (residence alternee chez l'enfant en bas age) contested debate."
+    },
+    {
+      "id": "fr-hayez-jean-yves",
+      "name": "Jean-Yves Hayez",
+      "credentials": "Prof., pedopsychiatre; Professeur emerite UCLouvain (Belgique); ancien chef de service pedopsychiatrie Cliniques universitaires Saint-Luc",
+      "city": "Bruxelles (Belgique) — francophone-circulating reference",
+      "affiliation": "UCLouvain (em.); Cliniques universitaires Saint-Luc (honoraire)",
+      "stance": "middle",
+      "publications": [
+        {"title": "Alienation parentale, un concept a haut risque", "year": 2005, "journal": "Neuropsychiatrie de l'enfance et de l'adolescence", "volume": 53, "issue": 4, "pages": "157-165", "coauthor": "P. Kinoo", "url": "https://www.sciencedirect.com/science/article/abs/pii/S0222961705000632"},
+        {"title": "La sexualite des enfants", "year": 2007, "publisher": "Odile Jacob"},
+        {"title": "La destructivite chez l'enfant et l'adolescent", "year": 2001, "publisher": "Dunod"}
+      ],
+      "urls": ["https://www.jeanyveshayez.net/"],
+      "contact": "Via jeanyveshayez.net",
+      "verification_notes": "Canonical middle-camp citation in French JAF expertises; the 2005 Hayez & Kinoo Neuropsychiatrie de l'enfance paper acknowledges the clinical reality of parental denigration dynamics while rejecting SAP as a syndromal entity."
+    },
+    {
+      "id": "fr-marcelli-daniel",
+      "name": "Daniel Marcelli",
+      "credentials": "Prof. emerite de psychiatrie de l'enfant et de l'adolescent, Universite de Poitiers / CHU de Poitiers; ancien president SFPEADA",
+      "city": "Poitiers",
+      "affiliation": "Universite de Poitiers (em.); CHU de Poitiers (honoraire); SFPEADA",
+      "stance": "middle",
+      "stance_secondary": "institutional",
+      "publications": [
+        {"title": "Enfance et psychopathologie (11th ed.)", "year": 2018, "publisher": "Elsevier-Masson", "isbn": "978-2-294-75920-0"},
+        {"title": "Adolescence et psychopathologie", "year": 2021, "publisher": "Elsevier-Masson", "coauthor": "D. Cohen"},
+        {"title": "Articles in La Psychiatrie de l'enfant (PUF), Devenir (Medecine et Hygiene)", "year": null, "publisher": "various"}
+      ],
+      "urls": ["https://sfpeada.fr/", "https://www.chu-poitiers.fr/"],
+      "contact": "Via SFPEADA / CHU Poitiers",
+      "verification_notes": "Reference figure of French pedopsychiatrie; treats SAP cautiously in textbook — describes clinical reality of parental denigration without adopting Gardner's syndromal frame. Institutional weight (past SFPEADA presidency) substantially exceeds recognition camp's institutional footprint."
+    },
+    {
+      "id": "fr-coutanceau-roland",
+      "name": "Roland Coutanceau",
+      "credentials": "Dr., psychiatre; psychiatre des hopitaux honoraire; expert pres la Cour d'appel de Versailles; president LFSM",
+      "city": "Versailles / Paris",
+      "affiliation": "Ligue Francaise pour la Sante Mentale (LFSM); pratique d'expertise",
+      "stance": "forensic-evaluator",
+      "stance_secondary": "middle",
+      "publications": [
+        {"title": "La violence conjugale — La relation perverse (dir.)", "year": 2016, "publisher": "Dunod"},
+        {"title": "La violence psychologique — Comprendre pour agir (dir.)", "year": 2014, "publisher": "Dunod", "coauthor": "J. Smith"},
+        {"title": "Auteur de violence conjugale (dir.)", "year": 2017, "publisher": "Dunod"}
+      ],
+      "urls": ["https://www.lfsm.org/", "https://rolandcoutanceau.com"],
+      "contact": "Via LFSM",
+      "verification_notes": "One of the most-cited French expertise psychiatrique references in family-court matters; coordinates multi-author volumes including both recognition- and critique-leaning contributors. Institutional centre of French forensic expertise."
+    },
+    {
+      "id": "fr-daligand-liliane",
+      "name": "Liliane Daligand",
+      "credentials": "Prof. emerite de medecine legale, Universite Lyon 1 / Hospices Civils de Lyon; psychiatre + medecin legiste; experte pres la Cour d'appel de Lyon et pres la Cour de cassation; presidente Viffil-SOS Femmes Lyon",
+      "city": "Lyon",
+      "affiliation": "Universite Lyon 1 (em.); Hospices Civils de Lyon (em.); Viffil-SOS Femmes",
+      "stance": "forensic-evaluator",
+      "stance_secondary": "critique",
+      "publications": [
+        {"title": "La violence conjugale est un crime", "year": 2017, "publisher": "L'Archipel"},
+        {"title": "L'enfant maltraite — De la maltraitance a la bientraitance", "year": 2006, "publisher": "Lavoisier MSP"},
+        {"title": "Contributions to Revue francophone du stress et du trauma; Medecine et droit", "year": null, "publisher": "various"}
+      ],
+      "urls": ["https://www.viffil.org/", "https://www.chu-lyon.fr/"],
+      "contact": "Via Viffil / HCL",
+      "verification_notes": "Foremost francophone medecin legiste on violences intrafamiliales; consistently frames child rejection of a violent parent in psychotraumatic rather than alienation terms; expertises judiciaires in the Cour d'appel de Lyon ressort make her primary forensic anchor of the critique camp."
+    },
+    {
+      "id": "fr-lopez-gerard",
+      "name": "Gerard Lopez",
+      "credentials": "Dr., psychiatre; fondateur Institut de Victimologie (Paris); ancien charge d'enseignement Universite Paris Cite / Paris Descartes",
+      "city": "Paris",
+      "affiliation": "Institut de Victimologie (Paris); ancien Universite Paris Descartes",
+      "stance": "forensic-evaluator",
+      "stance_secondary": "critique",
+      "publications": [
+        {"title": "Enfants violes et violentes — Le scandale ignore (2nd ed.)", "year": 2013, "publisher": "Dunod"},
+        {"title": "Manuel de victimologie (dir.)", "year": 2019, "publisher": "Dunod", "isbn": "978-2-10-079456-6"},
+        {"title": "Dictionnaire des sciences criminelles (dir.)", "year": null, "publisher": "Dalloz", "coauthor": "S. Tzitzis"}
+      ],
+      "urls": ["https://www.institutdevictimologie.fr/"],
+      "contact": "Via Institut de Victimologie",
+      "verification_notes": "Co-founded the French victimologie clinical-academic field; consistently aligned with the critique-camp reading of SAP allegations as defensive technique in DV cases; cited in CIIVISE auditions; Manuel de victimologie (Dunod 2019) is the French reference manual."
+    }
+  ],
+  "excluded": [
+    {"name": "Hubert Van Gijseghem", "reason": "Belgian-Canadian psychologist, Universite de Montreal — not France-resident; cross-referenced to future Canada file"},
+    {"name": "Anne-Catherine Salberg (Suisse romande)", "reason": "francophone but non-France-resident; deferred to a Switzerland file"},
+    {"name": "Benoit van Dieren (Belgique)", "reason": "francophone but non-France-resident; deferred to a Belgium file"},
+    {"name": "Private cabinets listing themselves as SAP-specialists on commercial directories (pages jaunes, therapeutes.com)", "reason": "no peer-reviewed publication, no expert pres la Cour d'appel inscription, no institutional affiliation verifiable through primary sources"},
+    {"name": "Self-published memoirs / NGO-internal positions without primary scientific or judicial reference", "reason": "below verification threshold"},
+    {"name": "Pole expertise psychologique sites without named inscribed experts", "reason": "below verification threshold"}
+  ],
+  "stance_counts": {
+    "recognition": 5,
+    "critique": 6,
+    "middle": 3,
+    "forensic-evaluator": 3,
+    "institutional": 10,
+    "total_named_practitioners": 17
+  },
+  "structural_finding": "France presents a uniquely asymmetric PA-clinical landscape: no French autorite publique (HAS, Academie nationale de medecine, SFPEADA, CNPE) has ever endorsed SAP as a diagnostic category, while MIVILUDES has on multiple occasions issued vigilance signals. The CIIVISE 2023 rapport final reframed the debate from 'is SAP scientifically valid?' to 'how is SAP used in court?' — answering: as a defensive technique against DV-disclosing mothers. The loi n° 2024-233 of 18 March 2024 and the November 2024 non-reappointment of juge Edouard Durand to the reconstituted CIIVISE under Sebastien Boueilh form a single political sequence whose net effect is to harden the critique-camp position institutionally while politicising the personnel who carried it. The recognition camp rests on a small number of named clinical voices (Bensussan, Delfieu, Biolley) and one NGO (ACALPA), with no university chair, no societe savante endorsement, and no HAS recommendation; the critique camp is institutionally embedded across CIIVISE, Delegation aux droits des femmes, MIPROF, CNPE, Universite Paris Nanterre, the victimologie clinical-academic field, and the medecine legale community. The asymmetry is institutional, not merely numerical."
+}
