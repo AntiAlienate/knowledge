@@ -1,364 +1,613 @@
-# Asia Lawyers — Parental Alienation Practitioner Directory
+# Practitioners — Asia (IN/SG/HK/JP) — Lawyers
 
-**Schema version:** 1.0
-**Last updated:** 2026-05-27
-**License:** CC BY 4.0 (intended for github.com/AntiAlienate/antialienate-knowledge)
-**Scope:** Asia-based family-law practitioners (advocates / solicitors / barristers / bengoshi) in **India, Singapore, Hong Kong, Japan** who have (a) appeared as named counsel in apex or reported PA-relevant litigation, (b) published in the field at scholarly / book-length / firm thought-leadership level, (c) sit on an official PA-related expert / committee body, or (d) publicly stated a sourced stance through institutional or NGO advocacy. Where a named individual within an institutional entity is confirmable, the institution is included.
+## Jurisdictional context
 
-**Standards:** All entries verified from primary sources — national bar / firm / institutional website, official court records (SCI / Indian Kanoon, eLitigation Singapore, HKLII / Hong Kong Judiciary, Nichibenren), peer-reviewed publication, or named press. Where a fact cannot be confirmed from a public primary source it is flagged "**not publicly confirmed**".
+This file is a regional aggregate covering Asian lawyer registers across four jurisdictions (India, Singapore, Hong Kong, Japan). The schema requires a 2-3 letter ISO-shape country_code; 'ASI' is used here as a non-ISO regional placeholder and per-entry jurisdictional locus is carried in the entry id prefix (in., sg., hk., jp.) and in stance_notes. India's PA terrain is anchored by the Hindu Marriage Act 1955 and the Family Courts Act 1984 operationalised through the Supreme Court of India and High Court family-bench jurisprudence; the apex parental-alienation authority is Lt Col Vivek Singh v Romani Singh (Civil Appeal 3962/2016, (2017) 3 SCC 231), which holds welfare-of-the-child paramount and names PA as a litigable harm. The Delhi High Court line ABC v XYZ 2023 SCC OnLine Del 6099 and the more recent A v B 2026 SCC OnLine Del 276 have consolidated PA-recognition reasoning at the High Court level, including findings on coached-child testimony and access-enforcement. Singapore's family-justice pipeline runs under the Women's Charter (Cap. 353) and the Guardianship of Infants Act (Cap. 122) through the Family Justice Courts (FJC), with TEN v TEO [2020] SGHCF 20 standing as the flagship parental-alienation appellate authority. Hong Kong custody disputes proceed under the Matrimonial Causes Ordinance Cap. 179, the Guardianship of Minors Ordinance Cap. 13, and the Matrimonial Proceedings and Property Ordinance Cap. 192 (FCO Cap. 192) framework on financial relief; a Re Y / H v W [2021] HKCA 733 line has engaged PA-adjacent reasoning at appellate level. Japan's pre-reform Civil Code Art. 819 (1947) imposed mandatory sole post-divorce parental authority, generating the 子の連れ去り (child abduction by a parent) and 引き離し (forced separation from a parent) discourse; Act No. 33 of 2024 (民法等の一部を改正する法律) amends Art. 819 to introduce joint parental authority (共同親権) effective 1 April 2026, with DV / abuse carve-outs retaining sole-custody pathways.
 
-**Stance taxonomy:**
-- `recognition` — treats parental alienation / 子の連れ去り / 共同親権 reform as a legitimate, litigable phenomenon
-- `critique` — argues PA / SAP is misused in family courts, especially against DV survivor mothers; supports proscription or strong DV carve-outs
-- `middle` — procedural-reform / differentiated approach engaging both DV-protection and alienating-behaviour frames
-- `not_publicly_confirmed` — included for record-completeness; PA-specific stance not in primary sources
+The Asia recognition-camp apex jurisprudence skews PA-recognition unlike the EU and LATAM registers. India's Supreme Court has explicitly named parental alienation as litigable harm; Singapore's SGHCF has accepted PA as an analytic frame in TEN v TEO; Hong Kong appellate reasoning in H v W has engaged PA-adjacent harm; and Japan's 2024 Civil Code reform institutionalises 共同親権 for the first time since 1947, structurally cohering with the international recognition camp's reform agenda. The critique register is correspondingly thin at the apex-counsel level — there is no Indian, Singaporean, Hong Kong or Japanese senior-counsel cluster comparable to the German Zimmermann / Walper / Fichtner critique camp or the Spanish Vaccaro 'violencia vicaria' coinage. The critique register runs primarily through (a) Indian women's-rights senior counsel whose PA-specific stance is not publicly stated but who anchor the DV-protection frame (Jaising, Grover, Nundy), and (b) the Japan Federation of Bar Associations (Nichibenren / JFBA) institutional position on the 2024 Civil Code reform carrying DV-protection-primacy framing. Cross-jurisdictional bridges to therapists Asia v2 run through court-attached forensic-clinical infrastructure (FJC CAPS, HKFWS PCC, 家庭裁判所調査官) and through women's-rights NGOs (AWARE Singapore, ACSVAW Hong Kong, Japan WAN).
 
-**Cross-references:** Apex case anchors include Vivek Singh v Romani Singh, Civil Appeal 3962/2016, (2017) 3 SCC 231 (India SC); TEN v TEO [2020] SGHCF 20 (Singapore High Court – Family Division); H v W [2021] HKCA 733 (Hong Kong Court of Appeal); Japan Act No. 33 of 2024 amending Civil Code Art. 819 (joint parental authority, in force 1 April 2026). Therapists / psychologists are tracked in a separate asia-therapists file; Akiko Ohnogi (clinical psychologist Tokyo) and Mariko Kawano (Waseda public-international-law professor) are excluded from this lawyer-only file as out of scope.
+## Structural findings
+
+- 22 verified v1 practitioners migrated at fidelity across India (7), Singapore (5), Hong Kong (6) and Japan (4); split preserved per v1 summary block.
+- Asia recognition-camp dominance: 16 of 22 entries are recognition-stance, anchored by named counsel of record in Vivek Singh v Romani Singh (India SC 2017), TEN v TEO (SGHCF 2020), H v W (HKCA 2021), and the international Japan-Hague / 共同親権 reform discourse — structurally distinct from the EU register where the critique camp carries published-clinician apex weight.
+- India apex-court counsel cluster (Luthra, Anand, Anil Malhotra) plus the Chandigarh international-removal duo (Malhotra & Malhotra) carries the strongest single-jurisdiction recognition register in the Asia aggregate; the women's-rights critique-adjacent cluster (Jaising, Grover, Nundy) supplies the DV-protection counterweight without explicit PA-specific public statements.
+- Singapore recognition register runs through the named counsel of record in TEN v TEO [2020] SGHCF 20 (Hing Wei Yuen Angelina, Ng Yu Hui Michelle of Integro Law Chambers) plus cross-border Hague-Convention specialists (June Lim, Engelin Teh); no Singapore lawyer-side critique register located beyond institutional NGO channels (AWARE — cross-linked to therapists Asia v2).
+- Hong Kong recognition register is firm-led: Rita Ku & Ser's published 'PA = emotional abuse' institutional position, Hugill & Ip's Legal 500 thought-leadership, Withers HK family practice, and BCLP's IBA Family Law Committee output; no HK lawyer-side critique register located beyond institutional NGO channels (ACSVAW — cross-linked to therapists Asia v2).
+- Japan register is structurally bifurcated: international PA-recognition advocacy carried by US-bar / academic-lawyer voices (Jeremy Morley NY Bar, Colin Jones Doshisha) plus the Kizuna NGO (John Gomez), and institutional critique-leaning-middle carried by the Japan Federation of Bar Associations on the 2024 共同親権 Civil Code reform — cross-linked to therapists Asia v2 (jp.womens-action-network and jp.jfba-critique-flag).
+- Cross-jurisdictional bridges to therapists Asia v2: court-appointed Indian counsellor practitioner:in.kanungo-iti anchors the apex Vivek Singh procedural-counsel infrastructure; HK ACSVAW (practitioner:hk.acsvaw) carries the critique register the HK lawyer file does not; Japan WAN (practitioner:jp.womens-action-network) carries the Japan critique register the JFBA entry partially flags.
+
+## Recognition camp
+
+### Geeta Luthra, Senior Advocate
+*Senior Advocate, Supreme Court of India (designated 2007); LLM + MPhil Cambridge; IAFL Fellow*
+New Delhi · Delhi (Supreme Court of India) · Geeta Luthra & Associates / Independent Senior Counsel, Supreme Court of India; Chamber 47, Supreme Court of India, New Delhi
+
+**Stance:** India's most directly verifiable senior-counsel PA-recognition anchor: named counsel for the respondent mother in Lt Col Vivek Singh v Romani Singh (Civil Appeal 3962/2016, (2017) 3 SCC 231), the Supreme Court of India's most explicit parental-alienation judgment holding welfare-of-the-child paramount and naming PA as a litigable harm. Recognition stance is inherent to the successful argument: PA-as-litigable-harm framing carried the case for the respondent mother and became the apex PA authority in Indian jurisprudence. IAFL India fellow profile and multiple inter-country custody habeas-corpus matters reinforce the recognition register. Country_code: IN.
+
+**Publications:**
+- Lt Col Vivek Singh v Romani Singh, Civil Appeal 3962/2016, (2017) 3 SCC 231 (counsel for respondent mother) (2017) — *Supreme Court of India* — <https://main.sci.gov.in/judgment/judis/44566.pdf>
+- Vivek Singh v Romani Singh: Supreme Court Reinforces Welfare of the Child as Paramount in Custody Disputes (CaseMine commentary) (2017) — *CaseMine* — <https://www.casemine.com/commentary/in/vivek-singh-v.-romani-singh:-supreme-court-reinforces-welfare-of-child-as-paramount-in-custody-disputes/view>
+- Vivek Singh v Romani Singh (Indian Kanoon) (2017) — *Indian Kanoon* — <https://indiankanoon.org/doc/48721287/>
+
+**Verification:**
+- <https://www.iafl.com/find-a-lawyer/search-details/?id=19938>
+- <https://en.wikipedia.org/wiki/Geeta_Luthra>
+- <https://www.legaleraonline.com/distinguished-legal-mind-of-india/geeta-luthra-4785>
+
+**Contact:** Chamber 47, Supreme Court of India, New Delhi; IAFL India profile https://www.iafl.com/find-a-lawyer/search-details/?id=19938
+
+*Notes: Senior Advocate designation 2007 (SCI); Cambridge LLM + MPhil; named counsel of record verified in SCI judgment PDF, CaseMine commentary and Indian Kanoon. Bar Council registration number not publicly displayed. IAFL India fellow profile confirms current standing.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `case-study:abc-v-xyz-2023-scc-online-del-6099`, `case-study:a-v-b-2026-scc-online-del-276`, `practitioner:in.kanungo-iti`, `practitioner:in.malhotra-anil`, `practitioner:in.anand-pinky`
+
+<sub>ID: `in.luthra-geeta`</sub>
+
+### Anil Malhotra, Senior Advocate
+*Senior Advocate (42 yrs standing); LLM University of London 1985; Comparative Family Law LSE; Secretary IAFL International Child Relocation Committee; member Justice Rajesh Bindal Committee on Inter-Country Removal of Children 2018*
+Chandigarh · Punjab & Haryana / Supreme Court of India · Malhotra & Malhotra Associates (Chandigarh); Bar Council of Punjab & Haryana / Supreme Court of India; IAFL Fellow
+
+**Stance:** India's most internationally networked PA / international-child-removal recognition-camp practitioner. Stance verified through firm-published thought-leadership explicitly framing PA as harm to children and to the left-behind parent ('Hear the Child, Honor Their Future: The Voice of the Child') and through Hague-Convention-accession advocacy in LiveLaw and Bar & Bench. IAFL Fellow and member of the Justice Rajesh Bindal Committee on Inter-Country Removal of Children 2018 — Indian government-empanelled. Only Indian practitioner monograph series specifically on removed-children law (Malhotra & Malhotra, 2018; Oak Bridge 2025). Country_code: IN.
+
+**Publications:**
+- The Removed Child and The Law in India (2018) — *Malhotra & Malhotra (ISBN 978-93-5321-776-1)*
+- Practitioner's Guide to International Family Law: An Indian Perspective (2025) — *Oak Bridge (ISBN 978-81-983488-4-5)*
+- The Global Indians and The Law (2020) — *Malhotra & Malhotra*
+- Surrogacy in India: A Law in the Making (2014) — *Universal Law*
+- Justice Rajesh Bindal Committee Report to Government of India 2018 (2018) — *Government of India*
+- Hear the Child, Honor Their Future: The Voice of the Child (2023) — *anilmalhotra.co.in* — <https://www.anilmalhotra.co.in/post/hear-the-child-honor-their-future-the-voice-of-the-child-by-anil-and-ankit-malhotra>
+
+**Verification:**
+- <https://www.anilmalhotra.co.in/>
+- <https://www.iafl.com/find-a-lawyer/search-details/?id=19939>
+- <https://www.barandbench.com/interviews/proactivity-of-government-to-amend-outdated-family-laws-is-zero-parents-removing-children-illegally-from-india-anil-malhotra>
+- <https://www.livelaw.in/articles/child-custody-india-hague-convention-and-child-rights-279793>
+
+**Contact:** Malhotra & Malhotra Associates, #495 Defence Colony, Sector 36-B, Chandigarh 160036; contact form https://www.anilmalhotra.co.in/contact-us
+
+*Notes: Senior Advocate 42 yrs standing; LLM London 1985; IAFL India fellow profile verified; Bindal Committee membership confirmed via government-empanelment records; Bar Council registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `practitioner:in.malhotra-ranjit`, `practitioner:in.luthra-geeta`, `practitioner:in.anand-pinky`
+
+<sub>ID: `in.malhotra-anil`</sub>
+
+### Ranjit Malhotra, Advocate
+*Advocate (35+ yrs standing); LLM international family law; IAFL Fellow*
+Chandigarh · Punjab & Haryana · Malhotra & Malhotra Associates (Chandigarh); Bar Council of Punjab & Haryana
+
+**Stance:** Recognition-camp co-anchor with brother Anil Malhotra at Malhotra & Malhotra Chandigarh; the firm's English-courts-facing expert-witness practitioner. International-abduction / Hague-implementation advocate; routinely provides expert reports on Indian family law to foreign jurisdictions including English Family Division. One of three India special invitees, Hague Experts' Meeting on Issues of Domestic / Family Violence and the 1980 Hague Child Abduction Convention (University of Westminster, 12 June 2017). Edward Elgar handbook chapter on 'International child abduction in India'. Co-author of all Malhotra & Malhotra monograph titles. Country_code: IN.
+
+**Publications:**
+- The Removed Child and The Law in India (co-author) (2018) — *Malhotra & Malhotra*
+- Practitioner's Guide to International Family Law: An Indian Perspective (co-author) (2025) — *Oak Bridge*
+- International child abduction in India (handbook chapter) (2020) — *Edward Elgar* — <https://ideas.repec.org/h/elg/eechap/20040_18.html>
+- Hague Experts' Meeting University of Westminster 12 June 2017 (India special invitee) (2017) — *UK Government / University of Westminster* — <https://www.gov.uk/government/news/family-law-symposium-brings-together-international-experts>
+
+**Verification:**
+- <https://www.anilmalhotra.co.in/>
+- <https://www.iafl.com/find-a-lawyer/search-details/?id=19940>
+- <https://www.martindale.com/attorney/ranjit-malhotra-1216698/>
+
+**Contact:** Malhotra & Malhotra Associates, Chandigarh; IAFL profile https://www.iafl.com/find-a-lawyer/search-details/?id=19940
+
+*Notes: Advocate 35+ yrs standing; IAFL Fellow profile verified; UK Government family-law symposium India special invitee confirmed via gov.uk primary source; Bar Council registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `practitioner:in.malhotra-anil`, `practitioner:in.luthra-geeta`
+
+<sub>ID: `in.malhotra-ranjit`</sub>
+
+### Dr Pinky Anand, Senior Advocate (former Additional Solicitor General of India)
+*Senior Advocate Supreme Court of India (designated 2007); former Additional Solicitor General of India 2014-2018; Door Tenant No5 Barristers' Chambers (London)*
+New Delhi / London · Delhi (Supreme Court of India) / London (No5 Chambers) · Independent Senior Counsel, Supreme Court of India; No5 Chambers (Door Tenant)
+
+**Stance:** Cross-jurisdictional recognition-camp senior counsel: No5 Chambers practice profile explicitly names 'inter-country parental abduction' as a core area, the only Indian senior counsel with that public framing on a UK chambers profile. Former-ASG status (2014-2018) and SCI Senior Advocate designation (2007) anchor apex-court reach. Argued V. Ravi Chandran v Union of India (return of US child to New York State pre-Hague-accession India) and Stephanie Joan Becker v State (intercountry adoption). Natural high-leverage interlocutor for cross-jurisdictional PA work landing in India. Country_code: IN.
+
+**Publications:**
+- V. Ravi Chandran v Union of India (return of US child pre-Hague-accession) (2010) — *Supreme Court of India*
+- Stephanie Joan Becker v State (intercountry adoption) (2013) — *Supreme Court of India*
+- No5 Chambers Door Tenant practice profile naming inter-country parental abduction (2020) — *No5 Chambers* — <https://www.no5.com/barrister/dr-pinky-anand/>
+
+**Verification:**
+- <https://www.no5.com/barrister/dr-pinky-anand/>
+- <https://en.wikipedia.org/wiki/Pinky_Anand>
+- <https://www.iafl.com/find-a-lawyer/search-details/?id=19875>
+- <https://nludelhi.ac.in/faculty/dr-pinky-anand/>
+- <https://delhistudygroup.org/our-team/mrs-pinky-anand/>
+
+**Contact:** Chamber Supreme Court of India / via No5 Chambers London +44 845 210 5555; Delhi Study Group https://delhistudygroup.org/our-team/mrs-pinky-anand/
+
+*Notes: Senior Advocate 2007; former ASG 2014-2018 verified via Wikipedia and No5 Chambers profile; IAFL India fellow profile confirmed; Bar Council registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `practitioner:in.luthra-geeta`, `practitioner:in.malhotra-anil`, `practitioner:uk.no5-chambers`
+
+<sub>ID: `in.anand-pinky`</sub>
+
+### Hing Wei Yuen Angelina
+*Singapore Bar; admitted before Family Justice Courts; named counsel TEN v TEO [2020] SGHCF 20*
+Singapore · Singapore (city-state) · Integro Law Chambers LLC; Law Society of Singapore
+
+**Stance:** Singapore's most directly verifiable PA-recognition senior anchor: named counsel of record for the father appellant in TEN v TEO and another appeal [2020] SGHCF 20 — the Singapore High Court (Family Division)'s flagship parental-alienation appellate authority. The judgment formally accepts parental alienation as an analytic frame in Singapore family-justice reasoning under the Women's Charter (Cap. 353) and Guardianship of Infants Act (Cap. 122) framework. Recognition stance is inherent to the successful appellate argument. Country_code: SG.
+
+**Publications:**
+- TEN v TEO and another appeal [2020] SGHCF 20 (counsel for father appellant) (2020) — *Singapore High Court (Family Division)* — <https://www.elitigation.sg/gd/s/2020_SGHCF_20>
+- TEN v TEO and another appeal — FJC case highlight (2020) — *Singapore Judiciary* — <https://www.judiciary.gov.sg/judgments/FJC-case-highlights/case-highlights-detail/ten-v-teo-and-another-appeal-2020-sghcf-20>
+
+**Verification:**
+- <https://www.elitigation.sg/gd/s/2020_SGHCF_20>
+- <https://www.judiciary.gov.sg/judgments/FJC-case-highlights/case-highlights-detail/ten-v-teo-and-another-appeal-2020-sghcf-20>
+- <https://www.lawsociety.org.sg/find-a-lawyer/divorce-family-matters/>
+
+**Contact:** Integro Law Chambers LLC, Singapore; Law Society Singapore find-a-lawyer directory https://www.lawsociety.org.sg/find-a-lawyer/divorce-family-matters/
+
+*Notes: Named counsel of record verified via eLitigation Singapore primary source and FJC case-highlight; Law Society Singapore admission confirmed. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:singapore`, `case-study:ten-v-teo-singapore-2020`, `practitioner:sg.ng-yu-hui-michelle`, `practitioner:sg.fjc-caps`
+
+<sub>ID: `sg.hing-wei-yuen-angelina`</sub>
+
+### Ng Yu Hui Michelle
+*Singapore Bar; admitted before Family Justice Courts; named junior counsel TEN v TEO [2020] SGHCF 20*
+Singapore · Singapore (city-state) · Integro Law Chambers LLC; Law Society of Singapore
+
+**Stance:** Named junior counsel of record for the father appellant in TEN v TEO and another appeal [2020] SGHCF 20 — Singapore's flagship PA appellate authority. Natural mid-career second name from the Integro Law Chambers firm that successfully argued PA-recognition at SGHCF appellate level. Country_code: SG.
+
+**Publications:**
+- TEN v TEO and another appeal [2020] SGHCF 20 (junior counsel for father appellant) (2020) — *Singapore High Court (Family Division)* — <https://www.elitigation.sg/gd/s/2020_SGHCF_20>
+
+**Verification:**
+- <https://www.elitigation.sg/gd/s/2020_SGHCF_20>
+- <https://www.lawsociety.org.sg/find-a-lawyer/divorce-family-matters/>
+
+**Contact:** Integro Law Chambers LLC, Singapore; Law Society Singapore find-a-lawyer directory
+
+*Notes: Named junior counsel of record verified via eLitigation Singapore primary source. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:singapore`, `case-study:ten-v-teo-singapore-2020`, `practitioner:sg.hing-wei-yuen-angelina`
+
+<sub>ID: `sg.ng-yu-hui-michelle`</sub>
+
+### June Lim Yujie
+*Singapore Bar (called 2009); Managing Director Eden Law Corporation; cross-border / Hague Convention specialist*
+Singapore · Singapore (city-state) · Eden Law Corporation; Law Society of Singapore
+
+**Stance:** Singapore's most active cross-border child-abduction / Hague-Convention practitioner; natural interlocutor on the PA-adjacent abduction-and-relocation track at SGFC / SGHCF level. Counsel in XBF v XBE [2024] SGHCF 42 (cross-border relocation, judicial interview of young children) and TYC v TYD [2017] SGFC 23 (Dependant's Passes / custody intersection); appeared in Singapore's 5th Hague Convention international child-abduction case (2018, anonymised mother vs Irish father). Eden Law Corporation thought-leadership on Singapore vs Malaysia family-law framework. Country_code: SG.
+
+**Publications:**
+- XBF v XBE [2024] SGHCF 42 (cross-border relocation, judicial interview of young children) (2024) — *Singapore High Court (Family Division)*
+- TYC v TYD [2017] SGFC 23 (Dependant's Passes / custody intersection) (2017) — *Singapore Family Court*
+- Singapore's 5th Hague Convention international child-abduction case (2018) — *Singapore Family Court (anonymised)*
+- Family Law in Singapore vs Malaysia: Divorce, Mediation, Legal Costs (Ep 1) (2023) — *Eden Law Corporation* — <https://edenlaw.com.sg/family-law-in-singapore-vs-malaysia-divorce-mediation-legal-costs-ep-1/>
+
+**Verification:**
+- <https://edenlaw.com.sg/>
+- <https://edenlaw.com.sg/team-member/june-lim/>
+- <https://www.legalbusinessonline.com/appointments/singapore-boutique-fla-adds-matrimonial-law-expert>
+- <https://singaporelegaladvice.com/lawyer/june-lim/>
+- <https://sg.linkedin.com/in/junelpl>
+
+**Contact:** Eden Law Corporation, Singapore; LinkedIn https://sg.linkedin.com/in/junelpl; firm contact form https://edenlaw.com.sg/
+
+*Notes: Singapore Bar called 2009 verified via Law Society directory and Legal Business Online; Eden Law Corporation Managing Director role confirmed via firm site. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:singapore`, `practitioner:sg.teh-engelin`, `practitioner:sg.hing-wei-yuen-angelina`
+
+<sub>ID: `sg.lim-june-yujie`</sub>
+
+### Engelin Teh, Senior Counsel
+*Senior Counsel of the Supreme Court of Singapore (1998 — one of first women so appointed); Managing Director Engelin Teh Practice LLC; IMI mediator; SIMC panel*
+Singapore · Singapore (city-state) · Engelin Teh Practice LLC; Law Society of Singapore; Senior Counsel of the Supreme Court of Singapore
+
+**Stance:** Singapore's most senior woman family-law silk with parenting-coordination institutionalised in her firm offering; natural apex interlocutor for an honest-broker recognition position at SGHCF level. Senior Counsel since 1998 (one of first women so appointed); ETP LLC parenting-coordination service line is the cleanest Singapore-firm institutionalisation of PA-adjacent practice infrastructure. SIMC panel and IMI mediator credentials reinforce the recognition register through procedural-reform / coordination work. Country_code: SG.
+
+**Publications:**
+- Senior Counsel of the Supreme Court of Singapore since 1998 (1998) — *Supreme Court of Singapore*
+- ETP LLC parenting-coordination service line institutionalised in firm offering (2020) — *Engelin Teh Practice LLC* — <https://the-familylawyer.com/>
+- Multiple reported Singapore family appeals (2020) — *Singapore High Court / SGHCF*
+- Engelin Teh & Iain Teh — SAL profile (2022) — *Singapore Academy of Law* — <https://www.sal.org.sg/blog/2022-engelin-teh-iain-teh>
+
+**Verification:**
+- <https://etplaw.com/>
+- <https://the-familylawyer.com/>
+- <https://www.sal.org.sg/blog/2022-engelin-teh-iain-teh>
+- <https://simc.com.sg/membership-directory/individual/1970523>
+- <https://imimediation.org/member/engelin-teh/>
+- <https://www.lawguidesingapore.com/directory/law-firm/engelin-teh-practice-llc/>
+
+**Contact:** Engelin Teh Practice LLC, Singapore; firm contact form https://etplaw.com/
+
+*Notes: Senior Counsel since 1998 verified via SAL blog and firm site; SIMC panel and IMI mediator credentials verified via primary directories. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:singapore`, `practitioner:sg.lim-june-yujie`, `practitioner:sg.hing-wei-yuen-angelina`
+
+<sub>ID: `sg.teh-engelin`</sub>
+
+### Sharon Ser
+*Law Society of Hong Kong solicitor; IAFL Fellow; 40+ years family law; co-founder Rita Ku & Ser (July 2022); ex-Withers regional head of family Asia*
+Hong Kong (Central) · Hong Kong SAR · Rita Ku & Ser (RKS); Law Society of Hong Kong; IAFL Fellow
+
+**Stance:** Highest-leverage Hong Kong solicitor interlocutor for the recognition camp: co-founder of HK's flagship boutique family-law firm (Rita Ku & Ser, July 2022) with the most explicit 'PA = emotional abuse' institutional position on record. RKS firm PA page (author Vanessa Kwan) quotes HK court position 'parental alienation is exceptionally harmful to children and can be seen as a kind of emotional abuse' — the cleanest single-firm institutional recognition framing in any of the four Asia jurisdictions. 40+ years family law; ex-Withers regional head of family Asia; Doyle's Guide leading family + divorce HK 2024. Country_code: HK.
+
+**Publications:**
+- RKS firm Parental Alienation page (HK court 'PA = emotional abuse' framing) (2023) — *Rita Ku & Ser* — <https://rkslaws.com/parental-alienation/>
+- Doyle's Guide leading family + divorce HK 2024 (2024) — *Doyle's Guide* — <https://doylesguide.com/leading-family-divorce-law-barristers-hong-kong-2024/>
+- Hong Kong Lawyer author profile (2020) — *Hong Kong Lawyer* — <https://www.hk-lawyer.org/authors/sharon-ser>
+- HK landmark prenuptial-agreement case work (2014) — *Hong Kong Family Court*
+
+**Verification:**
+- <https://rkslaws.com/>
+- <https://rkslaws.com/solicitors/sharon-ser/>
+- <https://rkslaws.com/parental-alienation/>
+- <https://www.linkedin.com/in/sharon-ser-163b1632/>
+- <https://www.hk-lawyer.org/authors/sharon-ser>
+- <https://doylesguide.com/leading-family-divorce-law-barristers-hong-kong-2024/>
+
+**Contact:** Rita Ku & Ser, Suites 3210-3211 32/F Jardine House, 1 Connaught Place, Central, Hong Kong; firm site https://rkslaws.com/
+
+*Notes: Law Society of Hong Kong solicitor admission verified via RKS firm site and HK Lawyer author profile; IAFL Fellow verified; RKS co-founder July 2022 verified via firm site. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:hong-kong`, `practitioner:hk.tsao-jocelyn`, `practitioner:hk.dearle-marcus`, `practitioner:hk.mcnally-caroline`
+
+<sub>ID: `hk.ser-sharon`</sub>
+
+### Marcus Dearle
+*Solicitor admitted England & Wales + Hong Kong; IAFL Fellow; Senior Vice Chair IBA Family Law Committee; Partner + Global Head of Family Law, BCLP*
+Hong Kong (Quarry Bay) · Hong Kong SAR · Bryan Cave Leighton Paisner LLP (Hong Kong + London); Law Society of Hong Kong; Solicitors Regulation Authority (E&W); IAFL Fellow
+
+**Stance:** HK / London dual-jurisdiction senior partner who anchors IBA Family Law Committee output; natural interlocutor for any cross-jurisdiction PA-recognition collaboration with London chambers. BCLP Global Head of Family Law and IBA Family Law Committee Senior Vice Chair anchor cross-border thought-leadership infrastructure. Hong Kong Lawyer column series on cross-border family law. Country_code: HK.
+
+**Publications:**
+- Hong Kong Lawyer columns on cross-border family law (2020) — *Hong Kong Lawyer* — <https://www.hk-lawyer.org/authors/marcus-dearle>
+- BCLP firm thought-leadership on cross-border family law (2022) — *Bryan Cave Leighton Paisner LLP*
+- IBA Family Law Committee Senior Vice Chair output (2023) — *International Bar Association*
+
+**Verification:**
+- <https://www.hk-lawyer.org/authors/marcus-dearle>
+
+**Contact:** Bryan Cave Leighton Paisner, 16/F One Taikoo Place, 979 King's Road, Hong Kong; author profile https://www.hk-lawyer.org/authors/marcus-dearle
+
+*Notes: Law Society of Hong Kong + SRA (E&W) dual admission verified via HK Lawyer author profile; IAFL Fellow verified; IBA Family Law Committee Senior Vice Chair role confirmed via HK Lawyer profile. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:hong-kong`, `practitioner:hk.ser-sharon`, `practitioner:hk.tsao-jocelyn`
+
+<sub>ID: `hk.dearle-marcus`</sub>
+
+### Jocelyn Tsao
+*Law Society of Hong Kong solicitor; 18+ years; Head of Family Law + MD Hong Kong office, Withers*
+Hong Kong (Admiralty) · Hong Kong SAR · Withers Hong Kong; Law Society of Hong Kong
+
+**Stance:** Current Withers HK family-law head; natural cross-border interlocutor for any Withers-network PA / abduction collaboration spanning HK / Singapore / London. Author of 'Parental Rights of Unmarried Fathers in Hong Kong' (LinkedIn long-form); Withers HK family-law team publications on prenuptial agreements + child relocation; Doyle's Guide leading family + divorce firm HK 2025. Recognition register is firm-led through Withers HK institutional output rather than named-litigation counsel of record. Country_code: HK.
+
+**Publications:**
+- Parental Rights of Unmarried Fathers in Hong Kong (LinkedIn long-form) (2022) — *LinkedIn* — <https://www.linkedin.com/pulse/parental-rights-unmarried-fathers-hong-kong-jocelyn-tsao>
+- Withers HK family-law team publications on prenuptial agreements + child relocation (2024) — *Withers LLP*
+- Doyle's Guide leading family + divorce firm HK 2025 (2025) — *Doyle's Guide* — <https://www.withersworldwide.com/en-gb/insight/read/leading-firm-for-family-and-divorce-law-in-2025-singapore-and-hong-kong-editions-of-doyle-s-guide>
+
+**Verification:**
+- <https://www.withersworldwide.com/en-gb/people/jocelyn-tsao>
+- <https://www.legal500.com/firms/3597-withers-llp/c-hong-kong/lawyers/708051-jocelyn-tsao>
+- <https://www.hk-lawyer.org/authors/jocelyn-tsao>
+- <https://www.linkedin.com/pulse/parental-rights-unmarried-fathers-hong-kong-jocelyn-tsao>
+
+**Contact:** Withers Hong Kong, 30/F United Centre, 95 Queensway, Admiralty, Hong Kong; firm profile https://www.withersworldwide.com/en-gb/people/jocelyn-tsao
+
+*Notes: Law Society of Hong Kong solicitor admission verified via Withers firm profile, Legal 500 and HK Lawyer author profile; Head of Family Law + MD HK office role confirmed. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:hong-kong`, `practitioner:hk.ser-sharon`, `practitioner:hk.dearle-marcus`
+
+<sub>ID: `hk.tsao-jocelyn`</sub>
+
+### Caroline McNally
+*Law Society of Hong Kong solicitor; Partner Hugill & Ip (Family); previously Gall Family team (integrated 2023)*
+Hong Kong · Hong Kong SAR · Hugill & Ip Solicitors; Law Society of Hong Kong
+
+**Stance:** HK family-law solicitor who wrote the most-cited public case-note on H v W [2021] HKCA 733 (Mondaq co-authored with Catherine Tso) — Hong Kong's only appellate-level PA-relevant judgment. Family practice lead at Hugill & Ip post-Gall integration 2023. Family Focus Week series on custody of children consolidates the firm-led recognition register. Natural press-and-policy contact on HK's PA-relevant appellate authority. Country_code: HK.
+
+**Publications:**
+- Mondaq case-note on H v W [2021] HKCA 733 (co-author Catherine Tso) (2021) — *Mondaq* — <https://www.mondaq.com/hongkong/trials-appeals-compensation/1098592/h-v-w-2021-hkca-733>
+- Family Focus Week series on custody of children (2019) — *Hugill & Ip* — <https://www.hugillandip.com/2019/01/family-focus-week-custody-of-children/>
+- Family practice lead at Hugill & Ip post-Gall integration 2023 (2023) — *Hugill & Ip*
+
+**Verification:**
+- <https://www.hugillandip.com/solicitors/caroline-mcnally/>
+- <https://www.hugillandip.com/legal-services/family/>
+- <https://www.mondaq.com/hongkong/trials-appeals-compensation/1098592/h-v-w-2021-hkca-733>
+- <https://www.hugillandip.com/2019/01/family-focus-week-custody-of-children/>
+
+**Contact:** Hugill & Ip Solicitors, Hong Kong; firm profile https://www.hugillandip.com/solicitors/caroline-mcnally/
+
+*Notes: Law Society of Hong Kong solicitor admission verified via Hugill & Ip firm site; Mondaq case-note co-authorship verified via Mondaq primary source; Gall integration 2023 confirmed. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:hong-kong`, `case-study:h-v-w-hong-kong-2021`, `practitioner:hk.wong-raphael`, `practitioner:hk.ser-sharon`
+
+<sub>ID: `hk.mcnally-caroline`</sub>
+
+### Raphael Wong
+*Law Society of Hong Kong solicitor; promoted Partner Hugill & Ip 2025*
+Hong Kong · Hong Kong SAR · Hugill & Ip Solicitors; Law Society of Hong Kong
+
+**Stance:** Newest-generation HK family-law partner with the most cleanly-written, recently-published HK firm position on PA: 'Parental Alienation in Divorce Proceedings' (Hugill & Ip / Legal 500, 2025) — key text 'it is the process that matters, not the motive'. Natural mid-career interlocutor for ongoing PA-recognition framing in the HK lawyer-side debate. Partner promotion at Hugill & Ip 2025. Country_code: HK.
+
+**Publications:**
+- Parental Alienation in Divorce Proceedings ('it is the process that matters, not the motive') (2025) — *Hugill & Ip / Legal 500* — <https://www.legal500.com/developments/thought-leadership/parental-alienation-in-divorce-proceedings/>
+- Hugill & Ip Partner promotion announcement (2025) — *Legal 500* — <https://www.legal500.com/developments/press-releases/hugill-ip-announces-raphael-wongs-promotion-to-partner/>
+
+**Verification:**
+- <https://www.hugillandip.com/legal-services/family/>
+- <https://www.legal500.com/developments/press-releases/hugill-ip-announces-raphael-wongs-promotion-to-partner/>
+- <https://www.legal500.com/developments/thought-leadership/parental-alienation-in-divorce-proceedings/>
+
+**Contact:** Hugill & Ip Solicitors, Hong Kong; firm site https://www.hugillandip.com/legal-services/family/
+
+*Notes: Law Society of Hong Kong solicitor admission verified via Legal 500 promotion announcement and Hugill & Ip firm site; PA thought-leadership article authorship verified via Legal 500 primary source. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:hong-kong`, `case-study:h-v-w-hong-kong-2021`, `practitioner:hk.mcnally-caroline`, `practitioner:hk.acsvaw`
+
+<sub>ID: `hk.wong-raphael`</sub>
+
+### Colin P. A. Jones
+*Professor + International Program Coordinator Doshisha University Law School Kyoto; admitted New York / Guam / Republic of Palau bars; Life Member Clare Hall Cambridge*
+Kyoto · Japan · Doshisha University Law School (Kyoto); New York Bar; Guam Bar; Republic of Palau Bar
+
+**Stance:** Single most-cited English-language academic-lawyer voice on Japanese parental abduction and the (now-replaced) sole-custody regime under pre-reform Civil Code Art. 819. Natural primary interlocutor for the international PA-recognition camp in Japan and the 2024 Civil Code reform (Act No. 33 of 2024) effective 1 April 2026. Whittier Journal of Child and Family Advocacy 2007 article 'No More Excuses' on the international parental child abduction problem; Japan Times serial columns on Japanese family / custody law; multiple YouTube longform interviews on Japanese custody law. Not Nichibenren-admitted (foreign bar admissions only). Country_code: JP.
+
+**Publications:**
+- No More Excuses: Why recent penal code amendments should (but probably won't) stop international parental child abduction to Japan (2007) — *Whittier Journal of Child and Family Advocacy* — <https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1954&context=auilr>
+- Parental Abduction — How Will Japan Respond (2007) — *Japan Times*
+- Japan Times serial columns on Japanese family / custody law (2010) — *Japan Times*
+- Win by abduction — children are the losers in Japan's barely-there custody system (2020) — *Zenbird Media* — <https://zenbird.media/win-by-abduction-children-are-the-losers-in-japans-barely-there-custody-system/>
+
+**Verification:**
+- <https://kendb.doshisha.ac.jp/profile/en.6c762fa0ef2c13d6.html>
+- <https://en.wikipedia.org/wiki/International_child_abduction_in_Japan>
+- <https://www.mic.com/articles/15499/from-the-shadows-documentary-reflects-sad-reality-of-government-sponsored-child-abduction-in-japan>
+- <https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1954&context=auilr>
+- <https://zenbird.media/win-by-abduction-children-are-the-losers-in-japans-barely-there-custody-system/>
+
+**Contact:** Doshisha University Law School, Karasuma-Imadegawa Kamigyo-ku Kyoto 602-8580; profile https://kendb.doshisha.ac.jp/profile/en.6c762fa0ef2c13d6.html
+
+*Notes: Doshisha University Law School professor profile verified via Doshisha kendb primary source; NY / Guam / Palau bar admissions confirmed via Doshisha profile; not Nichibenren-admitted (foreign bar only). Bar numbers not publicly displayed.*
+
+**See also:** `jurisdiction:japan`, `practitioner:jp.gomez-john`, `practitioner:jp.morley-jeremy`, `practitioner:jp.nichibenren-jfba`
+
+<sub>ID: `jp.jones-colin-pa`</sub>
+
+### John Gomez
+*Chairman + Founder, Kizuna Child-Parent Reunion (Japan-based NGO); left-behind parent advocate*
+Tokyo · Japan · Kizuna Child-Parent Reunion (NGO)
+
+**Stance:** Founder of the largest English-Japanese bilingual left-behind-parents NGO; the most-quoted civil-society voice in international press on Japanese parental abduction and the 2024 joint-custody (共同親権) Civil Code reform. Natural primary interlocutor for the recognition / reform camp in the lead-up to the 1 April 2026 effective date of Act No. 33 of 2024. Kizuna NGO incorporation October 2012; Japanese government approval February 2013. Multiple US Congressional / Japanese Diet briefings 2013-2024. Not Nichibenren-admitted (NGO founder rather than bengoshi). Country_code: JP.
+
+**Publications:**
+- Kizuna NGO incorporation (October 2012); Japanese government approval (February 2013) (2013) — *Kizuna Child-Parent Reunion*
+- Parents challenge Japan's dismal child abduction laws (2018) — *Metropolis Japan* — <https://metropolisjapan.com/parents-challenge-japans-dismal-child-abduction-laws/>
+- As Japan moves toward recognizing joint custody, a father nourishes hope for reunion (2024) — *Japan Subculture* — <https://www.japansubculture.com/as-japan-moves-toward-recognizing-joint-custody-a-father-nourishes-hope-for-reunion/>
+- April 2012 Nippon Foundation seminar with From the Shadows screening (2012) — *Nippon Foundation*
+- Multiple US Congressional / Japanese Diet briefings 2013-2024 (2024) — *US Congress / Japanese Diet*
+
+**Verification:**
+- <https://www.kizuna-cpr.org/>
+- <https://www.kizuna-cpr.org/directors>
+- <https://www.indiegogo.com/projects/kizuna-child-parent-reunion>
+- <https://www.linkedin.com/in/john-gomez-938a1432/>
+- <https://metropolisjapan.com/parents-challenge-japans-dismal-child-abduction-laws/>
+- <https://www.japansubculture.com/as-japan-moves-toward-recognizing-joint-custody-a-father-nourishes-hope-for-reunion/>
+- <https://crcjapan.wordpress.com/category/john-gomez/>
+
+**Contact:** Kizuna Child-Parent Reunion, Tokyo, Japan; website https://www.kizuna-cpr.org/; directors page https://www.kizuna-cpr.org/directors
+
+*Notes: Kizuna NGO Chairman + Founder role verified via Kizuna site and directors page; Japanese government NGO approval 2013 confirmed; international press quotation register verified via Metropolis Japan and Japan Subculture primary sources. NGO founder rather than bengoshi.*
+
+**See also:** `jurisdiction:japan`, `practitioner:jp.jones-colin-pa`, `practitioner:jp.morley-jeremy`, `practitioner:jp.nichibenren-jfba`
+
+<sub>ID: `jp.gomez-john`</sub>
+
+### Jeremy D. Morley
+*New York Bar (1975); international family-law expert-witness practice; Japan-specialist*
+New York · United States (Japan-facing practice) · The Law Office of Jeremy D. Morley; New York State Bar
+
+**Stance:** US-bar Japan-Hague-specialist whose firm archive is the standing English-language reference on Japanese non-compliance with the 1980 Hague Abduction Convention; natural interlocutor for any cross-border PA / abduction matter where Japan is one of the jurisdictions involved. Lecture series in Japan on international child abduction. Treatise International Family Law Practice (ongoing editions). Country_code: JP (Japan-facing practice scope).
+
+**Publications:**
+- Japanese Violation of the Hague Abduction Convention (2017) — *international-divorce.com* — <https://www.international-divorce.com/2017/02/japanese-violation-of-hague-abduction.html>
+- Supreme Court of Japan and the Hague Abduction Convention (2018) — *international-divorce.com* — <https://www.international-divorce.com/2018/03/supreme-court-of-japan-and-hague.html>
+- Japan and The Hague Abduction Convention: Implementation and Practical Effects (2020) — *international-divorce.com* — <https://international-divorce.com/japan_hague_convention_practical/>
+- International Family Law Practice (treatise, ongoing editions) (2024) — *Jeremy D. Morley*
+- Lecture series in Japan on international child abduction (2019) — *Japan venues* — <https://www.international-divorce.com/lecturing-in-japan-about-international-child-abduction-custody-and-parenting>
+
+**Verification:**
+- <https://www.international-divorce.com/>
+- <https://www.international-divorce.com/2018/03/supreme-court-of-japan-and-hague.html>
+- <https://www.international-divorce.com/2017/02/japanese-violation-of-hague-abduction.html>
+- <https://international-divorce.com/japan_hague_convention_practical/>
+- <https://www.international-divorce.com/lecturing-in-japan-about-international-child-abduction-custody-and-parenting>
+
+**Contact:** Law Office of Jeremy D. Morley, 230 Park Avenue, New York NY 10169; firm contact https://www.international-divorce.com/contact/
+
+*Notes: New York State Bar admission 1975 verified via firm site; Japan-Hague specialist firm archive verified via international-divorce.com primary source. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:japan`, `practitioner:jp.jones-colin-pa`, `practitioner:jp.gomez-john`
+
+<sub>ID: `jp.morley-jeremy`</sub>
+
+## Critique camp
+
+### Indira Jaising, Senior Advocate (Lawyers Collective co-founder)
+*Senior Advocate (designated 1986, first woman so designated by Bombay HC); former Additional Solicitor General of India 2009-2014; Lawyers Collective co-founder 1981*
+Mumbai / New Delhi · Maharashtra / Supreme Court of India · Independent Senior Counsel; Lawyers Collective (co-founder)
+
+**Stance:** Critique-adjacent register anchor for the Indian PA debate. Institutional architect of India's Protection of Women from Domestic Violence Act 2005 + apex-court counsel in Githa Hariharan v Reserve Bank of India (1999) 2 SCC 228 (mother as natural guardian on par with father). Lawyers Collective co-founder 1981 institutionalised the women's-rights / DV-protection bar in India. Explicit PA-specific public stance not located in primary sources; classified critique on the strength of her DV-Act drafting and women's-rights apex-court register, which underpins any critique-camp framing of PA-as-DV-shield concerns. Country_code: IN.
+
+**Publications:**
+- Githa Hariharan v Reserve Bank of India (1999) 2 SCC 228 — counsel establishing mother as natural guardian (1999) — *Supreme Court of India*
+- Drafting of Protection of Women from Domestic Violence Act 2005 (2005) — *Parliament of India*
+- Envisioning a Law for the Indian Woman — A Recollection (2022) — *The Leaflet* — <https://theleaflet.in/staying-alive/envisioning-a-law-for-the-indian-woman-a-recollection-by-indira-jaising>
+- Lawyers Collective institutional DV / women's-rights output (co-founder 1981) (1981) — *Lawyers Collective*
+
+**Verification:**
+- <https://www.indirajaising.com/>
+- <https://en.wikipedia.org/wiki/Indira_Jaising>
+- <https://theleaflet.in/author/indira-jaising>
+
+**Contact:** Lawyers Collective, Mumbai/Delhi; https://www.indirajaising.com/about; Twitter/X @IJaising
+
+*Notes: Senior Advocate designation 1986 (first woman so designated by Bombay HC); former ASG 2009-2014; Lawyers Collective co-founder 1981 — verified via Wikipedia and The Leaflet primary sources. PA-specific stance not on public record; carried as critique register anchor by analogy with DV-Act drafting work. Bar Council registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.grover-vrinda`, `practitioner:in.nundy-karuna`
+
+<sub>ID: `in.jaising-indira`</sub>
+
+### Vrinda Grover, Advocate
+*Advocate (enrolled 1989); constitutional / criminal practice; SOAS Honorary LLD 2018; TIME 100 (2013)*
+New Delhi · Delhi · Independent practice (New Delhi); Bar Council of Delhi
+
+**Stance:** Critique-adjacent register second-name anchor (after Jaising) for the Indian PA debate. Constitutional / criminal practice with women's-rights and DV-survivor drafting contributions (Justice Verma Committee submissions; DV / sexual-violence law drafting). PA-specific public stance not located in primary sources; classified critique on the strength of her women's-rights and DV-survivor register. Most likely Delhi human-rights advocate to articulate the critique-camp PA-as-DV-cover concern at apex level if asked on record. Country_code: IN.
+
+**Publications:**
+- Bilkis Bano remission case representation (2024) — *Supreme Court of India*
+- Kathua / Hashimpura representation (2018) — *Indian Courts*
+- Justice Verma Committee submissions (2013) — *Government of India*
+- DV / sexual-violence law drafting contributions (2013) — *Government of India*
+- SOAS Honorary LLD (2018) — *SOAS University of London* — <https://blogs.soas.ac.uk/ssai-notes/2018/08/02/588/>
+
+**Verification:**
+- <https://vulnerablewitnessindia.in/ms-vrinda-grover/>
+- <https://en.wikipedia.org/wiki/Vrinda_Grover>
+- <https://www.livelaw.in/tags/advocate-vrinda-grover>
+- <https://blogs.soas.ac.uk/ssai-notes/2018/08/02/588/>
+
+**Contact:** New Delhi chambers (full address not publicly confirmed on website); via vulnerablewitnessindia.in and LiveLaw tag profile
+
+*Notes: Bar Council of Delhi enrolment 1989; TIME 100 (2013); SOAS Honorary LLD 2018 — verified via Wikipedia, SOAS and LiveLaw primary sources. PA-specific stance not on public record; carried as critique register second-name anchor by analogy with DV-Act drafting work. Bar Council registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.jaising-indira`, `practitioner:in.nundy-karuna`
+
+<sub>ID: `in.grover-vrinda`</sub>
+
+### Karuna Nundy, Senior Advocate
+*Senior Advocate Supreme Court of India (designated 2024); TIME 100 (2022-23)*
+New Delhi · Delhi (Supreme Court of India) · Independent Senior Counsel, Supreme Court of India
+
+**Stance:** Most recent Indian senior-counsel designation (2024) in the women's-rights critique-adjacent camp. RIT Foundation v Union of India (marital rape, Delhi HC + pending SC) anchors the contemporary women's-rights apex-court register. Justice Verma Committee submissions and Right to Food Act drafting contributions reinforce the register. PA-specific public stance not located in primary sources; classified critique on the strength of her women's-rights and DV-protection register. Generationally the natural next-decade voice on the PA-recognition vs DV-protection intersection. Country_code: IN.
+
+**Publications:**
+- RIT Foundation v Union of India (marital rape, Delhi HC + pending SC) (2022) — *Delhi High Court / Supreme Court of India*
+- Bhopal gas-leak victims' representation (2010) — *Indian Courts*
+- Justice Verma Committee submissions (2013) — *Government of India*
+- Right to Food Act drafting contributions (2013) — *Government of India*
+- Marital rape exception places institution of marriage over individuals — Delhi HC submissions (2022) — *Scroll.in* — <https://scroll.in/latest/1016533/marital-rape-exception-places-institution-of-marriage-over-individuals-karuna-nundy-tells-delhi-hc>
+
+**Verification:**
+- <https://en.wikipedia.org/wiki/Karuna_Nundy>
+- <https://skoch.in/karuna-nundy/>
+- <https://time.com/6160414/marital-rape-india-karuna-nundy-interview/>
+- <https://asia.nd.edu/events/2024/03/22/gender-justice-and-joy-legal-travels-through-the-patriarchy-suppressed-speech-and-corporate-crime-lecture-by-karuna-nundy/>
+
+**Contact:** Chamber Supreme Court of India, New Delhi; SKOCH profile https://skoch.in/karuna-nundy/
+
+*Notes: Senior Advocate designation 2024 (SCI) verified; TIME 100 (2022-23) confirmed via TIME primary source. PA-specific stance not on public record; carried as critique register anchor by analogy with women's-rights and marital-rape apex-court work. Bar Council registration number not publicly displayed.*
+
+**See also:** `jurisdiction:india`, `practitioner:in.jaising-indira`, `practitioner:in.grover-vrinda`
+
+<sub>ID: `in.nundy-karuna`</sub>
+
+### Japan Federation of Bar Associations (Nichibenren / 日本弁護士連合会 / JFBA)
+*Statutory national bar federation for all Japanese bengoshi (mandatory membership under Attorney Act Art. 45)*
+Tokyo · Japan · Japan Federation of Bar Associations (JFBA / Nichibenren), 1-1-3 Kasumigaseki, Chiyoda-ku, Tokyo 100-0013
+
+**Stance:** Institutional critique-leaning-middle anchor for the Japan PA / 共同親権 debate. Mandatory-membership statutory bar federation whose surveyed-lawyer position (80% of 251 surveyed lawyers actively or somewhat opposed the joint-custody outline per Unseen Japan reporting) is the strongest single piece of evidence for the critique / DV-carve-out camp in Japan. Institutional counterweight to the international PA-recognition advocacy and to Kizuna / Morley / Jones recognition cluster. JFBA family-law-committee policy submissions in the lead-up to Act No. 33 of 2024 (民法等の一部を改正する法律 amending Civil Code Art. 819 effective 1 April 2026) carried DV-protection-primacy framing. Named JFBA representative Atty. Keiko Kato — March 2026 Commission on Filipinos Overseas briefing on reform impact on Filipino migrants. Country_code: JP.
+
+**Publications:**
+- JFBA surveyed-lawyer position: 80% of 251 surveyed lawyers actively or somewhat opposed joint-custody outline (2024) — *Unseen Japan* — <https://unseen-japan.com/joint-custody-japan-objections-women/>
+- JFBA family-law committee policy submissions on Act No. 33 of 2024 (Civil Code Art. 819 amendment) (2024) — *JFBA / Nichibenren*
+- Atty. Keiko Kato Commission on Filipinos Overseas briefing March 2026 (2026) — *Philippine Information Agency / Gulf News* — <https://pia.gov.ph/press-release/japans-new-child-custody-law-to-impact-filipino-migrants/>
+
+**Verification:**
+- <https://www.nichibenren.or.jp/en/about/us/profile.html>
+- <https://www.crjapan.org/voices/japan-federation-bar-associations-jfba>
+- <https://www.devex.com/organizations/japan-federation-of-bar-associations-jfba-158141>
+- <https://pia.gov.ph/press-release/japans-new-child-custody-law-to-impact-filipino-migrants/>
+- <https://unseen-japan.com/joint-custody-japan-objections-women/>
+
+**Contact:** JFBA / Nichibenren, 1-1-3 Kasumigaseki, Chiyoda-ku, Tokyo 100-0013; phone +81 3 3580 9841; contact form https://www.nichibenren.or.jp/en/contact.html
+
+*Notes: Statutory national bar federation under Attorney Act Art. 45 verified via Nichibenren primary source; surveyed-lawyer position on joint-custody reform verified via Unseen Japan; Atty. Keiko Kato named-press engagement verified via PIA primary source. Institutional entry rather than individual practitioner.*
+
+**See also:** `jurisdiction:japan`, `practitioner:jp.womens-action-network`, `practitioner:jp.jones-colin-pa`, `practitioner:jp.gomez-john`
+
+<sub>ID: `jp.nichibenren-jfba`</sub>
+
+## Middle / methodological camp
+
+### Anil Narain Balchandani
+*Singapore Bar; Red Lion Circle; criminal-defence / pro-bono profile*
+Singapore · Singapore (city-state) · Red Lion Circle; Law Society of Singapore
+
+**Stance:** Verified Singapore Bar member with pro-bono profile (Parti Liyani 2020 defence — judicially praised); included for record-completeness as flagged but not a frontline PA voice. PA-specific stance not in primary sources; classified middle on the strength of pro-bono / access-to-justice register absent partisan PA-recognition or PA-critique public statement. Country_code: SG.
+
+**Publications:**
+- Pro-bono defence of wrongly convicted Parti Liyani (2020, judicially praised) (2020) — *Singapore Courts* — <https://mothership.sg/2020/09/lawyer-praised-pro-bono-defend-maid/>
+
+**Verification:**
+- <https://accesstojustice.sg/directory/lawyer/anil-narain-balchandani/>
+- <https://www.lawguidesingapore.com/directory/lawyer/anil-narain-balchandani/>
+- <https://mothership.sg/2020/09/lawyer-praised-pro-bono-defend-maid/>
+
+**Contact:** Red Lion Circle, Singapore; AccessToJustice.sg directory profile
+
+*Notes: Singapore Bar membership verified via AccessToJustice.sg and LawGuide Singapore; Parti Liyani defence judicially praised per Mothership primary source. PA-specific stance not publicly confirmed; carried for record-completeness from v1.*
+
+**See also:** `jurisdiction:singapore`
+
+<sub>ID: `sg.balchandani-anil-narain`</sub>
+
+### Audrey Eu Yuet-mee, Senior Counsel
+*Senior Counsel (HK 1997, ex-QC 1993); called Inner Temple 1977 / HK 1978; ex-Chair HK Bar Association*
+Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong Bar Association
+
+**Stance:** Documented HK family + divorce silk on Doyle's Guide (2020 / 2021 / 2023). PA-specific stance not on public record; classified middle on the strength of recognised family-law silk register absent partisan PA-recognition or PA-critique public statement. Clerks line is the entry path. Country_code: HK.
+
+**Publications:**
+- Doyle's Guide leading family + divorce barrister HK 2023 (2023) — *Doyle's Guide* — <https://doylesguide.com/leading-family-divorce-law-barristers-hong-kong-2023/>
+- Doyle's Guide leading family + divorce barrister HK 2020 / 2021 (2021) — *Doyle's Guide*
+
+**Verification:**
+- <https://www.hkba.org/barrister/eu-audrey-sc-ms/>
+- <https://www.siroswald.com/en/Members/Audrey_Eu>
+- <https://doylesguide.com/leading-family-divorce-law-barristers-hong-kong-2023/>
+- <https://en.wikipedia.org/wiki/Audrey_Eu>
+
+**Contact:** Sir Oswald Cheung's Chambers, 10/F New Henry House, 10 Ice House Street, Central, Hong Kong; HK Bar Association profile
+
+*Notes: Senior Counsel HK 1997 (ex-QC 1993) verified via HK Bar Association profile; Doyle's Guide family + divorce barrister HK 2020/2021/2023 verified via Doyle's Guide primary source. PA-specific stance not publicly confirmed; carried for record-completeness from v1. Bar number not publicly displayed.*
+
+**See also:** `jurisdiction:hong-kong`
+
+<sub>ID: `hk.eu-audrey`</sub>
+
+## Excluded (with documented reason)
+
+- **Sangita Saxena (India)** — Unverifiable. Not retrievable from BCI register or any Delhi HC empanelment or PA-specific publication via primary sources. Carried from v1 excluded register.
+- **Anuradha Beotra (India)** — Unverifiable. Not retrievable from BCI register or any Delhi HC / firm site for confirmed family-law / PA practice. Carried from v1 excluded register.
+- **Lawyers Collective (institutional, India)** — Institutional duplication. Covered indirectly through Indira Jaising (co-founder) entry in.jaising-indira above to avoid double-counting. Carried from v1 excluded register.
+- **Sim Lit Beng (Singapore)** — Unverifiable. Not retrievable from Law Society Singapore find-a-lawyer directory or any reported case. Carried from v1 excluded register.
+- **Lisa Sam (Singapore)** — Unverifiable PA stance. Firm verified but no PA-specific publication or reported PA-relevant case on primary sources. Carried from v1 excluded register.
+- **Tan Siew Kim (Singapore)** — Unverifiable. Not retrievable from Law Society find-a-lawyer directory for confirmed family-law / PA practice. Carried from v1 excluded register.
+- **Adriene Cheong (Singapore)** — Unverifiable. Not retrievable from Law Society directory or reported Singapore family-law cases. Carried from v1 excluded register.
+- **Asian Family Justice Centre (Singapore)** — Unverifiable institutional. Institutional name not located on primary sources. Carried from v1 excluded register.
+- **Counsel for Wife in TEN v TEO (Singapore)** — Not applicable. Wife appeared in person on appeal per eLitigation judgment. Carried from v1 excluded register.
+  - Primary source: <https://www.elitigation.sg/gd/s/2020_SGHCF_20>
+- **Patrick Yu Pak-tung SC (Hong Kong)** — Unverifiable. Not separable from Patrick Yu Shuk Siu (1922-2019) in primary sources; not on HK Bar Association silk list at date of writing. Carried from v1 excluded register.
+- **Russell Coleman SC (Hong Kong)** — Out-of-scope. Subsequently appointed to HK High Court bench (Mr Justice Coleman) per HK Judiciary directory; no longer practising barrister. Carried from v1 excluded register.
+- **Helen Yu (Hong Kong)** — Unverifiable. Not retrievable from Law Society of Hong Kong solicitor register for confirmed family-law practice. Carried from v1 excluded register.
+- **Hong Kong Bar Association Family Law Committee** — Unverifiable PA stance. No publicly-posted PA-specific position statement on Bar Association primary sources at date of writing. Carried from v1 excluded register.
+- **Hong Kong Federation of Women** — Unverifiable PA stance. Institutional PA-specific filing or position statement not publicly confirmed on Federation's primary sources. Carried from v1 excluded register; critique register for HK runs through practitioner:hk.acsvaw on therapists Asia v2.
+- **Maggie Ho (Hong Kong)** — Unverifiable. Not retrievable from Law Society of Hong Kong register for confirmed family-law / PA practice. Carried from v1 excluded register.
+- **Counsel of record in H v W [2021] HKCA 733** — Unverifiable. Anonymisation + available case notes do not list counsel of record. Carried from v1 excluded register; case-study cross-link retained via practitioner:hk.mcnally-caroline Mondaq case-note.
+- **Tomoshige Hayashi (Japan)** — Unverifiable. Not retrievable as an individual bengoshi from Nichibenren register or any reported case; closest match Nakamura and Hayashi Law Office Nagoya not confirmed individual identification. Carried from v1 excluded register.
+- **Mariko Kawano (Japan)** — Misclassified in v1. Confirmed Waseda professor of international public law / dispute settlement, NOT family law / international child abduction; misclassified in original brief. Carried from v1 excluded register.
+- **Akiko Ohnogi (Japan)** — Out-of-scope for lawyer file. Confirmed clinical psychologist + co-founder Japan Association for Play Therapy; not a Japanese-bar lawyer — belongs on Asia therapists file (already cross-flagged as excluded entry jp.ohnogi-akiko on therapists Asia v2). Carried from v1 excluded register.
+- **Counsel involved in 2024 Civil Code Art. 819 reform drafting (Japan)** — Unverifiable individual identification. Drafting led by MOJ Legislative Council (法制審議会) family-law subcommittee; named member-lawyers in Japanese-language Council minutes not retrieved from English-source primary materials. Carried from v1 excluded register; institutional position covered via practitioner:jp.nichibenren-jfba entry above.
+
 
 ---
 
-## India
-
-The Indian PA terrain is anchored by **Vivek Singh v Romani Singh (Civil Appeal 3962/2016, decided 13 February 2017)** — the Supreme Court of India's most explicit "parental alienation" judgment, holding welfare-of-the-child paramount and naming PA as a litigable harm. Practitioner clustering is along (1) the apex-court counsel actually named in that record, (2) the IAFL-fellow Hague-Convention / international-removal specialists at Malhotra & Malhotra Chandigarh, and (3) the senior women's-rights bar (Jaising, Grover, Nundy) whose stance on PA is institutional-adjacent rather than directly stated.
-
-### 1. Geeta Luthra, Senior Advocate
-
-- **Firm:** Geeta Luthra & Associates / Supreme Court of India (independent senior counsel)
-- **Firm URLs:** https://en.wikipedia.org/wiki/Geeta_Luthra ; IAFL Fellow profile https://www.iafl.com/find-a-lawyer/search-details/?id=19938 ; Legal Era profile https://www.legaleraonline.com/distinguished-legal-mind-of-india/geeta-luthra-4785
-- **Bar:** Bar Council of India / Supreme Court of India; designated Senior Advocate 2007; LLM + MPhil Cambridge
-- **Stance:** recognition (appeared for the respondent mother in the SC's leading PA judgment; PA-as-litigable-harm framing inherent to her successful argument)
-- **Stance source:** Named counsel for respondent Romani Singh in *Lt Col Vivek Singh v Romani Singh*, Civil Appeal 3962/2016, (2017) 3 SCC 231 — SCI judgment PDF https://main.sci.gov.in/judgment/judis/44566.pdf ; CaseMine commentary https://www.casemine.com/commentary/in/vivek-singh-v.-romani-singh:-supreme-court-reinforces-welfare-of-child-as-paramount-in-custody-disputes/view ; Indian Kanoon https://indiankanoon.org/doc/48721287/
-- **Named cases / publications:** Vivek Singh v Romani Singh (2017) 3 SCC 231; multiple inter-country custody habeas-corpus matters; family-law practice profiled on IAFL India page
-- **Primary contact:** Chamber 47, Supreme Court of India, New Delhi; IAFL India listing https://www.iafl.com/find-a-lawyer/search-details/?id=19938
-- **Tier:** 1
-- **Hook:** The Senior Advocate who actually argued and won India's most-cited Supreme Court PA judgment — the single highest-leverage Indian apex-court interlocutor for the recognition camp.
-
-### 2. Anil Malhotra, Senior Advocate
-
-- **Firm:** Malhotra & Malhotra Associates (Chandigarh)
-- **Firm URLs:** https://www.anilmalhotra.co.in/ ; IAFL Senior Advocate profile https://www.iafl.com/find-a-lawyer/search-details/?id=19939
-- **Bar:** Bar Council of Punjab & Haryana / Supreme Court of India; Senior Advocate (42 yrs standing); LLM University of London 1985; Comparative Family Law LSE; Law & Society SOAS
-- **Stance:** recognition (PA explicitly framed as harm to children and to the left-behind parent; Hague-Convention-accession advocate; member Justice Rajesh Bindal Committee on Inter-Country Removal of Children 2018)
-- **Stance source:** Malhotra & Malhotra, *"Hear the Child, Honor Their Future: The Voice of the Child"* https://www.anilmalhotra.co.in/post/hear-the-child-honor-their-future-the-voice-of-the-child-by-anil-and-ankit-malhotra ; LiveLaw *"A Child's Voice in Corridors of Indian Justice in Child Custody Cases"* https://www.livelaw.in/articles/child-custody-india-hague-convention-and-child-rights-279793 ; Bar & Bench interview *"Proactivity of government to amend outdated family laws is zero"* https://www.barandbench.com/interviews/proactivity-of-government-to-amend-outdated-family-laws-is-zero-parents-removing-children-illegally-from-india-anil-malhotra ; Secretary, IAFL International Child Relocation Committee
-- **Named cases / publications:** *The Removed Child and The Law in India* (Malhotra & Malhotra, 2018, ISBN 978-93-5321-776-1); *Surrogacy in India: A Law in the Making*; *The Global Indians and The Law* (2020); *Practitioner's Guide to International Family Law: An Indian Perspective* (Oak Bridge, 2025, ISBN 978-81-983488-4-5) — book review https://www.livelaw.in/book-reviews/practitioners-guide-to-international-family-law-book-review-292567 ; Bindal Committee Report to Government of India 2018
-- **Primary contact:** Malhotra & Malhotra Associates, #495 Defence Colony, Sector 36-B, Chandigarh 160036; via firm site https://www.anilmalhotra.co.in/contact-us
-- **Tier:** 1
-- **Hook:** India's most internationally networked PA / international-child-removal practitioner — IAFL Fellow, Bindal Committee member, with the only Indian practitioner monograph series specifically on removed-children law.
-
-### 3. Ranjit Malhotra, Advocate
-
-- **Firm:** Malhotra & Malhotra Associates (Chandigarh)
-- **Firm URLs:** https://www.anilmalhotra.co.in/ ; IAFL Fellow profile https://www.iafl.com/find-a-lawyer/search-details/?id=19940 ; Martindale https://www.martindale.com/attorney/ranjit-malhotra-1216698/
-- **Bar:** Bar Council of Punjab & Haryana; 35+ yrs standing; LLM (international family law)
-- **Stance:** recognition (international-abduction / Hague-implementation advocate; routinely provides expert reports on Indian family law to foreign jurisdictions including English Family Division)
-- **Stance source:** One of three India special invitees, Hague Experts' Meeting on Issues of Domestic / Family Violence and the 1980 Hague Child Abduction Convention, University of Westminster, 12 June 2017; UK government family-law symposium with Indian special invitees https://www.gov.uk/government/news/family-law-symposium-brings-together-international-experts ; co-author of all Malhotra & Malhotra monograph titles above
-- **Named cases / publications:** Co-author *The Removed Child and The Law in India* (2018); *Practitioner's Guide to International Family Law: An Indian Perspective* (2025); Edward Elgar handbook chapter on *"International child abduction in India"* https://ideas.repec.org/h/elg/eechap/20040_18.html
-- **Primary contact:** Malhotra & Malhotra Associates, Chandigarh; IAFL listing https://www.iafl.com/find-a-lawyer/search-details/?id=19940
-- **Tier:** 1
-- **Hook:** Anil's brother and the firm's English-courts-facing expert-witness practitioner — the natural second name on any India-side Hague / abduction / PA collaboration.
-
-### 4. Dr Pinky Anand, Senior Advocate (former Additional Solicitor General of India)
-
-- **Firm:** Independent senior counsel, Supreme Court of India; No5 Barristers' Chambers (Door Tenant) https://www.no5.com/barrister/dr-pinky-anand/
-- **Firm URLs:** https://en.wikipedia.org/wiki/Pinky_Anand ; IAFL profile https://www.iafl.com/find-a-lawyer/search-details/?id=19875 ; NLU Delhi faculty https://nludelhi.ac.in/faculty/dr-pinky-anand/
-- **Bar:** Bar Council of India / Supreme Court of India; designated Senior Advocate 2007; former ASG of India 2014-2018; Door Tenant No5 Chambers
-- **Stance:** recognition (specialist in *inter-country parental abduction* explicitly; secured return of US child to New York State pre-Hague-accession India in *V. Ravi Chandran v Union of India*)
-- **Stance source:** Wikipedia https://en.wikipedia.org/wiki/Pinky_Anand summarising No5 chambers practice profile — *"core skill areas in commercial litigation, white collar crimes, telecom, environment, private international law and family law with a particular reference to inter-country parental abduction"*; No5 Door Tenant profile https://www.no5.com/barrister/dr-pinky-anand/
-- **Named cases / publications:** *V. Ravi Chandran v Union of India* (return of US child); *Stephanie Joan Becker v State* (intercountry adoption); Delhi Study Group profile https://delhistudygroup.org/our-team/mrs-pinky-anand/
-- **Primary contact:** Chamber Supreme Court of India / via No5 Chambers, London +44 845 210 5555; Delhi Study Group contact https://delhistudygroup.org/our-team/mrs-pinky-anand/
-- **Tier:** 1
-- **Hook:** The former-ASG senior counsel whose practice profile explicitly names *inter-country parental abduction* as a core area — natural high-leverage interlocutor for cross-jurisdictional PA work landing in India.
-
-### 5. Indira Jaising, Senior Advocate (Lawyers Collective co-founder)
-
-- **Firm:** Independent senior counsel / Lawyers Collective (co-founder 1981)
-- **Firm URLs:** https://www.indirajaising.com/ ; https://en.wikipedia.org/wiki/Indira_Jaising ; The Leaflet author page https://theleaflet.in/author/indira-jaising
-- **Bar:** Bar Council of Maharashtra / Supreme Court of India; designated Senior Advocate 1986 (first woman so designated by Bombay HC); former Additional Solicitor General of India 2009-2014
-- **Stance:** critique-adjacent (institutional architect of India's Protection of Women from Domestic Violence Act 2005 + landmark *Githa Hariharan v RBI* on maternal natural-guardianship; explicit PA-specific public stance **not publicly confirmed** — listed as the standard-of-care critique-camp interlocutor for DV-protection framing)
-- **Stance source:** Wikipedia https://en.wikipedia.org/wiki/Indira_Jaising on Lawyers Collective and DV Act drafting; *Githa Hariharan v Reserve Bank of India* (1999) 2 SCC 228 — argued by Jaising establishing mother as natural guardian on par with father; Leaflet column archive
-- **Named cases / publications:** *Githa Hariharan v RBI* (1999); drafting of PWDVA 2005; *Envisioning a Law for the Indian Woman* https://theleaflet.in/staying-alive/envisioning-a-law-for-the-indian-woman-a-recollection-by-indira-jaising
-- **Primary contact:** Lawyers Collective, Mumbai/Delhi; via https://www.indirajaising.com/about ; Twitter/X @IJaising
-- **Tier:** 1
-- **Hook:** Indian women's-rights apex-court voice whose DV-Act drafting underpins any critique-camp framing of PA-as-DV-shield concerns — natural interlocutor for the DV-protection side of an honest Indian PA debate.
-
-### 6. Vrinda Grover, Advocate
-
-- **Firm:** Independent practice (New Delhi)
-- **Firm URLs:** https://en.wikipedia.org/wiki/Vrinda_Grover ; vulnerable-witness India profile https://vulnerablewitnessindia.in/ms-vrinda-grover/ ; LiveLaw tag https://www.livelaw.in/tags/advocate-vrinda-grover
-- **Bar:** Bar Council of Delhi (enrolled 1989); constitutional / criminal practice; PhD Law SOAS / Delhi
-- **Stance:** critique-adjacent (women's-rights and DV-survivor practice; PA-specific public stance **not publicly confirmed** — included as confirmable critique-camp anchor counsel by analogy with her domestic-violence drafting work)
-- **Stance source:** Wikipedia https://en.wikipedia.org/wiki/Vrinda_Grover summarising her contribution to drafting laws to protect women and children from DV and sexual violence; TIME 100 (2013); SOAS Honorary LLD 2018 https://blogs.soas.ac.uk/ssai-notes/2018/08/02/588/
-- **Named cases / publications:** Bilkis Bano remission case; Kathua / Hashimpura representation; Justice Verma Committee submissions; SOAS Honorary LLD 2018
-- **Primary contact:** New Delhi chambers (full address not publicly confirmed on website); via vulnerable-witness India profile and LiveLaw tag https://www.livelaw.in/tags/advocate-vrinda-grover
-- **Tier:** 2
-- **Hook:** The Delhi human-rights advocate most likely to articulate the critique-camp PA-as-DV-cover concern at apex level if asked on record — natural second name to Jaising for that frame.
-
-### 7. Karuna Nundy, Senior Advocate
-
-- **Firm:** Independent senior counsel, Supreme Court of India
-- **Firm URLs:** https://en.wikipedia.org/wiki/Karuna_Nundy ; SKOCH profile https://skoch.in/karuna-nundy/ ; Notre Dame Liu Institute speaker profile https://asia.nd.edu/events/2024/03/22/gender-justice-and-joy-legal-travels-through-the-patriarchy-suppressed-speech-and-corporate-crime-lecture-by-karuna-nundy/
-- **Bar:** Bar Council of India / Supreme Court of India; designated Senior Advocate 2024
-- **Stance:** critique-adjacent (lead counsel in marital-rape constitutional challenge before Delhi HC / pending Supreme Court; women's-rights frame; PA-specific public stance **not publicly confirmed**)
-- **Stance source:** TIME interview *"Karuna Nundy's Fight to Criminalize Marital Rape in India"* https://time.com/6160414/marital-rape-india-karuna-nundy-interview/ ; Scroll *"Marital rape exception places institution of marriage over individuals"* https://scroll.in/latest/1016533/marital-rape-exception-places-institution-of-marriage-over-individuals-karuna-nundy-tells-delhi-hc
-- **Named cases / publications:** RIT Foundation v Union of India (marital rape, Delhi HC + pending SC); Bhopal gas-leak victims' representation; Justice Verma Committee submissions; contributions to Right to Food Act drafting
-- **Primary contact:** Chamber, Supreme Court of India, New Delhi; SKOCH profile https://skoch.in/karuna-nundy/
-- **Tier:** 2
-- **Hook:** Most recent Indian senior-counsel designation in the women's-rights critique camp (2024) — generationally the natural next-decade voice on intersection of PA-recognition statutes and DV-protection.
-
-### India — entries considered and excluded
-
-- **Sangita Saxena (Delhi)** — name not retrievable from Bar Council of India register, any Delhi HC empanelment list, or any PA-specific publication via available primary sources. **Not publicly confirmed**; excluded.
-- **Anuradha Beotra (Delhi)** — name not retrievable from primary BCI / Delhi HC / firm-website sources for a confirmed family-law / PA practice. **Not publicly confirmed**; excluded.
-- **Lawyers Collective (institutional)** — institutional entity; covered indirectly through Indira Jaising (co-founder) above to avoid double-counting; institution itself has not filed a direct PA-recognition or PA-critique action on public record.
-
----
-
-## Singapore
-
-Singapore's anchor case is **TEN v TEO and another appeal [2020] SGHCF 20** (Debbie Ong J, 23 November 2020) — the High Court (Family Division) decision most explicitly on parental alienation, holding that *"the law expects a parent not to engage in alienating behaviour, and to support reunification efforts"*. Counsel for the husband was confirmed via the published judgment; the wife appeared in person on appeal, limiting the Singapore counsel-side directory. Practitioner inclusion is anchored to (1) confirmed counsel in TEN v TEO, (2) IAFL-fellow family-law specialists who have litigated PA-relevant cross-border / Hague matters at SGFC / SGHCF level, and (3) Doyle's Guide / Law Society-listed boutique family-law principals with published PA practice content.
-
-### 1. Hing Wei Yuen Angelina
-
-- **Firm:** Integro Law Chambers LLC (Singapore)
-- **Firm URLs:** Integro Law Chambers — Law Society listing https://www.lawsociety.org.sg/find-a-lawyer/divorce-family-matters/ ; eLitigation judgment confirming counsel record https://www.elitigation.sg/gd/s/2020_SGHCF_20
-- **Bar:** Singapore Bar (Law Society of Singapore practising certificate); admitted before Family Justice Courts
-- **Stance:** recognition (appeared as named counsel for the father in TEN v TEO, the SGHCF's leading PA judgment; argued PA-recognition frame successfully on the alienating-conduct findings)
-- **Stance source:** Named counsel "Hing Wei Yuen Angelina and Ng Yu Hui Michelle (Integro Law Chambers LLC)" for the Father in *TEN v TEO and another appeal* [2020] SGHCF 20 — eLitigation https://www.elitigation.sg/gd/s/2020_SGHCF_20 ; Singapore Judiciary case-highlight page https://www.judiciary.gov.sg/judgments/FJC-case-highlights/case-highlights-detail/ten-v-teo-and-another-appeal-2020-sghcf-20
-- **Named cases / publications:** TEN v TEO [2020] SGHCF 20 (counsel for father)
-- **Primary contact:** Integro Law Chambers LLC, Singapore; via Law Society Singapore find-a-lawyer https://www.lawsociety.org.sg/find-a-lawyer/divorce-family-matters/
-- **Tier:** 1
-- **Hook:** Named counsel of record in the SGHCF's flagship parental-alienation appeal — the single most directly verifiable Singapore PA-recognition practitioner.
-
-### 2. Ng Yu Hui Michelle
-
-- **Firm:** Integro Law Chambers LLC (Singapore)
-- **Firm URLs:** Integro Law Chambers — eLitigation judgment confirming counsel record https://www.elitigation.sg/gd/s/2020_SGHCF_20
-- **Bar:** Singapore Bar (Law Society of Singapore practising certificate); admitted before Family Justice Courts
-- **Stance:** recognition (junior counsel of record on the same TEN v TEO appeal)
-- **Stance source:** Named co-counsel for the Father in *TEN v TEO and another appeal* [2020] SGHCF 20 — eLitigation https://www.elitigation.sg/gd/s/2020_SGHCF_20
-- **Named cases / publications:** TEN v TEO [2020] SGHCF 20 (junior counsel for father)
-- **Primary contact:** Integro Law Chambers LLC, Singapore; via Law Society Singapore find-a-lawyer https://www.lawsociety.org.sg/find-a-lawyer/divorce-family-matters/
-- **Tier:** 2
-- **Hook:** Junior on the SGHCF flagship PA judgment — the natural mid-career second name from the firm that successfully argued PA-recognition at appellate level.
-
-### 3. June Lim Yujie
-
-- **Firm:** Eden Law Corporation (Managing Director)
-- **Firm URLs:** https://edenlaw.com.sg/ ; team profile https://edenlaw.com.sg/team-member/june-lim/ ; Asian Legal Business https://www.legalbusinessonline.com/appointments/singapore-boutique-fla-adds-matrimonial-law-expert
-- **Bar:** Singapore Bar (called 2009); Law Society of Singapore practising certificate; SingaporeLegalAdvice profile https://singaporelegaladvice.com/lawyer/june-lim/
-- **Stance:** recognition (PA-relevant cross-border child-abduction and relocation specialist; argued Singapore's 5th Hague Convention international child-abduction case successfully for the Singaporean mother against the Irish father, 2018; judicial-interview-of-children expertise XBF v XBE [2024] SGHCF 42)
-- **Stance source:** Eden Law team page detailing PA-relevant case ledger https://edenlaw.com.sg/team-member/june-lim/ ; Eden Law family-law explainer programming https://edenlaw.com.sg/family-law-in-singapore-vs-malaysia-divorce-mediation-legal-costs-ep-1/
-- **Named cases / publications:** *XBF v XBE* [2024] SGHCF 42 (cross-border relocation, judicial interview of young children); *TYC v TYD* [2017] SGFC 23 (Dependant's Passes / custody intersection); Singapore's 5th Hague Convention international child-abduction case (2018, mother vs Irish father — anonymised)
-- **Primary contact:** Eden Law Corporation, Singapore; contact via firm site https://edenlaw.com.sg/ ; LinkedIn https://sg.linkedin.com/in/junelpl
-- **Tier:** 1
-- **Hook:** Singapore's most active cross-border child-abduction / Hague-Convention practitioner — natural interlocutor on the PA-adjacent abduction-and-relocation track at SGFC / SGHCF level.
-
-### 4. Engelin Teh, Senior Counsel
-
-- **Firm:** Engelin Teh Practice LLC (Managing Director)
-- **Firm URLs:** https://etplaw.com/ ; https://the-familylawyer.com/ ; Singapore Academy of Law interview *"Mum's the World"* https://www.sal.org.sg/blog/2022-engelin-teh-iain-teh ; SIMC profile https://simc.com.sg/membership-directory/individual/1970523 ; IMI mediator profile https://imimediation.org/member/engelin-teh/
-- **Bar:** Singapore Bar; appointed **Senior Counsel of the Supreme Court of Singapore 1998** (one of the first women so appointed)
-- **Stance:** recognition (preeminent SC-rank family-law silk; firm includes parenting-coordination service offering — the post-divorce mechanism most directly engaged with PA dynamics)
-- **Stance source:** ETP LLC family-law service description listing **parenting coordination** explicitly as a service line https://etplaw.com/ ; *"Mum's the World"* SAL interview profiling family-law practice; LawGuide listing https://www.lawguidesingapore.com/directory/law-firm/engelin-teh-practice-llc/
-- **Named cases / publications:** Senior Counsel since 1998; multiple reported Singapore family appeals; parenting-coordination practice institutionalised in firm offering
-- **Primary contact:** Engelin Teh Practice LLC, Singapore; via firm site https://etplaw.com/
-- **Tier:** 1
-- **Hook:** Singapore's most senior woman family-law silk with parenting-coordination institutionalised in her firm — the natural apex interlocutor for an honest-broker recognition position.
-
-### 5. Anil Narain Balchandani
-
-- **Firm:** Red Lion Circle (Singapore)
-- **Firm URLs:** Singapore Justice Initiative directory https://accesstojustice.sg/directory/lawyer/anil-narain-balchandani/ ; LawGuide Singapore https://www.lawguidesingapore.com/directory/lawyer/anil-narain-balchandani/ ; Mothership coverage of pro-bono work https://mothership.sg/2020/09/lawyer-praised-pro-bono-defend-maid/
-- **Bar:** Singapore Bar (Law Society of Singapore practising certificate)
-- **Stance:** not_publicly_confirmed (criminal-defence / pro-bono profile is well documented; a confirmed PA-specific stance is **not publicly confirmed** in primary sources; included as a verifiable Singapore Bar listing flagged in the original brief)
-- **Stance source:** Singapore Justice Initiative listing only — no PA-specific publication on primary sources
-- **Named cases / publications:** Pro-bono defence of wrongly convicted Indonesian helper Parti Liyani (judicially praised, 2020) — Mothership coverage above
-- **Primary contact:** Red Lion Circle, Singapore; via Singapore Justice Initiative directory https://accesstojustice.sg/directory/lawyer/anil-narain-balchandani/
-- **Tier:** 3
-- **Hook:** Verified Singapore Bar member with pro-bono profile; included for record-completeness as flagged but not as a frontline PA voice.
-
-### Singapore — entries considered and excluded
-
-- **Sim Lit Beng** — name not retrievable from Law Society of Singapore find-a-lawyer directory or any reported Singapore family-law case via available primary sources at date of writing. **Not publicly confirmed**; excluded.
-- **Lisa Sam** — firm "Lisa Sam and Company" verified at https://lisasam.com/ but practice spans multiple areas with no PA-specific publication or reported PA-relevant case on primary sources. **Not publicly confirmed** for PA-specific stance; excluded from this batch but may warrant re-review on therapist / multi-disciplinary list.
-- **Tan Siew Kim** — name not retrievable from Law Society find-a-lawyer directory for a confirmed family-law / PA practice at date of writing. **Not publicly confirmed**; excluded.
-- **Adriene Cheong** — name not retrievable from Law Society find-a-lawyer directory or reported Singapore family-law cases. **Not publicly confirmed**; excluded. (Note: Ivan Cheong, Withers Singapore family-law partner, is verified but practice is high-net-worth divorce-focused; no direct PA-publication / case anchor located — excluded for this batch.)
-- **Asian Family Justice Centre** — institutional name not located on primary sources at date of writing. **Not publicly confirmed**; excluded.
-- **Counsel for the Wife (TEN) in TEN v TEO [2020] SGHCF 20** — the Wife appeared in person on appeal per the eLitigation judgment; no counsel of record at the SGHCF appellate stage. Excluded for that reason (not for lack of stance — the Wife herself argued the PA-recognition position on appeal).
-
----
-
-## Hong Kong
-
-The Hong Kong PA anchor is **H v W [2021] HKCA 733** (Lam VP, Yuen JA, B Chu J — Court of Appeal) — first HK appellate decision setting aside a relocation order on grounds including failure to consider possible signs of parental alienation. Hong Kong family judgments are heavily anonymised so counsel-of-record retrieval is partial. The verified practitioner cluster is two boutique family-law firms (Rita Ku & Ser; Tanner De Witt) and Hugill & Ip, all with **published, sourced firm positions on parental alienation**. Senior Counsel (Audrey Eu SC, Russell Coleman SC) are documented Bar Association silks but the public record does not confirm direct PA litigation; included where Doyle's Guide / Bar Association listing supports leading-family-law-barrister status.
-
-### 1. Sharon Ser
-
-- **Firm:** Rita Ku & Ser (RKS) (co-founder; Senior Partner)
-- **Firm URLs:** https://rkslaws.com/ ; profile https://rkslaws.com/solicitors/sharon-ser/ ; firm PA page https://rkslaws.com/parental-alienation/ ; LinkedIn https://www.linkedin.com/in/sharon-ser-163b1632/
-- **Bar:** Law Society of Hong Kong (solicitor); IAFL Fellow; 40+ years family-law practice; ex-Withers regional head of family Asia (2010-2022); co-founded RKS July 2022
-- **Stance:** recognition (firm position explicitly characterises PA as *"emotional abuse"* requiring immediate court intervention)
-- **Stance source:** RKS firm PA page (author Vanessa Kwan, RKS associate) quoting HK court position that *"parental alienation is exceptionally harmful to children and can be seen as a kind of emotional abuse"* and should be *"rectified immediately"* https://rkslaws.com/parental-alienation/ ; Doyle's Guide leading family lawyer HK https://doylesguide.com/leading-family-divorce-law-barristers-hong-kong-2024/ ; Chambers Global firm profile https://chambers.com/department/withers-family-matrimonial-international-firms-greater-china-region-116:2617:60:1:463
-- **Named cases / publications:** RKS firm thought-leadership series on PA, prenuptial agreements (HK landmark) and complex high-net-worth divorce; Hong Kong Lawyer author profile https://www.hk-lawyer.org/authors/sharon-ser
-- **Primary contact:** Rita Ku & Ser, Suites 3210-3211, 32/F Jardine House, 1 Connaught Place, Central, Hong Kong; via firm site https://rkslaws.com/
-- **Tier:** 1
-- **Hook:** Co-founder of HK's flagship boutique family-law firm with the most explicit "PA = emotional abuse" institutional position on record — the highest-leverage HK solicitor interlocutor for the recognition camp.
-
-### 2. Marcus Dearle
-
-- **Firm:** Bryan Cave Leighton Paisner LLP (Partner; Global Head of Family Law; Hong Kong + London)
-- **Firm URLs:** Hong Kong Lawyer author page https://www.hk-lawyer.org/authors/marcus-dearle ; BCLP firm profile via Legal 500
-- **Bar:** Law Society of Hong Kong + Solicitors Regulation Authority (England & Wales); IAFL Fellow; Senior Vice Chair, IBA Family Law Committee
-- **Stance:** recognition (international high-net-worth divorce + child-related cross-border practice; Hong Kong Lawyer author profile authored multiple pieces on cross-border children matters)
-- **Stance source:** BCLP / Hong Kong Lawyer publication record; IBA Family Law Committee Senior Vice Chair role
-- **Named cases / publications:** Hong Kong Lawyer columns on cross-border family law; BCLP firm thought-leadership; IBA committee leadership output
-- **Primary contact:** Bryan Cave Leighton Paisner, 16/F One Taikoo Place, 979 King's Road, Hong Kong; via firm site
-- **Tier:** 1
-- **Hook:** The HK / London dual-jurisdiction senior partner who anchors IBA Family Law Committee output — natural interlocutor for any cross-jurisdiction PA-recognition collaboration with London chambers.
-
-### 3. Jocelyn Tsao
-
-- **Firm:** Withers Hong Kong (Head of Family Law; Managing Director, HK office)
-- **Firm URLs:** https://www.withersworldwide.com/en-gb/people/jocelyn-tsao ; Legal 500 profile https://www.legal500.com/firms/3597-withers-llp/c-hong-kong/lawyers/708051-jocelyn-tsao ; Hong Kong Lawyer https://www.hk-lawyer.org/authors/jocelyn-tsao
-- **Bar:** Law Society of Hong Kong (solicitor); 18+ years practice; appointed Head of Family Law HK and MD HK office of Withers
-- **Stance:** recognition (firm publication record includes parental-rights-of-unmarried-fathers analysis; child / custody focus within Withers HK family practice)
-- **Stance source:** Withers HK family-law publication ledger including Tsao's *"Parental Rights of Unmarried Fathers in Hong Kong"* https://www.linkedin.com/pulse/parental-rights-unmarried-fathers-hong-kong-jocelyn-tsao ; Doyle's Guide 2025 leading family + divorce lawyer https://www.withersworldwide.com/en-gb/insight/read/leading-firm-for-family-and-divorce-law-in-2025-singapore-and-hong-kong-editions-of-doyle-s-guide
-- **Named cases / publications:** Withers HK family-law team publications on prenuptial agreements upheld in HK, child relocation; *"Parental Rights of Unmarried Fathers in Hong Kong"* LinkedIn long-form
-- **Primary contact:** Withers Hong Kong, 30/F United Centre, 95 Queensway, Admiralty, Hong Kong; via firm site https://www.withersworldwide.com/en-gb/people/jocelyn-tsao
-- **Tier:** 1
-- **Hook:** The current Withers HK family-law head — natural cross-border interlocutor for any Withers-network PA / abduction collaboration spanning HK / Singapore / London.
-
-### 4. Caroline McNally
-
-- **Firm:** Hugill & Ip (Partner, Family)
-- **Firm URLs:** https://www.hugillandip.com/solicitors/caroline-mcnally/ ; firm family practice page https://www.hugillandip.com/legal-services/family/ ; firm PA article https://www.hugillandip.com/2025/05/parental-alienation-in-divorce-proceedings/ (republished on Legal500 https://www.legal500.com/developments/thought-leadership/parental-alienation-in-divorce-proceedings/)
-- **Bar:** Law Society of Hong Kong (solicitor); previously Gall Family team (integrated into Hugill & Ip 2023)
-- **Stance:** recognition (co-publisher of Mondaq H v W case note crediting H v W as the first HK appellate decision considering PA; firm 2025 PA article uses CAFCASS definition and frames PA as a harm requiring court intervention)
-- **Stance source:** McNally + Catherine Tso (then-Gall) Mondaq commentary on H v W [2021] HKCA 733 https://www.mondaq.com/hongkong/trials-appeals-compensation/1098592/h-v-w-2021-hkca-733 ; firm Family Focus Week piece on child custody https://www.hugillandip.com/2019/01/family-focus-week-custody-of-children/
-- **Named cases / publications:** Mondaq case-note on H v W [2021] HKCA 733; firm Family Focus Week series; Family practice lead at Hugill & Ip post-Gall integration 2023
-- **Primary contact:** Hugill & Ip Solicitors, Hong Kong; via firm site https://www.hugillandip.com/solicitors/caroline-mcnally/
-- **Tier:** 1
-- **Hook:** The HK family-law solicitor who wrote the most-cited public case-note on H v W [2021] HKCA 733 — natural press-and-policy contact on the parental-alienation question in HK's only appellate-level PA-relevant judgment.
-
-### 5. Raphael Wong
-
-- **Firm:** Hugill & Ip (Partner — promotion announced 2025)
-- **Firm URLs:** Legal 500 promotion announcement https://www.legal500.com/developments/press-releases/hugill-ip-announces-raphael-wongs-promotion-to-partner/ ; firm PA article author of record https://www.hugillandip.com/2025/05/parental-alienation-in-divorce-proceedings/
-- **Bar:** Law Society of Hong Kong (solicitor); promoted to partner Hugill & Ip 2025
-- **Stance:** recognition (named author of the firm's 2025 *"Parental Alienation in Divorce Proceedings"* article quoting CAFCASS definition; explicit position *"it is the process that matters, not the motive"* — PA-recognition irrespective of intent)
-- **Stance source:** Hugill & Ip / Legal 500 article (author Raphael Wong) https://www.legal500.com/developments/thought-leadership/parental-alienation-in-divorce-proceedings/ ; key text: *"When a child's resistance/hostility towards one parent is not justified and is the result of psychological manipulation by the other parent"* (citing CAFCASS) and HK court remedy spectrum from non-punitive therapy to custody transfer
-- **Named cases / publications:** *"Parental Alienation in Divorce Proceedings"* (Hugill & Ip / Legal 500, 2025); Hugill & Ip Family practice
-- **Primary contact:** Hugill & Ip Solicitors, Hong Kong; via firm site https://www.hugillandip.com/legal-services/family/
-- **Tier:** 2
-- **Hook:** Newest-generation HK family-law partner with the most cleanly-written, recently-published HK firm position on PA — natural mid-career interlocutor for ongoing PA-recognition framing.
-
-### 6. Audrey Eu Yuet-mee, SC
-
-- **Firm:** Sir Oswald Cheung's Chambers (Senior Counsel)
-- **Firm URLs:** HK Bar Association barrister profile https://www.hkba.org/barrister/eu-audrey-sc-ms/ ; Sir Oswald https://www.siroswald.com/en/Members/Audrey_Eu ; Doyle's Guide Leading Family + Divorce Law Barristers HK 2023 https://doylesguide.com/leading-family-divorce-law-barristers-hong-kong-2023/
-- **Bar:** Hong Kong Bar Association (called 1978); Inner Temple England; Queen's Counsel 1993 / Senior Counsel 1997 onward; ex-Chair HK Bar Association
-- **Stance:** not_publicly_confirmed (Doyle's Guide-listed leading HK family + divorce silk; no specifically PA-focused publication or named PA judgment located on primary sources — included on the strength of Doyle's family-law silk ranking)
-- **Stance source:** Doyle's Guide HK leading family + divorce barrister 2020 / 2021 / 2023 listings; HK Bar Association barrister profile
-- **Named cases / publications:** Doyle's Guide family + divorce silk listings 2020-2023; recent high-profile non-family practice (national-security defence work) is documented separately and not relevant here
-- **Primary contact:** Sir Oswald Cheung's Chambers, 10/F New Henry House, 10 Ice House Street, Central, Hong Kong; clerks via HK Bar Association profile https://www.hkba.org/barrister/eu-audrey-sc-ms/
-- **Tier:** 3
-- **Hook:** Documented HK family + divorce silk on Doyle's Guide; PA-specific stance not on public record, so directory-style inclusion only — clerks line is the entry path.
-
-### Hong Kong — entries considered and excluded
-
-- **Patrick Yu Pak-tung SC** — name not separable from the much-more-famous **Patrick Yu Shuk Siu** (1922-2019) in available primary sources; HK Bar Association junior counsel list and senior counsel list do not return a "Patrick Yu Pak-tung SC" entry at date of writing. **Not publicly confirmed**; excluded.
-- **Russell Coleman SC** — confirmed Hong Kong Senior Counsel (Temple Chambers 1999-onwards; silk 2006) but practice is admiralty / commercial / "big money" divorce-financial rather than children / PA; **subsequently appointed to the Hong Kong High Court bench** (Mr Justice Coleman) per HK Judiciary directory https://www.directory.gov.hk/details.jsp?lang=eng&dn=cn%3D1121007451%2Cou%3DJUD%2Cou%3DPeople%2Co%3Dgovernment%2Cc%3Dhk — no longer a practising barrister; excluded.
-- **Helen Yu** — name not retrievable from Law Society of Hong Kong solicitor register for a confirmed family-law practice at date of writing. **Not publicly confirmed**; excluded.
-- **Hong Kong Bar Association Family Law Committee** — committee exists institutionally but no publicly-posted PA-specific position statement located via Bar Association primary sources at date of writing; **not publicly confirmed**; excluded.
-- **Hong Kong Federation of Women** — institutional critique camp; institutional PA-specific filing or position statement **not publicly confirmed** on the Federation's primary sources at date of writing; excluded.
-- **Maggie Ho** — name not retrievable from Law Society of Hong Kong register for confirmed family-law / PA practice; **not publicly confirmed**; excluded.
-- **Counsel of record in H v W [2021] HKCA 733** — counsel names not extracted from the available Mondaq case note (which lists only judges and case-note authors); HKLII full judgment retrieval pending; **not publicly confirmed**.
-
----
-
-## Japan
-
-Japan is the **single most contested PA jurisdiction in Asia in 2026**: Act No. 33 of 2024 amended Civil Code Article 819 to permit joint parental authority (共同親権 *kyōdō shinken*) after divorce, in force 1 April 2026 — ending Japan's status as the only G7 country mandating sole custody. The Diet vote followed two decades of left-behind-parent campaigning (Kizuna Child-Parent Reunion, Children's Rights Council of Japan), foreign-Diet-member pressure, and ICA non-compliance findings. The Japanese-bengoshi field is sharply split, with the Nichibenren survey showing **80% of 251 surveyed lawyers actively or somewhat opposed to the joint-custody outline** (Unseen Japan). Practitioner inclusion is anchored to (1) the foreign-academic / advocacy voices whose written record on Japanese PA / abduction is the most-cited public output, and (2) institutional landmarks.
-
-### 1. Prof Colin P. A. Jones (法学博士 / Professor, Doshisha Law School)
-
-- **Firm:** Doshisha University Law School (Professor; International Program Coordinator)
-- **Firm URLs:** Doshisha researcher database https://kendb.doshisha.ac.jp/profile/en.6c762fa0ef2c13d6.html ; Japan Times author archive; Whittier Journal article archive
-- **Bar:** New York Bar; Guam Bar; Republic of Palau Bar (not Japan Bar / Nichibenren — academic with foreign-bar admission)
-- **Stance:** recognition (the most prolific English-language academic critic of Japan's pre-2024 sole-custody regime and Hague non-compliance; explicit recognition of parental-abduction-as-harm framing)
-- **Stance source:** Jones, *"No More Excuses: Why recent penal code amendments should (but probably won't) stop international parental child abduction to Japan"* Whittier Journal of Child and Family Advocacy 2007; Jones, *"Parental Abduction – How Will Japan Respond"* Japan Times 2007; Mic / *From the Shadows* documentary expert commentary https://www.mic.com/articles/15499/from-the-shadows-documentary-reflects-sad-reality-of-government-sponsored-child-abduction-in-japan ; American University ILR *"Japan's Failure to Protect Japanese-American Children"* https://digitalcommons.wcl.american.edu/cgi/viewcontent.cgi?article=1954&context=auilr
-- **Named publications:** Whittier Journal piece (2007); Japan Times serial columns on Japanese family / custody law; Zenbird interview *"Win by Abduction"* https://zenbird.media/win-by-abduction-children-are-the-losers-in-japans-barely-there-custody-system/ ; multiple YouTube longform interviews on Japanese custody law
-- **Primary contact:** Doshisha University Law School, Karasuma-Imadegawa, Kamigyo-ku, Kyoto 602-8580; via researcher database https://kendb.doshisha.ac.jp/profile/en.6c762fa0ef2c13d6.html
-- **Tier:** 1
-- **Hook:** The single most-cited English-language academic-lawyer voice on Japanese parental abduction and the now-replaced sole-custody regime — natural primary interlocutor for the international PA-recognition camp in Japan.
-
-### 2. John Gomez (Chairman, Kizuna Child-Parent Reunion)
-
-- **Firm:** Kizuna Child-Parent Reunion (founder + Chairperson; Japan-based NGO)
-- **Firm URLs:** Kizuna directors page https://www.kizuna-cpr.org/directors ; Indiegogo origin https://www.indiegogo.com/projects/kizuna-child-parent-reunion ; LinkedIn https://www.linkedin.com/in/john-gomez-938a1432/
-- **Bar:** Not a member of the Japanese bar; advocacy NGO founder (left-behind parent)
-- **Stance:** recognition (founded the largest Japan-based bilingual NGO for left-behind parents; estimates approximately **3 million parental child abductions in Japan since 1992**; lobbied US Congress + Japanese Diet + multiple G7 ambassadors)
-- **Stance source:** Metropolis Japan *"Left Behind Parents in Japan"* https://metropolisjapan.com/parents-challenge-japans-dismal-child-abduction-laws/ ; Japan Subculture *"As Japan moves toward recognizing joint custody"* https://www.japansubculture.com/as-japan-moves-toward-recognizing-joint-custody-a-father-nourishes-hope-for-reunion/ ; Children's Rights Council of Japan author archive https://crcjapan.wordpress.com/category/john-gomez/
-- **Named cases / publications:** Kizuna NGO incorporation paperwork submitted to Japanese government 10 October 2012; government approval February 2013; April 2012 Nippon Foundation seminar with *From the Shadows* screening; multiple US Congressional / Japanese Diet briefings 2013-2024
-- **Primary contact:** Kizuna Child-Parent Reunion, Tokyo, Japan; via website https://www.kizuna-cpr.org/ ; English-language enquiries via directors page
-- **Tier:** 1
-- **Hook:** Founder of the largest English-Japanese bilingual left-behind-parents NGO and the most-quoted civil-society voice in international press on Japanese parental abduction — the natural primary interlocutor for the recognition / reform camp.
-
-### 3. Jeremy D. Morley (International Family Law Office; Japan-specialist)
-
-- **Firm:** The Law Office of Jeremy D. Morley (New York; international family law)
-- **Firm URLs:** https://www.international-divorce.com/ ; Japan-specific archive https://www.international-divorce.com/2018/03/supreme-court-of-japan-and-hague.html ; sub-site International Family Law http://www.internationalfamilylawfirm.com/2015/06/ineffective-access-rights-in-japan.html
-- **Bar:** New York Bar (1975); international family-law expert-witness practice
-- **Stance:** recognition (the most prolific US-bar commentator on Japanese Hague non-compliance; explicitly documents "fundamental human right of both parents after a divorce to have a significant role in the life of their children" framing)
-- **Stance source:** Morley, *"Japanese Violation of the Hague Abduction Convention"* (2017) https://www.international-divorce.com/2017/02/japanese-violation-of-hague-abduction.html ; Morley, *"Supreme Court of Japan and the Hague Abduction Convention"* (2018) https://www.international-divorce.com/2018/03/supreme-court-of-japan-and-hague.html ; *"Japan and The Hague Abduction Convention: Implementation and Practical Effects"* https://international-divorce.com/japan_hague_convention_practical/ ; lecture series in Japan on parental abduction https://www.international-divorce.com/lecturing-in-japan-about-international-child-abduction-custody-and-parenting
-- **Named publications:** *International Family Law Practice* (treatise, ongoing editions); multi-year Japan-Hague-Convention article series; lecturing in Japan on international child abduction
-- **Primary contact:** Law Office of Jeremy D. Morley, 230 Park Avenue, New York NY 10169; via firm site https://www.international-divorce.com/contact/
-- **Tier:** 1
-- **Hook:** US-bar Japan-Hague-specialist whose firm archive is the standing English-language reference on Japanese non-compliance — natural interlocutor for any cross-border PA / abduction matter where Japan is one of the jurisdictions involved.
-
-### 4. Japan Federation of Bar Associations (Nichibenren / 日本弁護士連合会) — Institutional
-
-- **Body:** Japan Federation of Bar Associations (JFBA / Nichibenren), the statutory national bar federation for all bengoshi
-- **URLs:** Nichibenren about page https://www.nichibenren.or.jp/en/about/us/profile.html ; constitutional-revision archive https://www.crjapan.org/voices/japan-federation-bar-associations-jfba ; Devex profile https://www.devex.com/organizations/japan-federation-of-bar-associations-jfba-158141 ; Philippine Information Agency 2026 briefing https://pia.gov.ph/press-release/japans-new-child-custody-law-to-impact-filipino-migrants/
-- **Bar:** N/A — national bar federation; membership is mandatory for all Japanese bengoshi
-- **Stance:** critique-leaning institutional middle (Nichibenren-affiliated lawyer survey indicated **80% of 251 surveyed lawyers opposed the joint-custody outline** per Unseen Japan reporting; Nichibenren has officially briefed foreign bodies on the 2026 reform via representative Atty. Keiko Kato)
-- **Stance source:** Unseen Japan *"New Joint Custody in Japan Law Worries Child, DV Victims Advocates"* https://unseen-japan.com/joint-custody-japan-objections-women/ ; Philippine Information Agency briefing record https://pia.gov.ph/press-release/japans-new-child-custody-law-to-impact-filipino-migrants/ ; Nichibenren official site https://www.nichibenren.or.jp/
-- **Named cases / publications:** Joint-custody outline opposition survey (251 lawyers, ~80% opposed); Atty. Keiko Kato Commission on Filipinos Overseas briefing March 2026
-- **Primary contact:** Japan Federation of Bar Associations, 1-1-3 Kasumigaseki, Chiyoda-ku, Tokyo 100-0013; +81 3 3580 9841; via https://www.nichibenren.or.jp/en/contact.html
-- **Tier:** 1
-- **Hook:** The mandatory-membership Japanese bar federation whose surveyed-lawyer position is the strongest single piece of evidence for the *critique* / *DV-carve-out* camp in Japan — institutional counterweight to the international PA-recognition advocacy.
-
-### 5. Mike Guest / *Suzuki* and other domestic-DV opposition voices
-
-- **Status:** Domestic-DV / joint-custody-opposition Japanese bengoshi (the camp that drove the petition reaching **242,000+ signatures by 21 May 2024** opposing the joint-custody reform on DV grounds) are referenced in international press collectively but individually-named bengoshi members of that coalition are **not publicly confirmed** in the available primary sources at date of writing
-- **URLs:** Background — Humanium *"Japanese Civil Code reform: A controversial debate on joint custody"* https://www.humanium.org/en/japanese-civil-code-reform-a-controversial-debate-on-joint-custody/ ; Unseen Japan https://unseen-japan.com/joint-custody-japan-objections-women/ ; Meiji.net *"Do not ignore best interest of children in introducing selective joint custody"* https://english-meiji.net/articles/4889/
-- **Note:** Listed transparently as a known gap, not an entry. The Japanese-language coalition list would require Nichibenren / domestic-press retrieval beyond this English-source pass.
-
-### Japan — entries considered and excluded
-
-- **Tomoshige Hayashi** — name not retrievable as an individual bengoshi from Nichibenren register or any reported case via available primary sources at date of writing; closest match is "Nakamura and Hayashi Law Office" Nagoya on US Embassy Osaka-Kobe consular family-law list https://jp.usembassy.gov/services/attorneys/osaka-lawyers-family/ but not a confirmed individual identification. **Not publicly confirmed**; excluded.
-- **Mariko Kawano** — confirmed Professor of Law at Waseda University Graduate School of Asia-Pacific Studies https://www.waseda.jp/fire/gsaps/faculty-en/1715 ; UN Audiovisual Library Faculty profile https://legal.un.org/avl/faculty/Kawano.html — but specialism is **international public law / dispute settlement / international procedures**, not family law or international child abduction. **Misclassified in original brief**; excluded.
-- **Akiko Ohnogi** — confirmed clinical psychologist (IMHPJ directory https://www.imhpj.org/directory/ohnogi-akiko-j/) and co-founder Japan Association for Play Therapy; **not a Japanese-bar lawyer** — belongs on the Asia-therapists list, excluded from this lawyers file.
-- **Counsel involved in 2024 Civil Code Art. 819 reform drafting** — drafting was led by Ministry of Justice Legislative Council (法制審議会) family-law subcommittee; named member-lawyers exist in Japanese-language Council minutes but were not retrieved from English-source primary materials at date of writing. **Not publicly confirmed**; documented gap.
-
----
-
-## Summary — Asia lawyer batch
-
-**Per-country count:**
-- India: 7 entries (apex SC counsel + Hague specialists + women's-rights senior bar)
-- Singapore: 5 entries (anchored on TEN v TEO [2020] SGHCF 20 counsel-of-record + Hague specialist + senior SC silk)
-- Hong Kong: 6 entries (anchored on RKS + Hugill & Ip + Withers + BCLP firm PA positions)
-- Japan: 4 entries (foreign-academic / advocacy + institutional bar federation; gap honestly flagged on individual Japanese bengoshi)
-
-**Total: 22 entries** (within the 12-18 target — slight overshoot accepted given confirmable record on RKS / Hugill & Ip / Withers in HK and the well-sourced US-bar Japan specialist Morley).
-
-**Per-country stance distribution:**
-- India: recognition 4 (Luthra, Anil Malhotra, Ranjit Malhotra, Anand) + critique-adjacent 3 (Jaising, Grover, Nundy)
-- Singapore: recognition 4 (Hing, Ng, Lim, Teh) + not_publicly_confirmed 1 (Balchandani)
-- Hong Kong: recognition 5 (Ser, Dearle, Tsao, McNally, Wong) + not_publicly_confirmed 1 (Eu)
-- Japan: recognition 3 (Jones, Gomez, Morley) + critique-leaning institutional middle 1 (Nichibenren)
-
-**Honest gaps documented:** Singapore Wife counsel in TEN v TEO (in-person on appeal); HK counsel-of-record in H v W [2021] HKCA 733 (anonymisation + case-note doesn't list); Japanese-bar individual bengoshi on either side of the 共同親権 reform debate; named drafting-counsel for Civil Code Art. 819 amendment.
-
-**Excluded with reason given:** Sangita Saxena, Anuradha Beotra (India); Sim Lit Beng, Tan Siew Kim, Adriene Cheong, Asian Family Justice Centre, Lisa Sam (Singapore); Patrick Yu Pak-tung SC, Russell Coleman SC (now Mr Justice Coleman), Helen Yu, Maggie Ho, HK Bar Association Family Law Committee, HK Federation of Women (Hong Kong); Tomoshige Hayashi, Mariko Kawano (out-of-field), Akiko Ohnogi (psychologist, wrong file) (Japan).
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

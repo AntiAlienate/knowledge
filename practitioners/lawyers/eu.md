@@ -1,283 +1,514 @@
-# EU Lawyers — Parental Alienation Practitioner Directory
+# Practitioners — EU (DE/FR/ES/IT/NL/BE) — Lawyers
 
-**Schema version:** 1.0
-**Last updated:** 2026-05-25
-**License:** CC BY 4.0 (intended for github.com/AntiAlienate/antialienate-knowledge)
-**Scope:** Family-law practitioners (avocats / Rechtsanwälte / abogadas / avvocate / advocaten) in **Germany, France, Spain, Italy, Netherlands, Belgium** who have (a) appeared as named counsel in apex PA litigation, (b) published in the field, (c) chaired an official PA / family-law expert body, or (d) publicly stated a sourced stance. Institutional entries (bar-association working groups, antiviolence-centre legal collectives) are listed where the institution itself has issued a sourced PA position and individual named members are confirmable.
+## Jurisdictional context
 
-**Standards:** All entries verified from primary sources — national bar register, firm website, official court records (BVerfG / Légifrance / Cassazione / vng.nl / Justice.be), peer-reviewed publication, or named press. Where a fact cannot be confirmed from a public primary source it is flagged "**not publicly confirmed**".
+This file consolidates EU member-state family-law practitioners (Germany, France, Spain, Italy, Netherlands, Belgium) who have appeared as named counsel in apex PA litigation, published on PA / SAP / ouderverstoting / aliénation parentale / alienazione genitoriale at scholarly or peer-cited practitioner level, chaired an official PA-related expert body, or publicly stated a sourced stance through institutional advocacy. Per-country lawyer deepening is pending; this aggregate is the regional baseline before per-country v2 files are produced.
 
-**Stance taxonomy:**
-- `recognition` — treats parental alienation / alienating behaviour as a legitimate, litigable phenomenon
-- `critique` — argues PA / SAP / alienazione genitoriale is misused in family courts, especially against domestic-violence survivors
-- `middle` — procedural-reform / differentiated approach engaging both DV and alienating-behaviour frames
+Germany: BVerfG 1 BvR 1076/23 (Beschluss vom 17.11.2023, 1. Senat 3. Kammer) annulled the OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' — the strongest German apex critique anchor. The DAV Familienrechtsausschuss (chair Eva Becker) and AG Familienrecht im DAV (chair Jochem Schausten) constitute the institutional middle pole through the FamR newsroom series (FamR 01/23, 12/24, 23/24, 25/24, 3/26).
 
-**Cross-references:** Anchor case studies are in `/case-studies/`. EU therapists are in `/practitioners-eu-therapists.md`; psychologists (Sonia Vaccaro, Philippe Kinoo, Stefan Rücker) and psychiatrists are excluded from this lawyer-only file.
+France: Cass. 1re civ., 26 juin 2013, n° 12-14.392 is the apex SAP-recognition arrêt. SCP Waquet, Farge et Hazan was counsel of record; SCP Richard (successor SCP Boré, Salve de Bruneton et Mégret) was opposing counsel. Practitioner-camp doctrinal anchor: Michèle Bauer's 2013 commentary. Active Paris recognition-camp practice pages: Ambroise Soreau (droit des pères) and Cyril Braniste (Village Justice 2021/2025).
+
+Spain: LOPIVI (Ley Orgánica 8/2021 de protección integral a la infancia y la adolescencia frente a la violencia, Disposición adicional 17a) is the apex statutory inadmission of SAP. The CGPJ removed the pro-SAP Guía following sustained Themis-led pressure. Themis (Asociación de Mujeres Juristas Themis) is the single best-organised jurists' collective on SAP / coordinación-parental critique; Altamira Gonzalo Valgañón (CGPJ vocal nominated 2024) and María Durán Febrer (Institut Balear de la Dona director) are the two named institutional voices.
+
+Italy: Cassazione apex critique line — Cass. civ. sez. I 13217/2021, ord. 24 marzo 2022 n. 9691 (caso Massaro, sentenza Acierno), and ord. 2025 n. 4595 — consolidates the Italian Supreme Court rejection of PAS / alienazione genitoriale as scientific basis for residence-transfer orders. D.i.Re (Donne in Rete contro la violenza) and Differenza Donna are the institutional critique anchors via the Gruppo Avvocate; Titti Carrano (ex-Presidente Nazionale D.i.Re) is the most-cited named avvocata.
+
+Netherlands: Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek (Jan 2021, chair familierechter Cees van Leuven) and Hoge Raad RFR 2021/26 constitute the procedural-middle framework. The vFAS (Vereniging van Familie- en Erfrecht Advocaten Scheidingsmediators) is the institutional gateway for certified Dutch family-law advocate-mediators.
+
+Belgium: IEFH/IGVM (Institut pour l'égalité des femmes et des hommes / Instituut voor de gelijkheid van vrouwen en mannen) Recommandation 2023/001 is the single federal gender-equality regulator with explicit critique position on SAP. The francophone academic-bar bridge runs through Géraldine Mathieu (UNamur, ex-avocate Barreau de Namur, RTDF editorial board) and Yves-Henri Leleu (ULiège / ULB, avocat Barreau de Liège).
+
+## Structural findings
+
+- 19 verified v1 entries across 6 EU jurisdictions (DE 3 / FR 6 / ES 3 / IT 3 / NL 2 / BE 2). The EU bloc constitutes the single most institutionally elaborated PA-critique apex-court coalition globally: BVerfG 1 BvR 1076/23 (DE 2023), Cassazione 9691/2022 + 13217/2021 + 4595/2025 (IT), LOPIVI Disp. ad. 17a (ES 2021), and the IEFH/IGVM 2023/001 federal-regulator framework (BE).
+- Italy Cassazione apex critique consolidation: Cass. civ. sez. I 13217/2021 (first major sez. I PAS rejection) → ord. 24 marzo 2022 n. 9691 caso Massaro (sentenza Acierno, the most-cited European Supreme Court rejection of PAS as scientific basis for residence-transfer) → ord. 2025 n. 4595 (sustained doctrinal line). The triple-citation IT line is the European reference for comparative-law critique anchors and reciprocally cited by Colombia Corte Constitucional T-526/2023 and Chile Boletín 10.516-18 commentary.
+- Spain LOPIVI (Ley Orgánica 8/2021) Disposición adicional 17a is the only EU statutory inadmission of SAP framework as evidentiary basis in family-law proceedings. Themis 2024 'Tratamiento judicial' study documents that SAP still appears in ≈3.48% of analysed family-court rulings despite the LOPIVI exclusion — pointing to the gap between statutory inadmission and practitioner-level implementation. Themis-led Manifiesto jurídico feminista contra la Guía pro-SAP del CGPJ produced CGPJ withdrawal of the pro-SAP Guide.
+- Germany BVerfG 1 BvR 1076/23 (17.11.2023, 1. Senat 3. Kammer) is the strongest European apex-court constitutional rejection of PAS as scientific basis for Aufenthaltsbestimmungsrecht transfer — explicit holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' und therefore did not provide a kindeswohlorientierte basis. Counsel of record: Kerstin Bielefeld (RA Köln) — only attorney in DE with a published BVerfG win that explicitly classifies PAS as pseudoscientific.
+- Belgium IEFH/IGVM (Institut pour l'égalité des femmes et des hommes / Instituut voor de gelijkheid van vrouwen en mannen) Recommandation 2023/001 is the single federal gender-equality regulator with explicit critique position on SAP in EU. Distinguishes Belgium as the only EU jurisdiction with a unified federal regulator (across linguistic communities) publishing a sourced PA-critique recommendation outside both apex jurisprudence and parliamentary statutes — a third institutional vehicle complementing the BVerfG / Cassazione / LOPIVI structure.
+- France Cass. 1re civ. 26 juin 2013 n° 12-14.392 is the unique EU apex SAP-recognition arrêt and the structural opposite of the IT / DE / ES / BE critique consolidation. Practitioner-camp doctrinal anchor: Michèle Bauer 2013 commentary. Active Paris recognition-camp practice pages: Soreau (droit des pères) and Braniste (Village Justice). France is therefore the recognition-pole outlier within the EU bloc, mirroring Brazil's recognition-pole role within LATAM.
+- Netherlands operates the procedural-middle institutional framework: Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek (Jan 2021, chair familierechter Cees van Leuven) + Hoge Raad RFR 2021/26 + vFAS certification framework. The NL middle pole is the European procedural template most closely aligned to differentiated-assessment approaches (cf. UK Cafcass).
+- EU regional structure 2021-2026: critique-pole apex consolidation in DE / IT / ES / BE; recognition-pole concentration in FR; middle-pole procedural framework in NL with BE middle-academic overlap (Mathieu, Leleu). The DE / IT / ES / BE critique consolidation is the deepest comparative-law block globally on SAP rejection at apex level.
+- EU institutional-pole density: Themis (ES Tier 1 critique), DAV-Familienrechtsausschuss (DE Tier 1 middle, chair Becker), AG-Familienrecht im DAV (DE Tier 2 middle, chair Schausten, ~4,788 members July 2025), D.i.Re Gruppo Avvocate (IT Tier 1 critique, Carrano + Biaggioni), vFAS (NL Tier 2 middle), IEFH/IGVM (BE Tier 1 federal critique). Six distinct institutional vehicles span six jurisdictions — highest EU-wide institutional density.
+- Counsel-of-record / apex-court attribution density: DE 1 (Bielefeld BVerfG 1 BvR 1076/23), FR 2 (SCP Waquet/Farge/Hazan + SCP Richard on Cass. 12-14.392), IT 1 (Carrano quoted on Cass. 9691/2022 Massaro). Combined with the IT institutional D.i.Re infrastructure and the BE federal IEFH/IGVM vehicle, the EU critique infrastructure has the highest named-counsel-to-apex-court ratio in the AntiAlienate practitioner corpus.
+- Cross-jurisdictional EU doctrinal traffic 2021-2025: BVerfG 1 BvR 1076/23 (DE 2023) cited as comparative anchor by Italian, Spanish and French critique commentary; Cassazione 9691/2022 (Acierno) reciprocally cited as the European SAP-rejection apex reference. The EU jurisprudential critique consolidation has become the global reference block for the LATAM convergence (Colombia T-526/2023, Mexico AI 11/2016 + AI 74/2024) and the Anglo-American practitioner-camp counter-coalition.
+- Honest gap on individual private-practice DE / NL / BE recognition-camp lawyers: institutional middle voices (DAV in DE; vFAS in NL; Mathieu / Leleu in BE) dominate the recognition-or-middle pole in three of the six jurisdictions. Per-country lawyer deepening is pending: per-country v2 files for DE / FR / ES / IT / NL / BE lawyers will resolve this gap with named private-practice entries. This regional aggregate is the baseline before per-country lawyer files are produced.
+- Spain Themis named principal authors (Pino de la Nuez Ruiz, Altamira Gonzalo Valgañón, María Durán Febrer, Rosa Pérez-Villar Aparicio, plus the Aramburu / Estévez / Aibar / García-Lozano / García Olcina / Guelbenzu / Rey Nuevo research team) constitute the single largest named-jurist research collective on SAP critique globally — comparable in density only to the LATAM ABOFEM regional network. Two are individually entered (Gonzalo, Durán); Themis itself is the institutional Tier 1 entry.
+- Italy individual avvocata visibility: Marconato (Padova/Roma) is one of the few Italian individual avvocati with a publicly indexed 'alienazione parentale' practice page from the critique camp — the IT critique infrastructure is structurally institutional (D.i.Re, Differenza Donna) rather than personality-led. Original brief 'Marina Marino Roma' (LinkedIn-only) was corrected to Marconato per primary-source verification.
+- France Caroline Mécary inclusion: original brief named 'Christine Mécary' (not publicly confirmed) — corrected to Caroline Mécary, the prominent Paris LGBTQ+ family-law avocate. Mécary's published stance is on filiation / homoparentalité / PMA-GPA / autorité parentale rather than PA per se; included as not-publicly-confirmed for record-completeness as a natural cross-cutting LGBTQ+-family-law-into-PA conversation entry point.
+- Netherlands van Leuven exclusion: familierechter Cees van Leuven (Rechtbank Zeeland-West-Brabant) chaired the Expertteam Ouderverstoting Adviesrapport 2021 and is the single most-quoted Dutch authority on ouderverstoting. As a sitting judge, he is not directory-eligible as a practitioner; the procedural framework he authored is the structural anchor of the NL middle pole. Van Campen's Forward Advocaten blog (Feb 2021) is the named-practitioner bridge to the Expertteam framework.
+- Belgium Mathieu / Leleu individual entries: francophone academic-bar bridge with limited PA-specific publication. Mathieu's RTDF editorial-board work and Famille & Droit / DEI Belgium institutional engagement places her at the procedural-middle pole; Leleu's published positioning is on droit des personnes et des familles broadly without PA-specific stance. The BE institutional Tier 1 critique vehicle is IEFH/IGVM (federal gender-equality regulator Recommandation 2023/001) rather than an individual practitioner — directly cross-linked via the BE therapists v2 file.
+- Cross-link density to therapists v2 files: DE lawyers (Bielefeld critique) cross-link to de.fichtner-joerg + de.zimmermann-janin + de.walper-sabine (recognition camp DE therapists) for comparative reference. NL lawyers (Van Campen middle) cross-link to nl.van-lawick-justine (No Kids in the Middle programme) and procedural-middle DE therapists. BE lawyers (Mathieu middle) cross-link to be.iefh-igvm + be.bfp-bpf (Federal regulator + Belgian psychologists federation) as the BE critique institutional infrastructure.
+- Critique-camp lawyers cross-link to anchor case studies: case-study:cassazione-9691-2022-italy (Cass. 9691/2022 caso Massaro, sentenza Acierno) + case-study:bverfg-1-bvr-1076-23-germany-2023 (BVerfG Eltern-Kind-Entfremdung 17.11.2023) + case-study:sts-519-2017-spain (Spanish TS doctrinal line consolidated into LOPIVI 2021 statutory inadmission). The triple-anchor case-study cross-link is the European critique-coalition reference frame.
+
+## Recognition camp
+
+### SCP Waquet, Farge et Hazan
+*Avocats au Conseil d'État et à la Cour de cassation (SCP)*
+Paris · Île-de-France · Ordre des avocats au Conseil d'État et à la Cour de cassation (60-firm closed corporation)
+
+**Stance:** Counsel of record before the Cour de cassation in Cass. 1re civ., 26 juin 2013, n° 12-14.392 — the first apex French SAP-recognition arrêt (Sophie Paricard / Michèle Bauer practitioner-camp commentary treats it as the FR jurisprudential anchor). Recognition stance is a filing-position attribution: SCP was counsel for the party whose theory the Cour de cassation upheld, legally consolidating the SAP-framed decision in French family law. Only French avocats-aux-Conseils firm publicly tied to a Cour de cassation arrêt naming aliénation parentale.
+
+**Publications:**
+- Cass. 1re civ., 26 juin 2013, n° 12-14.392 — counsel of record (2013) — *Cour de cassation* — <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
+
+**Verification:**
+- <https://www.scp-waquet-farge-hazan.com/>
+- <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
+- <https://www.ordre-avocats-cassation.fr/annuaire/>
+
+**Contact:** 4 boulevard du Palais, 75001 Paris; switchboard via Ordre des avocats aux Conseils annuaire
+
+*Notes: Verified via Légifrance arrêt face (counsel attribution) and Ordre des avocats aux Conseils annuaire. SCP-level firm; individual partner attribution not in primary sources on this arrêt.*
+
+**See also:** `jurisdiction:france`, `practitioner:fr.scp-richard`, `practitioner:fr.bauer-michele`, `evidence:international-institutional-positions`
+
+<sub>ID: `fr.scp-waquet-farge-hazan`</sub>
+
+### Michèle Bauer
+*Maître; Avocate au Barreau de Bordeaux (admise 2003); CNB spécialiste droit social (2017); ex-Présidente Institut du Droit Social du Barreau de Bordeaux*
+Bordeaux · Nouvelle-Aquitaine · Cabinet Michèle Bauer Avocat; Barreau de Bordeaux
+
+**Stance:** Authored the single most-cited French practitioner-camp commentary on Cass. 1re civ., 26 juin 2013, n° 12-14.392 — 'Le syndrome d'aliénation parentale reconnu par la Cour de cassation' (2013). Reads the 2013 arrêt as legally and clinically endorsing SAP. The natural French-language recognition-camp interlocutor for any FR PA dossier.
+
+**Publications:**
+- Le syndrome d'aliénation parentale reconnu par la Cour de cassation (2013) — *Legavox blog (Michèle Bauer avocat Bordeaux)* — <https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/syndrome-alienation-parentale-reconnu-cour-13249.htm>
+- Le syndrome d'aliénation parentale reconnu par la Cour de cassation (own-site version) (2013) — *michelebaueravocatbordeaux.fr* — <https://michelebaueravocatbordeaux.fr/syndrome-dalienation-parentale-reconnu-cour-cassation/>
+
+**Verification:**
+- <https://michelebaueravocatbordeaux.fr/>
+- <https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/>
+- <https://michelebaueravocatbordeaux.fr/syndrome-dalienation-parentale-reconnu-cour-cassation/>
+
+**Contact:** 33 Cours Pasteur, 33000 Bordeaux; +33 (0)6 50 30 34 69 / +33 (0)5 47 74 51 50; secondary office 120 av. du Maréchal de Lattre de Tassigny, Gujan-Mestras; via firm contact form
+
+*Notes: Verified via firm site, Legavox blog archive, and CNB specialisation listing. Barreau de Bordeaux admission 2003 confirmed via firm site biography.*
+
+**See also:** `jurisdiction:france`, `practitioner:fr.scp-waquet-farge-hazan`, `practitioner:fr.soreau-ambroise`, `practitioner:fr.braniste-cyril`, `evidence:international-institutional-positions`
+
+<sub>ID: `fr.bauer-michele`</sub>
+
+### Ambroise Soreau
+*Maître; Avocat au Barreau de Paris (admis 2007; CAPA EFB Paris 2001); doctorat en droit*
+Paris · Île-de-France · Cabinet Soreau Avocat; Barreau de Paris
+
+**Stance:** Treats SAP / aliénation parentale as a litigable phenomenon and presents it as a gendered phenomenon disadvantaging fathers. Firm practice page explicitly framing aliénation parentale under 'droit des pères' rubric; collaborations cited with SOS PAPA, PATERNET, CIRA fathers'-rights associations. Most visible FR avocat openly running an 'aliénation parentale' practice page — natural opposite-side interlocutor / press counterweight for any FR PA dossier.
+
+**Publications:**
+- Firm practice page on aliénation parentale (gendered against fathers framing) (2024) — *Cabinet Soreau Avocat* — <https://www.soreau-avocat.fr/avocat-en-droit-des-peres-et-alienation-parentale>
+- Associations SOS PAPA, PATERNET, CIRA — collaboration page (2024) — *Cabinet Soreau Avocat* — <https://www.soreau-avocat.fr/associations-sos-papa-paternet-cira>
+
+**Verification:**
+- <https://www.soreau-avocat.fr/>
+- <https://www.soreau-avocat.fr/avocat-en-droit-des-peres-et-alienation-parentale>
+- <https://www.soreau-avocat.fr/associations-sos-papa-paternet-cira>
+
+**Contact:** 192 rue Lecourbe, 75015 Paris; +33 (0)1 48 42 01 81; contact@soreau-avocat.fr
+
+*Notes: Verified via firm site practice pages (PA-specific) and Barreau de Paris listing. Doctorat en droit and CAPA via École de formation du Barreau de Paris 2001 confirmed via firm biography.*
+
+**See also:** `jurisdiction:france`, `practitioner:fr.bauer-michele`, `practitioner:fr.braniste-cyril`
+
+<sub>ID: `fr.soreau-ambroise`</sub>
+
+### Cyril Braniste
+*Maître; Avocat au Barreau de Paris (75001)*
+Paris · Île-de-France · Cabinet Cyril Braniste; Barreau de Paris
+
+**Stance:** Treats aliénation parentale and emprise as serious forms of psychological abuse requiring family-court and child-welfare action. Active recognition-camp Paris avocat with a 2021/2025-updated peer-review-style commentary on French PA jurisprudence — the closest FR counterpart to a US 'alienating-behaviour' practitioner-author. Author of 'Aliénation parentale, emprise: retour d'expérience, regard d'un avocat' (Village Justice 19 March 2021, last modified 14 Jan 2025) and 'Atteintes à l'autorité parentale, emprise, aliénation parentale, état de la Jurisprudence' — review of recent emblematic pleaded cases.
+
+**Publications:**
+- Aliénation parentale, emprise: retour d'expérience, regard d'un avocat (2021) — *Village Justice (19 March 2021, updated 14 Jan 2025)* — <https://www.village-justice.com/articles/alienation-parentale-emprise-retour-experience-regard-avocat,38510.html>
+- Atteintes à l'autorité parentale, emprise, aliénation parentale, état de la Jurisprudence (2021) — *ACALPA republication* — <https://www.acalpa.info/blog/2021/03/21/regard-d-un-avocat-2/>
+
+**Verification:**
+- <https://www.cyrilbraniste.com/>
+- <https://www.village-justice.com/articles/alienation-parentale-emprise-retour-experience-regard-avocat,38510.html>
+- <https://justice.pappers.fr/avocat/braniste-cyril-75001>
+
+**Contact:** Via firm site https://www.cyrilbraniste.com/contact; Pappers Justice profile
+
+*Notes: Verified via Village Justice author archive, ACALPA republication, firm site, and Pappers Justice avocat profile.*
+
+**See also:** `jurisdiction:france`, `practitioner:fr.bauer-michele`, `practitioner:fr.soreau-ambroise`
+
+<sub>ID: `fr.braniste-cyril`</sub>
+
+## Critique camp
+
+### Kerstin Bielefeld
+*Rechtsanwältin; Bevollmächtigte (counsel of record) BVerfG 1 BvR 1076/23*
+Köln · Nordrhein-Westfalen · Rechtsanwaltsgemeinschaft Hohenzollernring 25 (Köln); Rechtsanwaltskammer Köln
+
+**Stance:** Counsel of record (Bevollmächtigte) for the constitutional complainant in BVerfG 1 BvR 1076/23, Beschluss vom 17.11.2023 (1. Senat, 3. Kammer). BVerfG annulled OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' and therefore did not provide a kindeswohlorientierte basis. The only attorney in 2026 Germany with a published BVerfG win that explicitly classifies PAS as pseudoscientific — the single named-counsel anchor for any DE constitutional-litigation outreach on PA / Eltern-Kind-Entfremdung.
+
+**Publications:**
+- BVerfG 1 BvR 1076/23, Beschluss vom 17.11.2023 — Bevollmächtigte for the constitutional complainant (2023) — *Bundesverfassungsgericht (1. Senat, 3. Kammer)* — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
+
+**Verification:**
+- <https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2023/11/rk20231117_1bvr107623.pdf?__blob=publicationFile&v=1>
+- <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
+- <https://anwaltauskunft.de/anwaltssuche/kerstin-bielefeld-xqbgd>
+
+**Contact:** Kanzlei Hohenzollernring 25, 50672 Köln; +49 (221) 9529 55 55; +49 (177) 813 33 20; fax +49 (221) 9529 55 25; via Deutsche Anwaltauskunft profile
+
+*Notes: Verified via BVerfG official PDF and HTML versions of the 1 BvR 1076/23 order (front page names Bevollmächtigte) and Deutsche Anwaltauskunft profile. Rechtsanwaltskammer Köln confirmed by postcode practice address; specific Kammer-number not publicly confirmed.*
+
+**See also:** `jurisdiction:germany`, `practitioner:de.fichtner-joerg`, `practitioner:de.zimmermann-janin`, `practitioner:de.walper-sabine`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `case-study:cassazione-9691-2022-italy`, `case-study:sts-519-2017-spain`, `evidence:international-institutional-positions`
+
+<sub>ID: `de.bielefeld-kerstin`</sub>
+
+### Asociación de Mujeres Juristas Themis
+*Asociación / institutional feminist legal collective (abogadas, fiscales, juezas, letradas judiciales) — members across multiple ICAs (Madrid, Barcelona, Mallorca, Zaragoza, etc.)*
+Madrid · Comunidad de Madrid · Asociación de Mujeres Juristas Themis (sede Madrid); members across ICA Madrid / ICAIB / ICA Zaragoza / ICAB / others
+
+**Stance:** Single best-organised Spanish jurists' collective on SAP / coordinación-parental critique — institutional gateway to all named former-presidentas. Themis 2024 'Tratamiento judicial dado a mujeres, sus hijas e hijos menores de edad en procedimientos de familia con violencia de género' documents that SAP still appears in ≈3.48% of analysed family-court rulings despite LOPIVI (Ley Orgánica 8/2021) Disp. ad. 17a statutory exclusion. Themis-led Manifiesto jurídico feminista contra la Guía pro-SAP del CGPJ produced CGPJ withdrawal of the pro-SAP Guide. Themis 'Segundo Informe sobre Coordinación de Parentalidad' (2024) sustains the institutional position that coordinación parental functions as covert SAP. Named principal authors: Pino de la Nuez Ruiz, Altamira Gonzalo Valgañón, María Durán Febrer, Rosa Pérez-Villar Aparicio, plus research team Isabel Aramburu Muñoz, Carmen Estévez Estévez, Gemma Aibar Cerezo, Paloma García-Lozano Puente, María García Olcina, Altamira Guelbenzu Gonzalo, Paloma Rey Nuevo.
+
+**Publications:**
+- Tratamiento judicial dado a mujeres, sus hijas e hijos menores de edad en procedimientos de familia con violencia de género (2024) — *Asociación de Mujeres Juristas Themis* — <https://www.mujeresjuristasthemis.org/images/ESTUDIO_COMPLETO_Tratamiento_judicial_mujeres_sus_hijas_e_hijos_menores_de_edad.pdf>
+- Posicionamiento de la Asociación de Mujeres Juristas Themis sobre la Coordinación Parental (2023) — *Themis* — <https://www.mujeresjuristasthemis.org/prensa/noticias/223-themis-posicionamiento-sobre-la-coordinacion-parental>
+- Manifiesto jurídico feminista contra la Guía pro-SAP del CGPJ (2023) — *Observatorio Violencia* — <https://observatorioviolencia.org/manifiesto-juridico-feminista-contra-la-guia-pro-sindrome-de-alienacion-parental-del-cgpj/>
+- Mujeres Juristas Themis denuncia fallos estructurales en la justicia de familia ante la violencia de género (2025) — *Lawyerpress (18 June 2025)* — <https://www.lawyerpress.com/2025/06/18/mujeres-juristas-themis-denuncia-fallos-estructurales-en-la-justicia-de-familia-ante-la-violencia-de-genero/>
+
+**Verification:**
+- <https://www.mujeresjuristasthemis.org/>
+- <https://www.mujeresjuristasthemis.org/prensa/noticias/223-themis-posicionamiento-sobre-la-coordinacion-parental>
+- <https://www.mujeresjuristasthemis.org/images/ESTUDIO_COMPLETO_Tratamiento_judicial_mujeres_sus_hijas_e_hijos_menores_de_edad.pdf>
+- <https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE1832.pdf>
+
+**Contact:** themis@mujeresjuristasthemis.org (institutional convention); +34 91 540 09 87; via mujeresjuristasthemis.org/contacto/
+
+*Notes: Verified via Themis institutional site, Inmujeres archive, Lawyerpress 2025 coverage, and Observatorio Violencia manifiesto. Civil association — institutional rather than individual registration.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.gonzalo-altamira`, `practitioner:es.duran-febrer-maria`, `case-study:sts-519-2017-spain`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `evidence:international-institutional-positions`
+
+<sub>ID: `es.themis-fedepe`</sub>
+
+### Altamira Gonzalo Valgañón
+*Abogada; ex-Presidenta Themis (2006–2010); Vicepresidenta Themis (2019–2021); Vocal CGPJ (nominated 2024)*
+Zaragoza / Madrid · Aragón / Comunidad de Madrid · Independent practice; Asociación de Mujeres Juristas Themis; Consejo General del Poder Judicial (vocal nominated 2024); ICA Zaragoza
+
+**Stance:** Single highest-profile institutional Spanish jurist on SAP critique side — Themis vicepresidenta and current CGPJ vocal — doubles as press spokesperson. Quoted in Ameco Press 'Juristas y psicólogas denuncian la imposición de la coordinación de parentalidad,' characterising parental coordination as 'terapia del miedo, amenaza y castigo para lograr el cumplimiento de las visitas no deseadas'. Named co-author of Themis 2024 'Tratamiento judicial' study and 'Segundo Informe sobre Coordinación de Parentalidad' (2024).
+
+**Publications:**
+- Tratamiento judicial dado a mujeres, sus hijas e hijos menores de edad en procedimientos de familia con violencia de género (co-author) (2024) — *Themis* — <https://www.mujeresjuristasthemis.org/images/ESTUDIO_COMPLETO_Tratamiento_judicial_mujeres_sus_hijas_e_hijos_menores_de_edad.pdf>
+- Segundo Informe sobre Coordinación de Parentalidad (co-author) (2024) — *Themis*
+- Juristas y psicólogas denuncian la imposición de la coordinación de parentalidad (quoted) (2024) — *Ameco Press* — <https://amecopress.net/Juristas-y-psicologas-denuncian-la-imposicion-de-la-coordinacion-de-parentalidad-en-los-juzgados-incluso-en-casos-de-violencia-de-genero>
+
+**Verification:**
+- <https://amecopress.net/Juristas-y-psicologas-denuncian-la-imposicion-de-la-coordinacion-de-parentalidad-en-los-juzgados-incluso-en-casos-de-violencia-de-genero>
+- <https://es.wikipedia.org/wiki/Altamira_Gonzalo>
+- <https://www.mujeresjuristasthemis.org/>
+
+**Contact:** Via Themis sede: themis@mujeresjuristasthemis.org; +34 91 540 09 87
+
+*Notes: Verified via Ameco Press 2024 quoted feature, Wikipedia, Themis institutional site, and Lawyerpress 2025 CGPJ vocal nomination coverage. ICA Zaragoza registration confirmed via biography.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.themis-fedepe`, `practitioner:es.duran-febrer-maria`, `case-study:sts-519-2017-spain`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
+
+<sub>ID: `es.gonzalo-altamira`</sub>
+
+### María Durán Febrer
+*Abogada feminista; ex-Presidenta Themis (1998–2002); Directora Institut Balear de la Dona (IBD) desde 2019*
+Palma de Mallorca · Illes Balears · Independent practice; Institut Balear de la Dona (IBD director); Asociación de Mujeres Juristas Themis; ICAIB (Ilustre Colegio de la Abogacía de las Islas Baleares)
+
+**Stance:** Bridges Themis legal collective and Balearic regional government on PA / gender-violence policy — opens both NGO-jurist and regional-government doors in Spain. Co-author Themis 2024 'Tratamiento judicial' study; ex-presidenta Themis publications on SAP throughout 2000s; PA-relevant institutional advocacy as IBD director since 2019.
+
+**Publications:**
+- Tratamiento judicial dado a mujeres, sus hijas e hijos menores de edad en procedimientos de familia con violencia de género (co-author) (2024) — *Themis* — <https://www.mujeresjuristasthemis.org/images/ESTUDIO_COMPLETO_Tratamiento_judicial_mujeres_sus_hijas_e_hijos_menores_de_edad.pdf>
+- Themis SAP corpus (ex-Presidenta publications 1998-2002) (2002) — *Themis*
+
+**Verification:**
+- <https://es.wikipedia.org/wiki/Mar%C3%ADa_Dur%C3%A1n_Febrer>
+- <https://www.manacornoticias.com/noticia.php?id=25310>
+- <https://www.ultimahora.es/noticias/local/2019/07/16/1094569/abogada-feminista-maria-duran-dirigira-institut-balear-dona.html>
+
+**Contact:** Institut Balear de la Dona, Avinguda de Jaume III, 11, 07012 Palma de Mallorca; +34 971 17 89 90; ibdona@ibdona.caib.es
+
+*Notes: Verified via Wikipedia, Manacor Notícies, Ultima Hora 2019 IBD-appointment coverage, and Themis study co-authorship. ICAIB registration confirmed via biography.*
+
+**See also:** `jurisdiction:spain`, `practitioner:es.themis-fedepe`, `practitioner:es.gonzalo-altamira`, `case-study:sts-519-2017-spain`, `case-study:cassazione-9691-2022-italy`
+
+<sub>ID: `es.duran-febrer-maria`</sub>
+
+### Titti Carrano
+*Avvocata; lawyer with Associazione Differenza Donna anti-violence centres; ex-Presidente Nazionale D.i.Re — Donne in Rete contro la violenza*
+Roma · Lazio · Associazione Differenza Donna; D.i.Re — Donne in Rete contro la violenza; Consiglio dell'Ordine degli Avvocati di Roma
+
+**Stance:** Named legal voice on the most-cited Italian Cassation ordinance critical of PAS / alienazione genitoriale — single highest-leverage IT contact on the critique side. Quoted across contemporaneous coverage of Cass. civ. sez. I, ord. 24 marzo 2022, n. 9691 (caso Massaro, sentenza Acierno) — Il Post 25 March 2022 and D.i.Re institutional position 'fondamentale, andrebbero riviste tante sentenze alla luce di questo testo'. Sustained national advocacy via D.i.Re on PAS / alienazione genitoriale critique, including the Cass. 13217/2021 (first major sez. I PAS rejection) and Cass. 4595/2025 (sustained doctrinal line) ordinances.
+
+**Publications:**
+- Cass. civ. sez. I, ord. 24 marzo 2022, n. 9691 (caso Massaro) — leading advocate quoted (2022) — *Il Post (25 March 2022)* — <https://www.ilpost.it/2022/03/25/sindrome-alienazione-parentale-cassazione-laura-massaro/>
+- Violenza / PAS — ordinanza della Cassazione fondamentale, andrebbero riviste tante sentenze (2022) — *D.i.Re — Donne in Rete contro la violenza* — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/>
+
+**Verification:**
+- <https://www.differenzadonna.org/>
+- <https://www.direcontrolaviolenza.it/>
+- <https://www.direcontrolaviolenza.it/gruppo-avvocate/>
+- <https://www.ilpost.it/2022/03/25/sindrome-alienazione-parentale-cassazione-laura-massaro/>
+
+**Contact:** Differenza Donna: Viale di Villa Pamphili 100, 00152 Roma; +39 06 6810 7799; differenzadonna@differenzadonna.org
+
+*Notes: Verified via Differenza Donna and D.i.Re institutional sites, Il Post 25 March 2022 quoted feature, and D.i.Re Gruppo Avvocate page. Consiglio dell'Ordine degli Avvocati di Roma confirmed via D.i.Re institutional affiliation; specific Albo number not publicly displayed.*
+
+**See also:** `jurisdiction:italy`, `practitioner:it.biaggioni-elena`, `practitioner:it.marconato-marina`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `case-study:sts-519-2017-spain`, `evidence:international-institutional-positions`
+
+<sub>ID: `it.carrano-titti`</sub>
+
+### Elena Biaggioni
+*Avvocata; D.i.Re Gruppo Avvocate member*
+Roma (via D.i.Re segreteria nazionale) · Lazio · D.i.Re — Donne in Rete contro la violenza, Gruppo Avvocate
+
+**Stance:** Only individually named avvocata on the public D.i.Re Gruppo Avvocate page — confirmable institutional voice second to Carrano. Works within D.i.Re's institutional position against PAS / alienazione genitoriale as litigation tactic in DV cases. Author of D.i.Re practitioner document 'Ammonimento per violenza domestica'.
+
+**Publications:**
+- Ammonimento per violenza domestica (D.i.Re practitioner brief) (2022) — *D.i.Re — Donne in Rete contro la violenza* — <https://www.direcontrolaviolenza.it/gruppo-avvocate/>
+
+**Verification:**
+- <https://www.direcontrolaviolenza.it/gruppo-avvocate/>
+- <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/>
+
+**Contact:** Via D.i.Re segreteria: info@direcontrolaviolenza.it
+
+*Notes: Verified via D.i.Re Gruppo Avvocate page (named author attribution) and D.i.Re institutional PAS position. Consiglio dell'Ordine degli Avvocati specific province not publicly confirmed.*
+
+**See also:** `jurisdiction:italy`, `practitioner:it.carrano-titti`, `practitioner:it.marconato-marina`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
+
+<sub>ID: `it.biaggioni-elena`</sub>
+
+### Marina Marconato
+*Avvocata; laureata La Sapienza Roma 1996*
+Padova / Roma · Veneto / Lazio · Studio Legale Marina Marconato; Consiglio dell'Ordine degli Avvocati (Padova / Roma practice — specific Ordine not publicly confirmed)
+
+**Stance:** One of the few Italian individual avvocati with a publicly indexed 'alienazione parentale' practice page from the critique camp — verifiable, citable, contactable. Publishes on Cassazione decisions rejecting alienazione parentale / bigenitorialità forzosa and protecting minors. Marconato, 'IO RESTO QUI. I minori e la protezione della Corte di Cassazione: NO alla alienazione parentale ed alla bigenitorialità forzosa' and firm-site practice page on Cass. civ. I 9691/2022 and follow-on jurisprudence.
+
+**Publications:**
+- IO RESTO QUI. I minori e la protezione della Corte di Cassazione: NO alla alienazione parentale ed alla bigenitorialità forzosa (2022) — *Studio Legale Marina Marconato* — <http://studiolegalemarinamarconato.it/io-resto-qui-i-minori-e-la-protezione-della-corte-di-cassazione-no-alla-alienazione-parentale-e-alla-bigenitorialita-forzosa/>
+- Alienazione parentale — practice page (2022) — *Studio Legale Marina Marconato* — <https://www.studiolegalemarinamarconato.it/news/1/alienazione-parentale>
+
+**Verification:**
+- <https://www.studiolegalemarinamarconato.it/>
+- <https://www.studiolegalemarinamarconato.it/news/1/alienazione-parentale>
+- <http://studiolegalemarinamarconato.it/io-resto-qui-i-minori-e-la-protezione-della-corte-di-cassazione-no-alla-alienazione-parentale-e-alla-bigenitorialita-forzosa/>
+
+**Contact:** Via firm site contact form: https://www.studiolegalemarinamarconato.it/contatti
+
+*Notes: Verified via firm site practice pages and PA-specific publications. La Sapienza Roma 1996 laurea confirmed via firm biography. Original brief named 'Avv. Marina Marino Roma' — that name resolves only to LinkedIn (Viale Mazzini 11) with no PA publications. Marconato substituted as the verified publishing avvocata on this exact topic per primary-source verification.*
+
+**See also:** `jurisdiction:italy`, `practitioner:it.carrano-titti`, `practitioner:it.biaggioni-elena`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
+
+<sub>ID: `it.marconato-marina`</sub>
+
+## Middle / methodological camp
+
+### Eva Becker
+*Rechtsanwältin; DAV-Vorstandsmitglied; Vorsitzende DAV-Familienrechtsausschuss*
+Berlin · Berlin · Becker Rechtsanwälte (Berlin); Deutscher Anwaltverein (DAV) Familienrechtsausschuss; Rechtsanwaltskammer Berlin
+
+**Stance:** Chair of the DAV-Familienrechtsausschuss — the standing committee that drafts the German Bar's official policy positions on family-law reform. DAV-AG Familienrecht FamR newsroom series (FamR 01/23, 12/24, 23/24, 25/24, 3/26) consistently publishes case-law commentary critical of PAS-based gutachten while engaging with alienating-behaviour evidence — the procedural-reform / differentiated-approach middle pole. FamR 3/26 'Gericht weist PAS-Gutachten zurück und stärkt Kindeswillen' (OLG Frankfurt 05.01.2026 commentary) reiterates that 'das Bundesverfassungsgericht die PAS-These als pseudowissenschaftlich eingestuft'. Single highest-leverage institutional contact in DE.
+
+**Publications:**
+- FamR 3/26 — Gericht weist PAS-Gutachten zurück und stärkt Kindeswillen (2026) — *DAV-Familienrechtsausschuss newsroom* — <https://anwaltverein.de/newsroom/famr-3-26-gericht-weist-pas-gutachten-zurueck-und-staerkt-kindeswillen>
+- DAT 03/23: Familienrecht nachhaltig reformieren! (2023) — *Deutscher Anwaltverein* — <https://anwaltverein.de/newsroom/dat-03-23-familienrecht-nachhaltig-reformieren>
+
+**Verification:**
+- <https://anwaltverein.de/mitgliedschaft/arbeitsgemeinschaften/familienrecht>
+- <https://anwaltverein.de/newsroom/famr-3-26-gericht-weist-pas-gutachten-zurueck-und-staerkt-kindeswillen>
+- <https://anwaltverein.de/newsroom/dat-03-23-familienrecht-nachhaltig-reformieren>
+- <https://anwaltsblatt.anwaltverein.de/de/themen/kanzlei-praxis/mehr-geld-verdienen>
+
+**Contact:** DAV-Hauptgeschäftsstelle, Littenstr. 11, 10179 Berlin; +49 (30) 726152-0; familienrecht@anwaltverein.de (institutional convention)
+
+*Notes: Verified via DAV-Familienrechtsausschuss newsroom (chair attribution) and DAV institutional pages. Rechtsanwaltskammer Berlin registration confirmed via DAV affiliation; specific Kammer-number not publicly displayed.*
+
+**See also:** `jurisdiction:germany`, `practitioner:de.schausten-jochem`, `practitioner:de.bielefeld-kerstin`, `practitioner:de.fichtner-joerg`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
+
+<sub>ID: `de.becker-eva`</sub>
+
+### Jochem Schausten
+*Rechtsanwalt; Vorsitzender Arbeitsgemeinschaft Familienrecht im DAV*
+Mönchengladbach · Nordrhein-Westfalen · Schausten Rechtsanwälte (Mönchengladbach); AG Familienrecht im DAV (~4,788 members July 2025); Rechtsanwaltskammer Düsseldorf
+
+**Stance:** Chair of the AG Familienrecht im DAV — the largest DAV working group (~4,788 members July 2025) and the editorial line of the Familienanwälte portal. Speaks for ~4,800 German family-law specialists — the natural press / professional-contact route for any DE PA-law commentary. AG-Familienrecht editorial line on FamR newsroom series consistent with the DAV middle-pole position: differentiated child-welfare assessment over PAS-labels.
+
+**Publications:**
+- AG Familienrecht im DAV — institutional editorial line on FamR newsroom series (2024) — *DAV / Familienanwälte*
+- FamR 3/26 commentary on PAS-Gutachten rejection (2026) — *DAV newsroom* — <https://anwaltverein.de/newsroom/famr-3-26-gericht-weist-pas-gutachten-zurueck-und-staerkt-kindeswillen>
+
+**Verification:**
+- <https://anwaltverein.de/mitgliedschaft/arbeitsgemeinschaften/familienrecht>
+- <https://familienanwaelte-dav.de/de/>
+- <https://anwaltverein.de/newsroom/famr-3-26-gericht-weist-pas-gutachten-zurueck-und-staerkt-kindeswillen>
+
+**Contact:** AG Familienrecht Geschäftsstelle via DAV: familienrecht@anwaltverein.de; +49 (30) 726152-0; Littenstr. 11, 10179 Berlin (institutional)
+
+*Notes: Verified via DAV AG-Familienrecht institutional pages and Familienanwälte portal (chair attribution). Rechtsanwaltskammer Düsseldorf confirmed via Mönchengladbach practice address; specific Kammer-number not publicly displayed.*
+
+**See also:** `jurisdiction:germany`, `practitioner:de.becker-eva`, `practitioner:de.bielefeld-kerstin`
+
+<sub>ID: `de.schausten-jochem`</sub>
+
+### SCP Richard (successor: SCP Boré, Salve de Bruneton et Mégret)
+*Avocats au Conseil d'État et à la Cour de cassation (SCP)*
+Paris · Île-de-France · Ordre des avocats au Conseil d'État et à la Cour de cassation; successor structure SCP Boré, Salve de Bruneton et Mégret
+
+**Stance:** Opposing counsel in Cass. 1re civ., 26 juin 2013, n° 12-14.392 — the first apex French SAP-recognition arrêt. Substantive PA position outside this filing is not in the public record; stance assignment 'middle' reflects opposite-side filing posture on the recognition arrêt rather than a confirmed critique-camp publication. Included for record-completeness and historic-litigant attribution on the FR PA-recognition arrêt.
+
+**Publications:**
+- Cass. 1re civ., 26 juin 2013, n° 12-14.392 — opposing counsel (2013) — *Cour de cassation* — <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
+
+**Verification:**
+- <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
+- <https://www.ordre-avocats-cassation.fr/annuaire/>
+
+**Contact:** Via Ordre des avocats aux Conseils annuaire (Paris)
+
+*Notes: Verified via Légifrance arrêt face (opposing-counsel attribution). Successor structure SCP Boré, Salve de Bruneton et Mégret confirmed via Ordre annuaire. PA-specific stance not in primary sources outside the 2013 filing.*
+
+**See also:** `jurisdiction:france`, `practitioner:fr.scp-waquet-farge-hazan`
+
+<sub>ID: `fr.scp-richard`</sub>
+
+### Caroline Mécary
+*Maître; Avocate spécialiste en droit de la famille au Barreau de Paris; ex-membre Conseil de l'Ordre du Barreau de Paris*
+Paris · Île-de-France · Cabinet Mécary (Paris) — créé en 1993; Barreau de Paris
+
+**Stance:** Published stance is on filiation, homoparentalité, PMA/GPA, adoption by the social parent, and autorité parentale rather than PA per se — not publicly confirmed on PA / aliénation parentale specifically at primary-source level. Stance assignment 'middle' reflects procedural / family-rights framing on autorité parentale and résidence de l'enfant. Counsel in Mairie de Bègles (first French same-sex marriage, 2004); pioneering FR jurisprudence on adoption by the social parent post-PMA / GPA; 11 books on droit de la famille / homoparentalité. Leading FR family-law avocate on non-traditional family structures — natural entry point for cross-cutting LGBTQ+-family / PA conversations.
+
+**Publications:**
+- Droit de la famille / homoparentalité corpus (11 books) (2023) — *Various French legal publishers*
+
+**Verification:**
+- <https://caroline-mecary.fr/>
+- <https://consultation.avocat.fr/avocat-paris/caroline-mecary-8236.html>
+- <https://en.wikipedia.org/wiki/Caroline_M%C3%A9cary>
+
+**Contact:** Via firm site contact form https://caroline-mecary.fr/contact/
+
+*Notes: Verified via firm site, Conseil National des Barreaux portal profile, and Wikipedia. Original brief named 'Christine Mécary' — corrected to Caroline Mécary, the prominent Paris LGBTQ+ family-law avocate, per primary-source verification. PA-specific stance not in primary sources; included for record-completeness as cross-cutting LGBTQ+-family entry point.*
+
+**See also:** `jurisdiction:france`
+
+<sub>ID: `fr.mecary-caroline`</sub>
+
+### Geeske van Campen
+*mr.; Advocaat*
+'s-Hertogenbosch · Noord-Brabant · Forward Advocaten ('s-Hertogenbosch + Tilburg); Nederlandse Orde van Advocaten (NOvA)
+
+**Stance:** One of the few named Dutch advocaten with a published blog post tying personal practice to the official Expertteam Ouderverstoting / Complexe Omgangsproblematiek 2021 report — the natural NL practitioner-side entry point. Treats ouderverstoting as a litigable phenomenon and references the official Dutch Expertteam reports as procedural anchor. Van Campen, 'Ouderverstoting,' Forward Advocaten blog (8 February 2021), citing Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek (Jan 2021, chair familierechter Cees van Leuven) and Hoge Raad RFR 2021/26 on unilateral omgangsregeling-modification.
+
+**Publications:**
+- Ouderverstoting (Forward Advocaten blog) (2021) — *Forward Advocaten (8 February 2021)* — <https://forwardadvocaten.nl/en/blog/2021/02/08/ouderverstoting/>
+
+**Verification:**
+- <https://forwardadvocaten.nl/>
+- <https://forwardadvocaten.nl/en/blog/2021/02/08/ouderverstoting/>
+- <https://vng.nl/sites/default/files/2021-03/rapport-ouderverstoting.pdf>
+- <https://www.huiselijkgeweld.nl/publicaties/rapporten/2021/02/04/adviesrapport-expertteam-ouderverstoting-complexe-omgangsproblematiek-januari-2021>
+
+**Contact:** Forward Advocaten, Pettelaarpark 102, 5216 PR 's-Hertogenbosch; +31 (0)88 6007 800; info@forwardadvocaten.nl
+
+*Notes: Verified via Forward Advocaten firm site and 2021 PA blog post. NOvA Tableau-number not publicly confirmed; confirmed practicing advocaat at Forward Advocaten 's-Hertogenbosch office. Expertteam Ouderverstoting chair Cees van Leuven (sitting familierechter Rechtbank Zeeland-West-Brabant) not directory-eligible as practitioner — referenced as the procedural-framework authority.*
+
+**See also:** `jurisdiction:netherlands`, `practitioner:nl.van-lawick-justine`, `practitioner:nl.visser-margreet`, `practitioner:nl.vfas-institutional`
+
+<sub>ID: `nl.van-campen-geeske`</sub>
+
+### Vereniging van Familie- en Erfrecht Advocaten Scheidingsmediators (vFAS)
+*Specialisatievereniging — largest Dutch family- and inheritance-law specialisation association*
+Utrecht · Utrecht · vFAS (institutional); all members NOvA-registered advocaten
+
+**Stance:** Institutional gateway to certified Dutch family-law advocate-mediators — engages vFAS as a press / training partner without committing a single named lawyer. Institutional emphasis on minimising adverse-consequences for children of divorce; PA-specific positioning consistent with the Expertteam Ouderverstoting framework rather than the SAP/PAS framework. Produces practitioner training and the Tijdschrift Relatierecht en Praktijk.
+
+**Publications:**
+- vFAS practitioner training and certification framework (2024) — *vFAS*
+- Tijdschrift Relatierecht en Praktijk (2024) — *vFAS publication*
+
+**Verification:**
+- <https://verenigingfas.nl/>
+- <https://verenigingfas.nl/welkom-bij-de-vfas/>
+- <https://verenigingfas.nl/nieuws/>
+
+**Contact:** vFAS secretariaat, Postbus 13066, 3507 LB Utrecht; +31 (0)30 696 18 36; secretariaat@verenigingfas.nl
+
+*Notes: Verified via vFAS institutional site (welkom, nieuws). Specific public PA-statement standalone press release not publicly confirmed; institutional positioning inferred from training-framework continuity with the Expertteam Ouderverstoting procedural framework.*
+
+**See also:** `jurisdiction:netherlands`, `practitioner:nl.van-campen-geeske`, `practitioner:nl.van-lawick-justine`
+
+<sub>ID: `nl.vfas-institutional`</sub>
+
+### Géraldine Mathieu
+*Professeure, Faculté de droit UNamur; ex-avocate Barreau de Namur (2000–2007); membre comité de rédaction Revue trimestrielle de droit familial (RTDF)*
+Namur · Wallonie · Université de Namur (UNamur) — Faculté de droit; RTDF editorial committee; co-directrice collection Droit et Familles (Anthemis); Commission nationale pour les Droits de l'Enfant; co-présidente association Famille & Droit
+
+**Stance:** Most institutionally-connected Belgian francophone children's-rights academic / former avocate — single best academic-press gateway for BE PA / ouderverstoting debate. Procedural / children's-rights focus; long-standing scholarly emphasis on the effectiveness of legal mechanisms protecting children — bridges DV-protection and contact-maintenance discourse. Editorial board of Revue trimestrielle de droit familial (the leading Belgian family-law journal). 2014–2019 expert for Defence for Children International Belgium (DEI Belgium).
+
+**Publications:**
+- Revue trimestrielle de droit familial (RTDF) — editorial committee (2024) — *Larcier-Intersentia* — <https://www.larcier-intersentia.com/fr/revue-trimestrielle-de-droit-familial.html>
+- Collection Droit et Familles (Anthemis) — co-direction (2024) — *Anthemis*
+- DEI Belgium juvenile-justice research (2014–2019) (2019) — *Defence for Children International Belgium*
+
+**Verification:**
+- <https://researchportal.unamur.be/fr/persons/gmathieu/>
+- <https://www.larcier-intersentia.com/fr/revue-trimestrielle-de-droit-familial.html>
+- <https://www.justice-en-ligne.be/_Mathieu-Geraldine_>
+
+**Contact:** geraldine.mathieu@unamur.be (UNamur convention); via Faculté de droit secretariat; Justice-en-ligne contact form
+
+*Notes: Verified via UNamur research portal, Larcier-Intersentia RTDF page, and Justice-en-ligne author profile. Barreau de Namur 2000-2007 avocate status confirmed via UNamur biography; post-2007 OBFG tableau status not publicly confirmed.*
+
+**See also:** `jurisdiction:belgium`, `practitioner:be.iefh-igvm`, `practitioner:be.bfp-bpf`, `practitioner:be.leleu-yves-henri`
+
+<sub>ID: `be.mathieu-geraldine`</sub>
+
+### Yves-Henri Leleu
+*Avocat au Barreau de Liège; Doyen Faculté de droit ULiège; Professeur ULB Centre de droit privé*
+Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); ULB Centre de droit privé; Barreau de Liège (OBFG — Ordre des Barreaux francophones et germanophone)
+
+**Stance:** Dean of Liège Faculty of Law and practicing avocat — academic-bar bridge for any BE PA legal-doctrine engagement. Published positioning on droit des personnes et des familles, divorce, régimes matrimoniaux, droit de la filiation; PA-specific stance not in cited bibliography — stance assignment 'middle' reflects procedural / family-law focus without confirmed PA-specific position. Author of Droit des personnes et des familles (Larcier multi-editions through 2020), Droit patrimonial des couples (2021), La transmission genrée du capital familial (2024), and 200+ articles / case notes in Belgian and foreign journals.
+
+**Publications:**
+- Droit des personnes et des familles (2020) — *Larcier (4ème éd.)* — <https://www.lgdj.fr/actualites-de-droit-familial-9782874550874.html>
+- Droit patrimonial des couples (2021) — *Larcier*
+- La transmission genrée du capital familial (2024) — *Larcier*
+
+**Verification:**
+- <https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u040445>
+- <https://droit-prive.ulb.be/experts/yves-henri-leleu/>
+- <http://www.leleu-avocat.be/site/>
+
+**Contact:** yveshenri.leleu@uliege.be (ULiège convention); +32 (0)4 366 30 30 (Faculté de droit ULiège secretariat); via firm site http://www.leleu-avocat.be/site/contact
+
+*Notes: Verified via ULiège repertoire, ULB Centre de droit privé experts page, firm site, and LGDJ Larcier publication page. PA-specific stance not in primary sources — middle assignment reflects procedural / family-law focus without confirmed PA-specific position.*
+
+**See also:** `jurisdiction:belgium`, `practitioner:be.mathieu-geraldine`, `practitioner:be.iefh-igvm`
+
+<sub>ID: `be.leleu-yves-henri`</sub>
+
+## Excluded (with documented reason)
+
+- **Andreas Hauser (DE)** — Unverifiable — not publicly confirmed as Familienrecht practitioner with PA-relevant work
+- **Christian Lange (DE)** — Unverifiable — not publicly confirmed as Familienrecht practitioner with PA-relevant work
+- **Maja Smoltczyk (DE)** — Out of scope — former Berlin Data Protection Commissioner (administrative law), not family law
+  - Primary source: <https://de.wikipedia.org/wiki/Maja_Smoltczyk>
+- **Hélène Poivey-Leclercq (FR)** — Unverifiable PA stance — senior Paris family-law avocate (Cadiou Poivey-Leclercq & Associés) confirmed, but no public PA-stance statement located from primary sources
+- **Edwige Antier (FR)** — Out of scope — pédiatre / former député, not avocate
+- **Stéphanie Lamy (FR)** — Out of scope — essayist / Sciences Po researcher (Abandon de Famille – Tolérance Zéro co-founder), not avocate practising on PA
+- **Sonia Vaccaro (ES)** — Out of scope for lawyers file — clinical / forensic psychologist; entered in eu-therapists v2 (es.vaccaro-sonia)
+- **Lola Aguilar Madrid (ES)** — Unverifiable — possibly Lola Calderón (ICAM Sección Violencia de Género) as next-iteration candidate
+- **Vicenta Esteve Valencia (ES)** — Unverifiable — not publicly confirmed as PA-publishing abogada
+- **Cristina Hermida del Llano (ES)** — Unverifiable PA stance — catedrática filosofía del derecho URJC; no PA-specific publication located in primary sources
+- **Marina Marino Roma (IT)** — Unverifiable — LinkedIn-only profile (Viale Mazzini 11) with no PA publications; Marconato substituted as verified publishing critique-camp avvocata
+- **Cristina Mastroiacovo (IT)** — Unverifiable — not publicly confirmed as PA-publishing avvocata
+- **Lavinia Romano (IT)** — Unverifiable — Lavinia Nera (psychologist) found instead; not PA-publishing avvocata
+- **Antonella Faieta (IT)** — Attribution correction — Faieta is presidente of Telefono Rosa, not D.i.Re; original brief attribution corrected
+  - Primary source: <https://www.ansa.it/donne/notizie/2025/01/30/antonella-faieta-nuova-presidente-di-telefono-rosa_12d639c7-d463-4bb5-bf12-3319a5272a6e.html>
+- **mr. Marit Salomons (NL)** — Unverifiable — firm Salomons Beelaerts Advocaten (Den Haag) exists but individual by this name not in NOvA Tableau search
+- **mr. Joep Vinkenvleugel (NL)** — Unverifiable — not publicly confirmed in NOvA Tableau or any PA-specific publication
+- **Defence for Children Nederland (NL)** — Out of scope for lawyers file — institutional NGO, not Dutch-bar-registered law firm; referenced via Mathieu / DEI Belgium entry
+- **Me Catherine Renson Liège (BE)** — Unverifiable — not retrievable in OBFG register or PA-specific publication
+- **Mme Nicole Massez (BE)** — Unverifiable — not retrievable in OBFG / OVB register or PA-specific publication
+- **L'Avocat des Enfants (BE)** — Out of scope — not a single standing institutional body; the avocat de l'enfant function exists procedurally before the Tribunal de la famille but is not a single named entity
+- **Philippe Kinoo (BE)** — Out of scope for lawyers file — Belgian child psychiatrist (lead author 'Aliénation parentale, un concept à haut risque', Études 2009/2); belongs in eu-therapists v2
+
 
 ---
 
-## Germany
-
-### 1. Rechtsanwältin Kerstin Bielefeld
-- **Firm:** Rechtsanwaltsgemeinschaft Hohenzollernring 25 (Köln)
-- **Firm address / contact:** Hohenzollernring 25, 50672 Köln; +49 (221) 9529 55 55; +49 (177) 813 33 20; fax +49 (221) 9529 55 25 — listed via Deutsche Anwaltauskunft https://anwaltauskunft.de/anwaltssuche/kerstin-bielefeld-xqbgd
-- **Anwaltkammer:** Rechtsanwaltskammer Köln (confirmed via Köln-postcode practice address; specific Kammer-number **not publicly confirmed**)
-- **Stance:** critique (successfully challenged Eltern-Kind-Entfremdung framing at the highest German constitutional level)
-- **Stance source:** Named *Bevollmächtigte* (counsel of record) for the constitutional complainant in **BVerfG, 1 BvR 1076/23, Beschluss vom 17. November 2023** — front-page of the BVerfG order: https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2023/11/rk20231117_1bvr107623.pdf?__blob=publicationFile&v=1 ; HTML version https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html
-- **Named cases:**
-  - **BVerfG, 1 BvR 1076/23 (17.11.2023)** — successful Verfassungsbeschwerde against OLG Köln 25 UF 19/23 decisions of 8 and 17 May 2023; BVerfG annulled the OLG transfer-of-residence order, holding that "Eltern-Kind-Entfremdung" cited as a basis for *Aufenthaltsbestimmungsrecht* transfer "knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an" and therefore did not provide a *kindeswohlorientierte* basis. See case study `/case-studies/bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md`.
-- **Primary contact:** +49 (221) 9529 55 55 (Kanzlei reception); Deutsche Anwaltauskunft profile (above) for verified contact form.
-- **Tier:** 1
-- **Hook:** Only attorney in 2026 Germany with a published BVerfG win that explicitly classifies PAS as pseudoscientific — the named-counsel anchor for any German constitutional-litigation outreach.
-
-### 2. Rechtsanwältin Eva Becker
-- **Firm:** Becker Rechtsanwälte (Berlin); Vorstandsmitglied des Deutschen Anwaltvereins (DAV); Vorsitzende des DAV-Familienrechtsausschusses
-- **DAV / firm URLs:** https://anwaltverein.de/mitgliedschaft/arbeitsgemeinschaften/familienrecht ; https://familienanwaelte-dav.de/de/ ; profile in DAV Anwaltsblatt https://anwaltsblatt.anwaltverein.de/de/themen/kanzlei-praxis/mehr-geld-verdienen
-- **Anwaltkammer:** Rechtsanwaltskammer Berlin
-- **Stance:** middle (institutional reform; DAV-AG Familienrecht has consistently published case-law commentary critical of PAS-based gutachten while engaging with alienating-behaviour evidence)
-- **Stance source:** DAV-Familienrechtsausschuss press release **FamR 3/26**, *"Gericht weist PAS-Gutachten zurück und stärkt Kindeswillen,"* citing OLG Frankfurt 05.01.2026 and reiterating that "das Bundesverfassungsgericht die PAS-These als pseudowissenschaftlich eingestuft" — https://anwaltverein.de/newsroom/famr-3-26-gericht-weist-pas-gutachten-zurueck-und-staerkt-kindeswillen ; DAV-AG Familienrecht "DAT 03/23: Familienrecht nachhaltig reformieren!" — https://anwaltverein.de/newsroom/dat-03-23-familienrecht-nachhaltig-reformieren
-- **Named cases / publications:** Chair of the DAV Familienrechtsausschuss (the standing committee that drafts the German Bar's official policy positions on family-law reform); regular author / signatory of DAV PA-relevant case-law notes (FamR 01/23, 12/24, 23/24, 25/24, 3/26).
-- **Primary contact:** DAV-Hauptgeschäftsstelle — Littenstr. 11, 10179 Berlin; +49 (30) 726152-0; familienrecht@anwaltverein.de (institutional convention; confirm via DAV switchboard).
-- **Tier:** 1
-- **Hook:** Chairs the standing committee that signs the German Bar's PA / Eltern-Kind-Entfremdung policy positions — single highest-leverage institutional contact in DE.
-
-### 3. Rechtsanwalt Jochem Schausten
-- **Firm:** Schausten Rechtsanwälte (Mönchengladbach); Vorsitzender der Arbeitsgemeinschaft Familienrecht im DAV (the largest DAV working group, ~4,788 members as of July 2025)
-- **DAV URL:** https://familienanwaelte-dav.de/de/ ; AG-Familienrecht subpage https://anwaltverein.de/mitgliedschaft/arbeitsgemeinschaften/familienrecht
-- **Anwaltkammer:** Rechtsanwaltskammer Düsseldorf
-- **Stance:** middle (publishes AG-Familienrecht commentary on PA / Kindeswillen jurisprudence; supports differentiated child-welfare assessment over PAS-labels)
-- **Stance source:** Chair of the AG Familienrecht that publishes the **FamR newsroom** series (e.g. FamR 3/26 on PAS-Gutachten, FamR 25/24, FamR 12/24, FamR 01/23) — index https://anwaltverein.de/de/newsroom?tx_solr%5Bfilter%5D%5B0%5D=tag%3AFamilienrecht
-- **Named publications:** As AG-Familienrecht Vorsitzender, his name appears on DAV-AG public statements and the *Familienanwälte* portal editorial line; specific case-list **not publicly confirmed** beyond institutional role.
-- **Primary contact:** AG Familienrecht Geschäftsstelle via DAV — familienrecht@anwaltverein.de ; +49 (30) 726152-0.
-- **Tier:** 2
-- **Hook:** Speaks for ~4,800 German family-law specialists; the natural press / professional-contact route for any DE PA-law commentary by AntiAlienate.
-
----
-
-## France
-
-### 4. SCP Waquet, Farge et Hazan (avocats au Conseil d'État et à la Cour de cassation)
-- **Firm:** SCP Waquet, Farge et Hazan — one of the Ordre des avocats au Conseil d'État et à la Cour de cassation
-- **Firm URL:** https://www.scp-waquet-farge-hazan.com/ ; Ordre des avocats aux Conseils https://www.ordre-avocats-cassation.fr/
-- **Bar:** Ordre des avocats au Conseil d'État et à la Cour de cassation (Paris); 60-firm closed corporation
-- **Stance:** recognition (filing position) — counsel for the party whose theory the Cour de cassation upheld, which legally consolidated the SAP-framed decision in French family law
-- **Stance source:** Named on the face of **Cass. 1re civ., 26 juin 2013, n° 12-14.392** — https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/ — together with **SCP Richard** for the opposing party. See case study `/case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md`.
-- **Named cases / publications:** Counsel of record before the Cour de cassation in the 2013 arrêt that French legal commentators (Sophie Paricard, Michèle Bauer) treated as the first apex-court SAP recognition in France.
-- **Primary contact:** 4 boulevard du Palais, 75001 Paris; switchboard via Ordre directory https://www.ordre-avocats-cassation.fr/annuaire/
-- **Tier:** 2
-- **Hook:** The only French avocats-aux-Conseils firm publicly tied to a Cour de cassation arrêt naming aliénation parentale — historic anchor of the FR jurisprudence.
-
-### 5. SCP Richard (avocats au Conseil d'État et à la Cour de cassation)
-- **Firm:** SCP Boré, Salve de Bruneton et Mégret (successor structure of SCP Richard); Ordre des avocats au Conseil d'État et à la Cour de cassation
-- **Firm URL:** Ordre directory https://www.ordre-avocats-cassation.fr/annuaire/
-- **Bar:** Ordre des avocats au Conseil d'État et à la Cour de cassation (Paris)
-- **Stance:** **not publicly confirmed** — the SCP appeared as opposing counsel in the 2013 arrêt; their substantive PA position outside that filing is not in the public record
-- **Stance source:** Named on the face of **Cass. 1re civ., 26 juin 2013, n° 12-14.392** — https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/
-- **Named cases:** As above (2013 arrêt opposing counsel)
-- **Primary contact:** Via Ordre des avocats aux Conseils annuaire.
-- **Tier:** 3
-- **Hook:** Historic litigant on the FR PA-recognition arrêt; included for record-completeness, not for current advocacy alignment.
-
-### 6. Maître Michèle Bauer
-- **Firm:** Cabinet Michèle Bauer Avocat (sole practitioner)
-- **Firm URLs:** https://michelebaueravocatbordeaux.fr/ ; https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/
-- **Bar:** Barreau de Bordeaux (admitted 2003); twice Présidente de l'Institut du Droit Social du Barreau de Bordeaux; membre du Conseil de l'Ordre; CNB specialisation in droit du travail (2017)
-- **Stance:** recognition (read the 2013 arrêt as legally and clinically endorsing SAP)
-- **Stance source:** Bauer, *"Le syndrome d'aliénation parentale reconnu par la Cour de cassation"* (2013) — https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/syndrome-alienation-parentale-reconnu-cour-13249.htm ; own-site version https://michelebaueravocatbordeaux.fr/syndrome-dalienation-parentale-reconnu-cour-cassation/ ; cross-referenced in `/evidence-international-institutional-positions.md`
-- **Named cases / publications:** Practitioner case note on Cass. 1re civ. 26 juin 2013 n° 12-14.392 (most widely cited French-practitioner-camp PA endorsement)
-- **Primary contact:** 33 Cours Pasteur, 33000 Bordeaux; +33 (0)6 50 30 34 69 / +33 (0)5 47 74 51 50; secondary office 120 av. du Maréchal de Lattre de Tassigny, Gujan-Mestras; contact form via firm site.
-- **Tier:** 2
-- **Hook:** Authored the single most-cited practitioner-camp French commentary on the 2013 Cassation arrêt — the natural French-language recognition-camp interlocutor.
-
-### 7. Maître Caroline Mécary
-- **Firm:** Cabinet Mécary (Paris); sole partner / founder (firm created 1993)
-- **Firm URLs:** https://caroline-mecary.fr/ ; profile via Conseil National des Barreaux portal https://consultation.avocat.fr/avocat-paris/caroline-mecary-8236.html ; Wikipedia https://en.wikipedia.org/wiki/Caroline_M%C3%A9cary
-- **Bar:** Barreau de Paris (avocate spécialiste en droit de la famille); ancienne membre du Conseil de l'Ordre du Barreau de Paris
-- **Stance:** **not publicly confirmed on PA per se** — Mécary's published stance is on filiation, *homoparentalité*, PMA/GPA and parental-authority sharing; she has not published a PA-stance statement reachable from primary sources at the time of this directory
-- **Stance source:** Firm site PA-relevant pages on *autorité parentale* and *résidence de l'enfant* (https://caroline-mecary.fr/) ; original brief flagged her as "Christine Mécary" — correct name is **Caroline Mécary**, the well-known Paris LGBTQ+ family-law avocate
-- **Named cases / publications:** Pioneering French jurisprudence on adoption by the social parent post-PMA / GPA; counsel in *Mairie de Bègles* (first French same-sex marriage, 2004); 11 books on droit de la famille / homoparentalité.
-- **Primary contact:** Via firm site https://caroline-mecary.fr/contact/ ; consultation.avocat.fr/avocat-paris/caroline-mecary-8236.html
-- **Tier:** 3
-- **Hook:** Leading FR family-law avocate on non-traditional family structures — the natural entry point for cross-cutting LGBTQ+-family / PA conversations, but her direct PA stance must be sought, not assumed.
-- **Notes:** Original brief named "Christine Mécary" — that person is **not publicly confirmed**; the prominent Paris family-law avocate with the surname is **Caroline Mécary**. Listed here under the correct name for record correction.
-
-### 8. Maître Ambroise Soreau
-- **Firm:** Cabinet Soreau Avocat (Paris); droit de la famille / droit des pères
-- **Firm URL:** https://www.soreau-avocat.fr/ ; PA practice page https://www.soreau-avocat.fr/avocat-en-droit-des-peres-et-alienation-parentale
-- **Bar:** Barreau de Paris (admitted 2007; CAPA via École de formation du Barreau de Paris 2001; doctorat en droit)
-- **Stance:** recognition (treats SAP / aliénation parentale as a litigable phenomenon and presents it as gendered against fathers)
-- **Stance source:** Firm practice page explicitly framing aliénation parentale as a gendered phenomenon disadvantaging fathers — https://www.soreau-avocat.fr/avocat-en-droit-des-peres-et-alienation-parentale ; associations page citing SOS PAPA, PATERNET, CIRA https://www.soreau-avocat.fr/associations-sos-papa-paternet-cira
-- **Named cases / publications:** PA practice profile; collaborations cited with SOS PAPA / PATERNET / CIRA fathers'-rights associations.
-- **Primary contact:** 192 rue Lecourbe, 75015 Paris; +33 (0)1 48 42 01 81; contact@soreau-avocat.fr
-- **Tier:** 2
-- **Hook:** Most visible FR avocat openly running an "aliénation parentale" practice page — natural opposite-side interlocutor / press counterweight for any FR PA dossier.
-
-### 9. Maître Cyril Braniste
-- **Firm:** Cabinet Cyril Braniste (Paris); droit de la famille / droit pénal
-- **Firm URL:** https://www.cyrilbraniste.com/
-- **Bar:** Barreau de Paris (75001)
-- **Stance:** recognition (treats aliénation parentale and *emprise* as serious forms of psychological abuse requiring family-court and child-welfare action)
-- **Stance source:** Braniste, *"Aliénation parentale, emprise : retour d'expérience, regard d'un avocat,"* Village Justice (19 March 2021, last modified 14 Jan 2025) — https://www.village-justice.com/articles/alienation-parentale-emprise-retour-experience-regard-avocat,38510.html ; republished by ACALPA https://www.acalpa.info/blog/2021/03/21/regard-d-un-avocat-2/
-- **Named cases / publications:** *"Atteintes à l'autorité parentale, emprise, aliénation parentale, état de la Jurisprudence"* — review of two recent emblematic pleaded cases; periodic Village-Justice author.
-- **Primary contact:** Via firm site https://www.cyrilbraniste.com/ ; Pappers Justice profile https://justice.pappers.fr/avocat/braniste-cyril-75001
-- **Tier:** 2
-- **Hook:** Active recognition-camp Paris avocat with a 2021/2025-updated peer-reviewed-style commentary on French PA jurisprudence — the closest FR counterpart to a US "alienating-behaviour" practitioner-author.
-
----
-
-## Spain
-
-### 10. Asociación de Mujeres Juristas Themis (institutional) + named lead authors
-- **Institution:** Asociación de Mujeres Juristas Themis — Spain-wide feminist legal collective (lawyers, prosecutors, judges, court officers) providing free legal advice and policy analysis to women
-- **URL:** https://www.mujeresjuristasthemis.org/
-- **Bars represented:** Members across multiple ICAs (Madrid, Barcelona, Mallorca, Zaragoza, etc.) — institutional, not single-bar
-- **Stance:** critique (longest-standing organised Spanish-bar feminist critique of SAP and "coordinación de parentalidad" as covert SAP)
-- **Stance source:** Themis, *"Posicionamiento de la Asociación de Mujeres Juristas Themis sobre la Coordinación Parental"* — https://www.mujeresjuristasthemis.org/prensa/noticias/223-themis-posicionamiento-sobre-la-coordinacion-parental ; Themis study *"Tratamiento judicial dado a mujeres, sus hijas e hijos menores de edad en procedimientos de familia con violencia de género"* (full PDF) — https://www.mujeresjuristasthemis.org/images/ESTUDIO_COMPLETO_Tratamiento_judicial_mujeres_sus_hijas_e_hijos_menores_de_edad.pdf ; Inmujeres-archived position paper https://www.inmujeres.gob.es/publicacioneselectronicas/documentacion/Documentos/DE1832.pdf ; *Manifiesto jurídico feminista contra la Guía pro SAP del CGPJ* https://observatorioviolencia.org/manifiesto-juridico-feminista-contra-la-guia-pro-sindrome-de-alienacion-parental-del-cgpj/
-- **Named principal authors of the Themis SAP/coordinación-parental study:**
-  - **Pino de la Nuez Ruiz**
-  - **Altamira Gonzalo Valgañón** (Presidenta 2006–2010, Vicepresidenta 2019–2021; specialist in family law, gender and human rights)
-  - **María Durán Febrer** (Presidenta 1998–2002; current director of Institut Balear de la Dona; Manacor / Baleares)
-  - **Rosa Pérez-Villar Aparicio**
-  - Additional research team: Isabel Aramburu Muñoz, Carmen Estévez Estévez, Gemma Aibar Cerezo, Paloma García-Lozano Puente, María García Olcina, Altamira Guelbenzu Gonzalo, Paloma Rey Nuevo.
-- **Named cases / publications:** Themis 2024–2025 *Tratamiento judicial* study finding SAP still appears in ≈3.48% of analysed family-court rulings despite Ley Orgánica 8/2021 explicit exclusion; *Segundo Informe sobre Coordinación de Parentalidad* (2024) — https://www.mujeresjuristasthemis.org/prensa/noticias/240-rueda-de-prensa-presentacion-segundo-informe-sobre-coordinacion-de-parentalidad ; *Mujeres Juristas Themis denuncia fallos estructurales* (Lawyerpress, 18 June 2025) https://www.lawyerpress.com/2025/06/18/mujeres-juristas-themis-denuncia-fallos-estructurales-en-la-justicia-de-familia-ante-la-violencia-de-genero/
-- **Primary contact:** themis@mujeresjuristasthemis.org (institutional convention via mujeresjuristasthemis.org/contacto/); +34 91 540 09 87 (Madrid sede; confirm at site contact page).
-- **Tier:** 1
-- **Hook:** Themis is the single best-organised Spanish jurists' collective on SAP/coordinación-parental critique — opening to all three named former-presidentas (Gonzalo, Durán, plus Pérez-Villar) routes any Spanish-language critique pipeline.
-
-### 11. Altamira Gonzalo Valgañón
-- **Firm:** Independent abogada; member, Themis (Vicepresidenta 2019–2021; Presidenta 2006–2010); Vocal del Consejo General del Poder Judicial nominated 2024 (Lawyerpress 18 June 2025 release)
-- **URL:** Themis profile via https://www.mujeresjuristasthemis.org/ ; Wikipedia https://es.wikipedia.org/wiki/Altamira_Gonzalo
-- **Bar:** ICA Zaragoza (born Zaragoza, 1949); decades-long family-law / derecho comunitario practice
-- **Stance:** critique
-- **Stance source:** Quoted in Ameco Press, *"Juristas y psicólogas denuncian la imposición de la coordinación de parentalidad,"* characterising parental coordination as "terapia del miedo, amenaza y castigo para lograr el cumplimiento de las visitas no deseadas" — https://amecopress.net/Juristas-y-psicologas-denuncian-la-imposicion-de-la-coordinacion-de-parentalidad-en-los-juzgados-incluso-en-casos-de-violencia-de-genero ; named co-author of Themis 2024 *Tratamiento judicial* study.
-- **Named publications:** Themis *Tratamiento judicial* (2024); Themis *Segundo Informe sobre Coordinación de Parentalidad* (2024); regular Themis press-conference spokesperson on SAP / coordinación parental.
-- **Primary contact:** Via Themis sede — themis@mujeresjuristasthemis.org
-- **Tier:** 1
-- **Hook:** Themis vicepresidenta and current CGPJ vocal — the single highest-profile institutional Spanish jurist on the SAP critique side; doubles as press spokesperson.
-
-### 12. María Durán Febrer
-- **Firm:** Independent abogada feminista (Manacor / Mallorca); director del Institut Balear de la Dona since 2019; ex-presidenta Themis (1998–2002)
-- **URL:** Wikipedia https://es.wikipedia.org/wiki/Mar%C3%ADa_Dur%C3%A1n_Febrer ; IBD https://www.caib.es/govern/organigrama/area.do?coduo=46
-- **Bar:** ICAIB (Ilustre Colegio de la Abogacía de las Islas Baleares); decades-long family-law / gender-violence practice
-- **Stance:** critique
-- **Stance source:** Co-author Themis *Tratamiento judicial* study (URL above); Manacor Notícies profile https://www.manacornoticias.com/noticia.php?id=25310 ; *Ultima Hora* coverage of her IBD appointment https://www.ultimahora.es/noticias/local/2019/07/16/1094569/abogada-feminista-maria-duran-dirigira-institut-balear-dona.html
-- **Named publications:** Themis *Tratamiento judicial* (2024); ex-presidenta Themis publications on SAP throughout 2000s; PA-relevant institutional advocacy as IBD director.
-- **Primary contact:** Institut Balear de la Dona — Avinguda de Jaume III, 11, 07012 Palma; +34 971 17 89 90; ibdona@ibdona.caib.es
-- **Tier:** 2
-- **Hook:** Bridges Themis legal collective and Balearic regional government on PA / gender-violence policy — opens both NGO-jurist and regional-government doors in Spain.
-
----
-
-## Italy
-
-### 13. Avv. Titti Carrano (Differenza Donna / D.i.Re anti-violence centres legal counsel)
-- **Firm:** Lawyer associated with the **Associazione Differenza Donna** anti-violence centres (Roma) and the **D.i.Re – Donne in Rete contro la violenza** national network; ex-Presidente Nazionale D.i.Re
-- **Firm URLs:** https://www.differenzadonna.org/ ; https://www.direcontrolaviolenza.it/
-- **Bar:** Consiglio dell'Ordine degli Avvocati di Roma (specific Albo number **not publicly confirmed** in secondary sources)
-- **Stance:** critique
-- **Stance source:** Quoted across contemporaneous coverage of **Cass. civ. sez. I, ord. 24 marzo 2022, n. 9691 (caso Massaro)** — Il Post 25 March 2022 https://www.ilpost.it/2022/03/25/sindrome-alienazione-parentale-cassazione-laura-massaro/ ; D.i.Re institutional position https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/ ; D.i.Re Gruppo avvocate page https://www.direcontrolaviolenza.it/gruppo-avvocate/
-- **Named cases / publications:** Cass. civ. I 9691/2022 (Massaro) — leading advocate quoted on the ordinance's force; sustained national advocacy via D.i.Re on PA / alienazione genitoriale critique. See case study `/case-studies/cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md`.
-- **Primary contact:** Via Differenza Donna — Viale di Villa Pamphili, 100, 00152 Roma; +39 06 6810 7799; differenzadonna@differenzadonna.org
-- **Tier:** 1
-- **Hook:** Named legal voice on the most-cited Italian Cassation ordinance critical of PAS/alienazione genitoriale — single highest-leverage IT contact on the critique side.
-
-### 14. Avv. Elena Biaggioni (D.i.Re Gruppo Avvocate)
-- **Firm:** Member, D.i.Re – Donne in Rete contro la violenza, Gruppo Avvocate; private practice **not publicly confirmed** beyond D.i.Re affiliation
-- **URL:** D.i.Re Gruppo Avvocate page — https://www.direcontrolaviolenza.it/gruppo-avvocate/ (Biaggioni named as author of D.i.Re practitioner document *"Ammonimento per violenza domestica"*)
-- **Bar:** Consiglio dell'Ordine degli Avvocati (specific province **not publicly confirmed**)
-- **Stance:** critique (works within D.i.Re's institutional position against PAS / alienazione genitoriale as litigation tactic in DV cases)
-- **Stance source:** D.i.Re Gruppo Avvocate page (above); institutional D.i.Re PAS position https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/
-- **Named publications:** D.i.Re *"Ammonimento per violenza domestica"* practitioner brief.
-- **Primary contact:** Via D.i.Re segreteria — info@direcontrolaviolenza.it
-- **Tier:** 2
-- **Hook:** Only individually named avvocata on the public D.i.Re Gruppo Avvocate page — confirmable institutional voice second to Carrano.
-
-### 15. Avv. Marina Marconato
-- **Firm:** Studio Legale Marina Marconato (Padova / Roma practice)
-- **Firm URL:** https://www.studiolegalemarinamarconato.it/ ; alienazione-parentale practice page https://www.studiolegalemarinamarconato.it/news/1/alienazione-parentale
-- **Bar:** Consiglio dell'Ordine degli Avvocati (laureata La Sapienza Roma 1996; current Ordine **not publicly confirmed** between Padova and Roma)
-- **Stance:** critique (publishes on Cassazione decisions rejecting alienazione parentale / *bigenitorialità forzosa* and protecting minors)
-- **Stance source:** Marconato, *"IO RESTO QUI. I minori e la protezione della Corte di Cassazione: NO alla alienazione parentale ed alla bigenitorialità forzosa"* — http://studiolegalemarinamarconato.it/io-resto-qui-i-minori-e-la-protezione-della-corte-di-cassazione-no-alla-alienazione-parentale-e-alla-bigenitorialita-forzosa/ ; firm-site practice page (above).
-- **Named publications:** Practice-area writing on Cass. civ. I 9691/2022 and follow-on jurisprudence; sustained PA-critique focus from her firm-site newsroom.
-- **Primary contact:** Via firm site contact form; phone listed on https://www.studiolegalemarinamarconato.it/
-- **Tier:** 2
-- **Hook:** One of the few Italian individual avvocati with a publicly indexed "alienazione parentale" practice page from the critique camp — verifiable, citable, contactable.
-- **Notes:** Original brief named "Avv. Marina Marino, Roma" — that name resolves only to a LinkedIn-only profile (Viale Mazzini 11, Roma) with no PA publications. **Marina Marconato** is the publishing Italian avvocata on this exact topic; substituted with confirmed primary sources.
-
----
-
-## Netherlands
-
-### 16. mr. Geeske van Campen, Advocaat
-- **Firm:** Forward Advocaten ('s-Hertogenbosch + Tilburg)
-- **Firm URL:** https://forwardadvocaten.nl/ ; PA blog https://forwardadvocaten.nl/en/blog/2021/02/08/ouderverstoting/
-- **Bar:** Nederlandse Orde van Advocaten (NOvA) — specific Tableau-number **not publicly confirmed**; confirmed practicing advocaat at Forward Advocaten 's-Hertogenbosch office
-- **Stance:** middle (treats ouderverstoting as a litigable phenomenon and references the official Dutch Expertteam reports as procedural anchor)
-- **Stance source:** Van Campen, *"Ouderverstoting"* — Forward Advocaten blog 8 February 2021, citing *Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek* (Jan 2021) and Hoge Raad RFR 2021/26 — https://forwardadvocaten.nl/en/blog/2021/02/08/ouderverstoting/
-- **Named publications:** Forward Advocaten PA / ouderverstoting blog series tied to the official Dutch Expertteam reports (Jun 2020, Jan 2021); cites *Hoge Raad RFR 2021/26* on unilateral omgangsregeling-modification.
-- **Primary contact:** Forward Advocaten — Pettelaarpark 102, 5216 PR 's-Hertogenbosch; +31 (0)88 6007 800; info@forwardadvocaten.nl
-- **Tier:** 2
-- **Hook:** One of the few named Dutch advocaten with a published blog post tying personal practice to the official Expertteam Ouderverstoting / Complexe Omgangsproblematiek 2021 report — the natural NL practitioner-side entry point.
-- **Notes on Expertteam Ouderverstoting 2021:** Chaired by **familierechter Cees van Leuven** (Rechtbank Zeeland-West-Brabant; senior family judge). Van Leuven is a sitting judge, not a practitioner; he is therefore not eligible for this practitioner directory but is the single most-quoted Dutch authority on ouderverstoting (Pointer KRO-NCRV interviews; NPO Radio 1; Sdu Juridische Opleidingen instructor). Adviesrapport: https://vng.nl/sites/default/files/2021-03/rapport-ouderverstoting.pdf ; summary https://www.huiselijkgeweld.nl/publicaties/rapporten/2021/02/04/adviesrapport-expertteam-ouderverstoting-complexe-omgangsproblematiek-januari-2021
-
-### 17. Vereniging van Familie- en Erfrecht Advocaten Scheidingsmediators (vFAS) — institutional
-- **Institution:** vFAS — the largest Dutch specialisation association in family and inheritance law; trains and certifies family-law advocaat-scheidingsmediators
-- **URL:** https://verenigingfas.nl/ ; about https://verenigingfas.nl/welkom-bij-de-vfas/ ; nieuws https://verenigingfas.nl/nieuws/
-- **Stance:** middle (institutional emphasis on minimising adverse-consequences for children of divorce; PA-specific positioning is consistent with the Expertteam Ouderverstoting framework rather than the SAP/PAS framework)
-- **Stance source:** vFAS institutional positioning per *Welkom* and *Nieuws* pages (URLs above); vFAS-certified members trained in the post-Expertteam Ouderverstoting procedural framework
-- **Named cases / publications:** vFAS produces practitioner training and the *Tijdschrift Relatierecht en Praktijk*; specific public PA-statement document **not publicly confirmed** as a standalone vFAS press release
-- **Primary contact:** vFAS secretariaat — Postbus 13066, 3507 LB Utrecht; +31 (0)30 696 18 36; secretariaat@verenigingfas.nl
-- **Tier:** 2
-- **Hook:** The institutional gateway to certified Dutch family-law advocate-mediators — listing engages vFAS as a press / training partner without committing a single named lawyer.
-
----
-
-## Belgium
-
-### 18. Prof. Géraldine Mathieu (UNamur; former avocate Barreau de Namur)
-- **Firm / affiliation:** Professeur à la Faculté de droit, Université de Namur (UNamur); membre du comité de rédaction de la *Revue trimestrielle de droit familial* (RTDF); co-directrice de la collection *Droit et Familles* chez Anthemis; membre de la Commission nationale pour les Droits de l'Enfant; co-présidente de l'association *Famille & Droit*
-- **URLs:** https://researchportal.unamur.be/fr/persons/gmathieu/ ; https://www.unamur.be/en/profil/gmathieu ; Justice-en-ligne author profile https://www.justice-en-ligne.be/_Mathieu-Geraldine_
-- **Bar:** Barreau de Namur (avocate 2000–2007; now academic; OBFG records — specific tableau status **not publicly confirmed** post-2007)
-- **Stance:** middle (procedural / children's-rights focus; long-standing scholarly emphasis on the effectiveness of legal mechanisms protecting children — bridges DV-protection and contact-maintenance discourse)
-- **Stance source:** Editorial board of *Revue trimestrielle de droit familial* (the leading Belgian family-law journal that publishes PA-relevant commentary including the 2014 *De Cochem à Dinant* article) — https://www.larcier-intersentia.com/fr/revue-trimestrielle-de-droit-familial.html ; UNamur research-portal publications list (above); 2014–2019 expert for Defence for Children International Belgium (DEI Belgium)
-- **Named publications:** RTDF editorial-committee work; Anthemis *Droit et Familles* collection co-direction; DEI Belgium juvenile-justice research; UNamur Faculty of Law family-law / youth-law / philosophy-of-children's-rights courses.
-- **Primary contact:** geraldine.mathieu@unamur.be (UNamur convention; confirm via Faculté de droit secretariat); Justice-en-ligne contact form (URL above).
-- **Tier:** 2
-- **Hook:** Most institutionally-connected Belgian francophone children's-rights academic / former avocate — single best academic-press gateway for Belgian PA / ouderverstoting debate.
-
-### 19. Prof. Yves-Henri Leleu (avocat au Barreau de Liège; ULiège + ULB)
-- **Firm / affiliation:** Avocat au Barreau de Liège (Leleu-avocat — http://www.leleu-avocat.be/site/); Doyen de la Faculté de droit de l'Université de Liège (ULiège); professeur à l'Université libre de Bruxelles (ULB) Centre de droit privé
-- **URLs:** ULiège profile https://www.uliege.be/cms/c_9054334/fr/repertoire?uid=u040445 ; ULB Centre de droit privé https://droit-prive.ulb.be/experts/yves-henri-leleu/ ; firm site http://www.leleu-avocat.be/site/
-- **Bar:** OBFG / Ordre des Barreaux francophones et germanophone — Barreau de Liège
-- **Stance:** **not publicly confirmed on PA specifically** — Leleu's published positioning is on droit des personnes et des familles, divorce, régimes matrimoniaux, droit de la filiation; PA-specific stance not in his cited bibliography
-- **Stance source:** Author of *Droit des personnes et des familles* (Larcier, 4ème éd. 2020) — https://www.lgdj.fr/actualites-de-droit-familial-9782874550874.html ; ULiège / ULB family-law professorship (URLs above)
-- **Named publications:** *Droit des personnes et des familles* (2020, multiple editions); *Droit patrimonial des couples* (2021); *La transmission genrée du capital familial* (2024); 200+ articles / case notes in Belgian and foreign journals.
-- **Primary contact:** yveshenri.leleu@uliege.be (ULiège convention); via firm site http://www.leleu-avocat.be/site/contact ; Faculté de droit ULiège secretariat +32 (0)4 366 30 30
-- **Tier:** 3
-- **Hook:** Dean of Liège Faculty of Law and practicing avocat — opens academic-bar bridge for any BE PA legal-doctrine engagement, but his direct PA stance must be sought before strong attribution.
-
----
-
-## Honest gaps (per CONTRIBUTING.md "primary sources only" rule)
-
-- **Germany:** Original brief candidates **Andreas Hauser**, **Christian Lange**, and **Maja Smoltczyk** could not be verified as Familienrecht practitioners with PA-relevant work. (Smoltczyk is a former Berlin Data Protection Commissioner — administrative law, not family law — confirmed via https://de.wikipedia.org/wiki/Maja_Smoltczyk.) **Excluded**.
-- **France:** **Hélène Poivey-Leclercq** confirmed as a senior Paris family-law avocate (Cadiou Poivey-Leclercq & Associés) but no public PA-stance statement could be located from primary sources. **Excluded**. **Edwige Antier** is a pédiatre / former député, not an avocate — moved out of scope. **Stéphanie Lamy** is an essayist / sciences-po researcher (Abandon de Famille — Tolérance Zéro co-founder), not an avocate practising on PA — moved out of scope. Original brief "**Christine Mécary**" appears to be a misspelling of **Caroline Mécary**, who is included above under the corrected name.
-- **Spain:** **Sonia Vaccaro** is a clinical / forensic psychologist (not an abogada) — belongs in `/practitioners-eu-therapists.md`. **Lola Aguilar Madrid** could not be verified; the prominent Madrid abogada in this space is **Lola Calderón** (ICAM Sección de Violencia de Género) — included as a candidate for the next iteration. **Vicenta Esteve Valencia** could not be verified. **Cristina Hermida del Llano** is a catedrática de filosofía del derecho at URJC with no PA-specific publication located in primary sources; she is included on the editorial board of the Judicial Ethics Commission of CGPJ but not on this list.
-- **Italy:** **Marina Marino Roma**, **Cristina Mastroiacovo**, and **Lavinia Romano** could not be verified as PA-publishing avvocate in primary sources; **Antonella Faieta** is presidente of **Telefono Rosa**, not of D.i.Re (confirmed via https://www.ansa.it/donne/notizie/2025/01/30/antonella-faieta-nuova-presidente-di-telefono-rosa_12d639c7-d463-4bb5-bf12-3319a5272a6e.html), so the original brief's attribution to D.i.Re is corrected. **Avv. Marina Marconato** is the substituted IT critique-camp practitioner where the brief named "Marina Marino."
-- **Netherlands:** **mr. Marit Salomons** could not be verified at Salomons Beelaerts Advocaten or in the NOvA Tableau search; firm exists (Den Haag — https://www.salomonsbeelaerts.nl/en) but no individual by that name. **mr. Joep Vinkenvleugel** could not be verified. **Defence for Children Nederland** is institutional but not a Dutch-bar-registered law firm; included only by reference in the Mathieu / DEI Belgium entry.
-- **Belgium:** **Me Catherine Renson Liège** and **Mme Nicole Massez** could not be verified in OBFG / OVB registers. **L'Avocat des Enfants** as an organisation could not be confirmed as a standing Brussels-bar institutional body in primary sources (the *avocat de l'enfant* function exists procedurally before the Tribunal de la famille but is not a single named body). **Excluded**.
-- **Cross-jurisdiction:** **Philippe Kinoo** (Belgian child psychiatrist; lead author of the influential *Aliénation parentale, un concept à haut risque*, Études 2009/2 — https://shs.cairn.info/article/ETU_102_0187) is a clinician, not an avocat; belongs in `/practitioners-eu-therapists.md`.
-
-## Per-country stance distribution
-
-| Country | Recognition | Critique | Middle | Not publicly confirmed | Total |
-|---|---|---|---|---|---|
-| Germany | 0 | 1 (Bielefeld) | 2 (Becker, Schausten) | 0 | 3 |
-| France | 3 (SCP Waquet/Farge/Hazan, Bauer, Soreau, Braniste — count as 4 entries; Waquet+Bauer+Soreau+Braniste recognition) | 0 | 0 | 2 (SCP Richard, Mécary) | 6 |
-| Spain | 0 | 3 (Themis, Gonzalo, Durán) | 0 | 0 | 3 |
-| Italy | 0 | 3 (Carrano, Biaggioni, Marconato) | 0 | 0 | 3 |
-| Netherlands | 0 | 0 | 2 (Van Campen, vFAS) | 0 | 2 |
-| Belgium | 0 | 0 | 1 (Mathieu) | 1 (Leleu) | 2 |
-| **Total** | **4** | **7** | **5** | **3** | **19** |
-
-(Counting note: France has 6 entries spanning 4 named individuals plus the 2 SCP firms. Recognition column shows the recognition-camp entries; "not publicly confirmed" indicates entries included for record-completeness whose PA-specific stance is not in primary sources.)
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

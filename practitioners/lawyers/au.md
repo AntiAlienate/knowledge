@@ -1,247 +1,365 @@
-# Australia Lawyers — Parental Alienation Practitioner Directory
+# Practitioners — Australia — Lawyers
 
-**Schema version:** 1.0
-**Last updated:** 2026-05-25
-**License:** CC BY 4.0 (intended for github.com/AntiAlienate/antialienate-knowledge)
-**Scope:** Australian-admitted barristers, solicitors, Senior/King's Counsel, retired judges and legal academics who have (a) appeared as named counsel in a reported PA decision, (b) published in the field, (c) testified or sat on relevant working groups / Royal Commissions / Family Law Council, or (d) publicly stated a sourced stance. Retired judges and legal academics without current practising certificates are listed in a separate section because they cannot be approached as practitioners in the conventional sense — they are included because their published views are the load-bearing references in any Australian PA discussion.
+## Jurisdictional context
 
-**Standards:** All entries verified from primary sources (state Law Society / Bar Association profiles where available, firm / chambers / faculty website, AustLII / FCFCOA judgment portal, named press). Where a fact could not be confirmed from a public primary source it is flagged "**not publicly confirmed**".
+The Australian family-justice framework around Parental Alienation in legal practice sits on a Family Law Act 1975 (Cth) foundation as substantially reshaped by the Family Law Amendment Act 2023 (Cth) (commenced 6 May 2024), which repealed the s 61DA presumption of equal shared parental responsibility and the consequential s 65DAA shared-time consideration regime, recasting Part VII around a single 'best interests of the child' standard with safety from family violence as the primary consideration (s 60CC). Schedule 2 of the 2023 Amendment Act tightened the regulation of family report writers (court children's report writers / single experts under the Family Law Rules 2021 and Federal Circuit and Family Court Act 2021) — operating as the AU parallel to the UK Part 25 / Re Y evaluator-quality reform — by requiring prescribed qualifications and ongoing professional regulation for those preparing children's reports under ss 11F/62G. Schedule 2 is the load-bearing legislative artefact for any contemporary AU PA-evaluator-quality debate (cross-link case-study:re-y-2026-ewfc-38 as the parallel common-law-jurisdiction evaluator-quality reform).
 
-**Stance taxonomy:**
-- `recognition` — treats PA / alienating behaviour as a legitimate, litigable phenomenon worth pursuing in family court
-- `critique` — argues PA is misused in family court, especially against DV / family-violence survivors
-- `middle` — differentiated approach engaging both family-violence and alienating-behaviour frames; aligned with the post-2024-reform "best-interests-with-safety-primary" line
+The court architecture itself was rebuilt by the Federal Circuit and Family Court of Australia Act 2021 (Cth), which on 1 September 2021 merged the Family Court of Australia and the Federal Circuit Court into the Federal Circuit and Family Court of Australia (FCFCOA), Division 1 (the superior court / appellate jurisdiction, successor to the former Family Court of Australia) and Division 2 (general federal jurisdiction including family-law trials). The Hon Will Alstergren CJ is Chief Justice of both divisions. The post-merger FCFCOA Central Practice Direction — Family Law Case Management (Sept 2021) and the National Contravention List operate as the procedural backbone within which alienating-behaviour findings, transfer-of-residence orders and the use of single experts / court children's report writers are now made.
 
-**Tier:** 1 = primary outreach (directly central to the AU PA case-law / reform debate); 2 = secondary (relevant practice or institutional voice); 3 = background reference only.
+Lawyer regulation runs through a federated profession. Barristers practise through the state Bar Associations under the umbrella of the Australian Bar Association (ABA) — Victorian Bar, NSW Bar Association, Queensland Bar Association, WA Bar Association, SA Bar Association, Bar Association of the NT, Tasmanian Bar, ACT Bar Association — with senior-counsel/silk appointments by state. Solicitors are regulated by the state Law Societies (Law Society of NSW, Law Institute of Victoria, Queensland Law Society, Law Society of WA, Law Society of SA, Law Society of Tasmania, Law Society of the ACT, Law Society NT) under the uniform Legal Profession Uniform Law (currently in force in NSW, VIC, WA), with accredited-specialist family-law schemes operated by LIV, QLS, Law Society NSW and others. The Law Council of Australia (LCA) is the national peak body; its Family Law Section (FLS) is the load-bearing institutional voice for the practising-lawyer position on the 2023 Amendment Act reforms — the FLS Chair through the entire 2023-2024 reform window (Di Simpson, now Simpson J FCFCOA Div 1) signed the FLS submissions that frame the moderate-practitioner reading. Critique-axis entries (Rathus, Rhoades, Fehlberg, Matthews, WLSA institutional) cross-link case-study:bverfg-1-bvr-1076-23-germany-2023 as the cross-jurisdictional analogue for constitutional / structural critique of PA-frame deployment against DV-protective parents.
 
-**Note on jurisdiction:** Australia has a federal family-law system administered by the Federal Circuit and Family Court of Australia (FCFCOA, divisions 1 and 2). State/territory Bar Associations and Law Societies govern admission. The 2024 commencement of the Family Law Amendment Act 2023 repealed the s 61DA presumption of equal shared parental responsibility, which is the doctrinal backdrop to every entry below.
+## Structural findings
 
----
+- v1.0 carried 14 verified entries (4 recognition / 6 critique / 4 middle) across practising barristers, accredited specialist solicitors, retired judges, legal academics and institutional voices, plus a documented honest_gaps[] block. v2.0 preserves all 14 verified entries under the v2 single entries[] array — the schema has no separate judges[] section, so retired/sitting judges (Forrest SC, Simpson J, Bryant CJ retd) are preserved with id pattern au.<slug> and their judicial status declared in credentials/affiliation/stance_notes.
+- The Family Law Amendment Act 2023 (Cth) — commenced 6 May 2024 — is the doctrinal pivot of the directory. Repeal of the s 61DA equal shared parental responsibility presumption (Sch 1) and the Schedule 2 family-report-writer regulation reform together constitute the AU parallel to the UK Re Y [2026] EWFC 38 evaluator-quality apex. Entries that authored or shaped the reform (Rhoades 2024 JSWFL paper on the repeal; Parkinson 2024 SSRN on shared parenting interpretation; FLS Chair Simpson on the LCA submission line) cross-link case-study:re-y-2026-ewfc-38 in their respective doctrinal capacities.
+- The post-2021 FCFCOA merger means every sitting / retired family judge in this directory either served on the predecessor Family Court of Australia (Forrest SC 2011-2021; Bryant CJ 2004-2017) or sits on FCFCOA Division 1 (Simpson J, appointed from the FLS Chair role). This structural fact is preserved in affiliation strings so the directory remains coherent across the 2021 merger boundary.
+- Critique-camp concentration is academic + DV-sector institutional: Rathus (Griffith; the standard reference paper), Rhoades (Melbourne; past FLC Chair), Fehlberg (Melbourne; the standard family-law text), Matthews (WLSV; LIV Accredited Specialist), and Women's Legal Services Australia (institutional federation across all states/territories). This concentration mirrors the academic-and-DV-sector anchor of the UK critique camp (Barnett / Kaganas / Rights of Women).
+- Recognition camp concentration is at practising-Bar / specialist-firm level rather than academic level: Mort (Victorian Bar; ANZPAC 2025 keynote), Lynch (Brisbane Accredited Specialist firm), Forrest SC (former Magellan judge, now Bar; explicit alienation in practice menu), with Ludmer (ON, Canada) listed as cross-jurisdictional ANZPAC pointer. This 3+1 recognition concentration mirrors the UK 4PB recognition concentration (King KC / Shama).
+- Middle-axis entries (Young, Parkinson, Simpson J, Bryant CJ retd, Hollonds) span academic-decision-maker (Young), most-cited academic with reform engagement (Parkinson), FLS Chair through the reform window (Simpson), the era under whose Chief Justiceship modern AU PA jurisprudence stabilised (Bryant), and the children's-rights statutory voice (Hollonds, also on therapists v2 as au.hollonds-anne). Hollonds is the single cross-directory entry — preserved here on the lawyers list per v1.0 because of her statutory-submissions role, with explicit cross-link to practitioner:au.hollonds-anne on therapists v2.
+- Cross-link axis to therapists v2: practitioner:au.moloney-lawrie (Adjunct Professor Lawrie Moloney; therapists-v2 institutional/academic) and practitioner:au.humphreys-cathy (Professor Cathy Humphreys; therapists-v2 critique academic) are wired into Rhoades, Fehlberg, Rathus, Parkinson and WLSA entries as the load-bearing AU family-law-academic + DV-sector cross-discipline cross-references. Hollonds AO is the single shared entry between the lawyers and therapists directories (au.hollonds-anne on both).
 
 ## Recognition camp
 
-### 1. Darren Mort, Family Law Barrister
-- **Chambers:** Independent Family Law Bar, Melbourne (Owen Dixon Chambers tradition)
-- **Profile URL:** https://darrenmort.com.au/
-- **Bar admission:** Victorian Bar (35+ years at the Bar per profile; specific call year **not publicly confirmed** on website)
-- **Stance:** recognition
-- **Stance source:** Keynote / personal perspective on Parental Alienation, ANZPAC (Australia and New Zealand Parental Alienation Conference), 10 July 2025 — https://www.youtube.com/watch?v=Tss5FMoRoIg ; ongoing public commentary including TikTok/Law Live episode 44 — https://www.tiktok.com/@darrenmort/video/7474371259657178373
-- **Named cases / publications:**
-  - Speaker, ANZPAC 2025, "Parental Alienation" (personal and practitioner perspective)
-  - Founder, *To Be Loved* registered charity for children navigating separation — https://tobeloved.org.au/about/
-  - 2022 Barrister of the Year, Australian Law Awards — https://www.lawyersweekly.com.au/the-bar/35543-the-charitable-cause-driving-an-award-winning-barrister
-  - Director, Pacifica Congress (family-law professionals network) — https://pacificacongress.org/darren-mort/
-- **Primary contact:** Via clerk listing on https://darrenmort.com.au/ ; charity contact via https://tobeloved.org.au/
-- **Tier:** 1
-- **Hook:** Most senior publicly-PA-recognition Victorian barrister with an ANZPAC keynote on the record; entry point for any Victorian-Bar-level conversation about alienating behaviour.
+### Darren Mort
+*Barrister (Victorian Bar; 35+ years at the Bar per chambers profile; specific year of call not publicly confirmed); Founder, To Be Loved charity*
+Melbourne · Victoria · Independent Family Law Bar, Melbourne (Owen Dixon Chambers tradition); To Be Loved charity; Pacifica Congress (Director)
 
-### 2. Brian Ludmer — see Canada directory (cross-jurisdictional ANZPAC speaker)
-- Listed for completeness because Ludmer is the lead Anglosphere recognition-camp author and is a recurring ANZPAC speaker; full entry in `/practitioners-ca-lawyers.md`.
+**Stance:** Most senior publicly-PA-recognition Victorian barrister with an on-the-record ANZPAC 2025 (Australia and New Zealand Parental Alienation Conference) keynote — 'Parental Alienation' (personal and practitioner perspective), 10 July 2025. Ongoing public commentary via Law Live / TikTok episode 44. Founder of registered charity To Be Loved supporting children navigating separation. 2022 Barrister of the Year, Australian Law Awards. Recognition stance is grounded in public ANZPAC speaking record + charity founding rather than published practitioner-manual authorship.
 
-### 3. Michael Lynch, Accredited Family Law Specialist (Consultant)
-- **Firm:** Michael Lynch Family Lawyers, Brisbane
-- **Firm URL:** https://www.michaellynchfamilylawyers.com.au/
-- **Bar admission:** Queensland Law Society (Queensland Law Society Accredited Specialist in Family Law; 30+ years per firm profile; specific year of admission **not publicly confirmed** on firm site) — https://au.linkedin.com/in/michael-lynch-family-lawyer
-- **Stance:** recognition
-- **Stance source:** Firm-published practitioner articles "What is parental alienation?" and "What parents should know about parental alienation" — https://www.michaellynchfamilylawyers.com.au/what-is-parental-alienation-2/ ; https://www.michaellynchfamilylawyers.com.au/what-parents-should-know-about-parental-alienation/
-- **Named cases / publications:**
-  - Firm "Family Flyer" practitioner newsletter, multiple PA editions
-  - One of the largest specialist family-law firms in Queensland; most lawyers are QLS Accredited Specialists in Family Law
-- **Primary contact:** (07) 3221 4300 ; firm contact form at https://www.michaellynchfamilylawyers.com.au/contact/
-- **Tier:** 2
-- **Hook:** Recognition-framed Queensland specialist firm with public-facing PA content — natural QLD outreach counterpart to NSW/VIC voices.
+**Publications:**
+- Parental Alienation — ANZPAC 2025 keynote (Australia and New Zealand Parental Alienation Conference) (2025) — *ANZPAC 2025* — <https://www.youtube.com/watch?v=Tss5FMoRoIg>
+- Law Live / TikTok episode 44 — Parental Alienation commentary (2024) — *TikTok @darrenmort* — <https://www.tiktok.com/@darrenmort/video/7474371259657178373>
+- 2022 Barrister of the Year — Australian Law Awards (charitable cause profile) (2022) — *Lawyers Weekly* — <https://www.lawyersweekly.com.au/the-bar/35543-the-charitable-cause-driving-an-award-winning-barrister>
 
-### 4. The Honourable Colin J. Forrest SC (retired judge, now Bar / mediator)
-- **Chambers:** Family Law Chambers, Brisbane; also lists with Victorian Bar
-- **Chambers URL:** https://www.colinforrest.com.au/ ; https://www.familylawchambers.com.au/barrister/the-hon-colin-forrest-sc/ ; https://www.vicbar.com.au/profile/9988
-- **Bar admission:** NSW (UNSW Arts/Law 1986), Queensland, Victoria; took silk 2010; appointed to trial division Family Court of Australia 2011; resigned 2021; returned to Bar
-- **Stance:** recognition (case-list expressly includes "alienation" as a practice area)
-- **Stance source:** Chambers profile lists complex parenting disputes including "alienation" alongside relocation, mental illness, drugs and alcohol — https://www.colinforrest.com.au/ ; https://www.familylawchambers.com.au/barrister/the-hon-colin-forrest-sc/
-- **Named cases / publications:**
-  - 10 years as trial judge of the Family Court of Australia, Brisbane Registry (2011-2021), including service as Brisbane Registry Magellan Judge (child sexual abuse list) and Hague Judge
-  - Member, Chief Justice Diana Bryant's Court Policy Advisory Committee
-  - Now-published judgments under his name on AustLII — http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FamCA/ (specific PA-finding citations **not enumerated** on chambers site)
-- **Primary contact:** Executive Assistant Ly Bui, (07) 3517 7906, Ly@colinforrest.com.au
-- **Tier:** 1
-- **Hook:** Former Magellan judge now back at the Bar with PA explicitly on his practice menu — the single highest-credential recognition-camp practitioner in QLD.
+**Verification:**
+- <https://darrenmort.com.au/>
+- <https://tobeloved.org.au/about/>
+- <https://pacificacongress.org/darren-mort/>
+- <https://www.vicbar.com.au/>
 
-### 5. Forrest Family Lawyers — see firm-level entry
-- Note: "Forrest Family Lawyers" (Brisbane firm) is separate from Colin Forrest SC's chambers practice. Firm details **not publicly confirmed** on a single canonical website at time of writing; flagged here so AntiAlienate readers do not conflate the two "Forrest" entities.
+**Contact:** Clerk listing via https://darrenmort.com.au/ ; charity contact via https://tobeloved.org.au/
 
----
+*Notes: Victorian Bar membership verified via chambers profile and ANZPAC speaker listing. Year of call not publicly enumerated on website. To Be Loved charity registration verified via charity site.*
+
+**See also:** `jurisdiction:australia`, `case-study:re-y-2026-ewfc-38`, `practitioner:au.lynch-michael`, `practitioner:au.forrest-colin-sc`
+
+<sub>ID: `au.mort-darren`</sub>
+
+### Michael Lynch
+*Solicitor (Queensland Law Society); Queensland Law Society Accredited Specialist in Family Law (30+ years per firm profile; specific year of admission not publicly confirmed)*
+Brisbane · Queensland · Michael Lynch Family Lawyers (Brisbane) — Principal / Consultant Accredited Specialist
+
+**Stance:** Recognition-framed Queensland specialist firm with public-facing PA practitioner content — 'What is parental alienation?' and 'What parents should know about parental alienation' published on the firm site. One of the largest specialist family-law firms in QLD with most lawyers as QLS Accredited Specialists. Natural QLD outreach counterpart to NSW/VIC recognition-camp voices. Stance is recognition grounded in firm-published PA articles and Family Flyer practitioner newsletter (multiple PA editions).
+
+**Publications:**
+- What is parental alienation? (2023) — *Michael Lynch Family Lawyers (firm article)* — <https://www.michaellynchfamilylawyers.com.au/what-is-parental-alienation-2/>
+- What parents should know about parental alienation (2023) — *Michael Lynch Family Lawyers (firm article)* — <https://www.michaellynchfamilylawyers.com.au/what-parents-should-know-about-parental-alienation/>
+- Family Flyer practitioner newsletter (multiple PA editions) (2024) — *Michael Lynch Family Lawyers*
+
+**Verification:**
+- <https://www.michaellynchfamilylawyers.com.au/>
+- <https://au.linkedin.com/in/michael-lynch-family-lawyer>
+- <https://www.qls.com.au/>
+
+**Contact:** (07) 3221 4300 ; firm contact form at https://www.michaellynchfamilylawyers.com.au/contact/
+
+*Notes: QLS Accredited Specialist in Family Law verified via firm profile. Specific year of admission not publicly confirmed on firm site.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.mort-darren`, `practitioner:au.forrest-colin-sc`
+
+<sub>ID: `au.lynch-michael`</sub>
+
+### The Hon. Colin J. Forrest SC
+*Barrister (admitted NSW 1986 (UNSW Arts/Law); also QLD and VIC); Senior Counsel (silk 2010); former Judge of the Family Court of Australia (trial division, 2011-2021; resigned 2021 and returned to the Bar)*
+Brisbane · Queensland · Family Law Chambers (Brisbane); also lists with Victorian Bar
+
+**Stance:** Former Magellan judge (Brisbane Registry child sexual abuse list) and Hague judge (Brisbane Registry) now back at the Bar with PA explicitly on his practice menu — chambers profile lists 'alienation' as a practice area alongside relocation, mental illness, and drugs and alcohol. Single highest-credential recognition-camp practitioner in QLD. Member of Chief Justice Diana Bryant's Court Policy Advisory Committee. 10 years as trial judge of the Family Court of Australia (2011-2021) means a body of published judgments under his name on AustLII (specific PA-finding citations not enumerated on the chambers site). Distinct from the 'Forrest Family Lawyers' Brisbane firm — do not conflate.
+
+**Publications:**
+- Family Law Chambers (Brisbane) profile — practice areas including 'alienation' (2024) — *Family Law Chambers* — <https://www.familylawchambers.com.au/barrister/the-hon-colin-forrest-sc/>
+- Forrest SC judgments as Judge of the Family Court of Australia 2011-2021 (AustLII) (2021) — *AustLII* — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FamCA/>
+
+**Verification:**
+- <https://www.colinforrest.com.au/>
+- <https://www.familylawchambers.com.au/barrister/the-hon-colin-forrest-sc/>
+- <https://www.vicbar.com.au/profile/9988>
+
+**Contact:** Executive Assistant Ly Bui, (07) 3517 7906, Ly@colinforrest.com.au
+
+*Notes: Silk 2010 / appointment FCA 2011 / resignation 2021 verified via chambers profile and Victorian Bar profile. PA on practice menu verified via familylawchambers.com.au profile.*
+
+**See also:** `jurisdiction:australia`, `case-study:re-y-2026-ewfc-38`, `practitioner:au.mort-darren`, `practitioner:au.bryant-diana-cj`
+
+<sub>ID: `au.forrest-colin-sc`</sub>
 
 ## Critique camp
 
-### 6. Dr Zoe Rathus AM, Senior Lecturer
-- **Institution:** Griffith University Law School, Brisbane, Queensland
-- **Profile URL:** https://experts.griffith.edu.au/18507-zoe-rathus ; publications https://experts.griffith.edu.au/18507-zoe-rathus/publications
-- **Bar admission:** Admitted to legal practice in 1981 (Queensland); former Director, Women's Legal Service Brisbane 1989-2004 (per Griffith profile); current barring status as a practising solicitor **not publicly confirmed** — primary role is academic
-- **Stance:** critique
-- **Stance source:** Co-author of "A history of the use of the concept of parental alienation in the Australian family law system: contradictions, collisions and their consequences" (2020) 42(1) *Journal of Social Welfare and Family Law* 5 — https://www.tandfonline.com/doi/abs/10.1080/09649069.2019.1701920 ; presenter "Unpacking Family Law: Reforms, Family Violence and Parental Alienation" Family Law Pathways Network 2025 — https://qldflpn.org.au/wp-content/uploads/2025/03/Unpacking-Family-Law-Slides-Zoe-Rathus-1.pdf ; opinion piece "*Parental alienation*: the debunked theory that women lie about violence is still used in court," *The Conversation* — https://theconversation.com/parental-alienation-the-debunked-theory-that-women-lie-about-violence-is-still-used-in-court-125823
-- **Named cases / publications:**
-  - Rathus, "A history of the use of the concept of parental alienation in the Australian family law system" (2020) — also lodged as Australian Parliamentary Library reference paper https://www.aph.gov.au/DocumentStore.ashx?id=db6ed84e-8c04-4619-9384-47ea2c75f012&subId=691163
-  - "Social Science or 'Lego-Science'? Presumptions, Politics, Parenting and the New Family Law" — https://www.researchgate.net/publication/50387384_Social_Science_or_'Lego-Science'_Presumptions_Politics_Parenting_and_the_New_Family_Law
-  - 2025 conference slide deck "Unpacking Family Law: Reforms, Family Violence and Parental Alienation"
-  - Order of Australia (AM) for service to law and social justice (2011); Queensland Women Lawyer of the Year 2001
-- **Primary contact:** z.rathus@griffith.edu.au ; Griffith Law School, Nathan campus
-- **Tier:** 1
-- **Hook:** The single most-cited Australian academic on the PA-and-family-violence intersection; her 2020 *JSWFL* paper is now the standard reference in every Australian critique-camp argument and is footnoted in the Parliamentary Library briefing — every serious AntiAlienate response to AU critics must engage with her work.
+### Dr Zoe Rathus AM
+*Senior Lecturer (Griffith Law School); admitted to legal practice 1981 (Queensland); former Director Women's Legal Service Brisbane 1989-2004; Member of the Order of Australia (AM) 2011; Queensland Women Lawyer of the Year 2001*
+Brisbane · Queensland · Griffith University Law School, Brisbane
 
-### 7. Professor Helen Rhoades, Honorary Professorial Fellow
-- **Institution:** Melbourne Law School, University of Melbourne
-- **Profile URL:** https://law.unimelb.edu.au/about/staff/helen-rhoades ; https://findanexpert.unimelb.edu.au/profile/14384-helen-rhoades
-- **Bar admission:** Practising-certificate status **not publicly confirmed**; primary role is academic and policy. Past Chair of the Family Law Council (2010-2016).
-- **Stance:** critique (DV-protective; sceptical of presumptive shared-care frames)
-- **Stance source:** "The Dangers of Shared Care Legislation: Why Australia Needs (Yet More) Family Law Reform" (2008) 36(3) *Federal Law Review* 279 — http://classic.austlii.edu.au/au/journals/FedLawRw/2008/12.html ; "The repeal of Australia's problematic family law presumption (and other amendments): cautiously welcomed – but what has been lost?" (2024) *Journal of Social Welfare and Family Law* — https://www.tandfonline.com/doi/full/10.1080/09649069.2024.2414622
-- **Named cases / publications:**
-  - Past Chair, Family Law Council (2010-2016) — led reviews on parentage law, ATSI families in the family-law system, and complex-needs families
-  - Co-editor, *Vulnerable Children and the Law* (with Rosemary Sheehan and Nicky Stanley, 2012)
-  - Numerous empirical studies on inter-professional collaboration in the family-law system
-- **Primary contact:** Via Melbourne Law School staff page https://law.unimelb.edu.au/about/staff/helen-rhoades
-- **Tier:** 1
-- **Hook:** Past Chair of the Family Law Council — the most institutionally weighted critique-leaning voice in Australia; her 2024 paper on the post-reform landscape is the standard counterpoint to the recognition-camp reading of the same amendments.
+**Stance:** Single most-cited Australian academic on the PA-and-family-violence intersection. Her 2020 JSWFL paper 'A history of the use of the concept of parental alienation in the Australian family law system' (42(1) JSWFL 5) is the standard reference in every Australian critique-camp argument and is footnoted in the Australian Parliamentary Library reference paper that informed the 2023 Amendment Act passage. 2025 Family Law Pathways Network conference deck 'Unpacking Family Law: Reforms, Family Violence and Parental Alienation' is the post-reform restatement of the position. The Conversation op-ed cements the public-facing critique frame ('the debunked theory that women lie about violence is still used in court'). Stance is doctrinal-critique grounded in 30+ years of DV-protective practice and academic publication.
 
-### 8. Professor Belinda Fehlberg
-- **Institution:** Melbourne Law School, University of Melbourne
-- **Profile URL:** https://law.unimelb.edu.au/about/staff/belinda-fehlberg ; https://findanexpert.unimelb.edu.au/profile/13167-belinda-fehlberg ; Cambridge Family Law Centre profile https://www.family.law.cam.ac.uk/professor-belinda-fehlberg
-- **Bar admission:** Practising-certificate status **not publicly confirmed**; primary role is academic
-- **Stance:** critique-leaning middle (formal-equality critique; treats PA framing with caution; emphasises family-violence research base)
-- **Stance source:** Lead author, *Australian Family Law: The Contemporary Context* (OUP, 2nd ed 2015) — https://www.amazon.com/Australian-Family-Law-Contemporary-Context/dp/0195574338 ; "The Perils and Pitfalls of Formal Equality in Australian Family Law Reform" (2018) 46(3) *Federal Law Review* 367, with Lisa Sarmas and Jenny Morgan — https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3299223 ; Royal Commission into Family Violence (Vic) submission — http://rcfv.archive.royalcommission.vic.gov.au/getattachment/80F55E63-388C-4D0D-B3BE-C6E000A7D5BC/Fehlberg,-Professor-Belinda-Melbourne-Law-School.pdf
-- **Named cases / publications:**
-  - *Australian Family Law: The Contemporary Context* (OUP) — co-authored with Rae Kaspiew, Jenni Millbank, Fiona Kelly, Juliet Behrens
-  - "The high court and family law: financial disputes" (2022) 35 *Australian Journal of Family Law* 217 (with Richard Chisholm)
-  - Witness statement to Victorian Royal Commission into Family Violence
-- **Primary contact:** Via Melbourne Law School staff page
-- **Tier:** 2
-- **Hook:** Lead author of the standard Australian family-law academic textbook; engages PA discourse through a formal-equality / family-violence research lens rather than head-on advocacy.
+**Publications:**
+- A history of the use of the concept of parental alienation in the Australian family law system: contradictions, collisions and their consequences (2020) — *Journal of Social Welfare and Family Law 42(1):5-17* — <https://www.tandfonline.com/doi/abs/10.1080/09649069.2019.1701920>
+- A history of the use of the concept of parental alienation in the Australian family law system — Parliamentary Library reference paper version (2020) — *Australian Parliamentary Library* — <https://www.aph.gov.au/DocumentStore.ashx?id=db6ed84e-8c04-4619-9384-47ea2c75f012&subId=691163>
+- Social Science or 'Lego-Science'? Presumptions, Politics, Parenting and the New Family Law (2010) — *ResearchGate* — <https://www.researchgate.net/publication/50387384>
+- Unpacking Family Law: Reforms, Family Violence and Parental Alienation (Family Law Pathways Network 2025) (2025) — *Qld Family Law Pathways Network* — <https://qldflpn.org.au/wp-content/uploads/2025/03/Unpacking-Family-Law-Slides-Zoe-Rathus-1.pdf>
+- Parental alienation: the debunked theory that women lie about violence is still used in court (2019) — *The Conversation* — <https://theconversation.com/parental-alienation-the-debunked-theory-that-women-lie-about-violence-is-still-used-in-court-125823>
 
-### 9. Professor Lisa Young
-- **Institution:** Murdoch University Law School, Perth, Western Australia
-- **Profile URL:** https://researchportal.murdoch.edu.au/esploro/profile/lisa_young ; publications https://researchrepository.murdoch.edu.au/view/author/Young,_Lisa.html ; https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=1724560
-- **Bar admission:** WA practising-certificate status **not publicly confirmed**; 30+ years teaching / researching / practising per Murdoch profile; current Chair of a Government Panel reviewing decisions about children in out-of-home care
-- **Stance:** middle / family-violence-aware (research areas include parenting disputes and family violence; no public recognition-camp advocacy)
-- **Stance source:** Murdoch researcher profile — https://researchportal.murdoch.edu.au/esploro/profile/lisa_young ; Queen Mary University of London CLPN profile — https://www.qmul.ac.uk/clpn/members/y/profiles/young.html ; co-author of a leading Australian text on family law and former General Editor of the *Australian Journal of Family Law*
-- **Named cases / publications:**
-  - Co-author, leading Australian family-law text (specific title **not publicly confirmed** on profile)
-  - Former General Editor, *Australian Journal of Family Law*
-  - Current Chair, government panel reviewing decisions about children in out-of-home care
-  - Long-serving government decision-maker in child support (20+ years)
-- **Primary contact:** Via Murdoch Law School staff page https://www.murdoch.edu.au/contact-us
-- **Tier:** 2
-- **Hook:** WA / west-coast academic voice with simultaneous decision-maker role — provides the missing west-coast geographic balance.
+**Verification:**
+- <https://experts.griffith.edu.au/18507-zoe-rathus>
+- <https://experts.griffith.edu.au/18507-zoe-rathus/publications>
 
-### 10. Helen Matthews, Accredited Family Law Specialist
-- **Organisation:** Women's Legal Service Victoria (WLSV)
-- **Organisation URL:** https://www.womenslegal.org.au/ ; statewide free legal service for women / non-binary people experiencing family violence, sexual violence and relationship breakdown
-- **Bar admission:** Law Institute of Victoria — Accredited Specialist in Family Law; specific year of admission **not publicly confirmed**; senior policy roles at WLSV per LinkedIn https://au.linkedin.com/in/helen-matthews-131b0064
-- **Stance:** critique (DV-protective)
-- **Stance source:** Witness statement to Victorian Royal Commission into Family Violence — http://rcfv.archive.royalcommission.vic.gov.au/MediaLibraries/RCFamilyViolence/Statements/WIT-0110-001-0001-Matthews-15.pdf ; WLSV submission to Victoria Legal Aid family law review — https://www.legalaid.vic.gov.au/sites/default/files/vla/vla-family-law-review-womens-legal-service-submission.doc
-- **Named cases / publications:**
-  - Royal Commission into Family Violence (Vic) — witness statement
-  - VLA Family Law Review submission (lead drafter for WLSV)
-  - Multiple parliamentary inquiry appearances on family violence and family law on behalf of WLSV
-- **Primary contact:** Via WLSV intake / contact form at https://www.womenslegal.org.au/contact/ ; advocacy contact via https://www.womenslegal.org.au/creating-change/
-- **Tier:** 2
-- **Hook:** Practising accredited family-law specialist (not academic) inside the DV-protective sector — bridges the academic critique camp to actual frontline casework.
+**Contact:** z.rathus@griffith.edu.au ; Griffith Law School, Nathan campus
 
-### 11. Women's Legal Services Australia (WLSA) — national peak body
-- **Organisation:** Women's Legal Services Australia (national federation of state/territory Women's Legal Services)
-- **URL:** https://wlsa.org.au/ ; submissions index https://wlsa.org.au/submissions/
-- **Stance:** critique (DV-protective; submissions repeatedly raise concern about PA framing in family-violence cases)
-- **Stance source:** WLSA submission to the National Children's Commissioner re Family Law — https://humanrights.gov.au/sites/default/files/womens_legal_services_australia_submission_redacted_0.pdf ; Family Law Amendment Bill 2024 advocacy — https://wlsa.org.au/submissions/
-- **Member services to approach for individual practitioner outreach:** Women's Legal Service NSW (https://www.wlsnsw.org.au/), Women's Legal Service Victoria (above), Women's Legal Service Queensland (https://wlsq.org.au/), Women's Legal Service WA (https://www.wlswa.org.au/), Women's Legal Service Tasmania, Women's Legal Service SA, Women's Legal Centre ACT (https://wlc.org.au/), Women's Legal Service NT
-- **Tier:** 2 (institutional; individual lawyers within each member service will be the named practitioners for any specific case-level outreach)
-- **Hook:** Single point of access into the critique-camp legal sector across all states/territories.
+*Notes: Griffith profile + Order of Australia (AM) verified via Griffith experts directory. Year of admission 1981 verified via Griffith profile. Current practising-certificate status not publicly confirmed; primary role academic.*
+
+**See also:** `jurisdiction:australia`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:au.rhoades-helen`, `practitioner:au.fehlberg-belinda`, `practitioner:au.matthews-helen`, `practitioner:au.humphreys-cathy`, `practitioner:au.moloney-lawrie`
+
+<sub>ID: `au.rathus-zoe`</sub>
+
+### Professor Helen Rhoades
+*Honorary Professorial Fellow (Melbourne Law School); past Chair, Family Law Council of Australia (2010-2016); practising-certificate status not publicly confirmed (primary role academic and policy)*
+Melbourne · Victoria · Melbourne Law School, University of Melbourne
+
+**Stance:** Past Chair of the Family Law Council (2010-2016) — the most institutionally weighted critique-leaning voice in Australia. Her 2024 JSWFL paper 'The repeal of Australia's problematic family law presumption (and other amendments): cautiously welcomed — but what has been lost?' is the standard counterpoint to the recognition-camp reading of the Family Law Amendment Act 2023 (Cth) (commenced 6 May 2024). 2008 Federal Law Review paper 'The Dangers of Shared Care Legislation' provided the doctrinal foundation for the eventual repeal of the s 61DA presumption. Stance is doctrinal-critique grounded in DV-protective scholarship and FLC chairmanship — the AU analogue of Kaganas's UK role.
+
+**Publications:**
+- The Dangers of Shared Care Legislation: Why Australia Needs (Yet More) Family Law Reform (2008) — *Federal Law Review 36(3):279* — <http://classic.austlii.edu.au/au/journals/FedLawRw/2008/12.html>
+- The repeal of Australia's problematic family law presumption (and other amendments): cautiously welcomed — but what has been lost? (2024) — *Journal of Social Welfare and Family Law* — <https://www.tandfonline.com/doi/full/10.1080/09649069.2024.2414622>
+- Vulnerable Children and the Law (co-editor with Sheehan and Stanley) (2012) — *Jessica Kingsley Publishers*
+
+**Verification:**
+- <https://law.unimelb.edu.au/about/staff/helen-rhoades>
+- <https://findanexpert.unimelb.edu.au/profile/14384-helen-rhoades>
+
+**Contact:** Via Melbourne Law School staff page https://law.unimelb.edu.au/about/staff/helen-rhoades
+
+*Notes: Past Chair FLC 2010-2016 verified via Melbourne Law School staff page and FLC public composition records. Practising-certificate status not publicly confirmed; primary role academic and policy.*
+
+**See also:** `jurisdiction:australia`, `case-study:re-y-2026-ewfc-38`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:au.rathus-zoe`, `practitioner:au.fehlberg-belinda`, `practitioner:au.parkinson-patrick`, `practitioner:au.humphreys-cathy`, `practitioner:au.moloney-lawrie`
+
+<sub>ID: `au.rhoades-helen`</sub>
+
+### Professor Belinda Fehlberg
+*Professor of Law (Melbourne Law School); practising-certificate status not publicly confirmed (primary role academic)*
+Melbourne · Victoria · Melbourne Law School, University of Melbourne; Cambridge Family Law Centre
+
+**Stance:** Lead author of the standard Australian family-law academic textbook (Australian Family Law: The Contemporary Context, OUP). Engages PA discourse through a formal-equality / family-violence research lens. Witness statement to the Victorian Royal Commission into Family Violence anchors her in the DV-protective sector. 2018 Federal Law Review paper 'The Perils and Pitfalls of Formal Equality in Australian Family Law Reform' is the doctrinal counterpart to Rhoades' shared-care critique. Stance is academic-critique grounded in DV-sector scholarship and textbook authorship.
+
+**Publications:**
+- Australian Family Law: The Contemporary Context (2nd ed; lead author) (2015) — *Oxford University Press*
+- The Perils and Pitfalls of Formal Equality in Australian Family Law Reform (2018) — *Federal Law Review 46(3):367* — <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3299223>
+- The high court and family law: financial disputes (with Chisholm) (2022) — *Australian Journal of Family Law 35:217*
+- Witness statement to the Victorian Royal Commission into Family Violence (2015) — *Royal Commission into Family Violence (Victoria)* — <http://rcfv.archive.royalcommission.vic.gov.au/getattachment/80F55E63-388C-4D0D-B3BE-C6E000A7D5BC/Fehlberg,-Professor-Belinda-Melbourne-Law-School.pdf>
+
+**Verification:**
+- <https://law.unimelb.edu.au/about/staff/belinda-fehlberg>
+- <https://www.family.law.cam.ac.uk/professor-belinda-fehlberg>
+
+**Contact:** Via Melbourne Law School staff page https://law.unimelb.edu.au/about/staff/belinda-fehlberg
+
+*Notes: Melbourne Law School affiliation and Cambridge Family Law Centre profile verified. Practising-certificate status not publicly confirmed; primary role academic.*
+
+**See also:** `jurisdiction:australia`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:au.rhoades-helen`, `practitioner:au.rathus-zoe`, `practitioner:au.humphreys-cathy`
+
+<sub>ID: `au.fehlberg-belinda`</sub>
+
+### Helen Matthews
+*Solicitor (Victoria) — Law Institute of Victoria Accredited Specialist in Family Law (specific year of admission not publicly confirmed); senior policy roles at Women's Legal Service Victoria*
+Melbourne · Victoria · Women's Legal Service Victoria (WLSV) — senior practitioner / policy lead
+
+**Stance:** Practising LIV Accredited Specialist in Family Law (not academic) inside the DV-protective sector — bridges academic critique to frontline casework. Witness statement to the Victorian Royal Commission into Family Violence; multiple parliamentary inquiry appearances on family violence and family law for WLSV; lead author on WLSV submission to the Victoria Legal Aid family-law review. Stance is institutional-critique grounded in frontline DV / family-law advice work for women.
+
+**Publications:**
+- Witness statement to the Victorian Royal Commission into Family Violence (2015) — *Royal Commission into Family Violence (Victoria)* — <http://rcfv.archive.royalcommission.vic.gov.au/MediaLibraries/RCFamilyViolence/Statements/WIT-0110-001-0001-Matthews-15.pdf>
+- WLSV submission to the Victoria Legal Aid family-law review (2016) — *Victoria Legal Aid* — <https://www.legalaid.vic.gov.au/sites/default/files/vla/vla-family-law-review-womens-legal-service-submission.doc>
+- Multiple parliamentary inquiry appearances on family violence and family law for WLSV (2020) — *Parliament of Victoria / Australian Parliament*
+
+**Verification:**
+- <https://www.womenslegal.org.au/>
+- <https://www.womenslegal.org.au/creating-change/>
+- <https://www.liv.asn.au/>
+
+**Contact:** Via WLSV intake / contact form at https://www.womenslegal.org.au/contact/ ; advocacy https://www.womenslegal.org.au/creating-change/
+
+*Notes: LIV Accredited Specialist + senior WLSV roles verified via WLSV profile and Royal Commission witness statement. Specific year of admission not publicly confirmed.*
+
+**See also:** `jurisdiction:australia`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:au.wlsa-institutional`, `practitioner:au.rathus-zoe`, `practitioner:au.humphreys-cathy`
+
+<sub>ID: `au.matthews-helen`</sub>
+
+## Middle / methodological camp
+
+### Professor Lisa Young
+*Professor of Law (Murdoch University Law School); 30+ years teaching/researching/practising per Murdoch profile; current Chair, government panel reviewing decisions about children in out-of-home care; long-serving government decision-maker in child support (20+ years); former General Editor, Australian Journal of Family Law; WA practising-certificate status not publicly confirmed*
+Perth · Western Australia · Murdoch University Law School, Perth; Queen Mary University CLPN
+
+**Stance:** WA / west-coast academic voice with simultaneous decision-maker role — provides the missing west-coast geographic balance to the Melbourne/Sydney/Brisbane critique-and-recognition concentration. Co-author of a leading Australian family-law text (specific title not publicly confirmed on profile). Former General Editor of the Australian Journal of Family Law. Current Chair of a government panel reviewing decisions about children in out-of-home care. Stance is coded middle on a cautious reading of public profile — no overt critique-camp publication located and decision-maker neutrality is the salient public posture.
+
+**Publications:**
+- Co-author of a leading Australian family-law text (specific title not publicly confirmed on profile) (2020) — *Australian family-law academic text*
+- Former General Editor, Australian Journal of Family Law (2018) — *Australian Journal of Family Law*
+
+**Verification:**
+- <https://researchportal.murdoch.edu.au/esploro/profile/lisa_young>
+- <https://www.qmul.ac.uk/clpn/members/y/profiles/young.html>
+
+**Contact:** Via Murdoch Law School staff page https://www.murdoch.edu.au/contact-us
+
+*Notes: Murdoch profile + QM CLPN profile verified. Specific co-authored text title and current WA practising-certificate status not publicly confirmed.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.parkinson-patrick`, `practitioner:au.simpson-di-j`
+
+<sub>ID: `au.young-lisa`</sub>
+
+### Emeritus Professor Patrick Parkinson AM
+*Emeritus Professor (TC Beirne School of Law, University of Queensland; previously University of Sydney); admitted as solicitor (NSW); Member of the Order of Australia (AM); former Chair, Family Law Council 2004-2007; Chair, 2004-05 Review of the Child Support Scheme; current practising-certificate status not publicly confirmed (primary role academic and policy)*
+Brisbane · Queensland · TC Beirne School of Law, University of Queensland (Emeritus); previously Sydney Law School
+
+**Stance:** Former Chair of the Family Law Council and the most-cited Australian family-law academic — engages PA seriously without polemicising. Best Australian contact for a 'middle ground' comparative-jurisdiction conversation. His 2024 SSRN paper 'Is There Still A Place for Shared Parenting? Interpreting The Family Law Amendment Act 2023' is the standard moderate reading of the 2023 Amendment Act post-commencement. Australian Family Law in Context (8th ed, Lawbook Co, 2023) is the dominant Australian family-law academic text; The Voice of a Child in Family Law Disputes (with Cashmore, 2008) anchors the children's-voice reform line that Schedule 2 of the 2023 Amendment Act partly operationalises.
+
+**Publications:**
+- Is There Still A Place for Shared Parenting? Interpreting The Family Law Amendment Act 2023 (2024) — *SSRN* — <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4813059>
+- Australian Family Law in Context (8th ed; co-author) (2023) — *Lawbook Co / Thomson Reuters*
+- Family Law and the Indissolubility of Parenthood (2011) — *Cambridge University Press*
+- The Voice of a Child in Family Law Disputes (with Cashmore) (2008) — *Oxford University Press*
+- Submission to ALRC Review of the Family Law System (2018) — *Australian Law Reform Commission* — <https://www.alrc.gov.au/wp-content/uploads/2019/08/family-law_341._patrick_parkinson.pdf>
+
+**Verification:**
+- <https://law.uq.edu.au/profile/10115/patrick-parkinson>
+- <https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4813059>
+
+**Contact:** Via UQ Law staff page https://law.uq.edu.au/profile/10115/patrick-parkinson
+
+*Notes: Emeritus UQ Law + AM + former FLC Chair verified via UQ profile and FLC public composition records. NSW solicitor admission verified via UQ profile. Current practising-certificate status not publicly confirmed; primary role academic.*
+
+**See also:** `jurisdiction:australia`, `case-study:re-y-2026-ewfc-38`, `practitioner:au.rhoades-helen`, `practitioner:au.simpson-di-j`, `practitioner:au.moloney-lawrie`, `practitioner:au.young-lisa`
+
+<sub>ID: `au.parkinson-patrick`</sub>
+
+### The Hon. Justice Dianne Simpson
+*Judge of the Federal Circuit and Family Court of Australia (Division 1), Sydney registry; admitted ACT (founding partner DDCS Lawyers Canberra 2007); immediate past Chair, Family Law Section, Law Council of Australia (June 2021 - December 2024); Law Council of Australia President's Award 2023; judicial role — do not solicit as a practitioner*
+Sydney · New South Wales · Federal Circuit and Family Court of Australia (Division 1), Sydney registry; pre-appointment: founding partner DDCS Lawyers (Dobinson Davey Clifford Simpson Family Law Specialists), Canberra
+
+**Stance:** Chaired the Family Law Section of the Law Council of Australia through the entire 2023-2024 reform window — her FLS-Chair submissions on the Family Law Amendment Bill 2023 / 2024 are the standard-of-care reference for the moderate-practitioner view on the Family Law Amendment Act 2023 (Cth) Sch 1 (s 61DA repeal) and Sch 2 (family-report-writer regulation). Now a sitting judge of FCFCOA Division 1 (Sydney). Stance is procedural-middle grounded in FLS chairmanship submissions and (now) judicial role. Judicial entry — pre-appointment record at DDCS Lawyers is the citable institutional voice.
+
+**Publications:**
+- Law Council of Australia submission on the Family Law Amendment Bill 2024 (FLS Chair) (2024) — *Law Council of Australia* — <https://lawcouncil.au/media/news/family-law-amendment-bill-2024>
+- Law Council of Australia President's Award 2023 (2023) — *Law Council of Australia* — <https://lawcouncil.au/about-us/awards/presidents-award/2023-ms-di-simpson>
+- DDCS Lawyers (Dobinson Davey Clifford Simpson Family Law Specialists), Canberra — founding partner 2007 (2007) — *DDCS Lawyers* — <https://ddcs.com.au/>
+
+**Verification:**
+- <https://www.fcfcoa.gov.au/>
+- <https://lawcouncil.au/>
+- <https://ddcs.com.au/>
+
+**Contact:** As a sitting judge of FCFCOA Division 1 cannot be contacted as a practitioner. Pre-appointment record at DDCS Lawyers is the citable institutional voice. Institutional route via FCFCOA Sydney registry.
+
+*Notes: FLS Chair 2021-2024 verified via LCA news and President's Award page. Appointment to FCFCOA Division 1 Sydney verified via FCFCOA judges register. Founding partner DDCS 2007 verified via DDCS firm site.*
+
+**See also:** `jurisdiction:australia`, `case-study:re-y-2026-ewfc-38`, `practitioner:au.parkinson-patrick`, `practitioner:au.bryant-diana-cj`, `practitioner:au.rhoades-helen`
+
+<sub>ID: `au.simpson-di-j`</sub>
+
+### The Hon. Diana Bryant AO KC (retired)
+*Former Chief Justice of the Family Court of Australia (5 July 2004 - 12 October 2017); Officer of the Order of Australia (AO); King's Counsel (post-retirement); admitted as a legal practitioner and took silk pre-appointment; retired — no direct contact appropriate*
+Melbourne · Victoria · Former Family Court of Australia (predecessor to FCFCOA Division 1) — Chief Justice 2004-2017
+
+**Stance:** Era under whose Chief Justiceship the modern Australian alienating-behaviour vocabulary stabilised — 13-year tenure as Chief Justice; presided over and authored the body of appellate jurisprudence scaffolding modern AU PA decisions (Banks & Banks [2015] FamCAFC 36 line). 'A Conversation with the Chief Justice of the Family Court' (2017) 7(1) VicULawJJl 1 is the standard valedictory reading of the pre-2021-merger Family Court of Australia. Retired-judges sub-section: cite for historical record; do not solicit.
+
+**Publications:**
+- A Conversation with the Chief Justice of the Family Court (2017) — *Victoria University Law and Justice Journal 7(1):1* — <https://classic.austlii.edu.au/au/journals/VicULawJJl/2017/2.html>
+- Dragiewicz & Tyzack interview with Chief Justice Bryant (QUT ePrints 109822) (2016) — *QUT ePrints*
+- 13-year tenure as Chief Justice; appellate jurisprudence scaffolding modern AU PA decisions (Banks & Banks [2015] FamCAFC 36 line) (2017) — *Family Court of Australia*
+
+**Verification:**
+- <https://en.wikipedia.org/wiki/Diana_Bryant>
+- <https://www.cifhk.org/the-hon-chief-justice-diana-bryant-ao.html>
+
+**Contact:** Retired; no direct contact appropriate. Cite for historical record only.
+
+*Notes: Chief Justice tenure 2004-2017 + AO + post-retirement KC verified via judiciary records and Wikipedia summary. Retired-judges sub-section; do not solicit.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.forrest-colin-sc`, `practitioner:au.simpson-di-j`
+
+<sub>ID: `au.bryant-diana-cj`</sub>
+
+## Institutional anchors
+
+### Women's Legal Services Australia (WLSA)
+*National peak federation of state/territory Women's Legal Services (member services across all states and territories)*
+National · All states and territories · Women's Legal Services Australia — national peak; member services WLSNSW, WLSV, WLSQ, WLSWA, WLST, WLSSA, WLCACT, WLSNT
+
+**Stance:** Single point of access into the critique-camp legal sector across all Australian states and territories. WLSA submission to the National Children's Commissioner re Family Law and submissions on the Family Law Amendment Bill 2024 frame the federated DV-protective legal sector's position. Individual lawyers within each member service are the named practitioners for case-level outreach. Stance is institutional critique grounded in the federated submissions record and DV-protective legal-advice work.
+
+**Publications:**
+- WLSA submission to the National Children's Commissioner re Family Law (2022) — *Australian Human Rights Commission* — <https://humanrights.gov.au/sites/default/files/womens_legal_services_australia_submission_redacted_0.pdf>
+- Family Law Amendment Bill 2024 advocacy and submissions (2024) — *Women's Legal Services Australia* — <https://wlsa.org.au/submissions/>
+
+**Verification:**
+- <https://wlsa.org.au/>
+- <https://www.wlsnsw.org.au/>
+- <https://wlsq.org.au/>
+- <https://www.wlswa.org.au/>
+- <https://wlc.org.au/>
+
+**Contact:** Via https://wlsa.org.au/ ; individual member services have separate intakes
+
+*Notes: Institutional entry — individual lawyers within each member service will be the named practitioners for case-level outreach. Member services list verified via WLSA peak-body site.*
+
+**See also:** `jurisdiction:australia`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:au.matthews-helen`, `practitioner:au.humphreys-cathy`, `practitioner:au.moloney-lawrie`
+
+<sub>ID: `au.wlsa-institutional`</sub>
+
+### Anne Hollonds AO
+*Former National Children's Commissioner, Australian Human Rights Commission (Nov 2020 - Nov 2025); registered psychologist and social worker (not a lawyer by training); Officer of the Order of Australia (AO); previously Director, Australian Institute of Family Studies*
+Sydney · New South Wales · Former Office of the National Children's Commissioner, Australian Human Rights Commission
+
+**Stance:** Not a lawyer by training (registered psychologist and social worker) — preserved on the lawyers directory from v1.0 because of the statutory-submissions role of the National Children's Commissioner under the Australian Human Rights Commission Act 1986 (Cth). Multiple statutory submissions 2020-2025 on children's rights, family violence and family law. Provides the children's-rights framing as an alternative to both pure recognition and pure critique — particularly useful for policymaker / commission audiences. Term ended Nov 2025. Single shared entry between lawyers and therapists directories — cross-link practitioner:au.hollonds-anne on therapists v2 holds the parallel therapists-directory record.
+
+**Publications:**
+- Statement to Commission of Inquiry (Tasmania), 13 April 2022 (2022) — *Commission of Inquiry into Tasmanian Government Responses to Child Sexual Abuse* — <https://www.commissionofinquiry.tas.gov.au/__data/assets/pdf_file/0004/658876/Statement-of-Anne-Hollonds,-National-Childrens-Commissioner,-Australian-Human-Rights-Commission,-13-April-2022.pdf>
+- Multiple statutory submissions 2020-2025 on children's rights, family violence and family law (2024) — *Australian Human Rights Commission*
+
+**Verification:**
+- <https://humanrights.gov.au/our-work/commission-general/national-childrens-commissioner-anne-hollonds>
+- <https://humanrights.gov.au/about/contact>
+
+**Contact:** Office of the National Children's Commissioner via AHRC, https://humanrights.gov.au/about/contact (term ended Nov 2025)
+
+*Notes: National Children's Commissioner role Nov 2020 - Nov 2025 verified via AHRC site. AO + previous AIFS Director role verified via AHRC profile. Cross-referenced to therapists v2 entry au.hollonds-anne.*
+
+**See also:** `jurisdiction:australia`, `practitioner:au.hollonds-anne`, `practitioner:au.wlsa-institutional`, `practitioner:au.humphreys-cathy`, `practitioner:au.moloney-lawrie`
+
+<sub>ID: `au.hollonds-anne`</sub>
+
+## Cross-jurisdictional pointers
+
+### Brian Ludmer (cross-jurisdictional pointer)
+*Barrister and Solicitor of the Law Society of Ontario, Canada (see CA lawyers directory for full entry)*
+Toronto · Ontario (Canada) · Ludmer Law, Toronto — cross-jurisdictional ANZPAC speaker
+
+**Stance:** Listed as a cross-jurisdictional pointer because Ludmer is the lead Anglosphere recognition-camp lawyer/author and a recurring ANZPAC (Australia and New Zealand Parental Alienation Conference) speaker, regularly speaking into Australian PA forums. Full primary-source record lives in /practitioners/lawyers/ca; preserved here as an outreach hook for AU recognition-camp readers.
+
+**Publications:**
+- The High-Conflict Custody Battle (co-author Eddy / Reay) — New Harbinger Publications (2014) — *New Harbinger Publications* — <https://www.newharbinger.com/author/brian-ludmer/>
+- Recurring ANZPAC speaker (Australia and New Zealand Parental Alienation Conference) (2025) — *ANZPAC*
+
+**Verification:**
+- <https://www.ludmerlaw.com/>
+- <https://www.newharbinger.com/author/brian-ludmer/>
+
+**Contact:** See CA lawyers directory entry
+
+*Notes: Cross-reference only; full primary-source verification record sits in CA directory. Stance coded cross-jurisdictional under v2 enum.*
+
+**See also:** `jurisdiction:australia`, `jurisdiction:canada`, `practitioner:au.mort-darren`
+
+<sub>ID: `au.ludmer-brian-cross`</sub>
+
 
 ---
 
-## Middle / procedural-reform
-
-### 12. Emeritus Professor Patrick Parkinson AM
-- **Institution:** TC Beirne School of Law, University of Queensland (Emeritus); previously University of Sydney
-- **Profile URL:** https://law.uq.edu.au/profile/10115/patrick-parkinson ; Google Scholar https://scholar.google.com.au/citations?user=9uTZULsAAAAJ&hl=en
-- **Bar admission:** Admitted as solicitor (NSW); current practising-certificate status **not publicly confirmed**; primary role academic and policy
-- **Stance:** middle (PA-recognition-adjacent on shared parenting; engages family-violence literature seriously; former Chair, Family Law Council 2004-2007)
-- **Stance source:** "Is There Still A Place for Shared Parenting? Interpreting The Family Law Amendment Act 2023" (2024) SSRN — https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4813059 ; *Australian Family Law in Context* (8th ed, Lawbook Co, 2023); Submission to ALRC Review of the Family Law System — https://www.alrc.gov.au/wp-content/uploads/2019/08/family-law_341._patrick_parkinson.pdf
-- **Named cases / publications:**
-  - *Australian Family Law in Context* (8th ed, 2023) — co-author
-  - *Family Law and the Indissolubility of Parenthood* (2011)
-  - *The Voice of a Child in Family Law Disputes* (with Judy Cashmore, 2008)
-  - Chair, Family Law Council 2004-2007 ; Chair, 2004-05 Review of Child Support Scheme
-  - Member of Order of Australia (AM) for service to law
-- **Primary contact:** Via UQ Law staff page https://law.uq.edu.au/profile/10115/patrick-parkinson
-- **Tier:** 1
-- **Hook:** Former Chair of the Family Law Council and the most-cited Australian family-law academic — engages PA seriously without polemicising; the single best person for a "middle ground" comparative-jurisdiction conversation.
-
-### 13. The Hon. Justice Dianne Simpson
-- **Court:** Federal Circuit and Family Court of Australia (Division 1), Sydney registry
-- **Court URL:** https://www.fcfcoa.gov.au/ ; appointment announcement https://lawcouncil.au/media/media-releases/di-simpson-an-outstanding-appointment-to-the-fcfcoa
-- **Bar admission:** ACT (founding partner DDCS Lawyers Canberra 2007; immediate past Chair, Family Law Section of the Law Council of Australia June 2021-Dec 2024)
-- **Stance:** middle (procedural-reform; appeared at Family Law Amendment Bill 2024 inquiry — https://lawcouncil.au/media/news/family-law-amendment-bill-2024)
-- **Stance source:** Public hearings on Family Law Amendment Bill 2024 in her capacity as FLS Chair; Law Council of Australia President's Award 2023 — https://lawcouncil.au/about-us/awards/presidents-award/2023-ms-di-simpson
-- **Named cases / publications:**
-  - Founding partner, DDCS Lawyers (Dobinson Davey Clifford Simpson Family Law Specialists), Canberra — https://ddcs.com.au/
-  - Chair, Family Law Section of the Law Council of Australia (2021-2024)
-  - Now a sitting judge of the FCFCOA Division 1 (Sydney) — published judgments will accumulate on AustLII at http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/
-- **Primary contact:** As a sitting judge cannot be contacted as a practitioner; pre-appointment record at DDCS Lawyers is the citable institutional voice
-- **Tier:** 3 (judges sub-section)
-- **Hook:** Listed because she chaired the FLS through the entire 2023-2024 reform window; her FLS-Chair submissions are the standard-of-care reference for the "moderate practitioner" view.
-
-### 14. The Hon. Diana Bryant AO KC (retired)
-- **Former role:** Chief Justice of the Family Court of Australia 5 July 2004 – 12 October 2017
-- **Profile:** Wikipedia bio (consolidated published record) https://en.wikipedia.org/wiki/Diana_Bryant ; speaker profile, Children's Issues Forum Hong Kong https://www.cifhk.org/the-hon-chief-justice-diana-bryant-ao.html
-- **Stance:** middle (chief-justice-era jurisprudence shaped the modern "alienating behaviour" doctrinal language; not a public advocate either way post-retirement)
-- **Stance source:** "A Conversation with the Chief Justice of the Family Court" (2017) 7(1) *Victoria University Law and Justice Journal* 1 — https://classic.austlii.edu.au/au/journals/VicULawJJl/2017/2.html ; Dragiewicz & Tyzack interview, QUT ePrints — https://eprints.qut.edu.au/109822/
-- **Named cases / publications:**
-  - 13-year tenure as Chief Justice; presided over and authored the body of appellate jurisprudence cited as scaffolding in every modern AU PA decision (see *Banks & Banks* [2015] FamCAFC 36 line of authority)
-  - 2017 published interview is the closest she has come to a retrospective statement on alienation-framed cases
-- **Primary contact:** Retired; no direct contact appropriate. Cite for the historical record.
-- **Tier:** 3 (retired-judges sub-section)
-- **Hook:** The era under whose Chief Justiceship the modern Australian alienating-behaviour vocabulary stabilised; the named former-judge whose published views any responsible doctrinal write-up has to cite.
-
-### 15. Anne Hollonds AO (former National Children's Commissioner)
-- **Former role:** National Children's Commissioner, Australian Human Rights Commission, November 2020 – November 2025
-- **Profile URLs:** https://humanrights.gov.au/our-work/commission-general/national-childrens-commissioner-anne-hollonds ; Wikipedia https://en.wikipedia.org/wiki/Anne_Hollonds ; QUT Centre for Child and Family Studies https://research.qut.edu.au/childandfamily/staff/anne-hollonds/
-- **Bar admission:** Not a lawyer by training — registered psychologist and social worker; previously Director, Australian Institute of Family Studies. Listed here because the Commissioner role is the senior children's-rights office in the federal architecture and is statutorily entitled to make submissions on family-law reform.
-- **Stance:** middle / child-rights-primary
-- **Stance source:** Statement to Commission of Inquiry (Tasmania), 13 April 2022 — https://www.commissionofinquiry.tas.gov.au/__data/assets/pdf_file/0004/658876/Statement-of-Anne-Hollonds,-National-Childrens-Commissioner,-Australian-Human-Rights-Commission,-13-April-2022.pdf ; National Children's Commissioner submissions index — https://humanrights.gov.au/our-work/childrens-rights
-- **Named cases / publications:**
-  - Statutory submissions to multiple federal and state inquiries (2020-2025) on children's rights, family violence and the family-law system
-  - Officer of the Order of Australia (AO)
-- **Primary contact:** Office of the National Children's Commissioner via Australian Human Rights Commission, https://humanrights.gov.au/about/contact
-- **Tier:** 2 (institutional voice rather than litigator)
-- **Hook:** Provides the children's-rights framing as an alternative to both pure recognition and pure critique — particularly useful when AntiAlienate is presenting to policymaker / commission audiences.
-
----
-
-## Honest gaps
-
-1. **Adam Ardill (AICOL Sydney)** — could not verify from public sources at time of writing. Suggest direct enquiry to AICOL Sydney chambers or NSW Bar Association register.
-2. **Phillip Sims (Sydney barrister)** — could not verify in publicly indexed family-law-barrister directories (NSW Bar / State Chambers / 6 St James Hall / Family Law Chambers). Possible name confusion or insufficient public profile.
-3. **Susannah Mitchell (NSW accredited specialist)** — no public Law Society NSW Accredited Specialist register hit at time of writing. Suggest re-querying the Law Society NSW specialist accreditation directory directly.
-4. **Solicitor of record in Green & Green [2024] FedCFamC1F 896** — the published judgment is anonymised under s 121 Family Law Act; counsel names are recorded in the case but not in publicly indexed practitioner directories at this distance. Suggested follow-up: AustLII full-text retrieval and ICL Australia significant-cases bulletin (https://icl.gov.au/news/significant-cases-published-march-2025).
-5. **DV Legal Service WA / NSW named principal lawyers** — institutional voices are sourced (WLSV, WLSA, WLSNSW); naming individual lawyers within each requires direct profile-level verification beyond the time budget of this batch.
-6. **FCFCOA appellate judges named on specific PA rulings (e.g., *Shell & Armel* [2022] FedCFamC1A 83)** — judges are properly listed in a separate judges directory rather than a practitioner directory; recommend a separate `practitioners-au-judges.md` batch.
-7. **Family Law Reform Coalition advocates** — coalition exists but member-list verification from a primary source did not complete within time budget.
-
----
-
-## Stance distribution (12 verified named entries; 1 cross-jurisdictional pointer; 1 firm-level pointer)
-
-- **Recognition:** 4 (Darren Mort; Michael Lynch; Colin Forrest SC; cross-ref Brian Ludmer)
-- **Critique:** 6 (Zoe Rathus; Helen Rhoades; Belinda Fehlberg; Lisa Young; Helen Matthews / WLSV; WLSA institutional)
-- **Middle / procedural-reform:** 4 (Patrick Parkinson; Dianne Simpson; Diana Bryant; Anne Hollonds)
-
-This deliberately over-weights the critique camp because the Australian academic and DV-sector literature on PA is, in fact, the dominant published voice in the AU jurisdiction — the directory should reflect that reality rather than impose artificial balance. Recognition-camp practitioner voices in AU are concentrated at the practising-Bar and specialist-firm level rather than the academic level, which the entries above correctly mirror.
-
----
-
-## Sources index (selected, for cross-reference)
-
-- Federal Circuit and Family Court of Australia judgment portal — https://www.fcfcoa.gov.au/judgments
-- AustLII FedCFamC1F decisions — http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/
-- Family Law Section of the Law Council of Australia — https://www.familylawsection.org.au/
-- Australian Parliamentary Library, "A history of the use of the concept of parental alienation in the Australian family law system" — https://www.aph.gov.au/DocumentStore.ashx?id=db6ed84e-8c04-4619-9384-47ea2c75f012&subId=691163
-- Independent Children's Lawyers Australia significant cases bulletin — https://icl.gov.au/news/significant-cases-published-march-2025
-- Women's Legal Services Australia submissions — https://wlsa.org.au/submissions/
-- Family Law Amendment Act 2023 (Cth) — https://www.legislation.gov.au/C2023A00087/latest/text
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
