@@ -1,0 +1,128 @@
+#!/usr/bin/env python3
+"""Consolidated GitHub Contents-API push tool.
+
+Replaces the ad-hoc push-X.py scripts. One commit per invocation; one tool to maintain.
+
+Usage:
+  aa-push <file> [<file> ...] --msg "commit message"
+  aa-push --from-stdin --msg "..."        # newline-separated paths on stdin
+  aa-push --branch <name> ...             # push to branch instead of main (PR workflow)
+  aa-push --base <repo-root> ...          # explicit local repo root (default: cwd)
+  aa-push --token-file PATH               # default: /tmp/.aa-secrets/gh
+  aa-push --repo OWNER/REPO               # default: AntiAlienate/antialienate-knowledge
+
+Notes:
+  - Paths must be relative to the repo root, or absolute under --base.
+  - Each file pushed individually (Contents API is single-file).
+  - If --branch is set and the branch does not exist, it is created from main.
+  - SHAs from the response are printed (12-char prefix) for traceability.
+"""
+from __future__ import annotations
+
+import argparse
+import base64
+import json
+import os
+import pathlib
+import sys
+import urllib.request
+
+DEFAULT_REPO = "AntiAlienate/antialienate-knowledge"
+DEFAULT_TOKEN = "/tmp/.aa-secrets/gh"
+
+
+def gh(method: str, url: str, token: str, body: dict | None = None) -> dict:
+    headers = {
+        "Authorization": f"token {token}",
+        "Accept": "application/vnd.github+json",
+        "User-Agent": "aa-push",
+    }
+    data = None
+    if body is not None:
+        headers["Content-Type"] = "application/json"
+        data = json.dumps(body).encode()
+    req = urllib.request.Request(url, data=data, method=method, headers=headers)
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return json.loads(r.read())
+
+
+def get_sha(token: str, repo: str, path: str, branch: str) -> str | None:
+    url = f"https://api.github.com/repos/{repo}/contents/{path}?ref={branch}"
+    try:
+        return gh("GET", url, token).get("sha")
+    except Exception:
+        return None
+
+
+def ensure_branch(token: str, repo: str, branch: str) -> None:
+    if branch == "main":
+        return
+    try:
+        gh("GET", f"https://api.github.com/repos/{repo}/branches/{branch}", token)
+        return
+    except Exception:
+        pass
+    head = gh("GET", f"https://api.github.com/repos/{repo}/git/refs/heads/main", token)
+    gh("POST", f"https://api.github.com/repos/{repo}/git/refs", token,
+       {"ref": f"refs/heads/{branch}", "sha": head["object"]["sha"]})
+
+
+def push_one(token: str, repo: str, repo_path: str, content: bytes, msg: str, branch: str) -> str:
+    url = f"https://api.github.com/repos/{repo}/contents/{repo_path}"
+    body = {
+        "message": msg,
+        "content": base64.b64encode(content).decode(),
+        "branch": branch,
+    }
+    sha = get_sha(token, repo, repo_path, branch)
+    if sha:
+        body["sha"] = sha
+    resp = gh("PUT", url, token, body)
+    return resp.get("content", {}).get("sha", "?")[:12]
+
+
+def main(argv: list[str] | None = None) -> int:
+    p = argparse.ArgumentParser(prog="aa-push")
+    p.add_argument("paths", nargs="*")
+    p.add_argument("--from-stdin", action="store_true")
+    p.add_argument("--msg", required=True)
+    p.add_argument("--branch", default="main")
+    p.add_argument("--base", default=os.environ.get("AA_REPO_ROOT", os.getcwd()))
+    p.add_argument("--repo", default=DEFAULT_REPO)
+    p.add_argument("--token-file", default=DEFAULT_TOKEN)
+    args = p.parse_args(argv)
+
+    paths = list(args.paths)
+    if args.from_stdin:
+        paths += [l.strip() for l in sys.stdin if l.strip()]
+    if not paths:
+        print("aa-push: no files", file=sys.stderr)
+        return 2
+
+    token = pathlib.Path(args.token_file).read_text().strip()
+    base = pathlib.Path(args.base).resolve()
+
+    ensure_branch(token, args.repo, args.branch)
+
+    fails = 0
+    for p_ in paths:
+        local = pathlib.Path(p_)
+        if not local.is_absolute():
+            local = base / local
+        if not local.exists():
+            print(f"FAIL missing: {local}", file=sys.stderr)
+            fails += 1
+            continue
+        rel = local.resolve().relative_to(base)
+        repo_path = str(rel).replace(os.sep, "/")
+        try:
+            sha = push_one(token, args.repo, repo_path, local.read_bytes(), args.msg, args.branch)
+            print(f"OK  {repo_path}: {sha}")
+        except Exception as e:
+            print(f"FAIL {repo_path}: {e}", file=sys.stderr)
+            fails += 1
+    return 1 if fails else 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
