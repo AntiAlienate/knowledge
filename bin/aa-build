@@ -74,12 +74,15 @@ def validator_for(name: str):
 
 # ---------- discovery ----------
 
+_NON_ENTITY_BASENAMES = {"index.json", "manifest.json"}
+
+
 def all_practitioner_jsons() -> list[pathlib.Path]:
-    return sorted(PRACTITIONERS.glob("*/*.json"))
+    return [p for p in sorted(PRACTITIONERS.glob("*/*.json")) if p.name not in _NON_ENTITY_BASENAMES]
 
 
 def all_case_study_jsons() -> list[pathlib.Path]:
-    return sorted(CASE_STUDIES.glob("*.json"))
+    return [p for p in sorted(CASE_STUDIES.glob("*.json")) if p.name not in _NON_ENTITY_BASENAMES]
 
 
 # ---------- validate ----------
