@@ -13,7 +13,7 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **New Zealand** | [nz.md](nz.md) | [nz.json](nz.json) | v1.0 (legacy) | 15 verified |
 | **Germany** | [germany.md](germany.md) | [germany.json](germany.json) | **v2.0** | 16 verified + 9 excluded |
 | **Spain** | [spain.md](spain.md) | [spain.json](spain.json) | **v2.0** | 16 verified + 3 excluded |
-| **France** | [france.md](france.md) | [france.json](france.json) | v1.0 (legacy) | 17 verified |
+| **France** | [france.md](france.md) | [france.json](france.json) | **v2.0** | 17 verified + 6 excluded |
 | **Italy** | [it.md](it.md) | [it.json](it.json) | **v2.0** | 19 verified + 4 excluded |
 | **Netherlands** | [nl.md](nl.md) | [nl.json](nl.json) | **v2.0** | 17 verified + 5 excluded |
 | **Belgium** | [be.md](be.md) | [be.json](be.json) | **v2.0** | 17 verified + 6 excluded |
