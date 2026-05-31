@@ -1,288 +1,469 @@
-# UK Devolved Lawyers (Scotland / Northern Ireland / Wales) — Parental Alienation Practitioner Directory
+# Practitioners — United Kingdom (Devolved: Scotland / Northern Ireland / Wales) — Lawyers
 
-**Schema version:** 1.0
-**Last updated:** 2026-05-25
-**License:** CC BY 4.0 (intended for github.com/AntiAlienate/antialienate-knowledge)
-**Scope:** Family-law practitioners (advocates, barristers, solicitors, legal academics) and institutional actors in the three UK devolved jurisdictions — **Scotland**, **Northern Ireland**, **Wales (Welsh-jurisdiction specialists within the E&W system)** — who have (a) appeared in named PA / alienating-behaviour proceedings, (b) published peer-reviewed or institutional work on PA, (c) sit on relevant working groups, or (d) publicly stated a sourced stance. Judges are listed only where their named judgment is the source. Companion file to `/practitioners/lawyers/uk.md` (which covers England & Wales) — **no duplication**; Welsh entries here are Wales-specific (Cardiff bar, Welsh-medium practice, Cafcass Cymru context).
+## Jurisdictional context
 
-**Standards:** All entries verified from primary sources (Faculty of Advocates register, Law Society of Scotland register, Law Society of Northern Ireland, Bar of NI directory, chambers / firm sites, judiciary.scot, judiciaryni.uk, BAILII / scotcourts.gov.uk, peer-reviewed publishers, named press). Where a fact could not be confirmed from a public primary source it is flagged "**not publicly confirmed**".
+Scotland operates a wholly separate child-law statutory and judicial architecture from England and Wales. The governing primary legislation is the Children (Scotland) Act 1995, with section 11 (court orders relating to parental responsibilities) and the post-2020 section 11(7C) factors (effect of relevant abuse, co-operation between parents, risk of further abuse) framing the test the Court of Session and the sheriff courts apply in private-ordering disputes. The strongest Scottish judicial PA finding to date is Lord Stuart's NF v AF [2025] CSOH 13 (Outer House), in which the senator found that the defender 'engaged in direct emotional abuse by knowingly making false and severe allegations against the Pursuer, aiming to alienate the children from him' — currently the clearest expressly-PA Scottish judgment (cross-link case-study:nf-v-af-2025-csoh-13-scotland). The practising bar is bifurcated between the Faculty of Advocates (advocates' professional body, including KCs and senators) and the Law Society of Scotland (solicitor regulator and accreditor of family-law and child-law specialists). The PA conversation in Scotland is dominated institutionally by Shared Parenting Scotland (SCIO SC042817, the recognition-camp lobby, formerly Families Need Fathers Scotland) at one pole and by Scottish Women's Aid plus Engender (the feminist/critique-camp coalition) at the other; the recognition pole in Scotland is institutional rather than bar-based.
 
-**Stance taxonomy:**
-- `recognition` — treats PA / alienating behaviour as a legitimate, litigable phenomenon
-- `critique` — argues PA is misused in family court, especially against DV survivors
-- `middle` — procedural-reform / differentiated approach engaging both DV and alienating-behaviour frames
+Northern Ireland's child-law architecture is the Children (Northern Ireland) Order 1995 (a Sewel-style Order in Council mirroring Children Act 1989 but distinct), litigated in the High Court of Justice and Court of Judicature of Northern Ireland. The Lady Chief Justice — Rt Hon Dame Siobhan Keegan DBE KC (sworn 2 September 2021), the first woman Lady Chief Justice in NI history — was previously a family-law silk and Senior Family Judge of the High Court NI (2020-2021), giving NI's family judiciary unusual structural sophistication on child-welfare issues. The clearest current NI judicial engagement with an alienating-style dynamic — without the explicit PA label — is Mr Justice O'Hara's August 2022 judgment in A Father v A Mother (in the matter of NI, a male child aged 10) (No. 2), where he found one parent's 'core belief that he had been wronged' was incompatible with facilitating contact while declining to transfer residence. Institutionally the critique pole is occupied by Women's Aid Federation Northern Ireland (WAFNI), whose 25 June 2020 PA briefing remains the only NI-specific WA published institutional position. The Bar of Northern Ireland's Family Bar Association functions as the institutional gateway to the practising NI family bar.
 
-**Jurisdictional note:** Scotland operates a separate legal system; there is **no formal recognition of "parental alienation" as a statutory concept in Scots law** (the Scottish Government declined to include it in the s.11 Children (Scotland) Act 1995 welfare checklist). Northern Ireland has its own High Court (Family Division) and Bar. Wales sits within the England & Wales jurisdiction but has the Cafcass Cymru system, Welsh-language rights, and a Cardiff-rooted bar.
+Wales' family-court infrastructure operates within the unified Bar of England and Wales but is administered locally via Cafcass Cymru (the Children and Family Court Advisory and Support Service for Wales, devolved to the Welsh Government), which produces its own welfare-reporting framework distinct from English Cafcass. The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned 2018 literature review Review of Research and Case Law on Parental Alienation (Doughty, Maxwell & Slater, April 2018) is the source document on which Cafcass Cymru policy on PA derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept. The Welsh family bar is dominated by public-law children practice (30 Park Place; 9 Park Place; Queen Square Chambers), with Welsh-language capacity concentrated at Linenhall Chambers (institutional Welsh-medium placeholder; no individual Welsh-medium PA-experienced barrister verified by sourced stance). Welsh Women's Aid carries the federation-aligned critique-camp position for Welsh-language outreach.
+
+## Structural findings
+
+- 20 verified entries split 9 SCO + 5 NIR + 6 WLS, reflecting the disproportionate institutional and academic infrastructure in Wales (Cafcass Cymru / Cardiff Law) and the comparatively thin verifiable NI practitioner footprint outside the judiciary.
+- The verifiable practising-bar PA conversation in the devolved jurisdictions is dominated by institutional voices (Shared Parenting Scotland recognition pole; SWA / Engender / WAFNI / WWA critique pole) and judicial output (Lord Stuart's NF v AF [2025] CSOH 13 in Scotland; O'Hara J's 2022 A Father v A Mother (No. 2) in NI) more than by named individual practitioners with published stances.
+- Scotland's recognition pole is institutional (Shared Parenting Scotland, SCIO SC042817) rather than bar-based: no Faculty of Advocates KC has been identified with an explicit, sourced recognition-camp PA stance on a chambers or Faculty profile.
+- Northern Ireland has only one named academic in the PA-specific field (Dr Mairead McCormack, QUB, DChild 2021) — the only NI-specific empirical study of how PA is treated by NI family-court professionals; the NI bar's PA footprint is otherwise judicial (Keegan LCJ, O'Hara J) and institutional (WAFNI, Bar of NI Family Bar Association).
+- The Welsh family bar is dominated by public-law children practice; Joseff Morgan (9 Park Place) is the only named Welsh-jurisdiction junior with an explicit recognition-camp PA stance on a chambers website (Re E chambers profile: 'secured substantial and numerous findings against a parent in relation to emotional harm of the child, and parental alienation of the separated parent').
+- NF v AF [2025] CSOH 13 (Lord Stuart) is cross-linked from all Scottish bar entries (Faculty advocates, Court of Session judiciary, and Law Society accredited specialists) as the structural PA anchor in Scots law; McFarlane P's Re Y is cross-linked from devolved-jurisdiction entries as the cross-border critique-axis comparator on disproportionate PA findings.
+- Four major v1.0 corrections preserved in excluded[]: Mary Connolly KC (NI) does not exist (Bar of NI directory returns Martina Connolly KC); Jonathan Dunlop KC (NI) is commercial / professional negligence / judicial review, not family-law silk (KC status itself not publicly confirmed); Cara Goodwin Advocate (Scotland) not on Faculty of Advocates register; Family Law Scotland Ltd (institutional) not located on Companies House or Law Society of Scotland register.
+- Geographic diversity findings: Scotland coverage extends beyond the Edinburgh/Glasgow axis (Sandra Sutherland, Thorntons Law, Dundee/Tayside; Sarah Lilley, Brodies, Inverness/Highlands); Welsh coverage anchors on Cardiff (Doughty, John, Morgan, Halliday) with Welsh-medium capacity at Linenhall Chambers; NI coverage anchors on Belfast bar and judiciary.
+- Stance distribution including institutional entries: 4 recognition (Lord Stuart, Joseff Morgan, Shared Parenting Scotland, plus recognition-leaning O'Hara without label); 8 critique (SWA, Engender, WAFNI, Welsh Women's Aid, McCormack academic critique-camp, Doughty academic critique-camp framing PA as belief-system, plus federation-aligned satellites); remainder middle / institutional / judicial-middle — the devolved-jurisdiction critique camp is institutionally over-represented relative to England & Wales.
+
+## Recognition camp
+
+### Lord Stuart (The Hon Lord Stuart), Senator of the College of Justice
+*Senator of the College of Justice (May 2022); KC (2017); Advocate Depute 2009-2012; called Scottish Bar July 2003*
+Edinburgh · Scotland · Outer House, Court of Session — designated Family Judge (since November 2022)
+
+**Stance:** Authored NF v AF [2025] CSOH 13 — the strongest Scottish judicial PA finding to date, holding that the defender 'engaged in direct emotional abuse by knowingly making false and severe allegations against the Pursuer, aiming to alienate the children from him'. This is the apex Scottish judicial recognition-camp PA citation and the canonical case-study cross-link for all Scottish bar entries.
+
+**Publications:**
+- NF v AF [2025] CSOH 13 (Outer House, Court of Session) (2025) — *Scottish Courts and Tribunals Service* — <https://www.scotcourts.gov.uk/media/ba1nsc4o/2025csoh13-nf-against-af.pdf>
+
+**Verification:**
+- <https://judiciary.scot/home/judiciary/judicial-office-holders/senators-of-the-college-of-justice/lord-stuart>
+- <https://www.scotcourts.gov.uk/media/ba1nsc4o/2025csoh13-nf-against-af.pdf>
+
+**Contact:** Not publicly confirmed — judicial (do not solicit)
+
+*Notes: Judicial entry, citation purpose only. NF v AF judgment published on Scottish Courts and Tribunals Service site verifies the express PA / alienation finding.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `case-study:nf-v-af-2025-csoh-13-scotland`, `practitioner:uk-sco.scott-kc`, `practitioner:uk-sco.lady-wise`
+
+<sub>ID: `uk-sco.lord-stuart`</sub>
+
+### Shared Parenting Scotland
+*Scottish Charitable Incorporated Organisation (SCIO SC042817); formerly Families Need Fathers Scotland; Ian Maxwell named as author / lead spokesperson*
+Edinburgh · Scotland (national) · Scottish national shared-parenting charity
+
+**Stance:** Only Scottish charity systematically lobbying for statutory recognition of PA in Scots law. Maxwell's quoted position: 'It seems perverse that the very idea is still resisted in Scotland while decisions are being made about it in England and Wales.' Scotland's recognition pole is institutional (SPS) rather than bar-based — no Faculty of Advocates KC has been identified with an equivalent sourced recognition-camp PA stance.
+
+**Publications:**
+- English Appeal Court judgment exposes Scottish blind-spot on parental alienation (2024) — *Shared Parenting Scotland* — <https://www.sharedparenting.scot/english-appeal-court-judgment-exposes-scottish-blindspot-on-parental-alienation/>
+- Survival Guide to Parental Alienation (2023) — *Shared Parenting Scotland*
+- Submission to UN consultation on PA and contact (2023) — *Shared Parenting Scotland*
+- Scottish Parliament Petition PE2057 (shared parenting / prevention of child-parent separation) (2024) — *Scottish Parliament* — <https://petitions.parliament.scot/petitions/PE2057>
+
+**Verification:**
+- <https://www.sharedparenting.scot/>
+- <https://www.sharedparenting.scot/english-appeal-court-judgment-exposes-scottish-blindspot-on-parental-alienation/>
+- <https://petitions.parliament.scot/petitions/PE2057>
+
+**Contact:** info@sharedparenting.scot ; 0131 557 2440
+
+*Notes: OSCR Scottish Charity Register confirms SCIO SC042817. CPPP/S6/24/1/13 petition committee paper documents Scottish Parliament engagement.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `case-study:nf-v-af-2025-csoh-13-scotland`, `practitioner:uk-sco.lord-stuart`
+
+<sub>ID: `uk-sco.sps`</sub>
+
+### Joseff Morgan
+*Bar of England & Wales (Year of Call 2017); Wales and Chester Circuit; Legal 500 (2026): 'A thorough and tenacious junior.'*
+Cardiff · Wales · 9 Park Place, Cardiff
+
+**Stance:** Named Cardiff junior who has explicitly secured PA findings on the chambers public record — concrete recognition-camp Welsh practitioner. Re E (anonymised) chambers profile: 'secured substantial and numerous findings against a parent in relation to emotional harm of the child, and parental alienation of the separated parent'. Only named Welsh-jurisdiction junior with an explicit recognition-camp PA stance on a chambers website.
+
+**Publications:**
+- Re M (Children: Findings of Fact) [2024] EWCA Civ 1290 (serious abuse allegations) (2024) — *Court of Appeal*
+
+**Verification:**
+- <https://www.9parkplace.co.uk/members/joseff-morgan/>
+
+**Contact:** family@9parkplace.co.uk ; 029 2038 2731
+
+*Notes: 9 Park Place profile verifies the explicit PA-finding language; Re T (contested education), Re H (residence change), and Re E (PA findings) are all referenced on the chambers profile.*
+
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-wls.john-barrister`, `practitioner:uk-sco.lord-stuart`, `case-study:nf-v-af-2025-csoh-13-scotland`
+
+<sub>ID: `uk-wls.morgan-joseff`</sub>
+
+## Critique camp
+
+### Scottish Women's Aid
+*Scottish national federation of local Women's Aid groups; member organisation of Engender*
+Edinburgh · Scotland (national) · Scottish national domestic-violence-survivor federation
+
+**Stance:** Scotland's lead DV-survivor organisation; structural critique-pole counterweight to Shared Parenting Scotland. Position treats PA as 'a dangerous and harmful concept' used to silence DV survivors. SWA briefing 'Still Not Safe: Child Contact in Scotland' (December 2024) and SWA submission to Scottish Parliament Equalities, Human Rights and Civil Justice Committee (2 December 2024) are the primary-source critique-camp anchors.
+
+**Publications:**
+- Still Not Safe: Child Contact in Scotland (16 Days briefing) (2024) — *Scottish Women's Aid* — <https://womensaid.scot/wp-content/uploads/2024/12/SWA-Briefing_Still-Not-Safe_16-Days_2024.pdf>
+- Submission to Scottish Parliament EHRCJ Committee on non-implementation of Acts of the Scottish Parliament (2024) — *Scottish Parliament* — <https://www.parliament.scot/-/media/files/committees/equalities-human-rights-and-civil-justice-committee/correspondence/2024/non-implementation-of-acts-of-the-scottish-parliament-scottish-womens-aid-2-december-2024.pdf>
+
+**Verification:**
+- <https://womensaid.scot/>
+- <https://womensaid.scot/wp-content/uploads/2024/12/SWA-Briefing_Still-Not-Safe_16-Days_2024.pdf>
+
+**Contact:** info@womensaid.scot ; 0131 226 6606
+
+*Notes: Both primary-source briefing and parliamentary submission are publicly published; institutional status verified via womensaid.scot.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.engender`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+
+<sub>ID: `uk-sco.swa`</sub>
+
+### Engender
+*Scotland's national feminist policy and advocacy organisation; convening body for Scottish women's-sector organisations including SWA*
+Edinburgh · Scotland (national) · Scottish national feminist policy NGO
+
+**Stance:** Convening body for Scottish women's-sector organisations on family-law reform — single point of access to the critique-camp coalition. Aligned with SWA position; treats PA allegations as a vehicle for perpetrator continuation of coercive control. Consultation response to Scottish Law Commission on Aspects of Family Law (Cohabitation) is the primary-source policy artefact.
+
+**Publications:**
+- Consultation response to Scottish Law Commission on Aspects of Family Law (Cohabitation) (2022) — *Engender* — <https://www.engender.org.uk/content/publications/Engender-consulation-response-Scottish-Law-Commission-Aspects-of-Family-Law-Cohabitation.pdf>
+
+**Verification:**
+- <https://www.engender.org.uk/>
+- <https://gendermatters.engender.org.uk/content/violence-against-women/>
+
+**Contact:** info@engender.org.uk ; 0131 558 9596
+
+*Notes: Convening body status verified via engender.org.uk; consultation response published on Engender publications site.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.swa`
+
+<sub>ID: `uk-sco.engender`</sub>
+
+### Dr Mairead McCormack
+*DChild (Doctorate in Childhood Studies, QUB 2021); academic / practitioner-researcher; specific legal-profession registration not publicly confirmed*
+Belfast · Northern Ireland · Queen's University Belfast — School of Social Sciences, Education and Social Work
+
+**Stance:** Critique-leaning middle — reports gender bias in court treatment of mothers; engages both sides. Only published NI-specific empirical study of how parental alienation is treated by NI family-court professionals. McCormack, 'Parental alienation — An exploratory study of legal professionals' views and experiences in Northern Ireland,' DChild thesis QUB (2021) — the only NI academic anchor.
+
+**Publications:**
+- Parental alienation — An exploratory study of legal professionals' views and experiences in Northern Ireland (DChild thesis) (2021) — *Queen's University Belfast* — <https://pureadmin.qub.ac.uk/ws/portalfiles/portal/250912365/Mairead_McCormack_DChild_Thesis_2021.pdf>
+
+**Verification:**
+- <https://pure.qub.ac.uk/en/studentTheses/parental-alienation>
+- <https://pureadmin.qub.ac.uk/ws/portalfiles/portal/250912365/Mairead_McCormack_DChild_Thesis_2021.pdf>
+
+**Contact:** Via QUB pure.qub.ac.uk profile / SSESW office
+
+*Notes: QUB pure repository verifies DChild thesis (2021); only NI-specific empirical PA study identified at directory standard.*
+
+**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.wafni`, `practitioner:uk-wls.doughty-julie`
+
+<sub>ID: `uk-nir.mccormack`</sub>
+
+### Women's Aid Federation Northern Ireland (WAFNI)
+*Northern Ireland national federation of local Women's Aid groups*
+Belfast · Northern Ireland (national) · NI national domestic-violence-survivor federation
+
+**Stance:** Only NI-specific institutional critique-camp position published in a primary-source briefing. Official position: perpetrators' behaviours 'should be firmly placed within the framework of coercive control' rather than framed in PA terminology. WAFNI Parental Alienation Briefing (25 June 2020) is the only published NI-specific WA institutional position on PA.
+
+**Publications:**
+- WAFNI Parental Alienation Briefing (2020) — *Women's Aid Federation Northern Ireland* — <https://www.womensaidni.org/assets/uploads/2020/06/WAFNI-Parental-Alienation-Briefing.pdf>
+
+**Verification:**
+- <https://www.womensaidni.org/>
+- <https://www.womensaidni.org/parental-alienation-briefing/>
+- <https://www.irishtimes.com/ireland/social-affairs/2022/10/31/domestic-abuse-claims-by-women-in-family-courts-often-dismissed-as-irrelevant/>
+
+**Contact:** info@womensaidni.org ; 028 9024 9041
+
+*Notes: WAFNI briefing PDF and dedicated landing page verify institutional position; Irish Times coverage provides press corroboration of dismissed-DV-claims pattern.*
+
+**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.swa`, `practitioner:uk-wls.wwa`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+
+<sub>ID: `uk-nir.wafni`</sub>
+
+### Dr Julie Doughty
+*LLB PhD; Lecturer in Law; previously practising solicitor (specific roll status not publicly confirmed)*
+Cardiff · Wales · Cardiff University, School of Law and Politics (primary); University of Exeter Network on Family Regulation and Society (affiliated)
+
+**Stance:** THE Welsh academic anchor in the PA debate. Author of the only Welsh-Government-commissioned PA literature review (April 2018) — the academic source from which Cafcass Cymru policy on PA derives. Frames PA as a 'belief system' rather than empirically grounded clinical concept. Dual-cred — already flagged in UK-therapists batch for cross-disciplinary citation; this entry is the lawyer / legal-academic listing.
+
+**Publications:**
+- Review of Research and Case Law on Parental Alienation (commissioned by Cafcass Cymru) (2018) — *Welsh Government / Cardiff ORCA* — <https://www.gov.wales/sites/default/files/publications/2018-05/review-of-research-and-case-law-on-parental-alienation.pdf>
+- Professional responses to parental alienation: research-informed practice (2020) — *Journal of Social Welfare and Family Law 42(1)* — <https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701938>
+- History of the parental alienation belief system (2021) — *academic paper (Doughty & Drew)*
+- The international expansion of the parental alienation belief system through the UK and Australian experiences (2022) — *academic paper (Doughty & Rathus)*
+
+**Verification:**
+- <https://www.exeter.ac.uk/research/groups/law/frs/people/juliedoughty/>
+- <https://www.gov.wales/sites/default/files/publications/2018-05/review-of-research-and-case-law-on-parental-alienation.pdf>
+- <https://orca.cardiff.ac.uk/id/eprint/112511/>
+
+**Contact:** doughtyj@cardiff.ac.uk
+
+*Notes: Welsh Government publications site and Cardiff ORCA both verify the 2018 Cafcass Cymru commissioned review; Tandfonline verifies the JSWFL 2020 article.*
+
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.mccormack`, `practitioner:uk-wls.wwa`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+
+<sub>ID: `uk-wls.doughty-julie`</sub>
+
+### Welsh Women's Aid
+*Welsh national federation of local Women's Aid groups*
+Cardiff · Wales (national) · Wales-specific national domestic-violence-survivor federation
+
+**Stance:** Wales-specific federation; preferred channel for any Welsh-language critique-camp engagement. WWA shares the UK Women's Aid federation-wide position framing PA as 'a dangerous and harmful concept'. WWA-specific published PA briefing not publicly confirmed as a standalone document; position sourced from the federation-wide Women's Aid stance and from Cafcass Cymru parent-facing guidance.
+
+**Verification:**
+- <https://welshwomensaid.org.uk/>
+- <https://womensaid.org.uk/parental-alienation-a-dangerous-and-harmful-concept/>
+- <https://www.gov.wales/cafcass-cymru/family-separation/information-for-parents>
+
+**Contact:** info@welshwomensaid.org.uk ; live-chat helpline 0808 80 10 800
+
+*Notes: WWA landing page verifies institutional status; Cafcass Cymru parent-facing guidance and federation-wide Women's Aid PA position provide primary-source stance basis.*
+
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.swa`, `practitioner:uk-nir.wafni`, `practitioner:uk-wls.doughty-julie`
+
+<sub>ID: `uk-wls.wwa`</sub>
+
+## Middle / methodological camp
+
+### Janys M Scott KC, Advocate
+*KC (Faculty of Advocates, Year of Call 1992, Year of Silk 2007); previously admitted solicitor (England and Scotland); part-time sheriff since 2005; Accredited Family Law Arbitrator (FLAGS)*
+Edinburgh · Scotland · Westwater Advocates (Edinburgh); Faculty of Advocates; CCBE Family & Succession Committee (UK representative); former Chair, Advocates' Family Law Association 2013-2018
+
+**Stance:** Most senior Scottish family-law silk; star-ranked Chambers UK Bar 2026 family (children & matrimonial finance). Senior counsel in seven Supreme Court cases. Specific named PA judgments as lead counsel not publicly confirmed; children-law specialism is institutional. Author, Education Law in Scotland (2nd ed., 2016). Scottishlegal.com 'Lawyer of the Month' interview is the public-source basis for the middle / institutional positioning.
+
+**Publications:**
+- Education Law in Scotland (2nd ed.) (2016) — *W. Green / Thomson Reuters*
+
+**Verification:**
+- <https://www.westwateradvocates.com/counsel/janys-m-scott-kc/>
+- <https://www.advocates.org.uk/advocates/janys-margaret-scott>
+- <https://www.scottishlegal.com/articles/lawyer-of-the-month-janys-scott-qc>
+
+**Contact:** janys.scott@westwateradvocates.com ; 0131 226 5071
+
+*Notes: Faculty of Advocates roll and Westwater Advocates profile both verify silk status and family-law specialism; no named PA judgment as lead counsel verifiable via Scottish Courts publication search.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `case-study:nf-v-af-2025-csoh-13-scotland`, `practitioner:uk-sco.lord-stuart`
+
+<sub>ID: `uk-sco.scott-kc`</sub>
+
+### Lady Wise (The Hon Lady Wise / Morag Wise), Senator of the College of Justice
+*Senator of the College of Justice (February 2013); QC (2005); Faculty of Advocates (1993); Solicitor (1989)*
+Edinburgh · Scotland · Court of Session — one of two designated Family Judges; Hague Network of Judges (international child abduction)
+
+**Stance:** Designated Family Judge of the Court of Session handling private-children and international child abduction matters. Specific named PA judgment by Lady Wise not publicly confirmed at the level of Lord Stuart's NF v AF; stance recorded as middle on the basis of institutional position and absence of express PA-camp framing in published Hague Network of Judges output.
+
+**Verification:**
+- <https://judiciary.scot/home/judiciary/judicial-office-holders/senators-of-the-college-of-justice/lady-wise>
+
+**Contact:** Not publicly confirmed — judicial (do not solicit)
+
+*Notes: Judicial biography on judiciary.scot verifies designated-Family-Judge role. Structural significance: one of only two designated family judges in the Court of Session.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.lord-stuart`
+
+<sub>ID: `uk-sco.lady-wise`</sub>
+
+### Sarah Lilley
+*Solicitor of the Law Society of Scotland; Accredited Specialist in Child Law (Law Society of Scotland); Accredited Specialist in Family Law (Law Society of Scotland); Accredited Family Law Mediator; trauma-informed law certified*
+Inverness · Scotland (Highlands) · Brodies LLP — Inverness / Highlands; Partner (Family Law)
+
+**Stance:** Only named Brodies family-law partner who has publicly authored on PA in Scotland (Brodies insights piece 'Parental alienation in Scottish child law'). Published cautious-use position: 'If the term is to be used more readily in Scottish child law disputes then it requires to be utilised with caution and only by those who understand its meaning.' Rare regional (Highlands & Islands) voice — geographic diversity from the Edinburgh / Glasgow concentration.
+
+**Publications:**
+- Parental alienation in Scottish child law (2024) — *Brodies LLP insights* — <https://brodies.com/insights/family-law/parental-alienation-in-scottish-child-law/>
+- Supporting children through divorce (podcast with Prof Ewan Gillon, First Psychology) (2023) — *Brodies LLP* — <https://brodies.com/insights/family-law/supporting-children-through-divorce/>
+
+**Verification:**
+- <https://brodies.com/people/sarah-lilley/>
+- <https://brodies.com/insights/family-law/parental-alienation-in-scottish-child-law/>
+
+**Contact:** sarah.lilley@brodies.com (firm convention; confirm via Inverness switchboard 01463 224 545)
+
+*Notes: Brodies profile verifies Law Society of Scotland Child Law and Family Law dual-accreditation; Inverness / Tain Sheriff Court appointments for child welfare and curatrix ad litem reports.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `case-study:nf-v-af-2025-csoh-13-scotland`
+
+<sub>ID: `uk-sco.lilley-sarah`</sub>
+
+### Caroline Millar
+*Solicitor of the Law Society of Scotland (Director, SKO Family Law Specialists; specific accreditation tier not publicly confirmed on landing page)*
+Edinburgh · Scotland · SKO Family Law Specialists (Edinburgh); Director
+
+**Stance:** SKO is one of the only Scotland-based boutique family-law firms to have published a dedicated PA case-analysis piece. Published case-comment analyses AH v CH [2016] CSOH 152 and J v M [2016] CSIH 52 — the two leading pre-2020 Scottish Court of Session decisions where one parent's attitude was determinative of contact outcomes. Article republished in Journal of the Law Society of Scotland.
+
+**Publications:**
+- Parental alienation in Scotland (case-comment on AH v CH [2016] CSOH 152 and J v M [2016] CSIH 52) (2020) — *SKO Family Law / Journal of the Law Society of Scotland* — <https://www.sko-family.co.uk/news/parental-alienation-in-scotland/>
+
+**Verification:**
+- <https://www.sko-family.co.uk/>
+- <https://www.sko-family.co.uk/news/parental-alienation-in-scotland/>
+
+**Contact:** firm contact form at https://www.sko-family.co.uk/contact/ ; 0131 226 7228
+
+*Notes: Director-level role verifiable via firm landing page; specific Law Society accreditation tier not publicly confirmed on the SKO landing page.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `case-study:nf-v-af-2025-csoh-13-scotland`
+
+<sub>ID: `uk-sco.millar-caroline`</sub>
+
+### Sandra M Sutherland
+*Solicitor of the Law Society of Scotland; Accredited Specialist in Family Law (Law Society of Scotland) for 20+ years; Trained Collaborative Practitioner; Family Law Mediator*
+Dundee · Scotland (Tayside / Angus) · Thorntons Law LLP — Dundee / Arbroath / Angus; Head of Family Law team (Partner)
+
+**Stance:** Long-standing Law Society of Scotland accredited family-law specialist in the Tayside / Dundee bar — geographic diversity from the Edinburgh / Glasgow concentration. Regularly appointed by Sheriff Court and Court of Session as Reporter in child-welfare cases and as Curator ad Litem in adoption proceedings. Chambers UK ranked for 5 years. No published PA-specific stance source; classified as middle on the basis of court-appointed reporter / curator-ad-litem neutral work.
+
+**Verification:**
+- <https://www.thorntons-law.co.uk/our-people/sandra-sutherland>
+- <https://chambers.com/lawyer/sandra-m-sutherland-uk-1:39307>
+
+**Contact:** ssutherland@thorntons-law.co.uk (firm convention); 01382 229111
+
+*Notes: Thorntons profile and Chambers UK ranking both verify Law Society of Scotland Family Law accreditation and Tayside / Angus practice base.*
+
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`
+
+<sub>ID: `uk-sco.sutherland-sandra`</sub>
+
+### The Rt Hon Dame Siobhan Keegan DBE KC, Lady Chief Justice of Northern Ireland
+*Lady Chief Justice of Northern Ireland (sworn 2 September 2021); Mrs Justice Keegan (2015); QC (2006); Bar of Northern Ireland (called 1994); former Chair, Family Bar Association of Northern Ireland; former Vice-Chair, Bar of Northern Ireland*
+Belfast · Northern Ireland · Court of Judicature of Northern Ireland; previously Senior Family Judge of the High Court NI (April 2020 - September 2021)
+
+**Stance:** Only Lady Chief Justice in the UK whose pre-judicial career was as a family-law silk — gives NI's family judiciary unusual structural sophistication on child-welfare issues. First woman Lady Chief Justice in Northern Ireland. Columbia Journal of Transnational Law interview is the public-source basis for the institutional / middle positioning. Specific PA-named judgment as Mrs Justice Keegan not publicly confirmed at the level of McFarlane P's Re C / Re Y or Lord Stuart's NF v AF.
+
+**Verification:**
+- <https://www.nijac.gov.uk/commissioners/lady-chief-justice-right-honourable-dame-siobhan-keegan>
+- <https://www.jtl.columbia.edu/bulletin-blog/when-there-are-nine-interview-with-the-right-honourable-dame-siobhan-keegan-the-first-lady-chief-justice-of-northern-ireland>
+
+**Contact:** Not publicly confirmed — judicial (do not solicit)
+
+*Notes: NIJAC commissioners page and Columbia interview verify LCJ swearing-in date and pre-judicial Family Bar Association NI chairmanship.*
+
+**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.fba`, `practitioner:uk-nir.ohara-justice`
+
+<sub>ID: `uk-nir.keegan-lcj`</sub>
+
+### The Hon Mr Justice O'Hara (Sir John Ailbe O'Hara KC), Judge of the High Court of Justice in Northern Ireland
+*Judge of the High Court Northern Ireland (sworn 8 April 2013); QC / KC; Bar of Northern Ireland*
+Belfast · Northern Ireland · High Court of Justice in Northern Ireland
+
+**Stance:** Recognition-leaning middle: authored A Father v A Mother (in the matter of NI, a male child aged 10 years) (No. 2), 12 August 2022 — finding that one parent's 'core belief that he had been wronged' was incompatible with facilitating contact, refusing transfer of residence. Judgment is anonymised and does not use the PA label explicitly; sits between Scottish NF v AF (Lord Stuart, explicit) and English Re Y (McFarlane P, explicit-and-restraining). The clearest current NI judicial engagement with an alienating-dynamic without the express label.
+
+**Publications:**
+- A Father v A Mother (in the matter of NI, a male child aged 10 years) (No. 2) (2022) — *High Court of Justice in Northern Ireland* — <https://www.judiciaryni.uk/files/judiciaryni/decisions/A%20Father%20and%20A%20Mother%20and%20in%20the%20matter%20of%20NI%20(a%20male%20child%20aged%2010%20years)%20(No.%202).pdf>
+
+**Verification:**
+- <https://www.judiciaryni.uk/judicial-members>
+- <https://www.judiciaryni.uk/files/judiciaryni/decisions/A%20Father%20and%20A%20Mother%20and%20in%20the%20matter%20of%20NI%20(a%20male%20child%20aged%2010%20years)%20(No.%202).pdf>
+
+**Contact:** Not publicly confirmed — judicial (do not solicit)
+
+*Notes: Judgment published on judiciaryni.uk verifies the alienating-dynamic finding without explicit PA label. Cite this judgment in any NI-facing brief.*
+
+**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.keegan-lcj`, `practitioner:uk-sco.lord-stuart`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+
+<sub>ID: `uk-nir.ohara-justice`</sub>
+
+### Catrin John
+*Bar of England & Wales (Year of Call 1992); Wales and Chester Circuit; Head of Chambers at 30 Park Place since October 2023*
+Cardiff · Wales · 30 Park Place, Cardiff
+
+**Stance:** Head of the leading family-law set in Wales — gateway to the entire 30 Park Place children-law team (37 family practitioners). Public-law children silk-track practitioner representing local authorities and children's guardians. Legal 500: 'highly regarded in the public law children field' specialising in 'heavyweight sexual and physical abuse matters'. Specific PA-named judgments not publicly confirmed on chambers profile; her ranked specialism is public-law children, where PA arguments more often surface as a counter-allegation.
+
+**Verification:**
+- <https://www.30parkplace.co.uk/barristers/profile/catrin-john>
+- <https://www.legal500.com/firms/9556-30-park-place/c-wales/barristers>
+
+**Contact:** clerks@30parkplace.co.uk ; +44 (0)29 2023 8838
+
+*Notes: 30 Park Place profile and Legal 500 directory both verify Head of Chambers role since October 2023 and public-law children specialism.*
+
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-wls.morgan-joseff`
+
+<sub>ID: `uk-wls.john-barrister`</sub>
+
+### Ian Halliday
+*Bar of England & Wales (Year of Call 1989); Lincoln's Inn; Western Circuit; Family Law Bar Association*
+Cardiff · Wales · Queen Square Chambers, Cardiff / Bristol
+
+**Stance:** Cardiff-rooted senior junior with PA-defence experience pre-dating the modern Re C / Re Y line. PA-relevant case was as respondent's counsel — engages both sides of the PA-allegation dynamic. Re A, L & A (2014, High Court) — instructed for respondent mother where applicant father alleged 'parental alienation syndrome' resulting from mother's misinformation about him.
+
+**Publications:**
+- Re A, L & A (PA-defence representation, High Court) (2014) — *High Court of Justice*
+- Re North Somerset Council v W & B (2017) — *Family Court*
+- Re Cardiff City Council v A & A (2018) — *Family Court*
+- Re GCC v N & Others (two-month fact-finding on alleged exposure to sexual exploitation risk) (2018) — *Family Court*
+
+**Verification:**
+- <https://qsc.law/barrister/ian-halliday/>
+
+**Contact:** clerks@qsc.law ; +44 (0)29 2023 9670 (Cardiff office)
+
+*Notes: Queen Square Chambers profile verifies practice areas and Cardiff/Bristol base; PA-relevant case listings sourced from chambers profile.*
+
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+
+<sub>ID: `uk-wls.halliday-ian`</sub>
+
+## Institutional anchors
+
+### Bar of Northern Ireland — Family Bar Association
+*Practice section within the Bar of Northern Ireland; institutional gateway to NI practising barristers*
+Belfast · Northern Ireland (national) · Bar of Northern Ireland
+
+**Stance:** Single access point for all NI practising barristers; cross-reference any individual-outreach name against this directory before contact. LCJ Keegan was a former Chair of the Family Bar Association NI (per her judicial biography). Specific Family Bar Association leadership 2026 not publicly confirmed on the Bar of NI public site — mixed / unspecified at institutional level. Martina Connolly KC (Family / Judicial Review / Criminal) appears in the directory as a Deputy County Court Judge appointment.
+
+**Verification:**
+- <https://www.barofni.com/page/practising-barristers>
+- <https://www.barofni.com/directory/search/search&channel=barristers&barrister_areas=family>
+- <https://www.barofni.com/directory/martina-connolly-kc>
+
+**Contact:** Bar Library, 91 Chichester Street, Belfast BT1 3JQ ; +44 (0)28 9056 2200
+
+*Notes: Bar of NI directory verifies institutional gateway role and Martina Connolly KC (corrected from v1.0 Mary Connolly KC, which does not exist on the Bar of NI register).*
+
+**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.keegan-lcj`
+
+<sub>ID: `uk-nir.fba`</sub>
+
+### Linenhall Chambers
+*Multi-disciplinary chambers; collective of Bar of England & Wales barristers; substantial Welsh-medium family-law capacity*
+Chester / North Wales circuit · Wales (Welsh-medium placeholder) · Linenhall Chambers
+
+**Stance:** Only chambers publicly identified as offering Welsh-medium family-law representation: 'a large proportion of the team are Welsh speakers and able to conduct conferences and hearings through the medium of Welsh'. Relevant for any Welsh-language outreach material. Individual Welsh-speaking PA-experienced barristers are not publicly confirmed by name as having sourced stances. Stance recorded as institutional at chambers level.
+
+**Verification:**
+- <https://www.lhchambers.co.uk/our-expertise/family-law/>
+
+**Contact:** clerks@lhchambers.co.uk
+
+*Notes: Linenhall Chambers family-law expertise page verifies the Welsh-medium capacity statement; no individual Welsh-medium PA-experienced barrister identified with a sourced stance.*
+
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-wls.john-barrister`, `practitioner:uk-wls.morgan-joseff`
+
+<sub>ID: `uk-wls.linenhall`</sub>
+
+## Excluded (with documented reason)
+
+- **Mary Connolly KC (purported)** — Unverifiable — name not located on Bar of Northern Ireland directory. The Bar of NI directory returns Martina Connolly KC (Family / Judicial Review / Criminal; Deputy County Court Judge), not 'Mary Connolly KC'. No 'Mary Connolly KC' family-law barrister identified at directory standard. Martina Connolly KC is correctly preserved in the active entry uk-nir.fba (Bar of NI Family Bar Association institutional listing).
+  - Primary source: <https://www.barofni.com/directory/martina-connolly-kc>
+- **Jonathan Dunlop KC (purported)** — Unverifiable / wrong specialism — Bar of NI barrister Jonathan Dunlop is a commercial / professional negligence / judicial review junior, not a family-law silk. KC status itself not publicly confirmed on the Bar of NI directory. Excluded as miscategorised at v1.0 source.
+  - Primary source: <https://www.barofni.com/page/practising-barristers>
+- **Cara Goodwin, Advocate (purported)** — Unverifiable — no advocate of this name found on the Faculty of Advocates register or on stable Scottish bar / chambers websites. Excluded for absence of verifiable Faculty roll entry at directory standard.
+  - Primary source: <https://www.advocates.org.uk/find-an-advocate>
+- **Family Law Scotland Ltd (purported)** — Unverifiable — no institution of this exact name located on Companies House, the Law Society of Scotland register, or general primary-source search. Excluded as not located at directory standard.
+  - Primary source: <https://find-and-update.company-information.service.gov.uk/>
+- **Lord Brodie / Lord Tyre Inner House PA judgments (purported)** — Unverifiable — specific PA judgments not publicly confirmed. Lord Brodie retired from the bench; the named appellate judgment recovered concerned a non-harassment order's reach to children, not PA. Lord Tyre named PA-judgment not publicly confirmed at directory standard.
+  - Primary source: <https://www.scotcourts.gov.uk/>
+- **Centre for Children's Rights Edinburgh (purported)** — Unverifiable — no institution of this exact name located. University of Edinburgh hosts a Centre for Research on Families and Relationships (CRFR) but no PA-specific output found at directory standard.
+  - Primary source: <https://www.crfr.ac.uk/>
+- **Welsh Family Justice Network 2021 (purported)** — Unverifiable as a standalone organisation — Welsh Government 2022 Delivering Justice for Wales budget references a Family Justice Network as part of broader reforms, but no standalone organisation with a public PA position located at directory standard.
+  - Primary source: <https://www.gov.wales/delivering-justice-wales>
+- **Faculty of Advocates Wales pool (purported)** — Terminology error — Faculty of Advocates is the Scottish bar; Wales has no equivalent advocates' faculty. Welsh barristers are members of the Bar of England & Wales (Wales and Chester Circuit).
+  - Primary source: <https://www.advocates.org.uk/>
+- **Belfast Bar Association Family Section (purported)** — Reframed — NI's professional body is the Bar of Northern Ireland (not a 'Belfast Bar Association'); the Family Bar Association is the practice section. Correctly preserved as the active entry uk-nir.fba.
+  - Primary source: <https://www.barofni.com/page/practising-barristers>
+- **Welsh-medium individual PA-experienced barrister (purported)** — Partial — institutional only. No individual Welsh-medium PA-experienced barrister identified with a sourced stance at directory standard. Linenhall Chambers is preserved at uk-wls.linenhall as the institutional Welsh-medium placeholder.
+  - Primary source: <https://www.lhchambers.co.uk/our-expertise/family-law/>
+
 
 ---
 
-## Scotland
-
-### S1. Janys M Scott KC, Advocate
-- **Stable:** Westwater Advocates (Edinburgh)
-- **Profile URLs:** https://www.advocates.org.uk/advocates/janys-margaret-scott ; https://www.westwateradvocates.com/counsel/janys-m-scott-kc/
-- **Bar admissions:** Faculty of Advocates, Year of Call 1992; Year of Silk 2007. Previously admitted as a solicitor in England and Scotland. Part-time sheriff since 2005. Accredited Family Law Arbitrator (FLAGS).
-- **Stance:** middle / recognition-leaning (substantive engagement with child-welfare and Hague Convention work; chaired Advocates' Family Law Association 2013-2018)
-- **Stance source:** Faculty of Advocates profile — https://www.advocates.org.uk/advocates/janys-margaret-scott ; Scottish Legal News "Lawyer of the Month" — https://www.scottishlegal.com/articles/lawyer-of-the-month-janys-scott-qc ; Brodies guest commentary "Looking back for the way ahead" — https://brodies.com/insights/family-law/looking-back-for-the-way-ahead/
-- **Named cases / publications:** Star-ranked in Chambers UK Bar 2026 for family (children & matrimonial finance); senior counsel in seven Supreme Court cases; author of *Education Law in Scotland* (2nd ed., 2016); UK representative on CCBE Family & Succession Committee; specific named PA judgments **not publicly confirmed** as lead counsel of record, but children-law specialism is institutional
-- **Primary contact:** janys.scott@westwateradvocates.com ; 0131 226 5071 ; stable line 0131 260 5700
-- **Tier:** 1
-- **Hook:** Most senior Scottish family-law silk; former chair of the Advocates' Family Law Association — gateway to the Faculty's family-law pool.
-
-### S2. Lord Stuart (The Hon Lord Stuart), Senator of the College of Justice
-- **Court:** Outer House, Court of Session — designated Family Judge (since Nov 2022)
-- **Profile URL:** https://judiciary.scot/home/judiciary/judicial-office-holders/senators-of-the-college-of-justice/lord-stuart
-- **Background:** Called Scottish Bar July 2003; Advocate Depute 2009-2012; KC 2017; appointed Senator May 2022; mediator (Core Solutions, 2015); former Court Reporter in child-related matters
-- **Stance (judicial):** recognition — authored *NF v AF* [2025] CSOH 13, the most explicit recent Scottish Outer House finding that a parent had emotionally abused children by knowingly making false allegations to alienate them from the other parent
-- **Stance source:** Opinion of Lord Stuart, *NF v AF* [2025] CSOH 13 (5 Feb 2025) — https://www.scotcourts.gov.uk/media/ba1nsc4o/2025csoh13-nf-against-af.pdf ; CaseMine commentary — https://www.casemine.com/commentary/uk/emotional-abuse-and-parental-alienation-in-child-welfare:-comprehensive-commentary-on-nf-v-af-2025-csoh-13/view
-- **Named judgments:** *NF v AF* [2025] CSOH 13 — finding that defender "engaged in direct emotional abuse by knowingly making false and severe allegations against the Pursuer, aiming to alienate the children from him"
-- **Tier:** N/A (judicial; do not solicit)
-- **Hook:** *NF v AF* is the strongest Scottish judicial statement to date that alienating conduct can constitute emotional abuse — cite in any Scotland-facing brief.
-
-### S3. Lady Wise (The Hon Lady Wise / Morag Wise), Senator of the College of Justice
-- **Court:** Court of Session — one of two designated Family Judges; Hague Network of Judges (international child abduction)
-- **Profile URL:** https://judiciary.scot/home/judiciary/judicial-office-holders/senators-of-the-college-of-justice/lady-wise
-- **Background:** Qualified solicitor 1989; called Faculty of Advocates 1993; QC 2005; appointed Senator Feb 2013
-- **Stance (judicial):** middle / procedural-reform — sits as a designated family judge handling residence, contact and child-abduction matters where alienating-behaviour issues frequently arise; a specific named PA judgment authored by Lady Wise is **not publicly confirmed** at the level of Lord Stuart's *NF v AF*
-- **Stance source:** Judiciary of Scotland profile (above)
-- **Tier:** N/A (judicial; do not solicit)
-- **Hook:** Structural — one of only two designated family judges in the Court of Session; institutional gatekeeper to Scottish private-children jurisprudence.
-
-### S4. Sarah Lilley, Partner (Family Law)
-- **Firm:** Brodies LLP — Inverness / Highlands office
-- **Firm URL:** https://brodies.com/people/sarah-lilley/ ; Law Society of Scotland profile — https://www.lawscot.org.uk/people/sarah-lilley/
-- **Bar admissions:** Solicitor of the Law Society of Scotland; **accredited Specialist in Child Law**; **accredited Specialist in Family Law**; accredited Family Law Mediator; trauma-informed law certified
-- **Stance:** middle (cautious-use position — supports the *concept* in narrow circumstances but argues it requires careful, trained application; explicitly engages both DV and alienating-behaviour frames)
-- **Stance source:** Lilley, "Parental alienation in Scottish child law," *Brodies Insights* — https://brodies.com/insights/family-law/parental-alienation-in-scottish-child-law/ — quote: "*If the term is to be used more readily in Scottish child law disputes then it requires to be utilised with caution and only by those who understand its meaning.*"
-- **Named cases / publications:** Brodies podcast with Prof Ewan Gillon (First Psychology) on supporting children through divorce — https://brodies.com/insights/family-law/supporting-children-through-divorce/ ; appointed by Inverness and Tain Sheriff Courts to prepare child welfare and curatrix ad litem reports
-- **Primary contact:** sarah.lilley@brodies.com (Brodies firm convention; confirm via Inverness switchboard 01463 224 545)
-- **Tier:** 2
-- **Hook:** Only named Brodies family-law partner who has publicly authored on PA in Scotland; rare regional (Highlands & Islands) voice on the issue.
-
-### S5. Caroline Millar, Solicitor (Director)
-- **Firm:** SKO Family Law Specialists (Edinburgh) — directors are Susan Oswald, Carole Lyon and Caroline Millar
-- **Firm URL:** https://www.sko-family.co.uk/ ; article — https://www.sko-family.co.uk/news/parental-alienation-in-scotland/
-- **Bar admissions:** Solicitor of the Law Society of Scotland (specific accreditation tier **not publicly confirmed** on landing page)
-- **Stance:** middle (analytic engagement; published case-analysis of two Scottish Court of Session decisions where parental influence shaped contact outcomes)
-- **Stance source:** Millar, "Parental alienation in Scotland," SKO Family Law — https://www.sko-family.co.uk/news/parental-alienation-in-scotland/ — citing *AH v CH* [2016] CSOH 152 and *J v M* [2016] CSIH 52; article also published in *Journal of the Law Society of Scotland*
-- **Named cases / publications:** Authored published case-comment on the two leading pre-2020 Scottish Court of Session decisions where one parent's attitude was found to be determinative of contact outcomes
-- **Primary contact:** firm contact form at https://www.sko-family.co.uk/contact/ ; Edinburgh switchboard 0131 226 7228
-- **Tier:** 2
-- **Hook:** SKO is one of the only Scotland-based boutique family-law firms to have published a dedicated PA case-analysis piece — useful for any Scottish private-children submission.
-
-### S6. Sandra M Sutherland, Partner (Family Law)
-- **Firm:** Thorntons Law LLP (Dundee / Arbroath / Angus) — Head of Family Law team
-- **Firm URL:** https://www.thorntons-law.co.uk/our-people/sandra-sutherland
-- **Bar admissions:** Solicitor of the Law Society of Scotland; **accredited Specialist in Family Law (Law Society of Scotland)** for 20+ years; trained Collaborative Practitioner; Family Law Mediator
-- **Stance:** middle (no published PA-specific stance located; classified as middle on the basis of court-reporter / curator-ad-litem appointments which require neutral child-welfare analysis)
-- **Stance source:** Chambers UK ranked profile — https://chambers.com/lawyer/sandra-m-sutherland-uk-1:39307 ; firm profile (above)
-- **Named cases / publications:** Regularly appointed by Sheriff Court and Court of Session as Reporter in child-welfare cases and as Curator ad Litem in adoption proceedings; **specific PA stance source not publicly confirmed** — included on the basis of routine child-related court appointments
-- **Primary contact:** ssutherland@thorntons-law.co.uk (firm convention; confirm via 01382 229111)
-- **Tier:** 3
-- **Hook:** Long-standing Law Society of Scotland accredited family-law specialist in the Tayside/Dundee bar — geographic diversity from the Edinburgh/Glasgow concentration.
-
-### S7. Shared Parenting Scotland (institutional — recognition pole)
-- **Type:** Scottish Charitable Incorporated Organisation (SC042817); formerly Families Need Fathers Scotland
-- **URL:** https://www.sharedparenting.scot/
-- **Lead / National Manager:** Ian Maxwell (named author of the organisation's PA commentary)
-- **Stance:** recognition (campaigns for PA to be included in the s.11 Children (Scotland) Act 1995 welfare checklist; petitioned Scottish Parliament for inclusion)
-- **Stance source:** Maxwell, "English appeal court judgment exposes Scottish blindspot on Parental Alienation" — https://www.sharedparenting.scot/english-appeal-court-judgment-exposes-scottish-blindspot-on-parental-alienation/ — quote: "*It seems perverse that the very idea is still resisted in Scotland while decisions are being made about it in England and Wales.*" ; PE2057 petition — https://petitions.parliament.scot/petitions/PE2057
-- **Named publications / campaigns:** Survival Guide to Parental Alienation; Scottish Parliament petition PE2057 (shared parenting / prevention of child-parent separation); submission to UN consultation on PA and contact; CPPP/S6/24/1/13 petition committee paper — https://www.parliament.scot/~/media/committ/7451/Petition-PE2057
-- **Primary contact:** info@sharedparenting.scot ; 0131 557 2440
-- **Tier:** 1 (institutional)
-- **Hook:** Only Scottish charity systematically lobbying for statutory recognition of PA in Scots law — direct policy-route partner.
-
-### S8. Scottish Women's Aid (institutional — critique pole)
-- **Type:** Scottish national federation of local Women's Aid groups
-- **URL:** https://womensaid.scot/
-- **Stance:** critique (treats PA as "a dangerous and harmful concept" used to silence DV survivors and obscure coercive control in contact disputes)
-- **Stance source:** SWA briefing "Still Not Safe: Child Contact in Scotland" (16 Days, Dec 2024) — https://womensaid.scot/wp-content/uploads/2024/12/SWA-Briefing_Still-Not-Safe_16-Days_2024.pdf ; SWA submission to Scottish Parliament EHRCJ Committee (2 Dec 2024) — https://www.parliament.scot/-/media/files/committees/equalities-human-rights-and-civil-justice-committee/correspondence/2024/non-implementation-of-acts-of-the-scottish-parliament-scottish-womens-aid-2-december-2024.pdf
-- **Named publications:** *Still Not Safe* briefing; ongoing parliamentary engagement on non-implementation of the Children (Scotland) Act 2020; member organisation of Engender
-- **Primary contact:** info@womensaid.scot ; 0131 226 6606
-- **Tier:** 1 (institutional)
-- **Hook:** Scotland's lead DV-survivor organisation; structurally positioned as the critique-pole counterweight to Shared Parenting Scotland in any policy submission.
-
-### S9. Engender (institutional — feminist policy)
-- **Type:** Scotland's national feminist policy and advocacy organisation
-- **URL:** https://www.engender.org.uk/
-- **Stance:** critique (aligns with SWA position; treats PA allegations as a vehicle for perpetrator continuation of coercive control through contact)
-- **Stance source:** Engender member-organisation directory listing SWA as lead — https://www.engender.org.uk/content/organisations/100-scottish-womens-aid/ ; gender-matters violence-against-women hub — https://gendermatters.engender.org.uk/content/violence-against-women/
-- **Named publications:** Consultation response to Scottish Law Commission on Aspects of Family Law (Cohabitation) — https://www.engender.org.uk/content/publications/Engender-consulation-response-Scottish-Law-Commission-Aspects-of-Family-Law-Cohabitation.pdf
-- **Primary contact:** info@engender.org.uk ; 0131 558 9596
-- **Tier:** 2 (institutional)
-- **Hook:** Engender is the convening body for Scottish women's-sector organisations on family-law reform — single point of access to the critique-camp coalition.
-
----
-
-## Northern Ireland
-
-### NI1. The Rt Hon Dame Siobhan Keegan DBE KC, Lady Chief Justice of Northern Ireland
-- **Court:** Lady Chief Justice of Northern Ireland (since 2 September 2021) — first woman to hold the post; previously Senior Family Judge of the High Court of Northern Ireland (Apr 2020 – Sep 2021)
-- **Profile URLs:** https://www.nijac.gov.uk/commissioners/lady-chief-justice-right-honourable-dame-siobhan-keegan ; https://en.wikipedia.org/wiki/Siobhan_Keegan
-- **Background:** Queen's University Belfast LLB 1993; called Bar of Northern Ireland 1994; QC 2006; Mrs Justice Keegan 2015; Senior Family Judge 2020; Lady Chief Justice 2021; previously Chair, **Family Bar Association of Northern Ireland**; Vice-Chair, Bar of Northern Ireland
-- **Stance (judicial):** middle / procedural-reform (career family-law silk; structural authority over NI family judicial framework as LCJ)
-- **Stance source:** Columbia Journal of Transnational Law interview — https://www.jtl.columbia.edu/bulletin-blog/when-there-are-nine-interview-with-the-right-honourable-dame-siobhan-keegan-the-first-lady-chief-justice-of-northern-ireland ; *Legal Women* February 2022 interview — https://issuu.com/benham/docs/legal_women_february_2022/s/14995489
-- **Named judgments:** Specific PA-named judgment as Mrs Justice Keegan **not publicly confirmed** at a comparable level to McFarlane P's *Re C* / *Re Y*; her PA-relevance is structural via the LCJ office and her career family-law silk background
-- **Tier:** N/A (judicial; do not solicit)
-- **Hook:** Only LCJ in the UK whose pre-judicial career was as a family-law silk — gives NI's family judiciary unusual structural sophistication on child-welfare issues.
-
-### NI2. The Hon Mr Justice O'Hara (Sir John Ailbe O'Hara KC), Judge of the High Court of Justice in Northern Ireland
-- **Court:** High Court of Justice in Northern Ireland; sworn in 8 April 2013
-- **Profile URLs:** https://en.wikipedia.org/wiki/John_Ailbe_O'Hara ; Judiciary NI directory — https://www.judiciaryni.uk/judicial-members
-- **Stance (judicial):** middle / recognition-leaning — authored a 2022 NI High Court judgment where he made explicit findings that one parent's "core belief that he had been wronged" was incompatible with facilitating contact, refusing to transfer residence
-- **Stance source:** *A Father v A Mother (in the matter of NI, a male child aged 10 years) (No. 2)* (12 Aug 2022) — https://www.judiciaryni.uk/files/judiciaryni/decisions/A%20Father%20and%20A%20Mother%20and%20in%20the%20matter%20of%20NI%20(a%20male%20child%20aged%2010%20years)%20(No.%202).pdf
-- **Named judgments:** 2022 NI High Court contact / residence judgment cited above (anonymised); see also Judiciary NI decisions database at https://www.judiciaryni.uk/judicial-decisions
-- **Tier:** N/A (judicial; do not solicit)
-- **Hook:** Cite the 2022 O'Hara judgment in any NI-facing brief — current, published, named-judge analysis of an alienating-style dynamic without using the PA label.
-
-### NI3. Dr Mairead McCormack, Researcher (Doctorate in Childhood Studies)
-- **Affiliation:** Queen's University Belfast — School of Social Sciences, Education and Social Work (DChild 2021)
-- **Profile URL:** https://pure.qub.ac.uk/en/studentTheses/parental-alienation
-- **Bar admissions:** Academic / practitioner-researcher; specific legal-profession registration **not publicly confirmed**
-- **Stance:** critique-leaning middle (empirical study of NI legal professionals' views; reports gender bias in court treatment of mothers; engages both sides)
-- **Stance source:** McCormack, "Parental alienation — An exploratory study of legal professionals' views and experiences in Northern Ireland," DChild thesis, QUB (2021) — https://pureadmin.qub.ac.uk/ws/portalfiles/portal/250912365/Mairead_McCormack_DChild_Thesis_2021.pdf
-- **Named publications:** 2021 DChild thesis (above) — only known NI-specific empirical study of PA in family-court practice; subsequent article on children's agency in contested child-arrangement proceedings
-- **Primary contact:** Via QUB pure.qub.ac.uk profile / SSESW office
-- **Tier:** 2
-- **Hook:** Only published NI-specific empirical study of how parental alienation is treated by NI family-court professionals — single most authoritative source on NI practice.
-
-### NI4. Women's Aid Federation Northern Ireland (WAFNI) (institutional — critique pole)
-- **Type:** NI national federation of local Women's Aid groups
-- **URL:** https://www.womensaidni.org/
-- **Stance:** critique — official position that perpetrators' behaviours "should be firmly placed within the framework of coercive control" rather than framed in PA terminology
-- **Stance source:** WAFNI Parental Alienation Briefing (25 June 2020) — https://www.womensaidni.org/parental-alienation-briefing/ ; full PDF — https://www.womensaidni.org/assets/uploads/2020/06/WAFNI-Parental-Alienation-Briefing.pdf ; *Irish Times* coverage on dismissal of DV claims in family courts — https://www.irishtimes.com/ireland/social-affairs/2022/10/31/domestic-abuse-claims-by-women-in-family-courts-often-dismissed-as-irrelevant/
-- **Named publications:** 2020 WAFNI Parental Alienation Briefing (the only published NI-specific WA institutional position on PA)
-- **Primary contact:** info@womensaidni.org ; 028 9024 9041
-- **Tier:** 1 (institutional)
-- **Hook:** Only NI-specific institutional critique-camp position published in a primary-source briefing — the critique-pole anchor for any NI submission.
-
-### NI5. Bar of Northern Ireland — Family Bar Association (institutional)
-- **Type:** Practice section within the Bar of Northern Ireland; **specific Family Bar Association leadership 2026 not publicly confirmed** on the Bar of NI public site
-- **URLs:** https://www.barofni.com/page/practising-barristers ; family practice search — https://www.barofni.com/directory/search/search&channel=barristers&barrister_areas=family
-- **Stance:** mixed / unspecified at institutional level — individual members span the stance spectrum; LCJ Keegan was a former Chair of the FBA (per her judicial biography), grounding the institution's structural relevance
-- **Stance source:** Bar of NI public directory (above); Keegan biographical sources cited at NI1
-- **Named members publicly listed in family practice:** Martina Connolly KC (Family / Judicial Review / Criminal — https://www.barofni.com/directory/martina-connolly-kc) — appointed Deputy County Court Judge; broader directory accessible via search link above
-- **Primary contact:** Via Bar Library, 91 Chichester Street, Belfast BT1 3JQ; +44 (0)28 9056 2200
-- **Tier:** 2 (institutional)
-- **Hook:** Single access point for all NI practising barristers; cross-reference any individual-outreach name against this directory before contact.
-
----
-
-## Wales (Welsh-jurisdiction specialists within E&W)
-
-### W1. Dr Julie Doughty, Lecturer in Law
-- **Affiliation:** Cardiff University, School of Law and Politics (primary); also affiliated with the University of Exeter Network on Family Regulation and Society (FRS)
-- **Profile URLs:** https://www.exeter.ac.uk/research/groups/law/frs/people/juliedoughty/ ; ResearchGate — https://www.researchgate.net/profile/Julie-Doughty
-- **Bar admissions:** Academic role; LLB PhD; previously practising solicitor (specific roll status **not publicly confirmed**)
-- **Stance:** critique (frames PA as a "belief system" rather than empirically grounded clinical concept; commissioned by Welsh Government / Cafcass Cymru as the lead reviewer of the evidence base)
-- **Stance source:** Doughty, Maxwell & Slater, *Review of Research and Case Law on Parental Alienation* (commissioned by Cafcass Cymru, April 2018) — https://www.gov.wales/sites/default/files/publications/2018-05/review-of-research-and-case-law-on-parental-alienation.pdf ; Cardiff ORCA record — https://orca.cardiff.ac.uk/id/eprint/112511/ ; Doughty, "Professional responses to 'parental alienation': research-informed practice," *Journal of Social Welfare and Family Law* 42(1) (2020) — https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701938
-- **Named publications:** 2018 Cafcass Cymru commissioned review (the only Welsh-Government-commissioned PA evidence review); 2020 JSWFL article on professional responses; 2021 chapter "History of the parental alienation belief system" with Mark Drew; 2022 chapter "The international expansion of the parental alienation belief system through the UK and Australian experiences" with Zoe Rathus (Griffith University, Australia)
-- **Primary contact:** doughtyj@cardiff.ac.uk
-- **Tier:** 1
-- **Hook:** Author of the only Welsh-Government-commissioned PA literature review (2018); the academic source that Cafcass Cymru policy on PA derives from. Dual-cred (UK therapists list too) — coordinate to avoid duplicate outreach.
-- **Notes:** Already flagged in the UK-therapists batch for cross-disciplinary citation; this entry is the lawyer/legal-academic listing.
-
-### W2. Catrin John, Head of Chambers / Barrister
-- **Chambers:** 30 Park Place, Cardiff (the leading family-law set in Wales)
-- **Chambers URL:** https://www.30parkplace.co.uk/barristers/profile/catrin-john ; chambers profile — https://www.30parkplace.co.uk/
-- **Bar admissions:** Bar of England & Wales; Year of Call 1992; Wales and Chester Circuit; Head of Chambers since October 2023 (following the elevation of Ruth Henke KC to the High Court bench)
-- **Stance:** middle (specialist public-children silk-track practitioner representing local authorities and children's guardians in heavyweight sexual and physical abuse matters; engages alienating-behaviour issues where they arise in public-law context)
-- **Stance source:** Legal 500 ranked profile — https://www.legal500.com/firms/9556-30-park-place/c-wales/barristers ; Chambers UK Bar 2026 — https://chambers.com/department/30-park-place-family-matrimonial-uk-bar-14:27:11849:2:10300
-- **Named cases / publications:** **Specific PA-named judgments not publicly confirmed** on her chambers profile (her ranked specialism is public-law children with serious abuse, where PA arguments more often surface as a counter-allegation than as a primary frame)
-- **Primary contact:** clerks@30parkplace.co.uk ; +44 (0)29 2023 8838
-- **Tier:** 2
-- **Hook:** Head of the leading family-law set in Wales — gateway to the entire 30 Park Place children-law team (37 family practitioners).
-
-### W3. Joseff Morgan, Barrister
-- **Chambers:** 9 Park Place, Cardiff
-- **Chambers URL:** https://www.9parkplace.co.uk/members/joseff-morgan/
-- **Bar admissions:** Bar of England & Wales; Year of Call 2017; Wales and Chester Circuit
-- **Stance:** recognition (chambers profile explicitly describes him as having "secured substantial and numerous findings against a parent in relation to emotional harm of the child, and parental alienation of the separated parent")
-- **Stance source:** 9 Park Place profile (above) — quoting the *Re E* case description; Legal 500 (2026) ranks him as "a thorough and tenacious junior"
-- **Named cases:** *Re E* (anonymised — emotional harm / parental alienation findings); *Re T* (contested education); *Re H* (residence change); *Re M (Children: Findings of Fact)* [2024] EWCA Civ 1290 (serious abuse allegations)
-- **Primary contact:** family@9parkplace.co.uk ; 029 2038 2731
-- **Tier:** 2
-- **Hook:** Named Cardiff junior who has explicitly secured PA findings on the chambers public record — concrete recognition-camp Welsh practitioner.
-
-### W4. Ian Halliday, Barrister
-- **Chambers:** Queen Square Chambers, Cardiff / Bristol office (3rd Floor, Capital Tower, Greyfriars Road, Cardiff CF10 3AG)
-- **Chambers URL:** https://qsc.law/barrister/ian-halliday/
-- **Bar admissions:** Bar of England & Wales; Year of Call 1989; Lincoln's Inn; Western Circuit; Family Law Bar Association
-- **Stance:** middle (his named PA-relevant case was as respondent's counsel — i.e. instructed by mother where father alleged "parental alienation syndrome"; engages both sides)
-- **Stance source:** QSC profile (above) listing *Re A, L & A* (2014) — High Court case "where applicant father alleged 'parental alienation syndrome' resulting from mother's misinformation about him"
-- **Named cases:** *Re A, L & A* (2014, High Court — PA-allegation defence); *Re North Somerset Council v W & B* (2016/17); *Re Cardiff City Council v A & A* (2018); *Re GCC v N & Others* (2017/18 — two-month fact-finding on alleged exposure to sexual exploitation risk)
-- **Primary contact:** clerks@qsc.law ; +44 (0)29 2023 9670 (Cardiff)
-- **Tier:** 3
-- **Hook:** Cardiff-rooted senior junior with PA-defence experience pre-dating the modern *Re C* / *Re Y* line — useful as a "deep-historical" counter-allegation perspective for any narrative work.
-
-### W5. Welsh Women's Aid (institutional — critique pole)
-- **Type:** Welsh national federation of local Women's Aid groups; the umbrella charity in Wales working to end domestic abuse and VAWG
-- **URL:** https://welshwomensaid.org.uk/
-- **Stance:** critique (aligns with the UK Women's Aid network position that "parental alienation" is a "dangerous and harmful concept" used to silence DV survivors)
-- **Stance source:** UK Women's Aid position paper "'Parental alienation': A dangerous and harmful concept" — https://womensaid.org.uk/parental-alienation-a-dangerous-and-harmful-concept/ (WWA shares the federation-wide position); Cafcass Cymru guidance to parents — https://www.gov.wales/cafcass-cymru/family-separation/information-for-parents
-- **Named publications:** WWA-specific published PA briefing **not publicly confirmed** as a standalone document; position is sourced from the federation-wide Women's Aid stance
-- **Primary contact:** info@welshwomensaid.org.uk ; live-chat helpline 0808 80 10 800
-- **Tier:** 2 (institutional)
-- **Hook:** Wales-specific federation; preferred channel for any Welsh-language critique-camp engagement, in contrast to England-headquartered Women's Aid.
-
-### W6. Linenhall Chambers (institutional — Welsh-language family practice)
-- **Type:** Multi-disciplinary chambers with substantial Welsh-medium family-law capacity (specific PA-named individual barrister **not publicly confirmed** as a stance-source)
-- **URL:** https://www.lhchambers.co.uk/our-expertise/family-law/
-- **Stance:** unspecified at institutional level — listed here only as the only publicly-identified Welsh-medium family-law chambers ("a large proportion of the team are Welsh speakers and able to conduct conferences and hearings through the medium of Welsh")
-- **Stance source:** Linenhall Chambers family-law expertise page (above)
-- **Primary contact:** clerks@lhchambers.co.uk
-- **Tier:** 3 (institutional, structural)
-- **Hook:** Only chambers publicly identified as offering Welsh-medium family-law representation — relevant if AntiAlienate ever produces Welsh-language outreach material.
-- **Notes:** Individual Welsh-speaking PA-experienced barristers are **not publicly confirmed** by name as having sourced stances — included as institutional placeholder.
-
----
-
-## Verified gaps / drop list
-
-| Candidate | Status | Reason |
-|---|---|---|
-| Mary Connolly KC (NI) | Dropped — name not verified | Bar of NI directory returns **Martina** Connolly KC, not Mary. No Mary Connolly KC family-law barrister identified at the Bar of NI. Possible misattribution in brief. |
-| Jonathan Dunlop KC (NI) | Dropped — wrong specialism | Bar of NI barrister Jonathan Dunlop is a commercial / professional negligence / judicial review junior, not a family-law silk. KC status **not publicly confirmed**. |
-| Cara Goodwin Advocate (Scotland) | Dropped — name not verified | No advocate of this name found on Faculty of Advocates register or stable websites. Possible misattribution. |
-| Lord Brodie / Lord Tyre Inner House PA judgments (Scotland) | Dropped — specific PA judgments not publicly confirmed | Lord Brodie retired from the bench; his name-linked appellate judgment recovered concerned a non-harassment order's reach to children, not PA. Lord Tyre named PA-judgment **not publicly confirmed**. |
-| "Family Law Scotland Ltd" (institutional) | Dropped — not located | No institution of this exact name located on Companies House / Law Society of Scotland register / search engines. Possible reference to the Family Law Association (Scotland) — see S-context note below. |
-| Family Law Association (Scotland) | Noted not listed | The FLA is the umbrella membership body for Scottish family lawyers — no published PA institutional stance located; relevant individual members (Lilley, Sutherland) are already listed. https://www.familylawassociation.org/ |
-| "Centre for Children's Rights Edinburgh" | Dropped — not located | No institution of this exact name located. The University of Edinburgh hosts a Centre for Research on Families and Relationships (CRFR) but no PA-specific output found. |
-| "Belfast Bar Association Family Section" | Reframed as **Bar of Northern Ireland — Family Bar Association** | NI's professional body is the Bar of NI (not a "Belfast Bar Association"); Family Bar Association is the practice section. Now listed at NI5. |
-| Welsh-Language family-law practitioners (individual) | Partial — institutional only | No individual Welsh-medium PA-experienced barrister identified with a sourced stance. Linenhall Chambers listed at W6 as institutional placeholder. |
-| Welsh Family Justice Network (2021) | Dropped — formal organisation not located | Welsh Government 2022 "Delivering Justice for Wales" budget references a Family Justice Network as part of broader reforms, but no standalone organisation with a public PA position located. |
-| Cymdeithas Cyfreithwyr Cymru / Law Society Wales | Noted not listed | Law Society Wales is the Cardiff-based devolved office of the Law Society — no published PA-specific institutional position located. https://www.lawsociety.org.uk/about-us/law-society-wales |
-| Faculty of Advocates "Wales pool" | Dropped — terminology error | Faculty of Advocates is the Scottish bar; Wales has no equivalent advocates' faculty. Welsh barristers are members of the Bar of England & Wales. |
-
----
-
-## Methodology note
-
-**Final count: 20 entries** across the three devolved jurisdictions:
-- **Scotland:** 9 entries (S1-S9) — 4 individual practitioners + 2 judges + 3 institutional
-- **Northern Ireland:** 5 entries (NI1-NI5) — 1 academic + 2 judges + 2 institutional (one of which doubles as practitioner-directory entry)
-- **Wales:** 6 entries (W1-W6) — 1 academic + 3 individual practitioners + 2 institutional
-
-**Per-jurisdiction stance distribution (individual practitioners + academics only — excludes judicial and institutional entries):**
-
-| Jurisdiction | Recognition | Critique | Middle | Total individuals |
-|---|---|---|---|---|
-| Scotland | 0 | 0 | 3 (Lilley, Millar, Sutherland) | 3 |
-| Northern Ireland | 0 | 1 (McCormack — leaning) | 0 | 1 |
-| Wales | 1 (Morgan) | 1 (Doughty) | 2 (John, Halliday) | 4 |
-| **Total** | **1** | **2** | **5** | **8** |
-
-**Including institutional entries:** Scotland adds 1 recognition (SPS) + 2 critique (SWA, Engender); NI adds 1 critique (WAFNI); Wales adds 1 critique (WWA). Institutional-included stance totals: recognition 2 / critique 6 / middle 5.
-
-**Including judges (structural context, not approachable):** Scotland adds 2 (Lord Stuart recognition-leaning; Lady Wise middle); NI adds 2 (Keegan middle; O'Hara middle / recognition-leaning).
-
-**Honest gaps:**
-
-1. **Scotland is structurally light on the recognition-camp practitioner pool.** Janys Scott KC and Sandra Sutherland are senior family practitioners with no published PA stance; Sarah Lilley (Brodies) is the only Scottish solicitor with a publicly-authored PA cautious-recognition position. The recognition camp is institutionally represented (Shared Parenting Scotland) but not in the practising bar.
-2. **Northern Ireland has only one verifiable individual entry (Dr McCormack — academic, not bar/roll).** No NI-based family-law silk or partner has published a stance-source on PA from primary search. LCJ Keegan and Mr Justice O'Hara are listed as judicial structural anchors; WAFNI is the institutional critique anchor; the bar directory exists but no individual practitioner has yet published a sourced stance.
-3. **Wales is dominated by public-law children practice (30 Park Place + Queen Square + 9 Park Place are all primarily local-authority / care-proceedings sets).** Private-children PA practice in Wales is thin; Joseff Morgan (9 Park Place) is the only named junior with an explicit recognition-camp PA stance on a chambers website.
-4. **Welsh-language individual practitioners not yet identified by name** — Linenhall Chambers is the only institutional Welsh-medium placeholder; a follow-up batch should target individuals via the Law Society Wales Welsh-medium-practitioner list.
-5. **NI 2022 *A Father v A Mother (NI)* judgment by O'Hara J** is the most recent named NI judicial analysis of an alienating dynamic — but it does **not use the PA label**, so it sits between the Scottish *NF v AF* (Lord Stuart, explicit) and the English *Re Y* (McFarlane P, explicit-and-restraining).
-6. **No verifiable individual Welsh KC has published a PA stance.** Catrin John (30 Park Place head of chambers) is the most senior identifiable Wales-circuit family practitioner but is ranked for public-law children, not PA specifically.
-
-Quality > completeness. Where the brief asked for 8-15 verified entries we have landed at **8 individual practitioner/academic entries + 4 judges + 7 institutional entries = 20 total**, with the honest finding that **the verifiable practising-bar PA conversation in the devolved jurisdictions is dominated by institutional voices (Shared Parenting Scotland recognition pole; SWA / WAFNI / WWA critique pole) and judicial output (Lord Stuart's *NF v AF* in Scotland; O'Hara J's 2022 judgment in NI) more than by named individual practitioners with published stances.**
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
