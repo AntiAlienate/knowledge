@@ -1,0 +1,323 @@
+{
+  "schema_version": "1.0",
+  "country": "Germany",
+  "country_code": "DE",
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-30",
+  "repository": "AntiAlienate/antialienate-knowledge",
+  "jurisdictional_context": "Germany — BGB §1684 Umgangsförderungspflicht / Wohlverhaltensgebot; BGB §1696 Abänderung für triftige Gründe; FamFG §159 Kindesanhörung; BGH 1980 / 2009 Umgangsausschluss als ultima ratio; Cochemer Modell (Familiengericht Cochem-Zell 1992, Richter Jürgen Rudolph; in den 2009 FamFG-Reform integriert); BVerfG 17.11.2023 — 1 BvR 1076/23 (PAS / Eltern-Kind-Entfremdung als wissenschaftlich überholter und widerlegter Konstrukt); Istanbul-Konvention Art. 31 und GREVIO Deutschland-Bericht 2022. Practitioner regulation: Approbation als Psychologische:r oder Ärztliche:r Psychotherapeut:in (PsychThG-Reform 2020), Kammerregistrierung bei der jeweiligen Landes-Psychotherapeutenkammer; forensische Sachverständige idR Fachpsycholog:in für Rechtspsychologie BDP/DGPs.",
+  "entry_count_by_stance": {
+    "recognition": 6,
+    "critique": 7,
+    "middle": 3,
+    "institutional": 0,
+    "forensic-evaluator": 0,
+    "total": 16
+  },
+  "entries": [
+    {
+      "id": "de-boch-galhau-wilfrid",
+      "name": "Dr. med. Wilfrid von Boch-Galhau",
+      "credentials": "Facharzt für Psychiatrie und Neurologie / Psychotherapeut (Approbation)",
+      "city": "Würzburg",
+      "stance": "recognition",
+      "publications": [
+        "Boch-Galhau (2013) Parental Alienation und Parental Alienation Syndrome/Disorder, VWB-Verlag, ISBN 978-3-86135-178-2",
+        "Boch-Galhau (Mit-Hrsg., 2002) Gardner: Das elterliche Entfremdungssyndrom (deutsche Übersetzung)",
+        "Boch-Galhau (2018) Parental Alienation (Syndrome) — A serious form of psychological child abuse, Mental Health and Family Medicine 13:725-739"
+      ],
+      "urls": [
+        "https://www.drvboch.de",
+        "https://www.11880.com/branchenbuch/wuerzburg/111114204B43491421/dr-med-wilfrid-boch-galhau-von-psychotherapeutische-medizin-praxis.html"
+      ],
+      "contact": "+49 931 3592133; Oberer Dallenbergweg 15, 97082 Würzburg-Steinbachtal",
+      "verification_notes": "Practice listed as active per October 2025 directory updates; cross-listed in /influencers/wilfrid-von-boch-galhau.md. Historical anchor of the German PA-recognition literature."
+    },
+    {
+      "id": "de-kodjoe-ursula",
+      "name": "Dipl.-Psych. Ursula Kodjoe",
+      "credentials": "Diplom-Psychologin + Diplom-Sozialpädagogin; systemische Familientherapeutin; BAFM-Mediatorin",
+      "city": "Emmendingen",
+      "stance": "recognition",
+      "publications": [
+        "Kodjoe & Koeppel (late 1990s) — initiation of the German PAS-Debate (PAS-Arbeitsgemeinschaft)",
+        "Kodjoe (2018) PASG Stockholm presentation: Consensus Model in Germany with interdisciplinary cooperation",
+        "Boch-Galhau, Kodjoe, Andritzky & Koeppel (2011) PA / PAS Update"
+      ],
+      "urls": [
+        "https://de.linkedin.com/in/ursula-kodjoe-b2815340",
+        "https://www.pasg.info/external-resources"
+      ],
+      "contact": "LinkedIn DM (institutional verification path); specific street address not publicly confirmed",
+      "verification_notes": "Recurring expert in German press coverage (NZZ, Spiegel) on Eltern-Kind-Entfremdung; bridge figure between recognition camp and consensus-model mediation."
+    },
+    {
+      "id": "de-andritzky-walter",
+      "name": "Dr. phil. Walter Andritzky",
+      "credentials": "Diplom-Psychologe + Sozialwissenschaftler (PhD); independent researcher/author",
+      "city": "Düsseldorf",
+      "stance": "recognition",
+      "publications": [
+        "Andritzky (2002) Verhaltensmuster und Persönlichkeitsstruktur entfremdender Eltern, Psychotherapie 7(2):166-182",
+        "Andritzky (2002) Nicht instrumentalisieren, Deutsches Ärzteblatt",
+        "Co-author 2011 PA/PAS Update with Boch-Galhau / Kodjoe / Koeppel"
+      ],
+      "urls": [
+        "https://familiefamilienrecht.wordpress.com/tag/walter-andritzky/",
+        "https://eltern-kind-entfremdung.eu/wp-content/uploads/Artikel-Jugendamt-PSYCHIATRIEZTSCHR.pdf"
+      ],
+      "contact": "Not publicly confirmed",
+      "verification_notes": "Chamber registration not publicly confirmed; active clinical practice status not currently verifiable. Retained as historical anchor of the German PA-recognition literature."
+    },
+    {
+      "id": "de-ruecker-stefan",
+      "name": "Dr. Stefan Jürgen Rücker",
+      "credentials": "Dr. (Psychologe / Kinderpsychologe); leads PETRA Projekt GmbH & Co. KG (private vehicle); ZKPR Universität Bremen Kooperation bis 2020",
+      "city": "Bremen",
+      "stance": "recognition",
+      "publications": [
+        "Baumann, Michel-Biegel, Rücker, Serafin & Wiesner (2022) Zur Notwendigkeit professioneller Intervention bei Eltern-Kind-Entfremdung Teil 1 & 2, ZKJ 7/2022 pp. 244-252 and 8/2022 pp. 292-298",
+        "PETRA / ZKPR Uni Bremen (2022/23) BMJV-commissioned study Kindeswohl und Umgangsrecht (study coordinator)"
+      ],
+      "urls": [
+        "https://www.researchgate.net/profile/Stefan-Ruecker",
+        "https://de.wikipedia.org/wiki/Stefan_R%C3%BCcker",
+        "https://s7dc967dc59095d06.jimcontent.com/download/version/1660225359/module/14826874030/name/Intervention_EKE_Teil1+2_ZKJ_07_2022_E-PDF.pdf",
+        "https://www.weser-kurier.de/bremen/eltern-kind-entfremdung-das-koennen-die-massive-folgen-fuer-kinder-sein-doc7mf2gbpz91tdvdsy7qq"
+      ],
+      "contact": "Via PETRA Projekt GmbH & Co. KG, Bremen",
+      "verification_notes": "Major correction vs. surface assumption — Rücker is NOT a Universitätsprofessor at Bremen; Universität Bremen Senat (2024) disputed the institutional framing of a PETRA-Arbeitsgruppe and requested correction. Recognition camp's most cited contemporary German voice but operates from a private GmbH vehicle."
+    },
+    {
+      "id": "de-walter-eginhard",
+      "name": "Dipl.-Psych. Dr. Eginhard Walter",
+      "credentials": "Diplom-Psychologe; Vorstand Institut Gericht & Familie Berlin/Brandenburg e.V.; Dozent in rechtspsychologischer Weiterbildung",
+      "city": "Berlin",
+      "stance": "recognition",
+      "publications": [
+        "Dettenborn & Walter (2016, 2. Aufl.) Familienrechtspsychologie, Reinhardt UTB — Standard-Lehrbuch"
+      ],
+      "urls": [
+        "https://www.liga-kind.de/fk-305-walter/",
+        "https://www.perlentaucher.de/buch/harry-dettenborn-eginhard-walter/familienrechtspsychologie.html"
+      ],
+      "contact": "Institut Gericht & Familie Berlin/Brandenburg e.V., Berlin",
+      "verification_notes": "Recognition-camp via textbook; methodologically closer to the middle camp than the Boch-Galhau / PASG line."
+    },
+    {
+      "id": "de-jopt-uwe-joerg",
+      "name": "Prof. Dr. (em.) Uwe-Jörg Jopt",
+      "credentials": "Professor em. für Psychologie, Universität Bielefeld; psychologischer Sachverständiger",
+      "city": "Bielefeld",
+      "stance": "recognition",
+      "publications": [
+        "Jopt & Behrend (2000) Das Parental Alienation Syndrome (PAS) — Ein Zwei-Phasen-Modell, Zentralblatt für Jugendrecht 87(7-8)",
+        "Jopt (1992) Im Namen des Kindes — Plädoyer für die Abschaffung des alleinigen Sorgerechts, Rasch und Röhring"
+      ],
+      "urls": [
+        "http://www.vaeternotruf.de/uwe-jopt.htm",
+        "http://www.grosseltern-initiative.de/Studien/PAS-TH%20Bielefeld.pdf",
+        "https://famrecht.at/fileadmin/psy_aufsaetze/g_l/jopt1.pdf"
+      ],
+      "contact": "Not publicly confirmed (retired)",
+      "verification_notes": "Foundational German PA-recognition academic. Active clinical practice status not currently verifiable; entry retained as historical anchor of the German two-phase PAS model."
+    },
+    {
+      "id": "de-kindler-heinz",
+      "name": "Prof. Dr. Heinz Kindler, Dipl.-Psych.",
+      "credentials": "Honorarprofessor; Diplom-Psychologe; Doctorate 2001 Universität Regensburg; Leiter Fachgruppe F3 Familienhilfe und Kinderschutz, Deutsches Jugendinstitut (DJI) seit 2012",
+      "city": "Munich",
+      "stance": "critique",
+      "publications": [
+        "Zimmermann, Fichtner, Walper, Lux & Kindler (2023) Verdorbener Wein in neuen Schläuchen — Warum wir allzu vereinfachte Vorstellungen von Eltern-Kind-Entfremdung hinter uns lassen müssen, ZKJ 2023",
+        "Kindler — Family-law psychological assessment sample analysis: relationship with the alleged manipulating parent worsens through manipulation attempts (cited in NZZ 2024)"
+      ],
+      "urls": [
+        "https://www.dji.de/en/about-us/employees/detailview/mitarbeiter/heinz-kindler.html",
+        "https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869",
+        "https://www.nzz.ch/wissenschaft/entfremdung-eine-unbelegte-psychologische-theorie-ist-nicht-totzukriegen-ld.1911813"
+      ],
+      "contact": "kindler@dji.de; +49 89 62306-245; DJI, Nockherstr. 2, 81541 München",
+      "verification_notes": "Single most-cited German child-protection scientist on PA-scepticism; directly cited by the BVerfG-aligned line of reasoning."
+    },
+    {
+      "id": "de-walper-sabine",
+      "name": "Prof. Dr. Sabine Walper",
+      "credentials": "Prof. Dr. (Habilitation LMU 1999); Lehrstuhl Allgemeine Pädagogik LMU München (beurlaubt seit 2012); Direktorin und Vorstandsvorsitzende Deutsches Jugendinstitut (DJI) seit 01.10.2021",
+      "city": "Munich",
+      "stance": "critique",
+      "publications": [
+        "Zimmermann, Fichtner, Walper, Lux & Kindler (2023) Verdorbener Wein in neuen Schläuchen, ZKJ 2023",
+        "Walper (Hrsg., 2024) DJI Impulse 3+4/2024 — Elternkonflikte meistern",
+        "Walper et al. (2017) Arrangements elterlicher Fürsorge nach Trennung und Scheidung — Das Wechselmodell im Licht neuer Daten aus Deutschland"
+      ],
+      "urls": [
+        "https://www.edu.lmu.de/apb/personen/professoren/walper/index.html",
+        "https://www.dji.de/themen/familie/portrait-sabine-walper.html",
+        "https://www.dji.de/veroeffentlichungen/aktuelles/news/article/sabine-walper-wird-neue-dji-direktorin.html",
+        "https://www.edu.lmu.de/apb/publikationen/publikationen_walper/index.html"
+      ],
+      "contact": "Via DJI München and LMU Lehrstuhl Allgemeine Pädagogik",
+      "verification_notes": "Institutional weight of the critique camp — DJI is the BMFSFJ's central family-research institute. Walper's signature gives the critique camp its institutional authority in German family-court discourse."
+    },
+    {
+      "id": "de-fichtner-joerg",
+      "name": "Dr. Jörg Fichtner",
+      "credentials": "Diplom-Psychologe; Dr. (1998); Fachpsychologe für Rechtspsychologie BDP/DGPs; forensischer Sachverständiger; Mediator",
+      "city": "Munich",
+      "stance": "critique",
+      "publications": [
+        "Zimmermann, Fichtner, Walper, Lux & Kindler (2023) Verdorbener Wein in neuen Schläuchen, ZKJ 2023",
+        "Fichtner, Dietrich, Halatcheva, Hermann & Sandner (DJI 2010) Hochkonflikthaftigkeit in Trennungsfamilien — Wissenschaftlicher Abschlussbericht",
+        "Fichtner (2018) Trennungsfamilien — lösungsorientierte Begutachtung und gerichtsnahe Beratung, Hogrefe / Praxis der Paar- und Familientherapie"
+      ],
+      "urls": [
+        "http://joerg-fichtner.de/publikationen/",
+        "https://www.dji.de/fileadmin/user_upload/bibs/6_HochkonflikthaftigkeitWissenschaftlicherAbschlussbericht.pdf",
+        "https://goldkind-stiftung.de/publikationen/podcast/dr-joerg-fichtner-der-richtige-umgang-mit-hochstrittigen-elternbeziehungen/",
+        "https://taz.de/Entscheidungspraxis-im-Familienrecht/!5919662/"
+      ],
+      "contact": "Private practice Munich; details via joerg-fichtner.de",
+      "verification_notes": "Major correction vs. surface assumption — Fichtner is frequently miscategorised as recognition camp because of his forensic family-court Sachverständigen practice. He is in fact a co-signatory of the principal German PAS-critique article (ZKJ 2023)."
+    },
+    {
+      "id": "de-zimmermann-janin",
+      "name": "Dr. Janin Zimmermann",
+      "credentials": "Dr. (psychologist); lead author of the ZKJ 2023 critique. Specific Approbation / chamber registration not publicly confirmed.",
+      "city": "Munich (DJI environment)",
+      "stance": "critique",
+      "publications": [
+        "Zimmermann (lead), Fichtner, Walper, Lux & Kindler (2023) Verdorbener Wein in neuen Schläuchen, ZKJ 2023"
+      ],
+      "urls": [
+        "https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869"
+      ],
+      "contact": "Not publicly confirmed",
+      "verification_notes": "Lead-author placement on the central German critique-camp paper. Primary institutional affiliation not publicly confirmed at directory standard."
+    },
+    {
+      "id": "de-lux-ulrike",
+      "name": "Dr. Ulrike Lux",
+      "credentials": "Dr. (psychologist); DJI Abteilung Familie und Familienpolitik. Specific Approbation not publicly confirmed.",
+      "city": "Munich (DJI)",
+      "stance": "critique",
+      "publications": [
+        "Zimmermann, Fichtner, Walper, Lux & Kindler (2023) Verdorbener Wein in neuen Schläuchen, ZKJ 2023"
+      ],
+      "urls": [
+        "https://www.dji.de"
+      ],
+      "contact": "Via DJI München (employee search)",
+      "verification_notes": "Listed here for completeness of the five-author critique article; not an independent first-author voice on PA in the literature."
+    },
+    {
+      "id": "de-hammer-wolfgang",
+      "name": "Dr. phil. Wolfgang Hammer",
+      "credentials": "Dr. phil. (Soziologie / Pädagogik / Ethnologie, Universitäten Hamburg & Köln); ehemals Leitung Hamburger Landesjugendamt; Vertreter der Jugend- und Familienministerkonferenz 2005-2013; Wissenschaftlicher Beirat Deutsches Kinderhilfswerk seit 2017",
+      "city": "Hamburg",
+      "stance": "critique",
+      "publications": [
+        "Hammer et al. (Nov 2024) Macht und Kontrolle in familienrechtlichen Verfahren in Deutschland — Eine Analyse medialer Falldokumentationen (154 Fälle / 269 Quellen, MAXQDA)"
+      ],
+      "urls": [
+        "https://www.familienrecht-in-deutschland.de/",
+        "https://www.familienrecht-in-deutschland.de/wp-content/uploads/2024/12/Macht-und-Kontrolle-im-Familiengericht-Analyse-medialer-Falldokumentationen.pdf",
+        "https://www.frauenhauskoordinierung.de/aktuelles/detail/rezension-fallanalyse-dr-wolfgang-hammer"
+      ],
+      "contact": "Via familienrecht-in-deutschland.de",
+      "verification_notes": "Not a clinical psychotherapist — sociologist / former Jugendamt official. Included as the non-clinical critique-camp anchor of 2024-26 German PA discourse; the Hammer study is the empirical reference cited by Frauenhauskoordinierung, VAMV and GREVIO follow-up debate."
+    },
+    {
+      "id": "de-frauenhauskoordinierung",
+      "name": "Frauenhauskoordinierung e.V.",
+      "credentials": "Bundesweiter Fachverband der Frauenhäuser und Beratungsstellen; Trägerschaft Diakonie / AWO / Caritas / DRK / Paritätischer",
+      "city": "Berlin",
+      "stance": "critique",
+      "publications": [
+        "FHK (2022) Pressemeldung zum GREVIO-Bericht: Deutschland braucht Gesamtkonzept gegen Gewalt an Frauen",
+        "FHK (Juli 2024) Beitrag: Eltern-Kind-Entfremdung (PAS) und Wunsch nach Sanktionierung — BVerfG 1 BvR 1076/23",
+        "FHK (Mai 2025) Pressemitteilung zum Muttertag: Mehr Schutz für Mütter — Gewaltschutz muss Vorrang vor Sorge- und Umgangsrecht haben"
+      ],
+      "urls": [
+        "https://www.frauenhauskoordinierung.de",
+        "https://www.frauenhauskoordinierung.de/aktuelles/detail/pressemeldung-zum-grevio-bericht-deutschland-braucht-gesamtkonzept-gegen-gewalt-an-frauen",
+        "https://www.frauenhauskoordinierung.de/fileadmin/redakteure/PDF/2024-07-17_Beitrag_FIS_BVerfG_PAS_und_Sanktionierung_ABR.pdf"
+      ],
+      "contact": "Bundesgeschäftsstelle, Tucholskystr. 11, 10117 Berlin",
+      "verification_notes": "Institutional entry, not an individual practitioner — included because the critique camp's organisational centre of gravity sits with FHK rather than with any individual clinician."
+    },
+    {
+      "id": "de-paul-christoph-cornelius",
+      "name": "Christoph Cornelius Paul",
+      "credentials": "Rechtsanwalt und Notar a.D.; Mediator BAFM; Bundesverdienstkreuz am Bande",
+      "city": "Berlin",
+      "stance": "middle",
+      "publications": [
+        "Founder (2002 / 2012) and patron of MiKK e.V. — Internationales Mediationszentrum für Familienkonflikte und Kindesentführung"
+      ],
+      "urls": [
+        "https://mikk-ev.org",
+        "https://mikk-ev.org/about-us/organisation/",
+        "https://de.wikipedia.org/wiki/Internationales_Mediationszentrum_f%C3%BCr_Familienkonflikte_und_Kindesentf%C3%BChrung"
+      ],
+      "contact": "info@mikk-ev.org",
+      "verification_notes": "Not a psychologist — included as patron and founding voice of Germany's principal middle-camp institutional structure on cross-border family conflict, in which PA dynamics are routinely worked but not framed as a single named syndrome."
+    },
+    {
+      "id": "de-mikk-co-ceos",
+      "name": "Ischtar Khalaf-Newsome & Magdalena Jańczuk (MiKK Co-CEOs)",
+      "credentials": "Khalaf-Newsome: Family Lawyer, Mediator. Jańczuk: M.A., Mediator.",
+      "city": "Berlin",
+      "stance": "middle",
+      "publications": [
+        "Operational leadership of MiKK e.V. cross-border family-mediation programme (~150 inquiries/year, ~40 mediations, 80% success)"
+      ],
+      "urls": [
+        "https://mikk-ev.org/about-us/organisation/"
+      ],
+      "contact": "info@mikk-ev.org",
+      "verification_notes": "Listed jointly as the current operational middle-camp interface. Clinical credentials limited; legal / mediation foreground."
+    },
+    {
+      "id": "de-rudolph-juergen",
+      "name": "Jürgen Rudolph (Richter a.D.)",
+      "credentials": "Familienrichter a.D. (Amtsgericht Cochem until 2008); Autor; internationaler Referent zu Kinderrecht und Familienkonfliktbearbeitung",
+      "city": "Cochem / Rhineland-Palatinate",
+      "stance": "middle",
+      "publications": [
+        "Rudolph (2007) Du bist mein Kind — Die Cochemer Praxis, Wege zu einem menschlicheren Familienrecht, Schwarzkopf & Schwarzkopf, ISBN 978-3-89602-784-7",
+        "Cochemer Modell concept (1992-2008) — interdisciplinary cooperation absorbed into 2009 FamFG-Reform"
+      ],
+      "urls": [
+        "https://de.wikipedia.org/wiki/Cochemer_Modell",
+        "http://www.trennungsvaeter.de/cochemer_praxis.html"
+      ],
+      "contact": "Not publicly confirmed",
+      "verification_notes": "Not a clinician. Important correction: Cochem-Zell no longer practices the Cochemer Modell; the model was discontinued at the Cochem Familiengericht after Rudolph's 2008 retirement and survives as an exportable method label only."
+    }
+  ],
+  "excluded": [
+    {"name": "Sigrid Andersen", "reason": "Not verifiable at directory standard; web searches return only unrelated namesakes."},
+    {"name": "Beate Weber-Hagedorn", "reason": "Not verifiable at directory standard; web searches return only unrelated namesakes."},
+    {"name": "Bundesarbeitsgemeinschaft Eltern und Kind (BAG-EUK)", "reason": "Named in activist literature but no verifiable Vereinsregister entry with that exact name and PA-focus located in 2025-26 searches."},
+    {"name": "Prof. Dr. Dr. Dr. Wassilios E. Fthenakis", "reason": "Work is on joint-custody and post-divorce parenting broadly, not on PAS/EKE as a named clinical construct. Excluded for category fit; belongs in family-policy / academic-influencers list."},
+    {"name": "PD Dr. Karl-Heinz Brisch", "reason": "Attachment-theory authority frequently invoked in PA-debates but with no direct clinical position-paper on PAS/EKE confirmed."},
+    {"name": "Prof. Dr. Klaus Schneider", "reason": "Appears only in third-party critique-of-Gutachten archive; no clean primary-source publication / chamber registration verifiable."},
+    {"name": "Gabriele ten Hövel", "reason": "Author of Liebe Mama, böser Papa (Kösel 2003) — journalist / author, not a practising clinician."},
+    {"name": "Dr. Andrea Christidis", "reason": "Forensic psychologist with 1,000+ Gutachten background, but post-2020 trajectory into off-mainstream channels (Axion Resist, MWGFD) makes her unfit for a directory-of-record listing."},
+    {"name": "Prof. em. Reinhart Wolff", "reason": "Publicly documented historical position sympathetic to child-adult sexual contact disqualifies him from inclusion in a child-protection-aligned PA directory."}
+  ],
+  "key_case_law": [
+    {"citation": "BVerfG 17.11.2023 — 1 BvR 1076/23", "url": "https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html", "significance": "PAS / Eltern-Kind-Entfremdung als 'wissenschaftlich überholt und widerlegt' eingestuft; nur Gesamtwürdigung mit Kindeswohl-Orientierung verfassungskonform."},
+    {"citation": "OLG Frankfurt am Main 05.01.2026 — 7 UF 88/25", "url": "https://www.anwalt.de/rechtstipps/sorgerechtsentzug-nach-1666-bgb-wegen-elterlicher-konflikte-olg-frankfurt-zieht-klare-grenzen-268772.html", "significance": "PAS als 'pseudowissenschaftliche Hypothese'; Mindestanforderungen an Sachverständigen-Gutachten (multimodaler Ansatz, keine einseitige Auswahl der Gesprächspartner)."},
+    {"citation": "OLG Brandenburg 20.10.2004 — 15 WF 372/04", "url": "https://urteile.news/", "significance": "Frühe Sachverständigen-Ablehnung; begrenzte öffentliche Details."}
+  ],
+  "structural_finding": "Germany 2023-26 has crossed an institutional inflection point. The BVerfG 17.11.2023 — 1 BvR 1076/23 ruling, combined with the DJI-aligned Zimmermann/Fichtner/Walper/Lux/Kindler (2023) ZKJ critique and the OLG Frankfurt 7 UF 88/25 (2026) Sachverständigen-Mindestanforderungen, has moved the critique camp from minority position to institutional mainstream, leaving the recognition camp's older anchors (Boch-Galhau, Kodjoe, Andritzky, Jopt) without an institutional university-clinic base, and the contemporary anchor (Rücker) operating from a private GmbH rather than a verified university chair. The German PA-clinical scene is therefore structurally inverted compared with most other PASG-active jurisdictions: the recognition camp is counter-mainstream, the critique camp is institutional core.",
+  "major_corrections": [
+    "Jörg Fichtner is critique camp, not recognition camp — frequently miscategorised because of his forensic family-court Sachverständigen practice.",
+    "Stefan Rücker is not a Universitätsprofessor at Bremen — Universität Bremen Senat (2024) explicitly disputed the institutional framing of 'PETRA Arbeitsgruppe an der Universität Bremen'.",
+    "Cochem-Zell no longer practices the Cochemer Modell — model was discontinued at the Cochem Familiengericht after Rudolph's 2008 retirement.",
+    "'BAG-EUK' as a federal working group — named in activist literature but not verifiable as a current Vereinsregister-listed PA-focused body.",
+    "No individual German forensic Sachverständige is repeatedly positively-named in post-2023 OLG PA case-law — the case-law trend is the systematic criticism of Gutachter-qualifications in PA-framed custody-transfer recommendations."
+  ]
+}
