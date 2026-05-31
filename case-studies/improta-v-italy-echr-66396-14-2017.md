@@ -1,93 +1,110 @@
-# Improta v Italy, App. No. 66396/14 (ECtHR, 4 May 2017)
+# Improta v. Italy, no. 66396/14
 
-**Court:** European Court of Human Rights, First Section (Chamber judgment)
-**Date:** 4 May 2017 (final under Article 44 § 2 of the Convention shortly thereafter)
-**Application lodged:** 6 October 2014
-**Applicant:** Giammarco Improta, Italian national, born 1969, resident in Pozzuoli (Naples province), Italy
-**Reported at:** [HUDOC database – English landing](https://hudoc.echr.coe.int/eng) (search application 66396/14) | [ECHR Press Release of 4 May 2017 (PDF)](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-5708201-7243910&filename=Judgments+and+decisions+of+04.05.17.pdf) | [Italian Ministry of Justice / Cassazione case file](https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115) | [Marina Castellaneta – Italian-language case note](http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html)
-
-## Parties
-
-- **Applicant:** Mr **Giammarco Improta**, an Italian national, b. 1969, of Pozzuoli (Naples).
-- **Respondent State:** The Italian Republic, represented by its Agent before the Court (Ministry of Foreign Affairs / Avvocatura dello Stato).
-- The applicant's former partner is identified in domestic proceedings only by the initial "C." consistent with Italian privacy conventions for family-court matters.
-- The child – a daughter born **25 March 2010** – is unnamed in the judgment.
-- The composition of the First Section chamber that decided the case is recorded in the HUDOC judgment itself; the President of the Section at the time of the May 2017 ruling was Linos-Alexandre Sicilianos (full panel: **not specifically extracted here**).
-
-## Background
-
-The application arose from the breakdown of an unmarried relationship in Italy and the subsequent struggle of an Italian father to obtain effective contact with his very young daughter following separation. The case is one of a long line of ECtHR judgments against Italy – sitting alongside *Strumia v Italy* (2016), *Solarino v Italy* (2017), *Improta v Italy* (2017), *R.V. and Others v Italy* (2018), and others – in which Strasbourg has found that the Italian domestic courts and social services systematically fail to enforce contact orders with the diligence required by Article 8 of the Convention.
-
-The case did not turn on a contested allegation of abuse against the father. It turned on the question of whether the Italian state had taken **prompt and effective** steps to give legal force to an Italian father's contact rights when the resident parent unilaterally restricted them. That framing is what makes Improta directly relevant to the parental-alienation discourse: it is a Strasbourg authority that *delay and passivity* in the face of a parent's unilateral obstruction of contact can themselves amount to a human-rights violation.
-
-## Key facts
-
-- Mr Improta and his former partner "C." had a daughter born 25 March 2010.
-- After separation, the mother unilaterally restricted Mr Improta's contact with the daughter to two **30-minute weekly visits in her presence** ([Marina Castellaneta note](http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html)).
-- On **16 November 2010**, Mr Improta petitioned the **Tribunal for Minors (Tribunale per i minorenni) of Naples** for a regularised contact regime ([Italian Ministry of Justice case file](https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115)).
-- An expert report filed in **January 2013** recommended joint custody and that the father be guaranteed contact **without the mother being present**.
-- By judgment of **2 July 2013**, the Naples Tribunal for Minors awarded joint custody, set the child's principal residence with the mother, and fixed graduated contact: up to age three, supervised three-hour visits twice weekly; thereafter, alternate weekends and shared holidays.
-- Mr Improta appealed seeking more extensive contact. The **Naples Court of Appeal**, in **March 2014**, upheld the lower court's regime **without commissioning an updated expert report**, despite the child having begun regular contact with her father in the interim.
-- Cassation proceedings were still pending domestically when Mr Improta lodged the Strasbourg application on **6 October 2014**.
-- Mr Improta alleged that, between 2010 and 2013, he was effectively unable to see his daughter freely because the Italian courts allowed the mother to dictate the modalities of contact for the first 12 months of his application, and because the Tribunal then required roughly **15 months** to obtain the expert evaluation underlying its decision.
-
-## Procedural posture
-
-A Chamber judgment of the **First Section** of the ECtHR following an admissibility decision. The complaint was framed exclusively under **Article 8 ECHR** (right to respect for private and family life). The applicant did not pursue Article 6 or Article 14 claims to a finding stage.
-
-## The judgment
-
-The Court found **a violation of Article 8** of the Convention.
-
-The Court applied its settled positive-obligations test under Article 8: where a parent and child's right to family life is in issue, the State has an obligation to take "all necessary measures that can reasonably be required" to facilitate the reunion of parent and child. The Court reaffirmed that proceedings concerning contact and custody require **a degree of exceptional diligence** because – in its often-cited formulation – "the passage of time can have irreversible consequences" on the relationship between a child and the parent with whom they do not live (rendered in the Italian-language commentary as "*il decorso del tempo può avere conseguenze irrimediabili sulle relazioni tra la bambina e il padre*" – [Castellaneta](http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html)).
-
-Specific procedural failures the Court identified:
-
-- The Tribunal for Minors **waited approximately a year** before regulating contact in any binding way after the applicant's urgent petition – allowing the mother's unilateral two-30-minute-visits-per-week regime to govern father–daughter contact during that period.
-- The court-appointed expert took roughly **15 months** to produce a report.
-- The Court of Appeal then declined to commission an updated assessment despite the passage of time, **basing its 2014 decision on outdated material**.
-
-The Court emphasised that the cumulative effect of these delays during the child's earliest years – not any single bad-faith act by a court or service – was what produced the violation. Italian authorities, in the Court's view, had **tolerated** the resident parent's unilateral control of the relationship.
-
-**Just satisfaction (Article 41):** the Court awarded:
-
-- **€3,000** for non-pecuniary damage; and
-- **€12,000** for costs and expenses.
-
-## Who else was involved
-
-- **The First Section of the ECtHR**, sitting as a Chamber. The Section President in early 2017 was Linos-Alexandre Sicilianos. The Italian judge sitting ex officio at the time was Guido Raimondi (who was also the Court's President). The full panel composition is recorded on the face of the judgment; this page does not list the seven sitting judges individually – please refer to the HUDOC text for the full bench.
-- **The Tribunale per i minorenni di Napoli** and **Corte d'Appello di Napoli** – the domestic courts whose conduct was found to have engaged Italy's responsibility.
-- **The Italian Avvocatura dello Stato** – the State's representative before the Court.
-- **The court-appointed CTU (consulente tecnico d'ufficio)** – the family expert whose 15-month delay was central to the Court's reasoning.
-- **The Italian Ministry of Justice** – publishes Italian-language translations and summaries of ECtHR judgments concerning Italy and lists Improta in its 2017 jurisprudence database ([Giustizia.it](https://www.giustizia.it/giustizia/it/mg_1_20.wp)).
-
-## Reactions and commentary
-
-- The Italian Ministry of Justice catalogued Improta among its 2017 ECtHR judgments and produced an Italian-language summary ([Italian MOJ database](https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115)).
-- **Marina Castellaneta**, Professor of International Law at the University of Bari and a leading Italian commentator on ECtHR judgments concerning Italy, wrote a contemporaneous case note titled "*Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia*" (Right of contact not effectively guaranteed: new condemnation of Italy) treating Improta as part of a continuing pattern of Italian failures to give Article 8 contact obligations real effect ([Castellaneta](http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html)).
-- The ECtHR's own **Factsheet on Parental Rights** lists Improta alongside other Italian and broader European judgments in the cluster on "Failure to enforce contact / visiting rights" ([ECHR Press Unit – Parental Rights factsheet](https://www.echr.coe.int/documents/d/echr/fs_parental_eng)).
-- The judgment is regularly cited in Italian academic and practitioner writing on the **principio di bigenitorialità** (the principle of joint parenting) as Strasbourg authority that delay in enforcing the non-resident parent's contact is itself a rights violation.
-- In the parental-alienation literature, Improta is frequently invoked – in conjunction with cases such as *Strumia v Italy* (2016), *Solarino v Italy* (2017) and *Lombardo v Italy* (2013) – as one of the European-level authorities establishing that states must protect the parent–child relationship from being eroded by passivity. Care should be taken: the judgment itself does **not** use the term "parental alienation" or "alienating behaviours" and does not endorse any particular psychological framework.
+**Court:** European Court of Human Rights (Section)  
+**Decided:** 2017-05-04  
+**Panel:** First Section, Chamber of seven judges; President Linos-Alexandre Sicilianos; Italian judge ex officio Guido Raimondi (Court President at the relevant time). The full seven-judge bench is recorded on the face of the judgment in HUDOC.  
 
 ## Why this case matters
 
-Improta is one of the cleanest Strasbourg statements of a proposition that matters enormously in any parental-alienation conversation: **doing nothing is not neutral**. When a resident parent unilaterally restricts a child's contact with the other parent, and a domestic court takes a year to make a binding order and then 15 months to get an expert report, the European Court of Human Rights will treat that delay itself as a violation of the family-life rights of the child and the non-resident parent.
+Chamber judgment of the First Section of the European Court of Human Rights finding Italy in violation of Article 8 ECHR for failing to enforce a father's contact rights with his very young daughter. The Court held that the cumulative delays of the Naples Tribunale per i minorenni — roughly a year before any binding contact order, approximately 15 months for the court-appointed expert report, and the Court of Appeal's refusal to commission an updated assessment — amounted to a breach of Italy's positive obligation under Article 8 to act with exceptional diligence in proceedings concerning a young child's relationship with the non-resident parent. Improta sits in a continuing line of ECtHR judgments against Italy (Lombardo 2013; Strumia 2016; Solarino, R.V. and Others) holding that institutional passivity in the face of a resident parent's unilateral restriction of contact is itself an Article 8 violation.
 
-For PA advocacy that has sometimes leaned on culture-war rhetoric, Improta supplies a much harder-edged human-rights footing. The Court does not need to find that anyone was "alienating" anyone in a clinical sense. It only needs to find that the State's machinery – tribunals, social services, court-appointed experts – failed to act with the urgency that Article 8 requires when a young child's relationship with a parent is being progressively eroded by time.
+## Procedural history
 
-For families and lawyers actually using the case, the operational doctrine is the Court's positive-obligations test: the State must take **all reasonable measures** to facilitate parent–child reunification; speed is a constituent element of "reasonable"; and outdated expert assessments cannot rescue an appellate decision that comes too late. That doctrine, distilled in Improta and a cluster of sister cases, gives concrete leverage in any European jurisdiction whose family-court system is sluggish in enforcing contact orders – which is, in practice, most of them.
+16 November 2010: Mr Improta petitioned the Tribunale per i minorenni di Napoli for a regularised contact regime after his former partner 'C.' unilaterally restricted his contact with their daughter (born 25 March 2010) to two 30-minute weekly supervised visits in her presence. During roughly the first year of the proceedings the Tribunal made no binding order, leaving the mother's unilateral regime in force. The court-appointed expert (CTU) took approximately 15 months to file a report; that report, lodged in January 2013, recommended joint custody and contact without the mother present. 2 July 2013: The Naples Tribunal for Minors awarded joint custody, fixed the child's principal residence with the mother, and set graduated contact (supervised three-hour visits twice weekly up to age three; thereafter alternate weekends and shared holidays). The father appealed seeking more extensive contact. March 2014: The Corte d'Appello di Napoli upheld the regime without commissioning an updated expert assessment, despite intervening progress in father–daughter contact. Cassation proceedings remained pending domestically when the applicant lodged his Strasbourg application on 6 October 2014. The complaint was framed exclusively under Article 8 ECHR. The First Section delivered its Chamber judgment on 4 May 2017.
 
-For the parental-alienation movement specifically, Improta also offers a useful corrective: the harm at the centre of these cases is not a syndrome or a label; it is the everyday human harm of a parent and child losing their relationship while institutions move too slowly to stop it. Strasbourg has now said – many times, including here – that the institutions, not just the obstructive parent, can be held responsible when that happens.
+## Counsel
+
+- **Avvocatura dello Stato** (Government Agent / State representative) — Italian State legal service (Ministry of Foreign Affairs / Avvocatura Generale dello Stato) for Italian Republic
+
+## Experts
+
+- **Court-appointed CTU (consulente tecnico d'ufficio) — name not extracted from the judgment text on the source page** — Family expert (CTU) instructed by the Tribunale per i minorenni di Napoli; expert report filed January 2013 recommending joint custody and contact without the mother's presence (instructed by Tribunale per i minorenni di Napoli (Naples Tribunal for Minors))
+
+## Holding
+
+Italy violated Article 8 of the Convention. Under the Court's settled positive-obligations doctrine, States must take all necessary measures that can reasonably be required to facilitate the reunion of a parent and child. Proceedings concerning contact and custody require exceptional diligence because the passage of time can have irreversible consequences on the parent-child relationship. The cumulative effect of the Italian courts' delay — approximately a year before any binding contact order, a 15-month expert report, and an appellate decision based on outdated material — meant that Italy tolerated the resident parent's unilateral control of the relationship during the child's earliest years and failed in its positive obligation under Article 8. Just satisfaction under Article 41: EUR 3,000 for non-pecuniary damage; EUR 12,000 for costs and expenses.
+
+## Verbatim
+
+**rendered in Italian-language commentary on the judgment; reflects the Court's settled formulation that proceedings on contact and custody require exceptional diligence because delay can irrevocably damage the parent–child bond** (it):
+
+> il decorso del tempo può avere conseguenze irrimediabili sulle relazioni tra la bambina e il padre
+
+*Translation:* the passage of time can have irreversible consequences on the relationship between the daughter and the father
+
+<http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html>
+
+**title of contemporaneous Italian academic case note treating Improta as part of a continuing pattern of Italian Article 8 violations for failure to enforce contact** (it):
+
+> Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia
+
+*Translation:* Right of contact not effectively guaranteed: new condemnation of Italy
+
+<http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html>
+
+**the Court's settled positive-obligations formulation under Article 8, as applied in Improta and consistently across the Italian cluster (Lombardo, Strumia, Solarino, R.V. and Others)** (en):
+
+> all necessary measures that can reasonably be required to facilitate the reunion of parent and child
+
+*Translation:* all necessary measures that can reasonably be required to facilitate the reunion of parent and child
+
+<https://hudoc.echr.coe.int/eng>
+
+## Outcome
+
+Violation of Article 8 ECHR found. Just satisfaction (Article 41): EUR 3,000 awarded for non-pecuniary damage; EUR 12,000 for costs and expenses. Judgment became final under Article 44 § 2 of the Convention shortly after delivery on 4 May 2017.
+
+## Comparative jurisprudence
+
+- **Lombardo v. Italy, no. 25704/11, 29 January 2013** (INT) — [`case-study:lombardo-v-italy-echr-25704-11-2013`](./case-study:lombardo-v-italy-echr-25704-11-2013.md) — Earlier Strasbourg condemnation of Italy on the same Article 8 positive-obligations doctrine: domestic courts and social services failed to take prompt and effective steps to enforce a father's contact rights, allowing the relationship to be eroded by institutional delay. Improta extends and confirms Lombardo's reasoning in the context of an unmarried separation involving a very young child.
+- **Strumia v. Italy, no. 53377/13, 23 June 2016** (INT) — [`case-study:strumia-v-italy-echr-53377-13-2016`](./case-study:strumia-v-italy-echr-53377-13-2016.md) — Companion ECHR Italy case decided shortly before Improta, also finding a violation of Article 8 for the Italian authorities' failure to enforce a father's contact order. Improta and Strumia are routinely cited together as twin Strasbourg authorities that institutional passivity in the face of a resident parent's obstruction is itself a Convention violation.
+- **Cassazione civile, Sez. I, sent. n. 9691/2022** (IT) — [`case-study:cassazione-9691-2022-italy`](./case-study:cassazione-9691-2022-italy.md) — Italian Supreme Court of Cassation decision aligning domestic family-law practice with the Strasbourg Article 8 jurisprudence on contact enforcement and the bigenitorialità principle. Improta is part of the ECHR backdrop that shaped subsequent Cassazione doctrine on prompt, effective enforcement of the non-resident parent's contact.
+- **Cassazione civile, sent. n. 4595/2025** (IT) — [`case-study:cassazione-4595-2025-italy`](./case-study:cassazione-4595-2025-italy.md) — Recent Italian Cassazione ruling carrying forward the Strasbourg-informed approach to enforcement of contact and to assessment of resident-parent obstruction. Improta sits in the ECHR pedigree on which the modern Italian doctrine builds.
+
+## Subsequent reception
+
+- Italian Ministry of Justice — 2017 ECtHR judgments database (2017) — Giustizia.it case file SDU35115 — <https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115>
+  - Italian Ministry of Justice catalogues Improta among the 2017 ECtHR judgments concerning Italy and publishes an Italian-language summary.
+- Marina Castellaneta (Università di Bari) — academic blog case note (2017) — 'Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia' — <http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html>
+  - Contemporaneous Italian case note framing Improta as part of a continuing pattern of Italian Article 8 violations and quoting the Court's reasoning that the passage of time can have irreversible consequences on the parent-child relationship.
+- ECtHR Press Unit — Parental Rights factsheet (2017) — ECHR Factsheet on Parental Rights — <https://www.echr.coe.int/documents/d/echr/fs_parental_eng>
+  - Lists Improta in the Court's own thematic factsheet under 'Failure to enforce contact / visiting rights', confirming Improta as a leading authority in that cluster.
+- Italian Government — annual report on ECHR judgments concerning Italy (2017) — Relazione annuale 2017 al Parlamento (Presidenza del Consiglio) — <https://presidenza.governo.it/CONTENZIOSO/contenzioso_europeo/relazione_annuale/Relazione_2017.pdf>
+  - Official Italian government annual report on the execution of ECtHR judgments concerning Italy, including the Article 8 cluster of which Improta is part.
+- Centro di Ateneo per i Diritti Umani (University of Padua) — Italian Article 8 ECHR judgments index (2017) — Article 8 ECHR judgments against Italy — index (Part 1) — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1>
+  - Academic index of Article 8 ECHR judgments against Italy treating Improta as a continuing data point in the Italian family-life jurisprudence.
+
+## See also
+
+- `case-study:lombardo-v-italy-echr-25704-11-2013`
+- `case-study:strumia-v-italy-echr-53377-13-2016`
+- `case-study:cassazione-9691-2022-italy`
+- `case-study:cassazione-4595-2025-italy`
+- `jurisdiction:italy`
 
 ## Sources
 
-- [HUDOC – Improta v Italy, App. 66396/14 (search by application number)](https://hudoc.echr.coe.int/eng)
-- [ECHR Press Release / "Judgments and decisions of 04.05.17" (PDF)](https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-5708201-7243910&filename=Judgments+and+decisions+of+04.05.17.pdf)
-- [Italian Ministry of Justice – case file SDU35115](https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115)
-- [Marina Castellaneta – "Diritto di visita non garantito in modo effettivo"](http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html)
-- [ECtHR Press Unit – "Parental Rights" factsheet](https://www.echr.coe.int/documents/d/echr/fs_parental_eng)
-- [ECtHR – "Rights of the child: Contact rights" key-theme briefing](https://ks.echr.coe.int/documents/d/echr-ks/contact-rights)
-- [Italian Government 2017 report on ECHR judgments concerning Italy (PDF)](https://presidenza.governo.it/CONTENZIOSO/contenzioso_europeo/relazione_annuale/Relazione_2017.pdf)
-- [Italian MOJ – 2017 ECHR judgments index](https://www.giustizia.it/giustizia/it/mg_1_20.page?facetNode_1=1_2%282017%29&facetNode_2=0_8_1_4&selectedNode=0_8_1_4)
-- [Centro di Ateneo per i Diritti Umani – Italian Article 8 ECHR judgments index](https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1)
+1. **HUDOC — Improta v. Italy, App. No. 66396/14 (search by application number)** — <https://hudoc.echr.coe.int/eng> (European Court of Human Rights) [en] — accessed 2026-05-30
+2. **ECHR Press Release / 'Judgments and decisions of 04.05.17' (PDF)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-5708201-7243910&filename=Judgments+and+decisions+of+04.05.17.pdf> (European Court of Human Rights — Press Unit) [en] — accessed 2026-05-30
+3. **Italian Ministry of Justice — case file SDU35115 (Improta v. Italy 2017)** — <https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115> (Ministero della Giustizia (Italy)) [it] — accessed 2026-05-30
+4. **Marina Castellaneta — 'Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia'** — <http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html> (Marina Castellaneta (Università di Bari)) [it] — accessed 2026-05-30
+5. **ECtHR Press Unit — 'Parental Rights' factsheet** — <https://www.echr.coe.int/documents/d/echr/fs_parental_eng> (European Court of Human Rights — Press Unit) [en] — accessed 2026-05-30
+6. **ECtHR — 'Rights of the child: Contact rights' key-theme briefing** — <https://ks.echr.coe.int/documents/d/echr-ks/contact-rights> (European Court of Human Rights — Knowledge Sharing platform) [en] — accessed 2026-05-30
+7. **Italian Government 2017 report on ECHR judgments concerning Italy (PDF)** — <https://presidenza.governo.it/CONTENZIOSO/contenzioso_europeo/relazione_annuale/Relazione_2017.pdf> (Presidenza del Consiglio dei Ministri (Italy)) [it] — accessed 2026-05-30
+8. **Italian MOJ — 2017 ECHR judgments index** — <https://www.giustizia.it/giustizia/it/mg_1_20.page?facetNode_1=1_2%282017%29&facetNode_2=0_8_1_4&selectedNode=0_8_1_4> (Ministero della Giustizia (Italy)) [it] — accessed 2026-05-30
+9. **Centro di Ateneo per i Diritti Umani — Italian Article 8 ECHR judgments index** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università di Padova — Human Rights Centre) [en] — accessed 2026-05-30
+
+## Editorial notes
+
+- The HUDOC primary judgment text was identified by application number 66396/14 and date 4 May 2017; the source MD did not extract the full seven-judge bench composition. Readers should consult HUDOC directly for the complete panel list.
+- The Court-appointed CTU (consulente tecnico d'ufficio) whose 15-month expert report was central to the Article 8 analysis is not individually named on the source page; the experts entry records the institutional role only.
+- The verbatim Italian quotation 'il decorso del tempo può avere conseguenze irrimediabili sulle relazioni tra la bambina e il padre' is reproduced from contemporaneous Italian commentary (Castellaneta) translating the Court's standard formulation; researchers using the quote should cross-check against the official French and English texts of the judgment on HUDOC.
+- The judgment does NOT use the term 'parental alienation' or endorse any particular psychological framework. Its purchase for parental-alienation advocacy lies in the positive-obligations doctrine: that delay and institutional passivity in the face of a resident parent's unilateral restriction of contact can themselves constitute an Article 8 violation.
+- The applicant Mr Giammarco Improta is identified by name in the public Chamber judgment; the resident parent is anonymised as 'C.' and the child is unnamed, consistent with Italian and Strasbourg privacy conventions for family proceedings.
+- Just satisfaction figures (EUR 3,000 non-pecuniary damage; EUR 12,000 costs and expenses) are taken from the source MD and the Italian government's 2017 annual report; researchers should confirm against the operative dispositif on HUDOC.
+
+*Author: Alan Markson.*
+
+---
+
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*

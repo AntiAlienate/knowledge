@@ -2,7 +2,7 @@
   "schema": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
   "type": "case-study",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T19:44:33Z",
+  "generated": "2026-05-31T20:17:20Z",
   "cases": [
     {
       "path": "case-studies/bverfg-1-bvr-1076-23-germany-2023.json",
@@ -117,6 +117,38 @@
       "sources_count": 11
     },
     {
+      "path": "case-studies/hoge-raad-2005-ar8250-netherlands.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/hoge-raad-2005-ar8250-netherlands.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/hoge-raad-2005-ar8250-netherlands.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/hoge-raad-2005-ar8250-netherlands.json",
+      "slug": "hoge-raad-2005-ar8250-netherlands",
+      "caption": "Hoge Raad 15 februari 2005, ECLI:NL:HR:2005:AR8250",
+      "ecli": "NL:HR:2005:AR8250",
+      "neutral_citation": "HR 15 februari 2005, NJ 2005/218",
+      "jurisdiction_code": "NL",
+      "decision_date": "2005-02-15",
+      "court": "Hoge Raad der Nederlanden (Strafkamer)",
+      "schema_version": "1.0",
+      "references_count": 7,
+      "sources_count": 13
+    },
+    {
+      "path": "case-studies/improta-v-italy-echr-66396-14-2017.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/improta-v-italy-echr-66396-14-2017.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/improta-v-italy-echr-66396-14-2017.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/improta-v-italy-echr-66396-14-2017.json",
+      "slug": "improta-v-italy-echr-66396-14-2017",
+      "caption": "Improta v. Italy, no. 66396/14",
+      "ecli": null,
+      "neutral_citation": null,
+      "jurisdiction_code": "INT",
+      "decision_date": "2017-05-04",
+      "court": "European Court of Human Rights (Section)",
+      "schema_version": "1.0",
+      "references_count": 5,
+      "sources_count": 9
+    },
+    {
       "path": "case-studies/index.json",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.json",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.md",
@@ -147,6 +179,22 @@
       "schema_version": "1.0",
       "references_count": 8,
       "sources_count": 9
+    },
+    {
+      "path": "case-studies/lombardo-v-italy-echr-25704-11-2013.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/lombardo-v-italy-echr-25704-11-2013.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/lombardo-v-italy-echr-25704-11-2013.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/lombardo-v-italy-echr-25704-11-2013.json",
+      "slug": "lombardo-v-italy-echr-25704-11-2013",
+      "caption": "Lombardo v. Italy, no. 25704/11",
+      "ecli": "ECLI:CE:ECHR:2013:0129JUD002570411",
+      "neutral_citation": null,
+      "jurisdiction_code": "INT",
+      "decision_date": "2013-01-29",
+      "court": "European Court of Human Rights (Second Section)",
+      "schema_version": "1.0",
+      "references_count": 6,
+      "sources_count": 10
     },
     {
       "path": "case-studies/nf-v-af-2025-csoh-13-scotland.json",
@@ -307,6 +355,22 @@
       "schema_version": "1.0",
       "references_count": 6,
       "sources_count": 15
+    },
+    {
+      "path": "case-studies/strumia-v-italy-echr-53377-13-2016.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/strumia-v-italy-echr-53377-13-2016.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/strumia-v-italy-echr-53377-13-2016.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/case-studies/strumia-v-italy-echr-53377-13-2016.json",
+      "slug": "strumia-v-italy-echr-53377-13-2016",
+      "caption": "Strumia v. Italy, no. 53377/13",
+      "ecli": "ECLI:CE:ECHR:2016:0623JUD005337713",
+      "neutral_citation": null,
+      "jurisdiction_code": "INT",
+      "decision_date": "2016-06-23",
+      "court": "European Court of Human Rights (First Section, Chamber)",
+      "schema_version": "1.0",
+      "references_count": 5,
+      "sources_count": 7
     },
     {
       "path": "case-studies/sts-519-2017-spain.json",
