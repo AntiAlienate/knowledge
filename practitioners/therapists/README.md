@@ -10,7 +10,7 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **United Kingdom (E&W)** | [uk.md](uk.md) | [uk.json](uk.json) | **v2.0** | 12 verified + 8 excluded |
 | **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | **v2.0** | 17 verified + 16 excluded |
 | **Australia** | [au.md](au.md) | [au.json](au.json) | **v2.0** | 12 verified + 9 excluded |
-| **New Zealand** | [nz.md](nz.md) | [nz.json](nz.json) | v1.0 (legacy) | 15 verified |
+| **New Zealand** | [nz.md](nz.md) | [nz.json](nz.json) | **v2.0** | 16 verified + 3 excluded |
 | **Germany** | [germany.md](germany.md) | [germany.json](germany.json) | **v2.0** | 16 verified + 9 excluded |
 | **Spain** | [spain.md](spain.md) | [spain.json](spain.json) | **v2.0** | 16 verified + 3 excluded |
 | **France** | [france.md](france.md) | [france.json](france.json) | **v2.0** | 17 verified + 6 excluded |
@@ -25,10 +25,10 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **Chile** | [cl.md](cl.md) | [cl.json](cl.json) | **v2.0** | 16 verified + 7 excluded |
 | **LATAM (BR/MX/AR/CO/CL)** | [latam.md](latam.md) | [latam.json](latam.json) | v1.0 (legacy) | 18 verified across 5 countries (superseded by per-country v2 deepenings) |
 | **India** | [india.md](india.md) | [india.json](india.json) | **v2.0** | 14 verified + 21 excluded |
-| **Asia (IN/SG/HK/JP)** | [asia.md](asia.md) | [asia.json](asia.json) | v1.0 (legacy) | 4 from backlog |
-| **Africa (ZA + KE/NG/EG)** | [africa.md](africa.md) | [africa.json](africa.json) | v1.0 (legacy) | from backlog |
+| **Asia (non-IN: SG/HK/JP/KR)** | [asia.md](asia.md) | [asia.json](asia.json) | **v2.0** | 8 verified + 16 excluded |
+| **Africa (ZA + KE/NG/EG)** | [africa.md](africa.md) | [africa.json](africa.json) | **v2.0** | 20 verified + 6 excluded |
 
-**v2.0** files are JSON-canonical (the `.md` is rendered from the JSON by `bin/aa-build render`). v1.0 (legacy) files are MD-and-JSON parallel — pending migration. See [/ARCHITECTURE.md](../../ARCHITECTURE.md) for the migration plan.
+**All 17 country/regional files are now schema v2.0 (JSON-canonical).** The `.md` is rendered from the JSON by `bin/aa-build render`. The legacy v1.0 format is fully migrated. See [/ARCHITECTURE.md](../../ARCHITECTURE.md) for the architecture spec and `/manifest.json` for the canonical enumeration for downstream consumers.
 
 **LATAM5 bloc fully deepened** (BR / MX / AR / CO / CL all standalone). The legacy `latam.md` aggregate is now superseded by the per-country files — kept for backwards-link continuity.
 

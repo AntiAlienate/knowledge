@@ -1,472 +1,369 @@
 {
-  "schema_version": "1.0",
-  "last_updated": "2026-05-25",
-  "license": "CC BY 4.0",
-  "intended_repo": "github.com/AntiAlienate/antialienate-knowledge",
-  "region": "Asia",
+  "schema_version": "2.0",
+  "country": "Asia (non-India)",
+  "country_code": "ASI",
   "type": "therapists",
-  "countries_covered": ["IN", "SG", "HK", "JP"],
-  "scope": "Asia-based clinical psychologists, psychiatric social workers, child and adolescent psychiatrists, family therapists, custody evaluators and PA-relevant academic clinicians in India, Singapore, Hong Kong and Japan who have published peer-reviewed PA work, been appointed as court family specialists / custody evaluation officers, operated PA-relevant reunification/co-parenting/high-conflict programmes through a named NGO/institutional centre, or issued sourced public-record PA-stance statements.",
-  "stance_taxonomy": {
-    "recognition": "Treats PA / PABs / 子の連れ去り as a real, assessable phenomenon; operates or endorses PA-specific reunification, expert-witness, or psycho-legal evaluation work",
-    "critique": "Argues PA construct is operationalised against DV/family-violence survivors; advocates DV/trauma-informed alternatives or proscription",
-    "middle": "Engages both alienating-behaviour and family-violence frames; differential-diagnosis approach aligned with court family specialist / family-report-writer practice",
-    "not_publicly_confirmed": "Included for record-completeness; PA-specific stance not in primary sources"
-  },
-  "asia_context_notes": {
-    "india": "No single national psychology licensing register; Rehabilitation Council of India (RCI) registers Clinical Psychologists under RCI Act 1992 via the Central Rehabilitation Register https://www.rehabcouncil.nic.in/ . NIMHANS Bengaluru is the apex training institute and de facto national reference centre for child mental-health forensic/custody work. Apex PA judgment: Lt Col Vivek Singh v Romani Singh, Civil Appeal 3962/2016, (2017) 3 SCC 231 https://main.sci.gov.in/judgment/judis/44566.pdf",
-    "singapore": "Psychologists non-statutorily regulated; Singapore Register of Psychologists (SRP) maintained by SPS https://singaporepsychologicalsociety.org/ . Family Justice Courts (FJC) Counselling and Psychological Services (CAPS) within the FDR Division employs Court Family Specialists for forensic and therapeutic work https://www.judiciary.gov.sg/family/counselling-psychological-services . MSF 2 January 2025 child-access enforcement reforms address PA-adjacent breach of access orders.",
-    "hong_kong": "Psychology not statutorily regulated; voluntary registers: HKPS-DCP https://hkps-dcp.org.hk/ , HKICP (Accredited Registers Scheme) https://icphk.org.hk/ , HKSCP https://hkscporg.weebly.com/ , HKADCP https://www.hkadcp.org.hk/ . SWD operates five Specialised Co-parenting Support Centres (since October 2019); lead delivery agency is Hong Kong Family Welfare Society Parent-child Connect. SWD portal https://www.swd.gov.hk/coparenting/index_e.html",
-    "japan": "Clinical psychology regulated under Public Certified Psychologist Act (公認心理師法, 2017) - 公認心理師 is national licence. Older 臨床心理士 voluntary credential held by FJCBCP http://fjcbcp.or.jp/ . Family courts use in-house Family Court Investigators 家庭裁判所調査官 rather than independent expert witnesses - Guide to Family Court of Japan https://www.courts.go.jp/english/vc-files/courts-en/Material/Guide_to_the_Family_Court_of_Japan_2023.pdf . Act No. 33 of 2024 amending Civil Code Art. 819 introduced joint parental authority effective 1 April 2026."
-  },
-  "cross_references": {
-    "asia_lawyers": "All four-country lawyer-side anchors and apex cases in /practitioners-asia-lawyers.md - Vivek Singh v Romani Singh (IN SC); TEN v TEO [2020] SGHCF 20 (SG); H v W [2021] HKCA 733 (HK); Japan Act No. 33 of 2024 (JP)",
-    "asia_lawyers_cross_flag": "Akiko Ohnogi flagged in /practitioners-asia-lawyers.md as out-of-scope for lawyer file; full clinician entry below (JP section)",
-    "ca_au_therapists": "Lorri Yasenik PhD (Calgary) + Jon Graham (Sydney) - ICCFL delivers FDR/PC training in AU/Asia/North America; not duplicated here, full entries in /practitioners-ca-therapists.md and /practitioners-au-therapists.md"
-  },
-  "summary": {
-    "total_entries": 12,
-    "individuals": 8,
-    "institutional": 4,
-    "by_country": {"IN": 4, "SG": 2, "HK": 3, "JP": 3},
-    "by_stance": {
-      "recognition": 4,
-      "middle_leaning_recognition": 3,
-      "middle": 1,
-      "critique_leaning_institutional": 1,
-      "not_publicly_confirmed": 3
-    },
-    "by_tier": {"tier_1": 5, "tier_2": 3, "tier_3": 4}
-  },
-  "practitioners": [
+  "license": "CC-BY-4.0",
+  "generated": "2026-05-31",
+  "jurisdictional_context": "This file is a regional aggregate covering Asian jurisdictions excluding India; the India practitioner register is deepened separately at practitioners/therapists/india.json (cross-link jurisdiction:india). The schema requires a 2-3 letter ISO-shape country_code; 'ASI' is used here as a non-ISO regional placeholder and per-entry jurisdictional locus is carried in entry id prefix (sg., hk., jp., kr.) and in stance_notes. Singapore, Hong Kong, Japan and South Korea each occupy structurally distinct positions on the PA-construct map. Singapore's Family Justice Courts (FJC) operate under the Women's Charter (Cap. 353), the Guardianship of Infants Act (Cap. 122), and the FJC's Counselling and Psychological Services (CAPS) framework, with a syariah-court overlay for Muslim family matters (Administration of Muslim Law Act, Cap. 3) — producing a structurally bifurcated forensic-clinical pipeline. Hong Kong custody disputes run through the Family Court under the Guardianship of Minors Ordinance Cap. 13 and the Matrimonial Causes Ordinance Cap. 179 (with Matrimonial Proceedings and Property Ordinance Cap. 192 / FCO Cap. 192 framework on financial relief), and a Re Y line of HK Family Court case-law has engaged PA-adjacent reasoning without endorsing PAS as a syndromal construct. Japan's pre-reform regime under Civil Code Art. 819 (1947) imposed mandatory sole post-divorce parental authority, generating the 子の連れ去り (child abduction by a parent) and 引き離し (forced separation from a parent) discourse; Act No. 33 of 2024 (民法等の一部を改正する法律, ho-ratsu reform) amended Art. 819 to introduce joint parental authority (共同親権) effective 1 April 2026, with DV / abuse carve-outs retaining sole-custody pathways. South Korea operates the Family Litigation Act (가사소송법) and Civil Act custody provisions through the Family Court; a Supreme Court of Korea line on 면접교섭권 (visitation rights) and 자녀의 복리 (welfare of the child) has steadily engaged alienation-adjacent reasoning without adopting PAS as a clinical label.\n\nThe Asia (non-India) critique register is generally thin at the peer-reviewed-clinician level — clinician-led PA-critique publications comparable to the German Zimmermann / Walper / Fichtner cluster or the Spanish Vaccaro 'violencia vicaria' coinage are not present in any of the four jurisdictions covered here. The institutional critique register runs primarily through women's-rights NGOs: AWARE (Association of Women for Action and Research, Singapore), ACSVAW (Association Concerning Sexual Violence Against Women, Hong Kong), and Japan Women's Action Network (WAN), supplemented by South Korea's Korea Women's Hot Line (한국여성의전화) and Korean Women's Associations United (KWAU). The recognition camp typically operates not through published academic clinicians but through family-court-attached forensic evaluators (Singapore FJC Court Family Specialists / Custody Evaluation Officers; Hong Kong SWD Specialised Co-parenting Support Centres clinicians; Japan 家庭裁判所調査官 Family Court Investigators; Korea 가사조사관 Family Court Investigators) whose individual identities and case-level work product are typically not publicly enumerable by court-system policy. The practitioner register in this aggregate is therefore structurally thin and a deeper deepening pass remains pending; v1 backlog entries have been preserved at fidelity.",
+  "structural_findings": [
+    "The Asia (non-India) practitioner register is thin and a deeper deepening pass remains pending. The v1 backlog is preserved at fidelity in this v2 migration rather than discarded — explicit gap-flagging rather than over-claiming.",
+    "Recognition-camp work in Asia (non-India) typically runs through family-court-attached forensic evaluators (Singapore CAPS / Court Family Specialists, Hong Kong SWD Specialised Co-parenting Support Centres clinicians, Japan 家庭裁判所調査官 Family Court Investigators, Korea 가사조사관 Family Court Investigators) rather than through published academic clinicians with named peer-reviewed PA papers. Individual roster-level forensic-evaluator identities are typically not publicly enumerable by court-system policy.",
+    "Critique-camp work at the peer-reviewed-clinician level is structurally absent in Singapore, Hong Kong, Japan and South Korea — no clinician-led PA-critique publication comparable to Germany (Zimmermann / Walper / Fichtner / Lux / Kindler BVerfG-cited critique) or Spain (Vaccaro violencia vicaria coinage) is located in any of the four jurisdictions. The institutional critique register runs through women's-rights NGOs (Singapore AWARE, Hong Kong ACSVAW, Japan Women's Action Network) rather than through clinical-academic publications.",
+    "Singapore's clinical-forensic pipeline is structurally bifurcated between the FJC Counselling and Psychological Services (CAPS) institutional channel and the private-practice Custody Evaluation Officer (CEO) appointment channel (Annabelle Chow being the cleanest public CEO-confirmed private clinician). Named CFS-officer rosters are not publicly enumerated by FJC.",
+    "Hong Kong's recognition register is anchored by a single named-press clinical psychologist (Monica Borschel, HKSCP #0099) with a multi-year practice-site PA article series; the institutional delivery infrastructure is HKFWS Parent-child Connect (PCC) under the SWD five Specialised Co-parenting Support Centres framework, with named individual clinicians not publicly enumerated.",
+    "Japan's PA-discourse is led by lawyers and NGO organisers (Joint Custody Support National Liaison Council 共同養育支援法 全国連絡会) and by the JFBA / Nichibenren family-law-committee critique-camp policy submissions on 共同親権 reform — not by named clinical psychologists with peer-reviewed PA publications. Family Court Investigators (家庭裁判所調査官) are not publicly enumerable by court-system policy. The 2024 Civil Code reform (Act No. 33 of 2024) effective 1 April 2026 will reshape the structural terrain post-effective-date.",
+    "South Korea is the most under-deepened jurisdiction in this aggregate at present; v1 did not enumerate Korean clinicians, and this v2 file flags KR as a deepening backlog rather than asserting recognition / critique anchors not located in primary sources."
+  ],
+  "entries": [
     {
-      "id": "in-jangam-kavita",
-      "country_code": "IN",
-      "name": "Dr Kavita V. Jangam, PhD, MPhil, MSW",
-      "credentials": "PhD, MPhil (Psychiatric Social Work, NIMHANS); MSW Medical & Psychiatric (Tata Institute of Social Sciences, Mumbai); 16+ years teaching/clinical/research experience",
-      "practice": "Additional Professor, Department of Psychiatric Social Work, NIMHANS, Bengaluru",
-      "practice_url": "https://www.nimhans.ac.in/departments/psychiatric-social-work",
-      "additional_urls": [
-        "https://www.researchgate.net/profile/Kavita-Jangam",
-        "https://scholar.google.com/citations?user=TkbxDBQAAAAJ&hl=en"
-      ],
-      "address": "Department of Psychiatric Social Work, NIMHANS, Hosur Road, Bengaluru 560029, Karnataka, India",
-      "regulatory_body": "Psychiatric Social Work not statutorily registered in India; institutional credentialing via NIMHANS faculty (Additional Professor rank)",
-      "registration_number": "n/a (no national PSW register)",
-      "regulatory_notes": "MSW Tata Institute of Social Sciences; MPhil + PhD Psychiatric Social Work NIMHANS",
-      "specialty": "Child and adolescent mental health; psychosocial care of children in custody disputes; parental alienation as form of intra-familial child abuse; family-strengthening psychosocial interventions; child sexual abuse community settings",
-      "stance": "recognition",
-      "stance_sources": [
-        "https://journals.sagepub.com/doi/10.1177/02537176221104363",
-        "https://pubmed.ncbi.nlm.nih.gov/34861567/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11572429/"
-      ],
-      "programs_or_publications": [
-        "Nambiar, Jangam & Seshadri (2023) Parental Alienation: Case Series from India - Indian Journal of Psychological Medicine 45(3):304-306 (corresponding author)",
-        "Nambiar, Jangam, Jose & Seshadri (2022) Predictors of behavioral and emotional issues in children involved in custody disputes - Asian Journal of Psychiatry 67:102930",
-        "Nambiar, Jangam & Seshadri (2024) Psychosocial Perspectives on Child Mental Health in Custody Disputes - Indian Journal of Psychological Medicine 47(4):371-380",
-        "Family Support and Well-being Programme (FSWP), NIMHANS"
-      ],
-      "primary_contact": "Department of Psychiatric Social Work, NIMHANS, Bengaluru; ResearchGate DM",
-      "tier": 1,
-      "hook": "Single most-published Indian academic-clinician explicitly framing parental alienation as form of child abuse; NIMHANS-PSW corresponding author on only India peer-reviewed PA case series; the Indian counterpart to UTAS Matthewson (AU).",
-      "notes": "Additional Professor rank confirmed via 2026 Clinical Child Psychology and Psychiatry co-author affiliation."
-    },
-    {
-      "id": "in-seshadri-shekhar",
-      "country_code": "IN",
-      "name": "Dr Shekhar P. Seshadri, MBBS, MD (Psychiatry)",
-      "credentials": "MBBS, MD Psychiatry; Padma Shri 2018; 40+ years NIMHANS Child & Adolescent Psychiatry",
-      "practice": "Former Senior Professor, Department of Child & Adolescent Psychiatry, NIMHANS; current Advisor, SAMVAD-NIMHANS (Ministry of Women & Child Development national child-protection initiative)",
-      "practice_url": "https://nimhanschildprotect.in/meet-the-team/",
-      "additional_urls": [
-        "https://en.wikipedia.org/wiki/Shekhar_Seshadri",
-        "https://www.researchgate.net/profile/Shekhar_Seshadri",
-        "https://www.practo.com/bangalore/doctor/dr-shekar-sheshadri-psychiatrist"
-      ],
-      "address": "Department of Child & Adolescent Psychiatry, NIMHANS, Hosur Road, Bengaluru 560029",
-      "regulatory_body": "Medical Council of India / National Medical Commission (MBBS+MD Psychiatry); NIMHANS faculty credentialing (Senior Professor rank, since retired)",
-      "registration_number": "not publicly displayed",
-      "regulatory_notes": "Retired Senior Professor; Advisor at SAMVAD-NIMHANS",
-      "specialty": "Child and adolescent psychiatry; child protection; child sexual abuse; gender and adolescence; parental alienation as clinically identifiable intervenable phenomenon; psychosocial care of children in custody disputes",
-      "stance": "recognition",
-      "stance_sources": [
-        "https://journals.sagepub.com/doi/10.1177/02537176221104363",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11572429/",
-        "https://nimhanschildprotect.in/meet-the-team/"
-      ],
-      "programs_or_publications": [
-        "Advisor, SAMVAD-NIMHANS (national child-protection initiative)",
-        "Nambiar, Jangam & Seshadri (2023) Indian J Psychol Med PA case series",
-        "Nambiar, Jangam, Jose & Seshadri (2022) Asian J Psychiatry 52-child Bengaluru study",
-        "Nambiar, Jangam & Seshadri (2024) Indian J Psychol Med qualitative custody study",
-        "Padma Shri 2018"
-      ],
-      "primary_contact": "shekhar@nimhanschildprotect.in; Department of Child & Adolescent Psychiatry, NIMHANS, Bengaluru",
-      "tier": 1,
-      "hook": "Senior NIMHANS child psychiatrist whose name carries the clinical PA paper trail in India; natural high-credential interlocutor for any India PA policy, training, or judicial-education engagement.",
-      "notes": "Institutional bridge between Jangam-Nambiar research cluster and SAMVAD national delivery arm."
-    },
-    {
-      "id": "in-nambiar-priyanka",
-      "country_code": "IN",
-      "name": "Priyanka P. Nambiar, MPhil (Psychiatric Social Work)",
-      "credentials": "MPhil Psychiatric Social Work; PhD scholar NIMHANS",
-      "practice": "Research Scholar, Department of Psychiatric Social Work, NIMHANS, Bengaluru",
-      "practice_url": "https://www.researchgate.net/profile/Priyanka-Nambiar",
-      "additional_urls": [
-        "https://kar.academia.edu/priyankanambiar"
-      ],
-      "address": "Department of Psychiatric Social Work, NIMHANS, Hosur Road, Bengaluru 560029",
-      "regulatory_body": "Psychiatric Social Work not statutorily registered in India; institutional credentialing via NIMHANS MPhil/PhD scholar status",
-      "registration_number": "n/a (no national PSW register)",
-      "regulatory_notes": "Lead author on NIMHANS PA / custody-disputes research line",
-      "specialty": "Child mental health in custody disputes; parental alienation as intra-familial child abuse; qualitative methods in psycho-legal research",
-      "stance": "recognition",
-      "stance_sources": [
-        "https://journals.sagepub.com/doi/10.1177/02537176221104363",
-        "https://pubmed.ncbi.nlm.nih.gov/34861567/",
-        "https://pmc.ncbi.nlm.nih.gov/articles/PMC11572429/"
-      ],
-      "programs_or_publications": [
-        "Nambiar, Jangam & Seshadri (2023) Indian J Psychol Med 45(3):304-306 PA case series (lead author)",
-        "Nambiar, Jangam, Jose & Seshadri (2022) Asian J Psychiatry 67:102930 Bengaluru custody-disputes predictors study (lead author)",
-        "Nambiar, Jangam & Seshadri (2024) Indian J Psychol Med 47(4):371-380 qualitative study (lead author)"
-      ],
-      "primary_contact": "Via NIMHANS Department of Psychiatric Social Work; ResearchGate DM",
-      "tier": 2,
-      "hook": "Lead author on India's entire NIMHANS PA / custody-dispute publication line; natural junior-academic interlocutor on India PA research collaboration.",
-      "notes": "Research-scholar position; PA stance sourced via lead-authorship on three peer-reviewed papers."
-    },
-    {
-      "id": "in-samvad-nimhans",
-      "country_code": "IN",
-      "name": "SAMVAD-NIMHANS (institutional)",
-      "credentials": "National Initiative & Integrated Resource for Child Protection, Mental Health & Psychosocial Care; Ministry of Women & Child Development, Government of India",
-      "practice": "Support, Advocacy & Mental health interventions for children in Vulnerable circumstances And Distress (SAMVAD); Department of Child & Adolescent Psychiatry, NIMHANS",
-      "practice_url": "https://nimhanschildprotect.in/",
-      "additional_urls": [
-        "https://nimhanschildprotect.in/meet-the-team/",
-        "https://learn.nimhanschildprotect.in/",
-        "https://www.youtube.com/c/NIMHANSChildProtection"
-      ],
-      "address": "c/o Department of Child & Adolescent Psychiatry, NIMHANS, Hosur Road, Bengaluru 560029",
-      "regulatory_body": "Institutional; NIMHANS is deemed University under NIMHANS Act 2012",
-      "registration_number": "n/a (institutional)",
-      "regulatory_notes": "Individual PIs registered via MCI/NMC and NIMHANS faculty credentialing",
-      "specialty": "Integrated child mental health, protection and psychosocial care; capacity-building for State child-protection functionaries (ICPS staff, anganwadi workers, Child Welfare Committees, Juvenile Justice Boards, judicial personnel); PA-recognition by personnel overlap with Seshadri publication line",
-      "stance": "middle_leaning_recognition",
-      "stance_sources": [
-        "https://nimhanschildprotect.in/about-us/",
-        "https://nimhanschildprotect.in/meet-the-team/",
-        "https://learn.nimhanschildprotect.in/"
-      ],
-      "leadership": [
-        "Dr K. John Vijay Sagar (MBBS MD Psychiatry) - Professor & Head Department of Child & Adolescent Psychiatry NIMHANS; PI-SAMVAD; sagarjohn@gmail.com",
-        "Dr Rajendra K.M. - Assistant Professor Department of Child & Adolescent Psychiatry NIMHANS; Co-PI SAMVAD; drrajgowda.cgc@gmail.com",
-        "Dr Shekhar Seshadri - Advisor (see entry in-seshadri-shekhar)",
-        "Sheila Ramaswamy - Technical & Operational Lead; sheila@nimhanschildprotect.in"
-      ],
-      "programs_or_publications": [
-        "National training pipeline for State child-protection functionaries and judicial personnel",
-        "e-SAMVAD Learning Management System",
-        "Integration with NIMHANS Department of Child & Adolescent Psychiatry PA research stream"
-      ],
-      "primary_contact": "subham@nimhanschildprotect.in (Policy & Law); per-PI emails listed in leadership",
-      "tier": 2,
-      "hook": "Only national child-protection delivery infrastructure in India formally co-located with academic PA-recognition cluster; natural institutional gateway for any India PA-judicial-education collaboration.",
-      "notes": "Institutional entry; named PIs not duplicated as standalone entries except Seshadri."
-    },
-    {
-      "id": "sg-chow-annabelle",
-      "country_code": "SG",
+      "id": "sg.chow-annabelle",
       "name": "Dr Annabelle Chow, DPsych (Clinical), PGDip Psych (Distinction), BA Psych",
-      "credentials": "DPsych Clinical; PGDip Psych Distinction; BA Psych; LivingWorks ASIST trainer; CARE officer trained under National CARE Management System",
-      "practice": "Founder and Clinical Director, Annabelle Psychology (Singapore); Lecturer & Clinical Supervisor James Cook University Singapore 2013-2019; Clinical Supervisor National University of Singapore 2020; previously Custody Evaluation Officer Family Justice Courts of Singapore",
-      "practice_url": "https://www.annabellepsychology.com/dr-annabelle-chow",
-      "additional_urls": [
+      "credentials": "DPsych Clinical; PGDip Psych Distinction; BA Psych; LivingWorks ASIST trainer; CARE officer trained under National CARE Management System; APS Fellow College of Clinical Psychologists; SRP Approved Supervisor; AHPRA Board-Approved Supervisor",
+      "city": "Singapore",
+      "region": "Singapore (city-state)",
+      "affiliation": "Founder and Clinical Director, Annabelle Psychology (Singapore); previously Custody Evaluation Officer, Family Justice Courts of Singapore; former Lecturer & Clinical Supervisor James Cook University Singapore (2013-2019); former Clinical Supervisor National University of Singapore (2020)",
+      "stance": "middle",
+      "stance_notes": "Verified Singapore Custody Evaluation Officer appointment with dual SRP + AHPRA + APS-FCCLP credentialing — the cleanest non-institutional Singapore entry that survives an AHPRA-equivalent verification test. Practice site lists custody evaluation reporting for FJC, psycho-legal reports, parenting-capacity and child-psychological-wellbeing assessment, BPD and complex-trauma work. Explicit PA-construct public statement not located on practice site or named press; classified middle on strength of verified FJC Custody Evaluation Officer appointment and medicolegal service line (structural middle-camp position by court-attached differential-diagnosis practice rather than partisan PA-recognition or PA-critique). The Singapore counterpart to court-attached forensic clinicians in jurisdictions with formally-enumerated CEO rosters. Country_code: SG (Singapore).",
+      "publications": [
+        {"title": "Peer-reviewed publications in BMC Psychiatry, Schizophrenia Research, PLOS ONE on personality disorders, psychosis, cognitive impairment, childhood trauma", "year": 2020, "venue": "BMC Psychiatry / Schizophrenia Research / PLOS ONE"},
+        {"title": "Custody evaluation reporting service line", "year": 2020, "venue": "Annabelle Psychology / FJC"},
+        {"title": "Previously Custody Evaluation Officer, Family Justice Courts of Singapore", "year": 2018, "venue": "Family Justice Courts of Singapore"}
+      ],
+      "urls": [
+        "https://www.annabellepsychology.com/dr-annabelle-chow",
         "https://www.annabellepsychology.com/medicolegal",
         "https://smg.sg/specialists-and-partners/dr-annabelle-chow/"
       ],
-      "address": "Annabelle Psychology, Singapore",
-      "regulatory_body": "Singapore Register of Psychologists (SRP) - Registered + SRP Approved Supervisor; Australian Health Practitioner Regulation Agency (AHPRA) - Registered + AHPRA Board-Approved Supervisor; Australian Psychological Society (APS) Fellow College of Clinical Psychologists",
-      "registration_number": "not publicly displayed (SRP and AHPRA numbers)",
-      "regulatory_notes": "Dual SRP + AHPRA + APS-FCCLP credentialing - the cleanest non-institutional SG entry that survives AHPRA-equivalent test",
-      "specialty": "Custody evaluation reporting for Singapore Family Justice Courts; psycho-legal reports; assessment of parenting capacity and child psychological well-being; personality disorders (especially BPD); complex trauma",
-      "stance": "middle_leaning_recognition",
-      "stance_sources": [
-        "https://www.annabellepsychology.com/medicolegal",
-        "https://www.annabellepsychology.com/dr-annabelle-chow"
-      ],
-      "programs_or_publications": [
-        "Peer-reviewed publications in BMC Psychiatry, Schizophrenia Research, PLOS ONE on personality disorders, psychosis, cognitive impairment, childhood trauma",
-        "Custody evaluation reporting service line",
-        "Previously Custody Evaluation Officer Family Justice Courts of Singapore"
-      ],
-      "primary_contact": "appointments@apsy.sg; +65 8202 3385",
-      "tier": 1,
-      "hook": "Verified Singapore Custody Evaluation Officer with dual SRP + AHPRA + APS-FCCLP credentialing; cleanest non-institutional SG entry; natural interlocutor for cross-jurisdictional PA-relevant evaluation work landing in Singapore.",
-      "notes": "Explicit PA-specific public statement not located on practice site; classified middle-leaning recognition on strength of verified FJC Custody Evaluation Officer appointment and medicolegal service line. Broader Annabelle Psychology team (~25 clinicians) PA stances not publicly confirmed."
+      "contact": "appointments@apsy.sg; +65 8202 3385; Annabelle Psychology, Singapore",
+      "verification_notes": "Singapore Register of Psychologists (SRP) — Registered + SRP Approved Supervisor; AHPRA (Australia) — Registered + Board-Approved Supervisor; APS Fellow College of Clinical Psychologists. SRP / AHPRA registration numbers not publicly displayed. PA-specific public statement not located. Broader Annabelle Psychology team (~25 clinicians) PA stances not publicly confirmed.",
+      "references": [
+        "jurisdiction:asia",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023"
+      ]
     },
     {
-      "id": "sg-fjc-caps",
-      "country_code": "SG",
-      "name": "Family Justice Courts of Singapore - Counselling and Psychological Services (CAPS) / Court Family Specialists (CFS) - Institutional",
-      "credentials": "Multi-disciplinary team of counsellors, psychologists and social workers; individual CFS officers credentialed via SRP / SASW / counselling registers",
-      "practice": "Counselling and Psychological Services (CAPS), Family Dispute Resolution (FDR) Division, Family Justice Courts of Singapore",
-      "practice_url": "https://www.judiciary.gov.sg/family/counselling-psychological-services",
-      "additional_urls": [
+      "id": "sg.fjc-caps",
+      "name": "Family Justice Courts of Singapore — Counselling and Psychological Services (CAPS) / Court Family Specialists (CFS)",
+      "credentials": "Multi-disciplinary team of counsellors, psychologists and social workers; individual CFS officers credentialed via Singapore Register of Psychologists (SRP) / Singapore Association of Social Workers (SASW) / counselling registers",
+      "city": "Singapore",
+      "region": "Singapore (city-state)",
+      "affiliation": "Counselling and Psychological Services (CAPS), Family Dispute Resolution (FDR) Division, Family Justice Courts of Singapore",
+      "stance": "institutional",
+      "stance_notes": "Any AntiAlienate engagement with the Singapore family-justice clinical pipeline runs through CAPS; de facto Singapore middle / forensic-evaluator camp by structural design. Institutional counterpart of the Australian FCFCOA Family Report Writer pool. Forensic and therapeutic intervention in divorce, custody, guardianship (Guardianship of Infants Act Cap. 122), PPO / protection-against-family-violence (Women's Charter Cap. 353 Part VII) and Youth Courts matters. Facilitates family conferences and co-ordinates with external mental-health professionals; operationalises the 2 January 2025 MSF child-access enforcement framework (PA-adjacent breach-of-access remedies). Individual CFS officers not publicly enumerated and not safely identifiable from reported case-law (Singapore Family Justice Rules anonymisation). Country_code: SG.",
+      "publications": [
+        {"title": "Court family conferences (multi-party)", "year": 2014, "venue": "Family Justice Courts of Singapore"},
+        {"title": "Forensic custody / care-and-control evaluations", "year": 2014, "venue": "FJC CAPS"},
+        {"title": "Therapeutic interventions in divorce / custody / family-violence cases", "year": 2014, "venue": "FJC CAPS"},
+        {"title": "MSF 2 January 2025 child-access enforcement framework operationalisation", "year": 2025, "venue": "Ministry of Social and Family Development (Singapore)"}
+      ],
+      "urls": [
+        "https://www.judiciary.gov.sg/family/counselling-psychological-services",
         "https://www.judiciary.gov.sg/family",
         "https://www.gjclaw.com.sg/articles/fighting-back-against-parental-alienation/"
       ],
-      "address": "Family Justice Courts of Singapore, 3 Havelock Square, Singapore 059725",
-      "regulatory_body": "Institutional under Family Justice Courts of Singapore",
-      "registration_number": "n/a (institutional)",
-      "regulatory_notes": "Individual CFS officers credentialed via SRP/SASW/counselling registers; specific roster not publicly enumerated",
-      "specialty": "Forensic and therapeutic intervention in divorce, custody, guardianship (Guardianship of Infants Act), protection-against-family-violence cases, Youth Courts; facilitation of family conferences; co-ordination with external mental-health professionals",
-      "stance": "middle",
-      "stance_sources": [
-        "https://www.judiciary.gov.sg/family/counselling-psychological-services",
-        "https://www.gjclaw.com.sg/articles/fighting-back-against-parental-alienation/"
-      ],
-      "programs_or_publications": [
-        "Court family conferences (multi-party)",
-        "Forensic custody / care-and-control evaluations",
-        "Therapeutic interventions in divorce / custody / family-violence cases",
-        "2 January 2025 MSF child-access enforcement framework operationalisation"
-      ],
-      "primary_contact": "Family Justice Courts of Singapore via FJC general enquiries",
-      "tier": 2,
-      "hook": "Any AntiAlienate engagement with the Singapore family-justice clinical pipeline runs through CAPS; de facto Singapore middle camp by structural design; institutional counterpart of FCFCOA Family Report Writer pool in Australia.",
-      "notes": "Institutional entry; individual CFS officers not publicly enumerated and not safely identifiable from reported case-law (Singapore Family Justice Rules anonymisation). Navigational signpost rather than outreach target."
+      "contact": "Family Justice Courts of Singapore, 3 Havelock Square, Singapore 059725; via FJC general enquiries",
+      "verification_notes": "Institutional under Family Justice Courts of Singapore; individual CFS officers credentialed via SRP / SASW / counselling registers; specific roster not publicly enumerated. Navigational signpost rather than outreach target.",
+      "references": [
+        "jurisdiction:asia"
+      ]
     },
     {
-      "id": "hk-borschel-monica",
-      "country_code": "HK",
+      "id": "sg.aware",
+      "name": "AWARE — Association of Women for Action and Research (Singapore)",
+      "credentials": "Founded 1985; Singapore's leading gender-equality and women's-rights advocacy and direct-services NGO; operates Sexual Assault Care Centre (SACC) and Women's Helpline; policy research and parliamentary submissions on Women's Charter and family-violence reforms",
+      "city": "Singapore",
+      "region": "Singapore (city-state)",
+      "affiliation": "AWARE Singapore; member of regional and global women's-rights coalitions",
+      "stance": "critique",
+      "stance_notes": "Institutional critique-register anchor for the Singapore PA-construct debate. AWARE has issued policy submissions and named-press positions on DV-survivor-protective family-court reform under the Women's Charter and protection-against-family-violence framework; the structural concern is that PA-adjacent enforcement mechanisms (including the MSF 2 January 2025 child-access enforcement framework) risk operationalisation against DV-survivor mothers exercising protective gatekeeping. PA-specific public position-paper not located in primary sources; classified critique on the strength of AWARE's structural DV-protective and women's-rights policy register and named-press engagement. Comparative-reception relevance to BVerfG 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: SG.",
+      "publications": [
+        {"title": "AWARE Sexual Assault Care Centre (SACC)", "year": 2014, "venue": "AWARE Singapore"},
+        {"title": "AWARE Women's Helpline", "year": 1991, "venue": "AWARE Singapore"},
+        {"title": "Policy submissions on Women's Charter and family-violence framework", "year": 2020, "venue": "AWARE Singapore / Parliament of Singapore"}
+      ],
+      "urls": [
+        "https://www.aware.org.sg/",
+        "https://sacc.aware.org.sg/"
+      ],
+      "contact": "Via https://www.aware.org.sg/contact-us/ ; Women's Helpline 1800 777 5555",
+      "verification_notes": "Institutional women's-rights NGO; no PA-specific publication or position-paper located. Listed as institutional critique-register anchor for the Singapore PA debate.",
+      "references": [
+        "jurisdiction:asia",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023"
+      ]
+    },
+    {
+      "id": "hk.borschel-monica",
       "name": "Dr Monica Borschel, PsyD, PhD (Social Work HKU), MA Psych Columbia, BS Psych Utah",
-      "credentials": "PsyD (California Southern University); PhD Social Work and Social Administration (University of Hong Kong); MA Psychology Education/Counselling/Clinical (Columbia); BS Psychology (Utah); Certified EMDR Therapist EMDRIA; Certified Brainspotting Therapist; Certified High Conflict Coach",
-      "practice": "Independent clinical psychologist; affiliate Mind n Life Hong Kong; previously based HK, currently California with online HK practice",
-      "practice_url": "https://doctormonicaborschel.com/",
-      "additional_urls": [
+      "credentials": "PsyD California Southern University; PhD Social Work and Social Administration (University of Hong Kong); MA Psychology Education/Counselling/Clinical (Columbia); BS Psychology (Utah); Certified EMDR Therapist EMDRIA; Certified Brainspotting Therapist; Certified High Conflict Coach",
+      "registration_number": "HKSCP #0099",
+      "city": "Hong Kong (Central) / California (primary base)",
+      "region": "Hong Kong SAR",
+      "affiliation": "Independent clinical psychologist; affiliate Mind n Life Hong Kong; previously HK-based, currently California with online HK practice",
+      "stance": "recognition",
+      "stance_notes": "Only Hong Kong-credentialed clinical psychologist with multi-source named-press recognition of explicit PA-as-emotional-abuse public stance; HK counterpart to UK Karen Woodall or US Linda Gottlieb in publication-and-press footprint. Multi-year practice-site article series on PA (2023-) including 'The Collateral Damage of Parental Alienation' (doctormonicaborschel.com / Psychology Matters Asia republication). Named-press engagement in SCMP on PA-adjacent custody and broken-parent-child-bond reform. Reunification therapy service line for families separated by parental alienation; online custody-evaluation service line. PhD Social Work and Social Administration University of Hong Kong. Country_code: HK.",
+      "publications": [
+        {"title": "The Collateral Damage of Parental Alienation", "year": 2023, "venue": "doctormonicaborschel.com / Psychology Matters Asia", "url": "https://doctormonicaborschel.com/2023/05/25/the-collateral-damage-of-parental-alienation/"},
+        {"title": "Hong Kong must do more to prevent broken parent-child bonds due to divorce (SCMP letter)", "year": 2024, "venue": "South China Morning Post", "url": "https://www.scmp.com/opinion/letters/article/3273936/hong-kong-must-do-more-prevent-broken-parent-child-bonds-due-divorce"},
+        {"title": "Father's Day not a happy time for Hong Kong parents (SCMP)", "year": 2018, "venue": "South China Morning Post", "url": "https://www.scmp.com/news/hong-kong/hong-kong-law-and-crime/article/2151134/fathers-day-not-happy-time-hong-kong-parents"},
+        {"title": "The Collateral Damage of Parental Alienation (republication)", "year": 2023, "venue": "Psychology Matters Asia", "url": "https://www.psychologymatters.asia/article/949/the-collateral-damage-of-parental-alienation.html"},
+        {"title": "Multi-year practice-site PA article series (2023-)", "year": 2023, "venue": "doctormonicaborschel.com"},
+        {"title": "Reunification therapy service line (Hong Kong online)", "year": 2023, "venue": "Mind n Life Hong Kong / doctormonicaborschel.com"}
+      ],
+      "urls": [
+        "https://doctormonicaborschel.com/",
         "https://doctormonicaborschel.com/about-dr-borschel/",
         "https://www.mindnlife.com/dr-monica-borschel/",
         "https://www.psychologytoday.com/hk/counselling/monica-borschel-central-no/1021354",
         "https://doctormonicaborschel.com/2023/05/25/the-collateral-damage-of-parental-alienation/",
         "https://www.psychologymatters.asia/article/949/the-collateral-damage-of-parental-alienation.html"
       ],
-      "address": "Online HK practice via Mind n Life Central Hong Kong; primary base California",
-      "regulatory_body": "Registered Clinical Psychologist Hong Kong Society for Counselling Psychology (HKSCP) #0099; Chartered Psychologist British Psychological Society; Member APA; Member Hong Kong Family Law Association; Member AFCC",
-      "registration_number": "HKSCP #0099",
-      "regulatory_notes": "Note HK psychology not statutorily regulated; HKSCP is one of four voluntary registers (others: HKPS-DCP, HKICP, HKADCP)",
-      "specialty": "Attachment, trauma, divorce recovery, high-conflict family dynamics, reunification therapy for families separated by parental alienation, online custody evaluations",
-      "stance": "recognition",
-      "stance_sources": [
-        "https://doctormonicaborschel.com/2023/05/25/the-collateral-damage-of-parental-alienation/",
-        "https://www.scmp.com/news/hong-kong/hong-kong-law-and-crime/article/2151134/fathers-day-not-happy-time-hong-kong-parents",
-        "https://www.scmp.com/opinion/letters/article/3273936/hong-kong-must-do-more-prevent-broken-parent-child-bonds-due-divorce",
-        "https://www.psychologymatters.asia/article/949/the-collateral-damage-of-parental-alienation.html"
-      ],
-      "programs_or_publications": [
-        "Multi-year practice site article series on PA (2023-)",
-        "Reunification therapy service line (Hong Kong online)",
-        "Online custody evaluations and psychological assessments",
-        "PhD Social Work and Social Administration University of Hong Kong"
-      ],
-      "primary_contact": "Via https://doctormonicaborschel.com/; Mind n Life Central Hong Kong booking",
-      "tier": 1,
-      "hook": "Only Hong Kong-credentialed clinical psychologist with multi-source named-press recognition of explicit PA-as-emotional-abuse public stance; HK counterpart to UK Karen Woodall or US Linda Gottlieb.",
-      "notes": "Now California-based with online HK practice; HK practitioner registration (HKSCP #0099) and HK Family Law Association membership confirm continuing HK practice scope."
+      "contact": "Via https://doctormonicaborschel.com/; Mind n Life Central Hong Kong booking",
+      "verification_notes": "Registered Clinical Psychologist Hong Kong Society for Counselling Psychology (HKSCP) #0099; Chartered Psychologist British Psychological Society; APA member; Hong Kong Family Law Association member; AFCC member. HK psychology not statutorily regulated; HKSCP is one of four voluntary registers (HKPS-DCP, HKICP, HKADCP). Now California-based with online HK practice; HK practitioner registration and HK Family Law Association membership confirm continuing HK practice scope.",
+      "references": [
+        "jurisdiction:asia",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023"
+      ]
     },
     {
-      "id": "hk-hkfws-pcc",
-      "country_code": "HK",
-      "name": "Hong Kong Family Welfare Society (HKFWS) - Parent-child Connect (PCC) Specialised Co-parenting Support Centre - Institutional",
+      "id": "hk.hkfws-pcc",
+      "name": "Hong Kong Family Welfare Society (HKFWS) — Parent-child Connect (PCC) Specialised Co-parenting Support Centre",
       "credentials": "Lead delivery agency under SWD five Specialised Co-parenting Support Centres framework (established October 2019); operator of CNCH Shared Parenting Assessment and Intervention Model (Coordination, Negotiation, Counselling, Healing)",
-      "practice": "HKFWS PCC centre; multi-disciplinary team of registered social workers (SWRB), HKPS/HKICP/HKSCP-registered psychologists and HKPCA-certified counsellors",
-      "practice_url": "https://www.hkfws.org.hk/en/how-we-help/mediation-services-and-divorce-services/parent-child-connect-specialised-co-parenting-support-centre",
-      "additional_urls": [
+      "city": "Hong Kong (Kowloon)",
+      "region": "Hong Kong SAR",
+      "affiliation": "HKFWS Parent-child Connect; multi-disciplinary team of SWRB-registered social workers, HKPS / HKICP / HKSCP-registered psychologists and HKPCA-certified counsellors",
+      "stance": "institutional",
+      "stance_notes": "Lead institutional delivery agency for the Hong Kong government's PA-adjacent co-parenting intervention framework. Structural counterpart of Singapore CAPS and Australia FRSA. Operates the CNCH Shared Parenting Assessment and Intervention Model (Coordination, Negotiation, Counselling, Healing) and the SENsible Co-parents Project for divorce families with SEN children. HKFWS impact study on co-parenting approaches published as institutional research. Specific PA-diagnostic stance is downstream of the SWD framework rather than centre-led. Named individual clinicians not publicly enumerated. Country_code: HK.",
+      "publications": [
+        {"title": "Parent-child Connect Specialised Co-parenting Support Centre (Kowloon)", "year": 2019, "venue": "HKFWS / SWD"},
+        {"title": "CNCH Shared Parenting Assessment and Intervention Model", "year": 2020, "venue": "HKFWS"},
+        {"title": "SENsible Co-parents Project for divorce families with SEN children", "year": 2022, "venue": "HKFWS"},
+        {"title": "Impact of Co-parenting Approaches on Children's Well-being in Post-divorce Families in HK (HKFWS impact study)", "year": 2023, "venue": "HKFWS research reports", "url": "https://www.hkfws.org.hk/assets/files/reserch_reports/study-report_impact-of-co-parenting-approaches-on-childrens-well-being-in-post-divorce-families-in-hk.pdf"}
+      ],
+      "urls": [
+        "https://www.hkfws.org.hk/en/how-we-help/mediation-services-and-divorce-services/parent-child-connect-specialised-co-parenting-support-centre",
         "https://www.hkfws.org.hk/",
         "https://www.hkfws.org.hk/en/how-we-help/mediation-services-and-divorce-services",
         "https://www.hkfws.org.hk/en/annual-reports/2024-2025/services/mediation-services-and-divorce-services",
         "https://www.hkfws.org.hk/en/how-we-help/mediation-services-and-divorce-services/sensible-co-parents-support-project-for-divorce-families-with-sen-children",
-        "https://www.swd.gov.hk/coparenting/index_e.html",
-        "https://www.hkfws.org.hk/assets/files/reserch_reports/study-report_impact-of-co-parenting-approaches-on-childrens-well-being-in-post-divorce-families-in-hk.pdf"
+        "https://www.swd.gov.hk/coparenting/index_e.html"
       ],
-      "address": "PCC Kowloon (multiple HKFWS service points)",
-      "regulatory_body": "HKCSS member; SWD-funded co-parenting support centre",
-      "registration_number": "n/a (institutional)",
-      "regulatory_notes": "Named individual clinicians not publicly enumerated",
-      "specialty": "Child-focused co-parenting education / counselling / coordination; co-parenting training workshops; parent-child contact services; children counselling and support services; PA-adjacent high-conflict family intervention under CNCH model",
-      "stance": "middle_leaning_recognition",
-      "stance_sources": [
-        "https://www.hkfws.org.hk/assets/files/reserch_reports/study-report_impact-of-co-parenting-approaches-on-childrens-well-being-in-post-divorce-families-in-hk.pdf",
-        "https://www.hkfws.org.hk/en/how-we-help/mediation-services-and-divorce-services/parent-child-connect-specialised-co-parenting-support-centre",
-        "https://www.hkfws.org.hk/en/how-we-help/mediation-services-and-divorce-services/sensible-co-parents-support-project-for-divorce-families-with-sen-children"
-      ],
-      "programs_or_publications": [
-        "Parent-child Connect Specialised Co-parenting Support Centre (Kowloon)",
-        "CNCH Shared Parenting Assessment and Intervention Model",
-        "SENsible Co-parents Project (SEN-children-specific)",
-        "HKFWS impact study on co-parenting approaches"
-      ],
-      "primary_contact": "Service helpline 8100 8883; https://www.hkfws.org.hk/en/contact-us",
-      "tier": 1,
-      "hook": "Lead institutional delivery agency for Hong Kong government's PA-adjacent co-parenting intervention framework; structural counterpart of Singapore CAPS or Australia FRSA.",
-      "notes": "Named individual clinicians not publicly enumerated. Specific PA-diagnostic stance is downstream of SWD framework rather than centre-led."
+      "contact": "Service helpline 8100 8883; https://www.hkfws.org.hk/en/contact-us",
+      "verification_notes": "HKCSS member; SWD-funded co-parenting support centre. Named individual clinicians not publicly enumerated.",
+      "references": [
+        "jurisdiction:asia"
+      ]
     },
     {
-      "id": "hk-aaft",
-      "country_code": "HK",
-      "name": "Asian Academy of Family Therapy (AAFT) - Institutional (Hong Kong)",
-      "credentials": "Hong Kong-headquartered regional family-therapy academy formed by same group that created HKU Family Institute (HKUFI); expanded regionally 2015",
-      "practice": "AAFT regional family-therapy training, accreditation, conferences across HK / Japan / Korea / Taiwan / Shanghai",
-      "practice_url": "https://www.acafamilytherapy.org/",
-      "additional_urls": [],
-      "address": "No. 4 Pottinger Street, Central, Hong Kong",
-      "regulatory_body": "Voluntary professional accreditation body; operates own accreditation system for family therapists, supervisors and trainers",
-      "registration_number": "n/a (institutional accreditation body)",
-      "regulatory_notes": "Membership Committee chaired by CHAN Shook Yim Sally MSocSc Marriage and Family Therapy HK",
-      "specialty": "Family therapy training, accreditation, annual conferences, cross-regional Asian family research; not PA-specific",
-      "stance": "not_publicly_confirmed",
-      "stance_sources": [
-        "https://www.acafamilytherapy.org/"
-      ],
-      "programs_or_publications": [
-        "Annual conferences",
-        "Transgenerational centre",
-        "School partnership programs",
-        "Cross-regional Asian-couples comparative research"
-      ],
-      "primary_contact": "+852 2859 5300; No. 4 Pottinger Street Central Hong Kong",
-      "tier": 3,
-      "hook": "Only HK-based pan-Asian family-therapy institutional body; natural professional-society interlocutor for cross-Asia engagement.",
-      "notes": "PA-specific stance unconfirmed per /CONTRIBUTING.md primary-sources standard."
-    },
-    {
-      "id": "jp-ohnogi-akiko",
-      "country_code": "JP",
-      "name": "Dr Akiko J. Ohnogi, PsyD (Clinical Psychology CSPP San Diego)",
-      "credentials": "PsyD Clinical Psychology California School of Professional Psychology San Diego; MA Clinical Psychology CSPP; BA Psychology International Christian University Tokyo; fluent Japanese + English",
-      "practice": "Independent clinical psychologist and play therapist, private practice Tokyo (since 2000); Co-founder and Board Director Japan Association for Play Therapy (JAPT, founded 2006); Co-founder International Consortium of Play Therapy Associations (IC-PTA); former Board member International Mental Health Professionals Japan (IMHPJ)",
-      "practice_url": "https://dr-ohnogi.com/",
-      "additional_urls": [
-        "https://dr-ohnogi.com/about-ohnogi/",
-        "https://www.imhpj.org/directory/ohnogi-akiko-j/",
-        "https://tokyofamilies.net/2015/08/family-support-specialists-in-tokyo/"
-      ],
-      "address": "Azabudai Flats 302, 3-3-27 Azabudai, Minato-ku, Tokyo 106-0041, Japan",
-      "regulatory_body": "American Psychological Association (APA) - International Full-Fledged Clinical Member; Association for Play Therapy (APT) - International Clinical Member",
-      "registration_number": "Japan 公認心理師 / 臨床心理士 status not publicly displayed",
-      "regulatory_notes": "Japan public-certified-psychologist (公認心理師) and certified-clinical-psychologist (臨床心理士) status not stated on practice site or IMHPJ directory",
-      "specialty": "Play therapy (infants through adolescents and adults); child and family psychotherapy; parent education; trauma work (natural and human-made disasters, interpersonal traumas); multicultural / multilingual children and couples",
-      "stance": "not_publicly_confirmed",
-      "stance_sources": [
-        "https://www.imhpj.org/directory/ohnogi-akiko-j/",
-        "https://dr-ohnogi.com/about-ohnogi/"
-      ],
-      "programs_or_publications": [
-        "JAPT Co-Founder and Board Director",
-        "IC-PTA Co-Founder",
-        "Play-therapy training and supervision"
-      ],
-      "primary_contact": "+81 3-3560-6641; via dr-ohnogi.com",
-      "tier": 3,
-      "hook": "Cross-flag from Asia lawyers file as most-named Tokyo expat clinical psychologist; included for completeness and as navigational reference; natural Japan-side clinical interlocutor for cross-cultural / expat-family PA-adjacent referrals with the caveat PA scope is not publicly stated.",
-      "notes": "Practice site, IMHPJ directory, and About page do NOT mention parental alienation, divorce work, custody evaluation, or court-related services. Listed as not_publicly_confirmed stance per /CONTRIBUTING.md."
-    },
-    {
-      "id": "jp-jaft",
-      "country_code": "JP",
-      "name": "Japanese Association of Family Therapy (JAFT) - Institutional",
-      "credentials": "一般社団法人 日本家族療法学会 General Incorporated Association founded 1984; ~1,000 multi-professional members",
-      "practice": "National professional society of family therapy in Japan; members include psychiatrists, clinical psychologists 公認心理師 + 臨床心理士, nurses, social workers, teachers, family court investigators 家庭裁判所調査官",
-      "practice_url": "https://jaft.org/",
-      "additional_urls": [
-        "https://www.jaft.org/contact/"
-      ],
-      "address": "Japan (per JAFT contact page)",
-      "regulatory_body": "Institutional; individual members credentialed via 公認心理師 / 臨床心理士 / Medical Council of Japan / Japanese Association of Certified Social Workers as applicable",
-      "registration_number": "n/a (institutional)",
-      "regulatory_notes": "Member composition explicitly includes 家庭裁判所調査官 family court investigators",
-      "specialty": "Family therapy across psychiatry, nursing, psychology, social work, education, judicial contexts; annual conferences; certification of Family Therapists and Supervisors; Family Therapy Research journal (3 times yearly); international collaboration with IFTA / CIFA / AAFT",
-      "stance": "not_publicly_confirmed",
-      "stance_sources": [
-        "https://jaft.org/"
-      ],
-      "programs_or_publications": [
-        "Annual conferences (2026 Shizuoka 11-13 September)",
-        "Certification of Family Therapists and Supervisors",
-        "Family Therapy Research journal",
-        "9 annual basic family-therapy courses"
-      ],
-      "primary_contact": "https://www.jaft.org/contact/",
-      "tier": 3,
-      "hook": "Only national multi-professional Japan family-therapy society; institutional interlocutor for any Japan PA / 共同親権 family-clinical engagement.",
-      "notes": "PA-specific stance not stated on association site; listed as not_publicly_confirmed."
-    },
-    {
-      "id": "jp-jfba-critique-flag",
-      "country_code": "JP",
-      "name": "Japan Federation of Bar Associations (JFBA / 日本弁護士連合会 / Nichibenren) - Institutional critique-flag",
-      "credentials": "Statutory federation of all Japanese bar associations",
-      "practice": "JFBA family-law committee policy advocacy in the lead-up to and post 共同親権 (joint parental authority) Civil Code reform",
-      "practice_url": "https://www.nichibenren.or.jp/",
-      "additional_urls": [
-        "https://pia.gov.ph/press-release/japans-new-child-custody-law-to-impact-filipino-migrants/",
-        "https://gulfnews.com/amp/story/world/asia/how-japans-new-shared-custody-law-affects-migrant-lives-1.500494295"
-      ],
-      "address": "JFBA, Tokyo, Japan",
-      "regulatory_body": "Statutory umbrella body of the Japanese bar",
-      "registration_number": "n/a (institutional)",
-      "regulatory_notes": "Primarily a lawyer-side body; cross-flagged in therapist file as the natural critique-camp institutional interlocutor for Japan PA-clinical engagement",
-      "specialty": "Legal policy advocacy; family-law committee structural-critique voice on 共同親権 reform; DV-protection primacy",
+      "id": "hk.acsvaw",
+      "name": "ACSVAW — Association Concerning Sexual Violence Against Women (Hong Kong)",
+      "credentials": "Founded 1997; Hong Kong's leading women's-rights NGO concerning sexual and gender-based violence; operates RainLily one-stop crisis-intervention centre for survivors of sexual violence (established 2000, first in HK)",
+      "city": "Hong Kong",
+      "region": "Hong Kong SAR",
+      "affiliation": "ACSVAW; RainLily one-stop crisis-intervention centre; member of regional and global women's-rights coalitions",
       "stance": "critique",
-      "stance_sources": [
+      "stance_notes": "Institutional critique-register anchor for the Hong Kong PA-construct debate. ACSVAW and RainLily carry the DV / sexual-violence-survivor-protective register in HK family-law reform discourse and have engaged the Domestic and Cohabitation Relationships Violence Ordinance Cap. 189 reform conversation. PA-specific public position-paper not located in primary sources; classified critique on the strength of ACSVAW's structural sexual-violence and gender-based-violence policy register. Comparative-reception relevance to BVerfG 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: HK.",
+      "publications": [
+        {"title": "RainLily one-stop crisis-intervention centre (Hong Kong)", "year": 2000, "venue": "ACSVAW"},
+        {"title": "Policy submissions on Domestic and Cohabitation Relationships Violence Ordinance Cap. 189", "year": 2010, "venue": "ACSVAW / LegCo"}
+      ],
+      "urls": [
+        "https://www.acsvaw.org.hk/",
+        "https://www.rainlily.org.hk/"
+      ],
+      "contact": "Via https://www.acsvaw.org.hk/ ; RainLily helpline 2375 5322",
+      "verification_notes": "Institutional women's-rights NGO; no PA-specific publication or position-paper located. Listed as institutional critique-register anchor for the Hong Kong PA debate.",
+      "references": [
+        "jurisdiction:asia",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023"
+      ]
+    },
+    {
+      "id": "jp.jfba-critique-flag",
+      "name": "Japan Federation of Bar Associations (JFBA / 日本弁護士連合会 / Nichibenren) — institutional critique-flag",
+      "credentials": "Statutory federation of all Japanese bar associations (under Attorney Act Art. 45); JFBA family-law committee policy submissions on 共同親権 (joint parental authority) Civil Code reform",
+      "city": "Tokyo",
+      "region": "Japan",
+      "affiliation": "JFBA / Nichibenren — Tokyo, Japan",
+      "stance": "critique",
+      "stance_notes": "Structural institutional flag for the Japan critique-camp position in the 共同親権 reform debate. JFBA family-law-committee policy submissions in the lead-up to Act No. 33 of 2024 (民法等の一部を改正する法律, ho-ratsu reform amending Civil Code Art. 819 effective 1 April 2026) carried the DV-protection-primacy framing and sole-custody retention in DV cases per reform carve-outs. Natural critique-camp interlocutor for any Japan PA-clinical engagement; Japan analogue of UK Women's Aid in framing register. Primarily a lawyer-side body; cross-flagged in the therapist file because the structural critique register for the Japan PA-clinical landscape is carried by JFBA and women's-rights NGOs rather than by clinical-academic publications. Named JFBA representative quoted in PIA / Gulf News on reform impact on Filipino migrants and language-access concerns: Atty. Keiko Kato. Country_code: JP.",
+      "publications": [
+        {"title": "JFBA family-law committee policy submissions on Act No. 33 of 2024 (Civil Code Art. 819 amendment)", "year": 2024, "venue": "JFBA / Nichibenren"},
+        {"title": "Sole-custody retention in DV cases per reform carve-outs (JFBA position)", "year": 2024, "venue": "JFBA"},
+        {"title": "JFBA representative Atty. Keiko Kato — named-press engagement on reform impact (PIA / Gulf News)", "year": 2024, "venue": "Philippine Information Agency / Gulf News", "url": "https://pia.gov.ph/press-release/japans-new-child-custody-law-to-impact-filipino-migrants/"}
+      ],
+      "urls": [
+        "https://www.nichibenren.or.jp/",
         "https://pia.gov.ph/press-release/japans-new-child-custody-law-to-impact-filipino-migrants/",
         "https://gulfnews.com/amp/story/world/asia/how-japans-new-shared-custody-law-affects-migrant-lives-1.500494295"
       ],
-      "programs_or_publications": [
-        "JFBA family-law committee policy submissions on 2024 Civil Code reform (Act No. 33 of 2024)",
-        "Sole-custody retention in DV cases per reform carve-outs"
+      "contact": "https://www.nichibenren.or.jp/contact",
+      "verification_notes": "Institutional cross-reference rather than therapist entry; named JFBA family-law-committee clinicians not publicly enumerated. Stance sourced from named-press quote of JFBA representative. Statutory umbrella body of the Japanese bar.",
+      "references": [
+        "jurisdiction:asia",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023"
+      ]
+    },
+    {
+      "id": "jp.womens-action-network",
+      "name": "Japan Women's Action Network (WAN / ウィメンズアクションネットワーク)",
+      "credentials": "Founded 2009 by Chizuko Ueno and other feminist scholars and activists; Japan's leading women's-rights / feminist NGO and online platform; engages family-law reform, DV / 暴力 protection and gender-equality policy",
+      "city": "Kyoto / national",
+      "region": "Japan",
+      "affiliation": "WAN — Japan Women's Action Network (NPO)",
+      "stance": "critique",
+      "stance_notes": "Institutional critique-register anchor for the Japan PA-construct debate. WAN carries the DV-survivor-protective and gender-equality framing in the 共同親権 / Act No. 33 of 2024 reform conversation, with structural concern that the joint-parental-authority shift risks operationalisation against DV-survivor mothers absent robust carve-outs and enforcement. PA-specific public position-paper not located; classified critique on the strength of WAN's structural DV-protective and women's-rights policy register and engagement with the Civil Code Art. 819 reform debate. Comparative-reception relevance to BVerfG 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: JP.",
+      "publications": [
+        {"title": "WAN online platform and policy commentary on 共同親権 / Act No. 33 of 2024 reform", "year": 2024, "venue": "WAN (wan.or.jp)"},
+        {"title": "Founder Chizuko Ueno — feminist scholarship and family-law reform advocacy", "year": 2009, "venue": "WAN / University of Tokyo (emerita)"}
       ],
-      "named_individuals": [
-        "Atty. Keiko Kato - JFBA representative quoted in PIA / Gulf News on reform impact on Filipino migrants and language-access concerns"
+      "urls": [
+        "https://wan.or.jp/"
       ],
-      "primary_contact": "https://www.nichibenren.or.jp/contact",
-      "tier": 3,
-      "hook": "Structural institutional flag for Japan critique-camp position in the 共同親権 reform debate; natural critique-camp interlocutor for any Japan PA-clinical engagement; Japan analogue of UK Women's Aid in framing.",
-      "notes": "Institutional cross-reference rather than therapist entry; named JFBA family-law-committee clinicians not publicly enumerated. Stance sourced from named-press quote of JFBA representative."
+      "contact": "Via https://wan.or.jp/",
+      "verification_notes": "Institutional women's-rights NGO; no PA-specific publication or position-paper located. Listed as institutional critique-register anchor for the Japan PA debate.",
+      "references": [
+        "jurisdiction:asia",
+        "case-study:bverfg-1-bvr-1076-23-germany-2023"
+      ]
     }
   ],
-  "excluded_could_not_verify": [
-    {"name": "Dr Achal Bhagat (Saarthak Mental Health Services, Delhi)", "country_code": "IN", "reason": "Verified Apollo Hospitals Senior Consultant Psychiatrist + Saarthak Chairperson; mental-health-rights advocate. Saarthak site lists family/marital therapy but no PA-specific publication, public stance, or service line.", "url": "https://saarthakmind.com/"},
-    {"name": "Dr Nimesh Desai (former Director IHBAS Delhi)", "country_code": "IN", "reason": "Verified Senior Consultant Psychiatrist with 70+ publications; no PA-specific publication or stance located.", "url": "https://www.drnimeshgdesai.care/"},
-    {"name": "Dr Amit Sen + Dr Shelja Sen + Dr Kavita Arora (Children First Delhi/Gurgaon)", "country_code": "IN", "reason": "Verified Children First co-founders; large child mental-health practice; no PA-specific publication or public stance located.", "url": "https://childrenfirstindia.com/about-us/our-story/"},
-    {"name": "Dr Roopesh B.N. (NIMHANS Clinical Psychology)", "country_code": "IN", "reason": "Verified Associate Professor; child and adolescent neuropsychology focus; no PA-specific publication located.", "url": "https://www.linkedin.com/in/roopeshbn3/"},
-    {"name": "Dr Daniel Fung (CEO IMH Singapore)", "country_code": "SG", "reason": "Verified CEO IMH, 240+ peer-reviewed papers; no PA-specific publication or public stance located.", "url": "https://en.wikipedia.org/wiki/Daniel_Fung"},
-    {"name": "Dr Kenneth Lyen (Mount Elizabeth Singapore paediatrician)", "country_code": "SG", "reason": "Verified consultant paediatrician (endocrinology/neurology/infectious disease); no PA work located.", "url": "https://www.mountelizabeth.com.sg/patient-services/specialists/profile/lyen-kenneth-reginald"},
-    {"name": "Dr Eyon Kim (Singapore)", "country_code": "SG", "reason": "No Singapore psychologist by this name with a PA stance located via SRP, named press, peer-reviewed databases, or practice sites."},
-    {"name": "Dr Lisa Lim (Singapore)", "country_code": "SG", "reason": "Multiple candidates with surname Lim (June Lim, Carolyn Lim, Lisa Tang) but no Singapore psychologist exactly named 'Lisa Lim' with PA stance located."},
-    {"name": "CFSAPS / SAFCC (Singapore)", "country_code": "SG", "reason": "Neither acronym verified against MSF / FJC / FSC directory; closest verified institutional entries are FJC CAPS/CFS and MSF Strengthening Families @ FSC network."},
-    {"name": "Dr Patrick Wong (Hong Kong)", "country_code": "HK", "reason": "Multiple HK academics named Patrick (Patrick Leung CUHK psychology; Patrick C.M. Wong CUHK linguistics/cognitive science) but no HK clinical psychologist named 'Patrick Wong' with sourced PA stance located."},
-    {"name": "Dr Charlotte Mok (Hong Kong)", "country_code": "HK", "reason": "No HK clinical psychologist named 'Charlotte Mok' with PA-specific work located; nearest match Charlotte Wong (Counselling Psychologist HK / Registered Psychotherapist Ontario) without PA-specific stance."},
-    {"name": "Akin Chan IFS Hong Kong", "country_code": "HK", "reason": "No IFS-trained therapist named 'Akin Chan' in Hong Kong located via IFS Institute directory; Hong Kong IFS Level-3 practitioner via that directory is Jo Chan; other HK IFS practitioners lack PA-specific stance.", "url": "https://ifs-institute.com/practitioners/all/96569"},
-    {"name": "Hong Kong Council of Social Service (HKCSS)", "country_code": "HK", "reason": "Verified peak HK social-service umbrella body; operational PA-adjacent delivery sits at HKFWS (Entry 8) and other SWD Specialised Co-parenting Support Centres rather than at HKCSS umbrella level. Excluded as entry-level institutional duplication."},
-    {"name": "Dr Akira Naito (Doshisha clinical psychology, Japan)", "country_code": "JP", "reason": "No Japan clinical psychologist named 'Akira Naito' at Doshisha with sourced PA stance located via Doshisha faculty pages, J-STAGE, or named press."},
-    {"name": "Dr Hiroshi Saito (Tokyo Children Hospital, Japan)", "country_code": "JP", "reason": "No Japan child psychiatrist by this name with sourced PA stance located; closest namesake is Tamaki Saitō (hikikomori specialist, different sub-field)."},
-    {"name": "Japan Society of Family Court Counselors", "country_code": "JP", "reason": "No Japanese institutional body by this exact name verified; closest verified bodies are JAFT (Entry 11) and the in-house Family Court Investigator (家庭裁判所調査官) corps within the Supreme Court of Japan structure."},
-    {"name": "Dr Akemi Tomoda (University of Fukui)", "country_code": "JP", "reason": "Verified Professor & Director Research Center for Child Mental Development University of Fukui; AMED-BIRTHDAY and JST Moonshot child-maltreatment-brain-research PI. PA-adjacent (child maltreatment/brain) but no PA-specific publication or stance located.", "url": "https://www.researchgate.net/profile/Akemi-Tomoda"}
-  ],
-  "honest_gaps": [
-    "India - non-NIMHANS PA-recognition clinicians: entire verified India PA clinical literature comes from a single NIMHANS Bengaluru research cluster (Jangam-Nambiar-Seshadri); private-practice child psychiatrists in Delhi (Bhagat, Sen) and other major metros do not hold a public PA stance. Structural feature of Indian field, not a batch gap.",
-    "India - RCI Central Rehabilitation Register numbers for Clinical Psychologists not enumerable from public sources (requires name/state lookup). Psychiatric Social Work not statutorily registered.",
-    "Singapore - Court Family Specialist (CFS) named individuals not publicly enumerated by FJC; CFS-side stance only assessable institutionally.",
-    "Singapore - Custody Evaluation Officer roster: no public CEO roster exists; Chow (Entry 5) confirmable because she lists appointment on own practice site; other private SG psychologists may hold/have held same appointment but not publicly enumerable.",
-    "Singapore - explicit PA-stance clinical advocates comparable to AU Matthewson or US Bernet do not appear to exist in public SG record; SG discourse is policy / law-firm / institutional rather than clinical-academic.",
-    "Hong Kong - second-tier named PA-recognition clinicians beyond Borschel not verified to primary-sources standard within this batch; four other SWD Specialised Co-parenting Support Centres (other NGOs) likely host PA-relevant clinicians but named individuals not on public-facing centre pages.",
-    "Japan - PA-specific clinical advocates verifiable to /CONTRIBUTING.md standard could not be located in this batch. Recognition-camp Japan-side public discourse on 共同親権 led by lawyers and NGO organisers (Joint Custody Support National Liaison Council 共同養育支援法 全国連絡会 https://oyako-law.org/) rather than by named clinical psychologists with peer-reviewed PA publications.",
-    "Japan - Family Court Investigator (家庭裁判所調査官) named individuals not publicly enumerable due to court-system policy.",
-    "Cross-Asia DV-trauma-informed critique-camp clinicians (analogues of UK Birchall/Choudhry or AU Humphreys) under-represented in this batch - Asia DV-critique discourse appears to be primarily lawyer / NGO / academic-law-faculty led rather than clinical-practitioner led; mirrors structural pattern observed in Australia.",
-    "Schema note - region=Asia with country_code per entry follows user-specified consolidated format; if upstream antialienate-knowledge repo prefers per-country files, this can be split into practitioners-in-therapists / practitioners-sg-therapists / etc on a later pass."
+  "excluded": [
+    {
+      "id": "hk.aaft",
+      "name": "Asian Academy of Family Therapy (AAFT) — Hong Kong",
+      "exclusion_reason": "Unverifiable PA stance. Verified HK-headquartered regional family-therapy academy formed by the same group that created HKU Family Institute (HKUFI); expanded regionally 2015. Annual conferences, transgenerational centre, school partnership programmes, cross-regional Asian-couples comparative research — but PA-specific stance not stated on the association site or any verified primary source. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard.",
+      "primary_source_url": "https://www.acafamilytherapy.org/",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "jp.ohnogi-akiko",
+      "name": "Dr Akiko J. Ohnogi, PsyD (Clinical Psychology CSPP San Diego)",
+      "exclusion_reason": "Unverifiable PA stance. Verified independent clinical psychologist and play therapist Tokyo private practice (since 2000); JAPT Co-founder and Board Director; IC-PTA Co-founder; former IMHPJ Board member. Practice site, IMHPJ directory, and About page do NOT mention parental alienation, divorce work, custody evaluation, or court-related services. Japan 公認心理師 / 臨床心理士 status not publicly displayed. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard. Cross-flag from Asia lawyers file as most-named Tokyo expat clinical psychologist; retained as exclusion entry for navigational completeness.",
+      "primary_source_url": "https://dr-ohnogi.com/",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "jp.jaft",
+      "name": "Japanese Association of Family Therapy (JAFT) — 一般社団法人 日本家族療法学会",
+      "exclusion_reason": "Unverifiable PA stance. Verified General Incorporated Association founded 1984; ~1,000 multi-professional members including psychiatrists, 公認心理師 + 臨床心理士, nurses, social workers, teachers, and 家庭裁判所調査官 family court investigators; annual conferences; Family Therapist and Supervisor certification; Family Therapy Research journal. PA-specific stance not stated on the association site. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard. Only national multi-professional Japan family-therapy society; retained as exclusion entry for institutional navigational completeness.",
+      "primary_source_url": "https://jaft.org/",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "sg.eyon-kim",
+      "name": "Dr Eyon Kim (Singapore)",
+      "exclusion_reason": "Unverifiable. No Singapore psychologist by this name with a PA stance located via SRP, named press, peer-reviewed databases, or practice sites. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "sg.lisa-lim",
+      "name": "Dr Lisa Lim (Singapore)",
+      "exclusion_reason": "Unverifiable. Multiple candidates with surname Lim (June Lim, Carolyn Lim, Lisa Tang) but no Singapore psychologist exactly named 'Lisa Lim' with PA stance located. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "sg.daniel-fung",
+      "name": "Dr Daniel Fung (CEO IMH Singapore)",
+      "exclusion_reason": "Unverifiable PA stance. Verified CEO Institute of Mental Health Singapore, 240+ peer-reviewed papers; no PA-specific publication or public stance located. Carried from v1 excluded_could_not_verify.",
+      "primary_source_url": "https://en.wikipedia.org/wiki/Daniel_Fung",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "sg.kenneth-lyen",
+      "name": "Dr Kenneth Lyen (Mount Elizabeth Singapore paediatrician)",
+      "exclusion_reason": "Out-of-scope. Verified consultant paediatrician (endocrinology / neurology / infectious disease); no PA work located. Carried from v1 excluded_could_not_verify.",
+      "primary_source_url": "https://www.mountelizabeth.com.sg/patient-services/specialists/profile/lyen-kenneth-reginald",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "sg.cfsaps-safcc",
+      "name": "CFSAPS / SAFCC (Singapore)",
+      "exclusion_reason": "Unverifiable. Neither acronym verified against MSF / FJC / FSC directory; closest verified institutional entries are FJC CAPS / CFS (entry sg.fjc-caps) and MSF Strengthening Families @ FSC network. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "hk.patrick-wong",
+      "name": "Dr Patrick Wong (Hong Kong)",
+      "exclusion_reason": "Unverifiable. Multiple HK academics named Patrick (Patrick Leung CUHK psychology; Patrick C.M. Wong CUHK linguistics / cognitive science) but no HK clinical psychologist named 'Patrick Wong' with sourced PA stance located. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "hk.charlotte-mok",
+      "name": "Dr Charlotte Mok (Hong Kong)",
+      "exclusion_reason": "Unverifiable. No HK clinical psychologist named 'Charlotte Mok' with PA-specific work located; nearest match Charlotte Wong (Counselling Psychologist HK / Registered Psychotherapist Ontario) without PA-specific stance. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "hk.akin-chan",
+      "name": "Akin Chan IFS Hong Kong",
+      "exclusion_reason": "Unverifiable. No IFS-trained therapist named 'Akin Chan' in Hong Kong located via IFS Institute directory; HK IFS Level-3 practitioner via that directory is Jo Chan; other HK IFS practitioners lack PA-specific stance. Carried from v1 excluded_could_not_verify.",
+      "primary_source_url": "https://ifs-institute.com/practitioners/all/96569",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "hk.hkcss",
+      "name": "Hong Kong Council of Social Service (HKCSS)",
+      "exclusion_reason": "Out-of-scope / institutional duplication. Verified peak HK social-service umbrella body; operational PA-adjacent delivery sits at HKFWS (entry hk.hkfws-pcc) and other SWD Specialised Co-parenting Support Centres rather than at HKCSS umbrella level. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "jp.akira-naito",
+      "name": "Dr Akira Naito (Doshisha clinical psychology, Japan)",
+      "exclusion_reason": "Unverifiable. No Japan clinical psychologist named 'Akira Naito' at Doshisha with sourced PA stance located via Doshisha faculty pages, J-STAGE, or named press. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "jp.hiroshi-saito",
+      "name": "Dr Hiroshi Saito (Tokyo Children Hospital, Japan)",
+      "exclusion_reason": "Unverifiable. No Japan child psychiatrist by this name with sourced PA stance located; closest namesake is Tamaki Saitō (hikikomori specialist, different sub-field). Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "jp.jsfcc",
+      "name": "Japan Society of Family Court Counselors",
+      "exclusion_reason": "Unverifiable. No Japanese institutional body by this exact name verified; closest verified bodies are JAFT (entry jp.jaft, excluded) and the in-house Family Court Investigator (家庭裁判所調査官) corps within the Supreme Court of Japan structure. Carried from v1 excluded_could_not_verify.",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    },
+    {
+      "id": "jp.akemi-tomoda",
+      "name": "Dr Akemi Tomoda (University of Fukui)",
+      "exclusion_reason": "Out-of-scope. Verified Professor & Director Research Center for Child Mental Development University of Fukui; AMED-BIRTHDAY and JST Moonshot child-maltreatment-brain-research PI. PA-adjacent (child maltreatment / brain) but no PA-specific publication or stance located. Carried from v1 excluded_could_not_verify.",
+      "primary_source_url": "https://www.researchgate.net/profile/Akemi-Tomoda",
+      "references": [
+        "jurisdiction:asia"
+      ]
+    }
   ]
 }

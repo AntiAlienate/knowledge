@@ -2,8 +2,49 @@
   "schema": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
   "type": "therapists",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T16:13:00Z",
+  "generated": "2026-05-31T16:23:31Z",
   "countries": [
+    {
+      "path": "practitioners/therapists/africa.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/africa.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/africa.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/practitioners/therapists/africa.json",
+      "country": "Africa",
+      "country_code": "AFR",
+      "schema_version": "2.0",
+      "entries_count": 20,
+      "excluded_count": 6,
+      "entry_ids": [
+        "za.carr-leonard",
+        "za.roux-lynette",
+        "za.olivier-vicky",
+        "za.els-christie",
+        "za.martalas-astrid",
+        "za.viljoen-marle",
+        "za.nwu-social-work-team",
+        "za.van-niekerk-joan",
+        "za.pafsa",
+        "za.childline-sa",
+        "za.hpcsa",
+        "za.sacssp",
+        "za.mosaic",
+        "za.women-watch",
+        "ke.cprb",
+        "ke.fida-kenya",
+        "ng.nacp",
+        "ng.project-alert",
+        "ng.wacol",
+        "eg.nccm"
+      ],
+      "excluded_ids": [
+        "za.grobler-jean",
+        "za.welman-mark",
+        "za.grosse-adele",
+        "za.de-wit",
+        "za.ebersohn-sinta",
+        "za.watson-howard"
+      ]
+    },
     {
       "path": "practitioners/therapists/ar.json",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/ar.json",
@@ -40,6 +81,45 @@
         "ar.mediacion-familiar-argentina",
         "ar.ubapsi-forense",
         "ar.vaccaro-sonia"
+      ]
+    },
+    {
+      "path": "practitioners/therapists/asia.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/asia.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/asia.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/practitioners/therapists/asia.json",
+      "country": "Asia (non-India)",
+      "country_code": "ASI",
+      "schema_version": "2.0",
+      "entries_count": 8,
+      "excluded_count": 16,
+      "entry_ids": [
+        "sg.chow-annabelle",
+        "sg.fjc-caps",
+        "sg.aware",
+        "hk.borschel-monica",
+        "hk.hkfws-pcc",
+        "hk.acsvaw",
+        "jp.jfba-critique-flag",
+        "jp.womens-action-network"
+      ],
+      "excluded_ids": [
+        "hk.aaft",
+        "jp.ohnogi-akiko",
+        "jp.jaft",
+        "sg.eyon-kim",
+        "sg.lisa-lim",
+        "sg.daniel-fung",
+        "sg.kenneth-lyen",
+        "sg.cfsaps-safcc",
+        "hk.patrick-wong",
+        "hk.charlotte-mok",
+        "hk.akin-chan",
+        "hk.hkcss",
+        "jp.akira-naito",
+        "jp.hiroshi-saito",
+        "jp.jsfcc",
+        "jp.akemi-tomoda"
       ]
     },
     {
@@ -437,6 +517,40 @@
         "nl.forder-caroline",
         "nl.zander-joep",
         "nl.choy-joep"
+      ]
+    },
+    {
+      "path": "practitioners/therapists/nz.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/nz.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/nz.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/practitioners/therapists/nz.json",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "schema_version": "2.0",
+      "entries_count": 16,
+      "excluded_count": 3,
+      "entry_ids": [
+        "nz.leonetti-carrie",
+        "nz.goldson-jill",
+        "nz.staite-arnold",
+        "nz.calvert",
+        "nz.elizabeth-vivienne",
+        "nz.fanslow-janet",
+        "nz.gulliver-pauline",
+        "nz.wilson-denise",
+        "nz.atwool-nicola",
+        "nz.taylor-nicola",
+        "nz.nz-fc-specialist-report-writers",
+        "nz.nzccp",
+        "nz.nz-psychologists-board",
+        "nz.backbone-collective",
+        "nz.moriarty-au-cross",
+        "nz.woodall-karen-uk-cross"
+      ],
+      "excluded_ids": [
+        "nz.goodyear-smith-felicity",
+        "nz.coleman-nikki",
+        "nz.family-bridges-nz-facilitators"
       ]
     },
     {

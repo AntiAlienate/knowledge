@@ -2,7 +2,7 @@
   "schema": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
   "type": "case-study",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31T16:13:00Z",
+  "generated": "2026-05-31T16:23:31Z",
   "cases": [
     {
       "path": "case-studies/bverfg-1-bvr-1076-23-germany-2023.json",
