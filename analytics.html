@@ -52,14 +52,14 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
 <body>
 <header>
   <h1>AntiAlienate Knowledge — Analytics Dashboard</h1>
-  <div class="meta">Generated 2026-06-01T18:33:16.233271Z · CC BY 4.0 · <a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main" style="color:#aac">github.com/AntiAlienate/antialienate-knowledge</a> · <a href="https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json" style="color:#aac">manifest.json</a></div>
+  <div class="meta">Generated 2026-06-01T19:01:16.100918Z · CC BY 4.0 · <a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main" style="color:#aac">github.com/AntiAlienate/antialienate-knowledge</a> · <a href="https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json" style="color:#aac">manifest.json</a></div>
 </header>
 <nav>
   <a href="#overview">Overview</a>
   <a href="#therapists">Therapists (275)</a>
   <a href="#lawyers">Lawyers (167)</a>
   <a href="#cases">Cases (30)</a>
-  <a href="#jurisdictions">Jurisdictions (20)</a>
+  <a href="#jurisdictions">Jurisdictions (21)</a>
   <a href="#exclusions">Exclusions (243)</a>
 </nav>
 <main>
@@ -69,7 +69,7 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
   <div class="kpi-grid">
     <div class="kpi"><div class="label">Verified people / orgs</div><div class="value">442</div><div class="sub">275 therapists + 167 lawyers</div></div>
     <div class="kpi"><div class="label">Case studies (JSON)</div><div class="value">30</div><div class="sub">Across 19 jurisdictions</div></div>
-    <div class="kpi"><div class="label">Jurisdictions (full)</div><div class="value">20</div><div class="sub">Statute + apex + regulator</div></div>
+    <div class="kpi"><div class="label">Jurisdictions (full)</div><div class="value">21</div><div class="sub">Statute + apex + regulator</div></div>
     <div class="kpi alt"><div class="label">Documented exclusions</div><div class="value">243</div><div class="sub">With reasons + sources</div></div>
     <div class="kpi alt"><div class="label">Verbatim court quotes</div><div class="value">142</div><div class="sub">Original lang + translation</div></div>
     <div class="kpi alt"><div class="label">Footnote sources cited</div><div class="value">362</div><div class="sub">Across all cases</div></div>
@@ -77,15 +77,15 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
   <div style="margin-top:24px;">
     <h3 style="margin:0 0 8px;font-size:14px;color:#444">Knowledge graph</h3>
     <table style="max-width:600px">
-      <tr><th>Total nodes</th><td><b>492</b> (entries + cases + jurisdictions)</td></tr>
-      <tr><th>Total edges</th><td><b>2125</b> cross-references between entities</td></tr>
+      <tr><th>Total nodes</th><td><b>493</b> (entries + cases + jurisdictions)</td></tr>
+      <tr><th>Total edges</th><td><b>2134</b> cross-references between entities</td></tr>
       <tr><th>Avg edges/node</th><td><b>4.3</b></td></tr>
       <tr><th>Named judges</th><td>81 (across 30 cases)</td></tr>
       <tr><th>Named counsel</th><td>83</td></tr>
       <tr><th>Named experts</th><td>53 (anonymised where court did)</td></tr>
-      <tr><th>Statutes cited</th><td>162 (across 20 jurisdictions)</td></tr>
-      <tr><th>Apex decisions indexed</th><td>91</td></tr>
-      <tr><th>Professional regulators</th><td>147</td></tr>
+      <tr><th>Statutes cited</th><td>170 (across 21 jurisdictions)</td></tr>
+      <tr><th>Apex decisions indexed</th><td>95</td></tr>
+      <tr><th>Professional regulators</th><td>153</td></tr>
     </table>
   </div>
 </section>
@@ -673,7 +673,7 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
 </section>
 
 <section id="jurisdictions" style="display:none">
-  <h2>Jurisdictions — 20 with full JSON sidecar</h2>
+  <h2>Jurisdictions — 21 with full JSON sidecar</h2>
   <table id="jurisdictions">
     <thead><tr>
       <th onclick="sortTable('jurisdictions',0)">Jurisdiction</th>
@@ -696,6 +696,7 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
 <tr><td><b>Colombia</b></td><td><span class="code">CO</span></td><td>civil-law</td><td>silent</td><td>critique</td><td>position-statement-against</td><td data-sort="7">7</td><td data-sort="3">3</td><td data-sort="7">7</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/colombia.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>France</b></td><td><span class="code">FR</span></td><td>civil-law</td><td>silent</td><td>middle</td><td>silent</td><td data-sort="11">11</td><td data-sort="3">3</td><td data-sort="10">10</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/france.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>Germany</b></td><td><span class="code">DE</span></td><td>civil-law</td><td>silent</td><td>critique</td><td>silent</td><td data-sort="5">5</td><td data-sort="4">4</td><td data-sort="5">5</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/germany.json" class="entity-link">📄</a></td></tr>
+<tr><td><b>Hong Kong Special Administrative Region</b></td><td><span class="code">HK</span></td><td>common-law</td><td>indirect-hook</td><td>middle</td><td>silent</td><td data-sort="8">8</td><td data-sort="4">4</td><td data-sort="6">6</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/hong-kong.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>India</b></td><td><span class="code">IN</span></td><td>mixed</td><td>silent</td><td>recognition</td><td>silent</td><td data-sort="8">8</td><td data-sort="3">3</td><td data-sort="4">4</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/india.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>Italy</b></td><td><span class="code">IT</span></td><td>civil-law</td><td>indirect-hook</td><td>critique</td><td>position-statement-against</td><td data-sort="9">9</td><td data-sort="3">3</td><td data-sort="6">6</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/italy.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>México</b></td><td><span class="code">MX</span></td><td>civil-law</td><td>indirect-hook</td><td>middle</td><td>silent</td><td data-sort="9">9</td><td data-sort="4">4</td><td data-sort="6">6</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/mexico.json" class="entity-link">📄</a></td></tr>
