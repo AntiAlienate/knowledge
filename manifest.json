@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-01T15:12:16Z",
+  "generated": "2026-06-01T15:40:12Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 13,
+    "jurisdictions": 14,
     "evidence_pages": 0
   },
   "indexes": {
@@ -130,6 +130,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "UK-SCO",
       "name": "Scotland"
+    },
+    {
+      "id": "south-africa",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/south-africa.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/south-africa.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ZA",
+      "name": "South Africa"
     },
     {
       "id": "spain",
