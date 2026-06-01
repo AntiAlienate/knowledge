@@ -221,18 +221,98 @@ Hong Kong (Kowloon) · Hong Kong SAR · HKFWS Parent-child Connect; multi-discip
 
 <sub>ID: `hk.hkfws-pcc`</sub>
 
+### A/Prof Daniel Fung Shuen Sheng, MBBS, MMed (Psychiatry)
+*MBBS; MMed (Psychiatry) NUS; advanced fellowships Toronto; Wharton executive education; FAMS; consultant child and adolescent psychiatrist*
+Singapore · Singapore (city-state) · Chief Wellness Officer, NHG Health (current); former Chief Executive Officer, Institute of Mental Health Singapore (2021-2026); President, College of Psychiatrists, Academy of Medicine Singapore; Past President, International Association for Child and Adolescent Psychiatry and Allied Professions (IACAPAP, 2018-2022); Adjunct Professor across LKCMedicine NTU / Duke-NUS / NUS YLLSoM
+
+**Stance:** Verified senior Singapore child and adolescent psychiatry institutional anchor; structural counterpart of the Australian RANZCP Faculty of Child and Adolescent Psychiatry leadership tier and the US AACAP presidential line. CEO IMH 2021-2026, succeeded by Dr Jamie Mervyn Lim; now Chief Wellness Officer NHG Health. Past President IACAPAP (the global child-adolescent-psychiatry peak body) and current President of the College of Psychiatrists, Academy of Medicine Singapore. Led MOH's REACH youth mental-health programme. PA-construct-specific public statement not located on NHG profile, Wikipedia, IMH biography, or IACAPAP archive. Classified institutional on the strength of verified leadership of the Singapore academic-clinical child-psychiatry establishment — natural Singapore middle-camp interlocutor for any PA-clinical engagement at peak-body level, even absent a personal PA-stance position-paper. Country_code: SG.
+
+**Publications:**
+- Survivors: Breaking The Silence On Child Sexual Abuse (2010) — *book*
+- The Stress Wars (2012) — *book*
+- Characterizing selective mutism: Is it more than social anxiety? (2003) — *Depression and Anxiety*
+- IQ and the Association with Myopia in Children (2004) — *Investigative Ophthalmology & Visual Science*
+- Development and validation of a depression scale for Asian adolescents (2004) — *Journal of Adolescence*
+- The Impact of Parent-Child Attachment on Aggression, Social Stress and Self-Esteem (2006) — *School Psychology International*
+- Emotional and behavioural problems in Singaporean children (2007) — *Singapore Medical Journal*
+
+**Verification:**
+- <https://www.nhghealth.com.sg/about-us/group-leadership/A-Prof-Daniel-Fung>
+- <https://en.wikipedia.org/wiki/Daniel_Fung>
+- <https://pharmaboardroom.com/interviews/daniel-fung-ceo-institute-of-mental-health-singapore/>
+- <https://emhicglobal.com/leadership-council/dr-daniel-fung/>
+
+**Contact:** Via NHG Health corporate; IMH succession to Dr Jamie Mervyn Lim
+
+*Notes: Wikipedia, NHG Health group leadership profile, PharmaBoardroom interview, and EMHIC leadership council page all corroborate CEO IMH 2021-2026 transition to NHG Chief Wellness Officer. Past President IACAPAP corroborated. AMS Singapore College of Psychiatrists presidency corroborated. No PA-specific publication or stance located in IMH page, NHG profile, or peer-reviewed search. Recovered from v2 excluded[] as a verified institutional anchor (Singapore academic child-psychiatry peak-body tier) per the same precedent treating AWARE / ACSVAW / WAN / JFBA / FJC CAPS as institutional anchors without PA-specific position papers.*
+
+**See also:** `jurisdiction:asia`
+
+<sub>ID: `sg.fung-daniel`</sub>
+
+### Asian Academy of Family Therapy (AAFT) — 亞洲家庭治療學院
+*Hong Kong-headquartered regional family-therapy peak body (No. 4 Pottinger Street, Central, Hong Kong); founded 2012 as Academy of Family Therapy by the same group that established the HKU Family Institute; expanded to 'Asian' scope 2015; multi-jurisdictional Membership Committee with representatives from Hong Kong, Japan, Korea, Taiwan, Mainland China, Singapore, and Malaysia*
+Hong Kong (Central) · Hong Kong SAR · Asian Academy of Family Therapy; Family Therapy Centre (first of its kind in HK); annual cross-regional conference (11th Annual Conference Seoul 24-26 June 2026); Chairperson Membership Committee CHAN Shook Yim Sally, MSocSc (Marriage and Family Therapy)
+
+**Stance:** Verified regional family-therapy peak body and the leading Asian institutional anchor for systemic family-therapy training, research and practice. Structural counterpart of the UK Association for Family Therapy (AFT) and the European Family Therapy Association (EFTA) at the Asian regional level. Family Therapy Centre service line includes 'Developing a Child-focused Approach in Divorce Counseling' for families navigating separation impact on children, and family biofeedback assessment evaluating children's autonomic responses to parental conflict — both PA-adjacent service lines without an explicit PA-construct position statement. AAFT member-authored Tamura 2021 Australian and New Zealand Journal of Family Therapy article 'Asian Family Therapy: From East to West' frames the regional discipline. PA-construct-specific public position-paper not located; classified institutional on the strength of verified regional peak-body status and PA-adjacent divorce-counselling / parental-conflict-biofeedback service lines. Recovered from v2 excluded[] per the same precedent treating JAFT and HKFWS as institutional anchors. Country_code: HK.
+
+**Publications:**
+- Family Therapy Centre — first of its kind in Hong Kong (training, service, research) (2015) — *AAFT*
+- Developing a Child-focused Approach in Divorce Counseling (service line) (2015) — *AAFT Family Therapy Centre* — <https://www.acafamilytherapy.org/familytherapycenter>
+- Family Biofeedback Assessment for parental-conflict response in children (service line) (2015) — *AAFT Family Therapy Centre*
+- Asian Family Therapy: From East to West (Tamura, ANZ Journal of Family Therapy) (2021) — *Australian and New Zealand Journal of Family Therapy* — <https://onlinelibrary.wiley.com/doi/full/10.1002/anzf.1472>
+- Lee et al. — Asian couples in negotiation: A mixed method analysis (2013) — *Family Process*
+- 11th AAFT Annual Conference (Seoul, 24-26 June 2026) (2026) — *AAFT / Korean co-host*
+
+**Verification:**
+- <https://www.acafamilytherapy.org/>
+- <https://www.acafamilytherapy.org/familytherapycenter>
+- <https://www.acafamilytherapy.org/what-s-new>
+- <https://onlinelibrary.wiley.com/doi/full/10.1002/anzf.1472>
+
+**Contact:** Via https://www.acafamilytherapy.org/; No. 4 Pottinger Street, Central, Hong Kong
+
+*Notes: Org-site, Family Therapy Centre service-page, ANZJFT Tamura 2021 article, and Family Process Lee et al. 2013 article all corroborate AAFT regional peak-body status. Chair Sally CHAN Shook Yim verified on org site. No PA-specific position-paper located; recovered as institutional anchor with PA-adjacent divorce-counselling and parental-conflict-biofeedback service lines flagged in stance_notes.*
+
+**See also:** `jurisdiction:asia`
+
+<sub>ID: `hk.aaft`</sub>
+
+### Japanese Association of Family Therapy (JAFT) — 一般社団法人 日本家族療法学会
+*General Incorporated Association founded 1984; ~1,000-1,200 multi-professional members (one-third psychiatrists / medical doctors; one-third 公認心理師 and 臨床心理士 psychologists; remainder nurses, social workers, teachers, and 家庭裁判所調査官 Family Court Investigators); HQ Tokyo (PALACESIDE building, Mainichi Academic Forum, 1-1-1 Hitotsubashi, Chiyoda-ku); annual conference; Family Therapist and Supervisor certification; Family Therapy Research (家族療法研究) journal; bi-cultural Japan-Korea Family Therapy Case Conference since 2003*
+Tokyo · Japan · JAFT — Japanese Association of Family Therapy; co-organiser of the 2024 Cross-Cultural Conference of Family Therapy from Asia and Beyond (FTAB / 8th Japan-Taiwan-Korea Case Conference) Kanazawa
+
+**Stance:** Verified national family-therapy peak body of Japan since 1984 and the only national multi-professional family-therapy society including in-house Family Court Investigators (家庭裁判所調査官) among its membership — structurally the closest Japan-side institutional bridge between the clinical family-therapy field and the family-court forensic-evaluator corps that runs Japan's PA-adjacent post-divorce custody assessment work. Structural counterpart of the UK Association for Family Therapy (AFT) and the US American Association for Marriage and Family Therapy (AAMFT) at the Japanese national level. Closely aligned with AAFT (entry hk.aaft) at the Asian regional level. PA-construct-specific public position-paper not located on the association site, and the Civil Code Art. 819 reform (Act No. 33 of 2024, effective 1 April 2026) is not addressed in society-level pronouncements located via primary search. Classified institutional on the strength of verified national peak-body status with statutory legal personality and explicit membership inclusion of Family Court Investigators. Recovered from v2 excluded[] per the same precedent treating JFBA (entry jp.jfba-critique-flag), HKFWS (entry hk.hkfws-pcc), and AAFT (entry hk.aaft) as institutional anchors. Country_code: JP.
+
+**Publications:**
+- Family Therapy Research (家族療法研究) — peer-reviewed journal (1984) — *JAFT*
+- Annual conference of the Japanese Association of Family Therapy (1984) — *JAFT*
+- Family Therapist and Supervisor certification programme (1984) — *JAFT*
+- Japan-Korea Bi-cultural Family Therapy Case Conference (biannual since 2003) (2003) — *JAFT / Korean Academy of Family Therapy*
+- 2024 Cross-Cultural Conference of Family Therapy from Asia and Beyond (FTAB / 8th Japan-Taiwan-Korea Case Conference) (2024) — *JAFT 41st Kanazawa conference* — <https://jaft2024.site/ftab/>
+- Family therapy in Japan — context and development (Tamura) (2006) — *Journal of Family Therapy / ScienceDirect* — <https://www.sciencedirect.com/science/article/abs/pii/S0531513106000409>
+- The COVID-19 Pandemic and Families in Japan (Shibusawa et al.) (2021) — *Australian and New Zealand Journal of Family Therapy* — <https://onlinelibrary.wiley.com/doi/10.1002/anzf.1438>
+
+**Verification:**
+- <https://www.jaft.org/>
+- <https://www.jaft.org/english/>
+- <https://jaft2024.site/ftab/>
+- <https://www.sciencedirect.com/science/article/abs/pii/S0531513106000409>
+
+**Contact:** PALACESIDE building, Mainichi Academic Forum Inc., 1-1-1, Hitotsubashi, Chiyoda-ku, Tokyo; via https://www.jaft.org/
+
+*Notes: Org-site (Japanese and English), 2024 Kanazawa conference site, ScienceDirect Tamura 2006 Journal of Family Therapy article, and Shibusawa 2021 ANZJFT article all corroborate JAFT national peak-body status, ~1,000-1,200 multi-professional membership including Family Court Investigators, 1984 founding, Family Therapy Research journal, and bi-cultural Japan-Korea case-conference programme. No PA-construct or 共同親権 reform position-paper located on org site or in primary search. Recovered as institutional anchor with explicit absence-of-PA-position-paper flagged in stance_notes.*
+
+**See also:** `jurisdiction:asia`
+
+<sub>ID: `jp.jaft`</sub>
+
 ## Excluded (with documented reason)
 
-- **Asian Academy of Family Therapy (AAFT) — Hong Kong** — Unverifiable PA stance. Verified HK-headquartered regional family-therapy academy formed by the same group that created HKU Family Institute (HKUFI); expanded regionally 2015. Annual conferences, transgenerational centre, school partnership programmes, cross-regional Asian-couples comparative research — but PA-specific stance not stated on the association site or any verified primary source. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard.
-  - Primary source: <https://www.acafamilytherapy.org/>
 - **Dr Akiko J. Ohnogi, PsyD (Clinical Psychology CSPP San Diego)** — Unverifiable PA stance. Verified independent clinical psychologist and play therapist Tokyo private practice (since 2000); JAPT Co-founder and Board Director; IC-PTA Co-founder; former IMHPJ Board member. Practice site, IMHPJ directory, and About page do NOT mention parental alienation, divorce work, custody evaluation, or court-related services. Japan 公認心理師 / 臨床心理士 status not publicly displayed. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard. Cross-flag from Asia lawyers file as most-named Tokyo expat clinical psychologist; retained as exclusion entry for navigational completeness.
   - Primary source: <https://dr-ohnogi.com/>
-- **Japanese Association of Family Therapy (JAFT) — 一般社団法人 日本家族療法学会** — Unverifiable PA stance. Verified General Incorporated Association founded 1984; ~1,000 multi-professional members including psychiatrists, 公認心理師 + 臨床心理士, nurses, social workers, teachers, and 家庭裁判所調査官 family court investigators; annual conferences; Family Therapist and Supervisor certification; Family Therapy Research journal. PA-specific stance not stated on the association site. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard. Only national multi-professional Japan family-therapy society; retained as exclusion entry for institutional navigational completeness.
-  - Primary source: <https://jaft.org/>
 - **Dr Eyon Kim (Singapore)** — Unverifiable. No Singapore psychologist by this name with a PA stance located via SRP, named press, peer-reviewed databases, or practice sites. Carried from v1 excluded_could_not_verify.
 - **Dr Lisa Lim (Singapore)** — Unverifiable. Multiple candidates with surname Lim (June Lim, Carolyn Lim, Lisa Tang) but no Singapore psychologist exactly named 'Lisa Lim' with PA stance located. Carried from v1 excluded_could_not_verify.
-- **Dr Daniel Fung (CEO IMH Singapore)** — Unverifiable PA stance. Verified CEO Institute of Mental Health Singapore, 240+ peer-reviewed papers; no PA-specific publication or public stance located. Carried from v1 excluded_could_not_verify.
-  - Primary source: <https://en.wikipedia.org/wiki/Daniel_Fung>
 - **Dr Kenneth Lyen (Mount Elizabeth Singapore paediatrician)** — Out-of-scope. Verified consultant paediatrician (endocrinology / neurology / infectious disease); no PA work located. Carried from v1 excluded_could_not_verify.
   - Primary source: <https://www.mountelizabeth.com.sg/patient-services/specialists/profile/lyen-kenneth-reginald>
 - **CFSAPS / SAFCC (Singapore)** — Unverifiable. Neither acronym verified against MSF / FJC / FSC directory; closest verified institutional entries are FJC CAPS / CFS (entry sg.fjc-caps) and MSF Strengthening Families @ FSC network. Carried from v1 excluded_could_not_verify.

@@ -355,6 +355,27 @@ Cairo · Egypt national · Statutory state body under Presidential Decree 54/198
 
 <sub>ID: `eg.nccm`</sub>
 
+## Forensic evaluators
+
+### Dr de Wit
+*Dr (title as cited in judgment; specific HPCSA category and registration number not publicly disclosed in the judgment text)*
+Johannesburg · Gauteng · Independent expert engaged in T.L.D v B.G [2023] ZAGPJHC 801 (no institutional affiliation disclosed in the public judgment record)
+
+**Stance:** Court-engaged expert in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (Adams J, 13 July 2023). Per the judgment as summarised in primary South African family-law coverage, Dr de Wit assessed the father's personality dynamics and found that his behaviour was driven by pathological envy characterised as 'spoiling hostility' aimed at devastating the other parent, alongside narcissism and a sense of entitlement — a finding the court relied upon together with Mr Leonard Carr's child evaluation in ordering protective separation. This places De Wit as a forensic evaluator whose findings supported a recognition/protection outcome in a landmark SA parental-alienation judgment.
+
+**Verification:**
+- <https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html>
+- <https://familylaws.co.za/parental-alienation-syndrome-landmark-case-south-africa/>
+- <https://familylaws.co.za/parental-alienation-south-africa-family-law/>
+
+**Contact:** Not publicly confirmed
+
+*Notes: Verified existence and forensic role via the SAFLII case citation and two independent primary-source South African family-law analyses of T.L.D v B.G [2023] ZAGPJHC 801 which both quote De Wit's findings on paternal narcissism / pathological envy. First name, HPCSA registration number, institutional affiliation and current practice address are NOT disclosed in the public judgment record or in any publicly indexed HPCSA / university / clinic page located within the search budget. Entry is recovered as a named expert in the case record but must remain narrowly scoped until HPCSA register direct-query (manual) or court transcript yields fuller identity.*
+
+**See also:** `jurisdiction:africa`, `jurisdiction:south-africa`, `case-study:tld-v-bg-2023-zagpjhc-801-south-africa`, `practitioner:za.carr-leonard`
+
+<sub>ID: `za.de-wit`</sub>
+
 ## Institutional anchors
 
 ### Parental Alienation Foundation of South Africa (PAFSA)
@@ -504,8 +525,6 @@ Federal (national) · Nigeria national · NACP — national professional associa
   - Primary source: <https://www.hpcsa.co.za/?contentId=0&menuSubId=52&actionName=Profes>
 - **Dr Adele Grosse** — Unverifiable — no public primary-source HPCSA / practice / publication record found within time budget.
   - Primary source: <https://www.hpcsa.co.za/?contentId=0&menuSubId=52&actionName=Profes>
-- **Dr De Wit (T.L.D v B.G expert reviewer)** — Unverifiable beyond the judgment — named in T.L.D v B.G as expert reviewer (cross-referenced under /practitioners/lawyers/africa.md anchor case) but no current public practice site / institutional profile / additional publication footprint verifiable. Could be promoted to standalone entry if current practice / HPCSA listing surfaces.
-  - Primary source: <https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html>
 - **Sinta Ebersohn (Fair Divorce)** — Out-of-scope for clinician-and-therapist file. Verified as Post-Traumatic-Growth Specialist / Mentor / Coach / Resilience Practitioner / Strategic Life Coach / Complimentary Therapist / Trauma Debriefing Specialist / Holistic Counsellor / Parenting Coach / Separation & Divorce Mentor / End of Life Doula / Training Provider per sintaebersohn.co.za. No psychology degree, social-work certification, mediation license, or HPCSA/SACSSP registration publicly displayed. PA-advocacy publication footprint (Fair Divorce, '67 Divorce Problems & Solutions', Elephant Journal, Huffington Post, IOL, News24) is substantial — recommend separate 'PA advocates and educators' directory.
   - Primary source: <https://sintaebersohn.co.za/>
 - **Howard Watson (attorney, PAFSA co-founder)** — Out-of-scope for therapists file — primarily attorney (Watson Law Incorporated), not a clinician; institutional contribution captured under PAFSA entry. Standalone attorney entry should be considered for /practitioners/lawyers/africa.md.
