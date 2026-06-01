@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-01T22:49:38Z",
+  "generated": "2026-06-01T23:20:01Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 30,
+    "jurisdictions": 33,
     "evidence_pages": 0
   },
   "indexes": {
@@ -36,12 +36,28 @@
   },
   "jurisdictions": [
     {
+      "id": "africa",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/africa.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/africa.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AFR",
+      "name": "Africa (regional aggregate)"
+    },
+    {
       "id": "argentina",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/argentina.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/argentina.json",
       "schema_version": "1.0",
       "jurisdiction_code": "AR",
       "name": "Argentina"
+    },
+    {
+      "id": "asia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/asia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/asia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ASI",
+      "name": "Asia (regional aggregate)"
     },
     {
       "id": "australia",
@@ -258,6 +274,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "ES",
       "name": "Spain"
+    },
+    {
+      "id": "uk-devolved",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/uk-devolved.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/uk-devolved.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "GB",
+      "name": "United Kingdom — Devolved Jurisdictions (Scotland / Northern Ireland / Wales)"
     },
     {
       "id": "united-states",
