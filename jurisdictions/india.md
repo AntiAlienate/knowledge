@@ -1,85 +1,115 @@
-# India — Parental Alienation Legal Reference
+# India
 
-> Jurisdiction-specific legal reference for parents, lawyers, and clinicians navigating parental-alienation matters in India. Cross-referenced with deeply-investigated case studies. CC BY 4.0.
+**Jurisdiction code:** `IN` · **Legal system:** mixed  
+**Language(s):** en, hi  
 
-## Quick reference
+India is a mixed common-law / personal-law jurisdiction whose family courts apply the Hindu Marriage Act 1955, Hindu Minority and Guardianship Act 1956, Guardians and Wards Act 1890 and Family Courts Act 1984, alongside personal-law statutes (Muslim, Christian, Parsi) and the secular Special Marriage Act 1954. The Supreme Court of India in Lt Col Vivek Singh v Romani Singh, (2017) 3 SCC 231 expressly defined 'The Parental Alienation Syndrome' on the record — the only apex-court decision in India that engages PAS terminology directly. A subsequent Delhi High Court line (ABC v XYZ 2023 SCC OnLine Del 6099; A v B 2026 SCC OnLine Del 276) has crystallised parental alienation as 'extreme mental cruelty' under Hindu Marriage Act s.13(1)(ia). The clinical-institutional landscape clusters at NIMHANS Bengaluru (recognition camp); the critique register is institutional and women's-rights-organisation-led (Lawyers Collective WRI, Majlis Mumbai, MASUM Pune, Sakshi Delhi) under the PWDVA 2005 and CEDAW frames rather than clinician-led.
 
-| Element | India position |
-|---|---|
-| Statutory PA recognition | No. There is no statutory PA framework. Custody is decided under personal-law statutes (Hindu Marriage Act 1955 s.26; Hindu Minority and Guardianship Act 1956; Guardians and Wards Act 1890; equivalent personal-law statutes for Muslim, Christian, and Parsi families) with *welfare of the minor* as the paramount consideration. |
-| Apex court direction (current) | The Supreme Court of India has endorsed the *parental alienation syndrome* construct in [Vivek Singh v Romani Singh (2017) 3 SCC 231](../case-studies/vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md), citing Gardner. The use is reasoning-level rather than diagnostic and has been replicated in High Court decisions. |
-| Standard of proof for PA findings | Civil standard (preponderance of probabilities); *welfare of the minor* is the controlling substantive standard. |
-| Forensic-evaluator framework | Court Counsellors attached to Family Courts under the Family Courts Act 1984 s.6; *in-camera* hearing of child under s.11; psychiatric/psychological reports on court order. |
-| Reunification programs court-ordered | Mediation under Family Courts Act s.9 and SC-mandated mediation referrals; *parens patriae* visitation orders; no coercive residential programme. |
-| Domestic-abuse counterweight in place | Yes. *Protection of Women from Domestic Violence Act 2005* (PWDVA); IPC 498A; *Juvenile Justice (Care and Protection of Children) Act 2015*; *POCSO Act 2012*. |
+## PA recognition status
+
+- **Statutory:** silent
+- **Apex court position:** recognition
+- **Professional regulator position:** silent
 
 ## Statutory framework
 
-- **Guardians and Wards Act 1890** — the general statute governing guardianship and custody. [India Code — GWA 1890](https://www.indiacode.nic.in/handle/123456789/2318).
-- **Hindu Marriage Act 1955, s.26** — custody jurisdiction of the matrimonial court. [India Code](https://www.indiacode.nic.in/handle/123456789/1560).
-- **Hindu Minority and Guardianship Act 1956** — Hindu personal-law minor's guardianship. [India Code](https://www.indiacode.nic.in/handle/123456789/1648).
-- **Family Courts Act 1984** — Family Courts as specialised forum; ss. 6 (counsellors), 9 (settlement), 11 (in-camera hearings), 14 (relaxed evidence rules). [India Code](https://www.indiacode.nic.in/handle/123456789/1854).
-- **Protection of Women from Domestic Violence Act 2005 (PWDVA)** — civil DV protection framework. [India Code](https://www.indiacode.nic.in/handle/123456789/2031).
-- **Juvenile Justice (Care and Protection of Children) Act 2015** — child-welfare framework; *Child Welfare Committees* (CWCs). [India Code](https://www.indiacode.nic.in/handle/123456789/2210).
-- **Protection of Children from Sexual Offences Act 2012 (POCSO)** — CSA framework. [India Code](https://www.indiacode.nic.in/handle/123456789/2079).
-- **Constitution of India, Art. 21** — right to life, including the right to a meaningful relationship with parents (developed in Supreme Court jurisprudence). [India Code — Constitution](https://www.indiacode.nic.in/handle/123456789/15240).
+- **Hindu Marriage Act 1955 s.13(1)(ia)** — Hindu Marriage Act 1955 — divorce on cruelty grounds (1955) — <https://www.indiacode.nic.in/handle/123456789/1560>
+  - Provides the matrimonial-fault hook on which the post-Vivek Singh Delhi High Court line (ABC v XYZ 2023; A v B 2026) has treated sustained parental alienation as an 'extreme act of mental cruelty' grounding divorce. India is one of the few jurisdictions internationally where PA is adjudicable on a fault-divorce ground rather than channelled exclusively through custody / best-interests reasoning.
+- **Hindu Minority and Guardianship Act 1956** — Hindu Minority and Guardianship Act 1956 (1956) — <https://www.indiacode.nic.in/handle/123456789/1640>
+  - Primary statute governing guardianship of Hindu minors; together with the Guardians and Wards Act 1890 forms the substantive framework against which custody disputes are decided. The welfare-of-the-minor standard in s.13 is the substantive frame used by the Supreme Court in Vivek Singh when engaging the parental-alienation factor.
+- **Guardians and Wards Act 1890** — Guardians and Wards Act 1890 — general (secular) law of guardianship (1890) — <https://www.indiacode.nic.in/handle/123456789/2318>
+  - General secular law of guardianship applicable to non-Hindu minors and as supplement to personal-law statutes. Section 17 'welfare of the minor' is the substantive paramountcy test under which Indian courts have engaged PA-adjacent fact-patterns.
+- **Family Courts Act 1984** — Family Courts Act 1984 — constitutes specialist family courts (1984) — <https://www.indiacode.nic.in/handle/123456789/1923>
+  - Establishes specialist Family Courts (e.g., Patiala House New Delhi) with statutory authority to appoint counsellors, social-welfare experts and psychologists. This is the statutory hook by which Ms Iti Kanungo (Principal Counsellor, Family Court Patiala House) was the court-appointed evaluator engaged on the record in Vivek Singh. India's family-court counsellor mechanism is the structural counterpart to the FCFCOA Court Children's Service (AU), Cafcass (UK-EWS) and consultatif counsellors (FR).
+- **Protection of Women from Domestic Violence Act 2005** — Protection of Women from Domestic Violence Act 2005 (PWDVA) (2005) — <https://wcd.nic.in/act/protection-women-domestic-violence-act-2005>
+  - Statutory civil-protection framework for women experiencing domestic violence. PWDVA is the principal statutory hook for the Indian institutional critique register (Lawyers Collective WRI, Majlis Mumbai, MASUM Pune, Sakshi Delhi), which frames PA as a tactic by which DV-perpetrating respondents seek to reframe survivor protective behaviour as 'alienating' conduct.
+- **Special Marriage Act 1954** — Special Marriage Act 1954 — secular marriage and divorce statute (1954) — <https://www.indiacode.nic.in/handle/123456789/1623>
+  - Secular marriage and divorce statute applicable irrespective of religion; s.27(1)(d) cruelty ground parallels HMA s.13(1)(ia) and provides an alternative procedural route for PA-as-cruelty arguments in inter-religious or secular marriages.
+- **Rehabilitation Council of India Act 1992** — Rehabilitation Council of India Act 1992 — CRR Clinical Psychologist register (1992) — <https://rehabcouncil.nic.in/>
+  - Establishes the Rehabilitation Council of India (RCI) and the Central Rehabilitation Register (CRR) for clinical psychologists. RCI registration is the statutory credential for clinical-psychology practice in India and is the closest Indian analogue to HCPC (UK) or CRPO (Ontario) practitioner regulation; no PA-specific RCI position has been issued.
+- **National Medical Commission Act 2019** — National Medical Commission Act 2019 — Indian Medical Register (2019) — <https://www.nmc.org.in/>
+  - Replaces the Medical Council of India and maintains the Indian Medical Register including psychiatrists. NMC is the statutory regulator for the medical profession in India; no PA-specific NMC or Indian Psychiatric Society position-statement has been published.
 
-## Apex court direction
+## Apex courts
 
-The leading apex-court reference is **[Vivek Singh v Romani Singh, Civil Appeal No. 3962 of 2016, (2017) 3 SCC 231 (13 February 2017)](../case-studies/vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md)**, decided by Justices J. Chelameswar and A.K. Sikri (Sikri J delivering the judgment). [Judgment PDF — main.sci.gov.in](https://main.sci.gov.in/judgment/judis/44566.pdf).
+### Supreme Court of India
+<https://www.sci.gov.in/>
+- **Lt Col Vivek Singh v Romani Singh, Civil Appeal No. 3962 of 2016, (2017) 3 SCC 231 — Bench Chelameswar J. and Sikri J., decided 13 February 2017. Apex-court decision that expressly defined 'The Parental Alienation Syndrome' on the record and engaged the court-appointed counsellor's psychological/sociological report when assessing the child's stated preference. Recognition stance.** (2017) — recognition — [`vivek-singh-v-romani-singh-2017-india`](../case-studies/vivek-singh-v-romani-singh-2017-india.md)
 
-Key propositions:
+### Delhi High Court — PA / matrimonial-cruelty line
+<https://delhihighcourt.nic.in/>
+- **ABC v XYZ, 2023 SCC OnLine Del 6099 — Suresh Kumar Kait J. and Neena Bansal Krishna J., October 2023. Held that parental alienation of a child from a non-neglectful parent constitutes an 'extreme act of mental cruelty' under HMA s.13(1)(ia). Extends the Vivek Singh framing into matrimonial-relief jurisprudence.** (2023) — recognition
+- **A v B, 2026 SCC OnLine Del 276 — Anil Kshetarpal J. and Harish Vaidyanathan Shankar J., February 2026. Custody transferred to the father on findings of 'sustained parental alienation' by the mother. First reported Indian custody-transfer decision on PA grounds in the post-Vivek Singh line.** (2026) — recognition
 
-1. The Supreme Court explicitly invoked "parental alienation syndrome", citing Richard A. Gardner, as a reasoning frame for evaluating the child's expressed preference for one parent after a long period of physical custody during conflict.
-2. The Court did not adopt PAS as a formal diagnostic category but treated it as a psychological dynamic to be considered when evaluating the *welfare of the minor*.
-3. A child's stated preference, formed during prolonged physical custody with one parent during a period of marital conflict, cannot be treated as a transparent indicator of welfare; the court must consider the dynamics that produced it.
+### High Courts (other) — Bombay, Karnataka, Madras, Allahabad
+<https://main.sci.gov.in/high-courts>
+- **Other High Courts have engaged custody fact-patterns with PA-adjacent features under HMGA 1956 and GWA 1890 welfare reasoning, but no other High Court has issued a Delhi-equivalent PA-as-extreme-cruelty doctrinal line as of generation date.** (2026) — middle
 
-High Court adoption: Delhi, Bombay, Madras, Karnataka and Punjab & Haryana High Courts have subsequently cited *Vivek Singh* in custody and visitation matters. The doctrinal trajectory has been pragmatic — using the construct as one lens among several, alongside the welfare standard.
+## Professional regulators
 
-The Supreme Court has not subsequently revisited PAS frontally; the doctrine sits as endorsed but not consolidated.
+- **Rehabilitation Council of India (RCI) — Central Rehabilitation Register** — Statutory regulator for clinical psychologists in India under the RCI Act 1992; maintains the Central Rehabilitation Register (CRR). No PA-specific position statement has been issued. RCI silence on PA is itself a structural finding — the recognition-camp NIMHANS publication line operates without RCI doctrinal endorsement, and the institutional critique register operates outside RCI altogether. — <https://rehabcouncil.nic.in/>
+- **National Medical Commission (NMC) — Indian Medical Register** — Statutory regulator for the medical profession in India (replaced Medical Council of India in 2019). NMC has issued no PA-specific position. Indian psychiatry's professional position is structurally silent. — <https://www.nmc.org.in/>
+- **Indian Psychiatric Society (IPS)** — National professional society for psychiatrists in India. IPS has issued no PA position paper, no clinical practice guideline, and no public statement engaging the parental-alienation construct. IPS silence parallels the IAPP (psychology) silence and forms part of the structural finding that the Indian apex-court PA recognition (Vivek Singh) is not accompanied by professional-society doctrinal endorsement. — <https://www.indianpsychiatricsociety.org/>
+- **Indian Association of Clinical Psychologists (IAPP)** — National professional association of clinical psychologists. IAPP has issued no PA-specific position statement, no clinical practice guideline, and no policy paper engaging the parental-alienation construct. IAPP silence parallels IPS silence and the broader Indian psychology-association institutional gap. — <https://www.iacp.in/>
 
-## Standard of proof
+## Anonymisation convention
 
-Indian civil procedure operates on *preponderance of probabilities*. Family Courts under the FCA 1984 s.14 may receive evidence not strictly admissible under the Indian Evidence Act 1872 where the court considers it would assist a just decision. The substantive standard governing all child-related orders is the *welfare of the minor*, which the Supreme Court has consistently held is the *paramount* (not merely a) consideration.
+Supreme Court of India and High Court family-law judgments anonymise minor children by initial or alphabetical placeholder (e.g., ABC v XYZ; A v B). Adult parties in matrimonial proceedings may be named in service judgments (Vivek Singh names both parties as the appellant was a serving Army officer) but children are uniformly initial-only. POCSO Act 2012 mandates anonymisation of child sexual abuse complainants and witnesses, applied analogically in family-court reporting.
 
-## Forensic evaluation framework
+## Key developments
 
-- **Court Counsellors** attached to Family Courts under FCA s.6 — multidisciplinary professionals supporting the court in mediation, child interaction, and home-study reports. *Vivek Singh* turned in part on the report of Ms Iti Kanungo, Family Court Counsellor at Patiala House.
-- **In-camera hearing of child** under FCA s.11 — protected hearing of the child's views.
-- **Psychiatric or psychological assessment** on court order — typically through empanelled hospitals (e.g., AIIMS, NIMHANS) or private consultants on directions from the Family Court.
-- **District Legal Services Authority (DLSA)** — provides counselling and mediation infrastructure under the Legal Services Authorities Act 1987.
+- **1890** — Guardians and Wards Act 1890 — general (secular) law of guardianship; s.17 welfare-of-the-minor standard is the substantive paramountcy test for Indian custody adjudication. — <https://www.indiacode.nic.in/handle/123456789/2318>
+- **1955** — Hindu Marriage Act 1955 — establishes statutory grounds for divorce including s.13(1)(ia) cruelty, the matrimonial-fault hook subsequently used by the Delhi High Court PA-as-extreme-cruelty line. — <https://www.indiacode.nic.in/handle/123456789/1560>
+- **1984** — Family Courts Act 1984 — establishes specialist Family Courts (e.g., Patiala House New Delhi) with statutory authority to appoint counsellors, social-welfare experts and psychologists. Operationalises the court-attached counsellor mechanism that Vivek Singh later engaged (Ms Iti Kanungo). — <https://www.indiacode.nic.in/handle/123456789/1923>
+- **1992** — Rehabilitation Council of India Act 1992 — creates RCI and Central Rehabilitation Register for clinical psychologists. — <https://rehabcouncil.nic.in/>
+- **2005** — Protection of Women from Domestic Violence Act 2005 (PWDVA) — civil-protection framework for women experiencing domestic violence. Principal statutory anchor for the Indian institutional critique register (Lawyers Collective WRI, Majlis Mumbai, MASUM Pune, Sakshi Delhi). — <https://wcd.nic.in/act/protection-women-domestic-violence-act-2005>
+- **2017** — 13.2.2017 — Lt Col Vivek Singh v Romani Singh, (2017) 3 SCC 231 (SC, Chelameswar J. & Sikri J.): apex-court decision that expressly defined 'The Parental Alienation Syndrome' on the record and engaged the court-appointed counsellor's report. Sole Indian SC apex engagement with PAS terminology. — <https://main.sci.gov.in/judgments>
+- **2023** — October 2023 — ABC v XYZ, 2023 SCC OnLine Del 6099 (Delhi HC, Kait J. & Krishna J.): PA from a non-neglectful parent treated as 'extreme act of mental cruelty' under HMA s.13(1)(ia). Establishes PA-as-cruelty doctrinal hook in Indian matrimonial law. — <https://www.scconline.com/blog/post/2023/10/01/delhi-hc-alienation-of-the-child-from-his-father-is-an-extreme-act-of-mental-cruelty-legal-news/>
+- **2026** — February 2026 — A v B, 2026 SCC OnLine Del 276 (Delhi HC, Kshetarpal J. & Shankar J.): first reported Indian custody-transfer decision on PA grounds in the post-Vivek Singh line. — <https://www.scconline.com/>
 
-## Reunification programs
+## Structural findings
 
-- **Mediation** under FCA s.9 and SC-mandated mediation referrals; Mediation and Conciliation Project Committee of the Supreme Court has produced training and protocol material.
-- **Phased visitation orders** including supervised access (typically in court premises, DLSA centres, or with court-counsellor monitoring) and progressive expansion to weekend and vacation access.
-- **Parens patriae jurisdiction** of the High Courts (writ jurisdiction under Art. 226 / Art. 32 CN) — used to order specific reconnection measures where lower courts have not made adequate provision.
-- US/Anglo-style coercive residential reunification camps are not part of the Indian toolkit.
+- Vivek Singh v Romani Singh (2017) 3 SCC 231 is India's sole apex-court decision that expressly defines 'The Parental Alienation Syndrome' on the record. The recognition stance is anchored apex-court rather than statutory or professional-regulator: Parliament is silent on PA and the professional regulators (RCI, NMC, IPS, IAPP) are uniformly silent.
+- The post-Vivek Singh Delhi High Court line (ABC v XYZ 2023 SCC OnLine Del 6099; A v B 2026 SCC OnLine Del 276) has crystallised PA as 'extreme mental cruelty' under Hindu Marriage Act s.13(1)(ia). India is one of the few jurisdictions where PA is adjudicable on a fault-divorce ground rather than channelled exclusively through custody / best-interests reasoning.
+- The clinical recognition camp clusters at NIMHANS Bengaluru (Jangam / Seshadri / Nambiar publication line in Indian Journal of Psychological Medicine + Asian Journal of Psychiatry) and at national forensic-psychiatry centres (Joshi Delhi). No individual Indian critique-camp clinician with a peer-reviewed PA-critique publication has been located.
+- The Indian critique register is institutional and women's-rights-organisation-led — not clinician-led: Lawyers Collective Women's Rights Initiative, Majlis Legal Centre (Mumbai), MASUM (Pune) and Sakshi (Delhi) carry the PWDVA / CEDAW-anchored critique of PA as a tactic by which DV-perpetrating respondents seek to reframe survivor protective behaviour. None of these organisations is a clinical-services provider in the directory-of-record sense, but they constitute the structurally load-bearing critique register.
+- RCI + NMC + IPS + IAPP institutional silence on PA is a structural anomaly: the apex-court recognition stance is not accompanied by professional-regulator or learned-society doctrinal endorsement. This parallels the Netherlands pattern (positional weight in documents not associations) but the Indian load-bearing anchors are court-based (SC + Delhi HC) rather than document-based (clinical guidelines).
+- Practitioner regulation runs through the Rehabilitation Council of India (RCI Act 1992) for clinical psychologists, the National Medical Commission (NMC Act 2019) for psychiatrists, and institutional credentialing for Psychiatric Social Work (no statutory register — NIMHANS PSW / TISS Mumbai pipelines are load-bearing). This regulatory architecture leaves PA-construct adoption to individual-clinician judgment rather than profession-wide standard.
 
-## Domestic-violence interaction
+## See also
 
-- **PWDVA 2005** is the principal civil DV framework; *protection orders*, *residence orders*, *monetary relief*, and *custody orders* are available under ss. 18–21.
-- **IPC s.498A** (criminal cruelty by husband or relatives) interacts with PWDVA proceedings.
-- **POCSO Act 2012** governs allegations of CSA; the special court regime under POCSO ss.28 ff. operates in parallel with family-court custody proceedings.
-- *Vivek Singh* does not engage extensively with the PA/DV interaction; the Supreme Court has not produced a definitive doctrinal framework for cases where PA and DV allegations are concurrent.
+- `case-study:vivek-singh-v-romani-singh-2017-india`
+- `practitioner:in.jangam-nimhans`
+- `practitioner:in.seshadri-nimhans`
+- `practitioner:in.nambiar`
+- `practitioner:in.joshi-astik`
+- `practitioner:in.kanungo-iti`
+- `jurisdiction:england-and-wales`
+- `jurisdiction:germany`
+- `jurisdiction:scotland`
 
-## Key resources
+## Sources
 
-- Case studies: [Vivek Singh v Romani Singh (2017) 3 SCC 231](../case-studies/vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md)
-- Statutes: [Guardians and Wards Act 1890](https://www.indiacode.nic.in/handle/123456789/2318) | [Hindu Marriage Act 1955](https://www.indiacode.nic.in/handle/123456789/1560) | [HMG Act 1956](https://www.indiacode.nic.in/handle/123456789/1648) | [Family Courts Act 1984](https://www.indiacode.nic.in/handle/123456789/1854) | [PWDVA 2005](https://www.indiacode.nic.in/handle/123456789/2031)
-- Apex court: [Supreme Court of India — judgments](https://main.sci.gov.in/judgments) | [SC eCommittee — judis](https://judis.nic.in/)
-- High Courts: state-wise judgment portals via [eCourts](https://services.ecourts.gov.in/)
-- Practitioner organisations: Bar Council of India; Family Court Advocates Associations (state-wise); Indian Association of Family Lawyers
-- Specialised resource: Shonee Kapoor blog (Delhi family practitioner commentary on PA cases)
-- Cross-reference: [/case-studies/global-comparison.md](../case-studies/global-comparison.md)
+1. **Supreme Court of India — judgments search** — <https://main.sci.gov.in/judgments> (Supreme Court of India) [en]
+2. **India Code — consolidated statutes** — <https://www.indiacode.nic.in/> (Legislative Department, Government of India) [en]
+3. **Delhi High Court — judgments** — <https://delhihighcourt.nic.in/> (Delhi High Court) [en]
+4. **SCC Online — Indian case-law database** — <https://www.scconline.com/> (Eastern Book Company) [en]
+5. **NIMHANS — National Institute of Mental Health and Neuro-Sciences** — <https://www.nimhans.ac.in/> (NIMHANS / Government of India) [en]
+6. **Rehabilitation Council of India** — <https://rehabcouncil.nic.in/> (RCI / Ministry of Social Justice and Empowerment) [en]
+7. **National Medical Commission** — <https://www.nmc.org.in/> (NMC / Ministry of Health and Family Welfare) [en]
+8. **Indian Psychiatric Society** — <https://www.indianpsychiatricsociety.org/> (Indian Psychiatric Society) [en]
+9. **Indian Association of Clinical Psychologists** — <https://www.iacp.in/> (Indian Association of Clinical Psychologists) [en]
+10. **Protection of Women from Domestic Violence Act 2005 — Ministry of Women and Child Development** — <https://wcd.nic.in/act/protection-women-domestic-violence-act-2005> (Ministry of Women and Child Development, Government of India) [en]
 
-## Honest gaps
+## Editorial notes
 
-- High Court application of *Vivek Singh* across states is uneven and not systematically catalogued; published practitioner aggregations are partial.
-- The interaction between PA framings and POCSO allegations has not been authoritatively resolved by the Supreme Court.
-- Court Counsellor methodology under FCA s.6 is not standardised at national level; quality varies substantially by Family Court.
-- The Family Courts (Amendment) Act 2022 and pending procedural-reform proposals are not surveyed in this reference.
+- Primary-source order: Supreme Court of India and India Code statutes are cited first; Delhi High Court reportable judgments via SCC Online are the principal subsequent-reception authority; NIMHANS and regulatory bodies (RCI, NMC) follow.
+- Vivek Singh names both adult parties on the record (appellant was a serving Army officer in service judgment) but children are initial-only per Indian convention. POCSO Act 2012 confidentiality applies analogically in family-court reporting.
+- Indian English usage preserved throughout ('Family Court Patiala House', 'court-appointed counsellor', 'mental cruelty', 'matrimonial cruelty').
+- PWDVA 2005 is the load-bearing statutory anchor for the institutional critique register; HMA 1955 s.13(1)(ia) cruelty is the load-bearing statutory anchor for the recognition-line matrimonial jurisprudence.
+- India treated as a single jurisdiction at federal level; state-level family-court practice variation noted as material when entry-level (Delhi / Bengaluru / Mumbai). High Court divergence beyond Delhi has not yet produced a doctrinal PA-as-extreme-cruelty alternative line.
+
 
 ---
 
-*India · Last updated 2026-05-25 · CC BY 4.0 · [AntiAlienate.com](https://www.antialienate.com)*
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
