@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-01T14:43:14Z",
+  "generated": "2026-06-01T15:12:16Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 12,
+    "jurisdictions": 13,
     "evidence_pages": 0
   },
   "indexes": {
@@ -114,6 +114,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "NL",
       "name": "Netherlands"
+    },
+    {
+      "id": "new-zealand",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/new-zealand.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/new-zealand.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "NZ",
+      "name": "New Zealand (Aotearoa)"
     },
     {
       "id": "scotland",
