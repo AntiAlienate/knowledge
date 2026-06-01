@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-01T20:57:37Z",
+  "generated": "2026-06-01T21:26:03Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 26,
+    "jurisdictions": 27,
     "evidence_pages": 0
   },
   "indexes": {
@@ -154,6 +154,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "JP",
       "name": "Japan (日本)"
+    },
+    {
+      "id": "kenya",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/kenya.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/kenya.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "KE",
+      "name": "Kenya"
     },
     {
       "id": "mexico",
