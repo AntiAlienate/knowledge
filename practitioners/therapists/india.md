@@ -10,12 +10,13 @@ The clinical-institutional landscape clusters at NIMHANS Bengaluru (National Ins
 
 ## Structural findings
 
-- ZERO individual Indian critique-camp clinicians with a peer-reviewed PA-critique publication located in this directory batch. This is the principal structural finding for the Indian field: unlike Germany (Zimmermann / Fichtner / Walper / Lux / Kindler clinician-led BVerfG-cited critique) or Spain (Vaccaro clinician-led violencia vicaria coinage), India's PA-clinical literature is uniformly recognition-leaning where individual clinicians are concerned.
-- The Indian critique register is institutional and women's-rights-organisation-led — not clinician-led. Lawyers Collective Women's Rights Initiative, Majlis Legal Centre (Mumbai), MASUM (Mahila Sarvangeen Utkarsh Mandal, Pune) and Sakshi (Delhi) carry the PWDVA / CEDAW-anchored critique of PA as a DV-survivor-targeting construct. None of these organisations is a clinical-services provider in the directory-of-record sense, but they constitute the structurally load-bearing critique register.
+- ZERO individual Indian critique-camp clinicians with a peer-reviewed PA-critique publication located in this v1 + v2-deepening directory batch (negative-result-source list: Vikram Patel / Sangath Goa scanned; AIIMS Delhi Psychiatry Sagar + Mehta scanned; NLSIU Centre for Child and the Law scanned; TISS CPCS scanned; MAHE Manipal Psychiatry scanned; SANGATH and NIMHANS Clinical Psychology Roopesh scanned; PGIMER Chandigarh Chakrabarti scanned). The closest located Indian critique-camp authorial signal is Saurabh Gupta's NLSIU Socio-Legal Review forum article 'Parental Alienation Syndrome: Analysis in India' — but Gupta is a law-school author writing in a student-edited forum, not a clinician with a peer-reviewed clinical publication, so does not flip the finding. This is the principal structural finding for the Indian field: unlike Germany (Zimmermann / Fichtner / Walper / Lux / Kindler clinician-led BVerfG-cited critique) or Spain (Vaccaro clinician-led violencia vicaria coinage), India's PA-clinical literature is uniformly recognition-leaning where individual clinicians are concerned.
+- The Indian critique register is institutional and women's-rights-organisation-led — not clinician-led. Lawyers Collective Women's Rights Initiative (in.lcwri-delhi), Majlis Legal Centre Mumbai (in.majlis-mumbai), MASUM Pune (in.masum-pune), and Sakshi Delhi (in.sakshi-delhi) are now entries[] under stance:institutional. IMPORTANT QUALIFICATION discovered in v2 deepening: none of the four has located a public document directly characterising parental alienation / PAS as a DV-survivor-targeting tactic. Their institutional carriage of the critique-adjacent DV-protective register is INFERENTIAL (downstream of PWDVA / CEDAW / feminist DV-frame anchoring) rather than DOCUMENT-SOURCED at the PA-construct-specific level. They remain the structurally load-bearing critique-adjacent register because no Indian clinician-led critique register exists — but the institutional-PA-critique gap is itself a refined structural finding, and the Indian field stands distinct from the Germany / Spain pattern at both the clinician level (silence) and the institutional level (DV-protective frame present, PA-construct-specific stance absent).
 - The Indian recognition camp clusters at NIMHANS Bengaluru (Jangam, Seshadri, Nambiar publication line in Indian Journal of Psychological Medicine + Asian Journal of Psychiatry), at national-level forensic psychiatry centres (Astik Joshi Delhi — ABPN Child & Adolescent + Forensic), and at Family Court Patiala House Delhi (Iti Kanungo court-appointed evaluator practice). The geographic pattern is Bengaluru-Delhi axial with Mumbai represented via Chavda / Nisarga / Shetty.
 - The post-Vivek Singh HC line (ABC v XYZ 2023 SCC OnLine Del 6099 + A v B 2026 SCC OnLine Del 276) has crystallised PA as 'extreme cruelty' under HMA s.13(1)(ia) — an unusually strong matrimonial-cruelty grounding by comparison with most other jurisdictions, which tend to channel PA findings exclusively through custody / best-interests reasoning rather than divorce-fault grounds.
 - IPS (Indian Psychiatric Society) and IAPP (Indian Association of Clinical Psychologists) are both institutionally silent on PA — no association position-paper, no clinical-practice guideline, no public statement. This mirrors the Netherlands pattern (positional weight resides in documents, not associations), but the Indian institutional anchors carrying the positional weight are court-based (Supreme Court + Delhi HC) rather than document-based (clinical guidelines or peer-reviewed consensus statements).
 - Sharma (2025) IJSP is the sole Indian peer-reviewed PA-engaging publication located outside the NIMHANS cluster — single-author, IHBAS Delhi affiliation, recognition-leaning engagement. The NIMHANS / IHBAS bifurcation is the cleanest map of the India PA-recognition literature.
+- v2-deepening REFINED FINDING: The Indian institutional critique register (LCWRI / Majlis / MASUM / Sakshi) is now entry-ized but the PA-construct-specific stance attribution is INFERENTIAL — none of the four organisations has issued a document directly engaging the parental-alienation construct. The DV-protective PWDVA / CEDAW frame these organisations carry is the structural-counterweight to the apex-court PA recognition (Vivek Singh 2017), but at the document-level the Indian field exhibits double silence: clinician silence (no individual peer-reviewed PA critique) AND institutional silence (no PA-construct-specific organisational position). The Indian recognition stance is therefore apex-court-anchored and document-asymmetric to a degree no other v2 jurisdiction exhibits.
 
 ## Recognition camp
 
@@ -372,6 +373,124 @@ Bengaluru / Pan-India · National · National clinical-psychology professional a
 
 <sub>ID: `in.iapp`</sub>
 
+### Lawyers Collective Women's Rights Initiative (LCWRI)
+*Women's-rights legal-services and policy-monitoring initiative within Lawyers Collective; constituted in 1998 under the leadership of Senior Advocate Indira Jaising (former Additional Solicitor General of India 2009-2014, Padma Shri 2005) and Senior Advocate Anand Grover; lead drafter of the Protection of Women from Domestic Violence Act 2005 (PWDVA) through UN-Trust-Fund-supported consultative process; principal monitor of PWDVA implementation through the 'Staying Alive' annual Monitoring & Evaluation Report series 2007-2017+*
+New Delhi (with Mumbai office) · Delhi NCT (national reach) · Lawyers Collective Women's Rights Initiative; partner organisations include UN Trust Fund to End Violence Against Women, Ministry of Women & Child Development, National Commission for Women
+
+**Stance:** Principal institutional drafter of the Protection of Women from Domestic Violence Act 2005 and apex Indian women's-rights legal-services / policy-monitoring NGO carrying the PWDVA-anchored DV-protective register. Indira Jaising (Executive Director, LCWRI) and Pinki Mathur Anurag (Director, Technical, LCWRI) co-edited 'Conflict in the Shared Household: Domestic Violence and the Law in India' (Oxford University Press 2019), the load-bearing scholarly summary of the LCWRI legal-doctrinal frame around PWDVA s.17 right-to-residence, domestic-relationship definitions, and survivor-centred remedy design. LCWRI's CEDAW shadow-report engagement (India Second Shadow Report on CEDAW archived at NYU) and ten-year 'Staying Alive' PWDVA M&E series (2007-2017+) are the load-bearing public documents. IMPORTANT — STANCE QUALIFICATION: no LCWRI public document located in 2026 directly characterising parental alienation or PAS as a DV-survivor-targeting tactic; the PA-construct critique attributed to LCWRI in the parent file's structural_findings[1] is INFERENTIAL (downstream of the PWDVA-anchored DV-protective frame Jaising/Anurag/Grover have built), not document-sourced. LCWRI is the natural addressee for any future India PA-construct critique engagement, but no PA-specific position-paper or court intervention has been located. Listed as institutional carrier of the critique-adjacent DV-protective register, with the PA-construct-specific gap explicitly noted.
+
+**Publications:**
+- Conflict in the Shared Household: Domestic Violence and the Law in India (Jaising I. & Mathur Anurag P., eds.) (2019) — *Oxford University Press* — <https://global.oup.com/academic/product/conflict-in-the-shared-household-9780199489954>
+- Staying Alive: Evaluating Court Orders (PWDVA Monitoring & Evaluation Report) (2017) — *Lawyers Collective Women's Rights Initiative* — <https://lawyerscollective.org/wp-content/uploads/2023/04/Staying-Alive-Evaluating-Court-Orders.pdf>
+- Resource Tool for Monitoring & Evaluation of the PWDVA (2013) — *LCWRI / UN Trust Fund* — <https://www.endvawnow.org/uploads/browser/files/resource_tool_for_monitoring_evaluation_of_pwdva_lawyers_collective.pdf>
+- Manual on the Best Practices under the PWDVA (2009) — *LCWRI* — <http://www.endvawnow.org/uploads/browser/files/manual_on_best_practices_under_pwdva_lawyers_collective.pdf>
+- India Second Shadow Report on CEDAW (2007) — *NYU Faculty Digital Archive* — <https://archive.nyu.edu/handle/2451/42261>
+
+**Verification:**
+- <https://lawyerscollective.org/>
+- <https://global.oup.com/academic/product/conflict-in-the-shared-household-9780199489954>
+- <https://www.unwomen.org/en/news/stories/2012/12/from-campaigning-to-monitoring-making-domestic-violence-laws-meaningful-to-women-in-india>
+- <https://asiapacific.unwomen.org/en/news-and-events/stories/2013/2/6-years-after-introducing-domestic-violence-laws>
+- <https://archive.nyu.edu/handle/2451/42261>
+
+**Contact:** Lawyers Collective, 63/2 Masjid Road, Jangpura, New Delhi 110014; Mumbai office: 7/10 Botawala Building, Horniman Circle, Fort, Mumbai 400001; lc@lawyerscollective.org
+
+*Notes: Two-source verification of existence + affiliation: (1) UN Women feature confirming PWDVA drafting role and Jaising executive directorship; (2) Oxford University Press 2019 book by Jaising & Mathur Anurag confirming LCWRI institutional anchor. Indira Jaising further verified via Padma Shri 2005 + ASG 2009-2014 NMC public record. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. Listed as institutional carrier of critique-adjacent DV-protective register on the strength of the PWDVA-anchored institutional position.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.majlis-mumbai`, `practitioner:in.masum-pune`, `practitioner:in.sakshi-delhi`
+
+<sub>ID: `in.lcwri-delhi`</sub>
+
+### Majlis Legal Centre, Mumbai
+*Women's-rights legal-services and cultural resource centre founded 1990-1991 by Flavia Agnes (Senior Advocate, women's-rights jurist) and Madhushree Dutta (filmmaker); all-women staff including 7+ lawyers; 50,000+ women legally represented since inception; current Director Audrey D'Mello (Advocate, joined 2007); operates 'Majlis Rahat' integrated legal-social-mental-health programme for survivors of sexual and domestic violence*
+Mumbai · Maharashtra · Majlis Legal Centre; advisory engagement with Maharashtra Ministry of Women & Child Development on PWDVA 2005 implementation; collaboration with Mahila Arthik Vikas Mahamandal (MAVIM) on grassroots legal-volunteer training across all 36 Maharashtra districts
+
+**Stance:** Senior Mumbai women's-rights institutional anchor carrying the PWDVA-anchored DV-protective register at state level for Maharashtra. Flavia Agnes' published commentary on custody disputes is the strongest public-facing approach to PA-adjacent territory located in 2026 search: she has stated publicly that custody battles involve 'manipulation' and that 'it is important that women are physically with the children of whom they are fighting for custody' (D+C interview; Free Press Journal Angels-of-Mumbai feature). Agnes & D'Mello co-authored 'Protection of Women from Domestic Violence' Economic and Political Weekly Vol L No. 44 (31 October 2015) on PWDVA implementation gaps including pre-litigation joint-counselling concerns. Agnes is the author of 'Family Law II' (Oxford University Press, 2011, 2nd ed.) which is the standard Indian feminist-jurisprudence text on Hindu Marriage Act, custody under Guardians and Wards Act, and PWDVA interaction. IMPORTANT — STANCE QUALIFICATION: no Majlis public document located in 2026 directly characterising parental alienation / PAS as a DV-survivor-targeting tactic; the PA-construct critique attributed to Majlis in the parent file's structural_findings[1] is INFERENTIAL (downstream of Agnes' custody-manipulation framing and the PWDVA-anchored DV-protective frame), not document-sourced. Listed as institutional carrier of critique-adjacent DV-protective register, with the PA-construct-specific gap explicitly noted. The 'Majlis Rahat' integrated legal-social-mental-health frame is the structurally closest Indian institutional analogue to the European institutional-DV-protective critique register.
+
+**Publications:**
+- Family Law II: Marriage, Divorce, and Matrimonial Litigation (Agnes F.) (2011) — *Oxford University Press* — <https://global.oup.com/academic/product/family-law-ii-9780198072201>
+- Protection of Women from Domestic Violence (Agnes F. & D'Mello A.) (2015) — *Economic and Political Weekly Vol L No. 44, 31 October 2015* — <https://groups.google.com/g/majlislegalcentre/c/1mDbhIC4mTE/m/1cSuBGgbBgAJ>
+- Majlis Rahat integrated legal-social-mental-health programme for DV/sexual violence survivors (2010) — *Majlis Legal Centre programmatic*
+- Majlis-MAVIM partnership for grassroots legal-volunteer training across 36 Maharashtra districts (2024) — *Majlis / Maharashtra State Government* — <https://www.freepressjournal.in/mumbai/majlis-partners-with-mavim-to-expand-grassroots-legal-support-network-for-women-across-maharashtra>
+
+**Verification:**
+- <https://majlislaw.com/>
+- <https://en.wikipedia.org/wiki/Flavia_Agnes>
+- <https://www.legallyindia.com/Blogs/conversation-with-flavia-agnes-director-majlis-legal-centre>
+- <https://jilsblognujs.wordpress.com/2015/08/06/conversation-with-flavia-agnes-director-majlis-legal-centre/>
+- <https://www.dandc.eu/en/article/legal-rights-mean-little-if-you-cant-claim-them-india-womens-rights-lawyer-flavia-agnes>
+- <https://www.ppiapraxis.in/lecture-notes-what-is-gender-justice-with-adv-audrey-dmello/>
+- <https://yourstory.com/2015/09/audrey-dmello>
+- <https://www.freepressjournal.in/angels-of-mumbai/flavia-agnes-mission-to-help-women-facing-domestic-and-sexual-violence-through-majlis-video>
+
+**Contact:** Majlis Legal Centre, A-2/4 Golden Valley, Kalina Kurla Road, Santacruz East, Mumbai 400055; helpline 7506732641 (Mon-Fri 11am-7pm); majlislaw@majlislaw.com; Director Audrey D'Mello
+
+*Notes: Two-source verification of existence + affiliation: (1) Wikipedia + Oxford University Press author page for Flavia Agnes confirming Majlis co-founder status; (2) D+C and Your Story feature articles + PPIA Praxis lecture confirming Audrey D'Mello directorship. Flavia Agnes legal credentials further verified via OUP author profile and EPW co-authorship. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. Listed as institutional carrier of critique-adjacent DV-protective register; Agnes' published custody-manipulation framing is the closest public-facing PA-adjacent statement.*
+
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.lcwri-delhi`, `practitioner:in.masum-pune`, `practitioner:in.sakshi-delhi`
+
+<sub>ID: `in.majlis-mumbai`</sub>
+
+### MASUM (Mahila Sarvangeen Utkarsh Mandal), Pune
+*Rural / peri-urban feminist women's-rights grassroots organisation co-founded 1987 by Dr Manisha Gupte and Dr Ramesh Awasthi in drought-prone Purandar block of Pune district; operates across 20+ villages in Pune and Ahmednagar districts, Maharashtra; rights-based feminist-socialist approach combining women's health rights, violence-against-women response, economic empowerment, and political participation; current Founder & Co-Convenor Dr Manisha Gupte (Lancet-profiled 2010; WomenLift Health profile)*
+Pune (rural Purandar / Bhor / Saswad) · Maharashtra · MASUM (Mahila Sarvangeen Utkarsh Mandal); grantee of MacArthur Foundation, Harvard T.H. Chan Maternal Health Task Force, UN-VAWG, Prevent VAW Global Programme; operates Samvaad counselling centres at Saswad and Bhor talukas
+
+**Stance:** Pre-eminent rural Maharashtra feminist grassroots women's-rights organisation carrying the DV-protective register at village level through the Samvaad counselling centres (Saswad and Bhor talukas) and the Aadhar Gat village-level support-group infrastructure. Manisha Gupte is the author of 'Why Feminism Should Inform Our Routine Interventions in Domestic Violence' (Taylor & Francis chapter) — the load-bearing scholarly statement of MASUM's feminist-frame DV intervention methodology, which centres women's-rights-as-human-rights and rejects depoliticised individual-pathology framings of intimate-partner violence. Pinki Mathur Anurag (LCWRI Director, Technical) served as Research Consultant for a MASUM/Swiss Aid study on PWDVA Service Providers in Maharashtra, evidencing the LCWRI-MASUM PWDVA-monitoring axis. IMPORTANT — STANCE QUALIFICATION: no MASUM public document located in 2026 directly characterising parental alienation / PAS as a DV-survivor-targeting tactic; rural focus is on Aadhar Gat household-level emergency intervention, paralegal Saathis programme, and Samvaad counselling rather than urban Family Court custody-evaluation territory where PA arises. The PA-construct critique attributed to MASUM in the parent file's structural_findings[1] is INFERENTIAL (downstream of the Gupte feminist-frame DV intervention methodology), not document-sourced. Listed as institutional carrier of critique-adjacent feminist DV-protective register, with the PA-construct-specific gap and rural/urban-PA-locus mismatch explicitly noted.
+
+**Publications:**
+- Why Feminism Should Inform Our Routine Interventions in Domestic Violence (Gupte M.) (2020) — *Taylor & Francis (chapter in edited volume on feminist DV intervention)* — <https://www.taylorfrancis.com/chapters/edit/10.4324/9780367818531-4/feminism-inform-routine-interventions-domestic-violence-manisha-gupte>
+- Articles by Dr Manisha Gupte (collected feminist-frame writings) (2015) — *MASUM India* — <https://www.masum-india.org.in/manisha.html>
+- MASUM Annual Report 2014 (programmatic record incl. Samvaad counselling centres + Aadhar Gat infrastructure) (2014) — *MASUM India* — <https://www.masum-india.org.in/images/annualreport2014.pdf>
+- Manisha Gupte — working to empower women in rural India (Lancet profile) (2010) — *The Lancet* — <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61867-3/fulltext>
+- Programme on Countering Violence Against Women (Samvaad counselling centres at Saswad and Bhor talukas; Aadhar Gat village support-groups) (1995) — *MASUM programmatic* — <https://www.masum-india.org.in/violence.html>
+
+**Verification:**
+- <https://www.masum-india.org.in/>
+- <https://www.masum-india.org.in/about.html>
+- <https://www.masum-india.org.in/violence.html>
+- <https://www.masum-india.org.in/trustees.html>
+- <https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(10)61867-3/fulltext>
+- <https://www.womenlifthealth.org/profile/manisha-gupte/>
+- <https://www.macfound.org/grantee/masum-mahila-sarvangeen-utkarsh-mandal-29204/>
+- <https://ww2preventvawg.org/grantee-partners/mahila-sarvangeen-utkarsh-mandal-masum>
+
+**Contact:** MASUM, Purandar / Pune district, Maharashtra; via https://www.masum-india.org.in/ ; Samvaad counselling centres at Saswad and Bhor
+
+*Notes: Two-source verification of existence + affiliation: (1) Lancet 2010 profile + MacArthur Foundation grantee record confirming Gupte founder status and rural Pune focus; (2) Harvard T.H. Chan MHTF + UN Prevent-VAWG grantee records confirming feminist DV-protective frame. Manisha Gupte further verified via Taylor & Francis 2020 chapter authorship. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. Rural village-level DV-intervention focus is geographically distant from urban Family Court PA-construct territory, which weakens the inference somewhat but does not eliminate it given Gupte's feminist-frame scholarly anchor and the PWDVA-monitoring partnership with LCWRI.*
+
+**See also:** `jurisdiction:india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.lcwri-delhi`, `practitioner:in.majlis-mumbai`, `practitioner:in.sakshi-delhi`
+
+<sub>ID: `in.masum-pune`</sub>
+
+### Sakshi (Violence Intervention Centre), New Delhi
+*Rights-based capacity-building and violence-intervention NGO founded 1992 by Senior Advocate Naina Kapur and Jasjit Purewal; current Executive Director Smita Bharti (joined Sakshi 1995, ED since 2007); load-bearing institutional anchor of the Vishaka Guidelines 1997 (Supreme Court of India workplace-sexual-harassment guidelines that became the foundation for the Sexual Harassment of Women at Workplace [Prevention, Prohibition and Redressal] Act 2013); current programmes include The Rakshin Project youth-led child-sexual-abuse-prevention movement (40,000+ college reach)*
+New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic partnerships with Delhi High Court Mediation & Conciliation Centre, Delhi Commission for Women, Ministry of Women & Child Development
+
+**Stance:** Senior Delhi women's-rights and child-sexual-abuse / gender-based-violence intervention NGO whose Vishaka Guidelines 1997 work is the load-bearing public-document evidence of judicial-system engagement methodology. Naina Kapur (co-founder, former director) is the lead architect of the Vishaka Guidelines and the foundation for the POSH Act 2013. Smita Bharti (Executive Director since 2007) is a verified domestic-abuse survivor and uses theatre-based intervention with traumatised women; her Better India autobiographical feature (2024) is the strongest published-public-record signal of Sakshi's survivor-centred frame. Oxfam Policy & Practice published a profile of Sakshi as a 'Violence Intervention Centre' anchoring the load-bearing institutional designation. IMPORTANT — STANCE QUALIFICATION: no Sakshi public document located in 2026 directly characterising parental alienation / PAS as a DV-survivor-targeting tactic. Sakshi's primary programme focus is child sexual abuse, workplace sexual harassment, and gender-based violence rather than custody-evaluation / Family Court PA-construct territory specifically. The PA-construct critique attributed to Sakshi in the parent file's structural_findings[1] is INFERENTIAL (downstream of the CSA + DV-protective frame), not document-sourced. The CSA-adjacency is the most direct potential PA-construct engagement vector (CSA allegations are a known PA-construct litigation flashpoint), but no specific Sakshi position on PA in CSA-adjacent custody is located. Listed as institutional carrier of critique-adjacent CSA + DV-protective register, with the PA-construct-specific gap explicitly noted.
+
+**Publications:**
+- Vishaka Guidelines 1997 (Supreme Court of India guidelines on workplace sexual harassment, lead architect Naina Kapur via Sakshi PIL) (1997) — *Supreme Court of India (Vishaka & Others v State of Rajasthan, AIR 1997 SC 3011)*
+- I am Witness to...: A profile of Sakshi Violence Intervention Centre in New Delhi, India (2008) — *Oxfam Policy & Practice* — <https://policy-practice.oxfam.org/resources/i-am-witness-to-a-profile-of-sakshi-violence-intervention-centre-in-new-delhi-i-131371/>
+- The Rakshin Project (youth-led national child-sexual-abuse-prevention movement; 40,000+ college reach) (2020) — *Sakshi programmatic* — <https://yourstory.com/socialstory/2020/05/sakshi-ngo-child-sexual-abuse-awareness-campaign>
+- Walking Out of an Abusive Marriage, I Now Help Traumatised Women Rewrite Their Stories (Bharti S.) (2024) — *The Better India* — <https://thebetterindia.com/336865/domestic-abuse-survivor-smita-bharti-sakshi-ngo-uses-theatre-to-help-traumatised-women>
+
+**Verification:**
+- <https://sakshi.org.in/>
+- <https://sakshi.org.in/our-history>
+- <https://en.wikipedia.org/wiki/Smita_Bharti>
+- <https://policy-practice.oxfam.org/resources/i-am-witness-to-a-profile-of-sakshi-violence-intervention-centre-in-new-delhi-i-131371/>
+- <https://thecsruniverse.com/articles/our-goal-is-to-break-societal-norms-end-silence-and-eradicate-shame-surrounding-child-sexual-abuse-smita-bharti-executive-director-sakshi>
+- <https://thebetterindia.com/336865/domestic-abuse-survivor-smita-bharti-sakshi-ngo-uses-theatre-to-help-traumatised-women>
+- <https://yourstory.com/socialstory/2020/05/sakshi-ngo-child-sexual-abuse-awareness-campaign>
+
+**Contact:** Sakshi, 665-666/2, Ghitorni Village, Near MCD School, Ghitorni, New Delhi 110030; via https://sakshi.org.in/ ; Executive Director Smita Bharti (s***@sakshi.org.in)
+
+*Notes: Two-source verification of existence + affiliation: (1) Wikipedia + LinkedIn confirming Smita Bharti ED status since 2007; (2) Oxfam Policy & Practice 2008 institutional profile + Sakshi own-site history page. Naina Kapur Vishaka co-architect status separately verified via Supreme Court Vishaka 1997 judgment. STANCE CHARACTERISATION CAVEAT: institutional stance verified; PA-construct-specific critique is inferential not document-sourced. CSA-adjacency is the most plausible PA-engagement vector but no specific Sakshi PA position located.*
+
+**See also:** `jurisdiction:india`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:in.lcwri-delhi`, `practitioner:in.majlis-mumbai`, `practitioner:in.masum-pune`
+
+<sub>ID: `in.sakshi-delhi`</sub>
+
 ## Excluded (with documented reason)
 
 - **Dr Achal Bhagat (Saarthak Mental Health Services, Delhi)** — Verified Apollo Hospitals MBBS MD MRCPsych Senior Consultant Psychiatrist, Chairperson Saarthak; family/marital therapy in service line but no PA-specific publication or public stance located; gender-rights and mental-health-rights advocate (carries DV-protective lens) but no sourced PA stance. Excluded pending sourced PA stance.
@@ -416,6 +535,18 @@ Bengaluru / Pan-India · National · National clinical-psychology professional a
   - Primary source: <https://masum.org.in/>
 - **Sakshi (Violence Intervention Centre), New Delhi** — Adjacent / out-of-scope for therapists directory: women's-rights / violence-intervention NGO carrying the institutional critique register; no clinical-services PA stance located. Listed for institutional-critique register completeness; comparative-reception relevance to BVerfG 1 BvR 1076/23.
   - Primary source: <https://www.sakshingo.org/>
+- **Dr Vikram Patel (Sangath / Harvard / Indian-trained psychiatrist)** — Verified Indian psychiatrist (MBBS Goa Medical College; PhD Institute of Psychiatry London; Pershing Square Professor of Global Health Harvard Medical School; Co-founder Sangath NGO Goa); WHO Public Health Champion of India and MacArthur International Prize; global-mental-health-in-LMIC research focus including child development and adolescent mental health. No Patel- or Sangath-authored PA-specific publication or public stance located in 2026 search. Would have flipped structural finding #1 if PA-critique publication were located — none was. Listed here so the negative-result-source is documented.
+  - Primary source: <https://en.wikipedia.org/wiki/Vikram_Patel>
+- **AIIMS Delhi Department of Psychiatry critique-camp scan (Rajesh Sagar / Manju Mehta block + adjacent)** — AIIMS Delhi Psychiatry was scanned opportunistically for any individual critique-camp clinician (per the parent-task brief). Rajesh Sagar (Full Professor, 800+ publications, 144000+ citations) and Manju Mehta (Professor Clinical Psychology, 144 publications) are already in the parent file's excluded[] with verified no-PA-publication. Extended scan for AIIMS-adjacent critique-camp publication located none. Listed to document negative-result-source.
+  - Primary source: <https://www.researchgate.net/profile/Rajesh-Sagar>
+- **NLSIU Bangalore Centre for Child and the Law (CCL)** — Scanned for critique-camp PA engagement per parent-task brief. CCL is the apex Indian law-school child-rights centre engaged with POCSO and Juvenile Justice Act jurisprudence; no PA-construct-specific publication or position located. Out-of-scope for therapists directory (legal academic institution). Listed to document negative-result-source.
+  - Primary source: <https://www.nls.ac.in/>
+- **TISS Mumbai Centre for Excellence in CPCS (Child Protection and Child Services)** — Scanned per parent-task brief. TISS is the load-bearing Indian social-work institution and parent file already lists in.tiss-cejcf for the Centre for Equity and Justice for Children and Families. Extended scan for TISS Centre for Excellence in CPCS produced no PA-construct-specific publication or position. Listed to document negative-result-source.
+  - Primary source: <https://tiss.ac.in/>
+- **Manipal Academy of Higher Education (MAHE) Department of Psychiatry — critique-camp scan** — Scanned per parent-task brief. MAHE Manipal Psychiatry produced no individual critique-camp clinician with peer-reviewed PA-critique publication. Listed to document negative-result-source.
+  - Primary source: <https://manipal.edu/kmc-manipal/department-faculty/department-list/psychiatry.html>
+- **Saurabh Gupta (Socio-Legal Review forum author — NLSIU)** — Author of NLSIU Socio-Legal Review forum article 'Parental Alienation Syndrome: Analysis in India' — argues PAS is an unfounded theory with no empirical evidence in support and condemns its use by the Indian judiciary. This is a critique-camp argument but Gupta is a law student / academic author (not a clinician), and the venue is a student-edited law-school forum (not peer-reviewed). Does NOT flip structural finding #1 (which requires individual critique-camp CLINICIAN with peer-reviewed PA-critique publication). Listed to document the closest located Indian critique-camp authorial signal and the precise reason it does not flip the finding.
+  - Primary source: <https://www.sociolegalreview.com/post/parental-alienation-syndrome>
 
 
 ---
