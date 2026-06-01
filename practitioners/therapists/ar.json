@@ -26,11 +26,31 @@
       "stance": "recognition",
       "stance_notes": "Pionero histórico de la introducción de la noción de Síndrome de Alienación Parental (SAP) en el discurso judicial argentino mediante el artículo 'El abuso de las denuncias de abuso' publicado en La Ley el 15.9.2000 (mientras se desempeñaba como Juez Nacional Civil de Familia). El artículo se cita habitualmente en la doctrina argentina sobre AP/SAP como el primer texto judicial-académico que importó el constructo a Argentina. Cárdenas se describe a sí mismo como interdisciplinario y mediador, pero su producción judicial-doctrinaria sobre 'abuso de las denuncias' es la matriz de uso del SAP en juzgados civiles de familia argentinos; por eso se le clasifica en el campo de reconocimiento aunque su autopresentación pública es metodológica.",
       "publications": [
-        {"title": "El abuso de las denuncias de abuso", "year": 2000, "venue": "La Ley 2000-E, 1043 (15 de septiembre de 2000)"},
-        {"title": "La familia y el sistema judicial. Una experiencia innovadora", "year": 1988, "venue": "Editorial Emecé / posterior Sudamericana"},
-        {"title": "Familias en crisis. Intervenciones y respuestas desde un Juzgado de Familia", "year": 1999, "venue": "Editorial Fundación Sudamericana"},
-        {"title": "Violencia en la pareja. Intervenciones para la paz desde la paz", "year": 2007, "venue": "Editorial Granica"},
-        {"title": "La mediación en conflictos familiares. Lo que hay que saber", "year": 2005, "venue": "Editorial Lumen / Lumen-Humanitas"}
+        {
+          "title": "El abuso de las denuncias de abuso",
+          "year": 2000,
+          "venue": "La Ley 2000-E, 1043 (15 de septiembre de 2000)"
+        },
+        {
+          "title": "La familia y el sistema judicial. Una experiencia innovadora",
+          "year": 1988,
+          "venue": "Editorial Emecé / posterior Sudamericana"
+        },
+        {
+          "title": "Familias en crisis. Intervenciones y respuestas desde un Juzgado de Familia",
+          "year": 1999,
+          "venue": "Editorial Fundación Sudamericana"
+        },
+        {
+          "title": "Violencia en la pareja. Intervenciones para la paz desde la paz",
+          "year": 2007,
+          "venue": "Editorial Granica"
+        },
+        {
+          "title": "La mediación en conflictos familiares. Lo que hay que saber",
+          "year": 2005,
+          "venue": "Editorial Lumen / Lumen-Humanitas"
+        }
       ],
       "urls": [
         "https://www.eduardocardenas.com.ar/",
@@ -55,7 +75,12 @@
       "stance": "recognition",
       "stance_notes": "Co-autor (con el jurista Mauricio Luis Mizrahi y el psiquiatra Carlos María Díaz Usandivaras) del libro 'Alienación Parental: Niños huérfanos de padres vivos' — referencia principal del polo de reconocimiento argentino. Miembro fundador de CEAP Argentina y presentador en el 1er Congreso Internacional Interdisciplinario sobre Alienación Parental y Violencia Familiar (CABA, 14-15 nov 2024) — congreso repudiado institucionalmente por AABA (8.11.2024) y por el Programa Género y Derecho de la Facultad de Derecho UBA.",
       "publications": [
-        {"title": "Alienación Parental: Niños huérfanos de padres vivos", "year": 2023, "venue": "Co-autor con M. L. Mizrahi y C. M. Díaz Usandivaras; ed. independiente", "url": "https://www.amazon.com/Alienaci%C3%B3n-Parental-hu%C3%A9rfanos-padres-Spanish/dp/B0GXVDNGBS"}
+        {
+          "title": "Alienación Parental: Niños huérfanos de padres vivos",
+          "year": 2023,
+          "venue": "Co-autor con M. L. Mizrahi y C. M. Díaz Usandivaras; ed. independiente",
+          "url": "https://www.amazon.com/Alienaci%C3%B3n-Parental-hu%C3%A9rfanos-padres-Spanish/dp/B0GXVDNGBS"
+        }
       ],
       "urls": [
         "https://alienacionparental.com.ar/en/quienes-somos/",
@@ -79,8 +104,16 @@
       "stance": "recognition",
       "stance_notes": "Co-autor de 'Alienación Parental: Niños huérfanos de padres vivos' (con Mizrahi y Herscovici). Ponente recurrente en CEAP — presentación 'Alienación Parental como Abuso Parento-Filial por Violencia y Maltrato Infantil' (1er Congreso CEAP, CABA, nov 2024) y 'Terminología y Denominación de los Fenómenos de Alienación Parental' (seminario preparatorio CEAP). Encuadra la AP en el registro de 'abuso parento-filial' — divergencia metodológica con el registro 'síndrome' del modelo Gardner.",
       "publications": [
-        {"title": "Alienación Parental: Niños huérfanos de padres vivos", "year": 2023, "venue": "Co-autor con M. L. Mizrahi y P. Herscovici"},
-        {"title": "Alienación Parental como Abuso Parento-Filial por Violencia y Maltrato Infantil", "year": 2024, "venue": "1er Congreso Internacional CEAP, CABA"}
+        {
+          "title": "Alienación Parental: Niños huérfanos de padres vivos",
+          "year": 2023,
+          "venue": "Co-autor con M. L. Mizrahi y P. Herscovici"
+        },
+        {
+          "title": "Alienación Parental como Abuso Parento-Filial por Violencia y Maltrato Infantil",
+          "year": 2024,
+          "venue": "1er Congreso Internacional CEAP, CABA"
+        }
       ],
       "urls": [
         "https://alienacionparental.com.ar/en/quienes-somos/",
@@ -105,10 +138,26 @@
       "stance": "critique",
       "stance_notes": "Voz clínico-académica argentina más senior del campo crítico durante seis décadas. Coordinó el Programa Nacional Las Víctimas contra las Violencias (Línea 137) desde su creación en 2006 hasta su despido por la administración Milei en junio de 2024 (Ministerio de las Mujeres, Géneros y Diversidad disuelto definitivamente el 6.6.2024 tras Decreto 8/2023). Sus columnas en Página/12 y entrevistas habituales articularon la posición crítica sobre el supuesto SAP como herramienta de invalidación de testimonios infantiles y de re-victimización de mujeres denunciantes. Citada por la Defensoría del Pueblo CABA (25.9.2020) en la cadena documental del rechazo institucional al SAP.",
       "publications": [
-        {"title": "Mujeres y violencias", "year": 2017, "venue": "Editorial Noveduc"},
-        {"title": "La adopción", "year": 2010, "venue": "Editorial Sudamericana (varias ediciones)"},
-        {"title": "Hijos del rock", "year": 1996, "venue": "Editorial Losada"},
-        {"title": "Adolescencia y violencia", "year": 2005, "venue": "Editorial Paidós (co-autora)"}
+        {
+          "title": "Mujeres y violencias",
+          "year": 2017,
+          "venue": "Editorial Noveduc"
+        },
+        {
+          "title": "La adopción",
+          "year": 2010,
+          "venue": "Editorial Sudamericana (varias ediciones)"
+        },
+        {
+          "title": "Hijos del rock",
+          "year": 1996,
+          "venue": "Editorial Losada"
+        },
+        {
+          "title": "Adolescencia y violencia",
+          "year": 2005,
+          "venue": "Editorial Paidós (co-autora)"
+        }
       ],
       "urls": [
         "https://evagiberti.com/",
@@ -135,10 +184,26 @@
       "stance": "critique",
       "stance_notes": "Co-presentadora con el ex-juez Carlos Rozanski y las juezas Sandra Saidman y Graciela Jofré en el panel 'Abuso Sexual Infantil: La verdad sobre el llamado Síndrome de Alienación Parental' (Centro de Investigaciones sobre Violencia de Género, noviembre 2013) — su intervención sostuvo que el SAP es una metodología utilizada por abusadores y que debe formar parte de la formación en derecho, psicología y medicina. Citada habitualmente en literatura argentina crítica al SAP. Co-autora con Paula Moreno de 'Abuso sexual infantil. Cuestiones relevantes para su tratamiento en la justicia' (UNICEF Uruguay, 2015).",
       "publications": [
-        {"title": "Abuso sexual infantil. Cuestiones relevantes para su tratamiento en la justicia", "year": 2015, "venue": "UNICEF Uruguay (co-autora con Paula Moreno)"},
-        {"title": "Rompecabezas. Una guía introductoria al trauma y la disociación en la infancia", "year": 2015, "venue": "Editorial independiente; ISBN 978-987-33-6854-7"},
-        {"title": "Tratamiento del trauma y la disociación en la infancia. En busca de la seguridad perdida", "year": 2024, "venue": "Editorial Desclée de Brouwer"},
-        {"title": "Eso no me pasa a mí. Un viaje por un laberinto muy especial", "year": 2022, "venue": "Ilustrado por Carlos Cademartori; ed. independiente"}
+        {
+          "title": "Abuso sexual infantil. Cuestiones relevantes para su tratamiento en la justicia",
+          "year": 2015,
+          "venue": "UNICEF Uruguay (co-autora con Paula Moreno)"
+        },
+        {
+          "title": "Rompecabezas. Una guía introductoria al trauma y la disociación en la infancia",
+          "year": 2015,
+          "venue": "Editorial independiente; ISBN 978-987-33-6854-7"
+        },
+        {
+          "title": "Tratamiento del trauma y la disociación en la infancia. En busca de la seguridad perdida",
+          "year": 2024,
+          "venue": "Editorial Desclée de Brouwer"
+        },
+        {
+          "title": "Eso no me pasa a mí. Un viaje por un laberinto muy especial",
+          "year": 2022,
+          "venue": "Ilustrado por Carlos Cademartori; ed. independiente"
+        }
       ],
       "urls": [
         "https://www.sandrabaita.org/",
@@ -163,8 +228,17 @@
       "stance": "critique",
       "stance_notes": "Investigación referencial 'Credibilidad de las acusaciones de abuso sexual infantil e incesto paterno-filial' (cohortes 1994-2000) — sostiene que en disputas de custodia las alegaciones de abuso sexual aparecen sólo en ~2% de los casos y de éstas las falsas son 8-16,7%, refutando el supuesto epidemiológico del modelo Gardner sobre denuncias mayoritariamente falsas. Voz forense crítica al SAP desde el aparato pericial oficial.",
       "publications": [
-        {"title": "Credibilidad de las acusaciones de abuso sexual infantil e incesto paterno-filial", "year": 2002, "venue": "Investigación CMF / publicaciones jurídicas argentinas"},
-        {"title": "Abuso sexual contra niños, niñas y adolescentes. Una guía para tomar acciones (contribuyente)", "year": 2016, "venue": "UNICEF Argentina", "url": "https://www.unicef.org/argentina/sites/unicef.org.argentina/files/2018-04/proteccion-AbusoSexual_contra_NNyA-2016.pdf"}
+        {
+          "title": "Credibilidad de las acusaciones de abuso sexual infantil e incesto paterno-filial",
+          "year": 2002,
+          "venue": "Investigación CMF / publicaciones jurídicas argentinas"
+        },
+        {
+          "title": "Abuso sexual contra niños, niñas y adolescentes. Una guía para tomar acciones (contribuyente)",
+          "year": 2016,
+          "venue": "UNICEF Argentina",
+          "url": "https://www.unicef.org/argentina/sites/unicef.org.argentina/files/2018-04/proteccion-AbusoSexual_contra_NNyA-2016.pdf"
+        }
       ],
       "urls": [
         "https://cdconsejo.jusbaires.gob.ar/content/por-virginia-berlinerblau",
@@ -188,8 +262,18 @@
       "stance": "critique",
       "stance_notes": "Autor del libro de referencia argentino 'Abuso sexual infantil. ¿Denunciar o silenciar?' (Ediciones B / Editorial Sudamericana, varias ediciones) cuyo capítulo sobre el supuesto SAP es citado en la literatura crítica argentina como anclaje judicial-doctrinario del rechazo. Conferencia en CIDENI 'Denunciar o silenciar' difundida internacionalmente. Co-presentador con Sandra Baita en el panel CIVG nov 2013 sobre SAP.",
       "publications": [
-        {"title": "Abuso sexual infantil. ¿Denunciar o silenciar?", "year": 2003, "venue": "Ediciones B Argentina / Sudamericana (varias ediciones; ISBN 978-950-15-2278-5)", "url": "https://www.casassaylorenzo.com/Papel/9789501522785/ABUSO+SEXUAL+INFANTIL+DENUNCIAR+O+SILENCIAR"},
-        {"title": "Denunciar o silenciar (conferencia)", "year": 2019, "venue": "CIDENI", "url": "http://www.cideni.org/wp-content/uploads/2019/10/Denunciar-o-silenciar.pdf"}
+        {
+          "title": "Abuso sexual infantil. ¿Denunciar o silenciar?",
+          "year": 2003,
+          "venue": "Ediciones B Argentina / Sudamericana (varias ediciones; ISBN 978-950-15-2278-5)",
+          "url": "https://www.casassaylorenzo.com/Papel/9789501522785/ABUSO+SEXUAL+INFANTIL+DENUNCIAR+O+SILENCIAR"
+        },
+        {
+          "title": "Denunciar o silenciar (conferencia)",
+          "year": 2019,
+          "venue": "CIDENI",
+          "url": "http://www.cideni.org/wp-content/uploads/2019/10/Denunciar-o-silenciar.pdf"
+        }
       ],
       "urls": [
         "https://aevas.org/carlos-rozanski/",
@@ -213,7 +297,11 @@
       "stance": "critique",
       "stance_notes": "Autora de 'Violencias cotidianas, violencia de género: escuchar, comprender, ayudar' (Editorial Paidós, Buenos Aires, 2003, ISBN 978-950-12-3454-1) — texto canónico argentino sobre clínica de la violencia de género que estructura el marco profesional desde el que se rechaza el SAP como dispositivo de revictimización. No publica explícitamente sobre SAP/AP pero su libro proporciona el cuadro teórico-clínico del cual se desprende la posición crítica articulada por Giberti, Baita y las instituciones FePRA/ASAPMI.",
       "publications": [
-        {"title": "Violencias cotidianas, violencia de género: escuchar, comprender, ayudar", "year": 2003, "venue": "Editorial Paidós, Buenos Aires; ISBN 978-950-12-3454-1"}
+        {
+          "title": "Violencias cotidianas, violencia de género: escuchar, comprender, ayudar",
+          "year": 2003,
+          "venue": "Editorial Paidós, Buenos Aires; ISBN 978-950-12-3454-1"
+        }
       ],
       "urls": [
         "https://apdeba.org/biblioteca/documento.php?ui=1&recno=12065&id=PERGAMO.1.12065",
@@ -236,7 +324,11 @@
       "stance": "cross-jurisdictional",
       "stance_notes": "Entrada principal bajo Spain (practitioner:es.vaccaro-sonia). Argentina la lista como anclaje argentino-en-diáspora del campo crítico iberoamericano. Co-autora con Consuelo Barea Payueta de 'El pretendido Síndrome de Alienación Parental: un instrumento que perpetúa el maltrato y la violencia' (Desclée de Brouwer, 2009, ISBN 978-84-330-2334-5) — texto crítico de referencia en español. El término 'violencia vicaria' figura en la cadena documental que conduce a LOPIVI Disp. ad. 17a española.",
       "publications": [
-        {"title": "El pretendido Síndrome de Alienación Parental: un instrumento que perpetúa el maltrato y la violencia", "year": 2009, "venue": "Editorial Desclée de Brouwer (con C. Barea Payueta); ISBN 978-84-330-2334-5"}
+        {
+          "title": "El pretendido Síndrome de Alienación Parental: un instrumento que perpetúa el maltrato y la violencia",
+          "year": 2009,
+          "venue": "Editorial Desclée de Brouwer (con C. Barea Payueta); ISBN 978-84-330-2334-5"
+        }
       ],
       "urls": [
         "https://soniavaccaro.com/"
@@ -259,8 +351,18 @@
       "stance": "institutional",
       "stance_notes": "Pronunciamiento sobre el pretendido SAP aprobado por unanimidad en Asamblea Extraordinaria el 14.12.2019, modificado en diciembre 2020. Invoca explícitamente el Art. 3.5 del Código de Ética FePRA: 'No aplicarán o indicarán técnicas ni teorías psicológicas que no sean avaladas en ámbitos científicos, académicos o profesionales reconocidos.' Declara que el supuesto SAP es una pseudoteoría rechazada por entidades científicas y por ello su aplicación clínica es éticamente inadmisible. Marca el cierre institucional del campo psicológico argentino al constructo.",
       "publications": [
-        {"title": "Pronunciamiento sobre el pretendido Síndrome de Alienación Parental", "year": 2019, "venue": "FePRA, Asamblea Extraordinaria 14.12.2019 (mod. dic 2020)", "url": "https://cppc.org.ar/wp-content/uploads/2024/10/LA-FEPRA-Y-EL-PRETENDIDO-SAP.pdf"},
-        {"title": "Ataques a psicólogos/as que intervienen en abusos sexuales contra la niñez", "year": 2020, "venue": "FePRA comunicado institucional", "url": "https://fepra.org.ar/ataques-a-psicologos-asque-interviene-en-abusos-sexuales-contra-la-ninez/"}
+        {
+          "title": "Pronunciamiento sobre el pretendido Síndrome de Alienación Parental",
+          "year": 2019,
+          "venue": "FePRA, Asamblea Extraordinaria 14.12.2019 (mod. dic 2020)",
+          "url": "https://cppc.org.ar/wp-content/uploads/2024/10/LA-FEPRA-Y-EL-PRETENDIDO-SAP.pdf"
+        },
+        {
+          "title": "Ataques a psicólogos/as que intervienen en abusos sexuales contra la niñez",
+          "year": 2020,
+          "venue": "FePRA comunicado institucional",
+          "url": "https://fepra.org.ar/ataques-a-psicologos-asque-interviene-en-abusos-sexuales-contra-la-ninez/"
+        }
       ],
       "urls": [
         "https://fepra.org.ar/",
@@ -285,7 +387,12 @@
       "stance": "institutional",
       "stance_notes": "Pronunciamiento Colegial SAP declara la aplicación clínica del SAP como contraria al ejercicio profesional del psicólogo en jurisdicción Distrito I PBA. Es uno de los Colegios provinciales argentinos (junto con Rosario, Mar del Plata, Córdoba, Bahía Blanca, Quilmes, La Plata) que ha declarado expresamente la inadmisibilidad profesional del SAP. La acumulación provincial es estructuralmente equivalente al pronunciamiento federal de FePRA pero ofrece anclaje deontológico provincial.",
       "publications": [
-        {"title": "Pronunciamiento Colegial SAP", "year": 2020, "venue": "Colegio de Psicólogos PBA Distrito I, La Plata", "url": "https://www.colpsibhi.org/novedades/pronunciamiento-colegial-sap"}
+        {
+          "title": "Pronunciamiento Colegial SAP",
+          "year": 2020,
+          "venue": "Colegio de Psicólogos PBA Distrito I, La Plata",
+          "url": "https://www.colpsibhi.org/novedades/pronunciamiento-colegial-sap"
+        }
       ],
       "urls": [
         "https://www.colpsibhi.org/novedades/pronunciamiento-colegial-sap",
@@ -308,10 +415,30 @@
       "stance": "institutional",
       "stance_notes": "Pronunciamiento sobre el supuesto Síndrome de Alienación Parental: 'el supuesto SAP no constituye una enfermedad por cuanto carece de validez científica'. Análisis técnico complementario sobre las bases científicas del SAP de Gardner. Entrada en glosario institucional. Declaración conjunta de junio 2020 contra la difusión mediática del SAP (a propósito del programa 'Fantino a la tarde'). Voz argentina más autorizada del campo profesional crítico citada por Defensoría del Pueblo CABA (2020) y por la literatura académica crítica.",
       "publications": [
-        {"title": "Pronunciamiento sobre el supuesto Síndrome de Alienación Parental", "year": 2010, "venue": "ASAPMI, sección Notas", "url": "http://www.asapmi.org.ar/publicaciones/notas/?id=507"},
-        {"title": "Análisis sobre las bases científicas del Síndrome de Alienación Parental de Gardner", "year": 2010, "venue": "ASAPMI, sección Artículos", "url": "http://www.asapmi.org.ar/publicaciones/articulos/articulo.asp?id=755"},
-        {"title": "Comentarios sobre el Pretendido SAP", "year": 2015, "venue": "ASAPMI, sección Notas", "url": "http://www.asapmi.org.ar/publicaciones/notas/?id=968"},
-        {"title": "Glosario — entrada Alienación Parental", "year": 2018, "venue": "ASAPMI Glosario", "url": "http://asapmi.org.ar/glosario/?id=358"}
+        {
+          "title": "Pronunciamiento sobre el supuesto Síndrome de Alienación Parental",
+          "year": 2010,
+          "venue": "ASAPMI, sección Notas",
+          "url": "http://www.asapmi.org.ar/publicaciones/notas/?id=507"
+        },
+        {
+          "title": "Análisis sobre las bases científicas del Síndrome de Alienación Parental de Gardner",
+          "year": 2010,
+          "venue": "ASAPMI, sección Artículos",
+          "url": "http://www.asapmi.org.ar/publicaciones/articulos/articulo.asp?id=755"
+        },
+        {
+          "title": "Comentarios sobre el Pretendido SAP",
+          "year": 2015,
+          "venue": "ASAPMI, sección Notas",
+          "url": "http://www.asapmi.org.ar/publicaciones/notas/?id=968"
+        },
+        {
+          "title": "Glosario — entrada Alienación Parental",
+          "year": 2018,
+          "venue": "ASAPMI Glosario",
+          "url": "http://asapmi.org.ar/glosario/?id=358"
+        }
       ],
       "urls": [
         "https://asapmi.org.ar/",
@@ -336,7 +463,12 @@
       "stance": "institutional",
       "stance_notes": "Declaración del 25.9.2020 'sobre el falso Síndrome de Alienación Parental': 'rechazamos la existencia del referido síndrome de alienación parental por carecer de validez científica y, por ende, jurídica' y por su uso 'para invalidar pericias psicológicas y psiquiátricas y — fundamentalmente — negar la existencia de delitos de abuso e ignorar la voz de los niños y niñas'. Adhiere a la posición de SENNAF (Secretaría Nacional de Niñez, Adolescencia y Familia) que definió el SAP como 'falacia carente de rigor científico'. Cadena documental institucional argentina más explícita post-2014.",
       "publications": [
-        {"title": "Declaración de la Defensoría sobre el falso Síndrome de Alienación Parental", "year": 2020, "venue": "Defensoría del Pueblo CABA, 25 de septiembre de 2020", "url": "https://defensoria.org.ar/archivo_noticias/declaracion-de-la-defensoria-sobre-el-falso-sindrome-de-alienacion-parental/"}
+        {
+          "title": "Declaración de la Defensoría sobre el falso Síndrome de Alienación Parental",
+          "year": 2020,
+          "venue": "Defensoría del Pueblo CABA, 25 de septiembre de 2020",
+          "url": "https://defensoria.org.ar/archivo_noticias/declaracion-de-la-defensoria-sobre-el-falso-sindrome-de-alienacion-parental/"
+        }
       ],
       "urls": [
         "https://defensoria.org.ar/archivo_noticias/declaracion-de-la-defensoria-sobre-el-falso-sindrome-de-alienacion-parental/",
@@ -360,7 +492,12 @@
       "stance": "institutional",
       "stance_notes": "Declaración 'Rechazo a la promoción, defensa y uso ilegítimo del falso síndrome de alienación parental (SAP)' (2024), publicada en respuesta a la realización en la propia Facultad del 1er Congreso Internacional CEAP (14-15 nov 2024). Cita al MESECVI (OEA, 13.4.2023) y a la Relatora Especial ONU sobre Violencia contra la Mujer (12.8.2022). Junto con la AABA (Asociación de Abogadas y Abogados de Buenos Aires) Repudio del 8.11.2024, constituye el anclaje universitario más reciente del campo crítico institucional.",
       "publications": [
-        {"title": "Rechazo a la promoción, defensa y uso ilegítimo del falso 'síndrome de alienación parental' (SAP)", "year": 2024, "venue": "UBA Facultad de Derecho, Programa Género y Derecho", "url": "https://www.derecho.uba.ar/noticias/2024/rechazo-a-la-promocion-defensa-y-uso-ilegitimo-del-falso-sindrome-de-alienacion-parental-sap"}
+        {
+          "title": "Rechazo a la promoción, defensa y uso ilegítimo del falso 'síndrome de alienación parental' (SAP)",
+          "year": 2024,
+          "venue": "UBA Facultad de Derecho, Programa Género y Derecho",
+          "url": "https://www.derecho.uba.ar/noticias/2024/rechazo-a-la-promocion-defensa-y-uso-ilegitimo-del-falso-sindrome-de-alienacion-parental-sap"
+        }
       ],
       "urls": [
         "https://www.derecho.uba.ar/noticias/2024/rechazo-a-la-promocion-defensa-y-uso-ilegitimo-del-falso-sindrome-de-alienacion-parental-sap",
@@ -373,43 +510,139 @@
         "practitioner:ar.fepra",
         "practitioner:ar.asapmi"
       ]
+    },
+    {
+      "id": "ar.uba-psicologia-forense",
+      "name": "Carrera de Especialización en Psicología Forense — UBA Facultad de Psicología",
+      "credentials": "Posgrado universitario CONEAU-acreditado (Res. 1043/15); 22 cursos, 440 h, 27½ créditos académicos",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "region": "CABA",
+      "affiliation": "Universidad de Buenos Aires, Facultad de Psicología, Secretaría de Posgrado; directora actual Dra. Verónica Llull Casado (Lic. y Esp. en Psicología Forense, UBA; Doctora en Psicología, UBA; coordinadora del Servicio de Peritos de la Facultad de Psicología UBA; investigadora UBACyT)",
+      "stance": "critique",
+      "stance_notes": "Entrada institucional re-recuperada en la pasada v2 sustituyendo la ficha errónea 'Centro de Psicología Forense — UBA' (la unidad no es un Centro sino una Carrera de Especialización). La directora Verónica Llull Casado dicta 'Abuso Sexual Infantil y Sexología Forense' como asignatura propia, situando explícitamente el ASI en el currículum forense UBA, marco doctrinario en el que la crítica argentina al SAP se anida (Rozanski, Giberti, Intebi). La especialización forma peritos psicólogos para el Poder Judicial, ámbito en el que el FePRA Pronunciamiento 14.12.2019 y la Defensoría del Pueblo CABA Declaración 25.9.2020 operan como techo deontológico. No posicionamiento institucional UBA-Posgrado específico sobre SAP publicado; clasificación crítica derivada del encuadre curricular ASI-céntrico y de la alineación de la Facultad de Psicología UBA con el polo crítico documentada en la firma del 'pronunciamiento Stolkiner 2020' (Alicia Stolkiner, Facultad de Psicología UBA, firmante SENAF 2020).",
+      "publications": [],
+      "urls": [
+        "https://www.psi.uba.ar/posgrado.php?var=posgrado2025_2/especializacion/forense/index.php",
+        "https://www.psi.uba.ar/graduados.php?var=posgrado2026/especializacion/forense/index.php",
+        "https://codigo.rec.uba.ar/libro_xiv__psico_/libros-xiv-facultad-de-psicologia/titulo-8-carreras-de-especializacion/capitulo-i-en-psicologia-forense/",
+        "https://www.psi.uba.ar/docentes.php?var=premio/2012/llull.php"
+      ],
+      "contact": "Vía Secretaría de Posgrado psi.uba.ar",
+      "verification_notes": "Verificado vía (i) sitio oficial UBA Facultad de Psicología; (ii) Código UBA Libro XIV Título 8 Cap. I (Res. CS); (iii) acreditación CONEAU Res. 1043/15; (iv) ficha docente psi.uba.ar/docentes confirmando Llull Casado como directora y docente de 'Abuso Sexual Infantil y Sexología Forense'. La unidad orgánica correcta es Carrera de Especialización, no 'Centro'.",
+      "references": [
+        "jurisdiction:argentina",
+        "practitioner:ar.giberti-eva"
+      ]
+    },
+    {
+      "id": "ar.uba-psicologia-juridica-769",
+      "name": "Cátedra II de Psicología Jurídica (código 769) — UBA Facultad de Psicología",
+      "credentials": "Asignatura obligatoria de grado, Lic. en Psicología; Titular Prof. Dr. Osvaldo H. Varela; Adjunta Prof. Stella M. Puhl",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "region": "CABA",
+      "affiliation": "Universidad de Buenos Aires, Facultad de Psicología; cátedra docente con sitio institucional propio en psi.uba.ar",
+      "stance": "critique",
+      "stance_notes": "Entrada institucional cátedra-nivel re-recuperada en la pasada v2 como reemplazo parcial del registro genérico 'Centro de Psicología Forense'. Cátedra obligatoria de Psicología Jurídica con titular público (Osvaldo H. Varela) y adjunta (Stella Maris Puhl); la bibliografía detallada no es plenamente recuperable desde la página de portada sin acceso al PDF de unidades temáticas, por lo que el contenido PA-específico queda como 'no plenamente verificado en pasada v2'. Clasificación crítica derivada del encuadre institucional (Facultad de Psicología UBA bajo techo FePRA + firma Stolkiner SENAF 2020) y de la centralidad de Puhl en pericial psicológica forense argentina con producción sobre familia y proceso judicial.",
+      "publications": [],
+      "urls": [
+        "http://www.psi.uba.ar/academica/carrerasdegrado/psicologia/sitios_catedras/obligatorias/769_juridica/index.php?var=presentacion/inicio.php",
+        "http://www.psi.uba.ar/academica/carrerasdegrado/psicologia/sitios_catedras/obligatorias/769_juridica/index.php?var=presentacion/plantel_docente.php"
+      ],
+      "contact": "psijuridicavarela@gmail.com",
+      "verification_notes": "Verificado vía sitio oficial UBA (cátedra 769). Titular y adjunta confirmados públicamente. Bibliografía PA-específica no plenamente abierta en portada; requiere recuperación del PDF de unidades temáticas en próxima pasada.",
+      "references": [
+        "jurisdiction:argentina",
+        "practitioner:ar.uba-psicologia-forense"
+      ]
+    },
+    {
+      "id": "ar.feim",
+      "name": "FEIM — Fundación para Estudio e Investigación de la Mujer",
+      "credentials": "ONG fundada en 1989; entidad miembro Girls Not Brides y Alianza Global por los Cuidados; consultora CEDAW/ONU",
+      "city": "Ciudad Autónoma de Buenos Aires",
+      "region": "CABA",
+      "affiliation": "Fundación para Estudio e Investigación de la Mujer; presidenta histórica Dra. Mabel Bianco (médica, MSc Salud Pública)",
+      "stance": "critique",
+      "stance_notes": "Entrada institucional recuperada en la pasada v2 con anclaje PA-específico vía el Informe Sombra CEDAW Argentina 2016 (autoría Mabel Bianco y Cecilia Correa), que en la sección 'Estereotipos y prácticas nocivas' nombra explícitamente al 'falso Síndrome de Alienación Parental (SAP)' como un uso discriminatorio de los operadores judiciales en casos de Abuso Sexual Infantil, sosteniendo que 'lleva a poner en duda la veracidad del abuso y la palabra de niñas y niños' y que el SAP fue 'rechazado por la OMS hace 15 años por no reunir criterios clínicos'. Este es el documento PA-específico que la pasada v1 declaró ausente; v2 lo recupera. FEIM no tiene un documento monográfico anti-SAP separado pero sí una posición CEDAW formalmente registrada. Mabel Bianco no aparece en la lista de firmantes individuales del Pronunciamiento SENAF 2020 (Página/12) — su posición se canaliza institucionalmente vía FEIM, no individual.",
+      "publications": [
+        {
+          "title": "Informe Sombra Argentina ante el Comité CEDAW — Estereotipos y Prácticas Nocivas (sección SAP)",
+          "year": 2016,
+          "venue": "FEIM (autoras: Mabel Bianco, Cecilia Correa)"
+        }
+      ],
+      "urls": [
+        "https://feim.org.ar/",
+        "https://feim.org.ar/publicaciones/",
+        "https://feim.org.ar/2016/10/28/feim-presento-tres-informes-sombra-al-comite-de-onu-que-evaluara-la-situacion-de-los-derechos-de-las-mujeres-en-argentina/",
+        "https://feim.org.ar/2016/10/28/cedaw2016/",
+        "https://feim.org.ar/wp-content/uploads/2019/01/Mabel-Bianco-CV-Espa%C3%B1ol.pdf",
+        "https://es.wikipedia.org/wiki/Fundaci%C3%B3n_para_Estudio_e_Investigaci%C3%B3n_de_la_Mujer"
+      ],
+      "contact": "Vía feim.org.ar",
+      "verification_notes": "Verificado vía sitio institucional feim.org.ar (existencia, fundación, equipo); Wikipedia ES; Idealist; Girls Not Brides member directory; CV oficial Mabel Bianco. Posición PA-específica documentada vía Informe Sombra CEDAW 2016 publicado en feim.org.ar.",
+      "references": [
+        "jurisdiction:argentina"
+      ]
     }
   ],
   "excluded": [
     {
       "id": "ar.marcos-estela",
       "name": "Estela Marcos",
-      "exclusion_reason": "unverifiable — nombre no recuperable desde fuentes primarias como figura clínica argentina específicamente publicada sobre AP/SAP. Posible confusión con otras Estela Marcos no relacionadas con el campo PA argentino."
+      "exclusion_reason": "v2 unverifiable — sin hit en LinkedIn argentino, ResearchGate, sitios de cátedras UBA, ni en la lista de firmantes del Pronunciamiento SENAF 2020 (Página/12 273858). Las únicas 'Estela' argentinas en psicología recuperables son Estela María Martínez Luna (Palermo, sin perfil PA) y Lic. Estela Chardón (perinatal), ninguna coincidente. Posible confusión con homónimos no argentinos o nombre mal transcrito; no recuperable como figura PA-activa.",
+      "negative_result_urls": [
+        "https://www.google.com/search?q=%22Estela+Marcos%22+psic%C3%B3loga+Argentina+alienaci%C3%B3n+parental",
+        "https://www.linkedin.com/search/results/people/?keywords=Estela+Marcos+Argentina+psicologa",
+        "https://www.pagina12.com.ar/273858-alerta-oficial-y-desestimacion-del-sindrome-de-alienacion-pa"
+      ]
     },
     {
       "id": "ar.aufranc-lidia",
       "name": "Lidia Aufranc",
-      "exclusion_reason": "unverifiable — nombre no recuperable desde fuentes primarias como autora argentina sobre AP/SAP con sitio profesional o publicación con URL verificable."
+      "exclusion_reason": "v2 unverifiable — sin hit en LinkedIn argentino, ResearchGate, APdeBA directorio, ni en sitios de cátedras UBA. Los hits 'Aufranc' Argentina son (i) Gral. Alcides López Aufranc (militar fallecido), (ii) Patricia López Aufranc (abogada Marval — ya explícitamente excluida en la query), (iii) homónimos no relacionados con el campo PA. Probable confusión con 'López Aufranc'. No recuperable como psicóloga argentina PA-activa.",
+      "negative_result_urls": [
+        "https://www.google.com/search?q=%22Lidia+Aufranc%22+Argentina",
+        "https://es.linkedin.com/search/results/people/?keywords=Lidia+Aufranc",
+        "https://www.apdeba.org/directorio-de-psicoanalistas-2/"
+      ]
     },
     {
       "id": "ar.rodriguez-nora",
       "name": "Nora Rodríguez",
-      "exclusion_reason": "unverifiable — nombre demasiado ambiguo (múltiples profesionales argentinas y españolas); no se localiza una Nora Rodríguez argentina con producción específica sobre AP/SAP confirmable vía fuente primaria. Probable confusión con la pedagoga Nora Rodríguez (Barcelona) sobre infancia."
+      "exclusion_reason": "v2 unverifiable — el nombre es demasiado común. Sin hit como psicóloga argentina con producción PA-específica en LinkedIn AR, ResearchGate AR, sitios UBA, ni en firmantes SENAF 2020. La única Nora Rodríguez recuperable en discurso PA-adyacente es la pedagoga Nora Rodríguez (Barcelona, guiainfantil.com), ya descartada en la query. Posible confusión con 'Nora Caminoa' (psicóloga argentina en familia) que sí tiene sitio noracaminoa.com pero apellido diferente.",
+      "negative_result_urls": [
+        "https://www.google.com/search?q=%22Nora+Rodr%C3%ADguez%22+psic%C3%B3loga+Argentina+SAP+alienaci%C3%B3n",
+        "https://es.linkedin.com/search/results/people/?keywords=Nora+Rodriguez+Argentina+psicologa",
+        "https://www.guiainfantil.com/especialistas/educacion/nora-rodriguez/"
+      ]
     },
     {
       "id": "ar.aaps-san-juan",
       "name": "AAPS — Asociación Argentina de Profesionales de la Salud Mental (San Juan)",
-      "exclusion_reason": "unverifiable — el acrónimo AAPS no se localiza como entidad sanjuanina con sitio institucional, publicación o posición pública sobre AP/SAP. Las entidades retrievables en el espacio recognition-camp argentino son CEAP Argentina (CABA), APADESHI (CABA, José María Bouza) e instituciones provinciales no documentadas públicamente sobre AP."
+      "exclusion_reason": "v2 unverifiable — la entidad sanjuanina recuperable es la 'Asociación Sanjuanina de Psiquiatras' (Facebook ASPsiquiatras), no una 'AAPS'. La Asociación Sanjuanina de Psiquiatras no tiene posicionamiento PA-específico publicado. No se localiza sitio institucional, declaración o publicación que valide 'AAPS San Juan' como entidad PA-activa.",
+      "negative_result_urls": [
+        "https://www.facebook.com/ASPsiquiatras/",
+        "https://www.google.com/search?q=%22AAPS%22+San+Juan+Argentina+alienaci%C3%B3n+parental"
+      ]
     },
     {
       "id": "ar.cafc",
       "name": "Centro de Atención de Familias en Conflicto",
-      "exclusion_reason": "unverifiable — el nombre genérico aparece asignado a múltiples dispositivos provinciales y privados; no se localiza una entidad nacional única con sitio institucional y posición pública verificable sobre AP/SAP que pueda funcionar como entrada institucional."
-    },
-    {
-      "id": "ar.feim",
-      "name": "FEIM — Fundación para Estudio e Investigación de la Mujer",
-      "exclusion_reason": "unverifiable PA-specific position — FEIM (Mabel Bianco) es una entidad activa y verificable (feim.org.ar) en derechos sexuales y reproductivos y violencia de género, pero no se localiza un posicionamiento institucional propio específicamente sobre SAP/AP con URL primaria. Su trabajo se cita habitualmente en el marco general crítico pero sin documento PA-específico."
+      "exclusion_reason": "v2 unverifiable as discrete entity — la entidad nacional de mediación familiar oficial en Argentina es el 'Centro de Prevención y Resolución de Conflictos' (Ministerio de Justicia, Dirección de Mediación), no un 'Centro de Atención de Familias en Conflicto'. Nombre genérico aplicado a múltiples dispositivos provinciales sin entidad única verificable con posición PA. CABA tiene 'Centros de Acción Familiar' (programa infancia, no PA).",
+      "negative_result_urls": [
+        "https://buenosaires.gob.ar/guiajuridicagratuita/centro-de-prevencion-y-resolucion-de-conflictos",
+        "https://buenosaires.gob.ar/desarrollohumanoyhabitat/desarrollo-infantil/centros-de-accion-familiar"
+      ]
     },
     {
       "id": "ar.mediacion-familiar-argentina",
       "name": "Mediación Familiar Argentina (MFA)",
-      "exclusion_reason": "unverifiable as single entity — la mediación familiar en Argentina opera vía la Ley 24.573 (mediación obligatoria previa) y los Centros de Mediación del Ministerio de Justicia + colegios profesionales; no existe una entidad nacional única 'MFA' con sitio y posición pública sobre AP/SAP verificable."
+      "exclusion_reason": "v2 unverifiable as discrete national entity — la mediación familiar argentina opera vía Ley 24.573 (mediación obligatoria) + Centros de Mediación del Ministerio de Justicia + colegios profesionales. No existe entidad nacional única 'MFA' con sitio, registro o declaración PA-específica. El acrónimo no devuelve registro institucional verificable.",
+      "negative_result_urls": [
+        "https://www.google.com/search?q=%22Mediaci%C3%B3n+Familiar+Argentina%22+entidad+nacional",
+        "https://www.argentina.gob.ar/justicia/mediacion"
+      ]
     },
     {
       "id": "ar.ubapsi-forense",
@@ -419,7 +652,8 @@
     {
       "id": "ar.vaccaro-sonia",
       "name": "Sonia Vaccaro (entrada primaria duplicada)",
-      "exclusion_reason": "duplicate — entrada primaria bajo Spain (practitioner:es.vaccaro-sonia). Incluida en este archivo como entrada cross-jurisdictional separada (ar.vaccaro-sonia-cross) para preservar el anclaje argentino-en-diáspora sin duplicar la ficha principal."
+      "exclusion_reason": "v2 sin cambio — entrada primaria bajo Spain (practitioner:es.vaccaro-sonia). Cross-linked vía ar.vaccaro-sonia-cross en archivo activo.",
+      "negative_result_urls": []
     }
   ]
 }

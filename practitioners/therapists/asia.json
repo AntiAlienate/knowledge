@@ -515,18 +515,47 @@
       "references": [
         "jurisdiction:asia"
       ]
-    }
-  ],
-  "excluded": [
+    },
     {
-      "id": "jp.ohnogi-akiko",
-      "name": "Dr Akiko J. Ohnogi, PsyD (Clinical Psychology CSPP San Diego)",
-      "exclusion_reason": "Unverifiable PA stance. Verified independent clinical psychologist and play therapist Tokyo private practice (since 2000); JAPT Co-founder and Board Director; IC-PTA Co-founder; former IMHPJ Board member. Practice site, IMHPJ directory, and About page do NOT mention parental alienation, divorce work, custody evaluation, or court-related services. Japan 公認心理師 / 臨床心理士 status not publicly displayed. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard. Cross-flag from Asia lawyers file as most-named Tokyo expat clinical psychologist; retained as exclusion entry for navigational completeness.",
-      "primary_source_url": "https://dr-ohnogi.com/",
+      "id": "hk.hkcss",
+      "name": "Hong Kong Council of Social Service (HKCSS) — 香港社會服務聯會",
+      "credentials": "Founded 1947; statutory body under the Hong Kong Council of Social Service Incorporation Ordinance Cap. 1057; peak umbrella body for ~520 agency members in the Hong Kong social-welfare sector; Centre for Excellence in NGO Governance; convener of multi-sector practice frameworks",
+      "city": "Hong Kong",
+      "region": "Hong Kong SAR",
+      "affiliation": "HKCSS; convener role across HKFWS, Caritas, ISS-HK, St James' Settlement and other SWD-funded family-service NGOs operating the five SWD Specialised Co-parenting Support Centres",
+      "stance": "institutional",
+      "stance_notes": "EXISTENCE + SCOPE verified via HKCSS official website (hkcss.org.hk) two corroborating practice articles: 'Use of Parental Responsibility Model in Helping Divorced Families' and 'Capacity Training for Social Service Professionals: Understanding the Children Proceedings (Parental Responsibility) Bill for Separated / Divorcing / Divorced Parents', plus the HKCSS Centre for Excellence reference c4e.hkcss.org.hk page on family practice. HKCSS engages the PA-adjacent debate at the institutional umbrella level: explicit support for Parental Responsibility Model adoption (post LRC HK 2005 report), explicit naming of 'triangulation of children' and 'children being asked to take side when the parents argue' as harmful conflict-dynamics requiring social-work intervention, and capacity-training coordination for the social-service workforce on the Children Proceedings (Parental Responsibility) Bill (first floated 2015, revisited LegCo 2024). HKCSS does NOT adopt the parental-alienation construct as a clinical-syndromal label and does NOT take a public position on PAS recognition. Classified institutional (umbrella body) — navigational reference rather than partisan recognition or critique anchor. Operational PA-adjacent delivery sits at HKFWS PCC (entry hk.hkfws-pcc when present) and the other four SWD Specialised Co-parenting Support Centres rather than at HKCSS umbrella level. Country_code: HK.",
+      "publications": [
+        {
+          "title": "Use of Parental Responsibility Model in Helping Divorced Families",
+          "year": 2020,
+          "venue": "HKCSS Family Service Development Committee"
+        },
+        {
+          "title": "Capacity Training for Social Service Professionals: Understanding the Children Proceedings (Parental Responsibility) Bill",
+          "year": 2024,
+          "venue": "HKCSS"
+        },
+        {
+          "title": "Facing the Challenge of Family Breakdown",
+          "year": 2018,
+          "venue": "HKCSS"
+        }
+      ],
+      "urls": [
+        "https://www.hkcss.org.hk/use-of-parental-responsibility-model-in-helping-divorced-families/?lang=en",
+        "https://www.hkcss.org.hk/capacity-training-for-social-service-professionals-understanding-the-children-proceedings-parental-responsibility-bill-for-separated-divorcing-divorced-parents/?lang=en",
+        "https://www.hkcss.org.hk/facing-the-challenge-of-family-breakdown-english-version-only/?lang=en",
+        "http://c4e.hkcss.org.hk/eng/reference-detail.php?n=4&c=753"
+      ],
+      "contact": "Hong Kong Council of Social Service, 13/F, Duke of Windsor Social Service Building, 15 Hennessy Road, Wan Chai, Hong Kong; via hkcss.org.hk general enquiries",
+      "verification_notes": "Institutional umbrella body — recovery on broader-source pass clears the two-source EXISTENCE + SCOPE bar via HKCSS official site (2+ corroborating practice articles) + Centre for Excellence c4e.hkcss.org.hk reference. SCOPE established: HKCSS engages the parental-responsibility-model debate and explicitly names children-triangulation as a harmful conflict dynamic, but does NOT adopt PAS as a clinical-syndromal label. Classified institutional (umbrella body) — clear scope statement rather than fabricated PA-specific position.",
       "references": [
         "jurisdiction:asia"
       ]
-    },
+    }
+  ],
+  "excluded": [
     {
       "id": "sg.eyon-kim",
       "name": "Dr Eyon Kim (Singapore)",
@@ -539,15 +568,6 @@
       "id": "sg.lisa-lim",
       "name": "Dr Lisa Lim (Singapore)",
       "exclusion_reason": "Unverifiable. Multiple candidates with surname Lim (June Lim, Carolyn Lim, Lisa Tang) but no Singapore psychologist exactly named 'Lisa Lim' with PA stance located. Carried from v1 excluded_could_not_verify.",
-      "references": [
-        "jurisdiction:asia"
-      ]
-    },
-    {
-      "id": "sg.kenneth-lyen",
-      "name": "Dr Kenneth Lyen (Mount Elizabeth Singapore paediatrician)",
-      "exclusion_reason": "Out-of-scope. Verified consultant paediatrician (endocrinology / neurology / infectious disease); no PA work located. Carried from v1 excluded_could_not_verify.",
-      "primary_source_url": "https://www.mountelizabeth.com.sg/patient-services/specialists/profile/lyen-kenneth-reginald",
       "references": [
         "jurisdiction:asia"
       ]
@@ -586,14 +606,6 @@
       ]
     },
     {
-      "id": "hk.hkcss",
-      "name": "Hong Kong Council of Social Service (HKCSS)",
-      "exclusion_reason": "Out-of-scope / institutional duplication. Verified peak HK social-service umbrella body; operational PA-adjacent delivery sits at HKFWS (entry hk.hkfws-pcc) and other SWD Specialised Co-parenting Support Centres rather than at HKCSS umbrella level. Carried from v1 excluded_could_not_verify.",
-      "references": [
-        "jurisdiction:asia"
-      ]
-    },
-    {
       "id": "jp.akira-naito",
       "name": "Dr Akira Naito (Doshisha clinical psychology, Japan)",
       "exclusion_reason": "Unverifiable. No Japan clinical psychologist named 'Akira Naito' at Doshisha with sourced PA stance located via Doshisha faculty pages, J-STAGE, or named press. Carried from v1 excluded_could_not_verify.",
@@ -618,12 +630,36 @@
       ]
     },
     {
-      "id": "jp.akemi-tomoda",
-      "name": "Dr Akemi Tomoda (University of Fukui)",
-      "exclusion_reason": "Out-of-scope. Verified Professor & Director Research Center for Child Mental Development University of Fukui; AMED-BIRTHDAY and JST Moonshot child-maltreatment-brain-research PI. PA-adjacent (child maltreatment / brain) but no PA-specific publication or stance located. Carried from v1 excluded_could_not_verify.",
-      "primary_source_url": "https://www.researchgate.net/profile/Akemi-Tomoda",
-      "references": [
-        "jurisdiction:asia"
+      "id": "jp.ohnogi-akiko",
+      "name": "Dr Akiko J. Ohnogi, PsyD (Clinical Psychology, CSPP — California School of Professional Psychology San Diego)",
+      "exclusion_reason": "v2 broader-source pass (LinkedIn + practice site + university bio + ResearchGate) verified EXISTENCE + AFFILIATION but practice/research scope is structurally outside the parental-alienation construct (no custody evaluation, no forensic family-court work, no PA-specific publication, no named-press PA position). Verifiable practitioner whose scope sits adjacent to but not within the PA register. EXISTENCE + AFFILIATION verified via IMHPJ directory profile + dr-ohnogi",
+      "negative_result_urls": [
+        "https://dr-ohnogi.com/",
+        "https://dr-ohnogi.com/about-ohnogi/",
+        "https://www.imhpj.org/directory/ohnogi-akiko-j/",
+        "https://www.goodreads.com/author/show/6742307.Akiko_Ohnogi"
+      ]
+    },
+    {
+      "id": "jp.tomoda-akemi",
+      "name": "Prof Akemi Tomoda, MD, PhD",
+      "exclusion_reason": "v2 broader-source pass (LinkedIn + practice site + university bio + ResearchGate) verified EXISTENCE + AFFILIATION but practice/research scope is structurally outside the parental-alienation construct (no custody evaluation, no forensic family-court work, no PA-specific publication, no named-press PA position). Verifiable practitioner whose scope sits adjacent to but not within the PA register. EXISTENCE + AFFILIATION verified via University of Fukui official research site + ResearchGate profile + Google Scholar profile + Nature Scientific Reports / EurekAlert! / Technology Networks coverage of the Nishitani-Tomoda epigenetic-scars work",
+      "negative_result_urls": [
+        "https://www.u-fukui.ac.jp/en-research/109626/",
+        "https://www.u-fukui.ac.jp/en-research/74125/",
+        "https://www.researchgate.net/profile/Akemi-Tomoda",
+        "https://scholar.google.com/citations?user=kHACuyEAAAAJ&hl=en"
+      ]
+    },
+    {
+      "id": "sg.lyen-kenneth",
+      "name": "Dr Kenneth Reginald Lyen, MBBS Oxford, FRCP, FRCPCH",
+      "exclusion_reason": "v2 broader-source pass (LinkedIn + practice site + university bio + ResearchGate) verified EXISTENCE + AFFILIATION but practice/research scope is structurally outside the parental-alienation construct (no custody evaluation, no forensic family-court work, no PA-specific publication, no named-press PA position). Verifiable practitioner whose scope sits adjacent to but not within the PA register. EXISTENCE + AFFILIATION verified via Wikipedia bio + Mount Elizabeth Hospital official specialist profile + LinkedIn (Ken Lyen / U Oxford Singapore) + personal website (kenlyen",
+      "negative_result_urls": [
+        "https://en.wikipedia.org/wiki/Kenneth_Lyen",
+        "https://www.mountelizabeth.com.sg/patient-services/specialists/profile/lyen-kenneth-reginald",
+        "https://www.linkedin.com/in/ken-lyen-999b659/",
+        "https://kenlyen.wixsite.com/website"
       ]
     }
   ]

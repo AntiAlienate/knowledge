@@ -210,6 +210,69 @@ Ciudad Autónoma de Buenos Aires · CABA · UBA Facultad de Psicología; APdeBA 
 
 <sub>ID: `ar.velazquez-susana`</sub>
 
+### Carrera de Especialización en Psicología Forense — UBA Facultad de Psicología
+*Posgrado universitario CONEAU-acreditado (Res. 1043/15); 22 cursos, 440 h, 27½ créditos académicos*
+Ciudad Autónoma de Buenos Aires · CABA · Universidad de Buenos Aires, Facultad de Psicología, Secretaría de Posgrado; directora actual Dra. Verónica Llull Casado (Lic. y Esp. en Psicología Forense, UBA; Doctora en Psicología, UBA; coordinadora del Servicio de Peritos de la Facultad de Psicología UBA; investigadora UBACyT)
+
+**Stance:** Entrada institucional re-recuperada en la pasada v2 sustituyendo la ficha errónea 'Centro de Psicología Forense — UBA' (la unidad no es un Centro sino una Carrera de Especialización). La directora Verónica Llull Casado dicta 'Abuso Sexual Infantil y Sexología Forense' como asignatura propia, situando explícitamente el ASI en el currículum forense UBA, marco doctrinario en el que la crítica argentina al SAP se anida (Rozanski, Giberti, Intebi). La especialización forma peritos psicólogos para el Poder Judicial, ámbito en el que el FePRA Pronunciamiento 14.12.2019 y la Defensoría del Pueblo CABA Declaración 25.9.2020 operan como techo deontológico. No posicionamiento institucional UBA-Posgrado específico sobre SAP publicado; clasificación crítica derivada del encuadre curricular ASI-céntrico y de la alineación de la Facultad de Psicología UBA con el polo crítico documentada en la firma del 'pronunciamiento Stolkiner 2020' (Alicia Stolkiner, Facultad de Psicología UBA, firmante SENAF 2020).
+
+**Verification:**
+- <https://www.psi.uba.ar/posgrado.php?var=posgrado2025_2/especializacion/forense/index.php>
+- <https://www.psi.uba.ar/graduados.php?var=posgrado2026/especializacion/forense/index.php>
+- <https://codigo.rec.uba.ar/libro_xiv__psico_/libros-xiv-facultad-de-psicologia/titulo-8-carreras-de-especializacion/capitulo-i-en-psicologia-forense/>
+- <https://www.psi.uba.ar/docentes.php?var=premio/2012/llull.php>
+
+**Contact:** Vía Secretaría de Posgrado psi.uba.ar
+
+*Notes: Verificado vía (i) sitio oficial UBA Facultad de Psicología; (ii) Código UBA Libro XIV Título 8 Cap. I (Res. CS); (iii) acreditación CONEAU Res. 1043/15; (iv) ficha docente psi.uba.ar/docentes confirmando Llull Casado como directora y docente de 'Abuso Sexual Infantil y Sexología Forense'. La unidad orgánica correcta es Carrera de Especialización, no 'Centro'.*
+
+**See also:** `jurisdiction:argentina`, `practitioner:ar.giberti-eva`
+
+<sub>ID: `ar.uba-psicologia-forense`</sub>
+
+### Cátedra II de Psicología Jurídica (código 769) — UBA Facultad de Psicología
+*Asignatura obligatoria de grado, Lic. en Psicología; Titular Prof. Dr. Osvaldo H. Varela; Adjunta Prof. Stella M. Puhl*
+Ciudad Autónoma de Buenos Aires · CABA · Universidad de Buenos Aires, Facultad de Psicología; cátedra docente con sitio institucional propio en psi.uba.ar
+
+**Stance:** Entrada institucional cátedra-nivel re-recuperada en la pasada v2 como reemplazo parcial del registro genérico 'Centro de Psicología Forense'. Cátedra obligatoria de Psicología Jurídica con titular público (Osvaldo H. Varela) y adjunta (Stella Maris Puhl); la bibliografía detallada no es plenamente recuperable desde la página de portada sin acceso al PDF de unidades temáticas, por lo que el contenido PA-específico queda como 'no plenamente verificado en pasada v2'. Clasificación crítica derivada del encuadre institucional (Facultad de Psicología UBA bajo techo FePRA + firma Stolkiner SENAF 2020) y de la centralidad de Puhl en pericial psicológica forense argentina con producción sobre familia y proceso judicial.
+
+**Verification:**
+- <http://www.psi.uba.ar/academica/carrerasdegrado/psicologia/sitios_catedras/obligatorias/769_juridica/index.php?var=presentacion/inicio.php>
+- <http://www.psi.uba.ar/academica/carrerasdegrado/psicologia/sitios_catedras/obligatorias/769_juridica/index.php?var=presentacion/plantel_docente.php>
+
+**Contact:** psijuridicavarela@gmail.com
+
+*Notes: Verificado vía sitio oficial UBA (cátedra 769). Titular y adjunta confirmados públicamente. Bibliografía PA-específica no plenamente abierta en portada; requiere recuperación del PDF de unidades temáticas en próxima pasada.*
+
+**See also:** `jurisdiction:argentina`, `practitioner:ar.uba-psicologia-forense`
+
+<sub>ID: `ar.uba-psicologia-juridica-769`</sub>
+
+### FEIM — Fundación para Estudio e Investigación de la Mujer
+*ONG fundada en 1989; entidad miembro Girls Not Brides y Alianza Global por los Cuidados; consultora CEDAW/ONU*
+Ciudad Autónoma de Buenos Aires · CABA · Fundación para Estudio e Investigación de la Mujer; presidenta histórica Dra. Mabel Bianco (médica, MSc Salud Pública)
+
+**Stance:** Entrada institucional recuperada en la pasada v2 con anclaje PA-específico vía el Informe Sombra CEDAW Argentina 2016 (autoría Mabel Bianco y Cecilia Correa), que en la sección 'Estereotipos y prácticas nocivas' nombra explícitamente al 'falso Síndrome de Alienación Parental (SAP)' como un uso discriminatorio de los operadores judiciales en casos de Abuso Sexual Infantil, sosteniendo que 'lleva a poner en duda la veracidad del abuso y la palabra de niñas y niños' y que el SAP fue 'rechazado por la OMS hace 15 años por no reunir criterios clínicos'. Este es el documento PA-específico que la pasada v1 declaró ausente; v2 lo recupera. FEIM no tiene un documento monográfico anti-SAP separado pero sí una posición CEDAW formalmente registrada. Mabel Bianco no aparece en la lista de firmantes individuales del Pronunciamiento SENAF 2020 (Página/12) — su posición se canaliza institucionalmente vía FEIM, no individual.
+
+**Publications:**
+- Informe Sombra Argentina ante el Comité CEDAW — Estereotipos y Prácticas Nocivas (sección SAP) (2016) — *FEIM (autoras: Mabel Bianco, Cecilia Correa)*
+
+**Verification:**
+- <https://feim.org.ar/>
+- <https://feim.org.ar/publicaciones/>
+- <https://feim.org.ar/2016/10/28/feim-presento-tres-informes-sombra-al-comite-de-onu-que-evaluara-la-situacion-de-los-derechos-de-las-mujeres-en-argentina/>
+- <https://feim.org.ar/2016/10/28/cedaw2016/>
+- <https://feim.org.ar/wp-content/uploads/2019/01/Mabel-Bianco-CV-Espa%C3%B1ol.pdf>
+- <https://es.wikipedia.org/wiki/Fundaci%C3%B3n_para_Estudio_e_Investigaci%C3%B3n_de_la_Mujer>
+
+**Contact:** Vía feim.org.ar
+
+*Notes: Verificado vía sitio institucional feim.org.ar (existencia, fundación, equipo); Wikipedia ES; Idealist; Girls Not Brides member directory; CV oficial Mabel Bianco. Posición PA-específica documentada vía Informe Sombra CEDAW 2016 publicado en feim.org.ar.*
+
+**See also:** `jurisdiction:argentina`
+
+<sub>ID: `ar.feim`</sub>
+
 ## Institutional anchors
 
 ### FePRA — Federación de Psicólogas y Psicólogos de la República Argentina
@@ -347,15 +410,14 @@ Madrid (origen Buenos Aires) · Comunidad de Madrid / origen CABA · Práctica c
 
 ## Excluded (with documented reason)
 
-- **Estela Marcos** — unverifiable — nombre no recuperable desde fuentes primarias como figura clínica argentina específicamente publicada sobre AP/SAP. Posible confusión con otras Estela Marcos no relacionadas con el campo PA argentino.
-- **Lidia Aufranc** — unverifiable — nombre no recuperable desde fuentes primarias como autora argentina sobre AP/SAP con sitio profesional o publicación con URL verificable.
-- **Nora Rodríguez** — unverifiable — nombre demasiado ambiguo (múltiples profesionales argentinas y españolas); no se localiza una Nora Rodríguez argentina con producción específica sobre AP/SAP confirmable vía fuente primaria. Probable confusión con la pedagoga Nora Rodríguez (Barcelona) sobre infancia.
-- **AAPS — Asociación Argentina de Profesionales de la Salud Mental (San Juan)** — unverifiable — el acrónimo AAPS no se localiza como entidad sanjuanina con sitio institucional, publicación o posición pública sobre AP/SAP. Las entidades retrievables en el espacio recognition-camp argentino son CEAP Argentina (CABA), APADESHI (CABA, José María Bouza) e instituciones provinciales no documentadas públicamente sobre AP.
-- **Centro de Atención de Familias en Conflicto** — unverifiable — el nombre genérico aparece asignado a múltiples dispositivos provinciales y privados; no se localiza una entidad nacional única con sitio institucional y posición pública verificable sobre AP/SAP que pueda funcionar como entrada institucional.
-- **FEIM — Fundación para Estudio e Investigación de la Mujer** — unverifiable PA-specific position — FEIM (Mabel Bianco) es una entidad activa y verificable (feim.org.ar) en derechos sexuales y reproductivos y violencia de género, pero no se localiza un posicionamiento institucional propio específicamente sobre SAP/AP con URL primaria. Su trabajo se cita habitualmente en el marco general crítico pero sin documento PA-específico.
-- **Mediación Familiar Argentina (MFA)** — unverifiable as single entity — la mediación familiar en Argentina opera vía la Ley 24.573 (mediación obligatoria previa) y los Centros de Mediación del Ministerio de Justicia + colegios profesionales; no existe una entidad nacional única 'MFA' con sitio y posición pública sobre AP/SAP verificable.
+- **Estela Marcos** — v2 unverifiable — sin hit en LinkedIn argentino, ResearchGate, sitios de cátedras UBA, ni en la lista de firmantes del Pronunciamiento SENAF 2020 (Página/12 273858). Las únicas 'Estela' argentinas en psicología recuperables son Estela María Martínez Luna (Palermo, sin perfil PA) y Lic. Estela Chardón (perinatal), ninguna coincidente. Posible confusión con homónimos no argentinos o nombre mal transcrito; no recuperable como figura PA-activa.
+- **Lidia Aufranc** — v2 unverifiable — sin hit en LinkedIn argentino, ResearchGate, APdeBA directorio, ni en sitios de cátedras UBA. Los hits 'Aufranc' Argentina son (i) Gral. Alcides López Aufranc (militar fallecido), (ii) Patricia López Aufranc (abogada Marval — ya explícitamente excluida en la query), (iii) homónimos no relacionados con el campo PA. Probable confusión con 'López Aufranc'. No recuperable como psicóloga argentina PA-activa.
+- **Nora Rodríguez** — v2 unverifiable — el nombre es demasiado común. Sin hit como psicóloga argentina con producción PA-específica en LinkedIn AR, ResearchGate AR, sitios UBA, ni en firmantes SENAF 2020. La única Nora Rodríguez recuperable en discurso PA-adyacente es la pedagoga Nora Rodríguez (Barcelona, guiainfantil.com), ya descartada en la query. Posible confusión con 'Nora Caminoa' (psicóloga argentina en familia) que sí tiene sitio noracaminoa.com pero apellido diferente.
+- **AAPS — Asociación Argentina de Profesionales de la Salud Mental (San Juan)** — v2 unverifiable — la entidad sanjuanina recuperable es la 'Asociación Sanjuanina de Psiquiatras' (Facebook ASPsiquiatras), no una 'AAPS'. La Asociación Sanjuanina de Psiquiatras no tiene posicionamiento PA-específico publicado. No se localiza sitio institucional, declaración o publicación que valide 'AAPS San Juan' como entidad PA-activa.
+- **Centro de Atención de Familias en Conflicto** — v2 unverifiable as discrete entity — la entidad nacional de mediación familiar oficial en Argentina es el 'Centro de Prevención y Resolución de Conflictos' (Ministerio de Justicia, Dirección de Mediación), no un 'Centro de Atención de Familias en Conflicto'. Nombre genérico aplicado a múltiples dispositivos provinciales sin entidad única verificable con posición PA. CABA tiene 'Centros de Acción Familiar' (programa infancia, no PA).
+- **Mediación Familiar Argentina (MFA)** — v2 unverifiable as discrete national entity — la mediación familiar argentina opera vía Ley 24.573 (mediación obligatoria) + Centros de Mediación del Ministerio de Justicia + colegios profesionales. No existe entidad nacional única 'MFA' con sitio, registro o declaración PA-específica. El acrónimo no devuelve registro institucional verificable.
 - **Centro de Psicología Forense — UBA Facultad de Psicología** — unverifiable as discrete unit — la formación en psicología forense en UBA opera vía cátedras y posgrados (Cátedra II 'Rol del Psicólogo', maestrías) más que como un 'Centro' institucional con sitio propio y posición específica sobre AP/SAP. Cátedras individuales sí incluyen Rozanski en bibliografía obligatoria (verificado vía documento UBA psi.uba.ar).
-- **Sonia Vaccaro (entrada primaria duplicada)** — duplicate — entrada primaria bajo Spain (practitioner:es.vaccaro-sonia). Incluida en este archivo como entrada cross-jurisdictional separada (ar.vaccaro-sonia-cross) para preservar el anclaje argentino-en-diáspora sin duplicar la ficha principal.
+- **Sonia Vaccaro (entrada primaria duplicada)** — v2 sin cambio — entrada primaria bajo Spain (practitioner:es.vaccaro-sonia). Cross-linked vía ar.vaccaro-sonia-cross en archivo activo.
 
 
 ---

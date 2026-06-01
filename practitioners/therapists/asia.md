@@ -307,25 +307,46 @@ Tokyo · Japan · JAFT — Japanese Association of Family Therapy; co-organiser 
 
 <sub>ID: `jp.jaft`</sub>
 
+### Hong Kong Council of Social Service (HKCSS) — 香港社會服務聯會
+*Founded 1947; statutory body under the Hong Kong Council of Social Service Incorporation Ordinance Cap. 1057; peak umbrella body for ~520 agency members in the Hong Kong social-welfare sector; Centre for Excellence in NGO Governance; convener of multi-sector practice frameworks*
+Hong Kong · Hong Kong SAR · HKCSS; convener role across HKFWS, Caritas, ISS-HK, St James' Settlement and other SWD-funded family-service NGOs operating the five SWD Specialised Co-parenting Support Centres
+
+**Stance:** EXISTENCE + SCOPE verified via HKCSS official website (hkcss.org.hk) two corroborating practice articles: 'Use of Parental Responsibility Model in Helping Divorced Families' and 'Capacity Training for Social Service Professionals: Understanding the Children Proceedings (Parental Responsibility) Bill for Separated / Divorcing / Divorced Parents', plus the HKCSS Centre for Excellence reference c4e.hkcss.org.hk page on family practice. HKCSS engages the PA-adjacent debate at the institutional umbrella level: explicit support for Parental Responsibility Model adoption (post LRC HK 2005 report), explicit naming of 'triangulation of children' and 'children being asked to take side when the parents argue' as harmful conflict-dynamics requiring social-work intervention, and capacity-training coordination for the social-service workforce on the Children Proceedings (Parental Responsibility) Bill (first floated 2015, revisited LegCo 2024). HKCSS does NOT adopt the parental-alienation construct as a clinical-syndromal label and does NOT take a public position on PAS recognition. Classified institutional (umbrella body) — navigational reference rather than partisan recognition or critique anchor. Operational PA-adjacent delivery sits at HKFWS PCC (entry hk.hkfws-pcc when present) and the other four SWD Specialised Co-parenting Support Centres rather than at HKCSS umbrella level. Country_code: HK.
+
+**Publications:**
+- Use of Parental Responsibility Model in Helping Divorced Families (2020) — *HKCSS Family Service Development Committee*
+- Capacity Training for Social Service Professionals: Understanding the Children Proceedings (Parental Responsibility) Bill (2024) — *HKCSS*
+- Facing the Challenge of Family Breakdown (2018) — *HKCSS*
+
+**Verification:**
+- <https://www.hkcss.org.hk/use-of-parental-responsibility-model-in-helping-divorced-families/?lang=en>
+- <https://www.hkcss.org.hk/capacity-training-for-social-service-professionals-understanding-the-children-proceedings-parental-responsibility-bill-for-separated-divorcing-divorced-parents/?lang=en>
+- <https://www.hkcss.org.hk/facing-the-challenge-of-family-breakdown-english-version-only/?lang=en>
+- <http://c4e.hkcss.org.hk/eng/reference-detail.php?n=4&c=753>
+
+**Contact:** Hong Kong Council of Social Service, 13/F, Duke of Windsor Social Service Building, 15 Hennessy Road, Wan Chai, Hong Kong; via hkcss.org.hk general enquiries
+
+*Notes: Institutional umbrella body — recovery on broader-source pass clears the two-source EXISTENCE + SCOPE bar via HKCSS official site (2+ corroborating practice articles) + Centre for Excellence c4e.hkcss.org.hk reference. SCOPE established: HKCSS engages the parental-responsibility-model debate and explicitly names children-triangulation as a harmful conflict dynamic, but does NOT adopt PAS as a clinical-syndromal label. Classified institutional (umbrella body) — clear scope statement rather than fabricated PA-specific position.*
+
+**See also:** `jurisdiction:asia`
+
+<sub>ID: `hk.hkcss`</sub>
+
 ## Excluded (with documented reason)
 
-- **Dr Akiko J. Ohnogi, PsyD (Clinical Psychology CSPP San Diego)** — Unverifiable PA stance. Verified independent clinical psychologist and play therapist Tokyo private practice (since 2000); JAPT Co-founder and Board Director; IC-PTA Co-founder; former IMHPJ Board member. Practice site, IMHPJ directory, and About page do NOT mention parental alienation, divorce work, custody evaluation, or court-related services. Japan 公認心理師 / 臨床心理士 status not publicly displayed. Listed in v1 as not_publicly_confirmed; excluded in v2 per /CONTRIBUTING.md primary-sources standard. Cross-flag from Asia lawyers file as most-named Tokyo expat clinical psychologist; retained as exclusion entry for navigational completeness.
-  - Primary source: <https://dr-ohnogi.com/>
 - **Dr Eyon Kim (Singapore)** — Unverifiable. No Singapore psychologist by this name with a PA stance located via SRP, named press, peer-reviewed databases, or practice sites. Carried from v1 excluded_could_not_verify.
 - **Dr Lisa Lim (Singapore)** — Unverifiable. Multiple candidates with surname Lim (June Lim, Carolyn Lim, Lisa Tang) but no Singapore psychologist exactly named 'Lisa Lim' with PA stance located. Carried from v1 excluded_could_not_verify.
-- **Dr Kenneth Lyen (Mount Elizabeth Singapore paediatrician)** — Out-of-scope. Verified consultant paediatrician (endocrinology / neurology / infectious disease); no PA work located. Carried from v1 excluded_could_not_verify.
-  - Primary source: <https://www.mountelizabeth.com.sg/patient-services/specialists/profile/lyen-kenneth-reginald>
 - **CFSAPS / SAFCC (Singapore)** — Unverifiable. Neither acronym verified against MSF / FJC / FSC directory; closest verified institutional entries are FJC CAPS / CFS (entry sg.fjc-caps) and MSF Strengthening Families @ FSC network. Carried from v1 excluded_could_not_verify.
 - **Dr Patrick Wong (Hong Kong)** — Unverifiable. Multiple HK academics named Patrick (Patrick Leung CUHK psychology; Patrick C.M. Wong CUHK linguistics / cognitive science) but no HK clinical psychologist named 'Patrick Wong' with sourced PA stance located. Carried from v1 excluded_could_not_verify.
 - **Dr Charlotte Mok (Hong Kong)** — Unverifiable. No HK clinical psychologist named 'Charlotte Mok' with PA-specific work located; nearest match Charlotte Wong (Counselling Psychologist HK / Registered Psychotherapist Ontario) without PA-specific stance. Carried from v1 excluded_could_not_verify.
 - **Akin Chan IFS Hong Kong** — Unverifiable. No IFS-trained therapist named 'Akin Chan' in Hong Kong located via IFS Institute directory; HK IFS Level-3 practitioner via that directory is Jo Chan; other HK IFS practitioners lack PA-specific stance. Carried from v1 excluded_could_not_verify.
   - Primary source: <https://ifs-institute.com/practitioners/all/96569>
-- **Hong Kong Council of Social Service (HKCSS)** — Out-of-scope / institutional duplication. Verified peak HK social-service umbrella body; operational PA-adjacent delivery sits at HKFWS (entry hk.hkfws-pcc) and other SWD Specialised Co-parenting Support Centres rather than at HKCSS umbrella level. Carried from v1 excluded_could_not_verify.
 - **Dr Akira Naito (Doshisha clinical psychology, Japan)** — Unverifiable. No Japan clinical psychologist named 'Akira Naito' at Doshisha with sourced PA stance located via Doshisha faculty pages, J-STAGE, or named press. Carried from v1 excluded_could_not_verify.
 - **Dr Hiroshi Saito (Tokyo Children Hospital, Japan)** — Unverifiable. No Japan child psychiatrist by this name with sourced PA stance located; closest namesake is Tamaki Saitō (hikikomori specialist, different sub-field). Carried from v1 excluded_could_not_verify.
 - **Japan Society of Family Court Counselors** — Unverifiable. No Japanese institutional body by this exact name verified; closest verified bodies are JAFT (entry jp.jaft, excluded) and the in-house Family Court Investigator (家庭裁判所調査官) corps within the Supreme Court of Japan structure. Carried from v1 excluded_could_not_verify.
-- **Dr Akemi Tomoda (University of Fukui)** — Out-of-scope. Verified Professor & Director Research Center for Child Mental Development University of Fukui; AMED-BIRTHDAY and JST Moonshot child-maltreatment-brain-research PI. PA-adjacent (child maltreatment / brain) but no PA-specific publication or stance located. Carried from v1 excluded_could_not_verify.
-  - Primary source: <https://www.researchgate.net/profile/Akemi-Tomoda>
+- **Dr Akiko J. Ohnogi, PsyD (Clinical Psychology, CSPP — California School of Professional Psychology San Diego)** — v2 broader-source pass (LinkedIn + practice site + university bio + ResearchGate) verified EXISTENCE + AFFILIATION but practice/research scope is structurally outside the parental-alienation construct (no custody evaluation, no forensic family-court work, no PA-specific publication, no named-press PA position). Verifiable practitioner whose scope sits adjacent to but not within the PA register. EXISTENCE + AFFILIATION verified via IMHPJ directory profile + dr-ohnogi
+- **Prof Akemi Tomoda, MD, PhD** — v2 broader-source pass (LinkedIn + practice site + university bio + ResearchGate) verified EXISTENCE + AFFILIATION but practice/research scope is structurally outside the parental-alienation construct (no custody evaluation, no forensic family-court work, no PA-specific publication, no named-press PA position). Verifiable practitioner whose scope sits adjacent to but not within the PA register. EXISTENCE + AFFILIATION verified via University of Fukui official research site + ResearchGate profile + Google Scholar profile + Nature Scientific Reports / EurekAlert! / Technology Networks coverage of the Nishitani-Tomoda epigenetic-scars work
+- **Dr Kenneth Reginald Lyen, MBBS Oxford, FRCP, FRCPCH** — v2 broader-source pass (LinkedIn + practice site + university bio + ResearchGate) verified EXISTENCE + AFFILIATION but practice/research scope is structurally outside the parental-alienation construct (no custody evaluation, no forensic family-court work, no PA-specific publication, no named-press PA position). Verifiable practitioner whose scope sits adjacent to but not within the PA register. EXISTENCE + AFFILIATION verified via Wikipedia bio + Mount Elizabeth Hospital official specialist profile + LinkedIn (Ken Lyen / U Oxford Singapore) + personal website (kenlyen
 
 
 ---
