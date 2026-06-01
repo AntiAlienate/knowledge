@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-01T21:26:03Z",
+  "generated": "2026-06-01T21:53:49Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 27,
+    "jurisdictions": 28,
     "evidence_pages": 0
   },
   "indexes": {
@@ -186,6 +186,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "NZ",
       "name": "New Zealand (Aotearoa)"
+    },
+    {
+      "id": "nigeria",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nigeria.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nigeria.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "NG",
+      "name": "Nigeria"
     },
     {
       "id": "northern-ireland",
