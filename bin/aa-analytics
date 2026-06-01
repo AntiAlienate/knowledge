@@ -1,0 +1,542 @@
+#!/usr/bin/env python3
+"""Generate a self-contained analytics.html dashboard from the JSON corpus.
+
+No external CSS/JS deps; everything inlined. Walks practitioners/index.json,
+case-studies/index.json, jurisdiction JSON sidecars, and the manifest, then
+emits a sortable browsable HTML at the path given by --out (default
+analytics.html at the repo root).
+
+Run from repo root (or set AA_REPO_ROOT). Re-run any time content changes.
+"""
+from __future__ import annotations
+
+import argparse
+import datetime
+import html
+import json
+import os
+import pathlib
+import sys
+
+REPO_ROOT = pathlib.Path(os.environ.get("AA_REPO_ROOT", pathlib.Path.cwd()))
+PRACTITIONERS = REPO_ROOT / "practitioners"
+CASE_STUDIES = REPO_ROOT / "case-studies"
+JURISDICTIONS = REPO_ROOT / "jurisdictions"
+RAW_BASE = "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main"
+SITE_BASE = "https://github.com/AntiAlienate/antialienate-knowledge/blob/main"
+
+
+def load_json(p: pathlib.Path) -> dict | None:
+    try:
+        return json.loads(p.read_text())
+    except Exception:
+        return None
+
+
+def gather() -> dict:
+    data: dict = {
+        "generated": datetime.datetime.utcnow().isoformat() + "Z",
+        "therapists": [],
+        "lawyers": [],
+        "cases": [],
+        "jurisdictions": [],
+    }
+    # Practitioners
+    for kind, target in (("therapists", "therapists"), ("lawyers", "lawyers")):
+        d = PRACTITIONERS / target
+        if not d.exists():
+            continue
+        for f in sorted(d.glob("*.json")):
+            if f.name in {"index.json", "manifest.json"}:
+                continue
+            j = load_json(f)
+            if not j or j.get("schema_version") != "2.0":
+                continue
+            data[kind].append({
+                "country": j.get("country"),
+                "country_code": j.get("country_code"),
+                "entries": j.get("entries", []),
+                "excluded": j.get("excluded", []),
+                "structural_findings": j.get("structural_findings", []),
+                "file": f"practitioners/{target}/{f.name}",
+            })
+    # Case studies
+    if CASE_STUDIES.exists():
+        for f in sorted(CASE_STUDIES.glob("*.json")):
+            if f.name in {"index.json", "manifest.json"}:
+                continue
+            j = load_json(f)
+            if not j:
+                continue
+            data["cases"].append({
+                "slug": j.get("slug"),
+                "caption": j.get("caption"),
+                "ecli": j.get("ecli"),
+                "neutral_citation": j.get("neutral_citation"),
+                "jurisdiction_code": j.get("jurisdiction_code"),
+                "decision_date": j.get("decision_date"),
+                "court": j.get("court"),
+                "panel": j.get("panel"),
+                "judges": j.get("judges", []),
+                "counsel": j.get("counsel", []),
+                "experts": j.get("experts", []),
+                "summary": j.get("summary"),
+                "holding": j.get("holding"),
+                "outcome": j.get("outcome"),
+                "verbatim_quotes": j.get("verbatim_quotes", []),
+                "sources": j.get("sources", []),
+                "references": j.get("references", []),
+                "comparative_jurisprudence": j.get("comparative_jurisprudence", []),
+                "subsequent_reception": j.get("subsequent_reception", []),
+                "editorial_notes": j.get("editorial_notes", []),
+                "file": f"case-studies/{f.name}",
+            })
+    # Jurisdictions
+    if JURISDICTIONS.exists():
+        for f in sorted(JURISDICTIONS.glob("*.json")):
+            if f.name in {"index.json", "manifest.json"}:
+                continue
+            j = load_json(f)
+            if not j:
+                continue
+            data["jurisdictions"].append({
+                "id": j.get("id"),
+                "name": j.get("name"),
+                "jurisdiction_code": j.get("jurisdiction_code"),
+                "legal_system": j.get("legal_system"),
+                "summary": j.get("summary"),
+                "pa_recognition_status": j.get("pa_recognition_status", {}),
+                "statutory_framework": j.get("statutory_framework", []),
+                "apex_courts": j.get("apex_courts", []),
+                "professional_regulators": j.get("professional_regulators", []),
+                "key_developments": j.get("key_developments", []),
+                "structural_findings": j.get("structural_findings", []),
+                "references": j.get("references", []),
+                "file": f"jurisdictions/{f.name}",
+            })
+    return data
+
+
+def esc(s) -> str:
+    return html.escape("" if s is None else str(s))
+
+
+CSS = """
+* { box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; line-height: 1.5; color: #1a1a1a; margin: 0; padding: 0; background: #fafafa; }
+header { background: #1a1a2e; color: #fff; padding: 24px 40px; }
+header h1 { margin: 0 0 6px; font-size: 22px; font-weight: 600; }
+header .meta { color: #aab; font-size: 13px; }
+nav { background: #fff; border-bottom: 1px solid #e0e0e8; padding: 0 40px; position: sticky; top: 0; z-index: 10; }
+nav a { display: inline-block; padding: 12px 18px; color: #444; text-decoration: none; font-size: 14px; font-weight: 500; border-bottom: 3px solid transparent; }
+nav a:hover { background: #f4f4f8; }
+nav a.active { border-bottom-color: #4a4ade; color: #1a1a2e; }
+main { max-width: 1400px; margin: 0 auto; padding: 32px 40px; }
+section { background: #fff; border-radius: 8px; padding: 24px; margin-bottom: 24px; box-shadow: 0 1px 3px rgba(0,0,0,0.04); }
+section h2 { margin: 0 0 16px; font-size: 18px; color: #1a1a2e; border-bottom: 2px solid #f0f0f4; padding-bottom: 8px; }
+.kpi-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; margin-top: 12px; }
+.kpi { background: linear-gradient(135deg, #4a4ade 0%, #6e5ee8 100%); color: #fff; border-radius: 8px; padding: 18px; }
+.kpi .label { font-size: 12px; opacity: 0.85; text-transform: uppercase; letter-spacing: 0.5px; }
+.kpi .value { font-size: 32px; font-weight: 700; margin-top: 4px; }
+.kpi .sub { font-size: 12px; opacity: 0.75; margin-top: 4px; }
+.kpi.alt { background: linear-gradient(135deg, #1a1a2e 0%, #2d2d44 100%); }
+table { width: 100%; border-collapse: collapse; font-size: 13px; }
+th, td { text-align: left; padding: 8px 10px; border-bottom: 1px solid #f0f0f4; vertical-align: top; }
+th { background: #f7f7fa; font-weight: 600; color: #444; cursor: pointer; user-select: none; }
+th:hover { background: #efeff5; }
+tr:hover td { background: #fafaff; }
+.tag { display: inline-block; padding: 2px 8px; border-radius: 4px; font-size: 11px; font-weight: 500; margin-right: 4px; }
+.tag.recognition { background: #ffe4cc; color: #a04500; }
+.tag.critique { background: #d4e8ff; color: #0050a0; }
+.tag.middle { background: #f0f0f4; color: #555; }
+.tag.institutional { background: #ddeedd; color: #2d6a2d; }
+.tag.forensic-evaluator { background: #f8d7e8; color: #802855; }
+.tag.cross-jurisdictional { background: #fff4d0; color: #8a6b00; }
+.tag.excluded { background: #ffdddd; color: #a02020; }
+.code { font-family: ui-monospace, SFMono-Regular, "Cascadia Mono", Menlo, Consolas, monospace; font-size: 12px; background: #f4f4f8; padding: 1px 6px; border-radius: 3px; }
+a.entity-link { color: #4a4ade; text-decoration: none; }
+a.entity-link:hover { text-decoration: underline; }
+details { margin: 8px 0; }
+details summary { cursor: pointer; font-weight: 500; padding: 4px 0; }
+details > * + * { margin-top: 8px; }
+.filter-bar { background: #f7f7fa; padding: 12px; border-radius: 6px; margin-bottom: 12px; }
+.filter-bar input[type=search] { padding: 6px 10px; font-size: 13px; border: 1px solid #ddd; border-radius: 4px; width: 100%; max-width: 400px; }
+.warn { background: #fff8e8; border-left: 4px solid #d4a020; padding: 12px; border-radius: 4px; margin: 10px 0; font-size: 13px; }
+.exclusion-row { background: #fff5f5 !important; }
+footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border-top: 1px solid #e0e0e8; margin-top: 40px; }
+"""
+
+JS = """
+function sortTable(tableId, col) {
+  var t = document.getElementById(tableId);
+  var rows = Array.from(t.querySelectorAll('tbody tr'));
+  var asc = t.dataset.sortCol != col || t.dataset.sortDir == 'desc';
+  rows.sort(function(a, b) {
+    var av = a.cells[col].dataset.sort || a.cells[col].innerText;
+    var bv = b.cells[col].dataset.sort || b.cells[col].innerText;
+    var an = parseFloat(av), bn = parseFloat(bv);
+    if (!isNaN(an) && !isNaN(bn)) { return asc ? an - bn : bn - an; }
+    return asc ? av.localeCompare(bv) : bv.localeCompare(av);
+  });
+  rows.forEach(function(r) { t.querySelector('tbody').appendChild(r); });
+  t.dataset.sortCol = col; t.dataset.sortDir = asc ? 'asc' : 'desc';
+}
+function filterTable(tableId, q) {
+  q = q.toLowerCase();
+  document.querySelectorAll('#' + tableId + ' tbody tr').forEach(function(r) {
+    r.style.display = r.innerText.toLowerCase().indexOf(q) > -1 ? '' : 'none';
+  });
+}
+function showTab(id) {
+  document.querySelectorAll('main > section').forEach(function(s) { s.style.display = 'none'; });
+  document.querySelectorAll('nav a').forEach(function(a) { a.classList.remove('active'); });
+  document.getElementById(id).style.display = 'block';
+  document.querySelector('nav a[href="#' + id + '"]').classList.add('active');
+  window.scrollTo(0, 0);
+}
+window.addEventListener('load', function() {
+  showTab(location.hash ? location.hash.slice(1) : 'overview');
+});
+window.addEventListener('hashchange', function() { showTab(location.hash.slice(1) || 'overview'); });
+"""
+
+
+def stance_tag(stance: str) -> str:
+    return f'<span class="tag {esc(stance)}">{esc(stance)}</span>'
+
+
+def country_table_row(country_obj: dict, kind: str) -> str:
+    cc = esc(country_obj["country_code"])
+    name = esc(country_obj["country"])
+    entries = country_obj["entries"]
+    excluded = country_obj["excluded"]
+    stance_counts = {}
+    for e in entries:
+        s = e.get("stance", "—")
+        stance_counts[s] = stance_counts.get(s, 0) + 1
+    stance_html = " ".join(stance_tag(s) + f"<b>{n}</b>" for s, n in sorted(stance_counts.items(), key=lambda x: -x[1]))
+    file_link = f'<a href="{SITE_BASE}/{country_obj["file"]}" class="entity-link">📄</a>'
+    return (
+        f'<tr><td><b>{name}</b></td>'
+        f'<td><span class="code">{cc}</span></td>'
+        f'<td data-sort="{len(entries)}">{len(entries)}</td>'
+        f'<td data-sort="{len(excluded)}">{len(excluded)}</td>'
+        f'<td>{stance_html}</td>'
+        f'<td>{file_link}</td></tr>'
+    )
+
+
+def practitioner_entry_row(e: dict, country_code: str, kind: str) -> str:
+    name = esc(e.get("name", "—"))
+    creds = esc(e.get("credentials", ""))
+    city = esc(e.get("city", ""))
+    affil = esc(e.get("affiliation", ""))
+    stance = e.get("stance", "—")
+    sn = esc((e.get("stance_notes") or "")[:280])
+    pubs = len(e.get("publications", []))
+    urls = len(e.get("urls", []))
+    refs = len(e.get("references", []))
+    eid = esc(e.get("id", ""))
+    return (
+        f'<tr><td><b>{name}</b><br><span style="color:#888;font-size:11px">{creds}</span></td>'
+        f'<td><span class="code">{esc(country_code)}</span></td>'
+        f'<td>{city}<br><span style="color:#888;font-size:11px">{affil}</span></td>'
+        f'<td>{stance_tag(stance)}<br><span style="color:#666;font-size:11px">{sn}</span></td>'
+        f'<td data-sort="{pubs}">{pubs}</td>'
+        f'<td data-sort="{urls}">{urls}</td>'
+        f'<td data-sort="{refs}">{refs}</td>'
+        f'<td><span class="code">{eid}</span></td></tr>'
+    )
+
+
+def excluded_entry_row(e: dict, country_code: str) -> str:
+    src_url = e.get("primary_source_url") or ""
+    src_link = f'<a class="entity-link" href="{esc(src_url)}">source</a>' if src_url else ""
+    return (
+        f'<tr class="exclusion-row"><td><b>{esc(e.get("name", "—"))}</b></td>'
+        f'<td><span class="code">{esc(country_code)}</span></td>'
+        f'<td>{esc((e.get("exclusion_reason") or "")[:400])}</td>'
+        f'<td>{src_link}</td></tr>'
+    )
+
+
+def case_row(c: dict) -> str:
+    slug = esc(c.get("slug", ""))
+    cap = esc((c.get("caption") or "")[:120])
+    jc = esc(c.get("jurisdiction_code", "?"))
+    date = esc(c.get("decision_date", "????-??-??"))
+    court = esc((c.get("court") or "")[:80])
+    file = c.get("file", "")
+    return (
+        f'<tr><td>{date}</td>'
+        f'<td><span class="code">{jc}</span></td>'
+        f'<td><b>{cap}</b><br><span style="color:#888;font-size:11px">{court}</span></td>'
+        f'<td data-sort="{len(c.get("judges",[]))}">{len(c.get("judges",[]))}</td>'
+        f'<td data-sort="{len(c.get("counsel",[]))}">{len(c.get("counsel",[]))}</td>'
+        f'<td data-sort="{len(c.get("verbatim_quotes",[]))}">{len(c.get("verbatim_quotes",[]))}</td>'
+        f'<td data-sort="{len(c.get("sources",[]))}">{len(c.get("sources",[]))}</td>'
+        f'<td data-sort="{len(c.get("references",[]))}">{len(c.get("references",[]))}</td>'
+        f'<td><a href="{SITE_BASE}/{esc(file)}" class="entity-link">📄</a></td></tr>'
+    )
+
+
+def jurisdiction_row(j: dict) -> str:
+    return (
+        f'<tr><td><b>{esc(j.get("name", "—"))}</b></td>'
+        f'<td><span class="code">{esc(j.get("jurisdiction_code", "?"))}</span></td>'
+        f'<td>{esc(j.get("legal_system", "—"))}</td>'
+        f'<td>{esc(j.get("pa_recognition_status", {}).get("statutory", "—"))}</td>'
+        f'<td>{esc(j.get("pa_recognition_status", {}).get("apex_court_position", "—"))}</td>'
+        f'<td>{esc(j.get("pa_recognition_status", {}).get("professional_regulator_position", "—"))}</td>'
+        f'<td data-sort="{len(j.get("statutory_framework",[]))}">{len(j.get("statutory_framework",[]))}</td>'
+        f'<td data-sort="{len(j.get("apex_courts",[]))}">{len(j.get("apex_courts",[]))}</td>'
+        f'<td data-sort="{len(j.get("professional_regulators",[]))}">{len(j.get("professional_regulators",[]))}</td>'
+        f'<td><a href="{SITE_BASE}/{esc(j.get("file",""))}" class="entity-link">📄</a></td></tr>'
+    )
+
+
+def render_html(data: dict) -> str:
+    # KPIs
+    t_ver = sum(len(c["entries"]) for c in data["therapists"])
+    t_exc = sum(len(c["excluded"]) for c in data["therapists"])
+    l_ver = sum(len(c["entries"]) for c in data["lawyers"])
+    l_exc = sum(len(c["excluded"]) for c in data["lawyers"])
+    cases = len(data["cases"])
+    juris = len(data["jurisdictions"])
+    total_judges = sum(len(c.get("judges", [])) for c in data["cases"])
+    total_counsel = sum(len(c.get("counsel", [])) for c in data["cases"])
+    total_experts = sum(len(c.get("experts", [])) for c in data["cases"])
+    total_verbatim = sum(len(c.get("verbatim_quotes", [])) for c in data["cases"])
+    total_sources = sum(len(c.get("sources", [])) for c in data["cases"])
+    total_edges = sum(len(c.get("references", [])) for c in data["cases"]) + \
+                  sum(len(e.get("references", [])) for c in data["therapists"] for e in c["entries"]) + \
+                  sum(len(e.get("references", [])) for c in data["lawyers"] for e in c["entries"]) + \
+                  sum(len(j.get("references", [])) for j in data["jurisdictions"])
+    total_nodes = (t_ver + l_ver) + cases + juris
+    statutes = sum(len(j.get("statutory_framework", [])) for j in data["jurisdictions"])
+    apex_decisions = sum(len(ac.get("key_decisions", [])) for j in data["jurisdictions"] for ac in j.get("apex_courts", []))
+    regulators = sum(len(j.get("professional_regulators", [])) for j in data["jurisdictions"])
+
+    # Country tables (sorted by entries)
+    t_country_rows = "\n".join(country_table_row(c, "therapists") for c in sorted(data["therapists"], key=lambda x: -len(x["entries"])))
+    l_country_rows = "\n".join(country_table_row(c, "lawyers") for c in sorted(data["lawyers"], key=lambda x: -len(x["entries"])))
+    j_rows = "\n".join(jurisdiction_row(j) for j in sorted(data["jurisdictions"], key=lambda x: x.get("name", "")))
+    case_rows = "\n".join(case_row(c) for c in sorted(data["cases"], key=lambda x: x.get("decision_date") or ""))
+
+    # All therapist entries (flat)
+    t_entry_rows = ""
+    for c in data["therapists"]:
+        for e in c["entries"]:
+            t_entry_rows += practitioner_entry_row(e, c["country_code"], "therapists") + "\n"
+    l_entry_rows = ""
+    for c in data["lawyers"]:
+        for e in c["entries"]:
+            l_entry_rows += practitioner_entry_row(e, c["country_code"], "lawyers") + "\n"
+
+    # All exclusions
+    exc_rows = ""
+    for c in data["therapists"]:
+        for e in c["excluded"]:
+            exc_rows += excluded_entry_row(e, c["country_code"]) + "\n"
+    for c in data["lawyers"]:
+        for e in c["excluded"]:
+            exc_rows += excluded_entry_row(e, c["country_code"]) + "\n"
+
+    return f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>AntiAlienate Knowledge — Analytics</title>
+<style>{CSS}</style>
+</head>
+<body>
+<header>
+  <h1>AntiAlienate Knowledge — Analytics Dashboard</h1>
+  <div class="meta">Generated {esc(data['generated'])} · CC BY 4.0 · <a href="{SITE_BASE}" style="color:#aac">github.com/AntiAlienate/antialienate-knowledge</a> · <a href="{RAW_BASE}/manifest.json" style="color:#aac">manifest.json</a></div>
+</header>
+<nav>
+  <a href="#overview">Overview</a>
+  <a href="#therapists">Therapists ({t_ver})</a>
+  <a href="#lawyers">Lawyers ({l_ver})</a>
+  <a href="#cases">Cases ({cases})</a>
+  <a href="#jurisdictions">Jurisdictions ({juris})</a>
+  <a href="#exclusions">Exclusions ({t_exc + l_exc})</a>
+</nav>
+<main>
+
+<section id="overview">
+  <h2>At a glance</h2>
+  <div class="kpi-grid">
+    <div class="kpi"><div class="label">Verified people / orgs</div><div class="value">{t_ver + l_ver}</div><div class="sub">{t_ver} therapists + {l_ver} lawyers</div></div>
+    <div class="kpi"><div class="label">Case studies (JSON)</div><div class="value">{cases}</div><div class="sub">Across {len(set(c.get('jurisdiction_code') for c in data['cases']))} jurisdictions</div></div>
+    <div class="kpi"><div class="label">Jurisdictions (full)</div><div class="value">{juris}</div><div class="sub">Statute + apex + regulator</div></div>
+    <div class="kpi alt"><div class="label">Documented exclusions</div><div class="value">{t_exc + l_exc}</div><div class="sub">With reasons + sources</div></div>
+    <div class="kpi alt"><div class="label">Verbatim court quotes</div><div class="value">{total_verbatim}</div><div class="sub">Original lang + translation</div></div>
+    <div class="kpi alt"><div class="label">Footnote sources cited</div><div class="value">{total_sources}</div><div class="sub">Across all cases</div></div>
+  </div>
+  <div style="margin-top:24px;">
+    <h3 style="margin:0 0 8px;font-size:14px;color:#444">Knowledge graph</h3>
+    <table style="max-width:600px">
+      <tr><th>Total nodes</th><td><b>{total_nodes}</b> (entries + cases + jurisdictions)</td></tr>
+      <tr><th>Total edges</th><td><b>{total_edges}</b> cross-references between entities</td></tr>
+      <tr><th>Avg edges/node</th><td><b>{total_edges/max(total_nodes,1):.1f}</b></td></tr>
+      <tr><th>Named judges</th><td>{total_judges} (across {cases} cases)</td></tr>
+      <tr><th>Named counsel</th><td>{total_counsel}</td></tr>
+      <tr><th>Named experts</th><td>{total_experts} (anonymised where court did)</td></tr>
+      <tr><th>Statutes cited</th><td>{statutes} (across {juris} jurisdictions)</td></tr>
+      <tr><th>Apex decisions indexed</th><td>{apex_decisions}</td></tr>
+      <tr><th>Professional regulators</th><td>{regulators}</td></tr>
+    </table>
+  </div>
+</section>
+
+<section id="therapists" style="display:none">
+  <h2>Therapists / psychologists / clinicians — {t_ver} verified entries</h2>
+  <h3 style="font-size:14px;margin:16px 0 8px">By country file</h3>
+  <table id="tCountry">
+    <thead><tr>
+      <th onclick="sortTable('tCountry',0)">Country</th>
+      <th onclick="sortTable('tCountry',1)">Code</th>
+      <th onclick="sortTable('tCountry',2)">Verified</th>
+      <th onclick="sortTable('tCountry',3)">Excluded</th>
+      <th>Stance distribution</th>
+      <th>JSON</th>
+    </tr></thead><tbody>
+    {t_country_rows}
+    </tbody>
+  </table>
+  <h3 style="font-size:14px;margin:24px 0 8px">All {t_ver} therapists (filterable)</h3>
+  <div class="filter-bar"><input type="search" placeholder="Filter by name, stance, city, affiliation…" oninput="filterTable('tAll', this.value)"></div>
+  <table id="tAll">
+    <thead><tr>
+      <th onclick="sortTable('tAll',0)">Name / credentials</th>
+      <th onclick="sortTable('tAll',1)">Country</th>
+      <th onclick="sortTable('tAll',2)">City / affiliation</th>
+      <th onclick="sortTable('tAll',3)">Stance + notes</th>
+      <th onclick="sortTable('tAll',4)">Pubs</th>
+      <th onclick="sortTable('tAll',5)">URLs</th>
+      <th onclick="sortTable('tAll',6)">X-refs</th>
+      <th onclick="sortTable('tAll',7)">ID</th>
+    </tr></thead><tbody>
+    {t_entry_rows}
+    </tbody>
+  </table>
+</section>
+
+<section id="lawyers" style="display:none">
+  <h2>Lawyers / barristers / advocates / judges — {l_ver} verified entries</h2>
+  <h3 style="font-size:14px;margin:16px 0 8px">By region file</h3>
+  <table id="lCountry">
+    <thead><tr>
+      <th onclick="sortTable('lCountry',0)">Region</th>
+      <th onclick="sortTable('lCountry',1)">Code</th>
+      <th onclick="sortTable('lCountry',2)">Verified</th>
+      <th onclick="sortTable('lCountry',3)">Excluded</th>
+      <th>Stance distribution</th>
+      <th>JSON</th>
+    </tr></thead><tbody>
+    {l_country_rows}
+    </tbody>
+  </table>
+  <h3 style="font-size:14px;margin:24px 0 8px">All {l_ver} lawyers (filterable)</h3>
+  <div class="filter-bar"><input type="search" placeholder="Filter…" oninput="filterTable('lAll', this.value)"></div>
+  <table id="lAll">
+    <thead><tr>
+      <th onclick="sortTable('lAll',0)">Name / credentials</th>
+      <th onclick="sortTable('lAll',1)">Region</th>
+      <th onclick="sortTable('lAll',2)">City / affiliation</th>
+      <th onclick="sortTable('lAll',3)">Stance + notes</th>
+      <th onclick="sortTable('lAll',4)">Pubs</th>
+      <th onclick="sortTable('lAll',5)">URLs</th>
+      <th onclick="sortTable('lAll',6)">X-refs</th>
+      <th onclick="sortTable('lAll',7)">ID</th>
+    </tr></thead><tbody>
+    {l_entry_rows}
+    </tbody>
+  </table>
+</section>
+
+<section id="cases" style="display:none">
+  <h2>Case studies — {cases} judicial decisions (JSON)</h2>
+  <div class="filter-bar"><input type="search" placeholder="Filter by caption, court, ECLI, jurisdiction…" oninput="filterTable('cases', this.value)"></div>
+  <table id="cases">
+    <thead><tr>
+      <th onclick="sortTable('cases',0)">Decision date</th>
+      <th onclick="sortTable('cases',1)">Jurisdiction</th>
+      <th onclick="sortTable('cases',2)">Caption / court</th>
+      <th onclick="sortTable('cases',3)">Judges</th>
+      <th onclick="sortTable('cases',4)">Counsel</th>
+      <th onclick="sortTable('cases',5)">Verbatim</th>
+      <th onclick="sortTable('cases',6)">Sources</th>
+      <th onclick="sortTable('cases',7)">X-refs</th>
+      <th>JSON</th>
+    </tr></thead><tbody>
+    {case_rows}
+    </tbody>
+  </table>
+</section>
+
+<section id="jurisdictions" style="display:none">
+  <h2>Jurisdictions — {juris} with full JSON sidecar</h2>
+  <table id="jurisdictions">
+    <thead><tr>
+      <th onclick="sortTable('jurisdictions',0)">Jurisdiction</th>
+      <th onclick="sortTable('jurisdictions',1)">Code</th>
+      <th onclick="sortTable('jurisdictions',2)">Legal system</th>
+      <th onclick="sortTable('jurisdictions',3)">Statutory</th>
+      <th onclick="sortTable('jurisdictions',4)">Apex position</th>
+      <th onclick="sortTable('jurisdictions',5)">Regulator</th>
+      <th onclick="sortTable('jurisdictions',6)">Statutes</th>
+      <th onclick="sortTable('jurisdictions',7)">Apex decisions</th>
+      <th onclick="sortTable('jurisdictions',8)">Regulators</th>
+      <th>JSON</th>
+    </tr></thead><tbody>
+    {j_rows}
+    </tbody>
+  </table>
+</section>
+
+<section id="exclusions" style="display:none">
+  <h2>Documented exclusions — {t_exc + l_exc} entries with reasons</h2>
+  <div class="warn">Excluded = name appeared in research but deliberately not in main directory, with reason recorded. Four kinds: (1) regulatory / safeguarding (e.g. license inactive, court-set-aside findings), (2) unverifiable (no primary source), (3) wrong specialism, (4) out of scope (e.g. civil-servant peritos withheld for ethical-naming reasons).</div>
+  <div class="filter-bar"><input type="search" placeholder="Filter by name or reason…" oninput="filterTable('exclusions', this.value)"></div>
+  <table id="exclusions">
+    <thead><tr>
+      <th onclick="sortTable('exclusions',0)">Name</th>
+      <th onclick="sortTable('exclusions',1)">Country</th>
+      <th>Exclusion reason</th>
+      <th>Primary source</th>
+    </tr></thead><tbody>
+    {exc_rows}
+    </tbody>
+  </table>
+</section>
+
+</main>
+<footer>
+  AntiAlienate Knowledge · CC BY 4.0 · Generated by <span class="code">bin/aa-analytics</span> · regenerable from <span class="code">/manifest.json</span> + JSON sidecars
+</footer>
+<script>{JS}</script>
+</body>
+</html>
+"""
+
+
+def main(argv: list[str] | None = None) -> int:
+    p = argparse.ArgumentParser(prog="aa-analytics")
+    p.add_argument("--out", default=str(REPO_ROOT / "analytics.html"))
+    args = p.parse_args(argv)
+    data = gather()
+    html = render_html(data)
+    pathlib.Path(args.out).write_text(html)
+    print(f"wrote {args.out} — {len(html):,} bytes")
+    print(f"  therapists: {sum(len(c['entries']) for c in data['therapists'])} verified + {sum(len(c['excluded']) for c in data['therapists'])} excluded across {len(data['therapists'])} country files")
+    print(f"  lawyers:    {sum(len(c['entries']) for c in data['lawyers'])} verified + {sum(len(c['excluded']) for c in data['lawyers'])} excluded across {len(data['lawyers'])} region files")
+    print(f"  cases:      {len(data['cases'])}")
+    print(f"  jurisdictions: {len(data['jurisdictions'])}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
