@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-01T15:40:12Z",
+  "generated": "2026-06-01T16:08:23Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 14,
+    "jurisdictions": 15,
     "evidence_pages": 0
   },
   "indexes": {
@@ -66,6 +66,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "BR",
       "name": "Brazil"
+    },
+    {
+      "id": "canada",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/canada.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/canada.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CA",
+      "name": "Canada"
     },
     {
       "id": "england-and-wales",
