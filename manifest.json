@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-01T19:59:57Z",
+  "generated": "2026-06-01T20:28:32Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 17,
     "practitioners_lawyers": 10,
     "case_studies": 31,
-    "jurisdictions": 23,
+    "jurisdictions": 24,
     "evidence_pages": 0
   },
   "indexes": {
@@ -98,6 +98,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "UK-EWS",
       "name": "United Kingdom (England & Wales)"
+    },
+    {
+      "id": "european-convention-on-human-rights",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/european-convention-on-human-rights.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/european-convention-on-human-rights.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "COE",
+      "name": "European Convention on Human Rights / European Court of Human Rights (ECHR)"
     },
     {
       "id": "france",
