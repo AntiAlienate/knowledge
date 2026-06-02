@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-02T03:59:13Z",
+  "generated": "2026-06-02T04:27:29Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -27,7 +27,7 @@
     "practitioners_lawyers": 10,
     "case_studies": 34,
     "jurisdictions": 36,
-    "evidence_pages": 2
+    "evidence_pages": 3
   },
   "indexes": {
     "practitioners_therapists": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/index.json",
@@ -328,6 +328,10 @@
     {
       "id": "alienating-tactics-as-child-abuse",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/alienating-tactics-as-child-abuse.md"
+    },
+    {
+      "id": "eu-apex-sequence-2017-2025",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md"
     },
     {
       "id": "international-institutional-positions",
