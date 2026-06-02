@@ -49,8 +49,18 @@
       "stance": "institutional",
       "stance_notes": "El SML produce peritajes de salud mental (psicológicos y psiquiátricos) a requerimiento de tribunales de familia, juzgados de garantía, fiscalías y tribunales civiles. Su normativa técnica vigente sobre salud mental es la Resolución Exenta 2.349 (que anula la Resolución 856), publicada en el sitio institucional. No se ha localizado en el sitio oficial sml.gob.cl un documento normativo PA-específico que tipifique 'alienación parental' como categoría diagnóstica forense — el SML opera bajo el marco de evaluación de competencias parentales, daño emocional y capacidad mental sin endosar el SAP como diagnóstico. La práctica pericial sustantiva varía caso-a-caso; el aparato pericial chileno se rige por evaluación de capacidades parentales y interferencia, no por aplicación del SAP gardneriano.",
       "publications": [
-        {"title": "Resolución Exenta N° 2.349 — Normativa de Salud Mental SML (anula Res. 856)", "year": 2020, "venue": "Servicio Médico Legal, Ministerio de Justicia y Derechos Humanos", "url": "https://www.sml.gob.cl/portal_ta/2018/01_Actos_diario_oficial/2020_RES_EX-2349-Normativa_saludMental_anula_RES_856.pdf"},
-        {"title": "Examen de salud mental en el Servicio Médico Legal (SML) — Ficha ChileAtiende", "year": 2024, "venue": "ChileAtiende — Gobierno de Chile", "url": "https://www.chileatiende.gob.cl/fichas/3292-examen-de-salud-mental-en-el-servicio-medico-legal-sml"}
+        {
+          "title": "Resolución Exenta N° 2.349 — Normativa de Salud Mental SML (anula Res. 856)",
+          "year": 2020,
+          "venue": "Servicio Médico Legal, Ministerio de Justicia y Derechos Humanos",
+          "url": "https://www.sml.gob.cl/portal_ta/2018/01_Actos_diario_oficial/2020_RES_EX-2349-Normativa_saludMental_anula_RES_856.pdf"
+        },
+        {
+          "title": "Examen de salud mental en el Servicio Médico Legal (SML) — Ficha ChileAtiende",
+          "year": 2024,
+          "venue": "ChileAtiende — Gobierno de Chile",
+          "url": "https://www.chileatiende.gob.cl/fichas/3292-examen-de-salud-mental-en-el-servicio-medico-legal-sml"
+        }
       ],
       "urls": [
         "https://www.sml.gob.cl/",
@@ -75,8 +85,18 @@
       "stance": "institutional",
       "stance_notes": "Posición del Ejecutivo articulada por la Ministra Antonia Orellana ante la Comisión de Familia de la Cámara de Diputadas y Diputados (11 de enero de 2023) y reiterada en intervención mediática del mismo período: el SAP 'no existe, es una invención creada en los 80s para defender a padres acusados de abuso sexual o incesto que no ha pasado validación científica ni de las asociaciones psiquiátricas'. Orellana afirmó que el proyecto Boletín 10.516-18 'pone a los niños y niñas como objetos de la disputa parental e inhibe denuncias de maltrato o abuso sexual'. Esta posición se canalizó normativamente en la Ley 21.675 de 2024 (Ley Integral contra la Violencia hacia las Mujeres) que tipifica la 'violencia vicaria' (art. 5) — desplazamiento conceptual clave del polo crítico chileno. SernamEG opera 103 Centros de la Mujer en las 16 regiones y la línea 1455 de orientación 24/7.",
       "publications": [
-        {"title": "Posición del Ejecutivo ante Comisión de Familia, Boletín 10.516-18 (rechazo de SAP como VIF)", "year": 2023, "venue": "Cámara de Diputadas y Diputados — Comisión de Familia, 11 de enero de 2023; intervención Min. Antonia Orellana", "url": "https://www.bcn.cl/laborparlamentaria/documento?id=700209"},
-        {"title": "Ley 21.675 — Ley Integral contra la Violencia hacia las Mujeres (incluye art. 5 sobre violencia vicaria)", "year": 2024, "venue": "Biblioteca del Congreso Nacional de Chile — BCN", "url": "https://www.bcn.cl/leychile/navegar?idNorma=1204008"}
+        {
+          "title": "Posición del Ejecutivo ante Comisión de Familia, Boletín 10.516-18 (rechazo de SAP como VIF)",
+          "year": 2023,
+          "venue": "Cámara de Diputadas y Diputados — Comisión de Familia, 11 de enero de 2023; intervención Min. Antonia Orellana",
+          "url": "https://www.bcn.cl/laborparlamentaria/documento?id=700209"
+        },
+        {
+          "title": "Ley 21.675 — Ley Integral contra la Violencia hacia las Mujeres (incluye art. 5 sobre violencia vicaria)",
+          "year": 2024,
+          "venue": "Biblioteca del Congreso Nacional de Chile — BCN",
+          "url": "https://www.bcn.cl/leychile/navegar?idNorma=1204008"
+        }
       ],
       "urls": [
         "https://minmujeryeg.gob.cl/",
@@ -103,7 +123,12 @@
       "stance": "critique",
       "stance_notes": "Informe técnico de la ANMM presentado ante la Comisión de Familia de la Cámara de Diputadas y Diputados (11 de enero de 2023, Boletín 10.516-18) por su Directora Verónica Vymazal, advirtiendo que el proyecto no consideraba la evidencia científica disponible, que el SAP 'no se encuentra incluido en el DSM-5 ni en la CIE-11' y que su tipificación generaría riesgo de revictimización en casos con denuncias de violencia. La ANMM fue una de las tres voces institucionales clave (junto con MinMujeryEG y MDSF) que sustentaron el rechazo por unanimidad en Comisión y por 58-45 en Sala (8-10 abril 2024). Constituye una posición crítica desde el propio cuerpo judicial chileno.",
       "publications": [
-        {"title": "Informe técnico ANMM ante Comisión de Familia, Boletín 10.516-18 (Directora Verónica Vymazal)", "year": 2023, "venue": "Cámara de Diputadas y Diputados — documento de comisión", "url": "https://www.camara.cl/verDoc.aspx?prmID=203556&prmTipo=DOCUMENTO_COMISION"}
+        {
+          "title": "Informe técnico ANMM ante Comisión de Familia, Boletín 10.516-18 (Directora Verónica Vymazal)",
+          "year": 2023,
+          "venue": "Cámara de Diputadas y Diputados — documento de comisión",
+          "url": "https://www.camara.cl/verDoc.aspx?prmID=203556&prmTipo=DOCUMENTO_COMISION"
+        }
       ],
       "urls": [
         "https://www.anmmchile.cl/",
@@ -128,8 +153,18 @@
       "stance": "institutional",
       "stance_notes": "Rechazo por unanimidad en Comisión de Familia (11.1.2023, informe Boletín 10.516-18) y rechazo en Sala (8-10.4.2024) por 58 votos en contra, 45 a favor y 26 abstenciones de la 'idea de legislar', archivando el proyecto sin posibilidad de re-presentación durante un año. La discusión integró las posiciones del Ejecutivo (Min. Orellana, Min. Jackson), de la ANMM (V. Vymazal) y de organizaciones de la sociedad civil (ABOFEM, Red Chilena contra la Violencia hacia las Mujeres). Es el principal anclaje político-legislativo del rechazo institucional chileno al SAP — sustituye estructuralmente el lugar que en Brasil ocupa una ley positiva (12.318/2010) y en Colombia ocupa una sentencia constitucional (T-526/23).",
       "publications": [
-        {"title": "Informe Comisión de Familia sobre Boletín 10.516-18 (11.1.2023)", "year": 2023, "venue": "Cámara de Diputadas y Diputados de Chile", "url": "https://www.camara.cl/legislacion/sesiones_sala/ver_informe.aspx?prmboletin=10516-18"},
-        {"title": "Tramitación legislativa Boletín 10.516-18 — votación 8-10 abril 2024", "year": 2024, "venue": "Cámara de Diputadas y Diputados — BCN Labor Parlamentaria", "url": "https://www.bcn.cl/laborparlamentaria/documento?id=700209"}
+        {
+          "title": "Informe Comisión de Familia sobre Boletín 10.516-18 (11.1.2023)",
+          "year": 2023,
+          "venue": "Cámara de Diputadas y Diputados de Chile",
+          "url": "https://www.camara.cl/legislacion/sesiones_sala/ver_informe.aspx?prmboletin=10516-18"
+        },
+        {
+          "title": "Tramitación legislativa Boletín 10.516-18 — votación 8-10 abril 2024",
+          "year": 2024,
+          "venue": "Cámara de Diputadas y Diputados — BCN Labor Parlamentaria",
+          "url": "https://www.bcn.cl/laborparlamentaria/documento?id=700209"
+        }
       ],
       "urls": [
         "https://www.camara.cl/legislacion/sesiones_sala/ver_informe.aspx?prmboletin=10516-18",
@@ -157,7 +192,12 @@
       "stance": "institutional",
       "stance_notes": "Informe técnico 'Alienación parental' (2023) elaborado por C. Weidenslaufer, M. Lampert y P. Truffello como asesoría parlamentaria a la tramitación del Boletín 10.516-18. Documenta sistemáticamente la inexistencia del SAP en CIE-11 y DSM-5, el rechazo de la comunidad científica internacional, la posición de la Relatora Especial de la ONU Reem Alsalem (A/HRC/53/36), la Declaración MESECVI-OEA (13.4.2023), y el derecho comparado (Brasil Lei 12.318/2010, España LOPIVI Disp. ad. 17a). Es la pieza de asesoría legislativa neutral que estructuró el debate parlamentario chileno.",
       "publications": [
-        {"title": "Alienación parental — Informe BCN", "year": 2023, "venue": "Biblioteca del Congreso Nacional de Chile (asesoría técnica)", "url": "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F34183%2F1%2FBCN_alienacion_parental_2023_CW_MPL_PT.pdf"}
+        {
+          "title": "Alienación parental — Informe BCN",
+          "year": 2023,
+          "venue": "Biblioteca del Congreso Nacional de Chile (asesoría técnica)",
+          "url": "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F34183%2F1%2FBCN_alienacion_parental_2023_CW_MPL_PT.pdf"
+        }
       ],
       "urls": [
         "https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F34183%2F1%2FBCN_alienacion_parental_2023_CW_MPL_PT.pdf",
@@ -181,7 +221,12 @@
       "stance": "institutional",
       "stance_notes": "A la fecha de generación (mayo 2026) no se ha localizado en el sitio oficial defensorianinez.cl un pronunciamiento autónomo PA-específico equivalente al de Defensoría del Pueblo CABA (Argentina, 25.9.2020) o al concepto técnico ICBF (Colombia, ante T-526/23). El Informe Anual 2024 del Defensor Quesille enfatiza erradicación de la violencia y entornos seguros para NNA. El Consejo Consultivo de la Defensoría (2023-2025) integra a la Prof. Fabiola Lathrop Gómez (U. de Chile), académica de derecho civil/familia. El silencio institucional PA-específico es notable considerando que la Defensoría es una institución joven (operativa desde 2018) y la decisión legislativa del Boletín 10.516-18 (2023-2024) habría podido motivar un pronunciamiento. Limitación documental explícita.",
       "publications": [
-        {"title": "Informe Anual 2024 de la Defensoría de la Niñez", "year": 2024, "venue": "Defensoría de los Derechos de la Niñez de Chile", "url": "https://www.defensorianinez.cl/defensor-de-la-ninez-presenta-informe-anual-2024-realizando-un-fuerte-llamado-a-erradicar-la-violencia-y-construir-entornos-seguros-para-ninos-ninas-y-adolescentes/"}
+        {
+          "title": "Informe Anual 2024 de la Defensoría de la Niñez",
+          "year": 2024,
+          "venue": "Defensoría de los Derechos de la Niñez de Chile",
+          "url": "https://www.defensorianinez.cl/defensor-de-la-ninez-presenta-informe-anual-2024-realizando-un-fuerte-llamado-a-erradicar-la-violencia-y-construir-entornos-seguros-para-ninos-ninas-y-adolescentes/"
+        }
       ],
       "urls": [
         "https://www.defensorianinez.cl/",
@@ -205,7 +250,12 @@
       "stance": "critique",
       "stance_notes": "Declaración pública 'No a la tipificación del supuesto Síndrome de Alienación Parental' (11 de enero de 2023, coincidiendo con la votación en Comisión de Familia del Boletín 10.516-18). Texto verbatim: la tipificación 'permitiría invalidar el relato y las vivencias de cada niña/o/e'; 'los agresores de mujeres no son buenos padres'; 'existe evidencia de casos judiciales a nivel internacional que, argumentando el Síndrome de Alienación Parental, han entregado la custodia de hijas/os/es a padres agresores'. Cita la Recomendación MESECVI-OEA de 2022. La vocera Silvana del Valle Barrios articuló la posición en cobertura mediática contemporánea (CNN Chile 8 de marzo 2022).",
       "publications": [
-        {"title": "No a la tipificación del supuesto Síndrome de Alienación Parental", "year": 2023, "venue": "Red Chilena contra la Violencia hacia las Mujeres, 11 de enero de 2023", "url": "http://www.nomasviolenciacontramujeres.cl/no-a-la-tipificacion-del-supuesto-sindrome-de-alienacion-parental/"}
+        {
+          "title": "No a la tipificación del supuesto Síndrome de Alienación Parental",
+          "year": 2023,
+          "venue": "Red Chilena contra la Violencia hacia las Mujeres, 11 de enero de 2023",
+          "url": "http://www.nomasviolenciacontramujeres.cl/no-a-la-tipificacion-del-supuesto-sindrome-de-alienacion-parental/"
+        }
       ],
       "urls": [
         "http://www.nomasviolenciacontramujeres.cl/",
@@ -231,8 +281,18 @@
       "stance": "critique",
       "stance_notes": "Rechazo público a la tipificación del SAP como violencia intrafamiliar (intervenciones ante Comisión de Familia, Boletín 10.516-18, y celebración pública del rechazo en abril 2024). Posición articulada en cobertura mediática y reiterada en la columna de Consuelo Ramírez Acuña (Observatorio Legislativo MIRA, 22.4.2024): el SAP 'no se reconoce como un síndrome o un trastorno por las comunidades médicas y legales', contiene 'sesgo de género asignando típicamente el rol de progenitor alienador a la madre' y 'menoscaba la credibilidad y las protecciones a niños y niñas bajo la Convención sobre los Derechos del Niño'. ABOFEM constituye el eje legal-feminista chileno del polo crítico.",
       "publications": [
-        {"title": "El rechazo al síndrome de alienación parental y al sesgo de género en tribunales (col. Consuelo Ramírez Acuña, Equipo MIRA Observatorio Legislativo)", "year": 2024, "venue": "El Mostrador Braga, 22 de abril de 2024", "url": "https://www.elmostrador.cl/braga/yo-opino/2024/04/22/el-rechazo-al-sindrome-de-alienacion-parental-y-al-sesgo-de-genero-en-tribunales/"},
-        {"title": "Controversias por proyecto que considera el SAP como acto constitutivo de violencia intrafamiliar", "year": 2023, "venue": "El Mostrador Braga, 10 de enero de 2023 (cobertura intervención ABOFEM)", "url": "https://www.elmostrador.cl/braga/2023/01/10/controversias-por-proyecto-que-considera-el-sindrome-de-alienacion-parental-como-acto-constitutivo-de-violencia-intrafamiliar/"}
+        {
+          "title": "El rechazo al síndrome de alienación parental y al sesgo de género en tribunales (col. Consuelo Ramírez Acuña, Equipo MIRA Observatorio Legislativo)",
+          "year": 2024,
+          "venue": "El Mostrador Braga, 22 de abril de 2024",
+          "url": "https://www.elmostrador.cl/braga/yo-opino/2024/04/22/el-rechazo-al-sindrome-de-alienacion-parental-y-al-sesgo-de-genero-en-tribunales/"
+        },
+        {
+          "title": "Controversias por proyecto que considera el SAP como acto constitutivo de violencia intrafamiliar",
+          "year": 2023,
+          "venue": "El Mostrador Braga, 10 de enero de 2023 (cobertura intervención ABOFEM)",
+          "url": "https://www.elmostrador.cl/braga/2023/01/10/controversias-por-proyecto-que-considera-el-sindrome-de-alienacion-parental-como-acto-constitutivo-de-violencia-intrafamiliar/"
+        }
       ],
       "urls": [
         "https://abofem.cl/",
@@ -257,9 +317,23 @@
       "stance": "critique",
       "stance_notes": "Jurista feminista chilena de proyección internacional; redactora de la Recomendación General 35 (2017) del Comité CEDAW sobre violencia contra las mujeres; primera chilena en el Comité CEDAW (período 2025-2028). Línea académica sostenida contra el uso del SAP como herramienta de revictimización en procesos de custodia, vinculando el debate latinoamericano a los estándares internacionales de derechos humanos de las mujeres. Autora del libro 'Femicidio/Feminicidio' (Ediciones Didot, 2014) — eje del campo crítico LATAM-Europa. Posición articulada desde la línea CEDAW: SAP como expresión de 'negacionismo de género' que 'busca castigar las políticas feministas'. Patrón estructural análogo al rol de Sonia Vaccaro (Argentina/Madrid) en la conexión LATAM-Europa.",
       "publications": [
-        {"title": "Femicidio/Feminicidio", "year": 2014, "venue": "Ediciones Didot (Buenos Aires); ediciones DyD"},
-        {"title": "Recomendación General 35 — Comité CEDAW sobre violencia contra las mujeres por razón de género (co-redactora)", "year": 2017, "venue": "Comité para la Eliminación de la Discriminación contra la Mujer — ONU", "url": "https://www.ohchr.org/es/documents/general-comments-and-recommendations/general-recommendation-no-35-gender-based-violence"},
-        {"title": "Entrevista 'El negacionismo del género busca castigar las políticas feministas'", "year": 2024, "venue": "Fundación General UCLM", "url": "https://fundaciongeneraluclm.es/patsili-toledo-vasquez-academica-y-consultora-en-derechos-humanos-de-las-mujeres-el-negacionismo-del-genero-busca-castigar-las-politicas-feministas/"}
+        {
+          "title": "Femicidio/Feminicidio",
+          "year": 2014,
+          "venue": "Ediciones Didot (Buenos Aires); ediciones DyD"
+        },
+        {
+          "title": "Recomendación General 35 — Comité CEDAW sobre violencia contra las mujeres por razón de género (co-redactora)",
+          "year": 2017,
+          "venue": "Comité para la Eliminación de la Discriminación contra la Mujer — ONU",
+          "url": "https://www.ohchr.org/es/documents/general-comments-and-recommendations/general-recommendation-no-35-gender-based-violence"
+        },
+        {
+          "title": "Entrevista 'El negacionismo del género busca castigar las políticas feministas'",
+          "year": 2024,
+          "venue": "Fundación General UCLM",
+          "url": "https://fundaciongeneraluclm.es/patsili-toledo-vasquez-academica-y-consultora-en-derechos-humanos-de-las-mujeres-el-negacionismo-del-genero-busca-castigar-las-politicas-feministas/"
+        }
       ],
       "urls": [
         "https://www.chile.gob.cl/blog/patsili-toledo-es-elegida-miembro-del-comite-para-la-eliminacion-de-la",
@@ -284,8 +358,18 @@
       "stance": "critique",
       "stance_notes": "Línea académica sostenida sobre administración de justicia y género, violencia contra las mujeres y acceso a la justicia. Coautora con Macarena Vargas y Francisca Riveros del estudio 'Violencia de Género y la Administración de Justicia' (INDH, repositorio bibliotecadigital.indh.cl). Columna 'La víctima ideal y la familia Macaya' (Centro DDHH UDP) y entrevistas (Facultad de Derecho UDP) articulan la crítica al sesgo de género judicial — encuadre que sustenta el rechazo crítico al uso del SAP en tribunales de familia. Coordina el área Género y Derechos Humanos del Centro DDHH UDP.",
       "publications": [
-        {"title": "Violencia de Género y la Administración de Justicia (con M. Vargas y F. Riveros)", "year": 2017, "venue": "Instituto Nacional de Derechos Humanos — INDH", "url": "https://bibliotecadigital.indh.cl/items/8e9db2b4-3d9f-4596-8ecd-e4d3626c938b"},
-        {"title": "La víctima ideal y la familia Macaya (columna)", "year": 2021, "venue": "Centro de Derechos Humanos UDP", "url": "https://derechoshumanos.udp.cl/columna-de-lidia-casas-la-victima-ideal-y-la-familia-macaya/"}
+        {
+          "title": "Violencia de Género y la Administración de Justicia (con M. Vargas y F. Riveros)",
+          "year": 2017,
+          "venue": "Instituto Nacional de Derechos Humanos — INDH",
+          "url": "https://bibliotecadigital.indh.cl/items/8e9db2b4-3d9f-4596-8ecd-e4d3626c938b"
+        },
+        {
+          "title": "La víctima ideal y la familia Macaya (columna)",
+          "year": 2021,
+          "venue": "Centro de Derechos Humanos UDP",
+          "url": "https://derechoshumanos.udp.cl/columna-de-lidia-casas-la-victima-ideal-y-la-familia-macaya/"
+        }
       ],
       "urls": [
         "https://derechoshumanos.udp.cl/quienes-somos/equipo/lidia-casas-becerra/",
@@ -310,8 +394,18 @@
       "stance": "middle",
       "stance_notes": "Línea académica sobre derecho de familia, corresponsabilidad parental y cuidado personal compartido (art. 224 Código Civil, Ley 20.680 de 2013), sin posicionamiento dicotómico SAP/anti-SAP. Su rol como abogada integrante de la Corte Suprema Sala Cuarta (Mixta) figura en el fallo sobre cuidado personal cubierto por Tirant Prime Chile, donde la Sala (Andrea Muñoz, Jessica González, Mireya López + abogadas integrantes Leonor Etcheberry y Fabiola Lathrop) rechazó el recurso del padre y confirmó el régimen de cuidado materno con principio de corresponsabilidad. Integra el Consejo Consultivo de la Defensoría de la Niñez (2023-2025). Perfil 'middle' / metodológico — co-responsabilidad parental como marco rector sin endose ni rechazo explícito del SAP.",
       "publications": [
-        {"title": "Derecho de Familias (cap. Persona, Familias y Derecho, con G. Hernández Paulsen)", "year": 2020, "venue": "U. de Chile — Programa Persona, Familias y Derecho", "url": "https://derecho.uchile.cl/programa-persona-familias-derecho/repositorio-academico/infancia-y-adolescencia"},
-        {"title": "Integración Consejo Consultivo Defensoría de la Niñez 2023-2025", "year": 2023, "venue": "Universidad de Chile (comunicación institucional)", "url": "https://portaluchile.uchile.cl/noticias/210147/academica-u-de-chile-integrara-el-consejo-de-defensoria-de-la-ninez"}
+        {
+          "title": "Derecho de Familias (cap. Persona, Familias y Derecho, con G. Hernández Paulsen)",
+          "year": 2020,
+          "venue": "U. de Chile — Programa Persona, Familias y Derecho",
+          "url": "https://derecho.uchile.cl/programa-persona-familias-derecho/repositorio-academico/infancia-y-adolescencia"
+        },
+        {
+          "title": "Integración Consejo Consultivo Defensoría de la Niñez 2023-2025",
+          "year": 2023,
+          "venue": "Universidad de Chile (comunicación institucional)",
+          "url": "https://portaluchile.uchile.cl/noticias/210147/academica-u-de-chile-integrara-el-consejo-de-defensoria-de-la-ninez"
+        }
       ],
       "urls": [
         "https://derecho.uchile.cl/programa-persona-familias-derecho/quienes-somos/equipo",
@@ -336,9 +430,24 @@
       "stance": "recognition",
       "stance_notes": "Autor principal de la Escala ZICAP para evaluación psicométrica de la alienación parental en Chile — uno de los pocos instrumentos AP de desarrollo LATAM. Desarrollos sucesivos: ZICAP (resultados preliminares, Ciencias Psicológicas 2016), ZICAP II (niños 9-15 años, Ciencias Psicológicas U. Católica del Uruguay 2021), y ZICAP III (adultos emergentes 18-29 años, presentada en XI ALFEPSI). La línea conceptual asume la alienación parental como 'maltrato infantil intrafamiliar grave' observable en 'procesos de divorcio conflictivo' y operacionaliza la obstrucción del vínculo paterno-filial como construcción psicométrica medible. Marco recognition-leaning sostenido pre y post-rechazo Boletín 10.516-18. Es la voz académica recognition-camp más visible del polo chileno, geográficamente situada fuera de la Región Metropolitana.",
       "publications": [
-        {"title": "Escala ZICAP para la evaluación de la alienación parental: resultados preliminares", "year": 2016, "venue": "Ciencias Psicológicas — U. Católica del Uruguay", "url": "https://www.redalyc.org/journal/4595/459551383007/html/"},
-        {"title": "Escala ZICAP II: evaluación de alienación parental en niños de 9 a 15 años de padres separados en Chile", "year": 2021, "venue": "Ciencias Psicológicas — U. Católica del Uruguay", "url": "https://www.redalyc.org/journal/4595/459567203004/html/"},
-        {"title": "Crianza Compartida. Síndrome de Alienación Parental, Padrectomía, los Derechos de los Hijos ante la Separación de los Padres", "year": 2010, "venue": "Editorial independiente / ResearchGate", "url": "https://www.researchgate.net/publication/278019380_Crianza_Compartida_Sindrome_de_Alienacion_Parental_Padrectomia_los_Derechos_de_los_Hijos_ante_la_Separacion_de_los_Padres"}
+        {
+          "title": "Escala ZICAP para la evaluación de la alienación parental: resultados preliminares",
+          "year": 2016,
+          "venue": "Ciencias Psicológicas — U. Católica del Uruguay",
+          "url": "https://www.redalyc.org/journal/4595/459551383007/html/"
+        },
+        {
+          "title": "Escala ZICAP II: evaluación de alienación parental en niños de 9 a 15 años de padres separados en Chile",
+          "year": 2021,
+          "venue": "Ciencias Psicológicas — U. Católica del Uruguay",
+          "url": "https://www.redalyc.org/journal/4595/459567203004/html/"
+        },
+        {
+          "title": "Crianza Compartida. Síndrome de Alienación Parental, Padrectomía, los Derechos de los Hijos ante la Separación de los Padres",
+          "year": 2010,
+          "venue": "Editorial independiente / ResearchGate",
+          "url": "https://www.researchgate.net/publication/278019380_Crianza_Compartida_Sindrome_de_Alienacion_Parental_Padrectomia_los_Derechos_de_los_Hijos_ante_la_Separacion_de_los_Padres"
+        }
       ],
       "urls": [
         "https://www.researchgate.net/profile/Nelson-Zicavo",
@@ -364,7 +473,12 @@
       "stance": "recognition",
       "stance_notes": "Co-autores del estudio 'Psychological Distress in Young Chilean Adults Exposed to Parental Alienating Behaviors during Childhood/Adolescence' (European Journal of Investigation in Health, Psychology and Education, 2023). El estudio adopta una posición recognition-leaning: 'The findings underscore the significance of these [parental alienating] behaviors concerning mental health outcomes while also emphasizing the distinction between alienating behaviors and the full manifestation of parental alienation'. Conserva la distinción analítica entre 'parental alienating behaviors' (operativa, medible, asumida como real) y 'parental alienation syndrome' (no asumida como categoría diagnóstica plena) — patrón análogo a la distinción COLPSIC entre AP-como-dinámica-relacional y SAP-como-diagnóstico, pero desde el polo recognition. Representa la línea académica recognition-leaning concentrada en universidades del norte chileno.",
       "publications": [
-        {"title": "Psychological Distress in Young Chilean Adults Exposed to Parental Alienating Behaviors during Childhood/Adolescence", "year": 2023, "venue": "European Journal of Investigation in Health, Psychology and Education", "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10528598/"}
+        {
+          "title": "Psychological Distress in Young Chilean Adults Exposed to Parental Alienating Behaviors during Childhood/Adolescence",
+          "year": 2023,
+          "venue": "European Journal of Investigation in Health, Psychology and Education",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC10528598/"
+        }
       ],
       "urls": [
         "https://pmc.ncbi.nlm.nih.gov/articles/PMC10528598/"
@@ -386,7 +500,12 @@
       "stance": "recognition",
       "stance_notes": "Organización de la sociedad civil chilena orientada a corresponsabilidad parental y crianza compartida que sostiene el reconocimiento de la alienación parental como forma de violencia familiar. Participó en la tramitación del Boletín 10.516-18 (mencionada en Comisión de Familia). Posterior al rechazo legislativo de abril 2024, publicó posición de preocupación: la ley 'carece de referencia específica a esta conducta' y la negativa del proyecto 'cae en partidismo y negacionismo'. Junto a Padres por Siempre Chile (papasporsiempre.cl) y Papá Presente / Amor de Papá, integra el polo civil masculinista chileno favorable al reconocimiento del SAP. Encuadre clásico de recognition-camp desde la sociedad civil.",
       "publications": [
-        {"title": "Descartan incorporar la 'alineación parental' como Violencia Intrafamiliar (posición Fundación Crianza Compartida)", "year": 2024, "venue": "fundacioncrianzacompartidachile.cl, 14 de abril de 2024", "url": "https://fundacioncrianzacompartidachile.cl/2024/04/14/descartan-incorporar-la-alineacion-parental-como-violencia-intrafamiliar/"}
+        {
+          "title": "Descartan incorporar la 'alineación parental' como Violencia Intrafamiliar (posición Fundación Crianza Compartida)",
+          "year": 2024,
+          "venue": "fundacioncrianzacompartidachile.cl, 14 de abril de 2024",
+          "url": "https://fundacioncrianzacompartidachile.cl/2024/04/14/descartan-incorporar-la-alineacion-parental-como-violencia-intrafamiliar/"
+        }
       ],
       "urls": [
         "https://fundacioncrianzacompartidachile.cl/",
@@ -411,9 +530,24 @@
       "stance": "institutional",
       "stance_notes": "Línea jurisprudencial 2021-2025 de la Sala Cuarta en materia de cuidado personal, régimen comunicacional y violencia intrafamiliar bajo Ley 20.066 y Ley 21.675/2024. Incluye: Rol 39.171-2021 (8.11.2021), Rol 119.537-2023 (22.5.2024), Rol 161.602-2023 (27.9.2024), y fallo del 19.6.2025 publicado por la Secretaría Técnica de Igualdad de Género del Poder Judicial (autorización salida del país + VIF familia, donde la Sala reconoció violencia vicaria art. 5 Ley 21.675). La controversia pública 'Gobierno vs. Suprema' de enero 2023, desencadenada por declaraciones de la entonces vocera Ángela Vivanco Martínez ('el SAP no es una invención'), escenificó la tensión jurisdiccional pre-rechazo legislativo. La Sala ha incorporado progresivamente perspectiva de género y reconocimiento de violencia vicaria sin proscripción explícita del SAP — patrón diferenciado de Colombia (T-526/23) donde la proscripción es apex constitucional.",
       "publications": [
-        {"title": "Sentencia Corte Suprema Cuarta Sala, Rol 39.171-2021", "year": 2021, "venue": "Corte Suprema de Chile, 8 de noviembre de 2021", "url": "http://static.elmercurio.com/Documentos/Legal/2022/10/14/20221014101234.pdf"},
-        {"title": "Sentencia Corte Suprema Cuarta (Mixta), Rol 161.602-2023", "year": 2024, "venue": "Corte Suprema de Chile, 27 de septiembre de 2024", "url": "https://vlex.cl/vid/sentencia-n-161602-2023-1051624643"},
-        {"title": "Fallo Corte Suprema Cuarta Sala — autorización salida del país y VIF (reconoce violencia vicaria Ley 21.675)", "year": 2025, "venue": "Corte Suprema de Chile, 19 de junio de 2025; publicado por Secretaría Técnica de Igualdad de Género del Poder Judicial", "url": "https://secretariadegenero.pjud.cl/images/documentos/fallos/repositorio/2025/28__Fallo_autorizacion_salida_del_pais_y_VIF_familia.pdf"}
+        {
+          "title": "Sentencia Corte Suprema Cuarta Sala, Rol 39.171-2021",
+          "year": 2021,
+          "venue": "Corte Suprema de Chile, 8 de noviembre de 2021",
+          "url": "http://static.elmercurio.com/Documentos/Legal/2022/10/14/20221014101234.pdf"
+        },
+        {
+          "title": "Sentencia Corte Suprema Cuarta (Mixta), Rol 161.602-2023",
+          "year": 2024,
+          "venue": "Corte Suprema de Chile, 27 de septiembre de 2024",
+          "url": "https://vlex.cl/vid/sentencia-n-161602-2023-1051624643"
+        },
+        {
+          "title": "Fallo Corte Suprema Cuarta Sala — autorización salida del país y VIF (reconoce violencia vicaria Ley 21.675)",
+          "year": 2025,
+          "venue": "Corte Suprema de Chile, 19 de junio de 2025; publicado por Secretaría Técnica de Igualdad de Género del Poder Judicial",
+          "url": "https://secretariadegenero.pjud.cl/images/documentos/fallos/repositorio/2025/28__Fallo_autorizacion_salida_del_pais_y_VIF_familia.pdf"
+        }
       ],
       "urls": [
         "https://www.pjud.cl/",
@@ -426,6 +560,27 @@
         "jurisdiction:chile",
         "practitioner:cl.lathrop-fabiola",
         "practitioner:cl.minmujereg"
+      ]
+    },
+    {
+      "id": "cl.tribunales-familia",
+      "name": "Tribunales de Familia de Chile",
+      "credentials": "Tribunales especializados de familia bajo la Ley 19.968/2004 creación de los Tribunales de Familia; jueces de familia; Consejeros/as Técnicos/as como evaluadores in-court",
+      "city": "Múltiples sedes nacionales",
+      "region": "Chile (nacional)",
+      "affiliation": "Poder Judicial de Chile — Tribunales de Familia",
+      "stance": "institutional",
+      "stance_notes": "Foro especializado de primera instancia para disputas de cuidado personal, régimen comunicacional, alimentos y violencia intrafamiliar en Chile. Operan bajo la Ley 19.968/2004 con Consejeros Técnicos como evaluadores in-court. Los Tribunales de Familia son el ámbito operacional donde se litigan las situaciones que en otras jurisdicciones serían etiquetadas como 'alienación parental' — habitualmente bajo los marcos de cuidado personal compartido (Ley 20.680/2013 art. 224 CC), interés superior del menor (Ley 21.430/2022) y violencia intrafamiliar (Ley 20.066/2005 + Ley 21.675/2024). Los Tribunales no han emitido posicionamiento institucional unificado pro o contra SAP; las decisiones son caso-por-caso. La Corte Suprema Sala Cuarta ha incorporado perspectiva de género en revisiones de apelaciones de familia, pero sin proscribir SAP a nivel apex (ver chile.json structural_findings).",
+      "publications": [],
+      "urls": [
+        "https://www.pjud.cl/tribunales/tribunales-de-familia",
+        "https://www.bcn.cl/leychile/navegar?idNorma=229557"
+      ],
+      "contact": "Vía Poder Judicial Chile",
+      "verification_notes": "Tribunales de Familia creados por Ley 19.968/2004; estructura institucional verificada vía pjud.cl + BCN Ley Chile. Entrada institucional de referencia cross-link desde otras entradas Chile.",
+      "references": [
+        "jurisdiction:chile",
+        "practitioner:cl.cdpch"
       ]
     }
   ],

@@ -388,6 +388,25 @@ London · England · High Court of Justice, Family Division; Chair Family Proced
 
 <sub>ID: `uk.judge-theis-lucy`</sub>
 
+## Institutional anchors
+
+### No5 Chambers
+*Multi-disciplinary set of barristers' chambers with offices in London + Birmingham + Bristol + Leicester + Manchester; specialisms including family law (private + public children + finance + international family); SRA-recognised set*
+London + Birmingham (multi-site) · England (UK-wide practice) · No5 Chambers — multi-disciplinary barristers set
+
+**Stance:** Institutional cross-reference: No5 Chambers is a multi-disciplinary English barristers set with a significant family-law practice including private-law children proceedings. Cross-linked from practitioners/lawyers/asia.json (in.luthra-geeta + in.malhotra-anil entries) for the international-family-law collaboration register where Indian senior counsel collaborate with English family chambers on cross-border PA-adjacent matters (Hague Convention return cases, Brussels IIa/IIb, NRI custody). No5 Chambers does not carry a chambers-level PA-construct position statement; individual practitioners engage PA matters under English Children Act 1989 + post-Re Y [2026] EWFC 38 evaluator-quality framework. Institutional entry cross-link rather than individual-practitioner entry.
+
+**Verification:**
+- <https://www.no5.com/>
+
+**Contact:** Vía no5.com
+
+*Notes: No5 Chambers is an established English barristers set with multi-site operations. Cross-link from asia.json lawyer entries (in.luthra-geeta + in.malhotra-anil) for international family-law collaboration register. No PA-construct chambers-level position located.*
+
+**See also:** `jurisdiction:england-and-wales`, `jurisdiction:united-kingdom`, `case-study:re-y-2026-ewfc-38`
+
+<sub>ID: `uk.no5-chambers`</sub>
+
 ## Excluded (with documented reason)
 
 - **Karen Woodall** — Category fit: psychotherapist (lead therapist, Family Separation Clinic, London) — not bar/roll-admitted as a lawyer; not BSB-regulated barrister; not SRA-regulated solicitor; not Resolution-accredited. Already on /practitioners/therapists/uk (uk-ews.woodall-karen) and on the influencers list. Preserved from v1.0 excluded[] for category-fit reasons only; underlying regulatory issues (BACP 2015 sanction; unregulated relative to Re Y [2026] EWFC 38 expert-instruction bar) are documented in the therapists directory.

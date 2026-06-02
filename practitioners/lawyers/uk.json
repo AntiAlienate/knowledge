@@ -25,9 +25,24 @@
       "stance": "critique",
       "stance_notes": "Most public UK critique-camp barrister. Co-led the campaign that secured the October 2023 government commitment to repeal the s.1(2A) Children Act 1989 parental-involvement presumption. Authored the Right to Equality case analysis of Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38; book He Said, She Said: Truth, Trauma and the Struggle for Justice in the Family Court (Penguin / Counsel magazine). Stance is doctrinal-critique grounded in DV-survivor representation in joined appeals (Re H-N) and successful PA-finding appeals (Re GB).",
       "publications": [
-        {"title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 28 (Fam) — case analysis", "year": 2026, "venue": "Right to Equality", "url": "https://righttoequality.org/re-y-experts-and-alienating-behaviour-the-modern-approach-2026-ewfc-28-fam/"},
-        {"title": "He Said, She Said: Truth, Trauma and the Struggle for Justice in the Family Court", "year": 2025, "venue": "Penguin / Counsel magazine", "url": "https://www.counselmagazine.co.uk/articles/he-said-she-said"},
-        {"title": "Re GB (Part 25 Application: Parental Alienation) [2023] EWFC 150 — successful appeal for mother", "year": 2023, "venue": "EWFC / Goldsmith Chambers", "url": "https://www.goldsmithchambers.com/dr-charlotte-proudman-successfully-represents-mother-on-appeal-in-re-gb-part-25-application-parental-alienation-2023-ewfc-150/"}
+        {
+          "title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 28 (Fam) — case analysis",
+          "year": 2026,
+          "venue": "Right to Equality",
+          "url": "https://righttoequality.org/re-y-experts-and-alienating-behaviour-the-modern-approach-2026-ewfc-28-fam/"
+        },
+        {
+          "title": "He Said, She Said: Truth, Trauma and the Struggle for Justice in the Family Court",
+          "year": 2025,
+          "venue": "Penguin / Counsel magazine",
+          "url": "https://www.counselmagazine.co.uk/articles/he-said-she-said"
+        },
+        {
+          "title": "Re GB (Part 25 Application: Parental Alienation) [2023] EWFC 150 — successful appeal for mother",
+          "year": 2023,
+          "venue": "EWFC / Goldsmith Chambers",
+          "url": "https://www.goldsmithchambers.com/dr-charlotte-proudman-successfully-represents-mother-on-appeal-in-re-gb-part-25-application-parental-alienation-2023-ewfc-150/"
+        }
       ],
       "urls": [
         "https://www.goldsmithchambers.com/our-people/dr-charlotte-proudman/",
@@ -54,9 +69,23 @@
       "stance": "critique",
       "stance_notes": "Co-signatory of the Right to Equality / Rights of Women joint letter to the President of the Family Division calling for urgent review of cases involving transfer-of-residence based on unregulated-expert PA findings (post-Re C [2023] EWHC 345 and Re Y [2026] EWFC 38). Collaborator on the Brunel / Rights of Women PA research project (Adrienne Barnett PI). Stance is structural-critique grounded in front-line DV-survivor legal-advice work.",
       "publications": [
-        {"title": "Right to Equality / Rights of Women joint letter to the President of the Family Division", "year": 2025, "venue": "Right to Equality", "url": "https://righttoequality.org/letter-to-the-president-of-the-family-division-ministry-of-justice/"},
-        {"title": "Psychologists' alarming views on domestic abuse put spotlight on family court experts — quoted source", "year": 2025, "venue": "The Bureau of Investigative Journalism", "url": "https://www.thebureauinvestigates.com/stories/2025-01-30/psychologists-alarming-views-on-domestic-abuse-put-spotlight-on-family-court-experts"},
-        {"title": "Brunel / Rights of Women Domestic Abuse, Parental Alienation and the Family Courts research project (collaborator)", "year": 2025, "venue": "British Academy / Leverhulme (Barnett PI)"}
+        {
+          "title": "Right to Equality / Rights of Women joint letter to the President of the Family Division",
+          "year": 2025,
+          "venue": "Right to Equality",
+          "url": "https://righttoequality.org/letter-to-the-president-of-the-family-division-ministry-of-justice/"
+        },
+        {
+          "title": "Psychologists' alarming views on domestic abuse put spotlight on family court experts — quoted source",
+          "year": 2025,
+          "venue": "The Bureau of Investigative Journalism",
+          "url": "https://www.thebureauinvestigates.com/stories/2025-01-30/psychologists-alarming-views-on-domestic-abuse-put-spotlight-on-family-court-experts"
+        },
+        {
+          "title": "Brunel / Rights of Women Domestic Abuse, Parental Alienation and the Family Courts research project (collaborator)",
+          "year": 2025,
+          "venue": "British Academy / Leverhulme (Barnett PI)"
+        }
       ],
       "urls": [
         "https://rightsofwomen.org.uk/about-us/",
@@ -82,9 +111,24 @@
       "stance": "critique",
       "stance_notes": "Only named solicitor on Resolution's Domestic Violence National Committee with 30+ years of frontline DV / PA-counter litigation in the North East. Resolution-accredited specialist in international child abduction, DV, forced marriage, FGM and honour-based violence. Manages Resolution's specialist forced-marriage and honour-based-violence panel. Position is institutional-critique grounded in DV-survivor representation and Resolution Code of Practice constructive-family-law practice.",
       "publications": [
-        {"title": "Profile: Cris McCurley", "year": 2024, "venue": "Law Society Gazette", "url": "https://www.lawgazette.co.uk/people/profile-cris-mccurley/5046090.fullarticle"},
-        {"title": "Resolution Review interview", "year": 2023, "venue": "Resolution", "url": "https://resolution.org.uk/the-review-catches-up-with-cris-mccurley/"},
-        {"title": "SHERA Research Group profile and publications", "year": 2024, "venue": "SHERA Research Group", "url": "https://www.shera-research.com/team/cris-mccurley"}
+        {
+          "title": "Profile: Cris McCurley",
+          "year": 2024,
+          "venue": "Law Society Gazette",
+          "url": "https://www.lawgazette.co.uk/people/profile-cris-mccurley/5046090.fullarticle"
+        },
+        {
+          "title": "Resolution Review interview",
+          "year": 2023,
+          "venue": "Resolution",
+          "url": "https://resolution.org.uk/the-review-catches-up-with-cris-mccurley/"
+        },
+        {
+          "title": "SHERA Research Group profile and publications",
+          "year": 2024,
+          "venue": "SHERA Research Group",
+          "url": "https://www.shera-research.com/team/cris-mccurley"
+        }
       ],
       "urls": [
         "https://www.benhoarebell.co.uk/staffmember/cris-mccurley/",
@@ -110,10 +154,29 @@
       "stance": "critique",
       "stance_notes": "Single most-cited UK legal academic on PA-as-courtroom-rhetorical-device weaponised against DV-survivor mothers. Barnett (2020) 'A genealogy of hostility: parental alienation in England and Wales' JSWFL 42(1) is the canonical entry point to the UK critique-camp legal literature. BA/Leverhulme-funded action research 'Domestic Abuse, Parental Alienation and the Family Courts' (Brunel/Rights of Women, 2022-2025) is the empirical anchor of the contemporary critique position. UK academic counterpart to Joan Meier (US).",
       "publications": [
-        {"title": "A genealogy of hostility: parental alienation in England and Wales", "year": 2020, "venue": "Journal of Social Welfare and Family Law 42(1):18-29", "url": "https://www.tandfonline.com/doi/full/10.1080/09649069.2020.1701921", "doi": "10.1080/09649069.2020.1701921"},
-        {"title": "Experiences of Parental Alienation Interventions", "year": 2021, "venue": "Challenging Parental Alienation (Routledge)"},
-        {"title": "Domestic Abuse, Parental Alienation and the Family Courts (BA/Leverhulme action research)", "year": 2025, "venue": "Brunel / Rights of Women (2022-2025)", "url": "https://bura.brunel.ac.uk/handle/2438/30736"},
-        {"title": "Child Sexual Abuse and Family Court Proceedings", "year": 2025, "venue": "Family Law (Jan 2025)"}
+        {
+          "title": "A genealogy of hostility: parental alienation in England and Wales",
+          "year": 2020,
+          "venue": "Journal of Social Welfare and Family Law 42(1):18-29",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/09649069.2020.1701921",
+          "doi": "10.1080/09649069.2020.1701921"
+        },
+        {
+          "title": "Experiences of Parental Alienation Interventions",
+          "year": 2021,
+          "venue": "Challenging Parental Alienation (Routledge)"
+        },
+        {
+          "title": "Domestic Abuse, Parental Alienation and the Family Courts (BA/Leverhulme action research)",
+          "year": 2025,
+          "venue": "Brunel / Rights of Women (2022-2025)",
+          "url": "https://bura.brunel.ac.uk/handle/2438/30736"
+        },
+        {
+          "title": "Child Sexual Abuse and Family Court Proceedings",
+          "year": 2025,
+          "venue": "Family Law (Jan 2025)"
+        }
       ],
       "urls": [
         "https://www.brunel.ac.uk/people/adrienne-barnett",
@@ -139,9 +202,23 @@
       "stance": "critique",
       "stance_notes": "Doyenne of UK feminist family-law scholarship. Statutory-presumption critique (Kaganas 2018 'Parental Involvement: A Discretionary Presumption', Legal Studies) is the precise legal-theoretical underpinning of the October 2023 government commitment to repeal s.1(2A) Children Act 1989. 2024 JSWFL Festschrift in her honour marks her status as the doctrinal anchor of the UK critique camp. Long-running PA/DV collaboration with Adrienne Barnett.",
       "publications": [
-        {"title": "Parental Involvement: A Discretionary Presumption", "year": 2018, "venue": "Legal Studies"},
-        {"title": "When is 'the end of the road' reached? Observing the presumption of parental involvement through systems theory", "year": 2024, "venue": "Journal of Social Welfare and Family Law", "url": "https://www.tandfonline.com/doi/full/10.1080/09649069.2024.2414620", "doi": "10.1080/09649069.2024.2414620"},
-        {"title": "Contact disputes: Narrative constructions of 'good' parents (with Sclater)", "year": 2004, "venue": "Feminist Legal Studies"}
+        {
+          "title": "Parental Involvement: A Discretionary Presumption",
+          "year": 2018,
+          "venue": "Legal Studies"
+        },
+        {
+          "title": "When is 'the end of the road' reached? Observing the presumption of parental involvement through systems theory",
+          "year": 2024,
+          "venue": "Journal of Social Welfare and Family Law",
+          "url": "https://www.tandfonline.com/doi/full/10.1080/09649069.2024.2414620",
+          "doi": "10.1080/09649069.2024.2414620"
+        },
+        {
+          "title": "Contact disputes: Narrative constructions of 'good' parents (with Sclater)",
+          "year": 2004,
+          "venue": "Feminist Legal Studies"
+        }
       ],
       "urls": [
         "https://www.brunel.ac.uk/people/felicity-kaganas",
@@ -166,9 +243,23 @@
       "stance": "critique",
       "stance_notes": "Highest-leverage UK contact on this directory. Instructing solicitor for the mother (with Georgiana Farnell) in Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38, instructing Justin Ageros of 4PB. Chair of the FJC working group that produced the December 2024 alienating-behaviour guidance — the institutional artefact Re Y operationalises. Stance is institutional-critique grounded in both named-case advocacy and FJC policy chairmanship.",
       "publications": [
-        {"title": "Family Justice Council Guidance on responding to allegations of alienating behaviour (working group chair)", "year": 2024, "venue": "Family Justice Council / Judiciary of England & Wales", "url": "https://www.judiciary.uk/wp-content/uploads/2024/12/Family-Justice-Council-Guidance-on-responding-to-allegations-of-alienating-behaviour-2024-1-1.pdf"},
-        {"title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — instructing solicitor for mother", "year": 2026, "venue": "EWFC", "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"},
-        {"title": "Re H-N, Re T, Re H and Re B-B (joined appeals) [2021] EWCA Civ 448", "year": 2021, "venue": "Court of Appeal"}
+        {
+          "title": "Family Justice Council Guidance on responding to allegations of alienating behaviour (working group chair)",
+          "year": 2024,
+          "venue": "Family Justice Council / Judiciary of England & Wales",
+          "url": "https://www.judiciary.uk/wp-content/uploads/2024/12/Family-Justice-Council-Guidance-on-responding-to-allegations-of-alienating-behaviour-2024-1-1.pdf"
+        },
+        {
+          "title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — instructing solicitor for mother",
+          "year": 2026,
+          "venue": "EWFC",
+          "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"
+        },
+        {
+          "title": "Re H-N, Re T, Re H and Re B-B (joined appeals) [2021] EWCA Civ 448",
+          "year": 2021,
+          "venue": "Court of Appeal"
+        }
       ],
       "urls": [
         "https://beckfitzgerald.co.uk/jenny-beck/",
@@ -195,7 +286,12 @@
       "stance": "recognition",
       "stance_notes": "Only KC-authored UK practitioner manual on PA — co-author with Frankie Shama of A Practical Guide to Parental Alienation in Private and Public Law Children Cases (Law Brief Publishing, 2022). Recognition-camp counterpart to Joshi's ABA book (US). Regular instructions in Children Act 1989 private- and public-law alienation cases. Stance is recognition grounded in published practitioner-manual authorship and silk-level instruction record.",
       "publications": [
-        {"title": "A Practical Guide to Parental Alienation in Private and Public Law Children Cases (co-author Frankie Shama)", "year": 2022, "venue": "Law Brief Publishing", "url": "https://www.lawbriefpublishing.com/product/parentalalienation/"}
+        {
+          "title": "A Practical Guide to Parental Alienation in Private and Public Law Children Cases (co-author Frankie Shama)",
+          "year": 2022,
+          "venue": "Law Brief Publishing",
+          "url": "https://www.lawbriefpublishing.com/product/parentalalienation/"
+        }
       ],
       "urls": [
         "https://www.4pb.com/barristers/sam-king/",
@@ -222,7 +318,12 @@
       "stance": "recognition",
       "stance_notes": "Co-author with Sam King KC of A Practical Guide to Parental Alienation in Private and Public Law Children Cases (Law Brief Publishing, 2022). Junior counterpart to King KC; entry point to the next-generation recognition bar at 4PB. Stance is recognition by co-authorship and instructed-junior caseload in private-children-law PA cases at 4PB.",
       "publications": [
-        {"title": "A Practical Guide to Parental Alienation in Private and Public Law Children Cases (co-author Sam King KC)", "year": 2022, "venue": "Law Brief Publishing", "url": "https://www.lawbriefpublishing.com/product/parentalalienation/"}
+        {
+          "title": "A Practical Guide to Parental Alienation in Private and Public Law Children Cases (co-author Sam King KC)",
+          "year": 2022,
+          "venue": "Law Brief Publishing",
+          "url": "https://www.lawbriefpublishing.com/product/parentalalienation/"
+        }
       ],
       "urls": [
         "https://www.4pb.com/barristers/frankie-shama/",
@@ -246,9 +347,22 @@
       "stance": "middle",
       "stance_notes": "Writes for both fathers'-rights and child-protection audiences — bridge-builder; opens Families Need Fathers / Resolution simultaneously. Podcast 'From parental alienation to alienating behaviours' (St John's Chambers) explicitly reframes the recognition / critique vocabulary. Position is procedural-middle rather than pure recognition because her published work is about vocabulary reframing rather than diagnostic endorsement.",
       "publications": [
-        {"title": "From Parental Alienation to Alienating Behaviours (podcast)", "year": 2024, "venue": "St John's Chambers", "url": "https://www.stjohnschambers.co.uk/podcast/from-parental-alienation-to-alienating-behaviours"},
-        {"title": "Families Need Fathers commentary on indirect contact", "year": 2019, "venue": "Family Law journal (May 2019)"},
-        {"title": "Child Protection Resource (blog / author)", "year": 2015, "venue": "childprotectionresource.online"}
+        {
+          "title": "From Parental Alienation to Alienating Behaviours (podcast)",
+          "year": 2024,
+          "venue": "St John's Chambers",
+          "url": "https://www.stjohnschambers.co.uk/podcast/from-parental-alienation-to-alienating-behaviours"
+        },
+        {
+          "title": "Families Need Fathers commentary on indirect contact",
+          "year": 2019,
+          "venue": "Family Law journal (May 2019)"
+        },
+        {
+          "title": "Child Protection Resource (blog / author)",
+          "year": 2015,
+          "venue": "childprotectionresource.online"
+        }
       ],
       "urls": [
         "https://www.stjohnschambers.co.uk/profile/sarah-phillimore",
@@ -272,8 +386,17 @@
       "stance": "middle",
       "stance_notes": "Rare UK barrister with arbitrator/mediator dual hat — opens ADR-route PA work. Successful appeal for applicant mother in Re T (A Child) (s.9(6) Children Act 1989 orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam); successful appeal preventing publication of named-parent High Court PA judgment (mother as appellant). Position is procedural-middle (Family Procedure Rules / ADR) grounded in successful-mother-appellant practice.",
       "publications": [
-        {"title": "High Court confirms the importance of a young person's wishes and feelings when considering if a child arrangements order should be made beyond the age of 16", "year": 2024, "venue": "5SAH Knowledge Hub", "url": "https://www.5sah.co.uk/knowledge-hub/articles/2024-04-24/high-court-confirms-the-importance-of-a-young-persons-wishes-and-feelings-when-considering-if-a-child-arrangements-order-should-be-made-beyond-the-age-of-16"},
-        {"title": "Re T (A Child) (s.9(6) Children Act 1989 orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam) — successful appeal for applicant mother", "year": 2024, "venue": "EWHC (Fam)"}
+        {
+          "title": "High Court confirms the importance of a young person's wishes and feelings when considering if a child arrangements order should be made beyond the age of 16",
+          "year": 2024,
+          "venue": "5SAH Knowledge Hub",
+          "url": "https://www.5sah.co.uk/knowledge-hub/articles/2024-04-24/high-court-confirms-the-importance-of-a-young-persons-wishes-and-feelings-when-considering-if-a-child-arrangements-order-should-be-made-beyond-the-age-of-16"
+        },
+        {
+          "title": "Re T (A Child) (s.9(6) Children Act 1989 orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam) — successful appeal for applicant mother",
+          "year": 2024,
+          "venue": "EWHC (Fam)"
+        }
       ],
       "urls": [
         "https://www.5sah.co.uk/barristers/maria-scotland",
@@ -297,10 +420,27 @@
       "stance": "middle",
       "stance_notes": "Chair of the only UK charity built around family-court transparency — the body whose stated mission AntiAlienate's published case-studies most directly support. Co-author Transparency in the Family Courts (Bloomsbury Professional, 2nd ed.); author The Family Court Without a Lawyer (4th ed., Bath Publishing, 2022); Pink Tape blog since 2007; regular Radio 4 Today Programme contributor. Position is procedural-middle grounded in transparency / FPR reform rather than substantive PA-position.",
       "publications": [
-        {"title": "Transparency in the Family Courts: Publicity and Privacy in Practice (co-author)", "year": 2023, "venue": "Bloomsbury Professional (2nd ed.)"},
-        {"title": "The Family Court Without a Lawyer: A Handbook for Litigants in Person (4th ed.)", "year": 2022, "venue": "Bath Publishing"},
-        {"title": "My transparency journey", "year": 2023, "venue": "Counsel magazine", "url": "https://www.counselmagazine.co.uk/articles/my-transparency-journey-lucy-reed"},
-        {"title": "Pink Tape (blog)", "year": 2007, "venue": "pinktape.co.uk"}
+        {
+          "title": "Transparency in the Family Courts: Publicity and Privacy in Practice (co-author)",
+          "year": 2023,
+          "venue": "Bloomsbury Professional (2nd ed.)"
+        },
+        {
+          "title": "The Family Court Without a Lawyer: A Handbook for Litigants in Person (4th ed.)",
+          "year": 2022,
+          "venue": "Bath Publishing"
+        },
+        {
+          "title": "My transparency journey",
+          "year": 2023,
+          "venue": "Counsel magazine",
+          "url": "https://www.counselmagazine.co.uk/articles/my-transparency-journey-lucy-reed"
+        },
+        {
+          "title": "Pink Tape (blog)",
+          "year": 2007,
+          "venue": "pinktape.co.uk"
+        }
       ],
       "urls": [
         "https://www.stjohnschambers.co.uk/profile/lucy-reed-kc",
@@ -325,8 +465,18 @@
       "stance": "middle",
       "stance_notes": "Counsel of record on the 2026 set-aside that re-set UK PA jurisprudence — lead counsel for applicant mother in Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38, instructed by Jenny Beck KC (Hon) and Georgiana Farnell. Earlier set-aside of PA findings on similar grounds in O v C [2025] EWFC 334. Position is procedural-middle (evaluator-quality / Part 25 expert-instruction reform) by the most current and concrete named-judgment route available.",
       "publications": [
-        {"title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — lead counsel for applicant mother", "year": 2026, "venue": "EWFC", "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"},
-        {"title": "O v C [2025] EWFC 334 — earlier set-aside of PA findings", "year": 2025, "venue": "EWFC", "url": "https://www.4pb.com/news/justin-ageros-successfully-argues-in-the-high-court-for-the-setting-aside-of-five-year-old-parental-alienation-findings/"}
+        {
+          "title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — lead counsel for applicant mother",
+          "year": 2026,
+          "venue": "EWFC",
+          "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"
+        },
+        {
+          "title": "O v C [2025] EWFC 334 — earlier set-aside of PA findings",
+          "year": 2025,
+          "venue": "EWFC",
+          "url": "https://www.4pb.com/news/justin-ageros-successfully-argues-in-the-high-court-for-the-setting-aside-of-five-year-old-parental-alienation-findings/"
+        }
       ],
       "urls": [
         "https://www.4pb.com/barristers/justin-ageros/",
@@ -352,8 +502,18 @@
       "stance": "middle",
       "stance_notes": "Senior children silk who specifically advanced the 'child's voice unheard' argument in Re Y — opens the child-representation / Cafcass-reform conversation. Led Chris Barnes KC for the child Dylan in Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38, instructed by Peggy Ray (Goodman Ray). Multiple Court of Appeal serious-injury, sexual-assault, radicalisation and abuse children cases. Position is procedural-middle grounded in child-representation.",
       "publications": [
-        {"title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — leading Chris Barnes KC for the child", "year": 2026, "venue": "EWFC", "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"},
-        {"title": "Family courts: Gill vindicated — quoted senior silk", "year": 2026, "venue": "The Bureau of Investigative Journalism", "url": "https://www.thebureauinvestigates.com/stories/2026-02-13/family-courts-gill-vindicated"}
+        {
+          "title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — leading Chris Barnes KC for the child",
+          "year": 2026,
+          "venue": "EWFC",
+          "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"
+        },
+        {
+          "title": "Family courts: Gill vindicated — quoted senior silk",
+          "year": 2026,
+          "venue": "The Bureau of Investigative Journalism",
+          "url": "https://www.thebureauinvestigates.com/stories/2026-02-13/family-courts-gill-vindicated"
+        }
       ],
       "urls": [
         "https://www.4pb.com/barristers/jo-delahunty/",
@@ -379,7 +539,12 @@
       "stance": "middle",
       "stance_notes": "Completes the 4PB three-silk team for the child in Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — junior silk to Jo Delahunty KC for the child. Useful as a junior-silk follow-on contact. Position is procedural-middle by named-judgment representation rather than published doctrinal position.",
       "publications": [
-        {"title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — junior silk to Jo Delahunty KC for the child", "year": 2026, "venue": "EWFC", "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"}
+        {
+          "title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — junior silk to Jo Delahunty KC for the child",
+          "year": 2026,
+          "venue": "EWFC",
+          "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"
+        }
       ],
       "urls": [
         "https://www.4pb.com/barristers/chris-barnes/",
@@ -404,9 +569,23 @@
       "stance": "middle",
       "stance_notes": "Author of the spine of UK PA jurisprudence — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) and Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (the evaluator-quality apex). Stance is procedural-reform / middle: in Re Y he set aside findings of alienating behaviour made on the basis of Melanie Gill's unregulated PA-evaluation and held that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the BPS.' Cite him in every UK-facing AntiAlienate document. Authority on case-study:re-y-2026-ewfc-38 — he wrote it.",
       "publications": [
-        {"title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — author", "year": 2026, "venue": "EWFC", "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"},
-        {"title": "Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) — author", "year": 2023, "venue": "EWHC (Fam)", "url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"},
-        {"title": "Re H-N and Others (Children) [2021] EWCA Civ 448 — DV finding-of-fact framework (presiding)", "year": 2021, "venue": "EWCA Civ"}
+        {
+          "title": "Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — author",
+          "year": 2026,
+          "venue": "EWFC",
+          "url": "https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf"
+        },
+        {
+          "title": "Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) — author",
+          "year": 2023,
+          "venue": "EWHC (Fam)",
+          "url": "https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html"
+        },
+        {
+          "title": "Re H-N and Others (Children) [2021] EWCA Civ 448 — DV finding-of-fact framework (presiding)",
+          "year": 2021,
+          "venue": "EWCA Civ"
+        }
       ],
       "urls": [
         "https://www.judiciary.uk/guidance-and-resources/president-of-the-family-division-the-rt-hon-sir-andrew-mcfarlane/",
@@ -432,8 +611,17 @@
       "stance": "middle",
       "stance_notes": "FJC + Family Procedure Rules Committee Chair — her structural role is why the December 2024 alienating-behaviour guidance exists (working group chaired by Jenny Beck KC (Hon)). Stance is procedural-reform / middle by institutional architecture rather than named-judgment authorship at the McFarlane P Re C / Re Y level. Judicial entry — do not solicit.",
       "publications": [
-        {"title": "Family Justice Council Guidance on responding to allegations of alienating behaviour (Chair, FJC)", "year": 2024, "venue": "Family Justice Council / Judiciary of England & Wales", "url": "https://www.judiciary.uk/wp-content/uploads/2024/12/Family-Justice-Council-Guidance-on-responding-to-allegations-of-alienating-behaviour-2024-1-1.pdf"},
-        {"title": "Family Procedure Rules and Practice Directions (Chair, FPRC)", "year": 2024, "venue": "Family Procedure Rules Committee"}
+        {
+          "title": "Family Justice Council Guidance on responding to allegations of alienating behaviour (Chair, FJC)",
+          "year": 2024,
+          "venue": "Family Justice Council / Judiciary of England & Wales",
+          "url": "https://www.judiciary.uk/wp-content/uploads/2024/12/Family-Justice-Council-Guidance-on-responding-to-allegations-of-alienating-behaviour-2024-1-1.pdf"
+        },
+        {
+          "title": "Family Procedure Rules and Practice Directions (Chair, FPRC)",
+          "year": 2024,
+          "venue": "Family Procedure Rules Committee"
+        }
       ],
       "urls": [
         "https://www.judiciary.uk/guidance-and-resources/mrs-justice-theis/",
@@ -446,6 +634,27 @@
         "case-study:re-y-2026-ewfc-38",
         "practitioner:uk.judge-mcfarlane-andrew-p",
         "practitioner:uk.beck-jenny-kc-hon"
+      ]
+    },
+    {
+      "id": "uk.no5-chambers",
+      "name": "No5 Chambers",
+      "credentials": "Multi-disciplinary set of barristers' chambers with offices in London + Birmingham + Bristol + Leicester + Manchester; specialisms including family law (private + public children + finance + international family); SRA-recognised set",
+      "city": "London + Birmingham (multi-site)",
+      "region": "England (UK-wide practice)",
+      "affiliation": "No5 Chambers — multi-disciplinary barristers set",
+      "stance": "institutional",
+      "stance_notes": "Institutional cross-reference: No5 Chambers is a multi-disciplinary English barristers set with a significant family-law practice including private-law children proceedings. Cross-linked from practitioners/lawyers/asia.json (in.luthra-geeta + in.malhotra-anil entries) for the international-family-law collaboration register where Indian senior counsel collaborate with English family chambers on cross-border PA-adjacent matters (Hague Convention return cases, Brussels IIa/IIb, NRI custody). No5 Chambers does not carry a chambers-level PA-construct position statement; individual practitioners engage PA matters under English Children Act 1989 + post-Re Y [2026] EWFC 38 evaluator-quality framework. Institutional entry cross-link rather than individual-practitioner entry.",
+      "publications": [],
+      "urls": [
+        "https://www.no5.com/"
+      ],
+      "contact": "Vía no5.com",
+      "verification_notes": "No5 Chambers is an established English barristers set with multi-site operations. Cross-link from asia.json lawyer entries (in.luthra-geeta + in.malhotra-anil) for international family-law collaboration register. No PA-construct chambers-level position located.",
+      "references": [
+        "jurisdiction:england-and-wales",
+        "jurisdiction:united-kingdom",
+        "case-study:re-y-2026-ewfc-38"
       ]
     }
   ],

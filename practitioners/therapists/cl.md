@@ -385,6 +385,24 @@ Santiago · Región Metropolitana · Poder Judicial — Corte Suprema de Chile
 
 <sub>ID: `cl.cs-sala-cuarta`</sub>
 
+### Tribunales de Familia de Chile
+*Tribunales especializados de familia bajo la Ley 19.968/2004 creación de los Tribunales de Familia; jueces de familia; Consejeros/as Técnicos/as como evaluadores in-court*
+Múltiples sedes nacionales · Chile (nacional) · Poder Judicial de Chile — Tribunales de Familia
+
+**Stance:** Foro especializado de primera instancia para disputas de cuidado personal, régimen comunicacional, alimentos y violencia intrafamiliar en Chile. Operan bajo la Ley 19.968/2004 con Consejeros Técnicos como evaluadores in-court. Los Tribunales de Familia son el ámbito operacional donde se litigan las situaciones que en otras jurisdicciones serían etiquetadas como 'alienación parental' — habitualmente bajo los marcos de cuidado personal compartido (Ley 20.680/2013 art. 224 CC), interés superior del menor (Ley 21.430/2022) y violencia intrafamiliar (Ley 20.066/2005 + Ley 21.675/2024). Los Tribunales no han emitido posicionamiento institucional unificado pro o contra SAP; las decisiones son caso-por-caso. La Corte Suprema Sala Cuarta ha incorporado perspectiva de género en revisiones de apelaciones de familia, pero sin proscribir SAP a nivel apex (ver chile.json structural_findings).
+
+**Verification:**
+- <https://www.pjud.cl/tribunales/tribunales-de-familia>
+- <https://www.bcn.cl/leychile/navegar?idNorma=229557>
+
+**Contact:** Vía Poder Judicial Chile
+
+*Notes: Tribunales de Familia creados por Ley 19.968/2004; estructura institucional verificada vía pjud.cl + BCN Ley Chile. Entrada institucional de referencia cross-link desde otras entradas Chile.*
+
+**See also:** `jurisdiction:chile`, `practitioner:cl.cdpch`
+
+<sub>ID: `cl.tribunales-familia`</sub>
+
 ## Excluded (with documented reason)
 
 - **María Olga Solar Castillo** — unverifiable — no se ha podido verificar a partir de fuentes primarias (sitio U. de Chile, repositorio académico, Dialnet, ResearchGate, SciELO) una psicóloga forense chilena 'María Olga Solar Castillo' con afiliación a Universidad de Chile y publicación PA-específica retrievable. El nombre podría corresponder a profesional sin huella académica indexada o haber sido confundida con otra autora. Sin URL primaria verificable, se excluye siguiendo regla editorial conservadora.
