@@ -43,11 +43,14 @@ Focused synthesis of how coercive-control statutory reforms (2015-2024) intersec
 ### 13. [Children's Rights Paramountcy Doctrine Across Jurisdictions](childrens-rights-paramountcy-doctrine.md)
 Cross-jurisdictional synthesis of children's-rights-paramountcy doctrine across PA-adjacent apex jurisprudence. Doctrine architecture (UN CRC art. 3(1) primary-consideration baseline + Hague + national-constitutional framings). 3 doctrinal-formulation clusters (strong paramountcy E&W/SCO/NI/HK/SA + safety-primary AU/NZ + best-interests/interés superior India/Mexico/Argentina/Italy/Spain/Brazil/Colombia). 23-row comparative paramountcy table. 8 structural observations including SA Const. s.28(2) STRONGEST paramountcy formulation + AU+NZ safety-primary distinctive + Colombia PREVALENCE formulation distinctive + Brazil ABSOLUTA PRIORIDADE distinctive + UN CRC baseline weaker than common-law paramountcy + India apex operationalises welfare through evaluator-mechanism + Strasbourg supranational cuts across.
 
+### 14. [Single-Judge Authored Apex Decisions](single-judge-authored-apex-decisions.md)
+Structural pattern visible across the PA-adjacent jurisprudence corpus: distinguishing single-judge authored apex decisions from collegial-panel patterns. Common-law concentration (McFarlane P E&W Re-arc + Lord Stuart Scotland + Adams J SA + Debbie Ong J Singapore) vs civil-law collegial+rapporteur patterns (Italian Cassazione + Mexican SCJN Tribunal Pleno+ponente + Brazilian STJ Section+relatora) vs Strasbourg Chamber/Grand Chamber maximum collegial. 18-row comparative authorship pattern table. 8 structural observations including McFarlane P sustained-authorial Re-arc structurally distinctive + Italian Cassazione triad doctrinal coherence through institution rather than author + Mexican SCJN hybrid pleno+ponente + Brazilian STJ Andrighi relatoria coherence + judicial-mobility pattern (Ong J + Piña Hernández).
+
 ## Cross-page structure
 
 Evidence pages operate at three analytic levels:
 
-**Level 1 — Cross-jurisdictional thematic synthesis** (pages 1, 2, 6, 13)
+**Level 1 — Cross-jurisdictional thematic synthesis** (pages 1, 2, 6, 13, 14)
 Synthesizes a thematic dimension visible across the entire corpus.
 
 **Level 2 — Regional/structural cluster synthesis** (pages 3, 4, 5)
