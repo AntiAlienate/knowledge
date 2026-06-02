@@ -149,7 +149,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 - `case-study:nf-v-af-2025-csoh-13-scotland`
 - `case-study:bverfg-1-bvr-1076-23-germany-2023`
 - `case-study:cassazione-9691-2022-italy`
-- `practitioner:uk.gill-melanie`
+- `practitioner:uk-ews.gill-melanie`
 - `jurisdiction:england-and-wales`
 
 ## Sources

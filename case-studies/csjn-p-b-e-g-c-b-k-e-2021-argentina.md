@@ -118,7 +118,7 @@ CSJN (7-X-2021, CSJ 1813/2018/RH1): hace lugar al recurso de queja, acepta en su
 - `case-study:bverfg-1-bvr-1076-23-germany-2023`
 - `case-study:scjn-ai-11-2016-oaxaca-mexico`
 - `practitioner:ar.cardenas-eduardo`
-- `practitioner:ar.giberti-eva-in-memoriam`
+- `practitioner:ar.giberti-eva`
 - `practitioner:ar.baita-sandra`
 - `jurisdiction:argentina`
 

@@ -139,7 +139,7 @@ Ciudad Autónoma de Buenos Aires · CABA · Independent practice (Buenos Aires);
 
 *Notes: Verified via CEAP site, UBA Derecho institutional book-presentation page (2022), Universidad de Palermo faculty page, and Infobae 2024 coverage of CEAP Congreso UBA. CPACF matrícula not publicly displayed.*
 
-**See also:** `jurisdiction:argentina`, `practitioner:ar.cardenas-eduardo`, `practitioner:ar.herscovici-pedro`, `practitioner:ar.diaz-usandivaras-carlos`, `practitioner:br.madaleno-rolf`, `practitioner:br.pereira-rodrigo-cunha`, `case-study:csjn-p-b-e-g-c-b-k-e-medidas-precautorias-2021-alienacion-parental`
+**See also:** `jurisdiction:argentina`, `practitioner:ar.cardenas-eduardo`, `practitioner:ar.herscovici-pedro`, `practitioner:ar.diaz-usandivaras-carlos`, `practitioner:br.madaleno-rolf`, `practitioner:br.pereira-rodrigo-cunha`, `case-study:csjn-p-b-e-g-c-b-k-e-2021-argentina`
 
 <sub>ID: `ar.mizrahi-mauricio`</sub>
 

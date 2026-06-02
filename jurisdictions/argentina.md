@@ -110,7 +110,7 @@ CSJN anonimiza por iniciales (P., B. E. G. c/ B., K. E.); la SCBA y demás fuero
 - `practitioner:ar.cardenas-eduardo`
 - `practitioner:ar.herscovici-pedro`
 - `practitioner:ar.diaz-usandivaras-carlos`
-- `practitioner:ar.giberti-eva-in-memoriam`
+- `practitioner:ar.giberti-eva`
 - `practitioner:ar.baita-sandra`
 - `practitioner:ar.berlinerblau-virginia`
 - `practitioner:ar.rozanski-carlos`
