@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-02T10:55:44Z",
+  "generated": "2026-06-02T11:24:36Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -27,7 +27,7 @@
     "practitioners_lawyers": 10,
     "case_studies": 34,
     "jurisdictions": 36,
-    "evidence_pages": 12
+    "evidence_pages": 13
   },
   "indexes": {
     "practitioners_therapists": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/index.json",
@@ -336,6 +336,10 @@
     {
       "id": "asian-apex-recognition-cluster-2017-2026",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/asian-apex-recognition-cluster-2017-2026.md"
+    },
+    {
+      "id": "coercive-control-statutes-and-pa-critique-intersection",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md"
     },
     {
       "id": "cross-border-parental-abduction-and-pa-intersection",

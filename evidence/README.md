@@ -37,6 +37,9 @@ Triple comparison of the world's three statutory PA jurisdictions: Brazil Lei 12
 ### 11. [Cross-Border Parental Abduction and PA-Adjacent Intersection](cross-border-parental-abduction-and-pa-intersection.md)
 Focused synthesis of Hague Convention 1980 intersection with PA-adjacent fact-patterns. Hague architecture + Art 13(1)(b) grave-risk + Art 13(2) child-objection principal intersection points + Strasbourg Grand Chamber Neulinger 2010 + X v Latvia 2013 framework + cross-jurisdictional practice (US ICARA + Monasky 2020 + Golan 2022 + UK Re E + AU DP v Commonwealth + Japan accession 2014 + Act 33/2024 + INDIA NOT ACCEDED + Singapore + HK + Brazil + LATAM5 + SA + EU Brussels IIb). 15-row comparative engagement table. 8 structural observations including Hague mandate STRUCTURAL TENSION with PA-adjacent reasoning + Art 13(2) PRINCIPAL INTERSECTION POINT + India non-accession structural significance + Asian apex cluster operates without Hague constraint.
 
+### 12. [Coercive Control Statutes and PA-Critique Intersection](coercive-control-statutes-and-pa-critique-intersection.md)
+Focused synthesis of how coercive-control statutory reforms (2015-2024) intersect with PA-construct critique register. Reform wave (E&W 2015 + Scotland 2018 + NI 2021 + AU 2022-2023 + Chile 2024 + Japan 2024 + SA 2021 + Spain LOPIVI + France contrôle coercitif + Belgium IEFH/IGVM + Argentina Ley 26.485 + Italy + NZ Family Violence Act 2018). 13-row comparative reform table. 8 structural observations including parallel reform sequences 2015-2024 + coercive-control framing as ALTERNATIVE CRITIQUE-ANCHOR + Anglophone vs continental civil-law approaches + Scotland 2018 + NI 2021 strongest UK models + violencia vicaria framework + Chile conceptual substitution Ley 21.675/2024 + Japan DV amendments operationalise joint-custody carve-out + multi-tier convergence Strasbourg+UN Alsalem+MESECVI.
+
 ## Cross-page structure
 
 Evidence pages operate at three analytic levels:
@@ -47,8 +50,8 @@ Synthesizes a thematic dimension visible across the entire corpus.
 **Level 2 — Regional/structural cluster synthesis** (pages 3, 4, 5)
 Synthesizes regional or structural-cluster patterns (EU apex / Asian apex / LATAM5 institutional).
 
-**Level 3 — Focused thematic doctrine synthesis** (pages 7, 8, 9, 10, 11)
-Synthesizes focused thematic doctrines (evaluator-quality / Strasbourg Art 8 / statutory PA / reunification programmes / Hague Convention intersection).
+**Level 3 — Focused thematic doctrine synthesis** (pages 7, 8, 9, 10, 11, 12)
+Synthesizes focused thematic doctrines (evaluator-quality / Strasbourg Art 8 / statutory PA / reunification programmes / Hague Convention intersection / coercive control statutes intersection).
 
 ## Cross-references
 
