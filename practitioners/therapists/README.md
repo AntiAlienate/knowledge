@@ -18,7 +18,8 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **Netherlands** | [nl.md](nl.md) | [nl.json](nl.json) | **v2.0** | 17 verified + 5 excluded |
 | **Belgium** | [be.md](be.md) | [be.json](be.json) | **v2.0** | 17 verified + 6 excluded |
 | **EU (DE/FR/ES/IT/NL/BE)** | [eu.md](eu.md) | [eu.json](eu.json) | v1.0 (legacy) | 22 verified across 6 countries (superseded by per-country v2 deepenings) |
-| **Brazil** | [brazil.md](brazil.md) | [brazil.json](brazil.json) | v1.0 (legacy) | 15 verified + 7 excluded |
+| **Brazil** (focused v2 institutional regulators) | [br.md](br.md) | [br.json](br.json) | **v2.0** | 3 institutional entries (CFP NT 4/2022 + CFESS + IBDFAM) |
+| **Brazil** (legacy v1) | [brazil.md](brazil.md) | [brazil.json](brazil.json) | v1.0 (legacy) | 15 verified + 7 excluded — superseded by br.json focused v2 + jurisdiction:brazil sidecar |
 | **Mexico** | [mexico.md](mexico.md) | [mexico.json](mexico.json) | v1.0 (legacy) | 15 verified + 9 excluded |
 | **Argentina** | [ar.md](ar.md) | [ar.json](ar.json) | **v2.0** | 14 verified + 9 excluded |
 | **Colombia** | [co.md](co.md) | [co.json](co.json) | **v2.0** | 13 verified + 6 excluded |
@@ -28,7 +29,7 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **Asia (non-IN: SG/HK/JP/KR)** | [asia.md](asia.md) | [asia.json](asia.json) | **v2.0** | 8 verified + 16 excluded |
 | **Africa (ZA + KE/NG/EG)** | [africa.md](africa.md) | [africa.json](africa.json) | **v2.0** | 20 verified + 6 excluded |
 
-**All 17 country/regional files are now schema v2.0 (JSON-canonical).** The `.md` is rendered from the JSON by `bin/aa-build render`. The legacy v1.0 format is fully migrated. See [/ARCHITECTURE.md](../../ARCHITECTURE.md) for the architecture spec and `/manifest.json` for the canonical enumeration for downstream consumers.
+**18 country/regional files are now schema v2.0 (JSON-canonical).** The `.md` is rendered from the JSON by `bin/aa-build render`. The legacy v1.0 format is largely migrated; brazil.json + mexico.json + eu.json + latam.json remain as backwards-link continuity legacy files superseded by per-country v2 deepenings. See [/ARCHITECTURE.md](../../ARCHITECTURE.md) for the architecture spec and `/manifest.json` for the canonical enumeration for downstream consumers.
 
 **LATAM5 bloc fully deepened** (BR / MX / AR / CO / CL all standalone). The legacy `latam.md` aggregate is now superseded by the per-country files — kept for backwards-link continuity.
 
