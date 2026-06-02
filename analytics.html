@@ -52,14 +52,14 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
 <body>
 <header>
   <h1>AntiAlienate Knowledge — Analytics Dashboard</h1>
-  <div class="meta">Generated 2026-06-02T00:15:59.437600Z · CC BY 4.0 · <a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main" style="color:#aac">github.com/AntiAlienate/antialienate-knowledge</a> · <a href="https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json" style="color:#aac">manifest.json</a></div>
+  <div class="meta">Generated 2026-06-02T00:43:05.021371Z · CC BY 4.0 · <a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main" style="color:#aac">github.com/AntiAlienate/antialienate-knowledge</a> · <a href="https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json" style="color:#aac">manifest.json</a></div>
 </header>
 <nav>
   <a href="#overview">Overview</a>
   <a href="#therapists">Therapists (275)</a>
   <a href="#lawyers">Lawyers (167)</a>
   <a href="#cases">Cases (30)</a>
-  <a href="#jurisdictions">Jurisdictions (35)</a>
+  <a href="#jurisdictions">Jurisdictions (36)</a>
   <a href="#exclusions">Exclusions (243)</a>
 </nav>
 <main>
@@ -69,7 +69,7 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
   <div class="kpi-grid">
     <div class="kpi"><div class="label">Verified people / orgs</div><div class="value">442</div><div class="sub">275 therapists + 167 lawyers</div></div>
     <div class="kpi"><div class="label">Case studies (JSON)</div><div class="value">30</div><div class="sub">Across 19 jurisdictions</div></div>
-    <div class="kpi"><div class="label">Jurisdictions (full)</div><div class="value">35</div><div class="sub">Statute + apex + regulator</div></div>
+    <div class="kpi"><div class="label">Jurisdictions (full)</div><div class="value">36</div><div class="sub">Statute + apex + regulator</div></div>
     <div class="kpi alt"><div class="label">Documented exclusions</div><div class="value">243</div><div class="sub">With reasons + sources</div></div>
     <div class="kpi alt"><div class="label">Verbatim court quotes</div><div class="value">142</div><div class="sub">Original lang + translation</div></div>
     <div class="kpi alt"><div class="label">Footnote sources cited</div><div class="value">362</div><div class="sub">Across all cases</div></div>
@@ -77,15 +77,15 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
   <div style="margin-top:24px;">
     <h3 style="margin:0 0 8px;font-size:14px;color:#444">Knowledge graph</h3>
     <table style="max-width:600px">
-      <tr><th>Total nodes</th><td><b>507</b> (entries + cases + jurisdictions)</td></tr>
-      <tr><th>Total edges</th><td><b>2230</b> cross-references between entities</td></tr>
+      <tr><th>Total nodes</th><td><b>508</b> (entries + cases + jurisdictions)</td></tr>
+      <tr><th>Total edges</th><td><b>2233</b> cross-references between entities</td></tr>
       <tr><th>Avg edges/node</th><td><b>4.4</b></td></tr>
       <tr><th>Named judges</th><td>81 (across 30 cases)</td></tr>
       <tr><th>Named counsel</th><td>83</td></tr>
       <tr><th>Named experts</th><td>53 (anonymised where court did)</td></tr>
-      <tr><th>Statutes cited</th><td>250 (across 35 jurisdictions)</td></tr>
-      <tr><th>Apex decisions indexed</th><td>150</td></tr>
-      <tr><th>Professional regulators</th><td>230</td></tr>
+      <tr><th>Statutes cited</th><td>251 (across 36 jurisdictions)</td></tr>
+      <tr><th>Apex decisions indexed</th><td>151</td></tr>
+      <tr><th>Professional regulators</th><td>231</td></tr>
     </table>
   </div>
 </section>
@@ -673,7 +673,7 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
 </section>
 
 <section id="jurisdictions" style="display:none">
-  <h2>Jurisdictions — 35 with full JSON sidecar</h2>
+  <h2>Jurisdictions — 36 with full JSON sidecar</h2>
   <table id="jurisdictions">
     <thead><tr>
       <th onclick="sortTable('jurisdictions',0)">Jurisdiction</th>
@@ -720,6 +720,7 @@ footer { text-align: center; color: #888; font-size: 12px; padding: 24px; border
 <tr><td><b>United Kingdom</b></td><td><span class="code">GBR</span></td><td>common-law</td><td>silent</td><td>recognition</td><td>varies-by-region</td><td data-sort="3">3</td><td data-sort="2">2</td><td data-sort="4">4</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/united-kingdom.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>United Kingdom (England &amp; Wales)</b></td><td><span class="code">UK-EWS</span></td><td>common-law</td><td>silent</td><td>middle</td><td>position-statement-against</td><td data-sort="12">12</td><td data-sort="3">3</td><td data-sort="7">7</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/england-and-wales.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>United Kingdom — Devolved Jurisdictions (Scotland / Northern Ireland / Wales)</b></td><td><span class="code">GB</span></td><td>common-law</td><td>silent</td><td>recognition</td><td>varies-by-region</td><td data-sort="3">3</td><td data-sort="4">4</td><td data-sort="2">2</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/uk-devolved.json" class="entity-link">📄</a></td></tr>
+<tr><td><b>United Kingdom — England and Wales (alias for england-and-wales)</b></td><td><span class="code">GB-EAW</span></td><td>common-law</td><td>silent</td><td>recognition</td><td>varies-by-region</td><td data-sort="1">1</td><td data-sort="1">1</td><td data-sort="1">1</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/uk-ews.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>United States</b></td><td><span class="code">US</span></td><td>common-law</td><td>silent</td><td>no-apex-position</td><td>varies-by-region</td><td data-sort="8">8</td><td data-sort="4">4</td><td data-sort="9">9</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/united-states.json" class="entity-link">📄</a></td></tr>
 <tr><td><b>Wales (Cymru)</b></td><td><span class="code">GB-WLS</span></td><td>common-law</td><td>silent</td><td>no-apex-position</td><td>silent</td><td data-sort="3">3</td><td data-sort="2">2</td><td data-sort="6">6</td><td><a href="https://github.com/AntiAlienate/antialienate-knowledge/blob/main/jurisdictions/wales.json" class="entity-link">📄</a></td></tr>
     </tbody>
