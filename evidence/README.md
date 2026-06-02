@@ -1,6 +1,6 @@
 # Evidence — Cross-Jurisdictional Thematic Synthesis Pages
 
-Thematic synthesis pages compiled from the AntiAlienate knowledge base v2 corpus (28 v2 practitioner files + 34 case studies + 36 jurisdictions). Evidence pages are MD-only entity type — discoverable via `/manifest.json` enumeration. CC BY 4.0.
+Thematic synthesis pages compiled from the AntiAlienate knowledge base v2 corpus (29 v2 practitioner files + 34 case studies + 36 jurisdictions). Evidence pages are MD-only entity type — discoverable via `/manifest.json` enumeration. CC BY 4.0.
 
 ## Pages
 
@@ -34,6 +34,9 @@ Triple comparison of the world's three statutory PA jurisdictions: Brazil Lei 12
 ### 10. [Reunification Programmes and Their Regulation](reunification-programmes-and-regulation.md)
 14-jurisdiction landscape of structured reunification programmes deployed in PA-adjacent fact-patterns. US Family Bridges + Canadian Family Reflections + UK Cafcass + AU FRW + NZ Goldson Family Matters Centre + Singapore CAPS + HK 5 SWD Centres + India counsellor mechanism + SA Family Advocate + Italian CTU + NL Methode SAT + Lorentzhuis. 14-row comparative regulatory routes table. 8 structural observations including 3 regulatory routes (mainstream-regulator-within / extra-regulator-NGO / methodological-advisory) + court-attached institutional welfare-evaluator dominance + AU FRW by-design middle-camp + NZ Goldson Model government-adopted.
 
+### 11. [Cross-Border Parental Abduction and PA-Adjacent Intersection](cross-border-parental-abduction-and-pa-intersection.md)
+Focused synthesis of Hague Convention 1980 intersection with PA-adjacent fact-patterns. Hague architecture + Art 13(1)(b) grave-risk + Art 13(2) child-objection principal intersection points + Strasbourg Grand Chamber Neulinger 2010 + X v Latvia 2013 framework + cross-jurisdictional practice (US ICARA + Monasky 2020 + Golan 2022 + UK Re E + AU DP v Commonwealth + Japan accession 2014 + Act 33/2024 + INDIA NOT ACCEDED + Singapore + HK + Brazil + LATAM5 + SA + EU Brussels IIb). 15-row comparative engagement table. 8 structural observations including Hague mandate STRUCTURAL TENSION with PA-adjacent reasoning + Art 13(2) PRINCIPAL INTERSECTION POINT + India non-accession structural significance + Asian apex cluster operates without Hague constraint.
+
 ## Cross-page structure
 
 Evidence pages operate at three analytic levels:
@@ -44,8 +47,8 @@ Synthesizes a thematic dimension visible across the entire corpus.
 **Level 2 — Regional/structural cluster synthesis** (pages 3, 4, 5)
 Synthesizes regional or structural-cluster patterns (EU apex / Asian apex / LATAM5 institutional).
 
-**Level 3 — Focused thematic doctrine synthesis** (pages 7, 8, 9, 10)
-Synthesizes focused thematic doctrines (evaluator-quality / Strasbourg Art 8 / statutory PA / reunification programmes).
+**Level 3 — Focused thematic doctrine synthesis** (pages 7, 8, 9, 10, 11)
+Synthesizes focused thematic doctrines (evaluator-quality / Strasbourg Art 8 / statutory PA / reunification programmes / Hague Convention intersection).
 
 ## Cross-references
 
