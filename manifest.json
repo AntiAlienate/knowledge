@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-02T12:51:28Z",
+  "generated": "2026-06-02T13:20:38Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -27,7 +27,7 @@
     "practitioners_lawyers": 10,
     "case_studies": 34,
     "jurisdictions": 36,
-    "evidence_pages": 16
+    "evidence_pages": 17
   },
   "indexes": {
     "practitioners_therapists": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/index.json",
@@ -360,6 +360,10 @@
     {
       "id": "evaluator-quality-regulation-across-jurisdictions",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md"
+    },
+    {
+      "id": "federalism-patterns-and-pa-doctrine-fragmentation",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md"
     },
     {
       "id": "global-south-womens-rights-critique-register",
