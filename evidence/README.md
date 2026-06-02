@@ -52,6 +52,9 @@ Cross-jurisdictional anonymisation conventions in published PA-adjacent family-c
 ### 16. [Federalism Patterns and PA-Doctrine Fragmentation](federalism-patterns-and-pa-doctrine-fragmentation.md)
 Cross-jurisdictional structural synthesis of how federalism and constitutional-jurisdictional fragmentation interact with PA-construct doctrinal development. 3 fragmentation clusters: (A) MAXIMUM FEDERAL FRAGMENTATION (US 50-state + Mexico 32 CC estatales + Nigeria triple-track 27/36 adoption); (B) FEDERAL JURISDICTION UNIFIED AT APEX (Australia FLA + Canada Bill C-78 + Brazil Lei 12.318 + Argentina CCyC + India HMA); (C) UNITARY (UK constituents + Italy + Germany + France + Spain + LATAM/Asian unitary). 25-row comparative federalism pattern table. 8 structural observations including US MAXIMUM FRAGMENTATION distinctive + Mexico federalismo descentralizado + doctrina apex unificada + Nigeria triple-track most complex + Australia federal-unitary blend + Canada provincial-college fragmentation + UK 4-constituent + Indian personal-law fragmentation + unitary EU jurisdictions doctrinally most coherent.
 
+### 17. [Methodology and Corpus Construction](methodology-and-corpus-construction.md)
+Self-reflective methodological synthesis documenting how the AntiAlienate knowledge base v2 corpus is constructed, organised, and verified. 4 entity types (practitioners + case studies + jurisdictions + evidence pages); cross-link format (`<type>:<id>`); structural-synthesis approach for evidence pages at 3 analytic levels; verification standards (primary-source-required + verbatim-quotes-in-original-language + anonymisation-per-court-convention + exclusions-documented); build pipeline + push pipeline + discovery endpoint. Cross-references companion evidence pages + ARCHITECTURE.md. Self-navigational reference for future contributors and downstream agents.
+
 ## Cross-page structure
 
 Evidence pages operate at three analytic levels:
