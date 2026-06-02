@@ -1,53 +1,62 @@
-# Evidence — Primary-Source Citations on Key Contested Claims
+# Evidence — Cross-Jurisdictional Thematic Synthesis Pages
 
-This section gathers the strongest primary-source evidence — peer-reviewed research, statutory text, judicial findings, and professional-body positions — on contested propositions in the parental alienation field. Every load-bearing claim is cited to an original source with a working URL.
+Thematic synthesis pages compiled from the AntiAlienate knowledge base v2 corpus (28 v2 practitioner files + 34 case studies + 36 jurisdictions). Evidence pages are MD-only entity type — discoverable via `/manifest.json` enumeration. CC BY 4.0.
 
-## Pages (10 deep evidence pages, ~55,000 words)
+## Pages
 
-### Substantive evidence
-- **[PA as Child Abuse](pa-as-child-abuse.md)** — strongest evidence for and against. 5 categories + confidence-tier synthesis.
-- **[Mental-Health Outcomes](mental-health-outcomes.md)** — quantitative outcomes across 8 categories. Chinese longitudinal samples + Italian SCL-90-R + critique citations.
-- **[Reunification Therapy Outcomes](reunification-outcomes.md)** — empirical record. **No programme has independent peer-reviewed outcome data.**
-- **[Prevalence Claims Under Scrutiny](prevalence-claims.md)** — Bernet 740k chain disclosed; Saini "no defensible estimates."
+### 1. [International Institutional Positions](international-institutional-positions.md)
+Cross-jurisdictional summary of institutional positions on PA construct: apex-court positions (recognition / middle / critique poles) + Strasbourg / supranational layer + professional-regulator / learned-society positions. 13-jurisdiction apex coverage + 14 professional-regulator positions. 5 structural patterns synthesized.
 
-### Institutional / forensic
-- **[Forensic Operation in Courts](forensic-operation-in-courts.md)** — Meier 2020 (4,338 NIJ cases) + Silberg/Dallam + Saini + Saunders.
-- **[International Institutional Positions](international-institutional-positions.md)** — WHO/UN/CoE/APA/APSAC verbatim.
-- **[Evaluator Training Asymmetry](evaluator-training-asymmetry.md)** — Saunders n=465 NIJ data + AFCC Model Standards + Stahl/Drozd defense + state reform (Kayden / CA SB 331 / CO HB23-1178).
+### 2. [Alienating Tactics as Child Abuse](alienating-tactics-as-child-abuse.md)
+Cross-jurisdictional summary of judicial findings, statutory provisions and institutional positions characterising alienating parental conduct as a form of child abuse. Judicial findings (Scotland NF v AF; E&W Re Y; NI O'Hara J; India Delhi HC line; SA TLD v BG; Singapore TEN v TEO; Strasbourg Art 8 triptych) + statutory characterisations (Brazil Lei 12.318/2010; Spain LOPIVI 17ª; Italy Riforma Cartabia; Chile Ley 21.675/2024) + institutional / women's-rights framings. 13-jurisdiction comparative framework table.
 
-### Diagnostic / legal-procedural
-- **[Diagnostic Codes That DO Apply](diagnostic-codes-that-apply.md)** — V995.51 / V61.20 / V61.29 / QE52.0 + Bernet/Wamboldt/Narrow 2016 CAPRD vehicle.
-- **[Standard of Proof Analysis](standard-of-proof.md)** — civil standard for PA findings across jurisdictions. *Re B [2008] UKHL 35* (Hoffmann + Hale verbatim) + *Santosky v Kramer* 455 U.S. 745 (1982) + *Daubert* 509 U.S. 579 (1993) verbatim + *Briginshaw* (1938) 60 CLR 336 + *F.H. v McDougall* 2008 SCC 53 verbatim + Italian Cass. 9691/2022 as Daubert-light filter + BVerfG 1 BvR 1076/23 + UK PD 25B. The page that tells you (a) what standard a PA finding actually requires, (b) what Daubert/Frye admissibility filter applies separately, and (c) why the *Santosky*-extension question for PA-driven de facto TPR remains unresolved.
+### 3. [EU Apex Sequence 2017-2025](eu-apex-sequence-2017-2025.md)
+Structural synthesis of the continental European apex-court engagement with the PA construct. Six landmark decisions: STS 519/2017 ES + Cassazione 13217/2021 + 9691/2022 + 4595/2025 IT + BVerfG 1 BvR 1076/23 DE + SN III CZP 20/25 PL. 8 structural observations including EU apex critique-dominant + Spain+Brazil world's only 2 statutory PA jurisdictions opposite-direction + Italian apex doctrinally densest + Polish pro-enforcement biegun first apex CEE.
 
-### Practitioner distillation
-- **[What Court Submissions Can Honestly Claim](what-court-submissions-can-claim.md)** — practitioner distillation. 7 CAN-claim with primary support; 6 CANNOT-claim with refutation paths; sample report formulation + sample skeleton arguments for both sides.
+### 4. [Asian Apex Recognition Cluster 2017-2026](asian-apex-recognition-cluster-2017-2026.md)
+Structural counterpart to the EU apex sequence — Asian common-law apex recognition cluster. Six landmark engagements: Vivek Singh 2017 IN + TEN v TEO 2020 SG + H v W 2021 HK + ABC v XYZ 2023 IN Delhi + Japan Act No. 33 of 2024 + A v B 2026 IN Delhi. 8 structural observations including recognition-dominance inverse of EU + welfare-evaluator architecture below construct-validity adjudication + India procedural-posture binomial (custody + matrimonial cruelty) + Japan legislative-systemic 共同親権 reform.
 
-## Coming next
+### 5. [LATAM5 Institutional Anti-SAP Comparison](latam5-institutional-anti-sap-comparison.md)
+Cross-jurisdictional comparison of institutional positions on PA across the five principal Latin American jurisdictions (Argentina + Brazil + Mexico + Colombia + Chile). 5-country comparative regulator+state+apex+statutory table. 8 structural observations including Brazil+Spain world's only 2 statutory PA jurisdictions opposite-direction + Argentina institutional inadmission WITHOUT statutory inadmission + Colombia widest LATAM critique coalition + Mexico proportionalist apex + Chile INVERTED LATAM pattern.
 
-- **The historical Gardner-to-modern arc** — how PA terminology has evolved across DSM/ICD/court treatment 1985-2026
-- **Cross-jurisdictional law-reform tracker** — what's pending in legislatures and courts now
+### 6. [Global South Women's-Rights-Organisation-Led Critique Register](global-south-womens-rights-critique-register.md)
+Cross-regional structural synthesis spanning India + Africa + LATAM5 + Japan. 13-jurisdiction regional comparative summary table. 8 structural observations including lawyer-led+NGO-led NOT clinician-led + PWDVA / DV-protective statutory frames load-bearing + INFERENTIAL vs document-sourced critique honest-finding + CEDAW Informe Sombra primary documentary route + multi-tier international anchor convergence + North African vs sub-Saharan pattern distinction.
 
-## Pending corrections
+### 7. [Evaluator-Quality Regulation Across Jurisdictions](evaluator-quality-regulation-across-jurisdictions.md)
+8-jurisdiction synthesis of evaluator-quality regulatory mechanisms in PA-adjacent expert assessment. Routes: apex case-law (E&W Re Y) + statute-and-rules (Australia + Italy) + professional standards (SA) + academic-legal critique (NZ) + institutional advisory (NL) + institutional integration (Singapore + HK). 9-row comparative routes table. 8 structural observations including diverse routes to similar concerns + named-exemplar pattern (Gill UK / Rand US / Wolff DE).
 
-**[Maintainer note]** The APSAC 2022 quotations attributed in [pa-as-child-abuse.md](pa-as-child-abuse.md) ("negligent, even reckless" and "a child's avoidance of a parent is not sufficient evidence of psychological abuse") are *functional equivalents* of language in the APSAC PDF, **not verbatim**. The accurate APSAC text is captured in [international-institutional-positions.md](international-institutional-positions.md), [diagnostic-codes-that-apply.md](diagnostic-codes-that-apply.md), and [evaluator-training-asymmetry.md](evaluator-training-asymmetry.md). The pa-as-child-abuse page will be updated in the next maintenance pass.
+### 8. [Strasbourg Article 8 Positive Obligations Doctrine](strasbourg-article-8-positive-obligations-doctrine.md)
+Focused thematic synthesis of ECHR Article 8 positive obligations doctrine in PA-adjacent jurisprudence. Article 8 ECHR text + positive-obligations principle + Strasbourg Italian triptych 2013-2017 (Lombardo + Strumia + Improta) procedural-due-diligence standard 'adequate and effective measures'. 6 doctrinal elements + Cassazione 9691/2022 INTEGRATION dual-layering + 7 structural observations including procedural-due-diligence vs construct-validity + Italian densest + Hague intersection structurally distinct. 8-row comparative engagement table.
 
-**[Maintainer note]** The "82% low / very low quality" GRADE figure widely cited from Saini, Johnston, Fidler & Bala does not appear verbatim in the 2016 second-edition chapter at the locations checked — likely originates in the 2013 first edition.
+### 9. [Statutory PA Jurisdictions Triple Comparison](statutory-pa-jurisdictions-triple-comparison.md)
+Triple comparison of the world's three statutory PA jurisdictions: Brazil Lei 12.318/2010 (RECOGNITION) + Spain LOPIVI 2021 Disp. ad. 17ª (INADMISSION) + Japan Act No. 33 of 2024 (LEGISLATIVE-SYSTEMIC). Statutory texts + doctrinal directions + procedural mechanisms + apex case-law context + institutional positioning. 8 structural observations including 3 directionally distinct + Spain+Brazil opposite-direction paired Iberian-Lusophone + Japan legislative-first.
 
-## Editorial standard
+### 10. [Reunification Programmes and Their Regulation](reunification-programmes-and-regulation.md)
+14-jurisdiction landscape of structured reunification programmes deployed in PA-adjacent fact-patterns. US Family Bridges + Canadian Family Reflections + UK Cafcass + AU FRW + NZ Goldson Family Matters Centre + Singapore CAPS + HK 5 SWD Centres + India counsellor mechanism + SA Family Advocate + Italian CTU + NL Methode SAT + Lorentzhuis. 14-row comparative regulatory routes table. 8 structural observations including 3 regulatory routes (mainstream-regulator-within / extra-regulator-NGO / methodological-advisory) + court-attached institutional welfare-evaluator dominance + AU FRW by-design middle-camp + NZ Goldson Model government-adopted.
 
-Every claim in this section must cite a primary source with a working URL. See [CONTRIBUTING.md](../CONTRIBUTING.md) for full editorial standards.
+## Cross-page structure
 
-## Related sections
+Evidence pages operate at three analytic levels:
 
-- [The Debate](../the-debate/recognition-vs-critique.md) — the camps mapped honestly
-- [Case Studies](../case-studies/) — 26 deeply investigated cases
-- [Case Studies → Global Comparison Matrix](../case-studies/global-comparison.md) — single-page cross-jurisdictional synthesis
-- [Playbooks → Reunification Therapy](../playbooks/reunification-therapy.md)
-- [Playbooks → Evaluator Selection](../playbooks/evaluator-selection.md)
-- [Playbooks → PA and Domestic Violence](../playbooks/pa-and-domestic-violence.md)
-- [Playbooks → Court Prep Checklist](../playbooks/court-prep-checklist.md)
-- [Influencers](../influencers/) — profile pages on the researchers cited
+**Level 1 — Cross-jurisdictional thematic synthesis** (pages 1, 2, 6)
+Synthesizes a thematic dimension visible across the entire corpus.
+
+**Level 2 — Regional/structural cluster synthesis** (pages 3, 4, 5)
+Synthesizes regional or structural-cluster patterns (EU apex / Asian apex / LATAM5 institutional).
+
+**Level 3 — Focused thematic doctrine synthesis** (pages 7, 8, 9, 10)
+Synthesizes focused thematic doctrines (evaluator-quality / Strasbourg Art 8 / statutory PA / reunification programmes).
+
+## Cross-references
+
+All evidence pages cross-link to per-jurisdiction sidecars under `/jurisdictions/` + per-case-study files under `/case-studies/` + per-practitioner files under `/practitioners/{therapists,lawyers}/`. Cross-link ID format: `<type>:<id>` where type ∈ {practitioner, case-study, jurisdiction, evidence}.
+
+## Discovery
+
+Evidence pages enumerated in `/manifest.json` discovery endpoint. Downstream RAG consumers can access:
+- `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json` (discovery)
+- `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/<filename>.md` (canonical)
 
 ---
 
-*CC BY 4.0. Open a PR with additional primary citations — strongest evidence wins, regardless of which side of the debate it supports.*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/README.md*
