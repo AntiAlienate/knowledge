@@ -105,6 +105,30 @@ Format: `<type>:<id>`
 
 `aa-build refs` resolves every `references` entry across the repo. Broken refs fail CI.
 
+## Evidence pages corpus
+
+The `evidence/` directory holds cross-jurisdictional thematic synthesis pages compiled from the per-jurisdiction sidecars + per-case-study files + per-practitioner directories. Evidence pages are MD-only entity type (no JSON sidecar). The set operates at three analytic levels:
+
+### Level 1 — Cross-jurisdictional thematic synthesis
+- `international-institutional-positions.md` — 13-jurisdiction apex coverage + 14 professional-regulator positions
+- `alienating-tactics-as-child-abuse.md` — 13-jurisdiction comparative framework
+- `global-south-womens-rights-critique-register.md` — 13-jurisdiction cross-regional pattern
+
+### Level 2 — Regional / structural cluster synthesis
+- `eu-apex-sequence-2017-2025.md` — STS 519 ES + Cassazione triad IT + BVerfG DE + SN III CZP 20/25 PL
+- `asian-apex-recognition-cluster-2017-2026.md` — Vivek Singh IN + TEN v TEO SG + H v W HK + Japan Act 33/2024 + Delhi HC binomial
+- `latam5-institutional-anti-sap-comparison.md` — AR + BR + MX + CO + CL
+
+### Level 3 — Focused thematic doctrine synthesis
+- `evaluator-quality-regulation-across-jurisdictions.md` — Re Y / FLA Sch 2 / Riforma Cartabia / Martalas Standards / Leonetti / Expertteam / CAPS / SIR-SJE
+- `strasbourg-article-8-positive-obligations-doctrine.md` — Italian triptych + Cassazione 9691/2022 integration
+- `statutory-pa-jurisdictions-triple-comparison.md` — Brazil Lei 12.318/2010 + Spain LOPIVI + Japan Act 33/2024
+- `reunification-programmes-and-regulation.md` — 14-jurisdiction landscape
+
+`evidence/README.md` is the index for downstream consumer navigation.
+
+Evidence pages are enumerated in `/manifest.json`; downstream consumers can iterate the set programmatically.
+
 ## Build pipeline
 
 ```bash
@@ -202,11 +226,12 @@ The current architecture addresses 1–7. PR-workflow enforcement (#8) is suppor
 
 ## Future work (open to claim)
 
-- Convert all existing practitioner files from `schema_version: "1.0"` MD-with-sidecar to v2.0 JSON-source-of-truth. Migration is mechanical.
-- Convert all existing case studies (27+) to dual MD+JSON.
+- Convert remaining legacy v1.0 practitioner files (brazil.json + mexico.json + eu.json + latam.json) to full per-country v2 deepenings. The br.json focused-institutional v2 is shipped; brazil.json legacy is preserved for backwards-link continuity.
+- ~~Convert all existing case studies to dual MD+JSON~~ — DONE (34 case studies all dual MD+JSON).
 - Add `aa-build urls` to CI on a weekly cron (vs. every-push — link rot is non-blocking).
 - PR-required workflow: GitHub branch protection on `main`; `aa-push --branch` becomes mandatory.
 - License footer is currently injected in rendered MD only; raw `.md` files in `jurisdictions/` and `evidence/` need a one-shot pass to add headers.
+- Per-country v2 deepenings for additional jurisdictions still represented only at regional-aggregate level.
 
 ## Conventions for fleet nodes
 
