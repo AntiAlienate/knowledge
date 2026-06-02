@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-02T05:52:11Z",
+  "generated": "2026-06-02T06:19:57Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -27,7 +27,7 @@
     "practitioners_lawyers": 10,
     "case_studies": 34,
     "jurisdictions": 36,
-    "evidence_pages": 6
+    "evidence_pages": 7
   },
   "indexes": {
     "practitioners_therapists": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/index.json",
@@ -336,6 +336,10 @@
     {
       "id": "eu-apex-sequence-2017-2025",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md"
+    },
+    {
+      "id": "evaluator-quality-regulation-across-jurisdictions",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md"
     },
     {
       "id": "global-south-womens-rights-critique-register",
