@@ -58,7 +58,7 @@
         "practitioner:br.madaleno-rolf",
         "practitioner:br.pereira-rodrigo-cunha",
         "practitioner:br.rosa-conrado-paulino",
-        "case-study:stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024",
+        "case-study:stj-resp-1859228-sp-2024",
         "evidence:international-institutional-positions"
       ]
     },
@@ -88,7 +88,7 @@
         "jurisdiction:brazil",
         "practitioner:br.dias-maria-berenice",
         "practitioner:br.pereira-rodrigo-cunha",
-        "case-study:stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024"
+        "case-study:stj-resp-1859228-sp-2024"
       ]
     },
     {
@@ -287,7 +287,7 @@
         "jurisdiction:mexico",
         "practitioner:mx.rios-maria-estela",
         "practitioner:mx.equis-justicia",
-        "case-study:scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca",
+        "case-study:scjn-ai-11-2016-oaxaca-mexico",
         "case-study:cassazione-9691-2022-italy",
         "case-study:bverfg-1-bvr-1076-23-germany-2023"
       ]
@@ -316,7 +316,7 @@
         "jurisdiction:mexico",
         "practitioner:mx.peimbert-arturo",
         "practitioner:mx.equis-justicia",
-        "case-study:scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca",
+        "case-study:scjn-ai-11-2016-oaxaca-mexico",
         "case-study:cassazione-9691-2022-italy"
       ]
     },
@@ -344,7 +344,7 @@
         "practitioner:mx.peimbert-arturo",
         "practitioner:mx.rios-maria-estela",
         "practitioner:mx.intersecta",
-        "case-study:scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca",
+        "case-study:scjn-ai-11-2016-oaxaca-mexico",
         "case-study:cassazione-9691-2022-italy"
       ]
     },

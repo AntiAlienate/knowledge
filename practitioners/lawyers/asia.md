@@ -38,7 +38,7 @@ New Delhi · Delhi (Supreme Court of India) · Geeta Luthra & Associates / Indep
 
 *Notes: Senior Advocate designation 2007 (SCI); Cambridge LLM + MPhil; named counsel of record verified in SCI judgment PDF, CaseMine commentary and Indian Kanoon. Bar Council registration number not publicly displayed. IAFL India fellow profile confirms current standing.*
 
-**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `case-study:abc-v-xyz-2023-scc-online-del-6099`, `case-study:a-v-b-2026-scc-online-del-276`, `practitioner:in.kanungo-iti`, `practitioner:in.malhotra-anil`, `practitioner:in.anand-pinky`
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `case-study:abc-v-xyz-2023-scc-online-del-6099`, `case-study:a-v-b-2026-scc-online-del-276`, `practitioner:in.kanungo-iti`, `practitioner:in.malhotra-anil`, `practitioner:in.anand-pinky`
 
 <sub>ID: `in.luthra-geeta`</sub>
 
@@ -66,7 +66,7 @@ Chandigarh · Punjab & Haryana / Supreme Court of India · Malhotra & Malhotra A
 
 *Notes: Senior Advocate 42 yrs standing; LLM London 1985; IAFL India fellow profile verified; Bindal Committee membership confirmed via government-empanelment records; Bar Council registration number not publicly displayed.*
 
-**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `practitioner:in.malhotra-ranjit`, `practitioner:in.luthra-geeta`, `practitioner:in.anand-pinky`
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.malhotra-ranjit`, `practitioner:in.luthra-geeta`, `practitioner:in.anand-pinky`
 
 <sub>ID: `in.malhotra-anil`</sub>
 
@@ -91,7 +91,7 @@ Chandigarh · Punjab & Haryana · Malhotra & Malhotra Associates (Chandigarh); B
 
 *Notes: Advocate 35+ yrs standing; IAFL Fellow profile verified; UK Government family-law symposium India special invitee confirmed via gov.uk primary source; Bar Council registration number not publicly displayed.*
 
-**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `practitioner:in.malhotra-anil`, `practitioner:in.luthra-geeta`
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.malhotra-anil`, `practitioner:in.luthra-geeta`
 
 <sub>ID: `in.malhotra-ranjit`</sub>
 
@@ -117,7 +117,7 @@ New Delhi / London · Delhi (Supreme Court of India) / London (No5 Chambers) · 
 
 *Notes: Senior Advocate 2007; former ASG 2014-2018 verified via Wikipedia and No5 Chambers profile; IAFL India fellow profile confirmed; Bar Council registration number not publicly displayed.*
 
-**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-india-2017`, `practitioner:in.luthra-geeta`, `practitioner:in.malhotra-anil`, `practitioner:uk.no5-chambers`
+**See also:** `jurisdiction:india`, `case-study:vivek-singh-v-romani-singh-2017-india`, `practitioner:in.luthra-geeta`, `practitioner:in.malhotra-anil`, `practitioner:uk.no5-chambers`
 
 <sub>ID: `in.anand-pinky`</sub>
 
@@ -140,7 +140,7 @@ Singapore · Singapore (city-state) · Integro Law Chambers LLC; Law Society of 
 
 *Notes: Named counsel of record verified via eLitigation Singapore primary source and FJC case-highlight; Law Society Singapore admission confirmed. Bar number not publicly displayed.*
 
-**See also:** `jurisdiction:singapore`, `case-study:ten-v-teo-singapore-2020`, `practitioner:sg.ng-yu-hui-michelle`, `practitioner:sg.fjc-caps`
+**See also:** `jurisdiction:singapore`, `case-study:ten-v-teo-2020-sghcf-20-singapore`, `practitioner:sg.ng-yu-hui-michelle`, `practitioner:sg.fjc-caps`
 
 <sub>ID: `sg.hing-wei-yuen-angelina`</sub>
 
@@ -161,7 +161,7 @@ Singapore · Singapore (city-state) · Integro Law Chambers LLC; Law Society of 
 
 *Notes: Named junior counsel of record verified via eLitigation Singapore primary source. Bar number not publicly displayed.*
 
-**See also:** `jurisdiction:singapore`, `case-study:ten-v-teo-singapore-2020`, `practitioner:sg.hing-wei-yuen-angelina`
+**See also:** `jurisdiction:singapore`, `case-study:ten-v-teo-2020-sghcf-20-singapore`, `practitioner:sg.hing-wei-yuen-angelina`
 
 <sub>ID: `sg.ng-yu-hui-michelle`</sub>
 
@@ -316,7 +316,7 @@ Hong Kong · Hong Kong SAR · Hugill & Ip Solicitors; Law Society of Hong Kong
 
 *Notes: Law Society of Hong Kong solicitor admission verified via Hugill & Ip firm site; Mondaq case-note co-authorship verified via Mondaq primary source; Gall integration 2023 confirmed. Bar number not publicly displayed.*
 
-**See also:** `jurisdiction:hong-kong`, `case-study:h-v-w-hong-kong-2021`, `practitioner:hk.wong-raphael`, `practitioner:hk.ser-sharon`
+**See also:** `jurisdiction:hong-kong`, `case-study:h-v-w-2021-hkca-733-hong-kong`, `practitioner:hk.wong-raphael`, `practitioner:hk.ser-sharon`
 
 <sub>ID: `hk.mcnally-caroline`</sub>
 
@@ -339,7 +339,7 @@ Hong Kong · Hong Kong SAR · Hugill & Ip Solicitors; Law Society of Hong Kong
 
 *Notes: Law Society of Hong Kong solicitor admission verified via Legal 500 promotion announcement and Hugill & Ip firm site; PA thought-leadership article authorship verified via Legal 500 primary source. Bar number not publicly displayed.*
 
-**See also:** `jurisdiction:hong-kong`, `case-study:h-v-w-hong-kong-2021`, `practitioner:hk.mcnally-caroline`, `practitioner:hk.acsvaw`
+**See also:** `jurisdiction:hong-kong`, `case-study:h-v-w-2021-hkca-733-hong-kong`, `practitioner:hk.mcnally-caroline`, `practitioner:hk.acsvaw`
 
 <sub>ID: `hk.wong-raphael`</sub>
 

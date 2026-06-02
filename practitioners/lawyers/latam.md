@@ -60,7 +60,7 @@ Porto Alegre · Rio Grande do Sul · Madaleno Advocacia de Família e Sucessões
 
 *Notes: Verified via firm site, IBDFAM directory entry 10597, Migalhas columnist page, and IBDFAM congress speaker listings. OAB/RS bar number not publicly displayed.*
 
-**See also:** `jurisdiction:brazil`, `practitioner:br.dias-maria-berenice`, `practitioner:br.pereira-rodrigo-cunha`, `case-study:stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024`
+**See also:** `jurisdiction:brazil`, `practitioner:br.dias-maria-berenice`, `practitioner:br.pereira-rodrigo-cunha`, `case-study:stj-resp-1859228-sp-2024`
 
 <sub>ID: `br.madaleno-rolf`</sub>
 
@@ -260,7 +260,7 @@ Oaxaca de Juárez · Oaxaca · Defensoría de los Derechos Humanos del Pueblo de
 
 *Notes: Verified via DOF publication, SCJN crónica del Pleno (Piña Hernández), and SCJN engrose firmado of AI 11/2016. Barra Mexicana de Abogados / Oaxaca state bar registration not publicly displayed.*
 
-**See also:** `jurisdiction:mexico`, `practitioner:mx.rios-maria-estela`, `practitioner:mx.equis-justicia`, `case-study:scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
+**See also:** `jurisdiction:mexico`, `practitioner:mx.rios-maria-estela`, `practitioner:mx.equis-justicia`, `case-study:scjn-ai-11-2016-oaxaca-mexico`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
 
 <sub>ID: `mx.peimbert-arturo`</sub>
 
@@ -283,7 +283,7 @@ Ciudad de México · CDMX · Consejería Jurídica del Ejecutivo Federal (histó
 
 *Notes: Verified via SCJN comunicado 8241 and SCJN engrose firmado of AI 74/2024 (29.4.2025). Barra Mexicana de Abogados registration not publicly displayed.*
 
-**See also:** `jurisdiction:mexico`, `practitioner:mx.peimbert-arturo`, `practitioner:mx.equis-justicia`, `case-study:scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca`, `case-study:cassazione-9691-2022-italy`
+**See also:** `jurisdiction:mexico`, `practitioner:mx.peimbert-arturo`, `practitioner:mx.equis-justicia`, `case-study:scjn-ai-11-2016-oaxaca-mexico`, `case-study:cassazione-9691-2022-italy`
 
 <sub>ID: `mx.rios-maria-estela`</sub>
 
@@ -305,7 +305,7 @@ Ciudad de México · CDMX · Equis Justicia para las Mujeres A.C.
 
 *Notes: Verified via Equis institutional site, CELIG-CDMX Informe Técnico (29.5.2024), and CIMAC Noticias coverage of SCJN AI 11/2016 ruling. Civil association — institutional rather than individual registration.*
 
-**See also:** `jurisdiction:mexico`, `practitioner:mx.peimbert-arturo`, `practitioner:mx.rios-maria-estela`, `practitioner:mx.intersecta`, `case-study:scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca`, `case-study:cassazione-9691-2022-italy`
+**See also:** `jurisdiction:mexico`, `practitioner:mx.peimbert-arturo`, `practitioner:mx.rios-maria-estela`, `practitioner:mx.intersecta`, `case-study:scjn-ai-11-2016-oaxaca-mexico`, `case-study:cassazione-9691-2022-italy`
 
 <sub>ID: `mx.equis-justicia`</sub>
 
@@ -481,7 +481,7 @@ Porto Alegre · Rio Grande do Sul · Independent practice (Porto Alegre); IBDFAM
 
 *Notes: Verified via personal site berenicedias.com.br + IBDFAM institutional pages + Conjur columnist archive 2018-2022 + JusPodivm degustação chapter. OAB/RS bar number not publicly displayed on site — recorded as 'not publicly confirmed' per house rule.*
 
-**See also:** `jurisdiction:brazil`, `practitioner:br.madaleno-rolf`, `practitioner:br.pereira-rodrigo-cunha`, `practitioner:br.rosa-conrado-paulino`, `case-study:stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024`, `evidence:international-institutional-positions`
+**See also:** `jurisdiction:brazil`, `practitioner:br.madaleno-rolf`, `practitioner:br.pereira-rodrigo-cunha`, `practitioner:br.rosa-conrado-paulino`, `case-study:stj-resp-1859228-sp-2024`, `evidence:international-institutional-positions`
 
 <sub>ID: `br.dias-maria-berenice`</sub>
 

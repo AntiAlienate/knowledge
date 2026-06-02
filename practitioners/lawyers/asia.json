@@ -39,7 +39,7 @@
       "verification_notes": "Senior Advocate designation 2007 (SCI); Cambridge LLM + MPhil; named counsel of record verified in SCI judgment PDF, CaseMine commentary and Indian Kanoon. Bar Council registration number not publicly displayed. IAFL India fellow profile confirms current standing.",
       "references": [
         "jurisdiction:india",
-        "case-study:vivek-singh-v-romani-singh-india-2017",
+        "case-study:vivek-singh-v-romani-singh-2017-india",
         "case-study:abc-v-xyz-2023-scc-online-del-6099",
         "case-study:a-v-b-2026-scc-online-del-276",
         "practitioner:in.kanungo-iti",
@@ -74,7 +74,7 @@
       "verification_notes": "Senior Advocate 42 yrs standing; LLM London 1985; IAFL India fellow profile verified; Bindal Committee membership confirmed via government-empanelment records; Bar Council registration number not publicly displayed.",
       "references": [
         "jurisdiction:india",
-        "case-study:vivek-singh-v-romani-singh-india-2017",
+        "case-study:vivek-singh-v-romani-singh-2017-india",
         "practitioner:in.malhotra-ranjit",
         "practitioner:in.luthra-geeta",
         "practitioner:in.anand-pinky"
@@ -104,7 +104,7 @@
       "verification_notes": "Advocate 35+ yrs standing; IAFL Fellow profile verified; UK Government family-law symposium India special invitee confirmed via gov.uk primary source; Bar Council registration number not publicly displayed.",
       "references": [
         "jurisdiction:india",
-        "case-study:vivek-singh-v-romani-singh-india-2017",
+        "case-study:vivek-singh-v-romani-singh-2017-india",
         "practitioner:in.malhotra-anil",
         "practitioner:in.luthra-geeta"
       ]
@@ -134,7 +134,7 @@
       "verification_notes": "Senior Advocate 2007; former ASG 2014-2018 verified via Wikipedia and No5 Chambers profile; IAFL India fellow profile confirmed; Bar Council registration number not publicly displayed.",
       "references": [
         "jurisdiction:india",
-        "case-study:vivek-singh-v-romani-singh-india-2017",
+        "case-study:vivek-singh-v-romani-singh-2017-india",
         "practitioner:in.luthra-geeta",
         "practitioner:in.malhotra-anil",
         "practitioner:uk.no5-chambers"
@@ -250,7 +250,7 @@
       "verification_notes": "Named counsel of record verified via eLitigation Singapore primary source and FJC case-highlight; Law Society Singapore admission confirmed. Bar number not publicly displayed.",
       "references": [
         "jurisdiction:singapore",
-        "case-study:ten-v-teo-singapore-2020",
+        "case-study:ten-v-teo-2020-sghcf-20-singapore",
         "practitioner:sg.ng-yu-hui-michelle",
         "practitioner:sg.fjc-caps"
       ]
@@ -275,7 +275,7 @@
       "verification_notes": "Named junior counsel of record verified via eLitigation Singapore primary source. Bar number not publicly displayed.",
       "references": [
         "jurisdiction:singapore",
-        "case-study:ten-v-teo-singapore-2020",
+        "case-study:ten-v-teo-2020-sghcf-20-singapore",
         "practitioner:sg.hing-wei-yuen-angelina"
       ]
     },
@@ -472,7 +472,7 @@
       "verification_notes": "Law Society of Hong Kong solicitor admission verified via Hugill & Ip firm site; Mondaq case-note co-authorship verified via Mondaq primary source; Gall integration 2023 confirmed. Bar number not publicly displayed.",
       "references": [
         "jurisdiction:hong-kong",
-        "case-study:h-v-w-hong-kong-2021",
+        "case-study:h-v-w-2021-hkca-733-hong-kong",
         "practitioner:hk.wong-raphael",
         "practitioner:hk.ser-sharon"
       ]
@@ -499,7 +499,7 @@
       "verification_notes": "Law Society of Hong Kong solicitor admission verified via Legal 500 promotion announcement and Hugill & Ip firm site; PA thought-leadership article authorship verified via Legal 500 primary source. Bar number not publicly displayed.",
       "references": [
         "jurisdiction:hong-kong",
-        "case-study:h-v-w-hong-kong-2021",
+        "case-study:h-v-w-2021-hkca-733-hong-kong",
         "practitioner:hk.mcnally-caroline",
         "practitioner:hk.acsvaw"
       ]
@@ -710,7 +710,7 @@
       "name": "Counsel for Wife in TEN v TEO (Singapore)",
       "exclusion_reason": "Not applicable. Wife appeared in person on appeal per eLitigation judgment. Carried from v1 excluded register.",
       "primary_source_url": "https://www.elitigation.sg/gd/s/2020_SGHCF_20",
-      "references": ["jurisdiction:singapore", "case-study:ten-v-teo-singapore-2020"]
+      "references": ["jurisdiction:singapore", "case-study:ten-v-teo-2020-sghcf-20-singapore"]
     },
     {
       "id": "hk.yu-patrick-pak-tung",
@@ -752,7 +752,7 @@
       "id": "hk.h-v-w-counsel",
       "name": "Counsel of record in H v W [2021] HKCA 733",
       "exclusion_reason": "Unverifiable. Anonymisation + available case notes do not list counsel of record. Carried from v1 excluded register; case-study cross-link retained via practitioner:hk.mcnally-caroline Mondaq case-note.",
-      "references": ["jurisdiction:hong-kong", "case-study:h-v-w-hong-kong-2021", "practitioner:hk.mcnally-caroline"]
+      "references": ["jurisdiction:hong-kong", "case-study:h-v-w-2021-hkca-733-hong-kong", "practitioner:hk.mcnally-caroline"]
     },
     {
       "id": "jp.hayashi-tomoshige",

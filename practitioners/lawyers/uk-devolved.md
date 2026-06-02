@@ -108,7 +108,7 @@ Edinburgh · Scotland (national) · Scottish national domestic-violence-survivor
 
 *Notes: Both primary-source briefing and parliamentary submission are publicly published; institutional status verified via womensaid.scot.*
 
-**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.engender`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+**See also:** `jurisdiction:scotland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.engender`, `case-study:re-y-2026-ewfc-38`
 
 <sub>ID: `uk-sco.swa`</sub>
 
@@ -172,7 +172,7 @@ Belfast · Northern Ireland (national) · NI national domestic-violence-survivor
 
 *Notes: WAFNI briefing PDF and dedicated landing page verify institutional position; Irish Times coverage provides press corroboration of dismissed-DV-claims pattern.*
 
-**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.swa`, `practitioner:uk-wls.wwa`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-sco.swa`, `practitioner:uk-wls.wwa`, `case-study:re-y-2026-ewfc-38`
 
 <sub>ID: `uk-nir.wafni`</sub>
 
@@ -197,7 +197,7 @@ Cardiff · Wales · Cardiff University, School of Law and Politics (primary); Un
 
 *Notes: Welsh Government publications site and Cardiff ORCA both verify the 2018 Cafcass Cymru commissioned review; Tandfonline verifies the JSWFL 2020 article.*
 
-**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.mccormack`, `practitioner:uk-wls.wwa`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.mccormack`, `practitioner:uk-wls.wwa`, `case-study:re-y-2026-ewfc-38`
 
 <sub>ID: `uk-wls.doughty-julie`</sub>
 
@@ -357,7 +357,7 @@ Belfast · Northern Ireland · High Court of Justice in Northern Ireland
 
 *Notes: Judgment published on judiciaryni.uk verifies the alienating-dynamic finding without explicit PA label. Cite this judgment in any NI-facing brief.*
 
-**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.keegan-lcj`, `practitioner:uk-sco.lord-stuart`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+**See also:** `jurisdiction:northern-ireland`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.keegan-lcj`, `practitioner:uk-sco.lord-stuart`, `case-study:re-y-2026-ewfc-38`
 
 <sub>ID: `uk-nir.ohara-justice`</sub>
 
@@ -398,7 +398,7 @@ Cardiff · Wales · Queen Square Chambers, Cardiff / Bristol
 
 *Notes: Queen Square Chambers profile verifies practice areas and Cardiff/Bristol base; PA-relevant case listings sourced from chambers profile.*
 
-**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `case-study:re-y-court-of-appeal-mcfarlane-p`
+**See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `case-study:re-y-2026-ewfc-38`
 
 <sub>ID: `uk-wls.halliday-ian`</sub>
 
