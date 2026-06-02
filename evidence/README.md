@@ -46,6 +46,9 @@ Cross-jurisdictional synthesis of children's-rights-paramountcy doctrine across 
 ### 14. [Single-Judge Authored Apex Decisions](single-judge-authored-apex-decisions.md)
 Structural pattern visible across the PA-adjacent jurisprudence corpus: distinguishing single-judge authored apex decisions from collegial-panel patterns. Common-law concentration (McFarlane P E&W Re-arc + Lord Stuart Scotland + Adams J SA + Debbie Ong J Singapore) vs civil-law collegial+rapporteur patterns (Italian Cassazione + Mexican SCJN Tribunal Pleno+ponente + Brazilian STJ Section+relatora) vs Strasbourg Chamber/Grand Chamber maximum collegial. 18-row comparative authorship pattern table. 8 structural observations including McFarlane P sustained-authorial Re-arc structurally distinctive + Italian Cassazione triad doctrinal coherence through institution rather than author + Mexican SCJN hybrid pleno+ponente + Brazilian STJ Andrighi relatoria coherence + judicial-mobility pattern (Ong J + Piña Hernández).
 
+### 15. [Anonymisation Conventions Across Jurisdictions](anonymisation-conventions-across-jurisdictions.md)
+Cross-jurisdictional anonymisation conventions in published PA-adjacent family-court decisions. 3 convention clusters: (1) STRICT statutory regimes (AU FLA s.121 + Singapore Family Justice Rules + HK Cap. 179A); (2) INITIAL/pseudonym standard (UK constituent jurisdictions + SA + India + LATAM5 + Poland); (3) ADULT-PARTY-NAMING permissive (US state-court + Italy + Germany + France + NL + Belgium + Canada). 26-row comparative conventions table. 8 structural observations including AU FLA s.121 PRECLUDES named-evaluator case-law + SA preserves NAMED forensic experts + US adult-naming most permissive in corpus + Japan Family Court Investigators NON-ENUMERABLE + POCSO Act Indian apex anonymisation + Convention SHAPES citable apex base + cascade into evaluator-quality reform routes.
+
 ## Cross-page structure
 
 Evidence pages operate at three analytic levels:
