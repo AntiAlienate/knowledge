@@ -700,6 +700,8 @@ def cmd_manifest(args) -> int:
     case_studies: list[dict] = []
     if CASE_STUDIES.exists():
         for f in sorted(CASE_STUDIES.glob("*.json")):
+            if f.name in {"index.json", "manifest.json"}:
+                continue
             try:
                 data = json.loads(f.read_text())
             except json.JSONDecodeError:
