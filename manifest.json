@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T21:13:31Z",
+  "generated": "2026-06-04T21:18:47Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 220,
+    "jurisdictions": 221,
     "evidence_pages": 19
   },
   "indexes": {
@@ -674,6 +674,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "GT",
       "name": "Guatemala (Republic of Guatemala / República de Guatemala)"
+    },
+    {
+      "id": "guernsey",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/guernsey.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/guernsey.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "GG",
+      "name": "Guernsey (Bailiwick of Guernsey / Bailliage de Guernesey)"
     },
     {
       "id": "guinea-bissau",
