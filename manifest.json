@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T19:57:13Z",
+  "generated": "2026-06-04T19:58:45Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 168,
+    "jurisdictions": 169,
     "evidence_pages": 19
   },
   "indexes": {
@@ -35,6 +35,14 @@
     "case_studies": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.json"
   },
   "jurisdictions": [
+    {
+      "id": "afghanistan",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/afghanistan.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/afghanistan.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AF",
+      "name": "Afghanistan (Islamic Emirate of Afghanistan / د افغانستان اسلامي امارت)"
+    },
     {
       "id": "africa",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/africa.md",
