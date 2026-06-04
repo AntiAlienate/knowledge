@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T18:30:44Z",
+  "generated": "2026-06-04T18:31:43Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 99,
+    "jurisdictions": 100,
     "evidence_pages": 19
   },
   "indexes": {
@@ -490,6 +490,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "MM",
       "name": "Myanmar (Republic of the Union of Myanmar / ပြည်ထောင်စုသမ္မတ မြန်မာနိုင်ငံ)"
+    },
+    {
+      "id": "namibia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/namibia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/namibia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "NA",
+      "name": "Namibia (Republic of Namibia)"
     },
     {
       "id": "netherlands",
