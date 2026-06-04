@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T18:55:41Z",
+  "generated": "2026-06-04T18:56:57Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 120,
+    "jurisdictions": 121,
     "evidence_pages": 19
   },
   "indexes": {
@@ -858,6 +858,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "TW",
       "name": "Taiwan (Republic of China / 中華民國)"
+    },
+    {
+      "id": "tajikistan",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tajikistan.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tajikistan.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "TJ",
+      "name": "Tajikistan (Republic of Tajikistan / Ҷумҳурии Тоҷикистон)"
     },
     {
       "id": "tanzania",
