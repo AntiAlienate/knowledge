@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T19:36:41Z",
+  "generated": "2026-06-04T19:37:46Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 152,
+    "jurisdictions": 153,
     "evidence_pages": 19
   },
   "indexes": {
@@ -930,6 +930,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "RW",
       "name": "Rwanda (Republic of Rwanda / Repubulika y'u Rwanda)"
+    },
+    {
+      "id": "saint-kitts-and-nevis",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/saint-kitts-and-nevis.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/saint-kitts-and-nevis.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "KN",
+      "name": "Saint Kitts and Nevis (Federation of Saint Christopher and Nevis)"
     },
     {
       "id": "saint-lucia",
