@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T21:21:02Z",
+  "generated": "2026-06-04T21:26:53Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 223,
+    "jurisdictions": 224,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1330,6 +1330,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "PT",
       "name": "Portugal"
+    },
+    {
+      "id": "puerto-rico",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/puerto-rico.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/puerto-rico.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "PR",
+      "name": "Puerto Rico (Commonwealth of Puerto Rico / Estado Libre Asociado de Puerto Rico)"
     },
     {
       "id": "qatar",
