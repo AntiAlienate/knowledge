@@ -55,6 +55,9 @@ Cross-jurisdictional structural synthesis of how federalism and constitutional-j
 ### 17. [Methodology and Corpus Construction](methodology-and-corpus-construction.md)
 Self-reflective methodological synthesis documenting how the AntiAlienate knowledge base v2 corpus is constructed, organised, and verified. 4 entity types (practitioners + case studies + jurisdictions + evidence pages); cross-link format (`<type>:<id>`); structural-synthesis approach for evidence pages at 3 analytic levels; verification standards (primary-source-required + verbatim-quotes-in-original-language + anonymisation-per-court-convention + exclusions-documented); build pipeline + push pipeline + discovery endpoint. Cross-references companion evidence pages + ARCHITECTURE.md. Self-navigational reference for future contributors and downstream agents.
 
+### 18. [Documented Exclusions as Corpus Methodology](documented-exclusions-as-corpus-methodology.md)
+Dignification of the 243-entry exclusion ledger as a methodological feature rather than a register of failures. 6 reason-clusters categorised: unverifiable (120) + other (91) + out-of-scope (16) + regulatory (6) + duplicate (5) + safeguarding (5). Frames documented-exclusion-with-reason as a higher epistemic standard than silent omission. Comparative posture against Cochrane systematic-review methodology + peer-review desk-rejection logs + CVE/GHSA security-advisory databases. Every exclusion carries a stable `id` resolvable as `practitioner:<id>`, a documented reason, an optional primary-source URL, and an optional `references` array — making exclusions referenceable nodes in the knowledge graph and a working promotion pipeline rather than a graveyard.
+
 ## Cross-page structure
 
 Evidence pages operate at three analytic levels:
