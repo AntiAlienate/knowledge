@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T06:28:30Z",
+  "generated": "2026-06-04T06:29:54Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 40,
+    "jurisdictions": 41,
     "evidence_pages": 19
   },
   "indexes": {
@@ -186,6 +186,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "IE",
       "name": "Ireland (Éire)"
+    },
+    {
+      "id": "israel",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/israel.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/israel.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IL",
+      "name": "Israel (ישראל / إسرائيل)"
     },
     {
       "id": "italy",
