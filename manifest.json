@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T19:48:54Z",
+  "generated": "2026-06-04T19:50:12Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 162,
+    "jurisdictions": 163,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1082,6 +1082,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "SI",
       "name": "Slovenia (Slovenija)"
+    },
+    {
+      "id": "solomon-islands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/solomon-islands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/solomon-islands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "SB",
+      "name": "Solomon Islands"
     },
     {
       "id": "south-africa",
