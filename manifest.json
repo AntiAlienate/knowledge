@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T19:51:20Z",
+  "generated": "2026-06-04T19:52:27Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 164,
+    "jurisdictions": 165,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1186,6 +1186,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "TH",
       "name": "Thailand (ประเทศไทย)"
+    },
+    {
+      "id": "tonga",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tonga.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tonga.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "TO",
+      "name": "Tonga (Kingdom of Tonga / Pule'anga Fakatu'i 'o Tonga)"
     },
     {
       "id": "trinidad-and-tobago",
