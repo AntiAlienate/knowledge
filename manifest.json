@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T20:48:36Z",
+  "generated": "2026-06-04T20:49:47Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 205,
+    "jurisdictions": 206,
     "evidence_pages": 19
   },
   "indexes": {
@@ -530,6 +530,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "COE",
       "name": "European Convention on Human Rights / European Court of Human Rights (ECHR)"
+    },
+    {
+      "id": "faroe-islands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/faroe-islands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/faroe-islands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "FO",
+      "name": "Faroe Islands (Føroyar / Færøerne)"
     },
     {
       "id": "fiji",
