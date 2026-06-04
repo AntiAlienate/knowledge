@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T06:43:17Z",
+  "generated": "2026-06-04T06:44:17Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 47,
+    "jurisdictions": 48,
     "evidence_pages": 19
   },
   "indexes": {
@@ -114,6 +114,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "CO",
       "name": "Colombia"
+    },
+    {
+      "id": "czechia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/czechia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/czechia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CZ",
+      "name": "Czechia (Česko / Czech Republic)"
     },
     {
       "id": "denmark",
