@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T20:38:50Z",
+  "generated": "2026-06-04T20:40:05Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 199,
+    "jurisdictions": 200,
     "evidence_pages": 19
   },
   "indexes": {
@@ -874,6 +874,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "LT",
       "name": "Lithuania (Lietuva)"
+    },
+    {
+      "id": "macau",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/macau.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/macau.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "MO",
+      "name": "Macau (Macao Special Administrative Region of the People's Republic of China / 中華人民共和國澳門特別行政區 / Região Administrativa Especial de Macau da República Popular da China)"
     },
     {
       "id": "madagascar",
