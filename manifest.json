@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T18:16:14Z",
+  "generated": "2026-06-04T18:17:33Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 86,
+    "jurisdictions": 87,
     "evidence_pages": 19
   },
   "indexes": {
@@ -122,6 +122,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "BR",
       "name": "Brazil"
+    },
+    {
+      "id": "brunei",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brunei.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brunei.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "BN",
+      "name": "Brunei Darussalam (نڬارا بروني دارالسلام)"
     },
     {
       "id": "bulgaria",
