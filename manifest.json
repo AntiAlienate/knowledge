@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T20:00:06Z",
+  "generated": "2026-06-04T20:01:17Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 170,
+    "jurisdictions": 171,
     "evidence_pages": 19
   },
   "indexes": {
@@ -890,6 +890,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "NG",
       "name": "Nigeria"
+    },
+    {
+      "id": "north-korea",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/north-korea.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/north-korea.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "KP",
+      "name": "North Korea (Democratic People's Republic of Korea / 조선민주주의인민공화국)"
     },
     {
       "id": "north-macedonia",
