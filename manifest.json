@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T20:14:45Z",
+  "generated": "2026-06-04T20:15:53Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 181,
+    "jurisdictions": 182,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1066,6 +1066,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "QA",
       "name": "Qatar (دولة قطر)"
+    },
+    {
+      "id": "republic-of-the-congo",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/republic-of-the-congo.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/republic-of-the-congo.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CG",
+      "name": "Republic of the Congo (Congo-Brazzaville / République du Congo)"
     },
     {
       "id": "romania",
