@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T21:30:37Z",
+  "generated": "2026-06-04T21:32:01Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 227,
+    "jurisdictions": 228,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1250,6 +1250,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "GB-NIR",
       "name": "Northern Ireland"
+    },
+    {
+      "id": "northern-mariana-islands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/northern-mariana-islands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/northern-mariana-islands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "MP",
+      "name": "Northern Mariana Islands (Commonwealth of the Northern Mariana Islands / CNMI)"
     },
     {
       "id": "norway",
