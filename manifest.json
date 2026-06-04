@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T18:44:31Z",
+  "generated": "2026-06-04T18:46:40Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 111,
+    "jurisdictions": 112,
     "evidence_pages": 19
   },
   "indexes": {
@@ -906,6 +906,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "GB-WLS",
       "name": "Wales (Cymru)"
+    },
+    {
+      "id": "yemen",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/yemen.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/yemen.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "YE",
+      "name": "Yemen (Republic of Yemen / الجمهورية اليمنية)"
     },
     {
       "id": "zambia",
