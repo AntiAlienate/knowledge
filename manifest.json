@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T20:06:49Z",
+  "generated": "2026-06-04T20:08:02Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 175,
+    "jurisdictions": 176,
     "evidence_pages": 19
   },
   "indexes": {
@@ -802,6 +802,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "MT",
       "name": "Malta"
+    },
+    {
+      "id": "mauritius",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mauritius.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mauritius.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "MU",
+      "name": "Mauritius (Republic of Mauritius)"
     },
     {
       "id": "mexico",
