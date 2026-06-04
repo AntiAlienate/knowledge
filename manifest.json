@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T20:19:46Z",
+  "generated": "2026-06-04T20:21:02Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 185,
+    "jurisdictions": 186,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1250,6 +1250,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "SB",
       "name": "Solomon Islands"
+    },
+    {
+      "id": "somalia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/somalia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/somalia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "SO",
+      "name": "Somalia (Federal Republic of Somalia / Jamhuuriyadda Federaalka Soomaaliya / جمهورية الصومال الفيدرالية)"
     },
     {
       "id": "south-africa",
