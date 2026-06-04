@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T19:04:11Z",
+  "generated": "2026-06-04T19:05:32Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 127,
+    "jurisdictions": 128,
     "evidence_pages": 19
   },
   "indexes": {
@@ -114,6 +114,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "AZ",
       "name": "Azerbaijan (Republic of Azerbaijan / Azərbaycan Respublikası)"
+    },
+    {
+      "id": "bahamas",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bahamas.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bahamas.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "BS",
+      "name": "Bahamas (Commonwealth of The Bahamas)"
     },
     {
       "id": "bahrain",
