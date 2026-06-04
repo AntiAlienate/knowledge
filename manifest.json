@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-04T05:42:25Z",
+  "generated": "2026-06-04T05:56:01Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 37,
+    "jurisdictions": 38,
     "evidence_pages": 18
   },
   "indexes": {
@@ -66,6 +66,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "AU",
       "name": "Australia"
+    },
+    {
+      "id": "austria",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/austria.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/austria.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AT",
+      "name": "Austria (Österreich)"
     },
     {
       "id": "belgium",
