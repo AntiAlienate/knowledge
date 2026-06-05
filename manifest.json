@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T07:46:49Z",
+  "generated": "2026-06-05T08:11:55Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 289,
+    "jurisdictions": 290,
     "evidence_pages": 28
   },
   "indexes": {
@@ -1486,6 +1486,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "PE",
       "name": "Peru (Republic of Peru / República del Perú)"
+    },
+    {
+      "id": "peter-i-island",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/peter-i-island.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/peter-i-island.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AQ-PI",
+      "name": "Peter I Island (Peter I Øy)"
     },
     {
       "id": "philippines",
