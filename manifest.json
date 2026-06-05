@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T11:21:10Z",
+  "generated": "2026-06-05T11:23:59Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 304,
+    "jurisdictions": 305,
     "evidence_pages": 28
   },
   "indexes": {
@@ -1542,6 +1542,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "PG",
       "name": "Papua New Guinea (Independent State of Papua New Guinea)"
+    },
+    {
+      "id": "paracel-islands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/paracel-islands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/paracel-islands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "XX-PAR",
+      "name": "Paracel Islands (西沙群島 / Quần đảo Hoàng Sa)"
     },
     {
       "id": "paraguay",
