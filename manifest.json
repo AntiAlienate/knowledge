@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T07:19:42Z",
+  "generated": "2026-06-05T07:44:54Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 287,
+    "jurisdictions": 288,
     "evidence_pages": 28
   },
   "indexes": {
@@ -302,6 +302,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "BW",
       "name": "Botswana (Republic of Botswana)"
+    },
+    {
+      "id": "bouvet-island",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bouvet-island.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bouvet-island.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "BV",
+      "name": "Bouvet Island (Bouvetøya)"
     },
     {
       "id": "brazil",
