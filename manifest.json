@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T02:13:58Z",
+  "generated": "2026-06-05T02:19:00Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 243,
+    "jurisdictions": 244,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1122,6 +1122,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "MU",
       "name": "Mauritius (Republic of Mauritius)"
+    },
+    {
+      "id": "mayotte",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mayotte.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mayotte.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "YT",
+      "name": "Mayotte (Maore)"
     },
     {
       "id": "mexico",
