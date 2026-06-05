@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T12:45:33Z",
+  "generated": "2026-06-05T23:19:38Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 311,
+    "jurisdictions": 350,
     "evidence_pages": 28
   },
   "indexes": {
@@ -62,6 +62,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "AFR",
       "name": "Africa (regional aggregate)"
+    },
+    {
+      "id": "african-court",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/african-court.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/african-court.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AU-ACT",
+      "name": "African Court on Human and Peoples' Rights (ACtHPR / Cour africaine des droits de l'homme et des peuples)"
     },
     {
       "id": "aksai-chin",
@@ -128,12 +136,28 @@
       "name": "Anguilla"
     },
     {
+      "id": "antarctica",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/antarctica.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/antarctica.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AQ",
+      "name": "Antarctica (Antarctic Treaty System)"
+    },
+    {
       "id": "antigua-and-barbuda",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/antigua-and-barbuda.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/antigua-and-barbuda.json",
       "schema_version": "1.0",
       "jurisdiction_code": "AG",
       "name": "Antigua and Barbuda"
+    },
+    {
+      "id": "aragon",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/aragon.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/aragon.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES-AR",
+      "name": "Aragon (Aragón / Aragó)"
     },
     {
       "id": "argentina",
@@ -166,6 +190,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "AW",
       "name": "Aruba"
+    },
+    {
+      "id": "ascension-island",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ascension-island.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ascension-island.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "SH-ASC",
+      "name": "Ascension Island"
     },
     {
       "id": "asia",
@@ -216,6 +248,14 @@
       "name": "Azerbaijan (Republic of Azerbaijan / Azərbaycan Respublikası)"
     },
     {
+      "id": "azores",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/azores.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/azores.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "PT-AZO",
+      "name": "Azores (Região Autónoma dos Açores / Autonomous Region of the Azores)"
+    },
+    {
       "id": "bahamas",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bahamas.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bahamas.json",
@@ -232,6 +272,14 @@
       "name": "Bahrain (مملكة البحرين)"
     },
     {
+      "id": "balearic-islands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/balearic-islands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/balearic-islands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES-IB",
+      "name": "Balearic Islands (Illes Balears / Islas Baleares)"
+    },
+    {
       "id": "bangladesh",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bangladesh.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bangladesh.json",
@@ -246,6 +294,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "BB",
       "name": "Barbados"
+    },
+    {
+      "id": "basque-country",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/basque-country.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/basque-country.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES-PV",
+      "name": "Basque Country (Euskadi / País Vasco / Basque Autonomous Community)"
     },
     {
       "id": "belarus",
@@ -376,6 +432,14 @@
       "name": "Brunei Darussalam (نڬارا بروني دارالسلام)"
     },
     {
+      "id": "brussels-ii-ter",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brussels-ii-ter.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/brussels-ii-ter.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "EU-BII",
+      "name": "Brussels II ter Regulation Framework (EU Family-Law Cross-Border Framework)"
+    },
+    {
       "id": "bulgaria",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bulgaria.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/bulgaria.json",
@@ -432,6 +496,22 @@
       "name": "Canada"
     },
     {
+      "id": "canary-islands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/canary-islands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/canary-islands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES-CAN",
+      "name": "Canary Islands (Islas Canarias / Canàries)"
+    },
+    {
+      "id": "catalonia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/catalonia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/catalonia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES-CT",
+      "name": "Catalonia (Catalunya / Cataluña)"
+    },
+    {
       "id": "cayman-islands",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/cayman-islands.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/cayman-islands.json",
@@ -454,6 +534,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "TD",
       "name": "Chad (Republic of Chad / République du Tchad / تشاد)"
+    },
+    {
+      "id": "cherokee-nation",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/cherokee-nation.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/cherokee-nation.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "US-CHK",
+      "name": "Cherokee Nation (ᏣᎳᎩᎯ ᎠᏰᎵ / Tsalagihi Ayeli)"
     },
     {
       "id": "chile",
@@ -512,12 +600,28 @@
       "name": "Comoros (Union of the Comoros / Udzima wa Komori / الاتحاد القمري / Union des Comores)"
     },
     {
+      "id": "compact-of-free-association",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/compact-of-free-association.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/compact-of-free-association.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "US-COF",
+      "name": "Compact of Free Association (COFA / FAS Framework)"
+    },
+    {
       "id": "cook-islands",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/cook-islands.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/cook-islands.json",
       "schema_version": "1.0",
       "jurisdiction_code": "CK",
       "name": "Cook Islands (Kūki 'Āirani)"
+    },
+    {
+      "id": "corsica",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/corsica.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/corsica.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "FR-COR",
+      "name": "Corsica (Corse / Corsica)"
     },
     {
       "id": "costa-rica",
@@ -622,6 +726,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "TL",
       "name": "East Timor (Timor-Leste / Democratic Republic of Timor-Leste / República Democrática de Timor-Leste)"
+    },
+    {
+      "id": "echr-council-of-europe",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/echr-council-of-europe.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/echr-council-of-europe.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CE-EUR",
+      "name": "ECHR Council of Europe (European Convention on Human Rights / Article 8 Family-Life Framework)"
     },
     {
       "id": "ecuador",
@@ -768,12 +880,36 @@
       "name": "French Southern and Antarctic Lands (Terres australes et antarctiques françaises / TAAF)"
     },
     {
+      "id": "friuli-venezia-giulia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/friuli-venezia-giulia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/friuli-venezia-giulia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IT-FVG",
+      "name": "Friuli-Venezia Giulia (Friûl-Vignesie Julie / Furlanija-Julijska krajina)"
+    },
+    {
       "id": "gabon",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/gabon.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/gabon.json",
       "schema_version": "1.0",
       "jurisdiction_code": "GA",
       "name": "Gabon (Gabonese Republic / République Gabonaise)"
+    },
+    {
+      "id": "galapagos",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/galapagos.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/galapagos.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "EC-GAL",
+      "name": "Galápagos Islands (Provincia de Galápagos)"
+    },
+    {
+      "id": "galicia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/galicia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/galicia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES-GA",
+      "name": "Galicia (Galicia / Galiza)"
     },
     {
       "id": "gambia",
@@ -896,6 +1032,14 @@
       "name": "Guyana (Co-operative Republic of Guyana)"
     },
     {
+      "id": "hague-conference",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/hague-conference.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/hague-conference.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "HCC-PIL",
+      "name": "Hague Conference on Private International Law (HCCH / Hague Convention 1980 Framework)"
+    },
+    {
       "id": "haiti",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/haiti.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/haiti.json",
@@ -974,6 +1118,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "ID",
       "name": "Indonesia"
+    },
+    {
+      "id": "inter-american-court",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/inter-american-court.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/inter-american-court.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "OAS-IAC",
+      "name": "Inter-American Court of Human Rights (Corte Interamericana de Derechos Humanos / IACtHR)"
     },
     {
       "id": "iran",
@@ -1208,6 +1360,14 @@
       "name": "Lithuania (Lietuva)"
     },
     {
+      "id": "louisiana",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/louisiana.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/louisiana.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "US-LA",
+      "name": "Louisiana (State of Louisiana / État de Louisiane)"
+    },
+    {
       "id": "macau",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/macau.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/macau.json",
@@ -1222,6 +1382,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "MG",
       "name": "Madagascar (Republic of Madagascar / Repoblikan'i Madagasikara / République de Madagascar)"
+    },
+    {
+      "id": "madeira",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/madeira.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/madeira.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "PT-MAD",
+      "name": "Madeira (Região Autónoma da Madeira / Autonomous Region of Madeira)"
     },
     {
       "id": "malawi",
@@ -1392,6 +1560,14 @@
       "name": "Myanmar (Republic of the Union of Myanmar / ပြည်ထောင်စုသမ္မတ မြန်မာနိုင်ငံ)"
     },
     {
+      "id": "nagorno-karabakh",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nagorno-karabakh.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nagorno-karabakh.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AZ-NKR",
+      "name": "Nagorno-Karabakh / Artsakh (Republic of Artsakh, dissolved 2024)"
+    },
+    {
       "id": "namibia",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/namibia.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/namibia.json",
@@ -1406,6 +1582,22 @@
       "schema_version": "1.0",
       "jurisdiction_code": "NR",
       "name": "Nauru"
+    },
+    {
+      "id": "navajo-nation",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/navajo-nation.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/navajo-nation.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "US-NAV",
+      "name": "Navajo Nation (Naabeehó Bináhásdzo)"
+    },
+    {
+      "id": "navarre",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/navarre.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/navarre.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "ES-NC",
+      "name": "Navarre (Navarra / Nafarroa / Foral Community of Navarre)"
     },
     {
       "id": "nepal",
@@ -1520,12 +1712,28 @@
       "name": "Northern Mariana Islands (Commonwealth of the Northern Mariana Islands / CNMI)"
     },
     {
+      "id": "northwest-territories",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/northwest-territories.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/northwest-territories.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CA-NT",
+      "name": "Northwest Territories (Tunngavik / Denendeh / Territoires du Nord-Ouest)"
+    },
+    {
       "id": "norway",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/norway.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/norway.json",
       "schema_version": "1.0",
       "jurisdiction_code": "NO",
       "name": "Norway (Norge)"
+    },
+    {
+      "id": "nunavut",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nunavut.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nunavut.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CA-NU",
+      "name": "Nunavut (ᓄᓇᕗᑦ)"
     },
     {
       "id": "oman",
@@ -1640,6 +1848,14 @@
       "name": "Portugal"
     },
     {
+      "id": "pratas-islands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/pratas-islands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/pratas-islands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "XX-PRA",
+      "name": "Pratas Islands (Dongsha Islands / 東沙群島)"
+    },
+    {
       "id": "puerto-rico",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/puerto-rico.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/puerto-rico.json",
@@ -1656,12 +1872,28 @@
       "name": "Qatar (دولة قطر)"
     },
     {
+      "id": "quebec",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/quebec.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/quebec.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CA-QC",
+      "name": "Quebec (Province of Quebec / Province de Québec)"
+    },
+    {
       "id": "queen-maud-land",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/queen-maud-land.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/queen-maud-land.json",
       "schema_version": "1.0",
       "jurisdiction_code": "AQ-NO",
       "name": "Queen Maud Land (Dronning Maud Land)"
+    },
+    {
+      "id": "rapa-nui",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/rapa-nui.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/rapa-nui.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CL-RAP",
+      "name": "Rapa Nui / Easter Island (Isla de Pascua / Te Pito o te Henua)"
     },
     {
       "id": "republic-of-the-congo",
@@ -1784,6 +2016,14 @@
       "name": "Samoa (Independent State of Samoa / Mālō Sa'oloto Tuto'atasi o Sāmoa)"
     },
     {
+      "id": "san-andres-y-providencia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/san-andres-y-providencia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/san-andres-y-providencia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CO-SAP",
+      "name": "San Andrés, Providencia y Santa Catalina (Departamento Archipiélago de San Andrés, Providencia y Santa Catalina)"
+    },
+    {
       "id": "san-marino",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/san-marino.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/san-marino.json",
@@ -1798,6 +2038,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "ST",
       "name": "São Tomé and Príncipe (Democratic Republic of São Tomé and Príncipe / República Democrática de São Tomé e Príncipe)"
+    },
+    {
+      "id": "sardinia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sardinia.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sardinia.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IT-SRD",
+      "name": "Sardinia (Sardegna / Sardigna)"
     },
     {
       "id": "saudi-arabia",
@@ -1822,6 +2070,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "UK-SCO",
       "name": "Scotland"
+    },
+    {
+      "id": "sealand",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sealand.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sealand.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "XX-SLD",
+      "name": "Sealand (Principality of Sealand)"
     },
     {
       "id": "senegal",
@@ -1854,6 +2110,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "SC",
       "name": "Seychelles (Republic of Seychelles)"
+    },
+    {
+      "id": "sicily",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sicily.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sicily.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IT-SCY",
+      "name": "Sicily (Sicilia / Regione Siciliana)"
     },
     {
       "id": "sierra-leone",
@@ -1958,6 +2222,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "SS",
       "name": "South Sudan (Republic of South Sudan)"
+    },
+    {
+      "id": "south-tyrol",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/south-tyrol.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/south-tyrol.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IT-BZ",
+      "name": "South Tyrol (Südtirol / Alto Adige / Provincia Autonoma di Bolzano)"
     },
     {
       "id": "sovereign-order-of-malta",
@@ -2104,12 +2376,28 @@
       "name": "Transnistria (Pridnestrovian Moldavian Republic / PMR)"
     },
     {
+      "id": "trentino",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/trentino.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/trentino.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IT-TN",
+      "name": "Trentino (Provincia Autonoma di Trento / Trentin)"
+    },
+    {
       "id": "trinidad-and-tobago",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/trinidad-and-tobago.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/trinidad-and-tobago.json",
       "schema_version": "1.0",
       "jurisdiction_code": "TT",
       "name": "Trinidad and Tobago (Republic of Trinidad and Tobago)"
+    },
+    {
+      "id": "tristan-da-cunha",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tristan-da-cunha.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tristan-da-cunha.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "SH-TDC",
+      "name": "Tristan da Cunha (Tristan da Cunha Group)"
     },
     {
       "id": "tunisia",
@@ -2178,6 +2466,14 @@
     {
       "id": "uk-ireland",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/uk-ireland.md"
+    },
+    {
+      "id": "uk-sovereign-base-areas-cyprus",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/uk-sovereign-base-areas-cyprus.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/uk-sovereign-base-areas-cyprus.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CY-SBA",
+      "name": "UK Sovereign Base Areas in Cyprus (Akrotiri and Dhekelia / SBA)"
     },
     {
       "id": "ukraine",
@@ -2340,6 +2636,14 @@
       "name": "Uzbekistan (Republic of Uzbekistan / O'zbekiston Respublikasi)"
     },
     {
+      "id": "valle-d-aosta",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/valle-d-aosta.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/valle-d-aosta.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IT-VDA",
+      "name": "Valle d'Aosta (Vallée d'Aoste / Val d'Outa)"
+    },
+    {
       "id": "vanuatu",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/vanuatu.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/vanuatu.json",
@@ -2394,6 +2698,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "YE",
       "name": "Yemen (Republic of Yemen / الجمهورية اليمنية)"
+    },
+    {
+      "id": "yukon",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/yukon.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/yukon.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "CA-YT",
+      "name": "Yukon (Lú'án Mǟn Łít / Territoire du Yukon)"
     },
     {
       "id": "zambia",
