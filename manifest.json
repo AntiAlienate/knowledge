@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T10:54:07Z",
+  "generated": "2026-06-05T10:56:24Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 302,
+    "jurisdictions": 303,
     "evidence_pages": 28
   },
   "indexes": {
@@ -1662,6 +1662,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "RU",
       "name": "Russia (Russian Federation / Российская Федерация)"
+    },
+    {
+      "id": "russian-annexed-ukrainian-oblasts-2022",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/russian-annexed-ukrainian-oblasts-2022.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/russian-annexed-ukrainian-oblasts-2022.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "UA-ANN",
+      "name": "Russian-Annexed Ukrainian Oblasts 2022 (Donetsk + Luhansk + Kherson + Zaporizhzhia)"
     },
     {
       "id": "rwanda",
