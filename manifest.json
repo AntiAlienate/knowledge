@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T03:16:06Z",
+  "generated": "2026-06-05T03:20:54Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 245,
+    "jurisdictions": 246,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1514,6 +1514,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "LC",
       "name": "Saint Lucia"
+    },
+    {
+      "id": "saint-martin",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/saint-martin.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/saint-martin.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "MF",
+      "name": "Saint-Martin (French side of Saint Martin / Sint Maarten island)"
     },
     {
       "id": "saint-vincent-and-the-grenadines",
