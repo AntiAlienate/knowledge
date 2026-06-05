@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T06:19:56Z",
+  "generated": "2026-06-05T06:43:58Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 255,
+    "jurisdictions": 256,
     "evidence_pages": 19
   },
   "indexes": {
@@ -1522,6 +1522,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "RO",
       "name": "Romania (România)"
+    },
+    {
+      "id": "ross-dependency",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ross-dependency.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ross-dependency.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AQ-NZ",
+      "name": "Ross Dependency"
     },
     {
       "id": "russia",
