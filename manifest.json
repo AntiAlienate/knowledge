@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T08:40:56Z",
+  "generated": "2026-06-05T09:05:54Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 293,
+    "jurisdictions": 294,
     "evidence_pages": 28
   },
   "indexes": {
@@ -1958,6 +1958,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "TO",
       "name": "Tonga (Kingdom of Tonga / Pule'anga Fakatu'i 'o Tonga)"
+    },
+    {
+      "id": "transnistria",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/transnistria.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/transnistria.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "MD-PMR",
+      "name": "Transnistria (Pridnestrovian Moldavian Republic / PMR)"
     },
     {
       "id": "trinidad-and-tobago",
