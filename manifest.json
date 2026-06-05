@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T06:47:00Z",
+  "generated": "2026-06-05T07:18:00Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,8 +26,8 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 257,
-    "evidence_pages": 19
+    "jurisdictions": 286,
+    "evidence_pages": 28
   },
   "indexes": {
     "practitioners_therapists": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/index.json",
@@ -35,6 +35,10 @@
     "case_studies": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/index.json"
   },
   "jurisdictions": [
+    {
+      "id": "README",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/README.md"
+    },
     {
       "id": "afghanistan",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/afghanistan.md",
@@ -122,6 +126,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "AR",
       "name": "Argentina"
+    },
+    {
+      "id": "argentine-antarctica",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/argentine-antarctica.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/argentine-antarctica.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "AQ-AR",
+      "name": "Argentine Antarctica (Antártida Argentina)"
     },
     {
       "id": "armenia",
@@ -1964,6 +1976,10 @@
       "name": "United Kingdom — England and Wales (alias for england-and-wales)"
     },
     {
+      "id": "uk-ireland",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/uk-ireland.md"
+    },
+    {
       "id": "ukraine",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ukraine.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ukraine.json",
@@ -2004,12 +2020,116 @@
       "name": "Uruguay (Eastern Republic of Uruguay / República Oriental del Uruguay)"
     },
     {
+      "id": "us-alaska",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-alaska.md"
+    },
+    {
+      "id": "us-california",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-california.md"
+    },
+    {
+      "id": "us-connecticut",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-connecticut.md"
+    },
+    {
+      "id": "us-florida",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-florida.md"
+    },
+    {
+      "id": "us-georgia",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-georgia.md"
+    },
+    {
+      "id": "us-hawaii",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-hawaii.md"
+    },
+    {
+      "id": "us-illinois",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-illinois.md"
+    },
+    {
+      "id": "us-indiana",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-indiana.md"
+    },
+    {
+      "id": "us-kansas",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-kansas.md"
+    },
+    {
+      "id": "us-maine",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-maine.md"
+    },
+    {
+      "id": "us-maryland",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-maryland.md"
+    },
+    {
+      "id": "us-michigan",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-michigan.md"
+    },
+    {
+      "id": "us-minnesota",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-minnesota.md"
+    },
+    {
+      "id": "us-mississippi",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-mississippi.md"
+    },
+    {
+      "id": "us-missouri",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-missouri.md"
+    },
+    {
+      "id": "us-new-jersey",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-new-jersey.md"
+    },
+    {
+      "id": "us-new-mexico",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-new-mexico.md"
+    },
+    {
+      "id": "us-new-york",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-new-york.md"
+    },
+    {
+      "id": "us-north-carolina",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-north-carolina.md"
+    },
+    {
+      "id": "us-ohio",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-ohio.md"
+    },
+    {
+      "id": "us-oklahoma",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-oklahoma.md"
+    },
+    {
+      "id": "us-oregon",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-oregon.md"
+    },
+    {
+      "id": "us-tennessee",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-tennessee.md"
+    },
+    {
+      "id": "us-texas",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-texas.md"
+    },
+    {
       "id": "us-virgin-islands",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-virgin-islands.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-virgin-islands.json",
       "schema_version": "1.0",
       "jurisdiction_code": "VI",
       "name": "US Virgin Islands (United States Virgin Islands / USVI)"
+    },
+    {
+      "id": "us-washington",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-washington.md"
+    },
+    {
+      "id": "us-wisconsin",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/us-wisconsin.md"
     },
     {
       "id": "uzbekistan",
@@ -2122,6 +2242,10 @@
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/cross-border-parental-abduction-and-pa-intersection.md"
     },
     {
+      "id": "diagnostic-codes-that-apply",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/diagnostic-codes-that-apply.md"
+    },
+    {
       "id": "documented-exclusions-as-corpus-methodology",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/documented-exclusions-as-corpus-methodology.md"
     },
@@ -2134,8 +2258,16 @@
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md"
     },
     {
+      "id": "evaluator-training-asymmetry",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-training-asymmetry.md"
+    },
+    {
       "id": "federalism-patterns-and-pa-doctrine-fragmentation",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md"
+    },
+    {
+      "id": "forensic-operation-in-courts",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/forensic-operation-in-courts.md"
     },
     {
       "id": "global-south-womens-rights-critique-register",
@@ -2150,8 +2282,24 @@
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/latam5-institutional-anti-sap-comparison.md"
     },
     {
+      "id": "mental-health-outcomes",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/mental-health-outcomes.md"
+    },
+    {
       "id": "methodology-and-corpus-construction",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/methodology-and-corpus-construction.md"
+    },
+    {
+      "id": "pa-as-child-abuse",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/pa-as-child-abuse.md"
+    },
+    {
+      "id": "prevalence-claims",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/prevalence-claims.md"
+    },
+    {
+      "id": "reunification-outcomes",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-outcomes.md"
     },
     {
       "id": "reunification-programmes-and-regulation",
@@ -2162,12 +2310,20 @@
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md"
     },
     {
+      "id": "standard-of-proof",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/standard-of-proof.md"
+    },
+    {
       "id": "statutory-pa-jurisdictions-triple-comparison",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/statutory-pa-jurisdictions-triple-comparison.md"
     },
     {
       "id": "strasbourg-article-8-positive-obligations-doctrine",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md"
+    },
+    {
+      "id": "what-court-submissions-can-claim",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/what-court-submissions-can-claim.md"
     }
   ]
 }
