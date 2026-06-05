@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T05:52:46Z",
+  "generated": "2026-06-05T06:17:10Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 253,
+    "jurisdictions": 254,
     "evidence_pages": 19
   },
   "indexes": {
@@ -690,6 +690,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "PF",
       "name": "French Polynesia (Polynésie française / Pōrīnetia Farāni)"
+    },
+    {
+      "id": "french-southern-and-antarctic-lands",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/french-southern-and-antarctic-lands.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/french-southern-and-antarctic-lands.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "TF",
+      "name": "French Southern and Antarctic Lands (Terres australes et antarctiques françaises / TAAF)"
     },
     {
       "id": "gabon",
