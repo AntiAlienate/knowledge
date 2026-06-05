@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T08:38:52Z",
+  "generated": "2026-06-05T08:40:56Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 292,
+    "jurisdictions": 293,
     "evidence_pages": 28
   },
   "indexes": {
@@ -1310,6 +1310,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "NA",
       "name": "Namibia (Republic of Namibia)"
+    },
+    {
+      "id": "nauru",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nauru.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nauru.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "NR",
+      "name": "Nauru"
     },
     {
       "id": "nepal",
