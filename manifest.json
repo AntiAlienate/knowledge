@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/antialienate-knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-05T23:19:38Z",
+  "generated": "2026-06-06T02:30:06Z",
   "schemas": {
     "practitioner": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
     "case-study": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
@@ -26,7 +26,7 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "jurisdictions": 350,
+    "jurisdictions": 360,
     "evidence_pages": 28
   },
   "indexes": {
@@ -112,6 +112,14 @@
       "name": "American Samoa (Amerika Sāmoa)"
     },
     {
+      "id": "andhra-pradesh",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/andhra-pradesh.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/andhra-pradesh.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-AP",
+      "name": "Andhra Pradesh (ఆంధ్ర ప్రదేశ్)"
+    },
+    {
       "id": "andorra",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/andorra.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/andorra.json",
@@ -192,6 +200,14 @@
       "name": "Aruba"
     },
     {
+      "id": "arunachal-pradesh",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/arunachal-pradesh.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/arunachal-pradesh.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-AR",
+      "name": "Arunachal Pradesh (अरुणाचल प्रदेश / Doni Polo)"
+    },
+    {
       "id": "ascension-island",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ascension-island.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/ascension-island.json",
@@ -206,6 +222,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "ASI",
       "name": "Asia (regional aggregate)"
+    },
+    {
+      "id": "assam",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/assam.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/assam.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-AS",
+      "name": "Assam (অসম)"
     },
     {
       "id": "australia",
@@ -1432,6 +1456,14 @@
       "name": "Malta"
     },
     {
+      "id": "manipur",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/manipur.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/manipur.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-MN",
+      "name": "Manipur (মণিপুর / Meitrabak)"
+    },
+    {
       "id": "marshall-islands",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/marshall-islands.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/marshall-islands.json",
@@ -1472,6 +1504,14 @@
       "name": "Mayotte (Maore)"
     },
     {
+      "id": "meghalaya",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/meghalaya.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/meghalaya.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-ML",
+      "name": "Meghalaya (मेघालय / 'Abode of Clouds')"
+    },
+    {
       "id": "mexico",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mexico.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mexico.json",
@@ -1486,6 +1526,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "FM",
       "name": "Micronesia (Federated States of Micronesia / FSM)"
+    },
+    {
+      "id": "mizoram",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mizoram.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/mizoram.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-MZ",
+      "name": "Mizoram (Mizo Hnam)"
     },
     {
       "id": "moldova",
@@ -1558,6 +1606,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "MM",
       "name": "Myanmar (Republic of the Union of Myanmar / ပြည်ထောင်စုသမ္မတ မြန်မာနိုင်ငံ)"
+    },
+    {
+      "id": "nagaland",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nagaland.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/nagaland.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-NL",
+      "name": "Nagaland (Nāgāland)"
     },
     {
       "id": "nagorno-karabakh",
@@ -2128,6 +2184,14 @@
       "name": "Sierra Leone (Republic of Sierra Leone)"
     },
     {
+      "id": "sikkim",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sikkim.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/sikkim.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-SK",
+      "name": "Sikkim (སུ་ཁྱིམ་ / Indrakil)"
+    },
+    {
       "id": "singapore",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/singapore.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/singapore.json",
@@ -2336,6 +2400,14 @@
       "name": "Tanzania (Tanzania mainland + Zanzibar)"
     },
     {
+      "id": "telangana",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/telangana.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/telangana.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-TG",
+      "name": "Telangana (తెలంగాణ)"
+    },
+    {
       "id": "thailand",
       "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/thailand.md",
       "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/thailand.json",
@@ -2390,6 +2462,14 @@
       "schema_version": "1.0",
       "jurisdiction_code": "TT",
       "name": "Trinidad and Tobago (Republic of Trinidad and Tobago)"
+    },
+    {
+      "id": "tripura",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tripura.md",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/jurisdictions/tripura.json",
+      "schema_version": "1.0",
+      "jurisdiction_code": "IN-TR",
+      "name": "Tripura (ত্রিপুরা / Twipra)"
     },
     {
       "id": "tristan-da-cunha",
