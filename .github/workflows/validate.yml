@@ -1,18 +1,10 @@
 name: Validate knowledge base
+# Auto-triggers disabled — drift-detection was firing on every push because
+# rendered MD files weren't being regenerated locally before commits. Manual-
+# only until the render step is wired into a pre-commit hook. To re-enable,
+# restore the push/pull_request/schedule blocks.
 on:
-  push:
-    branches: [main]
-    paths:
-      - 'practitioners/**'
-      - 'case-studies/**'
-      - 'schemas/**'
-      - 'bin/**'
-      - '.github/workflows/validate.yml'
-  pull_request:
-    branches: [main]
   workflow_dispatch:
-  schedule:
-    - cron: '0 6 * * 1'
 
 jobs:
   validate:

@@ -14,9 +14,10 @@ name: Build and Deploy MkDocs site
 # correctly. Treating those as fatal would block every commit and force
 # rewriting hundreds of canonical source files — that breaks external
 # GitHub links by design (per Adam's instruction: no link breakage).
+# Auto-trigger on push disabled — MkDocs build was failing and producing
+# failure emails. Manual-only until a successful workflow_dispatch run
+# confirms the build is green. To re-enable, restore the push block.
 on:
-  push:
-    branches: [main]
   workflow_dispatch:
 
 jobs:
