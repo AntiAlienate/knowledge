@@ -40,14 +40,41 @@
   "anonymisation_convention": "Omani family-law decisions are anonymised per court practice; published decisions use initials.",
   "key_developments": [
     {
+      "year": 1996,
+      "title": "Basic Statute of the State (Royal Decree 101/96)",
+      "description": "Oman's Basic Statute of the State promulgated 6 November 1996 by Royal Decree 101/96 (later amended by Royal Decree 6/2021) — establishes the family as the basis of society with the State preserving its legal entity, strengthening its ties, and protecting motherhood and childhood. Articles on family form the constitutional anchor for welfare-of-the-child jurisprudence operating within Ibadi-jurisprudential bounds."
+    },
+    {
       "year": 1997,
       "title": "Personal Status Law (Royal Decree 32/97)",
-      "description": "Federal Personal Status Law enacted; first codification of family-law provisions primarily on Ibadi jurisprudential basis."
+      "description": "Federal Personal Status Law enacted by Royal Decree 32/97 dated 4 June 1997; first codification of family-law provisions primarily on Ibadi jurisprudential basis with Maliki and Hanafi provisions for non-Ibadi Muslims. Arts. 124-145 govern custody (hadana) and guardianship (wilaya) and remain the operative custody framework."
+    },
+    {
+      "year": 2014,
+      "title": "Child Law (Royal Decree 22/2014)",
+      "description": "Federal Child Law enacted by Royal Decree 22/2014 dated 19 May 2014, codifying CRC-aligned best-interest-of-the-child framework, prohibiting physical and psychological abuse of children, and establishing administrative protections for children at risk. The Child Law operates alongside the Personal Status Law and provides the substantive welfare-of-the-child grounding for custody and visitation rulings."
+    },
+    {
+      "year": 2021,
+      "title": "Royal Decree 6/2021 — Amended Basic Statute of the State",
+      "description": "Sultan Haitham bin Tariq promulgated Royal Decree 6/2021 dated 11 January 2021 issuing an amended Basic Statute of the State, reaffirming family-protection provisions, establishing the modern succession framework, and re-baselining the constitutional family-law anchor during the early Sultan Haitham era following Sultan Qaboos's death January 2020."
+    },
+    {
+      "year": 2023,
+      "title": "Personal Status Law amendments — guardianship of mother provisions",
+      "description": "Oman's Ministry of Justice and Legal Affairs continued PSL amendment work in 2023 expanding mother-as-guardian provisions for hadana extension and addressing custody-transfer-on-remarriage rules within Ibadi jurisprudential bounds — part of the gradual reform stream affecting custody, visitation (mushahada), and maintenance (nafaqa)."
+    },
+    {
+      "year": 2024,
+      "title": "Personal Status Courts — welfare-of-the-child substantive register",
+      "description": "Personal Status Courts continue to develop substantive welfare-of-the-child jurisprudence within Ibadi-jurisprudential bounds, addressing custody disputes including allegations of one-parent obstruction of the other-parent relationship without adopting the 'parental alienation' label as a doctrinal term. The substantive analysis focuses on the child's interest, the custodial parent's fitness, and the maintenance of the parent-child bond under hadana and visitation rules."
     }
   ],
   "structural_findings": [
-    "Oman operates the only Ibadi-jurisprudence-primary religious-law framework within the corpus — distinct from Sunni-Hanbali (Saudi Arabia), Sunni-Maliki/Hanafi (Kuwait), Sunni-Shafi'i (Malaysia/Indonesia), Sunni-Shia-unified (Bahrain), and Shia-Jaʿfari (Iran). Ibadi jurisprudence diverges substantially from Sunni schools in personal-status provisions.",
-    "Non-Hague Convention status places Oman in the non-Hague Gulf cluster."
+    "Oman operates the only Ibadi-jurisprudence-primary religious-law framework within the corpus — distinct from Sunni-Hanbali (Saudi Arabia, Qatar-primary), Sunni-Maliki-primary (Kuwait), Sunni-Shafi'i (Malaysia/Indonesia), Sunni-Shia-unified (Bahrain), and Shia-Ja'fari (Iran). Ibadi jurisprudence diverges substantially from Sunni schools in personal-status provisions including hadana-age-limits and guardianship-transfer rules.",
+    "Non-Hague Convention status places Oman in the non-Hague-Gulf cluster alongside Saudi Arabia, Kuwait, Iran, and Iraq with reciprocal-bilateral-recognition the operative cross-border child-custody mechanism.",
+    "Three-layer constitutional + statutory framework: Basic Statute 101/96 (amended by 6/2021) family-protection-anchor + Personal Status Law 32/97 codified-custody-framework + Child Law 22/2014 CRC-aligned-welfare-anchor — operative within Ibadi-jurisprudential bounds.",
+    "Sultan Haitham era (post-January 2020) reform stream affecting Personal Status Law amendments — 2021 amended Basic Statute + 2023 PSL guardianship amendments form the contemporary substantive register."
   ],
   "references": [
     "jurisdiction:saudi-arabia",
@@ -76,8 +103,10 @@
     }
   ],
   "editorial_notes": [
-    "Oman jurisdiction sidecar — Ibadi religious-law framework. Personal Status Law (Royal Decree 32/97) + OMSB psychology regulation + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator.",
-    "Joins Gulf + Ibadi distinctive cluster + non-Hague Convention clusters within the corpus."
+    "Oman jurisdiction sidecar v1.1 — deepened 2026-06-08 with three-layer constitutional + statutory welfare-of-the-child framework: Basic Statute 101/96 (amended 6/2021) + Personal Status Law 32/97 + Child Law 22/2014 stack.",
+    "Ibadi-jurisprudence-primary religious-law framework — only Ibadi-primary jurisdiction within the corpus — with codified Personal Status Law + Personal Status Courts + OMSB psychology regulation + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis without doctrinal 'parental alienation' label.",
+    "Joins Gulf-cluster + Ibadi-distinctive-cluster + non-Hague-Gulf-cluster within the corpus.",
+    "Sultan Haitham era (2020-present) reform stream is the operative contemporary register — 2021 amended Basic Statute, 2023 PSL guardianship amendments."
   ]
 }
