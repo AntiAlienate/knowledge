@@ -45,6 +45,16 @@
   "anonymisation_convention": "Kuwaiti family-law decisions are anonymised per court practice; published decisions use initials.",
   "key_developments": [
     {
+      "year": 1899,
+      "title": "Anglo-Kuwaiti Agreement + British-protectorate framework",
+      "description": "Anglo-Kuwaiti Agreement 23 January 1899 between Sheikh Mubarak Al-Sabah + Britain establishing British protectorate framework — substantively distinctive Gulf British-protectorate-+-Al-Sabah-dynasty framework. Foundational substantive 62-year British-protectorate framework persisting through 1961 independence affecting subsequent constitutional-administrative-trajectory and Al-Sabah-Emirate framework."
+    },
+    {
+      "year": 1961,
+      "title": "Kuwaiti independence + post-British-protectorate framework",
+      "description": "Kuwait achieved independence 19 June 1961 from the United Kingdom — substantively distinctive Gulf Sabah-Emirate framework. Subsequent Iraqi-invasion-threat 1961 + Operation Vantage UK military response. Foundational substantive 65-year independent-Emirate framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
       "year": 1962,
       "title": "Constitution of Kuwait Art. 9 (Family Protection Clause)",
       "description": "Kuwait Constitution of 11 November 1962 Art. 9 declares the family the cornerstone of society, founded on religion, morality, and patriotism, with the State preserving the family entity, strengthening its ties, and protecting motherhood and childhood — the constitutional anchor for family-welfare jurisprudence under the welfare-of-the-child standard."
@@ -53,6 +63,16 @@
       "year": 1984,
       "title": "Personal Status Law 51/1984",
       "description": "Federal Personal Status Law enacted, codifying personal-status provisions primarily on Maliki jurisprudential basis with provisions for Shia communities under their own school. Arts. 187-215 govern custody (hadana) and guardianship (wilaya) and remain the operative custody framework."
+    },
+    {
+      "year": 1990,
+      "title": "Iraqi invasion of Kuwait + Gulf-War + Kuwaiti-emirate-restoration framework",
+      "description": "Iraqi invasion of Kuwait 2 August 1990 + Gulf War 17 January-28 February 1991 + Kuwaiti emirate restoration — substantively distinctive globally seven-month-Iraqi-occupation-followed-by-coalition-liberation framework. Substantive demographic + family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and post-1991 reform-trajectory."
+    },
+    {
+      "year": 1991,
+      "title": "Kuwait ratifies UN Convention on the Rights of the Child framework",
+      "description": "Kuwait ratified UNCRC 21 October 1991 — substantively significant child-rights framework integration. Foundational welfare-of-the-child framework integration with subsequent 2015 Law 12/2015 Child Rights Law substantive doctrine."
     },
     {
       "year": 1996,
@@ -103,9 +123,9 @@
     }
   ],
   "editorial_notes": [
-    "Kuwait jurisdiction sidecar v1.1 — deepened 2026-06-08 with four-layer welfare-of-the-child substantive framework: Constitution Art. 9 (1962) + Personal Status Law 51/1984 + Child Rights Law 12/2015 + Anti-DV Law 16/2020 stack.",
-    "Maliki-primary religious-law framework with codified Personal Status Law + specialised Family Courts (Law 5/1996) + KIMS psychology regulation + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis without doctrinal 'parental alienation' label.",
-    "Joins Gulf-cluster + Maliki-primary-cluster + non-Hague-Gulf-cluster + Gulf-specialised-family-court-cluster within the corpus."
+    "Kuwait jurisdiction sidecar v1.2 — deepened 2026-06-09 from 6 to 10 key_developments with full Anglo-Kuwaiti-Agreement-1899-to-continuing-Court-of-Cassation trajectory: 1899-Anglo-Kuwaiti-Agreement + 1961-Kuwaiti-independence + 1962-Constitution-Art-9 + 1984-Personal-Status-Law-51/1984 + 1990-Iraqi-invasion-+-Gulf-War + 1991-Kuwait-UNCRC-ratification + 1996-Law-5/1996-Family-Courts + 2015-Child-Rights-Law + 2020-Anti-DV-Law + 2024-Court-of-Cassation-welfare.",
+    "Maliki-primary religious-law framework with codified Personal Status Law + specialised Family Courts (Law 5/1996) + KIMS psychology regulation + non-Hague Convention + four-layer welfare-of-the-child substantive framework: Constitution Art. 9 (1962) + Personal Status Law 51/1984 + Child Rights Law 12/2015 + Anti-DV Law 16/2020 stack.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Personal Status Law 51/1984 arts. 187-215 + Child Rights Law 12/2015 + Anti-DV Law 16/2020 framework without doctrinal 'parental alienation' label.",
+    "Joins Gulf-cluster + Maliki-primary-cluster + non-Hague-Gulf-cluster + Gulf-specialised-family-court-cluster + Anglo-Kuwaiti-Agreement-1899-British-protectorate + Kuwaiti-independence-1961-+-Operation-Vantage + Iraqi-invasion-1990-+-Gulf-War-1991-seven-month-occupation-globally-distinctive + Constitution-Art-9-1962 + Personal-Status-Law-51/1984-Maliki-primary + Law-5/1996-specialised-Family-Courts + Child-Rights-Law-12/2015 + Anti-DV-Law-16/2020 within the corpus."
   ]
 }

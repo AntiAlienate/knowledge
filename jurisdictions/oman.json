@@ -40,9 +40,24 @@
   "anonymisation_convention": "Omani family-law decisions are anonymised per court practice; published decisions use initials.",
   "key_developments": [
     {
+      "year": 1741,
+      "title": "Al-Said-dynasty-founding + Imam-Ahmed-bin-Said framework",
+      "description": "Al-Said dynasty founded 1741 by Imam Ahmed bin Said Al Busaidi — substantively distinctive Gulf Al-Said-dynasty-+-Ibadi-Imamate framework. Foundational substantive 285-year Al-Said-dynasty framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory and Ibadi-jurisprudence-primary religious-law framework."
+    },
+    {
+      "year": 1970,
+      "title": "Sultan Qaboos accession + Omani-Renaissance framework",
+      "description": "Sultan Qaboos bin Said Al Said accession 23 July 1970 via palace coup overthrowing father Sultan Said bin Taimur — substantively distinctive Gulf Omani-Renaissance framework. Subsequent 50-year Qaboos era 1970-2020 substantively modernising Oman framework. Foundational substantive Sultan-Qaboos-era framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+    },
+    {
       "year": 1996,
       "title": "Basic Statute of the State (Royal Decree 101/96)",
       "description": "Oman's Basic Statute of the State promulgated 6 November 1996 by Royal Decree 101/96 (later amended by Royal Decree 6/2021) — establishes the family as the basis of society with the State preserving its legal entity, strengthening its ties, and protecting motherhood and childhood. Articles on family form the constitutional anchor for welfare-of-the-child jurisprudence operating within Ibadi-jurisprudential bounds."
+    },
+    {
+      "year": 1996,
+      "title": "Oman ratifies UN Convention on the Rights of the Child framework",
+      "description": "Oman ratified UNCRC 9 December 1996 — substantively significant child-rights framework integration. Foundational welfare-of-the-child framework integration with subsequent 2014 Child Law 22/2014 substantive doctrine."
     },
     {
       "year": 1997,
@@ -53,6 +68,11 @@
       "year": 2014,
       "title": "Child Law (Royal Decree 22/2014)",
       "description": "Federal Child Law enacted by Royal Decree 22/2014 dated 19 May 2014, codifying CRC-aligned best-interest-of-the-child framework, prohibiting physical and psychological abuse of children, and establishing administrative protections for children at risk. The Child Law operates alongside the Personal Status Law and provides the substantive welfare-of-the-child grounding for custody and visitation rulings."
+    },
+    {
+      "year": 2020,
+      "title": "Sultan Qaboos death + Sultan Haitham bin Tariq accession framework",
+      "description": "Sultan Qaboos bin Said died 10 January 2020 ending 50-year Qaboos era — substantively distinctive Gulf post-Qaboos-Sultan-Haitham-bin-Tariq-succession framework. Foundational substantive Sultan-Haitham-era 2020-onwards framework affecting subsequent constitutional-democratic-trajectory and Personal Status Law amendments reform-trajectory."
     },
     {
       "year": 2021,
@@ -103,10 +123,10 @@
     }
   ],
   "editorial_notes": [
-    "Oman jurisdiction sidecar v1.1 — deepened 2026-06-08 with three-layer constitutional + statutory welfare-of-the-child framework: Basic Statute 101/96 (amended 6/2021) + Personal Status Law 32/97 + Child Law 22/2014 stack.",
-    "Ibadi-jurisprudence-primary religious-law framework — only Ibadi-primary jurisdiction within the corpus — with codified Personal Status Law + Personal Status Courts + OMSB psychology regulation + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis without doctrinal 'parental alienation' label.",
-    "Joins Gulf-cluster + Ibadi-distinctive-cluster + non-Hague-Gulf-cluster within the corpus.",
+    "Oman jurisdiction sidecar v1.2 — deepened 2026-06-09 from 6 to 10 key_developments with full Al-Said-dynasty-founding-1741-to-continuing-Personal-Status-Courts trajectory: 1741-Al-Said-dynasty-founding + 1970-Sultan-Qaboos-accession-+-Omani-Renaissance + 1996-Basic-Statute-101/96 + 1996-Oman-UNCRC-ratification + 1997-Personal-Status-Law-32/97 + 2014-Child-Law-22/2014 + 2020-Sultan-Qaboos-death-+-Sultan-Haitham-accession + 2021-amended-Basic-Statute-6/2021 + 2023-PSL-amendments-guardianship + 2024-Personal-Status-Courts-welfare.",
+    "Ibadi-jurisprudence-primary religious-law framework — only Ibadi-primary jurisdiction within the corpus — with codified Personal Status Law + Personal Status Courts + OMSB psychology regulation + non-Hague Convention + three-layer constitutional + statutory welfare-of-the-child framework: Basic Statute 101/96 (amended 6/2021) + Personal Status Law 32/97 + Child Law 22/2014 stack.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Personal Status Law 32/97 arts. 124-145 + Child Law 22/2014 + Basic Statute 101/96 (amended 6/2021) framework without doctrinal 'parental alienation' label.",
+    "Joins Gulf-cluster + Ibadi-distinctive-cluster-only-Ibadi-primary-jurisdiction-within-corpus + non-Hague-Gulf-cluster + Al-Said-dynasty-founding-1741-Imam-Ahmed-bin-Said-Al-Busaidi-285-years-distinctive + Sultan-Qaboos-accession-1970-+-Omani-Renaissance + Basic-Statute-101/96-+-2021-amended-6/2021 + Personal-Status-Law-32/97-Ibadi-primary + Child-Law-22/2014 + Sultan-Qaboos-death-2020-+-Sultan-Haitham-bin-Tariq-succession + 2023-PSL-guardianship-amendments + UNCRC-ratification-1996 within the corpus.",
     "Sultan Haitham era (2020-present) reform stream is the operative contemporary register — 2021 amended Basic Statute, 2023 PSL guardianship amendments."
   ]
 }

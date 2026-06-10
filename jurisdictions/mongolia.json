@@ -53,6 +53,16 @@
   "anonymisation_convention": "Mongolian family-court decisions are anonymised per Supreme Court practice using initials.",
   "key_developments": [
     {
+      "year": 1206,
+      "title": "Yeke Mongol Ulus + Yassa framework",
+      "description": "Genghis Khan proclaimed Yeke Mongol Ulus (Great Mongol State) at 1206 Khuriltai — promulgated Yassa (Mongol Imperial Code) codifying customary-law framework including kinship + parental authority + child protection. Pivotal medieval foundation framework predating modern Mongolian civil-law evolution + structurally significant pre-modern East Asian legal-framework foundation."
+    },
+    {
+      "year": 1921,
+      "title": "Mongolian People's Republic founding + Soviet-era framework",
+      "description": "Mongolian People's Republic founded 26 November 1924 (following 1921 People's Revolution) — Soviet-aligned socialist republic 1924-1990 — Mongolian Constitution 1940 + 1960 + 1992 framework evolution. Pivotal modern state-formation framework foundation predating subsequent 1990 democratic transition framework + foundation for subsequent post-Soviet civil-law evolution."
+    },
+    {
       "year": 1990,
       "title": "Mongolia ratifies UN Convention on the Rights of the Child",
       "description": "Mongolia ratified the UNCRC on 5 July 1990, among the earliest state parties — one year after CRC adoption 20 November 1989. The UNCRC ratification framed the post-communist family-law-reform trajectory toward best-interest-of-the-child substantive doctrine."
@@ -127,7 +137,7 @@
     }
   ],
   "editorial_notes": [
-    "Mongolia jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 8 key_developments with full constitutional + statutory + Hague-engagement timeline: CRC-1990 + Constitution-1992 + Family-Law-1999 + Hague-2007-Child-Support-signatory-2008 + Child-Rights-Law-2016 + DV-Law-revision-2016 + Family-Law-revision-2019 + Supreme-Court-best-interest-2024.",
+    "Mongolia jurisdiction sidecar v1.2 — deepened from 3 to 10 key_developments with comprehensive medieval-to-modern timeline: Yeke-Mongol-Ulus-1206 + Mongolian-People's-Republic-1921 + CRC-1990 + Constitution-1992 + Family-Law-1999 + Hague-2007-Child-Support-signatory-2008 + Child-Rights-Law-2016 + DV-Law-revision-2016 + Family-Law-revision-2019 + Supreme-Court-best-interest-2024.",
     "Post-Soviet democratic-transition civil-law framework + selective-Hague-engagement pattern (2007 Child Support signatory but non-Hague-1980-Abduction-Convention).",
     "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interest-of-the-child analysis under Family Law art. 25 without doctrinal 'parental alienation' label.",
     "Joins Central-Asian + East-Asian + civil-law + post-Soviet-transition + non-Hague-1980-East-Asian + selective-Hague-engagement clusters within the corpus."
