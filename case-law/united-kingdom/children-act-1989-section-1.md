@@ -108,6 +108,8 @@ The **no-order principle at s.1(5)** does not preclude robust enforcement of con
 - **Codification history:** Original section 1 enacted 1989. Subsection (2A)-(2B) and (6)-(7) inserted by Children and Families Act 2014 s.11 (in force 22 October 2014). Subsection (4)(b) updated by Adoption and Children Act 2002 + subsequent amendments.
 - **Status:** Crown copyright; published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — verbatim reproduction permitted.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -86,3 +86,44 @@ Strasbourg has repeatedly held States in violation where domestic courts failed 
 - **Treaty citation:** Convention for the Protection of Human Rights and Fundamental Freedoms, Council of Europe Treaty Series No. 5, Article 8; opened for signature Rome 4 November 1950; entered into force 3 September 1953.
 - **UK incorporation:** Human Rights Act 1998 (1998 c.42), Schedule 1, Part I, Article 8 — published under [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 - **Strasbourg jurisprudence database:** HUDOC — https://hudoc.echr.coe.int (full text of all ECtHR judgments)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Hoppe](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Hoppe%22]})
+- [HUDOC search: Sahin](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sahin%22]})
+- [HUDOC search: Caras](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Caras%22]})
+- [HUDOC search: Zenide](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Zenide%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+- [HUDOC search: Bondavalli](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bondavalli%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+
+<!-- AA-CROSSLINK-END -->

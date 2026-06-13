@@ -101,6 +101,8 @@ The **explicit domestic-abuse provisions** at (a)(9) (including the pattern-of-e
 - **Codification history:** Enacted L. 2011, ch. 26, § 20 (2011); amended L. 2014, ch. 116, § 9; L. 2016, ch. 102, § 7; L. 2017, ch. 58, § 2
 - **Status:** Public domain — Kansas state statutes are not subject to copyright (Kansas Open Records Act + general principle that government-authored law is public domain).
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -154,6 +154,8 @@ ICARA is the **operative cause-of-action statute** in every US Hague Convention 
 - **Legislative history:** § 9001 — Pub. L. 100-300, § 2, Apr. 29, 1988, 102 Stat. 437. § 9003 — Pub. L. 100-300, § 4, Apr. 29, 1988, 102 Stat. 438. Renumbered from 42 U.S.C. §§ 11601-11611 to 22 U.S.C. §§ 9001-9011 by Pub. L. 113-150, § 3(a)(1), Aug. 8, 2014.
 - **Status:** Public domain — US federal statutes are not subject to copyright (1 U.S.C. § 105 and general principle that government-authored law is public domain).
 
+
+
 <!-- AA-CITE-START -->
 
 ---
