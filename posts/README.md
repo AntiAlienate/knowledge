@@ -61,7 +61,7 @@ License: CC BY 4.0. Attribution: Alan Markson, antialienate.com.
 - [Digital Gatekeeping Parental Alienation Tactics](https://www.antialienate.com/blog/digital-gatekeeping-parental-alienation-tactics)
 - [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Stop Digital Gatekeeping Parental Alienation](https://www.antialienate.com/blog/stop-digital-gatekeeping-parental-alienation)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Grandparents And Parental Alienation The Extended Wound](https://www.antialienate.com/blog/grandparents-and-parental-alienation-the-extended-wound)
 
 <!-- AA-CROSSLINK-END -->

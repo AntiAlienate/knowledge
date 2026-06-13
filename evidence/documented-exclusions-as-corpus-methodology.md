@@ -119,5 +119,6 @@ In each case the documented exclusion is treated as a feature of epistemic rigou
 ## Related on antialienate.com
 
 - [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
+- [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
 
 <!-- AA-CROSSLINK-END -->

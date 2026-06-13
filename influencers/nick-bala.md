@@ -59,6 +59,6 @@ Bala writes for judges. His Canadian case-law studies (Bala/Hunt/McCarney 2009; 
 - [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
 - [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
 
 <!-- AA-CROSSLINK-END -->

@@ -169,5 +169,6 @@ Uchwała Izby Cywilnej Sądu Najwyższego w składzie trzech sędziów na podsta
 - [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
 - [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
 - [How To Respond To Lies From Opposing Counsel](https://www.antialienate.com/blog/how-to-respond-to-lies-from-opposing-counsel)
+- [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
 
 <!-- AA-CROSSLINK-END -->

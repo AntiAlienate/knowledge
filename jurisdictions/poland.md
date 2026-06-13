@@ -147,5 +147,6 @@ Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (syg
 ## Related on antialienate.com
 
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+- [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
 
 <!-- AA-CROSSLINK-END -->
