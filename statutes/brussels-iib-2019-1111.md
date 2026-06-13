@@ -111,6 +111,28 @@ Wiki entry, not legal advice. Cross-border EU family matters require specialist 
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+- [UK Legislation](https://www.legislation.gov.uk/)
+- [US Code (Cornell LII)](https://www.law.cornell.edu/uscode/text)
+- [EUR-Lex — EU legislation](https://eur-lex.europa.eu/)
+- [Légifrance — French legislation](https://www.legifrance.gouv.fr/)
+- [Gesetze im Internet — German legislation](https://www.gesetze-im-internet.de/)
+- [Bundesgesetzblatt (Austria)](https://www.ris.bka.gv.at/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

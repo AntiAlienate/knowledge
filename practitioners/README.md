@@ -106,6 +106,22 @@ PRs that add unverified entries, guess stance, or use second-hand stance attribu
 
 *CC BY 4.0 · [AntiAlienate.com](https://www.antialienate.com) · Canonical machine-readable JSON URLs at https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/<type>/<country>.json*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [APA Find a Psychologist](https://locator.apa.org/)
+- [AAML Find a Lawyer](https://www.aaml.org/find-a-lawyer/)
+- [Resolution (UK)](https://resolution.org.uk/find-a-resolution-member/)
+- [AFCC Member Directory](https://www.afccnet.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

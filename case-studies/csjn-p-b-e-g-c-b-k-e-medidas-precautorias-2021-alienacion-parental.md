@@ -178,6 +178,22 @@ For the AntiAlienate knowledge base, this is the **anchor Argentine case** and t
 
 *Case study prepared for the AntiAlienate knowledge base (github.com/AntiAlienate/antialienate-knowledge) under CC BY 4.0. Spanish quotations transcribed from the SCBA's 9-VIII-2024 sentencia (C. 121.539) as published by ASAPMI and indexed by SAIJ, and from the Mizrahi case-note compilations citing the CSJN's 7-X-2021 ruling (CSJ 1813/2018/RH1) verbatim at footnote 1. The composition of the CSJN signing Pleno on 7-X-2021 is recorded as **not publicly confirmed** at the level of publicly indexed extracts and should be verified from the CSJN's expediente system before citation in formal pleadings. SCBA voting Pleno on 9-VIII-2024 (Kogan ponente; Torres, Violini, Mancini concurring; Camps actuario) confirmed from the signed digital sentencia.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

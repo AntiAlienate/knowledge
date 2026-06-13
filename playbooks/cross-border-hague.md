@@ -143,6 +143,23 @@ It's much cheaper to set this up cooperatively than to litigate it once relation
 
 *See also: [Working With Your Lawyer](working-with-lawyer.md) — many Hague-specialist lawyers are NOT general family lawyers. [Documentation System](documentation-system.md) — cross-border cases need especially thorough record-keeping.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC — Association of Family and Conciliation Courts](https://www.afccnet.org/)
+- [AAML — American Academy of Matrimonial Lawyers](https://www.aaml.org/)
+- [Family Law Section (American Bar Association)](https://www.americanbar.org/groups/family_law/)
+- [Resolution (UK family law)](https://resolution.org.uk/)
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

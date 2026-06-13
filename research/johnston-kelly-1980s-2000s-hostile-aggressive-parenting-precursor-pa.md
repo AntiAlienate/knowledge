@@ -68,6 +68,23 @@ The Johnston-Kelly approach proved influential because:
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Google Scholar](https://scholar.google.com/)
+- [APA PsycNet](https://psycnet.apa.org/)
+- [Open Science Framework](https://osf.io/)
+- [Cochrane Library](https://www.cochranelibrary.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

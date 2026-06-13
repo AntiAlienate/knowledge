@@ -468,6 +468,26 @@ Chester / North Wales circuit · Wales (Welsh-medium placeholder) · Linenhall C
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [APA Find a Psychologist](https://locator.apa.org/)
+- [AAML Find a Lawyer](https://www.aaml.org/find-a-lawyer/)
+- [Resolution (UK)](https://resolution.org.uk/find-a-resolution-member/)
+- [AFCC Member Directory](https://www.afccnet.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

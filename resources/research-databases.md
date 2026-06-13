@@ -149,6 +149,23 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 *Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Missing a database? Open a PR.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

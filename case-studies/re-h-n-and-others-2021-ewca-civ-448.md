@@ -87,6 +87,26 @@ For families navigating private-law proceedings today, Re H-N is the case that a
 - [Right to Equality campaign page](https://righttoequality.org/campaign/family-courts/)
 - [MoJ Harm Panel Report (2020) – contextual document](https://www.gov.uk/government/publications/assessing-risk-of-harm-to-children-and-parents-in-private-law-children-cases)
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

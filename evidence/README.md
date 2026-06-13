@@ -85,6 +85,30 @@ Evidence pages enumerated in `/manifest.json` discovery endpoint. Downstream RAG
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/README.md*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [ECHR — Convention text](https://www.echr.coe.int/documents/d/echr/convention_ENG)
+- [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
+
+**Topic baseline (independently verifiable):**
+
+- [Cochrane Library — systematic reviews](https://www.cochranelibrary.com/)
+- [PubMed — primary literature search](https://pubmed.ncbi.nlm.nih.gov/)
+- [APA PsycNet — psychology literature](https://psycnet.apa.org/)
+- [Open Science Framework — preregistrations + data](https://osf.io/)
+- [DSM-5-TR (American Psychiatric Association)](https://www.appi.org/products/dsm)
+- [ICD-11 (World Health Organization)](https://icd.who.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

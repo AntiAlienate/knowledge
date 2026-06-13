@@ -332,6 +332,30 @@ These are not legal advice. They are example skeletons of the kind of framing th
 **Compiled** 2026-05-25 for the AntiAlienate knowledge repository (CC BY 4.0).
 **Compiler note.** Where the published text of a judgment or article was not directly accessible at compilation, the citation is marked **[secondary verification only]** and should be re-checked against the original. Where a specific factual proposition asked for could not be located in a primary source, it is marked **not publicly confirmed** rather than fabricated.
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [Cochrane Library — systematic reviews](https://www.cochranelibrary.com/)
+- [PubMed — primary literature search](https://pubmed.ncbi.nlm.nih.gov/)
+- [APA PsycNet — psychology literature](https://psycnet.apa.org/)
+- [Open Science Framework — preregistrations + data](https://osf.io/)
+- [DSM-5-TR (American Psychiatric Association)](https://www.appi.org/products/dsm)
+- [ICD-11 (World Health Organization)](https://icd.who.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

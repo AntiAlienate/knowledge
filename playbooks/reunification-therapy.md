@@ -116,6 +116,23 @@ That is bleak. It is also true. Plan for it.
 
 *See also: [First 90 Days](first-90-days.md), [Working With Your Lawyer](working-with-lawyer.md), [Influencers](../influencers/) for the people behind these protocols.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC — Association of Family and Conciliation Courts](https://www.afccnet.org/)
+- [AAML — American Academy of Matrimonial Lawyers](https://www.aaml.org/)
+- [Family Law Section (American Bar Association)](https://www.americanbar.org/groups/family_law/)
+- [Resolution (UK family law)](https://resolution.org.uk/)
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

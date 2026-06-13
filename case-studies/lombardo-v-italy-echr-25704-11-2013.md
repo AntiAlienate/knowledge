@@ -155,6 +155,31 @@ Violation of Article 8 ECHR found unanimously. Just satisfaction awarded under A
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Lombardo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lombardo%22]})
+- [HUDOC search: Strumia and Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Strumia and Improta%22]})
+- [HUDOC search: Kutzner](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Kutzner%22]})
+- [HUDOC search: Piazzi](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Piazzi%22]})
+- [HUDOC search: Bondavalli](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bondavalli%22]})
+- [HUDOC search: Strumia](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Strumia%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

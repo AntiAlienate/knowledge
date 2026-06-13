@@ -96,6 +96,22 @@ For honest PA advocacy, the case is a model of what statutory-enforcement reason
 - [Radca Prawny – "Przegląd orzecznictwa Sądu Najwyższego (wrzesień-październik 2025)"](https://ejournals.eu/en/journal/radca-prawny/article/przeglad-orzecznictwa-sadu-najwyzszego-wrzesien-pazdziernik-2025)
 - [Kancelaria Adwokacka dr Kingi Karsten – "Utrudniony kontakt z dzieckiem – orzeczenie SN z 2025 r."](https://karsten.pl/porady-prawne/utrudniony-kontakt-z-dzieckiem-nowy-targ/)
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

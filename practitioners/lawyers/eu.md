@@ -513,6 +513,22 @@ Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); 
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [APA Find a Psychologist](https://locator.apa.org/)
+- [AAML Find a Lawyer](https://www.aaml.org/find-a-lawyer/)
+- [Resolution (UK)](https://resolution.org.uk/find-a-resolution-member/)
+- [AFCC Member Directory](https://www.afccnet.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

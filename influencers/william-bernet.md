@@ -33,6 +33,28 @@ If a court-appointed psychologist or your jurisdiction's family-court framework 
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

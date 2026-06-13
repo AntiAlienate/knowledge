@@ -72,6 +72,28 @@ Educational content. **Not legal advice.**
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

@@ -203,6 +203,23 @@ analytics and the repo to handle initial load.
 - [ ] Influencer outreach Tier 1 emails sent 48h before launch
 - [ ] Backup distribution lined up (paid wire on standby if organic flat)
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

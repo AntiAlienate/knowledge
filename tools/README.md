@@ -10,6 +10,22 @@ Practical tooling references for targeted parents, self-represented litigants, a
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+- [Google Scholar](https://scholar.google.com/)
+- [BAILII](https://www.bailii.org/)
+- [Justia](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

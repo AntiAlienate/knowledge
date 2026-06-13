@@ -123,6 +123,27 @@ Wiki entry, not legal advice. Canadian PA matters require qualified family-law c
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Solarino](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Solarino%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Google Scholar](https://scholar.google.com/)
+- [APA PsycNet](https://psycnet.apa.org/)
+- [Open Science Framework](https://osf.io/)
+- [Cochrane Library](https://www.cochranelibrary.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

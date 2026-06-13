@@ -281,6 +281,22 @@ For transparency, the following names were considered and excluded:
 
 6. **CNDH 2011 *Alienación Parental* (2nd edition, 317 pp.) is the single most operationally-useful Mexican institutional reference** — explicitly mixed-positions, used by both camps. Any practitioner directory in this jurisdiction that omits the CNDH volume is incomplete.
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [APA Find a Psychologist](https://locator.apa.org/)
+- [AAML Find a Lawyer](https://www.aaml.org/find-a-lawyer/)
+- [Resolution (UK)](https://resolution.org.uk/find-a-resolution-member/)
+- [AFCC Member Directory](https://www.afccnet.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

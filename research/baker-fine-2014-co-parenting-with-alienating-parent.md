@@ -96,6 +96,23 @@ By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Google Scholar](https://scholar.google.com/)
+- [APA PsycNet](https://psycnet.apa.org/)
+- [Open Science Framework](https://osf.io/)
+- [Cochrane Library](https://www.cochranelibrary.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

@@ -310,6 +310,22 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 
 7. **PL 1.372/2023 (full revocation) passing CCJ 37-28 in Dec 2025 has materially raised stakes** — the recognition camp is now openly fighting to preserve LAP at the Plenário level; this directory should expect significant churn (new publications, public letters, institutional repositionings) through 2026.
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [APA Find a Psychologist](https://locator.apa.org/)
+- [AAML Find a Lawyer](https://www.aaml.org/find-a-lawyer/)
+- [Resolution (UK)](https://resolution.org.uk/find-a-resolution-member/)
+- [AFCC Member Directory](https://www.afccnet.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

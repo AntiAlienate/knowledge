@@ -174,6 +174,27 @@ By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not legal advice. Cross-border PA cases require specialized counsel familiar with the relevant Hague + EU + national framework intersection.
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [HCCH — 1996 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70)
+- [ECHR — Convention text](https://www.echr.coe.int/documents/d/echr/convention_ENG)
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [OECD Family Database](https://www.oecd.org/els/family/database.htm)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

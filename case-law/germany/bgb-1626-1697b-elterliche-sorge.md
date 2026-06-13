@@ -102,6 +102,34 @@ By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not legal advice. Consult a qualified German family-law attorney (Fachanwalt fur Familienrecht).
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Sahin](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sahin%22]})
+- [HUDOC search: Sommerfeld](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sommerfeld%22]})
+- [HUDOC search: Zaunegger](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Zaunegger%22]})
+- [HUDOC search: Hoffmann](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Hoffmann%22]})
+- [HUDOC search: Buchleither](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Buchleither%22]})
+- [HUDOC search: Anayo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Anayo%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

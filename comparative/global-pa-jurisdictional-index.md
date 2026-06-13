@@ -200,6 +200,30 @@ By Alan Markson. Licensed under CC BY 4.0.
 
 Index last updated: May 2026 (67 jurisdictions, 14 regional blocks, 11+ research entries, 7 ECHR deep-dives, cross-border framework, ongoing expansion).
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Sahin](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sahin%22]})
+- [HUDOC search: Sommerfeld](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sommerfeld%22]})
+- [HUDOC search: Sporer](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sporer%22]})
+- [HUDOC search: Hoffmann](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Hoffmann%22]})
+- [HUDOC search: Zenide](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Zenide%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [OECD Family Database](https://www.oecd.org/els/family/database.htm)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

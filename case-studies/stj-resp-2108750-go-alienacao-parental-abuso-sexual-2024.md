@@ -107,6 +107,22 @@ For honest PA advocacy, the case is also a caution. It shows that the highest Br
 - [Lei nº 12.318, de 26 de agosto de 2010 – text via CRP-SP](http://www.crpsp.org.br/interjustica/pdfs/Lei-12318_10-Alienacao-Parental.pdf)
 - [Senado Federal – Consulta Pública PL 1372/2023](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=156451)
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

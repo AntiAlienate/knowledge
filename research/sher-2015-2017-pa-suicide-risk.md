@@ -137,6 +137,23 @@ Wiki entry, not clinical advice. **If in crisis, contact a hotline above immedia
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
+- [Google Scholar](https://scholar.google.com/)
+- [APA PsycNet](https://psycnet.apa.org/)
+- [Open Science Framework](https://osf.io/)
+- [Cochrane Library](https://www.cochranelibrary.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

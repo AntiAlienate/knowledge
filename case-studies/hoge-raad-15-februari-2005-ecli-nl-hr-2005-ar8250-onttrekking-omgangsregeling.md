@@ -121,6 +121,22 @@ For practitioners outside the Netherlands the case is most useful as a comparati
 - [Wetboek-online.nl – Wetboek van Strafrecht art. 279](http://www.wetboek-online.nl/wet/sr/279.html)
 - [Rutten x Welling Advocaten – "Ouderverstoting en het recht op omgang" (practitioner overview)](https://ruttenwelling.nl/ouderverstoting-en-het-recht-op-omgang/)
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

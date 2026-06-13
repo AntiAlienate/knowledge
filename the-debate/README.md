@@ -16,6 +16,23 @@ Honest reference on the contested status of parental alienation. Required readin
 
 *A repository that presents only one side of a contested field is propaganda, not a knowledge base.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [DSM-5-TR position (APA)](https://www.psychiatry.org/psychiatrists/practice/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [Parental Alienation Study Group](https://pasg.info/)
+- [National Council on Family Relations](https://www.ncfr.org/)
+- [Center for Judicial Excellence (critique camp)](https://centerforjudicialexcellence.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

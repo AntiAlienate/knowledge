@@ -91,6 +91,21 @@ Reference each in your [contact log](./contact-log-spreadsheet.md) by filename.
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC sample forms + guides](https://www.afccnet.org/Resource-Center/)
+- [US Courts forms](https://www.uscourts.gov/forms-rules/forms)
+- [UK Ministry of Justice forms](https://www.gov.uk/government/collections/family-court-forms)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

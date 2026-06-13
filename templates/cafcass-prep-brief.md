@@ -83,6 +83,26 @@ Worth mentioning if the conversation invites it:
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC sample forms + guides](https://www.afccnet.org/Resource-Center/)
+- [US Courts forms](https://www.uscourts.gov/forms-rules/forms)
+- [UK Ministry of Justice forms](https://www.gov.uk/government/collections/family-court-forms)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

@@ -10,3 +10,18 @@ This file is preserved for inbound-link continuity. The canonical version carrie
 
 *Canonical JSON: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/cassazione-9691-2022-italy.json*  
 *Discovery: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json*
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->

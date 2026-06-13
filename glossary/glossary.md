@@ -190,6 +190,28 @@ PA occurs roughly evenly across mother- and father-targeted patterns when preval
 
 *Open a PR with corrections or additions. Vocabulary in this field is contested — multiple framings can be legitimate.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [ECHR — Convention text](https://www.echr.coe.int/documents/d/echr/convention_ENG)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [APA Dictionary of Psychology](https://dictionary.apa.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

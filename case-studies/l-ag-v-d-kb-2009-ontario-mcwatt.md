@@ -87,6 +87,22 @@ Third, the case matters as a *contrast point* for cross-jurisdictional analysis.
 - [Iqbal Law – Ontario PA evidence guide](https://www.iqbalslaw.com/parental-alienation-ontario-evidence-strategy/)
 - Fidler, B. J., & Bala, N. (2010). "Children resisting post-separation contact with a parent: Concepts, controversies, and conundrums." *Family Court Review*, 48(1), 10–47
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

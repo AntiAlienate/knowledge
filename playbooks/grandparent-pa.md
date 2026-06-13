@@ -129,6 +129,27 @@ If you find yourself here:
 
 *See also: [First 90 Days](first-90-days.md) for the parent's playbook. [Documentation System](documentation-system.md) — grandparents need this too. [Resources](../resources/) for books on adult children of PA.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC — Association of Family and Conciliation Courts](https://www.afccnet.org/)
+- [AAML — American Academy of Matrimonial Lawyers](https://www.aaml.org/)
+- [Family Law Section (American Bar Association)](https://www.americanbar.org/groups/family_law/)
+- [Resolution (UK family law)](https://resolution.org.uk/)
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

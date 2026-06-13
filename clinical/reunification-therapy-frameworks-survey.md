@@ -140,6 +140,23 @@ By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not clinical recommendation. Selection of reunification therapy framework requires consultation with a qualified PA-informed therapist and family-law attorney familiar with the specific case dynamics. Outcomes vary substantially across cases.
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [APA Ethics Code](https://www.apa.org/ethics/code)
+- [AACAP — American Academy of Child and Adolescent Psychiatry](https://www.aacap.org/)
+- [AFCC standards of practice](https://www.afccnet.org/Resource-Center/Practice-Guidelines-and-Standards)
+- [DSM-5-TR (American Psychiatric Association)](https://www.appi.org/products/dsm)
+- [ICD-11 (World Health Organization)](https://icd.who.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

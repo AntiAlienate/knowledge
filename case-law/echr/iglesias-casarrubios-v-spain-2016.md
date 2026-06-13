@@ -112,6 +112,31 @@ Wiki entry, not legal advice.
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Iglesias](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Iglesias%22]})
+- [HUDOC search: Solarino](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Solarino%22]})
+- [HUDOC search: Casarrubios](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Casarrubios%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

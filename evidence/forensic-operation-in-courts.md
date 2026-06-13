@@ -328,6 +328,29 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [Cochrane Library — systematic reviews](https://www.cochranelibrary.com/)
+- [PubMed — primary literature search](https://pubmed.ncbi.nlm.nih.gov/)
+- [APA PsycNet — psychology literature](https://psycnet.apa.org/)
+- [Open Science Framework — preregistrations + data](https://osf.io/)
+- [DSM-5-TR (American Psychiatric Association)](https://www.appi.org/products/dsm)
+- [ICD-11 (World Health Organization)](https://icd.who.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

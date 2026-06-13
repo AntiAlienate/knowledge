@@ -114,6 +114,23 @@ PRs from contributors with on-the-ground verification welcome.
 
 *Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Last expanded 2026-05-25. Missing an org you rely on? [Open a PR.](https://github.com/AntiAlienate/antialienate-knowledge/pulls)*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

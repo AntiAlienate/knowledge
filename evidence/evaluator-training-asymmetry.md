@@ -536,6 +536,28 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [Cochrane Library — systematic reviews](https://www.cochranelibrary.com/)
+- [PubMed — primary literature search](https://pubmed.ncbi.nlm.nih.gov/)
+- [APA PsycNet — psychology literature](https://psycnet.apa.org/)
+- [Open Science Framework — preregistrations + data](https://osf.io/)
+- [DSM-5-TR (American Psychiatric Association)](https://www.appi.org/products/dsm)
+- [ICD-11 (World Health Organization)](https://icd.who.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

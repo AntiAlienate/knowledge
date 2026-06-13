@@ -98,6 +98,22 @@ Three reasons this case earns a slot in the AntiAlienate corpus, despite being a
 
 *Document prepared for the AntiAlienate knowledge base under CC BY 4.0. Anonymised "H" and "W" follow the Hong Kong Family Court convention for proceedings concerning children.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

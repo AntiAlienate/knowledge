@@ -82,6 +82,25 @@ Save the response. Cross-reference into your [contact log](./contact-log-spreads
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC sample forms + guides](https://www.afccnet.org/Resource-Center/)
+- [US Courts forms](https://www.uscourts.gov/forms-rules/forms)
+- [UK Ministry of Justice forms](https://www.gov.uk/government/collections/family-court-forms)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

@@ -214,6 +214,22 @@ If you are a future contributor who has located a candidate case, please replace
 - [Ankenbrandt v. Richards, 504 U.S. 689 (1992) – Justia](https://supreme.justia.com/cases/federal/us/504/689/)
 - [Marshall v. Marshall, 547 U.S. 293 (2006) – Justia](https://supreme.justia.com/cases/federal/us/547/293/)
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

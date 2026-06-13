@@ -89,6 +89,23 @@ Trying to do these yourself, even with research, almost always backfires.
 
 *See also: [First 90 Days playbook](first-90-days.md) — when to bring a lawyer in. [Court prep checklist](court-prep-checklist.md) — how to use them on the day.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC — Association of Family and Conciliation Courts](https://www.afccnet.org/)
+- [AAML — American Academy of Matrimonial Lawyers](https://www.aaml.org/)
+- [Family Law Section (American Bar Association)](https://www.americanbar.org/groups/family_law/)
+- [Resolution (UK family law)](https://resolution.org.uk/)
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

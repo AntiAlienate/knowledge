@@ -78,6 +78,22 @@ Third, the case is unusual in being a rare example of a child actually being tra
 - [Transparency Project commentary](https://transparencyproject.org.uk/choosing-the-course-which-is-less-stressful-to-the-child/)
 - [Universal Medicine Accountability](https://universalmedicineaccountability.wordpress.com/2020/05/02/parental-alienation-universal-medicine-cult-uk-court-of-appeal-rules-to-protect-child/)
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — ECtHR case database](https://hudoc.echr.coe.int/)
+- [BAILII — UK case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [Justia — US case law](https://supreme.justia.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

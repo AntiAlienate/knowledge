@@ -187,6 +187,23 @@ Second-opinion battles can be expensive and can read as litigation tactics if no
 
 *Open a PR with jurisdictional additions — evaluator-selection processes vary substantially.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC — Association of Family and Conciliation Courts](https://www.afccnet.org/)
+- [AAML — American Academy of Matrimonial Lawyers](https://www.aaml.org/)
+- [Family Law Section (American Bar Association)](https://www.americanbar.org/groups/family_law/)
+- [Resolution (UK family law)](https://resolution.org.uk/)
+- [AntiAlienate Knowledge Base](https://knowledge.antialienate.com/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

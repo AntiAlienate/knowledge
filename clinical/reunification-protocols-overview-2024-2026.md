@@ -92,6 +92,23 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Reunification protocol selection requires assessment by qualified mental-health professionals and court order.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [APA Ethics Code](https://www.apa.org/ethics/code)
+- [AACAP — American Academy of Child and Adolescent Psychiatry](https://www.aacap.org/)
+- [AFCC standards of practice](https://www.afccnet.org/Resource-Center/Practice-Guidelines-and-Standards)
+- [DSM-5-TR (American Psychiatric Association)](https://www.appi.org/products/dsm)
+- [ICD-11 (World Health Organization)](https://icd.who.int/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

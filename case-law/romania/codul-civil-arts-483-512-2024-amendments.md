@@ -124,6 +124,31 @@ The case is what transforms Article 8 from a defensive shield (state must not in
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Romanian family lawyer (*avocat de familie*) for case-specific guidance.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Zenide](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Zenide%22]})
+- [HUDOC search: Lafargue](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lafargue%22]})
+- [HUDOC search: Costreie](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Costreie%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

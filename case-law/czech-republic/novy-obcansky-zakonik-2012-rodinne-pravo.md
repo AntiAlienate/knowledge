@@ -98,6 +98,32 @@ By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not legal advice. Consult a qualified Czech family-law attorney (advokat specializovany na rodinne pravo).
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Petrov and Others](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Petrov and Others%22]})
+- [HUDOC search: Reslova](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Reslova%22]})
+- [HUDOC search: Andelova](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Andelova%22]})
+- [ECHR — Convention text](https://www.echr.coe.int/documents/d/echr/convention_ENG)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

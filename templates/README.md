@@ -38,6 +38,21 @@ PRs welcome for additional templates, adaptations to specific jurisdictions, and
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [AFCC sample forms + guides](https://www.afccnet.org/Resource-Center/)
+- [US Courts forms](https://www.uscourts.gov/forms-rules/forms)
+- [UK Ministry of Justice forms](https://www.gov.uk/government/collections/family-court-forms)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

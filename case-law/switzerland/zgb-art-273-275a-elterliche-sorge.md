@@ -94,6 +94,32 @@ Switzerland is a Hague 1980 signatory. Cross-border PA cases involving Swiss-res
 
 *Disclaimer: This page summarizes statutory and case-law information for educational purposes. It is not legal advice. Consult a qualified Swiss family-law attorney (Familienrechtsanwalt / avocat spécialiste FSA droit de la famille) for case-specific guidance.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Hoffmann](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Hoffmann%22]})
+- [HUDOC search: Sahin](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sahin%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+- [ECHR — Convention text](https://www.echr.coe.int/documents/d/echr/convention_ENG)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

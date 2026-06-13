@@ -129,6 +129,30 @@ Switzerland's **Zivilgesetzbuch** (Swiss Civil Code, ZGB) arts. 296–298 govern
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Swiss family lawyer (Familienrechtsanwalt / avocat en droit de la famille / avvocato in diritto di famiglia) for case-specific guidance.*
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Wagner](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Wagner%22]})
+- [HUDOC search: Bossert](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bossert%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

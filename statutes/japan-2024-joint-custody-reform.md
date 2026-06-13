@@ -130,6 +130,24 @@ Wiki entry, not legal advice. Cross-border Japan-involved family matters require
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [UK Legislation](https://www.legislation.gov.uk/)
+- [US Code (Cornell LII)](https://www.law.cornell.edu/uscode/text)
+- [EUR-Lex — EU legislation](https://eur-lex.europa.eu/)
+- [Légifrance — French legislation](https://www.legifrance.gouv.fr/)
+- [Gesetze im Internet — German legislation](https://www.gesetze-im-internet.de/)
+- [Bundesgesetzblatt (Austria)](https://www.ris.bka.gv.at/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---

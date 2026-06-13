@@ -134,6 +134,28 @@ Judges read both literatures (or should). A submission that ignores the contrary
 
 — Catalogued by Alan Markson · CC BY 4.0
 
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [DSM-5-TR position (APA)](https://www.psychiatry.org/psychiatrists/practice/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [Parental Alienation Study Group](https://pasg.info/)
+- [National Council on Family Relations](https://www.ncfr.org/)
+- [Center for Judicial Excellence (critique camp)](https://centerforjudicialexcellence.org/)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---
