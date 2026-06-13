@@ -87,6 +87,8 @@ Strasbourg has repeatedly held States in violation where domestic courts failed 
 - **UK incorporation:** Human Rights Act 1998 (1998 c.42), Schedule 1, Part I, Article 8 — published under [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).
 - **Strasbourg jurisprudence database:** HUDOC — https://hudoc.echr.coe.int (full text of all ECtHR judgments)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

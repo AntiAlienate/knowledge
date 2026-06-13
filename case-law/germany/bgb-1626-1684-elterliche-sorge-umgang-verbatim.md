@@ -108,3 +108,42 @@ The German Bundesgerichtshof (BGH) and the Bundesverfassungsgericht (BVerfG) hav
 - **Statute citation:** Bürgerliches Gesetzbuch (BGB), Buch 4 (Familienrecht), Abschnitt 2 (Verwandtschaft), Titel 5 (Elterliche Sorge), §§ 1626 + 1684
 - **Codification history:** Original BGB enacted 1900; substantively revised by Gesetz zur Reform des Kindschaftsrechts (Kindschaftsrechtsreformgesetz, KindRG) 16 December 1997 (in force 1 July 1998); further amendments via Gesetz zur Erleichterung familiengerichtlicher Maßnahmen bei Gefährdung des Kindeswohls (2008) and Gesetz zur Reform des familiengerichtlichen Verfahrens (FGG-Reformgesetz, 2009 — introducing FamFG).
 - **Status:** German federal statutes (Bundesgesetze) are public-domain and freely reproducible (no copyright; published officially by the Bundesministerium der Justiz at gesetze-im-internet.de).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Sahin](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sahin%22]})
+- [HUDOC search: Sommerfeld](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sommerfeld%22]})
+- [HUDOC search: Hoppe](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Hoppe%22]})
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+
+<!-- AA-CROSSLINK-END -->

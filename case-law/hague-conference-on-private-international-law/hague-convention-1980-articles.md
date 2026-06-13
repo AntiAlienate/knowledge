@@ -230,6 +230,8 @@ The Hague Convention 1980 is **not a parental-alienation instrument** — its fu
 - **Contracting States:** 103 (as at 2026)
 - **Status:** International treaty text — published officially by HCCH for global use; verbatim reproduction permitted for legal and educational purposes.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

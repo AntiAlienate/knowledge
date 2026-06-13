@@ -101,6 +101,8 @@ Florida also has the explicit **paragraph (m) safeguarding clause** requiring th
 - **Codification status:** Florida Statutes — public-domain state law publication
 - **Status:** Public domain — Florida state statutes are not subject to copyright (general principle that government-authored law is public domain).
 
+
+
 <!-- AA-CITE-START -->
 
 ---

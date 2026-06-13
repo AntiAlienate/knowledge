@@ -135,3 +135,40 @@ The leading Canadian appellate authorities on PA-pattern conduct under the post-
 - **Statute citation:** Divorce Act, R.S.C., 1985, c. 3 (2nd Supp.), s. 16, as amended by S.C. 2019, c. 16, s. 12 (Bill C-78)
 - **In-force date for current text:** 1 March 2021 (Bill C-78 substantive amendments)
 - **Crown copyright + reproduction:** Federal statutes may be reproduced freely under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/notice.html) (no further permission required for non-commercial or commercial reproduction).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [How To Talk Child Before Transitions Simple Script](https://www.antialienate.com/blog/how-to-talk-child-before-transitions-simple-script)
+
+<!-- AA-CROSSLINK-END -->
