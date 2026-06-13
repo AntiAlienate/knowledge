@@ -102,9 +102,9 @@ Hague Convention 1980 cases are anonymised per contracting-state court practice 
 ## Related on antialienate.com
 
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [How To Talk Child Before Transitions Simple Script](https://www.antialienate.com/blog/how-to-talk-child-before-transitions-simple-script)
+- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
 
 <!-- AA-CROSSLINK-END -->

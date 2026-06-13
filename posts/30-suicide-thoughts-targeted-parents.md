@@ -93,10 +93,10 @@ Educational content. **Not clinical advice.** If you are in crisis, please conta
 
 ## Related on antialienate.com
 
+- [Self Care For Targeted Parents Beyond Surviving](https://www.antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving)
 - [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
+- [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 
 <!-- AA-CROSSLINK-END -->

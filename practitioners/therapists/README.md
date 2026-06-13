@@ -84,10 +84,10 @@ See [../README.md](../README.md). Primary-source verification on every entry; st
 
 ## Related on antialienate.com
 
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
+- [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
+- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Keyser Advocaten Breaking Parental Alienation Taboo Belgium](https://www.antialienate.com/blog/keyser-advocaten-breaking-parental-alienation-taboo-belgium)
-- [Lawyer Ethics False Documents Parental Alienation Belgium](https://www.antialienate.com/blog/lawyer-ethics-false-documents-parental-alienation-belgium)
-- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 
 <!-- AA-CROSSLINK-END -->

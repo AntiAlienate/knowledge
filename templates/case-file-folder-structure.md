@@ -96,5 +96,8 @@ When a lawyer reads a file, they often want to annotate it. Either:
 
 - [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
 - [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
+- [How To File Ethics Malpractice Complaint Therapist Psychologist](https://www.antialienate.com/blog/how-to-file-ethics-malpractice-complaint-therapist-psychologist)
+- [Lawyer Ethics False Documents Parental Alienation Belgium](https://www.antialienate.com/blog/lawyer-ethics-false-documents-parental-alienation-belgium)
+- [Small Town Therapist Lawyer Ethics Parental Alienation](https://www.antialienate.com/blog/small-town-therapist-lawyer-ethics-parental-alienation)
 
 <!-- AA-CROSSLINK-END -->

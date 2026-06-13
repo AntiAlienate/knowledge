@@ -133,9 +133,9 @@ Disclaimer: Educational summary, not legal advice. Consult a qualified Canadian 
 ## Related on antialienate.com
 
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
+- [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [How To Make A Parenting Plan Together](https://www.antialienate.com/blog/how-to-make-a-parenting-plan-together)
 
 <!-- AA-CROSSLINK-END -->

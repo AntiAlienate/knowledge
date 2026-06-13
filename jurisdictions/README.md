@@ -68,10 +68,10 @@ Licensed CC BY 4.0
 
 ## Related on antialienate.com
 
+- [Parental Alienation Statistics Mothers Fathers](https://www.antialienate.com/blog/parental-alienation-statistics-mothers-fathers)
 - [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Parental Alienation Statistics Mothers Fathers](https://www.antialienate.com/blog/parental-alienation-statistics-mothers-fathers)
 - [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
 
 <!-- AA-CROSSLINK-END -->

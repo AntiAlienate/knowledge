@@ -138,9 +138,9 @@ Following *Strand Lobben*, the ECHR delivered **37 Grand Chamber + Chamber rulin
 ## Related on antialienate.com
 
 - [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
-- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
+- [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
 
 <!-- AA-CROSSLINK-END -->

@@ -97,9 +97,9 @@ Wiki entry, not legal advice. Verify HUDOC text before citing.
 ## Related on antialienate.com
 
 - [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 
 <!-- AA-CROSSLINK-END -->

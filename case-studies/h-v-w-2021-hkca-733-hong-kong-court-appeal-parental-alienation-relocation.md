@@ -104,10 +104,10 @@ Three reasons this case earns a slot in the AntiAlienate corpus, despite being a
 
 ## Related on antialienate.com
 
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Lawyer Ethics False Documents Parental Alienation Belgium](https://www.antialienate.com/blog/lawyer-ethics-false-documents-parental-alienation-belgium)
-- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 
 <!-- AA-CROSSLINK-END -->

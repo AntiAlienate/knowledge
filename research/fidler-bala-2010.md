@@ -155,10 +155,10 @@ Wiki entry, not clinical or legal advice.
 
 ## Related on antialienate.com
 
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 - [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
+- [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
 
 <!-- AA-CROSSLINK-END -->

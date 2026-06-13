@@ -88,10 +88,10 @@ Belo Horizonte · Minas Gerais · Instituto Brasileiro de Direito de Família �
 
 ## Related on antialienate.com
 
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
-- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
+- [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
+- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
+- [Therapists Recommending Supervised Visits Unqualified](https://www.antialienate.com/blog/therapists-recommending-supervised-visits-unqualified)
+- [What Childrens Therapists Must Provide Both Parents](https://www.antialienate.com/blog/what-childrens-therapists-must-provide-both-parents)
 
 <!-- AA-CROSSLINK-END -->

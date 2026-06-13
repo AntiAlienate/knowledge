@@ -104,10 +104,10 @@ Disclaimer: Educational summary, not legal advice. Consult a qualified Latvian f
 
 ## Related on antialienate.com
 
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Parental Alienation Syndrome Complete Guide](https://www.antialienate.com/blog/parental-alienation-syndrome-complete-guide)
+- [Parental Alienation Uk Complete Guide](https://www.antialienate.com/blog/parental-alienation-uk-complete-guide)
 
 <!-- AA-CROSSLINK-END -->

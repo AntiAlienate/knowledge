@@ -438,10 +438,10 @@ Bruxelles (Belgique) — francophone-circulating reference · UCLouvain (ém.); 
 
 ## Related on antialienate.com
 
+- [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
+- [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
+- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
 - [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 
 <!-- AA-CROSSLINK-END -->

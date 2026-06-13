@@ -316,10 +316,10 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 
 ## Related on antialienate.com
 
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
+- [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
+- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
 
 <!-- AA-CROSSLINK-END -->

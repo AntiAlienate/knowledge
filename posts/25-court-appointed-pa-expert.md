@@ -87,10 +87,10 @@ Educational content. **Not legal or clinical advice.**
 
 ## Related on antialienate.com
 
-- [What Is A Guardian Ad Litem Gal Custody](https://www.antialienate.com/blog/what-is-a-guardian-ad-litem-gal-custody)
-- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [Binary Thinking Splitting Kids Neutrality Protects Attachment](https://www.antialienate.com/blog/binary-thinking-splitting-kids-neutrality-protects-attachment)
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Re Engaging Alienated Teen Beyond Court](https://www.antialienate.com/blog/re-engaging-alienated-teen-beyond-court)
 
 <!-- AA-CROSSLINK-END -->

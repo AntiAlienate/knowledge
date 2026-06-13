@@ -102,10 +102,10 @@ Disclaimer: This summary is educational, not therapeutic or legal advice. The Ba
 
 ## Related on antialienate.com
 
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
 - [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
+- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
+- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
+- [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
+- [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
 
 <!-- AA-CROSSLINK-END -->

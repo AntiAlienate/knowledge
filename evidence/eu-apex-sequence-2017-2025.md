@@ -80,10 +80,10 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 
 ## Related on antialienate.com
 
+- [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [Parental Alienation Syndrome Complete Guide](https://www.antialienate.com/blog/parental-alienation-syndrome-complete-guide)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
-- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
-- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
-- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
 
 <!-- AA-CROSSLINK-END -->

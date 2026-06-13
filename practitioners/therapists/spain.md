@@ -406,10 +406,10 @@ Madrid (sede nacional) · Nacional · Asociación de Mujeres Juristas Themis; re
 
 ## Related on antialienate.com
 
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [Digital Gatekeeping Parental Alienation Tactics](https://www.antialienate.com/blog/digital-gatekeeping-parental-alienation-tactics)
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
 - [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
-- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Digital Gatekeeping Parental Alienation Tactics](https://www.antialienate.com/blog/digital-gatekeeping-parental-alienation-tactics)
 
 <!-- AA-CROSSLINK-END -->

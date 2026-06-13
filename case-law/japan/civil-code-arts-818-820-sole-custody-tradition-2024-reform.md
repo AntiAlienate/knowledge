@@ -141,10 +141,10 @@ Japan operated **sole-custody-only** framework from the 1898 Meiji Civil Code th
 
 ## Related on antialienate.com
 
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
+- [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
 
 <!-- AA-CROSSLINK-END -->

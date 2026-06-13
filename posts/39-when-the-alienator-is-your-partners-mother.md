@@ -101,10 +101,10 @@ Educational content. **Not legal or clinical advice.**
 
 ## Related on antialienate.com
 
-- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
-- [20 Lies Alienators Tell New Partners](https://www.antialienate.com/blog/20-lies-alienators-tell-new-partners)
-- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
 - [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
-- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Parental Alienation Against Mother](https://www.antialienate.com/blog/parental-alienation-against-mother)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
 
 <!-- AA-CROSSLINK-END -->

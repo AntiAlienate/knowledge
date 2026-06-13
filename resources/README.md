@@ -25,5 +25,7 @@ Pointer pages. We don't reprint other people's work — we tell you where to fin
 ## Related on antialienate.com
 
 - [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
+- [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
+- [20 Lies Alienators Tell New Partners](https://www.antialienate.com/blog/20-lies-alienators-tell-new-partners)
 
 <!-- AA-CROSSLINK-END -->

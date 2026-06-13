@@ -47,3 +47,13 @@ https://antialienate.github.io/antialienate-knowledge/
 Kinds: `commit`, `fb`, `video`, `queue`, `err`, `info`.
 
 Append via `/tmp/.aa-secrets/log-action.py <kind> <msg> [k=v ...]`.
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
+
+<!-- AA-CROSSLINK-END -->

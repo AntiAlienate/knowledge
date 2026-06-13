@@ -105,10 +105,10 @@ Educational content. **Not clinical advice.** If you're navigating a fragile reu
 
 ## Related on antialienate.com
 
-- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
 - [Signs Your Child Is Being Alienated](https://www.antialienate.com/blog/signs-your-child-is-being-alienated)
 - [When Alienated Child Discovers Truth About Abuser](https://www.antialienate.com/blog/when-alienated-child-discovers-truth-about-abuser)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [How To Talk Child Before Transitions Simple Script](https://www.antialienate.com/blog/how-to-talk-child-before-transitions-simple-script)
 
 <!-- AA-CROSSLINK-END -->

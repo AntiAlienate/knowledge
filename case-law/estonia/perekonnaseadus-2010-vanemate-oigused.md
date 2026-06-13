@@ -109,10 +109,10 @@ Disclaimer: Educational summary, not legal advice. Consult a qualified Estonian 
 
 ## Related on antialienate.com
 
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [Digital Gatekeeping Parental Alienation](https://www.antialienate.com/blog/digital-gatekeeping-parental-alienation)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Stop Digital Gatekeeping Parental Alienation](https://www.antialienate.com/blog/stop-digital-gatekeeping-parental-alienation)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->

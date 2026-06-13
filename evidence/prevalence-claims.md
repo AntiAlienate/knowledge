@@ -442,9 +442,9 @@ Contributor-invitation content. The literature converges on these elements:
 ## Related on antialienate.com
 
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 - [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 - [People Against Parental Alienation Global Movement](https://www.antialienate.com/blog/people-against-parental-alienation-global-movement)
+- [Small Town Therapist Lawyer Ethics Parental Alienation](https://www.antialienate.com/blog/small-town-therapist-lawyer-ethics-parental-alienation)
 
 <!-- AA-CROSSLINK-END -->

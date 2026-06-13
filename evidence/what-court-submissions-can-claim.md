@@ -206,8 +206,8 @@ For jurisdiction-specific guidance, start with the [Case Studies Global Comparis
 
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
-- [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
-- [How To Prove Psychological Damage From Parental Alienation](https://www.antialienate.com/blog/how-to-prove-psychological-damage-from-parental-alienation)
-- [Medical Child Abuse When Alienators Recruit Healthcare Providers](https://www.antialienate.com/blog/medical-child-abuse-when-alienators-recruit-healthcare-providers)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
 
 <!-- AA-CROSSLINK-END -->

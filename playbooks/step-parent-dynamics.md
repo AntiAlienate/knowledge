@@ -200,10 +200,10 @@ If a step-parent is centrally involved in a PA case, the legal strategy still ta
 
 ## Related on antialienate.com
 
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
+- [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
+- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
 - [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
 
 <!-- AA-CROSSLINK-END -->

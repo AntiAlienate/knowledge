@@ -149,8 +149,8 @@ Wiki entry, not legal advice. Mexican family-law + US-Mexico cross-border matter
 
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
 
 <!-- AA-CROSSLINK-END -->

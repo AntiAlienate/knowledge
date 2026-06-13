@@ -99,8 +99,8 @@ Educational fiction. **Not clinical or legal advice.** If you are in crisis: US 
 
 - [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
 - [Parental Alienation Statistics Mothers Fathers](https://www.antialienate.com/blog/parental-alienation-statistics-mothers-fathers)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [My Journey Through Alienation A Fathers Story](https://www.antialienate.com/blog/my-journey-through-alienation-a-fathers-story)
 - [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 
 <!-- AA-CROSSLINK-END -->

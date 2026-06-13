@@ -62,7 +62,7 @@ Educational content. **Not legal advice.**
 - [Digital Gatekeeping Blocked Calls Deleted Messages](https://www.antialienate.com/blog/digital-gatekeeping-blocked-calls-deleted-messages)
 - [Digital Gatekeeping Parental Alienation](https://www.antialienate.com/blog/digital-gatekeeping-parental-alienation)
 - [Stop Digital Gatekeeping Parental Alienation](https://www.antialienate.com/blog/stop-digital-gatekeeping-parental-alienation)
-- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->

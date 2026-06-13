@@ -81,6 +81,10 @@ The *How I Got Custody* YouTube channel hosts long-form interviews and tactical 
 
 ## Related on antialienate.com
 
-- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
+- [Why Consistency Beats Intensity Small Contact Often](https://www.antialienate.com/blog/why-consistency-beats-intensity-small-contact-often)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->

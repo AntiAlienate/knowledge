@@ -136,10 +136,10 @@ Wiki entry, not legal advice. Cross-border Japan-involved family matters require
 
 ## Related on antialienate.com
 
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
+- [When International Authorities Intervene Custody Dual Citizen](https://www.antialienate.com/blog/when-international-authorities-intervene-custody-dual-citizen)
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Custody Evaluators What To Expect Prepare](https://www.antialienate.com/blog/custody-evaluators-what-to-expect-prepare)
 
 <!-- AA-CROSSLINK-END -->

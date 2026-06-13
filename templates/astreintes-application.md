@@ -80,7 +80,10 @@ It's not punishment for past breaches (use ordinary contempt for that — see yo
 
 ## Related on antialienate.com
 
-- [Financial Cost Parental Alienation Funding Defense](https://www.antialienate.com/blog/financial-cost-parental-alienation-funding-defense)
 - [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
+- [How To File Ethics Malpractice Complaint Therapist Psychologist](https://www.antialienate.com/blog/how-to-file-ethics-malpractice-complaint-therapist-psychologist)
+- [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
+- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
+- [Why Consistency Beats Intensity Small Contact Often](https://www.antialienate.com/blog/why-consistency-beats-intensity-small-contact-often)
 
 <!-- AA-CROSSLINK-END -->

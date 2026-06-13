@@ -120,8 +120,10 @@ Disclaimer: This summary is educational, not clinical or legal advice. Family Br
 
 ## Related on antialienate.com
 
-- [Binary Thinking Splitting Kids Neutrality Protects Attachment](https://www.antialienate.com/blog/binary-thinking-splitting-kids-neutrality-protects-attachment)
-- [The Psychological Destruction Of Alienated Children](https://www.antialienate.com/blog/the-psychological-destruction-of-alienated-children)
-- [Why Children Say They Hate You The Psychology Of Alienation](https://www.antialienate.com/blog/why-children-say-they-hate-you-the-psychology-of-alienation)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
 
 <!-- AA-CROSSLINK-END -->

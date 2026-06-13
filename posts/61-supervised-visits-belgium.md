@@ -92,10 +92,10 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 
 ## Related on antialienate.com
 
-- [The Problem With Supervised Visitation Espace Rencontres Belgium](https://www.antialienate.com/blog/the-problem-with-supervised-visitation-espace-rencontres-belgium)
 - [Supervised Visits Belgium Parental Alienation](https://www.antialienate.com/blog/supervised-visits-belgium-parental-alienation)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [The Problem With Supervised Visitation Espace Rencontres Belgium](https://www.antialienate.com/blog/the-problem-with-supervised-visitation-espace-rencontres-belgium)
+- [Therapists Recommending Supervised Visits Unqualified](https://www.antialienate.com/blog/therapists-recommending-supervised-visits-unqualified)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 
 <!-- AA-CROSSLINK-END -->

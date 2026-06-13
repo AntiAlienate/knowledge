@@ -38,10 +38,10 @@ When the alienating parent's litigation tactic depends on you reacting to provoc
 
 ## Related on antialienate.com
 
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
-- [Narcissistic Personality Disorder Parental Alienation Connection](https://www.antialienate.com/blog/narcissistic-personality-disorder-parental-alienation-connection)
 - [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
-- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
+- [Loyalty Conflict The Silent War Inside Your Childs Heart](https://www.antialienate.com/blog/loyalty-conflict-the-silent-war-inside-your-childs-heart)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 
 <!-- AA-CROSSLINK-END -->

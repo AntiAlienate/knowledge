@@ -97,10 +97,10 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 
 ## Related on antialienate.com
 
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 - [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
-- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
 
 <!-- AA-CROSSLINK-END -->

@@ -98,10 +98,10 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 
 ## Related on antialienate.com
 
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [The Problem With Supervised Visitation Espace Rencontres Belgium](https://www.antialienate.com/blog/the-problem-with-supervised-visitation-espace-rencontres-belgium)
-- [Supervised Visits Belgium Parental Alienation](https://www.antialienate.com/blog/supervised-visits-belgium-parental-alienation)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Supervised Visits Belgium Parental Alienation](https://www.antialienate.com/blog/supervised-visits-belgium-parental-alienation)
 
 <!-- AA-CROSSLINK-END -->

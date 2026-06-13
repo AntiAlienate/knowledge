@@ -129,5 +129,8 @@ Disclaimer: Educational summary, not legal advice. Egyptian family-law cases req
 
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Custody Evaluators What To Expect Prepare](https://www.antialienate.com/blog/custody-evaluators-what-to-expect-prepare)
 
 <!-- AA-CROSSLINK-END -->

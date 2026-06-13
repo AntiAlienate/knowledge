@@ -156,10 +156,10 @@ The United States operates a **dual federal-state custody framework**: state law
 
 ## Related on antialienate.com
 
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
 - [When International Authorities Intervene Custody Dual Citizen](https://www.antialienate.com/blog/when-international-authorities-intervene-custody-dual-citizen)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->

@@ -1,11 +1,18 @@
 {
-  "generated": "2026-06-13T14:11:07+00:00Z",
+  "generated": "2026-06-13T14:15:11+00:00Z",
   "stats": {
     "jurisdictions_total": 356,
-    "last_sync_version": "projects/203950361232/sites/antialienate-knowledge/versions/803bda6482d10f25",
-    "last_sync_ts": "2026-06-13T14:09:16Z"
+    "last_sync_version": "projects/203950361232/sites/antialienate-knowledge/versions/5e1419c8caca0121",
+    "last_sync_ts": "2026-06-13T14:11:35Z"
   },
   "events": [
+    {
+      "ts": "2026-06-13T14:11:35Z",
+      "op": "sync-deploy-ok",
+      "upgrades": 0,
+      "adds": 0,
+      "version": "projects/203950361232/sites/antialienate-knowledge/versions/5e1419c8caca0121"
+    },
     {
       "ts": "2026-06-13T14:09:16Z",
       "op": "sync-deploy-ok",
@@ -1397,13 +1404,6 @@
       "jurisdiction": "tuvalu",
       "kd_count": 11,
       "iteration": 887
-    },
-    {
-      "ts": "2026-06-11T12:21:13Z",
-      "op": "sidecar-deepen-secondary",
-      "jurisdiction": "kiribati",
-      "kd_count": 11,
-      "iteration": 886
     }
   ]
 }

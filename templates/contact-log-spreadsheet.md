@@ -73,10 +73,10 @@ Judges decide on patterns, not on speeches.
 
 ## Related on antialienate.com
 
+- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
+- [Why Consistency Beats Intensity Small Contact Often](https://www.antialienate.com/blog/why-consistency-beats-intensity-small-contact-often)
 - [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
-- [Parental Alienation Against Mother](https://www.antialienate.com/blog/parental-alienation-against-mother)
-- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
-- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [How To File Ethics Malpractice Complaint Therapist Psychologist](https://www.antialienate.com/blog/how-to-file-ethics-malpractice-complaint-therapist-psychologist)
+- [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
 
 <!-- AA-CROSSLINK-END -->

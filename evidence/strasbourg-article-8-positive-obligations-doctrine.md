@@ -140,9 +140,9 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 ## Related on antialienate.com
 
 - [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
-- [Narcissistic Personality Disorder Parental Alienation Connection](https://www.antialienate.com/blog/narcissistic-personality-disorder-parental-alienation-connection)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Parental Alienation Laws By Country](https://www.antialienate.com/blog/parental-alienation-laws-by-country)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 
 <!-- AA-CROSSLINK-END -->

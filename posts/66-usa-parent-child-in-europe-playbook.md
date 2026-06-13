@@ -154,10 +154,10 @@ Educational content. **Not legal advice.** Hague matters are highly time-critica
 
 ## Related on antialienate.com
 
-- [When International Authorities Intervene Custody Dual Citizen](https://www.antialienate.com/blog/when-international-authorities-intervene-custody-dual-citizen)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
+- [Signs Your Child Is Being Alienated](https://www.antialienate.com/blog/signs-your-child-is-being-alienated)
+- [When Alienated Child Discovers Truth About Abuser](https://www.antialienate.com/blog/when-alienated-child-discovers-truth-about-abuser)
 
 <!-- AA-CROSSLINK-END -->

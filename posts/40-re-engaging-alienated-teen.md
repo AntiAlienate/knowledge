@@ -119,9 +119,9 @@ Educational content. **Not clinical advice.** Adolescent reunification often ben
 ## Related on antialienate.com
 
 - [Re Engaging Alienated Teen Beyond Court](https://www.antialienate.com/blog/re-engaging-alienated-teen-beyond-court)
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
-- [Why Consistency Beats Intensity Small Contact Often](https://www.antialienate.com/blog/why-consistency-beats-intensity-small-contact-often)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Signs Your Child Is Being Alienated](https://www.antialienate.com/blog/signs-your-child-is-being-alienated)
+- [When Alienated Child Discovers Truth About Abuser](https://www.antialienate.com/blog/when-alienated-child-discovers-truth-about-abuser)
+- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
+- [The Psychological Destruction Of Alienated Children](https://www.antialienate.com/blog/the-psychological-destruction-of-alienated-children)
 
 <!-- AA-CROSSLINK-END -->

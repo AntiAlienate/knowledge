@@ -559,10 +559,10 @@ New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic par
 
 ## Related on antialienate.com
 
-- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
 - [How To Prove Psychological Damage From Parental Alienation](https://www.antialienate.com/blog/how-to-prove-psychological-damage-from-parental-alienation)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
+- [The Psychological Destruction Of Alienated Children](https://www.antialienate.com/blog/the-psychological-destruction-of-alienated-children)
 
 <!-- AA-CROSSLINK-END -->

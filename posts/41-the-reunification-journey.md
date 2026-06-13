@@ -130,10 +130,10 @@ Educational content. **Not clinical advice.** Reunification is highly individual
 
 ## Related on antialienate.com
 
-- [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
-- [Reunification Therapy Guide](https://www.antialienate.com/blog/reunification-therapy-guide)
 - [The Reunification Journey Rebuilding After Alienation](https://www.antialienate.com/blog/the-reunification-journey-rebuilding-after-alienation)
+- [Reunification Therapy Guide](https://www.antialienate.com/blog/reunification-therapy-guide)
+- [My Journey Through Alienation A Fathers Story](https://www.antialienate.com/blog/my-journey-through-alienation-a-fathers-story)
+- [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
 - [What Two Parent Neutrality Looks Like In Practice](https://www.antialienate.com/blog/what-two-parent-neutrality-looks-like-in-practice)
-- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
 
 <!-- AA-CROSSLINK-END -->

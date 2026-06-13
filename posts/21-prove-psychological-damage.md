@@ -97,9 +97,9 @@ Educational content. **Not clinical or legal advice.**
 ## Related on antialienate.com
 
 - [How To Prove Psychological Damage From Parental Alienation](https://www.antialienate.com/blog/how-to-prove-psychological-damage-from-parental-alienation)
-- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
-- [Grandparents And Parental Alienation The Extended Wound](https://www.antialienate.com/blog/grandparents-and-parental-alienation-the-extended-wound)
+- [Recognizing The Signs Of Parental Alienation](https://www.antialienate.com/blog/recognizing-the-signs-of-parental-alienation)
+- [Signs Of Parental Alienation 25 Red Flags Checklist](https://www.antialienate.com/blog/signs-of-parental-alienation-25-red-flags-checklist)
 
 <!-- AA-CROSSLINK-END -->

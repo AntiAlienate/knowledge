@@ -141,9 +141,9 @@ Judges read both literatures (or should). A submission that ignores the contrary
 ## Related on antialienate.com
 
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Parental Alienation Statistics Mothers Fathers](https://www.antialienate.com/blog/parental-alienation-statistics-mothers-fathers)
-- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [How To Respond To Lies From Opposing Counsel](https://www.antialienate.com/blog/how-to-respond-to-lies-from-opposing-counsel)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 
 <!-- AA-CROSSLINK-END -->

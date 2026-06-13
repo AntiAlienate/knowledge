@@ -461,8 +461,8 @@ Driebergen-Rijsenburg · Utrecht · Onafhankelijke private stichting; samenwerki
 
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
 - [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
-- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
-- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
+- [Therapists Recommending Supervised Visits Unqualified](https://www.antialienate.com/blog/therapists-recommending-supervised-visits-unqualified)
+- [What Childrens Therapists Must Provide Both Parents](https://www.antialienate.com/blog/what-childrens-therapists-must-provide-both-parents)
 
 <!-- AA-CROSSLINK-END -->

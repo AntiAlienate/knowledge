@@ -90,10 +90,10 @@ CC BY 4.0 unless otherwise noted on individual files. Attribution: [AntiAlienate
 
 ## Related on antialienate.com
 
-- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Signs Of Parental Alienation 25 Red Flags Checklist](https://www.antialienate.com/blog/signs-of-parental-alienation-25-red-flags-checklist)
 - [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
+- [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
 
 <!-- AA-CROSSLINK-END -->

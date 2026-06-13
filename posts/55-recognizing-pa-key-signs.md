@@ -107,10 +107,10 @@ Educational content. **Not clinical or legal advice.**
 
 ## Related on antialienate.com
 
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Recognizing The Signs Of Parental Alienation](https://www.antialienate.com/blog/recognizing-the-signs-of-parental-alienation)
-- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
-- [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Signs Of Parental Alienation 25 Red Flags Checklist](https://www.antialienate.com/blog/signs-of-parental-alienation-25-red-flags-checklist)
+- [Warning Signs Parental Alienation](https://www.antialienate.com/blog/warning-signs-parental-alienation)
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 
 <!-- AA-CROSSLINK-END -->

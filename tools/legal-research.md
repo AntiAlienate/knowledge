@@ -140,7 +140,10 @@ PRs welcome to add additional free authoritative databases. Required: (1) URL, (
 
 ## Related on antialienate.com
 
-- [Self Care For Targeted Parents Beyond Surviving](https://www.antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
+- [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
+- [Self Care For Targeted Parents Beyond Surviving](https://www.antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving)
 
 <!-- AA-CROSSLINK-END -->

@@ -10,3 +10,13 @@ This file is preserved for inbound-link continuity. The canonical version carrie
 
 *Canonical JSON: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/cassazione-4595-2025-italy.json*  
 *Discovery: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json*
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
+
+<!-- AA-CROSSLINK-END -->

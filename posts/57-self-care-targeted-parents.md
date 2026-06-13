@@ -103,5 +103,8 @@ Educational content. **Not clinical advice.**
 
 - [Self Care For Targeted Parents Beyond Surviving](https://www.antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving)
 - [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+- [How Parents Accidentally Reinforce Fear](https://www.antialienate.com/blog/how-parents-accidentally-reinforce-fear)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
 
 <!-- AA-CROSSLINK-END -->

@@ -62,9 +62,9 @@ Educational content. **Not clinical or legal advice.**
 ## Related on antialienate.com
 
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
-- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [How To Prove Psychological Damage From Parental Alienation](https://www.antialienate.com/blog/how-to-prove-psychological-damage-from-parental-alienation)
-- [Munchausen By Proxy And Parental Alienation The Dangerous Overlap](https://www.antialienate.com/blog/munchausen-by-proxy-and-parental-alienation-the-dangerous-overlap)
+- [Signs Your Child Is Being Alienated](https://www.antialienate.com/blog/signs-your-child-is-being-alienated)
+- [When Alienated Child Discovers Truth About Abuser](https://www.antialienate.com/blog/when-alienated-child-discovers-truth-about-abuser)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->

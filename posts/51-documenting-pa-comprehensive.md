@@ -116,10 +116,10 @@ Educational content. **Not legal advice.** Consult a licensed family-law attorne
 
 ## Related on antialienate.com
 
-- [Digital Gatekeeping Blocked Calls Deleted Messages](https://www.antialienate.com/blog/digital-gatekeeping-blocked-calls-deleted-messages)
 - [Digital Gatekeeping Parental Alienation](https://www.antialienate.com/blog/digital-gatekeeping-parental-alienation)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
 - [Stop Digital Gatekeeping Parental Alienation](https://www.antialienate.com/blog/stop-digital-gatekeeping-parental-alienation)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->

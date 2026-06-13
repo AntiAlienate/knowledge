@@ -120,3 +120,17 @@ For practitioners outside the Netherlands the case is most useful as a comparati
 - [Sociaalweb – ECLI:NL:HR:2018:704 (subsequent HR case applying the doctrine)](https://sociaalweb.nl/jurisprudentie/eclinlhr2018704/)
 - [Wetboek-online.nl – Wetboek van Strafrecht art. 279](http://www.wetboek-online.nl/wet/sr/279.html)
 - [Rutten x Welling Advocaten – "Ouderverstoting en het recht op omgang" (practitioner overview)](https://ruttenwelling.nl/ouderverstoting-en-het-recht-op-omgang/)
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Re Engaging Alienated Teen Beyond Court](https://www.antialienate.com/blog/re-engaging-alienated-teen-beyond-court)
+
+<!-- AA-CROSSLINK-END -->

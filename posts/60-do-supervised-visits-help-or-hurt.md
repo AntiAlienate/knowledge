@@ -91,10 +91,10 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 
 ## Related on antialienate.com
 
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Supervised Visits Belgium Parental Alienation](https://www.antialienate.com/blog/supervised-visits-belgium-parental-alienation)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Supervised Settings Backfire When They Help](https://www.antialienate.com/blog/supervised-settings-backfire-when-they-help)
+- [Therapists Recommending Supervised Visits Unqualified](https://www.antialienate.com/blog/therapists-recommending-supervised-visits-unqualified)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [The Problem With Supervised Visitation Espace Rencontres Belgium](https://www.antialienate.com/blog/the-problem-with-supervised-visitation-espace-rencontres-belgium)
 
 <!-- AA-CROSSLINK-END -->

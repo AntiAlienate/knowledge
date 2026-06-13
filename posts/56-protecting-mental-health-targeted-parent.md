@@ -97,7 +97,7 @@ Educational content. **Not clinical advice.** If you are in crisis, contact a me
 - [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
 - [Self Care For Targeted Parents Beyond Surviving](https://www.antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving)
 - [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [What Childrens Therapists Must Provide Both Parents](https://www.antialienate.com/blog/what-childrens-therapists-must-provide-both-parents)
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+- [What Two Parent Neutrality Looks Like In Practice](https://www.antialienate.com/blog/what-two-parent-neutrality-looks-like-in-practice)
 
 <!-- AA-CROSSLINK-END -->

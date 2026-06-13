@@ -78,8 +78,8 @@ Particularly valuable for revealing: missed appointments (with who-brought-the-c
 
 - [Medical Child Abuse When Alienators Recruit Healthcare Providers](https://www.antialienate.com/blog/medical-child-abuse-when-alienators-recruit-healthcare-providers)
 - [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
-- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
-- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [How To File Ethics Malpractice Complaint Therapist Psychologist](https://www.antialienate.com/blog/how-to-file-ethics-malpractice-complaint-therapist-psychologist)
+- [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
+- [Is Alienation The New Scarlet Letter](https://www.antialienate.com/blog/is-alienation-the-new-scarlet-letter)
 
 <!-- AA-CROSSLINK-END -->

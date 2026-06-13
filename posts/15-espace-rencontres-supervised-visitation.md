@@ -82,8 +82,9 @@ Educational content. **Not legal advice.** Consult a Belgian *avocat* in family 
 ## Related on antialienate.com
 
 - [The Problem With Supervised Visitation Espace Rencontres Belgium](https://www.antialienate.com/blog/the-problem-with-supervised-visitation-espace-rencontres-belgium)
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
-- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 - [Supervised Visits Belgium Parental Alienation](https://www.antialienate.com/blog/supervised-visits-belgium-parental-alienation)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Supervised Settings Backfire When They Help](https://www.antialienate.com/blog/supervised-settings-backfire-when-they-help)
+- [Therapists Recommending Supervised Visits Unqualified](https://www.antialienate.com/blog/therapists-recommending-supervised-visits-unqualified)
 
 <!-- AA-CROSSLINK-END -->

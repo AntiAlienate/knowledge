@@ -115,8 +115,10 @@ Wiki entry, not legal advice.
 
 ## Related on antialienate.com
 
+- [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
+- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
+- [When To Fire Your Therapist Custody Dispute](https://www.antialienate.com/blog/when-to-fire-your-therapist-custody-dispute)
+- [Why Consistency Beats Intensity Small Contact Often](https://www.antialienate.com/blog/why-consistency-beats-intensity-small-contact-often)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 
 <!-- AA-CROSSLINK-END -->
