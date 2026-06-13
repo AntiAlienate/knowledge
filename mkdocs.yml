@@ -1,8 +1,8 @@
 site_name: AntiAlienate Knowledge
 site_description: The open-source highway for parental alienation — case studies, evidence, playbooks, jurisdictions, practitioner directory.
 site_url: https://knowledge.antialienate.com
-repo_url: https://github.com/AntiAlienate/antialienate-knowledge
-repo_name: AntiAlienate/antialienate-knowledge
+repo_url: https://github.com/antialienateorg/antialienate-knowledge
+repo_name: antialienateorg/antialienate-knowledge
 edit_uri: edit/main/
 copyright: 'CC BY 4.0 · AntiAlienate.com'
 
@@ -69,7 +69,7 @@ markdown_extensions:
   - pymdownx.details
   - pymdownx.magiclink:
       repo_url_shorthand: true
-      user: AntiAlienate
+      user: antialienateorg
       repo: antialienate-knowledge
   - pymdownx.smartsymbols
   - pymdownx.tilde
