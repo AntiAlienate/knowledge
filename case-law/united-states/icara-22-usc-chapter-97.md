@@ -153,3 +153,40 @@ ICARA is the **operative cause-of-action statute** in every US Hague Convention 
 - **Statute citation:** International Child Abduction Remedies Act, Pub. L. 100-300, 102 Stat. 437 (Apr. 29, 1988); codified at 22 U.S.C. §§ 9001-9011
 - **Legislative history:** § 9001 — Pub. L. 100-300, § 2, Apr. 29, 1988, 102 Stat. 437. § 9003 — Pub. L. 100-300, § 4, Apr. 29, 1988, 102 Stat. 438. Renumbered from 42 U.S.C. §§ 11601-11611 to 22 U.S.C. §§ 9001-9011 by Pub. L. 113-150, § 3(a)(1), Aug. 8, 2014.
 - **Status:** Public domain — US federal statutes are not subject to copyright (1 U.S.C. § 105 and general principle that government-authored law is public domain).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+
+<!-- AA-CROSSLINK-END -->

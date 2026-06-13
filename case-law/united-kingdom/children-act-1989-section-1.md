@@ -107,3 +107,40 @@ The **no-order principle at s.1(5)** does not preclude robust enforcement of con
 - **Statute citation:** Children Act 1989 (1989 c.41), section 1 (as amended by Children and Families Act 2014 ss.11-12)
 - **Codification history:** Original section 1 enacted 1989. Subsection (2A)-(2B) and (6)-(7) inserted by Children and Families Act 2014 s.11 (in force 22 October 2014). Subsection (4)(b) updated by Adoption and Children Act 2002 + subsequent amendments.
 - **Status:** Crown copyright; published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — verbatim reproduction permitted.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+
+<!-- AA-CROSSLINK-END -->

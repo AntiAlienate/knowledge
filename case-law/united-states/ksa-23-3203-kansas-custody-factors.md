@@ -100,3 +100,35 @@ The **explicit domestic-abuse provisions** at (a)(9) (including the pattern-of-e
 - **Statute citation:** K.S.A. 23-3203 (Kansas Statutes Annotated, Chapter 23, Article 32, Section 3203)
 - **Codification history:** Enacted L. 2011, ch. 26, § 20 (2011); amended L. 2014, ch. 116, § 9; L. 2016, ch. 102, § 7; L. 2017, ch. 58, § 2
 - **Status:** Public domain — Kansas state statutes are not subject to copyright (Kansas Open Records Act + general principle that government-authored law is public domain).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+
+<!-- AA-CROSSLINK-END -->
