@@ -1,0 +1,157 @@
+{
+  "schema_version": "1.0",
+  "id": "guyana",
+  "name": "Guyana (Co-operative Republic of Guyana)",
+  "jurisdiction_code": "GY",
+  "legal_system": "mixed",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Guyana is a South American/Caribbean mixed-legal-system republic combining Roman-Dutch civil-law substantive heritage (via Dutch colonial inheritance pre-1814) with English common-law procedural inheritance (post-1814). Within the Caribbean cluster, Guyana shares the Roman-Dutch substantive heritage uniquely (with Sri Lanka and Southern African Roman-Dutch cluster). Family-law framework operates under the Family and Dependants Provision Act, Married Persons (Property) Act, Maintenance Act, and Status of Children Act 2009. Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Court of Appeal of Guyana is the apex domestic court for civil and criminal matters; the Caribbean Court of Justice (CCJ) is the final appellate court — Guyana is a founding member of the CCJ's appellate jurisdiction (transferred from JCPC in 2005). Family-law matters are heard at first instance in the Magistrates' Family Court and High Court (Family Division). Psychology profession is regulated through the Ministry of Health framework. Guyana is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Guyana is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Status of Children Act 2009",
+      "title": "Status of Children Act",
+      "year": 2009,
+      "url": "https://www.judiciary.gov.gy/",
+      "relevance": "Federal statute on legal status of children including those born to unmarried parents."
+    },
+    {
+      "citation": "Family and Dependants Provision Act",
+      "title": "Family and Dependants Provision Act",
+      "year": 1990,
+      "url": "https://www.judiciary.gov.gy/",
+      "relevance": "Federal statute on family and dependants' provision rights."
+    },
+    {
+      "citation": "Maintenance Act",
+      "title": "Maintenance Act",
+      "year": 1981,
+      "url": "https://www.judiciary.gov.gy/",
+      "relevance": "Federal statute on maintenance obligations including child support."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Guyana",
+      "seat": "Georgetown",
+      "url": "https://www.judiciary.gov.gy/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Caribbean Court of Justice (CCJ)",
+      "seat": "Port of Spain",
+      "url": "https://www.ccj.org/",
+      "role": "Final appellate court for civil and criminal matters from Guyana (founding member 2005)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Guyana",
+      "url": "https://www.health.gov.gy/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Guyanese family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1581,
+      "title": "Dutch-West-India-Company-colonisation + Roman-Dutch-civil-law-substantive-heritage framework",
+      "description": "Dutch West India Company colonisation of Essequibo, Demerara, and Berbice 1581 onwards — substantively distinctive Caribbean Dutch-West-India-Company-Roman-Dutch-substantive-heritage framework. Foundational substantive Roman-Dutch civil-law framework persisting through 1814 British acquisition affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1814,
+      "title": "British colonial inheritance + Anglo-Dutch-Treaty-1814 framework",
+      "description": "British colonial administration commenced 13 August 1814 after Dutch colonial period — substantively distinctive Caribbean Roman-Dutch-substantive-+-English-common-law-procedural-hybrid framework. Foundational substantive 152-year colonial framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1831,
+      "title": "British Guiana Colony + United-British-Guiana framework",
+      "description": "British Guiana Colony established 17 March 1831 unifying Essequibo, Demerara, and Berbice — substantively distinctive Caribbean British-Guiana-Colony framework. Foundational pre-1966-independence framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1966,
+      "title": "Independence + Westminster-framework + Commonwealth-realm framework",
+      "description": "Guyana achieved independence from the United Kingdom 26 May 1966 — substantively distinctive Caribbean Westminster-framework-+-Commonwealth-realm framework with Queen Elizabeth II as initial Queen of Guyana. Foundational pre-1970-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1970,
+      "title": "Republic transition + Co-operative-Republic + first-Caribbean-republic framework",
+      "description": "Guyana became Co-operative Republic 23 February 1970 — substantively distinctive globally first-Caribbean-former-British-monarchy-to-transition-to-republic framework. Substantive Forbes Burnham PNC presidency + Co-operative-Republic-socialist-aspirations affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1981,
+      "title": "Maintenance Act + family-maintenance framework",
+      "description": "Maintenance Act 1981 enacted establishing federal statute on maintenance obligations including child support — substantively significant Caribbean Roman-Dutch-+-English-common-law-hybrid maintenance framework. Foundational substantive maintenance framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1991,
+      "title": "Guyana ratifies UN Convention on the Rights of the Child + UNCRC-applicability framework",
+      "description": "Guyana ratified UNCRC 14 January 1991 — substantively significant child-rights framework integration. Foundational welfare-of-the-child framework integration with subsequent 2009 Status of Children Act substantive doctrine."
+    },
+    {
+      "year": 2005,
+      "title": "CCJ appellate jurisdiction transfer + founding-member-+-CCJ-first-state framework",
+      "description": "Guyana transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 16 April 2005 — substantively distinctive globally founding-member-of-CCJ-appellate-jurisdiction-+-first-state-to-transfer framework. Substantive Caribbean Court of Justice framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2009,
+      "title": "Status of Children Act + legal-status-of-children-out-of-wedlock framework",
+      "description": "Status of Children Act 2009 enacted establishing federal statute on legal status of children including those born to unmarried parents — substantively significant Caribbean Status-of-Children framework. Foundational substantive child-rights framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 2023,
+      "title": "Venezuela referendum on Essequibo + Childcare and Protection Agency + ICJ proceedings",
+      "description": "Venezuela referendum on Essequibo 3 December 2023 substantively significant cross-border institutional context affecting Guyana-Venezuela territorial dispute and refugee family-law adjudication. Childcare and Protection Agency (CPA) institutional position addressing PA-related issues within Status of Children Act 2009 + Maintenance Act 1981 framework. ICJ Guyana v Venezuela proceedings continuing through 2023. Substantively significant Caribbean institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Guyana + CCJ — welfare-of-the-child substantive register + post-2019-Essequibo-oil-discovery-+-Venezuela-dispute context",
+      "description": "Court of Appeal of Guyana and Caribbean Court of Justice continue to develop welfare-of-the-child jurisprudence under Status of Children Act 2009 + Maintenance Act 1981 + Family and Dependants Provision Act 1990 framework in custody disputes within post-2019-Essequibo-oil-discovery + Venezuela-Essequibo-territorial-dispute context. Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Guyana operates a structurally distinctive mixed-legal-system framework — Roman-Dutch civil-law substantive heritage (via Dutch colonial pre-1814) + English common-law procedural inheritance (post-1814). Unique within Caribbean cluster; shares Roman-Dutch substantive tradition with Sri Lanka and Southern African Roman-Dutch cluster.",
+    "CCJ-final-appellate-jurisdiction transfer (2005) is shared with Barbados within the corpus.",
+    "First Caribbean republic transition (1970) is structurally distinctive — earliest Caribbean former-British-monarchy to republic transition.",
+    "Non-Hague Convention status places Guyana in the non-Hague Caribbean cluster."
+  ],
+  "references": [
+    "jurisdiction:barbados",
+    "jurisdiction:south-africa",
+    "jurisdiction:sri-lanka",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Judiciary of Guyana",
+      "url": "https://www.judiciary.gov.gy/",
+      "publisher": "Judiciary",
+      "language": "en"
+    },
+    {
+      "title": "Caribbean Court of Justice",
+      "url": "https://www.ccj.org/",
+      "publisher": "CCJ",
+      "language": "en"
+    },
+    {
+      "title": "Ministry of Health",
+      "url": "https://www.health.gov.gy/",
+      "publisher": "Ministry of Health",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Guyana jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Dutch-West-India-Company-1581-to-Essequibo-oil-discovery-context trajectory: 1581-Dutch-West-India-Company-colonisation-+-Roman-Dutch + 1814-British-colonial-inheritance + 1831-British-Guiana-Colony + 1966-independence + 1970-Co-operative-Republic-first-Caribbean-republic + 1981-Maintenance-Act + 1991-Guyana-UNCRC-ratification + 2005-CCJ-appellate-jurisdiction-transfer-founding-member + 2009-Status-of-Children-Act + 2024-Court-of-Appeal-+-CCJ-+-Essequibo-oil-discovery-context.",
+    "Mixed-legal-system Caribbean (Roman-Dutch substantive + English common-law procedural + CCJ final-appellate from 2005 + first Caribbean republic 1970 + non-Hague). Roman-Dutch substantive heritage unique within Caribbean cluster (shared with Sri Lanka and Southern African Roman-Dutch cluster) + founding member of CCJ appellate jurisdiction globally distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Status of Children Act 2009 + Maintenance Act 1981 + Family and Dependants Provision Act 1990 framework without doctrinal 'parental alienation' label.",
+    "Joins Caribbean + mixed-legal-system + Roman-Dutch-substantive-+-English-common-law-procedural-hybrid-cluster + Roman-Dutch-substantive-unique-in-Caribbean-shared-with-Sri-Lanka-+-Southern-African-Roman-Dutch + CCJ-final-appellate-from-2005-founding-member + first-Caribbean-republic-1970-Co-operative-Republic-globally-distinctive + Dutch-West-India-Company-1581-+-Essequibo-Demerara-Berbice + British-Guiana-Colony-1831 + independence-1966 + Maintenance-Act-1981 + Status-of-Children-Act-2009 + Essequibo-oil-discovery-2019-+-Venezuela-territorial-dispute + non-Hague-Convention clusters within the corpus."
+  ]
+}

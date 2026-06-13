@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "new-zealand",
+  "name": "New Zealand (Aotearoa New Zealand)",
+  "jurisdiction_code": "NZ",
+  "legal_system": "common-law",
+  "language": ["en", "mi"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "New Zealand is a common-law jurisdiction whose Family Court (Te Kōti Whānau) operates under the Care of Children Act 2004 (CoCA) and the Family Court Act 1980. The CoCA replaced the Guardianship Act 1968 establishing the modern parenting-order framework with welfare-and-best-interests-of-the-child paramount standard (s 4). The statutory framework is silent on the 'parental alienation' label. The Supreme Court of New Zealand and Court of Appeal have addressed contact-refusal cases applying CoCA welfare-and-best-interests standard. Distinctive features include Māori tikanga and Treaty of Waitangi (Te Tiriti o Waitangi) considerations under CoCA s 5(f). The Family Violence Act 2018 (replacing Domestic Violence Act 1995) reformed DV-protection framework — invoked in DV-PA-allegation intersection cases. New Zealand's Family Court 2014 reforms (under Family Court Reform Act 2013) restructured procedural framework toward Family Dispute Resolution.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "case-law application within CoCA framework",
+    "professional_regulator_position": "critique"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Care of Children Act 2004 (CoCA)",
+      "title": "Primary children's-law statute",
+      "year": 2004,
+      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317233.html",
+      "relevance": "Care of Children Act 2004 (CoCA) enacted 21 November 2004 effective 1 July 2005 replacing Guardianship Act 1968. Establishes welfare-and-best-interests-of-the-child paramount standard (s 4), parenting-orders framework, and Treaty of Waitangi / tikanga Māori considerations (s 5(f)). Substantively foundational current NZ family-law statute."
+    },
+    {
+      "citation": "Family Court Act 1980",
+      "title": "Family Court establishment",
+      "year": 1980,
+      "url": "https://www.legislation.govt.nz/act/public/1980/0161/latest/DLM42253.html",
+      "relevance": "Family Court Act 1980 establishing specialised Family Court (Te Kōti Whānau) as division of District Court. Substantively foundational institutional framework — restructured via 2013 Family Court Reform Act."
+    },
+    {
+      "citation": "Family Violence Act 2018",
+      "title": "DV-protection statute",
+      "year": 2018,
+      "url": "https://www.legislation.govt.nz/act/public/2018/0046/latest/DLM7159322.html",
+      "relevance": "Family Violence Act 2018 (effective 1 July 2019) replacing Domestic Violence Act 1995. Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases."
+    },
+    {
+      "citation": "Hague Abduction Convention (Care of Children Act 2004 Part 2 subpart 4)",
+      "title": "Hague Convention implementation",
+      "year": 1991,
+      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317854.html",
+      "relevance": "New Zealand ratified 1980 Hague Convention 18 May 1991 (in force 1 August 1991). CoCA Part 2 subpart 4 implements Hague Convention obligations — substantively significant international-abduction framework."
+    },
+    {
+      "citation": "Children's Act 2014",
+      "title": "Children's strategic framework statute",
+      "year": 2014,
+      "url": "https://www.legislation.govt.nz/act/public/2014/0040/latest/DLM5501618.html",
+      "relevance": "Children's Act 2014 (renamed Oranga Tamariki Act 1989 framework) establishing strategic framework for children's wellbeing. Substantively significant Oranga Tamariki framework intersection with CoCA family-law adjudication."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of New Zealand",
+      "seat": "Wellington",
+      "role": "Apex court for all matters including family law; established 2004 under Supreme Court Act 2003 replacing Privy Council appeals"
+    },
+    {
+      "name": "Court of Appeal of New Zealand",
+      "seat": "Wellington",
+      "role": "Intermediate appellate court; jurisprudentially significant for CoCA welfare-and-best-interests interpretation"
+    },
+    {
+      "name": "Family Court (Te Kōti Whānau)",
+      "seat": "Nationwide (within District Court)",
+      "role": "Specialised first-instance family court established 1980 under Family Court Act 1980"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1840,
+      "title": "Treaty of Waitangi / Te Tiriti o Waitangi — foundational document",
+      "description": "Treaty of Waitangi / Te Tiriti o Waitangi signed 6 February 1840. Substantively foundational NZ constitutional-framework document — subsequently incorporated via Care of Children Act 2004 s 5(f) Treaty / tikanga Māori considerations in family-law adjudication."
+    },
+    {
+      "year": 1968,
+      "title": "Guardianship Act 1968 — pre-CoCA framework foundation",
+      "description": "Guardianship Act 1968 establishing guardianship + custody + access framework — substantively foundational 20th-century NZ children's-law statute. Operational framework until 2005 CoCA replacement."
+    },
+    {
+      "year": 1980,
+      "title": "Family Court Act 1980 — specialised Family Court established",
+      "description": "Family Court Act 1980 establishing specialised Family Court (Te Kōti Whānau) as division of District Court — substantively foundational institutional framework. Substantively significant 20th-century institutional reform."
+    },
+    {
+      "year": 1991,
+      "title": "New Zealand ratifies Hague Abduction Convention + UN CRC",
+      "description": "New Zealand ratified 1980 Hague Convention on the Civil Aspects of International Child Abduction 18 May 1991 (in force 1 August 1991). Ratified UN CRC 6 April 1993. Substantively significant international-framework ratifications."
+    },
+    {
+      "year": 1995,
+      "title": "Domestic Violence Act 1995 — DV-protection framework foundation",
+      "description": "Domestic Violence Act 1995 effective 1 July 1996 establishing comprehensive DV-protection framework. Substantively foundational 20th-century DV-protection statute — operational framework until 2018 Family Violence Act replacement."
+    },
+    {
+      "year": 2004,
+      "title": "Care of Children Act 2004 (CoCA) — comprehensive modernization",
+      "description": "Care of Children Act 2004 (CoCA) enacted 21 November 2004 effective 1 July 2005 replacing Guardianship Act 1968. Establishes welfare-and-best-interests-of-the-child paramount standard (s 4), parenting-orders framework, and Treaty of Waitangi / tikanga Māori considerations (s 5(f)). Substantively transformative 21st-century NZ family-law reform."
+    },
+    {
+      "year": 2013,
+      "title": "Family Court Reform Act 2013 — Family Dispute Resolution framework",
+      "description": "Family Court Reform Act 2013 (effective 31 March 2014) introducing Family Dispute Resolution (FDR) framework requiring mediation before court application. Substantively significant procedural reform — substantively distinctive globally for mandatory FDR architecture."
+    },
+    {
+      "year": 2014,
+      "title": "Children's Act 2014 + Oranga Tamariki framework establishment",
+      "description": "Children's Act 2014 establishing strategic framework for children's wellbeing. Subsequent Children's Commissioner Act 2003 reforms and Oranga Tamariki — Ministry for Children establishment 1 April 2017. Substantively significant institutional reform intersecting with CoCA family-law adjudication."
+    },
+    {
+      "year": 2018,
+      "title": "Family Violence Act 2018 — DV-protection framework reform",
+      "description": "Family Violence Act 2018 (effective 1 July 2019) replacing Domestic Violence Act 1995. Substantively significant DV-protection framework reform — invoked in subsequent DV-PA-allegation intersection cases."
+    },
+    {
+      "year": 2022,
+      "title": "Supreme Court + Court of Appeal post-CoCA jurisprudence",
+      "description": "Multiple Supreme Court and Court of Appeal decisions developing CoCA welfare-and-best-interests framework interpretation including PA-related contact-refusal cases. Substantively significant apex-court jurisprudential development on NZ family-law framework."
+    },
+    {
+      "year": 2023,
+      "title": "Oversight of Oranga Tamariki Act 2022 + Independent Children's Monitor + Ministerial Advisory Group on Care",
+      "description": "Oversight of Oranga Tamariki System Act 2022 effective 1 July 2023 establishing Independent Children's Monitor (Mana Mokopuna — Children and Young People's Commission) and strengthened oversight framework. Ministerial Advisory Group on Care 2022-2023 reports addressing systemic issues in Oranga Tamariki framework. Substantively significant institutional reform — operationally affecting subsequent Family Court adjudication context including PA-related contact-refusal cases under CoCA framework."
+    },
+    {
+      "year": 2024,
+      "title": "FCFCOA + Oranga Tamariki institutional position + Family Violence Death Review Committee reports",
+      "description": "Family Court and Oranga Tamariki institutional reports + Family Violence Death Review Committee reports critique residual PA-labelled deflection of DV allegations in custody disputes. Substantively significant institutional-critique register operating alongside CoCA framework — without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "New Zealand operates a structurally distinctive common-law family-law framework — Care of Children Act 2004 + Family Court Act 1980 + Family Court Reform Act 2013 FDR framework + Family Violence Act 2018 — with substantive welfare-and-best-interests-of-the-child analysis without doctrinal 'parental alienation' label adoption.",
+    "Care of Children Act 2004 s 5(f) Treaty of Waitangi / tikanga Māori considerations is substantively distinctive globally — operationally requiring Family Court to consider Treaty-grounded Māori cultural-context considerations in family-law adjudication.",
+    "Mandatory Family Dispute Resolution (FDR) framework under Family Court Reform Act 2013 is substantively distinctive globally for mandatory pre-court mediation architecture — operationally significant for family-law procedural framework comparative analysis."
+  ],
+  "editorial_notes": [
+    "New Zealand's Treaty of Waitangi / tikanga Māori CoCA s 5(f) framework operates as substantively distinctive globally — making NZ a critical comparative-law data point for indigenous-cultural-framework family-law architecture.",
+    "Mandatory Family Dispute Resolution framework (2013) is substantively significant for global mandatory-mediation legislative trend analysis — operationally distinctive procedural architecture."
+  ]
+}

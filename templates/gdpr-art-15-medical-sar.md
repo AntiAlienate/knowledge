@@ -69,3 +69,17 @@ Particularly valuable for revealing: missed appointments (with who-brought-the-c
 **Disclaimer.** This is a starter template, not legal advice. Adapt to your jurisdiction and case facts. Have a licensed practitioner review before filing. Statutes and procedural rules vary and update — verify against primary source.
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Medical Child Abuse When Alienators Recruit Healthcare Providers](https://www.antialienate.com/blog/medical-child-abuse-when-alienators-recruit-healthcare-providers)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+
+<!-- AA-CROSSLINK-END -->

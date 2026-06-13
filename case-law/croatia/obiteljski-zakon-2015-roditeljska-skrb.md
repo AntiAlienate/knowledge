@@ -101,3 +101,17 @@ Common Yugoslav legal heritage means similar statutory structure, but each succe
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not legal advice. Consult a qualified Croatian family-law attorney (odvjetnik specijaliziran za obiteljsko pravo).
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+
+<!-- AA-CROSSLINK-END -->

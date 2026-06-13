@@ -14,3 +14,13 @@ This page indexes independent publishers whose work AntiAlienate mirrors, draws 
 Open a GitHub issue or PR with: (1) publisher name + location/affiliation, (2) the upstream URL, (3) what categories of material you contribute, (4) preferred attribution format.
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+
+<!-- AA-CROSSLINK-END -->

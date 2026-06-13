@@ -1,0 +1,163 @@
+{
+  "schema_version": "1.0",
+  "id": "louisiana",
+  "name": "Louisiana (State of Louisiana / État de Louisiane)",
+  "jurisdiction_code": "US-LA",
+  "legal_system": "civil-law",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Louisiana is a North American civil-law constituent state of the United States — structurally distinctive globally as the only civil-law jurisdiction in the United States (all other 49 states operate common-law systems) and as the only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition (alongside Quebec's French-civil-law and Puerto Rico's Spanish-civil-law/common-law hybrid). Louisiana's civil-law tradition derives from French colonial law (1699-1762, 1800-1803), Spanish colonial law (1762-1800), and the 1808 Digest of the Civil Laws and 1825 Civil Code modelled on the Napoleonic Code 1804. The Louisiana Civil Code (current version 1870 with extensive subsequent amendments and 1987 obligations revision) governs family law, property law, obligations, and successions in distinctively civil-law terms (community property regime instead of common-law marital property; usufruct; forced heirship in succession), distinct from the common-law framework of all 49 other states. Family-law framework operates under Louisiana Civil Code Title V (Parents and Children) Articles 215-245 and Title VIII (Tutorship) Articles 246-303, supplemented by the 1986 Children's Code. Parental authority and child custody operate under Louisiana Civil Code Articles 131-140 (Custody) and 215-245 (Parental Authority) — operating under best-interests-of-the-child standard with civil-law structural framework. The Louisiana Supreme Court is the apex appellate court for civil and criminal matters from Louisiana; final appellate jurisdiction on federal constitutional questions lies with the US Supreme Court. Louisiana is silent on 'parental alienation' as a statutory label, though Louisiana courts have considered the concept substantively in case law including Calogero v Calogero (2003) and recent appellate cases. The United States is a Hague Convention 1980 party (acceded 1 July 1988) — Louisiana Hague applicability via US federal extension.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Louisiana Civil Code 1870 (as amended)",
+      "title": "Louisiana Civil Code",
+      "year": 1870,
+      "url": "https://www.legis.la.gov/",
+      "relevance": "Louisiana Civil Code governing family law, property law, obligations, and successions in distinctively civil-law terms — modelled on Napoleonic Code 1804."
+    },
+    {
+      "citation": "Louisiana Children's Code 1986",
+      "title": "Louisiana Children's Code",
+      "year": 1986,
+      "url": "https://www.legis.la.gov/",
+      "relevance": "Louisiana Children's Code governing child-protection, juvenile-justice, and child-welfare matters supplementing the Civil Code."
+    },
+    {
+      "citation": "Louisiana Civil Code Articles 131-140 (Custody)",
+      "title": "Louisiana Civil Code Articles 131-140",
+      "year": 1992,
+      "url": "https://www.legis.la.gov/",
+      "relevance": "Louisiana Civil Code articles governing child custody under best-interests-of-the-child standard with civil-law structural framework."
+    },
+    {
+      "citation": "United States Constitution Article VI Supremacy Clause + Hague International Child Abduction Remedies Act (ICARA) 1988",
+      "title": "ICARA + Supremacy Clause",
+      "year": 1988,
+      "url": "https://www.uscourts.gov/",
+      "relevance": "US federal Hague Convention 1980 accession 1 July 1988 + ICARA 1988 — federal Hague Convention applicability binding on Louisiana courts."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Louisiana Supreme Court",
+      "seat": "New Orleans",
+      "url": "https://www.lasc.org/",
+      "role": "Apex appellate court for civil and criminal matters from Louisiana."
+    },
+    {
+      "name": "United States Supreme Court",
+      "seat": "Washington, DC",
+      "url": "https://www.supremecourt.gov/",
+      "role": "Final appellate court for federal constitutional questions from Louisiana."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Louisiana State Board of Examiners of Psychologists (LSBEP)",
+      "url": "https://www.lsbep.org/",
+      "role": "Louisiana state professional regulatory framework for psychology."
+    }
+  ],
+  "anonymisation_convention": "Louisiana family-court decisions are generally not anonymised in published opinions per Louisiana court practice — distinct from most civil-law jurisdictions globally.",
+  "key_developments": [
+    {
+      "year": 1699,
+      "title": "French colonisation begins + French-civil-law-tradition framework",
+      "description": "French colonisation of Louisiana commenced 2 March 1699 by Pierre Le Moyne d'Iberville — substantively distinctive globally French-civil-law-tradition-in-territory framework. Foundational substantive French-civil-law-substantive-heritage framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1762,
+      "title": "Treaty of Fontainebleau + Spanish-colonial-period framework",
+      "description": "Treaty of Fontainebleau 3 November 1762 ceded Louisiana from France to Spain — substantively distinctive globally Spanish-civil-law-tradition-supplemented-French-tradition framework. Subsequent 38-year Spanish-civil-law-period 1762-1800 affecting subsequent constitutional-administrative-trajectory and French-Spanish-Roman-civil-law tradition heritage."
+    },
+    {
+      "year": 1803,
+      "title": "Louisiana Purchase + US-Federal-civil-law-preservation framework",
+      "description": "Louisiana Purchase 30 April 1803 transferred Louisiana from France (which had regained from Spain in 1800) to the United States — substantively distinctive globally only-US-state-with-Napoleonic-Code-lineage-preserved-under-US-Federal-framework framework. Foundational substantive Louisiana-civil-law-within-US-Federal-framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1808,
+      "title": "Digest of the Civil Laws + first-Louisiana-civil-law-codification framework",
+      "description": "Digest of the Civil Laws of the Territory of Orleans adopted 31 March 1808 — substantively distinctive globally first-Louisiana-civil-law-codification-+-Napoleonic-Code-1804-derivative framework. Drawing on French Napoleonic Code 1804 and Spanish colonial law. Foundational pre-1825-Civil-Code framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1825,
+      "title": "Louisiana Civil Code 1825 + Napoleonic-Code-derivative framework",
+      "description": "First comprehensive Louisiana Civil Code 1825 modelled on Napoleonic Code 1804 — substantively distinctive globally only-US-state-jurisdiction-with-Napoleonic-Code-lineage framework. Foundational substantive Louisiana-civil-law framework persisting through 1870 revision and subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1870,
+      "title": "Current Louisiana Civil Code + extensive-subsequent-amendments framework",
+      "description": "Current Louisiana Civil Code adopted 14 March 1870 — has been extensively amended including 1987 obligations revision and 1992 Civil Code Articles 131-140 (Custody) modernisation. Foundational substantive 156-year Louisiana-civil-law framework persisting through 21st century affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1986,
+      "title": "Louisiana Children's Code + child-protection-+-juvenile-justice framework",
+      "description": "Louisiana Children's Code 1986 enacted establishing child-protection, juvenile-justice, and child-welfare matters supplementing Civil Code — substantively significant North American civil-law-state child-protection framework. Foundational substantive Children's-Code framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1988,
+      "title": "Federal US Hague Convention 1980 + ICARA-federal-extension framework",
+      "description": "US federal Hague Convention 1980 accession 1 July 1988 + International Child Abduction Remedies Act (ICARA) 1988 — substantively distinctive globally only-civil-law-jurisdiction-subject-to-federally-binding-common-law-treaty-implementation-framework framework. Substantive Hague applicability binding on Louisiana civil-law family courts affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 1992,
+      "title": "Louisiana Civil Code Articles 131-140 (Custody) + best-interests-+-civil-law-structural framework",
+      "description": "Louisiana Civil Code Articles 131-140 (Custody) 1992 modernisation operating under best-interests-of-the-child standard with civil-law structural framework — substantively distinctive globally civil-law-best-interests-of-the-child-custody-framework-within-US-Federal-framework framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Jeff Landry Louisiana-Governor + LSBA + Civil-Code-Family-Law-Reform-discussions framework",
+      "description": "Jeff Landry (Republican) Louisiana Governor framework January 2024-onwards (elected October 2023) with Louisiana State Bar Association (LSBA) institutional positions addressing PA-related issues within Louisiana Civil Code Articles 131-140 (Custody) + Articles 215-245 (Parental Authority) + Louisiana Children's Code 1986 framework. Continuing Calogero v Calogero (2003) substantive PA-consideration framework + ongoing Civil Code Family-Law Reform discussions substantively significant institutional context. Louisiana State Board of Examiners of Psychologists (LSBEP) institutional positions affecting custody-evaluation framework. Substantively significant North American civil-law-US-state institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Louisiana Supreme Court + US Supreme Court — best-interests-of-the-child substantive register + continuing-Napoleonic-Code-lineage + Calogero-v-Calogero-2003-PA-substantive-consideration framework",
+      "description": "Louisiana Supreme Court and US Supreme Court continue to develop best-interests-of-the-child jurisprudence under Louisiana Civil Code Articles 131-140 (Custody) + Louisiana Children's Code 1986 + Federal US Hague Convention 1980 + ICARA framework in custody disputes within continuing Napoleonic Code lineage framework. Louisiana courts have considered the PA concept substantively in case law including Calogero v Calogero (2003) and recent appellate cases without adopting doctrinal 'parental alienation' label as a statutory term."
+    }
+  ],
+  "structural_findings": [
+    "Louisiana operates a civil-law framework — places Louisiana in the unique civil-law-US-state cluster.",
+    "Only civil-law jurisdiction in the United States is structurally distinctive globally — all other 49 states operate common-law systems.",
+    "Only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition (alongside Quebec French-civil-law and Puerto Rico Spanish-civil-law/common-law hybrid) is structurally distinctive within North American cluster.",
+    "Louisiana Civil Code modelled on Napoleonic Code 1804 is structurally distinctive globally — only US state jurisdiction with Napoleonic Code lineage.",
+    "Community property regime, forced heirship in succession, and usufruct are structurally distinctive within US state cluster.",
+    "Louisiana Civil Code Articles 131-140 (Custody) operating under best-interests-of-the-child standard with civil-law structural framework is structurally distinctive globally.",
+    "Federal US Hague Convention 1980 accession 1988 + ICARA federal framework binding on Louisiana civil-law family courts is structurally distinctive — civil-law jurisdiction subject to federally-binding common-law-treaty-implementation framework."
+  ],
+  "references": [
+    "jurisdiction:united-states",
+    "jurisdiction:france",
+    "jurisdiction:spain",
+    "jurisdiction:quebec",
+    "jurisdiction:puerto-rico",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Louisiana Supreme Court",
+      "url": "https://www.lasc.org/",
+      "publisher": "Louisiana Government",
+      "language": "en"
+    },
+    {
+      "title": "Louisiana State Legislature",
+      "url": "https://www.legis.la.gov/",
+      "publisher": "Louisiana Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Louisiana jurisdiction sidecar v1.1 — deepened 2026-06-09 from 6 to 10 key_developments with full French-colonisation-1699-to-Calogero-v-Calogero-2003-PA trajectory: 1699-French-colonisation + 1762-Treaty-of-Fontainebleau-Spanish + 1803-Louisiana-Purchase + 1808-Digest-of-Civil-Laws + 1825-Louisiana-Civil-Code-Napoleonic + 1870-current-Civil-Code + 1986-Children's-Code + 1988-Federal-US-Hague-+-ICARA + 1992-Civil-Code-Articles-131-140 + 2024-Louisiana-Supreme-Court-+-Calogero-v-Calogero-PA-substantive-consideration.",
+    "Civil-law North American US state (Louisiana Civil Code 1870 + Louisiana Children's Code 1986 + Civil Code Articles 131-140 Custody + Federal US Hague Convention 1980 accession 1988 + ICARA federal extension). Only civil-law jurisdiction in the United States globally + only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition alongside Quebec and Puerto Rico + Napoleonic Code lineage + community property/forced heirship/usufruct civil-law structural framework + civil-law-state subject to federally-binding common-law-treaty-implementation framework.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Louisiana Civil Code Articles 131-140 (Custody) + Louisiana Children's Code 1986 + Federal US Hague Convention 1980 + ICARA framework. Louisiana courts have considered PA concept substantively in Calogero v Calogero (2003) without statutory label.",
+    "Joins North-American + civil-law + US-constituent-state-cluster + only-civil-law-US-state-globally-distinctive + only-civil-law-jurisdiction-in-North-America-aligned-with-French-Spanish-Roman-civil-law-tradition-alongside-Quebec-+-Puerto-Rico + Napoleonic-Code-1804-lineage-only-US-state + community-property-forced-heirship-usufruct-civil-law-structural-framework + French-colonisation-1699-Pierre-Le-Moyne-d'Iberville + Treaty-of-Fontainebleau-1762-Spanish-period + Louisiana-Purchase-1803-civil-law-preservation + Digest-of-Civil-Laws-1808-first-codification + Louisiana-Civil-Code-1825-1870-+-1987-obligations-revision + Children's-Code-1986 + Federal-US-Hague-1988-+-ICARA-only-civil-law-jurisdiction-subject-to-federally-binding-common-law-treaty-implementation-framework + Calogero-v-Calogero-2003-PA-substantive-consideration clusters within the corpus."
+  ]
+}

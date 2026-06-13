@@ -103,3 +103,17 @@ For honest PA advocacy, the case is also instructive: the most explicit PA legis
 - [Lei nº 12.318, de 26 de agosto de 2010 – text via CRP-SP](http://www.crpsp.org.br/interjustica/pdfs/Lei-12318_10-Alienacao-Parental.pdf)
 - [IBDFAM – "Ministra Nancy Andrighi destaca decisões inéditas sobre família e cidadania"](https://ibdfam.org.br/noticias/na-midia/3329/Ministra+Nancy+Andrighi+destaca+decis%C3%B5es+in%C3%A9ditas+sobre+fam%C3%ADlia+e+cidadania)
 - [Jusbrasil – "Alienação Parental: os acórdãos do STJ"](https://www.jusbrasil.com.br/artigos/alienacao-parental-os-acordaos-do-stj/429364271)
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+
+<!-- AA-CROSSLINK-END -->

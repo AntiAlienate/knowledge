@@ -105,3 +105,14 @@ Everything you say should serve one of those three. If a sentence doesn't — cu
 ---
 
 *See also: [Templates](../templates/) for sample witness-statement structures, evaluator-request letters, and BIFF-pattern communications.*
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [How To Respond To Lies From Opposing Counsel](https://www.antialienate.com/blog/how-to-respond-to-lies-from-opposing-counsel)
+- [Lawyer Ethics False Documents Parental Alienation Belgium](https://www.antialienate.com/blog/lawyer-ethics-false-documents-parental-alienation-belgium)
+
+<!-- AA-CROSSLINK-END -->

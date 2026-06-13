@@ -309,3 +309,17 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 6. **CRP numbers are systematically under-published in BR.** Only Calçada (CRP 05/18785), Lobo Ribeiro (CREMESP 114681) and Karam Trindade (CRP 06/205826) display registry numbers publicly. Direct CRP regional lookup will be needed for outreach verification on the other 11 entries.
 
 7. **PL 1.372/2023 (full revocation) passing CCJ 37-28 in Dec 2025 has materially raised stakes** — the recognition camp is now openly fighting to preserve LAP at the Plenário level; this directory should expect significant churn (new publications, public letters, institutional repositionings) through 2026.
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
+
+<!-- AA-CROSSLINK-END -->

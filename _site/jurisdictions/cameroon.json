@@ -1,0 +1,143 @@
+{
+  "schema_version": "1.0",
+  "id": "cameroon",
+  "name": "Cameroon (Republic of Cameroon / République du Cameroun)",
+  "jurisdiction_code": "CM",
+  "legal_system": "mixed",
+  "language": ["fr", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Cameroon is a Central African mixed-legal-system unitary republic structurally distinctive within the corpus as the only African jurisdiction operating a bijuridical system — French civil-law in the eight Francophone regions and English common-law in the two Anglophone regions (Northwest and Southwest), reflecting respective French and British Mandate inheritances. Family-law framework operates under the Civil Status Registration Ordinance 1981 (Ordinance 81-02) for general matters, with Francophone regions applying Civil Code provisions and Anglophone regions applying English common-law principles. Customary-law and Islamic-law personal-status jurisdiction operate in parallel. The Supreme Court of Cameroon (Cour suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil constitutionnel, established 2018) operates constitutional review. Family-law matters are heard at first instance in Court of First Instance / High Court. Psychology profession is regulated through the Ministry of Health framework. Cameroon is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Cameroon is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Status Registration Ordinance 1981 (Ordinance 81-02)",
+      "title": "Civil Status Registration Ordinance",
+      "year": 1981,
+      "url": "https://www.minjustice.gov.cm/",
+      "relevance": "Federal statute on civil-status registration and family matters; supplemented by Civil Code in Francophone regions and English common-law principles in Anglophone regions."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour suprême)",
+      "seat": "Yaoundé",
+      "url": "https://www.coursupreme.cm/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Council (Conseil constitutionnel)",
+      "seat": "Yaoundé",
+      "url": "https://www.conseilconstitutionnel.cm/",
+      "role": "Constitutional Council with original jurisdiction over constitutional review (established 2018)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Public Health, Cameroon",
+      "url": "https://www.minsante.cm/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Cameroonian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1960,
+      "title": "Cameroon independence + Ahidjo founding-presidency",
+      "description": "Cameroon (formerly French Cameroon) independence 1 January 1960 from France — Ahmadou Ahidjo first president 1960-1982 substantively distinctive African long-presidency framework. Foundational pre-Federation framework affecting subsequent bijuridical-trajectory."
+    },
+    {
+      "year": 1961,
+      "title": "Federation of Cameroon + bijuridical-system establishment",
+      "description": "Federation 1 October 1961 between former French Cameroon and British Southern Cameroons (via 1961 plebiscite) establishing bijuridical system — substantively distinctive globally African bijuridical-federation framework. Foundational bijuridical framework persisting through subsequent unitary-republic transition affecting contemporary family-law-jurisprudence."
+    },
+    {
+      "year": 1972,
+      "title": "United Republic of Cameroon + Federation-dissolution + unitary-state framework",
+      "description": "Cameroon unified into United Republic of Cameroon 20 May 1972 by referendum (99.99% approval) — substantively dissolving federal framework while retaining bijuridical-legal-system substantive heritage. Foundational pre-1984-Republic-of-Cameroon framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1981,
+      "title": "Civil Status Registration Ordinance 1981 (Ordinance 81-02)",
+      "description": "Federal statute on civil-status registration and family matters enacted. Foundational substantive-family-law framework supplementing Francophone-Civil-Code and Anglophone-common-law respective regional frameworks."
+    },
+    {
+      "year": 1982,
+      "title": "Paul Biya presidency + 44+ year-Biya-era framework",
+      "description": "Paul Biya assumed presidency 6 November 1982 following Ahidjo resignation — substantively distinctive globally African longest-current-presidency framework (44+ years through 2026). Substantive single-party-CPDM framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "Cameroon ratifies UN Convention on the Rights of the Child",
+      "description": "Cameroon ratified the UNCRC on 11 January 1993 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration applied through Civil Code + English common-law + customary-law + Islamic-law framework."
+    },
+    {
+      "year": 1996,
+      "title": "Constitution of Cameroon 1996 + decentralisation framework",
+      "description": "Constitution of Cameroon 1996 adopted 18 January 1996 substantively reforming political-institutional framework. Substantive decentralisation framework affecting Anglophone-Francophone regional administration. Foundational pre-Anglophone-crisis framework."
+    },
+    {
+      "year": 2016,
+      "title": "Anglophone Crisis + Ambazonia framework + Northwest-Southwest-armed-conflict",
+      "description": "Anglophone Crisis 9 October 2016-onwards — substantive Anglophone-region (Northwest, Southwest) grievances over Francophone-cultural-hegemony triggering armed conflict. Ambazonia secession declaration October 2017. Substantive armed-conflict framework substantially affecting demographic and family-law-implementation framework in Anglophone-regions."
+    },
+    {
+      "year": 2018,
+      "title": "Constitutional Council established",
+      "description": "Constitutional Council established with original jurisdiction over constitutional review — substantively reforming political-institutional framework. Substantive constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Anglophone Crisis continuation + Special Status for North-West and South-West regions framework",
+      "description": "Anglophone Crisis (since 2017) continuing through 2023-2024 with estimated 6,000+ killed and 700,000+ displaced. Special Status for North-West and South-West regions framework implementation (Law 2019/024) operationalisation through 2020-2023 affecting bijuridical framework adjudication. Substantively significant Central African institutional context affecting subsequent family-law adjudication establishing trajectory toward 2024 Cour suprême substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Cour suprême + Conseil constitutionnel — interest-of-the-child substantive register + bijuridical-framework + Anglophone-Crisis context",
+      "description": "Cour suprême and Conseil constitutionnel continue to develop interest-of-the-child jurisprudence under Civil Status Registration Ordinance 1981 + bijuridical-Civil-Code-and-common-law + customary-law + Islamic-law framework in custody disputes within continuing Anglophone-Crisis context under Biya 44+-year presidency. Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Cameroon operates the only fully bijuridical mixed-legal-system framework within the African corpus — French civil-law in eight Francophone regions + English common-law in two Anglophone regions (Northwest, Southwest). Structurally distinctive across the African corpus cluster.",
+    "Customary-law and Islamic-law personal-status parallel jurisdictions add further layering — particularly in the predominantly-Muslim northern regions.",
+    "Non-Hague Convention status places Cameroon in the non-Hague Central African cluster.",
+    "Bijuridical heritage produces structurally distinctive comparative-law research opportunities — same federation, divergent legal traditions."
+  ],
+  "references": [
+    "jurisdiction:france",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:ivory-coast",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Cameroon",
+      "url": "https://www.coursupreme.cm/",
+      "publisher": "Supreme Court",
+      "language": "fr,en"
+    },
+    {
+      "title": "Constitutional Council",
+      "url": "https://www.conseilconstitutionnel.cm/",
+      "publisher": "Constitutional Council",
+      "language": "fr,en"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.minjustice.gov.cm/",
+      "publisher": "Ministry of Justice",
+      "language": "fr,en"
+    }
+  ],
+  "editorial_notes": [
+    "Cameroon jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Ahidjo-to-Biya trajectory: 1960-Cameroon-independence-+-Ahidjo + 1961-Federation-of-Cameroon-+-bijuridical-system + 1972-United-Republic-of-Cameroon-+-unitary-state + 1981-Civil-Status-Registration-Ordinance + 1982-Paul-Biya-presidency-+-44-year-Biya-era + 1993-UNCRC-ratification + 1996-Constitution-of-Cameroon-+-decentralisation + 2016-Anglophone-Crisis-+-Ambazonia-+-Northwest-Southwest-armed-conflict + 2018-Constitutional-Council-established + 2024-Cour-suprême-+-Conseil-constitutionnel-+-Anglophone-Crisis-+-Biya-44-year.",
+    "Bijuridical mixed-legal-system Central Africa (French civil-law in 8 Francophone regions + English common-law in 2 Anglophone regions + customary-law + Islamic-law personal-status parallel). Civil Status Registration Ordinance 1981 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Civil Status Registration Ordinance 1981 + bijuridical-Civil-Code-and-common-law + customary-law + Islamic-law framework without doctrinal 'parental alienation' label.",
+    "Joins Central-African + only-fully-bijuridical-mixed-legal-system-framework-within-African-corpus-distinctive + customary-law-+-Islamic-law-personal-status-parallel + Federation-of-Cameroon-1961-bijuridical-establishment + United-Republic-of-Cameroon-1972 + Biya-44-year-longest-current-presidency-globally-distinctive + Anglophone-Crisis-2016-+-Ambazonia-+-Northwest-Southwest-armed-conflict + Constitutional-Council-2018 + non-Hague-Convention clusters within the corpus."
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "japan",
+  "name": "Japan (日本国 / Nihon-koku)",
+  "jurisdiction_code": "JP",
+  "legal_system": "civil-law",
+  "language": ["ja"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "Japan is a civil-law jurisdiction whose family courts (家庭裁判所 Katei Saibansho) operate under the Minpō (民法 Civil Code) arts. 766-839 and the Personal Status Litigation Act. Japan operated a sole-custody (単独親権 tandoku shinken) framework as default until the Civil Code Partial Amendment 2024 (Reiwa 6) introduced joint custody (共同親権 kyōdō shinken) effective 2026. The statutory framework is silent on the 'parental alienation' label. The Supreme Court (Saikō Saibansho) has not endorsed PAS as a syndrome but addresses contact-refusal (面会交流拒否 menkai-kōryū-kyohi) within the welfare-of-the-child (子の福祉 ko-no-fukushi) standard. Japan is internationally distinctive for its 1980 Hague Abduction Convention accession (delayed until 2014) and persistent international-abduction concern.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "民法 (Minpō) arts. 766-839",
+      "title": "Civil Code — parental authority and custody provisions",
+      "year": 1898,
+      "url": "https://elaws.e-gov.go.jp/document?lawid=129AC0000000089",
+      "relevance": "Primary statutory basis for parental authority (親権 shinken) and custody — substantively foundational since 1898 Meiji Civil Code. Art. 766 governs post-divorce custody and visitation; restructured by 2024 amendment introducing joint custody (effective 2026)."
+    },
+    {
+      "citation": "民法一部改正 (令和6年法律33号)",
+      "title": "Civil Code Partial Amendment 2024 — joint custody framework",
+      "year": 2024,
+      "url": "https://www.moj.go.jp/MINJI/minji07_00337.html",
+      "relevance": "Reiwa 6 (2024) Civil Code Partial Amendment introducing joint custody (共同親権 kyōdō shinken) as elective option post-divorce, effective 2026. Substantively transformative reform ending Japan's distinctive sole-custody default."
+    },
+    {
+      "citation": "ハーグ条約実施法 (Hague Convention Implementation Act)",
+      "title": "Act for Implementation of the Convention on the Civil Aspects of International Child Abduction",
+      "year": 2014,
+      "url": "https://www.mofa.go.jp/mofaj/gaiko/hague/index.html",
+      "relevance": "Japan acceded to 1980 Hague Abduction Convention 24 January 2014, in force 1 April 2014. Implementation Act establishes Central Authority procedure — substantively significant for international-abduction framework, addressing persistent international concern."
+    },
+    {
+      "citation": "家事事件手続法 (Domestic Relations Case Procedure Act)",
+      "title": "Kaji-jiken Tetsuzuki Hō",
+      "year": 2013,
+      "url": "https://elaws.e-gov.go.jp/document?lawid=423AC0000000052",
+      "relevance": "Procedural code for family-court proceedings (effective 2013) replacing prior 1947 framework. Establishes mediation (調停 chōtei) and adjudication (審判 shinpan) procedures applicable to custody/visitation disputes."
+    },
+    {
+      "citation": "Japan ratifies UN CRC",
+      "title": "United Nations Convention on the Rights of the Child",
+      "year": 1994,
+      "url": "https://www.mofa.go.jp/mofaj/gaiko/jido/",
+      "relevance": "Japan ratified UN CRC 22 April 1994 (effective 22 May 1994). Establishes 子の福祉 (ko-no-fukushi, welfare-of-the-child) standard with international-treaty grounding."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "最高裁判所 (Saikō Saibansho / Supreme Court of Japan)",
+      "seat": "Tokyo",
+      "role": "Apex court for all matters including family law; reviews family-court (Katei Saibansho) decisions on jōkoku (上告) appeal"
+    },
+    {
+      "name": "家庭裁判所 (Katei Saibansho / Family Court)",
+      "seat": "Nationwide (50 family courts + branches)",
+      "role": "First-instance court for family matters including custody, visitation, mediation; established 1949 under Court Organization Act"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1898,
+      "title": "Meiji Civil Code (Minpō) — ie-system family framework",
+      "description": "Meiji Civil Code promulgated 1898 establishing ie (家) household-headship family framework with patriarchal koshu (戸主, household-head) authority. Substantively foundational pre-1947 Japanese family-law code influenced by German BGB drafting tradition."
+    },
+    {
+      "year": 1947,
+      "title": "Post-war Civil Code reform — ie-system abolition + gender equality",
+      "description": "Civil Code amendment 1947 (effective 1 January 1948) under post-war Constitution art. 24 abolishing ie household-headship framework and establishing gender-equal marriage and parental-rights framework. Substantively transformative shift ending 50-year ie-system framework — substantively significant 20th-century Japanese family-law reform."
+    },
+    {
+      "year": 1949,
+      "title": "Family Court (家庭裁判所) established under Court Organization Act",
+      "description": "Family Court (Katei Saibansho) established 1 January 1949 under Court Organization Act as specialised first-instance court for family matters — substantively significant institutional reform establishing distinctive Japanese family-law procedural framework with mediation-first (調停前置主義 chōtei-zenchi-shugi) requirement."
+    },
+    {
+      "year": 1994,
+      "title": "Japan ratifies UN Convention on the Rights of the Child",
+      "description": "Japan ratified UN CRC 22 April 1994 (effective 22 May 1994). Substantively significant for child-welfare standard application — establishing 子の福祉 (ko-no-fukushi) standard with international-treaty grounding under Minpō art. 766."
+    },
+    {
+      "year": 2011,
+      "title": "民法766条改正 — visitation explicitly codified",
+      "description": "Civil Code art. 766 amendment 2011 (Heisei 23 Law 61) explicitly codifying visitation (面会交流 menkai-kōryū) and child-support (養育費 yōiku-hi) as matters to be addressed in divorce. Substantively significant pre-Hague-accession reform establishing visitation as statutorily-recognised post-divorce right."
+    },
+    {
+      "year": 2013,
+      "title": "Domestic Relations Case Procedure Act + Hague Convention Implementation Act enactment",
+      "description": "Kaji-jiken Tetsuzuki Hō (Domestic Relations Case Procedure Act) effective 1 January 2013 replacing prior 1947 framework. Hague Convention Implementation Act 2013 (Heisei 25 Law 48) enabling 2014 accession. Substantively significant procedural-reform package preparing Japan for Hague Convention obligations."
+    },
+    {
+      "year": 2014,
+      "title": "Japan accedes to 1980 Hague Abduction Convention",
+      "description": "Japan acceded to 1980 Hague Convention on the Civil Aspects of International Child Abduction 24 January 2014, in force 1 April 2014. Substantively significant international-treaty accession — among the last G7 states to ratify, addressing persistent international-abduction concern raised by partner states including the United States."
+    },
+    {
+      "year": 2017,
+      "title": "Saikō Saibansho 2017 — Hague return-application jurisprudence development",
+      "description": "Supreme Court 2017 decisions developing Hague Convention return-application jurisprudence including grave-risk-exception (重大な危険 jūdai-na-kiken) interpretation. Substantively significant for post-accession Hague-implementation jurisprudence."
+    },
+    {
+      "year": 2023,
+      "title": "Saikō Saibansho ruling on visitation enforcement framework",
+      "description": "Supreme Court 2023 rulings developing visitation enforcement (面会交流の履行確保 menkai-kōryū-no-rikō-kakuho) framework under indirect-coercion (間接強制 kansetsu-kyōsei) procedure. Substantively significant pre-joint-custody-amendment jurisprudence on contact-refusal cases."
+    },
+    {
+      "year": 2024,
+      "title": "Civil Code Partial Amendment — joint custody (共同親権) introduction",
+      "description": "Reiwa 6 (2024) Civil Code Partial Amendment (Law 33/2024) enacted 17 May 2024 introducing joint custody (共同親権 kyōdō shinken) as elective post-divorce option, effective 2026. Substantively transformative reform ending Japan's distinctive sole-custody default — among the most significant 21st-century Japanese family-law reforms."
+    },
+    {
+      "year": 2025,
+      "title": "Joint custody framework implementation preparation + Ministry of Justice guidance",
+      "description": "Joint custody (kyōdō shinken) framework implementation preparation 2024-2025 under Reiwa 6 Civil Code Partial Amendment with Ministry of Justice (法務省 Hōmushō) institutional guidance for Family Court (Katei Saibansho) operational adjustment. Substantively significant institutional reform preparation — operationally affecting subsequent post-2026-implementation jurisprudence on joint-custody adjudication."
+    },
+    {
+      "year": 2026,
+      "title": "Joint custody framework operational + transitional implementation",
+      "description": "Joint custody (kyōdō shinken) framework operational 2026 under Reiwa 6 Civil Code Partial Amendment with transitional implementation regime. Substantively significant institutional reform requiring family-court (Katei Saibansho) and Ministry of Justice operational frameworks for joint-custody adjudication, mediation, and enforcement — without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Japan operated a structurally distinctive sole-custody (tandoku shinken) framework as default until the 2024 Civil Code Partial Amendment introduced joint custody (kyōdō shinken) effective 2026 — among the latest G7 jurisdictions to adopt joint-custody framework.",
+    "Japan's 2014 Hague Abduction Convention accession was substantively delayed (among the last G7 states to ratify) — addressing persistent international-abduction concern. The grave-risk-exception (重大な危険) Supreme Court jurisprudence has been a focus of bilateral-treaty implementation discussions.",
+    "Statutory and apex-court silence on the 'parental alienation' label distinguishes Japan from PA-recognition-statutory jurisdictions (Brazil Lei 12.318/2010, Mexico CDMX, Argentina draft) and from European institutional-critique cluster (Germany BVerfG 2023, Italy Cass. civ. 2021-2022, Spain CGPJ guides). Contact-refusal (menkai-kōryū-kyohi) is addressed under welfare-of-the-child (ko-no-fukushi) standard without doctrinal PA framing."
+  ],
+  "editorial_notes": [
+    "Japan's 2024 Civil Code Partial Amendment (effective 2026) represents the most substantial family-law reform since the 1947 post-war Civil Code restructuring — ending the 76-year sole-custody-default framework.",
+    "The 2014 Hague Convention accession and subsequent Supreme Court jurisprudence on grave-risk-exception interpretation operate as an international-procedural overlay on the otherwise PA-label-silent statutory framework."
+  ]
+}

@@ -17,3 +17,13 @@ Pointer pages. We don't reprint other people's work — we tell you where to fin
 ---
 
 *Missing a resource you rely on? [Open a PR.](https://github.com/AntiAlienate/antialienate-knowledge/pulls)*
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
+
+<!-- AA-CROSSLINK-END -->

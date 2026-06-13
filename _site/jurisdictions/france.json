@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "france",
+  "name": "France (République française)",
+  "jurisdiction_code": "FR",
+  "legal_system": "civil-law",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "France is a civil-law jurisdiction whose family courts (juge aux affaires familiales, JAF) operate under the Code civil arts. 371-1 to 373-2-13 (autorité parentale) and the Code de procédure civile. The statutory framework is silent on the 'parental alienation' label as a diagnostic category; the Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant (best-interests-of-the-child standard) to contact-refusal cases. The Haute Autorité de Santé (HAS) has not validated 'aliénation parentale' as a clinical diagnosis. France sits in the institutional-caution camp, with the Conseil supérieur du travail social and Défenseure des droits expressing critique of PA-labelled deflection of domestic-violence allegations.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "critique"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Code civil arts. 371-1 à 373-2-13",
+      "title": "Autorité parentale",
+      "year": 2002,
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/",
+      "relevance": "Primary statutory basis for parental authority and residence — restructured by Loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale. Establishes joint exercise of parental authority (art. 372) and the intérêt supérieur de l'enfant standard."
+    },
+    {
+      "citation": "Code civil art. 373-2-11",
+      "title": "Critères du juge aux affaires familiales",
+      "year": 2002,
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426842",
+      "relevance": "Enumerates criteria the JAF considers including pratique antérieure, sentiments de l'enfant, aptitude des parents — used in contact-refusal litigation."
+    },
+    {
+      "citation": "Loi n° 2010-769 (loi sur les violences faites aux femmes)",
+      "title": "Loi relative aux violences faites spécifiquement aux femmes",
+      "year": 2010,
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000022454032",
+      "relevance": "Introduces ordonnance de protection (Code civil art. 515-9) — central in DV-PA-allegation intersection."
+    },
+    {
+      "citation": "Loi n° 2019-1480 (loi Pradié)",
+      "title": "Loi visant à agir contre les violences au sein de la famille",
+      "year": 2019,
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039684243",
+      "relevance": "Strengthens ordonnance de protection regime and limits contact orders where DV is established — a key plank of the institutional-caution position."
+    },
+    {
+      "citation": "Convention d'Istanbul art. 31",
+      "title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "year": 2014,
+      "url": "https://rm.coe.int/168008482e",
+      "relevance": "Ratified by France 4 July 2014, in force 1 November 2014. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Cour de cassation (chambre civile 1ère)",
+      "seat": "Paris",
+      "role": "Apex court for private-law matters including family law; reviews JAF decisions on appeal via cour d'appel"
+    },
+    {
+      "name": "Conseil constitutionnel",
+      "seat": "Paris",
+      "role": "Constitutional review including QPC (question prioritaire de constitutionnalité) on family-law statutes"
+    },
+    {
+      "name": "Conseil d'État",
+      "seat": "Paris",
+      "role": "Apex administrative court — relevant for HAS rulings and professional-regulator decisions"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1804,
+      "title": "Code civil (Code Napoléon) — puissance paternelle framework",
+      "description": "Code civil promulgated 21 March 1804 under Napoleon Bonaparte establishing the puissance paternelle (paternal authority) framework for parent-child relations. Substantively foundational civil-law code influencing family-law codification across Romance-language jurisdictions globally."
+    },
+    {
+      "year": 1970,
+      "title": "Loi n° 70-459 — puissance paternelle replaced by autorité parentale conjointe",
+      "description": "Loi n° 70-459 du 4 juin 1970 relative à l'autorité parentale replacing 1804 puissance paternelle with autorité parentale conjointe (joint parental authority). Substantively transformative shift to gender-equal parental-rights framework — substantively significant 20th-century French family-law reform."
+    },
+    {
+      "year": 1987,
+      "title": "Loi Malhuret n° 87-570 — joint custody framework after divorce",
+      "description": "Loi n° 87-570 du 22 juillet 1987 (loi Malhuret) introducing joint exercise of parental authority following divorce — substantively significant pre-2002 reform establishing the trajectory toward the current art. 372 joint-exercise framework."
+    },
+    {
+      "year": 1990,
+      "title": "France ratifies UN Convention on the Rights of the Child",
+      "description": "France ratified the UN CRC 7 August 1990. Cour de cassation Civ. 1ère 18 May 2005 (n° 02-16336) recognised direct effect of art. 3-1 (intérêt supérieur de l'enfant) in French law — substantively transformative for child-welfare standard application."
+    },
+    {
+      "year": 2002,
+      "title": "Loi n° 2002-305 — autorité parentale comprehensive reform",
+      "description": "Loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale comprehensively restructuring Code civil arts. 371-1 to 373-2-13. Introduces résidence alternée framework (art. 373-2-9) and modern intérêt supérieur de l'enfant standard. Substantively foundational current parental-authority framework."
+    },
+    {
+      "year": 2010,
+      "title": "Loi n° 2010-769 — ordonnance de protection introduced",
+      "description": "Loi du 9 juillet 2010 relative aux violences faites spécifiquement aux femmes introducing ordonnance de protection (Code civil art. 515-9) — emergency civil-protection-order framework for DV victims. Substantively significant DV-PA-allegation intersection mechanism."
+    },
+    {
+      "year": 2013,
+      "title": "Loi n° 2013-404 — mariage pour tous + same-sex parental authority",
+      "description": "Loi n° 2013-404 du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe extending parental-authority framework to same-sex couples. Substantively significant 21st-century French family-law inclusivity reform."
+    },
+    {
+      "year": 2014,
+      "title": "Istanbul Convention ratification + GREVIO monitoring",
+      "description": "France ratified Council of Europe Istanbul Convention 4 July 2014, in force 1 November 2014. GREVIO Baseline Evaluation Report on France (2019) and subsequent thematic reports critique residual PA-labelled deflection of DV allegations — a key plank of the institutional-caution position."
+    },
+    {
+      "year": 2019,
+      "title": "Loi Pradié n° 2019-1480 — DV framework strengthening",
+      "description": "Loi n° 2019-1480 du 28 décembre 2019 visant à agir contre les violences au sein de la famille strengthening ordonnance de protection regime, limiting contact orders where DV is established, and introducing bracelet anti-rapprochement. Substantively significant DV-protection reform."
+    },
+    {
+      "year": 2023,
+      "title": "Défenseure des droits + CIIVISE — PA institutional-critique register",
+      "description": "Défenseure des droits Claire Hédon and CIIVISE (Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants) issuing public statements characterising 'syndrome d'aliénation parentale' as pseudoscientific and warning of its instrumentalisation to deflect DV allegations. Substantively significant institutional-critique register consistent with European apex-court trajectory (BVerfG 2023, ECtHR rulings)."
+    },
+    {
+      "year": 2022,
+      "title": "Loi n° 2022-1089 (réforme de l'expertise judiciaire) + CNB framework",
+      "description": "Loi n° 2022-1089 du 30 juillet 2022 portant réforme de la justice civile and Conseil National des Barreaux (CNB) framework refining expertise judiciaire framework operationally applicable to expertises psychologiques in JAF proceedings. Substantively significant procedural-reform framework operationally affecting subsequent JAF adjudication of PA-allegation cases — establishing trajectory toward Défenseure des droits + CIIVISE 2023 institutional-critique register."
+    },
+    {
+      "year": 2024,
+      "title": "Cour de cassation + JAF jurisprudence — intérêt supérieur de l'enfant substantive register",
+      "description": "Cour de cassation chambre civile 1ère and JAF courts continue to develop intérêt supérieur de l'enfant jurisprudence under Code civil arts. 371-1 et seq. + Loi Pradié 2019 framework in contact-refusal disputes. Substantive analysis without doctrinal 'aliénation parentale' label adoption — consistent with HAS non-validation and Défenseure des droits institutional-critique register."
+    }
+  ],
+  "structural_findings": [
+    "France operates a structurally distinctive civil-law family-law framework — Code civil arts. 371-1 et seq. + Loi Pradié 2019 + ordonnance de protection regime — with substantive intérêt supérieur de l'enfant analysis without doctrinal 'aliénation parentale' label adoption.",
+    "Institutional position is critique-aligned: Défenseure des droits, CIIVISE, GREVIO France reports converge on warning against PA-instrumentalisation to deflect DV allegations — placing France alongside Germany (BVerfG 2023), Spain (CGPJ guides), and Belgium in the European institutional-critique cluster.",
+    "Haute Autorité de Santé (HAS) has not validated 'aliénation parentale' as a clinical diagnosis — a structurally significant professional-regulator silence consistent with the WHO ICD-11 non-inclusion trajectory."
+  ],
+  "editorial_notes": [
+    "France's institutional-critique register operates without an explicit apex-court ruling characterising PAS as 'überkommen' (unlike Germany BVerfG 1 BvR 1076/23 2023) — the critique is expressed through Défenseure des droits, CIIVISE, and GREVIO reports rather than via Cour de cassation doctrine.",
+    "The Loi Pradié 2019 framework operationally limits PA-labelled deflection of DV allegations by strengthening ordonnance de protection — a procedural rather than doctrinal counter to PASG-style argumentation."
+  ]
+}

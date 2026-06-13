@@ -99,3 +99,17 @@ Held that *tvangsmulkt* (coercive fines) under § 65 must be applied with real t
 *By Alan Markson · Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)*
 
 *Disclaimer: This page summarizes statutory and case-law information for educational purposes. It is not legal advice. Consult a qualified Norwegian family-law attorney (advokat med spesialisering i familierett) for case-specific guidance.*
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+
+<!-- AA-CROSSLINK-END -->

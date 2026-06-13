@@ -1,0 +1,136 @@
+{
+  "schema_version": "1.0",
+  "id": "netherlands",
+  "name": "Netherlands (Koninkrijk der Nederlanden)",
+  "jurisdiction_code": "NL",
+  "legal_system": "civil-law",
+  "language": ["nl"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "The Netherlands is a civil-law jurisdiction whose family courts (rechtbank — sector familie- en jeugdrecht) operate under Boek 1 Burgerlijk Wetboek (BW Book 1) arts. 245-377h and the Wet bevordering voortgezet ouderschap en zorgvuldige scheiding 2009. The statutory framework is silent on the 'parental alienation' label as a diagnostic category. The Hoge Raad has not endorsed PAS as a syndrome but applies belang van het kind under BW 1:247 in contact-refusal cases. The Nederlands Instituut van Psychologen (NIP) and Raad voor Strafrechtstoepassing en Jeugdbescherming (RSJ) have expressed institutional caution. The Bijzonder Curator (special-curator-for-the-child) framework under BW 1:250 provides distinctive child-representation mechanism. Netherlands sits in the institutional-caution camp alongside Germany, France, Italy, Spain — though without an explicit apex-court PAS-critique ruling.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "critique"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Burgerlijk Wetboek (BW) Boek 1 arts. 245-377h",
+      "title": "Personen- en familierecht — ouderlijk gezag en omgang",
+      "year": 1995,
+      "url": "https://wetten.overheid.nl/BWBR0002656",
+      "relevance": "Primary statutory basis for parental authority (ouderlijk gezag) and contact (omgang) — substantively restructured since 1995. Art. 247 establishes ouderlijk gezag framework, art. 377a addresses contact rights, art. 250 establishes bijzonder curator child-representation mechanism."
+    },
+    {
+      "citation": "Wet bevordering voortgezet ouderschap en zorgvuldige scheiding 2009",
+      "title": "Promotion of Continued Parenthood and Careful Divorce Act",
+      "year": 2009,
+      "url": "https://wetten.overheid.nl/BWBR0024729",
+      "relevance": "Effective 1 March 2009. Introduces ouderschapsplan (parenting plan) requirement for divorce, parallel custody continuation post-divorce as default, and emphasis on voortgezet ouderschap (continued parenthood) — substantively transformative reform."
+    },
+    {
+      "citation": "Jeugdwet 2015",
+      "title": "Youth Act 2015",
+      "year": 2015,
+      "url": "https://wetten.overheid.nl/BWBR0034925",
+      "relevance": "Effective 1 January 2015. Decentralises youth-care framework to municipalities (gemeenten) — substantively significant for jeugdbescherming framework intersecting with PA-related disputes."
+    },
+    {
+      "citation": "Wet herziening kinderbeschermingsmaatregelen 2015",
+      "title": "Reform of Child Protection Measures Act",
+      "year": 2015,
+      "url": "https://wetten.overheid.nl/BWBR0033833",
+      "relevance": "Effective 1 January 2015. Restructures child-protection-measures framework (ondertoezichtstelling, uithuisplaatsing) — substantively significant for child-protection-PA-intersection cases."
+    },
+    {
+      "citation": "Istanbul Convention art. 31",
+      "title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "year": 2015,
+      "url": "https://rm.coe.int/168008482e",
+      "relevance": "Ratified by Netherlands 18 November 2015, in force 1 March 2016. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection of DV allegations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Hoge Raad der Nederlanden",
+      "seat": "The Hague",
+      "role": "Apex court for civil and criminal matters including family law; reviews appellate-court decisions via cassation"
+    },
+    {
+      "name": "Gerechtshof (4 appellate courts)",
+      "seat": "Amsterdam, Arnhem-Leeuwarden, Den Bosch, The Hague",
+      "role": "Intermediate appellate courts; jurisprudentially significant for family-law interpretation"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1838,
+      "title": "Burgerlijk Wetboek 1838 — civil-law foundation",
+      "description": "Burgerlijk Wetboek 1838 promulgated establishing civil-law framework influenced by 1804 Code Napoléon. Substantively foundational 19th-century Dutch civil-law code — replaced by 1992 New BW with Boek 1 personen- en familierecht entering force earlier (1970)."
+    },
+    {
+      "year": 1971,
+      "title": "Hoge Raad recognition of child's interest standard",
+      "description": "Hoge Raad jurisprudence 1970s establishing belang van het kind (child's interest) as primary standard in family-law adjudication — substantively significant 20th-century apex-court jurisprudential development preceding BW Boek 1 1995 codification."
+    },
+    {
+      "year": 1984,
+      "title": "Hoge Raad ECLI:NL:HR:1984:AG4847 — joint custody framework",
+      "description": "Hoge Raad 21 December 1984 NJ 1985, 411 establishing joint custody (gezamenlijk gezag) framework — substantively significant pre-1998 apex-court jurisprudence establishing the trajectory toward statutory joint-custody codification."
+    },
+    {
+      "year": 1995,
+      "title": "Netherlands ratifies UN Convention on the Rights of the Child",
+      "description": "Netherlands ratified UN CRC 6 February 1995 (effective 8 March 1995). Substantively significant international child-rights framework — Hoge Raad has recognised art. 3-1 (belang van het kind) direct effect in Dutch law."
+    },
+    {
+      "year": 1998,
+      "title": "Wet bevordering ouderlijk gezag — joint custody statutorily codified",
+      "description": "Wet bevordering ouderlijk gezag en omgang na scheiding 1 January 1998 statutorily codifying joint custody (gezamenlijk gezag) as default post-divorce framework. Substantively transformative reform establishing gender-equal parental-rights framework."
+    },
+    {
+      "year": 2009,
+      "title": "Wet bevordering voortgezet ouderschap en zorgvuldige scheiding 2009",
+      "description": "Wet bevordering voortgezet ouderschap en zorgvuldige scheiding effective 1 March 2009 introducing ouderschapsplan (parenting plan) requirement for divorce, parallel custody continuation post-divorce as default, and emphasis on voortgezet ouderschap. Substantively transformative 21st-century Dutch family-law reform."
+    },
+    {
+      "year": 2014,
+      "title": "Hoge Raad ECLI:NL:HR:2014:91 — contact-refusal apex jurisprudence",
+      "description": "Hoge Raad 17 January 2014 NJ 2014/154 ECLI:NL:HR:2014:91 substantively developing contact-refusal (omgangsweigering) jurisprudence under BW 1:377a — applying belang van het kind standard with apex-court guidance on contact-restoration measures."
+    },
+    {
+      "year": 2015,
+      "title": "Jeugdwet + Wet herziening kinderbeschermingsmaatregelen operational",
+      "description": "Jeugdwet 2015 and Wet herziening kinderbeschermingsmaatregelen effective 1 January 2015 — decentralising youth-care framework to municipalities and restructuring child-protection-measures framework. Substantively significant institutional reform shaping subsequent PA-related dispute resolution within decentralised framework."
+    },
+    {
+      "year": 2016,
+      "title": "Netherlands ratifies Istanbul Convention + GREVIO monitoring trajectory",
+      "description": "Netherlands ratified Council of Europe Istanbul Convention 18 November 2015, in force 1 March 2016. GREVIO Baseline Evaluation Report on the Netherlands (2020) and subsequent thematic reports critique residual PA-labelled deflection of DV allegations — a key plank of the institutional-caution position."
+    },
+    {
+      "year": 2020,
+      "title": "Inspectie Justitie en Veiligheid + RSJ institutional critique on jeugdbescherming",
+      "description": "Inspectie Justitie en Veiligheid and Raad voor Strafrechtstoepassing en Jeugdbescherming (RSJ) institutional reports 2020-2021 critiquing jeugdbescherming framework operation including uithuisplaatsing patterns. Substantively significant institutional-critique register affecting subsequent BW Boek 1 family-court adjudication context."
+    },
+    {
+      "year": 2022,
+      "title": "Parlementaire Ondervragingscommissie Kinderopvangtoeslag + Toeslagenaffaire institutional crisis + uithuisplaatsing review",
+      "description": "Parlementaire Ondervragingscommissie Kinderopvangtoeslag (POK) investigation 2020-2021 + Toeslagenaffaire-related uithuisplaatsing (out-of-home placement) review 2022 — Inspectie Justitie en Veiligheid + Raad voor Strafrechtstoepassing en Jeugdbescherming reports identifying systemic failures in Dutch jeugdbescherming framework. Substantively significant institutional crisis informing subsequent post-2022 family-court adjudication context — establishing trajectory toward 2024 Hoge Raad + NIP institutional-caution register."
+    },
+    {
+      "year": 2024,
+      "title": "Hoge Raad + Gerechtshof jurisprudence — belang van het kind substantive register + NIP institutional caution",
+      "description": "Hoge Raad and Gerechtshof continue developing belang van het kind jurisprudence under BW 1:247 + 1:377a + Wet voortgezet ouderschap 2009 framework. Nederlands Instituut van Psychologen (NIP) institutional caution on PAS-syndromic framing in custody-evaluation reports. Substantive analysis without doctrinal 'oudervervreemding' label adoption — consistent with European institutional-caution cluster."
+    }
+  ],
+  "structural_findings": [
+    "Netherlands operates a structurally distinctive civil-law family-law framework — BW Boek 1 + Wet voortgezet ouderschap 2009 + ouderschapsplan requirement — with substantive belang van het kind analysis without doctrinal 'oudervervreemding' label adoption.",
+    "The Bijzonder Curator (BW 1:250) child-representation mechanism is substantively distinctive globally — operationally significant for child-voice representation in contact-refusal disputes within the institutional-caution framework.",
+    "Institutional position is caution-aligned: NIP psychological-professional caution + RSJ institutional reports + GREVIO Netherlands monitoring converge on warning against PAS-instrumentalisation — placing Netherlands alongside Germany (BVerfG 2023), France (Défenseure des droits 2023), Italy (Cass. civ. 2021-2022), and Spain (CGPJ guides) in the European institutional-critique cluster — though without an explicit apex-court PAS-critique ruling."
+  ],
+  "editorial_notes": [
+    "The Bijzonder Curator framework under BW 1:250 is substantively distinctive globally as a statutorily-established child-representation mechanism — operationally significant for European child-voice framework comparative analysis.",
+    "Netherlands' institutional-caution position operates through GREVIO + NIP + RSJ rather than apex-court doctrinal critique — distinguishing it from Italy (Cass. civ. ord. 13217/2021 + 9691/2022) and Germany (BVerfG 1 BvR 1076/23 2023) doctrinal positions."
+  ]
+}

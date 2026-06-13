@@ -106,3 +106,14 @@ For honest PA advocacy, the case is also a caution. It shows that the highest Br
 - [Migalhas – "Parecer jurídico sobre o PL 1372/23 que pretende revogar..."](https://www.migalhas.com.br/depeso/389895/parecer-juridico-sobre-o-pl-1372-23)
 - [Lei nº 12.318, de 26 de agosto de 2010 – text via CRP-SP](http://www.crpsp.org.br/interjustica/pdfs/Lei-12318_10-Alienacao-Parental.pdf)
 - [Senado Federal – Consulta Pública PL 1372/2023](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=156451)
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+
+<!-- AA-CROSSLINK-END -->

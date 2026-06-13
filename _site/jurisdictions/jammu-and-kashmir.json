@@ -1,0 +1,161 @@
+{
+  "schema_version": "1.0",
+  "id": "jammu-and-kashmir",
+  "name": "Jammu and Kashmir (Indian Union Territory)",
+  "jurisdiction_code": "IN-JK",
+  "legal_system": "mixed",
+  "language": ["ur", "hi", "en", "ks", "dgo"],
+  "language_iso639_3_supplement": ["dgo"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Jammu and Kashmir (J&K) is a South Asian mixed common-law/Islamic-personal-law Indian Union Territory — structurally distinctive globally as the only state-to-Union-Territory constitutional demotion in Indian constitutional history (Jammu and Kashmir Reorganisation Act 2019 effective 31 October 2019, which simultaneously abrogated the Article 370 special-status framework that had operated since 1954 and split the former state of Jammu and Kashmir into two Union Territories: J&K with a legislature and Ladakh without). The reorganisation is judicially upheld but politically contested; final Indian Supreme Court judgment in In Re Article 370 (2023) upheld the constitutional validity of the abrogation in a 5-0 unanimous Constitution Bench ruling. J&K is also one of the central jurisdictions of the broader Kashmir conflict involving Pakistani-administered Azad Kashmir + Gilgit-Baltistan and Chinese-administered Aksai Chin. Family-law framework operates under the dual Indian common-law + Muslim Personal Law (Shariat) Application Act 1937 framework for the predominantly-Muslim (~68%) population; Hindu Marriage Act 1955 framework for ~28% Hindu population; the previously distinct J&K family-law statutes (J&K Hindu Marriage Act, J&K Muslim Personal Law Act) were replaced by Indian central statutes following the 2019 reorganisation. Parental authority and child custody operate under the Guardians and Wards Act 1890 supplemented by personal-law frameworks. The High Court of Jammu and Kashmir and Ladakh is the apex domestic appellate court (also covering Ladakh); final appellate jurisdiction lies with the Supreme Court of India. J&K is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party (signature 6 November 2007, never ratified) — J&K is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Jammu and Kashmir Reorganisation Act 2019",
+      "title": "J&K Reorganisation Act 2019",
+      "year": 2019,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Federal Indian Act effective 31 October 2019 abrogating Article 370 special-status framework, abolishing the State of Jammu and Kashmir, and creating two Union Territories: J&K with a legislature and Ladakh without."
+    },
+    {
+      "citation": "Constitution of India Article 370 (abrogated)",
+      "title": "Constitution of India Article 370",
+      "year": 1949,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Constitution of India Article 370 establishing special autonomous status for Jammu and Kashmir from 1954-2019 — abrogated by Presidential Order C.O. 272 of 5 August 2019 and J&K Reorganisation Act 2019."
+    },
+    {
+      "citation": "Muslim Personal Law (Shariat) Application Act 1937 (applicable in J&K)",
+      "title": "Muslim Personal Law (Shariat) Application Act 1937",
+      "year": 1937,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Muslim Personal Law Act applicable in J&K following the 2019 reorganisation — previously the J&K Muslim Personal Law Act applied."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Jammu and Kashmir and Ladakh",
+      "seat": "Srinagar (summer) / Jammu (winter)",
+      "url": "https://jkhighcourt.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from J&K Union Territory and Ladakh Union Territory."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from J&K."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework for clinical psychology applicable in J&K."
+    }
+  ],
+  "anonymisation_convention": "J&K family-court decisions are anonymised per Indian High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1846,
+      "title": "Treaty of Amritsar + Dogra-Princely-State-of-J&K-+-Maharaja-Gulab-Singh framework",
+      "description": "Treaty of Amritsar 16 March 1846 establishing Dogra Princely State of Jammu and Kashmir under Maharaja Gulab Singh — substantively distinctive Trans-Himalayan Dogra-Princely-State-of-J&K-with-Hindu-ruler-+-Muslim-majority-population framework. Foundational pre-1947-Partition-+-Instrument-of-Accession framework affecting subsequent constitutional-administrative-trajectory and Kashmir-dispute-trajectory."
+    },
+    {
+      "year": 1947,
+      "title": "Instrument of Accession + Maharaja-Hari-Singh-+-conditional-accession framework",
+      "description": "Maharaja Hari Singh signed Instrument of Accession to India 26 October 1947 — substantively distinctive globally Princely-State-with-Muslim-majority-and-Hindu-ruler-acceding-to-India-with-conditional-instrument framework. Foundational substantive Kashmir-dispute framework + First Kashmir War October 1947-January 1949 affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1949,
+      "title": "Constitution of India Article 370 + special-autonomous-status framework",
+      "description": "Constitution of India Article 370 adopted 17 October 1949 establishing special autonomous status for Jammu and Kashmir — substantively distinctive globally only-Indian-state-with-formal-constitutional-special-autonomous-status framework. Foundational substantive 70-year Article 370 framework persisting through 2019 abrogation affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1957,
+      "title": "J&K Constitution adopted + unique-state-level-constitutional-document framework",
+      "description": "Constitution of Jammu and Kashmir adopted 26 January 1957 — substantively distinctive globally only-Indian-state-with-state-level-constitutional-document-within-Indian-Federal-framework framework. Foundational substantive J&K-state-constitution framework persisting through 2019 abrogation affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Kashmir insurgency + Pandit-exodus-+-AFSPA-applicability framework",
+      "description": "Kashmir insurgency 1989-1990 onwards substantively reshaping demographic and family-law-implementation framework — substantively distinctive globally Kashmiri-Pandit-exodus-+-AFSPA-Armed-Forces-Special-Powers-Act-applicability framework. Substantive 35+ year insurgency framework affecting subsequent constitutional-democratic-trajectory through 2019 reorganisation."
+    },
+    {
+      "year": 1992,
+      "title": "India ratifies UN Convention on the Rights of the Child + J&K-applicability framework",
+      "description": "India ratified UNCRC 11 December 1992 with applicability to J&K — establishing best-interests-of-the-child substantive doctrine within Indian-derivative-common-law framework + J&K state-level family-law statutes co-applicability."
+    },
+    {
+      "year": 2007,
+      "title": "India signs Hague Convention 1980 + Indian-non-ratification framework",
+      "description": "India signed Hague Convention 1980 6 November 2007 — substantively distinctive globally only-nuclear-armed-UN-permanent-veto-aspirant-state-never-to-ratify-Hague-Abduction-Convention framework. Substantive Indian-non-Hague-1980 framework persisting through 21st century affecting subsequent cross-border-jurisdiction-practice for J&K."
+    },
+    {
+      "year": 2019,
+      "title": "Article 370 abrogation + J&K-Reorganisation-Act + state-to-Union-Territory-demotion framework",
+      "description": "Presidential Order C.O. 272 of 5 August 2019 abrogated Article 370 special-status framework — substantively distinctive globally only-state-to-Union-Territory-constitutional-demotion-in-Indian-constitutional-history framework. J&K Reorganisation Act 2019 effective 31 October 2019 abolished the State of Jammu and Kashmir and created two Union Territories: J&K with a legislature and Ladakh without. Foundational substantive post-Article-370 framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "In Re Article 370 + Indian-Supreme-Court-Constitution-Bench-5-0-unanimous-upholding framework",
+      "description": "Indian Supreme Court Constitution Bench judgment In Re Article 370 (2023) 11 December 2023 unanimously upheld the constitutional validity of the Article 370 abrogation 5-0 — substantively distinctive globally only-modern-apex-court-constitutional-validation-of-state-restructuring-decision framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Lieutenant Governor framework + UT-level family-court framework + Indian-Personal-Law applicability framework",
+      "description": "J&K Lieutenant Governor (Manoj Sinha) framework continuing through 2022 under post-Article-370 Union Territory governance framework. UT-level family-court framework substantively significant institutional context. Indian-Personal-Law applicability framework substantively significant for family-law adjudication including Muslim Personal Law (Shariat) Application Act 1937 + Hindu Marriage Act 1955 framework. Substantively significant South Asian Union Territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "High Court of Jammu and Kashmir and Ladakh + Supreme Court — best-interests-of-the-child substantive register + post-Article-370-+-Kashmir-conflict-three-nuclear-state context framework",
+      "description": "High Court of Jammu and Kashmir and Ladakh and Supreme Court of India continue to develop best-interests-of-the-child jurisprudence under Muslim Personal Law (Shariat) Application Act 1937 + Hindu Marriage Act 1955 + Guardians and Wards Act 1890 + J&K Reorganisation Act 2019 framework in custody disputes within continuing Kashmir-conflict-three-nuclear-state context (India, Pakistan, China) + post-Article-370-Union-Territory framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Jammu and Kashmir operates a mixed Indian common-law + Muslim Personal Law (Shariat) + Hindu Personal Law framework — places J&K in the Indian Union Territory cluster.",
+    "Only state-to-Union-Territory constitutional demotion in Indian constitutional history is structurally distinctive globally — only modern formal constitutional state-to-Union-Territory demotion.",
+    "Article 370 abrogation framework (2019) is structurally distinctive globally — modern abrogation of constitutional special-status framework operating since 1954.",
+    "In Re Article 370 Indian Supreme Court 5-0 unanimous upholding (2023) is structurally distinctive — modern apex-court constitutional validation of state-restructuring decision.",
+    "Kashmir conflict integration with Pakistani-administered Azad Kashmir + Gilgit-Baltistan and Chinese-administered Aksai Chin is structurally distinctive globally — only state-level territorial conflict involving three nuclear-armed neighbouring states.",
+    "Loss of distinct J&K family-law statutes (J&K Hindu Marriage Act, J&K Muslim Personal Law Act) following 2019 reorganisation is structurally distinctive — only modern formal replacement of distinct state-level personal-law statutes by central Indian statutes.",
+    "Indian non-Hague-Convention-1980-ratification status (signed 2007, never ratified) is structurally distinctive — only nuclear-armed UN-permanent-veto-aspirant state never to ratify the Hague Abduction Convention."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:pakistan",
+    "jurisdiction:china",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "High Court of Jammu and Kashmir and Ladakh",
+      "url": "https://jkhighcourt.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    },
+    {
+      "title": "India Code",
+      "url": "https://www.indiacode.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    },
+    {
+      "title": "Supreme Court of India",
+      "url": "https://main.sci.gov.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Jammu and Kashmir jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Treaty-of-Amritsar-1846-to-continuing-post-Article-370 trajectory: 1846-Treaty-of-Amritsar-+-Dogra-Princely-State + 1947-Instrument-of-Accession + 1949-Article-370 + 1957-J&K-Constitution + 1990-Kashmir-insurgency-+-Pandit-exodus + 1992-India-UNCRC-ratification + 2007-India-signs-Hague-Convention-+-non-ratification + 2019-Article-370-abrogation-+-J&K-Reorganisation-Act + 2023-In-Re-Article-370-Supreme-Court-unanimous-upholding + 2024-High-Court-of-J&K-and-Ladakh-+-Supreme-Court-best-interests.",
+    "Mixed Indian common-law/Muslim Personal Law/Hindu Personal Law South Asian Union Territory (Indian Constitution + Article 370 abrogation 2019 + J&K Reorganisation Act 2019 + Muslim Personal Law (Shariat) Application Act 1937 + Hindu Marriage Act 1955 + In Re Article 370 Supreme Court 2023 + Indian non-Hague-1980). Only state-to-Union-Territory constitutional demotion in Indian constitutional history + modern abrogation of constitutional special-status framework operating since 1954 + central jurisdiction of Kashmir conflict involving three nuclear-armed states + only nuclear-armed UN-permanent-veto-aspirant state never to ratify Hague Abduction Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interests-of-the-child analysis under Muslim Personal Law (Shariat) Application Act 1937 + Hindu Marriage Act 1955 + Guardians and Wards Act 1890 + J&K Reorganisation Act 2019 framework without doctrinal 'parental alienation' label.",
+    "Joins South-Asian + mixed-Indian-common-law/personal-law + Indian-Union-Territory-cluster + state-to-UT-demotion-globally-distinctive-only-in-Indian-constitutional-history + Article-370-abrogation-2019-globally-distinctive + In-Re-Article-370-Indian-Supreme-Court-5-0-unanimous-upholding-2023-only-modern-apex-court-constitutional-validation-of-state-restructuring + Kashmir-conflict-three-nuclear-state-jurisdiction-India-Pakistan-China-globally-distinctive + Treaty-of-Amritsar-1846-Dogra-Princely-State-with-Muslim-majority-+-Hindu-ruler + Instrument-of-Accession-1947-+-First-Kashmir-War + J&K-Constitution-1957-only-Indian-state-with-state-level-constitutional-document + Kashmir-insurgency-1989-1990-+-Pandit-exodus-+-AFSPA-applicability + India-signs-Hague-Convention-2007-never-ratified-only-nuclear-armed-UN-P5-aspirant-distinctive + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

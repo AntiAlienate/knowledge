@@ -173,3 +173,17 @@ See repo's jurisdiction-specific entries for national framework details:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not legal advice. Cross-border PA cases require specialized counsel familiar with the relevant Hague + EU + national framework intersection.
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+
+<!-- AA-CROSSLINK-END -->

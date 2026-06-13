@@ -102,3 +102,14 @@ Educational fiction. **Not clinical or legal advice.** The story is illustrative
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Munchausen By Proxy And Parental Alienation The Dangerous Overlap](https://www.antialienate.com/blog/munchausen-by-proxy-and-parental-alienation-the-dangerous-overlap)
+- [Weaponizing Illness Parental Alienation](https://www.antialienate.com/blog/weaponizing-illness-parental-alienation)
+
+<!-- AA-CROSSLINK-END -->

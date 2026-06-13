@@ -9,3 +9,13 @@ Practical tooling references for targeted parents, self-represented litigants, a
 ---
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Self Care For Targeted Parents Beyond Surviving](https://www.antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving)
+
+<!-- AA-CROSSLINK-END -->

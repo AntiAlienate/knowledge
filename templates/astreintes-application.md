@@ -73,3 +73,14 @@ It's not punishment for past breaches (use ordinary contempt for that — see yo
 **Disclaimer.** This is a starter template, not legal advice. Adapt to your jurisdiction and case facts. Have a licensed practitioner review before filing. Statutes and procedural rules vary and update — verify against primary source.
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Financial Cost Parental Alienation Funding Defense](https://www.antialienate.com/blog/financial-cost-parental-alienation-funding-defense)
+- [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
+
+<!-- AA-CROSSLINK-END -->

@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "eritrea",
+  "name": "Eritrea (State of Eritrea / دولة إريتريا / ሃገረ ኤርትራ)",
+  "jurisdiction_code": "ER",
+  "legal_system": "mixed",
+  "language": ["ti", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Eritrea is a Horn of Africa mixed-legal-system republic combining Italian-civil-law substantive heritage (via 1890-1941 Italian colonial inheritance) with English common-law procedural inheritance (post-1941 British administration), customary-law jurisdiction (operating across various ethnic communities including Tigrinya, Tigre, Saho, Bilen, Rashaida), and Sharia jurisdiction for Muslim personal-status matters. Family-law framework operates under the Civil Code 1991 (Transitional, drawing on Ethiopian Civil Code 1960 heritage) and the Customary Law Code framework. Parental authority and child custody are governed by Civil Code provisions and customary-law applied via Community Courts. The Supreme Court of Eritrea is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court and Community Courts. Psychology profession regulation operates through the Ministry of Health framework. Eritrea is silent on 'parental alienation' as a statutory label. Eritrea is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Civil Code 1991 (Transitional)",
+      "title": "Civil Code (Transitional)",
+      "year": 1991,
+      "url": "https://www.shabait.com/",
+      "relevance": "Transitional Civil Code drawing on Ethiopian Civil Code 1960 heritage adopted upon de facto independence."
+    },
+    {
+      "citation": "Customary Law Code framework",
+      "title": "Customary Law Code framework",
+      "year": 1995,
+      "url": "https://www.shabait.com/",
+      "relevance": "Federal framework codifying customary-law provisions across multiple ethnic communities."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Eritrea",
+      "seat": "Asmara",
+      "url": "",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Eritrea",
+      "url": "https://www.shabait.com/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Eritrean family-court decisions are anonymised per Supreme Court practice using initials where available.",
+  "key_developments": [
+    {
+      "year": 1890,
+      "title": "Italian colonial framework + 1890-1941 Italian-civil-law-heritage establishment",
+      "description": "Eritrea established as Italian colony 1 January 1890 — substantively distinctive Horn-of-Africa Italian-civil-law-substantive-heritage framework persisting through 1941 British occupation. Foundational Italian-civil-law substrate affecting subsequent multi-layer legal-system framework."
+    },
+    {
+      "year": 1941,
+      "title": "British administration 1941-1952 + English common-law-procedural inheritance",
+      "description": "British military administration of Eritrea 1941-1952 substantively introducing English common-law procedural inheritance — substantively distinctive layered colonial-inheritance framework. Subsequent UN trusteeship arrangement 1952 establishing federation with Ethiopia."
+    },
+    {
+      "year": 1962,
+      "title": "Ethiopian annexation + Eritrean War of Independence trigger",
+      "description": "Emperor Haile Selassie annexed Eritrea 14 November 1962 dissolving federation framework — substantively distinctive Horn-of-Africa-annexation framework triggering Eritrean War of Independence 1961-1991 (30-year-war). Substantive 30-year armed-conflict framework affecting demographic and family-law-implementation framework."
+    },
+    {
+      "year": 1991,
+      "title": "De facto independence + Transitional Civil Code + EPLF victory",
+      "description": "Eritrea achieved de facto independence 24 May 1991 after 30-year War of Independence from Ethiopia — Eritrean People's Liberation Front (EPLF) led by Isaias Afwerki victorious. Transitional Civil Code adopted drawing on Ethiopian Civil Code 1960 heritage. Substantive 30-year-armed-conflict-victory framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1993,
+      "title": "Independence referendum + UN recognition",
+      "description": "Independence referendum 23-25 April 1993 confirmed Eritrean sovereignty (99.83% in favour). UN recognition 28 May 1993. Substantively distinctive Horn-of-Africa-secession-by-referendum framework establishing contemporary sovereign-state framework. Isaias Afwerki presidency since 1993 (continuing 2026 — over 33 years)."
+    },
+    {
+      "year": 1994,
+      "title": "Eritrea ratifies UN Convention on the Rights of the Child",
+      "description": "Eritrea ratified the UNCRC on 3 August 1994 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration applied through Civil Code 1991 + customary-law framework."
+    },
+    {
+      "year": 1995,
+      "title": "Customary Law Code framework + multi-ethnic-community-codification",
+      "description": "Federal framework codifying customary-law provisions across multiple ethnic communities (Tigrinya, Tigre, Saho, Bilen, Rashaida). Substantively distinctive Horn-of-Africa multi-ethnic-customary-law-codification framework operating alongside Civil Code and Sharia jurisdictions."
+    },
+    {
+      "year": 1997,
+      "title": "Constitution 1997 ratified-but-unimplemented + ratified-unimplemented-distinctive framework",
+      "description": "Eritrean Constitution adopted 23 May 1997 but never implemented — substantively distinctive globally state-with-ratified-but-unimplemented-constitution framework. Substantively significant constitutional-democratic-failure pattern persisting through 21st century affecting family-law-implementation framework."
+    },
+    {
+      "year": 1998,
+      "title": "Eritrean-Ethiopian War 1998-2000 + Algiers Agreement + border-conflict-context",
+      "description": "Eritrean-Ethiopian War 6 May 1998 – 18 June 2000 over disputed Badme region. Algiers Agreement 12 December 2000 ending conflict. Subsequent Eritrea-Ethiopia normalisation 9 July 2018 (Asmara-Addis-Ababa Joint Declaration) substantively reshaping Horn-of-Africa-cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2023,
+      "title": "Tigray War involvement framework + UN-COI continuing engagement + diaspora framework",
+      "description": "Eritrea Tigray War (2020-2022) involvement framework substantively significant Horn of Africa institutional context affecting demographic and family-law adjudication including IDP/refugee cases. UN Commission of Inquiry on Human Rights in Eritrea (UN-COI) continuing engagement substantively significant institutional context. Diaspora framework substantively significant for cross-border family-law adjudication. Substantively significant Horn of Africa institutional context."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court of Eritrea + Community Courts + Sharia — substantive register + Isaias Afwerki continuing-presidency-33-years",
+      "description": "Supreme Court of Eritrea and Community Courts (customary-law) and Sharia courts (Muslim personal-status) continue to develop family-law jurisprudence under Civil Code 1991 + Customary Law Code framework in custody disputes without doctrinal 'parental alienation' label adoption. Isaias Afwerki continuing-presidency since 1993 (33+ years) — substantively distinctive ratified-unimplemented-constitution + no-elections-since-independence framework affecting family-law-implementation."
+    }
+  ],
+  "structural_findings": [
+    "Eritrea operates a structurally distinctive multi-layer mixed-legal-system framework — Italian-civil-law substantive (1890-1941) + English common-law procedural (post-1941) + Ethiopian Civil Code 1960 substantive heritage (1962-1991 federation/annexation) + customary-law via Community Courts + Sharia jurisdiction for Muslim personal-status. Most layered colonial-inheritance pattern in the Horn of Africa.",
+    "Italian + English dual-colonial-inheritance shared with Somalia within the corpus.",
+    "Constitution 1997 ratified but not implemented — Eritrea is structurally distinctive within the corpus as a state with ratified but unimplemented constitution.",
+    "Non-Hague Convention status places Eritrea in the non-Hague Horn of Africa cluster."
+  ],
+  "references": [
+    "jurisdiction:ethiopia",
+    "jurisdiction:somalia",
+    "jurisdiction:djibouti",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Shabait — Eritrean government information",
+      "url": "https://www.shabait.com/",
+      "publisher": "Eritrean Government",
+      "language": "ti,ar,en"
+    },
+    {
+      "title": "Refworld (UNHCR) — Eritrea legal documents",
+      "url": "https://www.refworld.org/",
+      "publisher": "UNHCR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Eritrea jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Italian-colonial-to-contemporary trajectory: 1890-Italian-colonial-framework + 1941-British-administration-+-English-common-law-procedural + 1962-Ethiopian-annexation-+-Eritrean-War-of-Independence-trigger + 1991-De-facto-independence-+-Transitional-Civil-Code + 1993-Independence-referendum-+-UN-recognition + 1994-UNCRC-ratification + 1995-Customary-Law-Code-framework + 1997-Constitution-ratified-but-unimplemented + 1998-Eritrean-Ethiopian-War + 2024-Supreme-Court-+-Community-Courts-+-Sharia-+-Afwerki-33-years.",
+    "Multi-layer mixed-legal-system Horn of Africa (Italian-civil-law + English common-law procedural + Ethiopian Civil Code 1960 heritage + customary-law via Community Courts + Sharia + non-Hague). Constitution 1997 ratified-unimplemented distinctive.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive family-law analysis under Civil Code 1991 + Customary Law Code + Sharia framework without doctrinal 'parental alienation' label.",
+    "Joins Horn-of-Africa + multi-layer-colonial-inheritance + Italian-English-dual-colonial (with Somalia) + Constitution-1997-ratified-but-unimplemented-globally-distinctive + Eritrean-War-of-Independence-30-year-1961-1991 + 99.83-percent-referendum-1993 + Isaias-Afwerki-continuing-presidency-33-years-no-elections-since-independence + Eritrean-Ethiopian-War-1998-2000-+-Algiers-2000-+-Asmara-Addis-2018-normalisation + multi-ethnic-Tigrinya-Tigre-Saho-Bilen-Rashaida-customary-law-codification + non-Hague-Convention clusters within the corpus."
+  ]
+}

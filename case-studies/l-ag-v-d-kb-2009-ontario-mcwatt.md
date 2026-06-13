@@ -86,3 +86,17 @@ Third, the case matters as a *contrast point* for cross-jurisdictional analysis.
 - [Justice Canada references list](https://www.justice.gc.ca/eng/rp-pr/jr/mapafvc-cbapcvf/references.html)
 - [Iqbal Law – Ontario PA evidence guide](https://www.iqbalslaw.com/parental-alienation-ontario-evidence-strategy/)
 - Fidler, B. J., & Bala, N. (2010). "Children resisting post-separation contact with a parent: Concepts, controversies, and conundrums." *Family Court Review*, 48(1), 10–47
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+
+<!-- AA-CROSSLINK-END -->

@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "belgium",
+  "name": "Belgium (Royaume de Belgique / Koninkrijk België)",
+  "jurisdiction_code": "BE",
+  "legal_system": "civil-law",
+  "language": ["fr", "nl", "de"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "Belgium is a federal civil-law jurisdiction whose family courts (Tribunal de la famille / Familierechtbank, established 1 September 2014) operate under the Code civil arts. 371-387ter (autorité parentale / ouderlijk gezag) and the Loi du 30 juillet 2013 portant création d'un tribunal de la famille et de la jeunesse. The statutory framework is silent on the 'parental alienation' label. The Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant under Code civil and Constitution art. 22bis. Belgium operationally is a substantively significant institutional-critique data point through the Commission Femmes-Justice and Délégué général aux droits de l'enfant (DGDE) / Kinderrechtencommissaris reports — particularly addressing PA-labelled DV-deflection patterns. The 2006 hébergement égalitaire (egalitarian residence) framework under Loi du 18 juillet 2006 establishes default-shared-residence presumption — substantively distinctive globally.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "critique"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Code civil arts. 371-387ter",
+      "title": "Autorité parentale / Ouderlijk gezag",
+      "year": 1995,
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
+      "relevance": "Primary statutory basis for parental authority — restructured by Loi du 13 avril 1995 establishing autorité parentale conjointe (joint parental authority). Substantively foundational current parental-authority framework."
+    },
+    {
+      "citation": "Loi du 18 juillet 2006 (hébergement égalitaire)",
+      "title": "Loi tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés",
+      "year": 2006,
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
+      "relevance": "Establishes hébergement égalitaire (egalitarian residence / week-on-week-off) as default-presumption post-separation framework — substantively distinctive globally for statutory presumption of shared residence."
+    },
+    {
+      "citation": "Loi du 30 juillet 2013 (Tribunal de la famille et de la jeunesse)",
+      "title": "Loi portant création d'un tribunal de la famille et de la jeunesse",
+      "year": 2013,
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
+      "relevance": "Establishes Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014 — substantively significant institutional reform unifying Belgian family-law procedural framework."
+    },
+    {
+      "citation": "Constitution belge art. 22bis",
+      "title": "Constitutional child-rights framework",
+      "year": 2008,
+      "url": "https://www.const-court.be/en/basic-text/belgian-constitution",
+      "relevance": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification."
+    },
+    {
+      "citation": "Convention d'Istanbul art. 31",
+      "title": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "year": 2016,
+      "url": "https://rm.coe.int/168008482e",
+      "relevance": "Ratified by Belgium 14 March 2016, in force 1 July 2016. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection of DV allegations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Cour de cassation / Hof van Cassatie",
+      "seat": "Brussels",
+      "role": "Apex court for civil matters including family law; reviews appellate-court decisions via cassation"
+    },
+    {
+      "name": "Cour constitutionnelle / Grondwettelijk Hof",
+      "seat": "Brussels",
+      "role": "Constitutional review including Constitution art. 22bis child-rights framework interpretation"
+    },
+    {
+      "name": "Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank",
+      "seat": "Nationwide (within Tribunaux de première instance)",
+      "role": "Specialised first-instance family courts established 1 September 2014 under Loi du 30 juillet 2013"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1804,
+      "title": "Code Napoléon / Belgian Code civil reception",
+      "description": "Code Napoléon 1804 received into Belgian law (continuing through Belgian Independence 1830). Substantively foundational civil-law framework — operational basis for subsequent 19th-20th century family-law codification."
+    },
+    {
+      "year": 1974,
+      "title": "Loi du 1er juillet 1974 — gender equality + parental authority reform",
+      "description": "Loi du 1er juillet 1974 establishing gender equality in marriage and modernising parental-authority framework — substantively significant 20th-century Belgian family-law reform preceding 1995 autorité parentale conjointe codification."
+    },
+    {
+      "year": 1991,
+      "title": "Belgium ratifies UN Convention on the Rights of the Child",
+      "description": "Belgium ratified UN CRC 16 December 1991 (in force 15 January 1992). Substantively significant international child-rights framework — Cour de cassation has recognised art. 3-1 (intérêt supérieur de l'enfant) direct effect in Belgian law."
+    },
+    {
+      "year": 1995,
+      "title": "Loi du 13 avril 1995 — autorité parentale conjointe codification",
+      "description": "Loi du 13 avril 1995 restructuring Code civil arts. 371-387 establishing autorité parentale conjointe (joint parental authority) framework — substantively transformative gender-equal parental-rights reform."
+    },
+    {
+      "year": 2006,
+      "title": "Loi du 18 juillet 2006 — hébergement égalitaire default presumption",
+      "description": "Loi du 18 juillet 2006 tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés establishing hébergement égalitaire (week-on-week-off) as default-presumption post-separation framework. Substantively distinctive globally for statutory presumption of shared residence — substantively significant 21st-century Belgian family-law reform."
+    },
+    {
+      "year": 2008,
+      "title": "Constitution art. 22bis — child-rights constitutional codification",
+      "description": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification reinforcing UN CRC implementation."
+    },
+    {
+      "year": 2013,
+      "title": "Loi du 30 juillet 2013 — Tribunal de la famille et de la jeunesse established",
+      "description": "Loi du 30 juillet 2013 establishing specialised Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014. Substantively significant institutional reform unifying Belgian family-law procedural framework consolidating previously fragmented family-law jurisdiction."
+    },
+    {
+      "year": 2016,
+      "title": "Belgium ratifies Istanbul Convention + GREVIO monitoring trajectory",
+      "description": "Belgium ratified Council of Europe Istanbul Convention 14 March 2016, in force 1 July 2016. GREVIO Baseline Evaluation Report on Belgium (2020) and subsequent thematic reports critique residual PA-labelled deflection of DV allegations — a key plank of the institutional-critique position."
+    },
+    {
+      "year": 2019,
+      "title": "DGDE + Kinderrechtencommissaris reports — institutional-critique register",
+      "description": "Délégué général aux droits de l'enfant (DGDE, Communauté française) and Kinderrechtencommissaris (Vlaamse Gemeenschap) institutional reports 2018-2019 addressing child-rights framework operation including PA-labelled DV-deflection patterns. Substantively significant Belgian institutional-critique register."
+    },
+    {
+      "year": 2021,
+      "title": "Loi du 1er juillet 2021 — féminicide statutory framework + DV-protection reinforcement",
+      "description": "Loi du 1er juillet 2021 + subsequent féminicide statutory framework reform reinforcing DV-protection framework. Substantively significant gender-violence-protection reform shaping subsequent family-law adjudication on DV-PA-allegation intersection cases."
+    },
+    {
+      "year": 2022,
+      "title": "Cour constitutionnelle + Tribunal de la famille jurisprudence — hébergement égalitaire interpretation framework",
+      "description": "Cour constitutionnelle + Tribunal de la famille jurisprudence 2020-2022 substantively developing hébergement égalitaire (Loi du 18 juillet 2006) interpretation framework — addressing implementation issues including DV-intersection cases and hébergement égalitaire-derogation criteria under Code civil arts. 374 et seq. Substantively significant institutional jurisprudential refinement of distinctive Belgian shared-residence default-presumption framework — establishing trajectory toward 2024 Cour de cassation substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Cour de cassation + Tribunal de la famille jurisprudence — intérêt supérieur substantive register",
+      "description": "Cour de cassation and Tribunal de la famille jurisprudence continue developing intérêt supérieur de l'enfant interpretation under Code civil + hébergement égalitaire 2006 + Tribunal de la famille 2013 framework. Substantive analysis without doctrinal 'aliénation parentale / ouderverstoting' label adoption — consistent with European institutional-critique cluster + DGDE/Kinderrechtencommissaris institutional position."
+    }
+  ],
+  "structural_findings": [
+    "Belgium operates a structurally distinctive civil-law family-law framework — Code civil + Loi 2006 hébergement égalitaire default presumption + Tribunal de la famille 2013 institutional unification — with substantive intérêt supérieur de l'enfant analysis without doctrinal 'aliénation parentale / ouderverstoting' label adoption.",
+    "Loi du 18 juillet 2006 hébergement égalitaire default-presumption framework is substantively distinctive globally for statutory presumption of week-on-week-off shared residence — operationally creating Belgium as a critical comparative-law data point for default-shared-residence framework analysis.",
+    "Institutional position is critique-aligned: DGDE + Kinderrechtencommissaris reports + GREVIO Belgium monitoring + Commission Femmes-Justice converge on warning against PA-instrumentalisation to deflect DV allegations — placing Belgium alongside Germany (BVerfG 2023), France (Défenseure des droits 2023), Italy (Cass. civ. 2021-2022), Spain (CGPJ guides), and Netherlands (NIP/RSJ) in the European institutional-critique cluster."
+  ],
+  "editorial_notes": [
+    "Belgium's Loi du 18 juillet 2006 hébergement égalitaire default-presumption framework operationally distinguishes Belgium from neighbouring European jurisdictions (Netherlands, France, Germany) — making Belgium a critical comparative-law data point for default-shared-residence legislative architecture.",
+    "Tripartite linguistic-communautaire structure (Communauté française + Vlaamse Gemeenschap + Deutschsprachige Gemeinschaft) operationally creates parallel DGDE / Kinderrechtencommissaris institutional frameworks — substantively distinctive globally for community-level child-rights ombudsperson structure."
+  ]
+}

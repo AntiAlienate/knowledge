@@ -66,3 +66,17 @@ Judges decide on patterns, not on speeches.
 **Disclaimer.** This is a starter template, not legal advice. Adapt to your jurisdiction and case facts. Have a licensed practitioner review before filing. Statutes and procedural rules vary and update — verify against primary source.
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+- [Parental Alienation Against Mother](https://www.antialienate.com/blog/parental-alienation-against-mother)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+
+<!-- AA-CROSSLINK-END -->

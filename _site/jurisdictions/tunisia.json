@@ -1,0 +1,154 @@
+{
+  "schema_version": "1.0",
+  "id": "tunisia",
+  "name": "Tunisia (Republic of Tunisia / الجمهورية التونسية)",
+  "jurisdiction_code": "TN",
+  "legal_system": "mixed",
+  "language": ["ar", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Tunisia is a North African mixed-legal-system republic combining French civil-law substantive heritage (via Protectorate inheritance) with Maliki-school Islamic-law personal-status jurisdiction codified in the Code of Personal Status 1956 (Majalla al-Ahwal al-Shakhsiyya). Tunisia's 1956 Code is structurally distinctive as the most progressive MENA-region family-law statute — abolishing polygamy outright (art. 18), requiring judicial-only divorce, codifying gender equality in inheritance and child custody. Custody (hadana) and guardianship (wilaya) are governed by Code of Personal Status arts. 54-67. The Court of Cassation (محكمة التعقيب) is the apex court for civil and criminal matters; the Constitutional Court (المحكمة الدستورية) operates constitutional review. Family-law matters are heard at first instance in Family Sections of the Court of First Instance. Psychology profession is regulated through the Ministry of Health framework. Tunisia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Code of Personal Status art. 67. Tunisia acceded to the Hague Convention 1980 effective 1 July 2017.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Code of Personal Status 1956 arts. 54-67",
+      "title": "Code of Personal Status — Custody and guardianship",
+      "year": 1956,
+      "url": "https://www.justice.gov.tn/",
+      "relevance": "Federal Personal Status Code — structurally distinctive as most progressive MENA-region statute. Arts. 54-67 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "citation": "Child Protection Code 1995",
+      "title": "Child Protection Code",
+      "year": 1995,
+      "url": "https://www.justice.gov.tn/",
+      "relevance": "Federal children's protection code aligned with UNCRC obligations."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Cassation (محكمة التعقيب)",
+      "seat": "Tunis",
+      "url": "https://www.cassation.tn/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (المحكمة الدستورية)",
+      "seat": "Tunis",
+      "url": "https://www.cour-constitutionnelle.tn/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Tunisia",
+      "url": "https://www.sante.gov.tn/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    },
+    {
+      "name": "Tunisian Association of Clinical Psychology",
+      "url": "https://www.atpc.tn/",
+      "role": "Peak professional association for clinical psychologists in Tunisia."
+    }
+  ],
+  "anonymisation_convention": "Tunisian family-court decisions are anonymised per Court of Cassation practice using initials.",
+  "key_developments": [
+    {
+      "year": 1956,
+      "title": "Tunisia independence + Bourguiba + Code of Personal Status",
+      "description": "Tunisia independence 20 March 1956 from France — Habib Bourguiba first president. Landmark Code of Personal Status (Majalla al-Ahwal al-Shakhsiyya) enacted 13 August 1956 — abolishing polygamy (art. 18), codifying judicial-only divorce, requiring gender equality in inheritance and child custody. Substantively distinctive globally most-progressive-MENA-region family-law statute. Arts. 54-67 govern hadana and wilaya."
+    },
+    {
+      "year": 1959,
+      "title": "Constitution 1959 + presidential-republic framework",
+      "description": "Constitution of Tunisia 1959 adopted 1 June 1959 establishing presidential-republic framework. Foundational pre-1987-Ben-Ali framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1987,
+      "title": "Ben Ali bloodless-coup + 23-year-authoritarian framework",
+      "description": "Ben Ali bloodless-coup 7 November 1987 ending Bourguiba presidency — substantively distinctive Maghreb extended-authoritarian framework 1987-2011 (23 years). Substantive substantial 'Ben Ali era' framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1992,
+      "title": "Tunisia ratifies UN Convention on the Rights of the Child",
+      "description": "Tunisia ratified the UNCRC on 30 January 1992 (with reservations consistent with Islamic Sharia) — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 1995 Child Protection Code substantive doctrine."
+    },
+    {
+      "year": 1995,
+      "title": "Child Protection Code + UNCRC-aligned framework",
+      "description": "Federal Child Protection Code enacted 9 November 1995 aligned with UNCRC obligations. Substantively significant child-protection-framework consolidation within Maghreb framework. Art. 67 codifies child's-best-interests standard."
+    },
+    {
+      "year": 2010,
+      "title": "Tunisian Revolution + Arab-Spring-trigger + Ben-Ali-fall framework",
+      "description": "Tunisian Revolution 17 December 2010 – 14 January 2011 ending Ben Ali era — substantively distinctive globally Arab-Spring-trigger framework. Ben Ali exile 14 January 2011. Substantively significant 21st-century MENA-region democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2014,
+      "title": "Constitution of Tunisia 2014 + Second-Republic + democratic-trajectory framework",
+      "description": "Constitution of Tunisia 2014 adopted 26 January 2014 substantively reforming political-institutional framework establishing Second Republic. Substantive Tunisian-Quartet Nobel Peace Prize 2015 recognition. Substantively significant Arab-Spring-democratic-success framework."
+    },
+    {
+      "year": 2017,
+      "title": "Hague Convention 1980 accession",
+      "description": "Tunisia acceded to the Hague Convention 1980 effective 1 July 2017 — substantively significant Hague MENA-region accession (alongside Morocco and Israel) affecting cross-border-jurisdiction-practice with France and other Hague-party states."
+    },
+    {
+      "year": 2021,
+      "title": "Saied 2021 self-coup + Constitution 2022 + democratic-backsliding framework",
+      "description": "Saied 2021 self-coup 25 July 2021 — Kaïs Saied suspended parliament substantively reshaping political-institutional framework. Constitution 2022 adopted 25 July 2022 by referendum (94.6% in favour with 30.5% turnout) substantively reverting to presidential-system framework. Substantively distinctive Arab-Spring-democratic-backsliding framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Code of Personal Status implementation jurisprudence + Délégué Général à la Protection de l'Enfance framework",
+      "description": "Multiple Cour de Cassation decisions 2022-2023 developing Code of Personal Status arts. 54-67 ḥaḍāna (custody) framework interpretation including allegations of one-parent obstruction of the other-parent relationship. Délégué Général à la Protection de l'Enfance institutional framework addressing PA-related issues within Child Protection Code 1995 + Code of Personal Status framework. Substantively significant Maghreb institutional jurisprudential development establishing trajectory toward 2024 Saied re-election substantive register."
+    },
+    {
+      "year": 2024,
+      "title": "Cour de Cassation + Cour Constitutionnelle — child's-best-interests substantive register + Saied re-election",
+      "description": "Cour de Cassation and Cour Constitutionnelle continue to develop child's-best-interests jurisprudence under Code of Personal Status arts. 54-67 + art. 67 + Child Protection Code 1995 + Hague Convention 1980 framework in custody disputes within Saied presidency. Kaïs Saied re-elected 6 October 2024 (90% in contested election). Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Tunisia operates a structurally distinctive Maliki-Islamic-law family-law framework with the 1956 Code of Personal Status — most progressive MENA-region family-law statute within the corpus, abolishing polygamy at independence (50+ years before regional comparators).",
+    "Hague Convention 1980 accession 2017 places Tunisia in the Hague MENA cluster alongside Morocco and Israel.",
+    "Mixed-legal-system framework (French civil-law substantive + Maliki personal-status) reflects Protectorate-inheritance heritage shared with Morocco and Algeria within the corpus."
+  ],
+  "references": [
+    "jurisdiction:morocco",
+    "jurisdiction:algeria",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Court of Cassation",
+      "url": "https://www.cassation.tn/",
+      "publisher": "Court of Cassation",
+      "language": "ar,fr"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.cour-constitutionnelle.tn/",
+      "publisher": "Constitutional Court",
+      "language": "ar,fr"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.justice.gov.tn/",
+      "publisher": "Ministry of Justice",
+      "language": "ar,fr"
+    }
+  ],
+  "editorial_notes": [
+    "Tunisia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Bourguiba-to-Saied trajectory: 1956-Tunisia-independence-+-Bourguiba-+-Code-of-Personal-Status + 1959-Constitution-+-presidential-republic + 1987-Ben-Ali-bloodless-coup-+-23-year-authoritarian + 1992-UNCRC-ratification + 1995-Child-Protection-Code + 2010-Tunisian-Revolution-+-Arab-Spring-trigger-+-Ben-Ali-fall + 2014-Constitution-of-Tunisia-+-Second-Republic + 2017-Hague-Convention-1980-accession + 2021-Saied-2021-self-coup-+-Constitution-2022-+-democratic-backsliding + 2024-Cour-de-Cassation-+-Saied-re-election.",
+    "Mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Code of Personal Status 1956 + Child Protection Code 1995 + Hague Convention 1980 accession 2017.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-best-interests analysis under Code of Personal Status arts. 54-67 + art. 67 + Child Protection Code 1995 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
+    "Joins North-African/Maghreb + Maliki Islamic-law + Protectorate-inheritance + Code-of-Personal-Status-1956-most-progressive-MENA-region-50-years-before-regional-comparators-distinctive + Bourguiba-23-year-1956-1987 + Ben-Ali-23-year-authoritarian-1987-2011 + Tunisian-Revolution-2010-2011-Arab-Spring-trigger-distinctive + Tunisian-Quartet-Nobel-Peace-Prize-2015 + Saied-2021-self-coup-+-democratic-backsliding-distinctive + Hague-Convention-1980-accession-2017-Maghreb (with Morocco) clusters within the corpus."
+  ]
+}

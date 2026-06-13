@@ -1,0 +1,142 @@
+{
+  "schema_version": "1.0",
+  "id": "mali",
+  "name": "Mali (Republic of Mali / République du Mali)",
+  "jurisdiction_code": "ML",
+  "legal_system": "mixed",
+  "language": ["fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Mali is a West African Sahel mixed-legal-system republic combining French civil-law substantive heritage (via colonial inheritance) with Islamic-law personal-status provisions (Maliki jurisprudence) and customary-law jurisdiction. Family-law framework operates under the Persons and Family Code 2011 (Code des Personnes et de la Famille, Law 2011-087) — substantial Maliki-influenced revision replacing the 1962 Marriage and Guardianship Code. Parental authority and child custody are governed by Persons and Family Code arts. 504-547. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. Mali is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Mali is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Persons and Family Code 2011 (Law 2011-087) arts. 504-547",
+      "title": "Persons and Family Code — Parental authority and custody",
+      "year": 2011,
+      "url": "https://www.justice.ml/",
+      "relevance": "Federal Persons and Family Code with Maliki Islamic-law influence. Arts. 504-547 govern parental authority and child custody. Replaced 1962 Marriage and Guardianship Code; 2009 draft Code was withdrawn after social mobilisation against secularising reforms."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court (Cour Suprême)",
+      "seat": "Bamako",
+      "url": "https://www.coursupreme.ml/",
+      "role": "Apex court for civil and criminal matters."
+    },
+    {
+      "name": "Constitutional Court (Cour Constitutionnelle)",
+      "seat": "Bamako",
+      "url": "https://www.courconstitutionnelle.ml/",
+      "role": "Constitutional Court with original jurisdiction over constitutional review."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health and Social Development, Mali",
+      "url": "https://www.sante.gov.ml/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Malian family-court decisions are anonymised per Supreme Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1960,
+      "title": "Mali independence + Modibo Keïta founding-presidency + African-Socialism framework",
+      "description": "Mali independence 22 September 1960 from France following Mali Federation dissolution with Senegal. Modibo Keïta first president 1960-1968 substantively distinctive African-Socialism framework. Foundational pre-1968-coup framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1962,
+      "title": "Original Marriage and Guardianship Code",
+      "description": "Federal Marriage and Guardianship Code enacted post-independence drawing on French civil-law substantive heritage. Foundational pre-2011-reform statutory framework affecting family-law-implementation."
+    },
+    {
+      "year": 1968,
+      "title": "Moussa Traoré coup + 23-year-military-rule framework",
+      "description": "Moussa Traoré coup d'état 19 November 1968 ending Keïta presidency — substantively distinctive Sahel military-coup framework. Subsequent 23-year-military-rule 1968-1991 substantially affecting political-institutional framework persisting through subsequent democratic-trajectory."
+    },
+    {
+      "year": 1990,
+      "title": "Mali ratifies UN Convention on the Rights of the Child",
+      "description": "Mali ratified the UNCRC on 20 September 1990 — substantively significant child-rights framework integration. Foundational best-interests-of-the-child framework integration with subsequent 2011 Persons and Family Code substantive doctrine."
+    },
+    {
+      "year": 1991,
+      "title": "1991 Mali coup + democratic-transition + Touré framework",
+      "description": "1991 Mali coup 26 March 1991 led by Amadou Toumani Touré ending Traoré military-rule. Subsequent democratic-transition framework establishing Constitution of Mali 1992. Substantive democratic-trajectory affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2009,
+      "title": "2009 draft Persons and Family Code withdrawn + social-mobilisation framework",
+      "description": "2009 draft Code introducing secularising reforms was withdrawn 27 August 2009 after substantial social mobilisation (Maliki-Islamic-influenced HCIM-led protests). Substantively distinctive Sahel secularising-reform-failure framework. Foundational pre-2011 substantive-revision framework."
+    },
+    {
+      "year": 2011,
+      "title": "Persons and Family Code 2011 + Maliki-Islamic-law-influence framework",
+      "description": "Federal Persons and Family Code enacted Law 2011-087 of 30 December 2011 with substantial Maliki Islamic-law influence — substantive Maliki-influenced revision replacing 1962 Code. Arts. 504-547 govern parental authority and child custody. Substantively distinctive Sahel Maliki-influenced family-law-codification framework."
+    },
+    {
+      "year": 2012,
+      "title": "Mali Civil War 2012-2015 + Tuareg rebellion + Northern-Mali-context + MINUSMA",
+      "description": "Mali Civil War 16 January 2012-onwards — Tuareg MNLA rebellion in Northern Mali + Islamist-jihadist groups (AQIM, Ansar Dine). UN MINUSMA peacekeeping mission 2013-2023. Substantive 21st-century African armed-conflict framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+    },
+    {
+      "year": 2020,
+      "title": "2020 Mali coup + Assimi Goïta + post-MINUSMA framework",
+      "description": "2020 Mali coup 18 August 2020 led by Colonel Assimi Goïta ending Ibrahim Boubacar Keïta presidency. Subsequent 2021 coup 24 May 2021 — Assimi Goïta assumed full power. MINUSMA withdrawal completed 2023. Substantive Sahel post-Western-disengagement-Russian-Wagner-realignment framework affecting cross-border-jurisdiction-practice."
+    },
+    {
+      "year": 2023,
+      "title": "ECOWAS withdrawal + AES (Alliance of Sahel States) framework + 2023 Constitution",
+      "description": "Mali, Burkina Faso, Niger ECOWAS withdrawal January 2024 (announced 28 January 2024) following 2022-2023 sanctions framework — substantively distinctive Sahel regional-alignment realignment framework. Alliance of Sahel States (Alliance des États du Sahel — AES) framework established 2023-2024. Mali 2023 Constitution adopted by referendum 18 June 2023 substantively reforming political-institutional framework. Substantively significant Sahel institutional context affecting subsequent family-law adjudication."
+    },
+    {
+      "year": 2024,
+      "title": "Cour Suprême + Cour Constitutionnelle — interest-of-the-child substantive register + Goïta-transitional framework",
+      "description": "Cour Suprême and Cour Constitutionnelle continue to develop interest-of-the-child jurisprudence under Persons and Family Code 2011 arts. 504-547 framework in custody disputes within Assimi Goïta transitional-government framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Mali operates a mixed-legal-system framework — French civil-law substantive + Maliki Islamic-law personal-status influence (Persons and Family Code 2011) + customary-law jurisdiction. Within the Sahel Francophone West African cluster.",
+    "2009 draft Code withdrawal after social mobilisation reflects structural tension between secularising civil-law modernisation and Maliki Islamic-law personal-status — structurally illustrative of religious-law/civil-law mediation.",
+    "Non-Hague Convention status places Mali in the non-Hague West African cluster."
+  ],
+  "references": [
+    "jurisdiction:senegal",
+    "jurisdiction:burkina-faso",
+    "jurisdiction:niger",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Supreme Court of Mali",
+      "url": "https://www.coursupreme.ml/",
+      "publisher": "Supreme Court",
+      "language": "fr"
+    },
+    {
+      "title": "Constitutional Court",
+      "url": "https://www.courconstitutionnelle.ml/",
+      "publisher": "Constitutional Court",
+      "language": "fr"
+    },
+    {
+      "title": "Ministry of Justice",
+      "url": "https://www.justice.ml/",
+      "publisher": "Ministry of Justice",
+      "language": "fr"
+    }
+  ],
+  "editorial_notes": [
+    "Mali jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Modibo-Keïta-to-Goïta trajectory: 1960-Mali-independence-+-Modibo-Keïta-+-African-Socialism + 1962-Original-Marriage-and-Guardianship-Code + 1968-Moussa-Traoré-coup-+-23-year-military-rule + 1990-UNCRC-ratification + 1991-1991-Mali-coup-+-democratic-transition-+-Touré + 2009-2009-draft-Persons-and-Family-Code-withdrawn-+-social-mobilisation + 2011-Persons-and-Family-Code-+-Maliki-Islamic-law-influence + 2012-Mali-Civil-War-+-Tuareg-rebellion-+-MINUSMA + 2020-2020-Mali-coup-+-Assimi-Goïta-+-post-MINUSMA + 2024-Cour-Suprême-+-Cour-Constitutionnelle-+-Goïta-transitional.",
+    "Mixed-legal-system Sahel Francophone West Africa (French civil-law + Maliki Islamic-law influence + customary-law). Persons and Family Code 2011 + non-Hague Convention.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Persons and Family Code 2011 arts. 504-547 framework without doctrinal 'parental alienation' label.",
+    "Joins Sahel-Francophone-West-African + civil-law + Maliki-Islamic-law-influence + customary-law + Modibo-Keïta-African-Socialism + Moussa-Traoré-23-year-military-rule + 2009-secularising-reform-withdrawn-distinctive + Mali-Civil-War-2012-2015-+-Tuareg-rebellion + MINUSMA-2013-2023 + 2020-Mali-coup-+-Assimi-Goïta-+-post-Western-disengagement-Russian-Wagner-realignment + non-Hague-Convention clusters within the corpus."
+  ]
+}

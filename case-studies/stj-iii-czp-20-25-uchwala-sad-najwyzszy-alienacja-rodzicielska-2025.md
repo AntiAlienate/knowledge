@@ -95,3 +95,17 @@ For honest PA advocacy, the case is a model of what statutory-enforcement reason
 - [Rozparagrafowani.pl – "Sąd Najwyższy – nowe zasady kontaktów z dzieckiem"](https://rozparagrafowani.pl/sad-najwyzszy-nowe-zasady-kontaktow-z-dzieckiem/)
 - [Radca Prawny – "Przegląd orzecznictwa Sądu Najwyższego (wrzesień-październik 2025)"](https://ejournals.eu/en/journal/radca-prawny/article/przeglad-orzecznictwa-sadu-najwyzszego-wrzesien-pazdziernik-2025)
 - [Kancelaria Adwokacka dr Kingi Karsten – "Utrudniony kontakt z dzieckiem – orzeczenie SN z 2025 r."](https://karsten.pl/porady-prawne/utrudniony-kontakt-z-dzieckiem-nowy-targ/)
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
+
+<!-- AA-CROSSLINK-END -->

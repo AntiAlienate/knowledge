@@ -74,3 +74,17 @@ For affected parents, the brutal honesty of the judgment – the judge effective
 - [Family Law Week update](https://www.familylawweek.co.uk/site.aspx?i=ed199793)
 - [Sam King QC & Frankie Shama practitioner guide (free chapter)](https://www.lawbriefpublishing.com/2022/07/free-chapter-from-a-practical-guide-to-parental-alienation-in-private-and-public-law-children-cases-by-sam-king-qc-frankie-shama/)
 - [Karen Woodall – "Responding to cases of post-separation parental rejection" (2021)](https://s70fa8a3935caf190.jimcontent.com/download/version/1726402616/module/8172817981/name/Woodall%20N%20(2021)%20The%20alienated%20child%20Responding%20to%20cases%20of%20post%20separation%20parental%20rejection%20c.pdf)
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+
+<!-- AA-CROSSLINK-END -->

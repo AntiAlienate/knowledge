@@ -1,0 +1,151 @@
+{
+  "schema_version": "1.0",
+  "id": "jersey",
+  "name": "Jersey (Bailiwick of Jersey / Bailliage de Jersey)",
+  "jurisdiction_code": "JE",
+  "legal_system": "mixed",
+  "language": ["en", "fr"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Jersey is a Western European mixed-legal-system Crown Dependency — structurally distinctive globally as a Bailiwick combining Norman customary-law substantive heritage (via 1204 retention by King John when Normandy lost to France) with English common-law procedural inheritance. Jersey law retains substantial Norman customary-law foundations and Latin/Old French legal terminology. Family-law framework operates under the Matrimonial Causes (Jersey) Law 1949, the Children (Jersey) Law 2002 (drawing on English Children Act 1989 model), and customary-law inheritance via the Royal Court of Jersey. Parental responsibility and child custody are governed by Children Law 2002 Part II. The Court of Appeal of Jersey is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Royal Court of Jersey (Family Division) and the Petty Debts Court. Psychology profession is regulated through the Jersey Health and Social Care framework. Jersey is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Law 2002 art. 2. Jersey is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Children (Jersey) Law 2002",
+      "title": "Children (Jersey) Law",
+      "year": 2002,
+      "url": "https://www.jerseylaw.je/",
+      "relevance": "Federal Children Law drawing on English Children Act 1989 model codifying welfare-of-the-child principle (art. 2), parental responsibility, custody, and children's protection provisions."
+    },
+    {
+      "citation": "Matrimonial Causes (Jersey) Law 1949",
+      "title": "Matrimonial Causes (Jersey) Law",
+      "year": 1949,
+      "url": "https://www.jerseylaw.je/",
+      "relevance": "Federal matrimonial-causes statute."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Court of Appeal of Jersey",
+      "seat": "Saint Helier",
+      "url": "https://www.jerseyjudiciary.je/",
+      "role": "Apex domestic appellate court for civil and criminal matters."
+    },
+    {
+      "name": "Judicial Committee of the Privy Council",
+      "seat": "London",
+      "url": "https://www.jcpc.uk/",
+      "role": "Final appellate court for civil and criminal matters from Jersey."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Jersey Health and Social Care",
+      "url": "https://www.gov.je/health/",
+      "role": "Federal regulator of health and allied health professionals including clinical psychology."
+    }
+  ],
+  "anonymisation_convention": "Jersey family-court decisions are anonymised per Court of Appeal practice using initials.",
+  "key_developments": [
+    {
+      "year": 1204,
+      "title": "Retention by King John + Norman customary-law foundation",
+      "description": "Jersey retained by King John of England when Normandy lost to France 1204 — Norman customary-law substantive heritage retained alongside subsequent English common-law procedural inheritance. Substantively distinctive globally Norman-customary-law-substantive-heritage-retention framework persisting through 800+ years. Foundational pre-modern-codification framework affecting contemporary family-law-jurisprudence."
+    },
+    {
+      "year": 1771,
+      "title": "Code of 1771 + Jersey-customary-law-codification framework",
+      "description": "Jersey Code of 1771 substantively codifying Jersey customary-law framework — substantively distinctive Norman-customary-law-codification framework. Foundational pre-modern-statutory framework affecting subsequent Bailiwick judicial-jurisdiction framework."
+    },
+    {
+      "year": 1940,
+      "title": "German occupation 1940-1945 + Channel Islands WWII framework",
+      "description": "German military occupation of Channel Islands including Jersey 1 July 1940 – 9 May 1945 — only British territory occupied by Nazi Germany. Substantively distinctive Western European WWII occupation framework affecting demographic and constitutional-democratic-trajectory. Foundational post-WWII reconstruction framework."
+    },
+    {
+      "year": 1949,
+      "title": "Matrimonial Causes (Jersey) Law 1949 + statutory framework",
+      "description": "Matrimonial Causes (Jersey) Law 1949 enacted — federal matrimonial-causes statute drawing on English-divorce-statute substantive heritage. Foundational statutory framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+    },
+    {
+      "year": 1986,
+      "title": "Hague Convention 1980 territorial extension",
+      "description": "Hague Convention 1980 territorial extension by UK to Jersey effective 1 August 1986 — establishing Crown Dependency Hague Convention jurisdiction framework within UK territorial framework."
+    },
+    {
+      "year": 1991,
+      "title": "UK ratifies UN Convention on the Rights of the Child + Crown Dependency extension",
+      "description": "United Kingdom ratified the UNCRC on 16 December 1991 with extension to Jersey — establishing welfare-of-the-child substantive doctrine within UK-derivative-mixed-legal-system framework applicable to Jersey."
+    },
+    {
+      "year": 2002,
+      "title": "Children (Jersey) Law 2002 + statutory consolidation framework",
+      "description": "Federal Children Law enacted drawing on English Children Act 1989 model codifying welfare-of-the-child principle (art. 2), parental responsibility, custody, and children's protection provisions. Substantively significant statutory-modernisation within Crown Dependency framework."
+    },
+    {
+      "year": 2005,
+      "title": "States of Jersey Law 2005 + parliamentary-modernisation framework",
+      "description": "States of Jersey Law 2005 substantively reforming political-institutional framework — substantive parliamentary-modernisation including separation of executive and legislative functions. Substantive constitutional anchor for contemporary family-law jurisprudence."
+    },
+    {
+      "year": 2017,
+      "title": "Brexit context + EU-Common-Travel-Area + Crown Dependency status framework",
+      "description": "Brexit 23 June 2016 referendum substantively affecting Crown Dependency-EU framework. Jersey not part of EU (Protocol 3 framework) — substantively significant cross-border-jurisdiction-practice continuity through Brexit transition. Substantive cross-border-jurisdiction framework consolidation."
+    },
+    {
+      "year": 2023,
+      "title": "Children's Commissioner + Bailiff of Jersey framework + Independent Jersey Care Inquiry follow-up",
+      "description": "Children's Commissioner (Deborah McMillan) institutional position addressing PA-related issues within Children (Jersey) Law 2002 + Matrimonial Causes (Jersey) Law 1949 framework. Bailiff of Jersey framework substantively significant institutional context. Independent Jersey Care Inquiry 2017 follow-up framework substantively significant institutional context affecting subsequent child-welfare framework reforms. Substantively significant Channel Islands Crown Dependency institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "Court of Appeal of Jersey + JCPC — welfare-of-the-child substantive register + Norman-customary-law framework",
+      "description": "Court of Appeal of Jersey and Judicial Committee of the Privy Council continue to develop welfare-of-the-child jurisprudence under Children (Jersey) Law 2002 art. 2 + Matrimonial Causes (Jersey) Law 1949 + Norman-customary-law framework in custody disputes within Crown Dependency Bailiwick framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Jersey operates a structurally distinctive mixed-legal-system framework — Norman customary-law substantive heritage (via 1204 retention by King John) + English common-law procedural inheritance. Within the Crown Dependency cluster (Jersey + Guernsey + Isle of Man) with structurally distinctive Norman customary-law substantive heritage shared with Guernsey.",
+    "Bailiwick status (with Bailiff as head of judiciary and presiding officer of legislature) is structurally distinctive — Jersey and Guernsey are the only Bailiwicks in the corpus.",
+    "Crown Dependency status (not part of UK) is structurally distinctive.",
+    "Hague Convention 1980 applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status."
+  ],
+  "references": [
+    "jurisdiction:guernsey",
+    "jurisdiction:united-kingdom",
+    "jurisdiction:isle-of-man",
+    "jurisdiction:france",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Jersey Judiciary",
+      "url": "https://www.jerseyjudiciary.je/",
+      "publisher": "Judiciary",
+      "language": "en,fr"
+    },
+    {
+      "title": "Jersey Law",
+      "url": "https://www.jerseylaw.je/",
+      "publisher": "Government of Jersey",
+      "language": "en,fr"
+    },
+    {
+      "title": "Judicial Committee of the Privy Council",
+      "url": "https://www.jcpc.uk/",
+      "publisher": "JCPC",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Jersey jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full 1204-retention-to-contemporary trajectory: 1204-Retention-by-King-John-+-Norman-customary-law-foundation + 1771-Code-of-1771-+-Jersey-customary-law-codification + 1940-German-occupation-1940-1945 + 1949-Matrimonial-Causes-Jersey-Law + 1986-Hague-Convention-1980-territorial-extension + 1991-UK-UNCRC-+-Crown-Dependency-extension + 2002-Children-Jersey-Law + 2005-States-of-Jersey-Law-+-parliamentary-modernisation + 2017-Brexit-+-EU-Common-Travel-Area + 2024-Court-of-Appeal-of-Jersey-+-JCPC-welfare.",
+    "Mixed-legal-system Western European Crown Dependency Bailiwick (Norman customary-law substantive + English common-law procedural + Children Law 2002 + JCPC final-appellate + Hague via UK territorial extension 1986). Norman customary heritage via 1204 retention by King John.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Children (Jersey) Law 2002 art. 2 + Matrimonial Causes (Jersey) Law 1949 + Norman-customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Western-European + mixed-legal-system + Crown-Dependency-Bailiwick-cluster (with Guernsey) + Norman-customary-law-substantive-heritage-1204-retention-800-years-distinctive + Jersey-Code-of-1771-codification + German-occupation-1940-1945-only-British-territory-Nazi-occupied (with Guernsey) + States-of-Jersey-Law-2005-parliamentary-modernisation + JCPC-final-appellate + Brexit-Protocol-3-framework + Hague-via-UK-territorial-extension clusters within the corpus."
+  ]
+}

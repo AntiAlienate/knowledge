@@ -1,0 +1,132 @@
+{
+  "schema_version": "1.0",
+  "id": "sovereign-order-of-malta",
+  "name": "Sovereign Military Order of Malta (Sovrano Militare Ordine di Malta / SMOM)",
+  "jurisdiction_code": "SMM",
+  "legal_system": "religious-law",
+  "language": ["it", "la"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "The Sovereign Military Order of Malta (SMOM) is a Catholic religious-law sovereign entity — structurally distinctive globally as the only sovereign entity recognised under international law without territory (other than two extraterritorial seats in Rome: Palazzo Malta and Villa Magistrale). Founded c. 1099 as the Knights Hospitaller, SMOM operates as a sovereign subject of international law recognised by ~110 UN member states with diplomatic missions and observer status at the UN General Assembly. SMOM is structurally distinctive globally as the only sovereign entity in the corpus without territorial jurisdiction. Family-law framework operates not over a territorial population but over SMOM's ~13,500 members (Knights and Dames) under the Order's Canon Law (Codex Iuris Canonici) and SMOM's own Constitutional Charter and Code (revised 2022). Marriage of SMOM members of the First Class (Knights of Justice/Profess) is generally precluded by the Order's religious vows of celibacy; members of the Second and Third Classes may marry under civil law of their domicile while retaining Order membership. The Order's juridical jurisdiction over its members is exercised by the Order's Tribunals (Tribunale Magistrale). SMOM does not exercise territorial family-law jurisdiction. SMOM is silent on 'parental alienation' as a statutory label. SMOM is not a Hague Convention 1980 party (lacking territory required for Convention applicability).",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "SMOM Constitutional Charter and Code 2022",
+      "title": "SMOM Constitutional Charter and Code",
+      "year": 2022,
+      "url": "https://www.orderofmalta.int/",
+      "relevance": "SMOM Constitutional Charter and Code regulating membership, governance, and juridical framework. Revised 2022."
+    },
+    {
+      "citation": "Codex Iuris Canonici 1983 (applicable to SMOM members)",
+      "title": "Code of Canon Law",
+      "year": 1983,
+      "url": "https://www.vatican.va/",
+      "relevance": "Catholic Code of Canon Law applicable to SMOM members regarding marriage and family-law matters per Catholic religious framework."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Tribunale Magistrale (Order's Tribunals)",
+      "seat": "Rome (Palazzo Malta)",
+      "url": "https://www.orderofmalta.int/",
+      "role": "Apex juridical jurisdiction over Order matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "N/A (SMOM does not exercise territorial professional regulation)",
+      "url": "",
+      "role": "SMOM does not operate a professional psychology regulation framework over a population."
+    }
+  ],
+  "anonymisation_convention": "SMOM internal juridical decisions follow Order practice — not generally publicly available.",
+  "key_developments": [
+    {
+      "year": 1099,
+      "title": "Foundation as Knights Hospitaller + Jerusalem-Crusader-Order framework",
+      "description": "Order founded c. 1099 in Jerusalem as Knights Hospitaller — substantively distinctive globally medieval-Crusader-Order-+-Catholic-religious-order framework. Foundational substantive 925+ year continuously operating Catholic religious-order framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1310,
+      "title": "Knights of Rhodes + Mediterranean-base-Rhodes framework",
+      "description": "Knights Hospitaller established base at Rhodes 1310 (after 1291 Acre fall) — substantively distinctive Mediterranean Knights-of-Rhodes-1310-1522 framework. Foundational pre-1530-Malta-grant framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1530,
+      "title": "Grant of Malta by Charles V + Knights-of-Malta-1530-1798 framework",
+      "description": "Grant of Malta by Charles V of Spain 23 March 1530 — substantively distinctive Mediterranean Knights-of-Malta-1530-1798 framework with 268-year sovereign Malta administration. Foundational pre-1798-Napoleonic-loss framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1798,
+      "title": "Loss of Malta to Napoleon + transition-to-territoryless-sovereignty framework",
+      "description": "Order lost territorial sovereignty of Malta to Napoleon 12 June 1798 — substantively distinctive globally transition-to-territoryless-sovereignty-without-state-extinction framework. Subsequently operated without territory for 225+ years through 21st century. Foundational substantive sovereign-entity-without-territory framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1834,
+      "title": "Permanent-seat-at-Palazzo-Malta-in-Rome + extraterritorial-headquarters framework",
+      "description": "Order established permanent extraterritorial seat at Palazzo Malta in Rome 1834 — substantively distinctive globally only-sovereign-entity-with-extraterritorial-headquarters-on-other-state-territory framework. Subsequent Villa Magistrale as second extraterritorial seat. Foundational substantive extraterritorial-seat framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 1983,
+      "title": "Codex Iuris Canonici 1983 + Vatican-II-Canon-Law-applicability framework",
+      "description": "Codex Iuris Canonici 1983 promulgated by Pope John Paul II 25 January 1983 applicable to SMOM members — substantively significant Catholic-religious-law-applicability framework. Foundational substantive Canon Law framework persisting through subsequent reform-trajectory affecting family-law-implementation for SMOM members."
+    },
+    {
+      "year": 1994,
+      "title": "UN General Assembly Observer Status confirmed + diplomatic-recognition-by-110-states framework",
+      "description": "SMOM granted Observer Status at UN General Assembly 24 August 1994 (formalised) following long-standing diplomatic recognition — substantively distinctive globally non-territorial-sovereign-entity-with-UN-Observer-Status-+-110-state-diplomatic-recognition framework. Substantive international-recognition framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2017,
+      "title": "Boeselager-+-Festing-2017-crisis + Vatican-intervention-Cardinal-Becciu framework",
+      "description": "Boeselager-Festing 2017 crisis with Pope Francis intervention via Cardinal Angelo Becciu — substantively distinctive globally Holy-See-direct-intervention-in-SMOM-governance framework. Subsequent 2017-2022 constitutional reform process affecting subsequent 2022 Constitutional Charter and Code revision framework. Foundational pre-2022-Constitutional-Charter-revision framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 2022,
+      "title": "Constitutional Charter and Code revision + Vatican-driven-comprehensive-revision framework",
+      "description": "Comprehensive revision of SMOM Constitutional Charter and Code 3 September 2022 (Pope Francis-driven) — substantively distinctive globally Vatican-driven-comprehensive-revision-of-non-territorial-sovereign-entity-constitution framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Tribunale Magistrale + 13500-members-First-Second-Third-Class framework",
+      "description": "Tribunale Magistrale (Order's Tribunals) continues to develop juridical jurisdiction over Order matters under Constitutional Charter and Code 2022 + Codex Iuris Canonici 1983 framework for ~13,500 SMOM members across First Class (Knights of Justice/Profess, celibate-vows), Second Class (may marry under civil law), Third Class (may marry under civil law). Substantive analysis. SMOM does not exercise territorial family-law jurisdiction; jurisdiction operates over members rather than over territorial population."
+    }
+  ],
+  "structural_findings": [
+    "SMOM is structurally distinctive globally within the corpus as the only sovereign entity recognised under international law without territory.",
+    "Sovereign subject of international law status combined with non-territorial juridical jurisdiction is structurally distinctive — Order exercises jurisdiction over members, not over territorial population.",
+    "Pre-Vatican-City-State + medieval origin (1099) is structurally distinctive — SMOM predates Vatican City State (1929) and most modern states.",
+    "Catholic religious-law framework operating over global membership rather than territorial population is structurally distinctive — operates as parallel sovereign entity to but distinct from Holy See."
+  ],
+  "references": [
+    "jurisdiction:holy-see",
+    "jurisdiction:italy",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Sovereign Order of Malta",
+      "url": "https://www.orderofmalta.int/",
+      "publisher": "SMOM",
+      "language": "it,la,en,fr,es"
+    },
+    {
+      "title": "Holy See (for Canon Law)",
+      "url": "https://www.vatican.va/",
+      "publisher": "Holy See",
+      "language": "la,it,en"
+    }
+  ],
+  "editorial_notes": [
+    "Sovereign Military Order of Malta (SMOM) jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Knights-Hospitaller-foundation-1099-to-13500-members trajectory: 1099-Foundation-as-Knights-Hospitaller + 1310-Knights-of-Rhodes + 1530-Grant-of-Malta-by-Charles-V + 1798-Loss-of-Malta-to-Napoleon + 1834-Permanent-seat-at-Palazzo-Malta-in-Rome + 1983-Codex-Iuris-Canonici + 1994-UN-General-Assembly-Observer-Status + 2017-Boeselager-Festing-crisis-+-Vatican-intervention + 2022-Constitutional-Charter-and-Code-revision + 2024-Tribunale-Magistrale-+-13500-members.",
+    "Catholic religious-law sovereign entity without territory (Constitutional Charter and Code 2022 + Codex Iuris Canonici 1983 + non-territorial juridical jurisdiction + UN observer status + ~110 state diplomatic recognition + non-Hague-no-territory). Only sovereign entity without territory globally. Predates Vatican City State by 830 years (1099 vs 1929). 925+ years continuously operating Catholic religious-order.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator; non-territorial-juridical-jurisdiction limits applicability of conventional PA-recognition framework. Substantive analysis under Constitutional Charter and Code 2022 + Codex Iuris Canonici 1983 framework for ~13,500 members rather than territorial population.",
+    "Joins religious-law + sovereign-entity-without-territory-globally-distinctive-cluster + Catholic-religious-law + non-territorial-juridical-jurisdiction-over-members-rather-than-territorial-population + 925-years-continuously-operating-medieval-Crusader-Order + Knights-Hospitaller-Jerusalem-1099 + Knights-of-Rhodes-1310-1522 + Knights-of-Malta-1530-1798-Charles-V-grant + Loss-of-Malta-to-Napoleon-1798-+-transition-to-territoryless-sovereignty + Palazzo-Malta-+-Villa-Magistrale-extraterritorial-seats-in-Rome-distinctive + UN-Observer-Status-1994-+-110-state-diplomatic-recognition + Codex-Iuris-Canonici-1983-Catholic-religious-law-applicability + Boeselager-Festing-2017-Vatican-intervention-Cardinal-Becciu + 2022-Constitutional-Charter-and-Code-revision-Pope-Francis-driven + non-Hague-no-territory clusters within the corpus."
+  ]
+}

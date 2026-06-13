@@ -1,0 +1,138 @@
+{
+  "schema_version": "1.0",
+  "id": "somalia",
+  "name": "Somalia (Federal Republic of Somalia / Jamhuuriyadda Federaalka Soomaaliya / جمهورية الصومال الفيدرالية)",
+  "jurisdiction_code": "SO",
+  "legal_system": "mixed",
+  "language": ["so", "ar"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-04",
+  "summary": "Somalia is a Horn of Africa mixed-legal-system federal republic combining Shafi'i Islamic-law personal-status jurisdiction (Somalia being predominantly Muslim) with Italian-civil-law substantive heritage (via 1925-1960 Italian Trusteeship for southern Somalia) and English common-law procedural inheritance (via 1884-1960 British Somaliland Protectorate inheritance in northern regions). Following the 1991 collapse of the central government, customary-law (Xeer) operates as a third layer alongside Sharia and statutory law. Family-law framework operates under the Family Code 1975 (still partly in force) supplemented by Sharia provisions applied via local courts. Parental authority and child custody are governed by Family Code arts. 99-122 and Sharia provisions. The Federal Supreme Court is the apex court for civil and criminal matters; the Constitutional Court (provisional) operates separate constitutional review. Family-law matters are heard at first instance in District Courts, Sharia courts, and customary-law (Xeer) tribunals. Psychology profession regulation is uncertain. Somalia is silent on 'parental alienation' as a statutory label. Somalia is non-Hague Convention.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Code 1975 arts. 99-122",
+      "title": "Family Code — Parental authority and custody",
+      "year": 1975,
+      "url": "https://www.moj.gov.so/",
+      "relevance": "Federal Family Code drawing on civil-law codification with Shafi'i Islamic-law influence. Arts. 99-122 govern parental authority and child custody within the residual framework."
+    },
+    {
+      "citation": "Provisional Constitution 2012",
+      "title": "Provisional Constitution",
+      "year": 2012,
+      "url": "https://www.moj.gov.so/",
+      "relevance": "Provisional Constitution establishing federal framework and recognising Sharia as primary source of law."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Federal Supreme Court",
+      "seat": "Mogadishu",
+      "url": "https://www.moj.gov.so/",
+      "role": "Apex court for civil and criminal matters."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Ministry of Health, Somalia",
+      "url": "https://www.moh.gov.so/",
+      "role": "Federal regulator of health professionals; clinical psychology framework not consistently documented."
+    }
+  ],
+  "anonymisation_convention": "Somali family-court decisions are anonymised per court practice using initials where available.",
+  "key_developments": [
+    {
+      "year": 1960,
+      "title": "Independence and Union",
+      "description": "Somali Republic established 1 July 1960 from union of British Somaliland Protectorate and Italian-administered Somaliland Trust Territory — establishing dual legal-system inheritance. Substantively distinctive Horn-of-Africa Italian-English-dual-colonial-substantive-inheritance framework (with Cameroon-Anglo-French in Africa)."
+    },
+    {
+      "year": 1969,
+      "title": "Siad Barre coup + Marxist-Leninist-Somalia framework",
+      "description": "Siad Barre coup d'état 21 October 1969 — substantively distinctive Horn of Africa Marxist-Leninist framework 1969-1991 (22-year-authoritarianism). Substantive Ogaden War 1977-1978 substantially affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 1975,
+      "title": "Family Code 1975",
+      "description": "Federal Family Code enacted 11 January 1975 under Siad Barre government — incorporated socialist-civil-law elements alongside Shafi'i Islamic-law. Arts. 99-122 govern parental authority and child custody. Foundational substantive-family-law framework persisting through subsequent state-collapse framework."
+    },
+    {
+      "year": 1991,
+      "title": "State collapse and Somaliland declaration",
+      "description": "Central government collapse 26 January 1991 following Siad Barre overthrow — substantively distinctive globally state-collapse framework. Somaliland declared independence 18 May 1991 (not internationally recognised). Customary-law (Xeer) became operative third layer in residual framework. Foundational pre-Provisional-Constitution-2012 framework."
+    },
+    {
+      "year": 1992,
+      "title": "Operation Restore Hope + UNOSOM + humanitarian-intervention framework",
+      "description": "Operation Restore Hope 9 December 1992 — UN UNOSOM peacekeeping mission 1992-1995. Substantively distinctive Horn of Africa 1990s humanitarian-intervention framework substantially affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2002,
+      "title": "Somalia ratifies UN Convention on the Rights of the Child + late-ratification distinctive framework",
+      "description": "Somalia ratified the UNCRC on 1 October 2015 (with reservations consistent with Islamic Sharia) — substantively distinctive globally only-South-Sudan-and-United-States-later-than-Somalia-globally-distinctive framework. Foundational best-interests-of-the-child framework integration."
+    },
+    {
+      "year": 2006,
+      "title": "Islamic Courts Union + Ethiopian-intervention + Al-Shabaab framework",
+      "description": "Islamic Courts Union 2006 substantively distinctive Horn of Africa Islamic-governance-framework. Subsequent Ethiopian invasion December 2006 + Al-Shabaab insurgency 2006-onwards substantively distinctive Horn of Africa armed-conflict framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+    },
+    {
+      "year": 2012,
+      "title": "Provisional Constitution + federal framework",
+      "description": "Provisional Constitution adopted 1 August 2012 establishing federal framework — Sharia recognised as primary source of law. Substantive constitutional anchor for contemporary family-law jurisprudence. Foundational post-state-collapse constitutional framework affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2017,
+      "title": "Mohamed Abdullahi Mohamed (Farmajo) + Hassan Sheikh Mohamud + presidential framework",
+      "description": "Mohamed Abdullahi Mohamed (Farmajo) elected President 8 February 2017. Hassan Sheikh Mohamud re-elected 15 May 2022. Substantive Federal-Member-State framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation framework."
+    },
+    {
+      "year": 2023,
+      "title": "Al-Shabaab framework + Galmudug state framework + UNICEF child-protection coordination",
+      "description": "Al-Shabaab continuing insurgency 2023-2024 substantially affecting Federal Government of Somalia operational framework across south-central regions. Galmudug, Hirshabelle, Jubaland, South West, and Puntland Federal Member State framework continuation. UNICEF Somalia child-protection coordination framework substantively significant for refugee/IDP family-law adjudication including custody contexts. Substantively significant Horn of Africa institutional context affecting Federal Supreme Court framework operationalisation."
+    },
+    {
+      "year": 2024,
+      "title": "Federal Supreme Court + Sharia courts + Xeer tribunals — substantive register + state-rebuilding context",
+      "description": "Federal Supreme Court and Sharia courts and customary-law (Xeer) tribunals continue to develop family-law jurisprudence under Family Code 1975 + Provisional Constitution + Shafi'i Islamic-law + Xeer framework in custody disputes within continuing state-rebuilding context. Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Somalia operates a structurally distinctive triple-layer mixed-legal-system framework — Shafi'i Islamic-law primary + Italian/English civil-common-law inheritance + customary-law (Xeer). Most layered legal-system framework in the African corpus cluster.",
+    "Italian + English dual-colonial-inheritance is structurally distinctive within Africa — Somalia and Cameroon are the only African corpus jurisdictions with explicit dual-colonial-substantive inheritance (Cameroon Anglo-French; Somalia Italian-English).",
+    "Post-1991 state-collapse customary-law (Xeer) operativeness is structurally distinctive within the corpus.",
+    "Non-Hague Convention status places Somalia in the non-Hague Horn of Africa cluster."
+  ],
+  "references": [
+    "jurisdiction:djibouti",
+    "jurisdiction:ethiopia",
+    "jurisdiction:cameroon",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "Ministry of Justice, Somalia",
+      "url": "https://www.moj.gov.so/",
+      "publisher": "Ministry of Justice",
+      "language": "so,ar,en"
+    },
+    {
+      "title": "Refworld (UNHCR) — Somalia legal documents",
+      "url": "https://www.refworld.org/",
+      "publisher": "UNHCR",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Somalia jurisdiction sidecar v1.1 — deepened 2026-06-09 from 4 to 10 key_developments with full Somali-Republic-to-state-rebuilding trajectory: 1960-Independence-and-Union + 1969-Siad-Barre-coup-+-Marxist-Leninist + 1975-Family-Code + 1991-State-collapse-+-Somaliland-declaration + 1992-Operation-Restore-Hope-+-UNOSOM + 2002-2015-UNCRC-late-ratification + 2006-Islamic-Courts-Union-+-Ethiopian-intervention-+-Al-Shabaab + 2012-Provisional-Constitution-+-federal + 2017-Farmajo-+-Hassan-Sheikh-Mohamud + 2024-Federal-Supreme-Court-+-Sharia-+-Xeer.",
+    "Triple-layer mixed-legal-system Horn of Africa (Shafi'i Islamic-law + Italian/English civil-common-law dual-colonial-inheritance + Xeer customary-law). Family Code 1975 + Provisional Constitution 2012 + non-Hague.",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive family-law analysis under Family Code 1975 + Shafi'i Islamic-law + Xeer customary-law framework without doctrinal 'parental alienation' label.",
+    "Joins Horn-of-Africa + triple-layer-distinctive-cluster (with Eritrea) + Italian-English-dual-colonial-substantive-inheritance-distinctive (with Cameroon-Anglo-French in Africa) + Xeer-customary-law-distinctive + state-collapse-1991-+-Somaliland-declaration-1991-not-internationally-recognised + Siad-Barre-Marxist-Leninist-1969-1991-22-year-authoritarianism + Ogaden-War-1977-1978 + Operation-Restore-Hope-UNOSOM-1992-1995 + Islamic-Courts-Union-2006-+-Ethiopian-invasion-+-Al-Shabaab + UNCRC-late-ratification-2015-only-South-Sudan-and-United-States-later-distinctive + non-Hague-Convention clusters within the corpus."
+  ]
+}

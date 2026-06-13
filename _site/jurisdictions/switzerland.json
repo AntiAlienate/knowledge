@@ -1,0 +1,198 @@
+{
+  "schema_version": "1.0",
+  "id": "switzerland",
+  "name": "Switzerland (Schweiz / Suisse / Svizzera)",
+  "jurisdiction_code": "CH",
+  "legal_system": "civil-law",
+  "language": ["de", "fr", "it", "rm"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-03",
+  "summary": "Switzerland is a multilingual civil-law confederation whose family-court framework operates under the federal Zivilgesetzbuch (ZGB) supplemented by cantonal procedural law. Parental authority (elterliche Sorge / autorité parentale) is governed by ZGB arts. 296-298, with joint parental authority the statutory default since the 2014 reform regardless of marital status. Personal contact (persönlicher Verkehr / Besuchsrecht) is governed by ZGB art. 273. The Bundesgericht (BGer / Tribunal fédéral, Lausanne) is the apex court; family-law matters reach BGer principally via Beschwerde in Zivilsachen against cantonal high-court decisions. The KESB (Kindes- und Erwachsenenschutzbehörde / autorité de protection de l'enfant et de l'adulte) framework replaced the cantonal Vormundschaftsbehörden in 2013 and operates as the first-instance child-protection authority across all cantons. Psychology profession is regulated under federal PsyG 2011 (Psychologieberufegesetz, in force 2013), which provides statutory title protection and standardised postgraduate training requirements. Switzerland is silent on 'parental alienation' as a statutory label; BGer practice operates substantively under the Kindeswohl (child-welfare) standard with no apex endorsement of PAS/PA as a diagnostic category.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "ZGB art. 296-298",
+      "title": "Elterliche Sorge / Autorité parentale (Parental authority)",
+      "year": 2014,
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de",
+      "relevance": "Federal civil-code basis for parental authority. Since the 1 July 2014 reform (joint-authority default amendment) joint parental authority applies by default regardless of marital status, with sole authority reserved for circumstances where it serves the child's welfare. Central provisions for any PA-adjacent custody-modification analysis."
+    },
+    {
+      "citation": "ZGB art. 273",
+      "title": "Persönlicher Verkehr / Relations personnelles (Personal contact)",
+      "year": 1976,
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de",
+      "relevance": "Federal civil-code basis for the right of personal contact between non-residential parent and child. Substantive hook for PA-adjacent contact-enforcement disputes. BGer practice treats refusal of contact and obstruction by the residential parent as factors under the Kindeswohl welfare analysis without endorsing PAS as a diagnostic label."
+    },
+    {
+      "citation": "ZGB art. 307-315",
+      "title": "Kindesschutz / Protection de l'enfant (Child protection)",
+      "year": 1976,
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de",
+      "relevance": "Federal civil-code basis for child-protection measures (Beistandschaft, Obhutsentzug, fremdplatzierung). Operationalised by KESB at first instance. Cited in PA-adjacent fact-patterns where sustained alienating conduct triggers protective intervention."
+    },
+    {
+      "citation": "ZPO (Zivilprozessordnung) art. 295-302",
+      "title": "Federal Civil Procedure Code — family-court procedure",
+      "year": 2011,
+      "url": "https://www.fedlex.admin.ch/eli/cc/2010/262/de",
+      "relevance": "Federal civil-procedure framework that since 1 January 2011 unified cantonal civil procedure. Art. 295-302 govern family-court procedure including child-hearing arrangements and expert evidence."
+    },
+    {
+      "citation": "PsyG 2011 (Psychologieberufegesetz)",
+      "title": "Federal Act on Psychology Professions",
+      "year": 2011,
+      "url": "https://www.fedlex.admin.ch/eli/cc/2012/796/de",
+      "relevance": "Federal statute in force 1 April 2013 providing statutory title protection for psychologists and psychotherapists, regulating postgraduate training and the PsyKo (Psychologieberufekommission). Statutory anchor for evaluator-quality in court-appointed psychological assessments in family-court proceedings."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Bundesgericht / Tribunal fédéral / Tribunale federale (BGer)",
+      "seat": "Lausanne / Lucerne",
+      "url": "https://www.bger.ch/",
+      "role": "Federal Supreme Court; final apex appellate jurisdiction over cantonal high-court decisions in civil matters via Beschwerde in Zivilsachen. Family-court matters typically reach BGer after passing through cantonal first-instance + cantonal high-court (Obergericht / Cour suprême)."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Föderation der Schweizer Psychologinnen und Psychologen (FSP) / Fédération Suisse des Psychologues",
+      "url": "https://www.psychologie.ch/",
+      "role": "Peak Swiss professional association for psychologists. Federation of cantonal psychological-association members. Operates ethics code and complaint procedures alongside the statutory PsyG regime."
+    },
+    {
+      "name": "PsyKo (Psychologieberufekommission) — federal statutory commission under PsyG",
+      "url": "https://www.bag.admin.ch/bag/de/home/berufe-im-gesundheitswesen/psychologieberufe.html",
+      "role": "Federal statutory commission established under PsyG 2011 with responsibility for the Federal Register of psychologists/psychotherapists, postgraduate training accreditation, and certain disciplinary matters. Operates under federal Department of Home Affairs (Bundesamt für Gesundheit BAG)."
+    },
+    {
+      "name": "Schweizerische Konferenz für Kindes- und Erwachsenenschutz (KOKES) / Conférence en matière de protection des mineurs et des adultes (COPMA)",
+      "url": "https://www.kokes.ch/",
+      "role": "Inter-cantonal conference for child- and adult-protection. Coordinates KESB practice across the cantons (each canton operates its own KESB structure since 1 January 2013 when the federal protection-of-adults-and-children reform entered into force replacing the prior cantonal Vormundschaftsbehörden)."
+    }
+  ],
+  "anonymisation_convention": "Swiss family-law decisions are anonymised per BGer convention using initials (e.g. 'A.', 'B.', 'X.', 'Y.') or single-letter labels. BGer published decisions ('amtliche Sammlung' BGE / arrêts officiels) routinely strip identifying details. Cantonal high-court family-law decisions follow similar conventions. Sits between strict-statutory (AU FLA s.121) and adult-party-permissive (US) ends of the corpus spectrum.",
+  "key_developments": [
+    {
+      "year": 1291,
+      "title": "Eternal-Alliance + Swiss-Confederation-founding + Rütli-oath framework",
+      "description": "Eternal Alliance 1 August 1291 between Uri, Schwyz, and Unterwalden cantons (Rütli oath) — substantively distinctive globally oldest-continuously-functioning-confederation framework 735+ years through 2026. Foundational pre-1848-modern-federal-state framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1848,
+      "title": "Federal-Constitution-1848 + modern-federal-state framework",
+      "description": "Federal Constitution of Switzerland 12 September 1848 — substantively distinctive Alpine modern-federal-state framework following 1847 Sonderbund War. Foundational substantive 178+ year modern-federal-state framework affecting subsequent constitutional-democratic-trajectory and civil-law tradition."
+    },
+    {
+      "year": 1907,
+      "title": "ZGB-Zivilgesetzbuch + Eugen-Huber + Swiss-Civil-Code-substantive-heritage framework",
+      "description": "Federal Zivilgesetzbuch (ZGB / Swiss Civil Code) enacted 10 December 1907 effective 1 January 1912 drafted by Eugen Huber — substantively distinctive globally Swiss-Civil-Code-as-influential-model-for-civil-law-jurisdictions-globally framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 296-298 governing elterliche Sorge/autorité parentale."
+    },
+    {
+      "year": 1976,
+      "title": "ZGB family-law revision + modern-parental-authority-+-personal-contact framework",
+      "description": "ZGB family-law revision in force 1 January 1978 — substantively significant Alpine modern-parental-authority-+-personal-contact framework under federal civil code. Foundational substantive parental-authority-+-personal-contact framework persisting through subsequent 2014-joint-authority-default-reform reform-trajectory."
+    },
+    {
+      "year": 1997,
+      "title": "Switzerland ratifies UN Convention on the Rights of the Child framework",
+      "description": "Switzerland ratified UNCRC 24 February 1997 — substantively significant Alpine UNCRC-late-ratification framework. Foundational Kindeswohl framework integration with subsequent 2014-joint-parental-authority-default substantive doctrine."
+    },
+    {
+      "year": 2011,
+      "title": "Federal ZPO (Zivilprozessordnung) + PsyG-Psychologieberufegesetz framework",
+      "description": "Unified federal civil procedure (ZPO / Zivilprozessordnung) replaced 26 cantonal civil-procedure codes effective 1 January 2011 — substantively distinctive Alpine federal-civil-procedure-unification framework. PsyG 2011 (Psychologieberufegesetz) enacted establishing federal statutory title protection for psychologists. Foundational substantive federal-civil-procedure + federal-psychology-regulation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2013,
+      "title": "Federal child- and adult-protection reform + KESB-+-PsyG-in-force framework",
+      "description": "Federal child- and adult-protection reform effective 1 January 2013 + PsyG 2011 in force 1 April 2013 — substantively distinctive globally KESB-as-first-instance-child-protection-authority-distinct-from-family-court framework. KESB cantonal authorities (Kindes- und Erwachsenenschutzbehörde) replaced cantonal Vormundschaftsbehörden. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 2014,
+      "title": "Joint-parental-authority-default-reform + ZGB-296-298-amended framework",
+      "description": "ZGB arts. 296-298 amended effective 1 July 2014 to provide joint parental authority by default regardless of marital status — substantively significant Alpine joint-authority-default-reform framework parallel to EU6-cluster joint-authority reforms. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
+    },
+    {
+      "year": 2017,
+      "title": "Joint-child-maintenance-reform + post-separation-parental-obligations-alignment framework",
+      "description": "Further alignment of post-separation parental obligations effective 1 January 2017 — substantively significant Alpine joint-child-maintenance reform framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "KESB reform debate + KOKES coordination framework refinement",
+      "description": "KESB (Kindes- und Erwachsenenschutzbehörde) reform debate 2020-2023 addressing institutional issues in inter-cantonal child-and-adult-protection framework operationally. KOKES (Konferenz für Kindes- und Erwachsenenschutz) coordination framework refinement strengthening inter-cantonal harmonisation. Substantively significant institutional reform within quadrilingual federal framework — establishing trajectory toward 2024 Bundesgericht substantive register on Kindeswohl jurisprudence."
+    },
+    {
+      "year": 2024,
+      "title": "Bundesgericht + KESB + PsyKo — Kindeswohl substantive register + continuing-quadrilingual-framework",
+      "description": "Bundesgericht (BGer), KESB inter-cantonal framework via KOKES, and PsyKo (Psychologieberufekommission) continue to develop Kindeswohl jurisprudence under ZGB arts. 273 + 296-298 + 307-315 + ZPO arts. 295-302 + PsyG 2011 framework in custody disputes within continuing quadrilingual (DE/FR/IT/RM) federal framework. Substantive analysis without doctrinal 'parental alienation' label adoption (unlike Germany BVerfG 1 BvR 1076/23 critique-camp engagement)."
+    }
+  ],
+  "structural_findings": [
+    "Switzerland sits structurally adjacent to Germany within the corpus: civil-law / federal-civil-code framework + 2014 joint-authority-default reform parallel to similar reforms across the EU6 cluster. Unlike Germany, however, the Bundesgericht has not produced a published apex-level engagement with the PAS construct equivalent to the BVerfG 1 BvR 1076/23 critique-camp decision.",
+    "PsyG 2011 statutory title protection regime provides a structurally distinctive evaluator-quality anchor among the corpus: only one of a small set of jurisdictions where psychology profession is regulated at federal-statutory level with mandatory postgraduate training + title protection. Sits alongside HCPC UK + HPCSA SA + APBs IN as a statutory psychology regulator in the corpus.",
+    "Multilingual jurisdiction (DE/FR/IT/RO official languages) operates a quadrilingual legal framework — all federal statutes published in the four languages with equal authority. Cantonal courts operate in the dominant cantonal language(s). Verbatim-quote handling in case studies would require parallel-language presentation if a Swiss case study is added to the corpus.",
+    "KESB framework (since 2013) operates as first-instance child-protection authority distinct from family-court — distinctive among corpus jurisdictions. PA-adjacent fact-patterns may reach the family court via the parental-authority/contact path (ZGB 296/273) or the KESB protection path (ZGB 307-315) in parallel."
+  ],
+  "references": [
+    "jurisdiction:germany",
+    "jurisdiction:france",
+    "jurisdiction:italy",
+    "jurisdiction:european-convention-on-human-rights",
+    "evidence:evaluator-quality-regulation-across-jurisdictions",
+    "evidence:eu-apex-sequence-2017-2025",
+    "evidence:childrens-rights-paramountcy-doctrine",
+    "evidence:federalism-patterns-and-pa-doctrine-fragmentation"
+  ],
+  "sources": [
+    {
+      "title": "Bundesgericht / Tribunal fédéral — Switzerland Federal Supreme Court",
+      "url": "https://www.bger.ch/",
+      "publisher": "Schweizerische Eidgenossenschaft / Confédération suisse",
+      "language": "de,fr,it"
+    },
+    {
+      "title": "Fedlex — Federal Collection of Federal Law (Schweizerisches Bundesrecht)",
+      "url": "https://www.fedlex.admin.ch/",
+      "publisher": "Bundeskanzlei / Chancellerie fédérale",
+      "language": "de,fr,it,rm,en"
+    },
+    {
+      "title": "PsyG (Psychologieberufegesetz) — Federal Act on Psychology Professions",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2012/796/de",
+      "publisher": "Schweizerische Eidgenossenschaft",
+      "language": "de,fr,it"
+    },
+    {
+      "title": "Föderation der Schweizer Psychologinnen und Psychologen (FSP)",
+      "url": "https://www.psychologie.ch/",
+      "publisher": "FSP",
+      "language": "de,fr,it"
+    },
+    {
+      "title": "Schweizerische Konferenz für Kindes- und Erwachsenenschutz (KOKES) / COPMA",
+      "url": "https://www.kokes.ch/",
+      "publisher": "KOKES",
+      "language": "de,fr,it"
+    },
+    {
+      "title": "Bundesamt für Gesundheit (BAG) — Psychology Professions",
+      "url": "https://www.bag.admin.ch/bag/de/home/berufe-im-gesundheitswesen/psychologieberufe.html",
+      "publisher": "Bundesamt für Gesundheit",
+      "language": "de,fr,it,en"
+    }
+  ],
+  "editorial_notes": [
+    "Switzerland jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Eternal-Alliance-1291-to-continuing-quadrilingual-framework trajectory: 1291-Eternal-Alliance-+-Swiss-Confederation-founding + 1848-Federal-Constitution + 1907-ZGB-+-Eugen-Huber + 1976-ZGB-family-law-revision + 1997-Switzerland-UNCRC-ratification + 2011-Federal-ZPO-+-PsyG-2011 + 2013-KESB-+-PsyG-in-force + 2014-joint-parental-authority-default-reform + 2017-joint-child-maintenance-reform + 2024-Bundesgericht-+-KESB-+-PsyKo-Kindeswohl.",
+    "Swiss civil-law framework within the corpus alongside Germany, France, Italy, Netherlands and Belgium. Federal Zivilgesetzbuch (ZGB 1907) + Bundesgericht (BGer) apex + KESB child-protection structure + PsyG 2011 statutory psychology regulator + quadrilingual DE/FR/IT/RM federal framework + Eternal Alliance 1291 oldest continuously functioning confederation globally.",
+    "PA-recognition status: silent across statutory + apex + regulator axes — substantive Kindeswohl analysis under ZGB arts. 273 + 296-298 + 307-315 + ZPO arts. 295-302 + PsyG 2011 framework. BGer has not produced a published apex-level engagement with the PAS construct equivalent to the BVerfG 1 BvR 1076/23 critique-camp decision. BGer practice operates substantively under the Kindeswohl welfare standard.",
+    "PsyG 2011 statutory title-protection regime placed Switzerland among the federal-statutory psychology regulator group within the corpus (HCPC UK + HPCSA SA + APBs IN + PsyG CH).",
+    "KESB framework (since 2013) operates distinctively as first-instance child-protection authority parallel to family-court parental-authority/contact jurisdiction — structurally distinctive among corpus jurisdictions.",
+    "Joins Alpine + civil-law + multilingual-Swiss-Confederation + Eternal-Alliance-1291-oldest-continuously-functioning-confederation-735-years-globally-distinctive + Federal-Constitution-1848-following-Sonderbund-War-1847 + ZGB-1907-Eugen-Huber-Swiss-Civil-Code-influential-model + Bundesgericht-Lausanne-apex + KESB-2013-first-instance-child-protection-authority-distinct-from-family-court-globally-distinctive + PsyG-2011-statutory-psychology-regulator + joint-parental-authority-default-2014 + quadrilingual-DE/FR/IT/RM-federal-framework + UN-CRC-ratification-1997 clusters within the corpus."
+  ]
+}

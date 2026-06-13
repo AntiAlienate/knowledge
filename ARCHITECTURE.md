@@ -258,3 +258,17 @@ Fix shipped:
 - Weekly cron added to `validate.yml` so schema/cross-link drift can't accumulate silently while push-on-validate is off.
 
 The lesson: serial single-file commits + per-commit CI = race conditions. Atomic multi-file commits are the canonical fix.
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
+- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+- [A Mothers Battle My Story Of Parental Alienation](https://www.antialienate.com/blog/a-mothers-battle-my-story-of-parental-alienation)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+
+<!-- AA-CROSSLINK-END -->

@@ -1,0 +1,1409 @@
+{
+  "generated": "2026-06-13T14:11:07+00:00Z",
+  "stats": {
+    "jurisdictions_total": 356,
+    "last_sync_version": "projects/203950361232/sites/antialienate-knowledge/versions/803bda6482d10f25",
+    "last_sync_ts": "2026-06-13T14:09:16Z"
+  },
+  "events": [
+    {
+      "ts": "2026-06-13T14:09:16Z",
+      "op": "sync-deploy-ok",
+      "upgrades": 0,
+      "adds": 0,
+      "version": "projects/203950361232/sites/antialienate-knowledge/versions/803bda6482d10f25"
+    },
+    {
+      "ts": "2026-06-13T14:06:31Z",
+      "op": "sync-deploy-ok",
+      "upgrades": 0,
+      "adds": 0,
+      "version": "projects/203950361232/sites/antialienate-knowledge/versions/c3b8149952c3815f"
+    },
+    {
+      "ts": "2026-06-13T14:03:50Z",
+      "op": "sync-deploy-ok",
+      "upgrades": 0,
+      "adds": 0,
+      "version": "projects/203950361232/sites/antialienate-knowledge/versions/f5b86e39cae0a7c4"
+    },
+    {
+      "ts": "2026-06-13T14:02:20Z",
+      "op": "sync-nochange"
+    },
+    {
+      "ts": "2026-06-13T13:52:03Z",
+      "op": "sync-deploy-ok",
+      "upgrades": 21,
+      "adds": 0,
+      "version": "projects/203950361232/sites/antialienate-knowledge/versions/a2b23ac49c5e3e91"
+    },
+    {
+      "ts": "2026-06-13T13:51:20Z",
+      "op": "sync-push-ok",
+      "upgrades": 21,
+      "adds": 0
+    },
+    {
+      "ts": "2026-06-13T13:51:16Z",
+      "op": "sync-diff",
+      "upgrades": 21,
+      "adds": 0,
+      "protected": 4
+    },
+    {
+      "ts": 1781268424,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "quebec",
+      "kd_count": 11,
+      "iteration": 950
+    },
+    {
+      "ts": 1781268424,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "puerto-rico",
+      "kd_count": 11,
+      "iteration": 950
+    },
+    {
+      "ts": 1781268424,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "puducherry",
+      "kd_count": 11,
+      "iteration": 950
+    },
+    {
+      "ts": 1781268175,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "pratas-islands",
+      "kd_count": 11,
+      "iteration": 949
+    },
+    {
+      "ts": 1781268175,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "peter-i-island",
+      "kd_count": 11,
+      "iteration": 949
+    },
+    {
+      "ts": 1781268175,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "paracel-islands",
+      "kd_count": 11,
+      "iteration": 949
+    },
+    {
+      "ts": 1781267972,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "nunavut",
+      "kd_count": 11,
+      "iteration": 948
+    },
+    {
+      "ts": 1781267972,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "northwest-territories",
+      "kd_count": 11,
+      "iteration": 948
+    },
+    {
+      "ts": 1781267972,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "northern-mariana-islands",
+      "kd_count": 11,
+      "iteration": 948
+    },
+    {
+      "ts": 1781267647,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "northern-ireland",
+      "kd_count": 11,
+      "iteration": 947
+    },
+    {
+      "ts": 1781267647,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "norfolk-island",
+      "kd_count": 11,
+      "iteration": 947
+    },
+    {
+      "ts": 1781267647,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "ningxia",
+      "kd_count": 11,
+      "iteration": 947
+    },
+    {
+      "ts": 1781267401,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "navarre",
+      "kd_count": 11,
+      "iteration": 946
+    },
+    {
+      "ts": 1781267401,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "navajo-nation",
+      "kd_count": 11,
+      "iteration": 946
+    },
+    {
+      "ts": 1781267401,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "nakhchivan",
+      "kd_count": 11,
+      "iteration": 946
+    },
+    {
+      "ts": 1781267220,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "nagaland",
+      "kd_count": 11,
+      "iteration": 945
+    },
+    {
+      "ts": 1781267220,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "mount-athos",
+      "kd_count": 11,
+      "iteration": 945
+    },
+    {
+      "ts": 1781267220,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "mizoram",
+      "kd_count": 11,
+      "iteration": 945
+    },
+    {
+      "ts": 1781266913,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "melilla",
+      "kd_count": 11,
+      "iteration": 944
+    },
+    {
+      "ts": 1781266913,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "meghalaya",
+      "kd_count": 11,
+      "iteration": 944
+    },
+    {
+      "ts": 1781266913,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "madeira",
+      "kd_count": 11,
+      "iteration": 944
+    },
+    {
+      "ts": 1781266675,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "louisiana",
+      "kd_count": 11,
+      "iteration": 943
+    },
+    {
+      "ts": 1781266675,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "liancourt-rocks",
+      "kd_count": 11,
+      "iteration": 943
+    },
+    {
+      "ts": 1781266675,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "lakshadweep",
+      "kd_count": 11,
+      "iteration": 943
+    },
+    {
+      "ts": 1781266432,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "ladakh",
+      "kd_count": 11,
+      "iteration": 942
+    },
+    {
+      "ts": 1781266432,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "kuril-northern-territories",
+      "kd_count": 11,
+      "iteration": 942
+    },
+    {
+      "ts": 1781266432,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "ifad-agreement",
+      "kd_count": 11,
+      "iteration": 942
+    },
+    {
+      "ts": 1781266133,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "heard-island-and-mcdonald-islands",
+      "kd_count": 11,
+      "iteration": 941
+    },
+    {
+      "ts": 1781266133,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "hans-island",
+      "kd_count": 11,
+      "iteration": 941
+    },
+    {
+      "ts": 1781266133,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "halaib-triangle",
+      "kd_count": 11,
+      "iteration": 941
+    },
+    {
+      "ts": 1781265898,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "guam",
+      "kd_count": 11,
+      "iteration": 940
+    },
+    {
+      "ts": 1781265898,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "german-speaking-community-belgium",
+      "kd_count": 11,
+      "iteration": 940
+    },
+    {
+      "ts": 1781265898,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "galicia",
+      "kd_count": 11,
+      "iteration": 940
+    },
+    {
+      "ts": 1781265683,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "galapagos",
+      "kd_count": 11,
+      "iteration": 939
+    },
+    {
+      "ts": 1781265683,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "gagauzia",
+      "kd_count": 11,
+      "iteration": 939
+    },
+    {
+      "ts": 1781265683,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "friuli-venezia-giulia",
+      "kd_count": 11,
+      "iteration": 939
+    },
+    {
+      "ts": 1781265418,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "french-southern-and-antarctic-lands",
+      "kd_count": 11,
+      "iteration": 938
+    },
+    {
+      "ts": 1781265418,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "federation-of-bih",
+      "kd_count": 11,
+      "iteration": 938
+    },
+    {
+      "ts": 1781265418,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "efta-convention",
+      "kd_count": 11,
+      "iteration": 938
+    },
+    {
+      "ts": 1781265175,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "delhi",
+      "kd_count": 11,
+      "iteration": 937
+    },
+    {
+      "ts": 1781265175,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "dadra-nagar-haveli-daman-diu",
+      "kd_count": 11,
+      "iteration": 937
+    },
+    {
+      "ts": 1781265175,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "czechia",
+      "kd_count": 11,
+      "iteration": 937
+    },
+    {
+      "ts": 1781264969,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "crimea",
+      "kd_count": 11,
+      "iteration": 936
+    },
+    {
+      "ts": 1781264969,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "cptpp",
+      "kd_count": 11,
+      "iteration": 936
+    },
+    {
+      "ts": 1781264969,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "corsica",
+      "kd_count": 11,
+      "iteration": 936
+    },
+    {
+      "ts": 1781264709,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saarc-charter",
+      "kd_count": 11,
+      "iteration": 935
+    },
+    {
+      "ts": 1781264709,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "oecs-treaty",
+      "kd_count": 11,
+      "iteration": 935
+    },
+    {
+      "ts": 1781264709,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "arctic-council",
+      "kd_count": 11,
+      "iteration": 935
+    },
+    {
+      "ts": 1781264503,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "brics-framework",
+      "kd_count": 11,
+      "iteration": 934
+    },
+    {
+      "ts": 1781264503,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "asean-charter",
+      "kd_count": 11,
+      "iteration": 934
+    },
+    {
+      "ts": 1781264503,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "aiib-articles-of-agreement",
+      "kd_count": 11,
+      "iteration": 934
+    },
+    {
+      "ts": 1781192637,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "ross-dependency",
+      "kd_count": 11,
+      "iteration": 933
+    },
+    {
+      "ts": 1781192637,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "british-indian-ocean-territory",
+      "kd_count": 11,
+      "iteration": 933
+    },
+    {
+      "ts": 1781192637,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "chilean-antarctic-territory",
+      "kd_count": 11,
+      "iteration": 933
+    },
+    {
+      "ts": 1781192382,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "british-antarctic-territory",
+      "kd_count": 11,
+      "iteration": 932
+    },
+    {
+      "ts": 1781192382,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "australian-antarctic-territory",
+      "kd_count": 11,
+      "iteration": 932
+    },
+    {
+      "ts": 1781192382,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "argentine-antarctica",
+      "kd_count": 11,
+      "iteration": 932
+    },
+    {
+      "ts": 1781192147,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "bouvet-island",
+      "kd_count": 11,
+      "iteration": 931
+    },
+    {
+      "ts": 1781192147,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "bir-tawil",
+      "kd_count": 11,
+      "iteration": 931
+    },
+    {
+      "ts": 1781192147,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "ascension-island",
+      "kd_count": 11,
+      "iteration": 931
+    },
+    {
+      "ts": 1781191901,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "cocos-keeling-islands",
+      "kd_count": 11,
+      "iteration": 930
+    },
+    {
+      "ts": 1781191901,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "christmas-island",
+      "kd_count": 11,
+      "iteration": 930
+    },
+    {
+      "ts": 1781191901,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "cabinda",
+      "kd_count": 11,
+      "iteration": 930
+    },
+    {
+      "ts": 1781191660,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "burundi",
+      "kd_count": 11,
+      "iteration": 929
+    },
+    {
+      "ts": 1781191660,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "brcko-district",
+      "kd_count": 11,
+      "iteration": 929
+    },
+    {
+      "ts": 1781191660,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "bremen",
+      "kd_count": 11,
+      "iteration": 929
+    },
+    {
+      "ts": 1781191425,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "azores",
+      "kd_count": 11,
+      "iteration": 928
+    },
+    {
+      "ts": 1781191425,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "canary-islands",
+      "kd_count": 11,
+      "iteration": 928
+    },
+    {
+      "ts": 1781191425,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "balearic-islands",
+      "kd_count": 11,
+      "iteration": 928
+    },
+    {
+      "ts": 1781191191,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "catalonia",
+      "kd_count": 11,
+      "iteration": 927
+    },
+    {
+      "ts": 1781191191,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "bavaria",
+      "kd_count": 11,
+      "iteration": 927
+    },
+    {
+      "ts": 1781191191,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "aragon",
+      "kd_count": 11,
+      "iteration": 927
+    },
+    {
+      "ts": 1781190982,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "chandigarh",
+      "kd_count": 11,
+      "iteration": 926
+    },
+    {
+      "ts": 1781190982,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "andaman-and-nicobar-islands",
+      "kd_count": 11,
+      "iteration": 926
+    },
+    {
+      "ts": 1781190982,
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "american-samoa",
+      "kd_count": 11,
+      "iteration": 926
+    },
+    {
+      "ts": "2026-06-11T15:13:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "guangxi",
+      "kd_count": 11,
+      "iteration": 925
+    },
+    {
+      "ts": "2026-06-11T15:13:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "inner-mongolia",
+      "kd_count": 11,
+      "iteration": 925
+    },
+    {
+      "ts": "2026-06-11T15:13:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "arunachal-pradesh",
+      "kd_count": 11,
+      "iteration": 925
+    },
+    {
+      "ts": "2026-06-11T15:08:39Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "goa",
+      "kd_count": 11,
+      "iteration": 924
+    },
+    {
+      "ts": "2026-06-11T15:08:39Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "telangana",
+      "kd_count": 11,
+      "iteration": 924
+    },
+    {
+      "ts": "2026-06-11T15:08:39Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "andhra-pradesh",
+      "kd_count": 11,
+      "iteration": 924
+    },
+    {
+      "ts": "2026-06-11T15:03:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "aksai-chin",
+      "kd_count": 11,
+      "iteration": 923
+    },
+    {
+      "ts": "2026-06-11T15:03:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "gilgit-baltistan",
+      "kd_count": 11,
+      "iteration": 923
+    },
+    {
+      "ts": "2026-06-11T15:03:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "azad-kashmir",
+      "kd_count": 11,
+      "iteration": 923
+    },
+    {
+      "ts": "2026-06-11T14:58:44Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "jammu-and-kashmir",
+      "kd_count": 11,
+      "iteration": 922
+    },
+    {
+      "ts": "2026-06-11T14:58:44Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "western-sahara",
+      "kd_count": 11,
+      "iteration": 922
+    },
+    {
+      "ts": "2026-06-11T14:58:44Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "somaliland",
+      "kd_count": 11,
+      "iteration": 922
+    },
+    {
+      "ts": "2026-06-11T14:54:31Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "northern-cyprus",
+      "kd_count": 11,
+      "iteration": 921
+    },
+    {
+      "ts": "2026-06-11T14:54:31Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "transnistria",
+      "kd_count": 11,
+      "iteration": 921
+    },
+    {
+      "ts": "2026-06-11T14:54:31Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "abkhazia",
+      "kd_count": 11,
+      "iteration": 921
+    },
+    {
+      "ts": "2026-06-11T14:50:06Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "south-ossetia",
+      "kd_count": 11,
+      "iteration": 920
+    },
+    {
+      "ts": "2026-06-11T14:50:06Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "macau",
+      "kd_count": 11,
+      "iteration": 920
+    },
+    {
+      "ts": "2026-06-11T14:50:06Z",
+      "op": "sidecar-create-flagship",
+      "jurisdiction": "hong-kong",
+      "kd_count": 11,
+      "note": "26th flagship gap-fill \u2014 Hong Kong SAR",
+      "iteration": 920
+    },
+    {
+      "ts": "2026-06-11T14:45:34Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "svalbard",
+      "kd_count": 11,
+      "iteration": 919
+    },
+    {
+      "ts": "2026-06-11T14:45:34Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "aland-islands",
+      "kd_count": 11,
+      "iteration": 919
+    },
+    {
+      "ts": "2026-06-11T14:45:34Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "faroe-islands",
+      "kd_count": 11,
+      "iteration": 919
+    },
+    {
+      "ts": "2026-06-11T14:40:36Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "greenland",
+      "kd_count": 11,
+      "iteration": 918
+    },
+    {
+      "ts": "2026-06-11T14:40:36Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saint-pierre-and-miquelon",
+      "kd_count": 11,
+      "iteration": 918
+    },
+    {
+      "ts": "2026-06-11T14:40:36Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saint-martin",
+      "kd_count": 11,
+      "iteration": 918
+    },
+    {
+      "ts": "2026-06-11T14:35:57Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saint-barthelemy",
+      "kd_count": 11,
+      "iteration": 917
+    },
+    {
+      "ts": "2026-06-11T14:35:57Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "mayotte",
+      "kd_count": 11,
+      "iteration": 917
+    },
+    {
+      "ts": "2026-06-11T14:35:57Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "reunion",
+      "kd_count": 11,
+      "iteration": 917
+    },
+    {
+      "ts": "2026-06-11T14:31:03Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "french-guiana",
+      "kd_count": 11,
+      "iteration": 916
+    },
+    {
+      "ts": "2026-06-11T14:31:03Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "martinique",
+      "kd_count": 11,
+      "iteration": 916
+    },
+    {
+      "ts": "2026-06-11T14:31:03Z",
+      "op": "sidecar-create-flagship",
+      "jurisdiction": "guadeloupe",
+      "kd_count": 11,
+      "note": "25th flagship gap-fill \u2014 French DOM",
+      "iteration": 916
+    },
+    {
+      "ts": "2026-06-11T14:25:42Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "wallis-and-futuna",
+      "kd_count": 11,
+      "iteration": 915
+    },
+    {
+      "ts": "2026-06-11T14:25:42Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "new-caledonia",
+      "kd_count": 11,
+      "iteration": 915
+    },
+    {
+      "ts": "2026-06-11T14:25:42Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "french-polynesia",
+      "kd_count": 11,
+      "iteration": 915
+    },
+    {
+      "ts": "2026-06-11T14:21:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "tokelau",
+      "kd_count": 11,
+      "iteration": 914
+    },
+    {
+      "ts": "2026-06-11T14:21:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "cook-islands",
+      "kd_count": 11,
+      "iteration": 914
+    },
+    {
+      "ts": "2026-06-11T14:21:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "niue",
+      "kd_count": 11,
+      "iteration": 914
+    },
+    {
+      "ts": "2026-06-11T14:16:40Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "pitcairn-islands",
+      "kd_count": 11,
+      "iteration": 913
+    },
+    {
+      "ts": "2026-06-11T14:16:40Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saint-helena",
+      "kd_count": 11,
+      "iteration": 913
+    },
+    {
+      "ts": "2026-06-11T14:16:40Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "montserrat",
+      "kd_count": 11,
+      "iteration": 913
+    },
+    {
+      "ts": "2026-06-11T14:11:43Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "turks-and-caicos-islands",
+      "kd_count": 11,
+      "iteration": 912
+    },
+    {
+      "ts": "2026-06-11T14:11:43Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "british-virgin-islands",
+      "kd_count": 11,
+      "iteration": 912
+    },
+    {
+      "ts": "2026-06-11T14:11:43Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "anguilla",
+      "kd_count": 11,
+      "iteration": 912
+    },
+    {
+      "ts": "2026-06-11T14:07:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "isle-of-man",
+      "kd_count": 11,
+      "iteration": 911
+    },
+    {
+      "ts": "2026-06-11T14:07:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "jersey",
+      "kd_count": 11,
+      "iteration": 911
+    },
+    {
+      "ts": "2026-06-11T14:07:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "guernsey",
+      "kd_count": 11,
+      "iteration": 911
+    },
+    {
+      "ts": "2026-06-11T14:03:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "falkland-islands",
+      "kd_count": 11,
+      "iteration": 910
+    },
+    {
+      "ts": "2026-06-11T14:03:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "gibraltar",
+      "kd_count": 11,
+      "iteration": 910
+    },
+    {
+      "ts": "2026-06-11T14:03:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "bermuda",
+      "kd_count": 11,
+      "iteration": 910
+    },
+    {
+      "ts": "2026-06-11T13:59:33Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "cayman-islands",
+      "kd_count": 11,
+      "iteration": 909
+    },
+    {
+      "ts": "2026-06-11T13:59:33Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "sint-eustatius",
+      "kd_count": 11,
+      "iteration": 909
+    },
+    {
+      "ts": "2026-06-11T13:59:33Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saba",
+      "kd_count": 11,
+      "iteration": 909
+    },
+    {
+      "ts": "2026-06-11T13:54:36Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "bonaire",
+      "kd_count": 11,
+      "iteration": 908
+    },
+    {
+      "ts": "2026-06-11T13:54:36Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "sint-maarten",
+      "kd_count": 11,
+      "iteration": 908
+    },
+    {
+      "ts": "2026-06-11T13:54:36Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "curacao",
+      "kd_count": 11,
+      "iteration": 908
+    },
+    {
+      "ts": "2026-06-11T13:49:37Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "aruba",
+      "kd_count": 11,
+      "iteration": 907
+    },
+    {
+      "ts": "2026-06-11T13:49:37Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "antigua-and-barbuda",
+      "kd_count": 11,
+      "iteration": 907
+    },
+    {
+      "ts": "2026-06-11T13:49:37Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saint-kitts-and-nevis",
+      "kd_count": 11,
+      "iteration": 907
+    },
+    {
+      "ts": "2026-06-11T13:44:47Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "dominica",
+      "kd_count": 11,
+      "iteration": 906
+    },
+    {
+      "ts": "2026-06-11T13:44:47Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saint-vincent-and-the-grenadines",
+      "kd_count": 11,
+      "iteration": 906
+    },
+    {
+      "ts": "2026-06-11T13:44:47Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "saint-lucia",
+      "kd_count": 11,
+      "iteration": 906
+    },
+    {
+      "ts": "2026-06-11T13:40:18Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "grenada",
+      "kd_count": 11,
+      "iteration": 905
+    },
+    {
+      "ts": "2026-06-11T13:40:18Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "haiti",
+      "kd_count": 11,
+      "iteration": 905
+    },
+    {
+      "ts": "2026-06-11T13:40:18Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "belize",
+      "kd_count": 11,
+      "iteration": 905
+    },
+    {
+      "ts": "2026-06-11T13:35:47Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "guyana",
+      "kd_count": 11,
+      "iteration": 904
+    },
+    {
+      "ts": "2026-06-11T13:35:47Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "suriname",
+      "kd_count": 11,
+      "iteration": 904
+    },
+    {
+      "ts": "2026-06-11T13:35:47Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "democratic-republic-of-the-congo",
+      "kd_count": 11,
+      "iteration": 904
+    },
+    {
+      "ts": "2026-06-11T13:31:20Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "guinea",
+      "kd_count": 11,
+      "iteration": 903
+    },
+    {
+      "ts": "2026-06-11T13:31:20Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "liberia",
+      "kd_count": 11,
+      "iteration": 903
+    },
+    {
+      "ts": "2026-06-11T13:31:20Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "gambia",
+      "kd_count": 11,
+      "iteration": 903
+    },
+    {
+      "ts": "2026-06-11T13:27:28Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "south-sudan",
+      "kd_count": 11,
+      "iteration": 902
+    },
+    {
+      "ts": "2026-06-11T13:27:28Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "eritrea",
+      "kd_count": 11,
+      "iteration": 902
+    },
+    {
+      "ts": "2026-06-11T13:27:28Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "benin",
+      "kd_count": 11,
+      "iteration": 902
+    },
+    {
+      "ts": "2026-06-11T13:23:18Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "togo",
+      "kd_count": 11,
+      "iteration": 901
+    },
+    {
+      "ts": "2026-06-11T13:23:18Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "sierra-leone",
+      "kd_count": 11,
+      "iteration": 901
+    },
+    {
+      "ts": "2026-06-11T13:23:18Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "seychelles",
+      "kd_count": 11,
+      "iteration": 901
+    },
+    {
+      "ts": "2026-06-11T13:19:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "mauritius",
+      "kd_count": 11,
+      "iteration": 900
+    },
+    {
+      "ts": "2026-06-11T13:19:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "madagascar",
+      "kd_count": 11,
+      "iteration": 900
+    },
+    {
+      "ts": "2026-06-11T13:19:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "central-african-republic",
+      "kd_count": 11,
+      "iteration": 900
+    },
+    {
+      "ts": "2026-06-11T13:15:23Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "comoros",
+      "kd_count": 11,
+      "iteration": 899
+    },
+    {
+      "ts": "2026-06-11T13:15:23Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "republic-of-the-congo",
+      "kd_count": 11,
+      "iteration": 899
+    },
+    {
+      "ts": "2026-06-11T13:15:23Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "gabon",
+      "kd_count": 11,
+      "iteration": 899
+    },
+    {
+      "ts": "2026-06-11T13:11:12Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "djibouti",
+      "kd_count": 11,
+      "iteration": 898
+    },
+    {
+      "ts": "2026-06-11T13:11:12Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "equatorial-guinea",
+      "kd_count": 11,
+      "iteration": 898
+    },
+    {
+      "ts": "2026-06-11T13:11:12Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "guinea-bissau",
+      "kd_count": 11,
+      "iteration": 898
+    },
+    {
+      "ts": "2026-06-11T13:07:02Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "sao-tome-and-principe",
+      "kd_count": 11,
+      "iteration": 897
+    },
+    {
+      "ts": "2026-06-11T13:07:02Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "cabo-verde",
+      "kd_count": 11,
+      "iteration": 897
+    },
+    {
+      "ts": "2026-06-11T13:07:02Z",
+      "op": "sidecar-create-flagship",
+      "jurisdiction": "luxembourg",
+      "kd_count": 11,
+      "note": "24th flagship gap-fill \u2014 Luxembourg EU founding member",
+      "iteration": 897
+    },
+    {
+      "ts": "2026-06-11T13:02:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "holy-see",
+      "kd_count": 11,
+      "iteration": 896
+    },
+    {
+      "ts": "2026-06-11T13:02:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "san-marino",
+      "kd_count": 11,
+      "iteration": 896
+    },
+    {
+      "ts": "2026-06-11T13:02:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "liechtenstein",
+      "kd_count": 11,
+      "iteration": 896
+    },
+    {
+      "ts": "2026-06-11T12:58:20Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "andorra",
+      "kd_count": 11,
+      "iteration": 895
+    },
+    {
+      "ts": "2026-06-11T12:58:20Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "monaco",
+      "kd_count": 11,
+      "iteration": 895
+    },
+    {
+      "ts": "2026-06-11T12:58:20Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "ukraine",
+      "kd_count": 11,
+      "iteration": 895
+    },
+    {
+      "ts": "2026-06-11T12:54:26Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "bosnia-and-herzegovina",
+      "kd_count": 11,
+      "iteration": 894
+    },
+    {
+      "ts": "2026-06-11T12:54:26Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "albania",
+      "kd_count": 11,
+      "iteration": 894
+    },
+    {
+      "ts": "2026-06-11T12:54:26Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "north-macedonia",
+      "kd_count": 11,
+      "iteration": 894
+    },
+    {
+      "ts": "2026-06-11T12:50:22Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "montenegro",
+      "kd_count": 11,
+      "iteration": 893
+    },
+    {
+      "ts": "2026-06-11T12:50:22Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "serbia",
+      "kd_count": 11,
+      "iteration": 893
+    },
+    {
+      "ts": "2026-06-11T12:50:22Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "kosovo",
+      "kd_count": 11,
+      "iteration": 893
+    },
+    {
+      "ts": "2026-06-11T12:46:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "moldova",
+      "kd_count": 11,
+      "iteration": 892
+    },
+    {
+      "ts": "2026-06-11T12:46:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "belarus",
+      "kd_count": 11,
+      "iteration": 892
+    },
+    {
+      "ts": "2026-06-11T12:46:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "georgia",
+      "kd_count": 11,
+      "iteration": 892
+    },
+    {
+      "ts": "2026-06-11T12:42:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "armenia",
+      "kd_count": 11,
+      "iteration": 891
+    },
+    {
+      "ts": "2026-06-11T12:42:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "azerbaijan",
+      "kd_count": 11,
+      "iteration": 891
+    },
+    {
+      "ts": "2026-06-11T12:42:19Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "turkmenistan",
+      "kd_count": 11,
+      "iteration": 891
+    },
+    {
+      "ts": "2026-06-11T12:38:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "tajikistan",
+      "kd_count": 11,
+      "iteration": 890
+    },
+    {
+      "ts": "2026-06-11T12:38:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "kyrgyzstan",
+      "kd_count": 11,
+      "iteration": 890
+    },
+    {
+      "ts": "2026-06-11T12:38:21Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "uzbekistan",
+      "kd_count": 11,
+      "iteration": 890
+    },
+    {
+      "ts": "2026-06-11T12:34:31Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "kazakhstan",
+      "kd_count": 11,
+      "iteration": 889
+    },
+    {
+      "ts": "2026-06-11T12:34:31Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "cambodia",
+      "kd_count": 11,
+      "iteration": 889
+    },
+    {
+      "ts": "2026-06-11T12:34:31Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "laos",
+      "kd_count": 11,
+      "iteration": 889
+    },
+    {
+      "ts": "2026-06-11T12:29:42Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "brunei",
+      "kd_count": 11,
+      "iteration": 888
+    },
+    {
+      "ts": "2026-06-11T12:29:42Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "palau",
+      "kd_count": 11,
+      "iteration": 888
+    },
+    {
+      "ts": "2026-06-11T12:29:42Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "micronesia",
+      "kd_count": 11,
+      "iteration": 888
+    },
+    {
+      "ts": "2026-06-11T12:25:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "marshall-islands",
+      "kd_count": 11,
+      "iteration": 887
+    },
+    {
+      "ts": "2026-06-11T12:25:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "nauru",
+      "kd_count": 11,
+      "iteration": 887
+    },
+    {
+      "ts": "2026-06-11T12:25:29Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "tuvalu",
+      "kd_count": 11,
+      "iteration": 887
+    },
+    {
+      "ts": "2026-06-11T12:21:13Z",
+      "op": "sidecar-deepen-secondary",
+      "jurisdiction": "kiribati",
+      "kd_count": 11,
+      "iteration": 886
+    }
+  ]
+}

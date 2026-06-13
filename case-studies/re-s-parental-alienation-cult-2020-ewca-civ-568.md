@@ -77,3 +77,17 @@ Third, the case is unusual in being a rare example of a child actually being tra
 - [Law & Religion UK](https://lawandreligionuk.com/2020/04/30/cults-in-the-court-of-appeal-re-s/)
 - [Transparency Project commentary](https://transparencyproject.org.uk/choosing-the-course-which-is-less-stressful-to-the-child/)
 - [Universal Medicine Accountability](https://universalmedicineaccountability.wordpress.com/2020/05/02/parental-alienation-universal-medicine-cult-uk-court-of-appeal-rules-to-protect-child/)
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Keyser Advocaten Breaking Parental Alienation Taboo Belgium](https://www.antialienate.com/blog/keyser-advocaten-breaking-parental-alienation-taboo-belgium)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
+
+<!-- AA-CROSSLINK-END -->

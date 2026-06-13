@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "australia",
+  "name": "Australia (Commonwealth of Australia)",
+  "jurisdiction_code": "AU",
+  "legal_system": "common-law",
+  "language": ["en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "Australia is a federal common-law jurisdiction whose family courts (Federal Circuit and Family Court of Australia, FCFCOA, established 2021) operate under the Family Law Act 1975 (Cth). The Family Law Amendment Act 2023 substantially restructured the best-interests-of-the-child framework, repealing the presumption of equal shared parental responsibility (s 61DA) and the related compulsory consideration of equal/substantial-and-significant time. The statutory framework is silent on the 'parental alienation' label. The Family Court of Australia and FCFCOA have historically applied PA-related analysis through case-law (e.g., Re W [1995], McCall and Clark [2009]) within the BIC framework. The Australian Law Reform Commission (ALRC) Family Law Report 135 (2019) and AIFS research have informed institutional-critique register against PAS-syndromic framing — particularly in DV-intersection cases.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "case-law application within BIC",
+    "professional_regulator_position": "critique"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Family Law Act 1975 (Cth) Part VII",
+      "title": "Children — parental responsibility and parenting orders",
+      "year": 1975,
+      "url": "https://www.legislation.gov.au/C2004A00275/latest/text",
+      "relevance": "Primary statutory basis for Australian family law — substantively foundational since 1975 establishing no-fault divorce framework. Part VII (children) extensively amended by 2006, 2011, 2023 reforms. Section 60CC enumerates BIC considerations."
+    },
+    {
+      "citation": "Family Law Amendment Act 2023 (Cth)",
+      "title": "Amendment Act effective 6 May 2024",
+      "year": 2023,
+      "url": "https://www.legislation.gov.au/C2023A00087/latest/text",
+      "relevance": "Substantively transformative 2023 amendment effective 6 May 2024 — repealing s 61DA presumption of equal shared parental responsibility and the related compulsory consideration of equal/substantial-and-significant time. Restructures s 60CC BIC framework and codifies non-acceptance of pseudo-scientific concepts in parenting matters."
+    },
+    {
+      "citation": "Family Law (Child Abduction Convention) Regulations 1986",
+      "title": "Hague Abduction Convention implementation",
+      "year": 1986,
+      "url": "https://www.legislation.gov.au/F1996B02756/latest/text",
+      "relevance": "Australia ratified 1980 Hague Abduction Convention 29 October 1986 (in force 1 January 1987). Regulations implement Hague Convention obligations — substantively significant international-abduction framework."
+    },
+    {
+      "citation": "Australia ratifies UN CRC",
+      "title": "United Nations Convention on the Rights of the Child",
+      "year": 1990,
+      "url": "https://www.dfat.gov.au/international-relations/themes/human-rights/treaties",
+      "relevance": "Australia ratified UN CRC 17 December 1990 (in force 16 January 1991). Establishes international child-rights framework informing Family Law Act BIC interpretation."
+    },
+    {
+      "citation": "Federal Circuit and Family Court of Australia Act 2021 (Cth)",
+      "title": "FCFCOA establishment",
+      "year": 2021,
+      "url": "https://www.legislation.gov.au/C2021A00013/latest/text",
+      "relevance": "FCFCOA established 1 September 2021 merging Family Court of Australia and Federal Circuit Court of Australia. Substantively significant institutional reform consolidating Australian family-law judiciary into unified two-division court structure."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Australia",
+      "seat": "Canberra",
+      "role": "Apex constitutional court; rarely hears family-law matters but final appeal authority on constitutional/jurisdictional questions"
+    },
+    {
+      "name": "Federal Circuit and Family Court of Australia (FCFCOA) — Division 1",
+      "seat": "Federal nationwide",
+      "role": "Apex first-tier family court (formerly Family Court of Australia); established 2021 merger. Appellate Division reviews Division 2 decisions"
+    },
+    {
+      "name": "Federal Circuit and Family Court of Australia (FCFCOA) — Division 2",
+      "seat": "Federal nationwide",
+      "role": "Lower-tier family court (formerly Federal Circuit Court of Australia); first-instance family-law jurisdiction"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1975,
+      "title": "Family Law Act 1975 (Cth) — no-fault divorce + federal family court",
+      "description": "Family Law Act 1975 (Cth) enacted 12 June 1975 (in force 5 January 1976) under Whitlam Government establishing no-fault divorce framework and Family Court of Australia. Substantively foundational 20th-century Australian family-law reform — one of the most significant post-war family-law reforms globally."
+    },
+    {
+      "year": 1986,
+      "title": "Australia ratifies Hague Abduction Convention",
+      "description": "Australia ratified 1980 Hague Convention on the Civil Aspects of International Child Abduction 29 October 1986 (in force 1 January 1987). Family Law (Child Abduction Convention) Regulations 1986 implement Hague Convention. Substantively significant international-abduction framework."
+    },
+    {
+      "year": 1990,
+      "title": "Australia ratifies UN Convention on the Rights of the Child",
+      "description": "Australia ratified UN CRC 17 December 1990 (in force 16 January 1991). Substantively significant international child-rights framework informing Family Law Act BIC interpretation under s 60CC."
+    },
+    {
+      "year": 1995,
+      "title": "Family Law Reform Act 1995 (Cth) — shared parental responsibility introduced",
+      "description": "Family Law Reform Act 1995 introducing shared parental responsibility framework — substantively significant pre-2006 reform establishing the trajectory toward 2006 equal shared parental responsibility presumption."
+    },
+    {
+      "year": 2006,
+      "title": "Family Law Amendment (Shared Parental Responsibility) Act 2006",
+      "description": "Family Law Amendment (Shared Parental Responsibility) Act 2006 establishing presumption of equal shared parental responsibility (s 61DA) and related compulsory consideration of equal/substantial-and-significant time. Substantively transformative reform under Howard Government — central to subsequent ALRC 2019 review and 2023 repeal."
+    },
+    {
+      "year": 2011,
+      "title": "Family Law Legislation Amendment (Family Violence and Other Measures) Act 2011",
+      "description": "Family Law Legislation Amendment (Family Violence and Other Measures) Act 2011 strengthening family-violence considerations in BIC framework — substantively significant pre-ALRC-2019 family-violence-protection reform addressing concerns about 2006 framework's DV-intersection failures."
+    },
+    {
+      "year": 2019,
+      "title": "ALRC Family Law Report 135 — comprehensive family-law review",
+      "description": "Australian Law Reform Commission Family Law for the Future — An Inquiry into the Family Law System Report 135 (March 2019) — substantively foundational institutional review identifying systemic failures including PA-labelled deflection of DV allegations and recommending repeal of equal shared parental responsibility presumption. Substantively significant institutional-critique register informing 2023 reform."
+    },
+    {
+      "year": 2021,
+      "title": "FCFCOA established — Family Court + Federal Circuit Court merger",
+      "description": "Federal Circuit and Family Court of Australia (FCFCOA) established 1 September 2021 under Federal Circuit and Family Court of Australia Act 2021 merging Family Court of Australia and Federal Circuit Court of Australia. Substantively significant institutional reform consolidating Australian family-law judiciary."
+    },
+    {
+      "year": 2023,
+      "title": "Family Law Amendment Act 2023 — equal shared parental responsibility presumption repealed",
+      "description": "Family Law Amendment Act 2023 (Cth) enacted 6 November 2023 effective 6 May 2024 — repealing s 61DA presumption of equal shared parental responsibility and related compulsory consideration of equal/substantial-and-significant time. Restructures s 60CC BIC framework. Substantively transformative reform implementing ALRC 2019 recommendations — substantively significant 21st-century Australian family-law reform."
+    },
+    {
+      "year": 2024,
+      "title": "Family Law Amendment Act 2023 operational + transitional implementation",
+      "description": "Family Law Amendment Act 2023 framework operational 6 May 2024 with transitional implementation regime. Substantively significant institutional reform requiring FCFCOA operational adjustment to restructured s 60CC BIC framework and removal of equal shared parental responsibility presumption — operating alongside continuing case-law on PA-related contact disputes within BIC framework."
+    },
+    {
+      "year": 2024,
+      "title": "Family Law Amendment (Information Sharing) Act 2023 + family-violence-information framework",
+      "description": "Family Law Amendment (Information Sharing) Act 2023 effective 6 May 2024 establishing comprehensive information-sharing framework between Family Court (FCFCOA), state child-protection agencies, and police regarding family-violence and child-safety information. Substantively significant procedural-framework reform paralleling primary 2023 amendments — operationally addressing PA-labelled DV-deflection patterns identified by ALRC 2019 institutional-critique register."
+    },
+    {
+      "year": 2025,
+      "title": "FCFCOA jurisprudence + AIFS research — post-2023 BIC substantive register",
+      "description": "FCFCOA jurisprudence 2024-2025 developing post-2023 BIC framework interpretation under restructured s 60CC. Australian Institute of Family Studies (AIFS) research informing institutional-critique register against PAS-syndromic framing — particularly in DV-intersection cases under restructured Family Law Act framework."
+    }
+  ],
+  "structural_findings": [
+    "Australia operates a structurally distinctive federal common-law family-law framework — Family Law Act 1975 (Cth) as substantively foundational legislation with substantial 2006, 2011, 2023 reform trajectory — and a unified FCFCOA two-division court structure since 2021.",
+    "Family Law Amendment Act 2023 (effective 6 May 2024) repeal of equal shared parental responsibility presumption represents the most substantial Australian family-law reform since 1995 — implementing ALRC 2019 institutional-critique recommendations and restructuring the s 60CC BIC framework.",
+    "ALRC Family Law Report 135 (2019) operates as substantively foundational institutional-critique document — informing 2023 reform and establishing the Australian institutional-critique register against PA-labelled deflection of DV allegations within DV-intersection cases."
+  ],
+  "editorial_notes": [
+    "Australia's 2023 family-law reform repealing the equal shared parental responsibility presumption represents the most substantial reversal of a national presumption-of-shared-care framework globally — substantively distinctive from the European trajectory (Germany, France, Italy, Spain) and the U.S. state-level variation pattern.",
+    "FCFCOA establishment (2021) and 2023 reform operationally consolidate Australian family-law judiciary and BIC framework — establishing Australia as a structurally distinctive common-law data point with institutional-critique register and presumption-repeal trajectory."
+  ]
+}

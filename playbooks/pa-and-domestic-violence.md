@@ -159,3 +159,17 @@ Read both. Then form your own view of the case in front of you, not your view of
 *This page deliberately gives equal weight to both case profiles because both are real and both are mishandled. If you believe a specific paragraph misrepresents your situation or position, [open an issue](https://github.com/AntiAlienate/antialienate-knowledge/issues) — we will refine within 24 hours.*
 
 — Catalogued by Alan Markson · CC BY 4.0
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+
+<!-- AA-CROSSLINK-END -->

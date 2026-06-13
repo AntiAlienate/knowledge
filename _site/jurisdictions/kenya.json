@@ -1,0 +1,141 @@
+{
+  "schema_version": "1.0",
+  "id": "kenya",
+  "name": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
+  "jurisdiction_code": "KE",
+  "legal_system": "mixed (English common-law + customary law + Kadhi courts for Islamic personal-status)",
+  "language": ["en", "sw"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-11",
+  "summary": "Kenya is a mixed common-law jurisdiction with constitutional supremacy under the Constitution of Kenya 2010. Family courts operate under the Children Act 2022 (No. 29 of 2022, effective 26 July 2022, replacing the 2001 Children Act), the Marriage Act 2014, and Kadhi courts for Muslim personal-status matters under Constitution art. 170. The Constitution art. 53 establishes constitutionally-grounded child-rights framework including best-interests-of-the-child paramount standard. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of Kenya and Court of Appeal have applied BIC standard in custody disputes. The Children Act 2022 modernises framework including parental responsibility, child-participation rights, and child-protection-measures. Kenya National Commission on Human Rights (KNCHR) and Kenya Children's Department have informed institutional position.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "silent",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Constitution of Kenya 2010 art. 53",
+      "title": "Constitutional child-rights framework",
+      "year": 2010,
+      "url": "https://www.kenyalaw.org/lex/actview.xql?actid=Const2010",
+      "relevance": "Constitution of Kenya 2010 art. 53 establishing constitutionally-grounded child-rights framework including BIC paramount standard. Constitution art. 170 establishes Kadhi courts for Muslim personal-status matters."
+    },
+    {
+      "citation": "Children Act 2022 (No. 29 of 2022)",
+      "title": "Comprehensive child-rights statute",
+      "year": 2022,
+      "url": "https://www.kenyalaw.org/akn/ke/act/2022/29",
+      "relevance": "Children Act 2022 effective 26 July 2022 replacing 2001 Children Act. Establishes parental responsibility framework, BIC paramount standard, child-participation rights, and child-protection-measures. Substantively transformative 21st-century Kenyan child-rights reform."
+    },
+    {
+      "citation": "Marriage Act 2014 (No. 4 of 2014)",
+      "title": "Comprehensive marriage statute",
+      "year": 2014,
+      "url": "https://www.kenyalaw.org/akn/ke/act/2014/4",
+      "relevance": "Marriage Act 2014 consolidating five categories of marriage (Christian, civil, customary, Hindu, Islamic). Substantively significant institutional reform unifying Kenyan marriage framework with respect for legal pluralism."
+    },
+    {
+      "citation": "Protection Against Domestic Violence Act 2015",
+      "title": "DV-protection statute",
+      "year": 2015,
+      "url": "https://www.kenyalaw.org/akn/ke/act/2015/2",
+      "relevance": "Protection Against Domestic Violence Act 2015 establishing DV-protection framework with protection-order procedure. Substantively significant for DV-PA-allegation intersection cases."
+    },
+    {
+      "citation": "Kenya ratifies UN CRC + African Charter on Rights and Welfare of the Child",
+      "title": "International child-rights ratifications",
+      "year": 1990,
+      "url": "https://www.unicef.org/kenya/",
+      "relevance": "Kenya ratified UN CRC 30 July 1990. Ratified African Charter on the Rights and Welfare of the Child 25 July 2000. Substantively foundational international child-rights framework subsequently incorporated via Constitution 2010 art. 53 and Children Act 2022."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "Supreme Court of Kenya",
+      "seat": "Nairobi",
+      "role": "Apex court for all matters including family law; established 2010 under Constitution"
+    },
+    {
+      "name": "Court of Appeal of Kenya",
+      "seat": "Nairobi",
+      "role": "Intermediate appellate court; jurisprudentially significant for family-law interpretation"
+    },
+    {
+      "name": "Kadhi Courts",
+      "seat": "Nationwide (constitutional)",
+      "role": "Apex Islamic personal-status courts for Muslim community under Constitution art. 170"
+    }
+  ],
+  "key_developments": [
+    {
+      "year": 1963,
+      "title": "Kenyan Independence + family-law pluralism inheritance",
+      "description": "Kenyan Independence 12 December 1963 inheriting tripartite legal pluralism framework (English common-law + customary law + Islamic personal-status law via Kadhi courts). Substantively foundational post-independence family-law architecture continuing through 21st century."
+    },
+    {
+      "year": 1976,
+      "title": "Marriage Bill 1976 + family-law commission reform initiation",
+      "description": "Marriage Bill 1976 + Law of Succession Act 1981 (effective 1 July 1981) initiating family-law reform trajectory. Substantively significant 20th-century Kenyan family-law reform process — preceding 2014 Marriage Act consolidation."
+    },
+    {
+      "year": 1990,
+      "title": "Kenya ratifies UN Convention on the Rights of the Child",
+      "description": "Kenya ratified UN CRC 30 July 1990. Substantively significant international child-rights framework — preparing the trajectory toward 2001 Children Act and 2010 Constitution art. 53 codification."
+    },
+    {
+      "year": 2000,
+      "title": "Kenya ratifies African Charter on Rights and Welfare of the Child",
+      "description": "Kenya ratified African Charter on the Rights and Welfare of the Child 25 July 2000. Substantively significant continental child-rights framework subsequently incorporated via Constitution 2010 art. 53 and Children Act 2022."
+    },
+    {
+      "year": 2001,
+      "title": "Children Act 2001 — first comprehensive child-rights codification",
+      "description": "Children Act 2001 (No. 8 of 2001) enacted 31 December 2001 effective 1 March 2002 establishing first comprehensive Kenyan child-rights framework implementing UN CRC. Substantively foundational pre-2010-Constitution child-rights codification — operational framework until 2022 Children Act replacement."
+    },
+    {
+      "year": 2010,
+      "title": "Constitution of Kenya 2010 — art. 53 constitutional child-rights framework",
+      "description": "Constitution of Kenya 2010 promulgated 27 August 2010 establishing constitutionally-grounded child-rights framework under art. 53 including BIC paramount standard. Substantively transformative post-2007-2008-post-election-violence constitutional reform — among the most significant African constitutional reforms of the 21st century."
+    },
+    {
+      "year": 2014,
+      "title": "Marriage Act 2014 — comprehensive marriage consolidation",
+      "description": "Marriage Act 2014 (No. 4 of 2014) enacted 14 April 2014 effective 20 May 2014 consolidating five categories of marriage. Substantively significant institutional reform unifying Kenyan marriage framework with respect for legal pluralism."
+    },
+    {
+      "year": 2015,
+      "title": "Protection Against Domestic Violence Act 2015",
+      "description": "Protection Against Domestic Violence Act 2015 (No. 2 of 2015) establishing DV-protection framework with protection-order procedure. Substantively significant gender-violence-protection framework — invoked in subsequent DV-related family-law litigation."
+    },
+    {
+      "year": 2017,
+      "title": "Supreme Court FNB v MDB + Court of Appeal BIC jurisprudence",
+      "description": "Multiple Supreme Court and Court of Appeal decisions 2014-2017 developing Constitution art. 53 BIC paramount-standard interpretation under Children Act 2001 + Constitution 2010 framework. Substantively significant apex-court jurisprudential development on Kenyan child-rights framework."
+    },
+    {
+      "year": 2022,
+      "title": "Children Act 2022 — comprehensive modernization",
+      "description": "Children Act 2022 (No. 29 of 2022) effective 26 July 2022 replacing 2001 Children Act. Establishes parental responsibility framework, BIC paramount standard, child-participation rights, and child-protection-measures. Substantively transformative 21st-century Kenyan child-rights reform — among the most significant African child-rights codifications of the 2020s."
+    },
+    {
+      "year": 2023,
+      "title": "Children Act 2022 + Marriage Act 2014 implementation jurisprudence + Family Court framework",
+      "description": "Multiple High Court and Court of Appeal decisions 2022-2023 developing Children Act 2022 + Marriage Act 2014 + Protection Against DV Act 2015 framework interpretation including parental responsibility framework refinement and contact-refusal cases under Constitution 2010 art. 53 BIC paramount standard. Substantively significant institutional jurisprudential development — establishing trajectory toward 2024 Supreme Court + Court of Appeal post-2022-Children-Act jurisprudence."
+    },
+    {
+      "year": 2024,
+      "title": "Supreme Court + Court of Appeal post-2022-Children-Act jurisprudence",
+      "description": "Supreme Court and Court of Appeal continue developing Children Act 2022 + Constitution art. 53 BIC framework interpretation. Kenya National Commission on Human Rights (KNCHR) and Kenya Children's Department informed institutional position. Substantive analysis without doctrinal 'parental alienation' label adoption — consistent with African continental constitutional-child-rights framework approach."
+    }
+  ],
+  "structural_findings": [
+    "Kenya operates a structurally distinctive mixed common-law family-law framework with constitutional supremacy — Constitution 2010 art. 53 + Children Act 2022 + Kadhi courts framework — substantively distinctive in African region for constitutional codification of BIC paramount standard.",
+    "Children Act 2022 (effective 26 July 2022) represents the most substantial Kenyan child-rights reform since 2001 — modernising framework with parental responsibility codification, child-participation rights expansion, and child-protection-measures restructuring.",
+    "Tripartite legal pluralism (English common-law + customary law + Kadhi courts for Islamic personal-status) operationally creates structurally distinctive family-law architecture — making Kenya a critical East African comparative-law data point for mixed-jurisdiction analysis."
+  ],
+  "editorial_notes": [
+    "Kenya's Constitution 2010 art. 53 explicit constitutional codification of BIC paramount standard is substantively distinctive in African region — operationally distinguishing Kenyan framework from common-law African jurisdictions without explicit constitutional codification (Nigeria) and from European institutional-critique apex-court doctrinal positions.",
+    "Kadhi courts framework under Constitution art. 170 operates as substantively distinctive constitutionally-recognised Islamic personal-status framework — making Kenya a critical comparative-law data point for African constitutional-pluralism family-law architecture."
+  ]
+}

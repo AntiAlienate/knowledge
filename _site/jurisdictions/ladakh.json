@@ -1,0 +1,156 @@
+{
+  "schema_version": "1.0",
+  "id": "ladakh",
+  "name": "Ladakh (Indian Union Territory)",
+  "jurisdiction_code": "IN-LA",
+  "legal_system": "mixed",
+  "language": ["lbj", "ur", "hi", "en"],
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-05",
+  "summary": "Ladakh is a South Asian Trans-Himalayan mixed common-law/Buddhist-customary-law Indian Union Territory — structurally distinctive globally as the only Buddhist-majority Indian Union Territory (~40% Buddhist, ~46% Muslim, ~12% Hindu) and the highest-altitude inhabited Union Territory globally (Leh district administrative centre at ~3,500 m, Hanle observatory at ~4,500 m, Kakshung at ~4,200 m). Ladakh was created as an Indian Union Territory without a legislature (unlike J&K which has one) by the Jammu and Kashmir Reorganisation Act 2019 effective 31 October 2019. Ladakh comprises two districts: Leh (Buddhist-majority) and Kargil (Shia-Muslim-majority). Ladakh is the central jurisdiction of the China-India border dispute including the Galwan Valley confrontation of 15-16 June 2020 (first lethal border clash between Indian and Chinese troops since 1975), and contains the Line of Actual Control (LAC) with Chinese-administered Aksai Chin. Ladakh has the Sixth Schedule autonomous-district-council demand (ongoing campaign for Sixth Schedule inclusion to provide tribal-area autonomous-council protections under the Indian Constitution). Family-law framework operates under the dual Indian common-law + Buddhist customary law (Ladakhi customary law) + Muslim Personal Law (Shariat) Application Act 1937 framework, with Buddhist family law operating under Buddhist customary practices and the Buddhist Marriage and Inheritance Act (J&K, 1934, applicable as state-of-J&K law preserved through 2019). Parental authority and child custody operate under the Guardians and Wards Act 1890 supplemented by personal-law frameworks. The High Court of Jammu and Kashmir and Ladakh is the apex domestic appellate court (shared with J&K); final appellate jurisdiction lies with the Supreme Court of India. Ladakh is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Ladakh is governed by the Indian non-ratification status.",
+  "pa_recognition_status": {
+    "statutory": "silent",
+    "apex_court_position": "no-apex-position",
+    "professional_regulator_position": "silent"
+  },
+  "statutory_framework": [
+    {
+      "citation": "Jammu and Kashmir Reorganisation Act 2019",
+      "title": "J&K Reorganisation Act 2019",
+      "year": 2019,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Federal Indian Act effective 31 October 2019 creating Ladakh as a Union Territory without a legislature (alongside J&K with a legislature)."
+    },
+    {
+      "citation": "Buddhist Marriage and Inheritance Act 1934 (J&K, preserved)",
+      "title": "Buddhist Marriage and Inheritance Act 1934",
+      "year": 1934,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "J&K state-level Buddhist family-law statute preserved through the 2019 reorganisation — applies to Ladakhi Buddhists."
+    },
+    {
+      "citation": "Muslim Personal Law (Shariat) Application Act 1937 (applicable in Ladakh)",
+      "title": "Muslim Personal Law (Shariat) Application Act 1937",
+      "year": 1937,
+      "url": "https://www.indiacode.nic.in/",
+      "relevance": "Indian Muslim Personal Law Act applicable in Ladakh — primarily applies in Kargil district (Shia-Muslim-majority)."
+    }
+  ],
+  "apex_courts": [
+    {
+      "name": "High Court of Jammu and Kashmir and Ladakh",
+      "seat": "Srinagar (summer) / Jammu (winter)",
+      "url": "https://jkhighcourt.nic.in/",
+      "role": "Apex domestic appellate court for civil and criminal matters from Ladakh Union Territory and J&K Union Territory."
+    },
+    {
+      "name": "Supreme Court of India",
+      "seat": "New Delhi",
+      "url": "https://main.sci.gov.in/",
+      "role": "Final appellate court for civil and criminal matters from Ladakh."
+    }
+  ],
+  "professional_regulators": [
+    {
+      "name": "Indian Rehabilitation Council of India (RCI)",
+      "url": "https://rehabcouncil.nic.in/",
+      "role": "Indian Federal professional regulatory framework for clinical psychology applicable in Ladakh."
+    }
+  ],
+  "anonymisation_convention": "Ladakh family-court decisions are anonymised per Indian High Court practice using initials.",
+  "key_developments": [
+    {
+      "year": 1834,
+      "title": "Dogra annexation of Ladakh + Gulab-Singh-+-Princely-State-of-J&K framework",
+      "description": "Dogra Kingdom of Jammu (under Maharaja Gulab Singh) annexed Ladakh 1834 — substantively distinctive Trans-Himalayan Dogra-Princely-State-of-J&K framework establishing Ladakh as part of Jammu and Kashmir. Foundational pre-1947-Partition-+-1962-Sino-Indian-War framework affecting subsequent constitutional-administrative-trajectory."
+    },
+    {
+      "year": 1934,
+      "title": "Buddhist Marriage and Inheritance Act + J&K-state-level-Buddhist-family-law framework",
+      "description": "Buddhist Marriage and Inheritance Act 1934 (J&K state-level Act) — substantively distinctive globally only-Indian-Union-Territory-with-preserved-pre-1947-distinct-Buddhist-family-law-statute framework. Foundational substantive Buddhist-family-law framework persisting through 2019 reorganisation affecting subsequent reform-trajectory affecting family-law-implementation for Ladakhi Buddhists."
+    },
+    {
+      "year": 1962,
+      "title": "Sino-Indian War + Aksai-Chin-Chinese-control framework",
+      "description": "Sino-Indian War October-November 1962 — substantively distinctive Trans-Himalayan Sino-Indian-War-+-Chinese-de-facto-control-of-Aksai-Chin framework. China gained de-facto control of Aksai Chin (western portion of historical Ladakh). Foundational substantive 64-year continuing China-India-LAC dispute framework affecting subsequent constitutional-democratic-trajectory and Galwan Valley 2020 framework."
+    },
+    {
+      "year": 1992,
+      "title": "India ratifies UN Convention on the Rights of the Child + Ladakh-applicability framework",
+      "description": "India ratified UNCRC 11 December 1992 with applicability to Ladakh (then part of J&K state) — establishing best-interests-of-the-child substantive doctrine within Indian-derivative-common-law framework + Buddhist-customary-law co-applicability."
+    },
+    {
+      "year": 1995,
+      "title": "Ladakh Autonomous Hill Development Council Act + Leh-Council-+-Kargil-Council-2003 framework",
+      "description": "J&K state-level Act establishing Ladakh Autonomous Hill Development Council in Leh district 9 May 1995 — substantively distinctive globally autonomous-hill-development-council-+-LAHDC framework. Extended to Kargil 2003 (LAHDC-Kargil established 19 March 2003). Foundational substantive autonomous-hill-development-council framework persisting through 2019 reorganisation affecting subsequent constitutional-democratic-trajectory."
+    },
+    {
+      "year": 2019,
+      "title": "Ladakh Union Territory creation + J&K-Reorganisation-Act-+-UT-without-legislature framework",
+      "description": "Federal Indian Act effective 31 October 2019 creating Ladakh as Union Territory without a legislature (alongside J&K with a legislature) — substantively distinctive globally Union-Territory-without-a-legislature-post-2019 framework. Substantive constitutional-democratic-trajectory framework affecting subsequent Sixth-Schedule-demand framework and continuing-Article-370-abrogation context."
+    },
+    {
+      "year": 2020,
+      "title": "Galwan Valley confrontation + first-lethal-border-clash-since-1975 framework",
+      "description": "Galwan Valley confrontation 15-16 June 2020 between Indian and Chinese troops — substantively distinctive globally first-lethal-border-clash-between-Indian-and-Chinese-troops-since-1975 framework. 20 Indian and ~4 Chinese troops killed. Substantive constitutional-democratic-trajectory framework affecting subsequent Sino-Indian-tension framework and Ladakh-strategic-importance framework."
+    },
+    {
+      "year": 2021,
+      "title": "Sixth-Schedule-demand + Sonam-Wangchuk-+-Apex-Body-Ladakh-Kargil-Democratic-Alliance framework",
+      "description": "Sixth Schedule demand campaign formalised through Apex Body Ladakh + Kargil Democratic Alliance — substantively distinctive globally ongoing-Sixth-Schedule-demand-for-tribal-area-autonomy framework. Subsequent 2024 Sonam Wangchuk Climate Fast 21 March 2024 affecting subsequent constitutional-democratic-trajectory. Foundational substantive Sixth-Schedule-demand-+-Ladakhi-self-governance-+-tribal-area-autonomy framework persisting through subsequent reform-trajectory."
+    },
+    {
+      "year": 2024,
+      "title": "Sonam-Wangchuk-Climate-Fast + Ladakh-protest-movement + ongoing-Sixth-Schedule-+-statehood-demand framework",
+      "description": "Sonam Wangchuk Climate Fast 21 March 2024 substantively reinvigorating Ladakh-protest-movement framework — substantively distinctive globally only-modern-Indian-Union-Territory-with-climate-+-Sixth-Schedule-+-statehood-demand-via-non-violent-fast framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+    },
+    {
+      "year": 2023,
+      "title": "Lt-Governor + Apex-Body-Ladakh-Kargil-Democratic-Alliance + Ministry-of-Home-Affairs-talks framework",
+      "description": "Lieutenant Governor of Ladakh framework continuing through 2023 with Apex Body Ladakh + Kargil Democratic Alliance institutional positions addressing PA-related issues within Buddhist Marriage and Inheritance Act 1934 + Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 framework. Ministry of Home Affairs Government of India formal talks framework December 2023+ on Ladakh constitutional safeguards substantively significant institutional context. Continuing China-India LAC tension framework substantively significant institutional context. Substantively significant Trans-Himalayan Indian-Union-Territory institutional jurisprudential development."
+    },
+    {
+      "year": 2024,
+      "title": "High Court of Jammu and Kashmir and Ladakh + Supreme Court — Buddhist-customary-law-+-Muslim-Personal-Law-+-best-interests-of-the-child substantive register + continuing-China-India-LAC framework",
+      "description": "High Court of Jammu and Kashmir and Ladakh and Supreme Court of India continue to develop Buddhist-customary-law + Muslim-Personal-Law + best-interests-of-the-child jurisprudence under Buddhist Marriage and Inheritance Act 1934 + Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 framework in custody disputes within continuing China-India-LAC + Sixth-Schedule-demand context. Substantive analysis without doctrinal 'parental alienation' label adoption."
+    }
+  ],
+  "structural_findings": [
+    "Ladakh operates a mixed Indian common-law + Buddhist customary law + Muslim Personal Law framework — places Ladakh in the Indian Union Territory cluster.",
+    "Only Buddhist-majority Indian Union Territory is structurally distinctive globally — ~40% Buddhist within Indian Federal framework.",
+    "Highest-altitude inhabited Union Territory globally is structurally distinctive — Leh administrative centre ~3,500 m, Hanle observatory ~4,500 m.",
+    "Union Territory without a legislature post-2019 is structurally distinctive within the J&K reorganisation framework — alongside J&K Union Territory which has a legislature.",
+    "Sixth Schedule autonomous-district-council demand campaign is structurally distinctive — ongoing constitutional reform demand for tribal-area autonomy provisions.",
+    "China-India border dispute + LAC + Galwan Valley confrontation is structurally distinctive globally — only state-level territorial conflict directly involving two nuclear-armed Asian powers post-1962.",
+    "Buddhist Marriage and Inheritance Act 1934 preservation is structurally distinctive — only Indian Union Territory with preserved pre-1947 distinct Buddhist family-law statute.",
+    "Indian non-Hague-Convention-1980-ratification status applies."
+  ],
+  "references": [
+    "jurisdiction:india",
+    "jurisdiction:china",
+    "jurisdiction:jammu-and-kashmir",
+    "jurisdiction:pakistan",
+    "evidence:cross-border-parental-abduction-and-pa-intersection",
+    "evidence:childrens-rights-paramountcy-doctrine"
+  ],
+  "sources": [
+    {
+      "title": "High Court of Jammu and Kashmir and Ladakh",
+      "url": "https://jkhighcourt.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    },
+    {
+      "title": "India Code",
+      "url": "https://www.indiacode.nic.in/",
+      "publisher": "Indian Government",
+      "language": "en"
+    }
+  ],
+  "editorial_notes": [
+    "Ladakh jurisdiction sidecar v1.1 — deepened 2026-06-09 from 5 to 10 key_developments with full Dogra-annexation-1834-to-continuing-Sixth-Schedule-+-China-India-LAC trajectory: 1834-Dogra-annexation-+-Gulab-Singh + 1934-Buddhist-Marriage-and-Inheritance-Act + 1962-Sino-Indian-War-+-Aksai-Chin + 1992-India-UNCRC-ratification + 1995-Ladakh-Autonomous-Hill-Development-Council-Act-Leh + 2019-Ladakh-Union-Territory-creation + 2020-Galwan-Valley-confrontation + 2021-Sixth-Schedule-demand + 2024-Sonam-Wangchuk-Climate-Fast + 2024-High-Court-of-J&K-and-Ladakh-+-Supreme-Court.",
+    "Mixed Indian common-law/Buddhist customary/Muslim Personal Law Trans-Himalayan Indian Union Territory (Indian Constitution + J&K Reorganisation Act 2019 + Buddhist Marriage and Inheritance Act 1934 + Muslim Personal Law (Shariat) Application Act 1937 + Sixth Schedule autonomous-council demand + Indian non-Hague-1980). Only Buddhist-majority Indian Union Territory + highest-altitude inhabited Union Territory globally + Union Territory without a legislature + China-India border dispute LAC jurisdiction including Galwan Valley confrontation 2020 + only modern Indian Union Territory with climate-+-Sixth-Schedule-+-statehood demand via non-violent fast (Sonam Wangchuk 2024).",
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive Buddhist-customary-law + Muslim-Personal-Law + best-interests-of-the-child analysis under Buddhist Marriage and Inheritance Act 1934 + Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 framework without doctrinal 'parental alienation' label.",
+    "Joins South-Asian + Trans-Himalayan + mixed-Indian-common-law/customary/personal-law + Indian-Union-Territory-cluster + Buddhist-majority-UT-globally-distinctive + highest-altitude-inhabited-UT-Leh-3500m-+-Hanle-4500m-globally-distinctive + UT-without-legislature-post-2019-globally-distinctive + Sixth-Schedule-demand + China-India-LAC-+-Galwan-Valley-2020-first-lethal-border-clash-since-1975-globally-distinctive + Buddhist-Marriage-and-Inheritance-Act-1934-preserved + Dogra-annexation-1834-+-Gulab-Singh-+-Princely-State + Sino-Indian-War-1962-+-Aksai-Chin-Chinese-control + Ladakh-Autonomous-Hill-Development-Council-1995-+-Kargil-2003 + Sonam-Wangchuk-Climate-Fast-2024-globally-distinctive + Indian-non-Hague-1980 clusters within the corpus."
+  ]
+}

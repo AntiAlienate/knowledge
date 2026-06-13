@@ -199,3 +199,17 @@ The repo is structured for community contribution. Pull requests welcome for:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Index last updated: May 2026 (67 jurisdictions, 14 regional blocks, 11+ research entries, 7 ECHR deep-dives, cross-border framework, ongoing expansion).
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Global Crackdown Parental Alienation Laws](https://www.antialienate.com/blog/global-crackdown-parental-alienation-laws)
+- [Keyser Advocaten Breaking Parental Alienation Taboo Belgium](https://www.antialienate.com/blog/keyser-advocaten-breaking-parental-alienation-taboo-belgium)
+
+<!-- AA-CROSSLINK-END -->

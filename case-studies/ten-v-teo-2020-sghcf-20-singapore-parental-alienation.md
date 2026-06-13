@@ -173,3 +173,17 @@ The case is not "controversial" in the public sense — it is not the subject of
 ---
 
 *Case study prepared for the AntiAlienate knowledge base (github.com/AntiAlienate/antialienate-knowledge) under CC BY 4.0. All quotations transcribed from the published eLitigation text of [2020] SGHCF 20 and confirmed against the Family Justice Courts case highlight. Parties anonymised in accordance with Singapore family-court convention; counsel names not publicly available in the published judgment.*
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+
+<!-- AA-CROSSLINK-END -->

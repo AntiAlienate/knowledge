@@ -193,3 +193,17 @@ If a step-parent is centrally involved in a PA case, the legal strategy still ta
 ---
 
 *Open a PR if your step-parent scenario isn't represented — this is an under-documented area and contributor experience helps.*
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+
+<!-- AA-CROSSLINK-END -->

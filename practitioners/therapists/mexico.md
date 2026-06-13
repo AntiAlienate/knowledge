@@ -280,3 +280,17 @@ For transparency, the following names were considered and excluded:
 5. **State-code variation matters operationally more than federal doctrine.** Even with CDMX derogation, AP remains in the Civil Codes of Estado de México, Aguascalientes, Coahuila, Hidalgo, Querétaro, Puebla. The same perito psicólogo working a custodia-impugnada case will encounter AP as a tipificable category in Toluca and not in CDMX — across the same Valle de México metropolis. This is the under-reported operational fact pattern in Mexican PA-clinical work.
 
 6. **CNDH 2011 *Alienación Parental* (2nd edition, 317 pp.) is the single most operationally-useful Mexican institutional reference** — explicitly mixed-positions, used by both camps. Any practitioner directory in this jurisdiction that omits the CNDH volume is incomplete.
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Laws By Country](https://www.antialienate.com/blog/parental-alienation-laws-by-country)
+
+<!-- AA-CROSSLINK-END -->

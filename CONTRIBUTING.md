@@ -107,3 +107,13 @@ Everything in the repository is CC BY 4.0. By contributing, you license your con
 *Reviewed and confirmed editorial standard: 2026-05-25. This document is itself open to PR if you think a standard needs strengthening or clarifying.*
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [What Childrens Therapists Must Provide Both Parents](https://www.antialienate.com/blog/what-childrens-therapists-must-provide-both-parents)
+
+<!-- AA-CROSSLINK-END -->
