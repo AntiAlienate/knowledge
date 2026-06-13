@@ -53,7 +53,7 @@ EVIDENCE = REPO_ROOT / "evidence"
 
 LICENSE_FOOTER = (
     "\n\n---\n\n"
-    "*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). "
+    "*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/antialienateorg/antialienate-knowledge). "
     "Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*\n"
 )
 
@@ -597,7 +597,7 @@ def cmd_index(args) -> int:
         for country, stem, n, x in rows:
             out.append(f"| {country} | [{stem}.md]({stem}.md) | [{stem}.json]({stem}.json) | {n} | {x} |")
         out.append("")
-        out.append("*Canonical JSON: `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/" + kind + "/<country>.json`*")
+        out.append("*Canonical JSON: `https://knowledge.antialienate.com/practitioners/" + kind + "/<country>.json`*")
         (d / "README.md").write_text("\n".join(out) + LICENSE_FOOTER)
     print("index: practitioner READMEs rebuilt")
     return 0
@@ -636,8 +636,14 @@ def cmd_aggregate(args) -> int:
 
 # ---------- manifest ----------
 
-RAW_BASE = "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main"
-SITE_BASE = "https://github.com/AntiAlienate/antialienate-knowledge/blob/main"
+# Canonical, GitHub-independent base. The KB build publishes per-entry JSON,
+# schemas, and this manifest to Firebase at knowledge.antialienate.com, so every
+# downstream consumer (Liena RAG / app case-law browser / external citers) reads
+# from the live site — no runtime GitHub dependency, no API rate limits.
+RAW_BASE = "https://knowledge.antialienate.com"
+# Human-facing pages are mkdocs directory URLs (case-studies/<slug>/), produced
+# below by stripping the .json/.md extension and appending a trailing slash.
+SITE_BASE = "https://knowledge.antialienate.com"
 
 
 def cmd_manifest(args) -> int:
@@ -658,11 +664,12 @@ def cmd_manifest(args) -> int:
 
     def file_meta(path: pathlib.Path) -> dict:
         rel = path.relative_to(REPO_ROOT).as_posix()
+        stem = rel[:-5] if rel.endswith(".json") else rel
         return {
             "path": rel,
-            "json_url": f"{RAW_BASE}/{rel}",
-            "md_url": f"{RAW_BASE}/{rel[:-5]}.md" if rel.endswith(".json") else None,
-            "html_url": f"{SITE_BASE}/{rel}",
+            "json_url": f"{RAW_BASE}/{rel}",          # canonical structured data (static on Firebase)
+            "md_url": None,                            # raw MD is rendered to HTML by mkdocs; use html_url
+            "html_url": f"{SITE_BASE}/{stem}/",        # human-readable mkdocs page (directory URL)
         }
 
     practitioners: dict[str, list[dict]] = {"therapists": [], "lawyers": []}
@@ -732,7 +739,9 @@ def cmd_manifest(args) -> int:
     if JURISDICTIONS.exists():
         json_stems = {p.stem for p in all_jurisdiction_jsons()}
         for f in sorted(JURISDICTIONS.glob("*.md")):
-            entry = {"id": f.stem, "md_url": f"{RAW_BASE}/jurisdictions/{f.name}"}
+            if f.stem == "README":
+                continue
+            entry = {"id": f.stem, "html_url": f"{SITE_BASE}/jurisdictions/{f.stem}/"}
             if f.stem in json_stems:
                 entry["json_url"] = f"{RAW_BASE}/jurisdictions/{f.stem}.json"
                 try:
@@ -763,11 +772,13 @@ def cmd_manifest(args) -> int:
     ed = REPO_ROOT / "evidence"
     if ed.exists():
         for f in sorted(ed.glob("*.md")):
-            evidence.append({"id": f.stem, "md_url": f"{RAW_BASE}/evidence/{f.name}"})
+            if f.stem == "README":
+                continue
+            evidence.append({"id": f.stem, "html_url": f"{SITE_BASE}/evidence/{f.stem}/"})
 
     manifest = {
         "manifest_version": "1.0",
-        "repository": "AntiAlienate/antialienate-knowledge",
+        "repository": "antialienateorg/antialienate-knowledge",
         "license": "CC-BY-4.0",
         "generated": now,
         "schemas": dict(schemas, jurisdiction=f"{RAW_BASE}/schemas/jurisdiction.schema.json"),
@@ -781,7 +792,7 @@ def cmd_manifest(args) -> int:
         "consumption": {
             "rag": "Prefer JSON over MD. Use entry.id / case-study.slug as stable vector-ID prefix.",
             "discovery": "Walk this manifest; per-type index.json files give compact listings.",
-            "updates": "Watch GitHub commits to practitioners/**.json and case-studies/**.json; re-ingest on change.",
+            "updates": "Re-fetch manifest.json + per-type index.json from knowledge.antialienate.com; re-ingest entries whose JSON changed.",
             "anonymisation": "Children + family parties are anonymised per the deciding court's convention. Do not attempt de-anonymisation.",
             "license": "CC BY 4.0 — attribute to AntiAlienate Knowledge with link.",
         },
@@ -802,6 +813,72 @@ def cmd_manifest(args) -> int:
     }
     (REPO_ROOT / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
     print(f"manifest: written; {len(practitioners['therapists'])} v2 therapist files, {len(case_studies)} case studies, {len(jurisdictions)} jurisdictions, {len(evidence)} evidence pages")
+    return 0
+
+
+# ---------- case-law export ----------
+
+CASE_LAW = REPO_ROOT / "case-law"
+
+
+def _caselaw_title(md: str, fallback: str) -> str:
+    fm = re.match(r"^---\s*\n(.*?)\n---\s*\n", md, re.S)
+    if fm:
+        m = re.search(r'(?m)^title:\s*"?([^"\n]+)"?', fm.group(1))
+        if m:
+            return m.group(1).strip()
+    h1 = re.search(r"(?m)^#\s+(.+)$", md)
+    return (h1.group(1) if h1 else fallback).strip()
+
+
+def cmd_caselaw(args) -> int:
+    """Export the case-law/ markdown corpus as JSON for the app's in-app
+    /case-law/browse (Option B): a light index grouped by jurisdiction, plus
+    one JSON per entry carrying the markdown body so the app renders it in-app
+    (instant SPA transition) instead of bouncing to the public site. Published
+    to knowledge.antialienate.com, so the app fetches it with no GitHub call."""
+    import datetime
+    now = datetime.datetime.utcnow().replace(microsecond=0).isoformat() + "Z"
+    if not CASE_LAW.exists():
+        print("caselaw: no case-law/ dir; skipped")
+        return 0
+    by_jur: dict[str, list[dict]] = {}
+    total = 0
+    for f in sorted(CASE_LAW.rglob("*.md")):
+        rel = f.relative_to(CASE_LAW)
+        parts = rel.parts
+        # Skip READMEs + top-level loose files — match the app's <jurisdiction>/<slug> grouping.
+        if f.stem == "README" or len(parts) < 2:
+            continue
+        jur = parts[0]
+        slug = "/".join(parts[1:])[:-3]  # path under the jurisdiction, sans .md
+        md = f.read_text(encoding="utf-8")
+        title = _caselaw_title(md, slug)
+        body = re.sub(r"^---\s*\n.*?\n---\s*\n", "", md, count=1, flags=re.S)  # strip frontmatter
+        entry = {
+            "jurisdiction": jur,
+            "slug": slug,
+            "title": title,
+            "html_url": f"{SITE_BASE}/case-law/{jur}/{slug}/",
+        }
+        by_jur.setdefault(jur, []).append(entry)
+        # Per-entry JSON (with body) sits next to the .md and is published as a static asset.
+        f.with_suffix(".json").write_text(
+            json.dumps({**entry, "body": body, "generated": now}, indent=2, ensure_ascii=False) + "\n",
+            encoding="utf-8")
+        total += 1
+    for jur in by_jur:
+        by_jur[jur].sort(key=lambda e: e["slug"])
+    index = {
+        "type": "case-law",
+        "license": "CC-BY-4.0",
+        "generated": now,
+        "count": total,
+        "jurisdictions": dict(sorted(by_jur.items())),
+    }
+    (CASE_LAW / "index.json").write_text(
+        json.dumps(index, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+    print(f"caselaw: {total} entries across {len(by_jur)} jurisdictions; index + per-entry JSON written")
     return 0
 
 
@@ -827,7 +904,7 @@ def die(msg: str) -> None:
 def main(argv: list[str] | None = None) -> int:
     p = argparse.ArgumentParser(prog="aa-build")
     sub = p.add_subparsers(dest="cmd", required=True)
-    for c in ("validate", "urls", "index", "aggregate", "manifest", "build"):
+    for c in ("validate", "urls", "index", "aggregate", "manifest", "caselaw", "build"):
         sub.add_parser(c)
     refs = sub.add_parser("refs")
     refs.add_argument("--strict", action="store_true", help="fail (exit 1) on broken refs; default is warn-only during migration")
@@ -842,6 +919,7 @@ def main(argv: list[str] | None = None) -> int:
         "index": cmd_index,
         "aggregate": cmd_aggregate,
         "manifest": cmd_manifest,
+        "caselaw": cmd_caselaw,
         "build": cmd_build,
     }[args.cmd](args)
 
