@@ -119,6 +119,8 @@ Greece's **Civil Code (Αστικός Κώδικας) arts. 1505–1518** govern
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Greek family lawyer (*dikigoros oikogeneiakou dikaiou*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

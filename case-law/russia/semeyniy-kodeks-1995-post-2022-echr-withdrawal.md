@@ -122,6 +122,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Russia family-law cases post-2022 require specialized counsel; sanctions environment substantially complicates cross-border practice with Russia.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

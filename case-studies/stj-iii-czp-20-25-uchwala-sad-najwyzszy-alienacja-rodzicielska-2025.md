@@ -97,6 +97,8 @@ For honest PA advocacy, the case is a model of what statutory-enforcement reason
 - [Kancelaria Adwokacka dr Kingi Karsten – "Utrudniony kontakt z dzieckiem – orzeczenie SN z 2025 r."](https://karsten.pl/porady-prawne/utrudniony-kontakt-z-dzieckiem-nowy-targ/)
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

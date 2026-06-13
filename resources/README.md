@@ -19,11 +19,18 @@ Pointer pages. We don't reprint other people's work — we tell you where to fin
 *Missing a resource you rely on? [Open a PR.](https://github.com/AntiAlienate/antialienate-knowledge/pulls)*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 
@@ -41,8 +48,7 @@ Pointer pages. We don't reprint other people's work — we tell you where to fin
 
 ## Related on antialienate.com
 
-- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
 - [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
-- [20 Lies Alienators Tell New Partners](https://www.antialienate.com/blog/20-lies-alienators-tell-new-partners)
+- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
 
 <!-- AA-CROSSLINK-END -->

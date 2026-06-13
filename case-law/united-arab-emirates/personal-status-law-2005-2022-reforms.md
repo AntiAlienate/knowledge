@@ -124,6 +124,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. UAE family-law cases are exceptionally complex due to dual Sharia/civil framework, Emirate-level variations, and non-Hague status. Specialized UAE counsel + originating-jurisdiction counsel both required for cross-border cases.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -99,6 +99,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Consult a qualified Latvian family-law attorney (advokats, kas specializejas gimenes tiesibas).
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

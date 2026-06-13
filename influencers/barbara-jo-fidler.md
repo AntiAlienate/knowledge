@@ -35,11 +35,18 @@ Fidler co-authored the field's most balanced practitioner text — *Children Who
 *[← Back to influencers index](README.md)*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

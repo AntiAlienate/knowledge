@@ -95,6 +95,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Consult a qualified Icelandic family-law attorney (logmadur med serfraedi i fjolskylduretti).
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

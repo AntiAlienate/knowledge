@@ -102,6 +102,8 @@ Singapore's family-law framework combines **Women's Charter** (Cap. 353) arts. 1
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Singapore family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

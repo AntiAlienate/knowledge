@@ -100,6 +100,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

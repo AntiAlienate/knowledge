@@ -76,6 +76,8 @@ For affected parents, the brutal honesty of the judgment – the judge effective
 - [Karen Woodall – "Responding to cases of post-separation parental rejection" (2021)](https://s70fa8a3935caf190.jimcontent.com/download/version/1726402616/module/8172817981/name/Woodall%20N%20(2021)%20The%20alienated%20child%20Responding%20to%20cases%20of%20post%20separation%20parental%20rejection%20c.pdf)
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

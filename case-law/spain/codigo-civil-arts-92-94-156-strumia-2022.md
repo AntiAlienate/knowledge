@@ -128,6 +128,8 @@ Spain's **Código Civil** arts. 92-94 (parental authority — *patria potestad*)
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Spanish family lawyer (*abogado de familia*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

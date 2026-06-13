@@ -99,6 +99,8 @@ National coercive-control statutory reforms converge with multi-tier internation
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -107,6 +109,8 @@ National coercive-control statutory reforms converge with multi-tier internation
 
 **Referenced in this page:**
 
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 
 **Topic baseline (independently verifiable):**

@@ -126,6 +126,8 @@ Section 7 enumerates 14 factors for best-interest determination:
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified South African family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

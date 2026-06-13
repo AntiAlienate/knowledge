@@ -71,6 +71,8 @@ Educational content. **Not legal advice.**
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -84,6 +86,7 @@ Educational content. **Not legal advice.**
 - [HUDOC search: Strumia](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Strumia%22]})
 - [HUDOC search: Solarino](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Solarino%22]})
 - [HUDOC search: Lombardo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lombardo%22]})
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
 
 **Topic baseline (independently verifiable):**
 

@@ -116,6 +116,8 @@ Educational content. **Not legal advice.** Service members should consult JAG + 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -124,6 +126,8 @@ Educational content. **Not legal advice.** Service members should consult JAG + 
 
 **Referenced in this page:**
 
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 
 **Topic baseline (independently verifiable):**

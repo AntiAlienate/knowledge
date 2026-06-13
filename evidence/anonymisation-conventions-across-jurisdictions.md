@@ -133,6 +133,8 @@ Anonymisation conventions structurally shape the citable apex-jurisprudence base
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/anonymisation-conventions-across-jurisdictions.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -141,6 +143,8 @@ Anonymisation conventions structurally shape the citable apex-jurisprudence base
 
 **Referenced in this page:**
 
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 
 **Topic baseline (independently verifiable):**

@@ -97,6 +97,8 @@ Ireland's **Guardianship of Infants Act 1964** (as amended) governs guardianship
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Irish family lawyer (Law Society of Ireland) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

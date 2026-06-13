@@ -149,6 +149,8 @@ Educational content. **Not legal advice.** Hague matters are highly time-critica
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -162,7 +164,7 @@ Educational content. **Not legal advice.** Hague matters are highly time-critica
 - [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
 - [HUDOC search: Solarino](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Solarino%22]})
 - [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
-- [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
 
 **Topic baseline (independently verifiable):**
 

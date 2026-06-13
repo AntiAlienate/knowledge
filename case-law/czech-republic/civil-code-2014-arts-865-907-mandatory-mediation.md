@@ -115,6 +115,8 @@ Czech Republic's **Občanský zákoník** (Civil Code, OZ — Law 89/2012, in fo
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Czech family lawyer (*advokát rodinného práva*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

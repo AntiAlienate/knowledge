@@ -537,6 +537,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -545,6 +547,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 **Referenced in this page:**
 
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
 - [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**

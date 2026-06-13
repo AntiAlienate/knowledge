@@ -36,11 +36,18 @@ Von Boch-Galhau translated Gardner into German, has written the standard German-
 *[← Back to influencers index](README.md)*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

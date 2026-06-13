@@ -65,6 +65,8 @@ Peru's **Código Civil** arts. 418–446 governs *patria potestad*, supplemented
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Peruvian family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

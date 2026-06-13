@@ -86,6 +86,8 @@ For high-volume cases, a portable Brother PJ7-series mobile thermal printer + a 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

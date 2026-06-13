@@ -88,6 +88,8 @@ Colombia operates a dual framework: **Código Civil** (arts. 253–262 on parent
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Colombian family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

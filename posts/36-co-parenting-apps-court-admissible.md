@@ -85,6 +85,8 @@ Educational content. **Not legal advice.** App availability + pricing changes â€
 **CC BY 4.0 Â· [antialienate.com](https://www.antialienate.com) Â· Alan Markson**
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -94,6 +96,8 @@ Educational content. **Not legal advice.** App availability + pricing changes â€
 **Referenced in this page:**
 
 - [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

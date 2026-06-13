@@ -114,6 +114,8 @@ South Korea's **Civil Act** (민법) arts. 909–927 governs *chinkwon* (친권 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Korean family lawyer (*byeonhosa*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

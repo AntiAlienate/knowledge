@@ -129,6 +129,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. PRC family-law cases require specialized counsel; cross-border cases involving Mainland China are exceptionally complex due to non-Hague status — early specialized counsel is essential. Hong Kong + Macau + Taiwan cases require different counsel familiar with those separate systems.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

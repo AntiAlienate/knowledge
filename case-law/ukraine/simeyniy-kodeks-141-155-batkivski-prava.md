@@ -118,6 +118,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. The wartime context creates exceptional complications for Ukrainian PA cases. Consult a qualified Ukrainian family-law attorney (advokat sertyfikovanyy z simeynogo prava) with international displacement experience.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -125,6 +125,8 @@ The case is what transforms Article 8 from a defensive shield (state must not in
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Romanian family lawyer (*avocat de familie*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -130,6 +130,8 @@ Switzerland's **Zivilgesetzbuch** (Swiss Civil Code, ZGB) arts. 296–298 govern
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Swiss family lawyer (Familienrechtsanwalt / avocat en droit de la famille / avvocato in diritto di famiglia) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

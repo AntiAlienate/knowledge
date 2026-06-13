@@ -87,6 +87,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -98,6 +100,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 - [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
 - [HUDOC search: Bondavalli](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bondavalli%22]})
 - [HUDOC search: Solarino](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Solarino%22]})
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

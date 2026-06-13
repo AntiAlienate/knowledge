@@ -141,6 +141,8 @@ Poland's **Kodeks rodzinny i opiekuńczy** (KRO — Family and Guardianship Code
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Polish family lawyer (*adwokat / radca prawny*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

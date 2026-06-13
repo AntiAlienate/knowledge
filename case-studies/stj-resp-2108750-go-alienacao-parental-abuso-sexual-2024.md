@@ -108,6 +108,8 @@ For honest PA advocacy, the case is also a caution. It shows that the highest Br
 - [Senado Federal – Consulta Pública PL 1372/2023](https://www12.senado.leg.br/ecidadania/visualizacaomateria?id=156451)
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -46,6 +46,8 @@ See [../README.md](../README.md). Primary-source verification on every entry; st
 *Discovery: `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json`*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -74,6 +74,8 @@ Finland's family-law framework comprises the **Marriage Act 234/1929** (amended 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Finnish family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

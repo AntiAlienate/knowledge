@@ -127,6 +127,8 @@ The Netherlands operates **Boek 1 Burgerlijk Wetboek** (Book 1 of the Civil Code
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Dutch family lawyer (*familierechtadvocaat*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

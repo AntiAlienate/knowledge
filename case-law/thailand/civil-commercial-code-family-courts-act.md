@@ -119,6 +119,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Thailand family-law cases require specialized counsel. Cross-border cases involving Thai-resident expats are exceptionally common and require coordinated specialized counsel.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -201,6 +201,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Index last updated: May 2026 (67 jurisdictions, 14 regional blocks, 11+ research entries, 7 ECHR deep-dives, cross-border framework, ongoing expansion).
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

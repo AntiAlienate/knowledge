@@ -81,6 +81,8 @@ Chile's family-law framework comprises **Ley 19.947 (2004)** on civil marriage, 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Chilean family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

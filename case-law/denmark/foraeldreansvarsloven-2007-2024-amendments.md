@@ -84,6 +84,8 @@ Denmark's **Forældreansvarsloven** (Parental Responsibility Act 2007, in force 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Danish family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

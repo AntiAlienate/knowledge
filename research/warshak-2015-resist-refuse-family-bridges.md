@@ -115,6 +115,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

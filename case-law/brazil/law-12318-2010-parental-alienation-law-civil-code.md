@@ -148,6 +148,8 @@ Law 12.318/2010 is the global reference for PA statutory recognition:
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Brazilian *advogado de família* for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

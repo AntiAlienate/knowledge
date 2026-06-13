@@ -436,6 +436,8 @@ Contributor-invitation content. The literature converges on these elements:
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

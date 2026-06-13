@@ -39,6 +39,8 @@ PRs welcome for additional templates, adaptations to specific jurisdictions, and
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

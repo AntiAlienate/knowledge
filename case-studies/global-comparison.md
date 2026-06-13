@@ -82,6 +82,8 @@ Last regenerated: 2026-05-25.
 *Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -126,6 +126,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Pakistan family-law cases require specialized counsel familiar with the relevant sectarian framework + procedural provincial variations. Cross-border cases are exceptionally complex due to non-Hague status.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

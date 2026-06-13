@@ -123,6 +123,8 @@ Mexico operates 32 separate state civil codes plus the **Federal Civil Code**, w
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Mexican family lawyer (*abogado de familia*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

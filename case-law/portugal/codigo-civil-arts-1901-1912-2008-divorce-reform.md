@@ -93,6 +93,8 @@ Portugal's **Código Civil** arts. 1901–1912 governs *responsabilidades parent
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Portuguese family lawyer (*advogado(a) de família*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

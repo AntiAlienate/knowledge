@@ -94,6 +94,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Consult a qualified Bulgarian family-law attorney (advokat, spetsializiran v semeyno pravo).
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

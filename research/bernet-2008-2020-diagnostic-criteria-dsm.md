@@ -104,6 +104,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: This summary is educational, not clinical or legal advice. Diagnostic application of the Bernet 5 criteria requires a qualified mental-health professional. Forensic application in custody proceedings requires a court-appointed evaluator.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

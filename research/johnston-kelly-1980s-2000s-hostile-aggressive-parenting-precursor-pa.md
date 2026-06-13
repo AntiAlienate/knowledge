@@ -69,6 +69,8 @@ The Johnston-Kelly approach proved influential because:
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

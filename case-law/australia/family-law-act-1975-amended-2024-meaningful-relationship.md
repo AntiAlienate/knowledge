@@ -140,6 +140,8 @@ The 2024 reform replaced the prior 2-tier "primary considerations" + "additional
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Australian family lawyer (Family Law Section, Law Council of Australia) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

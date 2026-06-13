@@ -181,11 +181,18 @@ AntiAlienate.com
 *Verified 2026-05-25. Re-verify before any outreach more than 3 months later — academic emails change with moves, org contacts change with restructures.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

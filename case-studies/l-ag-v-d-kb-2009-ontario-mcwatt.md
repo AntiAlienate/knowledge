@@ -88,6 +88,8 @@ Third, the case matters as a *contrast point* for cross-jurisdictional analysis.
 - Fidler, B. J., & Bala, N. (2010). "Children resisting post-separation contact with a parent: Concepts, controversies, and conundrums." *Family Court Review*, 48(1), 10–47
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

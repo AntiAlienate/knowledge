@@ -115,6 +115,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. For Article 8 litigation involving hearing-the-child doctrine, consult counsel familiar with ECHR procedural rules and your domestic family-procedure framework.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

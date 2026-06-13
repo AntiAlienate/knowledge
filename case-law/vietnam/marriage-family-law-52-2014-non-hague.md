@@ -112,6 +112,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Vietnamese family-law cases require specialized counsel; cross-border cases involving Vietnam are exceptionally complex due to non-Hague status.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

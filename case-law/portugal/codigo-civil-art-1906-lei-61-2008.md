@@ -93,6 +93,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Consult a qualified Portuguese family-law attorney (advogado especialista em direito da familia).
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -33,6 +33,8 @@ Dijkstra's 2020 paper on mothers losing contact with daughters after divorce is 
 *[← Back to influencers index](README.md)*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -42,6 +44,8 @@ Dijkstra's 2020 paper on mothers losing contact with daughters after divorce is 
 **Referenced in this page:**
 
 - [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

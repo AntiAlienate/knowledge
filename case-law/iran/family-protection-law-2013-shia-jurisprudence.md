@@ -129,6 +129,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Iran family-law cases require specialized counsel familiar with Twelver Shia jurisprudence + 2013 Family Protection Law. Cross-border cases involving Iran are exceptionally complex due to non-Hague status + sanctions environment — specialized cross-border counsel essential.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

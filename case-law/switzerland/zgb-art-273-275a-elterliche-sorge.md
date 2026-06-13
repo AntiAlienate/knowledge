@@ -95,6 +95,8 @@ Switzerland is a Hague 1980 signatory. Cross-border PA cases involving Swiss-res
 *Disclaimer: This page summarizes statutory and case-law information for educational purposes. It is not legal advice. Consult a qualified Swiss family-law attorney (Familienrechtsanwalt / avocat spécialiste FSA droit de la famille) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

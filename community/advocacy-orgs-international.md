@@ -115,11 +115,18 @@ PRs from contributors with on-the-ground verification welcome.
 *Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Last expanded 2026-05-25. Missing an org you rely on? [Open a PR.](https://github.com/AntiAlienate/antialienate-knowledge/pulls)*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

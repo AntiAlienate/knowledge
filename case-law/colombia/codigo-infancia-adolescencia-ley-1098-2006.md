@@ -110,6 +110,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Consult a qualified Colombian family-law attorney (abogado/a especialista en derecho de familia) and consider ICBF administrative processes alongside judicial avenues.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

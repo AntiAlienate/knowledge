@@ -117,6 +117,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Consult a qualified Turkish family-law attorney (aile hukuku avukatı). Cross-border cases involving Turkey-Germany or other diaspora destinations require coordinated counsel.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

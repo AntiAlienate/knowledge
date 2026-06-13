@@ -130,6 +130,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Algeria family-law cases require specialized counsel familiar with both the Code de la Famille framework + 2005 reform context. Cross-Mediterranean cases (especially Algeria-France) require coordinated specialized counsel given the deep historical France-Algeria connections.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

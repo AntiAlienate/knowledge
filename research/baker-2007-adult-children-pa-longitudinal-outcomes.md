@@ -106,6 +106,8 @@ Baker's 2007 study transformed PA from a contested clinical theory to an empiric
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal or clinical advice.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

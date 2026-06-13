@@ -92,6 +92,8 @@ Indonesia (population 280M, world's largest Muslim-majority country) operates a 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Indonesian or diaspora-jurisdiction family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

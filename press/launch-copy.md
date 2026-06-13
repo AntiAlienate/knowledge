@@ -204,11 +204,18 @@ analytics and the repo to handle initial load.
 - [ ] Backup distribution lined up (paid wire on standby if organic flat)
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

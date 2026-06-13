@@ -105,6 +105,8 @@ For honest PA advocacy, the case is also instructive: the most explicit PA legis
 - [Jusbrasil – "Alienação Parental: os acórdãos do STJ"](https://www.jusbrasil.com.br/artigos/alienacao-parental-os-acordaos-do-stj/429364271)
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

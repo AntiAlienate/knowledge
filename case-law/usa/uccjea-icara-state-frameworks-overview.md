@@ -151,6 +151,8 @@ The United States operates a **dual federal-state custody framework**: state law
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified US family lawyer licensed in your state for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -132,6 +132,8 @@ Following *Strand Lobben*, the ECHR delivered **37 Grand Chamber + Chamber rulin
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Norwegian family lawyer (*familierettsadvokat*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

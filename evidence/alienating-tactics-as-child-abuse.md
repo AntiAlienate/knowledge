@@ -89,6 +89,8 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/alienating-tactics-as-child-abuse.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -100,6 +102,8 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 - [HUDOC search: Lombardo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lombardo%22]})
 - [HUDOC search: Strumia](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Strumia%22]})
 - [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 
 **Topic baseline (independently verifiable):**

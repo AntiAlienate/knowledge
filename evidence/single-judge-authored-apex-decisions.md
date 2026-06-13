@@ -139,6 +139,8 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -148,6 +150,8 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 **Referenced in this page:**
 
 - [HUDOC search: Neulinger and Shuruk](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Neulinger and Shuruk%22]})
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

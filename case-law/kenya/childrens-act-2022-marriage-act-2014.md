@@ -101,6 +101,8 @@ Kenya is the **East African common-law leader** on child custody after major 202
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Kenyan or diaspora-jurisdiction family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

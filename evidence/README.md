@@ -86,6 +86,8 @@ Evidence pages enumerated in `/manifest.json` discovery endpoint. Downstream RAG
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/README.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -96,6 +98,8 @@ Evidence pages enumerated in `/manifest.json` discovery endpoint. Downstream RAG
 
 - [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 - [ECHR — Convention text](https://www.echr.coe.int/documents/d/echr/convention_ENG)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
 
 **Topic baseline (independently verifiable):**

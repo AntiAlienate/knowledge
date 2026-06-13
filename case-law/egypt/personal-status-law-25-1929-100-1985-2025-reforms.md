@@ -122,6 +122,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Egyptian family-law cases require specialized counsel; cross-religion or cross-border cases involving Egypt require particularly experienced counsel familiar with the religious-status framework and Hague practice.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

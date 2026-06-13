@@ -111,6 +111,8 @@ Austria's **Allgemeines bürgerliches Gesetzbuch** (ABGB, General Civil Code 181
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Austrian family lawyer (*Familienrechtsanwalt/-anwältin*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

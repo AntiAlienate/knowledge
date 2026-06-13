@@ -119,6 +119,8 @@ Israel operates a **dual-track court system** for family matters: civil **Family
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Israeli family lawyer (*oreh din*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

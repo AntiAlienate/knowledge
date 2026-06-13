@@ -118,6 +118,8 @@ New Zealand's **Care of Children Act 2004** (CoCA, in force 1 Jul 2005) governs 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified New Zealand family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

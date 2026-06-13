@@ -129,6 +129,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Saudi Arabia family-law cases require specialized counsel familiar with Sharia framework + post-2022 codification. Cross-border cases involving Saudi-resident children are exceptionally complex due to non-Hague status — early specialized counsel essential.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

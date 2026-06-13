@@ -101,6 +101,8 @@ Held that *tvangsmulkt* (coercive fines) under § 65 must be applied with real t
 *Disclaimer: This page summarizes statutory and case-law information for educational purposes. It is not legal advice. Consult a qualified Norwegian family-law attorney (advokat med spesialisering i familierett) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

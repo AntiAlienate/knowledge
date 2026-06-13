@@ -56,6 +56,8 @@ Educational content. **Not clinical or legal advice.**
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -65,6 +67,8 @@ Educational content. **Not clinical or legal advice.**
 **Referenced in this page:**
 
 - [HUDOC search: Solarino](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Solarino%22]})
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

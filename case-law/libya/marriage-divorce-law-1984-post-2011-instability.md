@@ -127,6 +127,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Libya family-law cases post-2011 are exceptionally complex due to political instability + institutional fragmentation + non-Hague status. Specialized counsel with conflict-zone experience essential. This summary reflects the formal pre-2011 framework that remains nominally in force.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

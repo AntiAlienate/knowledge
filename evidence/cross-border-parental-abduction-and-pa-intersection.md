@@ -131,6 +131,8 @@ India (not acceded) + the Asian apex cluster's recognition-pole doctrine (Vivek 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/cross-border-parental-abduction-and-pa-intersection.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -141,6 +143,8 @@ India (not acceded) + the Asian apex cluster's recognition-pole doctrine (Vivek 
 
 - [HUDOC search: Neulinger and Shuruk](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Neulinger and Shuruk%22]})
 - [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
 
 **Topic baseline (independently verifiable):**

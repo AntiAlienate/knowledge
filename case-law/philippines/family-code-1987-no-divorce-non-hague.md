@@ -127,6 +127,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Philippine family-law cases require specialized counsel; cross-border cases involving the Philippines are exceptionally complex due to non-Hague status + no-divorce framework + ~10M OFW diaspora context.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

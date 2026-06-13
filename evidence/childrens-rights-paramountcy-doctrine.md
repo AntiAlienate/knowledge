@@ -130,6 +130,8 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 C
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -141,6 +143,8 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 C
 - [HUDOC search: Neulinger and Shuruk](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Neulinger and Shuruk%22]})
 - [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 - [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 
 **Topic baseline (independently verifiable):**

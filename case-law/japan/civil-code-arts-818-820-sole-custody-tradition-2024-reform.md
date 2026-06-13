@@ -136,6 +136,8 @@ Japan operated **sole-custody-only** framework from the 1898 Meiji Civil Code th
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Japanese family lawyer (*bengoshi* — 弁護士) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

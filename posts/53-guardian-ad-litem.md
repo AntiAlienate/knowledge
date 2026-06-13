@@ -99,6 +99,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -107,6 +109,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 
 **Referenced in this page:**
 
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 
 **Topic baseline (independently verifiable):**

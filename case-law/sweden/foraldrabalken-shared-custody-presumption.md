@@ -122,6 +122,8 @@ Sweden's shared-custody presumption is **stronger** than Norway's discretionary 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Swedish family lawyer (*familjerättsadvokat*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

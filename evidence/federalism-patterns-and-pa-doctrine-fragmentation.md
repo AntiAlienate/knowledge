@@ -130,6 +130,8 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -138,6 +140,8 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 
 **Referenced in this page:**
 
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 - [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
 

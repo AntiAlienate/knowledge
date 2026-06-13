@@ -59,6 +59,8 @@ This page is a reference index, not clinical or legal advice. Foundational paper
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

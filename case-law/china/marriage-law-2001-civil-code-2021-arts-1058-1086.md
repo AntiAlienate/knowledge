@@ -114,6 +114,8 @@ China is **NOT a party** to Hague 1980 or Hague 1996. This creates significant c
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Chinese family lawyer (*lüshi*) for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

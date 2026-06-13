@@ -126,6 +126,8 @@ By Alan Markson. Licensed under CC BY 4.0.
 Disclaimer: Educational summary, not legal advice. Ghana family-law cases require specialized counsel familiar with the relevant marriage type (Ordinance/Customary/Mohammedan) and Family Tribunal procedure.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

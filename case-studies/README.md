@@ -113,6 +113,8 @@ For a quick orientation, start with **[Global Comparison Matrix](global-comparis
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

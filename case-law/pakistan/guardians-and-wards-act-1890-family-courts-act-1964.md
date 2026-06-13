@@ -103,6 +103,8 @@ Pakistan's child-custody framework combines **Guardians and Wards Act 1890** (pr
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Pakistani or diaspora-jurisdiction family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

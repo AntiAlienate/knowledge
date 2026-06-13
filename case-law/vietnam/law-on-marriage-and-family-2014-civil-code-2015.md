@@ -88,6 +88,8 @@ Vietnam's **Law on Marriage and Family 2014** (Law 52/2014/QH13) plus **Civil Co
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Vietnamese or diaspora-jurisdiction family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

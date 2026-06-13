@@ -75,6 +75,8 @@ Sri Lanka operates a **plural family-law system** combining colonial Roman-Dutch
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Sri Lankan family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

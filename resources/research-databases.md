@@ -150,11 +150,18 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 *Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Missing a database? Open a PR.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

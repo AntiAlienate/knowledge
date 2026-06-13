@@ -107,6 +107,8 @@ PRs that add unverified entries, guess stance, or use second-hand stance attribu
 *CC BY 4.0 · [AntiAlienate.com](https://www.antialienate.com) · Canonical machine-readable JSON URLs at https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/<type>/<country>.json*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

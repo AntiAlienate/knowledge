@@ -118,6 +118,8 @@ India operates a **pluralist family-law system**: Guardians and Wards Act 1890 (
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified Indian or diaspora-jurisdiction family lawyer for case-specific guidance.*
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
