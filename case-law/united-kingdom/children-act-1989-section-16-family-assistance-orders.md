@@ -130,6 +130,8 @@ Subsection (1)(b) permits direction to a local authority officer in lieu of Cafc
 - **Statute citation:** Children Act 1989 (1989 c.41), section 16 (substantially amended by Children and Adoption Act 2006 ss.6-7, in force 1 October 2007 — removing the prior "exceptional circumstances" threshold and adding subsection (4A); further amended by Children and Families Act 2014 for child-arrangements-order terminology)
 - **Status:** Crown copyright; published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — verbatim reproduction permitted.
 
+
+
 <!-- AA-CITE-START -->
 
 ---
