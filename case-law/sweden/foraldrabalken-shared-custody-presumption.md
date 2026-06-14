@@ -142,6 +142,8 @@ Sweden's shared-custody presumption is **stronger** than Norway's discretionary 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

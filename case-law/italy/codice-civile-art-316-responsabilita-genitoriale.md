@@ -89,3 +89,41 @@ Article 316 operates upstream of article 337-ter (which applies in the separatio
 - **Statute citation:** Codice Civile italiano, art. 316
 - **Codification history:** Article reformulated by D.Lgs. 28 December 2013 n. 154 (which implemented the 2012 Riforma Filiazione equalising the legal status of children born in and out of marriage); the article renamed "potestà dei genitori" → "responsabilità genitoriale" and restructured the substantive content.
 - **Status:** Italian state statute — public-domain text.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Bondavalli](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bondavalli%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+- [HUDOC search: Lombardo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lombardo%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Laws By Country](https://www.antialienate.com/blog/parental-alienation-laws-by-country)
+
+<!-- AA-CROSSLINK-END -->

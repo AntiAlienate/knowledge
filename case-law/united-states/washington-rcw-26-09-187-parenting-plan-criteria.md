@@ -120,3 +120,40 @@ The combination of the **greatest-weight relationship-strength rule** + the **in
 - **Statute citation:** RCW 26.09.187 (Revised Code of Washington, Title 26 Domestic Relations, Chapter 26.09 Dissolution Proceedings, section 26.09.187)
 - **Codification history:** Enacted 1987 c 460 s 9; substantively amended 1989 c 375 s 10, 2007 c 496 s 603, 2025 c 166 s 4.
 - **Status:** Public domain — Washington state statutes are not subject to copyright (general principle that government-authored law is public domain).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [How To Make A Parenting Plan Together](https://www.antialienate.com/blog/how-to-make-a-parenting-plan-together)
+- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
+- [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
+- [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+
+<!-- AA-CROSSLINK-END -->
