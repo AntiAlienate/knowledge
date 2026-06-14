@@ -49,7 +49,7 @@ National constitutional provisions and apex case-law develop the paramountcy doc
 
 **Brazil** — **Constitución 1988 art. 227** (absoluta prioridade) + Estatuto da Criança e do Adolescente Lei 8.069/1990. Absoluta prioridade formulation — strong constitutional prioridade. Cross-link: jurisdiction:brazil.
 
-**Italy** — Italian Constitution + Civil Code framework operates best-interests through [Cassazione](https://www.cortedicassazione.it/) apex jurisprudence. Cassazione 9691/2022 engages best-interests within procedural-due-diligence framework. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
+**Italy** — Italian Constitution + Civil Code framework operates best-interests through [Cassazione](https://www.cortedicassazione.it/) apex jurisprudence. [Cassazione](https://www.cortedicassazione.it/) 9691/2022 engages best-interests within procedural-due-diligence framework. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
 
 **Germany** — **Grundgesetz Art. 6(2)**: Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. **Grundgesetz Art. 2(1)** child's personality rights. **[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** integrates these constitutional provisions with PAS-construct critique. Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
 
@@ -90,13 +90,13 @@ UN CRC art. 3(1) frames best-interests as A primary consideration (not THE param
 India's apex Vivek Singh v Romani Singh (2017) 3 SCC 231 operationalises welfare-paramountcy through court-appointed counsellor mechanism (Iti Kanungo, Family Court Patiala House) rather than substantive welfare adjudication alone. Welfare-paramountcy + institutional welfare-evaluator architecture interact substantively.
 
 ### 8. Strasbourg supranational layer cuts across
-Strasbourg Article 8 best-interests operates at supranational level binding 46 Council of Europe member states. Neulinger 2010 + X v Latvia 2013 GC frame the Convention-best-interests as procedural-due-diligence examination rather than substantive re-litigation. The supranational layer cuts across national best-interests formulations without displacing them.
+Strasbourg Article 8 best-interests operates at supranational level binding 46 [Council of Europe](https://www.coe.int/) member states. Neulinger 2010 + X v Latvia 2013 GC frame the Convention-best-interests as procedural-due-diligence examination rather than substantive re-litigation. The supranational layer cuts across national best-interests formulations without displacing them.
 
 ## Comparative paramountcy table
 
 | Jurisdiction | Source | Formulation | PA-adjacent apex |
 |---|---|---|---|
-| **England & Wales** | Children Act 1989 s.1(1) | Welfare PARAMOUNT consideration | Re Y EWFC 38 2026 |
+| **England & Wales** | [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.1(1) | Welfare PARAMOUNT consideration | Re Y EWFC 38 2026 |
 | **Scotland** | Children (Scotland) Act 1995 s.11(7) | Welfare PARAMOUNT consideration | NF v AF 2025 CSOH 13 |
 | **Northern Ireland** | Children (NI) Order 1995 art. 3(1) | Welfare paramount consideration | A Father v A Mother (No.2) 2022 |
 | **Wales** | Children Act 1989 s.1(1) | Welfare PARAMOUNT (unified E&W) | unified with E&W |
@@ -111,7 +111,7 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 C
 | **Colombia** | Const. art. 44 | PREVALENCE over other rights | Corte Const. T-526/2023 |
 | **Brazil** | Const. 1988 art. 227 + ECA | ABSOLUTA PRIORIDADE | STJ Andrighi line 2024 |
 | **Italy** | Civil Code + Cassazione | Best-interests via procedural-due-diligence | Cassazione 9691/2022 |
-| **Germany** | Grundgesetz Art. 6(2) + 2(1) | Parental rights + child personality rights | BVerfG 1 BvR 1076/23 |
+| **Germany** | Grundgesetz Art. 6(2) + 2(1) | Parental rights + child personality rights | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 |
 | **Spain** | Const. art. 39 + Código Civil art. 154 + LOPIVI | Interés superior + statutory inadmission | STS 519/2017 + LOPIVI 17ª |
 | **Netherlands** | BW + Jeugdwet | Substantive best-interests | NJI Richtlijn 2020 + Expertteam 2021 |
 | **Japan** | Civil Code art. 766 (post-2024) | Child-focused arrangements | Act No. 33 of 2024 |
@@ -128,6 +128,8 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 C
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
+
+
 
 
 

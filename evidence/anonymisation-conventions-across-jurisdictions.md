@@ -47,7 +47,7 @@ Adult party names are routinely published; children are anonymised by initial or
 
 **Canada** — Canadian provincial-superior-court family-law judgments anonymise minor children by initial (e.g., L.A.G. v. D.K.B.; Williamson v. Williamson). Adult parties may be named or anonymised depending on provincial reporting convention and case sensitivity. Quebec preserves francophone-language judgment publication. Cross-link: jurisdiction:canada.
 
-**Italy** — [Cassazione](https://www.cortedicassazione.it/) sentenze + tribunali italiani anonimizzano minori ma frequentemente nominano parti adulte nelle ordinanze pubblicate. La sentenza Cassazione 9691/2022 usa convenzioni standard. Cross-link: jurisdiction:italy.
+**Italy** — [Cassazione](https://www.cortedicassazione.it/) sentenze + tribunali italiani anonimizzano minori ma frequentemente nominano parti adulte nelle ordinanze pubblicate. La sentenza [Cassazione](https://www.cortedicassazione.it/) 9691/2022 usa convenzioni standard. Cross-link: jurisdiction:italy.
 
 **Germany** — [BVerfG](https://www.bundesverfassungsgericht.de/) family-law decisions name children as 'Kind 1', 'Kind 2', or initials; Sachverständige (court-appointed experts) may be named publicly in operative reasoning or anonymised as 'Sachverständige A'. Cross-link: jurisdiction:germany.
 
@@ -114,7 +114,7 @@ Anonymisation conventions structurally shape the citable apex-jurisprudence base
 | **United States** | state-court variable | initial / pseudonym | OFTEN NAMED | OFTEN NAMED (Randy Rand etc.) |
 | **Canada** | provincial-court | initials | varies provincial | varies |
 | **Italy** | Cass. convention | iniziali | spesso nominate | varies |
-| **Germany** | BVerfG convention | Kind 1/2/initials | may be initialled | Sachverständige A or named |
+| **Germany** | [BVerfG](https://www.bundesverfassungsgericht.de/) convention | Kind 1/2/initials | may be initialled | Sachverständige A or named |
 | **Spain** | LOPJ 232 | iniciales | iniciales | varies |
 | **France** | Cass. convention | initiale | peuvent être nommées | varies |
 | **Netherlands** | Rechtspraak ECLI | anonimised | descriptor | varies |
@@ -131,6 +131,8 @@ Anonymisation conventions structurally shape the citable apex-jurisprudence base
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/anonymisation-conventions-across-jurisdictions.md*
+
+
 
 
 

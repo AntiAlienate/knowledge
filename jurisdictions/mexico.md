@@ -39,7 +39,7 @@ México es una jurisdicción civilista federal cuya doctrina apex sobre alienaci
 - **Acción de Inconstitucionalidad 11/2016 (Oaxaca) — Tribunal Pleno, ponente Ministra Norma Lucía Piña Hernández, sesiones 23-26 octubre 2017, publicación DOF 16 mayo 2018. SENTENCIA APEX MEXICANA SOBRE ALIENACIÓN PARENTAL. Doctrina: figura sí, automatismo no.** (2017) — middle — [`scjn-ai-11-2016-oaxaca-mexico`](../case-studies/scjn-ai-11-2016-oaxaca-mexico.md)
 - **Acción de Inconstitucionalidad 74/2024 (Tlaxcala) — Tribunal Pleno, 29 abril 2025 (comunicado 119/2025). EXTENSIÓN DOCTRINAL: invalidación del cuarto párrafo del art. 168 Ter del Código Civil de Tlaxcala aplicando expresamente la doctrina de AI 11/2016. Confirma la vigencia ocho años después.** (2025) — middle
 
-### Suprema Corte de Justicia de la Nación — Primera Sala (materia familiar)
+### [Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/) — Primera Sala (materia familiar)
 <https://www.scjn.gob.mx/>
 - **Primera Sala SCJN resuelve amparos directos / amparos en revisión en materia familiar bajo el estándar del interés superior del menor (art. 4 CPEUM + CDN art. 3). Línea jurisprudencial sobre custodia compartida y régimen de convivencias que opera el filtro doctrinal de AI 11/2016 a nivel de caso individual.** (2026) — middle
 
@@ -126,6 +126,8 @@ Las sentencias de la SCJN, los Tribunales Colegiados de Circuito y los Tribunale
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

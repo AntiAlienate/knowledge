@@ -44,7 +44,7 @@
   - Boch-Galhau & Kodjoe (2006) chapter in *International Handbook of Parental Alienation Syndrome* (Charles C Thomas) — psychological consequences of PAS indoctrination for adult children of divorce
   - Boch-Galhau (2013) German-language monograph *Parental Alienation und Parental Alienation Syndrome/Disorder* (VWB Verlag, ISBN 978-3-86135-178-2) — the standard German-language clinician's reference
   - Boch-Galhau (2018) *Parental Alienation – A serious form of psychological child abuse* (English peer-reviewed)
-  - Founding member, PASG (https://www.pasg.info/)
+  - Founding member, [PASG](https://pasg.info/) (https://www.pasg.info/)
 - **Primary contact:** Practice telephone +49 931 359 2133 (Oberer Dallenbergweg 15, 97082 Würzburg) — verify current activity before contacting; ResearchGate messaging via profile above
 - **Tier:** 1
 - **Hook:** German-speaking world's most prolific PA clinician-author; the standard German monograph is his. Any Würzburg / Bavarian recognition-camp conversation cites him. (Cross-listed in `/influencers/wilfrid-von-boch-galhau.md`.)
@@ -85,7 +85,7 @@
 - **Primary contact:** Contact form / address via https://www.ursula-gresser.de/ (Munich)
 - **Tier:** 2
 - **Hook:** The German PA-recognition camp's principal *public-health-evidence* voice — useful precisely because she is not a psychiatrist or psychologist and frames the issue in somatic-morbidity and mortality data. Cite when responding to "PA is not a real diagnosis" lines.
-- **Notes:** Gresser's work is contested by mainstream German psychiatry (see e.g. the 2023 BVerfG order's caution on PA framing). Use as evidence of *somatic risk* not as a forensic diagnosis.
+- **Notes:** Gresser's work is contested by mainstream German psychiatry (see e.g. the 2023 [BVerfG](https://www.bundesverfassungsgericht.de/) order's caution on PA framing). Use as evidence of *somatic risk* not as a forensic diagnosis.
 
 ### 4. Dr phil Walter Andritzky
 - **Country / city:** DE / Düsseldorf (NRW)
@@ -136,7 +136,7 @@
 - **Country / city:** FR / Versailles (Yvelines)
 - **Practice / affiliation:** Psychiatre; **expert agréé par la [Cour de cassation](https://www.courdecassation.fr/)** (since 2007); expert près la **Cour d'appel de Versailles** (since 1996); expert auprès de la **Cour Pénale Internationale** (CPI / ICC, La Haye, since 2011); private practice Versailles
 - **Practice URL:** https://www.paulbensussan.fr/ ; bio https://www.paulbensussan.fr/biographie-cv
-- **Regulatory body:** **Ordre national des médecins** — *spécialité psychiatrie* (RPPS searchable at https://annuaire.sante.fr) ; *liste nationale des experts agréés par la Cour de cassation* https://www.courdecassation.fr/
+- **Regulatory body:** **Ordre national des médecins** — *spécialité psychiatrie* (RPPS searchable at https://annuaire.sante.fr) ; *liste nationale des experts agréés par la [Cour de cassation](https://www.courdecassation.fr/)* https://www.courdecassation.fr/
 - **Registration number:** **not publicly displayed**
 - **Specialty:** Forensic psychiatry; sexual-offender assessment (notably Outreau); criminal responsibility of mentally-ill offenders; **expert-witness work in aliénation parentale cases** including disputed allegations of CSA in custody disputes
 - **Stance:** recognition
@@ -309,7 +309,7 @@
 - **Primary contact:** https://giovannibattistacamerini.it/ contact channel ; Psicologia.io profile https://www.psicologia.io/user/49827
 - **Tier:** 1
 - **Hook:** The senior Italian neuropsichiatra infantile on the recognition side; his APS-I and Franco Angeli volume are the load-bearing Italian clinical references on alienazione genitoriale. Must be read against Cass. ord. 9691/2022 Massaro and ord. 4595/2025 (in `/case-studies/`).
-- **Notes:** Operates in a jurisdiction where the Cassazione has now twice (2022, 2025) ruled that PA is not a clinically validated construct binding judges — so any current Italian use of his framework must be evidentially anchored independently.
+- **Notes:** Operates in a jurisdiction where the [Cassazione](https://www.cortedicassazione.it/) has now twice (2022, 2025) ruled that PA is not a clinically validated construct binding judges — so any current Italian use of his framework must be evidentially anchored independently.
 
 ### 2. Prof Maria Cristina Verrocchio, PhD
 - **Country / city:** IT / Chieti-Pescara (Abruzzo)
@@ -321,7 +321,7 @@
 - **Stance:** recognition
 - **Stance source:** [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) *Italian college students' recollections of parental alienation: A retrospective study*, *Children and Youth Services Review* / related Chieti-sample paper — Italian summary http://www.alienazione.genitoriale.com/studi-empirici-sullalienazione-parentale-in-italia-maria-cristina-verrocchio-universita-di-chieti/ ; Verrocchio & Marchetti, *L'intervento nei casi di alienazione genitoriale* https://www.alienazione.genitoriale.com/lintervento-nei-casi-di-alienazione-genitoriale-maria-cristina-verrocchio-daniela-marchetti/ ; AIPG profile https://aipgitalia.org/teams/maria-cristina-verrocchio/ ; PASG membership cited in Italian press
 - **Programs / publications:**
-  - Baker & Verrocchio (2013) — first peer-reviewed Italian-sample PA mental-health study (n=257, Chieti)
+  - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) — first peer-reviewed Italian-sample PA mental-health study (n=257, Chieti)
   - Verrocchio & Marchetti — Italian-language intervention guidance
   - Verrocchio / Baker / Bernet collaborative outputs across the 2010s
 - **Primary contact:** UniCh institutional email (https://www.unich.it/) ; LinkedIn DM https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

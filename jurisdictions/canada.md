@@ -15,7 +15,7 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 
 - **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) — best-interests-of-the-child standard (1985) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
   - Federal substantive statute for divorce and parenting after divorce. [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) (in force 1 March 2021) rewrote s.16 with a non-exhaustive best-interests factor list including the explicit s.16(3)(j) family-violence factor and replaced 'custody / access' terminology with 'parenting time / decision-making responsibility / contact'. The substantive Canadian federal hook through which PA-adjacent fact-patterns are decided in divorce-jurisdiction cases.
-- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16(3)(j)** — Divorce Act s.16(3)(j) — family-violence factor (2021) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16(3)(j)** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16(3)(j) — family-violence factor (2021) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
   - [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) inserted explicit family-violence factor into s.16(3) requiring courts to consider any family violence, its nature, seriousness and frequency, and its impact on the child's safety and well-being. The substantive evidential frame against which PA-adjacent allegations are now decided in federal divorce-jurisdiction proceedings.
 - **Children's Law Reform Act R.S.O. 1990, c. C.12 (Ontario)** — Children's Law Reform Act (Ontario) — parenting orders for unmarried parents (1990) — <https://www.ontario.ca/laws/statute/90c12>
   - Ontario provincial substantive statute for unmarried parents' parenting orders. s.24 best-interests-of-the-child test and s.112 Office of the Children's Lawyer Clinical Investigator authority. Substantive Ontario hook for PA-adjacent fact-patterns outside the Divorce Act.
@@ -26,7 +26,7 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 - **Loi sur la protection de la jeunesse (LPJ, Quebec)** — Loi sur la protection de la jeunesse — protection de la jeunesse Quebec (1977) — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-34.1>
   - Statut quebecois de protection de la jeunesse administre par la Direction de la protection de la jeunesse (DPJ). Cadre quebecois dans lequel les situations PA-adjacent intersectees avec preoccupations de protection peuvent etre evaluees. Distinct du regime federal de la Loi sur le divorce.
 - **Family Law Act SBC 2011 c.25 (British Columbia)** — Family Law Act (BC) — BC provincial family-law statute (2011) — <https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_01>
-  - BC provincial family-law statute. s.37 best-interests-of-the-child test and s.38 family-violence factor (analogous to federal Bill C-78 s.16(3)(j)). Substantive BC hook for PA-adjacent fact-patterns under provincial jurisdiction; cited in Williamson v. Williamson 2016 BCCA 87 reunification-programme litigation.
+  - BC provincial family-law statute. s.37 best-interests-of-the-child test and s.38 family-violence factor (analogous to federal [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) s.16(3)(j)). Substantive BC hook for PA-adjacent fact-patterns under provincial jurisdiction; cited in Williamson v. Williamson 2016 BCCA 87 reunification-programme litigation.
 - **Family Law Act RSA 2003 c.F-4.5 (Alberta)** — Family Law Act (Alberta) (2003) — <https://kings-printer.alberta.ca/1266.cfm?page=F04P5.cfm&leg_type=Acts&isbncln=9780779853694>
   - Alberta provincial substantive family-law statute. s.18 best-interests-of-the-child test. Substantive Alberta hook for PA-adjacent fact-patterns in unmarried-parent jurisdiction.
 - **Regulated Health Professions Act 1991 (Ontario) and provincial equivalents** — Regulated Health Professions Act — provincial psychology regulator framework (1991) — <https://www.ontario.ca/laws/statute/91r18>
@@ -36,7 +36,7 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 
 ### [Supreme Court of Canada](https://www.scc-csc.ca/)
 <https://www.scc-csc.ca/>
-- **Supreme Court of Canada is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).** (2001) — middle
+- **[Supreme Court of Canada](https://www.scc-csc.ca/) is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).** (2001) — middle
 
 ### Provincial Courts of Appeal (Ontario CA / BCCA / Quebec CA / Alberta CA / etc.)
 <https://www.ontariocourts.ca/coa/>
@@ -107,7 +107,7 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 ## Sources
 
 1. **Department of Justice Canada — laws-lois.justice.gc.ca** — <https://laws-lois.justice.gc.ca/> (Department of Justice Canada) [en]
-2. **CanLII — Canadian Legal Information Institute** — <https://www.canlii.org/> (Canadian Legal Information Institute) [en]
+2. **[CanLII](https://www.canlii.org/) — Canadian Legal Information Institute** — <https://www.canlii.org/> (Canadian Legal Information Institute) [en]
 3. **Supreme Court of Canada** — <https://www.scc-csc.ca/> (Supreme Court of Canada) [en]
 4. **Office of the Children's Lawyer (Ontario)** — <https://www.ontario.ca/page/office-childrens-lawyer> (Ministry of the Attorney General (Ontario)) [en]
 5. **Société québécoise d'information juridique (SOQUIJ)** — <https://soquij.qc.ca/> (Gouvernement du Québec) [fr]
@@ -129,6 +129,8 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

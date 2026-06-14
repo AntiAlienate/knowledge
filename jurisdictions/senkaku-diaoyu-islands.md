@@ -22,7 +22,7 @@ The Senkaku Islands (尖閣諸島 Senkaku-shotō) / Diaoyu Islands (釣魚島 Di
 
 ## Apex courts
 
-### Supreme Court of Japan (最高裁判所)
+### [Supreme Court of Japan](https://www.courts.go.jp/english/) (最高裁判所)
 <https://www.courts.go.jp/>
 
 ### High Court of Fukuoka (Naha Branch)
@@ -82,6 +82,8 @@ Senkaku/Diaoyu-related decisions are anonymised per Japanese court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -23,7 +23,7 @@ São Tomé and Príncipe is an Atlantic African civil-law republic whose family-
 ### Supreme Court of Justice (Supremo Tribunal de Justiça)
 <https://www.tribunais.st/>
 
-### Constitutional Court (Tribunal Constitucional)
+### Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/))
 <https://www.tc.st/>
 
 ## Professional regulators
@@ -70,6 +70,8 @@ São Toméan family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

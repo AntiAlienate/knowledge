@@ -15,9 +15,9 @@
 |---|---|---|
 | **[DSM-5](https://www.appi.org/products/dsm) V995.51** | Child Psychological Abuse | American Psychiatric Association |
 | **[DSM-5](https://www.appi.org/products/dsm) V300.19** | Factitious Disorder Imposed on Another (FDIA) | American Psychiatric Association |
-| **DSM-5 V61.29** | Child Affected by Parental Relationship Distress | American Psychiatric Association |
+| **[DSM-5](https://www.appi.org/products/dsm) V61.29** | Child Affected by Parental Relationship Distress | American Psychiatric Association |
 | **WHO [ICD-11](https://icd.who.int/) QE52** | Caregiver-Child Relationship Problem | World Health Organization |
-| **WHO ICD-11 6D52** | Caregiver-Fabricated Illness in a Child | World Health Organization |
+| **WHO [ICD-11](https://icd.who.int/) 6D52** | Caregiver-Fabricated Illness in a Child | World Health Organization |
 | **WHO ICD-11 6B41** | Complex Post-Traumatic Stress Disorder | World Health Organization |
 
 ### Peer-reviewed research consensus
@@ -76,6 +76,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

@@ -20,10 +20,10 @@ Equatorial Guinea is a Central African civil-law republic — structurally disti
 
 ## Apex courts
 
-### Supreme Court of Justice (Tribunal Supremo de Justicia)
+### Supreme Court of Justice ([Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) de Justicia)
 <https://www.tribunalsupremogq.gq/>
 
-### Constitutional Court (Tribunal Constitucional)
+### Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/))
 <https://www.tribunalconstitucional.gq/>
 
 ## Professional regulators
@@ -72,6 +72,8 @@ Equatoguinean family-court decisions are anonymised per Supreme Court practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

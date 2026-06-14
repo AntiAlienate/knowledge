@@ -112,7 +112,7 @@ Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alie
 
 ## Sources
 
-- Baker, A.J.L. (2007). *Adult Children of Parental Alienation Syndrome*. New York: W.W. Norton
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A.J.L. (2007). *Adult Children of Parental Alienation Syndrome*. New York: W.W. Norton
 - Baker, A.J.L., & Darnall, D. (2007). A construct study of the eight symptoms of severe parental alienation syndrome. *Journal of Divorce & Remarriage*, 47(1-2), 55-75
 - Baker, A.J.L. (2010). Adult recall of parental alienation in a community sample. *Journal of Divorce & Remarriage*, 51(1), 16-35
 - Baker publications: https://www.amyjlbaker.com/publications/
@@ -120,6 +120,8 @@ Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alie
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Application of these markers requires trained evaluator assessment.*
+
+
 
 
 

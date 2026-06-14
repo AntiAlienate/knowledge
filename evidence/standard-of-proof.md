@@ -82,7 +82,7 @@ New York: best-interests + preponderance for custody modifications; clear and co
 
 ### 3.1 [ECtHR](https://www.echr.coe.int/) — Article 6 and Article 8
 
-The ECtHR does not impose a uniform substantive standard of proof on member-state family courts; standards of proof sit within the margin of appreciation. What the Court polices are (i) Article 6 fair-hearing rights and (ii) Article 8 family-life rights, requiring interferences to be "in accordance with the law" and "necessary in a democratic society." ([Guide on Article 6 — civil limb PDF](https://rm.coe.int/1680304c4c); [Parental Rights factsheet](https://www.echr.coe.int/documents/d/echr/FS_Parental_ENG).) Italy's PA-overlapping cluster (*Lombardo*, *Strumia*, *Improta*) turns on positive contact obligations rather than substantive proof — but Strasbourg engages where domestic courts use weak or unscientific fact-finding for coercive contact decisions. See case-study files: [Lombardo](case-studies/lombardo-v-italy-echr-25704-11-2013.md), [Strumia](case-studies/strumia-v-italy-echr-53377-13-2016.md), [Improta](case-studies/improta-v-italy-echr-66396-14-2017.md).
+The [ECtHR](https://www.echr.coe.int/) does not impose a uniform substantive standard of proof on member-state family courts; standards of proof sit within the margin of appreciation. What the Court polices are (i) Article 6 fair-hearing rights and (ii) Article 8 family-life rights, requiring interferences to be "in accordance with the law" and "necessary in a democratic society." ([Guide on Article 6 — civil limb PDF](https://rm.coe.int/1680304c4c); [Parental Rights factsheet](https://www.echr.coe.int/documents/d/echr/FS_Parental_ENG).) Italy's PA-overlapping cluster (*Lombardo*, *Strumia*, *Improta*) turns on positive contact obligations rather than substantive proof — but Strasbourg engages where domestic courts use weak or unscientific fact-finding for coercive contact decisions. See case-study files: [Lombardo](case-studies/lombardo-v-italy-echr-25704-11-2013.md), [Strumia](case-studies/strumia-v-italy-echr-53377-13-2016.md), [Improta](case-studies/improta-v-italy-echr-66396-14-2017.md).
 
 ### 3.2 Italy — *Cass. civ., sez. I, ord.* 24 marzo 2022, n. 9691 (the *Massaro* ordinance)
 
@@ -102,7 +102,7 @@ The ECtHR does not impose a uniform substantive standard of proof on member-stat
 
 **Operative reasoning, in summary.** The Chamber held that reliance on the "outdated and academically refuted concept" of parental alienation syndrome ("PAS") does not suffice as a sufficiently sound basis for a child-welfare-oriented decision; according to the current state of academic science, there is no empirical evidence either (a) for the proposition that a child's rejection of a parent is the product of manipulation by the other parent or (b) for the effectiveness of removing the child from the household of the allegedly manipulative parent. ([bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html); summary at [Väteraufbruch case-note](https://vaeteraufbruch.de/news/aktuelle-meldung/analyse-bverfg); critical [pro-PA analysis on ResearchGate](https://www.researchgate.net/publication/400311459_Methodische_Mangel_in_der_Rechtsprechung_Die_wissenschaftlich_nicht_fundierte_Ablehnung_von_Parental_Alienation_durch_das_Bundesverfassungsgericht_und_ihre_Auswirkungen_auf_das_Kindeswohl_-_Eine_kriti)); [Frauenhauskoordinierung analysis (PDF)](https://www.frauenhauskoordinierung.de/fileadmin/redakteure/PDF/2024-07-17_Beitrag_FIS_BVerfG_PAS_und_Sanktionierung_ABR.pdf).)
 
-**Why this is a standard-of-proof case in disguise.** The German Constitutional Court did not change the standard for *Kindeswohlentscheidungen* (child-welfare decisions) — *Amtsermittlungsgrundsatz* and *freie Beweiswürdigung* govern under §§26, 37 FamFG. What the BVerfG did was constitutionalise the proposition that a child's serious, stable, goal-directed expressed will (*Wille*) cannot be overridden on the basis of an empirically unsupported diagnostic label. That is a substantive-rationality control on the standard of proof's evidentiary inputs.
+**Why this is a standard-of-proof case in disguise.** The German Constitutional Court did not change the standard for *Kindeswohlentscheidungen* (child-welfare decisions) — *Amtsermittlungsgrundsatz* and *freie Beweiswürdigung* govern under §§26, 37 FamFG. What the [BVerfG](https://www.bundesverfassungsgericht.de/) did was constitutionalise the proposition that a child's serious, stable, goal-directed expressed will (*Wille*) cannot be overridden on the basis of an empirically unsupported diagnostic label. That is a substantive-rationality control on the standard of proof's evidentiary inputs.
 
 ### 3.4 France
 
@@ -249,7 +249,7 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 **Headline finding.** "In cases where a mother alleged that the father perpetrated any kind of abuse and the father cross-claimed parental alienation, courts were more than twice as likely to disbelieve the mother's abuse claim than if fathers made no alienation claim. When mothers claim child abuse, courts are almost four times more likely to disbelieve the child abuse allegations than if the father did not make the parental alienation claim." **[secondary verification only]** for the precise form.
 
-**Standard-of-proof relevance.** Meier's claim is not that formal standards differ but that the same formal balance-of-probabilities standard is applied *asymmetrically* — stricter to abuse allegations cross-met by PA than to PA standing alone. That is a fact-finding-quality challenge with standard-of-proof consequences: if the de facto bar for a PA finding is lower than for the abuse finding it defeats, the result inverts *Re B*'s promise that the standard does not vary with gravity.
+**Standard-of-proof relevance.** [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) claim is not that formal standards differ but that the same formal balance-of-probabilities standard is applied *asymmetrically* — stricter to abuse allegations cross-met by PA than to PA standing alone. That is a fact-finding-quality challenge with standard-of-proof consequences: if the de facto bar for a PA finding is lower than for the abuse finding it defeats, the result inverts *Re B*'s promise that the standard does not vary with gravity.
 
 ### 9.3 Mercer and the Harman / Lorandos / Bernet defence
 
@@ -379,6 +379,8 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -409,9 +411,9 @@ These are not legal advice. They are example skeletons of the kind of framing th
 ## Related on antialienate.com
 
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 
 <!-- AA-CROSSLINK-END -->

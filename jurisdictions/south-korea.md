@@ -20,7 +20,7 @@ South Korea is an East Asian civil-law unitary republic whose family-law framewo
 
 ## Apex courts
 
-### Supreme Court of Korea (대법원)
+### [Supreme Court of Korea](https://eng.scourt.go.kr/) (대법원)
 <https://www.scourt.go.kr/>
 
 ### Constitutional Court (헌법재판소)
@@ -71,6 +71,8 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

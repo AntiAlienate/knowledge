@@ -50,7 +50,7 @@ Brussels II ter decisions are anonymised per CJEU and member-state court practic
 - Brussels II ter Regulation operates a supranational meta-legal-system EU framework — places Brussels II ter in the unique EU-supranational-family-law cluster.
 - Only supranational framework operating binding mutual-recognition of parental-responsibility decisions across 26 sovereign states without intermediate-court enforcement requirement is structurally distinctive globally.
 - Most comprehensive cross-border family-law-jurisdiction framework operating across multiple sovereign states is structurally distinctive globally.
-- Brussels II ter expedited 6-week return-decision timeline (Article 24) is structurally distinctive globally — only supranational framework with mandatory expedited international-child-abduction return timeline below Hague Convention 1980's 6-week guideline.
+- Brussels II ter expedited 6-week return-decision timeline (Article 24) is structurally distinctive globally — only supranational framework with mandatory expedited international-child-abduction return timeline below [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)'s 6-week guideline.
 - Brussels II ter abolition of exequatur for parental-responsibility decisions is structurally distinctive globally — only multi-state framework with abolition-of-exequatur for cross-border family-law recognition.
 - Brussels II ter integration with Hague Convention 1980 via overlay framework (where Hague applies, returns governed by Hague + Brussels II ter integration) is structurally distinctive globally.
 - CJEU Article 267 TFEU preliminary-reference procedure for Brussels II ter interpretation is structurally distinctive globally — only modern supranational apex-court framework for multi-state family-law jurisdiction.
@@ -85,6 +85,8 @@ Brussels II ter decisions are anonymised per CJEU and member-state court practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

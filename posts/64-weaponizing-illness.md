@@ -62,7 +62,7 @@ This is fiction. The clinical anchors are not.
 
 ## Why this often goes unnamed
 
-Most pediatricians receive zero hours of training on factitious disorder imposed on another or its parental-alienation overlap. The DSM-5 codes exist. The training does not. The result is what Sophie's pediatrician did for nineteen months: see a child who was well, accept the parent's account, and write neither finding into a way that the family court could later use.
+Most pediatricians receive zero hours of training on factitious disorder imposed on another or its parental-alienation overlap. The [DSM-5](https://www.appi.org/products/dsm) codes exist. The training does not. The result is what Sophie's pediatrician did for nineteen months: see a child who was well, accept the parent's account, and write neither finding into a way that the family court could later use.
 
 **The school nurse is often the most accurate documentary witness.** School nursing logs are contemporaneous, time-stamped, and not seen by the alienating parent. Subpoena them.
 
@@ -102,6 +102,8 @@ Educational fiction. **Not clinical or legal advice.** The story is illustrative
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

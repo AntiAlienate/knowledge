@@ -20,7 +20,7 @@ Venezuela is a South American civil-law federal republic whose family-law framew
 
 ## Apex courts
 
-### Supreme Tribunal of Justice (Tribunal Supremo de Justicia)
+### Supreme Tribunal of Justice ([Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) de Justicia)
 <https://www.tsj.gob.ve/>
 
 ### Constitutional Chamber (Sala Constitucional)
@@ -71,6 +71,8 @@ Venezuelan family-court decisions are anonymised per Constitutional Chamber prac
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

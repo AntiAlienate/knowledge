@@ -186,7 +186,7 @@ Mexico's PA-clinical landscape is **sparse but polarised**: SCJN's 2021 *Protoco
 - **Programs / publications:**
   - *Amicus Curiae sobre la Tesis del Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia de la SCJN respecto a la Alienación Parental* (2021)
   - GARI-PA — President of Hispanic Chapter (with W. Bernet, US)
-  - PASG core member; CEAP Argentina committee
+  - [PASG](https://pasg.info/) core member; CEAP Argentina committee
   - *Carta al Editor*, Acta Pediátrica de México on the "concepto en desuso" framing
   - Multiple Hospital Torres Orozco research outputs on PA + suicidology overlap
 - **Primary contact:** dr_mendoza@outlook.com ; +52 144 3273 0494 ; Xengua 106, Col. Bosque Camelinas, C.P. 58290, Morelia/Michoacán
@@ -442,6 +442,8 @@ Chile has **no institutional doctrinal anchor on PA** — alienación parental i
 15. **Vania Apablaza** (CL) — name not retrievable; not publicly confirmed.
 16. **Corporación Humanas** (CL) — no PA-specific institutional position publicly retrievable.
 17. **Programa SENAME / mejor niñez** (CL) — no PA-specific institutional doctrine; Chile has no institutional clinical engagement on PA.
+
+
 
 
 

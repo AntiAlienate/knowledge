@@ -21,7 +21,7 @@ Senegal is a West African civil-law republic whose family-law framework operates
 ### Supreme Court (Cour suprême)
 <https://www.coursupreme.sn/>
 
-### Constitutional Council (Conseil constitutionnel)
+### Constitutional Council ([Conseil constitutionnel](https://www.conseil-constitutionnel.fr/))
 <https://www.conseilconstitutionnel.sn/>
 
 ## Professional regulators
@@ -68,6 +68,8 @@ Senegalese family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

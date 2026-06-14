@@ -258,7 +258,7 @@ Nijmegen / Utrecht · Gelderland / Utrecht · Radboud Universiteit Nijmegen, Beh
 *Hoogleraar Jeugdrecht, Instituut voor Privaatrecht, Universiteit Leiden (vanaf 2004); programmadirecteur Master Jeugdrecht Leiden*
 Leiden · Zuid-Holland · Universiteit Leiden, Faculteit der Rechtsgeleerdheid; expertgroep kinderrechten; commissie-deelname jeugdbeschermingshervorming
 
-**Stance:** Juridisch-middle positie. Bruning erkent dat 'ouderverstoting kan voorkomen maar relatief zeldzaam is omdat de meeste ouders het belang van contact van de andere ouder met het kind erkennen' en signaleert tegelijk 'dat ouderverstoting en vechtscheidings-fenomenen soms ernstig worden misbruikt in rechtszaken door manipulatie en coaching'. Centrale stem in de Nederlandse jeugdrecht-debatkring over kinderbeschermingsmaatregelen bij scheidingsconflicten. Niet PASG-aligned, wel het PA-fenomeen erkennend; stance methodologisch middle.
+**Stance:** Juridisch-middle positie. Bruning erkent dat 'ouderverstoting kan voorkomen maar relatief zeldzaam is omdat de meeste ouders het belang van contact van de andere ouder met het kind erkennen' en signaleert tegelijk 'dat ouderverstoting en vechtscheidings-fenomenen soms ernstig worden misbruikt in rechtszaken door manipulatie en coaching'. Centrale stem in de Nederlandse jeugdrecht-debatkring over kinderbeschermingsmaatregelen bij scheidingsconflicten. Niet [PASG](https://pasg.info/)-aligned, wel het PA-fenomeen erkennend; stance methodologisch middle.
 
 **Publications:**
 - Jeugdrecht en jeugdhulp (2022) — *Sdu Uitgevers (8e druk)* — <https://www.managementboek.nl/boek/9789012406369/jeugdrecht-en-jeugdhulp-marielle-bruning>
@@ -452,6 +452,8 @@ Driebergen-Rijsenburg · Utrecht · Onafhankelijke private stichting; samenwerki
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

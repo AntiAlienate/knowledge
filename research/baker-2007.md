@@ -28,7 +28,7 @@ location_tags: [united-states, international, baker, 8-indicators, adult-outcome
 
 ## The 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation))
 
-Baker's 8 indicators describe the **alienating parent's behavior** — what the favored parent does that engineers the child's rejection:
+[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators describe the **alienating parent's behavior** — what the favored parent does that engineers the child's rejection:
 
 1. **Bad-mouthing** — derogatory comments about the targeted parent in front of the child
 2. **Limiting contact** — restricting visits, calls, communication beyond what custody orders specify
@@ -105,6 +105,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

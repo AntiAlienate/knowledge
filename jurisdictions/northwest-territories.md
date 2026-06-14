@@ -32,7 +32,7 @@ The Northwest Territories (NWT / Tunngavik in Inuktitut / Denendeh in Dene langu
 ### Supreme Court of the Northwest Territories
 <https://www.nwtcourts.ca/>
 
-### Supreme Court of Canada
+### [Supreme Court of Canada](https://www.scc-csc.ca/)
 <https://www.scc-csc.ca/>
 
 ## Professional regulators
@@ -89,6 +89,8 @@ NWT family-court decisions are anonymised per Supreme Court of the Northwest Ter
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

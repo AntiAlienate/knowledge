@@ -180,7 +180,7 @@ Belfast · Northern Ireland (national) · NI national domestic-violence-survivor
 *LLB PhD; Lecturer in Law; previously practising solicitor (specific roll status not publicly confirmed)*
 Cardiff · Wales · Cardiff University, School of Law and Politics (primary); University of Exeter Network on Family Regulation and Society (affiliated)
 
-**Stance:** THE Welsh academic anchor in the PA debate. Author of the only Welsh-Government-commissioned PA literature review (April 2018) — the academic source from which Cafcass Cymru policy on PA derives. Frames PA as a 'belief system' rather than empirically grounded clinical concept. Dual-cred — already flagged in UK-therapists batch for cross-disciplinary citation; this entry is the lawyer / legal-academic listing.
+**Stance:** THE Welsh academic anchor in the PA debate. Author of the only Welsh-Government-commissioned PA literature review (April 2018) — the academic source from which [Cafcass Cymru](https://www.cafcass.gov.uk/) policy on PA derives. Frames PA as a 'belief system' rather than empirically grounded clinical concept. Dual-cred — already flagged in UK-therapists batch for cross-disciplinary citation; this entry is the lawyer / legal-academic listing.
 
 **Publications:**
 - Review of Research and Case Law on Parental Alienation (commissioned by Cafcass Cymru) (2018) — *Welsh Government / Cardiff ORCA* — <https://www.gov.wales/sites/default/files/publications/2018-05/review-of-research-and-case-law-on-parental-alienation.pdf>
@@ -467,6 +467,8 @@ Chester / North Wales circuit · Wales (Welsh-medium placeholder) · Linenhall C
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

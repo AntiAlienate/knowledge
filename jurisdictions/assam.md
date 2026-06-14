@@ -27,7 +27,7 @@ Assam (অসম in Assamese) is a North-eastern Indian Brahmaputra-Valley mixed
 ### Gauhati High Court
 <https://www.ghconline.gov.in/>
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://main.sci.gov.in/>
 
 ### Bodoland Territorial Council + Karbi Anglong Autonomous Council + Dima Hasao Autonomous Council (customary courts)
@@ -93,6 +93,8 @@ Assam family-court decisions are anonymised per Indian court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

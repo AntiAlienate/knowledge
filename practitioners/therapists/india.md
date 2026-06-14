@@ -2,7 +2,7 @@
 
 ## Jurisdictional context
 
-India's apex engagement with the Parental Alienation construct is Lt Col Vivek Singh v Romani Singh, Civil Appeal 3962/2016, (2017) 3 SCC 231 — [Supreme Court of India](https://main.sci.gov.in/), Bench Chelameswar J. and A.K. Sikri J., decided 13 February 2017. The judgment expressly defined 'The Parental Alienation Syndrome' and engaged the on-record psychological/sociological report dated 12 December 2016 of Ms Iti Kanungo, Principal Counsellor, Family Court Patiala House New Delhi, as the court-appointed evaluator on the child's preferences (cross-link case-study:vivek-singh-v-romani-singh-2017-india). Vivek Singh remains the only Supreme Court of India decision that defines and applies PAS terminology, and Ms Kanungo is the only mental-health-adjacent practitioner named on the record in that decision.
+India's apex engagement with the Parental Alienation construct is Lt Col Vivek Singh v Romani Singh, Civil Appeal 3962/2016, (2017) 3 SCC 231 — [Supreme Court of India](https://main.sci.gov.in/), Bench Chelameswar J. and A.K. Sikri J., decided 13 February 2017. The judgment expressly defined 'The Parental Alienation Syndrome' and engaged the on-record psychological/sociological report dated 12 December 2016 of Ms Iti Kanungo, Principal Counsellor, Family Court Patiala House New Delhi, as the court-appointed evaluator on the child's preferences (cross-link case-study:vivek-singh-v-romani-singh-2017-india). Vivek Singh remains the only [Supreme Court of India](https://main.sci.gov.in/) decision that defines and applies PAS terminology, and Ms Kanungo is the only mental-health-adjacent practitioner named on the record in that decision.
 
 The High Court line subsequent to Vivek Singh has crystallised PA as adjudicable matrimonial cruelty under Hindu Marriage Act 1955 s.13(1)(ia). In ABC v XYZ, 2023 SCC OnLine Del 6099 (Delhi HC, Suresh Kumar Kait J. and Neena Bansal Krishna J., October 2023), the Court held that parental alienation by a non-neglectful parent constitutes an 'extreme act of mental cruelty' under HMA s.13(1)(ia). In A v B, 2026 SCC OnLine Del 276 (Delhi HC, Anil Kshetarpal J. and Harish Vaidyanathan Shankar J., February 2026), custody was transferred to the father on findings of 'sustained parental alienation' by the mother. Neither subsequent judgment names an individual mental-health expert on the record. This HC line — combined with the Guardians and Wards Act 1890 and the Family Courts Act 1984 framework that authorises court counsellors — gives India an unusually strong matrimonial-cruelty grounding for PA findings by comparison with other jurisdictions, while leaving the clinical-expert role substantially unspecified.
 
@@ -525,7 +525,7 @@ New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic par
   - Primary source: <https://www.drsagarmundada.com/>
 - **Centre for Mental Health Law & Policy (CMHLP), Pune** — Verified India Law Society-based mental-health-policy NGO founded 2007; suicide prevention, peer support, youth mental health focus; no PA-specific publication or programme located. Out-of-scope for therapists directory.
   - Primary source: <https://cmhlp.org/>
-- **Lawyers Collective Women's Rights Initiative (LCWRI), Delhi** — Adjacent / out-of-scope for therapists file (lawyer-side organisation; PWDVA monitoring reports). Belongs in /practitioners-asia-lawyers.md deepening. Comparative-reception relevance: institutional critique register that would engage cases like BVerfG 1 BvR 1076/23 (Germany 2023) as comparative authority for PA-construct critique in DV contexts.
+- **Lawyers Collective Women's Rights Initiative (LCWRI), Delhi** — Adjacent / out-of-scope for therapists file (lawyer-side organisation; PWDVA monitoring reports). Belongs in /practitioners-asia-lawyers.md deepening. Comparative-reception relevance: institutional critique register that would engage cases like [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023) as comparative authority for PA-construct critique in DV contexts.
   - Primary source: <https://www.endvawnow.org/uploads/browser/files/staying_alive_-_6th_monitoring_report.pdf>
 - **Centre for Social Research (CSR), New Delhi** — Verified women's-rights advocacy NGO founded 1983, director Dr Ranjana Kumari; no PA-specific publication or programme located. Out-of-scope and unsourced for PA.
   - Primary source: <https://www.csrindia.org/ranjana-kumari/>
@@ -552,6 +552,8 @@ New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic par
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

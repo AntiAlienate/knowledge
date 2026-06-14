@@ -24,7 +24,7 @@
 
 ## 1. The [Saunders](https://www.ovw.usdoj.gov/) program of research (2011-2015) — what 465 evaluators reported
 
-### 1.1 Saunders, Faller & Tolman (2011) — NIJ Final Technical Report
+### 1.1 [Saunders](https://www.ovw.usdoj.gov/), Faller & Tolman (2011) — NIJ Final Technical Report
 
 **Citation.** Saunders, D. G., Faller, K. C., & Tolman, R. M. (2011). *Child custody evaluators' beliefs about domestic abuse allegations: Their relationship to evaluator demographics, background, domestic violence knowledge and custody-visitation recommendations*. Final Technical Report submitted to the National Institute of Justice, October 31, 2011. NCJ Document No. 238891. NIJ Award No. 2007-WG-BX-0013. URL: https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf
 
@@ -150,7 +150,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 **Citation.** Association of Family and Conciliation Courts, *Model Standards of Practice for Child Custody Evaluation*, May 2006. https://www.afccnet.org/Portals/0/Committees/ModelStdsChildCustodyEvalSept2006.pdf — Practice Guidelines hub: https://www.afccnet.org/Resource-Center/Practice-Guidelines
 
-The AFCC Model Standards are the most widely-cited cross-jurisdictional baseline for what a US custody evaluator is supposed to know and do. They are not legally binding anywhere; they function as a professional benchmark.
+The [AFCC](https://www.afccnet.org/) Model Standards are the most widely-cited cross-jurisdictional baseline for what a US custody evaluator is supposed to know and do. They are not legally binding anywhere; they function as a professional benchmark.
 
 **Verbatim, on what every evaluator must be trained on (Section 1.2(b), pp. 7-8).** Areas of *expected* training for all child custody evaluators include:
 
@@ -186,7 +186,7 @@ Stahl's core position across his published work, as best reconstructable from pr
 
 1. Alienation, alignment, and estrangement are distinct phenomena, requiring *differential* assessment.
 2. The custody evaluator's task is to use a structured decision-tree to discriminate among (a) child rejection that is *justified* by abuse or maltreatment, (b) rejection that is the product of one parent's behaviour aimed at undermining the other, and (c) rejection that has *mixed* etiology ("hybrid" cases).
-3. Stahl publicly disagrees with framings (Meier, Alsalem) that characterise the use of "parental alienation" in family courts as primarily a misogynist or pseudo-scientific operation; his position is that the underlying phenomenon is real, that competent evaluators can distinguish it from estrangement, and that the answer to evaluator error is *better training*, not abandonment of the construct.
+3. Stahl publicly disagrees with framings ([Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Alsalem) that characterise the use of "parental alienation" in family courts as primarily a misogynist or pseudo-scientific operation; his position is that the underlying phenomenon is real, that competent evaluators can distinguish it from estrangement, and that the answer to evaluator error is *better training*, not abandonment of the construct.
 
 **Currently active Stahl training programme.** "Advanced Issues in Child Custody and Parenting Evaluations" co-presented with the American Academy of Forensic Psychology. URL: https://concept.paloaltou.edu/course/AAFP-Advanced-Issues-in-Child-Custody-and-Parenting-Evaluations — Domestic violence is one of four "common areas" Stahl's curriculum covers.
 
@@ -276,7 +276,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 **Core claim relevant to the training-asymmetry question.** Harman and Lorandos argue that:
 
 1. The Meier 2020 dataset cannot be re-replicated to support a gender-asymmetric conclusion when re-coded by their methodology.
-2. The "pro-PA-recognition" practitioner camp's evaluator training framework — built around the construct of parental alienating behaviors (PABs), structured assessment, and the differential decision-tree tradition (Drozd, Stahl, Saini, Johnston, Fidler) — is *adequately* trained in DV and not biased against survivor-mothers.
+2. The "pro-PA-recognition" practitioner camp's evaluator training framework — built around the construct of parental alienating behaviors (PABs), structured assessment, and the differential decision-tree tradition (Drozd, Stahl, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler) — is *adequately* trained in DV and not biased against survivor-mothers.
 3. The asymmetry-of-training thesis (Saunders) overstates the empirical robustness of the Saunders 2011 survey and understates the genuine, peer-reviewed clinical literature documenting PA as a real and assessable phenomenon.
 
 **[Secondary verification only]** for the verbatim text of Harman & Lorandos 2021 — *Psychology, Public Policy, and Law* is APA-paywalled and the full PDF was not directly extractable at compilation. The above summary is reconstructed from the article's published abstract and from Meier et al.'s 2022 rebuttals (which quote the critique extensively).
@@ -305,7 +305,7 @@ Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the u
 
 - FCAs are directed to **assess for domestic abuse before reaching any conclusion about alienating behaviours**, and "not to assume parental alienation when a child doesn't want contact."
 - The policy uses the term "alienating behaviours" (not "parental alienation syndrome" or "parental alienation disorder") and treats them as a possible *behaviour pattern*, not a syndromic diagnosis.
-- The policy is the explicit response to the 2020 Ministry of Justice Harm Report (the "Assessing Risk of Harm to Children and Parents in Private Law Children Cases" expert panel report) that found Cafcass and the family courts had been minimising DV and over-applying alienation framings.
+- The policy is the explicit response to the 2020 Ministry of Justice Harm Report (the "Assessing Risk of Harm to Children and Parents in Private Law Children Cases" expert panel report) that found [Cafcass](https://www.cafcass.gov.uk/) and the family courts had been minimising DV and over-applying alienation framings.
 
 **Practice Direction 12J.** *Practice Direction 12J — Child Arrangements & Contact Orders: Domestic Abuse and Harm*, Family Procedure Rules 2010. URL: https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j
 
@@ -484,7 +484,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - **Saunders, Tolman, & Faller (2013)** — Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology* 27(3):473-483. https://doi.org/10.1037/a0032164 — Peer-reviewed multivariate companion.
 - **Saunders (2015)** — Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody* 12(1):71-92. https://doi.org/10.1080/15379418.2015.1037052 — Practice-recommendations synthesis.
 - **Meier et al. (2020)** — U.S. child custody outcomes in cases involving parental alienation and abuse allegations. *Journal of Social Welfare and Family Law* 42(1):92-105. https://doi.org/10.1080/09649069.2020.1701941 — NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859. The 4,338-case dataset.
-- **Silberg & Dallam (2019)** — Abusers gaining custody in family courts. *Journal of Child Custody* 16(2):140-169. https://doi.org/10.1080/15379418.2019.1613204 — DOJ OVW Award #2011-TA-AX-K006. The 27-case turned-around series.
+- **[Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204))** — Abusers gaining custody in family courts. *Journal of Child Custody* 16(2):140-169. https://doi.org/10.1080/15379418.2019.1613204 — DOJ OVW Award #2011-TA-AX-K006. The 27-case turned-around series.
 
 ### Practitioner-defense / centrist literature
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

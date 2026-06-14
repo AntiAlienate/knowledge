@@ -118,7 +118,7 @@ George · Western Cape (Garden Route, Heather Park) · Independent counselling p
 
 **Contact:** 7 Notsung Avenue, Heather Park, George; tel +27 (44) 884-1252; mobile +27 (83) 269-6057; LinkedIn https://za.linkedin.com/in/christieels
 
-*Notes: HPCSA Professional Board for Psychology (Counselling Psychologist); registration number not publicly displayed on iVote / RecoMed / training profiles (HPCSA register lookup required). [PASG](https://pasg.info/) / Family Bridges credentials independently verifiable. Active HPCSA disciplinary process is the principal complication for outreach.*
+*Notes: HPCSA Professional Board for Psychology (Counselling Psychologist); registration number not publicly displayed on iVote / RecoMed / training profiles (HPCSA register lookup required). [PASG](https://pasg.info/) / [Family Bridges](https://warshak.com/family-bridges/) credentials independently verifiable. Active HPCSA disciplinary process is the principal complication for outreach.*
 
 **See also:** `jurisdiction:africa`, `jurisdiction:south-africa`, `practitioner:za.carr-leonard`, `practitioner:za.hpcsa`, `practitioner:za.pafsa`
 
@@ -215,7 +215,7 @@ Johannesburg / National · ZA national · Women Watch South Africa (NPO)
 *Institutional: feminist-legal collective and women-lawyers federation; legal aid, GBV survivor representation, and law-reform advocacy under the Children Act 2022 and Sexual Offences Act 2006 frameworks*
 Nairobi · Kenya national · FIDA Kenya (Federation of Women Lawyers — Kenya); standing women-lawyer voice in Kenyan family-court reform
 
-**Stance:** Standing Kenya women-lawyer critique register. FIDA Kenya operates the DV-protective frame in Kenyan custody / matrimonial proceedings under the Children Act 2022, the Marriage Act 2014, and the Protection Against Domestic Violence Act 2015. PA-construct critique is implicit in FIDA Kenya's documented body of work on intimate-partner violence and women's access to family-justice (e.g. annual GBV monitoring reports) rather than explicit in a published PA position-paper — the Kenya critique register, like the SA / Nigeria / Egypt critique registers, is institutional and women's-rights-organisation-led rather than clinician-led. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
+**Stance:** Standing Kenya women-lawyer critique register. FIDA Kenya operates the DV-protective frame in Kenyan custody / matrimonial proceedings under the Children Act 2022, the Marriage Act 2014, and the Protection Against Domestic Violence Act 2015. PA-construct critique is implicit in FIDA Kenya's documented body of work on intimate-partner violence and women's access to family-justice (e.g. annual GBV monitoring reports) rather than explicit in a published PA position-paper — the Kenya critique register, like the SA / Nigeria / Egypt critique registers, is institutional and women's-rights-organisation-led rather than clinician-led. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023), [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
 
 **Publications:**
 - Annual reports on GBV and women's access to family-justice in Kenya (2023) — *FIDA Kenya*
@@ -379,7 +379,7 @@ Johannesburg · Gauteng · Independent expert engaged in T.L.D v B.G [2023] ZAGP
 ## Institutional anchors
 
 ### Parental Alienation Foundation of South Africa (PAFSA)
-*Institutional: advocacy + education NGO; co-founder Howard Watson (attorney, Watson Law Incorporated, Pretoria); PASG SA chapter coordination*
+*Institutional: advocacy + education NGO; co-founder Howard Watson (attorney, Watson Law Incorporated, Pretoria); [PASG](https://pasg.info/) SA chapter coordination*
 Pretoria · Gauteng (Watson Law) · PAFSA / Watson Law Incorporated, Pretoria; awareness.org.za content portal
 
 **Stance:** PAFSA mission statement (Watson Law page): 'to have the South African law changed, to meet international standards and to criminalise this emotional abuse'. Howard Watson public statement (Mail & Guardian 11 August 2022): PA is 'emotionally manipulative behaviour … not reliant on gender, and although more prevalent in mothers, fathers are far from innocent'. PAFSA calls for assessment + proper training of legal and medical professionals before submitting recommendations affecting minor children's rights. SA's principal PA-recognition advocacy NGO and institutional carrier of PASG SA chapter — standing recognition-camp institutional interlocutor for criminalisation reform and professional-training advocacy. Co-founder Howard Watson is an attorney (Watson Law) — PAFSA functions as advocacy NGO. NPO/NPC number not publicly displayed. Stance is recognition-camp in substance but classified institutional per schema (institutional NGO entry).
@@ -534,6 +534,8 @@ Federal (national) · Nigeria national · NACP — national professional associa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

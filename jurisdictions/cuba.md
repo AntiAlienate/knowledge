@@ -20,7 +20,7 @@ Cuba is a Caribbean socialist-civil-law republic whose family-law framework oper
 
 ## Apex courts
 
-### People's Supreme Court (Tribunal Supremo Popular)
+### People's Supreme Court ([Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) Popular)
 <https://www.tsp.gob.cu/>
 
 ## Professional regulators
@@ -66,6 +66,8 @@ Cuban family-court decisions are anonymised per People's Supreme Court practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

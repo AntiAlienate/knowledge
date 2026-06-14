@@ -34,14 +34,14 @@ location_tags: [united-states, international, family-court-review, warshak, fami
 For severely alienated children where contact has been near-zero for an extended period:
 
 1. **Pre-workshop**: court order temporarily transfers residency to the targeted parent
-2. **Days 1-4**: child + targeted parent attend Family Bridges workshop with two PA-trained clinicians
+2. **Days 1-4**: child + targeted parent attend [Family Bridges](https://warshak.com/family-bridges/) workshop with two PA-trained clinicians
 3. **Educational frame, not therapeutic**: child is taught about influence, persuasion, splitting, polarized thinking — content typically appropriate for adolescents
 4. **Aftercare**: 90 days of structured contact with the targeted parent, no contact (or limited monitored contact) with the alienating parent
 5. **Reintroduction**: gradual reintroduction of the alienating parent under therapeutic supervision
 
 ## Outcome data [Warshak](https://warshak.com/family-bridges/) reports
 
-- Of 23 children attending Family Bridges between 2002–2010 (Warshak's reported sample): 22 of 23 left the workshop with restored relationships with the targeted parent
+- Of 23 children attending Family Bridges between 2002–2010 ([Warshak's](https://warshak.com/family-bridges/) reported sample): 22 of 23 left the workshop with restored relationships with the targeted parent
 - 1-year follow-up: 18 of 23 maintained restored relationships
 - The 5 who reverted: typically returned to alienating parent's primary residence prematurely
 
@@ -90,6 +90,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

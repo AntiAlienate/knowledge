@@ -67,7 +67,7 @@ Mixed disposition: appeal dismissed in part, reversed in part, affirmed in part,
 
 - **Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38** (UK-EWS) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — Closest functional analog in spirit — not because Humphries shares Re Y's scepticism of alienation expertise, but because both decisions insist on procedural and statutory discipline regardless of how compelling the trial court found the alienation evidence. Re Y polices who counts as an expert in England ([HCPC](https://www.hcpc-uk.org/)-registration gate); Humphries polices what remedies a Colorado court can impose once it has accepted that expertise (C.R.S. statutory-tailoring gate).
 - **[Cassazione](https://www.cortedicassazione.it/) civ., sez. I, 24 March 2022, n. 9691** (IT) — [`cassazione-9691-2022-italy`](./cassazione-9691-2022-italy.md) — Italian Supreme Court ([Corte di Cassazione](https://www.cortedicassazione.it/)) decision on the inadmissibility of PAS as a scientific theory and the limits on PA-based custody remedies; comparative counterpoint to Humphries on the admissibility-of-PA-expertise question (Italy rejects the underlying theory at the Cassation level; Colorado admits it subject to C.R.E. 702 reliability gating).
-- **[BVerfG](https://www.bundesverfassungsgericht.de/), 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten; comparative parallel to Humphries on the question of how appellate / constitutional courts police the gap between an accepted PA-finding and the consequential family-law remedy. BVerfG attacks the evaluator quality; Humphries attacks the remedy-statute fit.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/), 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten; comparative parallel to Humphries on the question of how appellate / constitutional courts police the gap between an accepted PA-finding and the consequential family-law remedy. [BVerfG](https://www.bundesverfassungsgericht.de/) attacks the evaluator quality; Humphries attacks the remedy-statute fit.
 
 ## Subsequent reception
 
@@ -113,13 +113,15 @@ Mixed disposition: appeal dismissed in part, reversed in part, affirmed in part,
 - Verbatim quotes are taken from the Colorado Lawyer (CBA) From-the-Courts digest, which quotes the trial-court findings and the appellate-court characterisations directly. Paragraph numbers in the appellate opinion are not enumerated in the secondary digests and will be added on full-text retrieval of 22CA1327-PD.pdf.
 - Verification path: (a) Colorado Judicial Branch primary PDF (2024 COA 92, 22CA1327); (b) LexisNexis Colorado reported-decisions database (cross-check); (c) Colorado Bar Association / Colorado Lawyer From-the-Courts digest (practitioner-press digest); (d) Justia and FindLaw caselaw records (caption and procedural-history cross-check); (e) ABA Family Law Quarterly (March 2024) for secondary commentary; (f) CourtListener / CrimDocs-adjacent free-law repositories for docket cross-check.
 - Schema v1.0 PASS: required fields schema_version, slug, caption, jurisdiction_code, decision_date, court, license, author, summary, holding, sources all populated; children.sex uses enum value 'not_stated'; experts array entry has required 'name' field; cross-link refs follow the ^(case-study|practitioner|jurisdiction|evidence):[a-z0-9.-]+$ pattern.
-- Comparative cross-links chosen per the brief: Re Y [2026] EWFC 38 (closest functional analog — procedural / statutory discipline over PA findings); Cassazione 9691/2022 (Italian Supreme Court rejection of PAS as scientific theory — comparative counterpoint on the admissibility question); BVerfG 1 BvR 1076/23 (German constitutional critique of PAS-based evaluator quality — comparative parallel on appellate / constitutional policing of PA-finding consequences).
+- Comparative cross-links chosen per the brief: Re Y [2026] EWFC 38 (closest functional analog — procedural / statutory discipline over PA findings); [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italian Supreme Court rejection of PAS as scientific theory — comparative counterpoint on the admissibility question); BVerfG 1 BvR 1076/23 (German constitutional critique of PAS-based evaluator quality — comparative parallel on appellate / constitutional policing of PA-finding consequences).
 
 *Author: Alan Markson.*
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

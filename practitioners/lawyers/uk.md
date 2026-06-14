@@ -163,7 +163,7 @@ Uxbridge · England · Brunel Law School, Brunel University London; Co-Director 
 *Professor of Law; academic; non-practising (Bar/roll status not publicly confirmed)*
 Uxbridge · England · Brunel Law School, Brunel University London
 
-**Stance:** Doyenne of UK feminist family-law scholarship. Statutory-presumption critique (Kaganas 2018 'Parental Involvement: A Discretionary Presumption', Legal Studies) is the precise legal-theoretical underpinning of the October 2023 government commitment to repeal s.1(2A) Children Act 1989. 2024 JSWFL Festschrift in her honour marks her status as the doctrinal anchor of the UK critique camp. Long-running PA/DV collaboration with Adrienne Barnett.
+**Stance:** Doyenne of UK feminist family-law scholarship. Statutory-presumption critique (Kaganas 2018 'Parental Involvement: A Discretionary Presumption', Legal Studies) is the precise legal-theoretical underpinning of the October 2023 government commitment to repeal s.1(2A) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41). 2024 JSWFL Festschrift in her honour marks her status as the doctrinal anchor of the UK critique camp. Long-running PA/DV collaboration with Adrienne Barnett.
 
 **Publications:**
 - Parental Involvement: A Discretionary Presumption (2018) — *Legal Studies*
@@ -416,6 +416,8 @@ London + Birmingham (multi-site) · England (UK-wide practice) · No5 Chambers �
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

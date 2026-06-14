@@ -77,7 +77,7 @@ Swiss family-law decisions are anonymised per BGer convention using initials (e.
 ## Editorial notes
 
 - Switzerland jurisdiction sidecar establishes the Swiss civil-law framework within the corpus alongside Germany, France, Italy, Netherlands and Belgium. Federal Zivilgesetzbuch (ZGB) + Bundesgericht (BGer) apex + KESB child-protection structure + PsyG 2011 statutory psychology regulator.
-- PA-recognition status: silent across statutory + apex + regulator axes. BGer has not produced a published apex-level engagement with the PAS construct equivalent to the BVerfG 1 BvR 1076/23 critique-camp decision. BGer practice operates substantively under the Kindeswohl welfare standard.
+- PA-recognition status: silent across statutory + apex + regulator axes. BGer has not produced a published apex-level engagement with the PAS construct equivalent to the [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 critique-camp decision. BGer practice operates substantively under the Kindeswohl welfare standard.
 - PsyG 2011 statutory title-protection regime placed Switzerland among the federal-statutory psychology regulator group within the corpus ([HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH).
 - KESB framework (since 2013) operates distinctively as first-instance child-protection authority parallel to family-court parental-authority/contact jurisdiction — structurally distinctive among corpus jurisdictions.
 - Sources: Fedlex for federal statutes + bger.ch for BGer case-law + psychologie.ch for FSP + kokes.ch for KESB inter-cantonal conference. Anonymisation per BGer convention preserves initials-style identification within the broader corpus anonymisation spectrum.
@@ -86,6 +86,8 @@ Swiss family-law decisions are anonymised per BGer convention using initials (e.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

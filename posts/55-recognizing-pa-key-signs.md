@@ -86,7 +86,7 @@ The European Court explicitly held in *Solarino v. Italy* (2017, App. no. 76171/
 ## Citations
 
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - [DSM-5](https://www.appi.org/products/dsm) V995.51; WHO [ICD-11](https://icd.who.int/) QE52
@@ -100,6 +100,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

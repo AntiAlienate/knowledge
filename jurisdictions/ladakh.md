@@ -25,7 +25,7 @@ Ladakh is a South Asian Trans-Himalayan mixed common-law/Buddhist-customary-law 
 ### High Court of Jammu and Kashmir and Ladakh
 <https://jkhighcourt.nic.in/>
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://main.sci.gov.in/>
 
 ## Professional regulators
@@ -79,6 +79,8 @@ Ladakh family-court decisions are anonymised per Indian High Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

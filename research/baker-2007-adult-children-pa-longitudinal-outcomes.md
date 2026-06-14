@@ -66,7 +66,7 @@ From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 
 ## Significance
 
-Baker's 2007 study transformed PA from a contested clinical theory to an empirical research domain. The study's findings have been:
+[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 study transformed PA from a contested clinical theory to an empirical research domain. The study's findings have been:
 
 - Replicated in multiple subsequent quantitative studies (Baker & Brassard 2013, Verrocchio 2019, Bentley & Matthewson 2020)
 - Cited in over 800 peer-reviewed publications and court filings
@@ -152,6 +152,8 @@ Baker's 2007 study transformed PA from a contested clinical theory to an empiric
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -176,8 +178,8 @@ Baker's 2007 study transformed PA from a contested clinical theory to an empiric
 
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
 - [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [Why Children Say They Hate You The Psychology Of Alienation](https://www.antialienate.com/blog/why-children-say-they-hate-you-the-psychology-of-alienation)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
 
 <!-- AA-CROSSLINK-END -->

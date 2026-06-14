@@ -1,6 +1,6 @@
 # [Cour de cassation](https://www.courdecassation.fr/), 1re chambre civile, 26 juin 2013, pourvoi n° 12-14.392 (Bulletin)
 
-**Court:** Cour de cassation (French Court of Cassation), Première chambre civile (First Civil Chamber)
+**Court:** [Cour de cassation](https://www.courdecassation.fr/) (French Court of Cassation), Première chambre civile (First Civil Chamber)
 **Date of arrêt:** 26 June 2013
 **Decision below:** Cour d'appel de Rennes (Rennes Court of Appeal), arrêt of 29 November 2011
 **Publication:** *Publié au bulletin* (the Court's own reports of decisions considered to have precedential weight)
@@ -80,7 +80,7 @@ For France this arrêt is the foundational reference point in any discussion of 
 
 First, it establishes – inside the formal *cassation* discipline of French civil procedure – that a court of appeal that finds an alienating dynamic in a child's life is acting *within* its *pouvoir souverain d'appréciation* and not committing an error of law warranting cassation. That is a procedural finding, not an endorsement of the clinical concept, but in practice it gave French lower courts cover to engage with SAP-style reasoning without fear of cassation.
 
-Second, the arrêt is a model of what civil-law family-court reasoning looks like at the cassation level. The Court did not balance welfare factors in the common-law manner, did not address expert credentials, and did not pronounce on the scientific status of SAP. It applied Article 373-2-13 Code civil, found that the *enquête sociale* was a *fait nouveau*, and confirmed the cour d'appel's *appréciation souveraine*. Anyone using this case for advocacy purposes needs to be candid about that procedural posture: this is not a French equivalent of Re S or Re A.
+Second, the arrêt is a model of what civil-law family-court reasoning looks like at the cassation level. The Court did not balance welfare factors in the common-law manner, did not address expert credentials, and did not pronounce on the scientific status of SAP. It applied Article 373-2-13 [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/), found that the *enquête sociale* was a *fait nouveau*, and confirmed the cour d'appel's *appréciation souveraine*. Anyone using this case for advocacy purposes needs to be candid about that procedural posture: this is not a French equivalent of Re S or Re A.
 
 Third, the arrêt is now the central exhibit in the French *backlash* against SAP. The 2018 ministerial circular, the 2020 intra-family violence reforms, and the academic literature that followed all use 26 June 2013 as the case that, in their view, went too far. That makes the arrêt important for *both* sides of the European parental-alienation debate – PA-positive advocates cite it as proof that French law is open to alienation-based residence transfers; PA-critical voices cite it as the high point of a SAP wave that has since been actively rolled back.
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

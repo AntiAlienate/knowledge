@@ -10,11 +10,11 @@
 >
 > **Editorial standards.** Verbatim quotation from primary sources wherever direct access was available; explicit "**[secondary verification only]**" tags where the primary text was paywalled, copyright-restricted, or returned HTTP 403 at compilation; explicit "**not publicly confirmed**" where the source could not be located. Compilation date 2026-05-25. URLs verified at compilation.
 >
-> **Honest disclosure (load-bearing).** The [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/) are copyrighted. Several URLs that hold primary text returned HTTP 403, paywalls, or copyright refusals during compilation. The verbatim [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/) quotations in this page were assembled from multiple secondary academic sources that quote them consistently; readers using these quotations in court should verify against the published [DSM-5-TR](https://www.appi.org/products/dsm) (2022) and ICD-11 MMS browser (https://icd.who.int/browse11/l-m/en) before filing.
+> **Honest disclosure (load-bearing).** The [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/) are copyrighted. Several URLs that hold primary text returned HTTP 403, paywalls, or copyright refusals during compilation. The verbatim [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/) quotations in this page were assembled from multiple secondary academic sources that quote them consistently; readers using these quotations in court should verify against the published [DSM-5-TR](https://www.appi.org/products/dsm) (2022) and [ICD-11](https://icd.who.int/) MMS browser (https://icd.who.int/browse11/l-m/en) before filing.
 
 ---
 
-## 1. The DSM-5 / [DSM-5-TR](https://www.appi.org/products/dsm) codes that apply
+## 1. The [DSM-5](https://www.appi.org/products/dsm) / [DSM-5-TR](https://www.appi.org/products/dsm) codes that apply
 
 ### 1.1 V995.51 / T74.32XA — Child Psychological Abuse, Confirmed
 
@@ -46,7 +46,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 ### 1.2 V61.20 / Z62.820 — Parent-Child Relational Problem
 
-**Location in DSM-5.** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, sub-section "Relational Problems," DSM-5 pages 715–716 (DSM-5-TR ~ pp. 811).
+**Location in DSM-5.** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, sub-section "Relational Problems," DSM-5 pages 715–716 ([DSM-5-TR](https://www.appi.org/products/dsm) ~ pp. 811).
 
 **DSM-5 use criterion, verbatim.**
 
@@ -237,7 +237,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 > "[Cafcass](https://www.cafcass.gov.uk/) do not use or refer to the term 'parental alienation' which is often framed as a condition or syndrome."
 
-(Source: [Cafcass](https://www.cafcass.gov.uk/), "Alienating Behaviours," https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours.) Cafcass instead uses the descriptive phrase "alienating behaviour," which it defines as "an ongoing pattern of negative attitudes and communication about the other parent or carer that have the potential or intention to undermine, manipulate or even destroy a child's relationship with their other parent." Cafcass FCAs work within the Child Impact Assessment Framework (CIAF) (https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf), which integrates assessment of domestic abuse, harmful parental conflict, alienating behaviours, and parenting-capacity issues. UK NHS and independent psychologists working on family-court instructions code in ICD-10 / ICD-11; the Cafcass position effectively prevents the use of "PAS" or "PAD" in court-instructed reports.
+(Source: [Cafcass](https://www.cafcass.gov.uk/), "Alienating Behaviours," https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours.) [Cafcass](https://www.cafcass.gov.uk/) instead uses the descriptive phrase "alienating behaviour," which it defines as "an ongoing pattern of negative attitudes and communication about the other parent or carer that have the potential or intention to undermine, manipulate or even destroy a child's relationship with their other parent." Cafcass FCAs work within the Child Impact Assessment Framework (CIAF) (https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf), which integrates assessment of domestic abuse, harmful parental conflict, alienating behaviours, and parenting-capacity issues. UK NHS and independent psychologists working on family-court instructions code in ICD-10 / ICD-11; the Cafcass position effectively prevents the use of "PAS" or "PAD" in court-instructed reports.
 
 **Australia / New Zealand.** Mixed practice; the Family Court of Australia accepts evidence framed in DSM-5-TR and ICD-11 terms, with reluctance to accept "PAS" as a discrete diagnosis. Court-appointed Family Consultants frame reports using "child's resistance to spending time with a parent" language and document specific parental conduct without invoking syndrome labels — consistent with the Cafcass model.
 
@@ -339,7 +339,7 @@ Bernet, Wamboldt & Narrow (2016) (full citation §1.3 above) is the article that
 
 The ICD-11 history is documented in detail in `/evidence/international-institutional-positions.md` §1.2–1.3. Summary: PA was initially considered, was added as an index term for QE52.0, then was **formally removed in February 2020** following commentary highlighting misuse. WHO's operative direction is to code PA-pattern presentations to QE52.0.
 
-### 6.5 PASG 2022 proposal — PARP — not adopted in DSM-5-TR
+### 6.5 [PASG](https://pasg.info/) 2022 proposal — PARP — not adopted in DSM-5-TR
 
 Documented in §1.4 above.
 
@@ -368,7 +368,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 - The DSM-5 textual examples ("berating, disparaging, or humiliating the child"; "scapegoating of the child"; "unwarranted feelings of estrangement").
 - The Bernet/Wamboldt/Narrow 2016 *JAACAP* article placing PA inside CAPRD.
 - The APSAC 2022 differential-diagnosis framework.
-- The Saini/Johnston/Fidler/Bala 2016 multiple-hypotheses approach.
+- The [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 multiple-hypotheses approach.
 - WHO's direction (per the published ICD-11 FAQ) that QE52.0 covers these presentations.
 
 ### 7.3 What you SHOULD NOT do
@@ -430,7 +430,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - World Health Organization. *Parental alienation* — Frequently Asked Questions. https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation
 
 **Bernet group proposals.**
-- Bernet, W. (Ed.) (2010). *Parental Alienation, DSM-5, and ICD-11*. Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). *American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
+- Bernet, W. (Ed.) (2010). *Parental Alienation, DSM-5, and ICD-11*. Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). *American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
 - Madaan, V., & Habib, P. (2013). Book review of *Parental Alienation, DSM-5, and ICD-11*. *The Journal of Clinical Psychiatry*, 74(3), e220. https://doi.org/10.4088/JCP.12bk08344. URL: https://www.psychiatrist.com/jcp/parental-alienation-ltemgtdsm-ltemgt-ltemgticd-ltemgt/
 - PASG (Bernet, W., & Baker, A. J. L.) (2022, draft 2022-08-29). *Draft of the Proposal for Parental Alienation Relational Problem to be Added to DSM-5-TR.* https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr
 - Bernet, W., Baker, A. J. L., Narrow, W. E., & Wamboldt, M. Z. (2023, draft 2023-09-01). *Proposal for a Correction and Clarification to Parent-Child Relational Problem.* https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

@@ -27,7 +27,7 @@ Arunachal Pradesh (अरुणाचल प्रदेश in Hindi, meaning 'L
 ### Gauhati High Court (Itanagar Permanent Bench)
 <https://www.ghconline.gov.in/>
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://main.sci.gov.in/>
 
 ### Traditional village councils (Kebang, Buliang, Bango)
@@ -87,6 +87,8 @@ Arunachal Pradesh family-court decisions are anonymised per Indian court practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -24,7 +24,7 @@ The repository, hosted at [github.com/AntiAlienate/antialienate-knowledge](https
 - **Open-source under CC BY 4.0** — adapt, translate, share, build on
 - **Both sides represented** with primary-source quotation throughout — the repo's [`/the-debate/`](https://github.com/AntiAlienate/antialienate-knowledge/tree/main/the-debate) section maps recognition vs. critique honestly
 - **Continuously updated** — background agent adds fresh court rulings and academic citations daily
-- **Cross-jurisdictional depth** — common-law (UK/US/Canada/AU/SG/HK/India), civil-law (DE/FR/ES/IT/NL/BR/MX/AR/PL), regional human-rights ([ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) cluster: Lombardo → Strumia → Improta), constitutional courts (BVerfG, Italian [Cassazione](https://www.cortedicassazione.it/), Argentine CSJN, Polish Sąd Najwyższy)
+- **Cross-jurisdictional depth** — common-law (UK/US/Canada/AU/SG/HK/India), civil-law (DE/FR/ES/IT/NL/BR/MX/AR/PL), regional human-rights ([ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) cluster: Lombardo → Strumia → Improta), constitutional courts ([BVerfG](https://www.bundesverfassungsgericht.de/), Italian [Cassazione](https://www.cortedicassazione.it/), Argentine CSJN, Polish Sąd Najwyższy)
 - **Honest gaps openly documented** — including the absence of a clean US appellate reversal of a substantive PA finding, the lack of independent peer-reviewed reunification-program outcome data, and the absence of defensible population prevalence estimates
 - **Practitioner-actionable distillations** — the [`What Court Submissions Can Honestly Claim`](https://github.com/AntiAlienate/antialienate-knowledge/blob/main/evidence/what-court-submissions-can-claim.md) page translates the evidence corpus into operational filing language for both sides
 
@@ -49,6 +49,8 @@ AntiAlienate.com is an open knowledge initiative dedicated to supporting familie
 *Editor's note: a one-page fact sheet, full repository links, primary-source citation lists, and high-resolution image assets are available at [github.com/AntiAlienate/antialienate-knowledge/tree/main/press](./).*
 
 — END —
+
+
 
 
 

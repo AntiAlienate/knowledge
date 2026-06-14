@@ -161,7 +161,7 @@ Both cross-appeals dismissed on the principal points. Joint custody maintained; 
 - Children anonymised as 'Elder daughter' and 'Younger daughter' per the same Family Justice Rules convention. Their approximate ages (16 and 13 at judgment) and inferred birth years (2004 and 2007) are derived from the judgment text; the exact dates of birth are not publicly confirmed in the anonymised SGHCF report.
 - Counsel names are not publicly available in the anonymised eLitigation text of [2020] SGHCF 20; Singapore family-court anonymisation convention removes counsel names from the headnote and body of published family judgments. The counsel array is therefore intentionally left empty.
 - All verbatim quotes are transcribed from the published eLitigation text of [2020] SGHCF 20 with paragraph numbers as cited in the AntiAlienate knowledge base source MD; final verification against the live eLitigation full text is recommended at publication time.
-- Singapore is a common-law jurisdiction derived from English common law; doctrinal cross-links with the English EWFC line (Re Y, Re A, Re S, Re H-N) and with the Hong Kong Court of Appeal (H v W) are drawn explicitly. The parallel critique of PAS as a clinical construct in Italy (Cassazione 9691/2022) and Germany (BVerfG 1 BvR 1076/23) is included for jurisprudential triangulation despite the different doctrinal base.
+- Singapore is a common-law jurisdiction derived from English common law; doctrinal cross-links with the English EWFC line (Re Y, Re A, Re S, Re H-N) and with the Hong Kong Court of Appeal (H v W) are drawn explicitly. The parallel critique of PAS as a clinical construct in Italy ([Cassazione](https://www.cortedicassazione.it/) 9691/2022) and Germany ([BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23) is included for jurisprudential triangulation despite the different doctrinal base.
 - The practitioner cross-link 'practitioner:sg.aware' anchors the Singapore therapists v2 critique held in the AntiAlienate practitioner directory; the discrete practitioner record is maintained separately.
 - Subsequent reception entries [2024] SGCA 1 and [2025] SGHCF 12 are cited from the AntiAlienate source MD; the discrete paragraphs in which those judgments cite TEN v TEO are flagged for in-text page-pin confirmation at publication time.
 - Earlier directions hearings on 6 March 2019 and 21 October 2019 and the final hearing on 15 July 2020 are taken from the procedural history as set out in the published judgment; the 23 November 2020 hand-down is the decision_date used here.
@@ -171,6 +171,8 @@ Both cross-appeals dismissed on the principal points. Joint custody maintained; 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

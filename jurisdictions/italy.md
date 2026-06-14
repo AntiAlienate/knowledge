@@ -20,7 +20,7 @@ Italy carries the European Union's most fully developed statute-and-case-law sta
 - **[Codice Civile](https://www.brocardi.it/codice-civile/) artt. 330, 333, 336** — Decadenza, condotta pregiudizievole e procedimento de potestate (1942) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art330.html>
   - Quadro de potestate dei provvedimenti più incisivi (decadenza dalla responsabilità genitoriale, allontanamento, collocamento in casa-famiglia) — proprio quelli che la Cass. 9691/2022 ha ritenuto non potersi fondare sulla PAS o suoi corollari pseudoscientifici.
 - **Codice di Procedura Civile art. 709-ter e 709-quater** — Soluzione delle controversie e provvedimenti in caso di inadempienze o violazioni (2006) — <https://www.brocardi.it/codice-procedura-civile/libro-secondo/titolo-ii/capo-i/sezione-ii/art709ter.html>
-  - Sede processuale tipica delle controversie su affidamento e visite invocata nelle vicende oggetto della triade Cassazione e nei casi ECHR italiani — strumento ordinario per riequilibrio del regime visite senza ricorrere a etichette PAS.
+  - Sede processuale tipica delle controversie su affidamento e visite invocata nelle vicende oggetto della triade [Cassazione](https://www.cortedicassazione.it/) e nei casi ECHR italiani — strumento ordinario per riequilibrio del regime visite senza ricorrere a etichette PAS.
 - **Codice Penale art. 388** — Mancata esecuzione dolosa di un provvedimento del giudice (1930) — <https://www.brocardi.it/codice-penale/libro-secondo/titolo-iii/capo-ii/art388.html>
   - Risposta penale alla violazione di provvedimenti civili sull'affidamento, di scarsa efficacia pratica come emerso negli atti CEDU Lombardo / Improta / Strumia — fattore strutturale del deficit italiano di enforcement segnalato da Strasburgo.
 - **Legge 8 febbraio 2006 n. 54 — affido condiviso** — Disposizioni in materia di separazione dei genitori e affidamento condiviso dei figli (2006) — <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-08;54>
@@ -60,7 +60,7 @@ Italy carries the European Union's most fully developed statute-and-case-law sta
 
 ## Anonymisation convention
 
-La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia di famiglia e minori con iniziali (es. M.L., A.G., Ri.El., Mo.Ma.) e sigle dei minori (es. A.L., Mo.Lo., Mo.Ja.). La base normativa è il D.Lgs. 30 giugno 2003 n. 196 art. 52 (Codice in materia di protezione dei dati personali), che governa la pubblicazione di provvedimenti in materia di famiglia. La regola si applica anche a CTU, curatori speciali, psicologi dei servizi sociali e altri soggetti identificabili. Le case study della knowledge base seguono rigorosamente questa convenzione anche quando l'identità della parte è di dominio pubblico (es. caso Laura Massaro / Cass. 9691/2022, dove la pubblicazione mantiene 'M.L.' nel testo del provvedimento).
+La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio le parti dei procedimenti in materia di famiglia e minori con iniziali (es. M.L., A.G., Ri.El., Mo.Ma.) e sigle dei minori (es. A.L., Mo.Lo., Mo.Ja.). La base normativa è il D.Lgs. 30 giugno 2003 n. 196 art. 52 (Codice in materia di protezione dei dati personali), che governa la pubblicazione di provvedimenti in materia di famiglia. La regola si applica anche a CTU, curatori speciali, psicologi dei servizi sociali e altri soggetti identificabili. Le case study della knowledge base seguono rigorosamente questa convenzione anche quando l'identità della parte è di dominio pubblico (es. caso Laura Massaro / Cass. 9691/2022, dove la pubblicazione mantiene 'M.L.' nel testo del provvedimento).
 
 ## Key developments
 
@@ -114,12 +114,12 @@ La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia
 4. **Consiglio Nazionale dell'Ordine degli Psicologi (CNOP)** — <https://www.psy.it/> (CNOP) [it]
 5. **Famiglia e Diritto — rivista (Wolters Kluwer / IPSOA)** — <https://www.edicolaprofessionale.com/famigliaediritto> (Wolters Kluwer Italia / IPSOA) [it]
 6. **Diritto.it — portale giuridico** — <https://www.diritto.it/> (Diritto.it) [it]
-7. **[HUDOC](https://hudoc.echr.coe.int/) — European Court of Human Rights case-law database** — <https://hudoc.echr.coe.int/> ([Council of Europe](https://www.coe.int/) — ECHR) [en]
-8. **GREVIO Italy Baseline Evaluation Report (January 2020)** — <https://www.coe.int/en/web/istanbul-convention/italy> (Council of Europe — GREVIO) [en]
+7. **[HUDOC](https://hudoc.echr.coe.int/) — [European Court of Human Rights](https://www.echr.coe.int/) case-law database** — <https://hudoc.echr.coe.int/> ([Council of Europe](https://www.coe.int/) — ECHR) [en]
+8. **GREVIO Italy Baseline Evaluation Report (January 2020)** — <https://www.coe.int/en/web/istanbul-convention/italy> ([Council of Europe](https://www.coe.int/) — GREVIO) [en]
 9. **Cass. civ. Sez. I ord. 24 marzo 2022 n. 9691 — testo integrale (Studio Ruffinotti repository)** — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf> (Studio Legale Ruffinotti (repository)) [it]
 10. **Normattiva — portale ufficiale della legislazione vigente** — <https://www.normattiva.it/> (Istituto Poligrafico e Zecca dello Stato) [it]
 11. **CISMAI — Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia** — <https://cismai.it/> (CISMAI) [it]
-12. **Brocardi.it — Codice Civile e Codice di Procedura Civile annotati** — <https://www.brocardi.it/> (Brocardi.it) [it]
+12. **Brocardi.it — [Codice Civile](https://www.brocardi.it/codice-civile/) e Codice di Procedura Civile annotati** — <https://www.brocardi.it/> (Brocardi.it) [it]
 
 ## Editorial notes
 
@@ -133,6 +133,8 @@ La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
@@ -209,10 +211,10 @@ La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia
 
 ## Related on antialienate.com
 
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->

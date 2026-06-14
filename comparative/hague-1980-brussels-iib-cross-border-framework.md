@@ -67,7 +67,7 @@ International parental-alienation cases typically involve multiple overlapping l
 **→ Brussels IIb** applies. Faster + more streamlined than Hague 1980.
 
 ### Scenario 2: Cross-border within [Council of Europe](https://www.coe.int/) but not all EU
-**→ Hague 1980** + national domestic law. ECHR Art. 8 family-life doctrine applies through Council of Europe membership.
+**→ Hague 1980** + national domestic law. ECHR Art. 8 family-life doctrine applies through [Council of Europe](https://www.coe.int/) membership.
 
 ### Scenario 3: One Hague signatory + one non-signatory
 **→ Bilateral framework + national law** + diplomatic channels. Hague does NOT apply.
@@ -166,13 +166,15 @@ See repo's jurisdiction-specific entries for national framework details:
 - [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70): https://www.hcch.net/en/instruments/conventions/full-text/?cid=70
 - Brussels IIb (Regulation 2019/1111): https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R1111
 - [HCCH](https://www.hcch.net/) (Hague Conference): https://www.hcch.net/
-- HCCH signatory status portal: https://www.hcch.net/en/instruments/conventions/status-table/?cid=24
+- [HCCH](https://www.hcch.net/) signatory status portal: https://www.hcch.net/en/instruments/conventions/status-table/?cid=24
 
 ---
 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not legal advice. Cross-border PA cases require specialized counsel familiar with the relevant Hague + EU + national framework intersection.
+
+
 
 
 

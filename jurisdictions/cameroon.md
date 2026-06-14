@@ -21,7 +21,7 @@ Cameroon is a Central African mixed-legal-system unitary republic structurally d
 ### Supreme Court (Cour suprême)
 <https://www.coursupreme.cm/>
 
-### Constitutional Council (Conseil constitutionnel)
+### Constitutional Council ([Conseil constitutionnel](https://www.conseil-constitutionnel.fr/))
 <https://www.conseilconstitutionnel.cm/>
 
 ## Professional regulators
@@ -69,6 +69,8 @@ Cameroonian family-court decisions are anonymised per Supreme Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

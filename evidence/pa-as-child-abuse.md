@@ -50,7 +50,7 @@
 
 ---
 
-### 1.5 Baker (2007) — adult retrospective qualitative outcomes
+### 1.5 [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) — adult retrospective qualitative outcomes
 
 **Citation.** Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*. New York: W. W. Norton.
 
@@ -104,7 +104,7 @@
 
 ---
 
-### 2.3 DSM-5 — V995.51 Child Psychological Abuse
+### 2.3 [DSM-5](https://www.appi.org/products/dsm) — V995.51 Child Psychological Abuse
 
 **Citation.** *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* (American Psychiatric Association, 2013), and [DSM-5-TR](https://www.appi.org/products/dsm) (2022). Code **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (and T76.32XA Suspected). Defined as "non-accidental verbal or symbolic acts by a child's parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child."
 
@@ -114,7 +114,7 @@
 
 ### 2.4 [ICD-11](https://icd.who.int/) — QE52.0 Caregiver–child relationship problem
 
-**Citation.** WHO, *International Classification of Diseases, 11th Revision (ICD-11)*. Category **QE52.0 Caregiver–child relationship problem**: "substantial and sustained dissatisfaction within a caregiver–child relationship, including a parental relationship, associated with significant disturbance in functioning."
+**Citation.** WHO, *International Classification of Diseases, 11th Revision ([ICD-11](https://icd.who.int/))*. Category **QE52.0 Caregiver–child relationship problem**: "substantial and sustained dissatisfaction within a caregiver–child relationship, including a parental relationship, associated with significant disturbance in functioning."
 
 **WHO official position (VERBATIM).** WHO's FAQ on parental alienation (URL: https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation) explains that the index terms "parental alienation" and "parental estrangement" were **removed** from ICD-11 because:
 
@@ -144,7 +144,7 @@ WHO further stated that "inclusion of a term for search purposes does not signif
 
 **Citation.** GREVIO (Group of Experts on Action against Violence against Women and Domestic Violence), *3rd General Report on GREVIO's Activities* (2022). URL: https://www.coe.int/en/web/istanbul-convention/
 
-**Position (HONEST DISCLOSURE).** GREVIO is **critical** of the "parental alienation" concept as it is used in family courts, warning that PA claims are "increasingly used to undermine the views of child victims of domestic violence who fear contact with domestic abuse perpetrators" and to "negate allegations of domestic and sexual abuse." GREVIO has called PA "not scientifically and empirically recognised" and recommended that Council of Europe member states inform professionals and raise public awareness of the "absence of any scientific grounds for the so-called parental alienation syndrome."
+**Position (HONEST DISCLOSURE).** GREVIO is **critical** of the "parental alienation" concept as it is used in family courts, warning that PA claims are "increasingly used to undermine the views of child victims of domestic violence who fear contact with domestic abuse perpetrators" and to "negate allegations of domestic and sexual abuse." GREVIO has called PA "not scientifically and empirically recognised" and recommended that [Council of Europe](https://www.coe.int/) member states inform professionals and raise public awareness of the "absence of any scientific grounds for the so-called parental alienation syndrome."
 
 **The Istanbul Convention (Art. 31)** requires that "incidents of violence" be taken into account in custody and visitation determinations, and that such rights "do not jeopardize the rights and safety of the victim or children."
 
@@ -341,13 +341,13 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 
 ### Contested (moderate confidence on either side)
 
-4. **Whether all PA-pattern conduct reaches the abuse threshold, or only severe cases.** Even sympathetic scholars (Bernet; PASG) typically frame "severe" alienation as abuse, not mild cases. Critics (Saini, Johnston, Fidler & Bala 2016) argue the construct is too loosely operationalised to be reliably applied.
+4. **Whether all PA-pattern conduct reaches the abuse threshold, or only severe cases.** Even sympathetic scholars (Bernet; [PASG](https://pasg.info/)) typically frame "severe" alienation as abuse, not mild cases. Critics ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala 2016) argue the construct is too loosely operationalised to be reliably applied.
 5. **Whether "parental alienation" is a valid clinical diagnosis.** DSM-5 declined to add it; ICD-11 removed it as an index term; WHO has explicitly distanced itself; the Italian Court of Cassation has rejected PAS as expert evidence. The pro-PA-as-abuse case is stronger when made in terms of *behaviours* and *outcomes* than in terms of *diagnosis*.
 
 ### Weak / disputed (low confidence — be cautious in the repo)
 
 6. **Population-prevalence figures (e.g., 740,000 U.S. children).** This is a calculation, not an epidemiological measurement. It should be cited as Bernet's estimate, not as established prevalence.
-7. **The forensic operation of PA in family courts.** Meier et al. (2020) and [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) document that PA cross-claims systematically defeat abuse allegations in U.S. courts, with gender-asymmetric outcomes. This is *not* an argument that alienation doesn't exist — it is an argument that the legal apparatus around it is being misused, and that the misuse itself is causing serious harm to children and protective parents. GREVIO and the UN Special Rapporteur reach similar conclusions internationally.
+7. **The forensic operation of PA in family courts.** [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2020) and [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) document that PA cross-claims systematically defeat abuse allegations in U.S. courts, with gender-asymmetric outcomes. This is *not* an argument that alienation doesn't exist — it is an argument that the legal apparatus around it is being misused, and that the misuse itself is causing serious harm to children and protective parents. GREVIO and the UN Special Rapporteur reach similar conclusions internationally.
 
 ### Intellectually honest framing for the repository
 
@@ -383,11 +383,13 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - [Mercer & Silberg](https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974) (Eds.) (2023) *Challenging Parental Alienation* — Routledge
 - Saini, Johnston, Fidler & Bala (2016) "Empirical studies of alienation" in *Parenting Plan Evaluations* (2nd ed., OUP) — https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 - [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) *Family Court Review* 58(2):270-292 — https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
-- UN OHCHR press release on Brazil law (Sept 2025; Special Rapporteur Reem Alsalem) — https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
+- UN [OHCHR](https://www.ohchr.org/) press release on Brazil law (Sept 2025; Special Rapporteur Reem Alsalem) — https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
 
 ---
 
 *Compiled 2026-05-25 for AntiAlienate-knowledge (CC BY 4.0). Items marked **\[secondary verification only]** require direct re-verification against the original source before publication.*
+
+
 
 
 

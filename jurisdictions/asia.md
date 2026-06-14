@@ -30,7 +30,7 @@ Regional aggregate jurisdiction covering Asian PA-construct landscape. Asian com
 
 ### National apex courts of constituent jurisdictions
 <https://www.asianlii.org/>
-- **Sub-jurisdiction apex: India (Supreme Court of India); Singapore (Court of Appeal Singapore); Hong Kong (Court of Final Appeal); Japan ([Supreme Court of Japan](https://www.courts.go.jp/english/)). See per-country jurisdiction sidecars.** (2026) — recognition
+- **Sub-jurisdiction apex: India ([Supreme Court of India](https://main.sci.gov.in/)); Singapore (Court of Appeal Singapore); Hong Kong (Court of Final Appeal); Japan ([Supreme Court of Japan](https://www.courts.go.jp/english/)). See per-country jurisdiction sidecars.** (2026) — recognition
 
 ## Professional regulators
 
@@ -83,6 +83,8 @@ Anonymisation conventions vary by constituent jurisdiction. See per-country side
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

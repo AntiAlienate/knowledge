@@ -3,7 +3,7 @@
 **Jurisdiction code:** `BR` · **Legal system:** civil-law  
 **Language(s):** pt  
 
-Brazil is the world's only PA-recognition statutory jurisdiction, having enacted Lei nº 12.318/2010 (Lei da Alienação Parental), which defines alienação parental and prescribes a graduated catalogue of judicial remedies. The Superior Tribunal de Justiça (STJ) and [Supremo Tribunal Federal](https://portal.stf.jus.br/) ([STF](https://portal.stf.jus.br/)) have moderated the statute via a 'no-automaticity doctrine' built in STJ REsp 1.859.228/SP and REsp 2.108.750/GO; the STF dismissed ADI 6273/2019 on standing without reaching the merits. Together with Spain (which legislates in the opposite direction), Brazil is one of the only two world jurisdictions with statutory PA legislation.
+Brazil is the world's only PA-recognition statutory jurisdiction, having enacted Lei nº 12.318/2010 (Lei da Alienação Parental), which defines alienação parental and prescribes a graduated catalogue of judicial remedies. The Superior Tribunal de Justiça (STJ) and [Supremo Tribunal Federal](https://portal.stf.jus.br/) ([STF](https://portal.stf.jus.br/)) have moderated the statute via a 'no-automaticity doctrine' built in STJ REsp 1.859.228/SP and REsp 2.108.750/GO; the [STF](https://portal.stf.jus.br/) dismissed ADI 6273/2019 on standing without reaching the merits. Together with Spain (which legislates in the opposite direction), Brazil is one of the only two world jurisdictions with statutory PA legislation.
 
 ## PA recognition status
 
@@ -36,7 +36,7 @@ Brazil is the world's only PA-recognition statutory jurisdiction, having enacted
 - **REsp 2.108.750/GO — cross-allegation symmetrical evidentiary discipline: where the record contains sexual-abuse allegations against the parent invoking alienation, the family court may not collapse the abuse evaluation into the PA framework; perícia under art. 5º must independently engage with the abuse allegations** (2024) — middle — [`stj-resp-2108750-go-2024`](../case-studies/stj-resp-2108750-go-2024.md)
 - **REsp 1.654.111/DF (Rel. Min. Villas Bôas Cueva) — early no-automaticity formulation, precursor to the 2024 line** (2017) — middle
 
-### Supremo Tribunal Federal (STF)
+### [Supremo Tribunal Federal](https://portal.stf.jus.br/) (STF)
 <https://portal.stf.jus.br/>
 - **ADI 6273/2019 — Ação Direta de Inconstitucionalidade challenging Lei 12.318/2010 dismissed on standing (não conhecimento); no merits ruling on the constitutionality of the statute** (2019) — middle
 
@@ -117,6 +117,8 @@ Children and family parties are identified by initials only in published judgmen
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

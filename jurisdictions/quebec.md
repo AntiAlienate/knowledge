@@ -27,7 +27,7 @@ Quebec is a North American civil-law constituent province of Canada — structur
 ### Court of Appeal of Quebec (Cour d'appel du Québec)
 <https://courdappelduquebec.ca/>
 
-### Supreme Court of Canada
+### [Supreme Court of Canada](https://www.scc-csc.ca/)
 <https://www.scc-csc.ca/>
 
 ## Professional regulators
@@ -83,6 +83,8 @@ Quebec family-court decisions are anonymised per Quebec court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

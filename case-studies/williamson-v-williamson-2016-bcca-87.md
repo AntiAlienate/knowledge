@@ -62,8 +62,8 @@ BC Court of Appeal disposition engaging structured reunification-programme inter
 - Williamson v Williamson 2016 BCCA 87 is the canonical Canadian appellate citation for residential-reunification-programme intervention in PA-adjacent custody-modification jurisprudence.
 - Decision engages Family Reflections Reunification Program (Kathleen Reay, BC) — the only Canadian-based residential reunification programme regularly named in Canadian custody jurisprudence.
 - Party identity protected per Canadian provincial-superior-court family-law convention (Williamson generic surname placeholder).
-- Sources: [CanLII](https://www.canlii.org/) for case-law (2016 BCCA 87) + bclaws.gov.bc.ca for BC Family Law Act 2011 + laws-lois.justice.gc.ca for federal Divorce Act.
-- Cross-link to L.A.G. v. D.K.B. 2009 CanLII 6452 (ON SC) preserved as Ontario provincial-level companion canonical decision.
+- Sources: [CanLII](https://www.canlii.org/) for case-law (2016 BCCA 87) + bclaws.gov.bc.ca for BC Family Law Act 2011 + laws-lois.justice.gc.ca for federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/).
+- Cross-link to L.A.G. v. D.K.B. 2009 [CanLII](https://www.canlii.org/) 6452 (ON SC) preserved as Ontario provincial-level companion canonical decision.
 - Cross-jurisdictional reunification-programme engagement (US [Family Bridges](https://warshak.com/family-bridges/) + Overcoming Barriers + Canadian Family Reflections + UK [Cafcass](https://www.cafcass.gov.uk/) + AU FRW + NZ Goldson + SG CAPS + HK SWD Centres) documented in companion evidence page reunification-programmes-and-regulation.
 
 *Author: Alan Markson.*
@@ -71,6 +71,8 @@ BC Court of Appeal disposition engaging structured reunification-programme inter
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

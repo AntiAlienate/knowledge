@@ -22,10 +22,10 @@ Bolivia is an Andean South American mixed-legal-system plurinational state combi
 
 ## Apex courts
 
-### Supreme Court of Justice (Tribunal Supremo de Justicia)
+### Supreme Court of Justice ([Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) de Justicia)
 <https://www.tsj.bo/>
 
-### Plurinational Constitutional Tribunal (Tribunal Constitucional Plurinacional)
+### Plurinational Constitutional Tribunal ([Tribunal Constitucional](https://www.tribunalconstitucional.es/) Plurinacional)
 <https://www.tcpbolivia.bo/>
 
 ## Professional regulators
@@ -72,6 +72,8 @@ Bolivian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

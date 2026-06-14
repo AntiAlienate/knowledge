@@ -38,7 +38,7 @@ Argentina operates a regime of institutional inadmission without statutory inadm
 
 ## Apex courts
 
-### Corte Suprema de Justicia de la Nación (CSJN)
+### [Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/) (CSJN)
 <https://sj.csjn.gov.ar/>
 - **P., B. E. G. c/ B., K. E. s/ medidas precautorias (7.10.2021) — considerando 17 admite la alienación parental como concepto relacional: 'discurso paterno ayudado por la posición de la madre'. Coloca a la CSJN en posición middle: no consagra SAP como síndrome ni lo repudia; admite alienación como dinámica vincular.** (2021) — middle — [`csjn-p-b-e-g-c-b-k-e-2021-argentina`](../case-studies/csjn-p-b-e-g-c-b-k-e-2021-argentina.md)
 
@@ -151,6 +151,8 @@ CSJN anonimiza por iniciales (P., B. E. G. c/ B., K. E.); la SCBA y demás fuero
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

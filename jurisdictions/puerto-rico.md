@@ -25,7 +25,7 @@ Puerto Rico is a Caribbean mixed-legal-system unincorporated US territory (Commo
 ### Supreme Court of Puerto Rico ([Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) de Puerto Rico)
 <https://www.poderjudicial.pr/>
 
-### US Court of Appeals for the First Circuit + US Supreme Court
+### US Court of Appeals for the First Circuit + [US Supreme Court](https://www.supremecourt.gov/)
 <https://www.supremecourt.gov/>
 
 ## Professional regulators
@@ -76,6 +76,8 @@ Puerto Rican family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

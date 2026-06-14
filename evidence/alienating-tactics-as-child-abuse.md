@@ -71,7 +71,7 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 | Singapore | failure of parental responsibility | TEN v TEO 2020 SGHCF 20 |
 | South Africa | best-interests welfare factor (Children's Act s.7(1)(c)) | TLD v BG 2023 ZAGPJHC 801 |
 | Brazil | statutory tort (Lei 12.318/2010 art. 2) | Lei 12.318/2010 + STJ line |
-| Italy | procedural Article 8 obligation (Strasbourg) | Cassazione 9691/2022 + Lombardo/Strumia/Improta |
+| Italy | procedural Article 8 obligation (Strasbourg) | [Cassazione](https://www.cortedicassazione.it/) 9691/2022 + Lombardo/Strumia/Improta |
 | Germany | refuted construct + welfare-abuse framing | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 |
 | Spain | nominally inadmissible (LOPIVI Disp. ad. 17ª) | LOPIVI 2021 + STS 519/2017 |
 | Chile | substituted by violencia vicaria framework | Ley 21.675/2024 art. 5 |
@@ -87,6 +87,8 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/alienating-tactics-as-child-abuse.md*
+
+
 
 
 

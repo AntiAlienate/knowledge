@@ -6,7 +6,7 @@
 
 ## Why this case matters
 
-The Familiensenat of the OLG Frankfurt am Main operationalised [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 at OLG level by setting Sachverständigen-Mindestanforderungen for parental-alienation-framed family proceedings. A PAS-based Gutachten was held nicht tragfähig and its central reasoning a Zirkelschluss that is methodisch untauglich. The AG's residence-transfer order was replaced with alleinige elterliche Sorge to the mother; nicht anfechtbar. The decision marks the conversion of the BVerfG's constitutional holding into operational OLG-level guidance.
+The Familiensenat of the OLG Frankfurt am Main operationalised [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 at OLG level by setting Sachverständigen-Mindestanforderungen for parental-alienation-framed family proceedings. A PAS-based Gutachten was held nicht tragfähig and its central reasoning a Zirkelschluss that is methodisch untauglich. The AG's residence-transfer order was replaced with alleinige elterliche Sorge to the mother; nicht anfechtbar. The decision marks the conversion of the [BVerfG](https://www.bundesverfassungsgericht.de/)'s constitutional holding into operational OLG-level guidance.
 
 ## Procedural history
 
@@ -90,6 +90,8 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

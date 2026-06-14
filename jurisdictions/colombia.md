@@ -39,7 +39,7 @@ Colombia carece de ley estatutaria que nombre el SAP/AP para reconocerlo (como L
 
 ### [Corte Suprema de Justicia](https://www.csjn.gov.ar/) — Sala de Casación Civil y Sala de Casación Laboral
 <https://cortesuprema.gov.co/>
-- **Corte Suprema de Justicia — Sala de Casación Civil tiene competencia en casación de procesos civiles y de familia. No ha emitido sentencia apex específicamente sobre SAP; la doctrina apex sobre AP en Colombia corre por la vía constitucional (Corte Constitucional T-526/23) más que por casación civil.** (2026) — middle
+- **[Corte Suprema de Justicia](https://www.csjn.gov.ar/) — Sala de Casación Civil tiene competencia en casación de procesos civiles y de familia. No ha emitido sentencia apex específicamente sobre SAP; la doctrina apex sobre AP en Colombia corre por la vía constitucional (Corte Constitucional T-526/23) más que por casación civil.** (2026) — middle
 
 ### Tribunales Superiores de Distrito Judicial — Salas de Familia
 <https://www.ramajudicial.gov.co/>
@@ -121,6 +121,8 @@ Las sentencias de la Corte Constitucional en sede de tutela anonimizan a NNA med
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

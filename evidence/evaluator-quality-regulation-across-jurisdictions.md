@@ -29,7 +29,7 @@ NZ structural specificity: 2018 Joint Practice Note for Specialist Report Writer
 ### 5. Italy — Riforma Cartabia D.lgs. 149/2022 (statute route)
 **In force 2023.** Restricts CTU (Consulenza Tecnica d'Ufficio) evaluations based on PAS construct. Operationalises the [Cassazione](https://www.cortedicassazione.it/) critique line (13217/2021 + 9691/2022 + 4595/2025) at statutory-procedural level. Italy operates the EU's most integrated apex case-law + statute + Strasbourg multi-layer evaluator-quality architecture.
 
-Italian structural specificity: Riforma Cartabia + Cassazione triad operate together to address evaluator-quality at construct-validity level (disqualifying PAS-grounded CTU). Distinct from E&W Re Y which addresses evaluator-quality at credentialing level ([HCPC](https://www.hcpc-uk.org/)-registration requirement) without disqualifying PAS as construct. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
+Italian structural specificity: Riforma Cartabia + [Cassazione](https://www.cortedicassazione.it/) triad operate together to address evaluator-quality at construct-validity level (disqualifying PAS-grounded CTU). Distinct from E&W Re Y which addresses evaluator-quality at credentialing level ([HCPC](https://www.hcpc-uk.org/)-registration requirement) without disqualifying PAS as construct. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
 
 ### 6. Netherlands — Expertteam Ouderverstoting 2021 (institutional advisory route)
 **Adviesrapport januari 2021** (chair prof. dr. Catrin Finkenauer, UU) recommends RvdK feitenonderzoek strengthening + Methode Scheidings Advies Team (SAT) introduction. Methodological middle-stance: erkenning van het fenomeen mét voorbehouden. Operates institutional-advisory route rather than apex case-law / statute / professional-standards routes.
@@ -44,7 +44,7 @@ Singapore structural specificity: TEN v TEO [2020] SGHCF 20 (Debbie Ong J) opera
 ### 8. Hong Kong — SIR/SJE dual-track + LRC HK 2005 Parental Responsibility Model (institutional + proposed-reform route)
 **Social Investigation Report (SIR) + Single Joint Expert (SJE).** SWD social welfare officer prepares SIR; SJE clinical-psychology evidence joint-instruction. The SIR/SJE dual track is the HK institutional analogue to Singapore CAPS / England [Cafcass](https://www.cafcass.gov.uk/) / Australia FRW pool. Children Proceedings (Parental Responsibility) Bill (first floated 2015, revisited 2024 LegCo, NOT YET ENACTED) would introduce LRC HK 2005 [Saunders](https://www.ovw.usdoj.gov/) Report Parental Responsibility Model proposing further reform.
 
-HK structural specificity: H v W [2021] HKCA 733 (Lam VP, Yuen JA, B Chu J) engaged SIR + SJE framework substantively without separately addressing evaluator-quality. HKPS voluntary register (NO statutory psychology scheme) is structurally weaker than UK HCPC or Australia AHPRA — recognised institutional gap pending Bill enactment. Cross-link: jurisdiction:hong-kong.
+HK structural specificity: H v W [2021] HKCA 733 (Lam VP, Yuen JA, B Chu J) engaged SIR + SJE framework substantively without separately addressing evaluator-quality. HKPS voluntary register (NO statutory psychology scheme) is structurally weaker than UK [HCPC](https://www.hcpc-uk.org/) or Australia AHPRA — recognised institutional gap pending Bill enactment. Cross-link: jurisdiction:hong-kong.
 
 ## Structural observations
 
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

@@ -54,7 +54,7 @@ Hong Kong (Central) / California (primary base) · Hong Kong SAR · Independent 
 *Founded 1985; Singapore's leading gender-equality and women's-rights advocacy and direct-services NGO; operates Sexual Assault Care Centre (SACC) and Women's Helpline; policy research and parliamentary submissions on Women's Charter and family-violence reforms*
 Singapore · Singapore (city-state) · AWARE Singapore; member of regional and global women's-rights coalitions
 
-**Stance:** Institutional critique-register anchor for the Singapore PA-construct debate. AWARE has issued policy submissions and named-press positions on DV-survivor-protective family-court reform under the Women's Charter and protection-against-family-violence framework; the structural concern is that PA-adjacent enforcement mechanisms (including the MSF 2 January 2025 child-access enforcement framework) risk operationalisation against DV-survivor mothers exercising protective gatekeeping. PA-specific public position-paper not located in primary sources; classified critique on the strength of AWARE's structural DV-protective and women's-rights policy register and named-press engagement. Comparative-reception relevance to BVerfG 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: SG.
+**Stance:** Institutional critique-register anchor for the Singapore PA-construct debate. AWARE has issued policy submissions and named-press positions on DV-survivor-protective family-court reform under the Women's Charter and protection-against-family-violence framework; the structural concern is that PA-adjacent enforcement mechanisms (including the MSF 2 January 2025 child-access enforcement framework) risk operationalisation against DV-survivor mothers exercising protective gatekeeping. PA-specific public position-paper not located in primary sources; classified critique on the strength of AWARE's structural DV-protective and women's-rights policy register and named-press engagement. Comparative-reception relevance to [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: SG.
 
 **Publications:**
 - AWARE Sexual Assault Care Centre (SACC) (2014) — *AWARE Singapore*
@@ -352,6 +352,8 @@ Hong Kong · Hong Kong SAR · HKCSS; convener role across HKFWS, Caritas, ISS-HK
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

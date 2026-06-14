@@ -27,7 +27,7 @@ Catalonia (Catalunya / Cataluña) is a North-eastern Iberian civil-law autonomou
 ### Tribunal Superior de Justícia de Catalunya (TSJC)
 <https://www.poderjudicial.es/>
 
-### Tribunal Constitucional de España (Spanish Constitutional Court)
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España (Spanish Constitutional Court)
 <https://www.tribunalconstitucional.es/>
 
 ### [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) de España (Spanish Supreme Court)
@@ -85,6 +85,8 @@ Catalan family-court decisions are anonymised per Catalan court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -20,7 +20,7 @@ Nicaragua is a Central American civil-law republic whose family-law framework op
 
 ## Apex courts
 
-### Supreme Court of Justice (Corte Suprema de Justicia)
+### Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/))
 <https://www.poderjudicial.gob.ni/>
 
 ## Professional regulators
@@ -66,6 +66,8 @@ Nicaraguan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

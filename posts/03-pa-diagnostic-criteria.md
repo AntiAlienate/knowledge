@@ -59,7 +59,7 @@ All 5 must be present:
 ## Citations
 
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). *Family Court Review*, 48(1), 10–47.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin*, 144(12), 1275–1299.
 
@@ -70,6 +70,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

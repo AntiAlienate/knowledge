@@ -41,7 +41,7 @@ For when the resident parent has moved the child to another EU member state:
 
 For US-citizen targeted parents whose child is in an ECHR-state country:
 
-> *The applicant is a citizen of the United States whose child has been [wrongfully removed to / alienated within] [European state]. The applicant invokes: (1) the Hague Convention on the Civil Aspects of International Child Abduction (1980) as implemented by [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97), 22 U.S.C. § 9001 et seq.; (2) the European Court of Human Rights' Article 8 jurisprudence directly binding on this Court, including Bondavalli v Italy (2015), Improta v Italy (2017), and Pisică v Moldova (2024); (3) Council Regulation (EU) 2019/1111 (Brussels IIb) where applicable. The Court is respectfully asked to [specific relief]. The applicant has notified the US State Department Office of Children's Issues (case #) and coordinated with the US Embassy/Consulate in [city].*
+> *The applicant is a citizen of the United States whose child has been [wrongfully removed to / alienated within] [European state]. The applicant invokes: (1) the Hague Convention on the Civil Aspects of International Child Abduction (1980) as implemented by [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97), 22 U.S.C. § 9001 et seq.; (2) the [European Court of Human Rights](https://www.echr.coe.int/)' Article 8 jurisprudence directly binding on this Court, including Bondavalli v Italy (2015), Improta v Italy (2017), and Pisică v Moldova (2024); (3) Council Regulation (EU) 2019/1111 (Brussels IIb) where applicable. The Court is respectfully asked to [specific relief]. The applicant has notified the US State Department Office of Children's Issues (case #) and coordinated with the US Embassy/Consulate in [city].*
 
 ## Template 7 — Expert assessment with PA-specific terms of reference
 
@@ -94,7 +94,7 @@ For severe entrenched cases where conventional remedies have failed:
 - Council Regulation (EU) 2019/1111 (Brussels IIb)
 - [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24); [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) 22 U.S.C. § 9001
 - *Re W (Children)* [2012] EWCA Civ 999; *Re C [2023] EWHC 345 (Fam)*
-- BGH XII ZB 565/15 (Germany 2018); Cass civ 1ère 22 mars 2023 (France); Cassazione 9691/2022 (Italy)
+- [BGH](https://www.bundesgerichtshof.de/) XII ZB 565/15 (Germany 2018); Cass civ 1ère 22 mars 2023 (France); [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy)
 
 ## Disclaimer
 
@@ -103,6 +103,8 @@ Educational content. **Not legal advice — templates only.** Every PA case is u
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

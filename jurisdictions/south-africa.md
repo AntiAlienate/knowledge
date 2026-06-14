@@ -65,7 +65,7 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 
 - **1974** — Health Professions Act 56/1974 — establishes HPCSA and the Professional Board for Psychology regulatory framework. — <https://www.hpcsa.co.za/>
 - **1978** — Social Service Professions Act 110/1978 — establishes SACSSP regulatory framework for social workers. — <https://www.sacssp.co.za/>
-- **1979** — Divorce Act 70/1979 — substantive divorce statute including s.6 satisfactory-arrangements requirement for minor children. — <https://www.gov.za/documents/divorce-act>
+- **1979** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 70/1979 — substantive divorce statute including s.6 satisfactory-arrangements requirement for minor children. — <https://www.gov.za/documents/divorce-act>
 - **1987** — Mediation in Certain Divorce Matters Act 24/1987 — establishes the Office of the Family Advocate. — <https://www.justice.gov.za/family-advocate/>
 - **1996** — Constitution of South Africa 1996 s.28 — children's rights paramountcy principle. — <https://www.gov.za/documents/constitution-republic-south-africa-1996>
 - **1998** — Domestic Violence Act 116/1998 — substantive DV statute (subsequently amended by Act 14/2021 to expand coercive-control and digital-abuse coverage). — <https://www.gov.za/documents/domestic-violence-act>
@@ -122,6 +122,8 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

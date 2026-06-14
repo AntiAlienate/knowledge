@@ -68,8 +68,8 @@ The vocabulary you have *now* — Harman/Kruk/Hines · [DSM-5](https://www.appi.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton.
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors: An Unacknowledged Form of Family Violence. *Psychological Bulletin, 144*(12), 1275–1299. [doi:10.1037/bul0000175](https://doi.org/10.1037/bul0000175)
-- DSM-5 V995.51 — Child Psychological Abuse (American Psychiatric Association)
-- WHO ICD-11 QE52 — Caregiver-Child Relationship Problem
+- [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse (American Psychiatric Association)
+- WHO [ICD-11](https://icd.who.int/) QE52 — Caregiver-Child Relationship Problem
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568
 - *Re C (Parental Alienation: Instruction of Expert)* [2023] EWHC 345 (Fam)
 - Brazilian Lei da Alienação Parental — Lei nº 12.318/2010
@@ -81,6 +81,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

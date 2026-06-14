@@ -16,7 +16,7 @@ Founder of Turning Points for Families ([TPFF](https://turningpointsforfamilies.
 
 - ***The Parental Alienation Syndrome: A Family Therapy and Collaborative Systems Approach to Amelioration*** (2012).
 - Numerous practitioner papers on intensive reunification methodology.
-- **2021 Colorado State outcome study of TPFF** — empirical follow-up data.
+- **2021 Colorado State outcome study of [TPFF](https://turningpointsforfamilies.com/)** — empirical follow-up data.
 
 ## Where to find her work
 
@@ -30,6 +30,8 @@ Founder of Turning Points for Families ([TPFF](https://turningpointsforfamilies.
 ---
 
 *[← Back to influencers index](README.md)*
+
+
 
 
 

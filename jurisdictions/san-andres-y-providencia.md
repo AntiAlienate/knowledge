@@ -27,7 +27,7 @@ San Andrés, Providencia y Santa Catalina (Departamento Archipiélago) is a Cari
 ### Tribunal Superior de Distrito Judicial de San Andrés
 <https://www.ramajudicial.gov.co/>
 
-### Corte Suprema de Justicia de Colombia
+### [Corte Suprema de Justicia](https://www.csjn.gov.ar/) de Colombia
 <https://www.cortesuprema.gov.co/>
 
 ### Corte Constitucional de Colombia
@@ -88,6 +88,8 @@ San Andrés y Providencia-related decisions are anonymised per Colombian court p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

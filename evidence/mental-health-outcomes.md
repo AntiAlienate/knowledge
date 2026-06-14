@@ -79,7 +79,7 @@
 
 ---
 
-### 1.4 Bernet, Baker & Verrocchio (2015) — SCL-90-R study (the "739 Italian adults" study)
+### 1.4 Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) — SCL-90-R study (the "739 Italian adults" study)
 
 **Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — URL: https://pubmed.ncbi.nlm.nih.gov/25613416/
 
@@ -241,7 +241,7 @@ Adult retrospective reports of educational/career attainment deficits attributed
 
 **Citation.** Miralles, P., Godoy, C., & Hidalgo, M. D. (2023). Long-term emotional consequences of parental alienation exposure in children of divorced parents: A systematic review. *Current Psychology*, 42, 12055–12069. https://doi.org/10.1007/s12144-021-02537-2 — URL: https://link.springer.com/article/10.1007/s12144-021-02537-2 (published online 2021; print 2023)
 
-**Method (from publicly visible metadata).** Systematic literature search across PsycInfo, MEDLINE, SCOPUS, Web of Science, PubMed, [Cochrane Library](https://www.cochranelibrary.com/), DART-Europe, ProQuest, Wiley, TESEO and Dialnet (initial search Feb 2019, updated Dec 2019).
+**Method (from publicly visible metadata).** Systematic literature search across PsycInfo, MEDLINE, SCOPUS, Web of Science, [PubMed](https://pubmed.ncbi.nlm.nih.gov/), [Cochrane Library](https://www.cochranelibrary.com/), DART-Europe, ProQuest, Wiley, TESEO and Dialnet (initial search Feb 2019, updated Dec 2019).
 
 **Headline (from publicly visible abstract excerpt).** "Although the emotional consequences of childhood exposure to parental alienation behaviors in children and adolescents of divorced parents are known, there is scarce evidence on their long-term consequences in adulthood."
 
@@ -393,7 +393,7 @@ Across the studies in §§1–7, the recurring limitations are:
 
 **Not defensible** (without major caveats). "PA causes X% of depression / suicide / addiction in the general population." "PA effects are equivalent to physical/sexual abuse effects." "Cortisol and brain-imaging studies prove PA causes specific neural damage." "740,000 U.S. children are alienated each year."
 
-**The single most important honest concession.** Critics including Mercer, Doughty et al., Saini et al. and [Silberg & Dallam](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) are correct that the empirical PA outcome literature is dominated by self-selected retrospective samples without matched controls; that the construct does not cleanly separate alienation from justified estrangement; and that PA findings have, in documented cases, been used to dismiss valid child-abuse allegations. These are real methodological and forensic problems. The evidence that PA-exposed adults show elevated mental-health symptom rates is robust *within the available samples*; the inference from those samples to population-level causal claims is not.
+**The single most important honest concession.** Critics including Mercer, Doughty et al., [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). and [Silberg & Dallam](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) are correct that the empirical PA outcome literature is dominated by self-selected retrospective samples without matched controls; that the construct does not cleanly separate alienation from justified estrangement; and that PA findings have, in documented cases, been used to dismiss valid child-abuse allegations. These are real methodological and forensic problems. The evidence that PA-exposed adults show elevated mental-health symptom rates is robust *within the available samples*; the inference from those samples to population-level causal claims is not.
 
 ---
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

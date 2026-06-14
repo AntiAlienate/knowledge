@@ -322,7 +322,7 @@ Versailles / Paris · Ligue Française pour la Santé Mentale (LFSM); pratique d
 <sub>ID: `fr.coutanceau-roland`</sub>
 
 ### Prof. Liliane Daligand
-*Prof. émérite de médecine légale, Université Lyon 1 / Hospices Civils de Lyon; psychiatre + médecin légiste; experte près la Cour d'appel de Lyon et près la Cour de cassation; présidente Viffil-SOS Femmes Lyon; PU-PH (h.)*
+*Prof. émérite de médecine légale, Université Lyon 1 / Hospices Civils de Lyon; psychiatre + médecin légiste; experte près la Cour d'appel de Lyon et près la [Cour de cassation](https://www.courdecassation.fr/); présidente Viffil-SOS Femmes Lyon; PU-PH (h.)*
 Lyon · Université Lyon 1 (ém.); Hospices Civils de Lyon (ém.); Viffil-SOS Femmes
 
 **Stance:** Foremost francophone *médecin légiste* on violences intrafamiliales; consistently frames child rejection of a violent parent in psychotraumatic rather than alienation terms; *expertises judiciaires* in the Cour d'appel de Lyon ressort make her the primary forensic anchor of the critique camp in that ressort. *La violence conjugale est un crime* (L'Archipel 2017).
@@ -431,6 +431,8 @@ Bruxelles (Belgique) — francophone-circulating reference · UCLouvain (ém.); 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

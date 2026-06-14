@@ -32,7 +32,7 @@ India is a mixed common-law / personal-law jurisdiction whose family courts appl
 
 ## Apex courts
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://www.sci.gov.in/>
 - **Lt Col Vivek Singh v Romani Singh, Civil Appeal No. 3962 of 2016, (2017) 3 SCC 231 — Bench Chelameswar J. and Sikri J., decided 13 February 2017. Apex-court decision that expressly defined 'The Parental Alienation Syndrome' on the record and engaged the court-appointed counsellor's psychological/sociological report when assessing the child's stated preference. Recognition stance.** (2017) — recognition — [`vivek-singh-v-romani-singh-2017-india`](../case-studies/vivek-singh-v-romani-singh-2017-india.md)
 
@@ -113,6 +113,8 @@ Supreme Court of India and High Court family-law judgments anonymise minor child
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

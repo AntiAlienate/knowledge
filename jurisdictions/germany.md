@@ -26,7 +26,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ## Apex courts
 
-### Bundesverfassungsgericht (BVerfG)
+### [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) ([BVerfG](https://www.bundesverfassungsgericht.de/))
 <https://www.bundesverfassungsgericht.de/>
 - **BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 — characterising PAS as 'überkommene und wissenschaftlich nicht haltbare bzw. widerlegte Konstrukte' (translation_en: 'outdated and scientifically untenable or refuted constructs')** (2023) — critique — [`bverfg-1-bvr-1076-23-germany-2023`](../case-studies/bverfg-1-bvr-1076-23-germany-2023.md)
 
@@ -36,7 +36,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ### [Bundesgerichtshof](https://www.bundesgerichtshof.de/) ([BGH](https://www.bundesgerichtshof.de/)) — XII. Zivilsenat
 <https://www.bundesgerichtshof.de/>
-- **BGH is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites [BGB](https://www.gesetze-im-internet.de/bgb/) § 1696 Schwellenwert.** (2026) — middle
+- **[BGH](https://www.bundesgerichtshof.de/) is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites [BGB](https://www.gesetze-im-internet.de/bgb/) § 1696 Schwellenwert.** (2026) — middle
 
 ### Cochemer Modell / AG Cochem-Zell (historical reference)
 <https://www.ag-cochem.justiz.rlp.de/>
@@ -102,8 +102,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 3. **Deutsches Jugendinstitut — Themenseite Familie / Eltern-Kind-Entfremdung** — <https://www.dji.de/> (DJI München) [de]
 4. **OLG Frankfurt am Main — Pressemitteilung zur Senatsentscheidung 7 UF 88/25 vom 5.1.2026** — <https://ordentliche-gerichtsbarkeit.hessen.de/olg-frankfurt/presse> (Oberlandesgericht Frankfurt am Main) [de]
 5. **BRAK / DFGT — Mindestanforderungen an die Qualität von Sachverständigengutachten im Kindschaftsrecht, 3. Auflage 2025** — <https://www.brak.de/> (Bundesrechtsanwaltskammer (BRAK) / Deutscher Familiengerichtstag (DFGT)) [de]
-6. **GREVIO Baseline Evaluation Report on Germany (2022)** — <https://rm.coe.int/grevio-inf-2022-16-eng-final-report-on-germany/1680a86937> (Council of Europe — Group of Experts on Action against Violence against Women and Domestic Violence (GREVIO)) [en]
-7. **BGB §§ 1684, 1696 — Bürgerliches Gesetzbuch (consolidated)** — <https://www.gesetze-im-internet.de/bgb/> (Bundesministerium der Justiz) [de]
+6. **GREVIO Baseline Evaluation Report on Germany (2022)** — <https://rm.coe.int/grevio-inf-2022-16-eng-final-report-on-germany/1680a86937> ([Council of Europe](https://www.coe.int/) — Group of Experts on Action against Violence against Women and Domestic Violence (GREVIO)) [en]
+7. **[BGB](https://www.gesetze-im-internet.de/bgb/) §§ 1684, 1696 — Bürgerliches Gesetzbuch (consolidated)** — <https://www.gesetze-im-internet.de/bgb/> (Bundesministerium der Justiz) [de]
 8. **FamFG — Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit** — <https://www.gesetze-im-internet.de/famfg/> (Bundesministerium der Justiz) [de]
 
 ## Editorial notes
@@ -119,6 +119,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

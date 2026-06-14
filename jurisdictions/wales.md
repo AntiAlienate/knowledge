@@ -15,7 +15,7 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 
 - **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — substantive children-law statute (applies in Wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
   - Substantive statute applying in Wales as part of the unified England-and-Wales legal jurisdiction. s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame the substantive standard. [Cafcass Cymru](https://www.cafcass.gov.uk/) produces s.7 welfare reports within this statutory frame.
-- **Children and Family Court Advisory and Support Service (Wales) — Cafcass Cymru regulations** — Cafcass Cymru — devolved Welsh service (2001) — <https://gov.wales/cafcass-cymru>
+- **Children and Family Court Advisory and Support Service (Wales) — [Cafcass Cymru](https://www.cafcass.gov.uk/) regulations** — Cafcass Cymru — devolved Welsh service (2001) — <https://gov.wales/cafcass-cymru>
   - Cafcass Cymru was established as a Welsh Government Sponsored Public Body in 2001 — devolved from English Cafcass. Operates its own welfare-reporting framework + practice guidance. The Welsh institutional analogue to English Cafcass.
 - **Welsh Language Measure 2011** — Welsh Language (Wales) Measure 2011 (2011) — <https://www.legislation.gov.uk/mwa/2011/1>
   - Welsh Language Standards apply to Welsh public bodies including Cafcass Cymru. Welsh-medium family-court provision is structurally required; Welsh-language capacity in PA-adjacent practice clusters at Linenhall Chambers.
@@ -45,7 +45,7 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 
 ## Key developments
 
-- **1989** — Children Act 1989 — substantive E&W statute (applies in Wales). — <https://www.legislation.gov.uk/ukpga/1989/41>
+- **1989** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — substantive E&W statute (applies in Wales). — <https://www.legislation.gov.uk/ukpga/1989/41>
 - **2001** — Cafcass Cymru established as Welsh Government Sponsored Public Body — devolved from English Cafcass. — <https://gov.wales/cafcass-cymru>
 - **2011** — Welsh Language (Wales) Measure 2011 — Welsh Language Standards apply to Cafcass Cymru. — <https://www.legislation.gov.uk/mwa/2011/1>
 - **2018** — April 2018 — Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (Welsh Government commissioned). Source document for Cafcass Cymru policy. Frames PA as 'belief system' rather than empirically grounded clinical concept. — <https://gov.wales/>
@@ -87,6 +87,8 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

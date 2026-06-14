@@ -66,7 +66,7 @@ This page maps each common court-submission claim back to those seven pages.
 - APA 2008 Statement: no position; 1996 Task Force noted lack of data
 - APSAC 2022 Position Statement: actively cautions against PA-driven psychological-abuse findings
 - Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022: PAS "*pseudoscientific*"
-- BVerfG 1 BvR 1076/23 (2023): PAS "*outdated and scientifically refuted*"
+- [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023): PAS "*outdated and scientifically refuted*"
 
 **Cross-references:** [International Institutional Positions](international-institutional-positions.md); [Case Studies → BVerfG](../case-studies/bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md); [Case Studies → Cass.civ.I 9691/2022](../case-studies/cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md)
 
@@ -112,7 +112,7 @@ This page maps each common court-submission claim back to those seven pages.
 
 ### Anti-claim 1: "Parental Alienation Syndrome is a recognised medical diagnosis"
 
-WHO removed it from [ICD-11](https://icd.who.int/). DSM-5 declined to include it. APA has no position. APSAC actively cautions against it. The Italian Cassazione, BVerfG, French Cass.civ.1, Spanish TS, and [Cafcass](https://www.cafcass.gov.uk/) have all explicitly distanced themselves from the diagnostic framing. Asserting this in a US federal Daubert hearing or a UK family-court submission will get the testimony excluded.
+WHO removed it from [ICD-11](https://icd.who.int/). [DSM-5](https://www.appi.org/products/dsm) declined to include it. APA has no position. APSAC actively cautions against it. The Italian [Cassazione](https://www.cortedicassazione.it/), BVerfG, French Cass.civ.1, Spanish TS, and [Cafcass](https://www.cafcass.gov.uk/) have all explicitly distanced themselves from the diagnostic framing. Asserting this in a US federal Daubert hearing or a UK family-court submission will get the testimony excluded.
 
 **Source review:** [International Institutional Positions](international-institutional-positions.md); [Diagnostic Codes That DO Apply §7](diagnostic-codes-that-apply.md)
 
@@ -148,7 +148,7 @@ Contradicted by [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/0964906
 
 ### Anti-claim 6: "The PA diagnostic label is required to obtain protective court orders for affected children"
 
-[Cafcass](https://www.cafcass.gov.uk/), the Bernet/Wamboldt/Narrow 2016 CAPRD framework, ICD-11 QE52.0, and most modern practitioner writing all establish that defensible clinical formulations and court-actionable findings can be made using existing relational-problem and child-psychological-abuse codes *without* invoking PAS terminology. Insisting on the label hurts your case.
+[Cafcass](https://www.cafcass.gov.uk/), the Bernet/Wamboldt/Narrow 2016 CAPRD framework, [ICD-11](https://icd.who.int/) QE52.0, and most modern practitioner writing all establish that defensible clinical formulations and court-actionable findings can be made using existing relational-problem and child-psychological-abuse codes *without* invoking PAS terminology. Insisting on the label hurts your case.
 
 **Source review:** [Diagnostic Codes That DO Apply §3,§7](diagnostic-codes-that-apply.md); [Case Studies → STS 519/2017](../case-studies/sts-519-2017-tribunal-supremo-alienacion-parental.md) (Spain doing PA work without PA label)
 
@@ -197,6 +197,8 @@ For jurisdiction-specific guidance, start with the [Case Studies Global Comparis
 *This page is a distillation, not a substitute. Cite the underlying evidence pages and the primary sources they document. CC BY 4.0.*
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

@@ -21,7 +21,7 @@ Côte d'Ivoire is a West African civil-law republic whose family-law framework o
 ### Supreme Court (Cour suprême)
 <https://www.coursupreme.ci/>
 
-### Constitutional Council (Conseil constitutionnel)
+### Constitutional Council ([Conseil constitutionnel](https://www.conseil-constitutionnel.fr/))
 <https://www.conseil-constitutionnel.ci/>
 
 ## Professional regulators
@@ -68,6 +68,8 @@ Ivorian family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

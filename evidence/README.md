@@ -26,7 +26,7 @@ Cross-regional structural synthesis spanning India + Africa + LATAM5 + Japan. 13
 8-jurisdiction synthesis of evaluator-quality regulatory mechanisms in PA-adjacent expert assessment. Routes: apex case-law (E&W Re Y) + statute-and-rules (Australia + Italy) + professional standards (SA) + academic-legal critique (NZ) + institutional advisory (NL) + institutional integration (Singapore + HK). 9-row comparative routes table. 8 structural observations including diverse routes to similar concerns + named-exemplar pattern (Gill UK / Rand US / Wolff DE).
 
 ### 8. [Strasbourg Article 8 Positive Obligations Doctrine](strasbourg-article-8-positive-obligations-doctrine.md)
-Focused thematic synthesis of [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) positive obligations doctrine in PA-adjacent jurisprudence. [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) text + positive-obligations principle + Strasbourg Italian triptych 2013-2017 (Lombardo + Strumia + Improta) procedural-due-diligence standard 'adequate and effective measures'. 6 doctrinal elements + Cassazione 9691/2022 INTEGRATION dual-layering + 7 structural observations including procedural-due-diligence vs construct-validity + Italian densest + Hague intersection structurally distinct. 8-row comparative engagement table.
+Focused thematic synthesis of [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) positive obligations doctrine in PA-adjacent jurisprudence. [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) text + positive-obligations principle + Strasbourg Italian triptych 2013-2017 (Lombardo + Strumia + Improta) procedural-due-diligence standard 'adequate and effective measures'. 6 doctrinal elements + [Cassazione](https://www.cortedicassazione.it/) 9691/2022 INTEGRATION dual-layering + 7 structural observations including procedural-due-diligence vs construct-validity + Italian densest + Hague intersection structurally distinct. 8-row comparative engagement table.
 
 ### 9. [Statutory PA Jurisdictions Triple Comparison](statutory-pa-jurisdictions-triple-comparison.md)
 Triple comparison of the world's three statutory PA jurisdictions: Brazil Lei 12.318/2010 (RECOGNITION) + Spain LOPIVI 2021 Disp. ad. 17ª (INADMISSION) + Japan Act No. 33 of 2024 (LEGISLATIVE-SYSTEMIC). Statutory texts + doctrinal directions + procedural mechanisms + apex case-law context + institutional positioning. 8 structural observations including 3 directionally distinct + Spain+Brazil opposite-direction paired Iberian-Lusophone + Japan legislative-first.
@@ -84,6 +84,8 @@ Evidence pages enumerated in `/manifest.json` discovery endpoint. Downstream RAG
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/README.md*
+
+
 
 
 

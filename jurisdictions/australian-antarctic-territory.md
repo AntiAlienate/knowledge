@@ -27,7 +27,7 @@ Australian Antarctic Territory (AAT) is an Antarctic common-law Australian exter
 ### Federal Circuit and Family Court of Australia
 <https://www.fcfcoa.gov.au/>
 
-### High Court of Australia
+### [High Court of Australia](https://www.hcourt.gov.au/)
 <https://www.hcourt.gov.au/>
 
 ## Professional regulators
@@ -71,7 +71,7 @@ AAT decisions are anonymised per Federal Circuit and Family Court of Australia p
 
 ## Editorial notes
 
-- Australian Antarctic Territory (AAT) jurisdiction sidecar — common-law Antarctic Australian external territory (Australian Federal law + AAT Acceptance Act 1933 + AAT Act 1954 + Antarctic Treaty 1959 article IV claim suspension + Family Law Act 1975 + Hague via Australian territorial extension 1987). Single largest national Antarctic territorial claim by area globally (~5.9 million km², 42% of Antarctic continent) + only Antarctic territorial claim transferred between two states in formal sovereignty transfer.
+- Australian Antarctic Territory (AAT) jurisdiction sidecar — common-law Antarctic Australian external territory (Australian Federal law + AAT Acceptance Act 1933 + AAT Act 1954 + Antarctic Treaty 1959 article IV claim suspension + [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + Hague via Australian territorial extension 1987). Single largest national Antarctic territorial claim by area globally (~5.9 million km², 42% of Antarctic continent) + only Antarctic territorial claim transferred between two states in formal sovereignty transfer.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Antarctic + common-law + Australian-external-territory cluster + largest-Antarctic-claim-globally-distinctive + UK-Australia-sovereignty-transfer + Antarctic-Treaty-article-IV-claim-suspension + Hague-via-Australian-territorial-extension clusters within the corpus.
 
@@ -79,6 +79,8 @@ AAT decisions are anonymised per Federal Circuit and Family Court of Australia p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

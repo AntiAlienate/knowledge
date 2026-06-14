@@ -12,7 +12,7 @@ Between September 2017 and October 2025, six continental European apex jurisdict
 ### 2. Italy — [Cassazione](https://www.cortedicassazione.it/) Civile Sez. I, ordinanza 13217/2021 (17 maggio 2021)
 **Italian Court of Cassation, First Civil Section.** Foundational Italian apex critique decision: PAS lacks scientific validity and cannot found measures depriving parental relations. Establishes the doctrinal principle that subsequent ordinanze develop. Cross-link: case-study:cassazione-13217-2021-italy + jurisdiction:italy.
 
-### 3. Italy — Cassazione Civile Sez. I, ordinanza 9691/2022 (24 marzo 2022)
+### 3. Italy — [Cassazione](https://www.cortedicassazione.it/) Civile Sez. I, ordinanza 9691/2022 (24 marzo 2022)
 **Italian Court of Cassation, First Civil Section.** Consolidating decision: PAS "costituisce il fondamento pseudoscientifico" of harmful measures; ordinary evidential verification is required for any custody / contact restriction. Engages the Strasbourg Article 8 procedural-due-diligence standard (Lombardo/Improta/Strumia triptych) alongside PAS-construct disqualification — the doctrinal articulation of how Italian domestic apex incorporates Strasbourg standards. Cross-link: case-study:cassazione-9691-2022-italy.
 
 ### 4. Germany — [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23
@@ -36,7 +36,7 @@ Within the EU sequence, **Spain LOPIVI 2021 Disposición adicional 17ª** is the
 Three Cassazione ordinanze (13217/2021 + 9691/2022 + 4595/2025) within four years produce the EU's strongest construct-critique line. Combined with **Riforma Cartabia D.lgs. 149/2022** statutory CTU restriction and the prior **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) Article 8 procedural-due-diligence standard, Italy operates the EU's most integrated apex-court + statute + Strasbourg multi-layer critique architecture.
 
 ### 4. German constitutional dimension distinct
-**BVerfG 1 BvR 1076/23** is the only constitutional-court-level construct decision in the EU sequence. Other apex decisions (Italian Cassazione + Spanish Tribunal Supremo + Polish Sąd Najwyższy) operate at civil/supreme-court level. The German constitutional articulation adds a Grundgesetz Art. 6 parental-rights + Art. 2(1) children's-personality-rights dimension absent from the other decisions.
+**[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** is the only constitutional-court-level construct decision in the EU sequence. Other apex decisions (Italian Cassazione + Spanish [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) + Polish Sąd Najwyższy) operate at civil/supreme-court level. The German constitutional articulation adds a Grundgesetz Art. 6 parental-rights + Art. 2(1) children's-personality-rights dimension absent from the other decisions.
 
 ### 5. Poland's structurally distinctive pro-enforcement biegun
 Poland's **SN III CZP 20/25** is the only EU apex decision operating a **pro-enforcement / not-clinical** stance. Polish doctrine narrows the constitutional immunity from monetary sanction that **Trybunał Konstytucyjny SK 3/20 (22.6.2022)** had carved out — restoring the effectiveness of art. 598¹⁶ § 1 k.p.c. against alienating custodial parents. But Polish doctrine pointedly does not engage the PAS clinical construct: enforcement-recognition + construct-agnostic. This is the structurally distinctive Polish biegun within the EU sequence.
@@ -50,7 +50,7 @@ The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017
 ### 8. Comparative outside the sequence
 - **France** — [Cour de cassation](https://www.courdecassation.fr/) 12-14.392 (2013) is the foundational French Cassation engagement preceding the EU sequence; subsequent CIIVISE Durand 2024 institutional engagement. Cross-link: jurisdiction:france.
 - **Netherlands** — no Hoge Raad PAS-specific apex; positional weight in NJI Richtlijn 2020 + Expertteam Ouderverstoting 2021 + Kinderombudsman KOM003/2014 three-document architecture. Cross-link: jurisdiction:netherlands.
-- **Belgium** — no Cour de cassation PAS-specific apex; positional weight in IEFH/IGVM Recommandation 2023/001 federal-regulator unique anchor. Cross-link: jurisdiction:belgium.
+- **Belgium** — no [Cour de cassation](https://www.courdecassation.fr/) PAS-specific apex; positional weight in IEFH/IGVM Recommandation 2023/001 federal-regulator unique anchor. Cross-link: jurisdiction:belgium.
 
 ## Comparative apex-position table
 
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

@@ -29,9 +29,9 @@
 
 **Citation.** [Warshak](https://warshak.com/family-bridges/), R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children. *Family Court Review*, 48(1), 48–80. https://doi.org/10.1111/j.1744-1617.2009.01288.x — open-access scan: https://bhekisisa.org/wp-content/uploads/2023/08/warshak2010.pdf
 
-**Verbatim abstract (from the paper itself).** "This article describes an innovative educational and experiential program, [Family Bridges](https://warshak.com/family-bridges/): A Workshop for Troubled and Alienated Parent-Child Relationships™, that draws on social science research to help severely and unreasonably alienated children and adolescents adjust to court orders that place them with a parent they claim to hate or fear. The article examines the benefits and drawbacks of available options for helping alienated children and controversies and ethical issues regarding coercion of children by parents and courts. The program's goals, principles, structure, procedures, syllabus, limitations, and preliminary outcomes are presented. **At the workshop's conclusion, 22 of 23 children, all of whom had failed experiences with counseling prior to enrollment, restored a positive relationship with the rejected parent. At follow-up, 18 of the 22 children maintained their gains; those who relapsed had premature contact with the alienating parent.**" (Warshak 2010, p. 48, emphasis added)
+**Verbatim abstract (from the paper itself).** "This article describes an innovative educational and experiential program, [Family Bridges](https://warshak.com/family-bridges/): A Workshop for Troubled and Alienated Parent-Child Relationships™, that draws on social science research to help severely and unreasonably alienated children and adolescents adjust to court orders that place them with a parent they claim to hate or fear. The article examines the benefits and drawbacks of available options for helping alienated children and controversies and ethical issues regarding coercion of children by parents and courts. The program's goals, principles, structure, procedures, syllabus, limitations, and preliminary outcomes are presented. **At the workshop's conclusion, 22 of 23 children, all of whom had failed experiences with counseling prior to enrollment, restored a positive relationship with the rejected parent. At follow-up, 18 of the 22 children maintained their gains; those who relapsed had premature contact with the alienating parent.**" ([Warshak](https://warshak.com/family-bridges/) 2010, p. 48, emphasis added)
 
-**Sample / method.** n = 23 severely alienated children/adolescents drawn from cases referred to Family Bridges between 2003 and 2009. No control group. Outcome ascertainment by workshop staff and parent report. Follow-up interval and instrumentation not standardised. Children entered only after a court had transferred legal custody to the rejected parent.
+**Sample / method.** n = 23 severely alienated children/adolescents drawn from cases referred to [Family Bridges](https://warshak.com/family-bridges/) between 2003 and 2009. No control group. Outcome ascertainment by workshop staff and parent report. Follow-up interval and instrumentation not standardised. Children entered only after a court had transferred legal custody to the rejected parent.
 
 **Honest methodological caveats stated in or implied by the article.**
 - Single-arm, before-and-after design — no random or matched controls.
@@ -100,7 +100,7 @@
 
 **Citation.** Harman, J. J., [Saunders](https://www.ovw.usdoj.gov/), L., & Afifi, T. (2022). Evaluation of the Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) program for severely alienated children. *Journal of Family Therapy*, 44(2), [pagination per print issue — online first 2021; DOI as below]. https://doi.org/10.1111/1467-6427.12366 — open-access mirror via Texas [AFCC](https://www.afccnet.org/): https://texasafcc.org/wp-content/uploads/2024/10/Evaluation-of-the-Turning-Points-for-Families.pdf — [OSF](https://osf.io/) data and materials: https://osf.io/b3uyn/
 
-**Verbatim abstract.** "The Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) therapeutic intervention program for severely alienated children and their alienated parent was evaluated to determine whether it was safe, did not cause harm, and led to positive changes in the alienated parent–alienated child relationship. Court orders and video recordings of the 4-day intervention were reviewed for indications of improvements over the course of the intervention in relational communication, social support and communal coping, which refers to the family members jointly 'owning' a problem and proactively taking responsibility for it together. Improvements in the parent–child relationships were noted, and the TPFF helped to improve family members' communal coping scores. Participation did not lead to negative changes on any measure. This preliminary evidence indicates that TPFF, similar to other therapeutic structural interventions, is a safe and effective treatment option for severely alienated children."
+**Verbatim abstract.** "The Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) therapeutic intervention program for severely alienated children and their alienated parent was evaluated to determine whether it was safe, did not cause harm, and led to positive changes in the alienated parent–alienated child relationship. Court orders and video recordings of the 4-day intervention were reviewed for indications of improvements over the course of the intervention in relational communication, social support and communal coping, which refers to the family members jointly 'owning' a problem and proactively taking responsibility for it together. Improvements in the parent–child relationships were noted, and the [TPFF](https://turningpointsforfamilies.com/) helped to improve family members' communal coping scores. Participation did not lead to negative changes on any measure. This preliminary evidence indicates that TPFF, similar to other therapeutic structural interventions, is a safe and effective treatment option for severely alienated children."
 
 **Sample / method (verbatim from the paper).** "Our involvement in this evaluation began after thirty families (with fifty-five children) had completed the TPFF program in its current form since 2016 through March 2020." Of those, "Videos from TPFF interventions with fifteen consenting families (thirty children) were ultimately available for our evaluation." Independent coders rated video recordings of the 4-day intervention on (i) the Relational Communication Scale (Burgoon & Hale 1984), (ii) emotional/social support items, (iii) communal coping items. Inter-rater reliabilities (ICC) ranged 0.81–0.95.
 
@@ -126,7 +126,7 @@ The 96.4% figure originates in the [Harman et al. ](https://pubmed.ncbi.nlm.nih.
 
 ### 3.3 Independent peer-reviewed evaluation of TPFF
 
-**Status: no independent peer-reviewed outcome evaluation of TPFF by a research team with no contact with [Gottlieb](https://turningpointsforfamilies.com/) has been identified.** The [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)evaluation was commissioned by Gottlieb, who supplied all source materials. There is no published randomised trial, no matched-control study, and no long-term blinded outcome study of TPFF in the peer-reviewed literature as of compilation.
+**Status: no independent peer-reviewed outcome evaluation of TPFF by a research team with no contact with [Gottlieb](https://turningpointsforfamilies.com/) has been identified.** The [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)evaluation was commissioned by [Gottlieb](https://turningpointsforfamilies.com/), who supplied all source materials. There is no published randomised trial, no matched-control study, and no long-term blinded outcome study of TPFF in the peer-reviewed literature as of compilation.
 
 ---
 
@@ -138,11 +138,11 @@ The 96.4% figure originates in the [Harman et al. ](https://pubmed.ncbi.nlm.nih.
 
 ### 4.2 Peer-reviewed empirical evidence for [AB-PA](https://drcachildress.org/) outcomes
 
-**Status: not publicly confirmed.** A literature search did not identify any peer-reviewed outcome study of [AB-PA](https://drcachildress.org/)-based intervention by [Childress](https://drcachildress.org/) or by independent researchers. The publicly available materials are: (i) Childress's 2015 book (self-published via Oaksong Press), and (ii) his blog and conference presentations at https://drcraigchildressblog.com/ . Neither constitutes a peer-reviewed outcome evaluation.
+**Status: not publicly confirmed.** A literature search did not identify any peer-reviewed outcome study of [AB-PA](https://drcachildress.org/)-based intervention by [Childress](https://drcachildress.org/) or by independent researchers. The publicly available materials are: (i) [Childress's](https://drcachildress.org/) 2015 book (self-published via Oaksong Press), and (ii) his blog and conference presentations at https://drcraigchildressblog.com/ . Neither constitutes a peer-reviewed outcome evaluation.
 
 ### 4.3 Operational structure
 
-AB-PA requires a **"protective separation"** between child and allegedly alienating parent as the diagnostic-and-treatment first step. Childress argues this should normally be a 9-month no-contact period before any contact resumes. This is operationally controversial because:
+[AB-PA](https://drcachildress.org/) requires a **"protective separation"** between child and allegedly alienating parent as the diagnostic-and-treatment first step. Childress argues this should normally be a 9-month no-contact period before any contact resumes. This is operationally controversial because:
 - The model assumes the diagnostic accuracy of the AB-PA framework itself; if the framework misdiagnoses an estrangement case (or a case with genuine abuse history) as alienation, the 9-month no-contact separation would itself constitute a serious intervention on the basis of a faulty diagnosis.
 - The framework has not been adopted by any major professional body, has not appeared in the DSM, and has not been independently validated.
 - AB-PA presentations rely heavily on a re-labelling of established attachment-theory constructs to claim convergent validity with mainstream science — but the empirical chain from attachment theory to the "AB-PA diagnostic indicators" has not been demonstrated in peer-reviewed primary research.
@@ -301,7 +301,7 @@ The Spring 2022 issue of the *Journal of Family Trauma, Child Custody & Child De
 
 ---
 
-## 10. The Saini/Johnston/Fidler/Bala middle position
+## 10. The [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala middle position
 
 ### 10.1 The chapter
 
@@ -362,7 +362,7 @@ Additional verbatim provisions in the same paragraph:
 |---|---|---|
 | Family Bridges | Yes — Warshak 2010 (n=23), Warshak 2019 (n=83) | **No** |
 | Family Reflections | Yes — Reay 2015 (n=22 children / 12 families) | **No** |
-| Turning Points for Families | Yes — Harman et al. 2022 (n=55 children / 30 families; analysed videos from 15) — *but commissioned by Gottlieb, who supplied all source materials* | **No** |
+| Turning Points for Families | Yes — [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 (n=55 children / 30 families; analysed videos from 15) — *but commissioned by Gottlieb, who supplied all source materials* | **No** |
 | AB-PA (Childress) | **No peer-reviewed outcome study identified** | **No** |
 | MMFI (Friedlander & Walters) | Authors' clinical-judgement outcomes on ~55 cases (Friedlander & Walters 2010 footnote 1) | **No** |
 | Overcoming Barriers Family Camp | Yes — Sullivan, Ward & Deutsch 2010 (n=10 families, 6-month follow-up on 5) | **No** |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

@@ -24,7 +24,7 @@ Hans Island / Tartupaluk (Danish Hans Ø / Inuktitut ᑕᕐᑐᐸᓗᒃ Tartupal
 
 ## Apex courts
 
-### Supreme Court of Canada
+### [Supreme Court of Canada](https://www.scc-csc.ca/)
 <https://www.scc-csc.ca/>
 
 ### Supreme Court of Denmark (Højesteret)
@@ -78,6 +78,8 @@ Hans Island-related decisions are anonymised per Canadian or Danish court practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

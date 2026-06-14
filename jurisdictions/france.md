@@ -19,7 +19,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
   - Principe de coparentalité — exercice conjoint par les deux parents (translation_en: 'joint exercise of parental authority'); plaide-fondement classique des arguments recognition-camp dans les contentieux de résidence.
 - **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 373-2** — Séparation des parents — continuité des relations de l'enfant avec chacun (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426836>
   - Pose l'obligation pour chaque parent de maintenir les relations personnelles de l'enfant avec l'autre parent; mobilisé tant par le camp recognition (pour caractériser un 'parent aliénant') que par le camp critique (pour articuler le contrôle coercitif avec la mise en danger).
-- **Code civil art. 373-2-11** — Critères du JAF pour statuer sur les modalités d'exercice de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426847>
+- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 373-2-11** — Critères du JAF pour statuer sur les modalités d'exercice de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426847>
   - Énumère les critères (pratique antérieure, sentiments de l'enfant, aptitude des parents, expertises, pressions/violences subies); article central dans Cass 1re Civ 26.6.2013 n° 12-14.392 où la 1re Civ a refusé de contrôler l'appréciation souveraine de la cour d'appel.
 - **Code civil art. 373-2-12** — Enquête sociale ordonnée par le juge (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426848>
   - Fondement procédural de l'enquête sociale et de l'expertise psychologique/psychiatrique au stade JAF; cadre dans lequel s'inscrivent les rapports d'expertise mobilisant ou critiquant le SAP.
@@ -28,7 +28,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
 - **Code de l'organisation judiciaire — juge aux affaires familiales (JAF)** — Compétence du JAF en matière d'autorité parentale (art. L. 213-3 COJ) (2009) — <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071164/LEGISCTA000019313577>
   - Architecture juridictionnelle — le JAF est le juge unique du contentieux familial en première instance; structure dans laquelle s'organise toute la pratique recognition vs critique.
 - **Code pénal art. 227-7** — Non-représentation d'enfant / soustraction d'enfant par ascendant (1992) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006418036>
-  - Délit pénal mobilisé en parallèle des procédures JAF dans les cas de rupture de lien; relève de la chambre criminelle de la Cour de cassation et non de la 1re Civ.
+  - Délit pénal mobilisé en parallèle des procédures JAF dans les cas de rupture de lien; relève de la chambre criminelle de la [Cour de cassation](https://www.courdecassation.fr/) et non de la 1re Civ.
 - **Loi n° 2024-233 du 18 mars 2024** — Loi visant à mieux protéger et accompagner les enfants victimes et covictimes de violences intrafamiliales (CIIVISE-aligned) (2024) — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000049280321>
   - Aligne le droit français sur les recommandations CIIVISE 2023; encadre la suspension de l'exercice de l'autorité parentale en cas de violences intrafamiliales — ressort hostile à toute lecture SAP des refus de contact.
 - **Loi n° 2024-1247 du 30 décembre 2024** — Loi visant à reconnaître le contrôle coercitif (Durand-influenced; Gruev-Vintila academic anchor) (2024) — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050880856>
@@ -44,7 +44,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
 
 ### [Conseil constitutionnel](https://www.conseil-constitutionnel.fr/)
 <https://www.conseil-constitutionnel.fr/>
-- **Aucune décision QPC ou DC directement consacrée au SAP / à l'aliénation parentale à la date de génération; le Conseil constitutionnel n'a pas pris position sur le construit.** (2026) — middle
+- **Aucune décision QPC ou DC directement consacrée au SAP / à l'aliénation parentale à la date de génération; le [Conseil constitutionnel](https://www.conseil-constitutionnel.fr/) n'a pas pris position sur le construit.** (2026) — middle
 
 ### Cour de cassation — Chambre criminelle
 <https://www.courdecassation.fr/>
@@ -142,6 +142,8 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

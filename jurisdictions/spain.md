@@ -20,7 +20,7 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 - **LO 3/2007** — Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres (2007) — <https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115>
   - Equality framework cited alongside LIVG in feminist juridical critiques of SAP.
 - **LOPJ art. 232** — Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial — artículo 232 (publicidad de actuaciones judiciales) (1985) — <https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666>
-  - Basis for anonymisation of judgments involving minors; Tribunal Supremo and Audiencias Provinciales sentences in family matters are published with initials per CENDOJ practice.
+  - Basis for anonymisation of judgments involving minors; [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) and Audiencias Provinciales sentences in family matters are published with initials per CENDOJ practice.
 - **Código Civil arts. 92-95** — Código Civil — De los efectos comunes a la nulidad, separación y divorcio (guarda y custodia, responsabilidad parental) (1889) — <https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763>
   - Core statutory basis for custody (guarda y custodia) and parental responsibility decisions in which PA-style facts are litigated.
 - **Ley 15/2005** — Ley 15/2005, de 8 de julio, por la que se modifican el Código Civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio (2005) — <https://www.boe.es/buscar/act.php?id=BOE-A-2005-11864>
@@ -123,6 +123,8 @@ Tribunal Supremo sentences are anonymised per LOPJ art. 232 and CENDOJ publicati
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

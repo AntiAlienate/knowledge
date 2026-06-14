@@ -15,9 +15,9 @@ A cross-jurisdictional thematic synthesis of structured reunification programmes
 Canadian provincial-regulator fragmentation (CPO Ontario / OPQ Quebec / CPBA-BC / CAP Alberta) means reunification-programme regulation operates jurisdiction-by-jurisdiction. Cross-link: jurisdiction:canada.
 
 ### 3. England & Wales — [Cafcass](https://www.cafcass.gov.uk/) institutional framework + post-Re Y [HCPC](https://www.hcpc-uk.org/) requirement
-England and Wales does NOT operate residential reunification programmes equivalent to Family Bridges. Instead operates: **[Cafcass](https://www.cafcass.gov.uk/)** (Children and Family Court Advisory and Support Service) — statutory body conducting s.7 welfare reports and providing Children's Guardian / Family Court Advisor services.
+England and Wales does NOT operate residential reunification programmes equivalent to [Family Bridges](https://warshak.com/family-bridges/). Instead operates: **[Cafcass](https://www.cafcass.gov.uk/)** (Children and Family Court Advisory and Support Service) — statutory body conducting s.7 welfare reports and providing Children's Guardian / Family Court Advisor services.
 
-**Post-Re Y [2026] EWFC 38**: [HCPC](https://www.hcpc-uk.org/)-registration requirement for PA evaluators flows UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework. Any reunification-oriented expert work must be by [HCPC](https://www.hcpc-uk.org/)-registered or [BPS](https://www.bps.org.uk/)-chartered practitioner. Excluded exemplar: Melanie Gill (not HCPC-registered, not [BPS](https://www.bps.org.uk/)-chartered, Re Y findings set aside on her assessment). Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
+**Post-Re Y [2026] EWFC 38**: [HCPC](https://www.hcpc-uk.org/)-registration requirement for PA evaluators flows UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework. Any reunification-oriented expert work must be by [HCPC](https://www.hcpc-uk.org/)-registered or [BPS](https://www.bps.org.uk/)-chartered practitioner. Excluded exemplar: Melanie Gill (not [HCPC](https://www.hcpc-uk.org/)-registered, not [BPS](https://www.bps.org.uk/)-chartered, Re Y findings set aside on her assessment). Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
 
 ### 4. Scotland — Court of Session welfare-and-abuse framing
 Scotland does not operate residential reunification programmes; **NF v AF [2025] CSOH 13** (Lord Stuart) addresses alienating conduct as direct emotional abuse without reunification-programme route. Scottish institutional infrastructure operates at sheriff court welfare-and-care level with [Cafcass](https://www.cafcass.gov.uk/)-Cymru-equivalent absent. Cross-link: jurisdiction:scotland.
@@ -40,7 +40,7 @@ CAPS operates as load-bearing Singapore institutional anchor — court-attached 
 ### 8. Hong Kong — SWD Specialised Co-parenting Support Centres + HKFWS PCC
 **Five Specialised Co-parenting Support Centres** under Social Welfare Department (SWD) funding: Hong Kong Family Welfare Society (HKFWS) Parenting and Co-Parenting Centre (PCC) + Caritas Hong Kong + International Social Service Hong Kong + St James' Settlement + others. Operational PA-adjacent reunification-support delivery sits at PCC level rather than at HKCSS umbrella level.
 
-The five-centre architecture is the HK operational analogue to Singapore CAPS + Cafcass / Cafcass Cymru E&W/Wales + Australian FRW pool. Cross-link: case-study:h-v-w-2021-hkca-733-hong-kong + jurisdiction:hong-kong.
+The five-centre architecture is the HK operational analogue to Singapore CAPS + [Cafcass](https://www.cafcass.gov.uk/) / Cafcass Cymru E&W/Wales + Australian FRW pool. Cross-link: case-study:h-v-w-2021-hkca-733-hong-kong + jurisdiction:hong-kong.
 
 ### 9. South Africa — Family Advocate office + 2021 Forensic Assessment Standards
 **Office of the Family Advocate** (Mediation in Certain Divorce Matters Act 24/1987) — substantive SA institutional analogue to Cafcass + FRW + CAPS. Family Advocates assist the High Court by enquiring into the welfare of minor or dependent children. Operational PA-adjacent engagement happens via individual-case forensic assessment.
@@ -119,6 +119,8 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+
+
 
 
 

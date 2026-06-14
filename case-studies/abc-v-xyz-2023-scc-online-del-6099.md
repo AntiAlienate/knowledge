@@ -31,7 +31,7 @@ Father's appeal allowed. Divorce granted on grounds of mental cruelty under HMA 
 
 ## Comparative jurisprudence
 
-- **Lt Col Vivek Singh v Romani Singh, (2017) 3 SCC 231 (Supreme Court of India)** (IN) — [`vivek-singh-v-romani-singh-2017-india`](./vivek-singh-v-romani-singh-2017-india.md) — Apex foundation. ABC v XYZ applies the Vivek Singh apex framing (which expressly defined 'The Parental Alienation Syndrome' and engaged Ms Iti Kanungo's court-appointed counsellor report on the child's preferences) to the matrimonial-relief context. ABC v XYZ extends Vivek Singh from guardianship-welfare reasoning into HMA s.13(1)(ia) fault-divorce reasoning — the principal post-Vivek Singh High Court doctrinal development.
+- **Lt Col Vivek Singh v Romani Singh, (2017) 3 SCC 231 ([Supreme Court of India](https://main.sci.gov.in/))** (IN) — [`vivek-singh-v-romani-singh-2017-india`](./vivek-singh-v-romani-singh-2017-india.md) — Apex foundation. ABC v XYZ applies the Vivek Singh apex framing (which expressly defined 'The Parental Alienation Syndrome' and engaged Ms Iti Kanungo's court-appointed counsellor report on the child's preferences) to the matrimonial-relief context. ABC v XYZ extends Vivek Singh from guardianship-welfare reasoning into HMA s.13(1)(ia) fault-divorce reasoning — the principal post-Vivek Singh High Court doctrinal development.
 - **A v B, 2026 SCC OnLine Del 276 (Delhi HC, Anil Kshetarpal J. and Harish Vaidyanathan Shankar J., February 2026)** (IN) — Subsequent Delhi HC PA decision. Custody transferred to father on findings of 'sustained parental alienation' by the mother. First reported Indian custody-transfer decision on PA grounds in the post-Vivek Singh line. A v B operates the custody-welfare line; ABC v XYZ operates the matrimonial-cruelty line. Both anchor the Delhi HC post-Vivek Singh PA doctrinal development.
 - **TEN v TEO and another appeal [2020] SGHCF 20 (Singapore HC Family Division)** (SG) — [`ten-v-teo-2020-sghcf-20-singapore`](./ten-v-teo-2020-sghcf-20-singapore.md) — Comparative Asian apex authority. Debbie Ong J's two-limb doctrine (court cannot force children to love a parent BUT expects custodial parent to cease alienating behaviour and support reunification) operates the welfare-side parallel to ABC v XYZ's matrimonial-cruelty side. Both treat alienating conduct as substantively actionable, differing in procedural posture (Indian fault-divorce vs Singaporean welfare-and-care).
 - **H v W [2021] HKCA 733 (Hong Kong Court of Appeal)** (HK) — [`h-v-w-2021-hkca-733-hong-kong`](./h-v-w-2021-hkca-733-hong-kong.md) — Comparative Asian apex authority. Lam VP, Yuen JA and B Chu J engaged PA as a separately pleaded ground of appeal via SIR + SJE framework — parallel to ABC v XYZ's matrimonial-cruelty grounding via Family Court evidence (without endorsing PAS as a clinical construct). Three Asian apex authorities (India SC Vivek Singh + Delhi HC ABC v XYZ + Singapore HC TEN v TEO + HK CofA H v W) constitute the Asian apex recognition cluster.
@@ -72,6 +72,8 @@ Father's appeal allowed. Divorce granted on grounds of mental cruelty under HMA 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

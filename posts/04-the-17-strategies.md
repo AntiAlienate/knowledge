@@ -9,7 +9,7 @@
 
 ## The 17 strategies
 
-Drawn from Baker's empirical interviews with 40 adults who experienced PA as children:
+Drawn from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) empirical interviews with 40 adults who experienced PA as children:
 
 1. **Bad-mouthing** the targeted parent
 2. **Limiting contact** between child and targeted parent
@@ -70,6 +70,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

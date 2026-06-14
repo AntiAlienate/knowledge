@@ -108,7 +108,7 @@ Brexit-specific: UK is no longer a Brussels II party. UK ↔ EU cases now run un
 | Tool | Purpose | URL |
 |---|---|---|
 | [HCCH](https://www.hcch.net/) website | Hague Convention text + status | hcch.net |
-| Your country's Central Authority | Hague applications | Contact details on HCCH website |
+| Your country's Central Authority | Hague applications | Contact details on [HCCH](https://www.hcch.net/) website |
 | Reunite International | UK-based abduction-specialist NGO | reunite.org |
 | Missing Children Europe | EU coordination + parental abduction info | missingchildreneurope.eu |
 | US State Dept Office of Children's Issues | US Central Authority | travel.state.gov |
@@ -142,6 +142,8 @@ It's much cheaper to set this up cooperatively than to litigate it once relation
 ---
 
 *See also: [Working With Your Lawyer](working-with-lawyer.md) — many Hague-specialist lawyers are NOT general family lawyers. [Documentation System](documentation-system.md) — cross-border cases need especially thorough record-keeping.*
+
+
 
 
 

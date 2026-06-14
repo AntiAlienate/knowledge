@@ -2,7 +2,7 @@
 
 **ECLI:** `ECLI:ES:TS:2017:3327`  
 **Neutral citation:** STS 519/2017  
-**Court:** Tribunal Supremo, Sala Primera (Civil)  
+**Court:** [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/), Sala Primera (Civil)  
 **Decided:** 2017-09-22  
 **Panel:** Seijas Quintana (Pte.) / Salas Carceller / Arroyo Fiestas (Pte. ponente) / Baena Ruiz / Parra Lucán  
 
@@ -46,9 +46,9 @@ Desestima el recurso de casación interpuesto por la madre. Confirma la sentenci
 
 ## Comparative jurisprudence
 
-- **[Cassazione](https://www.cortedicassazione.it/) Civile, Sez. I, sent. 13217 del 17 maggio 2021 (Italia)** (IT) — [`cassazione-13217-2021-italy`](./cassazione-13217-2021-italy.md) — Divergencia comparada. Cuatro años posterior a STS 519/2017, la Cassazione italiana adopta la línea crítica: el SAP carece de validez científica y no puede fundar medidas de privación de relaciones parentales. STS 519/2017 evita el constructo SAP pero acepta la «manipulación» como factor relevante; Cass. 13217/2021 va más allá rechazando incluso el lenguaje sindrómico.
+- **[Cassazione](https://www.cortedicassazione.it/) Civile, Sez. I, sent. 13217 del 17 maggio 2021 (Italia)** (IT) — [`cassazione-13217-2021-italy`](./cassazione-13217-2021-italy.md) — Divergencia comparada. Cuatro años posterior a STS 519/2017, la [Cassazione](https://www.cortedicassazione.it/) italiana adopta la línea crítica: el SAP carece de validez científica y no puede fundar medidas de privación de relaciones parentales. STS 519/2017 evita el constructo SAP pero acepta la «manipulación» como factor relevante; Cass. 13217/2021 va más allá rechazando incluso el lenguaje sindrómico.
 - **Cassazione Civile, Sez. I, sent. 9691 del 24 marzo 2022 (Italia)** (IT) — [`cassazione-9691-2022-italy`](./cassazione-9691-2022-italy.md) — Divergencia comparada consolidada. La Cassazione 9691/2022 declara que el SAP «constituye el fundamento pseudocientífico» de medidas gravosas y exige verificación probatoria ordinaria. STS 519/2017 confirma una custodia compartida apoyada en informes psicosociales sin exigir el mismo umbral falsacionista; el contraste ilumina la posición intermedia española.
-- **[BVerfG](https://www.bundesverfassungsgericht.de/), 1 BvR 1076/23, decisión de 8 de noviembre de 2023 ([Tribunal Constitucional](https://www.tribunalconstitucional.es/) Federal de Alemania)** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Divergencia comparada posterior. El BVerfG califica el SAP como concepto «obsoleto y científicamente refutado». STS 519/2017 — seis años anterior — no emplea ese juicio descalificador, lo que sitúa al Tribunal Supremo español en una posición de transición pre-crítica.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/), 1 BvR 1076/23, decisión de 8 de noviembre de 2023 ([Tribunal Constitucional](https://www.tribunalconstitucional.es/) Federal de Alemania)** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Divergencia comparada posterior. El [BVerfG](https://www.bundesverfassungsgericht.de/) califica el SAP como concepto «obsoleto y científicamente refutado». STS 519/2017 — seis años anterior — no emplea ese juicio descalificador, lo que sitúa al Tribunal Supremo español en una posición de transición pre-crítica.
 - **NF v AF [2025] CSOH 13 (Court of Session, Outer House — Escocia)** (GB-SCT) — [`nf-v-af-2025-csoh-13-scotland`](./nf-v-af-2025-csoh-13-scotland.md) — Comparativa metodológica. La Court of Session reconoce la alienación parental como hecho relacional sin invocar SAP-síndrome; STS 519/2017 anticipa por ocho años esta posición intermedia común-law/escocesa.
 - **Re Y [2026] EWFC 38 (Family Court de Inglaterra y Gales, Sir Andrew McFarlane P)** (GB-EWE) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — Comparativa metodológica reciente. Re Y exige cualificación pericial reglada para sostener un hallazgo de alienación; STS 519/2017 no impone ese umbral pericial formal, lo que muestra la evolución del estándar en una década.
 
@@ -103,6 +103,8 @@ Desestima el recurso de casación interpuesto por la madre. Confirma la sentenci
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

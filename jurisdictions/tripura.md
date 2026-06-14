@@ -27,7 +27,7 @@ Tripura (ত্রিপুরা in Bengali / Twipra in Tripuri Kokborok) is a 
 ### Tripura High Court
 <https://thc.nic.in/>
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://main.sci.gov.in/>
 
 ### Tripura Tribal Areas Autonomous District Council (TTAADC) customary courts
@@ -92,6 +92,8 @@ Tripura family-court decisions are anonymised per Indian court practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

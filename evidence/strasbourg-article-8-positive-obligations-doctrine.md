@@ -62,7 +62,7 @@ The standard imposes a result-orientation: measures that prove ineffective despi
 - **MESECVI Belém do Pará Declaración (13.4.2023)** — Inter-American mechanism critique.
 - **LATAM5 domestic-apex** — Corte Constitucional Colombia T-526/2023 + IEFH/IGVM Belgium Recommandation 2023/001 + multiple LATAM5 positions citing Alsalem.
 
-## Cassazione 9691/2022 integration
+## [Cassazione](https://www.cortedicassazione.it/) 9691/2022 integration
 
 **Italian Cassazione 9691/2022 (24 marzo 2022)** is the principal example of how a domestic apex court incorporates Strasbourg Article 8 procedural-due-diligence doctrine alongside PAS-construct disqualification:
 
@@ -93,7 +93,7 @@ Strasbourg engages [Hague Convention 1980](https://www.hcch.net/en/instruments/c
 | Jurisdiction | Apex case-law engaging Strasbourg Art 8 | Strasbourg-specific anchor |
 |---|---|---|
 | **Italy** | Cassazione 9691/2022 explicitly engages Strasbourg triptych | Lombardo 2013 + Strumia 2016 + Improta 2017 |
-| **Germany** | BVerfG 1 BvR 1076/23 Convention-conform interpretation | implicit, not explicit citation |
+| **Germany** | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 Convention-conform interpretation | implicit, not explicit citation |
 | **Spain** | STS 519/2017 + LOPIVI 2021 compatible | implicit |
 | **Poland** | SN III CZP 20/25 enforcement-focused | not Art 8-specific (procedural-domestic-focused) |
 | **France** | Cass. 12-14.392 (2013) substantive | implicit |
@@ -113,7 +113,7 @@ The Lombardo + Strumia + Improta sequence establishes the PA-adjacent Article 8 
 Italian Cassazione 9691/2022 is the principal example of doctrinally dense Strasbourg + domestic apex integration. Other EU member-state apex decisions engage Strasbourg implicitly or via Convention-conform interpretation but lack equivalent doctrinal density.
 
 ### 4. Multi-tier international anchor convergence beyond Strasbourg
-Strasbourg Art 8 operates alongside UN Alsalem A/HRC/53/36 (2022) + MESECVI Belém do Pará (2023) + LATAM5 domestic-apex anchors. The multi-tier configuration extends beyond Strasbourg geographically (LATAM, India, Africa) but Strasbourg Art 8 remains the supranational legal-binding standard for the 46 Council of Europe member states.
+Strasbourg Art 8 operates alongside UN Alsalem A/HRC/53/36 (2022) + MESECVI Belém do Pará (2023) + LATAM5 domestic-apex anchors. The multi-tier configuration extends beyond Strasbourg geographically (LATAM, India, Africa) but Strasbourg Art 8 remains the supranational legal-binding standard for the 46 [Council of Europe](https://www.coe.int/) member states.
 
 ### 5. Subsidiarity narrows the margin of appreciation in procedural diligence
 Protocol 15 (2013) subsidiarity principle preserves substantive state discretion but the procedural-due-diligence standard operationally narrows the margin of appreciation in PA-adjacent cases. The procedural focus is structurally suited to supranational supervision while preserving substantive state decision-making.
@@ -132,6 +132,8 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
+
+
 
 
 

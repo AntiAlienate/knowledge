@@ -23,7 +23,7 @@ Cocos (Keeling) Islands is an Indian Ocean common-law Australian external territ
 ### Federal Circuit and Family Court of Australia
 <https://www.fcfcoa.gov.au/>
 
-### High Court of Australia
+### [High Court of Australia](https://www.hcourt.gov.au/)
 <https://www.hcourt.gov.au/>
 
 ## Professional regulators
@@ -74,6 +74,8 @@ Cocos (Keeling) Islands family-court decisions are anonymised per Federal Circui
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

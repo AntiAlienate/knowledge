@@ -84,7 +84,7 @@ A **point estimate produced by multiplying three uncertain proportions**. It is 
 - Recruitment: random-digit dialling of home and cell-phone numbers
 - Brief telephone poll — at most five questions (only three asked of non-parents)
 
-### 2.3 Headline figures (as reported by the authors and re-stated in Harman et al. 2019)
+### 2.3 Headline figures (as reported by the authors and re-stated in [Harman et al. 2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/)
 
 From Harman et al. (2019) §1 (verbatim of their own 2016 summary): "Results indicated that **13.4% of parents reported being the targets of PABs which, based on the U.S. population at the time of the survey, generalizes to an estimated 22,141,650 adults in the U.S.** Notably, about half of the sample rated their experience as 'severe' (Harman, Leder-Elder, & Biringen, 2016)." Also reported in the 2019 paper §4: "13.4% of parents (or **9.03% of the entire sample**) had been alienated from one or more of their children (Harman et al., 2016)."
 
@@ -172,7 +172,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ## 5. Verrocchio / Bernet / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Italian work
 
-### 5.1 Bernet, Baker & Verrocchio (2015) — SCL-90-R study
+### 5.1 Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) — SCL-90-R study
 
 **Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 
@@ -205,7 +205,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ### 6.1 Citation and access
 
-**Citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. Chapter 13 (pp. 374–430) in L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed.). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — open PDF (Nevada Supreme Court session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. Chapter 13 (pp. 374–430) in L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed.). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — open PDF (Nevada Supreme Court session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
 ### 6.2 Methodology
 
@@ -280,7 +280,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 
 ### 10.1 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (2019) — the original study
 
-**Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: What do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 (and Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* — NIJ-funded report). Findings: courts that credit alienation claims discount abuse allegations; mothers alleging child abuse and PA is asserted against them lose custody at high rates.
+**Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: What do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 (and [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* — NIJ-funded report). Findings: courts that credit alienation claims discount abuse allegations; mothers alleging child abuse and PA is asserted against them lose custody at high rates.
 
 ### 10.2 Harman & Lorandos (2021) — the critique
 
@@ -299,7 +299,7 @@ The fight is **not** "does PA exist" — both sides accept that PA-pattern behav
 
 ---
 
-## 11. UN OHCHR / Alsalem A/HRC/53/36 on the empirical basis
+## 11. UN [OHCHR](https://www.ohchr.org/) / Alsalem A/HRC/53/36 on the empirical basis
 
 ### 11.1 Citation
 
@@ -324,7 +324,7 @@ The Alsalem report does **not** engage in detail with the Harman 2016 / 2019 pre
 
 ### 11.5 The institutional landscape
 
-- **WHO [ICD-11](https://icd.who.int/) removal:** The "parental alienation" code that had appeared transiently in [ICD-11](https://icd.who.int/) drafts was removed in February 2020; see Alsalem report and WHO ICD-11 release notes.
+- **WHO [ICD-11](https://icd.who.int/) removal:** The "parental alienation" code that had appeared transiently in [ICD-11](https://icd.who.int/) drafts was removed in February 2020; see Alsalem report and WHO [ICD-11](https://icd.who.int/) release notes.
 - **GREVIO ([Council of Europe](https://www.coe.int/)):** Has cautioned against systematic use of PA in custody decisions involving DV allegations; **specific GREVIO document on PA prevalence is not publicly confirmed** at compilation.
 - **APA (American Psychological Association):** Has issued cautions about over-application of PA concepts; the APA does **not** endorse a specific prevalence figure.
 
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

@@ -38,7 +38,7 @@ Four conjoined second-tier private-law [Children Act 1989](https://www.legislati
 - **Rebecca Foulkes** (Junior counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
 - **Miriam Best** (Junior counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
 - **Mark Jarman** (Counsel) — instructed by [Cafcass](https://www.cafcass.gov.uk/) Legal for [Cafcass](https://www.cafcass.gov.uk/) (First Intervener)
-- **Michael Gration** (Counsel) — instructed by [Cafcass](https://www.cafcass.gov.uk/) Legal for Cafcass (First Intervener)
+- **Michael Gration** (Counsel) — instructed by [Cafcass](https://www.cafcass.gov.uk/) Legal for [Cafcass](https://www.cafcass.gov.uk/) (First Intervener)
 - **Barbara Mills KC** (Leading counsel) — instructed by Scott Moncrieff & Associates Ltd for Women's Aid, Women's Aid Wales, Rape Crisis and Rights of Women (Second Intervener)
 - **Joy Brereton** (Junior counsel) — instructed by Scott Moncrieff & Associates Ltd for Second Intervener
 - **Emma Spruce** (Junior counsel) — instructed by Scott Moncrieff & Associates Ltd for Second Intervener
@@ -170,7 +170,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 
 ## Editorial notes
 
-- Primary verification done against the approved-judgment PDF served from judiciary.uk (filename 'H-N-and-Others-children-judgment-1.pdf'). [BAILII](https://www.bailii.org/) page (https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html) returned a bot-protection wall at retrieval time on 2026-05-30 and could not be read directly; the judgment text used for verbatim quotes therefore comes from the judiciary.uk PDF, which is the same Approved Judgment as the BAILII version. Source_url on each verbatim quote nevertheless points at BAILII as the canonical citation venue per house style.
+- Primary verification done against the approved-judgment PDF served from judiciary.uk (filename 'H-N-and-Others-children-judgment-1.pdf'). [BAILII](https://www.bailii.org/) page (https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html) returned a bot-protection wall at retrieval time on 2026-05-30 and could not be read directly; the judgment text used for verbatim quotes therefore comes from the judiciary.uk PDF, which is the same Approved Judgment as the [BAILII](https://www.bailii.org/) version. Source_url on each verbatim quote nevertheless points at BAILII as the canonical citation venue per house style.
 - Bench composition verified from the judgment cover sheet: Sir Andrew McFarlane (President of the Family Division), Lady Justice King and Lord Justice Holroyde — NOT Dame Victoria Sharp PQBD as the source MD's 'Who else was involved' section had recorded. The source MD's draft is incorrect on this point and was corrected against the primary text.
 - The judgment of the court is given jointly ('The President of the Family Division, Lady Justice King and Lord Justice Holroyde'). It is not attributed to a single judge as author, although McFarlane P sat in the lead-judgment chair as President of the Family Division.
 - IMPORTANT: the word 'alienation' (and stem 'alien') does NOT appear in the body of the [2021] EWCA Civ 448 judgment. The Court of Appeal's treatment of the alienation-vs-DA framing is therefore implicit rather than express: it operates through (a) the insistence in paragraphs 29-34 that coercive and controlling behaviour patterns must be properly tried rather than reduced to a Scott Schedule, and (b) the corrective character of the case as a whole, which restored fact-finding on DA allegations in three of the four appeals where lower courts had narrowed or dismissed them. The treatment of parental alienation as a 'counter-allegation' that Re H-N is celebrated for addressing is thus a doctrinal characterisation by commentators (and by later cases including Re C [2023] and Re Y [2026]) rather than an express verbatim engagement on the face of [2021] EWCA Civ 448. The verbatim_quotes set reflects this honestly: it includes the structural paragraphs (1, 4, 28, 31, 34, 37, 224, 225) on which the doctrine actually rests rather than fabricating an 'alienation' quotation that is not in the judgment.
@@ -186,6 +186,8 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

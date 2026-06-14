@@ -25,7 +25,7 @@ Meghalaya (मेघालय in Hindi, meaning 'Abode of Clouds') is a North-ea
 ### Meghalaya High Court
 <https://meghalayahighcourt.nic.in/>
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://main.sci.gov.in/>
 
 ### Khasi/Jaintia/Garo Hills Autonomous District Councils (customary courts)
@@ -84,6 +84,8 @@ Meghalaya family-court decisions are anonymised per Indian court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

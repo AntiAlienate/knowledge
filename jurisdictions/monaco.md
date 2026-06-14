@@ -36,7 +36,7 @@ Monegasque family-court decisions are anonymised per Court of Revision practice 
 
 - **1880** — Federal Civil Code adopted drawing on French civil-law substantive heritage.
 - **1993** — Monaco acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 1993 — among earliest Hague accessions in Europe.
-- **2004** — Monaco joined the Council of Europe; ECHR became applicable.
+- **2004** — Monaco joined the [Council of Europe](https://www.coe.int/); ECHR became applicable.
 - **2011** — Substantial reform of Civil Code parental authority provisions.
 
 ## Structural findings
@@ -70,6 +70,8 @@ Monegasque family-court decisions are anonymised per Court of Revision practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

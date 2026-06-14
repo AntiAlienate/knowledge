@@ -74,7 +74,7 @@ Louisiana family-court decisions are generally not anonymised in published opini
 
 ## Editorial notes
 
-- Louisiana jurisdiction sidecar — civil-law North American US state (Louisiana Civil Code 1870 + Louisiana Children's Code 1986 + Civil Code Articles 131-140 Custody + Federal US [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1988 + ICARA federal extension). Only civil-law jurisdiction in the United States globally + only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition alongside Quebec and Puerto Rico + Napoleonic Code lineage + community property/forced heirship/usufruct civil-law structural framework + civil-law-state subject to federally-binding common-law-treaty-implementation framework.
+- Louisiana jurisdiction sidecar — civil-law North American US state (Louisiana Civil Code 1870 + Louisiana Children's Code 1986 + Civil Code Articles 131-140 Custody + Federal US [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1988 + [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) federal extension). Only civil-law jurisdiction in the United States globally + only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition alongside Quebec and Puerto Rico + Napoleonic Code lineage + community property/forced heirship/usufruct civil-law structural framework + civil-law-state subject to federally-binding common-law-treaty-implementation framework.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North American + civil-law + US-constituent-state cluster + only-civil-law-US-state-globally-distinctive + Napoleonic-Code-lineage + community-property-forced-heirship-usufruct + civil-law-state-subject-to-federal-Hague-extension + Louisiana-Purchase-1803-civil-law-preservation clusters within the corpus.
 
@@ -82,6 +82,8 @@ Louisiana family-court decisions are generally not anonymised in published opini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

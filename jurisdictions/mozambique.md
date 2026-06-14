@@ -20,7 +20,7 @@ Mozambique is a Southern/East African civil-law republic whose family-law framew
 
 ## Apex courts
 
-### Supreme Court (Tribunal Supremo)
+### Supreme Court ([Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/))
 <https://www.ts.gov.mz/>
 
 ### Constitutional Council (Conselho Constitucional)
@@ -71,6 +71,8 @@ Mozambican family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

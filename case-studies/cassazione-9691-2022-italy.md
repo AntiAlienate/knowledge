@@ -1,7 +1,7 @@
 # [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 9691 del 24 marzo 2022
 
 **ECLI:** `ECLI:IT:CASS:2022:9691CIV`  
-**Court:** Corte Suprema di Cassazione, Sezione Prima Civile  
+**Court:** Corte Suprema di [Cassazione](https://www.cortedicassazione.it/), Sezione Prima Civile  
 **Decided:** 2022-03-24  
 **Panel:** Genovese (Pres.) / Caiazzo (rel.) / Parise / Scalia / Campese  
 
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -23,7 +23,7 @@ Andorra is a Western European civil-law constitutional co-principality (uniquely
 ### Superior Court of Justice (Tribunal Superior de Justícia)
 <https://www.justicia.ad/>
 
-### Constitutional Court (Tribunal Constitucional)
+### Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/))
 <https://www.tribunalconstitucional.ad/>
 
 ## Professional regulators
@@ -36,7 +36,7 @@ Andorran family-court decisions are anonymised per Superior Court practice using
 
 ## Key developments
 
-- **1993** — Modern Constitution adopted establishing democratic framework; preparations for Council of Europe membership.
+- **1993** — Modern Constitution adopted establishing democratic framework; preparations for [Council of Europe](https://www.coe.int/) membership.
 - **1994** — Andorra joined the Council of Europe; ECHR became applicable.
 - **2011** — Andorra acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 July 2011.
 - **2019** — Federal Law on children's rights enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
@@ -72,6 +72,8 @@ Andorran family-court decisions are anonymised per Superior Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -27,7 +27,7 @@ Mizoram (Mizo Hnam in Mizo language) is a North-eastern Indian Himalayan-foothil
 ### Gauhati High Court (Aizawl Bench)
 <https://www.ghconline.gov.in/>
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://main.sci.gov.in/>
 
 ### Mizo Village Councils + Range Councils
@@ -83,6 +83,8 @@ Mizoram family-court decisions are anonymised per Indian court practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

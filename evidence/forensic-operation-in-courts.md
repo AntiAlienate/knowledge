@@ -23,7 +23,7 @@
 
 ### 1.1 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Dickson, O'Sullivan, Rosen & Hayes (2020) — Journal of Social Welfare and Family Law
 
-**Citation.** Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 — Open repository copy: https://scholarship.law.gwu.edu/faculty_publications/1456/ and https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2712&context=faculty_publications — SSRN preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062
+**Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 — Open repository copy: https://scholarship.law.gwu.edu/faculty_publications/1456/ and https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2712&context=faculty_publications — SSRN preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062
 
 **NIJ funder citation.** Meier, J. S., et al. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* (Final Technical Report, NIJ Award 2014-MU-CX-0859). National Institute of Justice, NCJ 304419. https://nij.ojp.gov/library/publications/child-custody-outcomes-cases-involving-parental-alienation-and-abuse — Data archived at ICPSR: https://www.icpsr.umich.edu/web/NACJD/studies/37331
 
@@ -143,7 +143,7 @@
 
 > "One form of bias or misinformation is indicated by evaluators' uncritical use of parent alienation theories. False assumptions may be made that allegations, especially from mothers, are likely false and do not need to be investigated and that parents must cooperate with each other and communicate directly … A tendency to believe that survivor-mothers make false allegations and alienate the children from their ex-partners has been found to be associated with sexist beliefs and the belief the world is basically a just place ([Saunders](https://www.ovw.usdoj.gov/) et al., 2011). These beliefs are also related to recommendations that abusive fathers be given sole or joint custody or unsupervised visits."
 
-**Quoting the National Council of Juvenile and Family Court Judges guidebook (Dalton et al., 2006), verbatim via Saunders:**
+**Quoting the National Council of Juvenile and Family Court Judges guidebook (Dalton et al., 2006), verbatim via [Saunders](https://www.ovw.usdoj.gov/):**
 
 > "Unfortunately, an all too common practice in such cases is for evaluators to diagnose children who exhibit a very strong bond and alignment with one parent and, simultaneously, a strong rejection of the other parent, as suffering from 'parental alienation syndrome' or 'PAS.' Under relevant evidentiary standards, the court should not accept this testimony. The theory positing the existence of 'PAS' has been discredited by the scientific community."
 
@@ -185,7 +185,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 **On admissibility as expert testimony.** "In some studies there was no consensus, and in other studies the majority [of surveyed professionals] did not endorse parental alienation as a syndrome meeting either the Frye or Daubert standards for admission as a 'diagnosis' by an expert witness in an American court."
 
-**Why this matters for the forensic operation question.** Saini, Johnston, Fidler & Bala are *not hostile* to the PA construct — they are arguing for more rigorous research and more careful application. Their explicit position that (i) the construct is *not* a diagnostic syndrome, (ii) no defensible prevalence estimate exists, (iii) most empirical studies fail to distinguish alienation from justified estrangement secondary to abuse, and (iv) PA does not meet *Frye*/*Daubert* standards as a diagnosis, **independently corroborates the Meier and Silberg-Dallam concerns** that PA findings in U.S. courts often operate without adequate scientific foundation.
+**Why this matters for the forensic operation question.** [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala are *not hostile* to the PA construct — they are arguing for more rigorous research and more careful application. Their explicit position that (i) the construct is *not* a diagnostic syndrome, (ii) no defensible prevalence estimate exists, (iii) most empirical studies fail to distinguish alienation from justified estrangement secondary to abuse, and (iv) PA does not meet *Frye*/*Daubert* standards as a diagnosis, **independently corroborates the Meier and Silberg-Dallam concerns** that PA findings in U.S. courts often operate without adequate scientific foundation.
 
 ---
 
@@ -193,7 +193,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 ### 6.1 GREVIO 3rd General Report (2022) — [Council of Europe](https://www.coe.int/) Istanbul Convention monitoring body
 
-**Citation.** Council of Europe, *3rd General Report on GREVIO's activities* (covering 2021). Strasbourg, June 2022. https://www.coe.int/en/web/istanbul-convention/-/3rd-general-report-on-grevio-s-activities — PDF: https://rm.coe.int/3rd-general-report-on-grevio-s-activities/1680a6e183
+**Citation.** [Council of Europe](https://www.coe.int/), *3rd General Report on GREVIO's activities* (covering 2021). Strasbourg, June 2022. https://www.coe.int/en/web/istanbul-convention/-/3rd-general-report-on-grevio-s-activities — PDF: https://rm.coe.int/3rd-general-report-on-grevio-s-activities/1680a6e183
 
 **Verbatim text, quoted via UN Alsalem A/HRC/53/36 (footnote 73; the primary document was inaccessible at compilation).**
 
@@ -229,7 +229,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 ---
 
-### 6.3 UN OHCHR press release — Brazil (September 2025)
+### 6.3 UN [OHCHR](https://www.ohchr.org/) press release — Brazil (September 2025)
 
 **Citation.** OHCHR, *Brazil: Parliament must repeal harmful parental alienation law, says Special Rapporteur*. Press release, 3 September 2025. https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
 
@@ -262,7 +262,7 @@ CEDAW recommended that Costa Rica "take all measures necessary to discourage the
 
 ### 6.5 WHO [ICD-11](https://icd.who.int/)
 
-The "parental alienation" code that briefly appeared in the foundation layer of [ICD-11](https://icd.who.int/) was **removed in February 2020**. WHO confirmed that PA is not, and was never, a clinical diagnosis in [ICD-11](https://icd.who.int/). This is documented in the WHO ICD-11 FAQ and discussed in the AntiAlienate `evidence-pa-as-child-abuse.md` page (section 2). Cross-reference: https://icd.who.int/dev11/f/en
+The "parental alienation" code that briefly appeared in the foundation layer of [ICD-11](https://icd.who.int/) was **removed in February 2020**. WHO confirmed that PA is not, and was never, a clinical diagnosis in [ICD-11](https://icd.who.int/). This is documented in the WHO [ICD-11](https://icd.who.int/) FAQ and discussed in the AntiAlienate `evidence-pa-as-child-abuse.md` page (section 2). Cross-reference: https://icd.who.int/dev11/f/en
 
 ---
 
@@ -315,7 +315,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 - **Meier 2020 (FCO Study).** *J Soc Welfare & Family Law* 42(1):92–105. doi:10.1080/09649069.2020.1701941. NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859.
 - **Harman & Lorandos 2021.** *Psychology, Public Policy, and Law* 27(2):184–208. doi:10.1037/law0000301.
 - **Meier et al. 2022 rebuttals.** *J Family Trauma, Child Custody & Child Development* 19(2) and 19(3-4).
-- **Silberg & Dallam 2019.** *J Child Custody* 16(2):140–169. doi:10.1080/15379418.2019.1613204. DOJ OVW Award #2011-TA-AX-K006.
+- **[Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204).** *J Child Custody* 16(2):140–169. doi:10.1080/15379418.2019.1613204. DOJ OVW Award #2011-TA-AX-K006.
 - **Saunders 2015.** *J Child Custody* 12(1):71–92. doi:10.1080/15379418.2015.1037052. // Saunders/Faller/Tolman 2011 NIJ Award 2007-WG-BX-0013.
 - **Saini/Johnston/Fidler/Bala 2016.** In *Parenting Plan Evaluations* (2nd ed.). OUP. doi:10.1093/med:psych/9780199396580.003.0013.
 - **Alsalem 2023.** A/HRC/53/36.
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

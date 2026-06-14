@@ -42,7 +42,7 @@ This 5-criterion framework is the gatekeeper that distinguishes alienation (engi
 
 ## [DSM-5](https://www.appi.org/products/dsm) + [ICD-11](https://icd.who.int/) campaigns
 
-Bernet led the multi-year campaign for explicit PA inclusion in DSM-5 and ICD-11. PA was *not* added as a standalone diagnosis (the political resistance was substantial), but related codes were included:
+Bernet led the multi-year campaign for explicit PA inclusion in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). PA was *not* added as a standalone diagnosis (the political resistance was substantial), but related codes were included:
 
 - **DSM-5 V995.51** Child Psychological Abuse — operationally captures PA harm
 - **DSM-5 V61.29** Child Affected by Parental Relationship Distress
@@ -68,7 +68,7 @@ Bernet co-founded [PASG](https://pasg.info/), an international research consorti
 
 - Publisher: https://www.ccthomas.com
 - Author affiliation: Vanderbilt University School of Medicine (Emeritus Professor of Psychiatry)
-- PASG: https://pasg.info
+- [PASG](https://pasg.info/): https://pasg.info
 
 ## Related entries
 
@@ -83,6 +83,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

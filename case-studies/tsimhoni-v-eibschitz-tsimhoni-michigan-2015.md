@@ -55,7 +55,7 @@ At trial level: on 24 June 2015 the three children were held in civil contempt a
 
 - **L. (A.G.) v. D. (K.B.) (2009), 93 O.R. (3d) 409 (Ont. S.C.J.) — 2009 [CanLII](https://www.canlii.org/) 943 (ON SC)** (CA) — [`lag-v-dkb-2009-ontario`](./lag-v-dkb-2009-ontario.md) — Paradigm modern Anglo / common-law parental-alienation custody-reversal authority. Where L.(A.G.) v D.(K.B.) institutionalised the reversal-plus-out-of-country-reunification template in Canada via measured trial-level reasoning, Tsimhoni shows what the same reunification-reversal logic looks like when the trial court is willing to coerce the children themselves through the contempt power. Tsimhoni is the cautionary-tale shadow of the L.(A.G.) v D.(K.B.) template.
 - **Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38** (UK-EWS) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — English Family Court (McFarlane P) set aside first-instance findings of 'alienating behaviour' built on the report of an unregulated PA 'specialist'. The Re Y principle — even where alienation is alleged, the remedies must rest on properly regulated expert evidence, lawful process and child-respecting reasoning — is the doctrinal correction that the Tsimhoni 24 June 2015 hearing most starkly violates. Tsimhoni is the worked US-state-court example of what Re Y refuses to authorise in England and Wales.
-- **BVerfG 17.11.2023 — 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten on Art. 6 Abs. 2 GG / Kindeswohl grounds. Reinforces the Tsimhoni teaching that even properly diagnosed alienation does not authorise coercive remedies that override the constitutional protection of the child's own personality and dignity — the precise interests Judge Gorcyca's Manson-cult and IQ remarks injured on the open court record.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten on Art. 6 Abs. 2 GG / Kindeswohl grounds. Reinforces the Tsimhoni teaching that even properly diagnosed alienation does not authorise coercive remedies that override the constitutional protection of the child's own personality and dignity — the precise interests Judge Gorcyca's Manson-cult and IQ remarks injured on the open court record.
 
 ## Subsequent reception
 
@@ -142,6 +142,8 @@ At trial level: on 24 June 2015 the three children were held in civil contempt a
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

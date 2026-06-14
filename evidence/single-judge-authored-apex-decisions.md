@@ -7,7 +7,7 @@ A focused thematic synthesis of the structural pattern of single-judge authored 
 ### England and Wales — Sir Andrew McFarlane P
 **Re Y [2026] EWFC 38** — Sir Andrew McFarlane P sitting alone (as President of the Family Division of the High Court). The decision establishes the UK-wide evaluator-quality apex authority via the [HCPC](https://www.hcpc-uk.org/)-registration requirement. McFarlane P is also the author of the broader English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026).
 
-The Re-arc is structurally distinctive in the corpus: a single senior judicial author developing apex doctrine across multiple appellate decisions. The authorial-consistency pattern lends doctrinal coherence to the English Re-arc that contrasts with multi-author lines (e.g., Italian Cassazione triad: Sez. I different rapporteurs across 13217/2021 + 9691/2022 + 4595/2025).
+The Re-arc is structurally distinctive in the corpus: a single senior judicial author developing apex doctrine across multiple appellate decisions. The authorial-consistency pattern lends doctrinal coherence to the English Re-arc that contrasts with multi-author lines (e.g., Italian [Cassazione](https://www.cortedicassazione.it/) triad: Sez. I different rapporteurs across 13217/2021 + 9691/2022 + 4595/2025).
 
 Cross-link: case-study:re-y-2026-ewfc-38 + case-study:re-c-2023-ewhc-345-fam + case-study:re-h-n-2021-ewca-civ-448 + jurisdiction:england-and-wales.
 
@@ -36,7 +36,7 @@ The Italian Cassazione triad is structurally distinct from the English Re-arc: c
 Cross-link: case-study:cassazione-9691-2022-italy + case-study:cassazione-13217-2021-italy + jurisdiction:italy.
 
 ### Germany — [BVerfG](https://www.bundesverfassungsgericht.de/) Senate composition
-**BVerfG 1 BvR 1076/23** — [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) Senate decision. Constitutional Court decisions are issued by the Senate composition rather than single-judge. The Senate-collegial decision contrasts with single-judge first-instance + appellate decisions.
+**[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** — [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) Senate decision. Constitutional Court decisions are issued by the Senate composition rather than single-judge. The Senate-collegial decision contrasts with single-judge first-instance + appellate decisions.
 
 Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
 
@@ -128,7 +128,7 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 | **SN III CZP 20/25 Poland** | SN Izba Cywilna | 3-judge composition art.390§1 | Collegial 3-judge |
 | **STJ REsp 1859228/SP** | STJ Third Section | Five-judge Section + Andrighi relatora | Collegial + relatora |
 | **Strasbourg triptych** | [ECtHR](https://www.echr.coe.int/) First Section | 7-judge Chamber composition | Collegial |
-| **Strasbourg Neulinger / X v Latvia** | ECtHR Grand Chamber | 17-judge Grand Chamber | Maximum collegial |
+| **Strasbourg Neulinger / X v Latvia** | [ECtHR](https://www.echr.coe.int/) Grand Chamber | 17-judge Grand Chamber | Maximum collegial |
 
 ## Cross-references
 - Per-jurisdiction sidecars: all 36 v1.0 jurisdiction sidecars + per-case-study files in `/case-studies/`.
@@ -137,6 +137,8 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md*
+
+
 
 
 

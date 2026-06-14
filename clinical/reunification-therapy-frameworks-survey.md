@@ -73,7 +73,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 ## Procedural Footprints
 
 ### Court-Ordered vs Voluntary
-- **Court-ordered**: typically Family Bridges, Overcoming Barriers, MMFI, Parenting Coordination
+- **Court-ordered**: typically [Family Bridges](https://warshak.com/family-bridges/), Overcoming Barriers, MMFI, Parenting Coordination
 - **Voluntary**: typically Traditional Outpatient, Therapeutic Conjoint Sessions
 - **Court endorsement increases effectiveness** — voluntary alone often fails when alienating parent doesn't cooperate
 
@@ -139,6 +139,8 @@ Choose a reunification framework based on:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not clinical recommendation. Selection of reunification therapy framework requires consultation with a qualified PA-informed therapist and family-law attorney familiar with the specific case dynamics. Outcomes vary substantially across cases.
+
+
 
 
 

@@ -23,7 +23,7 @@ Christmas Island is an Indian Ocean common-law Australian external territory —
 ### Federal Circuit and Family Court of Australia
 <https://www.fcfcoa.gov.au/>
 
-### High Court of Australia
+### [High Court of Australia](https://www.hcourt.gov.au/)
 <https://www.hcourt.gov.au/>
 
 ## Professional regulators
@@ -73,6 +73,8 @@ Christmas Island family-court decisions are anonymised per Federal Circuit and F
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

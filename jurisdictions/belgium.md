@@ -15,8 +15,8 @@ Belgium is a federal civil-law jurisdiction structurally shaped by its community
 
 - **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 374-374ter** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — autorité parentale et droit aux relations personnelles (1995) — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
   - Federal substantive frame for parental authority (art. 374 — exercice conjoint principe) and right of personal relations (art. 374bis — droit de l'enfant aux relations personnelles avec ses ascendants et grands-parents). The substantive Belgian hook for residence (hébergement) and contact disputes at Tribunal de la famille.
-- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 387ter** — Code civil — inexécution des décisions relatives à l'hébergement (2007) — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
-  - Provides remedies (astreinte, désignation provisoire d'un tiers, droit aux relations modifiées) where a parent refuses to execute a custody/contact order. The provision directly cited in Cass. 6 mars 2025 C.24.0157.F (the most recent Cour de cassation arrêt addressing PA-adjacent contact-frustration cases without addressing the construct's scientific validity).
+- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 387ter** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — inexécution des décisions relatives à l'hébergement (2007) — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
+  - Provides remedies (astreinte, désignation provisoire d'un tiers, droit aux relations modifiées) where a parent refuses to execute a custody/contact order. The provision directly cited in Cass. 6 mars 2025 C.24.0157.F (the most recent [Cour de cassation](https://www.courdecassation.fr/) arrêt addressing PA-adjacent contact-frustration cases without addressing the construct's scientific validity).
 - **Loi du 30 juillet 2013 portant création d'un Tribunal de la famille et de la jeunesse** — Tribunal de la famille / familierechtbank — specialist family-court forum (2013) — <https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2013073018&table_name=loi>
   - Constitutes the unified specialist family court at first instance with statutory jurisdiction over divorce, parental authority, residence, contact, alimony and DV protective-order proceedings. The Belgian counterpart to the Dutch Rechtbank familiekamer + Italian Tribunale per i minorenni / sezione famiglia. PA-adjacent fact-patterns are litigated at this forum at first instance.
 - **Code judiciaire art. 1004/1 et suiv.** — Code judiciaire — désignation des experts judiciaires (CTU equivalent) (2007) — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
@@ -128,6 +128,8 @@ Belgian Cour de cassation and Cours d'appel anonymise minor children consistentl
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -18,7 +18,7 @@ Belgium: IEFH/IGVM (Institut pour l'égalité des femmes et des hommes / Institu
 
 ## Structural findings
 
-- 19 verified v1 entries across 6 EU jurisdictions (DE 3 / FR 6 / ES 3 / IT 3 / NL 2 / BE 2). The EU bloc constitutes the single most institutionally elaborated PA-critique apex-court coalition globally: BVerfG 1 BvR 1076/23 (DE 2023), Cassazione 9691/2022 + 13217/2021 + 4595/2025 (IT), LOPIVI Disp. ad. 17a (ES 2021), and the IEFH/IGVM 2023/001 federal-regulator framework (BE).
+- 19 verified v1 entries across 6 EU jurisdictions (DE 3 / FR 6 / ES 3 / IT 3 / NL 2 / BE 2). The EU bloc constitutes the single most institutionally elaborated PA-critique apex-court coalition globally: [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (DE 2023), [Cassazione](https://www.cortedicassazione.it/) 9691/2022 + 13217/2021 + 4595/2025 (IT), LOPIVI Disp. ad. 17a (ES 2021), and the IEFH/IGVM 2023/001 federal-regulator framework (BE).
 - Italy Cassazione apex critique consolidation: Cass. civ. sez. I 13217/2021 (first major sez. I PAS rejection) → ord. 24 marzo 2022 n. 9691 caso Massaro (sentenza Acierno, the most-cited European Supreme Court rejection of PAS as scientific basis for residence-transfer) → ord. 2025 n. 4595 (sustained doctrinal line). The triple-citation IT line is the European reference for comparative-law critique anchors and reciprocally cited by Colombia Corte Constitucional T-526/2023 and Chile Boletín 10.516-18 commentary.
 - Spain LOPIVI (Ley Orgánica 8/2021) Disposición adicional 17a is the only EU statutory inadmission of SAP framework as evidentiary basis in family-law proceedings. Themis 2024 'Tratamiento judicial' study documents that SAP still appears in ≈3.48% of analysed family-court rulings despite the LOPIVI exclusion — pointing to the gap between statutory inadmission and practitioner-level implementation. Themis-led Manifiesto jurídico feminista contra la Guía pro-SAP del CGPJ produced CGPJ withdrawal of the pro-SAP Guide.
 - Germany BVerfG 1 BvR 1076/23 (17.11.2023, 1. Senat 3. Kammer) is the strongest European apex-court constitutional rejection of PAS as scientific basis for Aufenthaltsbestimmungsrecht transfer — explicit holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' und therefore did not provide a kindeswohlorientierte basis. Counsel of record: Kerstin Bielefeld (RA Köln) — only attorney in DE with a published BVerfG win that explicitly classifies PAS as pseudoscientific.
@@ -42,7 +42,7 @@ Belgium: IEFH/IGVM (Institut pour l'égalité des femmes et des hommes / Institu
 
 ### SCP Waquet, Farge et Hazan
 *Avocats au Conseil d'État et à la [Cour de cassation](https://www.courdecassation.fr/) (SCP)*
-Paris · Île-de-France · Ordre des avocats au Conseil d'État et à la Cour de cassation (60-firm closed corporation)
+Paris · Île-de-France · Ordre des avocats au Conseil d'État et à la [Cour de cassation](https://www.courdecassation.fr/) (60-firm closed corporation)
 
 **Stance:** Counsel of record before the Cour de cassation in Cass. 1re civ., 26 juin 2013, n° 12-14.392 — the first apex French SAP-recognition arrêt (Sophie Paricard / Michèle Bauer practitioner-camp commentary treats it as the FR jurisprudential anchor). Recognition stance is a filing-position attribution: SCP was counsel for the party whose theory the Cour de cassation upheld, legally consolidating the SAP-framed decision in French family law. Only French avocats-aux-Conseils firm publicly tied to a Cour de cassation arrêt naming aliénation parentale.
 
@@ -280,7 +280,7 @@ Padova / Roma · Veneto / Lazio · Studio Legale Marina Marconato; Consiglio del
 **Stance:** One of the few Italian individual avvocati with a publicly indexed 'alienazione parentale' practice page from the critique camp — verifiable, citable, contactable. Publishes on Cassazione decisions rejecting alienazione parentale / bigenitorialità forzosa and protecting minors. Marconato, 'IO RESTO QUI. I minori e la protezione della [Corte di Cassazione](https://www.cortedicassazione.it/): NO alla alienazione parentale ed alla bigenitorialità forzosa' and firm-site practice page on Cass. civ. I 9691/2022 and follow-on jurisprudence.
 
 **Publications:**
-- IO RESTO QUI. I minori e la protezione della Corte di Cassazione: NO alla alienazione parentale ed alla bigenitorialità forzosa (2022) — *Studio Legale Marina Marconato* — <http://studiolegalemarinamarconato.it/io-resto-qui-i-minori-e-la-protezione-della-corte-di-cassazione-no-alla-alienazione-parentale-e-alla-bigenitorialita-forzosa/>
+- IO RESTO QUI. I minori e la protezione della [Corte di Cassazione](https://www.cortedicassazione.it/): NO alla alienazione parentale ed alla bigenitorialità forzosa (2022) — *Studio Legale Marina Marconato* — <http://studiolegalemarinamarconato.it/io-resto-qui-i-minori-e-la-protezione-della-corte-di-cassazione-no-alla-alienazione-parentale-e-alla-bigenitorialita-forzosa/>
 - Alienazione parentale — practice page (2022) — *Studio Legale Marina Marconato* — <https://www.studiolegalemarinamarconato.it/news/1/alienazione-parentale>
 
 **Verification:**
@@ -302,7 +302,7 @@ Padova / Roma · Veneto / Lazio · Studio Legale Marina Marconato; Consiglio del
 *Rechtsanwältin; DAV-Vorstandsmitglied; Vorsitzende DAV-Familienrechtsausschuss*
 Berlin · Berlin · Becker Rechtsanwälte (Berlin); Deutscher Anwaltverein (DAV) Familienrechtsausschuss; Rechtsanwaltskammer Berlin
 
-**Stance:** Chair of the DAV-Familienrechtsausschuss — the standing committee that drafts the German Bar's official policy positions on family-law reform. DAV-AG Familienrecht FamR newsroom series (FamR 01/23, 12/24, 23/24, 25/24, 3/26) consistently publishes case-law commentary critical of PAS-based gutachten while engaging with alienating-behaviour evidence — the procedural-reform / differentiated-approach middle pole. FamR 3/26 'Gericht weist PAS-Gutachten zurück und stärkt Kindeswillen' (OLG Frankfurt 05.01.2026 commentary) reiterates that 'das Bundesverfassungsgericht die PAS-These als pseudowissenschaftlich eingestuft'. Single highest-leverage institutional contact in DE.
+**Stance:** Chair of the DAV-Familienrechtsausschuss — the standing committee that drafts the German Bar's official policy positions on family-law reform. DAV-AG Familienrecht FamR newsroom series (FamR 01/23, 12/24, 23/24, 25/24, 3/26) consistently publishes case-law commentary critical of PAS-based gutachten while engaging with alienating-behaviour evidence — the procedural-reform / differentiated-approach middle pole. FamR 3/26 'Gericht weist PAS-Gutachten zurück und stärkt Kindeswillen' (OLG Frankfurt 05.01.2026 commentary) reiterates that 'das [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) die PAS-These als pseudowissenschaftlich eingestuft'. Single highest-leverage institutional contact in DE.
 
 **Publications:**
 - FamR 3/26 — Gericht weist PAS-Gutachten zurück und stärkt Kindeswillen (2026) — *DAV-Familienrechtsausschuss newsroom* — <https://anwaltverein.de/newsroom/famr-3-26-gericht-weist-pas-gutachten-zurueck-und-staerkt-kindeswillen>
@@ -512,6 +512,8 @@ Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

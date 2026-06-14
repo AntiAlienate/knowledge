@@ -32,7 +32,7 @@ New Zealand is a common-law jurisdiction whose family-law architecture is the Ca
 
 ### [Supreme Court of New Zealand](https://www.courtsofnz.govt.nz/the-courts/supreme-court/)
 <https://www.courtsofnz.govt.nz/the-courts/supreme-court/>
-- **Supreme Court of New Zealand has issued no parental-alienation-specific apex decision. Family Court decisions on s.133 reports and s.46G counselling are typically resolved at Family Court / District Court level with appeal to the High Court. Apex review of PA-construct engagement has not occurred.** (2026) — middle
+- **[Supreme Court of New Zealand](https://www.courtsofnz.govt.nz/the-courts/supreme-court/) has issued no parental-alienation-specific apex decision. Family Court decisions on s.133 reports and s.46G counselling are typically resolved at Family Court / District Court level with appeal to the High Court. Apex review of PA-construct engagement has not occurred.** (2026) — middle
 
 ### Court of Appeal of New Zealand
 <https://www.courtsofnz.govt.nz/the-courts/court-of-appeal/>
@@ -126,6 +126,8 @@ Family Court of New Zealand proceedings under the Care of Children Act 2004 are 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

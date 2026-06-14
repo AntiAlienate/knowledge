@@ -37,7 +37,7 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 ## Key developments
 
 - **1986** — Federal Family Law comprehensive reform.
-- **1989** — San Marino joined the Council of Europe; ECHR became applicable.
+- **1989** — San Marino joined the [Council of Europe](https://www.coe.int/); ECHR became applicable.
 - **2007** — San Marino acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2007.
 - **2014** — Federal law on filiation reform enacted.
 
@@ -72,6 +72,8 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -104,7 +104,7 @@ The abducting parent will frequently invoke Hague Art. 13(b) — claiming return
 |---|---|
 | Hiring only a US lawyer | Hire US + foreign lawyer; they coordinate |
 | Filing Hague petition alone without local counsel | Always pair with foreign lawyer |
-| Ignoring ECHR Article 8 | Cite it heavily — directly binding on foreign court |
+| Ignoring [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) | Cite it heavily — directly binding on foreign court |
 | Engaging media early | Often hurts; the abducting parent uses media coverage for the 13(b) defense |
 | Stopping support payments | Stops your legal-good-standing; pay through escrow if needed |
 | Going to media before exhausting legal layers | Erodes credibility; courts disfavor media-driven cases |
@@ -134,7 +134,7 @@ The abducting parent will frequently invoke Hague Art. 13(b) — claiming return
 ## Citations
 
 - Hague Convention on the Civil Aspects of International Child Abduction (1980)
-- ICARA (International Child Abduction Remedies Act), 22 U.S.C. § 9001 et seq.
+- [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) (International Child Abduction Remedies Act), 22 U.S.C. § 9001 et seq.
 - *Abbott v. Abbott*, 560 U.S. 1 (2010)
 - 18 U.S.C. § 1204 (International Parental Kidnapping Crime Act)
 - Council Regulation (EU) 2019/1111 (Brussels IIb)
@@ -147,6 +147,8 @@ Educational content. **Not legal advice.** Hague matters are highly time-critica
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

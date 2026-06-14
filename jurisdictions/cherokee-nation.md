@@ -18,7 +18,7 @@ The Cherokee Nation (ᏣᎳᎩᎯ ᎠᏰᎵ Tsalagihi Ayeli in Cherokee, meaning
 - **Cherokee Nation Code Title 43 (Family Law)** — Cherokee Nation Code Title 43 — Family Law (1976) — <https://www.cherokee.org/>
   - Cherokee Nation Code provisions governing family-law matters including parental responsibility and child custody.
 - **Cherokee Nation v Georgia 30 U.S. 1 (1831)** — Cherokee Nation v Georgia (1831) — <https://www.supremecourt.gov/>
-  - Foundational US Supreme Court decision establishing Indian tribes as 'domestic dependent nations' under federal-trust framework.
+  - Foundational [US Supreme Court](https://www.supremecourt.gov/) decision establishing Indian tribes as 'domestic dependent nations' under federal-trust framework.
 - **Worcester v Georgia 31 U.S. 515 (1832)** — Worcester v Georgia (1832) — <https://www.supremecourt.gov/>
   - Foundational US Supreme Court decision establishing Cherokee Nation sovereignty over internal affairs free from state interference.
 - **McGirt v Oklahoma 591 U.S. ___ (2020)** — McGirt v Oklahoma (2020) — <https://www.supremecourt.gov/>
@@ -89,6 +89,8 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

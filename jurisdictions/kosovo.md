@@ -18,7 +18,7 @@ Kosovo is a Balkan civil-law unitary republic — partially recognised internati
 - **Law on Child Protection 2019 (Law 06/L-084)** — Law on Child Protection (2019) — <https://www.gjyqesori-rks.org/>
   - Federal Law on Child Protection codifying child welfare provisions aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **Constitution 2008 art. 22 — direct ECHR application** — Constitution — Direct ECHR application (2008) — <https://www.gjk-ks.org/>
-  - Constitutional provision making ECHR directly applicable in Kosovo despite non-membership in Council of Europe.
+  - Constitutional provision making ECHR directly applicable in Kosovo despite non-membership in [Council of Europe](https://www.coe.int/).
 
 ## Apex courts
 
@@ -74,6 +74,8 @@ Kosovar family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

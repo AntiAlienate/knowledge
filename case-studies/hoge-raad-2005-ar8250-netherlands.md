@@ -66,7 +66,7 @@ Cassatieberoep verworpen; de veroordeling van het Gerechtshof Amsterdam (werkstr
 
 ## Comparative jurisprudence
 
-- **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23** (DE) — [`case-study:bverfg-1-bvr-1076-23-germany-2023`](./case-study:bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court — operates on the opposite end of the civil-law toolbox: where the Hoge Raad extends the criminal law to wilful obstruction of contact between co-custodians, the BVerfG limits civil family-court use of PAS-based expert evidence. Together they show two different civil-law systems calibrating enforcement against alienation along very different vectors (NL: art. 279 Sr criminalisation; DE: constitutional limits on diagnostic constructs).
+- **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23** (DE) — [`case-study:bverfg-1-bvr-1076-23-germany-2023`](./case-study:bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court — operates on the opposite end of the civil-law toolbox: where the Hoge Raad extends the criminal law to wilful obstruction of contact between co-custodians, the [BVerfG](https://www.bundesverfassungsgericht.de/) limits civil family-court use of PAS-based expert evidence. Together they show two different civil-law systems calibrating enforcement against alienation along very different vectors (NL: art. 279 Sr criminalisation; DE: constitutional limits on diagnostic constructs).
 - **[Cassazione](https://www.cortedicassazione.it/) civile sez. I, ord. 24 marzo 2022, n. 9691** (IT) — [`case-study:cassazione-9691-2022-italy`](./case-study:cassazione-9691-2022-italy.md) — Italian Court of Cassation — leading civil-law authority cautioning against using parental-alienation diagnostic constructs as the basis for residence transfer. The Hoge Raad arrest sits comfortably alongside it because its analysis is strictly criminal-law statutory construction of art. 279 Sr and is silent on PAS; the two arrests jointly illustrate that civil-law enforcement of contact can rest on statutory text without endorsing any clinical syndrome.
 - **Re Y [2026] EWFC 38** (UK-EWS) — [`case-study:re-y-2026-ewfc-38`](./case-study:re-y-2026-ewfc-38.md) — England & Wales — Sir Andrew McFarlane P on the limits of unregulated PA-evaluator evidence in civil family proceedings. Comparative interest: where England keeps the entire enforcement architecture inside civil family-court machinery, the Hoge Raad arrest demonstrates the civil-law alternative of layering criminal liability under art. 279 Sr on top of civil omgangsregeling enforcement. The Dutch practitioner consensus (VBS Advocaten, Rutten x Welling) is nevertheless that art. 279 Sr should be a last resort after civil routes.
 
@@ -123,7 +123,7 @@ Cassatieberoep verworpen; de veroordeling van het Gerechtshof Amsterdam (werkstr
 - Parties anonymised on Rechtspraak.nl per the Hoge Raad's privacy convention in family-adjacent criminal arrests; the entry preserves that anonymisation strictly.
 - Verbatim Dutch quotation 'degene die mede het gezag … onttrekken' is the consensus formulation of the decisive ratio as quoted in the FJR 2010/24 case-note (Dorhout), the Stichting VKC practitioner guide, and the Stichting KOG note. It is presented here in Dutch with an English translation per the schema's verbatim_quotes contract.
 - BW Boek 1 art. 247–253 are the civil-law backdrop establishing ouderlijk gezag and the omgangsregeling that art. 279 Sr operates upon; they are listed in sources as the statutory anchor without implying that the Hoge Raad construed them directly in this arrest.
-- The arrest is silent on the clinical or doctrinal vocabulary of ouderverstoting / parental alienation. Comparative cross-links to BVerfG 1 BvR 1076/23, Cassazione 9691/2022, and Re Y [2026] EWFC 38 are made on the basis of comparable underlying conduct (court-ordered contact obstruction by a co-custodial parent), not on shared diagnostic vocabulary.
+- The arrest is silent on the clinical or doctrinal vocabulary of ouderverstoting / parental alienation. Comparative cross-links to BVerfG 1 BvR 1076/23, [Cassazione](https://www.cortedicassazione.it/) 9691/2022, and Re Y [2026] EWFC 38 are made on the basis of comparable underlying conduct (court-ordered contact obstruction by a co-custodial parent), not on shared diagnostic vocabulary.
 - Dutch practitioner consensus, including VBS Advocaten and Rutten x Welling, is that art. 279 Sr should be treated as a last-resort remedy, with civil family-court enforcement of the omgangsregeling normally exhausted first.
 - The arrest operates gender-neutrally and symmetrically: both resident parents who deny contact and contact parents who fail to return the child can be prosecuted under art. 279 Sr (see Stichting KOG and the subsequent Rb Maastricht 2009 / Rb Haarlem 2009 applications).
 
@@ -132,6 +132,8 @@ Cassatieberoep verworpen; de veroordeling van het Gerechtshof Amsterdam (werkstr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

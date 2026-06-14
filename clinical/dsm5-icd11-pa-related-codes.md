@@ -27,7 +27,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 **Use in court:** Expert witnesses + custody evaluators can document the alienating parent's conduct as meeting V995.51 criteria — providing diagnostic-system anchoring without requiring a separate "PA" diagnosis.
 
-### DSM-5: V61.29 / Z62.898 — Child Affected by Parental Relationship Distress
+### [DSM-5](https://www.appi.org/products/dsm): V61.29 / Z62.898 — Child Affected by Parental Relationship Distress
 
 > "Used when the focus of clinical attention is the negative effects of parental relationship discord (e.g., high levels of conflict, distress, or disparagement) on a child in the family, including effects on the child's mental or other physical disorders."
 
@@ -49,7 +49,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 > "A pattern of falsification of medical signs and/or symptoms or induction of disease or injury in a person under one's care that is associated with identified deception."
 
-**PA-relevance:** WHO equivalent of DSM's V300.19 / F68.A. Same medical-child-abuse pattern, ICD-11 code. Useful in international or WHO-context cases.
+**PA-relevance:** WHO equivalent of DSM's V300.19 / F68.A. Same medical-child-abuse pattern, [ICD-11](https://icd.who.int/) code. Useful in international or WHO-context cases.
 
 ### ICD-11: 6B41 — Complex Post-Traumatic Stress Disorder
 
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

@@ -22,10 +22,10 @@ Peru is an Andean South American civil-law republic whose family-law framework o
 
 ## Apex courts
 
-### Supreme Court of Justice (Corte Suprema de Justicia)
+### Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/))
 <https://www.pj.gob.pe/>
 
-### Constitutional Court (Tribunal Constitucional)
+### Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/))
 <https://www.tc.gob.pe/>
 
 ## Professional regulators
@@ -73,6 +73,8 @@ Peruvian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -114,7 +114,7 @@ These refine application; they don't undermine the framework's clinical + court 
 
 ## Related entries
 
-- [research/warshak-2010.md](./warshak-2010.md) — Family Bridges intensive
+- [research/warshak-2010.md](./warshak-2010.md) — [Family Bridges](https://warshak.com/family-bridges/) intensive
 - [research/reay-2015.md](./reay-2015.md) — Family Reflections intensive alternative
 - [research/bernet-2010.md](./bernet-2010.md) — 5 essential criteria
 - [research/baker-2007.md](./baker-2007.md) — 8 behavioral indicators
@@ -127,6 +127,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

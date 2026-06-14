@@ -24,7 +24,7 @@ United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Irel
 
 ### [UK Supreme Court](https://www.supremecourt.uk/) (final appellate for SCO/NIR/E&W; ENG/WLS jurisdictionally unified)
 <https://www.supremecourt.uk/>
-- **UK Supreme Court is the apex final court of appeal for all UK constituent jurisdictions. Has not issued a UK-devolved-specific PA-construct apex decision.** (2026) — middle
+- **[UK Supreme Court](https://www.supremecourt.uk/) is the apex final court of appeal for all UK constituent jurisdictions. Has not issued a UK-devolved-specific PA-construct apex decision.** (2026) — middle
 
 ### Scotland — Court of Session Outer House
 <https://www.judiciary.scot/>
@@ -51,7 +51,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 
 - **1989** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — applies in England and Wales. — <https://www.legislation.gov.uk/ukpga/1989/41>
 - **1995** — Children (Scotland) Act 1995 + Children (NI) Order 1995 — substantive Scottish + NI children-law architecture. — <https://www.legislation.gov.uk/ukpga/1995/36/contents>
-- **2001** — Cafcass Cymru established as Welsh Government Sponsored Public Body — devolved Welsh Government institutional differentiation. — <https://gov.wales/cafcass-cymru>
+- **2001** — [Cafcass Cymru](https://www.cafcass.gov.uk/) established as Welsh Government Sponsored Public Body — devolved Welsh Government institutional differentiation. — <https://gov.wales/cafcass-cymru>
 - **2018** — April 2018 — Doughty/Maxwell/Slater Welsh-Government-commissioned 'Review of Research and Case Law on Parental Alienation' (Cardiff University). Frames PA as 'belief system'. — <https://gov.wales/>
 - **2021** — 2.9.2021 — Rt Hon Dame Siobhan Keegan DBE KC sworn as Lady Chief Justice of Northern Ireland (first woman in NI history). — <https://www.judiciaryni.uk/>
 - **2022** — August 2022 — O'Hara J A Father v A Mother (re NI, male child 10) (No. 2) — clearest current NI judicial alienating-style engagement. — <https://www.judiciaryni.uk/>
@@ -94,6 +94,8 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -59,7 +59,7 @@ Standardized tools provide structure; the clinical interview is where most evalu
 
 ### Don't try to game the [BPS](https://www.bps.org.uk/) through the child
 
-If the child takes the [BPS](https://www.bps.org.uk/), the alienator will sometimes coach. Counter: ensure your relationship with the child during your custody time is genuine + positive — the BPS score reflects actual relationship quality more than coached answers when properly administered.
+If the child takes the [BPS](https://www.bps.org.uk/), the alienator will sometimes coach. Counter: ensure your relationship with the child during your custody time is genuine + positive — the [BPS](https://www.bps.org.uk/) score reflects actual relationship quality more than coached answers when properly administered.
 
 ### Collateral interviews matter
 
@@ -111,6 +111,8 @@ Wiki entry, not clinical or legal advice. Always engage qualified forensic psych
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

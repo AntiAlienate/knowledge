@@ -23,7 +23,7 @@ The Dominican Republic is a Caribbean civil-law republic whose family-law framew
 ### Supreme Court of Justice (Suprema Corte de Justicia)
 <https://www.poderjudicial.gob.do/>
 
-### Constitutional Court (Tribunal Constitucional)
+### Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/))
 <https://www.tribunalconstitucional.gob.do/>
 
 ## Professional regulators
@@ -71,6 +71,8 @@ Dominican family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

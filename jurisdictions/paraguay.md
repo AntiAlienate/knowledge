@@ -20,7 +20,7 @@ Paraguay is a Southern Cone civil-law republic whose family-law framework operat
 
 ## Apex courts
 
-### Supreme Court of Justice (Corte Suprema de Justicia)
+### Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/))
 <https://www.pj.gov.py/>
 
 ## Professional regulators
@@ -66,6 +66,8 @@ Paraguayan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

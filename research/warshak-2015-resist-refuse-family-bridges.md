@@ -17,7 +17,7 @@ Dr Richard A. [Warshak](https://warshak.com/family-bridges/) (University of Texa
 
 ## The Resist-Refuse Continuum
 
-[Warshak's](https://warshak.com/family-bridges/) 2010 update of *Divorce Poison* and subsequent peer-reviewed papers (especially Warshak 2015 in *Professional Psychology: Research and Practice*) reframed PA assessment along a continuum rather than as a binary categorical judgment.
+[Warshak's](https://warshak.com/family-bridges/) 2010 update of *Divorce Poison* and subsequent peer-reviewed papers (especially [Warshak](https://warshak.com/family-bridges/) 2015 in *Professional Psychology: Research and Practice*) reframed PA assessment along a continuum rather than as a binary categorical judgment.
 
 The continuum poles:
 - **Affinity** (child prefers one parent for benign reasons — temperament, shared interests)
@@ -48,7 +48,7 @@ Warshak (2010) published outcomes from 23 children across 12 families:
 - Some cases regressed when post-intervention support was inadequate
 
 Subsequent peer-reviewed evaluations (Warshak 2015, 2018, 2020) confirmed:
-- Family Bridges achieves reunification where prior interventions failed
+- [Family Bridges](https://warshak.com/family-bridges/) achieves reunification where prior interventions failed
 - Outcomes correlate with quality of post-workshop support
 - The 4-day intensive + transfer model is more effective than incremental approaches in severe cases
 
@@ -113,6 +113,8 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

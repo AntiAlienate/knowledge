@@ -166,7 +166,7 @@ Ottawa · Ontario / Quebec · Director of Legal Affairs, National Association of
 *PhD (Tilburg University 2013); MSW Clinical (University of Calgary 1990); Registered Social Worker (ACSW #1432); RPT-S (Assoc for Play Therapy); CPT-S (CACPT)*
 Calgary · Alberta · Co-owner and Clinical Director, Rocky Mountain Play Therapy Institute; Yasenik & Associates; co-founder International Centre for Children and Family Law (ICCFL)
 
-**Stance:** [AFCC](https://www.afccnet.org/)-aligned child-inclusive practice using the Yasenik & Graham *Out of the Mouths of Babes* model and the *Decision-Making in Child Inclusive Practice* framework (ICCFL). Engages both alienating-behaviour and family-violence frames, anchored in the Fidler / Bala / [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) differential approach. ~58 court appearances as expert witness in Alberta high-conflict parenting matters. AFCC Alberta PWG on Parenting Coordination member. Closest Alberta analogue to Joan Kelly's differential approach.
+**Stance:** [AFCC](https://www.afccnet.org/)-aligned child-inclusive practice using the Yasenik & Graham *Out of the Mouths of Babes* model and the *Decision-Making in Child Inclusive Practice* framework (ICCFL). Engages both alienating-behaviour and family-violence frames, anchored in the Fidler / Bala / [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) differential approach. ~58 court appearances as expert witness in Alberta high-conflict parenting matters. [AFCC](https://www.afccnet.org/) Alberta PWG on Parenting Coordination member. Closest Alberta analogue to Joan Kelly's differential approach.
 
 **Publications:**
 - Out of the Mouths of Babes: A Hearing-the-Voices-of-Children Practice Model in Child Inclusive Family Law (2013) — *Tilburg University PhD dissertation*
@@ -212,7 +212,7 @@ London · Ontario · Distinguished University Professor Emerita, School of Socia
 *PhD and MSW (University of Toronto); BSW (Lakehead); Registered Social Worker (OCSWSSW)*
 Toronto · Ontario · Professor and Factor-Inwentash Chair in Law and Social Work, Factor-Inwentash Faculty of Social Work, University of Toronto; cross-appointed Faculty of Law
 
-**Stance:** Social-work co-author of the canonical Canadian differential model (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2013, OUP). Saini (2008) Evidence Base of Custody and Access Evaluations remains the reference Canadian methodological audit of evaluator quality. AFCC-aligned differential approach to parent-child contact problems with formal Faculty-of-Law cross-appointment. Cleanest U of T-affiliated middle voice for academic citation.
+**Stance:** Social-work co-author of the canonical Canadian differential model (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2013, OUP). [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) (2008) Evidence Base of Custody and Access Evaluations remains the reference Canadian methodological audit of evaluator quality. AFCC-aligned differential approach to parent-child contact problems with formal Faculty-of-Law cross-appointment. Cleanest U of T-affiliated middle voice for academic citation.
 
 **Publications:**
 - Children Who Resist Post-Separation Parental Contact: A Differential Approach (2013) — *Oxford University Press (co-author with Fidler and Bala)*
@@ -389,7 +389,7 @@ Kingston · Ontario · Professor, Faculty of Law, Queen's University; co-author 
 *BComm; LLB; Law Society of Ontario*
 Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody Battle (New Harbinger 2014)
 
-**Stance:** Co-author with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (US) and J. Michael Bone (US) of *The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation* (New Harbinger 2014). Most-prominent Canadian lawyer in the PASG / recognition-camp policy network with sustained cross-border US referral practice. Functions as the Canadian Ludmer equivalent of the US PASG legal-policy anchor; cross-links to /practitioners/lawyers/canada and to US-based recognition-camp lawyer infrastructure.
+**Stance:** Co-author with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (US) and J. Michael Bone (US) of *The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation* (New Harbinger 2014). Most-prominent Canadian lawyer in the [PASG](https://pasg.info/) / recognition-camp policy network with sustained cross-border US referral practice. Functions as the Canadian Ludmer equivalent of the US PASG legal-policy anchor; cross-links to /practitioners/lawyers/canada and to US-based recognition-camp lawyer infrastructure.
 
 **Publications:**
 - The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation (2014) — *New Harbinger Publications (with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) and J. Michael Bone)*
@@ -494,6 +494,8 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -520,9 +522,9 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
 ## Related on antialienate.com
 
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
+- [Global Crackdown Parental Alienation Laws](https://www.antialienate.com/blog/global-crackdown-parental-alienation-laws)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
 - [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
-- [How To Prove Psychological Damage From Parental Alienation](https://www.antialienate.com/blog/how-to-prove-psychological-damage-from-parental-alienation)
-- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
 
 <!-- AA-CROSSLINK-END -->

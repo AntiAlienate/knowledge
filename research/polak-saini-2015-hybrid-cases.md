@@ -45,7 +45,7 @@ Hybrid cases involve:
 - Proportional cause ALSO present (rejected parent has done something to which rejection is, in part, a response)
 - Child's rejection is OVER-PROPORTIONAL — some of the rejection is justified, some is induced
 
-Polak and Saini argue: hybrid cases require intervention targeting BOTH the alienating behaviors AND the underlying issues with the rejected parent. Targeting only one half misses the case dynamics.
+Polak and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) argue: hybrid cases require intervention targeting BOTH the alienating behaviors AND the underlying issues with the rejected parent. Targeting only one half misses the case dynamics.
 
 ## Clinical Implications
 
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

@@ -59,7 +59,7 @@ USVI family-court decisions are anonymised per Supreme Court practice using init
 
 1. **Supreme Court of the US Virgin Islands** — <https://www.visupremecourt.org/> (Supreme Court) [en]
 2. **Virgin Islands Department of Health** — <https://doh.vi.gov/> (Department of Health) [en]
-3. **US Supreme Court** — <https://www.supremecourt.gov/> (US Supreme Court) [en]
+3. **[US Supreme Court](https://www.supremecourt.gov/)** — <https://www.supremecourt.gov/> (US Supreme Court) [en]
 
 ## Editorial notes
 
@@ -71,6 +71,8 @@ USVI family-court decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

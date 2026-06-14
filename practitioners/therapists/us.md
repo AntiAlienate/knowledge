@@ -23,7 +23,7 @@ Regulatory disclosure: Randy Rand, EdD (co-developer of [Family Bridges](https:/
 *PhD (Clinical Psychology)*
 Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychology, UT Southwestern Medical Center; co-developer [Family Bridges](https://warshak.com/family-bridges/) reunification workshop
 
-**Stance:** Author of the most-cited Family Bridges outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed Family Bridges with Randy Rand (now excluded — see excluded[]). Position is [PASG](https://pasg.info/)-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
+**Stance:** Author of the most-cited [Family Bridges](https://warshak.com/family-bridges/) outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed Family Bridges with Randy Rand (now excluded — see excluded[]). Position is [PASG](https://pasg.info/)-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
 
 **Publications:**
 - Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children (2010) — *Family Court Review 48(1):48-80* — <https://onlinelibrary.wiley.com/doi/10.1111/j.1744-1617.2009.01288.x>
@@ -51,7 +51,7 @@ New York City · NY · Turning Points for Families ([TPFF](https://turningpoints
 
 **Publications:**
 - The Parental Alienation Syndrome: A Family Therapy and Collaborative Systems Approach to Amelioration (2012) — *Charles C. Thomas Publisher*
-- Turning Points for Families intensive (programme) (2010) — *TPFF*
+- Turning Points for Families intensive (programme) (2010) — *[TPFF](https://turningpointsforfamilies.com/)*
 
 **Verification:**
 - <https://lindagottlieb.com/>
@@ -59,7 +59,7 @@ New York City · NY · Turning Points for Families ([TPFF](https://turningpoints
 
 **Contact:** NYLmft@gmail.com
 
-*Notes: NY licensure verifiable via NY Office of the Professions search; practice statement on lindagottlieb.com confirms PASG-aligned framing. TPFF practitioner claim of 1,500+ adversarial-custody testimonies is self-reported.*
+*Notes: NY licensure verifiable via NY Office of the Professions search; practice statement on lindagottlieb.com confirms [PASG](https://pasg.info/)-aligned framing. TPFF practitioner claim of 1,500+ adversarial-custody testimonies is self-reported.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:us.warshak-richard`
 
@@ -73,7 +73,7 @@ Pasadena (CA practice history); Washington licensure · WA · Independent clinic
 
 **Publications:**
 - An Attachment-Based Model of Parental Alienation: Foundations (2015) — *Oaksong Press* — <https://www.amazon.com/dp/0996114505>
-- Catalogue of Concerns (critique of AFCC evaluator training) (2018) — *drcraigchildressblog.com*
+- Catalogue of Concerns (critique of [AFCC](https://www.afccnet.org/) evaluator training) (2018) — *drcraigchildressblog.com*
 
 **Verification:**
 - <https://drcraigchildressblog.com/>
@@ -119,7 +119,7 @@ Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University Schoo
 **Publications:**
 - Child Affected by Parental Relationship Distress: New Disorder in [DSM-5](https://www.appi.org/products/dsm) (CAPRD framework) (2016) — *Journal of the American Academy of Child & Adolescent Psychiatry 55(7):571-579 (Bernet, Wamboldt & Narrow)*
 - Parental Alienation: Science and Law (2020) — *Charles C. Thomas (with Lorandos)*
-- Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/) (2010) — *Charles C. Thomas*
+- Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/) (2010) — *Charles C. Thomas*
 - Five-Factor Model for the Diagnosis of Parental Alienation (2022) — *JAACAP / PASG* — <https://ckm.vumc.org/pasg/content/five-factor-model-diagnosis-parental-alienation>
 
 **Verification:**
@@ -170,7 +170,7 @@ Clearwater · FL · The Center For Human Potential of America, Inc. (Clearwater,
 
 **Contact:** 2430 Estancia Blvd, Clearwater, FL 33761; https://drbobevans.com/contact/
 
-*Notes: Florida Licensed School Psychologist (since 1987) — flag carefully; this is a school-psychology licence, not a full-scope psychologist licence. NAOPAS co-founder. Family Bridges reunification specialist trained under Warshak/Rand lineage.*
+*Notes: Florida Licensed School Psychologist (since 1987) — flag carefully; this is a school-psychology licence, not a full-scope psychologist licence. NAOPAS co-founder. Family Bridges reunification specialist trained under [Warshak](https://warshak.com/family-bridges/)/Rand lineage.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:us.warshak-richard`, `practitioner:us.bone-j-michael`
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

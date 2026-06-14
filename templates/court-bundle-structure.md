@@ -132,6 +132,8 @@ For high-volume cases, a portable Brother PJ7-series mobile thermal printer + a 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

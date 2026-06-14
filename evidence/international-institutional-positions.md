@@ -29,7 +29,7 @@ A cross-jurisdictional thematic summary of institutional positions taken by prof
 - **Strumia v Italy** (App no 53377/13, 23 June 2016) — Italian authorities failed to safeguard father-child relationship after mother's alienating behaviour. Cross-link: case-study:strumia-v-italy-echr-53377-13-2016.
 - **Improta v Italy** (App no 66396/14, 4 May 2017) — Italian authorities' failure to enforce contact and address alienating behaviour by primary carer. Cross-link: case-study:improta-v-italy-echr-66396-14-2017.
 
-Triptych establishes Article 8 procedural-due-diligence positive obligation: member states must take 'adequate and effective measures' to enable parent-child contact restoration. Subsequently engaged in Cassazione 9691/2022 (Italy).
+Triptych establishes Article 8 procedural-due-diligence positive obligation: member states must take 'adequate and effective measures' to enable parent-child contact restoration. Subsequently engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy).
 
 ### UN / Inter-American
 - **UN Special Rapporteur on Violence against Women Reem Alsalem — Report A/HRC/53/36 (12 August 2022)** — addresses PA construct as tactic against DV-survivor mothers. Subsequently cited internationally as critique-anchor (Corte Constitucional Colombia T-526/2023; IEFH/IGVM Belgium Recommandation 2023/001; multiple LATAM5 institutional anchors).
@@ -128,6 +128,8 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -159,9 +161,9 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 
 ## Related on antialienate.com
 
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 

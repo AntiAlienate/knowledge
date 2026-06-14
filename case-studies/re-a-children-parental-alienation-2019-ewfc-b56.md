@@ -59,7 +59,7 @@ Wildblood J's broader teaching points (extracted from the judgment and subsequen
 
 Re A (Wildblood) is the English family court's clearest published acknowledgment that the system can simply fail a child and a parent, and that the failure is often distributed across institutions rather than blamable on a single bad actor. The phrase "every agency at fault" became part of family-law shorthand from this case. McFarlane P's use of similar language in Re Y (2026) is a direct intellectual descendant.
 
-For practitioners, Re A is the operating warning: do not wait. If a credible alienation case is emerging, the time to act is when intervention can still work, not after the children have hardened. For the children's guardian and Cafcass, the case is a standing rebuke to passive "wait and see" assessments in cases of escalating contact problems.
+For practitioners, Re A is the operating warning: do not wait. If a credible alienation case is emerging, the time to act is when intervention can still work, not after the children have hardened. For the children's guardian and [Cafcass](https://www.cafcass.gov.uk/), the case is a standing rebuke to passive "wait and see" assessments in cases of escalating contact problems.
 
 But Re A is also a cautionary tale about what "doing something" means. Wildblood J's judgment makes plain that the failed residence transfer was not the absence of action – it was action taken without adequate preparation. The lesson from Re A, properly read alongside Re S (2020) and Re Y (2026), is not just "act early" but "act well": with proper fact-finding, properly qualified experts, a planned transition, the school onboard, and a therapeutic team in place. Acting badly is worse than not acting; acting late may be worst of all. That tri-axis – act early, act on findings (Re S), but only after proper process (Re Y) – is the working frame any practitioner working in this area must now hold.
 
@@ -74,6 +74,8 @@ For affected parents, the brutal honesty of the judgment – the judge effective
 - [Family Law Week update](https://www.familylawweek.co.uk/site.aspx?i=ed199793)
 - [Sam King QC & Frankie Shama practitioner guide (free chapter)](https://www.lawbriefpublishing.com/2022/07/free-chapter-from-a-practical-guide-to-parental-alienation-in-private-and-public-law-children-cases-by-sam-king-qc-frankie-shama/)
 - [Karen Woodall – "Responding to cases of post-separation parental rejection" (2021)](https://s70fa8a3935caf190.jimcontent.com/download/version/1726402616/module/8172817981/name/Woodall%20N%20(2021)%20The%20alienated%20child%20Responding%20to%20cases%20of%20post%20separation%20parental%20rejection%20c.pdf)
+
+
 
 
 

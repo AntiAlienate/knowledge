@@ -38,7 +38,7 @@ Armenian family-court decisions are anonymised per Court of Cassation practice u
 ## Key developments
 
 - **1996** — Federal children's rights statute enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
-- **2001** — Armenia joined the Council of Europe; ECHR became applicable.
+- **2001** — Armenia joined the [Council of Europe](https://www.coe.int/); ECHR became applicable.
 - **2004** — Federal Family Code enacted effective 19 April 2005 codifying marriage, parental rights and child custody.
 - **2007** — Armenia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 June 2007.
 
@@ -72,6 +72,8 @@ Armenian family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

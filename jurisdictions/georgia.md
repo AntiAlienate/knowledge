@@ -16,7 +16,7 @@ Georgia is a South Caucasus civil-law unitary republic whose family-law framewor
 - **Civil Code of Georgia 1997 Book V arts. 1197-1250** — Civil Code Book V — Family Law (1997) — <https://www.matsne.gov.ge/>
   - Federal Civil Code Book V on Family Law enacted post-Soviet. Arts. 1197-1250 govern parental rights and child custody. Substantively reformed by 2017 amendments.
 - **Code on the Rights of the Child 5004-IIs of 2019** — Code on the Rights of the Child (2019) — <https://www.matsne.gov.ge/>
-  - Federal Code on the Rights of the Child aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations and Council of Europe child-protection standards.
+  - Federal Code on the Rights of the Child aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations and [Council of Europe](https://www.coe.int/) child-protection standards.
 - **Law on Mediation 2019 (Family Mediation provisions)** — Law on Mediation (2019) — <https://www.matsne.gov.ge/>
   - Federal law on mediation including family-mediation provisions.
 
@@ -75,6 +75,8 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

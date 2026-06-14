@@ -92,7 +92,7 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 - Reay, K.M. (2015). Family Reflections (Turning Points for Families) outcome study
 - Sullivan, M.J. (2016). Welcome Back Pikes Peak outpatient model outcomes
 - Templer, K., Matthewson, M., Haines, J., & Cox, G. (2017). Recommendations for best practices in response to parental alienation
-- Bentley & Matthewson 2020 — adult outcomes of childhood Family Bridges participation
+- Bentley & Matthewson 2020 — adult outcomes of childhood [Family Bridges](https://warshak.com/family-bridges/) participation
 
 ## Clinical adoption
 
@@ -113,13 +113,15 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 ## Sources
 
 - [Warshak](https://warshak.com/family-bridges/), R.A., & Otis, M.R. (2010). Helping alienated children with Family Bridges: Practice, research, and the pursuit of "humbition." *Family Court Review*, 48(1), 91-108. https://doi.org/10.1111/j.1744-1617.2009.01287.x
-- Warshak, R.A. (2010). Family Bridges: Using insights from social science to reconnect parents and alienated children. *Family Court Review*, 48(1), 48-80
+- [Warshak](https://warshak.com/family-bridges/), R.A. (2010). Family Bridges: Using insights from social science to reconnect parents and alienated children. *Family Court Review*, 48(1), 48-80
 - Warshak publications: https://warshak.com/publications/
 - Family Bridges program: https://warshak.com/family-bridges/
 
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Reunification protocol selection requires assessment by qualified mental-health professionals and court order.*
+
+
 
 
 

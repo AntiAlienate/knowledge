@@ -27,7 +27,7 @@ Manipur (মণিপুর in Meitei / Meitrabak in traditional Meitei nomencla
 ### Manipur High Court
 <https://www.hcmimphal.nic.in/>
 
-### Supreme Court of India
+### [Supreme Court of India](https://main.sci.gov.in/)
 <https://main.sci.gov.in/>
 
 ### Hill Areas Committee (HAC)
@@ -89,6 +89,8 @@ Manipur family-court decisions are anonymised per Indian court practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

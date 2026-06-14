@@ -18,7 +18,7 @@ Dr Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+al
 
 ## Empirical Foundation
 
-The 17 strategies emerged from Baker's earlier qualitative work — particularly her interviews with 40 adults who had been alienated as children and later reconciled (or attempted to) with the targeted parent. From those interviews, Baker identified what the targeted parents had done that the adult children later recognized as having mattered, and what backfired.
+The 17 strategies emerged from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) earlier qualitative work — particularly her interviews with 40 adults who had been alienated as children and later reconciled (or attempted to) with the targeted parent. From those interviews, Baker identified what the targeted parents had done that the adult children later recognized as having mattered, and what backfired.
 
 Key empirical findings underlying the framework:
 - Targeted parents who never disparaged the alienating parent in front of the child were far more often reconciled with later
@@ -95,6 +95,8 @@ Where Bernet diagnoses and Harman conceptualizes, Baker-Fine **operationalizes**
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+
 
 
 

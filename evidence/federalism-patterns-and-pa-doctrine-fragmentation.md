@@ -37,7 +37,7 @@ Jurisdictions with unified family-law architecture without significant federalis
 
 **Wales** — Shares unified E&W substantive frame with [Cafcass Cymru](https://www.cafcass.gov.uk/) devolved Welsh Government institutional differentiation. Cross-link: jurisdiction:wales.
 
-**Italy** — Unified Italian Civil Code + [Cassazione](https://www.cortedicassazione.it/) apex. Riforma Cartabia D.lgs. 149/2022 + Cassazione triad operate at unified national level. Cross-link: jurisdiction:italy.
+**Italy** — Unified Italian Civil Code + [Cassazione](https://www.cortedicassazione.it/) apex. Riforma Cartabia D.lgs. 149/2022 + [Cassazione](https://www.cortedicassazione.it/) triad operate at unified national level. Cross-link: jurisdiction:italy.
 
 **Germany** — Unified Civil Code + [BVerfG](https://www.bundesverfassungsgericht.de/) constitutional jurisdiction + OLG appellate. Federal Republic but family-law substantively unified at Bundes level. Cross-link: jurisdiction:germany.
 
@@ -89,7 +89,7 @@ UK 4-constituent jurisdiction (E&W + Scotland + NI + Wales-as-institutional-sub-
 India operates federal + personal-law fragmentation simultaneously. Federal HMA + HMGA apply to Hindus; parallel Muslim/Christian/Parsi/Special Marriage Act personal-law statutes operate for other communities. Personal-law fragmentation adds doctrinal complexity alongside federal-state-level variation. Vivek Singh 2017 SC operates unification at Supreme Court apex; Delhi HC binomial (ABC v XYZ + A v B) operates at state-level appellate.
 
 ### 8. Unitary EU jurisdictions doctrinally most coherent
-Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Netherlands + Belgium at federal level) produce doctrinally most coherent PA-apex jurisprudence. The EU 2017-2025 apex sequence (STS 519 ES + Cassazione triad IT + BVerfG DE + SN III CZP 20/25 PL) operates within unitary-jurisdictional architectures.
+Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Netherlands + Belgium at federal level) produce doctrinally most coherent PA-apex jurisprudence. The EU 2017-2025 apex sequence (STS 519 ES + Cassazione triad IT + [BVerfG](https://www.bundesverfassungsgericht.de/) DE + SN III CZP 20/25 PL) operates within unitary-jurisdictional architectures.
 
 ## Comparative federalism pattern table
 
@@ -103,7 +103,7 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 | **Brazil** | Federal-unified | Lei 12.318/2010 + ECA | state operational variation | CFP + CFESS federal | CRP/CRESS regional |
 | **Argentina** | Federal + provincial colegios | CCyC 2014 + leyes federales | provincial procedural | FePRA + AAPS | 7 provincial Colegios |
 | **India** | Federal + personal-law | HMA + HMGA + FCA 1984 + GWA | state operational | RCI + NMC + IPS + IAPP | state institutional |
-| **UK constituents** | 4 constituent unitary | UKSC apex + [HCPC](https://www.hcpc-uk.org/) UK-wide | E&W CA1989 + SCO + NI + WLS | HCPC + GMC + [BPS](https://www.bps.org.uk/) | constituent-level institutional |
+| **UK constituents** | 4 constituent unitary | UKSC apex + [HCPC](https://www.hcpc-uk.org/) UK-wide | E&W CA1989 + SCO + NI + WLS | [HCPC](https://www.hcpc-uk.org/) + GMC + [BPS](https://www.bps.org.uk/) | constituent-level institutional |
 | **Italy** | Unitary | [Codice Civile](https://www.brocardi.it/codice-civile/) + Riforma Cartabia | nil | CNOP federal | varies |
 | **Germany** | Federal-unitary | [BGB](https://www.gesetze-im-internet.de/bgb/) + Grundgesetz | Land institutional | BÄK + BPtK federal | Land-level institutional |
 | **Spain** | Unitary + autonomic | Código Civil + LOPIVI | Catalunya Codi civil + autonomies | COP federal | provincial colegios |
@@ -128,6 +128,8 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md*
+
+
 
 
 

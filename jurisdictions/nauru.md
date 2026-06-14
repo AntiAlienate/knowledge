@@ -20,7 +20,7 @@ Nauru is a Pacific mixed common-law/customary-law sovereign republic (independen
 - **Custody of Children Act** — Custody of Children Act (1973) — <https://www.paclii.org/nr/>
   - Nauruan Custody of Children Act governing parental responsibility and child custody.
 - **Nauru (High Court Appeals) Act 1976 (Australian Cth, repealed 2018)** — Nauru (High Court Appeals) Act 1976 (1976) — <https://www.legislation.gov.au/>
-  - Federal Australian Act establishing the High Court of Australia as the apex appellate court for Nauru 1976-2018 — unique constitutional arrangement repealed when Nauru established its own Court of Appeal.
+  - Federal Australian Act establishing the [High Court of Australia](https://www.hcourt.gov.au/) as the apex appellate court for Nauru 1976-2018 — unique constitutional arrangement repealed when Nauru established its own Court of Appeal.
 
 ## Apex courts
 
@@ -83,6 +83,8 @@ Nauruan family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

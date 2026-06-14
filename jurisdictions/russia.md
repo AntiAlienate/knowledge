@@ -43,8 +43,8 @@ Russian family-court decisions are anonymised per Supreme Court practice using i
 - **1995** — Federal Family Code enacted post-Soviet effective 1 March 1996.
 - **1998** — Federal children's rights statute enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2011** — Russia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 October 2011.
-- **2015** — Constitutional Court ruled on conditions for non-execution of ECHR judgments, partially limiting ECtHR effect in Russia.
-- **2022** — Russia exited the Council of Europe effective 16 March 2022; ECHR no longer applies.
+- **2015** — Constitutional Court ruled on conditions for non-execution of ECHR judgments, partially limiting [ECtHR](https://www.echr.coe.int/) effect in Russia.
+- **2022** — Russia exited the [Council of Europe](https://www.coe.int/) effective 16 March 2022; ECHR no longer applies.
 
 ## Structural findings
 
@@ -78,6 +78,8 @@ Russian family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

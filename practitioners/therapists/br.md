@@ -6,7 +6,7 @@ Brazil is the only world jurisdiction with substantive PA-statute codifying alie
 
 ## Structural findings
 
-- BRAZIL IS THE WORLD'S ONLY STATUTORY PA-RECOGNITION JURISDICTION: Lei 12.318/2010 art. 2 codifies alienating conduct as legally actionable. STF ADI 6273/2019 dismissed on standing without substantive constitutional ruling on the statute. STJ REsp 1859228/SP (Nancy Andrighi 2024) + REsp 2108750/GO (2024) define procedural application. Distinct from Spain (LOPIVI 2021 Disp. ad. 17ª — only world statutory PA-inadmission jurisdiction, opposite direction).
+- BRAZIL IS THE WORLD'S ONLY STATUTORY PA-RECOGNITION JURISDICTION: Lei 12.318/2010 art. 2 codifies alienating conduct as legally actionable. [STF](https://portal.stf.jus.br/) ADI 6273/2019 dismissed on standing without substantive constitutional ruling on the statute. STJ REsp 1859228/SP (Nancy Andrighi 2024) + REsp 2108750/GO (2024) define procedural application. Distinct from Spain (LOPIVI 2021 Disp. ad. 17ª — only world statutory PA-inadmission jurisdiction, opposite direction).
 - PROFESSIONAL-ASSOCIATION CRITIQUE-CAMP DENSITY UNIQUE IN LATAM5: CFP Nota Técnica 4/2022 + CFESS parallel position constitute the BRAZILIAN INSTITUTIONAL CRITIQUE ANCHOR. Brazil is the only LATAM jurisdiction where the institutional critique pole AND the clinical recognition pole are ROUGHLY EQUAL in institutional weight. Distinct from Chile (CdPCh silent; rechazo via Cámara+Ejecutivo+ANMM) + Mexico (SMP silent; doctrine via SCJN AI 11/2016) + Colombia (COLPSIC 2017→2023 pivot; 5-authority coalition T-526/2023) + Argentina (FePRA + 7 provincial colegios; no statutory recognition).
 - IBDFAM AS LEGAL-ACADEMIC ANCHOR: Instituto Brasileiro de Direito de Família is the load-bearing Brazilian legal-academic association on family law, including the AP doctrine. IBDFAM positions inform STJ case-law engagement with Lei 12.318/2010 + Constitution 1988 art. 227 (children's-rights paramountcy).
 - STJ NANCY ANDRIGHI AS LOAD-BEARING JUDICIAL FIGURE: Ministra Nancy Andrighi (STJ Third Section) is the author of multiple leading STJ decisions on Lei 12.318/2010 application including REsp 1859228/SP (2024). Functionally analogous to Debbie Ong J (Singapore TEN v TEO) or Lord Stuart (Scotland NF v AF) as a single judicial author shaping a national PA-construct apex jurisprudence.
@@ -81,6 +81,8 @@ Belo Horizonte · Minas Gerais · Instituto Brasileiro de Direito de Família �
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

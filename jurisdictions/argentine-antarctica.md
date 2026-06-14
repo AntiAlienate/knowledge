@@ -27,7 +27,7 @@ Argentine Antarctica (Antártida Argentina) is an Antarctic civil-law Argentine 
 ### Superior Court of Justice of Tierra del Fuego (Superior Tribunal de Justicia de Tierra del Fuego, Antártida e Islas del Atlántico Sur)
 <https://www.justierradelfuego.gov.ar/>
 
-### Supreme Court of Argentina (Corte Suprema de Justicia de la Nación)
+### Supreme Court of Argentina ([Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/))
 <https://www.csjn.gov.ar/>
 
 ## Professional regulators
@@ -83,6 +83,8 @@ Argentine Antarctic decisions are anonymised per Argentine court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
