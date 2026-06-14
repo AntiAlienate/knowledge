@@ -119,12 +119,14 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 - Strasbourg Italian triptych Lombardo+Strumia+Improta foregrounded as the leading Article 8 PA-adjacent jurisprudence — engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and structurally analogous to subsequent [BVerfG](https://www.bundesverfassungsgericht.de/) and SCJN apex engagement.
 - Multi-tier international critique-anchor structure (Strasbourg Art 8 + UN Alsalem 2022 + MESECVI 2023 + LATAM5 domestic-apex Colombia/Belgium) recognised in structural_findings[4] as convergent international PA-construct framing.
 - Hague Convention intersection (Neulinger + X v Latvia GC) preserved in structural_findings[5] — Hague return proceedings under Art 8 scrutiny.
-- ECHR jurisdiction treated as supranational entity (legal_system: supranational) covering 46 Council of Europe member states; supplementary to domestic-apex jurisdictions under Art 35(1).
+- ECHR jurisdiction treated as supranational entity (legal_system: supranational) covering 46 [Council of Europe](https://www.coe.int/) member states; supplementary to domestic-apex jurisdictions under Art 35(1).
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

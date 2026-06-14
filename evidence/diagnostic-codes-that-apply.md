@@ -64,7 +64,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 ### 1.3 V61.29 / Z62.898 — Child Affected by Parental Relationship Distress (CAPRD)
 
-**Location in DSM-5.** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, "Relational Problems," DSM-5 pages 715–716.
+**Location in [DSM-5](https://www.appi.org/products/dsm).** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, "Relational Problems," DSM-5 pages 715–716.
 
 **DSM-5 definition, verbatim.**
 
@@ -225,7 +225,7 @@ This strategy gives the report:
 The Bernet/Wamboldt/Narrow 2016 JAACAP article (§1.3 above) is the load-bearing citation when a forensic evaluator wants to argue that **CAPRD covers PA-pattern conduct**. Where the evaluator instead wants to argue that the conduct rises to **psychological abuse**, the corresponding doctrinal citations are:
 
 - Smith Slep, Heyman & Foran (2015). Child maltreatment in DSM-5 and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed DSM-5 (2013) and were being considered for [ICD-11](https://icd.who.int/); argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
-- Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in DSM-5, and proposed changes for ICD-11. *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The DSM-5 Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
+- Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in DSM-5, and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The DSM-5 Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
 
 These two 2015 *Family Process* papers are the methodological backbone for the proposition that the DSM-5 relational-problem and maltreatment codes have field-tested reliability adequate for forensic use.
 
@@ -357,7 +357,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 7.1 What you CAN defensibly write in a forensic report
 
-- "The clinical presentation meets DSM-5-TR criteria for **V61.20 / Z62.820 Parent-Child Relational Problem** in the [child]–[rejected parent] dyad, with specific behavioural manifestations including [list]."
+- "The clinical presentation meets [DSM-5-TR](https://www.appi.org/products/dsm) criteria for **V61.20 / Z62.820 Parent-Child Relational Problem** in the [child]–[rejected parent] dyad, with specific behavioural manifestations including [list]."
 - "The clinical presentation also meets DSM-5-TR criteria for **V61.29 / Z62.898 Child Affected by Parental Relationship Distress**, in that the child shows [list of effects] in response to documented inter-parental conflict and disparagement of the [rejected parent] by the [favoured parent]."
 - "Where the documented disparagement and instruction of the child against the [rejected parent] is sustained, nonaccidental, and verbal/symbolic in character, and where the documented child distress satisfies the threshold of significant psychological harm or reasonable potential for such harm under DSM-5-TR p. 719, the clinical presentation also meets criteria for **V995.51 / T74.32XA Child Psychological Abuse, Confirmed** (or T76.32XA Suspected, pending further investigation)."
 - "These findings have been made after differential-diagnosis ruling-out of estrangement secondary to maltreatment by the [rejected parent], consistent with the APSAC 2022 Position Statement and the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) multiple-hypotheses framework."
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

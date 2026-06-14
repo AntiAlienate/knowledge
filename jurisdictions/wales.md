@@ -78,7 +78,7 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 
 ## Editorial notes
 
-- Primary-source order: gov.wales for Welsh Government + Cafcass Cymru; [legislation.gov.uk](https://www.legislation.gov.uk/) for unified E&W statutes; Cardiff University for academic anchor.
+- Primary-source order: gov.wales for Welsh Government + [Cafcass Cymru](https://www.cafcass.gov.uk/); [legislation.gov.uk](https://www.legislation.gov.uk/) for unified E&W statutes; Cardiff University for academic anchor.
 - Bilingualism preserved: Welsh-language family-court provision required under Welsh Language Measure 2011.
 - Wales treated as distinct id within unified England-and-Wales judicial hierarchy — institutional differentiation via Cafcass Cymru + Welsh Government + Cardiff Law academic anchor.
 - Doughty/Maxwell/Slater 2018 framing PA as 'belief system' preserved in structural_findings[2].
@@ -87,6 +87,8 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

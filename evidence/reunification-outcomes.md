@@ -410,7 +410,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 
 | Source | Direct access | Notes |
 |---|---|---|
-| [Warshak](https://warshak.com/family-bridges/) 2010 (Family Bridges FCR) | Yes (full PDF) | Abstract and methods quoted verbatim |
+| [Warshak](https://warshak.com/family-bridges/) 2010 ([Family Bridges](https://warshak.com/family-bridges/) FCR) | Yes (full PDF) | Abstract and methods quoted verbatim |
 | [Warshak](https://warshak.com/family-bridges/) & Otis 2010 | No | Citation verified via Family Bridges Institute publications list |
 | [Warshak](https://warshak.com/family-bridges/) 2019 (J Divorce & Remarriage) | No | Abstract quoted from publisher record |
 | Reay 2015 (Family Reflections) | No | Outcome figure cross-confirmed in [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

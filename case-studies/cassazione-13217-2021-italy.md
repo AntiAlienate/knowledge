@@ -143,7 +143,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 8. **Iris UniPa — 'Sindrome da alienazione parentale e configurazione giuridica di illecito endofamiliare: nota a margine di Cass. 13217/2021'** — <https://iris.unipa.it/handle/10447/637297> (Università degli Studi di Palermo — IRIS) [it] — accessed 2026-05-30
 9. **Marco Pingitore, 'Luci e ombre dell'ordinanza della [Cassazione](https://www.cortedicassazione.it/) n. 13217/21 in tema di PAS e Sindrome Madre Malevola'** — <https://blog.marcopingitore.it/luci-e-ombre-dellordinanza-della-cassazione-n-13217-21-in-tema-di-pas-e-sindrome-madre-malevola/2021/05/23/5545/> (blog.marcopingitore.it) [it] — accessed 2026-05-30
 10. **Avv. Margherita Corriere, scheda '[Corte di Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 13217/2021'** — <https://www.avvmargheritacorriere.it/art130621_a.html> (Studio Legale Margherita Corriere) [it] — accessed 2026-05-30
-11. **Cassazione, Sez. I Civile, ord. n. 9691 del 24 marzo 2022 — testo integrale (PDF)** — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf> (Studio Legale Ruffinotti (riproduzione)) [it] — accessed 2026-05-30
+11. **[Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ord. n. 9691 del 24 marzo 2022 — testo integrale (PDF)** — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf> (Studio Legale Ruffinotti (riproduzione)) [it] — accessed 2026-05-30
 12. **Cammino Diritto — annotazioni sulla linea Cass. 13217/2021 + 9691/2022** — <https://rivista.camminodiritto.it/articolo.asp?id=9647> (Rivista Cammino Diritto) [it] — accessed 2026-05-30
 13. **D.lgs. 10 ottobre 2022 n. 149 — Riforma Cartabia (Gazzetta Ufficiale)** — <https://www.gazzettaufficiale.it/eli/id/2022/10/17/22G00158/sg> (Gazzetta Ufficiale della Repubblica Italiana) [it] — accessed 2026-05-30
 
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

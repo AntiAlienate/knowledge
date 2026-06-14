@@ -462,7 +462,7 @@ New Delhi · Delhi · Independent practice (New Delhi); Bar Council of Delhi
 **Stance:** Critique-adjacent register second-name anchor (after Jaising) for the Indian PA debate. Constitutional / criminal practice with women's-rights and DV-survivor drafting contributions (Justice Verma Committee submissions; DV / sexual-violence law drafting). PA-specific public stance not located in primary sources; classified critique on the strength of her women's-rights and DV-survivor register. Most likely Delhi human-rights advocate to articulate the critique-camp PA-as-DV-cover concern at apex level if asked on record. Country_code: IN.
 
 **Publications:**
-- Bilkis Bano remission case representation (2024) — *Supreme Court of India*
+- Bilkis Bano remission case representation (2024) — *[Supreme Court of India](https://main.sci.gov.in/)*
 - Kathua / Hashimpura representation (2018) — *Indian Courts*
 - Justice Verma Committee submissions (2013) — *Government of India*
 - DV / sexual-violence law drafting contributions (2013) — *Government of India*
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

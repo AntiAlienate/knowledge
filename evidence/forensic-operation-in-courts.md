@@ -185,7 +185,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 **On admissibility as expert testimony.** "In some studies there was no consensus, and in other studies the majority [of surveyed professionals] did not endorse parental alienation as a syndrome meeting either the Frye or Daubert standards for admission as a 'diagnosis' by an expert witness in an American court."
 
-**Why this matters for the forensic operation question.** [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala are *not hostile* to the PA construct — they are arguing for more rigorous research and more careful application. Their explicit position that (i) the construct is *not* a diagnostic syndrome, (ii) no defensible prevalence estimate exists, (iii) most empirical studies fail to distinguish alienation from justified estrangement secondary to abuse, and (iv) PA does not meet *Frye*/*Daubert* standards as a diagnosis, **independently corroborates the Meier and Silberg-Dallam concerns** that PA findings in U.S. courts often operate without adequate scientific foundation.
+**Why this matters for the forensic operation question.** [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala are *not hostile* to the PA construct — they are arguing for more rigorous research and more careful application. Their explicit position that (i) the construct is *not* a diagnostic syndrome, (ii) no defensible prevalence estimate exists, (iii) most empirical studies fail to distinguish alienation from justified estrangement secondary to abuse, and (iv) PA does not meet *Frye*/*Daubert* standards as a diagnosis, **independently corroborates the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) and Silberg-Dallam concerns** that PA findings in U.S. courts often operate without adequate scientific foundation.
 
 ---
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

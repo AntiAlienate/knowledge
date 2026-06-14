@@ -73,7 +73,7 @@ Teesside · England · Principal Psychologist and founder, Family Psychology Sol
 
 **Publications:**
 - Powerlessness, betrayal, abuse: The trauma of parental alienation (DCounsPsy thesis) (2014) — *Cardiff Metropolitan University*
-- Parental alienation: time to notice, time to intervene (New Voices) (2017) — *The Psychologist (BPS)* — <https://www.bps.org.uk/psychologist/new-voices-parental-alienation-time-notice-time-intervene>
+- Parental alienation: time to notice, time to intervene (New Voices) (2017) — *The Psychologist ([BPS](https://www.bps.org.uk/))* — <https://www.bps.org.uk/psychologist/new-voices-parental-alienation-time-notice-time-intervene>
 - Parental alienation: time to make a difference (2019) — *The Psychologist (BPS)* — <https://www.bps.org.uk/psychologist/parental-alienation-time-make-difference>
 
 **Verification:**
@@ -226,7 +226,7 @@ London · England · Senior Lecturer, Centre for Psychiatry & Mental Health, Que
 <sub>ID: `uk-ews.jones-hannah`</sub>
 
 ### Dr Jaime Craig
-*Consultant Clinical & Forensic Psychologist; HCPC-registered Clinical & Forensic Psychologist; Chartered Psychologist (CPsychol); Chair Association of Clinical Psychologists UK (ACP-UK); member Family Justice Council*
+*Consultant Clinical & Forensic Psychologist; [HCPC](https://www.hcpc-uk.org/)-registered Clinical & Forensic Psychologist; Chartered Psychologist (CPsychol); Chair Association of Clinical Psychologists UK (ACP-UK); member Family Justice Council*
 London · England · Association of Clinical Psychologists UK (ACP-UK, Chair); Family Justice Council member; lead author 2022 BPS / FJC Guidance on Psychologists as Expert Witnesses in the Family Courts of England and Wales
 
 **Stance:** Craig literally wrote the rules McFarlane P enforced in Re Y [2026] EWFC 38. Lead author of the 2022 BPS / FJC Guidance on Psychologists as Expert Witnesses in the Family Courts of England and Wales — the framework Re Y operationalises at the instruction stage. Cleanest UK source for 'what regulated practice looks like' in PA-allegation cases. Sits at the intersection of clinical leadership (ACP-UK Chair) and FJC policymaking; uniquely placed for policy interviews.
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

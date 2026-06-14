@@ -80,7 +80,7 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 - Associations françaises de parents — ACALPA (Association contre l'aliénation parentale et pour le lien familial) (2013) — ACALPA, Rapport d'activité 2013 (cite Cass. 1re civ. 26 juin 2013 comme jurisprudence apicale de référence) — <https://www.acalpa.info/wp-content/uploads/2016/08/2013-RAPPORT-ACTIVITE-ACALPA.pdf>
   - Réception militante. ACALPA inscrit immédiatement l'arrêt dans son rapport annuel comme la décision de la [Cour de cassation](https://www.courdecassation.fr/) qui légitime, au plus haut niveau, l'invocation du SAP devant les juridictions du fond.
 - Ministère de la Justice français — circulaire de 2018 (2018) — Circulaire de la Direction des affaires civiles et du Sceau invitant les magistrats à la prudence dans l'usage du label « SAP » en matière familiale (référencée par la doctrine ultérieure et par les acteurs associatifs critiques) — <https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/>
-  - Backlash institutionnel cinq ans après l'arrêt. La Chancellerie française se distancie du vocabulaire SAP dans l'instruction des magistrats du siège, sans toutefois solliciter un revirement de la Cour de cassation. Le tournant est de nature ministérielle (soft law) et non jurisprudentielle.
+  - Backlash institutionnel cinq ans après l'arrêt. La Chancellerie française se distancie du vocabulaire SAP dans l'instruction des magistrats du siège, sans toutefois solliciter un revirement de la [Cour de cassation](https://www.courdecassation.fr/). Le tournant est de nature ministérielle (soft law) et non jurisprudentielle.
 - Législateur français — Loi n° 2020-936 du 30 juillet 2020 (violences intrafamiliales) (2020) — Loi n° 2020-936 du 30 juillet 2020 visant à protéger les victimes de violences conjugales — <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042176652/>
   - Réorientation législative. Le législateur français consolide la priorisation des concepts d'« emprise » et de protection contre les violences intrafamiliales, marginalisant en pratique le vocabulaire SAP dans les outils juridiques du juge aux affaires familiales. La loi ne cite pas l'arrêt de 2013 mais le déplace politiquement.
 - Cairn — doctrine critique francophone (Cahiers critiques de thérapie familiale) (2018) — Bénédicte Lavaud-Legendre et al., « De l'aliénation parentale aux dynamiques familiales aliénantes », Cahiers critiques de thérapie familiale et de pratiques de réseaux, 2018/2 (n° 61) — <https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr>
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

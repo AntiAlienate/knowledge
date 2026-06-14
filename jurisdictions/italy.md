@@ -127,12 +127,14 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 - Cass. 4595/2025 estende la ratio del triade ai casi in cui il provvedimento di merito non pronuncia la sigla 'PAS' ma ne utilizza il calco lessicale ('processo progressivo e cronico di denigrazione e delegittimazione della figura paterna', 'funzionamento personologico simbiotico ostracizzante'). È il vero closing-stone della linea apicale italiana.
 - L'Italia è la giurisdizione UE con la critica apicale alla PAS più strutturata — più articolata di Spagna (STS 519/2017 singola) per numero di pronunce e per chiusura lessicale, e più forte di Germania ([BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 singola) per la concatenazione tra giurisdizione costituzionale, riforma processuale codificata e cluster CEDU.
 - Il riferimento Riforma Cartabia 2022 (D.Lgs. 149/2022) è il moltiplicatore istituzionale che converte la critica giurisprudenziale in protocollo procedurale per ogni CTU psicologica in materia di affidamento.
-- Lo Strasburgo-cluster italiano (Lombardo 2013, Strumia 2016, Improta 2017, Bondavalli, Solarino, R.V.) costituisce un vincolo CEDU autonomo e complementare rispetto alla critica apicale Cassazione: violazioni reiterate dell'art. 8 sul versante dell'enforcement del regime visite, indipendenti dalla questione PAS in senso stretto ma sistematicamente intrecciate con essa nei procedimenti di merito.
+- Lo Strasburgo-cluster italiano (Lombardo 2013, Strumia 2016, Improta 2017, Bondavalli, Solarino, R.V.) costituisce un vincolo CEDU autonomo e complementare rispetto alla critica apicale [Cassazione](https://www.cortedicassazione.it/): violazioni reiterate dell'art. 8 sul versante dell'enforcement del regime visite, indipendenti dalla questione PAS in senso stretto ma sistematicamente intrecciate con essa nei procedimenti di merito.
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
@@ -235,19 +237,6 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 
 <!-- AA-CITE-END -->
 
-<!-- AA-CROSSLINK-START -->
-
----
-
-## Related on antialienate.com
-
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
-
-<!-- AA-CROSSLINK-END -->
 
 <!-- AA-FAQ-START -->
 
@@ -349,3 +338,17 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+
+<!-- AA-CROSSLINK-END -->

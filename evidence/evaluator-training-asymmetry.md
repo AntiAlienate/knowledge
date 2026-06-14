@@ -218,7 +218,7 @@ The Drozd/Olesen response defends the decision tree on the grounds that both abu
 
 ### 3.4 Why the 2010 exchange matters for the training question
 
-The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) exchange is the most-cited paradigmatic dispute in the literature on how custody evaluators should be trained to handle the abuse-vs-alienation cross-claim. Saunders 2015 (§1.4 above) explicitly quotes the NCJFCJ guidebook position (Dalton, Drozd, & Wong 2006) that DV is its own specialty and that basic training is insufficient; note that Drozd herself co-authored that very guidebook, indicating that the substantive intra-field disagreement is more about the operational ordering and the empirical adequacy of available training than about whether DV should be assessed at all.
+The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) exchange is the most-cited paradigmatic dispute in the literature on how custody evaluators should be trained to handle the abuse-vs-alienation cross-claim. [Saunders](https://www.ovw.usdoj.gov/) 2015 (§1.4 above) explicitly quotes the NCJFCJ guidebook position (Dalton, Drozd, & Wong 2006) that DV is its own specialty and that basic training is insufficient; note that Drozd herself co-authored that very guidebook, indicating that the substantive intra-field disagreement is more about the operational ordering and the empirical adequacy of available training than about whether DV should be assessed at all.
 
 ---
 
@@ -275,7 +275,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 **Core claim relevant to the training-asymmetry question.** Harman and Lorandos argue that:
 
-1. The Meier 2020 dataset cannot be re-replicated to support a gender-asymmetric conclusion when re-coded by their methodology.
+1. The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) dataset cannot be re-replicated to support a gender-asymmetric conclusion when re-coded by their methodology.
 2. The "pro-PA-recognition" practitioner camp's evaluator training framework — built around the construct of parental alienating behaviors (PABs), structured assessment, and the differential decision-tree tradition (Drozd, Stahl, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler) — is *adequately* trained in DV and not biased against survivor-mothers.
 3. The asymmetry-of-training thesis (Saunders) overstates the empirical robustness of the Saunders 2011 survey and understates the genuine, peer-reviewed clinical literature documenting PA as a real and assessable phenomenon.
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
