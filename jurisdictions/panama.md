@@ -3,7 +3,7 @@
 **Jurisdiction code:** `PA` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Panama is a Central American civil-law republic whose family-law framework operates under the Family Code 1994 (Código de la Familia, Law 3 of 1994), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Family Code arts. 308-359. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados Seccionales de Familia). Psychology profession is regulated under the Colegio Nacional de Psicólogos and Ministerio de Salud licensing framework. Panama is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 481. Panama acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 1994 — among the earliest Latin American accessions in the corpus.
+Panama is a Central American civil-law republic whose family-law framework operates under the Family Code 1994 (Código de la Familia, Law 3 of 1994), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Family Code arts. 308-359. The Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/)) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados Seccionales de Familia). Psychology profession is regulated under the Colegio Nacional de Psicólogos and Ministerio de Salud licensing framework. Panama is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 481. Panama acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 1994 — among the earliest Latin American accessions in the corpus.
 
 ## PA recognition status
 
@@ -54,7 +54,7 @@ Panamanian family-court decisions are anonymised per Supreme Court practice usin
 
 ## Editorial notes
 
-- Panama jurisdiction sidecar — civil-law Central America (Family Code 1994 + Hague Convention 1980 accession 1994 — earliest Latin American).
+- Panama jurisdiction sidecar — civil-law Central America (Family Code 1994 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1994 — earliest Latin American).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Latin American + civil-law + Central American + early-Hague Convention clusters within the corpus.
 

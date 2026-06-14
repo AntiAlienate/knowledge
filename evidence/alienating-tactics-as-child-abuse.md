@@ -16,7 +16,7 @@ A cross-jurisdictional thematic summary of judicial findings, statutory provisio
 ### India — Delhi High Court PA-as-extreme-cruelty line
 - **ABC v XYZ, 2023 SCC OnLine Del 6099** (Delhi HC, Suresh Kumar Kait J. & Neena Bansal Krishna J., October 2023): parental alienation by a non-neglectful parent constitutes an 'extreme act of mental cruelty' under HMA s.13(1)(ia).
 - **A v B, 2026 SCC OnLine Del 276** (Delhi HC, Anil Kshetarpal J. & Harish Vaidyanathan Shankar J., February 2026): custody transferred to father on findings of 'sustained parental alienation' by the mother — first reported Indian custody transfer on PA grounds in post-Vivek Singh line.
-- Foundational decision: **Vivek Singh v Romani Singh (2017) 3 SCC 231** (Supreme Court of India, Chelameswar J. & Sikri J., 13 February 2017). Apex-court defines 'The Parental Alienation Syndrome' on the record. Cross-link: case-study:vivek-singh-v-romani-singh-2017-india.
+- Foundational decision: **Vivek Singh v Romani Singh (2017) 3 SCC 231** ([Supreme Court of India](https://main.sci.gov.in/), Chelameswar J. & Sikri J., 13 February 2017). Apex-court defines 'The Parental Alienation Syndrome' on the record. Cross-link: case-study:vivek-singh-v-romani-singh-2017-india.
 
 ### South Africa — T.L.D v B.G [2023] ZAGPJHC 801
 **Adams J**, Gauteng Local Division Johannesburg, 13 July 2023. Engages Children's Act 38/2005 s.7(1)(c) attitude-of-parents factor in characterising alienating conduct as relevant to best-interests assessment. Cross-link: case-study:tld-v-bg-2023-zagpjhc-801-south-africa.
@@ -36,7 +36,7 @@ A cross-jurisdictional thematic summary of judicial findings, statutory provisio
 **Counterpart statute** — only world jurisdiction explicitly inadmitting 'SAP' by name. Frames any reliance on the construct in family-court reasoning as inadmissible. Brazil and Spain are the world's only two statutory PA jurisdictions, pointed in opposite directions (recognition vs inadmission).
 
 ### Italy — Riforma Cartabia D.lgs. 149/2022
-Restricts CTU evaluations based on PAS construct. Operationalises the Cassazione critique line (13217/2021 + 9691/2022 + 4595/2025) at statutory-procedural level.
+Restricts CTU evaluations based on PAS construct. Operationalises the [Cassazione](https://www.cortedicassazione.it/) critique line (13217/2021 + 9691/2022 + 4595/2025) at statutory-procedural level.
 
 ### Chile — Ley 21.675/2024 art. 5 (violencia vicaria)
 Tipifies 'violencia vicaria' — act/omission of aggressor affecting children or other significant persons of the woman. Substantive substitution: violencia vicaria framework operates as the counterpart to PA-as-construct, recognising that alienating-style conduct may instead be characterisation of DV continuation. Functions as the inverse-direction structural alternative to Brazil's Lei 12.318/2010.
@@ -72,7 +72,7 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 | South Africa | best-interests welfare factor (Children's Act s.7(1)(c)) | TLD v BG 2023 ZAGPJHC 801 |
 | Brazil | statutory tort (Lei 12.318/2010 art. 2) | Lei 12.318/2010 + STJ line |
 | Italy | procedural Article 8 obligation (Strasbourg) | Cassazione 9691/2022 + Lombardo/Strumia/Improta |
-| Germany | refuted construct + welfare-abuse framing | BVerfG 1 BvR 1076/23 |
+| Germany | refuted construct + welfare-abuse framing | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 |
 | Spain | nominally inadmissible (LOPIVI Disp. ad. 17ª) | LOPIVI 2021 + STS 519/2017 |
 | Chile | substituted by violencia vicaria framework | Ley 21.675/2024 art. 5 |
 | Mexico | proportionalist sanction-not-automatic (figura sí, automatismo no) | SCJN AI 11/2016 + AI 74/2024 |

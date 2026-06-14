@@ -3,7 +3,7 @@
 **Jurisdiction code:** `AR` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Argentina operates a regime of institutional inadmission without statutory inadmission — the INVERSE of Spain's LOPIVI architecture: there is no federal statute that names or repudiates síndrome de alienación parental (SAP), yet the densest LATAM critique register has been built bottom-up through colegios profesionales rather than through a single federal regulator. The Corte Suprema de Justicia de la Nación (CSJN) in P., B. E. G. c/ B., K. E. (7.10.2021) admitted alienación parental as a relational concept (considerando 17 — 'discurso paterno ayudado por posición de la madre'), placing the apex court in a middle position, while the Cámara Nacional de Apelaciones en lo Civil (CNCiv) Sala J 'E.J.M. y otro c/ S.R.K.' (1.12.2021) became the first Argentine appellate court to name AP without reservations. Operative statutory recognition runs through Ley 24.270/1993 (impedimento de contacto) and the indirect-hook of CCyC art. 671 (deber de no entorpecer contacto).
+Argentina operates a regime of institutional inadmission without statutory inadmission — the INVERSE of Spain's LOPIVI architecture: there is no federal statute that names or repudiates síndrome de alienación parental (SAP), yet the densest LATAM critique register has been built bottom-up through colegios profesionales rather than through a single federal regulator. The [Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/) (CSJN) in P., B. E. G. c/ B., K. E. (7.10.2021) admitted alienación parental as a relational concept (considerando 17 — 'discurso paterno ayudado por posición de la madre'), placing the apex court in a middle position, while the Cámara Nacional de Apelaciones en lo Civil (CNCiv) Sala J 'E.J.M. y otro c/ S.R.K.' (1.12.2021) became the first Argentine appellate court to name AP without reservations. Operative statutory recognition runs through Ley 24.270/1993 (impedimento de contacto) and the indirect-hook of CCyC art. 671 (deber de no entorpecer contacto).
 
 ## PA recognition status
 
@@ -50,7 +50,7 @@ Argentina operates a regime of institutional inadmission without statutory inadm
 <https://www.scba.gov.ar/>
 - **Jurisprudencia provincial de familia en línea de moderación: anonimización por iniciales, aplicación de Ley 24.270 e invocación de CCyC art. 671 como deber civil correlativo** (2024) — middle
 
-### Cámara de Casación Civil (Tribunal Constitucional analog)
+### Cámara de Casación Civil ([Tribunal Constitucional](https://www.tribunalconstitucional.es/) analog)
 <https://www.pjn.gov.ar/>
 - **Línea casatoria de moderación procesal en materia de familia — fuero ordinario sin doctrina apex específica sobre AP** (2024) — middle
 

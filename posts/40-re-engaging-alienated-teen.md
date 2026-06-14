@@ -66,7 +66,7 @@ In most jurisdictions:
 - Courts increasingly distinguish "encourage participation" from "compel attendance"
 - Cite *Solarino v. Italy* (ECHR 2017) — coached refusal cannot ground permanent severance
 - Cite *Re C [2023] EWHC 345 (Fam)* — UK framework
-- Cite *BGH XII ZB 565/15* (Germany) — source-of-wishes investigation duty
+- Cite *[BGH](https://www.bundesgerichtshof.de/) XII ZB 565/15* (Germany) — source-of-wishes investigation duty
 
 The legal posture: keep the orders in force, don't enforce them with police escort, but document the alienator's continued obstruction.
 

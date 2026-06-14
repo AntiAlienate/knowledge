@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GE` · **Legal system:** civil-law  
 **Language(s):** ka  
 
-Georgia is a South Caucasus civil-law unitary republic whose family-law framework operates under the Civil Code of Georgia 1997 (substantively reformed by Civil Code amendments of 2017 and Family Mediation Law 2019), Book V (Family Law) governing marriage, parental rights and child custody. Parental rights and child custody are governed by Civil Code arts. 1197-1250. The Supreme Court of Georgia (საქართველოს უზენაესი სასამართლო) is the apex court for civil and criminal matters; the Constitutional Court of Georgia (საქართველოს საკონსტიტუციო სასამართლო) operates constitutional review. Family-law matters are heard at first instance in the City/District Courts. Psychology profession is regulated through the Ministry of Internally Displaced Persons, Labour, Health and Social Affairs framework with the Georgian Psychologists Association operating professional standards. Georgia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard codified in Civil Code art. 1198. Georgia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 October 1997. Georgia is a Council of Europe member subject to ECHR jurisdiction.
+Georgia is a South Caucasus civil-law unitary republic whose family-law framework operates under the Civil Code of Georgia 1997 (substantively reformed by Civil Code amendments of 2017 and Family Mediation Law 2019), Book V (Family Law) governing marriage, parental rights and child custody. Parental rights and child custody are governed by Civil Code arts. 1197-1250. The Supreme Court of Georgia (საქართველოს უზენაესი სასამართლო) is the apex court for civil and criminal matters; the Constitutional Court of Georgia (საქართველოს საკონსტიტუციო სასამართლო) operates constitutional review. Family-law matters are heard at first instance in the City/District Courts. Psychology profession is regulated through the Ministry of Internally Displaced Persons, Labour, Health and Social Affairs framework with the Georgian Psychologists Association operating professional standards. Georgia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard codified in Civil Code art. 1198. Georgia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 October 1997. Georgia is a [Council of Europe](https://www.coe.int/) member subject to ECHR jurisdiction.
 
 ## PA recognition status
 
@@ -67,7 +67,7 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 
 ## Editorial notes
 
-- Georgia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Civil Code 1997 Book V + 2017 amendments + Code on Rights of the Child 2019 + Family Mediation Law 2019 + Hague Convention 1980 accession 1997.
+- Georgia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Civil Code 1997 Book V + 2017 amendments + Code on Rights of the Child 2019 + Family Mediation Law 2019 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1997.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South Caucasus + civil-law + post-Soviet + ECHR + Hague Convention clusters within the corpus.
 

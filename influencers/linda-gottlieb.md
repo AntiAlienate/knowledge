@@ -10,7 +10,7 @@ Founder of Turning Points for Families ([TPFF](https://turningpointsforfamilies.
 
 - Licensed Marriage & Family Therapist (LMFT)
 - Licensed Clinical Social Worker (LCSW-R), New York
-- Founder and Clinical Director, Turning Points for Families (TPFF)
+- Founder and Clinical Director, Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/))
 
 ## Key contributions
 

@@ -1,7 +1,7 @@
 # Lt Col Vivek Singh v Romani Singh, Civil Appeal No. 3962 of 2016, (2017) 3 SCC 231
 
 **Neutral citation:** (2017) 3 SCC 231  
-**Court:** Supreme Court of India  
+**Court:** [Supreme Court of India](https://main.sci.gov.in/)  
 **Decided:** 2017-02-13  
 **Panel:** Jasti Chelameswar J. and A.K. Sikri J.  
 
@@ -37,7 +37,7 @@ Custody / guardianship determination made by reference to the child's best inter
 
 - **ABC v XYZ, 2023 SCC OnLine Del 6099** (IN) — Delhi High Court (Suresh Kumar Kait J. and Neena Bansal Krishna J., October 2023): parental alienation from a non-neglectful parent constitutes an 'extreme act of mental cruelty' under s.13(1)(ia) of the Hindu Marriage Act 1955 — directly extends the Vivek Singh framing into matrimonial-relief jurisprudence.
 - **A v B, 2026 SCC OnLine Del 276** (IN) — Delhi High Court (Anil Kshetarpal J. and Harish Vaidyanathan Shankar J., February 2026): custody transferred on findings of 'sustained parental alienation' by the mother — first reported Indian custody transfer on PA grounds in the post-Vivek Singh line.
-- **BVerfG 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court — opposite-direction holding on the PAS construct (PAS-based Sachverständigengutachten constitutionally untenable). The Indian SC apex-court framing (recognition with court-attached counsellor evaluation) and the German BVerfG framing (PAS as refuted construct) bracket the comparative spectrum on PA construct-engagement.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court — opposite-direction holding on the PAS construct (PAS-based Sachverständigengutachten constitutionally untenable). The Indian SC apex-court framing (recognition with court-attached counsellor evaluation) and the German BVerfG framing (PAS as refuted construct) bracket the comparative spectrum on PA construct-engagement.
 - **NF v AF [2025] CSOH 13** (UK-SCO) — [`nf-v-af-2025-csoh-13-scotland`](./nf-v-af-2025-csoh-13-scotland.md) — Scottish Outer House — alienating conduct as 'direct emotional abuse' under existing statutory definition of abuse without recourse to PAS as a construct; comparative counterpoint to Vivek Singh's express PAS engagement.
 - **Re Y [2026] EWFC 38** (UK-EWS) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — England & Wales — evaluator-regulation requirement; the structural counterpart in the Indian context is the court-attached counsellor mechanism (Family Courts Act 1984), instantiated here by Ms Kanungo.
 

@@ -3,7 +3,7 @@
 **Jurisdiction code:** `KR` · **Legal system:** civil-law  
 **Language(s):** ko  
 
-South Korea is an East Asian civil-law unitary republic whose family-law framework operates under the Civil Act (민법) Book IV (Relatives) and Family Litigation Act 1990 (가사소송법). Parental authority (친권) is governed by Civil Act arts. 909-927; the 2005 reform shifted from hojuje (patriarchal household head) to gajokje (family register) and 2011 reform abolished hojuje. Joint exercise during marriage is the statutory default. The Supreme Court of Korea (대법원) is the apex court for civil and criminal matters; the Constitutional Court (헌법재판소) operates separate constitutional-review jurisdiction. Specialised Family Courts (가정법원) operate at first instance. Psychology profession is regulated under the Mental Health Act framework with Korean Psychological Association (KPA) operating professional standards; Korean Clinical Psychology Association (KCPA) administers the Clinical Psychologist (임상심리사) qualification. South Korea is silent on 'parental alienation' as a statutory label; courts operate substantively under the chiae uichunjuui (child's best interests) standard. South Korea acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2013.
+South Korea is an East Asian civil-law unitary republic whose family-law framework operates under the Civil Act (민법) Book IV (Relatives) and Family Litigation Act 1990 (가사소송법). Parental authority (친권) is governed by Civil Act arts. 909-927; the 2005 reform shifted from hojuje (patriarchal household head) to gajokje (family register) and 2011 reform abolished hojuje. Joint exercise during marriage is the statutory default. The [Supreme Court of Korea](https://eng.scourt.go.kr/) (대법원) is the apex court for civil and criminal matters; the Constitutional Court (헌법재판소) operates separate constitutional-review jurisdiction. Specialised Family Courts (가정법원) operate at first instance. Psychology profession is regulated under the Mental Health Act framework with Korean Psychological Association (KPA) operating professional standards; Korean Clinical Psychology Association (KCPA) administers the Clinical Psychologist (임상심리사) qualification. South Korea is silent on 'parental alienation' as a statutory label; courts operate substantively under the chiae uichunjuui (child's best interests) standard. South Korea acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2013.
 
 ## PA recognition status
 
@@ -63,7 +63,7 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 
 ## Editorial notes
 
-- South Korea jurisdiction sidecar — civil-law framework. Civil Act Book IV + Family Litigation Act 1990 + 2005-2011 hojuje abolition + Hague Convention 1980 accession 2013.
+- South Korea jurisdiction sidecar — civil-law framework. Civil Act Book IV + Family Litigation Act 1990 + 2005-2011 hojuje abolition + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2013.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins East Asian + civil-law + Hague Convention clusters within the corpus.
 

@@ -29,7 +29,7 @@ Aragon (Aragón in Spanish / Aragó in Catalan / Aragonese ethnic territory) is 
 ### Tribunal Superior de Justicia de Aragón (TSJA)
 <https://www.poderjudicial.es/>
 
-### Tribunal Constitucional de España
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España
 <https://www.tribunalconstitucional.es/>
 
 ## Professional regulators

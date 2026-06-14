@@ -3,7 +3,7 @@
 **Jurisdiction code:** `FR` · **Legal system:** civil-law  
 **Language(s):** fr  
 
-France is a civil-law jurisdiction whose family courts operate through the juge aux affaires familiales (JAF) under the [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) (autorité parentale arts. 371-1 et s.) and the Code de l'organisation judiciaire. The statutory framework is silent on 'syndrome d'aliénation parentale' (SAP) as a label, and the Cour de cassation, 1re Chambre civile, 26 juin 2013 (n° 12-14.392) shielded the cour d'appel's appréciation souveraine without consecrating SAP as a recognised construct. The PA landscape is institutionally asymmetric — no autorité publique has endorsed SAP; the recognition camp rests on roughly three clinicians (Bensussan, Delfieu, Biolley) plus one NGO (ACALPA / Olga Odinetz), with zero university chair and zero société savante endorsement.
+France is a civil-law jurisdiction whose family courts operate through the juge aux affaires familiales (JAF) under the [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) (autorité parentale arts. 371-1 et s.) and the Code de l'organisation judiciaire. The statutory framework is silent on 'syndrome d'aliénation parentale' (SAP) as a label, and the [Cour de cassation](https://www.courdecassation.fr/), 1re Chambre civile, 26 juin 2013 (n° 12-14.392) shielded the cour d'appel's appréciation souveraine without consecrating SAP as a recognised construct. The PA landscape is institutionally asymmetric — no autorité publique has endorsed SAP; the recognition camp rests on roughly three clinicians (Bensussan, Delfieu, Biolley) plus one NGO (ACALPA / Olga Odinetz), with zero university chair and zero société savante endorsement.
 
 ## PA recognition status
 
@@ -17,7 +17,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
   - Définition centrale de l'autorité parentale comme ensemble de droits et devoirs ayant pour finalité l'intérêt de l'enfant; fonde toute appréciation JAF en matière de résidence et droit de visite.
 - **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 372** — Exercice conjoint de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426825>
   - Principe de coparentalité — exercice conjoint par les deux parents (translation_en: 'joint exercise of parental authority'); plaide-fondement classique des arguments recognition-camp dans les contentieux de résidence.
-- **Code civil art. 373-2** — Séparation des parents — continuité des relations de l'enfant avec chacun (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426836>
+- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 373-2** — Séparation des parents — continuité des relations de l'enfant avec chacun (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426836>
   - Pose l'obligation pour chaque parent de maintenir les relations personnelles de l'enfant avec l'autre parent; mobilisé tant par le camp recognition (pour caractériser un 'parent aliénant') que par le camp critique (pour articuler le contrôle coercitif avec la mise en danger).
 - **Code civil art. 373-2-11** — Critères du JAF pour statuer sur les modalités d'exercice de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426847>
   - Énumère les critères (pratique antérieure, sentiments de l'enfant, aptitude des parents, expertises, pressions/violences subies); article central dans Cass 1re Civ 26.6.2013 n° 12-14.392 où la 1re Civ a refusé de contrôler l'appréciation souveraine de la cour d'appel.
@@ -42,7 +42,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
 <https://www.courdecassation.fr/>
 - **Cass. 1re Civ., 26 juin 2013, n° 12-14.392 — rejet du pourvoi; la 1re Civ a refusé de contrôler l'appréciation souveraine de la cour d'appel (Rennes) qui avait statué sur la résidence sans consacrer le SAP comme construit juridique autonome (translation_en: 'rejection of the appeal; the First Civil Chamber declined to review the sovereign assessment of the Court of Appeal which had ruled on residence without consecrating PAS as an autonomous legal construct')** (2013) — middle — [`cass-1re-civ-12-14-392-2013-france`](../case-studies/cass-1re-civ-12-14-392-2013-france.md)
 
-### Conseil constitutionnel
+### [Conseil constitutionnel](https://www.conseil-constitutionnel.fr/)
 <https://www.conseil-constitutionnel.fr/>
 - **Aucune décision QPC ou DC directement consacrée au SAP / à l'aliénation parentale à la date de génération; le Conseil constitutionnel n'a pas pris position sur le construit.** (2026) — middle
 

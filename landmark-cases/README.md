@@ -44,7 +44,7 @@ Sir Andrew McFarlane P confirmed that where alienating behaviour is established 
 
 Appellate consolidation of the post-Re C [2023] line: residence-transfer orders made on alienation findings will not be lightly disturbed on appeal absent palpable error.
 
-## European Court of Human Rights
+## [European Court of Human Rights](https://www.echr.coe.int/)
 
 ### Strand Lobben and Others v Norway, Grand Chamber 2019 (App. no. 37283/13)
 
@@ -60,7 +60,7 @@ Bulgarian state's four-year enforcement failure = Article 8 violation, €15,000
 
 ## Italy
 
-### Cassazione — Bondavalli, Improta, Solarino line
+### [Cassazione](https://www.cortedicassazione.it/) — Bondavalli, Improta, Solarino line
 
 Italian Supreme Court rulings confirming that sustained alienating conduct can ground transfer of habitual residence and modification of affido (custody arrangements). The Italian doctrinal stack.
 

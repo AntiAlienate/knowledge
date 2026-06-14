@@ -15,7 +15,7 @@ The repo's 26 case studies, distilled into a single comparative matrix. Each cel
 | **US (Michigan)** | [Tsimhoni 2015](tsimhoni-v-eibschitz-tsimhoni-michigan-2015.md) | No (state-by-state) | Trial-judge sanctioned by Michigan Supreme Court for misconduct | Yes (varied private programs) | Mich. Ct. App. 329406; 336868 |
 | **US (Colorado)** | [In re Marriage of Humphries 2024](in-re-marriage-of-humphries-2024-coa-92.md) | No (state-by-state) | Affirms PA expert testimony, reverses punitive remedies | Yes | 2024 COA 92 |
 | **US (federal/all states)** | [Open question — clean reversal gap](open-question-clean-us-appellate-reversal-of-pa-finding.md) | No | **No clean appellate reversal of a substantive PA finding** at this writing — see gap-doc page for structural reasons | n/a | n/a |
-| **ECHR (Council of Europe)** | [Improta v Italy 2017](improta-v-italy-echr-66396-14-2017.md) · [Strumia 2016](strumia-v-italy-echr-53377-13-2016.md) · [Lombardo 2013](lombardo-v-italy-echr-25704-11-2013.md) | n/a (Convention) | Article 8 (right to family life) requires effective contact procedures; €15k typical | Yes (member-state level) | App. 66396/14 + 53377/13 + 25704/11 |
+| **ECHR ([Council of Europe](https://www.coe.int/))** | [Improta v Italy 2017](improta-v-italy-echr-66396-14-2017.md) · [Strumia 2016](strumia-v-italy-echr-53377-13-2016.md) · [Lombardo 2013](lombardo-v-italy-echr-25704-11-2013.md) | n/a (Convention) | Article 8 (right to family life) requires effective contact procedures; €15k typical | Yes (member-state level) | App. 66396/14 + 53377/13 + 25704/11 |
 | **Australia** | [Green & Green 2024](green-and-green-2024-fedcfamc1f-896.md) | No ([Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text), reformed 2024) | Post-reform: interim caution, equal-shared-PR presumption removed | Limited | [2024] FedCFamC1F 896 |
 | **Germany** | [BVerfG 1 BvR 1076/23 2023](bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md) | No ([BGB](https://www.gesetze-im-internet.de/bgb/) Umgangsrecht) | Constitutional rejection of PAS as "scientifically refuted" | Limited | 1 BvR 1076/23 |
 | **France** | [Cass.civ.1 12-14.392 2013](cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md) | No (Code Civil) | SAP terminology in retreat post-2018 ministerial circulaire + Loi du 30 juillet 2020 | Limited | n° 12-14.392 |
@@ -38,7 +38,7 @@ The repo's 26 case studies, distilled into a single comparative matrix. Each cel
 ### Eight clear groups
 
 1. **Procedural-reformer common-law:** UK (Re Y) and Australia (Green & Green) have tightened procedure — fact-finding before expert evidence, no unregulated experts, presumptions removed.
-2. **Constitutional-rejectionist civil-law:** Germany (BVerfG) and Italy (Cass.civ.I) have explicitly rejected PAS as scientific or constitutional basis for residence-transfer.
+2. **Constitutional-rejectionist civil-law:** Germany ([BVerfG](https://www.bundesverfassungsgericht.de/)) and Italy (Cass.civ.I) have explicitly rejected PAS as scientific or constitutional basis for residence-transfer.
 3. **Doing-it-without-the-label civil-law:** Spain (STS) and France (Cass.civ.1, post-2013 retreat) apply functionally similar reasoning while disowning the PA terminology.
 4. **Statutory-but-cautious:** Brazil (Lei 12.318/2010) and Mexico (state codes) — explicit statutory framework, but apex courts have layered "no-automaticity" and definitional limits on top.
 5. **Counter-trend re-enforcement:** Poland (SN III CZP 20/25) is going the *other way* — re-opening enforcement tools against alienating custodial parents — within a politically contested post-2022 constitutional landscape.
@@ -54,7 +54,7 @@ The US has 50 distinct state-level family-law systems and no clear apex directio
 
 Reading the matrix over time:
 - **2010-2017** — recognition era. India endorses PAS (2017); Brazil legislates explicitly (2010); France's Cass.civ.1 cites SAP (2013); Mexico CDMX codifies (2014); Italy *had* used PA reasoning at first-instance and intermediate-appellate level.
-- **2018-2022** — retreat begins. France retreats via ministerial circulaire + Loi du 30 juillet 2020; Mexico CDMX repeals (2017); Italian Cassazione signals rejection (Cass. 13217/2021); Brazilian STJ articulates "no-automaticity"; UK starts assembling the procedural framework that will become Re Y.
+- **2018-2022** — retreat begins. France retreats via ministerial circulaire + Loi du 30 juillet 2020; Mexico CDMX repeals (2017); Italian [Cassazione](https://www.cortedicassazione.it/) signals rejection (Cass. 13217/2021); Brazilian STJ articulates "no-automaticity"; UK starts assembling the procedural framework that will become Re Y.
 - **2023-2025** — consolidation of the procedural-fact-first frame. BVerfG (Germany, 2023) calls PAS "scientifically refuted." T.L.D v B.G (South Africa, 2023) operationalises a structured-remedy approach. Italian Cassazione cements the 9691/2022 line. UK Re Y (2026) lands. Poland counter-trends.
 
 The global direction of travel — not unidirectional, but with a clear centre of gravity — is toward **fact-first, evidence-skeptical, jurisdiction-specific frameworks that distinguish documented behaviour from contested diagnosis**. India and Poland's positions are real outliers but real ones; future case investigations should track whether they hold or join the consensus.

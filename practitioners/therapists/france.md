@@ -19,7 +19,7 @@ The French recognition camp is civil-society-anchored rather than institutionall
 ## Recognition camp
 
 ### Dr. Paul Bensussan
-*Dr., psychiatre; expert agréé par la Cour de cassation; expert près la Cour d'appel de Versailles*
+*Dr., psychiatre; expert agréé par la [Cour de cassation](https://www.courdecassation.fr/); expert près la Cour d'appel de Versailles*
 Versailles / Paris · Pratique libérale; expertise judiciaire pénale et civile
 
 **Stance:** Primary anchor of the French recognition camp and the most-cited French clinician on aliénation parentale: author of *L'enfant programmé — Comment éviter l'aliénation parentale ?* (Odile Jacob 2017) and *Inceste : le piège du soupçon* (Belfond 2009); cited as paradigmatic recognition-camp exponent by critique-camp authors (Romito, Salmona) and by CIIVISE 2023 rapporteurs.

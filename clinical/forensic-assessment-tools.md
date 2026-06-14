@@ -59,7 +59,7 @@ Standardized tools provide structure; the clinical interview is where most evalu
 
 ### Don't try to game the [BPS](https://www.bps.org.uk/) through the child
 
-If the child takes the BPS, the alienator will sometimes coach. Counter: ensure your relationship with the child during your custody time is genuine + positive — the BPS score reflects actual relationship quality more than coached answers when properly administered.
+If the child takes the [BPS](https://www.bps.org.uk/), the alienator will sometimes coach. Counter: ensure your relationship with the child during your custody time is genuine + positive — the BPS score reflects actual relationship quality more than coached answers when properly administered.
 
 ### Collateral interviews matter
 
@@ -71,7 +71,7 @@ Evaluators interview teachers, doctors, family members, friends. The pre-existin
 
 Not all evaluations use the same battery. Court-appointed evaluators who don't use PA-specific instruments can miss the pattern. Sample motion language:
 
-> *The court is respectfully asked to direct the appointed evaluator to include in the assessment battery: (a) MMPI-2-RF or PAI for both parents, (b) ASPECT, (c) Bricklin Perceptual Scales for the child(ren), (d) CAPI screening, and (e) PA-specific assessment per Bernet (2010) 5-criteria framework + Baker (2007) 8 indicators.*
+> *The court is respectfully asked to direct the appointed evaluator to include in the assessment battery: (a) MMPI-2-RF or PAI for both parents, (b) ASPECT, (c) Bricklin Perceptual Scales for the child(ren), (d) CAPI screening, and (e) PA-specific assessment per Bernet (2010) 5-criteria framework + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) 8 indicators.*
 
 ### Daubert applicability
 

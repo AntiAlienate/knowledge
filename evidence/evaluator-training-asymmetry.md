@@ -22,7 +22,7 @@
 
 ---
 
-## 1. The Saunders program of research (2011-2015) — what 465 evaluators reported
+## 1. The [Saunders](https://www.ovw.usdoj.gov/) program of research (2011-2015) — what 465 evaluators reported
 
 ### 1.1 Saunders, Faller & Tolman (2011) — NIJ Final Technical Report
 
@@ -76,7 +76,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 **The PAS-belief operational pattern (Background and Literature Review, p. 22).**
 
-> "Practitioners who apply parent-alienation syndrome (PAS) or parent-alienation disorder formulations tend to automatically label a parent as an 'alienator' without a thorough investigation of the allegations (Brown, Frederico, Hewitt, & Sheehan, 2000; Brown, Frederico, Hewitt, & Sheehan, 2001; Meier, 2009). As a result, battered mothers may be viewed as both pathological and abusive."
+> "Practitioners who apply parent-alienation syndrome (PAS) or parent-alienation disorder formulations tend to automatically label a parent as an 'alienator' without a thorough investigation of the allegations (Brown, Frederico, Hewitt, & Sheehan, 2000; Brown, Frederico, Hewitt, & Sheehan, 2001; [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), 2009). As a result, battered mothers may be viewed as both pathological and abusive."
 
 **Knowledge–recommendation link (the most consequential predictor for policy).**
 
@@ -146,7 +146,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 ## 2. The [AFCC](https://www.afccnet.org/) mainstream standards and the Stahl-camp practitioner defense
 
-### 2.1 AFCC Model Standards of Practice for Child Custody Evaluation (2006)
+### 2.1 [AFCC](https://www.afccnet.org/) Model Standards of Practice for Child Custody Evaluation (2006)
 
 **Citation.** Association of Family and Conciliation Courts, *Model Standards of Practice for Child Custody Evaluation*, May 2006. https://www.afccnet.org/Portals/0/Committees/ModelStdsChildCustodyEvalSept2006.pdf — Practice Guidelines hub: https://www.afccnet.org/Resource-Center/Practice-Guidelines
 
@@ -202,7 +202,7 @@ Stahl's core position across his published work, as best reconstructable from pr
 
 This paper is among the foundational practitioner texts on differential assessment of child rejection in custody cases. It proposes a structured branching procedure for evaluators to follow when a child resists or refuses contact with a parent, intended to discriminate among abuse-justified estrangement, parental-behaviour-induced alienation, and hybrid cases. It is the conceptual ancestor of the later Drozd/Olesen/[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) book *Parenting Plan & Child Custody Evaluations: Using Decision Trees to Increase Evaluator Competence & Avoid Preventable Errors* (Civic Research Institute) — ISBN 9781568871486.
 
-**[Secondary verification only]** for verbatim text — the original 2004 *Journal of Child Custody* article was paywalled at compilation. The construction has been widely reproduced in subsequent practitioner literature and in the 2016 Drozd-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)-Olesen edited volume (Oxford University Press), the second-edition Saini/Johnston/Fidler/Bala chapter from which is already excerpted in `evidence-forensic-operation-in-courts.md` §5.
+**[Secondary verification only]** for verbatim text — the original 2004 *Journal of Child Custody* article was paywalled at compilation. The construction has been widely reproduced in subsequent practitioner literature and in the 2016 Drozd-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)-Olesen edited volume (Oxford University Press), the second-edition [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala chapter from which is already excerpted in `evidence-forensic-operation-in-courts.md` §5.
 
 ### 3.2 The Meier 2010 critique
 
@@ -299,7 +299,7 @@ Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the u
 
 ### 7.1 United Kingdom — [Cafcass](https://www.cafcass.gov.uk/) and PD12J
 
-**[Cafcass](https://www.cafcass.gov.uk/) Domestic Abuse Practice Policy.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service for England) is the statutory body that provides Family Court Advisers (FCAs) — broadly analogous to US custody evaluators / GALs — for private-law child arrangements cases. Cafcass published an updated Domestic Abuse Practice Policy in October 2024 (subsequently withdrawn and replaced in January 2025). URL: https://www.cafcass.gov.uk/domestic-abuse-practice-policy
+**[Cafcass](https://www.cafcass.gov.uk/) Domestic Abuse Practice Policy.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service for England) is the statutory body that provides Family Court Advisers (FCAs) — broadly analogous to US custody evaluators / GALs — for private-law child arrangements cases. [Cafcass](https://www.cafcass.gov.uk/) published an updated Domestic Abuse Practice Policy in October 2024 (subsequently withdrawn and replaced in January 2025). URL: https://www.cafcass.gov.uk/domestic-abuse-practice-policy
 
 **Key positions in the policy** (synthesised from the Transparency Project explainer at https://transparencyproject.org.uk/cafcass-new-domestic-abuse-policy-an-explainer/ and Goodman Ray at https://www.goodmanray.com/news/2025/04/cafcass-updates-domestic-abuse-practice-policy/ — **[secondary verification only]** for the policy's verbatim text, which was inaccessible at compilation, 403):
 
@@ -454,7 +454,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 ### 10.2 Moderate–high confidence
 
 - **The training asymmetry — PA-construct CPD is widely commercially available; equivalent DV-construct training is patchier, less standardised, and more grant-dependent — is itself a structural driver of evaluator recommendation patterns.** Saunders 2015 §§ on Evaluator Education; Alsalem A/HRC/53/36 ¶62 on the commercial-incentive structure. Inferential rather than directly experimental.
-- **Custody evaluator and GAL recommendations are heavily determinative of US custody outcomes when DV and PA are cross-alleged**, and the operational pattern is gender-asymmetric. Meier 2020 (4,338-case dataset); Silberg & Dallam 2019 (67% of judges relied on evaluator/GAL who disbelieved abuse; 73% of GALs sided with perpetrator); cross-ref `evidence-forensic-operation-in-courts.md` §§1, 3.
+- **Custody evaluator and GAL recommendations are heavily determinative of US custody outcomes when DV and PA are cross-alleged**, and the operational pattern is gender-asymmetric. Meier 2020 (4,338-case dataset); [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) (67% of judges relied on evaluator/GAL who disbelieved abuse; 73% of GALs sided with perpetrator); cross-ref `evidence-forensic-operation-in-courts.md` §§1, 3.
 
 ### 10.3 Moderate confidence
 

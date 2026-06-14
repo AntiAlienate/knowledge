@@ -35,7 +35,7 @@
 
 ## ECHR enforcement is binding on Belgium
 
-Belgium is one of the 46 Council of Europe member states bound by the *Bondavalli v. Italy* (ECHR 2015), *Improta v. Italy* (ECHR 2017), *Solarino v. Italy* (ECHR 2017) line. Domestic motions citing this jurisprudence directly carry meaningful weight in Belgian family courts.
+Belgium is one of the 46 [Council of Europe](https://www.coe.int/) member states bound by the *Bondavalli v. Italy* (ECHR 2015), *Improta v. Italy* (ECHR 2017), *Solarino v. Italy* (ECHR 2017) line. Domestic motions citing this jurisprudence directly carry meaningful weight in Belgian family courts.
 
 ## Source-blog hyperlinks
 

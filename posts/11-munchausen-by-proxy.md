@@ -43,7 +43,7 @@ When all 3 are present, the case meets the diagnostic threshold and triggers chi
 
 ## Why this often goes unnamed
 
-Most pediatricians receive zero training on FDIA. The DSM-5 codes exist; the training does not. The result: see a child who is well, accept the parent's account of illness, write neither finding into a way the family court can later use.
+Most pediatricians receive zero training on FDIA. The [DSM-5](https://www.appi.org/products/dsm) codes exist; the training does not. The result: see a child who is well, accept the parent's account of illness, write neither finding into a way the family court can later use.
 
 ## Source-blog hyperlinks
 

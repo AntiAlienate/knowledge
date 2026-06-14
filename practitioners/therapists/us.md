@@ -21,9 +21,9 @@ Regulatory disclosure: Randy Rand, EdD (co-developer of [Family Bridges](https:/
 
 ### Richard A. [Warshak](https://warshak.com/family-bridges/), PhD
 *PhD (Clinical Psychology)*
-Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychology, UT Southwestern Medical Center; co-developer Family Bridges reunification workshop
+Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychology, UT Southwestern Medical Center; co-developer [Family Bridges](https://warshak.com/family-bridges/) reunification workshop
 
-**Stance:** Author of the most-cited Family Bridges outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed Family Bridges with Randy Rand (now excluded — see excluded[]). Position is PASG-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
+**Stance:** Author of the most-cited Family Bridges outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed Family Bridges with Randy Rand (now excluded — see excluded[]). Position is [PASG](https://pasg.info/)-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
 
 **Publications:**
 - Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children (2010) — *Family Court Review 48(1):48-80* — <https://onlinelibrary.wiley.com/doi/10.1111/j.1744-1617.2009.01288.x>
@@ -47,7 +47,7 @@ Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychol
 *LMFT, LCSW-R*
 New York City · NY · Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)), New York City; Minuchin structural family therapy lineage
 
-**Stance:** Operator of Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) intensive in-home reunification programme; practice statement frames PA as 'a form of psychological child abuse with lifetime consequences'. Author of The Parental Alienation Syndrome (Charles C. Thomas, 2012); historically endorsed by Bernet and Salvador Minuchin. TPFF is one of the programmes critiqued in the Geffner et al. (2022) JFTCCCD special issue.
+**Stance:** Operator of Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) intensive in-home reunification programme; practice statement frames PA as 'a form of psychological child abuse with lifetime consequences'. Author of The Parental Alienation Syndrome (Charles C. Thomas, 2012); historically endorsed by Bernet and Salvador Minuchin. [TPFF](https://turningpointsforfamilies.com/) is one of the programmes critiqued in the Geffner et al. (2022) JFTCCCD special issue.
 
 **Publications:**
 - The Parental Alienation Syndrome: A Family Therapy and Collaborative Systems Approach to Amelioration (2012) — *Charles C. Thomas Publisher*
@@ -69,7 +69,7 @@ New York City · NY · Turning Points for Families ([TPFF](https://turningpoints
 *PsyD (Clinical Psychology)*
 Pasadena (CA practice history); Washington licensure · WA · Independent clinical psychology practice; author Attachment-Based Model of Parental Alienation ([AB-PA](https://drcachildress.org/))
 
-**Stance:** Author of An Attachment-Based Model of Parental Alienation: Foundations (Oaksong Press, 2015). Operates the [AB-PA](https://drcachildress.org/) framework anchored in [DSM-5](https://www.appi.org/products/dsm) attachment / delusional pathway language. Recognition-camp internal dissident: openly critical of both AFCC evaluator training and the PASG Five-Factor Model.
+**Stance:** Author of An Attachment-Based Model of Parental Alienation: Foundations (Oaksong Press, 2015). Operates the [AB-PA](https://drcachildress.org/) framework anchored in [DSM-5](https://www.appi.org/products/dsm) attachment / delusional pathway language. Recognition-camp internal dissident: openly critical of both [AFCC](https://www.afccnet.org/) evaluator training and the PASG Five-Factor Model.
 
 **Publications:**
 - An Attachment-Based Model of Parental Alienation: Foundations (2015) — *Oaksong Press* — <https://www.amazon.com/dp/0996114505>
@@ -114,10 +114,10 @@ New York City · NY · Director of Research, Vincent J. Fontana Center for Child
 *MD (Psychiatry); Professor Emeritus*
 Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University School of Medicine; founder/first president [Parental Alienation Study Group](https://pasg.info/) (PASG)
 
-**Stance:** Global organising figure of the recognition camp. Founder of PASG (2013; ~240 members across 40 countries). Lead author of Bernet, Wamboldt & Narrow (2016) JAACAP CAPRD framework — the most-cited US institutional reference. Co-author with Demosthenes Lorandos of Parental Alienation: Science and Law (Charles C. Thomas, 2020). The German BVerfG 1 BvR 1076/23 (2023) ruling explicitly engaged the US PASG / Bernet literature as the recognition-camp reference critique camp scholars must rebut, making Bernet the trans-Atlantic anchor of the debate.
+**Stance:** Global organising figure of the recognition camp. Founder of PASG (2013; ~240 members across 40 countries). Lead author of Bernet, Wamboldt & Narrow (2016) JAACAP CAPRD framework — the most-cited US institutional reference. Co-author with Demosthenes Lorandos of Parental Alienation: Science and Law (Charles C. Thomas, 2020). The German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) ruling explicitly engaged the US PASG / Bernet literature as the recognition-camp reference critique camp scholars must rebut, making Bernet the trans-Atlantic anchor of the debate.
 
 **Publications:**
-- Child Affected by Parental Relationship Distress: New Disorder in DSM-5 (CAPRD framework) (2016) — *Journal of the American Academy of Child & Adolescent Psychiatry 55(7):571-579 (Bernet, Wamboldt & Narrow)*
+- Child Affected by Parental Relationship Distress: New Disorder in [DSM-5](https://www.appi.org/products/dsm) (CAPRD framework) (2016) — *Journal of the American Academy of Child & Adolescent Psychiatry 55(7):571-579 (Bernet, Wamboldt & Narrow)*
 - Parental Alienation: Science and Law (2020) — *Charles C. Thomas (with Lorandos)*
 - Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/) (2010) — *Charles C. Thomas*
 - Five-Factor Model for the Diagnosis of Parental Alienation (2022) — *JAACAP / PASG* — <https://ckm.vumc.org/pasg/content/five-factor-model-diagnosis-parental-alienation>
@@ -159,7 +159,7 @@ Winter Park · FL · Independent PA consultation practice (Winter Park, FL); co-
 *PhD; Florida Licensed School Psychologist (since 1987)*
 Clearwater · FL · The Center For Human Potential of America, Inc. (Clearwater, FL); co-founder NAOPAS
 
-**Stance:** Co-author with Bone of The Essentials of Parental Alienation Syndrome (Unhooking Books, 2011). NAOPAS co-founder. Trained in Warshak/Rand Family Bridges as reunification specialist; high-volume expert witness (38+ courts in 36 states per JurisPro).
+**Stance:** Co-author with Bone of The Essentials of Parental Alienation Syndrome (Unhooking Books, 2011). NAOPAS co-founder. Trained in [Warshak](https://warshak.com/family-bridges/)/Rand Family Bridges as reunification specialist; high-volume expert witness (38+ courts in 36 states per JurisPro).
 
 **Publications:**
 - The Essentials of Parental Alienation Syndrome (2011) — *Unhooking Books (with J. Michael Bone)* — <https://www.amazon.com/Essentials-Parental-Alienation-Syndrome-Childrens/dp/1937698009>

@@ -49,9 +49,9 @@ National constitutional provisions and apex case-law develop the paramountcy doc
 
 **Brazil** — **Constitución 1988 art. 227** (absoluta prioridade) + Estatuto da Criança e do Adolescente Lei 8.069/1990. Absoluta prioridade formulation — strong constitutional prioridade. Cross-link: jurisdiction:brazil.
 
-**Italy** — Italian Constitution + Civil Code framework operates best-interests through Cassazione apex jurisprudence. Cassazione 9691/2022 engages best-interests within procedural-due-diligence framework. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
+**Italy** — Italian Constitution + Civil Code framework operates best-interests through [Cassazione](https://www.cortedicassazione.it/) apex jurisprudence. Cassazione 9691/2022 engages best-interests within procedural-due-diligence framework. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
 
-**Germany** — **Grundgesetz Art. 6(2)**: Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. **Grundgesetz Art. 2(1)** child's personality rights. **BVerfG 1 BvR 1076/23** integrates these constitutional provisions with PAS-construct critique. Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
+**Germany** — **Grundgesetz Art. 6(2)**: Pflege und Erziehung der Kinder sind das natürliche Recht der Eltern und die zuvörderst ihnen obliegende Pflicht. **Grundgesetz Art. 2(1)** child's personality rights. **[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** integrates these constitutional provisions with PAS-construct critique. Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
 
 **Netherlands** — Burgerlijk Wetboek + Jeugdwet operate best-interests at substantive level. NL three-document positional architecture (Expertteam 2021 + NJI Richtlijn 2020 + Kinderombudsman KOM003/2014) addresses best-interests in PA-adjacent fact-patterns. Cross-link: case-study:expertteam-ouderverstoting-2021-netherlands + jurisdiction:netherlands.
 
@@ -61,7 +61,7 @@ National constitutional provisions and apex case-law develop the paramountcy doc
 
 ### [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + ECHR overlap
 
-**Strasbourg Article 8** operates Convention-based best-interests through the positive-obligations doctrine. **Neulinger and Shuruk v Switzerland [GC] (2010)** requires substantive examination of best-interests in Hague return proceedings; **X v Latvia [GC] (2013)** refines the genuine-examination standard. Strasbourg best-interests operates at supranational level binding 46 Council of Europe member states. Cross-link: evidence:strasbourg-article-8-positive-obligations-doctrine.
+**Strasbourg Article 8** operates Convention-based best-interests through the positive-obligations doctrine. **Neulinger and Shuruk v Switzerland [GC] (2010)** requires substantive examination of best-interests in Hague return proceedings; **X v Latvia [GC] (2013)** refines the genuine-examination standard. Strasbourg best-interests operates at supranational level binding 46 [Council of Europe](https://www.coe.int/) member states. Cross-link: evidence:strasbourg-article-8-positive-obligations-doctrine.
 
 ## Structural observations
 
@@ -72,7 +72,7 @@ Cross-jurisdictional paramountcy framings cluster into three principal formulati
 - **Best-interests / interés superior** (primary consideration): India + Mexico + Argentina + Italy + Spain + Brazil (with absoluta prioridade) + Colombia (with prevalence).
 
 ### 2. SA Constitution s.28(2) strongest paramountcy formulation
-South Africa's Constitution s.28(2) constitutional-level paramountcy formulation is the strongest in the corpus — paramountcy operationalised at constitutional rather than substantive-statutory level. Distinct from E&W Children Act 1989 s.1(1) statutory-level paramountcy.
+South Africa's Constitution s.28(2) constitutional-level paramountcy formulation is the strongest in the corpus — paramountcy operationalised at constitutional rather than substantive-statutory level. Distinct from E&W [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.1(1) statutory-level paramountcy.
 
 ### 3. AU 2023 + NZ safety-primary formulations distinctive
 Australia (FLA s.60CC post-2023 Amendment Act) and New Zealand (CoCA s.5(a)) operate safety-primary formulations distinctive within the corpus. Safety operates as the PRIMARY consideration rather than welfare/best-interests as the paramount consideration. The shift reflects 2018-2023 institutional concerns about family-violence undercurrent in custody disputes.

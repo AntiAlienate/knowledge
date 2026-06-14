@@ -29,7 +29,7 @@ The Canary Islands (Islas Canarias in Spanish / Canàries in Catalan) are a Nort
 ### Tribunal Superior de Justicia de Canarias (TSJC)
 <https://www.poderjudicial.es/>
 
-### Tribunal Constitucional de España
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España
 <https://www.tribunalconstitucional.es/>
 
 ## Professional regulators

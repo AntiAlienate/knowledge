@@ -65,7 +65,7 @@ Philippine family-law decisions of higher courts (CA, SC) are typically publishe
 
 ## Editorial notes
 
-- Philippines jurisdiction sidecar — mixed-legal-system framework (Spanish civil-law substantive + American common-law procedural + Muslim personal-law parallel courts). Family Code 1987 + Family Courts Act 1997 + RA 10029 PRBP + Hague Convention 1980 accession 2016. No civil divorce.
+- Philippines jurisdiction sidecar — mixed-legal-system framework (Spanish civil-law substantive + American common-law procedural + Muslim personal-law parallel courts). Family Code 1987 + Family Courts Act 1997 + RA 10029 PRBP + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2016. No civil divorce.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Asian + mixed-jurisdiction + federal-statutory psychology regulator + Hague Convention + no-divorce-distinctive clusters within the corpus.
 

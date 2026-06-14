@@ -3,7 +3,7 @@
 **Jurisdiction code:** `AM` · **Legal system:** civil-law  
 **Language(s):** hy  
 
-Armenia is a South Caucasus civil-law unitary republic whose family-law framework operates under the Family Code of the Republic of Armenia 2004 (effective 19 April 2005), federal civil-code framework drawing on post-Soviet civil-law tradition with European-codification-influenced reforms. Parental rights and child custody are governed by Family Code arts. 51-71. The Court of Cassation of Armenia (Հայաստանի Հանրապետության վճռաբեկ դատարան) is the apex court for civil and criminal matters; the Constitutional Court (Սահմանադրական դատարան) operates separate constitutional review. Family-law matters are heard at first instance in the Courts of General Jurisdiction. Psychology profession is regulated through the Ministry of Health framework with the Armenian Psychological Association operating professional standards. Armenia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Family Code art. 53. Armenia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 June 2007. Armenia is a Council of Europe member subject to ECHR jurisdiction.
+Armenia is a South Caucasus civil-law unitary republic whose family-law framework operates under the Family Code of the Republic of Armenia 2004 (effective 19 April 2005), federal civil-code framework drawing on post-Soviet civil-law tradition with European-codification-influenced reforms. Parental rights and child custody are governed by Family Code arts. 51-71. The Court of Cassation of Armenia (Հայաստանի Հանրապետության վճռաբեկ դատարան) is the apex court for civil and criminal matters; the Constitutional Court (Սահմանադրական դատարան) operates separate constitutional review. Family-law matters are heard at first instance in the Courts of General Jurisdiction. Psychology profession is regulated through the Ministry of Health framework with the Armenian Psychological Association operating professional standards. Armenia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Family Code art. 53. Armenia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 June 2007. Armenia is a [Council of Europe](https://www.coe.int/) member subject to ECHR jurisdiction.
 
 ## PA recognition status
 
@@ -64,7 +64,7 @@ Armenian family-court decisions are anonymised per Court of Cassation practice u
 
 ## Editorial notes
 
-- Armenia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Family Code 2004 + Law on Rights of the Child 1996 + Hague Convention 1980 accession 2007.
+- Armenia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Family Code 2004 + Law on Rights of the Child 1996 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2007.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South Caucasus + civil-law + post-Soviet + ECHR + Hague Convention clusters within the corpus.
 

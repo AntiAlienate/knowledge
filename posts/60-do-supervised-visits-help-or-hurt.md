@@ -1,6 +1,6 @@
 # Do Supervised Visits Help or Hurt — The Distinction Family Court Doctrine Conflates
 
-> **TL;DR.** Most family-court doctrine treats supervised visitation as categorically protective. The research is more nuanced. With the right scoping, supervised visits are a bridge. With the wrong scoping, they weld a wall. The European Court of Human Rights in **Solarino v. Italy** (2017) explicitly held that supervised visits ordered to perpetuate a child's coached refusal — without examining the refusal's origin — can themselves violate Article 8.
+> **TL;DR.** Most family-court doctrine treats supervised visitation as categorically protective. The research is more nuanced. With the right scoping, supervised visits are a bridge. With the wrong scoping, they weld a wall. The [European Court of Human Rights](https://www.echr.coe.int/) in **Solarino v. Italy** (2017) explicitly held that supervised visits ordered to perpetuate a child's coached refusal — without examining the refusal's origin — can themselves violate Article 8.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/do-supervised-visits-help-or-hurt](https://www.antialienate.com/blog/do-supervised-visits-help-or-hurt).**

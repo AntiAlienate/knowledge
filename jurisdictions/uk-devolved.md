@@ -22,7 +22,7 @@ United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Irel
 
 ## Apex courts
 
-### UK Supreme Court (final appellate for SCO/NIR/E&W; ENG/WLS jurisdictionally unified)
+### [UK Supreme Court](https://www.supremecourt.uk/) (final appellate for SCO/NIR/E&W; ENG/WLS jurisdictionally unified)
 <https://www.supremecourt.uk/>
 - **UK Supreme Court is the apex final court of appeal for all UK constituent jurisdictions. Has not issued a UK-devolved-specific PA-construct apex decision.** (2026) — middle
 
@@ -40,7 +40,7 @@ United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Irel
 
 ## Professional regulators
 
-- **Devolved institutional anchors** — Scotland: Shared Parenting Scotland (recognition) + Scottish Women's Aid + Engender (critique) — institutional-voice dominant rather than bar-based. Northern Ireland: Bar of NI Family Bar Association + NIGALA + WAFNI (25.6.2020 PA briefing only NI-specific WA position). Wales: Cafcass Cymru (devolved Welsh Government 2001) + Cardiff University Dr Julie Doughty research base + Welsh Women's Aid. See per-country sidecars for detail. — <https://www.judiciary.scot/>
+- **Devolved institutional anchors** — Scotland: Shared Parenting Scotland (recognition) + Scottish Women's Aid + Engender (critique) — institutional-voice dominant rather than bar-based. Northern Ireland: Bar of NI Family Bar Association + NIGALA + WAFNI (25.6.2020 PA briefing only NI-specific WA position). Wales: [Cafcass Cymru](https://www.cafcass.gov.uk/) (devolved Welsh Government 2001) + Cardiff University Dr Julie Doughty research base + Welsh Women's Aid. See per-country sidecars for detail. — <https://www.judiciary.scot/>
 - **Common UK regulatory layer — [HCPC](https://www.hcpc-uk.org/) + [BPS](https://www.bps.org.uk/) (UK-wide)** — Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) is the UK-wide statutory regulator for practitioner psychologists applying in all three devolved jurisdictions. British Psychological Society ([BPS](https://www.bps.org.uk/)) operates UK-wide. No devolved-jurisdiction-specific PA position. Post-Re Y EWFC 38 (E&W 2026) [HCPC](https://www.hcpc-uk.org/)-registration requirement for PA evaluators flows UK-wide. — <https://www.hcpc-uk.org/>
 
 ## Anonymisation convention
@@ -59,7 +59,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 
 ## Structural findings
 
-- UK-DEVOLVED JURISDICTIONS DISTINCT FROM ENGLAND-AND-WALES at substantive children-law level: Scotland wholly separate (Children Scotland Acts 1995/2020); NI operates under Children NI Order 1995 (Sewel-style Order in Council mirroring Children Act 1989 substantive frame but distinct numbering and procedural provisions); Wales shares unified E&W statutory frame but with Cafcass Cymru devolved Welsh Government institutional differentiation.
+- UK-DEVOLVED JURISDICTIONS DISTINCT FROM ENGLAND-AND-WALES at substantive children-law level: Scotland wholly separate (Children Scotland Acts 1995/2020); NI operates under Children NI Order 1995 (Sewel-style Order in Council mirroring [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) substantive frame but distinct numbering and procedural provisions); Wales shares unified E&W statutory frame but with Cafcass Cymru devolved Welsh Government institutional differentiation.
 - INSTITUTIONAL-VOICE + JUDICIAL-OUTPUT DOMINANCE: All three devolved jurisdictions are institutional-voice + judicial-output dominated rather than bar-based. Scotland: SPS recognition + SWA/Engender critique; NI: Keegan LCJ judicial + WAFNI institutional; Wales: Cafcass Cymru + Cardiff Doughty academic anchor + Welsh Women's Aid civil-society.
 - EVALUATOR-QUALITY ANCHORS DIFFER STRUCTURALLY: Scotland (Court of Session apex via NF v AF 2025) + NI (Keegan LCJ judicial sophistication via family-law silk background) + Wales (Doughty 2018 Welsh-Government-commissioned academic anchor). Three distinct paths to the same evaluator-quality concern that drove the English Re Y [2026] EWFC 38 reform.
 - WAFNI 25.6.2020 PA BRIEFING IS UK-DEVOLVED'S RAREST INSTITUTIONAL POSITION: The only NI-specific Women's Aid published institutional position on parental alienation. Single documentary anchor.

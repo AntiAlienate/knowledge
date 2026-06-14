@@ -46,7 +46,7 @@ The goal: be the single most comprehensive open-source reference on parental ali
 
 ## How this is maintained
 
-A background agent polls public legal-research sources every 25 minutes (PubMed, CrossRef, CourtListener, BAILII, Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Case studies, playbooks, value cards, templates, jurisdiction pages, influencer pages, glossary entries, debate analysis, and case-law consolidations are added on a rolling basis.
+A background agent polls public legal-research sources every 25 minutes ([PubMed](https://pubmed.ncbi.nlm.nih.gov/), CrossRef, CourtListener, [BAILII](https://www.bailii.org/), Reddit), dedupes against a known-finds registry, and pushes new material into [/digest/](./digest/). Case studies, playbooks, value cards, templates, jurisdiction pages, influencer pages, glossary entries, debate analysis, and case-law consolidations are added on a rolling basis.
 
 The repo grows continuously. If you bookmark only one URL: this one.
 
@@ -83,6 +83,8 @@ CC BY 4.0 unless otherwise noted on individual files. Attribution: [AntiAlienate
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

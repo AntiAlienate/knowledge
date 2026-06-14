@@ -29,7 +29,7 @@ location_tags: [united-states, international, family-court-review, warshak, fami
 
 > [Warshak](https://warshak.com/family-bridges/), R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/): Using Insights from Social Science to Reconnect Parents and Alienated Children. *Family Court Review*, 48(1), 48-80. https://doi.org/10.1111/j.1744-1617.2009.01288.x
 
-## Core protocol — Family Bridges (4-day workshop)
+## Core protocol — [Family Bridges](https://warshak.com/family-bridges/) (4-day workshop)
 
 For severely alienated children where contact has been near-zero for an extended period:
 
@@ -39,7 +39,7 @@ For severely alienated children where contact has been near-zero for an extended
 4. **Aftercare**: 90 days of structured contact with the targeted parent, no contact (or limited monitored contact) with the alienating parent
 5. **Reintroduction**: gradual reintroduction of the alienating parent under therapeutic supervision
 
-## Outcome data Warshak reports
+## Outcome data [Warshak](https://warshak.com/family-bridges/) reports
 
 - Of 23 children attending Family Bridges between 2002–2010 (Warshak's reported sample): 22 of 23 left the workshop with restored relationships with the targeted parent
 - 1-year follow-up: 18 of 23 maintained restored relationships

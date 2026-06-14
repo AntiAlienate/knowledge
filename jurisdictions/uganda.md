@@ -63,7 +63,7 @@ Ugandan family-court decisions are anonymised per Judiciary practice using initi
 
 ## Editorial notes
 
-- Uganda jurisdiction sidecar — common-law East African framework. Children Act 1997 (rev 2016) + Divorce Act 1904 + multi-track marriage/divorce framework + Hague Convention 1980 accession 2022.
+- Uganda jurisdiction sidecar — common-law East African framework. Children Act 1997 (rev 2016) + [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1904 + multi-track marriage/divorce framework + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2022.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins East African + common-law + multi-track-marriage + Hague Convention clusters within the corpus.
 

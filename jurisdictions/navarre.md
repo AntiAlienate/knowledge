@@ -29,7 +29,7 @@ Navarre (Navarra in Spanish / Nafarroa in Basque / Foral Community of Navarre / 
 ### Tribunal Superior de Justicia de Navarra (TSJN)
 <https://www.poderjudicial.es/>
 
-### Tribunal Constitucional de España
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España
 <https://www.tribunalconstitucional.es/>
 
 ## Professional regulators

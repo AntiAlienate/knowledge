@@ -45,7 +45,7 @@ Indirect costs: time off work, missed career advancement, geographic limitations
 - Family court time consumed by repeat-litigation patterns
 - Child protective services investigations triggered by false allegations
 - School counselor and therapist time
-- Long-term healthcare burden from documented child outcomes (Baker & Verrocchio 2015)
+- Long-term healthcare burden from documented child outcomes ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio 2015)
 - Intergenerational transmission — adult children of PA show elevated rates of PA in their own divorces
 
 ## Source-blog hyperlinks

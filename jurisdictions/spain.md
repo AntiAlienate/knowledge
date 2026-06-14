@@ -3,7 +3,7 @@
 **Jurisdiction code:** `ES` · **Legal system:** civil-law  
 **Language(s):** es, ca, eu, gl  
 
-Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 Disposición adicional decimoséptima, which directs public administrations not to admit the construct denominated 'síndrome de alienación parental' (SAP) in family-violence settings — the exact opposite direction to Brazil's Lei 12.318/2010, which statutorily recognises 'alienação parental'. Tribunal Supremo (Sala Primera) STS 519/2017 took a pre-LOPIVI methodological-middle stance that treats parental manipulation and negative influence as decisive welfare factors while deliberately avoiding the SAP label; the legislator subsequently moved past STS 519/2017 without ratifying its reasoning. Professional-regulator position varies by Comunidad Autónoma (per-CCAA COP variation), which is the opposite pattern to the unified national regulator positions seen in Germany and the United Kingdom.
+Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 Disposición adicional decimoséptima, which directs public administrations not to admit the construct denominated 'síndrome de alienación parental' (SAP) in family-violence settings — the exact opposite direction to Brazil's Lei 12.318/2010, which statutorily recognises 'alienação parental'. [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) (Sala Primera) STS 519/2017 took a pre-LOPIVI methodological-middle stance that treats parental manipulation and negative influence as decisive welfare factors while deliberately avoiding the SAP label; the legislator subsequently moved past STS 519/2017 without ratifying its reasoning. Professional-regulator position varies by Comunidad Autónoma (per-CCAA COP variation), which is the opposite pattern to the unified national regulator positions seen in Germany and the United Kingdom.
 
 ## PA recognition status
 
@@ -32,7 +32,7 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 <https://www.poderjudicial.es/search/indexAN.jsp>
 - **STS 519/2017, de 22 de septiembre (Sala Primera, ponente Arroyo Fiestas)** (2017) — middle — [`sts-519-2017-spain`](../case-studies/sts-519-2017-spain.md)
 
-### Tribunal Constitucional
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/)
 <https://www.tribunalconstitucional.es/>
 - **STC 130/2024 — LOPIVI compliance line (no direct PA ruling; constitutional review of LOPIVI's child-protection architecture)** (2024) — middle
 

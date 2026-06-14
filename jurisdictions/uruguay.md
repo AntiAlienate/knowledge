@@ -65,7 +65,7 @@ Uruguayan family-court decisions are anonymised per Supreme Court practice using
 
 ## Editorial notes
 
-- Uruguay jurisdiction sidecar — civil-law Southern Cone (Civil Code 1868 + Children and Adolescents Code 2004 + Law 19580/2018 gender-based-violence-framework coercive-dynamics + Colegio de Psicólogos Law 2012 + Hague Convention 1980 accession 2000).
+- Uruguay jurisdiction sidecar — civil-law Southern Cone (Civil Code 1868 + Children and Adolescents Code 2004 + Law 19580/2018 gender-based-violence-framework coercive-dynamics + Colegio de Psicólogos Law 2012 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2000).
 - PA-recognition: silent statutory + no-apex-position + silent regulator; substantive coercive-dynamics provisions in gender-based violence law.
 - Joins Southern Cone + civil-law + gender-based-violence-framework-substantive distinctive cluster + Hague Convention clusters within the corpus.
 

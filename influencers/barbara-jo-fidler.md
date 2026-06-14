@@ -23,7 +23,7 @@ Fidler co-authored the field's most balanced practitioner text — *Children Who
 ## Where to find her work
 
 - [bjfidler.com](https://www.bjfidler.com)
-- AFCC training materials
+- [AFCC](https://www.afccnet.org/) training materials
 
 ## Contact
 

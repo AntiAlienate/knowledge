@@ -62,7 +62,7 @@ Thai family-court decisions are anonymised per Supreme Court practice using init
 
 ## Editorial notes
 
-- Thailand jurisdiction sidecar — civil-law framework. CCC Book 5 + Juvenile and Family Courts + Hague Convention 1980 accession 2002.
+- Thailand jurisdiction sidecar — civil-law framework. CCC Book 5 + Juvenile and Family Courts + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2002.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Asian + civil-law + Hague Convention clusters within the corpus.
 

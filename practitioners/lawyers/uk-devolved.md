@@ -10,7 +10,7 @@ Wales' family-court infrastructure operates within the unified Bar of England an
 
 ## Structural findings
 
-- 20 verified entries split 9 SCO + 5 NIR + 6 WLS, reflecting the disproportionate institutional and academic infrastructure in Wales (Cafcass Cymru / Cardiff Law) and the comparatively thin verifiable NI practitioner footprint outside the judiciary.
+- 20 verified entries split 9 SCO + 5 NIR + 6 WLS, reflecting the disproportionate institutional and academic infrastructure in Wales ([Cafcass Cymru](https://www.cafcass.gov.uk/) / Cardiff Law) and the comparatively thin verifiable NI practitioner footprint outside the judiciary.
 - The verifiable practising-bar PA conversation in the devolved jurisdictions is dominated by institutional voices (Shared Parenting Scotland recognition pole; SWA / Engender / WAFNI / WWA critique pole) and judicial output (Lord Stuart's NF v AF [2025] CSOH 13 in Scotland; O'Hara J's 2022 A Father v A Mother (No. 2) in NI) more than by named individual practitioners with published stances.
 - Scotland's recognition pole is institutional (Shared Parenting Scotland, SCIO SC042817) rather than bar-based: no Faculty of Advocates KC has been identified with an explicit, sourced recognition-camp PA stance on a chambers or Faculty profile.
 - Northern Ireland has only one named academic in the PA-specific field (Dr Mairead McCormack, QUB, DChild 2021) — the only NI-specific empirical study of how PA is treated by NI family-court professionals; the NI bar's PA footprint is otherwise judicial (Keegan LCJ, O'Hara J) and institutional (WAFNI, Bar of NI Family Bar Association).

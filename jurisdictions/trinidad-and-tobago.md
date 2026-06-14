@@ -66,7 +66,7 @@ Trinidadian family-court decisions are anonymised per Court of Appeal practice u
 
 ## Editorial notes
 
-- Trinidad and Tobago jurisdiction sidecar — common-law Caribbean (Children Act 2012 + Family Law Act 2003 + Family Court 2004 + JCPC final-appellate + Hague Convention 1980 accession 2000 earliest Caribbean).
+- Trinidad and Tobago jurisdiction sidecar — common-law Caribbean (Children Act 2012 + Family Law Act 2003 + Family Court 2004 + JCPC final-appellate + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2000 earliest Caribbean).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Caribbean + common-law + JCPC-final-appellate + early-Hague Convention clusters within the corpus.
 

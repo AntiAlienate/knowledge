@@ -17,7 +17,7 @@ Dr Richard A. [Warshak](https://warshak.com/family-bridges/) (University of Texa
 
 ## The Resist-Refuse Continuum
 
-Warshak's 2010 update of *Divorce Poison* and subsequent peer-reviewed papers (especially Warshak 2015 in *Professional Psychology: Research and Practice*) reframed PA assessment along a continuum rather than as a binary categorical judgment.
+[Warshak's](https://warshak.com/family-bridges/) 2010 update of *Divorce Poison* and subsequent peer-reviewed papers (especially Warshak 2015 in *Professional Psychology: Research and Practice*) reframed PA assessment along a continuum rather than as a binary categorical judgment.
 
 The continuum poles:
 - **Affinity** (child prefers one parent for benign reasons — temperament, shared interests)
@@ -30,7 +30,7 @@ Most real cases sit somewhere in the middle. Pure-form alienation is relatively 
 
 ## [Family Bridges](https://warshak.com/family-bridges/) Intervention
 
-Developed by Warshak in collaboration with Randy and Deirdre Conway Rand, Family Bridges is an intensive, 4-day educational and experiential workshop for severely alienated children and their rejected parent, undertaken after court-ordered transfer of custody.
+Developed by Warshak in collaboration with Randy and Deirdre Conway Rand, [Family Bridges](https://warshak.com/family-bridges/) is an intensive, 4-day educational and experiential workshop for severely alienated children and their rejected parent, undertaken after court-ordered transfer of custody.
 
 Components:
 - Court-ordered custody temporarily transferred to the rejected parent

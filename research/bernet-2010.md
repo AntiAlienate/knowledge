@@ -40,7 +40,7 @@ All five must be present for a diagnosis of parental alienation:
 
 This 5-criterion framework is the gatekeeper that distinguishes alienation (engineered rejection) from justified estrangement (proportional response to harm). Used in clinical assessment and increasingly in court doctrine.
 
-## DSM-5 + ICD-11 campaigns
+## [DSM-5](https://www.appi.org/products/dsm) + [ICD-11](https://icd.who.int/) campaigns
 
 Bernet led the multi-year campaign for explicit PA inclusion in DSM-5 and ICD-11. PA was *not* added as a standalone diagnosis (the political resistance was substantial), but related codes were included:
 
@@ -52,7 +52,7 @@ The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *
 
 ## [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 
-Bernet co-founded [PASG](https://pasg.info/), an international research consortium with ~1,000+ members across 60+ countries (clinicians, researchers, attorneys, judges). Useful for "PASG consensus position" citations in academic-tone work, less useful for hard legal-evidentiary arguments.
+Bernet co-founded [PASG](https://pasg.info/), an international research consortium with ~1,000+ members across 60+ countries (clinicians, researchers, attorneys, judges). Useful for "[PASG](https://pasg.info/) consensus position" citations in academic-tone work, less useful for hard legal-evidentiary arguments.
 
 ## Citing posts
 

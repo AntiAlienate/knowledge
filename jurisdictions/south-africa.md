@@ -44,7 +44,7 @@ South Africa is a mixed Roman-Dutch / common-law jurisdiction whose family-law a
 ### High Court of South Africa — provincial divisions (Gauteng / Western Cape / KZN / Eastern Cape / etc.)
 <https://www.judiciary.org.za/>
 - **T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 — Adams J, Gauteng Local Division Johannesburg, 13 July 2023. Leading SA High Court authority crystallising parental alienation as a clinically and judicially recognised phenomenon. The substantive Recognition-camp anchor in SA jurisprudence.** (2023) — recognition — [`tld-v-bg-2023-zagpjhc-801-south-africa`](../case-studies/tld-v-bg-2023-zagpjhc-801-south-africa.md)
-- **SA High Court family-law divisions are the first-instance forum for divorce and contested care/contact proceedings. PA-adjacent fact-patterns are decided here under Children's Act s.7 best-interests factor list and Divorce Act s.6, often informed by HPCSA-registered forensic-psychology expert evidence.** (2026) — middle
+- **SA High Court family-law divisions are the first-instance forum for divorce and contested care/contact proceedings. PA-adjacent fact-patterns are decided here under Children's Act s.7 best-interests factor list and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.6, often informed by HPCSA-registered forensic-psychology expert evidence.** (2026) — middle
 
 ## Professional regulators
 

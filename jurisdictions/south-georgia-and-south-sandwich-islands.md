@@ -16,7 +16,7 @@ South Georgia and the South Sandwich Islands (SGSSI) is a Sub-Antarctic common-l
 - **South Georgia and South Sandwich Islands Order 1985** — SGSSI Order 1985 (1985) — <https://www.legislation.gov.uk/>
   - Order in Council of 3 October 1985 establishing SGSSI as a separate British Overseas Territory from the Falkland Islands Dependencies.
 - **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in SGSSI)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (1989) — <https://www.legislation.gov.uk/>
-  - English Children Act 1989 applicable to civil-status persons in SGSSI for parental responsibility and child custody — theoretical given absence of permanent civilian population.
+  - English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) applicable to civil-status persons in SGSSI for parental responsibility and child custody — theoretical given absence of permanent civilian population.
 
 ## Apex courts
 

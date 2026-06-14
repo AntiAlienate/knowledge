@@ -176,7 +176,7 @@ Mexico's PA-clinical landscape is **sparse but polarised**: SCJN's 2021 *Protoco
 
 ### 1. Dr Alejandro Mendoza-Amaro, MD PhD
 - **Country / city:** MX / Morelia, Michoacán (Xengua 106, Col. Bosque Camelinas, C.P. 58290)
-- **Practice / affiliation:** **Jefe de Enseñanza e Investigación, Hospital Psiquiátrico "Dr. José Torres Orozco"** (Secretaría de Salud de Michoacán) since Aug 2018; **Presidente del Capítulo Hispano de Global Action for Research Integrity in Parental Alienation (GARI-PA)**; **Miembro [Parental Alienation Study Group](https://pasg.info/) (PASG) since 31 March 2019**; **Delegado Científico Asociación Mexicana de Padres de Familia Separados (AMPFS)** since Jan 2018; **Miembro Comité Científico CEAP Argentina**
+- **Practice / affiliation:** **Jefe de Enseñanza e Investigación, Hospital Psiquiátrico "Dr. José Torres Orozco"** (Secretaría de Salud de Michoacán) since Aug 2018; **Presidente del Capítulo Hispano de Global Action for Research Integrity in Parental Alienation (GARI-PA)**; **Miembro [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/)) since 31 March 2019**; **Delegado Científico Asociación Mexicana de Padres de Familia Separados (AMPFS)** since Jan 2018; **Miembro Comité Científico CEAP Argentina**
 - **Practice URLs:** https://mendozaphd.wixsite.com/website ; LinkedIn https://www.linkedin.com/in/alejandromendozaamaromdphd/ ; Aprende en Línea CV https://aprendeenlinea.cr/cv-alejandro-mendoza-amaro/ ; ResearchGate https://www.researchgate.net/profile/Alejandro-Amaro-4
 - **Regulatory body:** **Cédula Profesional / SEP** as Médico Cirujano y Partero (MD 1999-2006) + Lic. Psicología Educativa (1997-2001) + Maestría en Ciencias de la Salud (2008-2011) + PhD Psicología (2015-2018, Universidad de Guadalajara). **Cédula number not publicly displayed.**
 - **Registration number:** **not publicly displayed**
@@ -193,7 +193,7 @@ Mexico's PA-clinical landscape is **sparse but polarised**: SCJN's 2021 *Protoco
 - **Tier:** 1
 - **Hook:** **The single most institutionally connected Mexican PA-recognition clinician** — PASG + GARI-PA + CEAP + AMPFS + a public-sector psychiatric hospital chieftaincy. Any Hispanophone PASG conversation routes through him. Cross-listed in /influencers/ candidate set.
 
-### 2. INSTITUTIONAL — Suprema Corte de Justicia de la Nación (SCJN) / Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia
+### 2. INSTITUTIONAL — [Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/) (SCJN) / Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia
 - **Country / city:** MX / Ciudad de México (federal)
 - **Institution:** **SCJN — Dirección General de Derechos Humanos y Justicia Pluricultural**; institutional doctrine for *jueces y peritos* on alienación parental
 - **Institutional URLs:** *Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia* (Nov 2021) https://www.scjn.gob.mx/derechos-humanos/sites/default/files/protocolos/archivos/2021-11/Protocolo%20para%20juzgar%20con%20perspectiva%20de%20IA%2010nov21.pdf ; Buscador Jurídico SCJN https://bj.scjn.gob.mx/busqueda?q=ALIENACION+PARENTAL ; CDHCM Amicus Amparo Directo 14/2020 https://cdhcm.org.mx/wp-content/uploads/2023/06/Amicus-Curiae-Amparo-Directo-14-2020-SCJN.pdf

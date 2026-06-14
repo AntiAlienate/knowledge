@@ -63,7 +63,7 @@ Haitian family-court decisions are anonymised per Court of Cassation practice us
 
 ## Editorial notes
 
-- Haiti jurisdiction sidecar — civil-law Caribbean (Civil Code Napoleonic-derivative + Decree on Marital Equality 1982 + Children's Rights Code 2014 + bilingual French-Haitian Creole + Hague Convention 1980 accession 2013).
+- Haiti jurisdiction sidecar — civil-law Caribbean (Civil Code Napoleonic-derivative + Decree on Marital Equality 1982 + Children's Rights Code 2014 + bilingual French-Haitian Creole + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2013).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Caribbean + civil-law + Napoleonic-derivative + earliest-Americas-Black-republic-distinctive + bilingual-Creole + Hague Convention clusters within the corpus.
 

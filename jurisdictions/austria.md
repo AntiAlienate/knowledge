@@ -44,7 +44,7 @@ Austrian family-law decisions are anonymised per OGH convention using initials o
 
 ## Structural findings
 
-- Austria sits structurally adjacent to Germany within the corpus: civil-law / federal-civil-code framework + 2013 joint-Obsorge default reform. Unlike Germany, the OGH has not produced a published apex-level engagement with the PAS construct equivalent to BVerfG 1 BvR 1076/23.
+- Austria sits structurally adjacent to Germany within the corpus: civil-law / federal-civil-code framework + 2013 joint-Obsorge default reform. Unlike Germany, the OGH has not produced a published apex-level engagement with the PAS construct equivalent to [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23.
 - PG 2013 statutory title protection regime places Austria among the federal-statutory psychology regulator group within the corpus alongside Germany (Psychotherapeutengesetz / PsychThG), Switzerland (PsyG 2011), UK ([HCPC](https://www.hcpc-uk.org/)), SA (HPCSA), and India (APBs).
 - Familiengerichtshilfe (family-court assistance service) operates as a federally-funded multidisciplinary support structure for family courts — distinctive among corpus jurisdictions and analogous to NL Raad voor de Kinderbescherming.
 

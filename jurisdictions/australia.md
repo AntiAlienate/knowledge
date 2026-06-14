@@ -15,7 +15,7 @@ Australia is a federal common-law jurisdiction whose family-law architecture is 
 
 - **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.60CC** — [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) — best-interests considerations (post-2023 amendment safety-primacy rewrite) (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Substantive best-interests test for parenting orders. The 2023 Amendment Act Schedule 1 rewrote s.60CC to prioritise the safety of the child and persons caring for the child, removed the prior 'two-tier' primary/additional consideration structure, and inserted explicit guidance on family violence. PA-adjacent fact-patterns are decided here under the welfare standard.
-- **Family Law Act 1975 (Cth) s.61DA (repealed by 2023 Amendment Act)** — Family Law Act 1975 — presumption of equal shared parental responsibility (REPEALED 6.5.2024) (2006) — <https://www.legislation.gov.au/Details/C2023C00404>
+- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.61DA (repealed by 2023 Amendment Act)** — Family Law Act 1975 — presumption of equal shared parental responsibility (REPEALED 6.5.2024) (2006) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Repealed by Schedule 1 of the Family Law Amendment Act 2023 (in force 6 May 2024). The former s.61DA presumption was a Howard-government 2006 reform that the 2023 Amendment Act removed in response to ALRC Inquiry 135 (2019) and Joint Select Committee 2021 evidence that the presumption was being misapplied in family-violence cases. Repeal is the load-bearing 2023 structural shift in Australian custody law.
 - **Family Law Act 1975 (Cth) s.121** — Family Law Act 1975 — restriction on publication of court proceedings (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Strict anonymisation regime forbidding the naming of parties, children, witnesses, judges in some contexts, and individual Court Children's Report writers in publications of Australian family-court proceedings. s.121 is the structural reason no named-evaluator PA case-law equivalent to Re Y [2026] EWFC 38 (England & Wales) exists in citable Australian form, even where equivalent quality concerns motivated the 2023 Sch 2 reform.
@@ -32,7 +32,7 @@ Australia is a federal common-law jurisdiction whose family-law architecture is 
 
 ## Apex courts
 
-### High Court of Australia
+### [High Court of Australia](https://www.hcourt.gov.au/)
 <https://www.hcourt.gov.au/>
 - **High Court of Australia is the apex court for federal family-law appeals. No High Court decision has directly engaged the parental-alienation construct as a contested scientific category. The High Court has addressed s.60CC welfare reasoning and s.61DA presumption in McCall v Clark, MRR v GR (2010), Goode and Goode, and others, but PA-construct adjudication has not reached the apex.** (2026) — middle
 

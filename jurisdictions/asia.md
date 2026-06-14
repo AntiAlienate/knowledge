@@ -22,7 +22,7 @@ Regional aggregate jurisdiction covering Asian PA-construct landscape. Asian com
 
 ### Asian common-law apex cluster — India + Singapore + Hong Kong
 <https://www.asianlii.org/>
-- **Vivek Singh v Romani Singh (2017) 3 SCC 231 (India) — Supreme Court of India apex PAS-defining decision. TEN v TEO [2020] SGHCF 20 (Singapore) — Debbie Ong J leading authority alienating-behaviour two-limb doctrine. H v W [2021] HKCA 733 (HK) — Lam VP, Yuen JA, B Chu J post-pandemic relocation authority engages PA as separately pleaded ground.** (2021) — recognition — [`vivek-singh-v-romani-singh-2017-india`](../case-studies/vivek-singh-v-romani-singh-2017-india.md)
+- **Vivek Singh v Romani Singh (2017) 3 SCC 231 (India) — [Supreme Court of India](https://main.sci.gov.in/) apex PAS-defining decision. TEN v TEO [2020] SGHCF 20 (Singapore) — Debbie Ong J leading authority alienating-behaviour two-limb doctrine. H v W [2021] HKCA 733 (HK) — Lam VP, Yuen JA, B Chu J post-pandemic relocation authority engages PA as separately pleaded ground.** (2021) — recognition — [`vivek-singh-v-romani-singh-2017-india`](../case-studies/vivek-singh-v-romani-singh-2017-india.md)
 
 ### Japan Civil Code reform — Act No. 33 of 2024
 <https://www.moj.go.jp/MINJI/minji07_00316.html>
@@ -30,7 +30,7 @@ Regional aggregate jurisdiction covering Asian PA-construct landscape. Asian com
 
 ### National apex courts of constituent jurisdictions
 <https://www.asianlii.org/>
-- **Sub-jurisdiction apex: India (Supreme Court of India); Singapore (Court of Appeal Singapore); Hong Kong (Court of Final Appeal); Japan (Supreme Court of Japan). See per-country jurisdiction sidecars.** (2026) — recognition
+- **Sub-jurisdiction apex: India (Supreme Court of India); Singapore (Court of Appeal Singapore); Hong Kong (Court of Final Appeal); Japan ([Supreme Court of Japan](https://www.courts.go.jp/english/)). See per-country jurisdiction sidecars.** (2026) — recognition
 
 ## Professional regulators
 
@@ -71,7 +71,7 @@ Anonymisation conventions vary by constituent jurisdiction. See per-country side
 ## Sources
 
 1. **AsianLII — Asian Legal Information Institute** — <https://www.asianlii.org/> (AsianLII) [en]
-2. **[UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)** — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child> (OHCHR) [en]
+2. **[UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)** — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child> ([OHCHR](https://www.ohchr.org/)) [en]
 
 ## Editorial notes
 

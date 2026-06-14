@@ -63,7 +63,7 @@ Seychellois family-court decisions are anonymised per Court of Appeal practice u
 
 ## Editorial notes
 
-- Seychelles jurisdiction sidecar — mixed-legal-system Indian Ocean (Civil Code of Seychelles 1976 French-derivative + English common-law procedural + Children Act 1982 + JCPC-removal-at-independence + Hague Convention 1980 accession 2008).
+- Seychelles jurisdiction sidecar — mixed-legal-system Indian Ocean (Civil Code of Seychelles 1976 French-derivative + English common-law procedural + Children Act 1982 + JCPC-removal-at-independence + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2008).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Indian Ocean + mixed-legal-system + Quebec-pattern + JCPC-removal-distinctive + trilingual-Creole + Hague Convention clusters within the corpus.
 

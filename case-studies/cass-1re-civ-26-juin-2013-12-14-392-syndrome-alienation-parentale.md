@@ -1,4 +1,4 @@
-# Cour de cassation, 1re chambre civile, 26 juin 2013, pourvoi n° 12-14.392 (Bulletin)
+# [Cour de cassation](https://www.courdecassation.fr/), 1re chambre civile, 26 juin 2013, pourvoi n° 12-14.392 (Bulletin)
 
 **Court:** Cour de cassation (French Court of Cassation), Première chambre civile (First Civil Chamber)
 **Date of arrêt:** 26 June 2013
@@ -43,7 +43,7 @@ The Court's reasoning, distilled, was that:
 
 1. Under Article 373-2-13 [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/), decisions on the exercise of parental authority may be modified or supplemented "at any time" by the judge at the request of the parents or one of them. The cour d'appel was therefore not *dessaisie* (functus officio) on the question of residence by its earlier interlocutory measures.
 
-2. The *enquête sociale* ordered under Article 373-2-12 Code civil constituted a *fait nouveau* (new fact) within the meaning of the cassation case-law on Article 373-2-13, which entitled the cour d'appel to revisit the residence arrangement.
+2. The *enquête sociale* ordered under Article 373-2-12 [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) constituted a *fait nouveau* (new fact) within the meaning of the cassation case-law on Article 373-2-13, which entitled the cour d'appel to revisit the residence arrangement.
 
 3. On the substance, the cour d'appel had carried out *"une appréciation souveraine des éléments qui lui étaient soumis"* (a sovereign assessment of the matters put before it) in concluding that *"un syndrome d'aliénation parentale s'était instauré dans la vie de l'enfant"* and that the child's habitual residence should be transferred to the father.
 
@@ -84,7 +84,7 @@ Second, the arrêt is a model of what civil-law family-court reasoning looks lik
 
 Third, the arrêt is now the central exhibit in the French *backlash* against SAP. The 2018 ministerial circular, the 2020 intra-family violence reforms, and the academic literature that followed all use 26 June 2013 as the case that, in their view, went too far. That makes the arrêt important for *both* sides of the European parental-alienation debate – PA-positive advocates cite it as proof that French law is open to alienation-based residence transfers; PA-critical voices cite it as the high point of a SAP wave that has since been actively rolled back.
 
-For the wider European picture, this French arrêt should be read alongside the German BVerfG 1 BvR 1076/23 (2023) and Spanish Tribunal Supremo SAP jurisprudence as a comparative-law illustration that civil-law systems are not converging on a single answer. France took an early, narrow procedural step in favour of SAP-style reasoning in 2013, and then – through ministerial guidance and statutory reform rather than through Cour de cassation overruling – pulled back from that step. The arrêt of 26 June 2013 remains the law; the policy environment around it has changed.
+For the wider European picture, this French arrêt should be read alongside the German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) and Spanish [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) SAP jurisprudence as a comparative-law illustration that civil-law systems are not converging on a single answer. France took an early, narrow procedural step in favour of SAP-style reasoning in 2013, and then – through ministerial guidance and statutory reform rather than through Cour de cassation overruling – pulled back from that step. The arrêt of 26 June 2013 remains the law; the policy environment around it has changed.
 
 ## Sources
 

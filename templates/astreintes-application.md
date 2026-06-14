@@ -37,7 +37,7 @@ The request typically includes:
 
 | Jurisdiction | Statutory authority | Notes |
 |---|---|---|
-| Belgium | Code judiciaire Art. 1385bis–1385nonies | Cour de cassation has confirmed astreintes apply to contact orders. Pair with a request that the President of the Tribunal de la famille set the rate. |
+| Belgium | Code judiciaire Art. 1385bis–1385nonies | [Cour de cassation](https://www.courdecassation.fr/) has confirmed astreintes apply to contact orders. Pair with a request that the President of the Tribunal de la famille set the rate. |
 | France | Code des procédures civiles d'exécution (CPCE) L. 131-1 to L. 131-4 | The juge de l'exécution sets and liquidates. Often paired with Art. 373-2-6 [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) contact-obstruction findings. |
 | Netherlands | Wetboek van Burgerlijke Rechtsvordering (Rv) Art. 611a–h | The dwangsom (Dutch equivalent of astreinte) is granted by the rechter who issues the underlying order. |
 

@@ -61,7 +61,7 @@ Congolese family-court decisions are anonymised per Supreme Court practice using
 
 ## Editorial notes
 
-- Republic of the Congo jurisdiction sidecar — civil-law Central African Francophone (French-derivative + Family Code 1984 + Law on Child Protection 2010 + Hague Convention 1980 accession 2009).
+- Republic of the Congo jurisdiction sidecar — civil-law Central African Francophone (French-derivative + Family Code 1984 + Law on Child Protection 2010 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2009).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Central African + Francophone + civil-law + French-derivative + Hague Convention clusters within the corpus.
 

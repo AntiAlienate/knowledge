@@ -72,7 +72,7 @@ Family, friends, and generalist therapists describe it as "shy," "quirky," "an o
 - Perry, B. D., & Szalavitz, M. (2017). *The Boy Who Was Raised as a Dog* (3rd ed.). Basic Books.
 - Schore, A. N. (2001). The effects of early relational trauma on right brain development, affect regulation, and infant mental health. *Infant Mental Health Journal, 22*(1-2), 201–269.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.* W. W. Norton.
-- Baker, A. J. L., & Verrocchio, M. C. (2015). Parental bonding and parental alienation as correlates of psychological maltreatment in adults. *Journal of Child and Family Studies, 24*(7), 2179–2192.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Verrocchio, M. C. (2015). Parental bonding and parental alienation as correlates of psychological maltreatment in adults. *Journal of Child and Family Studies, 24*(7), 2179–2192.
 - Erikson, E. H. (1968). *Identity: Youth and Crisis.* W. W. Norton.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 

@@ -4,13 +4,13 @@
 
 This file consolidates EU member-state family-law practitioners (Germany, France, Spain, Italy, Netherlands, Belgium) who have appeared as named counsel in apex PA litigation, published on PA / SAP / ouderverstoting / aliénation parentale / alienazione genitoriale at scholarly or peer-cited practitioner level, chaired an official PA-related expert body, or publicly stated a sourced stance through institutional advocacy. Per-country lawyer deepening is pending; this aggregate is the regional baseline before per-country v2 files are produced.
 
-Germany: BVerfG 1 BvR 1076/23 (Beschluss vom 17.11.2023, 1. Senat 3. Kammer) annulled the OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' — the strongest German apex critique anchor. The DAV Familienrechtsausschuss (chair Eva Becker) and AG Familienrecht im DAV (chair Jochem Schausten) constitute the institutional middle pole through the FamR newsroom series (FamR 01/23, 12/24, 23/24, 25/24, 3/26).
+Germany: [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Beschluss vom 17.11.2023, 1. Senat 3. Kammer) annulled the OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' — the strongest German apex critique anchor. The DAV Familienrechtsausschuss (chair Eva Becker) and AG Familienrecht im DAV (chair Jochem Schausten) constitute the institutional middle pole through the FamR newsroom series (FamR 01/23, 12/24, 23/24, 25/24, 3/26).
 
 France: Cass. 1re civ., 26 juin 2013, n° 12-14.392 is the apex SAP-recognition arrêt. SCP Waquet, Farge et Hazan was counsel of record; SCP Richard (successor SCP Boré, Salve de Bruneton et Mégret) was opposing counsel. Practitioner-camp doctrinal anchor: Michèle Bauer's 2013 commentary. Active Paris recognition-camp practice pages: Ambroise Soreau (droit des pères) and Cyril Braniste (Village Justice 2021/2025).
 
 Spain: LOPIVI (Ley Orgánica 8/2021 de protección integral a la infancia y la adolescencia frente a la violencia, Disposición adicional 17a) is the apex statutory inadmission of SAP. The CGPJ removed the pro-SAP Guía following sustained Themis-led pressure. Themis (Asociación de Mujeres Juristas Themis) is the single best-organised jurists' collective on SAP / coordinación-parental critique; Altamira Gonzalo Valgañón (CGPJ vocal nominated 2024) and María Durán Febrer (Institut Balear de la Dona director) are the two named institutional voices.
 
-Italy: Cassazione apex critique line — Cass. civ. sez. I 13217/2021, ord. 24 marzo 2022 n. 9691 (caso Massaro, sentenza Acierno), and ord. 2025 n. 4595 — consolidates the Italian Supreme Court rejection of PAS / alienazione genitoriale as scientific basis for residence-transfer orders. D.i.Re (Donne in Rete contro la violenza) and Differenza Donna are the institutional critique anchors via the Gruppo Avvocate; Titti Carrano (ex-Presidente Nazionale D.i.Re) is the most-cited named avvocata.
+Italy: [Cassazione](https://www.cortedicassazione.it/) apex critique line — Cass. civ. sez. I 13217/2021, ord. 24 marzo 2022 n. 9691 (caso Massaro, sentenza Acierno), and ord. 2025 n. 4595 — consolidates the Italian Supreme Court rejection of PAS / alienazione genitoriale as scientific basis for residence-transfer orders. D.i.Re (Donne in Rete contro la violenza) and Differenza Donna are the institutional critique anchors via the Gruppo Avvocate; Titti Carrano (ex-Presidente Nazionale D.i.Re) is the most-cited named avvocata.
 
 Netherlands: Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek (Jan 2021, chair familierechter Cees van Leuven) and Hoge Raad RFR 2021/26 constitute the procedural-middle framework. The vFAS (Vereniging van Familie- en Erfrecht Advocaten Scheidingsmediators) is the institutional gateway for certified Dutch family-law advocate-mediators.
 
@@ -41,7 +41,7 @@ Belgium: IEFH/IGVM (Institut pour l'égalité des femmes et des hommes / Institu
 ## Recognition camp
 
 ### SCP Waquet, Farge et Hazan
-*Avocats au Conseil d'État et à la Cour de cassation (SCP)*
+*Avocats au Conseil d'État et à la [Cour de cassation](https://www.courdecassation.fr/) (SCP)*
 Paris · Île-de-France · Ordre des avocats au Conseil d'État et à la Cour de cassation (60-firm closed corporation)
 
 **Stance:** Counsel of record before the Cour de cassation in Cass. 1re civ., 26 juin 2013, n° 12-14.392 — the first apex French SAP-recognition arrêt (Sophie Paricard / Michèle Bauer practitioner-camp commentary treats it as the FR jurisprudential anchor). Recognition stance is a filing-position attribution: SCP was counsel for the party whose theory the Cour de cassation upheld, legally consolidating the SAP-framed decision in French family law. Only French avocats-aux-Conseils firm publicly tied to a Cour de cassation arrêt naming aliénation parentale.
@@ -140,7 +140,7 @@ Köln · Nordrhein-Westfalen · Rechtsanwaltsgemeinschaft Hohenzollernring 25 (K
 **Stance:** Counsel of record (Bevollmächtigte) for the constitutional complainant in BVerfG 1 BvR 1076/23, Beschluss vom 17.11.2023 (1. Senat, 3. Kammer). BVerfG annulled OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' and therefore did not provide a kindeswohlorientierte basis. The only attorney in 2026 Germany with a published BVerfG win that explicitly classifies PAS as pseudoscientific — the single named-counsel anchor for any DE constitutional-litigation outreach on PA / Eltern-Kind-Entfremdung.
 
 **Publications:**
-- BVerfG 1 BvR 1076/23, Beschluss vom 17.11.2023 — Bevollmächtigte for the constitutional complainant (2023) — *Bundesverfassungsgericht (1. Senat, 3. Kammer)* — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
+- BVerfG 1 BvR 1076/23, Beschluss vom 17.11.2023 — Bevollmächtigte for the constitutional complainant (2023) — *[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (1. Senat, 3. Kammer)* — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
 
 **Verification:**
 - <https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2023/11/rk20231117_1bvr107623.pdf?__blob=publicationFile&v=1>
@@ -277,7 +277,7 @@ Roma (via D.i.Re segreteria nazionale) · Lazio · D.i.Re — Donne in Rete cont
 *Avvocata; laureata La Sapienza Roma 1996*
 Padova / Roma · Veneto / Lazio · Studio Legale Marina Marconato; Consiglio dell'Ordine degli Avvocati (Padova / Roma practice — specific Ordine not publicly confirmed)
 
-**Stance:** One of the few Italian individual avvocati with a publicly indexed 'alienazione parentale' practice page from the critique camp — verifiable, citable, contactable. Publishes on Cassazione decisions rejecting alienazione parentale / bigenitorialità forzosa and protecting minors. Marconato, 'IO RESTO QUI. I minori e la protezione della Corte di Cassazione: NO alla alienazione parentale ed alla bigenitorialità forzosa' and firm-site practice page on Cass. civ. I 9691/2022 and follow-on jurisprudence.
+**Stance:** One of the few Italian individual avvocati with a publicly indexed 'alienazione parentale' practice page from the critique camp — verifiable, citable, contactable. Publishes on Cassazione decisions rejecting alienazione parentale / bigenitorialità forzosa and protecting minors. Marconato, 'IO RESTO QUI. I minori e la protezione della [Corte di Cassazione](https://www.cortedicassazione.it/): NO alla alienazione parentale ed alla bigenitorialità forzosa' and firm-site practice page on Cass. civ. I 9691/2022 and follow-on jurisprudence.
 
 **Publications:**
 - IO RESTO QUI. I minori e la protezione della Corte di Cassazione: NO alla alienazione parentale ed alla bigenitorialità forzosa (2022) — *Studio Legale Marina Marconato* — <http://studiolegalemarinamarconato.it/io-resto-qui-i-minori-e-la-protezione-della-corte-di-cassazione-no-alla-alienazione-parentale-e-alla-bigenitorialita-forzosa/>

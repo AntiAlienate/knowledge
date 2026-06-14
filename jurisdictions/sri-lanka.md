@@ -15,7 +15,7 @@ Sri Lanka is a South Asian mixed-legal-system unitary republic combining Roman-D
 
 - **General Marriage Ordinance 1907** — General Marriage Ordinance (1907) — <https://www.parliament.lk/>
   - Federal statute governing general marriage and divorce matters.
-- **Muslim Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1951** — Muslim Marriage and Divorce Act (1951) — <https://www.parliament.lk/>
+- **Muslim Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1951** — Muslim Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) (1951) — <https://www.parliament.lk/>
   - Federal statute governing Muslim personal-status matters via Quazi Courts.
 - **Kandyan Marriage and Divorce Act 1952** — Kandyan Marriage and Divorce Act (1952) — <https://www.parliament.lk/>
   - Federal statute governing Kandyan Sinhalese personal-status matters.
@@ -62,7 +62,7 @@ Sri Lankan family-court decisions are anonymised per Supreme Court practice usin
 
 ## Editorial notes
 
-- Sri Lanka jurisdiction sidecar — mixed-legal-system framework (Roman-Dutch civil-law substantive + English common-law procedural + religious-community personal laws). General Marriage Ordinance 1907 + Muslim/Kandyan/Thesawalamai community frameworks + Hague Convention 1980 accession 2002.
+- Sri Lanka jurisdiction sidecar — mixed-legal-system framework (Roman-Dutch civil-law substantive + English common-law procedural + religious-community personal laws). General Marriage Ordinance 1907 + Muslim/Kandyan/Thesawalamai community frameworks + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2002.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South Asian + Roman-Dutch + Hague Convention clusters within the corpus.
 

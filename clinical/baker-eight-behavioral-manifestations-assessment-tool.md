@@ -96,7 +96,7 @@ Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alie
 
 ## Training and certification
 
-- Multiple peer-reviewed publications by Baker on application
+- Multiple peer-reviewed publications by [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) on application
 - Family Court Review professional education
 - [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) training
 - International continuing-education programs

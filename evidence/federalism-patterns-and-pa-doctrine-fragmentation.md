@@ -29,7 +29,7 @@ Jurisdictions with federal apex unification and meaningful federal substantive l
 ### Cluster C — Unitary jurisdictions
 Jurisdictions with unified family-law architecture without significant federalism-fragmentation.
 
-**England and Wales** — Unified E&W jurisdiction under [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41). UK Supreme Court is final court of appeal for all UK constituent jurisdictions but each (E&W + Scotland + NI) operates distinct substantive children-law architecture. Re Y EWFC 38 operates UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework. Cross-link: jurisdiction:england-and-wales.
+**England and Wales** — Unified E&W jurisdiction under [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41). [UK Supreme Court](https://www.supremecourt.uk/) is final court of appeal for all UK constituent jurisdictions but each (E&W + Scotland + NI) operates distinct substantive children-law architecture. Re Y EWFC 38 operates UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework. Cross-link: jurisdiction:england-and-wales.
 
 **Scotland** — Distinct substantive children-law (Children (Scotland) Act 1995 + 2020) within unified UK. Cross-link: jurisdiction:scotland.
 
@@ -37,13 +37,13 @@ Jurisdictions with unified family-law architecture without significant federalis
 
 **Wales** — Shares unified E&W substantive frame with [Cafcass Cymru](https://www.cafcass.gov.uk/) devolved Welsh Government institutional differentiation. Cross-link: jurisdiction:wales.
 
-**Italy** — Unified Italian Civil Code + Cassazione apex. Riforma Cartabia D.lgs. 149/2022 + Cassazione triad operate at unified national level. Cross-link: jurisdiction:italy.
+**Italy** — Unified Italian Civil Code + [Cassazione](https://www.cortedicassazione.it/) apex. Riforma Cartabia D.lgs. 149/2022 + Cassazione triad operate at unified national level. Cross-link: jurisdiction:italy.
 
-**Germany** — Unified Civil Code + BVerfG constitutional jurisdiction + OLG appellate. Federal Republic but family-law substantively unified at Bundes level. Cross-link: jurisdiction:germany.
+**Germany** — Unified Civil Code + [BVerfG](https://www.bundesverfassungsgericht.de/) constitutional jurisdiction + OLG appellate. Federal Republic but family-law substantively unified at Bundes level. Cross-link: jurisdiction:germany.
 
 **Spain** — Constitutional unified Código Civil + LOPIVI 2021 + STS 519/2017 apex; significant institutional variation at Comunidad Autónoma level (Catalunya Codi civil + País Vasco + Aragón + Navarra). Cross-link: jurisdiction:spain.
 
-**France** — Unified [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) + Cour de cassation. Cross-link: jurisdiction:france.
+**France** — Unified [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) + [Cour de cassation](https://www.courdecassation.fr/). Cross-link: jurisdiction:france.
 
 **Netherlands** — Unified Burgerlijk Wetboek + Jeugdwet (Jeugdwet 2015 decentralises jeugdhulp to gemeenten — operational not substantive fragmentation). Cross-link: jurisdiction:netherlands.
 
@@ -103,13 +103,13 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 | **Brazil** | Federal-unified | Lei 12.318/2010 + ECA | state operational variation | CFP + CFESS federal | CRP/CRESS regional |
 | **Argentina** | Federal + provincial colegios | CCyC 2014 + leyes federales | provincial procedural | FePRA + AAPS | 7 provincial Colegios |
 | **India** | Federal + personal-law | HMA + HMGA + FCA 1984 + GWA | state operational | RCI + NMC + IPS + IAPP | state institutional |
-| **UK constituents** | 4 constituent unitary | UKSC apex + HCPC UK-wide | E&W CA1989 + SCO + NI + WLS | HCPC + GMC + [BPS](https://www.bps.org.uk/) | constituent-level institutional |
+| **UK constituents** | 4 constituent unitary | UKSC apex + [HCPC](https://www.hcpc-uk.org/) UK-wide | E&W CA1989 + SCO + NI + WLS | HCPC + GMC + [BPS](https://www.bps.org.uk/) | constituent-level institutional |
 | **Italy** | Unitary | [Codice Civile](https://www.brocardi.it/codice-civile/) + Riforma Cartabia | nil | CNOP federal | varies |
 | **Germany** | Federal-unitary | [BGB](https://www.gesetze-im-internet.de/bgb/) + Grundgesetz | Land institutional | BÄK + BPtK federal | Land-level institutional |
 | **Spain** | Unitary + autonomic | Código Civil + LOPIVI | Catalunya Codi civil + autonomies | COP federal | provincial colegios |
 | **France** | Unitary | [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) | nil | Ordre des Médecins | nil |
 | **Netherlands** | Unitary + decentralised jeugdhulp | BW + Jeugdwet 2015 | gemeentelijke jeugdhulp | NIP + NVvP voluntary | nil |
-| **Belgium** | Federal + community | Code civil + federal Loi BIG 1993 | FWB+Vlaams community decrees | Compsy + BFP-BPF + IEFH/IGVM | varies |
+| **Belgium** | Federal + community | [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) + federal Loi BIG 1993 | FWB+Vlaams community decrees | Compsy + BFP-BPF + IEFH/IGVM | varies |
 | **Singapore** | Unitary | Women's Charter + FJA 2014 | nil | SRP+SPS voluntary + SMC | nil |
 | **Hong Kong** | Unitary (One Country Two Systems) | Cap. 13 + 179 + 192 | nil | HKPS voluntary + MCHK | nil |
 | **Japan** | Unitary | Civil Code 民法 + Act 33/2024 | nil | Kōnin Shinrishi statutory + NMC | nil |

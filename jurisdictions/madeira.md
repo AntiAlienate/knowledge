@@ -30,7 +30,7 @@ Madeira (Região Autónoma da Madeira / RAM) is a North-eastern Atlantic civil-l
 ### Supremo Tribunal de Justiça
 <https://www.stj.pt/>
 
-### Tribunal Constitucional
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/)
 <https://www.tribunalconstitucional.pt/>
 
 ## Professional regulators

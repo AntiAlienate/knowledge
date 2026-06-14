@@ -3,7 +3,7 @@
 **Jurisdiction code:** `IT` · **Legal system:** civil-law  
 **Language(s):** it  
 
-Italy carries the European Union's most fully developed statute-and-case-law stance against the use of the so-called Parental Alienation Syndrome (PAS) and its lexical equivalents in family-court Consulenze Tecniche d'Ufficio (CTU). The Corte di Cassazione Sezione I Civile has issued a closing triad of critique ordinances — Cass. 13217/2021, Cass. 9691/2022 (the 'Massaro' case) and Cass. 4595/2025 — anchored statutorily in the [Codice Civile](https://www.brocardi.it/codice-civile/) bigenitorialità framework and procedurally reinforced by the 2022 Riforma Cartabia (D.lgs. 149/2022, artt. 473-bis ss. c.p.c.). The domestic apex line is complemented vertically by an ECHR Strasbourg cluster (Lombardo, Improta, Strumia, Bondavalli, Solarino, R.V.) finding repeated Italian Article 8 violations on contact-enforcement, and institutionally by the 2012 Ministero della Salute nota and the CISMAI / ONPI critique axis.
+Italy carries the European Union's most fully developed statute-and-case-law stance against the use of the so-called Parental Alienation Syndrome (PAS) and its lexical equivalents in family-court Consulenze Tecniche d'Ufficio (CTU). The [Corte di Cassazione](https://www.cortedicassazione.it/) Sezione I Civile has issued a closing triad of critique ordinances — Cass. 13217/2021, Cass. 9691/2022 (the 'Massaro' case) and Cass. 4595/2025 — anchored statutorily in the [Codice Civile](https://www.brocardi.it/codice-civile/) bigenitorialità framework and procedurally reinforced by the 2022 Riforma Cartabia (D.lgs. 149/2022, artt. 473-bis ss. c.p.c.). The domestic apex line is complemented vertically by an ECHR Strasbourg cluster (Lombardo, Improta, Strumia, Bondavalli, Solarino, R.V.) finding repeated Italian Article 8 violations on contact-enforcement, and institutionally by the 2012 Ministero della Salute nota and the CISMAI / ONPI critique axis.
 
 ## PA recognition status
 
@@ -14,10 +14,10 @@ Italy carries the European Union's most fully developed statute-and-case-law sta
 ## Statutory framework
 
 - **[Codice Civile](https://www.brocardi.it/codice-civile/) art. 337-ter** — Provvedimenti riguardo ai figli — diritto del minore alla bigenitorialità e responsabilità genitoriale (2013) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-ii/art337ter.html>
-  - Cardine sostanziale dei rimedi 'AP-style' senza nominare la PAS: il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale del minore e al diritto del minore a mantenere un rapporto equilibrato e continuativo con ciascun genitore. È l'aggancio statutario indiretto su cui poggia la giurisprudenza Cassazione 2021–2025 quando ordina al giudice di merito di bilanciare bigenitorialità e rischio di trauma.
+  - Cardine sostanziale dei rimedi 'AP-style' senza nominare la PAS: il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale del minore e al diritto del minore a mantenere un rapporto equilibrato e continuativo con ciascun genitore. È l'aggancio statutario indiretto su cui poggia la giurisprudenza [Cassazione](https://www.cortedicassazione.it/) 2021–2025 quando ordina al giudice di merito di bilanciare bigenitorialità e rischio di trauma.
 - **[Codice Civile](https://www.brocardi.it/codice-civile/) art. 337-octies** — Poteri del giudice e ascolto del minore (2013) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-ii/art337octies.html>
   - Disciplina l'ascolto del minore ultradodicenne (e dell'infradodicenne capace di discernimento) e il ricorso a esperti — base normativa cui Cass. 9691/2022 e Cass. 4595/2025 agganciano l'obbligo di ascolto diretto non delegabile al CTU, pena nullità.
-- **Codice Civile artt. 330, 333, 336** — Decadenza, condotta pregiudizievole e procedimento de potestate (1942) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art330.html>
+- **[Codice Civile](https://www.brocardi.it/codice-civile/) artt. 330, 333, 336** — Decadenza, condotta pregiudizievole e procedimento de potestate (1942) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art330.html>
   - Quadro de potestate dei provvedimenti più incisivi (decadenza dalla responsabilità genitoriale, allontanamento, collocamento in casa-famiglia) — proprio quelli che la Cass. 9691/2022 ha ritenuto non potersi fondare sulla PAS o suoi corollari pseudoscientifici.
 - **Codice di Procedura Civile art. 709-ter e 709-quater** — Soluzione delle controversie e provvedimenti in caso di inadempienze o violazioni (2006) — <https://www.brocardi.it/codice-procedura-civile/libro-secondo/titolo-ii/capo-i/sezione-ii/art709ter.html>
   - Sede processuale tipica delle controversie su affidamento e visite invocata nelle vicende oggetto della triade Cassazione e nei casi ECHR italiani — strumento ordinario per riequilibrio del regime visite senza ricorrere a etichette PAS.
@@ -43,7 +43,7 @@ Italy carries the European Union's most fully developed statute-and-case-law sta
 ### Corte Costituzionale
 <https://www.cortecostituzionale.it/>
 
-### European Court of Human Rights (Strasbourg jurisdiction over Italy)
+### [European Court of Human Rights](https://www.echr.coe.int/) (Strasbourg jurisdiction over Italy)
 <https://hudoc.echr.coe.int/>
 - **Lombardo v. Italy, no. 25704/11, 29 January 2013 (Art. 8 violation — failure to enforce paternal contact)** (2013) — critique — [`lombardo-v-italy-echr-25704-11-2013`](../case-studies/lombardo-v-italy-echr-25704-11-2013.md)
 - **Strumia v. Italy, no. 53377/13, 23 June 2016 (Art. 8 violation — chronic enforcement failure)** (2016) — critique — [`strumia-v-italy-echr-53377-13-2016`](../case-studies/strumia-v-italy-echr-53377-13-2016.md)
@@ -114,7 +114,7 @@ La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia
 4. **Consiglio Nazionale dell'Ordine degli Psicologi (CNOP)** — <https://www.psy.it/> (CNOP) [it]
 5. **Famiglia e Diritto — rivista (Wolters Kluwer / IPSOA)** — <https://www.edicolaprofessionale.com/famigliaediritto> (Wolters Kluwer Italia / IPSOA) [it]
 6. **Diritto.it — portale giuridico** — <https://www.diritto.it/> (Diritto.it) [it]
-7. **[HUDOC](https://hudoc.echr.coe.int/) — European Court of Human Rights case-law database** — <https://hudoc.echr.coe.int/> (Council of Europe — ECHR) [en]
+7. **[HUDOC](https://hudoc.echr.coe.int/) — European Court of Human Rights case-law database** — <https://hudoc.echr.coe.int/> ([Council of Europe](https://www.coe.int/) — ECHR) [en]
 8. **GREVIO Italy Baseline Evaluation Report (January 2020)** — <https://www.coe.int/en/web/istanbul-convention/italy> (Council of Europe — GREVIO) [en]
 9. **Cass. civ. Sez. I ord. 24 marzo 2022 n. 9691 — testo integrale (Studio Ruffinotti repository)** — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf> (Studio Legale Ruffinotti (repository)) [it]
 10. **Normattiva — portale ufficiale della legislazione vigente** — <https://www.normattiva.it/> (Istituto Poligrafico e Zecca dello Stato) [it]
@@ -125,7 +125,7 @@ La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia
 
 - Cass. 9691/2022 è notoriamente il caso di Laura Massaro: la pubblicazione del provvedimento mantiene 'M.L.' ex D.Lgs. 196/2003 art. 52, mentre nel discorso pubblico (Differenza Donna, Telefono Rosa, stampa) il caso è citato con il nome dell'interessata.
 - Cass. 4595/2025 estende la ratio del triade ai casi in cui il provvedimento di merito non pronuncia la sigla 'PAS' ma ne utilizza il calco lessicale ('processo progressivo e cronico di denigrazione e delegittimazione della figura paterna', 'funzionamento personologico simbiotico ostracizzante'). È il vero closing-stone della linea apicale italiana.
-- L'Italia è la giurisdizione UE con la critica apicale alla PAS più strutturata — più articolata di Spagna (STS 519/2017 singola) per numero di pronunce e per chiusura lessicale, e più forte di Germania (BVerfG 1 BvR 1076/23 singola) per la concatenazione tra giurisdizione costituzionale, riforma processuale codificata e cluster CEDU.
+- L'Italia è la giurisdizione UE con la critica apicale alla PAS più strutturata — più articolata di Spagna (STS 519/2017 singola) per numero di pronunce e per chiusura lessicale, e più forte di Germania ([BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 singola) per la concatenazione tra giurisdizione costituzionale, riforma processuale codificata e cluster CEDU.
 - Il riferimento Riforma Cartabia 2022 (D.Lgs. 149/2022) è il moltiplicatore istituzionale che converte la critica giurisprudenziale in protocollo procedurale per ogni CTU psicologica in materia di affidamento.
 - Lo Strasburgo-cluster italiano (Lombardo 2013, Strumia 2016, Improta 2017, Bondavalli, Solarino, R.V.) costituisce un vincolo CEDU autonomo e complementare rispetto alla critica apicale Cassazione: violazioni reiterate dell'art. 8 sul versante dell'enforcement del regime visite, indipendenti dalla questione PAS in senso stretto ma sistematicamente intrecciate con essa nei procedimenti di merito.
 

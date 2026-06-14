@@ -63,7 +63,7 @@ Belarusian family-court decisions are anonymised per Supreme Court practice usin
 
 ## Editorial notes
 
-- Belarus jurisdiction sidecar — civil-law post-Soviet Eastern Europe. Code on Marriage and Family 1999 + Law on Rights of the Child 1993 + Hague Convention 1980 accession 1998 (earliest post-Soviet).
+- Belarus jurisdiction sidecar — civil-law post-Soviet Eastern Europe. Code on Marriage and Family 1999 + Law on Rights of the Child 1993 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1998 (earliest post-Soviet).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Eastern European + civil-law + post-Soviet + early Hague Convention clusters within the corpus.
 

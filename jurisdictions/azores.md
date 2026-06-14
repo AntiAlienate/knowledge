@@ -32,7 +32,7 @@ The Azores (Região Autónoma dos Açores / RAA) are a North Atlantic civil-law 
 ### Supremo Tribunal de Justiça
 <https://www.stj.pt/>
 
-### Tribunal Constitucional
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/)
 <https://www.tribunalconstitucional.pt/>
 
 ## Professional regulators

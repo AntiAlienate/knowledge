@@ -90,7 +90,7 @@ The five-factor structure prevents:
 
 ## Companion frameworks
 
-- **Baker Eight Behavioural Manifestations**: child-symptom-focused (Factor 5 detail)
+- **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Eight Behavioural Manifestations**: child-symptom-focused (Factor 5 detail)
 - **Drozd-Olesen Decision Tree**: comprehensive differential alienation/estrangement/abuse
 - **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) empirical assessment**: structured-interview protocol
 - **Garber Hybrid Cases framework**: cases with elements of both

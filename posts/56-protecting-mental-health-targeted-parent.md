@@ -76,7 +76,7 @@ This is anchored in the same framework that codifies PA itself as a recognized h
 - Walker, P. (2013). *Complex PTSD: From Surviving to Thriving.*
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- Baker, A. J. L., & Verrocchio, M. C. (2015). Parental bonding and parental alienation as correlates of psychological maltreatment in adults. *Journal of Child and Family Studies, 24*(7), 2179–2192.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Verrocchio, M. C. (2015). Parental bonding and parental alienation as correlates of psychological maltreatment in adults. *Journal of Child and Family Studies, 24*(7), 2179–2192.
 - WHO [ICD-11](https://icd.who.int/) 6B41 — Complex Post-Traumatic Stress Disorder.
 - [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse.
 

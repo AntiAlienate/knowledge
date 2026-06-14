@@ -26,7 +26,7 @@ location_tags: [united-states, international, baker, 8-indicators, adult-outcome
 
 > [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton & Company. ISBN 978-0393705195
 
-## The 8 behavioral indicators (Baker)
+## The 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation))
 
 Baker's 8 indicators describe the **alienating parent's behavior** — what the favored parent does that engineers the child's rejection:
 

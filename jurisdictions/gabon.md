@@ -61,7 +61,7 @@ Gabonese family-court decisions are anonymised per Court of Cassation practice u
 
 ## Editorial notes
 
-- Gabon jurisdiction sidecar — civil-law Central African Francophone (Civil Code 1989 + Law on Children's Rights Protection 2010 + Hague Convention 1980 accession 2011).
+- Gabon jurisdiction sidecar — civil-law Central African Francophone (Civil Code 1989 + Law on Children's Rights Protection 2010 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2011).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Central African + Francophone + civil-law + French-derivative + Hague Convention clusters within the corpus.
 

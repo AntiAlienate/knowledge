@@ -102,7 +102,7 @@ George · Western Cape (Garden Route, Heather Park) · Independent counselling p
 
 **Publications:**
 - Father's expert of record in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (2023) — *Gauteng Local Division Johannesburg (Adams J); SAFLII* — <https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html>
-- [Family Bridges](https://warshak.com/family-bridges/) Program-trained reunification work (USA training April 2014) (2014) — *Family Bridges Program / [Warshak](https://warshak.com/family-bridges/) et al.*
+- [Family Bridges](https://warshak.com/family-bridges/) Program-trained reunification work (USA training April 2014) (2014) — *[Family Bridges](https://warshak.com/family-bridges/) Program / [Warshak](https://warshak.com/family-bridges/) et al.*
 - [PASG](https://pasg.info/) SA chapter pioneer (inclusion March 2015) (2015) — *[Parental Alienation Study Group](https://pasg.info/)*
 - Acacia Training PA speaker materials (2018) — *Acacia Training* — <https://training.acaciatraining.co.za/speaker/christie-els-652513>
 - Els v Health Professionals Council of SA and Others (5845/2022) [2022] ZAWCHC 106 (30 May 2022) (2022) — *Western Cape High Court; SAFLII* — <https://www.saflii.org/za/cases/ZAWCHC/2022/106.html>
@@ -118,7 +118,7 @@ George · Western Cape (Garden Route, Heather Park) · Independent counselling p
 
 **Contact:** 7 Notsung Avenue, Heather Park, George; tel +27 (44) 884-1252; mobile +27 (83) 269-6057; LinkedIn https://za.linkedin.com/in/christieels
 
-*Notes: HPCSA Professional Board for Psychology (Counselling Psychologist); registration number not publicly displayed on iVote / RecoMed / training profiles (HPCSA register lookup required). PASG / Family Bridges credentials independently verifiable. Active HPCSA disciplinary process is the principal complication for outreach.*
+*Notes: HPCSA Professional Board for Psychology (Counselling Psychologist); registration number not publicly displayed on iVote / RecoMed / training profiles (HPCSA register lookup required). [PASG](https://pasg.info/) / Family Bridges credentials independently verifiable. Active HPCSA disciplinary process is the principal complication for outreach.*
 
 **See also:** `jurisdiction:africa`, `jurisdiction:south-africa`, `practitioner:za.carr-leonard`, `practitioner:za.hpcsa`, `practitioner:za.pafsa`
 
@@ -175,7 +175,7 @@ Potchefstroom (NWU) · North-West Province · North-West University (NWU) Social
 *Institutional: women's-rights NGO (Cape Town); GBV / DV survivor support, court-support and shelter services; registered NPO*
 Cape Town · Western Cape · Mosaic Training, Service and Healing Centre for Women (NPO)
 
-**Stance:** Mosaic operates the DV-protective frame in SA NGO advocacy: court support for survivors seeking Protection Orders under Domestic Violence Act 116/1998, paralegal advocacy, and structural critique of family-court processes that re-traumatise GBV survivors. PA-construct critique is implicit rather than explicitly published — Mosaic carries the SA institutional-critique register that would, by structural analogy with FIDA Kenya / Project Alert / WACOL, engage cases like BVerfG 1 BvR 1076/23 (Germany 2023) and Cassazione 9691/2022 (Italy) as comparative authority for PA-construct critique in DV contexts. Listed for institutional-critique register completeness; specific PA position-paper not publicly confirmed.
+**Stance:** Mosaic operates the DV-protective frame in SA NGO advocacy: court support for survivors seeking Protection Orders under Domestic Violence Act 116/1998, paralegal advocacy, and structural critique of family-court processes that re-traumatise GBV survivors. PA-construct critique is implicit rather than explicitly published — Mosaic carries the SA institutional-critique register that would, by structural analogy with FIDA Kenya / Project Alert / WACOL, engage cases like [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023) and [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) as comparative authority for PA-construct critique in DV contexts. Listed for institutional-critique register completeness; specific PA position-paper not publicly confirmed.
 
 **Publications:**
 - Court-support and survivor-advocacy programmes under Domestic Violence Act 116/1998 (2020) — *Mosaic Cape Town*

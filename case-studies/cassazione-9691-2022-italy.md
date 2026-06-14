@@ -1,4 +1,4 @@
-# Cassazione, Sez. I Civile, ordinanza n. 9691 del 24 marzo 2022
+# [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 9691 del 24 marzo 2022
 
 **ECLI:** `ECLI:IT:CASS:2022:9691CIV`  
 **Court:** Corte Suprema di Cassazione, Sezione Prima Civile  
@@ -85,8 +85,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 
 ## Comparative jurisprudence
 
-- **BVerfG, Beschluss 1 BvR 1076/23 vom 17.11.2023** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Germania — Bundesverfassungsgericht riprende sostanzialmente la stessa ratio (PAS come 'überkommene und fachwissenschaftlich als widerlegt geltende Konzept'), ancorandola però al diritto fondamentale di cui all'art. 6 GG; la linea italiana del 2022 anticipa di 20 mesi la traiettoria tedesca apicale.
-- **Tribunal Supremo (Sala Primera), STS 519/2017 de 27 de septiembre** (ES) — Spagna — Tribunale Supremo, prima sezione civile, parallela critica apicale al ricorso a SAP/SAI nei procedimenti di famiglia, sulla base dell'assenza di riconoscimento nel DSM/ICD; convergenza dottrinale latino-europea con Cass. 9691/2022.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss 1 BvR 1076/23 vom 17.11.2023** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Germania — [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) riprende sostanzialmente la stessa ratio (PAS come 'überkommene und fachwissenschaftlich als widerlegt geltende Konzept'), ancorandola però al diritto fondamentale di cui all'art. 6 GG; la linea italiana del 2022 anticipa di 20 mesi la traiettoria tedesca apicale.
+- **[Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) (Sala Primera), STS 519/2017 de 27 de septiembre** (ES) — Spagna — Tribunale Supremo, prima sezione civile, parallela critica apicale al ricorso a SAP/SAI nei procedimenti di famiglia, sulla base dell'assenza di riconoscimento nel DSM/ICD; convergenza dottrinale latino-europea con Cass. 9691/2022.
 - **Conselho Federal de Psicologia, Nota Técnica nº 4/2022** (BR) — Brasile — posizione istituzionale dell'ordine federale degli psicologi sul cattivo uso dell'AP/SAP nelle perizie forensi; parallela cornice istituzionale del 2022 sul medesimo asse critico.
 - **Re Y [2026] EWFC 38** (UK-EWS) — Inghilterra & Galles — Sir Andrew McFarlane P annulla le conclusioni di un valutatore PA non regolamentato; sviluppa il versante 'qualità del valutatore' del medesimo problema metodologico denunciato da Cass. 9691/2022.
 - **Convenzione di Istanbul, art. 31 — GREVIO Italia 2020** (INT) — GREVIO Baseline Evaluation Report on Italy (gennaio 2020) flagged the misuse of PAS-like constructs by Italian family courts as incompatible con art. 31 della Convenzione di Istanbul; cornice sovranazionale a monte di Cass. 9691/2022.
@@ -123,7 +123,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ## Sources
 
 1. **Cassazione Civile, sez. I, ord. 24 marzo 2022, n. 9691 — testo integrale (PDF)** — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf> (Studio Legale Ruffinotti (riproduzione del testo integrale dell'ordinanza)) [it] — accessed 2026-05-30
-2. **Italgiure — banca dati ufficiale della Corte di Cassazione (ricerca per numero 9691/2022, Sez. I Civile)** — <https://www.italgiure.giustizia.it/sncass/> (Corte Suprema di Cassazione — CED) [it] — accessed 2026-05-30
+2. **Italgiure — banca dati ufficiale della [Corte di Cassazione](https://www.cortedicassazione.it/) (ricerca per numero 9691/2022, Sez. I Civile)** — <https://www.italgiure.giustizia.it/sncass/> (Corte Suprema di Cassazione — CED) [it] — accessed 2026-05-30
 3. **Differenza Donna — 'Pubblichiamo ordinanza di cassazione n 9691/2022: la Cassazione dà ragione a Laura Massaro'** — <https://www.differenzadonna.org/news/la-cassazione-da-ragione-a-laura-massaro-ha-vinto-laura-abbiamo-vinto-tutte/> (Differenza Donna ONG) [it] — accessed 2026-05-30
 4. **Boiano, 'La Cassazione disconosce la scientificità della c.d. sindrome da alienazione parentale. Commento a Cass. Civ. 24 marzo 2022 n. 9691'** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme) [it] — accessed 2026-05-30
 5. **Diritti Fondamentali — 'Cassazione: la Sindrome da Alienazione Parentale (PAS) è illegittima'** — <https://dirittifondamentali.it/2022/04/06/cassazione-la-sindrome-da-alienazione-parentale-pas-e-illegittima-cass-civ-sez-i-ord-24-marzo-2022-n-9691/> (Diritti Fondamentali — rivista quadrimestrale online) [it] — accessed 2026-05-30

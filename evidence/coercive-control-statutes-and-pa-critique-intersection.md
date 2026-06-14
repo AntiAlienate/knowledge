@@ -33,7 +33,7 @@ France has not enacted dedicated coercive-control criminal statute but has devel
 ### 9. Spain — LOPIVI 2021 + violencia vicaria coinage
 **Sonia Vaccaro 'violencia vicaria' coinage** (Vaccaro & Barea 2009, Desclée de Brouwer) provides the Spanish individual-clinician academic anchor for substitutive critique-camp framing. LOPIVI 2021 Disposición adicional 17ª provides statutory inadmission of SAP label. Together operate as Spanish multi-layer critique framework. Cross-link: jurisdiction:spain.
 
-### 10. Italy — DV statutory framework + Cassazione 9691/2022 + Riforma Cartabia
+### 10. Italy — DV statutory framework + [Cassazione](https://www.cortedicassazione.it/) 9691/2022 + Riforma Cartabia
 Italian DV statutory framework (Codice Rosso reform 2019) operates alongside the Cassazione critique line (13217/2021 + 9691/2022 + 4595/2025) + Riforma Cartabia D.lgs. 149/2022. Cassazione 9691/2022 engages PAS-construct disqualification while preserving DV-protective procedural-due-diligence under Article 8. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
 
 ### 11. South Africa — Domestic Violence Act 116/1998 (amended by Act 14/2021)
@@ -48,7 +48,7 @@ Italian DV statutory framework (Codice Rosso reform 2019) operates alongside the
 ## Structural observations
 
 ### 1. Parallel reform sequences 2015-2024
-The coercive-control statutory reform wave (E&W 2015 + Scotland 2018 + NI 2021 + AU 2022-2023 + Chile 2024 + Japan 2024 amendments + SA 2021 amendment) operates IN PARALLEL with the EU 2017-2025 apex sequence (STS 519/2017 + Cassazione triad + BVerfG 2023 + SN III CZP 20/25) and the Asian apex recognition cluster (Vivek Singh 2017 + TEN v TEO 2020 + H v W 2021 + Japan Act 33/2024). The parallel sequences suggest a global structural shift in DV-protective framing 2015-2024.
+The coercive-control statutory reform wave (E&W 2015 + Scotland 2018 + NI 2021 + AU 2022-2023 + Chile 2024 + Japan 2024 amendments + SA 2021 amendment) operates IN PARALLEL with the EU 2017-2025 apex sequence (STS 519/2017 + Cassazione triad + [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 + SN III CZP 20/25) and the Asian apex recognition cluster (Vivek Singh 2017 + TEN v TEO 2020 + H v W 2021 + Japan Act 33/2024). The parallel sequences suggest a global structural shift in DV-protective framing 2015-2024.
 
 ### 2. Coercive control framing operates as alternative critique-anchor
 Where PA-construct deployment is contested in family-court contexts, coercive-control framing operates as the principal alternative explanatory lens. Belgium IEFH/IGVM Recommandation 2023/001 makes this explicit: 'le syndrome d'aliénation parentale ne peut être utilisé pour minimiser la violence entre (ex-)partenaires.' Chile Ley 21.675/2024 violencia vicaria operates as direct conceptual substitution.

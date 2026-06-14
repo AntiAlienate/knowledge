@@ -26,7 +26,7 @@ Anonymisation by initial or pseudonym is standard for children + frequently for 
 
 **South Africa** — Children anonymised by initial; adult parties typically referenced by initial as well (e.g., T.L.D v B.G; ZDE v CE). Forensic-assessment experts (HPCSA-registered) ARE NAMED in published case reports — distinctive SA convention preserving expert accountability while protecting child identity. Cross-link: jurisdiction:south-africa.
 
-**India** — Supreme Court of India and High Court family-law judgments anonymise minor children by initial or alphabetical placeholder. Adult parties may be named in service judgments (Vivek Singh names both parties as the appellant was a serving Army officer) but children are uniformly initial-only. **POCSO Act 2012** mandates anonymisation of child sexual abuse complainants. Delhi HC convention uses generic placeholders (ABC v XYZ; A v B). Cross-link: jurisdiction:india.
+**India** — [Supreme Court of India](https://main.sci.gov.in/) and High Court family-law judgments anonymise minor children by initial or alphabetical placeholder. Adult parties may be named in service judgments (Vivek Singh names both parties as the appellant was a serving Army officer) but children are uniformly initial-only. **POCSO Act 2012** mandates anonymisation of child sexual abuse complainants. Delhi HC convention uses generic placeholders (ABC v XYZ; A v B). Cross-link: jurisdiction:india.
 
 **Mexico** — Sentencias SCJN + Tribunales Colegiados de Circuito anonimizan NNA mediante iniciales o nombres ficticios; partes adultas suelen también anonimizarse. Sentencias tutela usar prefijos 'T-' + 'C-' distinguir tipo. Cross-link: jurisdiction:mexico.
 
@@ -34,7 +34,7 @@ Anonymisation by initial or pseudonym is standard for children + frequently for 
 
 **Argentina** — Sentencias CSJN + CNCiv + tribunales provinciales anonimizan partes adultas e identidad NNA (e.g., 'CSJN P.B.E.G c. C.B.K.E.'). Cross-link: jurisdiction:argentina.
 
-**Brazil** — STF/STJ family-law decisions anonymise minor parties by initial per LGPD + ECA Lei 8.069/1990. Adult parties may be named or anonymised by Estado-level court convention. Cross-link: jurisdiction:brazil.
+**Brazil** — [STF](https://portal.stf.jus.br/)/STJ family-law decisions anonymise minor parties by initial per LGPD + ECA Lei 8.069/1990. Adult parties may be named or anonymised by Estado-level court convention. Cross-link: jurisdiction:brazil.
 
 **Chile** — Sentencias Corte Suprema + Cortes de Apelaciones identifican rol del expediente y mantienen nombres partes adultas con iniciales o seudónimos en materia de familia; NNA anonimizados consistentemente. Cross-link: jurisdiction:chile.
 
@@ -47,13 +47,13 @@ Adult party names are routinely published; children are anonymised by initial or
 
 **Canada** — Canadian provincial-superior-court family-law judgments anonymise minor children by initial (e.g., L.A.G. v. D.K.B.; Williamson v. Williamson). Adult parties may be named or anonymised depending on provincial reporting convention and case sensitivity. Quebec preserves francophone-language judgment publication. Cross-link: jurisdiction:canada.
 
-**Italy** — Cassazione sentenze + tribunali italiani anonimizzano minori ma frequentemente nominano parti adulte nelle ordinanze pubblicate. La sentenza Cassazione 9691/2022 usa convenzioni standard. Cross-link: jurisdiction:italy.
+**Italy** — [Cassazione](https://www.cortedicassazione.it/) sentenze + tribunali italiani anonimizzano minori ma frequentemente nominano parti adulte nelle ordinanze pubblicate. La sentenza Cassazione 9691/2022 usa convenzioni standard. Cross-link: jurisdiction:italy.
 
-**Germany** — BVerfG family-law decisions name children as 'Kind 1', 'Kind 2', or initials; Sachverständige (court-appointed experts) may be named publicly in operative reasoning or anonymised as 'Sachverständige A'. Cross-link: jurisdiction:germany.
+**Germany** — [BVerfG](https://www.bundesverfassungsgericht.de/) family-law decisions name children as 'Kind 1', 'Kind 2', or initials; Sachverständige (court-appointed experts) may be named publicly in operative reasoning or anonymised as 'Sachverständige A'. Cross-link: jurisdiction:germany.
 
-**Spain** — Anonimización per LOPJ 232 utilizando iniciales en sentencias publicadas. Tribunal Supremo + Audiencias Provinciales mantienen convención. Cross-link: jurisdiction:spain.
+**Spain** — Anonimización per LOPJ 232 utilizando iniciales en sentencias publicadas. [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) + Audiencias Provinciales mantienen convención. Cross-link: jurisdiction:spain.
 
-**France** — Cour de cassation + cours d'appel anonymisent enfants par initiale; parties adultes peuvent être nommées dans arrêts publiés. Convention française moins stricte que conventions de common-law. Cross-link: jurisdiction:france.
+**France** — [Cour de cassation](https://www.courdecassation.fr/) + cours d'appel anonymisent enfants par initiale; parties adultes peuvent être nommées dans arrêts publiés. Convention française moins stricte que conventions de common-law. Cross-link: jurisdiction:france.
 
 **Netherlands** — Hoge Raad + Gerechtshof familie-rechtelijke uitspraken anonimiseren minderjarige kinderen consistent; adult parties may be named in published arrests but more frequently are anonymised by initial or generic descriptor. Rechtspraak.nl uses ECLI-codes as the citation primitive. Cross-link: jurisdiction:netherlands.
 

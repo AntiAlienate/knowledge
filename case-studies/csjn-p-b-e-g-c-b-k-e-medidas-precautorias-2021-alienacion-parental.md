@@ -1,7 +1,7 @@
 # P. B., E. G. c/ B., K. E. s/ Medidas Precautorias (CSJN, 7 October 2021, CSJ 1813/2018/RH1) — and the Suprema Corte de Buenos Aires follow-up sentence of 9 August 2024 (C. 121.539)
 
 **Court:**
-- **Federal apex layer:** Corte Suprema de Justicia de la Nación (CSJN) — Supreme Court of Justice of the (Argentine) Nation
+- **Federal apex layer:** [Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/) (CSJN) — Supreme Court of Justice of the (Argentine) Nation
 - **Provincial layer that followed:** Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA) — Supreme Court of Justice of the Province of Buenos Aires
 
 **Date:**
@@ -101,7 +101,7 @@ The SCBA's sentencia notes that Dr. Mancini's vote is "**por los mismos fundamen
 - **Subsequent companion ruling in the same doctrinal line:** **Cámara Nacional de Apelaciones en lo Civil, Sala J**, 1 December 2021, "*E. J. M. y otro c/ S. R. K. s/ tenencia de hijos*", expte 57426/2011, ponentes Verón / Scolarici / Caia — described by Mizrahi as "**el primer fallo de la Cámara Civil que reconoce explícitamente [...] el cuadro de alienación parental en las relaciones parento filiales**." This Cámara Civil Sala J decision is the first explicit Cámara-level recognition and pairs naturally with the CSJN holding as the **two pillars of contemporary Argentine PA doctrine**.
 - **Lower-court companion ruling:** **Juzgado de Familia nº 1 de Tigre**, 26/5/2022, "G. B. S. c/ U. G. A. s/ Medidas precautorias", Expte. nº TG-2169-2021 (TR La Ley AR/JUR/87340/2022) — the case the SCJBA decision's reasoning influences at first-instance level, in which the judge imposed compulsory revinculación therapy under judicial mandate with sanctions under Article 804 of the Civil and Commercial Code.
 - **Earlier-vintage line cited by parties' briefs in the chain:** Cámara Nacional Civil and provincial superior courts' jurisprudence on **Ley 24.270** (the 1993 *Impedimento de Contacto* statute — the criminal-law backbone of Argentine contact-obstruction enforcement, which pre-dates Brazil's 2010 Alienação Parental statute by 17 years), repeatedly invoked in the litigation chain as the criminal mirror of the civil enforcement orders.
-- **International normative framework relied on:** Convención sobre los Derechos del Niño (CDN), Articles 3, 9 and 12; Convención Americana sobre Derechos Humanos, Articles 8.1 and 11; Observación General Nº 12 and Nº 14 of the UN Committee on the Rights of the Child; Argentine Ley 26.061 of integral protection of children's rights; Argentine Código Civil y Comercial Articles 1, 2, 26, 639 inc. "a", 702 inc. "d", 703, 704, 705, 706, 707, 710, 716 and following.
+- **International normative framework relied on:** Convención sobre los Derechos del Niño (CDN), Articles 3, 9 and 12; Convención Americana sobre Derechos Humanos, Articles 8.1 and 11; Observación General Nº 12 and Nº 14 of the UN [Committee on the Rights of the Child](https://www.ohchr.org/en/treaty-bodies/crc); Argentine Ley 26.061 of integral protection of children's rights; Argentine Código Civil y Comercial Articles 1, 2, 26, 639 inc. "a", 702 inc. "d", 703, 704, 705, 706, 707, 710, 716 and following.
 
 ## Reactions and commentary
 
@@ -171,7 +171,7 @@ For the AntiAlienate knowledge base, this is the **anchor Argentine case** and t
 - *SCJN, Acción de Inconstitucionalidad 11/2016* (Mexico, 2017) — see [scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca.md](scjn-accion-inconstitucionalidad-11-2016-alienacion-parental-oaxaca.md)
 - *STJ, REsp 1.859.228/SP* (Brazil, Nancy Andrighi 2024) — see [stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024.md](stj-resp-1859228-sp-nancy-andrighi-alienacao-parental-2024.md)
 - *STJ, REsp 2.108.750/GO* (Brazil 2024) — see [stj-resp-2108750-go-alienacao-parental-abuso-sexual-2024.md](stj-resp-2108750-go-alienacao-parental-abuso-sexual-2024.md)
-- *STS 519/2017* (Spain, Tribunal Supremo) — see [sts-519-2017-tribunal-supremo-alienacion-parental.md](sts-519-2017-tribunal-supremo-alienacion-parental.md)
+- *STS 519/2017* (Spain, [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/)) — see [sts-519-2017-tribunal-supremo-alienacion-parental.md](sts-519-2017-tribunal-supremo-alienacion-parental.md)
 - *Cass. 1re civ. 26 juin 2013, 12-14.392* (France) — see [cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md](cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md)
 
 ---

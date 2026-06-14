@@ -69,7 +69,7 @@
 
 **Citation.** Verrocchio, M. C., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408 — URL: https://pubmed.ncbi.nlm.nih.gov/27122408/
 
-**Sample / method.** 509 Italian community adults. Instruments: Baker Strategy Questionnaire; Psychological Maltreatment Measure; Parental Bonding Instrument; State-Trait Anxiety Inventory-Y; Beck Depression Inventory-II.
+**Sample / method.** 509 Italian community adults. Instruments: [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Strategy Questionnaire; Psychological Maltreatment Measure; Parental Bonding Instrument; State-Trait Anxiety Inventory-Y; Beck Depression Inventory-II.
 
 **Verbatim abstract excerpt.** "The aim of this study was to examine associations between exposure to alienating behaviors (ABs) and anxiety and depression as mediated through psychological maltreatment and parental bonding in a sample of Italian adults in the community."
 
@@ -85,7 +85,7 @@
 
 **Sample / method.** 739 Italian adults surveyed in Chieti retrospectively about childhood PA exposure (Baker Strategy Questionnaire) and current symptomatology (SCL-90-R).
 
-**Headline figures (from PubMed abstract, secondary verification).**
+**Headline figures (from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) abstract, secondary verification).**
 - ~75% endorsed some exposure to parental alienating behaviours
 - 15% endorsed the explicit item "tried to turn me against the other parent"
 - "Strong and statistically significant associations" between reported PA exposure and current symptomatology
@@ -351,7 +351,7 @@ Across the studies in §§1–7, the recurring limitations are:
 4. **Construct overlap with justified estrangement.** Children who reject a parent for *valid reasons* (abuse, neglect, frightening behaviour) may end up classified as "alienated" by partisan evaluators — and conversely, genuinely alienated children may be mis-classified as estranged. The PA construct, as measured in most outcome studies, does not cleanly separate these populations.
 5. **Cross-sectional design.** With the exception of the Chinese left-behind-children longitudinal studies (Qin 2022; Zhang 2024) and a handful of others, the literature is overwhelmingly cross-sectional, precluding strong causal inference.
 6. **Heterogeneity of operationalisation.** "Parental alienating behaviours" is variously measured by the Baker Strategy Questionnaire, by Bernet's PARQ-based work, by clinical case identification, and by self-report endorsement of single items. Effect sizes are not directly comparable across studies.
-7. **Publication and ideological bias.** The field is polarised; outcome studies are predominantly published by an interconnected group of authors (Bernet, Baker, Verrocchio, [Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/), Matthewson) and rebutted by another interconnected group (Mercer, Saini, Johnston, Fidler, Bala, Silberg, Dallam). Independent replication by neutral teams is sparse.
+7. **Publication and ideological bias.** The field is polarised; outcome studies are predominantly published by an interconnected group of authors (Bernet, Baker, Verrocchio, [Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/), Matthewson) and rebutted by another interconnected group (Mercer, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler, Bala, Silberg, Dallam). Independent replication by neutral teams is sparse.
 
 ---
 
@@ -383,7 +383,7 @@ Across the studies in §§1–7, the recurring limitations are:
 - **Direct neurobiological / cortisol / brain-imaging evidence of PA-specific stress signatures in alienated children.** Kamyshnyi et al. (2025) propose a biomarker framework but explicitly note "longitudinal, biomarker-based studies in alienated children are still rare." No primary biomarker study with a PA-exposed sample versus matched controls was identified.
 - **A validated population prevalence of PA-related suicidality, SUD, or completed suicide.** No controlled epidemiological dataset exists. Within-sample percentages from qualitative studies (e.g., 30% suicidal ideation in n = 20) should not be cited as prevalence.
 - **PA as a formally validated Adverse Childhood Experience.** PA is not in the original ACE 10-item scale; pilot work to add PA items has been undertaken but has not — at this compilation — reached confirmatory cross-validation in independent population samples.
-- **Quantitative meta-analytic comparison of PA-exposure effect sizes to physical-abuse or sexual-abuse effect sizes on standard outcomes.** No such meta-analysis was identified. Harman, Kruk & Hines (2018) make the argumentative case for analogous harm but do not quantitatively compare effect sizes.
+- **Quantitative meta-analytic comparison of PA-exposure effect sizes to physical-abuse or sexual-abuse effect sizes on standard outcomes.** No such meta-analysis was identified. [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) make the argumentative case for analogous harm but do not quantitatively compare effect sizes.
 - **A quantitative literature on academic performance, employment, or marital stability in PA-exposed adults derived from longitudinal cohorts.** Not publicly confirmed; the field relies on retrospective adult self-report (Bentley & Matthewson 2020) and qualitative themes (Baker 2007).
 - **The claim that "740,000 U.S. children are alienated."** This is Bernet's *estimate* (~20% of children in divorced households × ~25% high-conflict × ~25% severely alienated → ~1% of all U.S. children), not an epidemiologically validated measurement.
 

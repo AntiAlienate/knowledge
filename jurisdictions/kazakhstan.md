@@ -64,7 +64,7 @@ Kazakhstani family-court decisions are anonymised per Supreme Court practice usi
 
 ## Editorial notes
 
-- Kazakhstan jurisdiction sidecar — civil-law post-Soviet Central Asia. Code on Marriage and Family 2011 + Law on Rights of the Child 2002 + Hague Convention 1980 accession 2013.
+- Kazakhstan jurisdiction sidecar — civil-law post-Soviet Central Asia. Code on Marriage and Family 2011 + Law on Rights of the Child 2002 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2013.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Central Asian + civil-law + post-Soviet + Hague Convention clusters within the corpus.
 

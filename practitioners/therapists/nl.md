@@ -235,7 +235,7 @@ Utrecht · Utrecht · Universiteit Utrecht (Youth & Family research group, Depar
 *Hoogleraar Sociale Psychologie van Familie en Intieme Relaties, Radboud Universiteit Nijmegen; bijzonder hoogleraar Universiteit Utrecht (sustainable relationships)*
 Nijmegen / Utrecht · Gelderland / Utrecht · Radboud Universiteit Nijmegen, Behavioural Science Institute; Universiteit Utrecht (bijzondere leerstoel); samenwerking Kinderen uit de Knel onderzoekslijn
 
-**Stance:** Co-auteur (met Visser, van der Wal, Finkenauer, van Lawick) van empirisch onderzoek naar emoties, conflict en welbevinden in conflictscheiding. Co-onderzoeker op het Kinderen uit de Knel follow-up-onderzoek bij De Viersprong. Geen PASG-aligned publicatie; werkt binnen het middle-systemische kader van Finkenauer-Visser-van Lawick.
+**Stance:** Co-auteur (met Visser, van der Wal, Finkenauer, van Lawick) van empirisch onderzoek naar emoties, conflict en welbevinden in conflictscheiding. Co-onderzoeker op het Kinderen uit de Knel follow-up-onderzoek bij De Viersprong. Geen [PASG](https://pasg.info/)-aligned publicatie; werkt binnen het middle-systemische kader van Finkenauer-Visser-van Lawick.
 
 **Publications:**
 - Are intense negative emotions a risk for complex divorces? (Koppejan-Luitze, van der Wal, Kluwer, Visser, Finkenauer) (2020) — *Family Process*

@@ -1,6 +1,6 @@
 # Evidence — Strasbourg Article 8 Positive Obligations Doctrine in PA-Adjacent Jurisprudence
 
-A focused thematic synthesis of the European Court of Human Rights (ECHR) Article 8 positive obligations doctrine as developed in parental-alienation-adjacent jurisprudence, compiled from the AntiAlienate knowledge base v2 corpus. Article 8 has emerged as the principal supranational standard imposing affirmative state duties to take 'adequate and effective measures' to enable parent-child contact restoration in cases involving alienating conduct. CC BY 4.0.
+A focused thematic synthesis of the [European Court of Human Rights](https://www.echr.coe.int/) (ECHR) Article 8 positive obligations doctrine as developed in parental-alienation-adjacent jurisprudence, compiled from the AntiAlienate knowledge base v2 corpus. Article 8 has emerged as the principal supranational standard imposing affirmative state duties to take 'adequate and effective measures' to enable parent-child contact restoration in cases involving alienating conduct. CC BY 4.0.
 
 ## The doctrinal architecture
 
@@ -31,7 +31,7 @@ Substantive holding: where domestic authorities fail to take adequate and effect
 ### 3. Improta v Italy (App no 66396/14, 4 May 2017)
 **First Section.** Article 8 violation: Italian authorities' failure to enforce contact and effectively address alienating behaviour by primary carer. Consolidates the Lombardo+Strumia line by extending the procedural-due-diligence standard.
 
-Together the triptych establishes the modern Strasbourg doctrine: **member states' authorities have a positive obligation to take 'adequate and effective measures' to enable parent-child contact to be restored where alienating conduct obstructs contact**. The triptych is subsequently engaged in Cassazione 9691/2022 (Italy) as the doctrinal articulation of how Italian domestic apex incorporates Strasbourg standards. Cross-link: case-study:improta-v-italy-echr-66396-14-2017 + case-study:cassazione-9691-2022-italy.
+Together the triptych establishes the modern Strasbourg doctrine: **member states' authorities have a positive obligation to take 'adequate and effective measures' to enable parent-child contact to be restored where alienating conduct obstructs contact**. The triptych is subsequently engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) as the doctrinal articulation of how Italian domestic apex incorporates Strasbourg standards. Cross-link: case-study:improta-v-italy-echr-66396-14-2017 + case-study:cassazione-9691-2022-italy.
 
 ## Doctrinal elements
 
@@ -57,7 +57,7 @@ The standard imposes a result-orientation: measures that prove ineffective despi
 
 ### 7. Multi-tier international anchor convergence
 **Strasbourg Art 8 + UN Alsalem + MESECVI + LATAM5 domestic-apex operate in convergent multi-tier configuration**:
-- **Strasbourg Article 8 procedural-due-diligence** — supranational standard binding 46 Council of Europe member states.
+- **Strasbourg Article 8 procedural-due-diligence** — supranational standard binding 46 [Council of Europe](https://www.coe.int/) member states.
 - **UN Special Rapporteur Reem Alsalem Report A/HRC/53/36 (12.8.2022)** — addresses PA construct as DV-survivor-targeting tactic.
 - **MESECVI Belém do Pará Declaración (13.4.2023)** — Inter-American mechanism critique.
 - **LATAM5 domestic-apex** — Corte Constitucional Colombia T-526/2023 + IEFH/IGVM Belgium Recommandation 2023/001 + multiple LATAM5 positions citing Alsalem.
@@ -78,13 +78,13 @@ This is the doctrinally densest integration of Strasbourg Article 8 + domestic a
 Cassazione 13217/2021 + 9691/2022 + 4595/2025 + Riforma Cartabia D.lgs. 149/2022. Italy operates the EU's most integrated apex-court + statute + Strasbourg multi-layer engagement. Cross-link: jurisdiction:italy.
 
 ### France
-French Cour de cassation 12-14.392 (2013) operates substantive engagement with custody jurisprudence; CIIVISE Durand 2024 institutional engagement post-dates the Italian triptych. Strasbourg Art 8 doctrine cited in French domestic family-law contexts but no comparable doctrinal-densely-integrated engagement. Cross-link: jurisdiction:france.
+French [Cour de cassation](https://www.courdecassation.fr/) 12-14.392 (2013) operates substantive engagement with custody jurisprudence; CIIVISE Durand 2024 institutional engagement post-dates the Italian triptych. Strasbourg Art 8 doctrine cited in French domestic family-law contexts but no comparable doctrinal-densely-integrated engagement. Cross-link: jurisdiction:france.
 
 ### Hague Convention intersection
 Strasbourg engages [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return proceedings under Art 8 — leading line **Neulinger and Shuruk v Switzerland [GC] (2010)** + **X v Latvia [GC] (2013)**. Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
 
 ### Other EU member states
-- **Germany BVerfG 1 BvR 1076/23** operates within Convention-conform interpretation of Grundgesetz; substantive PAS-construct critique aligns with Strasbourg Art 8 best-interests standard.
+- **Germany [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** operates within Convention-conform interpretation of Grundgesetz; substantive PAS-construct critique aligns with Strasbourg Art 8 best-interests standard.
 - **Spain STS 519/2017 + LOPIVI 2021** operates compatibly with Strasbourg Art 8 (custodia compartida positive-obligation engagement).
 - **Netherlands** + **Belgium** operate at institutional level (NJI 2020 + Expertteam 2021 + IEFH 2023/001) below apex-case-law level; Strasbourg standard applies through Convention direct effect.
 
@@ -107,7 +107,7 @@ Strasbourg engages [Hague Convention 1980](https://www.hcch.net/en/instruments/c
 The Lombardo + Strumia + Improta sequence establishes the PA-adjacent Article 8 positive-obligation doctrine and remains the load-bearing Strasbourg reference. All subsequent Strasbourg PA-adjacent engagement builds on this base.
 
 ### 2. Procedural-due-diligence vs construct-validity
-**Strasbourg engages PA-adjacent fact-patterns at the PROCEDURAL-DUE-DILIGENCE level rather than the CONSTRUCT-VALIDITY level.** ECtHR jurisprudence does not adjudicate whether PAS / PA is a scientifically valid clinical construct (distinct from BVerfG 2023 which does). Strasbourg operates one level up: regardless of whether PA is a valid construct, member states must take adequate and effective measures to enable contact restoration where contact is obstructed.
+**Strasbourg engages PA-adjacent fact-patterns at the PROCEDURAL-DUE-DILIGENCE level rather than the CONSTRUCT-VALIDITY level.** [ECtHR](https://www.echr.coe.int/) jurisprudence does not adjudicate whether PAS / PA is a scientifically valid clinical construct (distinct from BVerfG 2023 which does). Strasbourg operates one level up: regardless of whether PA is a valid construct, member states must take adequate and effective measures to enable contact restoration where contact is obstructed.
 
 ### 3. Domestic apex integration is uneven
 Italian Cassazione 9691/2022 is the principal example of doctrinally dense Strasbourg + domestic apex integration. Other EU member-state apex decisions engage Strasbourg implicitly or via Convention-conform interpretation but lack equivalent doctrinal density.

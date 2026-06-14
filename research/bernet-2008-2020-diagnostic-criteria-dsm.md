@@ -29,7 +29,7 @@ If any criterion is missing, the diagnostic formulation shifts — possibly to e
 
 ## [DSM-5](https://www.appi.org/products/dsm) Campaign (2008-2013)
 
-Bernet led the Parental Alienation Disorder Work Group's formal proposal to include PAD in DSM-5. The proposal was supported by ~70 international mental-health and legal professionals and presented to the DSM-5 Task Force at the American Psychiatric Association.
+Bernet led the Parental Alienation Disorder Work Group's formal proposal to include PAD in [DSM-5](https://www.appi.org/products/dsm). The proposal was supported by ~70 international mental-health and legal professionals and presented to the DSM-5 Task Force at the American Psychiatric Association.
 
 Outcome: PAD as a standalone diagnosis was rejected. However:
 - **V61.29 (Child Affected by Parental Relationship Distress)** was retained — frequently used to code PA presentations
@@ -43,7 +43,7 @@ Bernet co-led the successful campaign for [ICD-11](https://icd.who.int/) inclusi
 - **6D52 — Secondary parenting problem** (related)
 - **6B41 — Reactive attachment disorder** (severe presentations)
 
-ICD-11 inclusion provides:
+[ICD-11](https://icd.who.int/) inclusion provides:
 - International diagnostic framework (190+ WHO member states)
 - Forensic clinical use without DSM-5 standalone disorder
 - Billing/insurance coding (in jurisdictions using ICD)

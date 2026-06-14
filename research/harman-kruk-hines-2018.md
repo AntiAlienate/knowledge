@@ -54,7 +54,7 @@
 ## Open research questions
 
 - Is there 2024–2026 follow-up work by the same authors? Verify any methodological refinements or replications.
-- Has the meta-analysis been cited in any more recent ECHR or Belgian Cour de cassation rulings? Worth a periodic search.
+- Has the meta-analysis been cited in any more recent ECHR or Belgian [Cour de cassation](https://www.courdecassation.fr/) rulings? Worth a periodic search.
 - Does the family-violence framing of PA shift child-protection-services intake practices in any documented jurisdiction? Empirical follow-up.
 
 ## Primary source links

@@ -46,7 +46,7 @@ Hobart · TAS · Senior Lecturer, School of Psychological Sciences, University o
 
 ### Dr Stan Korosi
 *PhD (Sociology, USC); MCouns (La Trobe); Clinical PACFA; MACA; ARCAP*
-Melbourne · VIC · Director, Dialogue in Growth (Melbourne); Founding Director, Parental Alienation Australia & New Zealand (PAANZ); Founding Editor-in-Chief, PASG newsletter *Parental Alienation International*
+Melbourne · VIC · Director, Dialogue in Growth (Melbourne); Founding Director, Parental Alienation Australia & New Zealand (PAANZ); Founding Editor-in-Chief, [PASG](https://pasg.info/) newsletter *Parental Alienation International*
 
 **Stance:** Most operationally-active AU PA-recognition practitioner with both clinical practice and PASG editorial credential. Practice site explicitly framed around 'Overcoming Parental Alienation'. Korosi (2016) *Parental Alienation: Responding to Deliberate Ruptures* (ResearchGate). Previously delivered the [Warshak Family Bridges](https://warshak.com/family-bridges/) Workshop in Australia (withdrawn 2024 per his own LinkedIn long-form 'Important Changes to Parental Alienation Services in Australia'). Not AHPRA-registered psychologist — PACFA Clinical is the regulatory analogue, mirroring the post-Re Y UK debate about non-statutorily-registered PA practitioners. Personal lived experience as alienated father is part of his public profile.
 
@@ -251,7 +251,7 @@ Canberra · ACT · Professor of Family Studies, Centre for Social Research and M
 
 **Contact:** Bruce.Smyth@anu.edu.au; Centre for Social Research and Methods, ANU Canberra
 
-*Notes: Not a clinician; family-studies academic. AFCC Stanley Cohen Award + Meyer Elkin Essay Award verified via AFCC and Family Court Review records. Inclusion criterion: 'most-cited AU academic on high-conflict / entrenched-parental-hatred research'.*
+*Notes: Not a clinician; family-studies academic. [AFCC](https://www.afccnet.org/) Stanley Cohen Award + Meyer Elkin Essay Award verified via AFCC and Family Court Review records. Inclusion criterion: 'most-cited AU academic on high-conflict / entrenched-parental-hatred research'.*
 
 **See also:** `jurisdiction:australia`, `practitioner:au.moloney-lawrie`, `practitioner:au.fcfcoa-frw-network`, `case-study:re-y-2026-ewfc-38`
 

@@ -42,7 +42,7 @@ Digital gatekeeping fits **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 
 ## Citations
 
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018). *Psychological Bulletin*, 144(12), 1275–1299.
 
 ## Disclaimer

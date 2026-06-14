@@ -92,7 +92,7 @@ UK [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) term for th
 The overriding statutory principle in most family-law jurisdictions. Specific factor lists vary — UK's "welfare checklist" (CA 1989 s.1(3)), most US states use a similar list, etc.
 
 ### [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1)
-Article 8 of the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) — right to respect for private and family life. Frequently argued in PA cases at the European Court of Human Rights (ECtHR) when domestic family courts have failed to protect a parent-child relationship.
+Article 8 of the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) — right to respect for private and family life. Frequently argued in PA cases at the [European Court of Human Rights](https://www.echr.coe.int/) ([ECtHR](https://www.echr.coe.int/)) when domestic family courts have failed to protect a parent-child relationship.
 
 ### Section 91(14) Order
 UK provision (CA 1989 s.91(14)) restricting future applications without permission of the court. Sometimes used against alienating parents engaging in vexatious applications, sometimes against targeted parents to limit "harassment" — context-dependent.
@@ -166,7 +166,7 @@ PA occurs roughly evenly across mother- and father-targeted patterns when preval
 
 | Term | Why caution |
 |---|---|
-| "PAS" | Not in DSM-5; many judges dismiss the framing |
+| "PAS" | Not in [DSM-5](https://www.appi.org/products/dsm); many judges dismiss the framing |
 | "Brainwashing" | Sounds inflammatory; "alienating behaviours" is cleaner |
 | "Munchausen by proxy" / "DARVO" | Unless an expert is presenting it, parents using these terms read as armchair-diagnosis |
 | "Toxic" / "narcissist" | Sounds editorial; describe specific behaviours instead |

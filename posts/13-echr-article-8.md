@@ -1,6 +1,6 @@
 # [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) — The EU Legal Weapon Most Targeted Parents Don't Know They Have
 
-> **TL;DR.** The European Court of Human Rights has held repeatedly — Bondavalli v. Italy (2015), Improta v. Italy (2017), Strumia v. Italy (2016), Solarino v. Italy (2017), Mincheva v. Bulgaria (2010) — that a member state's failure to *enforce* contact orders against an obstructing parent is itself a violation of **Article 8 of the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005)**. Belgium and 45 other Council of Europe states are bound. This is the strongest legal frame for targeted parents in any Council of Europe jurisdiction.
+> **TL;DR.** The [European Court of Human Rights](https://www.echr.coe.int/) has held repeatedly — Bondavalli v. Italy (2015), Improta v. Italy (2017), Strumia v. Italy (2016), Solarino v. Italy (2017), Mincheva v. Bulgaria (2010) — that a member state's failure to *enforce* contact orders against an obstructing parent is itself a violation of **Article 8 of the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005)**. Belgium and 45 other [Council of Europe](https://www.coe.int/) states are bound. This is the strongest legal frame for targeted parents in any Council of Europe jurisdiction.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/echr-article-8-eu-legal-weapon](https://www.antialienate.com/blog/echr-article-8-eu-legal-weapon).**
@@ -52,7 +52,7 @@ After domestic remedies are exhausted (typically: trial court → appeal → cas
 
 ## Citations
 
-- European Convention on Human Rights, Article 8
+- [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005), Article 8
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12
 - *Improta v. Italy*, ECHR 2017, App. no. 66396/14
 - *Strumia v. Italy*, ECHR 2016, App. no. 53377/13

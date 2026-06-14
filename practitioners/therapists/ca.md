@@ -38,7 +38,7 @@ Nanaimo · British Columbia · Founder and Clinical Director, Family Reflections
 
 **Contact:** https://familyreflectionsprogram.com/ contact form; PO Box 41023, Nanaimo, BC V9T 6M7
 
-*Notes: BCACC RCC verified per BCACC public register search; CPBA-BC psychologist status NOT held. PhD Capella University 2007 (private online university — credentialing note). Cited in Williamson v. Williamson 2016 BCCA 87. PASG / Bernet collaboration verified via Journal of Forensic Sciences co-authorship.*
+*Notes: BCACC RCC verified per BCACC public register search; CPBA-BC psychologist status NOT held. PhD Capella University 2007 (private online university — credentialing note). Cited in Williamson v. Williamson 2016 BCCA 87. [PASG](https://pasg.info/) / Bernet collaboration verified via Journal of Forensic Sciences co-authorship.*
 
 **See also:** `jurisdiction:canada`, `practitioner:ca.fidler-barbara-jo`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
 
@@ -131,7 +131,7 @@ Fredericton · New Brunswick · Professor Emerita, Department of Sociology, Univ
 
 **Contact:** neilson@unb.ca ; via MMFC https://www.unb.ca/mmfc/
 
-*Notes: Socio-legal academic, not a clinician — regulatory framework does not apply. Bill C-78 brief to House of Commons Justice Committee 2018 verified.*
+*Notes: Socio-legal academic, not a clinician — regulatory framework does not apply. [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) brief to House of Commons Justice Committee 2018 verified.*
 
 **See also:** `jurisdiction:canada`, `practitioner:ca.jaffe-peter`, `practitioner:ca.lapierre-simon`, `case-study:bverfg-1-bvr-1076-23-germany-2023`
 
@@ -166,7 +166,7 @@ Ottawa · Ontario / Quebec · Director of Legal Affairs, National Association of
 *PhD (Tilburg University 2013); MSW Clinical (University of Calgary 1990); Registered Social Worker (ACSW #1432); RPT-S (Assoc for Play Therapy); CPT-S (CACPT)*
 Calgary · Alberta · Co-owner and Clinical Director, Rocky Mountain Play Therapy Institute; Yasenik & Associates; co-founder International Centre for Children and Family Law (ICCFL)
 
-**Stance:** AFCC-aligned child-inclusive practice using the Yasenik & Graham *Out of the Mouths of Babes* model and the *Decision-Making in Child Inclusive Practice* framework (ICCFL). Engages both alienating-behaviour and family-violence frames, anchored in the Fidler / Bala / [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) differential approach. ~58 court appearances as expert witness in Alberta high-conflict parenting matters. AFCC Alberta PWG on Parenting Coordination member. Closest Alberta analogue to Joan Kelly's differential approach.
+**Stance:** [AFCC](https://www.afccnet.org/)-aligned child-inclusive practice using the Yasenik & Graham *Out of the Mouths of Babes* model and the *Decision-Making in Child Inclusive Practice* framework (ICCFL). Engages both alienating-behaviour and family-violence frames, anchored in the Fidler / Bala / [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) differential approach. ~58 court appearances as expert witness in Alberta high-conflict parenting matters. AFCC Alberta PWG on Parenting Coordination member. Closest Alberta analogue to Joan Kelly's differential approach.
 
 **Publications:**
 - Out of the Mouths of Babes: A Hearing-the-Voices-of-Children Practice Model in Child Inclusive Family Law (2013) — *Tilburg University PhD dissertation*
@@ -212,7 +212,7 @@ London · Ontario · Distinguished University Professor Emerita, School of Socia
 *PhD and MSW (University of Toronto); BSW (Lakehead); Registered Social Worker (OCSWSSW)*
 Toronto · Ontario · Professor and Factor-Inwentash Chair in Law and Social Work, Factor-Inwentash Faculty of Social Work, University of Toronto; cross-appointed Faculty of Law
 
-**Stance:** Social-work co-author of the canonical Canadian differential model (Fidler, Bala & Saini 2013, OUP). Saini (2008) Evidence Base of Custody and Access Evaluations remains the reference Canadian methodological audit of evaluator quality. AFCC-aligned differential approach to parent-child contact problems with formal Faculty-of-Law cross-appointment. Cleanest U of T-affiliated middle voice for academic citation.
+**Stance:** Social-work co-author of the canonical Canadian differential model (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2013, OUP). Saini (2008) Evidence Base of Custody and Access Evaluations remains the reference Canadian methodological audit of evaluator quality. AFCC-aligned differential approach to parent-child contact problems with formal Faculty-of-Law cross-appointment. Cleanest U of T-affiliated middle voice for academic citation.
 
 **Publications:**
 - Children Who Resist Post-Separation Parental Contact: A Differential Approach (2013) — *Oxford University Press (co-author with Fidler and Bala)*

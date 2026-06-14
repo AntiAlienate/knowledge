@@ -32,7 +32,7 @@ Sardinia (Sardegna in Italian / Sardigna in Sardinian / officially Regione Auton
 ### Court of Appeal of Sassari (Corte d'Appello di Sassari)
 <https://www.giustizia.it/>
 
-### Corte di Cassazione (Italian Court of Cassation)
+### [Corte di Cassazione](https://www.cortedicassazione.it/) (Italian Court of Cassation)
 <https://www.cortedicassazione.it/>
 
 ## Professional regulators
@@ -79,7 +79,7 @@ Sardinian family-court decisions are anonymised per Italian court practice using
 
 ## Editorial notes
 
-- Sardinia jurisdiction sidecar — civil-law Mediterranean Italian autonomous region with constitutionally-protected multi-linguistic-minority framework (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Sardegna 1948 + Italian Law 482/1999 Linguistic Minorities Protection + Sardinian Linguistic Policy Law 22/2018 + Carta de Logu 1392 medieval customary-law foundation + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). Only Italian autonomous region operating constitutionally-protected multi-linguistic minority framework with six recognised minority languages globally + second Italian autonomous region + central jurisdiction of Italy's longest-tradition continuous customary-law-influenced civil-law framework + second-largest Mediterranean island + Algherese Catalan Catalan-language enclave on Sardinia.
+- Sardinia jurisdiction sidecar — civil-law Mediterranean Italian autonomous region with constitutionally-protected multi-linguistic-minority framework (Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Sardegna 1948 + Italian Law 482/1999 Linguistic Minorities Protection + Sardinian Linguistic Policy Law 22/2018 + Carta de Logu 1392 medieval customary-law foundation + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). Only Italian autonomous region operating constitutionally-protected multi-linguistic minority framework with six recognised minority languages globally + second Italian autonomous region + central jurisdiction of Italy's longest-tradition continuous customary-law-influenced civil-law framework + second-largest Mediterranean island + Algherese Catalan Catalan-language enclave on Sardinia.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Mediterranean + civil-law + Italian-autonomous-region cluster + multi-linguistic-minority-framework-six-recognised-languages-globally-distinctive + Sardinian-Linguistic-Policy-Law-22/2018-most-comprehensive-EU-sub-national-linguistic-policy + Carta-de-Logu-1392-medieval-customary-law + Algherese-Catalan-Catalan-language-enclave + second-largest-Mediterranean-island + Italian-Hague-1985-accession clusters within the corpus.
 

@@ -3,7 +3,7 @@
 **Jurisdiction code:** `DE` · **Legal system:** civil-law  
 **Language(s):** de  
 
-Germany is a civil-law jurisdiction whose family courts operate under the [BGB](https://www.gesetze-im-internet.de/bgb/) (Bürgerliches Gesetzbuch), FamFG and SGB VIII. The statutory framework is silent on 'parental alienation' as a label, and since the Bundesverfassungsgericht's 2023 decision (1 BvR 1076/23) the apex court has expressly characterised PAS as 'überkommen' (outdated) and 'widerlegt' (refuted). This places Germany in the institutional-critique camp, an inversion of the pattern seen in most [PASG](https://pasg.info/)-active jurisdictions.
+Germany is a civil-law jurisdiction whose family courts operate under the [BGB](https://www.gesetze-im-internet.de/bgb/) (Bürgerliches Gesetzbuch), FamFG and SGB VIII. The statutory framework is silent on 'parental alienation' as a label, and since the [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)'s 2023 decision (1 BvR 1076/23) the apex court has expressly characterised PAS as 'überkommen' (outdated) and 'widerlegt' (refuted). This places Germany in the institutional-critique camp, an inversion of the pattern seen in most [PASG](https://pasg.info/)-active jurisdictions.
 
 ## PA recognition status
 
@@ -21,8 +21,8 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
   - Procedural code for family courts; § 155 Vorrang- und Beschleunigungsgebot, § 158 Verfahrensbeistand, § 163 Sachverständigengutachten (basis for the BRAK/DFGT Mindestanforderungen 3. Aufl. 2025 quality-standard regime for psychological reports).
 - **SGB VIII (KJHG)** — Kinder- und Jugendhilfegesetz (Achtes Sozialgesetzbuch) (1990) — <https://www.gesetze-im-internet.de/sgb_8/>
   - Jugendamt mandate and Kindeswohl framework; informs Verfahrensbeistand cooperation and PETRA-Projekt-style intensive interventions.
-- **Istanbul Convention art. 31** — Council of Europe Convention on preventing and combating violence against women and domestic violence (Sorge- und Besuchsrecht und Sicherheit) (2018) — <https://rm.coe.int/168008482e>
-  - Ratified by Germany 2017, in force 1.2.2018. Art. 31 requires that contact/custody decisions take account of violence; GREVIO Baseline Evaluation Report on Germany (2022) and 1st thematic report criticise residual Cochem-style 'cooperation imperative' and PA-labelled deflection of DV allegations — a key plank of the BVerfG 2023 reasoning.
+- **Istanbul Convention art. 31** — [Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence (Sorge- und Besuchsrecht und Sicherheit) (2018) — <https://rm.coe.int/168008482e>
+  - Ratified by Germany 2017, in force 1.2.2018. Art. 31 requires that contact/custody decisions take account of violence; GREVIO Baseline Evaluation Report on Germany (2022) and 1st thematic report criticise residual Cochem-style 'cooperation imperative' and PA-labelled deflection of DV allegations — a key plank of the [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 reasoning.
 
 ## Apex courts
 
@@ -34,9 +34,9 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 <https://ordentliche-gerichtsbarkeit.hessen.de/olg-frankfurt>
 - **OLG Frankfurt, Beschluss vom 5.1.2026 - 7 UF 88/25 — Senatsentscheidung applying BVerfG 1 BvR 1076/23 reasoning to a Sorgerechts-/Umgangsverfahren and rejecting a PAS-framed gutachterliche Empfehlung** (2026) — critique — [`olg-frankfurt-7-uf-88-25-germany-2026`](../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md)
 
-### Bundesgerichtshof (BGH) — XII. Zivilsenat
+### [Bundesgerichtshof](https://www.bundesgerichtshof.de/) ([BGH](https://www.bundesgerichtshof.de/)) — XII. Zivilsenat
 <https://www.bundesgerichtshof.de/>
-- **BGH is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites BGB § 1696 Schwellenwert.** (2026) — middle
+- **BGH is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites [BGB](https://www.gesetze-im-internet.de/bgb/) § 1696 Schwellenwert.** (2026) — middle
 
 ### Cochemer Modell / AG Cochem-Zell (historical reference)
 <https://www.ag-cochem.justiz.rlp.de/>

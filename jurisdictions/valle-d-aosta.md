@@ -27,7 +27,7 @@ Valle d'Aosta (Vallée d'Aoste in French / Val d'Outa in Franco-Provençal / off
 ### Court of Appeal of Turin (Aosta Section)
 <https://www.giustizia.it/>
 
-### Corte di Cassazione (Italian Court of Cassation)
+### [Corte di Cassazione](https://www.cortedicassazione.it/) (Italian Court of Cassation)
 <https://www.cortedicassazione.it/>
 
 ## Professional regulators
@@ -73,7 +73,7 @@ Valle d'Aosta family-court decisions are anonymised per Italian court practice u
 
 ## Editorial notes
 
-- Valle d'Aosta jurisdiction sidecar — civil-law Alpine Italian autonomous region with co-equal French/Italian official languages and the most extensive Italian fiscal autonomy framework (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Valle d'Aosta 1948 + Constitutional Law 4/1948 Article 38 quinquies 90% tax retention + Italian Law 482/1999 Linguistic Minorities Protection + Regional Law 47/1993 Franco-Provençal Patois protection + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). Smallest Italian autonomous region + only Italian autonomous region with co-equal French and Italian official languages + only Italian autonomous region with Franco-Provençal third recognised regional language + only Italian autonomous region operating internal Walser-German linguistic-minority framework + only Italian autonomous region with no provinces + most extensive Italian autonomous-region fiscal autonomy framework.
+- Valle d'Aosta jurisdiction sidecar — civil-law Alpine Italian autonomous region with co-equal French/Italian official languages and the most extensive Italian fiscal autonomy framework (Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Valle d'Aosta 1948 + Constitutional Law 4/1948 Article 38 quinquies 90% tax retention + Italian Law 482/1999 Linguistic Minorities Protection + Regional Law 47/1993 Franco-Provençal Patois protection + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). Smallest Italian autonomous region + only Italian autonomous region with co-equal French and Italian official languages + only Italian autonomous region with Franco-Provençal third recognised regional language + only Italian autonomous region operating internal Walser-German linguistic-minority framework + only Italian autonomous region with no provinces + most extensive Italian autonomous-region fiscal autonomy framework.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Alpine + civil-law + Italian-autonomous-region cluster + smallest-Italian-autonomous-region + co-equal-French-Italian-official-languages-globally-distinctive + Franco-Provençal-Patois-Valdôtain-third-recognised-regional-language + Walser-German-Lys-Valley-minority-framework + no-provinces-region-as-province + Article-38-quinquies-90%-tax-retention-most-extensive-fiscal-autonomy + 74-commune-direct-regional-administration + Italian-Hague-1985-accession clusters within the corpus.
 

@@ -7,16 +7,16 @@ A structural synthesis of the continental European apex-court engagement with th
 Between September 2017 and October 2025, six continental European apex jurisdictions issued landmark decisions engaging the PA / SAP construct or related fact-patterns. The sequence — Spain → Italy (×3) → Germany → Poland — constitutes the principal continental European apex-court doctrinal development on PA in the modern era.
 
 ### 1. Spain — STS 519/2017 (22 September 2017)
-**Tribunal Supremo, Sala Primera.** Confirms custodia compartida supporting itself on parental-manipulation findings without endorsing the SAP syndrome. STS 519/2017 anchors a Spanish apex line that is subsequently codified at statutory level by **LOPIVI 2021 Disposición adicional 17ª** — the only world statutory PA-inadmission law. Spanish position: figura sí, sindromología no (translated through statutory inadmission of the SAP label specifically). Cross-link: case-study:sts-519-2017-spain + jurisdiction:spain.
+**[Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/), Sala Primera.** Confirms custodia compartida supporting itself on parental-manipulation findings without endorsing the SAP syndrome. STS 519/2017 anchors a Spanish apex line that is subsequently codified at statutory level by **LOPIVI 2021 Disposición adicional 17ª** — the only world statutory PA-inadmission law. Spanish position: figura sí, sindromología no (translated through statutory inadmission of the SAP label specifically). Cross-link: case-study:sts-519-2017-spain + jurisdiction:spain.
 
-### 2. Italy — Cassazione Civile Sez. I, ordinanza 13217/2021 (17 maggio 2021)
+### 2. Italy — [Cassazione](https://www.cortedicassazione.it/) Civile Sez. I, ordinanza 13217/2021 (17 maggio 2021)
 **Italian Court of Cassation, First Civil Section.** Foundational Italian apex critique decision: PAS lacks scientific validity and cannot found measures depriving parental relations. Establishes the doctrinal principle that subsequent ordinanze develop. Cross-link: case-study:cassazione-13217-2021-italy + jurisdiction:italy.
 
 ### 3. Italy — Cassazione Civile Sez. I, ordinanza 9691/2022 (24 marzo 2022)
 **Italian Court of Cassation, First Civil Section.** Consolidating decision: PAS "costituisce il fondamento pseudoscientifico" of harmful measures; ordinary evidential verification is required for any custody / contact restriction. Engages the Strasbourg Article 8 procedural-due-diligence standard (Lombardo/Improta/Strumia triptych) alongside PAS-construct disqualification — the doctrinal articulation of how Italian domestic apex incorporates Strasbourg standards. Cross-link: case-study:cassazione-9691-2022-italy.
 
-### 4. Germany — BVerfG 17.11.2023 – 1 BvR 1076/23
-**Bundesverfassungsgericht (Federal Constitutional Court).** Constitutional Court qualifies SAP as "veraltet und wissenschaftlich widerlegt" (outdated and scientifically refuted). PAS-based Sachverständigengutachten constitutionally untenable under Grundgesetz Art. 6(2) parental rights + Art. 2(1) children's personality rights. The strongest constitutional-level construct critique in continental EU. Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
+### 4. Germany — [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23
+**[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (Federal Constitutional Court).** Constitutional Court qualifies SAP as "veraltet und wissenschaftlich widerlegt" (outdated and scientifically refuted). PAS-based Sachverständigengutachten constitutionally untenable under Grundgesetz Art. 6(2) parental rights + Art. 2(1) children's personality rights. The strongest constitutional-level construct critique in continental EU. Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
 
 ### 5. Italy — Cassazione Civile Sez. I, sentenza 4595/2025
 **Italian Court of Cassation, First Civil Section.** Most recent Cassazione PAS-critique decision consolidating the 13217/2021 → 9691/2022 doctrinal line. Combined with the **Riforma Cartabia D.lgs. 149/2022** statutory restriction on CTU PAS-based assessments, the Italian apex critique becomes the EU's strongest statute-and-caselaw integrated stance. Cross-link: jurisdiction:italy.
@@ -48,7 +48,7 @@ SN III CZP 20/25 is the **first apex Central and Eastern European decision** in 
 The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) establishes the Article 8 procedural-due-diligence standard that operates ABOVE domestic apex decisions. Italian Cassazione 9691/2022 explicitly engages this standard; German BVerfG operates within Convention-conform interpretation of Grundgesetz. The Strasbourg layer cuts ACROSS the EU sequence as a constraining standard rather than being part of the sequence itself. Cross-link: jurisdiction:european-convention-on-human-rights.
 
 ### 8. Comparative outside the sequence
-- **France** — Cour de cassation 12-14.392 (2013) is the foundational French Cassation engagement preceding the EU sequence; subsequent CIIVISE Durand 2024 institutional engagement. Cross-link: jurisdiction:france.
+- **France** — [Cour de cassation](https://www.courdecassation.fr/) 12-14.392 (2013) is the foundational French Cassation engagement preceding the EU sequence; subsequent CIIVISE Durand 2024 institutional engagement. Cross-link: jurisdiction:france.
 - **Netherlands** — no Hoge Raad PAS-specific apex; positional weight in NJI Richtlijn 2020 + Expertteam Ouderverstoting 2021 + Kinderombudsman KOM003/2014 three-document architecture. Cross-link: jurisdiction:netherlands.
 - **Belgium** — no Cour de cassation PAS-specific apex; positional weight in IEFH/IGVM Recommandation 2023/001 federal-regulator unique anchor. Cross-link: jurisdiction:belgium.
 

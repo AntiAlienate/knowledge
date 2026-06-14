@@ -19,14 +19,14 @@ The honest position — supported by the pro-recognition camp's own caveats *and
 1. Bernet's "740,000 children" calculation chain
 2. [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2016 — the first representative-poll prevalence (NC, n = 610)
 3. Harman, Leder-Elder & Biringen 2019 — three national polls (US + Canada)
-4. Hine, Harman et al. 2025 / 2026 — UK separated-parents and 18–25 prevalence
+4. Hine, [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2025 / 2026 — UK separated-parents and 18–25 prevalence
 5. Verrocchio / Bernet / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Italian work
 6. The [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala 2016 prevalence critique
 7. Templer, Matthewson, Haines & Cox 2017 systematic review
 8. Cross-national / non-English prevalence work
 9. Bentley & Matthewson 2020 — qualitative, not prevalence
 10. The Harman & Lorandos vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) exchange
-11. UN OHCHR / Alsalem A/HRC/53/36 on the empirical basis of PA claims
+11. UN [OHCHR](https://www.ohchr.org/) / Alsalem A/HRC/53/36 on the empirical basis of PA claims
 12. Forensic implications — does "1% / 740,000" survive Daubert/Frye scrutiny?
 13. What WOULD a defensible prevalence study look like? (contributor invitation)
 14. Synthesis — confidence levels by claim category
@@ -170,7 +170,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ---
 
-## 5. Verrocchio / Bernet / Baker Italian work
+## 5. Verrocchio / Bernet / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Italian work
 
 ### 5.1 Bernet, Baker & Verrocchio (2015) — SCL-90-R study
 
@@ -201,7 +201,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ---
 
-## 6. The Saini, Johnston, Fidler & Bala (2016) prevalence critique
+## 6. The [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) prevalence critique
 
 ### 6.1 Citation and access
 
@@ -280,7 +280,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 
 ### 10.1 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (2019) — the original study
 
-**Citation.** Meier, J. S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: What do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 (and Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* — NIJ-funded report). Findings: courts that credit alienation claims discount abuse allegations; mothers alleging child abuse and PA is asserted against them lose custody at high rates.
+**Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: What do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 (and Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* — NIJ-funded report). Findings: courts that credit alienation claims discount abuse allegations; mothers alleging child abuse and PA is asserted against them lose custody at high rates.
 
 ### 10.2 Harman & Lorandos (2021) — the critique
 
@@ -324,8 +324,8 @@ The Alsalem report does **not** engage in detail with the Harman 2016 / 2019 pre
 
 ### 11.5 The institutional landscape
 
-- **WHO [ICD-11](https://icd.who.int/) removal:** The "parental alienation" code that had appeared transiently in ICD-11 drafts was removed in February 2020; see Alsalem report and WHO ICD-11 release notes.
-- **GREVIO (Council of Europe):** Has cautioned against systematic use of PA in custody decisions involving DV allegations; **specific GREVIO document on PA prevalence is not publicly confirmed** at compilation.
+- **WHO [ICD-11](https://icd.who.int/) removal:** The "parental alienation" code that had appeared transiently in [ICD-11](https://icd.who.int/) drafts was removed in February 2020; see Alsalem report and WHO ICD-11 release notes.
+- **GREVIO ([Council of Europe](https://www.coe.int/)):** Has cautioned against systematic use of PA in custody decisions involving DV allegations; **specific GREVIO document on PA prevalence is not publicly confirmed** at compilation.
 - **APA (American Psychological Association):** Has issued cautions about over-application of PA concepts; the APA does **not** endorse a specific prevalence figure.
 
 ---

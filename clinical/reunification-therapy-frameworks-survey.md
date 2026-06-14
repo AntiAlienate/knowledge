@@ -68,7 +68,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 | Mild alienation, intact custody | Traditional reunification therapy | Sufficient for less-entrenched cases |
 | Hybrid case (alienation + legitimate concerns) | MMFI or Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)-informed outpatient | Addresses both dimensions |
 | High-conflict but not classic PA | Parenting Coordination | Procedural support without therapeutic ambitions |
-| Older teen who flatly refuses | Family Bridges (with transfer) OR pause + accept reality | Few effective interventions for entrenched older-teen refusal |
+| Older teen who flatly refuses | [Family Bridges](https://warshak.com/family-bridges/) (with transfer) OR pause + accept reality | Few effective interventions for entrenched older-teen refusal |
 
 ## Procedural Footprints
 

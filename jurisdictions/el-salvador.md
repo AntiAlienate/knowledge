@@ -3,7 +3,7 @@
 **Jurisdiction code:** `SV` · **Legal system:** civil-law  
 **Language(s):** es  
 
-El Salvador is a Central American civil-law republic whose family-law framework operates under the Family Code 1993 (Código de Familia, Decree 677 of 1993, effective 1 October 1994), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 206-247. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Chamber (Sala de lo Constitucional) operates within the Supreme Court with constitutional review jurisdiction. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Junta de Vigilancia de la Profesión de Psicología under the Ministerio de Salud framework. El Salvador is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 350. El Salvador acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 2001.
+El Salvador is a Central American civil-law republic whose family-law framework operates under the Family Code 1993 (Código de Familia, Decree 677 of 1993, effective 1 October 1994), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 206-247. The Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/)) is the apex court for civil and criminal matters; the Constitutional Chamber (Sala de lo Constitucional) operates within the Supreme Court with constitutional review jurisdiction. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Junta de Vigilancia de la Profesión de Psicología under the Ministerio de Salud framework. El Salvador is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 350. El Salvador acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 2001.
 
 ## PA recognition status
 
@@ -61,7 +61,7 @@ Salvadoran family-court decisions are anonymised per Supreme Court practice usin
 
 ## Editorial notes
 
-- El Salvador jurisdiction sidecar — civil-law Central America (Family Code 1993 + LEPINA 2009 + Hague Convention 1980 accession 2001).
+- El Salvador jurisdiction sidecar — civil-law Central America (Family Code 1993 + LEPINA 2009 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Latin American + civil-law + Central American + Hague Convention clusters within the corpus.
 

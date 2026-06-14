@@ -31,7 +31,7 @@
 
 ## Why the 2018 reframe matters legally
 
-For 33 years (1985–2018) the "PAS" framing got Daubert-attacked in US courts as a "discredited theory." Harman, Kruk & Hines reframed it at the **behavior level** rather than the **syndrome level** — and tied it to the family-violence literature. The reframe survives *Daubert v. Merrell Dow* (1993, 509 U.S. 579) admissibility challenges. The reframe matters legally.
+For 33 years (1985–2018) the "PAS" framing got Daubert-attacked in US courts as a "discredited theory." [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) reframed it at the **behavior level** rather than the **syndrome level** — and tied it to the family-violence literature. The reframe survives *Daubert v. Merrell Dow* (1993, 509 U.S. 579) admissibility challenges. The reframe matters legally.
 
 ## The 5 future vectors
 
@@ -66,7 +66,7 @@ The vocabulary you have *now* — Harman/Kruk/Hines · [DSM-5](https://www.appi.
 - Wallerstein, J. S., & Kelly, J. B. (1980). *Surviving the Breakup: How Children and Parents Cope with Divorce.* Basic Books.
 - Gardner, R. A. (1985). Recent trends in divorce and custody litigation. *Academy Forum, 29*(2), 3–7.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton.
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors: An Unacknowledged Form of Family Violence. *Psychological Bulletin, 144*(12), 1275–1299. [doi:10.1037/bul0000175](https://doi.org/10.1037/bul0000175)
 - DSM-5 V995.51 — Child Psychological Abuse (American Psychiatric Association)
 - WHO ICD-11 QE52 — Caregiver-Child Relationship Problem

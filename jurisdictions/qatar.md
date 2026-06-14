@@ -58,7 +58,7 @@ Qatari family-law decisions are anonymised per court practice; published decisio
 
 ## Editorial notes
 
-- Qatar jurisdiction sidecar — Hanbali religious-law framework + Family Law 22/2006 + QFC common-law commercial + DHP statutory psychology regulation + Hague Convention 1980 accession 2014.
+- Qatar jurisdiction sidecar — Hanbali religious-law framework + Family Law 22/2006 + QFC common-law commercial + DHP statutory psychology regulation + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2014.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Gulf + Hanbali + Hague Convention clusters within the corpus.
 

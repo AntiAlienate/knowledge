@@ -101,6 +101,46 @@ LINKS = [
     (r"\bPsycNet\b", "https://psycnet.apa.org/"),
     (r"\bGoogle Scholar\b", "https://scholar.google.com/"),
     (r"\bOSF\b(?!\.)", "https://osf.io/"),
+
+    # ── National apex courts (for residual evidence/jurisdiction pages) ──
+    (r"\bUK Supreme Court\b", "https://www.supremecourt.uk/"),
+    (r"\bCourt of Appeal of England and Wales\b", "https://www.judiciary.uk/courts-and-tribunals/court-of-appeal/"),
+    (r"\bUS Supreme Court\b", "https://www.supremecourt.gov/"),
+    (r"\bSupreme Court of Canada\b", "https://www.scc-csc.ca/"),
+    (r"\bSupreme Court of India\b", "https://main.sci.gov.in/"),
+    (r"\bHigh Court of Australia\b", "https://www.hcourt.gov.au/"),
+    (r"\bSupreme Court of New Zealand\b", "https://www.courtsofnz.govt.nz/the-courts/supreme-court/"),
+    (r"\bConstitutional Court of Italy\b", "https://www.cortecostituzionale.it/"),
+    (r"\bCorte di Cassazione\b", "https://www.cortedicassazione.it/"),
+    (r"\bCassazione\b", "https://www.cortedicassazione.it/"),
+    (r"\bBundesgerichtshof\b", "https://www.bundesgerichtshof.de/"),
+    (r"\bBGH\b", "https://www.bundesgerichtshof.de/"),
+    (r"\bBundesverfassungsgericht\b", "https://www.bundesverfassungsgericht.de/"),
+    (r"\bBVerfG\b", "https://www.bundesverfassungsgericht.de/"),
+    (r"\bCour de cassation\b", "https://www.courdecassation.fr/"),
+    (r"\bConseil constitutionnel\b", "https://www.conseil-constitutionnel.fr/"),
+    (r"\bTribunal Supremo\b", "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/"),
+    (r"\bTribunal Constitucional\b(?:\s*\(Spain\))?", "https://www.tribunalconstitucional.es/"),
+
+    # ── Regional human-rights & intergovernmental bodies ──
+    (r"\bEuropean Court of Human Rights\b", "https://www.echr.coe.int/"),
+    (r"\bECtHR\b", "https://www.echr.coe.int/"),
+    (r"\bCouncil of Europe\b", "https://www.coe.int/"),
+    (r"\bInter-American Court of Human Rights\b", "https://corteidh.or.cr/"),
+    (r"\bIACHR\b", "https://www.oas.org/en/IACHR/"),
+    (r"\bUN Human Rights Committee\b", "https://www.ohchr.org/en/treaty-bodies/ccpr"),
+    (r"\bCommittee on the Rights of the Child\b", "https://www.ohchr.org/en/treaty-bodies/crc"),
+    (r"\bUN CommRC\b", "https://www.ohchr.org/en/treaty-bodies/crc"),
+    (r"\bOHCHR\b", "https://www.ohchr.org/"),
+    (r"\bHCCH\b", "https://www.hcch.net/"),
+
+    # ── Asian & Latin American apex (for cluster pages) ──
+    (r"\bSupreme Court of Korea\b", "https://eng.scourt.go.kr/"),
+    (r"\bSupreme Court of Japan\b", "https://www.courts.go.jp/english/"),
+    (r"\bSuprema Corte de Justicia de la Nación\b", "https://www.scjn.gob.mx/"),
+    (r"\bSupremo Tribunal Federal\b", "https://portal.stf.jus.br/"),
+    (r"\bSTF\b(?:\s*Brazil)?", "https://portal.stf.jus.br/"),
+    (r"\bCorte Suprema de Justicia(?:\s+de la Nación)?\b", "https://www.csjn.gov.ar/"),
 ]
 
 # Compile patterns once

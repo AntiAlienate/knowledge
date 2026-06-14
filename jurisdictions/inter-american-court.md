@@ -1,4 +1,4 @@
-# Inter-American Court of Human Rights (Corte Interamericana de Derechos Humanos / IACtHR)
+# [Inter-American Court of Human Rights](https://corteidh.or.cr/) (Corte Interamericana de Derechos Humanos / IACtHR)
 
 **Jurisdiction code:** `OAS-IAC` · **Legal system:** supranational  
 **Language(s):** es, en, pt, fr  
@@ -31,7 +31,7 @@ The Inter-American Court of Human Rights (Corte Interamericana de Derechos Human
 ### Inter-American Court of Human Rights (IACtHR)
 <https://www.corteidh.or.cr/>
 
-### Inter-American Commission on Human Rights (IACHR)
+### Inter-American Commission on Human Rights ([IACHR](https://www.oas.org/en/IACHR/))
 <https://www.oas.org/en/iachr/>
 
 ### Member State apex courts (per American Convention compatibility framework)

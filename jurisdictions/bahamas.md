@@ -64,7 +64,7 @@ Bahamian family-court decisions are anonymised per Court of Appeal practice usin
 
 ## Editorial notes
 
-- Bahamas jurisdiction sidecar — common-law Caribbean (Child Protection Act 2007 + Matrimonial Causes Act 1979 + JCPC final-appellate + Hague Convention 1980 accession 1994 — earliest Caribbean).
+- Bahamas jurisdiction sidecar — common-law Caribbean (Child Protection Act 2007 + Matrimonial Causes Act 1979 + JCPC final-appellate + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1994 — earliest Caribbean).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Caribbean + common-law + JCPC-final-appellate + earliest-Caribbean-Hague Convention clusters within the corpus.
 

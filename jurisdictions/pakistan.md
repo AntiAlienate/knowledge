@@ -64,7 +64,7 @@ Pakistani family-court decisions are anonymised per Supreme Court practice using
 
 ## Editorial notes
 
-- Pakistan jurisdiction sidecar — mixed-legal-system framework (English common-law procedural + Muslim personal-law substantive + Federal Shariat Court parallel jurisdiction). GWA 1890 + MFLO 1961 + Family Courts Act 1964 + Hague Convention 1980 accession 2017.
+- Pakistan jurisdiction sidecar — mixed-legal-system framework (English common-law procedural + Muslim personal-law substantive + Federal Shariat Court parallel jurisdiction). GWA 1890 + MFLO 1961 + Family Courts Act 1964 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2017.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South Asian + mixed-jurisdiction + Hague Convention clusters within the corpus.
 

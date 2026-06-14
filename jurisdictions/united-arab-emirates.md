@@ -66,7 +66,7 @@ UAE family-court decisions are anonymised per court practice; published decision
 
 ## Editorial notes
 
-- UAE jurisdiction sidecar — dual personal-status framework (non-Muslim civil + Muslim religious-law) + Federal Supreme Court + emirate-level apex + DIFC/ADGM common-law commercial + MOHAP/DOH/DHA three-tier psychology regulation + Hague Convention 1980 accession 2018.
+- UAE jurisdiction sidecar — dual personal-status framework (non-Muslim civil + Muslim religious-law) + Federal Supreme Court + emirate-level apex + DIFC/ADGM common-law commercial + MOHAP/DOH/DHA three-tier psychology regulation + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2018.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Gulf cluster + Hague Convention cluster + dual-personal-status cluster + multi-regulator psychology cluster within the corpus.
 

@@ -53,7 +53,7 @@ Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alie
 
 ## The Eight Behavioural Manifestations ([Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Framework)
 
-From this longitudinal data, Baker derived eight classic alienated-child behavioural patterns now widely used in clinical and forensic settings:
+From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) derived eight classic alienated-child behavioural patterns now widely used in clinical and forensic settings:
 
 1. **Campaign of denigration** — child speaks of rejected parent with contempt, often using rehearsed phrases
 2. **Weak, frivolous, absurd rationalisations** — reasons for rejection don't match what would normally be tolerated

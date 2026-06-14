@@ -23,7 +23,7 @@ Guam (Guåhan) is a Pacific Island common-law unincorporated US territory — st
 ### Supreme Court of Guam
 <https://www.guamcourts.gov/>
 
-### US Court of Appeals for the Ninth Circuit + US Supreme Court
+### US Court of Appeals for the Ninth Circuit + [US Supreme Court](https://www.supremecourt.gov/)
 <https://www.supremecourt.gov/>
 
 ## Professional regulators

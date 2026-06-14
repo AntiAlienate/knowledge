@@ -3,7 +3,7 @@
 **Jurisdiction code:** `BR` · **Legal system:** civil-law  
 **Language(s):** pt  
 
-Brazil is the world's only PA-recognition statutory jurisdiction, having enacted Lei nº 12.318/2010 (Lei da Alienação Parental), which defines alienação parental and prescribes a graduated catalogue of judicial remedies. The Superior Tribunal de Justiça (STJ) and Supremo Tribunal Federal (STF) have moderated the statute via a 'no-automaticity doctrine' built in STJ REsp 1.859.228/SP and REsp 2.108.750/GO; the STF dismissed ADI 6273/2019 on standing without reaching the merits. Together with Spain (which legislates in the opposite direction), Brazil is one of the only two world jurisdictions with statutory PA legislation.
+Brazil is the world's only PA-recognition statutory jurisdiction, having enacted Lei nº 12.318/2010 (Lei da Alienação Parental), which defines alienação parental and prescribes a graduated catalogue of judicial remedies. The Superior Tribunal de Justiça (STJ) and [Supremo Tribunal Federal](https://portal.stf.jus.br/) ([STF](https://portal.stf.jus.br/)) have moderated the statute via a 'no-automaticity doctrine' built in STJ REsp 1.859.228/SP and REsp 2.108.750/GO; the STF dismissed ADI 6273/2019 on standing without reaching the merits. Together with Spain (which legislates in the opposite direction), Brazil is one of the only two world jurisdictions with statutory PA legislation.
 
 ## PA recognition status
 

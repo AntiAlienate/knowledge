@@ -85,7 +85,7 @@ This is not paranoia. It is clinically codified harm:
 
 ## Citations
 
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.* W. W. Norton.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.* W. W. Norton.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Reay, K. M. (2015). *Family Reflections: A Promising Therapeutic Program.*

@@ -1,6 +1,6 @@
 # Evidence — Single-Judge Authored Apex Decisions
 
-A focused thematic synthesis of the structural pattern of single-judge authored apex decisions in the PA-adjacent jurisprudence corpus. While many landmark decisions are panel decisions (e.g., Cassazione Italian triad, SCJN AI 11/2016, Strasbourg Grand Chamber), a significant cluster of corpus apex decisions are authored by individual judges sitting alone — a structurally distinctive pattern that intersects with judicial-authorial influence on doctrinal direction. CC BY 4.0.
+A focused thematic synthesis of the structural pattern of single-judge authored apex decisions in the PA-adjacent jurisprudence corpus. While many landmark decisions are panel decisions (e.g., [Cassazione](https://www.cortedicassazione.it/) Italian triad, SCJN AI 11/2016, Strasbourg Grand Chamber), a significant cluster of corpus apex decisions are authored by individual judges sitting alone — a structurally distinctive pattern that intersects with judicial-authorial influence on doctrinal direction. CC BY 4.0.
 
 ## Single-judge apex decisions in the corpus
 
@@ -35,13 +35,13 @@ The Italian Cassazione triad is structurally distinct from the English Re-arc: c
 
 Cross-link: case-study:cassazione-9691-2022-italy + case-study:cassazione-13217-2021-italy + jurisdiction:italy.
 
-### Germany — BVerfG Senate composition
-**BVerfG 1 BvR 1076/23** — Bundesverfassungsgericht Senate decision. Constitutional Court decisions are issued by the Senate composition rather than single-judge. The Senate-collegial decision contrasts with single-judge first-instance + appellate decisions.
+### Germany — [BVerfG](https://www.bundesverfassungsgericht.de/) Senate composition
+**BVerfG 1 BvR 1076/23** — [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) Senate decision. Constitutional Court decisions are issued by the Senate composition rather than single-judge. The Senate-collegial decision contrasts with single-judge first-instance + appellate decisions.
 
 Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
 
 ### India — Vivek Singh + Delhi HC binomial
-**Vivek Singh v Romani Singh (2017) 3 SCC 231** — Supreme Court of India Two-Judge Bench (Chelameswar J. & Sikri J.). Sikri J. authored the leading opinion. Indian SC decisions are typically panel decisions with specific opinion-authoring judges.
+**Vivek Singh v Romani Singh (2017) 3 SCC 231** — [Supreme Court of India](https://main.sci.gov.in/) Two-Judge Bench (Chelameswar J. & Sikri J.). Sikri J. authored the leading opinion. Indian SC decisions are typically panel decisions with specific opinion-authoring judges.
 
 **ABC v XYZ 2023 SCC OnLine Del 6099** — Delhi HC Division Bench (Suresh Kumar Kait J. & Neena Bansal Krishna J.). Two-judge Division Bench rather than single-judge — typical of Indian HC family-law appellate jurisdiction.
 
@@ -127,7 +127,7 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 | **T-526/2023 Colombia** | Corte Const. Sala 3 | Three-judge Sala + M.P. Fajardo Rivera | Sala + Magistrado Ponente |
 | **SN III CZP 20/25 Poland** | SN Izba Cywilna | 3-judge composition art.390§1 | Collegial 3-judge |
 | **STJ REsp 1859228/SP** | STJ Third Section | Five-judge Section + Andrighi relatora | Collegial + relatora |
-| **Strasbourg triptych** | ECtHR First Section | 7-judge Chamber composition | Collegial |
+| **Strasbourg triptych** | [ECtHR](https://www.echr.coe.int/) First Section | 7-judge Chamber composition | Collegial |
 | **Strasbourg Neulinger / X v Latvia** | ECtHR Grand Chamber | 17-judge Grand Chamber | Maximum collegial |
 
 ## Cross-references

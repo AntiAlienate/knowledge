@@ -45,7 +45,7 @@ Falkland Islands family-court decisions are anonymised per Court of Appeal pract
 
 - Falkland Islands operates a common-law framework with British Overseas Territory status — places Falkland Islands in the BOT cluster.
 - Argentine sovereignty dispute is structurally distinctive globally within the corpus — Falkland Islands is the only BOT subject to active and longstanding sovereignty dispute by a UN Member State.
-- Argentine dispute of UK's Hague Convention 1980 territorial application creates structurally distinctive contested-application status — only state with contested Hague applicability in the corpus.
+- Argentine dispute of UK's [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial application creates structurally distinctive contested-application status — only state with contested Hague applicability in the corpus.
 - Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.
 
 ## See also

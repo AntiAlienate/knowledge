@@ -78,15 +78,15 @@ New York: best-interests + preponderance for custody modifications; clear and co
 
 ---
 
-## 3. The European Court of Human Rights and EU member-state context
+## 3. The [European Court of Human Rights](https://www.echr.coe.int/) and EU member-state context
 
-### 3.1 ECtHR — Article 6 and Article 8
+### 3.1 [ECtHR](https://www.echr.coe.int/) — Article 6 and Article 8
 
 The ECtHR does not impose a uniform substantive standard of proof on member-state family courts; standards of proof sit within the margin of appreciation. What the Court polices are (i) Article 6 fair-hearing rights and (ii) Article 8 family-life rights, requiring interferences to be "in accordance with the law" and "necessary in a democratic society." ([Guide on Article 6 — civil limb PDF](https://rm.coe.int/1680304c4c); [Parental Rights factsheet](https://www.echr.coe.int/documents/d/echr/FS_Parental_ENG).) Italy's PA-overlapping cluster (*Lombardo*, *Strumia*, *Improta*) turns on positive contact obligations rather than substantive proof — but Strasbourg engages where domestic courts use weak or unscientific fact-finding for coercive contact decisions. See case-study files: [Lombardo](case-studies/lombardo-v-italy-echr-25704-11-2013.md), [Strumia](case-studies/strumia-v-italy-echr-53377-13-2016.md), [Improta](case-studies/improta-v-italy-echr-66396-14-2017.md).
 
 ### 3.2 Italy — *Cass. civ., sez. I, ord.* 24 marzo 2022, n. 9691 (the *Massaro* ordinance)
 
-**Primary citation.** Corte Suprema di Cassazione, Prima Sezione Civile, ordinanza 24 marzo 2022, n. 9691. PDF: [Studio Ruffinotti](https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf). Case notes: [Giustizia Insieme](https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691); [Dirittifondamentali.it](https://dirittifondamentali.it/2022/04/06/cassazione-la-sindrome-da-alienazione-parentale-pas-e-illegittima-cass-civ-sez-i-ord-24-marzo-2022-n-9691/); [NJus.it](https://www.njus.it/news/2344/il-fondamento-pseudoscientifico-della-sindrome-d-alienazione-parentale-e-l-importanza-dell-ascolto-del-minore/).
+**Primary citation.** Corte Suprema di [Cassazione](https://www.cortedicassazione.it/), Prima Sezione Civile, ordinanza 24 marzo 2022, n. 9691. PDF: [Studio Ruffinotti](https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf). Case notes: [Giustizia Insieme](https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691); [Dirittifondamentali.it](https://dirittifondamentali.it/2022/04/06/cassazione-la-sindrome-da-alienazione-parentale-pas-e-illegittima-cass-civ-sez-i-ord-24-marzo-2022-n-9691/); [NJus.it](https://www.njus.it/news/2344/il-fondamento-pseudoscientifico-della-sindrome-d-alienazione-parentale-e-l-importanza-dell-ascolto-del-minore/).
 
 **Operative holding, verbatim.**
 
@@ -96,9 +96,9 @@ The ECtHR does not impose a uniform substantive standard of proof on member-stat
 
 **Why this is a standard-of-proof case in disguise.** Cass. 9691/2022 imports — without naming it — a *Daubert*-style admissibility filter into Italian civil-law practice: a finding cannot rest on a clinical construct whose scientific foundation is contested, even where the formal civil standard of proof is the ordinary "*libero convincimento*" (free conviction) of the judge. As one commentator at [NJus.it](https://www.njus.it/news/2344/il-fondamento-pseudoscientifico-della-sindrome-d-alienazione-parentale-e-l-importanza-dell-ascolto-del-minore/) put it, "the concept of psychological abuse discussed by technical consultants appears indeterminate and vague, and of uncertain scientific significance, insusceptible to being described according to diagnostic parameters." The follow-on *Cass. ord. 3576/2024* and *Cass. ord. 4595/2025* consolidate this doctrine. (Sources: [AIAF case note on 3576/2024](https://aiaf-avvocati.it/articolo/1827/cassazione-ordinanza-n-35762024-pubblicata-il-giorno-8-febbraio-2024); [PDF of 4595/2025](https://www.avvocaturaefamiglia.com/wp-content/uploads/2025/03/Ordinanza-Cass.-sez.-I-21-febbraio-2025-n.-4595.pdf).)
 
-### 3.3 Germany — BVerfG, 1 BvR 1076/23 (17 November 2023)
+### 3.3 Germany — [BVerfG](https://www.bundesverfassungsgericht.de/), 1 BvR 1076/23 (17 November 2023)
 
-**Primary citation.** Bundesverfassungsgericht, 1. Senat 2. Kammer, Beschluss vom 17. November 2023, 1 BvR 1076/23. Official text: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html); database mirror: [dejure.org](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=17.11.2023&Aktenzeichen=1+BvR+1076/23).
+**Primary citation.** [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/), 1. Senat 2. Kammer, Beschluss vom 17. November 2023, 1 BvR 1076/23. Official text: [bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html); database mirror: [dejure.org](https://dejure.org/dienste/vernetzung/rechtsprechung?Gericht=BVerfG&Datum=17.11.2023&Aktenzeichen=1+BvR+1076/23).
 
 **Operative reasoning, in summary.** The Chamber held that reliance on the "outdated and academically refuted concept" of parental alienation syndrome ("PAS") does not suffice as a sufficiently sound basis for a child-welfare-oriented decision; according to the current state of academic science, there is no empirical evidence either (a) for the proposition that a child's rejection of a parent is the product of manipulation by the other parent or (b) for the effectiveness of removing the child from the household of the allegedly manipulative parent. ([bundesverfassungsgericht.de](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html); summary at [Väteraufbruch case-note](https://vaeteraufbruch.de/news/aktuelle-meldung/analyse-bverfg); critical [pro-PA analysis on ResearchGate](https://www.researchgate.net/publication/400311459_Methodische_Mangel_in_der_Rechtsprechung_Die_wissenschaftlich_nicht_fundierte_Ablehnung_von_Parental_Alienation_durch_das_Bundesverfassungsgericht_und_ihre_Auswirkungen_auf_das_Kindeswohl_-_Eine_kriti)); [Frauenhauskoordinierung analysis (PDF)](https://www.frauenhauskoordinierung.de/fileadmin/redakteure/PDF/2024-07-17_Beitrag_FIS_BVerfG_PAS_und_Sanktionierung_ABR.pdf).)
 
@@ -114,7 +114,7 @@ French civil procedure operates on the *intime conviction* / free conviction of 
 
 ### 4.1 *Briginshaw v Briginshaw* (1938) 60 CLR 336
 
-**Primary citation.** *Briginshaw v Briginshaw* (1938) 60 CLR 336; [1938] HCA 34. Decision of the High Court of Australia delivered 30 June 1938. Authoritative URL: [AustLII](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1938/34.html); ATO mirror: [ato.gov.au](https://www.ato.gov.au/law/view/print?DocID=JUD/60CLR336/00002).
+**Primary citation.** *Briginshaw v Briginshaw* (1938) 60 CLR 336; [1938] HCA 34. Decision of the [High Court of Australia](https://www.hcourt.gov.au/) delivered 30 June 1938. Authoritative URL: [AustLII](http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/HCA/1938/34.html); ATO mirror: [ato.gov.au](https://www.ato.gov.au/law/view/print?DocID=JUD/60CLR336/00002).
 
 **The Dixon J passage, page 362, verbatim.**
 
@@ -241,11 +241,11 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 **Key finding (reproduced across secondary sources).** "Empirical research on parental alienation has been regarded as methodologically feeble. ... Extant empirical research indicates only a moderate to weak and somewhat inconsistent correlation between the preferred parents' alienating behavior and a child's rejection of a target parent."
 
-**Standard-of-proof relevance.** Saini et al. is the most influential statement that the *evidence-base inputs* to PA findings are weak. That has direct *Briginshaw* / *Re B* evidential-quality and *Daubert* reliability implications even where the formal standard is unchanged.
+**Standard-of-proof relevance.** [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). is the most influential statement that the *evidence-base inputs* to PA findings are weak. That has direct *Briginshaw* / *Re B* evidential-quality and *Daubert* reliability implications even where the formal standard is unchanged.
 
 ### 9.2 [Meier (2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)) — the cross-claim asymmetry
 
-**Citation.** Meier, J. S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations. *J Soc Welf Fam Law*, 42(1), 92–105. [XY Online PDF](https://xyonline.net/sites/xyonline.net/files/2020-05/Meier,%20U.S.%20child%20custody%20outcomes%20in%20cases%20involving%20parental%20alienation%20and%20abuse%20allegations%202020.pdf); [Taylor & Francis](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); [SSRN companion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062).
+**Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations. *J Soc Welf Fam Law*, 42(1), 92–105. [XY Online PDF](https://xyonline.net/sites/xyonline.net/files/2020-05/Meier,%20U.S.%20child%20custody%20outcomes%20in%20cases%20involving%20parental%20alienation%20and%20abuse%20allegations%202020.pdf); [Taylor & Francis](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); [SSRN companion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062).
 
 **Headline finding.** "In cases where a mother alleged that the father perpetrated any kind of abuse and the father cross-claimed parental alienation, courts were more than twice as likely to disbelieve the mother's abuse claim than if fathers made no alienation claim. When mothers claim child abuse, courts are almost four times more likely to disbelieve the child abuse allegations than if the father did not make the parental alienation claim." **[secondary verification only]** for the precise form.
 

@@ -43,7 +43,7 @@ Wildblood J's broader teaching points (extracted from the judgment and subsequen
 ## Who else was involved
 
 - **HHJ Stephen Wildblood QC** – Designated Family Judge for the Western Circuit at the time; known for forthright "public-message" judgments
-- The Cafcass officer(s) – not named in publicly available material; **not publicly confirmed** here
+- The [Cafcass](https://www.cafcass.gov.uk/) officer(s) – not named in publicly available material; **not publicly confirmed** here
 - The therapeutic providers and the children's school – not named publicly
 - The first-instance judges who had handled earlier stages of the case – not all named in publicly accessible reports
 

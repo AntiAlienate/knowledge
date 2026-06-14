@@ -14,7 +14,7 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 ## Statutory framework
 
 - **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — substantive children-law statute (applies in Wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
-  - Substantive statute applying in Wales as part of the unified England-and-Wales legal jurisdiction. s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame the substantive standard. Cafcass Cymru produces s.7 welfare reports within this statutory frame.
+  - Substantive statute applying in Wales as part of the unified England-and-Wales legal jurisdiction. s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame the substantive standard. [Cafcass Cymru](https://www.cafcass.gov.uk/) produces s.7 welfare reports within this statutory frame.
 - **Children and Family Court Advisory and Support Service (Wales) — Cafcass Cymru regulations** — Cafcass Cymru — devolved Welsh service (2001) — <https://gov.wales/cafcass-cymru>
   - Cafcass Cymru was established as a Welsh Government Sponsored Public Body in 2001 — devolved from English Cafcass. Operates its own welfare-reporting framework + practice guidance. The Welsh institutional analogue to English Cafcass.
 - **Welsh Language Measure 2011** — Welsh Language (Wales) Measure 2011 (2011) — <https://www.legislation.gov.uk/mwa/2011/1>
@@ -22,13 +22,13 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 
 ## Apex courts
 
-### UK Supreme Court / Court of Appeal of England and Wales / High Court Family Division (unified England-and-Wales jurisdiction)
+### [UK Supreme Court](https://www.supremecourt.uk/) / [Court of Appeal of England and Wales](https://www.judiciary.uk/courts-and-tribunals/court-of-appeal/) / High Court Family Division (unified England-and-Wales jurisdiction)
 <https://www.supremecourt.uk/>
 - **Wales shares the unified England-and-Wales judicial hierarchy. The English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) applies in Welsh family courts. No Welsh-specific apex line distinct from the English Re-arc.** (2026) — middle
 
 ### Family Court (sitting in Cardiff, Swansea, Wrexham, Newport)
 <https://www.gov.uk/courts-tribunals/family-court>
-- **Family Court sittings in Welsh hearing centres. First-instance forum under Children Act 1989; Cafcass Cymru welfare reports inform PA-adjacent decisions.** (2026) — middle
+- **Family Court sittings in Welsh hearing centres. First-instance forum under [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41); Cafcass Cymru welfare reports inform PA-adjacent decisions.** (2026) — middle
 
 ## Professional regulators
 

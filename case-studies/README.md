@@ -73,7 +73,7 @@ If you are a parent or lawyer, these are the cases you will hear cited. Knowing 
 
 ## Asia
 
-23. **[Vivek Singh v Romani Singh, (2017) 3 SCC 231](vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md)** — Supreme Court of India.
+23. **[Vivek Singh v Romani Singh, (2017) 3 SCC 231](vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md)** — [Supreme Court of India](https://main.sci.gov.in/).
 24. **[TEN v TEO and another appeal [2020] SGHCF 20](ten-v-teo-2020-sghcf-20-singapore-parental-alienation.md)** — Singapore High Court (Family Division), Debbie Ong J.
 25. **[H v W [2021] HKCA 733](h-v-w-2021-hkca-733-hong-kong-court-appeal-parental-alienation-relocation.md)** — Hong Kong Court of Appeal.
 
@@ -96,7 +96,7 @@ For a quick orientation, start with **[Global Comparison Matrix](global-comparis
 - A clean US appellate reversal of a core PA finding — see [the gap-documentation page](open-question-clean-us-appellate-reversal-of-pa-finding.md)
 - **Japan post-reform SCJ case-law** — joint-custody reform (Law No. 33/2024) takes effect April 2026; revisit in 2027
 - Joan [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) case series follow-ups with cite-checkable case names
-- Belgian Cour de cassation / Hof van Cassatie family-law PA decisions
+- Belgian [Cour de cassation](https://www.courdecassation.fr/) / Hof van Cassatie family-law PA decisions
 - Italian first-instance and appellate cases applying 9691/2022 correctly (4595/2025 is a corrective; we need a positive-application case)
 - Hong Kong Court of First Instance family-division cases (we have the CA case)
 - Polish lower-court cases applying III CZP 20/25

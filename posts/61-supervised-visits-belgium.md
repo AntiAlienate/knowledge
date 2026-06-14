@@ -30,7 +30,7 @@
 | Flanders | 3–5 months |
 | Some centers | 8+ months |
 
-The Direction générale de l'Aide à la Jeunesse openly acknowledges capacity strain. The European Court of Human Rights in **Improta v. Italy** (2017, App. no. 66396/14) explicitly held that this kind of administrative delay in supervised-contact arrangements is itself an Article 8 violation. **Bondavalli v. Italy** (2015, App. no. 35532/12) confirms the broader state positive obligation. **Solarino v. Italy** (2017) is the parallel weapon when the supervised order itself was triggered by a coached refusal rather than a finding of danger.
+The Direction générale de l'Aide à la Jeunesse openly acknowledges capacity strain. The [European Court of Human Rights](https://www.echr.coe.int/) in **Improta v. Italy** (2017, App. no. 66396/14) explicitly held that this kind of administrative delay in supervised-contact arrangements is itself an Article 8 violation. **Bondavalli v. Italy** (2015, App. no. 35532/12) confirms the broader state positive obligation. **Solarino v. Italy** (2017) is the parallel weapon when the supervised order itself was triggered by a coached refusal rather than a finding of danger.
 
 ## Three workarounds Belgian counsel may not have raised
 

@@ -63,7 +63,7 @@ Moroccan family-court decisions are anonymised per Court of Cassation practice u
 
 ## Editorial notes
 
-- Morocco jurisdiction sidecar — mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Moudawana 2004 + 2004 modernisation reforms + Hague Convention 1980 accession 2010.
+- Morocco jurisdiction sidecar — mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Moudawana 2004 + 2004 modernisation reforms + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2010.
 - PA-recognition: silent statutory + no-apex-position + silent regulator; substantive child-welfare standard codified in Moudawana art. 186.
 - Joins North African/Maghreb + Maliki Islamic-law + Protectorate-inheritance + Hague Convention clusters within the corpus.
 

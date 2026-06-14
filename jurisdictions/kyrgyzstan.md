@@ -62,7 +62,7 @@ Kyrgyz family-court decisions are anonymised per Supreme Court practice using in
 
 ## Editorial notes
 
-- Kyrgyzstan jurisdiction sidecar — civil-law post-Soviet Central Asia. Family Code 2003 + Children's Code 2012 + Hague Convention 1980 accession 2012.
+- Kyrgyzstan jurisdiction sidecar — civil-law post-Soviet Central Asia. Family Code 2003 + Children's Code 2012 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2012.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Central Asian + civil-law + post-Soviet + Hague Convention clusters within the corpus.
 

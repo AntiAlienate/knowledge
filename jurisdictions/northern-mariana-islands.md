@@ -25,7 +25,7 @@ Northern Mariana Islands (CNMI) is a Pacific Island common-law US Commonwealth â
 ### Supreme Court of the Northern Mariana Islands
 <https://www.cnmilaw.org/>
 
-### US Court of Appeals for the Ninth Circuit + US Supreme Court
+### US Court of Appeals for the Ninth Circuit + [US Supreme Court](https://www.supremecourt.gov/)
 <https://www.supremecourt.gov/>
 
 ## Professional regulators

@@ -64,7 +64,7 @@ Malagasy family-court decisions are anonymised per Supreme Court practice using 
 
 ## Editorial notes
 
-- Madagascar jurisdiction sidecar — civil-law Indian Ocean (French civil-law substantive + customary-law codification + 2007 Family-Law Reform Package + Law on Child Protection 2017 + Hague Convention 1980 accession 2004).
+- Madagascar jurisdiction sidecar — civil-law Indian Ocean (French civil-law substantive + customary-law codification + 2007 Family-Law Reform Package + Law on Child Protection 2017 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2004).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Indian Ocean + civil-law + French-derivative + multi-statute-family-law-distinctive + Hague Convention clusters within the corpus.
 

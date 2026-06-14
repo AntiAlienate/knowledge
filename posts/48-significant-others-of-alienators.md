@@ -39,11 +39,11 @@ You were not given a script when you fell in love. But you have been reading fro
 
 ## The longitudinal data
 
-The single biggest factor in alienated children's eventual recovery (Baker, 2007 longitudinal data) is encountering ONE adult — often years later — who didn't agree with the campaign. Who refused to be certain. **That role is open. You can take it.**
+The single biggest factor in alienated children's eventual recovery ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), 2007 longitudinal data) is encountering ONE adult — often years later — who didn't agree with the campaign. Who refused to be certain. **That role is open. You can take it.**
 
 ## Why this matters legally
 
-If your partner's behavior is being documented in court (and the European Court of Human Rights' *Bondavalli v. Italy* (2015) line means it increasingly is across Europe), your *agreement* with the alienating narrative becomes part of the evidence pattern. Your *neutrality* protects both you and the child.
+If your partner's behavior is being documented in court (and the [European Court of Human Rights](https://www.echr.coe.int/)' *Bondavalli v. Italy* (2015) line means it increasingly is across Europe), your *agreement* with the alienating narrative becomes part of the evidence pattern. Your *neutrality* protects both you and the child.
 
 ## Source-blog hyperlinks
 

@@ -28,7 +28,7 @@ The Grand Chamber case requiring states to actively support family-ties restorat
 
 ![Brazil — Lei 12.318/2010 (Lei da Alienação Parental)](./lei-12318.png)
 
-Brazilian statute defining alienação parental + 7 conduct categories + remedies. Constitutionality reaffirmed STF ADI 2024.
+Brazilian statute defining alienação parental + 7 conduct categories + remedies. Constitutionality reaffirmed [STF](https://portal.stf.jus.br/) ADI 2024.
 
 ### [Family Bridges](https://warshak.com/family-bridges/) / [Warshak](https://warshak.com/family-bridges/) — Welcoming Our Children Home
 
@@ -80,7 +80,7 @@ Dutch termination-of-parental-authority remedy under BW Boek 1 Art. 266.
 
 ![Troxel v. Granville (SCOTUS 2000)](./troxel-v-granville.png)
 
-Foundational US Supreme Court case affirming parents' fundamental 14th-Am liberty interest.
+Foundational [US Supreme Court](https://www.supremecourt.gov/) case affirming parents' fundamental 14th-Am liberty interest.
 
 ### UK GDPR Article 15 — Subject Access Right
 

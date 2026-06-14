@@ -36,7 +36,7 @@ Registered Australian charity (Parental Alienation Australia Ltd) acting as the 
 ## Germany
 
 ### Väteraufbruch für Kinder e.V. (VAfK)
-Germany's largest fathers/shared-parenting NGO (federation of regional chapters). Active litigant and amicus voice in German PA jurisprudence, including in cases reaching the ECHR and the Bundesverfassungsgericht. Publishes accessible explainers on German PA case law.
+Germany's largest fathers/shared-parenting NGO (federation of regional chapters). Active litigant and amicus voice in German PA jurisprudence, including in cases reaching the ECHR and the [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/). Publishes accessible explainers on German PA case law.
 - 🌐 [vaeteraufbruch.de](https://vaeteraufbruch.de)
 - ✉️ info@vafk.de
 

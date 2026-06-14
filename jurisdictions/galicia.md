@@ -27,7 +27,7 @@ Galicia (Galicia in Spanish / Galiza in Galician) is a North-western Iberian Atl
 ### Tribunal Superior de Xustiza de Galicia (TSXG)
 <https://www.poderjudicial.es/>
 
-### Tribunal Constitucional de España
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España
 <https://www.tribunalconstitucional.es/>
 
 ## Professional regulators

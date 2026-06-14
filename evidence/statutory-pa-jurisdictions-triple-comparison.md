@@ -26,7 +26,7 @@ A focused thematic synthesis of the three jurisdictions worldwide that have enac
 - **Art. 7** — psychological treatment for the children and the alienating parent.
 
 ### Subsequent reception
-**STF ADI 6273/2019** challenging the statute was dismissed on standing without substantive constitutional ruling.
+**[STF](https://portal.stf.jus.br/) ADI 6273/2019** challenging the statute was dismissed on standing without substantive constitutional ruling.
 
 **STJ apex line:**
 - **REsp 1859228/SP** (Min. Nancy Andrighi, 2024) — procedural application of Lei 12.318/2010 in family courts.
@@ -58,7 +58,7 @@ The statute targets the LABEL 'síndrome de alienación parental' specifically. 
 The Spanish institutional debate has converged on a TERMINOLOGICAL-ARBITRAGE concern: providers may avoid the inadmitted 'SAP' label while substantively deploying the same construct.
 
 ### Apex case-law context
-**STS 519/2017** (Tribunal Supremo, 22 September 2017) confirmed custodia compartida supporting itself on parental-manipulation findings WITHOUT endorsing the SAP syndrome. STS 519/2017 + LOPIVI Disp. ad. 17ª operate as complementary doctrinal anchors — judicial middle-stance + statutory inadmission of the SAP label.
+**STS 519/2017** ([Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/), 22 September 2017) confirmed custodia compartida supporting itself on parental-manipulation findings WITHOUT endorsing the SAP syndrome. STS 519/2017 + LOPIVI Disp. ad. 17ª operate as complementary doctrinal anchors — judicial middle-stance + statutory inadmission of the SAP label.
 
 ### Institutional support
 Spanish Defensor del Pueblo + Consejo General del Poder Judicial 2020 sectoral position support the LOPIVI direction. COP psicología provincial colleges (Madrid; Catalunya; Andalucía; Valencia; País Vasco; Castilla-La Mancha) provide regional regulatory infrastructure aligned with the inadmission direction. Sonia Vaccaro 'violencia vicaria' coinage provides individual-clinician academic counterpart.
@@ -125,10 +125,10 @@ The three statutes target different doctrinal levels precisely:
 **Spain LOPIVI 2021 + Brazil Lei 12.318/2010** are the world's two statutory PA jurisdictions pointing in opposite directions. Both are Iberian-Lusophone speaking; both adopt explicit statutory direction; both subsequently shape regional discourse (LATAM5 + EU6 respectively). The paired-opposite-direction structure is structurally significant in the corpus.
 
 ### 6. Japan legislative reform precedes apex case-law
-**Japan operates legislative reform precedes apex case-law pattern**: Act No. 33 of 2024 effective 1.4.2026 precedes any Supreme Court of Japan PA-construct apex decision. Contrast with Italy (apex case-law Cassazione triad + Riforma Cartabia integrated layering) and Spain (apex STS 519/2017 + LOPIVI 2021 layering). Japan's structural reform is LEGISLATIVE-FIRST.
+**Japan operates legislative reform precedes apex case-law pattern**: Act No. 33 of 2024 effective 1.4.2026 precedes any [Supreme Court of Japan](https://www.courts.go.jp/english/) PA-construct apex decision. Contrast with Italy (apex case-law [Cassazione](https://www.cortedicassazione.it/) triad + Riforma Cartabia integrated layering) and Spain (apex STS 519/2017 + LOPIVI 2021 layering). Japan's structural reform is LEGISLATIVE-FIRST.
 
 ### 7. Multi-tier coverage
-Combining the three statutes with subsequent apex jurisprudence + Strasbourg Article 8 + UN/MESECVI international anchors produces multi-tier coverage of PA-adjacent fact-patterns across 46 Council of Europe states + Brazil + LATAM5 + Asian apex cluster. The three statutory anchors are pivot points within the multi-tier configuration.
+Combining the three statutes with subsequent apex jurisprudence + Strasbourg Article 8 + UN/MESECVI international anchors produces multi-tier coverage of PA-adjacent fact-patterns across 46 [Council of Europe](https://www.coe.int/) states + Brazil + LATAM5 + Asian apex cluster. The three statutory anchors are pivot points within the multi-tier configuration.
 
 ### 8. Comparative paths to similar concerns
 Despite three distinct doctrinal directions, all three statutes emerged from common concerns:

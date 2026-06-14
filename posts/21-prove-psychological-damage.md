@@ -75,12 +75,12 @@ Many PA cases fail not on whether the alienator's behaviors are documented, but 
 
 ## Citations
 
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Baker, A. J. L., & Verrocchio, M. C. (2015). Parental bonding and parental alienation as correlates of psychological maltreatment. *Journal of Child and Family Studies, 24*(7).
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin, 144*(12), 1275–1299.
 - van der Kolk, B. A. (2014). *The Body Keeps the Score.*
 - Perry, B. D. (2017). *The Boy Who Was Raised as a Dog.*
-- [DSM-5](https://www.appi.org/products/dsm) V995.51; WHO ICD-11 QE52, 6B41.
+- [DSM-5](https://www.appi.org/products/dsm) V995.51; WHO [ICD-11](https://icd.who.int/) QE52, 6B41.
 
 ## Disclaimer
 

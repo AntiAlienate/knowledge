@@ -3,7 +3,7 @@
 **Jurisdiction code:** `NI` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Nicaragua is a Central American civil-law republic whose family-law framework operates under the Family Code 2014 (Código de Familia, Law 870 of 2014, effective 8 April 2015) — comprehensive modern codification replacing prior Civil Code provisions. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 264-281. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated under the Asociación de Psicólogos de Nicaragua and Ministerio de Salud licensing framework. Nicaragua is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1998 art. 9. Nicaragua acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2001.
+Nicaragua is a Central American civil-law republic whose family-law framework operates under the Family Code 2014 (Código de Familia, Law 870 of 2014, effective 8 April 2015) — comprehensive modern codification replacing prior Civil Code provisions. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 264-281. The Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/)) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated under the Asociación de Psicólogos de Nicaragua and Ministerio de Salud licensing framework. Nicaragua is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1998 art. 9. Nicaragua acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2001.
 
 ## PA recognition status
 
@@ -58,7 +58,7 @@ Nicaraguan family-court decisions are anonymised per Supreme Court practice usin
 
 ## Editorial notes
 
-- Nicaragua jurisdiction sidecar — civil-law Central America (Family Code 2014 + Children and Adolescents Code 1998 + Hague Convention 1980 accession 2001).
+- Nicaragua jurisdiction sidecar — civil-law Central America (Family Code 2014 + Children and Adolescents Code 1998 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Latin American + civil-law + Central American + recent-comprehensive-Family-Code + Hague Convention clusters within the corpus.
 

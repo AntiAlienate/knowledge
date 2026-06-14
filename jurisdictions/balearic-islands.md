@@ -27,7 +27,7 @@ The Balearic Islands (Illes Balears in Catalan / Islas Baleares in Spanish) are 
 ### Tribunal Superior de Justícia de les Illes Balears (TSJIB)
 <https://www.poderjudicial.es/>
 
-### Tribunal Constitucional de España
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España
 <https://www.tribunalconstitucional.es/>
 
 ## Professional regulators

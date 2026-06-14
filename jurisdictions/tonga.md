@@ -64,7 +64,7 @@ Tongan family-court decisions are anonymised per Privy Council practice using in
 
 ## Editorial notes
 
-- Tonga jurisdiction sidecar — common-law Pacific Island Kingdom (Family Protection Act 2013 + Marriage Act 1926 + Divorce Act 1927 + domestic Privy Council apex distinctive + never-colonised-Protectorate distinctive + non-Hague Convention).
+- Tonga jurisdiction sidecar — common-law Pacific Island Kingdom (Family Protection Act 2013 + Marriage Act 1926 + [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1927 + domestic Privy Council apex distinctive + never-colonised-Protectorate distinctive + non-Hague Convention).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Pacific Island + common-law + never-colonised-distinctive cluster + domestic-Privy-Council-apex-distinctive + non-Hague Convention clusters within the corpus.
 

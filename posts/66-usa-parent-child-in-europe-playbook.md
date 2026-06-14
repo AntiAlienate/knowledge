@@ -19,7 +19,7 @@ For wrongful removal (across borders without consent):
 - **5 narrow defenses** (Hague Art. 13) — most-litigated: "grave risk" (Art. 13(b))
 - **Abbott v. Abbott**, 560 U.S. 1 (2010) — confirmed ne exeat = right of custody under Hague (see [case-law/united-states/abbott-v-abbott-2010.md](../case-law/united-states/abbott-v-abbott-2010.md))
 
-**File in the FOREIGN country first** (Hague petition in the receiving country's central authority), not US federal court. ICARA also allows US federal-court filing in some configurations, but the Hague Central Authority route is faster.
+**File in the FOREIGN country first** (Hague petition in the receiving country's central authority), not US federal court. [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) also allows US federal-court filing in some configurations, but the Hague Central Authority route is faster.
 
 ### Layer 2 — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (binding on the receiving European court)
 
@@ -80,7 +80,7 @@ This is the layer that gets attention when the legal layers move slowly.
 ### Beyond 30 days
 
 If return is granted: enforcement + transition planning.
-If return is denied: switch to long-game custody strategy in the foreign court, with ECHR Article 8 as your top citation stack.
+If return is denied: switch to long-game custody strategy in the foreign court, with [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) as your top citation stack.
 
 ## The Article 13(b) grave-risk defense (the alienator's playbook)
 
@@ -95,7 +95,7 @@ The abducting parent will frequently invoke Hague Art. 13(b) — claiming return
 - *Abbott v Abbott* (2010) — 13(b) is narrow; generic anxiety insufficient
 - *Solarino v Italy* (ECHR 2017) — coached refusal cannot ground severance
 - *Re C [2023] EWHC 345 (Fam)* — court must investigate source of stated wishes
-- *BGH XII ZB 565/15* (Germany 2018) — same principle in German jurisprudence
+- *[BGH](https://www.bundesgerichtshof.de/) XII ZB 565/15* (Germany 2018) — same principle in German jurisprudence
 - *Cass civ 1ère 22 mars 2023* (France) — same principle in French jurisprudence
 
 ## What US parents most commonly get wrong

@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GBR` · **Legal system:** common-law  
 **Language(s):** en, sco, gd, ga, cy  
 
-United Kingdom umbrella jurisdiction covering all four constituent jurisdictions: England-and-Wales, Scotland, Northern Ireland, Wales (institutional sub-jurisdiction). UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Each constituent jurisdiction operates distinct substantive family-law architecture: [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (E&W applies in Wales); Children (Scotland) Act 1995 (SCO); Children (NI) Order 1995 (NIR). UK-wide professional regulation: Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) for psychologists; General Medical Council (GMC) for medical practitioners; British Psychological Society ([BPS](https://www.bps.org.uk/)) UK-wide voluntary. Re Y [2026] EWFC 38 (England, McFarlane P) is the principal UK-wide evaluator-quality apex authority.
+United Kingdom umbrella jurisdiction covering all four constituent jurisdictions: England-and-Wales, Scotland, Northern Ireland, Wales (institutional sub-jurisdiction). [UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters across all UK jurisdictions. Each constituent jurisdiction operates distinct substantive family-law architecture: [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (E&W applies in Wales); Children (Scotland) Act 1995 (SCO); Children (NI) Order 1995 (NIR). UK-wide professional regulation: Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) for psychologists; General Medical Council (GMC) for medical practitioners; British Psychological Society ([BPS](https://www.bps.org.uk/)) UK-wide voluntary. Re Y [2026] EWFC 38 (England, McFarlane P) is the principal UK-wide evaluator-quality apex authority.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ United Kingdom umbrella jurisdiction covering all four constituent jurisdictions
 - **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995** — UK constituent children-law statutes (1995) — <https://www.legislation.gov.uk/>
   - Each UK constituent jurisdiction operates distinct substantive children-law architecture. See per-constituent sidecars: jurisdiction:england-and-wales + jurisdiction:scotland + jurisdiction:northern-ireland + jurisdiction:wales.
 - **Health and Social Care Act 2008 ([HCPC](https://www.hcpc-uk.org/) regulator framework)** — Health and Social Care Act 2008 — [HCPC](https://www.hcpc-uk.org/) UK-wide statutory framework (2008) — <https://www.legislation.gov.uk/ukpga/2008/14>
-  - Statutory framework for the Health and Care Professions Council (HCPC) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide.
+  - Statutory framework for the Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide.
 - **[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6)** — [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) — [Cafcass](https://www.cafcass.gov.uk/) framework + family-court reforms (2014) — <https://www.legislation.gov.uk/ukpga/2014/6>
   - UK-wide statutory framework reforming family-court procedure and establishing [Cafcass](https://www.cafcass.gov.uk/) operational mandate (E&W); [Cafcass Cymru](https://www.cafcass.gov.uk/) is devolved Welsh Government equivalent.
 
@@ -52,7 +52,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 ## Structural findings
 
 - UK UMBRELLA OPERATES OVER FOUR CONSTITUENT JURISDICTIONS: England-and-Wales (unified) + Scotland + Northern Ireland + Wales (institutional sub-jurisdiction). UK Supreme Court is the final court of appeal for civil matters; distinct substantive family-law architectures by constituent.
-- UK-WIDE REGULATORY LAYER COEXISTS WITH CONSTITUENT INSTITUTIONS: HCPC + GMC + [BPS](https://www.bps.org.uk/) + Royal College of Psychiatrists operate UK-wide; Cafcass (E&W) + Cafcass Cymru (Wales) + Scottish welfare reporters + NIGALA (NI) operate constituent-jurisdiction-level. Layered regulation distinct from US 50-state fragmentation or Canadian provincial fragmentation.
+- UK-WIDE REGULATORY LAYER COEXISTS WITH CONSTITUENT INSTITUTIONS: HCPC + GMC + [BPS](https://www.bps.org.uk/) + Royal College of Psychiatrists operate UK-wide; [Cafcass](https://www.cafcass.gov.uk/) (E&W) + Cafcass Cymru (Wales) + Scottish welfare reporters + NIGALA (NI) operate constituent-jurisdiction-level. Layered regulation distinct from US 50-state fragmentation or Canadian provincial fragmentation.
 - RE Y EWFC 38 (E&W 2026) AS UK-WIDE EVALUATOR-QUALITY APEX: HCPC-registration kitemark for PA evaluators applies UK-wide via HCPC statutory framework. Re Y is functionally a UK-wide apex authority despite formally being an E&W jurisdiction decision.
 - NF v AF CSOH 13 (Scotland 2025) AS DEVOLVED-JURISDICTION RECOGNITION ANCHOR: Lord Stuart's strongest Scottish PA finding operates alongside but distinct from English Re-arc. Devolved jurisdictions develop their own apex jurisprudence within UK framework.
 
@@ -73,7 +73,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 3. **UK Legislation** — <https://www.legislation.gov.uk/> (UK Government) [en]
 4. **Health and Care Professions Council (HCPC)** — <https://www.hcpc-uk.org/> (HCPC) [en]
 5. **General Medical Council (GMC)** — <https://www.gmc-uk.org/> (GMC) [en]
-6. **British Psychological Society (BPS)** — <https://www.bps.org.uk/> (BPS) [en]
+6. **British Psychological Society ([BPS](https://www.bps.org.uk/))** — <https://www.bps.org.uk/> (BPS) [en]
 
 ## Editorial notes
 

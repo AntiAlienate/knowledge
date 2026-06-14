@@ -65,7 +65,7 @@ If your case is framed as **estrangement** and the court accepts that framing, t
 ## Related entries
 
 - [posts/16-estrangement-vs-alienation.md](./16-estrangement-vs-alienation.md) — clinical version of the distinction
-- [posts/55-recognizing-pa-key-signs.md](./55-recognizing-pa-key-signs.md) — Bernet 5 + Baker 8
+- [posts/55-recognizing-pa-key-signs.md](./55-recognizing-pa-key-signs.md) — Bernet 5 + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8
 - [posts/18-refusal-protocols.md](./18-refusal-protocols.md) *(seed)*
 - [case-law/echr/solarino-v-italy-2017.md](../case-law/echr/solarino-v-italy-2017.md)
 - [case-law/united-kingdom/re-c-2023-ewhc-345-fam.md](../case-law/united-kingdom/re-c-2023-ewhc-345-fam.md)

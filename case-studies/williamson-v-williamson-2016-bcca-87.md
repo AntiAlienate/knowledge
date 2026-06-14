@@ -55,14 +55,14 @@ BC Court of Appeal disposition engaging structured reunification-programme inter
 1. **[CanLII](https://www.canlii.org/) — Canadian Legal Information Institute** — <https://www.canlii.org/en/bc/bcca/doc/2016/2016bcca87/2016bcca87.html> (Canadian Legal Information Institute) [en]
 2. **British Columbia Court of Appeal** — <https://www.bccourts.ca/Court_of_Appeal/> (Courts of British Columbia) [en]
 3. **Family Law Act SBC 2011 c.25 (British Columbia)** — <https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_01> (Government of British Columbia) [en]
-4. **Divorce Act R.S.C. 1985, c.3 (2nd Supp.)** — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/> (Department of Justice Canada) [en]
+4. **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.)** — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/> (Department of Justice Canada) [en]
 
 ## Editorial notes
 
 - Williamson v Williamson 2016 BCCA 87 is the canonical Canadian appellate citation for residential-reunification-programme intervention in PA-adjacent custody-modification jurisprudence.
 - Decision engages Family Reflections Reunification Program (Kathleen Reay, BC) — the only Canadian-based residential reunification programme regularly named in Canadian custody jurisprudence.
 - Party identity protected per Canadian provincial-superior-court family-law convention (Williamson generic surname placeholder).
-- Sources: CanLII for case-law (2016 BCCA 87) + bclaws.gov.bc.ca for BC Family Law Act 2011 + laws-lois.justice.gc.ca for federal Divorce Act.
+- Sources: [CanLII](https://www.canlii.org/) for case-law (2016 BCCA 87) + bclaws.gov.bc.ca for BC Family Law Act 2011 + laws-lois.justice.gc.ca for federal Divorce Act.
 - Cross-link to L.A.G. v. D.K.B. 2009 CanLII 6452 (ON SC) preserved as Ontario provincial-level companion canonical decision.
 - Cross-jurisdictional reunification-programme engagement (US [Family Bridges](https://warshak.com/family-bridges/) + Overcoming Barriers + Canadian Family Reflections + UK [Cafcass](https://www.cafcass.gov.uk/) + AU FRW + NZ Goldson + SG CAPS + HK SWD Centres) documented in companion evidence page reunification-programmes-and-regulation.
 

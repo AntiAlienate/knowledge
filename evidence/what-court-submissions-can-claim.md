@@ -56,16 +56,16 @@ This page maps each common court-submission claim back to those seven pages.
 
 **Cross-references:** [Case Studies Global Comparison](../case-studies/global-comparison.md); [PA as Child Abuse §2](pa-as-child-abuse.md)
 
-**Anticipated critique:** the contested jurisdictions (Germany BVerfG, Italy Cass.civ.I 9691/2022, Spain TS) reject the *label* PAS. **Counter:** distinguish the label from the conduct; many of those same courts apply functionally similar reasoning to the underlying behaviour.
+**Anticipated critique:** the contested jurisdictions (Germany [BVerfG](https://www.bundesverfassungsgericht.de/), Italy Cass.civ.I 9691/2022, Spain TS) reject the *label* PAS. **Counter:** distinguish the label from the conduct; many of those same courts apply functionally similar reasoning to the underlying behaviour.
 
 ### Claim 4: There is no consensus that "Parental Alienation" or "Parental Alienation Syndrome" is a discrete clinical diagnosis
 
 **Primary support:**
-- DSM-5 declined to add PA as discrete diagnosis (Bernet 2010 proposal rejected)
+- [DSM-5](https://www.appi.org/products/dsm) declined to add PA as discrete diagnosis (Bernet 2010 proposal rejected)
 - WHO formally removed "parental alienation" from [ICD-11](https://icd.who.int/) index in February 2020
 - APA 2008 Statement: no position; 1996 Task Force noted lack of data
 - APSAC 2022 Position Statement: actively cautions against PA-driven psychological-abuse findings
-- Italian Cassazione 9691/2022: PAS "*pseudoscientific*"
+- Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022: PAS "*pseudoscientific*"
 - BVerfG 1 BvR 1076/23 (2023): PAS "*outdated and scientifically refuted*"
 
 **Cross-references:** [International Institutional Positions](international-institutional-positions.md); [Case Studies → BVerfG](../case-studies/bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md); [Case Studies → Cass.civ.I 9691/2022](../case-studies/cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md)
@@ -112,7 +112,7 @@ This page maps each common court-submission claim back to those seven pages.
 
 ### Anti-claim 1: "Parental Alienation Syndrome is a recognised medical diagnosis"
 
-WHO removed it from ICD-11. DSM-5 declined to include it. APA has no position. APSAC actively cautions against it. The Italian Cassazione, BVerfG, French Cass.civ.1, Spanish TS, and [Cafcass](https://www.cafcass.gov.uk/) have all explicitly distanced themselves from the diagnostic framing. Asserting this in a US federal Daubert hearing or a UK family-court submission will get the testimony excluded.
+WHO removed it from [ICD-11](https://icd.who.int/). DSM-5 declined to include it. APA has no position. APSAC actively cautions against it. The Italian Cassazione, BVerfG, French Cass.civ.1, Spanish TS, and [Cafcass](https://www.cafcass.gov.uk/) have all explicitly distanced themselves from the diagnostic framing. Asserting this in a US federal Daubert hearing or a UK family-court submission will get the testimony excluded.
 
 **Source review:** [International Institutional Positions](international-institutional-positions.md); [Diagnostic Codes That DO Apply §7](diagnostic-codes-that-apply.md)
 
@@ -142,7 +142,7 @@ Directly contradicted by APSAC 2022 Position Statement, [Saini](https://global.o
 
 ### Anti-claim 5: "PA cross-claims do not affect custody outcomes asymmetrically by gender"
 
-Contradicted by Meier 2020 4,338-case NIJ-funded dataset (largest empirical study of US PA-court outcomes), [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) 27-case turned-around series, UN Alsalem A/HRC/53/36, GREVIO country evaluations of Italy and Spain, and the EU Parliament Resolution 2019/2166(INI).
+Contradicted by [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 4,338-case NIJ-funded dataset (largest empirical study of US PA-court outcomes), [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) 27-case turned-around series, UN Alsalem A/HRC/53/36, GREVIO country evaluations of Italy and Spain, and the EU Parliament Resolution 2019/2166(INI).
 
 **Source review:** [Forensic Operation in Courts](forensic-operation-in-courts.md); [International Institutional Positions](international-institutional-positions.md)
 

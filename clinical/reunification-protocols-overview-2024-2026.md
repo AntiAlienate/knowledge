@@ -82,7 +82,7 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 
 ## Sources
 
-- [Warshak](https://warshak.com/family-bridges/), R.A. (2010). Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children. *Family Court Review*, 48(1), 48-80
+- [Warshak](https://warshak.com/family-bridges/), R.A. (2010). [Family Bridges](https://warshak.com/family-bridges/): Using Insights from Social Science to Reconnect Parents and Alienated Children. *Family Court Review*, 48(1), 48-80
 - Reay, K.M. (2015). Family Reflections: A Promising Therapeutic Program Designed to Treat Severely Alienated Children and their Family System. *American Journal of Family Therapy*, 43(2), 197-207
 - Sullivan, M.J., Ward, P.A., & Deutsch, R.M. (2010). Overcoming Barriers Family Camp. *Family Court Review*, 48(1), 116-135
 - FNAR (Fédération Nationale des Espaces de Rencontre): https://www.fnar.eu

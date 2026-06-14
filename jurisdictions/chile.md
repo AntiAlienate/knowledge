@@ -32,7 +32,7 @@ Chile no tiene ley que tipifique el SAP/AP. El marco normativo es la Ley 19.968/
 
 ## Apex courts
 
-### Corte Suprema de Justicia de Chile — Sala Cuarta (Mixta)
+### [Corte Suprema de Justicia](https://www.csjn.gov.ar/) de Chile — Sala Cuarta (Mixta)
 <https://www.pjud.cl/>
 - **Corte Suprema Sala Cuarta (Mixta) — competencia laboral, previsional y de familia. Sentencias recientes (Rol 39.171-2021 del 8.11.2021; Rol 119.537-2023 del 22.5.2024; Rol 161.602-2023 del 27.9.2024; fallo del 19.6.2025 publicado por Secretaría Técnica de Igualdad de Género del Poder Judicial) han incorporado perspectiva de género y reconocimiento de la violencia vicaria (Ley 21.675/2024 art. 5) SIN proscribir explícitamente el SAP como diagnóstico. Posición middle — incorporación gradual perspectiva género sin descalificación apex del construct.** (2024) — middle
 - **ENERO 2023 — Controversia 'Gobierno vs. Suprema': Ángela Vivanco Martínez, entonces vocera del máximo tribunal, declaró públicamente que el SAP 'no es una invención'. Episodio que escenificó la tensión jurisdiccional pre-rechazo legislativo 2024. Vivanco posteriormente cesó como vocera por razones distintas. Corte Suprema NO ha emitido sentencia apex proscribiendo el constructo.** (2023) — middle
@@ -41,7 +41,7 @@ Chile no tiene ley que tipifique el SAP/AP. El marco normativo es la Ley 19.968/
 <https://www.pjud.cl/>
 - **Tribunal Pleno realiza control de constitucionalidad de proyectos de ley en sede de informe consultivo. Sin sentencia apex PA-específica.** (2026) — middle
 
-### Tribunal Constitucional de Chile
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de Chile
 <https://www.tribunalconstitucional.cl/>
 - **Tribunal Constitucional — control de constitucionalidad. Sin sentencia apex PA-específica. La proscripción del SAP en Chile NO opera vía sede constitucional (a diferencia de Colombia T-526/23 o México SCJN AI 11/2016) sino vía rechazo legislativo + Ejecutivo + ANMM.** (2026) — middle
 

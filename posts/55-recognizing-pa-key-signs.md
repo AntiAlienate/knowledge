@@ -19,7 +19,7 @@ All five must be present:
 
 ## [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators
 
-The canonical diagnostic from Baker (2007):
+The canonical diagnostic from [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007):
 
 1. **Campaign of denigration** — consistent negative talk
 2. **Weak, frivolous, or borrowed reasons** for rejection

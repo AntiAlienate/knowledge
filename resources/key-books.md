@@ -33,7 +33,7 @@ Standalone deep-dive on the BIFF method.
 ### *Surviving Parental Alienation* — Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Paul R. Fine (2014)
 A 30-day plan for targeted parents. Concrete daily strategies — what to say, what to write, what to document.
 
-### *Co-Parenting With a Toxic Ex* — Amy J. L. Baker & Paul R. Fine (2014)
+### *Co-Parenting With a Toxic Ex* — Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Paul R. Fine (2014)
 For situations where reconciliation isn't possible. Focus on protecting the child while minimising exposure to alienating behaviors.
 
 ---
@@ -81,7 +81,7 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 ## Reading Order Suggestions
 
 **Newly targeted parent (first 30 days):**
-1. *Divorce Poison* (Warshak)
+1. *Divorce Poison* ([Warshak](https://warshak.com/family-bridges/))
 2. *Surviving Parental Alienation* (Baker & Fine)
 3. *BIFF for CoParent Communication* (Eddy)
 

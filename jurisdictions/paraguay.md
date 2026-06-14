@@ -3,7 +3,7 @@
 **Jurisdiction code:** `PY` · **Legal system:** civil-law  
 **Language(s):** es, gn  
 
-Paraguay is a Southern Cone civil-law republic whose family-law framework operates under the Civil Code 1987 (Código Civil, Law 1183 of 1985) supplemented by the Children and Adolescents Code 2001 (Law 1680 of 2001). Parental authority (patria potestad) and child custody are governed by Civil Code arts. 70-95 and Children and Adolescents Code arts. 70-93. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Children and Adolescents Courts (Juzgados de la Niñez y Adolescencia). Psychology profession is regulated through the Sociedad Paraguaya de Psicología and Ministerio de Salud Pública licensing framework. Paraguay is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. 3. Paraguay acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 1998. Paraguay is a bilingual Spanish-Guarani official-language state — distinctive within Latin America.
+Paraguay is a Southern Cone civil-law republic whose family-law framework operates under the Civil Code 1987 (Código Civil, Law 1183 of 1985) supplemented by the Children and Adolescents Code 2001 (Law 1680 of 2001). Parental authority (patria potestad) and child custody are governed by Civil Code arts. 70-95 and Children and Adolescents Code arts. 70-93. The Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/)) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Children and Adolescents Courts (Juzgados de la Niñez y Adolescencia). Psychology profession is regulated through the Sociedad Paraguaya de Psicología and Ministerio de Salud Pública licensing framework. Paraguay is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. 3. Paraguay acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 1998. Paraguay is a bilingual Spanish-Guarani official-language state — distinctive within Latin America.
 
 ## PA recognition status
 
@@ -58,7 +58,7 @@ Paraguayan family-court decisions are anonymised per Supreme Court practice usin
 
 ## Editorial notes
 
-- Paraguay jurisdiction sidecar — civil-law Southern Cone (Civil Code 1985 Vélez Sarsfield-derivative + Children and Adolescents Code 2001 + bilingual Spanish-Guarani + Hague Convention 1980 accession 1998).
+- Paraguay jurisdiction sidecar — civil-law Southern Cone (Civil Code 1985 Vélez Sarsfield-derivative + Children and Adolescents Code 2001 + bilingual Spanish-Guarani + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1998).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Southern Cone + civil-law + Vélez-Sarsfield-derivative + bilingual-indigenous-official-language distinctive + Hague Convention clusters within the corpus.
 

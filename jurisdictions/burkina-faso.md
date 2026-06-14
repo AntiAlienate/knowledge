@@ -59,7 +59,7 @@ Burkinabé family-court decisions are anonymised per Court of Cassation practice
 
 ## Editorial notes
 
-- Burkina Faso jurisdiction sidecar — civil-law Sahel Francophone West Africa (French civil-law substantive + Persons and Family Code 1989 customary-law-Islamic-law-codified + Hague Convention 1980 accession 1992 — earliest African).
+- Burkina Faso jurisdiction sidecar — civil-law Sahel Francophone West Africa (French civil-law substantive + Persons and Family Code 1989 customary-law-Islamic-law-codified + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1992 — earliest African).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Sahel Francophone West African + civil-law + customary-Islamic-law-codified-distinctive + earliest-African-Hague Convention clusters within the corpus.
 

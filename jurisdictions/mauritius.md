@@ -66,7 +66,7 @@ Mauritian family-court decisions are anonymised per Supreme Court practice using
 
 ## Editorial notes
 
-- Mauritius jurisdiction sidecar — mixed-legal-system Indian Ocean (French civil-law substantive Code Napoléon + English common-law procedural + JCPC final-appellate + Children's Act 2020 + Hague Convention 1980 accession 1993).
+- Mauritius jurisdiction sidecar — mixed-legal-system Indian Ocean (French civil-law substantive Code Napoléon + English common-law procedural + JCPC final-appellate + Children's Act 2020 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1993).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Indian Ocean + mixed-legal-system + Quebec-pattern-French-civil-English-procedural + only-African-JCPC + early-African-Hague Convention clusters within the corpus.
 

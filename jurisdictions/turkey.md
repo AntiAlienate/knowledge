@@ -45,7 +45,7 @@ Turkish family-law decisions are anonymised per Yargıtay practice; published Ya
 ## Structural findings
 
 - Türkiye sits at the boundary of the European civil-law cluster and the Middle-Eastern jurisdictions. TMK 2001 represents a substantial modernisation of family law along civil-law lines; specialised Aile Mahkemeleri operate as first-instance courts. Distinct from the federal-statutory psychology regulator regimes elsewhere in the corpus.
-- Anayasa Mahkemesi individual-application jurisdiction since 2012 provides a Strasbourg-adjacent constitutional-review pathway for family-court determinations engaging ECHR rights. This places Türkiye structurally adjacent to the Convention-incorporated jurisdictions while operating as a Council of Europe member with regular ECHR family-law jurisprudence (e.g. Cengiz Kılıç v. Turkey ECHR 2011 documented in the corpus practitioner-base notes).
+- Anayasa Mahkemesi individual-application jurisdiction since 2012 provides a Strasbourg-adjacent constitutional-review pathway for family-court determinations engaging ECHR rights. This places Türkiye structurally adjacent to the Convention-incorporated jurisdictions while operating as a [Council of Europe](https://www.coe.int/) member with regular ECHR family-law jurisprudence (e.g. Cengiz Kılıç v. Turkey ECHR 2011 documented in the corpus practitioner-base notes).
 - Psychology profession regulation is structurally less comprehensive than the federal-statutory regimes elsewhere in the corpus — Ministry of Health licensing + YÖK training requirements + TPD peak-body ethics oversight rather than a unified statutory professional-order regime.
 
 ## See also

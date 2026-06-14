@@ -109,7 +109,7 @@ Your child needs you to stay alive long enough for them to come back. That's the
 
 ## Citations
 
-- Warshak, R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/). *Family Court Review*, 48(1), 48-80.
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). Family Reflections. *American Journal of Family Therapy*, 43(2), 197-207.
 - Sullivan, M. J., & Kelly, J. B. (2001). *Family Court Review*, 39(3), 299-315.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*

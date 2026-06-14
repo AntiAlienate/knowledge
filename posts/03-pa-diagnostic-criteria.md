@@ -17,7 +17,7 @@ All 5 must be present:
 4. Child exhibits **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8** behavioral indicators (Layer 2)
 5. There is **no justified estrangement** (abuse, neglect, profound mismatch)
 
-## Layer 2 — Baker's 8 behavioral indicators
+## Layer 2 — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators
 
 1. Campaign of denigration
 2. Weak / frivolous / borrowed reasons for rejection

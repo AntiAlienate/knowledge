@@ -23,7 +23,7 @@ US Virgin Islands is a Caribbean mixed-legal-system unincorporated US territory 
 ### Supreme Court of the US Virgin Islands
 <https://www.visupremecourt.org/>
 
-### US Court of Appeals for the Third Circuit + US Supreme Court
+### US Court of Appeals for the Third Circuit + [US Supreme Court](https://www.supremecourt.gov/)
 <https://www.supremecourt.gov/>
 
 ## Professional regulators

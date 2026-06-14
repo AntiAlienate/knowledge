@@ -52,7 +52,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ### Justia — free
 - URL: https://law.justia.com/cases/
-- US Supreme Court + state supreme + federal appellate
+- [US Supreme Court](https://www.supremecourt.gov/) + state supreme + federal appellate
 - Best for: clean reading view of full opinions
 
 ### Caselaw Access Project (Harvard) — free
@@ -84,12 +84,12 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ## EU / International
 
-### [HUDOC](https://hudoc.echr.coe.int/) (European Court of Human Rights) — free
+### [HUDOC](https://hudoc.echr.coe.int/) ([European Court of Human Rights](https://www.echr.coe.int/)) — free
 - URL: https://hudoc.echr.coe.int/
 - Article 8 (right to family life) jurisprudence
 - Best for: regional cross-border PA arguments
 
-### Council of Europe — free
+### [Council of Europe](https://www.coe.int/) — free
 - URL: https://www.coe.int/en/web/children/
 - Children's rights instruments and committee reports
 
@@ -139,7 +139,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 **You are a parent:** Start with the [Influencers](../influencers/) section to find clinicians whose work matches your situation, then use [Google Scholar](https://scholar.google.com/) to read what they've published.
 
-**You are a lawyer:** CourtListener + Google Scholar Case Law + [BAILII](https://www.bailii.org/) (or [CanLII](https://www.canlii.org/) / [AustLII](https://www.austlii.edu.au/) regionally) — search `"parental alienation"` filtered to the last 24 months for fresh authority.
+**You are a lawyer:** CourtListener + [Google Scholar](https://scholar.google.com/) Case Law + [BAILII](https://www.bailii.org/) (or [CanLII](https://www.canlii.org/) / [AustLII](https://www.austlii.edu.au/) regionally) — search `"parental alienation"` filtered to the last 24 months for fresh authority.
 
 **You are an evaluator or researcher:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/) + CrossRef + SSRN, with Zotero for capture and Connected Papers for graph navigation.
 

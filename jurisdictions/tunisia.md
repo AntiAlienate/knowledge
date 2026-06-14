@@ -63,7 +63,7 @@ Tunisian family-court decisions are anonymised per Court of Cassation practice u
 
 ## Editorial notes
 
-- Tunisia jurisdiction sidecar — mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Code of Personal Status 1956 + Child Protection Code 1995 + Hague Convention 1980 accession 2017.
+- Tunisia jurisdiction sidecar — mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Code of Personal Status 1956 + Child Protection Code 1995 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2017.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North African/Maghreb + Maliki Islamic-law + Protectorate-inheritance + Hague Convention + MENA progressive-reform clusters within the corpus.
 

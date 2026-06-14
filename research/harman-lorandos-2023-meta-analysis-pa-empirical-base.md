@@ -71,7 +71,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 ## Key co-cited works
 
 - Bernet, W. (2018) *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*. CRC Press
-- Baker, A.J.L., & Sauber, S.R. (Eds.) (2013) *Working With Alienated Children and Families*. Routledge
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A.J.L., & Sauber, S.R. (Eds.) (2013) *Working With Alienated Children and Families*. Routledge
 - Harman, J.J., Kruk, E., & Hines, D. (2018) *Parental alienating behaviors: An unacknowledged form of family violence*. Psychological Bulletin, 144(12), 1275-1299
 - Lorandos, D., & Bernet, W. (Eds.) (2020) *Parental Alienation — Science and Law*. Charles C. Thomas
 - [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J.R., Fidler, B.J., & Bala, N. (2016) *Empirical studies of alienation*. In Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Olesen (Eds.), *Parenting Plan Evaluations* (2nd ed.)

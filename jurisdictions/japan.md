@@ -34,7 +34,7 @@ Japan is a civil-law jurisdiction whose family-law architecture was substantiall
 
 ## Apex courts
 
-### Supreme Court of Japan (最高裁判所 / Saikō Saibansho)
+### [Supreme Court of Japan](https://www.courts.go.jp/english/) (最高裁判所 / Saikō Saibansho)
 <https://www.courts.go.jp/saikosai/>
 - **Supreme Court of Japan is the apex court for civil and criminal matters. Has not issued a PA-construct-specific apex decision. The 1947 sole-custody Art. 819 regime + 2024 joint-custody reform have been structured at legislative rather than apex-judicial level. Pre-2024 Supreme Court decisions on visitation (面会交流) and child-welfare have engaged alienation-adjacent reasoning without adopting PAS as a clinical label.** (2026) — middle
 

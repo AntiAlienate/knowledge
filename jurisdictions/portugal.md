@@ -43,7 +43,7 @@ Portuguese family-law decisions are anonymised per STJ convention using initials
 
 ## Structural findings
 
-- Portugal sits structurally within the EU civil-law cluster — Código Civil 2008 reform established joint-exercise default of parental responsibilities + STJ welfare-standard practice + OPP statutory psychology regulator. Adjacent to Spain (STS 519/2017) and Italy (Cassazione triad) in the Iberian/Mediterranean civil-law sub-cluster.
+- Portugal sits structurally within the EU civil-law cluster — Código Civil 2008 reform established joint-exercise default of parental responsibilities + STJ welfare-standard practice + OPP statutory psychology regulator. Adjacent to Spain (STS 519/2017) and Italy ([Cassazione](https://www.cortedicassazione.it/) triad) in the Iberian/Mediterranean civil-law sub-cluster.
 - OPP statutory professional-order regime (Lei 57/2008) places Portugal among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL — with the distinctive 'Ordem' professional-order tradition shared with Spain (Colegio Oficial), Italy (Ordine), and France (Ordre des médecins counterpart for medical professions; psychology in France remains regulated outside an Ordre).
 - STJ has not produced a published apex-level engagement with the PAS construct comparable to STS 519/2017 Spain. Portuguese family-court practice operates substantively under superior interesse da criança welfare standard without a structured apex critique-camp doctrine.
 

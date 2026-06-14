@@ -55,7 +55,7 @@ This is fiction. The clinical anchors are not.
 
 - **[DSM-5](https://www.appi.org/products/dsm) V300.19** — Factitious Disorder Imposed on Another (formerly Munchausen by Proxy)
 - **WHO [ICD-11](https://icd.who.int/) 6D52** — Caregiver-Fabricated Illness in a Child
-- **DSM-5 V995.51** — Child Psychological Abuse (the broader frame)
+- **[DSM-5](https://www.appi.org/products/dsm) V995.51** — Child Psychological Abuse (the broader frame)
 - **Roesler & Jenny (2009)** — *Medical Child Abuse* — the framework used in pediatric forensic assessment today
 - **Sanders & Bursch (2002)** — *Munchausen by Proxy: A Survey of Pediatric Forensic Issues*
 - **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — illness-fabrication included among the 17 strategies of parental alienation
@@ -89,7 +89,7 @@ Most pediatricians receive zero hours of training on factitious disorder imposed
 ## Citations
 
 - DSM-5 V300.19 — Factitious Disorder Imposed on Another. American Psychiatric Association.
-- WHO ICD-11 6D52 — Caregiver-Fabricated Illness in a Child.
+- WHO [ICD-11](https://icd.who.int/) 6D52 — Caregiver-Fabricated Illness in a Child.
 - DSM-5 V995.51 — Child Psychological Abuse.
 - Roesler, T. A., & Jenny, C. (2009). *Medical Child Abuse: Beyond Munchausen Syndrome by Proxy.* American Academy of Pediatrics.
 - Sanders, M. J., & Bursch, B. (2002). Forensic assessment of illness falsification, Munchausen by Proxy, and factitious disorder, NOS. *Child Maltreatment, 7*(2), 112–124.

@@ -276,7 +276,7 @@ Dunedin · Otago · Children's Issues Centre, Faculty of Law, University of Otag
 - Parenting Arrangements After Separation Study: Evaluating the 2014 Family Law Reforms. Family Justice Professionals' Perspectives (2019) — *NZ Law Foundation Family Law Reports* — <https://nzlii.org/nz/journals/NZLFRRp/2019/8.html>
 - Otago Law Review inaugural professorial lecture (2023) — *Otago Law Review* — <https://www.nzlii.org/nz/journals/OtaLawRw/2023/3.html>
 - Relocation research report (2010) — *NZ Law Foundation* — <https://www.otago.ac.nz/__data/assets/pdf_file/0028/291943/read-the-research-report-630000.pdf>
-- The Role of Children in 1980 Hague Child Convention Proceedings and Other High Conflict Parenting Disputes ([AFCC](https://www.afccnet.org/) Preconference Institute Adelaide) (2023) — *AFCC 'Alienation? Myths Complexities and Possibilities' Adelaide preconference*
+- The Role of Children in 1980 Hague Child Convention Proceedings and Other High Conflict Parenting Disputes ([AFCC](https://www.afccnet.org/) Preconference Institute Adelaide) (2023) — *[AFCC](https://www.afccnet.org/) 'Alienation? Myths Complexities and Possibilities' Adelaide preconference*
 
 **Verification:**
 - <https://www.otago.ac.nz/cic/staff/professor-nicola-taylor>

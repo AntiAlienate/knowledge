@@ -176,7 +176,7 @@ Mexico is among the **highest-volume PA-clinical jurisdictions in LATAM** and th
 
 ## Institutional Anchors
 
-### 10. SCJN — Suprema Corte de Justicia de la Nación
+### 10. SCJN — [Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/)
 - **Institution type:** Federal judicial — apex court; Pleno + Salas + Dirección General de Derechos Humanos y Justicia Pluricultural.
 - **Entidad federativa:** Federal (CDMX, Pino Suárez 2, Centro Histórico).
 - **Stance:** **middle (procedural — invalidates automaticity, preserves figura).**

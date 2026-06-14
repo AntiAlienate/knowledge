@@ -67,7 +67,7 @@ Ecuadorian family-court decisions are anonymised per National Court practice usi
 
 ## Editorial notes
 
-- Ecuador jurisdiction sidecar — civil-law Andean South America (Civil Code Bello-derivative + Children and Adolescents Code 2003 + Constitution 2008 indigenous jurisdiction + Hague Convention 1980 accession 1992 — earliest Latin American).
+- Ecuador jurisdiction sidecar — civil-law Andean South America (Civil Code Bello-derivative + Children and Adolescents Code 2003 + Constitution 2008 indigenous jurisdiction + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1992 — earliest Latin American).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Andean + civil-law + Bello-Civil-Code-derivative + indigenous-jurisdiction-recognition + earliest-Latin-American-Hague Convention clusters within the corpus.
 

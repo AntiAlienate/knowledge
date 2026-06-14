@@ -1,7 +1,7 @@
-# BVerfG 17.11.2023 – 1 BvR 1076/23
+# [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23
 
 **ECLI:** `ECLI:DE:BVerfG:2023:rk20231117.1bvr107623`  
-**Court:** Bundesverfassungsgericht (2. Kammer des Ersten Senats)  
+**Court:** [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (2. Kammer des Ersten Senats)  
 **Decided:** 2023-11-17  
 **Panel:** Ott / Radtke / Wolff (unanimous Kammerbeschluss)  
 
@@ -45,7 +45,7 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 - **NF v AF [2025] CSOH 13** (UK-SCO) — Scotland — Lord Stuart found PA constitutes direct emotional abuse; pointed in the opposite direction to BVerfG on the PA construct itself.
 - **OLG Frankfurt 7 UF 88/25** (DE) — [`olg-frankfurt-7-uf-88-25-germany-2026`](./olg-frankfurt-7-uf-88-25-germany-2026.md) — Companion German OLG decision (Jan 2026) that operationalises this BVerfG ruling at OLG level via Sachverständigen-Mindestanforderungen.
 - **CFP Nota Técnica nº 4/2022** (BR) — Brazil — Conselho Federal de Psicologia institutional position cautioning against AP construct misuse; complementary institutional critique.
-- **Council of Europe Istanbul Convention art. 31** (INT) — GREVIO 2022 Germany evaluation framing on alienation allegations and DV-survivor protection.
+- **[Council of Europe](https://www.coe.int/) Istanbul Convention art. 31** (INT) — GREVIO 2022 Germany evaluation framing on alienation allegations and DV-survivor protection.
 
 ## Subsequent reception
 

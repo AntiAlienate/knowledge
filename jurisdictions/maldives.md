@@ -63,7 +63,7 @@ Maldivian family-court decisions are anonymised per Supreme Court practice using
 
 ## Editorial notes
 
-- Maldives jurisdiction sidecar — Shafi'i Islamic-law South Asia (Family Act 4/2000 + Constitution 2008 art. 10 + Child Rights Protection Act 2019 + Hague Convention 1980 accession 2017 — first South Asian Muslim-majority Hague).
+- Maldives jurisdiction sidecar — Shafi'i Islamic-law South Asia (Family Act 4/2000 + Constitution 2008 art. 10 + Child Rights Protection Act 2019 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2017 — first South Asian Muslim-majority Hague).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South Asian + Shafi'i Sunni religious-law + constitutional-Islam-supremacy + Hague Convention + first-South-Asian-Muslim-Hague distinctive clusters within the corpus.
 

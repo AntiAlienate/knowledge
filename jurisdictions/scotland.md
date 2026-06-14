@@ -104,7 +104,7 @@ Court of Session anonymises children by initial; NF v AF uses 2-letter party ini
 
 ## Editorial notes
 
-- Primary-source order: Scottish Courts (judicial.scot, scotcourts.gov.uk), legislation.gov.uk and [BAILII](https://www.bailii.org/) Scottish jurisdictions are cited first; institutional voices (Shared Parenting Scotland, Scottish Women's Aid, Engender) follow.
+- Primary-source order: Scottish Courts (judicial.scot, scotcourts.gov.uk), [legislation.gov.uk](https://www.legislation.gov.uk/) and [BAILII](https://www.bailii.org/) Scottish jurisdictions are cited first; institutional voices (Shared Parenting Scotland, Scottish Women's Aid, Engender) follow.
 - Verbatim Scottish English is preserved throughout (e.g., 'sheriff court', 'curator ad litem', 'proof', 'Inner House', 'Outer House').
 - Preserved corrections from UK-Devolved lawyers v2: 'Mary Connolly KC' does not exist (NI bar confusion with Martina Connolly KC); Jonathan Dunlop KC is a commercial silk, not family; Cara Goodwin is not on the Faculty of Advocates roll; 'Family Law Scotland Ltd' does not exist as a registered firm.
 - Scotland is treated as a distinct jurisdiction (not a subset of 'United Kingdom') given its separate legal system, Children (Scotland) Act 1995/2020 welfare regime, Court of Session apex jurisdiction, and Faculty of Advocates / Law Society of Scotland regulation.

@@ -23,7 +23,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 > "Nonaccidental verbal or symbolic acts by a child's parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child."
 
-**PA-relevance:** This is the most-cited DSM-5 code for documented PA harm. The 8 [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) indicators map directly onto "nonaccidental verbal or symbolic acts." Court-evidence framing uses this code to operationalize PA harm in a DSM-recognized way.
+**PA-relevance:** This is the most-cited [DSM-5](https://www.appi.org/products/dsm) code for documented PA harm. The 8 [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) indicators map directly onto "nonaccidental verbal or symbolic acts." Court-evidence framing uses this code to operationalize PA harm in a DSM-recognized way.
 
 **Use in court:** Expert witnesses + custody evaluators can document the alienating parent's conduct as meeting V995.51 criteria — providing diagnostic-system anchoring without requiring a separate "PA" diagnosis.
 
@@ -45,7 +45,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 **PA-relevance:** Modern WHO equivalent of DSM's V61.29. In force globally since 2022. Captures the relational dysfunction in a non-blaming, non-pathologizing frame — useful when court framing requires gentler language.
 
-### ICD-11: 6D52 — Caregiver-Fabricated Illness in a Child
+### [ICD-11](https://icd.who.int/): 6D52 — Caregiver-Fabricated Illness in a Child
 
 > "A pattern of falsification of medical signs and/or symptoms or induction of disease or injury in a person under one's care that is associated with identified deception."
 

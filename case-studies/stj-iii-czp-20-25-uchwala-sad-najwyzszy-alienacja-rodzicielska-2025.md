@@ -69,7 +69,7 @@ Three propositions are extracted from the resolution by Polish practitioner comm
 
 ## Why this case matters
 
-III CZP 20/25 is the Polish entry in the European supreme-court conversation about parental alienation, and it sits at a different point on the spectrum from the Italian (*Cass. 9691/2022*), Spanish (*STS 519/2017*) and German (*BVerfG 1 BvR 1076/23*) decisions already in this collection.
+III CZP 20/25 is the Polish entry in the European supreme-court conversation about parental alienation, and it sits at a different point on the spectrum from the Italian (*Cass. 9691/2022*), Spanish (*STS 519/2017*) and German (*[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23*) decisions already in this collection.
 
 Where the Italian and German supreme courts moved in 2021-2024 to constrain the use of "alienation" framing as a basis for severe interventions against mothers – worrying that PA framing was being used to discount domestic-violence and child-safeguarding evidence – the Polish Supreme Court moved in the opposite direction. III CZP 20/25 *re-opens* the statutory enforcement tool against custodial parents whose conduct contributes to a child's refusal of contact with the other parent. It does so within a constitutional landscape (SK 3/20) that had narrowed that tool sharply in 2022.
 

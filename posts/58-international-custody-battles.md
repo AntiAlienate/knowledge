@@ -38,13 +38,13 @@ In force from **1 August 2022**, replacing Brussels IIa. Governs custody and ret
 
 ## The grave-risk exception (Article 13(b))
 
-The most-litigated Hague defense. The receiving court may refuse return if there is a "grave risk" of physical/psychological harm or intolerable situation. **UK Supreme Court in Re E (Children)** [2011] UKSC 27 set the high threshold. **ECHR Grand Chamber in X v. Latvia** (2013, App. no. 27853/09) held that courts must consider grave-risk arguments seriously but cannot stretch them.
+The most-litigated Hague defense. The receiving court may refuse return if there is a "grave risk" of physical/psychological harm or intolerable situation. **[UK Supreme Court](https://www.supremecourt.uk/) in Re E (Children)** [2011] UKSC 27 set the high threshold. **ECHR Grand Chamber in X v. Latvia** (2013, App. no. 27853/09) held that courts must consider grave-risk arguments seriously but cannot stretch them.
 
 ## ECHR + SCOTUS backstop
 
 - **Neulinger v. Switzerland** (ECHR 2010, GC, App. no. 41615/07) — Hague return must respect Article 8 family-life protection
 - **X v. Latvia** (ECHR 2013, GC) — refusing return without proper analysis is itself an Article 8 violation
-- **Abbott v. Abbott** (US Supreme Court 2010, 560 U.S. 1) — even *ne exeat* clauses count as "right of custody" under the Hague
+- **Abbott v. Abbott** ([US Supreme Court](https://www.supremecourt.gov/) 2010, 560 U.S. 1) — even *ne exeat* clauses count as "right of custody" under the Hague
 - **Šneersone & Kampanella v. Italy** (ECHR 2011, App. no. 14737/09) — return refusal upheld
 - **Maumousseau v. France** (ECHR 2007) — return order under Hague upheld
 
@@ -72,7 +72,7 @@ The most-litigated Hague defense. The receiving court may refuse return if there
 - *X v. Latvia*, ECHR 2013, GC, App. no. 27853/09
 - *Abbott v. Abbott*, 560 U.S. 1 (2010)
 - *Re E (Children)* [2011] UKSC 27
-- HCCH Country Profiles + INCADAT case database
+- [HCCH](https://www.hcch.net/) Country Profiles + INCADAT case database
 
 ## Disclaimer
 

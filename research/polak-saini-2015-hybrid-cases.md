@@ -19,7 +19,7 @@ Shely Polak (private practice) and Dr. Michael [Saini](https://global.oup.com/ac
 
 Pre-2015, much of the PA literature operated on a binary frame: a case was either "alienation" (in which case intervention targeted the alienating parent) or "estrangement" (in which case intervention protected the child from the rejected parent). Real cases didn't cooperate with the binary.
 
-Polak and Saini reviewed clinical and forensic literature and proposed that practitioners encountering contact-refusal cases ask not "is this alienation OR estrangement?" but rather:
+Polak and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) reviewed clinical and forensic literature and proposed that practitioners encountering contact-refusal cases ask not "is this alienation OR estrangement?" but rather:
 
 - **How much** alienating behavior is documented? (degree dimension)
 - **How much** of the child's rejection is proportional to actual harm? (proportionality dimension)

@@ -3,7 +3,7 @@
 **Jurisdiction code:** `PE` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Peru is an Andean South American civil-law republic whose family-law framework operates under the Civil Code 1984 (Código Civil, Decreto Legislativo 295) Book III (Family Law), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 418-471, supplemented by the Children and Adolescents Code 2000 (Law 27337). The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos del Perú (Law 23019/1980). Peru is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. IX. Peru acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 August 2001.
+Peru is an Andean South American civil-law republic whose family-law framework operates under the Civil Code 1984 (Código Civil, Decreto Legislativo 295) Book III (Family Law), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 418-471, supplemented by the Children and Adolescents Code 2000 (Law 27337). The Supreme Court of Justice ([Corte Suprema de Justicia](https://www.csjn.gov.ar/)) is the apex court for civil and criminal matters; the Constitutional Court ([Tribunal Constitucional](https://www.tribunalconstitucional.es/)) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos del Perú (Law 23019/1980). Peru is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. IX. Peru acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 August 2001.
 
 ## PA recognition status
 
@@ -65,7 +65,7 @@ Peruvian family-court decisions are anonymised per Supreme Court practice using 
 
 ## Editorial notes
 
-- Peru jurisdiction sidecar — civil-law Andean South America (Civil Code 1984 Book III + Children and Adolescents Code 2000 + Colegio de Psicólogos Law 1980 — earliest Latin American + Hague Convention 1980 accession 2001).
+- Peru jurisdiction sidecar — civil-law Andean South America (Civil Code 1984 Book III + Children and Adolescents Code 2000 + Colegio de Psicólogos Law 1980 — earliest Latin American + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Latin American + civil-law + Andean South American + early-Latin-American-psychology-regulation + Hague Convention clusters within the corpus.
 

@@ -62,7 +62,7 @@ Beninese family-court decisions are anonymised per Supreme Court practice using 
 
 ## Editorial notes
 
-- Benin jurisdiction sidecar — civil-law West African Francophone (Persons and Family Code 2004 + monogamy-default reform + Children's Code 2015 + Hague Convention 1980 accession 2018).
+- Benin jurisdiction sidecar — civil-law West African Francophone (Persons and Family Code 2004 + monogamy-default reform + Children's Code 2015 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2018).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins West African + Francophone + civil-law + French-derivative + monogamy-default-reform + Hague Convention clusters within the corpus.
 

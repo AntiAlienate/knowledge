@@ -13,7 +13,7 @@
 3. [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — overturned-decisions case series
 4. Custody-evaluator role and the asymmetry of forensic training ([Saunders](https://www.ovw.usdoj.gov/) 2015)
 5. The middle-ground forensic literature — [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)
-6. The international institutional response — GREVIO, UN OHCHR, CEDAW, WHO [ICD-11](https://icd.who.int/)
+6. The international institutional response — GREVIO, UN [OHCHR](https://www.ohchr.org/), CEDAW, WHO [ICD-11](https://icd.who.int/)
 7. High-profile U.S. trial-court records (Tsimhoni; cross-references)
 8. Synthesis — confidence levels by claim
 
@@ -21,7 +21,7 @@
 
 ## 1. The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) program at GW Law — empirical custody outcomes when PA is cross-claimed
 
-### 1.1 Meier, Dickson, O'Sullivan, Rosen & Hayes (2020) — Journal of Social Welfare and Family Law
+### 1.1 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Dickson, O'Sullivan, Rosen & Hayes (2020) — Journal of Social Welfare and Family Law
 
 **Citation.** Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 — Open repository copy: https://scholarship.law.gwu.edu/faculty_publications/1456/ and https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2712&context=faculty_publications — SSRN preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062
 
@@ -141,7 +141,7 @@
 
 **Verbatim on evaluator beliefs and PAS misuse.**
 
-> "One form of bias or misinformation is indicated by evaluators' uncritical use of parent alienation theories. False assumptions may be made that allegations, especially from mothers, are likely false and do not need to be investigated and that parents must cooperate with each other and communicate directly … A tendency to believe that survivor-mothers make false allegations and alienate the children from their ex-partners has been found to be associated with sexist beliefs and the belief the world is basically a just place (Saunders et al., 2011). These beliefs are also related to recommendations that abusive fathers be given sole or joint custody or unsupervised visits."
+> "One form of bias or misinformation is indicated by evaluators' uncritical use of parent alienation theories. False assumptions may be made that allegations, especially from mothers, are likely false and do not need to be investigated and that parents must cooperate with each other and communicate directly … A tendency to believe that survivor-mothers make false allegations and alienate the children from their ex-partners has been found to be associated with sexist beliefs and the belief the world is basically a just place ([Saunders](https://www.ovw.usdoj.gov/) et al., 2011). These beliefs are also related to recommendations that abusive fathers be given sole or joint custody or unsupervised visits."
 
 **Quoting the National Council of Juvenile and Family Court Judges guidebook (Dalton et al., 2006), verbatim via Saunders:**
 
@@ -159,7 +159,7 @@
 
 ### 4.3 Synthesis on the evaluator-training asymmetry
 
-The empirically supported asymmetry is this: PA training is widely available — much of it on a paid CPD basis, often delivered by practitioners with a commercial stake in the diagnosis (see UN Alsalem report §62 below) — while equivalent IPV/DV training is patchier, less standardised, and less commercially incentivised. Saunders' 2011 survey demonstrates that *more IPV training* predicts *more child-safe recommendations*, and *patriarchal belief endorsement* predicts *less safe recommendations*. There is no equivalent published evidence that more PA training improves outcomes for abused children — there is, however, evidence (Silberg & Dallam 2019) that PA-trained evaluators repeatedly produced recommendations that reversing courts later found to have endangered children. **Confidence: moderate.** The asymmetry is consistent across multiple sources; rigorous head-to-head training-outcome studies have not been published.
+The empirically supported asymmetry is this: PA training is widely available — much of it on a paid CPD basis, often delivered by practitioners with a commercial stake in the diagnosis (see UN Alsalem report §62 below) — while equivalent IPV/DV training is patchier, less standardised, and less commercially incentivised. Saunders' 2011 survey demonstrates that *more IPV training* predicts *more child-safe recommendations*, and *patriarchal belief endorsement* predicts *less safe recommendations*. There is no equivalent published evidence that more PA training improves outcomes for abused children — there is, however, evidence ([Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) that PA-trained evaluators repeatedly produced recommendations that reversing courts later found to have endangered children. **Confidence: moderate.** The asymmetry is consistent across multiple sources; rigorous head-to-head training-outcome studies have not been published.
 
 ---
 
@@ -167,7 +167,7 @@ The empirically supported asymmetry is this: PA training is widely available —
 
 ### 5.1 The chapter
 
-**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — Open PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — Open PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
 This is the most-cited "centrist" review of the PA empirical literature. Its authors are not aligned with the protective-mother movement; Johnston, Fidler and Bala are widely regarded as moderate proponents of recognising PA as a real family-court problem while criticising the construct's evidential thinness.
 
@@ -191,7 +191,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 ## 6. The international institutional response
 
-### 6.1 GREVIO 3rd General Report (2022) — Council of Europe Istanbul Convention monitoring body
+### 6.1 GREVIO 3rd General Report (2022) — [Council of Europe](https://www.coe.int/) Istanbul Convention monitoring body
 
 **Citation.** Council of Europe, *3rd General Report on GREVIO's activities* (covering 2021). Strasbourg, June 2022. https://www.coe.int/en/web/istanbul-convention/-/3rd-general-report-on-grevio-s-activities — PDF: https://rm.coe.int/3rd-general-report-on-grevio-s-activities/1680a6e183
 
@@ -262,7 +262,7 @@ CEDAW recommended that Costa Rica "take all measures necessary to discourage the
 
 ### 6.5 WHO [ICD-11](https://icd.who.int/)
 
-The "parental alienation" code that briefly appeared in the foundation layer of [ICD-11](https://icd.who.int/) was **removed in February 2020**. WHO confirmed that PA is not, and was never, a clinical diagnosis in ICD-11. This is documented in the WHO ICD-11 FAQ and discussed in the AntiAlienate `evidence-pa-as-child-abuse.md` page (section 2). Cross-reference: https://icd.who.int/dev11/f/en
+The "parental alienation" code that briefly appeared in the foundation layer of [ICD-11](https://icd.who.int/) was **removed in February 2020**. WHO confirmed that PA is not, and was never, a clinical diagnosis in [ICD-11](https://icd.who.int/). This is documented in the WHO ICD-11 FAQ and discussed in the AntiAlienate `evidence-pa-as-child-abuse.md` page (section 2). Cross-reference: https://icd.who.int/dev11/f/en
 
 ---
 

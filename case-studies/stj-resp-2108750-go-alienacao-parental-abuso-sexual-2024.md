@@ -79,7 +79,7 @@ The decision sits alongside, and reinforces, the Terceira Turma's "no-automatici
 
 REsp 2.108.750/GO is the Brazilian Supreme Court of Justice confronting, in 2024, the exact problem that has been at the centre of the Western parental-alienation debate for two decades: the interaction between alienating-conduct findings and child-safeguarding evidence.
 
-The STJ's answer was procedural rather than ideological. It did not declare *alienação parental* as a concept to be "pseudo-scientific" (as the Italian Court of Cassation did in *Cass. 9691/2022*). It did not deploy fundamental-rights review (as the German *BVerfG 1 BvR 1076/23*). It used the ordinary tools of civil procedure: annul the lower-court acts, require full evidentiary investigation, and intensify evidentiary caution in proportion to the gravity of the proposed remedy.
+The STJ's answer was procedural rather than ideological. It did not declare *alienação parental* as a concept to be "pseudo-scientific" (as the Italian Court of Cassation did in *Cass. 9691/2022*). It did not deploy fundamental-rights review (as the German *[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23*). It used the ordinary tools of civil procedure: annul the lower-court acts, require full evidentiary investigation, and intensify evidentiary caution in proportion to the gravity of the proposed remedy.
 
 For comparative purposes three features stand out:
 

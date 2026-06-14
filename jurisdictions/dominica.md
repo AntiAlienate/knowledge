@@ -60,7 +60,7 @@ Dominican family-court decisions are anonymised per Eastern Caribbean Supreme Co
 
 ## Editorial notes
 
-- Dominica jurisdiction sidecar — common-law Caribbean republic (Divorce Act 1973 + Children Act 2001 + OECS-ECSC + JCPC + non-Hague Convention).
+- Dominica jurisdiction sidecar — common-law Caribbean republic ([Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1973 + Children Act 2001 + OECS-ECSC + JCPC + non-Hague Convention).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins OECS-Anglophone Caribbean + common-law + republic-from-independence + OECS-shared-judicial-system + JCPC-final-appellate + non-Hague Convention clusters within the corpus.
 

@@ -26,7 +26,7 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 
 ### Justia
 - **URL:** https://law.justia.com
-- **Coverage:** US Supreme Court, federal courts, state statutes by chapter, US Codes annotated.
+- **Coverage:** [US Supreme Court](https://www.supremecourt.gov/), federal courts, state statutes by chapter, US Codes annotated.
 - **API:** No formal API, but pages are scrape-friendly.
 - **Best for:** Looking up specific state-statute citations (already used extensively across the [/jurisdictions/](../jurisdictions/) index).
 
@@ -65,7 +65,7 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 - **Coverage:** Official UK government caselaw archive (post-April 2022).
 - **Best for:** Authoritative versions of UK judgments.
 
-## European Court of Human Rights
+## [European Court of Human Rights](https://www.echr.coe.int/)
 
 ### [HUDOC](https://hudoc.echr.coe.int/) (ECHR official database)
 - **URL:** https://hudoc.echr.coe.int
@@ -93,7 +93,7 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 - **Coverage:** Official EU law portal. Treaties, regulations, directives, CJEU case law.
 - **Best for:** Brussels IIb Regulation (EU 2019/1111), GDPR Article 15, EU family-law harmonisation instruments.
 
-### Hague Conference on Private International Law (HCCH)
+### Hague Conference on Private International Law ([HCCH](https://www.hcch.net/))
 - **URL:** https://www.hcch.net
 - **Coverage:** International family-law conventions — including the 1980 Hague Convention on Civil Aspects of International Child Abduction.
 - **Best for:** Cross-border abduction / wrongful-retention cases and the Article 13(1)(b) grave-risk jurisprudence.

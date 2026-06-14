@@ -29,7 +29,7 @@ The Basque Country (Euskadi in Basque / País Vasco in Spanish / Basque Autonomo
 ### Tribunal Superior de Justicia del País Vasco (TSJPV)
 <https://www.poderjudicial.es/>
 
-### Tribunal Constitucional de España
+### [Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España
 <https://www.tribunalconstitucional.es/>
 
 ## Professional regulators

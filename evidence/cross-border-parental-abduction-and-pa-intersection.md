@@ -40,7 +40,7 @@ Cross-link: jurisdiction:european-convention-on-human-rights.
 US federal **International Child Abduction Remedies Act ([ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97), 22 USC §§ 9001-9011)** implements the Convention. Federal district courts have concurrent jurisdiction with state courts for Hague return petitions. Art 13(1)(b) grave-risk jurisprudence has developed substantially (e.g., *Monasky v Taglieri* 140 S Ct 719 (2020) on habitual residence; *Golan v Saada* 142 S Ct 1880 (2022) on ameliorative measures). PA-adjacent intersection: Art 13(2) child-objection cases routinely engage alienating-conduct claims. Cross-link: jurisdiction:united-states.
 
 ### United Kingdom
-UK **Child Abduction and Custody Act 1985** implements the Convention; UK Supreme Court engages Article 8 + Hague in *Re E (Children) (Abduction: Custody Appeal)* [2011] UKSC 27 + subsequent line. Engagement with Strasbourg Neulinger and Shuruk. Cross-link: jurisdiction:united-kingdom.
+UK **Child Abduction and Custody Act 1985** implements the Convention; [UK Supreme Court](https://www.supremecourt.uk/) engages Article 8 + Hague in *Re E (Children) (Abduction: Custody Appeal)* [2011] UKSC 27 + subsequent line. Engagement with Strasbourg Neulinger and Shuruk. Cross-link: jurisdiction:united-kingdom.
 
 ### Australia
 Australian **Family Law (Child Abduction Convention) Regulations 1986** implement the Convention. **DP v Commonwealth Central Authority (2001) 206 CLR 401** is the principal High Court authority on Art 13(1)(b). FCFCOA handles Hague return petitions. Australian Hague jurisprudence is substantive on PA-adjacent welfare considerations. Cross-link: jurisdiction:australia.
@@ -49,7 +49,7 @@ Australian **Family Law (Child Abduction Convention) Regulations 1986** implemen
 Japan acceded to the Convention 2014 via **Act for Implementation of the Hague Convention on Civil Aspects of International Child Abduction 2013**. Pre-accession Japanese sole-custody Art. 819 regime generated structural conflict with Hague obligations in international cases. Act No. 33 of 2024 (joint custody reform effective 1 April 2026) addresses this structural conflict by introducing joint parental authority and addressing the underlying 子の連れ去り pattern. Cross-link: jurisdiction:japan.
 
 ### India (NOT acceded)
-India has NOT acceded to the Hague Convention 1980. Indian Supreme Court engages cross-border parental-removal cases under domestic law (Hindu Minority and Guardianship Act 1956 + Guardians and Wards Act 1890 + Constitution art. 39(f)) rather than under Hague mandate. **Vivek Singh v Romani Singh (2017) 3 SCC 231** is the principal Indian apex authority on substantive PA-construct engagement; Indian Hague non-accession creates particular complexity in NRI cross-border cases. Cross-link: jurisdiction:india.
+India has NOT acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24). Indian Supreme Court engages cross-border parental-removal cases under domestic law (Hindu Minority and Guardianship Act 1956 + Guardians and Wards Act 1890 + Constitution art. 39(f)) rather than under Hague mandate. **Vivek Singh v Romani Singh (2017) 3 SCC 231** is the principal Indian apex authority on substantive PA-construct engagement; Indian Hague non-accession creates particular complexity in NRI cross-border cases. Cross-link: jurisdiction:india.
 
 ### Singapore
 Singapore acceded to the Convention 2010. **International Child Abduction Act 2010** implements the Convention. Family Justice Courts handle Hague return petitions with CAPS counselling-and-psychological-service integration where children objection exceptions are raised. Cross-link: jurisdiction:singapore.
@@ -90,7 +90,7 @@ Neulinger 2010 + X v Latvia 2013 establish the modern Strasbourg framework: Arti
 India's non-accession to the Hague Convention creates particular structural complexity in cross-border PA-adjacent cases involving NRI families. Indian apex jurisprudence (Vivek Singh 2017 + Delhi HC line) operates under domestic law without Hague-mandate constraint, producing distinctive Indian apex doctrine.
 
 ### 5. Brussels IIb intra-EU enhancement
-Brussels IIb (in force 1.8.2022) operates above the Hague Convention baseline for intra-EU cases. Combined with Strasbourg Article 8 + domestic apex Cassazione 9691/2022 + BVerfG 1 BvR 1076/23 + SN III CZP 20/25, EU intra-Hague PA-adjacent cases operate under the most layered framework in the corpus.
+Brussels IIb (in force 1.8.2022) operates above the Hague Convention baseline for intra-EU cases. Combined with Strasbourg Article 8 + domestic apex [Cassazione](https://www.cortedicassazione.it/) 9691/2022 + [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 + SN III CZP 20/25, EU intra-Hague PA-adjacent cases operate under the most layered framework in the corpus.
 
 ### 6. Japan reform addresses Hague structural conflict
 Japan's Act No. 33 of 2024 (joint custody reform effective 1 April 2026) addresses the structural conflict between pre-reform Japanese sole-custody regime (Art. 819) and Hague Convention return obligations. The reform is partially motivated by international-law pressure to address 子の連れ去り pattern. Cross-link: evidence:statutory-pa-jurisdictions-triple-comparison.
@@ -105,7 +105,7 @@ India (not acceded) + the Asian apex cluster's recognition-pole doctrine (Vivek 
 
 | Jurisdiction | Hague accession | Implementation | PA-adjacent intersection |
 |---|---|---|---|
-| **United States** | 1988 | ICARA 22 USC §§ 9001-9011 | Art 13(1)(b) + 13(2) line; Monasky 2020 + Golan 2022 |
+| **United States** | 1988 | [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) 22 USC §§ 9001-9011 | Art 13(1)(b) + 13(2) line; Monasky 2020 + Golan 2022 |
 | **United Kingdom** | 1986 | Child Abduction and Custody Act 1985 | Re E (Children) 2011 UKSC + subsequent line |
 | **Australia** | 1987 | Family Law (CACR) Regulations 1986 | DP v Commonwealth Central Authority (2001) |
 | **Japan** | 2014 | Implementing Act 2013 (post-reform Act 33/2024) | Structural conflict pre-reform; resolution post-1.4.2026 |

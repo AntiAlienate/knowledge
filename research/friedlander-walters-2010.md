@@ -81,7 +81,7 @@ Particularly useful when an intensive workshop is impractical (financial barrier
 The PA-reunification research stack:
 
 - **Sullivan & Kelly (2001)** — *Family Court Review* — foundational family-systems framework
-- **[Warshak](https://warshak.com/family-bridges/) (2010)** — Family Bridges intensive workshop
+- **[Warshak](https://warshak.com/family-bridges/) (2010)** — [Family Bridges](https://warshak.com/family-bridges/) intensive workshop
 - **Friedlander & Walters (2010)** — MMFI outpatient + 4-category typology
 - **Reay (2015)** — Family Reflections intensive (alternate to Bridges)
 - **Harman/Kruk/Hines (2018)** — Psychological Bulletin — behavior-frame reframe

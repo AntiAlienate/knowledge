@@ -49,7 +49,7 @@ Whether the emergency motion succeeds or not:
 
 ## Sample motion language (Belgium)
 
-> *Per Civil Code Article 387ter and the European Court of Human Rights' Article 8 jurisprudence in Improta v. Italy (2017, App. no. 66396/14), the failure to enforce contact orders against a documented refusal pattern itself constitutes a violation. The Court is respectfully asked to (a) impose an astreinte of [€X per day per missed exchange], (b) order the file referred to the Procureur du Roi for evaluation under Penal Code Article 432, and (c) set the matter for review at 30 days.*
+> *Per Civil Code Article 387ter and the [European Court of Human Rights](https://www.echr.coe.int/)' Article 8 jurisprudence in Improta v. Italy (2017, App. no. 66396/14), the failure to enforce contact orders against a documented refusal pattern itself constitutes a violation. The Court is respectfully asked to (a) impose an astreinte of [€X per day per missed exchange], (b) order the file referred to the Procureur du Roi for evaluation under Penal Code Article 432, and (c) set the matter for review at 30 days.*
 
 ## Source-blog hyperlinks
 
