@@ -25,7 +25,7 @@ National constitutional provisions and apex case-law develop the paramountcy doc
 
 **Scotland** — **Children (Scotland) Act 1995 s.11(7)**: "the welfare of the child concerned shall be his or her PARAMOUNT consideration." Mirrors E&W formulation. Subsequent s.11(7A)-(7E) protective factors operate within the paramountcy frame. Cross-link: case-study:nf-v-af-2025-csoh-13-scotland + jurisdiction:scotland.
 
-**Northern Ireland** — **Children (NI) Order 1995 art. 3(1)**: paramountcy formulation parallel to Children Act 1989 s.1(1) and Children (Scotland) Act 1995 s.11(7). Cross-link: jurisdiction:northern-ireland.
+**Northern Ireland** — **Children (NI) Order 1995 art. 3(1)**: paramountcy formulation parallel to [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.1(1) and Children (Scotland) Act 1995 s.11(7). Cross-link: jurisdiction:northern-ireland.
 
 **Australia** — **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.60CC (post-2023 Amendment Act rewrite)**: best-interests test reformed with safety primacy — the child's safety must be protected as the primary consideration. The 2023 Amendment Act removed the prior "two-tier" primary/additional consideration structure. Cross-link: case-study:green-and-green-2024-fedcfamc1f-896 + jurisdiction:australia.
 
@@ -128,6 +128,8 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 C
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
+
+
 
 
 

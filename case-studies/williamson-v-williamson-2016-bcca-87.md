@@ -19,7 +19,7 @@ Williamson v Williamson 2016 BCCA 87 reaches the British Columbia Court of Appea
 
 ## Holding
 
-Where sustained alienating conduct by one parent causes substantive harm to the child's relationship with the other non-custodial parent, the court may consider deploying structured reunification-programme intervention as part of custody-modification disposition under the BC Family Law Act 2011 + federal Divorce Act framework. The appellate court engages the substantive welfare considerations under provincial best-interests standard and federal s.16 best-interests considerations (pre-[Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) reform; [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) in force March 2021 subsequently rewrote s.16). Family Reflections Reunification Program (Reay BC) is engaged as Canadian-based residential reunification provider — the decision establishes appellate-court engagement with reunification-programme disposition in Canadian family-law jurisprudence.
+Where sustained alienating conduct by one parent causes substantive harm to the child's relationship with the other non-custodial parent, the court may consider deploying structured reunification-programme intervention as part of custody-modification disposition under the BC Family Law Act 2011 + federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) framework. The appellate court engages the substantive welfare considerations under provincial best-interests standard and federal s.16 best-interests considerations (pre-[Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) reform; [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) in force March 2021 subsequently rewrote s.16). Family Reflections Reunification Program (Reay BC) is engaged as Canadian-based residential reunification provider — the decision establishes appellate-court engagement with reunification-programme disposition in Canadian family-law jurisprudence.
 
 ## Outcome
 
@@ -52,7 +52,7 @@ BC Court of Appeal disposition engaging structured reunification-programme inter
 
 ## Sources
 
-1. **CanLII — Canadian Legal Information Institute** — <https://www.canlii.org/en/bc/bcca/doc/2016/2016bcca87/2016bcca87.html> (Canadian Legal Information Institute) [en]
+1. **[CanLII](https://www.canlii.org/) — Canadian Legal Information Institute** — <https://www.canlii.org/en/bc/bcca/doc/2016/2016bcca87/2016bcca87.html> (Canadian Legal Information Institute) [en]
 2. **British Columbia Court of Appeal** — <https://www.bccourts.ca/Court_of_Appeal/> (Courts of British Columbia) [en]
 3. **Family Law Act SBC 2011 c.25 (British Columbia)** — <https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_01> (Government of British Columbia) [en]
 4. **Divorce Act R.S.C. 1985, c.3 (2nd Supp.)** — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/> (Department of Justice Canada) [en]
@@ -64,13 +64,15 @@ BC Court of Appeal disposition engaging structured reunification-programme inter
 - Party identity protected per Canadian provincial-superior-court family-law convention (Williamson generic surname placeholder).
 - Sources: CanLII for case-law (2016 BCCA 87) + bclaws.gov.bc.ca for BC Family Law Act 2011 + laws-lois.justice.gc.ca for federal Divorce Act.
 - Cross-link to L.A.G. v. D.K.B. 2009 CanLII 6452 (ON SC) preserved as Ontario provincial-level companion canonical decision.
-- Cross-jurisdictional reunification-programme engagement (US Family Bridges + Overcoming Barriers + Canadian Family Reflections + UK [Cafcass](https://www.cafcass.gov.uk/) + AU FRW + NZ Goldson + SG CAPS + HK SWD Centres) documented in companion evidence page reunification-programmes-and-regulation.
+- Cross-jurisdictional reunification-programme engagement (US [Family Bridges](https://warshak.com/family-bridges/) + Overcoming Barriers + Canadian Family Reflections + UK [Cafcass](https://www.cafcass.gov.uk/) + AU FRW + NZ Goldson + SG CAPS + HK SWD Centres) documented in companion evidence page reunification-programmes-and-regulation.
 
 *Author: Alan Markson.*
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

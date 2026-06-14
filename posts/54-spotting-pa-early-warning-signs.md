@@ -78,7 +78,7 @@ This is not paranoia. It is clinically codified harm:
 
 ## Related entries
 
-- [posts/55-recognizing-pa-key-signs.md](./55-recognizing-pa-key-signs.md) *(seed — Bernet's 5 + Baker's 8 + differential markers)*
+- [posts/55-recognizing-pa-key-signs.md](./55-recognizing-pa-key-signs.md) *(seed — Bernet's 5 + [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 + differential markers)*
 - [posts/04-the-17-strategies.md](./04-the-17-strategies.md) *(seed)*
 - [posts/51-documenting-pa-comprehensive.md](./51-documenting-pa-comprehensive.md) — comprehensive evidence framework
 - [research/harman-kruk-hines-2018.md](../research/harman-kruk-hines-2018.md)
@@ -91,8 +91,8 @@ This is not paranoia. It is clinically codified harm:
 - Reay, K. M. (2015). *Family Reflections: A Promising Therapeutic Program.*
 - [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children.*
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
-- DSM-5 V995.51 — Child Psychological Abuse
-- WHO ICD-11 QE52 — Caregiver-Child Relationship Problem
+- [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse
+- WHO [ICD-11](https://icd.who.int/) QE52 — Caregiver-Child Relationship Problem
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568
 
 ## Disclaimer
@@ -102,6 +102,8 @@ Educational content. **Not clinical or legal advice.** Consult a PA-trained clin
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

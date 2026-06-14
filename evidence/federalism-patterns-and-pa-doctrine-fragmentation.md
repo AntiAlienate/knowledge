@@ -83,7 +83,7 @@ Australia's federal [Family Law Act 1975](https://www.legislation.gov.au/C2004A0
 Canada's provincial-college regulator fragmentation (CPO + OPQ + CPBA-BC + CAP + provincial social-work colleges) produces no single national-level credentialing test for PA evaluators. [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) federal statutory unification + provincial-regulator fragmentation operate at different layers. Quebec civil-law tradition adds tradition-fragmentation alongside federalism-fragmentation.
 
 ### 6. UK 4-constituent jurisdiction distinctive
-UK 4-constituent jurisdiction (E&W + Scotland + NI + Wales-as-institutional-sub-jurisdiction) operates distinct substantive children-law per constituent while unified at UKSC apex appellate level. Re Y EWFC 38 (formally E&W) operates UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework — federal-unitary reach within constituent-jurisdictional substantive variation. **HCPC statutory framework** is the principal UK-wide regulator-unification vehicle.
+UK 4-constituent jurisdiction (E&W + Scotland + NI + Wales-as-institutional-sub-jurisdiction) operates distinct substantive children-law per constituent while unified at UKSC apex appellate level. Re Y EWFC 38 (formally E&W) operates UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework — federal-unitary reach within constituent-jurisdictional substantive variation. **[HCPC](https://www.hcpc-uk.org/) statutory framework** is the principal UK-wide regulator-unification vehicle.
 
 ### 7. Indian personal-law fragmentation alongside federalism
 India operates federal + personal-law fragmentation simultaneously. Federal HMA + HMGA apply to Hindus; parallel Muslim/Christian/Parsi/Special Marriage Act personal-law statutes operate for other communities. Personal-law fragmentation adds doctrinal complexity alongside federal-state-level variation. Vivek Singh 2017 SC operates unification at Supreme Court apex; Delhi HC binomial (ABC v XYZ + A v B) operates at state-level appellate.
@@ -95,11 +95,11 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 
 | Jurisdiction | Federalism pattern | Federal substantive | State/provincial substantive | Federal regulator | State/provincial regulator |
 |---|---|---|---|---|---|
-| **United States** | MAXIMUM FRAGMENTATION | minimal (ICWA + ICARA) | 50+ state Family Codes | NO federal regulator | 50+ state psychology boards |
+| **United States** | MAXIMUM FRAGMENTATION | minimal (ICWA + [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97)) | 50+ state Family Codes | NO federal regulator | 50+ state psychology boards |
 | **Mexico** | Federal apex + 32 state CC | CC Federal supletorio | 32 state Códigos Civiles | NO federal psy regulator | state-level colegios |
 | **Nigeria** | TRIPLE-TRACK | Child Rights Act 2003 (27/36 states adopted) | state customary + Sharia | MDCN psychiatry | NACP+NPA voluntary |
 | **Australia** | Federal-unitary blend | FLA 1975 (Cth) + Sch 2 reform | provincial parallel | AHPRA + PsyBA federal | nil |
-| **Canada** | Federal + provincial | Bill C-78 [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) | provincial CLRA/CCQ/FLA | CPA voluntary | CPO/OPQ/CPBA-BC/CAP |
+| **Canada** | Federal + provincial | [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) | provincial CLRA/CCQ/FLA | CPA voluntary | CPO/OPQ/CPBA-BC/CAP |
 | **Brazil** | Federal-unified | Lei 12.318/2010 + ECA | state operational variation | CFP + CFESS federal | CRP/CRESS regional |
 | **Argentina** | Federal + provincial colegios | CCyC 2014 + leyes federales | provincial procedural | FePRA + AAPS | 7 provincial Colegios |
 | **India** | Federal + personal-law | HMA + HMGA + FCA 1984 + GWA | state operational | RCI + NMC + IPS + IAPP | state institutional |
@@ -107,7 +107,7 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 | **Italy** | Unitary | [Codice Civile](https://www.brocardi.it/codice-civile/) + Riforma Cartabia | nil | CNOP federal | varies |
 | **Germany** | Federal-unitary | [BGB](https://www.gesetze-im-internet.de/bgb/) + Grundgesetz | Land institutional | BÄK + BPtK federal | Land-level institutional |
 | **Spain** | Unitary + autonomic | Código Civil + LOPIVI | Catalunya Codi civil + autonomies | COP federal | provincial colegios |
-| **France** | Unitary | Code civil | nil | Ordre des Médecins | nil |
+| **France** | Unitary | [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) | nil | Ordre des Médecins | nil |
 | **Netherlands** | Unitary + decentralised jeugdhulp | BW + Jeugdwet 2015 | gemeentelijke jeugdhulp | NIP + NVvP voluntary | nil |
 | **Belgium** | Federal + community | Code civil + federal Loi BIG 1993 | FWB+Vlaams community decrees | Compsy + BFP-BPF + IEFH/IGVM | varies |
 | **Singapore** | Unitary | Women's Charter + FJA 2014 | nil | SRP+SPS voluntary + SMC | nil |
@@ -128,6 +128,8 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md*
+
+
 
 
 

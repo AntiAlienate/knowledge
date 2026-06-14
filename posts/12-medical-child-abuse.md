@@ -54,7 +54,7 @@ The UK Court of Appeal recognized this pattern explicitly in *Re S (Parental Ali
 ## Citations
 
 - Roesler, T. A., & Jenny, C. (2009). *Medical Child Abuse.* American Academy of Pediatrics.
-- [DSM-5](https://www.appi.org/products/dsm) V300.19 — FDIA · DSM-5 V995.51 — Child Psychological Abuse
+- [DSM-5](https://www.appi.org/products/dsm) V300.19 — FDIA · [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse
 - WHO [ICD-11](https://icd.who.int/) 6D52 — Caregiver-Fabricated Illness in a Child
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568
 
@@ -65,6 +65,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

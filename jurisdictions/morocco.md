@@ -44,7 +44,7 @@ Moroccan family-court decisions are anonymised per Court of Cassation practice u
 ## Structural findings
 
 - Morocco operates a structurally distinctive Maliki-Islamic-law family-law framework with landmark 2004 modernisation — most progressive MENA-region family-law reform within the corpus, codifying child welfare standards and abolishing automatic male guardianship.
-- Hague Convention 1980 accession 2010 places Morocco in the Hague MENA cluster — earliest MENA-region accession alongside Israel.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2010 places Morocco in the Hague MENA cluster — earliest MENA-region accession alongside Israel.
 - Mixed-legal-system framework (French civil-law substantive + Maliki personal-status) reflects Protectorate-inheritance heritage shared with Tunisia and Algeria within the corpus.
 
 ## See also
@@ -71,6 +71,8 @@ Moroccan family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -39,7 +39,7 @@ Gibraltarian family-court decisions are anonymised per Supreme Court practice us
 ## Key developments
 
 - **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Gibraltar effective 1 August 1986.
-- **2009** — Federal Children Act enacted drawing on English Children Act 1989 model.
+- **2009** — Federal Children Act enacted drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model.
 - **2010** — Federal Marriage Act including same-sex marriage provisions.
 - **2020** — UK (including Gibraltar) left the European Union effective 31 January 2020.
 
@@ -48,7 +48,7 @@ Gibraltarian family-court decisions are anonymised per Supreme Court practice us
 - Gibraltar operates a common-law framework drawing on English-law model with British Overseas Territory status — places Gibraltar in the BOT cluster.
 - Post-Brexit position is structurally distinctive globally — only BOT formerly in the EU; Gibraltar protocol under negotiation for cross-border arrangements with Spain.
 - Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -75,6 +75,8 @@ Gibraltarian family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

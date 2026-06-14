@@ -43,7 +43,7 @@ Congolese family-court decisions are anonymised per Supreme Court practice using
 ## Structural findings
 
 - Republic of the Congo operates a French-civil-law family-law framework with codification of customary-law marriage provisions — places Congo-Brazzaville in the Central African Francophone civil-law cluster with structurally distinctive French-derivative substantive heritage.
-- Hague Convention 1980 accession 2009 places Republic of the Congo in the Hague Central African cluster — earlier than most peers.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2009 places Republic of the Congo in the Hague Central African cluster — earlier than most peers.
 
 ## See also
 
@@ -69,6 +69,8 @@ Congolese family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -24,7 +24,7 @@ location_tags: [united-states, international, baker, 8-indicators, adult-outcome
 
 ## Citation
 
-> Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton & Company. ISBN 978-0393705195
+> [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton & Company. ISBN 978-0393705195
 
 ## The 8 behavioral indicators (Baker)
 
@@ -105,6 +105,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

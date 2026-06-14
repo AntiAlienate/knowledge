@@ -47,7 +47,7 @@ Peruvian family-court decisions are anonymised per Supreme Court practice using 
 
 - Peru operates a Spanish-civil-law family-law framework — places Peru in the Andean South American civil-law cluster with Bolivia, Ecuador, Colombia.
 - Colegio de Psicólogos Law 1980 is among the earliest Latin American statutory psychology regulations within the corpus — places Peru in the early-Latin-American-psychology-regulation cluster alongside Costa Rica (1977).
-- Hague Convention 1980 accession 2001 places Peru in the Hague Latin American cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001 places Peru in the Hague Latin American cluster.
 
 ## See also
 
@@ -73,6 +73,8 @@ Peruvian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

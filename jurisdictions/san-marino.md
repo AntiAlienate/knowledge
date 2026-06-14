@@ -64,7 +64,7 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 
 ## Editorial notes
 
-- San Marino jurisdiction sidecar — civil-law Southern European micro-state (Law 51/1986 Family Law + Law 49/2014 Filiation + ECHR + Hague Convention 1980 accession 2007).
+- San Marino jurisdiction sidecar — civil-law Southern European micro-state (Law 51/1986 Family Law + Law 49/2014 Filiation + ECHR + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2007).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Southern European + civil-law + Italian-derivative + ECHR + Hague Convention + oldest-republic-distinctive + micro-state-distinctive clusters within the corpus.
 
@@ -72,6 +72,8 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

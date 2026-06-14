@@ -67,7 +67,7 @@
 
 ### 1.3 Verrocchio, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Bernet (2016) — anxiety and depression, Italian community sample
 
-**Citation.** Verrocchio, M. C., Baker, A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408 — URL: https://pubmed.ncbi.nlm.nih.gov/27122408/
+**Citation.** Verrocchio, M. C., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408 — URL: https://pubmed.ncbi.nlm.nih.gov/27122408/
 
 **Sample / method.** 509 Italian community adults. Instruments: Baker Strategy Questionnaire; Psychological Maltreatment Measure; Parental Bonding Instrument; State-Trait Anxiety Inventory-Y; Beck Depression Inventory-II.
 
@@ -81,7 +81,7 @@
 
 ### 1.4 Bernet, Baker & Verrocchio (2015) — SCL-90-R study (the "739 Italian adults" study)
 
-**Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — PubMed 25613416 — URL: https://pubmed.ncbi.nlm.nih.gov/25613416/
+**Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — URL: https://pubmed.ncbi.nlm.nih.gov/25613416/
 
 **Sample / method.** 739 Italian adults surveyed in Chieti retrospectively about childhood PA exposure (Baker Strategy Questionnaire) and current symptomatology (SCL-90-R).
 
@@ -299,7 +299,7 @@ See §1.6. Self-reported reduced or delayed educational/career attainment attrib
 
 ### 8.1 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) — *Empirical Studies of Alienation*
 
-**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting plan evaluations: Applied research for the family court* (2nd ed., pp. 374–430). New York: Oxford University Press. Open PDF (Nevada Courts session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), & N. Olesen (Eds.), *Parenting plan evaluations: Applied research for the family court* (2nd ed., pp. 374–430). New York: Oxford University Press. Open PDF (Nevada Courts session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
 **Headline critique.** A review of 29 published papers and 10 doctoral dissertations on PA found **none scored high in research quality** (secondary summary, confirmed across multiple secondary citations of the chapter). The authors argue that definitions and operationalisations differ so much that the body of literature cannot be reliably synthesised to assess overall validity.
 
@@ -351,7 +351,7 @@ Across the studies in §§1–7, the recurring limitations are:
 4. **Construct overlap with justified estrangement.** Children who reject a parent for *valid reasons* (abuse, neglect, frightening behaviour) may end up classified as "alienated" by partisan evaluators — and conversely, genuinely alienated children may be mis-classified as estranged. The PA construct, as measured in most outcome studies, does not cleanly separate these populations.
 5. **Cross-sectional design.** With the exception of the Chinese left-behind-children longitudinal studies (Qin 2022; Zhang 2024) and a handful of others, the literature is overwhelmingly cross-sectional, precluding strong causal inference.
 6. **Heterogeneity of operationalisation.** "Parental alienating behaviours" is variously measured by the Baker Strategy Questionnaire, by Bernet's PARQ-based work, by clinical case identification, and by self-report endorsement of single items. Effect sizes are not directly comparable across studies.
-7. **Publication and ideological bias.** The field is polarised; outcome studies are predominantly published by an interconnected group of authors (Bernet, Baker, Verrocchio, Harman, Kruk, Matthewson) and rebutted by another interconnected group (Mercer, Saini, Johnston, Fidler, Bala, Silberg, Dallam). Independent replication by neutral teams is sparse.
+7. **Publication and ideological bias.** The field is polarised; outcome studies are predominantly published by an interconnected group of authors (Bernet, Baker, Verrocchio, [Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/), Matthewson) and rebutted by another interconnected group (Mercer, Saini, Johnston, Fidler, Bala, Silberg, Dallam). Independent replication by neutral teams is sparse.
 
 ---
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

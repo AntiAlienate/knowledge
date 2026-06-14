@@ -237,13 +237,13 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ### 9.1 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)
 
-**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In Drozd, Saini, & Olesen (eds), *Parenting Plan Evaluations* (2nd ed., pp. 374–430). OUP. [Nevada Courts PDF](https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf); [ResearchGate](https://www.researchgate.net/publication/306386344_Empirical_Studies_of_Alienation_Applied_Research_for_the_Family_Court).
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), & Olesen (eds), *Parenting Plan Evaluations* (2nd ed., pp. 374–430). OUP. [Nevada Courts PDF](https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf); [ResearchGate](https://www.researchgate.net/publication/306386344_Empirical_Studies_of_Alienation_Applied_Research_for_the_Family_Court).
 
 **Key finding (reproduced across secondary sources).** "Empirical research on parental alienation has been regarded as methodologically feeble. ... Extant empirical research indicates only a moderate to weak and somewhat inconsistent correlation between the preferred parents' alienating behavior and a child's rejection of a target parent."
 
 **Standard-of-proof relevance.** Saini et al. is the most influential statement that the *evidence-base inputs* to PA findings are weak. That has direct *Briginshaw* / *Re B* evidential-quality and *Daubert* reliability implications even where the formal standard is unchanged.
 
-### 9.2 Meier (2020) — the cross-claim asymmetry
+### 9.2 [Meier (2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)) — the cross-claim asymmetry
 
 **Citation.** Meier, J. S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations. *J Soc Welf Fam Law*, 42(1), 92–105. [XY Online PDF](https://xyonline.net/sites/xyonline.net/files/2020-05/Meier,%20U.S.%20child%20custody%20outcomes%20in%20cases%20involving%20parental%20alienation%20and%20abuse%20allegations%202020.pdf); [Taylor & Francis](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); [SSRN companion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062).
 
@@ -282,7 +282,7 @@ These are not legal advice. They are example skeletons of the kind of framing th
 ### 10.4 ECHR application — two-point framing
 
 > 1. Article 6(1) violation: the State's domestic court founded a fact-determination altering the Applicant's family-life relationship on expert evidence whose scientific reliability was not established to the standard now required by comparable Council-of-Europe jurisprudence (cf. Cass. 9691/2022; BVerfG 1 BvR 1076/23).
-> 2. Article 8 violation: the interference was not "necessary in a democratic society" because the supporting fact-finding rested on an empirically unsupported diagnostic construct (cf. WHO ICD-11 FAQ, 2020, confirming the removal of "parental alienation" as an index term).
+> 2. Article 8 violation: the interference was not "necessary in a democratic society" because the supporting fact-finding rested on an empirically unsupported diagnostic construct (cf. WHO [ICD-11](https://icd.who.int/) FAQ, 2020, confirming the removal of "parental alienation" as an index term).
 
 ---
 
@@ -331,6 +331,8 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 **Compiled** 2026-05-25 for the AntiAlienate knowledge repository (CC BY 4.0).
 **Compiler note.** Where the published text of a judgment or article was not directly accessible at compilation, the citation is marked **[secondary verification only]** and should be re-checked against the original. Where a specific factual proposition asked for could not be located in a primary source, it is marked **not publicly confirmed** rather than fabricated.
+
+
 
 
 

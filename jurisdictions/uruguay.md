@@ -47,7 +47,7 @@ Uruguayan family-court decisions are anonymised per Supreme Court practice using
 
 - Uruguay operates a Spanish-civil-law family-law framework — places Uruguay in the Southern Cone civil-law cluster with Argentina, Paraguay, Brazil.
 - Law 19580 of 2018 codification of coercive parental dynamics within gender-based violence framework is structurally significant — substantively addresses PA-equivalent dynamics through gender-based-violence lens rather than 'parental alienation' label. Aligns Uruguay with international critique-register approach in the corpus.
-- Hague Convention 1980 accession 2000 places Uruguay in the Hague Latin American cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2000 places Uruguay in the Hague Latin American cluster.
 
 ## See also
 
@@ -73,6 +73,8 @@ Uruguayan family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

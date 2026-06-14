@@ -46,7 +46,7 @@ Greenlandic family-court decisions are anonymised per High Court practice using 
 - Greenland operates a Danish-derivative civil-law framework with substantial Inuit customary-law adaptation — places Greenland in the Nordic civil-law cluster with structurally distinctive autonomous-territory + Inuit-customary-element framework.
 - Largest island state with Inuit-majority population is structurally distinctive globally.
 - High autonomy under 2009 Self-Government Act with independent legislative competence over family-law is structurally distinctive within Nordic/European framework.
-- Hague Convention 1980 applicability via Danish territorial extension reflects structurally distinctive autonomous-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Danish territorial extension reflects structurally distinctive autonomous-territory Hague jurisdiction status.
 - Bilingual official-language framework (Greenlandic + Danish) reflects post-1979 autonomy.
 
 ## See also
@@ -73,6 +73,8 @@ Greenlandic family-court decisions are anonymised per High Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

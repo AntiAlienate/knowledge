@@ -37,13 +37,13 @@ TCI family-court decisions are anonymised per Court of Appeal practice using ini
 ## Key developments
 
 - **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to TCI effective 1 August 1986.
-- **2014** — Federal Children Ordinance enacted drawing on English Children Act 1989 model.
+- **2014** — Federal Children Ordinance enacted drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model.
 
 ## Structural findings
 
 - TCI operates a common-law framework with British Overseas Territory status — places TCI in the Caribbean BOT cluster.
 - Independent Court of Appeal (not ECSC) is structurally distinctive within the Caribbean BOT cluster — TCI has its own appellate framework.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -68,6 +68,8 @@ TCI family-court decisions are anonymised per Court of Appeal practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

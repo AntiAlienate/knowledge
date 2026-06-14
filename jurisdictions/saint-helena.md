@@ -45,7 +45,7 @@ Saint Helena family-court decisions are anonymised per Court of Appeal practice 
 - Three constituent territories (Saint Helena + Ascension + Tristan da Cunha) operating within one BOT framework is structurally distinctive — most geographically dispersed BOT with most-remote inhabited island on Earth (Tristan da Cunha).
 - Tristan da Cunha as the most remote inhabited island on Earth (2,400+ km to nearest land) is structurally distinctive globally — most-isolated inhabited jurisdiction in the corpus.
 - Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -69,6 +69,8 @@ Saint Helena family-court decisions are anonymised per Court of Appeal practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -45,7 +45,7 @@ location_tags: [clinical, forensic-assessment, custody-evaluation, mmpi, aspect,
 
 **Bernet-led PA Behaviors Indicator** — Structured assessment of alienating behaviors per Bernet (2010) 5 essential criteria. Used by PA-specialist forensic evaluators.
 
-**PASS (Parental Alienation Scale and Strategies, Friedlander et al.)** — Adapted from Baker's framework. Distinguishes 4-category typology (affinity / alignment / estrangement / alienation).
+**PASS (Parental Alienation Scale and Strategies, Friedlander et al.)** — Adapted from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) framework. Distinguishes 4-category typology (affinity / alignment / estrangement / alienation).
 
 ## What targeted parents should know before evaluation
 
@@ -57,7 +57,7 @@ MMPI-2-RF + PAI include validity scales that detect faking-good, faking-bad, inc
 
 Standardized tools provide structure; the clinical interview is where most evaluator inferences are formed. Show up calm + emotionally regulated, with your evidence pack organized but not weaponized, honest about your own struggles + your child's, without disparaging the other parent, focused on the child's wellbeing.
 
-### Don't try to game the BPS through the child
+### Don't try to game the [BPS](https://www.bps.org.uk/) through the child
 
 If the child takes the BPS, the alienator will sometimes coach. Counter: ensure your relationship with the child during your custody time is genuine + positive — the BPS score reflects actual relationship quality more than coached answers when properly administered.
 
@@ -111,6 +111,8 @@ Wiki entry, not clinical or legal advice. Always engage qualified forensic psych
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

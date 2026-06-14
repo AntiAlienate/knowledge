@@ -22,7 +22,7 @@ The Northwest Territories (NWT / Tunngavik in Inuktitut / Denendeh in Dene langu
 - **Délı̨nę Final Self-Government Agreement 2016** — Délı̨nę Final Self-Government Agreement (2016) — <https://www.gov.nt.ca/>
   - Agreement of 1 September 2016 establishing first standalone Indigenous self-government agreement at community level in NWT (Délı̨nę community).
 - **Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 + NWT Children's Law Act (applicable in NWT)** — NWT Family Law Framework (1985) — <https://www.justice.gov.nt.ca/>
-  - Federal Canadian Divorce Act 1985 + NWT territorial Children's Law Act governing parental responsibility and child custody.
+  - Federal Canadian [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 + NWT territorial Children's Law Act governing parental responsibility and child custody.
 
 ## Apex courts
 
@@ -81,7 +81,7 @@ NWT family-court decisions are anonymised per Supreme Court of the Northwest Ter
 
 ## Editorial notes
 
-- Northwest Territories jurisdiction sidecar — mixed common-law/NWT-territorial-law/multi-Indigenous-customary-law North American Arctic Canadian territory (NWT Official Languages Act + Tłı̨chǫ Land Claims and Self-Government Agreement 2005 + Sahtu Dene and Métis Comprehensive Land Claim 1993 + Gwich'in Comprehensive Land Claim 1992 + Inuvialuit Final Agreement 1984 + Délı̨nę Final Self-Government Agreement 2016 + NWT Devolution Agreement 2014 + Federal Divorce Act 1985 + Canadian Hague Convention 1980 accession 1983). Only state-level entity operating eleven constitutionally-protected official languages globally + central jurisdiction of Canada's most extensive multi-Indigenous-nation devolution framework + only Canadian territory to undergo formal sub-divisional separation in modern history + first combined comprehensive land claims and self-government agreement in Canadian history (Tłı̨chǫ 2005) + first standalone Indigenous self-government agreement at community level (Délı̨nę 2016).
+- Northwest Territories jurisdiction sidecar — mixed common-law/NWT-territorial-law/multi-Indigenous-customary-law North American Arctic Canadian territory (NWT Official Languages Act + Tłı̨chǫ Land Claims and Self-Government Agreement 2005 + Sahtu Dene and Métis Comprehensive Land Claim 1993 + Gwich'in Comprehensive Land Claim 1992 + Inuvialuit Final Agreement 1984 + Délı̨nę Final Self-Government Agreement 2016 + NWT Devolution Agreement 2014 + Federal Divorce Act 1985 + Canadian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983). Only state-level entity operating eleven constitutionally-protected official languages globally + central jurisdiction of Canada's most extensive multi-Indigenous-nation devolution framework + only Canadian territory to undergo formal sub-divisional separation in modern history + first combined comprehensive land claims and self-government agreement in Canadian history (Tłı̨chǫ 2005) + first standalone Indigenous self-government agreement at community level (Délı̨nę 2016).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-American-Arctic + mixed Canadian-common-law/Indigenous-customary-law + Canadian-territory cluster + eleven-official-languages-globally-distinctive + multi-Indigenous-nation-devolution-framework + Tłı̨chǫ-combined-LC-SG-agreement + Sahtu-Gwich'in-Inuvialuit-Délı̨nę-agreements + Nunavut-separation-1999 + NWT-Devolution-Agreement-2014 + Canadian-Hague-1983-accession clusters within the corpus.
 
@@ -89,6 +89,8 @@ NWT family-court decisions are anonymised per Supreme Court of the Northwest Ter
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -41,7 +41,7 @@ Senegalese family-court decisions are anonymised per Supreme Court practice usin
 ## Structural findings
 
 - Senegal operates a French-civil-law family-law framework with hybrid Islamic-law personal-status provisions for Muslim parties — places Senegal in the Francophone West African cluster with provisions reflecting Senegal's Muslim-majority demography.
-- Hague Convention 1980 accession 2012 places Senegal in the Hague Africa cluster — early Francophone African accession.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2012 places Senegal in the Hague Africa cluster — early Francophone African accession.
 - Civil-law framework with Islamic-law personal-status hybrid is structurally distinctive within the West African cluster.
 
 ## See also
@@ -68,6 +68,8 @@ Senegalese family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

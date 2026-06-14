@@ -17,7 +17,7 @@ Hans Island / Tartupaluk (Danish Hans Ø / Inuktitut ᑕᕐᑐᐸᓗᒃ Tartupal
   - International agreement of 14 June 2022 between Canada and Kingdom of Denmark dividing Hans Island via geological boundary, establishing Canada-Denmark land border ~1.3 km long, and creating Canada-Denmark Joint Commission on Hans Island.
 - **Canada-Denmark Continental Shelf Agreement 1973** — Canada-Denmark Continental Shelf Agreement 1973 (1973) — <https://treaties.un.org/>
   - International agreement of 17 December 1973 between Canada and Kingdom of Denmark establishing continental shelf boundary — left precise location of Hans Island ambiguous, originating the 1973-2022 territorial dispute.
-- **Canadian [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 (applicable in Nunavut portion of Hans Island)** — Canadian Divorce Act 1985 (1985) — <https://laws-lois.justice.gc.ca/>
+- **Canadian [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 (applicable in Nunavut portion of Hans Island)** — Canadian [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 (1985) — <https://laws-lois.justice.gc.ca/>
   - Canadian Federal Act applicable in Canadian portion of Hans Island via Nunavut Territory administrative framework.
 - **Greenlandic Forældreansvarsloven 2014 (applicable in Greenlandic portion of Hans Island)** — Greenlandic Parental Responsibility Act (2014) — <https://www.naalakkersuisut.gl/>
   - Greenlandic Act applicable in Danish/Greenlandic portion of Hans Island via Avannaata Kommunia administrative framework.
@@ -78,6 +78,8 @@ Hans Island-related decisions are anonymised per Canadian or Danish court practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

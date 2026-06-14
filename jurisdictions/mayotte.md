@@ -50,7 +50,7 @@ Mahorais family-court decisions are anonymised per Court of Appeal practice usin
 - Comorian-heritage Mahorais population with ~95% Sunni Muslim majority + transitional customary-status accommodations is structurally distinctive within French overseas territory cluster.
 - Cadi tribunal abolition (2010) as part of departmental integration is structurally distinctive — only state-level entity to formally abolish operating Sharia courts as part of metropolitan-state integration in recent history.
 - Comorian sovereignty claim creates contested-sovereignty dimension — Comoros maintains that Mayotte is part of the Comoros archipelago.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
 
 ## See also
 
@@ -75,6 +75,8 @@ Mahorais family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

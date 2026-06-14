@@ -43,7 +43,7 @@ Kyrgyz family-court decisions are anonymised per Supreme Court practice using in
 ## Structural findings
 
 - Kyrgyzstan operates a post-Soviet civil-law framework — Family Code 2003 follows post-Soviet codification trajectory shared with Uzbekistan, Kazakhstan, Russia within the corpus.
-- Hague Convention 1980 accession 2012 places Kyrgyzstan in the Hague Central Asian cluster alongside Kazakhstan and Uzbekistan.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2012 places Kyrgyzstan in the Hague Central Asian cluster alongside Kazakhstan and Uzbekistan.
 - Bilingual official-language framework (Kyrgyz + Russian) reflects post-Soviet language-policy heritage.
 
 ## See also
@@ -70,6 +70,8 @@ Kyrgyz family-court decisions are anonymised per Supreme Court practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

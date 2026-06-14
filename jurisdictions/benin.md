@@ -44,7 +44,7 @@ Beninese family-court decisions are anonymised per Supreme Court practice using 
 
 - Benin operates a French-civil-law family-law framework with gender equality codification and monogamy-default reform — places Benin in the West African Francophone civil-law cluster with French-derivative substantive heritage.
 - Persons and Family Code 2004 monogamy-default for civil marriages is structurally significant — among more progressive West African Francophone family-law reforms in the corpus.
-- Hague Convention 1980 accession 2018 places Benin in the Hague West African cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2018 places Benin in the Hague West African cluster.
 
 ## See also
 
@@ -70,6 +70,8 @@ Beninese family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

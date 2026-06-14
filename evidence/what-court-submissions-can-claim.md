@@ -40,7 +40,7 @@ This page maps each common court-submission claim back to those seven pages.
 - [DSM-5](https://www.appi.org/products/dsm) V995.51 / T74.32XA (Confirmed) and T76.32XA (Suspected) Child Psychological Abuse — verbatim definition supports application to alienation-pattern conduct
 - [ICD-11](https://icd.who.int/) QE52.0 Caregiver-Child Relationship Problem — WHO's own FAQ confirms this code applies to PA-pattern situations
 - Bernet, Wamboldt & Narrow (2016) JAACAP — peer-reviewed application of CAPRD to alienation cases
-- DSM-5 V61.20/Z62.820 Parent-Child Relational Problem — defensibly applies where harm threshold not met
+- [DSM-5](https://www.appi.org/products/dsm) V61.20/Z62.820 Parent-Child Relational Problem — defensibly applies where harm threshold not met
 
 **Cross-references:** [Diagnostic Codes That DO Apply](diagnostic-codes-that-apply.md) §1-3
 
@@ -62,7 +62,7 @@ This page maps each common court-submission claim back to those seven pages.
 
 **Primary support:**
 - DSM-5 declined to add PA as discrete diagnosis (Bernet 2010 proposal rejected)
-- WHO formally removed "parental alienation" from ICD-11 index in February 2020
+- WHO formally removed "parental alienation" from [ICD-11](https://icd.who.int/) index in February 2020
 - APA 2008 Statement: no position; 1996 Task Force noted lack of data
 - APSAC 2022 Position Statement: actively cautions against PA-driven psychological-abuse findings
 - Italian Cassazione 9691/2022: PAS "*pseudoscientific*"
@@ -95,7 +95,7 @@ This page maps each common court-submission claim back to those seven pages.
 
 **Cross-references:** [Forensic Operation in Courts](forensic-operation-in-courts.md) §1-3
 
-**Anticipated critique:** Harman & Lorandos (2021) on [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) methodology. **Counter:** Meier responded in 2022 in *Journal of Family Trauma, Child Custody & Child Development*; the underlying NIJ-funded dataset (4,338 cases) is the largest empirical study of US PA-court outcomes.
+**Anticipated critique:** Harman & Lorandos (2021) on [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) methodology. **Counter:** [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) responded in 2022 in *Journal of Family Trauma, Child Custody & Child Development*; the underlying NIJ-funded dataset (4,338 cases) is the largest empirical study of US PA-court outcomes.
 
 ### Claim 7: Custody evaluators with asymmetric training (PA-trained but not DV-trained, or vice versa) produce systematically biased assessments
 
@@ -130,7 +130,7 @@ The widely-cited [Family Bridges](https://warshak.com/family-bridges/) figure is
 
 **Source review:** [Reunification Therapy Outcomes](reunification-outcomes.md)
 
-**Defensible alternative:** "Family Bridges has published outcome data on participating families showing 18 of 22 children maintained positive relationship gains at 90-day follow-up, though the study was a before-after design without an independent control group."
+**Defensible alternative:** "[Family Bridges](https://warshak.com/family-bridges/) has published outcome data on participating families showing 18 of 22 children maintained positive relationship gains at 90-day follow-up, though the study was a before-after design without an independent control group."
 
 ### Anti-claim 4: "A child's rejection of one parent is itself evidence of alienation by the other"
 
@@ -148,7 +148,7 @@ Contradicted by Meier 2020 4,338-case NIJ-funded dataset (largest empirical stud
 
 ### Anti-claim 6: "The PA diagnostic label is required to obtain protective court orders for affected children"
 
-Cafcass, the Bernet/Wamboldt/Narrow 2016 CAPRD framework, ICD-11 QE52.0, and most modern practitioner writing all establish that defensible clinical formulations and court-actionable findings can be made using existing relational-problem and child-psychological-abuse codes *without* invoking PAS terminology. Insisting on the label hurts your case.
+[Cafcass](https://www.cafcass.gov.uk/), the Bernet/Wamboldt/Narrow 2016 CAPRD framework, ICD-11 QE52.0, and most modern practitioner writing all establish that defensible clinical formulations and court-actionable findings can be made using existing relational-problem and child-psychological-abuse codes *without* invoking PAS terminology. Insisting on the label hurts your case.
 
 **Source review:** [Diagnostic Codes That DO Apply §3,§7](diagnostic-codes-that-apply.md); [Case Studies → STS 519/2017](../case-studies/sts-519-2017-tribunal-supremo-alienacion-parental.md) (Spain doing PA work without PA label)
 
@@ -158,7 +158,7 @@ Cafcass, the Bernet/Wamboldt/Narrow 2016 CAPRD framework, ICD-11 QE52.0, and mos
 
 ### For an evaluator's report formulation
 
-> *"On the available evidence, the child's resistance to contact with [parent] is best understood within the resist-refuse dynamics framework ([Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001) as a hybrid presentation. Differential diagnosis considered: (1) alienating behaviour by [other parent] — supported by [specific documented facts]; (2) realistic estrangement — assessed by [specific evidence]; (3) affinity and developmental factors — assessed by [specific evidence]; (4) trauma-related estrangement — assessed by [specific evidence and absence-of-trauma indicators]. The behavioural pattern of [other parent] meets criteria for V61.20 Parent-Child Relational Problem; additional indicators of psychological harm to the child meet criteria for V995.51 Child Psychological Abuse, Suspected, supported by [specific evidence of significant psychological harm]. Recommendations follow the multi-modal framework articulated in Saini et al. (2016)."*
+> *"On the available evidence, the child's resistance to contact with [parent] is best understood within the resist-refuse dynamics framework ([Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001) as a hybrid presentation. Differential diagnosis considered: (1) alienating behaviour by [other parent] — supported by [specific documented facts]; (2) realistic estrangement — assessed by [specific evidence]; (3) affinity and developmental factors — assessed by [specific evidence]; (4) trauma-related estrangement — assessed by [specific evidence and absence-of-trauma indicators]. The behavioural pattern of [other parent] meets criteria for V61.20 Parent-Child Relational Problem; additional indicators of psychological harm to the child meet criteria for V995.51 Child Psychological Abuse, Suspected, supported by [specific evidence of significant psychological harm]. Recommendations follow the multi-modal framework articulated in [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2016)."*
 
 ### For a skeleton argument (UK family-court context)
 
@@ -197,6 +197,8 @@ For jurisdiction-specific guidance, start with the [Case Studies Global Comparis
 *This page is a distillation, not a substitute. Cite the underlying evidence pages and the primary sources they document. CC BY 4.0.*
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

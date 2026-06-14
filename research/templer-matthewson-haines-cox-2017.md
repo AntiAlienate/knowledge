@@ -132,7 +132,7 @@ The limitations are honestly acknowledged; the recommendations remain the leadin
 
 - [research/fidler-bala-2010.md](./fidler-bala-2010.md) — most-cited PA review
 - [research/friedlander-walters-2010.md](./friedlander-walters-2010.md) — MMFI + 4-category typology
-- [research/warshak-2010.md](./warshak-2010.md) — Family Bridges intensive
+- [research/warshak-2010.md](./warshak-2010.md) — [Family Bridges](https://warshak.com/family-bridges/) intensive
 - [research/reay-2015.md](./reay-2015.md) — Family Reflections intensive
 - [research/harman-lorandos-2020.md](./harman-lorandos-2020.md) — 25-year US case-law survey
 - [research/harman-kruk-hines-2018.md](./harman-kruk-hines-2018.md) — family-violence reframe
@@ -144,6 +144,8 @@ Wiki entry, not clinical or legal advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

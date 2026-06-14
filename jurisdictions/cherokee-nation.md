@@ -81,7 +81,7 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 
 ## Editorial notes
 
-- Cherokee Nation jurisdiction sidecar — mixed Anglo-American common-law/Cherokee-customary-law sovereign Indian Nation within US federal-trust framework (Cherokee Nation Constitution 1976/1999 + Cherokee Nation Code Title 43 Family Law + Cherokee Nation v Georgia 1831 + Worcester v Georgia 1832 + McGirt v Oklahoma 2020 + Castro-Huerta v Oklahoma 2022 + ICWA 1978 + Federal US Hague Convention 1980 accession). Second-largest US Indian tribal nation by enrolled population globally + central jurisdiction of foundational US Indian-law jurisprudence (Marshall Trilogy) + first Indian tribal written constitution modelled on US Constitution (1827) + central jurisdiction of McGirt v Oklahoma 2020 landmark Indian-Country recognition + Trail of Tears 1838-1839 forced-relocation foundational precedent.
+- Cherokee Nation jurisdiction sidecar — mixed Anglo-American common-law/Cherokee-customary-law sovereign Indian Nation within US federal-trust framework (Cherokee Nation Constitution 1976/1999 + Cherokee Nation Code Title 43 Family Law + Cherokee Nation v Georgia 1831 + Worcester v Georgia 1832 + McGirt v Oklahoma 2020 + Castro-Huerta v Oklahoma 2022 + ICWA 1978 + Federal US [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession). Second-largest US Indian tribal nation by enrolled population globally + central jurisdiction of foundational US Indian-law jurisprudence (Marshall Trilogy) + first Indian tribal written constitution modelled on US Constitution (1827) + central jurisdiction of McGirt v Oklahoma 2020 landmark Indian-Country recognition + Trail of Tears 1838-1839 forced-relocation foundational precedent.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-American + mixed Anglo-American-common-law/Cherokee-customary-law + sovereign-Indian-Nation cluster + foundational-Marshall-Trilogy-Indian-law-jurisprudence-globally-distinctive + Cherokee-Nation-v-Georgia-1831 + Worcester-v-Georgia-1832 + first-Indian-tribal-written-constitution-1827 + Five-Civilized-Tribes-framework + Trail-of-Tears-1838-1839 + McGirt-v-Oklahoma-2020-Indian-Country-recognition + Castro-Huerta-v-Oklahoma-2022 + ICWA-federal-framework + Federal-US-Hague-extension clusters within the corpus.
 
@@ -89,6 +89,8 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -22,7 +22,7 @@ Yukon (formerly Yukon Territory; Lú'án Mǟn Łít in Southern Tutchone and var
 - **Yukon Languages Act SY 2002, c.133** — Yukon Languages Act (2002) — <https://laws.yukon.ca/>
   - Yukon territorial Act establishing English-French bilingual framework alongside multiple Indigenous-language frameworks.
 - **Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 + Yukon Children's Law Act (applicable in Yukon)** — Yukon Family Law Framework (1985) — <https://laws.yukon.ca/>
-  - Federal Canadian Divorce Act 1985 + Yukon territorial Children's Law Act governing parental responsibility and child custody.
+  - Federal Canadian [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 + Yukon territorial Children's Law Act governing parental responsibility and child custody.
 
 ## Apex courts
 
@@ -80,7 +80,7 @@ Yukon family-court decisions are anonymised per Supreme Court of Yukon practice 
 
 ## Editorial notes
 
-- Yukon jurisdiction sidecar — mixed common-law/Yukon-territorial-law/multi-First-Nations-customary-law North American Arctic Canadian territory (Yukon Act 2002 + Yukon Umbrella Final Agreement 1990 + 11 Yukon First Nations Final Agreements 1993-2006 + Yukon Devolution Transfer Agreement 2003 + Yukon Languages Act 2002 + Federal Divorce Act 1985 + Canadian Hague Convention 1980 accession 1983). Only Canadian territory with eight constitutionally-recognised modern First Nations Final Agreements globally + central jurisdiction of Klondike Gold Rush 1896-1899 + first Canadian territory to undergo formal devolution + most comprehensive modern First Nations Final Agreements framework in Canada. Completes Canadian Arctic territorial triad (Nunavut + Northwest Territories + Yukon).
+- Yukon jurisdiction sidecar — mixed common-law/Yukon-territorial-law/multi-First-Nations-customary-law North American Arctic Canadian territory (Yukon Act 2002 + Yukon Umbrella Final Agreement 1990 + 11 Yukon First Nations Final Agreements 1993-2006 + Yukon Devolution Transfer Agreement 2003 + Yukon Languages Act 2002 + Federal Divorce Act 1985 + Canadian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983). Only Canadian territory with eight constitutionally-recognised modern First Nations Final Agreements globally + central jurisdiction of Klondike Gold Rush 1896-1899 + first Canadian territory to undergo formal devolution + most comprehensive modern First Nations Final Agreements framework in Canada. Completes Canadian Arctic territorial triad (Nunavut + Northwest Territories + Yukon).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-American-Arctic + mixed Canadian-common-law/First-Nations-customary-law + Canadian-territory cluster + eleven-First-Nations-Final-Agreements-self-governance-globally-distinctive + Yukon-Umbrella-Final-Agreement-1990 + Klondike-Gold-Rush-1896-1899 + Yukon-Act-1898 + first-Canadian-territory-formal-devolution-2003 + Canadian-Arctic-territorial-triad-completion + Canadian-Hague-1983-accession clusters within the corpus.
 
@@ -88,6 +88,8 @@ Yukon family-court decisions are anonymised per Supreme Court of Yukon practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

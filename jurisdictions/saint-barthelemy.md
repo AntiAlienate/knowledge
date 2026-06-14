@@ -48,7 +48,7 @@ Saint-Barthélemoise family-court decisions are anonymised per Court of Appeal p
 - 1784-1878 Swedish colonial period is structurally distinctive globally — Sweden's only Caribbean colony ever and Saint-Barthélemy's distinctive Swedish-heritage capital name (Gustavia).
 - COM autonomy from Guadeloupe DROM (2007) is structurally distinctive — only French DROM-to-COM separation in recent history (with Saint-Martin).
 - Distinctive tax regime under COM Statut is structurally significant — Saint-Barthélemy has fiscal autonomy from metropolitan France.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects COM Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects COM Hague jurisdiction status.
 
 ## See also
 
@@ -74,6 +74,8 @@ Saint-Barthélemoise family-court decisions are anonymised per Court of Appeal p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

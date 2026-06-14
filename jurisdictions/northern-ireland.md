@@ -14,7 +14,7 @@ Northern Ireland operates a distinct common-law family-law jurisdiction within t
 ## Statutory framework
 
 - **Children (Northern Ireland) Order 1995** — Children (Northern Ireland) Order 1995 — substantive children-law statute (1995) — <https://www.legislation.gov.uk/nisi/1995/755>
-  - Substantive NI children-law statute. Sewel-style Order in Council mirroring [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) substantive frame but with NI-distinct numbering and procedural provisions. Art 3 welfare paramountcy principle equivalent to s.1 Children Act 1989.
+  - Substantive NI children-law statute. Sewel-style Order in Council mirroring [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) substantive frame but with NI-distinct numbering and procedural provisions. Art 3 welfare paramountcy principle equivalent to s.1 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41).
 - **Family Homes and Domestic Violence (Northern Ireland) Order 1998** — Family Homes and Domestic Violence (NI) Order 1998 (1998) — <https://www.legislation.gov.uk/nisi/1998/1071>
   - NI-distinct DV-protection statute. Domestic Abuse and Civil Proceedings Act (NI) 2021 subsequently introduced coercive-control offence parallel to E&W Serious Crime Act 2015 s.76.
 - **Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021** — Domestic Abuse and Civil Proceedings Act (NI) 2021 — coercive control criminalisation (2021) — <https://www.legislation.gov.uk/nia/2021/2>
@@ -68,7 +68,7 @@ NI family-court judgments anonymise children by initial; adult parties may be na
 - LADY CHIEF JUSTICE KEEGAN AS LOAD-BEARING JUDICIAL FIGURE: Rt Hon Dame Siobhan Keegan DBE KC, sworn 2.9.2021, is the FIRST WOMAN LADY CHIEF JUSTICE IN NI HISTORY and the only Lady Chief Justice in the UK whose pre-judicial career was as a family-law silk. Senior Family Judge of the High Court NI 2020-2021 → LCJ. Gives NI's family judiciary unusual structural sophistication on child-welfare issues.
 - O'HARA J A FATHER v A MOTHER (No. 2) AUGUST 2022 IS THE CLEAREST CURRENT NI JUDICIAL ENGAGEMENT with alienating-style dynamic — without explicit PA label. Found 'core belief that he had been wronged' incompatible with facilitating contact while declining to transfer residence. Functional analogue to recognition-camp reasoning expressed in welfare/abuse vocabulary.
 - DISTINCT STATUTORY ARCHITECTURE: Children (NI) Order 1995 + Family Homes and DV (NI) Order 1998 + Domestic Abuse and Civil Proceedings Act (NI) 2021. NI operates a Sewel-style Order in Council frame distinct from Children Act 1989 E&W statutory frame.
-- NIGALA AS NI INSTITUTIONAL ANALOGUE: Northern Ireland Guardian Ad Litem Agency is the statutory child-welfare reporting body — NI analogue to English Cafcass + Welsh Cafcass Cymru. Operational PA-adjacent engagement at welfare-report level.
+- NIGALA AS NI INSTITUTIONAL ANALOGUE: Northern Ireland Guardian Ad Litem Agency is the statutory child-welfare reporting body — NI analogue to English [Cafcass](https://www.cafcass.gov.uk/) + Welsh Cafcass Cymru. Operational PA-adjacent engagement at welfare-report level.
 - WAFNI 25 JUNE 2020 PA BRIEFING IS THE ONLY NI-SPECIFIC WA INSTITUTIONAL POSITION: Women's Aid Federation NI is the load-bearing NI critique-camp institutional anchor. Single document anchor.
 - MCCORMACK QUB DCHILD 2021 IS ONLY NI ACADEMIC ANCHOR IN PA-SPECIFIC FIELD: Dr Mairead McCormack's QUB DChild 2021 thesis is the only NI-specific empirical study of PA treatment by NI family-court professionals. NI academic footprint outside the judiciary thin.
 - PRESERVED CORRECTIONS FROM UK-DEVOLVED LAWYERS V2: 'Mary Connolly KC' does not exist on Bar of NI roll (confused with Martina Connolly KC); Jonathan Dunlop KC is commercial/JR/professional-negligence specialist, not family. NI bar verification baseline established.
@@ -108,6 +108,8 @@ NI family-court judgments anonymise children by initial; adult parties may be na
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -52,7 +52,7 @@ Liancourt Rocks-related decisions are anonymised per Korean court practice using
 - Only dispute where administering state has built civilian residential infrastructure to entrench sovereignty (Kim Sung-do family 1968-2018, Kim Shin-yeol since 2018) is structurally distinctive globally — sovereignty-entrenchment civilian-residence framework.
 - Purely bilateral Korea-Japan dispute (no third-state claim) is structurally distinctive within Asian maritime-disputes cluster — distinct from multilateral Spratly/Paracel/Senkaku disputes.
 - South Korean Presidential visits (Lee Myung-bak 2012, Moon Jae-in 2017, Yoon Suk-yeol declined) are structurally distinctive within disputed-territory cluster.
-- Korean Hague Convention 1980 accession (2012, effective 2013) applicability unrecognised by Japan is structurally distinctive within Hague-applicability cluster.
+- Korean [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession (2012, effective 2013) applicability unrecognised by Japan is structurally distinctive within Hague-applicability cluster.
 
 ## See also
 
@@ -78,6 +78,8 @@ Liancourt Rocks-related decisions are anonymised per Korean court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

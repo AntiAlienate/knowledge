@@ -46,7 +46,7 @@ Philippine family-law decisions of higher courts (CA, SC) are typically publishe
 - Philippines operates a structurally distinctive mixed-legal-system framework — Spanish civil-law substantive heritage + American common-law procedural inheritance + Muslim personal-law parallel courts (Shari'a District Courts under PD 1083/1977 Code of Muslim Personal Laws). Within the corpus's mixed-jurisdiction cluster.
 - No-divorce statutory regime is structurally distinctive — Philippines is among the last jurisdictions globally without civil divorce. Annulment + legal separation operate as alternatives within Family Code framework.
 - PRBP/PRC statutory regulatory board places Philippines among the federal-statutory psychology regulator group within the corpus.
-- Hague Convention 1980 accession 2016 places Philippines in the Hague cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2016 places Philippines in the Hague cluster.
 
 ## See also
 
@@ -73,6 +73,8 @@ Philippine family-law decisions of higher courts (CA, SC) are typically publishe
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -41,7 +41,7 @@ Qatari family-law decisions are anonymised per court practice; published decisio
 
 - Qatar operates a Hanbali religious-law framework with codified family-law statute alongside Saudi Arabia (Personal Status Law 2022) — distinctive among the Hanbali primary-cluster within the corpus.
 - QFC Civil and Commercial Court provides a common-law commercial jurisdiction parallel to the religious-law civil framework — structurally similar to DIFC/ADGM in UAE.
-- Hague Convention 1980 accession 2014 places Qatar in the Hague cluster — distinguishes from Saudi Arabia (non-Hague) within the Gulf cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2014 places Qatar in the Hague cluster — distinguishes from Saudi Arabia (non-Hague) within the Gulf cluster.
 
 ## See also
 
@@ -66,6 +66,8 @@ Qatari family-law decisions are anonymised per court practice; published decisio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

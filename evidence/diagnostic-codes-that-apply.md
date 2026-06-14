@@ -10,11 +10,11 @@
 >
 > **Editorial standards.** Verbatim quotation from primary sources wherever direct access was available; explicit "**[secondary verification only]**" tags where the primary text was paywalled, copyright-restricted, or returned HTTP 403 at compilation; explicit "**not publicly confirmed**" where the source could not be located. Compilation date 2026-05-25. URLs verified at compilation.
 >
-> **Honest disclosure (load-bearing).** The DSM-5 and ICD-11 are copyrighted. Several URLs that hold primary text returned HTTP 403, paywalls, or copyright refusals during compilation. The verbatim DSM-5 / ICD-11 quotations in this page were assembled from multiple secondary academic sources that quote them consistently; readers using these quotations in court should verify against the published [DSM-5-TR](https://www.appi.org/products/dsm) (2022) and ICD-11 MMS browser (https://icd.who.int/browse11/l-m/en) before filing.
+> **Honest disclosure (load-bearing).** The [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/) are copyrighted. Several URLs that hold primary text returned HTTP 403, paywalls, or copyright refusals during compilation. The verbatim DSM-5 / ICD-11 quotations in this page were assembled from multiple secondary academic sources that quote them consistently; readers using these quotations in court should verify against the published [DSM-5-TR](https://www.appi.org/products/dsm) (2022) and ICD-11 MMS browser (https://icd.who.int/browse11/l-m/en) before filing.
 
 ---
 
-## 1. The DSM-5 / DSM-5-TR codes that apply
+## 1. The DSM-5 / [DSM-5-TR](https://www.appi.org/products/dsm) codes that apply
 
 ### 1.1 V995.51 / T74.32XA — Child Psychological Abuse, Confirmed
 
@@ -90,14 +90,14 @@ The authors describe reactions as including "the onset or exacerbation of psycho
 
 The DSM-5-TR text revision (American Psychiatric Association, 2022) **did not** add parental alienation, parental alienation syndrome, or parental alienation disorder as diagnoses. The [PASG](https://pasg.info/) draft proposal to insert "Parental Alienation Relational Problem (PARP)" was prepared (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., draft dated 2022-08-29; URL https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr) but was **not adopted** in DSM-5-TR.
 
-The PASG draft proposed five PARP criteria, verbatim from the PASG document:
+The [PASG](https://pasg.info/) draft proposed five PARP criteria, verbatim from the PASG document:
 1. "the child avoids, resists, or refuses a relationship with a parent";
 2. "the presence of a prior positive relationship between the child and the now rejected parent";
 3. "the absence of abuse or neglect or seriously deficient parenting on the part of the now rejected parent";
 4. "the use of multiple alienating behaviors by the favored parent";
 5. "the manifestation of behavioral signs of alienation by the child".
 
-DSM-5-TR retained the existing V61.20 / Z62.820 (Parent-Child Relational Problem) and V61.29 / Z62.898 (Child Affected by Parental Relationship Distress) framing. A subsequent 2023 follow-up proposal by Bernet, Baker, Narrow & Wamboldt — "Proposal for a Correction and Clarification to Parent–Child Relational Problem," dated 2023-09-01, URL https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf — sought textual expansion of the PCRP entry to acknowledge that "a child's resistance or refusal to maintain contact with a parent" may "[stem] from parental behaviors—including manipulation, denigration, or interference—rather than legitimate safety concerns." This proposal is, at compilation date, **not yet adopted** by the APA.
+DSM-5-TR retained the existing V61.20 / Z62.820 (Parent-Child Relational Problem) and V61.29 / Z62.898 (Child Affected by Parental Relationship Distress) framing. A subsequent 2023 follow-up proposal by Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Narrow & Wamboldt — "Proposal for a Correction and Clarification to Parent–Child Relational Problem," dated 2023-09-01, URL https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf — sought textual expansion of the PCRP entry to acknowledge that "a child's resistance or refusal to maintain contact with a parent" may "[stem] from parental behaviors—including manipulation, denigration, or interference—rather than legitimate safety concerns." This proposal is, at compilation date, **not yet adopted** by the APA.
 
 ---
 
@@ -235,7 +235,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 **United Kingdom.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service in England and Wales) takes the strongest publicly stated position of any major Western family-court services body: it explicitly avoids the term "parental alienation." [Cafcass](https://www.cafcass.gov.uk/) guidance, verbatim:
 
-> "Cafcass do not use or refer to the term 'parental alienation' which is often framed as a condition or syndrome."
+> "[Cafcass](https://www.cafcass.gov.uk/) do not use or refer to the term 'parental alienation' which is often framed as a condition or syndrome."
 
 (Source: Cafcass, "Alienating Behaviours," https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours.) Cafcass instead uses the descriptive phrase "alienating behaviour," which it defines as "an ongoing pattern of negative attitudes and communication about the other parent or carer that have the potential or intention to undermine, manipulate or even destroy a child's relationship with their other parent." Cafcass FCAs work within the Child Impact Assessment Framework (CIAF) (https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf), which integrates assessment of domestic abuse, harmful parental conflict, alienating behaviours, and parenting-capacity issues. UK NHS and independent psychologists working on family-court instructions code in ICD-10 / ICD-11; the Cafcass position effectively prevents the use of "PAS" or "PAD" in court-instructed reports.
 
@@ -267,7 +267,7 @@ APSAC then enumerates the rival hypotheses that must be ruled out — including 
 
 ### 4.2 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) — the differential-diagnosis framework
 
-**Primary citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. Nevada courts mirror at https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf (direct fetch returned a binary PDF; the chapter is widely cited and the headline framework is summarised across the secondary literature — **[secondary verification only]** for verbatim text).
+**Primary citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. In L. Drozd, M. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. Nevada courts mirror at https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf (direct fetch returned a binary PDF; the chapter is widely cited and the headline framework is summarised across the secondary literature — **[secondary verification only]** for verbatim text).
 
 **Headline framework (paraphrased from secondary academic summaries):**
 - The distinction between alienation (unjustified rejection) and estrangement (justified rejection due to interpersonal violence, child abuse or neglect) is the central differential-diagnostic challenge.
@@ -449,11 +449,13 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 
 **Repository cross-references.**
 - `/evidence/pa-as-child-abuse.md` — primary peer-reviewed evidence on PA as a form of child psychological harm.
-- `/evidence/international-institutional-positions.md` — WHO, APA, APSAC, BPS, UN, Council of Europe, EU, PASG positions.
+- `/evidence/international-institutional-positions.md` — WHO, APA, APSAC, [BPS](https://www.bps.org.uk/), UN, Council of Europe, EU, PASG positions.
 - `/evidence/forensic-operation-in-courts.md` — court use, *Daubert*/*Frye*, evaluator practice.
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

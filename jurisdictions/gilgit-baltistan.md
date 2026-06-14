@@ -52,7 +52,7 @@ GB family-court decisions are anonymised per Chief Court practice using initials
 - China-Pakistan Economic Corridor (CPEC) entry via Karakoram Highway through Khunjerab Pass is structurally distinctive globally — only Kashmir conflict jurisdiction central to active Belt-and-Road-Initiative infrastructure corridor.
 - Distinct constitutional path from AJK is structurally distinctive — separate accession 1947, distinct governance framework, no joint council mechanism.
 - Substantial Shi'a population (Twelver-Shi'a in Baltistan, Ismaili-Shi'a in Hunza) is structurally distinctive within Pakistani-administered cluster — Shi'a personal-law applicability.
-- Pakistani Hague Convention 1980 accession applies subject to GB's distinctive constitutional status.
+- Pakistani [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession applies subject to GB's distinctive constitutional status.
 
 ## See also
 
@@ -80,6 +80,8 @@ GB family-court decisions are anonymised per Chief Court practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

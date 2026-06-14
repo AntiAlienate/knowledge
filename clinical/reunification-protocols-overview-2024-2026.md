@@ -55,7 +55,7 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 |---------------------------------------|----------------------------------|----------------------|
 | Mild alienation (intermittent contact) | Welcome Back Pikes Peak; Espace-Rencontres | Outpatient/neutral |
 | Moderate (contact resisted but possible)| Turning Points; Welcome Back     | Intensive or weekly  |
-| Severe (full contact rupture 6+ mo)    | Family Bridges; Turning Points   | Residential intensive|
+| Severe (full contact rupture 6+ mo)    | [Family Bridges](https://warshak.com/family-bridges/); Turning Points   | Residential intensive|
 | Cross-border (Hague return ordered)    | Espace-Rencontres + therapy referral | Receiving state    |
 
 ## Court-order pre-conditions
@@ -82,7 +82,7 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 
 ## Sources
 
-- Warshak, R.A. (2010). Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children. *Family Court Review*, 48(1), 48-80
+- [Warshak](https://warshak.com/family-bridges/), R.A. (2010). Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children. *Family Court Review*, 48(1), 48-80
 - Reay, K.M. (2015). Family Reflections: A Promising Therapeutic Program Designed to Treat Severely Alienated Children and their Family System. *American Journal of Family Therapy*, 43(2), 197-207
 - Sullivan, M.J., Ward, P.A., & Deutsch, R.M. (2010). Overcoming Barriers Family Camp. *Family Court Review*, 48(1), 116-135
 - FNAR (Fédération Nationale des Espaces de Rencontre): https://www.fnar.eu
@@ -91,6 +91,8 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Reunification protocol selection requires assessment by qualified mental-health professionals and court order.*
+
+
 
 
 

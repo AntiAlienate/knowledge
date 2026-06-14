@@ -50,7 +50,7 @@ New Caledonian family-court decisions are anonymised per Court of Appeal practic
 - New Caledonia operates a structurally distinctive globally sui generis collectivity framework within French Republic — constitutionally-recognised parallel Kanak customary-status (statut civil coutumier kanak) operating alongside French civil-law (statut civil de droit commun).
 - Constitutional recognition of Kanak customary-status with parallel personal-status jurisdiction is structurally distinctive globally — only sui generis collectivity within French Republic in the corpus.
 - Three independence referendums (2018, 2020, 2021) all resulted in maintaining current status — structurally distinctive within the corpus.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects sui generis collectivity Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects sui generis collectivity Hague jurisdiction status.
 
 ## See also
 
@@ -75,6 +75,8 @@ New Caledonian family-court decisions are anonymised per Court of Appeal practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

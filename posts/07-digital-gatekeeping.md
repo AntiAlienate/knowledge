@@ -36,7 +36,7 @@ Digital gatekeeping fits **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 
 ## Related entries
 
-- [posts/04-the-17-strategies.md](./04-the-17-strategies.md) — Baker's #3 + #4
+- [posts/04-the-17-strategies.md](./04-the-17-strategies.md) — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) #3 + #4
 - [posts/52-documenting-alienation-court-tactical.md](./52-documenting-alienation-court-tactical.md) — daily checklist
 - [posts/51-documenting-pa-comprehensive.md](./51-documenting-pa-comprehensive.md) — comprehensive framework
 
@@ -52,6 +52,8 @@ Educational content. **Not legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

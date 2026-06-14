@@ -52,12 +52,12 @@ The most common move in PA cases: the alienating parent reframes the child's coa
 
 - [posts/55-recognizing-pa-key-signs.md](./55-recognizing-pa-key-signs.md) — Bernet's 5 criteria + [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators in full
 - [posts/17-pa-vs-estrangement-courts.md](./17-pa-vs-estrangement-courts.md) *(seed — court-side application)*
-- [posts/04-the-17-strategies.md](./04-the-17-strategies.md) — Baker's strategy taxonomy
+- [posts/04-the-17-strategies.md](./04-the-17-strategies.md) — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) strategy taxonomy
 
 ## Citations
 
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - *Solarino v. Italy*, ECHR 2017, App. no. 76171/13.
@@ -70,6 +70,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

@@ -30,7 +30,7 @@ BIFF responses (Brief, Informative, Friendly, Firm). The practical communication
 Standalone deep-dive on the BIFF method.
 - [High Conflict Institute](https://www.highconflictinstitute.com/)
 
-### *Surviving Parental Alienation* — Amy J. L. Baker & Paul R. Fine (2014)
+### *Surviving Parental Alienation* — Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Paul R. Fine (2014)
 A 30-day plan for targeted parents. Concrete daily strategies — what to say, what to write, what to document.
 
 ### *Co-Parenting With a Toxic Ex* — Amy J. L. Baker & Paul R. Fine (2014)
@@ -50,7 +50,7 @@ Court-facing reframes. Useful if you're prepping submissions for a judge.
 
 ## For the Children Themselves
 
-### *Welcome Back, Pluto* — Richard A. Warshak (DVD/video, 2010)
+### *Welcome Back, Pluto* — Richard A. [Warshak](https://warshak.com/family-bridges/) (DVD/video, 2010)
 Made for alienated children to watch. Often used as part of reunification therapy.
 
 ### *The Family Bill of Rights* — Amy J. L. Baker
@@ -98,6 +98,8 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 ---
 
 *Open PR if a book belongs on this shelf. Criterion: peer-reviewed, court-cited, or written by a named expert with a public record of work in the field.*
+
+
 
 
 

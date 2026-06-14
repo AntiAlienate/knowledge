@@ -185,7 +185,7 @@ Haarlem · Noord-Holland · Kenter Jeugdhulp / Kinder- en Jeugd Traumacentrum Ha
 *Hoogleraar Jeugdstudies, Departement Interdisciplinaire Sociale Wetenschap, Universiteit Utrecht; programmadirecteur Dynamics of Youth (UU); social-psychology PhD*
 Utrecht · Utrecht · Universiteit Utrecht (Dynamics of Youth; Department of Interdisciplinary Social Science); voorzitter Expertteam Ouderverstoting/Complexe Omgangsproblematiek (2019-2021)
 
-**Stance:** Voorzitter van het Expertteam Ouderverstoting/Complexe Omgangsproblematiek (Adviesrapport januari 2021). Het advies hanteert de term 'parental alienation' (PA) afwisselend met 'ouderverstoting' en 'contactverlies', en beveelt versterking van feitenonderzoek door de Raad voor de Kinderbescherming, een methode Scheidings Advies Team (SAT), en multidisciplinaire ketenaanpak aan, zonder zich uit te spreken voor of tegen PAS als diagnose. Co-auteur (met Visser, Kluwer, van der Wal) van empirisch werk dat de invloed van conflictscheiding op kinderen relativeert. Stance middle: methodologisch voorzichtig, niet PASG-aligned, niet feministisch-kritisch.
+**Stance:** Voorzitter van het Expertteam Ouderverstoting/Complexe Omgangsproblematiek (Adviesrapport januari 2021). Het advies hanteert de term 'parental alienation' (PA) afwisselend met 'ouderverstoting' en 'contactverlies', en beveelt versterking van feitenonderzoek door de Raad voor de Kinderbescherming, een methode Scheidings Advies Team (SAT), en multidisciplinaire ketenaanpak aan, zonder zich uit te spreken voor of tegen PAS als diagnose. Co-auteur (met Visser, Kluwer, van der Wal) van empirisch werk dat de invloed van conflictscheiding op kinderen relativeert. Stance middle: methodologisch voorzichtig, niet [PASG](https://pasg.info/)-aligned, niet feministisch-kritisch.
 
 **Publications:**
 - Adviesrapport Expertteam Ouderverstoting/Complexe Omgangsproblematiek (voorzitter) (2021) — *VNG / Ministerie van Justitie en Veiligheid* — <https://vng.nl/sites/default/files/2021-03/rapport-ouderverstoting.pdf>
@@ -452,6 +452,8 @@ Driebergen-Rijsenburg · Utrecht · Onafhankelijke private stichting; samenwerki
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

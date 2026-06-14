@@ -46,7 +46,7 @@ Venezuelan family-court decisions are anonymised per Constitutional Chamber prac
 
 - Venezuela is structurally distinctive within the Latin American cluster — Constitutional Chamber has developed substantive jurisprudence on co-parenting and alienating-parent doctrine despite remaining statutorily silent on 'parental alienation' as label. Among more developed Latin American substantive PA-equivalent case-law in the corpus.
 - LOPNNA 2007 codification of co-parenting/parental-responsibility framework predates and structurally informs the substantive PA-equivalent jurisprudence.
-- Hague Convention 1980 accession 1997 places Venezuela in the Hague Latin American cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1997 places Venezuela in the Hague Latin American cluster.
 
 ## See also
 
@@ -71,6 +71,8 @@ Venezuelan family-court decisions are anonymised per Constitutional Chamber prac
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

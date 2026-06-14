@@ -43,8 +43,8 @@ Guatemalan family-court decisions are anonymised per Supreme Court practice usin
 ## Structural findings
 
 - Guatemala operates a Spanish-civil-law family-law framework — places Guatemala in the Latin American civil-law cluster.
-- Children and Adolescents Protection Code 2003 reflects UNCRC-aligned modernisation trajectory shared with Central American civil-law neighbours.
-- Hague Convention 1980 accession 2002 places Guatemala in the Hague Latin American cluster.
+- Children and Adolescents Protection Code 2003 reflects [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)-aligned modernisation trajectory shared with Central American civil-law neighbours.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2002 places Guatemala in the Hague Latin American cluster.
 
 ## See also
 
@@ -70,6 +70,8 @@ Guatemalan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

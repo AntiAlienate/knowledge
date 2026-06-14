@@ -13,7 +13,7 @@ Dominica is a Caribbean common-law republic whose family-law framework operates 
 
 ## Statutory framework
 
-- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) CAP 35:03** — Divorce Act (1973) — <https://www.eccourts.org/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) CAP 35:03** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) (1973) — <https://www.eccourts.org/>
   - Federal divorce statute.
 - **Children Act** — Children Act (2001) — <https://www.eccourts.org/>
   - Federal Children's Act codifying child welfare and protection provisions.
@@ -68,6 +68,8 @@ Dominican family-court decisions are anonymised per Eastern Caribbean Supreme Co
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

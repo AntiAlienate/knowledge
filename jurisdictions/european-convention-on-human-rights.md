@@ -13,7 +13,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ## Statutory framework
 
-- **European Convention on Human Rights Article 8** — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) — right to respect for private and family life (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
+- **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) Article 8** — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) — right to respect for private and family life (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
   - Article 8(1): 'Everyone has the right to respect for his private and family life, his home and his correspondence.' Article 8(2): permissible interference must be 'in accordance with the law' + 'necessary in a democratic society' + serving a legitimate aim. The substantive Convention provision under which the Strasbourg PA-adjacent jurisprudence (Lombardo / Improta / Strumia v Italy) is decided. Member states have a POSITIVE OBLIGATION to take adequate and effective measures to enable parent-child contact to be re-established.
 - **European Convention on Human Rights Article 6** — ECHR Article 6 — right to a fair trial (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
   - Article 6(1) right to a fair hearing within a reasonable time. Article 6 issues frequently arise in PA-adjacent fact-patterns where domestic-court delays compound contact frustration — engaged in tandem with Article 8 in the Strasbourg Italian triptych.
@@ -83,7 +83,7 @@ ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy
 - ARTICLE 8 POSITIVE OBLIGATIONS DOCTRINE: ECHR jurisprudence treats parent-child relations as engaging not only negative obligations (states must not interfere) but POSITIVE obligations (states must protect family life). PA-adjacent fact-patterns are framed as positive-obligation cases: where domestic authorities fail to enforce contact effectively, Article 8 is violated.
 - DOCTRINE OF MARGIN OF APPRECIATION: Member states have a margin of appreciation in family-law decisions but this margin narrows in matters affecting the right to family life. Protocol 15 (2013) added explicit reference to subsidiarity and margin of appreciation to the Convention preamble. Strasbourg engagement with PA-adjacent cases preserves member-state primary responsibility while imposing minimum-standard procedural duties.
 - INSTITUTIONAL CONVERGENCE WITH UN ALSALEM REPORT + MESECVI: The UN Special Rapporteur Alsalem Report A/HRC/53/36 (12.8.2022) + MESECVI Declaration 13.4.2023 + Strasbourg Article 8 jurisprudence + LATAM5 institutional anchors (Corte Constitucional Colombia T-526/2023; IEFH/IGVM Belgium 2023/001) converge on a multi-tier international critique-anchor structure. Strasbourg + UN + Inter-American + domestic-apex layers operate in tandem.
-- HAGUE CONVENTION INTERSECTION: ECtHR engages Hague Convention 1980 return proceedings under Art 8 — leading line Neulinger and Shuruk v Switzerland [GC] (2010) + X v Latvia [GC] (2013). Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
+- HAGUE CONVENTION INTERSECTION: ECtHR engages [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return proceedings under Art 8 — leading line Neulinger and Shuruk v Switzerland [GC] (2010) + X v Latvia [GC] (2013). Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
 - EXECUTION SUPERVISION VIA COMMITTEE OF MINISTERS: Article 46 ECHR obliges member states to abide by ECtHR judgments. Committee of Ministers supervises execution. Italian execution of Lombardo / Strumia / Improta supervised under this process. Execution layer operationalises Strasbourg standards at member-state level beyond the individual case.
 - NO PA-CONSTRUCT-SPECIFIC ECHR JUDGMENT: The Strasbourg court has not directly assessed the scientific validity of the PA / PAS construct as a clinical category. ECtHR jurisprudence engages PA-adjacent fact-patterns via Article 8 procedural-due-diligence standard rather than via construct-validity analysis. Distinct from BVerfG 1 BvR 1076/23 (Germany) approach which descalibratea PAS at the construct level.
 
@@ -104,7 +104,7 @@ ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy
 ## Sources
 
 1. **European Court of Human Rights — Convention and judgments ([HUDOC](https://hudoc.echr.coe.int/))** — <https://www.echr.coe.int/> (European Court of Human Rights / Council of Europe) [en]
-2. **HUDOC — case-law database** — <https://hudoc.echr.coe.int/> (European Court of Human Rights) [en]
+2. **[HUDOC](https://hudoc.echr.coe.int/) — case-law database** — <https://hudoc.echr.coe.int/> (European Court of Human Rights) [en]
 3. **Council of Europe — Committee of Ministers (execution of judgments)** — <https://www.coe.int/en/web/cm> (Council of Europe) [en]
 4. **Council of Europe Commissioner for Human Rights** — <https://www.coe.int/en/web/commissioner> (Council of Europe) [en]
 5. **GREVIO — Group of Experts on Action against Violence against Women** — <https://www.coe.int/en/web/istanbul-convention/grevio> (Council of Europe) [en]
@@ -125,6 +125,8 @@ ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

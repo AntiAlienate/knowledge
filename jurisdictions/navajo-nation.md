@@ -81,7 +81,7 @@ Navajo Nation family-court decisions are anonymised per Navajo Nation Supreme Co
 
 ## Editorial notes
 
-- Navajo Nation jurisdiction sidecar — mixed Anglo-American common-law/Navajo Common Law sovereign Indian Nation within US federal-trust framework (Treaty of Bosque Redondo 1868 + Navajo Nation Code Title 7 § 204(B) Navajo Common Law + Navajo Nation Code Title 9 Domestic Relations + Peacemaker Court (Hózhóójí Naat'aanii) restorative-justice framework + ICWA 1978 + Indian Civil Rights Act 1968 + Federal US Hague Convention 1980 accession). Largest US Indian tribal nation by land area and population globally + only US Indian tribal nation operating comprehensive Navajo Common Law framework under explicit constitutional preference over common law + only US Indian tribal nation with constitutionally-protected Peacemaker Court restorative-justice framework + only US Indian tribal nation with constitutionally-protected matrilineal clan-membership framework + only Indigenous-language family-law principle (hózhǫ́) constitutionally entrenched.
+- Navajo Nation jurisdiction sidecar — mixed Anglo-American common-law/Navajo Common Law sovereign Indian Nation within US federal-trust framework (Treaty of Bosque Redondo 1868 + Navajo Nation Code Title 7 § 204(B) Navajo Common Law + Navajo Nation Code Title 9 Domestic Relations + Peacemaker Court (Hózhóójí Naat'aanii) restorative-justice framework + ICWA 1978 + Indian Civil Rights Act 1968 + Federal US [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession). Largest US Indian tribal nation by land area and population globally + only US Indian tribal nation operating comprehensive Navajo Common Law framework under explicit constitutional preference over common law + only US Indian tribal nation with constitutionally-protected Peacemaker Court restorative-justice framework + only US Indian tribal nation with constitutionally-protected matrilineal clan-membership framework + only Indigenous-language family-law principle (hózhǫ́) constitutionally entrenched.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-American + mixed Anglo-American-common-law/Navajo-Common-Law + sovereign-Indian-Nation cluster + largest-US-Indian-tribal-nation-globally-distinctive + Navajo-Common-Law-constitutional-preference + Peacemaker-Court-Hózhóójí-Naat'aanii-restorative-justice + matrilineal-clan-membership-k'éí + hózhǫ́-Indigenous-language-family-law-principle + Treaty-of-Bosque-Redondo-1868 + ICWA-federal-framework + Federal-US-Hague-extension clusters within the corpus.
 
@@ -89,6 +89,8 @@ Navajo Nation family-court decisions are anonymised per Navajo Nation Supreme Co
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

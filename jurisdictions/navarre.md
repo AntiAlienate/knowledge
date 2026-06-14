@@ -77,7 +77,7 @@ Navarrese family-court decisions are anonymised per Navarrese court practice usi
 
 ## Editorial notes
 
-- Navarre jurisdiction sidecar — civil-law Northern Iberian Spanish foral community with own Navarrese foral civil-law jurisdiction (Compilation of the Foral Civil Law of Navarre Fuero Nuevo 1973 + Ley Foral 21/2019 modernisation + Statute of Reintegration and Amejoramiento of the Foral Regime 1982 + Convenio Económico 1990 + Ley Paccionada 1841 bilateral-treaty foundation + Spanish Constitution First Additional Provision + Spanish Hague Convention 1980 accession 1987). Only Spanish autonomous community holding constitutional designation Foral Community globally + only EU member-state subnational operating constitutional framework derived from medieval Kingdom continuously preserved through bilateral-treaty + second EU subnational with full fiscal autonomy + Amejoramiento del Régimen Foral constitutional framing distinct from Statute of Autonomy.
+- Navarre jurisdiction sidecar — civil-law Northern Iberian Spanish foral community with own Navarrese foral civil-law jurisdiction (Compilation of the Foral Civil Law of Navarre Fuero Nuevo 1973 + Ley Foral 21/2019 modernisation + Statute of Reintegration and Amejoramiento of the Foral Regime 1982 + Convenio Económico 1990 + Ley Paccionada 1841 bilateral-treaty foundation + Spanish Constitution First Additional Provision + Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987). Only Spanish autonomous community holding constitutional designation Foral Community globally + only EU member-state subnational operating constitutional framework derived from medieval Kingdom continuously preserved through bilateral-treaty + second EU subnational with full fiscal autonomy + Amejoramiento del Régimen Foral constitutional framing distinct from Statute of Autonomy.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Northern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + Foral-Community-constitutional-designation-globally-distinctive + medieval-Kingdom-derived-constitutional-framework + bilateral-treaty-Ley-Paccionada-1841-foundation + Convenio-Económico-full-fiscal-autonomy + Amejoramiento-del-Régimen-Foral-constitutional-framing + Fuero-Nuevo-1973-2019 + Spanish-Constitution-First-Additional-Provision-Foral-rights clusters within the corpus.
 
@@ -85,6 +85,8 @@ Navarrese family-court decisions are anonymised per Navarrese court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

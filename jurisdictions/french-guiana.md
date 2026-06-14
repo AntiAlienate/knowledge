@@ -47,7 +47,7 @@ Guianan family-court decisions are anonymised per Court of Appeal practice using
 - Multi-ethnic population composition (Creole + Amerindian multiple nations + Maroon + Brazilian + Haitian + metropolitan French) is structurally distinctive within French overseas territory cluster.
 - Amerindian customary-status accommodations under Constitution Article 75 framework are structurally distinctive — recognised indigenous-personal-status framework within French Republic.
 - Guiana Space Centre (Kourou) European Space Agency facility is structurally distinctive globally — only sovereign state with EU/ESA major space launch facility on its territory.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
 
 ## See also
 
@@ -72,6 +72,8 @@ Guianan family-court decisions are anonymised per Court of Appeal practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

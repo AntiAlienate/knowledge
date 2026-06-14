@@ -80,7 +80,7 @@ Azorean family-court decisions are anonymised per Portuguese court practice usin
 
 ## Editorial notes
 
-- Azores jurisdiction sidecar — civil-law North Atlantic Portuguese autonomous region (Portuguese Civil Code Articles 1877-1920 as amended by Lei 61/2008 + Portuguese Constitution 1976 Article 6 + Estatuto Político-Administrativo da RAA 1980 modernised 2009 + EU Treaty Article 349 Outermost Regions framework + 1951 Portugal-US Defence Agreement Lajes Field + Portuguese Hague Convention 1980 accession 1983). Only EU subnational entity with multi-island legislative-assembly framework spanning nine islands across three island groups globally + one of only two Portuguese autonomous regions + one of nine EU outermost regions (RUP) + only EU subnational with strategically critical US military installation + only EU subnational on Mid-Atlantic Ridge tectonic boundary.
+- Azores jurisdiction sidecar — civil-law North Atlantic Portuguese autonomous region (Portuguese Civil Code Articles 1877-1920 as amended by Lei 61/2008 + Portuguese Constitution 1976 Article 6 + Estatuto Político-Administrativo da RAA 1980 modernised 2009 + EU Treaty Article 349 Outermost Regions framework + 1951 Portugal-US Defence Agreement Lajes Field + Portuguese [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983). Only EU subnational entity with multi-island legislative-assembly framework spanning nine islands across three island groups globally + one of only two Portuguese autonomous regions + one of nine EU outermost regions (RUP) + only EU subnational with strategically critical US military installation + only EU subnational on Mid-Atlantic Ridge tectonic boundary.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-Atlantic + civil-law + Portuguese-autonomous-region cluster + multi-island-legislative-assembly-nine-islands-three-groups-globally-distinctive + Constitution-Article-6 + EU-Article-349-Outermost-Regions-RUP + Lajes-Field-US-Air-Force-base-1951-Portugal-US-Defence-Agreement + Estatuto-Político-Administrativo-legislative-assembly + Mid-Atlantic-Ridge-tectonic-boundary + Portuguese-Hague-1983-accession clusters within the corpus.
 
@@ -88,6 +88,8 @@ Azorean family-court decisions are anonymised per Portuguese court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

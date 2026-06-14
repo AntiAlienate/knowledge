@@ -66,7 +66,7 @@ Mexico is among the **highest-volume PA-clinical jurisdictions in LATAM** and th
   - *Carta al editor* re *Síndrome de Alienación Parental: un concepto que actualmente debe ser considerado en desuso*, *Acta Pediátrica de México* https://actapediatrica.org.mx/article/carta-al-editor-con-relacion-al-articulo-sindrome-de-alienacion-parental-un-concepto-que-actualmente-debe-ser-considerado-en-desuso/
 - **URLs:** https://mendozaphd.wixsite.com/website ; https://www.researchgate.net/profile/Alejandro-Amaro-4 ; LinkedIn https://www.linkedin.com/in/alejandromendozaamaromdphd/
 - **Contact:** dr_mendoza@outlook.com ; +52 144 3273 0494.
-- **Verification notes:** **The single most institutionally connected Mexican PA-recognition clinician** — [PASG](https://pasg.info/) + GARI-PA + CEAP + AMPFS + public-sector psychiatric hospital chieftaincy. Any Hispanophone PASG conversation routes through him. Already in LATAM file; reaffirmed.
+- **Verification notes:** **The single most institutionally connected Mexican PA-recognition clinician** — [PASG](https://pasg.info/) + GARI-PA + CEAP + AMPFS + public-sector psychiatric hospital chieftaincy. Any Hispanophone [PASG](https://pasg.info/) conversation routes through him. Already in LATAM file; reaffirmed.
 
 ### 2. Alejandro Heredia Ávila — Director General, AMPFS
 - **Credentials:** Practitioner-advocate (not a clinician of record); director of the leading Mexican PA-affected-parents association.
@@ -280,6 +280,8 @@ For transparency, the following names were considered and excluded:
 5. **State-code variation matters operationally more than federal doctrine.** Even with CDMX derogation, AP remains in the Civil Codes of Estado de México, Aguascalientes, Coahuila, Hidalgo, Querétaro, Puebla. The same perito psicólogo working a custodia-impugnada case will encounter AP as a tipificable category in Toluca and not in CDMX — across the same Valle de México metropolis. This is the under-reported operational fact pattern in Mexican PA-clinical work.
 
 6. **CNDH 2011 *Alienación Parental* (2nd edition, 317 pp.) is the single most operationally-useful Mexican institutional reference** — explicitly mixed-positions, used by both camps. Any practitioner directory in this jurisdiction that omits the CNDH volume is incomplete.
+
+
 
 
 

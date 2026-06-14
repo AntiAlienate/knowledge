@@ -20,7 +20,7 @@ Louisiana is a North American civil-law constituent state of the United States �
 - **Louisiana Civil Code Articles 131-140 (Custody)** — Louisiana Civil Code Articles 131-140 (1992) — <https://www.legis.la.gov/>
   - Louisiana Civil Code articles governing child custody under best-interests-of-the-child standard with civil-law structural framework.
 - **United States Constitution Article VI Supremacy Clause + Hague International Child Abduction Remedies Act ([ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97)) 1988** — [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) + Supremacy Clause (1988) — <https://www.uscourts.gov/>
-  - US federal [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1 July 1988 + ICARA 1988 — federal Hague Convention applicability binding on Louisiana courts.
+  - US federal [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1 July 1988 + [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) 1988 — federal Hague Convention applicability binding on Louisiana courts.
 
 ## Apex courts
 
@@ -55,7 +55,7 @@ Louisiana family-court decisions are generally not anonymised in published opini
 - Louisiana Civil Code modelled on Napoleonic Code 1804 is structurally distinctive globally — only US state jurisdiction with Napoleonic Code lineage.
 - Community property regime, forced heirship in succession, and usufruct are structurally distinctive within US state cluster.
 - Louisiana Civil Code Articles 131-140 (Custody) operating under best-interests-of-the-child standard with civil-law structural framework is structurally distinctive globally.
-- Federal US Hague Convention 1980 accession 1988 + ICARA federal framework binding on Louisiana civil-law family courts is structurally distinctive — civil-law jurisdiction subject to federally-binding common-law-treaty-implementation framework.
+- Federal US [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1988 + ICARA federal framework binding on Louisiana civil-law family courts is structurally distinctive — civil-law jurisdiction subject to federally-binding common-law-treaty-implementation framework.
 
 ## See also
 
@@ -82,6 +82,8 @@ Louisiana family-court decisions are generally not anonymised in published opini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

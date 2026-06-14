@@ -43,7 +43,7 @@ Uzbek family-court decisions are anonymised per Supreme Court practice using ini
 ## Structural findings
 
 - Uzbekistan operates a post-Soviet civil-law framework — Family Code 1998 reflects post-Soviet codification trajectory shared with Kazakhstan, Russia, Belarus, Ukraine within the corpus.
-- Hague Convention 1980 accession 2000 places Uzbekistan as the earliest Central Asian Hague accession within the corpus — structurally distinctive early-mover.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2000 places Uzbekistan as the earliest Central Asian Hague accession within the corpus — structurally distinctive early-mover.
 - Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Uzbekistan from MENA religious-law cluster despite Muslim-majority demography.
 
 ## See also
@@ -70,6 +70,8 @@ Uzbek family-court decisions are anonymised per Supreme Court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

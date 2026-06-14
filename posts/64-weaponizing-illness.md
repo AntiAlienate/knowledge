@@ -53,8 +53,8 @@ That was the day Sophie's father got her back.
 
 This is fiction. The clinical anchors are not.
 
-- **DSM-5 V300.19** — Factitious Disorder Imposed on Another (formerly Munchausen by Proxy)
-- **WHO ICD-11 6D52** — Caregiver-Fabricated Illness in a Child
+- **[DSM-5](https://www.appi.org/products/dsm) V300.19** — Factitious Disorder Imposed on Another (formerly Munchausen by Proxy)
+- **WHO [ICD-11](https://icd.who.int/) 6D52** — Caregiver-Fabricated Illness in a Child
 - **DSM-5 V995.51** — Child Psychological Abuse (the broader frame)
 - **Roesler & Jenny (2009)** — *Medical Child Abuse* — the framework used in pediatric forensic assessment today
 - **Sanders & Bursch (2002)** — *Munchausen by Proxy: A Survey of Pediatric Forensic Issues*
@@ -102,6 +102,8 @@ Educational fiction. **Not clinical or legal advice.** The story is illustrative
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

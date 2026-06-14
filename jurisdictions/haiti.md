@@ -46,7 +46,7 @@ Haitian family-court decisions are anonymised per Court of Cassation practice us
 - Haiti operates a French-Napoleonic-derivative civil-law family-law framework — places Haiti alongside Dominican Republic within the Hispaniola civil-law cluster within the Caribbean.
 - Haitian independence (1804) is the earliest in the Americas after the United States — structurally distinctive within the corpus.
 - Bilingual official-language framework (French + Haitian Creole) is structurally distinctive within the Caribbean cluster.
-- Hague Convention 1980 accession 2013 places Haiti in the Hague Caribbean cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2013 places Haiti in the Hague Caribbean cluster.
 
 ## See also
 
@@ -71,6 +71,8 @@ Haitian family-court decisions are anonymised per Court of Cassation practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

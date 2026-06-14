@@ -43,7 +43,7 @@ Cape Verdean family-court decisions are anonymised per Supreme Court practice us
 ## Structural findings
 
 - Cabo Verde operates a Portuguese-civil-law family-law framework — places Cabo Verde in the Lusophone African cluster with Mozambique, Angola, São Tomé, Portugal, Brazil, East Timor within the corpus.
-- Hague Convention 1980 accession 2018 places Cabo Verde in the Hague Atlantic African cluster alongside Mozambique.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2018 places Cabo Verde in the Hague Atlantic African cluster alongside Mozambique.
 
 ## See also
 
@@ -69,6 +69,8 @@ Cape Verdean family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

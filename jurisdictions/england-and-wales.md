@@ -17,7 +17,7 @@ England & Wales has the most-developed parental alienation case-law arc in any c
   - Welfare-paramountcy backbone of every private-law and public-law children proceeding in England & Wales; the s.1(3) welfare checklist is the analytical frame within which any PA allegation must be weighed against domestic-abuse, harm and the child's ascertainable wishes and feelings. The Re-arc reasons explicitly inside this s.1(3) frame.
 - **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.8** — Child arrangements orders — residence and contact (1989) — <https://www.legislation.gov.uk/ukpga/1989/41/section/8>
   - Statutory vehicle for the orders most commonly invoked in PA-flavoured private-law disputes: live-with / spend-time-with arrangements, prohibited steps, specific issue. Renamed and consolidated by the [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6).
-- **Children Act 1989 s.31** — Threshold criteria for care and supervision orders (1989) — <https://www.legislation.gov.uk/ukpga/1989/41/section/31>
+- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.31** — Threshold criteria for care and supervision orders (1989) — <https://www.legislation.gov.uk/ukpga/1989/41/section/31>
   - Public-law gateway invoked where PA allegations escalate into significant-harm findings — Re C 2023 EWHC 345 Fam and Re Y 2026 EWFC 38 both turn partly on the interaction between private-law PA framing and the s.31 significant-harm threshold.
 - **Children Act 1989 s.91(14)** — Orders restricting further applications without leave (1989) — <https://www.legislation.gov.uk/ukpga/1989/41/section/91>
   - Restraining-order tool, materially expanded by the [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17) s.67, deployed in PA-adjacent litigation to prevent vexatious re-applications. The post-2021 broadened guidance feeds directly into the PD12J pattern-of-coercive-control analysis re-stated in Re H-N para 31.
@@ -51,16 +51,16 @@ England & Wales has the most-developed parental alienation case-law arc in any c
 ### Family Court — High Court level (Family Division of the High Court / EWFC)
 <https://www.judiciary.uk/courts-and-tribunals/family-court/>
 - **Re A (Children) (Parental Alienation) [2019] EWFC B56 — HHJ Stephen Wildblood QC sitting at Bristol; opens the modern English Re-arc** (2019) — middle — [`re-a-2019-ewfc-b56`](../case-studies/re-a-2019-ewfc-b56.md)
-- **Re C ('Parental Alienation'; Instruction of Psychologist) [2023] EWHC 345 (Fam) — McFarlane P sitting alone; establishes the HCPC-registration 'kitemark' for any psychologist purporting to opine on alienation under PD25B** (2023) — middle — [`re-c-2023-ewhc-345-fam`](../case-studies/re-c-2023-ewhc-345-fam.md)
+- **Re C ('Parental Alienation'; Instruction of Psychologist) [2023] EWHC 345 (Fam) — McFarlane P sitting alone; establishes the [HCPC](https://www.hcpc-uk.org/)-registration 'kitemark' for any psychologist purporting to opine on alienation under PD25B** (2023) — middle — [`re-c-2023-ewhc-345-fam`](../case-studies/re-c-2023-ewhc-345-fam.md)
 - **Re Y [2026] EWFC 38 — McFarlane P sets aside child-arrangements order founded on an unregulated PA-evaluator's report (Melanie Gill); 'every agency at fault' framing; closes the English Re-arc on the regulatory-disclosure axis** (2026) — critique — [`re-y-2026-ewfc-38`](../case-studies/re-y-2026-ewfc-38.md)
 
 ## Professional regulators
 
 - **HCPC — Health and Care Professions Council** — Statutory regulator for practitioner psychologists (and 14 other health professions) in the UK. Re C 2023 EWHC 345 Fam (McFarlane P) anchors HCPC registration as the procedural kitemark for any psychologist instructed under PD25B to opine on alienation in family proceedings; this kitemark is operationalised across the family courts by the FJC December 2024 finalised guidance. (2024-12-01) — <https://www.hcpc-uk.org/>
-- **[BPS](https://www.bps.org.uk/) — British Psychological Society (Division of Forensic Psychology — DCAFCASS-adjacent position)** — Statutory-charter learned society for psychology in the UK. BPS public statements and Division of Forensic Psychology guidance have aligned with the critique pole on PA-as-syndrome, emphasising that 'parental alienation' is not a recognised diagnosis and that expert reports should focus on observable parent-child relationship dynamics within a domestic-abuse-aware framework consistent with PD12J. (2024-12-01) — <https://www.bps.org.uk/>
+- **[BPS](https://www.bps.org.uk/) — British Psychological Society (Division of Forensic Psychology — DCAFCASS-adjacent position)** — Statutory-charter learned society for psychology in the UK. [BPS](https://www.bps.org.uk/) public statements and Division of Forensic Psychology guidance have aligned with the critique pole on PA-as-syndrome, emphasising that 'parental alienation' is not a recognised diagnosis and that expert reports should focus on observable parent-child relationship dynamics within a domestic-abuse-aware framework consistent with PD12J. (2024-12-01) — <https://www.bps.org.uk/>
 - **ACP-UK — Association of Clinical Psychologists UK** — Professional body for clinical psychologists in the UK. ACP-UK has issued formal position statements against the syndromal use of 'parental alienation' in family-court expert work, aligning with the FJC December 2024 finalised guidance and reinforcing the Re C 2023 HCPC-registration kitemark. — <https://acpuk.org.uk/>
 - **[Cafcass](https://www.cafcass.gov.uk/) — Children and Family Court Advisory and Support Service (England)** — Statutory advisory body to the family court in England, providing guardians and family-court advisers. [Cafcass](https://www.cafcass.gov.uk/) guidance frames 'alienating behaviours' within the PD12J pattern-of-coercive-control rubric per Re H-N para 31 — explicitly resisting a syndromal framing while recognising that one parent's behaviour can in some cases damage the child's relationship with the other parent. (2024-12-01) — <https://www.cafcass.gov.uk/>
-- **Cafcass Cymru — Welsh statutory family-court advisory service** — Welsh devolved equivalent of Cafcass. Operates the same PD12J / Re H-N pattern-of-coercive-control framework, with bilingual (English / Welsh / Cymraeg) operational guidance. — <https://www.gov.wales/cafcass-cymru>
+- **[Cafcass Cymru](https://www.cafcass.gov.uk/) — Welsh statutory family-court advisory service** — Welsh devolved equivalent of Cafcass. Operates the same PD12J / Re H-N pattern-of-coercive-control framework, with bilingual (English / Welsh / Cymraeg) operational guidance. — <https://www.gov.wales/cafcass-cymru>
 - **FJC — Family Justice Council** — Judiciary-sponsored multi-disciplinary advisory body. Issued finalised guidance in December 2024 on the use of expert evidence in cases involving allegations of alienating behaviours — operationalises the Re C 2023 HCPC-registration kitemark across the family courts and codifies a domestic-abuse-aware methodological standard consistent with PD12J and Re H-N para 31. (2024-12-01) — <https://www.judiciary.uk/courts-and-tribunals/judiciary-organisation/judicial-committees/family-justice-council/>
 - **GMC — General Medical Council (for psychiatrists practising in family-court contexts)** — Statutory regulator for medical practitioners including psychiatrists. The GMC's Good Medical Practice and expert-witness guidance apply to psychiatrists instructed as PD25B experts in family proceedings, complementing the HCPC kitemark for practitioner psychologists post-Re C 2023. — <https://www.gmc-uk.org/>
 
@@ -114,7 +114,7 @@ Section 97 Children Act 1989 prohibits publication of material likely to identif
 
 ## Sources
 
-1. **[BAILII](https://www.bailii.org/) — British and Irish Legal Information Institute** — <https://www.bailii.org/> (BAILII) [en]
+1. **[BAILII](https://www.bailii.org/) — British and Irish Legal Information Institute** — <https://www.bailii.org/> ([BAILII](https://www.bailii.org/)) [en]
 2. **Judiciary of England and Wales — judiciary.uk** — <https://www.judiciary.uk/> (Judicial Office) [en]
 3. **Family Law Journal (Jordan Publishing / LexisNexis)** — <https://www.familylaw.co.uk/> (LexisNexis / Jordan Publishing) [en]
 4. **Family Law Reports (Jordans / LexisNexis)** — <https://www.familylaw.co.uk/family-law-reports> (LexisNexis) [en]
@@ -147,6 +147,8 @@ Section 97 Children Act 1989 prohibits publication of material likely to identif
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

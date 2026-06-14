@@ -58,7 +58,7 @@ Court-ordered therapy works best when paired with:
 
 ## Citations
 
-- Warshak, R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using Insights from Social Science to Reconnect Parents and Alienated Children.* Family Court Review, 48(1), 48-80.
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using Insights from Social Science to Reconnect Parents and Alienated Children.* Family Court Review, 48(1), 48-80.
 - Sullivan, M. J., & Kelly, J. B. (2001). Legal and psychological management of cases with an alienated child. *Family Court Review*, 39(3), 299-315.
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review*, 48(1), 10-47.
 
@@ -69,6 +69,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

@@ -43,7 +43,7 @@ Honduran family-court decisions are anonymised per Supreme Court practice using 
 ## Structural findings
 
 - Honduras operates a Spanish-civil-law family-law framework — places Honduras in the Central American civil-law cluster with Guatemala, Costa Rica, Panama, El Salvador, Nicaragua.
-- Hague Convention 1980 accession 1994 places Honduras as among earliest Latin American Hague accessions in the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1994 places Honduras as among earliest Latin American Hague accessions in the corpus.
 
 ## See also
 
@@ -68,6 +68,8 @@ Honduran family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

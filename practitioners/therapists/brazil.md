@@ -236,7 +236,7 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 ### 13. Profa Maria Antonieta Pisano Motta (CRP-06)
 - **Country / city:** BR / São Paulo
 - **Practice / affiliation:** Psicanalista; docente do **Departamento de Psicanálise do Instituto Sedes Sapientiae** (São Paulo); psicóloga clínica e jurídica
-- **Practice URLs:** Google Scholar https://scholar.google.com/citations?user=JPocEIcAAAAJ&hl=pt-BR ; Migalhas tudo-sobre https://www.migalhas.com.br/tudo-sobre/maria-antonieta-pisano
+- **Practice URLs:** [Google Scholar](https://scholar.google.com/) https://scholar.google.com/citations?user=JPocEIcAAAAJ&hl=pt-BR ; Migalhas tudo-sobre https://www.migalhas.com.br/tudo-sobre/maria-antonieta-pisano
 - **Regulatory body:** **CRP-06** (São Paulo)
 - **Registration number:** **not publicly displayed**
 - **Specialty:** Psicanálise; psicologia jurídica; **crítica psicanalítica à instrumentalização da SAP** em Varas de Família
@@ -309,6 +309,8 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 6. **CRP numbers are systematically under-published in BR.** Only Calçada (CRP 05/18785), Lobo Ribeiro (CREMESP 114681) and Karam Trindade (CRP 06/205826) display registry numbers publicly. Direct CRP regional lookup will be needed for outreach verification on the other 11 entries.
 
 7. **PL 1.372/2023 (full revocation) passing CCJ 37-28 in Dec 2025 has materially raised stakes** — the recognition camp is now openly fighting to preserve LAP at the Plenário level; this directory should expect significant churn (new publications, public letters, institutional repositionings) through 2026.
+
+
 
 
 

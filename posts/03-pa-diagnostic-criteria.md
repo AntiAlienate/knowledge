@@ -14,7 +14,7 @@ All 5 must be present:
 1. Child actively rejects a previously loved parent
 2. Rejection is **disproportionate** to anything that parent has done
 3. Child is **exposed to alienating behaviors** by the favored parent
-4. Child exhibits **Baker's 8** behavioral indicators (Layer 2)
+4. Child exhibits **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8** behavioral indicators (Layer 2)
 5. There is **no justified estrangement** (abuse, neglect, profound mismatch)
 
 ## Layer 2 — Baker's 8 behavioral indicators
@@ -58,7 +58,7 @@ All 5 must be present:
 
 ## Citations
 
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.*
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). *Family Court Review*, 48(1), 10–47.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin*, 144(12), 1275–1299.
@@ -70,6 +70,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

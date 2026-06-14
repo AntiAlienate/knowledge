@@ -25,12 +25,14 @@ Clinical psychologist who developed the leading evidence-based reunification int
 
 ## Why he matters here
 
-If the case is reaching reunification — court-ordered or otherwise — [Warshak's](https://warshak.com/family-bridges/) protocol is the evidence-based playbook. Multiple peer-reviewed follow-ups (Reay, Templer, Warshak himself) show durable repair when the intensive is paired with enforced aftercare.
+If the case is reaching reunification — court-ordered or otherwise — [Warshak's](https://warshak.com/family-bridges/) protocol is the evidence-based playbook. Multiple peer-reviewed follow-ups (Reay, Templer, [Warshak](https://warshak.com/family-bridges/) himself) show durable repair when the intensive is paired with enforced aftercare.
 
 
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

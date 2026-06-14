@@ -44,7 +44,7 @@ Tunisian family-court decisions are anonymised per Court of Cassation practice u
 ## Structural findings
 
 - Tunisia operates a structurally distinctive Maliki-Islamic-law family-law framework with the 1956 Code of Personal Status — most progressive MENA-region family-law statute within the corpus, abolishing polygamy at independence (50+ years before regional comparators).
-- Hague Convention 1980 accession 2017 places Tunisia in the Hague MENA cluster alongside Morocco and Israel.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2017 places Tunisia in the Hague MENA cluster alongside Morocco and Israel.
 - Mixed-legal-system framework (French civil-law substantive + Maliki personal-status) reflects Protectorate-inheritance heritage shared with Morocco and Algeria within the corpus.
 
 ## See also
@@ -71,6 +71,8 @@ Tunisian family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

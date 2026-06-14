@@ -44,7 +44,7 @@ Guamanian family-court decisions are anonymised per Supreme Court practice using
 - Guam operates a US-derivative common-law framework with unincorporated US territory status — places Guam in the US Pacific territory cluster.
 - Chamorro indigenous cultural heritage retained alongside US civic framework — structurally distinctive within US Pacific territory cluster.
 - Largest US territory in Mariana Islands archipelago with substantial US military presence is structurally distinctive globally.
-- Hague Convention 1980 applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
 
 ## See also
 
@@ -70,6 +70,8 @@ Guamanian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

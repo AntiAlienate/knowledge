@@ -167,7 +167,7 @@ Second-opinion battles can be expensive and can read as litigation tactics if no
 
 | Region | Body / process |
 |---|---|
-| **US** | State-level licensing; AFCC professional development standards; *Daubert*/*Frye* admissibility tests for methodology |
+| **US** | State-level licensing; [AFCC](https://www.afccnet.org/) professional development standards; *Daubert*/*Frye* admissibility tests for methodology |
 | **UK** | [Cafcass](https://www.cafcass.gov.uk/) / Children's Guardian standard; Section 7 reports; expert witness instruction via Practice Direction 25B |
 | **Canada** | Provincial bar associations; Voice of the Child Reports; specialist assessor lists |
 | **Australia** | Family Report Writers under [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text); ICL (Independent Children's Lawyer) involvement |
@@ -186,6 +186,8 @@ Second-opinion battles can be expensive and can read as litigation tactics if no
 ---
 
 *Open a PR with jurisdictional additions — evaluator-selection processes vary substantially.*
+
+
 
 
 

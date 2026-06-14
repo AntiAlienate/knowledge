@@ -44,7 +44,7 @@ Thai family-court decisions are anonymised per Supreme Court practice using init
 ## Structural findings
 
 - Thailand operates a civil-law framework with substantial reform tradition — CCC Book 5 + specialised Juvenile and Family Courts.
-- Hague Convention 1980 accession 2002 places Thailand in the Hague cluster — one of the earlier Asian accessions.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2002 places Thailand in the Hague cluster — one of the earlier Asian accessions.
 - Psychology profession regulation through Ministry of Public Health framework without statutory professional-order regime.
 
 ## See also
@@ -70,6 +70,8 @@ Thai family-court decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

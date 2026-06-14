@@ -54,7 +54,7 @@ Ascension Island decisions are anonymised per UK overseas-territory court practi
 - Sub-jurisdiction of Saint Helena, Ascension and Tristan da Cunha BOT is structurally distinctive within British Overseas Territory cluster — only modern composite-British Overseas Territory with three constitutionally-equal constituents.
 - Falklands War 1982 logistical hub role is structurally distinctive globally — only modern state-level entity to serve as primary logistical hub for major modern military operation between two G20-aligned states.
 - Transient-employment-only population framework (~800 personnel) is structurally distinctive globally — no permanent civilian rights to settle.
-- UK Hague Convention 1980 territorial extension applicability is theoretical given absence of permanent civilian population.
+- UK [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension applicability is theoretical given absence of permanent civilian population.
 
 ## See also
 
@@ -81,6 +81,8 @@ Ascension Island decisions are anonymised per UK overseas-territory court practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

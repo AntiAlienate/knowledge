@@ -74,7 +74,7 @@ Balearic family-court decisions are anonymised per Balearic court practice using
 
 ## Editorial notes
 
-- Balearic Islands jurisdiction sidecar — civil-law Mediterranean Spanish autonomous community with own Balearic foral civil-law jurisdiction across tri-island sub-regime framework (Compilació del dret civil de les Illes Balears 1990 + Llei 7/2017 modernisation + Statute of Autonomy 2007 + 1229 Crown of Aragon conquest foundation + Decretos de Nueva Planta 1715 civil-law preservation + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with tri-island Foral Civil Law tradition with distinct per-island sub-regimes globally + only EU subnational with Roman-tradition succession framework (institución de heredero/hereus) preserved continuously since 1229. Completes Iberian foral civil-law hex (Balearic Islands + Galicia + Aragon + Catalonia + Basque + Navarre).
+- Balearic Islands jurisdiction sidecar — civil-law Mediterranean Spanish autonomous community with own Balearic foral civil-law jurisdiction across tri-island sub-regime framework (Compilació del dret civil de les Illes Balears 1990 + Llei 7/2017 modernisation + Statute of Autonomy 2007 + 1229 Crown of Aragon conquest foundation + Decretos de Nueva Planta 1715 civil-law preservation + Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987). Only EU member-state subnational with tri-island Foral Civil Law tradition with distinct per-island sub-regimes globally + only EU subnational with Roman-tradition succession framework (institución de heredero/hereus) preserved continuously since 1229. Completes Iberian foral civil-law hex (Balearic Islands + Galicia + Aragon + Catalonia + Basque + Navarre).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Mediterranean + civil-law + EU-subnational-civil-law-with-own-code cluster + tri-island-Foral-Civil-Law-tradition-with-distinct-per-island-sub-regimes-globally-distinctive + Mallorca-Menorca-vs-Pitiusan-sub-regime + Roman-tradition-succession-institución-de-heredero + Crown-of-Aragon-1229-foundation + Iberian-foral-civil-law-hex clusters within the corpus.
 
@@ -82,6 +82,8 @@ Balearic family-court decisions are anonymised per Balearic court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

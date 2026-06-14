@@ -75,7 +75,7 @@ Galician family-court decisions are anonymised per Galician court practice using
 
 ## Editorial notes
 
-- Galicia jurisdiction sidecar — civil-law North-western Iberian Atlantic-coastal Spanish autonomous community with own Galician foral civil-law jurisdiction (Lei 2/2006 de dereito civil de Galicia + Statute of Autonomy 1981 + Compilación del Derecho Civil Especial de Galicia 1963 + Spanish Constitution Article 149.1.8 + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with Celtic-heritage-recognised constitutional identity operating own Foral Civil Law tradition + only EU subnational with Atlantic-rural-economy-derived distinctive civil-law institutions (compañía familiar gallega / vitalicio / derecho de troncalidad) + largest civil-foral-law Spanish autonomous community without full fiscal autonomy + sociedade de gananciais galega community-property variant. Completes Iberian foral civil-law quintet (Galicia + Aragon + Catalonia + Basque + Navarre).
+- Galicia jurisdiction sidecar — civil-law North-western Iberian Atlantic-coastal Spanish autonomous community with own Galician foral civil-law jurisdiction (Lei 2/2006 de dereito civil de Galicia + Statute of Autonomy 1981 + Compilación del Derecho Civil Especial de Galicia 1963 + Spanish Constitution Article 149.1.8 + Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987). Only EU member-state subnational with Celtic-heritage-recognised constitutional identity operating own Foral Civil Law tradition + only EU subnational with Atlantic-rural-economy-derived distinctive civil-law institutions (compañía familiar gallega / vitalicio / derecho de troncalidad) + largest civil-foral-law Spanish autonomous community without full fiscal autonomy + sociedade de gananciais galega community-property variant. Completes Iberian foral civil-law quintet (Galicia + Aragon + Catalonia + Basque + Navarre).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-western-Iberian + Atlantic-coastal + civil-law + EU-subnational-civil-law-with-own-code cluster + Celtic-heritage-constitutional-identity-globally-distinctive + Atlantic-rural-economy-distinctive-civil-law-institutions + compañía-familiar-gallega + vitalicio + derecho-de-troncalidad-rural-succession + sociedade-de-gananciais-galega + Iberian-foral-civil-law-quintet clusters within the corpus.
 
@@ -83,6 +83,8 @@ Galician family-court decisions are anonymised per Galician court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

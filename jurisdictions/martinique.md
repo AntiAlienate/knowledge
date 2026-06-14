@@ -45,7 +45,7 @@ Martiniquan family-court decisions are anonymised per Court of Appeal practice u
 - Birthplace of the négritude movement led by Aimé Césaire is structurally distinctive globally — major intellectual movement asserting Black cultural identity and decolonisation theory.
 - Birthplace of Frantz Fanon (decolonisation psychiatrist) and Édouard Glissant (créolité theorist) is structurally distinctive globally — disproportionate contribution of Martinique to global decolonisation intellectual heritage.
 - Aimé Césaire's role as rapporteur of the loi de départementalisation 1946 is structurally distinctive — Martinique's DROM integration was authored by its leading intellectual figure.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
 
 ## See also
 
@@ -72,6 +72,8 @@ Martiniquan family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

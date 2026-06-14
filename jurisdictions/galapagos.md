@@ -78,7 +78,7 @@ Galápagos-related decisions are anonymised per Ecuadorian court practice using 
 
 ## Editorial notes
 
-- Galápagos Islands jurisdiction sidecar — civil-law eastern-Pacific Ecuadorian special-regime province (Ecuadorian Civil Code 1860 + Ecuadorian Constitution 2008 Article 258 Galápagos Special Regime + LOREG 2015 permanent-resident registration system + transferred-residence restriction framework + Consejo de Gobierno del Régimen Especial de Galápagos + Galápagos National Park 1959 + Galápagos Marine Reserve 1998/2022 + UNESCO World Heritage 1978 + Ecuadorian Hague Convention 1980 accession 1992). One of only two state-level entities operating constitutional special-regime framework explicitly motivated by global-biosphere-conservation requirements + first UNESCO World Heritage Site inscription (among first 12 globally) + only modern constitutionally-protected internal-migration-restriction framework explicitly motivated by biosphere-conservation + Galápagos Marine Reserve (2022) among largest marine protected areas globally.
+- Galápagos Islands jurisdiction sidecar — civil-law eastern-Pacific Ecuadorian special-regime province (Ecuadorian Civil Code 1860 + Ecuadorian Constitution 2008 Article 258 Galápagos Special Regime + LOREG 2015 permanent-resident registration system + transferred-residence restriction framework + Consejo de Gobierno del Régimen Especial de Galápagos + Galápagos National Park 1959 + Galápagos Marine Reserve 1998/2022 + UNESCO World Heritage 1978 + Ecuadorian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1992). One of only two state-level entities operating constitutional special-regime framework explicitly motivated by global-biosphere-conservation requirements + first UNESCO World Heritage Site inscription (among first 12 globally) + only modern constitutionally-protected internal-migration-restriction framework explicitly motivated by biosphere-conservation + Galápagos Marine Reserve (2022) among largest marine protected areas globally.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins eastern-Pacific + civil-law + Ecuadorian-special-regime cluster + constitutional-biosphere-conservation-special-regime-globally-distinctive + first-UNESCO-World-Heritage-Site-inscription + LOREG-2015-permanent-resident-registration + transferred-residence-restriction + Consejo-de-Gobierno-del-Régimen-Especial + Galápagos-Marine-Reserve-among-largest-MPAs + Ecuadorian-Hague-1992-accession-vs-LOREG-restriction-intersection clusters within the corpus.
 
@@ -86,6 +86,8 @@ Galápagos-related decisions are anonymised per Ecuadorian court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -45,7 +45,7 @@ Bahamian family-court decisions are anonymised per Court of Appeal practice usin
 ## Structural findings
 
 - Bahamas operates a common-law framework with comprehensive Child Protection Act 2007 — places Bahamas in the Caribbean common-law cluster.
-- Hague Convention 1980 accession 1994 places Bahamas as the earliest Caribbean Hague accession within the corpus — predating Trinidad and Tobago (2000).
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1994 places Bahamas as the earliest Caribbean Hague accession within the corpus — predating Trinidad and Tobago (2000).
 - Judicial Committee of the Privy Council retention as final appellate court is shared with Jamaica, Trinidad and Tobago within the corpus Caribbean cluster.
 
 ## See also
@@ -72,6 +72,8 @@ Bahamian family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

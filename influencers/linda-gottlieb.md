@@ -4,7 +4,7 @@ Founder of Turning Points for Families ([TPFF](https://turningpointsforfamilies.
 
 ## Why she matters here
 
-[Gottlieb](https://turningpointsforfamilies.com/) runs a four-day intensive reunification programme used by US and Canadian courts in severe-alienation cases. Her programme is widely ordered, widely defended, and widely criticised. If you are considering or fighting a court-ordered intensive reunification programme — [Family Bridges](https://warshak.com/family-bridges/), [TPFF](https://turningpointsforfamilies.com/), Transitioning Families, Overcoming Barriers — you need to understand what TPFF actually does and how it is critiqued.
+[Gottlieb](https://turningpointsforfamilies.com/) runs a four-day intensive reunification programme used by US and Canadian courts in severe-alienation cases. Her programme is widely ordered, widely defended, and widely criticised. If you are considering or fighting a court-ordered intensive reunification programme — [Family Bridges](https://warshak.com/family-bridges/), [TPFF](https://turningpointsforfamilies.com/), Transitioning Families, Overcoming Barriers — you need to understand what [TPFF](https://turningpointsforfamilies.com/) actually does and how it is critiqued.
 
 ## Credentials & affiliation
 
@@ -30,6 +30,8 @@ Founder of Turning Points for Families ([TPFF](https://turningpointsforfamilies.
 ---
 
 *[← Back to influencers index](README.md)*
+
+
 
 
 

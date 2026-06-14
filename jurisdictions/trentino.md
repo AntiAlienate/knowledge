@@ -51,7 +51,7 @@ Trentino family-court decisions are anonymised per Italian court practice using 
 
 ## Structural findings
 
-- Trentino operates a civil-law Italian Codice Civile framework via Trentino autonomous-province administrative framework with four constitutionally-protected linguistic-minority frameworks — places Trentino in the Alpine Italian autonomous-province cluster.
+- Trentino operates a civil-law Italian [Codice Civile](https://www.brocardi.it/codice-civile/) framework via Trentino autonomous-province administrative framework with four constitutionally-protected linguistic-minority frameworks — places Trentino in the Alpine Italian autonomous-province cluster.
 - Only EU member-state subnational entity operating four constitutionally-protected linguistic-minority frameworks (Ladin + Mòcheno + Cimbrian + Italian) is structurally distinctive globally.
 - Central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities (Ladin Fassa + Mòcheno Bersntol + Cimbrian Lusern) is structurally distinctive globally.
 - Southern co-equal partner with South Tyrol in unique Trentino-Alto Adige two-province autonomous-region framework is structurally distinctive globally — where each constituent province holds equivalent autonomy and regional layer functions primarily as a coordinator.
@@ -76,7 +76,7 @@ Trentino family-court decisions are anonymised per Italian court practice using 
 
 ## Editorial notes
 
-- Trentino jurisdiction sidecar — civil-law Alpine Italian autonomous province with four constitutionally-protected linguistic-minority frameworks (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale per il Trentino-Alto Adige 1972 + Italian Constitutional Law 1/1971 Pacchetto + Italian Law 482/1999 Linguistic Minorities Protection + Provincial Law 6/2008 Trentino Linguistic Minorities Framework + Italian Hague Convention 1980 accession 1985). Only EU member-state subnational with four constitutionally-protected linguistic-minority frameworks globally + central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities + southern co-equal partner with South Tyrol in unique Trentino-Alto Adige two-province autonomous-region framework + only modern EU autonomous-region framework with co-equal autonomous-province members. Completes Italian autonomous-region quintet (Sicily + Sardinia + Valle d'Aosta + Friuli-Venezia Giulia + Trentino-Alto Adige).
+- Trentino jurisdiction sidecar — civil-law Alpine Italian autonomous province with four constitutionally-protected linguistic-minority frameworks (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale per il Trentino-Alto Adige 1972 + Italian Constitutional Law 1/1971 Pacchetto + Italian Law 482/1999 Linguistic Minorities Protection + Provincial Law 6/2008 Trentino Linguistic Minorities Framework + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). Only EU member-state subnational with four constitutionally-protected linguistic-minority frameworks globally + central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities + southern co-equal partner with South Tyrol in unique Trentino-Alto Adige two-province autonomous-region framework + only modern EU autonomous-region framework with co-equal autonomous-province members. Completes Italian autonomous-region quintet (Sicily + Sardinia + Valle d'Aosta + Friuli-Venezia Giulia + Trentino-Alto Adige).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Alpine + civil-law + Italian-autonomous-province cluster + four-constitutionally-protected-linguistic-minority-frameworks-globally-distinctive + Ladin-Fassa + Mòcheno-Bersntol + Cimbrian-Lusern-Germanic-language-linguistic-isolates + two-province-co-equal-autonomous-region-framework + Trentino-Alto-Adige-with-South-Tyrol + Italian-Hague-1985-accession clusters within the corpus.
 
@@ -84,6 +84,8 @@ Trentino family-court decisions are anonymised per Italian court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

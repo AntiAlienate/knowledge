@@ -46,7 +46,7 @@ Mauritian family-court decisions are anonymised per Supreme Court practice using
 ## Structural findings
 
 - Mauritius operates a structurally distinctive mixed-legal-system framework — French civil-law substantive heritage (Code Napoléon 1804 retained at 1810 British transition) + English common-law procedural inheritance. Unique pattern in African corpus; shared with Quebec, Saint Lucia within the corpus.
-- Hague Convention 1980 accession 1993 places Mauritius as among earliest African Hague accessions within the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1993 places Mauritius as among earliest African Hague accessions within the corpus.
 - Judicial Committee of the Privy Council retention as final appellate court is structurally distinctive within Africa — Mauritius is the only African corpus jurisdiction with JCPC final-appellate jurisdiction.
 - Trilingual de facto framework (English official + French + Mauritian Creole) is structurally distinctive within the Indian Ocean cluster.
 
@@ -74,6 +74,8 @@ Mauritian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

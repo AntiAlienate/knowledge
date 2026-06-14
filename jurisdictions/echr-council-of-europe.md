@@ -13,7 +13,7 @@ The ECHR / Council of Europe ([European Convention on Human Rights](https://www.
 
 ## Statutory framework
 
-- **European Convention on Human Rights 1950 (Council of Europe Treaty Series No. 5)** — European Convention on Human Rights (1950) — <https://www.echr.coe.int/>
+- **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) 1950 (Council of Europe Treaty Series No. 5)** — European Convention on Human Rights (1950) — <https://www.echr.coe.int/>
   - Convention for the Protection of Human Rights and Fundamental Freedoms signed 4 November 1950 effective 3 September 1953 — foundational multi-state human-rights framework.
 - **[ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (Right to respect for private and family life)** — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (1950) — <https://www.echr.coe.int/>
   - Foundational ECHR Article establishing right to respect for private and family life, home and correspondence — primary family-law human-rights provision.
@@ -95,6 +95,8 @@ ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' de
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

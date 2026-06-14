@@ -7,7 +7,7 @@ A structural synthesis of evaluator-quality regulatory mechanisms governing expe
 Between 2018 and 2026, multiple jurisdictions independently developed regulatory mechanisms to address evaluator-quality concerns in PA-adjacent expert assessment. The pattern is structurally significant: similar concerns about under-credentialed evaluators producing influential family-court reports surfaced across common-law and civil-law jurisdictions, with each developing distinct regulatory routes.
 
 ### 1. England and Wales — Re Y [2026] EWFC 38 (apex case-law route)
-**Sir Andrew McFarlane P, 20 February 2026.** UK-wide evaluator-quality apex authority. McFarlane P held that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the [BPS](https://www.bps.org.uk/).' [HCPC](https://www.hcpc-uk.org/)-registration kitemark for PA evaluators flows UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework under Health and Social Care Act 2008. Operationalises against the principal exemplar — Melanie Gill (excluded UK practitioner; not HCPC-registered; not [BPS](https://www.bps.org.uk/)-chartered). Re Y findings set aside on the basis of her assessment.
+**Sir Andrew McFarlane P, 20 February 2026.** UK-wide evaluator-quality apex authority. McFarlane P held that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the [BPS](https://www.bps.org.uk/).' [HCPC](https://www.hcpc-uk.org/)-registration kitemark for PA evaluators flows UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework under Health and Social Care Act 2008. Operationalises against the principal exemplar — Melanie Gill (excluded UK practitioner; not [HCPC](https://www.hcpc-uk.org/)-registered; not [BPS](https://www.bps.org.uk/)-chartered). Re Y findings set aside on the basis of her assessment.
 
 The English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) constitutes the principal apex case-law evaluator-quality development. Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
 
@@ -76,7 +76,7 @@ Mature statutory regulators (UK HCPC + AU AHPRA + SA HPCSA + US state boards) su
 
 ### 8. The Melanie Gill / Randy Rand parallel
 Cross-jurisdictionally, evaluator-quality concerns operationalise around specific named exclusion exemplars:
-- **UK / E&W** — Melanie Gill (not HCPC-registered, not BPS-chartered, Re Y findings set aside).
+- **UK / E&W** — Melanie Gill (not HCPC-registered, not [BPS](https://www.bps.org.uk/)-chartered, Re Y findings set aside).
 - **USA / California** — Randy Rand EdD (CA Board of Psychology license inactive since 2009 following disciplinary action; [Family Bridges](https://warshak.com/family-bridges/) programme operates as 'educational workshop' outside CABOP oversight).
 - **Germany** — Reinhart Wolff (excluded for safeguarding reasons).
 
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

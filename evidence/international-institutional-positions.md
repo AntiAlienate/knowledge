@@ -49,7 +49,7 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 
 ### Silent or middle (no formal published position)
 - **USA** — APA Resolution on Male Violence (1996) + APA 2019 Resolution on Maltreatment of Children + [AACAP](https://www.aacap.org/) Practice Parameter 2011: recognise relational distress + child-maltreatment frameworks but DO NOT endorse PA as stand-alone diagnostic entity. [DSM-5-TR](https://www.appi.org/products/dsm) retains CAPRD V995.51 / Z62.898 as relational V/Z-code (not diagnosis-of-child).
-- **United Kingdom** — Royal College of Psychiatrists + [BPS](https://www.bps.org.uk/): [ICD-11](https://icd.who.int/) caregiver-child relationship problem (QE52.0) coding available without committing to PA position. HCPC: no PA-specific code-of-conduct guidance but Re Y [2026] EWFC 38 HCPC-registration kitemark applies UK-wide.
+- **United Kingdom** — Royal College of Psychiatrists + [BPS](https://www.bps.org.uk/): [ICD-11](https://icd.who.int/) caregiver-child relationship problem (QE52.0) coding available without committing to PA position. [HCPC](https://www.hcpc-uk.org/): no PA-specific code-of-conduct guidance but Re Y [2026] EWFC 38 HCPC-registration kitemark applies UK-wide.
 - **Netherlands** — NIP + NVvP institutionally silent. Positional weight in three documents (NJI Richtlijn 2020 + Expertteam 2021 + Kinderombudsman KOM003/2014) — not in associations.
 - **Germany** — DJI 2023 institutional review + BÄK (Bundesärztekammer) periodic positions; no apex regulator endorsement of PAS construct.
 - **Australia** — AHPRA + Psychology Board of Australia silent. [AFCC](https://www.afccnet.org/) Model Standards 2006/2022 (international) function as de facto practice standard.
@@ -80,6 +80,8 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/international-institutional-positions.md*
+
+
 
 
 

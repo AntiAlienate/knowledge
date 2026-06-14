@@ -123,7 +123,7 @@ Brazil's clinical-psychology terrain is **uniquely polarised** in 2026. The **CF
   - *Se-pa-ran-do: um estudo sobre a atuação do psicólogo nas Varas de Família* (Relume-Dumará / UERJ, 1993)
   - *Temas de Psicologia Jurídica* (2002, 2ª ed.)
   - 1,700+ [Google Scholar](https://scholar.google.com/) citations on psicologia jurídica + escuta de crianças
-- **Primary contact:** UERJ Instituto de Psicologia (retired faculty channel); via Escavador / Google Scholar messaging
+- **Primary contact:** UERJ Instituto de Psicologia (retired faculty channel); via Escavador / [Google Scholar](https://scholar.google.com/) messaging
 - **Tier:** 1
 - **Hook:** The single most-cited Brazilian psicóloga jurídica academic on the critique side of Lei 12.318/2010; her 2010 SciELO paper is the canonical Portuguese-language scholarly source on why Gardner does not transplant to Brazil. The natural critique-camp counterpart to Calçada / Glicia Brazil.
 
@@ -172,7 +172,7 @@ Brazil's clinical-psychology terrain is **uniquely polarised** in 2026. The **CF
 
 ## Mexico
 
-Mexico's PA-clinical landscape is **sparse but polarised**: SCJN's 2021 *Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia* and Acción de Inconstitucionalidad 11/2016 (Oaxaca) frame the doctrinal critique anchor; the recognition camp is concentrated in **GARI-PA / PASG-Hispanic** under Mendoza-Amaro. There is no Mexican equivalent of CFP NT 4/2022.
+Mexico's PA-clinical landscape is **sparse but polarised**: SCJN's 2021 *Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia* and Acción de Inconstitucionalidad 11/2016 (Oaxaca) frame the doctrinal critique anchor; the recognition camp is concentrated in **GARI-PA / [PASG](https://pasg.info/)-Hispanic** under Mendoza-Amaro. There is no Mexican equivalent of CFP NT 4/2022.
 
 ### 1. Dr Alejandro Mendoza-Amaro, MD PhD
 - **Country / city:** MX / Morelia, Michoacán (Xengua 106, Col. Bosque Camelinas, C.P. 58290)
@@ -442,6 +442,8 @@ Chile has **no institutional doctrinal anchor on PA** — alienación parental i
 15. **Vania Apablaza** (CL) — name not retrievable; not publicly confirmed.
 16. **Corporación Humanas** (CL) — no PA-specific institutional position publicly retrievable.
 17. **Programa SENAME / mejor niñez** (CL) — no PA-specific institutional doctrine; Chile has no institutional clinical engagement on PA.
+
+
 
 
 

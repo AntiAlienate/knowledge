@@ -19,7 +19,7 @@ South Africa is a mixed Roman-Dutch / common-law jurisdiction whose family-law a
   - Enumerated best-interests factor list (a)-(n) including the nature of the personal relationship between the child and parents (s.7(1)(a)), the attitude of each parent (s.7(1)(c)), the capacity of parents to provide for the child's needs (s.7(1)(d)), the likely effect of any change of circumstances on the child (s.7(1)(e)), and protection from physical or psychological harm (s.7(1)(l)). The s.7(1)(c) attitude factor is the substantive hook engaged in TLD v BG when assessing alienating parental conduct.
 - **Constitution of South Africa s.28(2)** — Constitution of South Africa 1996 s.28 — children's rights paramountcy (1996) — <https://www.gov.za/documents/constitution-republic-south-africa-1996>
   - Bill of Rights s.28(2): 'A child's best interests are of paramount importance in every matter concerning the child.' Constitutional paramountcy principle that the Children's Act 38/2005 operationalises. All SA family-court PA reasoning ultimately anchors on this constitutional standard.
-- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 70/1979** — Divorce Act 70/1979 — substantive divorce statute (1979) — <https://www.gov.za/documents/divorce-act>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 70/1979** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 70/1979 — substantive divorce statute (1979) — <https://www.gov.za/documents/divorce-act>
   - Statutory framework for divorce including patrimonial consequences and arrangements regarding minor children (s.6). s.6(1) requires the court to satisfy itself that the arrangements for any minor child are satisfactory or the best that can be effected in the circumstances — substantive hook for SA family-law engagement with PA-adjacent care / contact arrangements at divorce.
 - **Maintenance Act 99/1998** — Maintenance Act 99/1998 — child and spousal maintenance (1998) — <https://www.gov.za/documents/maintenance-act>
   - Procedural and substantive framework for maintenance orders. PA-adjacent fact-patterns frequently surface in maintenance proceedings where contact obstruction intersects with maintenance enforcement disputes.
@@ -122,6 +122,8 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

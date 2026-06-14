@@ -88,7 +88,7 @@ Sole custody of all three daughters granted to the father (A.L.) effective 16 Ja
 ## Sources
 
 1. **L. (A.G.) v. D. (K.B.), 93 O.R. (3d) 409 (Ont. S.C.J.) — CTDJ Canadian Trial-Decisions Jurisprudence case page (verbatim McWatt J judgment extracts)** — <https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/> (Centre for the Treatment of Domestic Violence / Canadian trial-decisions jurisprudence database) [en] — accessed 2026-05-30
-2. **CanLII — Ontario Superior Court of Justice decisions index (L.(A.G.) v. D.(K.B.) 2009 CanLII 943)** — <https://www.canlii.org/en/on/onsc/> (Canadian Legal Information Institute (CanLII)) [en] — accessed 2026-05-30
+2. **[CanLII](https://www.canlii.org/) — Ontario Superior Court of Justice decisions index (L.(A.G.) v. D.(K.B.) 2009 CanLII 943)** — <https://www.canlii.org/en/on/onsc/> (Canadian Legal Information Institute (CanLII)) [en] — accessed 2026-05-30
 3. **Kirk Makin, 'Courts can rescue kids from an alienating parent,' The Globe and Mail, 26 January 2009** — <https://www.theglobeandmail.com/life/courts-can-rescue-kids-from-an-alienating-parent/article1343343/> (The Globe and Mail) [en] — accessed 2026-05-30
 4. **Canadian Children's Rights Council — case summary of L.(A.G.) v D.(K.B.) (mother loses custody — enforcement of parenting time / access)** — <https://canadiancrc.com/PARENTAL-ALIENATION-MOTHER-LOSES-CUSTODY-ENFORCEMENT-COURT-ORDERED-PARENTING-TIME-ACCESS-VISITATION.aspx> (Canadian Children's Rights Council) [en] — accessed 2026-05-30
 5. **Bala, Hunt et al., 'Children Resisting Contact & Parental Alienation: Strategies for Lawyers in High Conflict Parenting Cases' (2024) 2024 CanLIIDocs 921** — <https://www.canlii.org/en/commentary/doc/2024CanLIIDocs921> (CanLII Commentary) [en] — accessed 2026-05-30
@@ -113,6 +113,8 @@ Sole custody of all three daughters granted to the father (A.L.) effective 16 Ja
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

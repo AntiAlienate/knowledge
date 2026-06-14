@@ -75,7 +75,7 @@ Kuril Islands decisions are anonymised per Russian court practice using initials
 
 ## Editorial notes
 
-- Kuril Islands / Northern Territories jurisdiction sidecar — civil-law Russian-administered Sea of Okhotsk-Pacific disputed archipelago (Russian Federation Family Code 1995 + San Francisco Peace Treaty 1951 + Soviet-Japanese Joint Declaration 1956 + Russian Constitutional Amendment 2020 territorial-alienation prohibition + 2022 peace-treaty-negotiation suspension + Sakhalin Oblast three-district administrative framework + Russian Hague Convention 1980 accession 2011 with Japan-non-recognition). Only major modern territorial dispute originating in WWII Soviet occupation preventing formal peace treaty between two of world's largest economies for over 80 years + only constitutional-bar-to-territorial-alienation framework + only modern formal peace-treaty-negotiation suspension between G7-aligned and G20 economies.
+- Kuril Islands / Northern Territories jurisdiction sidecar — civil-law Russian-administered Sea of Okhotsk-Pacific disputed archipelago (Russian Federation Family Code 1995 + San Francisco Peace Treaty 1951 + Soviet-Japanese Joint Declaration 1956 + Russian Constitutional Amendment 2020 territorial-alienation prohibition + 2022 peace-treaty-negotiation suspension + Sakhalin Oblast three-district administrative framework + Russian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2011 with Japan-non-recognition). Only major modern territorial dispute originating in WWII Soviet occupation preventing formal peace treaty between two of world's largest economies for over 80 years + only constitutional-bar-to-territorial-alienation framework + only modern formal peace-treaty-negotiation suspension between G7-aligned and G20 economies.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Sea-of-Okhotsk + civil-law + Russian-administered-disputed-territory cluster + WWII-origin-disputed-territory-globally-distinctive + 80-year-no-peace-treaty + constitutional-territorial-alienation-prohibition + 1956-Joint-Declaration-Shikotan-Habomai-return-framework + 2022-peace-treaty-negotiation-suspension + Russian-Hague-2011-accession-with-Japan-non-recognition clusters within the corpus.
 
@@ -83,6 +83,8 @@ Kuril Islands decisions are anonymised per Russian court practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

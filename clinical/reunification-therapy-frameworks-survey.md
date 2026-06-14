@@ -62,7 +62,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 
 | Case Profile | Recommended Framework | Why |
 |---|---|---|
-| Severe alienation, child entrenched, court willing to transfer custody | Family Bridges | Intensive + custody-transfer combination |
+| Severe alienation, child entrenched, court willing to transfer custody | [Family Bridges](https://warshak.com/family-bridges/) | Intensive + custody-transfer combination |
 | Severe alienation, court NOT willing to transfer custody | Overcoming Barriers OR specialized outpatient | Less aggressive but still intensive |
 | Moderate alienation, both parents capable | Multi-Modal Family Intervention | Outpatient flexibility with structured framework |
 | Mild alienation, intact custody | Traditional reunification therapy | Sufficient for less-entrenched cases |
@@ -128,7 +128,7 @@ Choose a reunification framework based on:
 
 ## Sources
 
-- Warshak (Family Bridges): https://www.warshak.com/family-bridges/
+- [Warshak](https://warshak.com/family-bridges/) (Family Bridges): https://www.warshak.com/family-bridges/
 - Sullivan (Overcoming Barriers): https://www.overcomingbarriers.org/
 - Friedlander & Walters 2010 (MMFI): https://doi.org/10.1111/j.1744-1617.2010.01292.x
 - [AFCC](https://www.afccnet.org/) reunification practice guidelines: https://www.afccnet.org/
@@ -139,6 +139,8 @@ Choose a reunification framework based on:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not clinical recommendation. Selection of reunification therapy framework requires consultation with a qualified PA-informed therapist and family-law attorney familiar with the specific case dynamics. Outcomes vary substantially across cases.
+
+
 
 
 

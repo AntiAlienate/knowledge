@@ -48,7 +48,7 @@ Cocos (Keeling) Islands family-court decisions are anonymised per Federal Circui
 - Majority Sunni Muslim Cocos Malay population (~75%) is structurally distinctive globally — only state-level Australian entity with Muslim majority within the corpus.
 - Cocos Malay (Bahasa Cocos) creole language as distinct linguistic heritage is structurally distinctive.
 - UN-supervised self-determination Act 1984 with vote to integrate with Australia is structurally distinctive — only state-level entity to vote for full integration with metropolitan state in a UN-supervised self-determination process in the corpus.
-- Hague Convention 1980 applicability via Australian territorial extension reflects external-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Australian territorial extension reflects external-territory Hague jurisdiction status.
 
 ## See also
 
@@ -66,7 +66,7 @@ Cocos (Keeling) Islands family-court decisions are anonymised per Federal Circui
 
 ## Editorial notes
 
-- Cocos (Keeling) Islands jurisdiction sidecar — common-law Indian Ocean Australian external territory (Australian Family Law Act 1975 + Cocos (Keeling) Islands Act 1955 + UN 1984 self-determination + Cocos Malay majority population + Bahasa Cocos + Hague via Australian territorial extension 1987). Only majority-Muslim Australian entity globally + only state-level UN-supervised vote for full integration globally.
+- Cocos (Keeling) Islands jurisdiction sidecar — common-law Indian Ocean Australian external territory (Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + Cocos (Keeling) Islands Act 1955 + UN 1984 self-determination + Cocos Malay majority population + Bahasa Cocos + Hague via Australian territorial extension 1987). Only majority-Muslim Australian entity globally + only state-level UN-supervised vote for full integration globally.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Indian Ocean + common-law + Australian-external-territory cluster + majority-Muslim-Australia-distinctive cluster + Cocos-Malay-population-heritage + UN-supervised-vote-for-integration + Hague-via-Australian-territorial-extension clusters within the corpus.
 
@@ -74,6 +74,8 @@ Cocos (Keeling) Islands family-court decisions are anonymised per Federal Circui
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -47,7 +47,7 @@ Ecuadorian family-court decisions are anonymised per National Court practice usi
 ## Structural findings
 
 - Ecuador operates a Spanish-civil-law family-law framework drawing on Bello Civil Code (Chilean origin) heritage — places Ecuador in the Andean South American civil-law cluster with Peru, Bolivia, Colombia + Bello-Civil-Code-derivative sub-cluster.
-- Hague Convention 1980 accession 1992 places Ecuador as the earliest Latin American Hague accession within the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1992 places Ecuador as the earliest Latin American Hague accession within the corpus.
 - Constitution 2008 indigenous jurisdiction recognition aligns Ecuador with Bolivia within the indigenous-jurisdictional-pluralism cluster.
 
 ## See also
@@ -75,6 +75,8 @@ Ecuadorian family-court decisions are anonymised per National Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -57,7 +57,7 @@ Crimean decisions are anonymised per Russian court practice using initials.
 - UNGA Resolution 68/262 declaration of referendum invalidity is structurally distinctive globally — UN General Assembly explicit invalidation of territorial-status referendum.
 - ICJ Ukraine v Russian Federation (CERD) judgment 2024 is structurally distinctive globally — only apex international-court judgment finding violations against ethnic minorities by an administering state in a disputed territory.
 - Dual administration across Republic of Crimea and Federal City of Sevastopol is structurally distinctive — only Russian administration of a single disputed territory across two federal subjects.
-- Hague Convention 1980 applicability via Russian territorial extension contested by Ukraine, EU, US, and most other states is structurally distinctive — only major contemporary Hague-applicability dispute.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Russian territorial extension contested by Ukraine, EU, US, and most other states is structurally distinctive — only major contemporary Hague-applicability dispute.
 - Crimean Tatar Mejlis prohibition by Russia (2016) and ICJ CERD violation finding (2024) regarding ethnic Tatars is structurally distinctive within ethnic-minority-protection cluster.
 
 ## See also
@@ -86,6 +86,8 @@ Crimean decisions are anonymised per Russian court practice using initials.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

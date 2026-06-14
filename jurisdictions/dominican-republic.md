@@ -44,7 +44,7 @@ Dominican family-court decisions are anonymised per Supreme Court practice using
 ## Structural findings
 
 - Dominican Republic operates a French-Napoleonic-derivative civil-law family-law framework — structurally distinctive within the Caribbean cluster (where common-law dominates among Hispaniola, Cuba and Anglophone Caribbean).
-- Hague Convention 1980 accession 2004 places Dominican Republic in the Hague Caribbean cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2004 places Dominican Republic in the Hague Caribbean cluster.
 - Constitutional Court (2010) establishment is among the more recent Latin American constitutional-review-court establishments in the corpus.
 
 ## See also
@@ -71,6 +71,8 @@ Dominican family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

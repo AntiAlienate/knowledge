@@ -43,7 +43,7 @@ French Polynesian family-court decisions are anonymised per Court of Appeal prac
 
 - French Polynesia operates a French-civil-law family-law framework with substantial autonomy and customary-land (Tribunal de Terre) parallel jurisdiction — places French Polynesia in the French overseas collectivity cluster within the Pacific.
 - Statute of Autonomy (2004) is structurally distinctive within French overseas territories — substantial local-law adaptation competence.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects overseas-collectivity Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects overseas-collectivity Hague jurisdiction status.
 - Bilingual official-language framework (French + Tahitian) reflects Pacific Polynesian linguistic heritage.
 
 ## See also
@@ -69,6 +69,8 @@ French Polynesian family-court decisions are anonymised per Court of Appeal prac
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -19,7 +19,7 @@ The Brussels II ter Regulation Framework (Council Regulation (EU) 2019/1111 of 2
   - Previous EU Council Regulation of 27 November 2003 effective 1 March 2005 — predecessor to Brussels II ter.
 - **Council Regulation (EC) 1347/2000 (Original Brussels II)** — Original Brussels II Regulation (2000) — <https://eur-lex.europa.eu/>
   - First EU Council Regulation of 29 May 2000 effective 1 March 2001 establishing EU cross-border family-law framework.
-- **Hague Convention 1980 Article 11 + Brussels II ter Article 22 (integration)** — Brussels II ter — Hague Integration (2019) — <https://www.hcch.net/>
+- **[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Article 11 + Brussels II ter Article 22 (integration)** — Brussels II ter — Hague Integration (2019) — <https://www.hcch.net/>
   - Brussels II ter Article 22 establishing additional EU-specific procedural protections in Hague Convention 1980 returns including expedited 6-week return-decision timeline.
 
 ## Apex courts
@@ -85,6 +85,8 @@ Brussels II ter decisions are anonymised per CJEU and member-state court practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

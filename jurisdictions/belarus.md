@@ -44,7 +44,7 @@ Belarusian family-court decisions are anonymised per Supreme Court practice usin
 ## Structural findings
 
 - Belarus operates a post-Soviet civil-law framework — Code on Marriage and Family 1999 follows Russian Family Code 1995 codification model within the post-Soviet cluster.
-- Hague Convention 1980 accession 1998 places Belarus as among earliest post-Soviet Hague accessions within the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1998 places Belarus as among earliest post-Soviet Hague accessions within the corpus.
 - Bilingual official-language framework (Belarusian + Russian) reflects post-Soviet language-policy heritage.
 
 ## See also
@@ -71,6 +71,8 @@ Belarusian family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

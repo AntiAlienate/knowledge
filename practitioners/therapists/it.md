@@ -143,13 +143,13 @@ Roma · Lazio · LUMSA Universita di Roma; Sapienza (affiliazione di ricerca); C
 <sub>ID: `it.lubrano-lavadera-anna`</sub>
 
 ### Prof.ssa Maria Cristina Verrocchio, PhD
-*Professore Ordinario di Psicologia Clinica, Universita G. d'Annunzio Chieti-Pescara; psicologa e psicoterapeuta; membro PASG ([Parental Alienation Study Group](https://pasg.info/))*
+*Professore Ordinario di Psicologia Clinica, Universita G. d'Annunzio Chieti-Pescara; psicologa e psicoterapeuta; membro [PASG](https://pasg.info/) ([Parental Alienation Study Group](https://pasg.info/))*
 Chieti-Pescara · Abruzzo · Universita degli Studi G. d'Annunzio Chieti-Pescara, Dipartimento di Scienze Psicologiche, della Salute e del Territorio; AIPG Associazione Italiana di Psicologia Giuridica
 
 **Stance:** Voce italiana PASG-aligned ([Parental Alienation Study Group](https://pasg.info/)). Prima autrice italiana di studio empirico peer-reviewed su esiti di salute mentale in adulti che riferiscono storia di alienazione genitoriale, in coautoria con Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation): [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) 'Italian college students' recollections of parental alienation', *Children and Youth Services Review*. Co-autrice con Daniela Marchetti di *L'intervento nei casi di alienazione genitoriale*. Profilo su sito AIPG.
 
 **Publications:**
-- Italian college students' recollections of parental alienation (2013) — *Children and Youth Services Review (con A. J. L. Baker)*
+- Italian college students' recollections of parental alienation (2013) — *Children and Youth Services Review (con A. J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation))*
 - L'intervento nei casi di alienazione genitoriale (2017) — *(con D. Marchetti)* — <https://www.alienazione.genitoriale.com/lintervento-nei-casi-di-alienazione-genitoriale-maria-cristina-verrocchio-daniela-marchetti/>
 
 **Verification:**
@@ -455,6 +455,8 @@ Strasburgo (sede CoE) · Internazionale - cross-jurisdictional · Consiglio d'Eu
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

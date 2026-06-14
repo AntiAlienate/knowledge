@@ -123,7 +123,7 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 
 ## Sources
 
-1. **Lombardo c. Italie, no. 25704/11, arrêt du 29 janvier 2013 (texte intégral, en français)** — <https://hudoc.echr.coe.int/eng?i=001-116127> (European Court of Human Rights — HUDOC database) [fr] — accessed 2026-05-30
+1. **Lombardo c. Italie, no. 25704/11, arrêt du 29 janvier 2013 (texte intégral, en français)** — <https://hudoc.echr.coe.int/eng?i=001-116127> (European Court of Human Rights — [HUDOC](https://hudoc.echr.coe.int/) database) [fr] — accessed 2026-05-30
 2. **ECHR Registrar's press release no. ECHR 030 (2013), 29 January 2013 — Chamber judgments concerning Italy (including Lombardo v. Italy no. 25704/11)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-4239317-5042749&filename=003-4239317-5042749.pdf> (European Court of Human Rights — Registry) [en] — accessed 2026-05-30
 3. **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) — Article 8 (Right to respect for private and family life)** — <https://www.echr.coe.int/documents/d/echr/convention_ENG> (Council of Europe) [en] — accessed 2026-05-30
 4. **HUDOC case-law database — search interface for application no. 25704/11** — <https://hudoc.echr.coe.int/eng#{%22appno%22:[%2225704/11%22]}> (European Court of Human Rights) [en] — accessed 2026-05-30
@@ -154,6 +154,8 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

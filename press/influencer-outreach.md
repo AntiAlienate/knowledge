@@ -22,7 +22,7 @@ Use alongside [launch-copy.md](launch-copy.md) for the actual outreach copy. Per
 
 | # | Name | Primary contact | Backup | Source | Hook |
 |---|------|----------------|--------|--------|------|
-| 1 | **William Bernet, MD** (Vanderbilt; founder [PASG](https://pasg.info/)) | william.bernet@vumc.org | [PASG](https://pasg.info/) FB @ParentalAlienationStudyGroup; mail PO Box 4090, Brentwood TN 37024 | [Vanderbilt profile](https://www.vumc.org/psychiatry/person/william-bernet-md) | PASG 1,000+ members across 60+ countries; ongoing Five-Factor Model of PA diagnosis |
+| 1 | **William Bernet, MD** (Vanderbilt; founder [PASG](https://pasg.info/)) | william.bernet@vumc.org | [PASG](https://pasg.info/) FB @ParentalAlienationStudyGroup; mail PO Box 4090, Brentwood TN 37024 | [Vanderbilt profile](https://www.vumc.org/psychiatry/person/william-bernet-md) | [PASG](https://pasg.info/) 1,000+ members across 60+ countries; ongoing Five-Factor Model of PA diagnosis |
 | 2 | **Richard A. [Warshak](https://warshak.com/family-bridges/), PhD** (author *Divorce Poison*) | media@warshak.com (media); doc@warshak.com (speaking) | Phone 972-248-7700; Richardson TX | [Warshak media kit](https://r.warshak.com/media/kit.html) | [Family Bridges](https://warshak.com/family-bridges/) reunification work; 30th-anniversary *Divorce Poison* |
 | 3 | **Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), PhD** (Vincent J. Fontana Center) | DrAmyJLBaker@gmail.com | amyjlbaker@aol.com; phone (201) 321-9874 | [amyjlbaker.com](https://www.amyjlbaker.com/) | 17-Alienating-Behaviors framework; adult-children-of-PA research |
 | 4 | **Bill Eddy, LCSW, Esq.** (High Conflict Institute) | info@highconflictinstitute.com | X @HighConflict; [LinkedIn](https://www.linkedin.com/in/bill-eddy-bba98a1b/) | [highconflictinstitute.com](https://www.highconflictinstitute.com/) | BIFF Response method; *Our New World of Adult Bullies* |
@@ -173,12 +173,14 @@ AntiAlienate.com
 - **Tier 2 #16 (von Boch-Galhau)** — retired; verify before contacting practice number.
 - **Tier 3 #23 (BPM Cymru)** — closing 23 Dec 2025. Frame as legacy resource.
 - **Tier 3 — CJE (Centre for Justice in Family Law)** — name unverified earlier; possibly Transparency Project, CFLP, or Family Justice Council confusion. Re-confirm before pitching.
-- **Tier 1 #6–7 (Kelly, Johnston)** — no direct public emails verified; consider going through Family Court Review editorial board or AFCC.
+- **Tier 1 #6–7 (Kelly, Johnston)** — no direct public emails verified; consider going through Family Court Review editorial board or [AFCC](https://www.afccnet.org/).
 - **No emails were invented.** Where a contact form is the only public path, it's stated explicitly.
 
 ---
 
 *Verified 2026-05-25. Re-verify before any outreach more than 3 months later — academic emails change with moves, org contacts change with restructures.*
+
+
 
 
 

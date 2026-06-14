@@ -80,7 +80,7 @@ San Andrés y Providencia-related decisions are anonymised per Colombian court p
 
 ## Editorial notes
 
-- San Andrés y Providencia jurisdiction sidecar — mixed Colombian civil-law/Raizal-customary-law Caribbean Colombian-special-regime department (Colombian Civil Code 1873 + Colombian Constitution 1991 Article 310 Departamento Archipiélago + Ley 47 of 1993 OCCRE permanent-resident registration + Ley 70 of 1993 Raizal Afro-descendant Anglo-Caribbean-Creole ethnic-cultural recognition + ICJ Nicaragua v Colombia 2012 judgment + UNESCO Biosphere Reserve 2000 + Colombian Hague Convention 1980 accession 1995). Only Colombian department designated Departamento Archipiélago globally + only Colombian-Caribbean ethnic-titular recognition framework with Anglo-Caribbean-Creole identity distinct from mainland Spanish-Catholic-Hispanic Colombian framework + only Colombian internal-migration-restriction framework + only modern apex international-court judgment redrawing maritime boundary while preserving sovereign-island framework.
+- San Andrés y Providencia jurisdiction sidecar — mixed Colombian civil-law/Raizal-customary-law Caribbean Colombian-special-regime department (Colombian Civil Code 1873 + Colombian Constitution 1991 Article 310 Departamento Archipiélago + Ley 47 of 1993 OCCRE permanent-resident registration + Ley 70 of 1993 Raizal Afro-descendant Anglo-Caribbean-Creole ethnic-cultural recognition + ICJ Nicaragua v Colombia 2012 judgment + UNESCO Biosphere Reserve 2000 + Colombian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1995). Only Colombian department designated Departamento Archipiélago globally + only Colombian-Caribbean ethnic-titular recognition framework with Anglo-Caribbean-Creole identity distinct from mainland Spanish-Catholic-Hispanic Colombian framework + only Colombian internal-migration-restriction framework + only modern apex international-court judgment redrawing maritime boundary while preserving sovereign-island framework.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Caribbean + mixed Colombian-civil-law/Raizal-customary-law + Colombian-special-regime-department cluster + Departamento-Archipiélago-globally-distinctive + Raizal-Afro-descendant-Anglo-Caribbean-Creole-ethnic-titular-recognition + OCCRE-permanent-resident-registration-internal-migration-restriction + ICJ-Nicaragua-v-Colombia-2012-maritime-boundary-redrawing + Esguerra-Bárcenas-Treaty-1928 + UNESCO-Old-Providence-McBean-Lagoon-Biosphere clusters within the corpus.
 
@@ -88,6 +88,8 @@ San Andrés y Providencia-related decisions are anonymised per Colombian court p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

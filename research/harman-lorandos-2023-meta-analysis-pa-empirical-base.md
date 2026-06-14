@@ -42,7 +42,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
   - Substance use disorders
   - Romantic-relationship dysfunction
   - Lower self-esteem
-- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Brassard 2013, Baker & Verrocchio 2016, Verrocchio 2019, Bentley & Matthewson 2020 longitudinal data
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Brassard 2013, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio 2016, Verrocchio 2019, Bentley & Matthewson 2020 longitudinal data
 
 ### 3. Inter-rater reliability
 
@@ -70,11 +70,11 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 
 ## Key co-cited works
 
-- Bernet, W. (2018) *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and ICD-11*. CRC Press
+- Bernet, W. (2018) *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*. CRC Press
 - Baker, A.J.L., & Sauber, S.R. (Eds.) (2013) *Working With Alienated Children and Families*. Routledge
 - Harman, J.J., Kruk, E., & Hines, D. (2018) *Parental alienating behaviors: An unacknowledged form of family violence*. Psychological Bulletin, 144(12), 1275-1299
 - Lorandos, D., & Bernet, W. (Eds.) (2020) *Parental Alienation — Science and Law*. Charles C. Thomas
-- [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J.R., Fidler, B.J., & Bala, N. (2016) *Empirical studies of alienation*. In Drozd, Saini, Olesen (Eds.), *Parenting Plan Evaluations* (2nd ed.)
+- [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J.R., Fidler, B.J., & Bala, N. (2016) *Empirical studies of alienation*. In Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Olesen (Eds.), *Parenting Plan Evaluations* (2nd ed.)
 
 ## Citing posts
 
@@ -93,6 +93,8 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified family-law professional for case-specific guidance.*
+
+
 
 
 

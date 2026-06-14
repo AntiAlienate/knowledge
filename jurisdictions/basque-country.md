@@ -78,7 +78,7 @@ Basque family-court decisions are anonymised per Basque court practice using ini
 
 ## Editorial notes
 
-- Basque Country jurisdiction sidecar — civil-law Northern Iberian Spanish autonomous community with own Basque foral civil-law jurisdiction (Basque Civil Law Act 2015 + Statute of Autonomy 1979 + Concierto Económico 1981 + Spanish Constitution Article 149.1.8 + First Additional Provision + Ley Confirmatoria de los Fueros 1839 + ETA dissolution 2018 + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with own Foral Civil Law tradition preserved continuously from medieval times globally + only EU subnational with full fiscal autonomy + most recent EU subnational civil-code recodification + Foral succession framework with distinct Historical Territory variations + modern major EU subnational armed-conflict-to-post-conflict transition.
+- Basque Country jurisdiction sidecar — civil-law Northern Iberian Spanish autonomous community with own Basque foral civil-law jurisdiction (Basque Civil Law Act 2015 + Statute of Autonomy 1979 + Concierto Económico 1981 + Spanish Constitution Article 149.1.8 + First Additional Provision + Ley Confirmatoria de los Fueros 1839 + ETA dissolution 2018 + Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987). Only EU member-state subnational with own Foral Civil Law tradition preserved continuously from medieval times globally + only EU subnational with full fiscal autonomy + most recent EU subnational civil-code recodification + Foral succession framework with distinct Historical Territory variations + modern major EU subnational armed-conflict-to-post-conflict transition.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Northern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + Foral-Civil-Law-tradition-continuous-from-medieval-times-globally-distinctive + Concierto-Económico-full-fiscal-autonomy + Basque-Civil-Law-Act-2015-recent-recodification + troncalidad-Bizkaia-freedom-of-testation-Álava-Gipuzkoa-succession-variations + ETA-dissolution-2018-post-conflict + Spanish-Constitution-First-Additional-Provision-Foral-rights clusters within the corpus.
 
@@ -86,6 +86,8 @@ Basque family-court decisions are anonymised per Basque court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

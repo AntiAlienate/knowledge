@@ -47,7 +47,7 @@ Pakistani family-court decisions are anonymised per Supreme Court practice using
 
 - Pakistan operates a mixed-legal-system framework — English common-law procedural inheritance + Muslim personal-law substantive heritage + Federal Shariat Court parallel jurisdiction over Islamic conformity of laws. Within the corpus's mixed-jurisdiction cluster.
 - Federal Shariat Court parallel jurisdiction is structurally distinctive — provides Islamic-conformity review of statutes alongside ordinary constitutional review by the Supreme Court.
-- Hague Convention 1980 accession 2017 places Pakistan in the Hague cluster — relatively recent accession.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2017 places Pakistan in the Hague cluster — relatively recent accession.
 - Psychology profession regulation operates through provincial Healthcare Commissions + PPA peak-body ethics — lacks unified federal-statutory psychology regulator.
 
 ## See also
@@ -72,6 +72,8 @@ Pakistani family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -44,7 +44,7 @@ Montserratian family-court decisions are anonymised per ECSC practice using init
 - Montserrat operates a common-law framework with British Overseas Territory status — places Montserrat in the Caribbean BOT cluster.
 - Eastern Caribbean Supreme Court appellate jurisdiction (OECS-shared) places Montserrat in the OECS-shared-judicial-system BOT cluster alongside BVI and Anguilla.
 - Post-1995 volcanic-eruption displacement is structurally distinctive — only state in corpus with capital relocation due to natural disaster.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -69,6 +69,8 @@ Montserratian family-court decisions are anonymised per ECSC practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

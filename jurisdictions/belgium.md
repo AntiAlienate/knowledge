@@ -13,7 +13,7 @@ Belgium is a federal civil-law jurisdiction structurally shaped by its community
 
 ## Statutory framework
 
-- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 374-374ter** — Code civil — autorité parentale et droit aux relations personnelles (1995) — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
+- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 374-374ter** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — autorité parentale et droit aux relations personnelles (1995) — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
   - Federal substantive frame for parental authority (art. 374 — exercice conjoint principe) and right of personal relations (art. 374bis — droit de l'enfant aux relations personnelles avec ses ascendants et grands-parents). The substantive Belgian hook for residence (hébergement) and contact disputes at Tribunal de la famille.
 - **Code civil art. 387ter** — Code civil — inexécution des décisions relatives à l'hébergement (2007) — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
   - Provides remedies (astreinte, désignation provisoire d'un tiers, droit aux relations modifiées) where a parent refuses to execute a custody/contact order. The provision directly cited in Cass. 6 mars 2025 C.24.0157.F (the most recent Cour de cassation arrêt addressing PA-adjacent contact-frustration cases without addressing the construct's scientific validity).
@@ -128,6 +128,8 @@ Belgian Cour de cassation and Cours d'appel anonymise minor children consistentl
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

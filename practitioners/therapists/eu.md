@@ -24,7 +24,7 @@
 
 **Cross-references to other antialienate-knowledge directories:**
 - **Wilfrid von Boch-Galhau, MD** (Germany), **Asunción Tejedor Huerta, PhD** (Spain) and **Sietske Dijkstra, PhD** (Netherlands) already have full entries in `/influencers/`. Practitioner-level operational detail (current practice address, regulatory status, recent activity) is added here; they remain primary entries in the influencer set.
-- US-based PASG core (William Bernet, Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Richard [Warshak](https://warshak.com/family-bridges/), Linda [Gottlieb](https://turningpointsforfamilies.com/)) — full entries in `/practitioners-us-therapists.md`. Verrocchio (IT) and Tejedor (ES) are the principal European co-authors with [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet.
+- US-based [PASG](https://pasg.info/) core (William Bernet, Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Richard [Warshak](https://warshak.com/family-bridges/), Linda [Gottlieb](https://turningpointsforfamilies.com/)) — full entries in `/practitioners-us-therapists.md`. Verrocchio (IT) and Tejedor (ES) are the principal European co-authors with [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet.
 - Canada — Hubert Van Gijseghem (PhD, Université de Montréal, ret.) is Belgian-born / Quebec-practising; full entry is held in `/practitioners-ca-therapists.md` (cross-listed at end of FR section for completeness because his French-language publications form much of the francophone recognition literature).
 
 ---
@@ -317,7 +317,7 @@
 - **Practice URL:** University profile https://www.unich.it/ugov/person/3340 (institutional); LinkedIn https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/ ; AIPG https://aipgitalia.org/teams/maria-cristina-verrocchio/ ; alienazione.genitoriale.com archive https://www.alienazioneparentale.it/intervista-a-maria-cristina-verrocchio/2015/10/
 - **Regulatory body:** **Ordine degli Psicologi della Regione Abruzzo** (Sez. A psicologa-psicoterapeuta)
 - **Registration number:** **not publicly displayed**
-- **Specialty:** Clinical psychology; forensic clinical psychology; **parental alienation as psychological child abuse** in the Baker / Bernet framework; long-term mental-health outcomes of PA
+- **Specialty:** Clinical psychology; forensic clinical psychology; **parental alienation as psychological child abuse** in the [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet framework; long-term mental-health outcomes of PA
 - **Stance:** recognition
 - **Stance source:** Baker & Verrocchio (2013) *Italian college students' recollections of parental alienation: A retrospective study*, *Children and Youth Services Review* / related Chieti-sample paper — Italian summary http://www.alienazione.genitoriale.com/studi-empirici-sullalienazione-parentale-in-italia-maria-cristina-verrocchio-universita-di-chieti/ ; Verrocchio & Marchetti, *L'intervento nei casi di alienazione genitoriale* https://www.alienazione.genitoriale.com/lintervento-nei-casi-di-alienazione-genitoriale-maria-cristina-verrocchio-daniela-marchetti/ ; AIPG profile https://aipgitalia.org/teams/maria-cristina-verrocchio/ ; PASG membership cited in Italian press
 - **Programs / publications:**
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

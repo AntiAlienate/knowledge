@@ -47,7 +47,7 @@ Christmas Island family-court decisions are anonymised per Federal Circuit and F
 - Chinese-majority population (~70%) is structurally distinctive globally — only state-level Australian entity with Chinese majority within the corpus.
 - Multi-ethnic Chinese + Malay Muslim + European Australian population composition is structurally distinctive — most ethnically-pluralistic Australian external territory.
 - Transfer from Singapore administration to Australia 1958 is structurally distinctive transferred-territory heritage.
-- Hague Convention 1980 applicability via Australian territorial extension reflects external-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Australian territorial extension reflects external-territory Hague jurisdiction status.
 
 ## See also
 
@@ -65,7 +65,7 @@ Christmas Island family-court decisions are anonymised per Federal Circuit and F
 
 ## Editorial notes
 
-- Christmas Island jurisdiction sidecar — common-law Indian Ocean Australian external territory (Australian Family Law Act 1975 + Christmas Island Act 1958 + Chinese-majority population + multi-ethnic Chinese/Malay/European composition + Hague via Australian territorial extension 1987). Only Chinese-majority Australian entity globally.
+- Christmas Island jurisdiction sidecar — common-law Indian Ocean Australian external territory (Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + Christmas Island Act 1958 + Chinese-majority population + multi-ethnic Chinese/Malay/European composition + Hague via Australian territorial extension 1987). Only Chinese-majority Australian entity globally.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Indian Ocean + common-law + Australian-external-territory cluster + Chinese-majority-Australia-distinctive cluster + multi-ethnic-composition + transferred-from-Singapore + Hague-via-Australian-territorial-extension clusters within the corpus.
 
@@ -73,6 +73,8 @@ Christmas Island family-court decisions are anonymised per Federal Circuit and F
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

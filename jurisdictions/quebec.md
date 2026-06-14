@@ -56,7 +56,7 @@ Quebec family-court decisions are anonymised per Quebec court practice using ini
 - Only Canadian province operating its own complete Civil Code is structurally distinctive within Canadian provincial cluster.
 - CCQ 1994 is the only modern major civil-code recodification in North America is structurally distinctive globally.
 - Quebec Act 1774 constitutional protection of French civil-law tradition within British/Canadian common-law federal framework is structurally distinctive globally — only major historical compromise preserving civil-law jurisdiction within common-law federal system.
-- Canadian Hague Convention 1980 accession 1983 + Quebec Implementation Statute 1985 + federal An Act to Implement Hague 1985 framework binding on Quebec civil-law family courts is structurally distinctive — civil-law jurisdiction subject to federally-binding common-law-tradition-implementation framework.
+- Canadian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983 + Quebec Implementation Statute 1985 + federal An Act to Implement Hague 1985 framework binding on Quebec civil-law family courts is structurally distinctive — civil-law jurisdiction subject to federally-binding common-law-tradition-implementation framework.
 
 ## See also
 
@@ -83,6 +83,8 @@ Quebec family-court decisions are anonymised per Quebec court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

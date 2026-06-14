@@ -46,7 +46,7 @@ Western Sahara family-court decisions are anonymised per relevant court practice
 
 - Western Sahara is structurally distinctive globally within the corpus as the only remaining UN-listed non-self-governing territory pending decolonisation in Africa.
 - Dual legal-system administration (Moroccan + SADR) within a single UN-recognised territory is structurally distinctive globally — only state in the corpus with concurrent dual-administration legal frameworks.
-- Hague Convention 1980 applicability is split — Morocco's accession covers Moroccan-administered area; SADR Free Zone is non-Hague. Structurally distinctive split-Hague-applicability status within a single territory.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability is split — Morocco's accession covers Moroccan-administered area; SADR Free Zone is non-Hague. Structurally distinctive split-Hague-applicability status within a single territory.
 - SADR recognition by 47 UN member states + African Union but not UN seat itself is structurally distinctive partial-recognition status.
 
 ## See also
@@ -74,6 +74,8 @@ Western Sahara family-court decisions are anonymised per relevant court practice
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

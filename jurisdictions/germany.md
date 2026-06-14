@@ -15,7 +15,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 - **[BGB](https://www.gesetze-im-internet.de/bgb/) § 1684** — Umgang des Kindes mit den Eltern (Right of contact between child and parents) (1979) — <https://www.gesetze-im-internet.de/bgb/__1684.html>
   - Primary statutory basis for contact/Umgangsrecht; used as the hook by recognition-camp practitioners to plead PA, and by critique-camp courts to refuse PA-labelled enforcement where Kindeswohl is contraindicated.
-- **BGB § 1696** — Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche (Modification of court decisions) (1998) — <https://www.gesetze-im-internet.de/bgb/__1696.html>
+- **[BGB](https://www.gesetze-im-internet.de/bgb/) § 1696** — Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche (Modification of court decisions) (1998) — <https://www.gesetze-im-internet.de/bgb/__1696.html>
   - Schwellenwert ('triftige, das Wohl des Kindes nachhaltig berührende Gründe') for modifying custody/contact orders; central in PA-adjacent transfer-of-residence disputes.
 - **FamFG §§ 155, 156, 158, 159, 163** — Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit (2009) — <https://www.gesetze-im-internet.de/famfg/>
   - Procedural code for family courts; § 155 Vorrang- und Beschleunigungsgebot, § 158 Verfahrensbeistand, § 163 Sachverständigengutachten (basis for the BRAK/DFGT Mindestanforderungen 3. Aufl. 2025 quality-standard regime for psychological reports).
@@ -165,6 +165,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -192,9 +194,9 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ## Related on antialienate.com
 
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 
 <!-- AA-CROSSLINK-END -->

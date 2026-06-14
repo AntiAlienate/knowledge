@@ -52,7 +52,7 @@ Italy violated Article 8 of the Convention. Under the Court's settled positive-o
 
 ## Outcome
 
-Violation of Article 8 ECHR found. Just satisfaction (Article 41): EUR 3,000 awarded for non-pecuniary damage; EUR 12,000 for costs and expenses. Judgment became final under Article 44 § 2 of the Convention shortly after delivery on 4 May 2017.
+Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) found. Just satisfaction (Article 41): EUR 3,000 awarded for non-pecuniary damage; EUR 12,000 for costs and expenses. Judgment became final under Article 44 § 2 of the Convention shortly after delivery on 4 May 2017.
 
 ## Comparative jurisprudence
 
@@ -96,7 +96,7 @@ Violation of Article 8 ECHR found. Just satisfaction (Article 41): EUR 3,000 awa
 
 ## Editorial notes
 
-- The HUDOC primary judgment text was identified by application number 66396/14 and date 4 May 2017; the source MD did not extract the full seven-judge bench composition. Readers should consult HUDOC directly for the complete panel list.
+- The [HUDOC](https://hudoc.echr.coe.int/) primary judgment text was identified by application number 66396/14 and date 4 May 2017; the source MD did not extract the full seven-judge bench composition. Readers should consult HUDOC directly for the complete panel list.
 - The Court-appointed CTU (consulente tecnico d'ufficio) whose 15-month expert report was central to the Article 8 analysis is not individually named on the source page; the experts entry records the institutional role only.
 - The verbatim Italian quotation 'il decorso del tempo può avere conseguenze irrimediabili sulle relazioni tra la bambina e il padre' is reproduced from contemporaneous Italian commentary (Castellaneta) translating the Court's standard formulation; researchers using the quote should cross-check against the official French and English texts of the judgment on HUDOC.
 - The judgment does NOT use the term 'parental alienation' or endorse any particular psychological framework. Its purchase for parental-alienation advocacy lies in the positive-obligations doctrine: that delay and institutional passivity in the face of a resident parent's unilateral restriction of contact can themselves constitute an Article 8 violation.
@@ -108,6 +108,8 @@ Violation of Article 8 ECHR found. Just satisfaction (Article 41): EUR 3,000 awa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

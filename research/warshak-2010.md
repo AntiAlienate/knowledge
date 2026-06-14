@@ -27,7 +27,7 @@ location_tags: [united-states, international, family-court-review, warshak, fami
 
 ## Citation
 
-> Warshak, R. A. (2010). Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children. *Family Court Review*, 48(1), 48-80. https://doi.org/10.1111/j.1744-1617.2009.01288.x
+> [Warshak](https://warshak.com/family-bridges/), R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/): Using Insights from Social Science to Reconnect Parents and Alienated Children. *Family Court Review*, 48(1), 48-80. https://doi.org/10.1111/j.1744-1617.2009.01288.x
 
 ## Core protocol — Family Bridges (4-day workshop)
 
@@ -90,6 +90,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

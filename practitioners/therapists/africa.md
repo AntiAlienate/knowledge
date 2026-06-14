@@ -102,8 +102,8 @@ George · Western Cape (Garden Route, Heather Park) · Independent counselling p
 
 **Publications:**
 - Father's expert of record in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (2023) — *Gauteng Local Division Johannesburg (Adams J); SAFLII* — <https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html>
-- Family Bridges Program-trained reunification work (USA training April 2014) (2014) — *Family Bridges Program / [Warshak](https://warshak.com/family-bridges/) et al.*
-- PASG SA chapter pioneer (inclusion March 2015) (2015) — *Parental Alienation Study Group*
+- [Family Bridges](https://warshak.com/family-bridges/) Program-trained reunification work (USA training April 2014) (2014) — *Family Bridges Program / [Warshak](https://warshak.com/family-bridges/) et al.*
+- [PASG](https://pasg.info/) SA chapter pioneer (inclusion March 2015) (2015) — *[Parental Alienation Study Group](https://pasg.info/)*
 - Acacia Training PA speaker materials (2018) — *Acacia Training* — <https://training.acaciatraining.co.za/speaker/christie-els-652513>
 - Els v Health Professionals Council of SA and Others (5845/2022) [2022] ZAWCHC 106 (30 May 2022) (2022) — *Western Cape High Court; SAFLII* — <https://www.saflii.org/za/cases/ZAWCHC/2022/106.html>
 
@@ -534,6 +534,8 @@ Federal (national) · Nigeria national · NACP — national professional associa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

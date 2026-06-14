@@ -41,7 +41,7 @@ Paraguayan family-court decisions are anonymised per Supreme Court practice usin
 
 - Paraguay operates a Spanish-civil-law family-law framework drawing on Argentine Vélez Sarsfield Code heritage — places Paraguay in the Southern Cone civil-law cluster with Argentina, Uruguay, Brazil.
 - Bilingual Spanish-Guarani official-language framework is structurally distinctive within Latin America in the corpus.
-- Hague Convention 1980 accession 1998 places Paraguay in the Hague Latin American cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1998 places Paraguay in the Hague Latin American cluster.
 
 ## See also
 
@@ -66,6 +66,8 @@ Paraguayan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

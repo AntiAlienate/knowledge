@@ -29,7 +29,7 @@ Appeal under FPR 2010 against the order of HH Judge Lindsay Davies (Family Court
 
 ## Experts
 
-- **Ms A** — Self-described psychologist; not a Practitioner Psychologist registered with the HCPC under any of the seven protected titles; not a Chartered Member of the BPS; jointly instructed to undertake an assessment of the family in PA-framed private-law CA 1989 proceedings. Identity anonymised by the Court of Appeal as 'Ms A' on the face of the published judgment (paras 3, 7-8 and following). The order originally — and erroneously — referred to her as 'Dr A' (para 7). (instructed by jointly by all parties pursuant to the recorder's order of 25 March 2020 (FPR 2010, Part 25))
+- **Ms A** — Self-described psychologist; not a Practitioner Psychologist registered with the [HCPC](https://www.hcpc-uk.org/) under any of the seven protected titles; not a Chartered Member of the [BPS](https://www.bps.org.uk/); jointly instructed to undertake an assessment of the family in PA-framed private-law CA 1989 proceedings. Identity anonymised by the Court of Appeal as 'Ms A' on the face of the published judgment (paras 3, 7-8 and following). The order originally — and erroneously — referred to her as 'Dr A' (para 7). (instructed by jointly by all parties pursuant to the recorder's order of 25 March 2020 (FPR 2010, Part 25))
 - **Professor Wang** — Clinical Psychologist; Chair of the Association of Clinical Psychologists-UK (ACP-UK); proposed by the appellant mother as a single joint expert to advise on Ms A's qualifications. The Family Court (HHJ Davies) refused leave to instruct him on 10 May 2022; that refusal was not directly appealed but its correctness was indirectly considered and upheld at paragraphs 60-63 of the President's judgment. (instructed by proposed by appellant mother under FPR 2010, Part 25; instruction refused)
 
 ## Holding
@@ -128,7 +128,7 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 - Family Justice Council (2024) — Guidance on responding to a child's unexplained reluctance, resistance or refusal to spend time with a parent and allegations of alienating behaviour (December 2024) — <https://www.judiciary.uk/guidance-and-resources/family-justice-council/>
   - FJC guidance issued in response to the referral made by Sir Andrew McFarlane P at paragraphs 99, 102 and 107 of Re C. The 2024 guidance expressly adopts the Re C [103] formulation that alienating behaviour is a question of fact for the court, not a diagnosis.
 - [Cafcass](https://www.cafcass.gov.uk/) (2023) — [Cafcass](https://www.cafcass.gov.uk/) operational guidance updates following Re C [2023] EWHC 345 (Fam) — <https://www.cafcass.gov.uk/>
-  - Cafcass safeguarding and welfare-reporting practice updates aligning the Cafcass Alienation Tool (referenced in HHJ Davies's first-instance judgment) with the Re C-FJC line on alienating behaviour as a question of fact for the court.
+  - [Cafcass](https://www.cafcass.gov.uk/) safeguarding and welfare-reporting practice updates aligning the Cafcass Alienation Tool (referenced in HHJ Davies's first-instance judgment) with the Re C-FJC line on alienating behaviour as a question of fact for the court.
 - Family Law Week (2023) — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) — case digest — <https://www.familylawweek.co.uk/judgments/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam/>
   - Practitioner-press case digest treating Re C as the leading post-PD12J authority on the use of psychology experts in PA-framed private-law proceedings.
 - 1 Garden Court (2023) — 1GC published-cases entry on Re C — <https://1gc.com/published-cases/view/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345>
@@ -166,17 +166,17 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 4. **Family Procedure Rules 2010 — Part 25 (Experts and Assessors) and Practice Directions 25A-25D (including PD25B Annex)** — <https://www.justice.gov.uk/courts/procedure-rules/family/parts/part_25> (Ministry of Justice) [en] — accessed 2026-05-30
 5. **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 6. **[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6), section 13 (control of expert evidence)** — <https://www.legislation.gov.uk/ukpga/2014/6/section/13> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
-7. **Health Professions Order 2001, article 39 (offences in connection with protected titles)** — <https://www.legislation.gov.uk/uksi/2002/254/article/39> (legislation.gov.uk) [en] — accessed 2026-05-30
+7. **Health Professions Order 2001, article 39 (offences in connection with protected titles)** — <https://www.legislation.gov.uk/uksi/2002/254/article/39> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 8. **Health and Care Professions Council — Practitioner Psychologist register search** — <https://www.hcpc-uk.org/check-the-register/> (Health and Care Professions Council) [en] — accessed 2026-05-30
 9. **British Psychological Society — Chartered Member register** — <https://www.bps.org.uk/find-psychologist> (British Psychological Society) [en] — accessed 2026-05-30
 10. **President's Memorandum: Experts in the Family Court (4 October 2021)** — <https://www.judiciary.uk/guidance-and-resources/presidents-memorandum-experts-in-the-family-court/> (President of the Family Division / Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 11. **Family Justice Council and British Psychological Society — Psychologists as Expert Witnesses in the Family Courts in England and Wales: Standards, Competencies and Expectations (May 2022, updated 2024)** — <https://www.judiciary.uk/guidance-and-resources/family-justice-council/> (Family Justice Council / British Psychological Society) [en] — accessed 2026-05-30
 12. **Association of Clinical Psychologists-UK — The Protection of the Public in the Family Courts (December 2021)** — <https://acpuk.org.uk/> (Association of Clinical Psychologists-UK) [en] — accessed 2026-05-30
 13. **Family Justice Council — Guidance on responding to a child's unexplained reluctance, resistance or refusal to spend time with a parent and allegations of alienating behaviour (December 2024)** — <https://www.judiciary.uk/guidance-and-resources/family-justice-council/> (Family Justice Council) [en] — accessed 2026-05-30
-14. **Re E (Children: Reopening Findings of Fact) [2019] EWCA Civ 1447** — <https://www.bailii.org/ew/cases/EWCA/Civ/2019/1447.html> (BAILII) [en] — accessed 2026-05-30
+14. **Re E (Children: Reopening Findings of Fact) [2019] EWCA Civ 1447** — <https://www.bailii.org/ew/cases/EWCA/Civ/2019/1447.html> ([BAILII](https://www.bailii.org/)) [en] — accessed 2026-05-30
 15. **Re B (Children Act Proceedings) (Issue Estoppel) [1997] 1 FLR 285 (Hale J)** — <https://www.lexisnexis.co.uk/legal/journals/family-law> (LexisNexis (Family Law Reports)) [en] — accessed 2026-05-30
 16. **Kennedy v Cordia (Services) LLP (Scotland) [2016] UKSC 6** — <https://www.bailii.org/uk/cases/UKSC/2016/6.html> (BAILII / UK Supreme Court) [en] — accessed 2026-05-30
-17. **Re A (A Child: Supervised Contact) (s 91(14) Children Act 1989 Orders) [2021] EWCA Civ 1749** — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/1749.html> (BAILII) [en] — accessed 2026-05-30
+17. **Re A (A Child: Supervised Contact) (s 91(14) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) Orders) [2021] EWCA Civ 1749** — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/1749.html> (BAILII) [en] — accessed 2026-05-30
 18. **Family Law Week — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) case digest** — <https://www.familylawweek.co.uk/judgments/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam/> (Family Law Week) [en] — accessed 2026-05-30
 19. **1 Garden Court Family Law — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam)** — <https://1gc.com/published-cases/view/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345> (1 Garden Court Family Law) [en] — accessed 2026-05-30
 20. **Mishcon de Reya — Re C: considering 'parental alienation' and the use of experts in Children Act proceedings** — <https://www.mishcon.com/news/re-c-considering-parental-alienation-and-the-use-of-experts-in-children-act-proceedings> (Mishcon de Reya LLP) [en] — accessed 2026-05-30
@@ -209,6 +209,8 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

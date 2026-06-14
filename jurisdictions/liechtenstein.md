@@ -45,7 +45,7 @@ Liechtenstein family-court decisions are anonymised per Supreme Court practice u
 
 - Liechtenstein operates an Austrian-ABGB-derivative civil-law family-law framework — places Liechtenstein in the German-speaking civil-law cluster with Austria and Germany within the corpus.
 - Council of Europe + ECHR membership places Liechtenstein in the ECHR-Hague intersection cluster.
-- Hague Convention 1980 accession 1998 places Liechtenstein in the Hague Central European cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1998 places Liechtenstein in the Hague Central European cluster.
 - Micro-state status (~38,000 population, ~160 km²) is structurally distinctive within the corpus.
 
 ## See also
@@ -72,6 +72,8 @@ Liechtenstein family-court decisions are anonymised per Supreme Court practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

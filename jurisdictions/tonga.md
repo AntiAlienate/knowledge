@@ -17,7 +17,7 @@ Tonga is a Pacific Island common-law constitutional monarchy whose family-law fr
   - Federal statute on family protection orders affecting family-law proceedings.
 - **Marriage Act** — Marriage Act (1926) — <https://www.judiciary.gov.to/>
   - Federal statute on marriage.
-- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/)** — Divorce Act (1927) — <https://www.judiciary.gov.to/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/)** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) (1927) — <https://www.judiciary.gov.to/>
   - Federal divorce statute.
 
 ## Apex courts
@@ -72,6 +72,8 @@ Tongan family-court decisions are anonymised per Privy Council practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -14,7 +14,7 @@
 For wrongful removal (across borders without consent):
 
 - **Hague Convention on Civil Aspects of International Child Abduction (1980)** — 100+ signatory states including all EU members
-- **ICARA (International Child Abduction Remedies Act), 22 U.S.C. § 9001-9011** — US implementing statute
+- **[ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) (International Child Abduction Remedies Act), 22 U.S.C. § 9001-9011** — US implementing statute
 - **6-week target adjudication** — return order, not custody decision
 - **5 narrow defenses** (Hague Art. 13) — most-litigated: "grave risk" (Art. 13(b))
 - **Abbott v. Abbott**, 560 U.S. 1 (2010) — confirmed ne exeat = right of custody under Hague (see [case-law/united-states/abbott-v-abbott-2010.md](../case-law/united-states/abbott-v-abbott-2010.md))
@@ -23,7 +23,7 @@ For wrongful removal (across borders without consent):
 
 ### Layer 2 — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (binding on the receiving European court)
 
-This is the layer most US lawyers miss. Even though you're a US citizen, **the foreign court is bound by ECHR Article 8**. You can cite:
+This is the layer most US lawyers miss. Even though you're a US citizen, **the foreign court is bound by [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1)**. You can cite:
 
 - *Bondavalli v Italy* (2015) — adequate measures required
 - *Strumia v Italy* (2016) — exceptional diligence standard
@@ -147,6 +147,8 @@ Educational content. **Not legal advice.** Hague matters are highly time-critica
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

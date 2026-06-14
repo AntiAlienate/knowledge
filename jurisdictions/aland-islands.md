@@ -49,7 +49,7 @@
 - Åland-specific citizenship (hembygdsrätt) required for property ownership and certain other rights is structurally distinctive globally — only state-level entity with sub-state-level citizenship distinction in the corpus.
 - 1921 League of Nations-era origin of autonomy framework is structurally distinctive — among the oldest internationally-guaranteed autonomy frameworks in the corpus.
 - Demilitarisation under 1856 Convention + 1921 Åland Convention places Åland alongside Svalbard in the demilitarised-territory cluster.
-- Hague Convention 1980 applicability via Finnish territorial extension reflects autonomous-region Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Finnish territorial extension reflects autonomous-region Hague jurisdiction status.
 
 ## See also
 
@@ -75,6 +75,8 @@
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

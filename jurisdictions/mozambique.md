@@ -44,7 +44,7 @@ Mozambican family-court decisions are anonymised per Supreme Court practice usin
 ## Structural findings
 
 - Mozambique operates a Portuguese-civil-law family-law framework — places Mozambique in the Lusophone African cluster within the Portuguese-civil-law substantive tradition (alongside Angola, Brazil, Portugal, East Timor within the corpus).
-- Recent Hague Convention 1980 accession (2022) places Mozambique in the late-acceding African Lusophone cluster.
+- Recent [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession (2022) places Mozambique in the late-acceding African Lusophone cluster.
 - Family Law 2004 + Child Promotion and Protection Law 2008 codify modernised gender-equal and child-protection provisions consistent with post-2004 Constitution.
 
 ## See also
@@ -71,6 +71,8 @@ Mozambican family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

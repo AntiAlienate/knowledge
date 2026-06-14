@@ -37,7 +37,7 @@ Falkland Islands family-court decisions are anonymised per Court of Appeal pract
 ## Key developments
 
 - **1982** — Argentine invasion and subsequent British recapture of Falkland Islands; UN Resolution affirms Falkland Islanders' right to self-determination.
-- **1986** — Hague Convention 1980 territorial extension by UK to Falkland Islands effective 1 August 1986. Argentina disputes the UK's territorial application.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Falkland Islands effective 1 August 1986. Argentina disputes the UK's territorial application.
 - **1994** — Federal Children Ordinance enacted.
 - **2013** — Falkland Islanders sovereignty referendum: 99.8% voted to remain a UK Overseas Territory.
 
@@ -71,6 +71,8 @@ Falkland Islands family-court decisions are anonymised per Court of Appeal pract
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

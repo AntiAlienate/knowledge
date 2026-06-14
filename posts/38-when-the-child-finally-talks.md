@@ -87,7 +87,7 @@ It often does. Mid-arc, the child may go silent for weeks or send a hostile mess
 
 ## Citations
 
-- Warshak, R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/). *Family Court Review*, 48(1), 48-80.
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). Family Reflections. *American Journal of Family Therapy*, 43(2), 197-207.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
@@ -98,6 +98,8 @@ Educational content. **Not clinical advice.** If you're navigating a fragile reu
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 
@@ -175,6 +177,6 @@ Educational content. **Not clinical advice.** If you're navigating a fragile reu
 - [Signs Your Child Is Being Alienated](https://www.antialienate.com/blog/signs-your-child-is-being-alienated)
 - [When Alienated Child Discovers Truth About Abuser](https://www.antialienate.com/blog/when-alienated-child-discovers-truth-about-abuser)
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [How To Talk Child Before Transitions Simple Script](https://www.antialienate.com/blog/how-to-talk-child-before-transitions-simple-script)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->

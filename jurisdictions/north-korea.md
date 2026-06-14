@@ -35,7 +35,7 @@ DPRK family-court decisions are not generally publicly available; anonymisation 
 ## Key developments
 
 - **1948** — Democratic People's Republic of Korea established; socialist-civil-law framework adopted.
-- **1990** — Federal Family Law enacted by Standing Committee of the Supreme People's Assembly; DPRK acceded to UNCRC.
+- **1990** — Federal Family Law enacted by Standing Committee of the Supreme People's Assembly; DPRK acceded to [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child).
 - **2010** — Federal Law on Children's Rights enacted aligned in part with UNCRC obligations.
 
 ## Structural findings
@@ -68,6 +68,8 @@ DPRK family-court decisions are not generally publicly available; anonymisation 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

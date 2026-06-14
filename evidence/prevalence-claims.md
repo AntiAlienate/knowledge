@@ -17,7 +17,7 @@ The honest position — supported by the pro-recognition camp's own caveats *and
 ## Table of contents
 
 1. Bernet's "740,000 children" calculation chain
-2. Harman et al. 2016 — the first representative-poll prevalence (NC, n = 610)
+2. [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2016 — the first representative-poll prevalence (NC, n = 610)
 3. Harman, Leder-Elder & Biringen 2019 — three national polls (US + Canada)
 4. Hine, Harman et al. 2025 / 2026 — UK separated-parents and 18–25 prevalence
 5. Verrocchio / Bernet / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Italian work
@@ -38,7 +38,7 @@ The honest position — supported by the pro-recognition camp's own caveats *and
 
 ### 1.1 The primary source
 
-**Citation.** Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental Alienation, DSM-V, and [ICD-11](https://icd.who.int/). *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583 — companion volume: Bernet, W. (Ed.) (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas Publisher. **[secondary verification only]** for the exact verbatim wording of the 740,000 derivation — the full [Bernet et al.](https://pasg.info/) (2010) AJFT 38(2) issue is paywalled and ResearchGate access returned HTTP 403 at compilation. The calculation as widely reported by both Bernet's collaborators and his critics is identical.
+**Citation.** Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). Parental Alienation, DSM-V, and [ICD-11](https://icd.who.int/). *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583 — companion volume: Bernet, W. (Ed.) (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas Publisher. **[secondary verification only]** for the exact verbatim wording of the 740,000 derivation — the full [Bernet et al.](https://pasg.info/) (2010) AJFT 38(2) issue is paywalled and ResearchGate access returned HTTP 403 at compilation. The calculation as widely reported by both Bernet's collaborators and his critics is identical.
 
 ### 1.2 The calculation chain
 
@@ -63,7 +63,7 @@ A **point estimate produced by multiplying three uncertain proportions**. It is 
 
 - **Each multiplier is itself an estimate** with substantial uncertainty. If each input has ±25% relative error, compounded uncertainty in the product is roughly ±50% — 740,000 could be 370,000 or 1.1 million while still being "consistent with the inputs."
 - **"High-conflict" lacks a population-level operational definition.** Johnston's 25% high-conflict figure is from clinic / court samples, not general population. Generalising to the entire divorced population overstates.
-- **"Become alienated" depends entirely on threshold.** Saini et al. 2016 (§6 below) documents that there are no validated psychometric instruments to operationally classify a child as "alienated" in a population study.
+- **"Become alienated" depends entirely on threshold.** [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016 (§6 below) documents that there are no validated psychometric instruments to operationally classify a child as "alienated" in a population study.
 - **Bernet has not, to public knowledge, updated the 740,000 figure with post-2010 US Census data.** The 2020 US child population (under 18) is ~73.1 million; recalculating with the same 1% rule yields ~731,000 — essentially unchanged, but this is *not* a recalculation that improves reliability, just a demonstration that the underlying inputs have not been re-derived.
 
 ### 1.5 The honest framing
@@ -278,7 +278,7 @@ A figure circulating in PA-critical secondary sources is "82% of 39 studies low 
 
 This is the central scholarly battle over PA in family courts. It is not strictly a prevalence dispute, but it bears on every prevalence claim that gets used in litigation.
 
-### 10.1 Meier (2019) — the original study
+### 10.1 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (2019) — the original study
 
 **Citation.** Meier, J. S. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: What do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 (and Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* — NIJ-funded report). Findings: courts that credit alienation claims discount abuse allegations; mothers alleging child abuse and PA is asserted against them lose custody at high rates.
 
@@ -324,7 +324,7 @@ The Alsalem report does **not** engage in detail with the Harman 2016 / 2019 pre
 
 ### 11.5 The institutional landscape
 
-- **WHO ICD-11 removal:** The "parental alienation" code that had appeared transiently in ICD-11 drafts was removed in February 2020; see Alsalem report and WHO ICD-11 release notes.
+- **WHO [ICD-11](https://icd.who.int/) removal:** The "parental alienation" code that had appeared transiently in ICD-11 drafts was removed in February 2020; see Alsalem report and WHO ICD-11 release notes.
 - **GREVIO (Council of Europe):** Has cautioned against systematic use of PA in custody decisions involving DV allegations; **specific GREVIO document on PA prevalence is not publicly confirmed** at compilation.
 - **APA (American Psychological Association):** Has issued cautions about over-application of PA concepts; the APA does **not** endorse a specific prevalence figure.
 
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

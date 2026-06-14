@@ -1,6 +1,6 @@
 # The 17 Strategies of Parental Alienation — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Canonical Taxonomy
 
-> **TL;DR.** Amy [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) foundational research (Baker 2007, *Adult Children of Parental Alienation Syndrome*; Baker & Fine, 2013) catalogued 17 specific behavioral strategies alienating parents use. The taxonomy gives targeted parents the *vocabulary* clinicians and courts actually use — and removes the framing problem that "Parental Alienation Syndrome" still triggers under Daubert. **Use the strategy names, not "PAS."**
+> **TL;DR.** Amy [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) foundational research ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007, *Adult Children of Parental Alienation Syndrome*; Baker & Fine, 2013) catalogued 17 specific behavioral strategies alienating parents use. The taxonomy gives targeted parents the *vocabulary* clinicians and courts actually use — and removes the framing problem that "Parental Alienation Syndrome" still triggers under Daubert. **Use the strategy names, not "PAS."**
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/the-17-strategies-of-parental-alienation](https://www.antialienate.com/blog/the-17-strategies-of-parental-alienation).**
@@ -116,6 +116,8 @@ Educational content. **Not legal or clinical advice.**
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -145,8 +147,8 @@ Educational content. **Not legal or clinical advice.**
 
 - [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 
 <!-- AA-CROSSLINK-END -->

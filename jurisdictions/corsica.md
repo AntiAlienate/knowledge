@@ -76,7 +76,7 @@ Corsican family-court decisions are anonymised per Court of Appeal practice usin
 
 ## Editorial notes
 
-- Corsica jurisdiction sidecar — civil-law Mediterranean French sui generis Collectivité de Corse (French Civil Code + Statut de la Collectivité de Corse 2002 + Collectivité de Corse establishment 2018 + arrêtés Miot 1801 fiscal-succession framework abolished 2018 + FLNC 1976-2014 armed independence-movement + Article 72 legislative-experimentation powers + French Hague Convention 1980 accession 1983). Only French sui generis territorial collectivity outside DROM/COM and standard metropolitan region frameworks globally + only French metropolitan territory with Article 72 legislative-experimentation framework + most recent abolition of 19th-century special fiscal framework in metropolitan France (~217-year arrêtés Miot preservation) + only major contemporary metropolitan-European armed independence movement subject to formal unilateral dissolution.
+- Corsica jurisdiction sidecar — civil-law Mediterranean French sui generis Collectivité de Corse (French Civil Code + Statut de la Collectivité de Corse 2002 + Collectivité de Corse establishment 2018 + arrêtés Miot 1801 fiscal-succession framework abolished 2018 + FLNC 1976-2014 armed independence-movement + Article 72 legislative-experimentation powers + French [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983). Only French sui generis territorial collectivity outside DROM/COM and standard metropolitan region frameworks globally + only French metropolitan territory with Article 72 legislative-experimentation framework + most recent abolition of 19th-century special fiscal framework in metropolitan France (~217-year arrêtés Miot preservation) + only major contemporary metropolitan-European armed independence movement subject to formal unilateral dissolution.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Mediterranean + civil-law + French-sui-generis-collectivity cluster + outside-DROM-COM-and-metropolitan-region-frameworks-globally-distinctive + Statut-de-la-Collectivité-de-Corse-2002-legislative-experimentation + arrêtés-Miot-1801-fiscal-succession-217-year-preservation + FLNC-1976-2014-armed-independence-movement-formal-dissolution + Treaty-of-Versailles-1768-Genoese-to-French-transfer clusters within the corpus.
 
@@ -84,6 +84,8 @@ Corsican family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

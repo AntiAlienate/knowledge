@@ -86,7 +86,7 @@ For practitioners and researchers: [PASG](https://pasg.info/) and ICSP are the i
 
 ## Note on framing
 
-Different organisations frame parental alienation differently — some lean clinical (PASG, Family Separation Clinic), some lean fathers'-rights advocacy (NPO, ACFC, F4J), some lean child-safeguarding-first (CJE). Multiple framings exist for a reason; the framings aren't always aligned with each other. Read across rather than picking one.
+Different organisations frame parental alienation differently — some lean clinical ([PASG](https://pasg.info/), Family Separation Clinic), some lean fathers'-rights advocacy (NPO, ACFC, F4J), some lean child-safeguarding-first (CJE). Multiple framings exist for a reason; the framings aren't always aligned with each other. Read across rather than picking one.
 
 The AntiAlienate framing is **empathy-first, evidence-anchored, jurisdiction-agnostic, both-gender-targeted**. We catalogue all credible perspectives without endorsement of any single advocacy orientation.
 
@@ -94,6 +94,8 @@ The AntiAlienate framing is **empathy-first, evidence-anchored, jurisdiction-agn
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

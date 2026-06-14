@@ -86,7 +86,7 @@ Years of sustained presence is exhausting. Self-care isn't optional during the r
 
 ## The honest truth
 
-Reunification is possible. It happens. The Warshak data + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) adult-outcomes data + clinical literature all support that. AND — it's slower, more non-linear, and more painful than anyone wants to admit. The targeted parents who get there share one trait above all others: **they outlasted the alienation through regulated, calm, consistent presence**, decade after decade if needed.
+Reunification is possible. It happens. The [Warshak](https://warshak.com/family-bridges/) data + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) adult-outcomes data + clinical literature all support that. AND — it's slower, more non-linear, and more painful than anyone wants to admit. The targeted parents who get there share one trait above all others: **they outlasted the alienation through regulated, calm, consistent presence**, decade after decade if needed.
 
 Your child needs you to stay alive long enough for them to come back. That's the mission.
 
@@ -112,7 +112,7 @@ Your child needs you to stay alive long enough for them to come back. That's the
 - Warshak, R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). Family Reflections. *American Journal of Family Therapy*, 43(2), 197-207.
 - Sullivan, M. J., & Kelly, J. B. (2001). *Family Court Review*, 39(3), 299-315.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Boss, P. (1999). *Ambiguous Loss.* Harvard University Press.
 - Fidler, B. J., & Bala, N. (2010). *Family Court Review*, 48(1), 10-47.
 
@@ -123,6 +123,8 @@ Educational content. **Not clinical advice.** Reunification is highly individual
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

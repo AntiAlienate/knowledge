@@ -44,7 +44,7 @@ Aruban family-court decisions are anonymised per Joint Court practice using init
 - Aruba operates a Dutch-civil-law family-law framework with constituent-country status within Kingdom of the Netherlands — places Aruba in the Dutch Kingdom constituent-country cluster (with Curaçao, Sint Maarten, BES Islands).
 - Joint Court of Justice across Aruba, Curaçao, Sint Maarten and BES Islands is structurally distinctive — shared judicial system spanning four constituent territories with separate legislative frameworks.
 - Status Aparte (1986) constituent-country status is structurally distinctive within the corpus.
-- Hague Convention 1980 applicability via Kingdom of the Netherlands territorial extension reflects constituent-country Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Kingdom of the Netherlands territorial extension reflects constituent-country Hague jurisdiction status.
 - Bilingual official-language framework (Dutch + Papiamento) reflects Caribbean Dutch linguistic heritage.
 
 ## See also
@@ -71,6 +71,8 @@ Aruban family-court decisions are anonymised per Joint Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

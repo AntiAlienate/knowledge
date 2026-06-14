@@ -8,7 +8,7 @@ last_reviewed: 2026-05-18
 
 ## TL;DR
 
-Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) **Eight Behavioural Manifestations** is the most widely-used clinical and forensic framework for identifying parental alienation in children. Derived from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) longitudinal qualitative research with adult children of PA (Baker 2007), the eight markers identify the constellation of child behaviours consistent with induced rejection of a parent (as opposed to justified estrangement). Used by trained evaluators in custody assessments, expert testimony, and court-ordered reunification programs worldwide.
+Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) **Eight Behavioural Manifestations** is the most widely-used clinical and forensic framework for identifying parental alienation in children. Derived from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) longitudinal qualitative research with adult children of PA ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007), the eight markers identify the constellation of child behaviours consistent with induced rejection of a parent (as opposed to justified estrangement). Used by trained evaluators in custody assessments, expert testimony, and court-ordered reunification programs worldwide.
 
 ## The Eight Behavioural Manifestations
 
@@ -120,6 +120,8 @@ Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alie
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Application of these markers requires trained evaluator assessment.*
+
+
 
 
 

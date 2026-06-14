@@ -38,7 +38,7 @@ Bermudian family-court decisions are anonymised per Court of Appeal practice usi
 
 - **1620** — Bermuda House of Assembly traditionally dated to 1620 — oldest continuously self-governing legislature in the Western Hemisphere.
 - **1974** — Federal matrimonial-causes statute enacted.
-- **1998** — Federal Children Act enacted drawing on English Children Act 1989 model.
+- **1998** — Federal Children Act enacted drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model.
 - **1999** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Bermuda effective 1 March 1999.
 
 ## Structural findings
@@ -46,7 +46,7 @@ Bermudian family-court decisions are anonymised per Court of Appeal practice usi
 - Bermuda operates a common-law framework drawing on English-law model with British Overseas Territory status — places Bermuda in the BOT cluster.
 - House of Assembly (1620) as oldest continuously self-governing legislature in the Western Hemisphere is structurally distinctive globally.
 - Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -72,6 +72,8 @@ Bermudian family-court decisions are anonymised per Court of Appeal practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

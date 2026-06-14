@@ -15,7 +15,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
 
 - **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 371-1** — Autorité parentale — définition et finalité (protection de l'enfant dans son intérêt) (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426822>
   - Définition centrale de l'autorité parentale comme ensemble de droits et devoirs ayant pour finalité l'intérêt de l'enfant; fonde toute appréciation JAF en matière de résidence et droit de visite.
-- **Code civil art. 372** — Exercice conjoint de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426825>
+- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 372** — Exercice conjoint de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426825>
   - Principe de coparentalité — exercice conjoint par les deux parents (translation_en: 'joint exercise of parental authority'); plaide-fondement classique des arguments recognition-camp dans les contentieux de résidence.
 - **Code civil art. 373-2** — Séparation des parents — continuité des relations de l'enfant avec chacun (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426836>
   - Pose l'obligation pour chaque parent de maintenir les relations personnelles de l'enfant avec l'autre parent; mobilisé tant par le camp recognition (pour caractériser un 'parent aliénant') que par le camp critique (pour articuler le contrôle coercitif avec la mise en danger).
@@ -142,6 +142,8 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

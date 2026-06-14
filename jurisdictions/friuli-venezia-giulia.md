@@ -51,7 +51,7 @@ Friuli-Venezia Giulia family-court decisions are anonymised per Italian court pr
 
 ## Structural findings
 
-- Friuli-Venezia Giulia operates a civil-law Italian Codice Civile framework via Friuli-Venezia Giulia autonomous-region administrative framework with three constitutionally-protected linguistic-minority frameworks — places Friuli-Venezia Giulia in the Alpine-Adriatic Italian autonomous-region cluster.
+- Friuli-Venezia Giulia operates a civil-law Italian [Codice Civile](https://www.brocardi.it/codice-civile/) framework via Friuli-Venezia Giulia autonomous-region administrative framework with three constitutionally-protected linguistic-minority frameworks — places Friuli-Venezia Giulia in the Alpine-Adriatic Italian autonomous-region cluster.
 - Only Italian autonomous region with three constitutionally-protected linguistic minorities (Friulian + Slovene + German) is structurally distinctive globally.
 - Last Italian autonomous region established (Statuto Speciale 31 January 1963, ~15 years after first wave) is structurally distinctive within Italian autonomous-region cluster.
 - Central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution including 1947 Free Territory of Trieste + 1954 London Memorandum + 1975 Treaty of Osimo is structurally distinctive globally — only Italian autonomous region whose autonomy establishment was delayed by ~15 years due to international border-sovereignty resolution requirements.
@@ -76,7 +76,7 @@ Friuli-Venezia Giulia family-court decisions are anonymised per Italian court pr
 
 ## Editorial notes
 
-- Friuli-Venezia Giulia jurisdiction sidecar — civil-law Alpine-Adriatic Italian autonomous region with three constitutionally-protected linguistic minorities (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Friuli-Venezia Giulia 1963 + Italian Law 482/1999 Linguistic Minorities Protection + Italian Law 38/2001 Slovene Minority Protection + Treaty of Osimo 1975 + 1947 Free Territory of Trieste framework + Italian Hague Convention 1980 accession 1985). Only Italian autonomous region with three constitutionally-protected linguistic minorities globally + last Italian autonomous region established (31 January 1963) + central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution + only Italian autonomous region whose autonomy establishment was delayed ~15 years due to international border-sovereignty resolution requirements.
+- Friuli-Venezia Giulia jurisdiction sidecar — civil-law Alpine-Adriatic Italian autonomous region with three constitutionally-protected linguistic minorities (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Friuli-Venezia Giulia 1963 + Italian Law 482/1999 Linguistic Minorities Protection + Italian Law 38/2001 Slovene Minority Protection + Treaty of Osimo 1975 + 1947 Free Territory of Trieste framework + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). Only Italian autonomous region with three constitutionally-protected linguistic minorities globally + last Italian autonomous region established (31 January 1963) + central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution + only Italian autonomous region whose autonomy establishment was delayed ~15 years due to international border-sovereignty resolution requirements.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Alpine-Adriatic + civil-law + Italian-autonomous-region cluster + three-constitutionally-protected-linguistic-minorities-globally-distinctive + last-Italian-autonomous-region-established-1963 + post-WWII-Italo-Yugoslav-border-dispute-resolution + 1947-Free-Territory-of-Trieste + 1954-London-Memorandum + 1975-Treaty-of-Osimo + four-province-framework-Udine-Pordenone-Gorizia-Trieste + Italian-Hague-1985-accession clusters within the corpus.
 
@@ -84,6 +84,8 @@ Friuli-Venezia Giulia family-court decisions are anonymised per Italian court pr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

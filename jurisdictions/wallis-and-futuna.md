@@ -46,7 +46,7 @@ Wallisian/Futunan family-court decisions are anonymised per Court of Appeal of N
 - Wallis and Futuna operates a structurally distinctive globally constitutionally-recognised three-kingdoms framework — only state-level entity with three constitutionally-recognised indigenous kingdoms (Uvea, Sigave, Alo) operating in parallel with French Republic civil-law framework within the corpus.
 - Three-kingdoms customary-status with parallel personal-status jurisdiction is structurally distinctive globally — most kingdoms-pluralist within-state framework in the corpus.
 - Customary courts of the three kingdoms operating under constitutional recognition is structurally distinctive within French overseas territories.
-- Hague Convention 1980 applicability via French Republic territorial extension.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension.
 
 ## See also
 
@@ -71,6 +71,8 @@ Wallisian/Futunan family-court decisions are anonymised per Court of Appeal of N
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

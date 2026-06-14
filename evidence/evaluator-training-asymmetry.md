@@ -11,8 +11,8 @@
 1. The [Saunders](https://www.ovw.usdoj.gov/) program of research (2011-2015) — what 465 evaluators reported
 2. The [AFCC](https://www.afccnet.org/) mainstream standards and the Stahl-camp practitioner defense
 3. The Drozd & Olesen 2004 decision tree and the 2010 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) critique
-4. The 2015 NCJFCJ/Saunders evaluator competency framework and its adoption
-5. The Meier 2020 follow-on data on evaluator-appointment effects
+4. The 2015 NCJFCJ/[Saunders](https://www.ovw.usdoj.gov/) evaluator competency framework and its adoption
+5. The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) follow-on data on evaluator-appointment effects
 6. The Harman & Lorandos (2021) rebuttal on evaluator methodology
 7. International evaluator-training landscapes — UK, Australia, Canada
 8. Recent US state-level reform efforts (Kayden's Law and downstream statutes)
@@ -144,7 +144,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 ---
 
-## 2. The AFCC mainstream standards and the Stahl-camp practitioner defense
+## 2. The [AFCC](https://www.afccnet.org/) mainstream standards and the Stahl-camp practitioner defense
 
 ### 2.1 AFCC Model Standards of Practice for Child Custody Evaluation (2006)
 
@@ -202,7 +202,7 @@ Stahl's core position across his published work, as best reconstructable from pr
 
 This paper is among the foundational practitioner texts on differential assessment of child rejection in custody cases. It proposes a structured branching procedure for evaluators to follow when a child resists or refuses contact with a parent, intended to discriminate among abuse-justified estrangement, parental-behaviour-induced alienation, and hybrid cases. It is the conceptual ancestor of the later Drozd/Olesen/[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) book *Parenting Plan & Child Custody Evaluations: Using Decision Trees to Increase Evaluator Competence & Avoid Preventable Errors* (Civic Research Institute) — ISBN 9781568871486.
 
-**[Secondary verification only]** for verbatim text — the original 2004 *Journal of Child Custody* article was paywalled at compilation. The construction has been widely reproduced in subsequent practitioner literature and in the 2016 Drozd-Saini-Olesen edited volume (Oxford University Press), the second-edition Saini/Johnston/Fidler/Bala chapter from which is already excerpted in `evidence-forensic-operation-in-courts.md` §5.
+**[Secondary verification only]** for verbatim text — the original 2004 *Journal of Child Custody* article was paywalled at compilation. The construction has been widely reproduced in subsequent practitioner literature and in the 2016 Drozd-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)-Olesen edited volume (Oxford University Press), the second-edition Saini/Johnston/Fidler/Bala chapter from which is already excerpted in `evidence-forensic-operation-in-courts.md` §5.
 
 ### 3.2 The Meier 2010 critique
 
@@ -299,7 +299,7 @@ Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the u
 
 ### 7.1 United Kingdom — [Cafcass](https://www.cafcass.gov.uk/) and PD12J
 
-**[Cafcass](https://www.cafcass.gov.uk/) Domestic Abuse Practice Policy.** Cafcass (the Children and Family Court Advisory and Support Service for England) is the statutory body that provides Family Court Advisers (FCAs) — broadly analogous to US custody evaluators / GALs — for private-law child arrangements cases. Cafcass published an updated Domestic Abuse Practice Policy in October 2024 (subsequently withdrawn and replaced in January 2025). URL: https://www.cafcass.gov.uk/domestic-abuse-practice-policy
+**[Cafcass](https://www.cafcass.gov.uk/) Domestic Abuse Practice Policy.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service for England) is the statutory body that provides Family Court Advisers (FCAs) — broadly analogous to US custody evaluators / GALs — for private-law child arrangements cases. Cafcass published an updated Domestic Abuse Practice Policy in October 2024 (subsequently withdrawn and replaced in January 2025). URL: https://www.cafcass.gov.uk/domestic-abuse-practice-policy
 
 **Key positions in the policy** (synthesised from the Transparency Project explainer at https://transparencyproject.org.uk/cafcass-new-domestic-abuse-policy-an-explainer/ and Goodman Ray at https://www.goodmanray.com/news/2025/04/cafcass-updates-domestic-abuse-practice-policy/ — **[secondary verification only]** for the policy's verbatim text, which was inaccessible at compilation, 403):
 
@@ -425,7 +425,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - Saunders, Faller, & Tolman (2011) — cross-sectional survey, n=465 evaluators, vignette-based recommendation measure; **observational, no random assignment to training conditions.**
 - Saunders, Tolman, & Faller (2013) — multivariate analysis of the same dataset; **same limitation.**
 - Meier et al. (2020) — full-census coded review of 4,338 published appellate-weighted decisions 2005-2014; **case-level outcomes by stated PA cross-claim; no evaluator-training-profile data on the individual cases.**
-- Silberg & Dallam (2019) — 27-case turned-around series, snowball-sampled; **mechanism-documenting, not prevalence-establishing.**
+- [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — 27-case turned-around series, snowball-sampled; **mechanism-documenting, not prevalence-establishing.**
 - Bow & Boxer (2003); Bow & Quinnell (2001) — survey of evaluator practice patterns; **descriptive, no outcome linkage.**
 
 **What a definitive study would require.**
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

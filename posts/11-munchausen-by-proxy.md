@@ -13,7 +13,7 @@
 |---|---|
 | **[DSM-5](https://www.appi.org/products/dsm) V300.19** | Factitious Disorder Imposed on Another (formerly Munchausen by Proxy) |
 | **WHO [ICD-11](https://icd.who.int/) 6D52** | Caregiver-Fabricated Illness in a Child |
-| **DSM-5 V995.51** | Child Psychological Abuse (broader frame) |
+| **[DSM-5](https://www.appi.org/products/dsm) V995.51** | Child Psychological Abuse (broader frame) |
 
 ## The pattern in PA cases
 
@@ -60,7 +60,7 @@ Most pediatricians receive zero training on FDIA. The DSM-5 codes exist; the tra
 ## Citations
 
 - DSM-5 V300.19 — Factitious Disorder Imposed on Another
-- WHO ICD-11 6D52 — Caregiver-Fabricated Illness in a Child
+- WHO [ICD-11](https://icd.who.int/) 6D52 — Caregiver-Fabricated Illness in a Child
 - Roesler, T. A., & Jenny, C. (2009). *Medical Child Abuse: Beyond Munchausen Syndrome by Proxy.* American Academy of Pediatrics.
 - Sanders, M. J., & Bursch, B. (2002). *Child Maltreatment, 7*(2), 112–124.
 
@@ -71,6 +71,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

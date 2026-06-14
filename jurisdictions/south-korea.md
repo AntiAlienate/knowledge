@@ -46,7 +46,7 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 ## Structural findings
 
 - South Korea operates a civil-law framework with significant 2005-2011 patriarchal-system reform — gajokje replaced hojuje, structurally aligning South Korea with modern East Asian family-law systems.
-- Hague Convention 1980 accession 2013 places South Korea in the Hague cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2013 places South Korea in the Hague cluster.
 - Psychology profession regulation operates through Mental Health Act framework + KPA/KCPA peak-body — lacks unified federal-statutory psychology regulator typical of European/Anglosphere comparators.
 
 ## See also
@@ -71,6 +71,8 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

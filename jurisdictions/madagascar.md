@@ -45,7 +45,7 @@ Malagasy family-court decisions are anonymised per Supreme Court practice using 
 ## Structural findings
 
 - Madagascar operates a French-civil-law family-law framework with substantial codification of customary-law and Merina/Betsileo traditional matrimonial-property provisions — places Madagascar in the Indian Ocean civil-law cluster.
-- Hague Convention 1980 accession 2004 places Madagascar in the Hague Indian Ocean cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2004 places Madagascar in the Hague Indian Ocean cluster.
 - 2007 family-law reform package (3 distinct Laws) is structurally distinctive within the African corpus — Madagascar's approach uses multiple dedicated statutes rather than single Family Code.
 
 ## See also
@@ -72,6 +72,8 @@ Malagasy family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

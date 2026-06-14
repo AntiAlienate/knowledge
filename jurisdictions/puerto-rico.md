@@ -50,7 +50,7 @@ Puerto Rican family-court decisions are anonymised per Supreme Court practice us
 - Puerto Rico operates a structurally distinctive globally mixed-legal-system framework — Spanish civil-law substantive heritage (Civil Code 2020 drawing on Spanish Civil Code 1889 + 1930 PR Civil Code legacy) + US-derivative common-law procedural inheritance. Most layered Spanish-US legal-system hybrid within the corpus.
 - Commonwealth / Estado Libre Asociado status is structurally distinctive — unique US-territory status with Spanish-civil-law substantive heritage.
 - Puerto Rico Civil Code 2020 modernisation is among the more recent comprehensive Spanish-civil-law-derivative Civil Code reforms within the corpus.
-- Hague Convention 1980 applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
 
 ## See also
 
@@ -76,6 +76,8 @@ Puerto Rican family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

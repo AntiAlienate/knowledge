@@ -49,7 +49,7 @@ Saint-Martinois family-court decisions are anonymised per Court of Appeal practi
 - Shared-island position with Dutch Sint Maarten is structurally distinctive globally — only state-level entity sharing a single island with a different state's legal-system framework (French civil-law vs Dutch civil-law) under the 1648 Treaty of Concordia partition.
 - COM autonomy from Guadeloupe DROM (2007) is shared with Saint-Barthélemy — only French DROM-to-COM separation in recent history.
 - Cross-border family-law coordination with Dutch Sint Maarten requires France-Kingdom of the Netherlands diplomatic arrangements — distinctive cross-border framework on single island.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects COM Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects COM Hague jurisdiction status.
 
 ## See also
 
@@ -75,6 +75,8 @@ Saint-Martinois family-court decisions are anonymised per Court of Appeal practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

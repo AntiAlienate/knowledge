@@ -137,17 +137,19 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ## How to use this list
 
-**You are a parent:** Start with the [Influencers](../influencers/) section to find clinicians whose work matches your situation, then use Google Scholar to read what they've published.
+**You are a parent:** Start with the [Influencers](../influencers/) section to find clinicians whose work matches your situation, then use [Google Scholar](https://scholar.google.com/) to read what they've published.
 
-**You are a lawyer:** CourtListener + Google Scholar Case Law + BAILII (or [CanLII](https://www.canlii.org/) / [AustLII](https://www.austlii.edu.au/) regionally) — search `"parental alienation"` filtered to the last 24 months for fresh authority.
+**You are a lawyer:** CourtListener + Google Scholar Case Law + [BAILII](https://www.bailii.org/) (or [CanLII](https://www.canlii.org/) / [AustLII](https://www.austlii.edu.au/) regionally) — search `"parental alienation"` filtered to the last 24 months for fresh authority.
 
-**You are an evaluator or researcher:** PubMed + CrossRef + SSRN, with Zotero for capture and Connected Papers for graph navigation.
+**You are an evaluator or researcher:** [PubMed](https://pubmed.ncbi.nlm.nih.gov/) + CrossRef + SSRN, with Zotero for capture and Connected Papers for graph navigation.
 
 **You are a journalist:** Transparency Project + Family Law Week for UK; CourtListener oral arguments + financial disclosures for US. SSRN for academics willing to talk on record.
 
 ---
 
 *Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Missing a database? Open a PR.*
+
+
 
 
 

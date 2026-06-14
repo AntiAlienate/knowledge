@@ -44,7 +44,7 @@ BVI family-court decisions are anonymised per ECSC practice using initials.
 - BVI operates a common-law framework drawing on English-law model with British Overseas Territory status — places BVI in the Caribbean BOT cluster.
 - Eastern Caribbean Supreme Court appellate jurisdiction (OECS-shared) is structurally distinctive — BVI is the only BOT in the OECS-shared-judicial-system cluster.
 - Judicial Committee of the Privy Council retention as final appellate court is structurally consistent with British Overseas Territory framework.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -71,6 +71,8 @@ BVI family-court decisions are anonymised per ECSC practice using initials.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

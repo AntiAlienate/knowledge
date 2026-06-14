@@ -99,7 +99,7 @@ Your job during the asleep phase: stay findable. Stay calm. Stay yours.
 
 ## Citations
 
-- Warshak, R. A. (2010). *Family Court Review*, 48(1), 48-80.
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). *American Journal of Family Therapy*, 43(2), 197-207.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). *Family Court Review*, 48(1), 10-47.
@@ -111,6 +111,8 @@ Educational content. **Not clinical advice.** Adolescent reunification often ben
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

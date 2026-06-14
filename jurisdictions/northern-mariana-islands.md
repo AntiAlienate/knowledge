@@ -47,7 +47,7 @@ CNMI family-court decisions are anonymised per Supreme Court practice using init
 - CNMI operates a US-derivative common-law framework with US Commonwealth status — structurally distinctive globally as only US Commonwealth Pacific Island state established via 1976 Covenant.
 - Article XII constitutional protection of customary-land ownership by persons of Northern Marianas descent is structurally distinctive globally — only state with this specific constitutional customary-land protection.
 - Transition from UN Trust Territory of the Pacific Islands to Commonwealth (1976 Covenant) is structurally distinctive — only UN Trust Territory Commonwealth-transition in the corpus.
-- Hague Convention 1980 applicability via US territorial extension reflects Commonwealth Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via US territorial extension reflects Commonwealth Hague jurisdiction status.
 
 ## See also
 
@@ -73,6 +73,8 @@ CNMI family-court decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

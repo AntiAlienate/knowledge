@@ -48,7 +48,7 @@ Trinidadian family-court decisions are anonymised per Court of Appeal practice u
 ## Structural findings
 
 - Trinidad and Tobago operates a common-law framework with specialised Family Court — places Trinidad and Tobago in the Caribbean common-law cluster with structured family-court infrastructure.
-- Hague Convention 1980 accession 2000 places Trinidad and Tobago as earliest Caribbean Hague accession within the corpus — structural distinctiveness.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2000 places Trinidad and Tobago as earliest Caribbean Hague accession within the corpus — structural distinctiveness.
 - Judicial Committee of the Privy Council retention as final appellate court is shared with Jamaica within the corpus Caribbean cluster.
 
 ## See also
@@ -74,6 +74,8 @@ Trinidadian family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

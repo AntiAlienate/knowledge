@@ -24,7 +24,7 @@ location_tags: [united-states, international, dsm-5, icd-11, diagnostic-criteria
 
 ## Citation
 
-> Bernet, W. (Ed.). (2010). *Parental Alienation, DSM-5, and ICD-11.* Springfield, IL: Charles C. Thomas Publisher.
+> Bernet, W. (Ed.). (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Springfield, IL: Charles C. Thomas Publisher.
 
 ISBN: 978-0398079472
 
@@ -52,7 +52,7 @@ The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *
 
 ## [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 
-Bernet co-founded PASG, an international research consortium with ~1,000+ members across 60+ countries (clinicians, researchers, attorneys, judges). Useful for "PASG consensus position" citations in academic-tone work, less useful for hard legal-evidentiary arguments.
+Bernet co-founded [PASG](https://pasg.info/), an international research consortium with ~1,000+ members across 60+ countries (clinicians, researchers, attorneys, judges). Useful for "PASG consensus position" citations in academic-tone work, less useful for hard legal-evidentiary arguments.
 
 ## Citing posts
 
@@ -83,6 +83,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

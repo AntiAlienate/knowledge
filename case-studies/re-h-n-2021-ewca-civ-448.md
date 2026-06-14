@@ -37,7 +37,7 @@ Four conjoined second-tier private-law [Children Act 1989](https://www.legislati
 - **Charles Hale KC** (Leading counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
 - **Rebecca Foulkes** (Junior counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
 - **Miriam Best** (Junior counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
-- **Mark Jarman** (Counsel) — instructed by [Cafcass](https://www.cafcass.gov.uk/) Legal for Cafcass (First Intervener)
+- **Mark Jarman** (Counsel) — instructed by [Cafcass](https://www.cafcass.gov.uk/) Legal for [Cafcass](https://www.cafcass.gov.uk/) (First Intervener)
 - **Michael Gration** (Counsel) — instructed by Cafcass Legal for Cafcass (First Intervener)
 - **Barbara Mills KC** (Leading counsel) — instructed by Scott Moncrieff & Associates Ltd for Women's Aid, Women's Aid Wales, Rape Crisis and Rights of Women (Second Intervener)
 - **Joy Brereton** (Junior counsel) — instructed by Scott Moncrieff & Associates Ltd for Second Intervener
@@ -159,8 +159,8 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 3. **Judiciary case page — Re H-N and Others (children) (domestic abuse: finding of fact hearings)** — <https://www.judiciary.uk/judgments/re-h-n-and-others-children-domestic-abuse-finding-of-fact-hearings/> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 4. **Practice Direction 12J — Child Arrangements & Contact Orders: Domestic Abuse and Harm** — <https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j> (Ministry of Justice) [en] — accessed 2026-05-30
 5. **Assessing risk of harm to children and parents in private law children cases (Harm Panel Report, June 2020)** — <https://www.gov.uk/government/publications/assessing-risk-of-harm-to-children-and-parents-in-private-law-children-cases> (Ministry of Justice) [en] — accessed 2026-05-30
-6. **F v M [2021] EWFC 4 (Hayden J)** — <https://www.bailii.org/ew/cases/EWFC/HCJ/2021/4.html> (BAILII) [en] — accessed 2026-05-30
-7. **Children Act 1989** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
+6. **F v M [2021] EWFC 4 (Hayden J)** — <https://www.bailii.org/ew/cases/EWFC/HCJ/2021/4.html> ([BAILII](https://www.bailii.org/)) [en] — accessed 2026-05-30
+7. **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 8. **Transparency Project — Re H-N [2021] EWCA 448: The Court of Appeal considers domestic abuse (Jack Harrison)** — <https://transparencyproject.org.uk/re-h-n-2021-ewca-448-the-court-of-appeal-considers-domestic-abuse/> (The Transparency Project) [en] — accessed 2026-05-30
 9. **Transparency Project — Mind the Gap: the welfare decisions for H-N, a child (Part One)** — <https://transparencyproject.org.uk/mind-the-gap-the-welfare-decisions-for-h-n-a-child-part-one/> (The Transparency Project) [en] — accessed 2026-05-30
 10. **7BR Chambers — Re H and other case digest** — <https://www.7br.co.uk/wp-content/uploads/2021/05/Re-H-and-other-case-digest.pdf> (7BR Chambers) [en] — accessed 2026-05-30
@@ -186,6 +186,8 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

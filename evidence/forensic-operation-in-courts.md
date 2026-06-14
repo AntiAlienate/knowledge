@@ -19,7 +19,7 @@
 
 ---
 
-## 1. The Meier program at GW Law — empirical custody outcomes when PA is cross-claimed
+## 1. The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) program at GW Law — empirical custody outcomes when PA is cross-claimed
 
 ### 1.1 Meier, Dickson, O'Sullivan, Rosen & Hayes (2020) — Journal of Social Welfare and Family Law
 
@@ -135,7 +135,7 @@
 
 ### 4.1 [Saunders](https://www.ovw.usdoj.gov/) (2015) — research-based recommendations
 
-**Citation.** Saunders, D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71–92. https://doi.org/10.1080/15379418.2015.1037052 — Open copy: https://www.arnoldlawmediation.com/uploads/8/2/0/3/820350/saunders2015jcc__3_.pdf
+**Citation.** [Saunders](https://www.ovw.usdoj.gov/), D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71–92. https://doi.org/10.1080/15379418.2015.1037052 — Open copy: https://www.arnoldlawmediation.com/uploads/8/2/0/3/820350/saunders2015jcc__3_.pdf
 
 **Verbatim abstract.** "This article reviews recent research on child custody evaluations in intimate partner violence (IPV) cases. Specifically, it covers assessment methods, evaluator selection, evaluator education, guidelines, differential assessment, and state policies. Special attention is given to new methods of bias reduction, the need to focus on coercive and controlling abuse, and the need to interpret psychological tests within a trauma framework. Recommendations are made in each area reviewed."
 
@@ -155,7 +155,7 @@
 
 **Saunders et al. 2011.** NIJ Award 2007-WG-BX-0013. https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf — The foundational 465-evaluator survey. Core finding (cited via Saunders 2015): evaluators with more extensive IPV training were significantly more likely to recommend protective custody for survivor-mothers and to recognise coercive-controlling abuse; evaluators endorsing "patriarchal beliefs" were more likely to recommend unsafe custody arrangements. **[secondary verification only]** for exact percentages.
 
-**Bow & Quinnell 2001.** *Professional Psychology: Research and Practice*, 32(3), 261–268. https://doi.org/10.1037/0735-7028.32.3.261. Verbatim finding (cited by Silberg & Dallam 2019): "The vast majority of child custody evaluators had no graduate school or internship/postdoctoral training in the child custody area." In Gourley & Stolberg (2000), ~three-quarters of evaluators "indicated that their primary child custody training method was reading books and journal articles."
+**Bow & Quinnell 2001.** *Professional Psychology: Research and Practice*, 32(3), 261–268. https://doi.org/10.1037/0735-7028.32.3.261. Verbatim finding (cited by [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)): "The vast majority of child custody evaluators had no graduate school or internship/postdoctoral training in the child custody area." In Gourley & Stolberg (2000), ~three-quarters of evaluators "indicated that their primary child custody training method was reading books and journal articles."
 
 ### 4.3 Synthesis on the evaluator-training asymmetry
 
@@ -167,7 +167,7 @@ The empirically supported asymmetry is this: PA training is widely available —
 
 ### 5.1 The chapter
 
-**Citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — Open PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — Open PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
 This is the most-cited "centrist" review of the PA empirical literature. Its authors are not aligned with the protective-mother movement; Johnston, Fidler and Bala are widely regarded as moderate proponents of recognising PA as a real family-court problem while criticising the construct's evidential thinness.
 
@@ -262,7 +262,7 @@ CEDAW recommended that Costa Rica "take all measures necessary to discourage the
 
 ### 6.5 WHO [ICD-11](https://icd.who.int/)
 
-The "parental alienation" code that briefly appeared in the foundation layer of ICD-11 was **removed in February 2020**. WHO confirmed that PA is not, and was never, a clinical diagnosis in ICD-11. This is documented in the WHO ICD-11 FAQ and discussed in the AntiAlienate `evidence-pa-as-child-abuse.md` page (section 2). Cross-reference: https://icd.who.int/dev11/f/en
+The "parental alienation" code that briefly appeared in the foundation layer of [ICD-11](https://icd.who.int/) was **removed in February 2020**. WHO confirmed that PA is not, and was never, a clinical diagnosis in ICD-11. This is documented in the WHO ICD-11 FAQ and discussed in the AntiAlienate `evidence-pa-as-child-abuse.md` page (section 2). Cross-reference: https://icd.who.int/dev11/f/en
 
 ---
 
@@ -373,6 +373,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -403,8 +405,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 - [People Against Parental Alienation Global Movement](https://www.antialienate.com/blog/people-against-parental-alienation-global-movement)
+- [Global Crackdown Parental Alienation Laws](https://www.antialienate.com/blog/global-crackdown-parental-alienation-laws)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->

@@ -74,7 +74,7 @@ Rapa Nui-related decisions are anonymised per Chilean court practice using initi
 
 ## Editorial notes
 
-- Rapa Nui / Easter Island jurisdiction sidecar — mixed Chilean civil-law/Rapa Nui customary-law-recognition eastern-Polynesian Chilean special territory (Chilean Civil Code 1855 + Indigenous Law 19.253 1993 + Rapa Nui Statute 2018 (Ley 21.070) permanent-resident-only land-ownership regime + Honui Council of Elders consultation framework + UNESCO World Heritage 1995 + 1888 Treaty of Cession + Chilean Hague Convention 1980 accession 1994). Most remote permanently-inhabited island on Earth globally + only eastern-Polynesian indigenous-titular jurisdiction within non-Polynesian state framework + only modern Chilean indigenous-special-territory framework with permanent-resident-only land-ownership regime and population-control framework + moai monumental statuary UNESCO heritage.
+- Rapa Nui / Easter Island jurisdiction sidecar — mixed Chilean civil-law/Rapa Nui customary-law-recognition eastern-Polynesian Chilean special territory (Chilean Civil Code 1855 + Indigenous Law 19.253 1993 + Rapa Nui Statute 2018 (Ley 21.070) permanent-resident-only land-ownership regime + Honui Council of Elders consultation framework + UNESCO World Heritage 1995 + 1888 Treaty of Cession + Chilean [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1994). Most remote permanently-inhabited island on Earth globally + only eastern-Polynesian indigenous-titular jurisdiction within non-Polynesian state framework + only modern Chilean indigenous-special-territory framework with permanent-resident-only land-ownership regime and population-control framework + moai monumental statuary UNESCO heritage.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins eastern-Polynesian + mixed Chilean-civil-law/Rapa-Nui-customary-recognition + Chilean-special-territory cluster + most-remote-permanently-inhabited-island-globally-distinctive + Polynesian-indigenous-titular-within-non-Polynesian-state + Rapa-Nui-Statute-2018-permanent-resident-only-land-ownership + Honui-Council-of-Elders-consultation + UNESCO-moai-heritage + Indigenous-Law-19.253-recognition + Chilean-Hague-1994-accession clusters within the corpus.
 
@@ -82,6 +82,8 @@ Rapa Nui-related decisions are anonymised per Chilean court practice using initi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

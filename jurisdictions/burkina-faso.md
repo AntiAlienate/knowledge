@@ -40,7 +40,7 @@ Burkinabé family-court decisions are anonymised per Court of Cassation practice
 ## Structural findings
 
 - Burkina Faso operates a French-civil-law family-law framework with codified customary-law and Islamic-law marriage provisions — places Burkina Faso in the Sahel Francophone West African cluster with Mali, Niger, Senegal.
-- Hague Convention 1980 accession 1992 places Burkina Faso as earliest African Hague accession within the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1992 places Burkina Faso as earliest African Hague accession within the corpus.
 - Persons and Family Code 1989 codification of customary-law and Islamic-law marriage within civil-law framework is structurally distinctive within Sahel cluster.
 
 ## See also
@@ -67,6 +67,8 @@ Burkinabé family-court decisions are anonymised per Court of Cassation practice
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

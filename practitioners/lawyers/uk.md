@@ -23,7 +23,7 @@ The transparency regime is s.97 [Children Act 1989](https://www.legislation.gov.
 *Barrister (Bar of England & Wales; Year of Call 1990; Year of Silk 2018); Master of the Bench, Middle Temple (2019); BSB-regulated*
 London · England · 4 Paper Buildings (4PB), London
 
-**Stance:** Only KC-authored UK practitioner manual on PA — co-author with Frankie Shama of A Practical Guide to Parental Alienation in Private and Public Law Children Cases (Law Brief Publishing, 2022). Recognition-camp counterpart to Joshi's ABA book (US). Regular instructions in Children Act 1989 private- and public-law alienation cases. Stance is recognition grounded in published practitioner-manual authorship and silk-level instruction record.
+**Stance:** Only KC-authored UK practitioner manual on PA — co-author with Frankie Shama of A Practical Guide to Parental Alienation in Private and Public Law Children Cases (Law Brief Publishing, 2022). Recognition-camp counterpart to Joshi's ABA book (US). Regular instructions in [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) private- and public-law alienation cases. Stance is recognition grounded in published practitioner-manual authorship and silk-level instruction record.
 
 **Publications:**
 - A Practical Guide to Parental Alienation in Private and Public Law Children Cases (co-author Frankie Shama) (2022) — *Law Brief Publishing* — <https://www.lawbriefpublishing.com/product/parentalalienation/>
@@ -347,7 +347,7 @@ London · England · 4 Paper Buildings (4PB), London
 *President of the Family Division, High Court of Justice of England & Wales; judicial role — do not solicit*
 London · England · Family Division, High Court of Justice of England & Wales (President of the Family Division — 'McFarlane P')
 
-**Stance:** Author of the spine of UK PA jurisprudence — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) and Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (the evaluator-quality apex). Stance is procedural-reform / middle: in Re Y he set aside findings of alienating behaviour made on the basis of Melanie Gill's unregulated PA-evaluation and held that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the BPS.' Cite him in every UK-facing AntiAlienate document. Authority on case-study:re-y-2026-ewfc-38 — he wrote it.
+**Stance:** Author of the spine of UK PA jurisprudence — Re C ('Parental Alienation'; Instruction of Expert) [2023] EWHC 345 (Fam) and Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (the evaluator-quality apex). Stance is procedural-reform / middle: in Re Y he set aside findings of alienating behaviour made on the basis of Melanie Gill's unregulated PA-evaluation and held that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the [BPS](https://www.bps.org.uk/).' Cite him in every UK-facing AntiAlienate document. Authority on case-study:re-y-2026-ewfc-38 — he wrote it.
 
 **Publications:**
 - Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — author (2026) — *EWFC* — <https://www.judiciary.uk/wp-content/uploads/2026/02/Re-Y-judgment-final-version.pdf>
@@ -416,6 +416,8 @@ London + Birmingham (multi-site) · England (UK-wide practice) · No5 Chambers �
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

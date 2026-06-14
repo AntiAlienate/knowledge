@@ -41,7 +41,7 @@ Nicaraguan family-court decisions are anonymised per Supreme Court practice usin
 
 - Nicaragua operates a Spanish-civil-law family-law framework — places Nicaragua in the Central American civil-law cluster with Guatemala, Costa Rica, Panama, El Salvador, Honduras.
 - Family Code 2014 is among the more recent comprehensive Family Code codifications within the Latin American civil-law cluster.
-- Hague Convention 1980 accession 2001 places Nicaragua in the Hague Latin American cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001 places Nicaragua in the Hague Latin American cluster.
 
 ## See also
 
@@ -66,6 +66,8 @@ Nicaraguan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

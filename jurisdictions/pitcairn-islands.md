@@ -50,7 +50,7 @@ Pitcairn family-court decisions are anonymised per Supreme Court practice using 
 - Smallest permanently inhabited national jurisdiction in the world (population ~50) is structurally distinctive globally — most-sparsely-populated jurisdiction in the corpus.
 - HMS Bounty descendants population heritage with Pitkern Creole linguistic and cultural framework is structurally distinctive globally — only state-level jurisdiction with primary HMS Bounty descent heritage.
 - Court of Appeal of New Zealand appellate jurisdiction via Pitcairn-NZ administrative arrangement is structurally distinctive — only BOT with NZ Court of Appeal appellate jurisdiction.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -76,6 +76,8 @@ Pitcairn family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

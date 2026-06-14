@@ -44,7 +44,7 @@ American Samoan family-court decisions are anonymised per High Court practice us
 
 - American Samoa operates the most structurally distinctive US-territory framework within the corpus — only US territory where birthright citizenship does not apply (American Samoans are US nationals, not US citizens, by default).
 - Constitutional protection of fa'a Samoa customary-law with parallel Land and Titles Division jurisdiction is structurally distinctive globally — only US territory retaining substantial customary-law personal-status framework.
-- Hague Convention 1980 applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
 - Matai-title customary-status framework operating in parallel with US civil-law family-law framework is structurally distinctive.
 
 ## See also
@@ -70,6 +70,8 @@ American Samoan family-court decisions are anonymised per High Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -26,7 +26,7 @@
 | 1987–2010 | PAS controversy era; Daubert admissibility battles in US courts |
 | 2007 | Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) publishes *Adult Children of PAS* — first empirical longitudinal foundation |
 | 2010 | Bernet leads [DSM-5](https://www.appi.org/products/dsm) inclusion campaign; rejected as standalone diagnosis but related codes (V995.51) included; Brazil enacts world's first national PA-specific statute (Lei 12.318/2010) |
-| 2018 | **Harman, Kruk & Hines** reframe in *Psychological Bulletin* — PA as family violence. The reframe survives Daubert |
+| 2018 | **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** reframe in *Psychological Bulletin* — PA as family violence. The reframe survives Daubert |
 | 2020–2023 | UK *Re S* CoA recognition; WHO [ICD-11](https://icd.who.int/) QE52 enters force (2022); UK *Re C* expert framework consolidated (2023) |
 
 ## Why the 2018 reframe matters legally
@@ -45,7 +45,7 @@ For 33 years (1985–2018) the "PAS" framing got Daubert-attacked in US courts a
 
 If your case started before 2018, your therapist, lawyer, and judge probably did not have the current framework. That is not your failure. That is a field still maturing.
 
-The vocabulary you have *now* — Harman/Kruk/Hines · DSM-5 V995.51 · ICD-11 QE52 · *Re S* · *Re C* — is more developed than the vocabulary that existed when most PA cases began.
+The vocabulary you have *now* — Harman/Kruk/Hines · [DSM-5](https://www.appi.org/products/dsm) V995.51 · [ICD-11](https://icd.who.int/) QE52 · *Re S* · *Re C* — is more developed than the vocabulary that existed when most PA cases began.
 
 ## Source-blog hyperlinks
 
@@ -81,6 +81,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

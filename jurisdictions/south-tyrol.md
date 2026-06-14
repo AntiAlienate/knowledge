@@ -55,7 +55,7 @@ South Tyrolean family-court decisions are anonymised per Italian court practice 
 
 ## Structural findings
 
-- South Tyrol operates a civil-law Italian Codice Civile framework via autonomous-province administrative framework with German and Ladin language-rights protections — places South Tyrol in the Alpine Italian autonomous-province cluster.
+- South Tyrol operates a civil-law Italian [Codice Civile](https://www.brocardi.it/codice-civile/) framework via autonomous-province administrative framework with German and Ladin language-rights protections — places South Tyrol in the Alpine Italian autonomous-province cluster.
 - Only EU subnational entity operating constitutionally-protected German-majority linguistic framework is structurally distinctive globally.
 - Only EU subnational with proporzionale (ethnic quota) employment framework is structurally distinctive globally.
 - Only EU subnational with sliding-Italian-residence-requirement for political-rights access is structurally distinctive globally — ~4 year framework.
@@ -82,7 +82,7 @@ South Tyrolean family-court decisions are anonymised per Italian court practice 
 
 ## Editorial notes
 
-- South Tyrol jurisdiction sidecar — civil-law Alpine Italian autonomous province with constitutionally-protected German-majority linguistic framework (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale per il Trentino-Alto Adige 1972 + Gruber-De Gasperi Agreement 1946 + Italian Constitutional Law 1/1971 Pacchetto + 1992 Streitbeilegungserklärung + Italian Hague Convention 1980 accession 1985). Only EU subnational with constitutionally-protected German-majority linguistic framework globally + only EU subnational with proporzionale ethnic quota employment + only modern bilateral inter-state treaty preserving Alpine ethnic-linguistic-minority autonomy + second-largest autonomous-province autonomy framework in EU.
+- South Tyrol jurisdiction sidecar — civil-law Alpine Italian autonomous province with constitutionally-protected German-majority linguistic framework (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale per il Trentino-Alto Adige 1972 + Gruber-De Gasperi Agreement 1946 + Italian Constitutional Law 1/1971 Pacchetto + 1992 Streitbeilegungserklärung + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). Only EU subnational with constitutionally-protected German-majority linguistic framework globally + only EU subnational with proporzionale ethnic quota employment + only modern bilateral inter-state treaty preserving Alpine ethnic-linguistic-minority autonomy + second-largest autonomous-province autonomy framework in EU.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Alpine + civil-law + Italian-autonomous-province cluster + constitutionally-protected-German-majority-linguistic-framework-globally-distinctive + proporzionale-ethnic-quota-employment + sliding-Italian-residence-requirement + Gruber-De-Gasperi-1946-bilateral-autonomy-framework + 1992-Streitbeilegungserklärung-UN-settlement + second-largest-EU-autonomous-province + Italian-Hague-1985-accession clusters within the corpus.
 
@@ -90,6 +90,8 @@ South Tyrolean family-court decisions are anonymised per Italian court practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

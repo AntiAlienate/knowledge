@@ -77,7 +77,7 @@ Catalan family-court decisions are anonymised per Catalan court practice using i
 
 ## Editorial notes
 
-- Catalonia jurisdiction sidecar — civil-law North-eastern Iberian Spanish autonomous community with own Catalan civil-code jurisdiction (Codi Civil de Catalunya 2002-2017 + Statute of Autonomy 2006 + Spanish Constitution Article 149.1.8 + CCCat Book II Persons and Family 2010 strong joint-custody presumption + 2017 independence referendum + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from national civil code globally + modern multi-book EU subnational civil-code recodification + among strongest joint-custody-presumption frameworks in Europe + modern EU subnational independence-referendum-vs-constitutional-court conflict.
+- Catalonia jurisdiction sidecar — civil-law North-eastern Iberian Spanish autonomous community with own Catalan civil-code jurisdiction (Codi Civil de Catalunya 2002-2017 + Statute of Autonomy 2006 + Spanish Constitution Article 149.1.8 + CCCat Book II Persons and Family 2010 strong joint-custody presumption + 2017 independence referendum + Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987). Only EU member-state subnational jurisdiction operating its own complete Civil Code distinct from national civil code globally + modern multi-book EU subnational civil-code recodification + among strongest joint-custody-presumption frameworks in Europe + modern EU subnational independence-referendum-vs-constitutional-court conflict.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-eastern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + only-EU-member-state-subnational-with-own-Civil-Code-globally-distinctive + CCCat-six-book-recodification + Article-233-10-strong-joint-custody-presumption + 2017-Catalan-independence-referendum-constitutional-crisis + Tribunal-Superior-de-Justicia-de-Catalunya-apex-Catalan-civil-law clusters within the corpus.
 
@@ -85,6 +85,8 @@ Catalan family-court decisions are anonymised per Catalan court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

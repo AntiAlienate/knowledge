@@ -13,7 +13,7 @@ location_tags: [global, english-language, hybrid-cases, clinical-framework]
 
 ## TL;DR
 
-Shely Polak (private practice) and Dr. Michael [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) (University of Toronto) published a 2015 *Family Court Review* paper that addressed what every practitioner knows: pure cases of alienation or pure cases of estrangement are relatively rare. Most contested cases sit somewhere in the middle, with alienating behaviors AND legitimate concerns coexisting. The Polak-Saini hybrid framework gave clinicians, evaluators, and courts a structured way to think about the messy middle without forcing artificial binary classification.
+Shely Polak (private practice) and Dr. Michael [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) (University of Toronto) published a 2015 *Family Court Review* paper that addressed what every practitioner knows: pure cases of alienation or pure cases of estrangement are relatively rare. Most contested cases sit somewhere in the middle, with alienating behaviors AND legitimate concerns coexisting. The Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) hybrid framework gave clinicians, evaluators, and courts a structured way to think about the messy middle without forcing artificial binary classification.
 
 ## The Core Insight
 
@@ -76,7 +76,7 @@ Hybrid cases tend to produce orders that:
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Operational targeted-parent guidance |
 | Harman family-violence | Paradigm shift to abuse model |
 
-Polak-Saini complements [Warshak's](https://warshak.com/family-bridges/) resist-refuse continuum by providing the assessment dimensions that locate a case on the continuum. Where Warshak says "continuum exists," Polak-Saini says "here are the dimensions to assess location."
+Polak-Saini complements [Warshak's](https://warshak.com/family-bridges/) resist-refuse continuum by providing the assessment dimensions that locate a case on the continuum. Where [Warshak](https://warshak.com/family-bridges/) says "continuum exists," Polak-Saini says "here are the dimensions to assess location."
 
 ## Key Citation
 
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

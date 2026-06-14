@@ -18,7 +18,7 @@ Fidler co-authored the field's most balanced practitioner text — *Children Who
 
 - ***Children Who Resist Postseparation Parental Contact*** (Oxford, 2013) — with Nick Bala and Rachel Birnbaum.
 - **"Children Resisting Postseparation Contact With a Parent: Concepts, Controversies, and Conundrums"**, *Family Court Review*, 2010.
-- AFCC parenting-coordination training curricula.
+- [AFCC](https://www.afccnet.org/) parenting-coordination training curricula.
 
 ## Where to find her work
 
@@ -33,6 +33,8 @@ Fidler co-authored the field's most balanced practitioner text — *Children Who
 ---
 
 *[← Back to influencers index](README.md)*
+
+
 
 
 

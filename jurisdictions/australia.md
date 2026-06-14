@@ -13,7 +13,7 @@ Australia is a federal common-law jurisdiction whose family-law architecture is 
 
 ## Statutory framework
 
-- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.60CC** — Family Law Act 1975 — best-interests considerations (post-2023 amendment safety-primacy rewrite) (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
+- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.60CC** — [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) — best-interests considerations (post-2023 amendment safety-primacy rewrite) (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Substantive best-interests test for parenting orders. The 2023 Amendment Act Schedule 1 rewrote s.60CC to prioritise the safety of the child and persons caring for the child, removed the prior 'two-tier' primary/additional consideration structure, and inserted explicit guidance on family violence. PA-adjacent fact-patterns are decided here under the welfare standard.
 - **Family Law Act 1975 (Cth) s.61DA (repealed by 2023 Amendment Act)** — Family Law Act 1975 — presumption of equal shared parental responsibility (REPEALED 6.5.2024) (2006) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Repealed by Schedule 1 of the Family Law Amendment Act 2023 (in force 6 May 2024). The former s.61DA presumption was a Howard-government 2006 reform that the 2023 Amendment Act removed in response to ALRC Inquiry 135 (2019) and Joint Select Committee 2021 evidence that the presumption was being misapplied in family-violence cases. Repeal is the load-bearing 2023 structural shift in Australian custody law.
@@ -76,7 +76,7 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 - RECOGNITION-CAMP CLINICAL PRACTICE clusters around three vehicles: UTAS Matthewson research lab (first Australian PA research lab); Dialogue in Growth Korosi (Melbourne); Eeny Meeny Miney Mo Foundation / Parental Alienation Australia & New Zealand (EMMM-PAANZ) NGO axis. Recognition-camp critique of the 2023 reforms is led by EMMM/PAANZ at the institutional level.
 - CRITIQUE-CAMP PRACTICE IS OVERWHELMINGLY ACADEMIC NOT CLINICAL: Cathy Humphreys (University of Melbourne, social work, DV-research); Anne Hollonds (former National Children's Commissioner); Lawrie Moloney (La Trobe / AIFS). No clinical-practitioner-led DV/critique voice located at directory standard. Structural feature: Australian critique pole is academy-anchored, not clinic-anchored — inverse of the recognition-pole structural pattern.
 - TRANS-TASMAN AU+NZ CLINICAL DIALOGUE: Matthewson (UTAS), Korosi (Dialogue in Growth / PAANZ) and the late Dr Bryan Moriarty operate explicitly trans-Tasman. Moriarty is recognition-anchor cross-listed in both AU and NZ directories. EMMM-PAANZ functions as a structurally trans-Tasman NGO.
-- DUAL REGULATOR FRAMEWORK AHPRA + PsyBA is the load-bearing credential for any court-facing PA work. Practitioners listed without AHPRA-psychology registration (PACFA, ACA, AASW, FDRP) are flagged with regulatory-analogue caveat parallel to the post-Re Y UK non-HCPC debate.
+- DUAL REGULATOR FRAMEWORK AHPRA + PsyBA is the load-bearing credential for any court-facing PA work. Practitioners listed without AHPRA-psychology registration (PACFA, ACA, AASW, FDRP) are flagged with regulatory-analogue caveat parallel to the post-Re Y UK non-[HCPC](https://www.hcpc-uk.org/) debate.
 - NO HIGH COURT PA-CONSTRUCT JURISPRUDENCE: the High Court has addressed s.60CC welfare reasoning and former s.61DA presumption in McCall v Clark, MRR v GR (2010), Goode and Goode and others, but PA-construct adjudication has not reached the apex. Australia clusters with NL/BE/DE in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).
 
 ## See also
@@ -118,6 +118,8 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

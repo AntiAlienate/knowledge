@@ -46,7 +46,7 @@ Guernsey family-court decisions are anonymised per Court of Appeal practice usin
 - Multi-island Bailiwick structure (Guernsey + Alderney + Sark + Herm) with distinct local-law frameworks in Alderney and Sark is structurally distinctive globally — most internally-pluralistic Crown Dependency framework.
 - Sark's Chief Pleas (legislature) is one of the oldest legislative bodies operating to present day.
 - Crown Dependency Bailiwick status (not part of UK) is structurally distinctive.
-- Hague Convention 1980 applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status.
 
 ## See also
 
@@ -73,6 +73,8 @@ Guernsey family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

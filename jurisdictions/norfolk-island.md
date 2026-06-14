@@ -50,7 +50,7 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 - Devolution-reversal pattern (self-government 1979-2015 → re-integration 2016) is structurally distinctive globally — only modern state-level entity to undergo formal devolution-reversal in the corpus.
 - Pitcairn descendants population heritage (1856 relocation from Pitcairn) is structurally distinctive — shared heritage with Pitcairn Islands creating a unique Bounty-descendant cultural network across two jurisdictions.
 - Norf'k language as distinct Bounty-descendant creole is structurally distinctive within Pacific Anglophone cluster.
-- Hague Convention 1980 applicability via Australian territorial extension reflects external-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Australian territorial extension reflects external-territory Hague jurisdiction status.
 
 ## See also
 
@@ -67,7 +67,7 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 
 ## Editorial notes
 
-- Norfolk Island jurisdiction sidecar — common-law Pacific Australian external territory (Australian Family Law Act 1975 + Norfolk Island Legislation Amendment Act 2015 devolution-reversal + Bounty descendants heritage + Norf'k language + Hague via Australian territorial extension 1987). Only modern devolution-reversal globally.
+- Norfolk Island jurisdiction sidecar — common-law Pacific Australian external territory (Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + Norfolk Island Legislation Amendment Act 2015 devolution-reversal + Bounty descendants heritage + Norf'k language + Hague via Australian territorial extension 1987). Only modern devolution-reversal globally.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Pacific Island + common-law + Australian-external-territory cluster + devolution-reversal-globally-distinctive cluster + Bounty-descendants-heritage-distinctive + Norf'k-language + Hague-via-Australian-territorial-extension clusters within the corpus.
 
@@ -75,6 +75,8 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

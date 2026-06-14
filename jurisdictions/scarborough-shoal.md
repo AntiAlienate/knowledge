@@ -76,7 +76,7 @@ Scarborough Shoal-related decisions are anonymised per claimant-state court prac
 
 ## Editorial notes
 
-- Scarborough Shoal / Bajo de Masinloc / 黃岩島 jurisdiction sidecar — civil-law South China Sea actively-disputed-feature (PCA Award 2016 'rock' UNCLOS Article 121(3) determination + 2012 Scarborough Shoal standoff PRC blockade-via-coast-guard-vessels + US-Philippines Mutual Defense Treaty Pompeo/Blinken affirmations + Marcos Jr. assertive Philippine response framework 2022-2024 + variable Hague Convention 1980 applicability per claimant). Only territorial dispute where major coastal-state claimant maintained de-facto control for decades but was displaced through maritime standoff without artificial-island construction + only modern apex international-arbitration determination of disputed feature's rock-or-island status + only South China Sea disputed feature with explicit US-treaty-defence-guarantee.
+- Scarborough Shoal / Bajo de Masinloc / 黃岩島 jurisdiction sidecar — civil-law South China Sea actively-disputed-feature (PCA Award 2016 'rock' UNCLOS Article 121(3) determination + 2012 Scarborough Shoal standoff PRC blockade-via-coast-guard-vessels + US-Philippines Mutual Defense Treaty Pompeo/Blinken affirmations + Marcos Jr. assertive Philippine response framework 2022-2024 + variable [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability per claimant). Only territorial dispute where major coastal-state claimant maintained de-facto control for decades but was displaced through maritime standoff without artificial-island construction + only modern apex international-arbitration determination of disputed feature's rock-or-island status + only South China Sea disputed feature with explicit US-treaty-defence-guarantee.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South China Sea + civil-law + actively-disputed-feature cluster + 2012-standoff-PRC-blockade-via-coast-guard-vessels-globally-distinctive + PCA-2016-Article-121(3)-rock-determination + US-Philippines-Mutual-Defense-Treaty-Pompeo-Blinken-affirmations + Marcos-Jr-assertive-Philippine-response + Murillo-Velarde-Map-historical-claim + variable-Hague-applicability-per-claimant clusters within the corpus.
 
@@ -84,6 +84,8 @@ Scarborough Shoal-related decisions are anonymised per claimant-state court prac
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

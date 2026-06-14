@@ -77,7 +77,7 @@ Brisbane · Queensland · Family Law Chambers (Brisbane); also lists with Victor
 
 **Publications:**
 - Family Law Chambers (Brisbane) profile — practice areas including 'alienation' (2024) — *Family Law Chambers* — <https://www.familylawchambers.com.au/barrister/the-hon-colin-forrest-sc/>
-- Forrest SC judgments as Judge of the Family Court of Australia 2011-2021 ([AustLII](https://www.austlii.edu.au/)) (2021) — *AustLII* — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FamCA/>
+- Forrest SC judgments as Judge of the Family Court of Australia 2011-2021 ([AustLII](https://www.austlii.edu.au/)) (2021) — *[AustLII](https://www.austlii.edu.au/)* — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FamCA/>
 
 **Verification:**
 - <https://www.colinforrest.com.au/>
@@ -363,6 +363,8 @@ Toronto · Ontario (Canada) · Ludmer Law, Toronto — cross-jurisdictional ANZP
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

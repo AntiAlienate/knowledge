@@ -47,7 +47,7 @@ UAE family-court decisions are anonymised per court practice; published decision
 
 - UAE operates a structurally distinctive dual personal-status framework — Federal Decree-Law 41/2022 for non-Muslims (civil) + Federal Law 28/2005 as amended for Muslims (religious-law). The non-Muslim framework operates by residence not nationality, substantively novel within the Gulf cluster.
 - Federal-emirate court architecture with DIFC + ADGM common-law commercial jurisdictions makes UAE a structurally distinctive mixed-jurisdiction model within the corpus.
-- Hague Convention 1980 accession 2018 places UAE in the Hague cluster — distinguishes from Saudi Arabia + Iran (non-Hague) within the Gulf cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2018 places UAE in the Hague cluster — distinguishes from Saudi Arabia + Iran (non-Hague) within the Gulf cluster.
 - Three-tier psychology profession regulation (MOHAP federal + DOH Abu Dhabi + DHA Dubai) is structurally distinctive — multi-regulator pattern shared with Australia (federal + state) and US (state-by-state) within the corpus.
 
 ## See also
@@ -74,6 +74,8 @@ UAE family-court decisions are anonymised per court practice; published decision
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

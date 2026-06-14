@@ -44,7 +44,7 @@ Faroese family-court decisions are anonymised per Court practice using initials.
 
 - Faroe Islands operates a Danish-derivative civil-law autonomous-territory framework — places Faroe Islands in the Nordic civil-law cluster with Denmark, Iceland, Greenland.
 - Autonomous-territory status with Takeover Act expansion of legislative competence is structurally distinctive within Nordic framework.
-- Hague Convention 1980 applicability via Danish territorial extension reflects autonomous-territory Hague jurisdiction status shared with Greenland.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Danish territorial extension reflects autonomous-territory Hague jurisdiction status shared with Greenland.
 - Bilingual official-language framework (Faroese + Danish) reflects autonomous-territory linguistic heritage.
 
 ## See also
@@ -71,6 +71,8 @@ Faroese family-court decisions are anonymised per Court practice using initials.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

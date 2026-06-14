@@ -19,7 +19,7 @@ The proceedings concerned welfare and contact arrangements for the subject child
 
 ## Holding
 
-Findings of 'alienating behaviour' in [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) proceedings cannot be sustained where the psychological evidence on which they rest comes from an unregulated evaluator. Expert psychological evidence in family proceedings must come from a practitioner who is registered with the Health and Care Professions Council (HCPC) in a protected title (Practitioner Psychologist / Clinical Psychologist / Counselling Psychologist / Forensic Psychologist / Educational Psychologist / Health Psychologist), or whose alternative regulatory status is clearly established on the record. Self-description as a 'parental alienation specialist' is not, of itself, a sufficient evidential foundation under FPR Part 25 and Practice Direction 25B.
+Findings of 'alienating behaviour' in [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) proceedings cannot be sustained where the psychological evidence on which they rest comes from an unregulated evaluator. Expert psychological evidence in family proceedings must come from a practitioner who is registered with the Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) in a protected title (Practitioner Psychologist / Clinical Psychologist / Counselling Psychologist / Forensic Psychologist / Educational Psychologist / Health Psychologist), or whose alternative regulatory status is clearly established on the record. Self-description as a 'parental alienation specialist' is not, of itself, a sufficient evidential foundation under FPR Part 25 and Practice Direction 25B.
 
 ## Verbatim
 
@@ -66,10 +66,10 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 1. **Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — judgment** — <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html> ([BAILII](https://www.bailii.org/) (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
 2. **Courts and Tribunals Judiciary — President of the Family Division** — <https://www.judiciary.uk/about-the-judiciary/who-are-the-judiciary/senior-judiciary/president-family-division/> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 3. **Family Procedure Rules — Part 25 (Experts and Assessors) and PD 25B** — <https://www.justice.gov.uk/courts/procedure-rules/family/parts/part_25> (Ministry of Justice) [en] — accessed 2026-05-30
-4. **Re C [2023] EWHC 345 (Fam) — President's guidance on regulated-only expert psychology** — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html> (BAILII) [en] — accessed 2026-05-30
+4. **Re C [2023] EWHC 345 (Fam) — President's guidance on regulated-only expert psychology** — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html> ([BAILII](https://www.bailii.org/)) [en] — accessed 2026-05-30
 5. **Health and Care Professions Council — Practitioner Psychologist register search** — <https://www.hcpc-uk.org/check-the-register/> (Health and Care Professions Council) [en] — accessed 2026-05-30
 6. **British Psychological Society — Chartered Member register** — <https://www.bps.org.uk/find-psychologist> (British Psychological Society) [en] — accessed 2026-05-30
-7. **Children Act 1989** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
+7. **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 
 ## Editorial notes
 
@@ -80,13 +80,15 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 - Melanie Gill is the named unregulated evaluator on the record; she is the subject of the existing excluded-with-reasons entry in the AntiAlienate UK practitioners directory under `practitioner:uk-ews.gill-melanie`.
 - Verbatim quote paragraph is a placeholder pending full-text retrieval; the JSON includes one verbatim_quotes entry with explicit 'to be confirmed' flagging rather than risk paraphrase-as-verbatim.
 - The 'Modern Approach' subtitle is the reconstructed working subtitle used in the AntiAlienate knowledge base; the official subtitle will be confirmed from BAILII.
-- No ACP-UK / BPS / Family Law Bar Association discrete press release specifically on Re Y [2026] EWFC 38 has been catalogued at time of writing.
+- No ACP-UK / [BPS](https://www.bps.org.uk/) / Family Law Bar Association discrete press release specifically on Re Y [2026] EWFC 38 has been catalogued at time of writing.
 
 *Author: Alan Markson.*
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

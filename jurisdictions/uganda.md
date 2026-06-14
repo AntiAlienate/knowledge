@@ -15,7 +15,7 @@ Uganda is an East African common-law unitary republic whose family-law framework
 
 - **Children Act Cap. 59 (revised 2016)** — Children Act — Parental responsibility and custody (1997) — <https://www.judiciary.go.ug/>
   - Federal Children's Act codifying welfare-of-the-child principle (s. 3) and parental responsibility provisions. Substantially revised 2016.
-- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) Cap. 249** — Divorce Act (1904) — <https://www.judiciary.go.ug/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) Cap. 249** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) (1904) — <https://www.judiciary.go.ug/>
   - Federal colonial-era divorce statute.
 
 ## Apex courts
@@ -46,7 +46,7 @@ Ugandan family-court decisions are anonymised per Judiciary practice using initi
 
 - Uganda operates a common-law framework with welfare-of-the-child principle codified in Children Act s. 3 — places Uganda in the East African common-law cluster with Kenya and Tanzania.
 - Multi-track marriage/divorce framework (Christian + customary + Mohammedan) reflects colonial-inheritance heritage.
-- Recent Hague Convention 1980 accession (2022) places Uganda in the late-acceding African cluster — newest African jurisdiction in Hague cluster within corpus.
+- Recent [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession (2022) places Uganda in the late-acceding African cluster — newest African jurisdiction in Hague cluster within corpus.
 
 ## See also
 
@@ -71,6 +71,8 @@ Ugandan family-court decisions are anonymised per Judiciary practice using initi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

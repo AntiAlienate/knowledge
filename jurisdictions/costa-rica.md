@@ -51,7 +51,7 @@ Costa Rican family-court decisions are anonymised per Supreme Court practice usi
 
 - Costa Rica operates a structurally distinctive Spanish-civil-law family-law framework — Family Code 1973 was among earlier comprehensive Latin American Family Codes, and Psychology Professional College Law 1977 is among earliest Latin American statutory psychology regulations in the corpus.
 - Responsible Parenthood Law 2001 is structurally distinctive — among earliest Latin American codifications addressing responsible parenthood and paternity establishment as legal obligation.
-- Hague Convention 1980 accession 1999 places Costa Rica as among earlier Latin American Hague accessions in the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1999 places Costa Rica as among earlier Latin American Hague accessions in the corpus.
 
 ## See also
 
@@ -76,6 +76,8 @@ Costa Rican family-court decisions are anonymised per Supreme Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -38,7 +38,7 @@ Hobart · TAS · Senior Lecturer, School of Psychological Sciences, University o
 
 **Contact:** Mandy.Matthewson@utas.edu.au; Salamanca Psychology, 1st Floor, 8 Brooke Street, Hobart TAS 7000
 
-*Notes: Dual academic + clinical role + NGO directorship + PASG leadership history. AHPRA registration verified via UTAS staff profile and APS Fellow designation; specific registration number not publicly displayed (AHPRA register requires name+DOB lookup).*
+*Notes: Dual academic + clinical role + NGO directorship + [PASG](https://pasg.info/) leadership history. AHPRA registration verified via UTAS staff profile and APS Fellow designation; specific registration number not publicly displayed (AHPRA register requires name+DOB lookup).*
 
 **See also:** `jurisdiction:australia`, `practitioner:au.emmm-foundation`, `practitioner:au.verhaar-suzanne`, `practitioner:au.bentley-caitlin`, `practitioner:au.korosi-stan`
 
@@ -242,7 +242,7 @@ Canberra · ACT · Professor of Family Studies, Centre for Social Research and M
 
 **Publications:**
 - ARC Future Fellowship: The high-conflict post-divorce shared-time family (research on entrenched parental hatred) (2019) — *Australian Research Council / ANU*
-- COVID-19 in Australia: Impacts on separated families (Meyer Elkin Essay Award) (2021) — *Family Court Review (AFCC)*
+- COVID-19 in Australia: Impacts on separated families (Meyer Elkin Essay Award) (2021) — *Family Court Review ([AFCC](https://www.afccnet.org/))*
 - Post-separation decisions about children: Engaging with hidden parental motivations (with Moloney) (2019) — *FRSA Child Inclusive Practice Forum keynote* — <https://frsa.org.au/child-inclusive-practice-forum-2019/cip-keynote-lawrie-moloney-bruce-smyth/>
 
 **Verification:**
@@ -333,6 +333,8 @@ Multi (federal) · AU (national) · Federal Circuit and Family Court of Australi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

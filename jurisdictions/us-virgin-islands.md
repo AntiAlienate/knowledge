@@ -44,7 +44,7 @@ USVI family-court decisions are anonymised per Supreme Court practice using init
 
 - USVI operates a US-derivative common-law framework with structurally distinctive Danish civil-law substantive heritage residual (via 1917 acquisition from Denmark) — only US territory with Danish-substantive heritage in the corpus.
 - Unincorporated US territory status places USVI in the US Caribbean territory cluster.
-- Hague Convention 1980 applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via US territorial extension reflects unincorporated-territory Hague jurisdiction status.
 
 ## See also
 
@@ -71,6 +71,8 @@ USVI family-court decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

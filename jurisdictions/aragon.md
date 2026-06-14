@@ -77,7 +77,7 @@ Aragonese family-court decisions are anonymised per Aragonese court practice usi
 
 ## Editorial notes
 
-- Aragon jurisdiction sidecar — civil-law Northern Iberian Spanish autonomous community with own Aragonese foral civil-law jurisdiction (Código del Derecho Foral de Aragón 2011 + Ley 2/2010 first-Spanish-joint-custody-presumption + Statute of Autonomy 2007 + Compilación del Derecho Civil de Aragón 1967 + Fueros de Aragón 1247 + Decretos de Nueva Planta 1707 civil-law preservation + Spanish Hague Convention 1980 accession 1987). Only EU member-state subnational with Foral civil-code recodification consolidated as single comprehensive Código globally + first Spanish jurisdiction to legislate strong joint-custody presumption + youngest emancipation threshold in EU + central historical territory of medieval Crown of Aragon. Completes Iberian foral civil-law quartet (Aragon + Catalonia + Basque + Navarre).
+- Aragon jurisdiction sidecar — civil-law Northern Iberian Spanish autonomous community with own Aragonese foral civil-law jurisdiction (Código del Derecho Foral de Aragón 2011 + Ley 2/2010 first-Spanish-joint-custody-presumption + Statute of Autonomy 2007 + Compilación del Derecho Civil de Aragón 1967 + Fueros de Aragón 1247 + Decretos de Nueva Planta 1707 civil-law preservation + Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987). Only EU member-state subnational with Foral civil-code recodification consolidated as single comprehensive Código globally + first Spanish jurisdiction to legislate strong joint-custody presumption + youngest emancipation threshold in EU + central historical territory of medieval Crown of Aragon. Completes Iberian foral civil-law quartet (Aragon + Catalonia + Basque + Navarre).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Northern-Iberian + civil-law + EU-subnational-civil-law-with-own-code cluster + Código-comprehensive-recodification-globally-distinctive + first-Spanish-joint-custody-presumption-Ley-2/2010 + Article-80-joint-custody-framework + youngest-EU-emancipation-threshold-CDFA-Article-4 + Crown-of-Aragon-medieval-Mediterranean-composite-monarchy + Iberian-foral-civil-law-quartet clusters within the corpus.
 
@@ -85,6 +85,8 @@ Aragonese family-court decisions are anonymised per Aragonese court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

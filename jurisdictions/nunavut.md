@@ -21,7 +21,7 @@ Nunavut (ᓄᓇᕗᑦ in Inuktitut, meaning 'Our Land') is a North American Arct
   - Nunavut territorial Act governing parental responsibility and child custody — incorporates Inuit Qaujimajatuqangit (IQ) framework principles.
 - **Nunavut Official Languages Act SNun 2008, c.10** — Nunavut Official Languages Act (2008) — <https://www.gov.nu.ca/>
   - Nunavut territorial Act establishing Inuktitut, Inuinnaqtun, English, and French as co-official languages.
-- **Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 (applicable in Nunavut)** — Canadian Federal Divorce Act (1985) — <https://laws-lois.justice.gc.ca/>
+- **Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 (applicable in Nunavut)** — Canadian Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) (1985) — <https://laws-lois.justice.gc.ca/>
   - Canadian Federal Divorce Act applicable in Nunavut for federal divorce-related parental responsibility framework.
 
 ## Apex courts
@@ -84,7 +84,7 @@ Nunavut family-court decisions are anonymised per Nunavut Court of Justice pract
 
 ## Editorial notes
 
-- Nunavut jurisdiction sidecar — mixed common-law/Nunavut-territorial-law/Inuit-customary-law North American Arctic Canadian territory (Nunavut Land Claims Agreement 1993 + Nunavut Act 1993 + Nunavut Children's Law Act 2018 + Nunavut Official Languages Act 2008 + Inuit Qaujimajatuqangit IQ framework + Federal Divorce Act 1985 + Canadian Hague Convention 1980 accession 1983). Only state-level entity with Inuit-titular majority population globally + only state-level entity operating under constitutionally-protected Inuit-knowledge (IQ) framework + only Canadian territory established via formal land-claims agreement + largest Canadian territory by area + most sparsely populated state-level entity in the world + only single-level trial court in Canada.
+- Nunavut jurisdiction sidecar — mixed common-law/Nunavut-territorial-law/Inuit-customary-law North American Arctic Canadian territory (Nunavut Land Claims Agreement 1993 + Nunavut Act 1993 + Nunavut Children's Law Act 2018 + Nunavut Official Languages Act 2008 + Inuit Qaujimajatuqangit IQ framework + Federal Divorce Act 1985 + Canadian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983). Only state-level entity with Inuit-titular majority population globally + only state-level entity operating under constitutionally-protected Inuit-knowledge (IQ) framework + only Canadian territory established via formal land-claims agreement + largest Canadian territory by area + most sparsely populated state-level entity in the world + only single-level trial court in Canada.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-American-Arctic + mixed Canadian-common-law/Inuit-customary-law + Canadian-territory cluster + Inuit-titular-majority-population-globally-distinctive + Inuit-Qaujimajatuqangit-IQ-framework + Nunavut-Land-Claims-Agreement-1993-largest-indigenous-land-claim + only-territory-established-via-land-claims-agreement + most-sparsely-populated-state-level-entity + Nunavut-Court-of-Justice-single-level-trial-court + Inuktitut-Inuinnaqtun-co-official-language + Canadian-Hague-1983-accession clusters within the corpus.
 
@@ -92,6 +92,8 @@ Nunavut family-court decisions are anonymised per Nunavut Court of Justice pract
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

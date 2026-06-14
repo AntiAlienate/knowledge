@@ -14,7 +14,7 @@ location_tags: [global, english-language, practitioner-guide]
 
 ## TL;DR
 
-Dr Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (City University of New York) and Paul R. Fine (clinical psychologist) co-authored the 2014 practitioner guide that became the standard reference for targeted parents and their attorneys. The book codified Baker's prior empirical research (Baker 2007 adult-outcomes study of formerly alienated children) into 17 actionable strategies. The framework has been cited in custody evaluations across the US, Canada, UK, and Australia, and forms the operational backbone of the modern "long-game" approach to PA cases.
+Dr Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (City University of New York) and Paul R. Fine (clinical psychologist) co-authored the 2014 practitioner guide that became the standard reference for targeted parents and their attorneys. The book codified [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) prior empirical research (Baker 2007 adult-outcomes study of formerly alienated children) into 17 actionable strategies. The framework has been cited in custody evaluations across the US, Canada, UK, and Australia, and forms the operational backbone of the modern "long-game" approach to PA cases.
 
 ## Empirical Foundation
 
@@ -95,6 +95,8 @@ Where Bernet diagnoses and Harman conceptualizes, Baker-Fine **operationalizes**
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+
 
 
 

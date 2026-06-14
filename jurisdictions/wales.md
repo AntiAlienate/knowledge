@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GB-WLS` · **Legal system:** common-law  
 **Language(s):** en, cy  
 
-Wales operates within the unified Bar of England and Wales and shares the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via [Cafcass Cymru](https://www.cafcass.gov.uk/) (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English [Cafcass](https://www.cafcass.gov.uk/). The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which Cafcass Cymru policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.
+Wales operates within the unified Bar of England and Wales and shares the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via [Cafcass Cymru](https://www.cafcass.gov.uk/) (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English [Cafcass](https://www.cafcass.gov.uk/). The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which [Cafcass Cymru](https://www.cafcass.gov.uk/) policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.
 
 ## PA recognition status
 
@@ -13,7 +13,7 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 
 ## Statutory framework
 
-- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W)** — Children Act 1989 — substantive children-law statute (applies in Wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
+- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — substantive children-law statute (applies in Wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
   - Substantive statute applying in Wales as part of the unified England-and-Wales legal jurisdiction. s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame the substantive standard. Cafcass Cymru produces s.7 welfare reports within this statutory frame.
 - **Children and Family Court Advisory and Support Service (Wales) — Cafcass Cymru regulations** — Cafcass Cymru — devolved Welsh service (2001) — <https://gov.wales/cafcass-cymru>
   - Cafcass Cymru was established as a Welsh Government Sponsored Public Body in 2001 — devolved from English Cafcass. Operates its own welfare-reporting framework + practice guidance. The Welsh institutional analogue to English Cafcass.
@@ -87,6 +87,8 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

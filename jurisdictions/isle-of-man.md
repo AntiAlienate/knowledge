@@ -46,7 +46,7 @@ Manx family-court decisions are anonymised per High Court practice using initial
 - Isle of Man operates a common-law framework drawing on English-law model with Crown Dependency status — places Isle of Man in the Crown Dependency cluster alongside Jersey and Guernsey.
 - Tynwald as world's oldest continuously-functioning parliament (claimed 979 CE) is structurally distinctive globally — most-long-standing legislative institution in the corpus.
 - Crown Dependency status (not part of UK) is structurally distinctive — Isle of Man has its own treaty-extension capability via UK assistance.
-- Hague Convention 1980 applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status.
 
 ## See also
 
@@ -71,6 +71,8 @@ Manx family-court decisions are anonymised per High Court practice using initial
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

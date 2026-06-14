@@ -79,7 +79,7 @@ Madeira-related decisions are anonymised per Portuguese court practice using ini
 
 ## Editorial notes
 
-- Madeira jurisdiction sidecar — civil-law eastern-Atlantic Portuguese autonomous region (Portuguese Civil Code Articles 1877-1920 as amended by Lei 61/2008 + Portuguese Constitution 1976 Article 6 + Estatuto Político-Administrativo da RAM 1991 modernised 2006 + EU Treaty Article 349 Outermost Regions framework + Portuguese Hague Convention 1980 accession 1983). One of only two Portuguese autonomous regions globally + one of nine EU outermost regions (RUP) + constitutional legislative-assembly framework with Lei Orgânica autonomy + constitutional power to enact regional legislative acts within statutorily defined competence + Lei 61/2008 Joint Parental Responsibility Reform.
+- Madeira jurisdiction sidecar — civil-law eastern-Atlantic Portuguese autonomous region (Portuguese Civil Code Articles 1877-1920 as amended by Lei 61/2008 + Portuguese Constitution 1976 Article 6 + Estatuto Político-Administrativo da RAM 1991 modernised 2006 + EU Treaty Article 349 Outermost Regions framework + Portuguese [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983). One of only two Portuguese autonomous regions globally + one of nine EU outermost regions (RUP) + constitutional legislative-assembly framework with Lei Orgânica autonomy + constitutional power to enact regional legislative acts within statutorily defined competence + Lei 61/2008 Joint Parental Responsibility Reform.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins eastern-Atlantic + civil-law + Portuguese-autonomous-region cluster + Constitution-Article-6-constitutionally-established-globally-distinctive + EU-Article-349-Outermost-Regions-RUP-framework + Estatuto-Político-Administrativo-legislative-assembly-Lei-Orgânica-autonomy + decretos-legislativos-regionais-regional-legislative-power + Lei-61/2008-Joint-Parental-Responsibility-Reform-2008 + Portuguese-Hague-1983-accession clusters within the corpus.
 
@@ -87,6 +87,8 @@ Madeira-related decisions are anonymised per Portuguese court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

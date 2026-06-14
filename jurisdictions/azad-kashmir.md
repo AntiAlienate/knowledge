@@ -50,7 +50,7 @@ AJK family-court decisions are anonymised per High Court practice using initials
 - Self-governing territory status with own President, Prime Minister, Legislative Assembly, Supreme Court, and High Court is structurally distinctive within Pakistani-administered cluster.
 - AJK Council joint AJK-Pakistani body mechanism is structurally distinctive — only joint-state-and-territory appellate-supervisory body within Pakistan.
 - Kashmir conflict integration with Indian-administered J&K + Ladakh and Chinese-administered Aksai Chin is structurally distinctive globally — only state-level territorial conflict involving three nuclear-armed neighbouring states.
-- Pakistani Hague Convention 1980 accession (2017) is structurally distinctive — recent (~9-year) accession, with applicability operating via Pakistani territorial extension subject to AJK's dual-state-and-territory constitutional status.
+- Pakistani [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession (2017) is structurally distinctive — recent (~9-year) accession, with applicability operating via Pakistani territorial extension subject to AJK's dual-state-and-territory constitutional status.
 
 ## See also
 
@@ -77,6 +77,8 @@ AJK family-court decisions are anonymised per High Court practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -17,7 +17,7 @@ British Antarctic Territory (BAT) is an Antarctic common-law British Overseas Te
   - Order in Council of 3 March 1962 establishing BAT as a separate British Overseas Territory from the Falkland Islands Dependencies.
 - **Antarctic Treaty 1959 (article IV claim suspension)** — Antarctic Treaty (1959) — <https://www.ats.aq/>
   - International treaty providing for Antarctic claim suspension under article IV — BAT claim suspended pending Treaty term.
-- **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in BAT)** — Children Act 1989 (1989) — <https://www.legislation.gov.uk/>
+- **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in BAT)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (1989) — <https://www.legislation.gov.uk/>
   - English Children Act 1989 applicable in BAT for parental responsibility and child custody — theoretical given absence of permanent civilian population.
 
 ## Apex courts
@@ -75,6 +75,8 @@ BAT decisions are anonymised per UK overseas-territory court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

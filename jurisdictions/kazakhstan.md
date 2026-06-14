@@ -45,7 +45,7 @@ Kazakhstani family-court decisions are anonymised per Supreme Court practice usi
 ## Structural findings
 
 - Kazakhstan operates a post-Soviet civil-law framework — Code on Marriage and Family 2011 reflects post-Soviet codification trajectory shared with Russia, Belarus, Ukraine within the corpus.
-- Hague Convention 1980 accession 2013 places Kazakhstan in the Hague Central Asian cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2013 places Kazakhstan in the Hague Central Asian cluster.
 - Bilingual official-language framework (Kazakh + Russian) reflects post-Soviet language-policy heritage.
 
 ## See also
@@ -72,6 +72,8 @@ Kazakhstani family-court decisions are anonymised per Supreme Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

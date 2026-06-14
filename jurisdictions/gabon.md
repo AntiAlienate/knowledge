@@ -43,7 +43,7 @@ Gabonese family-court decisions are anonymised per Court of Cassation practice u
 ## Structural findings
 
 - Gabon operates a French-civil-law family-law framework — places Gabon in the Central African Francophone civil-law cluster with French-derivative substantive heritage.
-- Hague Convention 1980 accession 2011 places Gabon in the Hague Central African cluster.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2011 places Gabon in the Hague Central African cluster.
 
 ## See also
 
@@ -69,6 +69,8 @@ Gabonese family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

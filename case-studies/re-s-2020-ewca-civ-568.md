@@ -23,7 +23,7 @@ Father's application under s.8 [Children Act 1989](https://www.legislation.gov.u
 
 - **Helena Ware** — Independent Social Worker (formerly an experienced Children's Guardian); appointed jointly to advise the court on Lara's welfare and on the mother's compliance with previous orders (instructed by jointly by the parties (and re-instructed by order of the court following the trial judgment))
 - **Rev Dr David Millikan** — Expert on cults and new religious movements; evidence originally given in Australian litigation and relied upon by HHJ Meston QC at first instance (instructed by evidence taken from prior Australian proceedings; relied upon at first instance)
-- **[Cafcass](https://www.cafcass.gov.uk/) Officer (court-appointed)** — [Cafcass](https://www.cafcass.gov.uk/) safeguarding and welfare reporting in 2017 and 2019; the Cafcass officer's identity is recorded in the court file but is not central to the appellate ratio (instructed by Cafcass / the Family Court)
+- **[Cafcass](https://www.cafcass.gov.uk/) Officer (court-appointed)** — [Cafcass](https://www.cafcass.gov.uk/) safeguarding and welfare reporting in 2017 and 2019; the [Cafcass](https://www.cafcass.gov.uk/) officer's identity is recorded in the court file but is not central to the appellate ratio (instructed by Cafcass / the Family Court)
 
 ## Holding
 
@@ -143,8 +143,8 @@ Mother's application for permission to cross-appeal refused. Father's appeal all
 1. **Re S (Parental Alienation: Cult) [2020] EWCA Civ 568 — [BAILII](https://www.bailii.org/) listing** — <https://www.bailii.org/ew/cases/EWCA/Civ/2020/568.html> ([BAILII](https://www.bailii.org/) (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
 2. **Re S (A Child) — Approved Judgment PDF (29 April 2020)** — <https://www.judiciary.uk/wp-content/uploads/2020/04/re-s-a-child-judgment290420.pdf> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 3. **Judiciary case page — Re S (Parental Alienation: Cult)** — <https://www.judiciary.uk/judgments/re-s-parental-alienation-cult/> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
-4. **Re S (Parental Alienation: Cult: Transfer of Primary Care) [2020] EWHC 1940 (Fam) — Williams J (remitted welfare hearing)** — <https://www.bailii.org/ew/cases/EWHC/Fam/2020/1940.html> (BAILII) [en] — accessed 2026-05-30
-5. **Children Act 1989** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
+4. **Re S (Parental Alienation: Cult: Transfer of Primary Care) [2020] EWHC 1940 (Fam) — Williams J (remitted welfare hearing)** — <https://www.bailii.org/ew/cases/EWHC/Fam/2020/1940.html> ([BAILII](https://www.bailii.org/)) [en] — accessed 2026-05-30
+5. **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 6. **Stewarts Law — Father wins child's primary care due to mother's connection with a cult (Lucy Swinton, 3 September 2020)** — <https://www.stewartslaw.com/news/father-wins-childs-primary-care-due-to-mothers-connection-with-a-cult/> (Stewarts Law LLP) [en] — accessed 2026-05-30
 7. **18 St John Street Chambers — Parental alienation review: Re S [2020] EWCA Civ 568** — <https://www.18sjs.com/parental-alienation-review-re-s-parental-alienation-cult-2020-ewca-civ-568-family-court-approaches-parental-alienation/> (18 St John Street Chambers) [en] — accessed 2026-05-30
 8. **Law & Religion UK — Cults in the Court of Appeal: Re S** — <https://lawandreligionuk.com/2020/04/30/cults-in-the-court-of-appeal-re-s/> (Law & Religion UK) [en] — accessed 2026-05-30
@@ -173,6 +173,8 @@ Mother's application for permission to cross-appeal refused. Father's appeal all
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

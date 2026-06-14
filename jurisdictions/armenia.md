@@ -46,7 +46,7 @@ Armenian family-court decisions are anonymised per Court of Cassation practice u
 
 - Armenia operates a post-Soviet civil-law framework with Council of Europe + ECHR membership — places Armenia in the post-Soviet civil-law + ECHR cluster alongside Georgia within the corpus.
 - Family Code 2004 reflects European-codification-influenced reform trajectory shared with Georgia, distinct from Russian Family Code 1995 model.
-- Hague Convention 1980 accession 2007 places Armenia in the Hague South Caucasus cluster alongside Georgia.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2007 places Armenia in the Hague South Caucasus cluster alongside Georgia.
 
 ## See also
 
@@ -72,6 +72,8 @@ Armenian family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -45,7 +45,7 @@ Svalbard family-court decisions are anonymised per Norwegian Supreme Court pract
 - Equal-access regime for citizens of ~46 treaty parties is structurally distinctive globally — Svalbard is the only state-level entity where any treaty-party national may settle without visa or work permit.
 - Demilitarisation under Svalbard Treaty is structurally distinctive — among the few demilitarised territories in the corpus.
 - Maximum-15% tax regime under Svalbard Treaty creates structurally distinctive fiscal autonomy.
-- Hague Convention 1980 applicability via Norwegian territorial extension reflects autonomous-status Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Norwegian territorial extension reflects autonomous-status Hague jurisdiction status.
 
 ## See also
 
@@ -70,6 +70,8 @@ Svalbard family-court decisions are anonymised per Norwegian Supreme Court pract
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

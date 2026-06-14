@@ -46,7 +46,7 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 - Cases where favoured parent re-introduced quickly without monitoring: most relapse risk
 - Long-term tracking (3-7 years) for subset showed durable repair
 
-## Program structure (Family Bridges curriculum)
+## Program structure ([Family Bridges](https://warshak.com/family-bridges/) curriculum)
 
 ### Day 1: Foundations
 - Education about critical thinking, perception, memory, peer influence
@@ -79,7 +79,7 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 
 ## Methodological notes and limitations
 
-- Acknowledged in Warshak & Otis 2010:
+- Acknowledged in [Warshak](https://warshak.com/family-bridges/) & Otis 2010:
   - Small sample (n=22)
   - No randomised control (ethical impossibility — courts make case-by-case decisions)
   - Self-selected through court referral
@@ -120,6 +120,8 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Reunification protocol selection requires assessment by qualified mental-health professionals and court order.*
+
+
 
 
 

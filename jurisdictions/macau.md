@@ -41,7 +41,7 @@ Macanese family-court decisions are anonymised per Court of Final Appeal practic
 - Macau operates a structurally distinctive globally Portuguese-civil-law SAR framework — only Portuguese-civil-law Special Administrative Region globally within the corpus.
 - 'One Country, Two Systems' framework retains Portuguese-derivative substantive law distinct from mainland PRC socialist-civil-law framework — places Macau in within-state Hague/civil-system split with mainland China.
 - Bilingual official-language framework (Chinese + Portuguese) is structurally distinctive within East Asia in the corpus.
-- Hague Convention 1980 applicability via PRC territorial extension represents structurally distinctive Hague jurisdiction status — Macau applies Hague Convention while mainland PRC does not.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via PRC territorial extension represents structurally distinctive Hague jurisdiction status — Macau applies Hague Convention while mainland PRC does not.
 
 ## See also
 
@@ -67,6 +67,8 @@ Macanese family-court decisions are anonymised per Court of Final Appeal practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

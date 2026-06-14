@@ -46,7 +46,7 @@ Saint-Pierrais family-court decisions are anonymised per Court of Appeal practic
 - Saint-Pierre and Miquelon operates a French-civil-law framework with COM autonomy — places Saint-Pierre-et-Miquelon in the French overseas collectivity cluster.
 - Only remaining French jurisdiction in continental North America is structurally distinctive globally — last vestige of New France following 1763 Treaty of Paris and 1803 Louisiana Purchase.
 - Geographic proximity to Canada (~25 km from Newfoundland) creates structurally distinctive France-Canada cross-border family-law coordination requirements.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects COM Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects COM Hague jurisdiction status.
 
 ## See also
 
@@ -70,6 +70,8 @@ Saint-Pierrais family-court decisions are anonymised per Court of Appeal practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -18,7 +18,7 @@ United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Irel
 - **Children (Northern Ireland) Order 1995** — Children (NI) Order 1995 — substantive NI children-law statute (1995) — <https://www.legislation.gov.uk/nisi/1995/755>
   - Substantive NI children-law statute (Sewel-style Order in Council). See jurisdiction:northern-ireland for detail.
 - **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W applies in Wales)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — substantive E&W statute applying in Wales (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
-  - Wales shares unified England-and-Wales statutory frame. See jurisdiction:wales for institutional devolution detail (Cafcass Cymru + Doughty 2018).
+  - Wales shares unified England-and-Wales statutory frame. See jurisdiction:wales for institutional devolution detail ([Cafcass Cymru](https://www.cafcass.gov.uk/) + Doughty 2018).
 
 ## Apex courts
 
@@ -41,7 +41,7 @@ United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Irel
 ## Professional regulators
 
 - **Devolved institutional anchors** — Scotland: Shared Parenting Scotland (recognition) + Scottish Women's Aid + Engender (critique) — institutional-voice dominant rather than bar-based. Northern Ireland: Bar of NI Family Bar Association + NIGALA + WAFNI (25.6.2020 PA briefing only NI-specific WA position). Wales: Cafcass Cymru (devolved Welsh Government 2001) + Cardiff University Dr Julie Doughty research base + Welsh Women's Aid. See per-country sidecars for detail. — <https://www.judiciary.scot/>
-- **Common UK regulatory layer — [HCPC](https://www.hcpc-uk.org/) + [BPS](https://www.bps.org.uk/) (UK-wide)** — Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) is the UK-wide statutory regulator for practitioner psychologists applying in all three devolved jurisdictions. British Psychological Society ([BPS](https://www.bps.org.uk/)) operates UK-wide. No devolved-jurisdiction-specific PA position. Post-Re Y EWFC 38 (E&W 2026) HCPC-registration requirement for PA evaluators flows UK-wide. — <https://www.hcpc-uk.org/>
+- **Common UK regulatory layer — [HCPC](https://www.hcpc-uk.org/) + [BPS](https://www.bps.org.uk/) (UK-wide)** — Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) is the UK-wide statutory regulator for practitioner psychologists applying in all three devolved jurisdictions. British Psychological Society ([BPS](https://www.bps.org.uk/)) operates UK-wide. No devolved-jurisdiction-specific PA position. Post-Re Y EWFC 38 (E&W 2026) [HCPC](https://www.hcpc-uk.org/)-registration requirement for PA evaluators flows UK-wide. — <https://www.hcpc-uk.org/>
 
 ## Anonymisation convention
 
@@ -49,7 +49,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 
 ## Key developments
 
-- **1989** — Children Act 1989 — applies in England and Wales. — <https://www.legislation.gov.uk/ukpga/1989/41>
+- **1989** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — applies in England and Wales. — <https://www.legislation.gov.uk/ukpga/1989/41>
 - **1995** — Children (Scotland) Act 1995 + Children (NI) Order 1995 — substantive Scottish + NI children-law architecture. — <https://www.legislation.gov.uk/ukpga/1995/36/contents>
 - **2001** — Cafcass Cymru established as Welsh Government Sponsored Public Body — devolved Welsh Government institutional differentiation. — <https://gov.wales/cafcass-cymru>
 - **2018** — April 2018 — Doughty/Maxwell/Slater Welsh-Government-commissioned 'Review of Research and Case Law on Parental Alienation' (Cardiff University). Frames PA as 'belief system'. — <https://gov.wales/>
@@ -94,6 +94,8 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

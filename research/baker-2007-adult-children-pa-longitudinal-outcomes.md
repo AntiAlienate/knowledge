@@ -51,7 +51,7 @@ Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alie
 - Anger at having been used as instrument of conflict
 - Guilt over having rejected the targeted parent
 
-## The Eight Behavioural Manifestations (Baker's Framework)
+## The Eight Behavioural Manifestations ([Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Framework)
 
 From this longitudinal data, Baker derived eight classic alienated-child behavioural patterns now widely used in clinical and forensic settings:
 
@@ -104,6 +104,8 @@ Baker's 2007 study transformed PA from a contested clinical theory to an empiric
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal or clinical advice.*
+
+
 
 
 

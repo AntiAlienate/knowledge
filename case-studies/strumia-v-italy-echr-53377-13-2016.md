@@ -63,7 +63,7 @@ Article 8 of the Convention has been violated. Italy's positive obligation to ta
 
 ## Outcome
 
-Unanimous finding of a violation of Article 8 ECHR. Under Article 41 the Court awarded the applicant €15,000 in respect of non-pecuniary damage; the costs-and-expenses figure is recorded in the operative part of the HUDOC judgment (001-163918) but not extracted on the Italian Ministry of Justice's summary page (SDU1269983). Chamber judgment of the First Section; final under Article 44 § 2 of the Convention three months after delivery, no Grand Chamber referral having been requested.
+Unanimous finding of a violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1). Under Article 41 the Court awarded the applicant €15,000 in respect of non-pecuniary damage; the costs-and-expenses figure is recorded in the operative part of the [HUDOC](https://hudoc.echr.coe.int/) judgment (001-163918) but not extracted on the Italian Ministry of Justice's summary page (SDU1269983). Chamber judgment of the First Section; final under Article 44 § 2 of the Convention three months after delivery, no Grand Chamber referral having been requested.
 
 ## Comparative jurisprudence
 
@@ -124,6 +124,8 @@ Unanimous finding of a violation of Article 8 ECHR. Under Article 41 the Court a
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

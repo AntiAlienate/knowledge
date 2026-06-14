@@ -42,7 +42,7 @@ Réunionese family-court decisions are anonymised per Court of Appeal practice u
 - Réunion operates a French-civil-law framework applied as in metropolitan France — places Réunion in the French DROM cluster.
 - Only state-level Indian Ocean entity directly integrated into a European Union member state is structurally distinctive globally.
 - Multi-ethnic Creole + Tamil Indian + Muslim + Chinese + African population composition is structurally distinctive — most ethnically pluralistic French DROM.
-- Hague Convention 1980 applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via French Republic territorial extension reflects DROM Hague jurisdiction status.
 
 ## See also
 
@@ -68,6 +68,8 @@ Réunionese family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

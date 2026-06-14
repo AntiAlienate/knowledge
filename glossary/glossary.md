@@ -49,7 +49,7 @@ Cases where both alienating behaviours *and* legitimate estrangement factors are
 ## Clinical / diagnostic terms
 
 ### [DSM-5](https://www.appi.org/products/dsm)
-The American Psychiatric Association's *Diagnostic and Statistical Manual of Mental Disorders, 5th edition*. **PA is not a named diagnosis in DSM-5** but related codes can apply:
+The American Psychiatric Association's *Diagnostic and Statistical Manual of Mental Disorders, 5th edition*. **PA is not a named diagnosis in [DSM-5](https://www.appi.org/products/dsm)** but related codes can apply:
 - V61.20: Parent-Child Relational Problem
 - V61.29: Child Affected by Parental Relationship Distress
 - V995.51: Child Psychological Abuse
@@ -101,7 +101,7 @@ UK provision (CA 1989 s.91(14)) restricting future applications without permissi
 England & Wales — Children and Family Court Advisory and Support Service. The body of social workers and family-court advisers who assess children and report to the court. [Cafcass](https://www.cafcass.gov.uk/) involvement is standard in contested family-court cases.
 
 ### Section 7 Report
-UK term for a welfare report ordered by the court, typically prepared by Cafcass or the local authority. Usually decisive in contested cases.
+UK term for a welfare report ordered by the court, typically prepared by [Cafcass](https://www.cafcass.gov.uk/) or the local authority. Usually decisive in contested cases.
 
 ### Forensic Evaluation / Custody Evaluation
 US/Canadian term for the equivalent: a court-appointed mental-health professional assesses the family and makes recommendations.
@@ -189,6 +189,8 @@ PA occurs roughly evenly across mother- and father-targeted patterns when preval
 ---
 
 *Open a PR with corrections or additions. Vocabulary in this field is contested — multiple framings can be legitimate.*
+
+
 
 
 

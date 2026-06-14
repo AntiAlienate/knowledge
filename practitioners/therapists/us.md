@@ -13,9 +13,9 @@ Regulatory disclosure: Randy Rand, EdD (co-developer of [Family Bridges](https:/
 - 19 verified US practitioner entries — the largest single-country therapists directory in the AntiAlienate-knowledge repo, reflecting the disproportionate share of US-anchored PA clinical, research, and forensic-evaluator activity in the English-language literature.
 - [DSM-5-TR](https://www.appi.org/products/dsm) CAPRD (V995.51 / Z62.898) is the most-cited US institutional reference; the international parallel is [ICD-11](https://icd.who.int/) QE52.0 child psychological abuse / caregiver-child relationship problem. CAPRD is a relational V/Z-code, not a syndrome diagnosis — this distinction is the structural fault line between recognition, critique, and middle camps in US practice.
 - Bernet / Wamboldt / Narrow (2016) JAACAP CAPRD framework paper is the apex US clinical-research anchor. It is the bridging document between the [PASG](https://pasg.info/) recognition camp (Bernet's network) and the DSM Task Force institutional process (Wamboldt, Narrow), making it the unavoidable reference for any US PA clinical discussion.
-- The recognition camp is the best-resourced US camp at the individual-practitioner level ([PASG](https://pasg.info/) network, Family Bridges, [TPFF](https://turningpointsforfamilies.com/), NAOPAS), but the Randy Rand exclusion — California Board of Psychology disciplinary action, licence inactive since 2009 — is the canonical US regulatory disclosure that any audit of reunification-camp credentials must surface.
-- The critique camp's evidence base centres on [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) overturned-decisions case series and the Geffner-edited 2022 Journal of Family Trauma special issue. AFCC-aligned middle-camp clinicians (Drozd, Sullivan, Kline Pruett, Deutsch, Olesen, Kelly, Johnston) operate the OBFC, decision-tree, and PCCP frameworks that institutional family courts most often court-order.
-- Two name-correction findings preserved from v1.0: (a) 'Jennifer Hardman, LMFT' in the original source brief is not publicly verifiable — closest verifiable name is Jennifer J. Harman, PhD (Colorado State, PASG board, recognition camp), included here as the corrected entry; (b) Richard A. Gardner (deceased 2003) is the historical originator of PAS terminology and remains an essential historical anchor but is not active practice.
+- The recognition camp is the best-resourced US camp at the individual-practitioner level ([PASG](https://pasg.info/) network, [Family Bridges](https://warshak.com/family-bridges/), [TPFF](https://turningpointsforfamilies.com/), NAOPAS), but the Randy Rand exclusion — California Board of Psychology disciplinary action, licence inactive since 2009 — is the canonical US regulatory disclosure that any audit of reunification-camp credentials must surface.
+- The critique camp's evidence base centres on [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) overturned-decisions case series and the Geffner-edited 2022 Journal of Family Trauma special issue. [AFCC](https://www.afccnet.org/)-aligned middle-camp clinicians (Drozd, Sullivan, Kline Pruett, Deutsch, Olesen, Kelly, Johnston) operate the OBFC, decision-tree, and PCCP frameworks that institutional family courts most often court-order.
+- Two name-correction findings preserved from v1.0: (a) 'Jennifer Hardman, LMFT' in the original source brief is not publicly verifiable — closest verifiable name is Jennifer J. Harman, PhD (Colorado State, [PASG](https://pasg.info/) board, recognition camp), included here as the corrected entry; (b) Richard A. Gardner (deceased 2003) is the historical originator of PAS terminology and remains an essential historical anchor but is not active practice.
 
 ## Recognition camp
 
@@ -23,7 +23,7 @@ Regulatory disclosure: Randy Rand, EdD (co-developer of [Family Bridges](https:/
 *PhD (Clinical Psychology)*
 Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychology, UT Southwestern Medical Center; co-developer Family Bridges reunification workshop
 
-**Stance:** Author of the most-cited Family Bridges outcomes paper (Warshak 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed Family Bridges with Randy Rand (now excluded — see excluded[]). Position is PASG-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
+**Stance:** Author of the most-cited Family Bridges outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed Family Bridges with Randy Rand (now excluded — see excluded[]). Position is PASG-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
 
 **Publications:**
 - Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children (2010) — *Family Court Review 48(1):48-80* — <https://onlinelibrary.wiley.com/doi/10.1111/j.1744-1617.2009.01288.x>
@@ -47,7 +47,7 @@ Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychol
 *LMFT, LCSW-R*
 New York City · NY · Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)), New York City; Minuchin structural family therapy lineage
 
-**Stance:** Operator of Turning Points for Families (TPFF) intensive in-home reunification programme; practice statement frames PA as 'a form of psychological child abuse with lifetime consequences'. Author of The Parental Alienation Syndrome (Charles C. Thomas, 2012); historically endorsed by Bernet and Salvador Minuchin. TPFF is one of the programmes critiqued in the Geffner et al. (2022) JFTCCCD special issue.
+**Stance:** Operator of Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) intensive in-home reunification programme; practice statement frames PA as 'a form of psychological child abuse with lifetime consequences'. Author of The Parental Alienation Syndrome (Charles C. Thomas, 2012); historically endorsed by Bernet and Salvador Minuchin. TPFF is one of the programmes critiqued in the Geffner et al. (2022) JFTCCCD special issue.
 
 **Publications:**
 - The Parental Alienation Syndrome: A Family Therapy and Collaborative Systems Approach to Amelioration (2012) — *Charles C. Thomas Publisher*
@@ -81,7 +81,7 @@ Pasadena (CA practice history); Washington licensure · WA · Independent clinic
 
 **Contact:** Contact form at https://drcraigchildressblog.com/
 
-*Notes: WA psychology license #61538481 per practice blog. Recognition-camp framing but anchored in DSM-5 attachment language rather than PASG Five-Factor Model; useful for parents seeking diagnostic rigour outside PASG.*
+*Notes: WA psychology license #61538481 per practice blog. Recognition-camp framing but anchored in [DSM-5](https://www.appi.org/products/dsm) attachment language rather than PASG Five-Factor Model; useful for parents seeking diagnostic rigour outside PASG.*
 
 **See also:** `jurisdiction:united-states`
 
@@ -119,7 +119,7 @@ Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University Schoo
 **Publications:**
 - Child Affected by Parental Relationship Distress: New Disorder in DSM-5 (CAPRD framework) (2016) — *Journal of the American Academy of Child & Adolescent Psychiatry 55(7):571-579 (Bernet, Wamboldt & Narrow)*
 - Parental Alienation: Science and Law (2020) — *Charles C. Thomas (with Lorandos)*
-- Parental Alienation, DSM-5, and ICD-11 (2010) — *Charles C. Thomas*
+- Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/) (2010) — *Charles C. Thomas*
 - Five-Factor Model for the Diagnosis of Parental Alienation (2022) — *JAACAP / PASG* — <https://ckm.vumc.org/pasg/content/five-factor-model-diagnosis-parental-alienation>
 
 **Verification:**
@@ -370,7 +370,7 @@ San Rafael · CA · Independent custody-evaluation practice (San Rafael, CA)
 **Stance:** Court-appointed custody and dependency evaluations; co-editor with Drozd & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Parenting Plan Evaluations (Oxford, 2016) and Parenting Plan & Child Custody Evaluations (PRP, 2013). Contributor to AFCC Model Standards — part of the AFCC evaluator-training canon.
 
 **Publications:**
-- Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, Saini & Olesen eds.)*
+- Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)*
 - Parenting Plan & Child Custody Evaluations: Using Decision Trees (2013) — *Professional Resource Press (co-author)*
 - AFCC Model Standards contributions (2006) — *AFCC*
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

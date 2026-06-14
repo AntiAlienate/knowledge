@@ -36,7 +36,7 @@ Panamanian family-court decisions are anonymised per Supreme Court practice usin
 ## Structural findings
 
 - Panama operates a Spanish-civil-law family-law framework — places Panama in the Central American civil-law cluster with Guatemala and Costa Rica.
-- Hague Convention 1980 accession 1994 places Panama as among the earliest Latin American Hague accessions within the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1994 places Panama as among the earliest Latin American Hague accessions within the corpus.
 - Family Code 1994 simultaneous codification + Hague accession represents structurally distinctive modernisation moment.
 
 ## See also
@@ -62,6 +62,8 @@ Panamanian family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -35,13 +35,13 @@ Anguillan family-court decisions are anonymised per ECSC practice using initials
 ## Key developments
 
 - **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Anguilla effective 1 August 1986.
-- **2014** — Federal Children Act enacted drawing on English Children Act 1989 model.
+- **2014** — Federal Children Act enacted drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model.
 
 ## Structural findings
 
 - Anguilla operates a common-law framework with British Overseas Territory status — places Anguilla in the Caribbean BOT cluster.
 - Eastern Caribbean Supreme Court appellate jurisdiction (OECS-shared) places Anguilla alongside BVI in the OECS-shared-judicial-system BOT cluster.
-- Hague Convention 1980 applicability via UK territorial extension reflects BOT Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects BOT Hague jurisdiction status.
 
 ## See also
 
@@ -66,6 +66,8 @@ Anguillan family-court decisions are anonymised per ECSC practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

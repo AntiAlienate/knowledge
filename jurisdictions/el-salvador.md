@@ -43,8 +43,8 @@ Salvadoran family-court decisions are anonymised per Supreme Court practice usin
 ## Structural findings
 
 - El Salvador operates a Spanish-civil-law family-law framework — places El Salvador in the Central American civil-law cluster with Guatemala, Costa Rica, Panama, Honduras, Nicaragua.
-- LEPINA 2009 is structurally aligned with the broader Latin American UNCRC-influenced comprehensive children's-protection-code wave.
-- Hague Convention 1980 accession 2001 places El Salvador in the Hague Latin American cluster.
+- LEPINA 2009 is structurally aligned with the broader Latin American [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)-influenced comprehensive children's-protection-code wave.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2001 places El Salvador in the Hague Latin American cluster.
 
 ## See also
 
@@ -69,6 +69,8 @@ Salvadoran family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

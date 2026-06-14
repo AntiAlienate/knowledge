@@ -59,7 +59,7 @@ The clinical PA-reunification literature now has three named, structured protoco
 
 | Protocol | Author | Format | Cost (USD) | Severity-fit |
 |---|---|---|---|---|
-| **Family Bridges** | [Warshak](https://warshak.com/family-bridges/) 2010 | Intensive 4-day workshop | $25-40k | Severe |
+| **[Family Bridges](https://warshak.com/family-bridges/)** | [Warshak](https://warshak.com/family-bridges/) 2010 | Intensive 4-day workshop | $25-40k | Severe |
 | **Family Reflections** | Reay 2015 | Intensive 4-day workshop | $25-40k | Severe |
 | **Multi-Modal Family Intervention** | Friedlander & Walters 2010 | Outpatient 6-18 month | $10-20k | Moderate-severe |
 
@@ -81,7 +81,7 @@ Particularly useful when an intensive workshop is impractical (financial barrier
 The PA-reunification research stack:
 
 - **Sullivan & Kelly (2001)** — *Family Court Review* — foundational family-systems framework
-- **Warshak (2010)** — Family Bridges intensive workshop
+- **[Warshak](https://warshak.com/family-bridges/) (2010)** — Family Bridges intensive workshop
 - **Friedlander & Walters (2010)** — MMFI outpatient + 4-category typology
 - **Reay (2015)** — Family Reflections intensive (alternate to Bridges)
 - **Harman/Kruk/Hines (2018)** — Psychological Bulletin — behavior-frame reframe
@@ -127,6 +127,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

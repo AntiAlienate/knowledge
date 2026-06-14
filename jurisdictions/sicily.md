@@ -57,7 +57,7 @@ Sicilian family-court decisions are anonymised per Italian court practice using 
 
 ## Structural findings
 
-- Sicily operates a civil-law Italian Codice Civile framework via Sicilian autonomous-region administrative framework — places Sicily in the Mediterranean Italian autonomous-region cluster.
+- Sicily operates a civil-law Italian [Codice Civile](https://www.brocardi.it/codice-civile/) framework via Sicilian autonomous-region administrative framework — places Sicily in the Mediterranean Italian autonomous-region cluster.
 - First Italian autonomous region established (Statuto Speciale 15 May 1946) is structurally distinctive globally — predating Italian Constitution of 1948 by ~22 months.
 - Largest Italian autonomous region by population and area is structurally distinctive globally — ~5 million population, ~25,711 km² area.
 - Largest island in the Mediterranean is structurally distinctive globally.
@@ -91,6 +91,8 @@ Sicilian family-court decisions are anonymised per Italian court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -38,7 +38,7 @@ Wildblood J's broader teaching points (extracted from the judgment and subsequen
 
 - Alienation must be identified early. Late intervention is, by then, often futile.
 - A residence transfer is not a procedure to be ordered without comprehensive planning that includes the school, the receiving parent, the therapeutic team and a transition plan tailored to the children's expected reaction.
-- "Every agency" can be at fault – courts, Cafcass, local authorities, schools – and the failure of any one of them can undo the others.
+- "Every agency" can be at fault – courts, [Cafcass](https://www.cafcass.gov.uk/), local authorities, schools – and the failure of any one of them can undo the others.
 
 ## Who else was involved
 
@@ -74,6 +74,8 @@ For affected parents, the brutal honesty of the judgment – the judge effective
 - [Family Law Week update](https://www.familylawweek.co.uk/site.aspx?i=ed199793)
 - [Sam King QC & Frankie Shama practitioner guide (free chapter)](https://www.lawbriefpublishing.com/2022/07/free-chapter-from-a-practical-guide-to-parental-alienation-in-private-and-public-law-children-cases-by-sam-king-qc-frankie-shama/)
 - [Karen Woodall – "Responding to cases of post-separation parental rejection" (2021)](https://s70fa8a3935caf190.jimcontent.com/download/version/1726402616/module/8172817981/name/Woodall%20N%20(2021)%20The%20alienated%20child%20Responding%20to%20cases%20of%20post%20separation%20parental%20rejection%20c.pdf)
+
+
 
 
 

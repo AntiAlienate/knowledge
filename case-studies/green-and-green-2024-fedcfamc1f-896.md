@@ -66,7 +66,7 @@ The father's interim application for a change of Y's primary residence dismissed
 
 ## Sources
 
-1. **Green & Green [2024] FedCFamC1F 896 — [AustLII](https://www.austlii.edu.au/) primary record (FedCFamC1F 2024 No 896)** — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/2024/896.html> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
+1. **Green & Green [2024] FedCFamC1F 896 — [AustLII](https://www.austlii.edu.au/) primary record (FedCFamC1F 2024 No 896)** — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/2024/896.html> (Australasian Legal Information Institute ([AustLII](https://www.austlii.edu.au/))) [en] — accessed 2026-05-30
 2. **AustLII — FedCFamC1F 2024 case index** — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/2024/> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
 3. **Federal Circuit and Family Court of Australia — Judgments portal** — <https://www.fcfcoa.gov.au/judgment> (Federal Circuit and Family Court of Australia) [en] — accessed 2026-05-30
 4. **Australian Family Lawyer / Pentana Stanton — Case Summary: Parental Alienation in Family Law Cases** — <https://pentanastanton.com.au/case-summary-parental-alienation-in-family-law-cases/> (Pentana Stanton Lawyers) [en] — accessed 2026-05-30
@@ -84,7 +84,7 @@ The father's interim application for a change of Y's primary residence dismissed
 
 - Judge identity: the trial judge of Division 1 of the FCFCOA who decided Green & Green [2024] FedCFamC1F 896 is named on the published judgment but was not independently re-verified against AustLII / FCFCOA primary text at time of writing (AustLII access returned 403 at the editing connection); the placeholder will be replaced with the named judge once the AustLII / FCFCOA full text is retrieved.
 - Decision date 2024-10-31 is the best-available reconstruction (judgment published October-November 2024, with the source material referring to the position 'by October 2024'); the precise hand-down date will be confirmed from AustLII / FCFCOA metadata.
-- Anonymisation: 'Green' is the Court's own pseudonymous case-name allocation per standard FCFCOA practice; the real surnames of the family are not in the public domain. The subject child is referred to only as 'Y' (single-letter pseudonym) in accordance with s 121 of the Family Law Act 1975 (Cth).
+- Anonymisation: 'Green' is the Court's own pseudonymous case-name allocation per standard FCFCOA practice; the real surnames of the family are not in the public domain. The subject child is referred to only as 'Y' (single-letter pseudonym) in accordance with s 121 of the [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth).
 - Child's sex: not stated in the public summary materials reviewed; recorded as 'not_stated' per schema enum.
 - Single expert / Court Children's Report writer: identity not publicly confirmed; covered by the standard s 121 anonymisation overlay. The discipline of the single expert (psychologist vs. social worker) and the precise paragraph numbers of the Court Children's Report references in the reasons are flagged for verification against the AustLII primary text.
 - Treating clinicians for Y (who reported suicidal ideation that drove the urgency of the mental-health orders) are not publicly named and are covered by s 121.
@@ -100,6 +100,8 @@ The father's interim application for a change of Y's primary residence dismissed
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

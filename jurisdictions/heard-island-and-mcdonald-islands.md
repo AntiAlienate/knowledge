@@ -17,7 +17,7 @@ Heard Island and McDonald Islands (HIMI) is a Sub-Antarctic common-law Australia
   - Federal Act of 1953 transferring HIMI from UK to Australian sovereignty effective 26 December 1953.
 - **Environment Protection and Biodiversity Conservation Act 1999 (Cth) — HIMI Marine Reserve** — EPBC Act 1999 — HIMI Marine Reserve (2002) — <https://www.legislation.gov.au/>
   - Federal Act establishing the HIMI Marine Reserve (one of the largest marine protected areas in the world).
-- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) (applicable in HIMI)** — Family Law Act 1975 (1975) — <https://www.legislation.gov.au/>
+- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) (applicable in HIMI)** — [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (1975) — <https://www.legislation.gov.au/>
   - Australian Federal Family Law Act applicable in HIMI for parental responsibility and child custody — theoretical given absence of permanent population.
 
 ## Apex courts
@@ -79,6 +79,8 @@ HIMI decisions are anonymised per Federal Circuit and Family Court of Australia 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -44,7 +44,7 @@ William Bernet's **Five-Factor Model** is the gold-standard differential-diagnos
 - Active and ongoing conduct
 
 ### Factor 5: Exhibition of many of the eight behavioural manifestations by the child
-- The Baker Eight Manifestations
+- The [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Eight Manifestations
 - Pattern, not isolated symptoms
 - All eight need not be present, but several should be
 
@@ -122,6 +122,8 @@ The five-factor structure prevents:
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. The Five-Factor Model requires trained evaluator application.*
+
+
 
 
 

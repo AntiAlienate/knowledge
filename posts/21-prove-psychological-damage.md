@@ -17,7 +17,7 @@ Each documented occurrence is a clinical sign, not just a complaint.
 
 ### Layer 2 — Developmental arrest (5 domains)
 
-(Per van der Kolk, Perry, Schore + Baker & Verrocchio 2015 — see post #63 *Arrested Development*.)
+(Per van der Kolk, Perry, Schore + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio 2015 — see post #63 *Arrested Development*.)
 
 - Frozen emotional vocabulary
 - Co-regulation capacity collapse
@@ -46,7 +46,7 @@ A PA-trained clinician identifies these in 10 minutes. A generalist therapist of
 
 - **[DSM-5](https://www.appi.org/products/dsm) V995.51** — Child Psychological Abuse (the diagnostic code)
 - **WHO [ICD-11](https://icd.who.int/) QE52** — Caregiver-Child Relationship Problem (international)
-- **WHO ICD-11 6B41** — Complex PTSD (often co-occurring in alienated children)
+- **WHO [ICD-11](https://icd.who.int/) 6B41** — Complex PTSD (often co-occurring in alienated children)
 - **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence with measurable child harm
 
 ## Why this matters in court
@@ -80,7 +80,7 @@ Many PA cases fail not on whether the alienator's behaviors are documented, but 
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin, 144*(12), 1275–1299.
 - van der Kolk, B. A. (2014). *The Body Keeps the Score.*
 - Perry, B. D. (2017). *The Boy Who Was Raised as a Dog.*
-- DSM-5 V995.51; WHO ICD-11 QE52, 6B41.
+- [DSM-5](https://www.appi.org/products/dsm) V995.51; WHO ICD-11 QE52, 6B41.
 
 ## Disclaimer
 
@@ -89,6 +89,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

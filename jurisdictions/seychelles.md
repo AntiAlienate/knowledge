@@ -45,7 +45,7 @@ Seychellois family-court decisions are anonymised per Court of Appeal practice u
 
 - Seychelles operates a structurally distinctive mixed-legal-system framework — French civil-law substantive heritage (Code Civil de Seychelles 1976 drawing on French Civil Code 1804) + English common-law procedural inheritance. Quebec/Saint-Lucia/Mauritius pattern within the Indian Ocean cluster.
 - JCPC removal at independence (1976) is structurally distinctive — Seychelles' Court of Appeal is the genuine apex without further appellate review.
-- Hague Convention 1980 accession 2008 places Seychelles in the Hague Indian Ocean cluster alongside Madagascar and Mauritius.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2008 places Seychelles in the Hague Indian Ocean cluster alongside Madagascar and Mauritius.
 - Trilingual official-language framework (English + French + Seychellois Creole) is structurally distinctive within the Indian Ocean cluster.
 
 ## See also
@@ -71,6 +71,8 @@ Seychellois family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

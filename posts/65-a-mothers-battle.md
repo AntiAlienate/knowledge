@@ -49,7 +49,7 @@ The notebook with the navy cover sat on a shelf above the radio. She did not ope
 
 This is fiction synthesizing patterns from the longitudinal PA literature. The clinical and legal anchors are real:
 
-- **Harman, Kruk & Hines (2018)** — *Psychological Bulletin* meta-analysis: PA victimization is **gender-symmetric** (roughly equal prevalence between mothers and fathers). The cultural narrative that PA is mostly a "fathers'-rights" issue has not caught up to the data.
+- **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Psychological Bulletin* meta-analysis: PA victimization is **gender-symmetric** (roughly equal prevalence between mothers and fathers). The cultural narrative that PA is mostly a "fathers'-rights" issue has not caught up to the data.
 - **Boss (1999)** — *Ambiguous Loss.* The signature wound. Grief without a funeral.
 - **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — longitudinal adult-children data. Many alienated children eventually re-engage. The most common turning point is not a court ruling but a life event that reframes the old story.
 - **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568 — UK Court of Appeal recognition of a mother-targeted case. The legal architecture is increasingly gender-neutral.
@@ -90,6 +90,8 @@ Educational fiction. **Not clinical or legal advice.** If you are in crisis: US 
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

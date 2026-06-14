@@ -28,7 +28,7 @@ All five must be present for alienation:
 4. Child exhibits [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators (Layer 2)
 5. There is **no justified estrangement** (abuse, neglect, profound mismatch)
 
-### Layer 2 — Baker's 8 behavioral indicators
+### Layer 2 — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators
 
 (See [posts/55-recognizing-pa-key-signs.md](./55-recognizing-pa-key-signs.md) for full descriptions.)
 
@@ -87,6 +87,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

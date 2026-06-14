@@ -54,7 +54,7 @@ Senkaku/Diaoyu-related decisions are anonymised per Japanese court practice usin
 - Three-state-claim dispute (Japan-administered, PRC-claimed, Taiwan-claimed) is similar to Paracel Islands three-state dispute but with non-claimant-superpower-defence-treaty modification.
 - Uninhabited disputed-territory family-law framework with overlapping multi-ADIZ framework (Japanese 1969 + PRC 2013 + Taiwanese + South Korean) is structurally distinctive within disputed-territory cluster.
 - Japanese 2012 nationalisation of three islands and PRC 2013 ADIZ declaration are structurally distinctive — modern unilateral-state-action escalation framework.
-- Japanese Hague Convention 1980 accession (2014) applicability unrecognised by PRC and Taiwan is structurally distinctive within Hague-applicability cluster.
+- Japanese [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession (2014) applicability unrecognised by PRC and Taiwan is structurally distinctive within Hague-applicability cluster.
 
 ## See also
 
@@ -82,6 +82,8 @@ Senkaku/Diaoyu-related decisions are anonymised per Japanese court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

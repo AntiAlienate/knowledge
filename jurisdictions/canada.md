@@ -13,8 +13,8 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 
 ## Statutory framework
 
-- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)** — Divorce Act — best-interests-of-the-child standard (1985) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
-  - Federal substantive statute for divorce and parenting after divorce. Bill C-78 (in force 1 March 2021) rewrote s.16 with a non-exhaustive best-interests factor list including the explicit s.16(3)(j) family-violence factor and replaced 'custody / access' terminology with 'parenting time / decision-making responsibility / contact'. The substantive Canadian federal hook through which PA-adjacent fact-patterns are decided in divorce-jurisdiction cases.
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) — best-interests-of-the-child standard (1985) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
+  - Federal substantive statute for divorce and parenting after divorce. [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) (in force 1 March 2021) rewrote s.16 with a non-exhaustive best-interests factor list including the explicit s.16(3)(j) family-violence factor and replaced 'custody / access' terminology with 'parenting time / decision-making responsibility / contact'. The substantive Canadian federal hook through which PA-adjacent fact-patterns are decided in divorce-jurisdiction cases.
 - **Divorce Act s.16(3)(j)** — Divorce Act s.16(3)(j) — family-violence factor (2021) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
   - Bill C-78 inserted explicit family-violence factor into s.16(3) requiring courts to consider any family violence, its nature, seriousness and frequency, and its impact on the child's safety and well-being. The substantive evidential frame against which PA-adjacent allegations are now decided in federal divorce-jurisdiction proceedings.
 - **Children's Law Reform Act R.S.O. 1990, c. C.12 (Ontario)** — Children's Law Reform Act (Ontario) — parenting orders for unmarried parents (1990) — <https://www.ontario.ca/laws/statute/90c12>
@@ -62,14 +62,14 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 
 ## Anonymisation convention
 
-Canadian provincial-superior-court family-law judgments anonymise minor children consistently by initial (e.g., L.A.G. v. D.K.B.; Williamson v. Williamson uses generic surname). Adult parties may be named or anonymised depending on provincial reporting convention and case sensitivity. CanLII (Canadian Legal Information Institute) is the principal open-access case-law platform. Provincial reporting restrictions under provincial Family Law Acts and the CYFSA apply. Quebec preserves francophone publication of decisions on the Société québécoise d'information juridique (SOQUIJ) platform.
+Canadian provincial-superior-court family-law judgments anonymise minor children consistently by initial (e.g., L.A.G. v. D.K.B.; Williamson v. Williamson uses generic surname). Adult parties may be named or anonymised depending on provincial reporting convention and case sensitivity. [CanLII](https://www.canlii.org/) (Canadian Legal Information Institute) is the principal open-access case-law platform. Provincial reporting restrictions under provincial Family Law Acts and the CYFSA apply. Quebec preserves francophone publication of decisions on the Société québécoise d'information juridique (SOQUIJ) platform.
 
 ## Key developments
 
 - **1977** — Loi sur la protection de la jeunesse (Quebec) — establishes Direction de la protection de la jeunesse (DPJ). — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-34.1>
 - **1985** — Divorce Act R.S.C. 1985, c.3 (2nd Supp.) — federal substantive divorce statute. — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
 - **1990** — Children's Law Reform Act (Ontario, R.S.O. 1990 c.C.12) — Ontario provincial parenting-orders statute for unmarried parents; s.112 OCL Clinical Investigator authority. — <https://www.ontario.ca/laws/statute/90c12>
-- **1991** — Code civil du Quebec — Livre II De la famille; substantive Quebec civil-law family code. — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991>
+- **1991** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec — Livre II De la famille; substantive Quebec civil-law family code. — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991>
 - **1991** — Regulated Health Professions Act 1991 (Ontario) — establishes CPO regulatory framework; provincial equivalents subsequently. — <https://www.ontario.ca/laws/statute/91r18>
 - **2009** — L.A.G. v. D.K.B., 2009 CanLII 6452 (ON SC) — canonical Ontario Superior Court of Justice PA decision; OCL s.112 CLRA Clinical Investigator framework engagement. — <https://www.canlii.org/en/on/onsc/doc/2009/2009canlii6452/2009canlii6452.html>
 - **2011** — Family Law Act SBC 2011 c.25 (British Columbia) — substantive BC provincial family-law statute including s.37 best-interests + s.38 family-violence factor. — <https://www.bclaws.gov.bc.ca/civix/document/id/complete/statreg/11025_01>
@@ -129,6 +129,8 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

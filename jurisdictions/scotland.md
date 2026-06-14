@@ -46,8 +46,8 @@ Scotland is a mixed civil-common (Scottish hybrid) jurisdiction whose family cou
 
 ## Professional regulators
 
-- **British Psychological Society — Scottish branches / Division of Forensic Psychology** — [BPS](https://www.bps.org.uk/) operates UK-wide (Scotland is served via [BPS](https://www.bps.org.uk/) Scottish branches and the UK-wide Division of Forensic Psychology); there is no Scotland-specific PA position statement. BPS guidance on expert evidence and the use of contested constructs applies in Scotland by extension. — <https://www.bps.org.uk/>
-- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — [HCPC](https://www.hcpc-uk.org/) is the UK-wide statutory regulator for practitioner psychologists and allied health professions; fitness-to-practise standards apply in Scotland as elsewhere in the UK. HCPC has issued no Scotland-specific PA position. — <https://www.hcpc-uk.org/>
+- **British Psychological Society — Scottish branches / Division of Forensic Psychology** — [BPS](https://www.bps.org.uk/) operates UK-wide (Scotland is served via [BPS](https://www.bps.org.uk/) Scottish branches and the UK-wide Division of Forensic Psychology); there is no Scotland-specific PA position statement. [BPS](https://www.bps.org.uk/) guidance on expert evidence and the use of contested constructs applies in Scotland by extension. — <https://www.bps.org.uk/>
+- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — [HCPC](https://www.hcpc-uk.org/) is the UK-wide statutory regulator for practitioner psychologists and allied health professions; fitness-to-practise standards apply in Scotland as elsewhere in the UK. [HCPC](https://www.hcpc-uk.org/) has issued no Scotland-specific PA position. — <https://www.hcpc-uk.org/>
 - **Royal College of Psychiatrists in Scotland** — Scottish division of the Royal College of Psychiatrists; no published Scotland-specific position statement on parental alienation as a diagnostic construct. [ICD-11](https://icd.who.int/) caregiver-child relationship problem (QE52.0) coding is available without committing the College to a PA position. — <https://www.rcpsych.ac.uk/about-us/our-locations/scotland>
 - **Social Work Scotland** — Scottish national body for social work leadership; the relevant statutory regulator for individual social workers is the Scottish Social Services Council (SSSC). No Scotland-specific PA position statement identified; safeguarding and welfare standards apply through the Children (Scotland) Act 1995 / 2020 frame. — <https://socialworkscotland.org/>
 
@@ -100,11 +100,11 @@ Court of Session anonymises children by initial; NF v AF uses 2-letter party ini
 9. **Engender — Scotland's feminist policy and advocacy organisation** — <https://www.engender.org.uk/> (Engender) [en]
 10. **Children (Scotland) Act 1995 (consolidated)** — <https://www.legislation.gov.uk/ukpga/1995/36/contents> (UK Government / [legislation.gov.uk](https://www.legislation.gov.uk/)) [en]
 11. **Children (Scotland) Act 2020** — <https://www.legislation.gov.uk/asp/2020/16/contents> (Scottish Government / [legislation.gov.uk](https://www.legislation.gov.uk/)) [en]
-12. **Domestic Abuse (Scotland) Act 2018** — <https://www.legislation.gov.uk/asp/2018/5/contents> (Scottish Government / legislation.gov.uk) [en]
+12. **Domestic Abuse (Scotland) Act 2018** — <https://www.legislation.gov.uk/asp/2018/5/contents> (Scottish Government / [legislation.gov.uk](https://www.legislation.gov.uk/)) [en]
 
 ## Editorial notes
 
-- Primary-source order: Scottish Courts (judicial.scot, scotcourts.gov.uk), legislation.gov.uk and BAILII Scottish jurisdictions are cited first; institutional voices (Shared Parenting Scotland, Scottish Women's Aid, Engender) follow.
+- Primary-source order: Scottish Courts (judicial.scot, scotcourts.gov.uk), legislation.gov.uk and [BAILII](https://www.bailii.org/) Scottish jurisdictions are cited first; institutional voices (Shared Parenting Scotland, Scottish Women's Aid, Engender) follow.
 - Verbatim Scottish English is preserved throughout (e.g., 'sheriff court', 'curator ad litem', 'proof', 'Inner House', 'Outer House').
 - Preserved corrections from UK-Devolved lawyers v2: 'Mary Connolly KC' does not exist (NI bar confusion with Martina Connolly KC); Jonathan Dunlop KC is a commercial silk, not family; Cara Goodwin is not on the Faculty of Advocates roll; 'Family Law Scotland Ltd' does not exist as a registered firm.
 - Scotland is treated as a distinct jurisdiction (not a subset of 'United Kingdom') given its separate legal system, Children (Scotland) Act 1995/2020 welfare regime, Court of Session apex jurisdiction, and Faculty of Advocates / Law Society of Scotland regulation.
@@ -114,6 +114,8 @@ Court of Session anonymises children by initial; NF v AF uses 2-letter party ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -25,12 +25,14 @@ Developmental psychologist whose qualitative research with adults who experience
 
 ## Why she matters here
 
-Baker's qualitative work gives the field its longitudinal grounding — what happens to alienated children when they grow up. Her 17 alienating strategies are operationally useful for documenting conduct patterns.
+[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) qualitative work gives the field its longitudinal grounding — what happens to alienated children when they grow up. Her 17 alienating strategies are operationally useful for documenting conduct patterns.
 
 
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

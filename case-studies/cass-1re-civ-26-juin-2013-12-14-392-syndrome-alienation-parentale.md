@@ -41,7 +41,7 @@ The Cour de cassation **rejected the pourvoi** (rejeté le pourvoi) and confirme
 
 The Court's reasoning, distilled, was that:
 
-1. Under Article 373-2-13 Code civil, decisions on the exercise of parental authority may be modified or supplemented "at any time" by the judge at the request of the parents or one of them. The cour d'appel was therefore not *dessaisie* (functus officio) on the question of residence by its earlier interlocutory measures.
+1. Under Article 373-2-13 [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/), decisions on the exercise of parental authority may be modified or supplemented "at any time" by the judge at the request of the parents or one of them. The cour d'appel was therefore not *dessaisie* (functus officio) on the question of residence by its earlier interlocutory measures.
 
 2. The *enquête sociale* ordered under Article 373-2-12 Code civil constituted a *fait nouveau* (new fact) within the meaning of the cassation case-law on Article 373-2-13, which entitled the cour d'appel to revisit the residence arrangement.
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

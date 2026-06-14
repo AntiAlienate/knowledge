@@ -38,14 +38,14 @@ Jersey family-court decisions are anonymised per Court of Appeal practice using 
 
 - **1204** — Jersey retained by King John of England when Normandy lost to France in 1204 — Norman customary-law substantive heritage retained alongside English common-law procedural inheritance.
 - **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Jersey effective 1 August 1986.
-- **2002** — Federal Children Law enacted drawing on English Children Act 1989 model.
+- **2002** — Federal Children Law enacted drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model.
 
 ## Structural findings
 
 - Jersey operates a structurally distinctive mixed-legal-system framework — Norman customary-law substantive heritage (via 1204 retention by King John) + English common-law procedural inheritance. Within the Crown Dependency cluster (Jersey + Guernsey + Isle of Man) with structurally distinctive Norman customary-law substantive heritage shared with Guernsey.
 - Bailiwick status (with Bailiff as head of judiciary and presiding officer of legislature) is structurally distinctive — Jersey and Guernsey are the only Bailiwicks in the corpus.
 - Crown Dependency status (not part of UK) is structurally distinctive.
-- Hague Convention 1980 applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via UK territorial extension reflects Crown Dependency Hague jurisdiction status.
 
 ## See also
 
@@ -72,6 +72,8 @@ Jersey family-court decisions are anonymised per Court of Appeal practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

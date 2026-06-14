@@ -24,7 +24,7 @@ Three historical / institutional caveats anchor the directory. First, the Cochem
 *Facharzt fur Psychiatrie und Neurologie / Psychotherapeut (Approbation)*
 Wurzburg · Bayern · Private practice Wurzburg-Steinbachtal; long-standing [PASG](https://pasg.info/) / EAPAP contributor
 
-**Stance:** Foundational German PA-recognition voice: editor and co-translator of the German edition of Gardner (2002), monograph *Parental Alienation und Parental Alienation Syndrome/Disorder* (VWB-Verlag 2013), and 2018 international journal article framing PA(S) as a serious form of psychological child abuse. Position is PASG-aligned classical recognition.
+**Stance:** Foundational German PA-recognition voice: editor and co-translator of the German edition of Gardner (2002), monograph *Parental Alienation und Parental Alienation Syndrome/Disorder* (VWB-Verlag 2013), and 2018 international journal article framing PA(S) as a serious form of psychological child abuse. Position is [PASG](https://pasg.info/)-aligned classical recognition.
 
 **Publications:**
 - Parental Alienation und Parental Alienation Syndrome/Disorder (2013) — *VWB-Verlag, ISBN 978-3-86135-178-2*
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

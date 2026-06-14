@@ -14,7 +14,7 @@ Multidisciplinary Reunification Therapy programmes — [Family Bridges](https://
 - Provincial regulator fragmentation: each province operates a separate statutory College for psychology (CPO Ontario, OPQ Quebec, CPBA-BC, CAP Alberta) and social work (OCSWSSW, OTSTCFQ, ACSW, BCCSW). The federal CPA is a professional body, not a regulator. No single national-level credentialing test for PA evaluators exists.
 - Bilingual federal regulator landscape: CPA operates anglophone-anchored federally while OPQ operates as the francophone Quebec regulator. The Lapierre / Zaccour francophone-Canadian critique stream runs through OPQ-jurisdiction practitioners and Barreau du Quebec lawyer-academics — institutionally distinct from the anglophone CPA / CPO axis.
 - The Canadian middle-ground Fidler / Bala / [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) differential model (Children Who Resist Post-Separation Parental Contact, OUP 2013) functions as the cross-jurisdictional Canadian intellectual export and is the [AFCC](https://www.afccnet.org/)-aligned reference text cited in US, UK, AU and EU evaluator literature.
-- Brian Ludmer (Toronto lawyer) and Barbara-Jo Fidler (Toronto psychologist) are the jurisdictional anchors with cross-border practice footprints — Ludmer cross-links to lawyers/canada and Fidler cross-links to US therapists through her AFCC Overcoming Barriers HCDC staff role and FCR editorial work; both function as Goldson-equivalent Canadian recognition / middle figures for cross-jurisdictional citation.
+- Brian Ludmer (Toronto lawyer) and Barbara-Jo Fidler (Toronto psychologist) are the jurisdictional anchors with cross-border practice footprints — Ludmer cross-links to lawyers/canada and Fidler cross-links to US therapists through her [AFCC](https://www.afccnet.org/) Overcoming Barriers HCDC staff role and FCR editorial work; both function as Goldson-equivalent Canadian recognition / middle figures for cross-jurisdictional citation.
 - OCL (Office of the Children's Lawyer, Ontario) institutional involvement creates a province-specific clinical-investigator roster (s.112 CLRA) that produces a concentrated Toronto-OCSWSSW middle-camp practitioner cluster (Seidel, Chodos, Birnbaum) without parallel in other provinces.
 - Multidisciplinary Reunification Therapy programmes in Canada are dominated by Reay's Family Reflections (BC; named in Williamson v. Williamson 2016 BCCA 87) and by US-import referral channels ([Family Bridges](https://warshak.com/family-bridges/), Overcoming Barriers Family Camp). No Quebec, Atlantic Canada or Prairie residential reunification programme verified at directory standard.
 - No Canadian appellate equivalent to UK Re Y [2026] EWFC 38: Canadian regulator scrutiny of unregulated PA experts happens case-by-case at trial level rather than via a single apex appellate restriction.
@@ -25,7 +25,7 @@ Multidisciplinary Reunification Therapy programmes — [Family Bridges](https://
 *PhD (Capella University 2007); Registered Clinical Counsellor (RCC, BCACC)*
 Nanaimo · British Columbia · Founder and Clinical Director, Family Reflections Reunification Program Inc. (Vancouver Island, BC)
 
-**Stance:** Operates the only Canadian-based residential reunification programme regularly named in custody judgments (Williamson v. Williamson 2016 BCCA 87). Reay (2015) AJFT paper reports a 95% success rate at 12-month follow-up across a 2012 pilot cohort of 22 children / 12 families. Co-author with William Bernet ([PASG](https://pasg.info/)) on the 2020 PARQ-Gap study in Journal of Forensic Sciences — places her in the [PASG](https://pasg.info/) international network. PASG-aligned classical recognition camp; RCC (not CPO/CPBA-BC psychologist) regulator status is the Canadian regulatory analogue of the post-Re Y UK debate on unregulated PA experts.
+**Stance:** Operates the only Canadian-based residential reunification programme regularly named in custody judgments (Williamson v. Williamson 2016 BCCA 87). Reay (2015) AJFT paper reports a 95% success rate at 12-month follow-up across a 2012 pilot cohort of 22 children / 12 families. Co-author with William Bernet ([PASG](https://pasg.info/)) on the 2020 PARQ-Gap study in Journal of Forensic Sciences — places her in the [PASG](https://pasg.info/) international network. [PASG](https://pasg.info/)-aligned classical recognition camp; RCC (not CPO/CPBA-BC psychologist) regulator status is the Canadian regulatory analogue of the post-Re Y UK debate on unregulated PA experts.
 
 **Publications:**
 - Family Reflections: A Promising Therapeutic Program Designed to Treat Severely Alienated Children and Their Family System (2015) — *American Journal of Family Therapy 43(2):197-207* — <https://www.tandfonline.com/doi/abs/10.1080/01926187.2015.1007769>
@@ -118,7 +118,7 @@ Ottawa · Ontario · Full Professor, School of Social Work, University of Ottawa
 *PhD; Professor Emerita Sociology*
 Fredericton · New Brunswick · Professor Emerita, Department of Sociology, University of New Brunswick; Research Fellow, Muriel McQueen Fergusson Centre for Family Violence Research (MMFC)
 
-**Stance:** Neilson's 2018 357-case empirical analysis is THE Canadian data anchor for the PA-as-DV-survivor-suppressor thesis — cited by every parliamentary brief and every NAWL / Luke's Place submission. Found that approximately 75% of PA claims in DV-allegation cases were made by the alleged perpetrator and that mothers were twice as likely as fathers to lose primary custody on a PA finding. Bill C-78 expert briefer (House of Commons Justice 2018).
+**Stance:** Neilson's 2018 357-case empirical analysis is THE Canadian data anchor for the PA-as-DV-survivor-suppressor thesis — cited by every parliamentary brief and every NAWL / Luke's Place submission. Found that approximately 75% of PA claims in DV-allegation cases were made by the alleged perpetrator and that mothers were twice as likely as fathers to lose primary custody on a PA finding. [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) expert briefer (House of Commons Justice 2018).
 
 **Publications:**
 - Parental Alienation Empirical Analysis: Child Best Interests or Parental Rights? (2018) — *MMFC / FREDA Centre (357-case empirical analysis 2008-2018)* — <https://www.fredacentre.com/wp-content/uploads/Parental-Alienation-Linda-Neilson.pdf>
@@ -208,7 +208,7 @@ London · Ontario · Distinguished University Professor Emerita, School of Socia
 
 <sub>ID: `ca.birnbaum-rachel`</sub>
 
-### Professor Michael A. Saini, PhD, MSW, RSW
+### Professor Michael A. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), PhD, MSW, RSW
 *PhD and MSW (University of Toronto); BSW (Lakehead); Registered Social Worker (OCSWSSW)*
 Toronto · Ontario · Professor and Factor-Inwentash Chair in Law and Social Work, Factor-Inwentash Faculty of Social Work, University of Toronto; cross-appointed Faculty of Law
 
@@ -431,7 +431,7 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
   - Primary source: <https://pure.qub.ac.uk/en/persons/anne-lazenbatt>
 - **Dr Joan B. Kelly, PhD** — Out-of-scope: US-based (Northern California); already in /practitioners/therapists/us. Trains Canadian AFCC assessors but holds no Canadian licensure. Cross-referenced only.
   - Primary source: <https://www.afccnet.org/>
-- **Linda [Gottlieb](https://turningpointsforfamilies.com/), LMFT, LCSW-R** — Out-of-scope: US-based (New York); already in /practitioners/therapists/us. Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) takes Canadian referrals but Gottlieb is not Canadian-licensed. Cross-referenced only.
+- **Linda [Gottlieb](https://turningpointsforfamilies.com/), LMFT, LCSW-R** — Out-of-scope: US-based (New York); already in /practitioners/therapists/us. Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) takes Canadian referrals but [Gottlieb](https://turningpointsforfamilies.com/) is not Canadian-licensed. Cross-referenced only.
   - Primary source: <https://turningpointsforfamilies.com/>
 - **Hon. Donna Martinson, KC** — Category fit: retired British Columbia Supreme Court judge; not a therapist. Already in /practitioners/lawyers/canada. Excluded from therapists directory per source brief direction.
   - Primary source: <https://www.fredacentre.com/research-associates/donna-martinson/>
@@ -446,6 +446,8 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

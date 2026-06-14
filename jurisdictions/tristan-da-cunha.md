@@ -18,7 +18,7 @@ Tristan da Cunha is a South Atlantic common-law dependency of the British Overse
 - **Tristan da Cunha Land Tenure Framework** — Tristan da Cunha Land Tenure Framework (1962) — <https://www.tristandc.com/>
   - Constitutional Tristan da Cunha Land Tenure framework establishing complete-community-ownership land regime — all land on Tristan da Cunha is communally owned, no private land ownership permitted.
 - **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in Tristan da Cunha)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (1989) — <https://www.legislation.gov.uk/>
-  - English Children Act 1989 applicable in Tristan da Cunha for parental responsibility and child custody.
+  - English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) applicable in Tristan da Cunha for parental responsibility and child custody.
 
 ## Apex courts
 
@@ -53,7 +53,7 @@ Tristan da Cunha decisions are anonymised per UK overseas-territory court practi
 - Most remote permanent civilian community to undergo complete-population evacuation and return in modern history is structurally distinctive globally — 1961-1963 evacuation-repatriation framework.
 - Only state-level entity with population traceable to a single 1816 founding cohort is structurally distinctive globally — founding population including single 1816 British military garrison commander (Corporal William Glass).
 - Sub-jurisdiction of Saint Helena, Ascension and Tristan da Cunha BOT is structurally distinctive within British Overseas Territory cluster — only modern composite-British Overseas Territory with three constitutionally-equal constituents.
-- UK Hague Convention 1980 territorial extension applicability is structurally distinctive within most-remote-permanent-civilian-community cluster.
+- UK [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension applicability is structurally distinctive within most-remote-permanent-civilian-community cluster.
 
 ## See also
 
@@ -80,6 +80,8 @@ Tristan da Cunha decisions are anonymised per UK overseas-territory court practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

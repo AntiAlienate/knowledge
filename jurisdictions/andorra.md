@@ -64,7 +64,7 @@ Andorran family-court decisions are anonymised per Superior Court practice using
 
 ## Editorial notes
 
-- Andorra jurisdiction sidecar — civil-law Western European co-principality micro-state (Civil Code Catalan + Law 14/2019 Children's Rights + ECHR + Hague Convention 1980 accession 2011).
+- Andorra jurisdiction sidecar — civil-law Western European co-principality micro-state (Civil Code Catalan + Law 14/2019 Children's Rights + ECHR + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2011).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Western European + civil-law + Catalan + ECHR + Hague Convention + co-principality-globally-distinctive + micro-state clusters within the corpus.
 
@@ -72,6 +72,8 @@ Andorran family-court decisions are anonymised per Superior Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -44,7 +44,7 @@ Maldivian family-court decisions are anonymised per Supreme Court practice using
 
 - Maldives operates a Shafi'i Islamic-law religious-law framework — places Maldives in the Shafi'i Sunni cluster with Malaysia, Indonesia (Shafi'i-influenced) within the corpus.
 - Constitutional provision that no law contrary to any tenet of Islam shall be enacted (art. 10) is structurally distinctive within South Asia in the corpus.
-- Hague Convention 1980 accession 2017 is structurally significant — among the few Muslim-majority states acceded; first South Asian Muslim-majority Hague accession in the corpus.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2017 is structurally significant — among the few Muslim-majority states acceded; first South Asian Muslim-majority Hague accession in the corpus.
 - Specialised Family Court (Famyly Court) at first instance is structurally distinctive within South Asia.
 
 ## See also
@@ -71,6 +71,8 @@ Maldivian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
