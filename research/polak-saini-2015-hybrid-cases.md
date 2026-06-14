@@ -81,7 +81,7 @@ Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations
 ## Key Citation
 
 - Polak, S., & [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2015). Children resisting contact with a parent postseparation: Assessing this phenomenon using an ecological systems framework. *Journal of Divorce & Remarriage*, 56(3), 220-247.
-- Saini, M., Polak, S., & Bala, N. (2018) and subsequent collaborations have expanded the framework.
+- [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Polak, S., & Bala, N. (2018) and subsequent collaborations have expanded the framework.
 
 ## Influence on Subsequent Practice
 
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

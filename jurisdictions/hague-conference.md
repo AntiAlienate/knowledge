@@ -20,11 +20,11 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 - **Hague Convention on the International Recovery of Child Support 2007** — Hague Convention 2007 (2007) — <https://www.hcch.net/>
   - [HCCH](https://www.hcch.net/) convention establishing international child-support recovery framework.
 - **[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Article 11 (Expedited Return)** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Article 11 (1980) — <https://www.hcch.net/>
-  - Hague Convention 1980 article establishing 6-week return-decision guideline.
+  - [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) article establishing 6-week return-decision guideline.
 - **Hague Convention 1980 Article 13 (Grave Risk + Child Objection Exceptions)** — Hague Convention 1980 Article 13 (1980) — <https://www.hcch.net/>
   - Hague Convention 1980 article establishing limited exceptions to return obligation — grave-risk to child + objection of child of sufficient age and maturity.
 - **Statute of the Hague Conference on Private International Law 1955** — Hague Conference Statute (1955) — <https://www.hcch.net/>
-  - Foundational HCCH Statute establishing the Hague Conference on Private International Law as international intergovernmental organisation.
+  - Foundational [HCCH](https://www.hcch.net/) Statute establishing the Hague Conference on Private International Law as international intergovernmental organisation.
 
 ## Apex courts
 
@@ -94,6 +94,8 @@ Hague Convention 1980 cases are anonymised per contracting-state court practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

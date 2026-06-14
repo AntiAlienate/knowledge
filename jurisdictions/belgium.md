@@ -104,7 +104,7 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 ## Sources
 
 1. **Moniteur belge / Belgisch Staatsblad — federal consolidated legislation** — <https://www.ejustice.just.fgov.be/> (Service public fédéral Justice / FOD Justitie) [fr]
-2. **Cour de cassation de Belgique / Hof van Cassatie** — <https://www.cass.be/> (Cour de cassation) [fr]
+2. **[Cour de cassation](https://www.courdecassation.fr/) de Belgique / Hof van Cassatie** — <https://www.cass.be/> (Cour de cassation) [fr]
 3. **Tribunal de la famille / familierechtbank — rechtbanken-tribunaux.be** — <https://www.rechtbanken-tribunaux.be/> (SPF Justice) [fr]
 4. **IEFH/IGVM — Recommandation 2023/001 sur la violence entre (ex-)partenaires** — <https://igvm-iefh.belgium.be/> (Institut pour l'égalité des femmes et des hommes / Instituut voor de Gelijkheid van Vrouwen en Mannen) [fr]
 5. **Commission des psychologues / Psychologencommissie — compsy.be** — <https://www.compsy.be/> (Commission des psychologues) [fr]
@@ -128,6 +128,8 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

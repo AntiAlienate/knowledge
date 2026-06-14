@@ -65,7 +65,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 - **1950** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) signed in Rome (in force 3 September 1953). Article 8 right to respect for private and family life. — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
 - **1980** — Hague Convention on the Civil Aspects of International Child Abduction — multilateral framework for return of internationally abducted children. — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
-- **1989** — [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) — art. 9 right to maintain contact with both parents. All Council of Europe member states are CRC parties. — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+- **1989** — [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) — art. 9 right to maintain contact with both parents. All [Council of Europe](https://www.coe.int/) member states are CRC parties. — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 - **1998** — Protocol No. 11 enters force — full-time Court restructuring; modern Chamber + Grand Chamber architecture. — <https://www.echr.coe.int/protocol-eleven>
 - **2010** — 6 July 2010 — Neulinger and Shuruk v Switzerland [GC] (no. 41615/07): foundational Grand Chamber engagement with cross-border parental disputes under Art 8. — <https://hudoc.echr.coe.int/>
 - **2013** — 29 January 2013 — Lombardo v Italy (App no 25704/11): foundational Strasbourg PA-adjacent decision; Art 8 violation for Italian authorities' failure to enforce contact rights. — <https://hudoc.echr.coe.int/>
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

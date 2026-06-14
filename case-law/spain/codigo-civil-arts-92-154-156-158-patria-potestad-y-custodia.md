@@ -207,3 +207,40 @@ The combination of (3.º), (4.º), (5.º), and (6.º) gives Spanish judges an ex
 - **Citation:** Real Decreto de 24 de julio de 1889 por el que se publica el Código Civil — BOE-A-1889-4763 (texto consolidado vigente)
 - **Recent reforms:** Ley 15/2005 (modificación del divorcio y de la custodia compartida) · Ley Orgánica 8/2015 de protección de la infancia y la adolescencia (reforma del art. 158) · Ley 8/2021 de apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica (reformulación del art. 154 como "responsabilidad parental")
 - **Status:** Public domain — Spanish state statute; BOE consolidated texts are free for reproduction.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+
+<!-- AA-CROSSLINK-END -->

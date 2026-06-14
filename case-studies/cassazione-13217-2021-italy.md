@@ -112,7 +112,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
   - Annotazione dottrinale di prima generazione sulla rivista Giustizia Insieme — enfatizza la qualificazione 'colpa d'autore / tatertyp' come architrave dell'ordinanza e ne anticipa la portata sistemica.
 - Il Sole 24 Ore — NT+ Diritto (2021) — 'La [Cassazione](https://www.cortedicassazione.it/) frena sulla Sindrome da alienazione parentale (PAS): stop a sillogismi implausibili' — <https://ntplusdiritto.ilsole24ore.com/art/la-cassazione-frena-sindrome-alienazione-parentale-pas-stop-sillogismi-implausibili-AE93sxK>
   - Copertura del primo gruppo editoriale giuridico italiano (maggio 2021): identifica nell'ordinanza il punto di svolta sull'inammissibilità del 'sillogismo implausibile' PAS.
-- Alley Oop — Il Sole 24 Ore (2021) — 'Cassazione sconfessa la Pas, controverso il costrutto scientifico', 19 maggio 2021 — <https://alleyoop.ilsole24ore.com/2021/05/19/cassazione-sconfessa-la-pas-controverso-costrutto-scientifico/>
+- Alley Oop — Il Sole 24 Ore (2021) — '[Cassazione](https://www.cortedicassazione.it/) sconfessa la Pas, controverso il costrutto scientifico', 19 maggio 2021 — <https://alleyoop.ilsole24ore.com/2021/05/19/cassazione-sconfessa-la-pas-controverso-costrutto-scientifico/>
   - Annotazione su Alley Oop (sezione femminismo Il Sole 24 Ore) che fissa subito la qualifica 'controverso costrutto scientifico' come marker dell'ordinanza nella vulgata pubblica.
 - D.i.Re — Donne in Rete contro la violenza (2021) — 'Violenza, PAS. Ordinanza della Cassazione fondamentale, andrebbero riviste tante sentenze alla luce di questo testo' — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/>
   - La rete italiana antiviolenza identifica subito Cass. 13217/2021 come precedente apicale da utilizzare per rivedere sistematicamente decisioni di affidamento PAS-fondate.
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

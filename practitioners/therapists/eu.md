@@ -67,7 +67,7 @@
 - **Primary contact:** LinkedIn DM https://de.linkedin.com/in/ursula-kodjoe-b2815340 ; practice address Emmendingen — **specific street address not publicly confirmed** on independent register
 - **Tier:** 1
 - **Hook:** German-language clinical bridge between recognition camp and inter-ministerial mediation work; the natural German pairing with Boch-Galhau and a key speaker on the consensus model.
-- **Notes:** [PASG](https://pasg.info/) board membership claim in the brief is unverified from PASG's public board page; she is a recurring speaker / contributing expert rather than a confirmed board officer — treat as "PASG-aligned senior expert".
+- **Notes:** [PASG](https://pasg.info/) board membership claim in the brief is unverified from [PASG](https://pasg.info/)'s public board page; she is a recurring speaker / contributing expert rather than a confirmed board officer — treat as "PASG-aligned senior expert".
 
 ### 3. Prof Dr Ursula Gresser
 - **Country / city:** DE / Munich (Bavaria)
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

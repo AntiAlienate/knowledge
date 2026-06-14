@@ -90,7 +90,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 ### 1.3 [Saunders](https://www.ovw.usdoj.gov/), Tolman & Faller (2013) — Journal of Family Psychology peer-reviewed companion
 
-**Citation.** Saunders, D. G., Tolman, R. M., & Faller, K. C. (2013). Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology*, 27(3), 473-483. https://doi.org/10.1037/a0032164 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/23647501/
+**Citation.** [Saunders](https://www.ovw.usdoj.gov/), D. G., Tolman, R. M., & Faller, K. C. (2013). Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology*, 27(3), 473-483. https://doi.org/10.1037/a0032164 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/23647501/
 
 **Verbatim abstract** (reproduced from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) indexing).
 
@@ -208,7 +208,7 @@ This paper is among the foundational practitioner texts on differential assessme
 
 **Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S. (2010). Getting real about abuse and alienation: A critique of Drozd and Olesen's decision tree. *Journal of Child Custody*, 7(4), 219-252. https://doi.org/10.1080/15379418.2010.521032 — GW Law repository: https://scholarship.law.gwu.edu/faculty_publications/824/ — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1767422
 
-[Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 2010 critique argues that the Drozd/Olesen decision tree, *as actually applied in US family courts*, systematically routes the evaluator toward an "alienation" finding even when the underlying facts would support a finding of justified estrangement secondary to abuse. The critique is the direct conceptual precursor to Meier's 2020 empirical findings (the 4,338-case study; see `evidence-forensic-operation-in-courts.md` §1).
+[Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 2010 critique argues that the Drozd/Olesen decision tree, *as actually applied in US family courts*, systematically routes the evaluator toward an "alienation" finding even when the underlying facts would support a finding of justified estrangement secondary to abuse. The critique is the direct conceptual precursor to [Meier's 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) empirical findings (the 4,338-case study; see `evidence-forensic-operation-in-courts.md` §1).
 
 ### 3.3 The Drozd & Olesen response
 
@@ -464,7 +464,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### 10.4 Contested
 
-- **The magnitude and operational significance of the asymmetry per Stahl, Drozd, Harman/Lorandos.** The AFCC-aligned practitioner-defense position is that the construct of one-parent-undermining-the-other is real, that the decision-tree differential-assessment tradition is methodologically sound, and that the Meier/Saunders critique overstates the magnitude of operational bias in current evaluator practice. The Meier 2022 rebuttals dispute the Harman/Lorandos re-analyses; the underlying empirical question — is the contemporary practitioner mainstream operationally biased against survivor-mothers? — is not closed at the level of consensus across the published literature.
+- **The magnitude and operational significance of the asymmetry per Stahl, Drozd, Harman/Lorandos.** The [AFCC](https://www.afccnet.org/)-aligned practitioner-defense position is that the construct of one-parent-undermining-the-other is real, that the decision-tree differential-assessment tradition is methodologically sound, and that the Meier/Saunders critique overstates the magnitude of operational bias in current evaluator practice. The Meier 2022 rebuttals dispute the Harman/Lorandos re-analyses; the underlying empirical question — is the contemporary practitioner mainstream operationally biased against survivor-mothers? — is not closed at the level of consensus across the published literature.
 - **Whether bias-inspection training (implicit-bias work; patriarchal-norms self-inventory) actually changes evaluator recommendations.** Saunders 2015 recommends it; the Project Implicit literature supports the *measurement* of implicit bias; no published evaluator-population intervention study demonstrates downstream recommendation change.
 
 ### 10.5 Not established
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

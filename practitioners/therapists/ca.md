@@ -355,7 +355,7 @@ Toronto · Ontario · Private practice (Toronto); founding member Family Solutio
 
 **Contact:** drbjfidler@gmail.com ; (416) 481-2046 ; 1709 Bathurst Street, Toronto, ON M5P 3K2
 
-*Notes: CPO C.Psych. since 1987 (searchable via https://www.cpo.on.ca/) — specific registration number not publicly displayed on practice site. OAFM #407 verified. AFCC Overcoming Barriers HCDC staff psychologist role cross-links to US AFCC infrastructure.*
+*Notes: CPO C.Psych. since 1987 (searchable via https://www.cpo.on.ca/) — specific registration number not publicly displayed on practice site. OAFM #407 verified. [AFCC](https://www.afccnet.org/) Overcoming Barriers HCDC staff psychologist role cross-links to US AFCC infrastructure.*
 
 **See also:** `jurisdiction:canada`, `practitioner:us.fidler-barbara-jo`, `practitioner:ca.bala-nicholas`, `practitioner:ca.saini-michael`, `practitioner:ca.radovanovic-helen`, `case-study:re-y-2026-ewfc-38`
 
@@ -446,6 +446,8 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -364,12 +364,12 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) *Psych. Bull.* 144(12):1275-1299 — https://pubmed.ncbi.nlm.nih.gov/30475019/
 - Verhaar, Matthewson & Bentley (2022) *Children* 9(4):475 — https://www.mdpi.com/2227-9067/9/4/475
 - Verrocchio, Marchetti & Fulcheri (2015) *Front. Psychol.* 6:1760 — https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01760/full
-- Bernet (Ed.) (2010) *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)* — Charles C. Thomas
+- Bernet (Ed.) (2010) *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)* — Charles C. Thomas
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) *Adult Children of PAS* — W. W. Norton
 - Harman, Leder-Elder & Biringen (2019) *Child. & Youth Serv. Rev.* 106:104471 — https://www.sciencedirect.com/science/article/abs/pii/S0190740919306164
 - Brazil Lei 12.318/2010 — https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm
 - UK [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17) — https://www.legislation.gov.uk/ukpga/2021/17
-- WHO ICD-11 FAQ on parental alienation — https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation
+- WHO [ICD-11](https://icd.who.int/) FAQ on parental alienation — https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation
 - GREVIO 3rd General Report — https://www.coe.int/en/web/istanbul-convention/
 - *L.(A.G.) v. D.(K.B.)* 2009 [CanLII](https://www.canlii.org/) 943 (ON SC) — https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/
 - *Re A (Children: Parental alienation)* [2019] EWFC B56 — [BAILII](https://www.bailii.org/)
@@ -388,6 +388,8 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ---
 
 *Compiled 2026-05-25 for AntiAlienate-knowledge (CC BY 4.0). Items marked **\[secondary verification only]** require direct re-verification against the original source before publication.*
+
+
 
 
 

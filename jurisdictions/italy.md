@@ -64,7 +64,7 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 
 ## Key developments
 
-- **2010** — Cassazione civ. n. 12692/2010 — primo affioramento apicale di scetticismo verso CTU PAS-orientate, linea poi consolidata da Cass. 13217/2021. — <https://www.italgiure.giustizia.it/>
+- **2010** — [Cassazione](https://www.cortedicassazione.it/) civ. n. 12692/2010 — primo affioramento apicale di scetticismo verso CTU PAS-orientate, linea poi consolidata da Cass. 13217/2021. — <https://www.italgiure.giustizia.it/>
 - **2012** — Nota Ministero della Salute 25 maggio 2012 (Direzione Generale del Sistema Informativo) — la PAS non risulta riconosciuta come patologia scientificamente accreditata. Documento poi recepito da Tribunale di Cosenza (2017) e da Cass. 9691/2022. — <https://www.salute.gov.it/>
 - **2013** — Lombardo c. Italia (CEDU, ric. n. 25704/11, 29 gennaio 2013) — apre il cluster Strasburgo sulle violazioni italiane dell'art. 8 CEDU per il deficit di enforcement del regime visite paterne. — <https://hudoc.echr.coe.int/eng?i=001-115844>
 - **2016** — Strumia c. Italia (CEDU, ric. n. 53377/13, 23 giugno 2016) — violazione art. 8 CEDU, enforcement cronicamente carente. — <https://hudoc.echr.coe.int/eng?i=001-163850>
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

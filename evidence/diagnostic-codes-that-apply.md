@@ -28,7 +28,7 @@
 
 > "Examples include berating, disparaging, or humiliating the child; threatening the child; harming/abandoning — or indicating that the alleged offender will harm/abandon — people or things that the child cares about; confinement of the child (as by tying a child's arms or legs together or binding a child to a piece of furniture); scapegoating of the child; coercing the child to inflict pain on himself or herself; and disciplining the child excessively (i.e., at an extremely high frequency or duration, even if not at a level of physical abuse) through physical or nonphysical means."
 
-(The examples-list wording above is reproduced verbatim from [DSM-5](https://www.appi.org/products/dsm) page 719 as cited by multiple secondary-academic sources; see Loretta Maase, "Parent Alienation and Child Psychological Abuse in the [DSM-5](https://www.appi.org/products/dsm)," https://lorettamaase.com/parent-alienation-psychological-abuse/, and the DSM-5 secondary discussion at https://drcachildress-consulting.com/wp-content/uploads/2019/11/DSM-5-Diagnostic-Formulations-from-Foundations-Chldress-2015.pdf — **[secondary verification only]** for the exact text, which is copyrighted by the American Psychiatric Association.)
+(The examples-list wording above is reproduced verbatim from [DSM-5](https://www.appi.org/products/dsm) page 719 as cited by multiple secondary-academic sources; see Loretta Maase, "Parent Alienation and Child Psychological Abuse in the [DSM-5](https://www.appi.org/products/dsm)," https://lorettamaase.com/parent-alienation-psychological-abuse/, and the [DSM-5](https://www.appi.org/products/dsm) secondary discussion at https://drcachildress-consulting.com/wp-content/uploads/2019/11/DSM-5-Diagnostic-Formulations-from-Foundations-Chldress-2015.pdf — **[secondary verification only]** for the exact text, which is copyrighted by the American Psychiatric Association.)
 
 **The encoding pair.**
 - **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (where there is sufficient evidence that the abuse has occurred).
@@ -147,7 +147,7 @@ That is the operative WHO instruction. QE52.0 is the WHO-blessed code.
 
 ### 2.2 QE82 — Personal history of maltreatment (with QE82.0–QE82.Z subcodes)
 
-**Parent code QE82 definition, verbatim** (per WHO ICD-11 MMS entity 1703296220, mirrored at https://www.findacode.com/icd-11/code-1703296220.html):
+**Parent code QE82 definition, verbatim** (per WHO [ICD-11](https://icd.who.int/) MMS entity 1703296220, mirrored at https://www.findacode.com/icd-11/code-1703296220.html):
 
 > "Personal history of non-accidental acts of physical force, forced or coerced sexual acts, verbal or symbolic acts, or significant caregiving omissions that result in harm or have a reasonable potential for harm."
 
@@ -212,7 +212,7 @@ The defensive practice that has emerged across reputable forensic-evaluator trai
 3. Code the relational problem (V61.20 / Z62.820 + V61.29 / Z62.898) **always**, where the relational pattern is documented.
 4. Code child psychological abuse (V995.51 / T74.32XA "Confirmed" or T76.32XA "Suspected") **only when the evaluator has independent evidence sufficient to meet the "significant psychological harm or reasonable potential to result in significant psychological harm" threshold,** and after differential-diagnosis ruling-out of estrangement secondary to actual maltreatment by the rejected parent.
 5. Cite the **APSAC 2022 differential-diagnosis position** (see §4 below) as the standard for the ruling-out step.
-6. **Avoid** writing "parental alienation syndrome," "parental alienation disorder," "PAS," or "PARP" in the diagnosis line. Use those terms — if at all — only in the *narrative* portion of the report as a descriptive label for a behavioural pattern, with citation, and explicitly note their non-status in DSM-5-TR and ICD-11.
+6. **Avoid** writing "parental alienation syndrome," "parental alienation disorder," "PAS," or "PARP" in the diagnosis line. Use those terms — if at all — only in the *narrative* portion of the report as a descriptive label for a behavioural pattern, with citation, and explicitly note their non-status in [DSM-5-TR](https://www.appi.org/products/dsm) and ICD-11.
 
 This strategy gives the report:
 - billable codes (so insurance/treatment access is possible);
@@ -445,7 +445,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 **Cross-jurisdictional clinical-practice sources.**
 - [Cafcass](https://www.cafcass.gov.uk/) (England and Wales). *Alienating Behaviours.* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours
 - [Cafcass](https://www.cafcass.gov.uk/). *Child Impact Assessment Framework (CIAF).* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf
-- Cafcass (2025). *Understanding why a child does not want to spend family time with a parent.* https://www.cafcass.gov.uk/sites/default/files/2025-07/Understanding%20why%20a%20child%20does%20not%20want%20to%20spend%20family%20time%20with%20a%20parent.pdf
+- [Cafcass](https://www.cafcass.gov.uk/) (2025). *Understanding why a child does not want to spend family time with a parent.* https://www.cafcass.gov.uk/sites/default/files/2025-07/Understanding%20why%20a%20child%20does%20not%20want%20to%20spend%20family%20time%20with%20a%20parent.pdf
 
 **Repository cross-references.**
 - `/evidence/pa-as-child-abuse.md` — primary peer-reviewed evidence on PA as a form of child psychological harm.
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

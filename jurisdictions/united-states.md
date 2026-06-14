@@ -121,7 +121,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 
 ## Editorial notes
 
-- Primary-source order: state Family Codes via [Cornell LII](https://www.law.cornell.edu/) / state legislatures cited first; SCOTUS + state appellate courts for case-law; APA + [AACAP](https://www.aacap.org/) + AFCC for institutional positions; CA DCA license search for regulatory disclosure verification (Randy Rand EdD canonical example).
+- Primary-source order: state Family Codes via [Cornell LII](https://www.law.cornell.edu/) / state legislatures cited first; SCOTUS + state appellate courts for case-law; APA + [AACAP](https://www.aacap.org/) + [AFCC](https://www.afccnet.org/) for institutional positions; CA DCA license search for regulatory disclosure verification (Randy Rand EdD canonical example).
 - US is treated as a federal jurisdiction; six high-volume PA-litigation states are statutorily foregrounded (California / Texas / New York / Florida / Massachusetts / Michigan / Colorado); smaller states referenced where institutionally relevant.
 - [DSM-5-TR](https://www.appi.org/products/dsm) CAPRD V995.51 / Z62.898 is foregrounded as the load-bearing US institutional reference; [Bernet et al.](https://pasg.info/) 2016 JAACAP framework paper noted as most-cited US PA-debate reference.
 - Adult-party naming in published US family-court decisions is the norm and is recognised in anonymisation_convention; this distinguishes US case-law from UK / AU / SA reporting conventions and produces a distinctively rich named-evaluator base for PA litigation.
@@ -131,6 +131,8 @@ US state-court family-law decisions vary significantly: California / New York ro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

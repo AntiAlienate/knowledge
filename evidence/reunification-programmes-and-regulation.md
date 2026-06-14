@@ -72,7 +72,7 @@ Lorentzhuis Kinderen uit de Knel programme (Justine van Lawick + Margreet Visser
 Cross-jurisdictional reunification programmes operate via at least three distinct regulatory routes. The US extra-regulator pattern ([Family Bridges](https://warshak.com/family-bridges/) as 'educational workshop' outside CABOP) is structurally distinctive.
 
 ### 2. Court-attached institutional vehicles widespread
-Eight of twelve jurisdictions surveyed operate court-attached institutional welfare-evaluator vehicles: UK [Cafcass](https://www.cafcass.gov.uk/) + Cafcass Cymru + AU FRW + Singapore CAPS + HK SWD Centres + SA Family Advocate + India Family Court counsellors + Italian CTU. The pattern is the dominant cross-jurisdictional regulatory route.
+Eight of twelve jurisdictions surveyed operate court-attached institutional welfare-evaluator vehicles: UK [Cafcass](https://www.cafcass.gov.uk/) + [Cafcass Cymru](https://www.cafcass.gov.uk/) + AU FRW + Singapore CAPS + HK SWD Centres + SA Family Advocate + India Family Court counsellors + Italian CTU. The pattern is the dominant cross-jurisdictional regulatory route.
 
 ### 3. US extra-regulator route operates against background of named-exclusion exemplars
 US [Family Bridges](https://warshak.com/family-bridges/) operates as 'educational workshop' outside CABOP oversight following Randy Rand's 2009 license inactive status. Together with **Re Y excluded exemplar Melanie Gill** (UK) and **Reinhart Wolff** (Germany), constitutes pattern of named regulatory exclusions operationalising evaluator-quality concerns cross-jurisdictionally.
@@ -96,7 +96,7 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 
 | Jurisdiction | Programme / mechanism | Regulatory route | Status |
 |---|---|---|---|
-| **United States** | Family Bridges ([Warshak](https://warshak.com/family-bridges/) + Rand) + Overcoming Barriers Family Camp ([AFCC](https://www.afccnet.org/)) | Extra-regulator 'educational workshop' (post-Rand 2009) | Active, contested |
+| **United States** | [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/) + Rand) + Overcoming Barriers Family Camp ([AFCC](https://www.afccnet.org/)) | Extra-regulator 'educational workshop' (post-Rand 2009) | Active, contested |
 | **Canada** | Family Reflections Reunification Program (Reay BC) | Provincial-college fragmentation | Active, contested |
 | **England & Wales** | Cafcass + Children's Guardian framework | Statutory body + [HCPC](https://www.hcpc-uk.org/) post-Re Y kitemark | Mainstream regulator |
 | **Wales** | Cafcass Cymru | Welsh Government devolved statutory body | Mainstream regulator |
@@ -119,6 +119,8 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+
+
 
 
 

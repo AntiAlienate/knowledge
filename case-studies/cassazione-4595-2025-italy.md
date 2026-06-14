@@ -126,7 +126,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
   - Rassegna L-JUS che inquadra Cass. 4595/2025 nel contesto delle Linee Guida europee per una giustizia a misura di minore.
 - Differenza Donna ONG / Telefono Rosa / D.i.Re — rete antiviolenza italiana (2025) — Comunicati e materiale formativo post-4595/2025
   - La rete antiviolenza italiana utilizza Cass. 4595/2025 come precedente apicale per contestare in sede di merito CTU PA-orientate; particolarmente la combinazione 4595 + I.M. e altri c. Italia (CEDU 2022) è impiegata come strumento argomentativo nei procedimenti di custody con allegazioni di violenza.
-- Studio Legale Mauro e altri commentatori (2025) — 'Stop della Cassazione all'alienazione parentale'
+- Studio Legale Mauro e altri commentatori (2025) — 'Stop della [Cassazione](https://www.cortedicassazione.it/) all'alienazione parentale'
   - Lettura di prima generazione della stampa professionale: Cass. 4595/2025 come terzo termine della triade 9691/2022 → 3576/2024 → 4595/2025 che definisce la dottrina post-2022.
 - Andrea Mazzeo, medico legale critico-PA (2025) — Letteratura clinica-forense critico-PA italiana (Mazzeo, Manotti et al.) — recepimento operativo di Cass. 4595/2025
   - La letteratura clinico-forense critico-PA italiana (di cui Andrea Mazzeo e Marina Manotti sono voci di riferimento nel knowledge corpus AntiAlienate) accoglie Cass. 4595/2025 come passaggio decisivo: la sentenza colma il gap operativo (Cass. 9691/2022 era nota ma poco applicata in concreto dai giudici di merito) imponendo il vaglio ECHR–Istanbul Convention dello screening della violenza come parte integrante della valutazione PA.
@@ -185,6 +185,8 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

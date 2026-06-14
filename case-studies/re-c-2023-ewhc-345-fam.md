@@ -88,7 +88,7 @@ Appeal under FPR 2010 against the order of HH Judge Lindsay Davies (Family Court
 
 **[98]** (en):
 
-> It is not, however, for this court to prohibit the instruction of any unregulated psychologist. The current rules and guidance are clear and contain an element of flexibility. The question of whether a proposed expert is entitled to be regarded as an expert remains one for the individual court, applying, as it must, the principles reiterated by the Supreme Court in Kennedy v Cordia (Services) LLP (Scotland) [2016] UKSC 6 (adopting the approach in Daubert v Merrell Dow Pharmaceuticals Inc (1993) 509 US 579) that 'if scientific, technical or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, experience, training, or education, may testify thereto in the form of an opinion or otherwise.' This is not, however, an open house and there is a need for caution. In every case the court should identify whether a proposed expert is HCPC registered. A sensible practice, where the expert is un-registered, is for the court to indicate in a short judgment why it is, nevertheless, appropriate to instruct them.
+> It is not, however, for this court to prohibit the instruction of any unregulated psychologist. The current rules and guidance are clear and contain an element of flexibility. The question of whether a proposed expert is entitled to be regarded as an expert remains one for the individual court, applying, as it must, the principles reiterated by the Supreme Court in Kennedy v Cordia (Services) LLP (Scotland) [2016] UKSC 6 (adopting the approach in Daubert v Merrell Dow Pharmaceuticals Inc (1993) 509 US 579) that 'if scientific, technical or other specialized knowledge will assist the trier of fact to understand the evidence or to determine a fact in issue, a witness qualified as an expert by knowledge, skill, experience, training, or education, may testify thereto in the form of an opinion or otherwise.' This is not, however, an open house and there is a need for caution. In every case the court should identify whether a proposed expert is [HCPC](https://www.hcpc-uk.org/) registered. A sensible practice, where the expert is un-registered, is for the court to indicate in a short judgment why it is, nevertheless, appropriate to instruct them.
 
 <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html>
 
@@ -209,6 +209,8 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

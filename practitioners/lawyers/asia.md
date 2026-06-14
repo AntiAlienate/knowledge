@@ -44,7 +44,7 @@ New Delhi · Delhi ([Supreme Court of India](https://main.sci.gov.in/)) · Geeta
 
 ### Anil Malhotra, Senior Advocate
 *Senior Advocate (42 yrs standing); LLM University of London 1985; Comparative Family Law LSE; Secretary IAFL International Child Relocation Committee; member Justice Rajesh Bindal Committee on Inter-Country Removal of Children 2018*
-Chandigarh · Punjab & Haryana / Supreme Court of India · Malhotra & Malhotra Associates (Chandigarh); Bar Council of Punjab & Haryana / Supreme Court of India; IAFL Fellow
+Chandigarh · Punjab & Haryana / [Supreme Court of India](https://main.sci.gov.in/) · Malhotra & Malhotra Associates (Chandigarh); Bar Council of Punjab & Haryana / Supreme Court of India; IAFL Fellow
 
 **Stance:** India's most internationally networked PA / international-child-removal recognition-camp practitioner. Stance verified through firm-published thought-leadership explicitly framing PA as harm to children and to the left-behind parent ('Hear the Child, Honor Their Future: The Voice of the Child') and through Hague-Convention-accession advocacy in LiveLaw and Bar & Bench. IAFL Fellow and member of the Justice Rajesh Bindal Committee on Inter-Country Removal of Children 2018 — Indian government-empanelled. Only Indian practitioner monograph series specifically on removed-children law (Malhotra & Malhotra, 2018; Oak Bridge 2025). Country_code: IN.
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

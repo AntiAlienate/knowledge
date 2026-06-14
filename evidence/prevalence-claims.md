@@ -144,7 +144,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ---
 
-## 4. Hine, Harman et al. — UK separated parents (2025) and UK 18–25 (2026)
+## 4. Hine, [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)— UK separated parents (2025) and UK 18–25 (2026)
 
 ### 4.1 UK separated parents
 
@@ -349,7 +349,7 @@ Contributor-invitation content. The literature converges on these elements:
 
 1. **Probability sample** from a defined population census frame (not online-panel or convenience).
 2. **Operational definition** registered in advance — specifying which behaviours count, severity threshold, duration, and how to distinguish PA from estrangement, alignment, age-appropriate preference, and normal divorce conflict.
-3. **Validated instrument** — psychometrically tested with reported sensitivity, specificity, and inter-rater reliability against an external standard. The Baker Strategy Questionnaire is the strongest current candidate but has not been benchmarked at threshold against clinically-determined cases.
+3. **Validated instrument** — psychometrically tested with reported sensitivity, specificity, and inter-rater reliability against an external standard. The [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Strategy Questionnaire is the strongest current candidate but has not been benchmarked at threshold against clinically-determined cases.
 4. **Multi-informant cross-check** — child, both parents, neutral observer.
 5. **Longitudinal design** — minimum 12 months to distinguish pattern from transient conflict; ideally 5+ years.
 6. **Cross-validation against legal/clinical records** with appropriate consent.
@@ -365,7 +365,7 @@ Contributor-invitation content. The literature converges on these elements:
 
 ### High confidence
 
-- **PA-pattern behaviour occurs** and is recognised by professionals across both pro-recognition and middle-position camps. Saini et al. (2016, p. 422): "respondents recognized the lack of sound research to support the concept, although they acknowledged the existence of alienation dynamics within the child custody field generally and in their caseloads specifically."
+- **PA-pattern behaviour occurs** and is recognised by professionals across both pro-recognition and middle-position camps. [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2016, p. 422): "respondents recognized the lack of sound research to support the concept, although they acknowledged the existence of alienation dynamics within the child custody field generally and in their caseloads specifically."
 - **Children and adults affected by sustained PA-pattern behaviour show measurable elevations in depression, anxiety, PTSD symptoms, suicidality** — across multiple study designs (Verrocchio 2015, 2016; Bernet, Baker & Verrocchio 2015; Verhaar, Matthewson & Bentley 2022; Harman 2019; Hine 2026 UK).
 - **The PA construct is not adequately distinguished from estrangement / alignment / age-appropriate preference / IPV-exposure-rejection** in the published literature using validated instruments.
 
@@ -384,7 +384,7 @@ Contributor-invitation content. The literature converges on these elements:
 ### Very low confidence / contested
 
 - **Cross-jurisdictional generalisability** of any prevalence figure (no non-Anglo population-probability study exists).
-- **Comparative-frequency claims** that "PA is more common than false abuse allegations" or vice versa (Harman/Lorandos vs Meier exchange — unresolved).
+- **Comparative-frequency claims** that "PA is more common than false abuse allegations" or vice versa (Harman/Lorandos vs [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) exchange — unresolved).
 
 ---
 
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

@@ -85,7 +85,7 @@ The diagnostic-system non-inclusion of PA as a standalone code is sometimes weap
 
 ## Cross-jurisdictional applicability
 
-DSM-5 is the US + many other jurisdictions' standard.
+[DSM-5](https://www.appi.org/products/dsm) is the US + many other jurisdictions' standard.
 [ICD-11](https://icd.who.int/) is the WHO global standard + many EU jurisdictions' default.
 Many forensic evaluators use **both** for cross-referencing.
 
@@ -104,7 +104,7 @@ For international PA cases, both code systems are typically cited in expert repo
 ## Primary sources
 
 - [DSM-5-TR](https://www.appi.org/products/dsm) (2022): American Psychiatric Association
-- ICD-11 (in force 2022): WHO — https://icd.who.int
+- [ICD-11](https://icd.who.int/) (in force 2022): WHO — https://icd.who.int
 
 ## Related entries
 
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

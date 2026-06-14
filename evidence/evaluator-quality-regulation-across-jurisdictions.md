@@ -76,7 +76,7 @@ Mature statutory regulators (UK [HCPC](https://www.hcpc-uk.org/) + AU AHPRA + SA
 
 ### 8. The Melanie Gill / Randy Rand parallel
 Cross-jurisdictionally, evaluator-quality concerns operationalise around specific named exclusion exemplars:
-- **UK / E&W** — Melanie Gill (not HCPC-registered, not [BPS](https://www.bps.org.uk/)-chartered, Re Y findings set aside).
+- **UK / E&W** — Melanie Gill (not [HCPC](https://www.hcpc-uk.org/)-registered, not [BPS](https://www.bps.org.uk/)-chartered, Re Y findings set aside).
 - **USA / California** — Randy Rand EdD (CA Board of Psychology license inactive since 2009 following disciplinary action; [Family Bridges](https://warshak.com/family-bridges/) programme operates as 'educational workshop' outside CABOP oversight).
 - **Germany** — Reinhart Wolff (excluded for safeguarding reasons).
 
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

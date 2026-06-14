@@ -58,7 +58,7 @@ Researcher-named strategies beat parent-coined descriptions every time in court 
 ## Citations
 
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton.
-- Baker, A. J. L., & Fine, P. R. (2013). *Co-parenting with a Toxic Ex.* New Harbinger.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Fine, P. R. (2013). *Co-parenting with a Toxic Ex.* New Harbinger.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors: An Unacknowledged Form of Family Violence. *Psychological Bulletin, 144*(12), 1275–1299.
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993).
 - *Re C (Parental Alienation: Instruction of Expert)* [2023] EWHC 345 (Fam).
@@ -70,6 +70,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

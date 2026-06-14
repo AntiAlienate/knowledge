@@ -14,7 +14,7 @@ Melanie Gill is excluded from this directory on regulatory grounds and preserved
 - The English critique-camp and middle-camp generally argue a regulated-only expert-psychology framework: [HCPC](https://www.hcpc-uk.org/)-registered Practitioner Psychologists or [BPS](https://www.bps.org.uk/)-chartered (CPsychol) psychologists, applying the [BPS](https://www.bps.org.uk/) / FJC 2022 Guidance on Psychologists as Expert Witnesses (Craig et al.) and the FJC December 2024 Guidance on responding to allegations of alienating behaviour. Re Y enforces this framework at the instruction stage.
 - The English critique-camp is anchored institutionally — [Cafcass](https://www.cafcass.gov.uk/) + [Cafcass Cymru](https://www.cafcass.gov.uk/) + FJC + [HCPC](https://www.hcpc-uk.org/) + [BPS](https://www.bps.org.uk/) — rather than individual-clinician dominant. Individual entries (Whitcombe, Hannah Jones, Jaime Craig, Glaser) carry weight because they sit at the intersection of clinical practice and institutional policymaking, not because they head competing private clinics.
 - The recognition camp is thin (3 entries) and dominated by the Family Separation Clinic (Karen Woodall, Nick Woodall) — both unregulated relative to the Re Y regulatory bar — plus Dr Sue Whitcombe, who uniquely meets the [HCPC](https://www.hcpc-uk.org/) + CPsychol + AFBPsS standard. Post-Re Y, recognition-camp clinicians who are not [HCPC](https://www.hcpc-uk.org/)-registered and not [BPS](https://www.bps.org.uk/)-chartered face formal exclusion from Family Court instruction in England & Wales.
-- 12 verified entries (3 recognition / 7 critique / 2 middle) + 1 regulatory exclusion (Melanie Gill — unregulated; not [HCPC](https://www.hcpc-uk.org/); not BPS-chartered; Re Y [2026] EWFC 38 set aside her findings) preserved with primary-source regulatory disclosure. Direct UK parallel to the US directory's exclusion of Randy Rand and to Germany's safeguarding-grounds exclusion of Reinhart Wolff.
+- 12 verified entries (3 recognition / 7 critique / 2 middle) + 1 regulatory exclusion (Melanie Gill — unregulated; not [HCPC](https://www.hcpc-uk.org/); not [BPS](https://www.bps.org.uk/)-chartered; Re Y [2026] EWFC 38 set aside her findings) preserved with primary-source regulatory disclosure. Direct UK parallel to the US directory's exclusion of Randy Rand and to Germany's safeguarding-grounds exclusion of Reinhart Wolff.
 
 ## Recognition camp
 
@@ -43,7 +43,7 @@ London · England · Co-founder and lead therapist, Family Separation Clinic (Lo
 <sub>ID: `uk-ews.woodall-karen`</sub>
 
 ### Nick Woodall
-*MA Psychodynamic / Psychoanalytic Counselling (University of London); Therapeutic-mediator accreditation (School of Psychotherapy & Counselling Psychology, Regents University London); HCPC / BPS chartered status not publicly confirmed*
+*MA Psychodynamic / Psychoanalytic Counselling (University of London); Therapeutic-mediator accreditation (School of Psychotherapy & Counselling Psychology, Regents University London); [HCPC](https://www.hcpc-uk.org/) / BPS chartered status not publicly confirmed*
 London · England · Co-founder and partner, Family Separation Clinic LLP; independent psychotherapist
 
 **Stance:** Co-architect of the dominant UK PA-recognition clinical model. Co-author with Karen Woodall of Understanding Parental Alienation (Charles C. Thomas, 2017); co-trainer on the Family Separation Clinic's international PA practitioner training. Position is classical recognition; same Re Y [2026] EWFC 38 regulatory exposure as Karen Woodall — neither HCPC-registered nor BPS-chartered.
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

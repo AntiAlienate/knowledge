@@ -98,7 +98,7 @@ DECLARACIÓN DE INVALIDEZ PARCIAL por mayoría calificada del Tribunal Pleno (8/
 3. **SENTENCIA dictada por el Tribunal Pleno [...] en la Acción de Inconstitucionalidad 11/2016, así como el Voto Concurrente formulado por el Ministro Luis María Aguilar Morales** — <https://www.dof.gob.mx/nota_detalle.php?codigo=5522808&fecha=16/05/2018> (Diario Oficial de la Federación (Gobierno de México)) [es] — accessed 2026-05-30
 4. **SCJN Buscador Jurídico — entrada de la AI 11/2016** — <https://bj.scjn.gob.mx/busqueda?q=ALIENACION+PARENTAL&indice=biblioteca> ([Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/)) [es] — accessed 2026-05-30
 5. **Acción de Inconstitucionalidad 74/2024 (Tlaxcala) — engrose firmado (decisión posterior aplicando AI 11/2016)** — <https://www2.scjn.gob.mx/juridica/engroses/3/2024/19/3_331970_7141_firmado.pdf> ([Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/)) [es] — accessed 2026-05-30
-6. **Comunicado 119/2025 — SCJN invalida disposición de Tlaxcala sobre alienación parental** — <https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8241> (Suprema Corte de Justicia de la Nación) [es] — accessed 2026-05-30
+6. **Comunicado 119/2025 — SCJN invalida disposición de Tlaxcala sobre alienación parental** — <https://www.internet2.scjn.gob.mx/red2/comunicados/comunicado.asp?id=8241> ([Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/)) [es] — accessed 2026-05-30
 7. **Alienación parental no causa pérdida de patria potestad: SCJN** — <https://www.eluniversal.com.mx/nacion/sociedad/alienacion-parental-no-causa-perdida-de-patria-potestad-scjn/> (El Universal) [es] — accessed 2026-05-30
 8. **La Suprema Corte anula la alienación parental como causa de pérdida de patria potestad** — <https://animalpolitico.com/2017/10/alienacion-parental-custodia-hijos-oaxaca> (Animal Político) [es] — accessed 2026-05-30
 9. **SCJN avala incluir en Código Penal oaxaqueño Alienación Parental** — <https://cimacnoticias.com.mx/2017/10/25/scjn-avala-incluir-en-codigo-penal-oaxaqueno-alienacion-parental/> (Cimacnoticias) [es] — accessed 2026-05-30
@@ -126,6 +126,8 @@ DECLARACIÓN DE INVALIDEZ PARCIAL por mayoría calificada del Tribunal Pleno (8/
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

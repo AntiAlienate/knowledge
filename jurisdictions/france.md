@@ -117,7 +117,7 @@ La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties fa
 1. **Légifrance — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) (arts. 371-1 et s.) consolidé** — <https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/> (Direction de l'information légale et administrative (DILA)) [fr]
 2. **[Cour de cassation](https://www.courdecassation.fr/) — arrêt 1re Civ., 26 juin 2013, n° 12-14.392** — <https://www.courdecassation.fr/decision/5fca5949f2e58f009e7af00c> ([Cour de cassation](https://www.courdecassation.fr/)) [fr]
 3. **[Conseil constitutionnel](https://www.conseil-constitutionnel.fr/) — recueil des décisions** — <https://www.conseil-constitutionnel.fr/decisions> ([Conseil constitutionnel](https://www.conseil-constitutionnel.fr/)) [fr]
-4. **JuriCA — base des arrêts des cours d'appel** — <https://www.courdecassation.fr/recherche-judilibre> (Cour de cassation / DILA) [fr]
+4. **JuriCA — base des arrêts des cours d'appel** — <https://www.courdecassation.fr/recherche-judilibre> ([Cour de cassation](https://www.courdecassation.fr/) / DILA) [fr]
 5. **Dalloz / Cairn — doctrine et revues juridiques** — <https://www.dalloz.fr/> (Éditions Dalloz / Cairn.info) [fr]
 6. **Recueil Cassation — Bulletin officiel des arrêts** — <https://www.courdecassation.fr/publications/bulletin> (Cour de cassation) [fr]
 7. **Haute Autorité de Santé — recommandations de bonne pratique** — <https://www.has-sante.fr/jcms/fc_1249588/fr/recommandations> (Haute Autorité de Santé (HAS)) [fr]
@@ -142,6 +142,8 @@ La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties fa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

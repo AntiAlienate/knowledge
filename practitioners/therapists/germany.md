@@ -138,7 +138,7 @@ Berlin · Berlin · Institut Gericht & Familie Berlin/Brandenburg e.V.; co-autho
 *Professor em. fur Psychologie, Universitat Bielefeld; psychologischer Sachverstandiger*
 Bielefeld · Nordrhein-Westfalen · Universitat Bielefeld (emeritus)
 
-**Stance:** Author of the foundational German PA Two-Phase Model: Jopt & Behrend (2000) *Das Parental Alienation Syndrome (PAS) — Ein Zwei-Phasen-Modell*, Zentralblatt fur Jugendrecht 87(7-8). Earlier 1992 monograph *Im Namen des Kindes* (Rasch & Rohring) argued for the abolition of sole custody — proto-bigenitorial position. Position is PASG-aligned recognition.
+**Stance:** Author of the foundational German PA Two-Phase Model: Jopt & Behrend (2000) *Das Parental Alienation Syndrome (PAS) — Ein Zwei-Phasen-Modell*, Zentralblatt fur Jugendrecht 87(7-8). Earlier 1992 monograph *Im Namen des Kindes* (Rasch & Rohring) argued for the abolition of sole custody — proto-bigenitorial position. Position is [PASG](https://pasg.info/)-aligned recognition.
 
 **Publications:**
 - Das Parental Alienation Syndrome (PAS) — Ein Zwei-Phasen-Modell (2000) — *Zentralblatt fur Jugendrecht 87(7-8) (with Behrend)*
@@ -186,7 +186,7 @@ Munich · Bayern · Deutsches Jugendinstitut (DJI) Munich — Leiter Fachgruppe 
 *Prof. Dr. (Habilitation LMU 1999); Lehrstuhl Allgemeine Padagogik LMU Munchen (beurlaubt seit 2012); Direktorin und Vorstandsvorsitzende Deutsches Jugendinstitut (DJI) seit 01.10.2021*
 Munich · Bayern · Deutsches Jugendinstitut (DJI) Munich (Direktorin); LMU Munchen, Lehrstuhl Allgemeine Padagogik (beurlaubt)
 
-**Stance:** DJI Direktorin and co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — directly cited by BVerfG 17.11.2023 — 1 BvR 1076/23. Editor of DJI Impulse 3+4/2024 *Elternkonflikte meistern*. Walper's signature carries the institutional weight of the BMFSFJ's central family-research institute and gives the critique camp its institutional authority in German family-court discourse.
+**Stance:** DJI Direktorin and co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — directly cited by [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23. Editor of DJI Impulse 3+4/2024 *Elternkonflikte meistern*. Walper's signature carries the institutional weight of the BMFSFJ's central family-research institute and gives the critique camp its institutional authority in German family-court discourse.
 
 **Publications:**
 - Verdorbener Wein in neuen Schlauchen (2023) — *ZKJ 2023 (with Zimmermann, Fichtner, Lux, Kindler)* — <https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869>
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

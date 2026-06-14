@@ -89,7 +89,7 @@ The single-judge apex authorship pattern is concentrated in common-law jurisdict
 ### 2. McFarlane P sustained-authorial Re-arc is structurally distinctive
 Sir Andrew McFarlane P's sustained authorship across the entire English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) is structurally distinctive in the corpus. No other jurisdiction's apex line has a single sustained-authorial pattern of this consistency.
 
-### 3. Italian Cassazione triad doctrinal-coherence through institution rather than author
+### 3. Italian [Cassazione](https://www.cortedicassazione.it/) triad doctrinal-coherence through institution rather than author
 The Italian Cassazione 13217/2021 + 9691/2022 + 4595/2025 line operates via collegial Sezione I Civile across different rapporteurs. The doctrinal coherence is institutional-collegial rather than authorial-individual. Distinct structural pattern from the English Re-arc.
 
 ### 4. Mexican SCJN ponencia + Tribunal Pleno hybrid
@@ -137,6 +137,8 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md*
+
+
 
 
 

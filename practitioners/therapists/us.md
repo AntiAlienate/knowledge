@@ -120,7 +120,7 @@ Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University Schoo
 - Child Affected by Parental Relationship Distress: New Disorder in [DSM-5](https://www.appi.org/products/dsm) (CAPRD framework) (2016) — *Journal of the American Academy of Child & Adolescent Psychiatry 55(7):571-579 (Bernet, Wamboldt & Narrow)*
 - Parental Alienation: Science and Law (2020) — *Charles C. Thomas (with Lorandos)*
 - Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/) (2010) — *Charles C. Thomas*
-- Five-Factor Model for the Diagnosis of Parental Alienation (2022) — *JAACAP / PASG* — <https://ckm.vumc.org/pasg/content/five-factor-model-diagnosis-parental-alienation>
+- Five-Factor Model for the Diagnosis of Parental Alienation (2022) — *JAACAP / [PASG](https://pasg.info/)* — <https://ckm.vumc.org/pasg/content/five-factor-model-diagnosis-parental-alienation>
 
 **Verification:**
 - <https://vkc.vumc.org/people/bernet-william>
@@ -343,7 +343,7 @@ San Jose · CA · Professor Emeritus, Department of Justice Studies, San Jose St
 *PhD; CA Licensed Psychologist; CA LMFT*
 Newport Beach · CA · Independent forensic psychology practice (Newport Beach, CA); [AFCC](https://www.afccnet.org/) Board of Directors; OBFC Board
 
-**Stance:** Decision-tree methodology for differential analysis of family violence, alienation, and gatekeeping. Co-edited the [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (2006) and [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) — AFCC-canonical practitioner. 2013 AFCC John E. Van Duzer Distinguished Service Award.
+**Stance:** Decision-tree methodology for differential analysis of family violence, alienation, and gatekeeping. Co-edited the [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (2006) and [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) — [AFCC](https://www.afccnet.org/)-canonical practitioner. 2013 AFCC John E. Van Duzer Distinguished Service Award.
 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)* — <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
@@ -414,7 +414,7 @@ Northampton · MA · Maconda Brown O'Connor Professor, Smith College School for 
 *PhD; ABPP Board Certified*
 Newton · MA · Director, Center of Excellence for Children, Families and the Law, William James College (Newton, MA); co-founder Overcoming Barriers Family Camp (OBFC)
 
-**Stance:** Co-founder (with Matthew Sullivan) of the Overcoming Barriers Family Camp — a 5-day attachment-informed PCCP intensive. 20+ years Director of Forensic Services & Training, Children and the Law Program, Massachusetts General Hospital. OBFC is the most-frequently court-ordered 'middle' intervention; also sits inside the Geffner et al. (2022) critique alongside Family Bridges and [TPFF](https://turningpointsforfamilies.com/).
+**Stance:** Co-founder (with Matthew Sullivan) of the Overcoming Barriers Family Camp — a 5-day attachment-informed PCCP intensive. 20+ years Director of Forensic Services & Training, Children and the Law Program, Massachusetts General Hospital. OBFC is the most-frequently court-ordered 'middle' intervention; also sits inside the Geffner et al. (2022) critique alongside [Family Bridges](https://warshak.com/family-bridges/) and [TPFF](https://turningpointsforfamilies.com/).
 
 **Publications:**
 - Overcoming Parent-Child Contact Problems: Family-Based Interventions (2016) — *Oxford University Press (Deutsch, Sullivan et al. eds.)* — <https://www.amazon.com/dp/0190235209>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

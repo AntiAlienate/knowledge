@@ -25,7 +25,7 @@ Cass. 1re civ., 26 juin 2013, n° 12-14.392 (publié au Bulletin) est la premiè
 
 ## Holding
 
-(1) Aux termes de l'article 373-2-13 du [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/), les dispositions relatives à l'exercice de l'autorité parentale peuvent être modifiées ou complétées à tout moment par le juge, à la demande des parents ou de l'un d'eux : la cour d'appel n'est donc pas dessaisie de la question de la résidence par ses propres mesures provisoires antérieures. (2) Le rapport d'enquête sociale ordonné en application de l'article 373-2-12 du [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) constitue un fait nouveau au sens de l'article 373-2-13, autorisant la cour d'appel à revisiter la résidence habituelle de l'enfant. (3) En relevant qu'« un syndrome d'aliénation parentale s'était instauré dans la vie de l'enfant » et que cet état justifiait le transfert de la résidence habituelle chez le père, la cour d'appel de Rennes a procédé à une appréciation souveraine des éléments de fait qui lui étaient soumis. La Cour de cassation ne contrôle pas la validité scientifique du concept de SAP : son contrôle se limite à vérifier l'absence de violation de la loi et la suffisance de motivation. Le pourvoi est rejeté. PORTÉE : l'arrêt ne consacre PAS le SAP comme catégorie juridique ; il consacre le pouvoir souverain des juges du fond d'apprécier les éléments factuels que la dénomination « SAP » recouvre dans un dossier donné.
+(1) Aux termes de l'article 373-2-13 du [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/), les dispositions relatives à l'exercice de l'autorité parentale peuvent être modifiées ou complétées à tout moment par le juge, à la demande des parents ou de l'un d'eux : la cour d'appel n'est donc pas dessaisie de la question de la résidence par ses propres mesures provisoires antérieures. (2) Le rapport d'enquête sociale ordonné en application de l'article 373-2-12 du [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) constitue un fait nouveau au sens de l'article 373-2-13, autorisant la cour d'appel à revisiter la résidence habituelle de l'enfant. (3) En relevant qu'« un syndrome d'aliénation parentale s'était instauré dans la vie de l'enfant » et que cet état justifiait le transfert de la résidence habituelle chez le père, la cour d'appel de Rennes a procédé à une appréciation souveraine des éléments de fait qui lui étaient soumis. La [Cour de cassation](https://www.courdecassation.fr/) ne contrôle pas la validité scientifique du concept de SAP : son contrôle se limite à vérifier l'absence de violation de la loi et la suffisance de motivation. Le pourvoi est rejeté. PORTÉE : l'arrêt ne consacre PAS le SAP comme catégorie juridique ; il consacre le pouvoir souverain des juges du fond d'apprécier les éléments factuels que la dénomination « SAP » recouvre dans un dossier donné.
 
 ## Verbatim
 
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La Cour de cassation, Première Chambre civ
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
