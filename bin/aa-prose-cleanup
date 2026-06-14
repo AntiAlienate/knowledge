@@ -1,0 +1,120 @@
+#!/usr/bin/env python3
+"""
+P0 cleanup per Warden's kb-dominance-protocol directive.
+
+Removes banned boilerplate phrases from `key_developments` (and any array of
+{year, description}) prose in jurisdictions/*.json. Acceptance: zero files
+remaining that match
+  grep -l "substantively distinctive\|reform-trajectory\|framework affecting subsequent"
+
+Usage: aa-prose-cleanup <path-to-dir-containing-jurisdictions>
+"""
+from __future__ import annotations
+import json
+import pathlib
+import re
+import sys
+
+BANNED_RE = re.compile(
+    r"substantively distinctive(?:\s+globally)?"
+    r"|reform-trajectory"
+    r"|framework affecting subsequent"
+    r"|foundational substantive",
+    re.I,
+)
+
+# Stacked-hyphen compound noun: 3+ hyphens forming a single compound
+STACKED_HYPHEN_RE = re.compile(r"\b\w+(?:-\w+){3,}\b")
+
+
+def clean_description(desc):
+    if not isinstance(desc, str) or not desc:
+        return desc
+    s = desc
+    parts = re.split(r"(?<=[.!?])\s+", s)
+    kept = []
+    for p in parts:
+        if BANNED_RE.search(p):
+            # Salvage clean prefix at em-dash where boilerplate begins
+            mdash = p.find(" — ")
+            if mdash > 0 and BANNED_RE.search(p[mdash:]):
+                prefix = p[:mdash].rstrip(" ,;:")
+                if prefix and not BANNED_RE.search(prefix):
+                    kept.append(prefix + ".")
+                    continue
+            # Drop entire sentence
+            continue
+        kept.append(p)
+    out = " ".join(kept).strip()
+    out = re.sub(r"\s+\+\s+", ", ", out)
+    out = STACKED_HYPHEN_RE.sub(lambda m: m.group(0).split("-")[0], out)
+    out = re.sub(r"\s+", " ", out).strip()
+    out = re.sub(r"\s+\.", ".", out)
+    out = re.sub(r"\.+", ".", out)
+    out = re.sub(r"\s+,", ",", out)
+    out = re.sub(r",+", ",", out)
+    out = out.strip(" ,.")
+    if out and not out.endswith("."):
+        out += "."
+    return out
+
+
+def walk_and_clean(obj):
+    """Recurse, cleaning any string value that contains banned prose."""
+    if isinstance(obj, dict):
+        for k, v in list(obj.items()):
+            if isinstance(v, str):
+                if BANNED_RE.search(v):
+                    obj[k] = clean_description(v)
+            else:
+                walk_and_clean(v)
+    elif isinstance(obj, list):
+        # Process and drop any string entries that become empty after cleanup
+        new_items = []
+        for item in obj:
+            if isinstance(item, str):
+                if BANNED_RE.search(item):
+                    cleaned = clean_description(item)
+                    if cleaned and cleaned not in (".", ""):
+                        new_items.append(cleaned)
+                else:
+                    new_items.append(item)
+            else:
+                walk_and_clean(item)
+                new_items.append(item)
+        obj[:] = new_items
+
+
+def main():
+    if len(sys.argv) != 2:
+        print("usage: aa-prose-cleanup <dir-containing-jurisdictions>", file=sys.stderr)
+        return 2
+    root = pathlib.Path(sys.argv[1])
+    jdir = root / "jurisdictions"
+    if not jdir.is_dir():
+        print(f"no jurisdictions/ dir under {root}", file=sys.stderr)
+        return 2
+    touched = 0
+    scanned = 0
+    for p in sorted(jdir.glob("*.json")):
+        scanned += 1
+        try:
+            with p.open() as f:
+                data = json.load(f)
+        except Exception as e:
+            print(f"skip {p}: {e}", file=sys.stderr)
+            continue
+        before = json.dumps(data, ensure_ascii=False, sort_keys=False)
+        walk_and_clean(data)
+        after = json.dumps(data, ensure_ascii=False, sort_keys=False)
+        if before != after:
+            with p.open("w") as f:
+                json.dump(data, f, ensure_ascii=False, indent=2)
+                f.write("\n")
+            touched += 1
+    print(f"scanned {scanned}; touched {touched}")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

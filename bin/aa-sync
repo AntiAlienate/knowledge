@@ -273,6 +273,15 @@ def main():
         elif rkd > lkd:
             protected.append((j, rkd, lkd))
 
+    # 2a-bis. P0 prose hygiene: strip Warden-banned boilerplate from any
+    # jurisdiction JSON that slipped in via re-generation. Self-healing.
+    cleanup = pathlib.Path(__file__).parent / "aa-prose-cleanup"
+    if cleanup.exists():
+        for target in [ROOT / "arch-work", RECOVERY]:
+            cl = subprocess.run([sys.executable, str(cleanup), str(target)],
+                                capture_output=True, text=True)
+            print(f"→ aa-prose-cleanup ({target.name}): {cl.stdout.strip()}")
+
     # 2b. refresh citation footers + inline autolinks (idempotent).
     # Order: aa-cite (Sources block) → aa-crosslink (Related block) → aa-autolink
     # (inline body links). Autolink runs LAST so it can skip the appended blocks.
