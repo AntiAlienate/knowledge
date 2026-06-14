@@ -120,6 +120,8 @@ The section 8(3)-(4) **definition of "family proceedings"** is the procedural ho
 - **Subsequent amendments:** subsection (4) updated to add the Civil Partnership Act 2004 entries (2005), the Female Genital Mutilation Act 2003 entry (2015), and the Domestic Abuse Act 2021 Part 3 entry (2021).
 - **Status:** Crown copyright; published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — verbatim reproduction permitted.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

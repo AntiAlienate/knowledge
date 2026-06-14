@@ -100,6 +100,8 @@ Italy's history with the ECtHR on Article 8 positive-obligations cases — the *
 - **Codification history:** Article inserted by D.Lgs. 28 December 2013 n. 154, which reformulated and renumbered the content previously in art. 155 c.c. (introduced by Law 54/2006 — the affido condiviso reform of 8 February 2006); second paragraph reformulated by D.Lgs. 10 October 2022 n. 149 ("Riforma Cartabia"), as modified by L. 29 December 2022 n. 197, in force from 28 February 2023 (transitional rule: prior version continues to apply to proceedings already pending at that date).
 - **Status:** Italian state statute — public-domain text, widely reproduced.
 
+
+
 <!-- AA-CITE-START -->
 
 ---
