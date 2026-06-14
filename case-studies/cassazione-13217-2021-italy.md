@@ -110,7 +110,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
   - Codifica successiva (in vigore 28 febbraio 2023) dei principi di qualità della CTU in materia familiare; passaggio normativo responsivo alla critica metodologica veicolata fin da Cass. 13217/2021.
 - Giustizia Insieme (2021) — Tommaseo, 'La Corte di cassazione sulla sindrome di alienazione parentale: è colpa d'autore? Nota a Corte di cassazione 17 maggio 2021 n. 13217, Pres. Genovese, est. Caiazzo' — <https://www.giustiziainsieme.it/it/minori-e-famiglia/1759-la-corte-di-cassazione-sulla-sindrome-di-alienazione-parentale-e-colpa-d-autore-nota-a-corte-di-cassazione-17-maggio-2021-n-13217-pres-genovese-est-caiazzo>
   - Annotazione dottrinale di prima generazione sulla rivista Giustizia Insieme — enfatizza la qualificazione 'colpa d'autore / tatertyp' come architrave dell'ordinanza e ne anticipa la portata sistemica.
-- Il Sole 24 Ore — NT+ Diritto (2021) — 'La Cassazione frena sulla Sindrome da alienazione parentale (PAS): stop a sillogismi implausibili' — <https://ntplusdiritto.ilsole24ore.com/art/la-cassazione-frena-sindrome-alienazione-parentale-pas-stop-sillogismi-implausibili-AE93sxK>
+- Il Sole 24 Ore — NT+ Diritto (2021) — 'La [Cassazione](https://www.cortedicassazione.it/) frena sulla Sindrome da alienazione parentale (PAS): stop a sillogismi implausibili' — <https://ntplusdiritto.ilsole24ore.com/art/la-cassazione-frena-sindrome-alienazione-parentale-pas-stop-sillogismi-implausibili-AE93sxK>
   - Copertura del primo gruppo editoriale giuridico italiano (maggio 2021): identifica nell'ordinanza il punto di svolta sull'inammissibilità del 'sillogismo implausibile' PAS.
 - Alley Oop — Il Sole 24 Ore (2021) — 'Cassazione sconfessa la Pas, controverso il costrutto scientifico', 19 maggio 2021 — <https://alleyoop.ilsole24ore.com/2021/05/19/cassazione-sconfessa-la-pas-controverso-costrutto-scientifico/>
   - Annotazione su Alley Oop (sezione femminismo Il Sole 24 Ore) che fissa subito la qualifica 'controverso costrutto scientifico' come marker dell'ordinanza nella vulgata pubblica.
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

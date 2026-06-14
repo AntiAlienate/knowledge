@@ -59,7 +59,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 - **2008** — Cochemer Modell / interdisziplinäre Arbeitsgruppe AG Cochem-Zell wird mit Eintritt des Familienrichters Jürgen Rudolph in den Ruhestand in ihrer ursprünglichen Form eingestellt. Spätere 'Cochem-style'-Praxis ist nicht institutionell-kontinuierlich.
 - **2020** — Italienisches Ministero della Salute publiziert Stellungnahme gegen PAS (kontextuelle Vergleichsfolie für DE — siehe jurisdiction:italy); deutsche Rezeption über ZKJ/DJI-Kreise.
 - **2022** — GREVIO Baseline Evaluation Report on Germany — kritisiert PA-gestützte Deflektion häuslicher Gewalt im familiengerichtlichen Kontext (Istanbul Convention art. 31). — <https://rm.coe.int/grevio-inf-2022-16-eng-final-report-on-germany/1680a86937>
-- **2023** — 17.11.2023 — BVerfG 1 BvR 1076/23: Kammerbeschluss bezeichnet PAS als 'überkommene und wissenschaftlich nicht haltbare bzw. widerlegte Konstrukte'; zitiert ausdrücklich Zimmermann/Walper/Fichtner/Lux/Kindler (ZKJ 2023). Institutional inflection point. — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
+- **2023** — 17.11.2023 — [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23: Kammerbeschluss bezeichnet PAS als 'überkommene und wissenschaftlich nicht haltbare bzw. widerlegte Konstrukte'; zitiert ausdrücklich Zimmermann/Walper/Fichtner/Lux/Kindler (ZKJ 2023). Institutional inflection point. — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
 - **2024** — PETRA-Projekt GmbH / Stefan Rücker — Affiliation 'Universität Bremen' vom Senat der Universität 2024 öffentlich bestritten; Rücker ist nicht regulär in Bremen angebunden (Korrektur ggü. älteren Quellen).
 - **2026** — 5.1.2026 — OLG Frankfurt 7 UF 88/25: Senatsentscheidung wendet BVerfG-2023-Linie auf konkretes Sorge-/Umgangsverfahren an und verwirft PAS-gerahmte Sachverständigenempfehlung.
 
@@ -119,6 +119,8 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

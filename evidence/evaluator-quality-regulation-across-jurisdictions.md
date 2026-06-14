@@ -72,7 +72,7 @@ Newer statutory psychology professions tend to operate at institutional-integrat
 - **Ghana Psychology Council** (statutory since 2013): operates via institutional integration.
 - **Hong Kong HKPS** (voluntary only, no statutory): operates via SIR+SJE institutional dual-track.
 
-Mature statutory regulators (UK HCPC + AU AHPRA + SA HPCSA + US state boards) support named-evaluator + statute-and-rules approaches.
+Mature statutory regulators (UK [HCPC](https://www.hcpc-uk.org/) + AU AHPRA + SA HPCSA + US state boards) support named-evaluator + statute-and-rules approaches.
 
 ### 8. The Melanie Gill / Randy Rand parallel
 Cross-jurisdictionally, evaluator-quality concerns operationalise around specific named exclusion exemplars:
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

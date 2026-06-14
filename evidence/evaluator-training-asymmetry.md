@@ -88,7 +88,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 > "Interviews with survivors who had negative experiences during the child custody process revealed several themes: Domestic violence was ignored or minimized in the evaluation; evaluators gave too much weight to survivors' mental health or alleged mental health symptoms; and evaluators performed one-sided and rushed evaluations. Among other negative experiences, survivors mentioned being reprimanded for reporting child abuse. The survivors made recommendations in several areas. They specifically urged (1) fair and thorough custody evaluations, (2) expansion of supervised visitation and exchange programs, (3) thorough enforcement of child protection laws and investigation of all child abuse reports, and (4) mandatory DV training for custody evaluators, court professionals, and guardians ad litem."
 
-### 1.3 Saunders, Tolman & Faller (2013) — Journal of Family Psychology peer-reviewed companion
+### 1.3 [Saunders](https://www.ovw.usdoj.gov/), Tolman & Faller (2013) — Journal of Family Psychology peer-reviewed companion
 
 **Citation.** Saunders, D. G., Tolman, R. M., & Faller, K. C. (2013). Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology*, 27(3), 473-483. https://doi.org/10.1037/a0032164 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/23647501/
 
@@ -208,7 +208,7 @@ This paper is among the foundational practitioner texts on differential assessme
 
 **Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S. (2010). Getting real about abuse and alienation: A critique of Drozd and Olesen's decision tree. *Journal of Child Custody*, 7(4), 219-252. https://doi.org/10.1080/15379418.2010.521032 — GW Law repository: https://scholarship.law.gwu.edu/faculty_publications/824/ — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1767422
 
-Meier's 2010 critique argues that the Drozd/Olesen decision tree, *as actually applied in US family courts*, systematically routes the evaluator toward an "alienation" finding even when the underlying facts would support a finding of justified estrangement secondary to abuse. The critique is the direct conceptual precursor to Meier's 2020 empirical findings (the 4,338-case study; see `evidence-forensic-operation-in-courts.md` §1).
+[Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 2010 critique argues that the Drozd/Olesen decision tree, *as actually applied in US family courts*, systematically routes the evaluator toward an "alienation" finding even when the underlying facts would support a finding of justified estrangement secondary to abuse. The critique is the direct conceptual precursor to Meier's 2020 empirical findings (the 4,338-case study; see `evidence-forensic-operation-in-courts.md` §1).
 
 ### 3.3 The Drozd & Olesen response
 
@@ -448,7 +448,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - **The Saunders 2011 survey of 465 US custody evaluators documented a real and quantifiable variation in evaluator practice on DV screening, coercive-control hypothesis generation, and false-allegation belief endorsement.** Saunders, Faller, & Tolman (2011) NIJ Final Report; Saunders, Tolman, & Faller (2013) *Journal of Family Psychology* 27(3):473-483; Saunders (2015) *Journal of Child Custody* 12(1):71-92.
 - **Evaluator beliefs about false allegations and parental alienation co-vary with custody recommendations that disfavour alleged-survivor parents.** Saunders 2011 Tables 6-10; multivariate analysis in Saunders, Tolman, & Faller 2013.
 - **Patriarchal-norms and just-world core beliefs are the strongest single predictors of evaluator recommendation patterns** — stronger than demographic variables (age, gender) and stronger than self-reported IPV knowledge. Saunders, Tolman, & Faller (2013) multivariate analysis.
-- **The [AFCC](https://www.afccnet.org/) Model Standards (2006) treat DV training and "alienating behaviors" training as coordinate requirements with no operational ordering**, leaving the disconfirmatory-ordering implementation entirely to individual evaluator practice. AFCC Model Standards § 1.2(b)(3), 1.2(c)(2), 1.2(c)(5).
+- **The [AFCC](https://www.afccnet.org/) Model Standards (2006) treat DV training and "alienating behaviors" training as coordinate requirements with no operational ordering**, leaving the disconfirmatory-ordering implementation entirely to individual evaluator practice. [AFCC](https://www.afccnet.org/) Model Standards § 1.2(b)(3), 1.2(c)(2), 1.2(c)(5).
 - **Kayden's Law (federal, 2022) and downstream state statutes (CA SB 331; CO HB23-1178; MD HB 1191) have materially raised the statutory training-floor for custody evaluators and judicial officers** in those states. National Safe Parents Organization tracking; primary statutes cited.
 
 ### 10.2 Moderate–high confidence
@@ -517,7 +517,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### International primary sources
 
-- **Cafcass (UK)** — Domestic Abuse Practice Policy (2024-2025). https://www.cafcass.gov.uk/domestic-abuse-practice-policy
+- **[Cafcass](https://www.cafcass.gov.uk/) (UK)** — Domestic Abuse Practice Policy (2024-2025). https://www.cafcass.gov.uk/domestic-abuse-practice-policy
 - **Ministry of Justice (UK) Harm Report (2020)** — *Assessing Risk of Harm to Children and Parents in Private Law Children Cases*. https://commonslibrary.parliament.uk/research-briefings/cbp-8764/
 - **Family Law Amendment Act 2023 (Australia, Cth).** Most provisions commenced 6 May 2024. See https://www.lexisnexis.com/blogs/en-au/insights/the-family-law-amendment-act-2023-cth
 - **Canadian Bar Association (BC Branch)** — Call for family violence training for Section 211 report writers (14 December 2023). https://www.cbabc.org/news/cbabc-calls-for-standardized-wants-and-needs-of-children-reports-and-family-violence-training/
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

@@ -80,7 +80,7 @@ Desestima el recurso de casación interpuesto por la madre. Confirma la sentenci
 
 1. **STS 519/2017, de 22 de septiembre — ficha y extracto (vLex España)** — <https://vlex.es/vid/694392777> (vLex España) [es] — accessed 2026-05-30
 2. **Centro de Documentación Judicial (CENDOJ) — buscador del Poder Judicial** — <https://www.poderjudicial.es/search/AN/openCDocument/> (Consejo General del Poder Judicial) [es] — accessed 2026-05-30
-3. **Argumentos del Tribunal Supremo para otorgar la custodia compartida en casos de SAP — comentario sobre STS 519/2017** — <https://www.bastidabogados.com/2019/06/27/argumentos-del-tribunal-supremo-otorgar-una-custodia-compartida-casos-sindrome-alienacion-parental/> (Bastida Abogados) [es] — accessed 2026-05-30
+3. **Argumentos del [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) para otorgar la custodia compartida en casos de SAP — comentario sobre STS 519/2017** — <https://www.bastidabogados.com/2019/06/27/argumentos-del-tribunal-supremo-otorgar-una-custodia-compartida-casos-sindrome-alienacion-parental/> (Bastida Abogados) [es] — accessed 2026-05-30
 4. **STS 519/17: Sobre la manipulación de los hijos y la custodia compartida** — <https://gestionconflictosfamilia.blogspot.com/2017/10/sts-51917-sobre-la-manipulacion-de-los.html> (José Luis Sariego Morillo (blog jurídico)) [es] — accessed 2026-05-30
 5. **Sobre la manipulación de los hijos y la custodia compartida** — <https://confilegal.com/20180304-la-manipulacion-los-hijos-la-custodia-compartida/> (Confilegal) [es] — accessed 2026-05-30
 6. **Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI)** — <https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347> (Boletín Oficial del Estado) [es] — accessed 2026-05-30
@@ -103,6 +103,8 @@ Desestima el recurso de casación interpuesto por la madre. Confirma la sentenci
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

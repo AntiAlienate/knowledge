@@ -69,7 +69,7 @@
 
 **Institution.** Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) directs the National Family Violence Law Center at George Washington University Law School. The Center hosts the FCO Study, related litigation-support work (formerly DV LEAP), and ongoing judicial-training projects. URL: https://www.law.gwu.edu/national-family-violence-law-center
 
-**[Secondary verification only]** for the Center's full current programmatic listing — the page was not directly accessible at compilation; description above is drawn from Meier's authored work cited in this document and the SSRN/GW law-faculty pages.
+**[Secondary verification only]** for the Center's full current programmatic listing — the page was not directly accessible at compilation; description above is drawn from [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) authored work cited in this document and the SSRN/GW law-faculty pages.
 
 ---
 
@@ -159,7 +159,7 @@
 
 ### 4.3 Synthesis on the evaluator-training asymmetry
 
-The empirically supported asymmetry is this: PA training is widely available — much of it on a paid CPD basis, often delivered by practitioners with a commercial stake in the diagnosis (see UN Alsalem report §62 below) — while equivalent IPV/DV training is patchier, less standardised, and less commercially incentivised. Saunders' 2011 survey demonstrates that *more IPV training* predicts *more child-safe recommendations*, and *patriarchal belief endorsement* predicts *less safe recommendations*. There is no equivalent published evidence that more PA training improves outcomes for abused children — there is, however, evidence ([Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) that PA-trained evaluators repeatedly produced recommendations that reversing courts later found to have endangered children. **Confidence: moderate.** The asymmetry is consistent across multiple sources; rigorous head-to-head training-outcome studies have not been published.
+The empirically supported asymmetry is this: PA training is widely available — much of it on a paid CPD basis, often delivered by practitioners with a commercial stake in the diagnosis (see UN Alsalem report §62 below) — while equivalent IPV/DV training is patchier, less standardised, and less commercially incentivised. [Saunders](https://www.ovw.usdoj.gov/)' 2011 survey demonstrates that *more IPV training* predicts *more child-safe recommendations*, and *patriarchal belief endorsement* predicts *less safe recommendations*. There is no equivalent published evidence that more PA training improves outcomes for abused children — there is, however, evidence ([Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) that PA-trained evaluators repeatedly produced recommendations that reversing courts later found to have endangered children. **Confidence: moderate.** The asymmetry is consistent across multiple sources; rigorous head-to-head training-outcome studies have not been published.
 
 ---
 
@@ -319,7 +319,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 - **Saunders 2015.** *J Child Custody* 12(1):71–92. doi:10.1080/15379418.2015.1037052. // Saunders/Faller/Tolman 2011 NIJ Award 2007-WG-BX-0013.
 - **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016.** In *Parenting Plan Evaluations* (2nd ed.). OUP. doi:10.1093/med:psych/9780199396580.003.0013.
 - **Alsalem 2023.** A/HRC/53/36.
-- **OHCHR Brazil press release** 2025-09-03.
+- **[OHCHR](https://www.ohchr.org/) Brazil press release** 2025-09-03.
 - **GREVIO 3rd General Report 2022.** [Council of Europe](https://www.coe.int/).
 - **CEDAW concluding observations.** CRI/CO/7 ¶43; NZL/CO/8 ¶48; ITA/CO/7 ¶51; ESP/CO/7-8 ¶¶38–39; RUS/CO/8 ¶46; CAN/CO/8-9 ¶57; SWE/CO/10 ¶46.
 - **Tsimhoni / Gorcyca.** Michigan Supreme Court censure, 2017-07-28.
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

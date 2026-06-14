@@ -40,12 +40,12 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 
 ## Anonymisation convention
 
-[ECtHR](https://www.echr.coe.int/) decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' designations.
+[ECtHR](https://www.echr.coe.int/) decisions are anonymised per [ECtHR](https://www.echr.coe.int/) practice using initials or 'X' / 'Y' designations.
 
 ## Key developments
 
 - **1949** — [Council of Europe](https://www.coe.int/) established 5 May 1949 by Treaty of London — foundational multi-state European human-rights cooperation framework.
-- **1950** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) signed 4 November 1950 in Rome by 12 original Council of Europe member states.
+- **1950** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) signed 4 November 1950 in Rome by 12 original [Council of Europe](https://www.coe.int/) member states.
 - **1953** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) effective 3 September 1953 following ratification by 10 of the original 12 signatories.
 - **1959** — [European Court of Human Rights](https://www.echr.coe.int/) established 21 January 1959 — modern multi-state human-rights court.
 - **1979** — Foundational ECtHR judgment of 13 June 1979 establishing Article 8 illegitimate-child-rights framework.
@@ -87,7 +87,7 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 
 ## Editorial notes
 
-- ECHR / Council of Europe jurisdiction sidecar — supranational meta-legal-system multi-state human-rights framework ([European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) 1950/1953 + Article 8 right to private and family life + Article 6 right to fair trial + Article 34 individual-petition framework + European Court of Human Rights 1959 + Protocol 11 permanent ECtHR 1998 + Protocol 14 reform 2010 + Marckx v Belgium 1979 + Russia expulsion 2022 + Member State Convention-compatibility national-court framework). Only modern multi-state human-rights court with binding individual-petition framework globally + central jurisdictional framework for Article 8 family-life human-rights provision + largest single body of family-law-relevant international human-rights jurisprudence (100,000+ cases) + first member-state expulsion in Council of Europe history (Russia 2022).
+- ECHR / Council of Europe jurisdiction sidecar — supranational meta-legal-system multi-state human-rights framework ([European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) 1950/1953 + Article 8 right to private and family life + Article 6 right to fair trial + Article 34 individual-petition framework + [European Court of Human Rights](https://www.echr.coe.int/) 1959 + Protocol 11 permanent ECtHR 1998 + Protocol 14 reform 2010 + Marckx v Belgium 1979 + Russia expulsion 2022 + Member State Convention-compatibility national-court framework). Only modern multi-state human-rights court with binding individual-petition framework globally + central jurisdictional framework for Article 8 family-life human-rights provision + largest single body of family-law-relevant international human-rights jurisprudence (100,000+ cases) + first member-state expulsion in Council of Europe history (Russia 2022).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins supranational + multi-state-human-rights + ECHR-Council-of-Europe-framework cluster + binding-individual-petition-framework-globally-distinctive + Article-8-private-family-life-foundational-provision + 100000-plus-cases-jurisprudence-corpus + Marckx-Olsson-Johansen-Article-8-jurisprudence + Russia-2022-expulsion + Protocol-11-permanent-ECtHR + Convention-compatibility-national-court-framework clusters within the corpus.
 
@@ -95,6 +95,8 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

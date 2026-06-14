@@ -114,7 +114,7 @@ New York City · NY · Director of Research, Vincent J. Fontana Center for Child
 *MD (Psychiatry); Professor Emeritus*
 Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University School of Medicine; founder/first president [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 
-**Stance:** Global organising figure of the recognition camp. Founder of [PASG](https://pasg.info/) (2013; ~240 members across 40 countries). Lead author of Bernet, Wamboldt & Narrow (2016) JAACAP CAPRD framework — the most-cited US institutional reference. Co-author with Demosthenes Lorandos of Parental Alienation: Science and Law (Charles C. Thomas, 2020). The German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) ruling explicitly engaged the US PASG / Bernet literature as the recognition-camp reference critique camp scholars must rebut, making Bernet the trans-Atlantic anchor of the debate.
+**Stance:** Global organising figure of the recognition camp. Founder of [PASG](https://pasg.info/) (2013; ~240 members across 40 countries). Lead author of Bernet, Wamboldt & Narrow (2016) JAACAP CAPRD framework — the most-cited US institutional reference. Co-author with Demosthenes Lorandos of Parental Alienation: Science and Law (Charles C. Thomas, 2020). The German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) ruling explicitly engaged the US [PASG](https://pasg.info/) / Bernet literature as the recognition-camp reference critique camp scholars must rebut, making Bernet the trans-Atlantic anchor of the debate.
 
 **Publications:**
 - Child Affected by Parental Relationship Distress: New Disorder in [DSM-5](https://www.appi.org/products/dsm) (CAPRD framework) (2016) — *Journal of the American Academy of Child & Adolescent Psychiatry 55(7):571-579 (Bernet, Wamboldt & Narrow)*
@@ -273,7 +273,7 @@ Kansas City area · MO · Researcher, Leadership Council on Child Abuse & Interp
 *PhD; ABPP (Couple & Family Psychology); ABN; TX Licensed Psychologist; CA LMFT*
 San Diego · CA · Founding President, Institute on Violence, Abuse & Trauma (IVAT), San Diego; Distinguished Research Professor (Retired), Alliant International University
 
-**Stance:** Editor of the 2022 Journal of Family Trauma, Child Custody & Child Development special issue critiquing [TPFF](https://turningpointsforfamilies.com/), Family Bridges, and OBFC reunification programmes. IVAT founded as FVSAI in 1984. Dual TX / CA licensure gives cross-jurisdiction expert-witness reach. Most-current academic critique-camp anchor.
+**Stance:** Editor of the 2022 Journal of Family Trauma, Child Custody & Child Development special issue critiquing [TPFF](https://turningpointsforfamilies.com/), [Family Bridges](https://warshak.com/family-bridges/), and OBFC reunification programmes. IVAT founded as FVSAI in 1984. Dual TX / CA licensure gives cross-jurisdiction expert-witness reach. Most-current academic critique-camp anchor.
 
 **Publications:**
 - Special issue: Reunification Programs and Parental Alienation — A Critical Analysis (2022) — *Journal of Family Trauma, Child Custody & Child Development 19(3-4) (Geffner et al. eds.)*
@@ -343,7 +343,7 @@ San Jose · CA · Professor Emeritus, Department of Justice Studies, San Jose St
 *PhD; CA Licensed Psychologist; CA LMFT*
 Newport Beach · CA · Independent forensic psychology practice (Newport Beach, CA); [AFCC](https://www.afccnet.org/) Board of Directors; OBFC Board
 
-**Stance:** Decision-tree methodology for differential analysis of family violence, alienation, and gatekeeping. Co-edited the [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (2006) and AFCC Guidelines for Examining Intimate Partner Violence (2016) — AFCC-canonical practitioner. 2013 AFCC John E. Van Duzer Distinguished Service Award.
+**Stance:** Decision-tree methodology for differential analysis of family violence, alienation, and gatekeeping. Co-edited the [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (2006) and [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) — AFCC-canonical practitioner. 2013 AFCC John E. Van Duzer Distinguished Service Award.
 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)* — <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -189,6 +189,8 @@ The CJEU has issued substantial interpretive jurisprudence under Brussels IIa (p
 - **Status:** Public — EU Official Journal text, freely reproducible.
 - **Application:** Adopted 25 June 2019; applies from 1 August 2022; directly applicable in 26 EU Member States (all except Denmark — Denmark has not opted into Brussels IIb following its TEU Title V opt-out).
 
+
+
 <!-- AA-CITE-START -->
 
 ---

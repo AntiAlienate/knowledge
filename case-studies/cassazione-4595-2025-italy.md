@@ -122,7 +122,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
   - L'AIAF aveva già preso posizione su Cass. 3576/2024 (febbraio 2024) come consolidazione della linea 13217+9691; Cass. 4595/2025 — citando 3576/2024 nella string-cite di § 11.3 — recepisce quel posizionamento dottrinale.
 - APF — Avvocati per le Persone e le Famiglie (2025) — APF, 'L'evoluzione della giurisprudenza di legittimità in tema di alienazione genitoriale: da sindrome a colpa d'autore' — <https://www.avvocatipersonefamiglie.it/notizie/numero-speciale-pas/l%E2%80%99evoluzione-della-giurisprudenza-di-legittimita-in-tema-di-alienazione-genitoriale-da-sindrome-a-colpa-d%E2%80%99autore/>
   - Numero speciale APF post-4595/2025 che ricostruisce la traiettoria di legittimità 13217→9691→3576→4595 come 'da sindrome a colpa d'autore' (riprendendo la categoria di tatertyp inaugurata da Tommaseo sulla 13217).
-- L-JUS / Centro Studi Livatino (2025) — Bianchini, 'Riflessioni in tema di alienazione parentale e giustizia a misura di minore. Dalle sentenze della Cassazione alle Linee Guida europee' — <https://l-jus.it/riflessioni-in-tema-di-alienazione-parentale-e-giustizia-a-misura-di-minore-dalle-sentenze-della-cassazione-alle-linee-guida-europee/>
+- L-JUS / Centro Studi Livatino (2025) — Bianchini, 'Riflessioni in tema di alienazione parentale e giustizia a misura di minore. Dalle sentenze della [Cassazione](https://www.cortedicassazione.it/) alle Linee Guida europee' — <https://l-jus.it/riflessioni-in-tema-di-alienazione-parentale-e-giustizia-a-misura-di-minore-dalle-sentenze-della-cassazione-alle-linee-guida-europee/>
   - Rassegna L-JUS che inquadra Cass. 4595/2025 nel contesto delle Linee Guida europee per una giustizia a misura di minore.
 - Differenza Donna ONG / Telefono Rosa / D.i.Re — rete antiviolenza italiana (2025) — Comunicati e materiale formativo post-4595/2025
   - La rete antiviolenza italiana utilizza Cass. 4595/2025 come precedente apicale per contestare in sede di merito CTU PA-orientate; particolarmente la combinazione 4595 + I.M. e altri c. Italia (CEDU 2022) è impiegata come strumento argomentativo nei procedimenti di custody con allegazioni di violenza.
@@ -185,6 +185,8 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -128,7 +128,7 @@ Berlin · Berlin · Institut Gericht & Familie Berlin/Brandenburg e.V.; co-autho
 
 **Contact:** Institut Gericht & Familie Berlin/Brandenburg e.V., Berlin
 
-*Notes: Recognition-camp via textbook; methodologically closer to the middle camp than the Boch-Galhau / PASG line.*
+*Notes: Recognition-camp via textbook; methodologically closer to the middle camp than the Boch-Galhau / [PASG](https://pasg.info/) line.*
 
 **See also:** `jurisdiction:germany`, `practitioner:de.boch-galhau-wilfrid`
 
@@ -176,7 +176,7 @@ Munich · Bayern · Deutsches Jugendinstitut (DJI) Munich — Leiter Fachgruppe 
 
 **Contact:** kindler@dji.de; +49 89 62306-245; DJI, Nockherstr. 2, 81541 Munchen
 
-*Notes: Single most-cited German child-protection scientist on PA-scepticism; directly cited by the BVerfG-aligned line of reasoning.*
+*Notes: Single most-cited German child-protection scientist on PA-scepticism; directly cited by the [BVerfG](https://www.bundesverfassungsgericht.de/)-aligned line of reasoning.*
 
 **See also:** `jurisdiction:germany`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `case-study:olg-frankfurt-7-uf-88-25-germany-2026`, `practitioner:de.walper-sabine`, `practitioner:de.fichtner-joerg`, `practitioner:de.zimmermann-janin`, `practitioner:de.lux-ulrike`
 
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

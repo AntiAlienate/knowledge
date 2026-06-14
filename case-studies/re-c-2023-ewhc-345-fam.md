@@ -82,7 +82,7 @@ Appeal under FPR 2010 against the order of HH Judge Lindsay Davies (Family Court
 
 **[97]** (en):
 
-> Courts faced with a potential expert who presents a voluble, unstructured CV should at all times bear in mind that there is clear and solid ground to be found in the registration scheme. A lesson plainly to be drawn from the present case is the need for clarity as to an expert's qualification and/or experience. The more diffuse and unstructured a CV, the less effective it is likely to be in transmitting information crisply and clearly. In this regard, lawyers, magistrates and judges are lay readers. They need to be able to see with clarity, and in short form, the underlying basis for an individual's expertise. [HCPC](https://www.hcpc-uk.org/) registration, or chartered status in the [BPS](https://www.bps.org.uk/), provide a reliable, one-stop, method of authentication. Where a potential expert is registered with the [HCPC](https://www.hcpc-uk.org/) as entitled to hold themselves out as an expert under one of the protected titles, this can be taken as sufficient qualification to offer an opinion within that field of practice. Further detail in the CV may assist with the choice of one particular expert over another, but it is the kitemark of [HCPC](https://www.hcpc-uk.org/) registration which should resolve the question of qualification without more. A psychologist's CV should, therefore, prominently highlight whether they are HCPC registered or not. It is incumbent on an un-registered psychologist to assist the court by providing a short and clear statement of their expertise.
+> Courts faced with a potential expert who presents a voluble, unstructured CV should at all times bear in mind that there is clear and solid ground to be found in the registration scheme. A lesson plainly to be drawn from the present case is the need for clarity as to an expert's qualification and/or experience. The more diffuse and unstructured a CV, the less effective it is likely to be in transmitting information crisply and clearly. In this regard, lawyers, magistrates and judges are lay readers. They need to be able to see with clarity, and in short form, the underlying basis for an individual's expertise. [HCPC](https://www.hcpc-uk.org/) registration, or chartered status in the [BPS](https://www.bps.org.uk/), provide a reliable, one-stop, method of authentication. Where a potential expert is registered with the [HCPC](https://www.hcpc-uk.org/) as entitled to hold themselves out as an expert under one of the protected titles, this can be taken as sufficient qualification to offer an opinion within that field of practice. Further detail in the CV may assist with the choice of one particular expert over another, but it is the kitemark of [HCPC](https://www.hcpc-uk.org/) registration which should resolve the question of qualification without more. A psychologist's CV should, therefore, prominently highlight whether they are [HCPC](https://www.hcpc-uk.org/) registered or not. It is incumbent on an un-registered psychologist to assist the court by providing a short and clear statement of their expertise.
 
 <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html>
 
@@ -209,6 +209,8 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -51,7 +51,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ## Professional regulators
 
 - **[Council of Europe](https://www.coe.int/) — Steering Committee on Human Rights (CDDH)** — [Council of Europe](https://www.coe.int/) intergovernmental body coordinating member state human-rights policy. No PA-specific Steering Committee position; engagement happens at Court level. — <https://www.coe.int/en/web/human-rights-intergovernmental-cooperation>
-- **[Council of Europe](https://www.coe.int/) Commissioner for Human Rights** — Independent Commissioner promoting awareness and observance of human rights in Council of Europe member states. Has issued thematic reports on children's rights but no PA-construct-specific position. — <https://www.coe.int/en/web/commissioner>
+- **[Council of Europe](https://www.coe.int/) Commissioner for Human Rights** — Independent Commissioner promoting awareness and observance of human rights in [Council of Europe](https://www.coe.int/) member states. Has issued thematic reports on children's rights but no PA-construct-specific position. — <https://www.coe.int/en/web/commissioner>
 - **GREVIO — Group of Experts on Action against Violence against Women and Domestic Violence** — Independent expert body monitoring Istanbul Convention (CETS 210) implementation. GREVIO reports have engaged the structural risks of PA-construct deployment in DV contexts. Mid-Term Horizontal Review (2022) and country reports include critique-camp concerns parallel to UN Special Rapporteur Alsalem framing. — <https://www.coe.int/en/web/istanbul-convention/grevio>
 - **UN Special Rapporteur on Violence against Women, its Causes and Consequences — Reem Alsalem** — UN Special Rapporteur Reem Alsalem (Sudan/UK) Report A/HRC/53/36 (12 August 2022) addresses the PA construct as a tactic against DV-survivor mothers in family courts. Subsequently cited by Corte Constitucional Colombia in T-526/2023 and IEFH/IGVM Belgium Recommandation 2023/001 + multiple LATAM5 institutional anchors. Operationalised internationally as critique-anchor reference. — <https://www.ohchr.org/en/special-procedures/sr-violence-against-women>
 - **MESECVI — Follow-up Mechanism to the Belém do Pará Convention** — Inter-American mechanism following up the Convention of Belém do Pará. MESECVI Declaration 13 April 2023 on PA tactical deployment in family courts. Subsequently cited by Corte Constitucional Colombia T-526/2023. Inter-American critique-anchor parallel to UN Alsalem report. — <https://www.oas.org/en/cim/mesecvi.asp>
@@ -104,7 +104,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ## Sources
 
 1. **[European Court of Human Rights](https://www.echr.coe.int/) — Convention and judgments ([HUDOC](https://hudoc.echr.coe.int/))** — <https://www.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/) / Council of Europe) [en]
-2. **[HUDOC](https://hudoc.echr.coe.int/) — case-law database** — <https://hudoc.echr.coe.int/> (European Court of Human Rights) [en]
+2. **[HUDOC](https://hudoc.echr.coe.int/) — case-law database** — <https://hudoc.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/)) [en]
 3. **Council of Europe — Committee of Ministers (execution of judgments)** — <https://www.coe.int/en/web/cm> (Council of Europe) [en]
 4. **Council of Europe Commissioner for Human Rights** — <https://www.coe.int/en/web/commissioner> (Council of Europe) [en]
 5. **GREVIO — Group of Experts on Action against Violence against Women** — <https://www.coe.int/en/web/istanbul-convention/grevio> (Council of Europe) [en]
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

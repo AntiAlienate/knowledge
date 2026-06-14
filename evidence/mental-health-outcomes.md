@@ -157,7 +157,7 @@ See §1.1 above for citation. The PMC full text reports:
 
 **Honest caveat.** Self-identified retrospective sample; non-random comparison group; cross-sectional.
 
-### 3.2 Baker & Verrocchio (2015) — parental bonding and psychological maltreatment
+### 3.2 [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) — parental bonding and psychological maltreatment
 
 **Citation.** Baker, A. J. L., & Verrocchio, M. C. (2015). Parental bonding and parental alienation as correlates of psychological maltreatment in adults in intact and non-intact families. *Journal of Child and Family Studies*, 24(10), 3047–3057. https://doi.org/10.1007/s10826-014-0108-0
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

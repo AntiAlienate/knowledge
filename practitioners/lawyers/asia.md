@@ -34,7 +34,7 @@ New Delhi · Delhi ([Supreme Court of India](https://main.sci.gov.in/)) · Geeta
 - <https://en.wikipedia.org/wiki/Geeta_Luthra>
 - <https://www.legaleraonline.com/distinguished-legal-mind-of-india/geeta-luthra-4785>
 
-**Contact:** Chamber 47, Supreme Court of India, New Delhi; IAFL India profile https://www.iafl.com/find-a-lawyer/search-details/?id=19938
+**Contact:** Chamber 47, [Supreme Court of India](https://main.sci.gov.in/), New Delhi; IAFL India profile https://www.iafl.com/find-a-lawyer/search-details/?id=19938
 
 *Notes: Senior Advocate designation 2007 (SCI); Cambridge LLM + MPhil; named counsel of record verified in SCI judgment PDF, CaseMine commentary and Indian Kanoon. Bar Council registration number not publicly displayed. IAFL India fellow profile confirms current standing.*
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

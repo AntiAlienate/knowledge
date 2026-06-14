@@ -47,7 +47,7 @@ The Court's reasoning, distilled, was that:
 
 3. On the substance, the cour d'appel had carried out *"une appréciation souveraine des éléments qui lui étaient soumis"* (a sovereign assessment of the matters put before it) in concluding that *"un syndrome d'aliénation parentale s'était instauré dans la vie de l'enfant"* and that the child's habitual residence should be transferred to the father.
 
-It is the third element that matters for parental-alienation commentary. The Cour de cassation did not endorse the clinical validity of SAP. What it did – and this is the cassation court's particular role – was confirm that the cour d'appel's reliance on the SAP description fell within its *pouvoir souverain d'appréciation* (sovereign power of assessment) of the facts and the social-inquiry evidence, and was not a misapplication of law warranting cassation.
+It is the third element that matters for parental-alienation commentary. The [Cour de cassation](https://www.courdecassation.fr/) did not endorse the clinical validity of SAP. What it did – and this is the cassation court's particular role – was confirm that the cour d'appel's reliance on the SAP description fell within its *pouvoir souverain d'appréciation* (sovereign power of assessment) of the facts and the social-inquiry evidence, and was not a misapplication of law warranting cassation.
 
 The *dispositif* (operative part) reads, in essence:
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

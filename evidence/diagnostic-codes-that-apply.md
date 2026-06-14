@@ -28,7 +28,7 @@
 
 > "Examples include berating, disparaging, or humiliating the child; threatening the child; harming/abandoning — or indicating that the alleged offender will harm/abandon — people or things that the child cares about; confinement of the child (as by tying a child's arms or legs together or binding a child to a piece of furniture); scapegoating of the child; coercing the child to inflict pain on himself or herself; and disciplining the child excessively (i.e., at an extremely high frequency or duration, even if not at a level of physical abuse) through physical or nonphysical means."
 
-(The examples-list wording above is reproduced verbatim from [DSM-5](https://www.appi.org/products/dsm) page 719 as cited by multiple secondary-academic sources; see Loretta Maase, "Parent Alienation and Child Psychological Abuse in the DSM-5," https://lorettamaase.com/parent-alienation-psychological-abuse/, and the DSM-5 secondary discussion at https://drcachildress-consulting.com/wp-content/uploads/2019/11/DSM-5-Diagnostic-Formulations-from-Foundations-Chldress-2015.pdf — **[secondary verification only]** for the exact text, which is copyrighted by the American Psychiatric Association.)
+(The examples-list wording above is reproduced verbatim from [DSM-5](https://www.appi.org/products/dsm) page 719 as cited by multiple secondary-academic sources; see Loretta Maase, "Parent Alienation and Child Psychological Abuse in the [DSM-5](https://www.appi.org/products/dsm)," https://lorettamaase.com/parent-alienation-psychological-abuse/, and the DSM-5 secondary discussion at https://drcachildress-consulting.com/wp-content/uploads/2019/11/DSM-5-Diagnostic-Formulations-from-Foundations-Chldress-2015.pdf — **[secondary verification only]** for the exact text, which is copyrighted by the American Psychiatric Association.)
 
 **The encoding pair.**
 - **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (where there is sufficient evidence that the abuse has occurred).
@@ -137,7 +137,7 @@ Source: WHO [ICD-11](https://icd.who.int/) MMS entity 547677013, mirrored at htt
 
 **WHO's explicit direction, verbatim** (WHO FAQ on parental alienation, https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation):
 
-> "In situations in which an individual labelled with this term presents for health care, other ICD-11 content is sufficient to guide coding."
+> "In situations in which an individual labelled with this term presents for health care, other [ICD-11](https://icd.who.int/) content is sufficient to guide coding."
 >
 > "Users may classify cases to 'caregiver-child relationship problem'."
 
@@ -197,7 +197,7 @@ Many U.S. clinical billing systems still operate on ICD-10-CM (not yet ICD-11). 
 - **T74.32XD / T76.32XD** — same, subsequent encounter.
 - **T74.32XS / T76.32XS** — same, sequela.
 
-The U.S. transition timetable for ICD-11 remains under CMS / NCHS review; until that transition, U.S. evaluators write reports using DSM-5-TR text + ICD-10-CM billing codes.
+The U.S. transition timetable for ICD-11 remains under CMS / NCHS review; until that transition, U.S. evaluators write reports using [DSM-5-TR](https://www.appi.org/products/dsm) text + ICD-10-CM billing codes.
 
 ---
 
@@ -444,7 +444,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 
 **Cross-jurisdictional clinical-practice sources.**
 - [Cafcass](https://www.cafcass.gov.uk/) (England and Wales). *Alienating Behaviours.* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours
-- Cafcass. *Child Impact Assessment Framework (CIAF).* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf
+- [Cafcass](https://www.cafcass.gov.uk/). *Child Impact Assessment Framework (CIAF).* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf
 - Cafcass (2025). *Understanding why a child does not want to spend family time with a parent.* https://www.cafcass.gov.uk/sites/default/files/2025-07/Understanding%20why%20a%20child%20does%20not%20want%20to%20spend%20family%20time%20with%20a%20parent.pdf
 
 **Repository cross-references.**
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

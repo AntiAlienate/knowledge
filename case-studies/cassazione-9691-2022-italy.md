@@ -108,7 +108,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 - L-JUS / Centro Studi Livatino — voci critiche del fronte opposto (2022) — Centro Studi Livatino, '[Cassazione](https://www.cortedicassazione.it/): nuovo stop all'alienazione parentale' — <https://www.centrostudilivatino.it/cassazione-nuovo-stop-allalienazione-parentale/>
   - Lettura di segno opposto dal fronte che difende l'utilizzabilità clinica/forense del costrutto AP — utile come termine di paragone per documentare la frattura italiana del dibattito post-9691.
 - Camera dei Deputati — interrogazione 4-04379 Ascari/Cherchi, risposta del Ministro della Giustizia 12 marzo 2025 (2025) — Interrogazione a risposta scritta n. 4-04379, risposta scritta 12 marzo 2025 — <https://www.giustizia.it/cmsresources/cms/documents/interrogazione_ascari_e_cherchi_risposta_12mar2025.pdf>
-  - Atto parlamentare ufficiale che cita Cass. 9691/2022 come riferimento del 'no della Cassazione alla PAS' nel quadro dell'attuazione della Riforma Cartabia.
+  - Atto parlamentare ufficiale che cita Cass. 9691/2022 come riferimento del 'no della [Cassazione](https://www.cortedicassazione.it/) alla PAS' nel quadro dell'attuazione della Riforma Cartabia.
 
 ## See also
 
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

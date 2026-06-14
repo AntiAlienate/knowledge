@@ -353,7 +353,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 
 > *Parental-alienating conduct, sustained over time and at sufficient severity, can constitute child psychological abuse under existing [DSM-5](https://www.appi.org/products/dsm)/ICD-11 criteria and is treated as such by some statutes (Brazil) and many individual court judgments (UK, Canada, South Africa, U.S. state-level decisions). The harms to children — depression, anxiety, trauma reactions, suicidal ideation, impaired attachment, intergenerational transmission — are documented across multiple research programmes in multiple countries.*
 >
-> *At the same time, the empirical evidence base has acknowledged quality limitations ([Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016); "parental alienation" is not a recognised diagnosis in DSM-5 or [ICD-11](https://icd.who.int/); major bodies including the APA, APSAC, WHO, GREVIO, and most recently the UN Special Rapporteur on violence against women have raised serious concerns about the *use* of PA framing in family courts — in particular, that PA cross-claims can be deployed to defeat credible abuse allegations and reverse custody to abusers ([Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)).*
+> *At the same time, the empirical evidence base has acknowledged quality limitations ([Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016); "parental alienation" is not a recognised diagnosis in [DSM-5](https://www.appi.org/products/dsm) or [ICD-11](https://icd.who.int/); major bodies including the APA, APSAC, WHO, GREVIO, and most recently the UN Special Rapporteur on violence against women have raised serious concerns about the *use* of PA framing in family courts — in particular, that PA cross-claims can be deployed to defeat credible abuse allegations and reverse custody to abusers ([Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)).*
 >
 > *Any case for "PA as child abuse" that is intellectually honest must (a) ground the claim in **behaviour and outcome**, not in a contested diagnostic label; (b) acknowledge the asymmetric forensic misuse documented by [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) and others; and (c) treat APSAC's caution — that "a child's avoidance of a parent is not sufficient evidence of psychological abuse by the other parent" — as a non-negotiable epistemic guardrail.*
 
@@ -364,7 +364,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) *Psych. Bull.* 144(12):1275-1299 — https://pubmed.ncbi.nlm.nih.gov/30475019/
 - Verhaar, Matthewson & Bentley (2022) *Children* 9(4):475 — https://www.mdpi.com/2227-9067/9/4/475
 - Verrocchio, Marchetti & Fulcheri (2015) *Front. Psychol.* 6:1760 — https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01760/full
-- Bernet (Ed.) (2010) *Parental Alienation, DSM-5, and ICD-11* — Charles C. Thomas
+- Bernet (Ed.) (2010) *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)* — Charles C. Thomas
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) *Adult Children of PAS* — W. W. Norton
 - Harman, Leder-Elder & Biringen (2019) *Child. & Youth Serv. Rev.* 106:104471 — https://www.sciencedirect.com/science/article/abs/pii/S0190740919306164
 - Brazil Lei 12.318/2010 — https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm
@@ -388,6 +388,8 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ---
 
 *Compiled 2026-05-25 for AntiAlienate-knowledge (CC BY 4.0). Items marked **\[secondary verification only]** require direct re-verification against the original source before publication.*
+
+
 
 
 

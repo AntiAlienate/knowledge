@@ -67,11 +67,11 @@
 - Outcome judges (parents + workshop leaders) have a direct interest in success.
 - "Overcame their alienation" is variably operationalised across 75%–96% — the range reflects measurement choice, not stable effect estimate.
 - No blinded independent raters; no comparison group.
-- All children had **already** undergone court-ordered custody transfer to the rejected parent before the workshop began — meaning improvements cannot be attributed cleanly to Family Bridges as opposed to the custody change.
+- All children had **already** undergone court-ordered custody transfer to the rejected parent before the workshop began — meaning improvements cannot be attributed cleanly to [Family Bridges](https://warshak.com/family-bridges/) as opposed to the custody change.
 
 ### 1.4 Independent replication / evaluation
 
-**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on Family Bridges are by [Warshak](https://warshak.com/family-bridges/) or his programme team. The Family Bridges Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers (Warshak 2010; Warshak 2019) plus the Warshak & Otis 2010 commentary and a [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2019 follow-up on coparenting ([Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
+**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on Family Bridges are by [Warshak](https://warshak.com/family-bridges/) or his programme team. The Family Bridges Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers ([Warshak](https://warshak.com/family-bridges/) 2010; Warshak 2019) plus the Warshak & Otis 2010 commentary and a [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2019 follow-up on coparenting ([Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
 
 ---
 
@@ -124,7 +124,7 @@
 
 The 96.4% figure originates in the [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)(2022) paper above (the so-called "Colorado State outcome study"). It is computed as 53 of 55 children "reconnecting" — based on programme-staff judgement rather than the validated communication scales. The validated scales did not show statistically significant improvement.
 
-### 3.3 Independent peer-reviewed evaluation of TPFF
+### 3.3 Independent peer-reviewed evaluation of [TPFF](https://turningpointsforfamilies.com/)
 
 **Status: no independent peer-reviewed outcome evaluation of TPFF by a research team with no contact with [Gottlieb](https://turningpointsforfamilies.com/) has been identified.** The [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)evaluation was commissioned by [Gottlieb](https://turningpointsforfamilies.com/), who supplied all source materials. There is no published randomised trial, no matched-control study, and no long-term blinded outcome study of TPFF in the peer-reviewed literature as of compilation.
 
@@ -363,7 +363,7 @@ Additional verbatim provisions in the same paragraph:
 | Family Bridges | Yes — Warshak 2010 (n=23), Warshak 2019 (n=83) | **No** |
 | Family Reflections | Yes — Reay 2015 (n=22 children / 12 families) | **No** |
 | Turning Points for Families | Yes — [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 (n=55 children / 30 families; analysed videos from 15) — *but commissioned by [Gottlieb](https://turningpointsforfamilies.com/), who supplied all source materials* | **No** |
-| AB-PA ([Childress](https://drcachildress.org/)) | **No peer-reviewed outcome study identified** | **No** |
+| [AB-PA](https://drcachildress.org/) ([Childress](https://drcachildress.org/)) | **No peer-reviewed outcome study identified** | **No** |
 | MMFI (Friedlander & Walters) | Authors' clinical-judgement outcomes on ~55 cases (Friedlander & Walters 2010 footnote 1) | **No** |
 | Overcoming Barriers Family Camp | Yes — Sullivan, Ward & Deutsch 2010 (n=10 families, 6-month follow-up on 5) | **No** |
 | Transitioning Families | **No** — programme's own paper disclaims having outcome data | **No** |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

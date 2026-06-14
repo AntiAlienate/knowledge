@@ -134,7 +134,7 @@ From [Harman et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/) §4: appl
 
 ### 3.6 The authors' own caveats (verbatim, §4)
 
-> "Many parents believe they are targets of parental alienation but may not fully understand what the term means. For example, if a parent is unable to communicate with their child for a few days while in the care of the other parent, they may believe they are being alienated. In order to be considered a parental alienating behavior, the behavior needs to be enacted as part of a larger cluster of behaviors over time, with the intent to harm the relationship between the parent and the child (Harman et al., 2018). Therefore, it is possible that the respondents in the first two polls perceived PABs were occurring when in fact they were not."
+> "Many parents believe they are targets of parental alienation but may not fully understand what the term means. For example, if a parent is unable to communicate with their child for a few days while in the care of the other parent, they may believe they are being alienated. In order to be considered a parental alienating behavior, the behavior needs to be enacted as part of a larger cluster of behaviors over time, with the intent to harm the relationship between the parent and the child ([Harman et al.](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2018). Therefore, it is possible that the respondents in the first two polls perceived PABs were occurring when in fact they were not."
 
 This is from the *pro-recognition* authors themselves and is the honest reading of their own numbers.
 
@@ -217,7 +217,7 @@ The authors built a GRADE-adapted (Grading of Recommendations Assessment, Develo
 
 And from the chapter's "Summary of Composite Findings — Prevalence" section (p. 380):
 
-> "**In the absence of randomly drawn samples, and lacking common definitions of alienation, to date there are no defensible estimates of the prevalence or incidence of the problem.** Among the studies aimed at estimating the extent of alienation, widely varying rates among separated parents were reported ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Chambers, 2011; Baker & Verrocchio, 2013; Bala, Hunt, & McCarney, 2010; Johnston, 1993, 2003; Lampel, 1996a; Moné & Biringen, 2006; Racusin, Copans, & Mills, 1994; Spruijt, Eikelenboom, Harmeling, Stokkers, & Kormos, 2005)."
+> "**In the absence of randomly drawn samples, and lacking common definitions of alienation, to date there are no defensible estimates of the prevalence or incidence of the problem.** Among the studies aimed at estimating the extent of alienation, widely varying rates among separated parents were reported ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Chambers, 2011; [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio, 2013; Bala, Hunt, & McCarney, 2010; Johnston, 1993, 2003; Lampel, 1996a; Moné & Biringen, 2006; Racusin, Copans, & Mills, 1994; Spruijt, Eikelenboom, Harmeling, Stokkers, & Kormos, 2005)."
 
 ### 6.4 The verbatim verdict on the empirical literature as a whole (p. 420)
 
@@ -295,7 +295,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 
 ### 10.4 What the exchange means for prevalence claims
 
-The fight is **not** "does PA exist" — both sides accept that PA-pattern behaviour occurs. The fight is over **(a)** the comparative frequency of false abuse allegations versus weaponised alienation claims, and **(b)** whether courts systematically over- or under-credit each. **There is no consensus on either**. Advocates citing either Meier or Harman & Lorandos as "settled" overstate; the literature is contested.
+The fight is **not** "does PA exist" — both sides accept that PA-pattern behaviour occurs. The fight is over **(a)** the comparative frequency of false abuse allegations versus weaponised alienation claims, and **(b)** whether courts systematically over- or under-credit each. **There is no consensus on either**. Advocates citing either [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) or Harman & Lorandos as "settled" overstate; the literature is contested.
 
 ---
 
@@ -337,7 +337,7 @@ The Bernet 740,000 figure is regularly cited in expert testimony and amicus brie
 - **Daubert factors:** (1) tested → no, it is a deduction not a measurement; (2) peer-reviewed → the underlying chapter is peer-reviewed but the **specific numerical derivation** has not been replicated by independent researchers using primary data; (3) known error rate → not characterised; (4) general acceptance → contested ([Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016 explicitly: "no defensible estimates").
 - **Frye general-acceptance:** the figure is widely cited within the PA-recognition camp but is **not** generally accepted in the broader family-court-research community, as [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). demonstrates.
 
-The Saini et al. 2016 statement that "to date there are no defensible estimates of the prevalence of parental alienation" is the strongest peer-reviewed authority for cross-examining any expert who cites 740,000 or 1% as established fact.
+The [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016 statement that "to date there are no defensible estimates of the prevalence of parental alienation" is the strongest peer-reviewed authority for cross-examining any expert who cites 740,000 or 1% as established fact.
 
 The Harman 2016/2019 poll figures (13.4% / 35.5% / 39.1% / 22 million) have a stronger Daubert profile (real measurement, real sample, peer-reviewed, published methods) **but** the authors themselves note (§3.6 above) that "many parents believe they are targets of parental alienation but may not fully understand what the term means." A competent cross-examiner can use the authors' own caveats to limit what the numbers can support.
 
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

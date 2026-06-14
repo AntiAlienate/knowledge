@@ -31,7 +31,7 @@ Cross-link: case-study:ten-v-teo-2020-sghcf-20-singapore + jurisdiction:singapor
 ### Italy — [Cassazione](https://www.cortedicassazione.it/) I Civile rapporteurs
 **[Cassazione](https://www.cortedicassazione.it/) 13217/2021** + **[Cassazione](https://www.cortedicassazione.it/) 9691/2022** + **[Cassazione](https://www.cortedicassazione.it/) 4595/2025** — Italian Court of Cassation First Civil Section. Three-judge panel ordinanze rather than single-judge — but each decision is authored by a specific rapporteur (relatore). The doctrinal-rapporteur pattern operates within the Italian [Cassazione](https://www.cortedicassazione.it/) collegial framework.
 
-The Italian Cassazione triad is structurally distinct from the English Re-arc: collegial three-judge authorship rather than single-judge sustained-authorial pattern. The Italian triad's doctrinal coherence is institutional-collegial rather than authorial-individual.
+The Italian [Cassazione](https://www.cortedicassazione.it/) triad is structurally distinct from the English Re-arc: collegial three-judge authorship rather than single-judge sustained-authorial pattern. The Italian triad's doctrinal coherence is institutional-collegial rather than authorial-individual.
 
 Cross-link: case-study:cassazione-9691-2022-italy + case-study:cassazione-13217-2021-italy + jurisdiction:italy.
 
@@ -137,6 +137,8 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md*
+
+
 
 
 

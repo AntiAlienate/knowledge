@@ -55,7 +55,7 @@ Italy carries the European Union's most fully developed statute-and-case-law sta
 - **Ministero della Salute — Nota 25 maggio 2012 (Direzione Generale del Sistema Informativo)** — Nota ministeriale del 2012 che ha affermato che la cosiddetta sindrome di alienazione parentale (PAS) non risulta riconosciuta come patologia scientificamente accreditata — documento divenuto base interpretativa per Tribunale di Cosenza (2017) e poi richiamato da Cass. 9691/2022. (2012-05-25) — <https://www.salute.gov.it/>
 - **CISMAI — Coordinamento Italiano dei Servizi contro il Maltrattamento e l'Abuso all'Infanzia** — Rete clinico-istituzionale dei servizi anti-maltrattamento, anchor critico-PAS in Italia; documenti pubblici e prese di posizione hanno reiteratamente segnalato l'uso improprio del costrutto PA come strumento di vittimizzazione secondaria nelle famiglie con violenza assistita. — <https://cismai.it/> — see practitioner `it.cismai`
 - **ONPI — Osservatorio Nazionale Permanente sull'Infanzia e l'Adolescenza (linea critico-PAS)** — Osservatorio nazionale di linea critico-PAS, vicino al perimetro CISMAI e alle reti femministe D.i.Re e Telefono Rosa nel discorso pubblico sull'uso forense della PAS. — <https://www.osservatorionazionaleinfanzia.it/>
-- **SIPGI — Società Italiana di Psicologia Giuridica e Forense** — Principale associazione professionale del polo del riconoscimento in Italia (Presidente Marco Pingitore). Più recognition-tolerant rispetto alla linea Cassazione 2021–2025; organizza il Congresso Nazionale di Psicologia Giuridica con sessioni dedicate all'alienazione parentale. — <https://www.sipgi.it/>
+- **SIPGI — Società Italiana di Psicologia Giuridica e Forense** — Principale associazione professionale del polo del riconoscimento in Italia (Presidente Marco Pingitore). Più recognition-tolerant rispetto alla linea [Cassazione](https://www.cortedicassazione.it/) 2021–2025; organizza il Congresso Nazionale di Psicologia Giuridica con sessioni dedicate all'alienazione parentale. — <https://www.sipgi.it/>
 - **SISST — Società Italiana per lo Studio dello Stress Traumatico** — Società scientifica anchor del polo critico-PAS sul versante del trauma e della violenza assistita — riferimento istituzionale dei clinici critici dell'uso forense della PAS in contesti di violenza domestica. — <https://www.sisst.it/>
 
 ## Anonymisation convention
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

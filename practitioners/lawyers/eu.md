@@ -36,7 +36,7 @@ Belgium: IEFH/IGVM (Institut pour l'égalité des femmes et des hommes / Institu
 - Netherlands van Leuven exclusion: familierechter Cees van Leuven (Rechtbank Zeeland-West-Brabant) chaired the Expertteam Ouderverstoting Adviesrapport 2021 and is the single most-quoted Dutch authority on ouderverstoting. As a sitting judge, he is not directory-eligible as a practitioner; the procedural framework he authored is the structural anchor of the NL middle pole. Van Campen's Forward Advocaten blog (Feb 2021) is the named-practitioner bridge to the Expertteam framework.
 - Belgium Mathieu / Leleu individual entries: francophone academic-bar bridge with limited PA-specific publication. Mathieu's RTDF editorial-board work and Famille & Droit / DEI Belgium institutional engagement places her at the procedural-middle pole; Leleu's published positioning is on droit des personnes et des familles broadly without PA-specific stance. The BE institutional Tier 1 critique vehicle is IEFH/IGVM (federal gender-equality regulator Recommandation 2023/001) rather than an individual practitioner — directly cross-linked via the BE therapists v2 file.
 - Cross-link density to therapists v2 files: DE lawyers (Bielefeld critique) cross-link to de.fichtner-joerg + de.zimmermann-janin + de.walper-sabine (recognition camp DE therapists) for comparative reference. NL lawyers (Van Campen middle) cross-link to nl.van-lawick-justine (No Kids in the Middle programme) and procedural-middle DE therapists. BE lawyers (Mathieu middle) cross-link to be.iefh-igvm + be.bfp-bpf (Federal regulator + Belgian psychologists federation) as the BE critique institutional infrastructure.
-- Critique-camp lawyers cross-link to anchor case studies: case-study:cassazione-9691-2022-italy (Cass. 9691/2022 caso Massaro, sentenza Acierno) + case-study:bverfg-1-bvr-1076-23-germany-2023 (BVerfG Eltern-Kind-Entfremdung 17.11.2023) + case-study:sts-519-2017-spain (Spanish TS doctrinal line consolidated into LOPIVI 2021 statutory inadmission). The triple-anchor case-study cross-link is the European critique-coalition reference frame.
+- Critique-camp lawyers cross-link to anchor case studies: case-study:cassazione-9691-2022-italy (Cass. 9691/2022 caso Massaro, sentenza Acierno) + case-study:bverfg-1-bvr-1076-23-germany-2023 ([BVerfG](https://www.bundesverfassungsgericht.de/) Eltern-Kind-Entfremdung 17.11.2023) + case-study:sts-519-2017-spain (Spanish TS doctrinal line consolidated into LOPIVI 2021 statutory inadmission). The triple-anchor case-study cross-link is the European critique-coalition reference frame.
 
 ## Recognition camp
 
@@ -69,7 +69,7 @@ Bordeaux · Nouvelle-Aquitaine · Cabinet Michèle Bauer Avocat; Barreau de Bord
 **Stance:** Authored the single most-cited French practitioner-camp commentary on Cass. 1re civ., 26 juin 2013, n° 12-14.392 — 'Le syndrome d'aliénation parentale reconnu par la [Cour de cassation](https://www.courdecassation.fr/)' (2013). Reads the 2013 arrêt as legally and clinically endorsing SAP. The natural French-language recognition-camp interlocutor for any FR PA dossier.
 
 **Publications:**
-- Le syndrome d'aliénation parentale reconnu par la Cour de cassation (2013) — *Legavox blog (Michèle Bauer avocat Bordeaux)* — <https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/syndrome-alienation-parentale-reconnu-cour-13249.htm>
+- Le syndrome d'aliénation parentale reconnu par la [Cour de cassation](https://www.courdecassation.fr/) (2013) — *Legavox blog (Michèle Bauer avocat Bordeaux)* — <https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/syndrome-alienation-parentale-reconnu-cour-13249.htm>
 - Le syndrome d'aliénation parentale reconnu par la Cour de cassation (own-site version) (2013) — *michelebaueravocatbordeaux.fr* — <https://michelebaueravocatbordeaux.fr/syndrome-dalienation-parentale-reconnu-cour-cassation/>
 
 **Verification:**
@@ -512,6 +512,8 @@ Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

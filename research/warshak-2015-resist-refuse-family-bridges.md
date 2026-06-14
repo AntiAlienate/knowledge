@@ -65,7 +65,7 @@ Subsequent peer-reviewed evaluations ([Warshak](https://warshak.com/family-bridg
 ## Key Publications
 
 - [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *Divorce Poison: How to Protect Your Family from Bad-Mouthing and Brainwashing* (Rev. ed.). Harper.
-- Warshak, R. A. (2015). Ten parental alienation fallacies that compromise decisions in court and in therapy. *Professional Psychology: Research and Practice*, 46(4), 235-249. DOI: 10.1037/a0039247
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2015). Ten parental alienation fallacies that compromise decisions in court and in therapy. *Professional Psychology: Research and Practice*, 46(4), 235-249. DOI: 10.1037/a0039247
 - Warshak, R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children. *Family Court Review*, 48(1), 48-80.
 - Warshak, R. A. (2020). When evaluators get it wrong: False positive IDs and parental alienation. *Psychology, Public Policy, and Law*, 26(1), 54-68.
 
@@ -103,7 +103,7 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 ## Sources
 
 - Warshak 2015 ten fallacies paper DOI: https://doi.org/10.1037/a0039247
-- Warshak 2010 Family Bridges paper: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-1617.2009.01288.x
+- Warshak 2010 [Family Bridges](https://warshak.com/family-bridges/) paper: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-1617.2009.01288.x
 - Warshak 2020 false-positives paper DOI: https://doi.org/10.1037/law0000216
 - Family Bridges program info: https://www.warshak.com/family-bridges/
 - [AFCC](https://www.afccnet.org/): https://www.afccnet.org/
@@ -113,6 +113,8 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

@@ -124,7 +124,7 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ## Sources
 
 1. **Lombardo c. Italie, no. 25704/11, arrêt du 29 janvier 2013 (texte intégral, en français)** — <https://hudoc.echr.coe.int/eng?i=001-116127> ([European Court of Human Rights](https://www.echr.coe.int/) — [HUDOC](https://hudoc.echr.coe.int/) database) [fr] — accessed 2026-05-30
-2. **ECHR Registrar's press release no. ECHR 030 (2013), 29 January 2013 — Chamber judgments concerning Italy (including Lombardo v. Italy no. 25704/11)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-4239317-5042749&filename=003-4239317-5042749.pdf> (European Court of Human Rights — Registry) [en] — accessed 2026-05-30
+2. **ECHR Registrar's press release no. ECHR 030 (2013), 29 January 2013 — Chamber judgments concerning Italy (including Lombardo v. Italy no. 25704/11)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-4239317-5042749&filename=003-4239317-5042749.pdf> ([European Court of Human Rights](https://www.echr.coe.int/) — Registry) [en] — accessed 2026-05-30
 3. **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) — Article 8 (Right to respect for private and family life)** — <https://www.echr.coe.int/documents/d/echr/convention_ENG> ([Council of Europe](https://www.coe.int/)) [en] — accessed 2026-05-30
 4. **[HUDOC](https://hudoc.echr.coe.int/) case-law database — search interface for application no. 25704/11** — <https://hudoc.echr.coe.int/eng#{%22appno%22:[%2225704/11%22]}> (European Court of Human Rights) [en] — accessed 2026-05-30
 5. **Strasbourg Observers — Article 8 family life / enforcement-of-contact case-law tracker** — <https://strasbourgobservers.com/category/article-8/> (Ghent University Human Rights Centre / Strasbourg Observers blog) [en] — accessed 2026-05-30
@@ -141,7 +141,7 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 - PARTY NAMING CONVENTION: the application is officially captioned 'Lombardo c. Italie' / 'Lombardo v. Italy' — ECHR conventions name the natural-person applicant whilst anonymising minor children. The applicant Sergio Lombardo is named in full both in the judgment and in the Registry press release. The daughter is referred to in this case study by initial only ('L.'), consistent with the Court's standard family-life anonymisation under Rule 47 § 4 of the Rules of Court.
 - CHAMBER COMPOSITION: the seven-judge Second Section Chamber that decided Lombardo on 29 January 2013 was presided over by Danutė Jočienė; the Italian national judge for cases against Italy in this period (Guido Raimondi) sat under Rule 26 of the Rules of Court. The full composition is published in the [HUDOC](https://hudoc.echr.coe.int/) judgment file and is reproduced here. The Section Registrar at this date was Stanley Naismith.
 - JUDGE RAPPORTEUR: the Court does not publicly identify the individual juge rapporteur per case in its published judgments; the role is exercised within the Chamber under Rule 49 of the Rules of Court. The case study therefore does not assign rapporteur status to any individual judge.
-- JUST SATISFACTION QUANTUM: the exact euro figures awarded under Article 41 for non-pecuniary damage and for costs and expenses are set out in the operative part (dispositif) of the HUDOC judgment file; the open-source Registry press release does not reproduce them. Practitioners citing this case for damages comparison should consult the HUDOC text directly.
+- JUST SATISFACTION QUANTUM: the exact euro figures awarded under Article 41 for non-pecuniary damage and for costs and expenses are set out in the operative part (dispositif) of the [HUDOC](https://hudoc.echr.coe.int/) judgment file; the open-source Registry press release does not reproduce them. Practitioners citing this case for damages comparison should consult the HUDOC text directly.
 - GOVERNMENT AGENT: in the period 2010–2013 the Italian Government was represented before the ECHR by Agent Ersiliagrazia Spatafora and Co-Agent Paola Accardo. The specific allocation between Agent and Co-Agent for application no. 25704/11 is to be confirmed against the front matter of the HUDOC judgment file; this case study lists both.
 - APPLICANT'S COUNSEL: HUDOC records that the applicant was represented before the Court by G. Romano, a lawyer practising in Benevento, Italy. Full given name not reproduced in publicly indexed sources.
 - ECLI: the ECLI 'ECLI:CE:ECHR:2013:0129JUD002570411' is constructed in conformity with the European Court of Human Rights ECLI convention (CE / ECHR / year / 0129 [date in MMDD format] / JUD [judgment] / 002570411 [application number, zero-padded]). The Court routinely assigns ECLIs in this format to its published judgments.
@@ -154,6 +154,8 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

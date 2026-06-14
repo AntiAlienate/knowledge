@@ -70,7 +70,7 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 
 ## Key developments
 
-- **1989** — Children Act 1989 enacted — establishes welfare-paramountcy (s.1), the s.1(3) welfare checklist, child arrangements orders (s.8), the public-law significant-harm threshold (s.31), the s.91(14) restraining-application mechanism and the s.97 publication-restriction / anonymisation framework that governs all subsequent PA-adjacent family litigation. — <https://www.legislation.gov.uk/ukpga/1989/41/contents>
+- **1989** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) enacted — establishes welfare-paramountcy (s.1), the s.1(3) welfare checklist, child arrangements orders (s.8), the public-law significant-harm threshold (s.31), the s.91(14) restraining-application mechanism and the s.97 publication-restriction / anonymisation framework that governs all subsequent PA-adjacent family litigation. — <https://www.legislation.gov.uk/ukpga/1989/41/contents>
 - **2008** — Practice Direction 12J first issued under the Family Procedure Rules — establishes the procedural duty to consider whether to conduct a fact-finding hearing where domestic abuse is alleged in private-law children proceedings. — <https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j>
 - **2017** — Practice Direction 12J substantially revised following the Women's Aid 'Nineteen Child Homicides' review and the Cobb J consultation; tightens the fact-finding obligation and the welfare-stage analysis for cases involving domestic abuse — this is the version of PD12J on which Re H-N 2021 para 31 hangs. — <https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j>
 - **2019** — 17 October 2019 — Re A (Children) (Parental Alienation) [2019] EWFC B56, HHJ Stephen Wildblood QC sitting at Bristol Family Court. Opening node of the modern English Re-arc; early judicial articulation of an alienation framing within s.1 Children Act 1989 welfare analysis. — <https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html>
@@ -78,7 +78,7 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 - **2021** — 30 March 2021 — Re H-N and Others (Children) (Domestic Abuse: Finding-of-Fact Hearings) [2021] EWCA Civ 448, McFarlane P + King LJ + Holroyde LJ joint judgment. Third and load-bearing node of the Re-arc: para 31 reframes the PD12J inquiry around 'pattern of coercive control' rather than discrete incidents. The word 'alienation' does not appear in the body of the Re H-N judgment — the PA framework is engaged via implication and the PD12J pattern-of-coercive-control doctrinal anchor. — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html>
 - **2023** — 22 March 2023 — Re C ('Parental Alienation'; Instruction of Psychologist) [2023] EWHC 345 (Fam), McFarlane P sitting alone in the Family Court at High Court level. Fourth node of the Re-arc: anchors the [HCPC](https://www.hcpc-uk.org/)-registration 'kitemark' for any psychologist instructed under PD25B to opine on alienation, prefiguring the FJC December 2024 finalised guidance. — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html>
 - **2024** — December 2024 — Family Justice Council finalised guidance on the use of expert evidence in cases involving allegations of alienating behaviours. Operationalises Re C 2023 across the family courts: codifies the [HCPC](https://www.hcpc-uk.org/)-registration kitemark and embeds a domestic-abuse-aware methodological standard consistent with PD12J and Re H-N para 31. — <https://www.judiciary.uk/courts-and-tribunals/judiciary-organisation/judicial-committees/family-justice-council/>
-- **2026** — 20 February 2026 — Re Y [2026] EWFC 38, McFarlane P. Fifth and closing node of the English Re-arc: child-arrangements order set aside where it had been founded on an unregulated PA-evaluator's report by Melanie Gill (HCPC-unregistered); 'every agency at fault' framing addresses the regulatory-disclosure axis and operationalises the Re C 2023 / FJC December 2024 kitemark against unregistered expert evidence. — <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html>
+- **2026** — 20 February 2026 — Re Y [2026] EWFC 38, McFarlane P. Fifth and closing node of the English Re-arc: child-arrangements order set aside where it had been founded on an unregulated PA-evaluator's report by Melanie Gill ([HCPC](https://www.hcpc-uk.org/)-unregistered); 'every agency at fault' framing addresses the regulatory-disclosure axis and operationalises the Re C 2023 / FJC December 2024 kitemark against unregistered expert evidence. — <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html>
 
 ## Structural findings
 
@@ -147,6 +147,8 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

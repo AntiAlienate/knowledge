@@ -232,7 +232,7 @@ Wellesley · MA · Solo forensic practice (Wellesley/Boston, MA); Senior Fellow,
 
 **Contact:** StephanieTabashneck@gmail.com
 
-*Notes: MA bar admission and MA psychology licensure per practice bio; Petrie-Flom Senior Fellow status verifiable via Harvard Law site. Massachusetts AFCC chapter presidency documents AFCC-aligned middle-camp position.*
+*Notes: MA bar admission and MA psychology licensure per practice bio; Petrie-Flom Senior Fellow status verifiable via Harvard Law site. Massachusetts [AFCC](https://www.afccnet.org/) chapter presidency documents AFCC-aligned middle-camp position.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:us.drew-margaret`
 
@@ -307,6 +307,8 @@ Vancouver · BC (Canada — cross-jurisdictional reference only) · Retired BC S
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

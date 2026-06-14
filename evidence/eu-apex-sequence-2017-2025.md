@@ -57,7 +57,7 @@ The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017
 | Year | Jurisdiction | Decision | Stance | Doctrinal mechanism |
 |---|---|---|---|---|
 | 2017 | Spain | STS 519/2017 | middle | Custodia compartida supported on parental-manipulation findings without endorsing SAP syndrome |
-| 2021 | Italy | Cassazione 13217/2021 | critique | PAS lacks scientific validity; cannot found custody restrictions |
+| 2021 | Italy | [Cassazione](https://www.cortedicassazione.it/) 13217/2021 | critique | PAS lacks scientific validity; cannot found custody restrictions |
 | 2022 | Italy | Cassazione 9691/2022 | critique | PAS pseudoscientific fundamento; ordinary evidential verification required |
 | 2023 | Germany | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 | critique | SAP veraltet und wissenschaftlich widerlegt; PAS-Gutachten constitutionally untenable |
 | 2025 | Italy | Cassazione 4595/2025 | critique | Consolidating 13217+9691 critique line |
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

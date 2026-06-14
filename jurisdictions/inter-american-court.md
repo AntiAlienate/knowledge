@@ -84,7 +84,7 @@ IACtHR decisions are anonymised per IACtHR practice using initials or first-name
 
 ## Editorial notes
 
-- Inter-American Court of Human Rights jurisdiction sidecar — supranational meta-legal-system Inter-American regional human-rights framework (American Convention on Human Rights 1969/1978 + Article 17 family rights + Article 19 children's rights + Article 63(1) comprehensive reparations + IACtHR contentious + advisory jurisdiction + Atala Riffo and Daughters v Chile 2012 + Fornerón and Daughter v Argentina 2012 + Inter-American Commission on Human Rights). Only modern regional human-rights court explicitly authorising 'reparations to victims' beyond declaratory relief globally + only modern regional human-rights court with binding advisory-opinion framework + foundational regional-court LGBT-parent rights framework (Atala Riffo 2012) + only multi-state regional-court framework with both Family Rights Article 17 and Children's Rights Article 19 explicit provisions.
+- [Inter-American Court of Human Rights](https://corteidh.or.cr/) jurisdiction sidecar — supranational meta-legal-system Inter-American regional human-rights framework (American Convention on Human Rights 1969/1978 + Article 17 family rights + Article 19 children's rights + Article 63(1) comprehensive reparations + IACtHR contentious + advisory jurisdiction + Atala Riffo and Daughters v Chile 2012 + Fornerón and Daughter v Argentina 2012 + Inter-American Commission on Human Rights). Only modern regional human-rights court explicitly authorising 'reparations to victims' beyond declaratory relief globally + only modern regional human-rights court with binding advisory-opinion framework + foundational regional-court LGBT-parent rights framework (Atala Riffo 2012) + only multi-state regional-court framework with both Family Rights Article 17 and Children's Rights Article 19 explicit provisions.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins supranational + Inter-American-regional-human-rights + IACtHR-framework cluster + Article-63(1)-comprehensive-reparations-globally-distinctive + binding-advisory-opinion-framework + Article-17-family-rights-Article-19-children's-rights + Atala-Riffo-LGBT-parent-rights + Fornerón-biological-parent-rights + Inter-American-Commission-pre-Court-framework + 20-OAS-member-state-contentious-jurisdiction + member-state-Convention-compatibility-framework clusters within the corpus.
 
@@ -92,6 +92,8 @@ IACtHR decisions are anonymised per IACtHR practice using initials or first-name
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

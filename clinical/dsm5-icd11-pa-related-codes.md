@@ -78,7 +78,7 @@ This anchors PA harm in **internationally recognized diagnostic systems** withou
 
 The diagnostic-system non-inclusion of PA as a standalone code is sometimes weaponized by PA-skeptic experts: *"PA isn't even in the DSM."* The accurate response:
 
-1. **True** — no standalone "PA" diagnosis in DSM-5 or [ICD-11](https://icd.who.int/)
+1. **True** — no standalone "PA" diagnosis in [DSM-5](https://www.appi.org/products/dsm) or [ICD-11](https://icd.who.int/)
 2. **But** — multiple PA-pattern-relevant codes exist (V995.51, V61.29, V300.19, QE52, 6D52, 6B41)
 3. **And** — the modern framing is **behaviors not syndrome** (Harman/Kruk/Hines 2018) — which uses existing codes rather than needing a new one
 4. **Court-evidence** can fully document PA harm using existing codes; no missing-diagnosis gap
@@ -86,7 +86,7 @@ The diagnostic-system non-inclusion of PA as a standalone code is sometimes weap
 ## Cross-jurisdictional applicability
 
 DSM-5 is the US + many other jurisdictions' standard.
-ICD-11 is the WHO global standard + many EU jurisdictions' default.
+[ICD-11](https://icd.who.int/) is the WHO global standard + many EU jurisdictions' default.
 Many forensic evaluators use **both** for cross-referencing.
 
 For international PA cases, both code systems are typically cited in expert reports.
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

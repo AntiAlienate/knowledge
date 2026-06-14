@@ -110,7 +110,7 @@ The Lombardo + Strumia + Improta sequence establishes the PA-adjacent Article 8 
 **Strasbourg engages PA-adjacent fact-patterns at the PROCEDURAL-DUE-DILIGENCE level rather than the CONSTRUCT-VALIDITY level.** [ECtHR](https://www.echr.coe.int/) jurisprudence does not adjudicate whether PAS / PA is a scientifically valid clinical construct (distinct from [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 which does). Strasbourg operates one level up: regardless of whether PA is a valid construct, member states must take adequate and effective measures to enable contact restoration where contact is obstructed.
 
 ### 3. Domestic apex integration is uneven
-Italian Cassazione 9691/2022 is the principal example of doctrinally dense Strasbourg + domestic apex integration. Other EU member-state apex decisions engage Strasbourg implicitly or via Convention-conform interpretation but lack equivalent doctrinal density.
+Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 is the principal example of doctrinally dense Strasbourg + domestic apex integration. Other EU member-state apex decisions engage Strasbourg implicitly or via Convention-conform interpretation but lack equivalent doctrinal density.
 
 ### 4. Multi-tier international anchor convergence beyond Strasbourg
 Strasbourg Art 8 operates alongside UN Alsalem A/HRC/53/36 (2022) + MESECVI Belém do Pará (2023) + LATAM5 domestic-apex anchors. The multi-tier configuration extends beyond Strasbourg geographically (LATAM, India, Africa) but Strasbourg Art 8 remains the supranational legal-binding standard for the 46 [Council of Europe](https://www.coe.int/) member states.
@@ -132,6 +132,8 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
+
+
 
 
 

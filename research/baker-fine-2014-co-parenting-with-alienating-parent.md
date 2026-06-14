@@ -86,7 +86,7 @@ Where Bernet diagnoses and Harman conceptualizes, [Baker](https://pubmed.ncbi.nl
 ## Sources
 
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Fine, P. R. (2014). *Co-Parenting with a Toxic Ex*. New Harbinger Publications. ISBN 9781608829583
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*. W. W. Norton.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*. W. W. Norton.
 - Baker, A. J. L. Selected published papers: https://pubmed.ncbi.nlm.nih.gov/?term=Amy+Baker+parental+alienation
 - Publisher page: https://www.newharbinger.com/9781608829583/co-parenting-with-a-toxic-ex/
 
@@ -95,6 +95,8 @@ Where Bernet diagnoses and Harman conceptualizes, [Baker](https://pubmed.ncbi.nl
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+
 
 
 

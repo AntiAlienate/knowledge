@@ -17,7 +17,7 @@ Cass. 1re civ., 26 juin 2013, n° 12-14.392 (publié au Bulletin) est la premiè
 ## Counsel
 
 - **SCP Richard** (Avocat aux Conseils (avocat à la [Cour de cassation](https://www.courdecassation.fr/) et au Conseil d'État)) — SCP Richard, avocat aux Conseils for l'une des parties (mention en tête de l'arrêt sur Légifrance)
-- **SCP Waquet, Farge et Hazan** (Avocat aux Conseils (avocat à la Cour de cassation et au Conseil d'État)) — SCP Waquet, Farge et Hazan for l'autre partie (mention en tête de l'arrêt sur Légifrance)
+- **SCP Waquet, Farge et Hazan** (Avocat aux Conseils (avocat à la [Cour de cassation](https://www.courdecassation.fr/) et au Conseil d'État)) — SCP Waquet, Farge et Hazan for l'autre partie (mention en tête de l'arrêt sur Légifrance)
 
 ## Experts
 
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La Cour de cassation, Première Chambre civ
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

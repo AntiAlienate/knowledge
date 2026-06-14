@@ -54,7 +54,7 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 - **1976** — Cherokee Nation Constitution of 1976 establishing modern Cherokee Nation governance framework — substantially reformed 1999.
 - **1978** — Federal US Act of 8 November 1978 establishing federal framework for placement of Indian children in foster care and adoption proceedings.
 - **2020** — Landmark [US Supreme Court](https://www.supremecourt.gov/) decision of 9 July 2020 recognising large portions of Eastern Oklahoma as remaining Indian Country.
-- **2022** — US Supreme Court decision of 29 June 2022 limiting state criminal jurisdiction in Indian Country to non-Indians against Indians — modifying post-McGirt jurisdictional framework.
+- **2022** — [US Supreme Court](https://www.supremecourt.gov/) decision of 29 June 2022 limiting state criminal jurisdiction in Indian Country to non-Indians against Indians — modifying post-McGirt jurisdictional framework.
 
 ## Structural findings
 
@@ -89,6 +89,8 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
