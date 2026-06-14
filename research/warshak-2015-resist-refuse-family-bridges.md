@@ -13,7 +13,7 @@ location_tags: [global, english-language, clinical-intervention]
 
 ## TL;DR
 
-Dr Richard A. Warshak (University of Texas Southwestern Medical Center) reframed the diagnostic conversation by introducing the **resist-refuse continuum** — moving the field away from binary "alienated vs. not alienated" thinking toward a multi-factorial assessment that accommodates mixed cases, hybrid dynamics, and developmental variation. He also co-developed **Family Bridges** (Warshak, Otis, Rand & Rand), the most-studied intensive reunification intervention for severely alienated children, with published outcome data showing meaningful reconnection in cases where prior interventions had failed.
+Dr Richard A. [Warshak](https://warshak.com/family-bridges/) (University of Texas Southwestern Medical Center) reframed the diagnostic conversation by introducing the **resist-refuse continuum** — moving the field away from binary "alienated vs. not alienated" thinking toward a multi-factorial assessment that accommodates mixed cases, hybrid dynamics, and developmental variation. He also co-developed **[Family Bridges](https://warshak.com/family-bridges/)** (Warshak, Otis, Rand & Rand), the most-studied intensive reunification intervention for severely alienated children, with published outcome data showing meaningful reconnection in cases where prior interventions had failed.
 
 ## The Resist-Refuse Continuum
 
@@ -86,7 +86,7 @@ Family Bridges is one of approximately 5-7 named reunification interventions wit
 | Bernet 5 criteria | Diagnostic gatekeeper (is this alienation?) |
 | **Warshak continuum** | **Severity + type stratification (what kind?)** |
 | Friedlander-Walters MMFI | Hybrid case typology |
-| Baker-Fine 17 strategies | Targeted-parent operational guidance |
+| [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Targeted-parent operational guidance |
 | **Family Bridges** | **Severe-case reunification intervention** |
 
 Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) and operational intervention (Baker-Fine, Family Bridges). The continuum gives clinicians and courts language for the messy middle.
@@ -106,13 +106,15 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 - Warshak 2010 Family Bridges paper: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-1617.2009.01288.x
 - Warshak 2020 false-positives paper DOI: https://doi.org/10.1037/law0000216
 - Family Bridges program info: https://www.warshak.com/family-bridges/
-- AFCC: https://www.afccnet.org/
+- [AFCC](https://www.afccnet.org/): https://www.afccnet.org/
 
 ---
 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

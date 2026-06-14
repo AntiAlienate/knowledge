@@ -55,7 +55,7 @@ Red flags:
 - "I'll figure it out as we go"
 - "I treat the family as a whole" without explanation of who attends when
 - Refuses to commit to milestones or reports
-- Has not heard of Warshak, Childress, Family Bridges, or [PASG](https://pasg.info/)
+- Has not heard of [Warshak](https://warshak.com/family-bridges/), [Childress](https://drcachildress.org/), [Family Bridges](https://warshak.com/family-bridges/), or [PASG](https://pasg.info/)
 - Charges a flat upfront fee with no protocol description
 
 ---
@@ -115,6 +115,8 @@ That is bleak. It is also true. Plan for it.
 ---
 
 *See also: [First 90 Days](first-90-days.md), [Working With Your Lawyer](working-with-lawyer.md), [Influencers](../influencers/) for the people behind these protocols.*
+
+
 
 
 

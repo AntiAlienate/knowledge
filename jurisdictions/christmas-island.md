@@ -13,7 +13,7 @@ Christmas Island is an Indian Ocean common-law Australian external territory —
 
 ## Statutory framework
 
-- **Australian Family Law Act 1975 (applicable via WA arrangements)** — Australian Family Law Act (applied via WA arrangements) (1975) — <https://www.fcfcoa.gov.au/>
+- **Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (applicable via WA arrangements)** — Australian Family Law Act (applied via WA arrangements) (1975) — <https://www.fcfcoa.gov.au/>
   - Australian Family Law Act applicable to Christmas Island via Western Australian administrative arrangements since 1992.
 - **Christmas Island Act 1958 (Cth)** — Christmas Island Act (1958) — <https://www.fcfcoa.gov.au/>
   - Federal Christmas Island Act establishing Australian territory status (transferred from Singapore administration to Australia 1958).
@@ -38,7 +38,7 @@ Christmas Island family-court decisions are anonymised per Federal Circuit and F
 
 - **1888** — Phosphate workers brought from Malaya, Singapore and China from 1888 onwards — established present Christmas Island population's heritage.
 - **1958** — Christmas Island transferred from Singapore administration to Australia under Christmas Island Act 1958.
-- **1987** — Hague Convention 1980 territorial extension by Australia to Christmas Island effective 1 January 1987.
+- **1987** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Australia to Christmas Island effective 1 January 1987.
 - **1992** — Western Australian administrative arrangements applied to Christmas Island.
 
 ## Structural findings
@@ -73,6 +73,8 @@ Christmas Island family-court decisions are anonymised per Federal Circuit and F
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

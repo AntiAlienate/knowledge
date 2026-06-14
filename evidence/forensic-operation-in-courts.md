@@ -9,7 +9,7 @@
 ## Table of contents
 
 1. The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) program at GW Law — empirical custody outcomes when PA is cross-claimed
-2. The Harman & Lorandos critique and the Meier rebuttals
+2. The Harman & Lorandos critique and the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) rebuttals
 3. [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — overturned-decisions case series
 4. Custody-evaluator role and the asymmetry of forensic training ([Saunders](https://www.ovw.usdoj.gov/) 2015)
 5. The middle-ground forensic literature — [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)
@@ -95,7 +95,7 @@
 
 ---
 
-## 3. Silberg & Dallam (2019) — "Abusers gaining custody" overturned-decisions case series
+## 3. [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — "Abusers gaining custody" overturned-decisions case series
 
 **Citation.** Silberg, J. L., & Dallam, S. (2019). Abusers gaining custody in family courts: A case series of overturned decisions. *Journal of Child Custody*, 16(2), 140–169. https://doi.org/10.1080/15379418.2019.1613204 — PDF: https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf
 
@@ -133,7 +133,7 @@
 
 ## 4. Custody-evaluator role and the asymmetry of forensic training
 
-### 4.1 Saunders (2015) — research-based recommendations
+### 4.1 [Saunders](https://www.ovw.usdoj.gov/) (2015) — research-based recommendations
 
 **Citation.** Saunders, D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71–92. https://doi.org/10.1080/15379418.2015.1037052 — Open copy: https://www.arnoldlawmediation.com/uploads/8/2/0/3/820350/saunders2015jcc__3_.pdf
 
@@ -163,7 +163,7 @@ The empirically supported asymmetry is this: PA training is widely available —
 
 ---
 
-## 5. The middle-ground forensic literature — Saini, Johnston, Fidler & Bala (2016)
+## 5. The middle-ground forensic literature — [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)
 
 ### 5.1 The chapter
 
@@ -260,7 +260,7 @@ CEDAW recommended that Costa Rica "take all measures necessary to discourage the
 
 ---
 
-### 6.5 WHO ICD-11
+### 6.5 WHO [ICD-11](https://icd.who.int/)
 
 The "parental alienation" code that briefly appeared in the foundation layer of ICD-11 was **removed in February 2020**. WHO confirmed that PA is not, and was never, a clinical diagnosis in ICD-11. This is documented in the WHO ICD-11 FAQ and discussed in the AntiAlienate `evidence-pa-as-child-abuse.md` page (section 2). Cross-reference: https://icd.who.int/dev11/f/en
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

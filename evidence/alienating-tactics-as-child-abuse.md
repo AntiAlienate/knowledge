@@ -66,7 +66,7 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 | Jurisdiction | Apex framing of alienating tactics | Key authority |
 |---|---|---|
 | Scotland | direct emotional abuse | NF v AF 2025 CSOH 13 |
-| England & Wales | emotional-abuse capable under Children Act 1989 s.31 | Re Y 2026 EWFC 38 |
+| England & Wales | emotional-abuse capable under [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.31 | Re Y 2026 EWFC 38 |
 | India | extreme mental cruelty (HMA s.13(1)(ia)) | ABC v XYZ Delhi HC 2023 + A v B Delhi HC 2026 |
 | Singapore | failure of parental responsibility | TEN v TEO 2020 SGHCF 20 |
 | South Africa | best-interests welfare factor (Children's Act s.7(1)(c)) | TLD v BG 2023 ZAGPJHC 801 |
@@ -87,6 +87,8 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/alienating-tactics-as-child-abuse.md*
+
+
 
 
 

@@ -35,7 +35,7 @@ Qatari family-law decisions are anonymised per court practice; published decisio
 ## Key developments
 
 - **2006** — Federal Family Law enacted, codifying personal-status provisions on Hanbali jurisprudential basis.
-- **2014** — Qatar acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2014.
+- **2014** — Qatar acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on Child Abduction effective 1 March 2014.
 
 ## Structural findings
 
@@ -66,6 +66,8 @@ Qatari family-law decisions are anonymised per court practice; published decisio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

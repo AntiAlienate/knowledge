@@ -225,9 +225,9 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ## 8. Where standard of proof and harm threshold interact
 
-**8.1 [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/).** DSM-5 V995.51 (Child Psychological Abuse, Confirmed) and ICD-11 QE52.0 (Caregiver-child relationship problem) are documented in [evidence-diagnostic-codes-that-apply.md](evidence-diagnostic-codes-that-apply.md). They are *clinical* classifications, not *legal* standards. A court finding that alienating conduct constitutes child psychological abuse is governed by the applicable statutory standard — typically preponderance (US child-welfare) or balance of probabilities (UK s.31, Canadian provincial, Australian s 140), with clear-and-convincing reserved for permanent termination.
+**8.1 [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/).** [DSM-5](https://www.appi.org/products/dsm) V995.51 (Child Psychological Abuse, Confirmed) and [ICD-11](https://icd.who.int/) QE52.0 (Caregiver-child relationship problem) are documented in [evidence-diagnostic-codes-that-apply.md](evidence-diagnostic-codes-that-apply.md). They are *clinical* classifications, not *legal* standards. A court finding that alienating conduct constitutes child psychological abuse is governed by the applicable statutory standard — typically preponderance (US child-welfare) or balance of probabilities (UK s.31, Canadian provincial, Australian s 140), with clear-and-convincing reserved for permanent termination.
 
-**8.2 Cross-allegation asymmetry.** When PA is alleged as a defence to abuse, the *same* civil standard governs both findings doctrinally. The Meier 2020 empirical question (§9.2) is whether the de facto standard operates lower for PA than for the abuse it defeats — contested.
+**8.2 Cross-allegation asymmetry.** When PA is alleged as a defence to abuse, the *same* civil standard governs both findings doctrinally. The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) empirical question (§9.2) is whether the de facto standard operates lower for PA than for the abuse it defeats — contested.
 
 **8.3 The *Santosky*-extension question.** Whether a PA-driven custody flip with effective no-contact triggers *Santosky*'s heightened standard remains unresolved on US PA facts in the published federal appellate record at compilation (§2.3).
 
@@ -237,7 +237,7 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ### 9.1 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)
 
-**Citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In Drozd, Saini, & Olesen (eds), *Parenting Plan Evaluations* (2nd ed., pp. 374–430). OUP. [Nevada Courts PDF](https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf); [ResearchGate](https://www.researchgate.net/publication/306386344_Empirical_Studies_of_Alienation_Applied_Research_for_the_Family_Court).
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In Drozd, Saini, & Olesen (eds), *Parenting Plan Evaluations* (2nd ed., pp. 374–430). OUP. [Nevada Courts PDF](https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf); [ResearchGate](https://www.researchgate.net/publication/306386344_Empirical_Studies_of_Alienation_Applied_Research_for_the_Family_Court).
 
 **Key finding (reproduced across secondary sources).** "Empirical research on parental alienation has been regarded as methodologically feeble. ... Extant empirical research indicates only a moderate to weak and somewhat inconsistent correlation between the preferred parents' alienating behavior and a child's rejection of a target parent."
 
@@ -331,6 +331,8 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 **Compiled** 2026-05-25 for the AntiAlienate knowledge repository (CC BY 4.0).
 **Compiler note.** Where the published text of a judgment or article was not directly accessible at compilation, the citation is marked **[secondary verification only]** and should be re-checked against the original. Where a specific factual proposition asked for could not be located in a primary source, it is marked **not publicly confirmed** rather than fabricated.
+
+
 
 
 

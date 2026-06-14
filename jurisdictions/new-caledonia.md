@@ -38,7 +38,7 @@ New Caledonian family-court decisions are anonymised per Court of Appeal practic
 
 ## Key developments
 
-- **1983** — Hague Convention 1980 territorial extension by France to New Caledonia effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to New Caledonia effective 1 December 1983.
 - **1998** — Nouméa Accord establishing path toward New Caledonian self-determination including constitutional Kanak customary-status recognition.
 - **1999** — Federal Organic Law implementing 1998 Nouméa Accord establishing New Caledonia's sui generis collectivity status with constitutionally-protected partial sovereignty.
 - **2018** — First independence referendum (2018) resulted in maintaining current status.
@@ -75,6 +75,8 @@ New Caledonian family-court decisions are anonymised per Court of Appeal practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

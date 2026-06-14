@@ -9,7 +9,7 @@
 
 ## What Article 8 says
 
-> *Everyone has the right to respect for his private and family life, his home and his correspondence.* (Article 8(1), European Convention on Human Rights)
+> *Everyone has the right to respect for his private and family life, his home and his correspondence.* (Article 8(1), [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005))
 
 The ECHR has interpreted "respect for family life" as imposing **positive obligations** on member states — meaning the state must take *adequate enforcement measures* to protect family relationships, not merely refrain from interfering.
 
@@ -42,7 +42,7 @@ After domestic remedies are exhausted (typically: trial court → appeal → cas
 
 | Live URL | Title |
 |---|---|
-| [antialienate.com/blog/echr-article-8-eu-legal-weapon](https://www.antialienate.com/blog/echr-article-8-eu-legal-weapon) | ECHR Article 8 — The EU Legal Weapon |
+| [antialienate.com/blog/echr-article-8-eu-legal-weapon](https://www.antialienate.com/blog/echr-article-8-eu-legal-weapon) | [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) — The EU Legal Weapon |
 
 ## Related entries
 
@@ -69,6 +69,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

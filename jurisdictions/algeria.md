@@ -38,7 +38,7 @@ Algerian family-court decisions are anonymised per Supreme Court practice using 
 
 - **1984** — Federal Family Code enacted codifying personal-status matters on Maliki jurisprudential basis.
 - **2005** — Substantial reform — raising marriage age, codifying judicial divorce, expanding custody provisions.
-- **2015** — Federal children's protection statute enacted aligned with UNCRC obligations.
+- **2015** — Federal children's protection statute enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2020** — Constitutional Council restructured as Constitutional Court.
 
 ## Structural findings
@@ -71,6 +71,8 @@ Algerian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

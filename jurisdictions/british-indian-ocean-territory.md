@@ -38,7 +38,7 @@ BIOT decisions are anonymised per UK overseas-territory court practice using ini
 
 - **1965** — UK separated Chagos Archipelago from Mauritius prior to Mauritian independence in 1968 — subsequently found unlawful by 2019 ICJ advisory opinion.
 - **1968** — UK forcibly removed Chagossian population (1968-1973) to enable US Diego Garcia military base lease.
-- **1983** — Hague Convention 1980 territorial extension by UK to BIOT effective 1 August 1986.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to BIOT effective 1 August 1986.
 - **2019** — International Court of Justice advisory opinion of 25 February 2019 finding UK's separation of Chagos Archipelago from Mauritius in 1965 unlawful and calling for decolonisation completion.
 - **2024** — UK-Mauritius agreement of 3 October 2024 transferring sovereignty over Chagos Archipelago to Mauritius, excluding Diego Garcia (retained under joint UK-US 99-year lease).
 
@@ -118,6 +118,8 @@ BIOT decisions are anonymised per UK overseas-territory court practice using ini
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -145,10 +147,10 @@ BIOT decisions are anonymised per UK overseas-territory court practice using ini
 
 ## Related on antialienate.com
 
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->

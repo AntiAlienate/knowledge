@@ -15,7 +15,7 @@ Uganda is an East African common-law unitary republic whose family-law framework
 
 - **Children Act Cap. 59 (revised 2016)** — Children Act — Parental responsibility and custody (1997) — <https://www.judiciary.go.ug/>
   - Federal Children's Act codifying welfare-of-the-child principle (s. 3) and parental responsibility provisions. Substantially revised 2016.
-- **Divorce Act Cap. 249** — Divorce Act (1904) — <https://www.judiciary.go.ug/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) Cap. 249** — Divorce Act (1904) — <https://www.judiciary.go.ug/>
   - Federal colonial-era divorce statute.
 
 ## Apex courts
@@ -40,7 +40,7 @@ Ugandan family-court decisions are anonymised per Judiciary practice using initi
 - **1904** — Federal colonial-era divorce statute enacted.
 - **1997** — Federal Children's Act codifying welfare-of-the-child principle and parental responsibility.
 - **2016** — Substantial revision of Children Act provisions.
-- **2022** — Uganda acceded to the Hague Convention 1980 effective 1 August 2022.
+- **2022** — Uganda acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 August 2022.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Ugandan family-court decisions are anonymised per Judiciary practice using initi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

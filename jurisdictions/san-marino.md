@@ -38,7 +38,7 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 
 - **1986** — Federal Family Law comprehensive reform.
 - **1989** — San Marino joined the Council of Europe; ECHR became applicable.
-- **2007** — San Marino acceded to the Hague Convention 1980 effective 1 March 2007.
+- **2007** — San Marino acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2007.
 - **2014** — Federal law on filiation reform enacted.
 
 ## Structural findings
@@ -116,6 +116,8 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -145,7 +147,7 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
 
 <!-- AA-CROSSLINK-END -->

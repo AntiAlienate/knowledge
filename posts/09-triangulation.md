@@ -47,7 +47,7 @@ Two-parent neutrality breaks triangulation. When the targeted parent refuses to 
 - Bowen, M. (1978). *Family Therapy in Clinical Practice.* Jason Aronson.
 - Garrity, C. B., & Baris, M. A. (1994). *Caught in the Middle.* Jossey-Bass.
 - Johnston, J. R., & Roseby, V. (1997). *In the Name of the Child.* Free Press.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 
@@ -56,6 +56,8 @@ Educational content. **Not clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 
@@ -128,9 +130,9 @@ Educational content. **Not clinical advice.**
 ## Related on antialienate.com
 
 - [Triangulation In Parental Alienation](https://www.antialienate.com/blog/triangulation-in-parental-alienation)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 - [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
 
 <!-- AA-CROSSLINK-END -->

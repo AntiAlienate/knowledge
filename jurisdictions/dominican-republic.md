@@ -37,8 +37,8 @@ Dominican family-court decisions are anonymised per Supreme Court practice using
 ## Key developments
 
 - **1884** — Federal Civil Code adopted via Napoleonic Code substantive heritage.
-- **2003** — Federal Code enacted replacing 1994 Code for Minors, codifying superior-interest principle aligned with UNCRC obligations.
-- **2004** — The Dominican Republic acceded to the Hague Convention 1980 effective 1 November 2004.
+- **2003** — Federal Code enacted replacing 1994 Code for Minors, codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+- **2004** — The Dominican Republic acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 November 2004.
 - **2010** — Constitutional Court established with original jurisdiction over constitutional review.
 
 ## Structural findings
@@ -71,6 +71,8 @@ Dominican family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

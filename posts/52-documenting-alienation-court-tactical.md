@@ -70,7 +70,7 @@ Say: **"documented alienating behaviors."** Cite **[Harman, Kruk & Hines](https:
 
 ## Citations
 
-- Baker, A. J. L., & Fine, P. R. (2013). *Co-Parenting with a Toxic Ex* (the 17 strategies vocabulary).
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Fine, P. R. (2013). *Co-Parenting with a Toxic Ex* (the 17 strategies vocabulary).
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse.
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993).
@@ -83,6 +83,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

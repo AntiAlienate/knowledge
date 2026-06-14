@@ -21,7 +21,7 @@ National constitutional provisions and apex case-law develop the paramountcy doc
 
 ### Strong-paramountcy formulations (paramount / first and paramount)
 
-**England and Wales** — **Children Act 1989 s.1(1)**: "When a court determines any question with respect to (a) the upbringing of a child… the child's welfare shall be the court's PARAMOUNT consideration." Pure paramountcy formulation — child's welfare overrides all other considerations. Subsequently reinforced by the [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) s.11(2)(a) parental-involvement presumption operating within the paramountcy frame. Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
+**England and Wales** — **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.1(1)**: "When a court determines any question with respect to (a) the upbringing of a child… the child's welfare shall be the court's PARAMOUNT consideration." Pure paramountcy formulation — child's welfare overrides all other considerations. Subsequently reinforced by the [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) s.11(2)(a) parental-involvement presumption operating within the paramountcy frame. Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
 
 **Scotland** — **Children (Scotland) Act 1995 s.11(7)**: "the welfare of the child concerned shall be his or her PARAMOUNT consideration." Mirrors E&W formulation. Subsequent s.11(7A)-(7E) protective factors operate within the paramountcy frame. Cross-link: case-study:nf-v-af-2025-csoh-13-scotland + jurisdiction:scotland.
 
@@ -59,7 +59,7 @@ National constitutional provisions and apex case-law develop the paramountcy doc
 
 **Japan** — Civil Code (民法) art. 766 (post-2024 reform) requires arrangements following divorce to focus on child's interests. Act No. 33 of 2024 joint-custody reform integrates DV/abuse carve-outs to preserve child-welfare protection. Cross-link: jurisdiction:japan.
 
-### Hague Convention 1980 + ECHR overlap
+### [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + ECHR overlap
 
 **Strasbourg Article 8** operates Convention-based best-interests through the positive-obligations doctrine. **Neulinger and Shuruk v Switzerland [GC] (2010)** requires substantive examination of best-interests in Hague return proceedings; **X v Latvia [GC] (2013)** refines the genuine-examination standard. Strasbourg best-interests operates at supranational level binding 46 Council of Europe member states. Cross-link: evidence:strasbourg-article-8-positive-obligations-doctrine.
 
@@ -128,6 +128,8 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 C
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
+
+
 
 
 

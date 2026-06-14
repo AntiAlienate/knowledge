@@ -25,7 +25,7 @@ All five must be present for alienation:
 1. Child actively rejects a previously loved parent
 2. Rejection is **disproportionate** to anything that parent has done
 3. Child is exposed to alienating behaviors by the favored parent
-4. Child exhibits Baker's 8 indicators (Layer 2)
+4. Child exhibits [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators (Layer 2)
 5. There is **no justified estrangement** (abuse, neglect, profound mismatch)
 
 ### Layer 2 — Baker's 8 behavioral indicators
@@ -87,6 +87,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

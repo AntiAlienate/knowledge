@@ -19,7 +19,7 @@ Valle d'Aosta (Vallée d'Aoste in French / Val d'Outa in Franco-Provençal / off
   - Italian Constitutional Article 38 quinquies establishing Valle d'Aosta's distinctive 90% tax retention financial-autonomy framework — most extensive of any Italian autonomous region.
 - **Italian Law 482/1999 (Linguistic Minorities Protection)** — Italian Linguistic Minorities Protection Law (1999) — <https://www.normattiva.it/>
   - Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities — applies to Walser-German Lys Valley minority in Valle d'Aosta.
-- **Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
+- **Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
   - Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Valle d'Aosta.
 
 ## Apex courts
@@ -55,7 +55,7 @@ Valle d'Aosta family-court decisions are anonymised per Italian court practice u
 - Only Italian autonomous region with no provinces (region functions as both region and province) is structurally distinctive globally.
 - Most extensive Italian autonomous-region fiscal autonomy framework (90% tax retention under Article 38 quinquies) is structurally distinctive within Italian autonomous-region cluster.
 - 74-commune direct regional administration framework is structurally distinctive within Italian regional administrative cluster.
-- Italian Hague Convention 1980 accession 1985 + Valle d'Aosta Italian-civil-law framework intersection is structurally distinctive.
+- Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985 + Valle d'Aosta Italian-civil-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -81,6 +81,8 @@ Valle d'Aosta family-court decisions are anonymised per Italian court practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

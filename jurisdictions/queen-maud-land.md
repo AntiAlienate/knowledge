@@ -43,7 +43,7 @@ Queen Maud Land decisions are anonymised per Norwegian court practice using init
 - **1930** — Norwegian Act of 27 February 1930 establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework.
 - **1939** — Norwegian Royal Decree of 14 January 1939 formally annexing Queen Maud Land to Norway in response to anticipated German Antarctic expedition.
 - **1959** — Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Queen Maud Land claim suspended pending Treaty term.
-- **1989** — Hague Convention 1980 territorial extension by Norway to Queen Maud Land effective 1 April 1989.
+- **1989** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Norway to Queen Maud Land effective 1 April 1989.
 - **2015** — Norwegian Royal Decree of 12 June 2015 clarifying that Queen Maud Land extends from 60°S to the South Pole — making it the only national Antarctic territorial claim with explicit pole-extension language.
 
 ## Structural findings
@@ -81,6 +81,8 @@ Queen Maud Land decisions are anonymised per Norwegian court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

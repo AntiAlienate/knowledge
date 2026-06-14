@@ -40,7 +40,7 @@ William Bernet's **Five-Factor Model** is the gold-standard differential-diagnos
   - Forcing child to choose
   - Telling child other parent doesn't love them
   - Withholding affection if child shows positive feelings for other parent
-  - And many more (Baker & Darnall 2006 enumeration)
+  - And many more ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Darnall 2006 enumeration)
 - Active and ongoing conduct
 
 ### Factor 5: Exhibition of many of the eight behavioural manifestations by the child
@@ -114,7 +114,7 @@ The five-factor structure prevents:
 ## Sources
 
 - Bernet, W. (Ed.) (2018). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*. Springfield IL: Charles C. Thomas
-- Bernet, W., & Baker, A.J.L. (2013). Parental alienation, DSM-5, and ICD-11: Response to critics. *Journal of the American Academy of Psychiatry and the Law*, 41(1), 98-104
+- Bernet, W., & Baker, A.J.L. (2013). Parental alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/): Response to critics. *Journal of the American Academy of Psychiatry and the Law*, 41(1), 98-104
 - Bernet, W., Wamboldt, M.Z., & Narrow, W.E. (2016). Child affected by parental relationship distress. *Journal of the American Academy of Child & Adolescent Psychiatry*, 55(7), 571-579
 - Lorandos, D., & Bernet, W. (Eds.) (2020). *Parental Alienation — Science and Law*. Charles C. Thomas
 - Harman, J.J., & Lorandos, D. (2023). Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law*
@@ -122,6 +122,8 @@ The five-factor structure prevents:
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. The Five-Factor Model requires trained evaluator application.*
+
+
 
 
 
@@ -197,6 +199,6 @@ The five-factor structure prevents:
 - [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
 - [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
 - [Medical Child Abuse When Alienators Recruit Healthcare Providers](https://www.antialienate.com/blog/medical-child-abuse-when-alienators-recruit-healthcare-providers)
-- [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
 
 <!-- AA-CROSSLINK-END -->

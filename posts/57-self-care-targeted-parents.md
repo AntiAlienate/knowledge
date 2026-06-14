@@ -84,8 +84,8 @@ Reunification windows often arrive *months or years* after the worst point ([Bak
 - Boss, P. (1999, 2006). *Ambiguous Loss / Loss, Trauma, and Resilience.*
 - Herman, J. L. (1992). *Trauma and Recovery.*
 - Walker, P. (2013). *Complex PTSD: From Surviving to Thriving.*
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- WHO ICD-11 6B41 — Complex PTSD.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- WHO [ICD-11](https://icd.who.int/) 6B41 — Complex PTSD.
 
 ## Disclaimer
 
@@ -94,6 +94,8 @@ Educational content. **Not clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

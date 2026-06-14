@@ -15,11 +15,11 @@ The proceedings concerned welfare and contact arrangements for the subject child
 
 ## Experts
 
-- **Melanie Gill** — self-described 'parental alienation specialist'; not on the HCPC Practitioner Psychologist register and not a Chartered Member of the [BPS](https://www.bps.org.uk/) at the relevant date (instructed by appointed in the proceedings below) — see practitioner `uk.gill-melanie`
+- **Melanie Gill** — self-described 'parental alienation specialist'; not on the [HCPC](https://www.hcpc-uk.org/) Practitioner Psychologist register and not a Chartered Member of the [BPS](https://www.bps.org.uk/) at the relevant date (instructed by appointed in the proceedings below) — see practitioner `uk.gill-melanie`
 
 ## Holding
 
-Findings of 'alienating behaviour' in Children Act 1989 proceedings cannot be sustained where the psychological evidence on which they rest comes from an unregulated evaluator. Expert psychological evidence in family proceedings must come from a practitioner who is registered with the Health and Care Professions Council (HCPC) in a protected title (Practitioner Psychologist / Clinical Psychologist / Counselling Psychologist / Forensic Psychologist / Educational Psychologist / Health Psychologist), or whose alternative regulatory status is clearly established on the record. Self-description as a 'parental alienation specialist' is not, of itself, a sufficient evidential foundation under FPR Part 25 and Practice Direction 25B.
+Findings of 'alienating behaviour' in [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) proceedings cannot be sustained where the psychological evidence on which they rest comes from an unregulated evaluator. Expert psychological evidence in family proceedings must come from a practitioner who is registered with the Health and Care Professions Council (HCPC) in a protected title (Practitioner Psychologist / Clinical Psychologist / Counselling Psychologist / Forensic Psychologist / Educational Psychologist / Health Psychologist), or whose alternative regulatory status is clearly established on the record. Self-description as a 'parental alienation specialist' is not, of itself, a sufficient evidential foundation under FPR Part 25 and Practice Direction 25B.
 
 ## Verbatim
 
@@ -48,7 +48,7 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 
 - Family Law Week (2026) — Case digest on Re Y [2026] EWFC 38 — <https://www.familylawweek.co.uk/>
   - Practitioner-press case digest — exact URL to be confirmed after publication.
-- ACP-UK / BPS (2026) — Professional-body commentary on the HCPC-registration requirement — <https://acpuk.org.uk/>
+- ACP-UK / [BPS](https://www.bps.org.uk/) (2026) — Professional-body commentary on the HCPC-registration requirement — <https://acpuk.org.uk/>
   - Association of Clinical Psychologists UK and British Psychological Society professional-body engagement on the regulated-only expert psychology line — discrete responses on Re Y specifically not yet publicly catalogued at time of writing.
 
 ## See also
@@ -63,7 +63,7 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 
 ## Sources
 
-1. **Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — judgment** — <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html> (BAILII (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
+1. **Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — judgment** — <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html> ([BAILII](https://www.bailii.org/) (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
 2. **Courts and Tribunals Judiciary — President of the Family Division** — <https://www.judiciary.uk/about-the-judiciary/who-are-the-judiciary/senior-judiciary/president-family-division/> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 3. **Family Procedure Rules — Part 25 (Experts and Assessors) and PD 25B** — <https://www.justice.gov.uk/courts/procedure-rules/family/parts/part_25> (Ministry of Justice) [en] — accessed 2026-05-30
 4. **Re C [2023] EWHC 345 (Fam) — President's guidance on regulated-only expert psychology** — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html> (BAILII) [en] — accessed 2026-05-30
@@ -87,6 +87,8 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
@@ -157,9 +159,9 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 ## Related on antialienate.com
 
 - [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
-- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
 
 <!-- AA-CROSSLINK-END -->

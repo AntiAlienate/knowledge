@@ -65,7 +65,7 @@ In Belgium, [case-law/belgium/civil-code-art-375bis-grandparents.md](../case-law
 
 ## Citations
 
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Boss, P. (1999). *Ambiguous Loss.* Harvard University Press.
 - Belgian Civil Code Art. 375bis
 - *Troxel v. Granville*, 530 U.S. 57 (2000)
@@ -77,6 +77,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

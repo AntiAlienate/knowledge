@@ -38,8 +38,8 @@ Uruguayan family-court decisions are anonymised per Supreme Court practice using
 ## Key developments
 
 - **1868** — Federal Civil Code enacted based on Bello/Argentine civil-law substantive heritage.
-- **2000** — Uruguay acceded to the Hague Convention 1980 effective 1 February 2000.
-- **2004** — Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations.
+- **2000** — Uruguay acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 2000.
+- **2004** — Federal Code enacted codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2012** — Federal statute establishing Colegio de Psicólogos del Uruguay.
 - **2018** — Federal law on gender-based violence including coercive parental-dynamics provisions.
 
@@ -73,6 +73,8 @@ Uruguayan family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

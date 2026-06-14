@@ -82,7 +82,7 @@ These tank targeted-parent cases more than anything else:
 3. **Hiring the cheapest lawyer.** Family law has wide variance in skill. A specialist costs more upfront and far less over the case lifetime.
 4. **Going public on social media.** Anonymised, vague, peer-group support is fine. Public posts are screenshot-collected and used against you.
 5. **Confronting third parties** (teachers, in-laws) without lawyer sign-off.
-6. **Giving up between hearings.** Many parents abandon contact "to give the child peace." Almost every reunification expert (Warshak, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), [Childress](https://drcachildress.org/)) considers this catastrophic — the child reads abandonment as confirmation of the alienating narrative.
+6. **Giving up between hearings.** Many parents abandon contact "to give the child peace." Almost every reunification expert ([Warshak](https://warshak.com/family-bridges/), [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), [Childress](https://drcachildress.org/)) considers this catastrophic — the child reads abandonment as confirmation of the alienating narrative.
 
 ---
 
@@ -106,6 +106,8 @@ That is the foundation. Everything from here is execution.
 - [Community](../community/) — where other targeted parents talk
 
 *Authored by the AntiAlienate.com collective. Reviewed against published PA-clinician guidance. Not legal advice.*
+
+
 
 
 

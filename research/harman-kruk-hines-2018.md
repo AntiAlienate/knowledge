@@ -34,8 +34,8 @@
 ## Related entries in this knowledge base
 
 - `core-concepts/parental-alienating-behaviors.md` *(seed)*
-- `clinical/dsm5-v99551.md` *(seed — DSM-5 Child Psychological Abuse code)*
-- `clinical/icd11-qe52.md` *(seed — WHO ICD-11 Caregiver-Child Relationship Problem)*
+- `clinical/dsm5-v99551.md` *(seed — [DSM-5](https://www.appi.org/products/dsm) Child Psychological Abuse code)*
+- `clinical/icd11-qe52.md` *(seed — WHO [ICD-11](https://icd.who.int/) Caregiver-Child Relationship Problem)*
 - `case-law/united-kingdom/re-c-2023.md` *(seed — UK High Court decision citing this work)*
 - `core-concepts/family-violence-frame.md` *(seed)*
 
@@ -68,6 +68,8 @@
 **Last reviewed:** 2026-05-15 by Alan Markson.
 **License:** [CC BY 4.0](../LICENSE).
 **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

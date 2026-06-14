@@ -39,7 +39,7 @@ Seychellois family-court decisions are anonymised per Court of Appeal practice u
 - **1814** — Seychelles transferred from French to British colonial administration; Civil Code substantive heritage retained with English common-law procedural inheritance.
 - **1976** — Seychelles achieved independence from the United Kingdom; Civil Code of Seychelles enacted drawing on French Civil Code substantive heritage. JCPC removed at independence.
 - **1982** — Federal Children Act enacted codifying welfare-of-the-child principle.
-- **2008** — Seychelles acceded to the Hague Convention 1980 effective 1 December 2008.
+- **2008** — Seychelles acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 December 2008.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Seychellois family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

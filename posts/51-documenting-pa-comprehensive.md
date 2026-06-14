@@ -66,7 +66,7 @@ A shoebox of paper is not evidence. A chronological binder is. Use:
 
 Post-*Daubert v. Merrell Dow* (1993, 509 U.S. 579), opposing counsel routinely attacks "Parental Alienation Syndrome" as a discredited theory.
 
-**Counter:** document specific *behaviors* — interference, denigration, false allegations — and pair with the **Harman, Kruk & Hines (2018)** *Psychological Bulletin* meta-analysis establishing PA as family violence. The behavior frame survives Daubert. The syndrome frame often does not.
+**Counter:** document specific *behaviors* — interference, denigration, false allegations — and pair with the **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** *Psychological Bulletin* meta-analysis establishing PA as family violence. The behavior frame survives Daubert. The syndrome frame often does not.
 
 The UK High Court in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam) consolidated the parallel English standard.
 
@@ -109,6 +109,8 @@ Educational content. **Not legal advice.** Consult a licensed family-law attorne
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

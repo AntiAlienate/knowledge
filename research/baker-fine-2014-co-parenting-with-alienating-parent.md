@@ -14,7 +14,7 @@ location_tags: [global, english-language, practitioner-guide]
 
 ## TL;DR
 
-Dr Amy J. L. Baker (City University of New York) and Paul R. Fine (clinical psychologist) co-authored the 2014 practitioner guide that became the standard reference for targeted parents and their attorneys. The book codified Baker's prior empirical research (Baker 2007 adult-outcomes study of formerly alienated children) into 17 actionable strategies. The framework has been cited in custody evaluations across the US, Canada, UK, and Australia, and forms the operational backbone of the modern "long-game" approach to PA cases.
+Dr Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (City University of New York) and Paul R. Fine (clinical psychologist) co-authored the 2014 practitioner guide that became the standard reference for targeted parents and their attorneys. The book codified Baker's prior empirical research (Baker 2007 adult-outcomes study of formerly alienated children) into 17 actionable strategies. The framework has been cited in custody evaluations across the US, Canada, UK, and Australia, and forms the operational backbone of the modern "long-game" approach to PA cases.
 
 ## Empirical Foundation
 
@@ -139,6 +139,8 @@ Disclaimer: This summary is educational, not therapeutic or legal advice. The Ba
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -161,10 +163,10 @@ Disclaimer: This summary is educational, not therapeutic or legal advice. The Ba
 
 ## Related on antialienate.com
 
+- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
 - [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
-- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
-- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
-- [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
-- [Protecting Your Mental Health As A Targeted Parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->

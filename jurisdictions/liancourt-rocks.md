@@ -43,7 +43,7 @@ Liancourt Rocks-related decisions are anonymised per Korean court practice using
 - **1952** — South Korean President Syngman Rhee Presidential Proclamation of 18 January 1952 establishing 'Peace Line' (Syngman Rhee Line) including Liancourt Rocks within South Korean jurisdiction.
 - **1954** — South Korean Coast Guard established permanent presence on Liancourt Rocks in 1954 — foundation of South Korean de-facto administration.
 - **1968** — Kim Sung-do and wife Choi Jong-deok established permanent civilian residence on Dokdo in 1968 — sovereignty-entrenchment civilian-presence framework.
-- **2012** — South Korean President Lee Myung-bak visited Dokdo on 10 August 2012 — first South Korean Presidential visit to disputed islands, triggering significant Japan-Korea diplomatic tension. South Korea acceded to Hague Convention 1980 effective 13 December 2012.
+- **2012** — South Korean President Lee Myung-bak visited Dokdo on 10 August 2012 — first South Korean Presidential visit to disputed islands, triggering significant Japan-Korea diplomatic tension. South Korea acceded to [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 13 December 2012.
 
 ## Structural findings
 
@@ -78,6 +78,8 @@ Liancourt Rocks-related decisions are anonymised per Korean court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

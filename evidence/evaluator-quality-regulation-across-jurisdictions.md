@@ -7,7 +7,7 @@ A structural synthesis of evaluator-quality regulatory mechanisms governing expe
 Between 2018 and 2026, multiple jurisdictions independently developed regulatory mechanisms to address evaluator-quality concerns in PA-adjacent expert assessment. The pattern is structurally significant: similar concerns about under-credentialed evaluators producing influential family-court reports surfaced across common-law and civil-law jurisdictions, with each developing distinct regulatory routes.
 
 ### 1. England and Wales — Re Y [2026] EWFC 38 (apex case-law route)
-**Sir Andrew McFarlane P, 20 February 2026.** UK-wide evaluator-quality apex authority. McFarlane P held that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the [BPS](https://www.bps.org.uk/).' [HCPC](https://www.hcpc-uk.org/)-registration kitemark for PA evaluators flows UK-wide via HCPC statutory framework under Health and Social Care Act 2008. Operationalises against the principal exemplar — Melanie Gill (excluded UK practitioner; not HCPC-registered; not BPS-chartered). Re Y findings set aside on the basis of her assessment.
+**Sir Andrew McFarlane P, 20 February 2026.** UK-wide evaluator-quality apex authority. McFarlane P held that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the [BPS](https://www.bps.org.uk/).' [HCPC](https://www.hcpc-uk.org/)-registration kitemark for PA evaluators flows UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework under Health and Social Care Act 2008. Operationalises against the principal exemplar — Melanie Gill (excluded UK practitioner; not HCPC-registered; not [BPS](https://www.bps.org.uk/)-chartered). Re Y findings set aside on the basis of her assessment.
 
 The English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) constitutes the principal apex case-law evaluator-quality development. Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
 
@@ -42,7 +42,7 @@ NL structural specificity: NL operates the three-document positional architectur
 Singapore structural specificity: TEN v TEO [2020] SGHCF 20 (Debbie Ong J) operates substantive PA-recognition without separately addressing evaluator-quality — institutional integration approach addresses evaluator-quality through court-attached service architecture rather than independent professional credentialing. Cross-link: jurisdiction:singapore.
 
 ### 8. Hong Kong — SIR/SJE dual-track + LRC HK 2005 Parental Responsibility Model (institutional + proposed-reform route)
-**Social Investigation Report (SIR) + Single Joint Expert (SJE).** SWD social welfare officer prepares SIR; SJE clinical-psychology evidence joint-instruction. The SIR/SJE dual track is the HK institutional analogue to Singapore CAPS / England Cafcass / Australia FRW pool. Children Proceedings (Parental Responsibility) Bill (first floated 2015, revisited 2024 LegCo, NOT YET ENACTED) would introduce LRC HK 2005 [Saunders](https://www.ovw.usdoj.gov/) Report Parental Responsibility Model proposing further reform.
+**Social Investigation Report (SIR) + Single Joint Expert (SJE).** SWD social welfare officer prepares SIR; SJE clinical-psychology evidence joint-instruction. The SIR/SJE dual track is the HK institutional analogue to Singapore CAPS / England [Cafcass](https://www.cafcass.gov.uk/) / Australia FRW pool. Children Proceedings (Parental Responsibility) Bill (first floated 2015, revisited 2024 LegCo, NOT YET ENACTED) would introduce LRC HK 2005 [Saunders](https://www.ovw.usdoj.gov/) Report Parental Responsibility Model proposing further reform.
 
 HK structural specificity: H v W [2021] HKCA 733 (Lam VP, Yuen JA, B Chu J) engaged SIR + SJE framework substantively without separately addressing evaluator-quality. HKPS voluntary register (NO statutory psychology scheme) is structurally weaker than UK HCPC or Australia AHPRA — recognised institutional gap pending Bill enactment. Cross-link: jurisdiction:hong-kong.
 
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

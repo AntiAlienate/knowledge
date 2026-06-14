@@ -9,7 +9,7 @@
 
 ## The 4 legal layers (use them all, in this order)
 
-### Layer 1 — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + ICARA
+### Layer 1 — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97)
 
 For wrongful removal (across borders without consent):
 
@@ -21,7 +21,7 @@ For wrongful removal (across borders without consent):
 
 **File in the FOREIGN country first** (Hague petition in the receiving country's central authority), not US federal court. ICARA also allows US federal-court filing in some configurations, but the Hague Central Authority route is faster.
 
-### Layer 2 — ECHR Article 8 (binding on the receiving European court)
+### Layer 2 — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (binding on the receiving European court)
 
 This is the layer most US lawyers miss. Even though you're a US citizen, **the foreign court is bound by ECHR Article 8**. You can cite:
 
@@ -147,6 +147,8 @@ Educational content. **Not legal advice.** Hague matters are highly time-critica
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

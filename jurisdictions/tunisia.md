@@ -38,8 +38,8 @@ Tunisian family-court decisions are anonymised per Court of Cassation practice u
 ## Key developments
 
 - **1956** — Landmark MENA-region family-law statute enacted on independence — abolishing polygamy, codifying judicial-only divorce, requiring gender equality. Structurally distinctive as most progressive MENA-region statute.
-- **1995** — Federal Child Protection Code enacted aligned with UNCRC obligations.
-- **2017** — Tunisia acceded to the Hague Convention 1980 effective 1 July 2017.
+- **1995** — Federal Child Protection Code enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+- **2017** — Tunisia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 July 2017.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Tunisian family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -23,7 +23,7 @@ Australia sits in close cross-jurisdictional dialogue with New Zealand's Te Koro
 *PhD, BA (Hons), MAPS, FCCLP (Fellow APS College of Clinical Psychologists); AHPRA-registered Psychologist*
 Hobart · TAS · Senior Lecturer, School of Psychological Sciences, University of Tasmania (UTAS); Clinical Psychologist, Salamanca Psychology; Lead, Family and Interpersonal Relationships Lab UTAS; Director, Eeny Meeny Miney Mo Foundation
 
-**Stance:** Linchpin of the Australian recognition camp. Co-editor of Haines, Matthewson & Beddoe (Routledge 2020) *Understanding and Managing Parental Alienation: A Comprehensive Guide to Assessment, Intervention and Therapeutic Approaches* — the standard clinical reference for AU recognition practice. Lead/co-lead of UTAS PA studies including Verhaar, Matthewson & Bentley (2022) *Children* on adult-alienated-child mental-health outcomes. Past Chair PASG Research Committee; former Editor-in-Chief *Parental Alienation International*. UTAS Family and Interpersonal Relationships Lab is the first Australian PA-specific research lab.
+**Stance:** Linchpin of the Australian recognition camp. Co-editor of Haines, Matthewson & Beddoe (Routledge 2020) *Understanding and Managing Parental Alienation: A Comprehensive Guide to Assessment, Intervention and Therapeutic Approaches* — the standard clinical reference for AU recognition practice. Lead/co-lead of UTAS PA studies including Verhaar, Matthewson & Bentley (2022) *Children* on adult-alienated-child mental-health outcomes. Past Chair [PASG](https://pasg.info/) Research Committee; former Editor-in-Chief *Parental Alienation International*. UTAS Family and Interpersonal Relationships Lab is the first Australian PA-specific research lab.
 
 **Publications:**
 - Understanding and Managing Parental Alienation: A Comprehensive Guide to Assessment, Intervention and Therapeutic Approaches (2020) — *Routledge (Haines, Matthewson & Beddoe, eds.)*
@@ -238,7 +238,7 @@ Melbourne · VIC · Adjunct Professor, School of Psychology and Public Health, L
 *PhD (Family Studies); FAFCC; 2018 [AFCC](https://www.afccnet.org/) Stanley Cohen Distinguished Research Award; 2021 Meyer Elkin Essay Award (Family Court Review)*
 Canberra · ACT · Professor of Family Studies, Centre for Social Research and Methods, ANU College of Arts & Social Sciences; ARC Future Fellow on 'The high-conflict post-divorce shared-time family'
 
-**Stance:** Middle camp. Empirically engaged with high-conflict / entrenched-parental-hatred phenomena; AFCC-aligned; differential approach rather than diagnostic PA recognition. ARC Future Fellowship on entrenched parental hatred in high-conflict shared-time families. FRSA 2019 keynote with Moloney 'Post-separation decisions about children: Engaging with hidden parental motivations'. Not AHPRA-registered (social-science / family-studies academic, not psychologist). Most-awarded AU academic on high-conflict / entrenched-parental-hatred research; AU counterpart to Nicholas Bala (Canada) or Janet Johnston (US).
+**Stance:** Middle camp. Empirically engaged with high-conflict / entrenched-parental-hatred phenomena; [AFCC](https://www.afccnet.org/)-aligned; differential approach rather than diagnostic PA recognition. ARC Future Fellowship on entrenched parental hatred in high-conflict shared-time families. FRSA 2019 keynote with Moloney 'Post-separation decisions about children: Engaging with hidden parental motivations'. Not AHPRA-registered (social-science / family-studies academic, not psychologist). Most-awarded AU academic on high-conflict / entrenched-parental-hatred research; AU counterpart to Nicholas Bala (Canada) or Janet Johnston (US).
 
 **Publications:**
 - ARC Future Fellowship: The high-conflict post-divorce shared-time family (research on entrenched parental hatred) (2019) — *Australian Research Council / ANU*
@@ -316,7 +316,7 @@ Multi (federal) · AU (national) · Federal Circuit and Family Court of Australi
   - Primary source: <https://www.researchgate.net/profile/Karen-Broadley>
 - **Dr Ben Goldsworthy** — Unverifiable: no AHPRA-registered psychologist by that name with public PA stance located in 2025-26 searches.
   - Primary source: <https://www.psychologyboard.gov.au/Registration.aspx>
-- **Reconnect Family Program / Reconnect Family Service** — Unverifiable institutional entity: no AU programme by that exact name with PA-reunification scope located. AU programmes are (a) Warshak [Family Bridges](https://warshak.com/family-bridges/) (US, withdrawn from AU by Korosi 2024) and (b) Family Reflections (Canadian, Reay). Source-brief naming did not survive verification.
+- **Reconnect Family Program / Reconnect Family Service** — Unverifiable institutional entity: no AU programme by that exact name with PA-reunification scope located. AU programmes are (a) [Warshak](https://warshak.com/family-bridges/) [Family Bridges](https://warshak.com/family-bridges/) (US, withdrawn from AU by Korosi 2024) and (b) Family Reflections (Canadian, Reay). Source-brief naming did not survive verification.
   - Primary source: <https://www.google.com/search?q=%22Reconnect+Family+Program%22+Australia+parental+alienation>
 - **Dr Kate Fitch** — Unverifiable: no AU psychologist by that name with published PA stance located in 2025-26 searches.
   - Primary source: <https://www.psychologyboard.gov.au/Registration.aspx>
@@ -324,7 +324,7 @@ Multi (federal) · AU (national) · Federal Circuit and Family Court of Australi
   - Primary source: <https://www.acu.edu.au/research/our-research-institutes/institute-of-child-protection-studies>
 - **AFCC ANZ Chapter named members (unnamed roster)** — Roster not fully public; named AFCC ANZ Chapter members are covered above via Smyth (au.smyth-bruce), Moloney (au.moloney-lawrie), and (Canada-cross-listed) Yasenik / Graham (au.graham-jonathan). No further named members verifiable at directory standard.
   - Primary source: <https://www.afccnet.org/Chapters/Australia-New-Zealand>
-- **Specific Green & Green [2024] FedCFamC1F 896 practitioners** — Statutory anonymisation: s.121 Family Law Act 1975 (Cth) prevents naming individual Court Children's Report writers and experts in any published reporting of FCFCOA proceedings. Cannot be enumerated at directory standard without breach risk.
+- **Specific Green & Green [2024] FedCFamC1F 896 practitioners** — Statutory anonymisation: s.121 [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) prevents naming individual Court Children's Report writers and experts in any published reporting of FCFCOA proceedings. Cannot be enumerated at directory standard without breach risk.
   - Primary source: <https://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/fla1975114/s121.html>
 - **EMMM Director Ms Fiona Blane (standalone)** — Unverifiable as standalone practitioner: listed as EMMM Director (see au.emmm-foundation) but credentials, AHPRA/PACFA/AASW status, and direct contact all not publicly displayed. Included within EMMM institutional entry rather than as standalone clinician.
   - Primary source: <https://emmm.org.au/about-us>
@@ -333,6 +333,8 @@ Multi (federal) · AU (national) · Federal Circuit and Family Court of Australi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

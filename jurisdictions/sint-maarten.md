@@ -42,7 +42,7 @@ Sint Maarten family-court decisions are anonymised per Joint Court practice usin
 - Sint Maarten operates a Dutch-civil-law family-law framework with constituent-country status within Kingdom of the Netherlands — places Sint Maarten in the Dutch Kingdom constituent-country cluster (with Aruba, Curaçao, BES Islands).
 - Shared-island position with French Saint-Martin (different legal-system framework operating on same island) is structurally distinctive globally within the corpus — only state in the corpus sharing geographic territory with a different state's legal-system framework.
 - Joint Court of Justice across Aruba, Curaçao, Sint Maarten and BES Islands shared across constituent countries.
-- Hague Convention 1980 applicability via Kingdom of the Netherlands territorial extension.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Kingdom of the Netherlands territorial extension.
 
 ## See also
 
@@ -68,6 +68,8 @@ Sint Maarten family-court decisions are anonymised per Joint Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

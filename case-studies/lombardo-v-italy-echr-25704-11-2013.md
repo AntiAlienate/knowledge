@@ -80,7 +80,7 @@ Article 8 of the Convention imposes positive obligations on the State that go be
 
 ## Outcome
 
-Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) found unanimously. Just satisfaction awarded under Article 41 of the Convention to the applicant in respect of non-pecuniary damage and costs and expenses (exact euro figures as set out in the dispositif of the HUDOC judgment file; not reproduced in the open-source press release). Judgment final on 29 April 2013 pursuant to Article 44 § 2. No Grand Chamber referral. Judgment delivered in French only; translation into English not officially published by the Registry. Execution of the judgment was supervised by the Committee of Ministers of the Council of Europe under Article 46 § 2 of the Convention, as part of the cluster of Italian Article 8 enforcement-of-contact cases.
+Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) found unanimously. Just satisfaction awarded under Article 41 of the Convention to the applicant in respect of non-pecuniary damage and costs and expenses (exact euro figures as set out in the dispositif of the [HUDOC](https://hudoc.echr.coe.int/) judgment file; not reproduced in the open-source press release). Judgment final on 29 April 2013 pursuant to Article 44 § 2. No Grand Chamber referral. Judgment delivered in French only; translation into English not officially published by the Registry. Execution of the judgment was supervised by the Committee of Ministers of the Council of Europe under Article 46 § 2 of the Convention, as part of the cluster of Italian Article 8 enforcement-of-contact cases.
 
 ## Comparative jurisprudence
 
@@ -154,6 +154,8 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

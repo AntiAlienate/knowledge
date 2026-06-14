@@ -21,7 +21,7 @@ South Tyrol (Südtirol in German / Alto Adige in Italian / Sudtirol in Ladin / o
   - Italian Constitutional Law and Pacchetto agreement comprehensively re-establishing South Tyrol's autonomous-province framework — implementation framework for 1946 Gruber-De Gasperi Agreement.
 - **Settlement Declaration (Streitbeilegungserklärung) 1992** — Streitbeilegungserklärung (1992) — <https://www.mae.gov.it/>
   - Austria-Italy bilateral declaration of 11 June 1992 settling the South Tyrol question at the UN — definitive confirmation of South Tyrol's autonomy framework.
-- **Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
+- **Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
   - Italian Civil Code articles governing potestà genitoriale and child custody applicable in South Tyrol — substantially amended by Law 54/2006 Joint Custody Reform.
 
 ## Apex courts
@@ -63,7 +63,7 @@ South Tyrolean family-court decisions are anonymised per Italian court practice 
 - 1992 Streitbeilegungserklärung following ~46-year UN-mediated bilateral autonomy implementation framework is structurally distinctive globally.
 - Second-largest autonomous-province autonomy framework in the EU is structurally distinctive globally (with Trentino).
 - Italian Codice Civile + Law 54/2006 Joint Custody Reform applicability in South Tyrol with German and Ladin language-rights protections is structurally distinctive.
-- Italian Hague Convention 1980 accession 1985 + South Tyrol Italian-civil-law framework intersection is structurally distinctive.
+- Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985 + South Tyrol Italian-civil-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -90,6 +90,8 @@ South Tyrolean family-court decisions are anonymised per Italian court practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

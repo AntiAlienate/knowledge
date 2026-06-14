@@ -43,7 +43,7 @@ Peter I Island decisions are anonymised per Norwegian court practice using initi
 - **1930** — Norwegian Act of 27 February 1930 establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework.
 - **1931** — Norwegian Royal Decree of 1 May 1931 formally annexing Peter I Island to Norway.
 - **1959** — Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Peter I Island claim suspended pending Treaty term.
-- **1989** — Hague Convention 1980 territorial extension by Norway to Peter I Island effective 1 April 1989.
+- **1989** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Norway to Peter I Island effective 1 April 1989.
 
 ## Structural findings
 
@@ -80,6 +80,8 @@ Peter I Island decisions are anonymised per Norwegian court practice using initi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

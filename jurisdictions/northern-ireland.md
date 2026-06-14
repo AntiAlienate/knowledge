@@ -14,7 +14,7 @@ Northern Ireland operates a distinct common-law family-law jurisdiction within t
 ## Statutory framework
 
 - **Children (Northern Ireland) Order 1995** — Children (Northern Ireland) Order 1995 — substantive children-law statute (1995) — <https://www.legislation.gov.uk/nisi/1995/755>
-  - Substantive NI children-law statute. Sewel-style Order in Council mirroring Children Act 1989 substantive frame but with NI-distinct numbering and procedural provisions. Art 3 welfare paramountcy principle equivalent to s.1 Children Act 1989.
+  - Substantive NI children-law statute. Sewel-style Order in Council mirroring [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) substantive frame but with NI-distinct numbering and procedural provisions. Art 3 welfare paramountcy principle equivalent to s.1 Children Act 1989.
 - **Family Homes and Domestic Violence (Northern Ireland) Order 1998** — Family Homes and Domestic Violence (NI) Order 1998 (1998) — <https://www.legislation.gov.uk/nisi/1998/1071>
   - NI-distinct DV-protection statute. Domestic Abuse and Civil Proceedings Act (NI) 2021 subsequently introduced coercive-control offence parallel to E&W Serious Crime Act 2015 s.76.
 - **Domestic Abuse and Civil Proceedings Act (Northern Ireland) 2021** — Domestic Abuse and Civil Proceedings Act (NI) 2021 — coercive control criminalisation (2021) — <https://www.legislation.gov.uk/nia/2021/2>
@@ -44,10 +44,10 @@ Northern Ireland operates a distinct common-law family-law jurisdiction within t
 
 - **Bar of Northern Ireland — Family Bar Association** — NI Family Bar Association is the institutional gateway to the practising NI family bar. No formal NI-specific PA position issued; engagement at individual-practitioner level. — <https://www.barofni.com/>
 - **Law Society of Northern Ireland** — Statutory regulator for NI solicitors. No PA-specific NI position. — <https://www.lawsoc-ni.org/>
-- **Northern Ireland Guardian Ad Litem Agency (NIGALA)** — NI's statutory child-welfare reporting body — NI analogue to England's [Cafcass](https://www.cafcass.gov.uk/) and Wales' Cafcass Cymru. Provides guardian ad litem service in family proceedings. No NI-specific PA position; engagement at individual-case welfare-report level. — <https://nigala.hscni.net/>
+- **Northern Ireland Guardian Ad Litem Agency (NIGALA)** — NI's statutory child-welfare reporting body — NI analogue to England's [Cafcass](https://www.cafcass.gov.uk/) and Wales' [Cafcass Cymru](https://www.cafcass.gov.uk/). Provides guardian ad litem service in family proceedings. No NI-specific PA position; engagement at individual-case welfare-report level. — <https://nigala.hscni.net/>
 - **Women's Aid Federation Northern Ireland (WAFNI)** — NI federation-aligned women's-aid body. 25 June 2020 PA briefing is the ONLY NI-specific WA published institutional position on the parental-alienation construct. Critique-camp institutional anchor for NI. — <https://www.womensaidni.org/>
 - **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — UK-wide statutory regulator for practitioner psychologists. Applies in NI. No NI-specific PA position. — <https://www.hcpc-uk.org/>
-- **British Psychological Society — Northern Ireland branch** — [BPS](https://www.bps.org.uk/) NI branch — operational subsidiary of UK-wide BPS. No NI-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/northern-ireland>
+- **British Psychological Society — Northern Ireland branch** — [BPS](https://www.bps.org.uk/) NI branch — operational subsidiary of UK-wide [BPS](https://www.bps.org.uk/). No NI-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/northern-ireland>
 - **Queen's University Belfast (QUB) — Dr Mairead McCormack DChild 2021** — QUB-based DChild 2021 thesis is the only NI-specific empirical study of how PA is treated by NI family-court professionals. Single NI academic anchor in PA-specific field. — <https://pure.qub.ac.uk/>
 
 ## Anonymisation convention
@@ -98,7 +98,7 @@ NI family-court judgments anonymise children by initial; adult parties may be na
 
 ## Editorial notes
 
-- Primary-source order: judiciaryni.uk for case-law; legislation.gov.uk for NI statutes; Bar of NI + Law Society NI for regulatory; QUB for academic anchor.
+- Primary-source order: judiciaryni.uk for case-law; [legislation.gov.uk](https://www.legislation.gov.uk/) for NI statutes; Bar of NI + Law Society NI for regulatory; QUB for academic anchor.
 - NI treated as distinct id with unique statutory architecture (Children NI Order 1995 + 1998 FH&DV Order + 2021 DA&CP Act) but appellate to UKSC.
 - Lady Chief Justice Keegan judicial-sophistication preserved in structural_findings[0] as load-bearing NI feature.
 - O'Hara J A Father v A Mother (No. 2) August 2022 preserved as clearest NI judicial PA-adjacent engagement.
@@ -108,6 +108,8 @@ NI family-court judgments anonymise children by initial; adult parties may be na
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

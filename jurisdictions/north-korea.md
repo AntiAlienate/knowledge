@@ -16,7 +16,7 @@ North Korea is an East Asian socialist-civil-law unitary state whose family-law 
 - **Family Law of the DPRK 1990 arts. 27-44** — Family Law — Parental responsibility and custody (1990)
   - Federal Family Law drawing on socialist-civil-law tradition. Arts. 27-44 govern parental responsibility and child custody.
 - **Law on the Protection of Children's Rights 2010** — Law on the Protection of Children's Rights (2010)
-  - Federal Law on Children's Rights aligned in part with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations (DPRK acceded to UNCRC 1990).
+  - Federal Law on Children's Rights aligned in part with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations (DPRK acceded to [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) 1990).
 - **Socialist Constitution of the DPRK** — Socialist Constitution (2019)
   - Socialist Constitution (substantively revised 2019) establishing socialist-civil-law framework.
 
@@ -68,6 +68,8 @@ DPRK family-court decisions are not generally publicly available; anonymisation 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

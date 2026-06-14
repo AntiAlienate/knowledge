@@ -34,8 +34,8 @@ Paraguayan family-court decisions are anonymised per Supreme Court practice usin
 ## Key developments
 
 - **1985** — Federal Civil Code enacted drawing on Argentine civil-law substantive heritage (Vélez Sarsfield Code).
-- **1998** — Paraguay acceded to the Hague Convention 1980 effective 1 May 1998.
-- **2001** — Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations.
+- **1998** — Paraguay acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 1998.
+- **2001** — Federal Code enacted codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -66,6 +66,8 @@ Paraguayan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

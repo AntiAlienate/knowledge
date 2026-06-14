@@ -71,7 +71,7 @@
 - *Solarino v. Italy*, App. no. 76171/13, ECHR 2017
 - *Re C (Parental Alienation; Instruction of Expert)* [2023] EWHC 345 (Fam)
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 
@@ -80,6 +80,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

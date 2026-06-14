@@ -19,7 +19,7 @@ Sardinia (Sardegna in Italian / Sardigna in Sardinian / officially Regione Auton
   - Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities — recognises Sardinian, Catalan (Alguerese), and other Sardinian minority languages.
 - **Sardinian Linguistic Policy Law 22/2018** — Sardinian Linguistic Policy Law (2018) — <https://www.regione.sardegna.it/>
   - Sardinian Regional Law 22/2018 of 3 July 2018 establishing Sardinia's distinctive multi-linguistic-minority policy framework including Sardinian (Sardu), Algherese Catalan (Alguerès), Sassarese, Gallurese, Tabarchino, and Maddalenino.
-- **Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
+- **Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
   - Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Sardinia.
 - **Carta de Logu (Sardinian Medieval Customary-Law Code)** — Carta de Logu (1392) — <https://www.regione.sardegna.it/>
   - Medieval Sardinian customary-law code by Eleonora of Arborea — 1392 Logudoro version. Foundational influence on Italy's longest-tradition continuous customary-law-influenced civil-law framework.
@@ -60,7 +60,7 @@ Sardinian family-court decisions are anonymised per Italian court practice using
 - Second-largest island in the Mediterranean is structurally distinctive globally.
 - Sardinian Linguistic Policy Law 22/2018 is structurally distinctive globally — one of the most comprehensive sub-national linguistic-minority policy frameworks in Europe.
 - Italian Law 482/1999 linguistic-minority protection framework applicability in Sardinia is structurally distinctive within Italian linguistic-minority cluster.
-- Italian Hague Convention 1980 accession 1985 + Sardinian Italian-civil-law framework intersection is structurally distinctive.
+- Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985 + Sardinian Italian-civil-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -87,6 +87,8 @@ Sardinian family-court decisions are anonymised per Italian court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

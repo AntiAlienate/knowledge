@@ -34,7 +34,7 @@ Lao family-court decisions are anonymised per People's Supreme Court practice us
 ## Key developments
 
 - **1990** — Federal family-law statute enacted establishing socialist-civil-law family-law framework.
-- **2007** — Federal children's-rights statute aligned with UNCRC.
+- **2007** — Federal children's-rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child).
 - **2008** — Substantive revision of Family Law provisions on parental rights and custody.
 
 ## Structural findings
@@ -67,6 +67,8 @@ Lao family-court decisions are anonymised per People's Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -38,7 +38,7 @@ American Samoan family-court decisions are anonymised per High Court practice us
 
 - **1900** — American Samoa established as US unincorporated territory.
 - **1967** — Constitution establishing American Samoa's institutional framework and fa'a Samoa customary-law protection.
-- **1988** — Hague Convention 1980 territorial extension by US to American Samoa effective 1 July 1988.
+- **1988** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by US to American Samoa effective 1 July 1988.
 
 ## Structural findings
 
@@ -70,6 +70,8 @@ American Samoan family-court decisions are anonymised per High Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

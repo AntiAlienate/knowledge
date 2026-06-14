@@ -21,16 +21,18 @@ Clinical psychologist who developed the leading evidence-based reunification int
 
 - Personal site: https://www.warshak.com/
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/?term=Warshak+Richard
-- Family Bridges programme: https://www.warshak.com/family-bridges/
+- [Family Bridges](https://warshak.com/family-bridges/) programme: https://www.warshak.com/family-bridges/
 
 ## Why he matters here
 
-If the case is reaching reunification — court-ordered or otherwise — Warshak's protocol is the evidence-based playbook. Multiple peer-reviewed follow-ups (Reay, Templer, Warshak himself) show durable repair when the intensive is paired with enforced aftercare.
+If the case is reaching reunification — court-ordered or otherwise — [Warshak's](https://warshak.com/family-bridges/) protocol is the evidence-based playbook. Multiple peer-reviewed follow-ups (Reay, Templer, Warshak himself) show durable repair when the intensive is paired with enforced aftercare.
 
 
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 
@@ -102,10 +104,10 @@ If the case is reaching reunification — court-ordered or otherwise — Warshak
 
 ## Related on antialienate.com
 
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Reunification Therapy Guide](https://www.antialienate.com/blog/reunification-therapy-guide)
-- [The Reunification Journey Rebuilding After Alienation](https://www.antialienate.com/blog/the-reunification-journey-rebuilding-after-alienation)
-- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
-- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 
 <!-- AA-CROSSLINK-END -->

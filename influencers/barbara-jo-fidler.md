@@ -12,7 +12,7 @@ Fidler co-authored the field's most balanced practitioner text — *Children Who
 - Accredited family mediator (Ontario)
 - Private practice, Toronto
 - Senior trainer, Association of Family and Conciliation Courts ([AFCC](https://www.afccnet.org/))
-- Co-recipient (with Bala) of AFCC's top award for promoting dialogue on PA
+- Co-recipient (with Bala) of [AFCC](https://www.afccnet.org/)'s top award for promoting dialogue on PA
 
 ## Key contributions
 
@@ -33,6 +33,8 @@ Fidler co-authored the field's most balanced practitioner text — *Children Who
 ---
 
 *[← Back to influencers index](README.md)*
+
+
 
 
 

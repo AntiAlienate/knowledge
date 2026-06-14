@@ -37,8 +37,8 @@ Belarusian family-court decisions are anonymised per Supreme Court practice usin
 
 ## Key developments
 
-- **1993** — Federal children's rights statute enacted post-Soviet aligned with UNCRC obligations.
-- **1998** — Belarus acceded to the Hague Convention 1980 effective 1 April 1998 — earliest post-Soviet accession alongside Romania.
+- **1993** — Federal children's rights statute enacted post-Soviet aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+- **1998** — Belarus acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 April 1998 — earliest post-Soviet accession alongside Romania.
 - **1999** — Federal Code on Marriage and Family enacted post-Soviet codifying marriage, parental rights and child custody.
 
 ## Structural findings
@@ -71,6 +71,8 @@ Belarusian family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -13,7 +13,7 @@ location_tags: [global, english-language, hybrid-cases, clinical-framework]
 
 ## TL;DR
 
-Shely Polak (private practice) and Dr. Michael Saini (University of Toronto) published a 2015 *Family Court Review* paper that addressed what every practitioner knows: pure cases of alienation or pure cases of estrangement are relatively rare. Most contested cases sit somewhere in the middle, with alienating behaviors AND legitimate concerns coexisting. The Polak-Saini hybrid framework gave clinicians, evaluators, and courts a structured way to think about the messy middle without forcing artificial binary classification.
+Shely Polak (private practice) and Dr. Michael [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) (University of Toronto) published a 2015 *Family Court Review* paper that addressed what every practitioner knows: pure cases of alienation or pure cases of estrangement are relatively rare. Most contested cases sit somewhere in the middle, with alienating behaviors AND legitimate concerns coexisting. The Polak-Saini hybrid framework gave clinicians, evaluators, and courts a structured way to think about the messy middle without forcing artificial binary classification.
 
 ## The Core Insight
 
@@ -76,7 +76,7 @@ Hybrid cases tend to produce orders that:
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Operational targeted-parent guidance |
 | Harman family-violence | Paradigm shift to abuse model |
 
-Polak-Saini complements Warshak's resist-refuse continuum by providing the assessment dimensions that locate a case on the continuum. Where Warshak says "continuum exists," Polak-Saini says "here are the dimensions to assess location."
+Polak-Saini complements [Warshak's](https://warshak.com/family-bridges/) resist-refuse continuum by providing the assessment dimensions that locate a case on the continuum. Where Warshak says "continuum exists," Polak-Saini says "here are the dimensions to assess location."
 
 ## Key Citation
 
@@ -116,13 +116,15 @@ These critiques are real but the alternative (forced binary classification of in
 
 - Polak & Saini 2015 paper DOI: https://doi.org/10.1080/10502556.2015.1012532
 - Saini extended bibliography: https://socialwork.utoronto.ca/profiles/michael-saini/
-- AFCC integration: https://www.afccnet.org/
+- [AFCC](https://www.afccnet.org/) integration: https://www.afccnet.org/
 
 ---
 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 
@@ -189,10 +191,10 @@ Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hy
 
 ## Related on antialienate.com
 
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Global Crackdown Parental Alienation Laws](https://www.antialienate.com/blog/global-crackdown-parental-alienation-laws)
+- [People Against Parental Alienation Global Movement](https://www.antialienate.com/blog/people-against-parental-alienation-global-movement)
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
-- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->

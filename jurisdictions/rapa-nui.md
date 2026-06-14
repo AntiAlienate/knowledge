@@ -55,7 +55,7 @@ Rapa Nui-related decisions are anonymised per Chilean court practice using initi
 - Honui Council of Elders consultation framework is structurally distinctive within Chilean administrative cluster.
 - UNESCO World Heritage Site moai monumental statuary heritage is structurally distinctive globally.
 - Chilean Indigenous Law 19.253 recognition is shared with Mapuche, Aymara, and six other Chilean indigenous peoples but distinctive in Pacific-Polynesian framework.
-- Chilean Hague Convention 1980 accession 1994 + Rapa Nui Statute population-control framework intersection is structurally distinctive — modern Hague-Convention-applicability vs population-control framework intersection.
+- Chilean [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1994 + Rapa Nui Statute population-control framework intersection is structurally distinctive — modern Hague-Convention-applicability vs population-control framework intersection.
 
 ## See also
 
@@ -82,6 +82,8 @@ Rapa Nui-related decisions are anonymised per Chilean court practice using initi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

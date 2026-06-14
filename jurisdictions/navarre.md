@@ -59,7 +59,7 @@ Navarrese family-court decisions are anonymised per Navarrese court practice usi
 - Compilation of Navarrese foral civil law (Fuero Nuevo) 1973 modernised 2019 is structurally distinctive within European subnational civil-code cluster.
 - Statute styled 'Amejoramiento del Régimen Foral' (Improvement of the Foral Regime) rather than 'Statute of Autonomy' is structurally distinctive globally — reflecting unique constitutional foundation in pre-existing Foral institutions rather than newly-created autonomous framework.
 - Spanish Constitution First Additional Provision (Foral rights) recognition is shared with Basque Country — only two EU subnationals with constitutional Foral rights recognition.
-- Spanish Hague Convention 1980 accession 1987 + Navarrese Foral Civil Law application framework is structurally distinctive.
+- Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987 + Navarrese Foral Civil Law application framework is structurally distinctive.
 
 ## See also
 
@@ -85,6 +85,8 @@ Navarrese family-court decisions are anonymised per Navarrese court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

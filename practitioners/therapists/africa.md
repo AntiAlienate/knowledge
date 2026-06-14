@@ -98,7 +98,7 @@ Johannesburg · Gauteng · Johannesburg Society of Advocates (Johannesburg Bar);
 *Counselling Psychologist (HPCSA Professional Board for Psychology); MA Psychology, University of the Free State (UFS); Board of Health Funders (BHF); 24+ years' private practice; [Family Bridges](https://warshak.com/family-bridges/) Program-trained (USA, April 2014); first South African included in international [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/)), March 2015*
 George · Western Cape (Garden Route, Heather Park) · Independent counselling psychology private practice (Heather Park, George); father's expert of record in T.L.D v B.G [2023] ZAGPJHC 801
 
-**Stance:** Named father's expert in T.L.D v B.G [2023] ZAGPJHC 801 per Bregman Moodley summary. Acacia Training speaker bio: 'the first South African to be included in the international Parental Alienation Study Group, a selected group of mental health and law professionals from 32 countries'; LinkedIn: Family Bridges Program training April 2014, PASG inclusion March 2015. Most-credentialled SA recognition-camp PA / reunification clinician. CAVEAT: ACTIVE HPCSA DISCIPLINARY PROCESS as at MedicalBrief 1 May 2024 — Eastern Circuit Local Division (Thembalethu, George) Patrick Gamble J dismissed Els's application to stop HPCSA disciplinary action, describing her conduct as 'vexatious' and 'Stalingrad'-style stalling; preliminary investigation found her guilty of misconduct (R50,000 admission-of-guilt fine offered) for allegedly operating outside her mandate as court-appointed facilitator (Els v HPCSA and Others (5845/2022) [2022] ZAWCHC 106, 30 May 2022). High media-sensitivity entry — outreach must acknowledge regulatory exposure honestly.
+**Stance:** Named father's expert in T.L.D v B.G [2023] ZAGPJHC 801 per Bregman Moodley summary. Acacia Training speaker bio: 'the first South African to be included in the international [Parental Alienation Study Group](https://pasg.info/), a selected group of mental health and law professionals from 32 countries'; LinkedIn: [Family Bridges](https://warshak.com/family-bridges/) Program training April 2014, [PASG](https://pasg.info/) inclusion March 2015. Most-credentialled SA recognition-camp PA / reunification clinician. CAVEAT: ACTIVE HPCSA DISCIPLINARY PROCESS as at MedicalBrief 1 May 2024 — Eastern Circuit Local Division (Thembalethu, George) Patrick Gamble J dismissed Els's application to stop HPCSA disciplinary action, describing her conduct as 'vexatious' and 'Stalingrad'-style stalling; preliminary investigation found her guilty of misconduct (R50,000 admission-of-guilt fine offered) for allegedly operating outside her mandate as court-appointed facilitator (Els v HPCSA and Others (5845/2022) [2022] ZAWCHC 106, 30 May 2022). High media-sensitivity entry — outreach must acknowledge regulatory exposure honestly.
 
 **Publications:**
 - Father's expert of record in T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (2023) — *Gauteng Local Division Johannesburg (Adams J); SAFLII* — <https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html>
@@ -534,6 +534,8 @@ Federal (national) · Nigeria national · NACP — national professional associa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

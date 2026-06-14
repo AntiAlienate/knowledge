@@ -41,7 +41,7 @@ Icelandic family-law decisions are anonymised per Hæstiréttur and Landsréttur
 
 - **2003** — Children Act 76/2003 enacted — foundational federal statute for family law.
 - **2012** — Health Care Personnel Act 34/2012 — statutory title protection for sálfræðingur. Law 61/2012 amended Barnalög strengthening joint-custody default.
-- **2013** — Law 19/2013 incorporated UN Convention on the Rights of the Child into Icelandic law in force 20 February 2013.
+- **2013** — Law 19/2013 incorporated [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) into Icelandic law in force 20 February 2013.
 - **2018** — Court of Appeal established 1 January 2018 — three-tier court system reform.
 
 ## Structural findings
@@ -77,6 +77,8 @@ Icelandic family-law decisions are anonymised per Hæstiréttur and Landsréttur
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

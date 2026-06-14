@@ -39,7 +39,7 @@ Fijian family-court decisions are anonymised per Supreme Court practice using in
 
 - Fiji operates a common-law framework with Australian-influenced Family Law Act 2003 — places Fiji in the Pacific Island common-law cluster with Australian-model influence.
 - Non-Hague Convention status places Fiji in the non-Hague Pacific cluster.
-- Australian-model influence in Family Law Act 2003 is structurally distinctive among Pacific Island states — direct codification influence from Australian Family Law Act 1975.
+- Australian-model influence in Family Law Act 2003 is structurally distinctive among Pacific Island states — direct codification influence from Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text).
 
 ## See also
 
@@ -64,6 +64,8 @@ Fijian family-court decisions are anonymised per Supreme Court practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

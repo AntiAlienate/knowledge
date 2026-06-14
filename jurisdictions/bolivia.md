@@ -40,7 +40,7 @@ Bolivian family-court decisions are anonymised per Supreme Court practice using 
 
 - **1972** — Federal Family Code enacted under military government.
 - **2009** — Plurinational Constitution adopted recognising Indigenous Originary Peasant Jurisdiction (JIOC) as parallel jurisdiction — structurally distinctive within the corpus.
-- **2014** — Comprehensive Family Code replacing 1972 statute and Children and Adolescents Code aligned with UNCRC obligations enacted.
+- **2014** — Comprehensive Family Code replacing 1972 statute and Children and Adolescents Code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations enacted.
 
 ## Structural findings
 
@@ -72,6 +72,8 @@ Bolivian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

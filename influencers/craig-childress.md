@@ -25,12 +25,14 @@ Clinical psychologist who developed an alternative-framing approach to PA ground
 
 ## Why he matters here
 
-For severe-case work — particularly where personality-disorder dynamics in the alienating parent are clinically obvious — Childress's framework gives practitioners a DSM-anchored language. Note: contested by Bernet/Lorandos-aligned researchers on methodological grounds. Worth knowing both schools to engage either.
+For severe-case work — particularly where personality-disorder dynamics in the alienating parent are clinically obvious — [Childress's](https://drcachildress.org/) framework gives practitioners a DSM-anchored language. Note: contested by Bernet/Lorandos-aligned researchers on methodological grounds. Worth knowing both schools to engage either.
 
 
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

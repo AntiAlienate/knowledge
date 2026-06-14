@@ -37,7 +37,7 @@ Greenlandic family-court decisions are anonymised per High Court practice using 
 ## Key developments
 
 - **1979** — Home Rule established within Kingdom of Denmark.
-- **1991** — Hague Convention 1980 territorial extension by Denmark to Greenland effective 1 July 1991.
+- **1991** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Denmark to Greenland effective 1 July 1991.
 - **2009** — Federal Self-Government Act establishing Greenland's high autonomy with independent legislative competence over family-law matters.
 - **2014** — Greenlandic Family Law adapted to Greenlandic conditions governing marriage, parental responsibility, and child custody.
 
@@ -73,6 +73,8 @@ Greenlandic family-court decisions are anonymised per High Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

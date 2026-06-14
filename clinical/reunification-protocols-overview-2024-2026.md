@@ -10,14 +10,14 @@ last_reviewed: 2026-05-18
 
 When parental alienation reaches the severe end of the spectrum, courts and clinicians deploy structured **reunification protocols**. The four most-cited programs are: **[Family Bridges](https://warshak.com/family-bridges/)** (USA, 4-day intensive), **Turning Points for Families** (USA, 5-day intensive), **Welcome Back Pikes Peak** (USA, outpatient), and **Espace-Rencontres** (France/Belgium, neutral-venue supervised contact). Each addresses a different severity range and procedural posture.
 
-## Family Bridges ([Warshak](https://warshak.com/family-bridges/) & Otis)
+## [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/) & Otis)
 
 - **Format**: 4-day intensive educational workshop with rejecting child(ren) and rejected parent
 - **Setting**: residential, off-site, no contact with favored parent during program
 - **Method**: Multimedia, role-play, structured curriculum on family-systems, critical thinking, deception, suggestibility
 - **Eligibility**: child has refused contact for 6+ months; severe alienation; rejected parent has no abuse history
 - **Court order**: typically issued under welfare-of-child / change-of-residence framework
-- **Evidence base**: Warshak & Otis 2010 outcome study (n=22, 17/22 reunified within 4 days), follow-up studies showing durable change
+- **Evidence base**: [Warshak](https://warshak.com/family-bridges/) & Otis 2010 outcome study (n=22, 17/22 reunified within 4 days), follow-up studies showing durable change
 - **Cost**: ~$30,000 USD inclusive
 
 ## Turning Points for Families (Reay)
@@ -91,6 +91,8 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Reunification protocol selection requires assessment by qualified mental-health professionals and court order.*
+
+
 
 
 

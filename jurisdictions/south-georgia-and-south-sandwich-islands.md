@@ -15,7 +15,7 @@ South Georgia and the South Sandwich Islands (SGSSI) is a Sub-Antarctic common-l
 
 - **South Georgia and South Sandwich Islands Order 1985** — SGSSI Order 1985 (1985) — <https://www.legislation.gov.uk/>
   - Order in Council of 3 October 1985 establishing SGSSI as a separate British Overseas Territory from the Falkland Islands Dependencies.
-- **English Children Act 1989 (applicable in SGSSI)** — Children Act 1989 (1989) — <https://www.legislation.gov.uk/>
+- **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in SGSSI)** — Children Act 1989 (1989) — <https://www.legislation.gov.uk/>
   - English Children Act 1989 applicable to civil-status persons in SGSSI for parental responsibility and child custody — theoretical given absence of permanent civilian population.
 
 ## Apex courts
@@ -39,7 +39,7 @@ SGSSI decisions are anonymised per UK overseas-territory court practice using in
 - **1775** — Captain James Cook landed on South Georgia and claimed the island for Britain on 17 January 1775.
 - **1982** — Argentina invaded South Georgia on 3 April 1982; UK forces recaptured South Georgia on 25 April 1982 via Operation Paraquet — first major UK military success of the Falklands War.
 - **1985** — Order in Council of 3 October 1985 establishing SGSSI as a separate British Overseas Territory from the Falkland Islands Dependencies.
-- **1986** — Hague Convention 1980 territorial extension by UK to SGSSI effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to SGSSI effective 1 August 1986.
 
 ## Structural findings
 
@@ -117,6 +117,8 @@ SGSSI decisions are anonymised per UK overseas-territory court practice using in
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -144,10 +146,10 @@ SGSSI decisions are anonymised per UK overseas-territory court practice using in
 
 ## Related on antialienate.com
 
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->

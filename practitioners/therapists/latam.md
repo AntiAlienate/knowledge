@@ -11,7 +11,7 @@
 **Stance taxonomy:**
 - `recognition` — treats alienação parental / alienación parental as a real, assessable phenomenon; operates or endorses PA-specific assessment, expert-witness or reunification work; typically [PASG](https://pasg.info/) / CEAP / GARI-PA-aligned.
 - `critique` — argues the PA construct (especially Gardner's SAP) is operationalised against DV / coercive-control survivors (predominantly mothers and children); advocates DV/trauma-informed alternatives and tighter regulation of expert witnesses; supports repeal of Lei 12.318/2010 or jurisprudential proscription as in Colombia 2023.
-- `middle` — engages both alienating-behaviour and family-violence frames; differential-diagnosis or systemic / multi-family approach; not aligned with PASG and not in the abolitionist critique camp.
+- `middle` — engages both alienating-behaviour and family-violence frames; differential-diagnosis or systemic / multi-family approach; not aligned with [PASG](https://pasg.info/) and not in the abolitionist critique camp.
 
 **Critical LATAM regulatory & policy context (must read before using this directory):**
 
@@ -122,7 +122,7 @@ Brazil's clinical-psychology terrain is **uniquely polarised** in 2026. The **CF
   - Sousa & Torraca (2010) *Síndrome de Alienação Parental: da teoria norte-americana à nova lei brasileira* — the standard Brazilian critique-camp peer-reviewed paper on Lei 12.318/2010
   - *Se-pa-ran-do: um estudo sobre a atuação do psicólogo nas Varas de Família* (Relume-Dumará / UERJ, 1993)
   - *Temas de Psicologia Jurídica* (2002, 2ª ed.)
-  - 1,700+ Google Scholar citations on psicologia jurídica + escuta de crianças
+  - 1,700+ [Google Scholar](https://scholar.google.com/) citations on psicologia jurídica + escuta de crianças
 - **Primary contact:** UERJ Instituto de Psicologia (retired faculty channel); via Escavador / Google Scholar messaging
 - **Tier:** 1
 - **Hook:** The single most-cited Brazilian psicóloga jurídica academic on the critique side of Lei 12.318/2010; her 2010 SciELO paper is the canonical Portuguese-language scholarly source on why Gardner does not transplant to Brazil. The natural critique-camp counterpart to Calçada / Glicia Brazil.
@@ -442,6 +442,8 @@ Chile has **no institutional doctrinal anchor on PA** — alienación parental i
 15. **Vania Apablaza** (CL) — name not retrievable; not publicly confirmed.
 16. **Corporación Humanas** (CL) — no PA-specific institutional position publicly retrievable.
 17. **Programa SENAME / mejor niñez** (CL) — no PA-specific institutional doctrine; Chile has no institutional clinical engagement on PA.
+
+
 
 
 

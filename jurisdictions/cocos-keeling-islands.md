@@ -13,7 +13,7 @@ Cocos (Keeling) Islands is an Indian Ocean common-law Australian external territ
 
 ## Statutory framework
 
-- **Australian Family Law Act 1975 (applicable via WA arrangements)** — Australian Family Law Act (applied via WA arrangements) (1975) — <https://www.fcfcoa.gov.au/>
+- **Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (applicable via WA arrangements)** — Australian Family Law Act (applied via WA arrangements) (1975) — <https://www.fcfcoa.gov.au/>
   - Australian Family Law Act applicable to Cocos (Keeling) Islands via Western Australian administrative arrangements since 1992 self-determination integration.
 - **Cocos (Keeling) Islands Act 1955 (Cth)** — Cocos (Keeling) Islands Act (1955) — <https://www.fcfcoa.gov.au/>
   - Federal Cocos (Keeling) Islands Act establishing Australian territory status.
@@ -39,7 +39,7 @@ Cocos (Keeling) Islands family-court decisions are anonymised per Federal Circui
 - **1827** — Clunies-Ross family settled Cocos Islands from 1827 bringing Malay workers — established present Cocos Malay population's heritage.
 - **1955** — Federal Cocos (Keeling) Islands Act establishing Australian territory status.
 - **1984** — UN-supervised Act of Self-Determination — Cocos Malay population voted to integrate with Australia.
-- **1987** — Hague Convention 1980 territorial extension by Australia to Cocos (Keeling) Islands effective 1 January 1987.
+- **1987** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Australia to Cocos (Keeling) Islands effective 1 January 1987.
 - **1992** — Western Australian administrative arrangements applied to Cocos (Keeling) Islands.
 
 ## Structural findings
@@ -74,6 +74,8 @@ Cocos (Keeling) Islands family-court decisions are anonymised per Federal Circui
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

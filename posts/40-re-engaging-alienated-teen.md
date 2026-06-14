@@ -52,7 +52,7 @@ Adolescents test. They go silent for 2-6 weeks then return. Each test is the ali
 
 | Source | Finding |
 |---|---|
-| Warshak (2010) [Family Bridges](https://warshak.com/family-bridges/) | Adolescents in intensive intervention show high acute restoration rates, ~80% maintained at 1yr |
+| [Warshak](https://warshak.com/family-bridges/) (2010) [Family Bridges](https://warshak.com/family-bridges/) | Adolescents in intensive intervention show high acute restoration rates, ~80% maintained at 1yr |
 | Reay (2015) Family Reflections | Comparable outcomes, alternate protocol |
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) adult-outcomes | Many former alienated children re-establish contact in their 20s-40s, often expressing remorse |
 | Fidler & Bala (2010) | Adolescent resistance often "frozen" — yields when targeted parent stops trying to thaw it |
@@ -101,7 +101,7 @@ Your job during the asleep phase: stay findable. Stay calm. Stay yours.
 
 - Warshak, R. A. (2010). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). *American Journal of Family Therapy*, 43(2), 197-207.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). *Family Court Review*, 48(1), 10-47.
 
 ## Disclaimer
@@ -111,6 +111,8 @@ Educational content. **Not clinical advice.** Adolescent reunification often ben
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

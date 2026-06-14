@@ -2,7 +2,7 @@
 
 A focused thematic synthesis of how the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on the Civil Aspects of International Child Abduction intersects with PA-adjacent fact-patterns, compiled from the AntiAlienate knowledge base v2 corpus. Cross-border parental-removal cases under the Hague Convention frequently engage alienating-conduct claims; the convention's prompt-return mandate creates structural tensions with PA-adjacent reasoning. CC BY 4.0.
 
-## The Hague Convention 1980 architecture
+## The [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) architecture
 
 The **Hague Convention on the Civil Aspects of International Child Abduction (1980)** is the principal multilateral instrument for the return of internationally abducted children. As of 2026, the Convention has been ratified by 103 states (including all EU member states, US, Canada, UK, Australia, NZ, South Africa, Brazil, Mexico, Argentina, Singapore, Hong Kong via UK, Japan since 2014). India is NOT acceded — a structurally significant gap.
 
@@ -95,7 +95,7 @@ Brussels IIb (in force 1.8.2022) operates above the Hague Convention baseline fo
 ### 6. Japan reform addresses Hague structural conflict
 Japan's Act No. 33 of 2024 (joint custody reform effective 1 April 2026) addresses the structural conflict between pre-reform Japanese sole-custody regime (Art. 819) and Hague Convention return obligations. The reform is partially motivated by international-law pressure to address 子の連れ去り pattern. Cross-link: evidence:statutory-pa-jurisdictions-triple-comparison.
 
-### 7. ICARA + US federal jurisdiction distinctive
+### 7. [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) + US federal jurisdiction distinctive
 US Hague Convention implementation under ICARA provides concurrent federal-court jurisdiction — distinctive within the corpus. SCOTUS *Monasky v Taglieri* (2020) on habitual residence + *Golan v Saada* (2022) on ameliorative measures address PA-adjacent intersection at apex federal level.
 
 ### 8. Asian apex cluster operates without Hague constraint (selectively)
@@ -129,6 +129,8 @@ India (not acceded) + the Asian apex cluster's recognition-pole doctrine (Vivek 
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/cross-border-parental-abduction-and-pa-intersection.md*
+
+
 
 
 

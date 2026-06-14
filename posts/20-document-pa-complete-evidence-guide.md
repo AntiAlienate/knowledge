@@ -28,11 +28,11 @@
 - **Pattern analysis charts** — incident frequency over time, correlation with exchange weekends, spike before court dates
 - **Tab-organized exhibit binder**: A communication logs · B text/email screenshots · C incident reports · D witness statements · E calendar comparisons
 - **One-page executive summary** for the judge
-- **Summary brief in Baker-strategy + Bernet-criteria language** (researcher-named beats parent-coined)
+- **Summary brief in [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-strategy + Bernet-criteria language** (researcher-named beats parent-coined)
 
 ## The Daubert frame (US)
 
-Do NOT say "Parental Alienation Syndrome" in court filings — opposing counsel will *Daubert v. Merrell Dow* (1993, 509 U.S. 579) attack it as discredited theory. Say **"documented alienating behaviors."** Cite **Harman, Kruk & Hines (2018)** *Psychological Bulletin* meta-analysis. The behavior frame survives. The UK High Court consolidated the parallel English standard in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam).
+Do NOT say "Parental Alienation Syndrome" in court filings — opposing counsel will *Daubert v. Merrell Dow* (1993, 509 U.S. 579) attack it as discredited theory. Say **"documented alienating behaviors."** Cite **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** *Psychological Bulletin* meta-analysis. The behavior frame survives. The UK High Court consolidated the parallel English standard in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam).
 
 ## The 6 mistakes that quietly torch cases
 
@@ -71,6 +71,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

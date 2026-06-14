@@ -39,7 +39,7 @@ Philippine family-law decisions of higher courts (CA, SC) are typically publishe
 - **1987** — Executive Order 209 of 1987 enacted the Family Code in force 3 August 1988.
 - **1997** — Specialised Family Courts established.
 - **2009** — Statutory psychology profession regulation; PRBP established.
-- **2016** — Philippines acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2016.
+- **2016** — Philippines acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on Child Abduction effective 1 March 2016.
 
 ## Structural findings
 
@@ -73,6 +73,8 @@ Philippine family-law decisions of higher courts (CA, SC) are typically publishe
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

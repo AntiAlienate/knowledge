@@ -60,7 +60,7 @@ Basque family-court decisions are anonymised per Basque court practice using ini
 - Foral succession framework with distinct Historical Territory variations (troncalidad in Bizkaia, freedom of testation in Álava and Gipuzkoa) is structurally distinctive within European succession-law cluster.
 - Post-2018 ETA dissolution post-conflict resolution framework is structurally distinctive globally — modern major EU subnational armed-conflict-to-post-conflict transition.
 - Spanish Constitution First Additional Provision (Foral rights) recognition is structurally distinctive globally — only EU member-state constitution explicitly recognising medieval subnational rights.
-- Spanish Hague Convention 1980 accession 1987 + Basque Foral Civil Law application framework is structurally distinctive — federal Hague extension binding on subnational foral-civil-law jurisdiction.
+- Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987 + Basque Foral Civil Law application framework is structurally distinctive — federal Hague extension binding on subnational foral-civil-law jurisdiction.
 
 ## See also
 
@@ -86,6 +86,8 @@ Basque family-court decisions are anonymised per Basque court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -270,7 +270,7 @@ Dunedin · Otago · Associate Professor (retired/honorary status not publicly co
 *PhD; Professor and Alexander McMillan Leading Thinker Chair in Childhood Studies; Director, Children's Issues Centre, Faculty of Law, University of Otago*
 Dunedin · Otago · Children's Issues Centre, Faculty of Law, University of Otago
 
-**Stance:** Single most-cited NZ academic middle-camp voice with explicit [AFCC](https://www.afccnet.org/) alienation-conference platform presence — the natural NZ counterpart to AU's Belinda Fehlberg or Helen Rhoades. Taylor presented 'The Role of Children in 1980 Hague Child Convention Proceedings and Other High Conflict Parenting Disputes (Estrangement Alienation Relocation and Entrenched Conflict)' at AFCC Preconference Institute 'Alienation? Myths Complexities and Possibilities' (Adelaide); Taylor, Gollop & Liebergreen (2019) 'Parenting Arrangements After Separation Study: Evaluating the 2014 Family Law Reforms. Family Justice Professionals' Perspectives' NZLFRRp 8 (identifies alienation as one of the concerns raised by NZ family-justice professionals); Otago Law Review inaugural professorial lecture (2023). Law-faculty-affiliated childhood-studies academic, not psychology-scope. Children's Issues Centre is the citable NZ institutional gateway for child-inclusive practice research.
+**Stance:** Single most-cited NZ academic middle-camp voice with explicit [AFCC](https://www.afccnet.org/) alienation-conference platform presence — the natural NZ counterpart to AU's Belinda Fehlberg or Helen Rhoades. Taylor presented 'The Role of Children in 1980 Hague Child Convention Proceedings and Other High Conflict Parenting Disputes (Estrangement Alienation Relocation and Entrenched Conflict)' at [AFCC](https://www.afccnet.org/) Preconference Institute 'Alienation? Myths Complexities and Possibilities' (Adelaide); Taylor, Gollop & Liebergreen (2019) 'Parenting Arrangements After Separation Study: Evaluating the 2014 Family Law Reforms. Family Justice Professionals' Perspectives' NZLFRRp 8 (identifies alienation as one of the concerns raised by NZ family-justice professionals); Otago Law Review inaugural professorial lecture (2023). Law-faculty-affiliated childhood-studies academic, not psychology-scope. Children's Issues Centre is the citable NZ institutional gateway for child-inclusive practice research.
 
 **Publications:**
 - Parenting Arrangements After Separation Study: Evaluating the 2014 Family Law Reforms. Family Justice Professionals' Perspectives (2019) — *NZ Law Foundation Family Law Reports* — <https://nzlii.org/nz/journals/NZLFRRp/2019/8.html>
@@ -459,13 +459,15 @@ London · England (cross-jurisdictional) · Family Separation Clinic, London (UK
   - Primary source: <https://profiles.auckland.ac.nz/f-goodyear-smith>
 - **Dr Nikki Coleman** — Unverifiable at directory standard: c.18-20 years youth-mental-health experience (Christchurch SWRB social worker / CBT therapist) but no PA-specific publication or stance located. Possible confusion with Dr Joshua Coleman (US). Direct enquiry required.
   - Primary source: <https://swrb.govt.nz/>
-- **[Family Bridges](https://warshak.com/family-bridges/) NZ facilitators** — Unverifiable at directory standard: workshop delivered in AU by Stan Korosi (withdrawn 2024). No NZ-resident Family Bridges facilitator located in public record.
+- **[Family Bridges](https://warshak.com/family-bridges/) NZ facilitators** — Unverifiable at directory standard: workshop delivered in AU by Stan Korosi (withdrawn 2024). No NZ-resident [Family Bridges](https://warshak.com/family-bridges/) facilitator located in public record.
   - Primary source: <https://highconflictinstitute.com/providers/yvonne-moriarty/>
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -37,8 +37,8 @@ Salvadoran family-court decisions are anonymised per Supreme Court practice usin
 ## Key developments
 
 - **1993** — Federal Family Code enacted effective 1 October 1994 with substantial modernisation.
-- **2001** — El Salvador acceded to the Hague Convention 1980 effective 1 May 2001.
-- **2009** — Federal LEPINA Law codifying superior-interest principle aligned with UNCRC obligations.
+- **2001** — El Salvador acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 2001.
+- **2009** — Federal LEPINA Law codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -69,6 +69,8 @@ Salvadoran family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

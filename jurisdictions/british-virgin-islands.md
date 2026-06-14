@@ -36,7 +36,7 @@ BVI family-court decisions are anonymised per ECSC practice using initials.
 
 ## Key developments
 
-- **1998** — Hague Convention 1980 territorial extension by UK to BVI effective 1 August 1998.
+- **1998** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to BVI effective 1 August 1998.
 - **2014** — Federal statute on legal status of children enacted.
 
 ## Structural findings
@@ -71,6 +71,8 @@ BVI family-court decisions are anonymised per ECSC practice using initials.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

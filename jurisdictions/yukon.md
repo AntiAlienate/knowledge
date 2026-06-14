@@ -21,7 +21,7 @@ Yukon (formerly Yukon Territory; Lú'án Mǟn Łít in Southern Tutchone and var
   - Federal-Yukon agreement of 29 October 2001 effective 1 April 2003 transferring federal land-and-resource jurisdiction to Yukon territorial control — first Canadian territory to undergo formal devolution.
 - **Yukon Languages Act SY 2002, c.133** — Yukon Languages Act (2002) — <https://laws.yukon.ca/>
   - Yukon territorial Act establishing English-French bilingual framework alongside multiple Indigenous-language frameworks.
-- **Federal Divorce Act 1985 + Yukon Children's Law Act (applicable in Yukon)** — Yukon Family Law Framework (1985) — <https://laws.yukon.ca/>
+- **Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 + Yukon Children's Law Act (applicable in Yukon)** — Yukon Family Law Framework (1985) — <https://laws.yukon.ca/>
   - Federal Canadian Divorce Act 1985 + Yukon territorial Children's Law Act governing parental responsibility and child custody.
 
 ## Apex courts
@@ -61,7 +61,7 @@ Yukon family-court decisions are anonymised per Supreme Court of Yukon practice 
 - Yukon Umbrella Final Agreement 1990 + 11 Final Agreements 1993-2006 is the most comprehensive modern First Nations Final Agreements framework in Canada is structurally distinctive globally.
 - Yukon's First Nations Final Agreements model establishment of constitutionally-protected First Nations self-governance frameworks parallel to territorial government is structurally distinctive globally.
 - Yukon Languages Act constitutionally-protected English-French bilingual framework alongside multiple Indigenous-language frameworks is structurally distinctive within Canadian territorial cluster.
-- Canadian Hague Convention 1980 accession 1983 + Yukon multi-First-Nations-customary-law framework intersection is structurally distinctive.
+- Canadian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983 + Yukon multi-First-Nations-customary-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -88,6 +88,8 @@ Yukon family-court decisions are anonymised per Supreme Court of Yukon practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

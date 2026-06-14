@@ -13,7 +13,7 @@ Saint Vincent and the Grenadines is a Caribbean common-law constitutional monarc
 
 ## Statutory framework
 
-- **Divorce Act CAP 244** — Divorce Act (1990) — <https://www.eccourts.org/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) CAP 244** — Divorce Act (1990) — <https://www.eccourts.org/>
   - Federal divorce statute.
 - **Domestic Violence Act 1995** — Domestic Violence Act (1995) — <https://www.eccourts.org/>
   - Federal statute on domestic violence protection orders affecting family-law proceedings.
@@ -70,6 +70,8 @@ Vincentian family-court decisions are anonymised per Eastern Caribbean Supreme C
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

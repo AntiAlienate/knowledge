@@ -37,7 +37,7 @@ Aruban family-court decisions are anonymised per Joint Court practice using init
 ## Key developments
 
 - **1986** — Aruba achieved constituent-country status within Kingdom of the Netherlands separate from former Netherlands Antilles.
-- **1990** — Civil Code of Aruba enacted drawing on Dutch civil-law substantive heritage; Hague Convention 1980 territorial extension by Kingdom of the Netherlands effective 1 September 1990.
+- **1990** — Civil Code of Aruba enacted drawing on Dutch civil-law substantive heritage; [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Kingdom of the Netherlands effective 1 September 1990.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Aruban family-court decisions are anonymised per Joint Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

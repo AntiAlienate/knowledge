@@ -31,7 +31,7 @@
 
 ## The Daubert-survivable citation
 
-Cite **Harman, Kruk & Hines (2018)**, *Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*, *Psychological Bulletin* 144(12), 1275–1299. This is a peer-reviewed meta-analysis in the APA's flagship review journal — it survives Daubert challenges that the older "PAS" framing does not.
+Cite **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)**, *Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*, *Psychological Bulletin* 144(12), 1275–1299. This is a peer-reviewed meta-analysis in the APA's flagship review journal — it survives Daubert challenges that the older "PAS" framing does not.
 
 The UK High Court consolidated the parallel English standard in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam): expert testimony on PA must be framed at the *behavior* level, not the *syndrome* level.
 
@@ -65,7 +65,7 @@ This is the document opposing counsel cannot easily dismiss.
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993)
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin*, 144(12), 1275–1299.
 - *Re C (Parental Alienation: Instruction of Expert)* [2023] EWHC 345 (Fam)
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 
@@ -74,6 +74,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 
@@ -149,6 +151,6 @@ Educational content. **Not legal advice.**
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 
 <!-- AA-CROSSLINK-END -->

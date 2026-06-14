@@ -66,7 +66,7 @@ Mexico is among the **highest-volume PA-clinical jurisdictions in LATAM** and th
   - *Carta al editor* re *Síndrome de Alienación Parental: un concepto que actualmente debe ser considerado en desuso*, *Acta Pediátrica de México* https://actapediatrica.org.mx/article/carta-al-editor-con-relacion-al-articulo-sindrome-de-alienacion-parental-un-concepto-que-actualmente-debe-ser-considerado-en-desuso/
 - **URLs:** https://mendozaphd.wixsite.com/website ; https://www.researchgate.net/profile/Alejandro-Amaro-4 ; LinkedIn https://www.linkedin.com/in/alejandromendozaamaromdphd/
 - **Contact:** dr_mendoza@outlook.com ; +52 144 3273 0494.
-- **Verification notes:** **The single most institutionally connected Mexican PA-recognition clinician** — PASG + GARI-PA + CEAP + AMPFS + public-sector psychiatric hospital chieftaincy. Any Hispanophone PASG conversation routes through him. Already in LATAM file; reaffirmed.
+- **Verification notes:** **The single most institutionally connected Mexican PA-recognition clinician** — [PASG](https://pasg.info/) + GARI-PA + CEAP + AMPFS + public-sector psychiatric hospital chieftaincy. Any Hispanophone PASG conversation routes through him. Already in LATAM file; reaffirmed.
 
 ### 2. Alejandro Heredia Ávila — Director General, AMPFS
 - **Credentials:** Practitioner-advocate (not a clinician of record); director of the leading Mexican PA-affected-parents association.
@@ -127,7 +127,7 @@ Mexico is among the **highest-volume PA-clinical jurisdictions in LATAM** and th
 - **Credentials:** Licenciada y Maestra en Psicología; Doctora en Sociología (Facultad de Ciencias Políticas y Sociales, UNAM); Premio Mejor Tesis Doctoral en Estudios de Género, Instituto Mexiquense de la Mujer (2002).
 - **Cédula profesional:** Not publicly displayed; SEP-registered.
 - **Entidad federativa:** Ciudad de México.
-- **University:** **UNAM — Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades (CEIICH).** Posgrado Estudios de Género faculty https://genero.posgrado.unam.mx/olivia-tena-guerrero/ ; Posgrado Psicología https://psicologia.posgrado.unam.mx/olivia-tena-guerrero/ ; Páginas Personales UNAM https://www.paginaspersonales.unam.mx/academicos/datosContacto/alias:oliviatena ; ResearchGate https://www.researchgate.net/profile/Olivia-Tena ; Google Scholar https://scholar.google.com/citations?user=gdw_l6sAAAAJ&hl=es
+- **University:** **UNAM — Centro de Investigaciones Interdisciplinarias en Ciencias y Humanidades (CEIICH).** Posgrado Estudios de Género faculty https://genero.posgrado.unam.mx/olivia-tena-guerrero/ ; Posgrado Psicología https://psicologia.posgrado.unam.mx/olivia-tena-guerrero/ ; Páginas Personales UNAM https://www.paginaspersonales.unam.mx/academicos/datosContacto/alias:oliviatena ; ResearchGate https://www.researchgate.net/profile/Olivia-Tena ; [Google Scholar](https://scholar.google.com/) https://scholar.google.com/citations?user=gdw_l6sAAAAJ&hl=es
 - **Stance:** **critique (academic-feminism / masculinities line).** Coordinated the Programa Feminismo en Investigación (CEIICH, 2007-2011) and the Seminario Feminismos en América Latina (2009-2011). Research lines: mujeres policía, masculinidad, malestar, feminismos universitarios, derechos sexuales y reproductivos.
 - **Stance source / publications:**
   - Tena Guerrero, O. (2006) *Estrategias para mantener el modelo de masculinidad en padres-esposos desempleados*, Estudios de Género (SciELO) https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S1405-94362006000200440
@@ -280,6 +280,8 @@ For transparency, the following names were considered and excluded:
 5. **State-code variation matters operationally more than federal doctrine.** Even with CDMX derogation, AP remains in the Civil Codes of Estado de México, Aguascalientes, Coahuila, Hidalgo, Querétaro, Puebla. The same perito psicólogo working a custodia-impugnada case will encounter AP as a tipificable category in Toluca and not in CDMX — across the same Valle de México metropolis. This is the under-reported operational fact pattern in Mexican PA-clinical work.
 
 6. **CNDH 2011 *Alienación Parental* (2nd edition, 317 pp.) is the single most operationally-useful Mexican institutional reference** — explicitly mixed-positions, used by both camps. Any practitioner directory in this jurisdiction that omits the CNDH volume is incomplete.
+
+
 
 
 

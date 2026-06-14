@@ -105,7 +105,7 @@ The first 90 days back is critical. Document everything. Re-establish routine. S
 - Servicemembers Civil Relief Act, 50 U.S.C. § 3901 et seq.
 - Uniform Deployed Parents Custody and Visitation Act (NCCUSL 2012)
 - *Re H-N (Children)* [2021] EWCA Civ 448
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 
@@ -114,6 +114,8 @@ Educational content. **Not legal advice.** Service members should consult JAG + 
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

@@ -55,7 +55,7 @@ Kuril Islands decisions are anonymised per Russian court practice using initials
 - 1956 Soviet-Japanese Joint Declaration's Article 9 framework (offering Shikotan and Habomai return) is structurally distinctive globally — only modern bilateral declaration offering return of disputed territory subject to peace-treaty condition that remains unfulfilled.
 - Russian Sakhalin Oblast administrative integration across three districts (Severo-Kurilsky, Kurilsky, Yuzhno-Kurilsky) is structurally distinctive within disputed-territory administrative-framework cluster.
 - 2022 Russian suspension of Japan peace-treaty negotiations is structurally distinctive — first modern formal suspension of peace-treaty negotiations between G7-aligned and G20 economies.
-- Russian Hague Convention 1980 accession (2011) with Japan-non-recognition of Kuril applicability is structurally distinctive.
+- Russian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession (2011) with Japan-non-recognition of Kuril applicability is structurally distinctive.
 
 ## See also
 
@@ -83,6 +83,8 @@ Kuril Islands decisions are anonymised per Russian court practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

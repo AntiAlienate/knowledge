@@ -37,8 +37,8 @@ Gabonese family-court decisions are anonymised per Court of Cassation practice u
 ## Key developments
 
 - **1989** — Federal Civil Code Family Provisions enacted drawing on French civil-law substantive heritage.
-- **2010** — Federal Law on Children's Rights Protection enacted aligned with UNCRC obligations.
-- **2011** — Gabon acceded to the Hague Convention 1980 effective 1 February 2011.
+- **2010** — Federal Law on Children's Rights Protection enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+- **2011** — Gabon acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 2011.
 
 ## Structural findings
 
@@ -69,6 +69,8 @@ Gabonese family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

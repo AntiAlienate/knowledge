@@ -323,7 +323,7 @@ Valparaíso (sede legislativa) / Santiago (Cámara de Diputadas) · Región de V
 *Asesoría técnica parlamentaria; servicio de información legislativa del Congreso Nacional chileno*
 Valparaíso / Santiago · Región de Valparaíso / Región Metropolitana · Biblioteca del Congreso Nacional de Chile
 
-**Stance:** Informe técnico 'Alienación parental' (2023) elaborado por C. Weidenslaufer, M. Lampert y P. Truffello como asesoría parlamentaria a la tramitación del Boletín 10.516-18. Documenta sistemáticamente la inexistencia del SAP en CIE-11 y DSM-5, el rechazo de la comunidad científica internacional, la posición de la Relatora Especial de la ONU Reem Alsalem (A/HRC/53/36), la Declaración MESECVI-OEA (13.4.2023), y el derecho comparado (Brasil Lei 12.318/2010, España LOPIVI Disp. ad. 17a). Es la pieza de asesoría legislativa neutral que estructuró el debate parlamentario chileno.
+**Stance:** Informe técnico 'Alienación parental' (2023) elaborado por C. Weidenslaufer, M. Lampert y P. Truffello como asesoría parlamentaria a la tramitación del Boletín 10.516-18. Documenta sistemáticamente la inexistencia del SAP en CIE-11 y [DSM-5](https://www.appi.org/products/dsm), el rechazo de la comunidad científica internacional, la posición de la Relatora Especial de la ONU Reem Alsalem (A/HRC/53/36), la Declaración MESECVI-OEA (13.4.2023), y el derecho comparado (Brasil Lei 12.318/2010, España LOPIVI Disp. ad. 17a). Es la pieza de asesoría legislativa neutral que estructuró el debate parlamentario chileno.
 
 **Publications:**
 - Alienación parental — Informe BCN (2023) — *Biblioteca del Congreso Nacional de Chile (asesoría técnica)* — <https://obtienearchivo.bcn.cl/obtienearchivo?id=repositorio%2F10221%2F34183%2F1%2FBCN_alienacion_parental_2023_CW_MPL_PT.pdf>
@@ -424,6 +424,8 @@ Múltiples sedes nacionales · Chile (nacional) · Poder Judicial de Chile — T
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

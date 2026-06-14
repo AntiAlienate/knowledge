@@ -42,7 +42,7 @@ Senkaku/Diaoyu-related decisions are anonymised per Japanese court practice usin
 - **1972** — Okinawa Reversion Agreement effective 15 May 1972 — transferred Senkaku Islands administration from US Ryukyu Civil Administration to Japan as part of Okinawa Prefecture.
 - **2012** — Japanese Government purchased three Senkaku islands (Uotsuri, Kuba, Kitakojima) from private owner Kunioki Kurihara for ¥2.05 billion on 11 September 2012 — triggered large-scale PRC anti-Japanese protests.
 - **2013** — PRC unilaterally declared East China Sea Air Defence Identification Zone on 23 November 2013 covering disputed Senkaku/Diaoyu Islands.
-- **2014** — Japan acceded to the Hague Convention 1980 effective 1 April 2014 — Senkaku/Diaoyu Hague applicability via Japanese territorial extension is unrecognised by PRC and Taiwan.
+- **2014** — Japan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 April 2014 — Senkaku/Diaoyu Hague applicability via Japanese territorial extension is unrecognised by PRC and Taiwan.
 - **2023** — President Biden reaffirmed US-Japan Security Treaty Article V coverage of Senkaku Islands at White House summit with Japanese Prime Minister Kishida on 13 January 2023.
 - **2025** — President Trump reaffirmed US-Japan Security Treaty Article V coverage of Senkaku Islands at White House summit with Japanese Prime Minister Ishiba on 7 February 2025.
 
@@ -82,6 +82,8 @@ Senkaku/Diaoyu-related decisions are anonymised per Japanese court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

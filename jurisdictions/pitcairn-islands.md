@@ -41,7 +41,7 @@ Pitcairn family-court decisions are anonymised per Supreme Court practice using 
 
 - **1789** — HMS Bounty mutineers (led by Fletcher Christian) and Polynesian Tahitian companions settled Pitcairn Island — established present Pitcairn population's heritage.
 - **1838** — Pitcairn established as British Crown Colony.
-- **1986** — Hague Convention 1980 territorial extension by UK to Pitcairn effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Pitcairn effective 1 August 1986.
 - **2010** — Constitution establishing Pitcairn's institutional framework as British Overseas Territory.
 
 ## Structural findings
@@ -76,6 +76,8 @@ Pitcairn family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

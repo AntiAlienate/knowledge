@@ -61,7 +61,7 @@ Azorean family-court decisions are anonymised per Portuguese court practice usin
 - Lajes Field US Air Force base under 1951 Portugal-US Defence Agreement is structurally distinctive globally — only EU subnational with strategically critical US military installation.
 - Estatuto Político-Administrativo da RAA constitutional legislative-assembly framework is shared with Madeira but uniquely multi-island.
 - Mid-Atlantic strategic position is structurally distinctive globally — only EU subnational on Mid-Atlantic Ridge tectonic boundary.
-- Portuguese Hague Convention 1980 accession 1983 + Azores Estatuto Político-Administrativo intersection is structurally distinctive.
+- Portuguese [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983 + Azores Estatuto Político-Administrativo intersection is structurally distinctive.
 
 ## See also
 
@@ -88,6 +88,8 @@ Azorean family-court decisions are anonymised per Portuguese court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

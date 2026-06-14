@@ -72,7 +72,7 @@ A frequently underused move: file for trial, then propose settlement at the pre-
 
 - Schore, A. N. (2001). *Infant Mental Health Journal*, 22(1-2), 201-269.
 - *Lombardo v. Italy*, App. no. 25704/11, ECHR 2013
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Lorandos, D., Bernet, W., & Sauber, S. R. (Eds.) (2013). *Parental Alienation: The Handbook for Mental Health and Legal Professionals.*
 
 ## Disclaimer
@@ -82,6 +82,8 @@ Educational content. **Not legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

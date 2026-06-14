@@ -13,7 +13,7 @@ related_research: [Baker 2007 adult studies, Baker-Fine 2014, Harman 2018, Fried
 
 ## TL;DR
 
-Dr William Bernet (Vanderbilt University, Emeritus Professor of Psychiatry) is the most-cited author in the modern parental-alienation literature. From 2008 onward, he led the Parental Alienation Disorder Work Group's formal effort to include "Parental Alienation Disorder" in [DSM-5](https://www.appi.org/products/dsm). Although the standalone diagnosis was rejected, the DSM-5 work group accepted relational-distress codes (V61.29 — Child Affected by Parental Relationship Distress) that practitioners now use to operationalize PA in clinical and forensic settings. Bernet also led the successful campaign to include "Caregiver-child relationship problem" (QE52) in [ICD-11](https://icd.who.int/). His 5-criteria diagnostic framework remains the field's diagnostic gatekeeper.
+Dr William Bernet (Vanderbilt University, Emeritus Professor of Psychiatry) is the most-cited author in the modern parental-alienation literature. From 2008 onward, he led the Parental Alienation Disorder Work Group's formal effort to include "Parental Alienation Disorder" in [DSM-5](https://www.appi.org/products/dsm). Although the standalone diagnosis was rejected, the [DSM-5](https://www.appi.org/products/dsm) work group accepted relational-distress codes (V61.29 — Child Affected by Parental Relationship Distress) that practitioners now use to operationalize PA in clinical and forensic settings. Bernet also led the successful campaign to include "Caregiver-child relationship problem" (QE52) in [ICD-11](https://icd.who.int/). His 5-criteria diagnostic framework remains the field's diagnostic gatekeeper.
 
 ## The 5 Essential Criteria ([Bernet et al.](https://pasg.info/), 2010)
 
@@ -36,7 +36,7 @@ Outcome: PAD as a standalone diagnosis was rejected. However:
 - The DSM-5 text expanded discussion of children affected by interparental conflict
 - The rejection was procedural (insufficient research consensus) rather than substantive
 
-## ICD-11 Inclusion (2018-2019)
+## [ICD-11](https://icd.who.int/) Inclusion (2018-2019)
 
 Bernet co-led the successful campaign for ICD-11 inclusion:
 - **QE52 — Caregiver-child relationship problem** (active code)
@@ -71,7 +71,7 @@ The 5 criteria operate as a structured screening protocol — courts that adopt 
 |--------|--------------|----------|
 | Gardner (1985) | Original PAS formulation | Historical anchor (controversial) |
 | **Bernet (2008-2020)** | **5 essential criteria + DSM/ICD advocacy** | **Diagnostic gatekeeper** |
-| Baker (2007) | Adult-outcomes empirical study | Long-term harm evidence |
+| [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) | Adult-outcomes empirical study | Long-term harm evidence |
 | Baker-Fine (2014) | 17 practitioner strategies | Operational guidance |
 | Friedlander-Walters (2010) | MMFI typology | Severity stratification |
 | [Warshak](https://warshak.com/family-bridges/) (2015) | Resist-refuse continuum | Clinical conceptualization |
@@ -93,7 +93,7 @@ Bernet's role: gatekeeper. Apply his 5 before applying any other framework.
 - Bernet 2008 DSM-V paper DOI: https://doi.org/10.1080/01926180903586583
 - Bernet 2010 5-criteria paper DOI: https://doi.org/10.1080/01926180903586583
 - Frontiers in Psychology 2018 FFPAS: https://doi.org/10.3389/fpsyg.2018.01996
-- Parental Alienation Study Group: https://www.parentalalienationstudygroup.com/
+- [Parental Alienation Study Group](https://pasg.info/): https://www.parentalalienationstudygroup.com/
 - ICD-11 QE52: https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1393837731
 - DSM-5 V61.29: https://www.psychiatry.org/psychiatrists/practice/dsm
 
@@ -102,6 +102,8 @@ Bernet's role: gatekeeper. Apply his 5 before applying any other framework.
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Diagnostic application of the Bernet 5 criteria requires a qualified mental-health professional. Forensic application in custody proceedings requires a court-appointed evaluator.
+
+
 
 
 

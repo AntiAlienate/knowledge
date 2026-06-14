@@ -28,7 +28,7 @@ Supreme Court of Appeal apex-appellate disposition consolidating South African P
 ## Comparative jurisprudence
 
 - **T.L.D v B.G (015642/2022) [2023] ZAGPJHC 801 (Adams J, Gauteng Local Division Johannesburg, 13 July 2023)** (ZA) — [`tld-v-bg-2023-zagpjhc-801-south-africa`](./tld-v-bg-2023-zagpjhc-801-south-africa.md) — Provincial-division High Court foundation. T.L.D v B.G crystallises parental alienation as clinically and judicially recognised phenomenon under Children's Act 38/2005 s.7(1)(c). ZDE v CE extends this provincial-division framework into SCA apex-appellate doctrine. The two decisions together constitute the South African apex-recognition doctrine at provincial-division + SCA-appellate levels.
-- **Re Y [2026] EWFC 38 (Sir Andrew McFarlane P, England and Wales)** (GB-EAW) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — Comparative apex-appellate engagement. Re Y operates UK-wide evaluator-quality apex authority via [HCPC](https://www.hcpc-uk.org/)-registration requirement; ZDE v CE operates SA apex-appellate substantive PA-recognition. Both engage HPCSA / HCPC statutory psychology-regulator frameworks for evaluator-quality at apex level. Cross-jurisdictional apex recognition cluster.
+- **Re Y [2026] EWFC 38 (Sir Andrew McFarlane P, England and Wales)** (GB-EAW) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — Comparative apex-appellate engagement. Re Y operates UK-wide evaluator-quality apex authority via [HCPC](https://www.hcpc-uk.org/)-registration requirement; ZDE v CE operates SA apex-appellate substantive PA-recognition. Both engage HPCSA / [HCPC](https://www.hcpc-uk.org/) statutory psychology-regulator frameworks for evaluator-quality at apex level. Cross-jurisdictional apex recognition cluster.
 - **TEN v TEO and another appeal [2020] SGHCF 20 (Singapore HC Family Division)** (SG) — [`ten-v-teo-2020-sghcf-20-singapore`](./ten-v-teo-2020-sghcf-20-singapore.md) — Comparative Asian apex authority. Debbie Ong J's two-limb doctrine operates parallel to SA SCA apex-recognition framework. Both treat alienating conduct as substantively actionable under welfare-and-care framework.
 - **Lt Col Vivek Singh v Romani Singh (2017) 3 SCC 231 (Supreme Court of India)** (IN) — [`vivek-singh-v-romani-singh-2017-india`](./vivek-singh-v-romani-singh-2017-india.md) — Apex SC PAS-defining decision. ZDE v CE operates at SCA apex-appellate level (one level below India SC apex); both engage substantive PA-recognition framework. Cross-jurisdictional apex recognition cluster.
 - **ABC v XYZ, 2023 SCC OnLine Del 6099 (Delhi HC, India)** (IN) — [`abc-v-xyz-2023-scc-online-del-6099`](./abc-v-xyz-2023-scc-online-del-6099.md) — Comparative HC apex-appellate engagement. ABC v XYZ treats PA as 'extreme mental cruelty' under HMA s.13(1)(ia) matrimonial-fault ground; ZDE v CE operates substantive PA-recognition under Children's Act 38/2005 + Constitution s.28(2). Distinct procedural postures (Indian matrimonial-fault vs SA custody-welfare) within shared apex recognition framework.
@@ -71,6 +71,8 @@ Supreme Court of Appeal apex-appellate disposition consolidating South African P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

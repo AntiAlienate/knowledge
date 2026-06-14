@@ -41,7 +41,7 @@
 - **1856** — International Convention establishing Åland's demilitarisation framework following Crimean War.
 - **1921** — League of Nations decision following Åland Crisis establishing Åland's autonomy framework under Finnish sovereignty + demilitarisation.
 - **1991** — Federal Act establishing Åland's modern autonomous-region framework.
-- **1994** — Hague Convention 1980 territorial extension by Finland to Åland effective 1 August 1994.
+- **1994** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Finland to Åland effective 1 August 1994.
 
 ## Structural findings
 
@@ -75,6 +75,8 @@
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

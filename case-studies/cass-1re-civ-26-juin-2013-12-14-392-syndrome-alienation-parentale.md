@@ -33,7 +33,7 @@ The decision is also a useful illustration of how a *cassation* court works. The
 
 ## Procedural posture
 
-A cassation appeal from a substantive *cour d'appel* arrêt on residence and parental authority. The applicable substantive provisions were **Article 373-2-13 of the Code civil** (modification of measures relating to the exercise of parental authority "à tout moment" – at any time – by the *juge aux affaires familiales*) and **Article 373-2-11** (criteria the JAF must consider when ruling on residence). The case was *publié au bulletin*, signalling that the Court considered the decision of more than purely local interest.
+A cassation appeal from a substantive *cour d'appel* arrêt on residence and parental authority. The applicable substantive provisions were **Article 373-2-13 of the [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/)** (modification of measures relating to the exercise of parental authority "à tout moment" – at any time – by the *juge aux affaires familiales*) and **Article 373-2-11** (criteria the JAF must consider when ruling on residence). The case was *publié au bulletin*, signalling that the Court considered the decision of more than purely local interest.
 
 ## The judgment
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

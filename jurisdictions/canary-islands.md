@@ -78,7 +78,7 @@ Canarian family-court decisions are anonymised per Spanish court practice using 
 
 ## Editorial notes
 
-- Canary Islands jurisdiction sidecar — civil-law North Atlantic Spanish autonomous community without Foral Civil Law tradition (Spanish Código Civil Articles 90-110 + Statute of Autonomy 2018 + Régimen Económico y Fiscal de Canarias Ley 19/1994 + EU Treaty Article 349 Outermost Regions framework + Spanish Constitution Articles 138.1 + 144 insular and outermost-region framework + Spanish Hague Convention 1980 accession 1987). Southernmost EU territory in eastern hemisphere globally + one of nine EU outermost regions (RUP) + only Spanish autonomous community with two co-equal provincial capitals + distinctive Régimen Económico y Fiscal de Canarias + largest Spanish autonomous community operating Spanish national civil-code framework + only EU territory closer to mainland Africa than to mainland Europe. 300-jurisdiction milestone candidate.
+- Canary Islands jurisdiction sidecar — civil-law North Atlantic Spanish autonomous community without Foral Civil Law tradition (Spanish Código Civil Articles 90-110 + Statute of Autonomy 2018 + Régimen Económico y Fiscal de Canarias Ley 19/1994 + EU Treaty Article 349 Outermost Regions framework + Spanish Constitution Articles 138.1 + 144 insular and outermost-region framework + Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987). Southernmost EU territory in eastern hemisphere globally + one of nine EU outermost regions (RUP) + only Spanish autonomous community with two co-equal provincial capitals + distinctive Régimen Económico y Fiscal de Canarias + largest Spanish autonomous community operating Spanish national civil-code framework + only EU territory closer to mainland Africa than to mainland Europe. 300-jurisdiction milestone candidate.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins North-Atlantic + civil-law + Spanish-autonomous-community-without-foral-civil-law cluster + southernmost-EU-territory-globally-distinctive + EU-Article-349-Outermost-Regions-RUP + two-co-equal-provincial-capitals-alternating-framework + Régimen-Económico-y-Fiscal-de-Canarias-IGIC-ZEC + Spanish-Constitution-Articles-138.1-144-insular-outermost-region + closer-to-Africa-than-Europe clusters within the corpus.
 
@@ -86,6 +86,8 @@ Canarian family-court decisions are anonymised per Spanish court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

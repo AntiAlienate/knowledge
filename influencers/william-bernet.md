@@ -16,12 +16,12 @@ Professor Emeritus of Psychiatry at Vanderbilt; founding member of the [Parental
 - **Eight Behavioural Manifestations** — the observable child-behaviour markers. See [/open-source/infographics/eight-manifestations.png](../open-source/infographics/eight-manifestations.png).
 - ***Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*** (Charles C Thomas, 2010) — the field's foundational textbook.
 - ***Foundations of Parental Alienation*** (Charles C Thomas, 2020, with Lorandos) — the multi-disciplinary standard reference.
-- Lead advocate for WHO inclusion of ICD-11 QE52.2 "Caregiver-child relationship problem" (in force 2022). See [/open-source/infographics/icd11-qe52-2.png](../open-source/infographics/icd11-qe52-2.png).
+- Lead advocate for WHO inclusion of [ICD-11](https://icd.who.int/) QE52.2 "Caregiver-child relationship problem" (in force 2022). See [/open-source/infographics/icd11-qe52-2.png](../open-source/infographics/icd11-qe52-2.png).
 
 ## Where to find his work
 
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/?term=Bernet+William+parental+alienation
-- Parental Alienation Study Group: https://pasg.info/
+- [Parental Alienation Study Group](https://pasg.info/): https://pasg.info/
 - Publisher (Charles C Thomas Publisher): https://www.ccthomas.com/
 
 ## Why he matters here
@@ -32,6 +32,8 @@ If a court-appointed psychologist or your jurisdiction's family-court framework 
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

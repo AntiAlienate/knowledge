@@ -53,6 +53,8 @@ Practical tooling references for targeted parents, self-represented litigants, a
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -78,6 +80,6 @@ Practical tooling references for targeted parents, self-represented litigants, a
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
 - [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
-- [Self Care For Targeted Parents Beyond Surviving](https://www.antialienate.com/blog/self-care-for-targeted-parents-beyond-surviving)
+- [Lawyer Ethics False Documents Parental Alienation Belgium](https://www.antialienate.com/blog/lawyer-ethics-false-documents-parental-alienation-belgium)
 
 <!-- AA-CROSSLINK-END -->

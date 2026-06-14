@@ -19,7 +19,7 @@ Sicily (Sicilia in Italian / officially Regione Siciliana) is a Mediterranean ci
   - Italian Constitutional Article establishing the five autonomous regions including Sicily, Sardinia, Valle d'Aosta, Friuli-Venezia Giulia, and Trentino-Alto Adige.
 - **Codice Antimafia (Legislative Decree 159/2011)** — Italian Anti-Mafia Code (2011) — <https://www.normattiva.it/>
   - Italian Legislative Decree of 6 September 2011 establishing Italy's most extensive anti-Mafia legal framework — disproportionately applied in Sicily.
-- **Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
+- **Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
   - Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Sicily.
 
 ## Apex courts
@@ -83,7 +83,7 @@ Sicilian family-court decisions are anonymised per Italian court practice using 
 
 ## Editorial notes
 
-- Sicily jurisdiction sidecar — civil-law Mediterranean Italian autonomous region (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Siciliana 1946 + Italian Constitution 1948 Article 116 + Codice Antimafia Legislative Decree 159/2011 + Italian Hague Convention 1980 accession 1985). First Italian autonomous region established (15 May 1946, predating Italian Constitution by ~22 months) + largest Italian autonomous region + largest Mediterranean island + central jurisdiction of Italy's most extensive anti-Mafia legal framework + only post-WWII separatist movement leading to formal sub-national autonomy framework prior to sovereign-state-of-incorporation's formal establishment.
+- Sicily jurisdiction sidecar — civil-law Mediterranean Italian autonomous region (Italian Codice Civile Articles 315-342-bis as amended by Law 54/2006 + Statuto Speciale della Regione Siciliana 1946 + Italian Constitution 1948 Article 116 + Codice Antimafia Legislative Decree 159/2011 + Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985). First Italian autonomous region established (15 May 1946, predating Italian Constitution by ~22 months) + largest Italian autonomous region + largest Mediterranean island + central jurisdiction of Italy's most extensive anti-Mafia legal framework + only post-WWII separatist movement leading to formal sub-national autonomy framework prior to sovereign-state-of-incorporation's formal establishment.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins Mediterranean + civil-law + Italian-autonomous-region cluster + first-Italian-autonomous-region-globally-distinctive + largest-Mediterranean-island + Codice-Antimafia-most-extensive-anti-Mafia-framework + Movimento-per-l'Indipendenza-della-Siciliana-pre-Republic-separatist-movement + Falcone-Borsellino-1992-assassinations + five-Court-of-Appeal-framework + Italian-Hague-1985-accession clusters within the corpus.
 
@@ -91,6 +91,8 @@ Sicilian family-court decisions are anonymised per Italian court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

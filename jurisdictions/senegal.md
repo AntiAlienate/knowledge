@@ -36,7 +36,7 @@ Senegalese family-court decisions are anonymised per Supreme Court practice usin
 ## Key developments
 
 - **1972** — Federal Family Code enacted post-independence drawing on French civil-law substantive heritage with Islamic-law personal-status provisions.
-- **2012** — Senegal acceded to the Hague Convention 1980 effective 1 November 2012.
+- **2012** — Senegal acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 November 2012.
 
 ## Structural findings
 
@@ -68,6 +68,8 @@ Senegalese family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -42,7 +42,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
   - Substance use disorders
   - Romantic-relationship dysfunction
   - Lower self-esteem
-- Baker & Brassard 2013, Baker & Verrocchio 2016, Verrocchio 2019, Bentley & Matthewson 2020 longitudinal data
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Brassard 2013, Baker & Verrocchio 2016, Verrocchio 2019, Bentley & Matthewson 2020 longitudinal data
 
 ### 3. Inter-rater reliability
 
@@ -65,7 +65,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 
 - Provides defense to expert witnesses challenged on Daubert/Frye admissibility grounds in US courts
 - Cited in 2024-2026 ECHR amicus filings on Article 8 positive-obligation cases
-- Reference point for ICD-11 code QE52.0 retention debates
+- Reference point for [ICD-11](https://icd.who.int/) code QE52.0 retention debates
 - Foundational for any contemporary PA training curriculum
 
 ## Key co-cited works
@@ -74,7 +74,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 - Baker, A.J.L., & Sauber, S.R. (Eds.) (2013) *Working With Alienated Children and Families*. Routledge
 - Harman, J.J., Kruk, E., & Hines, D. (2018) *Parental alienating behaviors: An unacknowledged form of family violence*. Psychological Bulletin, 144(12), 1275-1299
 - Lorandos, D., & Bernet, W. (Eds.) (2020) *Parental Alienation — Science and Law*. Charles C. Thomas
-- Saini, M., Johnston, J.R., Fidler, B.J., & Bala, N. (2016) *Empirical studies of alienation*. In Drozd, Saini, Olesen (Eds.), *Parenting Plan Evaluations* (2nd ed.)
+- [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J.R., Fidler, B.J., & Bala, N. (2016) *Empirical studies of alienation*. In Drozd, Saini, Olesen (Eds.), *Parenting Plan Evaluations* (2nd ed.)
 
 ## Citing posts
 
@@ -88,11 +88,13 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 
 - Harman, J.J., & Lorandos, D. (2023). Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law*. https://doi.org/10.1037/law0000379
 - Harman, J.J., Lorandos, D., Florian, M.J., & Hines, D.A. (2023). Developmental psychology and the scientific status of parental alienation. *Developmental Psychology*. https://doi.org/10.1037/dev0001577
-- Harman, J.J., [Saunders](https://www.ovw.usdoj.gov/), L., & Afifi, T. (2022). Evaluating Critiques of Parental Alienation: Comments on Meier 2020. *Family Court Review*
+- Harman, J.J., [Saunders](https://www.ovw.usdoj.gov/), L., & Afifi, T. (2022). Evaluating Critiques of Parental Alienation: Comments on [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). *Family Court Review*
 
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal advice. Consult a qualified family-law professional for case-specific guidance.*
+
+
 
 
 

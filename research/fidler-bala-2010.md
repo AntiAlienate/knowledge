@@ -134,7 +134,7 @@ These refine application but don't undermine the core contribution.
 
 ## Related entries
 
-- [research/warshak-2010.md](./warshak-2010.md) — Family Bridges
+- [research/warshak-2010.md](./warshak-2010.md) — [Family Bridges](https://warshak.com/family-bridges/)
 - [research/reay-2015.md](./reay-2015.md) — Family Reflections
 - [research/friedlander-walters-2010.md](./friedlander-walters-2010.md) — MMFI + 4-category typology
 - [research/bernet-2010.md](./bernet-2010.md) — 5 essential criteria
@@ -148,6 +148,8 @@ Wiki entry, not clinical or legal advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

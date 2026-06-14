@@ -21,7 +21,7 @@ Nunavut (ᓄᓇᕗᑦ in Inuktitut, meaning 'Our Land') is a North American Arct
   - Nunavut territorial Act governing parental responsibility and child custody — incorporates Inuit Qaujimajatuqangit (IQ) framework principles.
 - **Nunavut Official Languages Act SNun 2008, c.10** — Nunavut Official Languages Act (2008) — <https://www.gov.nu.ca/>
   - Nunavut territorial Act establishing Inuktitut, Inuinnaqtun, English, and French as co-official languages.
-- **Federal Divorce Act 1985 (applicable in Nunavut)** — Canadian Federal Divorce Act (1985) — <https://laws-lois.justice.gc.ca/>
+- **Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 (applicable in Nunavut)** — Canadian Federal Divorce Act (1985) — <https://laws-lois.justice.gc.ca/>
   - Canadian Federal Divorce Act applicable in Nunavut for federal divorce-related parental responsibility framework.
 
 ## Apex courts
@@ -65,7 +65,7 @@ Nunavut family-court decisions are anonymised per Nunavut Court of Justice pract
 - Nunavut Court of Justice is the only single-level trial court in Canada combining superior and territorial court jurisdiction is structurally distinctive globally.
 - Inuktitut and Inuinnaqtun co-official-language framework alongside English and French is structurally distinctive within Canadian territorial cluster.
 - Nunavut Children's Law Act 2018 incorporating Inuit Qaujimajatuqangit principles is structurally distinctive globally.
-- Canadian Hague Convention 1980 accession 1983 + Nunavut Inuit-customary-law framework intersection is structurally distinctive.
+- Canadian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983 + Nunavut Inuit-customary-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -92,6 +92,8 @@ Nunavut family-court decisions are anonymised per Nunavut Court of Justice pract
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

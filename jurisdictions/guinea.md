@@ -37,7 +37,7 @@ Guinean family-court decisions are anonymised per Supreme Court practice using i
 ## Key developments
 
 - **1983** — Federal Civil Code enacted drawing on French civil-law substantive heritage with codification of customary-law marriage provisions.
-- **2008** — Federal Children's Code enacted aligned with UNCRC obligations.
+- **2008** — Federal Children's Code enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -68,6 +68,8 @@ Guinean family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

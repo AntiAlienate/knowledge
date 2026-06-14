@@ -38,8 +38,8 @@ Liechtenstein family-court decisions are anonymised per Supreme Court practice u
 
 - **1812** — General Civil Code (ABGB) adopted from Austria — establishing Austrian-civil-law substantive heritage.
 - **1978** — Liechtenstein joined the Council of Europe; ECHR became applicable.
-- **1998** — Liechtenstein acceded to the Hague Convention 1980 effective 1 February 1998.
-- **2008** — Federal Children and Youth Act enacted codifying child welfare provisions aligned with UNCRC obligations.
+- **1998** — Liechtenstein acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 1998.
+- **2008** — Federal Children and Youth Act enacted codifying child welfare provisions aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -72,6 +72,8 @@ Liechtenstein family-court decisions are anonymised per Supreme Court practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

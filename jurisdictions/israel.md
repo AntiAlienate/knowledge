@@ -66,12 +66,14 @@ Israeli family-court decisions are anonymised per published practice using eithe
 
 - Israel jurisdiction sidecar establishes the Israeli mixed-jurisdiction framework within the corpus. Capacity and Guardianship Law 1962 + Family Court Law 1995 + Psychologists Law 1977 + religious-court parallel jurisdiction.
 - PA-recognition: silent statutory + no-apex-position + silent regulator. Hebrew-language social-services and child-welfare critique register operates substantively.
-- Joins federal-statutory psychology regulator cluster within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE.
+- Joins federal-statutory psychology regulator cluster within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE.
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

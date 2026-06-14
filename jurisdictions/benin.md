@@ -37,8 +37,8 @@ Beninese family-court decisions are anonymised per Supreme Court practice using 
 ## Key developments
 
 - **2004** — Federal Persons and Family Code enacted with substantial modernisation including gender equality codification and monogamy-default for civil marriages.
-- **2015** — Federal Children's Code enacted aligned with UNCRC obligations.
-- **2018** — Benin acceded to the Hague Convention 1980 effective 1 February 2018.
+- **2015** — Federal Children's Code enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+- **2018** — Benin acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 2018.
 
 ## Structural findings
 
@@ -70,6 +70,8 @@ Beninese family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

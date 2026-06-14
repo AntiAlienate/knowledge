@@ -27,7 +27,7 @@ She wrote that on the first page of the notebook with the navy cover. Underneath
 
 ## Four
 
-There were small mercies. A neighbour who watched her son on Saturdays and told her, gently, that he had asked twice that month when he could see her. A school nurse who, eighteen months in, slid a printout of a nursing log across a coffee-shop table without saying a word. A judge who, on a Tuesday morning, asked one question that her ex's lawyer could not answer. A handful of academic citations that her own lawyer learned to put into motions: *Harman, Kruk and Hines, 2018. Bondavalli v Italy, 2015. Re S, 2020.*
+There were small mercies. A neighbour who watched her son on Saturdays and told her, gently, that he had asked twice that month when he could see her. A school nurse who, eighteen months in, slid a printout of a nursing log across a coffee-shop table without saying a word. A judge who, on a Tuesday morning, asked one question that her ex's lawyer could not answer. A handful of academic citations that her own lawyer learned to put into motions: *[Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/) and Hines, 2018. Bondavalli v Italy, 2015. Re S, 2020.*
 
 There were also small cruelties. The grandmother who sided with the alienator without examining the story. The friend who said *both parents need to compromise.* The pediatrician who never wrote the words *no acute findings* in a way that the family court could later use.
 
@@ -78,7 +78,7 @@ This is fiction synthesizing patterns from the longitudinal PA literature. The c
 
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors: An Unacknowledged Form of Family Violence. *Psychological Bulletin, 144*(12), 1275–1299.
 - Boss, P. (1999). *Ambiguous Loss.* Harvard University Press.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568.
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12.
@@ -90,6 +90,8 @@ Educational fiction. **Not clinical or legal advice.** If you are in crisis: US 
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

@@ -39,7 +39,7 @@ Western Sahara family-court decisions are anonymised per relevant court practice
 - **1975** — Spanish colonial withdrawal from Spanish Sahara; Madrid Accords transferred administration to Morocco and Mauritania (Mauritania subsequently withdrew 1979).
 - **1976** — Sahrawi Arab Democratic Republic (SADR) declared by Polisario Front; recognised by 47 UN member states and African Union.
 - **1991** — Ceasefire between Morocco and Polisario; UN Mission for the Referendum in Western Sahara (MINURSO) established for self-determination referendum (still pending).
-- **2010** — Morocco acceded to Hague Convention 1980 — covering Moroccan-administered Western Sahara per Morocco's territorial claim.
+- **2010** — Morocco acceded to [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) — covering Moroccan-administered Western Sahara per Morocco's territorial claim.
 - **2020** — Ceasefire broke down; armed conflict resumed.
 
 ## Structural findings
@@ -74,6 +74,8 @@ Western Sahara family-court decisions are anonymised per relevant court practice
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

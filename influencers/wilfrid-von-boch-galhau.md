@@ -23,7 +23,7 @@ Von Boch-Galhau translated Gardner into German, has written the standard German-
 ## Where to find his work
 
 - [drvboch.de](http://www.drvboch.de)
-- PASG publications
+- [PASG](https://pasg.info/) publications
 
 ## Contact
 
@@ -34,6 +34,8 @@ Von Boch-Galhau translated Gardner into German, has written the standard German-
 ---
 
 *[← Back to influencers index](README.md)*
+
+
 
 
 

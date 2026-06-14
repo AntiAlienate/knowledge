@@ -11,7 +11,7 @@ A cross-jurisdictional thematic summary of institutional positions taken by prof
 - **South Africa** — T.L.D v B.G [2023] ZAGPJHC 801 (Adams J, Gauteng Local Division Johannesburg, 13 July 2023). Leading SA High Court authority crystallising PA as clinically and judicially recognised phenomenon under Children's Act s.7(1)(c) attitude-of-parents factor. Cross-link: case-study:tld-v-bg-2023-zagpjhc-801-south-africa.
 - **Scotland** — NF v AF [2025] CSOH 13 (Lord Stuart, Court of Session Outer House, 5 February 2025). Strongest single Scottish judicial PA finding to date — characterised knowingly false allegations as direct emotional abuse of the child, decided on welfare/abuse grounds rather than contested 'PAS' label. Cross-link: case-study:nf-v-af-2025-csoh-13-scotland.
 - **Poland** — Sąd Najwyższy, uchwała III CZP 20/25 z 3 października 2025 r. Pro-enforcement apex stance restoring effectiveness of art. 598¹⁶ § 1 k.p.c. monetary sanctions against alienating parent, without engaging clinical PAS diagnosis. First CEE apex in 2017-2025 EU sequence. Cross-link: case-study:sn-iii-czp-20-25-poland-2025.
-- **England & Wales** — Re Y [2026] EWFC 38 (Sir Andrew McFarlane P, 2026). UK-wide evaluator-quality apex authority — [HCPC](https://www.hcpc-uk.org/)-registration requirement for PA evaluators (flows UK-wide via Health and Social Care Act 2008 HCPC statutory framework). Cross-link: case-study:re-y-2026-ewfc-38.
+- **England & Wales** — Re Y [2026] EWFC 38 (Sir Andrew McFarlane P, 2026). UK-wide evaluator-quality apex authority — [HCPC](https://www.hcpc-uk.org/)-registration requirement for PA evaluators (flows UK-wide via Health and Social Care Act 2008 [HCPC](https://www.hcpc-uk.org/) statutory framework). Cross-link: case-study:re-y-2026-ewfc-38.
 
 ### Middle pole (apex-court adopts proportionalist or differential-diagnosis frame)
 - **Mexico** — SCJN Acción de Inconstitucionalidad 11/2016 (Oaxaca, ponente Ministra Norma Lucía Piña Hernández, octubre 2017). Doctrina: figura sí, automatismo no. Validates legislative recognition of AP as juridically relevant phenomenon but invalidates automatic sanction (suspension/loss of patria potestad). Subsequently extended in AI 74/2024 (Tlaxcala, 29 abril 2025). Cross-link: case-study:scjn-ai-11-2016-oaxaca-mexico.
@@ -80,6 +80,8 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/international-institutional-positions.md*
+
+
 
 
 

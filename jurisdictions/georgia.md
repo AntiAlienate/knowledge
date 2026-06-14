@@ -40,7 +40,7 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 ## Key developments
 
 - **1997** — Federal Civil Code enacted post-Soviet codifying family-law in Book V.
-- **1997** — Georgia acceded to the Hague Convention 1980 effective 1 October 1997 — among earliest post-Soviet accessions.
+- **1997** — Georgia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 October 1997 — among earliest post-Soviet accessions.
 - **1999** — Georgia joined the Council of Europe; ECHR became applicable.
 - **2017** — Substantive amendments to Civil Code family-law provisions.
 - **2019** — Federal Code on Rights of the Child and Law on Mediation (including family-mediation provisions) enacted.
@@ -75,6 +75,8 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

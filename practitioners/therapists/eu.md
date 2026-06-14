@@ -11,7 +11,7 @@
 **Stance taxonomy:**
 - `recognition` — treats parental alienation / Eltern-Kind-Entfremdung / aliénation parentale / alienazione genitoriale / ouderverstoting as a real, assessable phenomenon; operates or endorses PA-specific assessment, expert-witness or reunification work; typically [PASG](https://pasg.info/)-aligned.
 - `critique` — argues the PA construct (especially Gardner's SAP) is operationalised against DV / coercive-control survivors (predominantly mothers and children); advocates DV/trauma-informed alternatives and tighter regulation of expert witnesses.
-- `middle` — engages both alienating-behaviour and family-violence frames; differential-diagnosis or systemic / multi-family approach; not aligned with PASG and not in the abolitionist critique camp.
+- `middle` — engages both alienating-behaviour and family-violence frames; differential-diagnosis or systemic / multi-family approach; not aligned with [PASG](https://pasg.info/) and not in the abolitionist critique camp.
 
 **Critical EU regulatory & policy context (must read before using this directory):**
 
@@ -24,7 +24,7 @@
 
 **Cross-references to other antialienate-knowledge directories:**
 - **Wilfrid von Boch-Galhau, MD** (Germany), **Asunción Tejedor Huerta, PhD** (Spain) and **Sietske Dijkstra, PhD** (Netherlands) already have full entries in `/influencers/`. Practitioner-level operational detail (current practice address, regulatory status, recent activity) is added here; they remain primary entries in the influencer set.
-- US-based PASG core (William Bernet, Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Richard [Warshak](https://warshak.com/family-bridges/), Linda [Gottlieb](https://turningpointsforfamilies.com/)) — full entries in `/practitioners-us-therapists.md`. Verrocchio (IT) and Tejedor (ES) are the principal European co-authors with Baker / Bernet.
+- US-based PASG core (William Bernet, Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Richard [Warshak](https://warshak.com/family-bridges/), Linda [Gottlieb](https://turningpointsforfamilies.com/)) — full entries in `/practitioners-us-therapists.md`. Verrocchio (IT) and Tejedor (ES) are the principal European co-authors with [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet.
 - Canada — Hubert Van Gijseghem (PhD, Université de Montréal, ret.) is Belgian-born / Quebec-practising; full entry is held in `/practitioners-ca-therapists.md` (cross-listed at end of FR section for completeness because his French-language publications form much of the francophone recognition literature).
 
 ---
@@ -313,7 +313,7 @@
 
 ### 2. Prof Maria Cristina Verrocchio, PhD
 - **Country / city:** IT / Chieti-Pescara (Abruzzo)
-- **Practice / affiliation:** **Professore Ordinario (Full Professor) of Clinical Psychology**, Università degli Studi "G. d'Annunzio" Chieti-Pescara; psicologa e psicoterapeuta; member, Parental Alienation Study Group (PASG)
+- **Practice / affiliation:** **Professore Ordinario (Full Professor) of Clinical Psychology**, Università degli Studi "G. d'Annunzio" Chieti-Pescara; psicologa e psicoterapeuta; member, [Parental Alienation Study Group](https://pasg.info/) (PASG)
 - **Practice URL:** University profile https://www.unich.it/ugov/person/3340 (institutional); LinkedIn https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/ ; AIPG https://aipgitalia.org/teams/maria-cristina-verrocchio/ ; alienazione.genitoriale.com archive https://www.alienazioneparentale.it/intervista-a-maria-cristina-verrocchio/2015/10/
 - **Regulatory body:** **Ordine degli Psicologi della Regione Abruzzo** (Sez. A psicologa-psicoterapeuta)
 - **Registration number:** **not publicly displayed**
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

@@ -38,7 +38,7 @@ São Toméan family-court decisions are anonymised per Supreme Court practice us
 
 - **1975** — São Tomé and Príncipe achieved independence from Portugal.
 - **1977** — Federal Family Code enacted drawing on Portuguese civil-law substantive heritage.
-- **2006** — Federal Law on Children's Protection enacted aligned with UNCRC obligations.
+- **2006** — Federal Law on Children's Protection enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -70,6 +70,8 @@ São Toméan family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

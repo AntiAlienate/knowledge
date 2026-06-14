@@ -52,7 +52,7 @@ Through your lawyer, ask the prospective evaluator (or their proposer):
 1. **"How many parenting-time evaluations have you completed in the last three years?"** (Volume — but not so high it suggests assembly-line work)
 2. **"What proportion of your cases concluded with a finding of alienating behaviors?"** (Calibration check — anything above ~50% suggests bias)
 3. **"Are you trained in domestic-violence assessment? Where? When?"** (Should be SAFE-T, ODARA, B-SAFER, or similar named instruments + supervised hours)
-4. **"What's your view of the Kelly/Johnston resist-refuse framework? Of the Mercer/Silberg critique?"** (Tests whether they engage both camps)
+4. **"What's your view of the [Kelly/Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) resist-refuse framework? Of the Mercer/Silberg critique?"** (Tests whether they engage both camps)
 5. **"What reunification interventions have you recommended in the last five cases that needed one?"** (Tests for single-protocol bias)
 6. **"Have any of your reports been the subject of appellate review or board complaint?"** (Public records will show some of this — asking shows you've already checked)
 7. **"What's your fee structure and what does it cover?"** (Surprise costs are common; clarity up front matters)
@@ -65,7 +65,7 @@ Through your lawyer, ask the prospective evaluator (or their proposer):
 Your lawyer should propose 3–5 names that meet your criteria. Don't propose only ones you "know" will favour you — judges see that and discount it. Propose ones you can credibly argue are *high quality*. The other side will object to a few; that's expected. End game is a name both sides can live with.
 
 ### If the other side proposes names
-For each: pull public records (board licensing site, appellate-decision searches, AFCC member list). For any name you object to, write a *non-emotional, evidence-based objection*: specific concerns about methodology, training, or prior conduct, with sources.
+For each: pull public records (board licensing site, appellate-decision searches, [AFCC](https://www.afccnet.org/) member list). For any name you object to, write a *non-emotional, evidence-based objection*: specific concerns about methodology, training, or prior conduct, with sources.
 
 Examples of credible objections:
 - "Dr. X has no documented training in domestic-violence assessment, which is methodologically inadequate for a case involving allegations of abuse."
@@ -186,6 +186,8 @@ Second-opinion battles can be expensive and can read as litigation tactics if no
 ---
 
 *Open a PR with jurisdictional additions — evaluator-selection processes vary substantially.*
+
+
 
 
 

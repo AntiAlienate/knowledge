@@ -21,7 +21,7 @@ The Northwest Territories (NWT / Tunngavik in Inuktitut / Denendeh in Dene langu
   - Federal-NWT agreement of 25 June 2013 effective 1 April 2014 transferring federal land-and-resource jurisdiction to NWT territorial control.
 - **Délı̨nę Final Self-Government Agreement 2016** — Délı̨nę Final Self-Government Agreement (2016) — <https://www.gov.nt.ca/>
   - Agreement of 1 September 2016 establishing first standalone Indigenous self-government agreement at community level in NWT (Délı̨nę community).
-- **Federal Divorce Act 1985 + NWT Children's Law Act (applicable in NWT)** — NWT Family Law Framework (1985) — <https://www.justice.gov.nt.ca/>
+- **Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1985 + NWT Children's Law Act (applicable in NWT)** — NWT Family Law Framework (1985) — <https://www.justice.gov.nt.ca/>
   - Federal Canadian Divorce Act 1985 + NWT territorial Children's Law Act governing parental responsibility and child custody.
 
 ## Apex courts
@@ -62,7 +62,7 @@ NWT family-court decisions are anonymised per Supreme Court of the Northwest Ter
 - Tłı̨chǫ Land Claims and Self-Government Agreement 2005 is structurally distinctive globally — first combined comprehensive land claims and self-government agreement in Canadian history.
 - Délı̨nę Final Self-Government Agreement 2016 is structurally distinctive globally — first standalone Indigenous self-government agreement at community level in NWT.
 - NWT Devolution Agreement 2014 federal-to-territorial land-and-resource jurisdiction transfer is structurally distinctive within Canadian territorial cluster.
-- Canadian Hague Convention 1980 accession 1983 + NWT multi-Indigenous-customary-law framework intersection is structurally distinctive.
+- Canadian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983 + NWT multi-Indigenous-customary-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -89,6 +89,8 @@ NWT family-court decisions are anonymised per Supreme Court of the Northwest Ter
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

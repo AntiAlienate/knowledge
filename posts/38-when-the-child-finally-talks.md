@@ -53,7 +53,7 @@ This documentation matters if reunification eventually needs court support — b
 | Tell extended family immediately | Risks pressure / dramatic phone calls |
 | Post on social media | Almost always reaches the alienator + creates new pressure |
 
-## The 90-day arc (per Warshak 2010 + Reay 2015 aftercare frameworks)
+## The 90-day arc (per [Warshak](https://warshak.com/family-bridges/) 2010 + Reay 2015 aftercare frameworks)
 
 | Week | What's normal |
 |---|---|
@@ -98,6 +98,8 @@ Educational content. **Not clinical advice.** If you're navigating a fragile reu
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

@@ -45,7 +45,7 @@ Chilean Antarctic decisions are anonymised per Chilean court practice using init
 - **1955** — Chilean Law establishing the Chilean Antarctic Institute (Instituto Antártico Chileno / INACH).
 - **1959** — Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Chilean Antarctic Territory claim suspended pending Treaty term.
 - **1984** — Chilean civilian settlement Villa Las Estrellas established at Frei Base on King George Island on 9 April 1984 — largest civilian Antarctic settlement with year-round families and on-site school.
-- **1994** — Hague Convention 1980 accession by Chile effective 1 May 1994 — applies to Chilean Antarctic Territory via Chilean territorial extension.
+- **1994** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession by Chile effective 1 May 1994 — applies to Chilean Antarctic Territory via Chilean territorial extension.
 
 ## Structural findings
 
@@ -83,6 +83,8 @@ Chilean Antarctic decisions are anonymised per Chilean court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

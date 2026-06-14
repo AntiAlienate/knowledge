@@ -37,7 +37,7 @@ Venezuelan family-court decisions are anonymised per Constitutional Chamber prac
 ## Key developments
 
 - **1982** — Federal Civil Code revision.
-- **1997** — Venezuela acceded to the Hague Convention 1980 effective 1 January 1997.
+- **1997** — Venezuela acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 January 1997.
 - **1998** — Federal Organic Law enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2007** — LOPNA substantially reformed becoming LOPNNA — codified co-parenting framework and parental responsibility concept.
 - **2014** — Constitutional Chamber decisions addressing co-parenting and alienating-parent doctrine substantively — among more developed Latin American substantive case-law.
@@ -71,6 +71,8 @@ Venezuelan family-court decisions are anonymised per Constitutional Chamber prac
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

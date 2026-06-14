@@ -41,7 +41,7 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 - **1990** — Federal Family Court procedural statute enacted.
 - **2005** — Patriarchal household-head system (hojuje) replaced by family-register system (gajokje).
 - **2011** — Final abolition of hojuje system effective 1 January 2008 implementation.
-- **2013** — South Korea acceded to the Hague Convention 1980 effective 1 March 2013.
+- **2013** — South Korea acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2013.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -8,9 +8,9 @@
 
 ## Table of contents
 
-1. The Saunders program of research (2011-2015) — what 465 evaluators reported
-2. The AFCC mainstream standards and the Stahl-camp practitioner defense
-3. The Drozd & Olesen 2004 decision tree and the 2010 Meier critique
+1. The [Saunders](https://www.ovw.usdoj.gov/) program of research (2011-2015) — what 465 evaluators reported
+2. The [AFCC](https://www.afccnet.org/) mainstream standards and the Stahl-camp practitioner defense
+3. The Drozd & Olesen 2004 decision tree and the 2010 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) critique
 4. The 2015 NCJFCJ/Saunders evaluator competency framework and its adoption
 5. The Meier 2020 follow-on data on evaluator-appointment effects
 6. The Harman & Lorandos (2021) rebuttal on evaluator methodology
@@ -92,7 +92,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 **Citation.** Saunders, D. G., Tolman, R. M., & Faller, K. C. (2013). Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology*, 27(3), 473-483. https://doi.org/10.1037/a0032164 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/23647501/
 
-**Verbatim abstract** (reproduced from PubMed indexing).
+**Verbatim abstract** (reproduced from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) indexing).
 
 > "Although child custody evaluations can lead to unsafe outcomes in cases of intimate partner violence (IPV), little is known about factors associated with evaluators' recommendations. … Results supported most of the hypothesized relationships. Multivariate analysis revealed that belief variables explained more of the variance in custody-visitation outcomes than demographic and knowledge variables."
 
@@ -200,7 +200,7 @@ Stahl's core position across his published work, as best reconstructable from pr
 
 **Citation.** Drozd, L. M., & Olesen, N. W. (2004). Is it abuse, alienation, and/or estrangement? A decision tree. *Journal of Child Custody*, 1(3), 65-106. doi:10.1300/J190v01n03_05
 
-This paper is among the foundational practitioner texts on differential assessment of child rejection in custody cases. It proposes a structured branching procedure for evaluators to follow when a child resists or refuses contact with a parent, intended to discriminate among abuse-justified estrangement, parental-behaviour-induced alienation, and hybrid cases. It is the conceptual ancestor of the later Drozd/Olesen/Saini book *Parenting Plan & Child Custody Evaluations: Using Decision Trees to Increase Evaluator Competence & Avoid Preventable Errors* (Civic Research Institute) — ISBN 9781568871486.
+This paper is among the foundational practitioner texts on differential assessment of child rejection in custody cases. It proposes a structured branching procedure for evaluators to follow when a child resists or refuses contact with a parent, intended to discriminate among abuse-justified estrangement, parental-behaviour-induced alienation, and hybrid cases. It is the conceptual ancestor of the later Drozd/Olesen/[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) book *Parenting Plan & Child Custody Evaluations: Using Decision Trees to Increase Evaluator Competence & Avoid Preventable Errors* (Civic Research Institute) — ISBN 9781568871486.
 
 **[Secondary verification only]** for verbatim text — the original 2004 *Journal of Child Custody* article was paywalled at compilation. The construction has been widely reproduced in subsequent practitioner literature and in the 2016 Drozd-Saini-Olesen edited volume (Oxford University Press), the second-edition Saini/Johnston/Fidler/Bala chapter from which is already excerpted in `evidence-forensic-operation-in-courts.md` §5.
 
@@ -257,7 +257,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 **The 4,338-case dataset's evaluator slicing.** Meier 2020's published article focuses primarily on the gender-asymmetric outcome gradient (mothers losing custody at twice the rate when fathers cross-claim alienation). The *evaluator-appointment effect* is a secondary analysis. **[Secondary verification only]** for the specific within-dataset finding that outcomes for protective mothers worsened where custody evaluators were appointed; the relevant statistics, where reported in the NIJ Final Report (NCJ 304419), are not reproduced in the published *Journal of Social Welfare and Family Law* abstract or main empirical tables that were directly accessible at compilation, and the full Final Report's tables on evaluator/GAL appointment slicing were not directly extractable. The qualitative finding — that evaluator and GAL involvement in PA-cross-claim cases was associated with worse outcomes for protective mothers — is also reproduced in [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) Tables 2-5 and discussed in `evidence-forensic-operation-in-courts.md` §3.
 
-**Silberg & Dallam 2019 corroboration on evaluator/GAL effects.** From the verbatim text already reproduced in `evidence-forensic-operation-in-courts.md` §3:
+**[Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) corroboration on evaluator/GAL effects.** From the verbatim text already reproduced in `evidence-forensic-operation-in-courts.md` §3:
 
 > "Judges who initially ordered children into custody or visitation with abusive parents relied mainly on reports by custody evaluators and guardians ad litem who mistakenly accused mothers of attempting to alienate their children from the father or having coached the child to falsely report abuse."
 
@@ -299,7 +299,7 @@ Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the u
 
 ### 7.1 United Kingdom — [Cafcass](https://www.cafcass.gov.uk/) and PD12J
 
-**Cafcass Domestic Abuse Practice Policy.** Cafcass (the Children and Family Court Advisory and Support Service for England) is the statutory body that provides Family Court Advisers (FCAs) — broadly analogous to US custody evaluators / GALs — for private-law child arrangements cases. Cafcass published an updated Domestic Abuse Practice Policy in October 2024 (subsequently withdrawn and replaced in January 2025). URL: https://www.cafcass.gov.uk/domestic-abuse-practice-policy
+**[Cafcass](https://www.cafcass.gov.uk/) Domestic Abuse Practice Policy.** Cafcass (the Children and Family Court Advisory and Support Service for England) is the statutory body that provides Family Court Advisers (FCAs) — broadly analogous to US custody evaluators / GALs — for private-law child arrangements cases. Cafcass published an updated Domestic Abuse Practice Policy in October 2024 (subsequently withdrawn and replaced in January 2025). URL: https://www.cafcass.gov.uk/domestic-abuse-practice-policy
 
 **Key positions in the policy** (synthesised from the Transparency Project explainer at https://transparencyproject.org.uk/cafcass-new-domestic-abuse-policy-an-explainer/ and Goodman Ray at https://www.goodmanray.com/news/2025/04/cafcass-updates-domestic-abuse-practice-policy/ — **[secondary verification only]** for the policy's verbatim text, which was inaccessible at compilation, 403):
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

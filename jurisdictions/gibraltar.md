@@ -14,7 +14,7 @@ Gibraltar is a Western European common-law British Overseas Territory — struct
 ## Statutory framework
 
 - **Children Act 2009** — Children Act (2009) — <https://www.gibraltarlaws.gov.gi/>
-  - Federal Children Act drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 1), parental responsibility, custody, and children's protection provisions.
+  - Federal Children Act drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model codifying welfare-of-the-child principle (s. 1), parental responsibility, custody, and children's protection provisions.
 - **Matrimonial Causes Act 1962** — Matrimonial Causes Act (1962) — <https://www.gibraltarlaws.gov.gi/>
   - Federal matrimonial-causes statute drawing on English Matrimonial Causes Act model.
 - **Marriage Act 2010 (including same-sex marriage)** — Marriage Act (2010) — <https://www.gibraltarlaws.gov.gi/>
@@ -38,7 +38,7 @@ Gibraltarian family-court decisions are anonymised per Supreme Court practice us
 
 ## Key developments
 
-- **1986** — Hague Convention 1980 territorial extension by UK to Gibraltar effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Gibraltar effective 1 August 1986.
 - **2009** — Federal Children Act enacted drawing on English Children Act 1989 model.
 - **2010** — Federal Marriage Act including same-sex marriage provisions.
 - **2020** — UK (including Gibraltar) left the European Union effective 31 January 2020.
@@ -75,6 +75,8 @@ Gibraltarian family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

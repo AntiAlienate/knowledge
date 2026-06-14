@@ -38,7 +38,7 @@ Equatoguinean family-court decisions are anonymised per Supreme Court practice u
 
 - **1968** — Equatorial Guinea achieved independence from Spain; retained Spanish Civil Code 1889 substantive heritage.
 - **1998** — French adopted as second official language.
-- **1999** — Federal Law on Children enacted aligned in part with UNCRC obligations.
+- **1999** — Federal Law on Children enacted aligned in part with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2010** — Portuguese adopted as third official language.
 
 ## Structural findings
@@ -72,6 +72,8 @@ Equatoguinean family-court decisions are anonymised per Supreme Court practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -54,7 +54,7 @@ Balearic family-court decisions are anonymised per Balearic court practice using
 - Distinct per-island sub-regimes within a single autonomous community is structurally distinctive globally — Mallorca-Menorca regime under broader Mallorcan tradition vs Pitiusan regime under distinct Ibiza-Formentera tradition.
 - Compilació del dret civil de les Illes Balears 2017 modernisation is structurally distinctive within European subnational civil-code modernisation cluster.
 - Spanish Constitution Article 149.1.8 (foral civil law preservation) applies via the Balearic-civil-law framework.
-- Spanish Hague Convention 1980 accession 1987 + Balearic Foral Civil Law application framework is structurally distinctive.
+- Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987 + Balearic Foral Civil Law application framework is structurally distinctive.
 
 ## See also
 
@@ -82,6 +82,8 @@ Balearic family-court decisions are anonymised per Balearic court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

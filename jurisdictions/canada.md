@@ -13,7 +13,7 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 
 ## Statutory framework
 
-- **Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021)** — Divorce Act — best-interests-of-the-child standard (1985) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)** — Divorce Act — best-interests-of-the-child standard (1985) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
   - Federal substantive statute for divorce and parenting after divorce. Bill C-78 (in force 1 March 2021) rewrote s.16 with a non-exhaustive best-interests factor list including the explicit s.16(3)(j) family-violence factor and replaced 'custody / access' terminology with 'parenting time / decision-making responsibility / contact'. The substantive Canadian federal hook through which PA-adjacent fact-patterns are decided in divorce-jurisdiction cases.
 - **Divorce Act s.16(3)(j)** — Divorce Act s.16(3)(j) — family-violence factor (2021) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
   - Bill C-78 inserted explicit family-violence factor into s.16(3) requiring courts to consider any family violence, its nature, seriousness and frequency, and its impact on the child's safety and well-being. The substantive evidential frame against which PA-adjacent allegations are now decided in federal divorce-jurisdiction proceedings.
@@ -21,7 +21,7 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
   - Ontario provincial substantive statute for unmarried parents' parenting orders. s.24 best-interests-of-the-child test and s.112 Office of the Children's Lawyer Clinical Investigator authority. Substantive Ontario hook for PA-adjacent fact-patterns outside the Divorce Act.
 - **Child, Youth and Family Services Act 2017 (Ontario)** — Child, Youth and Family Services Act 2017 (CYFSA) — Ontario child-protection statute (2017) — <https://www.ontario.ca/laws/statute/17c14>
   - Ontario child-protection statute replacing the prior CFSA. s.89 Office of the Children's Lawyer Legal Representation authority. Provides the child-protection statutory hook within which OCL Clinical Investigator reports operationalise PA-construct engagement when child-protection concerns intersect with parenting disputes.
-- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec (CCQ) Livre deuxième - De la famille (art. 522-612)** — Code civil du Quebec — droit de la famille (Livre II) (1991) — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991>
+- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec (CCQ) Livre deuxième - De la famille (art. 522-612)** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec — droit de la famille (Livre II) (1991) — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991>
   - Quebec civil-law substantive code of family law. Articles relatifs à la filiation, l'autorité parentale, la garde, la tutelle. Quebec is the only Canadian province operating under civil-law tradition; PA-construct adjudication in Quebec runs through CCQ + Cour supérieure du Québec rather than common-law provincial-statute frame.
 - **Loi sur la protection de la jeunesse (LPJ, Quebec)** — Loi sur la protection de la jeunesse — protection de la jeunesse Quebec (1977) — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-34.1>
   - Statut quebecois de protection de la jeunesse administre par la Direction de la protection de la jeunesse (DPJ). Cadre quebecois dans lequel les situations PA-adjacent intersectees avec preoccupations de protection peuvent etre evaluees. Distinct du regime federal de la Loi sur le divorce.
@@ -45,7 +45,7 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 
 ### Provincial Superior Courts — Ontario SCJ / Cour supérieure du Québec / BC SC / Alberta KB
 <https://www.ontariocourts.ca/scj/>
-- **L.A.G. v. D.K.B., 2009 CanLII 6452 (ON SC) — canonical Ontario Superior Court of Justice PA decision. Engages OCL Clinical Investigator s.112 CLRA evaluation framework. Substantive Ontario recognition-line anchor in PA-adjacent fact-pattern adjudication.** (2009) — recognition — [`lag-v-dkb-2009-ontario`](../case-studies/lag-v-dkb-2009-ontario.md)
+- **L.A.G. v. D.K.B., 2009 [CanLII](https://www.canlii.org/) 6452 (ON SC) — canonical Ontario Superior Court of Justice PA decision. Engages OCL Clinical Investigator s.112 CLRA evaluation framework. Substantive Ontario recognition-line anchor in PA-adjacent fact-pattern adjudication.** (2009) — recognition — [`lag-v-dkb-2009-ontario`](../case-studies/lag-v-dkb-2009-ontario.md)
 - **Provincial superior courts (Ontario SCJ, Cour supérieure du Québec, BC Supreme Court, Alberta Court of King's Bench) are the principal trial-level forum for PA-adjacent fact-patterns. The bulk of Canadian PA reasoning happens here, informed by OCL / provincial-equivalent reporting officers and CPA-affiliated forensic experts.** (2026) — middle
 
 ## Professional regulators
@@ -129,6 +129,8 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

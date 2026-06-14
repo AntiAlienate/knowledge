@@ -37,7 +37,7 @@ Faroese family-court decisions are anonymised per Court practice using initials.
 ## Key developments
 
 - **1948** — Federal Home Rule Act establishing Faroe Islands' autonomous-territory framework within Kingdom of Denmark.
-- **1991** — Hague Convention 1980 territorial extension by Denmark to Faroe Islands effective 1 July 1991.
+- **1991** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Denmark to Faroe Islands effective 1 July 1991.
 - **2005** — Federal Takeover Act expanding Faroese legislative competence over additional subject-matters including substantial family-law areas.
 
 ## Structural findings
@@ -71,6 +71,8 @@ Faroese family-court decisions are anonymised per Court practice using initials.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

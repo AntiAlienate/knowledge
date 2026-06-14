@@ -15,7 +15,7 @@ Sierra Leone is a West African mixed-legal-system republic combining English com
 
 - **Child Rights Act 2007** — Child Rights Act (2007) — <https://www.judiciary.gov.sl/>
   - Federal Child Rights Act codifying best-interests-of-the-child principle (s. 1), parental responsibility, custody, and children's protection provisions.
-- **Customary Marriage and Divorce Act 2009** — Customary Marriage and Divorce Act (2009) — <https://www.judiciary.gov.sl/>
+- **Customary Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 2009** — Customary Marriage and Divorce Act (2009) — <https://www.judiciary.gov.sl/>
   - Federal statute on customary marriage and divorce.
 - **Local Courts Act 2011** — Local Courts Act (2011) — <https://www.judiciary.gov.sl/>
   - Federal statute establishing Local Courts for customary-law jurisdiction.
@@ -70,6 +70,8 @@ Sierra Leonean family-court decisions are anonymised per Supreme Court practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

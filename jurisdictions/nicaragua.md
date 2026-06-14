@@ -33,8 +33,8 @@ Nicaraguan family-court decisions are anonymised per Supreme Court practice usin
 
 ## Key developments
 
-- **1998** — Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations.
-- **2001** — Nicaragua acceded to the Hague Convention 1980 effective 1 March 2001.
+- **1998** — Federal Code enacted codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+- **2001** — Nicaragua acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2001.
 - **2014** — Comprehensive Family Code enacted effective 8 April 2015 replacing prior Civil Code family-law provisions.
 
 ## Structural findings
@@ -66,6 +66,8 @@ Nicaraguan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -39,7 +39,7 @@ Bahamian family-court decisions are anonymised per Court of Appeal practice usin
 ## Key developments
 
 - **1973** — The Bahamas achieved independence from the United Kingdom; retained Judicial Committee of the Privy Council as final appellate court.
-- **1994** — The Bahamas acceded to the Hague Convention 1980 effective 1 January 1994 — earliest Caribbean accession in the corpus.
+- **1994** — The Bahamas acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 January 1994 — earliest Caribbean accession in the corpus.
 - **2007** — Federal Child Protection Act enacted codifying welfare-of-the-child principle and child-protection provisions.
 
 ## Structural findings
@@ -72,6 +72,8 @@ Bahamian family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

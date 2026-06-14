@@ -13,7 +13,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ## Statutory framework
 
-- **BGB § 1684** — Umgang des Kindes mit den Eltern (Right of contact between child and parents) (1979) — <https://www.gesetze-im-internet.de/bgb/__1684.html>
+- **[BGB](https://www.gesetze-im-internet.de/bgb/) § 1684** — Umgang des Kindes mit den Eltern (Right of contact between child and parents) (1979) — <https://www.gesetze-im-internet.de/bgb/__1684.html>
   - Primary statutory basis for contact/Umgangsrecht; used as the hook by recognition-camp practitioners to plead PA, and by critique-camp courts to refuse PA-labelled enforcement where Kindeswohl is contraindicated.
 - **BGB § 1696** — Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche (Modification of court decisions) (1998) — <https://www.gesetze-im-internet.de/bgb/__1696.html>
   - Schwellenwert ('triftige, das Wohl des Kindes nachhaltig berührende Gründe') for modifying custody/contact orders; central in PA-adjacent transfer-of-residence disputes.
@@ -65,7 +65,7 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 
 ## Structural findings
 
-- Germany crossed an institutional inflection point in 2023-2026: the BVerfG (1 BvR 1076/23), the DJI/ZKJ critique team, and OLG Frankfurt (7 UF 88/25) jointly moved the critique camp from a minority academic position into the institutional mainstream — the INVERSE of the trajectory observed in most PASG-active jurisdictions (e.g., Italy, Spain, Austria, Poland) where recognition discourse is contesting court practice.
+- Germany crossed an institutional inflection point in 2023-2026: the BVerfG (1 BvR 1076/23), the DJI/ZKJ critique team, and OLG Frankfurt (7 UF 88/25) jointly moved the critique camp from a minority academic position into the institutional mainstream — the INVERSE of the trajectory observed in most [PASG](https://pasg.info/)-active jurisdictions (e.g., Italy, Spain, Austria, Poland) where recognition discourse is contesting court practice.
 - The critique scholars cited by the BVerfG (Zimmermann, Walper, Fichtner, Lux, Kindler) are not external dissenters but the apex court's own authority of reference; Walper and Kindler operate through the DJI (Deutsches Jugendinstitut), giving the critique camp federal-institutional infrastructure.
 - The recognition camp (Stefan Rücker / PETRA-Projekt, Wilfrid von Boch-Galhau, Ursula Kodjoe, Walter Andritzky, Uwe Jopt) is now counter-mainstream; PETRA's Universität-Bremen affiliation was Senat-disputed in 2024, weakening its institutional standing.
 - EDITORIAL CORRECTION: Joerg Fichtner is a critique-camp author (co-author of ZKJ 2023 with Zimmermann/Walper/Lux/Kindler), not a recognition-camp practitioner — earlier drafts that placed him on the recognition side are corrected here.
@@ -119,6 +119,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

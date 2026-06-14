@@ -51,7 +51,7 @@ For cases falling in category 4 (alienation) but not requiring the intensive wor
 5. **Both individual + family work** — splits between dyadic + full-family sessions
 6. **PA-trained clinicians only** — not generalist family therapy
 
-When workshop formats (Family Bridges $25-40k + travel) are inaccessible, MMFI provides a structured alternative — typically $10-20k all-in over the program duration.
+When workshop formats ([Family Bridges](https://warshak.com/family-bridges/) $25-40k + travel) are inaccessible, MMFI provides a structured alternative — typically $10-20k all-in over the program duration.
 
 ## The 3-protocol reunification landscape
 
@@ -59,7 +59,7 @@ The clinical PA-reunification literature now has three named, structured protoco
 
 | Protocol | Author | Format | Cost (USD) | Severity-fit |
 |---|---|---|---|---|
-| **Family Bridges** | Warshak 2010 | Intensive 4-day workshop | $25-40k | Severe |
+| **Family Bridges** | [Warshak](https://warshak.com/family-bridges/) 2010 | Intensive 4-day workshop | $25-40k | Severe |
 | **Family Reflections** | Reay 2015 | Intensive 4-day workshop | $25-40k | Severe |
 | **Multi-Modal Family Intervention** | Friedlander & Walters 2010 | Outpatient 6-18 month | $10-20k | Moderate-severe |
 
@@ -127,6 +127,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

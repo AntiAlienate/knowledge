@@ -37,7 +37,7 @@ Svalbard family-court decisions are anonymised per Norwegian Supreme Court pract
 
 - **1920** — International treaty establishing Norwegian sovereignty over Svalbard with specific limitations including equal access for treaty-party nationals, demilitarisation, and maximum-15% tax regime.
 - **1925** — Federal Svalbard Act enacted; Svalbard Treaty entered into force 14 August 1925.
-- **1989** — Hague Convention 1980 territorial extension by Norway to Svalbard effective 1 April 1989.
+- **1989** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Norway to Svalbard effective 1 April 1989.
 
 ## Structural findings
 
@@ -70,6 +70,8 @@ Svalbard family-court decisions are anonymised per Norwegian Supreme Court pract
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -2,24 +2,24 @@
 
 ## Jurisdictional context
 
-The United States has no federal family-court jurisdiction: parental alienation (PA) is litigated and clinically practiced almost entirely at the state level, producing wide variation in evidentiary standards, custody-evaluation frameworks, and licensing oversight. California Family Code §§ 3010 et seq. and 3011 (best-interest standard, including a history of family violence factor), Texas Family Code Chapters 153 and 263, and analogous codes in New York, Florida, and Massachusetts each frame the doctrinal envelope in which PA claims are made. State psychology boards (e.g. California Board of Psychology, Texas State Board of Examiners of Psychologists, New York Office of the Professions) regulate clinical practice; [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) Model Standards for Child Custody Evaluations (2006, updated) and AFCC Guidelines for Examining Intimate Partner Violence (2016) function as the de facto national practice standard absent a federal regulator.
+The United States has no federal family-court jurisdiction: parental alienation (PA) is litigated and clinically practiced almost entirely at the state level, producing wide variation in evidentiary standards, custody-evaluation frameworks, and licensing oversight. California Family Code §§ 3010 et seq. and 3011 (best-interest standard, including a history of family violence factor), Texas Family Code Chapters 153 and 263, and analogous codes in New York, Florida, and Massachusetts each frame the doctrinal envelope in which PA claims are made. State psychology boards (e.g. California Board of Psychology, Texas State Board of Examiners of Psychologists, New York Office of the Professions) regulate clinical practice; [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) Model Standards for Child Custody Evaluations (2006, updated) and [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) function as the de facto national practice standard absent a federal regulator.
 
 The institutional clinical anchor is the [DSM-5-TR](https://www.appi.org/products/dsm) entry CAPRD — Child Affected by Parental Relationship Distress (V995.51 / Z62.898) — codified through the Bernet, Wamboldt & Narrow (2016) JAACAP framework paper, which is the most-cited US institutional reference in the PA debate. [DSM-5](https://www.appi.org/products/dsm)-TR CAPRD is not a diagnosis of the child as 'alienated' but a relational V/Z-code; the international parallel is [ICD-11](https://icd.who.int/) QE52.0 (Caregiver-child relationship problem) and the contested QE52.01 framing of psychological abuse. The American Psychological Association (APA) Resolution on Male Violence (1996, reaffirmed) and APA 2019 Resolution on Maltreatment of Children and APA 2022 Guidelines on Psychological Practice in Health Care Delivery Systems together produce an APA posture that recognises relational distress and child maltreatment frameworks but has not endorsed PA as a stand-alone diagnostic entity. The American Academy of Child and Adolescent Psychiatry ([AACAP](https://www.aacap.org/)) Practice Parameter for Child Custody Evaluation (2011) similarly engages alienation behaviours within a differential-diagnosis frame without endorsing PAS-as-syndrome.
 
-Regulatory disclosure: Randy Rand, EdD (co-developer of [Family Bridges](https://warshak.com/family-bridges/) with Richard [Warshak](https://warshak.com/family-bridges/)) is excluded from the active directory and preserved in excluded[]. The California Board of Psychology (CABOP) recorded his psychology license as inactive since 2009 following disciplinary action (gross negligence, unprofessional conduct, dishonesty). The Family Bridges / Family Workshop programme subsequently operated as an 'educational workshop' outside CABOP oversight, which is the canonical US regulatory disclosure for any reader auditing reunification-camp credentials. License status can be verified at the CA DCA license search (https://search.dca.ca.gov/).
+Regulatory disclosure: Randy Rand, EdD (co-developer of [Family Bridges](https://warshak.com/family-bridges/) with Richard [Warshak](https://warshak.com/family-bridges/)) is excluded from the active directory and preserved in excluded[]. The California Board of Psychology (CABOP) recorded his psychology license as inactive since 2009 following disciplinary action (gross negligence, unprofessional conduct, dishonesty). The [Family Bridges](https://warshak.com/family-bridges/) / Family Workshop programme subsequently operated as an 'educational workshop' outside CABOP oversight, which is the canonical US regulatory disclosure for any reader auditing reunification-camp credentials. License status can be verified at the CA DCA license search (https://search.dca.ca.gov/).
 
 ## Structural findings
 
 - 19 verified US practitioner entries — the largest single-country therapists directory in the AntiAlienate-knowledge repo, reflecting the disproportionate share of US-anchored PA clinical, research, and forensic-evaluator activity in the English-language literature.
-- DSM-5-TR CAPRD (V995.51 / Z62.898) is the most-cited US institutional reference; the international parallel is ICD-11 QE52.0 child psychological abuse / caregiver-child relationship problem. CAPRD is a relational V/Z-code, not a syndrome diagnosis — this distinction is the structural fault line between recognition, critique, and middle camps in US practice.
+- [DSM-5-TR](https://www.appi.org/products/dsm) CAPRD (V995.51 / Z62.898) is the most-cited US institutional reference; the international parallel is [ICD-11](https://icd.who.int/) QE52.0 child psychological abuse / caregiver-child relationship problem. CAPRD is a relational V/Z-code, not a syndrome diagnosis — this distinction is the structural fault line between recognition, critique, and middle camps in US practice.
 - Bernet / Wamboldt / Narrow (2016) JAACAP CAPRD framework paper is the apex US clinical-research anchor. It is the bridging document between the [PASG](https://pasg.info/) recognition camp (Bernet's network) and the DSM Task Force institutional process (Wamboldt, Narrow), making it the unavoidable reference for any US PA clinical discussion.
-- The recognition camp is the best-resourced US camp at the individual-practitioner level (PASG network, Family Bridges, [TPFF](https://turningpointsforfamilies.com/), NAOPAS), but the Randy Rand exclusion — California Board of Psychology disciplinary action, licence inactive since 2009 — is the canonical US regulatory disclosure that any audit of reunification-camp credentials must surface.
+- The recognition camp is the best-resourced US camp at the individual-practitioner level ([PASG](https://pasg.info/) network, Family Bridges, [TPFF](https://turningpointsforfamilies.com/), NAOPAS), but the Randy Rand exclusion — California Board of Psychology disciplinary action, licence inactive since 2009 — is the canonical US regulatory disclosure that any audit of reunification-camp credentials must surface.
 - The critique camp's evidence base centres on [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) overturned-decisions case series and the Geffner-edited 2022 Journal of Family Trauma special issue. AFCC-aligned middle-camp clinicians (Drozd, Sullivan, Kline Pruett, Deutsch, Olesen, Kelly, Johnston) operate the OBFC, decision-tree, and PCCP frameworks that institutional family courts most often court-order.
 - Two name-correction findings preserved from v1.0: (a) 'Jennifer Hardman, LMFT' in the original source brief is not publicly verifiable — closest verifiable name is Jennifer J. Harman, PhD (Colorado State, PASG board, recognition camp), included here as the corrected entry; (b) Richard A. Gardner (deceased 2003) is the historical originator of PAS terminology and remains an essential historical anchor but is not active practice.
 
 ## Recognition camp
 
-### Richard A. Warshak, PhD
+### Richard A. [Warshak](https://warshak.com/family-bridges/), PhD
 *PhD (Clinical Psychology)*
 Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychology, UT Southwestern Medical Center; co-developer Family Bridges reunification workshop
 
@@ -45,7 +45,7 @@ Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychol
 
 ### Linda [Gottlieb](https://turningpointsforfamilies.com/), LMFT, LCSW-R
 *LMFT, LCSW-R*
-New York City · NY · Turning Points for Families (TPFF), New York City; Minuchin structural family therapy lineage
+New York City · NY · Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)), New York City; Minuchin structural family therapy lineage
 
 **Stance:** Operator of Turning Points for Families (TPFF) intensive in-home reunification programme; practice statement frames PA as 'a form of psychological child abuse with lifetime consequences'. Author of The Parental Alienation Syndrome (Charles C. Thomas, 2012); historically endorsed by Bernet and Salvador Minuchin. TPFF is one of the programmes critiqued in the Geffner et al. (2022) JFTCCCD special issue.
 
@@ -69,7 +69,7 @@ New York City · NY · Turning Points for Families (TPFF), New York City; Minuch
 *PsyD (Clinical Psychology)*
 Pasadena (CA practice history); Washington licensure · WA · Independent clinical psychology practice; author Attachment-Based Model of Parental Alienation ([AB-PA](https://drcachildress.org/))
 
-**Stance:** Author of An Attachment-Based Model of Parental Alienation: Foundations (Oaksong Press, 2015). Operates the AB-PA framework anchored in DSM-5 attachment / delusional pathway language. Recognition-camp internal dissident: openly critical of both AFCC evaluator training and the PASG Five-Factor Model.
+**Stance:** Author of An Attachment-Based Model of Parental Alienation: Foundations (Oaksong Press, 2015). Operates the [AB-PA](https://drcachildress.org/) framework anchored in [DSM-5](https://www.appi.org/products/dsm) attachment / delusional pathway language. Recognition-camp internal dissident: openly critical of both AFCC evaluator training and the PASG Five-Factor Model.
 
 **Publications:**
 - An Attachment-Based Model of Parental Alienation: Foundations (2015) — *Oaksong Press* — <https://www.amazon.com/dp/0996114505>
@@ -91,7 +91,7 @@ Pasadena (CA practice history); Washington licensure · WA · Independent clinic
 *PhD (Developmental Psychology, Teachers College Columbia, 1989)*
 New York City · NY · Director of Research, Vincent J. Fontana Center for Child Protection (New York Foundling)
 
-**Stance:** Author of the 17-strategies alienating-behaviours taxonomy (Baker & Darnall 2006), the most-replicated PA measurement instrument in the peer-reviewed literature. Adult Children of Parental Alienation Syndrome (Norton, 2007) is the foundational adult-survivor narrative source for the recognition camp. Research psychologist, not clinically licensed — consultation only.
+**Stance:** Author of the 17-strategies alienating-behaviours taxonomy ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Darnall 2006), the most-replicated PA measurement instrument in the peer-reviewed literature. Adult Children of Parental Alienation Syndrome (Norton, 2007) is the foundational adult-survivor narrative source for the recognition camp. Research psychologist, not clinically licensed — consultation only.
 
 **Publications:**
 - Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind (2007) — *W.W. Norton* — <https://www.amazon.com/dp/0393705196>
@@ -206,7 +206,7 @@ Fort Collins · CO · Associate Professor, Department of Psychology, Colorado St
 **Stance:** [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) Psychological Bulletin paper is the most-cited PA prevalence claim in the recognition-camp literature. Empirical / prevalence-research framing; PASG Board member. Academic researcher, not clinically licensed. Entry corrects the v1.0 source-brief typo 'Jennifer Hardman, LMFT' — no such person is publicly verifiable; closest verifiable name is Harman.
 
 **Publications:**
-- Parental Alienating Behaviors: An Unacknowledged Form of Family Violence (2018) — *Psychological Bulletin 144(12):1275-1299 (Harman, Kruk & Hines)* — <https://psycnet.apa.org/record/2018-54258-001>
+- Parental Alienating Behaviors: An Unacknowledged Form of Family Violence (2018) — *Psychological Bulletin 144(12):1275-1299 ([Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/))* — <https://psycnet.apa.org/record/2018-54258-001>
 - Parents Acting Badly: How Institutions and Societies Promote the Alienation of Children from Their Loving Families (2020) — *Familization Press (with Matthewson)*
 
 **Verification:**
@@ -227,7 +227,7 @@ Fort Collins · CO · Associate Professor, Department of Psychology, Colorado St
 *PhD (Clinical Psychology)*
 Baltimore · MD · President, Leadership Council on Child Abuse & Interpersonal Violence; independent forensic psychotherapy (Baltimore, MD); formerly Sheppard Pratt until 2019
 
-**Stance:** Anchor of the US critique camp. Silberg & Dallam (2019) case series of 27 overturned custody decisions is the most-cited critique-camp evidence base. Past-president, International Society for the Study of Trauma & Dissociation. Co-editor (with Mercer) of Challenging Parental Alienation (Routledge, 2024). Position: PA construct is misused in family court against domestic-violence survivors and protective parents.
+**Stance:** Anchor of the US critique camp. [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) case series of 27 overturned custody decisions is the most-cited critique-camp evidence base. Past-president, International Society for the Study of Trauma & Dissociation. Co-editor (with Mercer) of Challenging Parental Alienation (Routledge, 2024). Position: PA construct is misused in family court against domestic-violence survivors and protective parents.
 
 **Publications:**
 - Abusers Gaining Custody in Family Courts: A Case Series of Overturned Decisions (2019) — *Journal of Child Custody 16(2):140-169 (with Dallam)* — <https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf>
@@ -319,7 +319,7 @@ Corte Madera · CA · Independent practice (Corte Madera, CA); retired-status pr
 *PhD*
 San Jose · CA · Professor Emeritus, Department of Justice Studies, San Jose State University
 
-**Stance:** Longitudinal counselling research with high-conflict litigating couples; alienated-vs-estranged child distinction. Kelly & Johnston (2001) reformulation co-author; [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) common-ground synthesis in FCR is the most-recent middle-camp bridging document.
+**Stance:** Longitudinal counselling research with high-conflict litigating couples; alienated-vs-estranged child distinction. [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) (2001) reformulation co-author; [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) common-ground synthesis in FCR is the most-recent middle-camp bridging document.
 
 **Publications:**
 - Parental Alienation: In Search of Common Ground for a More Differentiated Theory (2020) — *Family Court Review 58(2):270-292 (with Sullivan)* — <https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472>
@@ -367,7 +367,7 @@ Newport Beach · CA · Independent forensic psychology practice (Newport Beach, 
 *PhD; CA Licensed Psychologist*
 San Rafael · CA · Independent custody-evaluation practice (San Rafael, CA)
 
-**Stance:** Court-appointed custody and dependency evaluations; co-editor with Drozd & Saini of Parenting Plan Evaluations (Oxford, 2016) and Parenting Plan & Child Custody Evaluations (PRP, 2013). Contributor to AFCC Model Standards — part of the AFCC evaluator-training canon.
+**Stance:** Court-appointed custody and dependency evaluations; co-editor with Drozd & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Parenting Plan Evaluations (Oxford, 2016) and Parenting Plan & Child Custody Evaluations (PRP, 2013). Contributor to AFCC Model Standards — part of the AFCC evaluator-training canon.
 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, Saini & Olesen eds.)*
@@ -436,7 +436,7 @@ Newton · MA · Director, Center of Excellence for Children, Families and the La
 *PhD; CA Licensed Psychologist*
 Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto, CA); co-founder OBFC; past President AFCC International (2019-20)
 
-**Stance:** OBFC family camp co-founder; Johnston & Sullivan (2020) common-ground synthesis in FCR is the most-recent middle-camp bridging document. 2012 AFCC California Joseph Drown Award; 2019-20 AFCC International President. Institutional middle-camp voice.
+**Stance:** OBFC family camp co-founder; [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) common-ground synthesis in FCR is the most-recent middle-camp bridging document. 2012 AFCC California Joseph Drown Award; 2019-20 AFCC International President. Institutional middle-camp voice.
 
 **Publications:**
 - Overcoming Barriers Family Camp: A Therapeutic Intervention for High-Conflict Custody Cases (2010) — *Family Court Review 48(1):116-135 (Sullivan, Ward & Deutsch)*
@@ -529,6 +529,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -558,7 +560,7 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 - [Filing Ethics Charges Therapists Parental Alienation](https://www.antialienate.com/blog/filing-ethics-charges-therapists-parental-alienation)
 - [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Should Therapists Be Held Accountable Alienation](https://www.antialienate.com/blog/should-therapists-be-held-accountable-alienation)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
 
 <!-- AA-CROSSLINK-END -->

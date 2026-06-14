@@ -71,7 +71,7 @@ When at the negotiation stage, request these terms specifically:
 ## Citations
 
 - Sullivan, M. J., & Kelly, J. B. (2001). Legal and psychological management of cases with an alienated child. *Family Court Review, 39*(3), 299–315.
-- Saini, M., Black, T., Lin, M., & Léveillé, S. (2017). Concerns about child maltreatment and visitation in supervised access settings. *Child & Family Social Work.*
+- [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Black, T., Lin, M., & Léveillé, S. (2017). Concerns about child maltreatment and visitation in supervised access settings. *Child & Family Social Work.*
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
 - *Solarino v. Italy*, ECHR 2017, App. no. 76171/13.
 - *Re W (Children: Domestic Violence and Risk)* [2012] EWCA Civ 528.
@@ -84,6 +84,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

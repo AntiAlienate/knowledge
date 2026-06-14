@@ -121,7 +121,7 @@ The Art. 13(b) tension reflects the underlying conflict between Hague's prompt-r
 
 ## [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) Interaction
 
-For Council of Europe states, Hague return procedures must respect ECHR Article 8 family-life. Strand Lobben + Improta + Bondavalli line doctrine applies:
+For Council of Europe states, Hague return procedures must respect [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) family-life. Strand Lobben + Improta + Bondavalli line doctrine applies:
 - State has positive obligation to take effective measures
 - Procedural fairness in expert evidence (Bondavalli)
 - Prompt action required (Solarino)
@@ -162,8 +162,8 @@ See repo's jurisdiction-specific entries for national framework details:
 
 ## Sources
 
-- Hague Convention 1980: https://www.hcch.net/en/instruments/conventions/full-text/?cid=24
-- Hague Convention 1996: https://www.hcch.net/en/instruments/conventions/full-text/?cid=70
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24): https://www.hcch.net/en/instruments/conventions/full-text/?cid=24
+- [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70): https://www.hcch.net/en/instruments/conventions/full-text/?cid=70
 - Brussels IIb (Regulation 2019/1111): https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX%3A32019R1111
 - HCCH (Hague Conference): https://www.hcch.net/
 - HCCH signatory status portal: https://www.hcch.net/en/instruments/conventions/status-table/?cid=24
@@ -173,6 +173,8 @@ See repo's jurisdiction-specific entries for national framework details:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not legal advice. Cross-border PA cases require specialized counsel familiar with the relevant Hague + EU + national framework intersection.
+
+
 
 
 

@@ -65,9 +65,9 @@
 
 ---
 
-### 1.3 Verrocchio, Baker & Bernet (2016) — anxiety and depression, Italian community sample
+### 1.3 Verrocchio, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Bernet (2016) — anxiety and depression, Italian community sample
 
-**Citation.** Verrocchio, M. C., Baker, A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — PubMed 27122408 — URL: https://pubmed.ncbi.nlm.nih.gov/27122408/
+**Citation.** Verrocchio, M. C., Baker, A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408 — URL: https://pubmed.ncbi.nlm.nih.gov/27122408/
 
 **Sample / method.** 509 Italian community adults. Instruments: Baker Strategy Questionnaire; Psychological Maltreatment Measure; Parental Bonding Instrument; State-Trait Anxiety Inventory-Y; Beck Depression Inventory-II.
 
@@ -259,7 +259,7 @@ Verhaar et al. (§1.1): 50% of the n = 20 sample were themselves now targeted pa
 
 **Citation.** Templer, K., Matthewson, M., Haines, J., & Cox, G. (2017). Recommendations for best practice in response to parental alienation: Findings from a systematic review. *Journal of Family Therapy*, 39(1), 103–122. https://doi.org/10.1111/1467-6427.12137 — URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-6427.12137
 
-**Method.** Systematic search of Medline, Embase, PsycINFO, Cochrane Central Register of Controlled Trials, and conference abstracts; peer-reviewed psychological or legal intervention studies for PA.
+**Method.** Systematic search of Medline, Embase, PsycINFO, [Cochrane](https://www.cochranelibrary.com/) Central Register of Controlled Trials, and conference abstracts; peer-reviewed psychological or legal intervention studies for PA.
 
 **Headline recommendations.**
 1. Changes in custodial/residential arrangements in favour of the targeted parent are effective in ameliorating PA.
@@ -291,7 +291,7 @@ See §1.6. Self-reported reduced or delayed educational/career attainment attrib
 
 ### 7.2 Quantitative meta-analysis comparing PA outcomes to physical/sexual abuse outcomes
 
-**Status.** **Not publicly confirmed.** No published meta-analysis directly comparing standardised effect sizes for PA exposure versus physical or sexual abuse on common mental-health endpoints (e.g., adult depression, PTSD, SUD) was identified. Harman, Kruk & Hines argue for *analogous* harm but do not quantify a comparison effect-size meta-analysis. This is a real gap in the evidence base.
+**Status.** **Not publicly confirmed.** No published meta-analysis directly comparing standardised effect sizes for PA exposure versus physical or sexual abuse on common mental-health endpoints (e.g., adult depression, PTSD, SUD) was identified. [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) argue for *analogous* harm but do not quantify a comparison effect-size meta-analysis. This is a real gap in the evidence base.
 
 ---
 
@@ -299,7 +299,7 @@ See §1.6. Self-reported reduced or delayed educational/career attainment attrib
 
 ### 8.1 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) — *Empirical Studies of Alienation*
 
-**Citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting plan evaluations: Applied research for the family court* (2nd ed., pp. 374–430). New York: Oxford University Press. Open PDF (Nevada Courts session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting plan evaluations: Applied research for the family court* (2nd ed., pp. 374–430). New York: Oxford University Press. Open PDF (Nevada Courts session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
 **Headline critique.** A review of 29 published papers and 10 doctoral dissertations on PA found **none scored high in research quality** (secondary summary, confirmed across multiple secondary citations of the chapter). The authors argue that definitions and operationalisations differ so much that the body of literature cannot be reliably synthesised to assess overall validity.
 
@@ -393,7 +393,7 @@ Across the studies in §§1–7, the recurring limitations are:
 
 **Not defensible** (without major caveats). "PA causes X% of depression / suicide / addiction in the general population." "PA effects are equivalent to physical/sexual abuse effects." "Cortisol and brain-imaging studies prove PA causes specific neural damage." "740,000 U.S. children are alienated each year."
 
-**The single most important honest concession.** Critics including Mercer, Doughty et al., Saini et al. and Silberg & Dallam are correct that the empirical PA outcome literature is dominated by self-selected retrospective samples without matched controls; that the construct does not cleanly separate alienation from justified estrangement; and that PA findings have, in documented cases, been used to dismiss valid child-abuse allegations. These are real methodological and forensic problems. The evidence that PA-exposed adults show elevated mental-health symptom rates is robust *within the available samples*; the inference from those samples to population-level causal claims is not.
+**The single most important honest concession.** Critics including Mercer, Doughty et al., Saini et al. and [Silberg & Dallam](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) are correct that the empirical PA outcome literature is dominated by self-selected retrospective samples without matched controls; that the construct does not cleanly separate alienation from justified estrangement; and that PA findings have, in documented cases, been used to dismiss valid child-abuse allegations. These are real methodological and forensic problems. The evidence that PA-exposed adults show elevated mental-health symptom rates is robust *within the available samples*; the inference from those samples to population-level causal claims is not.
 
 ---
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

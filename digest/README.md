@@ -23,7 +23,7 @@ These are **research leads** auto-pulled by keyword match. Verify against primar
 
 - **[HUDOC](https://hudoc.echr.coe.int/)** — JS-rendered, needs Playwright-style scraping
 - **OpenAlex** — academic graph
-- **Indian Kanoon**, **[CanLII](https://www.canlii.org/)** — same scrape-friendly model as BAILII
+- **Indian Kanoon**, **[CanLII](https://www.canlii.org/)** — same scrape-friendly model as [BAILII](https://www.bailii.org/)
 - **EUR-Lex** — EU legal database (has API)
 
 ## Generator
@@ -33,6 +33,8 @@ Script: `/tmp/.aa-secrets/accumulator.py` (host machine — not in repo). Runs e
 ---
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

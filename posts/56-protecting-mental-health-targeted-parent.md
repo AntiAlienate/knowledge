@@ -10,7 +10,7 @@
 ## The 3 clinical patterns to recognize
 
 1. **Ambiguous Loss** (Pauline Boss, 1999) — your child is alive but psychologically unreachable. Different from death-grief. No closure mechanism. The signature wound. This is why "give it time" advice from well-meaning friends *makes you feel crazier* — time alone doesn't process this kind of loss. It requires *active naming.*
-2. **Complex PTSD** (Judith Herman, 1992; codified internationally as **WHO ICD-11 6B41**) — chronic stress + powerlessness + relational injury, manifesting as hypervigilance, intrusive rumination, emotional numbness alternating with intensity, sleep disruption.
+2. **Complex PTSD** (Judith Herman, 1992; codified internationally as **WHO [ICD-11](https://icd.who.int/) 6B41**) — chronic stress + powerlessness + relational injury, manifesting as hypervigilance, intrusive rumination, emotional numbness alternating with intensity, sleep disruption.
 3. **Gaslighting Injury** — being told you are the problem when you are the target. Compounds the underlying trauma with second-order doubt about your own perception.
 
 ## The 5 self-care pillars (clinical, not Instagram)
@@ -53,9 +53,9 @@ These are clinically expected trauma responses. They are also **treatable.**
 
 ## Why this matters operationally (not just emotionally)
 
-Reunification windows often arrive *months or years* after the worst point (Baker, 2007 longitudinal data). When that window opens, your child needs to find a parent who is regulated, present, and available — not depleted, manic, or angry. **Your maintenance is their reunion infrastructure.**
+Reunification windows often arrive *months or years* after the worst point ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), 2007 longitudinal data). When that window opens, your child needs to find a parent who is regulated, present, and available — not depleted, manic, or angry. **Your maintenance is their reunion infrastructure.**
 
-This is anchored in the same framework that codifies PA itself as a recognized harm: **Harman, Kruk & Hines (2018)** *Psychological Bulletin* meta-analysis frames parental alienating behaviors as a form of family violence — meaning your trauma response is the predictable consequence of being a victim, not a personal weakness.
+This is anchored in the same framework that codifies PA itself as a recognized harm: **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** *Psychological Bulletin* meta-analysis frames parental alienating behaviors as a form of family violence — meaning your trauma response is the predictable consequence of being a victim, not a personal weakness.
 
 ## Source-blog hyperlinks
 
@@ -87,6 +87,8 @@ Educational content. **Not clinical advice.** If you are in crisis, contact a me
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

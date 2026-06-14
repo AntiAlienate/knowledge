@@ -31,7 +31,7 @@ location_tags: [clinical, forensic-assessment, custody-evaluation, mmpi, aspect,
 
 **Bricklin Perceptual Scales ([BPS](https://www.bps.org.uk/))** — Child-administered (ages 6+). Measures child's perceptions of each parent on 32 items. PA-relevance: can detect coaching when paired with collateral interviews. Limitation: child self-report; vulnerable to coaching unless cross-validated.
 
-**Parent-Child Relationship Inventory (PCRI)** — Parent self-report of relationship with child. 78 items, 7 scales. Useful for comparing parent reports against each other + against child's BPS.
+**Parent-Child Relationship Inventory (PCRI)** — Parent self-report of relationship with child. 78 items, 7 scales. Useful for comparing parent reports against each other + against child's [BPS](https://www.bps.org.uk/).
 
 ### 3. Child-protection screening
 
@@ -41,7 +41,7 @@ location_tags: [clinical, forensic-assessment, custody-evaluation, mmpi, aspect,
 
 ### 4. PA-specific instruments (emerging)
 
-**[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 17 Strategies Scale** — Adult retrospective measure of childhood alienation. 17 items based on Baker (2007) qualitative research.
+**[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 17 Strategies Scale** — Adult retrospective measure of childhood alienation. 17 items based on [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) qualitative research.
 
 **Bernet-led PA Behaviors Indicator** — Structured assessment of alienating behaviors per Bernet (2010) 5 essential criteria. Used by PA-specialist forensic evaluators.
 
@@ -111,6 +111,8 @@ Wiki entry, not clinical or legal advice. Always engage qualified forensic psych
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

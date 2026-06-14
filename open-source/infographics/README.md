@@ -48,7 +48,7 @@ WHO clinical code naming the dynamic. In force since 2022.
 
 ![DSM-5-TR V61.29 — Child affected by parental relationship distress](./dsm5tr-v6129.png)
 
-Companion to ICD-11 QE52.2. The [DSM-5](https://www.appi.org/products/dsm)-TR Z-code for children harmed by parental conflict.
+Companion to [ICD-11](https://icd.who.int/) QE52.2. The [DSM-5](https://www.appi.org/products/dsm)-TR Z-code for children harmed by parental conflict.
 
 ### 85% of children with behavioural disorders come from fatherless homes
 
@@ -123,6 +123,8 @@ Four-step procedural ask for automatic per-breach accrual.
 - New card requests via GitHub issue. PRs welcome (generator: `make-card-v1.py`).
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

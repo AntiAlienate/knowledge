@@ -38,8 +38,8 @@ Mozambican family-court decisions are anonymised per Supreme Court practice usin
 ## Key developments
 
 - **2004** — Federal Family Law enacted with substantial modernisation reforms — codifying gender-equal marriage, parental authority and divorce provisions.
-- **2008** — Federal children's protection statute aligned with UNCRC obligations.
-- **2022** — Mozambique acceded to the Hague Convention 1980 effective 1 December 2022.
+- **2008** — Federal children's protection statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
+- **2022** — Mozambique acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 December 2022.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Mozambican family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

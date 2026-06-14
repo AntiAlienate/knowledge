@@ -13,7 +13,7 @@ Australia is a federal common-law jurisdiction whose family-law architecture is 
 
 ## Statutory framework
 
-- **Family Law Act 1975 (Cth) s.60CC** — Family Law Act 1975 — best-interests considerations (post-2023 amendment safety-primacy rewrite) (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
+- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.60CC** — Family Law Act 1975 — best-interests considerations (post-2023 amendment safety-primacy rewrite) (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Substantive best-interests test for parenting orders. The 2023 Amendment Act Schedule 1 rewrote s.60CC to prioritise the safety of the child and persons caring for the child, removed the prior 'two-tier' primary/additional consideration structure, and inserted explicit guidance on family violence. PA-adjacent fact-patterns are decided here under the welfare standard.
 - **Family Law Act 1975 (Cth) s.61DA (repealed by 2023 Amendment Act)** — Family Law Act 1975 — presumption of equal shared parental responsibility (REPEALED 6.5.2024) (2006) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Repealed by Schedule 1 of the Family Law Amendment Act 2023 (in force 6 May 2024). The former s.61DA presumption was a Howard-government 2006 reform that the 2023 Amendment Act removed in response to ALRC Inquiry 135 (2019) and Joint Select Committee 2021 evidence that the presumption was being misapplied in family-violence cases. Repeal is the load-bearing 2023 structural shift in Australian custody law.
@@ -49,7 +49,7 @@ Australia is a federal common-law jurisdiction whose family-law architecture is 
 - **Australian Health Practitioner Regulation Agency (AHPRA) / Psychology Board of Australia (PsyBA)** — AHPRA / PsyBA is the statutory regulator for psychologists in Australia under the Health Practitioner Regulation National Law. PsyBA has issued no PA-specific position statement, no code-of-conduct guidance on PA-construct use, and no notifications standard on PA-engaging practice. Regulator silence on the construct is the EU6/NL/BE-parallel pattern at the Australian load-bearing-credential level. — <https://www.psychologyboard.gov.au/>
 - **Australian Psychological Society (APS)** — Principal voluntary professional society for psychologists. APS MAPS / FAPS / FCCLP designations are the customary post-AHPRA specialist credentials. APS has issued no public PA position statement engaging the construct directly. APS Section literature occasionally references PA-adjacent fact-patterns but the Society has not adopted a recognition or critique stance. — <https://psychology.org.au/>
 - **Australian Association of Family Therapists (AAFT)** — Self-regulatory family-systems / family-therapy professional body. AAFT sits alongside PACFA, ACA and AASW in the non-AHPRA self-regulated layer. No PA-specific position statement issued. — <https://www.aaft.asn.au/>
-- **Australian Counselling Association (ACA) / Psychotherapy and Counselling Federation of Australia (PACFA) / Australian Association of Social Workers (AASW)** — Self-regulated counselling, psychotherapy and social-work professional bodies. None has issued a PA-specific position statement. Practitioners registered with these bodies (e.g., Korosi PACFA, Price-Tobler PACFA, Graham FDRP) are flagged in directory stance_notes with the regulatory-analogue caveat parallel to the post-Re Y UK debate about non-HCPC practitioners. — <https://www.theaca.net.au/>
+- **Australian Counselling Association (ACA) / Psychotherapy and Counselling Federation of Australia (PACFA) / Australian Association of Social Workers (AASW)** — Self-regulated counselling, psychotherapy and social-work professional bodies. None has issued a PA-specific position statement. Practitioners registered with these bodies (e.g., Korosi PACFA, Price-Tobler PACFA, Graham FDRP) are flagged in directory stance_notes with the regulatory-analogue caveat parallel to the post-Re Y UK debate about non-[HCPC](https://www.hcpc-uk.org/) practitioners. — <https://www.theaca.net.au/>
 - **Family Report Writers Network — FCFCOA-administered** — Institutional CCR-writer pool administered by the FCFCOA under the 2023 Sch 2 reform. Structurally the load-bearing operational middle camp by design — court-appointed single experts who write the Court Children's Report. Individual writers cannot be named per s.121 anonymisation. — <https://www.fcfcoa.gov.au/>
 - **Australian Institute of Family Studies (AIFS)** — Federal statutory authority for family-research in Australia. AIFS research informs policy (including ALRC 135 evidence base) and includes Moloney + colleagues' critique-camp publications on PA / DV intersection. Not a regulator but a load-bearing knowledge institution. — <https://aifs.gov.au/>
 
@@ -108,7 +108,7 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 
 ## Editorial notes
 
-- Primary-source order: Federal Register of Legislation cited first (FLA 1975 consolidated + Amendment Act 2023); FCFCOA + AustLII for case-law; AHPRA + ALRC + AIFS for regulatory and policy material.
+- Primary-source order: Federal Register of Legislation cited first (FLA 1975 consolidated + Amendment Act 2023); FCFCOA + [AustLII](https://www.austlii.edu.au/) for case-law; AHPRA + ALRC + AIFS for regulatory and policy material.
 - FLA s.121 anonymisation is foregrounded as the principal structural Australian feature — drives both the absence of named-evaluator appellate case-law and the FRW pool's institutional-rather-than-personal directory presence.
 - Australia treated as a federal jurisdiction; State/Territory family-law variation is procedural rather than substantive (FLA is federal under Constitution s.51(xxi) marriage power + state referrals).
 - Trans-Tasman AU+NZ overlap recognised: PAANZ + EMMM Foundation are structurally bi-national; cross-link practitioner:au.moriarty-bryan to NZ entry. New Zealand jurisdiction deepening must take account of this shared circuit.
@@ -118,6 +118,8 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

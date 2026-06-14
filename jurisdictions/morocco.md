@@ -39,7 +39,7 @@ Moroccan family-court decisions are anonymised per Court of Cassation practice u
 
 - **1957** — First codification of Moroccan family-law on Maliki jurisprudential basis post-independence.
 - **2004** — Landmark modernisation reform — abolishing automatic male guardianship, raising marriage age to 18 for both sexes, introducing judicial divorce procedure, codifying child welfare standards.
-- **2010** — Morocco acceded to the Hague Convention 1980 effective 1 June 2010.
+- **2010** — Morocco acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 June 2010.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Moroccan family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

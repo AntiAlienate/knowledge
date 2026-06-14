@@ -44,7 +44,7 @@ Family, friends, and generalist therapists describe it as "shy," "quirky," "an o
 
 ## The reversal
 
-**Baker (2007) longitudinal research** found that adult children of parental alienation who eventually re-engaged with the targeted parent often made **rapid developmental gains in the deferred domains within months.** The brain wasn't broken. It was waiting for the relational threat to drop.
+**[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) longitudinal research** found that adult children of parental alienation who eventually re-engaged with the targeted parent often made **rapid developmental gains in the deferred domains within months.** The brain wasn't broken. It was waiting for the relational threat to drop.
 
 ## What targeted parents can do now (even at distance)
 
@@ -83,6 +83,8 @@ Educational content. **Not legal or clinical advice.** Consult a licensed clinic
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

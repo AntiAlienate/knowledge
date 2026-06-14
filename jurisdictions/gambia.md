@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GM` · **Legal system:** mixed  
 **Language(s):** en  
 
-The Gambia is a West African mixed-legal-system republic combining English common-law substantive heritage (via colonial inheritance) with Islamic-law personal-status jurisdiction (operating through Cadi/Sharia Courts under the Cadi Court Act) and customary-law jurisdiction via District Tribunals. Family-law framework operates under the Children's Act 2005, the Christian Marriage Act, the Mohammedan Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/), the Civil Marriage Act, and the Customary Marriage and Divorce Act. Parental responsibility and child custody are governed by Children's Act Part IV. The Supreme Court of The Gambia is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, Cadi Courts for Muslim personal-status matters, and District Tribunals for customary-law matters. Psychology profession is regulated through the Ministry of Health framework. The Gambia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Children's Act s. 4. The Gambia is non-Hague Convention.
+The Gambia is a West African mixed-legal-system republic combining English common-law substantive heritage (via colonial inheritance) with Islamic-law personal-status jurisdiction (operating through Cadi/Sharia Courts under the Cadi Court Act) and customary-law jurisdiction via District Tribunals. Family-law framework operates under the Children's Act 2005, the Christian Marriage Act, the Mohammedan Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/), the Civil Marriage Act, and the Customary Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/). Parental responsibility and child custody are governed by Children's Act Part IV. The Supreme Court of The Gambia is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, Cadi Courts for Muslim personal-status matters, and District Tribunals for customary-law matters. Psychology profession is regulated through the Ministry of Health framework. The Gambia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Children's Act s. 4. The Gambia is non-Hague Convention.
 
 ## PA recognition status
 
@@ -66,6 +66,8 @@ Gambian family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

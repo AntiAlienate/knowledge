@@ -40,7 +40,7 @@ The father's interim application for a change of Y's primary residence dismissed
 - **Cassazione civile, Sez. I, ord. 24 marzo 2022, n. 9691** (IT) — [`cassazione-9691-2022-italy`](./cassazione-9691-2022-italy.md) — Italian Court of Cassation — quashed the Court of Appeal of Venice's order removing a child from the mother on the basis of PAS-framed CTU evidence; held that PAS is not a recognised scientific construct (priva di base scientifica) and that removal on that basis breaches Articles 3 and 8 ECHR. Green & Green reaches a structurally analogous result through Australian procedural doctrine: alienation framing alone does not import a residence-change remedy, and the child's safety / mental-health interests dominate.
 - **BVerfG, Beschluss vom 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court — constitutional critique of Sachverständigengutachten that rest on the PAS construct, in the Art. 6 Abs. 2 GG / Kindeswohl frame. Functionally aligned with Green & Green's refusal to act on alienation framing at interim stage where competing protective concerns are live and where the child is in acute distress, although the doctrinal vocabulary (constitutional Kindeswohl vs. Banks & Banks interim-caution rule) differs.
 - **Banks & Banks [2015] FamCAFC 36; (2015) FLC 93-637** (AU) — Full Court of the Family Court of Australia — the interim-stage caution rule that controlled Green & Green: contested factual material is to be approached with restraint at interim hearings and complex fact-finding reserved for trial.
-- **Shell & Armel [2022] FedCFamC1A 83** (AU) — FCFCOA Division 1 Appellate Jurisdiction — primary judges must not import parental-alienation theoretical literature (e.g. Kelly & Johnston 2001) other than through properly tendered expert evidence. Green & Green operationalises this restraint at interim stage.
+- **Shell & Armel [2022] FedCFamC1A 83** (AU) — FCFCOA Division 1 Appellate Jurisdiction — primary judges must not import parental-alienation theoretical literature (e.g. [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001) other than through properly tendered expert evidence. Green & Green operationalises this restraint at interim stage.
 
 ## Subsequent reception
 
@@ -66,7 +66,7 @@ The father's interim application for a change of Y's primary residence dismissed
 
 ## Sources
 
-1. **Green & Green [2024] FedCFamC1F 896 — AustLII primary record (FedCFamC1F 2024 No 896)** — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/2024/896.html> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
+1. **Green & Green [2024] FedCFamC1F 896 — [AustLII](https://www.austlii.edu.au/) primary record (FedCFamC1F 2024 No 896)** — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/2024/896.html> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
 2. **AustLII — FedCFamC1F 2024 case index** — <http://www.austlii.edu.au/cgi-bin/sinodisp/au/cases/cth/FedCFamC1F/2024/> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
 3. **Federal Circuit and Family Court of Australia — Judgments portal** — <https://www.fcfcoa.gov.au/judgment> (Federal Circuit and Family Court of Australia) [en] — accessed 2026-05-30
 4. **Australian Family Lawyer / Pentana Stanton — Case Summary: Parental Alienation in Family Law Cases** — <https://pentanastanton.com.au/case-summary-parental-alienation-in-family-law-cases/> (Pentana Stanton Lawyers) [en] — accessed 2026-05-30
@@ -76,7 +76,7 @@ The father's interim application for a change of Y's primary residence dismissed
 8. **Family Law Amendment Act 2023 (Cth)** — <https://www.legislation.gov.au/C2023A00087/latest/text> (Federal Register of Legislation (Commonwealth of Australia)) [en] — accessed 2026-05-30
 9. **Banks & Banks [2015] FamCAFC 36 — interim-stage caution rule** — <http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FamCAFC/2015/36.html> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
 10. **Shell & Armel [2022] FedCFamC1A 83 — tender requirement for parental-alienation theoretical literature** — <http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FedCFamC1A/2022/83.html> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
-11. **Family Law Act 1975 (Cth) s 121 — restriction on publication of identifying information** — <https://www.legislation.gov.au/C2004A00275/latest/text> (Federal Register of Legislation (Commonwealth of Australia)) [en] — accessed 2026-05-30
+11. **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s 121 — restriction on publication of identifying information** — <https://www.legislation.gov.au/C2004A00275/latest/text> (Federal Register of Legislation (Commonwealth of Australia)) [en] — accessed 2026-05-30
 12. **Safe & Together Institute — Eliza Wynn / Saturday Paper repost: The legal battlefield of parental alienation** — <https://safeandtogetherinstitute.com/press/the-saturday-paper-the-legal-battlefield-of-parental-alienation> (Safe & Together Institute (republishing The Saturday Paper)) [en] — accessed 2026-05-30
 13. **Zoe Rathus AM (Griffith Law School) — Unpacking Family Law: Reforms, Family Violence and Parental Alienation (2025 conference slides)** — <https://qldflpn.org.au/wp-content/uploads/2025/03/Unpacking-Family-Law-Slides-Zoe-Rathus-1.pdf> (Queensland Family Law Practitioners' Network) [en] — accessed 2026-05-30
 
@@ -100,6 +100,8 @@ The father's interim application for a change of Y's primary residence dismissed
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

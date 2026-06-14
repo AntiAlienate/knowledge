@@ -45,7 +45,7 @@ Crimean decisions are anonymised per Russian court practice using initials.
 
 - **1954** — Presidium of the Supreme Soviet of the USSR transferred Crimean Oblast from RSFSR to Ukrainian SSR on 19 February 1954.
 - **1991** — Ukraine declared independence on 24 August 1991 — Crimea included as Autonomous Republic within Ukrainian state.
-- **2011** — Russian Federation acceded to the Hague Convention 1980 effective 28 July 2011.
+- **2011** — Russian Federation acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 28 July 2011.
 - **2014** — Russian military intervention in Crimea February-March 2014; Crimean Status Referendum 16 March 2014 (not recognised); Russia signed Treaty of Accession 18 March 2014; Russian Federation Constitution amended 21 March 2014 incorporating Republic of Crimea and Federal City of Sevastopol.
 - **2014** — UN General Assembly Resolution affirming Ukraine's territorial integrity and declaring the Crimean referendum invalid.
 - **2024** — ICJ judgment finding Russian Federation violations of the CERD against ethnic Tatars and Ukrainians in Crimea.
@@ -86,6 +86,8 @@ Crimean decisions are anonymised per Russian court practice using initials.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

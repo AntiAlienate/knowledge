@@ -77,7 +77,7 @@ You will be. Stay.
 - Sher, L. (2015). Parental alienation and suicide in men. *Psychiatria Danubina*, 27(3), 288-289.
 - Sher, L. (2017). Parental alienation: The impact on men's mental health. *International Journal of Adolescent Medicine and Health*, 29(3).
 - Boss, P. (1999). *Ambiguous Loss: Learning to Live with Unresolved Grief.* Harvard University Press.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 
@@ -86,6 +86,8 @@ Educational content. **Not clinical advice.** If you are in crisis, please conta
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

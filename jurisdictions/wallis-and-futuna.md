@@ -39,7 +39,7 @@ Wallisian/Futunan family-court decisions are anonymised per Court of Appeal of N
 ## Key developments
 
 - **1961** — Federal Statute Law establishing Wallis and Futuna overseas collectivity status and constitutionally-recognising the three traditional kingdoms (Uvea, Sigave, Alo) within the French Republic framework.
-- **1983** — Hague Convention 1980 territorial extension by France to Wallis and Futuna effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to Wallis and Futuna effective 1 December 1983.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Wallisian/Futunan family-court decisions are anonymised per Court of Appeal of N
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

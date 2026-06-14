@@ -35,7 +35,7 @@ Réunionese family-court decisions are anonymised per Court of Appeal practice u
 ## Key developments
 
 - **1946** — Réunion achieved departmental status (DOM) — among the first French overseas DOMs.
-- **1983** — Hague Convention 1980 territorial extension by France to Réunion effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to Réunion effective 1 December 1983.
 
 ## Structural findings
 
@@ -68,6 +68,8 @@ Réunionese family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

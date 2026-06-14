@@ -37,7 +37,7 @@ Tajik family-court decisions are anonymised per Supreme Court practice using ini
 ## Key developments
 
 - **1998** — Federal Family Code enacted post-Soviet codifying marriage, parental rights and child custody.
-- **2015** — Federal children's rights statute enacted aligned with UNCRC obligations.
+- **2015** — Federal children's rights statute enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -69,6 +69,8 @@ Tajik family-court decisions are anonymised per Supreme Court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -3,14 +3,14 @@
 > **Purpose.** A primary-source, citation-led evidence page on the **existing [DSM-5](https://www.appi.org/products/dsm) / [DSM-5-TR](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/) diagnostic codes that can defensibly be used to capture parental-alienating conduct and its sequelae**, prepared for the AntiAlienate knowledge repository (CC BY 4.0). The page is written for the practitioner audience: clinicians filling out billing forms, forensic evaluators writing court reports, custody lawyers cross-examining experts, and policy advocates who need to separate the discredited "parental alienation syndrome / disorder" framing from the live diagnostic infrastructure that already exists.
 >
 > **The framing.** Prior pages in this series have documented in detail that:
-> - WHO refused to include "parental alienation" as an ICD-11 health term and **formally removed** the index term in 2020 (see `/evidence/international-institutional-positions.md` §1);
+> - WHO refused to include "parental alienation" as an [ICD-11](https://icd.who.int/) health term and **formally removed** the index term in 2020 (see `/evidence/international-institutional-positions.md` §1);
 > - APA, APSAC, [BPS](https://www.bps.org.uk/) and [PASG](https://pasg.info/)-critical bodies have rejected "PAS" as a syndrome (id. §§5–7);
-> - Bernet's DSM-5 inclusion proposal was rejected by the APA Task Force (see `/evidence/pa-as-child-abuse.md` §1.4).
+> - Bernet's [DSM-5](https://www.appi.org/products/dsm) inclusion proposal was rejected by the APA Task Force (see `/evidence/pa-as-child-abuse.md` §1.4).
 > This page does **not** re-argue those points. It catalogues what **is** in the diagnostic manuals and can therefore be coded, billed, cited in court, and survived under *Daubert* / *Frye*.
 >
 > **Editorial standards.** Verbatim quotation from primary sources wherever direct access was available; explicit "**[secondary verification only]**" tags where the primary text was paywalled, copyright-restricted, or returned HTTP 403 at compilation; explicit "**not publicly confirmed**" where the source could not be located. Compilation date 2026-05-25. URLs verified at compilation.
 >
-> **Honest disclosure (load-bearing).** The DSM-5 and ICD-11 are copyrighted. Several URLs that hold primary text returned HTTP 403, paywalls, or copyright refusals during compilation. The verbatim DSM-5 / ICD-11 quotations in this page were assembled from multiple secondary academic sources that quote them consistently; readers using these quotations in court should verify against the published DSM-5-TR (2022) and ICD-11 MMS browser (https://icd.who.int/browse11/l-m/en) before filing.
+> **Honest disclosure (load-bearing).** The DSM-5 and ICD-11 are copyrighted. Several URLs that hold primary text returned HTTP 403, paywalls, or copyright refusals during compilation. The verbatim DSM-5 / ICD-11 quotations in this page were assembled from multiple secondary academic sources that quote them consistently; readers using these quotations in court should verify against the published [DSM-5-TR](https://www.appi.org/products/dsm) (2022) and ICD-11 MMS browser (https://icd.who.int/browse11/l-m/en) before filing.
 
 ---
 
@@ -80,7 +80,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 3. to **acrimonious divorce**; and
 4. to **unfair disparagement of one parent by another**.
 
-The authors describe reactions as including "the onset or exacerbation of psychological symptoms, somatic complaints, an internal loyalty conflict, and, in the extreme, parental alienation, leading to loss of a parent-child relationship." **[secondary verification only]** — abstract text per PubMed PMID 27343884 and the published abstract reproduced at https://pure.johnshopkins.edu/en/publications/child-affected-by-parental-relationship-distress/.
+The authors describe reactions as including "the onset or exacerbation of psychological symptoms, somatic complaints, an internal loyalty conflict, and, in the extreme, parental alienation, leading to loss of a parent-child relationship." **[secondary verification only]** — abstract text per [PubMed](https://pubmed.ncbi.nlm.nih.gov/) PMID 27343884 and the published abstract reproduced at https://pure.johnshopkins.edu/en/publications/child-affected-by-parental-relationship-distress/.
 
 **Why this is the most important single sentence in the diagnostic-coding debate.** Bernet, Wamboldt & Narrow are the principal architects of the DSM-5 / DSM-5-TR-era reformulation of how to code PA-pattern presentations. By placing "parental alienation" inside the published CAPRD article as the extreme tail of the fourth CAPRD scenario, they secured a peer-reviewed JAACAP citation that family-court evaluators can use to argue **CAPRD (V61.29 / Z62.898) covers PA-pattern conduct without requiring DSM to recognise "PAS" or "PAD" as a discrete diagnosis.** This is the move that allows balanced clinical practice today.
 
@@ -88,7 +88,7 @@ The authors describe reactions as including "the onset or exacerbation of psycho
 
 ### 1.4 DSM-5-TR (2022) — what changed
 
-The DSM-5-TR text revision (American Psychiatric Association, 2022) **did not** add parental alienation, parental alienation syndrome, or parental alienation disorder as diagnoses. The PASG draft proposal to insert "Parental Alienation Relational Problem (PARP)" was prepared (Bernet, W., & Baker, A. J. L., draft dated 2022-08-29; URL https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr) but was **not adopted** in DSM-5-TR.
+The DSM-5-TR text revision (American Psychiatric Association, 2022) **did not** add parental alienation, parental alienation syndrome, or parental alienation disorder as diagnoses. The [PASG](https://pasg.info/) draft proposal to insert "Parental Alienation Relational Problem (PARP)" was prepared (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., draft dated 2022-08-29; URL https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr) but was **not adopted** in DSM-5-TR.
 
 The PASG draft proposed five PARP criteria, verbatim from the PASG document:
 1. "the child avoids, resists, or refuses a relationship with a parent";
@@ -233,7 +233,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 **United States.** DSM-5-TR is dominant in U.S. clinical practice. Forensic evaluators code in DSM-5-TR narrative + ICD-10-CM for billing. Most state custody evaluation rules ([AFCC](https://www.afccnet.org/) Model Standards, state-specific custody-evaluator licensing) require the evaluator to identify the diagnostic basis for any clinical finding; "V61.20 + V61.29" reports are routine, "V995.51" reports are less common but defensibly used where the evidentiary threshold is met.
 
-**United Kingdom.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service in England and Wales) takes the strongest publicly stated position of any major Western family-court services body: it explicitly avoids the term "parental alienation." Cafcass guidance, verbatim:
+**United Kingdom.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service in England and Wales) takes the strongest publicly stated position of any major Western family-court services body: it explicitly avoids the term "parental alienation." [Cafcass](https://www.cafcass.gov.uk/) guidance, verbatim:
 
 > "Cafcass do not use or refer to the term 'parental alienation' which is often framed as a condition or syndrome."
 
@@ -267,7 +267,7 @@ APSAC then enumerates the rival hypotheses that must be ruled out — including 
 
 ### 4.2 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) — the differential-diagnosis framework
 
-**Primary citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. Nevada courts mirror at https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf (direct fetch returned a binary PDF; the chapter is widely cited and the headline framework is summarised across the secondary literature — **[secondary verification only]** for verbatim text).
+**Primary citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. Nevada courts mirror at https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf (direct fetch returned a binary PDF; the chapter is widely cited and the headline framework is summarised across the secondary literature — **[secondary verification only]** for verbatim text).
 
 **Headline framework (paraphrased from secondary academic summaries):**
 - The distinction between alienation (unjustified rejection) and estrangement (justified rejection due to interpersonal violence, child abuse or neglect) is the central differential-diagnostic challenge.
@@ -349,7 +349,7 @@ Documented in §1.4 above.
 
 ### 6.7 What this history tells us
 
-The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal (rejected) → CAPRD 2016 (peer-reviewed JAACAP citation secured) → ICD-11 index-term inclusion then removal 2020 → DSM-5-TR PARP proposal 2022 (not adopted) → Bernet 2023 PCRP-correction proposal (pending) — is a **35-year, partially successful** effort to embed the PA construct in formal diagnostic infrastructure. The construct's *behavioural content* has been substantially absorbed into V61.20, V61.29, V995.51, and QE52.0; the construct's *syndromic / disorder framing* has been rejected by the APA, WHO, APSAC, BPS, the UN Special Rapporteur on Violence against Women, the European Parliament, and the Italian Supreme Court (see `/evidence/international-institutional-positions.md`).
+The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal (rejected) → CAPRD 2016 (peer-reviewed JAACAP citation secured) → ICD-11 index-term inclusion then removal 2020 → DSM-5-TR PARP proposal 2022 (not adopted) → Bernet 2023 PCRP-correction proposal (pending) — is a **35-year, partially successful** effort to embed the PA construct in formal diagnostic infrastructure. The construct's *behavioural content* has been substantially absorbed into V61.20, V61.29, V995.51, and QE52.0; the construct's *syndromic / disorder framing* has been rejected by the APA, WHO, APSAC, [BPS](https://www.bps.org.uk/), the UN Special Rapporteur on Violence against Women, the European Parliament, and the Italian Supreme Court (see `/evidence/international-institutional-positions.md`).
 
 ---
 
@@ -498,6 +498,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -528,8 +530,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
 - [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
 - [Parental Alienation Syndrome Complete Guide](https://www.antialienate.com/blog/parental-alienation-syndrome-complete-guide)
-- [How To Prove Psychological Damage From Parental Alienation](https://www.antialienate.com/blog/how-to-prove-psychological-damage-from-parental-alienation)
 
 <!-- AA-CROSSLINK-END -->

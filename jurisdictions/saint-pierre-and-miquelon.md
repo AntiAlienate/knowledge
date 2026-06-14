@@ -38,7 +38,7 @@ Saint-Pierrais family-court decisions are anonymised per Court of Appeal practic
 
 - **1763** — Treaty of Paris ceded most of New France to Britain; Saint-Pierre and Miquelon retained by France as the last remaining French jurisdiction in continental North America.
 - **1803** — Louisiana Purchase further reduced French territorial presence in North America; Saint-Pierre and Miquelon's distinctive position reinforced.
-- **1983** — Hague Convention 1980 territorial extension by France to Saint-Pierre-et-Miquelon effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to Saint-Pierre-et-Miquelon effective 1 December 1983.
 - **1985** — Saint-Pierre and Miquelon established as Collectivité territoriale (later COM under 2003 reforms).
 
 ## Structural findings
@@ -70,6 +70,8 @@ Saint-Pierrais family-court decisions are anonymised per Court of Appeal practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

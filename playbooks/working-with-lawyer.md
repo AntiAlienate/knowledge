@@ -132,6 +132,8 @@ Trying to do these yourself, even with research, almost always backfires.
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -157,7 +159,7 @@ Trying to do these yourself, even with research, almost always backfires.
 - [Lawyer Ethics False Documents Parental Alienation Belgium](https://www.antialienate.com/blog/lawyer-ethics-false-documents-parental-alienation-belgium)
 - [Small Town Therapist Lawyer Ethics Parental Alienation](https://www.antialienate.com/blog/small-town-therapist-lawyer-ethics-parental-alienation)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
-- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 
 <!-- AA-CROSSLINK-END -->

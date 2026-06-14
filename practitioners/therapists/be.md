@@ -58,7 +58,7 @@ Belgique francophone · Federation Wallonie-Bruxelles · Reseau associatif droit
 - Colloque SAP (Elzius, Marcq, Gautier, Deleau, Van Dieren, Limet) (2003) — *La Mouette Belgique*
 - Prevention de l'alienation parentale (conference Van Dieren) (2005) — *La Mouette Belgique* — <https://sites.google.com/site/lamouettebelgique/conferences/prevention-de-l-alienation-parentale---par-benoit-van-dieren---mars-2005>
 - L'irreductible resistance au concept d'alienation parentale (Van Gijseghem) (2010) — *La Mouette Belgique* — <http://www.lamouettebelgique.com/articles/psychologie/l-irreductible-resistance-au-concept-d-alienation-parentale---hubert-van-gijseghem>
-- L'alienation parentale et le DSM-5 (2014) — *La Mouette Belgique* — <https://sites.google.com/site/lamouettebelgique/articles/psychologie/l-alienation-parentale-et-le-dsm-5>
+- L'alienation parentale et le [DSM-5](https://www.appi.org/products/dsm) (2014) — *La Mouette Belgique* — <https://sites.google.com/site/lamouettebelgique/articles/psychologie/l-alienation-parentale-et-le-dsm-5>
 
 **Verification:**
 - <http://www.lamouettebelgique.com/>
@@ -456,6 +456,8 @@ Brussel · Vlaamse Gemeenschap · Vlaams Parlement; Vlaamse Gemeenschap; Kinderr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

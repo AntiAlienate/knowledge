@@ -16,7 +16,7 @@ location_tags: [united-states, international, dsm-5, icd-11, diagnostic-criteria
 
 # Bernet, W. (2010) — Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)
 
-> **TL;DR.** William Bernet's edited 2010 volume is the foundational reference for the modern PA diagnostic framework. It established the **5 essential criteria** (all must be present for the diagnosis) that operate as the gatekeeper distinguishing alienation from justified estrangement, and led the multi-year campaign for DSM-5 and ICD-11 inclusion. Co-founder of the [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/), ~1,000+ members across 60+ countries).
+> **TL;DR.** William Bernet's edited 2010 volume is the foundational reference for the modern PA diagnostic framework. It established the **5 essential criteria** (all must be present for the diagnosis) that operate as the gatekeeper distinguishing alienation from justified estrangement, and led the multi-year campaign for [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/) inclusion. Co-founder of the [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/), ~1,000+ members across 60+ countries).
 
 **Maintained by Alan Markson · Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../../LICENSE)
 
@@ -50,7 +50,7 @@ Bernet led the multi-year campaign for explicit PA inclusion in DSM-5 and ICD-11
 
 The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *Psychological Bulletin* meta-analysis subsequently reframed the field at the *behaviors* level (PABs) — a strategic move that survives Daubert challenges in a way that the older "PAS" framing did not.
 
-## Parental Alienation Study Group (PASG)
+## [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 
 Bernet co-founded PASG, an international research consortium with ~1,000+ members across 60+ countries (clinicians, researchers, attorneys, judges). Useful for "PASG consensus position" citations in academic-tone work, less useful for hard legal-evidentiary arguments.
 
@@ -83,6 +83,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

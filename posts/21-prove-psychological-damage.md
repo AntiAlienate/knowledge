@@ -9,7 +9,7 @@
 
 ## The 4-layer evidence stack
 
-### Layer 1 — Clinical signs (Baker's 8 behavioral indicators)
+### Layer 1 — Clinical signs ([Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators)
 
 - Campaign of denigration · weak/borrowed reasons · lack of ambivalence (all-good/all-bad) · independent-thinker phenomenon · reflexive support of alienating parent · absence of guilt · borrowed scenarios · spread to extended family.
 
@@ -44,10 +44,10 @@ A PA-trained clinician identifies these in 10 minutes. A generalist therapist of
 
 ## The clinical anchors
 
-- **DSM-5 V995.51** — Child Psychological Abuse (the diagnostic code)
-- **WHO ICD-11 QE52** — Caregiver-Child Relationship Problem (international)
+- **[DSM-5](https://www.appi.org/products/dsm) V995.51** — Child Psychological Abuse (the diagnostic code)
+- **WHO [ICD-11](https://icd.who.int/) QE52** — Caregiver-Child Relationship Problem (international)
 - **WHO ICD-11 6B41** — Complex PTSD (often co-occurring in alienated children)
-- **Harman, Kruk & Hines (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence with measurable child harm
+- **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence with measurable child harm
 
 ## Why this matters in court
 
@@ -89,6 +89,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

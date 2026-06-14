@@ -67,7 +67,7 @@ Sole custody of all three daughters granted to the father (A.L.) effective 16 Ja
   - First Canadian national-press treatment of the order. Framed the case as the first time a Canadian court had used such firm remedial measures and had explicitly endorsed an out-of-country reunification programme.
 - Family Court Review (2010) — Fidler, B. J., & Bala, N. (2010). 'Children resisting post-separation contact with a parent: Concepts, controversies, and conundrums,' Family Court Review, 48(1), 10–47 — <https://onlinelibrary.wiley.com/doi/10.1111/j.1744-1617.2009.01287.x>
   - The standard Bala-and-Fidler synthesis of the Canadian PA case-law canon; uses L.(A.G.) v D.(K.B.) as the paradigm modern Canadian alienation custody-reversal authority.
-- CanLII Commentary (2024) — Bala, Hunt et al., 'Children Resisting Contact & Parental Alienation: Strategies for Lawyers in High Conflict Parenting Cases' (2024) 2024 CanLIIDocs 921 — <https://www.canlii.org/en/commentary/doc/2024CanLIIDocs921>
+- [CanLII](https://www.canlii.org/) Commentary (2024) — Bala, Hunt et al., 'Children Resisting Contact & Parental Alienation: Strategies for Lawyers in High Conflict Parenting Cases' (2024) 2024 CanLIIDocs 921 — <https://www.canlii.org/en/commentary/doc/2024CanLIIDocs921>
   - Practitioner commentary that continues to cite L.(A.G.) v D.(K.B.) as the leading Ontario alienation-reversal authority fifteen years after the decision.
 - Department of Justice Canada (2020) — Family-Violence Cases — References list (Justice.gc.ca) — <https://www.justice.gc.ca/eng/rp-pr/jr/mapafvc-cbapcvf/references.html>
   - Federal Department of Justice reference list includes L.(A.G.) v D.(K.B.) as a touchpoint in the Canadian family-violence and high-conflict-parenting case-law landscape.
@@ -113,6 +113,8 @@ Sole custody of all three daughters granted to the father (A.L.) effective 16 Ja
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

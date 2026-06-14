@@ -39,7 +39,7 @@ Mahorais family-court decisions are anonymised per Court of Appeal practice usin
 ## Key developments
 
 - **1976** — Mayotte voted in 1974 and 1976 to remain part of France while the rest of the Comoros archipelago achieved independence — Comoros disputes Mayotte's status.
-- **1983** — Hague Convention 1980 territorial extension by France to Mayotte effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to Mayotte effective 1 December 1983.
 - **2009** — Mahorais voted 95.2% in favour of departmental integration in 2009 referendum.
 - **2010** — Federal Ordinance reforming Mayotte's civil-status framework — abolishing Cadi tribunals and providing transitional Mahorais customary-status accommodations.
 - **2011** — Mayotte achieved full DROM status effective 31 March 2011 — most-recent French DROM integration.
@@ -75,6 +75,8 @@ Mahorais family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

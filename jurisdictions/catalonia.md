@@ -59,7 +59,7 @@ Catalan family-court decisions are anonymised per Catalan court practice using i
 - CCCat Book II Persons and Family Article 233-10 strong presumption of joint custody (custòdia compartida) since 2010 is structurally distinctive within European family-law cluster — among strongest joint-custody-presumption frameworks in Europe.
 - 2017 Catalan independence referendum + subsequent Spanish constitutional crisis is structurally distinctive globally — modern EU subnational independence-referendum-vs-constitutional-court conflict.
 - Tribunal Superior de Justícia de Catalunya as apex Catalan-civil-law appellate court is structurally distinctive — only EU subnational apex appellate court for distinct subnational civil-code jurisdiction.
-- Spanish Hague Convention 1980 accession 1987 + Catalan civil-code-specific application framework is structurally distinctive — federal Hague extension binding on subnational civil-code jurisdiction.
+- Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987 + Catalan civil-code-specific application framework is structurally distinctive — federal Hague extension binding on subnational civil-code jurisdiction.
 
 ## See also
 
@@ -85,6 +85,8 @@ Catalan family-court decisions are anonymised per Catalan court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

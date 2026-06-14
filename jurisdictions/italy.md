@@ -13,7 +13,7 @@ Italy carries the European Union's most fully developed statute-and-case-law sta
 
 ## Statutory framework
 
-- **Codice Civile art. 337-ter** — Provvedimenti riguardo ai figli — diritto del minore alla bigenitorialità e responsabilità genitoriale (2013) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-ii/art337ter.html>
+- **[Codice Civile](https://www.brocardi.it/codice-civile/) art. 337-ter** — Provvedimenti riguardo ai figli — diritto del minore alla bigenitorialità e responsabilità genitoriale (2013) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-ii/art337ter.html>
   - Cardine sostanziale dei rimedi 'AP-style' senza nominare la PAS: il giudice adotta i provvedimenti relativi alla prole con esclusivo riferimento all'interesse morale e materiale del minore e al diritto del minore a mantenere un rapporto equilibrato e continuativo con ciascun genitore. È l'aggancio statutario indiretto su cui poggia la giurisprudenza Cassazione 2021–2025 quando ordina al giudice di merito di bilanciare bigenitorialità e rischio di trauma.
 - **Codice Civile art. 337-octies** — Poteri del giudice e ascolto del minore (2013) — <https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-ii/art337octies.html>
   - Disciplina l'ascolto del minore ultradodicenne (e dell'infradodicenne capace di discernimento) e il ricorso a esperti — base normativa cui Cass. 9691/2022 e Cass. 4595/2025 agganciano l'obbligo di ascolto diretto non delegabile al CTU, pena nullità.
@@ -133,6 +133,8 @@ La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -37,7 +37,7 @@ DRC family-court decisions are anonymised per Court of Cassation practice using 
 ## Key developments
 
 - **1987** — Federal Family Code enacted drawing on Belgian civil-law substantive heritage with codification of customary-law marriage provisions.
-- **2009** — Federal Law on Child Protection enacted aligned with UNCRC obligations.
+- **2009** — Federal Law on Child Protection enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2016** — Substantive amendments to Family Code provisions.
 
 ## Structural findings
@@ -69,6 +69,8 @@ DRC family-court decisions are anonymised per Court of Cassation practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

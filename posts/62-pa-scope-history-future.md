@@ -11,7 +11,7 @@
 
 - **~11–15%** of post-divorce families show some parental alienation dynamics (Bernet)
 - **~1–3%** severe ([Harman et al.](https://pubmed.ncbi.nlm.nih.gov/30080055/))
-- Recognized internationally as a form of **family violence** (Harman, Kruk & Hines, 2018, *Psychological Bulletin*)
+- Recognized internationally as a form of **family violence** ([Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2018, *Psychological Bulletin*)
 - Codified clinically: **[DSM-5](https://www.appi.org/products/dsm) V995.51** (Child Psychological Abuse) + **WHO [ICD-11](https://icd.who.int/) QE52** (Caregiver-Child Relationship Problem)
 - Court of Appeal recognition in the UK: **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568
 - Expert testimony framework consolidated in the UK: **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam)
@@ -25,9 +25,9 @@
 | 1985 | Richard Gardner coins **Parental Alienation Syndrome (PAS)** — controversial introduction |
 | 1987–2010 | PAS controversy era; Daubert admissibility battles in US courts |
 | 2007 | Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) publishes *Adult Children of PAS* — first empirical longitudinal foundation |
-| 2010 | Bernet leads DSM-5 inclusion campaign; rejected as standalone diagnosis but related codes (V995.51) included; Brazil enacts world's first national PA-specific statute (Lei 12.318/2010) |
+| 2010 | Bernet leads [DSM-5](https://www.appi.org/products/dsm) inclusion campaign; rejected as standalone diagnosis but related codes (V995.51) included; Brazil enacts world's first national PA-specific statute (Lei 12.318/2010) |
 | 2018 | **Harman, Kruk & Hines** reframe in *Psychological Bulletin* — PA as family violence. The reframe survives Daubert |
-| 2020–2023 | UK *Re S* CoA recognition; WHO ICD-11 QE52 enters force (2022); UK *Re C* expert framework consolidated (2023) |
+| 2020–2023 | UK *Re S* CoA recognition; WHO [ICD-11](https://icd.who.int/) QE52 enters force (2022); UK *Re C* expert framework consolidated (2023) |
 
 ## Why the 2018 reframe matters legally
 
@@ -65,7 +65,7 @@ The vocabulary you have *now* — Harman/Kruk/Hines · DSM-5 V995.51 · ICD-11 Q
 
 - Wallerstein, J. S., & Kelly, J. B. (1980). *Surviving the Breakup: How Children and Parents Cope with Divorce.* Basic Books.
 - Gardner, R. A. (1985). Recent trends in divorce and custody litigation. *Academy Forum, 29*(2), 3–7.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind.* W. W. Norton.
 - Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors: An Unacknowledged Form of Family Violence. *Psychological Bulletin, 144*(12), 1275–1299. [doi:10.1037/bul0000175](https://doi.org/10.1037/bul0000175)
 - DSM-5 V995.51 — Child Psychological Abuse (American Psychiatric Association)
@@ -81,6 +81,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

@@ -85,9 +85,9 @@ The *avocat de l'enfant* under Belgian Civil Code Art. 931 (as reformed by the *
 
 - [AFCC](https://www.afccnet.org/) — Association of Family and Conciliation Courts (GAL practice standards)
 - National Association of Counsel for Children (NACC) — model GAL standards
-- US Children Act 1989; CAFCASS practice direction
+- US [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41); CAFCASS practice direction
 - Belgian Civil Code Art. 931; Loi du 30 juillet 2013 (BE)
-- Australian Family Law Act 1975 s. 68L
+- Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) s. 68L
 - *Troxel v. Granville*, 530 U.S. 57 (2000) — parental rights baseline
 
 ## Disclaimer
@@ -97,6 +97,8 @@ Educational content. **Not legal advice.** Consult licensed family-law counsel i
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

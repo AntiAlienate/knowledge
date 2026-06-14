@@ -133,7 +133,7 @@ Amsterdam · Noord-Holland · Universiteit van Amsterdam (Faculty of Social and 
 *Klinisch psycholoog BIG; psychotherapeut BIG; systeemtherapeut NVRG (opleider); medeoprichter Lorentzhuis Haarlem*
 Haarlem · Noord-Holland · Lorentzhuis (centrum voor systeemtherapie, opleiding en consultatie); Stichting Kinderen uit de Knel; Taos Institute Associate; gastdocent internationale opleidingen
 
-**Stance:** Methodologisch middle: medeontwikkelaar (met Margreet Visser) van Kinderen uit de Knel / No Kids in the Middle, het Nederlandse systeem-therapeutische interventieprogramma voor complexe conflictscheiding dat internationaal is geadopteerd. Verwerpt expliciet de termen 'ouderverstoting' en 'parental alienation' als suggestief van een 'bewust en agressief proces'; hanteert in plaats daarvan 'contactverlies' en 'geblokkeerde ouder-kindrelaties'. In Visser, Van Lawick et al. (Systeemtherapie 2023) 'Geblokkeerde ouder-kindrelaties' geeft zij vanuit het Kinderen uit de Knel-perspectief een kritische bespreking van het PA-construct zonder volledige afwijzing van het fenomeen. Niet PASG-aligned.
+**Stance:** Methodologisch middle: medeontwikkelaar (met Margreet Visser) van Kinderen uit de Knel / No Kids in the Middle, het Nederlandse systeem-therapeutische interventieprogramma voor complexe conflictscheiding dat internationaal is geadopteerd. Verwerpt expliciet de termen 'ouderverstoting' en 'parental alienation' als suggestief van een 'bewust en agressief proces'; hanteert in plaats daarvan 'contactverlies' en 'geblokkeerde ouder-kindrelaties'. In Visser, Van Lawick et al. (Systeemtherapie 2023) 'Geblokkeerde ouder-kindrelaties' geeft zij vanuit het Kinderen uit de Knel-perspectief een kritische bespreking van het PA-construct zonder volledige afwijzing van het fenomeen. Niet [PASG](https://pasg.info/)-aligned.
 
 **Publications:**
 - Kinderen uit de Knel. Een interventie voor gezinnen verwikkeld in een vechtscheiding (met M. Visser) (2014) — *Uitgeverij SWP, Amsterdam* — <https://www.swpbook.com/boeken/46/echtscheiding/2174/kinderen-uit-de-knel>
@@ -452,6 +452,8 @@ Driebergen-Rijsenburg · Utrecht · Onafhankelijke private stichting; samenwerki
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

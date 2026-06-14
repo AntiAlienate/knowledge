@@ -36,7 +36,7 @@ Montserratian family-court decisions are anonymised per ECSC practice using init
 
 ## Key developments
 
-- **1986** — Hague Convention 1980 territorial extension by UK to Montserrat effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Montserrat effective 1 August 1986.
 - **1995** — Volcanic eruptions of 1995-1997 caused substantial displacement and the relocation of capital from Plymouth (now in exclusion zone) to de facto capital at Brades/Little Bay.
 
 ## Structural findings
@@ -69,6 +69,8 @@ Montserratian family-court decisions are anonymised per ECSC practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

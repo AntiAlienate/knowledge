@@ -38,7 +38,7 @@ Mauritian family-court decisions are anonymised per Supreme Court practice using
 
 - **1810** — Mauritius transferred from French to British colonial administration; Civil Code substantive heritage retained with English common-law procedural inheritance.
 - **1968** — Mauritius achieved independence from the United Kingdom; retained JCPC as final appellate court.
-- **1993** — Mauritius acceded to the Hague Convention 1980 effective 1 February 1993 — among earliest African Hague accessions.
+- **1993** — Mauritius acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 1993 — among earliest African Hague accessions.
 - **1994** — Federal Child Protection Act enacted.
 - **2017** — Specialised Family Court established within Supreme Court framework.
 - **2020** — Federal Children's Act enacted codifying best-interests principle, parental responsibility, custody, and children's protection.
@@ -74,6 +74,8 @@ Mauritian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

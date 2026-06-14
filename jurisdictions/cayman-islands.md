@@ -14,7 +14,7 @@ Cayman Islands is a Caribbean common-law British Overseas Territory. Family-law 
 ## Statutory framework
 
 - **Children Law 2003** — Children Law (2003) — <https://www.judicial.ky/>
-  - Federal Children Law drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions.
+  - Federal Children Law drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions.
 - **Matrimonial Causes Law (2005 Revision)** — Matrimonial Causes Law (2005) — <https://www.judicial.ky/>
   - Federal matrimonial-causes statute.
 
@@ -36,7 +36,7 @@ Caymanian family-court decisions are anonymised per Court of Appeal practice usi
 
 ## Key developments
 
-- **1998** — Hague Convention 1980 territorial extension by UK to Cayman Islands effective 1 August 1998.
+- **1998** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Cayman Islands effective 1 August 1998.
 - **2003** — Federal Children Law enacted drawing on English Children Act 1989 model.
 
 ## Structural findings
@@ -69,6 +69,8 @@ Caymanian family-court decisions are anonymised per Court of Appeal practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

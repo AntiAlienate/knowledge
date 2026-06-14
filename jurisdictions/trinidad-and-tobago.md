@@ -39,7 +39,7 @@ Trinidadian family-court decisions are anonymised per Court of Appeal practice u
 ## Key developments
 
 - **1962** — Trinidad and Tobago achieved independence from the United Kingdom; retained Judicial Committee of the Privy Council as final appellate court.
-- **2000** — Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000 — earliest Caribbean accession.
+- **2000** — Trinidad and Tobago acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 September 2000 — earliest Caribbean accession.
 - **2003** — Federal Family Law Act enacted establishing comprehensive family-law framework including Family Court.
 - **2004** — Specialised Family Court established.
 - **2007** — Federal statute regulating allied health professionals including clinical psychology.
@@ -74,6 +74,8 @@ Trinidadian family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

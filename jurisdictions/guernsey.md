@@ -37,7 +37,7 @@ Guernsey family-court decisions are anonymised per Court of Appeal practice usin
 ## Key developments
 
 - **1204** — Guernsey retained by King John of England when Normandy lost to France in 1204 — Norman customary-law substantive heritage retained alongside English common-law procedural inheritance.
-- **1986** — Hague Convention 1980 territorial extension by UK to Guernsey effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Guernsey effective 1 August 1986.
 - **2008** — Federal Children Law enacted in Guernsey and Alderney.
 
 ## Structural findings
@@ -73,6 +73,8 @@ Guernsey family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

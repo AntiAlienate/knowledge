@@ -40,7 +40,7 @@ Kosovar family-court decisions are anonymised per Supreme Court practice using i
 
 - **2004** — Federal Family Law enacted under UNMIK administration drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms.
 - **2008** — Kosovo declared independence; Constitution adopted with direct ECHR application (art. 22).
-- **2019** — Federal Law on Child Protection enacted aligned with UNCRC obligations.
+- **2019** — Federal Law on Child Protection enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -74,6 +74,8 @@ Kosovar family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

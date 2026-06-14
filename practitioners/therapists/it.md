@@ -25,7 +25,7 @@ L'autorita regolatoria della professione psicologica e il Consiglio Nazionale de
 *Avvocato; psicologo; psicoterapeuta; gia Professore Ordinario di Psicologia Giuridica, Universita degli Studi di Torino; fondatore della Scuola di Specializzazione in Psicologia Giuridica e Forense*
 Torino · Piemonte · Universita degli Studi di Torino (Dipartimento di Psicologia, emerito); Studio Gulotta (Milano/Torino); Scuola Gulotta di Psicologia Giuridica e Forense
 
-**Stance:** Voce italiana fondativa del campo del riconoscimento della PAS. Autore del *Compendio di psicologia giuridica e psicopatologia forense* (Giuffre, ed. ricorrenti dal 2000) — il manuale di riferimento delle Scuole di Specializzazione italiane in psicologia giuridica — che include trattazione del costrutto della PAS in chiave clinico-forense. Co-autore di *La sindrome da alienazione genitoriale (PAS): lavaggio del cervello e programmazione dei figli in danno dell'altro genitore* (Giuffre, 2008, con Alessandra Cavedon e Moira Liberatore), prima monografia italiana dedicata al costrutto. Posizione: PASG-aligned classico, riferimento per la scuola torinese di psicologia forense.
+**Stance:** Voce italiana fondativa del campo del riconoscimento della PAS. Autore del *Compendio di psicologia giuridica e psicopatologia forense* (Giuffre, ed. ricorrenti dal 2000) — il manuale di riferimento delle Scuole di Specializzazione italiane in psicologia giuridica — che include trattazione del costrutto della PAS in chiave clinico-forense. Co-autore di *La sindrome da alienazione genitoriale (PAS): lavaggio del cervello e programmazione dei figli in danno dell'altro genitore* (Giuffre, 2008, con Alessandra Cavedon e Moira Liberatore), prima monografia italiana dedicata al costrutto. Posizione: [PASG](https://pasg.info/)-aligned classico, riferimento per la scuola torinese di psicologia forense.
 
 **Publications:**
 - Compendio di psicologia giuridica e psicopatologia forense (2011) — *Giuffre Editore (varie edizioni; ed. ampliata 2011)*
@@ -146,7 +146,7 @@ Roma · Lazio · LUMSA Universita di Roma; Sapienza (affiliazione di ricerca); C
 *Professore Ordinario di Psicologia Clinica, Universita G. d'Annunzio Chieti-Pescara; psicologa e psicoterapeuta; membro PASG ([Parental Alienation Study Group](https://pasg.info/))*
 Chieti-Pescara · Abruzzo · Universita degli Studi G. d'Annunzio Chieti-Pescara, Dipartimento di Scienze Psicologiche, della Salute e del Territorio; AIPG Associazione Italiana di Psicologia Giuridica
 
-**Stance:** Voce italiana PASG-aligned (Parental Alienation Study Group). Prima autrice italiana di studio empirico peer-reviewed su esiti di salute mentale in adulti che riferiscono storia di alienazione genitoriale, in coautoria con Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation): Baker & Verrocchio (2013) 'Italian college students' recollections of parental alienation', *Children and Youth Services Review*. Co-autrice con Daniela Marchetti di *L'intervento nei casi di alienazione genitoriale*. Profilo su sito AIPG.
+**Stance:** Voce italiana PASG-aligned ([Parental Alienation Study Group](https://pasg.info/)). Prima autrice italiana di studio empirico peer-reviewed su esiti di salute mentale in adulti che riferiscono storia di alienazione genitoriale, in coautoria con Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation): [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) 'Italian college students' recollections of parental alienation', *Children and Youth Services Review*. Co-autrice con Daniela Marchetti di *L'intervento nei casi di alienazione genitoriale*. Profilo su sito AIPG.
 
 **Publications:**
 - Italian college students' recollections of parental alienation (2013) — *Children and Youth Services Review (con A. J. L. Baker)*
@@ -455,6 +455,8 @@ Strasburgo (sede CoE) · Internazionale - cross-jurisdictional · Consiglio d'Eu
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

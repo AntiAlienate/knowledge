@@ -42,7 +42,7 @@ TAAF decisions are anonymised per Court of Appeal practice using initials.
 - **1924** — France formally claimed Adélie Land via decree of 27 March 1924.
 - **1955** — Federal Law of 6 August 1955 establishing TAAF as a French overseas territory with sui generis administrative status comprising five districts.
 - **1959** — Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — TAAF Adélie Land claim suspended pending Treaty term.
-- **1983** — Hague Convention 1980 territorial extension by France to TAAF effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to TAAF effective 1 December 1983.
 - **2007** — Scattered Islands (Îles Éparses) — Bassas da India, Europa, Glorioso, Juan de Nova, Tromelin — added as fifth district of TAAF by Loi 2007-224 of 21 February 2007.
 
 ## Structural findings
@@ -80,6 +80,8 @@ TAAF decisions are anonymised per Court of Appeal practice using initials.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

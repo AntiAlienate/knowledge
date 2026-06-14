@@ -11,8 +11,8 @@
 
 | Code | Title |
 |---|---|
-| **DSM-5 V300.19** | Factitious Disorder Imposed on Another (formerly Munchausen by Proxy) |
-| **WHO ICD-11 6D52** | Caregiver-Fabricated Illness in a Child |
+| **[DSM-5](https://www.appi.org/products/dsm) V300.19** | Factitious Disorder Imposed on Another (formerly Munchausen by Proxy) |
+| **WHO [ICD-11](https://icd.who.int/) 6D52** | Caregiver-Fabricated Illness in a Child |
 | **DSM-5 V995.51** | Child Psychological Abuse (broader frame) |
 
 ## The pattern in PA cases
@@ -115,6 +115,8 @@ Educational content. **Not clinical or legal advice.**
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -144,8 +146,8 @@ Educational content. **Not clinical or legal advice.**
 
 - [Munchausen By Proxy And Parental Alienation The Dangerous Overlap](https://www.antialienate.com/blog/munchausen-by-proxy-and-parental-alienation-the-dangerous-overlap)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
-- [Medical Child Abuse When Alienators Recruit Healthcare Providers](https://www.antialienate.com/blog/medical-child-abuse-when-alienators-recruit-healthcare-providers)
 - [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
 - [Narcissistic Personality Disorder Parental Alienation Connection](https://www.antialienate.com/blog/narcissistic-personality-disorder-parental-alienation-connection)
+- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
 
 <!-- AA-CROSSLINK-END -->

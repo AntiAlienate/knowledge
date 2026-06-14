@@ -19,7 +19,7 @@ Australian Antarctic Territory (AAT) is an Antarctic common-law Australian exter
   - Federal Act of 1954 establishing AAT governance framework — Australian Capital Territory law applied with local modifications.
 - **Antarctic Treaty 1959 (article IV claim suspension)** — Antarctic Treaty (1959) — <https://www.ats.aq/>
   - International treaty providing for Antarctic claim suspension under article IV — AAT claim suspended pending Treaty term.
-- **Family Law Act 1975 (Cth) (applicable in AAT)** — Family Law Act 1975 (1975) — <https://www.legislation.gov.au/>
+- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) (applicable in AAT)** — Family Law Act 1975 (1975) — <https://www.legislation.gov.au/>
   - Australian Federal Family Law Act applicable in AAT for parental responsibility and child custody — theoretical given absence of permanent civilian population.
 
 ## Apex courts
@@ -43,7 +43,7 @@ AAT decisions are anonymised per Federal Circuit and Family Court of Australia p
 - **1933** — Federal Act of 1933 accepting UK transfer of AAT sovereignty to Australia effective 24 August 1936.
 - **1954** — Federal Act of 1954 establishing AAT governance framework with Australian Capital Territory law applied with local modifications.
 - **1959** — Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — AAT claim suspended pending Treaty term.
-- **1987** — Hague Convention 1980 territorial extension by Australia to AAT effective 1 January 1987.
+- **1987** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Australia to AAT effective 1 January 1987.
 
 ## Structural findings
 
@@ -79,6 +79,8 @@ AAT decisions are anonymised per Federal Circuit and Family Court of Australia p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -43,8 +43,8 @@ Costa Rican family-court decisions are anonymised per Supreme Court practice usi
 - **1973** — Federal Family Code enacted — among earlier comprehensive Latin American Family Codes.
 - **1977** — Federal statute establishing Colegio de Profesionales en Psicología — among earliest Latin American statutory psychology regulation.
 - **1997** — Substantive reform of Family Code provisions.
-- **1998** — Federal Code enacted codifying superior-interest principle aligned with UNCRC.
-- **1999** — Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999.
+- **1998** — Federal Code enacted codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child).
+- **1999** — Costa Rica acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 1999.
 - **2001** — Federal statute on responsible parenthood and paternity establishment — structurally distinctive Latin American codification.
 
 ## Structural findings
@@ -76,6 +76,8 @@ Costa Rican family-court decisions are anonymised per Supreme Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

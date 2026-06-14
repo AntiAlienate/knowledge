@@ -56,7 +56,7 @@ Corsican family-court decisions are anonymised per Court of Appeal practice usin
 - Statut de la Collectivité de Corse 2002 limited legislative-experimentation powers under Article 72 is structurally distinctive — only French metropolitan territory with such legislative-experimentation framework.
 - Arrêtés Miot 1801 fiscal-succession framework (preserved from Genoese Statutes 1571) abolished only 2018 is structurally distinctive globally — most recent abolition of a 19th-century special fiscal framework in metropolitan France, ~217-year preservation period.
 - FLNC 1976-2014 armed independence-movement framework is structurally distinctive globally — only major contemporary metropolitan-European armed independence movement subject to formal unilateral dissolution.
-- French Hague Convention 1980 accession 1983 + Corsican civil-law framework intersection is structurally distinctive.
+- French [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983 + Corsican civil-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -84,6 +84,8 @@ Corsican family-court decisions are anonymised per Court of Appeal practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -15,7 +15,7 @@ Regional aggregate jurisdiction covering Asian PA-construct landscape. Asian com
 
 - **[UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) art. 3 + art. 9** — UN CRC — children's rights paramountcy + contact with both parents (1989) — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
   - All Asian constituent jurisdictions are CRC parties. Art. 3 best-interests paramountcy + Art. 9(3) right to maintain contact with both parents operationalised in national legislation.
-- **[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on Civil Aspects of International Child Abduction** — Hague Convention 1980 — Asia accession patterns (1980) — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
+- **[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on Civil Aspects of International Child Abduction** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) — Asia accession patterns (1980) — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
   - Japan acceded 2014; Singapore 2010; Hong Kong (via UK) 1996; India NOT acceded. Asian Hague-accession patterns intersect with PA-adjacent cross-border parental-removal cases.
 
 ## Apex courts
@@ -42,7 +42,7 @@ Anonymisation conventions vary by constituent jurisdiction. See per-country side
 
 ## Key developments
 
-- **1989** — UN Convention on the Rights of the Child — ratified by all four Asian constituent jurisdictions. — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+- **1989** — [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) — ratified by all four Asian constituent jurisdictions. — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 - **2017** — 13 February 2017 — Vivek Singh v Romani Singh (2017) 3 SCC 231 (India Supreme Court) apex PAS-defining decision. — <https://main.sci.gov.in/judgments>
 - **2020** — 23 November 2020 — TEN v TEO [2020] SGHCF 20 (Singapore HC Family Division, Debbie Ong J) leading SG authority on alienating behaviour. — <https://www.judiciary.gov.sg/>
 - **2021** — 24 May 2021 — H v W [2021] HKCA 733 (Hong Kong Court of Appeal, Lam VP + Yuen JA + B Chu J) post-pandemic relocation authority. — <https://www.hklii.hk/>
@@ -127,6 +127,8 @@ Anonymisation conventions vary by constituent jurisdiction. See per-country side
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -154,9 +156,9 @@ Anonymisation conventions vary by constituent jurisdiction. See per-country side
 
 ## Related on antialienate.com
 
-- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [International Custody Battles Your Rights](https://www.antialienate.com/blog/international-custody-battles-your-rights)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
 

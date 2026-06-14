@@ -41,7 +41,7 @@ Pakistani family-court decisions are anonymised per Supreme Court practice using
 - **1890** — Federal custody/guardianship statute originally enacted under British India.
 - **1961** — Federal Muslim personal-status reform statute.
 - **1964** — Specialised Family Courts established.
-- **2017** — Pakistan acceded to the Hague Convention 1980 effective 1 March 2017.
+- **2017** — Pakistan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2017.
 
 ## Structural findings
 
@@ -72,6 +72,8 @@ Pakistani family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

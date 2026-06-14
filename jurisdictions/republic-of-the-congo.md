@@ -37,8 +37,8 @@ Congolese family-court decisions are anonymised per Supreme Court practice using
 ## Key developments
 
 - **1984** — Federal Family Code enacted drawing on French civil-law substantive heritage with codification of customary-law marriage provisions.
-- **2009** — Republic of the Congo acceded to the Hague Convention 1980 effective 1 March 2009.
-- **2010** — Federal Law on Child Protection enacted aligned with UNCRC obligations.
+- **2009** — Republic of the Congo acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2009.
+- **2010** — Federal Law on Child Protection enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -69,6 +69,8 @@ Congolese family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

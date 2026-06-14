@@ -13,12 +13,12 @@ United Kingdom umbrella jurisdiction covering all four constituent jurisdictions
 
 ## Statutory framework
 
-- **Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995** — UK constituent children-law statutes (1995) — <https://www.legislation.gov.uk/>
+- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995** — UK constituent children-law statutes (1995) — <https://www.legislation.gov.uk/>
   - Each UK constituent jurisdiction operates distinct substantive children-law architecture. See per-constituent sidecars: jurisdiction:england-and-wales + jurisdiction:scotland + jurisdiction:northern-ireland + jurisdiction:wales.
-- **Health and Social Care Act 2008 (HCPC regulator framework)** — Health and Social Care Act 2008 — HCPC UK-wide statutory framework (2008) — <https://www.legislation.gov.uk/ukpga/2008/14>
+- **Health and Social Care Act 2008 ([HCPC](https://www.hcpc-uk.org/) regulator framework)** — Health and Social Care Act 2008 — HCPC UK-wide statutory framework (2008) — <https://www.legislation.gov.uk/ukpga/2008/14>
   - Statutory framework for the Health and Care Professions Council (HCPC) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide.
-- **[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6)** — Children and Families Act 2014 — [Cafcass](https://www.cafcass.gov.uk/) framework + family-court reforms (2014) — <https://www.legislation.gov.uk/ukpga/2014/6>
-  - UK-wide statutory framework reforming family-court procedure and establishing Cafcass operational mandate (E&W); Cafcass Cymru is devolved Welsh Government equivalent.
+- **[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6)** — [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) — [Cafcass](https://www.cafcass.gov.uk/) framework + family-court reforms (2014) — <https://www.legislation.gov.uk/ukpga/2014/6>
+  - UK-wide statutory framework reforming family-court procedure and establishing [Cafcass](https://www.cafcass.gov.uk/) operational mandate (E&W); Cafcass Cymru is devolved Welsh Government equivalent.
 
 ## Apex courts
 
@@ -34,7 +34,7 @@ United Kingdom umbrella jurisdiction covering all four constituent jurisdictions
 
 - **Health and Care Professions Council (HCPC) — UK-wide statutory regulator** — UK-wide statutory regulator for practitioner psychologists and allied health professions under Health and Social Care Act 2008. Applies in all four UK jurisdictions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide. — <https://www.hcpc-uk.org/>
 - **General Medical Council (GMC) — UK-wide medical regulator** — UK-wide statutory regulator for medical practitioners including psychiatrists. Applies in all four UK jurisdictions. No UK-wide PA-specific position. — <https://www.gmc-uk.org/>
-- **British Psychological Society (BPS) — UK-wide voluntary** — UK-wide voluntary professional society. Operates Scottish + NI + Wales branches alongside England. No UK-wide PA-specific position. — <https://www.bps.org.uk/>
+- **British Psychological Society ([BPS](https://www.bps.org.uk/)) — UK-wide voluntary** — UK-wide voluntary professional society. Operates Scottish + NI + Wales branches alongside England. No UK-wide PA-specific position. — <https://www.bps.org.uk/>
 - **Royal College of Psychiatrists — UK-wide voluntary** — UK-wide voluntary professional body of psychiatrists. [ICD-11](https://icd.who.int/) caregiver-child relationship problem (QE52.0) coding is available without committing the College to a PA position. — <https://www.rcpsych.ac.uk/>
 
 ## Anonymisation convention
@@ -86,6 +86,8 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

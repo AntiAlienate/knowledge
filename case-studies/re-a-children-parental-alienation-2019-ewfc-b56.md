@@ -21,7 +21,7 @@ By the time of the judgment, the case had reached the stage where the court had 
 - Multiple attempts at re-establishing contact had failed
 - A residence transfer to the father had been ordered and attempted but had collapsed because the children's resistance had been underestimated and the transition had been poorly planned
 - The school the children attended had not been adequately briefed or involved in the transfer
-- Cafcass, the local authority, the courts and therapeutic services had all failed to identify the alienation early enough to intervene effectively
+- [Cafcass](https://www.cafcass.gov.uk/), the local authority, the courts and therapeutic services had all failed to identify the alienation early enough to intervene effectively
 - By the time of the judgment, the practical options had largely been exhausted
 
 ## Procedural posture
@@ -74,6 +74,8 @@ For affected parents, the brutal honesty of the judgment – the judge effective
 - [Family Law Week update](https://www.familylawweek.co.uk/site.aspx?i=ed199793)
 - [Sam King QC & Frankie Shama practitioner guide (free chapter)](https://www.lawbriefpublishing.com/2022/07/free-chapter-from-a-practical-guide-to-parental-alienation-in-private-and-public-law-children-cases-by-sam-king-qc-frankie-shama/)
 - [Karen Woodall – "Responding to cases of post-separation parental rejection" (2021)](https://s70fa8a3935caf190.jimcontent.com/download/version/1726402616/module/8172817981/name/Woodall%20N%20(2021)%20The%20alienated%20child%20Responding%20to%20cases%20of%20post%20separation%20parental%20rejection%20c.pdf)
+
+
 
 
 

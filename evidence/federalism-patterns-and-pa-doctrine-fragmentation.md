@@ -47,7 +47,7 @@ Jurisdictions with unified family-law architecture without significant federalis
 
 **Netherlands** — Unified Burgerlijk Wetboek + Jeugdwet (Jeugdwet 2015 decentralises jeugdhulp to gemeenten — operational not substantive fragmentation). Cross-link: jurisdiction:netherlands.
 
-**Belgium** — Federal Code civil + community-linguistic operational variation (Vlaamse Gemeenschap Opgroeien Decreet vs Communauté française FWB Code de l'aide à la jeunesse 2018). Cross-link: jurisdiction:belgium.
+**Belgium** — Federal [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) + community-linguistic operational variation (Vlaamse Gemeenschap Opgroeien Decreet vs Communauté française FWB Code de l'aide à la jeunesse 2018). Cross-link: jurisdiction:belgium.
 
 **Singapore** — Unitary unified Women's Charter Part VII + Family Justice Courts. Cross-link: jurisdiction:singapore.
 
@@ -68,7 +68,7 @@ Jurisdictions with unified family-law architecture without significant federalis
 ## Structural observations
 
 ### 1. US maximum federal fragmentation distinctive
-The US 50-state fragmentation pattern is structurally distinctive in the corpus. No federal family-court jurisdiction; no federal substantive family-law statute (excepting ICWA + ICARA Hague-implementation); no federal psychology regulator (50+ state boards). The fragmentation produces a distinctively diverse but doctrinally heterogeneous PA-jurisprudence base. **[AFCC](https://www.afccnet.org/) Model Standards** function as the de facto national US practice standard absent a federal regulator — the closest US analogue to federal harmonisation.
+The US 50-state fragmentation pattern is structurally distinctive in the corpus. No federal family-court jurisdiction; no federal substantive family-law statute (excepting ICWA + [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) Hague-implementation); no federal psychology regulator (50+ state boards). The fragmentation produces a distinctively diverse but doctrinally heterogeneous PA-jurisprudence base. **[AFCC](https://www.afccnet.org/) Model Standards** function as the de facto national US practice standard absent a federal regulator — the closest US analogue to federal harmonisation.
 
 ### 2. Mexico 32-state CC + apex SCJN unified doctrine
 Mexico's pattern — 32 state Civil Codes + federal apex SCJN constitutional precedent — produces **federalismo descentralizado + doctrina apex unificada**. SCJN AI 11/2016 + AI 74/2024 systematically deactivate state-legislative pro-AP automaticidad sanctions through constitutional filter while preserving state-substantive flexibility on AP-figura recognition. Distinctive model balancing federal-apex unification + state-substantive variation.
@@ -77,13 +77,13 @@ Mexico's pattern — 32 state Civil Codes + federal apex SCJN constitutional pre
 Nigeria's triple-track architecture (statutory federal Child Rights Act 2003 + state-level customary + 12-state Sharia) produces the corpus's MOST COMPLEX multi-track family-law architecture. 27 of 36 states have adopted the federal Child Rights Act; 9 northern states operate customary or Sharia frameworks. Adoption variation is structurally defining.
 
 ### 4. Australia federal-unitary blend distinctive
-Australia's federal Family Law Act 1975 + FCFCOA federal forum + AHPRA federal regulator + Schedule 2 federal-statutory unification produces a distinctive federal-unitary blend. FCFCOA single-expert witness regime (FRW pool) operates federal-unitary in concert. Distinct from US 50-state fragmentation despite shared common-law tradition.
+Australia's federal [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + FCFCOA federal forum + AHPRA federal regulator + Schedule 2 federal-statutory unification produces a distinctive federal-unitary blend. FCFCOA single-expert witness regime (FRW pool) operates federal-unitary in concert. Distinct from US 50-state fragmentation despite shared common-law tradition.
 
 ### 5. Canada provincial-college fragmentation absent national regulator
-Canada's provincial-college regulator fragmentation (CPO + OPQ + CPBA-BC + CAP + provincial social-work colleges) produces no single national-level credentialing test for PA evaluators. Bill C-78 federal statutory unification + provincial-regulator fragmentation operate at different layers. Quebec civil-law tradition adds tradition-fragmentation alongside federalism-fragmentation.
+Canada's provincial-college regulator fragmentation (CPO + OPQ + CPBA-BC + CAP + provincial social-work colleges) produces no single national-level credentialing test for PA evaluators. [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) federal statutory unification + provincial-regulator fragmentation operate at different layers. Quebec civil-law tradition adds tradition-fragmentation alongside federalism-fragmentation.
 
 ### 6. UK 4-constituent jurisdiction distinctive
-UK 4-constituent jurisdiction (E&W + Scotland + NI + Wales-as-institutional-sub-jurisdiction) operates distinct substantive children-law per constituent while unified at UKSC apex appellate level. Re Y EWFC 38 (formally E&W) operates UK-wide via HCPC statutory framework — federal-unitary reach within constituent-jurisdictional substantive variation. **HCPC statutory framework** is the principal UK-wide regulator-unification vehicle.
+UK 4-constituent jurisdiction (E&W + Scotland + NI + Wales-as-institutional-sub-jurisdiction) operates distinct substantive children-law per constituent while unified at UKSC apex appellate level. Re Y EWFC 38 (formally E&W) operates UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework — federal-unitary reach within constituent-jurisdictional substantive variation. **HCPC statutory framework** is the principal UK-wide regulator-unification vehicle.
 
 ### 7. Indian personal-law fragmentation alongside federalism
 India operates federal + personal-law fragmentation simultaneously. Federal HMA + HMGA apply to Hindus; parallel Muslim/Christian/Parsi/Special Marriage Act personal-law statutes operate for other communities. Personal-law fragmentation adds doctrinal complexity alongside federal-state-level variation. Vivek Singh 2017 SC operates unification at Supreme Court apex; Delhi HC binomial (ABC v XYZ + A v B) operates at state-level appellate.
@@ -99,7 +99,7 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 | **Mexico** | Federal apex + 32 state CC | CC Federal supletorio | 32 state Códigos Civiles | NO federal psy regulator | state-level colegios |
 | **Nigeria** | TRIPLE-TRACK | Child Rights Act 2003 (27/36 states adopted) | state customary + Sharia | MDCN psychiatry | NACP+NPA voluntary |
 | **Australia** | Federal-unitary blend | FLA 1975 (Cth) + Sch 2 reform | provincial parallel | AHPRA + PsyBA federal | nil |
-| **Canada** | Federal + provincial | Bill C-78 Divorce Act | provincial CLRA/CCQ/FLA | CPA voluntary | CPO/OPQ/CPBA-BC/CAP |
+| **Canada** | Federal + provincial | Bill C-78 [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) | provincial CLRA/CCQ/FLA | CPA voluntary | CPO/OPQ/CPBA-BC/CAP |
 | **Brazil** | Federal-unified | Lei 12.318/2010 + ECA | state operational variation | CFP + CFESS federal | CRP/CRESS regional |
 | **Argentina** | Federal + provincial colegios | CCyC 2014 + leyes federales | provincial procedural | FePRA + AAPS | 7 provincial Colegios |
 | **India** | Federal + personal-law | HMA + HMGA + FCA 1984 + GWA | state operational | RCI + NMC + IPS + IAPP | state institutional |
@@ -128,6 +128,8 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md*
+
+
 
 
 

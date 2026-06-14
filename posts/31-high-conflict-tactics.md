@@ -78,7 +78,7 @@ Each tactic individually looks defensible. Strung together, they form a recogniz
 
 ## Citations
 
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin*, 144(12), 1275–1299.
 - *Solarino v. Italy*, App. no. 76171/13, ECHR 2017
 - *Re C (Parental Alienation; Instruction of Expert)* [2023] EWHC 345 (Fam)
@@ -91,6 +91,8 @@ Educational content. **Not legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

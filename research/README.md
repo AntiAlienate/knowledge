@@ -24,7 +24,7 @@ Curated references to foundational and current research on parental alienation, 
 
 ## Custody framework research
 
-- **Warshak 2014 consensus on 50/50 custody** — [PDF](https://www.5thjudicialdistrict.com/wp-content/uploads/family-court/family-court-services/14-2014WarshakConsensusAttachment.pdf). 110-signatory peer-reviewed consensus on shared parenting outcomes.
+- **[Warshak](https://warshak.com/family-bridges/) 2014 consensus on 50/50 custody** — [PDF](https://www.5thjudicialdistrict.com/wp-content/uploads/family-court/family-court-services/14-2014WarshakConsensusAttachment.pdf). 110-signatory peer-reviewed consensus on shared parenting outcomes.
 - **Edward Kruk — *The Equal Parent Presumption*** (McGill-Queen's University Press, 2013). Foundational academic case for the 50/50 presumption.
 
 ## Parental-alienation literature
@@ -43,7 +43,7 @@ Curated references to foundational and current research on parental alienation, 
 
 ## Statutory anchors
 
-- **ICD-11 QE52.2** (WHO, in force 2022) — *Caregiver-child relationship problem*. The clinical code that names the dynamic.
+- **[ICD-11](https://icd.who.int/) QE52.2** (WHO, in force 2022) — *Caregiver-child relationship problem*. The clinical code that names the dynamic.
 - **[DSM-5-TR](https://www.appi.org/products/dsm)** (APA, 2022) — includes *Child affected by parental relationship distress* (V61.29).
 
 ## Verified upstream publishers
@@ -57,6 +57,8 @@ This page is a reference index, not clinical or legal advice. Foundational paper
 ---
 
 — Curated by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

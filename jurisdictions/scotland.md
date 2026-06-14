@@ -46,8 +46,8 @@ Scotland is a mixed civil-common (Scottish hybrid) jurisdiction whose family cou
 
 ## Professional regulators
 
-- **British Psychological Society — Scottish branches / Division of Forensic Psychology** — [BPS](https://www.bps.org.uk/) operates UK-wide (Scotland is served via BPS Scottish branches and the UK-wide Division of Forensic Psychology); there is no Scotland-specific PA position statement. BPS guidance on expert evidence and the use of contested constructs applies in Scotland by extension. — <https://www.bps.org.uk/>
-- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — HCPC is the UK-wide statutory regulator for practitioner psychologists and allied health professions; fitness-to-practise standards apply in Scotland as elsewhere in the UK. HCPC has issued no Scotland-specific PA position. — <https://www.hcpc-uk.org/>
+- **British Psychological Society — Scottish branches / Division of Forensic Psychology** — [BPS](https://www.bps.org.uk/) operates UK-wide (Scotland is served via [BPS](https://www.bps.org.uk/) Scottish branches and the UK-wide Division of Forensic Psychology); there is no Scotland-specific PA position statement. BPS guidance on expert evidence and the use of contested constructs applies in Scotland by extension. — <https://www.bps.org.uk/>
+- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — [HCPC](https://www.hcpc-uk.org/) is the UK-wide statutory regulator for practitioner psychologists and allied health professions; fitness-to-practise standards apply in Scotland as elsewhere in the UK. HCPC has issued no Scotland-specific PA position. — <https://www.hcpc-uk.org/>
 - **Royal College of Psychiatrists in Scotland** — Scottish division of the Royal College of Psychiatrists; no published Scotland-specific position statement on parental alienation as a diagnostic construct. [ICD-11](https://icd.who.int/) caregiver-child relationship problem (QE52.0) coding is available without committing the College to a PA position. — <https://www.rcpsych.ac.uk/about-us/our-locations/scotland>
 - **Social Work Scotland** — Scottish national body for social work leadership; the relevant statutory regulator for individual social workers is the Scottish Social Services Council (SSSC). No Scotland-specific PA position statement identified; safeguarding and welfare standards apply through the Children (Scotland) Act 1995 / 2020 frame. — <https://socialworkscotland.org/>
 
@@ -93,13 +93,13 @@ Court of Session anonymises children by initial; NF v AF uses 2-letter party ini
 2. **Scottish Courts and Tribunals Service — judicial.scot** — <https://www.judiciary.scot/> (Judiciary of Scotland) [en]
 3. **Faculty of Advocates** — <https://www.advocates.org.uk/> (Faculty of Advocates) [en]
 4. **Law Society of Scotland** — <https://www.lawscot.org.uk/> (Law Society of Scotland) [en]
-5. **BAILII — Scottish jurisdictions (Court of Session, High Court of Justiciary, Sheriff Courts)** — <https://www.bailii.org/scot/> (British and Irish Legal Information Institute) [en]
+5. **[BAILII](https://www.bailii.org/) — Scottish jurisdictions (Court of Session, High Court of Justiciary, Sheriff Courts)** — <https://www.bailii.org/scot/> (British and Irish Legal Information Institute) [en]
 6. **Scottish Government — family law and children** — <https://www.gov.scot/policies/families/> (Scottish Government) [en]
 7. **Shared Parenting Scotland** — <https://sharedparenting.scot/> (Shared Parenting Scotland) [en]
 8. **Scottish Women's Aid** — <https://womensaid.scot/> (Scottish Women's Aid) [en]
 9. **Engender — Scotland's feminist policy and advocacy organisation** — <https://www.engender.org.uk/> (Engender) [en]
 10. **Children (Scotland) Act 1995 (consolidated)** — <https://www.legislation.gov.uk/ukpga/1995/36/contents> (UK Government / [legislation.gov.uk](https://www.legislation.gov.uk/)) [en]
-11. **Children (Scotland) Act 2020** — <https://www.legislation.gov.uk/asp/2020/16/contents> (Scottish Government / legislation.gov.uk) [en]
+11. **Children (Scotland) Act 2020** — <https://www.legislation.gov.uk/asp/2020/16/contents> (Scottish Government / [legislation.gov.uk](https://www.legislation.gov.uk/)) [en]
 12. **Domestic Abuse (Scotland) Act 2018** — <https://www.legislation.gov.uk/asp/2018/5/contents> (Scottish Government / legislation.gov.uk) [en]
 
 ## Editorial notes
@@ -114,6 +114,8 @@ Court of Session anonymises children by initial; NF v AF uses 2-letter party ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

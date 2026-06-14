@@ -65,7 +65,7 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 - Central jurisdiction of McGirt v Oklahoma 2020 + Castro-Huerta v Oklahoma 2022 landmark jurisprudence is structurally distinctive globally — only modern apex international-court jurisprudence recognising historical Indian-Country status across multi-jurisdictional state framework.
 - Cherokee Nation Constitution 1827 as first Indian tribal written constitution modelled on US Constitution is structurally distinctive globally.
 - Trail of Tears 1838-1839 forced-relocation framework is structurally distinctive globally — foundational forced-population-removal precedent in US history.
-- Federal US Hague Convention 1980 + ICWA + Cherokee Nation tribal framework intersection is structurally distinctive.
+- Federal US [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + ICWA + Cherokee Nation tribal framework intersection is structurally distinctive.
 
 ## See also
 
@@ -89,6 +89,8 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

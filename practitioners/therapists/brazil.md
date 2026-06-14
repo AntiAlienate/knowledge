@@ -114,7 +114,7 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
   - *Psicologia Judiciária para a Carreira da Magistratura*
   - Co-edits *Revista Alienação Parental*
 - **Primary contact:** Via INPSI Porto Alegre https://www.inpsi.com.br/fernanda-molinari/ ; FMP-RS institutional channel
-- **Hook:** The procedural / mediation-first wing of the BR recognition camp. Useful counterweight to the polemic-style PASG-aligned voices; her SBPJ presidency makes her the single most institutionally connected RS-base PA recognition clinician.
+- **Hook:** The procedural / mediation-first wing of the BR recognition camp. Useful counterweight to the polemic-style [PASG](https://pasg.info/)-aligned voices; her SBPJ presidency makes her the single most institutionally connected RS-base PA recognition clinician.
 
 ### 6. Dra Sandra Baccara Araújo (CRP-01)
 - **Country / city:** BR / Brasília, DF
@@ -213,7 +213,7 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
   - Sousa & Torraca (2010) — canonical BR critique-camp peer-reviewed paper on Lei 12.318/2010
   - *Se-pa-ran-do* (Relume-Dumará / UERJ, 1993)
   - *Temas de Psicologia Jurídica* (2ª ed. 2002)
-  - 1,700+ Google Scholar citations
+  - 1,700+ [Google Scholar](https://scholar.google.com/) citations
 - **Primary contact:** UERJ Instituto de Psicologia (retired faculty channel)
 - **Hook:** Single most-cited BR psicóloga jurídica academic on the critique side. Her 2010 SciELO paper is the canonical Portuguese-language scholarly source on why Gardner does not transplant to Brazil.
 
@@ -309,6 +309,8 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 6. **CRP numbers are systematically under-published in BR.** Only Calçada (CRP 05/18785), Lobo Ribeiro (CREMESP 114681) and Karam Trindade (CRP 06/205826) display registry numbers publicly. Direct CRP regional lookup will be needed for outreach verification on the other 11 entries.
 
 7. **PL 1.372/2023 (full revocation) passing CCJ 37-28 in Dec 2025 has materially raised stakes** — the recognition camp is now openly fighting to preserve LAP at the Plenário level; this directory should expect significant churn (new publications, public letters, institutional repositionings) through 2026.
+
+
 
 
 

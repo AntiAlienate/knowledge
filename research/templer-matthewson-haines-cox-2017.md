@@ -41,7 +41,7 @@ location_tags: [australia, international, templer, systematic-review, interventi
 ### Finding 1 — Intensive structured > generic family therapy
 
 For severely alienated children (Friedlander & Walters tier 4):
-- **Family Bridges** ([Warshak](https://warshak.com/family-bridges/) 2010): ~95% acute restoration, ~78% maintained at 1yr
+- **[Family Bridges](https://warshak.com/family-bridges/)** ([Warshak](https://warshak.com/family-bridges/) 2010): ~95% acute restoration, ~78% maintained at 1yr
 - **Family Reflections** (Reay 2015): comparable outcomes (smaller sample)
 - **Multi-Modal Family Intervention** (Friedlander & Walters 2010): moderate-severe cases, longer outpatient format
 - **Standard family therapy without PA-specialist training**: substantially worse outcomes; sometimes harmful
@@ -144,6 +144,8 @@ Wiki entry, not clinical or legal advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

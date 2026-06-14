@@ -14,7 +14,7 @@ All five must be present:
 1. The child **actively rejects** a previously loved parent
 2. The rejection is **disproportionate** to anything that parent has done
 3. The child is **exposed to alienating behaviors** by the favored parent
-4. The child exhibits **Baker's 8 behavioral indicators** (below)
+4. The child exhibits **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators** (below)
 5. There is **no justified estrangement** (abuse, neglect, profound mismatch)
 
 ## Baker's 8 behavioral indicators
@@ -85,7 +85,7 @@ The European Court explicitly held in *Solarino v. Italy* (2017, App. no. 76171/
 
 ## Citations
 
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.*
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
@@ -100,6 +100,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

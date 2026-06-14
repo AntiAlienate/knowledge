@@ -38,9 +38,9 @@ Malagasy family-court decisions are anonymised per Supreme Court practice using 
 
 ## Key developments
 
-- **2004** — Madagascar acceded to the Hague Convention 1980 effective 1 September 2004.
+- **2004** — Madagascar acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 September 2004.
 - **2007** — Federal Family-Law Reform Package — Laws on Marriage, Filiation, and Parental Authority enacted as comprehensive reform.
-- **2017** — Federal Law on Child Protection enacted aligned with UNCRC obligations.
+- **2017** — Federal Law on Child Protection enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -72,6 +72,8 @@ Malagasy family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

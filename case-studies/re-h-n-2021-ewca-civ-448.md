@@ -37,7 +37,7 @@ Four conjoined second-tier private-law [Children Act 1989](https://www.legislati
 - **Charles Hale KC** (Leading counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
 - **Rebecca Foulkes** (Junior counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
 - **Miriam Best** (Junior counsel) — instructed by Meadows Ryan Solicitors for Respondent Father (Re T)
-- **Mark Jarman** (Counsel) — instructed by Cafcass Legal for Cafcass (First Intervener)
+- **Mark Jarman** (Counsel) — instructed by [Cafcass](https://www.cafcass.gov.uk/) Legal for Cafcass (First Intervener)
 - **Michael Gration** (Counsel) — instructed by Cafcass Legal for Cafcass (First Intervener)
 - **Barbara Mills KC** (Leading counsel) — instructed by Scott Moncrieff & Associates Ltd for Women's Aid, Women's Aid Wales, Rape Crisis and Rights of Women (Second Intervener)
 - **Joy Brereton** (Junior counsel) — instructed by Scott Moncrieff & Associates Ltd for Second Intervener
@@ -60,7 +60,7 @@ Four conjoined second-tier private-law [Children Act 1989](https://www.legislati
 
 **[1]** (en):
 
-> The court is concerned with four appeals each of which involves an allegation of domestic abuse by one parent against the other. Later in this judgment at paragraph 78 onwards, we address the individual appeals, but we also take the opportunity to give more general guidance about matters which commonly arise in the Family Court and are of great importance. In particular we address the issue of whether, where domestic abuse is alleged in proceedings affecting the welfare of children, the focus should in some cases be on a pattern of behaviour as opposed to specific incidents. We also address the issue of the extent to which it is appropriate for a Family Court to have regard to concepts which are applicable in criminal proceedings. We consider the consequence of these issues for the way such cases are conducted in applications made for private law children orders ('private law orders') made under the Children Act 1989 ('CA 1989').
+> The court is concerned with four appeals each of which involves an allegation of domestic abuse by one parent against the other. Later in this judgment at paragraph 78 onwards, we address the individual appeals, but we also take the opportunity to give more general guidance about matters which commonly arise in the Family Court and are of great importance. In particular we address the issue of whether, where domestic abuse is alleged in proceedings affecting the welfare of children, the focus should in some cases be on a pattern of behaviour as opposed to specific incidents. We also address the issue of the extent to which it is appropriate for a Family Court to have regard to concepts which are applicable in criminal proceedings. We consider the consequence of these issues for the way such cases are conducted in applications made for private law children orders ('private law orders') made under the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) ('CA 1989').
 
 <https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html>
 
@@ -125,7 +125,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 ## Subsequent reception
 
 - Court of Appeal (Civil Division) (2023) — Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam) — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html>
-  - Sir Andrew McFarlane P, sitting in the High Court (Family Division), builds on Re H-N's procedural-rigour line by restricting expert psychology in PA-framed proceedings to HCPC-registered practitioner psychologists.
+  - Sir Andrew McFarlane P, sitting in the High Court (Family Division), builds on Re H-N's procedural-rigour line by restricting expert psychology in PA-framed proceedings to [HCPC](https://www.hcpc-uk.org/)-registered practitioner psychologists.
 - Family Court (EWFC) (2026) — Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 — <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html>
   - Sir Andrew McFarlane P sets aside findings of 'alienating behaviour' built on the report of an unregulated PA specialist; explicitly completes the arc whose procedural foundation is Re H-N.
 - Family Justice Council (2022) — Guidance on responding to allegations of alienating behaviour (consultation 2022, finalised 2024) — <https://www.judiciary.uk/guidance-and-resources/family-justice-council/>
@@ -154,7 +154,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 
 ## Sources
 
-1. **Re H-N and Others (children) (domestic abuse: finding of fact hearings) [2021] EWCA Civ 448 — [BAILII](https://www.bailii.org/) listing** — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html> (BAILII (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
+1. **Re H-N and Others (children) (domestic abuse: finding of fact hearings) [2021] EWCA Civ 448 — [BAILII](https://www.bailii.org/) listing** — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html> ([BAILII](https://www.bailii.org/) (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
 2. **Re H-N and Others (children) (domestic abuse: finding of fact hearings) — Approved Judgment PDF** — <https://www.judiciary.uk/wp-content/uploads/2022/07/H-N-and-Others-children-judgment-1.pdf> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 3. **Judiciary case page — Re H-N and Others (children) (domestic abuse: finding of fact hearings)** — <https://www.judiciary.uk/judgments/re-h-n-and-others-children-domestic-abuse-finding-of-fact-hearings/> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 4. **Practice Direction 12J — Child Arrangements & Contact Orders: Domestic Abuse and Harm** — <https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j> (Ministry of Justice) [en] — accessed 2026-05-30
@@ -186,6 +186,8 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

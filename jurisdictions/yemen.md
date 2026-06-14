@@ -35,7 +35,7 @@ Yemeni family-court decisions are anonymised per Supreme Court practice using in
 
 - **1990** — Unification of North Yemen (Yemen Arab Republic) and South Yemen (People's Democratic Republic of Yemen) establishing Republic of Yemen.
 - **1992** — Federal Personal Status Law enacted post-unification codifying personal-status matters on Shafi'i + Zaydi Shia jurisprudential basis.
-- **2002** — Federal children's rights statute enacted aligned with UNCRC obligations.
+- **2002** — Federal children's rights statute enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -67,6 +67,8 @@ Yemeni family-court decisions are anonymised per Supreme Court practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

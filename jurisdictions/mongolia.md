@@ -37,7 +37,7 @@ Mongolian family-court decisions are anonymised per Supreme Court practice using
 ## Key developments
 
 - **1999** — Federal family-law statute enacted replacing prior Soviet-era code.
-- **2016** — Federal children's-rights statute aligned with UNCRC.
+- **2016** — Federal children's-rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child).
 - **2019** — Substantive revision of Family Law provisions on parental rights and custody.
 
 ## Structural findings
@@ -69,6 +69,8 @@ Mongolian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

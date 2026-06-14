@@ -40,7 +40,7 @@ GB family-court decisions are anonymised per Chief Court practice using initials
 
 - **1947** — Gilgit Agency and Baltistan acceded to Pakistan in November 1947 following Gilgit Scouts uprising — separate accession path from the broader Kashmir question.
 - **2009** — Pakistani Presidential Order establishing GB as autonomous self-governing region with own Legislative Assembly and Council.
-- **2017** — Pakistan acceded to the Hague Convention 1980 effective 1 March 2017 — GB Hague applicability via Pakistani territorial extension.
+- **2017** — Pakistan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2017 — GB Hague applicability via Pakistani territorial extension.
 - **2018** — Pakistani Presidential Order establishing GB current governance framework.
 - **2020** — Prime Minister Imran Khan announced GB as a 'provisional fifth province' on 1 November 2020 — pending constitutional amendment.
 
@@ -80,6 +80,8 @@ GB family-court decisions are anonymised per Chief Court practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

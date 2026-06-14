@@ -31,7 +31,7 @@ Panamanian family-court decisions are anonymised per Supreme Court practice usin
 
 ## Key developments
 
-- **1994** — Federal Family Code enacted with substantial modernisation; Panama acceded to the Hague Convention 1980 effective 1 May 1994 — among earliest Latin American accessions.
+- **1994** — Federal Family Code enacted with substantial modernisation; Panama acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 1994 — among earliest Latin American accessions.
 
 ## Structural findings
 
@@ -62,6 +62,8 @@ Panamanian family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -42,7 +42,7 @@ SBA family-court decisions are anonymised per Court of Appeal practice using ini
 ## Key developments
 
 - **1960** — Treaty of Establishment of 16 August 1960 between UK, Republic of Cyprus, Greece, and Turkey establishing Republic of Cyprus and reserving SBAs per Annex A.
-- **1986** — Hague Convention 1980 territorial extension by UK to SBAs effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to SBAs effective 1 August 1986.
 - **2003** — EU Treaty Protocol 3 of Cyprus Accession Treaty excluding SBAs from EU membership when Republic of Cyprus joined EU 1 May 2004.
 - **2014** — UK-Republic of Cyprus agreement of 15 January 2014 transferring administration of non-military land (~78% of SBA area) to Republic of Cyprus while retaining UK sovereignty — implementation pending Cyprus reunification.
 
@@ -82,6 +82,8 @@ SBA family-court decisions are anonymised per Court of Appeal practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -37,7 +37,7 @@ Guamanian family-court decisions are anonymised per Supreme Court practice using
 ## Key developments
 
 - **1950** — Federal Organic Act establishing Guam's unincorporated US territory status with civilian government and granting US citizenship to Guam residents.
-- **1988** — Hague Convention 1980 territorial extension by US to Guam effective 1 July 1988.
+- **1988** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by US to Guam effective 1 July 1988.
 
 ## Structural findings
 
@@ -70,6 +70,8 @@ Guamanian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

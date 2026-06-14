@@ -16,7 +16,7 @@ location_tags: [united-states, international, baker, 8-indicators, adult-outcome
 
 # [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007) — Adult Children of Parental Alienation Syndrome
 
-> **TL;DR.** Amy Baker's 2007 book is the **foundational qualitative-research reference** in PA. Based on in-depth interviews with 40 adult children who had been alienated from a parent in childhood, it established the **8 behavioral indicators** of alienating parents that became one of Bernet's 5 essential diagnostic criteria. Also documents the long-term adult outcomes — depression, substance use, relationship instability, eventual reunification patterns.
+> **TL;DR.** Amy [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 book is the **foundational qualitative-research reference** in PA. Based on in-depth interviews with 40 adult children who had been alienated from a parent in childhood, it established the **8 behavioral indicators** of alienating parents that became one of Bernet's 5 essential diagnostic criteria. Also documents the long-term adult outcomes — depression, substance use, relationship instability, eventual reunification patterns.
 
 **Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../../LICENSE)
 
@@ -105,6 +105,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

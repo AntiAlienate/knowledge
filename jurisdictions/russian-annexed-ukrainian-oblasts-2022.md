@@ -62,7 +62,7 @@ Annexed-oblast decisions are anonymised per Russian (Russian-administered) or Uk
 - Partial Russian administration (~70-85% of DPR/LPR, ~75% of Kherson/Zaporizhzhia) creates structurally distinctive partial-territorial-administration situation — unique within annexation framework.
 - UNGA Resolution ES-11/4 is structurally distinctive globally — strongest GA condemnation of any post-Cold-War territorial annexation (143 in favour vs 100 for Crimea Resolution 68/262).
 - Active-conflict status during annexation is structurally distinctive globally — only modern formal annexation during active military conflict with the annexed-from state.
-- Contested Hague Convention 1980 applicability under Russian extension is structurally distinctive — Ukrainian Hague 2006 accession remains the recognised framework.
+- Contested [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability under Russian extension is structurally distinctive — Ukrainian Hague 2006 accession remains the recognised framework.
 
 ## See also
 
@@ -91,6 +91,8 @@ Annexed-oblast decisions are anonymised per Russian (Russian-administered) or Uk
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

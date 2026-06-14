@@ -34,7 +34,7 @@ Macanese family-court decisions are anonymised per Court of Final Appeal practic
 ## Key developments
 
 - **1993** — Basic Law adopted establishing 'One Country, Two Systems' framework for Macau SAR with high autonomy.
-- **1999** — Civil Code of Macau enacted effective 1 November 1999 drawing on Portuguese Civil Code 1966; Macau SAR established 20 December 1999. PRC territorial extension of Hague Convention 1980 to Macau effective 1 March 1999.
+- **1999** — Civil Code of Macau enacted effective 1 November 1999 drawing on Portuguese Civil Code 1966; Macau SAR established 20 December 1999. PRC territorial extension of [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) to Macau effective 1 March 1999.
 
 ## Structural findings
 
@@ -67,6 +67,8 @@ Macanese family-court decisions are anonymised per Court of Final Appeal practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

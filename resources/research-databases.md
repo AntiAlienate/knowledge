@@ -17,7 +17,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 - URL: https://search.crossref.org/
 - Coverage: 130M+ DOIs across publishers
 - API: https://api.crossref.org/ — no auth
-- Best for: catching PA papers PubMed misses (law journals, social work, family-studies)
+- Best for: catching PA papers [PubMed](https://pubmed.ncbi.nlm.nih.gov/) misses (law journals, social work, family-studies)
 
 ### [Google Scholar](https://scholar.google.com/) — free (browser only)
 - URL: https://scholar.google.com/
@@ -45,7 +45,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 - Best for: full-text search of "parental alienation" across US opinions
 - Bulk: https://www.courtlistener.com/api/bulk-info/ — opinion JSONs by court
 
-### Google Scholar Case Law — free
+### [Google Scholar](https://scholar.google.com/) Case Law — free
 - URL: https://scholar.google.com/ (select "Case law")
 - Coverage: US federal + state, with cite-by graph
 - Best for: quick lookup; build forward-citation maps
@@ -103,7 +103,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ### [AustLII](https://www.austlii.edu.au/) — free
 - URL: https://www.austlii.edu.au/
-- Sister site to BAILII covering AU + NZ + Pacific
+- Sister site to [BAILII](https://www.bailii.org/) covering AU + NZ + Pacific
 
 ### Federal Circuit & Family Court of Australia — free
 - URL: https://www.fcfcoa.gov.au/
@@ -127,7 +127,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ### Connected Papers — free tier
 - URL: https://www.connectedpapers.com/
-- Visual citation graph from any seed paper. Start with Bernet 2010 or Warshak 2015.
+- Visual citation graph from any seed paper. Start with Bernet 2010 or [Warshak](https://warshak.com/family-bridges/) 2015.
 
 ### Litmaps — free tier
 - URL: https://www.litmaps.com/
@@ -139,7 +139,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 **You are a parent:** Start with the [Influencers](../influencers/) section to find clinicians whose work matches your situation, then use Google Scholar to read what they've published.
 
-**You are a lawyer:** CourtListener + Google Scholar Case Law + BAILII (or CanLII / AustLII regionally) — search `"parental alienation"` filtered to the last 24 months for fresh authority.
+**You are a lawyer:** CourtListener + Google Scholar Case Law + BAILII (or [CanLII](https://www.canlii.org/) / [AustLII](https://www.austlii.edu.au/) regionally) — search `"parental alienation"` filtered to the last 24 months for fresh authority.
 
 **You are an evaluator or researcher:** PubMed + CrossRef + SSRN, with Zotero for capture and Connected Papers for graph navigation.
 
@@ -148,6 +148,8 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 ---
 
 *Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Missing a database? Open a PR.*
+
+
 
 
 

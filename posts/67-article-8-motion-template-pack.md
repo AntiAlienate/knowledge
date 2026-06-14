@@ -47,13 +47,13 @@ For US-citizen targeted parents whose child is in an ECHR-state country:
 
 For requesting a court-appointed PA expert:
 
-> *The Court is respectfully asked to appoint an expert under [Civil Code 1253ter/4 (Belgium) / §730 (US) / Section 7 (UK)] with the following terms of reference: (a) document any alienating behaviors per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators (2007); (b) assess whether the child's stated position meets the disproportionality test of Bernet's 5 essential criteria (2010); (c) rule out justified estrangement; (d) recommend a graduated reintroduction protocol per Warshak (2010) or Reay (2015); (e) provide assessment in a Daubert-survivable behavior-frame format (Harman/Kruk/Hines 2018), not in syndrome-frame format. Three names are proposed: [list]. The expert's report should be filed within [N] days.*
+> *The Court is respectfully asked to appoint an expert under [Civil Code 1253ter/4 (Belgium) / §730 (US) / Section 7 (UK)] with the following terms of reference: (a) document any alienating behaviors per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators (2007); (b) assess whether the child's stated position meets the disproportionality test of Bernet's 5 essential criteria (2010); (c) rule out justified estrangement; (d) recommend a graduated reintroduction protocol per [Warshak](https://warshak.com/family-bridges/) (2010) or Reay (2015); (e) provide assessment in a Daubert-survivable behavior-frame format (Harman/Kruk/Hines 2018), not in syndrome-frame format. Three names are proposed: [list]. The expert's report should be filed within [N] days.*
 
 ## Template 8 — Transfer of residence (intractable PA cases)
 
 For severe entrenched cases where conventional remedies have failed:
 
-> *Conventional remedies — mediation, supervised contact, enforcement orders, financial penalties — have demonstrably failed over [N] years. Per Re W (Children) [2012] EWCA Civ 999 (UK), transfer of residence is a legitimate remedy in intractable contact-dispute cases where less-intrusive measures have proven inadequate. The applicant's documented evidence pack establishes: (a) [N] court orders ignored/undermined; (b) alienating behaviors per Baker's 8 indicators; (c) targeted parent's capacity, stability, and housing suitability; (d) the child's developmental urgency under the Schore (2001) and Lombardo (2013) frameworks. The Court is respectfully asked to consider transfer of residence as a remedy, with reunification therapy and graduated reintroduction.*
+> *Conventional remedies — mediation, supervised contact, enforcement orders, financial penalties — have demonstrably failed over [N] years. Per Re W (Children) [2012] EWCA Civ 999 (UK), transfer of residence is a legitimate remedy in intractable contact-dispute cases where less-intrusive measures have proven inadequate. The applicant's documented evidence pack establishes: (a) [N] court orders ignored/undermined; (b) alienating behaviors per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators; (c) targeted parent's capacity, stability, and housing suitability; (d) the child's developmental urgency under the Schore (2001) and Lombardo (2013) frameworks. The Court is respectfully asked to consider transfer of residence as a remedy, with reunification therapy and graduated reintroduction.*
 
 ## How to use these templates
 
@@ -76,7 +76,7 @@ For severe entrenched cases where conventional remedies have failed:
 - [posts/25-court-appointed-pa-expert.md](./25-court-appointed-pa-expert.md)
 - [posts/29-emergency-motions-pa.md](./29-emergency-motions-pa.md)
 - [posts/66-usa-parent-child-in-europe-playbook.md](./66-usa-parent-child-in-europe-playbook.md)
-- [case-law/echr/](../case-law/echr/) — all 9 ECHR Article 8 cases
+- [case-law/echr/](../case-law/echr/) — all 9 [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) cases
 
 ## Citations
 
@@ -92,7 +92,7 @@ For severe entrenched cases where conventional remedies have failed:
 - *Z.J. v Lithuania*, App. no. 60092/12, ECHR 2022
 - *Pisică v Moldova*, App. no. 23641/17, ECHR 2024
 - Council Regulation (EU) 2019/1111 (Brussels IIb)
-- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24); ICARA 22 U.S.C. § 9001
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24); [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) 22 U.S.C. § 9001
 - *Re W (Children)* [2012] EWCA Civ 999; *Re C [2023] EWHC 345 (Fam)*
 - BGH XII ZB 565/15 (Germany 2018); Cass civ 1ère 22 mars 2023 (France); Cassazione 9691/2022 (Italy)
 
@@ -103,6 +103,8 @@ Educational content. **Not legal advice — templates only.** Every PA case is u
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

@@ -43,7 +43,7 @@ BES Islands family-court decisions are anonymised per Joint Court practice using
 - Caribbean Netherlands (BES Islands) operates a Dutch-civil-law family-law framework with special-municipality status directly integrated into the Netherlands — structurally distinctive within the Kingdom of the Netherlands cluster (vs constituent-country status of Aruba, Curaçao, Sint Maarten).
 - Special-municipality status (openbaar lichaam) is structurally distinctive globally — only direct Caribbean integration into a European Member State within the corpus.
 - Joint Court of Justice across Aruba, Curaçao, Sint Maarten and BES Islands shared judicial system.
-- Hague Convention 1980 applicability via Kingdom of the Netherlands territorial extension reflects special-municipality Hague jurisdiction status.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability via Kingdom of the Netherlands territorial extension reflects special-municipality Hague jurisdiction status.
 
 ## See also
 
@@ -70,6 +70,8 @@ BES Islands family-court decisions are anonymised per Joint Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

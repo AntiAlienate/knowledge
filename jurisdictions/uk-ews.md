@@ -13,7 +13,7 @@ Alias entry for the unified England-and-Wales jurisdiction. Substantive content 
 
 ## Statutory framework
 
-- **Children Act 1989 + [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) + Family Procedure Rules 2010** — E&W substantive children-law statutory frame (see jurisdiction:england-and-wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
+- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) + [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) + Family Procedure Rules 2010** — E&W substantive children-law statutory frame (see jurisdiction:england-and-wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
   - Substantive content carried by jurisdiction:england-and-wales.
 
 ## Apex courts
@@ -24,7 +24,7 @@ Alias entry for the unified England-and-Wales jurisdiction. Substantive content 
 
 ## Professional regulators
 
-- **HCPC + Cafcass + [BPS](https://www.bps.org.uk/)** — See jurisdiction:england-and-wales for substantive regulatory coverage. — <https://www.hcpc-uk.org/>
+- **[HCPC](https://www.hcpc-uk.org/) + [Cafcass](https://www.cafcass.gov.uk/) + [BPS](https://www.bps.org.uk/)** — See jurisdiction:england-and-wales for substantive regulatory coverage. — <https://www.hcpc-uk.org/>
 
 ## Anonymisation convention
 
@@ -57,6 +57,8 @@ See jurisdiction:england-and-wales for anonymisation conventions.
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

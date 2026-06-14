@@ -41,7 +41,7 @@ AJK family-court decisions are anonymised per High Court practice using initials
 - **1947** — First Kashmir War October 1947-January 1949 — AJK formed in October 1947 as Pakistani-administered portion of the disputed Princely State of Jammu and Kashmir.
 - **1949** — Karachi Agreement of 27 July 1949 established UN Ceasefire Line between Indian and Pakistani forces in Kashmir.
 - **1974** — AJK Interim Constitution Act 1974 establishing self-governing dual-state-and-territory framework pending final UN-supervised plebiscite.
-- **2017** — Pakistan acceded to the Hague Convention 1980 effective 1 March 2017 — AJK Hague applicability via Pakistani territorial extension.
+- **2017** — Pakistan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2017 — AJK Hague applicability via Pakistani territorial extension.
 
 ## Structural findings
 
@@ -77,6 +77,8 @@ AJK family-court decisions are anonymised per High Court practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

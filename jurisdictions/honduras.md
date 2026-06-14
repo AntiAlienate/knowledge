@@ -37,8 +37,8 @@ Honduran family-court decisions are anonymised per Supreme Court practice using 
 ## Key developments
 
 - **1984** — Federal Family Code enacted drawing on Spanish civil-law substantive heritage.
-- **1994** — Honduras acceded to the Hague Convention 1980 effective 1 March 1994.
-- **1996** — Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations.
+- **1994** — Honduras acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 1994.
+- **1996** — Federal Code enacted codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -68,6 +68,8 @@ Honduran family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

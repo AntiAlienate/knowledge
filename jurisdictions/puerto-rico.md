@@ -42,7 +42,7 @@ Puerto Rican family-court decisions are anonymised per Supreme Court practice us
 - **1930** — Federal Civil Code drawing on Spanish civil-law substantive heritage.
 - **1952** — Puerto Rico achieved Commonwealth status (Estado Libre Asociado) within US framework.
 - **1983** — Federal statute establishing the Junta Examinadora de Psicólogos.
-- **1988** — Hague Convention 1980 territorial extension by US to Puerto Rico effective 1 July 1988.
+- **1988** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by US to Puerto Rico effective 1 July 1988.
 - **2020** — Comprehensive Civil Code reform replacing 1930 Civil Code with Spanish civil-law + US-influenced substantive provisions.
 
 ## Structural findings
@@ -76,6 +76,8 @@ Puerto Rican family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

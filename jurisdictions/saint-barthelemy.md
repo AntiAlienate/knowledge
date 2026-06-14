@@ -38,7 +38,7 @@ Saint-Barthélemoise family-court decisions are anonymised per Court of Appeal p
 
 - **1784** — France ceded Saint-Barthélemy to Sweden in exchange for trading privileges in Gothenburg — Sweden's only Caribbean colony ever (1784-1878).
 - **1878** — Sweden ceded Saint-Barthélemy back to France following a referendum of inhabitants.
-- **1983** — Hague Convention 1980 territorial extension by France to Saint-Barthélemy effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to Saint-Barthélemy effective 1 December 1983.
 - **2003** — Saint-Barthélemy voted 95.51% in favour of COM autonomy from Guadeloupe DROM.
 - **2007** — Federal Organic Law establishing Saint-Barthélemy's COM autonomy effective 22 February 2007.
 
@@ -74,6 +74,8 @@ Saint-Barthélemoise family-court decisions are anonymised per Court of Appeal p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -37,8 +37,8 @@ Maldivian family-court decisions are anonymised per Supreme Court practice using
 
 - **2000** — Federal Family Act enacted effective 1 July 2001 — first codification of family-law in Maldives drawing on Shafi'i Islamic jurisprudence.
 - **2008** — Constitution adopted establishing Islam as basic principle (art. 10) and reforming judiciary including specialised Family Court.
-- **2017** — Maldives acceded to the Hague Convention 1980 effective 1 March 2017 — among the few Muslim-majority states acceded.
-- **2019** — Federal Children's Rights Protection Act enacted aligned with UNCRC obligations.
+- **2017** — Maldives acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2017 — among the few Muslim-majority states acceded.
+- **2019** — Federal Children's Rights Protection Act enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Maldivian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

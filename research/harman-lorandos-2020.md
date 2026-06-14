@@ -56,7 +56,7 @@ For PA-targeted parents, the practical lesson: **the legal strategy works when t
 | Strong predictor | Weak predictor |
 |---|---|
 | 12+ months structured documentation | Single dramatic incident |
-| Multiple Baker indicators cited | "Parental alienation" label only |
+| Multiple [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) indicators cited | "Parental alienation" label only |
 | Court-appointed expert with PA training | Hired expert (either side) |
 | Behavior-frame language | PAS framing |
 | Pattern across multiple settings | Pattern at one home only |
@@ -101,6 +101,8 @@ Wiki entry, not legal or clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

@@ -60,7 +60,7 @@ Madeira-related decisions are anonymised per Portuguese court practice using ini
 - Constitutional power to enact regional legislative acts (decretos legislativos regionais) within statutorily defined competence is structurally distinctive globally.
 - Lei 61/2008 (Portuguese Joint Parental Responsibility Reform) is structurally distinctive within European family-law cluster — introducing presumption of joint parental responsibility in 2008.
 - EU Article 349 RUP special-regime framework intersection with Portuguese autonomous-region framework is structurally distinctive — dual-EU-and-Portuguese autonomy framework.
-- Portuguese Hague Convention 1980 accession 1983 + Madeira Estatuto Político-Administrativo intersection is structurally distinctive.
+- Portuguese [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1983 + Madeira Estatuto Político-Administrativo intersection is structurally distinctive.
 
 ## See also
 
@@ -87,6 +87,8 @@ Madeira-related decisions are anonymised per Portuguese court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

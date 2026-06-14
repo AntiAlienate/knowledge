@@ -10,7 +10,7 @@ Chamber judgment of the First Section of the European Court of Human Rights find
 
 ## Procedural history
 
-16 November 2010: Mr Improta petitioned the Tribunale per i minorenni di Napoli for a regularised contact regime after his former partner 'C.' unilaterally restricted his contact with their daughter (born 25 March 2010) to two 30-minute weekly supervised visits in her presence. During roughly the first year of the proceedings the Tribunal made no binding order, leaving the mother's unilateral regime in force. The court-appointed expert (CTU) took approximately 15 months to file a report; that report, lodged in January 2013, recommended joint custody and contact without the mother present. 2 July 2013: The Naples Tribunal for Minors awarded joint custody, fixed the child's principal residence with the mother, and set graduated contact (supervised three-hour visits twice weekly up to age three; thereafter alternate weekends and shared holidays). The father appealed seeking more extensive contact. March 2014: The Corte d'Appello di Napoli upheld the regime without commissioning an updated expert assessment, despite intervening progress in father–daughter contact. Cassation proceedings remained pending domestically when the applicant lodged his Strasbourg application on 6 October 2014. The complaint was framed exclusively under Article 8 ECHR. The First Section delivered its Chamber judgment on 4 May 2017.
+16 November 2010: Mr Improta petitioned the Tribunale per i minorenni di Napoli for a regularised contact regime after his former partner 'C.' unilaterally restricted his contact with their daughter (born 25 March 2010) to two 30-minute weekly supervised visits in her presence. During roughly the first year of the proceedings the Tribunal made no binding order, leaving the mother's unilateral regime in force. The court-appointed expert (CTU) took approximately 15 months to file a report; that report, lodged in January 2013, recommended joint custody and contact without the mother present. 2 July 2013: The Naples Tribunal for Minors awarded joint custody, fixed the child's principal residence with the mother, and set graduated contact (supervised three-hour visits twice weekly up to age three; thereafter alternate weekends and shared holidays). The father appealed seeking more extensive contact. March 2014: The Corte d'Appello di Napoli upheld the regime without commissioning an updated expert assessment, despite intervening progress in father–daughter contact. Cassation proceedings remained pending domestically when the applicant lodged his Strasbourg application on 6 October 2014. The complaint was framed exclusively under [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1). The First Section delivered its Chamber judgment on 4 May 2017.
 
 ## Counsel
 
@@ -84,7 +84,7 @@ Violation of Article 8 ECHR found. Just satisfaction (Article 41): EUR 3,000 awa
 
 ## Sources
 
-1. **HUDOC — Improta v. Italy, App. No. 66396/14 (search by application number)** — <https://hudoc.echr.coe.int/eng> (European Court of Human Rights) [en] — accessed 2026-05-30
+1. **[HUDOC](https://hudoc.echr.coe.int/) — Improta v. Italy, App. No. 66396/14 (search by application number)** — <https://hudoc.echr.coe.int/eng> (European Court of Human Rights) [en] — accessed 2026-05-30
 2. **ECHR Press Release / 'Judgments and decisions of 04.05.17' (PDF)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-5708201-7243910&filename=Judgments+and+decisions+of+04.05.17.pdf> (European Court of Human Rights — Press Unit) [en] — accessed 2026-05-30
 3. **Italian Ministry of Justice — case file SDU35115 (Improta v. Italy 2017)** — <https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115> (Ministero della Giustizia (Italy)) [it] — accessed 2026-05-30
 4. **Marina Castellaneta — 'Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia'** — <http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html> (Marina Castellaneta (Università di Bari)) [it] — accessed 2026-05-30
@@ -108,6 +108,8 @@ Violation of Article 8 ECHR found. Just satisfaction (Article 41): EUR 3,000 awa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

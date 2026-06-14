@@ -36,7 +36,7 @@ Togolese family-court decisions are anonymised per Supreme Court practice using 
 
 ## Key developments
 
-- **2007** — Federal Children's Code enacted aligned with UNCRC obligations.
+- **2007** — Federal Children's Code enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2012** — Federal Persons and Family Code enacted with substantial modernisation including gender equality codification.
 
 ## Structural findings
@@ -69,6 +69,8 @@ Togolese family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

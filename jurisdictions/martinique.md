@@ -37,7 +37,7 @@ Martiniquan family-court decisions are anonymised per Court of Appeal practice u
 - **1635** — French colonisation of Martinique commenced under the Compagnie des Îles de l'Amérique.
 - **1848** — Slavery abolished in Martinique under the Second Republic via Victor Schœlcher decree of 27 April 1848.
 - **1946** — Martinique achieved departmental status (DOM) — among the first French overseas DOMs, supported by Aimé Césaire who served as deputy and rapporteur of the loi de départementalisation.
-- **1983** — Hague Convention 1980 territorial extension by France to Martinique effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to Martinique effective 1 December 1983.
 
 ## Structural findings
 
@@ -72,6 +72,8 @@ Martiniquan family-court decisions are anonymised per Court of Appeal practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

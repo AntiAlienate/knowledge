@@ -14,7 +14,7 @@ Anguilla is a Caribbean common-law British Overseas Territory whose family-law f
 ## Statutory framework
 
 - **Children Act 2014** — Children Act (2014) — <https://www.eccourts.org/>
-  - Federal Children Act drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions.
+  - Federal Children Act drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions.
 
 ## Apex courts
 
@@ -34,7 +34,7 @@ Anguillan family-court decisions are anonymised per ECSC practice using initials
 
 ## Key developments
 
-- **1986** — Hague Convention 1980 territorial extension by UK to Anguilla effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Anguilla effective 1 August 1986.
 - **2014** — Federal Children Act enacted drawing on English Children Act 1989 model.
 
 ## Structural findings
@@ -66,6 +66,8 @@ Anguillan family-court decisions are anonymised per ECSC practice using initials
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

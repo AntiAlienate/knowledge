@@ -40,8 +40,8 @@ Ecuadorian family-court decisions are anonymised per National Court practice usi
 ## Key developments
 
 - **1860** — Federal Civil Code enacted based on Bello Civil Code (Chilean origin) with subsequent modernisation.
-- **1992** — Ecuador acceded to the Hague Convention 1980 effective 1 April 1992 — earliest Latin American accession in the corpus.
-- **2003** — Federal Code enacted codifying superior-interest principle aligned with UNCRC obligations.
+- **1992** — Ecuador acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 April 1992 — earliest Latin American accession in the corpus.
+- **2003** — Federal Code enacted codifying superior-interest principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2008** — Constitution adopted recognising indigenous jurisdictional pluralism (art. 171).
 
 ## Structural findings
@@ -75,6 +75,8 @@ Ecuadorian family-court decisions are anonymised per National Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

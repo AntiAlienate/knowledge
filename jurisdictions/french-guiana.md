@@ -38,7 +38,7 @@ Guianan family-court decisions are anonymised per Court of Appeal practice using
 
 - **1664** — French colonisation of Guiana commenced.
 - **1946** — French Guiana achieved departmental status (DOM) — among the first French overseas DOMs.
-- **1983** — Hague Convention 1980 territorial extension by France to French Guiana effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to French Guiana effective 1 December 1983.
 
 ## Structural findings
 
@@ -72,6 +72,8 @@ Guianan family-court decisions are anonymised per Court of Appeal practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

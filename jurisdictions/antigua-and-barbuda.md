@@ -13,7 +13,7 @@ Antigua and Barbuda is a Caribbean common-law constitutional monarchy whose fami
 
 ## Statutory framework
 
-- **Divorce Act CAP 150** — Divorce Act (1997) — <https://www.eccourts.org/>
+- **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) CAP 150** — Divorce Act (1997) — <https://www.eccourts.org/>
   - Federal divorce statute.
 - **Maintenance of Children Act** — Maintenance of Children Act (1949) — <https://www.eccourts.org/>
   - Federal statute on maintenance obligations including child support.
@@ -71,6 +71,8 @@ Antiguan family-court decisions are anonymised per Eastern Caribbean Supreme Cou
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

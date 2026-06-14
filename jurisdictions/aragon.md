@@ -57,7 +57,7 @@ Aragonese family-court decisions are anonymised per Aragonese court practice usi
 - Youngest emancipation threshold in EU (14 years with parental consent under CDFA Article 4) is structurally distinctive globally — vs Spanish national emancipation at 18.
 - Central historical territory of the medieval Crown of Aragon (1162-1715) is structurally distinctive globally — only EU subnational that was the political-territorial centre of a major medieval Mediterranean composite monarchy.
 - Spanish Constitution Article 149.1.8 (foral civil law preservation) applies via the Aragonese-civil-law framework.
-- Spanish Hague Convention 1980 accession 1987 + Aragonese Foral Civil Law application framework is structurally distinctive.
+- Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987 + Aragonese Foral Civil Law application framework is structurally distinctive.
 
 ## See also
 
@@ -85,6 +85,8 @@ Aragonese family-court decisions are anonymised per Aragonese court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

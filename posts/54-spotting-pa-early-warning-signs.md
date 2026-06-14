@@ -9,7 +9,7 @@
 
 ## The 4-tier early-warning system
 
-### Tier 1 — 17 perpetrator strategies (Baker, 2007)
+### Tier 1 — 17 perpetrator strategies ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), 2007)
 
 Early ones to watch for:
 
@@ -87,9 +87,9 @@ This is not paranoia. It is clinically codified harm:
 
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.* W. W. Norton.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Reay, K. M. (2015). *Family Reflections: A Promising Therapeutic Program.*
-- Warshak, R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children.*
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children.*
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
 - DSM-5 V995.51 — Child Psychological Abuse
 - WHO ICD-11 QE52 — Caregiver-Child Relationship Problem
@@ -102,6 +102,8 @@ Educational content. **Not clinical or legal advice.** Consult a PA-trained clin
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

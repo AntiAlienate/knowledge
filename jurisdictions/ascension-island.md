@@ -42,7 +42,7 @@ Ascension Island decisions are anonymised per UK overseas-territory court practi
 - **1922** — Ascension Island formally became a dependency of Saint Helena in 1922.
 - **1956** — US Air Force tracking station and NASA tracking station established on Ascension Island via UK-US bilateral agreement — beginning of strategic US/NASA presence.
 - **1982** — Ascension Island became central logistical hub for UK Operation Corporate during Falklands War 1982 — established Ascension Island's modern strategic significance.
-- **1986** — Hague Convention 1980 territorial extension by UK to Ascension Island effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Ascension Island effective 1 August 1986.
 - **2009** — UK Order in Council of 8 July 2009 establishing the consolidated constitutional framework for Saint Helena, Ascension and Tristan da Cunha with explicit Ascension Island no-right-of-abode framework.
 
 ## Structural findings
@@ -81,6 +81,8 @@ Ascension Island decisions are anonymised per UK overseas-territory court practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

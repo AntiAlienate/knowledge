@@ -34,7 +34,7 @@ Turkmen family-court decisions are anonymised per Supreme Court practice using i
 ## Key developments
 
 - **2012** — Federal Family Code enacted replacing 1969 Soviet-era Code on Marriage and Family.
-- **2014** — Federal children's rights statute enacted aligned with UNCRC obligations.
+- **2014** — Federal children's rights statute enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -67,6 +67,8 @@ Turkmen family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -9,7 +9,7 @@
 
 ## Domain 1 — Child clinical outcomes
 
-Adult-children-of-PA longitudinal data (Baker, 2007; Baker & Verrocchio, 2015):
+Adult-children-of-PA longitudinal data ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), 2007; Baker & Verrocchio, 2015):
 
 - **Depression**: significantly elevated rates compared to general population
 - **Anxiety**: chronic
@@ -75,6 +75,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

@@ -38,7 +38,7 @@ Thai family-court decisions are anonymised per Supreme Court practice using init
 ## Key developments
 
 - **1935** — Family law book of the CCC enacted.
-- **2002** — Thailand acceded to the Hague Convention 1980 on Child Abduction effective 1 November 2002.
+- **2002** — Thailand acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on Child Abduction effective 1 November 2002.
 - **2010** — Specialised Juvenile and Family Courts framework established.
 
 ## Structural findings
@@ -70,6 +70,8 @@ Thai family-court decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

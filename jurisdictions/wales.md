@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GB-WLS` · **Legal system:** common-law  
 **Language(s):** en, cy  
 
-Wales operates within the unified Bar of England and Wales and shares the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via [Cafcass Cymru](https://www.cafcass.gov.uk/) (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English Cafcass. The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which Cafcass Cymru policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.
+Wales operates within the unified Bar of England and Wales and shares the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via [Cafcass Cymru](https://www.cafcass.gov.uk/) (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English [Cafcass](https://www.cafcass.gov.uk/). The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which Cafcass Cymru policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.
 
 ## PA recognition status
 
@@ -13,7 +13,7 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 
 ## Statutory framework
 
-- **Children Act 1989 (UK / E&W)** — Children Act 1989 — substantive children-law statute (applies in Wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
+- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W)** — Children Act 1989 — substantive children-law statute (applies in Wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
   - Substantive statute applying in Wales as part of the unified England-and-Wales legal jurisdiction. s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame the substantive standard. Cafcass Cymru produces s.7 welfare reports within this statutory frame.
 - **Children and Family Court Advisory and Support Service (Wales) — Cafcass Cymru regulations** — Cafcass Cymru — devolved Welsh service (2001) — <https://gov.wales/cafcass-cymru>
   - Cafcass Cymru was established as a Welsh Government Sponsored Public Body in 2001 — devolved from English Cafcass. Operates its own welfare-reporting framework + practice guidance. The Welsh institutional analogue to English Cafcass.
@@ -36,7 +36,7 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 - **Welsh Government — Department for Social Justice + Social Services and Integration Directorate** — Welsh Government commissioned the Doughty/Maxwell/Slater 2018 literature review on PA. Welsh-Government-level institutional engagement positioning PA as policy-research question rather than clinical category. — <https://gov.wales/>
 - **Welsh Women's Aid** — Welsh federation-aligned women's-aid body. Carries federation-aligned critique-camp position for Welsh-language outreach. Subsidiary to Women's Aid Federation England positioning. — <https://welshwomensaid.org.uk/>
 - **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — UK-wide statutory regulator for practitioner psychologists. Applies in Wales. No Welsh-specific PA position. — <https://www.hcpc-uk.org/>
-- **British Psychological Society — Wales branch** — [BPS](https://www.bps.org.uk/) Wales branch — operational subsidiary of UK-wide BPS. No Welsh-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/wales>
+- **British Psychological Society — Wales branch** — [BPS](https://www.bps.org.uk/) Wales branch — operational subsidiary of UK-wide [BPS](https://www.bps.org.uk/). No Welsh-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/wales>
 - **Cardiff University School of Law and Politics — Dr Julie Doughty research base** — Cardiff University is the institutional research base for Welsh PA academic engagement via Dr Julie Doughty. Doughty/Maxwell/Slater 2018 review is the canonical Welsh academic anchor. Research-pole institutional engagement. — <https://www.cardiff.ac.uk/people/view/38456-doughty-julie>
 
 ## Anonymisation convention
@@ -78,7 +78,7 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 
 ## Editorial notes
 
-- Primary-source order: gov.wales for Welsh Government + Cafcass Cymru; legislation.gov.uk for unified E&W statutes; Cardiff University for academic anchor.
+- Primary-source order: gov.wales for Welsh Government + Cafcass Cymru; [legislation.gov.uk](https://www.legislation.gov.uk/) for unified E&W statutes; Cardiff University for academic anchor.
 - Bilingualism preserved: Welsh-language family-court provision required under Welsh Language Measure 2011.
 - Wales treated as distinct id within unified England-and-Wales judicial hierarchy — institutional differentiation via Cafcass Cymru + Welsh Government + Cardiff Law academic anchor.
 - Doughty/Maxwell/Slater 2018 framing PA as 'belief system' preserved in structural_findings[2].
@@ -87,6 +87,8 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

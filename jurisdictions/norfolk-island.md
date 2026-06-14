@@ -13,7 +13,7 @@ Norfolk Island is a Pacific Island common-law Australian external territory — 
 
 ## Statutory framework
 
-- **Australian Family Law Act 1975 (applicable via NSW arrangements from 2016)** — Australian Family Law Act (applied via NSW arrangements) (1975) — <https://www.fcfcoa.gov.au/>
+- **Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (applicable via NSW arrangements from 2016)** — Australian Family Law Act (applied via NSW arrangements) (1975) — <https://www.fcfcoa.gov.au/>
   - Australian Family Law Act applicable to Norfolk Island following 2016 re-integration with NSW administrative arrangements. Governs parental responsibility, divorce, and child custody.
 - **Norfolk Island Legislation Amendment Act 2015 (Cth)** — Norfolk Island Legislation Amendment Act (2015) — <https://www.fcfcoa.gov.au/>
   - Federal Act terminating Norfolk Island self-government (effective 1 July 2016) and applying Australian Commonwealth and NSW law including family-law.
@@ -40,7 +40,7 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 
 - **1856** — HMS Bounty mutineers' descendants (with Polynesian Tahitian heritage) relocated from Pitcairn to Norfolk Island — established present Norfolk Islander population's heritage.
 - **1979** — Federal Norfolk Island Act establishing Norfolk Island self-government within Australian framework.
-- **1987** — Hague Convention 1980 territorial extension by Australia to Norfolk Island effective 1 January 1987.
+- **1987** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Australia to Norfolk Island effective 1 January 1987.
 - **2015** — Federal Act terminating Norfolk Island self-government (effective 1 July 2016) and applying Australian Commonwealth and NSW law including family-law.
 - **2016** — Norfolk Island re-integrated into Australian Commonwealth law effective 1 July 2016 — devolution-reversal completion.
 
@@ -119,6 +119,8 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -149,6 +151,6 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 - [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->

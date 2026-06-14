@@ -57,7 +57,7 @@ Spratly-related decisions are anonymised per occupying-state court practice usin
 - South China Sea Arbitration PCA Award 2016 with PRC rejection of jurisdiction is structurally distinctive — major contemporary modern apex international-arbitration award without losing-party compliance.
 - Variable family-law framework across occupying states (Chinese Civil Code / Vietnamese Family and Marriage Law / Philippine Family Code / Taiwan Civil Code / Malaysian Federal Constitution) is structurally distinctive within contested-territory family-law cluster.
 - Permanent civilian population at Pag-asa/Thitu (Philippines ~200), Itu Aba (Taiwan ~100 garrison), and Vietnamese-controlled features is structurally distinctive within disputed-territory cluster.
-- Variable Hague Convention 1980 applicability per occupying state is structurally distinctive.
+- Variable [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability per occupying state is structurally distinctive.
 
 ## See also
 
@@ -85,6 +85,8 @@ Spratly-related decisions are anonymised per occupying-state court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

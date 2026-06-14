@@ -22,7 +22,7 @@ Use alongside [launch-copy.md](launch-copy.md) for the actual outreach copy. Per
 
 | # | Name | Primary contact | Backup | Source | Hook |
 |---|------|----------------|--------|--------|------|
-| 1 | **William Bernet, MD** (Vanderbilt; founder [PASG](https://pasg.info/)) | william.bernet@vumc.org | PASG FB @ParentalAlienationStudyGroup; mail PO Box 4090, Brentwood TN 37024 | [Vanderbilt profile](https://www.vumc.org/psychiatry/person/william-bernet-md) | PASG 1,000+ members across 60+ countries; ongoing Five-Factor Model of PA diagnosis |
+| 1 | **William Bernet, MD** (Vanderbilt; founder [PASG](https://pasg.info/)) | william.bernet@vumc.org | [PASG](https://pasg.info/) FB @ParentalAlienationStudyGroup; mail PO Box 4090, Brentwood TN 37024 | [Vanderbilt profile](https://www.vumc.org/psychiatry/person/william-bernet-md) | PASG 1,000+ members across 60+ countries; ongoing Five-Factor Model of PA diagnosis |
 | 2 | **Richard A. [Warshak](https://warshak.com/family-bridges/), PhD** (author *Divorce Poison*) | media@warshak.com (media); doc@warshak.com (speaking) | Phone 972-248-7700; Richardson TX | [Warshak media kit](https://r.warshak.com/media/kit.html) | [Family Bridges](https://warshak.com/family-bridges/) reunification work; 30th-anniversary *Divorce Poison* |
 | 3 | **Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), PhD** (Vincent J. Fontana Center) | DrAmyJLBaker@gmail.com | amyjlbaker@aol.com; phone (201) 321-9874 | [amyjlbaker.com](https://www.amyjlbaker.com/) | 17-Alienating-Behaviors framework; adult-children-of-PA research |
 | 4 | **Bill Eddy, LCSW, Esq.** (High Conflict Institute) | info@highconflictinstitute.com | X @HighConflict; [LinkedIn](https://www.linkedin.com/in/bill-eddy-bba98a1b/) | [highconflictinstitute.com](https://www.highconflictinstitute.com/) | BIFF Response method; *Our New World of Adult Bullies* |
@@ -41,7 +41,7 @@ Use alongside [launch-copy.md](launch-copy.md) for the actual outreach copy. Per
 | 10 | **Craig [Childress](https://drcachildress.org/), PsyD** (Multi-Modal Family Intervention) | Contact form at [drcachildress.org](https://drcachildress.org/asp/Site/ContactUs/index) | Blog drcraigchildressblog.com; YouTube channel UC_ZRgxrpZJs2RD3U-VDPCTw | [drcraigchildressblog.com](https://drcraigchildressblog.com/) | Attachment-Based Model ([AB-PA](https://drcachildress.org/)); "trifecta" diagnostic indicators |
 | 11 | **Demosthenes Lorandos, JD, PhD** *(⚠️ retired; firm now Shawn Wygant)* | swygant@psychlaw.net | Phone 989-335-5134; X/FB @PsychLawScience | [psychlaw.net](https://psychlaw.net/) | *Parental Alienation: Science and Law* (2020, with Bernet) — address firm not Lorandos |
 | 12 | **Nicholas (Nick) Bala, LLM** (Queen's Law, Canada) | nick.bala@queensu.ca | Faculty page (publicly listed) | [Queen's Law](https://law.queensu.ca/directory/nicholas-c-bala) | *Children Who Resist Postseparation Parental Contact* (Oxford 2013); 2024 SSRN strategy paper |
-| 13 | **Barbara Jo Fidler, PhD, C.Psych.** (Toronto private practice; [AFCC](https://www.afccnet.org/) senior trainer) | Contact form at [bjfidler.com](https://www.bjfidler.com) | No public email | [bjfidler.com](https://www.bjfidler.com) | Co-author *Children Who Resist Postseparation Parental Contact*; AFCC parenting-coordination training |
+| 13 | **Barbara Jo Fidler, PhD, C.Psych.** (Toronto private practice; [AFCC](https://www.afccnet.org/) senior trainer) | Contact form at [bjfidler.com](https://www.bjfidler.com) | No public email | [bjfidler.com](https://www.bjfidler.com) | Co-author *Children Who Resist Postseparation Parental Contact*; [AFCC](https://www.afccnet.org/) parenting-coordination training |
 | 14 | **Linda J. [Gottlieb](https://turningpointsforfamilies.com/), LMFT, LCSW-R** (Turning Points for Families) | Contact form at [lindagottlieb.com/contact](https://lindagottlieb.com/contact) | Intake email on site | [lindagottlieb.com](https://lindagottlieb.com) | [TPFF](https://turningpointsforfamilies.com/) intensive reunification; 2021 Colorado State outcome study |
 | 15 | **J. Michael Bone, PhD** (Winter Park FL — expert witness) | Contact form at [jmichaelbone.com](https://www.jmichaelbone.com/contact.html) | Office tel on site | [jmichaelbone.com](https://www.jmichaelbone.com) | "Four Criteria" framework (1999); long-running CE-course expert |
 | 16 | **Wilfrid von Boch-Galhau, MD** *(⚠️ retired)* (Würzburg, Germany) | Practice tel +49 931 3592133 (verify — retired) | Practice address Oberer Dallenbergweg 15, 97082 Würzburg | [drvboch.de](http://www.drvboch.de) | German-language PA monograph; PASG voice; Würzburg interdisciplinary group |
@@ -55,7 +55,7 @@ Use alongside [launch-copy.md](launch-copy.md) for the actual outreach copy. Per
 | # | Name | Primary contact | Backup | Source | Hook |
 |---|------|----------------|--------|--------|------|
 | 19 | **Joyanna Silberg, PhD** (Leadership Council) | info@leadershipcouncil.org | thechildsurvivor.com contact | [Leadership Council](https://leadershipcouncil.org) | We've profiled her critique alongside the recognition literature — [Mercer & Silberg 2016](https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974), [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204). Lead with the genuine point that we cite her work in our balance section. |
-| 20 | **Robert Geffner, PhD** (Institute on Violence, Abuse and Trauma) | Via [ivatcenters.org](https://ivatcenters.org) contact page | n/a | ivatcenters.org | 2022 critique of TPFF and Family Bridges in *J. Family Trauma, Child Custody & Child Development* — same framing: we reference his work and want him to see how |
+| 20 | **Robert Geffner, PhD** (Institute on Violence, Abuse and Trauma) | Via [ivatcenters.org](https://ivatcenters.org) contact page | n/a | ivatcenters.org | 2022 critique of [TPFF](https://turningpointsforfamilies.com/) and [Family Bridges](https://warshak.com/family-bridges/) in *J. Family Trauma, Child Custody & Child Development* — same framing: we reference his work and want him to see how |
 
 ---
 
@@ -179,6 +179,8 @@ AntiAlienate.com
 ---
 
 *Verified 2026-05-25. Re-verify before any outreach more than 3 months later — academic emails change with moves, org contacts change with restructures.*
+
+
 
 
 

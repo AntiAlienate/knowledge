@@ -84,7 +84,7 @@ When the child reaches adolescence, the pattern often shifts. Adolescents start 
 - Belgian Civil Code Art. 375bis, Art. 374
 - French Civil Code Art. 371-4
 - Italian Civil Code Art. 317-bis
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 
 ## Disclaimer
@@ -94,6 +94,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

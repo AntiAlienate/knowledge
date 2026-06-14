@@ -48,14 +48,14 @@ Cases where both alienating behaviours *and* legitimate estrangement factors are
 
 ## Clinical / diagnostic terms
 
-### DSM-5
+### [DSM-5](https://www.appi.org/products/dsm)
 The American Psychiatric Association's *Diagnostic and Statistical Manual of Mental Disorders, 5th edition*. **PA is not a named diagnosis in DSM-5** but related codes can apply:
 - V61.20: Parent-Child Relational Problem
 - V61.29: Child Affected by Parental Relationship Distress
 - V995.51: Child Psychological Abuse
 
 ### [ICD-11](https://icd.who.int/)
-The World Health Organisation's *International Classification of Diseases, 11th revision*. ICD-11 includes the code **QE52.0: Caregiver-child relationship problem**, which can be applied to PA-pattern cases. Active debate continues over more specific recognition.
+The World Health Organisation's *International Classification of Diseases, 11th revision*. [ICD-11](https://icd.who.int/) includes the code **QE52.0: Caregiver-child relationship problem**, which can be applied to PA-pattern cases. Active debate continues over more specific recognition.
 
 ### Mild / Moderate / Severe alienation
 [Warshak's](https://warshak.com/family-bridges/) severity framework:
@@ -98,7 +98,7 @@ Article 8 of the [European Convention on Human Rights](https://www.coe.int/en/we
 UK provision (CA 1989 s.91(14)) restricting future applications without permission of the court. Sometimes used against alienating parents engaging in vexatious applications, sometimes against targeted parents to limit "harassment" — context-dependent.
 
 ### CAFCASS / [Cafcass Cymru](https://www.cafcass.gov.uk/) / Children's Guardian
-England & Wales — Children and Family Court Advisory and Support Service. The body of social workers and family-court advisers who assess children and report to the court. Cafcass involvement is standard in contested family-court cases.
+England & Wales — Children and Family Court Advisory and Support Service. The body of social workers and family-court advisers who assess children and report to the court. [Cafcass](https://www.cafcass.gov.uk/) involvement is standard in contested family-court cases.
 
 ### Section 7 Report
 UK term for a welfare report ordered by the court, typically prepared by Cafcass or the local authority. Usually decisive in contested cases.
@@ -107,7 +107,7 @@ UK term for a welfare report ordered by the court, typically prepared by Cafcass
 US/Canadian term for the equivalent: a court-appointed mental-health professional assesses the family and makes recommendations.
 
 ### Reunification Therapy
-Specialised family therapy aimed at restoring a damaged parent-child relationship after alienation. Distinct from general family counselling. Programs include [Family Bridges](https://warshak.com/family-bridges/) (Warshak), Family Reflections ([Childress](https://drcachildress.org/)), Overcoming Barriers Family Camp, Transitioning Families.
+Specialised family therapy aimed at restoring a damaged parent-child relationship after alienation. Distinct from general family counselling. Programs include [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/)), Family Reflections ([Childress](https://drcachildress.org/)), Overcoming Barriers Family Camp, Transitioning Families.
 
 ### Hague Convention (1980)
 The Hague Convention on the Civil Aspects of International Child Abduction. Provides for prompt return of children wrongfully removed across borders. [See cross-border playbook.](../playbooks/cross-border-hague.md)
@@ -189,6 +189,8 @@ PA occurs roughly evenly across mother- and father-targeted patterns when preval
 ---
 
 *Open a PR with corrections or additions. Vocabulary in this field is contested — multiple framings can be legitimate.*
+
+
 
 
 

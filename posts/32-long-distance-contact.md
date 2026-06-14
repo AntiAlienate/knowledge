@@ -80,7 +80,7 @@ When a long-distance targeted parent has 12+ months of documented attempted cont
 
 - *Improta v. Italy*, App. no. 66396/14, ECHR 2017
 - *Strand Lobben and Others v. Norway*, App. no. 37283/13, ECHR Grand Chamber 2019
-- Warshak, R. A. (2010). *Family Court Review*, 48(1), 48-80.
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). *American Journal of Family Therapy*, 43(2), 197-207.
 
 ## Disclaimer
@@ -90,6 +90,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

@@ -11,7 +11,7 @@ last_reviewed: 2026-05-18
 
 ## TL;DR
 
-Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) **2007 monograph "Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind"** is the foundational empirical study of long-term outcomes for children subjected to alienation. Based on 40 in-depth qualitative interviews with adults who reported being alienated as children, Baker documented a consistent constellation of adult outcomes: depression, substance abuse, low self-esteem, lack of trust, alienation from own children, and protracted recovery process. This study established the empirical basis for treating PA as a developmental trauma with persistent adult consequences.
+Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) **2007 monograph "Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind"** is the foundational empirical study of long-term outcomes for children subjected to alienation. Based on 40 in-depth qualitative interviews with adults who reported being alienated as children, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) documented a consistent constellation of adult outcomes: depression, substance abuse, low self-esteem, lack of trust, alienation from own children, and protracted recovery process. This study established the empirical basis for treating PA as a developmental trauma with persistent adult consequences.
 
 ## Study design
 
@@ -104,6 +104,8 @@ Baker's 2007 study transformed PA from a contested clinical theory to an empiric
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal or clinical advice.*
+
+
 
 
 

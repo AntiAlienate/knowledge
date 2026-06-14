@@ -14,7 +14,7 @@ Jersey is a Western European mixed-legal-system Crown Dependency — structurall
 ## Statutory framework
 
 - **Children (Jersey) Law 2002** — Children (Jersey) Law (2002) — <https://www.jerseylaw.je/>
-  - Federal Children Law drawing on English Children Act 1989 model codifying welfare-of-the-child principle (art. 2), parental responsibility, custody, and children's protection provisions.
+  - Federal Children Law drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model codifying welfare-of-the-child principle (art. 2), parental responsibility, custody, and children's protection provisions.
 - **Matrimonial Causes (Jersey) Law 1949** — Matrimonial Causes (Jersey) Law (1949) — <https://www.jerseylaw.je/>
   - Federal matrimonial-causes statute.
 
@@ -37,7 +37,7 @@ Jersey family-court decisions are anonymised per Court of Appeal practice using 
 ## Key developments
 
 - **1204** — Jersey retained by King John of England when Normandy lost to France in 1204 — Norman customary-law substantive heritage retained alongside English common-law procedural inheritance.
-- **1986** — Hague Convention 1980 territorial extension by UK to Jersey effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Jersey effective 1 August 1986.
 - **2002** — Federal Children Law enacted drawing on English Children Act 1989 model.
 
 ## Structural findings
@@ -72,6 +72,8 @@ Jersey family-court decisions are anonymised per Court of Appeal practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

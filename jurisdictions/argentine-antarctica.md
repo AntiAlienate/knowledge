@@ -44,7 +44,7 @@ Argentine Antarctic decisions are anonymised per Argentine court practice using 
 - **1942** — Argentina formally claimed Antártida Argentina via the Pacto del Atlántico of 1942.
 - **1959** — Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Argentine Antarctica claim suspended pending Treaty term.
 - **1978** — Emilio Marcos Palma born at Base Esperanza on 7 January 1978 — first human born on the Antarctic continent, deliberately enabled by Argentina to assert sovereignty claim.
-- **1991** — Hague Convention 1980 territorial extension by Argentina to Argentine Antarctica effective 1 June 1991.
+- **1991** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Argentina to Argentine Antarctica effective 1 June 1991.
 - **1994** — Argentine Constitutional reform of 1994 integrating Antártida Argentina as part of the Tierra del Fuego, Antarctica, and South Atlantic Islands Province.
 
 ## Structural findings
@@ -83,6 +83,8 @@ Argentine Antarctic decisions are anonymised per Argentine court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

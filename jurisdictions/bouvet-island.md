@@ -42,7 +42,7 @@ Bouvet Island decisions are anonymised per Norwegian court practice using initia
 - **1928** — Norwegian Royal Decree of 23 January 1928 formally annexing Bouvet Island to Norway following the December 1927 Norvegia expedition landing — UK protested but withdrew its claim in November 1929.
 - **1930** — Norwegian Act of 27 February 1930 establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework.
 - **1971** — Norwegian Regulation establishing Bouvet Island as a nature reserve protected for scientific research.
-- **1989** — Hague Convention 1980 territorial extension by Norway to Bouvet Island effective 1 April 1989.
+- **1989** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by Norway to Bouvet Island effective 1 April 1989.
 
 ## Structural findings
 
@@ -76,6 +76,8 @@ Bouvet Island decisions are anonymised per Norwegian court practice using initia
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

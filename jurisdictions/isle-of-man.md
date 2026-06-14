@@ -37,7 +37,7 @@ Manx family-court decisions are anonymised per High Court practice using initial
 ## Key developments
 
 - **979** — Tynwald (Manx parliament) traditionally dated to 979 CE — claimed as the world's oldest continuously-functioning parliament.
-- **1991** — Hague Convention 1980 territorial extension by UK to Isle of Man effective 1 September 1991.
+- **1991** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Isle of Man effective 1 September 1991.
 - **2001** — Federal Children and Young Persons Act enacted codifying welfare-of-the-child principle and child-protection provisions.
 - **2024** — Federal comprehensive Family Law Act enacted replacing prior Matrimonial Proceedings Act 2003 framework.
 
@@ -71,6 +71,8 @@ Manx family-court decisions are anonymised per High Court practice using initial
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

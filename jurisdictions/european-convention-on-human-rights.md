@@ -3,7 +3,7 @@
 **Jurisdiction code:** `COE` · **Legal system:** supranational  
 **Language(s):** en, fr  
 
-The European Convention on Human Rights (ECHR, Rome 1950, in force 1953) and the European Court of Human Rights (Strasbourg) constitute the supranational human-rights jurisdiction binding the 46 member states of the Council of Europe. [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (right to respect for private and family life) is the principal Convention article engaged in parental-alienation litigation: the substantive obligation on member states' authorities to take adequate and effective measures to enable parent-child relations to be restored. The STRASBOURG TRIPTYCH on Italy — Lombardo v Italy (App no 25704/11, 2013), Improta v Italy (App no 66396/14, 2017), Strumia v Italy (App no 53377/13, 2016) — established the Article 8 procedural-due-diligence standard subsequently engaged in Cassazione 9691/2022. ECHR jurisdiction is supplementary to domestic remedies (Art 35(1) exhaustion principle) but binds member states' courts and authorities under the doctrine of European consensus and margin of appreciation.
+The [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) (ECHR, Rome 1950, in force 1953) and the European Court of Human Rights (Strasbourg) constitute the supranational human-rights jurisdiction binding the 46 member states of the Council of Europe. [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (right to respect for private and family life) is the principal Convention article engaged in parental-alienation litigation: the substantive obligation on member states' authorities to take adequate and effective measures to enable parent-child relations to be restored. The STRASBOURG TRIPTYCH on Italy — Lombardo v Italy (App no 25704/11, 2013), Improta v Italy (App no 66396/14, 2017), Strumia v Italy (App no 53377/13, 2016) — established the Article 8 procedural-due-diligence standard subsequently engaged in Cassazione 9691/2022. ECHR jurisdiction is supplementary to domestic remedies (Art 35(1) exhaustion principle) but binds member states' courts and authorities under the doctrine of European consensus and margin of appreciation.
 
 ## PA recognition status
 
@@ -13,7 +13,7 @@ The European Convention on Human Rights (ECHR, Rome 1950, in force 1953) and the
 
 ## Statutory framework
 
-- **European Convention on Human Rights Article 8** — ECHR Article 8 — right to respect for private and family life (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
+- **European Convention on Human Rights Article 8** — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) — right to respect for private and family life (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
   - Article 8(1): 'Everyone has the right to respect for his private and family life, his home and his correspondence.' Article 8(2): permissible interference must be 'in accordance with the law' + 'necessary in a democratic society' + serving a legitimate aim. The substantive Convention provision under which the Strasbourg PA-adjacent jurisprudence (Lombardo / Improta / Strumia v Italy) is decided. Member states have a POSITIVE OBLIGATION to take adequate and effective measures to enable parent-child contact to be re-established.
 - **European Convention on Human Rights Article 6** — ECHR Article 6 — right to a fair trial (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
   - Article 6(1) right to a fair hearing within a reasonable time. Article 6 issues frequently arise in PA-adjacent fact-patterns where domestic-court delays compound contact frustration — engaged in tandem with Article 8 in the Strasbourg Italian triptych.
@@ -55,7 +55,7 @@ The European Convention on Human Rights (ECHR, Rome 1950, in force 1953) and the
 - **GREVIO — Group of Experts on Action against Violence against Women and Domestic Violence** — Independent expert body monitoring Istanbul Convention (CETS 210) implementation. GREVIO reports have engaged the structural risks of PA-construct deployment in DV contexts. Mid-Term Horizontal Review (2022) and country reports include critique-camp concerns parallel to UN Special Rapporteur Alsalem framing. — <https://www.coe.int/en/web/istanbul-convention/grevio>
 - **UN Special Rapporteur on Violence against Women, its Causes and Consequences — Reem Alsalem** — UN Special Rapporteur Reem Alsalem (Sudan/UK) Report A/HRC/53/36 (12 August 2022) addresses the PA construct as a tactic against DV-survivor mothers in family courts. Subsequently cited by Corte Constitucional Colombia in T-526/2023 and IEFH/IGVM Belgium Recommandation 2023/001 + multiple LATAM5 institutional anchors. Operationalised internationally as critique-anchor reference. — <https://www.ohchr.org/en/special-procedures/sr-violence-against-women>
 - **MESECVI — Follow-up Mechanism to the Belém do Pará Convention** — Inter-American mechanism following up the Convention of Belém do Pará. MESECVI Declaration 13 April 2023 on PA tactical deployment in family courts. Subsequently cited by Corte Constitucional Colombia T-526/2023. Inter-American critique-anchor parallel to UN Alsalem report. — <https://www.oas.org/en/cim/mesecvi.asp>
-- **Hague Conference on Private International Law (HCCH)** — Intergovernmental organisation administering the Hague Convention 1980 on International Child Abduction and related instruments. Operates the Permanent Bureau in The Hague. HCCH Guides to Good Practice include PA-adjacent guidance on contact disputes. — <https://www.hcch.net/>
+- **Hague Conference on Private International Law (HCCH)** — Intergovernmental organisation administering the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on International Child Abduction and related instruments. Operates the Permanent Bureau in The Hague. HCCH Guides to Good Practice include PA-adjacent guidance on contact disputes. — <https://www.hcch.net/>
 
 ## Anonymisation convention
 
@@ -65,7 +65,7 @@ ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy
 
 - **1950** — European Convention on Human Rights signed in Rome (in force 3 September 1953). Article 8 right to respect for private and family life. — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
 - **1980** — Hague Convention on the Civil Aspects of International Child Abduction — multilateral framework for return of internationally abducted children. — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
-- **1989** — UN Convention on the Rights of the Child — art. 9 right to maintain contact with both parents. All Council of Europe member states are CRC parties. — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+- **1989** — [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) — art. 9 right to maintain contact with both parents. All Council of Europe member states are CRC parties. — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 - **1998** — Protocol No. 11 enters force — full-time Court restructuring; modern Chamber + Grand Chamber architecture. — <https://www.echr.coe.int/protocol-eleven>
 - **2010** — 6 July 2010 — Neulinger and Shuruk v Switzerland [GC] (no. 41615/07): foundational Grand Chamber engagement with cross-border parental disputes under Art 8. — <https://hudoc.echr.coe.int/>
 - **2013** — 29 January 2013 — Lombardo v Italy (App no 25704/11): foundational Strasbourg PA-adjacent decision; Art 8 violation for Italian authorities' failure to enforce contact rights. — <https://hudoc.echr.coe.int/>
@@ -103,7 +103,7 @@ ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy
 
 ## Sources
 
-1. **European Court of Human Rights — Convention and judgments (HUDOC)** — <https://www.echr.coe.int/> (European Court of Human Rights / Council of Europe) [en]
+1. **European Court of Human Rights — Convention and judgments ([HUDOC](https://hudoc.echr.coe.int/))** — <https://www.echr.coe.int/> (European Court of Human Rights / Council of Europe) [en]
 2. **HUDOC — case-law database** — <https://hudoc.echr.coe.int/> (European Court of Human Rights) [en]
 3. **Council of Europe — Committee of Ministers (execution of judgments)** — <https://www.coe.int/en/web/cm> (Council of Europe) [en]
 4. **Council of Europe Commissioner for Human Rights** — <https://www.coe.int/en/web/commissioner> (Council of Europe) [en]
@@ -125,6 +125,8 @@ ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

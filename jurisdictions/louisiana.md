@@ -19,8 +19,8 @@ Louisiana is a North American civil-law constituent state of the United States �
   - Louisiana Children's Code governing child-protection, juvenile-justice, and child-welfare matters supplementing the Civil Code.
 - **Louisiana Civil Code Articles 131-140 (Custody)** — Louisiana Civil Code Articles 131-140 (1992) — <https://www.legis.la.gov/>
   - Louisiana Civil Code articles governing child custody under best-interests-of-the-child standard with civil-law structural framework.
-- **United States Constitution Article VI Supremacy Clause + Hague International Child Abduction Remedies Act ([ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97)) 1988** — ICARA + Supremacy Clause (1988) — <https://www.uscourts.gov/>
-  - US federal Hague Convention 1980 accession 1 July 1988 + ICARA 1988 — federal Hague Convention applicability binding on Louisiana courts.
+- **United States Constitution Article VI Supremacy Clause + Hague International Child Abduction Remedies Act ([ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97)) 1988** — [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) + Supremacy Clause (1988) — <https://www.uscourts.gov/>
+  - US federal [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1 July 1988 + ICARA 1988 — federal Hague Convention applicability binding on Louisiana courts.
 
 ## Apex courts
 
@@ -82,6 +82,8 @@ Louisiana family-court decisions are generally not anonymised in published opini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

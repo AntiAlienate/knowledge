@@ -35,7 +35,7 @@ Burkinabé family-court decisions are anonymised per Court of Cassation practice
 ## Key developments
 
 - **1989** — Federal Persons and Family Code enacted under Compaoré government with codification of customary-law and Islamic-law marriage provisions.
-- **1992** — Burkina Faso acceded to the Hague Convention 1980 effective 1 May 1992 — earliest African Hague accession in the corpus.
+- **1992** — Burkina Faso acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 1992 — earliest African Hague accession in the corpus.
 
 ## Structural findings
 
@@ -67,6 +67,8 @@ Burkinabé family-court decisions are anonymised per Court of Cassation practice
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

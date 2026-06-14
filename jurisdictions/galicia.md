@@ -55,7 +55,7 @@ Galician family-court decisions are anonymised per Galician court practice using
 - Largest civil-foral-law Spanish autonomous community without full fiscal autonomy is structurally distinctive within Iberian foral cluster — distinct from Basque Concierto Económico and Navarrese Convenio Económico.
 - Sociedade de gananciais galega (Galician community-property variant) is structurally distinctive within European community-property cluster.
 - Spanish Constitution Article 149.1.8 (foral civil law preservation) applies via the Galician-civil-law framework.
-- Spanish Hague Convention 1980 accession 1987 + Galician Foral Civil Law application framework is structurally distinctive.
+- Spanish [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1987 + Galician Foral Civil Law application framework is structurally distinctive.
 
 ## See also
 
@@ -83,6 +83,8 @@ Galician family-court decisions are anonymised per Galician court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

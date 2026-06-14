@@ -39,7 +39,7 @@ Saint-Martinois family-court decisions are anonymised per Court of Appeal practi
 ## Key developments
 
 - **1648** — Treaty of Concordia between France and Dutch Republic partitioned the island of Saint Martin into French (north) and Dutch (south) portions — establishing the structurally distinctive shared-island framework.
-- **1983** — Hague Convention 1980 territorial extension by France to Saint-Martin effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to Saint-Martin effective 1 December 1983.
 - **2003** — Saint-Martin voted 76% in favour of COM autonomy from Guadeloupe DROM.
 - **2007** — Federal Organic Law establishing Saint-Martin's COM autonomy effective 22 February 2007.
 
@@ -75,6 +75,8 @@ Saint-Martinois family-court decisions are anonymised per Court of Appeal practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

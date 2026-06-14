@@ -37,7 +37,7 @@ Kyrgyz family-court decisions are anonymised per Supreme Court practice using in
 ## Key developments
 
 - **2003** — Federal Family Code enacted post-Soviet codifying marriage, parental rights and child custody.
-- **2012** — Kyrgyzstan acceded to the Hague Convention 1980 effective 1 May 2012; Children's Code enacted.
+- **2012** — Kyrgyzstan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 2012; Children's Code enacted.
 - **2021** — Constitutional Court restructured under 2021 constitutional reforms.
 
 ## Structural findings
@@ -70,6 +70,8 @@ Kyrgyz family-court decisions are anonymised per Supreme Court practice using in
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

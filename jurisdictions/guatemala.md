@@ -37,8 +37,8 @@ Guatemalan family-court decisions are anonymised per Supreme Court practice usin
 ## Key developments
 
 - **1963** — Federal Civil Code enacted codifying personal-status, family, and inheritance provisions.
-- **2002** — Guatemala acceded to the Hague Convention 1980 effective 1 May 2002.
-- **2003** — Federal Code enacted codifying superior-interest-of-the-child principle and child-protection provisions aligned with UNCRC.
+- **2002** — Guatemala acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 2002.
+- **2003** — Federal Code enacted codifying superior-interest-of-the-child principle and child-protection provisions aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child).
 
 ## Structural findings
 
@@ -70,6 +70,8 @@ Guatemalan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

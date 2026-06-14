@@ -38,7 +38,7 @@ USVI family-court decisions are anonymised per Supreme Court practice using init
 
 - **1917** — United States acquired Virgin Islands from Denmark in 1917 — Danish civil-law substantive heritage commenced US-territorial integration.
 - **1954** — Federal Revised Organic Act establishing USVI's unincorporated US territory status.
-- **1988** — Hague Convention 1980 territorial extension by US to USVI effective 1 July 1988.
+- **1988** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by US to USVI effective 1 July 1988.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ USVI family-court decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

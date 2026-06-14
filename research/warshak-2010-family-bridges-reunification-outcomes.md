@@ -17,9 +17,9 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 
 - 22 children, ages 10-17, identified as severely alienated
 - All cases adjudicated; court determined alienation present (not justified estrangement)
-- Court ordered temporary residence change to rejected parent + Family Bridges program
+- Court ordered temporary residence change to rejected parent + [Family Bridges](https://warshak.com/family-bridges/) program
 - No contact with favoured parent for 30-90 days post-program
-- Multi-day residential workshop with rejected parent + Warshak/Otis clinical team
+- Multi-day residential workshop with rejected parent + [Warshak](https://warshak.com/family-bridges/)/Otis clinical team
 
 ## Methodology
 
@@ -164,6 +164,8 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -189,7 +191,7 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 - [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
-- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [The Reunification Journey Rebuilding After Alienation](https://www.antialienate.com/blog/the-reunification-journey-rebuilding-after-alienation)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->

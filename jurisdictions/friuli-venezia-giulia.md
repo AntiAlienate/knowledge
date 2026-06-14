@@ -21,7 +21,7 @@ Friuli-Venezia Giulia (Friûl-Vignesie Julie in Friulian / Furlanija-Julijska kr
   - Italian Law of 23 February 2001 establishing specific protection framework for the Slovene linguistic minority in Friuli-Venezia Giulia.
 - **Treaty of Osimo 1975** — Treaty of Osimo (1975) — <https://www.mae.gov.it/>
   - International treaty of 10 November 1975 between Italy and Yugoslavia (now Slovenia and Croatia) definitively establishing Italo-Yugoslav border — definitive resolution of Trieste-area sovereignty.
-- **Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
+- **Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
   - Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Friuli-Venezia Giulia.
 
 ## Apex courts
@@ -57,7 +57,7 @@ Friuli-Venezia Giulia family-court decisions are anonymised per Italian court pr
 - Central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution including 1947 Free Territory of Trieste + 1954 London Memorandum + 1975 Treaty of Osimo is structurally distinctive globally — only Italian autonomous region whose autonomy establishment was delayed by ~15 years due to international border-sovereignty resolution requirements.
 - Italian Law 38/2001 specific Slovene minority protection framework is structurally distinctive within Italian linguistic-minority cluster.
 - Four-province framework (Udine / Pordenone / Gorizia / Trieste) is structurally distinctive within Italian autonomous-region cluster.
-- Italian Hague Convention 1980 accession 1985 + Friuli-Venezia Giulia Italian-civil-law framework intersection is structurally distinctive.
+- Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985 + Friuli-Venezia Giulia Italian-civil-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -84,6 +84,8 @@ Friuli-Venezia Giulia family-court decisions are anonymised per Italian court pr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

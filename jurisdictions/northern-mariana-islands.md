@@ -40,7 +40,7 @@ CNMI family-court decisions are anonymised per Supreme Court practice using init
 
 - **1976** — Federal Covenant establishing CNMI Commonwealth status (effective 1986) with substantial customary-land protection.
 - **1978** — Constitution adopted with Article XII protecting customary-land ownership by persons of Northern Marianas descent.
-- **1988** — Hague Convention 1980 territorial extension by US to CNMI effective 1 July 1988.
+- **1988** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by US to CNMI effective 1 July 1988.
 
 ## Structural findings
 
@@ -73,6 +73,8 @@ CNMI family-court decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

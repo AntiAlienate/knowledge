@@ -26,7 +26,7 @@ For blocked calls: keep your own call log showing attempted contact + duration s
 
 ## The legal frame
 
-Digital gatekeeping fits **Baker's strategy #3** (interfering with communication) and **#4** (interfering with symbolic communication). These are documented alienating behaviors per [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) — actionable in family court without invoking the contested "PAS" framing.
+Digital gatekeeping fits **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) strategy #3** (interfering with communication) and **#4** (interfering with symbolic communication). These are documented alienating behaviors per [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) — actionable in family court without invoking the contested "PAS" framing.
 
 ## Source-blog hyperlinks
 
@@ -43,7 +43,7 @@ Digital gatekeeping fits **Baker's strategy #3** (interfering with communication
 ## Citations
 
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- Harman, Kruk & Hines (2018). *Psychological Bulletin*, 144(12), 1275–1299.
+- [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018). *Psychological Bulletin*, 144(12), 1275–1299.
 
 ## Disclaimer
 
@@ -52,6 +52,8 @@ Educational content. **Not legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

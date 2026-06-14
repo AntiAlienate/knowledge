@@ -14,7 +14,7 @@ Turks and Caicos Islands (TCI) is a Caribbean common-law British Overseas Territ
 ## Statutory framework
 
 - **Children Ordinance 2014** — Children Ordinance (2014) — <https://www.gov.tc/>
-  - Federal Children Ordinance drawing on English Children Act 1989 model codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions.
+  - Federal Children Ordinance drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions.
 - **Matrimonial Causes Ordinance** — Matrimonial Causes Ordinance (1990) — <https://www.gov.tc/>
   - Federal matrimonial-causes statute.
 
@@ -36,7 +36,7 @@ TCI family-court decisions are anonymised per Court of Appeal practice using ini
 
 ## Key developments
 
-- **1986** — Hague Convention 1980 territorial extension by UK to TCI effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to TCI effective 1 August 1986.
 - **2014** — Federal Children Ordinance enacted drawing on English Children Act 1989 model.
 
 ## Structural findings
@@ -68,6 +68,8 @@ TCI family-court decisions are anonymised per Court of Appeal practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

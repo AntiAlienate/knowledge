@@ -55,7 +55,7 @@ Scarborough Shoal-related decisions are anonymised per claimant-state court prac
 - Central focus of PCA 2016 Arbitration 'rock vs island' UNCLOS Article 121(3) determination is structurally distinctive globally — only modern apex international-arbitration determination of disputed feature's rock-or-island status.
 - US-Philippines Mutual Defense Treaty applicability to Scarborough Shoal repeatedly affirmed by US Secretaries of State is structurally distinctive globally — only South China Sea disputed feature with explicit US-treaty-defence-guarantee against another major Asian power.
 - Marcos Jr. assertive Philippine response framework (2022-2024) is structurally distinctive — modern formal Philippine policy reversal from Duterte appeasement approach to direct confrontation framework.
-- Variable Hague Convention 1980 applicability per claimant (Philippines party 1994, PRC mainland non-party) is structurally distinctive.
+- Variable [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) applicability per claimant (Philippines party 1994, PRC mainland non-party) is structurally distinctive.
 
 ## See also
 
@@ -84,6 +84,8 @@ Scarborough Shoal-related decisions are anonymised per claimant-state court prac
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -17,7 +17,7 @@ Tristan da Cunha is a South Atlantic common-law dependency of the British Overse
   - UK Order in Council of 8 July 2009 establishing the consolidated constitutional framework for Saint Helena, Ascension and Tristan da Cunha — including the constituent Tristan da Cunha framework.
 - **Tristan da Cunha Land Tenure Framework** — Tristan da Cunha Land Tenure Framework (1962) — <https://www.tristandc.com/>
   - Constitutional Tristan da Cunha Land Tenure framework establishing complete-community-ownership land regime — all land on Tristan da Cunha is communally owned, no private land ownership permitted.
-- **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in Tristan da Cunha)** — Children Act 1989 (1989) — <https://www.legislation.gov.uk/>
+- **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in Tristan da Cunha)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (1989) — <https://www.legislation.gov.uk/>
   - English Children Act 1989 applicable in Tristan da Cunha for parental responsibility and child custody.
 
 ## Apex courts
@@ -41,7 +41,7 @@ Tristan da Cunha decisions are anonymised per UK overseas-territory court practi
 - **1816** — British military annexation of Tristan da Cunha on 14 August 1816 — beginning of British sovereignty. Corporal William Glass remained on Tristan da Cunha after garrison withdrawal in 1817 — founding cohort of current population.
 - **1961** — Volcanic eruption of Queen Mary's Peak on 10 October 1961 — Tristan da Cunha's entire population of ~290 was evacuated to UK. Only complete state-level civilian-population evacuation due to natural disaster in modern history.
 - **1963** — Tristan da Cunha population voted to return in November 1962 and was repatriated in November 1963 — most remote permanent civilian community to undergo complete-population evacuation and return in modern history.
-- **1986** — Hague Convention 1980 territorial extension by UK to Tristan da Cunha effective 1 August 1986.
+- **1986** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Tristan da Cunha effective 1 August 1986.
 - **2009** — UK Order in Council of 8 July 2009 establishing the consolidated constitutional framework for Saint Helena, Ascension and Tristan da Cunha.
 
 ## Structural findings
@@ -80,6 +80,8 @@ Tristan da Cunha decisions are anonymised per UK overseas-territory court practi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

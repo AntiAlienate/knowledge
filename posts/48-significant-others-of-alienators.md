@@ -9,7 +9,7 @@
 
 ## What recruitment looks like (you weren't given a script)
 
-You were not given a script when you fell in love. But you have been reading from one ever since. Adult children of parental alienation describe a pattern over and over (Baker, 2007; Baker, 2010): the alienating parent's new partner became the *second voice* — the corroborating witness. *"See, even she agrees."* This is not a moral indictment. This is recruitment doing what recruitment does — and recruitment runs on certainty.
+You were not given a script when you fell in love. But you have been reading from one ever since. Adult children of parental alienation describe a pattern over and over ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), 2007; Baker, 2010): the alienating parent's new partner became the *second voice* — the corroborating witness. *"See, even she agrees."* This is not a moral indictment. This is recruitment doing what recruitment does — and recruitment runs on certainty.
 
 ## 6 signs you've been recruited
 
@@ -71,6 +71,8 @@ Educational content. **Not relationship advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

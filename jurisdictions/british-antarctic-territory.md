@@ -17,7 +17,7 @@ British Antarctic Territory (BAT) is an Antarctic common-law British Overseas Te
   - Order in Council of 3 March 1962 establishing BAT as a separate British Overseas Territory from the Falkland Islands Dependencies.
 - **Antarctic Treaty 1959 (article IV claim suspension)** — Antarctic Treaty (1959) — <https://www.ats.aq/>
   - International treaty providing for Antarctic claim suspension under article IV — BAT claim suspended pending Treaty term.
-- **English Children Act 1989 (applicable in BAT)** — Children Act 1989 (1989) — <https://www.legislation.gov.uk/>
+- **English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (applicable in BAT)** — Children Act 1989 (1989) — <https://www.legislation.gov.uk/>
   - English Children Act 1989 applicable in BAT for parental responsibility and child custody — theoretical given absence of permanent civilian population.
 
 ## Apex courts
@@ -119,6 +119,8 @@ BAT decisions are anonymised per UK overseas-territory court practice using init
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -146,10 +148,10 @@ BAT decisions are anonymised per UK overseas-territory court practice using init
 
 ## Related on antialienate.com
 
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 - [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->

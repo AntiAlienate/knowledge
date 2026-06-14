@@ -15,7 +15,7 @@ Family psychotherapist and one of the most influential UK voices on parental ali
 - **Family Separation Clinic** — UK-based clinic providing assessment, intervention, and reunification work in cases of induced child rejection.
 - ***Understanding Parental Alienation: Learning to Cope, Helping to Heal*** (Charles C Thomas, with Nick Woodall) — practitioner reference.
 - **Karen Woodall blog** — long-running clinical-perspective writing on PA, attachment, and intervention strategy.
-- Significant influence on UK Cafcass training and the post-Re C [2023] practitioner consensus.
+- Significant influence on UK [Cafcass](https://www.cafcass.gov.uk/) training and the post-Re C [2023] practitioner consensus.
 
 ## Where to find her work
 
@@ -31,6 +31,8 @@ For UK practice, Woodall is the most prominent practitioner-researcher publicly 
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

@@ -44,7 +44,7 @@ Ross Dependency decisions are anonymised per New Zealand Family Court practice u
 - **1923** — UK Order in Council of 30 July 1923 transferring sovereignty over the Ross Dependency from UK to New Zealand.
 - **1959** — Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — Ross Dependency claim suspended pending Treaty term.
 - **1960** — New Zealand Act establishing NZ governance framework for Ross Dependency.
-- **1991** — Hague Convention 1980 territorial extension by New Zealand to Ross Dependency effective 1 August 1991.
+- **1991** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by New Zealand to Ross Dependency effective 1 August 1991.
 
 ## Structural findings
 
@@ -82,6 +82,8 @@ Ross Dependency decisions are anonymised per New Zealand Family Court practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

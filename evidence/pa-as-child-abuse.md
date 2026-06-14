@@ -34,7 +34,7 @@
 
 **Citation.** Verrocchio, M. C., Marchetti, D., & Fulcheri, M. (2015). Perceived parental functioning, self-esteem, and psychological distress in adults whose parents are separated/divorced. *Frontiers in Psychology*, 6, 1760. https://doi.org/10.3389/fpsyg.2015.01760 — URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01760/full
 
-**What it shows.** Retrospective study of Italian adults of separated/divorced parents linking perceived alienating behaviours with elevated psychological distress and reduced self-esteem. Companion paper: Verrocchio, M. C., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Marchetti, D. (2015). Adult report of childhood exposure to parental alienation at different developmental time periods. *Journal of Family Therapy*, 40(4). Also: Verrocchio, Baker & Bernet (2016) Symptom Checklist-90-Revised study in *Annali dell'Istituto Superiore di Sanità* (PMID 25613416). https://pubmed.ncbi.nlm.nih.gov/25613416/
+**What it shows.** Retrospective study of Italian adults of separated/divorced parents linking perceived alienating behaviours with elevated psychological distress and reduced self-esteem. Companion paper: Verrocchio, M. C., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Marchetti, D. (2015). Adult report of childhood exposure to parental alienation at different developmental time periods. *Journal of Family Therapy*, 40(4). Also: Verrocchio, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Bernet (2016) Symptom Checklist-90-Revised study in *Annali dell'Istituto Superiore di Sanità* (PMID 25613416). https://pubmed.ncbi.nlm.nih.gov/25613416/
 
 **\[secondary verification only]** for exact effect-size quotes; the empirical association between recalled alienating behaviour and adult distress is well established in the Verrocchio program of research, but quoting specific coefficients requires direct access to the published article.
 
@@ -42,7 +42,7 @@
 
 ### 1.4 Bernet (2010, ed.); Bernet, von Boch-Galhau, Baker & Morrison (2010) — [DSM-5](https://www.appi.org/products/dsm)/ICD-11 proposal and prevalence estimate
 
-**Citation.** Bernet, W. (Ed.). (2010). *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)*. Springfield, IL: Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental alienation, DSM-V, and ICD-11. *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
+**Citation.** Bernet, W. (Ed.). (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*. Springfield, IL: Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental alienation, DSM-V, and [ICD-11](https://icd.who.int/). *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
 
 **The 740,000 figure.** Bernet's widely-cited estimate works as follows: ~20% of U.S. children live in separated/divorced households; ~25% of those separations are high-conflict; ~25% of children in high-conflict separations become alienated → approximately 1% of U.S. children, or **~740,000 children and adolescents**. **\[secondary verification only]** — the calculation appears across Bernet's published work but the specific 740,000 figure is an *estimate*, not an epidemiologically validated prevalence.
 
@@ -130,7 +130,7 @@ WHO further stated that "inclusion of a term for search purposes does not signif
 
 ### 2.5 United Kingdom — [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17), s.1 and s.3
 
-**Citation.** *Domestic Abuse Act 2021*, c. 17. URL: https://www.legislation.gov.uk/ukpga/2021/17
+**Citation.** *[Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17)*, c. 17. URL: https://www.legislation.gov.uk/ukpga/2021/17
 
 **Operative text.**
 - **s.1(3).** Behaviour of a person ("A") towards another person ("B") is "abusive" if it consists of any of the following — (a) physical or sexual abuse; (b) violent or threatening behaviour; (c) **controlling or coercive behaviour**; (d) economic abuse; (e) **psychological, emotional or other abuse**; and it does not matter whether the behaviour consists of a single incident or a course of conduct.
@@ -156,7 +156,7 @@ WHO further stated that "inclusion of a term for search purposes does not signif
 
 ### 3.1 *L. (A.G.) v. D. (K.B.)*, 2009 [CanLII](https://www.canlii.org/) 943 (ON SC), Ont. Sup. Ct. (McWatt J.)
 
-**Citation.** *L.(A.G.) v. D.(K.B.)*, 2009 CanLII 943 (Ontario Superior Court of Justice), Justice Faye E. McWatt presiding. Summary URL: https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/ ; APA *Monitor* coverage: https://www.apa.org/monitor/2009/04/alienation
+**Citation.** *L.(A.G.) v. D.(K.B.)*, 2009 [CanLII](https://www.canlii.org/) 943 (Ontario Superior Court of Justice), Justice Faye E. McWatt presiding. Summary URL: https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/ ; APA *Monitor* coverage: https://www.apa.org/monitor/2009/04/alienation
 
 **Verbatim (¶ 151).** "I find that her unrelenting behaviour toward the children is **tantamount to emotional abuse** as described by Dr. Fidler."
 
@@ -221,7 +221,7 @@ These all require direct retrieval of the judgment text before any pull-quote ca
 
 **Source.** https://www.pasg.info/about
 
-**Position.** PASG defines parental alienation as "a mental condition in which a child ... allies himself or herself strongly with the preferred parent ... and rejects a relationship with the other parent without legitimate justification." The organisation's three stated goals are (1) supporting research, (2) educating professionals/policymakers/families, and (3) countering misinformation. PASG's broader publications and resources characterise severe induced alienation as a form of *child psychological abuse* meeting DSM-5 V995.51 criteria, but the organisation's public "About" page does not itself use abuse terminology.
+**Position.** [PASG](https://pasg.info/) defines parental alienation as "a mental condition in which a child ... allies himself or herself strongly with the preferred parent ... and rejects a relationship with the other parent without legitimate justification." The organisation's three stated goals are (1) supporting research, (2) educating professionals/policymakers/families, and (3) countering misinformation. PASG's broader publications and resources characterise severe induced alienation as a form of *child psychological abuse* meeting DSM-5 V995.51 criteria, but the organisation's public "About" page does not itself use abuse terminology.
 
 **Honest disclosure.** PASG is the leading advocacy organisation for the PA-as-abuse framing; it is not a neutral arbiter.
 
@@ -239,7 +239,7 @@ These all require direct retrieval of the judgment text before any pull-quote ca
 
 **Source.** https://www.afccnet.org/
 
-**Position.** AFCC has not adopted a categorical PA-as-abuse position. It produces guidelines for therapeutic interventions in court-involved children and parents, treats parent–child contact problems as a *differentiated* phenomenon (alienation, estrangement, justified resistance, hybrid), and has hosted webinars on "Claims and Counterclaims in Parental Alienation." See e.g. Sullivan et al., "Parent-child contact problems: Family violence and parental alienating behaviors either/or, neither/nor, both/and, one in the same?" *Family Court Review* (2024). https://onlinelibrary.wiley.com/doi/10.1111/fcre.12764
+**Position.** [AFCC](https://www.afccnet.org/) has not adopted a categorical PA-as-abuse position. It produces guidelines for therapeutic interventions in court-involved children and parents, treats parent–child contact problems as a *differentiated* phenomenon (alienation, estrangement, justified resistance, hybrid), and has hosted webinars on "Claims and Counterclaims in Parental Alienation." See e.g. Sullivan et al., "Parent-child contact problems: Family violence and parental alienating behaviors either/or, neither/nor, both/and, one in the same?" *Family Court Review* (2024). https://onlinelibrary.wiley.com/doi/10.1111/fcre.12764
 
 ---
 
@@ -279,7 +279,7 @@ See section 2.4 above. WHO has formally removed "parental alienation" as an ICD-
 
 ### 5.1 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Dickson, O'Sullivan, Rosen & Hayes (2020) — *Journal of Social Welfare and Family Law*
 
-**Citation.** Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 — full study: GW Law Faculty Publications, https://scholarship.law.gwu.edu/faculty_publications/1456/ ; SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062
+**Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 — full study: GW Law Faculty Publications, https://scholarship.law.gwu.edu/faculty_publications/1456/ ; SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062
 
 **Headline findings (from the abstract).** Analysis of "over 2000 court opinions" across ten years of U.S. cases. "Mothers' claims of abuse, especially child physical or sexual abuse, increase their risk of losing custody, and fathers' cross-claims of alienation virtually double that risk." Alienation's impact is "gender-specific": fathers alleging mothers are abusive "are not similarly undermined when mothers cross-claim alienation." Where Guardians ad Litem or custody evaluators were appointed, unfavourable outcomes for mothers and gender differences "are increased."
 
@@ -313,7 +313,7 @@ See section 2.4 above. WHO has formally removed "parental alienation" as an ICD-
 
 ---
 
-### 5.5 Saini, Johnston, Fidler & Bala (2016) — the balanced critical review
+### 5.5 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) — the balanced critical review
 
 **Citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). New York: Oxford University Press. Full text via Nevada courts: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
@@ -347,7 +347,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ### Weak / disputed (low confidence — be cautious in the repo)
 
 6. **Population-prevalence figures (e.g., 740,000 U.S. children).** This is a calculation, not an epidemiological measurement. It should be cited as Bernet's estimate, not as established prevalence.
-7. **The forensic operation of PA in family courts.** Meier et al. (2020) and Silberg & Dallam (2019) document that PA cross-claims systematically defeat abuse allegations in U.S. courts, with gender-asymmetric outcomes. This is *not* an argument that alienation doesn't exist — it is an argument that the legal apparatus around it is being misused, and that the misuse itself is causing serious harm to children and protective parents. GREVIO and the UN Special Rapporteur reach similar conclusions internationally.
+7. **The forensic operation of PA in family courts.** Meier et al. (2020) and [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) document that PA cross-claims systematically defeat abuse allegations in U.S. courts, with gender-asymmetric outcomes. This is *not* an argument that alienation doesn't exist — it is an argument that the legal apparatus around it is being misused, and that the misuse itself is causing serious harm to children and protective parents. GREVIO and the UN Special Rapporteur reach similar conclusions internationally.
 
 ### Intellectually honest framing for the repository
 
@@ -361,7 +361,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 
 ## Citations index (one-line)
 
-- Harman, Kruk & Hines (2018) *Psych. Bull.* 144(12):1275-1299 — https://pubmed.ncbi.nlm.nih.gov/30475019/
+- [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) *Psych. Bull.* 144(12):1275-1299 — https://pubmed.ncbi.nlm.nih.gov/30475019/
 - Verhaar, Matthewson & Bentley (2022) *Children* 9(4):475 — https://www.mdpi.com/2227-9067/9/4/475
 - Verrocchio, Marchetti & Fulcheri (2015) *Front. Psychol.* 6:1760 — https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01760/full
 - Bernet (Ed.) (2010) *Parental Alienation, DSM-5, and ICD-11* — Charles C. Thomas
@@ -372,7 +372,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - WHO ICD-11 FAQ on parental alienation — https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation
 - GREVIO 3rd General Report — https://www.coe.int/en/web/istanbul-convention/
 - *L.(A.G.) v. D.(K.B.)* 2009 CanLII 943 (ON SC) — https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/
-- *Re A (Children: Parental alienation)* [2019] EWFC B56 — BAILII
+- *Re A (Children: Parental alienation)* [2019] EWFC B56 — [BAILII](https://www.bailii.org/)
 - *T.L.D. v. B.G.* [2023] ZAGPJHC 801 — https://www.saflii.org/za/cases/ZAGPJHC/2023/801.html
 - Cass. n. 7041/2013; Cass. n. 13217/2021 (Italy) — https://www.giustiziainsieme.it/it/minori-e-famiglia/1759
 - APA Statement on PAS (2008) — https://www.apa.org/news/press/releases/2008/01/pas-syndrome
@@ -380,7 +380,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - Meier et al. (2020) *J. Soc. Welfare & Fam. L.* 42(1):92-105 — https://scholarship.law.gwu.edu/faculty_publications/1456/
 - Silberg & Dallam (2019) *J. Child Custody* 16(2):140-169 — https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf
 - Dallam & Silberg (2016) *J. Child Custody* 13(2-3):134-143 — https://irp-cdn.multiscreensite.com/0dab915e/files/uploaded/10.16%20Jrnl%20Child%20Custody%20Reunif%20Harm%20copy.pdf
-- Mercer & Silberg (Eds.) (2023) *Challenging Parental Alienation* — Routledge
+- [Mercer & Silberg](https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974) (Eds.) (2023) *Challenging Parental Alienation* — Routledge
 - Saini, Johnston, Fidler & Bala (2016) "Empirical studies of alienation" in *Parenting Plan Evaluations* (2nd ed., OUP) — https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 - [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) *Family Court Review* 58(2):270-292 — https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
 - UN OHCHR press release on Brazil law (Sept 2025; Special Rapporteur Reem Alsalem) — https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
@@ -388,6 +388,8 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ---
 
 *Compiled 2026-05-25 for AntiAlienate-knowledge (CC BY 4.0). Items marked **\[secondary verification only]** require direct re-verification against the original source before publication.*
+
+
 
 
 

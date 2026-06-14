@@ -14,7 +14,7 @@ Bermuda is a North Atlantic common-law British Overseas Territory — structural
 ## Statutory framework
 
 - **Children Act 1998** — Children Act (1998) — <https://www.judiciary.bm/>
-  - Federal Children Act drawing on English Children Act 1989 model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions.
+  - Federal Children Act drawing on English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) model codifying welfare-of-the-child principle (s. 3), parental responsibility, custody, and children's protection provisions.
 - **Matrimonial Causes Act 1974** — Matrimonial Causes Act (1974) — <https://www.judiciary.bm/>
   - Federal matrimonial-causes statute.
 
@@ -39,7 +39,7 @@ Bermudian family-court decisions are anonymised per Court of Appeal practice usi
 - **1620** — Bermuda House of Assembly traditionally dated to 1620 — oldest continuously self-governing legislature in the Western Hemisphere.
 - **1974** — Federal matrimonial-causes statute enacted.
 - **1998** — Federal Children Act enacted drawing on English Children Act 1989 model.
-- **1999** — Hague Convention 1980 territorial extension by UK to Bermuda effective 1 March 1999.
+- **1999** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by UK to Bermuda effective 1 March 1999.
 
 ## Structural findings
 
@@ -72,6 +72,8 @@ Bermudian family-court decisions are anonymised per Court of Appeal practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

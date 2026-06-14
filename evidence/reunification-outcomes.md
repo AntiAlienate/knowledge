@@ -23,7 +23,7 @@
 
 ---
 
-## 1. Family Bridges (Warshak)
+## 1. [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/))
 
 ### 1.1 Warshak (2010) — original Family Court Review article
 
@@ -71,7 +71,7 @@
 
 ### 1.4 Independent replication / evaluation
 
-**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on Family Bridges are by Warshak or his programme team. The Family Bridges Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers (Warshak 2010; Warshak 2019) plus the Warshak & Otis 2010 commentary and a Saini 2019 follow-up on coparenting (Saini, M. (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the Saini paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
+**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on Family Bridges are by Warshak or his programme team. The Family Bridges Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers (Warshak 2010; Warshak 2019) plus the Warshak & Otis 2010 commentary and a [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2019 follow-up on coparenting (Saini, M. (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the Saini paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
 
 ---
 
@@ -94,9 +94,9 @@
 
 ---
 
-## 3. Turning Points for Families / TPFF (Gottlieb)
+## 3. Turning Points for Families / [TPFF](https://turningpointsforfamilies.com/) ([Gottlieb](https://turningpointsforfamilies.com/))
 
-### 3.1 Harman, Saunders & Afifi (2022) — the Colorado State outcome paper
+### 3.1 Harman, [Saunders](https://www.ovw.usdoj.gov/) & Afifi (2022) — the Colorado State outcome paper
 
 **Citation.** Harman, J. J., Saunders, L., & Afifi, T. (2022). Evaluation of the Turning Points for Families (TPFF) program for severely alienated children. *Journal of Family Therapy*, 44(2), [pagination per print issue — online first 2021; DOI as below]. https://doi.org/10.1111/1467-6427.12366 — open-access mirror via Texas [AFCC](https://www.afccnet.org/): https://texasafcc.org/wp-content/uploads/2024/10/Evaluation-of-the-Turning-Points-for-Families.pdf — [OSF](https://osf.io/) data and materials: https://osf.io/b3uyn/
 
@@ -122,7 +122,7 @@
 
 ### 3.2 Provenance of the widely quoted "96% effectiveness" figure
 
-The 96.4% figure originates in the Harman et al. (2022) paper above (the so-called "Colorado State outcome study"). It is computed as 53 of 55 children "reconnecting" — based on programme-staff judgement rather than the validated communication scales. The validated scales did not show statistically significant improvement.
+The 96.4% figure originates in the [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)(2022) paper above (the so-called "Colorado State outcome study"). It is computed as 53 of 55 children "reconnecting" — based on programme-staff judgement rather than the validated communication scales. The validated scales did not show statistically significant improvement.
 
 ### 3.3 Independent peer-reviewed evaluation of TPFF
 
@@ -130,7 +130,7 @@ The 96.4% figure originates in the Harman et al. (2022) paper above (the so-call
 
 ---
 
-## 4. AB-PA — Childress's Attachment-Based Model of "Parental Alienation"
+## 4. [AB-PA](https://drcachildress.org/) — [Childress's](https://drcachildress.org/) Attachment-Based Model of "Parental Alienation"
 
 ### 4.1 The book
 
@@ -390,7 +390,7 @@ Additional verbatim provisions in the same paragraph:
 - "These programmes have been independently validated" — they have not.
 - "Randomised or matched-control trials confirm efficacy" — none exist.
 - "Long-term outcomes are favourable" — long-term outcomes have not been measured by any independent rater in any of these programmes.
-- "The programmes are demonstrably safe for children who claim the parent they are being forced to reunify with is abusive" — the Silberg & Dallam 2019 case series documents 88% of children reporting new abuse after court-ordered placement with an alleged abuser following PA findings, with suicidality rising from 13% to 33%, demonstrating that *if* the underlying alienation classification is wrong, the programme machinery can produce severe harm.
+- "The programmes are demonstrably safe for children who claim the parent they are being forced to reunify with is abusive" — the [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) case series documents 88% of children reporting new abuse after court-ordered placement with an alleged abuser following PA findings, with suicidality rising from 13% to 33%, demonstrating that *if* the underlying alienation classification is wrong, the programme machinery can produce severe harm.
 - "The 96% figure for Turning Points means the programme produces large measurable improvements in parent-child communication" — the only validated communication scale in the Harman et al. 2022 study did *not* change significantly (B = −0.003, p > 0.05); the 96% figure is a programme-staff binary "reconnected" judgement.
 
 ### 12.5 The honest middle position
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

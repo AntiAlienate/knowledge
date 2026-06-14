@@ -82,7 +82,7 @@ For most parents, the highest-value engagement is:
 2. **Attend one local support meeting** (FNF and PBB both run them regularly).
 3. **Track legislative reform efforts** in your jurisdiction — equal-parenting / PA-recognition bills come up periodically.
 
-For practitioners and researchers: PASG and ICSP are the international networks worth joining.
+For practitioners and researchers: [PASG](https://pasg.info/) and ICSP are the international networks worth joining.
 
 ## Note on framing
 
@@ -94,6 +94,8 @@ The AntiAlienate framing is **empathy-first, evidence-anchored, jurisdiction-agn
 ---
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

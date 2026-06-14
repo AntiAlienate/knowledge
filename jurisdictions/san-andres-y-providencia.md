@@ -59,7 +59,7 @@ San Andrés y Providencia-related decisions are anonymised per Colombian court p
 - Raizal indigenous-titular Afro-descendant Anglo-Caribbean-Creole ethnic-cultural-recognition framework via Ley 70 of 1993 is structurally distinctive globally — only Colombian-Caribbean ethnic-titular recognition framework with linguistic, religious, and cultural identity distinct from mainland Spanish-Catholic-Hispanic Colombian framework.
 - OCCRE permanent-resident registration system is structurally distinctive globally — only Colombian internal-migration-restriction framework limiting inbound migration to preserve ethnic-cultural identity and ecological integrity.
 - ICJ Nicaragua v Colombia 2012 judgment is structurally distinctive globally — only modern apex international-court judgment redrawing maritime boundary while preserving sovereign-island framework.
-- Colombian Hague Convention 1980 accession 1995 + San Andrés y Providencia OCCRE residence-restriction framework intersection is structurally distinctive.
+- Colombian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1995 + San Andrés y Providencia OCCRE residence-restriction framework intersection is structurally distinctive.
 - Anglo-Caribbean-Creole heritage despite Colombian sovereignty is structurally distinctive globally — only Colombian-administered territory with Anglo-Caribbean-Creole linguistic-cultural heritage.
 
 ## See also
@@ -88,6 +88,8 @@ San Andrés y Providencia-related decisions are anonymised per Colombian court p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

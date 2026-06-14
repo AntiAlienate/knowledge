@@ -15,7 +15,7 @@ The corpus, hosted at [github.com/AntiAlienate/antialienate-knowledge/tree/main/
 4. **Forensic Operation in Courts** — verbatim from [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. 2020 (NIJ-funded 4,338-case dataset) and Silberg/Dallam 2019 (27 turned-around cases series)
 5. **International Institutional Positions** — WHO formally removed PA from [ICD-11](https://icd.who.int/) index February 2020; APA and APSAC reject PA-as-diagnosis; UN Special Rapporteur Alsalem A/HRC/53/36 quoted verbatim
 6. **Prevalence Claims Under Scrutiny** — Bernet's widely-cited 740,000 US figure disclosed as a calculation chain (not an epidemiological measurement); [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016: *"to date there are no defensible estimates of the prevalence or incidence of the problem"*
-7. **Diagnostic Codes That DO Apply** — V995.51 / V61.20 / V61.29 (DSM-5) and QE52.0 (ICD-11) verbatim, with the Bernet/Wamboldt/Narrow 2016 CAPRD framework as the doctrinal vehicle for defensible clinical formulation
+7. **Diagnostic Codes That DO Apply** — V995.51 / V61.20 / V61.29 ([DSM-5](https://www.appi.org/products/dsm)) and QE52.0 ([ICD-11](https://icd.who.int/)) verbatim, with the Bernet/Wamboldt/Narrow 2016 CAPRD framework as the doctrinal vehicle for defensible clinical formulation
 8. **What Court Submissions Can Honestly Claim** — 7 CAN-claim items with primary support; 6 CANNOT-claim items with refutation paths; sample report formulation + sample skeleton arguments for both sides
 9. **Evaluator Training Asymmetry** — [Saunders](https://www.ovw.usdoj.gov/) 2011 NIJ study (n=465 evaluators; 38% never use validated DV screening); [AFCC](https://www.afccnet.org/) Model Standards verbatim
 10. **Standard of Proof Analysis** — *Re B [2008] UKHL 35*, *Santosky v Kramer* 455 U.S. 745 (1982), *Daubert* 509 U.S. 579 (1993), *Briginshaw* (1938) 60 CLR 336, *F.H. v McDougall* 2008 SCC 53 all verbatim with sample skeleton arguments for UK / US / AU / ECHR
@@ -24,7 +24,7 @@ The corpus, hosted at [github.com/AntiAlienate/antialienate-knowledge/tree/main/
 
 ### Editorial standard
 
-Every load-bearing claim in the evidence corpus is cited to a primary source with a working URL. Where a primary text was not directly accessible at compilation, the citation is marked `[secondary verification only]`. Where a widely-cited figure could not be verified against the asserted source (e.g., the APSAC paraphrase tracked across PA literature; the Saini 2016 GRADE figure), the discrepancy is flagged for correction.
+Every load-bearing claim in the evidence corpus is cited to a primary source with a working URL. Where a primary text was not directly accessible at compilation, the citation is marked `[secondary verification only]`. Where a widely-cited figure could not be verified against the asserted source (e.g., the APSAC paraphrase tracked across PA literature; the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2016 GRADE figure), the discrepancy is flagged for correction.
 
 ### Distinct from existing PA references
 
@@ -47,6 +47,8 @@ AntiAlienate.com is an open knowledge initiative dedicated to supporting familie
 *Editor's note: a one-page fact sheet, the full repository link, primary-source citation list, and high-resolution image assets are available at [github.com/AntiAlienate/antialienate-knowledge/tree/main/press](./).*
 
 — END —
+
+
 
 
 
@@ -122,6 +124,6 @@ AntiAlienate.com is an open knowledge initiative dedicated to supporting familie
 - [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
 - [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 - [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
-- [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
+- [People Against Parental Alienation Global Movement](https://www.antialienate.com/blog/people-against-parental-alienation-global-movement)
 
 <!-- AA-CROSSLINK-END -->

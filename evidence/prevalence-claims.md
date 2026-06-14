@@ -8,7 +8,7 @@
 
 ## Why this page exists
 
-The PA discourse runs on a small number of headline numbers — **740,000 US children** (Bernet 2010), **1% of US children** (Bernet's derived rate), **13.4% / 22 million US parents** ([Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2016), **35.5% / 39.1% / 22 million** (Harman et al. 2019), **75% of Italian adults** (Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio 2015), **98.3% of UK 18–25-year-olds** (Hine et al. 2026). These end up in court testimony, legislative testimony, press releases, and advocacy material, often un-attributed or with methodology scrubbed.
+The PA discourse runs on a small number of headline numbers — **740,000 US children** (Bernet 2010), **1% of US children** (Bernet's derived rate), **13.4% / 22 million US parents** ([Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2016), **35.5% / 39.1% / 22 million** ([Harman et al. 2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/), **75% of Italian adults** (Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio 2015), **98.3% of UK 18–25-year-olds** (Hine et al. 2026). These end up in court testimony, legislative testimony, press releases, and advocacy material, often un-attributed or with methodology scrubbed.
 
 The honest position — supported by the pro-recognition camp's own caveats *and* by the most methodologically rigorous middle-ground review ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala, 2016) — is that **the field has no defensible population-prevalence estimate**, while PA-pattern behaviour and its sequelae in those affected are empirically robust at the qualitative and within-sample-correlational level. This page lays out the actual source material so the repository can cite these numbers truthfully.
 
@@ -20,8 +20,8 @@ The honest position — supported by the pro-recognition camp's own caveats *and
 2. Harman et al. 2016 — the first representative-poll prevalence (NC, n = 610)
 3. Harman, Leder-Elder & Biringen 2019 — three national polls (US + Canada)
 4. Hine, Harman et al. 2025 / 2026 — UK separated-parents and 18–25 prevalence
-5. Verrocchio / Bernet / Baker Italian work
-6. The Saini, Johnston, Fidler & Bala 2016 prevalence critique
+5. Verrocchio / Bernet / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Italian work
+6. The [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala 2016 prevalence critique
 7. Templer, Matthewson, Haines & Cox 2017 systematic review
 8. Cross-national / non-English prevalence work
 9. Bentley & Matthewson 2020 — qualitative, not prevalence
@@ -38,7 +38,7 @@ The honest position — supported by the pro-recognition camp's own caveats *and
 
 ### 1.1 The primary source
 
-**Citation.** Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental Alienation, DSM-V, and [ICD-11](https://icd.who.int/). *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583 — companion volume: Bernet, W. (Ed.) (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and ICD-11.* Charles C. Thomas Publisher. **[secondary verification only]** for the exact verbatim wording of the 740,000 derivation — the full [Bernet et al.](https://pasg.info/) (2010) AJFT 38(2) issue is paywalled and ResearchGate access returned HTTP 403 at compilation. The calculation as widely reported by both Bernet's collaborators and his critics is identical.
+**Citation.** Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental Alienation, DSM-V, and [ICD-11](https://icd.who.int/). *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583 — companion volume: Bernet, W. (Ed.) (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas Publisher. **[secondary verification only]** for the exact verbatim wording of the 740,000 derivation — the full [Bernet et al.](https://pasg.info/) (2010) AJFT 38(2) issue is paywalled and ResearchGate access returned HTTP 403 at compilation. The calculation as widely reported by both Bernet's collaborators and his critics is identical.
 
 ### 1.2 The calculation chain
 
@@ -193,7 +193,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ### 5.3 Verrocchio, Baker & Bernet (2016)
 
-**Citation.** Verrocchio, M. C., Baker, A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — PubMed 27122408.
+**Citation.** Verrocchio, M. C., Baker, A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408.
 
 **Sample.** N = 509 Italian community adults. Pathway model (AB exposure → psychological maltreatment → impaired bonding → depression/anxiety). **Not a population-prevalence study.**
 
@@ -274,7 +274,7 @@ A figure circulating in PA-critical secondary sources is "82% of 39 studies low 
 
 ---
 
-## 10. The Harman & Lorandos vs. Meier exchange
+## 10. The Harman & Lorandos vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) exchange
 
 This is the central scholarly battle over PA in family courts. It is not strictly a prevalence dispute, but it bears on every prevalence claim that gets used in litigation.
 
@@ -407,7 +407,7 @@ Contributor-invitation content. The literature converges on these elements:
 
 ### The strongest defensible framing
 
-"The PA literature has not yet produced a defensible population-prevalence estimate — Saini, Johnston, Fidler & Bala (2016) flagged this and the gap remains. What is established with high confidence is that PA-pattern behaviour occurs, that in those affected it produces measurable elevations in depression, anxiety, PTSD symptoms, and suicidality (Verhaar 2022; Verrocchio 2015, 2016; Bernet et al. 2015; Harman 2019; Hine 2026), and that no validated population study has been funded. The most important next step is a properly designed prevalence study; we advocate for it."
+"The PA literature has not yet produced a defensible population-prevalence estimate — Saini, Johnston, Fidler & Bala (2016) flagged this and the gap remains. What is established with high confidence is that PA-pattern behaviour occurs, that in those affected it produces measurable elevations in depression, anxiety, PTSD symptoms, and suicidality (Verhaar 2022; Verrocchio 2015, 2016; [Bernet et al.](https://pasg.info/) 2015; Harman 2019; Hine 2026), and that no validated population study has been funded. The most important next step is a properly designed prevalence study; we advocate for it."
 
 ---
 
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

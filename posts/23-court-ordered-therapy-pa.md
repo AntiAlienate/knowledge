@@ -34,7 +34,7 @@ When all 5 are met: meta-analytic effect sizes are moderate-to-large for restore
 
 ## The motion language (sample)
 
-> *Per Sullivan & Kelly (2001) and Warshak (2010), the Court is respectfully asked to order reunification therapy under the following protocol: (a) therapist shall be from [PA-specialist registry], (b) compliance shall be reported to this Court at 30/60/90 days, (c) confidentiality shall be limited per [jurisdiction's qualified privilege rule] to permit reporting of coaching or obstruction, and (d) attendance by both parents shall be a condition of continued residential arrangement. Without these conditions, therapy in this case-type is documented to deepen rather than repair the alienation (Fidler & Bala 2010).*
+> *Per Sullivan & Kelly (2001) and [Warshak](https://warshak.com/family-bridges/) (2010), the Court is respectfully asked to order reunification therapy under the following protocol: (a) therapist shall be from [PA-specialist registry], (b) compliance shall be reported to this Court at 30/60/90 days, (c) confidentiality shall be limited per [jurisdiction's qualified privilege rule] to permit reporting of coaching or obstruction, and (d) attendance by both parents shall be a condition of continued residential arrangement. Without these conditions, therapy in this case-type is documented to deepen rather than repair the alienation (Fidler & Bala 2010).*
 
 ## The parallel-track recommendation
 
@@ -58,7 +58,7 @@ Court-ordered therapy works best when paired with:
 
 ## Citations
 
-- Warshak, R. A. (2010). *Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children.* Family Court Review, 48(1), 48-80.
+- Warshak, R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using Insights from Social Science to Reconnect Parents and Alienated Children.* Family Court Review, 48(1), 48-80.
 - Sullivan, M. J., & Kelly, J. B. (2001). Legal and psychological management of cases with an alienated child. *Family Court Review*, 39(3), 299-315.
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review*, 48(1), 10-47.
 
@@ -69,6 +69,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

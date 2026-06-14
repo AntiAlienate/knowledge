@@ -59,7 +59,7 @@ Galápagos-related decisions are anonymised per Ecuadorian court practice using 
 - LOREG 2015 permanent-resident registration system and transferred-residence restriction framework is structurally distinctive globally — only modern constitutionally-protected internal-migration-restriction framework explicitly motivated by global-biosphere-conservation requirements.
 - Consejo de Gobierno del Régimen Especial de Galápagos is structurally distinctive within Ecuadorian administrative cluster — only Ecuadorian constitutionally-established governing council for a single province.
 - Galápagos Marine Reserve (1998, 2022 extension to ~198,000 km²) is structurally distinctive globally — among largest marine protected areas globally.
-- Ecuadorian Hague Convention 1980 accession 1992 + Galápagos LOREG residence-restriction framework intersection is structurally distinctive — Hague-Convention-applicability vs internal-migration-restriction framework intersection.
+- Ecuadorian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1992 + Galápagos LOREG residence-restriction framework intersection is structurally distinctive — Hague-Convention-applicability vs internal-migration-restriction framework intersection.
 - Equatorial-location and globally-iconic biosphere associated with Darwin's evolutionary research is structurally distinctive.
 
 ## See also
@@ -86,6 +86,8 @@ Galápagos-related decisions are anonymised per Ecuadorian court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

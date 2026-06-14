@@ -43,7 +43,7 @@ Myanmar family-court decisions are anonymised per Supreme Court practice using i
 - **1890** — Colonial-era guardianship statute applying across religious communities residually.
 - **1953** — Federal Muslim divorce statute enacted.
 - **1954** — Federal Burmese Buddhist marriage statute enacted.
-- **2019** — Federal children's-rights statute aligned with UNCRC, replacing 1993 Child Law.
+- **2019** — Federal children's-rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child), replacing 1993 Child Law.
 
 ## Structural findings
 
@@ -78,6 +78,8 @@ Myanmar family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

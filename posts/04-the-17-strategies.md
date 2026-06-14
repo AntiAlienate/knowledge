@@ -1,6 +1,6 @@
 # The 17 Strategies of Parental Alienation — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Canonical Taxonomy
 
-> **TL;DR.** Amy Baker's foundational research (Baker 2007, *Adult Children of Parental Alienation Syndrome*; Baker & Fine, 2013) catalogued 17 specific behavioral strategies alienating parents use. The taxonomy gives targeted parents the *vocabulary* clinicians and courts actually use — and removes the framing problem that "Parental Alienation Syndrome" still triggers under Daubert. **Use the strategy names, not "PAS."**
+> **TL;DR.** Amy [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) foundational research (Baker 2007, *Adult Children of Parental Alienation Syndrome*; Baker & Fine, 2013) catalogued 17 specific behavioral strategies alienating parents use. The taxonomy gives targeted parents the *vocabulary* clinicians and courts actually use — and removes the framing problem that "Parental Alienation Syndrome" still triggers under Daubert. **Use the strategy names, not "PAS."**
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/the-17-strategies-of-parental-alienation](https://www.antialienate.com/blog/the-17-strategies-of-parental-alienation).**
@@ -70,6 +70,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

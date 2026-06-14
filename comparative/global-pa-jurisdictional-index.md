@@ -132,7 +132,7 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 
 - Bernet 2008-2020 — 5 essential criteria + DSM/ICD advocacy
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 — Adult outcomes longitudinal
-- Baker & Fine 2014 — 17 strategies practitioner framework
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Fine 2014 — 17 strategies practitioner framework
 - Friedlander & Walters 2010 — MMFI 4-category typology
 - Fidler & Bala 2010 — Most-cited PA review
 - [Warshak](https://warshak.com/family-bridges/) 2010-2020 — Resist-refuse continuum + [Family Bridges](https://warshak.com/family-bridges/)
@@ -146,7 +146,7 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 
 - Forensic assessment tools (MMPI, ASPECT, Bricklin, CAPI)
 - [DSM-5](https://www.appi.org/products/dsm) + [ICD-11](https://icd.who.int/) PA-related codes (V61.29, V995.51, QE52, 6D52, 6B41)
-- Reunification therapy frameworks survey (Family Bridges + Overcoming Barriers + MMFI + others)
+- Reunification therapy frameworks survey ([Family Bridges](https://warshak.com/family-bridges/) + Overcoming Barriers + MMFI + others)
 - Custody evaluation protocols
 
 ## Statutes Layer
@@ -199,6 +199,8 @@ The repo is structured for community contribution. Pull requests welcome for:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Index last updated: May 2026 (67 jurisdictions, 14 regional blocks, 11+ research entries, 7 ECHR deep-dives, cross-border framework, ongoing expansion).
+
+
 
 
 

@@ -63,7 +63,7 @@ Navajo Nation family-court decisions are anonymised per Navajo Nation Supreme Co
 - Matrilineal clan-membership framework (k'éí) is structurally distinctive globally — only US Indian tribal nation with constitutionally-protected matrilineal clan-membership framework.
 - Hózhǫ́ (harmony/beauty/balance) as guiding family-law principle is structurally distinctive globally — only Indigenous-language family-law principle constitutionally entrenched.
 - Treaty of Bosque Redondo 1868 foundational framework is structurally distinctive within US Indian-treaty cluster.
-- Federal US Hague Convention 1980 + ICWA + Navajo Nation tribal framework intersection is structurally distinctive.
+- Federal US [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + ICWA + Navajo Nation tribal framework intersection is structurally distinctive.
 
 ## See also
 
@@ -89,6 +89,8 @@ Navajo Nation family-court decisions are anonymised per Navajo Nation Supreme Co
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -16,7 +16,7 @@ Long-running private-law [Children Act 1989](https://www.legislation.gov.uk/ukpg
 ## Experts
 
 - **Court-appointed psychologist (name not publicly stated in available materials)** — Clinical / forensic psychology — instructed under FPR Part 25 in the underlying proceedings (instructed by Family Court)
-- **Cafcass officer (name not publicly stated in available materials)** — Children and Family Court Advisory and Support Service — children's guardian / s.7 reporter role in the underlying proceedings (instructed by Family Court)
+- **[Cafcass](https://www.cafcass.gov.uk/) officer (name not publicly stated in available materials)** — Children and Family Court Advisory and Support Service — children's guardian / s.7 reporter role in the underlying proceedings (instructed by Family Court)
 
 ## Holding
 
@@ -58,7 +58,7 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 - **Re H-N (Children) (Domestic Abuse: Finding of Fact Hearings) [2021] EWCA Civ 448** (UK-EWS) — [`re-h-n-2021-ewca-civ-448`](./re-h-n-2021-ewca-civ-448.md) — English Court of Appeal procedural anchor on finding-of-fact hearings in private-law CA 1989 proceedings — the procedural counter-weight to Re A's 'act early' framing: act early, yes, but only after proper fact-finding on any underlying abuse allegations. Re A and Re H-N together define the modern English tension between speed of intervention and adequacy of process.
 - **Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam)** (UK-EWS) — Sir Andrew McFarlane P's later guidance restricting expert psychology in PA-framed proceedings to [HCPC](https://www.hcpc-uk.org/)-registered practitioner psychologists; addresses on the expert-quality flank the same diagnostic-late, diagnostic-wrong failure mode that Re A identified at the case-management level.
 - **Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38** (UK-EWS) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — Closes the modern English arc. Sir Andrew McFarlane P sets aside first-instance findings of 'alienating behaviour' built on an unregulated PA-specialist report and frames the audit in language strongly evocative of Re A — 'every agency involved in these proceedings can be seen to have been at fault' (CAFCASS, the children's solicitor, the local authority and the court). Re Y is the direct intellectual descendant of Re A on the systemic-failure flank.
-- **NF v AF [2025] CSOH 13** (UK-SCO) — [`nf-v-af-2025-csoh-13-scotland`](./nf-v-af-2025-csoh-13-scotland.md) — Scottish Outer House (Lord Stuart) decision in PA-framed proceedings — Scottish counterpart on the same UK constitutional canvas in which an HCPC-registered Chartered Clinical Psychologist's unchallenged evidence supports the alienation finding, in marked contrast to the late and uncoordinated professional response audited in Re A.
+- **NF v AF [2025] CSOH 13** (UK-SCO) — [`nf-v-af-2025-csoh-13-scotland`](./nf-v-af-2025-csoh-13-scotland.md) — Scottish Outer House (Lord Stuart) decision in PA-framed proceedings — Scottish counterpart on the same UK constitutional canvas in which an [HCPC](https://www.hcpc-uk.org/)-registered Chartered Clinical Psychologist's unchallenged evidence supports the alienation finding, in marked contrast to the late and uncoordinated professional response audited in Re A.
 - **BVerfG 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten on Art. 6 Abs. 2 GG / Kindeswohl grounds. Civil-law parallel to Re A's case-management-level critique: in both jurisdictions the systemic failure is one of expert quality and timing, the doctrinal route is different (constitutional Elternrecht in Karlsruhe; Children Act welfare and case-management duty in Bristol).
 
 ## Subsequent reception
@@ -113,11 +113,11 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 11. **Transparency Project — Parental alienation experts** — <https://transparencyproject.org.uk/parental-alienation-experts/> (The Transparency Project) [en] — accessed 2026-05-30
 12. **Sam King KC & Frankie Shama — A Practical Guide to Parental Alienation in Private and Public Law Children Cases (free chapter)** — <https://www.lawbriefpublishing.com/2022/07/free-chapter-from-a-practical-guide-to-parental-alienation-in-private-and-public-law-children-cases-by-sam-king-qc-frankie-shama/> (Law Brief Publishing) [en] — accessed 2026-05-30
 13. **Local Government Lawyer — Approach in parental alienation case was 'fundamentally flawed' and every agency was at fault, Family President rules (re Re Y [2026] EWFC 38 retrospective audit of 2019-era process)** — <https://www.localgovernmentlawyer.co.uk/child-protection/392-children-protection-news/99842-approach-in-parental-alienation-case-was-fundamentally-flawed-and-every-agency-was-at-fault-family-president-rules> (Local Government Lawyer) [en] — accessed 2026-05-30
-14. **Children Act 1989 — s.97 (Privacy for children involved in certain proceedings)** — <https://www.legislation.gov.uk/ukpga/1989/41/section/97> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
+14. **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — s.97 (Privacy for children involved in certain proceedings)** — <https://www.legislation.gov.uk/ukpga/1989/41/section/97> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 
 ## Editorial notes
 
-- BAILII (https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html) returned a bot-protection wall (HTTP 403) at retrieval time on 2026-05-30 and could not be read directly. The primary-text verification used in this entry therefore relies on the converging secondary record across Parklane Plowden (the leading contemporaneous practitioner write-up), Pennington's Manches Cooper, Stowe Family Law, Becket Chambers, the Centre for Social Justice 2019 family court judgments digest, and the AntiAlienate source MD. The verbatim_quotes set is drawn from passages that appear, in identical wording, in two or more of those independent secondary sources.
+- [BAILII](https://www.bailii.org/) (https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html) returned a bot-protection wall (HTTP 403) at retrieval time on 2026-05-30 and could not be read directly. The primary-text verification used in this entry therefore relies on the converging secondary record across Parklane Plowden (the leading contemporaneous practitioner write-up), Pennington's Manches Cooper, Stowe Family Law, Becket Chambers, the Centre for Social Justice 2019 family court judgments digest, and the AntiAlienate source MD. The verbatim_quotes set is drawn from passages that appear, in identical wording, in two or more of those independent secondary sources.
 - Decision date 2019-09-24 is corrected from the source MD's '17 October 2019' (which appears to be the publication / public-release date or a typographic transcription of the heading date on the BAILII page). 24 September 2019 is the hand-down date consistently reported across the practitioner secondary record (Centre for Social Justice digest; Stowe Family Law publication 23 October 2019 referring to a September hand-down; Family Law Hub summary). The precise hand-down date should be confirmed against the BAILII header line when bot-protection allows direct retrieval.
 - The 'every agency [at] fault' framing for which Re A is often colloquially invoked is, on the face of the publicly available material, NOT a verbatim phrase from HHJ Wildblood QC's 2019 judgment. The exact verbatim phrasing 'every agency involved in these proceedings can be seen to have been at fault' (with CAFCASS, the children's solicitor, the local authority and the court as the named agencies) is from Sir Andrew McFarlane P's 2026 retrospective audit in Re Y [2026] EWFC 38 of a 2019-era process. The verbatim_quotes array therefore deliberately does NOT include that phrase as a Re A quotation; it is correctly catalogued as a Re Y verbatim that descends intellectually from Re A's framing.
 - Subject children anonymised as 'A' per the standard EWFC convention and the heavy anonymisation HHJ Wildblood QC directed at publication. Number, ages and sex of the children are not stated on the face of the publicly available material and 'not_stated' is used per the schema enum.
@@ -134,6 +134,8 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
@@ -205,8 +207,8 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
 - [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
-- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 - [Warning Signs Parental Alienation](https://www.antialienate.com/blog/warning-signs-parental-alienation)
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
 
 <!-- AA-CROSSLINK-END -->

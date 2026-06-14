@@ -38,8 +38,8 @@ Haitian family-court decisions are anonymised per Court of Cassation practice us
 - **1804** — Haiti declared independence — first Black republic and second oldest independent republic in Americas after United States.
 - **1825** — Federal Civil Code adopted via French Napoleonic Code substantive heritage.
 - **1982** — Federal Decree codifying marital equality and parental responsibility framework.
-- **2013** — Haiti acceded to the Hague Convention 1980 effective 1 February 2013.
-- **2014** — Federal Children's Rights Code enacted aligned with UNCRC obligations.
+- **2013** — Haiti acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 2013.
+- **2014** — Federal Children's Rights Code enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Structural findings
 
@@ -71,6 +71,8 @@ Haitian family-court decisions are anonymised per Court of Cassation practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

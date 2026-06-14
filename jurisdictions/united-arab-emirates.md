@@ -39,7 +39,7 @@ UAE family-court decisions are anonymised per court practice; published decision
 ## Key developments
 
 - **2005** — Federal Personal Status Law enacted.
-- **2018** — UAE acceded to the Hague Convention 1980 on Child Abduction effective 1 August 2018.
+- **2018** — UAE acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on Child Abduction effective 1 August 2018.
 - **2022** — Personal Status Law for Non-Muslims in force 1 February 2023 — establishes civil personal-status framework for all non-Muslims regardless of nationality including joint-custody default.
 - **2024** — Substantial amendments to Federal Law 28/2005 modernising Muslim personal-status provisions including custody, divorce, and inheritance.
 
@@ -74,6 +74,8 @@ UAE family-court decisions are anonymised per court practice; published decision
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

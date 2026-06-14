@@ -1,6 +1,6 @@
 # Parental Alienation — Diagnostic Criteria (Bernet's 5 + [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 + Fidler & Bala's 4)
 
-> **TL;DR.** The current international diagnostic framework for parental alienation is a 3-layer convergence: Bernet's 5 essential criteria (all must be present) · Baker's 8 child behavioral indicators (the canonical signs) · Fidler & Bala's 4 differential markers (PA vs. justified estrangement). Anchored in [DSM-5](https://www.appi.org/products/dsm) V995.51, WHO [ICD-11](https://icd.who.int/) QE52, and the Harman/Kruk/Hines (2018) family-violence framing.
+> **TL;DR.** The current international diagnostic framework for parental alienation is a 3-layer convergence: Bernet's 5 essential criteria (all must be present) · [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 child behavioral indicators (the canonical signs) · Fidler & Bala's 4 differential markers (PA vs. justified estrangement). Anchored in [DSM-5](https://www.appi.org/products/dsm) V995.51, WHO [ICD-11](https://icd.who.int/) QE52, and the Harman/Kruk/Hines (2018) family-violence framing.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/parental-alienation-diagnostic-criteria](https://www.antialienate.com/blog/parental-alienation-diagnostic-criteria).**
@@ -39,8 +39,8 @@ All 5 must be present:
 
 ## Clinical anchors
 
-- **DSM-5 V995.51** — Child Psychological Abuse (the broader frame)
-- **WHO ICD-11 QE52** — Caregiver-Child Relationship Problem
+- **[DSM-5](https://www.appi.org/products/dsm) V995.51** — Child Psychological Abuse (the broader frame)
+- **WHO [ICD-11](https://icd.who.int/) QE52** — Caregiver-Child Relationship Problem
 - **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence
 
 ## Source-blog hyperlinks
@@ -70,6 +70,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

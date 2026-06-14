@@ -161,7 +161,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 9. **Corte di Cassazione, Sez. I Civile, ordinanza 17 maggio 2021 n. 13217 — testo integrale (PDF, pronuncia espressamente citata al § 11.3)** — <https://www.avvmargheritacorriere.it/docs/ordinanza_13217-21.pdf> (Avv. Margherita Corriere (riproduzione)) [it] — accessed 2026-05-30
 10. **GREVIO Baseline Evaluation Report on Italy (gennaio 2020) — cornice sovranazionale richiamata in motivazione tramite il filtro CEDU I.M. e altri c. Italia 2022** — <https://rm.coe.int/grevio-report-italy-first-baseline-evaluation/168099724e> (Council of Europe — GREVIO) [en] — accessed 2026-05-30
 11. **CEDU, Talpis c. Italia, ricorso n. 41237/14, sentenza 2 marzo 2017 (espressamente citata da Cass. 4595/2025)** — <https://hudoc.echr.coe.int/eng?i=001-171994> (Corte Europea dei Diritti dell'Uomo — [HUDOC](https://hudoc.echr.coe.int/)) [en] — accessed 2026-05-30
-12. **CEDU, I.M. e altri c. Italia, ricorso n. 25426/20, sentenza 10 novembre 2022 (espressamente citata da Cass. 4595/2025)** — <https://hudoc.echr.coe.int/eng?i=001-220870> (Corte Europea dei Diritti dell'Uomo — HUDOC) [en] — accessed 2026-05-30
+12. **CEDU, I.M. e altri c. Italia, ricorso n. 25426/20, sentenza 10 novembre 2022 (espressamente citata da Cass. 4595/2025)** — <https://hudoc.echr.coe.int/eng?i=001-220870> (Corte Europea dei Diritti dell'Uomo — [HUDOC](https://hudoc.echr.coe.int/)) [en] — accessed 2026-05-30
 13. **Convenzione di Istanbul — Council of Europe Convention on preventing and combating violence against women and domestic violence (CETS 210)** — <https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=210> (Council of Europe) [en] — accessed 2026-05-30
 14. **D.lgs. 10 ottobre 2022 n. 149 — Riforma Cartabia (Gazzetta Ufficiale)** — <https://www.gazzettaufficiale.it/eli/id/2022/10/17/22G00158/sg> (Gazzetta Ufficiale della Repubblica Italiana) [it] — accessed 2026-05-30
 
@@ -185,6 +185,8 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

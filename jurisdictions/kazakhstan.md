@@ -37,9 +37,9 @@ Kazakhstani family-court decisions are anonymised per Supreme Court practice usi
 ## Key developments
 
 - **1998** — Federal family-law statute enacted post-Soviet.
-- **2002** — Federal children's rights statute aligned with UNCRC obligations.
+- **2002** — Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2011** — Federal Code replacing 1998 statute codifying marriage, parental rights and child custody.
-- **2013** — Kazakhstan acceded to the Hague Convention 1980 effective 1 September 2013.
+- **2013** — Kazakhstan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 September 2013.
 - **2023** — Constitutional Council restructured as Constitutional Court.
 
 ## Structural findings
@@ -72,6 +72,8 @@ Kazakhstani family-court decisions are anonymised per Supreme Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

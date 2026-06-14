@@ -18,7 +18,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 - **Best for**: Severe alienation with court-ordered transfer of custody
 - **Format**: 4-day intensive residential workshop + aftercare planning
 - **Cost (US)**: ~$20,000-$40,000 privately; sometimes court-ordered with cost-shifting
-- **Outcome data**: Multiple published studies (Warshak 2010, 2015, 2018, 2020); meaningful reconnection in majority of cases; outcomes correlate with post-workshop support quality
+- **Outcome data**: Multiple published studies ([Warshak](https://warshak.com/family-bridges/) 2010, 2015, 2018, 2020); meaningful reconnection in majority of cases; outcomes correlate with post-workshop support quality
 - **Critiques**: cost; intensity may not suit older children; controversial in some clinical-ethics literature
 - **Detailed entry**: [Warshak 2010-2020 research entry](../research/warshak-2015-resist-refuse-family-bridges.md)
 
@@ -27,7 +27,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 - **Format**: 5-day camp-style residential intervention + parent education + therapy
 - **Cost (US)**: ~$5,000-$15,000
 - **Outcome data**: Sullivan et al. (2010, 2013, 2017) — published outcomes showing significant improvement in family functioning measures
-- **Critiques**: less rigorous outcome research than Family Bridges; works less well for severe-alienation cases requiring custody transfer
+- **Critiques**: less rigorous outcome research than [Family Bridges](https://warshak.com/family-bridges/); works less well for severe-alienation cases requiring custody transfer
 
 ### Multi-Modal Family Intervention (Friedlander & Walters)
 - **Best for**: Hybrid cases; mild-to-moderate severity; preserving existing custody arrangement
@@ -131,14 +131,16 @@ Choose a reunification framework based on:
 - Warshak (Family Bridges): https://www.warshak.com/family-bridges/
 - Sullivan (Overcoming Barriers): https://www.overcomingbarriers.org/
 - Friedlander & Walters 2010 (MMFI): https://doi.org/10.1111/j.1744-1617.2010.01292.x
-- AFCC reunification practice guidelines: https://www.afccnet.org/
-- Polak-Saini hybrid-cases assessment (companion entry): [research/polak-saini-2015-hybrid-cases.md](../research/polak-saini-2015-hybrid-cases.md)
+- [AFCC](https://www.afccnet.org/) reunification practice guidelines: https://www.afccnet.org/
+- Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) hybrid-cases assessment (companion entry): [research/polak-saini-2015-hybrid-cases.md](../research/polak-saini-2015-hybrid-cases.md)
 
 ---
 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not clinical recommendation. Selection of reunification therapy framework requires consultation with a qualified PA-informed therapist and family-law attorney familiar with the specific case dynamics. Outcomes vary substantially across cases.
+
+
 
 
 

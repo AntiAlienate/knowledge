@@ -7,7 +7,7 @@ The shortlist of books that shaped the field. Buy them, read them, cite them. An
 ## Foundational / Theory
 
 ### *Divorce Poison* — Richard A. [Warshak](https://warshak.com/family-bridges/) (rev. ed. 2010)
-The most accessible introduction to PA dynamics for parents. Warshak's "PARENTal alienation" framing has been adopted into courts worldwide. Read this first if you're newly affected.
+The most accessible introduction to PA dynamics for parents. [Warshak's](https://warshak.com/family-bridges/) "PARENTal alienation" framing has been adopted into courts worldwide. Read this first if you're newly affected.
 - [Author page](http://www.warshak.com/)
 
 ### *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)* — William Bernet, ed. (2010)
@@ -16,7 +16,7 @@ The academic case for diagnostic recognition. Edited volume with contributions f
 ### *Adult Children of Parental Alienation Syndrome* — Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)
 Qualitative study of 40 adults raised by alienating parents. Long-term outcomes — the data behind "alienation is child abuse."
 
-### *Working With Alienated Children and Families* — Baker & Sauber, eds. (2013)
+### *Working With Alienated Children and Families* — [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Sauber, eds. (2013)
 Clinician-facing handbook. Treatment protocols, case formulations, what evaluators look for.
 
 ---
@@ -88,7 +88,7 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 **Preparing for court:**
 1. *Parental Alienation Handbook* (Lorandos/Bernet/Sauber)
 2. *Adult Children of Parental Alienation Syndrome* (Baker)
-3. *Parental Alienation, DSM-5, and ICD-11* (Bernet, ed.)
+3. *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)* (Bernet, ed.)
 
 **Researcher / clinician:**
 1. *Parental Alienation: The Cult of the Self* (Harman & Biringen)
@@ -98,6 +98,8 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 ---
 
 *Open PR if a book belongs on this shelf. Criterion: peer-reviewed, court-cited, or written by a named expert with a public record of work in the field.*
+
+
 
 
 

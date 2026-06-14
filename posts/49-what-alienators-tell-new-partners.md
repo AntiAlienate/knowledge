@@ -65,7 +65,7 @@ The propaganda campaign WANTS your response. Silence + documentation is the surg
 
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- DSM-5 V995.51; WHO ICD-11 QE52.
+- [DSM-5](https://www.appi.org/products/dsm) V995.51; WHO [ICD-11](https://icd.who.int/) QE52.
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568.
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12.
 
@@ -76,6 +76,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

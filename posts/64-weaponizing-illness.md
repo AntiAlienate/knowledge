@@ -43,7 +43,7 @@ The mother's lawyer argued that Sophie's many illnesses showed the child needed 
 
 Judge Hayes asked a single question. *Counselor, your client has consistently kept the child home from contact based on illness. Is there a single contemporaneous outside-clinician record finding the child unwell on any of these dates?* The mother's lawyer did not have an answer.
 
-The DSM-5 code was V300.19. The ICD-11 code was 6D52. Neither had been written into Sophie's chart. But the pattern, finally documented, had a name even when no clinician had supplied it.
+The [DSM-5](https://www.appi.org/products/dsm) code was V300.19. The [ICD-11](https://icd.who.int/) code was 6D52. Neither had been written into Sophie's chart. But the pattern, finally documented, had a name even when no clinician had supplied it.
 
 That was the day Sophie's father got her back.
 
@@ -93,7 +93,7 @@ Most pediatricians receive zero hours of training on factitious disorder imposed
 - DSM-5 V995.51 — Child Psychological Abuse.
 - Roesler, T. A., & Jenny, C. (2009). *Medical Child Abuse: Beyond Munchausen Syndrome by Proxy.* American Academy of Pediatrics.
 - Sanders, M. J., & Bursch, B. (2002). Forensic assessment of illness falsification, Munchausen by Proxy, and factitious disorder, NOS. *Child Maltreatment, 7*(2), 112–124.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 
@@ -102,6 +102,8 @@ Educational fiction. **Not clinical or legal advice.** The story is illustrative
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

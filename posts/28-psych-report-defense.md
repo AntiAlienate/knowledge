@@ -133,6 +133,8 @@ Educational content. **Not legal or clinical advice.**
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -161,10 +163,10 @@ Educational content. **Not legal or clinical advice.**
 
 ## Related on antialienate.com
 
-- [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
-- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
-- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 - [Financial Cost Parental Alienation Funding Defense](https://www.antialienate.com/blog/financial-cost-parental-alienation-funding-defense)
-- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 
 <!-- AA-CROSSLINK-END -->

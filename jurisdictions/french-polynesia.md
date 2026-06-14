@@ -36,7 +36,7 @@ French Polynesian family-court decisions are anonymised per Court of Appeal prac
 
 ## Key developments
 
-- **1983** — Hague Convention 1980 territorial extension by France to French Polynesia effective 1 December 1983.
+- **1983** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) territorial extension by France to French Polynesia effective 1 December 1983.
 - **2004** — Federal Organic Law establishing French Polynesia's substantial autonomy with local-law adaptation competence.
 
 ## Structural findings
@@ -69,6 +69,8 @@ French Polynesian family-court decisions are anonymised per Court of Appeal prac
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

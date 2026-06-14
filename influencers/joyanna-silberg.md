@@ -77,6 +77,8 @@ Open-source means open to the field's real debates. PA is contested — includin
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -106,8 +108,8 @@ Open-source means open to the field's real debates. PA is contested — includin
 
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
-- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
 - [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 
 <!-- AA-CROSSLINK-END -->

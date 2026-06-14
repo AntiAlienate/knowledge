@@ -122,7 +122,7 @@ At trial level: on 24 June 2015 the three children were held in civil contempt a
 19. **Michigan Bar Journal / Michigan Bar professional-responsibility commentary on In re Hon. Lisa O. Gorcyca and JTC Formal Complaint No. 98** — <https://www.michbar.org/> (State Bar of Michigan) [en] — accessed 2026-05-30
 20. **Georgialee Lang KC — 'Part 2: Alienated Kids Released From Jail' (LinkedIn longform essay)** — <https://www.linkedin.com/pulse/part-2-alienated-kids-released-from-jail-georgialee-lang-ba-jd-fciarb> (Georgialee Lang KC (Canadian family-law commentator)) [en] — accessed 2026-05-30
 21. **Demosthenes Lorandos, William Bernet & S. Richard Sauber (eds.), 'Parental Alienation: Science and Law' (Charles C. Thomas, 2020) — recognition-aligned US practitioner commentary on Tsimhoni as a case study in alienation litigation** — <https://www.ccthomas.com/details.cfm?P_ISBN13=9780398093259> (Charles C. Thomas) [en] — accessed 2026-05-30
-22. **Richard A. [Warshak](https://warshak.com/family-bridges/), 'Divorce Poison' and related US-side recognition commentary on the Tsimhoni framing of parental alienation in US state-court practice** — <https://warshak.com/> (Richard A. Warshak / warshak.com) [en] — accessed 2026-05-30
+22. **Richard A. [Warshak](https://warshak.com/family-bridges/), 'Divorce Poison' and related US-side recognition commentary on the Tsimhoni framing of parental alienation in US state-court practice** — <https://warshak.com/> (Richard A. [Warshak](https://warshak.com/family-bridges/) / warshak.com) [en] — accessed 2026-05-30
 23. **West Michigan Divorce blog — contextual coverage of the mother's contact restoration in the post-Gorcyca period** — <https://westmichigandivorce.com/prevented-from-seeing-their-mother-in-grisly-custody-battle/> (West Michigan Divorce (Michigan family-law practice resource)) [en] — accessed 2026-05-30
 24. **Divorce Lawyers For Men — pro-father commentary 'Tsimhoni v Tsimhoni: parental alienation and ultimate consequences'** — <https://www.divorcelawyersformen.com/blog/tsimhoni-v-tsimhoni-parental-alienation-and-ultimate-consequences/> (Divorce Lawyers For Men (US men's-side family-law practice)) [en] — accessed 2026-05-30
 
@@ -142,6 +142,8 @@ At trial level: on 24 June 2015 the three children were held in civil contempt a
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

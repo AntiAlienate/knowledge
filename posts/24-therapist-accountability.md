@@ -74,7 +74,7 @@ See [posts/25-court-appointed-pa-expert.md](./25-court-appointed-pa-expert.md). 
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993)
 - [APA Ethics Code](https://www.apa.org/ethics/code) (2017), Standard 9.01 (assessment basis)
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 
@@ -83,6 +83,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

@@ -21,7 +21,7 @@ Trentino (officially Provincia Autonoma di Trento / Provinz Trient / Trentin) is
   - Italian Law of 15 December 1999 establishing protection framework for historical linguistic minorities — applies to Ladin Fassa, Mòcheno Bersntol, and Cimbrian Lusern minorities in Trentino.
 - **Provincial Law 6/2008 (Trentino Linguistic Minorities Framework)** — Trentino Linguistic Minorities Framework (2008) — <https://www.consiglio.provincia.tn.it/>
   - Trentino Provincial Law 6/2008 establishing comprehensive protection framework for Ladin, Mòcheno, and Cimbrian minorities.
-- **Italian Codice Civile Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
+- **Italian [Codice Civile](https://www.brocardi.it/codice-civile/) Articles 315-342-bis (as amended by Law 54/2006)** — Italian Civil Code — Parental Authority (2006) — <https://www.normattiva.it/>
   - Italian Civil Code articles governing responsabilità genitoriale and child custody applicable in Trentino.
 
 ## Apex courts
@@ -58,7 +58,7 @@ Trentino family-court decisions are anonymised per Italian court practice using 
 - Trentino-Alto Adige two-province autonomous-region framework with co-equal autonomous provinces is structurally distinctive globally — only modern EU autonomous-region framework with co-equal autonomous-province members.
 - Provincial Law 6/2008 Trentino Linguistic Minorities Framework is structurally distinctive within Italian linguistic-minority cluster.
 - Cimbrian Lusern (single-commune Cimbrian-language linguistic isolate) and Mòcheno Bersntol (Mòcheno-Valley Mòcheno-language linguistic isolate) are structurally distinctive globally — among the most distinct Germanic-language linguistic isolates in Europe.
-- Italian Hague Convention 1980 accession 1985 + Trentino Italian-civil-law framework intersection is structurally distinctive.
+- Italian [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1985 + Trentino Italian-civil-law framework intersection is structurally distinctive.
 
 ## See also
 
@@ -84,6 +84,8 @@ Trentino family-court decisions are anonymised per Italian court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
