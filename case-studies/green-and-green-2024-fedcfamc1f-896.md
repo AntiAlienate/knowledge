@@ -75,7 +75,7 @@ The father's interim application for a change of Y's primary residence dismissed
 7. **Australian Parliamentary Library — A history of the use of the concept of parental alienation in the Australian family law system** — <https://www.aph.gov.au/DocumentStore.ashx?id=db6ed84e-8c04-4619-9384-47ea2c75f012&subId=691163> (Parliament of Australia, Parliamentary Library) [en] — accessed 2026-05-30
 8. **Family Law Amendment Act 2023 (Cth)** — <https://www.legislation.gov.au/C2023A00087/latest/text> (Federal Register of Legislation (Commonwealth of Australia)) [en] — accessed 2026-05-30
 9. **Banks & Banks [2015] FamCAFC 36 — interim-stage caution rule** — <http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FamCAFC/2015/36.html> (Australasian Legal Information Institute ([AustLII](https://www.austlii.edu.au/))) [en] — accessed 2026-05-30
-10. **Shell & Armel [2022] FedCFamC1A 83 — tender requirement for parental-alienation theoretical literature** — <http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FedCFamC1A/2022/83.html> (Australasian Legal Information Institute (AustLII)) [en] — accessed 2026-05-30
+10. **Shell & Armel [2022] FedCFamC1A 83 — tender requirement for parental-alienation theoretical literature** — <http://www.austlii.edu.au/cgi-bin/viewdoc/au/cases/cth/FedCFamC1A/2022/83.html> (Australasian Legal Information Institute ([AustLII](https://www.austlii.edu.au/))) [en] — accessed 2026-05-30
 11. **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s 121 — restriction on publication of identifying information** — <https://www.legislation.gov.au/C2004A00275/latest/text> (Federal Register of Legislation (Commonwealth of Australia)) [en] — accessed 2026-05-30
 12. **Safe & Together Institute — Eliza Wynn / Saturday Paper repost: The legal battlefield of parental alienation** — <https://safeandtogetherinstitute.com/press/the-saturday-paper-the-legal-battlefield-of-parental-alienation> (Safe & Together Institute (republishing The Saturday Paper)) [en] — accessed 2026-05-30
 13. **Zoe Rathus AM (Griffith Law School) — Unpacking Family Law: Reforms, Family Violence and Parental Alienation (2025 conference slides)** — <https://qldflpn.org.au/wp-content/uploads/2025/03/Unpacking-Family-Law-Slides-Zoe-Rathus-1.pdf> (Queensland Family Law Practitioners' Network) [en] — accessed 2026-05-30
@@ -100,6 +100,8 @@ The father's interim application for a change of Y's primary residence dismissed
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -43,7 +43,7 @@ CAPS operates as load-bearing Singapore institutional anchor — court-attached 
 The five-centre architecture is the HK operational analogue to Singapore CAPS + [Cafcass](https://www.cafcass.gov.uk/) / [Cafcass Cymru](https://www.cafcass.gov.uk/) E&W/Wales + Australian FRW pool. Cross-link: case-study:h-v-w-2021-hkca-733-hong-kong + jurisdiction:hong-kong.
 
 ### 9. South Africa — Family Advocate office + 2021 Forensic Assessment Standards
-**Office of the Family Advocate** (Mediation in Certain Divorce Matters Act 24/1987) — substantive SA institutional analogue to Cafcass + FRW + CAPS. Family Advocates assist the High Court by enquiring into the welfare of minor or dependent children. Operational PA-adjacent engagement happens via individual-case forensic assessment.
+**Office of the Family Advocate** (Mediation in Certain Divorce Matters Act 24/1987) — substantive SA institutional analogue to [Cafcass](https://www.cafcass.gov.uk/) + FRW + CAPS. Family Advocates assist the High Court by enquiring into the welfare of minor or dependent children. Operational PA-adjacent engagement happens via individual-case forensic assessment.
 
 **SA Standards of Practice for Forensic Assessments 2021** (Martalas-chair task force) operates at professional-standards layer; HPCSA 4-category psychology registration (clinical / counselling / educational / forensic) is the load-bearing credential. Cross-link: jurisdiction:south-africa.
 
@@ -66,7 +66,7 @@ Lorentzhuis Kinderen uit de Knel programme (Justine van Lawick + Margreet Visser
 
 ### 1. Three regulatory routes
 - **Mainstream regulator-within** (NZ Goldson; AU FRW; UK Cafcass post-Re Y; SA Family Advocate; IT CTU post-Riforma; Singapore CAPS; HK SWD Centres; India counsellor mechanism).
-- **Extra-regulator NGO programme** (US Family Bridges; Canadian Family Reflections).
+- **Extra-regulator NGO programme** (US [Family Bridges](https://warshak.com/family-bridges/); Canadian Family Reflections).
 - **Methodological-advisory framework** (NL Methode SAT; NJI Richtlijn 2020 + Lorentzhuis methodology).
 
 Cross-jurisdictional reunification programmes operate via at least three distinct regulatory routes. The US extra-regulator pattern (Family Bridges as 'educational workshop' outside CABOP) is structurally distinctive.
@@ -119,6 +119,8 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+
+
 
 
 

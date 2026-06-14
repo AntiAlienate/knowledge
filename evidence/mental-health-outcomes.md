@@ -83,7 +83,7 @@
 
 **Citation.** Bernet, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — URL: https://pubmed.ncbi.nlm.nih.gov/25613416/
 
-**Sample / method.** 739 Italian adults surveyed in Chieti retrospectively about childhood PA exposure (Baker Strategy Questionnaire) and current symptomatology (SCL-90-R).
+**Sample / method.** 739 Italian adults surveyed in Chieti retrospectively about childhood PA exposure ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Strategy Questionnaire) and current symptomatology (SCL-90-R).
 
 **Headline figures (from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) abstract, secondary verification).**
 - ~75% endorsed some exposure to parental alienating behaviours
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

@@ -83,7 +83,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 - **Rare**: MMFI, Traditional Outpatient
 
 ### Length
-- **Days**: Family Bridges, Overcoming Barriers (intensive workshop format)
+- **Days**: [Family Bridges](https://warshak.com/family-bridges/), Overcoming Barriers (intensive workshop format)
 - **Months**: MMFI, Traditional Outpatient, Parenting Coordination
 - **Years**: severe cases often require multi-year support across several frameworks
 
@@ -139,6 +139,8 @@ Choose a reunification framework based on:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not clinical recommendation. Selection of reunification therapy framework requires consultation with a qualified PA-informed therapist and family-law attorney familiar with the specific case dynamics. Outcomes vary substantially across cases.
+
+
 
 
 

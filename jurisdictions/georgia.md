@@ -47,7 +47,7 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 
 ## Structural findings
 
-- Georgia operates a post-Soviet civil-law framework with Council of Europe + ECHR membership — places Georgia in the post-Soviet civil-law + ECHR cluster within the corpus.
+- Georgia operates a post-Soviet civil-law framework with [Council of Europe](https://www.coe.int/) + ECHR membership — places Georgia in the post-Soviet civil-law + ECHR cluster within the corpus.
 - [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1997 places Georgia as among earliest post-Soviet Hague accessions.
 - Code on Rights of the Child 2019 + Family Mediation Law 2019 reflect Council-of-Europe-influenced child-protection and ADR modernisation trajectory.
 
@@ -75,6 +75,8 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

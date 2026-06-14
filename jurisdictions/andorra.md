@@ -45,7 +45,7 @@ Andorran family-court decisions are anonymised per Superior Court practice using
 
 - Andorra operates a Catalan-civil-law family-law framework — places Andorra in the Catalan civil-law tradition cluster.
 - Co-principality constitutional structure (Bishop of Urgell + President of France as Co-Princes) is structurally distinctive globally — only co-principality in the corpus.
-- Council of Europe + ECHR + Hague Convention places Andorra in the European civil-law cluster.
+- [Council of Europe](https://www.coe.int/) + ECHR + Hague Convention places Andorra in the European civil-law cluster.
 - Catalan official-language framework is structurally distinctive within Europe in the corpus.
 
 ## See also
@@ -72,6 +72,8 @@ Andorran family-court decisions are anonymised per Superior Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

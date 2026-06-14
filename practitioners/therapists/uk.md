@@ -10,10 +10,10 @@ Melanie Gill is excluded from this directory on regulatory grounds and preserved
 
 ## Structural findings
 
-- Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (Sir Andrew McFarlane P, 20 Feb 2026) is the apex articulation of the evaluator-quality requirement in PA-framed Family Court proceedings: it set aside findings of alienating behaviour made on the basis of Melanie Gill's unregulated PA-evaluation and held that permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the BPS (cross-link case-study:re-y-2026-ewfc-38).
+- Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (Sir Andrew McFarlane P, 20 Feb 2026) is the apex articulation of the evaluator-quality requirement in PA-framed Family Court proceedings: it set aside findings of alienating behaviour made on the basis of Melanie Gill's unregulated PA-evaluation and held that permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the [BPS](https://www.bps.org.uk/) (cross-link case-study:re-y-2026-ewfc-38).
 - The English critique-camp and middle-camp generally argue a regulated-only expert-psychology framework: [HCPC](https://www.hcpc-uk.org/)-registered Practitioner Psychologists or BPS-chartered (CPsychol) psychologists, applying the BPS / FJC 2022 Guidance on Psychologists as Expert Witnesses (Craig et al.) and the FJC December 2024 Guidance on responding to allegations of alienating behaviour. Re Y enforces this framework at the instruction stage.
 - The English critique-camp is anchored institutionally — [Cafcass](https://www.cafcass.gov.uk/) + [Cafcass Cymru](https://www.cafcass.gov.uk/) + FJC + [HCPC](https://www.hcpc-uk.org/) + BPS — rather than individual-clinician dominant. Individual entries (Whitcombe, Hannah Jones, Jaime Craig, Glaser) carry weight because they sit at the intersection of clinical practice and institutional policymaking, not because they head competing private clinics.
-- The recognition camp is thin (3 entries) and dominated by the Family Separation Clinic (Karen Woodall, Nick Woodall) — both unregulated relative to the Re Y regulatory bar — plus Dr Sue Whitcombe, who uniquely meets the HCPC + CPsychol + AFBPsS standard. Post-Re Y, recognition-camp clinicians who are not HCPC-registered and not BPS-chartered face formal exclusion from Family Court instruction in England & Wales.
+- The recognition camp is thin (3 entries) and dominated by the Family Separation Clinic (Karen Woodall, Nick Woodall) — both unregulated relative to the Re Y regulatory bar — plus Dr Sue Whitcombe, who uniquely meets the [HCPC](https://www.hcpc-uk.org/) + CPsychol + AFBPsS standard. Post-Re Y, recognition-camp clinicians who are not HCPC-registered and not BPS-chartered face formal exclusion from Family Court instruction in England & Wales.
 - 12 verified entries (3 recognition / 7 critique / 2 middle) + 1 regulatory exclusion (Melanie Gill — unregulated; not HCPC; not BPS-chartered; Re Y [2026] EWFC 38 set aside her findings) preserved with primary-source regulatory disclosure. Direct UK parallel to the US directory's exclusion of Randy Rand and to Germany's safeguarding-grounds exclusion of Reinhart Wolff.
 
 ## Recognition camp
@@ -93,7 +93,7 @@ Teesside · England · Principal Psychologist and founder, Family Psychology Sol
 
 ### Dr Adrienne Barnett
 *Reader in Law (PhD); former family-law barrister; academic / research role*
-Uxbridge · England · Brunel Law School, Brunel University London; advisory roles with Rights of Women, Cafcass Research Advisory Committee, SHERA co-founder, Hague Mothers UK lead
+Uxbridge · England · Brunel Law School, Brunel University London; advisory roles with Rights of Women, [Cafcass](https://www.cafcass.gov.uk/) Research Advisory Committee, SHERA co-founder, Hague Mothers UK lead
 
 **Stance:** Single most-cited UK academic critique of PA-as-courtroom-rhetorical-device weaponised against domestic-abuse-survivor mothers. Barnett (2020) 'A genealogy of hostility: parental alienation and the family courts' JSWFL 42(1):18-29 is the entry point to the entire UK critique-camp literature. BA/Leverhulme-funded action research 'Domestic Abuse, Parental Alienation and the Family Courts' (2022-2025) is the empirical anchor of the contemporary critique position. Position is critique-camp via doctrinal/empirical research practice.
 
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

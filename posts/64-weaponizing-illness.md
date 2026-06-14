@@ -90,7 +90,7 @@ Most pediatricians receive zero hours of training on factitious disorder imposed
 
 - [DSM-5](https://www.appi.org/products/dsm) V300.19 — Factitious Disorder Imposed on Another. American Psychiatric Association.
 - WHO [ICD-11](https://icd.who.int/) 6D52 — Caregiver-Fabricated Illness in a Child.
-- DSM-5 V995.51 — Child Psychological Abuse.
+- [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse.
 - Roesler, T. A., & Jenny, C. (2009). *Medical Child Abuse: Beyond Munchausen Syndrome by Proxy.* American Academy of Pediatrics.
 - Sanders, M. J., & Bursch, B. (2002). Forensic assessment of illness falsification, Munchausen by Proxy, and factitious disorder, NOS. *Child Maltreatment, 7*(2), 112–124.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
@@ -102,6 +102,8 @@ Educational fiction. **Not clinical or legal advice.** The story is illustrative
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

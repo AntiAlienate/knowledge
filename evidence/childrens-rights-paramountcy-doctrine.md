@@ -110,7 +110,7 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 [
 | **Argentina** | CCyC art. 671 + UN CRC bloque | Best-interests | CSJN P.B.E.G 2021 |
 | **Colombia** | Const. art. 44 | PREVALENCE over other rights | Corte Const. T-526/2023 |
 | **Brazil** | Const. 1988 art. 227 + ECA | ABSOLUTA PRIORIDADE | STJ Andrighi line 2024 |
-| **Italy** | Civil Code + [Cassazione](https://www.cortedicassazione.it/) | Best-interests via procedural-due-diligence | Cassazione 9691/2022 |
+| **Italy** | Civil Code + [Cassazione](https://www.cortedicassazione.it/) | Best-interests via procedural-due-diligence | [Cassazione](https://www.cortedicassazione.it/) 9691/2022 |
 | **Germany** | Grundgesetz Art. 6(2) + 2(1) | Parental rights + child personality rights | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 |
 | **Spain** | Const. art. 39 + Código Civil art. 154 + LOPIVI | Interés superior + statutory inadmission | STS 519/2017 + LOPIVI 17ª |
 | **Netherlands** | BW + Jeugdwet | Substantive best-interests | NJI Richtlijn 2020 + Expertteam 2021 |
@@ -128,6 +128,8 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 [
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
+
+
 
 
 

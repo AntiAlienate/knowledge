@@ -63,7 +63,7 @@ Custody / guardianship determination made by reference to the child's best inter
 
 ## Sources
 
-1. **Lt Col Vivek Singh v Romani Singh — Supreme Court of India judgment PDF (Civil Appeal No. 3962 of 2016)** — <https://main.sci.gov.in/judgment/judis/44566.pdf> (Supreme Court of India) [en] — accessed 2026-05-30
+1. **Lt Col Vivek Singh v Romani Singh — [Supreme Court of India](https://main.sci.gov.in/) judgment PDF (Civil Appeal No. 3962 of 2016)** — <https://main.sci.gov.in/judgment/judis/44566.pdf> (Supreme Court of India) [en] — accessed 2026-05-30
 2. **Vivek Singh v Romani Singh — Indian Kanoon** — <https://indiankanoon.org/doc/48721287/> (Indian Kanoon) [en] — accessed 2026-05-30
 3. **Vivek Singh v Romani Singh — SCC Cases** — <https://www.supremecourtcases.com/vivek-singh-v-romani-singh-3/> (Supreme Court Cases (Eastern Book Company)) [en] — accessed 2026-05-30
 4. **ABC v XYZ — Alienation of the child from his father is an extreme act of mental cruelty: Delhi HC** — <https://www.scconline.com/blog/post/2023/10/01/delhi-hc-alienation-of-the-child-from-his-father-is-an-extreme-act-of-mental-cruelty-legal-news/> (SCC Online Blog) [en] — accessed 2026-05-30
@@ -87,6 +87,8 @@ Custody / guardianship determination made by reference to the child's best inter
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

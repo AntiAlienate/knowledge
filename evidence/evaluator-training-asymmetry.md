@@ -28,7 +28,7 @@
 
 **Citation.** [Saunders](https://www.ovw.usdoj.gov/), D. G., Faller, K. C., & Tolman, R. M. (2011). *Child custody evaluators' beliefs about domestic abuse allegations: Their relationship to evaluator demographics, background, domestic violence knowledge and custody-visitation recommendations*. Final Technical Report submitted to the National Institute of Justice, October 31, 2011. NCJ Document No. 238891. NIJ Award No. 2007-WG-BX-0013. URL: https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf
 
-This is the foundational empirical text underlying every subsequent claim in the Saunders program. It is a 188-page NIJ Final Technical Report submitted June 2012; the related peer-reviewed journal articles (Saunders 2015 in *Journal of Child Custody*; Saunders, Tolman, & Faller 2013 in *Journal of Family Psychology*) draw on the same dataset.
+This is the foundational empirical text underlying every subsequent claim in the [Saunders](https://www.ovw.usdoj.gov/) program. It is a 188-page NIJ Final Technical Report submitted June 2012; the related peer-reviewed journal articles (Saunders 2015 in *Journal of Child Custody*; Saunders, Tolman, & Faller 2013 in *Journal of Family Psychology*) draw on the same dataset.
 
 **Verbatim purpose statement (Executive Summary, p. 4).**
 
@@ -172,7 +172,7 @@ Again, "alienation" and "child abuse and domestic violence" are coordinate enume
 
 > "Special issues such as allegations of domestic violence, substance abuse, alienating behaviors, sexual abuse; relocation requests; and, sexual orientation issues require specialized knowledge and training. … When evaluators lack specialized training in particular areas of concern for the evaluation, they shall either decline the appointment or obtain the necessary training."
 
-**The asymmetry critique.** Saunders and others argue that the [AFCC](https://www.afccnet.org/) standards' coordinate listing of "domestic violence" and "alienating behaviors" — without any statement that abuse must be assessed and ruled in or out *before* alienation hypotheses are entertained — is itself the policy locus of the problem. The standards permit, but do not require, the disconfirmatory ordering that the empirical literature implies. **Honest counter-reading:** AFCC does separately require generalised "neutrality" training (Section 1.2(b)(18)) and explicit bias-inspection language at multiple points; the standards are not silent on the risk, only soft on the operational ordering.
+**The asymmetry critique.** Saunders and others argue that the [AFCC](https://www.afccnet.org/) standards' coordinate listing of "domestic violence" and "alienating behaviors" — without any statement that abuse must be assessed and ruled in or out *before* alienation hypotheses are entertained — is itself the policy locus of the problem. The standards permit, but do not require, the disconfirmatory ordering that the empirical literature implies. **Honest counter-reading:** [AFCC](https://www.afccnet.org/) does separately require generalised "neutrality" training (Section 1.2(b)(18)) and explicit bias-inspection language at multiple points; the standards are not silent on the risk, only soft on the operational ordering.
 
 ### 2.2 Stahl, Philip M. — the practitioner defense of the evaluator role
 
@@ -190,7 +190,7 @@ Stahl's core position across his published work, as best reconstructable from pr
 
 **Currently active Stahl training programme.** "Advanced Issues in Child Custody and Parenting Evaluations" co-presented with the American Academy of Forensic Psychology. URL: https://concept.paloaltou.edu/course/AAFP-Advanced-Issues-in-Child-Custody-and-Parenting-Evaluations — Domestic violence is one of four "common areas" Stahl's curriculum covers.
 
-**Honest disclosure.** Stahl is a long-standing AFCC member and a widely-respected practitioner; his books are standard reading on US custody-evaluation continuing-education syllabi. He is not, on the record, hostile to recognising DV — his position is that DV and alienation each need to be properly assessed and that the evaluator's job is precisely to make that differential. The asymmetry critique (Saunders, [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Alsalem) is *not* that Stahl personally is ignorant; it is that the standardised practitioner *training* he and others have spent decades building is structurally weighted toward the "differential" framework in a way that — empirically, per Meier 2020 — produces gender-asymmetric custody outcomes when applied to abuse-alleging mothers.
+**Honest disclosure.** Stahl is a long-standing AFCC member and a widely-respected practitioner; his books are standard reading on US custody-evaluation continuing-education syllabi. He is not, on the record, hostile to recognising DV — his position is that DV and alienation each need to be properly assessed and that the evaluator's job is precisely to make that differential. The asymmetry critique (Saunders, [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Alsalem) is *not* that Stahl personally is ignorant; it is that the standardised practitioner *training* he and others have spent decades building is structurally weighted toward the "differential" framework in a way that — empirically, per [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) — produces gender-asymmetric custody outcomes when applied to abuse-alleging mothers.
 
 ---
 
@@ -311,7 +311,7 @@ Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the u
 
 PD12J is the binding procedural rule for England and Wales family courts when DV is raised. It requires the court to ascertain at the earliest opportunity whether DV is raised as relevant, and to make a fact-finding determination before making any orders about contact arrangements. The 2017 revision (https://www.judiciary.uk/wp-content/uploads/2017/01/PD12J-child-arrangement-domestic-violence-and-harm-report-and-revision.pdf) tightened the language; the 2024-2025 [Cafcass](https://www.cafcass.gov.uk/) policy is its operational complement on the evaluator side.
 
-**Position on the asymmetry question.** The UK system — at the policy-text level — is the most developed of any English-speaking jurisdiction in *explicitly* ordering DV assessment before alienation-framing assessment. *Whether* operational practice follows the policy is a separate empirical question; the Ministry of Justice Harm Report (2020) found large gaps between policy and practice, which is why the 2024-2025 Cafcass policy was issued.
+**Position on the asymmetry question.** The UK system — at the policy-text level — is the most developed of any English-speaking jurisdiction in *explicitly* ordering DV assessment before alienation-framing assessment. *Whether* operational practice follows the policy is a separate empirical question; the Ministry of Justice Harm Report (2020) found large gaps between policy and practice, which is why the 2024-2025 [Cafcass](https://www.cafcass.gov.uk/) policy was issued.
 
 ### 7.2 Australia — Family Report Writers and the 2024 reforms
 
@@ -493,7 +493,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - **Meier (2010)** — Getting real about abuse and alienation: A critique of Drozd and Olesen's decision tree. *Journal of Child Custody* 7(4):219-252. https://doi.org/10.1080/15379418.2010.521032
 - **Stahl, P. M.** (1999, 2014). *Complex Issues in Child Custody Evaluations* / *Conducting Child Custody Evaluations: From Basic to Complex Issues*. Sage.
 - **Stahl & Isman (2016)** — Understanding and evaluating alienation in high-conflict custody cases. *Wisconsin Journal of Family Law* 36(1).
-- **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)** — Empirical studies of alienation. In Drozd, Saini & Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374-430). Oxford University Press. PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf — Treated in full in `evidence-forensic-operation-in-courts.md` §5.
+- **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)** — Empirical studies of alienation. In Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374-430). Oxford University Press. PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf — Treated in full in `evidence-forensic-operation-in-courts.md` §5.
 - **[Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020)** — Parental alienation: In search of common ground for a more differentiated theory. *Family Court Review*. https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
 - **Fidler & Bala (2020)** — Concepts, controversies and conundrums of "alienation": Lessons learned in a decade and reflections on challenges ahead. *Family Court Review*. https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.12488
 - **Harman & Lorandos (2021)** — Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law* 27(2):184-208. https://doi.org/10.1037/law0000301
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

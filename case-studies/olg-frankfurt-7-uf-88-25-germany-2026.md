@@ -44,7 +44,7 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 
 ## Comparative jurisprudence
 
-- **BVerfG 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — The constitutional ruling that this OLG decision operationalises.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — The constitutional ruling that this OLG decision operationalises.
 - **Re Y [2026] EWFC 38** (UK-EWS) — Companion English EWFC decision (McFarlane P set aside unregulated PA-evaluator's findings) — parallel critique of evaluator quality in a same-year window.
 - **Family Law Amendment Act 2023 (Cth) Sch 2** (AU) — Australian Court Children's Reports reform — parallel statutory tightening of expert-evidence standards in family proceedings.
 - **CFP Nota Técnica nº 4/2022** (BR) — Brazilian Conselho Federal de Psicologia forensic-evaluator standards on PA — institutional counterpart to the OLG's evaluator-conduct holding.
@@ -90,6 +90,8 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

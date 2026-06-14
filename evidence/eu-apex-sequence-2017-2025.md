@@ -19,7 +19,7 @@ Between September 2017 and October 2025, six continental European apex jurisdict
 **[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (Federal Constitutional Court).** Constitutional Court qualifies SAP as "veraltet und wissenschaftlich widerlegt" (outdated and scientifically refuted). PAS-based Sachverständigengutachten constitutionally untenable under Grundgesetz Art. 6(2) parental rights + Art. 2(1) children's personality rights. The strongest constitutional-level construct critique in continental EU. Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
 
 ### 5. Italy — [Cassazione](https://www.cortedicassazione.it/) Civile Sez. I, sentenza 4595/2025
-**Italian Court of Cassation, First Civil Section.** Most recent Cassazione PAS-critique decision consolidating the 13217/2021 → 9691/2022 doctrinal line. Combined with the **Riforma Cartabia D.lgs. 149/2022** statutory restriction on CTU PAS-based assessments, the Italian apex critique becomes the EU's strongest statute-and-caselaw integrated stance. Cross-link: jurisdiction:italy.
+**Italian Court of Cassation, First Civil Section.** Most recent [Cassazione](https://www.cortedicassazione.it/) PAS-critique decision consolidating the 13217/2021 → 9691/2022 doctrinal line. Combined with the **Riforma Cartabia D.lgs. 149/2022** statutory restriction on CTU PAS-based assessments, the Italian apex critique becomes the EU's strongest statute-and-caselaw integrated stance. Cross-link: jurisdiction:italy.
 
 ### 6. Poland — Sąd Najwyższy III CZP 20/25 (3 października 2025)
 **Sąd Najwyższy, Izba Cywilna.** FIRST APEX CEE (Central and Eastern European) decision in the sequence. Pro-enforcement stance restoring effectiveness of art. 598¹⁶ § 1 k.p.c. monetary sanctions against alienating parent (narrowing the constitutional immunity Trybunał Konstytucyjny SK 3/20 had carved out in 2022) — WITHOUT engaging the clinical PAS diagnosis. Polish position is structurally distinctive: pro-enforcement / not-clinical. Cross-link: case-study:sn-iii-czp-20-25-poland-2025 + jurisdiction:poland.
@@ -59,7 +59,7 @@ The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017
 | 2017 | Spain | STS 519/2017 | middle | Custodia compartida supported on parental-manipulation findings without endorsing SAP syndrome |
 | 2021 | Italy | Cassazione 13217/2021 | critique | PAS lacks scientific validity; cannot found custody restrictions |
 | 2022 | Italy | Cassazione 9691/2022 | critique | PAS pseudoscientific fundamento; ordinary evidential verification required |
-| 2023 | Germany | BVerfG 1 BvR 1076/23 | critique | SAP veraltet und wissenschaftlich widerlegt; PAS-Gutachten constitutionally untenable |
+| 2023 | Germany | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 | critique | SAP veraltet und wissenschaftlich widerlegt; PAS-Gutachten constitutionally untenable |
 | 2025 | Italy | Cassazione 4595/2025 | critique | Consolidating 13217+9691 critique line |
 | 2025 | Poland | SN III CZP 20/25 | recognition (pro-enforcement, not-clinical) | Art. 598¹⁶ § 1 k.p.c. monetary sanction restored against alienating parent without clinical PAS |
 
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

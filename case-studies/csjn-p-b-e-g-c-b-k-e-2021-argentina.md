@@ -125,7 +125,7 @@ CSJN (7-X-2021, CSJ 1813/2018/RH1): hace lugar al recurso de queja, acepta en su
 ## Sources
 
 1. **CSJN, 'P., B. E. G. c/ B., K. E. s/ medidas precautorias', sentencia del 7-X-2021, CSJ 1813/2018/RH1 — buscador de jurisprudencia** — <https://sj.csjn.gov.ar/sj/> ([Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/)) [es] — accessed 2026-05-30
-2. **CSJN — sitio institucional y buscador de fallos** — <https://www.csjn.gob.ar/buscador/documentos> (Corte Suprema de Justicia de la Nación) [es] — accessed 2026-05-30
+2. **CSJN — sitio institucional y buscador de fallos** — <https://www.csjn.gob.ar/buscador/documentos> ([Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/)) [es] — accessed 2026-05-30
 3. **Sistema Argentino de Información Jurídica (SAIJ) — entrada FA24010044 sobre la sentencia SCBA C. 121.539 que ejecuta el fallo CSJN 7-X-2021** — <https://www.saij.gob.ar/FA24010044> (SAIJ — Ministerio de Justicia y Derechos Humanos de la Nación) [es] — accessed 2026-05-30
 4. **SCBA, sentencia del 9-VIII-2024, C. 121.539, 'P. B., E. G. c/ B., K. E. s/ medidas precautorias' — texto íntegro (ASAPMI mirror)** — <https://asapmi.org.ar/wp-content/uploads/2024/09/PBEG-c-BK-E-Medidas-precautorias.pdf> (ASAPMI — Asociación Argentina de Prevención del Maltrato Infanto-Juvenil) [es] — accessed 2026-05-30
 5. **Mauricio Luis Mizrahi, 'Un leading case: plena admisión de la alienación parental por la justicia nacional'** — <https://alienacionparental.com.ar/wp-content/uploads/2024/09/NUEVOS-FALLOS-QUE-RECONOCEN-LA-ALIENACION-PARENTAL.pdf> (La Ley — TR La Ley AR/DOC/1227/2022 (12-IV-2022, p. 8)) [es] — accessed 2026-05-30
@@ -151,6 +151,8 @@ CSJN (7-X-2021, CSJ 1813/2018/RH1): hace lugar al recurso de queja, acepta en su
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

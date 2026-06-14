@@ -258,7 +258,7 @@ Lagos · Lagos State · Project Alert on Violence Against Women (NGO)
 *Institutional: Nigerian women's-rights NGO founded 1997; legal aid, GBV / DV survivor support, court-support, paralegal training, and policy advocacy*
 Enugu · Enugu State (national reach) · Women's Aid Collective (WACOL) — NGO; multiple regional offices
 
-**Stance:** Standing Nigerian women's-rights critique register alongside Project Alert. WACOL operates the DV-protective frame in Enugu and federally under VAPP 2015 and Child Rights Act 2003; Tamar SARC (Sexual Assault Referral Centre) co-located. PA-construct critique is structural / DV-protective rather than published in clinical-academic form. The Nigeria critique register is institutional and women's-rights-organisation-led, not clinician-led. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
+**Stance:** Standing Nigerian women's-rights critique register alongside Project Alert. WACOL operates the DV-protective frame in Enugu and federally under VAPP 2015 and Child Rights Act 2003; Tamar SARC (Sexual Assault Referral Centre) co-located. PA-construct critique is structural / DV-protective rather than published in clinical-academic form. The Nigeria critique register is institutional and women's-rights-organisation-led, not clinician-led. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023), [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
 
 **Publications:**
 - Legal aid + paralegal training + GBV survivor advocacy (2020) — *WACOL Enugu*
@@ -385,7 +385,7 @@ Pretoria · Gauteng (Watson Law) · PAFSA / Watson Law Incorporated, Pretoria; a
 **Stance:** PAFSA mission statement (Watson Law page): 'to have the South African law changed, to meet international standards and to criminalise this emotional abuse'. Howard Watson public statement (Mail & Guardian 11 August 2022): PA is 'emotionally manipulative behaviour … not reliant on gender, and although more prevalent in mothers, fathers are far from innocent'. PAFSA calls for assessment + proper training of legal and medical professionals before submitting recommendations affecting minor children's rights. SA's principal PA-recognition advocacy NGO and institutional carrier of [PASG](https://pasg.info/) SA chapter — standing recognition-camp institutional interlocutor for criminalisation reform and professional-training advocacy. Co-founder Howard Watson is an attorney (Watson Law) — PAFSA functions as advocacy NGO. NPO/NPC number not publicly displayed. Stance is recognition-camp in substance but classified institutional per schema (institutional NGO entry).
 
 **Publications:**
-- SA criminalisation advocacy and PASG SA-chapter coordination (2020) — *PAFSA / Watson Law*
+- SA criminalisation advocacy and [PASG](https://pasg.info/) SA-chapter coordination (2020) — *PAFSA / Watson Law*
 - Mail & Guardian 'Children are the losers in parental alienation' (Watson public statement) (2022) — *Mail & Guardian, 11 August 2022* — <https://mg.co.za/article/2022-08-11-children-are-the-losers-in-parental-alienation/>
 
 **Verification:**
@@ -534,6 +534,8 @@ Federal (national) · Nigeria national · NACP — national professional associa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

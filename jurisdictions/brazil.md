@@ -60,7 +60,7 @@ Children and family parties are identified by initials only in published judgmen
 - **2010** — 26 August 2010 — Lei nº 12.318/2010 (Lei da Alienação Parental) promulgada by Presidente Lula. First and only world statute to expressly define alienação parental and prescribe a graduated catalogue of judicial remedies. — <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm>
 - **2014** — IBDFAM Anteprojeto do Estatuto das Famílias — academic family-law codification effort that consolidates IBDFAM's recognition-aligned position. — <https://ibdfam.org.br/>
 - **2017** — STJ REsp 1.654.111/DF (Rel. Min. Villas Bôas Cueva) — early STJ formulation of what would later be characterised as the 'no-automaticity' doctrine on custody inversion under art. 6º, V Lei 12.318/2010. — <https://scon.stj.jus.br/SCON/>
-- **2019** — STF ADI 6273/2019 — Ação Direta de Inconstitucionalidade challenging Lei 12.318/2010 dismissed on standing; no merits ruling on the constitutionality of the statute. — <https://portal.stf.jus.br/>
+- **2019** — [STF](https://portal.stf.jus.br/) ADI 6273/2019 — Ação Direta de Inconstitucionalidade challenging Lei 12.318/2010 dismissed on standing; no merits ruling on the constitutionality of the statute. — <https://portal.stf.jus.br/>
 - **2020** — OAB (Ordem dos Advogados do Brasil) and 23 entidades signatárias manifesto pró-revogação Lei AP — public-interest coalition calling for repeal of Lei 12.318/2010 on the ground that it has been used to discount intra-family-violence and sexual-abuse allegations. — <https://www.oab.org.br/>
 - **2022** — Conselho Federal de Psicologia (CFP) Nota Técnica nº 4/2022 — joint with Conselho Federal de Serviço Social (CFESS) — institutional critique of SAP/PAS as a clinical construct and of operationalisation of Lei 12.318/2010 in perícia. — <https://site.cfp.org.br/>
 - **2024** — STJ Terceira Turma REsp 1.859.228/SP (Rel. Min. Nancy Andrighi) — consolidated 'no-automaticity' doctrine: inversion of custody under art. 6º, V Lei 12.318/2010 is not the default response to an alienating-conduct finding; family court must apply graduated catalogue starting with less invasive remedies. — <https://scon.stj.jus.br/SCON/>
@@ -117,6 +117,8 @@ Children and family parties are identified by initials only in published judgmen
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

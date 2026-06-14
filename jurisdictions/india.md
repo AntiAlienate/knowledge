@@ -90,7 +90,7 @@ India is a mixed common-law / personal-law jurisdiction whose family courts appl
 
 ## Sources
 
-1. **Supreme Court of India — judgments search** — <https://main.sci.gov.in/judgments> (Supreme Court of India) [en]
+1. **[Supreme Court of India](https://main.sci.gov.in/) — judgments search** — <https://main.sci.gov.in/judgments> (Supreme Court of India) [en]
 2. **India Code — consolidated statutes** — <https://www.indiacode.nic.in/> (Legislative Department, Government of India) [en]
 3. **Delhi High Court — judgments** — <https://delhihighcourt.nic.in/> (Delhi High Court) [en]
 4. **SCC Online — Indian case-law database** — <https://www.scconline.com/> (Eastern Book Company) [en]
@@ -113,6 +113,8 @@ India is a mixed common-law / personal-law jurisdiction whose family courts appl
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

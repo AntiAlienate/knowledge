@@ -97,7 +97,7 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 ## Clinical adoption
 
 - [Family Bridges](https://warshak.com/family-bridges/) and related models (Turning Points, Welcome Back) now widely available
-- Multiple courts in US, Canada, UK, Australia have ordered Family Bridges or analogues
+- Multiple courts in US, Canada, UK, Australia have ordered [Family Bridges](https://warshak.com/family-bridges/) or analogues
 - Insurance/cost issue: program is expensive (~$30,000 USD), limiting access
 - Public funding for analogous programs in Belgium (Espace-Rencontres) provides accessibility model
 
@@ -120,6 +120,8 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Reunification protocol selection requires assessment by qualified mental-health professionals and court order.*
+
+
 
 
 

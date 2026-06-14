@@ -26,7 +26,7 @@ Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychol
 **Stance:** Author of the most-cited [Family Bridges](https://warshak.com/family-bridges/) outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed [Family Bridges](https://warshak.com/family-bridges/) with Randy Rand (now excluded — see excluded[]). Position is [PASG](https://pasg.info/)-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
 
 **Publications:**
-- Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children (2010) — *Family Court Review 48(1):48-80* — <https://onlinelibrary.wiley.com/doi/10.1111/j.1744-1617.2009.01288.x>
+- [Family Bridges](https://warshak.com/family-bridges/): Using Insights from Social Science to Reconnect Parents and Alienated Children (2010) — *Family Court Review 48(1):48-80* — <https://onlinelibrary.wiley.com/doi/10.1111/j.1744-1617.2009.01288.x>
 - When Evaluators Get It Wrong: False Positive IDs and Parental Alienation (2019) — *Journal of Divorce & Remarriage 60(8)*
 - Divorce Poison: How to Protect Your Family from Bad-Mouthing and Brainwashing (rev. ed.) (2010) — *HarperCollins*
 
@@ -81,7 +81,7 @@ Pasadena (CA practice history); Washington licensure · WA · Independent clinic
 
 **Contact:** Contact form at https://drcraigchildressblog.com/
 
-*Notes: WA psychology license #61538481 per practice blog. Recognition-camp framing but anchored in [DSM-5](https://www.appi.org/products/dsm) attachment language rather than PASG Five-Factor Model; useful for parents seeking diagnostic rigour outside PASG.*
+*Notes: WA psychology license #61538481 per practice blog. Recognition-camp framing but anchored in [DSM-5](https://www.appi.org/products/dsm) attachment language rather than [PASG](https://pasg.info/) Five-Factor Model; useful for parents seeking diagnostic rigour outside PASG.*
 
 **See also:** `jurisdiction:united-states`
 
@@ -273,7 +273,7 @@ Kansas City area · MO · Researcher, Leadership Council on Child Abuse & Interp
 *PhD; ABPP (Couple & Family Psychology); ABN; TX Licensed Psychologist; CA LMFT*
 San Diego · CA · Founding President, Institute on Violence, Abuse & Trauma (IVAT), San Diego; Distinguished Research Professor (Retired), Alliant International University
 
-**Stance:** Editor of the 2022 Journal of Family Trauma, Child Custody & Child Development special issue critiquing TPFF, Family Bridges, and OBFC reunification programmes. IVAT founded as FVSAI in 1984. Dual TX / CA licensure gives cross-jurisdiction expert-witness reach. Most-current academic critique-camp anchor.
+**Stance:** Editor of the 2022 Journal of Family Trauma, Child Custody & Child Development special issue critiquing [TPFF](https://turningpointsforfamilies.com/), Family Bridges, and OBFC reunification programmes. IVAT founded as FVSAI in 1984. Dual TX / CA licensure gives cross-jurisdiction expert-witness reach. Most-current academic critique-camp anchor.
 
 **Publications:**
 - Special issue: Reunification Programs and Parental Alienation — A Critical Analysis (2022) — *Journal of Family Trauma, Child Custody & Child Development 19(3-4) (Geffner et al. eds.)*
@@ -307,7 +307,7 @@ Corte Madera · CA · Independent practice (Corte Madera, CA); retired-status pr
 - <https://www.afccnet.org/>
 - <https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x>
 
-**Contact:** Not publicly confirmed on personal site; route via AFCC https://www.afccnet.org/
+**Contact:** Not publicly confirmed on personal site; route via [AFCC](https://www.afccnet.org/) https://www.afccnet.org/
 
 *Notes: Retired / semi-retired status; current CA licensure status not publicly confirmed. Active practice contact is the principal gap. Kelly-Johnston 2001 is canonical for every AFCC-aligned evaluator.*
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

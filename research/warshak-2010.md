@@ -54,9 +54,9 @@ For severely alienated children where contact has been near-zero for an extended
 - Sample size is small (n=23 in original cohort)
 - Self-selected sample (families who could afford the workshop + travel)
 - No randomized controlled trial exists for any PA reunification protocol
-- Critics (e.g., Mercer 2019) argue the protocol amounts to "deprogramming" — Warshak's response: it's structured education, not coercion
+- Critics (e.g., Mercer 2019) argue the protocol amounts to "deprogramming" — [Warshak's](https://warshak.com/family-bridges/) response: it's structured education, not coercion
 
-The PA field has not yet produced an RCT of Family Bridges; the cited literature is primarily case-series + practitioner-report.
+The PA field has not yet produced an RCT of [Family Bridges](https://warshak.com/family-bridges/); the cited literature is primarily case-series + practitioner-report.
 
 ## Related interventions
 
@@ -90,6 +90,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

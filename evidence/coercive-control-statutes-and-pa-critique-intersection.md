@@ -48,7 +48,7 @@ Italian DV statutory framework (Codice Rosso reform 2019) operates alongside the
 ## Structural observations
 
 ### 1. Parallel reform sequences 2015-2024
-The coercive-control statutory reform wave (E&W 2015 + Scotland 2018 + NI 2021 + AU 2022-2023 + Chile 2024 + Japan 2024 amendments + SA 2021 amendment) operates IN PARALLEL with the EU 2017-2025 apex sequence (STS 519/2017 + Cassazione triad + [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 + SN III CZP 20/25) and the Asian apex recognition cluster (Vivek Singh 2017 + TEN v TEO 2020 + H v W 2021 + Japan Act 33/2024). The parallel sequences suggest a global structural shift in DV-protective framing 2015-2024.
+The coercive-control statutory reform wave (E&W 2015 + Scotland 2018 + NI 2021 + AU 2022-2023 + Chile 2024 + Japan 2024 amendments + SA 2021 amendment) operates IN PARALLEL with the EU 2017-2025 apex sequence (STS 519/2017 + [Cassazione](https://www.cortedicassazione.it/) triad + [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 + SN III CZP 20/25) and the Asian apex recognition cluster (Vivek Singh 2017 + TEN v TEO 2020 + H v W 2021 + Japan Act 33/2024). The parallel sequences suggest a global structural shift in DV-protective framing 2015-2024.
 
 ### 2. Coercive control framing operates as alternative critique-anchor
 Where PA-construct deployment is contested in family-court contexts, coercive-control framing operates as the principal alternative explanatory lens. Belgium IEFH/IGVM Recommandation 2023/001 makes this explicit: 'le syndrome d'aliénation parentale ne peut être utilisé pour minimiser la violence entre (ex-)partenaires.' Chile Ley 21.675/2024 violencia vicaria operates as direct conceptual substitution.
@@ -97,6 +97,8 @@ National coercive-control statutory reforms converge with multi-tier internation
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md*
+
+
 
 
 

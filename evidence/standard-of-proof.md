@@ -296,7 +296,7 @@ These are not legal advice. They are example skeletons of the kind of framing th
 ### 11.2 Moderate confidence
 
 - The **gravity-doesn't-raise-the-standard rule** of *Re B* operates internationally with national variants — in Australia and Canada, the same proposition is stated in the same words (one civil standard; cogent evidence). In civil-law jurisdictions (Italy, Germany, France), the standard is *free conviction* of the judge subject to substantive-rationality and (now) admissibility controls; the operational effect is similar.
-- *Daubert / Frye* and equivalents (PD 25B in England and Wales; Cass. 9691/2022 in Italy; the substantive-rationality control of BVerfG 1 BvR 1076/23 in Germany) impose **admissibility-level filters** on PA expert testimony. These are doctrinally distinct from the standard of proof but materially affect outcomes when an alienation finding depends on expert testimony.
+- *Daubert / Frye* and equivalents (PD 25B in England and Wales; Cass. 9691/2022 in Italy; the substantive-rationality control of [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 in Germany) impose **admissibility-level filters** on PA expert testimony. These are doctrinally distinct from the standard of proof but materially affect outcomes when an alienation finding depends on expert testimony.
 
 ### 11.3 Contested
 
@@ -331,6 +331,8 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 **Compiled** 2026-05-25 for the AntiAlienate knowledge repository (CC BY 4.0).
 **Compiler note.** Where the published text of a judgment or article was not directly accessible at compilation, the citation is marked **[secondary verification only]** and should be re-checked against the original. Where a specific factual proposition asked for could not be located in a primary source, it is marked **not publicly confirmed** rather than fabricated.
+
+
 
 
 

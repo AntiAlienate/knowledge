@@ -48,7 +48,7 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 
 - Family Law Week (2026) — Case digest on Re Y [2026] EWFC 38 — <https://www.familylawweek.co.uk/>
   - Practitioner-press case digest — exact URL to be confirmed after publication.
-- ACP-UK / [BPS](https://www.bps.org.uk/) (2026) — Professional-body commentary on the HCPC-registration requirement — <https://acpuk.org.uk/>
+- ACP-UK / [BPS](https://www.bps.org.uk/) (2026) — Professional-body commentary on the [HCPC](https://www.hcpc-uk.org/)-registration requirement — <https://acpuk.org.uk/>
   - Association of Clinical Psychologists UK and British Psychological Society professional-body engagement on the regulated-only expert psychology line — discrete responses on Re Y specifically not yet publicly catalogued at time of writing.
 
 ## See also
@@ -76,7 +76,7 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 - Full judgment text not retrievable at time of writing ([BAILII](https://www.bailii.org/) bot-protection wall); reconstruction relies on the secondary practitioner-press digest line and the standing characterisation of the case in the AntiAlienate knowledge base (companion [BVerfG](https://www.bundesverfassungsgericht.de/) and OLG Frankfurt case studies; UK devolved lawyers file). All operative paragraph numbers and the precise verbatim wording are flagged for verification against the [BAILII](https://www.bailii.org/) / judiciary.uk full text before publication.
 - Decision date 2026-02-10 is the best-available reconstruction; the precise hand-down date will be confirmed from [BAILII](https://www.bailii.org/) / judiciary.uk metadata.
 - Subject child anonymised as 'Y' per the standard EWFC convention; party identities are anonymised on the face of the judgment.
-- Counsel for the parties is not yet enumerated in this entry; will be added from the front sheet of the BAILII text once retrieved.
+- Counsel for the parties is not yet enumerated in this entry; will be added from the front sheet of the [BAILII](https://www.bailii.org/) text once retrieved.
 - Melanie Gill is the named unregulated evaluator on the record; she is the subject of the existing excluded-with-reasons entry in the AntiAlienate UK practitioners directory under `practitioner:uk-ews.gill-melanie`.
 - Verbatim quote paragraph is a placeholder pending full-text retrieval; the JSON includes one verbatim_quotes entry with explicit 'to be confirmed' flagging rather than risk paraphrase-as-verbatim.
 - The 'Modern Approach' subtitle is the reconstructed working subtitle used in the AntiAlienate knowledge base; the official subtitle will be confirmed from BAILII.
@@ -87,6 +87,8 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

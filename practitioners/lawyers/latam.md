@@ -33,7 +33,7 @@ Chile: Boletín 10.516-18 (proyecto que reconocía SAP como acto constitutivo de
 - Sonia Vaccaro — Argentine-born, Madrid-based, coiner of 'violencia vicaria' — is the only Argentine practitioner currently active in global PA-critique discourse with a peer-reviewed book (Vaccaro & Barea 2009, Desclée de Brouwer). Primary-listed under Spain therapists, cross-referenced from AR therapists. The 'violencia vicaria' frame she developed is the doctrinal hinge of Chile's Ley 21.675/2024 substitution of SAP-as-VIF.
 - Cross-jurisdictional doctrinal traffic 2023-2025: Corte Constitucional Colombia T-526/23 → cited by Diario Constitucional Chile (16.2.2024); Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Acierno) → reciprocally cited by Colombian and Chilean commentary; German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) → comparative anchor for European/LATAM critique convergence.
 - Recognition pole has not produced comparable cross-LATAM citation traffic. IBDFAM (Brazil) doctrine is country-specific to Lei 12.318/2010; Mizrahi (AR) doctrine is country-specific to CCyC 2014 + Ley 24.270. No regional recognition-camp institutional vehicle equivalent to ABOFEM or Sisma Mujer.
-- Femicidio/violencia vicaria substitution as critique-camp legislative strategy: Chile Ley 21.675/2024 is the regional pilot. Spain LOPIVI Disp. ad. 17a (2021) inadmission and Italy Cassazione 9691/2022 jurisprudential line are precedents. LATAM jurisdictions other than Brazil are tracking the European critique trajectory.
+- Femicidio/violencia vicaria substitution as critique-camp legislative strategy: Chile Ley 21.675/2024 is the regional pilot. Spain LOPIVI Disp. ad. 17a (2021) inadmission and Italy [Cassazione](https://www.cortedicassazione.it/) 9691/2022 jurisprudential line are precedents. LATAM jurisdictions other than Brazil are tracking the European critique trajectory.
 - Tier 1 named-counsel interlocutor density: BR 4 (Dias, Madaleno, Pereira, Cruz/Themis), MX 2 (Peimbert, Ríos), AR 1 (Mizrahi), CO 2 (Cabrera/Sisma, Fajardo magistrada — institutional only), CL 0 individual at apex (Muñoz as institutional). Reflects the asymmetric LATAM institutional architecture.
 - Honest gap: critique-camp Brazilian apex-counsel attribution beyond Cruz/Themis (ADI 6273/2019). Public-record analysis identifies AAIG/Themis collective work and Câmara feminist-deputy bloc (Melchionna, Bomfim, Reis) but no single named advocate equivalent to Mizrahi (recognition AR) or Peimbert (critique MX). Preserved as honest gap rather than fabricated entry.
 
@@ -152,7 +152,7 @@ Porto Alegre · Rio Grande do Sul · Themis - Gênero, Justiça e Direitos Human
 **Stance:** Named lawyer behind the first [STF](https://portal.stf.jus.br/) constitutional challenge to Lei 12.318/2010 (ADI 6273/2019, dismissed unanimously by Pleno for lack of standing 17.12.2021, Rel. Min. Rosa Weber — merits untouched). Themis institutional PA-critique series sustains the position that Lei 12.318 functions as gender-based violence against women and risk to children. Co-signatory on feminist-coalition material underpinning UN SR Reem Alsalem's 2022 and 2025 calls for revocation. The single most direct interlocutor for the critique camp at apex-court level in Brazil.
 
 **Publications:**
-- STF ADI 6273/2019 (challenged Lei 12.318/2010 constitutionality) (2021) — *STF (dismissed 17.12.2021, Rel. Min. Rosa Weber)* — <https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=478866&ori=1>
+- [STF](https://portal.stf.jus.br/) ADI 6273/2019 (challenged Lei 12.318/2010 constitutionality) (2021) — *STF (dismissed 17.12.2021, Rel. Min. Rosa Weber)* — <https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=478866&ori=1>
 - Entenda porque revogar Lei de Alienação Parental é importante para mulheres e crianças (2022) — *Themis* — <https://themis.org.br/entenda-porque-revogar-lei-de-alienacao-parental-e-importante-para-mulheres-e-criancas/>
 - Entenda como Lei de Alienação Parental pode ser considerada violência de gênero contra mulheres e representar risco às crianças (2022) — *Themis* — <https://themis.org.br/entenda-como-lei-de-alienacao-parental-pode-ser-considerada-violencia-de-genero-contra-mulheres-e-representar-risco-as-criancas/>
 
@@ -557,6 +557,8 @@ Mendoza · Mendoza · Universidad Nacional de Cuyo; IDIBE (consultor académico)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

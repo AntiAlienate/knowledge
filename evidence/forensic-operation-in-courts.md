@@ -53,7 +53,7 @@
 
 > "Across all alienation cases (both with and without abuse claims), when a father alleged a mother was alienating they took custody from her 44% of the time (166/380). When the genders were reversed, mothers took custody from fathers only 28% of the time (19/67). This means that when accused of alienation, mothers have twice the odds of losing custody compared to fathers."
 
-**The "alienation trumps abuse" finding (verbatim, Table 7).** Of 14 cases in which courts found **both** that the father had abused the mother **and** that the mother was alienating, the mother lost custody to the abusive father in **43% (6/14)** of cases. Meier: "Even when courts believe a father has abused a mother, if they also believe the mother is alienating, some mothers still lose custody to the abusive fathers. In other words, in these cases alienation trumps abuse."
+**The "alienation trumps abuse" finding (verbatim, Table 7).** Of 14 cases in which courts found **both** that the father had abused the mother **and** that the mother was alienating, the mother lost custody to the abusive father in **43% (6/14)** of cases. [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941): "Even when courts believe a father has abused a mother, if they also believe the mother is alienating, some mothers still lose custody to the abusive fathers. In other words, in these cases alienation trumps abuse."
 
 **Symmetry in non-abuse cases (verbatim).** "Virtual parity is apparent in the non-abuse alienation cases, where win rates are 58% (fathers) and 56% (mothers). In contrast, when abuse and alienation are cross-alleged, this parity disappears (fathers win 66%; mothers 52%)."
 
@@ -149,7 +149,7 @@
 
 **Quantitative findings on evaluator practice (verbatim).** 23% of evaluators in the [Saunders](https://www.ovw.usdoj.gov/) et al. (2011) survey "focused on coercive-controlling aspects of a vignette in forming their assessment hypotheses"; only 38% reported "always" using a standardised IPV screening instrument; 37% never used one. 60% in Bow & Boxer (2003) did not use specialised IPV questionnaires.
 
-**Evaluator-recommended custody for known abusers (verbatim, from Davis et al. 2011 / Morrill et al. 2005, cited by Saunders).** "A small to substantial minority (between 10 and 39%) of abusers receive primary physical or joint custody."
+**Evaluator-recommended custody for known abusers (verbatim, from Davis et al. 2011 / Morrill et al. 2005, cited by [Saunders](https://www.ovw.usdoj.gov/)).** "A small to substantial minority (between 10 and 39%) of abusers receive primary physical or joint custody."
 
 ### 4.2 Saunders, Faller & Tolman (2011) and Bow & Quinnell (2001) — training-gap evidence
 
@@ -233,7 +233,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 **Citation.** [OHCHR](https://www.ohchr.org/), *Brazil: Parliament must repeal harmful parental alienation law, says Special Rapporteur*. Press release, 3 September 2025. https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
 
-**Verbatim direct quotes by Reem Alsalem (via OHCHR/Jurist/Mirage News coverage).**
+**Verbatim direct quotes by Reem Alsalem (via [OHCHR](https://www.ohchr.org/)/Jurist/Mirage News coverage).**
 > "This initiative, led by a group of feminist congresswomen, is an important step by legislators to bring Brazil in line with international human rights standards established under binding international and regional human rights treaties and standards on gender equality and child protection."
 
 > "The abuse includes sexual abuse inflicted on the children. There are reports of women having been stripped of the right to the custody of their children, and the children are then sent back to their abusers."
@@ -306,7 +306,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 
 - **No published evidence that any single reform package solves the forensic problem in any jurisdiction.** Spain's 2021 statutory prohibition (A/HRC/53/36 ¶48) imperfectly implemented; Australia's 2023–2024 reforms too recent; Brazil's repeal of Lei 12.318/2010 still pending.
 - **Evaluators are not uniformly biased or under-trained.** Saunders 2015 documents substantial variability; ~23% focus on coercive-controlling abuse and ~38% always use standardised IPV screening. Blanket condemnation of the profession is not supported.
-- **PA does sometimes occur as a real phenomenon distinct from justified estrangement.** Saini/Johnston/Fidler/Bala 2016 explicit: "there are cases where one parent may have primary responsibility for 'alienating' a child from the other parent." The honest critique is not that PA doesn't exist but that (i) it lacks diagnostic validity, (ii) no defensible prevalence estimate, (iii) most empirical research fails to distinguish it from justified estrangement, and (iv) its forensic use in US courts has demonstrably operated against abuse-alleging mothers in a gender-asymmetric way.
+- **PA does sometimes occur as a real phenomenon distinct from justified estrangement.** [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 explicit: "there are cases where one parent may have primary responsibility for 'alienating' a child from the other parent." The honest critique is not that PA doesn't exist but that (i) it lacks diagnostic validity, (ii) no defensible prevalence estimate, (iii) most empirical research fails to distinguish it from justified estrangement, and (iv) its forensic use in US courts has demonstrably operated against abuse-alleging mothers in a gender-asymmetric way.
 
 ---
 
@@ -320,13 +320,15 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 - **Saini/Johnston/Fidler/Bala 2016.** In *Parenting Plan Evaluations* (2nd ed.). OUP. doi:10.1093/med:psych/9780199396580.003.0013.
 - **Alsalem 2023.** A/HRC/53/36.
 - **OHCHR Brazil press release** 2025-09-03.
-- **GREVIO 3rd General Report 2022.** Council of Europe.
+- **GREVIO 3rd General Report 2022.** [Council of Europe](https://www.coe.int/).
 - **CEDAW concluding observations.** CRI/CO/7 ¶43; NZL/CO/8 ¶48; ITA/CO/7 ¶51; ESP/CO/7-8 ¶¶38–39; RUS/CO/8 ¶46; CAN/CO/8-9 ¶57; SWE/CO/10 ¶46.
 - **Tsimhoni / Gorcyca.** Michigan Supreme Court censure, 2017-07-28.
 
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

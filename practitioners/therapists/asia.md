@@ -123,7 +123,7 @@ Tokyo · Japan · JFBA / Nichibenren — Tokyo, Japan
 *Founded 2009 by Chizuko Ueno and other feminist scholars and activists; Japan's leading women's-rights / feminist NGO and online platform; engages family-law reform, DV / 暴力 protection and gender-equality policy*
 Kyoto / national · Japan · WAN — Japan Women's Action Network (NPO)
 
-**Stance:** Institutional critique-register anchor for the Japan PA-construct debate. WAN carries the DV-survivor-protective and gender-equality framing in the 共同親権 / Act No. 33 of 2024 reform conversation, with structural concern that the joint-parental-authority shift risks operationalisation against DV-survivor mothers absent robust carve-outs and enforcement. PA-specific public position-paper not located; classified critique on the strength of WAN's structural DV-protective and women's-rights policy register and engagement with the Civil Code Art. 819 reform debate. Comparative-reception relevance to BVerfG 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: JP.
+**Stance:** Institutional critique-register anchor for the Japan PA-construct debate. WAN carries the DV-survivor-protective and gender-equality framing in the 共同親権 / Act No. 33 of 2024 reform conversation, with structural concern that the joint-parental-authority shift risks operationalisation against DV-survivor mothers absent robust carve-outs and enforcement. PA-specific public position-paper not located; classified critique on the strength of WAN's structural DV-protective and women's-rights policy register and engagement with the Civil Code Art. 819 reform debate. Comparative-reception relevance to [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: JP.
 
 **Publications:**
 - WAN online platform and policy commentary on 共同親権 / Act No. 33 of 2024 reform (2024) — *WAN (wan.or.jp)*
@@ -352,6 +352,8 @@ Hong Kong · Hong Kong SAR · HKCSS; convener role across HKFWS, Caritas, ISS-HK
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

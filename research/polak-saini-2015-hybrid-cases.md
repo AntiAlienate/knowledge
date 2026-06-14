@@ -65,7 +65,7 @@ Hybrid cases tend to produce orders that:
 - Often involve graduated reintroduction with parallel parent-coaching for both parents
 - Include specific behavioral expectations of both parents
 
-## Where Polak-Saini Fits
+## Where Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) Fits
 
 | Framework | Function |
 |-----------|----------|
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

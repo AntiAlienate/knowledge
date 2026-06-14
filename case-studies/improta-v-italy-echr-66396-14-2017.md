@@ -59,7 +59,7 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 - **Lombardo v. Italy, no. 25704/11, 29 January 2013** (INT) — [`case-study:lombardo-v-italy-echr-25704-11-2013`](./case-study:lombardo-v-italy-echr-25704-11-2013.md) — Earlier Strasbourg condemnation of Italy on the same Article 8 positive-obligations doctrine: domestic courts and social services failed to take prompt and effective steps to enforce a father's contact rights, allowing the relationship to be eroded by institutional delay. Improta extends and confirms Lombardo's reasoning in the context of an unmarried separation involving a very young child.
 - **Strumia v. Italy, no. 53377/13, 23 June 2016** (INT) — [`case-study:strumia-v-italy-echr-53377-13-2016`](./case-study:strumia-v-italy-echr-53377-13-2016.md) — Companion ECHR Italy case decided shortly before Improta, also finding a violation of Article 8 for the Italian authorities' failure to enforce a father's contact order. Improta and Strumia are routinely cited together as twin Strasbourg authorities that institutional passivity in the face of a resident parent's obstruction is itself a Convention violation.
 - **[Cassazione](https://www.cortedicassazione.it/) civile, Sez. I, sent. n. 9691/2022** (IT) — [`case-study:cassazione-9691-2022-italy`](./case-study:cassazione-9691-2022-italy.md) — Italian Supreme Court of Cassation decision aligning domestic family-law practice with the Strasbourg Article 8 jurisprudence on contact enforcement and the bigenitorialità principle. Improta is part of the ECHR backdrop that shaped subsequent [Cassazione](https://www.cortedicassazione.it/) doctrine on prompt, effective enforcement of the non-resident parent's contact.
-- **[Cassazione](https://www.cortedicassazione.it/) civile, sent. n. 4595/2025** (IT) — [`case-study:cassazione-4595-2025-italy`](./case-study:cassazione-4595-2025-italy.md) — Recent Italian Cassazione ruling carrying forward the Strasbourg-informed approach to enforcement of contact and to assessment of resident-parent obstruction. Improta sits in the ECHR pedigree on which the modern Italian doctrine builds.
+- **[Cassazione](https://www.cortedicassazione.it/) civile, sent. n. 4595/2025** (IT) — [`case-study:cassazione-4595-2025-italy`](./case-study:cassazione-4595-2025-italy.md) — Recent Italian [Cassazione](https://www.cortedicassazione.it/) ruling carrying forward the Strasbourg-informed approach to enforcement of contact and to assessment of resident-parent obstruction. Improta sits in the ECHR pedigree on which the modern Italian doctrine builds.
 
 ## Subsequent reception
 
@@ -67,7 +67,7 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
   - Italian Ministry of Justice catalogues Improta among the 2017 [ECtHR](https://www.echr.coe.int/) judgments concerning Italy and publishes an Italian-language summary.
 - Marina Castellaneta (Università di Bari) — academic blog case note (2017) — 'Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia' — <http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html>
   - Contemporaneous Italian case note framing Improta as part of a continuing pattern of Italian Article 8 violations and quoting the Court's reasoning that the passage of time can have irreversible consequences on the parent-child relationship.
-- ECtHR Press Unit — Parental Rights factsheet (2017) — ECHR Factsheet on Parental Rights — <https://www.echr.coe.int/documents/d/echr/fs_parental_eng>
+- [ECtHR](https://www.echr.coe.int/) Press Unit — Parental Rights factsheet (2017) — ECHR Factsheet on Parental Rights — <https://www.echr.coe.int/documents/d/echr/fs_parental_eng>
   - Lists Improta in the Court's own thematic factsheet under 'Failure to enforce contact / visiting rights', confirming Improta as a leading authority in that cluster.
 - Italian Government — annual report on ECHR judgments concerning Italy (2017) — Relazione annuale 2017 al Parlamento (Presidenza del Consiglio) — <https://presidenza.governo.it/CONTENZIOSO/contenzioso_europeo/relazione_annuale/Relazione_2017.pdf>
   - Official Italian government annual report on the execution of ECtHR judgments concerning Italy, including the Article 8 cluster of which Improta is part.
@@ -85,14 +85,14 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ## Sources
 
 1. **[HUDOC](https://hudoc.echr.coe.int/) — Improta v. Italy, App. No. 66396/14 (search by application number)** — <https://hudoc.echr.coe.int/eng> ([European Court of Human Rights](https://www.echr.coe.int/)) [en] — accessed 2026-05-30
-2. **ECHR Press Release / 'Judgments and decisions of 04.05.17' (PDF)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-5708201-7243910&filename=Judgments+and+decisions+of+04.05.17.pdf> (European Court of Human Rights — Press Unit) [en] — accessed 2026-05-30
+2. **ECHR Press Release / 'Judgments and decisions of 04.05.17' (PDF)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-5708201-7243910&filename=Judgments+and+decisions+of+04.05.17.pdf> ([European Court of Human Rights](https://www.echr.coe.int/) — Press Unit) [en] — accessed 2026-05-30
 3. **Italian Ministry of Justice — case file SDU35115 (Improta v. Italy 2017)** — <https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115> (Ministero della Giustizia (Italy)) [it] — accessed 2026-05-30
 4. **Marina Castellaneta — 'Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia'** — <http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html> (Marina Castellaneta (Università di Bari)) [it] — accessed 2026-05-30
 5. **ECtHR Press Unit — 'Parental Rights' factsheet** — <https://www.echr.coe.int/documents/d/echr/fs_parental_eng> (European Court of Human Rights — Press Unit) [en] — accessed 2026-05-30
 6. **ECtHR — 'Rights of the child: Contact rights' key-theme briefing** — <https://ks.echr.coe.int/documents/d/echr-ks/contact-rights> (European Court of Human Rights — Knowledge Sharing platform) [en] — accessed 2026-05-30
 7. **Italian Government 2017 report on ECHR judgments concerning Italy (PDF)** — <https://presidenza.governo.it/CONTENZIOSO/contenzioso_europeo/relazione_annuale/Relazione_2017.pdf> (Presidenza del Consiglio dei Ministri (Italy)) [it] — accessed 2026-05-30
 8. **Italian MOJ — 2017 ECHR judgments index** — <https://www.giustizia.it/giustizia/it/mg_1_20.page?facetNode_1=1_2%282017%29&facetNode_2=0_8_1_4&selectedNode=0_8_1_4> (Ministero della Giustizia (Italy)) [it] — accessed 2026-05-30
-9. **Centro di Ateneo per i Diritti Umani — Italian Article 8 ECHR judgments index** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università di Padova — Human Rights Centre) [en] — accessed 2026-05-30
+9. **Centro di Ateneo per i Diritti Umani — Italian [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) judgments index** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università di Padova — Human Rights Centre) [en] — accessed 2026-05-30
 
 ## Editorial notes
 
@@ -108,6 +108,8 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

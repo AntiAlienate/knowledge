@@ -32,7 +32,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ### Oberlandesgericht Frankfurt am Main (OLG Frankfurt)
 <https://ordentliche-gerichtsbarkeit.hessen.de/olg-frankfurt>
-- **OLG Frankfurt, Beschluss vom 5.1.2026 - 7 UF 88/25 — Senatsentscheidung applying BVerfG 1 BvR 1076/23 reasoning to a Sorgerechts-/Umgangsverfahren and rejecting a PAS-framed gutachterliche Empfehlung** (2026) — critique — [`olg-frankfurt-7-uf-88-25-germany-2026`](../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md)
+- **OLG Frankfurt, Beschluss vom 5.1.2026 - 7 UF 88/25 — Senatsentscheidung applying [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 reasoning to a Sorgerechts-/Umgangsverfahren and rejecting a PAS-framed gutachterliche Empfehlung** (2026) — critique — [`olg-frankfurt-7-uf-88-25-germany-2026`](../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md)
 
 ### [Bundesgerichtshof](https://www.bundesgerichtshof.de/) ([BGH](https://www.bundesgerichtshof.de/)) — XII. Zivilsenat
 <https://www.bundesgerichtshof.de/>
@@ -119,6 +119,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

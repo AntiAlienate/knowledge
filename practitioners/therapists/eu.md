@@ -53,7 +53,7 @@
 ### 2. Dipl-Psych Ursula Kodjoe
 - **Country / city:** DE / Emmendingen (Baden-Württemberg)
 - **Practice / affiliation:** Independent practice in mediation, systemic family therapy and PA-related expert consulting, Emmendingen; long-standing freelance consultant (until 2005) to the *Bundesministerium der Justiz* and the French *Ministère de la Justice* on international child-custody disputes; [PASG](https://pasg.info/)-aligned (recurring speaker, Nordic Conference Stockholm 2018; Brussels 2021)
-- **Practice URL:** LinkedIn (institutional verification) https://de.linkedin.com/in/ursula-kodjoe-b2815340 ; PASG external resources https://www.pasg.info/external-resources
+- **Practice URL:** LinkedIn (institutional verification) https://de.linkedin.com/in/ursula-kodjoe-b2815340 ; [PASG](https://pasg.info/) external resources https://www.pasg.info/external-resources
 - **Regulatory body:** **Diplom-Psychologin** + **Diplom-Sozialpädagogin** (German diploma psychologist / social pedagogue); systemic family therapist and mediator; the *Diplom-Psychologin* title pre-dates the 2020 *PsychThG* reform and remains validly entitled to private-practice work as a therapist when registered with the Land *Psychotherapeutenkammer*. Specific Land Approbation / chamber number **not publicly displayed**.
 - **Registration number:** **not publicly displayed**
 - **Specialty:** PA / Eltern-Kind-Entfremdung; international child-abduction mediation; expert testimony in German and Cross-border family proceedings; consensus model for early intervention
@@ -326,7 +326,7 @@
   - Verrocchio / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet collaborative outputs across the 2010s
 - **Primary contact:** UniCh institutional email (https://www.unich.it/) ; LinkedIn DM https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/
 - **Tier:** 1
-- **Hook:** The principal Italian academic-clinician operating inside the PASG (Baker / Bernet) recognition framework; her Chieti-sample data is the Italian recognition camp's most-cited empirical study.
+- **Hook:** The principal Italian academic-clinician operating inside the PASG ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet) recognition framework; her Chieti-sample data is the Italian recognition camp's most-cited empirical study.
 - **Notes:** Italian recognition-camp work is now read in the shadow of Cass. ord. 9691/2022 and ord. 4595/2025 — see `/case-studies/` for the doctrinal context.
 
 ### 3. Prof Marisa Malagoli Togliatti
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

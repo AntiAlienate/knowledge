@@ -146,6 +146,8 @@ California's three-statute architecture (§§ 3011 + 3020 + 3040) is **the most 
 - **Recent amendments:** § 3011 amended by Stats. 2023, Ch. 493, Sec. 2 (SB 599) effective 1 January 2024 — adds the written-reasons requirement at (a)(5)(A) on safety-implicated custody orders. § 3020 amended by Stats. 2019, Ch. 551, Sec. 2 (SB 495) effective 1 January 2020 — adds (d) sex/gender-identity exclusion. § 3040 amended for the 2024 mental-illness reasons-finding requirement at (d).
 - **Status:** Public domain — California state statutes are not subject to copyright (general principle that government-authored law is public domain).
 
+
+
 <!-- AA-CITE-START -->
 
 ---

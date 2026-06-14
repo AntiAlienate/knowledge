@@ -57,7 +57,7 @@ The full framework is detailed in the book, but the headline strategies organize
 
 ## Clinical Application
 
-Baker-Fine has become a standard reference for:
+[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine has become a standard reference for:
 - Custody evaluators (cited in evaluation reports as the operational framework for assessing PA dynamics)
 - Reunification therapists (used as the practical guide for targeted-parent coaching)
 - Family-law attorneys (cited in submissions to courts as the basis for targeted-parent conduct expectations)
@@ -95,6 +95,8 @@ Where Bernet diagnoses and Harman conceptualizes, Baker-Fine **operationalizes**
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+
 
 
 

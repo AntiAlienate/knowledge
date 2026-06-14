@@ -87,7 +87,7 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 
 **Preparing for court:**
 1. *Parental Alienation Handbook* (Lorandos/Bernet/Sauber)
-2. *Adult Children of Parental Alienation Syndrome* (Baker)
+2. *Adult Children of Parental Alienation Syndrome* ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation))
 3. *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)* (Bernet, ed.)
 
 **Researcher / clinician:**
@@ -98,6 +98,8 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 ---
 
 *Open PR if a book belongs on this shelf. Criterion: peer-reviewed, court-cited, or written by a named expert with a public record of work in the field.*
+
+
 
 
 

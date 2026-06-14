@@ -100,19 +100,19 @@ Unanimous finding of a violation of [Article 8 ECHR](https://www.legislation.gov
 
 ## Sources
 
-1. **[HUDOC](https://hudoc.echr.coe.int/) — Strumia v. Italy, no. 53377/13, judgment of 23 June 2016 (case landing, English/French)** — <https://hudoc.echr.coe.int/eng?i=001-163918> ([Council of Europe](https://www.coe.int/) — European Court of Human Rights) [fr-en] — accessed 2026-05-30
+1. **[HUDOC](https://hudoc.echr.coe.int/) — Strumia v. Italy, no. 53377/13, judgment of 23 June 2016 (case landing, English/French)** — <https://hudoc.echr.coe.int/eng?i=001-163918> ([Council of Europe](https://www.coe.int/) — [European Court of Human Rights](https://www.echr.coe.int/)) [fr-en] — accessed 2026-05-30
 2. **Italian Ministry of Justice — official Italian translation and summary of Strumia c. Italia (file SDU1269983)** — <https://www.giustizia.it/giustizia/it/mg_1_20_1.page?facetNode_1=1_2%282016%29&facetNode_2=1_2%28201606%29&facetNode_3=1_2%2820160623%29&facetNode_4=0_8_1_4&contentId=SDU1269983&previsiousPage=mg_1_20> (Ministero della Giustizia — Italian Republic) [it] — accessed 2026-05-30
 3. **ECHR Italy country press factsheet (January 2026 edition)** — <https://www.echr.coe.int/documents/d/echr/cp_italy_eng> ([Council of Europe](https://www.coe.int/) — ECHR Press Unit) [en] — accessed 2026-05-30
 4. **[ECtHR](https://www.echr.coe.int/) Press Unit — 'Parental Rights' factsheet** — <https://www.echr.coe.int/documents/d/echr/fs_parental_eng> ([Council of Europe](https://www.coe.int/) — ECHR Press Unit) [en] — accessed 2026-05-30
 5. **Sara Pezzuolo — 'Corte Europea dei Diritti dell'Uomo: Strumia c. Italia (n. 53377/13), Strasburgo 23.06.2016'** — <http://www.sarapezzuolo.it/corte-europea-dei-diritti-dell-uomo-strumia-c-italia-n-53377-13-strasburgo-23-06-2016> (Studio Legale Sara Pezzuolo (Italian family-law commentary)) [it] — accessed 2026-05-30
-6. **Centro di Ateneo per i Diritti Umani — Index of ECtHR Italy Article 8 judgments (part 1)** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università degli Studi di Padova — Human Rights Centre) [en-it] — accessed 2026-05-30
-7. **Giustizia Insieme — Boiano, 'La Cassazione disconosce la scientificità della c.d. sindrome da alienazione parentale. Commento a Cass. Civ. ord. 24 marzo 2022, n. 9691' (situates Strumia in the Italy Article 8 cluster)** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme (rivista giuridica)) [it] — accessed 2026-05-30
+6. **Centro di Ateneo per i Diritti Umani — Index of [ECtHR](https://www.echr.coe.int/) Italy Article 8 judgments (part 1)** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università degli Studi di Padova — Human Rights Centre) [en-it] — accessed 2026-05-30
+7. **Giustizia Insieme — Boiano, 'La [Cassazione](https://www.cortedicassazione.it/) disconosce la scientificità della c.d. sindrome da alienazione parentale. Commento a Cass. Civ. ord. 24 marzo 2022, n. 9691' (situates Strumia in the Italy Article 8 cluster)** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme (rivista giuridica)) [it] — accessed 2026-05-30
 
 ## Editorial notes
 
 - PRIMARY SOURCE: the operative finding of a violation of Article 8, the €15,000 just-satisfaction award under Article 41, and the central reasoning that 'the national authorities did not make adequate and sufficient efforts to enforce the applicant's right of contact' are verified against the [HUDOC](https://hudoc.echr.coe.int/) English/French landing (001-163918) and the Italian Ministry of Justice's official translation and summary (Giustizia.it — file SDU1269983).
 - VERBATIM TRANSLATION POLICY: Italian-language verbatim quotes are taken from the Italian Ministry of Justice's official summary (SDU1269983); the French-language reformulation of the 'exceptional diligence' standard is the settled Strasbourg phrasing reused across the Italy Article 8 cluster (Lombardo, Bondavalli, Strumia, Improta, Solarino, R.V. and Others). English translations are by the author (Alan Markson).
-- NON VERIFIED ON THIS PAGE: the full seven-judge composition of the First Section panel is recorded on the face of the [HUDOC](https://hudoc.echr.coe.int/) judgment but is not extracted on this case-study page; readers should consult HUDOC 001-163918 for the complete bench.
+- NON VERIFIED ON THIS PAGE: the full seven-judge composition of the First Section panel is recorded on the face of the [HUDOC](https://hudoc.echr.coe.int/) judgment but is not extracted on this case-study page; readers should consult [HUDOC](https://hudoc.echr.coe.int/) 001-163918 for the complete bench.
 - NON VERIFIED ON THIS PAGE: the costs-and-expenses figure under Article 41 is recorded in the operative part of the HUDOC judgment but is not extracted on the MOJ summary; this case study reports only the €15,000 non-pecuniary award.
 - IDENTIFICATION CAVEAT: the applicant is named 'Alessandro Strumia' in the MOJ translation and in the Strasbourg face of the judgment. Whether this is the same person as the physicist by that name at the University of Pisa is NOT publicly confirmed in either the Strasbourg judgment or the Italian Ministry of Justice file; both documents identify only the name and citizenship. Readers should not assume the identification absent independent confirmation.
 - ECLI: the European Case Law Identifier 'ECLI:CE:ECHR:2016:0623JUD005337713' is reconstructed per the standard ECHR ECLI convention (court code CE:ECHR, decision date YYYYMMDD, JUD + application number padded); the ECLI is not displayed on the HUDOC landing for older 2016 judgments in the same way it is for post-2020 judgments.
@@ -124,6 +124,8 @@ Unanimous finding of a violation of [Article 8 ECHR](https://www.legislation.gov
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

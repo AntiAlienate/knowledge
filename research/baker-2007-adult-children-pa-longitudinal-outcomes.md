@@ -73,7 +73,7 @@ From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 - Used as evidentiary foundation in custody litigation worldwide
 - Translated into framework for assessment, treatment, and prevention
 
-## Subsequent Baker research building on 2007 findings
+## Subsequent [Baker research](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) building on 2007 findings
 
 - Baker, A.J.L., & Sauber, S.R. (Eds.) (2013). *Working With Alienated Children and Families*. Routledge
 - Baker, A.J.L., & Brassard, M.R. (2013). Adolescents caught in their parents' loyalty conflicts. *Journal of Divorce & Remarriage*
@@ -104,6 +104,8 @@ From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal or clinical advice.*
+
+
 
 
 

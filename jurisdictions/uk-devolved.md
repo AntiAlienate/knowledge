@@ -60,7 +60,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 ## Structural findings
 
 - UK-DEVOLVED JURISDICTIONS DISTINCT FROM ENGLAND-AND-WALES at substantive children-law level: Scotland wholly separate (Children Scotland Acts 1995/2020); NI operates under Children NI Order 1995 (Sewel-style Order in Council mirroring [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) substantive frame but distinct numbering and procedural provisions); Wales shares unified E&W statutory frame but with [Cafcass Cymru](https://www.cafcass.gov.uk/) devolved Welsh Government institutional differentiation.
-- INSTITUTIONAL-VOICE + JUDICIAL-OUTPUT DOMINANCE: All three devolved jurisdictions are institutional-voice + judicial-output dominated rather than bar-based. Scotland: SPS recognition + SWA/Engender critique; NI: Keegan LCJ judicial + WAFNI institutional; Wales: Cafcass Cymru + Cardiff Doughty academic anchor + Welsh Women's Aid civil-society.
+- INSTITUTIONAL-VOICE + JUDICIAL-OUTPUT DOMINANCE: All three devolved jurisdictions are institutional-voice + judicial-output dominated rather than bar-based. Scotland: SPS recognition + SWA/Engender critique; NI: Keegan LCJ judicial + WAFNI institutional; Wales: [Cafcass Cymru](https://www.cafcass.gov.uk/) + Cardiff Doughty academic anchor + Welsh Women's Aid civil-society.
 - EVALUATOR-QUALITY ANCHORS DIFFER STRUCTURALLY: Scotland (Court of Session apex via NF v AF 2025) + NI (Keegan LCJ judicial sophistication via family-law silk background) + Wales (Doughty 2018 Welsh-Government-commissioned academic anchor). Three distinct paths to the same evaluator-quality concern that drove the English Re Y [2026] EWFC 38 reform.
 - WAFNI 25.6.2020 PA BRIEFING IS UK-DEVOLVED'S RAREST INSTITUTIONAL POSITION: The only NI-specific Women's Aid published institutional position on parental alienation. Single documentary anchor.
 - EDITORIAL CORRECTIONS FROM UK-DEVOLVED V2 LAWYERS BATCH: 'Mary Connolly KC' does not exist (NI bar confusion with Martina Connolly KC); Jonathan Dunlop KC is commercial silk not family; Cara Goodwin not on Faculty of Advocates roll; 'Family Law Scotland Ltd' does not exist on Companies House.
@@ -78,7 +78,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 ## Sources
 
 1. **UK Legislation — [legislation.gov.uk](https://www.legislation.gov.uk/)** — <https://www.legislation.gov.uk/> (UK Government) [en]
-2. **[UK Supreme Court](https://www.supremecourt.uk/)** — <https://www.supremecourt.uk/> (UK Supreme Court) [en]
+2. **[UK Supreme Court](https://www.supremecourt.uk/)** — <https://www.supremecourt.uk/> ([UK Supreme Court](https://www.supremecourt.uk/)) [en]
 3. **Judiciary of Scotland** — <https://www.judiciary.scot/> (Judiciary of Scotland) [en]
 4. **Judiciary of Northern Ireland** — <https://www.judiciaryni.uk/> (Judiciary NI) [en]
 5. **Welsh Government / Cafcass Cymru** — <https://gov.wales/cafcass-cymru> (Welsh Government) [en]
@@ -94,6 +94,8 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -57,7 +57,7 @@ This last finding is critical for **targeted-parent survival framing** ([posts/3
 
 ## Why courts cite this work
 
-Baker (2007) provides:
+[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) provides:
 
 - **Behaviors** courts can identify in evidence (the 8 indicators)
 - **Outcomes** that establish harm (the depression, substance use, attachment data)
@@ -105,6 +105,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

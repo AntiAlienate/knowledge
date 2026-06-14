@@ -32,7 +32,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ## Apex courts
 
-### European Court of Human Rights — Grand Chamber
+### [European Court of Human Rights](https://www.echr.coe.int/) — Grand Chamber
 <https://www.echr.coe.int/grand-chamber>
 - **Neulinger and Shuruk v Switzerland [GC], no. 41615/07, 6 July 2010 — Hague return + Art 8 analysis. Foundational Grand Chamber engagement with cross-border parental disputes; subsequently nuanced by X v Latvia [GC] (2013).** (2010) — middle
 - **X v Latvia [GC], no. 27853/09, 26 November 2013 — Hague return + Art 8; Grand Chamber refines Neulinger framework. Domestic courts must conduct a genuine examination of best-interests factors but cannot revisit Hague return decision substantively.** (2013) — middle
@@ -46,7 +46,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ### [Council of Europe](https://www.coe.int/) — Committee of Ministers (execution of ECHR judgments)
 <https://www.coe.int/en/web/cm>
-- **Council of Europe Committee of Ministers supervises execution of Strasbourg judgments under Article 46 ECHR. Italian execution of Lombardo / Strumia / Improta supervised via Committee resolutions. Execution-process layer that operationalises Article 8 PA-adjacent obligations at member-state level.** (2026) — middle
+- **[Council of Europe](https://www.coe.int/) Committee of Ministers supervises execution of Strasbourg judgments under Article 46 ECHR. Italian execution of Lombardo / Strumia / Improta supervised via Committee resolutions. Execution-process layer that operationalises Article 8 PA-adjacent obligations at member-state level.** (2026) — middle
 
 ## Professional regulators
 
@@ -63,7 +63,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ## Key developments
 
-- **1950** — European Convention on Human Rights signed in Rome (in force 3 September 1953). Article 8 right to respect for private and family life. — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
+- **1950** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) signed in Rome (in force 3 September 1953). Article 8 right to respect for private and family life. — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
 - **1980** — Hague Convention on the Civil Aspects of International Child Abduction — multilateral framework for return of internationally abducted children. — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
 - **1989** — [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) — art. 9 right to maintain contact with both parents. All Council of Europe member states are CRC parties. — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
 - **1998** — Protocol No. 11 enters force — full-time Court restructuring; modern Chamber + Grand Chamber architecture. — <https://www.echr.coe.int/protocol-eleven>
@@ -78,13 +78,13 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ## Structural findings
 
-- STRASBOURG ITALIAN TRIPTYCH (Lombardo 2013 + Strumia 2016 + Improta 2017) ESTABLISHES THE ARTICLE 8 PROCEDURAL-DUE-DILIGENCE STANDARD for PA-adjacent fact-patterns. Member states' authorities have a POSITIVE OBLIGATION to take 'adequate and effective measures' to enable parent-child contact to be restored. The triptych is the leading Strasbourg Art 8 PA-adjacent jurisprudence and is subsequently engaged in Cassazione 9691/2022 (Italy) and other domestic apex decisions.
+- STRASBOURG ITALIAN TRIPTYCH (Lombardo 2013 + Strumia 2016 + Improta 2017) ESTABLISHES THE ARTICLE 8 PROCEDURAL-DUE-DILIGENCE STANDARD for PA-adjacent fact-patterns. Member states' authorities have a POSITIVE OBLIGATION to take 'adequate and effective measures' to enable parent-child contact to be restored. The triptych is the leading Strasbourg Art 8 PA-adjacent jurisprudence and is subsequently engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and other domestic apex decisions.
 - ECHR JURISDICTION IS SUPRANATIONAL + SUPPLEMENTARY: [ECtHR](https://www.echr.coe.int/) binds 46 Council of Europe member states under the Convention but operates supplementary to domestic remedies (Art 35(1) exhaustion principle). Strasbourg judgments establish standards that bind member states' courts and authorities; execution is supervised by the Council of Europe Committee of Ministers under Art 46.
 - ARTICLE 8 POSITIVE OBLIGATIONS DOCTRINE: ECHR jurisprudence treats parent-child relations as engaging not only negative obligations (states must not interfere) but POSITIVE obligations (states must protect family life). PA-adjacent fact-patterns are framed as positive-obligation cases: where domestic authorities fail to enforce contact effectively, Article 8 is violated.
 - DOCTRINE OF MARGIN OF APPRECIATION: Member states have a margin of appreciation in family-law decisions but this margin narrows in matters affecting the right to family life. Protocol 15 (2013) added explicit reference to subsidiarity and margin of appreciation to the Convention preamble. Strasbourg engagement with PA-adjacent cases preserves member-state primary responsibility while imposing minimum-standard procedural duties.
 - INSTITUTIONAL CONVERGENCE WITH UN ALSALEM REPORT + MESECVI: The UN Special Rapporteur Alsalem Report A/HRC/53/36 (12.8.2022) + MESECVI Declaration 13.4.2023 + Strasbourg Article 8 jurisprudence + LATAM5 institutional anchors (Corte Constitucional Colombia T-526/2023; IEFH/IGVM Belgium 2023/001) converge on a multi-tier international critique-anchor structure. Strasbourg + UN + Inter-American + domestic-apex layers operate in tandem.
 - HAGUE CONVENTION INTERSECTION: [ECtHR](https://www.echr.coe.int/) engages [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return proceedings under Art 8 — leading line Neulinger and Shuruk v Switzerland [GC] (2010) + X v Latvia [GC] (2013). Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
-- EXECUTION SUPERVISION VIA COMMITTEE OF MINISTERS: Article 46 ECHR obliges member states to abide by ECtHR judgments. Committee of Ministers supervises execution. Italian execution of Lombardo / Strumia / Improta supervised under this process. Execution layer operationalises Strasbourg standards at member-state level beyond the individual case.
+- EXECUTION SUPERVISION VIA COMMITTEE OF MINISTERS: Article 46 ECHR obliges member states to abide by [ECtHR](https://www.echr.coe.int/) judgments. Committee of Ministers supervises execution. Italian execution of Lombardo / Strumia / Improta supervised under this process. Execution layer operationalises Strasbourg standards at member-state level beyond the individual case.
 - NO PA-CONSTRUCT-SPECIFIC ECHR JUDGMENT: The Strasbourg court has not directly assessed the scientific validity of the PA / PAS construct as a clinical category. ECtHR jurisprudence engages PA-adjacent fact-patterns via Article 8 procedural-due-diligence standard rather than via construct-validity analysis. Distinct from [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany) approach which descalibratea PAS at the construct level.
 
 ## See also
@@ -110,7 +110,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 5. **GREVIO — Group of Experts on Action against Violence against Women** — <https://www.coe.int/en/web/istanbul-convention/grevio> (Council of Europe) [en]
 6. **UN Special Rapporteur on Violence against Women — Reem Alsalem** — <https://www.ohchr.org/en/special-procedures/sr-violence-against-women> ([OHCHR](https://www.ohchr.org/)) [en]
 7. **MESECVI — Follow-up Mechanism Belém do Pará Convention** — <https://www.oas.org/en/cim/mesecvi.asp> (OAS / Inter-American Commission of Women) [en]
-8. **Hague Conference on Private International Law ([HCCH](https://www.hcch.net/))** — <https://www.hcch.net/> (HCCH) [en]
+8. **Hague Conference on Private International Law ([HCCH](https://www.hcch.net/))** — <https://www.hcch.net/> ([HCCH](https://www.hcch.net/)) [en]
 
 ## Editorial notes
 
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

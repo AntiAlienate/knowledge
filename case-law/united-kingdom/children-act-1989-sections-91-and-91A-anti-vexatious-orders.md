@@ -193,3 +193,39 @@ Section 91A operates alongside **Practice Direction 12J** (Family Procedure Rule
 - **legislation.gov.uk canonical URLs:** https://www.legislation.gov.uk/ukpga/1989/41/section/91 · https://www.legislation.gov.uk/ukpga/1989/41/section/91A
 - **Statute citations:** Children Act 1989 (1989 c.41), sections 91 + 91A (s.91A inserted by Domestic Abuse Act 2021 c.17 s.67(1), in force 19 May 2022)
 - **Status:** Crown copyright; published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — verbatim reproduction permitted.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Why Children Say They Hate You The Psychology Of Alienation](https://www.antialienate.com/blog/why-children-say-they-hate-you-the-psychology-of-alienation)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+
+<!-- AA-CROSSLINK-END -->

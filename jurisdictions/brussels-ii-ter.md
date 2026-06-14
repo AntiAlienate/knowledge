@@ -77,7 +77,7 @@ Brussels II ter decisions are anonymised per CJEU and member-state court practic
 
 ## Editorial notes
 
-- Brussels II ter Regulation jurisdiction sidecar — supranational meta-legal-system EU cross-border family-law-jurisdiction framework (Council Regulation (EU) 2019/1111 applicable 1 August 2022 + predecessor Brussels IIa 2003 + Original Brussels II 2000 + integration with Hague Convention 1980 via overlay framework + CJEU Article 267 TFEU preliminary-reference procedure + Denmark opt-out). Only supranational framework operating binding mutual-recognition of parental-responsibility decisions across 26 sovereign states without intermediate-court enforcement requirement globally + most comprehensive cross-border family-law-jurisdiction framework + expedited 6-week return-decision timeline + abolition of exequatur for parental-responsibility decisions + 'mutual trust' principle for cross-border family-law recognition.
+- Brussels II ter Regulation jurisdiction sidecar — supranational meta-legal-system EU cross-border family-law-jurisdiction framework (Council Regulation (EU) 2019/1111 applicable 1 August 2022 + predecessor Brussels IIa 2003 + Original Brussels II 2000 + integration with [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) via overlay framework + CJEU Article 267 TFEU preliminary-reference procedure + Denmark opt-out). Only supranational framework operating binding mutual-recognition of parental-responsibility decisions across 26 sovereign states without intermediate-court enforcement requirement globally + most comprehensive cross-border family-law-jurisdiction framework + expedited 6-week return-decision timeline + abolition of exequatur for parental-responsibility decisions + 'mutual trust' principle for cross-border family-law recognition.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins supranational + EU-supranational-family-law-framework cluster + binding-mutual-recognition-parental-responsibility-decisions-26-sovereign-states-globally-distinctive + 6-week-expedited-return-decision-timeline + abolition-of-exequatur + Hague-Convention-1980-integration-overlay + CJEU-Article-267-TFEU-preliminary-reference + Denmark-opt-out + mutual-trust-principle clusters within the corpus.
 
@@ -85,6 +85,8 @@ Brussels II ter decisions are anonymised per CJEU and member-state court practic
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

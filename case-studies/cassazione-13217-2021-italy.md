@@ -91,7 +91,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 
 ## Comparative jurisprudence
 
-- **[Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 9691 del 24 marzo 2022** (IT) — [`cassazione-9691-2022-italy`](./cassazione-9691-2022-italy.md) — Italia — Cassazione Sez. I, stesso Pres. Genovese e stesso rel. Caiazzo, dieci mesi dopo. Cita esplicitamente Cass. 13217/2021 come fondamento del proprio impianto critico ('il richiamo alla sindrome d'alienazione parentale e ad ogni suo, più o meno evidente, anche inconsapevole, corollario, non può dirsi legittimo, costituendo il fondamento pseudoscientifico di provvedimenti gravemente incisivi sulla vita dei minori, in ordine alla decadenza dalla responsabilità genitoriale della madre (Cass., 13217/21)'). 13217/2021 è dunque la pronuncia capostipite della linea apicale italiana; 9691/2022 ne è la consolidazione e l'estensione al de potestate ex art. 330 c.c.
+- **[Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 9691 del 24 marzo 2022** (IT) — [`cassazione-9691-2022-italy`](./cassazione-9691-2022-italy.md) — Italia — [Cassazione](https://www.cortedicassazione.it/) Sez. I, stesso Pres. Genovese e stesso rel. Caiazzo, dieci mesi dopo. Cita esplicitamente Cass. 13217/2021 come fondamento del proprio impianto critico ('il richiamo alla sindrome d'alienazione parentale e ad ogni suo, più o meno evidente, anche inconsapevole, corollario, non può dirsi legittimo, costituendo il fondamento pseudoscientifico di provvedimenti gravemente incisivi sulla vita dei minori, in ordine alla decadenza dalla responsabilità genitoriale della madre (Cass., 13217/21)'). 13217/2021 è dunque la pronuncia capostipite della linea apicale italiana; 9691/2022 ne è la consolidazione e l'estensione al de potestate ex art. 330 c.c.
 - **[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss 1 BvR 1076/23 vom 17.11.2023** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Germania — [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (2. Kammer des Ersten Senats) sviluppa ratio analoga (PAS come 'überkommene und fachwissenschaftlich als widerlegt geltende Konzept'), ancorandola al diritto fondamentale ex art. 6 GG; la linea italiana del 2021 (Cass. 13217) anticipa di trenta mesi la traiettoria tedesca apicale di legittimità costituzionale.
 - **[Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) (Sala Primera), STS 519/2017 de 27 de septiembre** (ES) — Spagna — Tribunale Supremo, prima sezione civile, parallela critica apicale al ricorso a SAP/SAI nei procedimenti di famiglia, sulla base dell'assenza di riconoscimento nel DSM/ICD. STS 519/2017 precede Cass. 13217/2021 di circa quattro anni; convergenza dottrinale latino-europea.
 - **Conselho Federal de Psicologia, Nota Técnica nº 4/2022** (BR) — Brasile — posizione istituzionale dell'ordine federale degli psicologi (2022) sul cattivo uso dell'AP/SAP nelle perizie forensi; cornice istituzionale convergente sull'asse critico inaugurato in sede di legittimità da Cass. 13217/2021.
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -24,7 +24,7 @@
 
 - **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*, *Psychological Bulletin* 144(12), 1275–1299. APA flagship review journal. **The most-cited current academic anchor.**
 - **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — *Adult Children of Parental Alienation Syndrome.* Foundational longitudinal study.
-- **Bernet (2010)** — *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and ICD-11.* Charles C. Thomas.
+- **Bernet (2010)** — *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - **Fidler & Bala (2010)** — *Children Resisting Postseparation Contact*, *Family Court Review* 48(1), 10–47.
 
 ### Professional / institutional bodies
@@ -45,7 +45,7 @@
 
 When opposing counsel attacks PA as "discredited theory," respond with the recognition stack. Sample language:
 
-> *Counsel's characterization of parental alienation as "discredited theory" is 8+ years out of date. The framework is currently codified in DSM-5 (V995.51), WHO ICD-11 (QE52, in force since 2022), and was meta-analyzed as a form of family violence in the American Psychological Association's flagship review journal Psychological Bulletin ([Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2018, 144(12), 1275–1299). The UK Court of Appeal recognized it in Re S (2020) EWCA Civ 568.*
+> *Counsel's characterization of parental alienation as "discredited theory" is 8+ years out of date. The framework is currently codified in [DSM-5](https://www.appi.org/products/dsm) (V995.51), WHO ICD-11 (QE52, in force since 2022), and was meta-analyzed as a form of family violence in the American Psychological Association's flagship review journal Psychological Bulletin ([Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2018, 144(12), 1275–1299). The UK Court of Appeal recognized it in Re S (2020) EWCA Civ 568.*
 
 ## Source-blog hyperlinks
 
@@ -76,6 +76,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

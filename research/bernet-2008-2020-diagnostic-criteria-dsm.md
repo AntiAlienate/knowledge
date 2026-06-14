@@ -45,7 +45,7 @@ Bernet co-led the successful campaign for [ICD-11](https://icd.who.int/) inclusi
 
 [ICD-11](https://icd.who.int/) inclusion provides:
 - International diagnostic framework (190+ WHO member states)
-- Forensic clinical use without DSM-5 standalone disorder
+- Forensic clinical use without [DSM-5](https://www.appi.org/products/dsm) standalone disorder
 - Billing/insurance coding (in jurisdictions using ICD)
 
 ## Key Publications
@@ -102,6 +102,8 @@ Bernet's role: gatekeeper. Apply his 5 before applying any other framework.
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Diagnostic application of the Bernet 5 criteria requires a qualified mental-health professional. Forensic application in custody proceedings requires a court-appointed evaluator.
+
+
 
 
 

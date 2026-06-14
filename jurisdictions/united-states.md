@@ -76,7 +76,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 - **2013** — [DSM-5](https://www.appi.org/products/dsm) — Child Affected by Parental Relationship Distress (CAPRD) V/Z-code (V995.51 / Z62.898) introduced. — <https://www.psychiatry.org/psychiatrists/practice/dsm>
 - **2015** — Tsimhoni v Eibschitz-Tsimhoni (Oakland County Michigan Family Division, 2015) — high-profile state-trial-level PA case engaging the Michigan FOC framework and §722.23 BIOC twelve-factor test. — <https://www.canlii.org/>
 - **2016** — Bernet, Wamboldt & Narrow (2016) JAACAP — [DSM-5](https://www.appi.org/products/dsm) CAPRD framework paper. Most-cited US institutional reference in the PA debate. — <https://www.jaacap.org/>
-- **2016** — AFCC Guidelines for Examining Intimate Partner Violence (2016) — DV-informed custody-evaluation practice guidance. — <https://www.afccnet.org/>
+- **2016** — [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) — DV-informed custody-evaluation practice guidance. — <https://www.afccnet.org/>
 - **2019** — APA Resolution on Maltreatment of Children — APA-level recognition of child-maltreatment frameworks without PA-as-syndrome endorsement. — <https://www.apa.org/>
 - **2022** — [DSM-5-TR](https://www.appi.org/products/dsm) — CAPRD V995.51 / Z62.898 retained; APA 2022 Guidelines on Psychological Practice in Health Care Delivery Systems. — <https://www.psychiatry.org/>
 - **2024** — In re Marriage of Humphries 2024 COA 92 — Colorado Court of Appeals — appellate decision applying CRS §14-10-124 BIOC factor (ability to encourage contact). Substantive recent Colorado PA-engaging appellate authority. — <https://www.coloradojudicial.gov/>
@@ -114,7 +114,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 3. **National Center for State Courts (NCSC)** — <https://www.ncsc.org/> (NCSC) [en]
 4. **Association of Family and Conciliation Courts (AFCC)** — <https://www.afccnet.org/> (AFCC) [en]
 5. **American Psychological Association (APA)** — <https://www.apa.org/> (APA) [en]
-6. **American Academy of Child and Adolescent Psychiatry ([AACAP](https://www.aacap.org/))** — <https://www.aacap.org/> (AACAP) [en]
+6. **American Academy of Child and Adolescent Psychiatry ([AACAP](https://www.aacap.org/))** — <https://www.aacap.org/> ([AACAP](https://www.aacap.org/)) [en]
 7. **Association of State and Provincial Psychology Boards (ASPPB)** — <https://www.asppb.net/> (ASPPB) [en]
 8. **California Department of Consumer Affairs — license search** — <https://search.dca.ca.gov/> (California DCA) [en]
 9. **[DSM-5](https://www.appi.org/products/dsm)-TR — Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision** — <https://www.psychiatry.org/psychiatrists/practice/dsm> (American Psychiatric Association) [en]
@@ -131,6 +131,8 @@ US state-court family-law decisions vary significantly: California / New York ro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

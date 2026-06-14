@@ -66,7 +66,7 @@ The standard imposes a result-orientation: measures that prove ineffective despi
 
 **Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (24 marzo 2022)** is the principal example of how a domestic apex court incorporates Strasbourg Article 8 procedural-due-diligence doctrine alongside PAS-construct disqualification:
 
-- The Cassazione recognises Strasbourg Art 8 positive obligations as the procedural frame for parent-child contact restoration.
+- The [Cassazione](https://www.cortedicassazione.it/) recognises Strasbourg Art 8 positive obligations as the procedural frame for parent-child contact restoration.
 - The Cassazione disqualifies PAS-construct deployment in CTU (Consulenza Tecnica d'Ufficio) evaluations as 'pseudoscientific fundamental'.
 - The dual layering operates: procedural-due-diligence (Strasbourg) + ordinary evidential verification (domestic). Substantive PAS-construct invocation is disqualified BUT procedural positive obligation to enforce contact is preserved.
 
@@ -132,6 +132,8 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
+
+
 
 
 

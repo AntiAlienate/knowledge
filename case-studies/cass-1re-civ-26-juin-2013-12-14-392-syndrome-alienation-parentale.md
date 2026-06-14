@@ -18,7 +18,7 @@
 
 The case arose from a French separation in which the daughter, born in 2010, was initially placed with the mother by the *juge aux affaires familiales* (JAF) of the *tribunal de grande instance* of the relevant jurisdiction (Rennes catchment). The father challenged the residence arrangement, on the basis that he was being progressively excluded from the child's life and that the mother's conduct was producing a *syndrome d'aliénation parentale* (parental alienation syndrome – SAP, the French rendering of the Anglophone PAS).
 
-The arrêt of 26 June 2013 is the first published decision of the Cour de cassation that uses the words *syndrome d'aliénation parentale* in the recitals of its own reasoning – not merely in the reported facts of a lower court. That is why French family-law commentators have treated it, ever since, as the de facto entry of "SAP" into French Supreme Court vocabulary, even though the Court's holding is on a far narrower procedural point.
+The arrêt of 26 June 2013 is the first published decision of the [Cour de cassation](https://www.courdecassation.fr/) that uses the words *syndrome d'aliénation parentale* in the recitals of its own reasoning – not merely in the reported facts of a lower court. That is why French family-law commentators have treated it, ever since, as the de facto entry of "SAP" into French Supreme Court vocabulary, even though the Court's holding is on a far narrower procedural point.
 
 The decision is also a useful illustration of how a *cassation* court works. The Cour de cassation does not retry the facts; it reviews whether the *cour d'appel* applied the law correctly. So when commentators say the Cour de cassation "recognised" parental alienation in 2013, what the Court technically did was uphold a Rennes Court of Appeal decision that had transferred residence to the father on the basis of a SAP finding, and dismissed the mother's pourvoi without faulting the Rennes court's use of the SAP concept.
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

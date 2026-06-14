@@ -58,7 +58,7 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 
 ## Anonymisation convention
 
-Tribunal Supremo sentences are anonymised per LOPJ art. 232 and CENDOJ publication policy; Audiencias Provinciales family-case names typically use initials for adult parties and never name minors. Cross-references in this dataset use the STS roll number (e.g., STS 519/2017) rather than party names.
+[Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) sentences are anonymised per LOPJ art. 232 and CENDOJ publication policy; Audiencias Provinciales family-case names typically use initials for adult parties and never name minors. Cross-references in this dataset use the STS roll number (e.g., STS 519/2017) rather than party names.
 
 ## Key developments
 
@@ -123,6 +123,8 @@ Tribunal Supremo sentences are anonymised per LOPJ art. 232 and CENDOJ publicati
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

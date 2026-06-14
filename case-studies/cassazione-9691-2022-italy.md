@@ -97,7 +97,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
   - Ulteriore tappa della linea apicale critica successiva a Cass. 9691/2022 e a Cass. 13217/2021 — consolida l'inammissibilità di CTU PAS-fondate e affronta in modo articolato l'interferenza tra allegazioni di violenza domestica e diagnosi di alienazione genitoriale [cfr. blog Pingitore 2025; Diritto.it 2025].
 - Parlamento — Riforma Cartabia / D.lgs. 10 ottobre 2022 n. 149 (2022) — D.lgs. 149/2022, artt. 473-bis ss. c.p.c. (rito unitario per le persone, i minorenni e le famiglie) — <https://www.gazzettaufficiale.it/eli/id/2022/10/17/22G00158/sg>
   - Codifica successiva (entrata in vigore 28 febbraio 2023) dei principi di qualità della CTU in materia familiare e del divieto, per il CTU, di intervenire come 'parte terza adjudicante' nei casi di violenza domestica; passaggio normativo in parte responsivo alla critica metodologica veicolata da Cass. 9691/2022 [cfr. Diritto.it 2023].
-- Differenza Donna / Telefono Rosa / D.i.Re (2022) — Comunicati di Differenza Donna, 'La Cassazione dà ragione a Laura Massaro' — <https://www.differenzadonna.org/news/la-cassazione-da-ragione-a-laura-massaro-ha-vinto-laura-abbiamo-vinto-tutte/>
+- Differenza Donna / Telefono Rosa / D.i.Re (2022) — Comunicati di Differenza Donna, 'La [Cassazione](https://www.cortedicassazione.it/) dà ragione a Laura Massaro' — <https://www.differenzadonna.org/news/la-cassazione-da-ragione-a-laura-massaro-ha-vinto-laura-abbiamo-vinto-tutte/>
   - La rete italiana antiviolenza ha pubblicato il testo integrale dell'ordinanza e ne ha rivendicato la portata sistemica come precedente apicale contro l'uso processuale della PAS e contro l'ablazione coattiva della genitorialità materna in presenza di allegazioni di violenza.
 - Giustizia Insieme (2022) — Boiano, 'La Cassazione disconosce la scientificità della c.d. sindrome da alienazione parentale', 15 luglio 2022 — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691>
   - Commento di prima generazione sulla rivista Giustizia Insieme — lega Cass. 9691/2022 al filone Cass. 13217/2021 e alla cornice CEDU (Improta, Endrizzi, D'Alconzo, Solarino, Strumia, Cincimino, Giorgioni c. Italia).
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -44,7 +44,7 @@ Nauruan family-court decisions are anonymised per Supreme Court practice using i
 - **1976** — Australian Federal Act establishing the [High Court of Australia](https://www.hcourt.gov.au/) as the apex appellate court for Nauru — unique constitutional arrangement between sovereign Pacific state and Australian apex court.
 - **1999** — Nauru joined the United Nations on 14 September 1999.
 - **2001** — Australian Pacific Solution Regional Processing Centre (RPC) established on Nauru 2001-2008 for offshore processing of asylum-seekers — reopened 2012-present.
-- **2018** — Nauru established its own Court of Appeal in 2018, replacing the High Court of Australia as apex appellate court — Australian Nauru (High Court Appeals) Act 1976 repealed.
+- **2018** — Nauru established its own Court of Appeal in 2018, replacing the [High Court of Australia](https://www.hcourt.gov.au/) as apex appellate court — Australian Nauru (High Court Appeals) Act 1976 repealed.
 - **2024** — Nauru switched diplomatic recognition from Taiwan (Republic of China) to People's Republic of China (PRC) on 15 January 2024.
 
 ## Structural findings
@@ -83,6 +83,8 @@ Nauruan family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -86,7 +86,7 @@ A **point estimate produced by multiplying three uncertain proportions**. It is 
 
 ### 2.3 Headline figures (as reported by the authors and re-stated in [Harman et al. 2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/)
 
-From [Harman et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/) §1 (verbatim of their own 2016 summary): "Results indicated that **13.4% of parents reported being the targets of PABs which, based on the U.S. population at the time of the survey, generalizes to an estimated 22,141,650 adults in the U.S.** Notably, about half of the sample rated their experience as 'severe' (Harman, Leder-Elder, & Biringen, 2016)." Also reported in the 2019 paper §4: "13.4% of parents (or **9.03% of the entire sample**) had been alienated from one or more of their children (Harman et al., 2016)."
+From [Harman et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/) §1 (verbatim of their own 2016 summary): "Results indicated that **13.4% of parents reported being the targets of PABs which, based on the U.S. population at the time of the survey, generalizes to an estimated 22,141,650 adults in the U.S.** Notably, about half of the sample rated their experience as 'severe' (Harman, Leder-Elder, & Biringen, 2016)." Also reported in the 2019 paper §4: "13.4% of parents (or **9.03% of the entire sample**) had been alienated from one or more of their children ([Harman et al.](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2016)."
 
 ### 2.4 The authors' own caveats (verbatim, Harman et al. 2019 §1)
 
@@ -176,7 +176,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 **Citation.** Bernet, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 
-**Sample.** N = 739 adults in Chieti, Italy. Retrospective survey: Baker Strategy Questionnaire (childhood PA exposure) + SCL-90-R (current symptomatology).
+**Sample.** N = 739 adults in Chieti, Italy. Retrospective survey: [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Strategy Questionnaire (childhood PA exposure) + SCL-90-R (current symptomatology).
 
 **Headline figures.**
 - ≈ 75% of participants reported some exposure to parental alienating behaviours during childhood
@@ -255,7 +255,7 @@ A figure circulating in PA-critical secondary sources is "82% of 39 studies low 
 
 ## 8. Cross-national / non-English prevalence work
 
-- **Spanish.** López, T. J., Iglesias, V. E. C., & García, M. F. R. (2014). *AJFT* 42(3), 217–231 — **[secondary verification only]**; cited by Saini et al. (2016) for gender-symmetry observation, *not* a prevalence study.
+- **Spanish.** López, T. J., Iglesias, V. E. C., & García, M. F. R. (2014). *AJFT* 42(3), 217–231 — **[secondary verification only]**; cited by [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2016) for gender-symmetry observation, *not* a prevalence study.
 - **Greek.** Specific Vasiliki Deliyanni-Kouimtzi PA prevalence work is **not publicly confirmed** at compilation. A Greek court-decisions study (Matsa et al. 2022, *Healthcare* 10(12), 2522, https://www.mdpi.com/2227-9032/10/12/2522) reviewed 50 parental-communication-prevention cases 1992–2019 — a **judicial-decision review**, not population prevalence.
 - **Brazilian.** Gomide, P. I. C., et al. (2016). *Paidéia* 26(65), 291–298, cited by Alsalem A/HRC/53/36 fn 27: women accused of PA in **66% of cases**, men in 17%. **Gendered-allegation pattern from adjudicated cases**, not population prevalence.
 - **Canadian.** Neilson, L. C. (2018). *Parental Alienation Empirical Analysis* (FREDA Centre, Vancouver). Alsalem fn 23: "357 cases, 41.5 per cent involved assertions of domestic or child abuse, of which 76.8 per cent included alienation claims advanced by the alleged perpetrator." **Case-file analysis**, not population prevalence.
@@ -288,7 +288,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 
 ### 10.3 The published exchange
 
-- Meier, J. S., Rosen, L., Dickson, S., O'Sullivan, C., & Hayes, J. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study (2020). *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4), 213–248. https://doi.org/10.1080/26904586.2022.2036286
+- [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Rosen, L., Dickson, S., O'Sullivan, C., & Hayes, J. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study (2020). *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4), 213–248. https://doi.org/10.1080/26904586.2022.2036286
 - Meier, J. S., et al. (2022). Harman and Lorandos' false critique of Meier et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2), 92–135. https://doi.org/10.1080/26904586.2022.2086659
 
 Meier et al.'s verbatim characterisation: Harman and Lorandos' work is "agenda-driven, filled with error, and does more to obfuscate the issues than to shed light on courts' practices."
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

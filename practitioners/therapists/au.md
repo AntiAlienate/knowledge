@@ -62,7 +62,7 @@ Melbourne · VIC · Director, Dialogue in Growth (Melbourne); Founding Director,
 
 **Contact:** Contact form at https://dialogueingrowth.com.au/; LinkedIn https://au.linkedin.com/in/dr-stan-k-054760
 
-*Notes: PACFA Clinical and ACA MACA registration verified via practice site disclosures. Not AHPRA-registered (counselling/psychotherapy not under National Law in Australia). [PASG](https://pasg.info/) founding-editor credential verified via PASG newsletter masthead.*
+*Notes: PACFA Clinical and ACA MACA registration verified via practice site disclosures. Not AHPRA-registered (counselling/psychotherapy not under National Law in Australia). [PASG](https://pasg.info/) founding-editor credential verified via [PASG](https://pasg.info/) newsletter masthead.*
 
 **See also:** `jurisdiction:australia`, `practitioner:au.matthewson-mandy`, `practitioner:au.price-tobler-alyse`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `case-study:olg-frankfurt-7-uf-88-25-germany-2026`
 
@@ -322,7 +322,7 @@ Multi (federal) · AU (national) · Federal Circuit and Family Court of Australi
   - Primary source: <https://www.psychologyboard.gov.au/Registration.aspx>
 - **Dr Daryl Higgins (ACU Institute of Child Protection Studies)** — Category-fit deferred: verified registered psychologist and senior child-protection researcher; published corpus focuses on child abuse/neglect, Australian Child Maltreatment Study, and family violence generally — no specific PA publication or PA-stance statement located. Tier-3 institutional contact deferred pending sourced PA-specific stance.
   - Primary source: <https://www.acu.edu.au/research/our-research-institutes/institute-of-child-protection-studies>
-- **[AFCC](https://www.afccnet.org/) ANZ Chapter named members (unnamed roster)** — Roster not fully public; named AFCC ANZ Chapter members are covered above via Smyth (au.smyth-bruce), Moloney (au.moloney-lawrie), and (Canada-cross-listed) Yasenik / Graham (au.graham-jonathan). No further named members verifiable at directory standard.
+- **[AFCC](https://www.afccnet.org/) ANZ Chapter named members (unnamed roster)** — Roster not fully public; named [AFCC](https://www.afccnet.org/) ANZ Chapter members are covered above via Smyth (au.smyth-bruce), Moloney (au.moloney-lawrie), and (Canada-cross-listed) Yasenik / Graham (au.graham-jonathan). No further named members verifiable at directory standard.
   - Primary source: <https://www.afccnet.org/Chapters/Australia-New-Zealand>
 - **Specific Green & Green [2024] FedCFamC1F 896 practitioners** — Statutory anonymisation: s.121 [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) prevents naming individual Court Children's Report writers and experts in any published reporting of FCFCOA proceedings. Cannot be enumerated at directory standard without breach risk.
   - Primary source: <https://www.austlii.edu.au/cgi-bin/viewdoc/au/legis/cth/consol_act/fla1975114/s121.html>
@@ -333,6 +333,8 @@ Multi (federal) · AU (national) · Federal Circuit and Family Court of Australi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

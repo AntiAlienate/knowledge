@@ -239,7 +239,7 @@ London · England · 5 St Andrew's Hill (5SAH), London — Joint Head of Family 
 
 **Publications:**
 - High Court confirms the importance of a young person's wishes and feelings when considering if a child arrangements order should be made beyond the age of 16 (2024) — *5SAH Knowledge Hub* — <https://www.5sah.co.uk/knowledge-hub/articles/2024-04-24/high-court-confirms-the-importance-of-a-young-persons-wishes-and-feelings-when-considering-if-a-child-arrangements-order-should-be-made-beyond-the-age-of-16>
-- Re T (A Child) (s.9(6) Children Act 1989 orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam) — successful appeal for applicant mother (2024) — *EWHC (Fam)*
+- Re T (A Child) (s.9(6) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam) — successful appeal for applicant mother (2024) — *EWHC (Fam)*
 
 **Verification:**
 - <https://www.5sah.co.uk/barristers/maria-scotland>
@@ -416,6 +416,8 @@ London + Birmingham (multi-site) · England (UK-wide practice) · No5 Chambers �
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

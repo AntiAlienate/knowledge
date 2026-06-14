@@ -134,7 +134,7 @@ The widely-cited [Family Bridges](https://warshak.com/family-bridges/) figure is
 
 ### Anti-claim 4: "A child's rejection of one parent is itself evidence of alienation by the other"
 
-Directly contradicted by APSAC 2022 Position Statement, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 differential-diagnosis framework, [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001 resist-refuse model, and the entire 2010+ practitioner literature. Single-construct PA findings on this basis are the methodological error that Re Y [2026], BVerfG 1 BvR 1076/23, and Cass.civ.I 9691/2022 all rejected.
+Directly contradicted by APSAC 2022 Position Statement, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 differential-diagnosis framework, [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001 resist-refuse model, and the entire 2010+ practitioner literature. Single-construct PA findings on this basis are the methodological error that Re Y [2026], [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23, and Cass.civ.I 9691/2022 all rejected.
 
 **Source review:** [Forensic Operation in Courts §4](forensic-operation-in-courts.md); [Diagnostic Codes That DO Apply §4](diagnostic-codes-that-apply.md); [Glossary](../glossary/glossary.md) on "Resist-Refuse Dynamics"
 
@@ -197,6 +197,8 @@ For jurisdiction-specific guidance, start with the [Case Studies Global Comparis
 *This page is a distillation, not a substitute. Cite the underlying evidence pages and the primary sources they document. CC BY 4.0.*
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

@@ -195,7 +195,7 @@ Cardiff · Wales · Cardiff University, School of Law and Politics (primary); Un
 
 **Contact:** doughtyj@cardiff.ac.uk
 
-*Notes: Welsh Government publications site and Cardiff ORCA both verify the 2018 Cafcass Cymru commissioned review; Tandfonline verifies the JSWFL 2020 article.*
+*Notes: Welsh Government publications site and Cardiff ORCA both verify the 2018 [Cafcass Cymru](https://www.cafcass.gov.uk/) commissioned review; Tandfonline verifies the JSWFL 2020 article.*
 
 **See also:** `jurisdiction:wales`, `jurisdiction:uk-devolved`, `practitioner:uk-nir.mccormack`, `practitioner:uk-wls.wwa`, `case-study:re-y-2026-ewfc-38`
 
@@ -467,6 +467,8 @@ Chester / North Wales circuit · Wales (Welsh-medium placeholder) · Linenhall C
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

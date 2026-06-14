@@ -235,7 +235,7 @@ Toronto · Ontario · Professor and Factor-Inwentash Chair in Law and Social Wor
 *PhD; Registered Psychologist (College of Psychologists of Ontario)*
 Toronto · Ontario · Private practice; founding member Family Solutions Toronto
 
-**Stance:** Family Solutions Toronto training page frames work as 'differentiation of parent-child contact problems, including alienation and justified rejection, and effective clinical interventions' — AFCC-aligned differential-diagnosis frame. Second CPO-registered psychologist at Family Solutions (alongside Fidler); useful second-opinion interview source on Toronto-middle practice.
+**Stance:** Family Solutions Toronto training page frames work as 'differentiation of parent-child contact problems, including alienation and justified rejection, and effective clinical interventions' — [AFCC](https://www.afccnet.org/)-aligned differential-diagnosis frame. Second CPO-registered psychologist at Family Solutions (alongside Fidler); useful second-opinion interview source on Toronto-middle practice.
 
 **Publications:**
 - Family Solutions Toronto training programme (differentiation of parent-child contact problems) (2018) — *Family Solutions Toronto*
@@ -345,7 +345,7 @@ Toronto · Ontario · Private practice (Toronto); founding member Family Solutio
 **Stance:** Most-cited Canadian PA practitioner across both camps. Children Who Resist Post-Separation Parental Contact (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), OUP 2013) is the AFCC-aligned middle-ground textbook referenced across US, UK, AU and EU evaluator literature. Quoted by CTV News (2019) supporting WHO/[ICD-11](https://icd.who.int/) recognition: 'I actually lose sleep over these families.' Operates the Families Moving Forward multi-day reunification intervention. Middle-camp but recognition-tilting; functions as cross-jurisdictional anchor through AFCC Overcoming Barriers HCDC staff role and FCR editorial work — directly cross-links to US-based AFCC infrastructure.
 
 **Publications:**
-- Children Who Resist Post-Separation Parental Contact: A Differential Approach for Legal and Mental Health Professionals (2013) — *Oxford University Press (with Nicholas Bala and Michael A. Saini)* — <https://global.oup.com/academic/product/children-who-resist-post-separation-parental-contact-9780199895496>
+- Children Who Resist Post-Separation Parental Contact: A Differential Approach for Legal and Mental Health Professionals (2013) — *Oxford University Press (with Nicholas Bala and Michael A. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535))* — <https://global.oup.com/academic/product/children-who-resist-post-separation-parental-contact-9780199895496>
 - Children Resisting Postseparation Contact with a Parent: Concepts, Controversies, and Conundrums (2010) — *Family Court Review 48(1):10-47 (with Bala)*
 - Families Moving Forward multi-day reunification intervention (programme descriptor) (2015) — *Families Moving Forward Canada* — <https://www.familiesmovingforward.ca/>
 
@@ -435,7 +435,7 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
   - Primary source: <https://turningpointsforfamilies.com/>
 - **Hon. Donna Martinson, KC** — Category fit: retired British Columbia Supreme Court judge; not a therapist. Already in /practitioners/lawyers/canada. Excluded from therapists directory per source brief direction.
   - Primary source: <https://www.fredacentre.com/research-associates/donna-martinson/>
-- **Steve Miller, MD** — Deceased 2022; excluded per source brief direction. Historical PASG / Harvard Medical School recognition-camp voice.
+- **Steve Miller, MD** — Deceased 2022; excluded per source brief direction. Historical [PASG](https://pasg.info/) / Harvard Medical School recognition-camp voice.
   - Primary source: <https://www.pasg.info/>
 - **Pamela Cross** — Category fit: lawyer / advocate, not a therapist. In /practitioners/lawyers/canada. Cross-referenced via Jaffe entry as e-learning course co-developer.
   - Primary source: <https://lukesplace.ca/>
@@ -446,6 +446,8 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

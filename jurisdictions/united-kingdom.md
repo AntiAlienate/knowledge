@@ -32,7 +32,7 @@ United Kingdom umbrella jurisdiction covering all four constituent jurisdictions
 
 ## Professional regulators
 
-- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) — UK-wide statutory regulator** — UK-wide statutory regulator for practitioner psychologists and allied health professions under Health and Social Care Act 2008. Applies in all four UK jurisdictions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide. — <https://www.hcpc-uk.org/>
+- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) — UK-wide statutory regulator** — UK-wide statutory regulator for practitioner psychologists and allied health professions under Health and Social Care Act 2008. Applies in all four UK jurisdictions. Post-Re Y EWFC 38 [HCPC](https://www.hcpc-uk.org/)-registration kitemark for PA evaluators applies UK-wide. — <https://www.hcpc-uk.org/>
 - **General Medical Council (GMC) — UK-wide medical regulator** — UK-wide statutory regulator for medical practitioners including psychiatrists. Applies in all four UK jurisdictions. No UK-wide PA-specific position. — <https://www.gmc-uk.org/>
 - **British Psychological Society ([BPS](https://www.bps.org.uk/)) — UK-wide voluntary** — UK-wide voluntary professional society. Operates Scottish + NI + Wales branches alongside England. No UK-wide PA-specific position. — <https://www.bps.org.uk/>
 - **Royal College of Psychiatrists — UK-wide voluntary** — UK-wide voluntary professional body of psychiatrists. [ICD-11](https://icd.who.int/) caregiver-child relationship problem (QE52.0) coding is available without committing the College to a PA position. — <https://www.rcpsych.ac.uk/>
@@ -51,7 +51,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 
 ## Structural findings
 
-- UK UMBRELLA OPERATES OVER FOUR CONSTITUENT JURISDICTIONS: England-and-Wales (unified) + Scotland + Northern Ireland + Wales (institutional sub-jurisdiction). UK Supreme Court is the final court of appeal for civil matters; distinct substantive family-law architectures by constituent.
+- UK UMBRELLA OPERATES OVER FOUR CONSTITUENT JURISDICTIONS: England-and-Wales (unified) + Scotland + Northern Ireland + Wales (institutional sub-jurisdiction). [UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters; distinct substantive family-law architectures by constituent.
 - UK-WIDE REGULATORY LAYER COEXISTS WITH CONSTITUENT INSTITUTIONS: HCPC + GMC + [BPS](https://www.bps.org.uk/) + Royal College of Psychiatrists operate UK-wide; [Cafcass](https://www.cafcass.gov.uk/) (E&W) + [Cafcass Cymru](https://www.cafcass.gov.uk/) (Wales) + Scottish welfare reporters + NIGALA (NI) operate constituent-jurisdiction-level. Layered regulation distinct from US 50-state fragmentation or Canadian provincial fragmentation.
 - RE Y EWFC 38 (E&W 2026) AS UK-WIDE EVALUATOR-QUALITY APEX: HCPC-registration kitemark for PA evaluators applies UK-wide via HCPC statutory framework. Re Y is functionally a UK-wide apex authority despite formally being an E&W jurisdiction decision.
 - NF v AF CSOH 13 (Scotland 2025) AS DEVOLVED-JURISDICTION RECOGNITION ANCHOR: Lord Stuart's strongest Scottish PA finding operates alongside but distinct from English Re-arc. Devolved jurisdictions develop their own apex jurisprudence within UK framework.
@@ -86,6 +86,8 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

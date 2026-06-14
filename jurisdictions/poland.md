@@ -85,7 +85,7 @@ Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (syg
 - OPINIODAWCZE ZESPOŁY SĄDOWYCH SPECJALISTÓW (OZSS): Ustawowy mechanizm opiniowania w sprawach rodzinnych. OZSS są polskim instytucjonalnym analogiem [Cafcass](https://www.cafcass.gov.uk/) UK / Family Advocate ZA / CAPS Singapur / FRW Australia. PA-adjacentne stany faktyczne wchodzą do akt sądowych przez opinie OZSS.
 - ARCHITEKTURA REGULACYJNA ASYMETRYCZNA: Psychiatrzy regulowani statutowo przez Naczelną Izbę Lekarską (NIL); PSYCHOLODZY BEZ EFEKTYWNEGO REGULATORA STATUTOWEGO — Ustawa o zawodzie psychologa 2001 nie weszła w pełni w życie, brak Krajowej Rady Psychologów. Polskie Towarzystwo Psychologiczne (PTP) funkcjonuje jako stowarzyszenie zawodowe, nie regulator. Słabsza architektura niż UK [HCPC](https://www.hcpc-uk.org/), niemiecki BÄK czy hiszpański COP.
 - POLITYCZNIE KONTROWERSYJNY KONTEKST KONWENCJI STAMBULSKIEJ: Polska ratyfikowała Konwencję Stambulską 2015 r.; status politycznie kontrowersyjny po 2020 (próby wypowiedzenia za rządów PiS). Wpływa na tło prawne oceny PA-adjacentnych stanów faktycznych w kontekście DV.
-- SEKWENCJA APEX KONTYNENTALNA EU 2017-2025: STS 519/2017 ES + Cass. 13217/2021 IT + Cass. 9691/2022 IT + BVerfG 1 BvR 1076/23 DE 2023 + Cass. 4595/2025 IT + SN III CZP 20/25 PL 2025. Polska uchwała stanowi najnowszy element tej sekwencji apex EU; pierwsza apex CEE.
+- SEKWENCJA APEX KONTYNENTALNA EU 2017-2025: STS 519/2017 ES + Cass. 13217/2021 IT + Cass. 9691/2022 IT + [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 DE 2023 + Cass. 4595/2025 IT + SN III CZP 20/25 PL 2025. Polska uchwała stanowi najnowszy element tej sekwencji apex EU; pierwsza apex CEE.
 
 ## See also
 
@@ -122,6 +122,8 @@ Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (syg
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -130,7 +130,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
   - Sir Andrew McFarlane P sets aside findings of 'alienating behaviour' built on the report of an unregulated PA specialist; explicitly completes the arc whose procedural foundation is Re H-N.
 - Family Justice Council (2022) — Guidance on responding to allegations of alienating behaviour (consultation 2022, finalised 2024) — <https://www.judiciary.uk/guidance-and-resources/family-justice-council/>
   - FJC guidance expressly grounded in Re H-N's pattern-of-behaviour framework and its insistence that fact-finding on the abuse allegations is the precondition for any consideration of alienating-behaviour framing.
-- [Cafcass](https://www.cafcass.gov.uk/) (2022) — Cafcass private-law operating framework revisions post Re H-N — <https://www.cafcass.gov.uk/>
+- [Cafcass](https://www.cafcass.gov.uk/) (2022) — [Cafcass](https://www.cafcass.gov.uk/) private-law operating framework revisions post Re H-N — <https://www.cafcass.gov.uk/>
   - Cafcass (the First Intervener) revised its safeguarding and welfare-reporting practice in light of Re H-N, including the proposal endorsed at paragraphs 38-40 for enhanced pre-fact-finding involvement.
 - Transparency Project (2021) — Jack Harrison — 'Re H-N [2021] EWCA 448: The Court of Appeal considers domestic abuse' — <https://transparencyproject.org.uk/re-h-n-2021-ewca-448-the-court-of-appeal-considers-domestic-abuse/>
   - Welcomes the pattern-of-behaviour framing as important; characterises the judgment as evolutionary not revolutionary ('a Kylie and not a Home Alone 3'); warns that proper implementation depends on hearing time the underfunded family courts cannot deliver and specifically critiques judges focused on a mother's 'mental health rather than on the allegations of domestic abuse'.
@@ -175,7 +175,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 - The judgment of the court is given jointly ('The President of the Family Division, Lady Justice King and Lord Justice Holroyde'). It is not attributed to a single judge as author, although McFarlane P sat in the lead-judgment chair as President of the Family Division.
 - IMPORTANT: the word 'alienation' (and stem 'alien') does NOT appear in the body of the [2021] EWCA Civ 448 judgment. The Court of Appeal's treatment of the alienation-vs-DA framing is therefore implicit rather than express: it operates through (a) the insistence in paragraphs 29-34 that coercive and controlling behaviour patterns must be properly tried rather than reduced to a Scott Schedule, and (b) the corrective character of the case as a whole, which restored fact-finding on DA allegations in three of the four appeals where lower courts had narrowed or dismissed them. The treatment of parental alienation as a 'counter-allegation' that Re H-N is celebrated for addressing is thus a doctrinal characterisation by commentators (and by later cases including Re C [2023] and Re Y [2026]) rather than an express verbatim engagement on the face of [2021] EWCA Civ 448. The verbatim_quotes set reflects this honestly: it includes the structural paragraphs (1, 4, 28, 31, 34, 37, 224, 225) on which the doctrine actually rests rather than fabricating an 'alienation' quotation that is not in the judgment.
 - The four-direction guidance the brief asked for is at paragraph 37 (not paragraph 4) — paragraph 37 sets out the four-stage 'is fact-finding necessary?' analysis (i-iv) and paragraph 34 sets out the four-issue framing for the substantive guidance (i-iv). Both are quoted verbatim. Paragraph 4 is the opening paragraph on the high-importance status of DA fact-finding and is included for completeness.
-- Counsel listed from the BAILII/judiciary.uk front sheet. KC suffix is used in this entry to reflect the current style (the front sheet uses QC, reflecting the rank as it was in March 2021 prior to the September 2022 demise of HM Queen Elizabeth II).
+- Counsel listed from the [BAILII](https://www.bailii.org/)/judiciary.uk front sheet. KC suffix is used in this entry to reflect the current style (the front sheet uses QC, reflecting the rank as it was in March 2021 prior to the September 2022 demise of HM Queen Elizabeth II).
 - Outcome: three appeals allowed (Re B-B, Re T, Re H-N) with remittal for further case management / re-hearing; one dismissed (Re H). This is expressly stated at paragraph 225.
 - The Ministry of Justice Harm Panel is included in the 'experts' array as the panel whose conceptual framework was accepted by the Court of Appeal (paragraphs 19-22, 28, 286-?); it is not an expert witness in the conjoined appeals in the FPR Part 25 sense and is so noted in the field.
 - Children entries use the case-shorthand letters (B-B, T, H-N, H) as anonymised by the Court of Appeal in compliance with s.97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41). No further demographic detail (year of birth, sex) is publicly recorded on the face of the judgment and 'not_stated' is used per the schema enum.
@@ -186,6 +186,8 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

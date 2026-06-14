@@ -45,7 +45,7 @@ This 5-criterion framework is the gatekeeper that distinguishes alienation (engi
 Bernet led the multi-year campaign for explicit PA inclusion in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). PA was *not* added as a standalone diagnosis (the political resistance was substantial), but related codes were included:
 
 - **[DSM-5](https://www.appi.org/products/dsm) V995.51** Child Psychological Abuse — operationally captures PA harm
-- **DSM-5 V61.29** Child Affected by Parental Relationship Distress
+- **[DSM-5](https://www.appi.org/products/dsm) V61.29** Child Affected by Parental Relationship Distress
 - **WHO [ICD-11](https://icd.who.int/) QE52** Caregiver-Child Relationship Problem (in force 2022)
 
 The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *Psychological Bulletin* meta-analysis subsequently reframed the field at the *behaviors* level (PABs) — a strategic move that survives Daubert challenges in a way that the older "PAS" framing did not.
@@ -83,6 +83,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

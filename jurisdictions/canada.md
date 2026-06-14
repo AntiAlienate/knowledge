@@ -67,7 +67,7 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 ## Key developments
 
 - **1977** — Loi sur la protection de la jeunesse (Quebec) — establishes Direction de la protection de la jeunesse (DPJ). — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-34.1>
-- **1985** — Divorce Act R.S.C. 1985, c.3 (2nd Supp.) — federal substantive divorce statute. — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
+- **1985** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) — federal substantive divorce statute. — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
 - **1990** — Children's Law Reform Act (Ontario, R.S.O. 1990 c.C.12) — Ontario provincial parenting-orders statute for unmarried parents; s.112 OCL Clinical Investigator authority. — <https://www.ontario.ca/laws/statute/90c12>
 - **1991** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec — Livre II De la famille; substantive Quebec civil-law family code. — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991>
 - **1991** — Regulated Health Professions Act 1991 (Ontario) — establishes CPO regulatory framework; provincial equivalents subsequently. — <https://www.ontario.ca/laws/statute/91r18>
@@ -108,7 +108,7 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 
 1. **Department of Justice Canada — laws-lois.justice.gc.ca** — <https://laws-lois.justice.gc.ca/> (Department of Justice Canada) [en]
 2. **[CanLII](https://www.canlii.org/) — Canadian Legal Information Institute** — <https://www.canlii.org/> (Canadian Legal Information Institute) [en]
-3. **[Supreme Court of Canada](https://www.scc-csc.ca/)** — <https://www.scc-csc.ca/> (Supreme Court of Canada) [en]
+3. **[Supreme Court of Canada](https://www.scc-csc.ca/)** — <https://www.scc-csc.ca/> ([Supreme Court of Canada](https://www.scc-csc.ca/)) [en]
 4. **Office of the Children's Lawyer (Ontario)** — <https://www.ontario.ca/page/office-childrens-lawyer> (Ministry of the Attorney General (Ontario)) [en]
 5. **Société québécoise d'information juridique (SOQUIJ)** — <https://soquij.qc.ca/> (Gouvernement du Québec) [fr]
 6. **College of Psychologists of Ontario (CPO/CPBAO)** — <https://www.cpbao.ca/> (CPO) [en]
@@ -122,13 +122,15 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 - Bilingualism strictly preserved: French and English parallel terms given ([Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Québec / Civil Code; Cour supérieure du Québec / Quebec Superior Court; Ordre des psychologues du Québec / Order of Psychologists of Quebec).
 - Canada is treated as a federal jurisdiction with material provincial differences flagged; the four most-populous provinces (Ontario / Quebec / BC / Alberta) are statutorily foregrounded; smaller-province Family Law Acts and Colleges are referenced where institutionally relevant.
 - Quebec civil-law tradition is institutionally distinct from anglophone-common-law Canada — recognised in statutory_framework (CCQ + LPJ) and structural_findings[6].
-- Bill C-78 (in force 1.3.2021) is foregrounded as the load-bearing federal recent shift; NAWL 2024 FEWO statutory-ban-on-PA brief is foregrounded as critique-camp policy anchor.
+- [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) (in force 1.3.2021) is foregrounded as the load-bearing federal recent shift; NAWL 2024 FEWO statutory-ban-on-PA brief is foregrounded as critique-camp policy anchor.
 - Preserved findings from ca.json therapist v2: highest exclusion ratio in v2 set (12 verified vs 16 borderline); exclusion pattern dominated by under-credentialed/unverifiable leads NOT safeguarding exclusions.
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

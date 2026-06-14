@@ -64,7 +64,7 @@ Armenian family-court decisions are anonymised per Court of Cassation practice u
 
 ## Editorial notes
 
-- Armenia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Family Code 2004 + Law on Rights of the Child 1996 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2007.
+- Armenia jurisdiction sidecar — civil-law post-Soviet South Caucasus with [Council of Europe](https://www.coe.int/) + ECHR membership. Family Code 2004 + Law on Rights of the Child 1996 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2007.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South Caucasus + civil-law + post-Soviet + ECHR + Hague Convention clusters within the corpus.
 
@@ -72,6 +72,8 @@ Armenian family-court decisions are anonymised per Court of Cassation practice u
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

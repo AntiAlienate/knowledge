@@ -264,7 +264,7 @@ Kingston · ON · William R. Lederman Distinguished Professor of Law, Queen's Un
 *PhD; RSW (Ontario College of Social Workers); LLM; Distinguished University Professor Emerita*
 London · ON · Distinguished University Professor Emerita, King's University College at Western University (Social Work / Childhood and Youth Studies); Adjunct, McGill School of Social Work
 
-**Stance:** Social-work half of the Bala-Birnbaum-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) triumvirate — pair with Bala for the full differentiated-approach package. Co-author with Bala of 'Parental alienation cases: Experiences of Ontario legal and mental health professionals' (2025) 63 Family Court Review 491 and 'Parental alienation: A retrospective study of the experiences of children and parents in Ontario' (2024) U.N.B.L.J. 62. Co-author with Bala and Saini of Children Who Resist Postseparation Parental Contact (Oxford UP, 2013).
+**Stance:** Social-work half of the Bala-Birnbaum-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) triumvirate — pair with Bala for the full differentiated-approach package. Co-author with Bala of 'Parental alienation cases: Experiences of Ontario legal and mental health professionals' (2025) 63 Family Court Review 491 and 'Parental alienation: A retrospective study of the experiences of children and parents in Ontario' (2024) U.N.B.L.J. 62. Co-author with Bala and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Children Who Resist Postseparation Parental Contact (Oxford UP, 2013).
 
 **Publications:**
 - Parental alienation cases: Experiences of Ontario legal and mental health professionals (with Bala) (2025) — *Family Court Review 63:491* — <https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.70001>
@@ -361,7 +361,7 @@ Vancouver · BC · Retired Justice, Supreme Court of British Columbia; Research 
 *LSO member (year of call not publicly confirmed)*
 Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney General, Ontario — 393 University Ave., 14th Floor, Toronto
 
-**Stance:** OCL institutional line for any child-voice / [Cafcass](https://www.cafcass.gov.uk/)-equivalent reform conversation in Ontario. Counsel for OCL on behalf of the children in L.(A.G.) v D.(K.B.), 2009 and at Supreme Court of Canada docket 36850. Institutional role — approach only via institutional channel, not as a stance-aligned practitioner.
+**Stance:** OCL institutional line for any child-voice / [Cafcass](https://www.cafcass.gov.uk/)-equivalent reform conversation in Ontario. Counsel for OCL on behalf of the children in L.(A.G.) v D.(K.B.), 2009 and at [Supreme Court of Canada](https://www.scc-csc.ca/) docket 36850. Institutional role — approach only via institutional channel, not as a stance-aligned practitioner.
 
 **Publications:**
 - L.(A.G.) v D.(K.B.), 2009 — counsel for OCL on behalf of the children (2009) — *Ontario Superior Court of Justice* — <https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/>
@@ -396,6 +396,8 @@ Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
