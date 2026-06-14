@@ -1,0 +1,396 @@
+#!/usr/bin/env python3
+"""aa-sync — hourly sync of local arch-work → GitHub + Firebase live.
+
+Self-throttling. Call freely from the depth-pass loop; it no-ops if it ran
+within the last hour. Safe to invoke after every batch.
+
+What it does:
+  1. `git pull --rebase` in the recovery clone (catches Archon's interleaved pushes)
+  2. Per-file diff arch-work/jurisdictions/ → recovery/jurisdictions/
+     - Copy local over remote ONLY when local kd_count > remote kd_count
+     - This protects any sidecar Archon has deepened beyond my local
+  3. Commit + push to AntiAlienate/antialienate-knowledge main
+  4. mkdocs build with root-symlink staging, gated on _site/index.html existing
+  5. firebase deploy --only hosting:knowledge
+
+Logs each phase to /tmp/.aa-secrets/action-log.jsonl with op="sync-*".
+
+Throttle: reads the log for the last "sync-deploy-ok" entry; if newer than
+3600s ago, exits 0 immediately (no-op). Set AA_SYNC_FORCE=1 to bypass.
+"""
+import datetime, json, os, pathlib, shutil, subprocess, sys, time
+
+ROOT = pathlib.Path("/tmp/.aa-secrets")
+ARCH_J = ROOT / "arch-work/jurisdictions"
+RECOVERY = ROOT / "recovery"
+RECOVERY_J = RECOVERY / "jurisdictions"
+TOKEN_FILE = ROOT / "firebase_ci_token"
+LOG = ROOT / "action-log.jsonl"
+THROTTLE_SECONDS = 3600  # 1 hour
+
+
+def log(op, **fields):
+    rec = {"ts": datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+           "op": op, **fields}
+    with LOG.open("a") as f:
+        f.write(json.dumps(rec) + "\n")
+
+
+def last_sync_ts():
+    if not LOG.exists():
+        return 0
+    last = 0
+    with LOG.open() as f:
+        for line in f:
+            try:
+                r = json.loads(line)
+                if r.get("op") == "sync-deploy-ok":
+                    ts = r.get("ts", "")
+                    dt = datetime.datetime.fromisoformat(ts.replace("Z", "+00:00"))
+                    last = max(last, dt.timestamp())
+            except Exception:
+                continue
+    return last
+
+
+def write_activity_stream(site_dir, upgrades, adds):
+    """Generate /recent.html + /recent.json with last 200 depth-pass events."""
+    events = []
+    if LOG.exists():
+        with LOG.open() as f:
+            for line in f:
+                try:
+                    r = json.loads(line)
+                except Exception:
+                    continue
+                op = r.get("op", "")
+                if op.startswith("sidecar-") or op.startswith("sync-"):
+                    events.append(r)
+    events = events[-200:][::-1]  # last 200, newest first
+
+    # Stats
+    n_juris = len(list(ARCH_J.glob("*.json")))
+    last_sync = next((e for e in events if e.get("op") == "sync-deploy-ok"), {})
+
+    # JSON feed
+    feed = {
+        "generated": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds") + "Z",
+        "stats": {
+            "jurisdictions_total": n_juris,
+            "last_sync_version": last_sync.get("version", ""),
+            "last_sync_ts": last_sync.get("ts", ""),
+        },
+        "events": events,
+    }
+    (site_dir / "recent.json").write_text(json.dumps(feed, indent=2))
+
+    # HTML page
+    rows = []
+    for e in events:
+        ts = e.get("ts", "")
+        op = e.get("op", "")
+        j = e.get("jurisdiction", "")
+        kd = e.get("kd_count", "")
+        u = e.get("upgrades", "")
+        a = e.get("adds", "")
+        v = e.get("version", "")
+        if op.startswith("sidecar-"):
+            label = "deepened" if "deepen" in op else "created"
+            detail = f'<a href="/jurisdictions/{j}.json">{j}</a> {label} → kd={kd}'
+        elif op == "sync-deploy-ok":
+            short = v.split("/")[-1][:16] if v else ""
+            detail = f'<strong>sync deployed</strong> · {u} upgrades + {a} adds · <code>{short}</code>'
+        elif op == "sync-push-ok":
+            detail = f'github push · {u} upgrades + {a} adds'
+        elif op == "sync-diff":
+            detail = f'diff: {u} upgrades, {a} adds, {e.get("protected", 0)} protected'
+        elif op == "sync-nochange":
+            detail = "no changes"
+        elif op == "sync-build-failed":
+            detail = '<span style="color:#c00">build failed</span>'
+        elif op == "sync-deploy-failed":
+            detail = '<span style="color:#c00">deploy failed</span>'
+        else:
+            detail = op
+        rows.append(f'<tr><td class="t">{ts}</td><td>{detail}</td></tr>')
+
+    html = f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Recent updates · AntiAlienate Knowledge</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta http-equiv="refresh" content="60">
+<style>
+  body {{ font-family: -apple-system, system-ui, sans-serif; max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; line-height: 1.5; color: #1a1a1a; }}
+  h1 {{ font-size: 1.6rem; margin-bottom: .25rem; }}
+  .sub {{ color: #666; font-size: .9rem; margin-bottom: 1.5rem; }}
+  .stats {{ display: flex; gap: 1.5rem; padding: .75rem 1rem; background: #f4f4f4; border-radius: 6px; margin-bottom: 1.5rem; font-size: .9rem; }}
+  .stats b {{ display: block; font-size: 1.4rem; color: #0066cc; }}
+  table {{ width: 100%; border-collapse: collapse; font-size: .88rem; }}
+  td {{ padding: .35rem .5rem; border-bottom: 1px solid #eee; vertical-align: top; }}
+  td.t {{ white-space: nowrap; color: #888; font-family: ui-monospace, monospace; font-size: .8rem; width: 11em; }}
+  a {{ color: #0066cc; text-decoration: none; }} a:hover {{ text-decoration: underline; }}
+  code {{ background: #f4f4f4; padding: .1rem .3rem; border-radius: 3px; font-family: ui-monospace, monospace; font-size: .85em; }}
+  .meta {{ color: #888; font-size: .8rem; margin-top: 2rem; border-top: 1px solid #eee; padding-top: 1rem; }}
+</style>
+</head>
+<body>
+<h1>Recent updates</h1>
+<p class="sub">Live stream of source material being added to <a href="/">knowledge.antialienate.com</a>. Auto-refreshes every 60s.</p>
+<div class="stats">
+  <div><b>{n_juris}</b> jurisdictions</div>
+  <div><b>{len(events)}</b> recent events</div>
+  <div><b>{last_sync.get("ts","").split("T")[0] or "—"}</b> last deploy</div>
+</div>
+<table><tbody>
+{chr(10).join(rows)}
+</tbody></table>
+<p class="meta">JSON feed: <a href="/recent.json">/recent.json</a> · Updates each hour via aa-sync · Generated {feed["generated"]}</p>
+</body>
+</html>
+"""
+    (site_dir / "recent.html").write_text(html)
+    print(f"→ wrote recent.html + recent.json ({len(events)} events)")
+
+
+def write_share_gallery(site_dir):
+    """Generate /share.html — grid of all infographics/heros/ images with copy-share links."""
+    heros = RECOVERY / "infographics/heros"
+    if not heros.exists():
+        return
+    # Prefer named (descriptive) images first; numeric-only are batch dumps
+    images = sorted(heros.glob("*.png"))
+    named = [p for p in images if not p.stem.isdigit()]
+    numeric = [p for p in images if p.stem.isdigit()]
+    ordered = named + numeric
+
+    BASE = "https://knowledge.antialienate.com/infographics/heros"
+    cards = []
+    for p in ordered:
+        name = p.name
+        title = p.stem.replace("-", " ").replace("_", " ")
+        url = f"{BASE}/{name}"
+        cards.append(f'''<figure class="card">
+  <a href="{url}" target="_blank"><img src="/infographics/heros/{name}" loading="lazy" alt="{title}"></a>
+  <figcaption>
+    <span class="t">{title}</span>
+    <button onclick="navigator.clipboard.writeText('{url}');this.textContent='copied'" class="cp">copy URL</button>
+  </figcaption>
+</figure>''')
+
+    html = f"""<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Share gallery · AntiAlienate Knowledge</title>
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="Shareable images, memes, and creatives for the parental-alienation community. Click any image to open full-size; copy URL to share.">
+<meta property="og:title" content="AntiAlienate Share Gallery">
+<meta property="og:description" content="Free shareable creatives for parents of alienated children.">
+<style>
+  body {{ font-family: -apple-system, system-ui, sans-serif; max-width: 1400px; margin: 1.5rem auto; padding: 0 1.5rem; color: #1a1a1a; }}
+  h1 {{ font-size: 1.6rem; margin-bottom: .25rem; }}
+  .sub {{ color: #666; font-size: .9rem; margin-bottom: 1.5rem; }}
+  .grid {{ display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1rem; }}
+  .card {{ margin: 0; padding: .5rem; border: 1px solid #eee; border-radius: 6px; background: #fafafa; }}
+  .card img {{ width: 100%; height: auto; display: block; border-radius: 4px; }}
+  .card figcaption {{ display: flex; justify-content: space-between; align-items: center; margin-top: .4rem; gap: .5rem; }}
+  .card .t {{ font-size: .8rem; color: #555; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }}
+  .cp {{ font-size: .7rem; padding: .2rem .5rem; border: 1px solid #ccc; background: #fff; border-radius: 3px; cursor: pointer; color: #0066cc; flex-shrink: 0; }}
+  .cp:hover {{ background: #f0f0f0; }}
+  .meta {{ color: #888; font-size: .8rem; margin-top: 2rem; border-top: 1px solid #eee; padding-top: 1rem; }}
+</style>
+</head>
+<body>
+<h1>Share gallery</h1>
+<p class="sub">{len(ordered)} shareable images for the parental-alienation community. Click any image for full-size; tap <em>copy URL</em> to grab a direct link for Facebook, X, Reddit, WhatsApp, etc.</p>
+<div class="grid">
+{chr(10).join(cards)}
+</div>
+<p class="meta">Updated each hour via <a href="/recent.html">aa-sync</a> · All images CC-BY-4.0 · <a href="/">knowledge.antialienate.com</a></p>
+</body>
+</html>
+"""
+    (site_dir / "share.html").write_text(html)
+    print(f"→ wrote share.html gallery ({len(ordered)} images)")
+
+
+def run(cmd, cwd=None, env=None, check=True):
+    p = subprocess.run(cmd, cwd=cwd, env=env, capture_output=True, text=True)
+    if check and p.returncode != 0:
+        print(f"FAIL: {' '.join(cmd)}\n{p.stderr}", file=sys.stderr)
+        sys.exit(p.returncode)
+    return p
+
+
+def main():
+    if not os.environ.get("AA_SYNC_FORCE"):
+        last = last_sync_ts()
+        age = time.time() - last
+        if age < THROTTLE_SECONDS:
+            print(f"throttled: last sync {int(age)}s ago (<{THROTTLE_SECONDS}); no-op")
+            return 0
+
+    if not RECOVERY.exists():
+        print(f"missing clone at {RECOVERY}; run `git clone https://github.com/AntiAlienate/antialienate-knowledge.git recovery` first", file=sys.stderr)
+        return 1
+
+    # 1. pull-rebase (catches Archon). Stash tracked changes only — untracked
+    # files (new MDs/JSONs we just wrote) must survive the pull, and _site/ is
+    # gitignored so it doesn't interfere with rebase.
+    print("→ git pull --rebase")
+    stash = subprocess.run(["git", "stash", "push", "-m", "aa-sync-tmp"],
+                            cwd=RECOVERY, capture_output=True, text=True)
+    stashed = "No local changes" not in (stash.stdout + stash.stderr)
+    run(["git", "pull", "--rebase", "origin", "main"], cwd=RECOVERY)
+    if stashed:
+        # Reapply our staged work so we don't lose it
+        subprocess.run(["git", "stash", "pop"], cwd=RECOVERY, capture_output=True)
+
+    # 2. per-file diff and selective copy
+    upgrades, adds, protected = [], [], []
+    for lp in sorted(ARCH_J.glob("*.json")):
+        j = lp.stem
+        rp = RECOVERY_J / f"{j}.json"
+        try:
+            with lp.open() as f:
+                lkd = len(json.load(f).get("key_developments", []))
+        except Exception:
+            continue
+        if not rp.exists():
+            shutil.copy2(lp, rp)
+            adds.append(j)
+            continue
+        try:
+            with rp.open() as f:
+                rkd = len(json.load(f).get("key_developments", []))
+        except Exception:
+            rkd = 0
+        if lkd > rkd:
+            shutil.copy2(lp, rp)
+            upgrades.append(j)
+        elif rkd > lkd:
+            protected.append((j, rkd, lkd))
+
+    # 2b. refresh citation footers + inline autolinks (idempotent).
+    # Order: aa-cite (Sources block) → aa-crosslink (Related block) → aa-autolink
+    # (inline body links). Autolink runs LAST so it can skip the appended blocks.
+    for helper_name in ["aa-cite", "aa-crosslink", "aa-autolink"]:
+        helper = pathlib.Path(__file__).parent / helper_name
+        if helper.exists():
+            cl = subprocess.run([sys.executable, str(helper)], capture_output=True, text=True)
+            print(f"→ {helper_name}: {cl.stdout.strip()}")
+    # any .md content changes count as diffs to push
+    st = subprocess.run(["git", "status", "--porcelain"], cwd=RECOVERY, capture_output=True, text=True)
+    if st.stdout.strip() and "crosslink-refresh" not in upgrades:
+        upgrades.append("crosslink-refresh")
+
+    have_diff = bool(upgrades or adds)
+    if have_diff:
+        print(f"→ {len(upgrades)} upgrades + {len(adds)} adds (protected {len(protected)} remote-richer)")
+        log("sync-diff", upgrades=len(upgrades), adds=len(adds), protected=len(protected))
+        # 3. commit + push (jurisdictions + any .md crosslink refreshes)
+        run(["git", "add", "jurisdictions/", "-A"], cwd=RECOVERY)
+        # add .md updates from crosslinker
+        run(["git", "add", "**/*.md"], cwd=RECOVERY, check=False)
+        msg = f"jurisdictions: hourly sync — {len(upgrades)} upgrades + {len(adds)} adds"
+        run(["git", "commit", "-m", msg], cwd=RECOVERY)
+        print("→ git push")
+        run(["git", "push", "origin", "main"], cwd=RECOVERY)
+        log("sync-push-ok", upgrades=len(upgrades), adds=len(adds))
+    else:
+        print("no source changes — refreshing activity stream only")
+
+    # 4. regenerate self-hosted app-data layer BEFORE mkdocs build:
+    #    /manifest.json + /case-law/index.json + /case-law/<jur>/<slug>.json
+    # These feed the AntiAlienate app + Liena RAG directly (GitHub-independent).
+    # Source: fleet doc kb-pipeline-self-hosted-handoff (Archon → Ember 2026-06-13).
+    aa_build = RECOVERY / "bin/aa-build"
+    if aa_build.exists():
+        env_kb = os.environ.copy()
+        env_kb["AA_REPO_ROOT"] = str(RECOVERY)
+        for sub in ["manifest", "caselaw"]:
+            r = subprocess.run([sys.executable, str(aa_build), sub],
+                               cwd=RECOVERY, env=env_kb, capture_output=True, text=True)
+            print(f"→ aa-build {sub}: {r.stdout.strip().splitlines()[-1] if r.stdout.strip() else '(no output)'}")
+            if r.returncode != 0:
+                print(f"FAIL aa-build {sub}: {r.stderr[-400:]}", file=sys.stderr)
+                return 5
+    else:
+        print(f"WARN: missing {aa_build}; manifest/caselaw not regenerated", file=sys.stderr)
+
+    # 4b. stage root symlinks (idempotent)
+    docs = RECOVERY / "docs"
+    docs.mkdir(exist_ok=True)
+    for f in ["README.md", "CONTRIBUTING.md", "LICENSE", "LICENSE-DATA"]:
+        src = RECOVERY / f
+        dst = docs / f
+        if src.exists() and not dst.exists():
+            os.symlink(f"../{f}", str(dst))
+    # Static-only dirs (no .md files but content needs shipping)
+    # The workflow's staging step skips these because it looks for *.md;
+    # we explicitly include them so images/etc reach _site.
+    for static_dir in ["infographics"]:
+        src = RECOVERY / static_dir
+        dst = docs / static_dir
+        if src.exists() and not dst.exists():
+            os.symlink(f"../{static_dir}", str(dst))
+    # 4c. Publish app-data layer (manifest.json + schemas/) — these aren't .md
+    # so the workflow's staging skips them; explicitly symlink so they reach _site.
+    for app_data in ["manifest.json", "schemas"]:
+        src = RECOVERY / app_data
+        dst = docs / app_data
+        if src.exists() and not dst.exists():
+            os.symlink(f"../{app_data}", str(dst))
+
+    # 5. mkdocs build
+    print("→ mkdocs build")
+    site_dir = RECOVERY / "_site"
+    if site_dir.exists():
+        shutil.rmtree(site_dir)
+    mkdocs = RECOVERY / ".venv/bin/mkdocs"
+    if not mkdocs.exists():
+        print(f"missing venv mkdocs at {mkdocs}; bootstrap: cd {RECOVERY} && python3 -m venv .venv && .venv/bin/pip install -r requirements.txt", file=sys.stderr)
+        return 1
+    build = subprocess.run([str(mkdocs), "build", "--site-dir", "_site"],
+                           cwd=RECOVERY, capture_output=True, text=True)
+    index = site_dir / "index.html"
+    if build.returncode != 0 or not index.exists():
+        print(f"BUILD FAILED — aborting deploy. stderr:\n{build.stderr[-500:]}", file=sys.stderr)
+        log("sync-build-failed", returncode=build.returncode, has_index=index.exists())
+        return 2
+
+    # 5b. write /recent.html + /recent.json activity stream into _site
+    write_activity_stream(site_dir, upgrades=upgrades, adds=adds)
+    # 5c. write /share.html gallery of infographics/heros/ images
+    write_share_gallery(site_dir)
+
+    # 6. firebase deploy
+    token = TOKEN_FILE.read_text().strip() if TOKEN_FILE.exists() else os.environ.get("FIREBASE_TOKEN", "")
+    if not token:
+        print("missing FIREBASE_TOKEN; aborting deploy", file=sys.stderr)
+        return 3
+    env = os.environ.copy()
+    env["FIREBASE_TOKEN"] = token
+    print("→ firebase deploy")
+    deploy = subprocess.run(["firebase", "deploy", "--only", "hosting:knowledge",
+                             "--project", "antialienate-knowledge",
+                             "--non-interactive", "--json"],
+                            cwd=RECOVERY, env=env, capture_output=True, text=True)
+    try:
+        result = json.loads(deploy.stdout)
+    except Exception:
+        result = {}
+    if result.get("status") != "success":
+        print(f"DEPLOY FAILED:\n{deploy.stderr[-500:]}", file=sys.stderr)
+        log("sync-deploy-failed", stderr=deploy.stderr[-300:])
+        return 4
+    version = result.get("result", {}).get("hosting", "")
+    print(f"✓ deployed {version}")
+    log("sync-deploy-ok", upgrades=len(upgrades), adds=len(adds), version=version)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
