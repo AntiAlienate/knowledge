@@ -48,7 +48,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 **Location in [DSM-5](https://www.appi.org/products/dsm).** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, sub-section "Relational Problems," [DSM-5](https://www.appi.org/products/dsm) pages 715–716 ([DSM-5-TR](https://www.appi.org/products/dsm) ~ pp. 811).
 
-**DSM-5 use criterion, verbatim.**
+**[DSM-5](https://www.appi.org/products/dsm) use criterion, verbatim.**
 
 > "This category should be used when the main focus of clinical attention is to address the quality of the parent-child relationship or when the quality of the parent-child relationship is affecting the course, prognosis, or treatment of a mental or other medical disorder."
 
@@ -185,7 +185,7 @@ That is the operative WHO instruction. QE52.0 is the WHO-blessed code.
 
 ### 2.4 [ICD-11](https://icd.who.int/) vs. ICD-10-CM crosswalk for U.S. clinicians
 
-Many U.S. clinical billing systems still operate on ICD-10-CM (not yet ICD-11). The ICD-10-CM analogues in current U.S. billing are:
+Many U.S. clinical billing systems still operate on ICD-10-CM (not yet [ICD-11](https://icd.who.int/)). The ICD-10-CM analogues in current U.S. billing are:
 
 - **Z62.820** — Parent-biological child conflict (the DSM-5 V61.20 partner).
 - **Z62.821** — Parent-adopted child conflict.
@@ -286,7 +286,7 @@ Jean Mercer (developmental psychology) and Joyanna Silberg (child trauma special
 
 ### 4.4 Case-law sensitivity to which code is applied
 
-U.S. and Canadian family-court decisions increasingly turn on the specific diagnostic language used by the evaluator. Reviewing-court reversals (cross-referenced to `/evidence/forensic-operation-in-courts.md`) often pivot on whether the evaluator wrote "V61.20 Parent-Child Relational Problem" (low-stakes, accepted) versus "Parental Alienation Syndrome" (high-stakes, increasingly rejected as not in DSM-5-TR). Evaluators using the DSM-5-TR / ICD-11 codes have a substantially stronger appellate footing.
+U.S. and Canadian family-court decisions increasingly turn on the specific diagnostic language used by the evaluator. Reviewing-court reversals (cross-referenced to `/evidence/forensic-operation-in-courts.md`) often pivot on whether the evaluator wrote "V61.20 Parent-Child Relational Problem" (low-stakes, accepted) versus "Parental Alienation Syndrome" (high-stakes, increasingly rejected as not in [DSM-5-TR](https://www.appi.org/products/dsm)). Evaluators using the DSM-5-TR / ICD-11 codes have a substantially stronger appellate footing.
 
 ---
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

@@ -289,7 +289,7 @@ The Spring 2022 issue of the *Journal of Family Trauma, Child Custody & Child De
 
 ### 9.2 The [Family Bridges](https://warshak.com/family-bridges/) critique
 
-**Citation.** [Authors not directly verified at compilation]. How efficacious is Building [Family Bridges](https://warshak.com/family-bridges/)? What the legal and mental health fields should know about Building Family Bridges and "parental alienation." *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4). https://doi.org/10.1080/26904586.2022.2066595 **[secondary verification only]** — DOI confirmed via Taylor & Francis listing https://www.tandfonline.com/doi/abs/10.1080/26904586.2022.2066595 .
+**Citation.** [Authors not directly verified at compilation]. How efficacious is Building [Family Bridges](https://warshak.com/family-bridges/)? What the legal and mental health fields should know about Building [Family Bridges](https://warshak.com/family-bridges/) and "parental alienation." *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4). https://doi.org/10.1080/26904586.2022.2066595 **[secondary verification only]** — DOI confirmed via Taylor & Francis listing https://www.tandfonline.com/doi/abs/10.1080/26904586.2022.2066595 .
 
 **Core argument.** Article examines methodological flaws in Family Bridges research and argues that the programme's outcome studies cannot support the efficacy claims made in court settings.
 
@@ -360,7 +360,7 @@ Additional verbatim provisions in the same paragraph:
 
 | Programme | Programme-produced outcome study | Independent peer-reviewed outcome study |
 |---|---|---|
-| Family Bridges | Yes — [Warshak](https://warshak.com/family-bridges/) 2010 (n=23), Warshak 2019 (n=83) | **No** |
+| Family Bridges | Yes — [Warshak](https://warshak.com/family-bridges/) 2010 (n=23), [Warshak](https://warshak.com/family-bridges/) 2019 (n=83) | **No** |
 | Family Reflections | Yes — Reay 2015 (n=22 children / 12 families) | **No** |
 | Turning Points for Families | Yes — [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 (n=55 children / 30 families; analysed videos from 15) — *but commissioned by [Gottlieb](https://turningpointsforfamilies.com/), who supplied all source materials* | **No** |
 | [AB-PA](https://drcachildress.org/) ([Childress](https://drcachildress.org/)) | **No peer-reviewed outcome study identified** | **No** |
@@ -423,7 +423,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Dallam & Silberg 2016 | Yes (full PDF) | Abstract and key arguments quoted verbatim |
 | Mercer 2019 critique | No (full text) | Quoted via [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 reference and Mercer's *ChildMyths* blog |
 | [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) (27-case series) | Yes (full PDF) | Abstract, statistics, methods quoted verbatim |
-| Mercer & Drew 2022 (Geffner symposium TPFF/OBFC) | No (full text) | Publisher record; conclusions paraphrased |
+| Mercer & Drew 2022 (Geffner symposium [TPFF](https://turningpointsforfamilies.com/)/OBFC) | No (full text) | Publisher record; conclusions paraphrased |
 | Building Family Bridges critique 2022 | No (full text) | DOI verified; authors and full content **not publicly confirmed** at compilation |
 | Reunification therapies six-programme synthesis 2022 | No (full text) | DOI verified; conclusions paraphrased from publisher record |
 | [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala 2016 chapter | Yes (PDF, not legibly extractable) | Conclusions paraphrased from secondary citations across literature |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

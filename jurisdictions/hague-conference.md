@@ -42,7 +42,7 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 
 ## Anonymisation convention
 
-Hague Convention 1980 cases are anonymised per contracting-state court practice — INCADAT anonymises decisions with 'Re X' or initials.
+[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) cases are anonymised per contracting-state court practice — INCADAT anonymises decisions with 'Re X' or initials.
 
 ## Key developments
 
@@ -94,6 +94,8 @@ Hague Convention 1980 cases are anonymised per contracting-state court practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

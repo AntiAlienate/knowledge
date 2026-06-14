@@ -149,7 +149,7 @@ Köln · Nordrhein-Westfalen · Rechtsanwaltsgemeinschaft Hohenzollernring 25 (K
 
 **Contact:** Kanzlei Hohenzollernring 25, 50672 Köln; +49 (221) 9529 55 55; +49 (177) 813 33 20; fax +49 (221) 9529 55 25; via Deutsche Anwaltauskunft profile
 
-*Notes: Verified via BVerfG official PDF and HTML versions of the 1 BvR 1076/23 order (front page names Bevollmächtigte) and Deutsche Anwaltauskunft profile. Rechtsanwaltskammer Köln confirmed by postcode practice address; specific Kammer-number not publicly confirmed.*
+*Notes: Verified via [BVerfG](https://www.bundesverfassungsgericht.de/) official PDF and HTML versions of the 1 BvR 1076/23 order (front page names Bevollmächtigte) and Deutsche Anwaltauskunft profile. Rechtsanwaltskammer Köln confirmed by postcode practice address; specific Kammer-number not publicly confirmed.*
 
 **See also:** `jurisdiction:germany`, `practitioner:de.fichtner-joerg`, `practitioner:de.zimmermann-janin`, `practitioner:de.walper-sabine`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `case-study:cassazione-9691-2022-italy`, `case-study:sts-519-2017-spain`, `evidence:international-institutional-positions`
 
@@ -512,6 +512,8 @@ Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

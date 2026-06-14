@@ -169,7 +169,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 
 - PRIMARY SOURCE: il testo integrale dell'ordinanza è stato verificato sul PDF 'Famiglia.pdf' pubblicato da Euroconference/EcNews (marzo 2025), riproduzione del provvedimento depositato in cancelleria il 21 febbraio 2025. Tutte le citazioni in italiano nei verbatim_quotes sono testuali da quel PDF; le traduzioni inglesi sono dell'autore (Alan Markson).
 - PRIMARY SOURCE: composizione del collegio (Pres. Maria Acierno; Cons. Laura Tricomi, Giulia Iofrida, Eleonora Reggiani; rel. Rita Elvira Antonietta Russo), R.G. 11558/2024, udienza camerale 9 gennaio 2025, deposito 21 febbraio 2025, dispositivo di cassa con rinvio alla Corte d'Appello di Bologna in diversa composizione, sono tutti verificati dal testo del PDF primario.
-- PRIMARY SOURCE: la procedura passa Tribunale di Modena (ex art. 709-ter c.p.c.) → Corte d'Appello di Bologna (decreto n. 1141/2024 del 21.05.2024) → Cassazione, R.G. 11558/2024. Verificato dal testo dell'ordinanza.
+- PRIMARY SOURCE: la procedura passa Tribunale di Modena (ex art. 709-ter c.p.c.) → Corte d'Appello di Bologna (decreto n. 1141/2024 del 21.05.2024) → [Cassazione](https://www.cortedicassazione.it/), R.G. 11558/2024. Verificato dal testo dell'ordinanza.
 - PRIMARY SOURCE: i precedenti di legittimità interni espressamente citati in motivazione al § 11.3 sono Cass. 13217/2021, Cass. 9691/2022 e Cass. 3576/2024 (la string-cite di chiusura della linea apicale critico-PAS). Sull'ascolto del minore l'ordinanza richiama Cass. 1474/2021 e Cass. 12957/2018. Verificato dal testo del PDF primario.
 - PRIMARY SOURCE: la cornice CEDU citata in motivazione comprende Talpis c. Italia (2017), I.M. e altri c. Italia (2022), Errico c. Italia (2009), A.S. e M.S. c. Italia (2023), Landini c. Italia (2023), Piazzi c. Italia (2010), Lombardo c. Italia (2013), oltre alla Convenzione di Istanbul (artt. 3, 26, 31, 32, 48). La parametrazione GREVIO entra in motivazione attraverso il filtro CEDU I.M. e altri c. Italia 2022.
 - PRIMARY SOURCE: la nota del Ministero della Salute del 29 maggio 2020 (risposta a interrogazione parlamentare n. 4-02405) è espressamente richiamata al § 11.2 come cornice istituzionale del non-riconoscimento scientifico maggioritario della PAS. Differenza importante rispetto a Cass. 9691/2022, nel cui testo la nota ministeriale NON compariva.
@@ -185,6 +185,8 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

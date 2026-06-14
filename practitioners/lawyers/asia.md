@@ -102,7 +102,7 @@ New Delhi / London · Delhi ([Supreme Court of India](https://main.sci.gov.in/))
 **Stance:** Cross-jurisdictional recognition-camp senior counsel: No5 Chambers practice profile explicitly names 'inter-country parental abduction' as a core area, the only Indian senior counsel with that public framing on a UK chambers profile. Former-ASG status (2014-2018) and SCI Senior Advocate designation (2007) anchor apex-court reach. Argued V. Ravi Chandran v Union of India (return of US child to New York State pre-Hague-accession India) and Stephanie Joan Becker v State (intercountry adoption). Natural high-leverage interlocutor for cross-jurisdictional PA work landing in India. Country_code: IN.
 
 **Publications:**
-- V. Ravi Chandran v Union of India (return of US child pre-Hague-accession) (2010) — *Supreme Court of India*
+- V. Ravi Chandran v Union of India (return of US child pre-Hague-accession) (2010) — *[Supreme Court of India](https://main.sci.gov.in/)*
 - Stephanie Joan Becker v State (intercountry adoption) (2013) — *Supreme Court of India*
 - No5 Chambers Door Tenant practice profile naming inter-country parental abduction (2020) — *No5 Chambers* — <https://www.no5.com/barrister/dr-pinky-anand/>
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

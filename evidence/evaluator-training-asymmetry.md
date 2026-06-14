@@ -128,7 +128,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 **Verbatim on bias and evaluator selection (p. 80).**
 
-> "One form of bias or misinformation is indicated by evaluators' uncritical use of parent alienation theories. False assumptions may be made that allegations, especially from mothers, are likely false and do not need to be investigated and that parents must cooperate with each other and communicate directly … A tendency to believe that survivor-mothers make false allegations and alienate the children from their ex-partners has been found to be associated with sexist beliefs and the belief the world is basically a just place (Saunders et al., 2011). These beliefs are also related to recommendations that abusive fathers be given sole or joint custody or unsupervised visits."
+> "One form of bias or misinformation is indicated by evaluators' uncritical use of parent alienation theories. False assumptions may be made that allegations, especially from mothers, are likely false and do not need to be investigated and that parents must cooperate with each other and communicate directly … A tendency to believe that survivor-mothers make false allegations and alienate the children from their ex-partners has been found to be associated with sexist beliefs and the belief the world is basically a just place ([Saunders](https://www.ovw.usdoj.gov/) et al., 2011). These beliefs are also related to recommendations that abusive fathers be given sole or joint custody or unsupervised visits."
 
 **Verbatim on the small-to-substantial minority of abusers getting custody (Introduction, p. 71).**
 
@@ -251,7 +251,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 ## 5. The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) follow-on data on evaluator-appointment effects
 
-**Cross-reference.** The Meier 2020 study is treated in full in `evidence-forensic-operation-in-courts.md` §1; only the evaluator-specific aspects are excerpted here.
+**Cross-reference.** The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) study is treated in full in `evidence-forensic-operation-in-courts.md` §1; only the evaluator-specific aspects are excerpted here.
 
 **Citation.** Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92-105. https://doi.org/10.1080/09649069.2020.1701941 — Open repository copy: https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2712&context=faculty_publications — NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859.
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

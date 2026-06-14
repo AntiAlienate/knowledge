@@ -326,7 +326,7 @@
   - Verrocchio / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet collaborative outputs across the 2010s
 - **Primary contact:** UniCh institutional email (https://www.unich.it/) ; LinkedIn DM https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/
 - **Tier:** 1
-- **Hook:** The principal Italian academic-clinician operating inside the PASG ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet) recognition framework; her Chieti-sample data is the Italian recognition camp's most-cited empirical study.
+- **Hook:** The principal Italian academic-clinician operating inside the [PASG](https://pasg.info/) ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet) recognition framework; her Chieti-sample data is the Italian recognition camp's most-cited empirical study.
 - **Notes:** Italian recognition-camp work is now read in the shadow of Cass. ord. 9691/2022 and ord. 4595/2025 — see `/case-studies/` for the doctrinal context.
 
 ### 3. Prof Marisa Malagoli Togliatti
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

@@ -134,7 +134,7 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 - 1 Garden Court (2023) — 1GC published-cases entry on Re C — <https://1gc.com/published-cases/view/re-c-parental-alienation-instruction-of-expert-2023-ewhc-345>
   - Counsel chambers digest (Joy Brereton KC's chambers) on the leading appellate authority on instruction of unregulated psychology experts in PA-framed proceedings.
 - Mishcon de Reya LLP (2023) — Re C — considering 'parental alienation' and the use of experts in Children Act proceedings — <https://www.mishcon.com/news/re-c-considering-parental-alienation-and-the-use-of-experts-in-children-act-proceedings>
-  - Solicitors' firm commentary on the President's guidance regarding HCPC registration and the 'short judgment' requirement when an unregistered psychologist is instructed.
+  - Solicitors' firm commentary on the President's guidance regarding [HCPC](https://www.hcpc-uk.org/) registration and the 'short judgment' requirement when an unregistered psychologist is instructed.
 - Trinity Chambers (2023) — Unregistered experts in family proceedings: Re C ('parental alienation': instruction of expert) [2023] EWHC 345 (Fam) — <https://www.trinitychambers.com/unregistered-experts-in-family-proceedings-re-c-parental-alienation-instruction-of-expert-2023-ewhc-345-fam/>
   - Practitioner chambers analysis on the practical impact of the President's guidance on FPR Part 25 Part-25 instruction practice.
 - Becket Chambers (2023) — Re C ('parental alienation'; instruction of expert) [2023] reconsidered — <https://becket-chambers.co.uk/articles/re-c-parental-alienation-instruction-of-expert-2023-reconsidered/>
@@ -209,6 +209,8 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

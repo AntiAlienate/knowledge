@@ -131,7 +131,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 7. **Blog ilcaso.it — 'I provvedimenti de potestate tra alienazione parentale e ascolto del minore. Nota a Cass. Civ. 9691/2022'** — <https://blog.ilcaso.it/news_1982/26-10-22/I_provvedimenti_de_potestate_tra_alienazione_parentale_e_ascolto_del_minore-_il_punto_della_Cassazione_Nota_a_Cass_Civ_9691-2022> (ilcaso.it) [it] — accessed 2026-05-30
 8. **D.lgs. 10 ottobre 2022 n. 149 — Riforma Cartabia (Gazzetta Ufficiale)** — <https://www.gazzettaufficiale.it/eli/id/2022/10/17/22G00158/sg> (Gazzetta Ufficiale della Repubblica Italiana) [it] — accessed 2026-05-30
 9. **Camera dei Deputati — interrogazione 4-04379 Ascari/Cherchi, risposta scritta del Ministro della Giustizia, 12 marzo 2025** — <https://www.giustizia.it/cmsresources/cms/documents/interrogazione_ascari_e_cherchi_risposta_12mar2025.pdf> (Ministero della Giustizia) [it] — accessed 2026-05-30
-10. **Blog Pingitore — 'La Cassazione su ascolto minore, alienazione parentale, responsabilità genitoriale, violenza domestica e affidamento ai Servizi Sociali' (commento a Cass. 4595/2025)** — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/> (blog.marcopingitore.it) [it] — accessed 2026-05-30
+10. **Blog Pingitore — 'La [Cassazione](https://www.cortedicassazione.it/) su ascolto minore, alienazione parentale, responsabilità genitoriale, violenza domestica e affidamento ai Servizi Sociali' (commento a Cass. 4595/2025)** — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/> (blog.marcopingitore.it) [it] — accessed 2026-05-30
 
 ## Editorial notes
 
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

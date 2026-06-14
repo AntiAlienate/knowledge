@@ -366,7 +366,7 @@ Cochem · Rheinland-Pfalz · Amtsgericht Cochem (a.D.); independent author / int
 *Bundesweiter Fachverband der Frauenhauser und Beratungsstellen; Tragerschaft Diakonie / AWO / Caritas / DRK / Paritatischer*
 Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / Paritatischer)
 
-**Stance:** Institutional anchor of the critique camp's organisational centre of gravity. FHK 2022 press statement on the GREVIO report; July 2024 substantive note on Eltern-Kind-Entfremdung (PAS) und Wunsch nach Sanktionierung citing BVerfG 1 BvR 1076/23; May 2025 Muttertag press release framing Gewaltschutz as priority over Sorge- und Umgangsrecht. Position: critique camp institutional anchor.
+**Stance:** Institutional anchor of the critique camp's organisational centre of gravity. FHK 2022 press statement on the GREVIO report; July 2024 substantive note on Eltern-Kind-Entfremdung (PAS) und Wunsch nach Sanktionierung citing [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23; May 2025 Muttertag press release framing Gewaltschutz as priority over Sorge- und Umgangsrecht. Position: critique camp institutional anchor.
 
 **Publications:**
 - Pressemeldung zum GREVIO-Bericht: Deutschland braucht Gesamtkonzept gegen Gewalt an Frauen (2022) — *Frauenhauskoordinierung e.V.* — <https://www.frauenhauskoordinierung.de/aktuelles/detail/pressemeldung-zum-grevio-bericht-deutschland-braucht-gesamtkonzept-gegen-gewalt-an-frauen>
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

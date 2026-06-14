@@ -182,6 +182,8 @@ South Korea's **Civil Act** (민법) arts. 909–927 governs *chinkwon* (친권 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

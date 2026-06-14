@@ -89,7 +89,7 @@
 
 **Citation 1.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C., & Rosen, L. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(3-4), 295–317. https://doi.org/10.1080/26904586.2022.2036286 — NIJ archive: https://nij.ojp.gov/library/publications/trouble-harman-and-lorandos-parental-alienation-allegations-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051833
 
-**Citation 2.** Meier, J. S., Dickson, S., O'Sullivan, C. S., & Rosen, L. (2022). Harman and Lorandos' false critique of Meier et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2). https://doi.org/10.1080/26904586.2022.2086659 — OJP: https://www.ojp.gov/library/publications/harman-and-lorandos-false-critique-meier-et-als-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540319
+**Citation 2.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C. S., & Rosen, L. (2022). Harman and Lorandos' false critique of Meier et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2). https://doi.org/10.1080/26904586.2022.2086659 — OJP: https://www.ojp.gov/library/publications/harman-and-lorandos-false-critique-meier-et-als-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540319
 
 **Summary of rebuttal points (paraphrased — primary text was paywalled at compilation; **[secondary verification only]** for verbatim quotes).** Meier et al. argue that (1) most of the "methodological information" Harman & Lorandos claimed was withheld was in fact publicly available before their article appeared; (2) Harman & Lorandos' attempted re-analyses contained coding errors; (3) the statistically significant findings that survive correct re-analysis remain consistent with Meier et al.'s original conclusions; and (4) Harman & Lorandos' five claimed findings of pro-father gender bias did not hold after correction. The UN Special Rapporteur's 2023 report cites both papers and adopts Meier's findings as evidentially load-bearing (see §6.2 below; A/HRC/53/36 footnote 169).
 
@@ -316,7 +316,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 - **Harman & Lorandos 2021.** *Psychology, Public Policy, and Law* 27(2):184–208. doi:10.1037/law0000301.
 - **Meier et al. 2022 rebuttals.** *J Family Trauma, Child Custody & Child Development* 19(2) and 19(3-4).
 - **[Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204).** *J Child Custody* 16(2):140–169. doi:10.1080/15379418.2019.1613204. DOJ OVW Award #2011-TA-AX-K006.
-- **Saunders 2015.** *J Child Custody* 12(1):71–92. doi:10.1080/15379418.2015.1037052. // Saunders/Faller/Tolman 2011 NIJ Award 2007-WG-BX-0013.
+- **[Saunders](https://www.ovw.usdoj.gov/) 2015.** *J Child Custody* 12(1):71–92. doi:10.1080/15379418.2015.1037052. // Saunders/Faller/Tolman 2011 NIJ Award 2007-WG-BX-0013.
 - **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016.** In *Parenting Plan Evaluations* (2nd ed.). OUP. doi:10.1093/med:psych/9780199396580.003.0013.
 - **Alsalem 2023.** A/HRC/53/36.
 - **[OHCHR](https://www.ohchr.org/) Brazil press release** 2025-09-03.
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

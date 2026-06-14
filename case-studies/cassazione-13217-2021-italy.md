@@ -136,7 +136,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 1. **[Corte di Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza 17 maggio 2021 n. 13217 — testo integrale (PDF, riproduzione del provvedimento depositato)** — <https://www.avvmargheritacorriere.it/docs/ordinanza_13217-21.pdf> (Avv. Margherita Corriere — riproduzione del PDF del provvedimento) [it] — accessed 2026-05-30
 2. **Italgiure — banca dati ufficiale della [Corte di Cassazione](https://www.cortedicassazione.it/) (ricerca per numero 13217/2021, Sez. I Civile)** — <https://www.italgiure.giustizia.it/sncass/> (Corte Suprema di [Cassazione](https://www.cortedicassazione.it/) — CED) [it] — accessed 2026-05-30
 3. **Tommaseo, 'La Corte di cassazione sulla sindrome di alienazione parentale: è colpa d'autore? Nota a Corte di cassazione 17 maggio 2021 n. 13217, Pres. Genovese, est. Caiazzo'** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/1759-la-corte-di-cassazione-sulla-sindrome-di-alienazione-parentale-e-colpa-d-autore-nota-a-corte-di-cassazione-17-maggio-2021-n-13217-pres-genovese-est-caiazzo> (Giustizia Insieme) [it] — accessed 2026-05-30
-4. **Il Sole 24 Ore — NT+ Diritto, 'La Cassazione frena sulla Sindrome da alienazione parentale (PAS): stop a sillogismi implausibili'** — <https://ntplusdiritto.ilsole24ore.com/art/la-cassazione-frena-sindrome-alienazione-parentale-pas-stop-sillogismi-implausibili-AE93sxK> (Il Sole 24 Ore — NT+ Diritto) [it] — accessed 2026-05-30
+4. **Il Sole 24 Ore — NT+ Diritto, 'La [Cassazione](https://www.cortedicassazione.it/) frena sulla Sindrome da alienazione parentale (PAS): stop a sillogismi implausibili'** — <https://ntplusdiritto.ilsole24ore.com/art/la-cassazione-frena-sindrome-alienazione-parentale-pas-stop-sillogismi-implausibili-AE93sxK> (Il Sole 24 Ore — NT+ Diritto) [it] — accessed 2026-05-30
 5. **Alley Oop — Il Sole 24 Ore, 'Cassazione sconfessa la Pas, controverso il costrutto scientifico'** — <https://alleyoop.ilsole24ore.com/2021/05/19/cassazione-sconfessa-la-pas-controverso-costrutto-scientifico/> (Il Sole 24 Ore — Alley Oop) [it] — accessed 2026-05-30
 6. **Studio Donne, 'La PAS non esiste: la Cassazione blocca la sindrome da alienazione parentale'** — <https://studiodonne.it/2021/05/31/la-pas-non-esiste-la-cassazione-blocca-la-sindrome-da-alienazione-parentale/> (Studio Donne) [it] — accessed 2026-05-30
 7. **D.i.Re — Donne in Rete contro la violenza, 'Violenza, PAS. Ordinanza della Cassazione fondamentale'** — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/> (D.i.Re ONG) [it] — accessed 2026-05-30
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

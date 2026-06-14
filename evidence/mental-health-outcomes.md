@@ -223,7 +223,7 @@ Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alien
 
 **Honest caveat.** Foundational descriptive qualitative work; self-selected sample; not prevalence-grade evidence. Often cited as the origin of the "seven harms" framing.
 
-### 5.2 Verrocchio, Baker & Marchetti (2018) — exposure at different developmental periods
+### 5.2 Verrocchio, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Marchetti (2018) — exposure at different developmental periods
 
 **Citation.** Verrocchio, M. C., Baker, A. J. L., & Marchetti, D. (2018). Adult report of childhood exposure to parental alienation at different developmental time periods. *Journal of Family Therapy*, 40(4), 602–618. https://doi.org/10.1111/1467-6427.12192
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

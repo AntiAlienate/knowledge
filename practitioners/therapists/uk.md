@@ -59,7 +59,7 @@ London · England · Co-founder and partner, Family Separation Clinic LLP; indep
 
 **Contact:** https://www.nickwoodall.net/contact
 
-*Notes: [HCPC](https://www.hcpc-uk.org/) / BPS chartered status not publicly confirmed; assumed unregulated relative to Re Y regulatory bar. Same post-Re Y instruction exposure as Karen Woodall.*
+*Notes: [HCPC](https://www.hcpc-uk.org/) / [BPS](https://www.bps.org.uk/) chartered status not publicly confirmed; assumed unregulated relative to Re Y regulatory bar. Same post-Re Y instruction exposure as Karen Woodall.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.woodall-karen`, `practitioner:de.rucker-stefan`
 
@@ -69,7 +69,7 @@ London · England · Co-founder and partner, Family Separation Clinic LLP; indep
 *DCounsPsy; CPsychol; AFBPsS; [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist (PYL protected title); Deputy Chair BPS Training Committee for Counselling Psychology; BPS Expert Witness Advisory Group*
 Teesside · England · Principal Psychologist and founder, Family Psychology Solutions CIC (Teesside University-supported)
 
-**Stance:** The only UK CPsychol + [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist with a sustained PA-specific publication record. PhD thesis (Cardiff Metropolitan) 'Powerlessness, betrayal, abuse: The trauma of parental alienation' frames PA as trauma; BPS The Psychologist series articulates a recognition-camp clinical position. Distinguished from the Woodalls precisely because she meets the Re Y [2026] EWFC 38 regulatory bar — HCPC + CPsychol + AFBPsS + BPS Expert Witness Advisory Group. Position is recognition-camp; survives the post-Re Y instruction test.
+**Stance:** The only UK CPsychol + [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist with a sustained PA-specific publication record. PhD thesis (Cardiff Metropolitan) 'Powerlessness, betrayal, abuse: The trauma of parental alienation' frames PA as trauma; BPS The Psychologist series articulates a recognition-camp clinical position. Distinguished from the Woodalls precisely because she meets the Re Y [2026] EWFC 38 regulatory bar — [HCPC](https://www.hcpc-uk.org/) + CPsychol + AFBPsS + BPS Expert Witness Advisory Group. Position is recognition-camp; survives the post-Re Y instruction test.
 
 **Publications:**
 - Powerlessness, betrayal, abuse: The trauma of parental alienation (DCounsPsy thesis) (2014) — *Cardiff Metropolitan University*
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
