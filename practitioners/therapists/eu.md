@@ -319,7 +319,7 @@
 - **Registration number:** **not publicly displayed**
 - **Specialty:** Clinical psychology; forensic clinical psychology; **parental alienation as psychological child abuse** in the [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet framework; long-term mental-health outcomes of PA
 - **Stance:** recognition
-- **Stance source:** [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) *Italian college students' recollections of parental alienation: A retrospective study*, *Children and Youth Services Review* / related Chieti-sample paper — Italian summary http://www.alienazione.genitoriale.com/studi-empirici-sullalienazione-parentale-in-italia-maria-cristina-verrocchio-universita-di-chieti/ ; Verrocchio & Marchetti, *L'intervento nei casi di alienazione genitoriale* https://www.alienazione.genitoriale.com/lintervento-nei-casi-di-alienazione-genitoriale-maria-cristina-verrocchio-daniela-marchetti/ ; AIPG profile https://aipgitalia.org/teams/maria-cristina-verrocchio/ ; PASG membership cited in Italian press
+- **Stance source:** [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) *Italian college students' recollections of parental alienation: A retrospective study*, *Children and Youth Services Review* / related Chieti-sample paper — Italian summary http://www.alienazione.genitoriale.com/studi-empirici-sullalienazione-parentale-in-italia-maria-cristina-verrocchio-universita-di-chieti/ ; Verrocchio & Marchetti, *L'intervento nei casi di alienazione genitoriale* https://www.alienazione.genitoriale.com/lintervento-nei-casi-di-alienazione-genitoriale-maria-cristina-verrocchio-daniela-marchetti/ ; AIPG profile https://aipgitalia.org/teams/maria-cristina-verrocchio/ ; [PASG](https://pasg.info/) membership cited in Italian press
 - **Programs / publications:**
   - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) — first peer-reviewed Italian-sample PA mental-health study (n=257, Chieti)
   - Verrocchio & Marchetti — Italian-language intervention guidance
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

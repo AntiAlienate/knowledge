@@ -46,7 +46,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 ### 1.2 V61.20 / Z62.820 — Parent-Child Relational Problem
 
-**Location in [DSM-5](https://www.appi.org/products/dsm).** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, sub-section "Relational Problems," DSM-5 pages 715–716 ([DSM-5-TR](https://www.appi.org/products/dsm) ~ pp. 811).
+**Location in [DSM-5](https://www.appi.org/products/dsm).** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, sub-section "Relational Problems," [DSM-5](https://www.appi.org/products/dsm) pages 715–716 ([DSM-5-TR](https://www.appi.org/products/dsm) ~ pp. 811).
 
 **DSM-5 use criterion, verbatim.**
 
@@ -183,7 +183,7 @@ That is the operative WHO instruction. QE52.0 is the WHO-blessed code.
 
 ---
 
-### 2.4 ICD-11 vs. ICD-10-CM crosswalk for U.S. clinicians
+### 2.4 [ICD-11](https://icd.who.int/) vs. ICD-10-CM crosswalk for U.S. clinicians
 
 Many U.S. clinical billing systems still operate on ICD-10-CM (not yet ICD-11). The ICD-10-CM analogues in current U.S. billing are:
 
@@ -243,7 +243,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 **EU.** ICD-10/ICD-11 dominant. Multiple Member State court bodies have explicitly criticised "PAS" as a diagnostic label (Italian Supreme Court [Cassazione](https://www.cortedicassazione.it/) No. 9691/2022; Spanish 2021 LO 8/2021 / Ley Rhodes prohibition on the use of "PAS" or unfounded approaches to PA in custody decisions involving abuse allegations; see cross-reference). Clinical coding under QE52.0 is widespread in EU child-mental-health practice.
 
-**Canada.** DSM-5-TR dominant in clinical practice; ICD-10-CA for billing. Provincial child-welfare statutes recognise "emotional harm" as a child-protection ground (e.g., Ontario *Child, Youth and Family Services Act, 2017* s. 74(2)(f)), which provides a statutory hook that does not depend on DSM/ICD coding at all.
+**Canada.** [DSM-5-TR](https://www.appi.org/products/dsm) dominant in clinical practice; ICD-10-CA for billing. Provincial child-welfare statutes recognise "emotional harm" as a child-protection ground (e.g., Ontario *Child, Youth and Family Services Act, 2017* s. 74(2)(f)), which provides a statutory hook that does not depend on DSM/ICD coding at all.
 
 ---
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

@@ -13,6 +13,8 @@ Cross-jurisdictional comparative materials for PA-context family law.
 - [Case Law](../case-law/) — statutes and judgments with verbatim text
 - [Evidence](../evidence/) — research-grounded analyses
 
+
+
 <!-- AA-CITE-START -->
 
 ---
@@ -33,10 +35,10 @@ Cross-jurisdictional comparative materials for PA-context family law.
 
 ## Related on antialienate.com
 
-- [Global Crackdown Parental Alienation Laws](https://www.antialienate.com/blog/global-crackdown-parental-alienation-laws)
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Global Crackdown Parental Alienation Laws](https://www.antialienate.com/blog/global-crackdown-parental-alienation-laws)
 - [Parental Alienation Laws By Country](https://www.antialienate.com/blog/parental-alienation-laws-by-country)
-- [People Against Parental Alienation Global Movement](https://www.antialienate.com/blog/people-against-parental-alienation-global-movement)
-- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
 
 <!-- AA-CROSSLINK-END -->

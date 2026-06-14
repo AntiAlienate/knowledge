@@ -87,7 +87,7 @@
 
 ### 2.2 The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) rebuttals (2022)
 
-**Citation 1.** Meier, J. S., Dickson, S., O'Sullivan, C., & Rosen, L. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(3-4), 295–317. https://doi.org/10.1080/26904586.2022.2036286 — NIJ archive: https://nij.ojp.gov/library/publications/trouble-harman-and-lorandos-parental-alienation-allegations-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051833
+**Citation 1.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C., & Rosen, L. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(3-4), 295–317. https://doi.org/10.1080/26904586.2022.2036286 — NIJ archive: https://nij.ojp.gov/library/publications/trouble-harman-and-lorandos-parental-alienation-allegations-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051833
 
 **Citation 2.** Meier, J. S., Dickson, S., O'Sullivan, C. S., & Rosen, L. (2022). Harman and Lorandos' false critique of Meier et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2). https://doi.org/10.1080/26904586.2022.2086659 — OJP: https://www.ojp.gov/library/publications/harman-and-lorandos-false-critique-meier-et-als-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540319
 
@@ -305,7 +305,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ### 8.4 Low confidence / not established
 
 - **No published evidence that any single reform package solves the forensic problem in any jurisdiction.** Spain's 2021 statutory prohibition (A/HRC/53/36 ¶48) imperfectly implemented; Australia's 2023–2024 reforms too recent; Brazil's repeal of Lei 12.318/2010 still pending.
-- **Evaluators are not uniformly biased or under-trained.** Saunders 2015 documents substantial variability; ~23% focus on coercive-controlling abuse and ~38% always use standardised IPV screening. Blanket condemnation of the profession is not supported.
+- **Evaluators are not uniformly biased or under-trained.** [Saunders](https://www.ovw.usdoj.gov/) 2015 documents substantial variability; ~23% focus on coercive-controlling abuse and ~38% always use standardised IPV screening. Blanket condemnation of the profession is not supported.
 - **PA does sometimes occur as a real phenomenon distinct from justified estrangement.** [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 explicit: "there are cases where one parent may have primary responsibility for 'alienating' a child from the other parent." The honest critique is not that PA doesn't exist but that (i) it lacks diagnostic validity, (ii) no defensible prevalence estimate, (iii) most empirical research fails to distinguish it from justified estrangement, and (iv) its forensic use in US courts has demonstrably operated against abuse-alleging mothers in a gender-asymmetric way.
 
 ---
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

@@ -256,7 +256,7 @@ Munich (DJI environment) · Bayern · DJI environment (specific institutional af
 *Dr. (psychologist); DJI Abteilung Familie und Familienpolitik. Specific Approbation not publicly confirmed.*
 Munich · Bayern · Deutsches Jugendinstitut (DJI) Munich, Abteilung Familie und Familienpolitik
 
-**Stance:** Co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the article cited by BVerfG 17.11.2023 — 1 BvR 1076/23. Listed here for completeness of the five-author critique article; not an independent first-author voice on PA in the literature.
+**Stance:** Co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the article cited by [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23. Listed here for completeness of the five-author critique article; not an independent first-author voice on PA in the literature.
 
 **Publications:**
 - Verdorbener Wein in neuen Schlauchen (2023) — *ZKJ 2023 (with Zimmermann, Fichtner, Walper, Kindler)* — <https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869>
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

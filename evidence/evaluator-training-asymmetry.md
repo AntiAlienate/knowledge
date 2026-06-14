@@ -118,7 +118,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 > "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; [Saunders](https://www.ovw.usdoj.gov/) et al., 2011). In a 2003 survey (Bow & Boxer), nearly all had IPV education and they attended a median of four seminars and read a median of 18 books or articles regarding IPV."
 
-**Verbatim on the National Council of Juvenile and Family Court Judges guidebook (Dalton, Drozd, & Wong 2006), quoted via Saunders (pp. 78-79).**
+**Verbatim on the National Council of Juvenile and Family Court Judges guidebook (Dalton, Drozd, & Wong 2006), quoted via [Saunders](https://www.ovw.usdoj.gov/) (pp. 78-79).**
 
 > "Domestic violence is its own specialty. Qualification as an expert in the mental health field or as a family law attorney does not necessarily include competence in assessing the presence of domestic violence, its impact on those directly and indirectly affected by it, or its implications for the parenting of each party. And even though some jurisdictions are now requiring custody evaluators to take a minimum amount of training in domestic violence, that 'basic training' by itself is unlikely to qualify an evaluator as an expert, or even assure basic competence, in such cases."
 
@@ -249,7 +249,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 ---
 
-## 5. The Meier 2020 follow-on data on evaluator-appointment effects
+## 5. The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) follow-on data on evaluator-appointment effects
 
 **Cross-reference.** The Meier 2020 study is treated in full in `evidence-forensic-operation-in-courts.md` §1; only the evaluator-specific aspects are excerpted here.
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

@@ -420,8 +420,8 @@ Contributor-invitation content. The literature converges on these elements:
 - Bernet, von Boch-Galhau, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Morrison (2010), DSM-V / [ICD-11](https://icd.who.int/): https://doi.org/10.1080/01926180903586583
 - Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015), SCL-90-R Italian: https://doi.org/10.1111/1556-4029.12681 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 - Verrocchio, Marchetti & Fulcheri (2015): https://doi.org/10.3389/fpsyg.2015.01760
-- Verrocchio, Baker & Bernet (2016): https://doi.org/10.1111/1556-4029.13046 — https://pubmed.ncbi.nlm.nih.gov/27122408/
-- Saini, Johnston, Fidler & Bala (2016): https://doi.org/10.1093/med:psych/9780199396580.003.0013 (open PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf)
+- Verrocchio, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Bernet (2016): https://doi.org/10.1111/1556-4029.13046 — https://pubmed.ncbi.nlm.nih.gov/27122408/
+- [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016): https://doi.org/10.1093/med:psych/9780199396580.003.0013 (open PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf)
 - Templer, Matthewson, Haines & Cox (2017): https://doi.org/10.1111/1467-6427.12137
 - Bentley & Matthewson (2020): https://doi.org/10.1080/01926187.2020.1775531
 - Harman & Lorandos (2021): https://doi.org/10.1037/law0000301
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

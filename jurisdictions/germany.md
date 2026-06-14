@@ -97,7 +97,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ## Sources
 
-1. **BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17. November 2023 - 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de]
+1. **[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss der 2. Kammer des Ersten Senats vom 17. November 2023 - 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de]
 2. **Zimmermann/Walper/Fichtner/Lux/Kindler — Zur Kritik am Konstrukt 'Parental Alienation' / 'Eltern-Kind-Entfremdung'** — <https://www.dji.de/themen/familie/eltern-kind-entfremdung-pa.html> (Zeitschrift für Kindschaftsrecht und Jugendhilfe (ZKJ) / Deutsches Jugendinstitut (DJI)) [de]
 3. **Deutsches Jugendinstitut — Themenseite Familie / Eltern-Kind-Entfremdung** — <https://www.dji.de/> (DJI München) [de]
 4. **OLG Frankfurt am Main — Pressemitteilung zur Senatsentscheidung 7 UF 88/25 vom 5.1.2026** — <https://ordentliche-gerichtsbarkeit.hessen.de/olg-frankfurt/presse> (Oberlandesgericht Frankfurt am Main) [de]
@@ -119,6 +119,8 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -46,7 +46,7 @@ London · England · Co-founder and lead therapist, Family Separation Clinic (Lo
 *MA Psychodynamic / Psychoanalytic Counselling (University of London); Therapeutic-mediator accreditation (School of Psychotherapy & Counselling Psychology, Regents University London); [HCPC](https://www.hcpc-uk.org/) / [BPS](https://www.bps.org.uk/) chartered status not publicly confirmed*
 London · England · Co-founder and partner, Family Separation Clinic LLP; independent psychotherapist
 
-**Stance:** Co-architect of the dominant UK PA-recognition clinical model. Co-author with Karen Woodall of Understanding Parental Alienation (Charles C. Thomas, 2017); co-trainer on the Family Separation Clinic's international PA practitioner training. Position is classical recognition; same Re Y [2026] EWFC 38 regulatory exposure as Karen Woodall — neither [HCPC](https://www.hcpc-uk.org/)-registered nor BPS-chartered.
+**Stance:** Co-architect of the dominant UK PA-recognition clinical model. Co-author with Karen Woodall of Understanding Parental Alienation (Charles C. Thomas, 2017); co-trainer on the Family Separation Clinic's international PA practitioner training. Position is classical recognition; same Re Y [2026] EWFC 38 regulatory exposure as Karen Woodall — neither [HCPC](https://www.hcpc-uk.org/)-registered nor [BPS](https://www.bps.org.uk/)-chartered.
 
 **Publications:**
 - Understanding Parental Alienation: Learning to Cope, Helping to Heal (2017) — *Charles C. Thomas Publisher (with Karen Woodall)*
@@ -69,7 +69,7 @@ London · England · Co-founder and partner, Family Separation Clinic LLP; indep
 *DCounsPsy; CPsychol; AFBPsS; [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist (PYL protected title); Deputy Chair BPS Training Committee for Counselling Psychology; BPS Expert Witness Advisory Group*
 Teesside · England · Principal Psychologist and founder, Family Psychology Solutions CIC (Teesside University-supported)
 
-**Stance:** The only UK CPsychol + HCPC-registered Counselling Psychologist with a sustained PA-specific publication record. PhD thesis (Cardiff Metropolitan) 'Powerlessness, betrayal, abuse: The trauma of parental alienation' frames PA as trauma; BPS The Psychologist series articulates a recognition-camp clinical position. Distinguished from the Woodalls precisely because she meets the Re Y [2026] EWFC 38 regulatory bar — HCPC + CPsychol + AFBPsS + BPS Expert Witness Advisory Group. Position is recognition-camp; survives the post-Re Y instruction test.
+**Stance:** The only UK CPsychol + [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist with a sustained PA-specific publication record. PhD thesis (Cardiff Metropolitan) 'Powerlessness, betrayal, abuse: The trauma of parental alienation' frames PA as trauma; BPS The Psychologist series articulates a recognition-camp clinical position. Distinguished from the Woodalls precisely because she meets the Re Y [2026] EWFC 38 regulatory bar — HCPC + CPsychol + AFBPsS + BPS Expert Witness Advisory Group. Position is recognition-camp; survives the post-Re Y instruction test.
 
 **Publications:**
 - Powerlessness, betrayal, abuse: The trauma of parental alienation (DCounsPsy thesis) (2014) — *Cardiff Metropolitan University*
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

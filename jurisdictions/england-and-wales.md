@@ -127,7 +127,7 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 11. **Becket Chambers — chambers website** — <https://www.becket-chambers.co.uk/> (Becket Chambers) [en]
 12. **iFLG — International Family Law Group LLP** — <https://www.iflg.uk.com/> (International Family Law Group) [en]
 13. **ACP-UK — Association of Clinical Psychologists UK** — <https://acpuk.org.uk/> (ACP-UK) [en]
-14. **HCPC — Health and Care Professions Council** — <https://www.hcpc-uk.org/> (HCPC) [en]
+14. **[HCPC](https://www.hcpc-uk.org/) — Health and Care Professions Council** — <https://www.hcpc-uk.org/> (HCPC) [en]
 15. **[Cafcass](https://www.cafcass.gov.uk/) — Children and Family Court Advisory and Support Service** — <https://www.cafcass.gov.uk/> ([Cafcass](https://www.cafcass.gov.uk/)) [en]
 16. **Family Justice Council — December 2024 finalised guidance on expert evidence in cases involving allegations of alienating behaviours** — <https://www.judiciary.uk/courts-and-tribunals/judiciary-organisation/judicial-committees/family-justice-council/> (Family Justice Council / Judicial Office) [en]
 17. **[BPS](https://www.bps.org.uk/) — British Psychological Society** — <https://www.bps.org.uk/> (British Psychological Society) [en]
@@ -147,6 +147,8 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

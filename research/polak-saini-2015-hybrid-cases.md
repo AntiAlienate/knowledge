@@ -122,7 +122,9 @@ These critiques are real but the alternative (forced binary classification of in
 
 By Alan Markson. Licensed under CC BY 4.0.
 
-Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+Disclaimer: This summary is educational, not clinical advice. The Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

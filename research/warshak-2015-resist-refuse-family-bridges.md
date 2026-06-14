@@ -102,7 +102,7 @@ The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 
 ## Sources
 
-- Warshak 2015 ten fallacies paper DOI: https://doi.org/10.1037/a0039247
+- [Warshak](https://warshak.com/family-bridges/) 2015 ten fallacies paper DOI: https://doi.org/10.1037/a0039247
 - Warshak 2010 [Family Bridges](https://warshak.com/family-bridges/) paper: https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1744-1617.2009.01288.x
 - Warshak 2020 false-positives paper DOI: https://doi.org/10.1037/law0000216
 - [Family Bridges](https://warshak.com/family-bridges/) program info: https://www.warshak.com/family-bridges/
@@ -113,6 +113,8 @@ The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. [Family Bridges](https://warshak.com/family-bridges/) and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

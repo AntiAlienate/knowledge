@@ -201,7 +201,7 @@ Denver · CO · Independent clinical psychology / consultation practice (Denver,
 
 ### Jennifer J. Harman, PhD
 *PhD (Social Psychology)*
-Fort Collins · CO · Associate Professor, Department of Psychology, Colorado State University; President, International Council on Shared Parenting; PASG Board
+Fort Collins · CO · Associate Professor, Department of Psychology, Colorado State University; President, International Council on Shared Parenting; [PASG](https://pasg.info/) Board
 
 **Stance:** [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) Psychological Bulletin paper is the most-cited PA prevalence claim in the recognition-camp literature. Empirical / prevalence-research framing; PASG Board member. Academic researcher, not clinically licensed. Entry corrects the v1.0 source-brief typo 'Jennifer Hardman, LMFT' — no such person is publicly verifiable; closest verifiable name is Harman.
 
@@ -349,7 +349,7 @@ Newport Beach · CA · Independent forensic psychology practice (Newport Beach, 
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)* — <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
 - Parenting Plan & Child Custody Evaluations: Using Decision Trees (2013) — *Professional Resource Press*
 - [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (co-editor) (2006) — *[AFCC](https://www.afccnet.org/)*
-- AFCC Guidelines for Examining Intimate Partner Violence (2016) — *AFCC*
+- [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) — *AFCC*
 
 **Verification:**
 - <https://lesliedrozd.com/>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -140,7 +140,7 @@ Köln · Nordrhein-Westfalen · Rechtsanwaltsgemeinschaft Hohenzollernring 25 (K
 **Stance:** Counsel of record (Bevollmächtigte) for the constitutional complainant in [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23, Beschluss vom 17.11.2023 (1. Senat, 3. Kammer). [BVerfG](https://www.bundesverfassungsgericht.de/) annulled OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' and therefore did not provide a kindeswohlorientierte basis. The only attorney in 2026 Germany with a published [BVerfG](https://www.bundesverfassungsgericht.de/) win that explicitly classifies PAS as pseudoscientific — the single named-counsel anchor for any DE constitutional-litigation outreach on PA / Eltern-Kind-Entfremdung.
 
 **Publications:**
-- BVerfG 1 BvR 1076/23, Beschluss vom 17.11.2023 — Bevollmächtigte for the constitutional complainant (2023) — *[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (1. Senat, 3. Kammer)* — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
+- [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23, Beschluss vom 17.11.2023 — Bevollmächtigte for the constitutional complainant (2023) — *[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (1. Senat, 3. Kammer)* — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
 
 **Verification:**
 - <https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2023/11/rk20231117_1bvr107623.pdf?__blob=publicationFile&v=1>
@@ -512,6 +512,8 @@ Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

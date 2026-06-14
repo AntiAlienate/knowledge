@@ -78,7 +78,7 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 
 ## Structural findings
 
-- L'Italia detiene la più strutturata giurisprudenza apicale dell'Unione Europea contro l'utilizzo della PAS in sede di CTU: la triade Cassazione Sez. I Civile (13217/2021 → 9691/2022 → 4595/2025) è la sequenza apicale più serrata in area UE — paragonabile a Spagna STS 519/2017 ma con tre pronunce ravvicinate anziché una singola, e con un calco lessicale-extender (Cass. 4595/2025) che ne estende la ratio anche quando i provvedimenti non pronunciano la sigla 'PAS'.
+- L'Italia detiene la più strutturata giurisprudenza apicale dell'Unione Europea contro l'utilizzo della PAS in sede di CTU: la triade [Cassazione](https://www.cortedicassazione.it/) Sez. I Civile (13217/2021 → 9691/2022 → 4595/2025) è la sequenza apicale più serrata in area UE — paragonabile a Spagna STS 519/2017 ma con tre pronunce ravvicinate anziché una singola, e con un calco lessicale-extender (Cass. 4595/2025) che ne estende la ratio anche quando i provvedimenti non pronunciano la sigla 'PAS'.
 - Lo Strasburgo-cluster italiano (Lombardo 2013, Strumia 2016, Improta 2017, e poi Bondavalli, Solarino, R.V.) costituisce la dimensione verticale-CEDU che complementa orizzontalmente la critica apicale Cassazione: l'Italia è simultaneamente la giurisdizione UE con la più articolata critica apicale alla PAS e quella con il cluster più consistente di condanne CEDU per deficit di enforcement dei provvedimenti di affidamento.
 - La Riforma Cartabia 2022 (D.Lgs. 149/2022, artt. 473-bis ss. c.p.c.) ha codificato in via legislativa ciò che Cass. 9691/2022 aveva enucleato in via interpretativa: il CTU non può accertare la violenza domestica al posto del giudice e deve attenersi a protocolli metodologicamente validati. Lo spazio operativo per CTU PAS-orientate si restringe ulteriormente sul piano normativo.
 - Il polo critico-PAS italiano ha tre anchor istituzionali distinti e convergenti: (i) CISMAI come rete clinico-istituzionale di servizi anti-maltrattamento; (ii) la linea editoriale di Maltrattamento e Abuso all'Infanzia (FrancoAngeli); (iii) GREVIO Italy 2020 come anchor sovranazionale. ONPI, D.i.Re e Telefono Rosa forniscono il vettore della società civile.
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
