@@ -197,7 +197,7 @@ From the PMC full text (§1.1):
 
 **Verified.** Within-sample percentages from n = 20 qualitative interviews. Not a population prevalence.
 
-### 4.2 Ben-Ami & Baker (2012) — alcohol abuse
+### 4.2 Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2012) — alcohol abuse
 
 Ben-Ami & Baker (§3.1) reported higher alcohol-abuse rates in PA-exposed adults than in the comparison group. **[secondary verification only]** for specific effect-size statistics.
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

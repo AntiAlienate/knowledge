@@ -366,7 +366,7 @@ Contributor-invitation content. The literature converges on these elements:
 ### High confidence
 
 - **PA-pattern behaviour occurs** and is recognised by professionals across both pro-recognition and middle-position camps. [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2016, p. 422): "respondents recognized the lack of sound research to support the concept, although they acknowledged the existence of alienation dynamics within the child custody field generally and in their caseloads specifically."
-- **Children and adults affected by sustained PA-pattern behaviour show measurable elevations in depression, anxiety, PTSD symptoms, suicidality** — across multiple study designs (Verrocchio 2015, 2016; Bernet, Baker & Verrocchio 2015; Verhaar, Matthewson & Bentley 2022; Harman 2019; Hine 2026 UK).
+- **Children and adults affected by sustained PA-pattern behaviour show measurable elevations in depression, anxiety, PTSD symptoms, suicidality** — across multiple study designs (Verrocchio 2015, 2016; Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio 2015; Verhaar, Matthewson & Bentley 2022; Harman 2019; Hine 2026 UK).
 - **The PA construct is not adequately distinguished from estrangement / alignment / age-appropriate preference / IPV-exposure-rejection** in the published literature using validated instruments.
 
 ### Moderate confidence
@@ -376,7 +376,7 @@ Contributor-invitation content. The literature converges on these elements:
 
 ### Low confidence
 
-- **Any specific population-prevalence percentage** for PA in the general population. Saini et al. (2016) verbatim: "to date there are no defensible estimates of the prevalence or incidence of the problem."
+- **Any specific population-prevalence percentage** for PA in the general population. [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2016) verbatim: "to date there are no defensible estimates of the prevalence or incidence of the problem."
 - **The Bernet 1% / 740,000 figure** as a measurement (it is a back-of-envelope deduction, not a measurement).
 - **The "22 million parents" extrapolation** without the question-wording dependence flagged.
 - **The 75% / 98.3% / 59% / 39% figures** without the operational-definition breadth disclosed.
@@ -393,7 +393,7 @@ Contributor-invitation content. The literature converges on these elements:
 ### Acceptable framings
 
 - "Bernet (2010) **estimated** approximately 740,000 US children may be affected by PA — derived by multiplying ~20% of children in separated households × ~25% in high-conflict disputes × ~25% who become alienated. A probability estimate, not a measurement."
-- "Harman et al. (2016) found in the first US representative-poll that 13.4% of US parents reported **feeling targeted** by PABs, extrapolating to ~22 million. Their 2019 three-poll follow-up produced higher figures (35.5% US / 32% Canada / 39.1% non-reciprocating US). The authors caution these are self-reports of feeling targeted, not measurements of confirmed alienation."
+- "[Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)(2016) found in the first US representative-poll that 13.4% of US parents reported **feeling targeted** by PABs, extrapolating to ~22 million. Their 2019 three-poll follow-up produced higher figures (35.5% US / 32% Canada / 39.1% non-reciprocating US). The authors caution these are self-reports of feeling targeted, not measurements of confirmed alienation."
 - "Hine, Harman et al. (2025) found that depending on question-wording, **between 39% and 59% of UK separated parents** reported PAB exposure, with 36.5% non-reciprocal targets. The range itself is the most important finding."
 - "Saini, Johnston, Fidler & Bala (2016), reviewing 58 empirical studies using GRADE-adapted criteria, concluded: **'to date there are no defensible estimates of the prevalence of parental alienation.'**"
 
@@ -425,7 +425,7 @@ Contributor-invitation content. The literature converges on these elements:
 - Templer, Matthewson, Haines & Cox (2017): https://doi.org/10.1111/1467-6427.12137
 - Bentley & Matthewson (2020): https://doi.org/10.1080/01926187.2020.1775531
 - Harman & Lorandos (2021): https://doi.org/10.1037/law0000301
-- Meier et al. (2022) "Trouble with H&L": https://doi.org/10.1080/26904586.2022.2036286
+- [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2022) "Trouble with H&L": https://doi.org/10.1080/26904586.2022.2036286
 - Meier et al. (2022) "False critique": https://doi.org/10.1080/26904586.2022.2086659
 - Alsalem A/HRC/53/36: https://www.ohchr.org/en/documents/thematic-reports/ahrc5336-custody-violence-against-women-and-violence-against-children (PDF: https://documents.un.org/doc/undoc/gen/g23/070/18/pdf/g2307018.pdf)
 - Neilson (2018) FREDA report on Canadian PA cases: cited by Alsalem fn 23.
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

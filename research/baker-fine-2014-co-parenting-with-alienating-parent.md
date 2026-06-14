@@ -94,7 +94,9 @@ Where Bernet diagnoses and Harman conceptualizes, [Baker](https://pubmed.ncbi.nl
 
 By Alan Markson. Licensed under CC BY 4.0.
 
-Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+Disclaimer: This summary is educational, not therapeutic or legal advice. The [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+
 
 
 

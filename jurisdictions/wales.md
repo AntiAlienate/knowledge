@@ -32,7 +32,7 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 
 ## Professional regulators
 
-- **[Cafcass Cymru](https://www.cafcass.gov.uk/) — Welsh Government Sponsored Public Body** — Welsh family-court advisory and support service. Cafcass Cymru policy on PA derives from the Doughty/Maxwell/Slater 2018 Welsh-Government-commissioned review framing PA as a 'belief system' rather than clinical syndrome. Methodologically cautious institutional position. — <https://gov.wales/cafcass-cymru>
+- **[Cafcass Cymru](https://www.cafcass.gov.uk/) — Welsh Government Sponsored Public Body** — Welsh family-court advisory and support service. [Cafcass Cymru](https://www.cafcass.gov.uk/) policy on PA derives from the Doughty/Maxwell/Slater 2018 Welsh-Government-commissioned review framing PA as a 'belief system' rather than clinical syndrome. Methodologically cautious institutional position. — <https://gov.wales/cafcass-cymru>
 - **Welsh Government — Department for Social Justice + Social Services and Integration Directorate** — Welsh Government commissioned the Doughty/Maxwell/Slater 2018 literature review on PA. Welsh-Government-level institutional engagement positioning PA as policy-research question rather than clinical category. — <https://gov.wales/>
 - **Welsh Women's Aid** — Welsh federation-aligned women's-aid body. Carries federation-aligned critique-camp position for Welsh-language outreach. Subsidiary to Women's Aid Federation England positioning. — <https://welshwomensaid.org.uk/>
 - **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — UK-wide statutory regulator for practitioner psychologists. Applies in Wales. No Welsh-specific PA position. — <https://www.hcpc-uk.org/>
@@ -87,6 +87,8 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

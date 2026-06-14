@@ -128,7 +128,7 @@ Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University Schoo
 
 **Contact:** william.bernet@vanderbilt.edu
 
-*Notes: Vanderbilt faculty profile verifies academic affiliation; per profile testified ~300 times in 24 states. Post-emeritus TN psychiatric license status not publicly confirmed. Global PASG network leader.*
+*Notes: Vanderbilt faculty profile verifies academic affiliation; per profile testified ~300 times in 24 states. Post-emeritus TN psychiatric license status not publicly confirmed. Global [PASG](https://pasg.info/) network leader.*
 
 **See also:** `jurisdiction:united-states`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `practitioner:us.warshak-richard`, `practitioner:us.baker-amy-jl`
 
@@ -343,7 +343,7 @@ San Jose · CA · Professor Emeritus, Department of Justice Studies, San Jose St
 *PhD; CA Licensed Psychologist; CA LMFT*
 Newport Beach · CA · Independent forensic psychology practice (Newport Beach, CA); [AFCC](https://www.afccnet.org/) Board of Directors; OBFC Board
 
-**Stance:** Decision-tree methodology for differential analysis of family violence, alienation, and gatekeeping. Co-edited the [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (2006) and [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) — [AFCC](https://www.afccnet.org/)-canonical practitioner. 2013 AFCC John E. Van Duzer Distinguished Service Award.
+**Stance:** Decision-tree methodology for differential analysis of family violence, alienation, and gatekeeping. Co-edited the [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (2006) and [AFCC](https://www.afccnet.org/) Guidelines for Examining Intimate Partner Violence (2016) — [AFCC](https://www.afccnet.org/)-canonical practitioner. 2013 [AFCC](https://www.afccnet.org/) John E. Van Duzer Distinguished Service Award.
 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)* — <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
@@ -456,7 +456,7 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 
 ## Excluded (with documented reason)
 
-- **Randy Rand, EdD** — Regulatory exclusion: California Board of Psychology recorded his psychology licence as inactive since 2009 following BOP disciplinary action (findings included gross negligence, unprofessional conduct, and dishonesty). The Family Bridges / Family Workshop programme — originally co-developed with Richard [Warshak](https://warshak.com/family-bridges/) — subsequently operated as an 'educational workshop' framework outside California Board of Psychology oversight. This is the canonical US regulatory disclosure for any reader auditing reunification-camp credentials. Licence status verifiable via CA DCA license search.
+- **Randy Rand, EdD** — Regulatory exclusion: California Board of Psychology recorded his psychology licence as inactive since 2009 following BOP disciplinary action (findings included gross negligence, unprofessional conduct, and dishonesty). The [Family Bridges](https://warshak.com/family-bridges/) / Family Workshop programme — originally co-developed with Richard [Warshak](https://warshak.com/family-bridges/) — subsequently operated as an 'educational workshop' framework outside California Board of Psychology oversight. This is the canonical US regulatory disclosure for any reader auditing reunification-camp credentials. Licence status verifiable via CA DCA license search.
   - Primary source: <https://search.dca.ca.gov/>
 - **Richard A. Gardner, MD** — Deceased (2003). Historical originator of the term 'Parental Alienation Syndrome' (PAS) and the eight-symptom Gardner framework; foundational to the recognition camp but not active practice. Retained in excluded[] as the canonical historical anchor; cited in nearly all subsequent PA literature on both recognition and critique sides.
   - Primary source: <https://www.nytimes.com/2003/06/09/nyregion/richard-gardner-72-dies-cited-syndrome-in-custody-fights.html>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

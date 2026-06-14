@@ -34,7 +34,7 @@
 - **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (where there is sufficient evidence that the abuse has occurred).
 - **V995.51 / T76.32XA — Child Psychological Abuse, Suspected** (where there is a clinical concern but evidence is incomplete).
 
-**Encounter codes.** DSM-5 also provides separate ICD-10-CM "encounter" codes for:
+**Encounter codes.** [DSM-5](https://www.appi.org/products/dsm) also provides separate ICD-10-CM "encounter" codes for:
 - **Z69.010** — Encounter for mental health services for victim of parental child abuse;
 - **Z69.020** — Encounter for mental health services for victim of non-parental child abuse;
 - **Z69.011** — Encounter for mental health services for perpetrator of parental child abuse.
@@ -167,7 +167,7 @@ That is the operative WHO instruction. QE52.0 is the WHO-blessed code.
 
 > "Personal history of non-accidental verbal or symbolic act that results in significant psychological harm."
 
-(Source: WHO ICD-11 MMS entity 1334495652, mirrored at https://www.findacode.com/icd-11/code-1334495652.html.) Listed synonyms include "Personal history of psychological maltreatment," "Child emotional abuse," "Child verbal abuse," and "Hostility towards or scapegoating of child."
+(Source: WHO [ICD-11](https://icd.who.int/) MMS entity 1334495652, mirrored at https://www.findacode.com/icd-11/code-1334495652.html.) Listed synonyms include "Personal history of psychological maltreatment," "Child emotional abuse," "Child verbal abuse," and "Hostility towards or scapegoating of child."
 
 **Operational use.** QE82.2 is the ICD-11 code used by clinicians treating **adult survivors** of childhood PA-pattern conduct that crossed the psychological-abuse threshold. Where the child is still a minor and active alienation is occurring, the appropriate live coding is **QE52.0** (caregiver-child relationship problem) combined where warranted with substantive mental-health diagnoses (PTSD, depressive disorder, adjustment disorder).
 
@@ -231,7 +231,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 ### 3.3 Cross-jurisdictional clinical practice
 
-**United States.** DSM-5-TR is dominant in U.S. clinical practice. Forensic evaluators code in DSM-5-TR narrative + ICD-10-CM for billing. Most state custody evaluation rules ([AFCC](https://www.afccnet.org/) Model Standards, state-specific custody-evaluator licensing) require the evaluator to identify the diagnostic basis for any clinical finding; "V61.20 + V61.29" reports are routine, "V995.51" reports are less common but defensibly used where the evidentiary threshold is met.
+**United States.** [DSM-5-TR](https://www.appi.org/products/dsm) is dominant in U.S. clinical practice. Forensic evaluators code in DSM-5-TR narrative + ICD-10-CM for billing. Most state custody evaluation rules ([AFCC](https://www.afccnet.org/) Model Standards, state-specific custody-evaluator licensing) require the evaluator to identify the diagnostic basis for any clinical finding; "V61.20 + V61.29" reports are routine, "V995.51" reports are less common but defensibly used where the evidentiary threshold is met.
 
 **United Kingdom.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service in England and Wales) takes the strongest publicly stated position of any major Western family-court services body: it explicitly avoids the term "parental alienation." [Cafcass](https://www.cafcass.gov.uk/) guidance, verbatim:
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

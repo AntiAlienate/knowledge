@@ -242,7 +242,7 @@ Wellesley · MA · Solo forensic practice (Wellesley/Boston, MA); Senior Fellow,
 *LCSW; JD; CA Certified Family Law Specialist (CFLS, 15 years per bio)*
 San Diego · CA · Co-founder and CINO, High Conflict Institute; faculty, Straus Institute for Dispute Resolution at Pepperdine Caruso School of Law; conjoint associate professor, University of Newcastle Law School (Australia)
 
-**Stance:** High Conflict Institute 'high-conflict personality' framework is the most-used neutral vocabulary in US family courts when neither pure-PA recognition nor pure-DV critique framing controls the case — bridge to the AFCC middle camp. 15 years as Certified Family Law Specialist with the State Bar of California. Author of multiple books on high-conflict personalities in family court. Primarily a trainer/author now per his bio; describes himself as 'co-founder and CINO' rather than as practising attorney.
+**Stance:** High Conflict Institute 'high-conflict personality' framework is the most-used neutral vocabulary in US family courts when neither pure-PA recognition nor pure-DV critique framing controls the case — bridge to the [AFCC](https://www.afccnet.org/) middle camp. 15 years as Certified Family Law Specialist with the State Bar of California. Author of multiple books on high-conflict personalities in family court. Primarily a trainer/author now per his bio; describes himself as 'co-founder and CINO' rather than as practising attorney.
 
 **Publications:**
 - High Conflict People in Legal Disputes (2nd ed.) (2016) — *Unhooked Books*
@@ -307,6 +307,8 @@ Vancouver · BC (Canada — cross-jurisdictional reference only) · Retired BC S
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

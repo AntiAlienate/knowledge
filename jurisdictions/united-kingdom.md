@@ -71,7 +71,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 1. **[UK Supreme Court](https://www.supremecourt.uk/)** — <https://www.supremecourt.uk/> ([UK Supreme Court](https://www.supremecourt.uk/)) [en]
 2. **Judiciary of the UK** — <https://www.judiciary.uk/> (Judiciary of the UK) [en]
 3. **UK Legislation** — <https://www.legislation.gov.uk/> (UK Government) [en]
-4. **Health and Care Professions Council (HCPC)** — <https://www.hcpc-uk.org/> (HCPC) [en]
+4. **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — <https://www.hcpc-uk.org/> (HCPC) [en]
 5. **General Medical Council (GMC)** — <https://www.gmc-uk.org/> (GMC) [en]
 6. **British Psychological Society ([BPS](https://www.bps.org.uk/))** — <https://www.bps.org.uk/> ([BPS](https://www.bps.org.uk/)) [en]
 
@@ -86,6 +86,8 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

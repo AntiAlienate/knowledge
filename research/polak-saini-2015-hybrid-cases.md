@@ -85,7 +85,7 @@ Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations
 
 ## Influence on Subsequent Practice
 
-Polak-Saini hybrid framing is now standard in:
+Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) hybrid framing is now standard in:
 - Canadian custody-evaluation practice
 - [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) practitioner guidelines
 - US court-appointed parenting coordinator training
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

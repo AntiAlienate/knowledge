@@ -208,6 +208,8 @@ The combination of (3.º), (4.º), (5.º), and (6.º) gives Spanish judges an ex
 - **Recent reforms:** Ley 15/2005 (modificación del divorcio y de la custodia compartida) · Ley Orgánica 8/2015 de protección de la infancia y la adolescencia (reforma del art. 158) · Ley 8/2021 de apoyo a las personas con discapacidad en el ejercicio de su capacidad jurídica (reformulación del art. 154 como "responsabilidad parental")
 - **Status:** Public domain — Spanish state statute; BOE consolidated texts are free for reproduction.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

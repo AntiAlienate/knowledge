@@ -60,7 +60,7 @@ The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017
 | 2021 | Italy | [Cassazione](https://www.cortedicassazione.it/) 13217/2021 | critique | PAS lacks scientific validity; cannot found custody restrictions |
 | 2022 | Italy | [Cassazione](https://www.cortedicassazione.it/) 9691/2022 | critique | PAS pseudoscientific fundamento; ordinary evidential verification required |
 | 2023 | Germany | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 | critique | SAP veraltet und wissenschaftlich widerlegt; PAS-Gutachten constitutionally untenable |
-| 2025 | Italy | Cassazione 4595/2025 | critique | Consolidating 13217+9691 critique line |
+| 2025 | Italy | [Cassazione](https://www.cortedicassazione.it/) 4595/2025 | critique | Consolidating 13217+9691 critique line |
 | 2025 | Poland | SN III CZP 20/25 | recognition (pro-enforcement, not-clinical) | Art. 598¹⁶ § 1 k.p.c. monetary sanction restored against alienating parent without clinical PAS |
 
 Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complements STS 519/2017 with statutory PA-inadmission language.
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

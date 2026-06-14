@@ -70,7 +70,7 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 - **2016** — Strumia c. Italia (CEDU, ric. n. 53377/13, 23 giugno 2016) — violazione art. 8 CEDU, enforcement cronicamente carente. — <https://hudoc.echr.coe.int/eng?i=001-163850>
 - **2017** — Improta c. Italia (CEDU, ric. n. 66396/14, 4 maggio 2017) — violazione art. 8 CEDU, ritardo nell'enforcement del regime visite con figlio in tenera età. — <https://hudoc.echr.coe.int/eng?i=001-173090>
 - **2020** — GREVIO Italy Baseline Evaluation Report (gennaio 2020) — il Consiglio d'Europa segnala esplicitamente l'uso improprio della PAS nei tribunali italiani della famiglia come fattore di vittimizzazione secondaria per donne sopravvissute a violenza domestica e per i loro figli. — <https://www.coe.int/en/web/istanbul-convention/italy>
-- **2021** — Cassazione, Sez. I Civile, ord. n. 13217 del 17 maggio 2021 (Genovese Pres. / Iofrida / Lamorgese / Caiazzo rel. / Scalia) — apre il triade apicale italiano critico-PAS cassando con rinvio decreto Corte d'Appello di Venezia fondato su CTU MMS. — <https://www.italgiure.giustizia.it/>
+- **2021** — [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ord. n. 13217 del 17 maggio 2021 (Genovese Pres. / Iofrida / Lamorgese / Caiazzo rel. / Scalia) — apre il triade apicale italiano critico-PAS cassando con rinvio decreto Corte d'Appello di Venezia fondato su CTU MMS. — <https://www.italgiure.giustizia.it/>
 - **2022** — Cassazione, Sez. I Civile, ord. n. 9691 del 24 marzo 2022 (Genovese Pres. / Caiazzo rel. / Parise / Scalia / Campese) — il provvedimento simbolo, caso Laura Massaro: il richiamo alla PAS e a ogni suo corollario, anche inconsapevole, non può dirsi legittimo. Battaglia simbolo delle reti italiane critico-PAS (Differenza Donna, Telefono Rosa). — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf>
 - **2022** — Riforma Cartabia — D.Lgs. 10 ottobre 2022 n. 149 (rito unitario delle persone, dei minorenni e delle famiglie, artt. 473-bis ss. c.p.c.) — codifica in via legislativa i vincoli metodologici al CTU e il divieto di delega dell'accertamento della violenza domestica al consulente. — <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;149>
 - **2022** — Bondavalli c. Italia / Solarino c. Italia / R.V. c. Italia — ulteriori violazioni Strasburgo dell'art. 8 CEDU che consolidano il cluster italiano post-Lombardo/Improta/Strumia. — <https://hudoc.echr.coe.int/>
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

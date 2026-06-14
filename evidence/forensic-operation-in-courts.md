@@ -79,7 +79,7 @@
 
 **Citation.** Harman, J. J., & Lorandos, D. (2021). Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law*, 27(2), 184–208 [sometimes paginated 187–208]. https://doi.org/10.1037/law0000301 — Preprint on ResearchGate: https://www.researchgate.net/publication/347071869 — Author publications page: https://jenniferjillharman.com/
 
-**Core claim.** Harman & Lorandos attempted to re-analyse and critique the Meier dataset/methodology and reported they could not replicate Meier's finding of systematic gender bias. **[secondary verification only]** for the full abstract verbatim; APA paywalled it at compilation.
+**Core claim.** Harman & Lorandos attempted to re-analyse and critique the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) dataset/methodology and reported they could not replicate Meier's finding of systematic gender bias. **[secondary verification only]** for the full abstract verbatim; APA paywalled it at compilation.
 
 **Honest disclosure.** Lorandos is a well-known U.S. attorney who has represented parents accused of being alienators and who has co-authored multiple pro-PA texts. Harman is a Colorado State University social psychologist publishing extensively in defence of the PA construct. This is relevant context for weighing the critique — not a reason to dismiss it.
 
@@ -295,7 +295,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ### 8.2 Moderate–high confidence
 
 - **The operation of PA cross-claims is gender-asymmetric in US courts.** Mother accuses, father cross-claims PA → she loses custody ~50%. Father accuses, mother cross-claims PA → he loses custody ~29% (latter not statistically significant due to small n). Meier 2020 Tables 5–6. Directionality unambiguous; magnitude qualified by appellate-bias caveat.
-- **Custody-evaluator and GAL recommendations are heavily determinative and systematically biased against abuse-alleging protective parents when evaluators lack DV training.** [Saunders](https://www.ovw.usdoj.gov/) 2015; Saunders/Faller/Tolman 2011; Silberg-Dallam 2019 (67% of judges cited evaluator/GAL who disbelieved abuse; 73% of GALs sided with perpetrator); Davis/O'Sullivan/Susser/Fields 2010.
+- **Custody-evaluator and GAL recommendations are heavily determinative and systematically biased against abuse-alleging protective parents when evaluators lack DV training.** [Saunders](https://www.ovw.usdoj.gov/) 2015; [Saunders](https://www.ovw.usdoj.gov/)/Faller/Tolman 2011; Silberg-Dallam 2019 (67% of judges cited evaluator/GAL who disbelieved abuse; 73% of GALs sided with perpetrator); Davis/O'Sullivan/Susser/Fields 2010.
 
 ### 8.3 Moderate confidence
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

@@ -199,3 +199,40 @@ The Brazilian PA Law has been internationally controversial. Recognition-camp co
 - **Statute citation:** Lei nº 12.318, de 26 de agosto de 2010 (DOU 27.8.2010, retificado 31.8.2010)
 - **Reform:** Lei nº 14.340, de 18 de maio de 2022 (revoked Art. 6(VII); added Art. 5 § 4º; added Art. 8-A; reformulated Art. 4 sole paragraph)
 - **Status:** Public domain — Brazilian federal law (Planalto.gov.br is the canonical government source).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+
+<!-- AA-CROSSLINK-END -->

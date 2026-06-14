@@ -71,7 +71,7 @@
 
 ### 1.4 Independent replication / evaluation
 
-**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on [Family Bridges](https://warshak.com/family-bridges/) are by [Warshak](https://warshak.com/family-bridges/) or his programme team. The Family Bridges Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers ([Warshak](https://warshak.com/family-bridges/) 2010; [Warshak](https://warshak.com/family-bridges/) 2019) plus the Warshak & Otis 2010 commentary and a [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2019 follow-up on coparenting ([Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
+**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on [Family Bridges](https://warshak.com/family-bridges/) are by [Warshak](https://warshak.com/family-bridges/) or his programme team. The [Family Bridges](https://warshak.com/family-bridges/) Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers ([Warshak](https://warshak.com/family-bridges/) 2010; [Warshak](https://warshak.com/family-bridges/) 2019) plus the [Warshak](https://warshak.com/family-bridges/) & Otis 2010 commentary and a [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2019 follow-up on coparenting ([Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
 
 ---
 
@@ -126,7 +126,7 @@ The 96.4% figure originates in the [Harman et al. ](https://pubmed.ncbi.nlm.nih.
 
 ### 3.3 Independent peer-reviewed evaluation of [TPFF](https://turningpointsforfamilies.com/)
 
-**Status: no independent peer-reviewed outcome evaluation of [TPFF](https://turningpointsforfamilies.com/) by a research team with no contact with [Gottlieb](https://turningpointsforfamilies.com/) has been identified.** The [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)evaluation was commissioned by [Gottlieb](https://turningpointsforfamilies.com/), who supplied all source materials. There is no published randomised trial, no matched-control study, and no long-term blinded outcome study of TPFF in the peer-reviewed literature as of compilation.
+**Status: no independent peer-reviewed outcome evaluation of [TPFF](https://turningpointsforfamilies.com/) by a research team with no contact with [Gottlieb](https://turningpointsforfamilies.com/) has been identified.** The [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)evaluation was commissioned by [Gottlieb](https://turningpointsforfamilies.com/), who supplied all source materials. There is no published randomised trial, no matched-control study, and no long-term blinded outcome study of [TPFF](https://turningpointsforfamilies.com/) in the peer-reviewed literature as of compilation.
 
 ---
 
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

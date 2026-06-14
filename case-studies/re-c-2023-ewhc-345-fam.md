@@ -100,7 +100,7 @@ Appeal under FPR 2010 against the order of HH Judge Lindsay Davies (Family Court
 
 **[102]** (en):
 
-> The difficulties that have arisen in these proceedings, where much time has been taken up at first instance and on appeal in attempting to evaluate Ms A's qualifications to discharge her instructions, indicate that work should be done to assist parties and the court at the initial stage of choosing an expert by establishing a template into which the basic qualifications of any 'psychologist' should be entered. The aim of the template will be for readers to see at a glance whether an individual is currently registered with the HCPC (and if so in what category), or a Chartered Psychologist, or not. Further information, displayed shortly and clearly, should identify any formal qualifications, posts held and published work. If, on investigation by the FJC, the three-tier structure controlled by the publishers of assessment tools is seen as a valid indicator, that too should be included. Such a template might include some easily understood 'traffic-light' indication of expertise. A template of this nature would, I believe, greatly assist courts in divining the basic level of expertise of a potential expert witness. It would remain open to the court to instruct any person who it considers is capable of discharging the expert role in each case, but, particularly where a proposed psychological expert is un-registered, the court should be on notice to the need to look more carefully at the underlying evidence of appropriate expertise.
+> The difficulties that have arisen in these proceedings, where much time has been taken up at first instance and on appeal in attempting to evaluate Ms A's qualifications to discharge her instructions, indicate that work should be done to assist parties and the court at the initial stage of choosing an expert by establishing a template into which the basic qualifications of any 'psychologist' should be entered. The aim of the template will be for readers to see at a glance whether an individual is currently registered with the [HCPC](https://www.hcpc-uk.org/) (and if so in what category), or a Chartered Psychologist, or not. Further information, displayed shortly and clearly, should identify any formal qualifications, posts held and published work. If, on investigation by the FJC, the three-tier structure controlled by the publishers of assessment tools is seen as a valid indicator, that too should be included. Such a template might include some easily understood 'traffic-light' indication of expertise. A template of this nature would, I believe, greatly assist courts in divining the basic level of expertise of a potential expert witness. It would remain open to the court to instruct any person who it considers is capable of discharging the expert role in each case, but, particularly where a proposed psychological expert is un-registered, the court should be on notice to the need to look more carefully at the underlying evidence of appropriate expertise.
 
 <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html>
 
@@ -209,6 +209,8 @@ All three limbs of the appeal dismissed (substantive appeal against refusal to r
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -114,7 +114,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
   - Copertura del primo gruppo editoriale giuridico italiano (maggio 2021): identifica nell'ordinanza il punto di svolta sull'inammissibilità del 'sillogismo implausibile' PAS.
 - Alley Oop — Il Sole 24 Ore (2021) — '[Cassazione](https://www.cortedicassazione.it/) sconfessa la Pas, controverso il costrutto scientifico', 19 maggio 2021 — <https://alleyoop.ilsole24ore.com/2021/05/19/cassazione-sconfessa-la-pas-controverso-costrutto-scientifico/>
   - Annotazione su Alley Oop (sezione femminismo Il Sole 24 Ore) che fissa subito la qualifica 'controverso costrutto scientifico' come marker dell'ordinanza nella vulgata pubblica.
-- D.i.Re — Donne in Rete contro la violenza (2021) — 'Violenza, PAS. Ordinanza della Cassazione fondamentale, andrebbero riviste tante sentenze alla luce di questo testo' — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/>
+- D.i.Re — Donne in Rete contro la violenza (2021) — 'Violenza, PAS. Ordinanza della [Cassazione](https://www.cortedicassazione.it/) fondamentale, andrebbero riviste tante sentenze alla luce di questo testo' — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/>
   - La rete italiana antiviolenza identifica subito Cass. 13217/2021 come precedente apicale da utilizzare per rivedere sistematicamente decisioni di affidamento PAS-fondate.
 - Iris UniPa (Università di Palermo) (2022) — 'Sindrome da alienazione parentale e configurazione giuridica di illecito endofamiliare: nota a margine di Cass., Sez. I Civile, Ord. 17 maggio 2021, n. 13217' — <https://iris.unipa.it/handle/10447/637297>
   - Annotazione accademica universitaria che colloca Cass. 13217/2021 nella dogmatica dell'illecito endofamiliare.
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

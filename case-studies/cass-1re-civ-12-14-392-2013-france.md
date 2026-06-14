@@ -37,7 +37,7 @@ Cass. 1re civ., 26 juin 2013, n° 12-14.392 (publié au Bulletin) est la premiè
 
 <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
 
-**Motifs — passage central reprenant l'expression « syndrome d'aliénation parentale » dans les motifs de la Cour de cassation elle-même** (fr):
+**Motifs — passage central reprenant l'expression « syndrome d'aliénation parentale » dans les motifs de la [Cour de cassation](https://www.courdecassation.fr/) elle-même** (fr):
 
 > Et attendu que l'arrêt relève qu'un syndrome d'aliénation parentale s'était instauré dans la vie de l'enfant ; que, dans l'exercice de son pouvoir souverain d'appréciation des éléments qui lui étaient soumis, la cour d'appel, qui a souverainement estimé que l'intérêt de l'enfant commandait que sa résidence habituelle soit transférée chez le père, a légalement justifié sa décision ;
 
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La Cour de cassation, Première Chambre civ
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

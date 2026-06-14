@@ -86,7 +86,7 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 
 | Jurisdiction | Year | Route | Mechanism | Named exemplar |
 |---|---|---|---|---|
-| **England & Wales** | 2026 | apex case-law | Re Y EWFC 38 HCPC-registration requirement | Melanie Gill (set aside) |
+| **England & Wales** | 2026 | apex case-law | Re Y EWFC 38 [HCPC](https://www.hcpc-uk.org/)-registration requirement | Melanie Gill (set aside) |
 | **Australia** | 2024 | statute-and-rules | FLA Sch 2 CCR + FCFCOA FRW pool | (anonymised per s.121) |
 | **Italy** | 2022/2023 | statute | Riforma Cartabia D.lgs. 149/2022 CTU restriction | (anonymised per CPC) |
 | **South Africa** | 2021 | professional standards | Martalas-chair Standards of Practice | (anonymised) |
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

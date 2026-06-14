@@ -98,7 +98,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 **Load-bearing finding (paraphrased; full multivariate tables reside in the 2011 NIJ report).** Belief variables — patriarchal norms, just-world endorsement, social-dominance orientation, and the operationalised false-allegation/alienation belief constellation — explained more variance in custody recommendations than evaluator demographics or self-reported IPV knowledge. *Implication:* training that addresses only factual content (without bias work) is unlikely to change recommendation patterns at the population level. **[secondary verification only]** for verbatim quotes beyond the abstract; *Journal of Family Psychology* is APA-paywalled.
 
-### 1.4 Saunders (2015) — research-based recommendations synthesised
+### 1.4 [Saunders](https://www.ovw.usdoj.gov/) (2015) — research-based recommendations synthesised
 
 **Citation.** Saunders, D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71-92. https://doi.org/10.1080/15379418.2015.1037052 — Open author copy: https://www.law.buffalo.edu/content/dam/law/restricted-assets/pdf/cle/161118/rodwin-4.pdf
 
@@ -212,7 +212,7 @@ This paper is among the foundational practitioner texts on differential assessme
 
 ### 3.3 The Drozd & Olesen response
 
-**Citation.** Drozd, L. M., & Olesen, N. W. (2010). Abuse and alienation are each real: A response to a critique by Joan Meier. *Journal of Child Custody*, 7(4), 253-265. Semantic Scholar: https://www.semanticscholar.org/paper/Abuse-and-Alienation-Are-Each-Real:-A-Response-to-a-Drozd-Olesen/0a6a39cae9bb06f7ce608414e17cd8bb00aebcc5
+**Citation.** Drozd, L. M., & Olesen, N. W. (2010). Abuse and alienation are each real: A response to a critique by Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). *Journal of Child Custody*, 7(4), 253-265. Semantic Scholar: https://www.semanticscholar.org/paper/Abuse-and-Alienation-Are-Each-Real:-A-Response-to-a-Drozd-Olesen/0a6a39cae9bb06f7ce608414e17cd8bb00aebcc5
 
 The Drozd/Olesen response defends the decision tree on the grounds that both abuse and alienation are real phenomena that real evaluators encounter in real cases, that the tree is properly understood as a *disconfirmatory* tool (i.e., it requires the evaluator to rule out abuse *before* concluding alienation), and that Meier's critique conflates the tree's intended use with its frequently-incompetent application in the field. **[Secondary verification only]** for verbatim quotes; the article was paywalled at compilation.
 
@@ -502,7 +502,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### Professional standards and judicial-bench texts
 
-- **AFCC Model Standards of Practice for Child Custody Evaluation (May 2006).** https://www.afccnet.org/Portals/0/Committees/ModelStdsChildCustodyEvalSept2006.pdf
+- **[AFCC](https://www.afccnet.org/) Model Standards of Practice for Child Custody Evaluation (May 2006).** https://www.afccnet.org/Portals/0/Committees/ModelStdsChildCustodyEvalSept2006.pdf
 - **NCJFCJ Guidebook (Dalton, Drozd, & Wong 2006)** — *Navigating Custody and Visitation Evaluations in Cases with Domestic Violence: A Judge's Guide*. National Council of Juvenile and Family Court Judges. Quoted extensively in Saunders 2015.
 - **APA Guidelines for Child Custody Evaluations in Family Law Proceedings.** https://www.apa.org/about/policy/child-custody-evaluations.pdf
 - **[Cafcass](https://www.cafcass.gov.uk/) Domestic Abuse Practice Policy (January 2025 update).** https://www.cafcass.gov.uk/domestic-abuse-practice-policy
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

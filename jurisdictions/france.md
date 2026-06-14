@@ -119,7 +119,7 @@ La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties fa
 3. **[Conseil constitutionnel](https://www.conseil-constitutionnel.fr/) — recueil des décisions** — <https://www.conseil-constitutionnel.fr/decisions> ([Conseil constitutionnel](https://www.conseil-constitutionnel.fr/)) [fr]
 4. **JuriCA — base des arrêts des cours d'appel** — <https://www.courdecassation.fr/recherche-judilibre> ([Cour de cassation](https://www.courdecassation.fr/) / DILA) [fr]
 5. **Dalloz / Cairn — doctrine et revues juridiques** — <https://www.dalloz.fr/> (Éditions Dalloz / Cairn.info) [fr]
-6. **Recueil Cassation — Bulletin officiel des arrêts** — <https://www.courdecassation.fr/publications/bulletin> (Cour de cassation) [fr]
+6. **Recueil Cassation — Bulletin officiel des arrêts** — <https://www.courdecassation.fr/publications/bulletin> ([Cour de cassation](https://www.courdecassation.fr/)) [fr]
 7. **Haute Autorité de Santé — recommandations de bonne pratique** — <https://www.has-sante.fr/jcms/fc_1249588/fr/recommandations> (Haute Autorité de Santé (HAS)) [fr]
 8. **Académie nationale de médecine — rapports et communiqués** — <https://www.academie-medecine.fr/publications/> (Académie nationale de médecine) [fr]
 9. **MIVILUDES — rapports d'activité (notamment 2018)** — <https://www.miviludes.interieur.gouv.fr/publications> (Mission interministérielle de vigilance et de lutte contre les dérives sectaires (MIVILUDES)) [fr]
@@ -142,6 +142,8 @@ La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties fa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

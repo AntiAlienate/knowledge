@@ -108,7 +108,7 @@ For international PA cases, both code systems are typically cited in expert repo
 
 ## Related entries
 
-- [research/bernet-2010.md](../research/bernet-2010.md) — DSM-5/ICD-11 inclusion campaign foundational text
+- [research/bernet-2010.md](../research/bernet-2010.md) — [DSM-5](https://www.appi.org/products/dsm)/ICD-11 inclusion campaign foundational text
 - [research/baker-2007.md](../research/baker-2007.md) — 8 behavioral indicators
 - [research/harman-kruk-hines-2018.md](../research/harman-kruk-hines-2018.md) — behavior-frame reframe
 - [clinical/forensic-assessment-tools.md](./forensic-assessment-tools.md) — assessment battery reference
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

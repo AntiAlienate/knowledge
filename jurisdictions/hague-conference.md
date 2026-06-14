@@ -21,7 +21,7 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
   - [HCCH](https://www.hcch.net/) convention establishing international child-support recovery framework.
 - **[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Article 11 (Expedited Return)** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Article 11 (1980) — <https://www.hcch.net/>
   - [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) article establishing 6-week return-decision guideline.
-- **Hague Convention 1980 Article 13 (Grave Risk + Child Objection Exceptions)** — Hague Convention 1980 Article 13 (1980) — <https://www.hcch.net/>
+- **[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Article 13 (Grave Risk + Child Objection Exceptions)** — Hague Convention 1980 Article 13 (1980) — <https://www.hcch.net/>
   - Hague Convention 1980 article establishing limited exceptions to return obligation — grave-risk to child + objection of child of sufficient age and maturity.
 - **Statute of the Hague Conference on Private International Law 1955** — Hague Conference Statute (1955) — <https://www.hcch.net/>
   - Foundational [HCCH](https://www.hcch.net/) Statute establishing the Hague Conference on Private International Law as international intergovernmental organisation.
@@ -56,7 +56,7 @@ Hague Convention 1980 cases are anonymised per contracting-state court practice 
 
 ## Structural findings
 
-- Hague Conference / Hague Convention 1980 operates a supranational meta-legal-system framework — places HCCH in the unique multi-state private-international-law cluster.
+- Hague Conference / Hague Convention 1980 operates a supranational meta-legal-system framework — places [HCCH](https://www.hcch.net/) in the unique multi-state private-international-law cluster.
 - Only modern multi-state framework specifically for international-child-abduction is structurally distinctive globally — Hague Convention 1980.
 - Foundational framework for international child-protection via [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) is structurally distinctive globally.
 - Hague Convention 1980 91+ contracting parties is structurally distinctive globally — largest multi-state private-international-law convention framework.
@@ -94,6 +94,8 @@ Hague Convention 1980 cases are anonymised per contracting-state court practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

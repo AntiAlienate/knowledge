@@ -211,7 +211,7 @@ Munich · Bayern · Deutsches Jugendinstitut (DJI) Munich (Direktorin); LMU Munc
 *Diplom-Psychologe; Dr. (1998); Fachpsychologe fur Rechtspsychologie BDP/DGPs; forensischer Sachverstandiger; Mediator*
 Munich · Bayern · Private practice Munich (joerg-fichtner.de); past DJI Hochkonflikthaftigkeit project lead author 2010
 
-**Stance:** Co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the article cited by BVerfG 17.11.2023 — 1 BvR 1076/23. Lead author of the DJI 2010 *Hochkonflikthaftigkeit in Trennungsfamilien — Wissenschaftlicher Abschlussbericht*. Major correction vs. surface assumption: Fichtner is frequently miscategorised as recognition camp because of his forensic family-court Sachverstandigen practice, but he is in fact a co-signatory of the principal German PAS-critique article cited by the BVerfG.
+**Stance:** Co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the article cited by [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23. Lead author of the DJI 2010 *Hochkonflikthaftigkeit in Trennungsfamilien — Wissenschaftlicher Abschlussbericht*. Major correction vs. surface assumption: Fichtner is frequently miscategorised as recognition camp because of his forensic family-court Sachverstandigen practice, but he is in fact a co-signatory of the principal German PAS-critique article cited by the BVerfG.
 
 **Publications:**
 - Verdorbener Wein in neuen Schlauchen (2023) — *ZKJ 2023 (with Zimmermann, Walper, Lux, Kindler)* — <https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869>
@@ -300,7 +300,7 @@ Hamburg · Hamburg · familienrecht-in-deutschland.de (independent platform); Wi
 *Rechtsanwalt und Notar a.D.; Mediator BAFM; Bundesverdienstkreuz am Bande*
 Berlin · Berlin · MiKK e.V. — Internationales Mediationszentrum fur Familienkonflikte und Kindesentfuhrung (founder / patron)
 
-**Stance:** Founder (2002 / 2012) and patron of MiKK e.V., Germany's principal cross-border family-mediation institutional structure. MiKK works PA dynamics routinely as part of high-conflict cross-border custody and Hague-1980 child-abduction mediation but does not frame them as a single named syndrome. Position is middle camp: methodological mediation focus, no PASG alignment, no public critique-camp signature.
+**Stance:** Founder (2002 / 2012) and patron of MiKK e.V., Germany's principal cross-border family-mediation institutional structure. MiKK works PA dynamics routinely as part of high-conflict cross-border custody and Hague-1980 child-abduction mediation but does not frame them as a single named syndrome. Position is middle camp: methodological mediation focus, no [PASG](https://pasg.info/) alignment, no public critique-camp signature.
 
 **Publications:**
 - Founder and patron of MiKK e.V. — Internationales Mediationszentrum fur Familienkonflikte und Kindesentfuhrung (2002) — *MiKK e.V.*
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

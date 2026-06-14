@@ -19,7 +19,7 @@ Melanie Gill is excluded from this directory on regulatory grounds and preserved
 ## Recognition camp
 
 ### Karen Woodall
-*Psychotherapist; not [HCPC](https://www.hcpc-uk.org/)-registered; not BPS-chartered; BACP-sanctioned 2015 for professional malpractice (sanction lifted May 2016)*
+*Psychotherapist; not [HCPC](https://www.hcpc-uk.org/)-registered; not [BPS](https://www.bps.org.uk/)-chartered; BACP-sanctioned 2015 for professional malpractice (sanction lifted May 2016)*
 London · England · Co-founder and lead therapist, Family Separation Clinic (London); Karen Woodall Trainings
 
 **Stance:** Single most-named UK PA-recognition voice. Family Separation Clinic frames PA as a discrete assessable treatable phenomenon and runs an international PA practitioner training programme; co-author with Nick Woodall of Understanding Parental Alienation (Charles C. Thomas, 2017). Position is classical recognition; unregulated relative to the Re Y [2026] EWFC 38 regulatory bar — should not be instructed as psychologist-expert in future cases under McFarlane P's framework.
@@ -46,7 +46,7 @@ London · England · Co-founder and lead therapist, Family Separation Clinic (Lo
 *MA Psychodynamic / Psychoanalytic Counselling (University of London); Therapeutic-mediator accreditation (School of Psychotherapy & Counselling Psychology, Regents University London); [HCPC](https://www.hcpc-uk.org/) / BPS chartered status not publicly confirmed*
 London · England · Co-founder and partner, Family Separation Clinic LLP; independent psychotherapist
 
-**Stance:** Co-architect of the dominant UK PA-recognition clinical model. Co-author with Karen Woodall of Understanding Parental Alienation (Charles C. Thomas, 2017); co-trainer on the Family Separation Clinic's international PA practitioner training. Position is classical recognition; same Re Y [2026] EWFC 38 regulatory exposure as Karen Woodall — neither HCPC-registered nor BPS-chartered.
+**Stance:** Co-architect of the dominant UK PA-recognition clinical model. Co-author with Karen Woodall of Understanding Parental Alienation (Charles C. Thomas, 2017); co-trainer on the Family Separation Clinic's international PA practitioner training. Position is classical recognition; same Re Y [2026] EWFC 38 regulatory exposure as Karen Woodall — neither [HCPC](https://www.hcpc-uk.org/)-registered nor BPS-chartered.
 
 **Publications:**
 - Understanding Parental Alienation: Learning to Cope, Helping to Heal (2017) — *Charles C. Thomas Publisher (with Karen Woodall)*
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

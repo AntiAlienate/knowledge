@@ -79,7 +79,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ## Structural findings
 
 - STRASBOURG ITALIAN TRIPTYCH (Lombardo 2013 + Strumia 2016 + Improta 2017) ESTABLISHES THE ARTICLE 8 PROCEDURAL-DUE-DILIGENCE STANDARD for PA-adjacent fact-patterns. Member states' authorities have a POSITIVE OBLIGATION to take 'adequate and effective measures' to enable parent-child contact to be restored. The triptych is the leading Strasbourg Art 8 PA-adjacent jurisprudence and is subsequently engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and other domestic apex decisions.
-- ECHR JURISDICTION IS SUPRANATIONAL + SUPPLEMENTARY: [ECtHR](https://www.echr.coe.int/) binds 46 Council of Europe member states under the Convention but operates supplementary to domestic remedies (Art 35(1) exhaustion principle). Strasbourg judgments establish standards that bind member states' courts and authorities; execution is supervised by the Council of Europe Committee of Ministers under Art 46.
+- ECHR JURISDICTION IS SUPRANATIONAL + SUPPLEMENTARY: [ECtHR](https://www.echr.coe.int/) binds 46 [Council of Europe](https://www.coe.int/) member states under the Convention but operates supplementary to domestic remedies (Art 35(1) exhaustion principle). Strasbourg judgments establish standards that bind member states' courts and authorities; execution is supervised by the Council of Europe Committee of Ministers under Art 46.
 - ARTICLE 8 POSITIVE OBLIGATIONS DOCTRINE: ECHR jurisprudence treats parent-child relations as engaging not only negative obligations (states must not interfere) but POSITIVE obligations (states must protect family life). PA-adjacent fact-patterns are framed as positive-obligation cases: where domestic authorities fail to enforce contact effectively, Article 8 is violated.
 - DOCTRINE OF MARGIN OF APPRECIATION: Member states have a margin of appreciation in family-law decisions but this margin narrows in matters affecting the right to family life. Protocol 15 (2013) added explicit reference to subsidiarity and margin of appreciation to the Convention preamble. Strasbourg engagement with PA-adjacent cases preserves member-state primary responsibility while imposing minimum-standard procedural duties.
 - INSTITUTIONAL CONVERGENCE WITH UN ALSALEM REPORT + MESECVI: The UN Special Rapporteur Alsalem Report A/HRC/53/36 (12.8.2022) + MESECVI Declaration 13.4.2023 + Strasbourg Article 8 jurisprudence + LATAM5 institutional anchors (Corte Constitucional Colombia T-526/2023; IEFH/IGVM Belgium 2023/001) converge on a multi-tier international critique-anchor structure. Strasbourg + UN + Inter-American + domestic-apex layers operate in tandem.
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
