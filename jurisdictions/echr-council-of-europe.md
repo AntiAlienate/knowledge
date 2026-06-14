@@ -26,10 +26,10 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 
 ## Apex courts
 
-### [European Court of Human Rights](https://www.echr.coe.int/) (ECtHR)
+### [European Court of Human Rights](https://www.echr.coe.int/) ([ECtHR](https://www.echr.coe.int/))
 <https://www.echr.coe.int/>
 
-### Council of Europe Committee of Ministers
+### [Council of Europe](https://www.coe.int/) Committee of Ministers
 <https://www.coe.int/>
 
 ### Member State apex courts (per Convention-compatibility framework)
@@ -81,7 +81,7 @@ ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' de
 
 ## Sources
 
-1. **[European Court of Human Rights](https://www.echr.coe.int/)** — <https://www.echr.coe.int/> (European Court of Human Rights) [en]
+1. **[European Court of Human Rights](https://www.echr.coe.int/)** — <https://www.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/)) [en]
 2. **Council of Europe** — <https://www.coe.int/> (Council of Europe) [en]
 3. **[HUDOC](https://hudoc.echr.coe.int/) ECHR Database** — <https://hudoc.echr.coe.int/> (European Court of Human Rights) [en]
 
@@ -95,6 +95,8 @@ ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' de
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

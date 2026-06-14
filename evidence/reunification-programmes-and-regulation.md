@@ -55,7 +55,7 @@ India's court-attached counsellor mechanism is the structural counterpart to FCF
 ### 11. Italy — Consulenza Tecnica d'Ufficio (CTU) + post-Riforma Cartabia restriction
 **CTU (Consulenza Tecnica d'Ufficio)** — court-appointed expert mechanism in Italian civil procedure. **Riforma Cartabia D.lgs. 149/2022** (in force 2023) restricts CTU evaluations based on PAS construct. Italian operational reunification work happens within CTU framework with post-Riforma constraints.
 
-CTU is the Italian institutional analogue to UK Cafcass + AU FRW + Singapore CAPS but with substantive PAS-construct restriction post-Riforma Cartabia. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
+CTU is the Italian institutional analogue to UK [Cafcass](https://www.cafcass.gov.uk/) + AU FRW + Singapore CAPS but with substantive PAS-construct restriction post-Riforma Cartabia. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
 
 ### 12. Netherlands — Methode Scheidings Advies Team (SAT) + RvdK feitenonderzoek
 **Methode SAT (Scheidings Advies Team)** — methodological framework proposed by Expertteam Ouderverstoting 2021 (chair prof. dr. Catrin Finkenauer UU) + accepted by minister Sander Dekker beleidsreactie februari 2021. Operates alongside **RvdK (Raad voor de Kinderbescherming) feitenonderzoek** strengthening.
@@ -75,7 +75,7 @@ Cross-jurisdictional reunification programmes operate via at least three distinc
 Eight of twelve jurisdictions surveyed operate court-attached institutional welfare-evaluator vehicles: UK Cafcass + Cafcass Cymru + AU FRW + Singapore CAPS + HK SWD Centres + SA Family Advocate + India Family Court counsellors + Italian CTU. The pattern is the dominant cross-jurisdictional regulatory route.
 
 ### 3. US extra-regulator route operates against background of named-exclusion exemplars
-US Family Bridges operates as 'educational workshop' outside CABOP oversight following Randy Rand's 2009 license inactive status. Together with **Re Y excluded exemplar Melanie Gill** (UK) and **Reinhart Wolff** (Germany), constitutes pattern of named regulatory exclusions operationalising evaluator-quality concerns cross-jurisdictionally.
+US [Family Bridges](https://warshak.com/family-bridges/) operates as 'educational workshop' outside CABOP oversight following Randy Rand's 2009 license inactive status. Together with **Re Y excluded exemplar Melanie Gill** (UK) and **Reinhart Wolff** (Germany), constitutes pattern of named regulatory exclusions operationalising evaluator-quality concerns cross-jurisdictionally.
 
 ### 4. Australian FRW pool by-design middle-camp
 Australian FCFCOA Family Report Writers Network is BY DESIGN the structural middle-camp evaluator architecture — court-controlled single-expert pool addressing concerns about party-driven duelling-expert litigation. Post-2023 Schedule 2 Court Children's Report regime tightens evaluator standards.
@@ -119,6 +119,8 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+
+
 
 
 

@@ -57,13 +57,13 @@ Belgium is a federal civil-law jurisdiction structurally shaped by its community
 
 ## Anonymisation convention
 
-Belgian Cour de cassation and Cours d'appel anonymise minor children consistently; adult parties in family-law published arrêts are typically referenced by initial (e.g., M. X / Mme Y) or generic descriptor. Ejustice.just.fgov.be publishes consolidated case law with reporting restrictions on minor identification. The Loi du 8 avril 1965 sur la protection de la jeunesse imposes confidentiality on jeugdrechtbank / tribunal de la jeunesse proceedings.
+Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel anonymise minor children consistently; adult parties in family-law published arrêts are typically referenced by initial (e.g., M. X / Mme Y) or generic descriptor. Ejustice.just.fgov.be publishes consolidated case law with reporting restrictions on minor identification. The Loi du 8 avril 1965 sur la protection de la jeunesse imposes confidentiality on jeugdrechtbank / tribunal de la jeunesse proceedings.
 
 ## Key developments
 
 - **1993** — Loi du 8 novembre 1993 protégeant le titre de psychologue — federal title-protection psychologue / titelbescherming psycholoog. — <https://www.compsy.be/>
 - **1995** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 374-374ter — autorité parentale (exercice conjoint principe) and droit aux relations personnelles (art. 374bis grand-parents). — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
-- **2007** — Code civil art. 387ter — inexécution des décisions relatives à l'hébergement; astreinte, désignation provisoire, droit aux relations modifiées. The substantive remedies provision subsequently engaged in Cass. 6 mars 2025. — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
+- **2007** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 387ter — inexécution des décisions relatives à l'hébergement; astreinte, désignation provisoire, droit aux relations modifiées. The substantive remedies provision subsequently engaged in Cass. 6 mars 2025. — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
 - **2013** — 30.7.2013 — Loi portant création d'un Tribunal de la famille et de la jeunesse (familierechtbank) — unified specialist family-court forum. — <https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2013073018&table_name=loi>
 - **2013** — Decreet Integrale Jeugdhulp (Vlaamse Gemeenschap) — Opgroeien-architectuur for Vlaams jeugdhulp delivery. — <https://www.opgroeien.be/>
 - **2018** — 18.1.2018 — Décret portant le Code de la prévention, de l'aide à la jeunesse et de la protection de la jeunesse (Fédération Wallonie-Bruxelles). — <https://www.aidealajeunesse.cfwb.be/>
@@ -128,6 +128,8 @@ Belgian Cour de cassation and Cours d'appel anonymise minor children consistentl
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

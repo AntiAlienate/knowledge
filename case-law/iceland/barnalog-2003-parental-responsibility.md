@@ -149,6 +149,8 @@ Disclaimer: Educational summary, not legal advice. Consult a qualified Icelandic
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

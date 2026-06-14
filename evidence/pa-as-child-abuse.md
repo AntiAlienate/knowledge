@@ -342,7 +342,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ### Contested (moderate confidence on either side)
 
 4. **Whether all PA-pattern conduct reaches the abuse threshold, or only severe cases.** Even sympathetic scholars (Bernet; [PASG](https://pasg.info/)) typically frame "severe" alienation as abuse, not mild cases. Critics ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala 2016) argue the construct is too loosely operationalised to be reliably applied.
-5. **Whether "parental alienation" is a valid clinical diagnosis.** DSM-5 declined to add it; ICD-11 removed it as an index term; WHO has explicitly distanced itself; the Italian Court of Cassation has rejected PAS as expert evidence. The pro-PA-as-abuse case is stronger when made in terms of *behaviours* and *outcomes* than in terms of *diagnosis*.
+5. **Whether "parental alienation" is a valid clinical diagnosis.** [DSM-5](https://www.appi.org/products/dsm) declined to add it; [ICD-11](https://icd.who.int/) removed it as an index term; WHO has explicitly distanced itself; the Italian Court of Cassation has rejected PAS as expert evidence. The pro-PA-as-abuse case is stronger when made in terms of *behaviours* and *outcomes* than in terms of *diagnosis*.
 
 ### Weak / disputed (low confidence — be cautious in the repo)
 
@@ -388,6 +388,8 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ---
 
 *Compiled 2026-05-25 for AntiAlienate-knowledge (CC BY 4.0). Items marked **\[secondary verification only]** require direct re-verification against the original source before publication.*
+
+
 
 
 

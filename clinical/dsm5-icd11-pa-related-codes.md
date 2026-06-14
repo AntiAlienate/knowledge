@@ -70,7 +70,7 @@ Bernet (2010) led a multi-year campaign to add **"Parental Alienation"** as a st
 
 For PA-context expert testimony or motion language:
 
-> *The Respondent's documented pattern of conduct meets DSM-5 V995.51 (Child Psychological Abuse) — specifically, nonaccidental verbal/symbolic acts that have caused significant psychological harm to the child, as documented in [evidence pack] per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) and Bernet's 5 essential criteria (Bernet 2010). The child's resulting presentation meets DSM-5 V61.29 (Child Affected by Parental Relationship Distress) and [ICD-11](https://icd.who.int/) QE52 (Caregiver-Child Relationship Problem). Where weaponized illness is documented, additional codes V300.19 (DSM) / 6D52 (ICD-11) apply.*
+> *The Respondent's documented pattern of conduct meets [DSM-5](https://www.appi.org/products/dsm) V995.51 (Child Psychological Abuse) — specifically, nonaccidental verbal/symbolic acts that have caused significant psychological harm to the child, as documented in [evidence pack] per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) and Bernet's 5 essential criteria (Bernet 2010). The child's resulting presentation meets DSM-5 V61.29 (Child Affected by Parental Relationship Distress) and [ICD-11](https://icd.who.int/) QE52 (Caregiver-Child Relationship Problem). Where weaponized illness is documented, additional codes V300.19 (DSM) / 6D52 ([ICD-11](https://icd.who.int/)) apply.*
 
 This anchors PA harm in **internationally recognized diagnostic systems** without requiring a controversial standalone "PA" diagnosis — exactly the Daubert-survivable behavior-frame approach.
 
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

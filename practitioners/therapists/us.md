@@ -112,7 +112,7 @@ New York City · NY · Director of Research, Vincent J. Fontana Center for Child
 
 ### William Bernet, MD
 *MD (Psychiatry); Professor Emeritus*
-Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University School of Medicine; founder/first president [Parental Alienation Study Group](https://pasg.info/) (PASG)
+Nashville · TN · Professor Emeritus of Psychiatry, Vanderbilt University School of Medicine; founder/first president [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 
 **Stance:** Global organising figure of the recognition camp. Founder of PASG (2013; ~240 members across 40 countries). Lead author of Bernet, Wamboldt & Narrow (2016) JAACAP CAPRD framework — the most-cited US institutional reference. Co-author with Demosthenes Lorandos of Parental Alienation: Science and Law (Charles C. Thomas, 2020). The German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) ruling explicitly engaged the US PASG / Bernet literature as the recognition-camp reference critique camp scholars must rebut, making Bernet the trans-Atlantic anchor of the debate.
 
@@ -159,7 +159,7 @@ Winter Park · FL · Independent PA consultation practice (Winter Park, FL); co-
 *PhD; Florida Licensed School Psychologist (since 1987)*
 Clearwater · FL · The Center For Human Potential of America, Inc. (Clearwater, FL); co-founder NAOPAS
 
-**Stance:** Co-author with Bone of The Essentials of Parental Alienation Syndrome (Unhooking Books, 2011). NAOPAS co-founder. Trained in [Warshak](https://warshak.com/family-bridges/)/Rand Family Bridges as reunification specialist; high-volume expert witness (38+ courts in 36 states per JurisPro).
+**Stance:** Co-author with Bone of The Essentials of Parental Alienation Syndrome (Unhooking Books, 2011). NAOPAS co-founder. Trained in [Warshak](https://warshak.com/family-bridges/)/Rand [Family Bridges](https://warshak.com/family-bridges/) as reunification specialist; high-volume expert witness (38+ courts in 36 states per JurisPro).
 
 **Publications:**
 - The Essentials of Parental Alienation Syndrome (2011) — *Unhooking Books (with J. Michael Bone)* — <https://www.amazon.com/Essentials-Parental-Alienation-Syndrome-Childrens/dp/1937698009>
@@ -341,7 +341,7 @@ San Jose · CA · Professor Emeritus, Department of Justice Studies, San Jose St
 
 ### Leslie M. Drozd, PhD
 *PhD; CA Licensed Psychologist; CA LMFT*
-Newport Beach · CA · Independent forensic psychology practice (Newport Beach, CA); AFCC Board of Directors; OBFC Board
+Newport Beach · CA · Independent forensic psychology practice (Newport Beach, CA); [AFCC](https://www.afccnet.org/) Board of Directors; OBFC Board
 
 **Stance:** Decision-tree methodology for differential analysis of family violence, alienation, and gatekeeping. Co-edited the AFCC Model Standards for Child Custody Evaluations (2006) and AFCC Guidelines for Examining Intimate Partner Violence (2016) — AFCC-canonical practitioner. 2013 AFCC John E. Van Duzer Distinguished Service Award.
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

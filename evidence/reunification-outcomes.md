@@ -50,7 +50,7 @@
 
 ### 1.3 [Warshak](https://warshak.com/family-bridges/) (2019) — *Reclaiming Parent–Child Relationships* follow-on study
 
-**Citation.** Warshak, R. A. (2019). Reclaiming parent–child relationships: Outcomes of Family Bridges with alienated children. *Journal of Divorce & Remarriage*, 60(8), 645–667. https://doi.org/10.1080/10502556.2018.1529505
+**Citation.** [Warshak](https://warshak.com/family-bridges/), R. A. (2019). Reclaiming parent–child relationships: Outcomes of [Family Bridges](https://warshak.com/family-bridges/) with alienated children. *Journal of Divorce & Remarriage*, 60(8), 645–667. https://doi.org/10.1080/10502556.2018.1529505
 
 **Sample / method (from publisher abstract, [secondary verification only] for full text).** n = 83 severely alienated children and adolescents enrolled with the rejected parent in a 4-day Family Bridges educational workshop after a court order placed the children in the rejected parent's custody. Before/after design; multiple outcome measures from parents and workshop leaders; no independent control group.
 
@@ -110,7 +110,7 @@
 - Communal coping: positive change reported.
 - Safety: "No child in the sample attempted to run away or hurt themselves since the court order was entered or during the intervention."
 
-**Authors' own funding/COI disclosure (verbatim).** "No external funding was received for this project … All project materials for this study are available on Open Science Framework: (https://osf.io/b3uyn/)." The paper also notes (p. 7): "Our roles as evaluators are independent of the program; none of us has any vested interest in the program or has ever been involved with the development or provision of the treatment … Ms. [Gottlieb](https://turningpointsforfamilies.com/) asked the first author to assist with the evaluation [of] the TPFF program."
+**Authors' own funding/COI disclosure (verbatim).** "No external funding was received for this project … All project materials for this study are available on Open Science Framework: (https://osf.io/b3uyn/)." The paper also notes (p. 7): "Our roles as evaluators are independent of the program; none of us has any vested interest in the program or has ever been involved with the development or provision of the treatment … Ms. [Gottlieb](https://turningpointsforfamilies.com/) asked the first author to assist with the evaluation [of] the [TPFF](https://turningpointsforfamilies.com/) program."
 
 **Honest methodological caveats inherent to the design.**
 - No comparison group ("Harman's study did not involve any comparison group. It was essentially a study of events in a single group over a period of time" — Mercer critique, §8.2).
@@ -147,7 +147,7 @@ The 96.4% figure originates in the [Harman et al. ](https://pubmed.ncbi.nlm.nih.
 - The framework has not been adopted by any major professional body, has not appeared in the DSM, and has not been independently validated.
 - [AB-PA](https://drcachildress.org/) presentations rely heavily on a re-labelling of established attachment-theory constructs to claim convergent validity with mainstream science — but the empirical chain from attachment theory to the "[AB-PA](https://drcachildress.org/) diagnostic indicators" has not been demonstrated in peer-reviewed primary research.
 
-**Honest caveat.** A reader who wishes to argue *for* AB-PA may legitimately point to [Childress's](https://drcachildress.org/) claim that the model is built from peer-reviewed attachment-theory constructs. A reader who wishes to argue *against* it may legitimately point to the complete absence of any peer-reviewed outcome trial of an AB-PA-based intervention. Both observations are accurate.
+**Honest caveat.** A reader who wishes to argue *for* [AB-PA](https://drcachildress.org/) may legitimately point to [Childress's](https://drcachildress.org/) claim that the model is built from peer-reviewed attachment-theory constructs. A reader who wishes to argue *against* it may legitimately point to the complete absence of any peer-reviewed outcome trial of an AB-PA-based intervention. Both observations are accurate.
 
 ---
 
@@ -415,13 +415,13 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Warshak 2019 (J Divorce & Remarriage) | No | Abstract quoted from publisher record |
 | Reay 2015 (Family Reflections) | No | Outcome figure cross-confirmed in [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 |
 | [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 (TPFF) | Yes (full PDF) | Methods, results, COI quoted verbatim |
-| Childress 2015 (AB-PA Foundations) | No (book) | No peer-reviewed outcome study identified |
+| [Childress](https://drcachildress.org/) 2015 (AB-PA Foundations) | No (book) | No peer-reviewed outcome study identified |
 | Friedlander & Walters 2010 (MMFI) | Yes (full PDF) | Footnote 1 outcome data quoted verbatim |
 | Johnston & Goldman 2010 addendum | No | Key passage quoted via Dallam & Silberg 2016 secondary verification |
 | Sullivan, Ward & Deutsch 2010 (OBFC) | Yes (full PDF) | Abstract, follow-up data, financial constraints quoted verbatim |
 | Judge & Deutsch 2016 (Transitioning Families) | No | Publisher record only |
 | Dallam & Silberg 2016 | Yes (full PDF) | Abstract and key arguments quoted verbatim |
-| Mercer 2019 critique | No (full text) | Quoted via Harman et al. 2022 reference and Mercer's *ChildMyths* blog |
+| Mercer 2019 critique | No (full text) | Quoted via [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 reference and Mercer's *ChildMyths* blog |
 | [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) (27-case series) | Yes (full PDF) | Abstract, statistics, methods quoted verbatim |
 | Mercer & Drew 2022 (Geffner symposium TPFF/OBFC) | No (full text) | Publisher record; conclusions paraphrased |
 | Building Family Bridges critique 2022 | No (full text) | DOI verified; authors and full content **not publicly confirmed** at compilation |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

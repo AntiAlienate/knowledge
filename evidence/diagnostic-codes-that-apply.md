@@ -24,7 +24,7 @@
 
 > "Child psychological abuse is nonaccidental verbal or symbolic acts by a child's parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child."
 
-**DSM-5 examples list, verbatim.**
+**[DSM-5](https://www.appi.org/products/dsm) examples list, verbatim.**
 
 > "Examples include berating, disparaging, or humiliating the child; threatening the child; harming/abandoning — or indicating that the alleged offender will harm/abandon — people or things that the child cares about; confinement of the child (as by tying a child's arms or legs together or binding a child to a piece of furniture); scapegoating of the child; coercing the child to inflict pain on himself or herself; and disciplining the child excessively (i.e., at an extremely high frequency or duration, even if not at a level of physical abuse) through physical or nonphysical means."
 
@@ -88,7 +88,7 @@ The authors describe reactions as including "the onset or exacerbation of psycho
 
 ### 1.4 [DSM-5-TR](https://www.appi.org/products/dsm) (2022) — what changed
 
-The [DSM-5-TR](https://www.appi.org/products/dsm) text revision (American Psychiatric Association, 2022) **did not** add parental alienation, parental alienation syndrome, or parental alienation disorder as diagnoses. The [PASG](https://pasg.info/) draft proposal to insert "Parental Alienation Relational Problem (PARP)" was prepared (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., draft dated 2022-08-29; URL https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr) but was **not adopted** in DSM-5-TR.
+The [DSM-5-TR](https://www.appi.org/products/dsm) text revision (American Psychiatric Association, 2022) **did not** add parental alienation, parental alienation syndrome, or parental alienation disorder as diagnoses. The [PASG](https://pasg.info/) draft proposal to insert "Parental Alienation Relational Problem (PARP)" was prepared (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., draft dated 2022-08-29; URL https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr) but was **not adopted** in [DSM-5-TR](https://www.appi.org/products/dsm).
 
 The [PASG](https://pasg.info/) draft proposed five PARP criteria, verbatim from the [PASG](https://pasg.info/) document:
 1. "the child avoids, resists, or refuses a relationship with a parent";
@@ -126,7 +126,7 @@ The structure of [ICD-11](https://icd.who.int/) differs from DSM-5. PA-pattern c
 
 > "Substantial and sustained dissatisfaction within a caregiver-child relationship, including a parental relationship, associated with significant disturbance in functioning."
 
-Source: WHO ICD-11 MMS entity 547677013, mirrored at https://www.findacode.com/icd-11/code-547677013.html (the WHO ICD-11 browser at https://icd.who.int/browse11/l-m/en is a JavaScript single-page application that returned the navigation shell rather than the entity text on direct fetch; secondary academic and coding-tool mirrors quote the definition consistently).
+Source: WHO [ICD-11](https://icd.who.int/) MMS entity 547677013, mirrored at https://www.findacode.com/icd-11/code-547677013.html (the WHO ICD-11 browser at https://icd.who.int/browse11/l-m/en is a JavaScript single-page application that returned the navigation shell rather than the entity text on direct fetch; secondary academic and coding-tool mirrors quote the definition consistently).
 
 **Listed synonyms / index terms (as of compilation date).**
 - Parent-child relationship problem
@@ -402,7 +402,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 ### 8.2 Moderate confidence
 
 - **The threshold between V61.20/V61.29 (relational problem) and V995.51 (psychological abuse) coding requires careful evidence and consistent application of the APSAC 2022 differential-diagnosis guardrail.** The threshold is the DSM-5 phrase "significant psychological harm to the child" or "reasonable potential to result" in such harm. There is no DSM-5 algorithmic operationalisation; clinical judgement governs. The Bernet/Wamboldt/Narrow 2016 *JAACAP* article and the Wamboldt/Cordaro/Clarke 2015 field-trial study supply the peer-reviewed methodological backbone for coder reliability (interrater kappa 0.58, "good"), but the *clinical-judgement step* between observation and code remains the locus of contested decisions in family-court forensic practice.
-- **The forensic-evaluator practice of coding V61.20 + V61.29 as a baseline and V995.51 only where the threshold is independently met** is the defensible mainstream practice. It is consistent with APSAC 2022, with [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016, and with the established UK Cafcass framework.
+- **The forensic-evaluator practice of coding V61.20 + V61.29 as a baseline and V995.51 only where the threshold is independently met** is the defensible mainstream practice. It is consistent with APSAC 2022, with [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016, and with the established UK [Cafcass](https://www.cafcass.gov.uk/) framework.
 
 ### 8.3 Low confidence / not established
 
@@ -438,7 +438,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 
 **Critical / threshold sources.**
 - APSAC (2022). Position Statement on Assertions of Parental Alienation Syndrome (PAS), Parental Disorder (PAD), or Parental Alienation (PA) When Child Maltreatment Is of Concern. https://apsac.org/wp-content/uploads/2023/05/APSAC-Position-Statement-PAS.pdf
-- [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. In Drozd, Saini & Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed.). Oxford University Press, pp. 374–430. Mirror: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
+- [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. In Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed.). Oxford University Press, pp. 374–430. Mirror: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 - Mercer, J. (2021). Examining Parental Alienation Treatments: Problems of Principles and Practices. *Child and Adolescent Social Work Journal*. https://link.springer.com/article/10.1007/s10560-019-00625-8
 - Silberg, J., & Dallam, S. (2019). Abusers gaining custody in family courts: A case series of overturned decisions. *Journal of Child Custody*, 16(2), 140–169. **[secondary verification only]** for exact citation.
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

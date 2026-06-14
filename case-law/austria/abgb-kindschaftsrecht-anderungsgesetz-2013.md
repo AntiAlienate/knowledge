@@ -125,6 +125,8 @@ Disclaimer: Educational summary, not legal advice. Consult a qualified Austrian 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

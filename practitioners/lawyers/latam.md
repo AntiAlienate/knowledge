@@ -164,7 +164,7 @@ Porto Alegre · Rio Grande do Sul · Themis - Gênero, Justiça e Direitos Human
 
 **Contact:** themis@themis.org.br; +55 (51) 3212-5141; Rua dos Andradas 1234 cj. 1607, Centro Histórico, Porto Alegre/RS 90020-008
 
-*Notes: Verified via Themis institutional site, STF noticias 2021 (ADI 6273 dismissal), and Themis editorial archive. OAB/RS 40.946 publicly displayed.*
+*Notes: Verified via Themis institutional site, [STF](https://portal.stf.jus.br/) noticias 2021 (ADI 6273 dismissal), and Themis editorial archive. OAB/RS 40.946 publicly displayed.*
 
 **See also:** `jurisdiction:brazil`, `practitioner:br.scarance-valeria`, `practitioner:br.recchia-maira`, `case-study:cassazione-9691-2022-italy`, `case-study:bverfg-1-bvr-1076-23-germany-2023`, `evidence:international-institutional-positions`
 
@@ -557,6 +557,8 @@ Mendoza · Mendoza · Universidad Nacional de Cuyo; IDIBE (consultor académico)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

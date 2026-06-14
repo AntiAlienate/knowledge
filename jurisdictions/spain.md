@@ -99,7 +99,7 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 ## Sources
 
 1. **BOE — LO 8/2021 LOPIVI (texto consolidado)** — <https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347> (Boletín Oficial del Estado) [es]
-2. **CENDOJ — Buscador de Jurisprudencia del Tribunal Supremo** — <https://www.poderjudicial.es/search/indexAN.jsp> (Consejo General del Poder Judicial) [es]
+2. **CENDOJ — Buscador de Jurisprudencia del [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/)** — <https://www.poderjudicial.es/search/indexAN.jsp> (Consejo General del Poder Judicial) [es]
 3. **LegalLayer — análisis de jurisprudencia sobre alienación parental y LOPIVI** — <https://legallayer.com/> (LegalLayer) [es]
 4. **Vlex España — repertorio de jurisprudencia AP/TS sobre interferencias parentales** — <https://vlex.es/> (Vlex) [es]
 5. **Consejo General de la Psicología de España (COP)** — <https://www.cop.es/> (Consejo General de la Psicología) [es]
@@ -123,6 +123,8 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

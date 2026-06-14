@@ -99,7 +99,7 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
   - Second Section judgment expressly building on Lombardo; cited Lombardo as authority for the proposition that Italian authorities must deploy measures capable in fact of overcoming an obstructive resident parent.
 - [European Court of Human Rights](https://www.echr.coe.int/) — Italian Article 8 cluster (2016) — Strumia v. Italy, no. 53377/13, 23 June 2016 — <https://hudoc.echr.coe.int/eng?i=001-163578>
   - Cites Lombardo as part of the established line on Italian enforcement deficit; same Article 8 violation finding.
-- European Court of Human Rights — Italian Article 8 cluster (2017) — Improta v. Italy, no. 66396/14, 4 May 2017 — <https://hudoc.echr.coe.int/eng?i=001-173427>
+- [European Court of Human Rights](https://www.echr.coe.int/) — Italian Article 8 cluster (2017) — Improta v. Italy, no. 66396/14, 4 May 2017 — <https://hudoc.echr.coe.int/eng?i=001-173427>
   - Most-cited downstream case in the Italian cluster; Lombardo is the foundational authority. Pairs with Lombardo in Italian apex citations of the Strasbourg framework.
 - Strasbourg Observers (2013) — Strasbourg Observers, weekly digest of [ECtHR](https://www.echr.coe.int/) judgments (29 January 2013 cluster) — <https://strasbourgobservers.com/>
   - Academic commentary blog hosted at Ghent University Human Rights Centre. Strasbourg Observers regularly tracks the Court's Article 8 enforcement-of-contact line and locates Lombardo within the Court's broader positive-obligations doctrine inaugurated by Hokkanen v. Finland (1994) and consolidated by Kutzner v. Germany (2002).
@@ -131,13 +131,13 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 6. **Centre for Global Law and Justice (St John's University School of Law) — [ECtHR](https://www.echr.coe.int/) Confirms Child's Interest in Establishing Paternity, Parent's Right to Enforcement of Visitation, 6 February 2013** — <https://cglj.org/2013/02/06/ecthr-confirms-childs-interest-in-establishing-paternity-parents-right-to-enforcement-of-visitation/> (Centre for Global Law and Justice) [en] — accessed 2026-05-30
 7. **Università di Padova, Centro di Ateneo per i Diritti Umani — Index of ECHR judgments against Italy on Article 8 violations (Part 1)** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università di Padova — Centro di Ateneo per i Diritti Umani 'Antonio Papisca') [en] — accessed 2026-05-30
 8. **[BAILII](https://www.bailii.org/) — European Court of Human Rights judgments 2013 (index)** — <https://www.bailii.org/eu/cases/ECHR/2013/> (British and Irish Legal Information Institute) [en] — accessed 2026-05-30
-9. **[Council of Europe](https://www.coe.int/) — Department for the Execution of Judgments of the European Court of Human Rights ([HUDOC](https://hudoc.echr.coe.int/)-EXEC), Italy cluster on enforcement of contact rights** — <https://hudoc.exec.coe.int/eng> (Council of Europe — Committee of Ministers) [en] — accessed 2026-05-30
-10. **Boiano, La Cassazione disconosce la scientificità della c.d. sindrome da alienazione parentale (Giustizia Insieme, 15 July 2022) — anchors Cass. 9691/2022 in the ECHR Italian Article 8 cluster including Lombardo** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme) [it] — accessed 2026-05-30
+9. **[Council of Europe](https://www.coe.int/) — Department for the Execution of Judgments of the European Court of Human Rights ([HUDOC](https://hudoc.echr.coe.int/)-EXEC), Italy cluster on enforcement of contact rights** — <https://hudoc.exec.coe.int/eng> ([Council of Europe](https://www.coe.int/) — Committee of Ministers) [en] — accessed 2026-05-30
+10. **Boiano, La [Cassazione](https://www.cortedicassazione.it/) disconosce la scientificità della c.d. sindrome da alienazione parentale (Giustizia Insieme, 15 July 2022) — anchors Cass. 9691/2022 in the ECHR Italian Article 8 cluster including Lombardo** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme) [it] — accessed 2026-05-30
 
 ## Editorial notes
 
 - PRIMARY SOURCE: the full judgment text is published only in French on [HUDOC](https://hudoc.echr.coe.int/) (https://hudoc.echr.coe.int/eng?i=001-116127). The Registry has not published an official English translation. All French verbatim quotations are reproduced from that [HUDOC](https://hudoc.echr.coe.int/) text; English translations are by the author (Alan Markson) and are flagged as translations, not as official ECHR English text.
-- PRIMARY SOURCE: paragraph numbering of verbatim quotes corresponds to the official French text on [HUDOC](https://hudoc.echr.coe.int/); readers verifying citations should consult application no. 25704/11 on HUDOC directly.
+- PRIMARY SOURCE: paragraph numbering of verbatim quotes corresponds to the official French text on [HUDOC](https://hudoc.echr.coe.int/); readers verifying citations should consult application no. 25704/11 on [HUDOC](https://hudoc.echr.coe.int/) directly.
 - PARTY NAMING CONVENTION: the application is officially captioned 'Lombardo c. Italie' / 'Lombardo v. Italy' — ECHR conventions name the natural-person applicant whilst anonymising minor children. The applicant Sergio Lombardo is named in full both in the judgment and in the Registry press release. The daughter is referred to in this case study by initial only ('L.'), consistent with the Court's standard family-life anonymisation under Rule 47 § 4 of the Rules of Court.
 - CHAMBER COMPOSITION: the seven-judge Second Section Chamber that decided Lombardo on 29 January 2013 was presided over by Danutė Jočienė; the Italian national judge for cases against Italy in this period (Guido Raimondi) sat under Rule 26 of the Rules of Court. The full composition is published in the HUDOC judgment file and is reproduced here. The Section Registrar at this date was Stanley Naismith.
 - JUDGE RAPPORTEUR: the Court does not publicly identify the individual juge rapporteur per case in its published judgments; the role is exercised within the Chamber under Rule 49 of the Rules of Court. The case study therefore does not assign rapporteur status to any individual judge.
@@ -154,6 +154,8 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

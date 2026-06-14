@@ -71,7 +71,7 @@ The [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)
 - **[Warshak's](https://warshak.com/family-bridges/) resist-refuse continuum** (2015) — clinical conceptualization
 - **Harman's family-violence framework** (2018) — paradigm shift to abuse model
 
-Where Bernet diagnoses and Harman conceptualizes, Baker-Fine **operationalizes** — turning the framework into something a targeted parent can DO this week.
+Where Bernet diagnoses and Harman conceptualizes, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine **operationalizes** — turning the framework into something a targeted parent can DO this week.
 
 ## Citing Posts
 
@@ -95,6 +95,8 @@ Where Bernet diagnoses and Harman conceptualizes, Baker-Fine **operationalizes**
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+
 
 
 

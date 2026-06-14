@@ -27,7 +27,7 @@ Belgium: IEFH/IGVM (Institut pour l'égalité des femmes et des hommes / Institu
 - Netherlands operates the procedural-middle institutional framework: Adviesrapport Expertteam Ouderverstoting / Complexe Omgangsproblematiek (Jan 2021, chair familierechter Cees van Leuven) + Hoge Raad RFR 2021/26 + vFAS certification framework. The NL middle pole is the European procedural template most closely aligned to differentiated-assessment approaches (cf. UK [Cafcass](https://www.cafcass.gov.uk/)).
 - EU regional structure 2021-2026: critique-pole apex consolidation in DE / IT / ES / BE; recognition-pole concentration in FR; middle-pole procedural framework in NL with BE middle-academic overlap (Mathieu, Leleu). The DE / IT / ES / BE critique consolidation is the deepest comparative-law block globally on SAP rejection at apex level.
 - EU institutional-pole density: Themis (ES Tier 1 critique), DAV-Familienrechtsausschuss (DE Tier 1 middle, chair Becker), AG-Familienrecht im DAV (DE Tier 2 middle, chair Schausten, ~4,788 members July 2025), D.i.Re Gruppo Avvocate (IT Tier 1 critique, Carrano + Biaggioni), vFAS (NL Tier 2 middle), IEFH/IGVM (BE Tier 1 federal critique). Six distinct institutional vehicles span six jurisdictions — highest EU-wide institutional density.
-- Counsel-of-record / apex-court attribution density: DE 1 (Bielefeld BVerfG 1 BvR 1076/23), FR 2 (SCP Waquet/Farge/Hazan + SCP Richard on Cass. 12-14.392), IT 1 (Carrano quoted on Cass. 9691/2022 Massaro). Combined with the IT institutional D.i.Re infrastructure and the BE federal IEFH/IGVM vehicle, the EU critique infrastructure has the highest named-counsel-to-apex-court ratio in the AntiAlienate practitioner corpus.
+- Counsel-of-record / apex-court attribution density: DE 1 (Bielefeld [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23), FR 2 (SCP Waquet/Farge/Hazan + SCP Richard on Cass. 12-14.392), IT 1 (Carrano quoted on Cass. 9691/2022 Massaro). Combined with the IT institutional D.i.Re infrastructure and the BE federal IEFH/IGVM vehicle, the EU critique infrastructure has the highest named-counsel-to-apex-court ratio in the AntiAlienate practitioner corpus.
 - Cross-jurisdictional EU doctrinal traffic 2021-2025: BVerfG 1 BvR 1076/23 (DE 2023) cited as comparative anchor by Italian, Spanish and French critique commentary; [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Acierno) reciprocally cited as the European SAP-rejection apex reference. The EU jurisprudential critique consolidation has become the global reference block for the LATAM convergence (Colombia T-526/2023, Mexico AI 11/2016 + AI 74/2024) and the Anglo-American practitioner-camp counter-coalition.
 - Honest gap on individual private-practice DE / NL / BE recognition-camp lawyers: institutional middle voices (DAV in DE; vFAS in NL; Mathieu / Leleu in BE) dominate the recognition-or-middle pole in three of the six jurisdictions. Per-country lawyer deepening is pending: per-country v2 files for DE / FR / ES / IT / NL / BE lawyers will resolve this gap with named private-practice entries. This regional aggregate is the baseline before per-country lawyer files are produced.
 - Spain Themis named principal authors (Pino de la Nuez Ruiz, Altamira Gonzalo Valgañón, María Durán Febrer, Rosa Pérez-Villar Aparicio, plus the Aramburu / Estévez / Aibar / García-Lozano / García Olcina / Guelbenzu / Rey Nuevo research team) constitute the single largest named-jurist research collective on SAP critique globally — comparable in density only to the LATAM ABOFEM regional network. Two are individually entered (Gonzalo, Durán); Themis itself is the institutional Tier 1 entry.
@@ -47,7 +47,7 @@ Paris · Île-de-France · Ordre des avocats au Conseil d'État et à la [Cour d
 **Stance:** Counsel of record before the [Cour de cassation](https://www.courdecassation.fr/) in Cass. 1re civ., 26 juin 2013, n° 12-14.392 — the first apex French SAP-recognition arrêt (Sophie Paricard / Michèle Bauer practitioner-camp commentary treats it as the FR jurisprudential anchor). Recognition stance is a filing-position attribution: SCP was counsel for the party whose theory the [Cour de cassation](https://www.courdecassation.fr/) upheld, legally consolidating the SAP-framed decision in French family law. Only French avocats-aux-Conseils firm publicly tied to a [Cour de cassation](https://www.courdecassation.fr/) arrêt naming aliénation parentale.
 
 **Publications:**
-- Cass. 1re civ., 26 juin 2013, n° 12-14.392 — counsel of record (2013) — *Cour de cassation* — <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
+- Cass. 1re civ., 26 juin 2013, n° 12-14.392 — counsel of record (2013) — *[Cour de cassation](https://www.courdecassation.fr/)* — <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
 
 **Verification:**
 - <https://www.scp-waquet-farge-hazan.com/>
@@ -236,7 +236,7 @@ Roma · Lazio · Associazione Differenza Donna; D.i.Re — Donne in Rete contro 
 
 **Publications:**
 - Cass. civ. sez. I, ord. 24 marzo 2022, n. 9691 (caso Massaro) — leading advocate quoted (2022) — *Il Post (25 March 2022)* — <https://www.ilpost.it/2022/03/25/sindrome-alienazione-parentale-cassazione-laura-massaro/>
-- Violenza / PAS — ordinanza della Cassazione fondamentale, andrebbero riviste tante sentenze (2022) — *D.i.Re — Donne in Rete contro la violenza* — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/>
+- Violenza / PAS — ordinanza della [Cassazione](https://www.cortedicassazione.it/) fondamentale, andrebbero riviste tante sentenze (2022) — *D.i.Re — Donne in Rete contro la violenza* — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/>
 
 **Verification:**
 - <https://www.differenzadonna.org/>
@@ -512,6 +512,8 @@ Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

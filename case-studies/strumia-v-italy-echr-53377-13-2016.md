@@ -115,7 +115,7 @@ Unanimous finding of a violation of [Article 8 ECHR](https://www.legislation.gov
 - NON VERIFIED ON THIS PAGE: the full seven-judge composition of the First Section panel is recorded on the face of the [HUDOC](https://hudoc.echr.coe.int/) judgment but is not extracted on this case-study page; readers should consult [HUDOC](https://hudoc.echr.coe.int/) 001-163918 for the complete bench.
 - NON VERIFIED ON THIS PAGE: the costs-and-expenses figure under Article 41 is recorded in the operative part of the [HUDOC](https://hudoc.echr.coe.int/) judgment but is not extracted on the MOJ summary; this case study reports only the €15,000 non-pecuniary award.
 - IDENTIFICATION CAVEAT: the applicant is named 'Alessandro Strumia' in the MOJ translation and in the Strasbourg face of the judgment. Whether this is the same person as the physicist by that name at the University of Pisa is NOT publicly confirmed in either the Strasbourg judgment or the Italian Ministry of Justice file; both documents identify only the name and citizenship. Readers should not assume the identification absent independent confirmation.
-- ECLI: the European Case Law Identifier 'ECLI:CE:ECHR:2016:0623JUD005337713' is reconstructed per the standard ECHR ECLI convention (court code CE:ECHR, decision date YYYYMMDD, JUD + application number padded); the ECLI is not displayed on the HUDOC landing for older 2016 judgments in the same way it is for post-2020 judgments.
+- ECLI: the European Case Law Identifier 'ECLI:CE:ECHR:2016:0623JUD005337713' is reconstructed per the standard ECHR ECLI convention (court code CE:ECHR, decision date YYYYMMDD, JUD + application number padded); the ECLI is not displayed on the [HUDOC](https://hudoc.echr.coe.int/) landing for older 2016 judgments in the same way it is for post-2020 judgments.
 - DOCTRINAL FRAMING: the judgment does NOT use the term 'parental alienation' or endorse any psychological diagnostic framework. Its operative reasoning is institutional (state diligence under Article 8) rather than diagnostic. Care should be taken in advocacy literature not to over-read Strumia as Strasbourg authority for the clinical reality of alienation as a syndrome.
 - COMPARATIVE FRAME: Strumia is paired in this case-study cluster with Lombardo v. Italy (2013) and Improta v. Italy (2017) as the canonical Italy Article 8 contact-enforcement trilogy; with [Cassazione](https://www.cortedicassazione.it/) 9691/2022 and 4595/2025 as the domestic apex Italian counterpart, supplying the methodological-discipline frame that complements Strasbourg's institutional-diligence frame.
 
@@ -124,6 +124,8 @@ Unanimous finding of a violation of [Article 8 ECHR](https://www.legislation.gov
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

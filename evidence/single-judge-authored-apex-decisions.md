@@ -29,7 +29,7 @@ Debbie Ong J's two-limb doctrine (court cannot force children to love a parent +
 Cross-link: case-study:ten-v-teo-2020-sghcf-20-singapore + jurisdiction:singapore.
 
 ### Italy — [Cassazione](https://www.cortedicassazione.it/) I Civile rapporteurs
-**[Cassazione](https://www.cortedicassazione.it/) 13217/2021** + **[Cassazione](https://www.cortedicassazione.it/) 9691/2022** + **Cassazione 4595/2025** — Italian Court of Cassation First Civil Section. Three-judge panel ordinanze rather than single-judge — but each decision is authored by a specific rapporteur (relatore). The doctrinal-rapporteur pattern operates within the Italian Cassazione collegial framework.
+**[Cassazione](https://www.cortedicassazione.it/) 13217/2021** + **[Cassazione](https://www.cortedicassazione.it/) 9691/2022** + **[Cassazione](https://www.cortedicassazione.it/) 4595/2025** — Italian Court of Cassation First Civil Section. Three-judge panel ordinanze rather than single-judge — but each decision is authored by a specific rapporteur (relatore). The doctrinal-rapporteur pattern operates within the Italian Cassazione collegial framework.
 
 The Italian Cassazione triad is structurally distinct from the English Re-arc: collegial three-judge authorship rather than single-judge sustained-authorial pattern. The Italian triad's doctrinal coherence is institutional-collegial rather than authorial-individual.
 
@@ -137,6 +137,8 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md*
+
+
 
 
 

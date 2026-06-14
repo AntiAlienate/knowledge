@@ -65,7 +65,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
 
 ## Anonymisation convention
 
-La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme Y ; ou prénom + initiale) conformément au RGPD et à la Loi Informatique et Libertés (LIL); les enfants apparaissent en initiales ou par leur seul prénom. Légifrance et Recueil Cassation publient les arrêts ainsi anonymisés; JuriCA applique le même régime pour les arrêts de cour d'appel mis en ligne.
+La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties familiales par initiales (M. X / Mme Y ; ou prénom + initiale) conformément au RGPD et à la Loi Informatique et Libertés (LIL); les enfants apparaissent en initiales ou par leur seul prénom. Légifrance et Recueil Cassation publient les arrêts ainsi anonymisés; JuriCA applique le même régime pour les arrêts de cour d'appel mis en ligne.
 
 ## Key developments
 
@@ -114,7 +114,7 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 
 ## Sources
 
-1. **Légifrance — Code civil (arts. 371-1 et s.) consolidé** — <https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/> (Direction de l'information légale et administrative (DILA)) [fr]
+1. **Légifrance — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) (arts. 371-1 et s.) consolidé** — <https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/> (Direction de l'information légale et administrative (DILA)) [fr]
 2. **Cour de cassation — arrêt 1re Civ., 26 juin 2013, n° 12-14.392** — <https://www.courdecassation.fr/decision/5fca5949f2e58f009e7af00c> (Cour de cassation) [fr]
 3. **[Conseil constitutionnel](https://www.conseil-constitutionnel.fr/) — recueil des décisions** — <https://www.conseil-constitutionnel.fr/decisions> ([Conseil constitutionnel](https://www.conseil-constitutionnel.fr/)) [fr]
 4. **JuriCA — base des arrêts des cours d'appel** — <https://www.courdecassation.fr/recherche-judilibre> (Cour de cassation / DILA) [fr]
@@ -142,6 +142,8 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

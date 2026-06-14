@@ -104,7 +104,7 @@ A **single-item self-report of feeling alienated**, one US state, telephone poll
 
 ### 3.2 Verbatim abstract (in full)
 
-> "Estimating the prevalence of parental alienation is challenging because not all children who are exposed to parental alienating behaviors become alienated (Harman, Bernet, & Harman, 2019). The purpose of the current study was to determine whether the proportion of adults who indicate being alienated from a child will be similar to results from a previous poll of North Carolina adults (Harman, Leder-Elder, & Biringen, 2016) using three nationally representative on-line survey panels from United States and Canada, and to determine the mental health impact of parental alienating behaviors. **Results from the first two polls indicate that the prevalence of parents who feel they are being alienated from their children is higher than originally estimated: 35.5% (of 273) in the U.S. and 32% (of 397) in Canada. Using another means of assessment for the third poll, 39.1% (of 594) of parents in the US are the non-reciprocating targets of parental alienating behaviors, which is over 22 million parents and confirms previous estimates that did not differentiate between reciprocating and non-reciprocating parents (Harman et al., 2016). Of these, 6.7% of the parents had children who were moderately to severely alienated, which is at least 1.3% of the US population.** Alienated parents also had high levels of depression, trauma symptoms, and risk for suicide. Ramifications of these findings for researchers and practitioners are discussed."
+> "Estimating the prevalence of parental alienation is challenging because not all children who are exposed to parental alienating behaviors become alienated (Harman, Bernet, & Harman, 2019). The purpose of the current study was to determine whether the proportion of adults who indicate being alienated from a child will be similar to results from a previous poll of North Carolina adults (Harman, Leder-Elder, & Biringen, 2016) using three nationally representative on-line survey panels from United States and Canada, and to determine the mental health impact of parental alienating behaviors. **Results from the first two polls indicate that the prevalence of parents who feel they are being alienated from their children is higher than originally estimated: 35.5% (of 273) in the U.S. and 32% (of 397) in Canada. Using another means of assessment for the third poll, 39.1% (of 594) of parents in the US are the non-reciprocating targets of parental alienating behaviors, which is over 22 million parents and confirms previous estimates that did not differentiate between reciprocating and non-reciprocating parents ([Harman et al.](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2016). Of these, 6.7% of the parents had children who were moderately to severely alienated, which is at least 1.3% of the US population.** Alienated parents also had high levels of depression, trauma symptoms, and risk for suicide. Ramifications of these findings for researchers and practitioners are discussed."
 
 ### 3.3 Sample architecture
 
@@ -193,7 +193,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ### 5.3 Verrocchio, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Bernet (2016)
 
-**Citation.** Verrocchio, M. C., Baker, A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408.
+**Citation.** Verrocchio, M. C., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408.
 
 **Sample.** N = 509 Italian community adults. Pathway model (AB exposure → psychological maltreatment → impaired bonding → depression/anxiety). **Not a population-prevalence study.**
 
@@ -289,7 +289,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 ### 10.3 The published exchange
 
 - [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Rosen, L., Dickson, S., O'Sullivan, C., & Hayes, J. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study (2020). *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4), 213–248. https://doi.org/10.1080/26904586.2022.2036286
-- [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., et al. (2022). Harman and Lorandos' false critique of Meier et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2), 92–135. https://doi.org/10.1080/26904586.2022.2086659
+- [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., et al. (2022). Harman and Lorandos' false critique of [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2), 92–135. https://doi.org/10.1080/26904586.2022.2086659
 
 Meier et al.'s verbatim characterisation: Harman and Lorandos' work is "agenda-driven, filled with error, and does more to obfuscate the issues than to shed light on courts' practices."
 
@@ -334,7 +334,7 @@ The Alsalem report does **not** engage in detail with the Harman 2016 / 2019 pre
 
 The Bernet 740,000 figure is regularly cited in expert testimony and amicus briefing. Its Daubert / Frye exposure:
 
-- **Daubert factors:** (1) tested → no, it is a deduction not a measurement; (2) peer-reviewed → the underlying chapter is peer-reviewed but the **specific numerical derivation** has not been replicated by independent researchers using primary data; (3) known error rate → not characterised; (4) general acceptance → contested (Saini et al. 2016 explicitly: "no defensible estimates").
+- **Daubert factors:** (1) tested → no, it is a deduction not a measurement; (2) peer-reviewed → the underlying chapter is peer-reviewed but the **specific numerical derivation** has not been replicated by independent researchers using primary data; (3) known error rate → not characterised; (4) general acceptance → contested ([Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016 explicitly: "no defensible estimates").
 - **Frye general-acceptance:** the figure is widely cited within the PA-recognition camp but is **not** generally accepted in the broader family-court-research community, as Saini et al. demonstrates.
 
 The Saini et al. 2016 statement that "to date there are no defensible estimates of the prevalence of parental alienation" is the strongest peer-reviewed authority for cross-examining any expert who cites 740,000 or 1% as established fact.
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

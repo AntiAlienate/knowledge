@@ -102,7 +102,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 
 - [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile (2022) — Cass. civ., Sez. I, ord. n. 9691 del 24 marzo 2022 — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691>
   - Cita verbatim Cass. 13217/2021 come fondamento. 'Come affermato più volte da questa Corte, il richiamo alla sindrome d'alienazione parentale e ad ogni suo, più o meno evidente, anche inconsapevole, corollario, non può dirsi legittimo, costituendo il fondamento pseudoscientifico di provvedimenti gravemente incisivi sulla vita dei minori, in ordine alla decadenza dalla responsabilità genitoriale della madre (Cass., 13217/21)'. È il momento di consolidazione della linea capostipite 13217/2021.
-- Cassazione, Sez. I Civile (2021) — Cass. civ., Sez. I, ord. n. 23804 del 1 settembre 2021
+- [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile (2021) — Cass. civ., Sez. I, ord. n. 23804 del 1 settembre 2021
   - Ulteriore tappa successiva alla 13217/2021 sull'ascolto del minore come adempimento non surrogabile dalla CTU — la stessa rete argomentativa che 9691/2022 (poi) riprenderà.
 - Cassazione, Sez. I Civile (2025) — Cass. civ., Sez. I, ord. n. 4595 del 24 febbraio 2025 — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/>
   - Ulteriore tappa della linea apicale post-Cartabia che consolida la ratio Cass. 13217/2021 + 9691/2022 sull'inammissibilità di CTU PAS-fondate e affronta in modo articolato l'interferenza tra allegazioni di violenza domestica e diagnosi di alienazione genitoriale.
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

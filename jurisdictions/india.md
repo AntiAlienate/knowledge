@@ -103,7 +103,7 @@ India is a mixed common-law / personal-law jurisdiction whose family courts appl
 
 ## Editorial notes
 
-- Primary-source order: Supreme Court of India and India Code statutes are cited first; Delhi High Court reportable judgments via SCC Online are the principal subsequent-reception authority; NIMHANS and regulatory bodies (RCI, NMC) follow.
+- Primary-source order: [Supreme Court of India](https://main.sci.gov.in/) and India Code statutes are cited first; Delhi High Court reportable judgments via SCC Online are the principal subsequent-reception authority; NIMHANS and regulatory bodies (RCI, NMC) follow.
 - Vivek Singh names both adult parties on the record (appellant was a serving Army officer in service judgment) but children are initial-only per Indian convention. POCSO Act 2012 confidentiality applies analogically in family-court reporting.
 - Indian English usage preserved throughout ('Family Court Patiala House', 'court-appointed counsellor', 'mental cruelty', 'matrimonial cruelty').
 - PWDVA 2005 is the load-bearing statutory anchor for the institutional critique register; HMA 1955 s.13(1)(ia) cruelty is the load-bearing statutory anchor for the recognition-line matrimonial jurisprudence.
@@ -113,6 +113,8 @@ India is a mixed common-law / personal-law jurisdiction whose family courts appl
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

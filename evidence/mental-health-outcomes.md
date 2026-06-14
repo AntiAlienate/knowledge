@@ -147,7 +147,7 @@ See §1.1 above for citation. The PMC full text reports:
 
 ## 3. Attachment, relationships, and neurobiology
 
-### 3.1 Ben-Ami & Baker (2012) — adult attachment and well-being
+### 3.1 Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2012) — adult attachment and well-being
 
 **Citation.** Ben-Ami, N., & Baker, A. J. L. (2012). The long-term correlates of childhood exposure to parental alienation on adult self-sufficiency and well-being. *The American Journal of Family Therapy*, 40(2), 169–183. https://doi.org/10.1080/01926187.2011.601206
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

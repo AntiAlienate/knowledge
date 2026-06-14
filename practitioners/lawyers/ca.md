@@ -365,7 +365,7 @@ Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney
 
 **Publications:**
 - L.(A.G.) v D.(K.B.), 2009 — counsel for OCL on behalf of the children (2009) — *Ontario Superior Court of Justice* — <https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/>
-- [Supreme Court of Canada](https://www.scc-csc.ca/) docket 36850 — OCL counsel appearance (2016) — *Supreme Court of Canada* — <https://www.scc-csc.ca/cases-dossiers/search-recherche/36850/>
+- [Supreme Court of Canada](https://www.scc-csc.ca/) docket 36850 — OCL counsel appearance (2016) — *[Supreme Court of Canada](https://www.scc-csc.ca/)* — <https://www.scc-csc.ca/cases-dossiers/search-recherche/36850/>
 
 **Verification:**
 - <https://www.ontario.ca/page/office-childrens-lawyer>
@@ -396,6 +396,8 @@ Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

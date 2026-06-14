@@ -62,7 +62,7 @@ When opposing counsel attacks PA as "discredited theory," respond with the recog
 ## Citations
 
 - [DSM-5](https://www.appi.org/products/dsm) (American Psychiatric Association, 2013, with subsequent text revisions)
-- WHO ICD-11 (in force 2022)
+- WHO [ICD-11](https://icd.who.int/) (in force 2022)
 - [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018). *Psychological Bulletin*, 144(12), 1275–1299
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007). *Adult Children of Parental Alienation Syndrome*
 - *Re S* [2020] EWCA Civ 568 · *Re C* [2023] EWHC 345 (Fam)
@@ -76,6 +76,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

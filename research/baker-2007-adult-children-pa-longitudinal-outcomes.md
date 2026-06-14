@@ -76,7 +76,7 @@ From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 ## Subsequent [Baker research](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) building on 2007 findings
 
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A.J.L., & Sauber, S.R. (Eds.) (2013). *Working With Alienated Children and Families*. Routledge
-- Baker, A.J.L., & Brassard, M.R. (2013). Adolescents caught in their parents' loyalty conflicts. *Journal of Divorce & Remarriage*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A.J.L., & Brassard, M.R. (2013). Adolescents caught in their parents' loyalty conflicts. *Journal of Divorce & Remarriage*
 - Baker, A.J.L., & Verrocchio, M.C. (2016). Exposure to parental alienation and subsequent anxiety and depression in Italian adults. *American Journal of Family Therapy*
 
 ## Critical reception
@@ -104,6 +104,8 @@ From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal or clinical advice.*
+
+
 
 
 

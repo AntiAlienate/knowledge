@@ -469,7 +469,7 @@ New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic par
 **Stance:** Senior Delhi women's-rights and child-sexual-abuse / gender-based-violence intervention NGO whose Vishaka Guidelines 1997 work is the load-bearing public-document evidence of judicial-system engagement methodology. Naina Kapur (co-founder, former director) is the lead architect of the Vishaka Guidelines and the foundation for the POSH Act 2013. Smita Bharti (Executive Director since 2007) is a verified domestic-abuse survivor and uses theatre-based intervention with traumatised women; her Better India autobiographical feature (2024) is the strongest published-public-record signal of Sakshi's survivor-centred frame. Oxfam Policy & Practice published a profile of Sakshi as a 'Violence Intervention Centre' anchoring the load-bearing institutional designation. IMPORTANT — STANCE QUALIFICATION: no Sakshi public document located in 2026 directly characterising parental alienation / PAS as a DV-survivor-targeting tactic. Sakshi's primary programme focus is child sexual abuse, workplace sexual harassment, and gender-based violence rather than custody-evaluation / Family Court PA-construct territory specifically. The PA-construct critique attributed to Sakshi in the parent file's structural_findings[1] is INFERENTIAL (downstream of the CSA + DV-protective frame), not document-sourced. The CSA-adjacency is the most direct potential PA-construct engagement vector (CSA allegations are a known PA-construct litigation flashpoint), but no specific Sakshi position on PA in CSA-adjacent custody is located. Listed as institutional carrier of critique-adjacent CSA + DV-protective register, with the PA-construct-specific gap explicitly noted.
 
 **Publications:**
-- Vishaka Guidelines 1997 ([Supreme Court of India](https://main.sci.gov.in/) guidelines on workplace sexual harassment, lead architect Naina Kapur via Sakshi PIL) (1997) — *Supreme Court of India (Vishaka & Others v State of Rajasthan, AIR 1997 SC 3011)*
+- Vishaka Guidelines 1997 ([Supreme Court of India](https://main.sci.gov.in/) guidelines on workplace sexual harassment, lead architect Naina Kapur via Sakshi PIL) (1997) — *[Supreme Court of India](https://main.sci.gov.in/) (Vishaka & Others v State of Rajasthan, AIR 1997 SC 3011)*
 - I am Witness to...: A profile of Sakshi Violence Intervention Centre in New Delhi, India (2008) — *Oxfam Policy & Practice* — <https://policy-practice.oxfam.org/resources/i-am-witness-to-a-profile-of-sakshi-violence-intervention-centre-in-new-delhi-i-131371/>
 - The Rakshin Project (youth-led national child-sexual-abuse-prevention movement; 40,000+ college reach) (2020) — *Sakshi programmatic* — <https://yourstory.com/socialstory/2020/05/sakshi-ngo-child-sexual-abuse-awareness-campaign>
 - Walking Out of an Abusive Marriage, I Now Help Traumatised Women Rewrite Their Stories (Bharti S.) (2024) — *The Better India* — <https://thebetterindia.com/336865/domestic-abuse-survivor-smita-bharti-sakshi-ngo-uses-theatre-to-help-traumatised-women>
@@ -552,6 +552,8 @@ New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic par
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

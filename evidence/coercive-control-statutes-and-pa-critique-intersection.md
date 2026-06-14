@@ -83,7 +83,7 @@ National coercive-control statutory reforms converge with multi-tier internation
 | **Argentina** | Ley 26.485 + post-Milei colegio anchor | 2009 + 2024 | Statutory + institutional | FePRA Pronunciamiento 14.12.2019 |
 | **Chile** | Ley 21.675/2024 violencia vicaria art. 5 | 2024 | Statutory — VIOLENCIA VICARIA SUBSTITUTION | Direct conceptual substitution for SAP-as-VIF |
 | **Spain** | LOPIVI 17ª + Vaccaro coinage | 2021 + 2009 | Statutory inadmission + clinician academic | Multi-layer Spanish critique framework |
-| **Italy** | Codice Rosso 2019 + Cassazione 9691/2022 + Riforma Cartabia 2022 | 2019-2022 | Statutory + apex case-law + Strasbourg integration | Densest EU multi-layer integration |
+| **Italy** | Codice Rosso 2019 + [Cassazione](https://www.cortedicassazione.it/) 9691/2022 + Riforma Cartabia 2022 | 2019-2022 | Statutory + apex case-law + Strasbourg integration | Densest EU multi-layer integration |
 | **South Africa** | DV Act 116/1998 + Act 14/2021 amendment | 1998 + 2021 | Statutory amendment | Re-frames SA family-court PA-adjacent assessment |
 | **New Zealand** | Family Violence Act 2018 | 2018 | Statutory definitions | Operates alongside CoCA 2004 |
 | **Japan** | Spousal Violence Prevention Act 2001 + 2024 amendments | 2001-2024 | Statutory + Act 33/2024 carve-out | Operationalises joint-custody DV carve-out |
@@ -97,6 +97,8 @@ National coercive-control statutory reforms converge with multi-tier internation
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md*
+
+
 
 
 

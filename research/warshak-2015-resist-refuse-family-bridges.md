@@ -60,7 +60,7 @@ Subsequent peer-reviewed evaluations ([Warshak](https://warshak.com/family-bridg
 - Limited sample sizes in the published outcome studies
 - Concerns about coercion of older children
 
-Warshak has addressed these in subsequent publications, noting that the alternative — leaving severely alienated children with the alienating parent — has its own well-documented harms ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 longitudinal data).
+[Warshak](https://warshak.com/family-bridges/) has addressed these in subsequent publications, noting that the alternative — leaving severely alienated children with the alienating parent — has its own well-documented harms ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 longitudinal data).
 
 ## Key Publications
 
@@ -87,7 +87,7 @@ The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 | **Warshak continuum** | **Severity + type stratification (what kind?)** |
 | Friedlander-Walters MMFI | Hybrid case typology |
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Targeted-parent operational guidance |
-| **Family Bridges** | **Severe-case reunification intervention** |
+| **[Family Bridges](https://warshak.com/family-bridges/)** | **Severe-case reunification intervention** |
 
 Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) and operational intervention ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine, Family Bridges). The continuum gives clinicians and courts language for the messy middle.
 
@@ -113,6 +113,8 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

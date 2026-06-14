@@ -75,7 +75,7 @@ This is the doctrinally densest integration of Strasbourg Article 8 + domestic a
 ## Cross-jurisdictional engagement
 
 ### Italy
-Cassazione 13217/2021 + 9691/2022 + 4595/2025 + Riforma Cartabia D.lgs. 149/2022. Italy operates the EU's most integrated apex-court + statute + Strasbourg multi-layer engagement. Cross-link: jurisdiction:italy.
+[Cassazione](https://www.cortedicassazione.it/) 13217/2021 + 9691/2022 + 4595/2025 + Riforma Cartabia D.lgs. 149/2022. Italy operates the EU's most integrated apex-court + statute + Strasbourg multi-layer engagement. Cross-link: jurisdiction:italy.
 
 ### France
 French [Cour de cassation](https://www.courdecassation.fr/) 12-14.392 (2013) operates substantive engagement with custody jurisprudence; CIIVISE Durand 2024 institutional engagement post-dates the Italian triptych. Strasbourg Art 8 doctrine cited in French domestic family-law contexts but no comparable doctrinal-densely-integrated engagement. Cross-link: jurisdiction:france.
@@ -132,6 +132,8 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
+
+
 
 
 

@@ -114,6 +114,8 @@ The European Court of Human Rights has cited General Comment No. 14 substantivel
 - **Adopting body:** UN Committee on the Rights of the Child, 62nd session
 - **Status:** International UN document — public for global use; verbatim reproduction permitted for legal and educational purposes.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

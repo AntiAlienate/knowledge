@@ -55,7 +55,7 @@ IACtHR decisions are anonymised per IACtHR practice using initials or first-name
 
 ## Structural findings
 
-- Inter-American Court of Human Rights operates a supranational meta-legal-system framework — places IACtHR in the unique Inter-American-regional-human-rights supranational cluster.
+- [Inter-American Court of Human Rights](https://corteidh.or.cr/) operates a supranational meta-legal-system framework — places IACtHR in the unique Inter-American-regional-human-rights supranational cluster.
 - Only modern regional human-rights court explicitly authorising 'reparations to victims' beyond declaratory relief is structurally distinctive globally — Article 63(1) comprehensive reparations framework.
 - Only modern regional human-rights court with binding advisory-opinion framework binding on all OAS member states is structurally distinctive globally.
 - American Convention Article 17 + Article 19 family-and-children's-rights jurisprudence framework is structurally distinctive globally — only multi-state regional-court framework with both Family Rights Article 17 + Children's Rights Article 19 explicit provisions.
@@ -92,6 +92,8 @@ IACtHR decisions are anonymised per IACtHR practice using initials or first-name
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

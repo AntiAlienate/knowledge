@@ -101,7 +101,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
   - La rete italiana antiviolenza ha pubblicato il testo integrale dell'ordinanza e ne ha rivendicato la portata sistemica come precedente apicale contro l'uso processuale della PAS e contro l'ablazione coattiva della genitorialità materna in presenza di allegazioni di violenza.
 - Giustizia Insieme (2022) — Boiano, 'La [Cassazione](https://www.cortedicassazione.it/) disconosce la scientificità della c.d. sindrome da alienazione parentale', 15 luglio 2022 — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691>
   - Commento di prima generazione sulla rivista Giustizia Insieme — lega Cass. 9691/2022 al filone Cass. 13217/2021 e alla cornice CEDU (Improta, Endrizzi, D'Alconzo, Solarino, Strumia, Cincimino, Giorgioni c. Italia).
-- Diritti Fondamentali (2022) — 'Cassazione: la Sindrome da Alienazione Parentale (PAS) è illegittima', 6 aprile 2022 — <https://dirittifondamentali.it/2022/04/06/cassazione-la-sindrome-da-alienazione-parentale-pas-e-illegittima-cass-civ-sez-i-ord-24-marzo-2022-n-9691/>
+- Diritti Fondamentali (2022) — '[Cassazione](https://www.cortedicassazione.it/): la Sindrome da Alienazione Parentale (PAS) è illegittima', 6 aprile 2022 — <https://dirittifondamentali.it/2022/04/06/cassazione-la-sindrome-da-alienazione-parentale-pas-e-illegittima-cass-civ-sez-i-ord-24-marzo-2022-n-9691/>
   - Annotazione tempestiva (a meno di due settimane dal deposito) che identifica l'ordinanza come pronunciamento apicale di chiusura sulla PAS in sede processuale [Diritti Fondamentali 2022].
 - ilcaso.it (blog) (2022) — 'I provvedimenti de potestate tra alienazione parentale e ascolto del minore', 26 ottobre 2022 — <https://blog.ilcaso.it/news_1982/26-10-22/I_provvedimenti_de_potestate_tra_alienazione_parentale_e_ascolto_del_minore-_il_punto_della_Cassazione_Nota_a_Cass_Civ_9691-2022>
   - Commento dottrinale che enfatizza il binomio Cass. 9691/2022 + obbligo non delegabile di ascolto del minore (poi codificato in art. 473-bis.4 c.p.c.).
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

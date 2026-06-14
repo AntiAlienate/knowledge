@@ -99,7 +99,7 @@ Children and family parties are identified by initials only in published judgmen
 2. **Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente (ECA)** — <https://www.planalto.gov.br/ccivil_03/leis/l8069.htm> (Planalto) [pt]
 3. **Constituição da República Federativa do Brasil de 1988** — <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm> (Planalto) [pt]
 4. **STJ — Jurisprudência (scon)** — <https://scon.stj.jus.br/SCON/> (Superior Tribunal de Justiça) [pt]
-5. **STF — Jurisprudência** — <https://portal.stf.jus.br/> ([Supremo Tribunal Federal](https://portal.stf.jus.br/)) [pt]
+5. **[STF](https://portal.stf.jus.br/) — Jurisprudência** — <https://portal.stf.jus.br/> ([Supremo Tribunal Federal](https://portal.stf.jus.br/)) [pt]
 6. **IBDFAM — Instituto Brasileiro de Direito de Família** — <https://ibdfam.org.br/> (IBDFAM) [pt]
 7. **Conselho Federal de Psicologia — Nota Técnica nº 4/2022 (joint with CFESS)** — <https://site.cfp.org.br/> (Conselho Federal de Psicologia) [pt]
 8. **ConJur — Consultor Jurídico (legal commentary)** — <https://www.conjur.com.br/> (ConJur) [pt]
@@ -117,6 +117,8 @@ Children and family parties are identified by initials only in published judgmen
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

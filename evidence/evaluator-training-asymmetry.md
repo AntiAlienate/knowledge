@@ -28,7 +28,7 @@
 
 **Citation.** [Saunders](https://www.ovw.usdoj.gov/), D. G., Faller, K. C., & Tolman, R. M. (2011). *Child custody evaluators' beliefs about domestic abuse allegations: Their relationship to evaluator demographics, background, domestic violence knowledge and custody-visitation recommendations*. Final Technical Report submitted to the National Institute of Justice, October 31, 2011. NCJ Document No. 238891. NIJ Award No. 2007-WG-BX-0013. URL: https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf
 
-This is the foundational empirical text underlying every subsequent claim in the [Saunders](https://www.ovw.usdoj.gov/) program. It is a 188-page NIJ Final Technical Report submitted June 2012; the related peer-reviewed journal articles ([Saunders](https://www.ovw.usdoj.gov/) 2015 in *Journal of Child Custody*; Saunders, Tolman, & Faller 2013 in *Journal of Family Psychology*) draw on the same dataset.
+This is the foundational empirical text underlying every subsequent claim in the [Saunders](https://www.ovw.usdoj.gov/) program. It is a 188-page NIJ Final Technical Report submitted June 2012; the related peer-reviewed journal articles ([Saunders](https://www.ovw.usdoj.gov/) 2015 in *Journal of Child Custody*; [Saunders](https://www.ovw.usdoj.gov/), Tolman, & Faller 2013 in *Journal of Family Psychology*) draw on the same dataset.
 
 **Verbatim purpose statement (Executive Summary, p. 4).**
 
@@ -204,7 +204,7 @@ This paper is among the foundational practitioner texts on differential assessme
 
 **[Secondary verification only]** for verbatim text — the original 2004 *Journal of Child Custody* article was paywalled at compilation. The construction has been widely reproduced in subsequent practitioner literature and in the 2016 Drozd-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)-Olesen edited volume (Oxford University Press), the second-edition [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala chapter from which is already excerpted in `evidence-forensic-operation-in-courts.md` §5.
 
-### 3.2 The Meier 2010 critique
+### 3.2 The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 2010 critique
 
 **Citation.** Meier, J. S. (2010). Getting real about abuse and alienation: A critique of Drozd and Olesen's decision tree. *Journal of Child Custody*, 7(4), 219-252. https://doi.org/10.1080/15379418.2010.521032 — GW Law repository: https://scholarship.law.gwu.edu/faculty_publications/824/ — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1767422
 
@@ -287,7 +287,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 ### 6.3 Honest disclosure on the training-debate stakes
 
-The Harman/Lorandos position is the most-cited contemporary published defence of the existing evaluator training infrastructure and of the AFCC mainstream practitioner framework. Lorandos is a practising attorney who has represented many parents accused of being alienators; Harman is a Colorado State University social psychologist publishing extensively in defence of the PA construct, including her own *Parents Acting Badly* (PAB) construct. This commercial-and-professional-stake context is what the UN Special Rapporteur (Alsalem A/HRC/53/36 ¶62; see `evidence-forensic-operation-in-courts.md` §6.2) refers to when she writes:
+The Harman/Lorandos position is the most-cited contemporary published defence of the existing evaluator training infrastructure and of the [AFCC](https://www.afccnet.org/) mainstream practitioner framework. Lorandos is a practising attorney who has represented many parents accused of being alienators; Harman is a Colorado State University social psychologist publishing extensively in defence of the PA construct, including her own *Parents Acting Badly* (PAB) construct. This commercial-and-professional-stake context is what the UN Special Rapporteur (Alsalem A/HRC/53/36 ¶62; see `evidence-forensic-operation-in-courts.md` §6.2) refers to when she writes:
 
 > "Parental alienation is undoubtedly a lucrative endeavour that allow experts to provide their services in family proceedings for a fee. Training programmes and conferences, which have proliferated on a global scale over the last two decades, provide yet another stream of income."
 
@@ -460,7 +460,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 - **More DV-content training predicts more child-safe evaluator recommendations.** Saunders 2011 (workshop and lecture attendance most strongly associated with positive outcomes); Haselschwerdt, Hardesty, & Hans (2011); Morrill et al. (2005) on judges. Directionality unambiguous; magnitude qualified by observational design.
 - **The Drozd/Olesen 2004 decision-tree framework is the most-cited differential-assessment training tradition in US custody-evaluation practice**, with documented intra-field disagreement (Meier 2010 critique; Drozd & Olesen 2010 response) about whether its operational application systematically routes evaluators toward alienation findings in abuse cases.
-- **UK [Cafcass](https://www.cafcass.gov.uk/) and Australian Family-Law-Amendment-Act-2023 represent the most policy-advanced international approaches** to the DV-versus-alienation ordering question, but operational implementation gaps remain (Ministry of Justice Harm Report 2020 was the UK precipitating finding; 2024-2025 Cafcass policy is the response).
+- **UK [Cafcass](https://www.cafcass.gov.uk/) and Australian Family-Law-Amendment-Act-2023 represent the most policy-advanced international approaches** to the DV-versus-alienation ordering question, but operational implementation gaps remain (Ministry of Justice Harm Report 2020 was the UK precipitating finding; 2024-2025 [Cafcass](https://www.cafcass.gov.uk/) policy is the response).
 
 ### 10.4 Contested
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

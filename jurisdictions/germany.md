@@ -45,7 +45,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 ## Professional regulators
 
 - **Bundespsychotherapeutenkammer (BPtK)** — Keine öffentliche Stellungnahme zum Konstrukt 'Parental Alienation / PAS' (nicht öffentlich verifiziert über das BPtK-Stellungnahmen-Archiv 2024-2026). BPtK ist die berufsrechtliche Dachkammer für approbierte Psychotherapeut:innen und reguliert Familiengutachten nur mittelbar über die Berufsordnungen der Länderkammern. — <https://www.bptk.de/>
-- **Deutsche Gesellschaft für Psychologie (DGPs)** — Keine öffentliche Verbandsposition zum PA-Konstrukt; einschlägige Mitglieder (z. B. Walper, Kindler über DJI-Anbindung) vertreten individuell die Kritik-Linie, die das BVerfG 2023 zitiert. — <https://www.dgps.de/>
+- **Deutsche Gesellschaft für Psychologie (DGPs)** — Keine öffentliche Verbandsposition zum PA-Konstrukt; einschlägige Mitglieder (z. B. Walper, Kindler über DJI-Anbindung) vertreten individuell die Kritik-Linie, die das [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 zitiert. — <https://www.dgps.de/>
 - **Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN)** — Keine spezifische Stellungnahme zu PA/PAS; [ICD-11](https://icd.who.int/) (in Deutschland 2022-2027 Migrationsphase) enthält Code QE52.0 'caregiver-child relationship problem' — DGPPN hat hierzu keine eigene PA-bezogene Leitlinie publiziert. — <https://www.dgppn.de/>
 - **Berufsverband Deutscher Psychologinnen und Psychologen (BDP)** — Berufsverband (nicht Kammer); keine öffentliche Verbandsposition zum PA-Konstrukt verifiziert. — <https://www.bdp-verband.de/>
 - **BAG-EUK (Bundesarbeitsgemeinschaft Eltern-Kind-Entfremdung)** — Recognition-camp Interessenverband; NICHT als eingetragener Verein im Vereinsregister verifizierbar (Stand 2026 — nicht öffentlich verifiziert). Strukturell nicht mit den o. g. Kammern/Fachgesellschaften gleichzustellen. — <https://www.bag-euk.de/>
@@ -119,6 +119,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -36,7 +36,7 @@ Within the EU sequence, **Spain LOPIVI 2021 Disposición adicional 17ª** is the
 Three [Cassazione](https://www.cortedicassazione.it/) ordinanze (13217/2021 + 9691/2022 + 4595/2025) within four years produce the EU's strongest construct-critique line. Combined with **Riforma Cartabia D.lgs. 149/2022** statutory CTU restriction and the prior **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) Article 8 procedural-due-diligence standard, Italy operates the EU's most integrated apex-court + statute + Strasbourg multi-layer critique architecture.
 
 ### 4. German constitutional dimension distinct
-**[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** is the only constitutional-court-level construct decision in the EU sequence. Other apex decisions (Italian Cassazione + Spanish [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) + Polish Sąd Najwyższy) operate at civil/supreme-court level. The German constitutional articulation adds a Grundgesetz Art. 6 parental-rights + Art. 2(1) children's-personality-rights dimension absent from the other decisions.
+**[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** is the only constitutional-court-level construct decision in the EU sequence. Other apex decisions (Italian [Cassazione](https://www.cortedicassazione.it/) + Spanish [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) + Polish Sąd Najwyższy) operate at civil/supreme-court level. The German constitutional articulation adds a Grundgesetz Art. 6 parental-rights + Art. 2(1) children's-personality-rights dimension absent from the other decisions.
 
 ### 5. Poland's structurally distinctive pro-enforcement biegun
 Poland's **SN III CZP 20/25** is the only EU apex decision operating a **pro-enforcement / not-clinical** stance. Polish doctrine narrows the constitutional immunity from monetary sanction that **Trybunał Konstytucyjny SK 3/20 (22.6.2022)** had carved out — restoring the effectiveness of art. 598¹⁶ § 1 k.p.c. against alienating custodial parents. But Polish doctrine pointedly does not engage the PAS clinical construct: enforcement-recognition + construct-agnostic. This is the structurally distinctive Polish biegun within the EU sequence.
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

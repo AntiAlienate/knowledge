@@ -63,7 +63,7 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 
 ## Sources
 
-1. **BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17. November 2023 - 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de] — accessed 2026-05-30
+1. **[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss der 2. Kammer des Ersten Senats vom 17. November 2023 - 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de] — accessed 2026-05-30
 2. **Volltext (PDF) — 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2023/11/rk20231117_1bvr107623.pdf> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de] — accessed 2026-05-30
 3. **Zimmermann/Fichtner/Walper/Lux/Kindler, Verdorbener Wein in neuen Schläuchen — ZKJ 2023, 43 und 83** — <https://www.dji.de/> (Deutsches Jugendinstitut / ZKJ) [de] — accessed 2026-05-30
 
@@ -80,6 +80,8 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

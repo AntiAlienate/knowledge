@@ -234,7 +234,7 @@ Dar es Salaam (HQ; with regional offices Dodoma / Mwanza / Tanga / Arusha) · Ta
 *Institutional — Pan-African women's-rights legal network, established 1993 (Ghana chapter); registered NGO; coordinates with Ghana Bar Association / Legal Aid (General Legal Council)*
 Accra · Ghana national (Volta, Western and Greater Accra regions) · WiLDAF Ghana
 
-**Stance:** Ghana's leading women's-rights legal-development network — institutional family-law-education interlocutor for PA-adjacent custody work in Ghana. WiLDAF Ghana programmes page (https://site.wildaf-ghana.org/access-to-justice/) describes Family Law Education covering Marriage and Divorce, Child Protection, GBV legislation, and inheritance under the Children's Act 1998 (Act 560), the Matrimonial Causes Act 1971 (Act 367) and the Domestic Violence Act 2007 (Act 732). PA-construct critique is implicit in WiLDAF Ghana's documented Family Law Education curriculum and legal-aid services in Volta / Western / Greater Accra regions rather than explicit in a published PA position-paper. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
+**Stance:** Ghana's leading women's-rights legal-development network — institutional family-law-education interlocutor for PA-adjacent custody work in Ghana. WiLDAF Ghana programmes page (https://site.wildaf-ghana.org/access-to-justice/) describes Family Law Education covering Marriage and Divorce, Child Protection, GBV legislation, and inheritance under the Children's Act 1998 (Act 560), the Matrimonial Causes Act 1971 (Act 367) and the Domestic Violence Act 2007 (Act 732). PA-construct critique is implicit in WiLDAF Ghana's documented Family Law Education curriculum and legal-aid services in Volta / Western / Greater Accra regions rather than explicit in a published PA position-paper. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023), [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
 
 **Publications:**
 - Family Law Education curriculum (GBV, marriage / divorce, child-protection, inheritance) (2023) — *WiLDAF Ghana* — <https://site.wildaf-ghana.org/access-to-justice/>
@@ -375,6 +375,8 @@ Pretoria · Gauteng · Centre for Child Law (CCL), Faculty of Law, University of
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -81,7 +81,7 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 - Senate composition (Vorsitzende:r / Berichterstatter) not in the Pressemitteilung.
 - Name of the Sachverständige not stated; preserved as Sachverständige A per the Court's anonymisation.
 - Counsel for both parties not named in the Pressemitteilung.
-- Explicit cross-reference to BVerfG Rn. 34 in the Beschluss text cannot be confirmed without the Volltext; the cite is reconstructed from PM language echoing the BVerfG holding.
+- Explicit cross-reference to [BVerfG](https://www.bundesverfassungsgericht.de/) Rn. 34 in the Beschluss text cannot be confirmed without the Volltext; the cite is reconstructed from PM language echoing the BVerfG holding.
 - No NJW / NZFam / FamRZ Anmerkung located at time of writing (early Jan 2026 decision).
 - Any Folgeentscheidungen (other OLGe applying it) and any BPtK / DFGT statement applying the Mindestanforderungen are flagged as forward-looking research.
 
@@ -90,6 +90,8 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

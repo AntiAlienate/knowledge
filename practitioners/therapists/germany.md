@@ -13,7 +13,7 @@ Three historical / institutional caveats anchor the directory. First, the Cochem
 - Germany 2023-26 has crossed an institutional inflection point on the PAS construct: the [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23 ruling, combined with the DJI-anchored Zimmermann / Fichtner / Walper / Lux / Kindler (2023) ZKJ critique and the OLG Frankfurt 7 UF 88/25 (5.1.2026) Sachverstandigen-Mindestanforderungen, has moved the critique camp from minority position to institutional mainstream. The German PA-clinical scene is structurally inverted compared with most other [PASG](https://pasg.info/)-active jurisdictions: the recognition camp is counter-mainstream, the critique camp is institutional core.
 - Critique-camp scholars are the [BVerfG](https://www.bundesverfassungsgericht.de/)'s own cited authority: the Zimmermann / Fichtner / Walper / Lux / Kindler (2023) ZKJ team is not an external commentariat but the scientific reference the Federal Constitutional Court itself relied on. This makes German critique-camp clinicians uniquely well-anchored relative to peers in other EU jurisdictions.
 - The recognition camp's older anchors (Boch-Galhau, Kodjoe, Andritzky, Jopt) operate without an institutional university-clinic base. The contemporary recognition-camp lead voice, Stefan Rucker, operates from PETRA Projekt GmbH & Co. KG (private vehicle) — NOT from the Universitat Bremen, whose Senat publicly disputed the 'PETRA Arbeitsgruppe an der Universitat Bremen' framing in 2024 and requested correction.
-- Jorg Fichtner is critique-camp, not recognition-camp — frequently miscategorised by external observers because of his forensic Sachverstandigen practice; he is in fact a co-signatory of the central ZKJ 2023 critique article cited by the BVerfG.
+- Jorg Fichtner is critique-camp, not recognition-camp — frequently miscategorised by external observers because of his forensic Sachverstandigen practice; he is in fact a co-signatory of the central ZKJ 2023 critique article cited by the [BVerfG](https://www.bundesverfassungsgericht.de/).
 - Cochem-Zell no longer practices the Cochemer Modell — model was discontinued at the Cochem Familiengericht after Rudolph's 2008 retirement and survives as an exportable method label only.
 - No individual German forensic Sachverstandige is repeatedly positively-named in post-2023 OLG PA case-law: the case-law trend is the systematic criticism of Gutachter-qualifications in PA-framed custody-transfer recommendations, codified by OLG Frankfurt 7 UF 88/25 (2026).
 - Reinhart Wolff is excluded from the directory on safeguarding grounds (publicly documented historical position sympathetic to child-adult sexual contact disqualifies him from a child-protection-aligned PA directory). Listed in excluded[] with primary-source pointer.
@@ -70,7 +70,7 @@ Emmendingen · Baden-Wurttemberg · Independent practice Emmendingen; [PASG](htt
 *Diplom-Psychologe + Sozialwissenschaftler (PhD); independent researcher/author*
 Dusseldorf · Nordrhein-Westfalen · Independent researcher; not currently affiliated with a verifiable university chair or clinic
 
-**Stance:** Author of the 2002 Psychotherapie article *Verhaltensmuster und Personlichkeitsstruktur entfremdender Eltern* and the 2002 Deutsches Arzteblatt note *Nicht instrumentalisieren*, plus 2011 PA/PAS Update co-authored with Boch-Galhau / Kodjoe / Koeppel. Position is recognition-camp via published articles; PASG-aligned.
+**Stance:** Author of the 2002 Psychotherapie article *Verhaltensmuster und Personlichkeitsstruktur entfremdender Eltern* and the 2002 Deutsches Arzteblatt note *Nicht instrumentalisieren*, plus 2011 PA/PAS Update co-authored with Boch-Galhau / Kodjoe / Koeppel. Position is recognition-camp via published articles; [PASG](https://pasg.info/)-aligned.
 
 **Publications:**
 - Verhaltensmuster und Personlichkeitsstruktur entfremdender Eltern (2002) — *Psychotherapie 7(2):166-182*
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

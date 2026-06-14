@@ -95,13 +95,15 @@ Bernet's role: gatekeeper. Apply his 5 before applying any other framework.
 - Frontiers in Psychology 2018 FFPAS: https://doi.org/10.3389/fpsyg.2018.01996
 - [Parental Alienation Study Group](https://pasg.info/): https://www.parentalalienationstudygroup.com/
 - [ICD-11](https://icd.who.int/) QE52: https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1393837731
-- DSM-5 V61.29: https://www.psychiatry.org/psychiatrists/practice/dsm
+- [DSM-5](https://www.appi.org/products/dsm) V61.29: https://www.psychiatry.org/psychiatrists/practice/dsm
 
 ---
 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Diagnostic application of the Bernet 5 criteria requires a qualified mental-health professional. Forensic application in custody proceedings requires a court-appointed evaluator.
+
+
 
 
 

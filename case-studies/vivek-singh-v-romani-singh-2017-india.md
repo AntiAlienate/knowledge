@@ -80,13 +80,15 @@ Custody / guardianship determination made by reference to the child's best inter
 - Counsel for the parties is not enumerated in this entry; will be added from the SCI PDF front sheet once retrievable.
 - Ms Kanungo's individual psychology / social-work credentials and current incumbency are not publicly displayed; the Family Courts Act 1984 counsellor mechanism under which she was appointed is itself a court-administrative rather than RCI/NMC-regulated profession.
 - Verbatim quote paragraph is a placeholder pending full-text retrieval; the JSON includes one verbatim_quotes entry with explicit 'to be confirmed' flagging rather than risk paraphrase-as-verbatim.
-- The structural framing as 'India's foundational apex-court engagement with parental alienation' is supported by the absence of any earlier Supreme Court of India authority defining PAS on the record and by the consistent treatment of Vivek Singh as the apex anchor in the subsequent Delhi HC line (ABC v XYZ 2023, A v B 2026).
+- The structural framing as 'India's foundational apex-court engagement with parental alienation' is supported by the absence of any earlier [Supreme Court of India](https://main.sci.gov.in/) authority defining PAS on the record and by the consistent treatment of Vivek Singh as the apex anchor in the subsequent Delhi HC line (ABC v XYZ 2023, A v B 2026).
 
 *Author: Alan Markson.*
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

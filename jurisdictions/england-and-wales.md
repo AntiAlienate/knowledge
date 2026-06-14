@@ -33,7 +33,7 @@ England & Wales has the most-developed parental alienation case-law arc in any c
   - Amends s.31(9) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) to recognise that significant harm includes impairment suffered from witnessing the ill-treatment of another — the statutory hook for the harm analysis under PD12J post-2017 revision and reasserted in Re H-N 2021.
 - **[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6)** — Presumption of parental involvement (s.11) — Parental Responsibility (PRA) regime (2014) — <https://www.legislation.gov.uk/ukpga/2014/6/contents>
   - Inserts s.1(2A) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — rebuttable presumption that involvement of each parent in the child's life furthers welfare unless contrary evidence. Renames residence/contact as child arrangements orders. The PRA presumption is the statutory anchor most often invoked by the 'recognition pole' in PA-adjacent argument.
-- **[Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17)** — Statutory definition of domestic abuse (s.1); s.67 amendments to s.91(14) Children Act 1989 (2021) — <https://www.legislation.gov.uk/ukpga/2021/17/contents>
+- **[Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17)** — Statutory definition of domestic abuse (s.1); s.67 amendments to s.91(14) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (2021) — <https://www.legislation.gov.uk/ukpga/2021/17/contents>
   - Statutorily defines domestic abuse to include coercive or controlling behaviour and recognises children as victims in their own right where they see, hear or experience the effects of such abuse. Materially reinforces the Re H-N para 31 pattern-of-coercive-control doctrinal anchor under PD12J.
 - **Equality Act 2010** — Protected characteristics and reasonable-adjustment duties in court proceedings (2010) — <https://www.legislation.gov.uk/ukpga/2010/15/contents>
   - Procedural framework for accommodation of vulnerable parties in family proceedings; intersects with PD3AA (vulnerable witnesses) where one party is a survivor of domestic abuse — relevant to the PD12J fact-finding posture.
@@ -76,7 +76,7 @@ Section 97 Children Act 1989 prohibits publication of material likely to identif
 - **2019** — 17 October 2019 — Re A (Children) (Parental Alienation) [2019] EWFC B56, HHJ Stephen Wildblood QC sitting at Bristol Family Court. Opening node of the modern English Re-arc; early judicial articulation of an alienation framing within s.1 Children Act 1989 welfare analysis. — <https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html>
 - **2020** — 29 April 2020 — Re S (Parental Alienation: Cult) [2020] EWCA Civ 568, Court of Appeal (Civil Division), Sir Andrew McFarlane P. Second node of the Re-arc; the Court of Appeal articulates a structured approach to allegations of alienating behaviour within the welfare-paramountcy framework. — <https://www.bailii.org/ew/cases/EWCA/Civ/2020/568.html>
 - **2021** — 30 March 2021 — Re H-N and Others (Children) (Domestic Abuse: Finding-of-Fact Hearings) [2021] EWCA Civ 448, McFarlane P + King LJ + Holroyde LJ joint judgment. Third and load-bearing node of the Re-arc: para 31 reframes the PD12J inquiry around 'pattern of coercive control' rather than discrete incidents. The word 'alienation' does not appear in the body of the Re H-N judgment — the PA framework is engaged via implication and the PD12J pattern-of-coercive-control doctrinal anchor. — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html>
-- **2023** — 22 March 2023 — Re C ('Parental Alienation'; Instruction of Psychologist) [2023] EWHC 345 (Fam), McFarlane P sitting alone in the Family Court at High Court level. Fourth node of the Re-arc: anchors the HCPC-registration 'kitemark' for any psychologist instructed under PD25B to opine on alienation, prefiguring the FJC December 2024 finalised guidance. — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html>
+- **2023** — 22 March 2023 — Re C ('Parental Alienation'; Instruction of Psychologist) [2023] EWHC 345 (Fam), McFarlane P sitting alone in the Family Court at High Court level. Fourth node of the Re-arc: anchors the [HCPC](https://www.hcpc-uk.org/)-registration 'kitemark' for any psychologist instructed under PD25B to opine on alienation, prefiguring the FJC December 2024 finalised guidance. — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html>
 - **2024** — December 2024 — Family Justice Council finalised guidance on the use of expert evidence in cases involving allegations of alienating behaviours. Operationalises Re C 2023 across the family courts: codifies the HCPC-registration kitemark and embeds a domestic-abuse-aware methodological standard consistent with PD12J and Re H-N para 31. — <https://www.judiciary.uk/courts-and-tribunals/judiciary-organisation/judicial-committees/family-justice-council/>
 - **2026** — 20 February 2026 — Re Y [2026] EWFC 38, McFarlane P. Fifth and closing node of the English Re-arc: child-arrangements order set aside where it had been founded on an unregulated PA-evaluator's report by Melanie Gill (HCPC-unregistered); 'every agency at fault' framing addresses the regulatory-disclosure axis and operationalises the Re C 2023 / FJC December 2024 kitemark against unregistered expert evidence. — <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html>
 
@@ -128,7 +128,7 @@ Section 97 Children Act 1989 prohibits publication of material likely to identif
 12. **iFLG — International Family Law Group LLP** — <https://www.iflg.uk.com/> (International Family Law Group) [en]
 13. **ACP-UK — Association of Clinical Psychologists UK** — <https://acpuk.org.uk/> (ACP-UK) [en]
 14. **HCPC — Health and Care Professions Council** — <https://www.hcpc-uk.org/> (HCPC) [en]
-15. **Cafcass — Children and Family Court Advisory and Support Service** — <https://www.cafcass.gov.uk/> (Cafcass) [en]
+15. **[Cafcass](https://www.cafcass.gov.uk/) — Children and Family Court Advisory and Support Service** — <https://www.cafcass.gov.uk/> (Cafcass) [en]
 16. **Family Justice Council — December 2024 finalised guidance on expert evidence in cases involving allegations of alienating behaviours** — <https://www.judiciary.uk/courts-and-tribunals/judiciary-organisation/judicial-committees/family-justice-council/> (Family Justice Council / Judicial Office) [en]
 17. **[BPS](https://www.bps.org.uk/) — British Psychological Society** — <https://www.bps.org.uk/> (British Psychological Society) [en]
 18. **[legislation.gov.uk](https://www.legislation.gov.uk/) — official UK legislation portal** — <https://www.legislation.gov.uk/> (The National Archives) [en]
@@ -147,6 +147,8 @@ Section 97 Children Act 1989 prohibits publication of material likely to identif
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

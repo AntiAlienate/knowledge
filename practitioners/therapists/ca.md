@@ -342,7 +342,7 @@ Montreal · Quebec · Ordre des psychologues du Quebec — statutory francophone
 *PhD; Registered Clinical-Developmental Psychologist (College of Psychologists of Ontario, since 1987); Accredited Family Mediator (OAFM #407)*
 Toronto · Ontario · Private practice (Toronto); founding member Family Solutions Toronto; editorial board Family Court Review; [AFCC](https://www.afccnet.org/) Overcoming Barriers HCDC staff psychologist
 
-**Stance:** Most-cited Canadian PA practitioner across both camps. Children Who Resist Post-Separation Parental Contact (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), OUP 2013) is the AFCC-aligned middle-ground textbook referenced across US, UK, AU and EU evaluator literature. Quoted by CTV News (2019) supporting WHO/[ICD-11](https://icd.who.int/) recognition: 'I actually lose sleep over these families.' Operates the Families Moving Forward multi-day reunification intervention. Middle-camp but recognition-tilting; functions as cross-jurisdictional anchor through AFCC Overcoming Barriers HCDC staff role and FCR editorial work — directly cross-links to US-based AFCC infrastructure.
+**Stance:** Most-cited Canadian PA practitioner across both camps. Children Who Resist Post-Separation Parental Contact (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), OUP 2013) is the [AFCC](https://www.afccnet.org/)-aligned middle-ground textbook referenced across US, UK, AU and EU evaluator literature. Quoted by CTV News (2019) supporting WHO/[ICD-11](https://icd.who.int/) recognition: 'I actually lose sleep over these families.' Operates the Families Moving Forward multi-day reunification intervention. Middle-camp but recognition-tilting; functions as cross-jurisdictional anchor through AFCC Overcoming Barriers HCDC staff role and FCR editorial work — directly cross-links to US-based AFCC infrastructure.
 
 **Publications:**
 - Children Who Resist Post-Separation Parental Contact: A Differential Approach for Legal and Mental Health Professionals (2013) — *Oxford University Press (with Nicholas Bala and Michael A. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535))* — <https://global.oup.com/academic/product/children-who-resist-post-separation-parental-contact-9780199895496>
@@ -368,7 +368,7 @@ Kingston · Ontario · Professor, Faculty of Law, Queen's University; co-author 
 **Stance:** Queen's University Law professor and co-author of the canonical Canadian differential-diagnosis textbook with Fidler and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). Bala's cross-jurisdictional citation footprint anchors Canadian middle-camp authority in UK (Re Y [2026] EWFC 38 comparative literature), US (FCR editorial board), and AU (Family Court of Australia evaluator citations). Functions as Goldson-equivalent Canadian middle-ground figure for cross-border comparative reception.
 
 **Publications:**
-- Children Who Resist Post-Separation Parental Contact: A Differential Approach (2013) — *Oxford University Press (co-author with Fidler and Saini)* — <https://global.oup.com/academic/product/children-who-resist-post-separation-parental-contact-9780199895496>
+- Children Who Resist Post-Separation Parental Contact: A Differential Approach (2013) — *Oxford University Press (co-author with Fidler and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535))* — <https://global.oup.com/academic/product/children-who-resist-post-separation-parental-contact-9780199895496>
 - Toward the Differentiation of High-Conflict Families (2010) — *Family Court Review 48(3):403-416 (with Birnbaum)*
 - Children Resisting Postseparation Contact with a Parent (2010) — *Family Court Review 48(1):10-47 (with Fidler)*
 - Various Canadian Family Law Quarterly and Canadian Journal of Family Law articles on PA / parent-child contact problems (2018) — *Canadian Family Law Quarterly / Canadian Journal of Family Law*
@@ -446,6 +446,8 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

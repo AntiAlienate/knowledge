@@ -47,7 +47,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 - **1995** — Children (Scotland) Act 1995 + Children (NI) Order 1995 — substantive Scottish + NI children-law architecture. — <https://www.legislation.gov.uk/ukpga/1995/36/contents>
 - **2008** — Health and Social Care Act 2008 — establishes [HCPC](https://www.hcpc-uk.org/) as UK-wide statutory regulator for practitioner psychologists. — <https://www.legislation.gov.uk/ukpga/2008/14>
 - **2025** — NF v AF [2025] CSOH 13 (Lord Stuart) — strongest single Scottish judicial PA finding. — <https://www.bailii.org/scot/cases/ScotCS/2025/>
-- **2026** — Re Y [2026] EWFC 38 (McFarlane P) — UK-wide evaluator-quality apex authority (HCPC-registration requirement for PA evaluators). — <https://www.bailii.org/ew/cases/EWFC/2026/>
+- **2026** — Re Y [2026] EWFC 38 (McFarlane P) — UK-wide evaluator-quality apex authority ([HCPC](https://www.hcpc-uk.org/)-registration requirement for PA evaluators). — <https://www.bailii.org/ew/cases/EWFC/2026/>
 
 ## Structural findings
 
@@ -68,7 +68,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 
 ## Sources
 
-1. **[UK Supreme Court](https://www.supremecourt.uk/)** — <https://www.supremecourt.uk/> (UK Supreme Court) [en]
+1. **[UK Supreme Court](https://www.supremecourt.uk/)** — <https://www.supremecourt.uk/> ([UK Supreme Court](https://www.supremecourt.uk/)) [en]
 2. **Judiciary of the UK** — <https://www.judiciary.uk/> (Judiciary of the UK) [en]
 3. **UK Legislation** — <https://www.legislation.gov.uk/> (UK Government) [en]
 4. **Health and Care Professions Council (HCPC)** — <https://www.hcpc-uk.org/> (HCPC) [en]
@@ -86,6 +86,8 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
