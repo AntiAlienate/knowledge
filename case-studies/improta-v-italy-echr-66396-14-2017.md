@@ -136,6 +136,8 @@ Violation of Article 8 ECHR found. Just satisfaction (Article 41): EUR 3,000 awa
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

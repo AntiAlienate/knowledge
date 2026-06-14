@@ -105,6 +105,8 @@ Section 11(5)-(6) automatic-discharge rules are operationally important: if pare
 - **Statute citation:** Children Act 1989 (1989 c.41), section 11 (as amended by Children and Families Act 2014 to update terminology for "child arrangements orders" — replacing prior "residence orders" and "contact orders" terminology in subsections (5)-(7))
 - **Status:** Crown copyright; published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — verbatim reproduction permitted.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

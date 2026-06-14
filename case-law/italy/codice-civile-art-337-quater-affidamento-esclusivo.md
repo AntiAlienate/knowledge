@@ -85,6 +85,8 @@ The Italian Cassazione's PA-aware jurisprudence under art. 337-quater is in part
 - **Key Cassazione interpretation:** Cass. civ. Sez. I, ordinanza n. 31571 del 9 dicembre 2024 (affidamento super-esclusivo as extreme-gravity residual measure); Cass. civ. Sez. I, ordinanza n. 18828 del 4 luglio 2023 (affido esclusivo grounded in established unfitness of other parent); Cass. civ. Sez. I, n. 9764 dell'8 aprile 2019 (PA-pattern conduct as ground for exclusive custody).
 - **Status:** Italian state statute — public-domain text.
 
+
+
 <!-- AA-CITE-START -->
 
 ---
