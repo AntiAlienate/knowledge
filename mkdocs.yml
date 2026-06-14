@@ -134,6 +134,12 @@ nav:
     - Community: community/README.md
     - Contributing: CONTRIBUTING.md
 
+# Override mkdocs's default-exclude of /templates/ — the directory is our
+# practical-templates content (parent-facing forms), not Jinja2 theme templates.
+exclude_docs: |
+  !/templates/
+  !/templates/**
+
 not_in_nav: |
   /press/
   /docs/
