@@ -65,7 +65,7 @@ Lorentzhuis Kinderen uit de Knel programme (Justine van Lawick + Margreet Visser
 ## Structural observations
 
 ### 1. Three regulatory routes
-- **Mainstream regulator-within** (NZ Goldson; AU FRW; UK Cafcass post-Re Y; SA Family Advocate; IT CTU post-Riforma; Singapore CAPS; HK SWD Centres; India counsellor mechanism).
+- **Mainstream regulator-within** (NZ Goldson; AU FRW; UK [Cafcass](https://www.cafcass.gov.uk/) post-Re Y; SA Family Advocate; IT CTU post-Riforma; Singapore CAPS; HK SWD Centres; India counsellor mechanism).
 - **Extra-regulator NGO programme** (US [Family Bridges](https://warshak.com/family-bridges/); Canadian Family Reflections).
 - **Methodological-advisory framework** (NL Methode SAT; NJI Richtlijn 2020 + Lorentzhuis methodology).
 
@@ -81,7 +81,7 @@ US [Family Bridges](https://warshak.com/family-bridges/) operates as 'educationa
 Australian FCFCOA Family Report Writers Network is BY DESIGN the structural middle-camp evaluator architecture — court-controlled single-expert pool addressing concerns about party-driven duelling-expert litigation. Post-2023 Schedule 2 Court Children's Report regime tightens evaluator standards.
 
 ### 5. New Zealand Goldson Model government-adopted
-NZ Goldson Family Matters Centre Goldson Model adopted by NZ government for child-inclusive mediation in 'Bridging the Gap' programme — distinctive in NZ recognition-camp clinical practice being institutionally absorbed into government policy. Distinct from US Family Bridges + Canadian Family Reflections operating outside government adoption.
+NZ Goldson Family Matters Centre Goldson Model adopted by NZ government for child-inclusive mediation in 'Bridging the Gap' programme — distinctive in NZ recognition-camp clinical practice being institutionally absorbed into government policy. Distinct from US [Family Bridges](https://warshak.com/family-bridges/) + Canadian Family Reflections operating outside government adoption.
 
 ### 6. Italian Riforma Cartabia restricts CTU substantively
 Italian Riforma Cartabia operates at substantive-construct level restricting CTU evaluations based on PAS construct. Unique among jurisdictions surveyed in restricting evaluator practice at construct-validity level rather than at credentialing or evaluator-quality level.
@@ -119,6 +119,8 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+
+
 
 
 

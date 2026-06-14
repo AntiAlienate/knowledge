@@ -37,7 +37,7 @@ A cassation appeal from a substantive *cour d'appel* arrêt on residence and par
 
 ## The judgment
 
-The Cour de cassation **rejected the pourvoi** (rejeté le pourvoi) and confirmed the Rennes arrêt.
+The [Cour de cassation](https://www.courdecassation.fr/) **rejected the pourvoi** (rejeté le pourvoi) and confirmed the Rennes arrêt.
 
 The Court's reasoning, distilled, was that:
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

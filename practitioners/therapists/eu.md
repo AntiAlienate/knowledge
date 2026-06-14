@@ -62,7 +62,7 @@
 - **Programs / publications:**
   - Co-author of the 2011 *PA / PAS Update* with Boch-Galhau, Andritzky and Koeppel
   - Co-author of the 2006 chapter (with Boch-Galhau) in *International Handbook of PAS* (Charles C Thomas)
-  - PASG Brussels 2021 presenter on the German *Cochemer Praxis* consensus model
+  - [PASG](https://pasg.info/) Brussels 2021 presenter on the German *Cochemer Praxis* consensus model
   - Recurring expert in German press coverage (NZZ, Spiegel) on Eltern-Kind-Entfremdung
 - **Primary contact:** LinkedIn DM https://de.linkedin.com/in/ursula-kodjoe-b2815340 ; practice address Emmendingen — **specific street address not publicly confirmed** on independent register
 - **Tier:** 1
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

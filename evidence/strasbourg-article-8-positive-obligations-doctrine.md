@@ -92,7 +92,7 @@ Strasbourg engages [Hague Convention 1980](https://www.hcch.net/en/instruments/c
 
 | Jurisdiction | Apex case-law engaging Strasbourg Art 8 | Strasbourg-specific anchor |
 |---|---|---|
-| **Italy** | Cassazione 9691/2022 explicitly engages Strasbourg triptych | Lombardo 2013 + Strumia 2016 + Improta 2017 |
+| **Italy** | [Cassazione](https://www.cortedicassazione.it/) 9691/2022 explicitly engages Strasbourg triptych | Lombardo 2013 + Strumia 2016 + Improta 2017 |
 | **Germany** | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 Convention-conform interpretation | implicit, not explicit citation |
 | **Spain** | STS 519/2017 + LOPIVI 2021 compatible | implicit |
 | **Poland** | SN III CZP 20/25 enforcement-focused | not Art 8-specific (procedural-domestic-focused) |
@@ -132,6 +132,8 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
+
+
 
 
 

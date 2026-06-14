@@ -16,7 +16,7 @@ Cass. 1re civ., 26 juin 2013, n° 12-14.392 (publié au Bulletin) est la premiè
 
 ## Counsel
 
-- **SCP Richard** (Avocat aux Conseils (avocat à la Cour de cassation et au Conseil d'État)) — SCP Richard, avocat aux Conseils for l'une des parties (mention en tête de l'arrêt sur Légifrance)
+- **SCP Richard** (Avocat aux Conseils (avocat à la [Cour de cassation](https://www.courdecassation.fr/) et au Conseil d'État)) — SCP Richard, avocat aux Conseils for l'une des parties (mention en tête de l'arrêt sur Légifrance)
 - **SCP Waquet, Farge et Hazan** (Avocat aux Conseils (avocat à la Cour de cassation et au Conseil d'État)) — SCP Waquet, Farge et Hazan for l'autre partie (mention en tête de l'arrêt sur Légifrance)
 
 ## Experts
@@ -124,13 +124,15 @@ REJET du pourvoi (et non cassation). La Cour de cassation, Première Chambre civ
 - PORTÉE TECHNIQUE — REJET vs CASSATION : l'arrêt est un REJET du pourvoi (et non une cassation). Cela signifie que la Cour de cassation ne casse pas l'arrêt de la Cour d'appel de Rennes du 29 novembre 2011 ; elle le confirme implicitement en rejetant les moyens. En conséquence, l'arrêt de Rennes — qui avait transféré la résidence de l'enfant chez le père en s'appuyant sur le SAP — est définitivement validé. Cette qualification (rejet) est CRUCIALE pour ne pas surinterpréter l'arrêt : la Cour de cassation ne consacre pas le SAP, elle protège l'usage qu'en a fait la cour d'appel au titre du pouvoir souverain d'appréciation des juges du fond.
 - PORTÉE STRATÉGIQUE — usage de l'arrêt aujourd'hui : Cass. 1re civ. 26 juin 2013 n'a JAMAIS été expressément revirée par la Cour de cassation. Le déplacement de la position française entre 2013 et 2026 s'est opéré par voie ministérielle (circulaire 2018) et législative (loi du 30 juillet 2020), non par revirement jurisprudentiel. Pour un avocat plaidant en 2026, l'arrêt reste donc invocable devant un JAF ou une cour d'appel comme autorité de la Cour de cassation française sur le pouvoir souverain d'appréciation des juges du fond en matière de constatations factuelles d'« aliénation parentale » ; il doit en revanche être manié avec prudence en présence d'allégations crédibles de violences intrafamiliales, depuis la loi de 2020 et la critique sociologique structurée par Andreea Gruev-Vintila.
 - ECLI : le format ECLI:FR:CCASS:2013:C100725 est reconstruit conformément à la convention française de codification ECLI pour les arrêts de la 1re Chambre civile (CCASS / C1 / numéro d'arrêt interne 00725 pour le 26 juin 2013). L'ECLI exact n'est pas systématiquement reproduit sur la version Légifrance JURITEXT antérieure à 2016 ; à vérifier contre le portail Judilibre (https://www.courdecassation.fr/acces-rapide-judilibre).
-- ANCRAGES STATUTAIRES : la base juridique mobilisée dans la motivation est l'article 373-2-13 du Code civil (modification à tout moment des mesures relatives à l'exercice de l'autorité parentale) lu en combinaison avec l'article 373-2-12 (enquête sociale). L'article 373-2-11 (critères d'appréciation par le JAF lorsqu'il statue sur l'exercice de l'autorité parentale) n'est PAS expressément visé par l'arrêt de cassation, mais constitue l'arrière-plan substantiel sur lequel la cour d'appel de Rennes a opéré son appréciation souveraine. La mention de 373-2-11 dans cette fiche est doctrinale, pas verbatim.
+- ANCRAGES STATUTAIRES : la base juridique mobilisée dans la motivation est l'article 373-2-13 du [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) (modification à tout moment des mesures relatives à l'exercice de l'autorité parentale) lu en combinaison avec l'article 373-2-12 (enquête sociale). L'article 373-2-11 (critères d'appréciation par le JAF lorsqu'il statue sur l'exercice de l'autorité parentale) n'est PAS expressément visé par l'arrêt de cassation, mais constitue l'arrière-plan substantiel sur lequel la cour d'appel de Rennes a opéré son appréciation souveraine. La mention de 373-2-11 dans cette fiche est doctrinale, pas verbatim.
 
 *Author: Alan Markson.*
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -79,7 +79,7 @@ IACtHR decisions are anonymised per IACtHR practice using initials or first-name
 
 ## Sources
 
-1. **Inter-American Court of Human Rights** — <https://www.corteidh.or.cr/> (IACtHR) [es]
+1. **[Inter-American Court of Human Rights](https://corteidh.or.cr/)** — <https://www.corteidh.or.cr/> (IACtHR) [es]
 2. **Inter-American Commission on Human Rights** — <https://www.oas.org/en/iachr/> (OAS) [en]
 
 ## Editorial notes
@@ -92,6 +92,8 @@ IACtHR decisions are anonymised per IACtHR practice using initials or first-name
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

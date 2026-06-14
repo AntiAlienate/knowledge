@@ -114,7 +114,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 
 ## Subsequent reception
 
-- Blog dott. Marco Pingitore (psicologo forense) (2025) — Pingitore, 'La Cassazione su ascolto minore, alienazione parentale, responsabilità genitoriale, violenza domestica e affidamento ai Servizi Sociali', 2 marzo 2025 — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/>
+- Blog dott. Marco Pingitore (psicologo forense) (2025) — Pingitore, 'La [Cassazione](https://www.cortedicassazione.it/) su ascolto minore, alienazione parentale, responsabilità genitoriale, violenza domestica e affidamento ai Servizi Sociali', 2 marzo 2025 — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/>
   - Annotazione clinica-forense di prima generazione (a undici giorni dal deposito) che identifica Cass. 4595/2025 come pronuncia che chiude il cerchio sul divieto di 'diagnosi disancorate dai comportamenti' come fondamento di un giudizio di idoneità genitoriale.
 - Euroconference / EcNews (2025) — EcNews, 'Famiglia.pdf' — riproduzione del testo integrale di Cass. 4595/2025, marzo 2025 — <https://www.ecnews.it/app/uploads/sites/4/2025/03/Famiglia.pdf>
   - Pubblicazione del PDF del testo integrale dell'ordinanza da parte del circuito editoriale Euroconference; fonte primaria di riferimento per gli operatori di settore prima del massimario italgiure.
@@ -185,6 +185,8 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

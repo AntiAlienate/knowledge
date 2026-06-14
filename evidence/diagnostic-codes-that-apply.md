@@ -28,7 +28,7 @@
 
 > "Examples include berating, disparaging, or humiliating the child; threatening the child; harming/abandoning — or indicating that the alleged offender will harm/abandon — people or things that the child cares about; confinement of the child (as by tying a child's arms or legs together or binding a child to a piece of furniture); scapegoating of the child; coercing the child to inflict pain on himself or herself; and disciplining the child excessively (i.e., at an extremely high frequency or duration, even if not at a level of physical abuse) through physical or nonphysical means."
 
-(The examples-list wording above is reproduced verbatim from DSM-5 page 719 as cited by multiple secondary-academic sources; see Loretta Maase, "Parent Alienation and Child Psychological Abuse in the DSM-5," https://lorettamaase.com/parent-alienation-psychological-abuse/, and the DSM-5 secondary discussion at https://drcachildress-consulting.com/wp-content/uploads/2019/11/DSM-5-Diagnostic-Formulations-from-Foundations-Chldress-2015.pdf — **[secondary verification only]** for the exact text, which is copyrighted by the American Psychiatric Association.)
+(The examples-list wording above is reproduced verbatim from [DSM-5](https://www.appi.org/products/dsm) page 719 as cited by multiple secondary-academic sources; see Loretta Maase, "Parent Alienation and Child Psychological Abuse in the DSM-5," https://lorettamaase.com/parent-alienation-psychological-abuse/, and the DSM-5 secondary discussion at https://drcachildress-consulting.com/wp-content/uploads/2019/11/DSM-5-Diagnostic-Formulations-from-Foundations-Chldress-2015.pdf — **[secondary verification only]** for the exact text, which is copyrighted by the American Psychiatric Association.)
 
 **The encoding pair.**
 - **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (where there is sufficient evidence that the abuse has occurred).
@@ -97,7 +97,7 @@ The [PASG](https://pasg.info/) draft proposed five PARP criteria, verbatim from 
 4. "the use of multiple alienating behaviors by the favored parent";
 5. "the manifestation of behavioral signs of alienation by the child".
 
-DSM-5-TR retained the existing V61.20 / Z62.820 (Parent-Child Relational Problem) and V61.29 / Z62.898 (Child Affected by Parental Relationship Distress) framing. A subsequent 2023 follow-up proposal by Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Narrow & Wamboldt — "Proposal for a Correction and Clarification to Parent–Child Relational Problem," dated 2023-09-01, URL https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf — sought textual expansion of the PCRP entry to acknowledge that "a child's resistance or refusal to maintain contact with a parent" may "[stem] from parental behaviors—including manipulation, denigration, or interference—rather than legitimate safety concerns." This proposal is, at compilation date, **not yet adopted** by the APA.
+[DSM-5-TR](https://www.appi.org/products/dsm) retained the existing V61.20 / Z62.820 (Parent-Child Relational Problem) and V61.29 / Z62.898 (Child Affected by Parental Relationship Distress) framing. A subsequent 2023 follow-up proposal by Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Narrow & Wamboldt — "Proposal for a Correction and Clarification to Parent–Child Relational Problem," dated 2023-09-01, URL https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf — sought textual expansion of the PCRP entry to acknowledge that "a child's resistance or refusal to maintain contact with a parent" may "[stem] from parental behaviors—including manipulation, denigration, or interference—rather than legitimate safety concerns." This proposal is, at compilation date, **not yet adopted** by the APA.
 
 ---
 
@@ -126,7 +126,7 @@ The structure of [ICD-11](https://icd.who.int/) differs from DSM-5. PA-pattern c
 
 > "Substantial and sustained dissatisfaction within a caregiver-child relationship, including a parental relationship, associated with significant disturbance in functioning."
 
-Source: WHO [ICD-11](https://icd.who.int/) MMS entity 547677013, mirrored at https://www.findacode.com/icd-11/code-547677013.html (the WHO ICD-11 browser at https://icd.who.int/browse11/l-m/en is a JavaScript single-page application that returned the navigation shell rather than the entity text on direct fetch; secondary academic and coding-tool mirrors quote the definition consistently).
+Source: WHO [ICD-11](https://icd.who.int/) MMS entity 547677013, mirrored at https://www.findacode.com/icd-11/code-547677013.html (the WHO [ICD-11](https://icd.who.int/) browser at https://icd.who.int/browse11/l-m/en is a JavaScript single-page application that returned the navigation shell rather than the entity text on direct fetch; secondary academic and coding-tool mirrors quote the definition consistently).
 
 **Listed synonyms / index terms (as of compilation date).**
 - Parent-child relationship problem
@@ -443,7 +443,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - Silberg, J., & Dallam, S. (2019). Abusers gaining custody in family courts: A case series of overturned decisions. *Journal of Child Custody*, 16(2), 140–169. **[secondary verification only]** for exact citation.
 
 **Cross-jurisdictional clinical-practice sources.**
-- Cafcass (England and Wales). *Alienating Behaviours.* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours
+- [Cafcass](https://www.cafcass.gov.uk/) (England and Wales). *Alienating Behaviours.* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours
 - Cafcass. *Child Impact Assessment Framework (CIAF).* https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf
 - Cafcass (2025). *Understanding why a child does not want to spend family time with a parent.* https://www.cafcass.gov.uk/sites/default/files/2025-07/Understanding%20why%20a%20child%20does%20not%20want%20to%20spend%20family%20time%20with%20a%20parent.pdf
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

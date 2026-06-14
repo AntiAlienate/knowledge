@@ -59,7 +59,7 @@ Desestima el recurso de casación interpuesto por la madre. Confirma la sentenci
 - Consejo de Ministros (España) — Reforma de la LOPIVI (2026) — Anteproyecto aprobado el 5 de mayo de 2026, ampliando la prohibición del SAP y sus reformulaciones — <https://www.juventudeinfancia.gob.es/es/comunicacion/notas-prensa/gobierno-aprueba-ampliacion-lopivi-garantiza-derecho-escucha-infancia>
   - La reforma extiende la inadmisión del SAP a «cualquier reformulación o enfoque pseudocientífico» y abre la impugnación de resoluciones basadas en ese marco. Refuerza el desplazamiento legislativo de la posición de reconocimiento intermedio que STS 519/2017 había abierto en 2017.
 - Doctrina académica española — Revista Española de Medicina Legal (2022) — «El llamado síndrome de alienación parental y sus derivaciones» (2022), S0377473221000559 — <https://www.elsevier.es/es-revista-revista-espanola-medicina-legal-285-articulo-el-llamado-sindrome-alienacion-parental-S0377473221000559>
-  - Línea crítica médico-legal: el SAP «no ha obtenido aceptación en las clasificaciones psiquiátricas ni la validez y aval científicos necesarios». No cita directamente STS 519/2017 pero su tesis general socava la doctrina del Tribunal Supremo de 2017 al exigir adherencia estricta a CIE/DSM.
+  - Línea crítica médico-legal: el SAP «no ha obtenido aceptación en las clasificaciones psiquiátricas ni la validez y aval científicos necesarios». No cita directamente STS 519/2017 pero su tesis general socava la doctrina del [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) de 2017 al exigir adherencia estricta a CIE/DSM.
 - Prensa jurídica especializada (camp de reconocimiento) (2018) — Confilegal, Iustel, bastidabogados.com, asociacionabogadosfamilia.com — comentarios 2017-2019 — <https://confilegal.com/20180304-la-manipulacion-los-hijos-la-custodia-compartida/>
   - Los comentaristas próximos al campo de reconocimiento (custodia compartida, derechos del padre alejado) celebran STS 519/2017 como «punto de inflexión» y como vehículo doctrinal para que los tribunales españoles valoren la manipulación del menor.
 - Doctrina académica crítica iberoamericana (LATAM) (2022) — Repositorios PUCE Ecuador y USFQ Law Working Papers; comentarios desde Argentina, Colombia y Perú — <https://repositorio.puce.edu.ec/items/1d3cab45-fadd-49a7-9d7a-f1d833b3db5a>
@@ -103,6 +103,8 @@ Desestima el recurso de casación interpuesto por la madre. Confirma la sentenci
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

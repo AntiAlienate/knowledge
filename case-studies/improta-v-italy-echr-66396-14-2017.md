@@ -89,7 +89,7 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 3. **Italian Ministry of Justice — case file SDU35115 (Improta v. Italy 2017)** — <https://www.giustizia.it/giustizia/it/mg_1_20_1.page?contentId=SDU35115> (Ministero della Giustizia (Italy)) [it] — accessed 2026-05-30
 4. **Marina Castellaneta — 'Diritto di visita non garantito in modo effettivo: nuova condanna all'Italia'** — <http://www.marinacastellaneta.it/blog/diritto-di-visita-non-garantito-in-modo-effettivo-nuova-condanna-allitalia.html> (Marina Castellaneta (Università di Bari)) [it] — accessed 2026-05-30
 5. **[ECtHR](https://www.echr.coe.int/) Press Unit — 'Parental Rights' factsheet** — <https://www.echr.coe.int/documents/d/echr/fs_parental_eng> ([European Court of Human Rights](https://www.echr.coe.int/) — Press Unit) [en] — accessed 2026-05-30
-6. **ECtHR — 'Rights of the child: Contact rights' key-theme briefing** — <https://ks.echr.coe.int/documents/d/echr-ks/contact-rights> ([European Court of Human Rights](https://www.echr.coe.int/) — Knowledge Sharing platform) [en] — accessed 2026-05-30
+6. **[ECtHR](https://www.echr.coe.int/) — 'Rights of the child: Contact rights' key-theme briefing** — <https://ks.echr.coe.int/documents/d/echr-ks/contact-rights> ([European Court of Human Rights](https://www.echr.coe.int/) — Knowledge Sharing platform) [en] — accessed 2026-05-30
 7. **Italian Government 2017 report on ECHR judgments concerning Italy (PDF)** — <https://presidenza.governo.it/CONTENZIOSO/contenzioso_europeo/relazione_annuale/Relazione_2017.pdf> (Presidenza del Consiglio dei Ministri (Italy)) [it] — accessed 2026-05-30
 8. **Italian MOJ — 2017 ECHR judgments index** — <https://www.giustizia.it/giustizia/it/mg_1_20.page?facetNode_1=1_2%282017%29&facetNode_2=0_8_1_4&selectedNode=0_8_1_4> (Ministero della Giustizia (Italy)) [it] — accessed 2026-05-30
 9. **Centro di Ateneo per i Diritti Umani — Italian [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) judgments index** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università di Padova — Human Rights Centre) [en] — accessed 2026-05-30
@@ -108,6 +108,8 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

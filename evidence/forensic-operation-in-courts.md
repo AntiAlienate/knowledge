@@ -67,7 +67,7 @@
 
 ### 1.2 The National Family Violence Law Center at GW Law
 
-**Institution.** Joan Meier directs the National Family Violence Law Center at George Washington University Law School. The Center hosts the FCO Study, related litigation-support work (formerly DV LEAP), and ongoing judicial-training projects. URL: https://www.law.gwu.edu/national-family-violence-law-center
+**Institution.** Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) directs the National Family Violence Law Center at George Washington University Law School. The Center hosts the FCO Study, related litigation-support work (formerly DV LEAP), and ongoing judicial-training projects. URL: https://www.law.gwu.edu/national-family-violence-law-center
 
 **[Secondary verification only]** for the Center's full current programmatic listing — the page was not directly accessible at compilation; description above is drawn from Meier's authored work cited in this document and the SSRN/GW law-faculty pages.
 
@@ -153,7 +153,7 @@
 
 ### 4.2 [Saunders](https://www.ovw.usdoj.gov/), Faller & Tolman (2011) and Bow & Quinnell (2001) — training-gap evidence
 
-**[Saunders](https://www.ovw.usdoj.gov/) et al. 2011.** NIJ Award 2007-WG-BX-0013. https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf — The foundational 465-evaluator survey. Core finding (cited via Saunders 2015): evaluators with more extensive IPV training were significantly more likely to recommend protective custody for survivor-mothers and to recognise coercive-controlling abuse; evaluators endorsing "patriarchal beliefs" were more likely to recommend unsafe custody arrangements. **[secondary verification only]** for exact percentages.
+**[Saunders](https://www.ovw.usdoj.gov/) et al. 2011.** NIJ Award 2007-WG-BX-0013. https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf — The foundational 465-evaluator survey. Core finding (cited via [Saunders](https://www.ovw.usdoj.gov/) 2015): evaluators with more extensive IPV training were significantly more likely to recommend protective custody for survivor-mothers and to recognise coercive-controlling abuse; evaluators endorsing "patriarchal beliefs" were more likely to recommend unsafe custody arrangements. **[secondary verification only]** for exact percentages.
 
 **Bow & Quinnell 2001.** *Professional Psychology: Research and Practice*, 32(3), 261–268. https://doi.org/10.1037/0735-7028.32.3.261. Verbatim finding (cited by [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)): "The vast majority of child custody evaluators had no graduate school or internship/postdoctoral training in the child custody area." In Gourley & Stolberg (2000), ~three-quarters of evaluators "indicated that their primary child custody training method was reading books and journal articles."
 
@@ -290,7 +290,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 
 - **In U.S. family courts, when a mother alleges abuse by the father and he cross-claims PA, courts credit the abuse claim much less often and she loses custody much more often.** Meier 2020 (n=4,338 coded cases, full-census, peer-reviewed, NIJ-funded); Silberg-Dallam 2019 case-mechanism series; Alsalem 2023.
 - **PA is not a clinical diagnosis.** Rejected by APA [DSM-5](https://www.appi.org/products/dsm) process; removed from WHO [ICD-11](https://icd.who.int/) foundation layer Feb 2020. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 explicit; cross-ref `evidence-pa-as-child-abuse.md` §2.
-- **The international human-rights system has formally identified PA use in custody decisions as a documented problem.** UN OHCHR/CEDAW/[Council of Europe](https://www.coe.int/) GREVIO concurring positions.
+- **The international human-rights system has formally identified PA use in custody decisions as a documented problem.** UN [OHCHR](https://www.ohchr.org/)/CEDAW/[Council of Europe](https://www.coe.int/) GREVIO concurring positions.
 
 ### 8.2 Moderate–high confidence
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

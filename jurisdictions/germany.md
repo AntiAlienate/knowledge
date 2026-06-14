@@ -52,7 +52,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ## Anonymisation convention
 
-BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'Kind 2' oder mit Initialen; familiengerichtliche Beschlüsse werden gemäß § 174 GVG (Ausschluss der Öffentlichkeit in Familiensachen) anonymisiert vor Veröffentlichung. Beteiligte Eltern erscheinen als 'Antragsteller(in)' / 'Antragsgegner(in)' bzw. 'Beschwerdeführer(in)'.
+[BVerfG](https://www.bundesverfassungsgericht.de/)- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'Kind 2' oder mit Initialen; familiengerichtliche Beschlüsse werden gemäß § 174 GVG (Ausschluss der Öffentlichkeit in Familiensachen) anonymisiert vor Veröffentlichung. Beteiligte Eltern erscheinen als 'Antragsteller(in)' / 'Antragsgegner(in)' bzw. 'Beschwerdeführer(in)'.
 
 ## Key developments
 
@@ -119,6 +119,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -70,7 +70,7 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 - **2023** — 2023 — IEFH/IGVM Recommandation 2023/001 'sur la violence entre (ex-)partenaires dans le contexte des divorces et séparations familiales' — STRUCTURALLY UNIQUE EU6 critique-camp institutional anchor at federal-regulator level (NL+FR bilingual). — <https://igvm-iefh.belgium.be/>
 - **2023** — Octobre 2023 — CODE analyse 'L'aliénation parentale : un concept à risques pour les enfants et leurs droits' — francophone civil-society critique anchor. — <https://www.lacode.be/>
 - **2024** — Juin 2024 — Ligue des familles étude 'Pour en finir avec l'aliénation parentale' — francophone civil-society critique consolidation. — <https://www.laligue.be/>
-- **2025** — 6.3.2025 — Cass. C.24.0157.F — Cour de cassation arrêt on inexécution de l'hébergement under art. 387ter C. civ.; does NOT engage PA-construct scientific validity. — <https://www.cass.be/>
+- **2025** — 6.3.2025 — Cass. C.24.0157.F — [Cour de cassation](https://www.courdecassation.fr/) arrêt on inexécution de l'hébergement under art. 387ter C. civ.; does NOT engage PA-construct scientific validity. — <https://www.cass.be/>
 
 ## Structural findings
 
@@ -128,6 +128,8 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -12,14 +12,14 @@ Melanie Gill is excluded from this directory on regulatory grounds and preserved
 
 - Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (Sir Andrew McFarlane P, 20 Feb 2026) is the apex articulation of the evaluator-quality requirement in PA-framed Family Court proceedings: it set aside findings of alienating behaviour made on the basis of Melanie Gill's unregulated PA-evaluation and held that permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the [BPS](https://www.bps.org.uk/) (cross-link case-study:re-y-2026-ewfc-38).
 - The English critique-camp and middle-camp generally argue a regulated-only expert-psychology framework: [HCPC](https://www.hcpc-uk.org/)-registered Practitioner Psychologists or [BPS](https://www.bps.org.uk/)-chartered (CPsychol) psychologists, applying the [BPS](https://www.bps.org.uk/) / FJC 2022 Guidance on Psychologists as Expert Witnesses (Craig et al.) and the FJC December 2024 Guidance on responding to allegations of alienating behaviour. Re Y enforces this framework at the instruction stage.
-- The English critique-camp is anchored institutionally — [Cafcass](https://www.cafcass.gov.uk/) + [Cafcass Cymru](https://www.cafcass.gov.uk/) + FJC + [HCPC](https://www.hcpc-uk.org/) + BPS — rather than individual-clinician dominant. Individual entries (Whitcombe, Hannah Jones, Jaime Craig, Glaser) carry weight because they sit at the intersection of clinical practice and institutional policymaking, not because they head competing private clinics.
+- The English critique-camp is anchored institutionally — [Cafcass](https://www.cafcass.gov.uk/) + [Cafcass Cymru](https://www.cafcass.gov.uk/) + FJC + [HCPC](https://www.hcpc-uk.org/) + [BPS](https://www.bps.org.uk/) — rather than individual-clinician dominant. Individual entries (Whitcombe, Hannah Jones, Jaime Craig, Glaser) carry weight because they sit at the intersection of clinical practice and institutional policymaking, not because they head competing private clinics.
 - The recognition camp is thin (3 entries) and dominated by the Family Separation Clinic (Karen Woodall, Nick Woodall) — both unregulated relative to the Re Y regulatory bar — plus Dr Sue Whitcombe, who uniquely meets the [HCPC](https://www.hcpc-uk.org/) + CPsychol + AFBPsS standard. Post-Re Y, recognition-camp clinicians who are not [HCPC](https://www.hcpc-uk.org/)-registered and not BPS-chartered face formal exclusion from Family Court instruction in England & Wales.
 - 12 verified entries (3 recognition / 7 critique / 2 middle) + 1 regulatory exclusion (Melanie Gill — unregulated; not [HCPC](https://www.hcpc-uk.org/); not BPS-chartered; Re Y [2026] EWFC 38 set aside her findings) preserved with primary-source regulatory disclosure. Direct UK parallel to the US directory's exclusion of Randy Rand and to Germany's safeguarding-grounds exclusion of Reinhart Wolff.
 
 ## Recognition camp
 
 ### Karen Woodall
-*Psychotherapist; not HCPC-registered; not BPS-chartered; BACP-sanctioned 2015 for professional malpractice (sanction lifted May 2016)*
+*Psychotherapist; not [HCPC](https://www.hcpc-uk.org/)-registered; not BPS-chartered; BACP-sanctioned 2015 for professional malpractice (sanction lifted May 2016)*
 London · England · Co-founder and lead therapist, Family Separation Clinic (London); Karen Woodall Trainings
 
 **Stance:** Single most-named UK PA-recognition voice. Family Separation Clinic frames PA as a discrete assessable treatable phenomenon and runs an international PA practitioner training programme; co-author with Nick Woodall of Understanding Parental Alienation (Charles C. Thomas, 2017). Position is classical recognition; unregulated relative to the Re Y [2026] EWFC 38 regulatory bar — should not be instructed as psychologist-expert in future cases under McFarlane P's framework.
@@ -257,7 +257,7 @@ Cardiff · Wales · Cardiff University School of Law and Politics; lead author [
 **Stance:** Lead author of the 2018 Welsh Government / [Cafcass Cymru](https://www.cafcass.gov.uk/)-commissioned evidence review on parental alienation — the canonical UK 'middle-ground' evidence document, cited by both camps and embedded in FJC December 2024 Guidance footnote 2. Doughty, Maxwell & Slater (2018) reviewed PA research and case-law without dismissing or endorsing PA as a discrete phenomenon. Genuinely centrist; valuable non-aligned interview source.
 
 **Publications:**
-- Review of research and case law on parental alienation (Welsh Government / Cafcass Cymru-commissioned) (2018) — *Welsh Government / Cafcass Cymru* — <https://www.gov.wales/sites/default/files/publications/2018-05/review-of-research-and-case-law-on-parental-alienation.pdf>
+- Review of research and case law on parental alienation (Welsh Government / [Cafcass Cymru](https://www.cafcass.gov.uk/)-commissioned) (2018) — *Welsh Government / Cafcass Cymru* — <https://www.gov.wales/sites/default/files/publications/2018-05/review-of-research-and-case-law-on-parental-alienation.pdf>
 - Professional responses to 'parental alienation': research-informed practice (2020) — *Journal of Social Welfare and Family Law* — <https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701938>
 
 **Verification:**
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

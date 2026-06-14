@@ -64,7 +64,7 @@ Subsequent peer-reviewed evaluations ([Warshak](https://warshak.com/family-bridg
 
 ## Key Publications
 
-- Warshak, R. A. (2010). *Divorce Poison: How to Protect Your Family from Bad-Mouthing and Brainwashing* (Rev. ed.). Harper.
+- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *Divorce Poison: How to Protect Your Family from Bad-Mouthing and Brainwashing* (Rev. ed.). Harper.
 - Warshak, R. A. (2015). Ten parental alienation fallacies that compromise decisions in court and in therapy. *Professional Psychology: Research and Practice*, 46(4), 235-249. DOI: 10.1037/a0039247
 - Warshak, R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children. *Family Court Review*, 48(1), 48-80.
 - Warshak, R. A. (2020). When evaluators get it wrong: False positive IDs and parental alienation. *Psychology, Public Policy, and Law*, 26(1), 54-68.
@@ -89,7 +89,7 @@ The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Targeted-parent operational guidance |
 | **[Family Bridges](https://warshak.com/family-bridges/)** | **Severe-case reunification intervention** |
 
-Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) and operational intervention ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine, Family Bridges). The continuum gives clinicians and courts language for the messy middle.
+Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) and operational intervention ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine, [Family Bridges](https://warshak.com/family-bridges/)). The continuum gives clinicians and courts language for the messy middle.
 
 ## Citing Posts
 
@@ -113,6 +113,8 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

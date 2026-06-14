@@ -104,7 +104,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
   - Cita verbatim Cass. 13217/2021 come fondamento. 'Come affermato più volte da questa Corte, il richiamo alla sindrome d'alienazione parentale e ad ogni suo, più o meno evidente, anche inconsapevole, corollario, non può dirsi legittimo, costituendo il fondamento pseudoscientifico di provvedimenti gravemente incisivi sulla vita dei minori, in ordine alla decadenza dalla responsabilità genitoriale della madre (Cass., 13217/21)'. È il momento di consolidazione della linea capostipite 13217/2021.
 - [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile (2021) — Cass. civ., Sez. I, ord. n. 23804 del 1 settembre 2021
   - Ulteriore tappa successiva alla 13217/2021 sull'ascolto del minore come adempimento non surrogabile dalla CTU — la stessa rete argomentativa che 9691/2022 (poi) riprenderà.
-- Cassazione, Sez. I Civile (2025) — Cass. civ., Sez. I, ord. n. 4595 del 24 febbraio 2025 — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/>
+- [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile (2025) — Cass. civ., Sez. I, ord. n. 4595 del 24 febbraio 2025 — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/>
   - Ulteriore tappa della linea apicale post-Cartabia che consolida la ratio Cass. 13217/2021 + 9691/2022 sull'inammissibilità di CTU PAS-fondate e affronta in modo articolato l'interferenza tra allegazioni di violenza domestica e diagnosi di alienazione genitoriale.
 - Parlamento — Riforma Cartabia / D.lgs. 10 ottobre 2022 n. 149 (2022) — D.lgs. 149/2022, artt. 473-bis ss. c.p.c. (rito unitario per le persone, i minorenni e le famiglie) — <https://www.gazzettaufficiale.it/eli/id/2022/10/17/22G00158/sg>
   - Codifica successiva (in vigore 28 febbraio 2023) dei principi di qualità della CTU in materia familiare; passaggio normativo responsivo alla critica metodologica veicolata fin da Cass. 13217/2021.
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

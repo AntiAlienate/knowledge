@@ -105,7 +105,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
   - Annotazione tempestiva (a meno di due settimane dal deposito) che identifica l'ordinanza come pronunciamento apicale di chiusura sulla PAS in sede processuale [Diritti Fondamentali 2022].
 - ilcaso.it (blog) (2022) — 'I provvedimenti de potestate tra alienazione parentale e ascolto del minore', 26 ottobre 2022 — <https://blog.ilcaso.it/news_1982/26-10-22/I_provvedimenti_de_potestate_tra_alienazione_parentale_e_ascolto_del_minore-_il_punto_della_Cassazione_Nota_a_Cass_Civ_9691-2022>
   - Commento dottrinale che enfatizza il binomio Cass. 9691/2022 + obbligo non delegabile di ascolto del minore (poi codificato in art. 473-bis.4 c.p.c.).
-- L-JUS / Centro Studi Livatino — voci critiche del fronte opposto (2022) — Centro Studi Livatino, 'Cassazione: nuovo stop all'alienazione parentale' — <https://www.centrostudilivatino.it/cassazione-nuovo-stop-allalienazione-parentale/>
+- L-JUS / Centro Studi Livatino — voci critiche del fronte opposto (2022) — Centro Studi Livatino, '[Cassazione](https://www.cortedicassazione.it/): nuovo stop all'alienazione parentale' — <https://www.centrostudilivatino.it/cassazione-nuovo-stop-allalienazione-parentale/>
   - Lettura di segno opposto dal fronte che difende l'utilizzabilità clinica/forense del costrutto AP — utile come termine di paragone per documentare la frattura italiana del dibattito post-9691.
 - Camera dei Deputati — interrogazione 4-04379 Ascari/Cherchi, risposta del Ministro della Giustizia 12 marzo 2025 (2025) — Interrogazione a risposta scritta n. 4-04379, risposta scritta 12 marzo 2025 — <https://www.giustizia.it/cmsresources/cms/documents/interrogazione_ascari_e_cherchi_risposta_12mar2025.pdf>
   - Atto parlamentare ufficiale che cita Cass. 9691/2022 come riferimento del 'no della Cassazione alla PAS' nel quadro dell'attuazione della Riforma Cartabia.
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

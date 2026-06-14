@@ -188,3 +188,40 @@ The CJEU has issued substantial interpretive jurisprudence under Brussels IIa (p
 - **OJ reference:** OJ L 178, 2.7.2019, p. 1
 - **Status:** Public — EU Official Journal text, freely reproducible.
 - **Application:** Adopted 25 June 2019; applies from 1 August 2022; directly applicable in 26 EU Member States (all except Denmark — Denmark has not opted into Brussels IIb following its TEU Title V opt-out).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+
+<!-- AA-CROSSLINK-END -->

@@ -117,7 +117,7 @@ Bremen · Bremen · PETRA Projekt GmbH & Co. KG, Bremen (private operating vehic
 *Diplom-Psychologe; Vorstand Institut Gericht & Familie Berlin/Brandenburg e.V.; Dozent in rechtspsychologischer Weiterbildung*
 Berlin · Berlin · Institut Gericht & Familie Berlin/Brandenburg e.V.; co-author of Dettenborn & Walter standard textbook (Reinhardt UTB)
 
-**Stance:** Co-author with Harry Dettenborn of *Familienrechtspsychologie* (Reinhardt UTB, 2. Aufl. 2016) — the standard German textbook for forensic family-court psychology, which treats PA / EKE as a recognised clinical reference category. Position is recognition-camp via textbook; methodologically closer to the middle camp than the Boch-Galhau / PASG line.
+**Stance:** Co-author with Harry Dettenborn of *Familienrechtspsychologie* (Reinhardt UTB, 2. Aufl. 2016) — the standard German textbook for forensic family-court psychology, which treats PA / EKE as a recognised clinical reference category. Position is recognition-camp via textbook; methodologically closer to the middle camp than the Boch-Galhau / [PASG](https://pasg.info/) line.
 
 **Publications:**
 - Familienrechtspsychologie (2016) — *Reinhardt UTB, 2. Aufl. (with Harry Dettenborn) — Standard-Lehrbuch*
@@ -163,7 +163,7 @@ Bielefeld · Nordrhein-Westfalen · Universitat Bielefeld (emeritus)
 *Honorarprofessor; Diplom-Psychologe; Doctorate 2001 Universitat Regensburg; Leiter Fachgruppe F3 Familienhilfe und Kinderschutz, Deutsches Jugendinstitut (DJI) seit 2012*
 Munich · Bayern · Deutsches Jugendinstitut (DJI) Munich — Leiter Fachgruppe F3 Familienhilfe und Kinderschutz
 
-**Stance:** Co-signatory of the central German critique-camp article Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen*, ZKJ 2023 — the scientific authority directly cited by BVerfG 17.11.2023 — 1 BvR 1076/23. NZZ 2024 quotes Kindler's family-law psychological assessment sample analysis showing that the relationship with the alleged manipulating parent worsens through manipulation attempts. Single most-cited German child-protection scientist on PA-scepticism.
+**Stance:** Co-signatory of the central German critique-camp article Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen*, ZKJ 2023 — the scientific authority directly cited by [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23. NZZ 2024 quotes Kindler's family-law psychological assessment sample analysis showing that the relationship with the alleged manipulating parent worsens through manipulation attempts. Single most-cited German child-protection scientist on PA-scepticism.
 
 **Publications:**
 - Verdorbener Wein in neuen Schlauchen — Warum wir allzu vereinfachte Vorstellungen von Eltern-Kind-Entfremdung hinter uns lassen mussen (2023) — *ZKJ 2023 (with Zimmermann, Fichtner, Walper, Lux)* — <https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869>
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

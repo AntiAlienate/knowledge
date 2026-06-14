@@ -52,7 +52,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 ## Structural findings
 
 - UK UMBRELLA OPERATES OVER FOUR CONSTITUENT JURISDICTIONS: England-and-Wales (unified) + Scotland + Northern Ireland + Wales (institutional sub-jurisdiction). [UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters; distinct substantive family-law architectures by constituent.
-- UK-WIDE REGULATORY LAYER COEXISTS WITH CONSTITUENT INSTITUTIONS: HCPC + GMC + [BPS](https://www.bps.org.uk/) + Royal College of Psychiatrists operate UK-wide; [Cafcass](https://www.cafcass.gov.uk/) (E&W) + [Cafcass Cymru](https://www.cafcass.gov.uk/) (Wales) + Scottish welfare reporters + NIGALA (NI) operate constituent-jurisdiction-level. Layered regulation distinct from US 50-state fragmentation or Canadian provincial fragmentation.
+- UK-WIDE REGULATORY LAYER COEXISTS WITH CONSTITUENT INSTITUTIONS: [HCPC](https://www.hcpc-uk.org/) + GMC + [BPS](https://www.bps.org.uk/) + Royal College of Psychiatrists operate UK-wide; [Cafcass](https://www.cafcass.gov.uk/) (E&W) + [Cafcass Cymru](https://www.cafcass.gov.uk/) (Wales) + Scottish welfare reporters + NIGALA (NI) operate constituent-jurisdiction-level. Layered regulation distinct from US 50-state fragmentation or Canadian provincial fragmentation.
 - RE Y EWFC 38 (E&W 2026) AS UK-WIDE EVALUATOR-QUALITY APEX: HCPC-registration kitemark for PA evaluators applies UK-wide via HCPC statutory framework. Re Y is functionally a UK-wide apex authority despite formally being an E&W jurisdiction decision.
 - NF v AF CSOH 13 (Scotland 2025) AS DEVOLVED-JURISDICTION RECOGNITION ANCHOR: Lord Stuart's strongest Scottish PA finding operates alongside but distinct from English Re-arc. Devolved jurisdictions develop their own apex jurisprudence within UK framework.
 
@@ -79,13 +79,15 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 
 - UK umbrella jurisdiction — substantive content carried by constituent per-country sidecars (england-and-wales, scotland, northern-ireland, wales, uk-devolved aggregate).
 - Resolves backwards-compatible refs from existing files pointing to jurisdiction:united-kingdom.
-- UK Supreme Court as UK-wide final court of appeal preserved in structural_findings[0]; UK-wide regulator layer (HCPC + GMC + [BPS](https://www.bps.org.uk/)) preserved in structural_findings[1].
+- [UK Supreme Court](https://www.supremecourt.uk/) as UK-wide final court of appeal preserved in structural_findings[0]; UK-wide regulator layer (HCPC + GMC + [BPS](https://www.bps.org.uk/)) preserved in structural_findings[1].
 - Re Y EWFC 38 as UK-wide evaluator-quality apex preserved in structural_findings[2] (HCPC-registration kitemark flows UK-wide via HCPC statutory framework).
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

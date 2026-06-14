@@ -52,7 +52,7 @@
 
 **Citation.** [Warshak](https://warshak.com/family-bridges/), R. A. (2019). Reclaiming parent–child relationships: Outcomes of [Family Bridges](https://warshak.com/family-bridges/) with alienated children. *Journal of Divorce & Remarriage*, 60(8), 645–667. https://doi.org/10.1080/10502556.2018.1529505
 
-**Sample / method (from publisher abstract, [secondary verification only] for full text).** n = 83 severely alienated children and adolescents enrolled with the rejected parent in a 4-day Family Bridges educational workshop after a court order placed the children in the rejected parent's custody. Before/after design; multiple outcome measures from parents and workshop leaders; no independent control group.
+**Sample / method (from publisher abstract, [secondary verification only] for full text).** n = 83 severely alienated children and adolescents enrolled with the rejected parent in a 4-day [Family Bridges](https://warshak.com/family-bridges/) educational workshop after a court order placed the children in the rejected parent's custody. Before/after design; multiple outcome measures from parents and workshop leaders; no independent control group.
 
 **Headline outcome figures (paraphrased from publisher record).**
 - Pre-workshop contact-refusal rate: **85%**
@@ -71,7 +71,7 @@
 
 ### 1.4 Independent replication / evaluation
 
-**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on Family Bridges are by Warshak or his programme team. The Family Bridges Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers (Warshak 2010; Warshak 2019) plus the Warshak & Otis 2010 commentary and a [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2019 follow-up on coparenting ([Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
+**Status: no independent published outcome study by researchers without programme involvement was identified at compilation.** All extant outcome data on Family Bridges are by [Warshak](https://warshak.com/family-bridges/) or his programme team. The Family Bridges Institute's own publications list (https://www.familybridgesinstitute.com/publications) names two outcome papers (Warshak 2010; Warshak 2019) plus the Warshak & Otis 2010 commentary and a [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2019 follow-up on coparenting ([Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). (2019). Strengthening coparenting relationships to improve strained parent–child relationships: A follow-up study of parents' experiences. *Family Court Review*, 57(2), 217–230. **[secondary verification only]**) — the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) paper is a qualitative follow-up of parent experience, not an independent outcome evaluation of Family Bridges success rates.
 
 ---
 
@@ -115,7 +115,7 @@
 **Honest methodological caveats inherent to the design.**
 - No comparison group ("Harman's study did not involve any comparison group. It was essentially a study of events in a single group over a period of time" — Mercer critique, §8.2).
 - Outcome on the *intended* communication measure was *not statistically significant* — yet the abstract concludes the program was effective.
-- Children rated as "severely alienated" had, in many cases, already travelled to and spent time with the previously rejected parent before the intervention began (as the paper itself states: "significant progress towards reunification was made between many of the children and alienated parents prior to participation in the TPFF program due to the court order").
+- Children rated as "severely alienated" had, in many cases, already travelled to and spent time with the previously rejected parent before the intervention began (as the paper itself states: "significant progress towards reunification was made between many of the children and alienated parents prior to participation in the [TPFF](https://turningpointsforfamilies.com/) program due to the court order").
 - "96.4% reconnected" depends on the binary "reconnected" judgement made by the programme staff, not on the validated communication scales.
 - Sample restricted to families whose lawyers permitted release of the video tapes (about half of the eligible 30 families) — risk of selection bias toward smoother cases.
 - Long-term outcomes were not measured — author acknowledges focus "largely … on outcomes evident within and immediately after the completion of the program."
@@ -147,7 +147,7 @@ The 96.4% figure originates in the [Harman et al. ](https://pubmed.ncbi.nlm.nih.
 - The framework has not been adopted by any major professional body, has not appeared in the DSM, and has not been independently validated.
 - [AB-PA](https://drcachildress.org/) presentations rely heavily on a re-labelling of established attachment-theory constructs to claim convergent validity with mainstream science — but the empirical chain from attachment theory to the "[AB-PA](https://drcachildress.org/) diagnostic indicators" has not been demonstrated in peer-reviewed primary research.
 
-**Honest caveat.** A reader who wishes to argue *for* [AB-PA](https://drcachildress.org/) may legitimately point to [Childress's](https://drcachildress.org/) claim that the model is built from peer-reviewed attachment-theory constructs. A reader who wishes to argue *against* it may legitimately point to the complete absence of any peer-reviewed outcome trial of an AB-PA-based intervention. Both observations are accurate.
+**Honest caveat.** A reader who wishes to argue *for* [AB-PA](https://drcachildress.org/) may legitimately point to [Childress's](https://drcachildress.org/) claim that the model is built from peer-reviewed attachment-theory constructs. A reader who wishes to argue *against* it may legitimately point to the complete absence of any peer-reviewed outcome trial of an [AB-PA](https://drcachildress.org/)-based intervention. Both observations are accurate.
 
 ---
 
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

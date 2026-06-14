@@ -53,7 +53,7 @@ Researcher-named strategies beat parent-coined descriptions every time in court 
 
 - [posts/54-spotting-pa-early-warning-signs.md](./54-spotting-pa-early-warning-signs.md) — Tier 1 of the 4-tier early-warning system uses these strategies
 - [posts/52-documenting-alienation-court-tactical.md](./52-documenting-alienation-court-tactical.md) — uses [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) categories as documentation vocabulary
-- [research/harman-kruk-hines-2018.md](../research/harman-kruk-hines-2018.md) — the 2018 family-violence reframe built on Baker
+- [research/harman-kruk-hines-2018.md](../research/harman-kruk-hines-2018.md) — the 2018 family-violence reframe built on [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)
 
 ## Citations
 
@@ -70,6 +70,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

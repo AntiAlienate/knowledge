@@ -40,11 +40,11 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 
 ## Anonymisation convention
 
-ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' designations.
+[ECtHR](https://www.echr.coe.int/) decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' designations.
 
 ## Key developments
 
-- **1949** — Council of Europe established 5 May 1949 by Treaty of London — foundational multi-state European human-rights cooperation framework.
+- **1949** — [Council of Europe](https://www.coe.int/) established 5 May 1949 by Treaty of London — foundational multi-state European human-rights cooperation framework.
 - **1950** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) signed 4 November 1950 in Rome by 12 original Council of Europe member states.
 - **1953** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) effective 3 September 1953 following ratification by 10 of the original 12 signatories.
 - **1959** — [European Court of Human Rights](https://www.echr.coe.int/) established 21 January 1959 — modern multi-state human-rights court.
@@ -83,7 +83,7 @@ ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' de
 
 1. **[European Court of Human Rights](https://www.echr.coe.int/)** — <https://www.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/)) [en]
 2. **Council of Europe** — <https://www.coe.int/> (Council of Europe) [en]
-3. **[HUDOC](https://hudoc.echr.coe.int/) ECHR Database** — <https://hudoc.echr.coe.int/> (European Court of Human Rights) [en]
+3. **[HUDOC](https://hudoc.echr.coe.int/) ECHR Database** — <https://hudoc.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/)) [en]
 
 ## Editorial notes
 
@@ -95,6 +95,8 @@ ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' de
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

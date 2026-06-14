@@ -70,7 +70,7 @@ Bernet (2010) led a multi-year campaign to add **"Parental Alienation"** as a st
 
 For PA-context expert testimony or motion language:
 
-> *The Respondent's documented pattern of conduct meets [DSM-5](https://www.appi.org/products/dsm) V995.51 (Child Psychological Abuse) — specifically, nonaccidental verbal/symbolic acts that have caused significant psychological harm to the child, as documented in [evidence pack] per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) and Bernet's 5 essential criteria (Bernet 2010). The child's resulting presentation meets DSM-5 V61.29 (Child Affected by Parental Relationship Distress) and [ICD-11](https://icd.who.int/) QE52 (Caregiver-Child Relationship Problem). Where weaponized illness is documented, additional codes V300.19 (DSM) / 6D52 ([ICD-11](https://icd.who.int/)) apply.*
+> *The Respondent's documented pattern of conduct meets [DSM-5](https://www.appi.org/products/dsm) V995.51 (Child Psychological Abuse) — specifically, nonaccidental verbal/symbolic acts that have caused significant psychological harm to the child, as documented in [evidence pack] per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) and Bernet's 5 essential criteria (Bernet 2010). The child's resulting presentation meets [DSM-5](https://www.appi.org/products/dsm) V61.29 (Child Affected by Parental Relationship Distress) and [ICD-11](https://icd.who.int/) QE52 (Caregiver-Child Relationship Problem). Where weaponized illness is documented, additional codes V300.19 (DSM) / 6D52 ([ICD-11](https://icd.who.int/)) apply.*
 
 This anchors PA harm in **internationally recognized diagnostic systems** without requiring a controversial standalone "PA" diagnosis — exactly the Daubert-survivable behavior-frame approach.
 
@@ -78,7 +78,7 @@ This anchors PA harm in **internationally recognized diagnostic systems** withou
 
 The diagnostic-system non-inclusion of PA as a standalone code is sometimes weaponized by PA-skeptic experts: *"PA isn't even in the DSM."* The accurate response:
 
-1. **True** — no standalone "PA" diagnosis in DSM-5 or ICD-11
+1. **True** — no standalone "PA" diagnosis in DSM-5 or [ICD-11](https://icd.who.int/)
 2. **But** — multiple PA-pattern-relevant codes exist (V995.51, V61.29, V300.19, QE52, 6D52, 6B41)
 3. **And** — the modern framing is **behaviors not syndrome** (Harman/Kruk/Hines 2018) — which uses existing codes rather than needing a new one
 4. **Court-evidence** can fully document PA harm using existing codes; no missing-diagnosis gap
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

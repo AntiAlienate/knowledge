@@ -45,7 +45,7 @@ Poland's **SN III CZP 20/25** is the only EU apex decision operating a **pro-enf
 SN III CZP 20/25 is the **first apex Central and Eastern European decision** in the modern EU PA-apex sequence. Prior EU apex engagement was concentrated in southern/western EU (Italy + Spain) + central EU (Germany). Polish entry extends the sequence eastward.
 
 ### 7. Strasbourg Article 8 procedural-due-diligence cuts across
-The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) establishes the Article 8 procedural-due-diligence standard that operates ABOVE domestic apex decisions. Italian Cassazione 9691/2022 explicitly engages this standard; German [BVerfG](https://www.bundesverfassungsgericht.de/) operates within Convention-conform interpretation of Grundgesetz. The Strasbourg layer cuts ACROSS the EU sequence as a constraining standard rather than being part of the sequence itself. Cross-link: jurisdiction:european-convention-on-human-rights.
+The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) establishes the Article 8 procedural-due-diligence standard that operates ABOVE domestic apex decisions. Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 explicitly engages this standard; German [BVerfG](https://www.bundesverfassungsgericht.de/) operates within Convention-conform interpretation of Grundgesetz. The Strasbourg layer cuts ACROSS the EU sequence as a constraining standard rather than being part of the sequence itself. Cross-link: jurisdiction:european-convention-on-human-rights.
 
 ### 8. Comparative outside the sequence
 - **France** — [Cour de cassation](https://www.courdecassation.fr/) 12-14.392 (2013) is the foundational French Cassation engagement preceding the EU sequence; subsequent CIIVISE Durand 2024 institutional engagement. Cross-link: jurisdiction:france.
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

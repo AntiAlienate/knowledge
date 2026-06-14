@@ -108,7 +108,7 @@ Children and family parties are identified by initials only in published judgmen
 
 ## Editorial notes
 
-- Primary sources first: statute text always Planalto; STJ jurisprudence via scon.stj.jus.br; STF via portal.stf.jus.br.
+- Primary sources first: statute text always Planalto; STJ jurisprudence via scon.stj.jus.br; [STF](https://portal.stf.jus.br/) via portal.stf.jus.br.
 - Verbatim Portuguese preserved for statutory citations (e.g. alienação parental, perícia psicossocial, alteração da guarda, segredo de justiça); translation_en provided in surrounding relevance text.
 - Preserved known fact: Brazil and Spain are the world's only two statutory PA jurisdictions, legislating in opposite directions (Brazil recognises via Lei 12.318/2010; Spain inadmits via Ley Orgánica 8/2021 / LOPIVI).
 - STF ADI 6273/2019 was dismissed on standing (não conhecimento) — there is no merits ruling on the constitutionality of Lei 12.318/2010; this distinction is preserved throughout.
@@ -117,6 +117,8 @@ Children and family parties are identified by initials only in published judgmen
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

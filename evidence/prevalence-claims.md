@@ -130,7 +130,7 @@ A preceding **definitional prompt** is provided to respondents framing PABs as "
 
 ### 3.5 The 22 million parent extrapolation
 
-From Harman et al. (2019) §4: applying the percentages to 2018 US Census, "there are approximately **40,206,260 American parents who feel as if they are the targets of PABs (16.17% of total sample)**, and **29,414,970 parents who feel that the alienating behaviors of the other parent have damaged their relationship with their child and has resulted in PA (11.83% of the total sample)**." The "22 million" figure from 2016 has been *upgraded* by the authors' own 2019 calculation to 29–40 million. Advocacy literature typically cites the conservative 22 million; the authors' more recent work claims considerably more.
+From [Harman et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/) §4: applying the percentages to 2018 US Census, "there are approximately **40,206,260 American parents who feel as if they are the targets of PABs (16.17% of total sample)**, and **29,414,970 parents who feel that the alienating behaviors of the other parent have damaged their relationship with their child and has resulted in PA (11.83% of the total sample)**." The "22 million" figure from 2016 has been *upgraded* by the authors' own 2019 calculation to 29–40 million. Advocacy literature typically cites the conservative 22 million; the authors' more recent work claims considerably more.
 
 ### 3.6 The authors' own caveats (verbatim, §4)
 
@@ -217,7 +217,7 @@ The authors built a GRADE-adapted (Grading of Recommendations Assessment, Develo
 
 And from the chapter's "Summary of Composite Findings — Prevalence" section (p. 380):
 
-> "**In the absence of randomly drawn samples, and lacking common definitions of alienation, to date there are no defensible estimates of the prevalence or incidence of the problem.** Among the studies aimed at estimating the extent of alienation, widely varying rates among separated parents were reported (Baker & Chambers, 2011; Baker & Verrocchio, 2013; Bala, Hunt, & McCarney, 2010; Johnston, 1993, 2003; Lampel, 1996a; Moné & Biringen, 2006; Racusin, Copans, & Mills, 1994; Spruijt, Eikelenboom, Harmeling, Stokkers, & Kormos, 2005)."
+> "**In the absence of randomly drawn samples, and lacking common definitions of alienation, to date there are no defensible estimates of the prevalence or incidence of the problem.** Among the studies aimed at estimating the extent of alienation, widely varying rates among separated parents were reported ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Chambers, 2011; Baker & Verrocchio, 2013; Bala, Hunt, & McCarney, 2010; Johnston, 1993, 2003; Lampel, 1996a; Moné & Biringen, 2006; Racusin, Copans, & Mills, 1994; Spruijt, Eikelenboom, Harmeling, Stokkers, & Kormos, 2005)."
 
 ### 6.4 The verbatim verdict on the empirical literature as a whole (p. 420)
 
@@ -291,7 +291,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 - [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Rosen, L., Dickson, S., O'Sullivan, C., & Hayes, J. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study (2020). *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4), 213–248. https://doi.org/10.1080/26904586.2022.2036286
 - [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., et al. (2022). Harman and Lorandos' false critique of [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2), 92–135. https://doi.org/10.1080/26904586.2022.2086659
 
-Meier et al.'s verbatim characterisation: Harman and Lorandos' work is "agenda-driven, filled with error, and does more to obfuscate the issues than to shed light on courts' practices."
+[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s verbatim characterisation: Harman and Lorandos' work is "agenda-driven, filled with error, and does more to obfuscate the issues than to shed light on courts' practices."
 
 ### 10.4 What the exchange means for prevalence claims
 
@@ -335,7 +335,7 @@ The Alsalem report does **not** engage in detail with the Harman 2016 / 2019 pre
 The Bernet 740,000 figure is regularly cited in expert testimony and amicus briefing. Its Daubert / Frye exposure:
 
 - **Daubert factors:** (1) tested → no, it is a deduction not a measurement; (2) peer-reviewed → the underlying chapter is peer-reviewed but the **specific numerical derivation** has not been replicated by independent researchers using primary data; (3) known error rate → not characterised; (4) general acceptance → contested ([Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016 explicitly: "no defensible estimates").
-- **Frye general-acceptance:** the figure is widely cited within the PA-recognition camp but is **not** generally accepted in the broader family-court-research community, as Saini et al. demonstrates.
+- **Frye general-acceptance:** the figure is widely cited within the PA-recognition camp but is **not** generally accepted in the broader family-court-research community, as [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). demonstrates.
 
 The Saini et al. 2016 statement that "to date there are no defensible estimates of the prevalence of parental alienation" is the strongest peer-reviewed authority for cross-examining any expert who cites 740,000 or 1% as established fact.
 
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 
