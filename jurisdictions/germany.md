@@ -221,6 +221,21 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Germany
+
+If contact has just stopped, the operative law is [BGB § 1684](https://www.gesetze-im-internet.de/bgb/__1684.html) — the child has a *Recht auf Umgang* (right of contact) with both parents, and each parent has a *Pflicht zum Umgang* (duty of contact). The same section gives the Familiengericht (Family Court) power to make Umgangsregelungen (contact orders) and to enforce them via [FamFG § 89](https://www.gesetze-im-internet.de/famfg/__89.html) (Ordnungsmittel — fine or arrest).
+
+**Procedural pathway.** File an *Antrag auf Regelung des Umgangs* at the Familiengericht of the child's habitual residence (örtliche Zuständigkeit per [FamFG § 152](https://www.gesetze-im-internet.de/famfg/__152.html)). A *Verfahrensbeistand* (children's procedural guardian per FamFG § 158) will normally be appointed; this is the structural counter-balance to alienating-parent influence. The Jugendamt (youth welfare office under SGB VIII) is heard but not the decision-maker.
+
+**A critical 2023 inflection point.** The [Bundesverfassungsgericht's Beschluss of 17 November 2023 (1 BvR 1076/23)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html) characterised the *Parental Alienation Syndrome* (PAS) construct as *"überkommen und wissenschaftlich nicht haltbar bzw. widerlegt"* (outdated and scientifically untenable or refuted). German family courts now reject PA-syndrome framing in expert reports. This means: **do not** ask your court for a *PAS-Diagnose*; instead document the alienating behaviours themselves (refusal of handovers, blocked phone contact, denigration, parental-loyalty conflict) and ask the court to apply BGB § 1684 / § 1696 directly. Recent practice is consistent with [OLG Frankfurt, Beschluss vom 5.1.2026 — 7 UF 88/25](../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md), which applied the BVerfG reasoning to a concrete case.
+
+**If the other parent ignores a court-made Umgangsregelung,** apply for *Vollstreckung* under FamFG § 89 — the court can impose an *Ordnungsgeld* up to €25,000 or *Ordnungshaft*. Documentation of each missed contact is critical; keep contemporaneous notes, screenshots of messages, and any third-party witnesses (school, club). The §1696 BGB *Abänderung* threshold ("triftige, das Wohl des Kindes nachhaltig berührende Gründe") is what your court will apply to vary an existing order.
+
+**Get local counsel.** Family law in Germany is *Anwaltszwang* (mandatory representation) at the OLG level and strongly recommended at the AG level. The [Deutscher Familiengerichtstag](https://www.dfgt.de/) maintains specialist directories. *Verfahrenskostenhilfe* (legal aid) is available where income-tested. *Mediation* under the Cochem-style practice still exists but is no longer institutionally continuous — and the Istanbul Convention art. 31 + 2022 GREVIO report have criticised cooperation-imperative models that under-weight evidence of violence.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

@@ -237,6 +237,25 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Italy
+
+The operative framework is the [Codice civile arts. 315-bis a 337-octies](https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/) (*responsabilità genitoriale*) under the principle of *bigenitorialità* (joint parenting). The default is *affidamento condiviso* with both parents exercising parental responsibility, *prioritariamente considerando l'interesse dei figli*.
+
+**Procedural pathway.** Family disputes go to the *Tribunale ordinario, sezione famiglia* (or the *Tribunale per i minorenni* where the children's-court jurisdiction applies). After the *Riforma Cartabia* (D.lgs. 149/2022, in force 28 February 2023), procedure runs under the new [Codice di procedura civile arts. 473-bis](https://www.brocardi.it/codice-procedura-civile/libro-secondo/titolo-iv-bis/) — a unified family-procedure track with structured fact-finding, mandatory hearing of the minor capable of *discernimento*, and accelerated timetabling.
+
+**The 30-day relocation duty — your strongest statutory lever.** [Codice civile art. 337-sexies](codice-civile-art-337-sexies-family-home-and-residence.md) imposes a **peremptory** duty on each parent to notify the other within 30 days of any change of residence or domicile. Failure obliges the parent in breach to pay damages to both the other parent and the children for *"la difficoltà di reperire il soggetto"*. If your co-parent has moved without notice, document this and raise it in your Tribunale filing — it is one of the strongest statutory tools against silent-relocation alienation.
+
+**The Cassazione's PA position is clear.** [Cassazione Sez. I civile, ordinanza n. 13217/2021](https://www.cortedicassazione.it/) and [ordinanza n. 9691/2022](https://www.cortedicassazione.it/) expressly characterised PAS as *"privo di base scientifica"* (without scientific basis) and excluded its use as a diagnostic category in custody proceedings. The 2020 *Ministero della Salute* position is upstream of this jurisprudence. **Do not** ask your court for a *consulenza tecnica d'ufficio* (CTU) framed around a *diagnosi di PAS*; argue the behaviours under the [art. 337-ter](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md) (*provvedimenti riguardo ai figli*) discretion of the court.
+
+**Where exclusive custody is appropriate.** [Codice civile art. 337-quater](codice-civile-art-337-quater-affidamento-esclusivo.md) authorises *affidamento esclusivo* where joint exercise would be *"contrario all'interesse del minore"* — the apex provision in cases where one parent's alienating conduct is sustained and serious. The Cassazione (Sez. I ord. n. 9691/2022) has applied this where contact-interference patterns are documented even without invoking a PA *syndrome* label.
+
+**Hearing the child.** Under [art. 337-octies superseded by cpc art. 473-bis 4](codice-civile-art-337-octies-poteri-del-giudice-ascolto-minore.md) (post-Cartabia), children aged 12+ (and younger if capable of *discernimento*) must be heard unless their welfare contraindicates. In alienation contexts this is contested: courts increasingly use *ascolto* via *psicologo del Tribunale* rather than direct judicial questioning, recognising that captured wishes may not be authentic.
+
+**Get local counsel.** *Avvocato* is mandatory in family proceedings. *Specializzazione in diritto di famiglia, delle persone e dei minorenni* is the recognised accreditation route. *Patrocinio a spese dello Stato* (legal aid) is income-tested. The [Consiglio Nazionale Forense](https://www.consiglionazionaleforense.it/) and [Unione Nazionale Camere Minorili](https://www.uncm.it/) are the principal directories.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

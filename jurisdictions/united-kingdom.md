@@ -189,6 +189,25 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in the United Kingdom
+
+If contact has just stopped in England & Wales, the operative law is the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — specifically [s.8](children-act-1989-section-8.md) (Child Arrangements Orders) framed by the welfare paramountcy of [s.1](children-act-1989-section-1.md) and the [s.1(2A) "parental involvement" rebuttable presumption](children-and-families-act-2014-section-11-parental-involvement.md) introduced by the Children and Families Act 2014. Scotland operates under the Children (Scotland) Act 1995; Northern Ireland under the Children (NI) Order 1995. Each constituent jurisdiction is structurally similar but the procedure differs.
+
+**Procedural pathway (England & Wales).** Before issuing in the Family Court, you must (unless an exemption applies) attend a [Mediation Information and Assessment Meeting (MIAM)](children-and-families-act-2014-section-10-miam.md) per CFA 2014 s.10. Exemptions in FPR PD 3A include "evidence of domestic violence or abuse" and "child protection concerns". If those apply, file your C100 directly. The court will appoint a CAFCASS officer (the [Children's Guardian under CA 1989 s.41](children-act-1989-section-41-representation-of-child.md)) in *specified proceedings* — their independent welfare assessment is the structural counter-balance to alienating-parent influence in your case.
+
+**Public-law route if the situation is severe.** Where alienating conduct rises to *significant harm* — the impairment of "emotional, social or behavioural development" per [CA 1989 s.31(9)](children-act-1989-section-31-care-and-supervision-orders.md) — a local authority can apply for a care or supervision order under s.31. Public-law proceedings now sit under a [26-week time limit imposed by CFA 2014 s.14](children-and-families-act-2014-section-14-26-week-time-limit.md), with extensions tightly controlled.
+
+**The Re H-N framework.** Where domestic-abuse allegations sit alongside contact disputes — the most common cross-fire pattern in PA cases — the Court of Appeal's guidance in [Re H-N and Others (Children) [2021] EWCA Civ 448](re-h-n-2021-ewca-civ-448.md) requires structured fact-finding before any contact decision. Expect a *finding-of-fact hearing* if abuse is alleged; the FFH conclusions then frame the welfare analysis.
+
+**Expert evidence is gate-kept.** [CFA 2014 s.13](children-and-families-act-2014-section-13-expert-evidence.md) limits expert reports (including psychological assessment of the child) to what is "necessary to assist the court to resolve the proceedings justly." Following [Re C [2023] EWHC 345 (Fam)](re-c-2023-ewhc-345-fam.md), PA is not a "syndrome" amenable to diagnostic testing — the court controls who can opine on alienating behaviours and what qualifications they need. The [2024 Family Justice Council guidance on alienating behaviours](https://www.judiciary.uk/) and CAFCASS's 2024 *Working with Children Affected by Parental Alienation* practice framework operationalise the post-Re-C framework.
+
+**If repeat applications are themselves the alienating pattern,** the court can make a [barring order under CA 1989 s.91(14) / s.91A](children-act-1989-section-91A-barring-order-further-provision.md). The s.91A expansion (Domestic Abuse Act 2021, in force 28 Feb 2022) explicitly authorises the order where the litigation pattern puts *another individual* — including the targeted parent — at risk of harm. Sir Andrew McFarlane P's 2022 President's Guidance pushed back against the previous "exceptional case" practice.
+
+**Get local counsel.** [The Law Society Family Law accreditation](https://www.lawsociety.org.uk/) and [Resolution](https://resolution.org.uk/) directories are the starting points. Legal Aid is available in domestic-abuse cases via the LAA's evidence-of-DA gateway. Where alienation is unfolding fast, an urgent without-notice application under FPR Part 18 may be appropriate, but courts are sceptical of without-notice contact applications absent genuine emergency.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

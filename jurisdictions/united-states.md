@@ -234,6 +234,28 @@ US state-court family-law decisions vary significantly: California / New York ro
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in the United States
+
+There is **no federal family-court jurisdiction**. Custody and visitation are governed by state law, with the [UCCJEA](https://www.uniformlaws.org/) (Uniform Child Custody Jurisdiction and Enforcement Act, adopted by every state except Massachusetts) determining which state has subject-matter jurisdiction (typically the child's *home state* — the state where the child has lived for the six months preceding the application).
+
+**Procedural pathway.** File in the state of the child's home-state UCCJEA jurisdiction. Each state's Family Code prescribes the best-interests framework; major examples:
+
+- **California** — [Family Code §§ 3011, 3020, 3040](california-family-code-3011-3020-3040-verbatim.md) (best-interests + frequent-and-continuing-contact preference), [§ 3027](california-family-code-3027-child-abuse-allegations.md) (abuse-allegation triage + CWS investigation), [§ 3027.1](california-family-code-3027-1-sanctions-false-abuse-accusations.md) (sanctions for *knowingly false* abuse accusations), [§ 3044](california-family-code-3044-domestic-violence-presumption.md) (DV presumption against custody; SB 899 strengthens it operative 2026-01-01).
+- **Florida** — [Florida Statute § 61.13](florida-statute-61-13-time-sharing-factors.md) (time-sharing factors).
+- **Washington** — [RCW 26.09.187](washington-rcw-26-09-187-parenting-plan-criteria.md) (parenting-plan criteria).
+- **Kansas** — [KSA § 23-3203](ksa-23-3203-kansas-custody-factors.md) (custody factors).
+
+**International-abduction route.** If the child has been removed across state or national lines, the [International Child Abduction Remedies Act (ICARA)](icara-22-usc-chapter-97.md), 22 U.S.C. ch. 97, implements the Hague 1980 Convention and provides for prompt return. [Abbott v. Abbott, 560 U.S. 1 (2010)](abbott-v-abbott-2010.md) clarified that *ne exeat* clauses constitute custody rights for Convention purposes.
+
+**The big jurisprudential anchor.** [Troxel v. Granville, 530 U.S. 57 (2000)](troxel-v-granville-2000.md) (Supreme Court): the Due Process Clause protects a fit parent's fundamental right to direct the upbringing of their child. State courts therefore apply a constitutional-presumption framework: a fit parent's decisions get deference unless rebutted by clear-and-convincing evidence.
+
+**Where alienation patterns are weaponised.** In states with strong DV presumptions (CA § 3044, WA RCW 26.09.191), alienating-parent tactics frequently weaponise false or exaggerated DV claims to trigger the presumption. California's § 3027.1 sanctions provision exists precisely as a counter — it allows monetary sanctions and attorney's fees against any party (or attorney) who knowingly makes a false abuse accusation during custody proceedings. The *Jaime G. v. H.L.* (2018) 25 Cal.App.5th 794 specific-findings requirement (now codified in § 3044(f)(1)) is the targeted parent's principal procedural defence against unfounded presumption-stacking.
+
+**Get local counsel.** State bars accredit family-law specialists. The [American Academy of Matrimonial Lawyers](https://www.aaml.org/) directory and the [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) maintain practitioner lists. Pro-bono legal aid varies dramatically by state and county; check your state-bar referral service. For an international removal, contact the [U.S. State Department's Office of Children's Issues](https://travel.state.gov/content/travel/en/International-Parental-Child-Abduction.html) immediately and consult a Hague-Convention specialist.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

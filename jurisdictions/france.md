@@ -240,6 +240,27 @@ La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties fa
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in France
+
+The operative framework is the [Code civil arts. 371-1 à 373-2-13](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136074/) (*autorité parentale*) under the welfare paramountcy of *l'intérêt supérieur de l'enfant*. Withholding a child from a parent who has shared *autorité parentale* is potentially a criminal offence under [Code pénal art. 227-5](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417791) (*non-représentation d'enfant*) — punishable by up to **one year imprisonment and €15,000 fine**.
+
+**Procedural pathway — the JAF.** Family disputes go to the *juge aux affaires familiales* (JAF) at the *tribunal judiciaire* of the parent's or child's domicile. File an *assignation* (or *requête conjointe* if both parents agree) under [Code de procédure civile arts. 1136-3 et seq.](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000023449832/). The court can order specific *droit de visite et d'hébergement*, mediated handover, supervised contact at a *point-rencontre*, or transfer of *résidence* — but the JAF has wide discretion and decisions turn heavily on the specific facts.
+
+**The criminal track.** *Non-représentation d'enfant* (Code pénal art. 227-5) is the strongest statutory tool a targeted parent in France has. Procedure:
+1. Confirm there is an enforceable court order specifying contact (jugement of the JAF).
+2. Document the obstruction event — date, time, what was denied.
+3. File a *plainte* at any commissariat (or directly with the *procureur de la République*) for *non-représentation d'enfant*.
+4. The *parquet* decides whether to prosecute. First-time *plaintes* are often *classées sans suite* — but each filing builds the pattern documented in the *casier judiciaire procédural*. Repeated *non-représentations* are normally prosecuted.
+
+**The PA-construct question.** The [Cour de cassation](https://www.courdecassation.fr/) has not endorsed *aliénation parentale* / *syndrome d'aliénation parentale* (SAP) as a diagnostic category. The [Haute Autorité de Santé (HAS)](https://www.has-sante.fr/) has issued no positive recommendation. The dominant academic and institutional posture is **critique**: the [2018 Conseil supérieur de la santé belge avis](https://www.health.belgium.be/) (referenced cross-border by French practitioners) and the 2020 Italian *Ministero della Salute* position are part of a Francophone-civil-law consensus that the SAP construct should not drive judicial assessment. Argue the behaviours, not the syndrome.
+
+**Mediation is structurally pre-litigation.** The 2019 *loi de programmation et de réforme pour la justice* expanded the *tentative de médiation préalable obligatoire* (TMPO) for variation of JAF decisions. Refusal to engage in good faith with mediation is itself probative — though the JAF will not force-substitute mediation for protection in cases where domestic violence has been alleged or established.
+
+**Get local counsel.** *Avocat* is mandatory for the *appel*; recommended for the first-instance JAF hearing. *Spécialiste droit de la famille, des personnes et de leur patrimoine* certification is the family-law accreditation. *Aide juridictionnelle* (legal aid) is income-tested. The [Conseil national des barreaux](https://www.cnb.avocat.fr/) directory is the starting point.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 
