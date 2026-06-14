@@ -75,3 +75,40 @@ The procedural rule that all of these apply uniformly via the 337-bis trigger is
 - **Statute citation:** Codice Civile italiano, art. 337-bis
 - **Codification history:** Article inserted by art. 55 of D.Lgs. 28 December 2013 n. 154 (the implementing decree of the 2012 Riforma Filiazione equalising the legal status of children born in and out of marriage).
 - **Status:** Italian state statute — public-domain text.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Bondavalli](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bondavalli%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Parental Alienation Scope History Future](https://www.antialienate.com/blog/parental-alienation-scope-history-future)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
+
+<!-- AA-CROSSLINK-END -->
