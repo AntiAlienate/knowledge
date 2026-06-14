@@ -136,6 +136,8 @@ The leading Canadian appellate authorities on PA-pattern conduct under the post-
 - **In-force date for current text:** 1 March 2021 (Bill C-78 substantive amendments)
 - **Crown copyright + reproduction:** Federal statutes may be reproduced freely under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/notice.html) (no further permission required for non-commercial or commercial reproduction).
 
+
+
 <!-- AA-CITE-START -->
 
 ---

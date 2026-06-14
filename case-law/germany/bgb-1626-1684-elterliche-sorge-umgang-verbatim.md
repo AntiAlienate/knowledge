@@ -109,6 +109,8 @@ The German Bundesgerichtshof (BGH) and the Bundesverfassungsgericht (BVerfG) hav
 - **Codification history:** Original BGB enacted 1900; substantively revised by Gesetz zur Reform des Kindschaftsrechts (Kindschaftsrechtsreformgesetz, KindRG) 16 December 1997 (in force 1 July 1998); further amendments via Gesetz zur Erleichterung familiengerichtlicher Maßnahmen bei Gefährdung des Kindeswohls (2008) and Gesetz zur Reform des familiengerichtlichen Verfahrens (FGG-Reformgesetz, 2009 — introducing FamFG).
 - **Status:** German federal statutes (Bundesgesetze) are public-domain and freely reproducible (no copyright; published officially by the Bundesministerium der Justiz at gesetze-im-internet.de).
 
+
+
 <!-- AA-CITE-START -->
 
 ---
