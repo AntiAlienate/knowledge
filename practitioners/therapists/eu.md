@@ -336,7 +336,7 @@
 - **Regulatory body:** **Ordine degli Psicologi del Lazio** (Sez. A) https://ordinepsicologilazio.it/ — registration searchable
 - **Registration number:** **not publicly displayed**
 - **Specialty:** Family psychology; psychodynamics of family relationships; **alienazione genitoriale** (empirical research, diagnosis, psychological treatment); psychology-and-law
-- **Stance:** recognition (with PASG-adjacent academic framing)
+- **Stance:** recognition (with [PASG](https://pasg.info/)-adjacent academic framing)
 - **Stance source:** Malagoli Togliatti & Lavadera, *Alienazione genitoriale: ricerca empirica, diagnosi e trattamento psicologico* (Raffaello Cortina) https://www.raffaellocortina.it/autore-marisa-malagoli-togliatti-2007.html ; Lavadera, Ferracuti & Togliatti, *La PAS nelle sentenze italiane* http://www.alienazione.genitoriale.com/pas-italia/ ; Treccani interview https://www.treccani.it/magazine/atlante/societa/la-psicologia-che-entra-nel-diritto-intervista-a-marisa-malagoli-togliatti/
 - **Programs / publications:**
   - *Alienazione genitoriale: ricerca empirica, diagnosi e trattamento psicologico* (Raffaello Cortina) — co-authored with Lavadera
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

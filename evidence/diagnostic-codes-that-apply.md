@@ -52,7 +52,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 > "This category should be used when the main focus of clinical attention is to address the quality of the parent-child relationship or when the quality of the parent-child relationship is affecting the course, prognosis, or treatment of a mental or other medical disorder."
 
-**DSM-5 illustrative interaction patterns, verbatim.**
+**[DSM-5](https://www.appi.org/products/dsm) illustrative interaction patterns, verbatim.**
 
 > "Typically, the parent-child relational problem is associated with impaired functioning in behavioral, cognitive, or affective domains. Examples of behavioral problems include inadequate parental control, supervision, and involvement with the child; parental overprotection; excessive parental pressure; arguments that escalate to threats of physical violence; and avoidance without resolution of problems. Cognitive problems may include negative attributions of the other's intentions, hostility toward or scapegoating of the other, and unwarranted feelings of estrangement. Affective problems may include feelings of sadness, apathy, or anger about the other individual in the relationship."
 
@@ -197,7 +197,7 @@ Many U.S. clinical billing systems still operate on ICD-10-CM (not yet [ICD-11](
 - **T74.32XD / T76.32XD** — same, subsequent encounter.
 - **T74.32XS / T76.32XS** — same, sequela.
 
-The U.S. transition timetable for ICD-11 remains under CMS / NCHS review; until that transition, U.S. evaluators write reports using [DSM-5-TR](https://www.appi.org/products/dsm) text + ICD-10-CM billing codes.
+The U.S. transition timetable for [ICD-11](https://icd.who.int/) remains under CMS / NCHS review; until that transition, U.S. evaluators write reports using [DSM-5-TR](https://www.appi.org/products/dsm) text + ICD-10-CM billing codes.
 
 ---
 
@@ -286,7 +286,7 @@ Jean Mercer (developmental psychology) and Joyanna Silberg (child trauma special
 
 ### 4.4 Case-law sensitivity to which code is applied
 
-U.S. and Canadian family-court decisions increasingly turn on the specific diagnostic language used by the evaluator. Reviewing-court reversals (cross-referenced to `/evidence/forensic-operation-in-courts.md`) often pivot on whether the evaluator wrote "V61.20 Parent-Child Relational Problem" (low-stakes, accepted) versus "Parental Alienation Syndrome" (high-stakes, increasingly rejected as not in [DSM-5-TR](https://www.appi.org/products/dsm)). Evaluators using the DSM-5-TR / ICD-11 codes have a substantially stronger appellate footing.
+U.S. and Canadian family-court decisions increasingly turn on the specific diagnostic language used by the evaluator. Reviewing-court reversals (cross-referenced to `/evidence/forensic-operation-in-courts.md`) often pivot on whether the evaluator wrote "V61.20 Parent-Child Relational Problem" (low-stakes, accepted) versus "Parental Alienation Syndrome" (high-stakes, increasingly rejected as not in [DSM-5-TR](https://www.appi.org/products/dsm)). Evaluators using the [DSM-5-TR](https://www.appi.org/products/dsm) / ICD-11 codes have a substantially stronger appellate footing.
 
 ---
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

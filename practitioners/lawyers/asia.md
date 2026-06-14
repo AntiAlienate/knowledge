@@ -103,7 +103,7 @@ New Delhi / London · Delhi ([Supreme Court of India](https://main.sci.gov.in/))
 
 **Publications:**
 - V. Ravi Chandran v Union of India (return of US child pre-Hague-accession) (2010) — *[Supreme Court of India](https://main.sci.gov.in/)*
-- Stephanie Joan Becker v State (intercountry adoption) (2013) — *Supreme Court of India*
+- Stephanie Joan Becker v State (intercountry adoption) (2013) — *[Supreme Court of India](https://main.sci.gov.in/)*
 - No5 Chambers Door Tenant practice profile naming inter-country parental abduction (2020) — *No5 Chambers* — <https://www.no5.com/barrister/dr-pinky-anand/>
 
 **Verification:**
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

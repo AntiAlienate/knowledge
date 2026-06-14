@@ -53,3 +53,35 @@ Two distinct duties bundled in one article: (1) the family-home is assigned with
 - [Codice Civile, art. 337-quater — Affidamento esclusivo](codice-civile-art-337-quater-affidamento-esclusivo.md)
 - [Codice Civile, art. 337-quinquies — Revisione delle disposizioni](codice-civile-art-337-quinquies-revisione-disposizioni.md)
 - [Codice Civile, art. 337-octies — Poteri del giudice e ascolto del minore](codice-civile-art-337-octies-poteri-del-giudice-ascolto-minore.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Arrested Development Single Parent Alienation](https://www.antialienate.com/blog/arrested-development-single-parent-alienation)
+
+<!-- AA-CROSSLINK-END -->

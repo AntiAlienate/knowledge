@@ -137,7 +137,7 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 
 - Primary-source ordering: [BAILII](https://www.bailii.org/) (case law) and judiciary.uk (Practice Directions, FJC guidance, judicial speeches) are the load-bearing primary sources for the Re-arc. [legislation.gov.uk](https://www.legislation.gov.uk/) is the primary source for statutory text. Family Law Journal and Family Law Reports are secondary commentary.
 - Correction preserved: Sam King KC practises at 4 Paper Buildings (4PB), not 1 King's Bench Walk (1KBW). The two chambers are distinct.
-- Correction preserved: Melanie Gill is retained on the practitioner cross-link list as an excluded entry — the Re Y 2026 EWFC 38 set-aside is precisely the regulatory-disclosure case where her HCPC-unregistered status was the operative reason for setting aside the order. The 'excluded entry' designation is editorial: the practitioner record is preserved for documentation of the set-aside, not as endorsement.
+- Correction preserved: Melanie Gill is retained on the practitioner cross-link list as an excluded entry — the Re Y 2026 EWFC 38 set-aside is precisely the regulatory-disclosure case where her [HCPC](https://www.hcpc-uk.org/)-unregistered status was the operative reason for setting aside the order. The 'excluded entry' designation is editorial: the practitioner record is preserved for documentation of the set-aside, not as endorsement.
 - Correction preserved: The word 'alienation' does NOT appear in the body of the Re H-N 2021 EWCA Civ 448 judgment. The PA framework is engaged via implication through the para 31 'pattern of coercive control' PD12J doctrinal anchor — this is a structural feature of the English approach (PA reached via domestic-abuse-aware analysis rather than syndromal recognition).
 - Correction preserved: The 'every agency at fault' framing belongs to Re Y 2026 EWFC 38 (McFarlane P), NOT to Re A 2019 EWFC B56 (HHJ Wildblood QC). The two cases are the opening and closing nodes of the Re-arc and the framing must not be misattributed.
 - The Family Justice Council finalised guidance was published in December 2024 (finalised version following 2023 consultation draft). It operationalises Re C 2023 EWHC 345 Fam across every family court in England & Wales and is the institutional multiplier that converts the appellate methodological standard into binding day-to-day PD25B practice.
@@ -147,6 +147,8 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

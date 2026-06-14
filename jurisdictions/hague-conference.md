@@ -48,7 +48,7 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 
 - **1893** — First Hague Conference on Private International Law held September 1893 — foundational private international law multi-state cooperation framework.
 - **1955** — Hague Conference Statute of 31 October 1951 effective 15 July 1955 establishing Hague Conference as international intergovernmental organisation.
-- **1980** — Hague Convention 1980 on the Civil Aspects of International Child Abduction adopted 25 October 1980 — foundational international child-abduction framework.
+- **1980** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on the Civil Aspects of International Child Abduction adopted 25 October 1980 — foundational international child-abduction framework.
 - **1983** — Hague Convention 1980 entered into force 1 December 1983 following ratification by France, Canada, Portugal, and Switzerland.
 - **1996** — [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility adopted 19 October 1996.
 - **2002** — [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) entered into force 1 January 2002 — comprehensive international child-protection framework.
@@ -94,6 +94,8 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

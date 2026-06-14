@@ -51,3 +51,35 @@ Italian law's recognition that parental responsibility — and its corresponding
 - [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
 - [Codice Civile, art. 337-sexies — Casa familiare e residenza](codice-civile-art-337-sexies-family-home-and-residence.md)
 - [Codice Civile, art. 337-octies — Poteri del giudice e ascolto del minore](codice-civile-art-337-octies-poteri-del-giudice-ascolto-minore.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
+- [Financial Cost Parental Alienation Funding Defense](https://www.antialienate.com/blog/financial-cost-parental-alienation-funding-defense)
+- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
+- [Narcissistic Personality Disorder Parental Alienation Connection](https://www.antialienate.com/blog/narcissistic-personality-disorder-parental-alienation-connection)
+
+<!-- AA-CROSSLINK-END -->

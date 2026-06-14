@@ -84,7 +84,7 @@ Second, the arrêt is a model of what civil-law family-court reasoning looks lik
 
 Third, the arrêt is now the central exhibit in the French *backlash* against SAP. The 2018 ministerial circular, the 2020 intra-family violence reforms, and the academic literature that followed all use 26 June 2013 as the case that, in their view, went too far. That makes the arrêt important for *both* sides of the European parental-alienation debate – PA-positive advocates cite it as proof that French law is open to alienation-based residence transfers; PA-critical voices cite it as the high point of a SAP wave that has since been actively rolled back.
 
-For the wider European picture, this French arrêt should be read alongside the German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) and Spanish [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) SAP jurisprudence as a comparative-law illustration that civil-law systems are not converging on a single answer. France took an early, narrow procedural step in favour of SAP-style reasoning in 2013, and then – through ministerial guidance and statutory reform rather than through Cour de cassation overruling – pulled back from that step. The arrêt of 26 June 2013 remains the law; the policy environment around it has changed.
+For the wider European picture, this French arrêt should be read alongside the German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) and Spanish [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) SAP jurisprudence as a comparative-law illustration that civil-law systems are not converging on a single answer. France took an early, narrow procedural step in favour of SAP-style reasoning in 2013, and then – through ministerial guidance and statutory reform rather than through [Cour de cassation](https://www.courdecassation.fr/) overruling – pulled back from that step. The arrêt of 26 June 2013 remains the law; the policy environment around it has changed.
 
 ## Sources
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

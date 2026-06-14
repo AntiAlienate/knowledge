@@ -124,3 +124,39 @@ This section was at the heart of [Re C [2023] EWHC 345 (Fam)](re-c-2023-ewhc-345
 - [Re C [2023] EWHC 345 (Fam)](re-c-2023-ewhc-345-fam.md) — High Court on expert evidence in alleged-PA cases
 - [Children and Families Act 2014, s.11 — Parental Involvement](children-and-families-act-2014-section-11-parental-involvement.md)
 - [Children and Families Act 2014, s.14 — 26-Week Time Limit](children-and-families-act-2014-section-14-26-week-time-limit.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
+- [The Psychological Destruction Of Alienated Children](https://www.antialienate.com/blog/the-psychological-destruction-of-alienated-children)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+
+<!-- AA-CROSSLINK-END -->

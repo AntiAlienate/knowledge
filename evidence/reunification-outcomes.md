@@ -291,7 +291,7 @@ The Spring 2022 issue of the *Journal of Family Trauma, Child Custody & Child De
 
 **Citation.** [Authors not directly verified at compilation]. How efficacious is Building [Family Bridges](https://warshak.com/family-bridges/)? What the legal and mental health fields should know about Building [Family Bridges](https://warshak.com/family-bridges/) and "parental alienation." *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4). https://doi.org/10.1080/26904586.2022.2066595 **[secondary verification only]** — DOI confirmed via Taylor & Francis listing https://www.tandfonline.com/doi/abs/10.1080/26904586.2022.2066595 .
 
-**Core argument.** Article examines methodological flaws in Family Bridges research and argues that the programme's outcome studies cannot support the efficacy claims made in court settings.
+**Core argument.** Article examines methodological flaws in [Family Bridges](https://warshak.com/family-bridges/) research and argues that the programme's outcome studies cannot support the efficacy claims made in court settings.
 
 ### 9.3 The six-programme synthesis
 
@@ -402,7 +402,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 1. **Diagnostic accuracy is the load-bearing question.** Where alienation is genuinely the dynamic and the rejected parent is genuinely safe, programme-reported outcomes are encouraging — though the evidence is uncontrolled. Where the diagnosis is wrong, the harms documented in [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) are severe and measurable.
 2. **The programmes' own outcome claims should not be relied upon as if they were independently validated.** They are not. Citing "Family Bridges has an 85% success rate" or "[TPFF](https://turningpointsforfamilies.com/) has a 96% success rate" without simultaneously citing the absence of independent replication, control groups, blinded raters, or long-term follow-up misrepresents the evidence base.
 3. **The federal Kayden's-Law standard is the right standard.** "Generally accepted and scientifically valid proof of the safety, effectiveness, and therapeutic value" is not a hostile standard imposed by anti-PA advocates — it is the conventional admissibility standard for any forensic intervention with comparable stakes and is appropriate to the consequence of these orders.
-4. **Better research is feasible and overdue.** Outcome studies could include pre-registered protocols, blinded independent raters, comparison groups (even quasi-experimental matched controls), validated instruments, and follow-up periods of 2+ years. That this has not been done in the decade and a half since Warshak (2010) is itself informative about the field's research culture.
+4. **Better research is feasible and overdue.** Outcome studies could include pre-registered protocols, blinded independent raters, comparison groups (even quasi-experimental matched controls), validated instruments, and follow-up periods of 2+ years. That this has not been done in the decade and a half since [Warshak](https://warshak.com/family-bridges/) (2010) is itself informative about the field's research culture.
 
 ---
 
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

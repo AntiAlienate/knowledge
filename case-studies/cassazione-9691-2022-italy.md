@@ -138,7 +138,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 - PRIMARY SOURCE: il testo integrale dell'ordinanza è stato verificato sul PDF pubblicato da Studio Legale Ruffinotti (riproduzione fedele del provvedimento pubblicato su italgiure.giustizia.it). Tutte le citazioni in italiano sono testuali da quel testo; le traduzioni inglesi sono dell'autore (Alan Markson).
 - PRIMARY SOURCE: composizione del collegio, parti anonimizzate (M.L., A.G., A.L., R.E., D.B.), riferimento al Decreto Corte d'Appello di Roma 9.7.2021, indicazione del numero di ricorso (21633/2021), data udienza camerale (26 gennaio 2022) e deposito (24 marzo 2022) sono tutti verificati dal testo primario.
 - SECONDARY SOURCE: l'identificazione del caso come quello di Laura Massaro è documentata da Differenza Donna (pubblicazione del testo dell'ordinanza con commento di rivendicazione politica); l'identità nominale non compare nel testo dell'ordinanza, che anonimizza tutte le parti ex D.Lgs. 196/2003 art. 52.
-- NON VERIFICABILE DA FONTE PRIMARIA: l'ECLI ITALIANO 'ECLI:IT:CASS:2022:9691CIV' è ricostruito secondo la convenzione di codifica ECLI italiana per la Cassazione civile (anno + numero + 'CIV'); l'ECLI non compare nel testo dell'ordinanza, né italgiure pubblica un ECLI formalmente assegnato per le ordinanze del 2022 nello stesso modo in cui lo fa per le sentenze più recenti.
+- NON VERIFICABILE DA FONTE PRIMARIA: l'ECLI ITALIANO 'ECLI:IT:CASS:2022:9691CIV' è ricostruito secondo la convenzione di codifica ECLI italiana per la [Cassazione](https://www.cortedicassazione.it/) civile (anno + numero + 'CIV'); l'ECLI non compare nel testo dell'ordinanza, né italgiure pubblica un ECLI formalmente assegnato per le ordinanze del 2022 nello stesso modo in cui lo fa per le sentenze più recenti.
 - NON VERIFICABILE DA FONTE PRIMARIA: il riferimento esplicito alla nota Ministero della Salute 2012 sulla non attendibilità della PAS NON compare nel corpo dell'ordinanza 9691/2022 (la cui costruzione argomentativa si fonda sulla giurisprudenza CEDU, sulle precedenti pronunce di legittimità — segnatamente Cass. 13217/2021, 6919/2016, 7041/2013 — e sui canoni di falsificabilità popperiana richiamati in via generale, senza citare la nota ministeriale). Il riferimento al Ministero della Salute 2012 è invece veicolato dalla letteratura secondaria (Cammino Diritto 2022; commenti diritto.it) come cornice istituzionale di contorno, non come autorità citata in motivazione.
 - NON VERIFICABILE DA FONTE PRIMARIA: l'ordinanza non cita esplicitamente [DSM-5](https://www.appi.org/products/dsm) né ICD-10/[ICD-11](https://icd.who.int/) — l'argomento metodologico è costruito in termini popperiani generali ('verifiche empiriche … ripetibili, falsificabili e confutabili secondo i canoni scientifici universalmente approvati'). I richiami al DSM/ICD sono di esclusiva paternità della letteratura secondaria.
 - NON VERIFICABILE DA FONTE PRIMARIA: i nomi degli avvocati delle parti private sono omissati nel testo pubblicato (vengono indicati gli studi di Roma ma i nomi sono cancellati); preservati come 'non verificabile da fonte primaria'. Il curatore speciale R.E., che ha agito in proprio, è invece nominalmente indicato (sempre in iniziali).
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

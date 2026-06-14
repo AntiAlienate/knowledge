@@ -74,3 +74,39 @@ The statutory pre-action requirement that a prospective applicant in family proc
 - [Children Act 1989, s.31 — Care and Supervision Orders](../united-kingdom/children-act-1989-section-31-care-and-supervision-orders.md)
 - [Children Act 1989, s.41 — Representation of Child](../united-kingdom/children-act-1989-section-41-representation-of-child.md)
 - [Re H-N and Others (Children) [2021] EWCA Civ 448](../united-kingdom/re-h-n-2021-ewca-civ-448.md) — Court of Appeal on findings of fact in family proceedings
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Step Parents Parental Alienation Blended Families](https://www.antialienate.com/blog/step-parents-parental-alienation-blended-families)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Why Children Say They Hate You The Psychology Of Alienation](https://www.antialienate.com/blog/why-children-say-they-hate-you-the-psychology-of-alienation)
+
+<!-- AA-CROSSLINK-END -->

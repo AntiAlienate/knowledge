@@ -82,7 +82,7 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 - Lo Strasburgo-cluster italiano (Lombardo 2013, Strumia 2016, Improta 2017, e poi Bondavalli, Solarino, R.V.) costituisce la dimensione verticale-CEDU che complementa orizzontalmente la critica apicale [Cassazione](https://www.cortedicassazione.it/): l'Italia è simultaneamente la giurisdizione UE con la più articolata critica apicale alla PAS e quella con il cluster più consistente di condanne CEDU per deficit di enforcement dei provvedimenti di affidamento.
 - La Riforma Cartabia 2022 (D.Lgs. 149/2022, artt. 473-bis ss. c.p.c.) ha codificato in via legislativa ciò che Cass. 9691/2022 aveva enucleato in via interpretativa: il CTU non può accertare la violenza domestica al posto del giudice e deve attenersi a protocolli metodologicamente validati. Lo spazio operativo per CTU PAS-orientate si restringe ulteriormente sul piano normativo.
 - Il polo critico-PAS italiano ha tre anchor istituzionali distinti e convergenti: (i) CISMAI come rete clinico-istituzionale di servizi anti-maltrattamento; (ii) la linea editoriale di Maltrattamento e Abuso all'Infanzia (FrancoAngeli); (iii) GREVIO Italy 2020 come anchor sovranazionale. ONPI, D.i.Re e Telefono Rosa forniscono il vettore della società civile.
-- Il polo del riconoscimento è anchored alla scuola torinese di psicologia forense (Gulotta), all'asse Sapienza-Padova-Bologna (Camerini, Malagoli Togliatti, Verrocchio), e alla SIPGI Genova (Pingitore). La SIPGI è recognition-tolerant rispetto al baseline Cassazione 2021-2025 ed è il principale interlocutore del polo del riconoscimento sul piano associativo.
+- Il polo del riconoscimento è anchored alla scuola torinese di psicologia forense (Gulotta), all'asse Sapienza-Padova-Bologna (Camerini, Malagoli Togliatti, Verrocchio), e alla SIPGI Genova (Pingitore). La SIPGI è recognition-tolerant rispetto al baseline [Cassazione](https://www.cortedicassazione.it/) 2021-2025 ed è il principale interlocutore del polo del riconoscimento sul piano associativo.
 - Andrea Mazzeo (psichiatra forense, Lecce) è l'autore italiano della monografia critica più citata in lingua italiana — 'PAS: una sindrome inventata' — coniando l'espressione 'sindrome inventata' divenuta marker lessicale del polo critico italiano.
 - La presenza italiana cross-jurisdictional sul tema PA è essenzialmente nulla: a differenza di Argentina (Vaccaro a Madrid) o Germania (rete DACH-NL), non risultano clinici italiani significativi attivi in altre giurisdizioni sul tema. Italia resta self-contained dal punto di vista della rete professionale critico-PAS.
 
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

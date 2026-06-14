@@ -240,7 +240,7 @@ Baltimore · MD · President, Leadership Council on Child Abuse & Interpersonal 
 
 **Contact:** https://www.thechildsurvivor.com/contact ; info@leadershipcouncil.org
 
-*Notes: MD psychology licence number not publicly confirmed on site. Routinely opposed in expert-testimony by PASG-affiliated experts; central critique-camp authority.*
+*Notes: MD psychology licence number not publicly confirmed on site. Routinely opposed in expert-testimony by [PASG](https://pasg.info/)-affiliated experts; central critique-camp authority.*
 
 **See also:** `jurisdiction:united-states`, `case-study:cassazione-9691-2022-italy`, `practitioner:us.dallam-stephanie`
 
@@ -357,7 +357,7 @@ Newport Beach · CA · Independent forensic psychology practice (Newport Beach, 
 
 **Contact:** https://lesliedrozd.com/contact.html
 
-*Notes: CA Licensed Psychologist + LMFT verifiable via CA BOP / BBS. One of the few practitioners trusted by both recognition and critique camps for testimony — high credibility signal. AFCC decision-tree framework is the canonical evaluator methodology.*
+*Notes: CA Licensed Psychologist + LMFT verifiable via CA BOP / BBS. One of the few practitioners trusted by both recognition and critique camps for testimony — high credibility signal. [AFCC](https://www.afccnet.org/) decision-tree framework is the canonical evaluator methodology.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:us.olesen-nancy`, `practitioner:us.sullivan-matthew`
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

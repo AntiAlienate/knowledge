@@ -117,3 +117,39 @@ The statutory basis for the "tandem model" — separate appointment of a Childre
 - [Children Act 1989, s.8 — Child Arrangements Orders](children-act-1989-section-8.md)
 - [Children Act 1989, s.31 — Care and Supervision Orders](children-act-1989-section-31-care-and-supervision-orders.md)
 - [Re C [2023] EWHC 345 (Fam)](re-c-2023-ewhc-345-fam.md) — Guardian-led process in alleged-alienation case
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+
+<!-- AA-CROSSLINK-END -->

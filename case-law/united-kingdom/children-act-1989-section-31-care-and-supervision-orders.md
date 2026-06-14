@@ -140,3 +140,39 @@ The statutory threshold for state intervention into the parent-child relationshi
 - [Children Act 1989, s.11 — General Principles and Supplementary](children-act-1989-section-11.md)
 - [Children Act 1989, s.41 — Representation of Child](children-act-1989-section-41-representation-of-child.md)
 - [Re H-N and Others (Children) [2021] EWCA Civ 448](re-h-n-2021-ewca-civ-448.md) — Court of Appeal guidance on findings of fact in family proceedings
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
+- [The Psychological Destruction Of Alienated Children](https://www.antialienate.com/blog/the-psychological-destruction-of-alienated-children)
+- [Why Children Always Need Both Parents Alienation Is Abuse](https://www.antialienate.com/blog/why-children-always-need-both-parents-alienation-is-abuse)
+- [Why Children Say They Hate You The Psychology Of Alienation](https://www.antialienate.com/blog/why-children-say-they-hate-you-the-psychology-of-alienation)
+
+<!-- AA-CROSSLINK-END -->

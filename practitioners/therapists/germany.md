@@ -370,7 +370,7 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 
 **Publications:**
 - Pressemeldung zum GREVIO-Bericht: Deutschland braucht Gesamtkonzept gegen Gewalt an Frauen (2022) — *Frauenhauskoordinierung e.V.* — <https://www.frauenhauskoordinierung.de/aktuelles/detail/pressemeldung-zum-grevio-bericht-deutschland-braucht-gesamtkonzept-gegen-gewalt-an-frauen>
-- Beitrag: Eltern-Kind-Entfremdung (PAS) und Wunsch nach Sanktionierung — BVerfG 1 BvR 1076/23 (2024) — *Frauenhauskoordinierung e.V.* — <https://www.frauenhauskoordinierung.de/fileadmin/redakteure/PDF/2024-07-17_Beitrag_FIS_BVerfG_PAS_und_Sanktionierung_ABR.pdf>
+- Beitrag: Eltern-Kind-Entfremdung (PAS) und Wunsch nach Sanktionierung — [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2024) — *Frauenhauskoordinierung e.V.* — <https://www.frauenhauskoordinierung.de/fileadmin/redakteure/PDF/2024-07-17_Beitrag_FIS_BVerfG_PAS_und_Sanktionierung_ABR.pdf>
 - Pressemitteilung zum Muttertag: Mehr Schutz fur Mutter — Gewaltschutz muss Vorrang vor Sorge- und Umgangsrecht haben (2025) — *Frauenhauskoordinierung e.V.*
 
 **Verification:**
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
