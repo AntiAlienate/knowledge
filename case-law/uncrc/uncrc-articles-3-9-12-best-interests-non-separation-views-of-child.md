@@ -114,6 +114,8 @@ The Committee's **General Comment No. 12 (2009)** is the canonical interpretive 
 - **Ratifications:** 196 States Parties as at 2026 (only the United States has signed but not ratified).
 - **Status:** International treaty text — published officially by OHCHR for global use; verbatim reproduction permitted for legal and educational purposes.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

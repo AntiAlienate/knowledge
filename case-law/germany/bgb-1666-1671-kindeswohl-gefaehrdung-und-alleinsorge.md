@@ -157,6 +157,8 @@ Sections 1666 and 1671 together provide the **two principal mechanisms by which 
 - **Codification history:** Substantive 1998 reform via Kindschaftsrechtsreformgesetz (KindRG); § 1666(3) measure list substantially expanded by Gesetz zur Erleichterung familiengerichtlicher Maßnahmen bei Gefährdung des Kindeswohls of 4 July 2008 (in force 12 July 2008); 1671 amended to align with § 1626a unmarried-parent custody reforms (2013).
 - **Status:** German federal statutes (Bundesgesetze) are public-domain; published officially by the Bundesministerium der Justiz at gesetze-im-internet.de.
 
+
+
 <!-- AA-CITE-START -->
 
 ---
