@@ -282,6 +282,19 @@ def main():
                                 capture_output=True, text=True)
             print(f"→ aa-prose-cleanup ({target.name}): {cl.stdout.strip()}")
 
+    # 2a-ter. P2 AEO: refresh FAQ + JSON-LD blocks on TOP_50 jurisdiction MDs
+    # so they stay in step with any JSON updates pulled this cycle.
+    faqgen = pathlib.Path(__file__).parent / "aa-faq-gen"
+    if faqgen.exists():
+        cl = subprocess.run([sys.executable, str(faqgen), str(RECOVERY)],
+                            capture_output=True, text=True)
+        # Summarise — full per-slug output is too noisy for the sync log
+        out = cl.stdout.strip().split("\n")
+        u = sum(1 for l in out if l.startswith("updated"))
+        un = sum(1 for l in out if l.startswith("unchanged"))
+        sk = sum(1 for l in out if l.startswith("skip"))
+        print(f"→ aa-faq-gen: {u} updated, {un} unchanged, {sk} skipped")
+
     # 2b. refresh citation footers + inline autolinks (idempotent).
     # Order: aa-cite (Sources block) → aa-crosslink (Related block) → aa-autolink
     # (inline body links). Autolink runs LAST so it can skip the appended blocks.
