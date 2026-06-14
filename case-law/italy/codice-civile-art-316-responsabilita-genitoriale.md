@@ -90,6 +90,8 @@ Article 316 operates upstream of article 337-ter (which applies in the separatio
 - **Codification history:** Article reformulated by D.Lgs. 28 December 2013 n. 154 (which implemented the 2012 Riforma Filiazione equalising the legal status of children born in and out of marriage); the article renamed "potestà dei genitori" → "responsabilità genitoriale" and restructured the substantive content.
 - **Status:** Italian state statute — public-domain text.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -121,6 +121,8 @@ The combination of the **greatest-weight relationship-strength rule** + the **in
 - **Codification history:** Enacted 1987 c 460 s 9; substantively amended 1989 c 375 s 10, 2007 c 496 s 603, 2025 c 166 s 4.
 - **Status:** Public domain — Washington state statutes are not subject to copyright (general principle that government-authored law is public domain).
 
+
+
 <!-- AA-CITE-START -->
 
 ---

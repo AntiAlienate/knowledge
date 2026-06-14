@@ -147,6 +147,8 @@ Tribunal Supremo sentences are anonymised per LOPJ art. 232 and CENDOJ publicati
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
