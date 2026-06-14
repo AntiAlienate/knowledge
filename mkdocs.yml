@@ -38,10 +38,10 @@ theme:
     - navigation.tabs
     - navigation.tabs.sticky
     - navigation.sections
-    - navigation.expand
     - navigation.indexes
     - navigation.top
     - navigation.footer
+    - navigation.prune
     - toc.follow
     - search.suggest
     - search.highlight
@@ -84,74 +84,62 @@ extra:
 
 nav:
   - Home: README.md
-  - Start here:
-    - Playbooks: playbooks/README.md
-    - Case Studies: case-studies/README.md
-    - Evidence: evidence/README.md
-    - The Debate: the-debate/recognition-vs-critique.md
+
+  - Start Here:
+    - Overview: README.md
+    - The Debate (recognition vs critique): the-debate/recognition-vs-critique.md
+    - Playbooks for parents: playbooks/README.md
+    - Glossary: glossary/glossary.md
+
   - Playbooks:
-    - playbooks/README.md
+    - Overview: playbooks/README.md
     - First 90 Days: playbooks/first-90-days.md
     - Court Prep: playbooks/court-prep-checklist.md
     - Working With Your Lawyer: playbooks/working-with-lawyer.md
     - Evaluator Selection: playbooks/evaluator-selection.md
     - Reunification Therapy: playbooks/reunification-therapy.md
-    - Teen Alienation: playbooks/teen-alienation.md
     - Documentation System: playbooks/documentation-system.md
+    - Teen Alienation: playbooks/teen-alienation.md
     - Accused of Alienation: playbooks/accused-of-alienation.md
     - Cross-Border / Hague: playbooks/cross-border-hague.md
     - Grandparent Alienation: playbooks/grandparent-pa.md
-    - PA and Domestic Violence: playbooks/pa-and-domestic-violence.md
+    - PA + Domestic Violence: playbooks/pa-and-domestic-violence.md
     - Step-Parent Dynamics: playbooks/step-parent-dynamics.md
-  - Case Studies:
-    - case-studies/README.md
-    - Global Comparison Matrix: case-studies/global-comparison.md
-    - Open question — US clean reversal: case-studies/open-question-clean-us-appellate-reversal-of-pa-finding.md
-  - Evidence:
-    - evidence/README.md
-    - PA as Child Abuse: evidence/pa-as-child-abuse.md
-    - Alienating Tactics as Child Abuse: evidence/alienating-tactics-as-child-abuse.md
-    - Mental-Health Outcomes: evidence/mental-health-outcomes.md
-    - Reunification Outcomes: evidence/reunification-outcomes.md
-    - Forensic Operation in Courts: evidence/forensic-operation-in-courts.md
-    - International Institutional Positions: evidence/international-institutional-positions.md
-    - Prevalence Claims: evidence/prevalence-claims.md
-    - Diagnostic Codes That Apply: evidence/diagnostic-codes-that-apply.md
-    - Court Submissions — What You Can Claim: evidence/what-court-submissions-can-claim.md
-    - Evaluator Training Asymmetry: evidence/evaluator-training-asymmetry.md
-    - Standard of Proof: evidence/standard-of-proof.md
-  - The Debate: the-debate/recognition-vs-critique.md
-  - Glossary: glossary/glossary.md
-  - Jurisdictions:
-    - jurisdictions/README.md
-  - Influencers:
-    - influencers/README.md
-  - Practitioners:
-    - practitioners/README.md
+
+  - Knowledge Base:
+    - Case Law (statutes + judgments): case-law/
+    - Jurisdictions (by country): jurisdictions/
+    - Case Studies: case-studies/
+    - Evidence & Research: evidence/
+
+  - People:
+    - Influencers: influencers/
+    - Practitioners (lawyers + therapists): practitioners/
+
   - Resources:
-    - resources/README.md
-  - Community:
-    - community/README.md
-  - Research databases: resources/research-databases.md
-  - Key books: resources/key-books.md
-  - Templates: templates/
-  - Case law: case-law/
-  - Tools: tools/
-  - Publishers: publishers/
+    - Templates: templates/
+    - Research Databases: resources/research-databases.md
+    - Key Books: resources/key-books.md
+    - Clinical Materials: clinical/
+    - Comparative Analyses: comparative/
+    - Tools: tools/
+
+  - About:
+    - Open Source: open-source/
+    - Verified Publishers: publishers/
+    - Community: community/
+    - Contributing: CONTRIBUTING.md
 
 not_in_nav: |
-  /CONTRIBUTING.md
   /press/
   /docs/
   /MEMORY.md
   /digest/
   /infographics/
-  /open-source/
   /landmark-cases/
-  /clinical/
-  /comparative/
   /dashboard/
   /data/
   /posts/
   /statutes/
   /videos/
+  /schemas/
