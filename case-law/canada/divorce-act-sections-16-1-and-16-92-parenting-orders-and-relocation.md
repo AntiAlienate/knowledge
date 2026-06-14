@@ -157,3 +157,39 @@ This subsection is one of the most directly anti-coercive provisions in any mode
 - **Statute citations:** Divorce Act, R.S.C., 1985, c. 3 (2nd Supp.), ss. 16.1 + 16.92 (both added by S.C. 2019, c. 16, s. 12 — Bill C-78, in force 1 March 2021)
 - **Crown copyright + reproduction:** Federal statutes may be reproduced freely under the [Reproduction of Federal Law Order](https://laws-lois.justice.gc.ca/eng/notice.html).
 - **Status:** Public domain — federal Crown copyright with free-reproduction order.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [How To Make A Parenting Plan Together](https://www.antialienate.com/blog/how-to-make-a-parenting-plan-together)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Co Parenting Communication Guide Bypass Gatekeeping](https://www.antialienate.com/blog/co-parenting-communication-guide-bypass-gatekeeping)
+- [Co Parenting With An Alienator Survival Strategies](https://www.antialienate.com/blog/co-parenting-with-an-alienator-survival-strategies)
+- [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
+
+<!-- AA-CROSSLINK-END -->
