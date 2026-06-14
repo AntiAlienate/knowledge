@@ -226,6 +226,32 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Belgium
+
+The operative framework is the [Code civil arts. 371–387](https://www.ejustice.just.fgov.be/cgi_loi/loi_a1.pl?language=fr&cn=1804032131) (*autorité parentale*) under the welfare paramountcy of *l'intérêt supérieur de l'enfant*. The structural particularity of Belgium is that **withholding a child from court-ordered contact is a CRIME** under [Code pénal art. 432](case-law/belgium/penal-code-art-432.md) — *non-représentation d'enfant* — punishable by up to **one year imprisonment and €1,000 fine**.
+
+**Procedural pathway — the Tribunal de la famille.** Family disputes go to the *Tribunal de la famille* (created by the [Loi du 30 juillet 2013](case-law/belgium/family-court-act-2013.md)) at the *Tribunal de première instance* of the child's domicile. The procedure under Code judiciaire arts. 1253 is designed to consolidate all family disputes (custody, contact, financial) in a single specialised chamber.
+
+**The criminal track is the strongest Belgian tool.** Procedure under art. 432 Code pénal:
+1. Confirm an enforceable court order on contact (jugement of the Tribunal de la famille, or accord parental homologué).
+2. Document each obstruction event — date, time, location, what was denied.
+3. Go to any *commissariat* (police *zone de police*).
+4. File a *plainte* or PV under art. 432 — request a copy with the reference number before leaving.
+5. Forward to your *avocat* within 48 hours.
+
+The *parquet* (procureur du Roi) decides whether to prosecute. **Most first-time PVs are *classés sans suite* — this is normal.** The parquet wants to see a *pattern*. Each PV builds the dossier; the third typically gets attention.
+
+**Grandparent and extended-family contact.** [Code civil art. 375bis](case-law/belgium/civil-code-art-375bis-grandparents.md) gives grandparents and *toute autre personne qui justifie d'un lien d'affection particulier* an independent right to apply for contact — useful where the targeted parent's wider family has also been cut off.
+
+**The PA-construct question.** The Conseil supérieur de la santé belge (avis no 9484 of 2018) is **critique-camp**: PAS / *syndrome d'aliénation parentale* should not be used as a diagnostic category. Belgian Tribunal de la famille practice is consistent — argue the behaviours, not the syndrome.
+
+**Linguistic communities.** Belgium operates three linguistic communities (French, Dutch, German). Court language follows the territorial principle. The German-speaking community's judicial structure runs under the same Code civil but proceedings are in German at the *Eupener Gerichts* — important if you live in the East Cantons.
+
+**Get local counsel.** *Avocat* is recommended at first instance and required on appeal. The [Ordre des Barreaux Francophones et Germanophone (Avocats.be)](https://avocats.be/) and the [Orde van Vlaamse Balies](https://www.advocaat.be/) maintain *specialist droit familial* directories. *Aide juridique* (legal aid) is income-tested via the *Bureau d'Aide Juridique* of your *Barreau*.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

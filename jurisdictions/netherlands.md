@@ -218,6 +218,25 @@ Hoge Raad and Gerechtshof family-chamber judgments anonymise minor children cons
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in the Netherlands
+
+The operative framework is [Burgerlijk Wetboek (BW) Boek 1 Titel 14](https://wetten.overheid.nl/BWBR0002656/) (*Het gezag over minderjarige kinderen*), specifically arts. 245–253 (*ouderlijk gezag* — parental authority) and arts. 377a et seq. (*omgang*, *informatie en consultatie* — contact / information / consultation). The principle of *belang van het kind* (best interests of the child) governs all decisions.
+
+**Default position.** After separation, *gezamenlijk gezag* (joint parental authority) continues by operation of law unless a court orders otherwise. Both parents retain decision-making authority. *Omgangsrecht* (contact rights) under BW 1:377a applies to the non-resident parent.
+
+**Procedural pathway — the Rechtbank.** Family disputes go to the *Rechtbank* (district court), team *familie- en jeugdrecht*, at the child's habitual residence (per *Brussels IIb Verordening 2019/1111* for cross-border cases, or the *Wetboek van Burgerlijke Rechtsvordering* for purely Dutch matters). Procedure is *verzoekschriftprocedure*. You typically file via your *advocaat* (mandatory in family-jurisdiction matters).
+
+**The Raad voor de Kinderbescherming.** In contested cases the *Raad* (Child Protection Council) will normally be appointed to investigate and report. Their report carries significant weight; engage cooperatively. *Jeugdzorg* (youth-care services) may also be involved if welfare concerns exist.
+
+**Enforcement of contact.** Where a contact order is being ignored, the Rechtbank can impose *dwangmaatregelen* — including *dwangsom* (penalty payment), *lijfsdwang* (in extremis), or *gezagswijziging* (transfer of authority). For severe cases, the *officier van justitie* may prosecute under [Wetboek van Strafrecht art. 279](https://wetten.overheid.nl/BWBR0001854/) (*onttrekking van een minderjarige aan het wettig gezag* — abduction of a minor from lawful authority) — punishable by up to **six years imprisonment** (or nine if violence, threat or deception is involved).
+
+**The PA-construct question.** Dutch practice is methodologically restrained: the [Nederlands Instituut van Psychologen (NIP)](https://www.psynip.nl/) and [Nederlandse Vereniging voor Psychiatrie (NVvP)](https://www.nvvp.net/) have not adopted *Parental Alienation Syndrome* as a diagnostic category. *Ouderverstoting* (parental rejection / alienation) is described in clinical and forensic literature as a *gedragspatroon* (behavioural pattern) but not as a syndrome. Court-appointed *gedragsdeskundigen* (behavioural experts under BW 1:798) apply this framing.
+
+**Get local counsel.** *Advocaat* is mandatory in family-jurisdiction matters. The [Vereniging van Familie- en erfrechtAdvocaten Scheidingsmediators (vFAS)](https://www.vfas.nl/) maintains the specialist directory. *Gefinancierde rechtsbijstand* (subsidised legal aid) via the *Raad voor Rechtsbijstand* is income-tested. *Mediation* is often court-encouraged but not compulsory; the vFAS *scheidingsmediator* network is the principal Dutch family-mediation route.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

@@ -216,6 +216,25 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Australia
+
+The operative framework is the [Family Law Act 1975 (Cth)](case-law/australia/family-law-act-1975-amended-2024-meaningful-relationship.md) — substantially restructured by the **Family Law Amendment Act 2023** (in force 6 May 2024), which **repealed s.61DA presumption of equal shared parental responsibility** and the consequential equal/substantial-and-significant time considerations. The post-reform framework consolidates the *best-interests-of-the-child* analysis under [s.60CC](case-law/australia/family-law-act-s60cc.md) with a refocused list of considerations.
+
+**Procedural pathway — the Federal Circuit and Family Court of Australia (FCFCOA).** The FCFCOA (established 1 September 2021 by merger of the Family Court of Australia and the Federal Circuit Court) now has unified family-law jurisdiction across Divisions 1 and 2. File an Initiating Application via the *Commonwealth Courts Portal*. Before filing in most parenting matters you must (unless an exemption applies) attempt *Family Dispute Resolution* (FDR) and obtain a *s.60I certificate* from an accredited FDR practitioner. Exemptions cover urgency, family violence, abuse, and inability to participate.
+
+**The 2024 best-interests framework.** Under the restructured [s.60CC](case-law/australia/family-law-act-s60cc.md), the court considers what arrangements would promote the child's safety and benefit from a relationship with both parents, the child's views, the developmental, psychological, emotional and cultural needs, the capacity of each carer to meet those needs, the benefit of a relationship with the other parent and any other relevant matter — with safety from family violence (including the harm of exposure to family violence) as the primary consideration. The 2023 reforms substantially demoted the prior "meaningful relationship" presumption to a contextual factor.
+
+**The Magellan / Lighthouse pathway.** Where significant family-violence or child-abuse allegations exist, the FCFCOA's *Lighthouse* model (national rollout) prioritises risk-screening at the front of proceedings. *Magellan* (the long-running specialist track for serious child-abuse allegations) continues. The targeted-parent strategy is to engage with these pathways early, not avoid them — they are designed to surface the truth of competing safety claims.
+
+**The PA-construct question.** Australian family law's apex authority [U v U (2002) 211 CLR 238 (HCA 36)](case-law/australia/u-v-u-2002-hca-36.md) endorsed a substance-over-form approach. The 2024 [Royal Commission / ALRC reform path](https://www.alrc.gov.au/) reinforced that the court applies the underlying conduct within the best-interests-of-the-child framework rather than as a free-standing diagnostic label. *AFCC Australian Chapter* and the [Family Law Council](https://www.ag.gov.au/) practice frameworks operationalise this.
+
+**International abduction.** Australia is a Hague 1980 contracting state via the [Family Law (Child Abduction Convention) Regulations 1986](https://www.legislation.gov.au/). For a removal abroad, contact the [International Family Law Section, Attorney-General's Department](https://www.ag.gov.au/families-and-marriage/international-family-law) immediately.
+
+**Get local counsel.** The [Law Society Family Law accreditation](https://www.lawcouncil.au/) is state-by-state (Family Law Specialist accreditation via each state Law Society). [Legal Aid](https://www.nationallegalaid.org/) is means-tested with priority for family-violence and child-protection matters. The [Family Law Section of the Law Council](https://flc.lawcouncil.au/) is the principal practitioner forum.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

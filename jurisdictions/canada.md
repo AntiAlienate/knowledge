@@ -227,6 +227,25 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Canada
+
+Canada operates a **bifurcated federal common-law / Quebec civil-law** architecture. The federal [Divorce Act (R.S.C. 1985, c.3 (2nd Supp.))](case-law/canada/divorce-act-section-16-best-interests-of-the-child.md), substantially amended by [Bill C-78 (in force 1 March 2021)](case-law/canada/divorce-act-1985-amended-2021-bill-c78-maximum-contact.md), governs married couples and prescribes a best-interests-of-the-child analysis at [s.16](case-law/canada/divorce-act-section-16-best-interests-of-the-child.md). Provincial statutes run in parallel for unmarried parents: Ontario CLRA, Quebec [CCQ + Loi sur la protection de la jeunesse](case-law/canada-quebec/code-civil-quebec-autorite-parentale.md), BC Family Law Act, Alberta Family Law Act.
+
+**The 2021 framework changes the vocabulary.** Bill C-78 replaced *custody* and *access* with **decision-making responsibility** and **parenting time**. *Mobility / relocation* is now expressly regulated by [Divorce Act ss.16.1 and 16.92](case-law/canada/divorce-act-sections-16-1-and-16-92-parenting-orders-and-relocation.md), which prescribe a notice regime and the factors a court considers when one parent proposes to relocate with the child.
+
+**The s.16(3) best-interests list.** The federal best-interests framework is non-hierarchical except that the child's *safety, security and well-being* is primary. The [s.16(3)(j) family-violence factor](case-law/canada/divorce-act-section-16-best-interests-of-the-child.md) requires courts to consider any family violence and its impact. The [s.16(6) maximum-contact factor](case-law/canada/divorce-act-1985-amended-2021-bill-c78-maximum-contact.md) preserves the principle that a child should have as much contact with each parent as is consistent with their best interests — but as a factor, not as a presumption.
+
+**Procedural pathway.** Federal Divorce Act matters go to the Superior Court of the province (Ontario Superior Court of Justice, Cour supérieure du Québec, BC Supreme Court, Alberta Court of King's Bench, etc.). Provincial Family Court hears unmarried-parent matters in most provinces. File a *Notice of Family Claim* or *Application* — procedure varies by province. *Mandatory information programs* (MIP-equivalents) are required in most provinces before contested motions. The *Office of the Children's Lawyer (OCL)* in Ontario, the *Independent Children's Lawyer* in BC, and equivalent provincial bodies represent children in contested cases.
+
+**Quebec — civil law difference.** Quebec operates under the *Code civil du Québec* (arts. 597 et seq. on *autorité parentale*) and procedure under the *Code de procédure civile*. The principle is *autorité parentale conjointe* exercised in the *intérêt de l'enfant*. The [Loi sur la protection de la jeunesse](https://www.legisquebec.gouv.qc.ca/) governs state-protection interventions; the *Directeur de la protection de la jeunesse (DPJ)* is the equivalent of an English local authority.
+
+**The PA-construct question.** Canadian common-law family courts have applied the underlying conduct (contact-interference, denigration, parental loyalty conflict) under the s.16 best-interests framework rather than as a free-standing diagnostic label. The Ontario Court of Appeal in [A.M. v C.H. 2019 ONCA 764](https://www.canlii.org/en/on/onca/) and BC equivalents have cautioned against accepting "parental alienation" expert evidence framed as a syndrome. The 2024 [Canadian Bar Association Family Law Section guidance](https://www.cba.org/Sections/Family-Law/) takes a similar middle position.
+
+**Get local counsel.** Provincial Law Societies certify family-law specialists. [Canadian Bar Association — Family Law Section](https://www.cba.org/) is the principal practitioner forum. Legal Aid is province-by-province (e.g. Legal Aid Ontario, Aide juridique Québec, Legal Services Society BC). For international abduction (Canada is a Hague 1980 contracting state), contact the [Department of Justice Canada — Central Authority for the Hague Convention](https://www.justice.gc.ca/) immediately.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

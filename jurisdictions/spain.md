@@ -221,6 +221,23 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 
 <!-- AA-CITE-END -->
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Spain
+
+The operative framework is the [Código Civil arts. 154–171](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763) (*patria potestad*) and arts. 90–96 (*medidas relativas a los hijos* on separación / divorcio), with the *interés superior del menor* enshrined in [LO 1/1996 de Protección Jurídica del Menor](https://www.boe.es/buscar/act.php?id=BOE-A-1996-1069) as amended by [LO 8/2015](https://www.boe.es/buscar/act.php?id=BOE-A-2015-8470). Spain operates a multi-jurisdictional system: each *Comunidad Autónoma* with civil-law competence (Catalonia, Aragon, Navarra, Basque Country, Galicia, Balearic Islands) has its own foral law on parental responsibility — check whether your region's Código Civil supersedes the state code.
+
+**Spain is the world's only PA-inadmission statutory jurisdiction.** [LO 8/2021](https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347) (*protección integral a la infancia y la adolescencia frente a la violencia* — LOPIVI), *Disposición adicional decimoséptima*, **directs public administrations not to admit the construct denominated "Síndrome de Alienación Parental" (SAP) in family-violence settings**. This is the strongest statutory rejection of PA-syndrome framing anywhere in the world.
+
+**Practical implication for both parents.** A targeted parent in Spain **must not** ask the *Juzgado de Familia* for a *informe pericial* framed around "SAP" — the *perito judicial* will be barred from applying that diagnostic frame, and the request itself signals an outdated litigation strategy. The Cassationally-correct framing is to plead the underlying conduct (interferencia en el régimen de visitas; incumplimiento sistemático) under [Código Civil art. 776](https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763) (modificación de medidas) and the *Ley de Enjuiciamiento Civil* art. 776 (ejecución de sentencia familiar).
+
+**Procedural pathway — the Juzgado de Familia.** File a *demanda de modificación de medidas* or *ejecución de medidas* at the *Juzgado de Primera Instancia* with family competence at the child's habitual residence. The court can impose *multas coercitivas* (escalating fines) under [LEC art. 776.2](https://www.boe.es/buscar/act.php?id=BOE-A-2000-323) and, in extreme cases, transfer of *guarda y custodia*. For criminal pathway, [Código Penal art. 622](https://www.boe.es/buscar/act.php?id=BOE-A-1995-25444) (*incumplimiento del régimen de visitas*) was decriminalised in 2015; serious obstruction now goes via *desobediencia* (art. 556 CP) or, where the alienation amounts to coercive control, the *violencia vicaria* framework introduced by [LO 10/2022](https://www.boe.es/buscar/act.php?id=BOE-A-2022-13682).
+
+**Apex authority.** [Tribunal Supremo (Sala Primera), STS 519/2017 de 22 de septiembre](https://www.poderjudicial.es/) (ponente Arroyo Fiestas) took a pre-LOPIVI middle position: treating *manipulación parental* as a behavioural fact to be assessed but rejecting the *SAP* nosological category. STS 519/2017 remains the controlling reference for evidentiary treatment of alienation-pattern claims; LOPIVI 2021 reinforces it by statute.
+
+**Get local counsel.** *Abogado* and *procurador* are mandatory in family proceedings. *Especialista en derecho de familia* certification via the *Consejo General de la Abogacía Española* is the principal accreditation. *Asistencia jurídica gratuita* is income-tested via the *Colegio de Abogados* of your province. In Catalonia, the [Centre d'Estudis Jurídics i Formació Especialitzada](https://cejfe.gencat.cat/) maintains the foral-law-specialist directory.
+
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 
