@@ -4,7 +4,9 @@
   "name": "Liechtenstein (Principality of Liechtenstein / Fürstentum Liechtenstein)",
   "jurisdiction_code": "LI",
   "legal_system": "civil-law",
-  "language": ["de"],
+  "language": [
+    "de"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Liechtenstein is a Central European civil-law constitutional monarchy whose family-law framework operates under the General Civil Code (Allgemeines Bürgerliches Gesetzbuch, ABGB — adopted from Austria with substantial modernisation) supplemented by the Children and Youth Act 2008 (Kinder- und Jugendgesetz). Parental responsibility (Obsorge) and child custody are governed by ABGB §§ 137-186. The Supreme Court of Liechtenstein (Oberster Gerichtshof) is the apex court for civil and criminal matters; the Constitutional Court (Staatsgerichtshof) operates separate constitutional review. Family-law matters are heard at first instance in the Princely Court (Fürstliches Landgericht). Psychology profession is regulated through the Liechtenstein Office of Public Health (Amt für Gesundheit) framework. Liechtenstein is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Liechtenstein acceded to the Hague Convention 1980 effective 1 February 1998. Liechtenstein is a Council of Europe member subject to ECHR jurisdiction.",
@@ -55,17 +57,17 @@
     {
       "year": 1719,
       "title": "Principality of Liechtenstein established + Habsburg-imperial framework",
-      "description": "Principality of Liechtenstein established 23 January 1719 by Holy Roman Emperor Charles VI — substantively distinctive Central European Habsburg-imperial-framework. Foundational pre-Civil-Code framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Principality of Liechtenstein established 23 January 1719 by Holy Roman Emperor Charles VI."
     },
     {
       "year": 1806,
       "title": "Liechtenstein sovereignty + Confederation-of-the-Rhine framework",
-      "description": "Liechtenstein sovereignty 12 July 1806 via Confederation-of-the-Rhine framework — substantively distinctive Central European Napoleonic-era sovereignty framework. Foundational substantive-sovereignty framework persisting through Holy-Roman-Empire-dissolution and subsequent constitutional-democratic-trajectory."
+      "description": "Liechtenstein sovereignty 12 July 1806 via Confederation framework."
     },
     {
       "year": 1812,
       "title": "ABGB adoption from Austria",
-      "description": "General Civil Code (ABGB) adopted from Austria 1 June 1812 — establishing Austrian-civil-law substantive heritage. §§ 137-186 govern parental responsibility and child custody. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory."
+      "description": "General Civil Code (ABGB) adopted from Austria 1 June 1812 — establishing Austrian-civil-law substantive heritage. §§ 137-186 govern parental responsibility and child custody."
     },
     {
       "year": 1921,
@@ -85,7 +87,7 @@
     {
       "year": 1995,
       "title": "EEA accession + EU-Single-Market-integration framework",
-      "description": "Liechtenstein European Economic Area membership 1 May 1995 — substantively distinctive globally micro-state-EEA-membership framework. Substantive EU-Single-Market integration affecting subsequent cross-border-jurisdiction-practice including Brussels-IIbis-Regulation-equivalent framework."
+      "description": "Liechtenstein European Economic Area membership 1 May 1995. Substantive EU-Single-Market integration affecting subsequent cross including Brussels framework."
     },
     {
       "year": 1998,

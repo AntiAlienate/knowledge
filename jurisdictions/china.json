@@ -4,7 +4,9 @@
   "name": "China (People's Republic of China / 中华人民共和国)",
   "jurisdiction_code": "CN",
   "legal_system": "civil-law",
-  "language": ["zh"],
+  "language": [
+    "zh"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "China is an East Asian socialist-civil-law unitary state whose family-law framework operates under the Civil Code of the People's Republic of China 2020 (民法典) Book V (Marriage and Family), effective 1 January 2021, replacing the 1980 Marriage Law and 1991 Adoption Law. Parental rights and child-custody provisions are codified at arts. 1058-1086. The Supreme People's Court (最高人民法院) is the apex court; family-law matters are heard at first instance in Basic People's Courts under specialised family-tribunal procedure introduced in the 2016 Family Trial Reform pilot, formalised in 2018-2020 Supreme People's Court Interpretations. Psychology profession is regulated through the Chinese Psychological Society (CPS) framework with the Clinical Psychology Registration System operating professional credentialing; no unified federal-statutory psychologist registration exists. China is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Civil Code art. 1084. China acceded to the Hague Convention 1980 (Hong Kong + Macau SARs only via territorial extension); mainland China is non-Hague Convention.",
@@ -56,7 +58,7 @@
     {
       "year": 1950,
       "title": "Marriage Law of the PRC 1950 (婚姻法)",
-      "description": "PRC's first major statute — Marriage Law of 1 May 1950 — abolished feudal marriage system, codified marriage-on-free-will, gender-equality, monogamy, and child-protection — among the earliest gender-equality family-law instruments globally and the foundational substantive anchor for subsequent PRC family-law jurisprudence."
+      "description": "PRC's first major statute."
     },
     {
       "year": 1980,

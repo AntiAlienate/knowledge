@@ -4,7 +4,9 @@
   "name": "Bulgaria (България)",
   "jurisdiction_code": "BG",
   "legal_system": "civil-law",
-  "language": ["bg"],
+  "language": [
+    "bg"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Bulgaria is a civil-law unitary republic whose family-law framework operates under the Семеен кодекс (Family Code) of 2009 (in force 1 October 2009). Parental rights and obligations (родителски права и задължения) are governed by Family Code arts. 122-138, with joint exercise of parental rights operating as the statutory default during marriage. The Върховен касационен съд (Supreme Court of Cassation, Sofia) is the apex civil court of cassation; the Конституционен съд (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under the Закон за здравето (Health Act) and the Bulgarian Psychological Society — statutory regulation is less centralised than the federal-statutory regimes elsewhere in the corpus. Bulgaria is silent on 'parental alienation' as a statutory label; courts operate substantively under the най-добрия интерес на детето (best-interests-of-the-child) standard. ECHR Strasbourg jurisprudence has produced Bulgarian contact-enforcement cases (notably Mincheva v. Bulgaria 2010) engaging the Article 8 positive-obligations framework.",
@@ -95,7 +97,7 @@
     {
       "year": 2022,
       "title": "Russian-invasion-spillover + Bulgarian-political-instability + 5-elections-in-2-years framework",
-      "description": "Russian invasion of Ukraine 24 February 2022 substantively affecting Bulgaria — substantively distinctive Eastern European Russia-Ukraine-war-spillover framework + structurally distinctive globally Bulgarian-political-instability framework with 5 parliamentary elections in 2 years (2021-2023) + GERB-Continuing-Change-Democratic-Bulgaria coalition framework 2023 + structurally distinctive globally only modern EU member-state with 5-elections-in-2-years framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and Hague Convention 1980 cross-border implementation framework + Семеен кодекс 2009 family-law-implementation framework affecting Ukrainian-displaced-family family-court adjudication framework + Върховен касационен съд substantive register evolution."
+      "description": "Russian invasion of Ukraine 24 February 2022 substantively affecting Bulgaria."
     },
     {
       "year": 2018,
@@ -147,7 +149,6 @@
   "editorial_notes": [
     "Bulgaria jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full democratic-transition-to-contemporary trajectory: 1989-Bulgaria-democratic-transition-Zhivkov-resignation + 1991-Constitution-+-UNCRC-ratification-+-Council-of-Europe-membership + 2000-Child-Protection-Act-+-EU-candidate-trajectory + 2003-Hague-1980-accession + 2004-NATO-membership + 2007-EU-accession + 2009-Семеен-кодекс-in-force + 2010-Mincheva-v-Bulgaria-ECHR-Article-8-contact-enforcement + 2018-Constitutional-Court-Istanbul-Convention-decision + 2024-Върховен-касационен-съд-Конституционен-съд-най-добрия-интерес-на-детето.",
     "CEE/Balkan civil-law framework (Family Code 2009 + Child Protection Act 2000 + Constitution 1991 + Council of Europe/ECHR + Hague Convention 1980 + EU acquis + NATO + Mincheva v. Bulgaria Strasbourg Article 8 jurisprudence).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive най-добрия интерес на детето analysis under Семеен кодекс arts. 122-138 + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
-    "Joins CEE-Balkan-civil-law-cluster + post-Communist-democratic-transition + Council-of-Europe-ECHR-Strasbourg-adjacent + Hague-1980-Eastern-European + EU-member-state-2007 + NATO-member + Mincheva-Strasbourg-Article-8-contact-enforcement-foundational (with Italy Bondavalli/Improta/Strumia triptych) + Constitutional-Court-Istanbul-Convention-rejection (substantively distinctive within EU) + Schengen-land-borders-2025 clusters within the corpus."
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive най-добрия интерес на детето analysis under Семеен кодекс arts. 122-138 + ECHR Article 8 framework without doctrinal 'parental alienation' label."
   ]
 }

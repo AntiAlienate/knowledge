@@ -4,7 +4,9 @@
   "name": "Vietnam (Việt Nam)",
   "jurisdiction_code": "VN",
   "legal_system": "civil-law",
-  "language": ["vi"],
+  "language": [
+    "vi"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Vietnam is a Southeast Asian socialist-civil-law unitary republic whose family-law framework operates under the Law on Marriage and Family 52/2014/QH13 (Luật Hôn nhân và Gia đình 2014) in force 1 January 2015 and the Civil Code 91/2015/QH13 in force 1 January 2017. Parental rights and obligations (quyền và nghĩa vụ của cha mẹ) are governed by Marriage and Family Law arts. 69-96. Joint exercise during marriage is the statutory default. The Tòa án nhân dân tối cao (Supreme People's Court, Hanoi) is the apex court for civil and criminal matters. Psychology profession regulation is administered through the Ministry of Health licensing framework and the Vietnam Psychological Association. Vietnam is silent on 'parental alienation' as a statutory label; courts operate substantively under the lợi ích tốt nhất của con (best-interests-of-the-child) standard. Vietnam is non-Hague Convention.",
@@ -49,7 +51,7 @@
     {
       "year": 1959,
       "title": "Marriage and Family Law of the DRV 1959",
-      "description": "Democratic Republic of Vietnam Law on Marriage and Family enacted 29 December 1959, effective 13 January 1960 — first major post-independence family-law statute codifying marriage-on-free-will, gender-equality, monogamy, and child-protection, abolishing feudal-patriarchal marriage system. Foundational substantive anchor for subsequent Vietnamese family-law jurisprudence."
+      "description": "Democratic Republic of Vietnam Law on Marriage and Family enacted 29 December 1959, effective 13 January 1960 — first major post-independence family-law statute codifying marriage, gender-equality, monogamy, and child-protection, abolishing feudal-patriarchal marriage system."
     },
     {
       "year": 1986,
@@ -74,7 +76,7 @@
     {
       "year": 2013,
       "title": "Constitution of Vietnam 2013 + Article 26 gender-equality + Article 36 family-protection",
-      "description": "Constitution of Vietnam 2013 adopted 28 November 2013 + effective 1 January 2014 — substantively distinctive Vietnamese constitutional modernisation framework. Substantive Constitution 2013 framework establishing Article 26 gender-equality + Article 36 family-as-foundation-of-society-and-state-protection-of-family + Article 37 child-rights-state-protection framework + foundation for subsequent 2014 Marriage and Family Law + 2015 Civil Code + 2016 Law on Children + 2022 Domestic Violence Prevention frameworks. Constitutional anchor for Vietnamese socialist-civil-law-state-responsibility-for-family-welfare framing."
+      "description": "Constitution of Vietnam 2013 adopted 28 November 2013, effective 1 January 2014. Substantive Constitution 2013 framework establishing Article 26 gender-equality, Article 36 family, Article 37 child framework, foundation for subsequent 2014 Marriage and Family Law, 2015 Civil Code, 2016 Law on Children, 2022 Domestic Violence Prevention frameworks. Constitutional anchor for Vietnamese socialist framing."
     },
     {
       "year": 2014,
@@ -144,7 +146,6 @@
   "editorial_notes": [
     "Vietnam jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full Marriage-and-Family-Law trajectory: 1959-DRV-Marriage-and-Family-Law + 1986-Marriage-and-Family-Law-Doi-Moi-context + 1990-UNCRC-ratification-first-in-Asia + 2000-Marriage-and-Family-Law-22-2000 + 2004-Child-Protection-Care-Education-Law + 2014-Marriage-and-Family-Law-52-2014 + 2015-Civil-Code-91-2015 + 2016-Law-on-Children-102-2016 + 2022-DV-Law-revision-13-2022 + 2024-Supreme-Peoples-Court-best-interest.",
     "Socialist-civil-law framework + standalone-Family-Law-statute regime alongside Civil Code 2015 + Marriage and Family Law 2014 + Law on Children 2016 + Law on DV Prevention and Control 2022 + non-Hague Convention.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interest-of-the-child analysis under Marriage and Family Law arts. 69-96 without doctrinal 'parental alienation' label.",
-    "Joins East-Asian + Southeast-Asian + socialist-civil-law + East-Asian-socialist-civil-law-cluster (with China + NK) + standalone-Family-Law-statute-regime + UNCRC-first-in-Asia-1990 + non-Hague-1980-Convention + Doi-Moi-era-family-law-reform-trajectory clusters within the corpus."
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive best-interest-of-the-child analysis under Marriage and Family Law arts. 69-96 without doctrinal 'parental alienation' label."
   ]
 }

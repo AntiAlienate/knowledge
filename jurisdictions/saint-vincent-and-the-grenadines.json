@@ -4,7 +4,9 @@
   "name": "Saint Vincent and the Grenadines",
   "jurisdiction_code": "VC",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saint Vincent and the Grenadines is a Caribbean common-law constitutional monarchy whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance Act, the Status of Children Act, and the Domestic Violence Act 1995. Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Saint Vincent and the Grenadines) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health, Wellness and the Environment framework. Saint Vincent and the Grenadines is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Saint Vincent and the Grenadines is non-Hague Convention.",
@@ -62,17 +64,17 @@
     {
       "year": 1969,
       "title": "Associated State of Saint Vincent + internal-self-government framework",
-      "description": "Saint Vincent became Associated State of West Indies 27 October 1969 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Saint Vincent became Associated State of West Indies 27 October 1969 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs."
     },
     {
       "year": 1979,
       "title": "Saint Vincent and the Grenadines independence + Milton Cato founding-prime-minister",
-      "description": "Saint Vincent and the Grenadines achieved independence 27 October 1979 from the United Kingdom — establishing constitutional monarchy framework retaining JCPC as final appellate court. Milton Cato (Saint Vincent Labour Party) first prime minister 1979-1984. Substantively distinctive Caribbean post-Soufrière-eruption-1979 independence pattern (volcanic eruption April 1979 substantively affecting independence celebrations)."
+      "description": "Saint Vincent and the Grenadines achieved independence 27 October 1979 from the United Kingdom — establishing constitutional monarchy framework retaining JCPC as final appellate court. Milton Cato (Saint Vincent Labour Party) first prime minister 1979-1984."
     },
     {
       "year": 1980,
       "title": "Status of Children Act 1980 + statutory framework",
-      "description": "Status of Children Act 1980 enacted — federal statute on legal status of children. Substantively significant statutory-framework affecting subsequent family-law-modernisation trajectory."
+      "description": "Status of Children Act 1980 enacted — federal statute on legal status of children."
     },
     {
       "year": 1984,
@@ -97,17 +99,17 @@
     {
       "year": 2009,
       "title": "Constitutional referendum 2009 + republic-status-rejected + JCPC-retention",
-      "description": "Constitutional referendum 25 November 2009 — substantively rejected by Vincentian voters (43% in favour vs required two-thirds) maintaining constitutional monarchy framework. Substantively distinctive Caribbean republic-referendum-rejection-pattern affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitutional referendum 25 November 2009 — substantively rejected by Vincentian voters (43% in favour vs required two-thirds) maintaining constitutional monarchy framework."
     },
     {
       "year": 2021,
       "title": "La Soufrière eruption 2021 + reconstruction trajectory + climate-disaster context",
-      "description": "La Soufrière volcanic eruption 9 April 2021 substantively affected Saint Vincent (20,000+ evacuated) — substantively distinctive Caribbean BOT-adjacent climate-disaster events. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory."
+      "description": "La Soufrière volcanic eruption 9 April 2021 substantively affected Saint Vincent (20,000+ evacuated). Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory."
     },
     {
       "year": 2023,
       "title": "Gonsalves continuing-premiership + Ombudsman + CARICOM family-law framework",
-      "description": "Ralph Gonsalves (Unity Labour Party) continuing-premiership 2001-onwards framework consolidation through 2023 — substantively distinctive Caribbean long-premiership framework. Office of the Ombudsman institutional position addressing PA-related issues within Domestic Violence Act 1995 + Status of Children Act 1980 framework. CARICOM family-law framework substantively significant for cross-border family-law adjudication. Substantively significant Eastern Caribbean institutional jurisprudential development."
+      "description": "Ralph Gonsalves (Unity Labour Party) continuing-premiership 2001-onwards framework consolidation through 2023. Office of the Ombudsman institutional position addressing PA-related issues within Domestic Violence Act 1995, Status of Children Act 1980 framework. CARICOM family-law framework substantively significant for cross-border family-law adjudication. Substantively significant Eastern Caribbean institutional jurisprudential development."
     },
     {
       "year": 2024,

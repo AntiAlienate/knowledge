@@ -4,7 +4,10 @@
   "name": "Northern Mariana Islands (Commonwealth of the Northern Mariana Islands / CNMI)",
   "jurisdiction_code": "MP",
   "legal_system": "common-law",
-  "language": ["en", "ch"],
+  "language": [
+    "en",
+    "ch"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Northern Mariana Islands (CNMI) is a Pacific Island common-law US Commonwealth — structurally distinctive globally as the only US Commonwealth Pacific Island state established via 1976 Covenant to Establish a Commonwealth (effective 1986), uniquely transitioning from UN Trust Territory of the Pacific Islands to Commonwealth status with substantial customary-land protection. Family-law framework operates under the CNMI Code Title 8 (Domestic Relations) drawing on US-derivative common-law substantive heritage. Parental responsibility and child custody are governed by CNMI Code Title 8 Chapter 1. The Supreme Court of the Northern Mariana Islands is the apex domestic court for civil and criminal matters; appellate jurisdiction in certain federal questions lies with the US Court of Appeals for the Ninth Circuit. Family-law matters are heard at first instance in the Superior Court (Family Court Division). Customary-land jurisdiction is constitutionally protected via Article XII of CNMI Constitution. Psychology profession is regulated through the CNMI Department of Public Health framework. CNMI is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. CNMI is a Hague Convention 1980 party via US territorial extension effective 1 July 1988.",
@@ -62,22 +65,22 @@
     {
       "year": 1947,
       "title": "Trust Territory of the Pacific Islands + UN-Trusteeship framework",
-      "description": "Trust Territory of the Pacific Islands (TTPI) established 18 July 1947 as UN Strategic Trusteeship under US administration following Japanese colonial framework (Nan'yō Guntō). Substantively distinctive Pacific UN-Trusteeship framework persisting through 1976 Covenant. Foundational pre-Commonwealth framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Trust Territory of the Pacific Islands (TTPI) established 18 July 1947 as UN Strategic Trusteeship under US administration following Japanese colonial framework (Nan'yō Guntō)."
     },
     {
       "year": 1976,
       "title": "Covenant to Establish a Commonwealth + distinctive-status framework",
-      "description": "Federal Covenant to Establish a Commonwealth of the Northern Mariana Islands signed 15 February 1975 (US Public Law 94-241 of 24 March 1976) establishing CNMI Commonwealth status (effective 1986) with substantial customary-land protection. Substantively distinctive globally only-UN-Trust-Territory-Commonwealth-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Covenant to Establish a Commonwealth of the Northern Mariana Islands signed 15 February 1975 (US Public Law 94-241 of 24 March 1976) establishing CNMI Commonwealth status (effective 1986) with substantial customary-land protection."
     },
     {
       "year": 1978,
       "title": "CNMI Constitution + Article XII customary-land protection",
-      "description": "Constitution adopted 6 December 1977 (effective 9 January 1978) with Article XII protecting customary-land ownership by persons of Northern Marianas descent. Substantively distinctive globally only-state-with-constitutional-customary-land-protection-by-descent framework. Foundational substantive-constitutional framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution adopted 6 December 1977 (effective 9 January 1978) with Article XII protecting customary-land ownership by persons of Northern Marianas descent."
     },
     {
       "year": 1986,
       "title": "Commonwealth status effective + US citizenship framework",
-      "description": "CNMI Commonwealth status effective 3 November 1986 — substantively distinctive globally end-of-UN-Trusteeship-and-effective-US-Commonwealth framework. US citizenship extended to CNMI residents. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
+      "description": "CNMI Commonwealth status effective 3 November 1986. US citizenship extended to CNMI residents."
     },
     {
       "year": 1988,
@@ -87,22 +90,22 @@
     {
       "year": 1995,
       "title": "US UNCRC signed-not-ratified + CNMI context",
-      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified — substantively distinctive US-non-ratification framework. Substantive best-interests-of-the-child framework applicable through US-derivative-common-law-substrate without UNCRC-treaty-direct-effect in CNMI."
+      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified. Substantive best framework applicable through US without UNCRC in CNMI."
     },
     {
       "year": 2009,
       "title": "US immigration-law extension 2009 + Commonwealth-Only-Transitional-Worker framework",
-      "description": "US immigration law extension to CNMI effective 28 November 2009 — substantively distinctive Pacific Commonwealth-US-immigration-integration framework. Substantive Commonwealth-Only Transitional Worker (CW-1) framework substantially affecting demographic and family-law-implementation framework. Substantive transition affecting cross-border-jurisdiction-practice."
+      "description": "US immigration law extension to CNMI effective 28 November 2009. Substantive Commonwealth-Only Transitional Worker (CW-1) framework substantially affecting demographic and family-law-implementation framework. Substantive transition affecting cross."
     },
     {
       "year": 2018,
       "title": "Super Typhoon Yutu 2018 + reconstruction trajectory framework",
-      "description": "Super Typhoon Yutu 25 October 2018 substantively devastated CNMI (Tinian and Saipan) — substantively distinctive Pacific Category-5 climate-disaster framework affecting demographic and family-law-implementation framework through post-disaster reconstruction trajectory."
+      "description": "Super Typhoon Yutu 25 October 2018 substantively devastated CNMI (Tinian and Saipan)."
     },
     {
       "year": 2020,
       "title": "Casino Tourism collapse + Imperial Pacific framework + economic-distress",
-      "description": "Casino Tourism collapse 2019-2020 substantively affecting CNMI economic framework — Imperial Pacific International casino bankruptcy substantively distinctive Pacific Commonwealth economic-distress framework. Subsequent COVID-19 context affecting subsequent constitutional-democratic-trajectory and family-law-cross-cutting-areas."
+      "description": "Casino Tourism collapse 2019-2020 substantively affecting CNMI economic framework. Subsequent COVID-19 context affecting subsequent constitutional-democratic-trajectory and family."
     },
     {
       "year": 2023,

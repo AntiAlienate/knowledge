@@ -4,7 +4,9 @@
   "name": "Mozambique (Republic of Mozambique / República de Moçambique)",
   "jurisdiction_code": "MZ",
   "legal_system": "civil-law",
-  "language": ["pt"],
+  "language": [
+    "pt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Mozambique is a Southern/East African civil-law republic whose family-law framework operates under the Family Law 10/2004 (Lei da Família), drawing on Portuguese civil-law substantive heritage with substantial modernisation reforms. Parental rights and child custody are governed by Family Law arts. 304-340. The Supreme Court of Mozambique (Tribunal Supremo) is the apex court for civil and criminal matters; the Constitutional Council (Conselho Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Judicial Court of First Instance (Tribunal Judicial de Primeira Instância), with specialised Family-Court procedure. Psychology profession is regulated through the Ministry of Health framework with the Mozambican Association of Psychologists operating professional standards. Mozambique is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Law art. 304. Mozambique acceded to the Hague Convention 1980 effective 1 December 2022.",
@@ -60,17 +62,17 @@
     {
       "year": 1975,
       "title": "Mozambique independence + FRELIMO + Samora Machel framework",
-      "description": "Mozambique independence 25 June 1975 from Portugal following Carnation Revolution 25 April 1974 and FRELIMO armed struggle 1964-1974. Samora Machel first president substantively distinctive Lusophone African Marxist-Leninist framework. Foundational pre-multipartyism framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mozambique independence 25 June 1975 from Portugal following Carnation Revolution 25 April 1974 and FRELIMO armed struggle 1964-1974."
     },
     {
       "year": 1977,
       "title": "Mozambican Civil War 1977-1992 + RENAMO-FRELIMO conflict framework",
-      "description": "Mozambican Civil War 1977-1992 between FRELIMO government and RENAMO. Substantive 15-year conflict with estimated 1 million killed substantially affected political-institutional framework. Foundational pre-Peace-Accords framework affecting subsequent democratic-trajectory."
+      "description": "Mozambican Civil War 1977-1992 between FRELIMO government and RENAMO. Substantive 15-year conflict with estimated 1 million killed substantially affected political-institutional framework."
     },
     {
       "year": 1990,
       "title": "Constitution of Mozambique 1990 + multi-party-democratic framework",
-      "description": "Constitution of Mozambique 1990 adopted 30 November 1990 substantively reforming political-institutional framework establishing multi-party-democratic framework. Substantively significant Lusophone-African democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of Mozambique 1990 adopted 30 November 1990 substantively reforming political-institutional framework establishing multi-party-democratic framework."
     },
     {
       "year": 1992,

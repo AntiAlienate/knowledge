@@ -4,7 +4,9 @@
   "name": "Honduras (Republic of Honduras / República de Honduras)",
   "jurisdiction_code": "HN",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Honduras is a Central American civil-law republic whose family-law framework operates under the Family Code 1984 (Código de Familia, Decree 76-1984) drawing on Spanish civil-law substantive heritage. Parental authority (patria potestad) and child custody are governed by Family Code arts. 184-202. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Chamber (Sala de lo Constitucional) operates within the Supreme Court with constitutional review jurisdiction. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos de Honduras under the Professional Colleges Law. Honduras is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1996 art. 8. Honduras acceded to the Hague Convention 1980 effective 1 March 1994.",
@@ -55,12 +57,12 @@
     {
       "year": 1821,
       "title": "Honduras independence + Central-American-Federation framework",
-      "description": "Honduras independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Honduras independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework."
     },
     {
       "year": 1969,
       "title": "Football War 1969 + Honduras-El Salvador conflict framework",
-      "description": "Football War (100-Hour-War) 14-18 July 1969 between Honduras and El Salvador — substantively distinctive Central-American short-conflict framework. Substantial demographic and family-law-implementation impact through 130,000 Salvadoran expulsions affecting cross-border-jurisdiction-practice."
+      "description": "Football War (100-Hour-War) 14-18 July 1969 between Honduras and El Salvador. Substantial demographic and family-law-implementation impact through 130,000 Salvadoran expulsions affecting cross."
     },
     {
       "year": 1982,
@@ -90,12 +92,12 @@
     {
       "year": 2009,
       "title": "Honduran constitutional crisis 2009 + Zelaya-coup framework",
-      "description": "Honduran constitutional crisis 28 June 2009 — President Manuel Zelaya removed from office in military-led coup. Substantively distinctive 21st-century Latin-American coup-d'état framework substantially affecting political-institutional framework. Subsequent OAS suspension 2009-2011 substantially affecting cross-border-jurisdiction practice."
+      "description": "Honduran constitutional crisis 28 June 2009 — President Manuel Zelaya removed from office in military-led coup. Subsequent OAS suspension 2009-2011 substantially affecting cross-border-jurisdiction practice."
     },
     {
       "year": 2022,
       "title": "Xiomara Castro presidency + first-female-president framework",
-      "description": "Xiomara Castro (Libre) elected President 27 November 2021 (inaugurated 27 January 2022) — substantively distinctive first female president of Honduras (and wife of deposed 2009 Zelaya). Substantive post-Zelaya-coup democratic-restoration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Xiomara Castro (Libre) elected President 27 November 2021 (inaugurated 27 January 2022)."
     },
     {
       "year": 2023,

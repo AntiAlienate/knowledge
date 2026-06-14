@@ -4,7 +4,9 @@
   "name": "Latvia (Latvija)",
   "jurisdiction_code": "LV",
   "legal_system": "civil-law",
-  "language": ["lv"],
+  "language": [
+    "lv"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Latvia is a Baltic civil-law unitary republic whose family-law framework operates under the Civillikums (Civil Law) of 1937 (re-enacted 1992 following independence). Parental rights and care (vecāku tiesības un aprūpe) are governed by Civillikums arts. 177-208 (Part I — Family Law). Joint custody during marriage is the statutory default. The Augstākā tiesa (Supreme Court of Latvia, Riga) is the apex court for civil and criminal matters; the Satversmes tiesa (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under the Psihologu likums (Psychologists Act) of 2017 establishing the Psihologu sertifikācijas padome (Psychologists Certification Council). Latvia is silent on 'parental alienation' as a statutory label; courts operate substantively under the bērna vislabākajām interesēm (best-interests-of-the-child) standard.",
@@ -105,7 +107,7 @@
     {
       "year": 2024,
       "title": "Constitutional Court Civil Union recognition + Notikumu Reģistra Likums + family-law-modernisation framework",
-      "description": "Latvia Constitutional Court (Satversmes tiesa) judgment 12 November 2020 (Case No. 2019-33-01) requiring legislature to provide legal protection for same-sex families + Civil Union Law (Notikumu Reģistra Likums / Civilās savienības likums) enacted 9 November 2023 effective 1 July 2024 — substantively distinctive Baltic Constitutional-Court-driven same-sex civil-union framework + structurally distinctive globally only modern Baltic-Constitutional-Court-ordered civil-union framework + substantive Civillikums framework integration affecting subsequent Latvia same-sex-parenting + adoption-by-same-sex-couples framework debate + foundational substantive same-sex-family framework affecting subsequent Augstākā tiesa bērna vislabākajām interesēm substantive register evolution + Hague Convention 1980 implementation framework."
+      "description": "Latvia Constitutional Court (Satversmes tiesa) judgment 12 November 2020 (Case No. 2019-33-01) requiring legislature to provide legal protection for same-sex families, Civil Union Law (Notikumu Reģistra Likums / Civilās savienības likums) enacted 9 November 2023 effective 1 July 2024."
     },
     {
       "year": 2023,

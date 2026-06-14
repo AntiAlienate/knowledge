@@ -4,7 +4,10 @@
   "name": "Samoa (Independent State of Samoa / Mālō Sa'oloto Tuto'atasi o Sāmoa)",
   "jurisdiction_code": "WS",
   "legal_system": "mixed",
-  "language": ["en", "sm"],
+  "language": [
+    "en",
+    "sm"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Samoa is a Pacific Island mixed-legal-system parliamentary republic combining New-Zealand-derivative common-law substantive heritage (via 1962 independence from NZ Trusteeship) with constitutionally-recognised fa'a Samoa customary-law personal-status jurisdiction operating through the Land and Titles Court (Faamasinoga o Fanua ma Suafa) for matai-title and customary-land matters. Family-law framework operates under the Infants Ordinance 1961, the Divorce and Matrimonial Causes Ordinance 1961, the Family Safety Act 2013, the Marriage Ordinance 1961, and the Births, Deaths, and Marriages Registration Act 2002. Parental responsibility and child custody are governed by Infants Ordinance and case-law applying the welfare-of-the-child principle. The Supreme Court of Samoa is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Supreme Court (Family Division), Magistrates' Courts, and the Land and Titles Court for matai/customary-land matters. Psychology profession is regulated through the Ministry of Health framework. Samoa is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Samoa is non-Hague Convention.",
@@ -62,27 +65,27 @@
     {
       "year": 1899,
       "title": "1899 Tripartite Convention + Samoa-partition framework",
-      "description": "1899 Tripartite Convention between US, Germany, UK partitioning Samoa — Western-Samoa (later Samoa) became German colony, Eastern-Samoa became American Samoa. Substantively distinctive Pacific colonial-partition framework establishing Samoa-American-Samoa division. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "1899 Tripartite Convention between US, Germany, UK partitioning Samoa — Western-Samoa (later Samoa) became German colony, Eastern-Samoa became American Samoa."
     },
     {
       "year": 1914,
       "title": "New Zealand military occupation 1914 + League of Nations Mandate 1920",
-      "description": "New Zealand military occupation of Samoa 29 August 1914 substantively distinctive Pacific WWI framework. Subsequent League of Nations Mandate 1920 + UN Trusteeship 1946-1962 affecting NZ-Pacific-administration framework persisting through 1962 independence."
+      "description": "Subsequent League of Nations Mandate 1920, UN Trusteeship 1946-1962 affecting NZ-Pacific-administration framework persisting through 1962 independence."
     },
     {
       "year": 1929,
       "title": "Mau movement + Black Saturday + indigenous-rights framework",
-      "description": "Mau movement Samoan independence-movement 1908-1962. Black Saturday 28 December 1929 — NZ police killed 11 Samoans including paramount chief Tupua Tamasese Lealofi III. Substantively distinctive Pacific colonial-rights-violation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mau movement Samoan independence-movement 1908-1962. Black Saturday 28 December 1929 — NZ police killed 11 Samoans including paramount chief Tupua Tamasese Lealofi III."
     },
     {
       "year": 1961,
       "title": "Infants Ordinance + Divorce and Matrimonial Causes Ordinance",
-      "description": "Federal statutes on guardianship and divorce enacted under New Zealand Trusteeship administration prior to 1962 independence. Foundational substantive-statutory framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Federal statutes on guardianship and divorce enacted under New Zealand Trusteeship administration prior to 1962 independence."
     },
     {
       "year": 1962,
       "title": "Samoa independence + Fiamē Mataʻafa founding-prime-minister",
-      "description": "Samoa achieved independence 1 January 1962 from New Zealand Trusteeship — first Pacific Island state to achieve independence. Fiamē Mataʻafa Faumuina Mulinuʻu II first prime minister. Substantively distinctive Pacific Island first-independence framework retaining fa'a Samoa customary-law jurisdiction."
+      "description": "Samoa achieved independence 1 January 1962 from New Zealand Trusteeship — first Pacific Island state to achieve independence. Fiamē Mataʻafa Faumuina Mulinuʻu II first prime minister."
     },
     {
       "year": 1994,
@@ -92,17 +95,17 @@
     {
       "year": 1997,
       "title": "Western Samoa renamed Samoa + post-1997 framework",
-      "description": "Western Samoa renamed Samoa 4 July 1997 — substantively distinctive Pacific Island name-change framework. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation framework."
+      "description": "Western Samoa renamed Samoa 4 July 1997. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation framework."
     },
     {
       "year": 2009,
       "title": "Samoa drives-right-to-left switch 2009 + distinctive-globally framework",
-      "description": "Samoa drives-right-to-left switch 7 September 2009 — substantively distinctive globally first-country-in-decades-to-switch-driving-side framework (only globally significant 21st-century driving-side-switch). Substantive Australia-NZ-Pacific affinity framework affecting subsequent cross-border-jurisdiction-practice."
+      "description": "Samoa drives switch 7 September 2009."
     },
     {
       "year": 2013,
       "title": "Family Safety Act 2013 + Constitution-Amendment-Land-and-Titles-Court 2020",
-      "description": "Federal statute on domestic violence protection orders enacted Family Safety Act 2013. Subsequent Constitution Amendment Act 2020 substantively reforming Land and Titles Court framework — substantively contested matai-title-Land-and-Titles framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal statute on domestic violence protection orders enacted Family Safety Act 2013. Subsequent Constitution Amendment Act 2020 substantively reforming Land and Titles Court framework."
     },
     {
       "year": 2023,
@@ -112,7 +115,7 @@
     {
       "year": 2024,
       "title": "Supreme Court of Samoa + Land and Titles Court — welfare-of-the-child substantive register + Fiamē Naomi Mataʻafa premiership",
-      "description": "Supreme Court of Samoa and Land and Titles Court continue to develop welfare-of-the-child jurisprudence under Infants Ordinance 1961 + Divorce and Matrimonial Causes Ordinance + Family Safety Act 2013 + fa'a Samoa customary-law framework in custody disputes. Fiamē Naomi Mataʻafa (daughter of founding PM Fiamē Mataʻafa II) Prime Minister 24 May 2021-present substantively distinctive Pacific first-female-PM framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
+      "description": "Supreme Court of Samoa and Land and Titles Court continue to develop welfare jurisprudence under Infants Ordinance 1961, Divorce and Matrimonial Causes Ordinance, Family Safety Act 2013, fa'a Samoa customary-law framework in custody disputes. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [

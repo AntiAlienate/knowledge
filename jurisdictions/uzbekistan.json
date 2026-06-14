@@ -4,7 +4,9 @@
   "name": "Uzbekistan (Republic of Uzbekistan / O'zbekiston Respublikasi)",
   "jurisdiction_code": "UZ",
   "legal_system": "civil-law",
-  "language": ["uz"],
+  "language": [
+    "uz"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Uzbekistan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code 1998 (Oilaviy Kodeks, substantially amended) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Family Code arts. 65-87. The Supreme Court of Uzbekistan (O'zbekiston Respublikasi Oliy sudi) is the apex court for civil and criminal matters; the Constitutional Court (Konstitutsiyaviy sud) operates separate constitutional review. Family-law matters are heard at first instance in District/City Inter-District Civil Courts. Psychology profession is regulated through the Ministry of Health framework. Uzbekistan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 65. Uzbekistan acceded to the Hague Convention 1980 effective 1 August 2000.",
@@ -110,13 +112,13 @@
     {
       "year": 2005,
       "title": "Andijan massacre + post-Karimov-isolation + family-law-implementation context framework",
-      "description": "Andijan massacre 13 May 2005 — substantively distinctive Central Asian human-rights-rupture framework + structurally distinctive globally only modern Uzbek-Karimov-era massive-state-violence framework with 187-1,500 estimated fatalities + EU sanctions framework 2005-2009 + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Family Code 1998 framework + foundational pre-Mirziyoyev-2016-transition framework + Hague Convention 1980 cross-border implementation framework affecting Uzbek-diaspora family-law-implementation framework. Substantive Karimov-era-isolation framework affecting subsequent reform-trajectory."
+      "description": "Andijan massacre 13 May 2005."
     }
   ],
   "structural_findings": [
     "Uzbekistan operates a post-Soviet civil-law framework — Family Code 1998 reflects post-Soviet codification trajectory shared with Russia, Belarus, Kazakhstan, Ukraine, Tajikistan, Turkmenistan, Kyrgyzstan within the corpus.",
     "Hague-1980-Convention accession 2000 places Uzbekistan as the earliest Central Asian Hague accession within the corpus — structurally distinctive early-mover (preceded Türkiye 2017, Kazakhstan 2013).",
-    "Mirziyoyev-era reform stream 2016-present represents substantive shift from Karimov-era 1991-2016 closed framework toward gradual liberalisation including women's-rights expansion, religious-policy liberalisation, and judicial reform — places Uzbekistan within the Central-Asian-reform-trajectory cluster.",
+    "Mirziyoyev-era reform stream 2016-present represents substantive shift from Karimov-era 1991-2016 closed framework toward gradual liberalisation including women's-rights expansion, religious-policy liberalisation, and judicial reform.",
     "Constitution 2023 amendments are among the more substantial post-Soviet Central Asian constitutional reform packages — places Uzbekistan within the post-Soviet-constitutional-reform-2020s cluster (with Kazakhstan 2022 amendments).",
     "Multi-layer substantive-statutory framework: 1991-Uzbekistan-independence-Karimov-era + 1992-Constitution + 1994-UNCRC-ratification + 1998-Family-Code-Oilaviy-Kodeks + 2000-Hague-1980-accession-earliest-Central-Asian + 2008-Law-on-Rights-of-Child + 2016-Mirziyoyev-presidential-transition-Action-Strategy + 2019-Law-on-Protection-of-Women-from-Harassment-and-Violence + 2023-Constitutional-amendments-family-law-reforms + 2024-Supreme-Court-child's-interests — gradual modernisation within post-Soviet civil-law framework.",
     "Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Uzbekistan from MENA religious-law cluster despite Muslim-majority demography (88% Sunni-Hanafi). Pattern shared with Tajikistan, Turkmenistan, Kazakhstan, Kyrgyzstan, Azerbaijan — Central-Asian-secular-civil-law-Muslim-majority cluster.",
@@ -152,7 +154,6 @@
   "editorial_notes": [
     "Uzbekistan jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full independence-to-contemporary trajectory: 1991-Uzbekistan-independence-Karimov-era + 1992-Constitution + 1994-UNCRC-ratification + 1998-Family-Code-Oilaviy-Kodeks + 2000-Hague-1980-accession-earliest-Central-Asian + 2008-Law-on-Rights-of-Child + 2016-Mirziyoyev-presidential-transition-Action-Strategy + 2019-Law-on-Protection-of-Women-from-Harassment-and-Violence + 2023-Constitutional-amendments + 2024-Supreme-Court-child's-interests.",
     "Civil-law post-Soviet Central Asia framework (Family Code 1998 + Constitution 1992-2023 + UNCRC 1994 + Hague Convention 1980 accession 2000 earliest-Central-Asian + Law on Rights of Child 2008 + Law on Protection of Women from Harassment and Violence 2019).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-interests analysis under Family Code arts. 65-87 + Constitution 2023 framework without doctrinal 'parental alienation' label.",
-    "Joins Central-Asian + civil-law + post-Soviet + Central-Asian-secular-civil-law-Muslim-majority (with Tajikistan, Turkmenistan, Kazakhstan, Kyrgyzstan, Azerbaijan) + early-Hague-1980-Convention (earliest Central Asian) + Mirziyoyev-era-reform-trajectory + post-Soviet-constitutional-reform-2020s (with Kazakhstan) + largest-Central-Asian-jurisdiction-36-million clusters within the corpus."
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-interests analysis under Family Code arts. 65-87 + Constitution 2023 framework without doctrinal 'parental alienation' label."
   ]
 }

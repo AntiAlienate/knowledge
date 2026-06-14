@@ -400,7 +400,7 @@ The empirical record on intensive reunification programmes is *thin*, *programme
 For a parent, lawyer or judge considering whether to pursue or oppose one of these programmes, the empirically defensible position is:
 
 1. **Diagnostic accuracy is the load-bearing question.** Where alienation is genuinely the dynamic and the rejected parent is genuinely safe, programme-reported outcomes are encouraging — though the evidence is uncontrolled. Where the diagnosis is wrong, the harms documented in [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) are severe and measurable.
-2. **The programmes' own outcome claims should not be relied upon as if they were independently validated.** They are not. Citing "Family Bridges has an 85% success rate" or "[TPFF](https://turningpointsforfamilies.com/) has a 96% success rate" without simultaneously citing the absence of independent replication, control groups, blinded raters, or long-term follow-up misrepresents the evidence base.
+2. **The programmes' own outcome claims should not be relied upon as if they were independently validated.** They are not. Citing "[Family Bridges](https://warshak.com/family-bridges/) has an 85% success rate" or "[TPFF](https://turningpointsforfamilies.com/) has a 96% success rate" without simultaneously citing the absence of independent replication, control groups, blinded raters, or long-term follow-up misrepresents the evidence base.
 3. **The federal Kayden's-Law standard is the right standard.** "Generally accepted and scientifically valid proof of the safety, effectiveness, and therapeutic value" is not a hostile standard imposed by anti-PA advocates — it is the conventional admissibility standard for any forensic intervention with comparable stakes and is appropriate to the consequence of these orders.
 4. **Better research is feasible and overdue.** Outcome studies could include pre-registered protocols, blinded independent raters, comparison groups (even quasi-experimental matched controls), validated instruments, and follow-up periods of 2+ years. That this has not been done in the decade and a half since [Warshak](https://warshak.com/family-bridges/) (2010) is itself informative about the field's research culture.
 
@@ -412,7 +412,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 |---|---|---|
 | [Warshak](https://warshak.com/family-bridges/) 2010 (Family Bridges FCR) | Yes (full PDF) | Abstract and methods quoted verbatim |
 | [Warshak](https://warshak.com/family-bridges/) & Otis 2010 | No | Citation verified via Family Bridges Institute publications list |
-| Warshak 2019 (J Divorce & Remarriage) | No | Abstract quoted from publisher record |
+| [Warshak](https://warshak.com/family-bridges/) 2019 (J Divorce & Remarriage) | No | Abstract quoted from publisher record |
 | Reay 2015 (Family Reflections) | No | Outcome figure cross-confirmed in [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 |
 | [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 ([TPFF](https://turningpointsforfamilies.com/)) | Yes (full PDF) | Methods, results, COI quoted verbatim |
 | [Childress](https://drcachildress.org/) 2015 ([AB-PA](https://drcachildress.org/) Foundations) | No (book) | No peer-reviewed outcome study identified |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

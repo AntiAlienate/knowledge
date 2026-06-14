@@ -4,7 +4,9 @@
   "name": "Saint Helena, Ascension and Tristan da Cunha",
   "jurisdiction_code": "SH",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saint Helena, Ascension and Tristan da Cunha is a South Atlantic common-law British Overseas Territory composed of three constituent territories — structurally distinctive globally as among the most geographically isolated inhabited territories in the world, with Tristan da Cunha as the most remote inhabited island on Earth (over 2,400 km to nearest land). Family-law framework operates under the Children Ordinance 2011, the Matrimonial Causes Ordinance 1962, and case-law applying the welfare-of-the-child principle. Parental responsibility and child custody are governed by Children Ordinance 2011 Part II. The Court of Appeal of Saint Helena is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Supreme Court (Family Division) and Magistrates' Court. Psychology profession is regulated through the Saint Helena Government Health Directorate. Saint Helena is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Saint Helena is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
@@ -55,7 +57,7 @@
     {
       "year": 1815,
       "title": "Napoleon exile + St Helena distinctive-globally-historical-significance",
-      "description": "Napoleon Bonaparte exiled to Saint Helena 15 October 1815 (died 5 May 1821) — substantively distinctive globally-significant historical event. Subsequent 19th-century British naval-base framework. Foundational South Atlantic strategic-significance framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Napoleon Bonaparte exiled to Saint Helena 15 October 1815 (died 5 May 1821). Subsequent 19th-century British naval-base framework."
     },
     {
       "year": 1962,

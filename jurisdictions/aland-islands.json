@@ -4,7 +4,9 @@
   "name": "Åland Islands (Landskapet Åland / Ahvenanmaan maakunta)",
   "jurisdiction_code": "AX",
   "legal_system": "civil-law",
-  "language": ["sv"],
+  "language": [
+    "sv"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Åland Islands is a Northern European civil-law autonomous Swedish-speaking region of Finland — structurally distinctive globally as the only autonomous region with constitutionally-protected single-official-language status (Swedish-only) within a bilingual state (Finland, Finnish + Swedish), plus distinctive Åland-specific citizenship (hembygdsrätt) required for property ownership and certain other rights. Established under the 1921 League of Nations decision following the Åland Crisis, Åland's autonomy framework operates under the Act on the Autonomy of Åland 1991 (Självstyrelselag för Åland) and the demilitarisation framework under the 1856 Convention on the Demilitarisation of the Åland Islands and the 1921 Åland Convention. Family-law framework operates under Finnish family-law principles (Marriage Act 234/1929, Act on Child Custody and Right of Access 361/1983) with Åland-specific implementation. Parental responsibility and child custody are governed by Finnish family-law adapted to Åland framework. The Court of Appeal of Turku (Åbo hovrätt) has jurisdiction over Åland matters; final appellate jurisdiction lies with the Finnish Supreme Court. Family-law matters are heard at first instance in the District Court of Åland. Psychology profession is regulated through the Finnish Healthcare Authority (Valvira) framework as applicable in Åland. Åland is silent on 'parental alienation' as a statutory label; courts operate substantively under the Finnish best-interests-of-the-child standard. Åland is a Hague Convention 1980 party via Finnish territorial extension effective 1 August 1994.",
@@ -62,37 +64,37 @@
     {
       "year": 1809,
       "title": "Treaty of Fredrikshamn + Russian-Grand-Duchy-of-Finland framework",
-      "description": "Treaty of Fredrikshamn 17 September 1809 ending Finnish War — Sweden ceded Finland (including Åland) to Russian Empire — substantively distinctive Northern European Russian-Grand-Duchy-of-Finland framework affecting subsequent constitutional-administrative-trajectory and Swedish-cultural-heritage-preservation."
+      "description": "Treaty of Fredrikshamn 17 September 1809 ending Finnish War."
     },
     {
       "year": 1856,
       "title": "Convention on the Demilitarisation of the Åland Islands + post-Crimean-War framework",
-      "description": "Convention on the Demilitarisation of the Åland Islands 30 March 1856 — substantively distinctive globally Anglo-French-Russian demilitarisation framework following Crimean War. Foundational substantive 170+ year demilitarisation framework persisting through subsequent constitutional-democratic-trajectory."
+      "description": "Convention on the Demilitarisation of the Åland Islands 30 March 1856."
     },
     {
       "year": 1917,
       "title": "Finnish independence + Åland-Crisis-onset + Swedish-association-attempt framework",
-      "description": "Finnish independence 6 December 1917 from Russian Empire substantively triggering Åland Crisis — substantively distinctive Northern European Åland-attempt-to-rejoin-Sweden framework. 1919 Åland petition signed by 96% of Åland adults requesting Swedish sovereignty. Foundational pre-1921-League-of-Nations-decision framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Finnish independence 6 December 1917 from Russian Empire substantively triggering Åland Crisis. 1919 Åland petition signed by 96% of Åland adults requesting Swedish sovereignty."
     },
     {
       "year": 1921,
       "title": "League of Nations decision + Åland Convention + autonomy framework",
-      "description": "League of Nations Council decision 24 June 1921 following Åland Crisis establishing Åland's autonomy framework under Finnish sovereignty — substantively distinctive globally first-League-of-Nations-international-minority-protection-decision framework. Åland Convention 20 October 1921 reaffirming demilitarisation framework. Substantively significant 100+ year internationally-guaranteed-autonomy framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "League of Nations Council decision 24 June 1921 following Åland Crisis establishing Åland's autonomy framework under Finnish sovereignty. Åland Convention 20 October 1921 reaffirming demilitarisation framework."
     },
     {
       "year": 1929,
       "title": "Finnish Marriage Act 234/1929 + Åland-applicable framework",
-      "description": "Finnish Marriage Act 234/1929 applicable to Åland establishing substantive matrimonial-law framework — substantively significant Northern European Finnish-family-law-Åland-applicable framework. Foundational substantive matrimonial-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Finnish Marriage Act 234/1929 applicable to Åland establishing substantive matrimonial-law framework — substantively significant Northern European Finnish framework."
     },
     {
       "year": 1983,
       "title": "Finnish Act on Child Custody and Right of Access 361/1983 + Åland-applicable framework",
-      "description": "Finnish Act on Child Custody and Right of Access 361/1983 applicable to Åland establishing best-interests-of-the-child substantive framework — substantively significant Northern European Finnish-child-custody-Åland-applicable framework. Foundational substantive child-custody framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Finnish Act on Child Custody and Right of Access 361/1983 applicable to Åland establishing best substantive framework — substantively significant Northern European Finnish framework."
     },
     {
       "year": 1991,
       "title": "Act on the Autonomy of Åland (Självstyrelselag för Åland) + modern-autonomy framework",
-      "description": "Act on the Autonomy of Åland 1991 (Självstyrelselag för Åland) adopted establishing Åland's modern autonomous-region framework with legislative competence over substantial subject-matters including family-law implementation. Substantively significant Northern European autonomous-region-legislative-competence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Act on the Autonomy of Åland 1991 (Självstyrelselag för Åland) adopted establishing Åland's modern autonomous-region framework with legislative competence over substantial subject-matters including family-law implementation."
     },
     {
       "year": 1994,
@@ -102,7 +104,7 @@
     {
       "year": 1995,
       "title": "Åland EU-membership-Protocol-2 + special-status framework",
-      "description": "Åland Protocol 2 to Finland's EU accession Treaty 1994 (effective 1995) — substantively distinctive globally EU-membership-with-Åland-special-status framework. Åland retains hembygdsrätt citizenship requirements + restricted right-of-establishment + limited acquis communautaire applicability. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Åland Protocol 2 to Finland's EU accession Treaty 1994 (effective 1995). Åland retains hembygdsrätt citizenship requirements, restricted right-of-establishment, limited acquis communautaire applicability."
     },
     {
       "year": 2023,

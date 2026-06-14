@@ -4,7 +4,10 @@
   "name": "French Polynesia (Polynésie française / Pōrīnetia Farāni)",
   "jurisdiction_code": "PF",
   "legal_system": "civil-law",
-  "language": ["fr", "ty"],
+  "language": [
+    "fr",
+    "ty"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "French Polynesia is a Pacific Island civil-law overseas collectivity (Collectivité d'outre-mer / COM) of the French Republic with substantial autonomy under the Organic Law 2004-192 of 27 February 2004 (Statute of Autonomy). Family-law framework operates under the French Civil Code (Code Civil) with local-law adaptations and customary-land jurisdiction (statut de droit civil de droit commun + statut de droit local). Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387. The Court of Appeal of Papeete is the apex domestic appellate court; final appellate jurisdiction was retained with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal of First Instance of Papeete (Tribunal de Première Instance) and on customary-land matters via the Tribunal de Terre. Psychology profession is regulated through the French Republic professional framework as applicable in French Polynesia. French Polynesia is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. French Polynesia is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -65,12 +68,12 @@
     {
       "year": 1966,
       "title": "Centre d'Expérimentation du Pacifique + nuclear-testing era",
-      "description": "Centre d'Expérimentation du Pacifique (CEP) established 1962 — nuclear testing at Moruroa and Fangataufa atolls 1966-1996 (193 tests total). Substantively distinctive Pacific nuclear-testing pattern affecting demographic, environmental and family-law-implementation framework. Subsequent compensation framework Loi Morin 2010."
+      "description": "Centre d'Expérimentation du Pacifique (CEP) established 1962 — nuclear testing at Moruroa and Fangataufa atolls 1966-1996 (193 tests total). Subsequent compensation framework Loi Morin 2010."
     },
     {
       "year": 1977,
       "title": "Statute of Autonomy 1977 + Pouvanaa a Oopa-political-legacy framework",
-      "description": "Statute of Autonomy 1977 (Law 77-772) substantively reforming territorial-political framework — first-stage-autonomy framework. Subsequent enhanced autonomy 1984. Foundational pre-2004-Statute-of-Autonomy framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Statute of Autonomy 1977 (Law 77-772) substantively reforming territorial-political framework — first-stage-autonomy framework. Subsequent enhanced autonomy 1984."
     },
     {
       "year": 1983,
@@ -90,17 +93,17 @@
     {
       "year": 2004,
       "title": "Statute of Autonomy (Organic Law 2004-192)",
-      "description": "Federal Organic Law of 27 February 2004 establishing French Polynesia's substantial autonomy with local-law adaptation competence — substantively distinctive within French-overseas-collectivity framework. Substantive devolution of competences affecting family-law-cross-cutting-areas."
+      "description": "Federal Organic Law of 27 February 2004 establishing French Polynesia's substantial autonomy with local-law adaptation competence. Substantive devolution of competences affecting family."
     },
     {
       "year": 2013,
       "title": "Re-listing on UN Decolonization List 2013 + decolonisation-discourse framework",
-      "description": "UN General Assembly Resolution 67/265 (17 May 2013) re-listed French Polynesia on UN Decolonization List — substantively distinctive international-decolonisation-discourse framework affecting French-Republic-territorial-administration. Substantively contested status-framework persisting through 2020s."
+      "description": "UN General Assembly Resolution 67/265 (17 May 2013) re-listed French Polynesia on UN Decolonization List. Substantively contested status-framework persisting through 2020s."
     },
     {
       "year": 2023,
       "title": "Brotherson presidency + Tāvini Huira'atira independence-trajectory + DSFE framework",
-      "description": "Moetai Brotherson (Tāvini Huira'atira) presidency 12 May 2023-onwards framework — substantively distinctive Pacific French-COM independence-trajectory framework. Direction des Solidarités, de la Famille et de l'Égalité (DSFE) institutional position addressing PA-related issues within Civil Code + Statute of Autonomy 2004 framework. Substantively significant French Pacific COM institutional jurisprudential development."
+      "description": "Moetai Brotherson (Tāvini Huira'atira) presidency 12 May 2023-onwards framework. Direction des Solidarités, de la Famille et de l'Égalité (DSFE) institutional position addressing PA-related issues within Civil Code, Statute of Autonomy 2004 framework. Substantively significant French Pacific COM institutional jurisprudential development."
     },
     {
       "year": 2024,

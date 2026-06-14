@@ -4,7 +4,9 @@
   "name": "Greece (Ελλάδα)",
   "jurisdiction_code": "GR",
   "legal_system": "civil-law",
-  "language": ["el"],
+  "language": [
+    "el"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Greece is a civil-law unitary republic whose family-court framework operates under the Astikos Kodikas (Civil Code) Book Four (Family Law). Parental responsibility (γονική μέριμνα / goniki merimna) is governed by AK arts. 1510-1541; joint exercise of parental responsibility was strengthened by Law 4800/2021 in force 16 September 2021, which established explicit statutory provisions on shared residence, contact-time presumptions, and contact-obstruction sanctions. The Areios Pagos (Court of Cassation, Athens) is the apex court for civil matters; family-law decisions reach Areios Pagos via the Efeteio (Court of Appeal) following first-instance Monomeles Protodikeio (District Court) determinations. Psychology profession is regulated under Law 991/1979 and the subsequent legal framework; statutory licensing operates under the Ministry of Health. Greece is silent on 'parental alienation' as a statutory label, but the Law 4800/2021 explanatory memorandum and parliamentary debate engaged the PA-construct as part of its policy basis, making Greece notable within the corpus for explicit legislative reference to alienating-conduct concerns even without statutory PAS codification.",
@@ -101,7 +103,7 @@
     {
       "year": 2018,
       "title": "Prespa Agreement + North Macedonia name-resolution + Hellenic-cultural-heritage framework",
-      "description": "Prespa Agreement signed 17 June 2018 between Greece and former-Yugoslav-Republic-of-Macedonia resolving 27-year name-dispute (1991-2018) + Greek ratification 25 January 2019 + North Macedonia constitutional name-change effective 12 February 2019 — substantively distinctive Balkan diplomatic-resolution framework + structurally distinctive globally only modern bilateral-treaty-resolved sustained name-dispute framework + foundational substantive North-Macedonia-EU-NATO-accession framework affecting subsequent cross-border family-law-implementation between Greece + North Macedonia + Brussels IIb Regulation framework + Hague Convention 1980 implementation framework for cross-border parental-responsibility cases."
+      "description": "Prespa Agreement signed 17 June 2018 between Greece and former resolving 27-year name-dispute (1991-2018), Greek ratification 25 January 2019, North Macedonia constitutional name-change effective 12 February 2019."
     },
     {
       "year": 2021,

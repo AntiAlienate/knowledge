@@ -4,7 +4,10 @@
   "name": "Kiribati",
   "jurisdiction_code": "KI",
   "legal_system": "mixed",
-  "language": ["en", "gil"],
+  "language": [
+    "en",
+    "gil"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Kiribati is a Pacific mixed common-law/customary-law sovereign republic (independence from UK 12 July 1979) — structurally distinctive globally as the only sovereign state straddling all four hemispheres (north, south, east, west) and crossing both the equator and the International Date Line, and as the first sovereign state to purchase foreign land (~5,460 acres on Vanua Levu, Fiji, May 2014) explicitly for climate-resilience and potential future population relocation in face of projected territorial submersion from sea-level rise. Kiribati comprises 33 atolls and one raised coral island (Banaba) spread across 3.5 million km² of Pacific Ocean in three island groups: Gilbert Islands, Phoenix Islands (uninhabited except Kanton), and Line Islands. The Phoenix Islands Protected Area (PIPA) — designated UNESCO World Heritage Site in 2010 — is one of the largest marine protected areas in the world. Family-law framework operates under a dual common-law (English-derived) + I-Kiribati customary-law framework via the Native Lands Ordinance. Parental authority and child custody operate under the Te Rii ni Banaba (Banaban Lands Act) and the Magistrates' Courts Ordinance. The High Court of Kiribati is the apex domestic court; final appellate jurisdiction lies with the Court of Appeal of Kiribati (since independence). Psychology profession is informally regulated; no formal psychology-licensing body exists. Kiribati is silent on 'parental alienation' as a statutory label. Kiribati is not a party to the Hague Convention 1980.",
@@ -62,32 +65,32 @@
     {
       "year": 1892,
       "title": "Gilbert and Ellice Islands Protectorate + British-protectorate framework",
-      "description": "Gilbert and Ellice Islands Protectorate established 27 May 1892 — substantively distinctive Pacific British-protectorate-merger framework. Foundational pre-1916-Colony framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Gilbert and Ellice Islands Protectorate established 27 May 1892."
     },
     {
       "year": 1916,
       "title": "Gilbert and Ellice Islands Colony + Crown-Colony framework",
-      "description": "Gilbert and Ellice Islands Colony established 12 January 1916 — substantively reshaping Pacific Crown-Colony framework. Foundational pre-1975-Ellice-separation framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Gilbert and Ellice Islands Colony established 12 January 1916 — substantively reshaping Pacific Crown-Colony framework."
     },
     {
       "year": 1956,
       "title": "Native Lands Ordinance + I-Kiribati customary-law framework",
-      "description": "Native Lands Ordinance enacted 1956 — substantively significant I-Kiribati customary-law framework for native lands and customary status. Foundational substantive customary-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Native Lands Ordinance enacted 1956 — substantively significant I-Kiribati customary-law framework for native lands and customary status."
     },
     {
       "year": 1977,
       "title": "Magistrates' Courts Ordinance + customary-court framework",
-      "description": "Magistrates' Courts Ordinance enacted 1977 establishing Magistrates' Courts framework including customary-status matters. Foundational substantive customary-court framework persisting through independence and subsequent reform-trajectory."
+      "description": "Magistrates' Courts Ordinance enacted 1977 establishing Magistrates' Courts framework including customary-status matters."
     },
     {
       "year": 1979,
       "title": "Independence from UK + Constitution of Kiribati framework",
-      "description": "Kiribati achieved independence from the United Kingdom 12 July 1979 with Constitution of Kiribati 1979 establishing republic constitutional framework with President (Beretitenti) as head of state. Substantively distinctive Pacific independent-republic framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Kiribati achieved independence from the United Kingdom 12 July 1979 with Constitution of Kiribati 1979 establishing republic constitutional framework with President (Beretitenti) as head of state."
     },
     {
       "year": 1995,
       "title": "Date Line change + four-hemispheres-+-Date-Line-distinctive framework",
-      "description": "Kiribati moved the International Date Line 1 January 1995 to bring all Kiribati islands into same day — Caroline Island renamed Caesium Caroline. Substantively distinctive globally first-state-to-shift-International-Date-Line-for-administrative-uniformity framework. Foundational substantive globally-distinctive geographic-jurisdictional framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Kiribati moved the International Date Line 1 January 1995 to bring all Kiribati islands into same day — Caroline Island renamed Caesium Caroline."
     },
     {
       "year": 1995,
@@ -97,12 +100,12 @@
     {
       "year": 1999,
       "title": "UN membership + Pacific-UN-member-state framework",
-      "description": "Kiribati joined the United Nations 14 September 1999. Substantively significant Pacific-UN-member-state framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice."
+      "description": "Kiribati joined the United Nations 14 September 1999."
     },
     {
       "year": 2010,
       "title": "Phoenix Islands Protected Area UNESCO + 2014-Vanua-Levu-land-purchase framework",
-      "description": "Phoenix Islands Protected Area (PIPA) designated UNESCO World Heritage Site 2010 — one of the largest marine protected areas in the world. Kiribati purchased ~5,460 acres of land on Vanua Levu, Fiji, May 2014 — substantively distinctive globally first sovereign-state-climate-relocation-land-purchase framework. Substantive Pacific climate-resilience framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Phoenix Islands Protected Area (PIPA) designated UNESCO World Heritage Site 2010 — one of the largest marine protected areas in the world. Kiribati purchased ~5,460 acres of land on Vanua Levu, Fiji, May 2014."
     },
     {
       "year": 2023,

@@ -4,7 +4,10 @@
   "name": "Northern Ireland",
   "jurisdiction_code": "GB-NIR",
   "legal_system": "common-law",
-  "language": ["en", "ga"],
+  "language": [
+    "en",
+    "ga"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-05-30",
   "summary": "Northern Ireland operates a distinct common-law family-law jurisdiction within the United Kingdom. The substantive statute is the Children (Northern Ireland) Order 1995 (Sewel-style Order in Council mirroring Children Act 1989 but distinct), litigated in the High Court of Justice and Court of Judicature of Northern Ireland. The Lady Chief Justice Rt Hon Dame Siobhan Keegan DBE KC (sworn 2.9.2021, first woman LCJ in NI history) was previously a family-law silk and Senior Family Judge of the High Court NI (2020-2021), giving NI's family judiciary unusual structural sophistication. The clearest current NI judicial engagement with alienating-style dynamic — without explicit PA label — is Mr Justice O'Hara's August 2022 judgment in A Father v A Mother (re NI, male child aged 10) (No. 2). Institutionally the critique pole is Women's Aid Federation NI (WAFNI), whose 25 June 2020 PA briefing is the only NI-specific WA published institutional position. NI Family Bar Association (Bar of NI) is institutional bar gateway.",
@@ -130,7 +133,7 @@
   "key_developments": [
     {
       "year": 1921,
-      "description": "Government of Ireland Act 1920 effective 3 May 1921 + Anglo-Irish Treaty 6 December 1921 — substantively distinctive globally Northern-Ireland-as-distinct-UK-jurisdiction-+-Irish-Free-State-+-partition framework. Foundational substantive 105-year Northern-Ireland-within-UK framework affecting subsequent constitutional-administrative-trajectory.",
+      "description": "Government of Ireland Act 1920 effective 3 May 1921, Anglo-Irish Treaty 6 December 1921.",
       "url": "https://www.legislation.gov.uk/ukpga/Geo5/10-11/67"
     },
     {
@@ -145,12 +148,12 @@
     },
     {
       "year": 1998,
-      "description": "Good Friday Agreement 10 April 1998 + Northern Ireland Act 1998 — substantively distinctive globally Belfast-Agreement-+-power-sharing-Stormont-Assembly + cross-border-North-South-Ministerial-Council framework. Family Homes and Domestic Violence (NI) Order 1998 — NI-distinct DV-protection statute.",
+      "description": "Good Friday Agreement 10 April 1998, Northern Ireland Act 1998. Family Homes and Domestic Violence (NI) Order 1998 — NI-distinct DV-protection statute.",
       "url": "https://www.legislation.gov.uk/nisi/1998/1071"
     },
     {
       "year": 2007,
-      "description": "8 May 2007 — Stormont Assembly + Executive restored after 2002-2007 suspension under St Andrews Agreement 13 October 2006 — substantively distinctive UK NI-Executive-Stormont-Assembly-restored framework. Substantive devolution framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation.",
+      "description": "8 May 2007.",
       "url": "https://www.niassembly.gov.uk/"
     },
     {
@@ -170,12 +173,12 @@
     },
     {
       "year": 2023,
-      "description": "Windsor Framework 27 February 2023 substantively reshaping post-Brexit Northern-Ireland-Protocol — substantively distinctive globally only-UK-jurisdiction-with-bespoke-EU-acquis-applicability-+-Northern-Ireland-Protocol-+-Stormont-Brake framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent family-law-implementation including continuing EU-Brussels-IIa-applicability.",
+      "description": "Windsor Framework 27 February 2023 substantively reshaping post-Brexit Northern-Ireland-Protocol.",
       "url": "https://www.gov.uk/government/publications/the-windsor-framework"
     },
     {
       "year": 2024,
-      "description": "Stormont Assembly + Executive restored 3 February 2024 ending 2-year DUP boycott + Michelle O'Neill Sinn Féin First Minister + Emma Little-Pengelly DUP deputy First Minister — substantively distinctive globally first-Sinn-Féin-First-Minister-of-Northern-Ireland framework. Continuing NIGALA + WAFNI + Bar of NI institutional positions addressing PA-related issues within Children (NI) Order 1995 + DA&CP NI Act 2021 framework. Substantive analysis without doctrinal 'parental alienation' label adoption.",
+      "description": "Stormont Assembly, Executive restored 3 February 2024 ending 2-year DUP boycott, Michelle O'Neill Sinn Féin First Minister, Emma Little-Pengelly DUP deputy First Minister. Continuing NIGALA, WAFNI, Bar of NI institutional positions addressing PA-related issues within Children (NI) Order 1995, DA&CP NI Act 2021 framework. Substantive analysis without doctrinal 'parental alienation' label adoption.",
       "url": "https://www.niassembly.gov.uk/"
     },
     {

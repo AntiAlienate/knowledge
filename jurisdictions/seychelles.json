@@ -4,7 +4,11 @@
   "name": "Seychelles (Republic of Seychelles)",
   "jurisdiction_code": "SC",
   "legal_system": "mixed",
-  "language": ["en", "fr", "crs"],
+  "language": [
+    "en",
+    "fr",
+    "crs"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Seychelles is an Indian Ocean mixed-legal-system republic combining French civil-law substantive heritage (via 18th-19th century French colonial inheritance — Code Civil de Seychelles 1976 drawing on French Civil Code 1804) with English common-law procedural inheritance (post-1814 British administration). Family-law framework operates under the Civil Code of Seychelles 1976 (Cap 33) supplemented by the Children Act 1982 (Cap 28), the Family Violence (Protection of Victims) Act 2000, and the Matrimonial Causes Act 1992. Parental authority and child custody are governed by Civil Code arts. 371-387 and Children Act Part III. The Court of Appeal of Seychelles is the apex domestic appellate court for civil and criminal matters; the Constitutional Court (sitting as the Supreme Court) operates constitutional review. Final appellate jurisdiction lies with the Court of Appeal (Seychelles removed JCPC at 1976 independence). Family-law matters are heard at first instance in the Supreme Court (Family Division) and Family Tribunal (Tribunal de la Famille). Psychology profession is regulated through the Ministry of Health framework. Seychelles is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Seychelles acceded to the Hague Convention 1980 effective 1 December 2008.",
@@ -55,22 +59,22 @@
     {
       "year": 1814,
       "title": "British colonial administration + Treaty-of-Paris-1814 framework",
-      "description": "Seychelles transferred from French to British colonial administration via Treaty of Paris 1814 — substantively distinctive Indian Ocean French-British-colonial-transfer framework. Civil Code substantive heritage retained with English common-law procedural inheritance. Foundational hybrid-legal-system framework persisting through 1976 independence."
+      "description": "Seychelles transferred from French to British colonial administration via Treaty of Paris 1814. Civil Code substantive heritage retained with English common-law procedural inheritance. Foundational hybrid-legal-system framework persisting through 1976 independence."
     },
     {
       "year": 1976,
       "title": "Independence + Civil Code of Seychelles + James Mancham founding-presidency",
-      "description": "Seychelles achieved independence 29 June 1976 from the United Kingdom — James Mancham first president 1976-1977. Civil Code of Seychelles enacted drawing on French Civil Code substantive heritage. JCPC removed at independence. Foundational substantive-constitutional framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Seychelles achieved independence 29 June 1976 from the United Kingdom — James Mancham first president 1976-1977. Civil Code of Seychelles enacted drawing on French Civil Code substantive heritage. JCPC removed at independence."
     },
     {
       "year": 1977,
       "title": "1977 Seychelles coup + France-Albert René + One-Party-State framework",
-      "description": "1977 Seychelles coup d'état 5 June 1977 led by France-Albert René — substantively distinctive Indian Ocean One-Party-State framework 1977-1993 (16-year-authoritarianism). Substantive socialist-republic framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "1977 Seychelles coup d'état 5 June 1977 led by France-Albert René."
     },
     {
       "year": 1982,
       "title": "Children Act + post-coup-statutory framework",
-      "description": "Federal Children Act enacted 1982 (Cap 28) codifying welfare-of-the-child principle and child-protection provisions. Substantively significant Indian Ocean post-coup family-law-codification framework affecting subsequent reform-trajectory."
+      "description": "Federal Children Act enacted 1982 (Cap 28) codifying welfare principle and child-protection provisions."
     },
     {
       "year": 1990,
@@ -80,7 +84,7 @@
     {
       "year": 1993,
       "title": "Constitution 1993 + multi-party democratic-transition framework",
-      "description": "Constitution of Seychelles 1993 adopted 18 June 1993 substantively reforming political-institutional framework establishing multi-party-democratic framework. Substantively significant Indian Ocean democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of Seychelles 1993 adopted 18 June 1993 substantively reforming political-institutional framework establishing multi-party-democratic framework."
     },
     {
       "year": 2008,
@@ -90,12 +94,12 @@
     {
       "year": 2015,
       "title": "Family Tribunal + specialised-family-court framework",
-      "description": "Family Tribunal (Tribunal de la Famille) framework consolidation through 2010s — substantively significant Indian Ocean specialised-family-court framework affecting subsequent family-law-implementation framework."
+      "description": "Family Tribunal (Tribunal de la Famille) framework consolidation through 2010s."
     },
     {
       "year": 2020,
       "title": "Wavel Ramkalawan + opposition-victory + post-Mancham-René-PP framework",
-      "description": "Wavel Ramkalawan (LDS) elected President 24 October 2020 — substantively distinctive Indian Ocean first-opposition-victory framework ending 43-year SPPF/PP rule (1977-2020). Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+      "description": "Wavel Ramkalawan (LDS) elected President 24 October 2020. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
     },
     {
       "year": 2023,

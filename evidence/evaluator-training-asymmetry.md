@@ -190,7 +190,7 @@ Stahl's core position across his published work, as best reconstructable from pr
 
 **Currently active Stahl training programme.** "Advanced Issues in Child Custody and Parenting Evaluations" co-presented with the American Academy of Forensic Psychology. URL: https://concept.paloaltou.edu/course/AAFP-Advanced-Issues-in-Child-Custody-and-Parenting-Evaluations — Domestic violence is one of four "common areas" Stahl's curriculum covers.
 
-**Honest disclosure.** Stahl is a long-standing [AFCC](https://www.afccnet.org/) member and a widely-respected practitioner; his books are standard reading on US custody-evaluation continuing-education syllabi. He is not, on the record, hostile to recognising DV — his position is that DV and alienation each need to be properly assessed and that the evaluator's job is precisely to make that differential. The asymmetry critique (Saunders, [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Alsalem) is *not* that Stahl personally is ignorant; it is that the standardised practitioner *training* he and others have spent decades building is structurally weighted toward the "differential" framework in a way that — empirically, per [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) — produces gender-asymmetric custody outcomes when applied to abuse-alleging mothers.
+**Honest disclosure.** Stahl is a long-standing [AFCC](https://www.afccnet.org/) member and a widely-respected practitioner; his books are standard reading on US custody-evaluation continuing-education syllabi. He is not, on the record, hostile to recognising DV — his position is that DV and alienation each need to be properly assessed and that the evaluator's job is precisely to make that differential. The asymmetry critique ([Saunders](https://www.ovw.usdoj.gov/), [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Alsalem) is *not* that Stahl personally is ignorant; it is that the standardised practitioner *training* he and others have spent decades building is structurally weighted toward the "differential" framework in a way that — empirically, per [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) — produces gender-asymmetric custody outcomes when applied to abuse-alleging mothers.
 
 ---
 
@@ -263,7 +263,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 > "In 73% of cases for which we had data, the GAL sided with the perpetrator against the child."
 
-**The Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) training programme as a downstream policy response.** Meier currently delivers, through the National Family Violence Law Center at GW Law, a 12-hour evaluator training for Colorado that satisfies the state's HB-1228 requirement (the predecessor to HB23-1178 discussed in §8 below) covering DV, child abuse, child sexual abuse, trauma, and coercive control. URL: https://plum-clover-wxm9.squarespace.com/https/wwwlawgwuedu/national-family-violence-law-center/joanmeier — Note: URL structure suggests this is a third-party reproduction; the National Family Violence Law Center primary site is https://www.law.gwu.edu/national-family-violence-law-center. **[Secondary verification only]** for the precise contents of the Colorado 12-hour curriculum.
+**The Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) training programme as a downstream policy response.** [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) currently delivers, through the National Family Violence Law Center at GW Law, a 12-hour evaluator training for Colorado that satisfies the state's HB-1228 requirement (the predecessor to HB23-1178 discussed in §8 below) covering DV, child abuse, child sexual abuse, trauma, and coercive control. URL: https://plum-clover-wxm9.squarespace.com/https/wwwlawgwuedu/national-family-violence-law-center/joanmeier — Note: URL structure suggests this is a third-party reproduction; the National Family Violence Law Center primary site is https://www.law.gwu.edu/national-family-violence-law-center. **[Secondary verification only]** for the precise contents of the Colorado 12-hour curriculum.
 
 ---
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

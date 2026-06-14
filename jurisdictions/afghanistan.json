@@ -4,7 +4,10 @@
   "name": "Afghanistan (Islamic Emirate of Afghanistan / د افغانستان اسلامي امارت)",
   "jurisdiction_code": "AF",
   "legal_system": "religious-law",
-  "language": ["ps", "fa"],
+  "language": [
+    "ps",
+    "fa"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Afghanistan is a South/Central Asian religious-law state operating under a Hanafi-Sunni Sharia framework. Following the August 2021 Taliban takeover, the prior 2004 Constitution and Civil Code 1977 framework were effectively suspended; the Islamic Emirate of Afghanistan governs by Hanafi Sharia interpretation under Taliban-issued decrees. The 1977 Civil Code (Qanun-e Madani) drawing on Hanafi jurisprudence with Egyptian civil-code influence formally governs civil matters where not displaced by Taliban decrees. Custody (hadana) and guardianship (wilaya) are governed by Civil Code arts. 234-256 within the residual framework. The Supreme Court framework was restructured post-2021; the Supreme Court of the Islamic Emirate operates under Hanafi Sharia. Family-law matters are heard at first instance in Primary Courts. Psychology profession regulation is uncertain post-2021. Afghanistan is silent on 'parental alienation' as a statutory label; courts operate substantively under Hanafi Sharia welfare-of-the-child framework. Afghanistan is non-Hague Convention.",
@@ -94,7 +97,7 @@
     {
       "year": 2023,
       "title": "Vice and Virtue Ministry framework + women's-rights decrees + UNAMA institutional engagement",
-      "description": "Ministry for the Propagation of Virtue and Prevention of Vice (Amr bil Ma'ruf wa Nahi anil Munkar) operational framework substantively distinctive globally — substantively significant decree-based regulatory framework affecting family-law adjudication context. UN Assistance Mission in Afghanistan (UNAMA) institutional engagement under constrained-access framework. Substantively significant Hanafi-Deobandi institutional context affecting Supreme Court of the Islamic Emirate jurisdictional framework."
+      "description": "UN Assistance Mission in Afghanistan (UNAMA) institutional engagement under constrained-access framework. Substantively significant Hanafi-Deobandi institutional context affecting Supreme Court of the Islamic Emirate jurisdictional framework."
     },
     {
       "year": 2024,

@@ -4,7 +4,10 @@
   "name": "Norway (Norge)",
   "jurisdiction_code": "NO",
   "legal_system": "civil-law",
-  "language": ["nb", "nn"],
+  "language": [
+    "nb",
+    "nn"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Norway is a Nordic civil-law unitary kingdom whose family-court framework operates under the Barnelova (Children Act) of 1981 (Lov om barn og foreldre). Parental responsibility (foreldreansvar), residence (fast bosted) and contact (samvær) are governed by Barnelova chs. 5-7. Joint parental responsibility is the statutory default for married and cohabiting parents. The Høyesterett (Supreme Court of Norway, Oslo) is the apex court for civil and criminal matters; family-law decisions reach Høyesterett via the Lagmannsrett (Court of Appeal) following first-instance Tingrett (District Court) determinations. Psychology profession is regulated under Statens helsetilsyn / Helsedirektoratet (Norwegian Directorate of Health) under Helsepersonelloven 1999 — psychologist (psykolog) is a statutorily protected title requiring autorisasjon issued by Helsedirektoratet. Norway is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets beste (best-interests-of-the-child) welfare standard.",
@@ -66,17 +69,17 @@
     {
       "year": 1814,
       "title": "Norwegian Constitution + Treaty of Kiel + Sweden-Norway-union framework",
-      "description": "Norwegian Constitution adopted 17 May 1814 (Grunnloven) following Treaty of Kiel 14 January 1814 substantively reshaping Scandinavian framework — Norway transferred from Denmark to Sweden via personal-union. Substantively distinctive Nordic constitutional framework persisting through 1905 dissolution. Foundational constitutional anchor for contemporary family-law-jurisprudence."
+      "description": "Norwegian Constitution adopted 17 May 1814 (Grunnloven) following Treaty of Kiel 14 January 1814 substantively reshaping Scandinavian framework — Norway transferred from Denmark to Sweden via personal-union. Foundational constitutional anchor for contemporary family-law-jurisprudence."
     },
     {
       "year": 1905,
       "title": "Norway-Sweden union dissolution + independence + constitutional-monarchy framework",
-      "description": "Norway-Sweden union dissolution 7 June 1905 substantively significant Nordic-independence framework — Norway became independent constitutional-monarchy under Haakon VII. Foundational pre-WWII framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Norway-Sweden union dissolution 7 June 1905 substantively significant Nordic-independence framework — Norway became independent constitutional-monarchy under Haakon VII."
     },
     {
       "year": 1940,
       "title": "German occupation 1940-1945 + Quisling government + WWII framework",
-      "description": "German occupation of Norway 9 April 1940 – 8 May 1945 — Vidkun Quisling collaborationist government 1942-1945 substantively disrupting political-institutional framework. Substantive post-WWII reconstruction framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "German occupation of Norway 9 April 1940 – 8 May 1945 — Vidkun Quisling collaborationist government 1942-1945 substantively disrupting political-institutional framework."
     },
     {
       "year": 1981,
@@ -91,7 +94,7 @@
     {
       "year": 1994,
       "title": "Norway EU referendum rejection 1994 + EEA-membership framework",
-      "description": "Norway 1994 EU referendum 27-28 November 1994 substantively rejected EU membership (52.2% against) — substantively distinctive Nordic EU-rejection framework alongside Iceland and Switzerland. Norway operates within EEA framework. Subsequent affecting cross-border-jurisdiction-practice including Brussels-IIa-non-application framework."
+      "description": "Norway 1994 EU referendum 27-28 November 1994 substantively rejected EU membership (52.2% against). Norway operates within EEA framework. Subsequent affecting cross including Brussels framework."
     },
     {
       "year": 1999,
@@ -101,17 +104,17 @@
     {
       "year": 2003,
       "title": "UN CRC incorporated into Norwegian law",
-      "description": "UN Convention on the Rights of the Child incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions. Substantively distinctive Nordic UNCRC-direct-incorporation framework."
+      "description": "UN Convention on the Rights of the Child incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions."
     },
     {
       "year": 2011,
       "title": "Anders Behring Breivik attacks 2011 + Utøya massacre + post-attack-framework",
-      "description": "Anders Behring Breivik attacks 22 July 2011 (Oslo bombing + Utøya island shooting) — 77 killed, most-distinctive 21st-century Norwegian terror-attack framework. Substantive post-attack-reform framework affecting subsequent constitutional-democratic-trajectory and child-protection-framework consolidation."
+      "description": "Anders Behring Breivik attacks 22 July 2011 (Oslo bombing, Utøya island shooting) — 77 killed, most-distinctive 21st-century Norwegian terror-attack framework."
     },
     {
       "year": 2014,
       "title": "Norwegian Constitution Article 104 children's rights + 200th anniversary constitutional reform framework",
-      "description": "Norwegian Constitution amendment 13 May 2014 inserting Article 104 establishing constitutional children's-rights framework as part of Constitution Bicentennial reform-package — substantively distinctive globally constitutional children's-rights framework parallel to Irish 2012 Article 42A framework + structurally distinctive Nordic constitutional-children's-rights-elevation framework + Article 104 providing 'children have the right to respect for their human dignity' + 'in actions and decisions that affect children, the best interests of the child shall be a fundamental consideration' + 'children have the right to be heard in matters concerning themselves' + foundational substantive constitutional-children's-rights framework affecting subsequent Strand Lobben v Norway 2019 + Barnevernet reform-trajectory + Høyesterett barnets-beste substantive register evolution."
+      "description": "Norwegian Constitution amendment 13 May 2014 inserting Article 104 establishing constitutional children's-rights framework as part of Constitution Bicentennial reform-package."
     },
     {
       "year": 2023,

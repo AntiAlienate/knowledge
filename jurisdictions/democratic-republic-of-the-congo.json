@@ -4,7 +4,9 @@
   "name": "Democratic Republic of the Congo (DRC) (République Démocratique du Congo)",
   "jurisdiction_code": "CD",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Democratic Republic of the Congo is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1987 (Code de la Famille, Law 87-010 of 1 August 1987, as amended by Law 16/008 of 2016) drawing on Belgian civil-law substantive heritage (via colonial inheritance) with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 317-340. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Peace Tribunal (Tribunal de Paix) for matters of competence and the Court of First Instance (Tribunal de Grande Instance) for higher-value matters. Psychology profession is regulated through the Ministry of Health framework with the National Order of Psychologists. DRC is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. DRC is non-Hague Convention.",
@@ -55,12 +57,12 @@
     {
       "year": 1960,
       "title": "Congo independence + Lumumba + Katanga-crisis framework",
-      "description": "Congo independence 30 June 1960 from Belgium — Patrice Lumumba first prime minister. Subsequent Katanga secession crisis 1960-1963 substantively distinctive Central African post-colonial crisis framework. Lumumba assassination 17 January 1961 substantively affecting subsequent constitutional-democratic-trajectory."
+      "description": "Congo independence 30 June 1960 from Belgium — Patrice Lumumba first prime minister. Lumumba assassination 17 January 1961 substantively affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1965,
       "title": "Mobutu coup + Zaire + 32-year-authoritarian framework",
-      "description": "Mobutu Sese Seko coup d'état 24 November 1965 — substantively distinctive African 32-year-authoritarian framework 1965-1997. Zaire renamed 1971. Substantively distinctive Central African Cold-War-era-personalist-authoritarianism framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mobutu Sese Seko coup d'état 24 November 1965. Zaire renamed 1971."
     },
     {
       "year": 1987,
@@ -75,12 +77,12 @@
     {
       "year": 1996,
       "title": "First Congo War 1996-1997 + Laurent-Désiré Kabila + Mobutu-fall framework",
-      "description": "First Congo War 24 October 1996 – 16 May 1997 ending Mobutu era. Laurent-Désiré Kabila assumed presidency 17 May 1997 — Zaire renamed Democratic Republic of the Congo. Substantive 21st-century African armed-conflict framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "First Congo War 24 October 1996 – 16 May 1997 ending Mobutu era. Laurent-Désiré Kabila assumed presidency 17 May 1997 — Zaire renamed Democratic Republic of the Congo."
     },
     {
       "year": 1998,
       "title": "Second Congo War 1998-2003 + Africa's-World-War + most-devastating-conflict framework",
-      "description": "Second Congo War 2 August 1998 – 18 July 2003 — substantively distinctive globally 'Africa's World War' framework involving 9 African countries + 25 armed groups. Estimated 5.4 million killed (largest conflict-death toll since WWII). Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+      "description": "Second Congo War 2 August 1998 – 18 July 2003. Estimated 5.4 million killed (largest conflict-death toll since WWII). Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2006,

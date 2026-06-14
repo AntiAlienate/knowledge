@@ -4,7 +4,9 @@
   "name": "Trinidad and Tobago (Republic of Trinidad and Tobago)",
   "jurisdiction_code": "TT",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Trinidad and Tobago is a Caribbean common-law republic whose family-law framework operates under the Children Act (Chap. 46:01, comprehensively revised by Act 12/2012), the Matrimonial Proceedings and Property Act (Chap. 45:51), the Family Law (Guardianship of Minors, Domicile and Maintenance) Act (Chap. 46:08), and the Family Law Act 2003. Parental responsibility and child custody are governed by Family Law Act Part III. The Court of Appeal of Trinidad and Tobago is the apex court for civil and criminal matters; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London for civil/criminal matters. Family-law matters are heard at first instance in the Family Court (established 2004) and High Court (Family Division). Psychology profession is regulated through the Council for Allied Health Practitioners under the Allied Health Professionals Act 2007. Trinidad and Tobago is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000 — earliest Caribbean accession in the corpus.",
@@ -62,22 +64,22 @@
     {
       "year": 1498,
       "title": "Columbus-Trinidad-discovery + Spanish-Iere framework",
-      "description": "Christopher Columbus sighted Trinidad 31 July 1498 during third voyage — substantively distinctive Caribbean Spanish-Iere-+-pre-Spanish-colonisation framework. Foundational pre-1797-British-acquisition framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Christopher Columbus sighted Trinidad 31 July 1498 during third voyage."
     },
     {
       "year": 1797,
       "title": "British acquisition of Trinidad + Spanish-cession framework",
-      "description": "British acquisition of Trinidad 18 February 1797 from Spain (formally 1802 Treaty of Amiens) — substantively distinctive Caribbean Spanish-British-Crown-cession framework. Subsequent 1814 acquisition of Tobago + 1888 administrative union. Foundational pre-1962-independence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "British acquisition of Trinidad 18 February 1797 from Spain (formally 1802 Treaty of Amiens). Subsequent 1814 acquisition of Tobago, 1888 administrative union."
     },
     {
       "year": 1962,
       "title": "Independence + Westminster-realm-+-JCPC-retention framework",
-      "description": "Trinidad and Tobago achieved independence from the United Kingdom 31 August 1962 — substantively distinctive Caribbean Westminster-framework-+-JCPC-retention framework. Foundational pre-1976-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Trinidad and Tobago achieved independence from the United Kingdom 31 August 1962."
     },
     {
       "year": 1976,
       "title": "Republic-transition + first-Caribbean-Commonwealth-realm-republic-via-constitutional-amendment framework",
-      "description": "Trinidad and Tobago became a republic 1 August 1976 — substantively distinctive Caribbean second-Caribbean-republic-transition-after-Guyana-1970 framework. Foundational substantive republic-with-Westminster-framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Trinidad and Tobago became a republic 1 August 1976."
     },
     {
       "year": 1991,
@@ -87,27 +89,27 @@
     {
       "year": 2000,
       "title": "Hague Convention 1980 accession + earliest-Caribbean-Hague-accession framework",
-      "description": "Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000 — substantively distinctive globally earliest-Caribbean-Hague-Convention-1980-accession framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+      "description": "Trinidad and Tobago acceded to the Hague Convention 1980 effective 1 September 2000."
     },
     {
       "year": 2003,
       "title": "Family Law Act 2003 + comprehensive-family-law-framework framework",
-      "description": "Federal Family Law Act 2003 enacted establishing comprehensive family-law framework including Family Court — substantively significant Caribbean comprehensive-family-law-codification framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Federal Family Law Act 2003 enacted establishing comprehensive family-law framework including Family Court — substantively significant Caribbean comprehensive framework."
     },
     {
       "year": 2004,
       "title": "Family Court established + specialised-family-court framework",
-      "description": "Specialised Family Court established 2004 — substantively significant Caribbean specialised-family-court framework. Foundational substantive specialised-family-court framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Specialised Family Court established 2004 — substantively significant Caribbean specialised-family-court framework."
     },
     {
       "year": 2007,
       "title": "Allied Health Professionals Act + psychology-regulation framework",
-      "description": "Federal Allied Health Professionals Act 2007 enacted regulating allied health professionals including clinical psychology — substantively significant Caribbean allied-health-regulation framework. Foundational substantive psychology-regulation framework persisting through subsequent reform-trajectory."
+      "description": "Federal Allied Health Professionals Act 2007 enacted regulating allied health professionals including clinical psychology — substantively significant Caribbean allied-health-regulation framework."
     },
     {
       "year": 2012,
       "title": "Children Act comprehensive revision + Act-12/2012-best-interests-codification framework",
-      "description": "Comprehensive revision of Children Act (Act 12/2012, Chap. 46:01) 2012 codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection — substantively significant Caribbean child-protection framework. Foundational substantive child-protection framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Comprehensive revision of Children Act (Act 12/2012, Chap. 46:01) 2012 codifying welfare principle, parental responsibility, custody, and children's protection — substantively significant Caribbean child-protection framework."
     },
     {
       "year": 2024,

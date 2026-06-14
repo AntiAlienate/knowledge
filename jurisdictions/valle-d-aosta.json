@@ -4,7 +4,11 @@
   "name": "Valle d'Aosta (Vallée d'Aoste / Val d'Outa)",
   "jurisdiction_code": "IT-VDA",
   "legal_system": "civil-law",
-  "language": ["it", "fr", "frp"],
+  "language": [
+    "it",
+    "fr",
+    "frp"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Valle d'Aosta (Vallée d'Aoste in French / Val d'Outa in Franco-Provençal / officially Regione Autonoma Valle d'Aosta / Région Autonome Vallée d'Aoste) is an Alpine civil-law autonomous region of the Italian Republic — structurally distinctive globally as the smallest Italian autonomous region by area (~3,261 km²) and population (~123,000), as the only Italian autonomous region with co-equal French and Italian official languages under constitutional protection, as the only Italian autonomous region with Franco-Provençal (Patois Valdôtain) as a third recognised regional language, and as the only Italian autonomous region operating an internal Walser-German linguistic-minority framework (in the Lys Valley communes of Gressoney-Saint-Jean, Gressoney-La-Trinité, and Issime). Valle d'Aosta is also constitutionally distinctive globally as the only Italian autonomous region with no provinces — Valle d'Aosta itself functions as both region and (effectively) province, with 74 communes (comuni) directly administered by the regional government. Valle d'Aosta's autonomy framework was established by Italian Constitutional Law 4/1948 of 26 February 1948 (Statuto Speciale della Regione Valle d'Aosta) — among the first Italian autonomous regions established. The Statuto Speciale grants Valle d'Aosta exclusive legislative competence over various matters and the only Italian autonomous region with constitutional Article 38 quinquies financial-autonomy framework (90% of taxes collected in Valle d'Aosta are retained by the regional government — the most extensive fiscal autonomy framework of any Italian autonomous region). Family-law framework operates under the Italian Civil Code (Codice Civile 1942, as amended by Law 54/2006 Joint Custody Reform) applied via Valle d'Aosta autonomous-region administrative framework with French and Franco-Provençal language-rights protections. Parental authority (responsabilità genitoriale / responsabilité parentale) and child custody operate under Italian Civil Code Articles 315-342-bis as amended. The Court of Appeal of Turin (Aosta Section) has jurisdiction over Valle d'Aosta civil and criminal matters; final appellate jurisdiction lies with the Italian Court of Cassation and the Italian Constitutional Court. Valle d'Aosta is silent on 'parental alienation' as a statutory label. Italy is a Hague Convention 1980 party (acceded 22 February 1985) — Valle d'Aosta Hague applicability via Italian territorial extension.",
@@ -69,52 +73,52 @@
     {
       "year": 1191,
       "title": "Charte des Franchises + Aostan-medieval-autonomy framework",
-      "description": "Charte des Franchises (Carta delle Franchigie) 1191 granted by Count Thomas I of Savoy — substantively distinctive Alpine medieval-autonomy framework. Foundational pre-Statuto-Speciale-1948 framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Charte des Franchises (Carta delle Franchigie) 1191 granted by Count Thomas I of Savoy."
     },
     {
       "year": 1561,
       "title": "Edict of Rivoli + French-as-official-language framework",
-      "description": "Edict of Rivoli 22 September 1561 by Emanuele Filiberto, Duke of Savoy, establishing French as official language of Aostan-administration — substantively distinctive Alpine French-language-administration framework. Foundational substantive French-language framework persisting through Italian Unification and 21st-century co-equal-French-Italian-official-languages-globally-distinctive framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Edict of Rivoli 22 September 1561 by Emanuele Filiberto, Duke of Savoy, establishing French as official language of Aostan-administration."
     },
     {
       "year": 1861,
       "title": "Italian Unification + Aosta-incorporation framework",
-      "description": "Italian Unification 17 March 1861 — Valle d'Aosta incorporated into Kingdom of Italy. Substantively distinctive Alpine Italian-Unification framework. Subsequent 1925-1945 Mussolini-era Italianisation campaign substantively suppressing French-language framework. Foundational pre-1948-Statuto-Speciale framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Italian Unification 17 March 1861 — Valle d'Aosta incorporated into Kingdom of Italy. Subsequent 1925-1945 Mussolini-era Italianisation campaign substantively suppressing French-language framework."
     },
     {
       "year": 1942,
       "title": "Italian Codice Civile + civil-law-substantive-heritage framework",
-      "description": "Italian Codice Civile 16 March 1942 applicable in Valle d'Aosta establishing substantive civil-law framework — substantively significant Alpine Italian-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including articles 315-342-bis governing responsabilità genitoriale and child custody."
+      "description": "Italian Codice Civile 16 March 1942 applicable in Valle d'Aosta establishing substantive civil-law framework — substantively significant Alpine Italian framework."
     },
     {
       "year": 1948,
       "title": "Statuto Speciale + autonomous-region-establishment + Article-38-quinquies-90-percent-tax-retention framework",
-      "description": "Italian Constitutional Law 4/1948 of 26 February 1948 establishing the Valle d'Aosta autonomous-region framework with co-equal French and Italian official languages + Article 38 quinquies establishing 90% tax retention — substantively distinctive globally most-extensive-Italian-autonomous-region-fiscal-autonomy-framework framework. Foundational substantive Statuto-Speciale framework persisting through subsequent reform-trajectory affecting constitutional-democratic-trajectory."
+      "description": "Italian Constitutional Law 4/1948 of 26 February 1948 establishing the Valle d'Aosta autonomous-region framework with co-equal French and Italian official languages, Article 38 quinquies establishing 90% tax retention."
     },
     {
       "year": 1993,
       "title": "Regional Law 47/1993 + Franco-Provençal-Patois-Valdôtain-protection framework",
-      "description": "Regional Law 47/1993 establishing protection framework for Franco-Provençal (Patois Valdôtain) as third recognised regional language — substantively distinctive globally only-Italian-autonomous-region-with-Franco-Provençal-third-recognised-regional-language framework. Substantive linguistic-minorities framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Regional Law 47/1993 establishing protection framework for Franco-Provençal (Patois Valdôtain) as third recognised regional language."
     },
     {
       "year": 1999,
       "title": "Italian Law 482/1999 + linguistic-minorities-protection + Walser-German-Lys-Valley framework",
-      "description": "Italian Law 482/1999 of 15 December 1999 establishing protection framework for historical linguistic minorities — substantively distinctive Alpine only-Italian-autonomous-region-operating-internal-Walser-German-linguistic-minority framework applicable to Lys Valley communes (Gressoney-Saint-Jean, Gressoney-La-Trinité, Issime). Substantive linguistic-minorities framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Italian Law 482/1999 of 15 December 1999 establishing protection framework for historical linguistic minorities."
     },
     {
       "year": 2006,
       "title": "Italian Law 54/2006 + Joint-Custody-Reform framework",
-      "description": "Italian Law 54/2006 of 8 February 2006 amending Italian Civil Code articles 315-342-bis with joint-custody reform applicable in Valle d'Aosta — substantively significant Alpine joint-custody-reform framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "Italian Law 54/2006 of 8 February 2006 amending Italian Civil Code articles 315-342-bis with joint-custody reform applicable in Valle d'Aosta — substantively significant Alpine joint-custody-reform framework."
     },
     {
       "year": 2013,
       "title": "Italian Hague Convention 1980 ratification continuing + Valle-d'Aosta-Hague-applicability framework",
-      "description": "Italy is a Hague Convention 1980 party (acceded 22 February 1985) with continuing applicability to Valle d'Aosta via Italian territorial extension — substantively significant Alpine Italian-Hague-Convention-Valle-d'Aosta-applicability framework. Foundational substantive Hague-1980 framework persisting through subsequent reform-trajectory."
+      "description": "Italy is a Hague Convention 1980 party (acceded 22 February 1985) with continuing applicability to Valle d'Aosta via Italian territorial extension — substantively significant Alpine Italian'Aosta-applicability framework."
     },
     {
       "year": 2020,
       "title": "COVID-19 pandemic + Alpine-cross-border-French-Italian-Swiss framework",
-      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Valle d'Aosta — substantively distinctive Alpine cross-border-French-Italian-Swiss-tri-border pandemic-response framework. Italian Decree-Laws closing Mont Blanc Tunnel + Great St Bernard Tunnel cross-border-traffic 9 March 2020 + Court of Appeal of Turin Aosta Section operations disrupted + Hague Convention 1980 cross-border child-return proceedings between Valle d'Aosta + France + Switzerland disrupted + substantive demographic and family-law-implementation disruption affecting subsequent cross-border-jurisdiction-practice framework."
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Valle d'Aosta. Italian Decree-Laws closing Mont Blanc Tunnel, Great St Bernard Tunnel cross-border-traffic 9 March 2020, Court of Appeal of Turin Aosta Section operations disrupted, Hague Convention 1980 cross-border child-return proceedings between Valle d'Aosta, France, Switzerland disrupted, substantive demographic and family-law-implementation disruption affecting subsequent cross framework."
     },
     {
       "year": 2024,

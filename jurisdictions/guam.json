@@ -4,7 +4,10 @@
   "name": "Guam (Guåhan)",
   "jurisdiction_code": "GU",
   "legal_system": "common-law",
-  "language": ["en", "ch"],
+  "language": [
+    "en",
+    "ch"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Guam (Guåhan) is a Pacific Island common-law unincorporated US territory — structurally distinctive as the largest US territory in the Mariana Islands archipelago and the location of substantial US military presence. Family-law framework operates under the Guam Code Annotated Title 19 (Personal Relations) drawing on US-derivative common-law substantive heritage. Parental responsibility and child custody are governed by Guam Code Annotated Title 19 Chapter 3 (Family Court). The Supreme Court of Guam is the apex domestic court for civil and criminal matters; appellate jurisdiction in certain federal questions lies with the US Court of Appeals for the Ninth Circuit. Family-law matters are heard at first instance in the Superior Court of Guam (Family Court Division). Psychology profession is regulated through the Guam Board of Allied Health Examiners. Guam is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Guam is a Hague Convention 1980 party via US territorial extension effective 1 July 1988. Guam has substantial Chamorro indigenous cultural heritage retained alongside US civic framework.",
@@ -55,12 +58,12 @@
     {
       "year": 1898,
       "title": "Spanish-American War + Treaty of Paris + US acquisition framework",
-      "description": "Guam acquired by United States from Spain under Treaty of Paris 10 December 1898 following Spanish-American War. Substantively distinctive Pacific US-territorial-acquisition pattern. Foundational US-administration framework persisting through 20th century with military governance until 1950."
+      "description": "Guam acquired by United States from Spain under Treaty of Paris 10 December 1898 following Spanish-American War. Foundational US-administration framework persisting through 20th century with military governance until 1950."
     },
     {
       "year": 1941,
       "title": "Japanese occupation 1941-1944 + Liberation Day + post-WWII reconstruction",
-      "description": "Japanese occupation of Guam 8 December 1941 – 21 July 1944 — substantively distinctive Pacific WWII occupation pattern. Liberation Day 21 July 1944 substantively reshaping Chamorro political consciousness and US-Chamorro relationship. Foundational post-WWII reconstruction framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Japanese occupation of Guam 8 December 1941 – 21 July 1944. Liberation Day 21 July 1944 substantively reshaping Chamorro political consciousness and US-Chamorro relationship."
     },
     {
       "year": 1950,
@@ -80,7 +83,7 @@
     {
       "year": 1995,
       "title": "US ratifies UN Convention on the Rights of the Child + signed-not-ratified context",
-      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified — substantively distinctive US-non-ratification framework. Substantive best-interests-of-the-child framework applicable through US-derivative-common-law-substrate without UNCRC-treaty-direct-effect in Guam."
+      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified. Substantive best framework applicable through US without UNCRC in Guam."
     },
     {
       "year": 2000,

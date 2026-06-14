@@ -4,7 +4,10 @@
   "name": "Wales (Cymru)",
   "jurisdiction_code": "GB-WLS",
   "legal_system": "common-law",
-  "language": ["en", "cy"],
+  "language": [
+    "en",
+    "cy"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-05-30",
   "summary": "Wales operates within the unified Bar of England and Wales and shares the Children Act 1989 / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via Cafcass Cymru (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English Cafcass. The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which Cafcass Cymru policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.",
@@ -96,7 +99,7 @@
   "key_developments": [
     {
       "year": 1536,
-      "description": "Laws in Wales Acts 1535-1542 (Acts of Union with England) — substantively distinctive globally Tudor-era England-Wales-unification framework establishing 489+ year unified England-and-Wales legal jurisdiction. Foundational substantive constitutional-administrative framework affecting subsequent constitutional-democratic-trajectory.",
+      "description": "Laws in Wales Acts 1535-1542 (Acts of Union with England).",
       "url": "https://www.legislation.gov.uk/"
     },
     {
@@ -106,7 +109,7 @@
     },
     {
       "year": 1998,
-      "description": "Government of Wales Act 1998 — substantively distinctive Welsh devolution framework establishing National Assembly for Wales effective 1 May 1999. Foundational pre-2006-Government-of-Wales-Act-+-2011-Welsh-Language-Measure framework affecting subsequent constitutional-democratic-trajectory.",
+      "description": "Government of Wales Act 1998.",
       "url": "https://www.legislation.gov.uk/ukpga/1998/38"
     },
     {
@@ -116,17 +119,17 @@
     },
     {
       "year": 2006,
-      "description": "Government of Wales Act 2006 — substantively reshaping Welsh devolution framework with Welsh Government and National Assembly framework effective 25 May 2007. Substantive legislative-competence framework affecting subsequent constitutional-democratic-trajectory including Welsh-specific Social Services and Well-being legislation.",
+      "description": "Government of Wales Act 2006 — substantively reshaping Welsh devolution framework with Welsh Government and National Assembly framework effective 25 May 2007.",
       "url": "https://www.legislation.gov.uk/ukpga/2006/32"
     },
     {
       "year": 2011,
-      "description": "Welsh Language (Wales) Measure 2011 — substantively distinctive globally Welsh-Language-Standards-applicable-to-Welsh-public-bodies framework including Cafcass Cymru. Welsh-medium family-court provision structurally required.",
+      "description": "Welsh Language (Wales) Measure 2011. Welsh-medium family-court provision structurally required.",
       "url": "https://www.legislation.gov.uk/mwa/2011/1"
     },
     {
       "year": 2014,
-      "description": "Social Services and Well-being (Wales) Act 2014 — substantively distinctive Welsh-specific social-services-and-children's-services framework distinct from English Children Act 2004 framework. Foundational substantive Welsh-divergent-children's-services framework affecting subsequent reform-trajectory.",
+      "description": "Social Services and Well-being (Wales) Act 2014.",
       "url": "https://www.legislation.gov.uk/anaw/2014/4"
     },
     {
@@ -136,12 +139,12 @@
     },
     {
       "year": 2020,
-      "description": "Senedd and Elections (Wales) Act 2020 — substantively reshaping Welsh devolution framework renaming National Assembly for Wales to Senedd Cymru / Welsh Parliament effective 6 May 2020. Substantive Welsh-Parliament framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation.",
+      "description": "Senedd and Elections (Wales) Act 2020 — substantively reshaping Welsh devolution framework renaming National Assembly for Wales to Senedd Cymru / Welsh Parliament effective 6 May 2020.",
       "url": "https://www.legislation.gov.uk/anaw/2020/1"
     },
     {
       "year": 2023,
-      "description": "Independent Commission on the Constitutional Future of Wales — Williams/McAllister Commission Final Report 18 January 2024 (interim 2023) — substantively distinctive Welsh constitutional-future framework analysing options including enhanced devolution + federal UK + Welsh independence. Substantive constitutional-democratic-trajectory framework affecting subsequent Welsh-justice-devolution framework + Family Court reform trajectory + continuing Cafcass Cymru institutional development framework.",
+      "description": "Independent Commission on the Constitutional Future of Wales.",
       "url": "https://www.gov.wales/independent-commission-constitutional-future-wales"
     },
     {

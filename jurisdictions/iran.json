@@ -4,7 +4,9 @@
   "name": "Iran (Islamic Republic of Iran / ایران)",
   "jurisdiction_code": "IR",
   "legal_system": "religious-law",
-  "language": ["fa"],
+  "language": [
+    "fa"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Iran is a religious-law theocratic republic whose family-law framework operates under the Civil Code (Qanun-e Madani, 1928, as substantially amended) and the Family Protection Law 1391 (2013) — the post-revolutionary modernised family-law statute. Custody (hizanat) and guardianship (walayat) are governed by Civil Code arts. 1168-1180 (Twelver Shia Jaʿfari jurisprudential basis) and the Family Protection Law 2013. The Supreme Court of Iran (Divan-e Aaliye Keshvar) is the apex court for civil and criminal matters; Family Courts (Dadgah-e Khanevadeh) operate as first-instance specialised courts. Psychology profession is regulated under the Psychology and Counseling Organization of Iran (Sazman-e Nezam-e Ravanshenasi va Mosharaverat) established by Law 1379/2003. Iran is silent on 'parental alienation' as a statutory label; courts operate substantively under the maslahat-e tifl (welfare-of-the-child) standard mediated by Twelver Shia jurisprudence. Iran is non-Hague Convention (not party to the 1980 Child Abduction Convention).",
@@ -66,7 +68,7 @@
     {
       "year": 1967,
       "title": "Family Protection Law 1967 (pre-revolutionary modernisation)",
-      "description": "Family Protection Law enacted 1967 under Mohammad Reza Shah Pahlavi administration — major pre-revolutionary modernisation including women's-rights expansion, divorce-procedure reforms, polygamy restrictions, and Family Court establishment. Substantially repealed post-1979 Islamic Revolution but provided foundational substantive substrate for later post-revolutionary Family Protection Law 2013 reforms."
+      "description": "Family Protection Law enacted 1967 under Mohammad Reza Shah Pahlavi administration — major pre-revolutionary modernisation including women's-rights expansion, divorce-procedure reforms, polygamy restrictions, and Family Court establishment."
     },
     {
       "year": 1979,

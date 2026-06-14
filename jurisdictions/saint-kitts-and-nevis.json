@@ -4,7 +4,9 @@
   "name": "Saint Kitts and Nevis (Federation of Saint Christopher and Nevis)",
   "jurisdiction_code": "KN",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saint Kitts and Nevis is a Caribbean common-law constitutional monarchy and federal state (two-island federation with Saint Christopher and Nevis as constituent units) whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance Act, the Status of Children Act, the Child Justice Act 2013, and the Child (Care and Adoption) Act 2013. Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Saint Kitts and Nevis) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Saint Kitts and Nevis is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Saint Kitts and Nevis is non-Hague Convention.",
@@ -62,17 +64,17 @@
     {
       "year": 1967,
       "title": "Associated State of St Christopher-Nevis-Anguilla + initial-three-island-framework",
-      "description": "St Christopher-Nevis-Anguilla became Associated State of West Indies 27 February 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Initially three-island framework before Anguillan secession 1967-1980. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "St Christopher-Nevis-Anguilla became Associated State of West Indies 27 February 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Initially three-island framework before Anguillan secession 1967-1980."
     },
     {
       "year": 1980,
       "title": "Anguilla formal separation + two-island framework consolidation",
-      "description": "Anguilla formally separated from State of St Kitts-Nevis-Anguilla 19 December 1980 — becoming separate British Dependent Territory. Substantive consolidation of Saint Kitts and Nevis two-island framework affecting subsequent independence trajectory."
+      "description": "Anguilla formally separated from State of St Kitts-Nevis-Anguilla 19 December 1980 — becoming separate British Dependent Territory."
     },
     {
       "year": 1983,
       "title": "Independence — federal state + Kennedy Simmonds founding-prime-minister",
-      "description": "Saint Kitts and Nevis achieved independence 19 September 1983 from the United Kingdom as a federal state — only federal state in OECS Anglophone Caribbean. Kennedy Simmonds (PAM) first prime minister 1983-1995. Substantively distinctive Caribbean federal-state-from-independence framework."
+      "description": "Saint Kitts and Nevis achieved independence 19 September 1983 from the United Kingdom as a federal state — only federal state in OECS Anglophone Caribbean. Kennedy Simmonds (PAM) first prime minister 1983-1995."
     },
     {
       "year": 1991,
@@ -82,7 +84,7 @@
     {
       "year": 1998,
       "title": "Nevis secession referendum 1998 + federal-state-continuation framework",
-      "description": "Nevis secession referendum 10 August 1998 — substantively voted 62% in favour of secession (61.7%) but failed to reach required two-thirds majority. Substantively distinctive Caribbean federal-state-secession-attempt pattern. Subsequent continuing federal-state framework affecting family-law-cross-jurisdictional-coordination."
+      "description": "Nevis secession referendum 10 August 1998 — substantively voted 62% in favour of secession (61.7%) but failed to reach required two-thirds majority. Subsequent continuing federal-state framework affecting family."
     },
     {
       "year": 1995,

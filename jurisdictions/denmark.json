@@ -4,7 +4,9 @@
   "name": "Denmark (Danmark)",
   "jurisdiction_code": "DK",
   "legal_system": "civil-law",
-  "language": ["da"],
+  "language": [
+    "da"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Denmark is a Nordic civil-law unitary kingdom whose family-court framework was substantially restructured by the 2019 Familieretshuset reform (Lov om Familieretshuset 2018) which created a single-entry administrative-and-judicial pathway for family disputes. The Forældreansvarsloven 2007 (Parental Responsibility Act) governs joint parental responsibility (forældremyndighed), residence (bopæl) and contact (samvær); joint custody is the statutory default. Family-law cases proceed through Familieretshuset administrative determination, then the Familieretten (specialist family court) at District Court level, the Landsret (High Court of Appeal), and the Højesteret (Supreme Court of Denmark, Copenhagen). Psychology profession is regulated under the Psykologloven (Psychology Act) of 1993 with autorisasjon issued by Psykolognævnet under the Ministry of Social Affairs. Denmark is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets bedste (best-interests-of-the-child) welfare standard.",
@@ -91,7 +93,7 @@
     {
       "year": 2012,
       "title": "Same-sex marriage legalisation + Marriage Act amendment + family-law-modernisation framework",
-      "description": "Denmark same-sex marriage legalisation 7 June 2012 effective 15 June 2012 — substantively distinctive Nordic post-registered-partnership-1989 framework + structurally distinctive globally first country to introduce registered partnership 1989 framework progression to full same-sex marriage 2012 + substantive Marriage Act (Ægteskabsloven) amendment + Lutheran Church-of-Denmark religious-marriage framework integration + foundational substantive same-sex-parenting + adoption-by-same-sex-couples framework affecting subsequent Forældreansvarsloven 2007 implementation framework + Familieretshuset 2019 administrative-first pathway framework for same-sex-family disputes."
+      "description": "Denmark same-sex marriage legalisation 7 June 2012 effective 15 June 2012."
     },
     {
       "year": 2014,
@@ -101,7 +103,7 @@
     {
       "year": 2019,
       "title": "Familieretshuset reform in force",
-      "description": "Lov om Familieretshuset 2018 in force 1 April 2019 — single-entry administrative-and-judicial pathway for family disputes through Familieretshuset (administrative) and Familieretten (judicial). Substantively distinctive Nordic administrative-first family-law-architecture."
+      "description": "Lov om Familieretshuset 2018 in force 1 April 2019 — single-entry administrative-and-judicial pathway for family disputes through Familieretshuset (administrative) and Familieretten (judicial)."
     },
     {
       "year": 2022,

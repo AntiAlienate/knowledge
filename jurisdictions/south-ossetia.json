@@ -4,7 +4,10 @@
   "name": "South Ossetia (Republic of South Ossetia / State of Alania)",
   "jurisdiction_code": "GE-SO",
   "legal_system": "civil-law",
-  "language": ["os", "ru"],
+  "language": [
+    "os",
+    "ru"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "South Ossetia (officially Republic of South Ossetia / State of Alania / Республика Южная Осетия — Государство Алания) is a Caucasian civil-law partially-recognised de-facto state in the South Caucasus — structurally distinctive globally as one of the two Russian-recognised post-2008 Russia-Georgia war breakaway states (with Abkhazia), and as the only de-facto state with a population-supported aspiration for absorption into the Russian Federation (2022 South Ossetia President Bibilov announced referendum on joining Russia — postponed indefinitely after May 2022 leadership change). South Ossetia is recognised by Russia (26 August 2008), Nicaragua (5 September 2008), Venezuela (10 September 2009), Nauru (15 December 2009, withdrawn 9 January 2024), and Syria (29 May 2018). Located in the South Caucasus north of Georgia proper and south of the Russian Federation's North Ossetia-Alania Republic, South Ossetia comprises ~3,900 km² with a population of ~56,000. Family-law framework operates under the South Ossetian Family Code (Семейный кодекс Республики Южная Осетия), modeled on Russian Federation Family Code. Parental authority and child custody operate under South Ossetian Family Code provisions on родительские права (parental rights). The Supreme Court of South Ossetia is the apex domestic court; final appellate jurisdiction is internal — no recognised external appellate court. Cross-border family-law coordination with Georgia proper is severely hampered by the conflict. Psychology profession is regulated through South Ossetian Ministry of Health. South Ossetia is silent on 'parental alienation' as a statutory label. South Ossetia is not a party to the Hague Convention 1980.",
@@ -62,47 +65,47 @@
     {
       "year": 1922,
       "title": "South Ossetian Autonomous Oblast + Soviet-administration framework",
-      "description": "South Ossetian Autonomous Oblast established 20 April 1922 within Georgian SSR — substantively distinctive Caucasian Soviet-administrative framework. Foundational pre-1990-South-Ossetian-Soviet-Democratic-Republic framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "South Ossetian Autonomous Oblast established 20 April 1922 within Georgian SSR."
     },
     {
       "year": 1990,
       "title": "South Ossetian Soviet Democratic Republic declared + declaration-of-independence-from-Georgian-SSR framework",
-      "description": "South Ossetian Soviet Democratic Republic declared 20 September 1990 within USSR — substantively distinctive Caucasian South Ossetian-declaration-of-independence-from-Georgian-SSR framework. Foundational pre-1991-1992-war framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "South Ossetian Soviet Democratic Republic declared 20 September 1990 within USSR."
     },
     {
       "year": 1991,
       "title": "1991-1992 South Ossetia War + Sochi-Agreement-+-Joint-Control-Commission framework",
-      "description": "South Ossetia War January 1991-June 1992 between Georgia and South Ossetia — substantively distinctive Caucasian post-Soviet-armed-conflict framework. Sochi Agreement 24 June 1992 established Joint Control Commission ceasefire. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+      "description": "South Ossetia War January 1991-June 1992 between Georgia and South Ossetia. Sochi Agreement 24 June 1992 established Joint Control Commission ceasefire. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2001,
       "title": "South Ossetia Constitution + presidential-republic-+-referendum framework",
-      "description": "South Ossetia Constitution adopted by referendum 8 April 2001 establishing presidential republic constitutional framework — substantively distinctive Caucasian South-Ossetia-constitutional-anchor framework for contemporary family-law jurisprudence. Foundational substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "South Ossetia Constitution adopted by referendum 8 April 2001 establishing presidential republic constitutional framework."
     },
     {
       "year": 2007,
       "title": "South Ossetian Family Code + Russian-Federation-Family-Code-derivative framework",
-      "description": "South Ossetian Family Code (Семейный кодекс РЮО) enacted 2007 modeled on Russian Federation Family Code 1995 — substantively significant Caucasian Russian-derivative-family-law framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting родительские права (parental rights) and child custody."
+      "description": "South Ossetian Family Code (Семейный кодекс РЮО) enacted 2007 modeled on Russian Federation Family Code 1995 — substantively significant Caucasian Russian framework."
     },
     {
       "year": 2008,
       "title": "Russia-Georgia war + Russian-recognition-+-Russia-Nicaragua-Venezuela-Nauru-Syria-recognition framework",
-      "description": "Russia-Georgia war 7-12 August 2008 — substantively distinctive globally Russian-recognition-of-South-Ossetia-and-Abkhazia-as-independent-states framework 26 August 2008. Subsequent Nicaragua (5 September 2008), Venezuela (10 September 2009), Nauru (15 December 2009, withdrawn 9 January 2024), and Syria (29 May 2018) recognition. Substantive partial-recognition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Russia-Georgia war 7-12 August 2008. Subsequent Nicaragua (5 September 2008), Venezuela (10 September 2009), Nauru (15 December 2009, withdrawn 9 January 2024), and Syria (29 May 2018) recognition."
     },
     {
       "year": 2015,
       "title": "Russia-South Ossetia Treaty of Alliance and Integration + closest-to-formal-absorption framework",
-      "description": "Russia-South Ossetia Treaty signed 18 March 2015 establishing alliance and integration framework with Russian Federation — substantively distinctive globally closest-to-formal-absorption-framework-short-of-merger framework including border integration, customs union, military integration, and citizenship-pathway provisions. Substantive Russia-aligned-de-facto-state framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Russia-South Ossetia Treaty signed 18 March 2015 establishing alliance and integration framework with Russian Federation."
     },
     {
       "year": 2022,
       "title": "Bibilov-Russia-absorption-referendum-announcement + Russia-Ukraine-War-context framework",
-      "description": "South Ossetia President Anatoly Bibilov announced 30 March 2022 referendum on joining Russian Federation — substantively distinctive globally only-de-facto-state-with-population-supported-aspiration-for-absorption-into-Russian-Federation framework. Postponed indefinitely after May 2022 leadership change (Alan Gagloev defeated Bibilov). Substantive Russia-Ukraine-War-context framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "South Ossetia President Anatoly Bibilov announced 30 March 2022 referendum on joining Russian Federation. Postponed indefinitely after May 2022 leadership change (Alan Gagloev defeated Bibilov)."
     },
     {
       "year": 2024,
       "title": "Nauru-recognition-withdrawal + partial-recognition-framework-reduction framework",
-      "description": "Nauru withdrew recognition of South Ossetia 9 January 2024 — substantively distinctive Caucasian partial-recognition-framework-reduction framework. Substantive recognition framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice."
+      "description": "Nauru withdrew recognition of South Ossetia 9 January 2024."
     },
     {
       "year": 2023,

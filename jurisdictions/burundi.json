@@ -4,7 +4,10 @@
   "name": "Burundi (Republic of Burundi / République du Burundi / Repuburika y'Uburundi)",
   "jurisdiction_code": "BI",
   "legal_system": "civil-law",
-  "language": ["fr", "rn"],
+  "language": [
+    "fr",
+    "rn"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Burundi is a Central/East African civil-law unitary republic whose family-law framework operates under the Persons and Family Code 1993 (Code des Personnes et de la Famille, Decree-Law 1/024 of 28 April 1993) drawing on Belgian civil-law substantive heritage (via colonial inheritance). Parental authority and child custody are governed by Persons and Family Code arts. 309-339. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Tribunal of Residence (Tribunal de Résidence). Psychology profession is regulated through the Ministry of Public Health framework. Burundi is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Burundi is non-Hague Convention.",
@@ -48,12 +51,12 @@
     {
       "year": 1962,
       "title": "Burundi independence + Mwami Mwambutsa IV monarchy",
-      "description": "Burundi achieved independence 1 July 1962 from Belgium under United Nations trusteeship — alongside Rwanda as Ruanda-Urundi separation. Mwami (King) Mwambutsa IV constitutional monarchy 1962-1966 — among the latest African monarchies. Substantively distinctive Tutsi-monarchy framework operating alongside Belgian civil-law inheritance."
+      "description": "Burundi achieved independence 1 July 1962 from Belgium under United Nations trusteeship — alongside Rwanda as Ruanda-Urundi separation. Mwami (King) Mwambutsa IV constitutional monarchy 1962-1966 — among the latest African monarchies."
     },
     {
       "year": 1966,
       "title": "Republic proclamation + Micombero coup + first-republic era",
-      "description": "Captain Michel Micombero deposed Mwami Ntare V 28 November 1966 — abolishing monarchy and proclaiming First Republic. Substantively distinctive Tutsi-military-elite political-institutional framework. Foundational ethnic-political-tension pattern affecting subsequent family-law-implementation."
+      "description": "Captain Michel Micombero deposed Mwami Ntare V 28 November 1966 — abolishing monarchy and proclaiming First Republic. Foundational ethnic-political-tension pattern affecting subsequent family-law-implementation."
     },
     {
       "year": 1972,
@@ -73,7 +76,7 @@
     {
       "year": 2000,
       "title": "Arusha Peace and Reconciliation Agreement 2000 + ethnic-power-sharing framework",
-      "description": "Arusha Peace and Reconciliation Agreement signed 28 August 2000 — substantively reforming political-institutional framework with Tutsi-Hutu ethnic-power-sharing-quota provisions. Subsequent transitional government 2001-2005 framework. Substantively distinctive ethnic-quota-based political-institutional framework affecting family-law-cross-cutting-areas."
+      "description": "Arusha Peace and Reconciliation Agreement signed 28 August 2000 — substantively reforming political-institutional framework with Tutsi-Hutu ethnic provisions. Subsequent transitional government 2001-2005 framework."
     },
     {
       "year": 2005,
@@ -83,7 +86,7 @@
     {
       "year": 2015,
       "title": "2015 constitutional crisis + Nkurunziza third-term + EU sanctions",
-      "description": "Pierre Nkurunziza third-term candidacy 2015 triggered constitutional crisis — substantial political contestation including failed coup attempt 13 May 2015. EU sanctions imposed 2016. Substantively distinctive contested-third-term political-institutional disruption pattern affecting family-law-cross-border-jurisdiction-cooperation."
+      "description": "Pierre Nkurunziza third-term candidacy 2015 triggered constitutional crisis — substantial political contestation including failed coup attempt 13 May 2015. EU sanctions imposed 2016."
     },
     {
       "year": 2018,

@@ -4,7 +4,9 @@
   "name": "Nigeria (Federal Republic of Nigeria)",
   "jurisdiction_code": "NG",
   "legal_system": "mixed (English common-law + customary law + Islamic Sharia law in 12 northern states)",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Nigeria is a federal mixed-jurisdiction with English common-law foundation, customary law operative across ethnic communities, and Islamic Sharia law in the 12 northern states (post-1999 Sharia implementation). Family courts operate under the Matrimonial Causes Act 1970 (federal) for statutory marriages, customary courts for customary marriages, and Sharia courts for Muslim personal-status matters. The Child Rights Act 2003 (federal) implements UN CRC at federal level but requires state-level domestication — adopted by 36 states as of 2026. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of Nigeria has addressed custody disputes applying welfare-of-the-child standard. The National Human Rights Commission and Federal Ministry of Women Affairs have informed institutional position. Tripartite legal pluralism (common-law + customary law + Sharia law) operationally creates structurally distinctive family-law architecture across Nigeria's federal entities.",
@@ -135,7 +137,6 @@
     "Child Rights Act 2003 federal-state-domestication trajectory (36-state adoption by 2024) operationally implements UN CRC + African Charter framework across Nigerian federal entities — establishing BIC standard within tripartite-pluralism framework without doctrinal 'parental alienation' label adoption."
   ],
   "editorial_notes": [
-    "Nigeria's tripartite legal pluralism (English common-law + customary law + Islamic Sharia law) is substantively distinctive globally — operationally creating the most architecturally complex African family-law framework structurally requiring per-personal-law-system analysis.",
     "Post-1999 Sharia implementation across 12 northern states operates as a structurally significant federal-pluralism data point — making Nigeria a critical comparative-law jurisdiction for Islamic personal-status law operating within constitutional federal framework."
   ]
 }

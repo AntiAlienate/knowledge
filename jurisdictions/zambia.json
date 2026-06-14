@@ -4,7 +4,9 @@
   "name": "Zambia (Republic of Zambia)",
   "jurisdiction_code": "ZM",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Zambia is a Southern African common-law unitary republic whose family-law framework operates under the Matrimonial Causes Act 2007, supplemented by the Marriage Act (Cap. 50), the Children's Code Act 2022 (Act No. 12 of 2022), and customary-law jurisdiction via Local Courts under the Local Courts Act. Parental responsibility and child custody are governed by the Children's Code Act Part IV. The Supreme Court of Zambia is the apex court for civil and criminal matters; the Constitutional Court of Zambia (established 2016) operates separate constitutional review. Family-law matters are heard at first instance in the High Court (Family Division) and in Local Courts for customary-law matters. Psychology profession is regulated through the Health Professions Council of Zambia under the Ministry of Health framework with the Psychology Association of Zambia operating professional standards. Zambia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children's Code Act s. 5. Zambia is non-Hague Convention.",
@@ -60,17 +62,17 @@
     {
       "year": 1964,
       "title": "Zambia independence + Kenneth Kaunda founding-presidency",
-      "description": "Zambia independence 24 October 1964 from the United Kingdom — establishing presidential republic framework. Kenneth Kaunda first president 1964-1991 substantively distinctive African 27-year-presidency framework. Foundational pre-multipartyism framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Zambia independence 24 October 1964 from the United Kingdom — establishing presidential republic framework."
     },
     {
       "year": 1972,
       "title": "One-Party-State framework + UNIP-monopoly framework",
-      "description": "Zambia became One-Party-State 13 December 1972 under United National Independence Party (UNIP) — substantively distinctive African Cold-War-era One-Party-State framework. Substantive political-institutional framework persisting through 1991 democratic-transition."
+      "description": "Zambia became One-Party-State 13 December 1972 under United National Independence Party (UNIP). Substantive political-institutional framework persisting through 1991 democratic-transition."
     },
     {
       "year": 1991,
       "title": "Multi-party transition + Chiluba presidency + democratic-trajectory framework",
-      "description": "Multi-party democratic transition 1991 — Constitution of Zambia 1991 substantively reforming political-institutional framework. Frederick Chiluba (Movement for Multi-Party Democracy) elected President 31 October 1991 ending Kaunda 27-year presidency. Substantively distinctive African democratic-transition framework."
+      "description": "Multi-party democratic transition 1991 — Constitution of Zambia 1991 substantively reforming political-institutional framework. Frederick Chiluba (Movement for Multi-Party Democracy) elected President 31 October 1991 ending Kaunda 27-year presidency."
     },
     {
       "year": 1991,
@@ -80,7 +82,7 @@
     {
       "year": 2007,
       "title": "Matrimonial Causes Act",
-      "description": "Federal divorce and matrimonial-causes statute enacted replacing colonial-era Divorce Ordinance. Substantively significant family-law-modernisation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal divorce and matrimonial-causes statute enacted replacing colonial-era Divorce Ordinance."
     },
     {
       "year": 2011,
@@ -90,12 +92,12 @@
     {
       "year": 2016,
       "title": "Constitutional Court established + Constitution 2016 amendments framework",
-      "description": "Constitutional Court of Zambia established 2016 under Constitution Amendment Act 2016 with original jurisdiction over constitutional review. Substantively significant Southern African specialised-Constitutional-Court framework. Foundational substantive-constitutional-judicial-framework."
+      "description": "Constitutional Court of Zambia established 2016 under Constitution Amendment Act 2016 with original jurisdiction over constitutional review. Substantively significant Southern African specialised-Constitutional-Court framework."
     },
     {
       "year": 2021,
       "title": "Hakainde Hichilema victory + UPND-return + democratic-trajectory framework",
-      "description": "Hakainde Hichilema (United Party for National Development) elected President 12 August 2021 ending Lungu (PF) presidency — substantively distinctive African democratic-alternation framework (third-time-attempt-after-2006-2008-2011-2015-2016-failed-attempts). Substantive constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
+      "description": "Hakainde Hichilema (United Party for National Development) elected President 12 August 2021 ending Lungu (PF) presidency. Substantive constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
     },
     {
       "year": 2022,

@@ -4,7 +4,10 @@
   "name": "Paraguay (Republic of Paraguay / República del Paraguay)",
   "jurisdiction_code": "PY",
   "legal_system": "civil-law",
-  "language": ["es", "gn"],
+  "language": [
+    "es",
+    "gn"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Paraguay is a Southern Cone civil-law republic whose family-law framework operates under the Civil Code 1987 (Código Civil, Law 1183 of 1985) supplemented by the Children and Adolescents Code 2001 (Law 1680 of 2001). Parental authority (patria potestad) and child custody are governed by Civil Code arts. 70-95 and Children and Adolescents Code arts. 70-93. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Children and Adolescents Courts (Juzgados de la Niñez y Adolescencia). Psychology profession is regulated through the Sociedad Paraguaya de Psicología and Ministerio de Salud Pública licensing framework. Paraguay is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. 3. Paraguay acceded to the Hague Convention 1980 effective 1 May 1998. Paraguay is a bilingual Spanish-Guarani official-language state — distinctive within Latin America.",
@@ -49,27 +52,27 @@
     {
       "year": 1811,
       "title": "Paraguay independence + Dr Francia 26-year-dictatorship framework",
-      "description": "Paraguay independence 14 May 1811 from Spain — substantively distinctive Latin American independence framework. Subsequent José Gaspar Rodríguez de Francia dictatorship 1814-1840 substantively distinctive 26-year-isolationist-dictatorship framework. Foundational pre-modern-codification framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Paraguay independence 14 May 1811 from Spain."
     },
     {
       "year": 1864,
       "title": "Paraguayan War 1864-1870 + Triple Alliance War + demographic-catastrophe framework",
-      "description": "Paraguayan War (War of the Triple Alliance) 1864-1870 substantively reshaping demographic framework — estimated 60-90% of adult-male-population killed (most-distinctive demographic-catastrophe in Latin American history). Foundational post-war reconstruction framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Paraguayan War (War of the Triple Alliance) 1864-1870 substantively reshaping demographic framework — estimated 60-90% of adult-male-population killed (most-distinctive demographic-catastrophe in Latin American history)."
     },
     {
       "year": 1954,
       "title": "Stroessner coup + 35-year-authoritarian framework",
-      "description": "Stroessner coup d'état 4 May 1954 — substantively distinctive Latin American 35-year-authoritarian framework 1954-1989. Substantive Cold-War-era political-institutional framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "Stroessner coup d'état 4 May 1954."
     },
     {
       "year": 1985,
       "title": "Civil Code 1985 (Law 1183) + post-Stroessner-era-codification framework",
-      "description": "Federal Civil Code enacted Law 1183 of 23 December 1985 drawing on Argentine civil-law substantive heritage (Vélez Sarsfield Code). Arts. 70-95 govern patria potestad and child custody. Substantively significant family-law-codification framework persisting through subsequent reform-trajectory."
+      "description": "Federal Civil Code enacted Law 1183 of 23 December 1985 drawing on Argentine civil-law substantive heritage (Vélez Sarsfield Code). Arts. 70-95 govern patria potestad and child custody."
     },
     {
       "year": 1989,
       "title": "Rodríguez coup + democratic-transition + post-Stroessner framework",
-      "description": "Andrés Rodríguez coup d'état 2-3 February 1989 ending 35-year Stroessner era — substantively distinctive Latin American democratic-transition framework. Foundational democratic-trajectory framework affecting subsequent Constitution-1992 and family-law-modernisation."
+      "description": "Andrés Rodríguez coup d'état 2-3 February 1989 ending 35-year Stroessner era."
     },
     {
       "year": 1990,

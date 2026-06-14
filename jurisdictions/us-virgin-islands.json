@@ -4,7 +4,9 @@
   "name": "US Virgin Islands (United States Virgin Islands / USVI)",
   "jurisdiction_code": "VI",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "US Virgin Islands is a Caribbean mixed-legal-system unincorporated US territory — structurally distinctive within the corpus as combining Danish civil-law substantive heritage (via 1917 acquisition from Denmark) with US-derivative common-law procedural framework. Family-law framework operates under the US Virgin Islands Code Title 16 (Family Relations) drawing on US-derivative common-law substantive heritage. Parental responsibility and child custody are governed by USVI Code Title 16 Chapter 11. The Supreme Court of the US Virgin Islands is the apex domestic court for civil and criminal matters; appellate jurisdiction in certain federal questions lies with the US Court of Appeals for the Third Circuit. Family-law matters are heard at first instance in the Superior Court of the Virgin Islands (Family Division). Psychology profession is regulated through the Virgin Islands Department of Health framework. US Virgin Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. US Virgin Islands is a Hague Convention 1980 party via US territorial extension effective 1 July 1988.",
@@ -55,22 +57,22 @@
     {
       "year": 1672,
       "title": "Danish colonial administration + Danish-West-Indies framework",
-      "description": "Danish colonial administration of Saint Thomas 1672 — substantively distinctive globally Danish-West-Indies framework. Substantive Danish-Norwegian-Indies colonial framework persisting through 1917 US acquisition (245 years). Foundational pre-US-acquisition Danish-civil-law-substantive framework affecting subsequent legal-system framework."
+      "description": "Danish colonial administration of Saint Thomas 1672. Substantive Danish-Norwegian-Indies colonial framework persisting through 1917 US acquisition (245 years)."
     },
     {
       "year": 1917,
       "title": "US acquisition from Denmark + Treaty-of-Saint-Thomas framework",
-      "description": "United States acquired Virgin Islands from Denmark 31 March 1917 (Treaty of the Danish West Indies signed 4 August 1916 for US$25 million) — Danish civil-law substantive heritage commenced US-territorial integration. Substantively distinctive globally last-Danish-colony-acquisition framework. Foundational US-territorial-administration framework."
+      "description": "United States acquired Virgin Islands from Denmark 31 March 1917 (Treaty of the Danish West Indies signed 4 August 1916 for US$25 million) — Danish civil-law substantive heritage commenced US-territorial integration. Foundational US-territorial-administration framework."
     },
     {
       "year": 1927,
       "title": "US citizenship + Jones-White-Act + civic-integration framework",
-      "description": "US citizenship extended to USVI residents 25 February 1927 — substantively distinctive Caribbean US-territorial-civic-integration framework. Foundational pre-1954-Revised-Organic-Act framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "US citizenship extended to USVI residents 25 February 1927."
     },
     {
       "year": 1954,
       "title": "Revised Organic Act of the Virgin Islands",
-      "description": "Federal Revised Organic Act establishing USVI's unincorporated US territory status 22 July 1954 with civilian government. Foundational substantive-constitutional framework for contemporary family-law jurisprudence persisting through subsequent reform-trajectory."
+      "description": "Federal Revised Organic Act establishing USVI's unincorporated US territory status 22 July 1954 with civilian government."
     },
     {
       "year": 1957,
@@ -90,17 +92,17 @@
     {
       "year": 1995,
       "title": "US UNCRC signed-not-ratified + USVI context",
-      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified — substantively distinctive US-non-ratification framework. Substantive best-interests-of-the-child framework applicable through US-derivative-common-law-substrate without UNCRC-treaty-direct-effect in USVI."
+      "description": "United States signed the UNCRC on 16 February 1995 but has not ratified. Substantive best framework applicable through US without UNCRC in USVI."
     },
     {
       "year": 2017,
       "title": "Hurricane Irma 2017 + Hurricane Maria + reconstruction-trajectory framework",
-      "description": "Hurricanes Irma 6 September 2017 and Maria 19-20 September 2017 substantively devastated USVI — substantively distinctive Caribbean Category-5 climate-disaster framework. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory affecting cross-border-jurisdiction-practice."
+      "description": "Hurricanes Irma 6 September 2017 and Maria 19-20 September 2017 substantively devastated USVI. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory affecting cross."
     },
     {
       "year": 2020,
       "title": "COVID-19 pandemic + USVI-territorial-pandemic-response framework",
-      "description": "COVID-19 pandemic March 2020 onwards substantively affecting USVI — substantively distinctive Caribbean US-unincorporated-territory pandemic-response framework. USVI Governor Albert Bryan Jr. declared State of Emergency 17 March 2020 + USVI Superior Court Family Division operations disrupted + Hague Convention 1980 cross-border child-return proceedings disrupted + substantive demographic and family-law-implementation disruption through pandemic-trajectory affecting subsequent cross-border-jurisdiction-practice."
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting USVI. USVI Governor Albert Bryan Jr. declared State of Emergency 17 March 2020, USVI Superior Court Family Division operations disrupted, Hague Convention 1980 cross-border child-return proceedings disrupted, substantive demographic and family-law-implementation disruption through pandemic-trajectory affecting subsequent cross."
     },
     {
       "year": 2024,

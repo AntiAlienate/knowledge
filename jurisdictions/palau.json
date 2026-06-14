@@ -4,7 +4,10 @@
   "name": "Palau (Republic of Palau / Beluu er a Belau)",
   "jurisdiction_code": "PW",
   "legal_system": "common-law",
-  "language": ["en", "pau"],
+  "language": [
+    "en",
+    "pau"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Palau is a Pacific Island common-law republic in Compact of Free Association with the United States (Compact 1994). Family-law framework operates under the Palau National Code Title 21 (Domestic Relations) drawing on US-derivative common-law substantive heritage via Compact framework and prior US Trust Territory administration. Parental responsibility and child custody are governed by National Code Title 21 Chapters 1-7. The Supreme Court of Palau is the apex court for civil and criminal matters. Customary-law jurisdiction operates in parallel — Palau is structurally distinctive globally as the only state with constitutionally-recognised matrilineal customary-law framework (Belauan tradition). The Court of Common Pleas operates first-instance customary-law jurisdiction. Family-law matters are heard at first instance in the Supreme Court (Trial Division) and Court of Common Pleas. Psychology profession is regulated through the Ministry of Health framework. Palau is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Palau is non-Hague Convention.",
@@ -62,32 +65,32 @@
     {
       "year": 1947,
       "title": "Trust Territory of the Pacific Islands + UN-Trusteeship framework",
-      "description": "Trust Territory of the Pacific Islands (TTPI) established 18 July 1947 as UN Strategic Trusteeship under US administration following Japanese colonial framework (Nan'yō Guntō). Substantively distinctive Pacific UN-Trusteeship framework persisting through 1994 Compact. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Trust Territory of the Pacific Islands (TTPI) established 18 July 1947 as UN Strategic Trusteeship under US administration following Japanese colonial framework (Nan'yō Guntō)."
     },
     {
       "year": 1980,
       "title": "Palau National Code Title 21",
-      "description": "Federal Domestic Relations Code enacted codifying marriage, divorce, parental responsibility, and child custody framework. Chapters 1-7 govern parental responsibility and child custody. Foundational substantive-statutory framework persisting through subsequent constitutional-trajectory."
+      "description": "Federal Domestic Relations Code enacted codifying marriage, divorce, parental responsibility, and child custody framework. Chapters 1-7 govern parental responsibility and child custody."
     },
     {
       "year": 1981,
       "title": "Constitution — matrilineal customary-law recognition + nuclear-free framework",
-      "description": "Constitution adopted 9 April 1979 (effective 1 January 1981) constitutionally-recognising Belauan matrilineal customary-law framework. Substantively distinctive globally only-state-with-constitutionally-recognised-matrilineal-customary-law framework. Nuclear-free Constitution Article XIII substantively distinctive globally only-nuclear-free-constitution framework. Foundational substantive-constitutional framework."
+      "description": "Constitution adopted 9 April 1979 (effective 1 January 1981) constitutionally-recognising Belauan matrilineal customary-law framework."
     },
     {
       "year": 1986,
       "title": "1986 Compact-rejection-referendum + 7-referendum-trajectory framework",
-      "description": "Compact-rejection-referendum series 1983, 1984, 1986, 1987, 1990, 1992, 1993 — substantively distinctive globally 7-Compact-referendum-trajectory due to constitutional-nuclear-free requirement requiring 75% threshold framework. Foundational pre-1994-Compact framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Compact-rejection-referendum series 1983, 1984, 1986, 1987, 1990, 1992, 1993."
     },
     {
       "year": 1994,
       "title": "Compact of Free Association + independence",
-      "description": "Compact of Free Association with US ratified 9 November 1993, effective 1 October 1994; Palau achieved independence 1 October 1994 from US Trust Territory framework. Last UN Trust Territory to achieve independence. Substantively distinctive Pacific last-UN-Trust-Territory-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Compact of Free Association with US ratified 9 November 1993, effective 1 October 1994; Palau achieved independence 1 October 1994 from US Trust Territory framework. Last UN Trust Territory to achieve independence."
     },
     {
       "year": 1995,
       "title": "Palau UN membership + sovereign-state framework",
-      "description": "Palau admitted to UN 15 December 1994 — substantively distinctive Pacific UN-membership-via-Compact framework. Substantial sovereign-state framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice."
+      "description": "Palau admitted to UN 15 December 1994."
     },
     {
       "year": 1995,
@@ -97,17 +100,17 @@
     {
       "year": 2009,
       "title": "Palau Sanctuary 2009 + climate-change-vulnerability framework",
-      "description": "Palau established world's first shark sanctuary 24 September 2009 — substantively distinctive Pacific environmental-conservation framework. Substantive Pacific Islands Forum climate-change-vulnerability framework substantively significant. Subsequent Palau National Marine Sanctuary 2015 framework."
+      "description": "Palau established world's first shark sanctuary 24 September 2009. Substantive Pacific Islands Forum climate-change-vulnerability framework substantively significant. Subsequent Palau National Marine Sanctuary 2015 framework."
     },
     {
       "year": 2023,
       "title": "Compact of Free Association Renewed Agreements + Compact-II framework",
-      "description": "Compact of Free Association Renewed Agreements substantively reforming defense + economic framework through 2023-2024. Substantive 20-year renewal framework affecting subsequent constitutional-democratic-trajectory and family-law-cross-cutting-areas including expat-family contexts. China-Taiwan relations affecting Compact framework."
+      "description": "Compact of Free Association Renewed Agreements substantively reforming defense, economic framework through 2023-2024. China-Taiwan relations affecting Compact framework."
     },
     {
       "year": 2022,
       "title": "Taiwan-recognition framework continuation + Ombudsman framework + Palau-US joint security framework",
-      "description": "Palau continuing Taiwan-recognition framework substantively distinctive Pacific Islands diplomatic-engagement framework (alongside Marshall Islands, Tuvalu). Office of the Ombudsman institutional framework addressing PA-related issues within National Code Title 21 + Belauan matrilineal customary-law framework. Palau-US joint security framework substantively significant Pacific institutional context. Substantively significant Pacific institutional jurisprudential development."
+      "description": "Office of the Ombudsman institutional framework addressing PA-related issues within National Code Title 21, Belauan matrilineal customary-law framework. Palau-US joint security framework substantively significant Pacific institutional context. Substantively significant Pacific institutional jurisprudential development."
     },
     {
       "year": 2024,

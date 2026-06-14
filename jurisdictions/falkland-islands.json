@@ -4,7 +4,9 @@
   "name": "Falkland Islands (Islas Malvinas - Argentine claim)",
   "jurisdiction_code": "FK",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Falkland Islands is a South Atlantic common-law British Overseas Territory — structurally distinctive within the corpus as subject to ongoing sovereignty dispute with Argentina (which claims the territory as Islas Malvinas), and as the site of the 1982 Falklands War. Family-law framework operates under the Matrimonial Causes Ordinance, the Children Ordinance 1994, and the Family Maintenance Ordinance. Parental responsibility and child custody are governed by Children Ordinance 1994 Part II. The Court of Appeal of the Falkland Islands is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Supreme Court of the Falkland Islands and Magistrates' Court. Psychology profession is regulated through the King Edward VII Memorial Hospital framework. Falkland Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Falkland Islands is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986. Argentina disputes the UK's territorial application of Hague Convention 1980 to Falkland Islands.",
@@ -55,27 +57,27 @@
     {
       "year": 1690,
       "title": "First English landing + Falkland-Sound-naming framework",
-      "description": "Captain John Strong of HMS Welfare made first recorded English landing 27 January 1690 — naming Falkland Sound after Viscount Falkland. Foundational pre-British-settlement-1833 framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Captain John Strong of HMS Welfare made first recorded English landing 27 January 1690 — naming Falkland Sound after Viscount Falkland."
     },
     {
       "year": 1833,
       "title": "British re-establishment of sovereignty + post-Argentine-claim framework",
-      "description": "British re-establishment of sovereignty 3 January 1833 — substantively distinctive South Atlantic British-territorial-acquisition framework following 1820 Argentine claim. Foundational 193+ year Falkland-British-Crown framework affecting subsequent Anglo-Argentine-territorial-dispute-trajectory."
+      "description": "British re-establishment of sovereignty 3 January 1833."
     },
     {
       "year": 1965,
       "title": "UN Resolution 2065 + Anglo-Argentine-negotiation framework",
-      "description": "UN General Assembly Resolution 2065 (XX) 16 December 1965 calling for Anglo-Argentine negotiations on Falkland Islands sovereignty — substantively distinctive globally only-UK-BOT-with-UN-resolution-calling-for-sovereignty-negotiation framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "UN General Assembly Resolution 2065 (XX) 16 December 1965 calling for Anglo-Argentine negotiations on Falkland Islands sovereignty."
     },
     {
       "year": 1982,
       "title": "Falklands War + UN-self-determination framework",
-      "description": "Argentine invasion 2 April 1982 and subsequent British recapture 14 June 1982 of Falkland Islands — 74-day Falklands War. UN Resolution 502 demanded Argentine withdrawal. Substantive UN Resolution affirms Falkland Islanders' right to self-determination. Foundational substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Argentine invasion 2 April 1982 and subsequent British recapture 14 June 1982 of Falkland Islands — 74-day Falklands War. UN Resolution 502 demanded Argentine withdrawal. Substantive UN Resolution affirms Falkland Islanders' right to self-determination."
     },
     {
       "year": 1986,
       "title": "Hague Convention 1980 territorial extension + Argentine-dispute framework",
-      "description": "Hague Convention 1980 territorial extension by UK to Falkland Islands effective 1 August 1986 — substantively distinctive globally only-state-with-Argentine-disputed-Hague-Convention-territorial-application framework. Argentina disputes the UK's territorial application of Hague Convention 1980 to Falkland Islands."
+      "description": "Hague Convention 1980 territorial extension by UK to Falkland Islands effective 1 August 1986. Argentina disputes the UK's territorial application of Hague Convention 1980 to Falkland Islands."
     },
     {
       "year": 1991,
@@ -85,7 +87,7 @@
     {
       "year": 1994,
       "title": "Children Ordinance 1994",
-      "description": "Federal Children Ordinance enacted codifying welfare-of-the-child principle, parental responsibility, custody, and children's protection provisions. Foundational substantive children's-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Federal Children Ordinance enacted codifying welfare principle, parental responsibility, custody, and children's protection provisions."
     },
     {
       "year": 2009,
@@ -95,7 +97,7 @@
     {
       "year": 2013,
       "title": "Sovereignty referendum 2013 + 99.8% UK-status-confirmation framework",
-      "description": "Falkland Islanders sovereignty referendum 10-11 March 2013 — substantively distinctive globally 99.8% in favour of remaining a UK Overseas Territory framework (vs Argentine sovereignty). Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Falkland Islanders sovereignty referendum 10-11 March 2013."
     },
     {
       "year": 2023,

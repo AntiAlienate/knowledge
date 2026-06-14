@@ -4,7 +4,10 @@
   "name": "Tonga (Kingdom of Tonga / Pule'anga Fakatu'i 'o Tonga)",
   "jurisdiction_code": "TO",
   "legal_system": "common-law",
-  "language": ["to", "en"],
+  "language": [
+    "to",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Tonga is a Pacific Island common-law constitutional monarchy whose family-law framework operates under the Marriage Act, the Divorce Act, the Maintenance of Deserted Wives Act, and the Family Protection Act 2013. Tonga is structurally distinctive within the Pacific cluster as the only never-colonised Pacific Island state (Protectorate status under UK 1900-1970 without formal colonisation). Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Privy Council of Tonga (Privi Kausilio 'o Tonga) is the apex appellate court for civil and criminal matters; the Court of Appeal sits beneath the Privy Council. Family-law matters are heard at first instance in the Supreme Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Tonga is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Tonga is non-Hague Convention.",
@@ -62,27 +65,27 @@
     {
       "year": 1845,
       "title": "Tāufaʻāhau Tupou I + Tongan-monarchical-unification framework",
-      "description": "Tāufaʻāhau Tupou I assumed throne 4 December 1845 substantively unifying Tonga under single monarchy — substantively distinctive Pacific Polynesian monarchical-unification framework. Foundational Tupou-dynasty framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
+      "description": "Tāufaʻāhau Tupou I assumed throne 4 December 1845 substantively unifying Tonga under single monarchy. Foundational Tupou-dynasty framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1875,
       "title": "Constitution of Tonga 1875 + first-Pacific-Constitution framework",
-      "description": "Constitution of Tonga adopted 4 November 1875 by Tāufaʻāhau Tupou I — substantively distinctive globally one of oldest-written-constitutions still in force (with substantial subsequent amendments). Substantively distinctive globally first-Pacific-Constitution framework. Foundational substantive-constitutional framework affecting subsequent family-law-jurisprudence."
+      "description": "Constitution of Tonga adopted 4 November 1875 by Tāufaʻāhau Tupou I."
     },
     {
       "year": 1900,
       "title": "British Protectorate established + Treaty of Friendship framework",
-      "description": "British Protectorate over Tonga established under Treaty of Friendship 18 May 1900 — Tonga retained internal sovereignty as Protectorate without formal colonisation. Substantively distinctive Pacific never-formally-colonised framework. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "British Protectorate over Tonga established under Treaty of Friendship 18 May 1900 — Tonga retained internal sovereignty as Protectorate without formal colonisation."
     },
     {
       "year": 1926,
       "title": "Marriage Act 1926 + Divorce Act 1927 + statutory framework consolidation",
-      "description": "Marriage Act 1926 and Divorce Act 1927 enacted — federal statutes on marriage and divorce drawing on English-statutory-heritage. Foundational statutory framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Marriage Act 1926 and Divorce Act 1927 enacted — federal statutes on marriage and divorce drawing on English-statutory-heritage."
     },
     {
       "year": 1970,
       "title": "Full independence + Commonwealth-membership framework",
-      "description": "Protectorate status terminated 4 June 1970; Tonga assumed full external sovereignty under Tāufaʻāhau Tupou IV. Tonga Commonwealth-of-Nations membership 4 June 1970. Substantively distinctive Pacific Kingdom-Commonwealth-membership framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Protectorate status terminated 4 June 1970; Tonga assumed full external sovereignty under Tāufaʻāhau Tupou IV. Tonga Commonwealth-of-Nations membership 4 June 1970."
     },
     {
       "year": 1995,
@@ -102,7 +105,7 @@
     {
       "year": 2022,
       "title": "Hunga Tonga–Hunga Ha'apai volcanic eruption + tsunami + reconstruction framework",
-      "description": "Hunga Tonga–Hunga Ha'apai volcanic eruption 15 January 2022 — substantively distinctive globally largest volcanic eruption in 21st century with associated tsunami. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory. Substantively significant Pacific climate-disaster-vulnerability framework."
+      "description": "Hunga Tonga–Hunga Ha'apai volcanic eruption 15 January 2022. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory. Substantively significant Pacific climate-disaster-vulnerability framework."
     },
     {
       "year": 2023,

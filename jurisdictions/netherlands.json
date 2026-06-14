@@ -4,7 +4,9 @@
   "name": "Netherlands (Koninkrijk der Nederlanden)",
   "jurisdiction_code": "NL",
   "legal_system": "civil-law",
-  "language": ["nl"],
+  "language": [
+    "nl"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "The Netherlands is a civil-law jurisdiction whose family courts (rechtbank — sector familie- en jeugdrecht) operate under Boek 1 Burgerlijk Wetboek (BW Book 1) arts. 245-377h and the Wet bevordering voortgezet ouderschap en zorgvuldige scheiding 2009. The statutory framework is silent on the 'parental alienation' label as a diagnostic category. The Hoge Raad has not endorsed PAS as a syndrome but applies belang van het kind under BW 1:247 in contact-refusal cases. The Nederlands Instituut van Psychologen (NIP) and Raad voor Strafrechtstoepassing en Jeugdbescherming (RSJ) have expressed institutional caution. The Bijzonder Curator (special-curator-for-the-child) framework under BW 1:250 provides distinctive child-representation mechanism. Netherlands sits in the institutional-caution camp alongside Germany, France, Italy, Spain — though without an explicit apex-court PAS-critique ruling.",
@@ -126,11 +128,9 @@
   ],
   "structural_findings": [
     "Netherlands operates a structurally distinctive civil-law family-law framework — BW Boek 1 + Wet voortgezet ouderschap 2009 + ouderschapsplan requirement — with substantive belang van het kind analysis without doctrinal 'oudervervreemding' label adoption.",
-    "The Bijzonder Curator (BW 1:250) child-representation mechanism is substantively distinctive globally — operationally significant for child-voice representation in contact-refusal disputes within the institutional-caution framework.",
     "Institutional position is caution-aligned: NIP psychological-professional caution + RSJ institutional reports + GREVIO Netherlands monitoring converge on warning against PAS-instrumentalisation — placing Netherlands alongside Germany (BVerfG 2023), France (Défenseure des droits 2023), Italy (Cass. civ. 2021-2022), and Spain (CGPJ guides) in the European institutional-critique cluster — though without an explicit apex-court PAS-critique ruling."
   ],
   "editorial_notes": [
-    "The Bijzonder Curator framework under BW 1:250 is substantively distinctive globally as a statutorily-established child-representation mechanism — operationally significant for European child-voice framework comparative analysis.",
     "Netherlands' institutional-caution position operates through GREVIO + NIP + RSJ rather than apex-court doctrinal critique — distinguishing it from Italy (Cass. civ. ord. 13217/2021 + 9691/2022) and Germany (BVerfG 1 BvR 1076/23 2023) doctrinal positions."
   ]
 }

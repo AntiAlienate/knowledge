@@ -4,7 +4,10 @@
   "name": "Caribbean Netherlands (Bonaire, Sint Eustatius and Saba / BES Islands)",
   "jurisdiction_code": "BQ",
   "legal_system": "civil-law",
-  "language": ["nl", "pap"],
+  "language": [
+    "nl",
+    "pap"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Caribbean Netherlands (BES Islands: Bonaire, Sint Eustatius and Saba) is a Caribbean civil-law special-municipality grouping of the Netherlands — structurally distinctive within the Kingdom of the Netherlands as the only constituent territory directly integrated into the Netherlands as special municipalities (openbaar lichaam) rather than constituent country status (since 10 October 2010 dissolution of Netherlands Antilles). Family-law framework operates under the Dutch Civil Code (Burgerlijk Wetboek) Book 1 with BES-specific adaptations via the BES Implementation Acts. Parental authority (ouderlijk gezag) and child custody are governed by Civil Code Book 1 arts. 245-298. The Joint Court of Justice of Aruba, Curaçao, Sint Maarten and BES Islands (Gemeenschappelijk Hof) is the apex appellate court; final appellate jurisdiction was retained with the Dutch Supreme Court (Hoge Raad). Family-law matters are heard at first instance in the Court of First Instance (Gerecht in Eerste Aanleg). Psychology profession is regulated through the Dutch Health and Youth Care Inspectorate. BES Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. BES Islands is a Hague Convention 1980 party via Kingdom of the Netherlands territorial extension effective 1 September 1990.",
@@ -80,7 +83,7 @@
     {
       "year": 2010,
       "title": "Dissolution of Netherlands Antilles + BES special-municipality status",
-      "description": "Netherlands Antilles dissolved 10 October 2010 — Curaçao and Sint Maarten became constituent countries within Kingdom of the Netherlands. Bonaire, Sint Eustatius and Saba became special municipalities (openbaar lichaam) directly integrated into the Netherlands rather than constituent country status. Substantively distinctive globally: only direct Caribbean integration into European Member State."
+      "description": "Netherlands Antilles dissolved 10 October 2010 — Curaçao and Sint Maarten became constituent countries within Kingdom of the Netherlands. Bonaire, Sint Eustatius and Saba became special municipalities (openbaar lichaam) directly integrated into the Netherlands rather than constituent country status."
     },
     {
       "year": 2010,
@@ -100,7 +103,7 @@
     {
       "year": 2023,
       "title": "Special-municipality 13-year framework + RCN Curaçao framework + BES Islands institutional consolidation",
-      "description": "Bonaire special-municipality 13-year framework consolidation through 2023 — substantively distinctive Caribbean Netherlands special-municipality institutional framework. Rijksdienst Caribisch Nederland (RCN) Curaçao framework substantively significant for cross-island institutional coordination. BES Islands (Bonaire, Sint Eustatius, Saba) institutional consolidation framework substantively significant. Substantively significant Caribbean Dutch institutional jurisprudential development."
+      "description": "Bonaire special-municipality 13-year framework consolidation through 2023. Rijksdienst Caribisch Nederland (RCN) Curaçao framework substantively significant for cross-island institutional coordination. BES Islands (Bonaire, Sint Eustatius, Saba) institutional consolidation framework substantively significant. Substantively significant Caribbean Dutch institutional jurisprudential development."
     },
     {
       "year": 2024,

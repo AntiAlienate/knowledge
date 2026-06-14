@@ -4,7 +4,9 @@
   "name": "Guyana (Co-operative Republic of Guyana)",
   "jurisdiction_code": "GY",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Guyana is a South American/Caribbean mixed-legal-system republic combining Roman-Dutch civil-law substantive heritage (via Dutch colonial inheritance pre-1814) with English common-law procedural inheritance (post-1814). Within the Caribbean cluster, Guyana shares the Roman-Dutch substantive heritage uniquely (with Sri Lanka and Southern African Roman-Dutch cluster). Family-law framework operates under the Family and Dependants Provision Act, Married Persons (Property) Act, Maintenance Act, and Status of Children Act 2009. Parental responsibility and child custody are governed by case-law applying the welfare-of-the-child principle. The Court of Appeal of Guyana is the apex domestic court for civil and criminal matters; the Caribbean Court of Justice (CCJ) is the final appellate court — Guyana is a founding member of the CCJ's appellate jurisdiction (transferred from JCPC in 2005). Family-law matters are heard at first instance in the Magistrates' Family Court and High Court (Family Division). Psychology profession is regulated through the Ministry of Health framework. Guyana is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Guyana is non-Hague Convention.",
@@ -62,32 +64,32 @@
     {
       "year": 1581,
       "title": "Dutch-West-India-Company-colonisation + Roman-Dutch-civil-law-substantive-heritage framework",
-      "description": "Dutch West India Company colonisation of Essequibo, Demerara, and Berbice 1581 onwards — substantively distinctive Caribbean Dutch-West-India-Company-Roman-Dutch-substantive-heritage framework. Foundational substantive Roman-Dutch civil-law framework persisting through 1814 British acquisition affecting subsequent reform-trajectory."
+      "description": "Dutch West India Company colonisation of Essequibo, Demerara, and Berbice 1581 onwards."
     },
     {
       "year": 1814,
       "title": "British colonial inheritance + Anglo-Dutch-Treaty-1814 framework",
-      "description": "British colonial administration commenced 13 August 1814 after Dutch colonial period — substantively distinctive Caribbean Roman-Dutch-substantive-+-English-common-law-procedural-hybrid framework. Foundational substantive 152-year colonial framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "British colonial administration commenced 13 August 1814 after Dutch colonial period."
     },
     {
       "year": 1831,
       "title": "British Guiana Colony + United-British-Guiana framework",
-      "description": "British Guiana Colony established 17 March 1831 unifying Essequibo, Demerara, and Berbice — substantively distinctive Caribbean British-Guiana-Colony framework. Foundational pre-1966-independence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "British Guiana Colony established 17 March 1831 unifying Essequibo, Demerara, and Berbice."
     },
     {
       "year": 1966,
       "title": "Independence + Westminster-framework + Commonwealth-realm framework",
-      "description": "Guyana achieved independence from the United Kingdom 26 May 1966 — substantively distinctive Caribbean Westminster-framework-+-Commonwealth-realm framework with Queen Elizabeth II as initial Queen of Guyana. Foundational pre-1970-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Guyana achieved independence from the United Kingdom 26 May 1966."
     },
     {
       "year": 1970,
       "title": "Republic transition + Co-operative-Republic + first-Caribbean-republic framework",
-      "description": "Guyana became Co-operative Republic 23 February 1970 — substantively distinctive globally first-Caribbean-former-British-monarchy-to-transition-to-republic framework. Substantive Forbes Burnham PNC presidency + Co-operative-Republic-socialist-aspirations affecting subsequent constitutional-democratic-trajectory."
+      "description": "Guyana became Co-operative Republic 23 February 1970. Substantive Forbes Burnham PNC presidency, Co affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1981,
       "title": "Maintenance Act + family-maintenance framework",
-      "description": "Maintenance Act 1981 enacted establishing federal statute on maintenance obligations including child support — substantively significant Caribbean Roman-Dutch-+-English-common-law-hybrid maintenance framework. Foundational substantive maintenance framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Maintenance Act 1981 enacted establishing federal statute on maintenance obligations including child support — substantively significant Caribbean Roman-Dutch-+-English maintenance framework."
     },
     {
       "year": 1991,
@@ -97,12 +99,12 @@
     {
       "year": 2005,
       "title": "CCJ appellate jurisdiction transfer + founding-member-+-CCJ-first-state framework",
-      "description": "Guyana transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 16 April 2005 — substantively distinctive globally founding-member-of-CCJ-appellate-jurisdiction-+-first-state-to-transfer framework. Substantive Caribbean Court of Justice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Guyana transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 16 April 2005."
     },
     {
       "year": 2009,
       "title": "Status of Children Act + legal-status-of-children-out-of-wedlock framework",
-      "description": "Status of Children Act 2009 enacted establishing federal statute on legal status of children including those born to unmarried parents — substantively significant Caribbean Status-of-Children framework. Foundational substantive child-rights framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Status of Children Act 2009 enacted establishing federal statute on legal status of children including those born to unmarried parents — substantively significant Caribbean Status-of-Children framework."
     },
     {
       "year": 2023,

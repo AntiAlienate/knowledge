@@ -437,7 +437,7 @@ Mumbai / New Delhi · Maharashtra / [Supreme Court of India](https://main.sci.go
 **Stance:** Critique-adjacent register anchor for the Indian PA debate. Institutional architect of India's Protection of Women from Domestic Violence Act 2005 + apex-court counsel in Githa Hariharan v Reserve Bank of India (1999) 2 SCC 228 (mother as natural guardian on par with father). Lawyers Collective co-founder 1981 institutionalised the women's-rights / DV-protection bar in India. Explicit PA-specific public stance not located in primary sources; classified critique on the strength of her DV-Act drafting and women's-rights apex-court register, which underpins any critique-camp framing of PA-as-DV-shield concerns. Country_code: IN.
 
 **Publications:**
-- Githa Hariharan v Reserve Bank of India (1999) 2 SCC 228 — counsel establishing mother as natural guardian (1999) — *Supreme Court of India*
+- Githa Hariharan v Reserve Bank of India (1999) 2 SCC 228 — counsel establishing mother as natural guardian (1999) — *[Supreme Court of India](https://main.sci.gov.in/)*
 - Drafting of Protection of Women from Domestic Violence Act 2005 (2005) — *Parliament of India*
 - Envisioning a Law for the Indian Woman — A Recollection (2022) — *The Leaflet* — <https://theleaflet.in/staying-alive/envisioning-a-law-for-the-indian-woman-a-recollection-by-indira-jaising>
 - Lawyers Collective institutional DV / women's-rights output (co-founder 1981) (1981) — *Lawyers Collective*
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

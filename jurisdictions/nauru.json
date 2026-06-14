@@ -4,7 +4,10 @@
   "name": "Nauru",
   "jurisdiction_code": "NR",
   "legal_system": "mixed",
-  "language": ["en", "na"],
+  "language": [
+    "en",
+    "na"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Nauru is a Pacific mixed common-law/customary-law sovereign republic (independence from UN Trust Territory administration 31 January 1968) — structurally distinctive globally as the world's smallest UN member state by land area (~21 km²) and population (~12,500), the world's third-smallest sovereign state overall (after Vatican City and Monaco), and as the long-term host site of Australia's offshore Regional Processing Centre (RPC) for asylum-seekers under the Pacific Solution arrangement (originally 2001-2008, reopened 2012-present), which has generated extensive international human-rights litigation and oversight scrutiny including Refugee Council of Australia v Commonwealth (2019) and Plaintiff S99/2016 v Minister for Immigration and Border Protection (HCA 2016). Nauru is the only sovereign state currently recognising Taiwan (Republic of China) among Pacific island states since the May 2024 switching of recognition from Taiwan back to PRC — actually no, Nauru switched its recognition from Taiwan to PRC on 15 January 2024. Family-law framework operates under a dual common-law (English-derived) + Nauruan customary-law framework. Parental authority and child custody operate under the Family Court Act 1973 and Custody of Children Act. The Supreme Court of Nauru is the apex domestic court; final appellate jurisdiction lies with the Court of Appeal of Nauru (since 2018, replacing the High Court of Australia which was the apex appellate court from 1976-2018 under the Nauru (High Court Appeals) Act 1976 — a unique constitutional arrangement). Psychology profession is informally regulated. Nauru is silent on 'parental alienation' as a statutory label. Nauru is not a party to the Hague Convention 1980.",
@@ -69,27 +72,27 @@
     {
       "year": 1888,
       "title": "German Protectorate + Marshall-Islands-Protectorate-extension framework",
-      "description": "German annexation of Nauru 16 April 1888 as part of Marshall Islands Protectorate — substantively distinctive Pacific German-colonial framework. Subsequent Australian/Japanese WWI/WWII administration affecting subsequent constitutional-administrative-trajectory. Foundational pre-1947-UN-Trust-Territory framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "German annexation of Nauru 16 April 1888 as part of Marshall Islands Protectorate. Subsequent Australian/Japanese WWI/WWII administration affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1947,
       "title": "UN-Trust-Territory + Australia-New-Zealand-UK-joint-administration framework",
-      "description": "UN Trust Territory of Nauru established 1 November 1947 under Australia-New-Zealand-UK joint administration — substantively distinctive Pacific UN-Trust-Territory-tripartite-administration framework. Foundational substantive 21-year UN-Trust-Territory framework persisting through 1968 independence affecting subsequent constitutional-administrative-trajectory."
+      "description": "UN Trust Territory of Nauru established 1 November 1947 under Australia joint administration."
     },
     {
       "year": 1968,
       "title": "Independence + Constitution-of-Nauru-+-republic-establishment framework",
-      "description": "Nauru achieved independence from the UN Trust Territory administration 31 January 1968 + Constitution of Nauru establishing republic constitutional framework — substantively distinctive globally world's-smallest-UN-member-state-by-land-area-21km2 framework. Foundational substantive 58-year Nauruan-republic framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Nauru achieved independence from the UN Trust Territory administration 31 January 1968, Constitution of Nauru establishing republic constitutional framework."
     },
     {
       "year": 1973,
       "title": "Family Court Act 1973 + Custody-of-Children-Act framework",
-      "description": "Nauruan Family Court Act 1973 + Custody of Children Act 1973 enacted establishing family-law framework — substantively significant Pacific Nauruan-family-law framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Nauruan Family Court Act 1973, Custody of Children Act 1973 enacted establishing family-law framework — substantively significant Pacific Nauruan-family-law framework."
     },
     {
       "year": 1976,
       "title": "Nauru (High Court Appeals) Act + Australia-HCA-appellate-jurisdiction-+-bilateral-statute framework",
-      "description": "Australian Federal Act 1976 establishing the High Court of Australia as the apex appellate court for Nauru — substantively distinctive globally only-sovereign-state-appellate-jurisdiction-arrangement-with-another-sovereign-state's-apex-court-via-bilateral-statute framework. Foundational substantive 42-year Australian-HCA-appellate-jurisdiction-for-Nauru framework persisting through 2018 repeal."
+      "description": "Australian Federal Act 1976 establishing the High Court of Australia as the apex appellate court for Nauru."
     },
     {
       "year": 1994,
@@ -99,22 +102,22 @@
     {
       "year": 1999,
       "title": "UN membership + 188th-UN-member-state framework",
-      "description": "Nauru joined the United Nations 14 September 1999 — substantively distinctive Pacific UN-member-state framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Nauru joined the United Nations 14 September 1999."
     },
     {
       "year": 2001,
       "title": "Australian Pacific Solution Regional Processing Centre + offshore-asylum-processing framework",
-      "description": "Australian Pacific Solution Regional Processing Centre (RPC) established on Nauru 2001-2008 + reopened 2012-present — substantively distinctive globally only-sovereign-state-offshore-asylum-processing-arrangement-with-extensive-international-human-rights-litigation-footprint framework. Substantive demographic and constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Australian Pacific Solution Regional Processing Centre (RPC) established on Nauru 2001-2008, reopened 2012-present."
     },
     {
       "year": 2018,
       "title": "Court of Appeal of Nauru + replacement-of-Australia-HCA-+-Nauru-Act-1976-repeal framework",
-      "description": "Nauru established its own Court of Appeal 2018 replacing the High Court of Australia as apex appellate court — substantively distinctive globally Pacific-sovereign-state-replacement-of-bilateral-apex-court-arrangement framework. Australian Nauru (High Court Appeals) Act 1976 repealed. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Nauru established its own Court of Appeal 2018 replacing the High Court of Australia as apex appellate court. Australian Nauru (High Court Appeals) Act 1976 repealed."
     },
     {
       "year": 2024,
       "title": "Switch of recognition from Taiwan to PRC + Pacific-Belt-and-Road context framework",
-      "description": "Nauru switched diplomatic recognition from Taiwan (Republic of China) to People's Republic of China (PRC) 15 January 2024 — substantively distinctive Pacific Belt-and-Road-Initiative-+-PRC-recognition-pattern framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Nauru switched diplomatic recognition from Taiwan (Republic of China) to People's Republic of China (PRC) 15 January 2024."
     },
     {
       "year": 2024,

@@ -4,7 +4,9 @@
   "name": "Namibia (Republic of Namibia)",
   "jurisdiction_code": "NA",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Namibia is a Southern African mixed-legal-system republic combining Roman-Dutch civil-law substantive heritage (via South African Cape Colony administration) with English common-law procedural inheritance and customary-law personal-status jurisdiction via Community Courts (under the Community Courts Act 10/2003). Family-law framework operates under the Child Care and Protection Act 3/2015, Marriage Act 25/1961, Married Persons Equality Act 1/1996, and Recognition of Customary Marriages Bill (pending). Parental responsibility and child custody are governed by Child Care and Protection Act Parts III-IV. The Supreme Court of Namibia is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Health Professions Councils of Namibia under the Allied Health Professions Council framework with the Psychology Association of Namibia operating professional standards. Namibia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Child Care and Protection Act s. 3. Namibia is non-Hague Convention.",
@@ -61,22 +63,22 @@
     {
       "year": 1904,
       "title": "Herero and Namaqua genocide + German-colonial framework",
-      "description": "Herero and Namaqua genocide 1904-1908 by German Empire — substantively distinctive globally first-genocide-of-20th-century framework with estimated 80% of Herero and 50% of Namaqua populations killed. Foundational pre-South-African-administration framework substantively affecting subsequent demographic and constitutional-democratic-trajectory."
+      "description": "Herero and Namaqua genocide 1904-1908 by German Empire. Foundational pre framework substantively affecting subsequent demographic and constitutional-democratic-trajectory."
     },
     {
       "year": 1920,
       "title": "South African Mandate + League-of-Nations-Mandate + South-West-Africa framework",
-      "description": "South African Mandate over South-West Africa established 17 December 1920 under League of Nations Mandate framework. Subsequent UN-revocation 1966 + ongoing-South-African-administration 1920-1990 substantively distinctive Southern-African 70-year-administration framework. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "South African Mandate over South-West Africa established 17 December 1920 under League of Nations Mandate framework."
     },
     {
       "year": 1966,
       "title": "Namibian War of Independence + SWAPO + Cuito Cuanavale framework",
-      "description": "Namibian War of Independence (South African Border War) 26 August 1966 – 21 March 1990 — SWAPO (South West Africa People's Organisation) led by Sam Nujoma. Substantive Battle of Cuito Cuanavale 1987-1988 substantively significant Cold-War-era African armed-conflict framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Namibian War of Independence (South African Border War) 26 August 1966 – 21 March 1990 — SWAPO (South West Africa People's Organisation) led by Sam Nujoma."
     },
     {
       "year": 1990,
       "title": "Independence and Constitution + Sam Nujoma founding-presidency",
-      "description": "Namibian independence 21 March 1990 from South African administration — Sam Nujoma first president 1990-2005. Constitution of Namibia 1990 adopted with retention of Roman-Dutch civil-law heritage. Substantively distinctive Southern African last-major-decolonisation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Namibian independence 21 March 1990 from South African administration — Sam Nujoma first president 1990-2005. Constitution of Namibia 1990 adopted with retention of Roman-Dutch civil-law heritage."
     },
     {
       "year": 1990,
@@ -86,12 +88,12 @@
     {
       "year": 1996,
       "title": "Married Persons Equality Act",
-      "description": "Federal statute on marital equality and parental rights post-independence — Act 1/1996 substantively reforming colonial-era marital framework. Substantively distinctive Southern African post-apartheid marital-equality framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal statute on marital equality and parental rights post-independence — Act 1/1996 substantively reforming colonial-era marital framework."
     },
     {
       "year": 2003,
       "title": "Community Courts Act",
-      "description": "Federal statute establishing Community Courts for customary-law jurisdiction Act 10/2003 — substantively significant Southern African customary-law-recognition framework. Foundational substantive-customary-law framework persisting through subsequent reform-trajectory."
+      "description": "Federal statute establishing Community Courts for customary-law jurisdiction Act 10/2003 — substantively significant Southern African customary-law-recognition framework."
     },
     {
       "year": 2015,
@@ -101,7 +103,7 @@
     {
       "year": 2021,
       "title": "German genocide-recognition + reparations-framework + 1.1-billion-euro-package",
-      "description": "Germany formally recognised Herero and Namaqua genocide May 2021 — substantively distinctive globally first-formal-acknowledgement-by-perpetrator-state framework. Substantive €1.1 billion reconciliation package framework affecting subsequent constitutional-democratic-trajectory and historical-reparations framework."
+      "description": "Germany formally recognised Herero and Namaqua genocide May 2021."
     },
     {
       "year": 2023,
@@ -111,7 +113,7 @@
     {
       "year": 2024,
       "title": "Supreme Court of Namibia + Community Courts — best-interests-of-the-child substantive register + Netumbo Nandi-Ndaitwah presidency",
-      "description": "Supreme Court of Namibia and Community Courts continue to develop best-interests-of-the-child jurisprudence under Child Care and Protection Act 2015 s. 3 + Married Persons Equality Act 1996 + Community Courts Act 2003 framework in custody disputes. Netumbo Nandi-Ndaitwah (SWAPO) elected President November 2024 — substantively distinctive Southern African first-female-president of Namibia framework. Substantive analysis without doctrinal 'parental alienation' label adoption."
+      "description": "Supreme Court of Namibia and Community Courts continue to develop best jurisprudence under Child Care and Protection Act 2015 s. 3, Married Persons Equality Act 1996, Community Courts Act 2003 framework in custody disputes. Netumbo Nandi-Ndaitwah (SWAPO) elected President November 2024. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [

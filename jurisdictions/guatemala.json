@@ -4,7 +4,9 @@
   "name": "Guatemala (Republic of Guatemala / República de Guatemala)",
   "jurisdiction_code": "GT",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Guatemala is a Central American civil-law republic whose family-law framework operates under the Civil Code 1963 (Decreto Ley 106) Book I (Persons and Family), supplemented by the Children and Adolescents Protection Code 2003 (Decreto 27-2003) and the Family Court Law. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 252-282. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Corte de Constitucionalidad) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos de Guatemala under the Professional Colleges Law. Guatemala is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Protection Code art. 5. Guatemala acceded to the Hague Convention 1980 effective 1 May 2002.",
@@ -55,17 +57,17 @@
     {
       "year": 1821,
       "title": "Guatemala independence + Central-American-Federation framework",
-      "description": "Guatemala independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Guatemala independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework."
     },
     {
       "year": 1954,
       "title": "1954 Guatemalan coup d'état + CIA-backed Castillo Armas + Cold-War framework",
-      "description": "1954 Guatemalan coup d'état 18-27 June 1954 — CIA-backed (Operation PBSUCCESS) overthrow of democratically-elected Jacobo Árbenz. Substantively distinctive Cold-War-era US-Latin-American intervention pattern. Foundational pre-civil-war framework affecting subsequent political-institutional-trajectory."
+      "description": "1954 Guatemalan coup d'état 18-27 June 1954 — CIA-backed (Operation PBSUCCESS) overthrow of democratically-elected Jacobo Árbenz."
     },
     {
       "year": 1960,
       "title": "Guatemalan Civil War 1960-1996 + indigenous-genocide framework",
-      "description": "Guatemalan Civil War 1960-1996 — substantive 36-year conflict between government forces and leftist guerrilla groups with estimated 200,000 killed and 45,000 'disappeared'. Substantively distinctive Latin-American indigenous-genocide pattern documented by CEH Commission for Historical Clarification — particularly affecting Maya population (83% of victims) substantially affecting demographic and family-law-implementation framework."
+      "description": "Guatemalan Civil War 1960-1996 — substantive 36-year conflict between government forces and leftist guerrilla groups with estimated 200,000 killed and 45,000 'disappeared'."
     },
     {
       "year": 1963,
@@ -75,7 +77,7 @@
     {
       "year": 1985,
       "title": "Constitution 1985 + democratic-transition framework",
-      "description": "Constitution of Guatemala 1985 adopted 31 May 1985 (effective 14 January 1986) — substantively reforming political-institutional framework establishing contemporary constitutional-democratic framework. Foundational pre-1996-Peace-Accords framework affecting subsequent family-law-modernisation trajectory."
+      "description": "Constitution of Guatemala 1985 adopted 31 May 1985 (effective 14 January 1986) — substantively reforming political-institutional framework establishing contemporary constitutional-democratic framework."
     },
     {
       "year": 1990,

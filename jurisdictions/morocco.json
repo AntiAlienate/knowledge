@@ -4,7 +4,10 @@
   "name": "Morocco (Kingdom of Morocco / المملكة المغربية)",
   "jurisdiction_code": "MA",
   "legal_system": "mixed",
-  "language": ["ar", "fr"],
+  "language": [
+    "ar",
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Morocco is a North African mixed-legal-system constitutional monarchy combining French civil-law substantive heritage (via Protectorate inheritance) with Maliki-school Islamic-law personal-status jurisdiction codified in the 2004 Moudawana (Family Code). The 2004 Moudawana reform was a landmark MENA-region modernisation — abolishing male guardianship as automatic, raising marriage age to 18 for both sexes, introducing judicial divorce procedure, and codifying child welfare standards. Custody (hadana) and guardianship (wilaya) are governed by Moudawana arts. 163-186. The Court of Cassation (محكمة النقض) is the apex court for civil and criminal matters; the Constitutional Court (المحكمة الدستورية) operates constitutional review. Family-law matters are heard at first instance in specialised Family Sections of the Court of First Instance. Psychology profession is regulated through the Ministry of Health framework with the Moroccan Association of Clinical Psychologists operating professional standards. Morocco is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Moudawana art. 186. Morocco acceded to the Hague Convention 1980 effective 1 June 2010.",
@@ -60,17 +63,17 @@
     {
       "year": 1956,
       "title": "Morocco independence + Mohammed V + constitutional-monarchy framework",
-      "description": "Morocco independence 2 March 1956 from France (and 7 April 1956 from Spain) — establishing constitutional-monarchy under Mohammed V. Substantively distinctive Maghreb constitutional-monarchy framework. Foundational pre-2011-reform framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Morocco independence 2 March 1956 from France (and 7 April 1956 from Spain) — establishing constitutional-monarchy under Mohammed V."
     },
     {
       "year": 1957,
       "title": "Original Moudawana enacted + Maliki-jurisprudence framework",
-      "description": "First codification of Moroccan family-law on Maliki jurisprudential basis post-independence. Foundational pre-2004-reform Maliki Islamic-law framework persisting through subsequent reform-trajectory affecting subsequent constitutional-democratic-trajectory."
+      "description": "First codification of Moroccan family-law on Maliki jurisprudential basis post-independence."
     },
     {
       "year": 1961,
       "title": "Hassan II accession + 38-year-reign framework",
-      "description": "Hassan II succeeded Mohammed V 26 February 1961 — substantively distinctive Maghreb extended-reign framework 1961-1999 (38 years). Substantive 'Years of Lead' (Années de plomb) authoritarian framework substantially affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "Hassan II succeeded Mohammed V 26 February 1961. Substantive 'Years of Lead' (Années de plomb) authoritarian framework substantially affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
     },
     {
       "year": 1993,
@@ -79,13 +82,13 @@
     },
     {
       "year": 1999,
-      "title": "Mohammed VI accession + reform-trajectory framework",
-      "description": "Mohammed VI succeeded Hassan II 23 July 1999 — substantively distinctive reform-trajectory framework affecting subsequent constitutional-democratic-trajectory. Substantive Equity and Reconciliation Commission 2004-2005 framework establishing post-Hassan-II framework affecting family-law-modernisation."
+      "title": "",
+      "description": "Mohammed VI succeeded Hassan II 23 July 1999. Substantive Equity and Reconciliation Commission 2004-2005 framework establishing post-Hassan-II framework affecting family-law-modernisation."
     },
     {
       "year": 2004,
       "title": "Moudawana 2004 reform (Law 70-03)",
-      "description": "Landmark modernisation reform Law 70-03 of 3 February 2004 — abolishing automatic male guardianship, raising marriage age to 18 for both sexes, introducing judicial divorce procedure, codifying child welfare standards. Substantively distinctive most-progressive MENA-region family-law reform within the corpus. Arts. 163-186 govern hadana (custody) and wilaya (guardianship). Art. 186 codifies child's-best-interests standard."
+      "description": "Landmark modernisation reform Law 70-03 of 3 February 2004 — abolishing automatic male guardianship, raising marriage age to 18 for both sexes, introducing judicial divorce procedure, codifying child welfare standards. Arts. 163-186 govern hadana (custody) and wilaya (guardianship). Art. 186 codifies child's-best-interests standard."
     },
     {
       "year": 2010,
@@ -146,7 +149,7 @@
     }
   ],
   "editorial_notes": [
-    "Morocco jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full Mohammed-V-to-Mohammed-VI trajectory: 1956-Morocco-independence-+-Mohammed-V + 1957-Original-Moudawana + 1961-Hassan-II-+-38-year-reign-+-Years-of-Lead + 1993-UNCRC-ratification + 1999-Mohammed-VI-+-reform-trajectory + 2004-Moudawana-2004-reform-Law-70-03 + 2010-Hague-Convention-1980-accession + 2011-Arab-Spring-+-Constitution-+-monarchical-reform + 2018-Anti-Violence-Against-Women-Law-103-13 + 2024-Cour-de-Cassation-+-Moudawana-2024-reform.",
+    "Morocco jurisdiction sidecar v1.1.",
     "Mixed-legal-system framework (French civil-law substantive + Maliki Islamic-law personal-status). Moudawana 2004 + 2004 modernisation reforms + Hague Convention 1980 accession 2010.",
     "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive child's-best-interests analysis under Moudawana 2004 arts. 163-186 + art. 186 + Hague Convention 1980 framework without doctrinal 'parental alienation' label.",
     "Joins North-African/Maghreb + Maliki Islamic-law + Protectorate-inheritance + Mohammed-V-Hassan-II-Mohammed-VI-Alaouite-dynasty + Years-of-Lead-Hassan-II-1961-1999 + Equity-and-Reconciliation-Commission-2004-2005 + Moudawana-2004-most-progressive-MENA-distinctive + 20-February-Movement-Arab-Spring-2011 + Constitution-2011 + Anti-Violence-Against-Women-Law-103-13-2018 + Mohammed-VI-Moudawana-2024-reform + Hague-Convention-1980-accession-2010-earliest-MENA-alongside-Israel clusters within the corpus."

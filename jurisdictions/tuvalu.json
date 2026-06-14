@@ -4,7 +4,10 @@
   "name": "Tuvalu",
   "jurisdiction_code": "TV",
   "legal_system": "mixed",
-  "language": ["en", "tvl"],
+  "language": [
+    "en",
+    "tvl"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Tuvalu is a Pacific mixed common-law/customary-law sovereign Commonwealth realm (independence from UK 1 October 1978) — structurally distinctive globally as the first sovereign state to adopt a constitutional 'digital nation' framework to preserve sovereignty in the face of projected territorial submersion from sea-level rise (Tuvalu Constitution Amendment Act 2023 effective 19 September 2023 entrenched Tuvalu's perpetual statehood, maritime boundaries, and digital-sovereignty doctrine), and as one of three Polynesian states with traditional council-of-chiefs (Falekaupule) family-law authority operating alongside the Westminster legal framework. Tuvalu's nine atolls (highest natural elevation ~4.6 m above sea level) are widely projected to become uninhabitable by mid-21st century due to sea-level rise. The 2023 Falepili Union Treaty with Australia provides for special climate-mobility visa pathways from Tuvalu to Australia. Family-law framework operates under a dual common-law (English-derived) + Tuvaluan customary-law (aganu) framework via the Native Lands Act and Custom of Tuvalu Act. Parental authority and child custody operate under the Family Protection and Domestic Violence Act 2014. The High Court of Tuvalu is the apex domestic court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee) via Tuvalu Constitution s. 136. Family-law matters are heard at first instance in the High Court of Tuvalu and on customary-status matters via Falekaupule customary courts. Psychology profession is informally regulated; no formal psychology-licensing body exists. Tuvalu is silent on 'parental alienation' as a statutory label. Tuvalu acceded to the Hague Convention 1980 — not a party (one of the very few UN-member non-Hague-Convention-1980 states).",
@@ -69,22 +72,22 @@
     {
       "year": 1892,
       "title": "Gilbert and Ellice Islands Protectorate + British-Pacific-protectorate framework",
-      "description": "Gilbert and Ellice Islands Protectorate established 27 May 1892 — substantively distinctive Pacific British-protectorate-merger framework. Foundational pre-1975-Ellice-Islands-separation framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Gilbert and Ellice Islands Protectorate established 27 May 1892."
     },
     {
       "year": 1916,
       "title": "Gilbert and Ellice Islands Colony + Crown-Colony framework",
-      "description": "Gilbert and Ellice Islands Colony established 12 January 1916 — substantively reshaping Pacific Crown-Colony framework. Foundational pre-1975-Ellice-Islands-separation framework affecting subsequent constitutional-administrative-trajectory and 1974 separation referendum (92.7% in favour of separation from Gilbert Islands)."
+      "description": "Gilbert and Ellice Islands Colony established 12 January 1916 — substantively reshaping Pacific Crown-Colony framework."
     },
     {
       "year": 1975,
       "title": "Ellice Islands separation + Tuvalu-name-adoption framework",
-      "description": "Ellice Islands formally separated from Gilbert and Ellice Islands Colony 1 October 1975 — substantively distinctive Pacific colonial-separation-via-ethnic-referendum framework. Tuvalu name adopted (meaning 'Eight Standing Together' in Tuvaluan referring to eight inhabited atolls). Foundational pre-1978-independence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Ellice Islands formally separated from Gilbert and Ellice Islands Colony 1 October 1975. Tuvalu name adopted (meaning 'Eight Standing Together' in Tuvaluan referring to eight inhabited atolls)."
     },
     {
       "year": 1978,
       "title": "Independence from UK + Constitution-of-Tuvalu + Falekaupule-customary-authority framework",
-      "description": "Tuvalu achieved independence from the United Kingdom 1 October 1978 — substantively distinctive Pacific Commonwealth-realm framework with King-of-Tuvalu-Charles-III-via-Constitution. Constitution of Tuvalu 1978 establishing Westminster framework alongside Falekaupule (council-of-chiefs) customary-authority. Foundational substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Tuvalu achieved independence from the United Kingdom 1 October 1978. Constitution of Tuvalu 1978 establishing Westminster framework alongside Falekaupule (council-of-chiefs) customary-authority."
     },
     {
       "year": 1995,
@@ -94,27 +97,27 @@
     {
       "year": 2000,
       "title": "UN membership + 189th-member-state + .tv-domain-revenue framework",
-      "description": "Tuvalu joined the United Nations 5 September 2000 as the 189th member state — substantively distinctive Pacific UN-member-state framework. Substantive 2000 .tv-domain-VeriSign-licensing $50 million/decade revenue framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Tuvalu joined the United Nations 5 September 2000 as the 189th member state."
     },
     {
       "year": 2014,
       "title": "Family Protection and Domestic Violence Act + parental-responsibility framework",
-      "description": "Tuvaluan Family Protection and Domestic Violence Act 2014 establishing substantive family-protection-and-parental-responsibility framework — substantively significant Pacific Tuvaluan-family-law framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory."
+      "description": "Tuvaluan Family Protection and Domestic Violence Act 2014 establishing substantive family framework — substantively significant Pacific Tuvaluan-family-law framework."
     },
     {
       "year": 2022,
       "title": "Tuvalu COP27 underwater-cabinet-meeting + climate-vulnerability framework",
-      "description": "Tuvalu Foreign Minister Simon Kofe delivered COP27 address underwater 8 November 2022 from submerged podium — substantively distinctive globally first-state-cabinet-minister-to-address-international-conference-underwater framework. Substantive climate-vulnerability framework affecting subsequent constitutional-democratic-trajectory and 2023 Constitution Amendment Act digital-sovereignty doctrine."
+      "description": "Tuvalu Foreign Minister Simon Kofe delivered COP27 address underwater 8 November 2022 from submerged podium."
     },
     {
       "year": 2023,
       "title": "Constitution Amendment Act + digital-sovereignty-doctrine + Falepili-Union-Treaty-Australia framework",
-      "description": "Tuvalu Constitution Amendment Act effective 19 September 2023 — substantively distinctive globally first-sovereign-state-to-adopt-constitutional-digital-nation-framework-to-preserve-sovereignty-in-face-of-projected-territorial-submersion framework entrenching perpetual statehood, maritime boundaries, and digital-sovereignty doctrine. Falepili Union Treaty Tuvalu-Australia signed 9 November 2023 — substantively distinctive globally first-bilateral-climate-mobility-treaty framework with special climate-mobility visa pathways from Tuvalu to Australia."
+      "description": "Tuvalu Constitution Amendment Act effective 19 September 2023. Falepili Union Treaty Tuvalu-Australia signed 9 November 2023."
     },
     {
       "year": 2022,
       "title": "Tuvalu-China Pacific framework + Te Hou Vakai institutional framework + climate-relocation development",
-      "description": "Tuvalu continuing Taiwan-recognition framework substantively distinctive Pacific Islands diplomatic-engagement framework (alongside Marshall Islands, Palau, Nauru pre-2024). Te Hou Vakai (Office of the Ombudsman) institutional framework addressing PA-related issues within Constitution 1978 + Custom of Tuvalu Act + Family Protection and Domestic Violence Act 2014 framework. Climate-relocation framework continuing affecting institutional context. Substantively significant Pacific institutional jurisprudential development."
+      "description": "Te Hou Vakai (Office of the Ombudsman) institutional framework addressing PA-related issues within Constitution 1978, Custom of Tuvalu Act, Family Protection and Domestic Violence Act 2014 framework. Climate-relocation framework continuing affecting institutional context. Substantively significant Pacific institutional jurisprudential development."
     },
     {
       "year": 2024,

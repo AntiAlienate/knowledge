@@ -4,7 +4,12 @@
   "name": "Arunachal Pradesh (अरुणाचल प्रदेश / Doni Polo)",
   "jurisdiction_code": "IN-AR",
   "legal_system": "mixed",
-  "language": ["en", "hi", "njm", "nst"],
+  "language": [
+    "en",
+    "hi",
+    "njm",
+    "nst"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Arunachal Pradesh (अरुणाचल प्रदेश in Hindi, meaning 'Land of Dawn-Lit Mountains' / Doni Polo in Tani languages) is a North-eastern Indian Himalayan mixed common-law/multi-tribal-customary-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state operating constitutional Article 371-H special-status framework providing for special responsibility of the Governor regarding law and order (notably allowing the Governor to exercise individual judgment after consultation with the Council of Ministers — distinct from the more extensive customary-law-protection Article 371-A/G/F frameworks), as the central jurisdiction of the Sino-Indian border dispute with the People's Republic of China (which claims most of Arunachal Pradesh as 'Southern Tibet' / Zangnan and renamed places via 2017+ Chinese-name-publication campaigns), and as the most ethnically diverse Indian state with 26 major tribes (including Adi, Apatani, Galo, Monpa, Nyishi, Tagin, Tani, and 19 other recognised tribes) speaking 90+ distinct languages, the most multi-tribal-population Indian state by tribe count. Arunachal Pradesh was the North-East Frontier Agency (NEFA) under federal administration until 1972, then a Union Territory until 1987, then formed as the 24th state of India on 20 February 1987 under the Constitution (Fifty-Fifth Amendment) Act 1986 and the State of Arunachal Pradesh Act 1986. Arunachal Pradesh comprises ~83,743 km² with a population of ~1.4 million. Family-law framework operates under a dual federal Indian common-law + multi-tribal-customary-law framework with tribal customary law applied via traditional village councils (Kebang, Buliang, Bango) operating under Inner Line Permit (ILP) framework restricting non-resident access. Parental authority and child custody operate under tribal customary law for tribal persons subject to Indian general framework. The Gauhati High Court (Itanagar Permanent Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Arunachal Pradesh is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Arunachal Pradesh is governed by the Indian non-ratification status.",
@@ -75,32 +80,32 @@
     {
       "year": 1873,
       "title": "Bengal Eastern Frontier Regulation + ILP-framework framework",
-      "description": "Bengal Eastern Frontier Regulation 1873 establishing foundational Inner Line Permit (ILP) framework restricting non-resident access to North-eastern frontier territories including future Arunachal Pradesh — substantively distinctive globally only-modern-Indian-state-with-continuous-150-year-ILP-framework framework. Foundational substantive ILP-framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory."
+      "description": "Bengal Eastern Frontier Regulation 1873 establishing foundational Inner Line Permit (ILP) framework restricting non-resident access to North-eastern frontier territories including future Arunachal Pradesh."
     },
     {
       "year": 1914,
       "title": "Simla Convention + McMahon-Line + Tibet-British-India-+-Chinese-non-signing framework",
-      "description": "Simla Convention 3 July 1914 establishing McMahon Line as Indo-Tibetan border — substantively distinctive globally Indo-Tibetan-border-McMahon-Line-+-Chinese-non-signing framework. Foundational substantive Sino-Indian-border-dispute framework affecting subsequent 1962 Sino-Indian War and Chinese Zangnan-claim framework."
+      "description": "Simla Convention 3 July 1914 establishing McMahon Line as Indo-Tibetan border."
     },
     {
       "year": 1962,
       "title": "Sino-Indian War + Arunachal-Pradesh-as-central-front framework",
-      "description": "Sino-Indian War October-November 1962 — substantively distinctive Himalayan Arunachal-Pradesh-then-NEFA-as-central-front-in-the-conflict-with-PRC framework. Substantive demographic and constitutional-democratic-trajectory framework affecting subsequent constitutional-administrative-trajectory and continuing Sino-Indian border-dispute framework."
+      "description": "Sino-Indian War October-November 1962."
     },
     {
       "year": 1972,
       "title": "NEFA + Union-Territory-of-Arunachal-Pradesh framework",
-      "description": "North-East Frontier Agency (NEFA) reorganised as Union Territory of Arunachal Pradesh 21 January 1972 — substantively significant Himalayan post-NEFA-Union-Territory framework. Foundational pre-1987-statehood framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "North-East Frontier Agency (NEFA) reorganised as Union Territory of Arunachal Pradesh 21 January 1972 — substantively significant Himalayan post framework."
     },
     {
       "year": 1986,
       "title": "Constitution 55th Amendment + Article-371-H-Governor-special-responsibility framework",
-      "description": "Constitution (Fifty-Fifth Amendment) Act 1986 inserting Article 371-H providing special Governor responsibility framework regarding law and order — substantively distinctive globally only-Indian-state-operating-Article-371-H-Governor-special-responsibility framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Constitution (Fifty-Fifth Amendment) Act 1986 inserting Article 371-H providing special Governor responsibility framework regarding law and order."
     },
     {
       "year": 1987,
       "title": "Arunachal Pradesh State + 24th-Indian-state framework",
-      "description": "Arunachal Pradesh formed as 24th state of India 20 February 1987 under the State of Arunachal Pradesh Act 1986 — substantively distinctive Himalayan 24th-Indian-state-via-Union-Territory-to-state framework. Foundational substantive 39-year Arunachal-Pradesh-statehood framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Arunachal Pradesh formed as 24th state of India 20 February 1987 under the State of Arunachal Pradesh Act 1986."
     },
     {
       "year": 1992,
@@ -110,12 +115,12 @@
     {
       "year": 2017,
       "title": "Chinese Zangnan place-naming campaign + PRC-Indian-border-dispute-escalation framework",
-      "description": "PRC commenced systematic publication of Chinese names for Arunachal Pradesh places (~30 places in 2017 list, expanded in 2021 and 2024) — substantively distinctive globally only-modern-major-sub-national-territorial-dispute-pursued-via-systematic-place-naming framework. Substantive Sino-Indian-border-dispute escalation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "PRC commenced systematic publication of Chinese names for Arunachal Pradesh places (~30 places in 2017 list, expanded in 2021 and 2024)."
     },
     {
       "year": 2020,
       "title": "Galwan Valley confrontation + Sino-Indian-LAC-tension + Arunachal-Pradesh-strategic-position framework",
-      "description": "Galwan Valley confrontation 15-16 June 2020 substantively reshaping Sino-Indian-LAC-tension framework — substantively distinctive Himalayan Arunachal-Pradesh-strategic-position-+-Galwan-Valley-Ladakh-context framework. Subsequent 2022 + 2024 China-India clashes affecting subsequent constitutional-democratic-trajectory."
+      "description": "Galwan Valley confrontation 15-16 June 2020 substantively reshaping Sino framework. Subsequent 2022, 2024 China-India clashes affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2023,

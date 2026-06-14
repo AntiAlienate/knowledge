@@ -4,7 +4,10 @@
   "name": "Sudan (Republic of the Sudan / جمهورية السودان)",
   "jurisdiction_code": "SD",
   "legal_system": "religious-law",
-  "language": ["ar", "en"],
+  "language": [
+    "ar",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Sudan is a Northeast African religious-law federal state operating under a primarily Hanafi-Sunni Sharia framework following the 1983 Sharia-based 'September Laws' reform and the 2020 transitional government's signalled (though partial) repeal/reform efforts. Family-law framework operates under the Muslim Personal Status Law 1991 (Qanun al-Ahwal al-Shakhsiyya li-l-Muslimin) drawing on Hanafi jurisprudence with some Maliki provisions, and the Personal Status Law for Non-Muslims 1926 for non-Muslim communities. Custody (hadana) and guardianship (wilaya) are governed by Muslim Personal Status Law arts. 110-134. The Supreme Court (Mahkamat al-Tamyiz) is the apex court for civil and criminal matters; the Constitutional Court was suspended post-2019. Family-law matters are heard at first instance in Personal Status Courts. Psychology profession regulation operates through the Sudan Medical Council framework. Sudan is silent on 'parental alienation' as a statutory label. Sudan is non-Hague Convention.",
@@ -49,27 +52,27 @@
     {
       "year": 1926,
       "title": "Personal Status Law for Non-Muslims 1926 + Anglo-Egyptian framework",
-      "description": "Federal Personal Status Law for non-Muslims enacted under Anglo-Egyptian colonial administration 1899-1956 — among the earliest colonial-era African personal-status statutes within the corpus. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Personal Status Law for non-Muslims enacted under Anglo-Egyptian colonial administration 1899-1956 — among the earliest colonial-era African personal-status statutes within the corpus."
     },
     {
       "year": 1956,
       "title": "Sudan independence + Republic + Nimeiri-era framework",
-      "description": "Sudan independence 1 January 1956 from Anglo-Egyptian Condominium — substantively distinctive Northeast African post-colonial framework. Subsequent recurring military-coup pattern affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "Sudan independence 1 January 1956 from Anglo-Egyptian Condominium. Subsequent recurring military-coup pattern affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
     },
     {
       "year": 1969,
       "title": "Nimeiri coup + 16-year-authoritarian framework",
-      "description": "Gaafar Nimeiri coup d'état 25 May 1969 — substantively distinctive Northeast African 16-year-authoritarian framework 1969-1985. Substantive transition from Marxist-Leninist (1969-1971) to Islamist (1977 reconciliation) framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Gaafar Nimeiri coup d'état 25 May 1969."
     },
     {
       "year": 1983,
       "title": "September Laws — Sharia reform",
-      "description": "Comprehensive Sharia-based legal reform 8 September 1983 under Nimeiri government — established Hanafi Sharia as primary framework. Substantively distinctive globally trigger of Second Sudanese Civil War (1983-2005) due to imposition on Christian/animist South. Foundational pre-1991-Muslim-Personal-Status-Law framework."
+      "description": "Comprehensive Sharia-based legal reform 8 September 1983 under Nimeiri government — established Hanafi Sharia as primary framework. Foundational pre framework."
     },
     {
       "year": 1989,
       "title": "Bashir coup + National Islamic Front + 30-year-Islamist-regime framework",
-      "description": "Omar al-Bashir coup d'état 30 June 1989 ending Sadiq al-Mahdi government — substantively distinctive Northeast African 30-year-Islamist-regime framework 1989-2019. Substantive National Islamic Front + National Congress Party framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Omar al-Bashir coup d'état 30 June 1989 ending Sadiq al-Mahdi government."
     },
     {
       "year": 1990,
@@ -84,17 +87,17 @@
     {
       "year": 2009,
       "title": "ICC arrest warrant for Bashir + War-in-Darfur framework",
-      "description": "International Criminal Court arrest warrant for Omar al-Bashir 4 March 2009 — substantively distinctive globally first-ICC-arrest-warrant-for-sitting-head-of-state framework. War in Darfur 2003-2020 substantively distinctive Northeast African armed-conflict framework with estimated 300,000 killed substantially affecting demographic and family-law-implementation framework."
+      "description": "International Criminal Court arrest warrant for Omar al-Bashir 4 March 2009."
     },
     {
       "year": 2019,
       "title": "Post-Bashir transitional government + Sudanese Revolution framework",
-      "description": "Bashir government overthrown 11 April 2019 following Sudanese Revolution (December 2018-April 2019) — substantively distinctive Northeast African pro-democracy-protest framework. Transitional government signalled (partial) reform of Sharia-based provisions affecting subsequent constitutional-democratic-trajectory."
+      "description": "Bashir government overthrown 11 April 2019 following Sudanese Revolution (December 2018-April 2019). Transitional government signalled (partial) reform of Sharia-based provisions affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2023,
       "title": "Sudan Civil War 2023-onwards + SAF-RSF conflict framework",
-      "description": "Sudan Civil War 15 April 2023-onwards between Sudanese Armed Forces (Burhan) and Rapid Support Forces (Hemedti) — substantively distinctive globally largest-displacement-crisis-currently framework with estimated 150,000+ killed and 12+ million displaced through 2026 substantially affecting demographic and family-law-implementation framework. Substantive cross-border-jurisdiction-practice framework affecting South-Sudan and Chad refugee-flows."
+      "description": "Sudan Civil War 15 April 2023-onwards between Sudanese Armed Forces (Burhan) and Rapid Support Forces (Hemedti). Substantive cross framework affecting South-Sudan and Chad refugee-flows."
     },
     {
       "year": 2024,

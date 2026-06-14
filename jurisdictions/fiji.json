@@ -4,7 +4,10 @@
   "name": "Fiji (Republic of Fiji)",
   "jurisdiction_code": "FJ",
   "legal_system": "common-law",
-  "language": ["en", "fj"],
+  "language": [
+    "en",
+    "fj"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Fiji is a Pacific Island common-law republic whose family-law framework operates under the Family Law Act 2003 (Act 18 of 2003, effective 1 November 2005) — comprehensive Australian-influenced family-law statute replacing prior Matrimonial Causes Act and Maintenance and Affiliation Act. Parental responsibility and child custody are governed by Family Law Act Part VI. The Supreme Court of Fiji is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Division of the High Court and Family Magistrates' Courts. Psychology profession is regulated through the Fiji Psychology Council under the Allied Health Practitioners Act. Fiji is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Family Law Act s. 4. Fiji is non-Hague Convention.",
@@ -42,17 +45,17 @@
     {
       "year": 1879,
       "title": "Indian indentured-labour migration 1879-1916 + Indo-Fijian-community-formation framework",
-      "description": "Indian indentured-labour migration to Fiji 1879-1916 (over 60,000 indentured-labourers) — substantively distinctive Pacific Island indentured-labour-migration framework establishing Indo-Fijian community alongside indigenous iTaukei (Fijian) population. Foundational ethnic-pluralist framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation framework."
+      "description": "Indian indentured-labour migration to Fiji 1879-1916 (over 60,000 indentured-labourers)."
     },
     {
       "year": 1970,
       "title": "Fiji independence + bicommunal-constitutional framework",
-      "description": "Fiji independence 10 October 1970 from the United Kingdom — establishing constitutional-monarchy framework with iTaukei-Indo-Fijian bicommunal political-institutional framework. Foundational pre-1987-coups framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Fiji independence 10 October 1970 from the United Kingdom — establishing constitutional-monarchy framework with iTaukei-Indo-Fijian bicommunal political-institutional framework."
     },
     {
       "year": 1987,
       "title": "Fiji 1987 coups + Republic + Sitiveni Rabuka + iTaukei-supremacy framework",
-      "description": "Fiji 14 May 1987 and 25 September 1987 coups led by Lt. Colonel Sitiveni Rabuka — substantively distinctive Pacific-Island coup-d'état pattern. Fiji became a republic following coups establishing iTaukei-supremacy constitutional-framework framework. Substantive political-institutional disruption affecting subsequent democratic-trajectory."
+      "description": "Fiji 14 May 1987 and 25 September 1987 coups led by Lt. Colonel Sitiveni Rabuka. Fiji became a republic following coups establishing iTaukei-supremacy constitutional-framework framework. Substantive political-institutional disruption affecting subsequent democratic-trajectory."
     },
     {
       "year": 1993,
@@ -62,17 +65,17 @@
     {
       "year": 1997,
       "title": "Constitution 1997 + power-sharing-bicommunal framework",
-      "description": "Constitution of Fiji 1997 adopted 25 July 1997 — substantively reforming political-institutional framework with iTaukei-Indo-Fijian power-sharing framework. Subsequent 2000 Fiji coup d'état led by George Speight substantively reshaping political-institutional framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of Fiji 1997 adopted 25 July 1997 — substantively reforming political-institutional framework with iTaukei-Indo-Fijian power-sharing framework."
     },
     {
       "year": 2003,
       "title": "Family Law Act + Australian-influenced statutory framework",
-      "description": "Federal Family Law Act enacted Act 18 of 2003 (effective 1 November 2005) — comprehensive Australian-influenced family-law statute replacing prior Matrimonial Causes Act and Maintenance and Affiliation Act. Part VI governs parental responsibility and child custody. S. 4 codifies welfare-of-the-child principle. Substantively distinctive among Pacific-Island-states for direct-Australian-Family-Law-Act-1975-model-influence."
+      "description": "Federal Family Law Act enacted Act 18 of 2003 (effective 1 November 2005) — comprehensive Australian-influenced family-law statute replacing prior Matrimonial Causes Act and Maintenance and Affiliation Act. Part VI governs parental responsibility and child custody. S. 4 codifies welfare principle."
     },
     {
       "year": 2006,
       "title": "Fiji 2006 coup d'état + Bainimarama military-government framework",
-      "description": "Fiji 2006 coup d'état 5 December 2006 led by Commodore Frank Bainimarama — substantively distinctive Pacific-Island coup-pattern (fourth Fiji coup 1987-1987-2000-2006). Subsequent Bainimarama military-government 2006-2014 substantively reshaping political-institutional framework affecting family-law-implementation."
+      "description": "Fiji 2006 coup d'état 5 December 2006 led by Commodore Frank Bainimarama. Subsequent Bainimarama military-government 2006-2014 substantively reshaping political-institutional framework affecting family-law-implementation."
     },
     {
       "year": 2013,
@@ -82,7 +85,7 @@
     {
       "year": 2022,
       "title": "Sitiveni Rabuka + People's Alliance + return-of-1987-coup-leader framework",
-      "description": "Sitiveni Rabuka (People's Alliance) elected Prime Minister 24 December 2022 ending Bainimarama-era — substantively distinctive Pacific-Island return-of-1987-coup-leader-via-democratic-election framework. Subsequent governance trajectory affecting family-law-implementation."
+      "description": "Sitiveni Rabuka (People's Alliance) elected Prime Minister 24 December 2022 ending Bainimarama-era. Subsequent governance trajectory affecting family-law-implementation."
     },
     {
       "year": 2023,
@@ -92,7 +95,7 @@
     {
       "year": 2024,
       "title": "Supreme Court of Fiji — welfare-of-the-child substantive register + post-Bainimarama framework",
-      "description": "Supreme Court of Fiji continues to develop welfare-of-the-child jurisprudence under Family Law Act 2003 s. 4 + Part VI framework in custody disputes within post-Bainimarama framework under Rabuka government. Substantive analysis without doctrinal 'parental alienation' label adoption — within Australian-Family-Law-Act-1975-derivative framework parallel to Australia's post-2023-safety-primary-rebalancing reform-trajectory."
+      "description": "Supreme Court of Fiji continues to develop welfare jurisprudence under Family Law Act 2003 s. 4, Part VI framework in custody disputes within post-Bainimarama framework under Rabuka government. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [

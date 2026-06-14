@@ -4,7 +4,11 @@
   "name": "Rwanda (Republic of Rwanda / Repubulika y'u Rwanda)",
   "jurisdiction_code": "RW",
   "legal_system": "mixed",
-  "language": ["rw", "fr", "en"],
+  "language": [
+    "rw",
+    "fr",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Rwanda is an East/Central African mixed-legal-system unitary republic combining Belgian civil-law substantive heritage (via colonial inheritance) with substantial post-2008 common-law procedural transition (following East African Community accession). Family-law framework operates under Law N°27/2016 of 8 July 2016 governing matrimonial regimes, donations and successions, with the Persons and Family Law N°32/2016 governing marriage, parental authority and child custody. Parental authority is governed by arts. 207-235 of the Persons and Family Law. The Supreme Court (Urukiko rw'Ikirenga) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Primary Courts. Psychology profession is regulated through the Rwanda Allied Health Professions Council under the Ministry of Health framework. Rwanda is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard codified in Persons and Family Law art. 207. Rwanda is non-Hague Convention.",
@@ -59,7 +63,7 @@
     {
       "year": 1994,
       "title": "Rwandan Genocide + Tutsi-against-Hutu mass violence + RPF takeover",
-      "description": "Rwandan Genocide 7 April – 15 July 1994 — approximately 800,000-1,000,000 Tutsi and moderate-Hutu killed in 100 days. Substantively distinctive within post-Holocaust mass-violence framework. Rwandan Patriotic Front (RPF, Tutsi) under Paul Kagame took power ending genocide. Foundational political-institutional event reshaping Rwandan legal-administrative framework and substantively affecting family-law context (orphans, surviving spouses, property)."
+      "description": "Rwandan Genocide 7 April – 15 July 1994 — approximately 800,000-1,000,000 Tutsi and moderate-Hutu killed in 100 days. Rwandan Patriotic Front (RPF, Tutsi) under Paul Kagame took power ending genocide. Foundational political-institutional event reshaping Rwandan legal-administrative framework and substantively affecting family-law context (orphans, surviving spouses, property)."
     },
     {
       "year": 2003,
@@ -84,7 +88,7 @@
     {
       "year": 2019,
       "title": "Commonwealth of Nations membership + Anglophone-orientation",
-      "description": "Rwanda joined the Commonwealth of Nations 29 November 2009 — substantively distinctive as one of only two members without British colonial heritage (alongside Mozambique). Substantive Anglophone-orientation pivot affecting subsequent EU/English-language legal-system harmonisation."
+      "description": "Rwanda joined the Commonwealth of Nations 29 November 2009. Substantive Anglophone-orientation pivot affecting subsequent EU/English-language legal-system harmonisation."
     },
     {
       "year": 2021,
@@ -94,7 +98,7 @@
     {
       "year": 2023,
       "title": "30th anniversary genocide framework + NCC + RGB institutional consolidation",
-      "description": "Kwibuka 30 (30th anniversary of 1994 genocide against the Tutsi) commemorations 2023-2024 substantively distinctive framework for transitional-justice institutional consolidation. National Council for Children (NCC) and Rwanda Governance Board (RGB) institutional positions addressing PA-related issues within Persons and Family Law + Anti-GBV Law framework. Substantively significant East African institutional jurisprudential development establishing trajectory toward 2024 Supreme Court substantive register."
+      "description": "National Council for Children (NCC) and Rwanda Governance Board (RGB) institutional positions addressing PA-related issues within Persons and Family Law, Anti-GBV Law framework. Substantively significant East African institutional jurisprudential development establishing trajectory toward 2024 Supreme Court substantive register."
     },
     {
       "year": 2024,

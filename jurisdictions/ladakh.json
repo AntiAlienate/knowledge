@@ -4,7 +4,12 @@
   "name": "Ladakh (Indian Union Territory)",
   "jurisdiction_code": "IN-LA",
   "legal_system": "mixed",
-  "language": ["lbj", "ur", "hi", "en"],
+  "language": [
+    "lbj",
+    "ur",
+    "hi",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Ladakh is a South Asian Trans-Himalayan mixed common-law/Buddhist-customary-law Indian Union Territory — structurally distinctive globally as the only Buddhist-majority Indian Union Territory (~40% Buddhist, ~46% Muslim, ~12% Hindu) and the highest-altitude inhabited Union Territory globally (Leh district administrative centre at ~3,500 m, Hanle observatory at ~4,500 m, Kakshung at ~4,200 m). Ladakh was created as an Indian Union Territory without a legislature (unlike J&K which has one) by the Jammu and Kashmir Reorganisation Act 2019 effective 31 October 2019. Ladakh comprises two districts: Leh (Buddhist-majority) and Kargil (Shia-Muslim-majority). Ladakh is the central jurisdiction of the China-India border dispute including the Galwan Valley confrontation of 15-16 June 2020 (first lethal border clash between Indian and Chinese troops since 1975), and contains the Line of Actual Control (LAC) with Chinese-administered Aksai Chin. Ladakh has the Sixth Schedule autonomous-district-council demand (ongoing campaign for Sixth Schedule inclusion to provide tribal-area autonomous-council protections under the Indian Constitution). Family-law framework operates under the dual Indian common-law + Buddhist customary law (Ladakhi customary law) + Muslim Personal Law (Shariat) Application Act 1937 framework, with Buddhist family law operating under Buddhist customary practices and the Buddhist Marriage and Inheritance Act (J&K, 1934, applicable as state-of-J&K law preserved through 2019). Parental authority and child custody operate under the Guardians and Wards Act 1890 supplemented by personal-law frameworks. The High Court of Jammu and Kashmir and Ladakh is the apex domestic appellate court (shared with J&K); final appellate jurisdiction lies with the Supreme Court of India. Ladakh is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Ladakh is governed by the Indian non-ratification status.",
@@ -62,17 +67,17 @@
     {
       "year": 1834,
       "title": "Dogra annexation of Ladakh + Gulab-Singh-+-Princely-State-of-J&K framework",
-      "description": "Dogra Kingdom of Jammu (under Maharaja Gulab Singh) annexed Ladakh 1834 — substantively distinctive Trans-Himalayan Dogra-Princely-State-of-J&K framework establishing Ladakh as part of Jammu and Kashmir. Foundational pre-1947-Partition-+-1962-Sino-Indian-War framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Dogra Kingdom of Jammu (under Maharaja Gulab Singh) annexed Ladakh 1834."
     },
     {
       "year": 1934,
       "title": "Buddhist Marriage and Inheritance Act + J&K-state-level-Buddhist-family-law framework",
-      "description": "Buddhist Marriage and Inheritance Act 1934 (J&K state-level Act) — substantively distinctive globally only-Indian-Union-Territory-with-preserved-pre-1947-distinct-Buddhist-family-law-statute framework. Foundational substantive Buddhist-family-law framework persisting through 2019 reorganisation affecting subsequent reform-trajectory affecting family-law-implementation for Ladakhi Buddhists."
+      "description": "Buddhist Marriage and Inheritance Act 1934 (J&K state-level Act)."
     },
     {
       "year": 1962,
       "title": "Sino-Indian War + Aksai-Chin-Chinese-control framework",
-      "description": "Sino-Indian War October-November 1962 — substantively distinctive Trans-Himalayan Sino-Indian-War-+-Chinese-de-facto-control-of-Aksai-Chin framework. China gained de-facto control of Aksai Chin (western portion of historical Ladakh). Foundational substantive 64-year continuing China-India-LAC dispute framework affecting subsequent constitutional-democratic-trajectory and Galwan Valley 2020 framework."
+      "description": "Sino-Indian War October-November 1962. China gained de-facto control of Aksai Chin (western portion of historical Ladakh)."
     },
     {
       "year": 1992,
@@ -82,27 +87,27 @@
     {
       "year": 1995,
       "title": "Ladakh Autonomous Hill Development Council Act + Leh-Council-+-Kargil-Council-2003 framework",
-      "description": "J&K state-level Act establishing Ladakh Autonomous Hill Development Council in Leh district 9 May 1995 — substantively distinctive globally autonomous-hill-development-council-+-LAHDC framework. Extended to Kargil 2003 (LAHDC-Kargil established 19 March 2003). Foundational substantive autonomous-hill-development-council framework persisting through 2019 reorganisation affecting subsequent constitutional-democratic-trajectory."
+      "description": "J&K state-level Act establishing Ladakh Autonomous Hill Development Council in Leh district 9 May 1995. Extended to Kargil 2003 (LAHDC-Kargil established 19 March 2003)."
     },
     {
       "year": 2019,
       "title": "Ladakh Union Territory creation + J&K-Reorganisation-Act-+-UT-without-legislature framework",
-      "description": "Federal Indian Act effective 31 October 2019 creating Ladakh as Union Territory without a legislature (alongside J&K with a legislature) — substantively distinctive globally Union-Territory-without-a-legislature-post-2019 framework. Substantive constitutional-democratic-trajectory framework affecting subsequent Sixth-Schedule-demand framework and continuing-Article-370-abrogation context."
+      "description": "Federal Indian Act effective 31 October 2019 creating Ladakh as Union Territory without a legislature (alongside J&K with a legislature)."
     },
     {
       "year": 2020,
       "title": "Galwan Valley confrontation + first-lethal-border-clash-since-1975 framework",
-      "description": "Galwan Valley confrontation 15-16 June 2020 between Indian and Chinese troops — substantively distinctive globally first-lethal-border-clash-between-Indian-and-Chinese-troops-since-1975 framework. 20 Indian and ~4 Chinese troops killed. Substantive constitutional-democratic-trajectory framework affecting subsequent Sino-Indian-tension framework and Ladakh-strategic-importance framework."
+      "description": "Galwan Valley confrontation 15-16 June 2020 between Indian and Chinese troops. 20 Indian and ~4 Chinese troops killed."
     },
     {
       "year": 2021,
       "title": "Sixth-Schedule-demand + Sonam-Wangchuk-+-Apex-Body-Ladakh-Kargil-Democratic-Alliance framework",
-      "description": "Sixth Schedule demand campaign formalised through Apex Body Ladakh + Kargil Democratic Alliance — substantively distinctive globally ongoing-Sixth-Schedule-demand-for-tribal-area-autonomy framework. Subsequent 2024 Sonam Wangchuk Climate Fast 21 March 2024 affecting subsequent constitutional-democratic-trajectory. Foundational substantive Sixth-Schedule-demand-+-Ladakhi-self-governance-+-tribal-area-autonomy framework persisting through subsequent reform-trajectory."
+      "description": "Sixth Schedule demand campaign formalised through Apex Body Ladakh, Kargil Democratic Alliance. Subsequent 2024 Sonam Wangchuk Climate Fast 21 March 2024 affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2024,
       "title": "Sonam-Wangchuk-Climate-Fast + Ladakh-protest-movement + ongoing-Sixth-Schedule-+-statehood-demand framework",
-      "description": "Sonam Wangchuk Climate Fast 21 March 2024 substantively reinvigorating Ladakh-protest-movement framework — substantively distinctive globally only-modern-Indian-Union-Territory-with-climate-+-Sixth-Schedule-+-statehood-demand-via-non-violent-fast framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Sonam Wangchuk Climate Fast 21 March 2024 substantively reinvigorating Ladakh-protest-movement framework."
     },
     {
       "year": 2023,

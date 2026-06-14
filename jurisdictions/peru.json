@@ -4,7 +4,9 @@
   "name": "Peru (Republic of Peru / República del Perú)",
   "jurisdiction_code": "PE",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Peru is an Andean South American civil-law republic whose family-law framework operates under the Civil Code 1984 (Código Civil, Decreto Legislativo 295) Book III (Family Law), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 418-471, supplemented by the Children and Adolescents Code 2000 (Law 27337). The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos del Perú (Law 23019/1980). Peru is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. IX. Peru acceded to the Hague Convention 1980 effective 1 August 2001.",
@@ -62,32 +64,32 @@
     {
       "year": 1821,
       "title": "Peru independence + San Martín + Bolívar framework",
-      "description": "Peru independence 28 July 1821 from Spain under José de San Martín. Subsequent Battle of Ayacucho 9 December 1824 substantively distinctive final-Spanish-American-Wars-of-Independence battle. Foundational pre-modern-codification framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Peru independence 28 July 1821 from Spain under José de San Martín."
     },
     {
       "year": 1980,
       "title": "Colegio de Psicólogos Law 23019 + Sendero-Luminoso conflict-start framework",
-      "description": "Federal statute Law 23019 of 1980 establishing Colegio de Psicólogos del Perú — among earliest Latin American statutory psychology regulation. Sendero Luminoso (Shining Path) Maoist insurgency began 1980 substantively distinctive Latin American 20-year-armed-conflict framework with estimated 70,000 killed affecting subsequent demographic and family-law-implementation framework."
+      "description": "Federal statute Law 23019 of 1980 establishing Colegio de Psicólogos del Perú — among earliest Latin American statutory psychology regulation."
     },
     {
       "year": 1984,
       "title": "Civil Code 1984 (Decreto Legislativo 295)",
-      "description": "Federal Civil Code enacted Decreto Legislativo 295 of 1984 with substantial modernisation including Book III on Family Law. Arts. 418-471 govern patria potestad and child custody. Foundational substantive-family-law framework persisting through subsequent reform-trajectory."
+      "description": "Federal Civil Code enacted Decreto Legislativo 295 of 1984 with substantial modernisation including Book III on Family Law. Arts. 418-471 govern patria potestad and child custody."
     },
     {
       "year": 1990,
       "title": "Peru ratifies UN Convention on the Rights of the Child + Fujimori-presidency framework",
-      "description": "Peru ratified the UNCRC on 4 September 1990 — substantively significant child-rights framework integration. Alberto Fujimori (Cambio 90) elected President 28 July 1990 — substantively distinctive Latin American authoritarian-populist framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Peru ratified the UNCRC on 4 September 1990 — substantively significant child-rights framework integration. Alberto Fujimori (Cambio 90) elected President 28 July 1990."
     },
     {
       "year": 1992,
       "title": "Autogolpe 1992 + Constitution 1993 + Fujishock framework",
-      "description": "Fujimori autogolpe 5 April 1992 dissolving Congress + Constitutional Court substantively distinctive Latin American self-coup framework. Constitution of Peru 1993 adopted 31 October 1993 by referendum. Substantive Fujishock economic-stabilisation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of Peru 1993 adopted 31 October 1993 by referendum."
     },
     {
       "year": 2000,
       "title": "Children and Adolescents Code (Law 27337) + UNCRC-aligned framework + Fujimori-fall",
-      "description": "Federal Code enacted Law 27337 of 7 August 2000 codifying superior-interest-of-the-child principle (art. IX) aligned with UNCRC obligations. Alberto Fujimori resigned 19 November 2000 — substantively distinctive Latin-American democratic-restoration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Code enacted Law 27337 of 7 August 2000 codifying superior principle (art. IX) aligned with UNCRC obligations. Alberto Fujimori resigned 19 November 2000."
     },
     {
       "year": 2001,
@@ -97,17 +99,17 @@
     {
       "year": 2009,
       "title": "Fujimori conviction + human-rights-jurisprudence framework",
-      "description": "Alberto Fujimori convicted 7 April 2009 for human-rights violations — substantively distinctive Latin-American leader-accountability framework. Substantive Inter-American Court of Human Rights jurisprudence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Alberto Fujimori convicted 7 April 2009 for human-rights violations."
     },
     {
       "year": 2016,
       "title": "Code of Children and Adolescents amendment + Law 30466 best-interests-of-the-child framework",
-      "description": "Code of Children and Adolescents amendment via Law 30466 effective 18 June 2016 establishing parameters and guarantees for the best-interests-of-the-child framework — substantively distinctive Andean superior-interest-codification framework establishing 14 procedural and substantive parameters for interés superior del niño analysis + structurally distinctive Latin-American codified-superior-interest-of-the-child framework + foundational substantive Tribunal Constitucional and Corte Suprema jurisprudence on superior-interest-of-the-child framework affecting subsequent reform-trajectory including 2024 Corte Suprema substantive register evolution and Hague Convention 1980 cross-border implementation framework."
+      "description": "Code of Children and Adolescents amendment via Law 30466 effective 18 June 2016 establishing parameters and guarantees for the best framework."
     },
     {
       "year": 2018,
       "title": "Peruvian political crisis 2017-2022 + recurring-presidential-impeachment framework",
-      "description": "Peruvian political crisis 2017-2022 substantively distinctive Latin-American recurring-presidential-impeachment framework — Kuczynski-resignation 2018, Vizcarra-removal 2020, Sagasti-interim, Castillo-self-coup-and-removal December 2022, Dina Boluarte continuing presidency. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+      "description": "Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
     },
     {
       "year": 2023,

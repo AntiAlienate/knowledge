@@ -4,10 +4,14 @@
   "name": "Belgium (Royaume de Belgique / Koninkrijk België)",
   "jurisdiction_code": "BE",
   "legal_system": "civil-law",
-  "language": ["fr", "nl", "de"],
+  "language": [
+    "fr",
+    "nl",
+    "de"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "Belgium is a federal civil-law jurisdiction whose family courts (Tribunal de la famille / Familierechtbank, established 1 September 2014) operate under the Code civil arts. 371-387ter (autorité parentale / ouderlijk gezag) and the Loi du 30 juillet 2013 portant création d'un tribunal de la famille et de la jeunesse. The statutory framework is silent on the 'parental alienation' label. The Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant under Code civil and Constitution art. 22bis. Belgium operationally is a substantively significant institutional-critique data point through the Commission Femmes-Justice and Délégué général aux droits de l'enfant (DGDE) / Kinderrechtencommissaris reports — particularly addressing PA-labelled DV-deflection patterns. The 2006 hébergement égalitaire (egalitarian residence) framework under Loi du 18 juillet 2006 establishes default-shared-residence presumption — substantively distinctive globally.",
+  "summary": "Belgium is a federal civil-law jurisdiction whose family courts (Tribunal de la famille / Familierechtbank, established 1 September 2014) operate under the Code civil arts. 371-387ter (autorité parentale / ouderlijk gezag) and the Loi du 30 juillet 2013 portant création d'un tribunal de la famille et de la jeunesse. The statutory framework is silent on the 'parental alienation' label. The Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant under Code civil and Constitution art. 22bis. Belgium operationally is a substantively significant institutional-critique data point through the Commission Femmes-Justice and Délégué général aux droits de l'enfant (DGDE) / Kinderrechtencommissaris reports — particularly addressing PA-labelled DV-deflection patterns. The 2006 hébergement égalitaire (egalitarian residence) framework under Loi du 18 juillet 2006 establishes default-shared-residence presumption.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -26,7 +30,7 @@
       "title": "Loi tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés",
       "year": 2006,
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
-      "relevance": "Establishes hébergement égalitaire (egalitarian residence / week-on-week-off) as default-presumption post-separation framework — substantively distinctive globally for statutory presumption of shared residence."
+      "relevance": "Establishes hébergement égalitaire (egalitarian residence / week) as default-presumption post-separation framework."
     },
     {
       "citation": "Loi du 30 juillet 2013 (Tribunal de la famille et de la jeunesse)",
@@ -91,7 +95,7 @@
     {
       "year": 2006,
       "title": "Loi du 18 juillet 2006 — hébergement égalitaire default presumption",
-      "description": "Loi du 18 juillet 2006 tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés establishing hébergement égalitaire (week-on-week-off) as default-presumption post-separation framework. Substantively distinctive globally for statutory presumption of shared residence — substantively significant 21st-century Belgian family-law reform."
+      "description": "Loi du 18 juillet 2006 tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés establishing hébergement égalitaire (week) as default-presumption post-separation framework."
     },
     {
       "year": 2008,
@@ -131,11 +135,10 @@
   ],
   "structural_findings": [
     "Belgium operates a structurally distinctive civil-law family-law framework — Code civil + Loi 2006 hébergement égalitaire default presumption + Tribunal de la famille 2013 institutional unification — with substantive intérêt supérieur de l'enfant analysis without doctrinal 'aliénation parentale / ouderverstoting' label adoption.",
-    "Loi du 18 juillet 2006 hébergement égalitaire default-presumption framework is substantively distinctive globally for statutory presumption of week-on-week-off shared residence — operationally creating Belgium as a critical comparative-law data point for default-shared-residence framework analysis.",
     "Institutional position is critique-aligned: DGDE + Kinderrechtencommissaris reports + GREVIO Belgium monitoring + Commission Femmes-Justice converge on warning against PA-instrumentalisation to deflect DV allegations — placing Belgium alongside Germany (BVerfG 2023), France (Défenseure des droits 2023), Italy (Cass. civ. 2021-2022), Spain (CGPJ guides), and Netherlands (NIP/RSJ) in the European institutional-critique cluster."
   ],
   "editorial_notes": [
     "Belgium's Loi du 18 juillet 2006 hébergement égalitaire default-presumption framework operationally distinguishes Belgium from neighbouring European jurisdictions (Netherlands, France, Germany) — making Belgium a critical comparative-law data point for default-shared-residence legislative architecture.",
-    "Tripartite linguistic-communautaire structure (Communauté française + Vlaamse Gemeenschap + Deutschsprachige Gemeinschaft) operationally creates parallel DGDE / Kinderrechtencommissaris institutional frameworks — substantively distinctive globally for community-level child-rights ombudsperson structure."
+    "Tripartite linguistic-communautaire structure (Communauté française, Vlaamse Gemeenschap, Deutschsprachige Gemeinschaft) operationally creates parallel DGDE / Kinderrechtencommissaris institutional frameworks."
   ]
 }

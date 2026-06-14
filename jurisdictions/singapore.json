@@ -4,10 +4,15 @@
   "name": "Singapore (Republic of Singapore / 新加坡共和国)",
   "jurisdiction_code": "SG",
   "legal_system": "mixed (English common-law + Syariah personal-status for Muslims)",
-  "language": ["en", "zh", "ms", "ta"],
+  "language": [
+    "en",
+    "zh",
+    "ms",
+    "ta"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "Singapore is a common-law jurisdiction with parallel Syariah Court framework for Muslim personal-status matters under the Administration of Muslim Law Act (AMLA). Family courts operate under the Family Justice Courts (established 1 October 2014 under the Family Justice Act 2014) consolidating Family Court + Youth Court + Family Division of the High Court. The Women's Charter 1961 (extensively amended) governs civil marriage and divorce; AMLA governs Muslim personal-status. The Guardianship of Infants Act and Women's Charter Part X establish welfare-of-the-child standard. The statutory framework is silent on the 'parental alienation' label. The Court of Appeal of Singapore has addressed contact-refusal cases applying welfare-of-the-child standard. Singapore's 2014 Family Justice Courts establishment + Family Justice Reform 2014 represents substantively foundational institutional reform — substantively distinctive globally for unified family-justice framework architecture.",
+  "summary": "Singapore is a common-law jurisdiction with parallel Syariah Court framework for Muslim personal-status matters under the Administration of Muslim Law Act (AMLA). Family courts operate under the Family Justice Courts (established 1 October 2014 under the Family Justice Act 2014) consolidating Family Court, Youth Court, Family Division of the High Court. The Women's Charter 1961 (extensively amended) governs civil marriage and divorce; AMLA governs Muslim personal-status. The Guardianship of Infants Act and Women's Charter Part X establish welfare standard. The statutory framework is silent on the 'parental alienation' label. The Court of Appeal of Singapore has addressed contact-refusal cases applying welfare standard. Singapore's 2014 Family Justice Courts establishment, Family Justice Reform 2014 represents substantively foundational institutional reform.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -33,7 +38,7 @@
       "title": "Family Justice Courts establishment",
       "year": 2014,
       "url": "https://sso.agc.gov.sg/Act/FJA2014",
-      "relevance": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court + Youth Court + Family Division of the High Court. Substantively transformative institutional reform — substantively distinctive globally for unified family-justice framework architecture."
+      "relevance": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. Substantively transformative institutional reform."
     },
     {
       "citation": "Guardianship of Infants Act (Cap. 122)",
@@ -106,7 +111,7 @@
     {
       "year": 2014,
       "title": "Family Justice Act 2014 + Family Justice Courts establishment",
-      "description": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court + Youth Court + Family Division of the High Court. Substantively transformative institutional reform — substantively distinctive globally for unified family-justice framework architecture."
+      "description": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. Substantively transformative institutional reform."
     },
     {
       "year": 2017,
@@ -121,7 +126,7 @@
     {
       "year": 2023,
       "title": "Therapeutic Justice Model implementation + Family Justice Reform 2023",
-      "description": "Family Justice Courts Therapeutic Justice Model (TJM) implementation 2022-2023 establishing distinctive court-led therapeutic-justice framework for family-law adjudication including child-inclusive divorce framework. Substantively distinctive globally Singapore therapeutic-justice institutional framework — operationally addressing PA-related contact-refusal cases through TJM mediation framework. Family Justice Reform 2023 institutional refinements consolidating post-2014 Family Justice Courts architecture."
+      "description": "Family Justice Courts Therapeutic Justice Model (TJM) implementation 2022-2023 establishing distinctive court-led therapeutic-justice framework for family-law adjudication including child-inclusive divorce framework. Family Justice Reform 2023 institutional refinements consolidating post-2014 Family Justice Courts architecture."
     },
     {
       "year": 2024,
@@ -130,12 +135,10 @@
     }
   ],
   "structural_findings": [
-    "Singapore operates a structurally distinctive mixed common-law + Islamic personal-status family-law framework — Women's Charter 1961 + Administration of Muslim Law Act 1966 + Family Justice Act 2014 unified Family Justice Courts framework — substantively distinctive globally for unified family-justice framework architecture.",
-    "Family Justice Courts establishment (2014) is substantively distinctive globally for unified family-justice framework architecture consolidating Family Court + Youth Court + Family Division of the High Court — operationally significant for procedural-framework comparative analysis.",
+    "Singapore operates a structurally distinctive mixed common-law, Islamic personal-status family-law framework.",
     "Bijural family-law architecture (English common-law + Syariah personal-status for Muslims) operationally creates structurally distinctive Southeast Asian comparative-law data point — substantively distinguishing Singapore framework from Malaysian dual-court framework (where Syariah court framework operates under federal-state framework rather than unified Family Justice Courts framework)."
   ],
   "editorial_notes": [
-    "Singapore's Family Justice Act 2014 unified Family Justice Courts framework is substantively distinctive globally — operationally distinguishing Singapore from neighbouring Malaysian bifurcated framework (Civil Family Court + Syariah Court federal-state framework).",
     "Women's Charter 1961 + AMLA 1966 parallel-framework architecture operationally creates structurally distinctive Singapore family-law data point — making Singapore a critical Southeast Asian comparative-law jurisdiction for bijural family-law analysis."
   ]
 }

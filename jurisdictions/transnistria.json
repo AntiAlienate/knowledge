@@ -4,7 +4,11 @@
   "name": "Transnistria (Pridnestrovian Moldavian Republic / PMR)",
   "jurisdiction_code": "MD-PMR",
   "legal_system": "civil-law",
-  "language": ["ru", "ro", "uk"],
+  "language": [
+    "ru",
+    "ro",
+    "uk"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Transnistria (officially Pridnestrovian Moldavian Republic / Приднестровская Молдавская Республика / PMR) is a Eastern European civil-law unrecognised de-facto state — structurally distinctive globally as the longest-surviving post-Soviet frozen-conflict de-facto state (independent governance since 2 September 1990), having survived the 1992 Transnistria War with Moldova and maintained de-facto independence under Russian military protection (~1,500 Operational Group of Russian Forces personnel including peacekeepers). Transnistria is unrecognised by any UN member state; it is recognised only by other unrecognised states Abkhazia, South Ossetia, and Artsakh (until Artsakh's 2024 dissolution). Located between the Dniester River and the Moldova-Ukraine border, Transnistria comprises ~4,163 km² with a population of ~470,000. Family-law framework operates under the PMR Civil Code (Гражданский кодекс ПМР) and PMR Family Code (Семейный кодекс ПМР), modeled on Russian Federation Family Code with Soviet-era continuity. Parental authority and child custody operate under PMR Family Code chapters 11-12 (родительские права / parental rights). The PMR Supreme Court is the apex domestic court; final appellate jurisdiction is internal — no recognised external appellate court. Cross-border family-law coordination with Moldova proper, Ukraine, Russia, and EU members is hampered by the lack of recognition. Psychology profession is regulated through PMR Ministry of Health. Transnistria is silent on 'parental alienation' as a statutory label. Transnistria is not a party to the Hague Convention 1980 in its own right; Moldova's accession (1998) is contested by PMR authorities.",
@@ -62,22 +66,22 @@
     {
       "year": 1924,
       "title": "Moldavian ASSR + pre-1940-Soviet-administration framework",
-      "description": "Moldavian Autonomous Soviet Socialist Republic established 12 October 1924 within Ukrainian SSR — substantively distinctive pre-1940-Bessarabia-incorporation framework on left-bank-Dniester. Foundational pre-1990-PMR-declaration framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Moldavian Autonomous Soviet Socialist Republic established 12 October 1924 within Ukrainian SSR."
     },
     {
       "year": 1940,
       "title": "Moldavian SSR + Molotov-Ribbentrop-Pact-incorporation framework",
-      "description": "Moldavian SSR established 2 August 1940 following Soviet incorporation of Bessarabia under Molotov-Ribbentrop Pact secret protocols — substantively distinctive pre-1990-PMR-declaration framework. Subsequent 1941-1944 Romanian-occupation interlude + post-1944 Moldavian SSR restoration. Foundational pre-Moldovan-SSR-move-toward-independence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Moldavian SSR established 2 August 1940 following Soviet incorporation of Bessarabia under Molotov-Ribbentrop Pact secret protocols. Subsequent 1941-1944 Romanian-occupation interlude, post-1944 Moldavian SSR restoration."
     },
     {
       "year": 1990,
       "title": "Pridnestrovian Moldavian Soviet Socialist Republic + 2-September-1990 framework",
-      "description": "Pridnestrovian Moldavian Soviet Socialist Republic declared 2 September 1990 — substantively distinctive Eastern European left-bank-Dniester-Russophone-declaration framework in opposition to Moldovan SSR move toward independence from USSR. Foundational substantive 35+ year longest-surviving-post-Soviet-frozen-conflict-de-facto-state framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Pridnestrovian Moldavian Soviet Socialist Republic declared 2 September 1990."
     },
     {
       "year": 1992,
       "title": "Transnistria War + 14th-Guards-Army-intervention + ceasefire framework",
-      "description": "Transnistria War March-July 1992 between Moldova and PMR — substantively distinctive Eastern European post-Soviet-frozen-conflict framework. Russian Federation 14th Guards Army intervention ended hostilities; ceasefire agreement signed 21 July 1992 establishing Russian peacekeeping framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+      "description": "Transnistria War March-July 1992 between Moldova and PMR. Russian Federation 14th Guards Army intervention ended hostilities; ceasefire agreement signed 21 July 1992 establishing Russian peacekeeping framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1995,
@@ -87,22 +91,22 @@
     {
       "year": 2000,
       "title": "PMR Civil Code + Russian-Federation-Civil-Code-derivative framework",
-      "description": "PMR Civil Code enacted 2000 modeled on Russian Federation Civil Code 1994-1995 — substantively significant Eastern European Russian-derivative-civil-law framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "PMR Civil Code enacted 2000 modeled on Russian Federation Civil Code 1994-1995 — substantively significant Eastern European Russian framework."
     },
     {
       "year": 2002,
       "title": "PMR Family Code + Russian-Federation-Family-Code-derivative framework",
-      "description": "PMR Family Code enacted 2002 modeled on Russian Federation Family Code 1995 — substantively significant Eastern European Russian-derivative-family-law framework. Chapters 11-12 govern parental rights (родительские права) and child custody. Foundational substantive family-law framework persisting through subsequent reform-trajectory."
+      "description": "PMR Family Code enacted 2002 modeled on Russian Federation Family Code 1995 — substantively significant Eastern European Russian framework. Chapters 11-12 govern parental rights (родительские права) and child custody."
     },
     {
       "year": 2006,
       "title": "PMR independence referendum + 97.2-percent-+-Russia-association framework",
-      "description": "PMR referendum 17 September 2006 — substantively distinctive Eastern European 97.2% in favour of independence and possible future association with Russia framework. Not recognised internationally. Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "PMR referendum 17 September 2006. Not recognised internationally."
     },
     {
       "year": 2022,
       "title": "Russia-Ukraine-War + PMR-cross-border-stabilization-framework + sanctions context",
-      "description": "Russia invasion of Ukraine 24 February 2022 substantively affecting PMR cross-border-jurisdiction-practice framework — substantively distinctive Eastern European PMR-isolation-+-Russian-military-base-strategic-position framework. Subsequent Ukraine territorial integrity reaffirmation through PMR Russian-supply-line-disruption affecting subsequent constitutional-democratic-trajectory."
+      "description": "Russia invasion of Ukraine 24 February 2022 substantively affecting PMR cross framework. Subsequent Ukraine territorial integrity reaffirmation through PMR Russian affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2023,

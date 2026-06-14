@@ -4,7 +4,13 @@
   "name": "United Kingdom",
   "jurisdiction_code": "GBR",
   "legal_system": "common-law",
-  "language": ["en", "sco", "gd", "ga", "cy"],
+  "language": [
+    "en",
+    "sco",
+    "gd",
+    "ga",
+    "cy"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-05-30",
   "summary": "United Kingdom umbrella jurisdiction covering all four constituent jurisdictions: England-and-Wales, Scotland, Northern Ireland, Wales (institutional sub-jurisdiction). UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Each constituent jurisdiction operates distinct substantive family-law architecture: Children Act 1989 (E&W applies in Wales); Children (Scotland) Act 1995 (SCO); Children (NI) Order 1995 (NIR). UK-wide professional regulation: Health and Care Professions Council (HCPC) for psychologists; General Medical Council (GMC) for medical practitioners; British Psychological Society (BPS) UK-wide voluntary. Re Y [2026] EWFC 38 (England, McFarlane P) is the principal UK-wide evaluator-quality apex authority.",
@@ -87,12 +93,12 @@
   "key_developments": [
     {
       "year": 1707,
-      "description": "Acts of Union 1707 + Kingdom-of-Great-Britain-formation — substantively distinctive globally Anglo-Scottish-Acts-of-Union-preserving-separate-Scottish-legal-system framework. Foundational substantive 318+ year unified UK Parliament-+-separate-Scottish-legal-system framework affecting subsequent constitutional-administrative-trajectory and multi-jurisdiction UK framework.",
+      "description": "Acts of Union 1707, Kingdom.",
       "url": "https://www.legislation.gov.uk/aep/Ann/6/11"
     },
     {
       "year": 1800,
-      "description": "Acts of Union 1800 + UK-of-Great-Britain-and-Ireland — substantively distinctive globally addition-of-Ireland-into-UK framework effective 1 January 1801. Subsequent 1921 Anglo-Irish Treaty creating Irish Free State leaving Northern Ireland in UK. Foundational pre-1921-Northern-Ireland-only framework affecting subsequent constitutional-administrative-trajectory.",
+      "description": "Acts of Union 1800, UK. Subsequent 1921 Anglo-Irish Treaty creating Irish Free State leaving Northern Ireland in UK.",
       "url": "https://www.legislation.gov.uk/aep/Geo3/40/67"
     },
     {
@@ -107,12 +113,12 @@
     },
     {
       "year": 1998,
-      "description": "Scotland Act 1998 + Government of Wales Act 1998 + Northern Ireland Act 1998 — substantively distinctive globally three-fold-UK-devolution framework establishing Scottish Parliament + Welsh Assembly + Northern Ireland Assembly. Foundational substantive 28-year devolved-Wales-Scotland-Northern-Ireland framework affecting subsequent constitutional-administrative-trajectory and family-law-implementation.",
+      "description": "Scotland Act 1998, Government of Wales Act 1998, Northern Ireland Act 1998.",
       "url": "https://www.legislation.gov.uk/ukpga/1998/46/contents"
     },
     {
       "year": 2005,
-      "description": "Constitutional Reform Act 2005 + UK-Supreme-Court establishment — substantively distinctive globally only-modern-major-jurisdictional-restructuring-replacing-House-of-Lords-Appellate-Committee-with-UK-Supreme-Court framework. Effective 1 October 2009. Substantive UK-Supreme-Court-as-final-court-of-appeal framework affecting subsequent reform-trajectory.",
+      "description": "Constitutional Reform Act 2005, UK-Supreme-Court establishment. Effective 1 October 2009.",
       "url": "https://www.legislation.gov.uk/ukpga/2005/4/contents"
     },
     {
@@ -122,12 +128,12 @@
     },
     {
       "year": 2014,
-      "description": "Children and Families Act 2014 + Section 11 presumption of parental involvement — substantively distinctive globally first-major-modern-English-Welsh-family-law-modernisation framework. Substantive Children and Families Act 2014 framework introducing 26-week timetable for care proceedings + Section 11 presumption-of-continued-parental-involvement (where consistent with child's welfare) directly relevant to parental-alienation cases as statutory baseline for ongoing-relationship-with-both-parents framework. Foundation for subsequent Re A 2019, Re H-N 2021, and Re Y 2026 parental-alienation jurisprudence.",
+      "description": "Children and Families Act 2014, Section 11 presumption of parental involvement. Substantive Children and Families Act 2014 framework introducing 26-week timetable for care proceedings, Section 11 presumption (where consistent with child's welfare) directly relevant to parental-alienation cases as statutory baseline for ongoing framework. Foundation for subsequent Re A 2019, Re H-N 2021, and Re Y 2026 parental-alienation jurisprudence.",
       "url": "https://www.legislation.gov.uk/ukpga/2014/6"
     },
     {
       "year": 2020,
-      "description": "Brexit + UK-EU-Trade-and-Cooperation-Agreement — substantively distinctive globally only-modern-major-EU-member-state-withdrawal framework effective 31 January 2020 + transition period ending 31 December 2020. Substantive Brexit framework affecting subsequent cross-border-jurisdiction-practice including end of EU Brussels-II-bis applicability + Hague-1996-as-default-framework + UK-EU family-law cooperation reframing.",
+      "description": "Brexit, UK.",
       "url": "https://www.legislation.gov.uk/ukpga/2020/29"
     },
     {

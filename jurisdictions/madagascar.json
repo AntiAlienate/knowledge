@@ -4,7 +4,10 @@
   "name": "Madagascar (Republic of Madagascar / Repoblikan'i Madagasikara / République de Madagascar)",
   "jurisdiction_code": "MG",
   "legal_system": "civil-law",
-  "language": ["mg", "fr"],
+  "language": [
+    "mg",
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Madagascar is an Indian Ocean civil-law republic whose family-law framework operates under the Civil Code (Code Civil) drawing on French civil-law substantive heritage with substantial codification of customary-law and Merina/Betsileo traditional matrimonial-property provisions (notably the 'fitampoha' marriage-property tradition). Family-law framework operates under Law 2007-022 on Marriage, Law 2007-023 on Filiation, Law 2007-024 on Parental Authority, and Law 2017-014 on Child Protection. Parental authority and child custody are governed by Law 2007-024 arts. 1-30. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the High Constitutional Court (Haute Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Public Health framework. Madagascar is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Madagascar acceded to the Hague Convention 1980 effective 1 September 2004.",
@@ -62,7 +65,7 @@
     {
       "year": 1960,
       "title": "Madagascar independence + Tsiranana founding-presidency",
-      "description": "Madagascar independence 26 June 1960 from France — establishing presidential republic framework. Philibert Tsiranana first president 1960-1972 substantively significant founding-presidency framework. Foundational pre-1972-revolution framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Madagascar independence 26 June 1960 from France — establishing presidential republic framework. Philibert Tsiranana first president 1960-1972 substantively significant founding-presidency framework."
     },
     {
       "year": 1972,
@@ -72,7 +75,7 @@
     {
       "year": 1975,
       "title": "Ratsiraka + Democratic Republic of Madagascar + Marxist-Leninist framework",
-      "description": "Didier Ratsiraka assumed presidency 21 December 1975 establishing Democratic Republic of Madagascar (Repoblika Demokratika Malagasy) under Marxist-Leninist framework. Substantively distinctive Indian Ocean African Marxist-Leninist framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Didier Ratsiraka assumed presidency 21 December 1975 establishing Democratic Republic of Madagascar (Repoblika Demokratika Malagasy) under Marxist-Leninist framework."
     },
     {
       "year": 1991,
@@ -92,7 +95,7 @@
     {
       "year": 2007,
       "title": "Family-Law Reform Package — Laws 2007-022, 2007-023, 2007-024",
-      "description": "Federal Family-Law Reform Package 20 August 2007 — Law 2007-022 on Marriage, Law 2007-023 on Filiation, Law 2007-024 on Parental Authority enacted as comprehensive reform. Substantively distinctive within African corpus multi-statute family-law-reform approach. Arts. 1-30 of Law 2007-024 govern parental authority."
+      "description": "Federal Family-Law Reform Package 20 August 2007 — Law 2007-022 on Marriage, Law 2007-023 on Filiation, Law 2007-024 on Parental Authority enacted as comprehensive reform. Arts. 1-30 of Law 2007-024 govern parental authority."
     },
     {
       "year": 2009,

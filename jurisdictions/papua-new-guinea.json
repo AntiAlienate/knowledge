@@ -4,7 +4,11 @@
   "name": "Papua New Guinea (Independent State of Papua New Guinea)",
   "jurisdiction_code": "PG",
   "legal_system": "mixed",
-  "language": ["en", "tpi", "ho"],
+  "language": [
+    "en",
+    "tpi",
+    "ho"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Papua New Guinea is a Pacific Island mixed-legal-system constitutional monarchy combining Australian-derivative common-law substantive heritage (via 1975 independence + adopted Constitution) with constitutionally-recognised customary-law personal-status jurisdiction operating through Village Courts under the Village Courts Act 1989. Family-law framework operates under the Marriage Act 1963, the Matrimonial Causes Act 1963, the Lukautim Pikinini (Child) Act 2015, the Customary Recognition Act, and the Underlying Law Act 2000 codifying the role of customary law. Parental responsibility and child custody are governed by Lukautim Pikinini Act ss. 5-7 and case-law applying the welfare-of-the-child principle. The Supreme Court of Papua New Guinea is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the National Court (Family Section), Magistrates' Courts, and Village Courts for customary-law matters. Psychology profession is regulated through the Medical Board of Papua New Guinea framework. Papua New Guinea is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Lukautim Pikinini Act s. 5. Papua New Guinea is non-Hague Convention.",
@@ -56,22 +60,22 @@
     {
       "year": 1914,
       "title": "Australian occupation + League-of-Nations-Mandate framework",
-      "description": "Australian military occupation of German New Guinea 17 September 1914 — Australian administration framework. Subsequent League of Nations Mandate (1920) and UN Trust Territory framework (1946-1975) substantively distinctive Pacific WWI-to-WWII administrative framework. Foundational pre-1975-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Australian military occupation of German New Guinea 17 September 1914 — Australian administration framework."
     },
     {
       "year": 1963,
       "title": "Marriage Act + Matrimonial Causes Act + pre-independence statutory framework",
-      "description": "Marriage Act 1963 and Matrimonial Causes Act 1963 enacted establishing pre-independence statutory family-law framework. Foundational substantive-family-law framework persisting through 1975 independence and subsequent reform-trajectory."
+      "description": "Marriage Act 1963 and Matrimonial Causes Act 1963 enacted establishing pre-independence statutory family-law framework."
     },
     {
       "year": 1975,
       "title": "Papua New Guinea independence + Michael Somare founding-prime-minister + Constitution",
-      "description": "Papua New Guinea achieved independence 16 September 1975 from Australia. Michael Somare first prime minister 1975-1980. Constitution adopted establishing common-law substantive framework with constitutionally-recognised customary-law jurisdiction. Substantively distinctive Pacific Island first-large-state-independence framework."
+      "description": "Papua New Guinea achieved independence 16 September 1975 from Australia. Michael Somare first prime minister 1975-1980. Constitution adopted establishing common-law substantive framework with constitutionally-recognised customary-law jurisdiction."
     },
     {
       "year": 1989,
       "title": "Village Courts Act + Bougainville-conflict-start framework",
-      "description": "Federal statute establishing Village Courts for customary-law jurisdiction. Bougainville civil war begins 1988-1998 substantively distinctive Pacific Island 10-year armed-conflict framework with estimated 15,000-20,000 killed substantially affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal statute establishing Village Courts for customary-law jurisdiction."
     },
     {
       "year": 1993,
@@ -81,22 +85,22 @@
     {
       "year": 2000,
       "title": "Underlying Law Act + customary-law-codification framework",
-      "description": "Federal statute Underlying Law Act 2000 codifying the role of customary law as part of underlying law of PNG. Substantively significant Pacific Island customary-law-codification framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal statute Underlying Law Act 2000 codifying the role of customary law as part of underlying law of PNG."
     },
     {
       "year": 2001,
       "title": "Bougainville Peace Agreement + autonomous-region framework",
-      "description": "Bougainville Peace Agreement 30 August 2001 ending Bougainville Civil War 1988-1998. Subsequent Bougainville Autonomous Region framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+      "description": "Bougainville Peace Agreement 30 August 2001 ending Bougainville Civil War 1988-1998."
     },
     {
       "year": 2015,
       "title": "Lukautim Pikinini (Child) Act",
-      "description": "Federal Child Welfare Act enacted codifying welfare-of-the-child principle (s. 5), parental responsibility, custody, and children's protection provisions. Tok Pisin language title 'Lukautim Pikinini' means 'Looking after the child' — substantively distinctive within corpus indigenous-language-legislative-naming framework."
+      "description": "Federal Child Welfare Act enacted codifying welfare principle (s. 5), parental responsibility, custody, and children's protection provisions. Tok Pisin language title 'Lukautim Pikinini' means 'Looking after the child'."
     },
     {
       "year": 2019,
       "title": "Bougainville independence referendum 2019 + 97.7%-in-favour framework",
-      "description": "Bougainville independence referendum 23 November – 7 December 2019 — substantively distinctive Pacific Island self-determination framework with 97.7% in favour of independence. Substantive subsequent independence-negotiation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Bougainville independence referendum 23 November – 7 December 2019."
     },
     {
       "year": 2023,

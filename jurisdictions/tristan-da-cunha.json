@@ -4,7 +4,9 @@
   "name": "Tristan da Cunha (Tristan da Cunha Group)",
   "jurisdiction_code": "SH-TDC",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Tristan da Cunha is a South Atlantic common-law dependency of the British Overseas Territory of Saint Helena, Ascension and Tristan da Cunha — structurally distinctive globally as the most remote inhabited archipelago on Earth (nearest inhabited land is Saint Helena ~2,430 km north; nearest continental land is South Africa ~2,810 km east; nearest other major land is South America/Argentina ~3,360 km west), as the only state-level entity operating a complete-community-ownership land framework (all land on Tristan da Cunha is constitutionally communally owned via the Tristan da Cunha Land Tenure framework — no private land ownership permitted), and as the central jurisdiction of the 1961 Volcanic Eruption Evacuation framework (Tristan da Cunha's entire population of ~290 was evacuated to the UK following the 10 October 1961 volcanic eruption of Queen Mary's Peak — the only complete state-level civilian-population evacuation due to natural disaster in modern history; the population voted to return to Tristan da Cunha in November 1962 and was repatriated in November 1963). Tristan da Cunha comprises the main inhabited island of Tristan (~98 km²) plus the uninhabited Nightingale, Inaccessible, Gough, and Middle Islands. The permanent population is ~270 in the single settlement of Edinburgh of the Seven Seas, descended from a small founding population including a single 1816 British military garrison commander (Corporal William Glass) and subsequent ship-wrecked sailors and women from Saint Helena — making Tristan da Cunha distinctive globally as the only state-level entity with a population traceable to a single 1816 founding cohort. Family-law framework operates under the English law via the Saint Helena, Ascension and Tristan da Cunha Constitution Order 2009 with local Tristan da Cunha Council Ordinances. Parental authority and child custody operate under English law adapted to Tristan da Cunha circumstances. The Tristan da Cunha Magistrate's Court is the first-instance court; the Supreme Court of Saint Helena, Ascension and Tristan da Cunha is the intermediate appellate court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). Tristan da Cunha is silent on 'parental alienation' as a statutory label. UK is a Hague Convention 1980 party (acceded 20 May 1986) — Tristan da Cunha Hague applicability via UK territorial extension.",
@@ -62,27 +64,27 @@
     {
       "year": 1506,
       "title": "Portuguese-naming + early-European-contact framework",
-      "description": "Tristan da Cunha named 1506 by Portuguese explorer Tristão da Cunha — substantively distinctive South Atlantic early-Portuguese-discovery framework. Foundational pre-1816-British-annexation framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Tristan da Cunha named 1506 by Portuguese explorer Tristão da Cunha."
     },
     {
       "year": 1816,
       "title": "British annexation + founding-population-+-Corporal-William-Glass framework",
-      "description": "British military annexation of Tristan da Cunha 14 August 1816 — substantively distinctive globally British-preventive-occupation-against-Napoleon-rescue-from-Saint-Helena framework. Corporal William Glass remained on Tristan da Cunha after garrison withdrawal 1817 — substantively distinctive globally only-state-level-entity-with-population-traceable-to-single-1816-founding-cohort framework. Foundational substantive 209+ year founding-cohort-population framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "British military annexation of Tristan da Cunha 14 August 1816. Corporal William Glass remained on Tristan da Cunha after garrison withdrawal 1817."
     },
     {
       "year": 1875,
       "title": "Tristan da Cunha Land Tenure framework + community-ownership framework",
-      "description": "Tristan da Cunha Land Tenure framework consolidated under Rev. Edwin Dodgson 1875 — substantively distinctive globally only-state-level-entity-operating-complete-community-ownership-land-framework framework. All land on Tristan da Cunha communally owned; no private land ownership permitted. Foundational substantive 150+ year complete-community-ownership land-framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Tristan da Cunha Land Tenure framework consolidated under Rev. Edwin Dodgson 1875. All land on Tristan da Cunha communally owned; no private land ownership permitted."
     },
     {
       "year": 1961,
       "title": "Volcanic eruption + complete-population-evacuation framework",
-      "description": "Volcanic eruption of Queen Mary's Peak 10 October 1961 — Tristan da Cunha's entire population of ~290 was evacuated to UK. Substantively distinctive globally only-complete-state-level-civilian-population-evacuation-due-to-natural-disaster-in-modern-history framework. Foundational substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+      "description": "Volcanic eruption of Queen Mary's Peak 10 October 1961 — Tristan da Cunha's entire population of ~290 was evacuated to UK."
     },
     {
       "year": 1963,
       "title": "Population-repatriation + most-remote-permanent-civilian-community-evacuation-and-return framework",
-      "description": "Tristan da Cunha population voted to return November 1962 and was repatriated November 1963 — substantively distinctive globally most-remote-permanent-civilian-community-to-undergo-complete-population-evacuation-and-return-in-modern-history framework. Substantive demographic and family-law-implementation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Tristan da Cunha population voted to return November 1962 and was repatriated November 1963."
     },
     {
       "year": 1986,
@@ -92,17 +94,17 @@
     {
       "year": 1995,
       "title": "Gough Island + Inaccessible-Island-UNESCO-World-Heritage framework",
-      "description": "Gough Island UNESCO World Heritage Site inscription 1995 + Inaccessible Island UNESCO World Heritage Site inscription 2004 (joint inscription Gough and Inaccessible Islands) — substantively distinctive South Atlantic UNESCO-World-Heritage-+-marine-conservation framework. Substantive conservation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Gough Island UNESCO World Heritage Site inscription 1995, Inaccessible Island UNESCO World Heritage Site inscription 2004 (joint inscription Gough and Inaccessible Islands)."
     },
     {
       "year": 2009,
       "title": "SHATdC Constitution Order 2009 + three-territory-framework framework",
-      "description": "UK Order in Council 8 July 2009 establishing the consolidated constitutional framework for Saint Helena, Ascension and Tristan da Cunha — substantively distinctive globally only-modern-composite-British-Overseas-Territory-with-three-constitutionally-equal-constituents framework. Substantive constitutional anchor for contemporary family-law jurisprudence affecting subsequent reform-trajectory."
+      "description": "UK Order in Council 8 July 2009 establishing the consolidated constitutional framework for Saint Helena, Ascension and Tristan da Cunha."
     },
     {
       "year": 2020,
       "title": "Tristan da Cunha Marine Protection Zone + 690000-km2-MPA framework",
-      "description": "Tristan da Cunha Marine Protection Zone declared 13 November 2020 — substantively distinctive globally 690,000+km²-marine-protected-area-fourth-largest-fully-protected-marine-area-in-the-world framework. Substantive South Atlantic marine-conservation framework affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice."
+      "description": "Tristan da Cunha Marine Protection Zone declared 13 November 2020."
     },
     {
       "year": 2023,

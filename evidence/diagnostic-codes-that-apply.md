@@ -58,7 +58,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 (Text reproduced from [DSM-5](https://www.appi.org/products/dsm) pages 715–716 as quoted in the SCCMHA *V-Codes ([DSM-5](https://www.appi.org/products/dsm)) & Z Codes (ICD-10) Relational Problems* clinical-handout PDF at https://www.sccmha.org/userfiles/filemanager/34147/ and corroborated against the Bernet, Wamboldt & Narrow 2016 CAPRD reproduction; **[secondary verification only]** for exact pagination.)
 
-**The phrase "unwarranted feelings of estrangement"** is the textual hook in DSM-5 that most directly mirrors the descriptive content of "alienation" without requiring the clinician to adopt a contested syndrome label.
+**The phrase "unwarranted feelings of estrangement"** is the textual hook in [DSM-5](https://www.appi.org/products/dsm) that most directly mirrors the descriptive content of "alienation" without requiring the clinician to adopt a contested syndrome label.
 
 ---
 
@@ -224,7 +224,7 @@ This strategy gives the report:
 
 The Bernet/Wamboldt/Narrow 2016 JAACAP article (§1.3 above) is the load-bearing citation when a forensic evaluator wants to argue that **CAPRD covers PA-pattern conduct**. Where the evaluator instead wants to argue that the conduct rises to **psychological abuse**, the corresponding doctrinal citations are:
 
-- Smith Slep, Heyman & Foran (2015). Child maltreatment in DSM-5 and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed DSM-5 (2013) and were being considered for ICD-11; argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
+- Smith Slep, Heyman & Foran (2015). Child maltreatment in DSM-5 and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed DSM-5 (2013) and were being considered for [ICD-11](https://icd.who.int/); argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
 - Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in DSM-5, and proposed changes for ICD-11. *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The DSM-5 Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
 
 These two 2015 *Family Process* papers are the methodological backbone for the proposition that the DSM-5 relational-problem and maltreatment codes have field-tested reliability adequate for forensic use.
@@ -349,7 +349,7 @@ Documented in §1.4 above.
 
 ### 6.7 What this history tells us
 
-The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal (rejected) → CAPRD 2016 (peer-reviewed JAACAP citation secured) → ICD-11 index-term inclusion then removal 2020 → DSM-5-TR PARP proposal 2022 (not adopted) → Bernet 2023 PCRP-correction proposal (pending) — is a **35-year, partially successful** effort to embed the PA construct in formal diagnostic infrastructure. The construct's *behavioural content* has been substantially absorbed into V61.20, V61.29, V995.51, and QE52.0; the construct's *syndromic / disorder framing* has been rejected by the APA, WHO, APSAC, [BPS](https://www.bps.org.uk/), the UN Special Rapporteur on Violence against Women, the European Parliament, and the Italian Supreme Court (see `/evidence/international-institutional-positions.md`).
+The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal (rejected) → CAPRD 2016 (peer-reviewed JAACAP citation secured) → ICD-11 index-term inclusion then removal 2020 → [DSM-5-TR](https://www.appi.org/products/dsm) PARP proposal 2022 (not adopted) → Bernet 2023 PCRP-correction proposal (pending) — is a **35-year, partially successful** effort to embed the PA construct in formal diagnostic infrastructure. The construct's *behavioural content* has been substantially absorbed into V61.20, V61.29, V995.51, and QE52.0; the construct's *syndromic / disorder framing* has been rejected by the APA, WHO, APSAC, [BPS](https://www.bps.org.uk/), the UN Special Rapporteur on Violence against Women, the European Parliament, and the Italian Supreme Court (see `/evidence/international-institutional-positions.md`).
 
 ---
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

@@ -4,7 +4,10 @@
   "name": "Norfolk Island",
   "jurisdiction_code": "NF",
   "legal_system": "common-law",
-  "language": ["en", "pih"],
+  "language": [
+    "en",
+    "pih"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Norfolk Island is a Pacific Island common-law Australian external territory — structurally distinctive globally as the only modern state-level entity to undergo devolution-reversal (self-government 1979-2015 then re-integrated back into Australian Commonwealth law 2016). Population is composed primarily of descendants of HMS Bounty mutineers and Polynesian Tahitian companions who relocated from Pitcairn to Norfolk Island in 1856 (when Pitcairn was deemed too small to sustain the population), retaining the distinct Norf'k language alongside English. Family-law framework operated under Norfolk Island legislation 1979-2015; following the 2015 Norfolk Island Legislation Amendment Act (Cth), Australian Commonwealth and New South Wales family-law became applicable from 1 July 2016. Parental responsibility and child custody are governed by Australian Family Law Act 1975 with NSW administrative arrangements. The Federal Circuit and Family Court of Australia has jurisdiction over Norfolk Island matters; final appellate jurisdiction lies with the High Court of Australia. Family-law matters are heard at first instance in the Norfolk Island Court of Petty Sessions and Federal Court arrangements. Psychology profession is regulated through the Australian Health Practitioner Regulation Agency (AHPRA). Norfolk Island is silent on 'parental alienation' as a statutory label; courts operate substantively under the Australian best-interests-of-the-child standard. Norfolk Island is a Hague Convention 1980 party via Australian territorial extension effective 1 January 1987.",
@@ -62,27 +65,27 @@
     {
       "year": 1788,
       "title": "First-British-settlement + penal-colony framework",
-      "description": "First British settlement of Norfolk Island 6 March 1788 by Lieutenant Philip Gidley King — substantively distinctive Pacific Anglo-penal-colony framework. Subsequent abandonment 1814 + second penal settlement 1825-1855. Foundational pre-1856-Pitcairn-relocation framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "First British settlement of Norfolk Island 6 March 1788 by Lieutenant Philip Gidley King. Subsequent abandonment 1814, second penal settlement 1825-1855."
     },
     {
       "year": 1856,
       "title": "Pitcairn descendants relocation + Norf'k-language-+-Polynesian-Tahitian-heritage framework",
-      "description": "HMS Bounty mutineers' descendants (with Polynesian Tahitian heritage) relocated from Pitcairn to Norfolk Island 8 June 1856 — substantively distinctive globally only-modern-Pacific-Anglo-population-with-Bounty-+-Tahitian-+-Norf'k-language-creole-heritage framework. Foundational substantive 170-year Bounty-descendant Norfolk-Islander population framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
+      "description": "HMS Bounty mutineers' descendants (with Polynesian Tahitian heritage) relocated from Pitcairn to Norfolk Island 8 June 1856."
     },
     {
       "year": 1914,
       "title": "Norfolk Island Act 1913 + Australian-administration framework",
-      "description": "Norfolk Island Act 1913 (Cth) effective 1 July 1914 establishing Norfolk Island as Australian territory — substantively distinctive Pacific Australian-Norfolk-Island-administration framework. Foundational pre-1979-self-government framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Norfolk Island Act 1913 (Cth) effective 1 July 1914 establishing Norfolk Island as Australian territory."
     },
     {
       "year": 1975,
       "title": "Australian Family Law Act 1975 + best-interests-of-the-child-applicability-framework framework",
-      "description": "Australian Family Law Act 1975 (Cth) — substantively significant Pacific Australian-family-law framework subsequently applicable to Norfolk Island via 2016 re-integration. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Australian Family Law Act 1975 (Cth) — substantively significant Pacific Australian-family-law framework subsequently applicable to Norfolk Island via 2016 re-integration."
     },
     {
       "year": 1979,
       "title": "Norfolk Island Act 1979 + self-government-+-Bounty-descendant-distinctive-self-government framework",
-      "description": "Federal Norfolk Island Act 1979 establishing Norfolk Island self-government within Australian framework — substantively distinctive Pacific Bounty-descendant-distinctive-self-government 1979-2015 framework. Foundational substantive 36-year self-government framework affecting subsequent 2015 devolution-reversal."
+      "description": "Federal Norfolk Island Act 1979 establishing Norfolk Island self-government within Australian framework."
     },
     {
       "year": 1987,
@@ -92,17 +95,17 @@
     {
       "year": 2006,
       "title": "Norfolk Island Norf'k-language recognition + heritage-preservation framework",
-      "description": "Norfolk Island Norf'k language formal recognition through Norfolk Island Government framework — substantively distinctive Pacific Bounty-descendant-creole-language-formal-recognition framework. Substantive heritage-preservation framework affecting subsequent constitutional-democratic-trajectory and language-rights framework."
+      "description": "Norfolk Island Norf'k language formal recognition through Norfolk Island Government framework."
     },
     {
       "year": 2015,
       "title": "Norfolk Island Legislation Amendment Act 2015 + devolution-reversal-+-Bounty-descendant-resistance framework",
-      "description": "Federal Norfolk Island Legislation Amendment Act 2015 terminating Norfolk Island self-government (effective 1 July 2016) — substantively distinctive globally only-modern-state-level-entity-to-undergo-formal-devolution-reversal framework. Applied Australian Commonwealth and NSW law including family-law. Substantive Bounty-descendant resistance + 2015 Norfolk Island Council non-binding referendum 68% against. Foundational substantive devolution-reversal framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Norfolk Island Legislation Amendment Act 2015 terminating Norfolk Island self-government (effective 1 July 2016). Applied Australian Commonwealth and NSW law including family-law. Substantive Bounty-descendant resistance, 2015 Norfolk Island Council non-binding referendum 68% against."
     },
     {
       "year": 2016,
       "title": "Devolution-reversal-completion + Australian-Commonwealth-+-NSW-law-applicability framework",
-      "description": "Norfolk Island re-integrated into Australian Commonwealth law effective 1 July 2016 — substantively distinctive globally only-modern-devolution-reversal-completion framework. Australian Family Law Act 1975 applicable via NSW administrative arrangements. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Norfolk Island re-integrated into Australian Commonwealth law effective 1 July 2016. Australian Family Law Act 1975 applicable via NSW administrative arrangements."
     },
     {
       "year": 2023,

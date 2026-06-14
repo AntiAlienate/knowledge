@@ -4,7 +4,9 @@
   "name": "Iceland (Ísland)",
   "jurisdiction_code": "IS",
   "legal_system": "civil-law",
-  "language": ["is"],
+  "language": [
+    "is"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Iceland is a Nordic civil-law unitary republic whose family-law framework operates under the Barnalög (Children Act) Law 76/2003. Parental responsibility (forsjá) is the statutory default jointly held by married and cohabiting parents under Barnalög §§ 28-32. The Hæstiréttur (Supreme Court of Iceland, Reykjavík) is the apex court for civil and criminal matters; family-law decisions reach Hæstiréttur via the Landsréttur (Court of Appeal, established 1 January 2018) following first-instance Héraðsdómur (District Court) determinations. Psychology profession is regulated under the Health Care Personnel Act 34/2012 (Lög um heilbrigðisstarfsmenn) operated by Embætti landlæknis (Directorate of Health). Iceland is silent on 'parental alienation' as a statutory label; courts operate substantively under the það sem barni er fyrir bestu (best-interests-of-the-child) welfare standard. UN CRC was incorporated into Icelandic law by Law 19/2013 in force 20 February 2013.",
@@ -67,12 +69,12 @@
     {
       "year": 930,
       "title": "Alþingi established + first-parliamentary-democracy-globally framework",
-      "description": "Alþingi (Icelandic parliament) established 930 CE at Þingvellir — substantively distinctive globally first-parliamentary-democracy-still-in-existence framework. Foundational Icelandic-distinctive parliamentary-democratic-tradition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Alþingi (Icelandic parliament) established 930 CE at Þingvellir."
     },
     {
       "year": 1944,
       "title": "Iceland independence + Republic framework",
-      "description": "Iceland independence 17 June 1944 from Denmark — establishing Republic framework following 1944 referendum. Substantively distinctive Nordic post-WWII independence framework. Foundational pre-EEA-membership framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Iceland independence 17 June 1944 from Denmark — establishing Republic framework following 1944 referendum."
     },
     {
       "year": 1992,
@@ -87,12 +89,12 @@
     {
       "year": 2008,
       "title": "Iceland Banking Crisis 2008 + Krónutillaga + EU-application-and-withdrawal framework",
-      "description": "Iceland Banking Crisis October 2008 — substantively distinctive globally Icelandic-bank-collapse framework (Glitnir, Landsbanki, Kaupþing). Subsequent EU-membership-application 2009 + 2015 withdrawal framework. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+      "description": "Iceland Banking Crisis October 2008. Subsequent EU-membership-application 2009, 2015 withdrawal framework. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
     },
     {
       "year": 2010,
       "title": "Same-sex marriage 2010 + LGBTQ-rights-equality framework",
-      "description": "Same-sex marriage legalised 27 June 2010 — substantively distinctive Nordic LGBTQ-rights-equality framework. Substantively significant Iceland-globally-distinctive first-100-percent-LGBTQ-rights-equality framework affecting subsequent family-law-cross-cutting-areas."
+      "description": "Same-sex marriage legalised 27 June 2010."
     },
     {
       "year": 2012,
@@ -102,7 +104,7 @@
     {
       "year": 2013,
       "title": "UN CRC incorporated",
-      "description": "Law 19/2013 incorporated UN Convention on the Rights of the Child into Icelandic law in force 20 February 2013 — substantively distinctive Nordic UNCRC-direct-incorporation framework (alongside Norway and Sweden)."
+      "description": "Law 19/2013 incorporated UN Convention on the Rights of the Child into Icelandic law in force 20 February 2013."
     },
     {
       "year": 2018,

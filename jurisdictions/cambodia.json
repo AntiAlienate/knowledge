@@ -4,7 +4,9 @@
   "name": "Cambodia (Kingdom of Cambodia / ព្រះរាជាណាចក្រកម្ពុជា)",
   "jurisdiction_code": "KH",
   "legal_system": "civil-law",
-  "language": ["km"],
+  "language": [
+    "km"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Cambodia is a Southeast Asian civil-law constitutional monarchy whose family-law framework operates under the Civil Code 2007 (effective 2011) Book V (Family) and the Law on Marriage and Family 1989. Parental authority and child custody are governed by Civil Code arts. 1034-1054. The Supreme Court of Cambodia (តុលាការកំពូល) is the apex court for civil and criminal matters; the Constitutional Council (ក្រុមប្រឹក្សាធម្មនុញ្ញ) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance under specialised family-procedure rules. Psychology profession is regulated through the Ministry of Health framework; no unified federal-statutory psychology regulator exists. Cambodia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard codified in Civil Code art. 1037. Cambodia is non-Hague Convention.",
@@ -60,7 +62,7 @@
     {
       "year": 1989,
       "title": "Law on Marriage and Family enacted",
-      "description": "Federal Law on Marriage and Family enacted 26 July 1989 under People's Republic of Kampuchea (PRK, 1979-1989) / State of Cambodia (SOC, 1989-1993) administration — first major post-Khmer-Rouge family-law statute codifying marriage, parental rights, divorce, custody, and inheritance within socialist-civil-law framework. Foundational substantive anchor for subsequent Cambodian family-law jurisprudence."
+      "description": "Federal Law on Marriage and Family enacted 26 July 1989 under People's Republic of Kampuchea (PRK, 1979-1989) / State of Cambodia (SOC, 1989-1993) administration — first major post-Khmer-Rouge family-law statute codifying marriage, parental rights, divorce, custody, and inheritance within socialist-civil-law framework."
     },
     {
       "year": 1992,
@@ -100,7 +102,7 @@
     {
       "year": 2023,
       "title": "Hun Manet succession framework + dynasty-transition context + Cambodian Human Rights Committee framework",
-      "description": "Hun Manet succession framework — Hun Sen 38-year presidency 1985-2023 ending with son Hun Manet (Cambodian People's Party) inauguration 22 August 2023 — substantively distinctive Southeast Asian dynastic-transition framework. Cambodian Human Rights Committee and Ministry of Women's Affairs institutional positions addressing PA-related issues within Civil Code 2007 + Juvenile Justice Law 2016 framework. Substantively significant Indochinese institutional jurisprudential development."
+      "description": "Hun Manet succession framework. Cambodian Human Rights Committee and Ministry of Women's Affairs institutional positions addressing PA-related issues within Civil Code 2007, Juvenile Justice Law 2016 framework. Substantively significant Indochinese institutional jurisprudential development."
     },
     {
       "year": 2024,

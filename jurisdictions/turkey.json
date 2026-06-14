@@ -4,7 +4,9 @@
   "name": "Türkiye (Republic of Türkiye)",
   "jurisdiction_code": "TR",
   "legal_system": "civil-law",
-  "language": ["tr"],
+  "language": [
+    "tr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Türkiye is a civil-law unitary republic whose family-court framework operates under the Türk Medeni Kanunu (Turkish Civil Code, Law 4721/2001) Book Two (Family Law). Parental authority (velâyet) is held by both spouses during marriage (TMK arts. 335-336) and, on divorce, assigned to one parent by the family court under TMK art. 182 with the welfare standard governing the determination. Personal relationship between the non-custodial parent and the child (kişisel ilişki) is governed by TMK art. 182/2 and art. 323. Family-law matters are heard by specialised Aile Mahkemeleri (Family Courts) under Law 4787/2003. The Yargıtay (Court of Cassation, Ankara) is the apex court of appeal for civil matters; Türkiye's Constitutional Court (Anayasa Mahkemesi) operates an individual-application jurisdiction since 2012 for constitutional and ECHR-rights claims. Psychology profession is regulated by the Türk Psikologlar Derneği (TPD) under Ministry of Health licensing requirements; statutory regulation of psychology as a profession remains less comprehensive than the federal-statutory regimes elsewhere in the corpus. Türkiye is silent on 'parental alienation' as a statutory label; family-court practice operates substantively under the çocuğun üstün yararı (best-interests-of-the-child) welfare standard.",
@@ -107,7 +109,7 @@
     {
       "year": 2021,
       "title": "Istanbul Convention withdrawal — structurally distinctive globally only formal withdrawal framework",
-      "description": "Türkiye formal withdrawal from Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Istanbul Convention) effective 1 July 2021 by Presidential Decree 3718 of 19 March 2021 — structurally distinctive globally only modern state to formally withdraw from Istanbul Convention. Substantive Istanbul Convention withdrawal framework affecting subsequent gender-violence + family-law cooperation framework + foundation for ongoing Türkiye-Council-of-Europe gender-violence-protection-debate. Substantive context for ongoing Yargıtay + Anayasa Mahkemesi family-life Article 8 jurisprudence operating without Istanbul Convention substantive register."
+      "description": "Türkiye formal withdrawal from Council of Europe Convention on Preventing and Combating Violence against Women and Domestic Violence (Istanbul Convention) effective 1 July 2021 by Presidential Decree 3718 of 19 March 2021 — structurally distinctive globally only modern state to formally withdraw from Istanbul Convention. Substantive context for ongoing Yargıtay, Anayasa Mahkemesi family-life Article 8 jurisprudence operating without Istanbul Convention substantive register."
     },
     {
       "year": 2022,

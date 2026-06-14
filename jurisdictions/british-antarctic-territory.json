@@ -4,7 +4,9 @@
   "name": "British Antarctic Territory (BAT)",
   "jurisdiction_code": "AQ-BR",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "British Antarctic Territory (BAT) is an Antarctic common-law British Overseas Territory comprising the sector of Antarctica south of 60°S between 20°W and 80°W longitude (the Antarctic Peninsula, South Orkney Islands, South Shetland Islands, and surrounding areas) — structurally distinctive globally as one of seven national Antarctic territorial claims operating under the 1959 Antarctic Treaty's claim-suspension framework (article IV), with overlapping claims by Argentina (Antártida Argentina) and Chile (Territorio Chileno Antártico). BAT was established as a separate British Overseas Territory on 3 March 1962 by the British Antarctic Territory Order, having previously been administered as part of the Falkland Islands Dependencies. BAT has no permanent civilian population — only seasonal British Antarctic Survey research staff at Rothera, Halley, Bird Island, King Edward Point, and Signy research stations. Family-law framework is theoretical given the absence of permanent civilian population, but operates under English law applied via the BAT Order. Parental authority and child custody would in principle operate under English common-law via Children Act 1989. The BAT Magistrate's Court is the apex domestic court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). BAT is silent on 'parental alienation' as a statutory label. BAT is a Hague Convention 1980 party via UK territorial extension — operationally theoretical given absence of civilian population.",
@@ -62,47 +64,47 @@
     {
       "year": 1908,
       "title": "UK Antarctic claim established + Falkland-Islands-Dependencies framework",
-      "description": "UK Letters Patent of 21 July 1908 establishing the original Falkland Islands Dependencies claim including the BAT sector. Substantively distinctive globally early-20th-century Antarctic-territorial-claim framework. Foundational pre-Antarctic-Treaty framework affecting subsequent jurisdictional-trajectory."
+      "description": "UK Letters Patent of 21 July 1908 establishing the original Falkland Islands Dependencies claim including the BAT sector."
     },
     {
       "year": 1940,
       "title": "Chilean Antarctic claim 1940 + Argentine claim 1942 + overlapping-claims framework",
-      "description": "Chile claimed Antarctic Territory (Territorio Chileno Antártico) 6 November 1940. Argentina formally claimed Antártida Argentina 1942. Substantively distinctive globally only-state-territorial-claims-where-multiple-state-claims-overlap-entirely framework affecting subsequent international-relations-trajectory."
+      "description": "Chile claimed Antarctic Territory (Territorio Chileno Antártico) 6 November 1940. Argentina formally claimed Antártida Argentina 1942."
     },
     {
       "year": 1944,
       "title": "Operation Tabarin + British scientific-presence framework",
-      "description": "Operation Tabarin 1943-1945 substantively establishing British scientific-presence framework in Antarctica during WWII. Subsequent Falkland Islands Dependencies Survey 1945-1962 (renamed British Antarctic Survey 1962). Foundational pre-1959-Treaty research-station framework affecting subsequent scientific-administration framework."
+      "description": "Operation Tabarin 1943-1945 substantively establishing British scientific-presence framework in Antarctica during WWII. Subsequent Falkland Islands Dependencies Survey 1945-1962 (renamed British Antarctic Survey 1962)."
     },
     {
       "year": 1959,
       "title": "Antarctic Treaty signed + article-IV-claim-suspension framework",
-      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — BAT claim suspended pending Treaty term. Substantively distinctive globally only-modern-claim-suspension-framework affecting state territorial claims. Foundational Antarctic-governance framework."
+      "description": "Antarctic Treaty signed on 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — BAT claim suspended pending Treaty term. Foundational Antarctic-governance framework."
     },
     {
       "year": 1962,
       "title": "BAT Order — separate British Overseas Territory",
-      "description": "Order in Council of 3 March 1962 establishing BAT as a separate British Overseas Territory from the Falkland Islands Dependencies. Substantively distinctive Antarctic-British-Overseas-Territory framework affecting subsequent administrative-trajectory."
+      "description": "Order in Council of 3 March 1962 establishing BAT as a separate British Overseas Territory from the Falkland Islands Dependencies."
     },
     {
       "year": 1982,
       "title": "Falklands War context + Argentine-claims-tension framework",
-      "description": "Falklands War 2 April – 14 June 1982 substantively affecting BAT-Argentine-claim framework — substantive UK-Argentina-tension affecting cross-territorial-claim relationship. Substantive post-Falklands-War framework affecting subsequent Antarctic-Argentine-relations."
+      "description": "Falklands War 2 April – 14 June 1982 substantively affecting BAT-Argentine-claim framework — substantive UK-Argentina-tension affecting cross-territorial-claim relationship."
     },
     {
       "year": 1991,
       "title": "Madrid Protocol + Environmental-Protection framework",
-      "description": "Protocol on Environmental Protection to the Antarctic Treaty (Madrid Protocol) signed 4 October 1991 (entered into force 14 January 1998) substantively reforming Antarctic-environmental-governance framework. Substantive 50-year mining moratorium framework affecting subsequent BAT-administration."
+      "description": "Protocol on Environmental Protection to the Antarctic Treaty (Madrid Protocol) signed 4 October 1991 (entered into force 14 January 1998) substantively reforming Antarctic-environmental-governance framework."
     },
     {
       "year": 2009,
       "title": "British Antarctic Territory Order 2009 + administrative-modernisation framework",
-      "description": "British Antarctic Territory Order 2009 substantively modernising BAT-administrative framework. Substantively significant constitutional-administrative framework affecting subsequent jurisdictional-trajectory."
+      "description": "British Antarctic Territory Order 2009 substantively modernising BAT-administrative framework."
     },
     {
       "year": 2013,
       "title": "Queen Elizabeth Land naming 2012 + Diamond Jubilee context",
-      "description": "Queen Elizabeth Land named 18 December 2012 — substantively distinctive Antarctic-naming framework affecting subsequent BAT-territorial-administration. Substantive UK-Antarctic-territorial-identity framework. Argentine-Chilean-protests substantively affecting international-relations."
+      "description": "Queen Elizabeth Land named 18 December 2012. Substantive UK framework. Argentine-Chilean-protests substantively affecting international-relations."
     },
     {
       "year": 2023,

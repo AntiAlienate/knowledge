@@ -4,7 +4,10 @@
   "name": "Tanzania (Tanzania mainland + Zanzibar)",
   "jurisdiction_code": "TZ",
   "legal_system": "mixed",
-  "language": ["sw", "en"],
+  "language": [
+    "sw",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-05-30",
   "summary": "Tanzania is a mixed common-law / customary-law / Islamic jurisdiction. The Law of the Child Act 2009 (Act No. 21 of 2009) is the substantive children's-rights statute, mainland. Zanzibar operates the Children's Act 2011. The Law of Marriage Act 1971 (Cap. 29) governs marriage and divorce. The Tanzania Women Lawyers Association (TAWLA) is the load-bearing women's-rights critique-camp institutional anchor (founded 1990). No named-on-record PA clinical expert located — mirrors regional African pattern (KE/NG/EG/GH/TZ surface only at institutional level per africa.json regional finding).",
@@ -127,47 +130,47 @@
   "key_developments": [
     {
       "year": 1961,
-      "description": "Tanganyika independence 9 December 1961 from United Kingdom — substantively distinctive East African post-British-protectorate framework. Subsequent 1964 union with Zanzibar establishing United Republic of Tanzania 26 April 1964. Foundational pre-1971-Law-of-Marriage-Act framework affecting subsequent constitutional-administrative-trajectory.",
+      "description": "Tanganyika independence 9 December 1961 from United Kingdom. Subsequent 1964 union with Zanzibar establishing United Republic of Tanzania 26 April 1964.",
       "url": "https://www.parliament.go.tz/"
     },
     {
       "year": 1964,
-      "description": "Zanzibar Revolution 12 January 1964 + Articles of Union 22 April 1964 + United Republic of Tanzania formation 26 April 1964 — substantively distinctive globally only-African-state-formed-by-formal-union-of-mainland-Tanganyika-+-Zanzibar-archipelago framework. Foundational substantive dual-jurisdictional-architecture framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory and family-law-implementation.",
+      "description": "Zanzibar Revolution 12 January 1964, Articles of Union 22 April 1964, United Republic of Tanzania formation 26 April 1964.",
       "url": "https://www.zanzibar.go.tz/"
     },
     {
       "year": 1971,
-      "description": "Law of Marriage Act 1971 (Cap. 29) — substantive marriage and divorce statute recognising civil, customary, Christian and Islamic marriages. Foundational pre-1990-TAWLA-+-Sexual-Offences-Special-Provisions-Act framework affecting subsequent reform-trajectory affecting family-law-implementation.",
+      "description": "Law of Marriage Act 1971 (Cap. 29) — substantive marriage and divorce statute recognising civil, customary, Christian and Islamic marriages.",
       "url": "https://www.parliament.go.tz/"
     },
     {
       "year": 1977,
-      "description": "Constitution of the United Republic of Tanzania 1977 (as amended) — substantively distinctive East African post-Tanganyika-+-Zanzibar-union constitutional-anchor framework. Foundational substantive constitutional anchor for contemporary family-law jurisprudence.",
+      "description": "Constitution of the United Republic of Tanzania 1977 (as amended).",
       "url": "https://www.constituteproject.org/constitution/Tanzania_2005"
     },
     {
       "year": 1990,
-      "description": "Tanzania ratified UNCRC 10 June 1991 with applicability to mainland + Zanzibar — substantively significant child-rights framework integration. Tanzania Women Lawyers Association (TAWLA) founded 1990 — institutional critique-camp anchor. Foundational substantive child-rights framework integration with subsequent 2009 Law of the Child Act substantive doctrine.",
+      "description": "Tanzania ratified UNCRC 10 June 1991 with applicability to mainland, Zanzibar — substantively significant child-rights framework integration. Tanzania Women Lawyers Association (TAWLA) founded 1990 — institutional critique-camp anchor.",
       "url": "https://www.tawla.or.tz/"
     },
     {
       "year": 1998,
-      "description": "Sexual Offences Special Provisions Act 1998 — substantive sexual-offences statute strengthening child protections. Foundational substantive sexual-offences framework persisting through subsequent reform-trajectory.",
+      "description": "Sexual Offences Special Provisions Act 1998 — substantive sexual-offences statute strengthening child protections.",
       "url": "https://www.parliament.go.tz/"
     },
     {
       "year": 2009,
-      "description": "Law of the Child Act 2009 (Act No. 21 of 2009) — substantive Tanzania-mainland children's-rights statute. s.4 best-interests-of-the-child paramountcy. Establishes child-protection framework. Foundational substantive Tanzania-mainland children's-rights framework affecting subsequent reform-trajectory.",
+      "description": "Law of the Child Act 2009 (Act No. 21 of 2009) — substantive Tanzania-mainland children's-rights statute. s.4 best paramountcy. Establishes child-protection framework.",
       "url": "https://www.parliament.go.tz/"
     },
     {
       "year": 2011,
-      "description": "Children's Act 2011 (Zanzibar) — Zanzibar parallel children's-rights statute. Operates parallel to mainland Law of the Child Act 2009 reflecting Tanzania's dual-jurisdictional architecture. Substantive Zanzibar-specific child-protection framework affecting subsequent reform-trajectory.",
+      "description": "Children's Act 2011 (Zanzibar) — Zanzibar parallel children's-rights statute. Operates parallel to mainland Law of the Child Act 2009 reflecting Tanzania's dual-jurisdictional architecture.",
       "url": "https://www.zanzibar.go.tz/"
     },
     {
       "year": 2019,
-      "description": "Tanzania Court of Appeal Attorney General v Rebeca Z Gyumi Civil Appeal No. 204 of 2017 (judgment 23 October 2019) upholding 2016 High Court ruling that Law of Marriage Act 1971 sections 13 + 17 (allowing girls aged 14-15 to marry) are unconstitutional — substantively distinctive globally apex-court-rejection-of-child-marriage-as-unconstitutional framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory and family-law-implementation.",
+      "description": "Tanzania Court of Appeal Attorney General v Rebeca Z Gyumi Civil Appeal No. 204 of 2017 (judgment 23 October 2019) upholding 2016 High Court ruling that Law of Marriage Act 1971 sections 13, 17 (allowing girls aged 14-15 to marry) are unconstitutional.",
       "url": "https://www.judiciary.go.tz/"
     },
     {

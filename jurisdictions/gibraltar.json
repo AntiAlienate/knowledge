@@ -4,7 +4,9 @@
   "name": "Gibraltar",
   "jurisdiction_code": "GI",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Gibraltar is a Western European common-law British Overseas Territory — structurally distinctive globally as the only state-level entity directly bordering Spain with British common-law framework, and post-Brexit as the only BOT formerly in the European Union (until 31 January 2020). Family-law framework operates under the Children Act 2009 (drawing on English Children Act 1989 model), the Matrimonial Causes Act 1962, the Marriage Act 2010 (including same-sex marriage), and English common-law inherited principles. Parental responsibility and child custody are governed by Children Act 2009 Part II. The Court of Appeal of Gibraltar is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Supreme Court of Gibraltar (Family Division) and Magistrates' Court. Psychology profession is regulated through the Gibraltar Health Authority. Gibraltar is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Act 2009 s. 1. Gibraltar is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986. The Gibraltar protocol of the UK-EU Trade and Cooperation Agreement is under negotiation post-Brexit for cross-border arrangements.",
@@ -62,17 +64,17 @@
     {
       "year": 1704,
       "title": "Capture of Gibraltar + War-of-Spanish-Succession framework",
-      "description": "Capture of Gibraltar by Anglo-Dutch forces 4 August 1704 during War of the Spanish Succession — substantively distinctive Western European British-territorial-acquisition framework. Foundational pre-Treaty-of-Utrecht framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Capture of Gibraltar by Anglo-Dutch forces 4 August 1704 during War of the Spanish Succession."
     },
     {
       "year": 1713,
       "title": "Treaty of Utrecht + Gibraltar-British-cession framework",
-      "description": "Treaty of Utrecht 11 April 1713 substantively distinctive globally Spanish-Gibraltar-British-cession framework — 313+ year Gibraltar-British-Crown framework persisting through 21st century. Substantive Anglo-Spanish-territorial-dispute framework affecting subsequent constitutional-democratic-trajectory."
+      "description": ""
     },
     {
       "year": 1967,
       "title": "Gibraltar sovereignty referendum 1967 + UK-status-confirmation framework",
-      "description": "Gibraltar sovereignty referendum 10 September 1967 — substantively distinctive Western European 99.64% in favour of remaining British framework (vs Spanish sovereignty). Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Gibraltar sovereignty referendum 10 September 1967."
     },
     {
       "year": 1986,
@@ -87,7 +89,7 @@
     {
       "year": 2002,
       "title": "Gibraltar second-sovereignty-referendum 2002 + 99% in favour of remaining British framework",
-      "description": "Gibraltar second-sovereignty referendum 7 November 2002 — substantively distinctive Western European 98.97% in favour of remaining British framework against Anglo-Spanish-joint-sovereignty proposal. Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Gibraltar second-sovereignty referendum 7 November 2002."
     },
     {
       "year": 2006,
@@ -102,7 +104,7 @@
     {
       "year": 2020,
       "title": "Brexit + only-BOT-formerly-in-EU framework",
-      "description": "UK (including Gibraltar) left the European Union effective 31 January 2020 — substantively distinctive globally only-BOT-formerly-in-EU framework. Substantive cross-border-jurisdiction-practice framework with Spain affecting subsequent constitutional-democratic-trajectory. Gibraltar Protocol negotiations 2020-onwards substantively significant cross-border-jurisdiction-framework."
+      "description": "UK (including Gibraltar) left the European Union effective 31 January 2020. Substantive cross framework with Spain affecting subsequent constitutional-democratic-trajectory. Gibraltar Protocol negotiations 2020-onwards substantively significant cross."
     },
     {
       "year": 2023,

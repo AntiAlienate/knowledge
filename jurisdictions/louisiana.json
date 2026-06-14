@@ -4,7 +4,10 @@
   "name": "Louisiana (State of Louisiana / État de Louisiane)",
   "jurisdiction_code": "US-LA",
   "legal_system": "civil-law",
-  "language": ["en", "fr"],
+  "language": [
+    "en",
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Louisiana is a North American civil-law constituent state of the United States — structurally distinctive globally as the only civil-law jurisdiction in the United States (all other 49 states operate common-law systems) and as the only civil-law jurisdiction in North America aligned with French-Spanish-Roman civil-law tradition (alongside Quebec's French-civil-law and Puerto Rico's Spanish-civil-law/common-law hybrid). Louisiana's civil-law tradition derives from French colonial law (1699-1762, 1800-1803), Spanish colonial law (1762-1800), and the 1808 Digest of the Civil Laws and 1825 Civil Code modelled on the Napoleonic Code 1804. The Louisiana Civil Code (current version 1870 with extensive subsequent amendments and 1987 obligations revision) governs family law, property law, obligations, and successions in distinctively civil-law terms (community property regime instead of common-law marital property; usufruct; forced heirship in succession), distinct from the common-law framework of all 49 other states. Family-law framework operates under Louisiana Civil Code Title V (Parents and Children) Articles 215-245 and Title VIII (Tutorship) Articles 246-303, supplemented by the 1986 Children's Code. Parental authority and child custody operate under Louisiana Civil Code Articles 131-140 (Custody) and 215-245 (Parental Authority) — operating under best-interests-of-the-child standard with civil-law structural framework. The Louisiana Supreme Court is the apex appellate court for civil and criminal matters from Louisiana; final appellate jurisdiction on federal constitutional questions lies with the US Supreme Court. Louisiana is silent on 'parental alienation' as a statutory label, though Louisiana courts have considered the concept substantively in case law including Calogero v Calogero (2003) and recent appellate cases. The United States is a Hague Convention 1980 party (acceded 1 July 1988) — Louisiana Hague applicability via US federal extension.",
@@ -69,47 +72,47 @@
     {
       "year": 1699,
       "title": "French colonisation begins + French-civil-law-tradition framework",
-      "description": "French colonisation of Louisiana commenced 2 March 1699 by Pierre Le Moyne d'Iberville — substantively distinctive globally French-civil-law-tradition-in-territory framework. Foundational substantive French-civil-law-substantive-heritage framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory."
+      "description": "French colonisation of Louisiana commenced 2 March 1699 by Pierre Le Moyne d'Iberville."
     },
     {
       "year": 1762,
       "title": "Treaty of Fontainebleau + Spanish-colonial-period framework",
-      "description": "Treaty of Fontainebleau 3 November 1762 ceded Louisiana from France to Spain — substantively distinctive globally Spanish-civil-law-tradition-supplemented-French-tradition framework. Subsequent 38-year Spanish-civil-law-period 1762-1800 affecting subsequent constitutional-administrative-trajectory and French-Spanish-Roman-civil-law tradition heritage."
+      "description": "Treaty of Fontainebleau 3 November 1762 ceded Louisiana from France to Spain. Subsequent 38-year Spanish 1762-1800 affecting subsequent constitutional-administrative-trajectory and French tradition heritage."
     },
     {
       "year": 1803,
       "title": "Louisiana Purchase + US-Federal-civil-law-preservation framework",
-      "description": "Louisiana Purchase 30 April 1803 transferred Louisiana from France (which had regained from Spain in 1800) to the United States — substantively distinctive globally only-US-state-with-Napoleonic-Code-lineage-preserved-under-US-Federal-framework framework. Foundational substantive Louisiana-civil-law-within-US-Federal-framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Louisiana Purchase 30 April 1803 transferred Louisiana from France (which had regained from Spain in 1800) to the United States."
     },
     {
       "year": 1808,
       "title": "Digest of the Civil Laws + first-Louisiana-civil-law-codification framework",
-      "description": "Digest of the Civil Laws of the Territory of Orleans adopted 31 March 1808 — substantively distinctive globally first-Louisiana-civil-law-codification-+-Napoleonic-Code-1804-derivative framework. Drawing on French Napoleonic Code 1804 and Spanish colonial law. Foundational pre-1825-Civil-Code framework affecting subsequent reform-trajectory."
+      "description": "Digest of the Civil Laws of the Territory of Orleans adopted 31 March 1808. Drawing on French Napoleonic Code 1804 and Spanish colonial law."
     },
     {
       "year": 1825,
       "title": "Louisiana Civil Code 1825 + Napoleonic-Code-derivative framework",
-      "description": "First comprehensive Louisiana Civil Code 1825 modelled on Napoleonic Code 1804 — substantively distinctive globally only-US-state-jurisdiction-with-Napoleonic-Code-lineage framework. Foundational substantive Louisiana-civil-law framework persisting through 1870 revision and subsequent reform-trajectory affecting family-law-implementation."
+      "description": "First comprehensive Louisiana Civil Code 1825 modelled on Napoleonic Code 1804."
     },
     {
       "year": 1870,
       "title": "Current Louisiana Civil Code + extensive-subsequent-amendments framework",
-      "description": "Current Louisiana Civil Code adopted 14 March 1870 — has been extensively amended including 1987 obligations revision and 1992 Civil Code Articles 131-140 (Custody) modernisation. Foundational substantive 156-year Louisiana-civil-law framework persisting through 21st century affecting subsequent reform-trajectory."
+      "description": "Current Louisiana Civil Code adopted 14 March 1870 — has been extensively amended including 1987 obligations revision and 1992 Civil Code Articles 131-140 (Custody) modernisation."
     },
     {
       "year": 1986,
       "title": "Louisiana Children's Code + child-protection-+-juvenile-justice framework",
-      "description": "Louisiana Children's Code 1986 enacted establishing child-protection, juvenile-justice, and child-welfare matters supplementing Civil Code — substantively significant North American civil-law-state child-protection framework. Foundational substantive Children's-Code framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Louisiana Children's Code 1986 enacted establishing child-protection, juvenile-justice, and child-welfare matters supplementing Civil Code — substantively significant North American civil-law-state child-protection framework."
     },
     {
       "year": 1988,
       "title": "Federal US Hague Convention 1980 + ICARA-federal-extension framework",
-      "description": "US federal Hague Convention 1980 accession 1 July 1988 + International Child Abduction Remedies Act (ICARA) 1988 — substantively distinctive globally only-civil-law-jurisdiction-subject-to-federally-binding-common-law-treaty-implementation-framework framework. Substantive Hague applicability binding on Louisiana civil-law family courts affecting subsequent reform-trajectory."
+      "description": "US federal Hague Convention 1980 accession 1 July 1988, International Child Abduction Remedies Act (ICARA) 1988."
     },
     {
       "year": 1992,
       "title": "Louisiana Civil Code Articles 131-140 (Custody) + best-interests-+-civil-law-structural framework",
-      "description": "Louisiana Civil Code Articles 131-140 (Custody) 1992 modernisation operating under best-interests-of-the-child standard with civil-law structural framework — substantively distinctive globally civil-law-best-interests-of-the-child-custody-framework-within-US-Federal-framework framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "Louisiana Civil Code Articles 131-140 (Custody) 1992 modernisation operating under best standard with civil-law structural framework."
     },
     {
       "year": 2023,

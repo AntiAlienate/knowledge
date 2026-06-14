@@ -4,7 +4,12 @@
   "name": "Switzerland (Schweiz / Suisse / Svizzera)",
   "jurisdiction_code": "CH",
   "legal_system": "civil-law",
-  "language": ["de", "fr", "it", "rm"],
+  "language": [
+    "de",
+    "fr",
+    "it",
+    "rm"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-03",
   "summary": "Switzerland is a multilingual civil-law confederation whose family-court framework operates under the federal Zivilgesetzbuch (ZGB) supplemented by cantonal procedural law. Parental authority (elterliche Sorge / autorité parentale) is governed by ZGB arts. 296-298, with joint parental authority the statutory default since the 2014 reform regardless of marital status. Personal contact (persönlicher Verkehr / Besuchsrecht) is governed by ZGB art. 273. The Bundesgericht (BGer / Tribunal fédéral, Lausanne) is the apex court; family-law matters reach BGer principally via Beschwerde in Zivilsachen against cantonal high-court decisions. The KESB (Kindes- und Erwachsenenschutzbehörde / autorité de protection de l'enfant et de l'adulte) framework replaced the cantonal Vormundschaftsbehörden in 2013 and operates as the first-instance child-protection authority across all cantons. Psychology profession is regulated under federal PsyG 2011 (Psychologieberufegesetz, in force 2013), which provides statutory title protection and standardised postgraduate training requirements. Switzerland is silent on 'parental alienation' as a statutory label; BGer practice operates substantively under the Kindeswohl (child-welfare) standard with no apex endorsement of PAS/PA as a diagnostic category.",
@@ -80,22 +85,22 @@
     {
       "year": 1291,
       "title": "Eternal-Alliance + Swiss-Confederation-founding + Rütli-oath framework",
-      "description": "Eternal Alliance 1 August 1291 between Uri, Schwyz, and Unterwalden cantons (Rütli oath) — substantively distinctive globally oldest-continuously-functioning-confederation framework 735+ years through 2026. Foundational pre-1848-modern-federal-state framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Eternal Alliance 1 August 1291 between Uri, Schwyz, and Unterwalden cantons (Rütli oath)."
     },
     {
       "year": 1848,
       "title": "Federal-Constitution-1848 + modern-federal-state framework",
-      "description": "Federal Constitution of Switzerland 12 September 1848 — substantively distinctive Alpine modern-federal-state framework following 1847 Sonderbund War. Foundational substantive 178+ year modern-federal-state framework affecting subsequent constitutional-democratic-trajectory and civil-law tradition."
+      "description": "Federal Constitution of Switzerland 12 September 1848."
     },
     {
       "year": 1907,
       "title": "ZGB-Zivilgesetzbuch + Eugen-Huber + Swiss-Civil-Code-substantive-heritage framework",
-      "description": "Federal Zivilgesetzbuch (ZGB / Swiss Civil Code) enacted 10 December 1907 effective 1 January 1912 drafted by Eugen Huber — substantively distinctive globally Swiss-Civil-Code-as-influential-model-for-civil-law-jurisdictions-globally framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 296-298 governing elterliche Sorge/autorité parentale."
+      "description": "Federal Zivilgesetzbuch (ZGB / Swiss Civil Code) enacted 10 December 1907 effective 1 January 1912 drafted by Eugen Huber. 296-298 governing elterliche Sorge/autorité parentale."
     },
     {
       "year": 1976,
       "title": "ZGB family-law revision + modern-parental-authority-+-personal-contact framework",
-      "description": "ZGB family-law revision in force 1 January 1978 — substantively significant Alpine modern-parental-authority-+-personal-contact framework under federal civil code. Foundational substantive parental-authority-+-personal-contact framework persisting through subsequent 2014-joint-authority-default-reform reform-trajectory."
+      "description": "ZGB family-law revision in force 1 January 1978 — substantively significant Alpine modern-parental-authority-+-personal-contact framework under federal civil code."
     },
     {
       "year": 1997,
@@ -105,27 +110,27 @@
     {
       "year": 2011,
       "title": "Federal ZPO (Zivilprozessordnung) + PsyG-Psychologieberufegesetz framework",
-      "description": "Unified federal civil procedure (ZPO / Zivilprozessordnung) replaced 26 cantonal civil-procedure codes effective 1 January 2011 — substantively distinctive Alpine federal-civil-procedure-unification framework. PsyG 2011 (Psychologieberufegesetz) enacted establishing federal statutory title protection for psychologists. Foundational substantive federal-civil-procedure + federal-psychology-regulation framework affecting subsequent reform-trajectory."
+      "description": "Unified federal civil procedure (ZPO / Zivilprozessordnung) replaced 26 cantonal civil-procedure codes effective 1 January 2011. PsyG 2011 (Psychologieberufegesetz) enacted establishing federal statutory title protection for psychologists."
     },
     {
       "year": 2013,
       "title": "Federal child- and adult-protection reform + KESB-+-PsyG-in-force framework",
-      "description": "Federal child- and adult-protection reform effective 1 January 2013 + PsyG 2011 in force 1 April 2013 — substantively distinctive globally KESB-as-first-instance-child-protection-authority-distinct-from-family-court framework. KESB cantonal authorities (Kindes- und Erwachsenenschutzbehörde) replaced cantonal Vormundschaftsbehörden. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
+      "description": "Federal child- and adult-protection reform effective 1 January 2013, PsyG 2011 in force 1 April 2013. KESB cantonal authorities (Kindes- und Erwachsenenschutzbehörde) replaced cantonal Vormundschaftsbehörden."
     },
     {
       "year": 2014,
       "title": "Joint-parental-authority-default-reform + ZGB-296-298-amended framework",
-      "description": "ZGB arts. 296-298 amended effective 1 July 2014 to provide joint parental authority by default regardless of marital status — substantively significant Alpine joint-authority-default-reform framework parallel to EU6-cluster joint-authority reforms. Substantive constitutional-democratic-trajectory framework affecting subsequent family-law-implementation."
+      "description": "ZGB arts. 296-298 amended effective 1 July 2014 to provide joint parental authority by default regardless of marital status — substantively significant Alpine joint framework parallel to EU6-cluster joint-authority reforms."
     },
     {
       "year": 2017,
       "title": "Joint-child-maintenance-reform + post-separation-parental-obligations-alignment framework",
-      "description": "Further alignment of post-separation parental obligations effective 1 January 2017 — substantively significant Alpine joint-child-maintenance reform framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "Further alignment of post-separation parental obligations effective 1 January 2017 — substantively significant Alpine joint-child-maintenance reform framework."
     },
     {
       "year": 2022,
       "title": "Civil Marriage for All + same-sex marriage referendum + family-law-modernisation framework",
-      "description": "Switzerland Civil Marriage for All (Ehe für alle) framework effective 1 July 2022 following 26 September 2021 federal referendum (64.1% in favour) — substantively distinctive globally only modern direct-democracy-referendum-based same-sex-marriage legalisation framework + structurally distinctive Alpine post-2007-registered-partnership progression to full same-sex marriage 2022 + substantive ZGB amendments for same-sex-parenting + adoption-by-same-sex-couples + assisted-reproduction-access framework + foundational substantive same-sex-family framework affecting subsequent Kindeswohl-jurisprudence under ZGB arts. 296-298 + KESB framework + subsequent constitutional-democratic-trajectory and family-law-implementation."
+      "description": "Switzerland Civil Marriage for All (Ehe für alle) framework effective 1 July 2022 following 26 September 2021 federal referendum (64.1% in favour). 296-298, KESB framework, subsequent constitutional-democratic-trajectory and family-law-implementation."
     },
     {
       "year": 2023,

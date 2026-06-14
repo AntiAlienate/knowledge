@@ -4,7 +4,9 @@
   "name": "Andorra (Principality of Andorra / Principat d'Andorra)",
   "jurisdiction_code": "AD",
   "legal_system": "civil-law",
-  "language": ["ca"],
+  "language": [
+    "ca"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Andorra is a Western European civil-law constitutional co-principality (uniquely co-headed by the Bishop of Urgell in Spain and the President of France as Co-Princes) whose family-law framework operates under the Civil Code (Codi de la Família) and Qualified Law on Marriage 2017 (Llei Qualificada del Matrimoni). Parental authority (potestat parental) and child custody are governed by Civil Code arts. 27-58 and Law 14/2019 on Children's and Adolescents' Rights. The Superior Court of Justice (Tribunal Superior de Justícia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Court of Magistrates (Tribunal de Batlles). Psychology profession is regulated through the Andorran Order of Psychologists. Andorra is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Law 14/2019. Andorra acceded to the Hague Convention 1980 effective 1 July 2011. Andorra is a Council of Europe member subject to ECHR jurisdiction.",
@@ -55,12 +57,12 @@
     {
       "year": 1278,
       "title": "Pareatges 1278 + Co-principality establishment framework",
-      "description": "Pareatges (Acts of Co-sovereignty) 1278 between Bishop of Urgell and Count of Foix substantively distinctive globally only-co-principality-in-history framework. Substantive 700+ year Bishop-of-Urgell-+-Count-of-Foix/President-of-France co-sovereignty framework. Foundational pre-Constitution-1993 framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Substantive 700+ year Bishop-of-Urgell-+-Count-of-Foix/President-of-France co-sovereignty framework."
     },
     {
       "year": 1934,
       "title": "Borís Skósyrev affair + 11-day-kingdom framework",
-      "description": "Borís Skósyrev (Boris I) self-proclaimed king 8-20 July 1934 — substantively distinctive globally 11-day-kingdom-of-Andorra framework. Substantive pre-democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Borís Skósyrev (Boris I) self-proclaimed king 8-20 July 1934."
     },
     {
       "year": 1993,
@@ -75,12 +77,12 @@
     {
       "year": 1995,
       "title": "Civil Code (Codi de la Família) + Catalan-civil-law-substantive framework",
-      "description": "Federal Civil Code Family Code adopted 1995 drawing on Catalan civil-law substantive heritage. Arts. 27-58 govern potestat parental and child custody. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Federal Civil Code Family Code adopted 1995 drawing on Catalan civil-law substantive heritage. Arts. 27-58 govern potestat parental and child custody."
     },
     {
       "year": 2005,
       "title": "EU Monetary Agreement + Euro-adoption framework",
-      "description": "Andorra Monetary Agreement with EU 30 June 2011 (after 2005 negotiations) substantively distinctive Western European micro-state Euro-adoption framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent family-law-implementation including cross-border-asset-tracing."
+      "description": ""
     },
     {
       "year": 2011,
@@ -90,7 +92,7 @@
     {
       "year": 2017,
       "title": "Qualified Law on Marriage 2017 + same-sex-marriage framework",
-      "description": "Qualified Law on Marriage 2017 (Llei Qualificada del Matrimoni) substantively reforming family-law framework — substantive marriage-equality framework affecting subsequent family-law-implementation framework. Substantively significant Western European Catholic-Co-principality post-marriage-equality framework."
+      "description": "Qualified Law on Marriage 2017 (Llei Qualificada del Matrimoni) substantively reforming family-law framework. Substantively significant Western European Catholic-Co-principality post-marriage-equality framework."
     },
     {
       "year": 2019,

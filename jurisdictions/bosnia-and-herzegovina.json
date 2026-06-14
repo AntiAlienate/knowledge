@@ -4,7 +4,11 @@
   "name": "Bosnia and Herzegovina (Bosna i Hercegovina)",
   "jurisdiction_code": "BA",
   "legal_system": "civil-law",
-  "language": ["bs", "hr", "sr"],
+  "language": [
+    "bs",
+    "hr",
+    "sr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Bosnia and Herzegovina is a Western Balkans civil-law federal state operating a complex constitutional architecture established by the Dayton Peace Agreement 1995. Family law operates at entity level: the Federation of Bosnia and Herzegovina (FBiH) operates the Porodični zakon FBiH 2005; Republika Srpska (RS) operates the Porodični zakon RS 2002; the Brčko District operates a separate family-law framework. Parental rights are governed by the entity codes; joint exercise during marriage is the statutory default. The Sud Bosne i Hercegovine (Court of BiH) handles state-level matters; family-law cases are heard within the entity courts with apex appellate jurisdiction in the entity Supreme Courts and constitutional review in the Ustavni sud BiH (Constitutional Court of BiH). Psychology profession regulation operates at entity level under Ministry of Health licensing frameworks. BiH is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Council of Europe member.",
@@ -71,7 +75,7 @@
     {
       "year": 1995,
       "title": "Dayton Peace Agreement + Constitution-as-Annex-4 + ECHR incorporation",
-      "description": "General Framework Agreement for Peace in Bosnia and Herzegovina signed 14 December 1995 (Dayton, Ohio negotiations 1-21 November 1995). Established constitutional architecture with Federation of BiH + Republika Srpska entities + Brčko District. European Convention on Human Rights incorporated directly via Annex 4 (Constitution of BiH) — substantively distinctive globally as the only modern state with ECHR directly incorporated as constitutional law via international peace agreement."
+      "description": "General Framework Agreement for Peace in Bosnia and Herzegovina signed 14 December 1995 (Dayton, Ohio negotiations 1-21 November 1995). Established constitutional architecture with Federation of BiH, Republika Srpska entities, Brčko District. European Convention on Human Rights incorporated directly via Annex 4 (Constitution of BiH)."
     },
     {
       "year": 1997,
@@ -86,7 +90,7 @@
     {
       "year": 2005,
       "title": "Porodični zakon FBiH 2005",
-      "description": "Family Code of the Federation of Bosnia and Herzegovina enacted 2005 — completing entity-level family-law codification at FBiH level. Brčko District operates separate family-law framework. Three-tier-entity family-law fragmentation substantively distinctive within Western Balkans cluster."
+      "description": "Family Code of the Federation of Bosnia and Herzegovina enacted 2005 — completing entity-level family-law codification at FBiH level. Brčko District operates separate family-law framework."
     },
     {
       "year": 2008,

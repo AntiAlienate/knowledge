@@ -4,7 +4,10 @@
   "name": "Mizoram (Mizo Hnam)",
   "jurisdiction_code": "IN-MZ",
   "legal_system": "mixed",
-  "language": ["en", "lus"],
+  "language": [
+    "en",
+    "lus"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Mizoram (Mizo Hnam in Mizo language) is a North-eastern Indian Himalayan-foothills mixed common-law/Mizo-customary-law constituent state of the Indian Republic — structurally distinctive globally as one of three Indian states operating constitutional Article 371-G special-status framework (alongside Nagaland's Article 371-A and Sikkim's Article 371-F) explicitly protecting Mizo customary law (Article 371-G(a)-(d) provides that no Act of Parliament shall apply to Mizoram in respect of (a) religious or social practices of the Mizos, (b) Mizo customary law and procedure, (c) administration of civil and criminal justice involving decisions according to Mizo customary law, and (d) ownership and transfer of land), as the central jurisdiction of one of the longest-running modern Indian-state-level peace accords (Mizoram Accord of 30 June 1986 ending the 1966-1986 Mizo National Front insurgency), and as the only Indian state established directly following a formal peace accord between the Indian Government and a self-proclaimed insurgent independence movement. Mizoram was formed as the 23rd state of India on 20 February 1987 under the Constitution (Fifty-Third Amendment) Act 1986 and the State of Mizoram Act 1986. Mizoram comprises ~21,081 km² with a population of ~1.1 million, with Aizawl as the state capital. Family-law framework operates under a dual federal Indian common-law + Mizo customary-law framework with Mizo customary law applied via Village Councils and Range Councils operating under Article 371-G. Parental authority and child custody operate under Mizo customary law for Mizo persons subject to Indian general framework as modified by Article 371-G. The Gauhati High Court (Aizawl Bench) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Mizoram is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Mizoram is governed by the Indian non-ratification status.",
@@ -75,37 +78,37 @@
     {
       "year": 1894,
       "title": "British annexation + Lushai-Hills-+-Christian-mission framework",
-      "description": "British annexation of Lushai Hills 1894 + first Christian mission (Welsh Presbyterian Mission 1894) — substantively distinctive Himalayan-foothills British-Lushai-Hills-+-Welsh-Presbyterian-Christianisation framework. Foundational substantive ~87% Christian-majority population framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory and Mizo-customary-law preservation."
+      "description": "British annexation of Lushai Hills 1894, first Christian mission (Welsh Presbyterian Mission 1894)."
     },
     {
       "year": 1950,
       "title": "Lushai-Hills-District-+-Constitution-Sixth-Schedule framework",
-      "description": "Constitution of India Sixth Schedule effective 26 January 1950 applicable to Lushai Hills District (then part of Assam) — substantively distinctive globally Indian-constitutional-tribal-areas-autonomous-district-council framework establishing Mizo-Hills-Autonomous-District-Council. Foundational substantive Sixth-Schedule framework persisting through subsequent reform-trajectory."
+      "description": "Constitution of India Sixth Schedule effective 26 January 1950 applicable to Lushai Hills District (then part of Assam)."
     },
     {
       "year": 1959,
       "title": "Mautam-famine + Mizoram-bamboo-cycle-+-government-response-failure framework",
-      "description": "Mautam famine 1959-1961 (bamboo cycle Melocanna baccifera flowering producing rat population explosion + crop destruction) — substantively distinctive globally Mizo-bamboo-cycle-famine-+-Indian-Government-response-failure framework. Substantive demographic and family-law-implementation disruption affecting subsequent 1966 MNF insurgency framework."
+      "description": "Mautam famine 1959-1961 (bamboo cycle Melocanna baccifera flowering producing rat population explosion, crop destruction). Substantive demographic and family-law-implementation disruption affecting subsequent 1966 MNF insurgency framework."
     },
     {
       "year": 1966,
       "title": "Mizo National Front insurgency + Laldenga-MNF-+-armed-independence-movement framework",
-      "description": "Mizo National Front (MNF) under Laldenga launched armed independence movement 28 February 1966 — substantively distinctive globally 20-year-MNF-insurgency framework following Mautam famine failure. Subsequent Indian Air Force bombing of Aizawl 5-6 March 1966 (only instance of Indian Air Force bombing Indian territory). Foundational pre-1986-Mizoram-Accord framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mizo National Front (MNF) under Laldenga launched armed independence movement 28 February 1966. Subsequent Indian Air Force bombing of Aizawl 5-6 March 1966 (only instance of Indian Air Force bombing Indian territory)."
     },
     {
       "year": 1972,
       "title": "Mizoram Union Territory established + intermediate-status framework",
-      "description": "Mizoram established as Union Territory of India 21 January 1972 — substantively distinctive Himalayan-foothills intermediate-status-preceding-statehood framework. Foundational pre-1986-statehood framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mizoram established as Union Territory of India 21 January 1972."
     },
     {
       "year": 1986,
       "title": "Mizoram Accord + Mizo-National-Front-+-Laldenga-+-Article-371-G-protection framework",
-      "description": "Indian Government-Mizo National Front Accord 30 June 1986 — substantively distinctive globally only-Indian-state-established-directly-following-formal-peace-accord-between-Indian-Government-and-self-proclaimed-insurgent-independence-movement framework. Ending 1966-1986 MNF insurgency + establishing framework for Mizoram statehood and Article 371-G protections. Constitution (Fifty-Third Amendment) Act 1986 inserting Article 371-G providing Mizo customary law constitutional protection."
+      "description": "Indian Government-Mizo National Front Accord 30 June 1986. Ending 1966-1986 MNF insurgency, establishing framework for Mizoram statehood and Article 371-G protections. Constitution (Fifty-Third Amendment) Act 1986 inserting Article 371-G providing Mizo customary law constitutional protection."
     },
     {
       "year": 1987,
       "title": "Mizoram State established + 23rd-Indian-state framework",
-      "description": "Mizoram formed as 23rd state of India 20 February 1987 under the State of Mizoram Act 1986 — substantively distinctive Himalayan-foothills 23rd-Indian-state-via-formal-peace-accord-framework. Foundational substantive Mizoram-statehood framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mizoram formed as 23rd state of India 20 February 1987 under the State of Mizoram Act 1986."
     },
     {
       "year": 1992,
@@ -115,7 +118,7 @@
     {
       "year": 2018,
       "title": "Mizoram MNF-government-restoration + Zoramthanga-MNF-presidency framework",
-      "description": "Zoramthanga MNF-presidency restoration 15 December 2018 — substantively distinctive globally only-formerly-banned-insurgent-movement-leader-elected-to-state-presidency-in-modern-India framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory and Mizo-political-integration framework."
+      "description": "Zoramthanga MNF-presidency restoration 15 December 2018."
     },
     {
       "year": 2023,

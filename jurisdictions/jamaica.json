@@ -4,7 +4,9 @@
   "name": "Jamaica",
   "jurisdiction_code": "JM",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Jamaica is a Caribbean common-law constitutional monarchy whose family-law framework operates under the Children (Care and Protection) Act 2004, the Maintenance Act 2005, the Property (Rights of Spouses) Act 2004, and the Matrimonial Causes Act. Parental responsibility and child custody are governed by Children (Care and Protection) Act Part IV and case-law applying the welfare-of-the-child principle. The Court of Appeal of Jamaica is the apex court for civil and criminal matters; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London (Jamaica has not transferred final-appellate jurisdiction to the Caribbean Court of Justice for civil/criminal matters). Family-law matters are heard at first instance in the Family Court (Resident Magistrates' Family Court) and Supreme Court (Family Division). Psychology profession is regulated through the Council for Professions Supplementary to Medicine. Jamaica is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Children (Care and Protection) Act s. 2. Jamaica is non-Hague Convention.",
@@ -62,12 +64,12 @@
     {
       "year": 1962,
       "title": "Jamaica independence + Alexander Bustamante founding-prime-minister",
-      "description": "Jamaica independence 6 August 1962 from the United Kingdom — establishing constitutional-monarchy framework retaining Judicial Committee of the Privy Council as final appellate court. Alexander Bustamante (Jamaica Labour Party) first prime minister 1962-1967. Substantively distinctive Caribbean post-Federation-of-the-West-Indies independence framework."
+      "description": "Jamaica independence 6 August 1962 from the United Kingdom — establishing constitutional-monarchy framework retaining Judicial Committee of the Privy Council as final appellate court. Alexander Bustamante (Jamaica Labour Party) first prime minister 1962-1967."
     },
     {
       "year": 1972,
       "title": "Michael Manley + People's National Party + democratic-socialism framework",
-      "description": "Michael Manley (People's National Party) elected Prime Minister 1972-1980 — substantively distinctive Caribbean democratic-socialism framework. Substantive Cold-War-era Caribbean-Cuba-relations affecting subsequent political-institutional-trajectory. Subsequent Edward Seaga (JLP) electoral defeat 1980 framework substantively affecting family-law-modernisation."
+      "description": "Michael Manley (People's National Party) elected Prime Minister 1972-1980. Substantive Cold-War-era Caribbean-Cuba-relations affecting subsequent political-institutional-trajectory. Subsequent Edward Seaga (JLP) electoral defeat 1980 framework substantively affecting family-law-modernisation."
     },
     {
       "year": 1991,
@@ -77,7 +79,7 @@
     {
       "year": 2001,
       "title": "Caribbean Court of Justice Treaty + CCJ-non-accession framework",
-      "description": "Caribbean Court of Justice Treaty signed 14 February 2001 — Jamaica signatory but did not transfer final-appellate jurisdiction from JCPC to CCJ. Substantively distinctive Caribbean-JCPC-retention framework. Subsequent JCPC-retention continuing through 2026 affecting cross-border-jurisdiction-practice."
+      "description": "Caribbean Court of Justice Treaty signed 14 February 2001 — Jamaica signatory but did not transfer final-appellate jurisdiction from JCPC to CCJ. Subsequent JCPC-retention continuing through 2026 affecting cross."
     },
     {
       "year": 2004,
@@ -97,12 +99,12 @@
     {
       "year": 2016,
       "title": "Andrew Holness premiership + JLP-PNP alternation framework",
-      "description": "Andrew Holness (Jamaica Labour Party) Prime Minister 2016-present — substantively distinctive Caribbean Generation-X premiership framework. Subsequent re-election 2020 substantively affecting family-law-modernisation-pace."
+      "description": "Andrew Holness (Jamaica Labour Party) Prime Minister 2016-present. Subsequent re-election 2020 substantively affecting family."
     },
     {
       "year": 2022,
       "title": "Republic-status-discussion + Constitutional-Reform-Committee framework",
-      "description": "Republic-status-discussion intensified following Charles III accession 2022 — Constitutional Reform Committee established. Substantively distinctive Caribbean Realm-decolonisation framework discussions affecting subsequent constitutional-democratic-trajectory."
+      "description": "Republic-status-discussion intensified following Charles III accession 2022 — Constitutional Reform Committee established."
     },
     {
       "year": 2023,

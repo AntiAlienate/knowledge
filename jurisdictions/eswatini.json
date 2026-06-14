@@ -4,7 +4,10 @@
   "name": "Eswatini (Kingdom of Eswatini / Umbuso weSwatini)",
   "jurisdiction_code": "SZ",
   "legal_system": "mixed",
-  "language": ["en", "ss"],
+  "language": [
+    "en",
+    "ss"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Eswatini (renamed from Swaziland in 2018) is a Southern African mixed-legal-system absolute monarchy combining Roman-Dutch civil-law substantive heritage (via Transvaal Republic colonial inheritance) with English common-law procedural inheritance and Swazi customary-law personal-status jurisdiction operating in dual parallel systems. Family-law framework operates under the Marriage Act 47/1964, Children's Protection and Welfare Act 6/2012, and customary-law Swazi Courts under the Swazi Courts Act. Parental rights and child custody are governed by Children's Protection and Welfare Act Part IV. The Supreme Court of Eswatini is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division) and Swazi Courts for customary-law matters. Psychology profession is regulated through the Swaziland Medical and Dental Council under the Medical, Dental and Pharmacy Practitioners Act framework. Eswatini is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Children's Protection and Welfare Act s. 4. Eswatini is non-Hague Convention.",
@@ -56,32 +59,32 @@
     {
       "year": 1903,
       "title": "British Protectorate establishment + Swaziland-protectorate framework",
-      "description": "British Protectorate over Swaziland established 1903 (formal administration from 1907) — substantively distinctive Southern African Swazi-kingdom-British-protectorate framework. Foundational pre-independence framework affecting subsequent constitutional-monarchy-trajectory."
+      "description": "British Protectorate over Swaziland established 1903 (formal administration from 1907)."
     },
     {
       "year": 1950,
       "title": "Swazi Courts Act",
-      "description": "Federal statute establishing Swazi Courts for customary-law jurisdiction within colonial-era framework. Foundational customary-law-court framework persisting through independence and subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Federal statute establishing Swazi Courts for customary-law jurisdiction within colonial-era framework."
     },
     {
       "year": 1964,
       "title": "Marriage Act 47/1964 + statutory marriage framework",
-      "description": "Federal statutory marriage statute enacted establishing parallel-with-Swazi-customary-marriage framework. Substantively significant Southern African dual-track marriage framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal statutory marriage statute enacted establishing parallel framework."
     },
     {
       "year": 1968,
       "title": "Swaziland independence + Sobhuza II + post-British-protectorate framework",
-      "description": "Swaziland independence 6 September 1968 from the United Kingdom — establishing constitutional-monarchy framework under King Sobhuza II. Substantively distinctive Southern African Swazi-monarchy framework. Foundational pre-1973-Sobhuza-self-coup framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Swaziland independence 6 September 1968 from the United Kingdom — establishing constitutional-monarchy framework under King Sobhuza II."
     },
     {
       "year": 1973,
       "title": "Sobhuza II self-coup + absolute-monarchy-restoration framework",
-      "description": "King Sobhuza II self-coup 12 April 1973 abolishing Constitution and political-parties — substantively distinctive Southern African absolute-monarchy-restoration framework. Substantive Tinkhundla-traditional-governance framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
+      "description": "King Sobhuza II self-coup 12 April 1973 abolishing Constitution and political-parties. Substantive Tinkhundla-traditional-governance framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1986,
       "title": "Mswati III accession + 21st-century-monarchy framework",
-      "description": "King Mswati III succeeded Sobhuza II 25 April 1986 — substantively distinctive globally one-of-last-absolute-monarchies-in-Africa framework. Substantial Mswati-III-continuing-reign 40+ years through 2026 affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "King Mswati III succeeded Sobhuza II 25 April 1986. Substantial Mswati 40+ years through 2026 affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
     },
     {
       "year": 1995,
@@ -91,7 +94,7 @@
     {
       "year": 2005,
       "title": "Constitution 2005 + constitutional-framework consolidation",
-      "description": "Constitution of Eswatini (then Swaziland) 2005 adopted 26 July 2005 (effective 8 February 2006) substantively reforming political-institutional framework — first Constitution since 1973 self-coup. Substantive constitutional-monarchy framework retaining absolute-monarchical powers. Foundational substantive-constitutional anchor."
+      "description": "Constitution of Eswatini (then Swaziland) 2005 adopted 26 July 2005 (effective 8 February 2006) substantively reforming political-institutional framework — first Constitution since 1973 self-coup. Substantive constitutional-monarchy framework retaining absolute-monarchical powers."
     },
     {
       "year": 2012,
@@ -101,7 +104,7 @@
     {
       "year": 2021,
       "title": "Renaming to Eswatini + 2021-2022 pro-democracy-protests framework",
-      "description": "Kingdom renamed from Swaziland to Eswatini 19 April 2018 by royal proclamation. Subsequent 2021-2022 pro-democracy-protests substantively distinctive Southern African last-absolute-monarchy democratic-protest framework with substantive demographic and family-law-implementation effects. Mswati III continuing-absolute-monarchy framework."
+      "description": "Kingdom renamed from Swaziland to Eswatini 19 April 2018 by royal proclamation. Mswati III continuing-absolute-monarchy framework."
     },
     {
       "year": 2024,

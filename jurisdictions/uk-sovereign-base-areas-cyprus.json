@@ -4,7 +4,10 @@
   "name": "UK Sovereign Base Areas in Cyprus (Akrotiri and Dhekelia / SBA)",
   "jurisdiction_code": "CY-SBA",
   "legal_system": "common-law",
-  "language": ["en", "el"],
+  "language": [
+    "en",
+    "el"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "The UK Sovereign Base Areas in Cyprus (SBA / Akrotiri and Dhekelia) are a Mediterranean common-law British Overseas Territory comprising two non-contiguous areas (Western SBA centred on RAF Akrotiri ~123 km²; Eastern SBA centred on Dhekelia ~131 km², total ~254 km²) on the island of Cyprus — structurally distinctive globally as the only British Overseas Territory that is (i) a non-self-governing military installation, (ii) located on the territory of another sovereign state (Republic of Cyprus), (iii) physically surrounded by EU territory (Republic of Cyprus, EU member since 2004), and (iv) constitutionally established by Treaty of Establishment 1960 as a continuing UK military presence following Cypriot independence with formal Republic of Cyprus consent. The SBAs were established by Annex A to the Treaty of Establishment 1960 between United Kingdom, Republic of Cyprus, Greece, and Turkey, retaining ~3% of pre-independence British Cyprus as 'Sovereign Base Areas' for UK military purposes. The SBAs are administered by the SBA Administration headquartered at Episkopi Cantonment. SBAs have an estimated ~14,000 civilian residents (predominantly Greek Cypriots ~9,200 + Turkish Cypriots + UK military personnel families) operating under the SBA civilian-resident framework. SBAs are not part of the European Union (EU-Cyprus accession excluded SBAs per Protocol 3 of the Cyprus Accession Treaty 2003) — making them a structurally distinctive non-EU enclave entirely surrounded by EU territory. Family-law framework operates under a dual common-law (English-derived via UK extension) + Greek-Cypriot/Turkish-Cypriot personal-law accommodation framework via the Sovereign Base Areas Ordinances (modelled on Republic of Cyprus civil law in many areas). Parental authority and child custody operate under SBA Ordinances supplemented by reference to Republic of Cyprus civil law via the Application of Republic of Cyprus Law Ordinance. The Senior Judge's Court of the SBA is the first-instance court; the Court of Appeal of the SBA is the intermediate appellate court; final appellate jurisdiction lies with the UK Privy Council (Judicial Committee). SBAs are silent on 'parental alienation' as a statutory label. SBAs are Hague Convention 1980 applicable via UK territorial extension.",
@@ -68,27 +71,27 @@
     {
       "year": 1878,
       "title": "British administration of Cyprus + Treaty-of-Berlin framework",
-      "description": "British administration of Cyprus from 4 June 1878 under Cyprus Convention with Ottoman Empire — substantively distinctive Mediterranean British-Mediterranean-strategic-territory framework. Subsequent 1914 annexation + 1925 Crown Colony status + 1955-1959 EOKA insurgency affecting subsequent constitutional-administrative-trajectory."
+      "description": "British administration of Cyprus from 4 June 1878 under Cyprus Convention with Ottoman Empire. Subsequent 1914 annexation, 1925 Crown Colony status, 1955-1959 EOKA insurgency affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1959,
       "title": "Zurich-London Agreements + Cyprus-independence-framework + SBA-reservation framework",
-      "description": "Zurich-London Agreements 19 February 1959 between UK, Greece, Turkey, and Cypriot Greek-Cypriot/Turkish-Cypriot leaderships establishing framework for Cyprus independence with UK retaining ~3% of pre-independence British Cyprus as Sovereign Base Areas — substantively distinctive Mediterranean SBA-reservation-pre-Treaty-of-Establishment framework. Foundational pre-1960-Treaty-of-Establishment framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Zurich-London Agreements 19 February 1959 between UK, Greece, Turkey, and Cypriot Greek-Cypriot/Turkish-Cypriot leaderships establishing framework for Cyprus independence with UK retaining ~3% of pre-independence British Cyprus as Sovereign Base Areas."
     },
     {
       "year": 1960,
       "title": "Treaty of Establishment + SBA-creation + Annex-A framework",
-      "description": "Treaty of Establishment 16 August 1960 between UK, Republic of Cyprus, Greece, and Turkey establishing Republic of Cyprus and reserving SBAs per Annex A — substantively distinctive globally only-British-Overseas-Territory-established-by-international-treaty-with-the-host-state framework. Foundational substantive 65+ year SBA-with-formal-host-state-consent framework persisting through subsequent reform-trajectory."
+      "description": "Treaty of Establishment 16 August 1960 between UK, Republic of Cyprus, Greece, and Turkey establishing Republic of Cyprus and reserving SBAs per Annex A."
     },
     {
       "year": 1974,
       "title": "Turkish military intervention + SBA-stabilization-role framework",
-      "description": "Turkish military intervention in Cyprus 20 July 1974 — substantively distinctive Mediterranean SBA-stabilization-role framework with SBAs serving as evacuation route and refugee shelter. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Greek/Turkish-Cypriot-divided-island context."
+      "description": "Turkish military intervention in Cyprus 20 July 1974. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Greek/Turkish context."
     },
     {
       "year": 1986,
       "title": "Hague Convention 1980 territorial extension + UK-territorial-extension framework",
-      "description": "Hague Convention 1980 territorial extension by UK to SBAs effective 1 August 1986 — substantively distinctive Mediterranean SBA-Hague-Convention-applicability framework via UK territorial extension. Foundational substantive Hague-applicability framework persisting through subsequent reform-trajectory affecting cross-border-jurisdiction-practice."
+      "description": "Hague Convention 1980 territorial extension by UK to SBAs effective 1 August 1986."
     },
     {
       "year": 1991,
@@ -98,17 +101,17 @@
     {
       "year": 2003,
       "title": "Protocol 3 SBA EU exclusion + non-EU-enclave-surrounded-by-EU framework",
-      "description": "EU Treaty Protocol 3 of Cyprus Accession Treaty 2003 excluding SBAs from EU membership when Republic of Cyprus joined EU 1 May 2004 — substantively distinctive globally only-British-Overseas-Territory-physically-surrounded-by-EU-territory-with-EU-exclusion-protocol framework. Substantive constitutional-democratic-trajectory framework affecting subsequent cross-border-jurisdiction-practice."
+      "description": "EU Treaty Protocol 3 of Cyprus Accession Treaty 2003 excluding SBAs from EU membership when Republic of Cyprus joined EU 1 May 2004."
     },
     {
       "year": 2014,
       "title": "SBA civilian-sovereignty-extension-agreement + partial-administration-split framework",
-      "description": "UK-Republic of Cyprus agreement 15 January 2014 transferring administration of non-military land (~78% of SBA area) to Republic of Cyprus while retaining UK sovereignty — substantively distinctive globally only-modern-partial-sovereignty-administration-split framework. Implementation pending Cyprus reunification. Substantive bilateral-administration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "UK-Republic of Cyprus agreement 15 January 2014 transferring administration of non-military land (~78% of SBA area) to Republic of Cyprus while retaining UK sovereignty. Implementation pending Cyprus reunification."
     },
     {
       "year": 2017,
       "title": "Brexit + SBA-non-EU-but-British-Overseas-Territory framework",
-      "description": "UK Brexit 23 June 2016 referendum + 31 January 2020 exit from EU substantively affecting SBA constitutional-administrative framework — substantively distinctive Mediterranean SBA-already-non-EU-but-British-Overseas-Territory framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "UK Brexit 23 June 2016 referendum, 31 January 2020 exit from EU substantively affecting SBA constitutional-administrative framework."
     },
     {
       "year": 2023,

@@ -4,7 +4,9 @@
   "name": "Kuwait (دولة الكويت)",
   "jurisdiction_code": "KW",
   "legal_system": "religious-law",
-  "language": ["ar"],
+  "language": [
+    "ar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Kuwait is a Gulf religious-law constitutional monarchy whose family-law framework operates under the Personal Status Law 51/1984 (Qanun al-Ahwal al-Shakhsiyya) drawn primarily from Maliki and Hanafi jurisprudence with provisions for Shia communities. Custody (hadana) and guardianship (wilaya) are governed by arts. 187-215 of the Personal Status Law. The Court of Cassation (Mahkamat al-Tamyiz) is the apex court for civil and criminal matters; family-law matters are heard within the Family Courts under specialised procedure. Psychology profession is regulated through the Kuwait Institute for Medical Specialization (KIMS) under the Ministry of Health framework. Kuwait is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Kuwait is non-Hague Convention.",
@@ -47,12 +49,12 @@
     {
       "year": 1899,
       "title": "Anglo-Kuwaiti Agreement + British-protectorate framework",
-      "description": "Anglo-Kuwaiti Agreement 23 January 1899 between Sheikh Mubarak Al-Sabah + Britain establishing British protectorate framework — substantively distinctive Gulf British-protectorate-+-Al-Sabah-dynasty framework. Foundational substantive 62-year British-protectorate framework persisting through 1961 independence affecting subsequent constitutional-administrative-trajectory and Al-Sabah-Emirate framework."
+      "description": "Anglo-Kuwaiti Agreement 23 January 1899 between Sheikh Mubarak Al-Sabah, Britain establishing British protectorate framework."
     },
     {
       "year": 1961,
       "title": "Kuwaiti independence + post-British-protectorate framework",
-      "description": "Kuwait achieved independence 19 June 1961 from the United Kingdom — substantively distinctive Gulf Sabah-Emirate framework. Subsequent Iraqi-invasion-threat 1961 + Operation Vantage UK military response. Foundational substantive 65-year independent-Emirate framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Kuwait achieved independence 19 June 1961 from the United Kingdom. Subsequent Iraqi-invasion-threat 1961, Operation Vantage UK military response."
     },
     {
       "year": 1962,
@@ -67,7 +69,7 @@
     {
       "year": 1990,
       "title": "Iraqi invasion of Kuwait + Gulf-War + Kuwaiti-emirate-restoration framework",
-      "description": "Iraqi invasion of Kuwait 2 August 1990 + Gulf War 17 January-28 February 1991 + Kuwaiti emirate restoration — substantively distinctive globally seven-month-Iraqi-occupation-followed-by-coalition-liberation framework. Substantive demographic + family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and post-1991 reform-trajectory."
+      "description": "Iraqi invasion of Kuwait 2 August 1990, Gulf War 17 January-28 February 1991, Kuwaiti emirate restoration."
     },
     {
       "year": 1991,

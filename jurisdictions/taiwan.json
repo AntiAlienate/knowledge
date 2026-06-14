@@ -4,7 +4,9 @@
   "name": "Taiwan (Republic of China / 中華民國)",
   "jurisdiction_code": "TW",
   "legal_system": "civil-law",
-  "language": ["zh"],
+  "language": [
+    "zh"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Taiwan is an East Asian civil-law constitutional democracy whose family-law framework operates under the Civil Code of the Republic of China Book IV (Family) arts. 1051-1140 governing marriage, parental rights and child custody. The friendly-parent doctrine (善意父母原則) was statutorily codified in art. 1055-1 in the 2013 amendment — among the earliest statutory friendly-parent provisions globally, placing Taiwan in a structurally distinctive position within the corpus. The Supreme Court (最高法院) is the apex court for civil and criminal matters; the Constitutional Court (憲法法庭, formerly Council of Grand Justices) operates constitutional review. The Family Act 2012 (家事事件法) established specialised Family Courts (家事法庭) with integrated psychological assessment and mediation. Psychology profession is regulated under the Psychologists Act 2001 with the Ministry of Health and Welfare Counselling/Clinical Psychologist licensing framework. Taiwan applies the child's-best-interests standard codified in Civil Code art. 1055. Taiwan is not a Hague Convention 1980 party due to its non-UN status; bilateral arrangements operate in lieu.",
@@ -77,7 +79,7 @@
     {
       "year": 1996,
       "title": "Civil Code Family Revision — father-priority replaced with best-interest-of-the-child",
-      "description": "Major Civil Code Family revision enacted 25 September 1996 replacing the father-priority custody presumption with the best-interest-of-the-child standard in art. 1055 — the foundational substantive reform anchoring Taiwan's contemporary best-interest jurisprudence and enabling the later 2013 friendly-parent codification."
+      "description": "Major Civil Code Family revision enacted 25 September 1996 replacing the father-priority custody presumption with the best standard in art. 1055."
     },
     {
       "year": 2001,
@@ -107,7 +109,7 @@
     {
       "year": 2019,
       "title": "Act for Implementation of J.Y. Interpretation No. 748 — first Asian same-sex marriage legalization framework",
-      "description": "Act for Implementation of J.Y. Interpretation No. 748 (司法院釋字第七四八號解釋施行法) enacted 22 May 2019 + effective 24 May 2019 — substantively distinctive globally first Asian state to legalize same-sex marriage framework. Substantive same-sex marriage framework following J.Y. Interpretation No. 748 24 May 2017 declaring Civil Code marriage provisions unconstitutional for restricting same-sex marriage + foundation for subsequent same-sex parental rights + adoption framework + 2023 J.Y. Interpretation No. 748 Implementation Act amendments allowing same-sex couples joint adoption framework. Foundation for Taiwan PA-jurisprudence in same-sex-parent custody disputes."
+      "description": "Act for Implementation of J.Y. Interpretation No. 748 (司法院釋字第七四八號解釋施行法) enacted 22 May 2019, effective 24 May 2019. Substantive same-sex marriage framework following J.Y. Interpretation No. 748 24 May 2017 declaring Civil Code marriage provisions unconstitutional for restricting same-sex marriage, foundation for subsequent same-sex parental rights, adoption framework, 2023 J.Y. Interpretation No. 748 Implementation Act amendments allowing same-sex couples joint adoption framework. Foundation for Taiwan PA-jurisprudence in same-sex-parent custody disputes."
     },
     {
       "year": 2022,

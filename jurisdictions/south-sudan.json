@@ -4,7 +4,9 @@
   "name": "South Sudan (Republic of South Sudan)",
   "jurisdiction_code": "SS",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "South Sudan is a Northeast African mixed-legal-system federal republic — established as an independent state on 9 July 2011 following the 2005 Comprehensive Peace Agreement and 2011 independence referendum. Family-law framework operates under the Family Law transitional provisions and Penal Code 2008, with customary-law jurisdiction (operating across various ethnic communities including Dinka, Nuer, Bari, Azande) constituting a substantial layer. The Transitional Constitution 2011 (as amended) establishes a secular framework distinct from pre-independence Sharia-based Sudanese framework. Parental authority and child custody are governed by case-law applying the welfare-of-the-child standard alongside customary-law provisions. The Supreme Court of South Sudan is the apex court for civil and criminal matters. Family-law matters are heard at first instance in County Courts and Customary Courts. Psychology profession is regulated through the Ministry of Health framework. South Sudan is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. South Sudan is non-Hague Convention.",
@@ -56,32 +58,32 @@
     {
       "year": 1955,
       "title": "First Sudanese Civil War 1955-1972 + Anyanya rebellion framework",
-      "description": "First Sudanese Civil War 1955-1972 between Sudanese government and southern Anyanya rebels. Substantively distinctive 17-year African armed-conflict framework affecting demographic and family-law-implementation framework. Foundational pre-Addis-Ababa Agreement framework affecting subsequent South-Sudan-independence-trajectory."
+      "description": "First Sudanese Civil War 1955-1972 between Sudanese government and southern Anyanya rebels."
     },
     {
       "year": 1983,
       "title": "Second Sudanese Civil War 1983-2005 + SPLA framework + 22-year-conflict",
-      "description": "Second Sudanese Civil War 1983-2005 between Sudanese government and Sudan People's Liberation Army (SPLA) led by John Garang. Substantive 22-year African armed-conflict framework with estimated 2 million killed substantially affected demographic and family-law-implementation framework. Substantively distinctive globally one of longest African civil wars."
+      "description": "Second Sudanese Civil War 1983-2005 between Sudanese government and Sudan People's Liberation Army (SPLA) led by John Garang. Substantive 22-year African armed-conflict framework with estimated 2 million killed substantially affected demographic and family-law-implementation framework."
     },
     {
       "year": 2005,
       "title": "Comprehensive Peace Agreement + Naivasha-CPA framework",
-      "description": "Comprehensive Peace Agreement (Naivasha CPA) signed 9 January 2005 between Sudan government and Sudan People's Liberation Movement ending 22-year second civil war. Substantive South-Sudan-autonomy framework establishing path to 2011 independence. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Comprehensive Peace Agreement (Naivasha CPA) signed 9 January 2005 between Sudan government and Sudan People's Liberation Movement ending 22-year second civil war. Substantive South-Sudan-autonomy framework establishing path to 2011 independence."
     },
     {
       "year": 2008,
       "title": "Penal Code 2008 + family-law-adjacent statutory framework",
-      "description": "Federal Penal Code 2008 enacted applicable in family-law adjacent matters (child protection, domestic violence). Substantively significant statutory framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Penal Code 2008 enacted applicable in family-law adjacent matters (child protection, domestic violence)."
     },
     {
       "year": 2011,
       "title": "South Sudan independence + Transitional Constitution + Salva Kiir presidency",
-      "description": "South Sudan declared independence 9 July 2011 following 2011 independence referendum (98.83% in favour). Transitional Constitution adopted establishing secular framework distinct from pre-independence Sharia framework. Salva Kiir Mayardit first president. Substantively distinctive globally youngest sovereign state in corpus. UN admitted member 14 July 2011."
+      "description": "South Sudan declared independence 9 July 2011 following 2011 independence referendum (98.83% in favour). Transitional Constitution adopted establishing secular framework distinct from pre-independence Sharia framework. Salva Kiir Mayardit first president. UN admitted member 14 July 2011."
     },
     {
       "year": 2013,
       "title": "South Sudanese Civil War 2013-2018 + Kiir-Machar conflict framework",
-      "description": "South Sudanese Civil War 15 December 2013 – 12 September 2018 between Salva Kiir government and Riek Machar opposition. Substantive 5-year armed-conflict framework with estimated 400,000 killed substantially affected demographic and family-law-implementation framework. Foundational pre-Revitalized-Agreement framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "South Sudanese Civil War 15 December 2013 – 12 September 2018 between Salva Kiir government and Riek Machar opposition. Substantive 5-year armed-conflict framework with estimated 400,000 killed substantially affected demographic and family-law-implementation framework."
     },
     {
       "year": 2015,
@@ -96,7 +98,7 @@
     {
       "year": 2020,
       "title": "Transitional Government of National Unity + Machar Vice-Presidency framework",
-      "description": "Transitional Government of National Unity established 22 February 2020 — Riek Machar assumed First Vice-Presidency. Substantive post-civil-war power-sharing framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation. Election 2026 scheduled framework substantively delayed."
+      "description": "Transitional Government of National Unity established 22 February 2020 — Riek Machar assumed First Vice-Presidency. Election 2026 scheduled framework substantively delayed."
     },
     {
       "year": 2023,

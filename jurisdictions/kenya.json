@@ -4,7 +4,10 @@
   "name": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
   "jurisdiction_code": "KE",
   "legal_system": "mixed (English common-law + customary law + Kadhi courts for Islamic personal-status)",
-  "language": ["en", "sw"],
+  "language": [
+    "en",
+    "sw"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Kenya is a mixed common-law jurisdiction with constitutional supremacy under the Constitution of Kenya 2010. Family courts operate under the Children Act 2022 (No. 29 of 2022, effective 26 July 2022, replacing the 2001 Children Act), the Marriage Act 2014, and Kadhi courts for Muslim personal-status matters under Constitution art. 170. The Constitution art. 53 establishes constitutionally-grounded child-rights framework including best-interests-of-the-child paramount standard. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of Kenya and Court of Appeal have applied BIC standard in custody disputes. The Children Act 2022 modernises framework including parental responsibility, child-participation rights, and child-protection-measures. Kenya National Commission on Human Rights (KNCHR) and Kenya Children's Department have informed institutional position.",
@@ -130,12 +133,12 @@
     }
   ],
   "structural_findings": [
-    "Kenya operates a structurally distinctive mixed common-law family-law framework with constitutional supremacy — Constitution 2010 art. 53 + Children Act 2022 + Kadhi courts framework — substantively distinctive in African region for constitutional codification of BIC paramount standard.",
+    "Kenya operates a structurally distinctive mixed common-law family-law framework with constitutional supremacy — Constitution 2010 art. 53, Children Act 2022, Kadhi courts framework.",
     "Children Act 2022 (effective 26 July 2022) represents the most substantial Kenyan child-rights reform since 2001 — modernising framework with parental responsibility codification, child-participation rights expansion, and child-protection-measures restructuring.",
     "Tripartite legal pluralism (English common-law + customary law + Kadhi courts for Islamic personal-status) operationally creates structurally distinctive family-law architecture — making Kenya a critical East African comparative-law data point for mixed-jurisdiction analysis."
   ],
   "editorial_notes": [
-    "Kenya's Constitution 2010 art. 53 explicit constitutional codification of BIC paramount standard is substantively distinctive in African region — operationally distinguishing Kenyan framework from common-law African jurisdictions without explicit constitutional codification (Nigeria) and from European institutional-critique apex-court doctrinal positions.",
-    "Kadhi courts framework under Constitution art. 170 operates as substantively distinctive constitutionally-recognised Islamic personal-status framework — making Kenya a critical comparative-law data point for African constitutional-pluralism family-law architecture."
+    "Kenya's Constitution 2010 art.",
+    "Kadhi courts framework under Constitution art."
   ]
 }

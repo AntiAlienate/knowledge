@@ -4,7 +4,9 @@
   "name": "Mayotte (Maore)",
   "jurisdiction_code": "YT",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Mayotte is an Indian Ocean civil-law French overseas department and region (Département et région d'outre-mer / DROM) — structurally distinctive globally as the only majority-Muslim French DROM and the most-recently-integrated DROM (achieving full departmental integration on 31 March 2011 following 2009 referendum). Population is composed primarily of Mahorais (Comorian-heritage) with ~95% Sunni Muslim majority, retaining Mahorais customary-status accommodations during transitional integration period. Family-law framework operates under the French Civil Code with substantial Mahorais customary-status (statut civil de droit local) transitional accommodations under the Civil Status Reform Ordinance 2010, gradually transitioning to full French Civil Code application. Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387 for civil-status persons and by Mahorais customary-law for customary-status persons during transitional period. The Court of Appeal of Saint-Denis (La Réunion) has jurisdiction over Mayotte matters; final appellate jurisdiction lies with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal Judiciaire de Mamoudzou. The Cadi (Islamic) tribunals operated until 2010 but were abolished as part of the integration framework. Psychology profession is regulated through the French Republic professional framework as applicable in Mayotte. Mayotte is silent on 'parental alienation' as a statutory label; courts operate substantively under the French interest-of-the-child standard. Mayotte is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -62,47 +64,47 @@
     {
       "year": 1843,
       "title": "French acquisition + Sultan-of-Mayotte-Adriantsoly framework",
-      "description": "French acquisition of Mayotte 25 April 1843 by Treaty with Sultan Adriantsoly — substantively distinctive Indian Ocean French-Mahorais-acquisition framework. Foundational pre-1976-vote-to-remain-French framework affecting subsequent constitutional-administrative-trajectory and Mahorais-customary-Sunni-Muslim-majority framework."
+      "description": "French acquisition of Mayotte 25 April 1843 by Treaty with Sultan Adriantsoly."
     },
     {
       "year": 1976,
       "title": "Vote to remain French + separation-from-Comoros + Comorian-non-recognition framework",
-      "description": "Mayotte voted in 1974 (~63%) and 8 February 1976 (~99.4%) to remain part of France while the rest of the Comoros archipelago achieved independence 6 July 1975 — substantively distinctive globally only-Indian-Ocean-French-territory-with-disputed-Comorian-sovereignty-claim framework. Comoros disputes Mayotte's status (UN General Assembly Resolution 31/4 of 21 October 1976 affirming Comorian unity). Foundational substantive 49+ year Comorian-non-recognition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mayotte voted in 1974 (~63%) and 8 February 1976 (~99.4%) to remain part of France while the rest of the Comoros archipelago achieved independence 6 July 1975. Comoros disputes Mayotte's status (UN General Assembly Resolution 31/4 of 21 October 1976 affirming Comorian unity)."
     },
     {
       "year": 1983,
       "title": "Hague Convention 1980 territorial extension + French-applicability framework",
-      "description": "Hague Convention 1980 territorial extension by France to Mayotte effective 1 December 1983 — substantively significant Indian Ocean French-Hague-applicability framework. Foundational substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+      "description": "Hague Convention 1980 territorial extension by France to Mayotte effective 1 December 1983 — substantively significant Indian Ocean French-Hague-applicability framework."
     },
     {
       "year": 1990,
       "title": "France ratifies UN Convention on the Rights of the Child + Mayotte-applicability framework",
-      "description": "France ratified UNCRC 7 August 1990 with applicability to Mayotte — establishing interest-of-the-child substantive doctrine within French-derivative-civil-law framework applicable to Mayotte. Foundational substantive child-rights framework integration affecting subsequent reform-trajectory."
+      "description": "France ratified UNCRC 7 August 1990 with applicability to Mayotte — establishing interest substantive doctrine within French framework applicable to Mayotte."
     },
     {
       "year": 2001,
       "title": "Mahorais-customary-status reform + statut-civil-de-droit-local framework",
-      "description": "Law 2001-616 of 11 July 2001 reforming Mahorais customary-status framework (statut civil de droit local) — substantively significant Indian Ocean transitional-customary-status framework. Foundational pre-2010-Civil-Status-Reform-Ordinance framework affecting subsequent reform-trajectory."
+      "description": "Law 2001-616 of 11 July 2001 reforming Mahorais customary-status framework (statut civil de droit local) — substantively significant Indian Ocean transitional-customary-status framework."
     },
     {
       "year": 2009,
       "title": "Departmental integration referendum + 95.2-percent-in-favour framework",
-      "description": "Mahorais voted 95.2% in favour of departmental integration 29 March 2009 referendum — substantively distinctive Indian Ocean Mahorais-self-determination framework. Foundational pre-2011-departmental-integration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mahorais voted 95.2% in favour of departmental integration 29 March 2009 referendum."
     },
     {
       "year": 2010,
       "title": "Civil Status Reform Ordinance + Cadi-tribunal-abolition framework",
-      "description": "Federal Ordinance 2010-590 of 3 June 2010 reforming Mayotte's civil-status framework — substantively distinctive globally only-state-level-entity-to-formally-abolish-operating-Sharia-courts-as-part-of-metropolitan-state-integration-in-recent-history framework. Cadi tribunals abolished + transitional Mahorais customary-status accommodations. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Ordinance 2010-590 of 3 June 2010 reforming Mayotte's civil-status framework. Cadi tribunals abolished, transitional Mahorais customary-status accommodations. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2011,
       "title": "Departmental integration + most-recent-French-DROM-integration framework",
-      "description": "Mayotte achieved full DROM status effective 31 March 2011 — substantively distinctive globally only-majority-Muslim-French-DROM-+-most-recently-integrated-DROM framework. Organic Law 2010-1486 of 7 December 2010 implementing 2009 referendum. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Mayotte achieved full DROM status effective 31 March 2011. Organic Law 2010-1486 of 7 December 2010 implementing 2009 referendum."
     },
     {
       "year": 2014,
       "title": "EU-outermost-region-status + EU-applicability framework",
-      "description": "Mayotte EU-outermost-region status acquired 1 January 2014 — substantively distinctive globally only-majority-Muslim-EU-outermost-region framework. EU acquis communautaire applicable. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mayotte EU-outermost-region status acquired 1 January 2014. EU acquis communautaire applicable."
     },
     {
       "year": 2023,

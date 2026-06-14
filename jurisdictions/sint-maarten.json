@@ -4,7 +4,10 @@
   "name": "Sint Maarten",
   "jurisdiction_code": "SX",
   "legal_system": "civil-law",
-  "language": ["nl", "en"],
+  "language": [
+    "nl",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Sint Maarten is a Caribbean civil-law constituent country of the Kingdom of the Netherlands (since 10 October 2010 dissolution of Netherlands Antilles) — sharing the island of Saint Martin with French Saint-Martin (Collectivité d'outre-mer). Family-law framework operates under the Civil Code of Sint Maarten (Burgerlijk Wetboek van Sint Maarten) drawing on Dutch civil-law substantive heritage. Parental authority (ouderlijk gezag) and child custody are governed by Civil Code Book 1 arts. 245-298. The Joint Court of Justice of Aruba, Curaçao, Sint Maarten and BES Islands (Gemeenschappelijk Hof) is the apex appellate court; final appellate jurisdiction was retained with the Dutch Supreme Court (Hoge Raad). Family-law matters are heard at first instance in the Court of First Instance (Gerecht in Eerste Aanleg). Psychology profession is regulated through the Inspectorate of Public Health framework. Sint Maarten is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. Sint Maarten is a Hague Convention 1980 party via Kingdom of the Netherlands territorial extension effective 1 September 1990 (originally as Netherlands Antilles).",
@@ -48,7 +51,7 @@
     {
       "year": 1648,
       "title": "Treaty of Concordia + Dutch-French island-partition framework",
-      "description": "Treaty of Concordia signed 23 March 1648 dividing island of Saint Martin between Dutch and French — substantively distinctive Caribbean shared-island-partition framework lasting 375+ years. Foundational shared-jurisdiction framework affecting subsequent cross-border-family-law-jurisdiction-practice."
+      "description": "Treaty of Concordia signed 23 March 1648 dividing island of Saint Martin between Dutch and French."
     },
     {
       "year": 1954,
@@ -58,7 +61,7 @@
     {
       "year": 1986,
       "title": "Aruba status aparte + Netherlands Antilles five-island framework + Sint Maarten autonomy-aspirations",
-      "description": "Aruba achieved status aparte 1 January 1986 — establishing precedent for Sint Maarten autonomy aspirations. Substantive Netherlands Antilles federal-restructuring framework affecting subsequent Sint Maarten constituent-country trajectory."
+      "description": "Aruba achieved status aparte 1 January 1986 — establishing precedent for Sint Maarten autonomy aspirations."
     },
     {
       "year": 1990,

@@ -4,7 +4,9 @@
   "name": "Wallis and Futuna (Wallis-et-Futuna)",
   "jurisdiction_code": "WF",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Wallis and Futuna is a Pacific Island civil-law overseas collectivity (Collectivité d'outre-mer) of the French Republic — structurally distinctive globally as the only state-level entity with three constitutionally-recognised indigenous kingdoms (Uvea, Sigave, Alo) operating in parallel with the French Republic civil-law framework. The Statute Law 61-814 of 29 July 1961 recognises the three traditional kingdoms and their kings (Lavelua of Uvea, Tu'i Sigave of Sigave, Tu'i Agaifo of Alo) within the French Republic constitutional framework. Family-law framework operates under the French Civil Code (Code Civil) for civil-status (statut civil de droit commun) matters and under Wallisian/Futunan customary-law for customary-status (statut civil coutumier) matters via the customary courts of the three kingdoms. Parental authority and child custody operate under Civil Code arts. 371-387 (civil-status) or under indigenous customary-law (customary-status). The Court of Appeal of Nouméa is the apex domestic appellate court for civil and criminal matters in Wallis and Futuna; final appellate jurisdiction was retained with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal of First Instance of Mata-Utu and on customary-status matters via Customary Sessions before the three kings. Psychology profession is regulated through the French Republic professional framework as applicable in Wallis and Futuna. Wallis and Futuna is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Wallis and Futuna is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -62,7 +64,7 @@
     {
       "year": 1842,
       "title": "French protectorate establishment + Lavelua Amelia + colonial-era kingdoms framework",
-      "description": "French protectorate over Wallis (Uvea) established 5 April 1842 — Lavelua Amelia Tokagahahau Fenuamoana (queen of Uvea) requested French protection. Substantively distinctive Pacific Catholic-mission-and-monarchy-based protectorate framework. Subsequent Futuna protectorate 1888. Foundational three-kingdoms framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "French protectorate over Wallis (Uvea) established 5 April 1842 — Lavelua Amelia Tokagahahau Fenuamoana (queen of Uvea) requested French protection. Subsequent Futuna protectorate 1888."
     },
     {
       "year": 1888,
@@ -82,7 +84,7 @@
     {
       "year": 1961,
       "title": "Statute Law 61-814 — overseas collectivity + three kingdoms recognition",
-      "description": "Federal Statute Law 29 July 1961 establishing Wallis and Futuna overseas collectivity status and constitutionally-recognising the three traditional kingdoms (Uvea, Sigave, Alo) within the French Republic framework. Substantively distinctive globally: only state-level entity with three constitutionally-recognised indigenous kingdoms operating in parallel with civil-law framework."
+      "description": "Federal Statute Law 29 July 1961 establishing Wallis and Futuna overseas collectivity status and constitutionally-recognising the three traditional kingdoms (Uvea, Sigave, Alo) within the French Republic framework."
     },
     {
       "year": 1983,
@@ -102,12 +104,12 @@
     {
       "year": 2018,
       "title": "Lavelua succession crisis + three-kingdoms governance-framework contestation",
-      "description": "Wallisian Lavelua (king of Uvea) succession crisis 2014-2018 substantively affecting traditional-governance framework within Wallis. Substantively distinctive Pacific Catholic-monarchy-succession-contestation pattern affecting subsequent constitutional-democratic-trajectory and customary-status-administration framework."
+      "description": "Wallisian Lavelua (king of Uvea) succession crisis 2014-2018 substantively affecting traditional-governance framework within Wallis."
     },
     {
       "year": 2023,
       "title": "Three-kingdoms framework continuation + Catholic-monarchy framework + diaspora framework",
-      "description": "Three-kingdoms (Uvea, Sigave, Alo) framework continuation through 2023 — substantively distinctive Pacific Catholic-monarchy constitutional-recognition framework. Diaspora framework substantively significant institutional context affecting cross-border family-law adjudication with New Caledonia (substantial Wallisian/Futunan population). Substantively significant French Pacific COM institutional jurisprudential development."
+      "description": "Three-kingdoms (Uvea, Sigave, Alo) framework continuation through 2023. Diaspora framework substantively significant institutional context affecting cross-border family-law adjudication with New Caledonia (substantial Wallisian/Futunan population). Substantively significant French Pacific COM institutional jurisprudential development."
     },
     {
       "year": 2024,

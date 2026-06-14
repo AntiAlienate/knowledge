@@ -4,7 +4,10 @@
   "name": "Russian-Annexed Ukrainian Oblasts 2022 (Donetsk + Luhansk + Kherson + Zaporizhzhia)",
   "jurisdiction_code": "UA-ANN",
   "legal_system": "civil-law",
-  "language": ["ru", "uk"],
+  "language": [
+    "ru",
+    "uk"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "The 2022 Russian-Annexed Ukrainian Oblasts comprise four Eastern European civil-law disputed territories — Donetsk People's Republic (DPR / ДНР), Luhansk People's Republic (LPR / ЛНР), Kherson Oblast, and Zaporizhzhia Oblast — incorporated into the Russian Federation as constituent federal subjects effective 30 September 2022 by Russian Federation Constitutional Amendment, following the 23-27 September 2022 referendums (not recognised by Ukraine, the UN General Assembly, EU, US, and most other states). Structurally distinctive globally as the first simultaneous annexation of four oblasts (~108,000 km², ~6 million population per Russian claims, larger than annexed Crimea ~27,000 km² ~2.4 million) by a UN Permanent-Five Security Council member from another UN member state in modern history, and the largest single-event territorial change in post-Cold-War Europe. The annexation was preceded by Russian recognition of DPR and LPR independence on 21 February 2022 (immediately before the 24 February 2022 full-scale Russian invasion of Ukraine) — making DPR and LPR uniquely both former unrecognised de-facto states (2014-2022) and now Russian Federation constituent subjects (since 30 September 2022). The annexed oblasts are partially controlled by Russia and partially by Ukraine — Russia controls ~70-85% of DPR and LPR but only ~75% of Kherson Oblast and ~75% of Zaporizhzhia Oblast as of 2026. UNGA Resolution ES-11/4 of 12 October 2022 declared the annexation referendums invalid (143 in favour, 5 against, 35 abstentions — the strongest GA condemnation of any post-Cold-War territorial annexation). Family-law framework operates under the Russian Federation Family Code (Семейный кодекс РФ 1995) in Russian-administered areas and Ukrainian Family Code (Сімейний кодекс України 2002) in Ukrainian-controlled areas of the same oblasts — a structurally distinctive dual-family-law-framework situation. Russian-administered apex courts are the respective Republic-level Supreme Courts and Oblast Courts; Ukrainian-controlled apex courts continue under the pre-2022 Ukrainian framework. Final appellate jurisdiction in Russian-administered areas lies with the Supreme Court of the Russian Federation. The annexed oblasts are silent on 'parental alienation' as a statutory label. Hague Convention 1980 applicability operates under contested Russian territorial extension framework (Ukraine and most states do not recognise applicability via Russian extension; Ukrainian Hague 2006 accession remains the recognised framework).",
@@ -86,47 +89,47 @@
     {
       "year": 1991,
       "title": "Ukrainian independence + Soviet-collapse-+-Ukrainian-Family-Code-substantive-heritage framework",
-      "description": "Ukrainian declaration of independence 24 August 1991 + Soviet collapse — substantively distinctive Eastern European post-Soviet-Ukrainian-republic framework. Foundational substantive Ukrainian Family Code 2002 substantive heritage framework persisting through 2022 Russian annexation. Foundational pre-2014-DPR-LPR-declaration framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Ukrainian declaration of independence 24 August 1991, Soviet collapse."
     },
     {
       "year": 2014,
       "title": "Crimea annexation + DPR-and-LPR-declared + Donbas-War framework",
-      "description": "Russian annexation of Crimea 18 March 2014 + Donetsk People's Republic declared 7 April 2014 + Luhansk People's Republic declared 27 April 2014 — substantively distinctive Eastern European 2014-Donbas-War-+-DPR-LPR-unrecognised-de-facto-states framework. Foundational pre-2022-full-scale-invasion framework affecting subsequent constitutional-democratic-trajectory and Minsk-Agreements-2014-2015 + 8-year-Donbas-conflict framework."
+      "description": "Russian annexation of Crimea 18 March 2014, Donetsk People's Republic declared 7 April 2014, Luhansk People's Republic declared 27 April 2014."
     },
     {
       "year": 2015,
       "title": "Minsk II Agreements + ceasefire-+-DPR-LPR-special-status framework",
-      "description": "Minsk II Agreements 12 February 2015 — substantively distinctive Eastern European ceasefire-+-DPR-LPR-special-status-within-Ukraine framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory through 2022 Russian withdrawal from Minsk framework + full-scale invasion."
+      "description": "Minsk II Agreements 12 February 2015."
     },
     {
       "year": 2022,
       "title": "Russian-recognition-of-DPR-and-LPR-independence + full-scale-Russian-invasion framework",
-      "description": "Russian Federation recognised DPR and LPR independence 21 February 2022 — substantively distinctive globally only-modern-recognition-of-separatist-republics-immediately-prior-to-full-scale-invasion-of-parent-state framework. Russian full-scale invasion of Ukraine 24 February 2022. Foundational substantive 2022-Russia-Ukraine-War framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory and UN Charter-violation framework."
+      "description": "Russian Federation recognised DPR and LPR independence 21 February 2022. Russian full-scale invasion of Ukraine 24 February 2022."
     },
     {
       "year": 2022,
       "title": "Annexation referendums + 23-27-September-2022-+-Ukrainian-non-recognition framework",
-      "description": "Annexation referendums in DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast 23-27 September 2022 — substantively distinctive globally first-simultaneous-annexation-referendums-in-four-oblasts-by-UN-Permanent-Five-Security-Council-member-from-another-UN-member-state-in-modern-history framework. Not recognised by Ukraine and most other states. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Annexation referendums in DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast 23-27 September 2022. Not recognised by Ukraine and most other states."
     },
     {
       "year": 2022,
       "title": "Russian Federation Constitutional Amendment + annexation-of-DPR-LPR-Kherson-Zaporizhzhia framework",
-      "description": "Russian Federation Constitutional Amendment 30 September 2022 incorporating DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast as constituent federal subjects — substantively distinctive globally largest-single-event-territorial-change-in-post-Cold-War-Europe framework. Substantive 108,000 km² + ~6 million population annexation framework. Foundational substantive Russian-constituent-subject framework affecting subsequent constitutional-democratic-trajectory and dual-family-law-framework."
+      "description": "Russian Federation Constitutional Amendment 30 September 2022 incorporating DPR, LPR, Kherson Oblast, and Zaporizhzhia Oblast as constituent federal subjects. Substantive 108,000 km², ~6 million population annexation framework."
     },
     {
       "year": 2022,
       "title": "UNGA Resolution ES-11/4 + 143-in-favour-+-strongest-condemnation framework",
-      "description": "UN General Assembly Emergency Special Session Resolution ES-11/4 of 12 October 2022 declaring the annexation referendums invalid — substantively distinctive globally strongest-GA-condemnation-of-any-post-Cold-War-territorial-annexation framework (143 in favour vs 100 for Crimea Resolution 68/262, 5 against, 35 abstentions). Substantive international-law-non-recognition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "UN General Assembly Emergency Special Session Resolution ES-11/4 of 12 October 2022 declaring the annexation referendums invalid."
     },
     {
       "year": 2023,
       "title": "ICC-arrest-warrant-+-Putin-Lvova-Belova-child-deportation framework",
-      "description": "International Criminal Court arrest warrant 17 March 2023 against Vladimir Putin + Maria Lvova-Belova for war crime of unlawful deportation of Ukrainian children — substantively distinctive globally only-ICC-arrest-warrant-against-UN-Permanent-Five-Security-Council-member-head-of-state framework. Substantive Hague-Convention-applicability-+-cross-border-child-protection framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "International Criminal Court arrest warrant 17 March 2023 against Vladimir Putin, Maria Lvova-Belova for war crime of unlawful deportation of Ukrainian children."
     },
     {
       "year": 2024,
       "title": "Continuing-conflict + partial-Russian-administration-70-85-percent-DPR-LPR framework",
-      "description": "Continuing 2022-2024 Russia-Ukraine War with partial Russian administration of annexed oblasts (~70-85% of DPR/LPR, ~75% of Kherson/Zaporizhzhia) — substantively distinctive globally only-modern-formal-annexation-during-active-military-conflict-with-the-annexed-from-state framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
+      "description": "Continuing 2022-2024 Russia-Ukraine War with partial Russian administration of annexed oblasts (~70-85% of DPR/LPR, ~75% of Kherson/Zaporizhzhia). Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2025,

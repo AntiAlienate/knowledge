@@ -4,7 +4,10 @@
   "name": "Aruba",
   "jurisdiction_code": "AW",
   "legal_system": "civil-law",
-  "language": ["nl", "pap"],
+  "language": [
+    "nl",
+    "pap"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Aruba is a Caribbean civil-law constituent country of the Kingdom of the Netherlands (Status Aparte 1986) — structurally distinctive within the corpus as a Kingdom-of-the-Netherlands constituent country with its own civil-law framework distinct from Curaçao and Sint Maarten. Family-law framework operates under the Civil Code of Aruba 1990 (Burgerlijk Wetboek van Aruba) drawing on Dutch civil-law substantive heritage. Parental authority (ouderlijk gezag) and child custody are governed by Civil Code Book 1 arts. 245-298. The Joint Court of Justice of Aruba, Curaçao, Sint Maarten and Bonaire, Sint Eustatius and Saba (Gemeenschappelijk Hof) is the apex appellate court for civil and criminal matters across Aruba, Curaçao, Sint Maarten and BES Islands; final appellate jurisdiction was retained with the Dutch Supreme Court (Hoge Raad). Family-law matters are heard at first instance in the Court of First Instance (Gerecht in Eerste Aanleg). Psychology profession is regulated through the Inspectorate of Public Health framework. Aruba is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. Aruba is a Hague Convention 1980 party via Kingdom of the Netherlands territorial extension effective 1 September 1990.",
@@ -60,7 +63,7 @@
     {
       "year": 1977,
       "title": "Betico Croes + Movimiento Electoral di Pueblo + status-aparte-campaign",
-      "description": "Gilberto 'Betico' Croes leadership of Movimiento Electoral di Pueblo (MEP) — substantively distinctive Caribbean political-leadership pattern campaigning for Aruba status-aparte. Foundational political-mobilisation framework for subsequent 1986 constitutional reform."
+      "description": "Gilberto 'Betico' Croes leadership of Movimiento Electoral di Pueblo (MEP). Foundational political-mobilisation framework for subsequent 1986 constitutional reform."
     },
     {
       "year": 1983,
@@ -70,7 +73,7 @@
     {
       "year": 1986,
       "title": "Status Aparte 1986 + constituent-country framework + Henny Eman premiership",
-      "description": "Aruba achieved Status Aparte 1 January 1986 — establishing constituent-country status within Kingdom of the Netherlands separate from former Netherlands Antilles. Henny Eman (Arubaanse Volkspartij) first prime minister 1986-1989. Substantively distinctive Caribbean constitutional-restructuring framework — only-status-aparte-from-Netherlands-Antilles-pattern globally."
+      "description": "Aruba achieved Status Aparte 1 January 1986 — establishing constituent-country status within Kingdom of the Netherlands separate from former Netherlands Antilles. Henny Eman (Arubaanse Volkspartij) first prime minister 1986-1989."
     },
     {
       "year": 1990,
@@ -80,7 +83,7 @@
     {
       "year": 1995,
       "title": "Aruba cancellation of independence + continuing-status-aparte framework",
-      "description": "Aruba originally scheduled full independence 1 January 1996 under 1983 agreement framework — substantively cancelled 1995 maintaining continuing-status-aparte framework within Kingdom of the Netherlands. Substantively distinctive Caribbean independence-cancellation-and-continuing-Kingdom-membership pattern."
+      "description": "Aruba originally scheduled full independence 1 January 1996 under 1983 agreement framework — substantively cancelled 1995 maintaining continuing-status-aparte framework within Kingdom of the Netherlands."
     },
     {
       "year": 1995,

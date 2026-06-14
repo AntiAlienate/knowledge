@@ -4,7 +4,10 @@
   "name": "Botswana (Republic of Botswana)",
   "jurisdiction_code": "BW",
   "legal_system": "mixed",
-  "language": ["en", "tn"],
+  "language": [
+    "en",
+    "tn"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Botswana is a Southern African mixed-legal-system republic combining Roman-Dutch civil-law substantive heritage (via Cape Colony) with English common-law procedural inheritance and customary-law personal-status jurisdiction via Customary Courts. Family-law framework operates under the Marriage Act (Cap. 29:01), Matrimonial Causes Act (Cap. 29:06), Children's Act 2009 (Act No. 8 of 2009), and Customary Law Act. Parental rights and child custody are governed by Children's Act Part IV. The Court of Appeal of Botswana is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division) and in Customary Courts for customary-law matters. Psychology profession is regulated through the Botswana Health Professions Council under the Health Professions Act with the Botswana Psychological Association operating professional standards. Botswana is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children's Act s. 4. Botswana is non-Hague Convention.",
@@ -61,22 +64,22 @@
     {
       "year": 1885,
       "title": "Bechuanaland protectorate + Khama-British-protection framework",
-      "description": "Bechuanaland British protectorate 31 March 1885 under King Khama III (and Bathoen I, Sebele I) — substantively distinctive Southern African Tswana-kingdom-British-protectorate framework. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Bechuanaland British protectorate 31 March 1885 under King Khama III (and Bathoen I, Sebele I)."
     },
     {
       "year": 1966,
       "title": "Botswana independence + Seretse Khama founding-presidency",
-      "description": "Botswana independence 30 September 1966 from the United Kingdom — establishing presidential republic framework. Seretse Khama first president 1966-1980 substantively distinctive Southern African Tswana-presidency framework. Foundational pre-multipartyism-democratic-stability framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Botswana independence 30 September 1966 from the United Kingdom — establishing presidential republic framework."
     },
     {
       "year": 1973,
       "title": "Matrimonial Causes Act + post-independence statutory framework",
-      "description": "Federal divorce and matrimonial-causes statute enacted post-independence drawing on Roman-Dutch civil-law substantive heritage with English common-law procedural inheritance. Foundational statutory framework persisting through subsequent reform-trajectory."
+      "description": "Federal divorce and matrimonial-causes statute enacted post-independence drawing on Roman-Dutch civil-law substantive heritage with English common-law procedural inheritance."
     },
     {
       "year": 1994,
       "title": "Botswana Middle-Income-Country graduation + UN-LDC-graduation distinctive framework",
-      "description": "Botswana graduated from UN Least Developed Country (LDC) status 1994 — substantively distinctive globally first-LDC-graduation framework (before Cabo Verde 2008). Substantive socioeconomic-development framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "Botswana graduated from UN Least Developed Country (LDC) status 1994."
     },
     {
       "year": 1995,
@@ -86,7 +89,7 @@
     {
       "year": 1997,
       "title": "Roy Sesana et al. v Attorney General + Sani-Khwe Bushmen-CKGR-litigation framework",
-      "description": "Roy Sesana et al. v Attorney General (Botswana) Sani/Khwe litigation 2002-2006 substantively significant indigenous-rights litigation framework — High Court ruled 13 December 2006 Botswana government had unlawfully evicted Sani-Khwe Bushmen from Central Kalahari Game Reserve. Substantively distinctive African indigenous-jurisprudence framework."
+      "description": "Roy Sesana et al. v Attorney General (Botswana) Sani/Khwe litigation 2002-2006 substantively significant indigenous-rights litigation framework — High Court ruled 13 December 2006 Botswana government had unlawfully evicted Sani-Khwe Bushmen from Central Kalahari Game Reserve."
     },
     {
       "year": 2001,

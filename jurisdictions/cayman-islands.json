@@ -4,7 +4,9 @@
   "name": "Cayman Islands",
   "jurisdiction_code": "KY",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Cayman Islands is a Caribbean common-law British Overseas Territory. Family-law framework operates under the Matrimonial Causes Law (2005 Revision), the Maintenance Law, and the Children Law 2003 (drawing on English Children Act 1989 model). Parental responsibility and child custody are governed by Children Law 2003 Part II. The Court of Appeal of the Cayman Islands is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Grand Court (Family Division) and Summary Court. Psychology profession is regulated through the Health Practice Commission framework. Cayman Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Law 2003 s. 3. Cayman Islands is a Hague Convention 1980 party via UK territorial extension effective 1 August 1998.",
@@ -55,7 +57,7 @@
     {
       "year": 1962,
       "title": "Cayman Islands separation from Jamaica + BOT consolidation",
-      "description": "Cayman Islands administratively separated from Jamaica following Jamaican independence 6 August 1962 — becoming separate British Dependent Territory rather than joining independent Jamaica. Substantively distinctive Caribbean BOT-status-retention pattern. Foundational constitutional framework for subsequent self-government-trajectory."
+      "description": "Cayman Islands administratively separated from Jamaica following Jamaican independence 6 August 1962 — becoming separate British Dependent Territory rather than joining independent Jamaica. Foundational constitutional framework for subsequent self-government-trajectory."
     },
     {
       "year": 1972,
@@ -95,7 +97,7 @@
     {
       "year": 2022,
       "title": "Same-sex partnership recognition + Day v Governor 2019 jurisprudence",
-      "description": "Day v The Governor of the Cayman Islands 2019 — substantively significant litigation on same-sex marriage recognition. JCPC final decision March 2022 ruling against constitutional right to same-sex marriage; Civil Partnership Law 2020 establishing same-sex civil partnership framework. Substantively distinctive Caribbean BOT human-rights jurisprudence pattern."
+      "description": "Day v The Governor of the Cayman Islands 2019 — substantively significant litigation on same-sex marriage recognition. JCPC final decision March 2022 ruling against constitutional right to same-sex marriage; Civil Partnership Law 2020 establishing same-sex civil partnership framework."
     },
     {
       "year": 2023,

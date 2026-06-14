@@ -4,7 +4,9 @@
   "name": "Pitcairn Islands (Pitcairn, Henderson, Ducie and Oeno Islands)",
   "jurisdiction_code": "PN",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Pitcairn Islands (Pitcairn, Henderson, Ducie and Oeno Islands) is a Pacific Island common-law British Overseas Territory — structurally distinctive globally as the smallest permanently inhabited British Overseas Territory and the smallest permanently inhabited national jurisdiction in the world (population ~50). The Pitcairn population is composed primarily of descendants of HMS Bounty mutineers (1789) and their Polynesian Tahitian companions, retaining a distinct Pitkern Creole linguistic and cultural heritage. Family-law framework operates under the Pitcairn Ordinances drawing on English common-law substantive heritage applied via the Local Government and Court Ordinances. Parental responsibility and child custody are governed by case-law applying English-law principles. The Pitcairn Supreme Court is the apex domestic court for civil and criminal matters; appellate jurisdiction lies with the Court of Appeal of New Zealand (per Pitcairn-NZ administrative arrangement) and ultimately the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance by the Island Magistrate and the Supreme Court when sitting. Psychology profession is regulated through the administrative arrangements with New Zealand. Pitcairn Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under English-law welfare-of-the-child principles. Pitcairn Islands is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
@@ -61,27 +63,27 @@
     {
       "year": 1789,
       "title": "HMS Bounty mutiny + Fletcher-Christian-+-Tahitian-companions-settlement framework",
-      "description": "HMS Bounty mutiny 28 April 1789 — Fletcher Christian and 8 fellow mutineers, accompanied by 6 Tahitian men and 12 Tahitian women, settled Pitcairn Island January 1790. Substantively distinctive globally HMS-Bounty-descent-population-heritage framework. Foundational substantive Pitkern-Creole-linguistic-and-cultural framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "HMS Bounty mutiny 28 April 1789 — Fletcher Christian and 8 fellow mutineers, accompanied by 6 Tahitian men and 12 Tahitian women, settled Pitcairn Island January 1790."
     },
     {
       "year": 1838,
       "title": "British Crown Colony status + first-suffrage-for-all-adults-and-women-globally framework",
-      "description": "Pitcairn established as British Crown Colony 30 November 1838 — substantively distinctive globally first-jurisdiction-to-grant-universal-suffrage-including-women framework (38 years before any sovereign state). Foundational substantive parliamentary-democracy framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Pitcairn established as British Crown Colony 30 November 1838."
     },
     {
       "year": 1856,
       "title": "Pitcairn evacuation to Norfolk Island + return-of-some-families framework",
-      "description": "Pitcairn evacuation to Norfolk Island 8 May 1856 with entire 194-resident population — substantively distinctive Pacific population-transfer framework. Subsequent return of 17 residents 1859 + 27 residents 1864 restoring continuous Pitcairn habitation. Foundational substantive demographic and family-law-implementation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Pitcairn evacuation to Norfolk Island 8 May 1856 with entire 194-resident population. Subsequent return of 17 residents 1859, 27 residents 1864 restoring continuous Pitcairn habitation."
     },
     {
       "year": 1898,
       "title": "Pitcairn becomes part of British High Commission for Western Pacific Territories framework",
-      "description": "Pitcairn placed under British High Commission for Western Pacific Territories 1898 — substantively distinctive Pacific BHC-administration framework. Subsequent transfer to Governor of Fiji administration through 1952. Foundational pre-Governor-of-Pitcairn-+-Pitcairn-NZ-arrangement framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Pitcairn placed under British High Commission for Western Pacific Territories 1898. Subsequent transfer to Governor of Fiji administration through 1952."
     },
     {
       "year": 1970,
       "title": "Pitcairn Ordinances + Pitcairn-NZ-administrative-arrangement framework",
-      "description": "Pitcairn Ordinances codified 1970 applying English-law principles including matrimonial-causes and children's-welfare provisions. Substantively significant Pitcairn-NZ-administrative-arrangement framework with Court of Appeal of New Zealand appellate jurisdiction — substantively distinctive globally only-BOT-with-NZ-Court-of-Appeal-appellate-arrangement framework."
+      "description": "Pitcairn Ordinances codified 1970 applying English-law principles including matrimonial-causes and children's-welfare provisions. Substantively significant Pitcairn framework with Court of Appeal of New Zealand appellate jurisdiction."
     },
     {
       "year": 1986,
@@ -91,7 +93,7 @@
     {
       "year": 2004,
       "title": "Pitcairn sexual-assault-trials 2004 + Pitcairn-Supreme-Court-+-Privy-Council framework",
-      "description": "Pitcairn sexual-assault-trials 30 September - 25 October 2004 — substantively distinctive globally trial-of-1/3-of-male-adult-population-of-a-state-level-jurisdiction framework. Substantive Pitcairn Supreme Court proceedings with NZ Court of Appeal appellate consideration through 2006 Privy Council ruling. Foundational substantive criminal-justice-+-child-protection framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Pitcairn sexual-assault-trials 30 September - 25 October 2004. Substantive Pitcairn Supreme Court proceedings with NZ Court of Appeal appellate consideration through 2006 Privy Council ruling."
     },
     {
       "year": 2010,
@@ -101,7 +103,7 @@
     {
       "year": 2015,
       "title": "Pitcairn same-sex marriage + first-BOT-and-South-Pacific-jurisdiction framework",
-      "description": "Pitcairn legalised same-sex marriage 21 May 2015 — substantively distinctive globally first-BOT-and-first-South-Pacific-jurisdiction-to-legalise-same-sex-marriage framework. Substantive marriage-equality framework affecting subsequent constitutional-democratic-trajectory across BOT cluster."
+      "description": "Pitcairn legalised same-sex marriage 21 May 2015."
     },
     {
       "year": 2023,

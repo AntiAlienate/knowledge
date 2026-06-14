@@ -4,7 +4,9 @@
   "name": "Saint Lucia",
   "jurisdiction_code": "LC",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saint Lucia is a Caribbean mixed-legal-system constitutional monarchy combining French civil-law substantive heritage (via 17th-19th century French colonial inheritance — Civil Code of Saint Lucia 1879 drawing on Quebec/Lower Canadian codification) with English common-law procedural inheritance (post-1814 British administration). This is structurally distinctive within the corpus — Saint Lucia and Quebec share the French-civil-substantive + English-common-law-procedural hybrid pattern. Family-law framework operates under the Civil Code of Saint Lucia 1879 (CAP 4.01), the Divorce Act, the Children and Young Persons Act, and the Maintenance Act. Parental rights and child custody are governed by Civil Code arts. 218-247. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Saint Lucia) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Saint Lucia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Saint Lucia is non-Hague Convention.",
@@ -55,22 +57,22 @@
     {
       "year": 1814,
       "title": "British colonial administration + Treaty of Paris 1814 + 14-times-changing-hands framework",
-      "description": "Saint Lucia transferred from French to British colonial administration via Treaty of Paris 1814 — substantively distinctive globally Saint-Lucia-14-times-changing-hands-French-British framework (most-distinctive Caribbean colonial-transfer pattern). Civil Code substantive heritage retained with English common-law procedural inheritance. Foundational hybrid-legal-system framework."
+      "description": "Saint Lucia transferred from French to British colonial administration via Treaty of Paris 1814. Civil Code substantive heritage retained with English common-law procedural inheritance. Foundational hybrid-legal-system framework."
     },
     {
       "year": 1879,
       "title": "Civil Code of Saint Lucia + Quebec-derivative framework",
-      "description": "Federal Civil Code adopted 1879 drawing on Quebec/Lower Canadian codification — substantively distinctive globally only Caribbean jurisdiction with Quebec-derivative civil-law tradition. Foundational hybrid-legal-system framework persisting through subsequent reform-trajectory."
+      "description": "Federal Civil Code adopted 1879 drawing on Quebec/Lower Canadian codification."
     },
     {
       "year": 1967,
       "title": "Associated State of Saint Lucia + internal-self-government framework",
-      "description": "Saint Lucia became Associated State of West Indies 1 March 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Saint Lucia became Associated State of West Indies 1 March 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs."
     },
     {
       "year": 1978,
       "title": "Independence",
-      "description": "Saint Lucia achieved independence 22 February 1979 from the United Kingdom — establishing constitutional-monarchy framework retaining Judicial Committee of the Privy Council as final appellate court. John Compton first prime minister 1979-1981 and 1982-1996. Substantively distinctive Caribbean post-Federation-of-the-West-Indies independence framework."
+      "description": "Saint Lucia achieved independence 22 February 1979 from the United Kingdom — establishing constitutional-monarchy framework retaining Judicial Committee of the Privy Council as final appellate court. John Compton first prime minister 1979-1981 and 1982-1996."
     },
     {
       "year": 1993,
@@ -80,22 +82,22 @@
     {
       "year": 1997,
       "title": "Saint Lucia Civil Code Revision 1997 + Saint Lucian-distinctive-codification framework",
-      "description": "Saint Lucia Civil Code Revision 1997 substantively modernising 1879 Code — substantive Quebec-derivative-revision framework affecting subsequent family-law-implementation. Foundational pre-CCJ-Treaty-2001 framework."
+      "description": "Saint Lucia Civil Code Revision 1997 substantively modernising 1879 Code. Foundational pre framework."
     },
     {
       "year": 2001,
       "title": "Caribbean Court of Justice Treaty + CCJ-non-accession framework",
-      "description": "Caribbean Court of Justice Treaty signed 14 February 2001 — Saint Lucia signatory but did not transfer final-appellate jurisdiction from JCPC to CCJ. Substantively distinctive Caribbean-JCPC-retention framework affecting cross-border-jurisdiction-practice."
+      "description": "Caribbean Court of Justice Treaty signed 14 February 2001 — Saint Lucia signatory but did not transfer final-appellate jurisdiction from JCPC to CCJ."
     },
     {
       "year": 2010,
       "title": "Hurricane Tomas 2010 + reconstruction-trajectory framework",
-      "description": "Hurricane Tomas 30 October 2010 substantively affected Saint Lucia — substantively distinctive Caribbean climate-disaster framework affecting demographic and family-law-implementation framework through post-disaster reconstruction trajectory."
+      "description": "Hurricane Tomas 30 October 2010 substantively affected Saint Lucia."
     },
     {
       "year": 2016,
       "title": "Allen Chastanet + UWP premiership + alternation framework",
-      "description": "Allen Chastanet (United Workers Party) elected Prime Minister 6 June 2016 — substantively distinctive Caribbean SLP-UWP alternation framework. Subsequent 2021 SLP-return (Philip J. Pierre) affecting subsequent family-law-modernisation-trajectory."
+      "description": "Allen Chastanet (United Workers Party) elected Prime Minister 6 June 2016. Subsequent 2021 SLP-return (Philip J. Pierre) affecting subsequent family."
     },
     {
       "year": 2023,

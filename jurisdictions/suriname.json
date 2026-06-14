@@ -4,7 +4,9 @@
   "name": "Suriname (Republic of Suriname / Republiek Suriname)",
   "jurisdiction_code": "SR",
   "legal_system": "civil-law",
-  "language": ["nl"],
+  "language": [
+    "nl"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Suriname is a South American civil-law republic whose family-law framework operates under the Civil Code (Burgerlijk Wetboek) drawing on Dutch civil-law substantive heritage via Dutch colonial inheritance (1667-1975). Suriname is structurally distinctive within South America as the only Dutch-civil-law-tradition jurisdiction in the corpus. Parental authority (ouderlijk gezag) and child custody are governed by Civil Code Book 1 arts. 245-298 and Family Code 1973. The Court of Justice (Hof van Justitie) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Cantonal Courts (Kantongerechten). Psychology profession is regulated through the Ministry of Health and the Surinamese Psychology Association. Suriname is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Suriname is non-Hague Convention.",
@@ -42,32 +44,32 @@
     {
       "year": 1667,
       "title": "Dutch colonial administration + Treaty-of-Breda framework",
-      "description": "Treaty of Breda 31 July 1667 substantively transferring Suriname from English to Dutch control — substantively distinctive globally Dutch-English-colonial-exchange (England received New Amsterdam later New York). Foundational Dutch-colonial-administration framework persisting through 1975 independence."
+      "description": "Treaty of Breda 31 July 1667 substantively transferring Suriname from English to Dutch control. Foundational Dutch-colonial-administration framework persisting through 1975 independence."
     },
     {
       "year": 1863,
       "title": "Abolition of slavery in Suriname + post-slavery-engagé-labour framework",
-      "description": "Abolition of slavery in Suriname 1 July 1863 — substantially affecting demographic framework. Subsequent engagé (indentured-labour) migrations from India (Hindustanis), Java (Javanese), and China substantively shaping multi-ethnic population. Foundational demographic framework affecting subsequent family-law-cross-cutting-areas."
+      "description": "Abolition of slavery in Suriname 1 July 1863 — substantially affecting demographic framework. Subsequent engagé (indentured-labour) migrations from India (Hindustanis), Java (Javanese), and China substantively shaping multi-ethnic population."
     },
     {
       "year": 1859,
       "title": "Civil Code adoption (Dutch-derivative)",
-      "description": "Federal Civil Code adopted 1859 drawing on Dutch civil-law substantive heritage. Book 1 governs persons and family-law including ouderlijk gezag and child custody (arts. 245-298). Foundational substantive-civil-law framework for contemporary family-law-jurisprudence."
+      "description": "Federal Civil Code adopted 1859 drawing on Dutch civil-law substantive heritage. Book 1 governs persons and family-law including ouderlijk gezag and child custody (arts. 245-298)."
     },
     {
       "year": 1954,
       "title": "Charter for the Kingdom of the Netherlands 1954 + constituent-country framework",
-      "description": "Charter for the Kingdom of the Netherlands 15 December 1954 — establishing Suriname as constituent country alongside Netherlands and Netherlands Antilles. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Charter for the Kingdom of the Netherlands 15 December 1954 — establishing Suriname as constituent country alongside Netherlands and Netherlands Antilles."
     },
     {
       "year": 1975,
       "title": "Suriname independence + Henck Arron founding-prime-minister",
-      "description": "Suriname independence 25 November 1975 from the Netherlands — Henck Arron first prime minister. Substantively distinctive Dutch-Caribbean-South-American independence framework. Foundational pre-1980-Bouterse-coup framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Suriname independence 25 November 1975 from the Netherlands — Henck Arron first prime minister."
     },
     {
       "year": 1980,
       "title": "Sergeants' Coup + Bouterse + December-Murders framework",
-      "description": "Sergeants' Coup 25 February 1980 led by Sergeant Major Désiré Bouterse — substantively distinctive Dutch-Caribbean-South-American coup framework. December-Murders 8 December 1982 (15 critics of regime killed) substantively significant human-rights-violation framework. Foundational pre-democratic-restoration framework."
+      "description": "Sergeants' Coup 25 February 1980 led by Sergeant Major Désiré Bouterse. December-Murders 8 December 1982 (15 critics of regime killed) substantively significant human-rights-violation framework. Foundational pre-democratic-restoration framework."
     },
     {
       "year": 1987,
@@ -82,7 +84,7 @@
     {
       "year": 2010,
       "title": "Bouterse 2010 presidency + return-of-1980-coup-leader-democratically framework",
-      "description": "Désiré Bouterse elected President 12 August 2010 — substantively distinctive return-of-1980-coup-leader-via-democratic-election framework. December-Murders trial substantively significant transitional-justice framework. Subsequent 2019 Bouterse conviction substantively significant transitional-justice trajectory."
+      "description": "Désiré Bouterse elected President 12 August 2010. December-Murders trial substantively significant transitional-justice framework. Subsequent 2019 Bouterse conviction substantively significant transitional-justice trajectory."
     },
     {
       "year": 2023,

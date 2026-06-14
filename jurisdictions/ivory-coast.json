@@ -4,7 +4,9 @@
   "name": "Côte d'Ivoire (Republic of Côte d'Ivoire / République de Côte d'Ivoire)",
   "jurisdiction_code": "CI",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Côte d'Ivoire is a West African civil-law republic whose family-law framework operates under the Family Code (Civil Code Book I, as substantially amended by Law 64-375 of 1964 and Law 83-799 of 1983, with major reform via Law 2019-573 of 2019) governing marriage, parental authority and child custody. Parental authority and child custody are governed by Civil Code arts. 17-29 (post-2019 reform). The Supreme Court (Cour suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance), with specialised Family-Tribunal procedure. Psychology profession is regulated through the Ministry of Health framework. Côte d'Ivoire is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Côte d'Ivoire is non-Hague Convention.",
@@ -48,17 +50,17 @@
     {
       "year": 1960,
       "title": "Côte d'Ivoire independence + Houphouët-Boigny founding-presidency",
-      "description": "Côte d'Ivoire independence 7 August 1960 from France — establishing presidential republic framework. Félix Houphouët-Boigny first president 1960-1993 substantively distinctive African extended-presidency 33-year framework. Foundational pre-1990s-multipartyism framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Côte d'Ivoire independence 7 August 1960 from France — establishing presidential republic framework."
     },
     {
       "year": 1964,
       "title": "Civil Code Book I (Law 64-375)",
-      "description": "Federal Civil Code Book I enacted 7 October 1964 post-independence drawing on French civil-law substantive heritage. Foundational substantive-civil-law framework for contemporary family-law-jurisprudence persisting through 1983 and 2019 reform-trajectory."
+      "description": "Federal Civil Code Book I enacted 7 October 1964 post-independence drawing on French civil-law substantive heritage."
     },
     {
       "year": 1983,
       "title": "Civil Code 1983 reform (Law 83-799)",
-      "description": "Substantial reform of family-law provisions Law 83-799 of 2 August 1983 — substantive family-law-modernisation framework. Foundational pre-2019-reform framework affecting subsequent democratic-trajectory."
+      "description": "Substantial reform of family-law provisions Law 83-799 of 2 August 1983 — substantive family-law-modernisation framework."
     },
     {
       "year": 1991,
@@ -68,7 +70,7 @@
     {
       "year": 1993,
       "title": "Houphouët-Boigny death + Bédié succession + Ivorian-democratic-trajectory framework",
-      "description": "Félix Houphouët-Boigny died 7 December 1993 — Henri Konan Bédié assumed presidency. Substantively distinctive African founding-presidency-succession framework. Subsequent Ivoirité ideology framework substantially affecting political-institutional-trajectory and ethnic-cohesion framework."
+      "description": "Félix Houphouët-Boigny died 7 December 1993 — Henri Konan Bédié assumed presidency. Subsequent Ivoirité ideology framework substantially affecting political-institutional-trajectory and ethnic-cohesion framework."
     },
     {
       "year": 2002,
@@ -78,7 +80,7 @@
     {
       "year": 2010,
       "title": "Second Ivorian Civil War 2010-2011 + Gbagbo-Ouattara succession + ICC framework",
-      "description": "Second Ivorian Civil War 28 November 2010 – 11 April 2011 between Laurent Gbagbo and Alassane Ouattara following disputed 2010 election. Laurent Gbagbo arrested and transferred to ICC The Hague. Substantive 21st-century African post-electoral conflict framework affecting subsequent democratic-trajectory."
+      "description": "Second Ivorian Civil War 28 November 2010 – 11 April 2011 between Laurent Gbagbo and Alassane Ouattara following disputed 2010 election. Laurent Gbagbo arrested and transferred to ICC The Hague."
     },
     {
       "year": 2016,

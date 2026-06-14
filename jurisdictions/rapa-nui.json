@@ -4,7 +4,10 @@
   "name": "Rapa Nui / Easter Island (Isla de Pascua / Te Pito o te Henua)",
   "jurisdiction_code": "CL-RAP",
   "legal_system": "mixed",
-  "language": ["es", "rap"],
+  "language": [
+    "es",
+    "rap"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Rapa Nui / Easter Island (Isla de Pascua in Spanish / Rapa Nui in the indigenous Rapa Nui language / Te Pito o te Henua 'Navel of the World' traditional Rapa Nui name) is an eastern-Polynesian mixed-system Chilean special territory located ~3,700 km west of mainland Chile and ~2,075 km southeast of Pitcairn Island — structurally distinctive globally as the most remote permanently-inhabited island on Earth, as the only eastern-Polynesian indigenous-titular jurisdiction within a non-Polynesian state framework (Chile, since Chilean annexation 1888), and as the central jurisdiction of the indigenous-titular Rapa Nui Statute of 2018 (Ley 21.070) which established Rapa Nui's first formal indigenous-special-territory framework including a unique permanent-resident-only land-ownership regime, a population-control framework limiting inbound migration, and a Rapa Nui Council of Elders (Honui) consultation framework. Rapa Nui is administered by Chile as part of Valparaíso Region's Isla de Pascua Province (formally a Provincia, but with sui generis administrative framework under the 2018 Statute). Rapa Nui is also a UNESCO World Heritage Site (inscribed 1995) recognising its globally-significant moai monumental statuary heritage. Family-law framework operates under a dual Chilean Civil Code (Código Civil 1855) + Rapa Nui customary-law-recognition framework via Indigenous Law 19.253 of 1993 (Ley Indígena) which recognises Rapa Nui as one of nine officially-recognised indigenous peoples in Chile. Parental authority and child custody operate under Chilean Civil Code Articles 222-244 (patria potestad / cuidado personal) with Indigenous Law 19.253 cultural-recognition framework. Regional courts of Valparaíso Region have jurisdiction over Rapa Nui matters; final appellate jurisdiction lies with the Supreme Court of Chile. Rapa Nui is silent on 'parental alienation' as a statutory label. Chile is a Hague Convention 1980 party (acceded effective 1 May 1994) — Rapa Nui Hague applicability via Chilean territorial extension.",
@@ -69,27 +72,27 @@
     {
       "year": 1722,
       "title": "First European contact + Jacob-Roggeveen-Easter-Day framework",
-      "description": "First European contact 5 April 1722 by Dutch explorer Jacob Roggeveen on Easter Day — substantively distinctive globally Easter-Day-naming-+-only-eastern-Polynesian-island-with-Dutch-first-contact framework. Foundational pre-1888-Chilean-annexation framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "First European contact 5 April 1722 by Dutch explorer Jacob Roggeveen on Easter Day."
     },
     {
       "year": 1862,
       "title": "Peruvian slave raids + demographic-collapse framework",
-      "description": "Peruvian slave raids 1862-1863 + smallpox/tuberculosis epidemics substantively reshaping demographic framework — substantively distinctive globally demographic-collapse-from-3000-to-111-in-15-years framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Rapa Nui-indigenous-population framework."
+      "description": "Peruvian slave raids 1862-1863, smallpox/tuberculosis epidemics substantively reshaping demographic framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Rapa Nui-indigenous-population framework."
     },
     {
       "year": 1888,
       "title": "Chilean annexation + Treaty-of-Cession-+-Acuerdo-de-Voluntades framework",
-      "description": "Treaty of Cession (Acuerdo de Voluntades) 9 September 1888 transferring sovereignty over Rapa Nui to Chile — substantively distinctive globally Chilean-position-full-cession-vs-Rapa-Nui-Council-of-Elders-position-limited-cession-preserving-customary-land-rights framework. Foundational substantive sovereignty-interpretation-dispute framework persisting through subsequent reform-trajectory."
+      "description": "Treaty of Cession (Acuerdo de Voluntades) 9 September 1888 transferring sovereignty over Rapa Nui to Chile."
     },
     {
       "year": 1855,
       "title": "Chilean Civil Code + civil-law-substantive-heritage framework",
-      "description": "Chilean Civil Code (Código Civil) enacted 1855 + applicable to Rapa Nui from 1888 annexation — substantively significant Chilean-civil-law-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 222-244 governing patria potestad and cuidado personal."
+      "description": "Chilean Civil Code (Código Civil) enacted 1855, applicable to Rapa Nui from 1888 annexation — substantively significant Chilean framework. 222-244 governing patria potestad and cuidado personal."
     },
     {
       "year": 1966,
       "title": "Easter Island Act + Ley-Pascua + Chilean-civil-status framework",
-      "description": "Chilean Easter Island Act (Ley 16.441 Ley Pascua) 28 January 1966 — substantively distinctive Polynesian ending-pre-1966-colonial-company-administration framework. Substantive integration into Valparaíso Province with full Chilean civil-status framework. Foundational pre-1993-Indigenous-Law framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Chilean Easter Island Act (Ley 16.441 Ley Pascua) 28 January 1966. Substantive integration into Valparaíso Province with full Chilean civil-status framework."
     },
     {
       "year": 1990,
@@ -99,22 +102,22 @@
     {
       "year": 1993,
       "title": "Ley Indígena + Chilean-Indigenous-Law + nine-recognised-indigenous-peoples framework",
-      "description": "Chilean Law 19.253 of 28 September 1993 (Ley Indígena) recognising Rapa Nui as one of nine officially-recognised indigenous peoples in Chile — substantively significant Polynesian Rapa-Nui-customary-law-recognition framework. Foundational substantive indigenous-law framework affecting subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Chilean Law 19.253 of 28 September 1993 (Ley Indígena) recognising Rapa Nui as one of nine officially-recognised indigenous peoples in Chile — substantively significant Polynesian Rapa framework."
     },
     {
       "year": 1994,
       "title": "Chilean Hague Convention 1980 accession + Rapa-Nui-applicability framework",
-      "description": "Chile acceded to Hague Convention 1980 effective 1 May 1994 with applicability to Rapa Nui via Chilean territorial extension — substantively significant Polynesian Hague-applicability framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+      "description": "Chile acceded to Hague Convention 1980 effective 1 May 1994 with applicability to Rapa Nui via Chilean territorial extension — substantively significant Polynesian Hague-applicability framework."
     },
     {
       "year": 1995,
       "title": "UNESCO World Heritage Site inscription + Rapa-Nui-National-Park-+-moai framework",
-      "description": "UNESCO World Heritage Site inscription of Rapa Nui National Park 1995 — substantively distinctive globally moai-monumental-statuary-heritage framework. Substantive Polynesian heritage-preservation framework affecting subsequent constitutional-democratic-trajectory and population-control framework."
+      "description": "UNESCO World Heritage Site inscription of Rapa Nui National Park 1995."
     },
     {
       "year": 2018,
       "title": "Rapa Nui Statute + Ley-21.070-+-permanent-resident-only-land-+-Honui-Council framework",
-      "description": "Chilean Law 21.070 (Estatuto Especial para Rapa Nui) 25 March 2018 establishing Rapa Nui's first formal indigenous-special-territory framework — substantively distinctive globally only-modern-Chilean-indigenous-special-territory-framework-with-permanent-resident-only-land-ownership-regime-+-population-control-framework framework. Honui Council of Elders consultation framework. Foundational substantive Rapa Nui-Statute framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Chilean Law 21.070 (Estatuto Especial para Rapa Nui) 25 March 2018 establishing Rapa Nui's first formal indigenous-special-territory framework. Honui Council of Elders consultation framework."
     },
     {
       "year": 2023,

@@ -4,7 +4,9 @@
   "name": "Colombia (República de Colombia)",
   "jurisdiction_code": "CO",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Colombia is a civil-law jurisdiction whose family courts (Juzgados de Familia + Comisarías de Familia) operate under the Código Civil arts. 250-323 (patria potestad / responsabilidad parental), the Código de la Infancia y la Adolescencia (CIA, Ley 1098 of 2006), and the Constitución Política 1991. The Constitution art. 44 establishes constitutionally-grounded child-rights framework declaring children's rights as fundamental and prevailing. The statutory framework is silent on the 'alienación parental' label as a diagnostic category but multiple legislative proposals codifying alienación parental have been debated. The Corte Constitucional has issued substantive jurisprudence on interés superior del niño (constitutional rank under bloque de constitucionalidad incorporating UN CRC). The Instituto Colombiano de Bienestar Familiar (ICBF) institutionally informs child-protection framework. Multiple Corte Constitucional sentences (T-557/2011, T-955/2013) address contact-refusal cases applying constitutional child-rights framework.",
@@ -19,7 +21,7 @@
       "title": "Constitutional child-rights framework",
       "year": 1991,
       "url": "https://www.constitucioncolombia.com/titulo-2/capitulo-2/articulo-44",
-      "relevance": "Constitution art. 44 declaring children's rights as fundamental and prevailing over others' rights — substantively distinctive globally for explicit constitutional priority declaration. Establishes interés superior del niño as constitutionally-grounded paramount standard."
+      "relevance": "Constitution art. 44 declaring children's rights as fundamental and prevailing over others' rights. Establishes interés superior del niño as constitutionally-grounded paramount standard."
     },
     {
       "citation": "Código de la Infancia y la Adolescencia (CIA, Ley 1098 of 2006)",
@@ -47,7 +49,7 @@
       "title": "International child-rights ratification + constitutional incorporation",
       "year": 1991,
       "url": "https://www.icbf.gov.co/",
-      "relevance": "Colombia ratified UN CRC 28 January 1991 (Ley 12 of 1991). Constitution 1991 art. 93 bloque de constitucionalidad framework operationally incorporating UN CRC at constitutional rank. Substantively distinctive globally for explicit constitutional-rank treaty incorporation."
+      "relevance": "Colombia ratified UN CRC 28 January 1991 (Ley 12 of 1991). Constitution 1991 art. 93 bloque de constitucionalidad framework operationally incorporating UN CRC at constitutional rank."
     }
   ],
   "apex_courts": [
@@ -130,12 +132,11 @@
     }
   ],
   "structural_findings": [
-    "Colombia operates a structurally distinctive civil-law family-law framework with constitutional supremacy — Constitución Política 1991 art. 44 + CIA Ley 1098/2006 + bloque de constitucionalidad UN CRC incorporation — substantively distinctive globally for explicit constitutional priority declaration of children's rights.",
-    "Constitution art. 44 declaration of children's rights as 'prevailing over others' rights' is substantively distinctive globally — operationally establishing the most prescriptive constitutional child-rights framework architecturally requiring courts to prioritise children's rights in conflict situations.",
+    "Colombia operates a structurally distinctive civil-law family-law framework with constitutional supremacy — Constitución Política 1991 art. 44, CIA Ley 1098/2006, bloque de constitucionalidad UN CRC incorporation.",
+    "Constitution art.",
     "Statutory PA-recognition has been debated via multiple legislative proposals 2015-2021 but not enacted — distinctive Colombian pattern of consideration-without-enactment contrasting with Brazil Lei 12.318/2010 federal-level codification."
   ],
   "editorial_notes": [
-    "Colombia's Constitution art. 44 'prevailing rights' framework is substantively distinctive globally — operationally distinguishing Colombian constitutional architecture from other Latin American constitutional child-rights frameworks (Argentina CN art. 75.22 treaty-rank, Brazil CF/1988 art. 227 absolute-priority, Mexico CPEUM art. 4).",
-    "The Comisarías de Familia administrative-body framework operates as substantively distinctive Latin American family-violence-protection institutional framework — operationally significant for DV-PA-allegation intersection case adjudication architecture."
+    "Colombia's Constitution art. 75.22 treaty-rank, Brazil CF/1988 art. 227 absolute-priority, Mexico CPEUM art. 4)."
   ]
 }

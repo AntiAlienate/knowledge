@@ -4,7 +4,9 @@
   "name": "Saint-Barthélemy (Saint Barts)",
   "jurisdiction_code": "BL",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saint-Barthélemy is a Caribbean civil-law French overseas collectivity (Collectivité d'outre-mer / COM) — structurally distinctive within French overseas territory cluster as one of two COMs (with Saint-Martin) achieving COM autonomy from Guadeloupe DROM on 22 February 2007 via 2003 referendum. Saint-Barthélemy is also structurally distinctive globally for its 1784-1878 Swedish colonial period (Sweden's only Caribbean colony ever), accounting for its capital Gustavia being named after Swedish King Gustav III. Family-law framework operates under the French Civil Code with COM-specific adaptations under the Organic Law 2007-223 (Statut). Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387. The Court of Appeal of Basse-Terre (Guadeloupe) has jurisdiction over Saint-Barthélemy matters; final appellate jurisdiction lies with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal de Première Instance de Saint-Barthélemy. Psychology profession is regulated through the French Republic professional framework as applicable in Saint-Barthélemy. Saint-Barthélemy is silent on 'parental alienation' as a statutory label; courts operate substantively under the French interest-of-the-child standard. Saint-Barthélemy is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -55,32 +57,32 @@
     {
       "year": 1648,
       "title": "First-French-colonisation + Knights-of-Malta-tenure framework",
-      "description": "First French colonisation of Saint-Barthélemy 1648 (later under Knights of Malta tenure 1651-1664) — substantively distinctive Caribbean French-Knights-of-Malta-tenure framework. Foundational pre-1784-Swedish-cession framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "First French colonisation of Saint-Barthélemy 1648 (later under Knights of Malta tenure 1651-1664)."
     },
     {
       "year": 1784,
       "title": "Swedish colonial period begins + Gothenburg-trading-privileges-exchange + Sweden's-only-Caribbean-colony framework",
-      "description": "France ceded Saint-Barthélemy to Sweden 1 July 1784 in exchange for trading privileges in Gothenburg — substantively distinctive globally Sweden's-only-Caribbean-colony-ever framework. Capital renamed Gustavia after King Gustav III. Foundational substantive 94-year Swedish-colonial framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "France ceded Saint-Barthélemy to Sweden 1 July 1784 in exchange for trading privileges in Gothenburg. Capital renamed Gustavia after King Gustav III."
     },
     {
       "year": 1804,
       "title": "Code civil des Français + Napoleon-Code-substantive-heritage framework",
-      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable from 1878 return to France in Saint-Barthélemy — substantively significant Caribbean French-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 371-387 governing autorité parentale and child custody."
+      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable from 1878 return to France in Saint-Barthélemy — substantively significant Caribbean French framework. 371-387 governing autorité parentale and child custody."
     },
     {
       "year": 1847,
       "title": "Swedish abolition of slavery + early-Caribbean-abolition framework",
-      "description": "Swedish abolition of slavery in Saint-Barthélemy 9 October 1847 — substantively distinctive Caribbean only-Swedish-colonial-abolition framework predating French abolition 1848 by 5 months. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+      "description": "Swedish abolition of slavery in Saint-Barthélemy 9 October 1847. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1878,
       "title": "Return-to-France + inhabitants-referendum-+-end-of-Swedish-period framework",
-      "description": "Sweden ceded Saint-Barthélemy back to France 10 August 1878 following inhabitants referendum — substantively distinctive globally only-Caribbean-colony-returned-by-inhabitants-referendum framework. Substantive constitutional-democratic-trajectory framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Sweden ceded Saint-Barthélemy back to France 10 August 1878 following inhabitants referendum."
     },
     {
       "year": 1946,
       "title": "Guadeloupe-DROM-integration + Saint-Barthélemy-as-Guadeloupe-arrondissement framework",
-      "description": "Guadeloupe DROM established 19 March 1946 — Saint-Barthélemy integrated as arrondissement of Guadeloupe DROM under loi de départementalisation. Foundational pre-2007-COM-separation framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Guadeloupe DROM established 19 March 1946 — Saint-Barthélemy integrated as arrondissement of Guadeloupe DROM under loi de départementalisation."
     },
     {
       "year": 1983,
@@ -90,12 +92,12 @@
     {
       "year": 2003,
       "title": "COM autonomy referendum + 95.51-percent-in-favour framework",
-      "description": "Saint-Barthélemy voted 95.51% in favour of COM autonomy from Guadeloupe DROM 7 December 2003 — substantively distinctive Caribbean French-DROM-to-COM-separation framework. Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Saint-Barthélemy voted 95.51% in favour of COM autonomy from Guadeloupe DROM 7 December 2003."
     },
     {
       "year": 2007,
       "title": "Organic Law 2007-223 + COM-autonomy-effective + fiscal-autonomy framework",
-      "description": "Federal Organic Law 2007-223 of 21 February 2007 establishing Saint-Barthélemy's COM autonomy effective 22 February 2007 — substantively distinctive Caribbean COM-with-fiscal-autonomy framework. Subsequent EU OCT status (Overseas Country and Territory) framework 2012 changing from outermost-region status. Substantive constitutional-administrative framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Organic Law 2007-223 of 21 February 2007 establishing Saint-Barthélemy's COM autonomy effective 22 February 2007. Subsequent EU OCT status (Overseas Country and Territory) framework 2012 changing from outermost-region status."
     },
     {
       "year": 2023,

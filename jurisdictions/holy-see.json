@@ -4,7 +4,10 @@
   "name": "Holy See / Vatican City State (Sancta Sedes / Stato della Città del Vaticano)",
   "jurisdiction_code": "VA",
   "legal_system": "religious-law",
-  "language": ["la", "it"],
+  "language": [
+    "la",
+    "it"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Holy See / Vatican City State is a Southern European religious-law absolute ecclesiastical sovereign whose legal framework operates under Canon Law (Codex Iuris Canonici 1983) as the primary substantive law, supplemented by Italian civil-law residual application (per Lateran Treaty 1929 art. 3) for matters not addressed by Canon Law within Vatican City State. Family-law matters within the Vatican City State are exceptionally rare given the celibate clerical population; Canon Law governs the spiritual jurisdiction of marriage validity, annulment and parental responsibility for Roman Catholic faithful worldwide via ecclesiastical tribunals. The Apostolic Tribunal of the Roman Rota (Tribunal Sacrae Romanae Rotae) is the apex appellate court of the Holy See's spiritual jurisdiction. The Court of Cassation (Corte di Cassazione dello Stato della Città del Vaticano) is the apex court for civil and criminal matters within Vatican City State. The Holy See is structurally distinctive globally — combining sovereign-state status with worldwide spiritual jurisdiction over Catholic faithful through canon-law ecclesiastical tribunals. The Holy See is not a Hague Convention 1980 party.",
@@ -68,32 +71,32 @@
     {
       "year": 1917,
       "title": "Codex Iuris Canonici 1917 + first-comprehensive-codification framework",
-      "description": "Codex Iuris Canonici 1917 promulgated by Benedict XV 27 May 1917 (effective 19 May 1918) — first comprehensive codification of canon law. Substantively distinctive globally first-comprehensive-canon-law-codification framework. Foundational 20th-century canon-law framework for subsequent 1983 Code reform."
+      "description": "Codex Iuris Canonici 1917 promulgated by Benedict XV 27 May 1917 (effective 19 May 1918) — first comprehensive codification of canon law. Foundational 20th-century canon-law framework for subsequent 1983 Code reform."
     },
     {
       "year": 1929,
       "title": "Lateran Treaty + Vatican City State establishment",
-      "description": "Lateran Treaty signed 11 February 1929 between Holy See and Kingdom of Italy — substantively establishing Vatican City State as sovereign-state with worldwide spiritual jurisdiction over Catholic faithful. Substantively distinctive globally: only state with absolute-elective-theocracy + worldwide-spiritual-jurisdiction framework. Foundational sovereign-state framework persisting through contemporary period."
+      "description": "Lateran Treaty signed 11 February 1929 between Holy See and Kingdom of Italy — substantively establishing Vatican City State as sovereign-state with worldwide spiritual jurisdiction over Catholic faithful. Foundational sovereign-state framework persisting through contemporary period."
     },
     {
       "year": 1965,
       "title": "Vatican II + Second Vatican Council + ecclesiastical-reform framework",
-      "description": "Second Vatican Council 1962-1965 substantively reforming ecclesiastical framework — Sacrosanctum Concilium, Lumen Gentium, Gaudium et Spes substantively reshaping Roman Catholic ecclesiastical-pastoral-framework. Substantive theological-reform framework affecting subsequent canon-law-jurisprudence including marriage-validity framework."
+      "description": "Second Vatican Council 1962-1965 substantively reforming ecclesiastical framework — Sacrosanctum Concilium, Lumen Gentium, Gaudium et Spes substantively reshaping Roman Catholic ecclesiastical-pastoral-framework."
     },
     {
       "year": 1983,
       "title": "Code of Canon Law (Codex Iuris Canonici) 1983 + comprehensive-revision framework",
-      "description": "Code of Canon Law promulgated by John Paul II 25 January 1983 (effective 27 November 1983) replacing 1917 Code. Cann. 1055-1165 govern marriage validity and impediments; cann. 1671-1707 govern marriage processes. Substantively significant revision incorporating Vatican-II-theological framework. Foundational substantive-canon-law framework for contemporary marriage-validity-jurisprudence."
+      "description": "Code of Canon Law promulgated by John Paul II 25 January 1983 (effective 27 November 1983) replacing 1917 Code. Cann. 1055-1165 govern marriage validity and impediments; cann. 1671-1707 govern marriage processes. Substantively significant revision incorporating Vatican-II-theological framework."
     },
     {
       "year": 1990,
       "title": "Holy See ratifies UN Convention on the Rights of the Child + sovereign-state-treaty-framework",
-      "description": "Holy See ratified the UNCRC 20 April 1990 — substantively distinctive sovereign-state-treaty-making framework. Substantive integration of UNCRC framework into canon-law-jurisprudence on parental responsibility and child welfare in Catholic-ecclesiastical context."
+      "description": "Holy See ratified the UNCRC 20 April 1990. Substantive integration of UNCRC framework into canon-law-jurisprudence on parental responsibility and child welfare in Catholic-ecclesiastical context."
     },
     {
       "year": 2002,
       "title": "Boston clergy sex abuse crisis 2002 + child-protection-reform trajectory",
-      "description": "Boston clergy sex abuse crisis 2002 substantively documented by Boston Globe Spotlight team. Subsequent worldwide Catholic clergy sex abuse documentation through 2000s-2010s. Substantive child-protection-reform trajectory affecting canon-law-framework including 2001 motu proprio Sacramentorum sanctitatis tutela + Pope Francis reform-trajectory."
+      "description": "Boston clergy sex abuse crisis 2002 substantively documented by Boston Globe Spotlight team. Subsequent worldwide Catholic clergy sex abuse documentation through 2000s-2010s."
     },
     {
       "year": 2015,
@@ -108,7 +111,7 @@
     {
       "year": 2020,
       "title": "Fiducia Supplicans 2023 + same-sex-blessing framework + canon-law-pastoral framework",
-      "description": "Fiducia Supplicans declaration 18 December 2023 from Dicastery for the Doctrine of the Faith allowing pastoral blessings of same-sex couples in non-liturgical context — substantively distinctive Catholic-ecclesiastical-pastoral framework shift. Substantive ecclesiastical-pastoral-framework evolution affecting subsequent canon-law-jurisprudence."
+      "description": "Fiducia Supplicans declaration 18 December 2023 from Dicastery for the Doctrine of the Faith allowing pastoral blessings of same-sex couples in non-liturgical context. Substantive ecclesiastical-pastoral-framework evolution affecting subsequent canon-law-jurisprudence."
     },
     {
       "year": 2023,

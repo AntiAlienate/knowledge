@@ -4,7 +4,9 @@
   "name": "Romania (România)",
   "jurisdiction_code": "RO",
   "legal_system": "civil-law",
-  "language": ["ro"],
+  "language": [
+    "ro"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Romania is a civil-law unitary republic whose family-law framework operates under the New Civil Code (Codul Civil, Law 287/2009) Book Two (Family Law) in force 1 October 2011. Parental authority (autoritate părintească) is governed by Codul Civil arts. 483-512; joint exercise of parental authority operates as the statutory default during marriage and after divorce. The Înalta Curte de Casație și Justiție (ICCJ, Bucharest) is the apex civil court of cassation; the Curtea Constituțională (Constitutional Court) operates separate constitutional-review jurisdiction. Family-law matters proceed through Judecătoria (District Courts), Tribunal (County Courts), and Curtea de Apel (Court of Appeal) before reaching ICCJ. Psychology profession is regulated under Law 213/2004 establishing the Colegiul Psihologilor din România (CPR) — statutory professional-order regime. Romania is silent on 'parental alienation' as a statutory label; courts operate substantively under the interesul superior al copilului (best-interests-of-the-child) standard. ECHR Strasbourg jurisprudence has produced a substantial body of Romanian contact-enforcement cases engaging the Article 8 positive-obligations framework (e.g. Lafargue v. Romania, Iosub Caras v. Romania).",
@@ -107,7 +109,7 @@
     {
       "year": 2023,
       "title": "Special Resolution mechanism + Iohannis-presidency-final-year + Romanian-judicial-reform framework",
-      "description": "Romania ECHR special-resolution framework Iosub Caras + Lafargue continuing implementation 2023 + Klaus Iohannis presidency final year framework (2014-2024) + Romanian SRR (Special Rapporteur for Romania) European Commission Mechanism for Cooperation and Verification (MCV) final phase 2023 closing 17 years after 2007 establishment + structurally distinctive globally only modern EU member-state subject to formal post-accession MCV framework + Romanian Justice-Reform Laws 303/2022 + 304/2022 + 305/2022 + foundational substantive judicial-reform framework affecting subsequent Înalta Curte de Casație și Justiție jurisprudence + interesul superior al copilului substantive register evolution + Hague Convention 1980 cross-border implementation framework."
+      "description": ""
     },
     {
       "year": 2022,

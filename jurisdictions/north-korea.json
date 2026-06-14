@@ -4,7 +4,9 @@
   "name": "North Korea (Democratic People's Republic of Korea / 조선민주주의인민공화국)",
   "jurisdiction_code": "KP",
   "legal_system": "civil-law",
-  "language": ["ko"],
+  "language": [
+    "ko"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "North Korea is an East Asian socialist-civil-law unitary state whose family-law framework operates under the Family Law of the DPRK 1990 (adopted by the Standing Committee of the Supreme People's Assembly), drawing on socialist-civil-law tradition. Parental responsibility and child custody are governed by Family Law arts. 27-44. The Central Court (Chungang Chaepanso) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the People's Courts. Psychology profession regulation operates through the Ministry of Public Health framework; no published independent psychology professional regulation framework. North Korea is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. North Korea is non-Hague Convention. North Korea is structurally distinctive globally — only socialist-civil-law state in the East Asian cluster, with extremely limited family-law jurisprudence publicly available.",
@@ -96,7 +98,7 @@
     {
       "year": 2014,
       "title": "UN Commission of Inquiry on Human Rights in DPRK report + international family-policy engagement",
-      "description": "UN Commission of Inquiry on Human Rights in DPRK A/HRC/25/63 report 7 February 2014 — substantively distinctive globally first comprehensive UN-COI investigation into DPRK human-rights framework. Substantive UN COI 2014 framework documenting systematic family-separation + abductions + cross-border-restrictions framework relevant to DPRK family-law engagement with international community + foundation for subsequent UN-CRC fifth (2016) and sixth (2024) report periodic-reporting register + structurally distinctive globally only modern UN-COI investigation specifically documenting family-policy framework in single state."
+      "description": "UN Commission of Inquiry on Human Rights in DPRK A/HRC/25/63 report 7 February 2014. Substantive UN COI 2014 framework documenting systematic family-separation, abductions, cross-border-restrictions framework relevant to DPRK family-law engagement with international community, foundation for subsequent UN-CRC fifth (2016) and sixth (2024) report periodic-reporting register, structurally distinctive globally only modern UN-COI investigation specifically documenting family-policy framework in single state."
     },
     {
       "year": 2019,

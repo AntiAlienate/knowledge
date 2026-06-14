@@ -4,7 +4,9 @@
   "name": "Ethiopia (Federal Democratic Republic of Ethiopia / የኢትዮጵያ ፌዴራላዊ ዲሞክራሲያዊ ሪፐብሊክ)",
   "jurisdiction_code": "ET",
   "legal_system": "civil-law",
-  "language": ["am"],
+  "language": [
+    "am"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Ethiopia is an East African civil-law federal republic whose family-law framework operates under the Revised Family Code 2000 (federal) supplemented by state-level Family Codes in nine ethnic-federal states plus two city administrations. Parental rights and child custody are governed by Revised Family Code arts. 215-272. The Federal Supreme Court (የፌዴራል ጠቅላይ ፍርድ ቤት) is the apex court for civil and criminal matters within the federal court system; the Federal Constitutional Inquiry Council and House of Federation operate constitutional review. Family-law matters are heard at first instance in Federal/State First Instance Courts. Religious-community personal-law jurisdiction operates in parallel: Sharia courts have constitutional recognition (FDRE Constitution art. 78(5)) for Muslim personal-status matters where parties consent. Psychology profession is regulated through the Ministry of Health framework with the Ethiopian Psychological Association operating professional standards. Ethiopia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Ethiopia is non-Hague Convention.",
@@ -72,17 +74,17 @@
     {
       "year": 1960,
       "title": "Civil Code of Ethiopia 1960 + René David Swiss-French-codification framework",
-      "description": "Federal Civil Code enacted 1960 drawing on French civil-law and Swiss codification traditions — drafted by Professor René David (French jurist). Substantively distinctive globally non-colonial civil-law-transplant pattern within African corpus. Including Book II family-law provisions persisting through 2000 reform."
+      "description": "Federal Civil Code enacted 1960 drawing on French civil-law and Swiss codification traditions — drafted by Professor René David (French jurist). Including Book II family-law provisions persisting through 2000 reform."
     },
     {
       "year": 1974,
       "title": "Derg revolution + Haile Selassie deposition + Marxist-Leninist-era",
-      "description": "Derg revolution 12 September 1974 deposing Emperor Haile Selassie ending 1,500-year Solomonic dynasty (most-distinctive African continuous-monarchical lineage globally). Subsequent Marxist-Leninist People's Democratic Republic of Ethiopia 1974-1991 substantively disrupting political-institutional framework. Foundational political-institutional-disruption framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Derg revolution 12 September 1974 deposing Emperor Haile Selassie ending 1,500-year Solomonic dynasty (most-distinctive African continuous-monarchical lineage globally). Subsequent Marxist-Leninist People's Democratic Republic of Ethiopia 1974-1991 substantively disrupting political-institutional framework."
     },
     {
       "year": 1991,
       "title": "EPRDF victory + Derg overthrow + ethnic-federal-framework establishment",
-      "description": "Ethiopian People's Revolutionary Democratic Front (EPRDF) coalition overthrew Derg 28 May 1991. Substantively distinctive ethnic-federal framework framework establishment. Transitional Government 1991-1995 substantively reshaping political-institutional framework affecting subsequent family-law-modernisation trajectory."
+      "description": "Ethiopian People's Revolutionary Democratic Front (EPRDF) coalition overthrew Derg 28 May 1991."
     },
     {
       "year": 1991,
@@ -92,22 +94,22 @@
     {
       "year": 1993,
       "title": "Eritrea independence + Eritrea-Ethiopia border conflict context",
-      "description": "Eritrea independence 24 May 1993 from Ethiopia following 1991 EPRDF victory. Subsequent Eritrea-Ethiopia border war 1998-2000 substantially affecting demographic and family-law-implementation framework. Substantively distinctive Horn-of-Africa-secession framework."
+      "description": "Eritrea independence 24 May 1993 from Ethiopia following 1991 EPRDF victory. Subsequent Eritrea-Ethiopia border war 1998-2000 substantially affecting demographic and family-law-implementation framework."
     },
     {
       "year": 1995,
       "title": "FDRE Constitution + ethnic-federal framework + Sharia court constitutional recognition",
-      "description": "Federal Democratic Republic of Ethiopia Constitution adopted 8 December 1994 (effective 21 August 1995) — establishing nine ethnic-federal states framework with art. 78(5) constitutionally recognising Sharia courts for Muslim personal-status matters where parties consent. Substantively distinctive globally ethnic-federalism framework."
+      "description": "Federal Democratic Republic of Ethiopia Constitution adopted 8 December 1994 (effective 21 August 1995) — establishing nine ethnic-federal states framework with art. 78(5) constitutionally recognising Sharia courts for Muslim personal-status matters where parties consent."
     },
     {
       "year": 2000,
       "title": "Revised Family Code 2000 + gender-equal-marriage framework",
-      "description": "Federal Family Code enacted 4 July 2000 (Proclamation 213/2000) replacing 1960 Civil Code Book II family-law provisions. Arts. 215-272 govern parental rights, custody, and child welfare. Substantively distinctive codifying gender-equal marriage and parental-rights provisions framework — substantive child-protection-framework reform. Mirrored by state-level Family Codes in regional states."
+      "description": "Federal Family Code enacted 4 July 2000 (Proclamation 213/2000) replacing 1960 Civil Code Book II family-law provisions. Arts. 215-272 govern parental rights, custody, and child welfare. Mirrored by state-level Family Codes in regional states."
     },
     {
       "year": 2018,
       "title": "Abiy Ahmed PM accession + reform-era political-context framework",
-      "description": "Abiy Ahmed Ali sworn in as Prime Minister 2 April 2018 — initiating reform-era political transition including 2018 Eritrea-Ethiopia rapprochement (Nobel Peace Prize 2019), Prosperity Party formation December 2019 superseding EPRDF ethnic-federal coalition framework, and structural political-context shift affecting subsequent Revised Family Code 2000 implementation trajectory. Substantively significant Horn-of-Africa political-context framework affecting subsequent Tigray War 2020 framework."
+      "description": "Abiy Ahmed Ali sworn in as Prime Minister 2 April 2018 — initiating reform-era political transition including 2018 Eritrea-Ethiopia rapprochement (Nobel Peace Prize 2019), Prosperity Party formation December 2019 superseding EPRDF ethnic-federal coalition framework, and structural political-context shift affecting subsequent Revised Family Code 2000 implementation trajectory."
     },
     {
       "year": 2020,

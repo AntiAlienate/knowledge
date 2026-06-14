@@ -4,7 +4,9 @@
   "name": "Saudi Arabia (المملكة العربية السعودية)",
   "jurisdiction_code": "SA",
   "legal_system": "religious-law",
-  "language": ["ar"],
+  "language": [
+    "ar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saudi Arabia is a Gulf religious-law absolute monarchy whose family-law framework operates under the Personal Status Law (Nizam al-Ahwal al-Shakhsiyya) of 2022 (Royal Decree M/73 of 8 March 2022, Hijri 1443) — Saudi Arabia's first codified family-law statute, drawn primarily from Hanbali jurisprudence with provisions from other Sunni schools where reform considerations supported. Custody (hadana) is governed by arts. 125-145 of the Personal Status Law: the mother holds priority custody during early childhood per Hanbali tradition; the father retains guardianship (wilaya) over the child; transfer of custody from mother to father typically occurs at specified ages. The Supreme Court (Al-Mahkama al-Ulya) is the apex court for civil and criminal matters; the family-court framework is administered through Personal Status Courts under the General Court of Justice. Psychology profession regulation is administered by the Saudi Commission for Health Specialties (SCFHS) under the Ministry of Health. Saudi Arabia is silent on 'parental alienation' as a statutory label; the Personal Status Law operates substantively under the maslahat al-tifl (welfare-of-the-child) standard which is now expressly codified. Saudi Arabia is non-Hague Convention (not party to the 1980 Child Abduction Convention).",
@@ -82,7 +84,7 @@
     {
       "year": 2019,
       "title": "Male-guardianship reform package + women's adult-legal-personality framework",
-      "description": "Saudi Arabia male-guardianship reform package August 2019 — substantively distinctive globally Gulf-most-significant-Wahhabi-state-male-guardianship-reform framework. Substantive 2019 reform permitting women age 21+ to obtain passport + travel + register marriage and divorce + register birth of children + access many civil services without male-guardian consent framework + structurally distinctive globally largest Gulf-state male-guardianship reform framework. Foundation for subsequent 2022 Personal Status Law codification with codified mother-as-guardian provisions + 2024 Personal Status Courts welfare-of-the-child substantive register."
+      "description": "Saudi Arabia male-guardianship reform package August 2019. Substantive 2019 reform permitting women age 21+ to obtain passport, travel, register marriage and divorce, register birth of children, access many civil services without male-guardian consent framework, structurally distinctive globally largest Gulf-state male-guardianship reform framework. Foundation for subsequent 2022 Personal Status Law codification with codified mother-as-guardian provisions, 2024 Personal Status Courts welfare substantive register."
     },
     {
       "year": 2020,
@@ -97,7 +99,7 @@
     {
       "year": 2023,
       "title": "Abraham Accords aftermath + Vision 2030 mid-decade + family-law normalisation framework",
-      "description": "Continuing Vision 2030 mid-decade framework 2023 + post-Abraham Accords (Bahrain + UAE 2020) regional normalisation context affecting Saudi family-law-modernisation framework + Personal Status Law 2022 implementation year-1 framework + Personal Status Courts substantive expansion + Saudi-Iran Beijing-mediated rapprochement 10 March 2023 substantively distinctive Gulf-rapprochement framework + substantively significant institutional context affecting subsequent family-law-implementation and cross-border-jurisdiction-practice within Hanbali-jurisprudence-codified-welfare-of-the-child framework. Foundational pre-2024-implementation framework affecting subsequent reform-trajectory."
+      "description": ""
     },
     {
       "year": 2024,

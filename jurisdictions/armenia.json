@@ -4,7 +4,9 @@
   "name": "Armenia (Republic of Armenia / Հայաստանի Հանրապետություն)",
   "jurisdiction_code": "AM",
   "legal_system": "civil-law",
-  "language": ["hy"],
+  "language": [
+    "hy"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Armenia is a South Caucasus civil-law unitary republic whose family-law framework operates under the Family Code of the Republic of Armenia 2004 (effective 19 April 2005), federal civil-code framework drawing on post-Soviet civil-law tradition with European-codification-influenced reforms. Parental rights and child custody are governed by Family Code arts. 51-71. The Court of Cassation of Armenia (Հայաստանի Հանրապետության վճռաբեկ դատարան) is the apex court for civil and criminal matters; the Constitutional Court (Սահմանադրական դատարան) operates separate constitutional review. Family-law matters are heard at first instance in the Courts of General Jurisdiction. Psychology profession is regulated through the Ministry of Health framework with the Armenian Psychological Association operating professional standards. Armenia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Family Code art. 53. Armenia acceded to the Hague Convention 1980 effective 1 June 2007. Armenia is a Council of Europe member subject to ECHR jurisdiction.",
@@ -95,7 +97,7 @@
     {
       "year": 2015,
       "title": "Constitutional amendments 2015 + parliamentary republic transition",
-      "description": "Constitutional amendments adopted by referendum 6 December 2015 — substantially transitioning from semi-presidential to parliamentary republic framework. Foundational constitutional reform reshaping political-institutional framework affecting subsequent family-law and constitutional-rights jurisprudence."
+      "description": "Constitutional amendments adopted by referendum 6 December 2015 — substantially transitioning from semi-presidential to parliamentary republic framework."
     },
     {
       "year": 2020,

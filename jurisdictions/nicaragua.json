@@ -4,7 +4,9 @@
   "name": "Nicaragua (Republic of Nicaragua / República de Nicaragua)",
   "jurisdiction_code": "NI",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Nicaragua is a Central American civil-law republic whose family-law framework operates under the Family Code 2014 (Código de Familia, Law 870 of 2014, effective 8 April 2015) — comprehensive modern codification replacing prior Civil Code provisions. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 264-281. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated under the Asociación de Psicólogos de Nicaragua and Ministerio de Salud licensing framework. Nicaragua is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1998 art. 9. Nicaragua acceded to the Hague Convention 1980 effective 1 March 2001.",
@@ -49,27 +51,27 @@
     {
       "year": 1821,
       "title": "Nicaragua independence + Central-American-Federation framework",
-      "description": "Nicaragua independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Nicaragua independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework."
     },
     {
       "year": 1937,
       "title": "Somoza dynasty 1937-1979 + 42-year-dynastic-authoritarian framework",
-      "description": "Anastasio Somoza García assumed presidency 1 January 1937 — substantively distinctive Latin American 42-year-Somoza-dynastic-authoritarian framework 1937-1979 (Anastasio Somoza García + Luis Somoza Debayle + Anastasio Somoza Debayle). Substantive Cold-War-era US-Somoza-relations affecting subsequent constitutional-democratic-trajectory."
+      "description": "Anastasio Somoza García assumed presidency 1 January 1937. Substantive Cold-War-era US-Somoza-relations affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1979,
       "title": "Sandinista Revolution + FSLN + post-Somoza framework",
-      "description": "Sandinista Revolution 19 July 1979 ending Somoza dynasty — FSLN (Frente Sandinista de Liberación Nacional) led by Daniel Ortega. Substantively distinctive Latin American Marxist-Leninist revolution framework. Foundational pre-Contras-War framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Sandinista Revolution 19 July 1979 ending Somoza dynasty — FSLN (Frente Sandinista de Liberación Nacional) led by Daniel Ortega."
     },
     {
       "year": 1981,
       "title": "Contras War 1981-1990 + US-Iran-Contra-affair + Cold-War-conflict framework",
-      "description": "Contras War 1981-1990 between Sandinista government and US-backed Contras. Substantively distinctive Latin American Cold-War-era conflict framework with estimated 30,000+ killed. Foundational pre-Esquipulas-II framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Contras War 1981-1990 between Sandinista government and US-backed Contras."
     },
     {
       "year": 1990,
       "title": "Nicaragua ratifies UN Convention on the Rights of the Child + Chamorro presidency framework",
-      "description": "Nicaragua ratified the UNCRC on 5 October 1990 — substantively significant child-rights framework integration. Violeta Barrios de Chamorro elected President 25 April 1990 ending Sandinista era. Substantively distinctive Latin American first-female-president framework."
+      "description": "Nicaragua ratified the UNCRC on 5 October 1990 — substantively significant child-rights framework integration. Violeta Barrios de Chamorro elected President 25 April 1990 ending Sandinista era."
     },
     {
       "year": 1998,
@@ -84,7 +86,7 @@
     {
       "year": 2007,
       "title": "Daniel Ortega presidency-return + Sandinista-return framework",
-      "description": "Daniel Ortega (FSLN) elected President 10 January 2007 — substantively distinctive Latin American Sandinista-return framework following 17-year-Chamorro-Aleman-Bolaños interregnum. Subsequent re-elections 2011, 2016, 2021 substantively affecting subsequent constitutional-democratic-trajectory."
+      "description": "Daniel Ortega (FSLN) elected President 10 January 2007. Subsequent re-elections 2011, 2016, 2021 substantively affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2014,
@@ -94,7 +96,7 @@
     {
       "year": 2018,
       "title": "2018 Nicaraguan protests + Ortega-Murillo authoritarian-consolidation framework",
-      "description": "2018 Nicaraguan protests April-July 2018 substantively distinctive Latin American democratic-backsliding framework — estimated 300+ killed. Subsequent Ortega-Murillo authoritarian-consolidation framework substantially reshaping political-institutional framework. Rosario Murillo (Daniel Ortega's wife) elected Vice-President 2017, co-president 2025 affecting subsequent constitutional-democratic-trajectory."
+      "description": "Subsequent Ortega-Murillo authoritarian-consolidation framework substantially reshaping political-institutional framework. Rosario Murillo (Daniel Ortega's wife) elected Vice-President 2017, co-president 2025 affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2024,

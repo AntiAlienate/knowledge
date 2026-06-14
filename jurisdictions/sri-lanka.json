@@ -4,7 +4,11 @@
   "name": "Sri Lanka (ශ්‍රී ලංකා / இலங்கை)",
   "jurisdiction_code": "LK",
   "legal_system": "mixed",
-  "language": ["si", "ta", "en"],
+  "language": [
+    "si",
+    "ta",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Sri Lanka is a South Asian mixed-legal-system unitary republic combining Roman-Dutch civil-law substantive heritage with English common-law procedural inheritance, plus religious-community personal laws (Kandyan Sinhalese, Thesawalamai Tamil, Muslim). Family law operates under the General Marriage Ordinance 1907 and Civil Procedure Code for general matters, with Kandyan Marriage and Divorce Act 1952, Thesawalamai (Jaffna Tamils), and Muslim Marriage and Divorce Act 1951 for community-specific matters. Custody is governed by general law via District Courts. The Supreme Court of Sri Lanka is the apex court for civil, criminal, constitutional and administrative matters. Psychology profession regulation is administered through the Sri Lanka Medical Council framework with the Sri Lanka Psychological Association operating professional standards. Sri Lanka is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Sri Lanka acceded to the Hague Convention 1980 effective 1 August 2002.",
@@ -56,7 +60,7 @@
     {
       "year": 1656,
       "title": "Dutch colonial era + Roman-Dutch law reception begins",
-      "description": "Dutch East India Company (VOC) captured Sri Lanka coastal areas 1656 from Portuguese, beginning Roman-Dutch civil-law reception that would persist as the substantive substrate for over 370 years (1656-present). Foundational substantive substrate distinguishing Sri Lanka from neighbouring British-Indian-substrate South-Asian jurisdictions."
+      "description": "Dutch East India Company (VOC) captured Sri Lanka coastal areas 1656 from Portuguese, beginning Roman-Dutch civil-law reception that would persist as the substantive substrate for over 370 years (1656-present)."
     },
     {
       "year": 1799,
@@ -101,7 +105,7 @@
     {
       "year": 2023,
       "title": "Economic crisis aftermath + Wickremesinghe presidency + NCPA institutional consolidation",
-      "description": "Sri Lanka economic crisis 2022-onwards substantively distinctive globally sovereign-debt-default + currency-collapse framework affecting institutional capacity for family-law adjudication. Ranil Wickremesinghe presidency 2022-2024 continuing through 2023. National Child Protection Authority (NCPA) institutional position addressing PA-related issues within General Marriage Ordinance + Roman-Dutch + community-specific personal-law framework. Substantively significant South Asian institutional context establishing trajectory toward 2024 substantive register."
+      "description": "Ranil Wickremesinghe presidency 2022-2024 continuing through 2023. National Child Protection Authority (NCPA) institutional position addressing PA-related issues within General Marriage Ordinance, Roman-Dutch, community-specific personal-law framework. Substantively significant South Asian institutional context establishing trajectory toward 2024 substantive register."
     },
     {
       "year": 2024,

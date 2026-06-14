@@ -4,7 +4,9 @@
   "name": "Slovakia (Slovensko)",
   "jurisdiction_code": "SK",
   "legal_system": "civil-law",
-  "language": ["sk"],
+  "language": [
+    "sk"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Slovakia is a civil-law unitary republic whose family-law framework operates under the Zákon o rodine (Family Act) Law 36/2005. Parental rights and obligations (rodičovské práva a povinnosti) are governed by Zákon o rodine §§ 28-47; joint exercise during marriage is the statutory default. The Najvyšší súd (Supreme Court of the Slovak Republic, Bratislava) is the apex court for civil and criminal matters; the Ústavný súd (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated under the Slovenská komora psychológov (SKP) Chamber of Psychologists. Slovakia is silent on 'parental alienation' as a statutory label; courts operate substantively under the najlepší záujem dieťaťa (best-interests-of-the-child) standard.",
@@ -85,7 +87,7 @@
     {
       "year": 2014,
       "title": "Constitutional amendment + traditional-marriage codification",
-      "description": "Constitutional amendment 2014 codifying Art. 41(1) marriage as unique union of man and woman — substantively distinctive within Slovak constitutional framework. Subsequent constitutional debates around family-form."
+      "description": "Constitutional amendment 2014 codifying Art. 41(1) marriage as unique union of man and woman. Subsequent constitutional debates around family-form."
     },
     {
       "year": 2019,
@@ -100,7 +102,7 @@
     {
       "year": 2024,
       "title": "Robert Fico assassination attempt + judicial-reform-context + Smer-SD coalition framework",
-      "description": "Slovak Prime Minister Robert Fico (Smer-SD) assassination attempt 15 May 2024 in Handlová by Juraj Cintula — substantively distinctive globally only modern Slovak-PM assassination-attempt framework + structurally distinctive CEE political-instability framework + Smer-SD coalition government inaugurated 25 October 2023 with Hlas-SD + SNS + Fico-coalition judicial-reform framework + Special Prosecutor's Office abolition + Penal Code amendments February 2024 + EU rule-of-law contestation framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Zákon o rodine 36/2005 + Najvyšší súd substantive register evolution + najlepší záujem dieťaťa framework."
+      "description": "Slovak Prime Minister Robert Fico (Smer-SD) assassination attempt 15 May 2024 in Handlová by Juraj Cintula."
     },
     {
       "year": 2023,

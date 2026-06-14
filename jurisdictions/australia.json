@@ -4,7 +4,9 @@
   "name": "Australia (Commonwealth of Australia)",
   "jurisdiction_code": "AU",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Australia is a federal common-law jurisdiction whose family courts (Federal Circuit and Family Court of Australia, FCFCOA, established 2021) operate under the Family Law Act 1975 (Cth). The Family Law Amendment Act 2023 substantially restructured the best-interests-of-the-child framework, repealing the presumption of equal shared parental responsibility (s 61DA) and the related compulsory consideration of equal/substantial-and-significant time. The statutory framework is silent on the 'parental alienation' label. The Family Court of Australia and FCFCOA have historically applied PA-related analysis through case-law (e.g., Re W [1995], McCall and Clark [2009]) within the BIC framework. The Australian Law Reform Commission (ALRC) Family Law Report 135 (2019) and AIFS research have informed institutional-critique register against PAS-syndromic framing — particularly in DV-intersection cases.",
@@ -135,7 +137,7 @@
     "ALRC Family Law Report 135 (2019) operates as substantively foundational institutional-critique document — informing 2023 reform and establishing the Australian institutional-critique register against PA-labelled deflection of DV allegations within DV-intersection cases."
   ],
   "editorial_notes": [
-    "Australia's 2023 family-law reform repealing the equal shared parental responsibility presumption represents the most substantial reversal of a national presumption-of-shared-care framework globally — substantively distinctive from the European trajectory (Germany, France, Italy, Spain) and the U.S. state-level variation pattern.",
+    "Australia's 2023 family-law reform repealing the equal shared parental responsibility presumption represents the most substantial reversal of a national presumption framework globally. state-level variation pattern.",
     "FCFCOA establishment (2021) and 2023 reform operationally consolidate Australian family-law judiciary and BIC framework — establishing Australia as a structurally distinctive common-law data point with institutional-critique register and presumption-repeal trajectory."
   ]
 }

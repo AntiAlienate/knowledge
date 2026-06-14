@@ -4,7 +4,9 @@
   "name": "Oman (سلطنة عمان)",
   "jurisdiction_code": "OM",
   "legal_system": "religious-law",
-  "language": ["ar"],
+  "language": [
+    "ar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Oman is a Gulf religious-law absolute monarchy whose family-law framework operates under the Personal Status Law (Royal Decree 32/97) of 1997 drawn from Ibadi jurisprudence (with Maliki and Hanafi provisions for non-Ibadi Muslims). Custody (hadana) is governed by arts. 124-145 of the Personal Status Law. The Supreme Court (Al-Mahkama al-Ulya) is the apex court for civil and criminal matters; family-law matters are heard within the Personal Status Courts. Psychology profession is regulated under the Ministry of Health framework and the Oman Medical Specialty Board. Oman is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Oman is non-Hague Convention.",
@@ -42,12 +44,12 @@
     {
       "year": 1741,
       "title": "Al-Said-dynasty-founding + Imam-Ahmed-bin-Said framework",
-      "description": "Al-Said dynasty founded 1741 by Imam Ahmed bin Said Al Busaidi — substantively distinctive Gulf Al-Said-dynasty-+-Ibadi-Imamate framework. Foundational substantive 285-year Al-Said-dynasty framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory and Ibadi-jurisprudence-primary religious-law framework."
+      "description": "Al-Said dynasty founded 1741 by Imam Ahmed bin Said Al Busaidi."
     },
     {
       "year": 1970,
       "title": "Sultan Qaboos accession + Omani-Renaissance framework",
-      "description": "Sultan Qaboos bin Said Al Said accession 23 July 1970 via palace coup overthrowing father Sultan Said bin Taimur — substantively distinctive Gulf Omani-Renaissance framework. Subsequent 50-year Qaboos era 1970-2020 substantively modernising Oman framework. Foundational substantive Sultan-Qaboos-era framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+      "description": "Sultan Qaboos bin Said Al Said accession 23 July 1970 via palace coup overthrowing father Sultan Said bin Taimur. Subsequent 50-year Qaboos era 1970-2020 substantively modernising Oman framework."
     },
     {
       "year": 1996,
@@ -72,7 +74,7 @@
     {
       "year": 2020,
       "title": "Sultan Qaboos death + Sultan Haitham bin Tariq accession framework",
-      "description": "Sultan Qaboos bin Said died 10 January 2020 ending 50-year Qaboos era — substantively distinctive Gulf post-Qaboos-Sultan-Haitham-bin-Tariq-succession framework. Foundational substantive Sultan-Haitham-era 2020-onwards framework affecting subsequent constitutional-democratic-trajectory and Personal Status Law amendments reform-trajectory."
+      "description": "Sultan Qaboos bin Said died 10 January 2020 ending 50-year Qaboos era."
     },
     {
       "year": 2021,

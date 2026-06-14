@@ -4,7 +4,9 @@
   "name": "Benin (Republic of Benin / République du Bénin)",
   "jurisdiction_code": "BJ",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Benin is a West African civil-law unitary republic whose family-law framework operates under the Persons and Family Code 2004 (Code des Personnes et de la Famille, Law 2002-07) drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification, abolition of polygamy for civil marriages (replaced by monogamous marriage default), and codification of customary-law marriage provisions. Parental authority and child custody are governed by Persons and Family Code arts. 411-451. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Benin is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Benin acceded to the Hague Convention 1980 effective 1 February 2018.",
@@ -55,17 +57,17 @@
     {
       "year": 1960,
       "title": "Dahomey independence + recurring-coup framework",
-      "description": "Dahomey (later Benin) independence 1 August 1960 from France — substantively distinctive West-African recurring-coup pattern 1963, 1965 (twice), 1967, 1969, 1972 (most-coup-prone African state in early independence period). Foundational pre-Kerekou-Marxist framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Dahomey (later Benin) independence 1 August 1960 from France."
     },
     {
       "year": 1972,
       "title": "Mathieu Kerekou coup + People's Republic of Benin + Marxist-Leninist framework",
-      "description": "Mathieu Kerekou coup d'état 26 October 1972. Subsequent People's Republic of Benin (Dahomey renamed 1975) under Marxist-Leninist framework 1975-1990 — substantively distinctive West-African Marxist-Leninist framework. Substantive Cold-War-era political-institutional framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mathieu Kerekou coup d'état 26 October 1972. Subsequent People's Republic of Benin (Dahomey renamed 1975) under Marxist-Leninist framework 1975-1990."
     },
     {
       "year": 1990,
       "title": "Benin national-conference + democratic-transition + multi-party-framework",
-      "description": "Benin National Conference of the Active Forces 19-28 February 1990 substantively distinctive globally African National-Conference framework (first of subsequent Francophone-African national-conferences). Substantive democratic-transition framework establishing Constitution of Benin 1990. Substantively significant African democratic-trajectory pattern."
+      "description": "Substantive democratic-transition framework establishing Constitution of Benin 1990. Substantively significant African democratic-trajectory pattern."
     },
     {
       "year": 1990,
@@ -80,7 +82,7 @@
     {
       "year": 2004,
       "title": "Persons and Family Code 2004",
-      "description": "Federal Persons and Family Code enacted Law 2002-07 of 24 August 2004 with substantial modernisation including gender equality codification and monogamy-default for civil marriages. Arts. 411-451 govern parental authority and child custody. Substantively distinctive West-African Francophone gender-equality-codification framework."
+      "description": "Federal Persons and Family Code enacted Law 2002-07 of 24 August 2004 with substantial modernisation including gender equality codification and monogamy-default for civil marriages. Arts. 411-451 govern parental authority and child custody."
     },
     {
       "year": 2015,
@@ -90,7 +92,7 @@
     {
       "year": 2016,
       "title": "Patrice Talon presidency + technocratic-reform framework + contested-democratic-trajectory",
-      "description": "Patrice Talon (independent businessman) elected President 6 March 2016 — substantively distinctive West-African technocratic-presidency framework. Subsequent 2019 electoral-law reform substantially affecting democratic-trajectory + 2021 contested re-election framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Patrice Talon (independent businessman) elected President 6 March 2016."
     },
     {
       "year": 2018,

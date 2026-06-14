@@ -4,10 +4,15 @@
   "name": "South Africa (Republic of South Africa)",
   "jurisdiction_code": "ZA",
   "legal_system": "mixed (Roman-Dutch civil-law + English common-law)",
-  "language": ["en", "af", "zu", "xh"],
+  "language": [
+    "en",
+    "af",
+    "zu",
+    "xh"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "South Africa is a mixed-jurisdiction (Roman-Dutch civil-law + English common-law overlay) with constitutional supremacy under the Constitution of the Republic of South Africa 1996. Family courts operate under the Children's Act 38 of 2005 (effective 1 April 2010) and the Divorce Act 70 of 1979. The Constitutional Court has applied the best-interests-of-the-child standard under Constitution s 28(2) — substantively distinctive globally for explicit constitutional codification of the BIC standard. The statutory framework is silent on the 'parental alienation' label as a diagnostic category. The Family Advocate's Office (under Mediation in Certain Divorce Matters Act 24 of 1987) provides expert-mediation function with institutional caution toward PAS-syndromic framing. The South African Law Reform Commission and Health Professions Council of South Africa have informed institutional-critique register against PAS-syndromic framing — particularly in DV-intersection cases under the Domestic Violence Act 116 of 1998.",
+  "summary": "South Africa is a mixed-jurisdiction (Roman-Dutch civil-law, English common-law overlay) with constitutional supremacy under the Constitution of the Republic of South Africa 1996. Family courts operate under the Children's Act 38 of 2005 (effective 1 April 2010) and the Divorce Act 70 of 1979. The Constitutional Court has applied the best standard under Constitution s 28(2). The statutory framework is silent on the 'parental alienation' label as a diagnostic category. The Family Advocate's Office (under Mediation in Certain Divorce Matters Act 24 of 1987) provides expert-mediation function with institutional caution toward PAS-syndromic framing. The South African Law Reform Commission and Health Professions Council of South Africa have informed institutional-critique register against PAS-syndromic framing — particularly in DV-intersection cases under the Domestic Violence Act 116 of 1998.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -19,7 +24,7 @@
       "title": "Constitutional child-rights framework",
       "year": 1996,
       "url": "https://www.gov.za/documents/constitution-republic-south-africa-1996",
-      "relevance": "Constitution s 28 establishing constitutionally-grounded child-rights framework including s 28(2) best-interests-of-the-child as paramount standard. Substantively distinctive globally for explicit constitutional codification of the BIC standard."
+      "relevance": "Constitution s 28 establishing constitutionally-grounded child-rights framework including s 28(2) best as paramount standard."
     },
     {
       "citation": "Children's Act 38 of 2005",
@@ -40,7 +45,7 @@
       "title": "Family Advocate's Office statutory basis",
       "year": 1987,
       "url": "https://www.gov.za/documents/mediation-certain-divorce-matters-act",
-      "relevance": "Establishes Family Advocate's Office (under Department of Justice) providing expert-mediation function in divorce-related parenting disputes. Substantively distinctive globally for statutorily-established family-mediation framework."
+      "relevance": "Establishes Family Advocate's Office (under Department of Justice) providing expert-mediation function in divorce-related parenting disputes."
     },
     {
       "citation": "Domestic Violence Act 116 of 1998",
@@ -76,7 +81,7 @@
     {
       "year": 1987,
       "title": "Mediation in Certain Divorce Matters Act 24 of 1987 — Family Advocate established",
-      "description": "Mediation in Certain Divorce Matters Act 24 of 1987 establishing Family Advocate's Office (Department of Justice) providing expert-mediation function in divorce-related parenting disputes. Substantively distinctive globally for statutorily-established family-mediation framework — institutional foundation for subsequent PA-related dispute resolution."
+      "description": "Mediation in Certain Divorce Matters Act 24 of 1987 establishing Family Advocate's Office (Department of Justice) providing expert-mediation function in divorce-related parenting disputes."
     },
     {
       "year": 1995,
@@ -86,7 +91,7 @@
     {
       "year": 1996,
       "title": "Constitution of the Republic of South Africa 1996 — s 28 constitutional child-rights framework",
-      "description": "Constitution of the Republic of South Africa 1996 adopted 4 December 1996 (effective 4 February 1997). Section 28 establishes constitutionally-grounded child-rights framework including s 28(2) BIC paramount standard. Substantively distinctive globally for explicit constitutional codification of BIC standard — substantively foundational post-democratization constitutional framework."
+      "description": "Constitution of the Republic of South Africa 1996 adopted 4 December 1996 (effective 4 February 1997). Section 28 establishes constitutionally-grounded child-rights framework including s 28(2) BIC paramount standard."
     },
     {
       "year": 1998,
@@ -130,12 +135,11 @@
     }
   ],
   "structural_findings": [
-    "South Africa operates a structurally distinctive mixed Roman-Dutch + English common-law family-law framework with constitutional supremacy — Constitution 1996 s 28 + Children's Act 38 of 2005 + Family Advocate's Office institutional framework — substantively distinctive globally for explicit constitutional codification of the BIC standard.",
+    "South Africa operates a structurally distinctive mixed Roman-Dutch, English common-law family-law framework with constitutional supremacy.",
     "Family Advocate's Office (under Mediation in Certain Divorce Matters Act 1987) provides distinctive statutorily-established family-mediation function — operationally significant for institutional-critique position on PAS-syndromic framing within DV-intersection cases.",
     "Constitution s 28(2) paramount-standard jurisprudence (S v M 2008) operationally creates a constitutionally-grounded BIC framework distinguishing South African position from other African common-law jurisdictions (Kenya, Nigeria) and from European institutional-critique cluster apex-court doctrinal positions."
   ],
   "editorial_notes": [
-    "South Africa's Constitution s 28(2) explicit constitutional codification of the BIC paramount standard is substantively distinctive globally — operationally establishing BIC as constitutionally-grounded standard with treaty-rank reinforcement under Constitution s 39(1)(b).",
     "The Family Advocate's Office (Mediation in Certain Divorce Matters Act 1987) operates as a structurally distinctive statutorily-established family-mediation framework — making South Africa a critical mixed-jurisdiction African data point for institutional family-mediation architecture."
   ]
 }

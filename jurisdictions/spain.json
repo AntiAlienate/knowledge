@@ -4,7 +4,12 @@
   "name": "Spain",
   "jurisdiction_code": "ES",
   "legal_system": "civil-law",
-  "language": ["es", "ca", "eu", "gl"],
+  "language": [
+    "es",
+    "ca",
+    "eu",
+    "gl"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-05-31",
   "summary": "Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 Disposición adicional decimoséptima, which directs public administrations not to admit the construct denominated 'síndrome de alienación parental' (SAP) in family-violence settings — the exact opposite direction to Brazil's Lei 12.318/2010, which statutorily recognises 'alienação parental'. Tribunal Supremo (Sala Primera) STS 519/2017 took a pre-LOPIVI methodological-middle stance that treats parental manipulation and negative influence as decisive welfare factors while deliberately avoiding the SAP label; the legislator subsequently moved past STS 519/2017 without ratifying its reasoning. Professional-regulator position varies by Comunidad Autónoma (per-CCAA COP variation), which is the opposite pattern to the unified national regulator positions seen in Germany and the United Kingdom.",
@@ -167,7 +172,7 @@
   "key_developments": [
     {
       "year": 1889,
-      "description": "Código Civil 1889 enacted 24 July 1889 — substantively distinctive Spanish civil-code framework drawing on French civil-law substantive heritage. Arts. 92-95 codify guarda y custodia and parental-responsibility framework. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory affecting contemporary family-law-jurisprudence.",
+      "description": "Código Civil 1889 enacted 24 July 1889. Arts. 92-95 codify guarda y custodia and parental-responsibility framework.",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763"
     },
     {
@@ -182,7 +187,7 @@
     },
     {
       "year": 1986,
-      "description": "1 January 1986 — Spain EU accession alongside Portugal substantively integrating Spanish family-law-framework into EU-treaty-framework including Brussels IIa/IIbis Regulation framework for family-law-matters. Foundational EU-treaty framework affecting subsequent cross-border-jurisdiction-practice.",
+      "description": "1 January 1986 — Spain EU accession alongside Portugal substantively integrating Spanish family-law-framework into EU-treaty-framework including Brussels IIa/IIbis Regulation framework for family-law-matters.",
       "url": "https://eur-lex.europa.eu/"
     },
     {
@@ -202,7 +207,7 @@
     },
     {
       "year": 2013,
-      "description": "29 April 2013 — STS 257/2013 (Sala Primera, ponente Seijas Quintana) sets shared-custody (custodia compartida) as the preferred legal framework, subordinating the prior preference for sole maternal custody — substantively distinctive Spanish family-law modernisation framework. Substantive STS 257/2013 framework foundational for subsequent 2017 STS 519/2017 methodological-middle PA-doctrine stance and 2021 LOPIVI inadmission framework. Foundation for ongoing custodia-compartida vs custodia-individual jurisprudence directly relevant to PA-style cases.",
+      "description": "29 April 2013. Substantive STS 257/2013 framework foundational for subsequent 2017 STS 519/2017 methodological-middle PA-doctrine stance and 2021 LOPIVI inadmission framework. Foundation for ongoing custodia-compartida vs custodia-individual jurisprudence directly relevant to PA-style cases.",
       "url": "https://www.poderjudicial.es/search/AN/openDocument/efeb56cb3deb43e8/20130507"
     },
     {

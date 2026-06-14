@@ -4,7 +4,10 @@
   "name": "Comoros (Union of the Comoros / Udzima wa Komori / الاتحاد القمري / Union des Comores)",
   "jurisdiction_code": "KM",
   "legal_system": "mixed",
-  "language": ["ar", "fr"],
+  "language": [
+    "ar",
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Comoros is an Indian Ocean mixed-legal-system federal republic combining French civil-law substantive heritage (via colonial inheritance) with Shafi'i Islamic-law personal-status jurisdiction (Comoros being predominantly Muslim) and customary-law jurisdiction. Family-law framework operates under the Family Code 2005 (Code de la Famille, Law 05-008) drawing on Shafi'i Islamic-law jurisprudence with civil-law codification, supplemented by the Code of Civil Procedure. Parental authority and child custody are governed by Family Code arts. 120-155. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Cadi Courts (Tribunal du Cadi) for Muslim personal-status matters and Civil Courts. Psychology profession is regulated through the Ministry of Health framework. Comoros is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Comoros is non-Hague Convention.",
@@ -48,7 +51,7 @@
     {
       "year": 1975,
       "title": "Comoros independence + Mayotte dispute + recurring-coup-d'état pattern",
-      "description": "Comoros declared independence 6 July 1975 from France (three of four islands; Mayotte voted to remain French). Substantively distinctive recurring-coup-d'état pattern: over 20 coups or coup attempts since 1975 — among most coup-prone states globally. Initial Ali Soilih presidency 1975-1978 ended by Bob Denard mercenary coup."
+      "description": "Comoros declared independence 6 July 1975 from France (three of four islands; Mayotte voted to remain French). Initial Ali Soilih presidency 1975-1978 ended by Bob Denard mercenary coup."
     },
     {
       "year": 1991,
@@ -68,7 +71,7 @@
     {
       "year": 2001,
       "title": "Constitution of the Union of the Comoros 2001 + federal framework",
-      "description": "New Constitution of the Union of the Comoros adopted by referendum 23 December 2001 — substantively reforming political-institutional framework with rotating-presidency-among-three-islands provision. Substantively distinctive federal Indian Ocean island state framework. Subsequent 2018 referendum substantively reformed rotating-presidency provision."
+      "description": "New Constitution of the Union of the Comoros adopted by referendum 23 December 2001 — substantively reforming political-institutional framework with rotating provision. Subsequent 2018 referendum substantively reformed rotating-presidency provision."
     },
     {
       "year": 2005,

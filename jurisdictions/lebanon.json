@@ -4,7 +4,10 @@
   "name": "Lebanon (Lebanese Republic / الجمهورية اللبنانية)",
   "jurisdiction_code": "LB",
   "legal_system": "mixed",
-  "language": ["ar", "fr"],
+  "language": [
+    "ar",
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Lebanon is a MENA mixed-legal-system republic combining French civil-law substantive heritage (via French Mandate inheritance) with confessional personal-status jurisdiction — 18 recognised religious-community courts each administering distinct personal-status law (Sunni, Shia, Druze, Alawite, Maronite Catholic, Greek Orthodox, Greek Catholic, Armenian Apostolic, Armenian Catholic, Syriac Orthodox, Syriac Catholic, Chaldean, Roman Catholic, Protestant, Coptic, Jewish, and others). Family-law framework for Muslim communities operates under Sharia Courts; for Christian communities under canonical/ecclesiastical courts; for Druze under separate Druze Courts. Civil marriage is not recognised internally (though foreign civil marriages are recognised). The Court of Cassation (محكمة التمييز) is the apex court for civil and criminal matters; the Constitutional Council (المجلس الدستوري) operates constitutional review. There is NO civil family-law statute for personal-status matters — each confessional court applies its own community's law. Psychology profession is regulated through the Lebanese Order of Psychologists under Law 8 of 1994 — distinctive as among the earliest dedicated psychology-regulation statutes in MENA region. Lebanon is silent on 'parental alienation' as a statutory label; courts operate substantively under community-specific child welfare standards. Lebanon is non-Hague Convention.",
@@ -107,7 +110,7 @@
     {
       "year": 2023,
       "title": "Beirut port explosion aftermath + economic crisis + Nawaf Salam framework continuation",
-      "description": "Beirut port explosion 4 August 2020 aftermath through 2023 substantively affecting institutional capacity. Lebanon economic crisis 2019-onwards substantively distinctive globally currency-collapse + state-failure framework affecting family-law adjudication including cross-border family-law cases. Vacancy in presidency 2022-2024 substantively affecting institutional context. KAFA + Higher Council for Childhood institutional positions addressing PA-related issues within confessional framework. Substantively significant Levant institutional context."
+      "description": "Beirut port explosion 4 August 2020 aftermath through 2023 substantively affecting institutional capacity. Vacancy in presidency 2022-2024 substantively affecting institutional context. KAFA, Higher Council for Childhood institutional positions addressing PA-related issues within confessional framework. Substantively significant Levant institutional context."
     },
     {
       "year": 2024,

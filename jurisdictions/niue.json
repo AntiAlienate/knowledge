@@ -4,7 +4,10 @@
   "name": "Niue",
   "jurisdiction_code": "NU",
   "legal_system": "common-law",
-  "language": ["en", "niu"],
+  "language": [
+    "en",
+    "niu"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Niue is a Pacific Island common-law self-governing state in free association with New Zealand (since 1974) — structurally distinctive globally alongside Cook Islands as a Niue-status free-association state with NZ. Family-law framework operates under the Niue Act 1966 (NZ) (parts retained at self-government), the Marriage Act 1929, the Niue Amendment Act 1968 (NZ), and family-law statutes adapted to Niuean conditions. Niue retains NZ citizenship for Niueans. Parental responsibility and child custody are governed by Niue Act 1966 provisions and case-law applying the welfare-of-the-child principle. The High Court of Niue is the apex domestic court for civil and criminal matters; final appellate jurisdiction was retained with the Court of Appeal of New Zealand and ultimately the Judicial Committee of the Privy Council. The Maori Land Court / Land Division operates parallel customary-land jurisdiction. Family-law matters are heard at first instance in the High Court and Resident Magistrates' Courts. Psychology profession is regulated through the Department of Health framework. Niue is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Niue is non-Hague Convention — Hague Convention 1980 does not apply via NZ territorial extension.",
@@ -48,22 +51,22 @@
     {
       "year": 1901,
       "title": "Niue annexation to New Zealand + Cook Islands joint-administration framework",
-      "description": "Niue annexed to New Zealand 11 June 1901 as part of Cook Islands administration. Niue separated from Cook Islands administration 1904 — becoming separate NZ dependency. Substantively distinctive Pacific colonial-administration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Niue annexed to New Zealand 11 June 1901 as part of Cook Islands administration. Niue separated from Cook Islands administration 1904 — becoming separate NZ dependency."
     },
     {
       "year": 1966,
       "title": "Niue Act 1966 (NZ) + administrative-restructuring framework",
-      "description": "Niue Act 1966 enacted by New Zealand Parliament establishing comprehensive administrative and family-law framework — parts retained at 1974 self-government. Substantively significant NZ-Pacific-dependency-administration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Niue Act 1966 enacted by New Zealand Parliament establishing comprehensive administrative and family-law framework — parts retained at 1974 self-government."
     },
     {
       "year": 1974,
       "title": "Self-government in free association with New Zealand + Robert Rex premiership",
-      "description": "Niue achieved self-government in free association with New Zealand 19 October 1974 — substantively distinctive globally alongside Cook Islands. Robert Rex first Premier 1974-1992. Substantively distinctive Pacific extended-founding-premiership pattern. Foundational constitutional framework for contemporary family-law-jurisprudence."
+      "description": "Niue achieved self-government in free association with New Zealand 19 October 1974. Robert Rex first Premier 1974-1992. Foundational constitutional framework for contemporary family-law-jurisprudence."
     },
     {
       "year": 1993,
       "title": "Niue ratifies UN Convention on the Rights of the Child + free-association-treaty-making-capacity",
-      "description": "Niue ratified the UNCRC on 20 December 1995 independently of New Zealand — substantively distinctive free-association-treaty-making-capacity framework. Substantive best-interests-of-the-child substantive doctrine within common-law framework."
+      "description": "Niue ratified the UNCRC on 20 December 1995 independently of New Zealand. Substantive best substantive doctrine within common-law framework."
     },
     {
       "year": 2003,
@@ -78,7 +81,7 @@
     {
       "year": 2015,
       "title": "China relations + Belt and Road Initiative + diplomatic-realignment framework",
-      "description": "Niue established diplomatic relations with China 12 December 2007 — substantively distinctive Pacific Niue-China relationship. Belt and Road Initiative engagement through 2015-2020s affecting Niue's geopolitical positioning within Pacific cluster."
+      "description": "Niue established diplomatic relations with China 12 December 2007. Belt and Road Initiative engagement through 2015-2020s affecting Niue's geopolitical positioning within Pacific cluster."
     },
     {
       "year": 2017,
@@ -88,7 +91,7 @@
     {
       "year": 2023,
       "title": "Niue Constitution review + ongoing-reform-discussions + sovereignty-framework",
-      "description": "Niue Constitution review discussions through 2020s assessing free-association-state framework. Subsequent constitutional-reform discussions continuing. Substantively distinctive Pacific free-association-state-evolution affecting family-law-implementation framework."
+      "description": "Niue Constitution review discussions through 2020s assessing free-association-state framework. Subsequent constitutional-reform discussions continuing."
     },
     {
       "year": 2022,

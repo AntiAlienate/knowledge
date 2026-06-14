@@ -4,7 +4,12 @@
   "name": "Goa (गोवा)",
   "jurisdiction_code": "IN-GA",
   "legal_system": "mixed",
-  "language": ["en", "kok", "pt", "mr"],
+  "language": [
+    "en",
+    "kok",
+    "pt",
+    "mr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Goa (गोवा in Hindi) is a Western Indian Konkan-coastal mixed common-law/Portuguese-civil-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state operating Portuguese Codigo Civil 1867 (Family Laws portion) continuously since 1870 (Portuguese implementation in Goa) through 1961 Indian annexation through present-day under the Goa Family Laws framework (preserved post-Operation Vijay 1961 by the Goa, Daman and Diu Administration Act 1962 — Portuguese civil-code applicability framework continued by Indian Government), as the only Indian state with constitutionally-preserved Uniform Civil Code (UCC) framework operating since 1870 (Goa is the only Indian state where a Uniform Civil Code applies in family-law matters — meaning marriage/divorce/succession governed by common framework regardless of religion, distinct from rest-of-India's personal-laws framework of Hindu/Muslim/Christian/Parsi personal laws), and as the central jurisdiction of the smallest Indian state by area (~3,702 km² + ~101 km² in Diu before 2020 merger but Goa-only is ~3,702 km²). Goa was historically Portuguese India under the Estado da Índia framework 1510-1961, annexed by India via Operation Vijay 17-19 December 1961, became Union Territory 1962, and was formed as the 25th state of India on 30 May 1987 via the Goa, Daman and Diu Reorganisation Act 1987. Goa comprises ~3,702 km² with a population of ~1.5 million. Family-law framework operates under the Portuguese Codigo Civil 1867 Family Laws portion (Articles 1057-1854) applied via Goa Civil Code framework and Indian Government preservation. Parental authority and child custody operate under Codigo Civil 1867 framework. The Bombay High Court (Goa Permanent Bench at Panaji) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Goa is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Goa is governed by the Indian non-ratification status.",
@@ -69,47 +74,47 @@
     {
       "year": 1510,
       "title": "Portuguese conquest of Goa + Afonso-de-Albuquerque-+-Estado-da-Índia framework",
-      "description": "Portuguese conquest of Goa 25 November 1510 by Afonso de Albuquerque — substantively distinctive globally beginning-of-Portuguese-India-Estado-da-Índia-framework 1510-1961 framework. Foundational substantive 451-year Portuguese-colonial framework persisting through 1961 Indian annexation affecting subsequent constitutional-administrative-trajectory and Portuguese-civil-law substantive heritage."
+      "description": "Portuguese conquest of Goa 25 November 1510 by Afonso de Albuquerque."
     },
     {
       "year": 1560,
       "title": "Goa Inquisition + Portuguese-Catholic-religious-framework framework",
-      "description": "Goa Inquisition established 1560 — substantively distinctive globally Portuguese-Catholic-religious-framework-+-Goan-Hindu-+-Konkani-Catholic-population framework persisting through 1812 abolition. Substantive demographic and family-law-implementation framework affecting subsequent constitutional-administrative-trajectory and Codigo Civil 1867 Catholic-derived civil-law substantive heritage."
+      "description": "Goa Inquisition established 1560."
     },
     {
       "year": 1867,
       "title": "Portuguese Codigo Civil + Goa-implementation-1870 framework",
-      "description": "Portuguese Codigo Civil adopted 1 July 1867 — substantively distinctive globally Portuguese-Civil-Code-substantive-heritage framework. Implemented in Goa 1870. Foundational substantive 156-year Portuguese-Codigo-Civil-1867-Family-Laws framework persisting continuously through 1961 Indian annexation through 21st century affecting family-law-implementation and Goa's only-Indian-state-with-Uniform-Civil-Code-framework distinction."
+      "description": "Portuguese Codigo Civil adopted 1 July 1867. Implemented in Goa 1870."
     },
     {
       "year": 1961,
       "title": "Operation Vijay + Indian-annexation-+-end-of-Portuguese-India framework",
-      "description": "Operation Vijay 17-19 December 1961 — Indian armed action annexing Portuguese India enclaves including Goa, Daman, and Diu — substantively distinctive globally Indian-armed-action-annexing-Portuguese-Goa-450+-years-later framework. Substantive demographic and family-law-implementation transformation framework affecting subsequent constitutional-democratic-trajectory and Goa, Daman and Diu Administration Act 1962."
+      "description": "Operation Vijay 17-19 December 1961."
     },
     {
       "year": 1962,
       "title": "Goa-Daman-Diu Administration Act + Codigo-Civil-preservation-+-Indian-Constitution-12th-Amendment framework",
-      "description": "Indian Federal Goa, Daman and Diu Administration Act 1962 preserving Portuguese Codigo Civil 1867 framework in Goa — substantively distinctive globally only-modern-post-colonial-framework-preserving-colonial-power-civil-code-application-as-state-primary-family-law-framework framework. Constitution (Twelfth Amendment) Act 1962 integrating Goa, Daman and Diu. Foundational substantive Indian Government preservation of Portuguese Codigo Civil framework affecting subsequent reform-trajectory."
+      "description": "Indian Federal Goa, Daman and Diu Administration Act 1962 preserving Portuguese Codigo Civil 1867 framework in Goa. Constitution (Twelfth Amendment) Act 1962 integrating Goa, Daman and Diu."
     },
     {
       "year": 1967,
       "title": "Goa Opinion Poll + remain-Union-Territory-rather-than-merge-with-Maharashtra framework",
-      "description": "Goa Opinion Poll 16 January 1967 — substantively distinctive globally only-Indian-state-with-formal-referendum-on-merger-with-another-state framework. 54.2% voted to remain as Union Territory rather than merging with Maharashtra. Substantive Goan-distinctive-identity framework affecting subsequent 1987 statehood + Konkani-language-+-Goan-Christian-Hindu-Muslim multi-religious framework."
+      "description": "Goa Opinion Poll 16 January 1967. 54.2% voted to remain as Union Territory rather than merging with Maharashtra."
     },
     {
       "year": 1987,
       "title": "Goa State established + 25th-Indian-state-+-Konkani-language-recognition framework",
-      "description": "Goa formed as 25th state of India 30 May 1987 via Goa, Daman and Diu Reorganisation Act 1987 — substantively distinctive globally 25th-Indian-state-via-1967-Opinion-Poll-aftermath-+-Konkani-language-recognition framework. Daman and Diu remained as separate Union Territory (subsequently merged into Dadra-Nagar-Haveli-Daman-Diu 2020). Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Goa formed as 25th state of India 30 May 1987 via Goa, Daman and Diu Reorganisation Act 1987. Daman and Diu remained as separate Union Territory (subsequently merged into Dadra 2020)."
     },
     {
       "year": 1992,
       "title": "India ratifies UN Convention on the Rights of the Child + Goa-applicability framework",
-      "description": "India ratified UNCRC 11 December 1992 with applicability to Goa — establishing best-interests-of-the-child substantive doctrine within Indian-derivative-common-law framework applicable to Goa + Portuguese Codigo Civil 1867 framework co-applicability. Foundational substantive child-rights framework integration affecting subsequent reform-trajectory."
+      "description": "India ratified UNCRC 11 December 1992 with applicability to Goa — establishing best substantive doctrine within Indian framework applicable to Goa, Portuguese Codigo Civil 1867 framework co-applicability."
     },
     {
       "year": 2017,
       "title": "Goa-Civil-Code-Uniform-Civil-Code-Supreme-Court-praise + UCC-template-+-2024-Uttarakhand-UCC framework",
-      "description": "Supreme Court of India praised Goa's Uniform Civil Code framework as template for India 7 September 2017 — substantively distinctive globally Goa-Civil-Code-+-Uniform-Civil-Code-praise-as-Indian-Constitutional-Article-44-implementation-template framework. Subsequent 2024 Uttarakhand Uniform Civil Code influenced by Goan model. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Supreme Court of India praised Goa's Uniform Civil Code framework as template for India 7 September 2017. Subsequent 2024 Uttarakhand Uniform Civil Code influenced by Goan model."
     },
     {
       "year": 2023,

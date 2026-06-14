@@ -4,7 +4,9 @@
   "name": "Togo (Togolese Republic / République Togolaise)",
   "jurisdiction_code": "TG",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Togo is a West African civil-law unitary republic whose family-law framework operates under the Persons and Family Code 2012 (Code des Personnes et de la Famille, Law 2012-014) drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification and customary-law marriage provisions. Parental authority and child custody are governed by Persons and Family Code arts. 269-302. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Togo is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Togo is non-Hague Convention.",
@@ -70,7 +72,7 @@
     {
       "year": 2005,
       "title": "Faure Gnassingbé presidency succession + dynastic-presidency-continuation",
-      "description": "Faure Gnassingbé assumed presidency 4 May 2005 following death of father Gnassingbé Eyadéma — controversial transition initially through military intervention then constitutionally-amended. Subsequent re-elections 2010, 2015, 2020 — substantively distinctive African dynastic-presidency-continuation pattern."
+      "description": "Faure Gnassingbé assumed presidency 4 May 2005 following death of father Gnassingbé Eyadéma — controversial transition initially through military intervention then constitutionally-amended. Subsequent re-elections 2010, 2015, 2020."
     },
     {
       "year": 2007,
@@ -95,7 +97,7 @@
     {
       "year": 2024,
       "title": "Constitutional reform 2024 + parliamentary-republic transition + Council of Ministers framework",
-      "description": "Major constitutional reform March-April 2024 — substantively transitioning from semi-presidential to parliamentary republic framework with President of Council of Ministers role created. Substantively distinctive constitutional-reform pattern within ECOWAS framework. Faure Gnassingbé appointed President of Council of Ministers May 2024 — continued executive power within new constitutional architecture."
+      "description": "Major constitutional reform March-April 2024 — substantively transitioning from semi-presidential to parliamentary republic framework with President of Council of Ministers role created. Faure Gnassingbé appointed President of Council of Ministers May 2024 — continued executive power within new constitutional architecture."
     },
     {
       "year": 2023,

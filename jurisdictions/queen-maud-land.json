@@ -4,7 +4,9 @@
   "name": "Queen Maud Land (Dronning Maud Land)",
   "jurisdiction_code": "AQ-NO",
   "legal_system": "civil-law",
-  "language": ["no"],
+  "language": [
+    "no"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Queen Maud Land (Dronning Maud Land) is an Antarctic civil-law Norwegian dependency comprising the sector of Antarctica between 20°W and 45°E longitude — structurally distinctive globally as the only national Antarctic territorial claim that extends from 60°S to the South Pole (Norwegian 2015 clarification removing the prior northern-only definition), and as one of seven national Antarctic territorial claims operating under the 1959 Antarctic Treaty's claim-suspension framework (article IV). Queen Maud Land is named after Queen Maud of Norway (Princess Maud of Wales, granddaughter of Queen Victoria) and was annexed by Norway on 14 January 1939. Queen Maud Land has no permanent civilian population — only seasonal Norwegian Polar Institute research staff at Troll research station. Together with Peter I Island, Queen Maud Land forms Norway's two Antarctic dependencies. Family-law framework is theoretical given the absence of permanent civilian population, but operates under Norwegian law applied via the Dependencies Act 1930. Parental authority and child custody would in principle operate under the Norwegian Children Act 1981 (Barnelova). Norwegian courts have jurisdiction over Queen Maud Land matters; final appellate jurisdiction lies with the Supreme Court of Norway. Queen Maud Land is silent on 'parental alienation' as a statutory label. Queen Maud Land is a Hague Convention 1980 party via Norwegian territorial extension.",
@@ -69,27 +71,27 @@
     {
       "year": 1820,
       "title": "Bellingshausen-+-Lazarev-first-sighting-of-Antarctic-continent framework",
-      "description": "Russian Imperial Navy expedition under Fabian Gottlieb von Bellingshausen + Mikhail Lazarev first sighting of Antarctic continent 27 January 1820 — substantively distinctive Antarctic Russian-Imperial-Navy-Antarctic-discovery framework. Foundational pre-1893-Norwegian-Antarctic-expedition framework affecting subsequent Antarctic-territorial-claims-trajectory."
+      "description": "Russian Imperial Navy expedition under Fabian Gottlieb von Bellingshausen, Mikhail Lazarev first sighting of Antarctic continent 27 January 1820."
     },
     {
       "year": 1930,
       "title": "Dependencies Act + Bilandsloven framework",
-      "description": "Norwegian Act 27 February 1930 (Bilandsloven / Dependencies Act) establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework — substantively distinctive Antarctic Norwegian-Antarctic-Sub-Antarctic-dependencies framework applicable to Queen Maud Land + Peter I Island + Bouvet Island. Foundational substantive Norwegian-dependencies framework persisting through subsequent reform-trajectory affecting Queen Maud Land governance."
+      "description": "Norwegian Act 27 February 1930 (Bilandsloven / Dependencies Act) establishing Norway's Antarctic and Sub-Antarctic dependencies governance framework."
     },
     {
       "year": 1939,
       "title": "Queen Maud Land annexation + Royal-Decree-+-anticipated-German-Antarctic-expedition framework",
-      "description": "Norwegian Royal Decree 14 January 1939 formally annexing Queen Maud Land to Norway — substantively distinctive globally only-Antarctic-claim-acquired-via-Royal-Decree-in-response-to-anticipated-German-Schwabenland-expedition framework. Foundational substantive 86-year Norwegian-Queen-Maud-Land framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Norwegian Royal Decree 14 January 1939 formally annexing Queen Maud Land to Norway."
     },
     {
       "year": 1959,
       "title": "Antarctic Treaty + article-IV-claim-suspension framework",
-      "description": "Antarctic Treaty signed 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — substantively distinctive globally Antarctic-claim-suspension framework. Queen Maud Land claim suspended pending Treaty term. Foundational substantive Antarctic-Treaty-System framework affecting subsequent constitutional-administrative-trajectory and cross-border-jurisdiction-practice."
+      "description": "Antarctic Treaty signed 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV. Queen Maud Land claim suspended pending Treaty term."
     },
     {
       "year": 1981,
       "title": "Norwegian Children Act + Barnelova-theoretical-applicability framework",
-      "description": "Norwegian Children Act 1981 (Barnelova) applicable to Queen Maud Land establishing substantive parental responsibility framework — substantively significant Norwegian-family-law framework theoretical given absence of permanent population. Foundational substantive Barnelova framework persisting through subsequent reform-trajectory affecting Norwegian-dependency family-law-implementation."
+      "description": "Norwegian Children Act 1981 (Barnelova) applicable to Queen Maud Land establishing substantive parental responsibility framework — substantively significant Norwegian-family-law framework theoretical given absence of permanent population."
     },
     {
       "year": 1989,
@@ -99,17 +101,17 @@
     {
       "year": 1990,
       "title": "Troll-research-station-+-Norwegian-Polar-Institute framework",
-      "description": "Norwegian Polar Institute Troll research station established 1990 (initially seasonal + year-round-operation 2005) — substantively distinctive Antarctic Norwegian-year-round-research-station framework. Substantive Norwegian Antarctic-research presence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Norwegian Polar Institute Troll research station established 1990 (initially seasonal, year-round-operation 2005)."
     },
     {
       "year": 1991,
       "title": "Madrid Protocol + Antarctic-environmental-protection-+-50-year-mining-prohibition framework",
-      "description": "Madrid Protocol on Environmental Protection to the Antarctic Treaty 4 October 1991 (entered into force 14 January 1998) — substantively distinctive Antarctic environmental-protection-50-year-mining-prohibition framework. Substantive Antarctic-Treaty-System framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Madrid Protocol on Environmental Protection to the Antarctic Treaty 4 October 1991 (entered into force 14 January 1998)."
     },
     {
       "year": 2015,
       "title": "Queen Maud Land southern boundary clarification + only-Antarctic-claim-with-explicit-pole-extension framework",
-      "description": "Norwegian Royal Decree 12 June 2015 clarifying that Queen Maud Land extends from 60°S to the South Pole — substantively distinctive globally only-national-Antarctic-territorial-claim-with-explicit-pole-extension-language framework. Substantive Norwegian-Antarctic-claim framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Norwegian Royal Decree 12 June 2015 clarifying that Queen Maud Land extends from 60°S to the South Pole."
     },
     {
       "year": 2023,

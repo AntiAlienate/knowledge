@@ -4,7 +4,10 @@
   "name": "Uganda (Republic of Uganda)",
   "jurisdiction_code": "UG",
   "legal_system": "common-law",
-  "language": ["en", "sw"],
+  "language": [
+    "en",
+    "sw"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Uganda is an East African common-law unitary republic whose family-law framework operates under the Children Act 1997 (revised 2016, Cap. 59) governing parental responsibility and child custody, supplemented by the Divorce Act (Cap. 249), Marriage Act (Cap. 251), Customary Marriage (Registration) Act, and Marriage and Divorce of Mohammedans Act. The Supreme Court of Uganda is the apex court for civil and criminal matters; the Constitutional Court operates separate constitutional review. Family-law matters are heard at first instance in the Family Division of the High Court and Family and Children Courts at Magistrate level. Psychology profession is regulated through the Allied Health Professionals Council under the Ministry of Health framework with the Uganda Counselling Association operating professional standards. Uganda is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Act s. 3. Uganda acceded to the Hague Convention 1980 effective 1 August 2022.",
@@ -60,22 +63,22 @@
     {
       "year": 1904,
       "title": "Divorce Act + Buganda-Protectorate colonial-era framework",
-      "description": "Federal colonial-era Divorce Act enacted within Buganda Protectorate framework drawing on English-divorce-statute substantive heritage. Foundational pre-independence statutory framework persisting through subsequent reform-trajectory."
+      "description": "Federal colonial-era Divorce Act enacted within Buganda Protectorate framework drawing on English-divorce-statute substantive heritage."
     },
     {
       "year": 1962,
       "title": "Uganda independence + Milton Obote founding-prime-minister",
-      "description": "Uganda independence 9 October 1962 from the United Kingdom — Milton Obote first prime minister 1962-1971. Substantively distinctive East African independence framework. Foundational pre-Amin-era framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Uganda independence 9 October 1962 from the United Kingdom — Milton Obote first prime minister 1962-1971."
     },
     {
       "year": 1971,
       "title": "Idi Amin coup + 8-year-authoritarian-regime framework",
-      "description": "Idi Amin coup d'état 25 January 1971 ending Obote presidency — substantively distinctive globally 8-year authoritarian-regime framework with estimated 300,000-500,000 killed. Substantive 1972 Asian-expulsion substantially affecting demographic and family-law-implementation framework. Foundational pre-Tanzania-Uganda-War framework."
+      "description": "Idi Amin coup d'état 25 January 1971 ending Obote presidency. Substantive 1972 Asian-expulsion substantially affecting demographic and family-law-implementation framework. Foundational pre framework."
     },
     {
       "year": 1986,
       "title": "Museveni-NRM-victory + Bush War end + continuing-presidency framework",
-      "description": "Yoweri Museveni (National Resistance Movement) assumed presidency 29 January 1986 ending Bush War 1981-1986 — substantively distinctive globally one of longest-current-presidencies-in-Africa framework (40+ years through 2026). Substantial post-Bush-War reconstruction framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Yoweri Museveni (National Resistance Movement) assumed presidency 29 January 1986 ending Bush War 1981-1986."
     },
     {
       "year": 1990,
@@ -85,7 +88,7 @@
     {
       "year": 1995,
       "title": "Constitution of Uganda 1995 + multi-party-democratic framework",
-      "description": "Constitution of Uganda 1995 adopted 8 October 1995 substantively reforming political-institutional framework. Foundational substantive-constitutional anchor for contemporary family-law jurisprudence affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of Uganda 1995 adopted 8 October 1995 substantively reforming political-institutional framework."
     },
     {
       "year": 1997,
@@ -95,12 +98,12 @@
     {
       "year": 2009,
       "title": "Lord's Resistance Army end + Joseph Kony + Northern-Uganda-conflict framework",
-      "description": "Lord's Resistance Army (LRA) insurgency 1987-2006/2009 substantively distinctive globally LRA child-soldier-abduction framework — Joseph Kony substantive ICC arrest warrant 2005. Substantive Northern-Uganda armed-conflict framework affecting demographic and family-law-implementation framework."
+      "description": "Substantive Northern-Uganda armed-conflict framework affecting demographic and family-law-implementation framework."
     },
     {
       "year": 2016,
       "title": "Children Act revision + Anti-Homosexuality-Act-context framework",
-      "description": "Substantial revision of Children Act provisions Children (Amendment) Act 2016. Subsequent Anti-Homosexuality Act 2023 substantively distinctive Africa LGBTQ-criminalisation framework substantively affecting subsequent family-law-cross-cutting-areas including same-sex-relationship status."
+      "description": "Substantial revision of Children Act provisions Children (Amendment) Act 2016."
     },
     {
       "year": 2022,

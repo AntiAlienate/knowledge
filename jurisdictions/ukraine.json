@@ -4,7 +4,9 @@
   "name": "Ukraine (Україна)",
   "jurisdiction_code": "UA",
   "legal_system": "civil-law",
-  "language": ["uk"],
+  "language": [
+    "uk"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Ukraine is a civil-law unitary republic whose family-law framework operates under the Family Code of Ukraine (Сімейний кодекс України) Law 2947-III of 10 January 2002, in force 1 January 2004. Parental rights and obligations (батьківські права та обов'язки) are governed by Family Code arts. 121-170; joint exercise during marriage is the statutory default. The Verkhovny Sud (Supreme Court, Kyiv) is the apex court reformed under the 2016 judicial reform; the Constitutional Court of Ukraine operates separate constitutional-review jurisdiction. Psychology profession regulation operates under the Ministry of Health framework with the Ukrainian Psychological Association (UPA) providing peak-body ethics oversight. Ukraine is silent on 'parental alienation' as a statutory label; courts operate substantively under the найкращі інтереси дитини (best-interests-of-the-child) standard. Ukraine is a Council of Europe member; ECHR Strasbourg jurisprudence has produced Ukrainian contact-enforcement cases. The 2022 full-scale Russian invasion has produced significant additional context: many family-court matters have been disrupted or relocated, and a substantial body of cross-border-displacement custody matters has emerged.",
@@ -100,7 +102,7 @@
     {
       "year": 2023,
       "title": "ICC arrest warrant for Putin + child-deportation framework + Yarmosh Bring Kids Back UA framework",
-      "description": "International Criminal Court (ICC) arrest warrant issued 17 March 2023 for Russian President Vladimir Putin + Russian Commissioner for Children's Rights Maria Lvova-Belova on charges of unlawful deportation of Ukrainian children — substantively distinctive globally first ICC arrest warrant against sitting permanent UN Security Council member state head + Ukrainian government Bring Kids Back UA initiative documenting 19,500+ deported Ukrainian children to Russia + Russian-annexed territories framework + structurally distinctive globally largest sustained cross-border-child-deportation-as-war-crime framework + substantive intersection with Hague Convention 1980 framework + Geneva Convention IV Article 49 framework + Genocide Convention Article II(e) framework + substantive family-law-implementation framework for Ukrainian-deported-child family-reunification."
+      "description": "International Criminal Court (ICC) arrest warrant issued 17 March 2023 for Russian President Vladimir Putin, Russian Commissioner for Children's Rights Maria Lvova-Belova on charges of unlawful deportation of Ukrainian children."
     },
     {
       "year": 2023,

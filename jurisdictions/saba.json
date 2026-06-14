@@ -4,7 +4,10 @@
   "name": "Saba (The Unspoiled Queen)",
   "jurisdiction_code": "BQ-SA",
   "legal_system": "civil-law",
-  "language": ["nl", "en"],
+  "language": [
+    "nl",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Saba (popularly 'The Unspoiled Queen' in English-language framework) is a Caribbean Leeward Islands civil-law Dutch special municipality (bijzondere gemeente) within the Caribbean Netherlands (BES Islands: Bonaire + Sint Eustatius + Saba) — structurally distinctive globally as the smallest formally-administered Dutch sub-national jurisdiction by area (~13 km² — smallest special-municipality framework in the Kingdom of the Netherlands, smaller than rest-of-Dutch-Caribbean special-municipalities Bonaire ~294 km² + Sint Eustatius ~21 km²), as the only Dutch sub-national jurisdiction operating on an extinct stratovolcano (Mount Scenery 877m — highest point in the entire Kingdom of the Netherlands including European Netherlands, structurally distinctive as the only modern Dutch sub-national jurisdiction with formal volcanic-topographic framework, Saba is essentially a single volcanic island with no flat areas), as one of the most distinctive modern formal-equality LGBT-rights frameworks in the Caribbean (Saba conducted the first same-sex marriage in the entire Caribbean region 9 October 2012 — first legally-recognised same-sex marriage in the Caribbean under Dutch Federal same-sex marriage framework 2001, distinct from rest-of-Caribbean which continued sole-different-sex marriage frameworks), and as a distinctive Atlantic-historical jurisdiction (Saba operated continuous English-language framework in formal-administrative + community-cultural usage despite Dutch sovereignty — distinct from rest-of-Dutch-Caribbean frameworks where Papiamento + Dutch dominate, due to historical English/Scottish/Irish settlement). Saba operated under Dutch West India Company framework 1640s onwards + occasional French + British alternations 17th-19th centuries, operated as part of Netherlands Antilles 1954-2010, and was integrated as Dutch special municipality 10 October 2010 following Netherlands Antilles dissolution framework. Saba comprises ~13 km² with a population of ~1,900. Family-law framework operates under the federal Dutch civil-law framework (Dutch Civil Code 1992 Book 1 Family Law portion) applied uniformly across Dutch sub-national jurisdictions. The Court of First Instance (Saba Branch) is the apex regional court; final appellate jurisdiction lies with the Common Court of Justice of Aruba + Curaçao + Sint Maarten + BES + Supreme Court of the Netherlands. Saba is silent on 'parental alienation' as a statutory label. The Netherlands is a Hague Convention 1980 signatory and party (acceded 12 June 1990 effective 1 September 1990) — Saba is governed by Dutch Hague-Convention-1980 framework via Caribbean Netherlands status.",
@@ -75,47 +78,47 @@
     {
       "year": 1640,
       "title": "Dutch West India Company colonisation + English-Scottish-Irish-settlement framework",
-      "description": "Dutch West India Company colonisation of Saba 1640s — substantively distinctive Caribbean Leeward Islands Dutch-West-India-Company framework. Subsequent 17th-19th century alternating French/British control with persistent English/Scottish/Irish settlement establishing continuous English-language framework despite Dutch sovereignty. Foundational pre-1954-Netherlands-Antilles framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Dutch West India Company colonisation of Saba 1640s. Subsequent 17th-19th century alternating French/British control with persistent English/Scottish/Irish settlement establishing continuous English-language framework despite Dutch sovereignty."
     },
     {
       "year": 1816,
       "title": "Final Dutch sovereignty restoration + Anglo-Dutch-treaty framework",
-      "description": "Final Dutch sovereignty over Saba restored 1816 following Anglo-Dutch Treaty + Napoleonic Wars-era British occupations — substantively distinctive Caribbean Dutch-sovereignty-restoration framework. Foundational pre-1845-Council-of-Sint-Eustatius framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Final Dutch sovereignty over Saba restored 1816 following Anglo-Dutch Treaty, Napoleonic Wars-era British occupations."
     },
     {
       "year": 1845,
       "title": "Council of Sint Eustatius + colonial-administrative framework",
-      "description": "Council of Sint Eustatius 1845 framework with Saba + Sint Eustatius + Dutch Sint Maarten under combined administration — substantively distinctive Caribbean Leeward Islands Dutch-colonial-administrative framework. Foundational pre-1954-Netherlands-Antilles framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Council of Sint Eustatius 1845 framework with Saba, Sint Eustatius, Dutch Sint Maarten under combined administration."
     },
     {
       "year": 1954,
       "title": "Netherlands Antilles established + Charter-for-the-Kingdom framework",
-      "description": "Netherlands Antilles established 15 December 1954 under Charter for the Kingdom of the Netherlands — substantively distinctive Caribbean Dutch-Kingdom-Charter framework. Saba incorporated as constituent island. Foundational substantive 56-year Netherlands-Antilles-constituent-island framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Netherlands Antilles established 15 December 1954 under Charter for the Kingdom of the Netherlands. Saba incorporated as constituent island."
     },
     {
       "year": 1992,
       "title": "Dutch Civil Code Book 1 Family Law + family-law framework",
-      "description": "Dutch Civil Code 1992 Book 1 Family Law portion applicable uniformly across Saba — substantively significant Caribbean Dutch-Civil-Code Book-1-Family-Law framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Dutch Civil Code 1992 Book 1 Family Law portion applicable uniformly across Saba — substantively significant Caribbean Dutch-Civil-Code Book framework."
     },
     {
       "year": 1995,
       "title": "Dutch UNCRC ratification + Saba-extension framework",
-      "description": "Netherlands ratified UNCRC 6 February 1995 with extension to Saba via Netherlands Antilles framework — establishing best-interests-of-the-child substantive doctrine within Dutch-derivative-civil-law framework applicable to Saba. Foundational substantive child-rights framework integration affecting subsequent reform-trajectory."
+      "description": "Netherlands ratified UNCRC 6 February 1995 with extension to Saba via Netherlands Antilles framework — establishing best substantive doctrine within Dutch framework applicable to Saba."
     },
     {
       "year": 2001,
       "title": "Dutch Same-Sex Marriage Act + first-globally framework",
-      "description": "Dutch Same-Sex Marriage Act 21 December 2000 effective 1 April 2001 — substantively distinctive globally first-formal-same-sex-marriage-framework-globally framework. Applicable to Saba from 10 October 2010 setting up subsequent 2012 first-Caribbean-same-sex-marriage framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Dutch Same-Sex Marriage Act 21 December 2000 effective 1 April 2001."
     },
     {
       "year": 2010,
       "title": "Netherlands Antilles dissolution + 10-10-10 + special-municipality-integration framework",
-      "description": "Netherlands Antilles dissolution 10 October 2010 — substantively distinctive globally Kingdom-of-the-Netherlands-restructuring framework. Saba integrated as Dutch special municipality (bijzondere gemeente) within Caribbean Netherlands (BES Islands: Bonaire + Sint Eustatius + Saba). Substantive constitutional-democratic-trajectory framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Netherlands Antilles dissolution 10 October 2010. Saba integrated as Dutch special municipality (bijzondere gemeente) within Caribbean Netherlands (BES Islands: Bonaire, Sint Eustatius, Saba)."
     },
     {
       "year": 2012,
       "title": "First Caribbean same-sex marriage + Saba-marriage-equality framework",
-      "description": "First same-sex marriage in the entire Caribbean region conducted in Saba 9 October 2012 — substantively distinctive globally first-legally-recognised-same-sex-marriage-in-the-Caribbean framework under Dutch Federal same-sex marriage framework 2001. Substantive Caribbean marriage-equality framework affecting subsequent constitutional-democratic-trajectory across Caribbean cluster."
+      "description": "First same-sex marriage in the entire Caribbean region conducted in Saba 9 October 2012."
     },
     {
       "year": 2023,

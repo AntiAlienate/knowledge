@@ -4,7 +4,9 @@
   "name": "Austria (Österreich)",
   "jurisdiction_code": "AT",
   "legal_system": "civil-law",
-  "language": ["de"],
+  "language": [
+    "de"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Austria is a civil-law federal republic whose family-court framework operates under the Allgemeines bürgerliches Gesetzbuch (ABGB) and the Außerstreitgesetz (AußStrG). Parental authority (Obsorge) is governed by ABGB §§ 158-186, with joint Obsorge the default following the 2013 Kindschafts- und Namensrechts-Änderungsgesetz (KindNamRÄG 2013). Personal contact (Kontaktrecht) is governed by ABGB § 187. The Oberster Gerichtshof (OGH, Vienna) is the apex court in civil matters; family-law decisions reach OGH via Revisionsrekurs from regional appellate courts. Psychology profession is regulated under the federal Psychologengesetz 2013 (PG 2013) with statutory title protection. Austria is silent on 'parental alienation' as a statutory label; OGH practice operates substantively under the Kindeswohl welfare standard.",
@@ -68,7 +70,7 @@
     {
       "year": 1811,
       "title": "Allgemeines bürgerliches Gesetzbuch (ABGB) + Habsburg-era civil-code framework",
-      "description": "Austrian Civil Code (Allgemeines bürgerliches Gesetzbuch / ABGB) enacted 1 June 1811 under Emperor Francis II — among the oldest continuously-operating civil codes globally (second only to French Civil Code 1804). Substantively distinctive Habsburg-era civil-codification framework persisting through Habsburg Empire dissolution, First Republic, Anschluss, post-WWII reconstruction. Foundational substantive-civil-law framework for contemporary family-law-jurisprudence."
+      "description": "Austrian Civil Code (Allgemeines bürgerliches Gesetzbuch / ABGB) enacted 1 June 1811 under Emperor Francis II — among the oldest continuously-operating civil codes globally (second only to French Civil Code 1804)."
     },
     {
       "year": 1918,
@@ -98,7 +100,7 @@
     {
       "year": 2011,
       "title": "Children's Rights Constitutional Act 2011 + BVG-Kinderrechte framework",
-      "description": "Bundesverfassungsgesetz über die Rechte von Kindern (BVG-Kinderrechte) enacted 16 February 2011 — substantively elevating UNCRC children's rights to constitutional status within Austrian federal-constitutional framework. Substantively distinctive constitutional-children's-rights framework affecting subsequent OGH jurisprudence."
+      "description": "Bundesverfassungsgesetz über die Rechte von Kindern (BVG-Kinderrechte) enacted 16 February 2011 — substantively elevating UNCRC children's rights to constitutional status within Austrian federal-constitutional framework."
     },
     {
       "year": 2013,
@@ -113,7 +115,7 @@
     {
       "year": 2019,
       "title": "Ehe für alle + same-sex marriage + Constitutional Court framework",
-      "description": "Austria Ehe für alle (Marriage for All) effective 1 January 2019 following Austrian Constitutional Court (Verfassungsgerichtshof) judgment G 258-259/2017 of 4 December 2017 — substantively distinctive Alpine Constitutional-Court-driven same-sex-marriage legalisation framework + structurally distinctive globally only modern Constitutional-Court-ordered same-sex-marriage framework + substantive ABGB amendments for same-sex-parenting + adoption-by-same-sex-couples framework + foundational substantive same-sex-family framework affecting subsequent OGH Kindeswohl jurisprudence under ABGB §§ 137-145 + KindNamRÄG 2013 framework + subsequent constitutional-democratic-trajectory."
+      "description": "Austria Ehe für alle (Marriage for All) effective 1 January 2019 following Austrian Constitutional Court (Verfassungsgerichtshof) judgment G 258-259/2017 of 4 December 2017."
     },
     {
       "year": 2023,

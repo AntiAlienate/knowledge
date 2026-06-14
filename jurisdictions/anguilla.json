@@ -4,7 +4,9 @@
   "name": "Anguilla",
   "jurisdiction_code": "AI",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Anguilla is a Caribbean common-law British Overseas Territory whose family-law framework operates under the Children Act 2014 (drawing on English Children Act 1989 model), the Matrimonial Proceedings and Property Act, and the Status of Children Act. Parental responsibility and child custody are governed by Children Act 2014 Part II. The Court of Appeal of the Eastern Caribbean Supreme Court (sitting for Anguilla) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the High Court of Justice and Magistrates' Court. Psychology profession is regulated through the Anguilla Ministry of Health framework. Anguilla is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Children Act 2014 s. 3. Anguilla is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
@@ -48,12 +50,12 @@
     {
       "year": 1967,
       "title": "Anguillan revolution + 1967-1971 secession-from-St-Kitts framework",
-      "description": "Anguillan revolution 30 May 1967 — Anguilla declared independence from State of St Christopher-Nevis-Anguilla. Substantively distinctive Caribbean secession-from-associated-statehood pattern. Subsequent UK military intervention 1969 (Operation Sheepskin) restored British authority. Substantive Caribbean political-distinctive framework affecting subsequent constitutional-administrative trajectory."
+      "description": "Anguillan revolution 30 May 1967 — Anguilla declared independence from State of St Christopher-Nevis-Anguilla. Subsequent UK military intervention 1969 (Operation Sheepskin) restored British authority."
     },
     {
       "year": 1980,
       "title": "Anguilla formal separation from St Kitts-Nevis + BOT consolidation",
-      "description": "Anguilla formally separated from State of St Kitts-Nevis-Anguilla 19 December 1980 — becoming separate British Dependent Territory (later British Overseas Territory). Substantively distinctive constitutional-rearrangement framework within Caribbean cluster — only post-independence-secession-reversal-to-BOT-status globally."
+      "description": "Anguilla formally separated from State of St Kitts-Nevis-Anguilla 19 December 1980 — becoming separate British Dependent Territory (later British Overseas Territory)."
     },
     {
       "year": 1982,

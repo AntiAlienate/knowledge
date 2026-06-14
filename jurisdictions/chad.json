@@ -4,7 +4,10 @@
   "name": "Chad (Republic of Chad / République du Tchad / تشاد)",
   "jurisdiction_code": "TD",
   "legal_system": "mixed",
-  "language": ["fr", "ar"],
+  "language": [
+    "fr",
+    "ar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Chad is a Central African mixed-legal-system republic combining French civil-law substantive heritage (via colonial inheritance) with Maliki Islamic-law personal-status provisions (for the Muslim-majority population) and customary-law jurisdiction. Family-law framework operates under the Code of Persons and Family 2002 (draft Code Civil pending — substantive family-law remains largely uncodified) supplemented by Civil Code 1958 residual application drawing on French Napoleonic heritage. Chad is structurally distinctive within the corpus alongside Niger as among the few states without a comprehensive Family or Persons and Family Code — family-law operates through dispersed statutes, Islamic-law for Muslim communities, and customary-law jurisdiction. Parental authority and child custody are governed by Civil Code arts. 371-387 residually. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil Constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance, Islamic Sharia courts, and customary courts. Psychology profession is regulated through the Ministry of Health framework. Chad is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Chad is non-Hague Convention.",
@@ -60,12 +63,12 @@
     {
       "year": 1960,
       "title": "Chad independence + Tombalbaye presidency context",
-      "description": "Chad achieved independence 11 August 1960 from France. François Tombalbaye presidency 1960-1975 — among shortest Cold-War-era African presidencies ended by 1975 coup d'état. Substantively distinctive recurring-conflict-and-instability pattern persisting through subsequent decades."
+      "description": "Chad achieved independence 11 August 1960 from France. François Tombalbaye presidency 1960-1975 — among shortest Cold-War-era African presidencies ended by 1975 coup d'état."
     },
     {
       "year": 1965,
       "title": "Chadian Civil War begins (1965-1979) + Habré era subsequent",
-      "description": "Chadian Civil War 1965-1979 ended Tombalbaye 1975 with coup; subsequent instability through Habré (1982-1990) and Idriss Déby (1990-2021) presidencies. Substantively distinctive recurring-armed-conflict pattern affecting family-law-implementation through multiple-decade-instability periods."
+      "description": "Chadian Civil War 1965-1979 ended Tombalbaye 1975 with coup; subsequent instability through Habré (1982-1990) and Idriss Déby (1990-2021) presidencies."
     },
     {
       "year": 1990,
@@ -80,7 +83,7 @@
     {
       "year": 2002,
       "title": "Draft Code of Persons and Family pending + non-codification distinctive",
-      "description": "Draft Code of Persons and Family 2002 pending comprehensive family-law codification — not enacted as of 2026. Substantively distinctive globally: Chad among the few states without comprehensive Family or Persons and Family Code, family-law operating through dispersed statutes, Maliki Islamic-law for Muslim-majority population (~55% Muslim), and customary-law jurisdiction."
+      "description": "Draft Code of Persons and Family 2002 pending comprehensive family-law codification — not enacted as of 2026."
     },
     {
       "year": 2018,
@@ -90,7 +93,7 @@
     {
       "year": 2021,
       "title": "Idriss Déby death + Mahamat Déby military-transitional council + Patriotic Salvation Movement",
-      "description": "Idriss Déby died 20 April 2021 from injuries sustained in clash with rebel forces — son Mahamat Déby assumed power through Transitional Military Council. Substantively distinctive dynastic-military-transition pattern. Substantial political-institutional disruption affecting family-law-implementation."
+      "description": "Idriss Déby died 20 April 2021 from injuries sustained in clash with rebel forces — son Mahamat Déby assumed power through Transitional Military Council. Substantial political-institutional disruption affecting family-law-implementation."
     },
     {
       "year": 2023,

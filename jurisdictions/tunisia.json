@@ -4,7 +4,10 @@
   "name": "Tunisia (Republic of Tunisia / الجمهورية التونسية)",
   "jurisdiction_code": "TN",
   "legal_system": "mixed",
-  "language": ["ar", "fr"],
+  "language": [
+    "ar",
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Tunisia is a North African mixed-legal-system republic combining French civil-law substantive heritage (via Protectorate inheritance) with Maliki-school Islamic-law personal-status jurisdiction codified in the Code of Personal Status 1956 (Majalla al-Ahwal al-Shakhsiyya). Tunisia's 1956 Code is structurally distinctive as the most progressive MENA-region family-law statute — abolishing polygamy outright (art. 18), requiring judicial-only divorce, codifying gender equality in inheritance and child custody. Custody (hadana) and guardianship (wilaya) are governed by Code of Personal Status arts. 54-67. The Court of Cassation (محكمة التعقيب) is the apex court for civil and criminal matters; the Constitutional Court (المحكمة الدستورية) operates constitutional review. Family-law matters are heard at first instance in Family Sections of the Court of First Instance. Psychology profession is regulated through the Ministry of Health framework. Tunisia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Code of Personal Status art. 67. Tunisia acceded to the Hague Convention 1980 effective 1 July 2017.",
@@ -60,17 +63,17 @@
     {
       "year": 1956,
       "title": "Tunisia independence + Bourguiba + Code of Personal Status",
-      "description": "Tunisia independence 20 March 1956 from France — Habib Bourguiba first president. Landmark Code of Personal Status (Majalla al-Ahwal al-Shakhsiyya) enacted 13 August 1956 — abolishing polygamy (art. 18), codifying judicial-only divorce, requiring gender equality in inheritance and child custody. Substantively distinctive globally most-progressive-MENA-region family-law statute. Arts. 54-67 govern hadana and wilaya."
+      "description": "Tunisia independence 20 March 1956 from France — Habib Bourguiba first president. Landmark Code of Personal Status (Majalla al-Ahwal al-Shakhsiyya) enacted 13 August 1956 — abolishing polygamy (art. 18), codifying judicial-only divorce, requiring gender equality in inheritance and child custody. Arts. 54-67 govern hadana and wilaya."
     },
     {
       "year": 1959,
       "title": "Constitution 1959 + presidential-republic framework",
-      "description": "Constitution of Tunisia 1959 adopted 1 June 1959 establishing presidential-republic framework. Foundational pre-1987-Ben-Ali framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of Tunisia 1959 adopted 1 June 1959 establishing presidential-republic framework."
     },
     {
       "year": 1987,
       "title": "Ben Ali bloodless-coup + 23-year-authoritarian framework",
-      "description": "Ben Ali bloodless-coup 7 November 1987 ending Bourguiba presidency — substantively distinctive Maghreb extended-authoritarian framework 1987-2011 (23 years). Substantive substantial 'Ben Ali era' framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Ben Ali bloodless-coup 7 November 1987 ending Bourguiba presidency."
     },
     {
       "year": 1992,
@@ -85,7 +88,7 @@
     {
       "year": 2010,
       "title": "Tunisian Revolution + Arab-Spring-trigger + Ben-Ali-fall framework",
-      "description": "Tunisian Revolution 17 December 2010 – 14 January 2011 ending Ben Ali era — substantively distinctive globally Arab-Spring-trigger framework. Ben Ali exile 14 January 2011. Substantively significant 21st-century MENA-region democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Tunisian Revolution 17 December 2010 – 14 January 2011 ending Ben Ali era. Ben Ali exile 14 January 2011."
     },
     {
       "year": 2014,
@@ -100,7 +103,7 @@
     {
       "year": 2021,
       "title": "Saied 2021 self-coup + Constitution 2022 + democratic-backsliding framework",
-      "description": "Saied 2021 self-coup 25 July 2021 — Kaïs Saied suspended parliament substantively reshaping political-institutional framework. Constitution 2022 adopted 25 July 2022 by referendum (94.6% in favour with 30.5% turnout) substantively reverting to presidential-system framework. Substantively distinctive Arab-Spring-democratic-backsliding framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Saied 2021 self-coup 25 July 2021 — Kaïs Saied suspended parliament substantively reshaping political-institutional framework. Constitution 2022 adopted 25 July 2022 by referendum (94.6% in favour with 30.5% turnout) substantively reverting to presidential-system framework."
     },
     {
       "year": 2023,

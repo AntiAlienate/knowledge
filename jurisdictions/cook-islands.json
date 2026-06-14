@@ -4,7 +4,10 @@
   "name": "Cook Islands (Kūki 'Āirani)",
   "jurisdiction_code": "CK",
   "legal_system": "common-law",
-  "language": ["en", "rar"],
+  "language": [
+    "en",
+    "rar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Cook Islands is a Pacific Island common-law self-governing state in free association with New Zealand — structurally distinctive globally as the only Cook Islands-status free-association state with New Zealand. Family-law framework operates under the Cook Islands Act 1915 (NZ) (parts retained at self-government), the Matrimonial Property Act 1991-92, the Family Law Act 2005, and the Crimes Act 1969 family-protection provisions. Cook Islands retained NZ citizenship for Cook Islanders and certain UK/NZ statutes in force at 1965 self-government. Parental responsibility and child custody are governed by Family Law Act 2005 and case-law applying the welfare-of-the-child principle. The High Court of the Cook Islands is the apex domestic court for civil and criminal matters; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. The Maori Land Court / Land Division operates parallel customary-land jurisdiction. Family-law matters are heard at first instance in the High Court (Civil Division) and Justice of the Peace Courts. Psychology profession is regulated through the Ministry of Health framework. Cook Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Cook Islands is non-Hague Convention — Hague Convention 1980 does not apply via New Zealand territorial extension.",
@@ -55,27 +58,27 @@
     {
       "year": 1901,
       "title": "Cook Islands annexation to New Zealand + colonial-administration framework",
-      "description": "Cook Islands annexed to New Zealand 11 June 1901 — substantively distinctive Pacific colonial-administration framework. Foundational pre-self-government framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Cook Islands annexed to New Zealand 11 June 1901."
     },
     {
       "year": 1915,
       "title": "Cook Islands Act 1915 (NZ) + administrative-restructuring framework",
-      "description": "Cook Islands Act 1915 enacted by New Zealand Parliament establishing comprehensive administrative and family-law framework — parts retained at 1965 self-government. Substantively significant NZ-Pacific-dependency-administration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Cook Islands Act 1915 enacted by New Zealand Parliament establishing comprehensive administrative and family-law framework — parts retained at 1965 self-government."
     },
     {
       "year": 1965,
       "title": "Self-government in free association with New Zealand + Albert Henry founding-premiership",
-      "description": "Cook Islands achieved self-government in free association with New Zealand 4 August 1965 — substantively distinctive globally Cook-Islands-free-association framework. Albert Henry first Premier 1965-1978 substantively distinctive Pacific founding-premiership framework. Foundational constitutional framework for contemporary family-law-jurisprudence."
+      "description": "Cook Islands achieved self-government in free association with New Zealand 4 August 1965. Foundational constitutional framework for contemporary family-law-jurisprudence."
     },
     {
       "year": 1991,
       "title": "Cook Islands ratifies UN Convention on the Rights of the Child + free-association-treaty-making-capacity",
-      "description": "Cook Islands ratified the UNCRC on 6 June 1997 independently of New Zealand — substantively distinctive free-association-treaty-making-capacity framework. Substantive best-interests-of-the-child substantive doctrine within common-law framework."
+      "description": "Cook Islands ratified the UNCRC on 6 June 1997 independently of New Zealand. Substantive best substantive doctrine within common-law framework."
     },
     {
       "year": 1991,
       "title": "Matrimonial Property Act 1991-92 + statutory framework",
-      "description": "Matrimonial Property Act 1991-92 enacted — federal statute on matrimonial property division on divorce. Foundational statutory framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Matrimonial Property Act 1991-92 enacted — federal statute on matrimonial property division on divorce."
     },
     {
       "year": 1997,

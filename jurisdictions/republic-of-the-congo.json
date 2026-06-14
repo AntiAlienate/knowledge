@@ -4,7 +4,9 @@
   "name": "Republic of the Congo (Congo-Brazzaville / République du Congo)",
   "jurisdiction_code": "CG",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Republic of the Congo (Congo-Brazzaville) is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1984 (Code de la Famille, Law 73/84 of 17 October 1984) drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 322-345. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. Republic of the Congo is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Republic of the Congo acceded to the Hague Convention 1980 effective 1 March 2009.",
@@ -55,22 +57,22 @@
     {
       "year": 1960,
       "title": "Congo-Brazzaville independence + Fulbert Youlou founding-presidency",
-      "description": "Republic of the Congo independence 15 August 1960 from France — Fulbert Youlou first president 1960-1963 substantively distinctive Central African founding-presidency framework. Foundational pre-Marxist-Leninist framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Republic of the Congo independence 15 August 1960 from France."
     },
     {
       "year": 1969,
       "title": "People's Republic of the Congo + Marien Ngouabi + Marxist-Leninist framework",
-      "description": "People's Republic of the Congo (République populaire du Congo) established 31 December 1969 under Marien Ngouabi — substantively distinctive Central African Marxist-Leninist framework 1969-1992. Substantive Cold-War-era political-institutional framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "People's Republic of the Congo (République populaire du Congo) established 31 December 1969 under Marien Ngouabi."
     },
     {
       "year": 1979,
       "title": "Sassou-Nguesso first presidency + extended-presidential framework",
-      "description": "Denis Sassou-Nguesso assumed presidency 8 February 1979 — substantively distinctive Central African extended-presidency framework 1979-1992 (13 years) + 1997-present (29 years and continuing through 2026) = 42 years total. Substantively distinctive globally one of longest-current-presidencies-in-Africa framework."
+      "description": "Denis Sassou-Nguesso assumed presidency 8 February 1979."
     },
     {
       "year": 1984,
       "title": "Family Code 1984 (Law 73/84)",
-      "description": "Federal Family Code enacted 17 October 1984 drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 322-345 govern parental authority and child custody. Foundational substantive-family-law framework persisting through subsequent regime-changes."
+      "description": "Federal Family Code enacted 17 October 1984 drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 322-345 govern parental authority and child custody."
     },
     {
       "year": 1990,
@@ -80,12 +82,12 @@
     {
       "year": 1991,
       "title": "Sovereign National Conference + democratic-transition + Lissouba framework",
-      "description": "Congo Sovereign National Conference 25 February – 10 June 1991 substantively distinctive Central African democratic-transition framework. Pascal Lissouba elected President August 1992 ending Sassou-Nguesso first presidency. Subsequent Constitution of Congo-Brazzaville 1992 establishing democratic-trajectory framework."
+      "description": "Pascal Lissouba elected President August 1992 ending Sassou-Nguesso first presidency. Subsequent Constitution of Congo-Brazzaville 1992 establishing democratic-trajectory framework."
     },
     {
       "year": 1997,
       "title": "Congo Civil War 1997-1999 + Sassou-Nguesso return + armed-conflict framework",
-      "description": "Congo Civil War 5 June 1997 – December 1999 — Sassou-Nguesso militia (Cobras) defeated Lissouba forces. Sassou-Nguesso resumed presidency 25 October 1997 — substantively distinctive Central African return-to-power-via-civil-war framework. Substantive armed-conflict framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Congo Civil War 5 June 1997 – December 1999 — Sassou-Nguesso militia (Cobras) defeated Lissouba forces. Sassou-Nguesso resumed presidency 25 October 1997."
     },
     {
       "year": 2002,

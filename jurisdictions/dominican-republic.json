@@ -4,7 +4,9 @@
   "name": "Dominican Republic (República Dominicana)",
   "jurisdiction_code": "DO",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Dominican Republic is a Caribbean civil-law republic whose family-law framework operates under the Civil Code (Código Civil, drawing on French Napoleonic Code substantive heritage via 19th-century adoption) supplemented by the Code for the System of Protection and Fundamental Rights of Children and Adolescents 2003 (Law 136-03, replacing 1994 Code for Minors). Parental authority (autoridad parental) and child custody are governed by Civil Code arts. 371-387 and Law 136-03 Title II. The Supreme Court of Justice (Suprema Corte de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional, established 2010) operates separate constitutional review. Family-law matters are heard at first instance in the Children and Adolescents Courts (Tribunales de Niños, Niñas y Adolescentes). Psychology profession is regulated through the Colegio Dominicano de Psicólogos (CODOPSI). The Dominican Republic is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Law 136-03 art. 5. The Dominican Republic acceded to the Hague Convention 1980 effective 1 November 2004.",
@@ -55,22 +57,22 @@
     {
       "year": 1844,
       "title": "Dominican Republic independence + Trinitarios + Haiti-DR separation framework",
-      "description": "Dominican Republic independence 27 February 1844 from Haiti (22-year-Haitian-occupation 1822-1844) — Juan Pablo Duarte and Trinitarios framework. Substantively distinctive globally only-Latin-American-state-with-independence-from-another-Latin-American-state-not-European-power framework. Foundational Hispaniola-shared-island framework affecting subsequent cross-border-jurisdiction-practice."
+      "description": "Dominican Republic independence 27 February 1844 from Haiti (22 1822-1844) — Juan Pablo Duarte and Trinitarios framework."
     },
     {
       "year": 1884,
       "title": "Civil Code adoption (French Napoleonic)",
-      "description": "Federal Civil Code adopted via Napoleonic Code substantive heritage. Arts. 371-387 govern autoridad parental and child custody. Foundational substantive-civil-law framework persisting through subsequent reform-trajectory."
+      "description": "Federal Civil Code adopted via Napoleonic Code substantive heritage. Arts. 371-387 govern autoridad parental and child custody."
     },
     {
       "year": 1930,
       "title": "Trujillo dictatorship + 31-year-authoritarian framework",
-      "description": "Rafael Trujillo dictatorship 1930-1961 — substantively distinctive Caribbean 31-year-authoritarian framework. Substantive 1937 Parsley Massacre (estimated 17,000-35,000 Haitians killed) substantially affecting demographic and family-law-implementation framework. Foundational pre-democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Rafael Trujillo dictatorship 1930-1961. Substantive 1937 Parsley Massacre (estimated 17,000-35,000 Haitians killed) substantially affecting demographic and family-law-implementation framework."
     },
     {
       "year": 1965,
       "title": "1965 Dominican Civil War + US intervention + democratic-restoration framework",
-      "description": "1965 Dominican Civil War 24 April – 3 September 1965 substantively distinctive Caribbean Cold-War-era armed-conflict framework. US-OAS intervention 28 April 1965. Substantive Constitutional restoration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "US-OAS intervention 28 April 1965."
     },
     {
       "year": 1991,
@@ -80,7 +82,7 @@
     {
       "year": 1994,
       "title": "Code for Minors 1994 + pre-2003-framework framework",
-      "description": "Code for Minors enacted 1994 establishing pre-Law-136-03 child-protection framework — substantively significant Caribbean civil-law child-protection-framework. Foundational pre-2003 substantive-framework affecting subsequent reform-trajectory."
+      "description": "Code for Minors enacted 1994 establishing pre child-protection framework — substantively significant Caribbean civil-law child-protection-framework."
     },
     {
       "year": 2003,
@@ -95,7 +97,7 @@
     {
       "year": 2010,
       "title": "Constitution 2010 + Constitutional Court established",
-      "description": "Constitution of the Dominican Republic 2010 adopted 26 January 2010 substantively reforming political-institutional framework. Constitutional Court (Tribunal Constitucional) established with original jurisdiction over constitutional review. Substantive constitutional-judicial framework affecting subsequent family-law-jurisprudence."
+      "description": "Constitution of the Dominican Republic 2010 adopted 26 January 2010 substantively reforming political-institutional framework. Constitutional Court (Tribunal Constitucional) established with original jurisdiction over constitutional review."
     },
     {
       "year": 2023,

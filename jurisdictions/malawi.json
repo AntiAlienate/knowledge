@@ -4,7 +4,10 @@
   "name": "Malawi (Republic of Malawi)",
   "jurisdiction_code": "MW",
   "legal_system": "common-law",
-  "language": ["en", "ny"],
+  "language": [
+    "en",
+    "ny"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Malawi is a Southeast African common-law unitary republic whose family-law framework operates under the Marriage, Divorce and Family Relations Act 2015 (Act 4 of 2015) — comprehensive family-law statute consolidating prior dispersed statutes, supplemented by the Child Care, Protection and Justice Act 2010 (Act 22 of 2010). Parental responsibility and child custody are governed by Marriage, Divorce and Family Relations Act Part VIII and Child Care, Protection and Justice Act Part III. The Supreme Court of Appeal is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Medical Council of Malawi framework with the Malawi Psychological Association operating professional standards. Malawi is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Child Care, Protection and Justice Act s. 4. Malawi is non-Hague Convention.",
@@ -54,12 +57,12 @@
     {
       "year": 1964,
       "title": "Malawi independence + Hastings Banda founding-presidency",
-      "description": "Malawi independence 6 July 1964 from the United Kingdom — establishing constitutional-monarchy framework. Hastings Kamuzu Banda first prime minister 1964-1966, first president 1966-1994 substantively distinctive African 30-year-authoritarian framework. Foundational pre-democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Malawi independence 6 July 1964 from the United Kingdom — establishing constitutional-monarchy framework."
     },
     {
       "year": 1966,
       "title": "Republic transition + Banda Life-Presidency framework",
-      "description": "Malawi became a republic 6 July 1966. Subsequent Banda Life-Presidency framework 1971 substantively distinctive African Life-Presidency pattern. Substantive Cold-War-era Malawi-South-Africa Apartheid-relations framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Malawi became a republic 6 July 1966."
     },
     {
       "year": 1991,
@@ -69,7 +72,7 @@
     {
       "year": 1993,
       "title": "Democratic transition + multi-party referendum + 1994 election",
-      "description": "Democratic transition 1992-1994 — multi-party referendum 14 June 1993 (63% in favour). Bakili Muluzi (United Democratic Front) elected President 17 May 1994 ending 30-year Banda era. Substantively distinctive Southern African democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Democratic transition 1992-1994 — multi-party referendum 14 June 1993 (63% in favour). Bakili Muluzi (United Democratic Front) elected President 17 May 1994 ending 30-year Banda era."
     },
     {
       "year": 1994,
@@ -84,17 +87,17 @@
     {
       "year": 2012,
       "title": "Joyce Banda presidency + first-female-president-Southern-Africa framework",
-      "description": "Joyce Banda assumed presidency 7 April 2012 following Bingu wa Mutharika's death — substantively distinctive Southern African first-female-president framework. Substantive constitutional-succession framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Joyce Banda assumed presidency 7 April 2012 following Bingu wa Mutharika's death."
     },
     {
       "year": 2015,
       "title": "Marriage, Divorce and Family Relations Act 2015 (Act 4 of 2015)",
-      "description": "Federal comprehensive family-law statute enacted consolidating prior dispersed statutes. Part VIII governs parental responsibility and child custody. Substantively distinctive within African corpus recent-comprehensive-consolidation framework. Substantive marriageable-age-18 framework."
+      "description": "Federal comprehensive family-law statute enacted consolidating prior dispersed statutes. Part VIII governs parental responsibility and child custody. Substantive marriageable-age-18 framework."
     },
     {
       "year": 2020,
       "title": "Chakwera victory + 2020-Malawi-rerun-election + Constitutional-Court framework",
-      "description": "Constitutional Court of Malawi annulled May 2019 election 3 February 2020 — substantively distinctive globally African post-election-annulment framework. Lazarus Chakwera (Malawi Congress Party) elected President 23 June 2020 in rerun election ending Mutharika era. Substantive democratic-jurisprudence framework distinctive."
+      "description": "Constitutional Court of Malawi annulled May 2019 election 3 February 2020. Lazarus Chakwera (Malawi Congress Party) elected President 23 June 2020 in rerun election ending Mutharika era. Substantive democratic-jurisprudence framework distinctive."
     },
     {
       "year": 2023,

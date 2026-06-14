@@ -4,7 +4,9 @@
   "name": "Czech Republic (Česká republika)",
   "jurisdiction_code": "CZ",
   "legal_system": "civil-law",
-  "language": ["cs"],
+  "language": [
+    "cs"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "The Czech Republic is a civil-law jurisdiction whose family courts (okresní soudy — věci rodinné) operate under the Občanský zákoník (Civil Code) Act No. 89/2012 Coll. (effective 1 January 2014) § 855-927 (rodičovská odpovědnost / parental responsibility) and the Zákon o zvláštních řízeních soudních (ZŘS) Act No. 292/2013 Coll. The statutory framework is silent on the 'rodičovské odcizení' label as a diagnostic category. The Ústavní soud (Constitutional Court) and Nejvyšší soud (Supreme Court) have addressed contact-refusal cases applying nejlepší zájem dítěte (best-interests-of-the-child) standard. The Ombudsman (Veřejný ochránce práv) and Czech Helsinki Committee have informed institutional position. Czech Republic operates within EU Brussels IIb 2019/1111 framework for cross-border family-law coordination. The 2014 Občanský zákoník recodification represented substantially transformative civil-law reform replacing socialist-era 1964 Civil Code framework.",
@@ -131,11 +133,9 @@
   ],
   "structural_findings": [
     "Czech Republic operates a structurally distinctive civil-law family-law framework — Občanský zákoník Act No. 89/2012 Coll. + ZŘS Act No. 292/2013 Coll. + Listina čl. 32 + EU Brussels IIb framework — with substantive nejlepší zájem dítěte analysis without doctrinal 'rodičovské odcizení' label adoption.",
-    "2014 Občanský zákoník recodification represented substantially transformative civil-law reform replacing socialist-era 1964 Civil Code framework — among the most substantial post-socialist civil-law reforms regionally.",
-    "OSPOD (Orgán sociálně-právní ochrany dětí) framework under 1999 Social-Legal Child-Protection Act operates as substantively distinctive Central European child-protection institutional framework — operationally significant for PA-related dispute resolution within family-court adjudication."
+    "2014 Občanský zákoník recodification represented substantially transformative civil-law reform replacing socialist-era 1964 Civil Code framework — among the most substantial post-socialist civil-law reforms regionally."
   ],
   "editorial_notes": [
-    "Czech Republic's 2014 Občanský zákoník recodification represents the most substantial post-socialist family-law modernization regionally — substantively distinguishing Czech framework from neighbouring Slovak (Občiansky zákonník 1964 retention with amendments) and Polish (KRO 1964 retention with amendments) frameworks.",
-    "Czech rodičovská odpovědnost framework operates as substantively distinctive Central European parental-responsibility codification — making Czech Republic a critical comparative-law data point for post-socialist civil-law family-law architecture."
+    "Czech Republic's 2014 Občanský zákoník recodification represents the most substantial post-socialist family-law modernization regionally — substantively distinguishing Czech framework from neighbouring Slovak (Občiansky zákonník 1964 retention with amendments) and Polish (KRO 1964 retention with amendments) frameworks."
   ]
 }

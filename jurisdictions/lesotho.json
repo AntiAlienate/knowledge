@@ -4,7 +4,10 @@
   "name": "Lesotho (Kingdom of Lesotho / Muso oa Lesotho)",
   "jurisdiction_code": "LS",
   "legal_system": "mixed",
-  "language": ["en", "st"],
+  "language": [
+    "en",
+    "st"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Lesotho is a Southern African mixed-legal-system constitutional monarchy combining Roman-Dutch civil-law substantive heritage (via Cape Colony) with English common-law procedural inheritance and customary-law personal-status jurisdiction (Sesotho customary law). Family-law framework operates under the Marriage Act 10/1974, Children's Protection and Welfare Act 7/2011, and Laws of Lerotholi (codified Sesotho customary law). Parental rights and child custody are governed by Children's Protection and Welfare Act Part IV. The Court of Appeal of Lesotho is the apex court for civil and criminal matters; the Constitutional Court (sitting as the High Court) operates constitutional review. Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, and customary Local Courts. Psychology profession is regulated through the Lesotho Allied Health Professions Council under the Allied Health Professions Order. Lesotho is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Children's Protection and Welfare Act s. 4. Lesotho is non-Hague Convention.",
@@ -56,17 +59,17 @@
     {
       "year": 1868,
       "title": "Basutoland protectorate + Moshoeshoe-Cape-Colony framework",
-      "description": "Basutoland British protectorate 12 March 1868 under King Moshoeshoe I — substantively distinctive Southern African Sotho-kingdom-British-protectorate framework. Foundational pre-independence framework affecting subsequent constitutional-monarchy-trajectory. Distinctively distinct from later 1871-1884 Cape Colony annexation."
+      "description": "Basutoland British protectorate 12 March 1868 under King Moshoeshoe I. Distinctively distinct from later 1871-1884 Cape Colony annexation."
     },
     {
       "year": 1903,
       "title": "Laws of Lerotholi + first-customary-law-codification framework",
-      "description": "Laws of Lerotholi first codification 1903 — substantively distinctive earliest codification of Sesotho customary-law (and one of the earliest African customary-law codifications globally). Foundational customary-law-codification framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Laws of Lerotholi first codification 1903."
     },
     {
       "year": 1966,
       "title": "Lesotho independence + Constitutional-monarchy framework",
-      "description": "Lesotho independence 4 October 1966 from the United Kingdom — establishing constitutional-monarchy framework under King Moshoeshoe II. Substantively distinctive Southern African Sotho-monarchy framework. Foundational independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Lesotho independence 4 October 1966 from the United Kingdom — establishing constitutional-monarchy framework under King Moshoeshoe II."
     },
     {
       "year": 1974,
@@ -86,7 +89,7 @@
     {
       "year": 1998,
       "title": "1998 Lesotho political crisis + SADC intervention framework",
-      "description": "1998 Lesotho political crisis September 1998 substantively disrupting political-institutional framework — South African and Botswanan SADC intervention. Substantively distinctive Southern African SADC-intervention pattern affecting subsequent democratic-trajectory."
+      "description": "1998 Lesotho political crisis September 1998 substantively disrupting political-institutional framework — South African and Botswanan SADC intervention."
     },
     {
       "year": 2011,
@@ -96,7 +99,7 @@
     {
       "year": 2017,
       "title": "Constitutional reform + national-dialogue framework",
-      "description": "Constitutional reform discussions through 2017-2020s — substantive National Reforms Authority Act 2019 framework affecting subsequent constitutional-democratic-trajectory. Substantive ongoing constitutional-reform framework affecting family-law-cross-cutting-areas."
+      "description": "Constitutional reform discussions through 2017-2020s. Substantive ongoing constitutional-reform framework affecting family."
     },
     {
       "year": 2023,

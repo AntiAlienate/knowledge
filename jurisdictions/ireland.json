@@ -4,7 +4,10 @@
   "name": "Ireland (Éire)",
   "jurisdiction_code": "IE",
   "legal_system": "common-law",
-  "language": ["en", "ga"],
+  "language": [
+    "en",
+    "ga"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Ireland is a common-law unitary republic whose family-court framework operates under the Guardianship of Infants Act 1964 (as amended), the Children and Family Relationships Act 2015, and the Family Law Act 1995. The Constitution of Ireland (Bunreacht na hÉireann) was amended in 2012 to insert Article 42A on children's rights. The Supreme Court is the apex court for civil and constitutional matters; family-law decisions reach the Supreme Court via the Court of Appeal following High Court / Circuit Court / District Court determinations. Psychology profession is regulated under the Health and Social Care Professionals Council (CORU) under the Health and Social Care Professionals Act 2005 — statutory title protection for psychologists registered on the Psychologists Register since 1 March 2023. Ireland is silent on 'parental alienation' as a statutory label; the courts operate substantively under the welfare-of-the-child standard with no apex endorsement of PAS as a diagnostic category. In 2023 the Department of Justice published a public consultation on parental alienation prompted by international PA-construct debate; the resulting Report indicated no statutory amendment was recommended.",
@@ -81,7 +84,7 @@
     {
       "year": 1922,
       "title": "Irish Free State + Anglo-Irish Treaty + Irish independence framework",
-      "description": "Irish Free State established 6 December 1922 following Anglo-Irish Treaty 6 December 1921 and Irish War of Independence 1919-1921. Substantively distinctive Irish-independence framework. Foundational pre-1937-Constitution framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Irish Free State established 6 December 1922 following Anglo-Irish Treaty 6 December 1921 and Irish War of Independence 1919-1921."
     },
     {
       "year": 1937,
@@ -91,7 +94,7 @@
     {
       "year": 1964,
       "title": "Guardianship of Infants Act 1964 + welfare-paramountcy framework",
-      "description": "Guardianship of Infants Act 1964 enacted establishing primary statutory basis for custody, access and guardianship in Ireland. Section 3 establishes the welfare of the child as the first and paramount consideration. Foundational substantive-statutory framework for contemporary family-law jurisprudence."
+      "description": "Guardianship of Infants Act 1964 enacted establishing primary statutory basis for custody, access and guardianship in Ireland. Section 3 establishes the welfare of the child as the first and paramount consideration."
     },
     {
       "year": 1973,
@@ -106,7 +109,7 @@
     {
       "year": 1996,
       "title": "Divorce legalised",
-      "description": "Family Law (Divorce) Act 1996 in force 27 February 1997 following the 1995 constitutional referendum amending Article 41.3.2°. Substantively distinctive Catholic-Ireland post-divorce-legalisation framework affecting subsequent family-law-modernisation."
+      "description": "Family Law (Divorce) Act 1996 in force 27 February 1997 following the 1995 constitutional referendum amending Article 41.3.2°."
     },
     {
       "year": 2012,
@@ -116,17 +119,17 @@
     {
       "year": 2014,
       "title": "Court of Appeal established",
-      "description": "Thirty-third Amendment of the Constitution established the Court of Appeal as the principal appellate court; in force 28 October 2014. Substantive constitutional-judicial-trajectory framework affecting subsequent family-law-appellate-practice."
+      "description": "Thirty-third Amendment of the Constitution established the Court of Appeal as the principal appellate court; in force 28 October 2014."
     },
     {
       "year": 2015,
       "title": "Children and Family Relationships Act 2015 + same-sex marriage referendum framework",
-      "description": "Modernised guardianship, custody, access and parentage law including provisions for cohabiting partners, assisted human reproduction and reformed unmarried fathers' guardianship. Subsequent Thirty-fourth Amendment of the Constitution (Marriage Equality) Act 2015 substantively distinctive globally first-country-to-legalise-same-sex-marriage-by-popular-vote framework."
+      "description": "Modernised guardianship, custody, access and parentage law including provisions for cohabiting partners, assisted human reproduction and reformed unmarried fathers' guardianship."
     },
     {
       "year": 2020,
       "title": "COVID-19 pandemic + family-court-digital-transformation + remote-hearings framework",
-      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Ireland — substantively distinctive accelerated-digital-transformation-of-family-courts framework. Courts Service of Ireland established remote-hearings infrastructure + Dublin Circuit Family Court + District Family Court operations adapted + Hague Convention 1980 cross-border child-return proceedings continuing through remote-hearings framework + Children and Family Relationships Act 2015 implementation continuing through pandemic-trajectory + substantive demographic and family-law-implementation framework affecting subsequent post-pandemic Family Court Bill 2022 + Family Justice Strategy 2022-2025 reform-trajectory."
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Ireland."
     },
     {
       "year": 2023,

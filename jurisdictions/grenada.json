@@ -4,7 +4,9 @@
   "name": "Grenada",
   "jurisdiction_code": "GD",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Grenada is a Caribbean common-law constitutional monarchy whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance Act, the Status of Children Act, and the Child Protection and Adoption Act 2010. Parental responsibility and child custody are governed by Child Protection and Adoption Act and case-law applying the welfare-of-the-child principle. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Grenada) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health framework. Grenada is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Child Protection and Adoption Act s. 4. Grenada is non-Hague Convention.",
@@ -55,22 +57,22 @@
     {
       "year": 1967,
       "title": "Associated State of Grenada + Eric Gairy premiership-of-government",
-      "description": "Grenada became Associated State of West Indies 3 March 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Eric Gairy first prime minister 1967-1979 — substantively distinctive founding-prime-minister framework. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Grenada became Associated State of West Indies 3 March 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Eric Gairy first prime minister 1967-1979."
     },
     {
       "year": 1974,
       "title": "Grenada independence + Eric Gairy presidency-of-government",
-      "description": "Grenada achieved independence 7 February 1974 from the United Kingdom — establishing constitutional monarchy framework retaining JCPC as final appellate court. Eric Gairy Prime Minister 1974-1979. Substantively distinctive Caribbean independence pattern."
+      "description": "Grenada achieved independence 7 February 1974 from the United Kingdom — establishing constitutional monarchy framework retaining JCPC as final appellate court. Eric Gairy Prime Minister 1974-1979."
     },
     {
       "year": 1979,
       "title": "Grenada revolution + New Jewel Movement + Maurice Bishop People's Revolutionary Government",
-      "description": "New Jewel Movement coup d'état 13 March 1979 — Maurice Bishop led People's Revolutionary Government overthrowing Eric Gairy. Substantively distinctive Caribbean Marxist-Leninist revolution pattern. Foundational political-institutional-disruption framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "New Jewel Movement coup d'état 13 March 1979 — Maurice Bishop led People's Revolutionary Government overthrowing Eric Gairy."
     },
     {
       "year": 1983,
       "title": "Maurice Bishop assassination + US Operation Urgent Fury + democratic-restoration",
-      "description": "Maurice Bishop assassinated 19 October 1983 in internal PRG coup. US-led Operation Urgent Fury invasion 25 October 1983 — substantively distinctive 20th-century US-Caribbean military-intervention pattern. Subsequent democratic-restoration trajectory establishing contemporary constitutional-democratic framework."
+      "description": "Maurice Bishop assassinated 19 October 1983 in internal PRG coup. US-led Operation Urgent Fury invasion 25 October 1983. Subsequent democratic-restoration trajectory establishing contemporary constitutional-democratic framework."
     },
     {
       "year": 1991,
@@ -95,7 +97,7 @@
     {
       "year": 2018,
       "title": "CCJ referendum 2018 + JCPC retention + constitutional reform context",
-      "description": "Caribbean Court of Justice referendum 6 November 2018 — substantively rejected by Grenadian voters retaining JCPC as final appellate court. Substantively distinctive Caribbean CCJ-rejection-pattern. Constitutional reform proposals on republican status continuing through 2020s."
+      "description": "Caribbean Court of Justice referendum 6 November 2018 — substantively rejected by Grenadian voters retaining JCPC as final appellate court. Constitutional reform proposals on republican status continuing through 2020s."
     },
     {
       "year": 2023,

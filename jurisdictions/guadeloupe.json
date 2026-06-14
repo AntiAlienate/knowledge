@@ -4,7 +4,9 @@
   "name": "Guadeloupe (Région et Département de la Guadeloupe / French DOM-ROM)",
   "jurisdiction_code": "GP",
   "legal_system": "civil-law (French DOM-ROM)",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Guadeloupe is a French Département d'Outre-Mer / Région d'Outre-Mer (DOM-ROM) operating French civil-law family-law framework under Code civil arts. 371-1 to 387ter (autorité parentale). Family courts operate under the Loi du 27 juin 2018 instituant le juge aux affaires familiales (JAF) framework with French civil-law procedural framework via Tribunal Judiciaire de Pointe-à-Pitre and Tribunal Judiciaire de Basse-Terre. The statutory framework is silent on the 'aliénation parentale' label. The Cour d'appel de Basse-Terre and Cour de cassation develop intérêt supérieur de l'enfant jurisprudence within French DOM framework. EU Brussels IIb framework applies — operationally significant for cross-border family-law adjudication including expatriate-population and metropolitan-France diaspora cases. Substantively significant Caribbean French overseas department framework.",
@@ -101,7 +103,7 @@
     {
       "year": 2009,
       "title": "2009 General Strike + LKP framework + social-context framework",
-      "description": "Guadeloupe 2009 General Strike (LKP — Liyannaj Kont Pwofitasyon) January-March 2009 — substantively distinctive Caribbean post-colonial social-context framework affecting institutional context. Subsequent reform agreements substantively affecting subsequent constitutional-democratic-trajectory."
+      "description": "Guadeloupe 2009 General Strike (LKP. Subsequent reform agreements substantively affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2018,

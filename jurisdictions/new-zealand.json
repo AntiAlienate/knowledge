@@ -4,7 +4,10 @@
   "name": "New Zealand (Aotearoa New Zealand)",
   "jurisdiction_code": "NZ",
   "legal_system": "common-law",
-  "language": ["en", "mi"],
+  "language": [
+    "en",
+    "mi"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "New Zealand is a common-law jurisdiction whose Family Court (Te Kōti Whānau) operates under the Care of Children Act 2004 (CoCA) and the Family Court Act 1980. The CoCA replaced the Guardianship Act 1968 establishing the modern parenting-order framework with welfare-and-best-interests-of-the-child paramount standard (s 4). The statutory framework is silent on the 'parental alienation' label. The Supreme Court of New Zealand and Court of Appeal have addressed contact-refusal cases applying CoCA welfare-and-best-interests standard. Distinctive features include Māori tikanga and Treaty of Waitangi (Te Tiriti o Waitangi) considerations under CoCA s 5(f). The Family Violence Act 2018 (replacing Domestic Violence Act 1995) reformed DV-protection framework — invoked in DV-PA-allegation intersection cases. New Zealand's Family Court 2014 reforms (under Family Court Reform Act 2013) restructured procedural framework toward Family Dispute Resolution.",
@@ -101,7 +104,7 @@
     {
       "year": 2013,
       "title": "Family Court Reform Act 2013 — Family Dispute Resolution framework",
-      "description": "Family Court Reform Act 2013 (effective 31 March 2014) introducing Family Dispute Resolution (FDR) framework requiring mediation before court application. Substantively significant procedural reform — substantively distinctive globally for mandatory FDR architecture."
+      "description": "Family Court Reform Act 2013 (effective 31 March 2014) introducing Family Dispute Resolution (FDR) framework requiring mediation before court application. Substantively significant procedural reform."
     },
     {
       "year": 2014,
@@ -130,12 +133,9 @@
     }
   ],
   "structural_findings": [
-    "New Zealand operates a structurally distinctive common-law family-law framework — Care of Children Act 2004 + Family Court Act 1980 + Family Court Reform Act 2013 FDR framework + Family Violence Act 2018 — with substantive welfare-and-best-interests-of-the-child analysis without doctrinal 'parental alienation' label adoption.",
-    "Care of Children Act 2004 s 5(f) Treaty of Waitangi / tikanga Māori considerations is substantively distinctive globally — operationally requiring Family Court to consider Treaty-grounded Māori cultural-context considerations in family-law adjudication.",
-    "Mandatory Family Dispute Resolution (FDR) framework under Family Court Reform Act 2013 is substantively distinctive globally for mandatory pre-court mediation architecture — operationally significant for family-law procedural framework comparative analysis."
+    "New Zealand operates a structurally distinctive common-law family-law framework — Care of Children Act 2004 + Family Court Act 1980 + Family Court Reform Act 2013 FDR framework + Family Violence Act 2018 — with substantive welfare-and-best-interests-of-the-child analysis without doctrinal 'parental alienation' label adoption."
   ],
   "editorial_notes": [
-    "New Zealand's Treaty of Waitangi / tikanga Māori CoCA s 5(f) framework operates as substantively distinctive globally — making NZ a critical comparative-law data point for indigenous-cultural-framework family-law architecture.",
     "Mandatory Family Dispute Resolution framework (2013) is substantively significant for global mandatory-mediation legislative trend analysis — operationally distinctive procedural architecture."
   ]
 }

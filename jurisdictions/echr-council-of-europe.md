@@ -87,7 +87,7 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 
 ## Editorial notes
 
-- ECHR / [Council of Europe](https://www.coe.int/) jurisdiction sidecar — supranational meta-legal-system multi-state human-rights framework ([European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) 1950/1953 + Article 8 right to private and family life + Article 6 right to fair trial + Article 34 individual-petition framework + [European Court of Human Rights](https://www.echr.coe.int/) 1959 + Protocol 11 permanent [ECtHR](https://www.echr.coe.int/) 1998 + Protocol 14 reform 2010 + Marckx v Belgium 1979 + Russia expulsion 2022 + Member State Convention-compatibility national-court framework). Only modern multi-state human-rights court with binding individual-petition framework globally + central jurisdictional framework for Article 8 family-life human-rights provision + largest single body of family-law-relevant international human-rights jurisprudence (100,000+ cases) + first member-state expulsion in Council of Europe history (Russia 2022).
+- ECHR / [Council of Europe](https://www.coe.int/) jurisdiction sidecar — supranational meta-legal-system multi-state human-rights framework ([European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) 1950/1953 + Article 8 right to private and family life + Article 6 right to fair trial + Article 34 individual-petition framework + [European Court of Human Rights](https://www.echr.coe.int/) 1959 + Protocol 11 permanent [ECtHR](https://www.echr.coe.int/) 1998 + Protocol 14 reform 2010 + Marckx v Belgium 1979 + Russia expulsion 2022 + Member State Convention-compatibility national-court framework). Only modern multi-state human-rights court with binding individual-petition framework globally + central jurisdictional framework for Article 8 family-life human-rights provision + largest single body of family-law-relevant international human-rights jurisprudence (100,000+ cases) + first member-state expulsion in [Council of Europe](https://www.coe.int/) history (Russia 2022).
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins supranational + multi-state-human-rights + ECHR-Council-of-Europe-framework cluster + binding-individual-petition-framework-globally-distinctive + Article-8-private-family-life-foundational-provision + 100000-plus-cases-jurisprudence-corpus + Marckx-Olsson-Johansen-Article-8-jurisprudence + Russia-2022-expulsion + Protocol-11-permanent-[ECtHR](https://www.echr.coe.int/) + Convention-compatibility-national-court-framework clusters within the corpus.
 
@@ -95,6 +95,8 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

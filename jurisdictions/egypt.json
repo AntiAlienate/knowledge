@@ -4,7 +4,9 @@
   "name": "Egypt (مصر / Miṣr)",
   "jurisdiction_code": "EG",
   "legal_system": "mixed",
-  "language": ["ar"],
+  "language": [
+    "ar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-05-30",
   "summary": "Egypt is a mixed civil-law / Islamic-law (Sharia) jurisdiction operating under Personal Status Law for family matters and the 2004 Family Courts Law 10 procedural framework. Custody (حضانة / ḥaḍāna) for Muslim families follows classical Islamic-jurisprudence age thresholds; non-Muslim families operate under religious-community personal-status frameworks (Coptic Christian, Jewish). The National Council for Childhood and Motherhood (NCCM / المجلس القومي للطفولة والأمومة), established by Presidential Decree 54/1988, is the statutory child-rights body and a middle/critique-leaning institutional anchor (per 2016 personal-status-reform position). The Egyptian Psychiatric Association (EPA) is institutionally silent on PA. The Constitution of Egypt 2014 art. 80 enshrines children's rights and art. 53 equality before the law.",
@@ -158,7 +160,7 @@
   "key_developments": [
     {
       "year": 1929,
-      "description": "Personal Status Law No. 25 of 1929 — foundational substantive Personal Status statute for Muslim families.",
+      "description": "Personal Status Law No. 25 of 1929.",
       "url": "https://manshurat.org/"
     },
     {

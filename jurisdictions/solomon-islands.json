@@ -4,7 +4,9 @@
   "name": "Solomon Islands",
   "jurisdiction_code": "SB",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Solomon Islands is a Pacific Island mixed-legal-system constitutional monarchy combining English common-law substantive heritage (via 1978 independence) with constitutionally-recognised customary-law personal-status jurisdiction operating through Local Courts. Family-law framework operates under the Affiliation, Separation and Maintenance Act, the Islanders Marriage Act, the Islanders Divorce Act, and the Child and Family Welfare Act 2017. Parental responsibility and child custody are governed by Child and Family Welfare Act Part III. The Court of Appeal of Solomon Islands is the apex court for civil and criminal matters; the Privy Council had appellate jurisdiction prior to abolition in 1978 (Solomon Islands removed JCPC appeals at independence). Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, and Local Courts for customary-law matters. Psychology profession is regulated through the Ministry of Health and Medical Services framework. Solomon Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Child and Family Welfare Act s. 5. Solomon Islands is non-Hague Convention.",
@@ -49,7 +51,7 @@
     {
       "year": 1893,
       "title": "British protectorate establishment + colonial-era framework",
-      "description": "British Solomon Islands Protectorate established 1893 — substantively distinctive Pacific colonial-protectorate framework. Subsequent Guadalcanal Campaign 1942-1943 (WWII) substantively shaping Solomon Islands historical trajectory. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "British Solomon Islands Protectorate established 1893. Subsequent Guadalcanal Campaign 1942-1943 (WWII) substantively shaping Solomon Islands historical trajectory."
     },
     {
       "year": 1945,
@@ -59,12 +61,12 @@
     {
       "year": 1976,
       "title": "Self-government framework + pre-independence trajectory",
-      "description": "Solomon Islands achieved self-government 2 January 1976 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Foundational pre-independence framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Solomon Islands achieved self-government 2 January 1976 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs."
     },
     {
       "year": 1978,
       "title": "Solomon Islands independence + Peter Kenilorea founding-prime-minister + JCPC removal",
-      "description": "Solomon Islands achieved independence 7 July 1978 from the United Kingdom — establishing constitutional monarchy framework. Peter Kenilorea first prime minister 1978-1981. Substantively distinctive among Pacific Anglophone states: Solomon Islands removed Judicial Committee of the Privy Council appellate jurisdiction at independence — Court of Appeal of Solomon Islands is the genuine apex without further appellate review."
+      "description": "Solomon Islands achieved independence 7 July 1978 from the United Kingdom — establishing constitutional monarchy framework. Peter Kenilorea first prime minister 1978-1981."
     },
     {
       "year": 1995,
@@ -89,7 +91,7 @@
     {
       "year": 2019,
       "title": "Diplomatic switch to PRC + Taiwan relations termination + Belt and Road context",
-      "description": "Solomon Islands switched diplomatic recognition from Taiwan to People's Republic of China 16 September 2019 — substantively distinctive Pacific Islands diplomatic-realignment. Subsequent Solomon Islands-PRC Security Agreement April 2022 substantively reshaping Pacific geopolitical positioning affecting cross-border-jurisdiction-practice."
+      "description": "Solomon Islands switched diplomatic recognition from Taiwan to People's Republic of China 16 September 2019. Subsequent Solomon Islands-PRC Security Agreement April 2022 substantively reshaping Pacific geopolitical positioning affecting cross."
     },
     {
       "year": 2023,

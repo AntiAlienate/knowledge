@@ -4,7 +4,9 @@
   "name": "Belize",
   "jurisdiction_code": "BZ",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Belize is a Central American/Caribbean common-law constitutional monarchy whose family-law framework operates under the Families and Children Act (CAP 173, comprehensively revised 2003), the Married Persons (Protection) Act, the Maintenance of Children Act, and the Domestic Violence Act 2007. Parental responsibility and child custody are governed by Families and Children Act Part III. The Court of Appeal of Belize is the apex domestic court for civil and criminal matters; the Caribbean Court of Justice (CCJ) is the final appellate court — Belize transferred from JCPC in 2010. Family-law matters are heard at first instance in the Family Court (established 2001) and Supreme Court (Family Division). Psychology profession is regulated through the Allied Health Professionals Council under the Ministry of Health and Wellness. Belize is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Families and Children Act s. 4. Belize is non-Hague Convention.",
@@ -55,17 +57,17 @@
     {
       "year": 1862,
       "title": "British Honduras Crown Colony + British-Central-American framework",
-      "description": "British Honduras Crown Colony established 12 May 1862 — substantively distinctive Central American British-Crown-Colony framework. Subsequent Anglo-Guatemalan-territorial-dispute framework with Guatemala-claim affecting subsequent constitutional-administrative-trajectory. Foundational pre-1973-Belize-renaming framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "British Honduras Crown Colony established 12 May 1862. Subsequent Anglo framework with Guatemala-claim affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1973,
       "title": "Belize-renaming + pre-independence-framework",
-      "description": "British Honduras renamed Belize 1 June 1973 — substantively distinctive Central American pre-independence-renaming framework. Foundational pre-1981-independence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "British Honduras renamed Belize 1 June 1973."
     },
     {
       "year": 1981,
       "title": "Independence + Westminster-framework + Commonwealth-realm + Guatemalan-non-recognition framework",
-      "description": "Belize achieved independence from the United Kingdom 21 September 1981 — substantively distinctive globally only-Central-American-Anglophone-state-+-Commonwealth-realm-with-Queen-Elizabeth-II framework. Subsequent Guatemalan non-recognition through 1991 affecting subsequent constitutional-democratic-trajectory and Anglo-Guatemalan-territorial-dispute framework."
+      "description": "Belize achieved independence from the United Kingdom 21 September 1981. Subsequent Guatemalan non-recognition through 1991 affecting subsequent constitutional-democratic-trajectory and Anglo framework."
     },
     {
       "year": 1990,
@@ -75,27 +77,27 @@
     {
       "year": 1991,
       "title": "Guatemala-recognition + Anglo-Guatemalan-dispute-continuation framework",
-      "description": "Guatemala recognised Belize 6 September 1991 — substantively distinctive Central American Anglo-Guatemalan-recognition framework. Subsequent 1994 territorial-claim-maintenance-+-2008-Special-Agreement-+-ICJ-referral framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Guatemala recognised Belize 6 September 1991."
     },
     {
       "year": 2001,
       "title": "Family Court established + specialised-family-court framework",
-      "description": "Specialised Family Court established 2001 under Family Courts Act — substantively significant Central American specialised-family-court framework. Foundational substantive specialised-family-court framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Specialised Family Court established 2001 under Family Courts Act — substantively significant Central American specialised-family-court framework."
     },
     {
       "year": 2003,
       "title": "Families and Children Act revision + welfare-of-the-child-codification framework",
-      "description": "Comprehensive revision of Families and Children Act 2003 (CAP 173) codifying welfare-of-the-child principle (s. 4), parental responsibility, custody, and children's protection provisions — substantively significant Central American Caribbean child-protection framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "Comprehensive revision of Families and Children Act 2003 (CAP 173) codifying welfare principle (s. 4), parental responsibility, custody, and children's protection provisions — substantively significant Central American Caribbean child-protection framework."
     },
     {
       "year": 2007,
       "title": "Domestic Violence Act + protection-orders framework",
-      "description": "Domestic Violence Act 2007 enacted establishing federal statute on domestic violence protection orders affecting family-law proceedings — substantively significant Central American domestic-violence framework. Foundational substantive domestic-violence framework persisting through subsequent reform-trajectory."
+      "description": "Domestic Violence Act 2007 enacted establishing federal statute on domestic violence protection orders affecting family-law proceedings — substantively significant Central American domestic-violence framework."
     },
     {
       "year": 2010,
       "title": "CCJ appellate jurisdiction transfer + post-JCPC-CCJ framework",
-      "description": "Belize transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 1 June 2010 — substantively distinctive Caribbean CCJ-final-appellate-jurisdiction framework. Substantive Caribbean Court of Justice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Belize transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 1 June 2010."
     },
     {
       "year": 2023,

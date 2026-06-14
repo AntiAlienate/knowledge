@@ -4,7 +4,11 @@
   "name": "Andhra Pradesh (ఆంధ్ర ప్రదేశ్)",
   "jurisdiction_code": "IN-AP",
   "legal_system": "common-law",
-  "language": ["en", "te", "ur"],
+  "language": [
+    "en",
+    "te",
+    "ur"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Andhra Pradesh (ఆంధ్ర ప్రదేశ్ in Telugu) is a South Indian common-law constituent state of the Indian Republic — structurally distinctive globally as the only Indian state operating constitutional Article 371-D special-status framework explicitly providing for the equitable allocation of opportunities in employment and education across the different regions of the state through state-mandated regional-allocation rules, as the only Indian state to have undergone a major formal bifurcation in modern Indian state-formation history (Telangana separation effective 2 June 2014 under the Andhra Pradesh Reorganisation Act 2014 — creating Telangana as the 29th Indian state), and as the central jurisdiction of Indian Andhra Pradesh High Court Six-Point Formula 1973 jurisprudence regarding regional-equality framework (which became Article 371-D in 1973). The Article 371-D framework establishes mandatory regional-allocation rules for employment in state services and admissions to state-funded educational institutions across the four traditional regions of pre-2014 Andhra Pradesh (Coastal Andhra, Rayalaseema, Telangana, and the Hyderabad-Karnataka region) — preserved post-2014 bifurcation. Andhra Pradesh comprises ~162,968 km² with a population of ~50 million, making it the seventh-largest Indian state by area and tenth-largest by population. Family-law framework operates under the federal Indian common-law framework (Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, Guardians and Wards Act 1890) applied via state administrative framework. The Andhra Pradesh High Court (established 1 January 2019 at Amaravati, following bifurcation with Telangana) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Andhra Pradesh is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Andhra Pradesh is governed by the Indian non-ratification status.",
@@ -69,47 +73,47 @@
     {
       "year": 1948,
       "title": "Hyderabad-State-+-Operation-Polo + integration-of-Princely-State framework",
-      "description": "Hyderabad State Operation Polo 17 September 1948 ending Nizam-rule + integration of Princely State of Hyderabad into India — substantively distinctive South Indian post-independence-integration framework. Substantive demographic and constitutional-administrative-trajectory framework affecting subsequent 1956 States Reorganisation framework."
+      "description": "Hyderabad State Operation Polo 17 September 1948 ending Nizam-rule, integration of Princely State of Hyderabad into India."
     },
     {
       "year": 1953,
       "title": "Andhra-State-+-language-based-state-creation framework",
-      "description": "Andhra State established 1 October 1953 separating from Madras State following Potti Sriramulu hunger strike death — substantively distinctive globally first-language-based-state-creation-in-modern-India framework. Foundational pre-1956-Andhra-Pradesh-merger framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Andhra State established 1 October 1953 separating from Madras State following Potti Sriramulu hunger strike death."
     },
     {
       "year": 1956,
       "title": "Andhra Pradesh State Reorganisation + States-Reorganisation-Act framework",
-      "description": "Andhra Pradesh formed via States Reorganisation Act 1956 effective 1 November 1956 — substantively distinctive South Indian merging-Telugu-speaking-regions-including-Telangana-from-Hyderabad-State framework. Foundational substantive Telugu-speaking-state framework affecting subsequent constitutional-democratic-trajectory and 1969 Jai Telangana movement."
+      "description": "Andhra Pradesh formed via States Reorganisation Act 1956 effective 1 November 1956."
     },
     {
       "year": 1969,
       "title": "Telangana movement + Jai-Telangana-separate-statehood-movement framework",
-      "description": "Jai Telangana movement 1969 — substantively distinctive globally beginning-of-45-year-Telangana-separate-statehood-movement framework. Foundational pre-2014-bifurcation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Jai Telangana movement 1969."
     },
     {
       "year": 1973,
       "title": "Six-Point Formula + Constitution 32nd Amendment + Article 371-D framework",
-      "description": "Six-Point Formula 1973 + Constitution (Thirty-Second Amendment) Act 1973 inserting Article 371-D providing regional-equality framework — substantively distinctive globally only-modern-Indian-Constitutional-framework-based-on-formal-Six-Point-Formula-regional-equality framework. Foundational substantive Article 371-D framework persisting through 2014 bifurcation."
+      "description": "Six-Point Formula 1973, Constitution (Thirty-Second Amendment) Act 1973 inserting Article 371-D providing regional-equality framework."
     },
     {
       "year": 1992,
       "title": "India ratifies UN Convention on the Rights of the Child + Andhra-Pradesh-applicability framework",
-      "description": "India ratified UNCRC 11 December 1992 with applicability to Andhra Pradesh — establishing best-interests-of-the-child substantive doctrine within Indian-derivative-common-law framework applicable to Andhra Pradesh. Foundational substantive child-rights framework integration affecting subsequent reform-trajectory."
+      "description": "India ratified UNCRC 11 December 1992 with applicability to Andhra Pradesh — establishing best substantive doctrine within Indian framework applicable to Andhra Pradesh."
     },
     {
       "year": 2009,
       "title": "K-Chandrashekar-Rao-fast-+-Telangana-Andolanam-+-Srikrishna-Committee framework",
-      "description": "K Chandrashekar Rao fast 29 November 2009 substantively reinvigorating Telangana Andolanam — substantively distinctive South Indian Telangana-separate-statehood-movement reinvigoration framework. Subsequent Srikrishna Committee 2010 + 2013 announcement of bifurcation framework. Foundational pre-2014-Reorganisation-Act framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "K Chandrashekar Rao fast 29 November 2009 substantively reinvigorating Telangana Andolanam. Subsequent Srikrishna Committee 2010, 2013 announcement of bifurcation framework."
     },
     {
       "year": 2014,
       "title": "Andhra Pradesh Reorganisation Act + Telangana-bifurcation-+-29th-Indian-state framework",
-      "description": "Andhra Pradesh Reorganisation Act 2014 effective 2 June 2014 — substantively distinctive globally only-Indian-state-to-have-undergone-major-formal-bifurcation-in-modern-Indian-state-formation-history framework. Creating Telangana as the 29th Indian state via bifurcation from Andhra Pradesh. Foundational substantive post-bifurcation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Andhra Pradesh Reorganisation Act 2014 effective 2 June 2014. Creating Telangana as the 29th Indian state via bifurcation from Andhra Pradesh."
     },
     {
       "year": 2019,
       "title": "Andhra Pradesh High Court established at Amaravati + dual-state-High-Court-establishment framework",
-      "description": "Andhra Pradesh High Court established 1 January 2019 at Amaravati following bifurcation with Telangana High Court at Hyderabad — substantively distinctive globally only-modern-major-formal-bifurcation-requiring-dual-state-High-Court-establishment framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Andhra Pradesh High Court established 1 January 2019 at Amaravati following bifurcation with Telangana High Court at Hyderabad."
     },
     {
       "year": 2023,

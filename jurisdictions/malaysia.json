@@ -4,7 +4,10 @@
   "name": "Malaysia",
   "jurisdiction_code": "MY",
   "legal_system": "mixed",
-  "language": ["ms", "en"],
+  "language": [
+    "ms",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Malaysia is a Southeast Asian mixed-legal-system federal constitutional monarchy operating a dual personal-status framework: non-Muslims under the Law Reform (Marriage and Divorce) Act 1976 (LRA 1976) heard by Civil High Courts; Muslims under state-level Islamic Family Law Enactments (e.g. Selangor Islamic Family Law Enactment 2003) heard by Syariah Courts. Custody (hadanah) and guardianship is governed by LRA 1976 ss. 88-100 for non-Muslims and by state Islamic Family Law Enactments for Muslims under Shafi'i jurisprudential framework. The Federal Court (Mahkamah Persekutuan) is the apex civil court; the Federal Syariah Court (Mahkamah Syariah Persekutuan) is the apex Syariah court; jurisdictional disputes between them are heard by the Federal Court. Psychology profession is regulated under the Allied Health Professions Act 2016 (Act 774) which is in the process of phased commencement with the Allied Health Professions Council (AHPC) operating the regulatory framework. Malaysia is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Malaysia is non-Hague Convention.",
@@ -107,7 +110,7 @@
     {
       "year": 2018,
       "title": "Indira Gandhi a/p Mutho v Patmanathan [2018] MLJU 76 — Federal Court unilateral-conversion framework",
-      "description": "Federal Court of Malaysia decision 29 January 2018 in Indira Gandhi a/p Mutho v Pengarah Jabatan Agama Islam Perak — substantively distinctive Malaysian Federal Court ruling on unilateral conversion of minor children by one parent without consent of the other parent. Substantive Federal Court 2018 framework holding that consent of BOTH parents required for valid conversion of minor children + structurally distinctive Malaysian Federal Court ruling on cross-religion-family-law-parental-rights framework + foundation for subsequent 2024 Federal Court / Federal Syariah Court welfare-of-the-child substantive register + structurally distinctive globally only modern Federal Court ruling on unilateral-conversion-of-minor-children framework directly relevant to parental-alienation cases involving religious-conversion."
+      "description": "Federal Court of Malaysia decision 29 January 2018 in Indira Gandhi a/p Mutho v Pengarah Jabatan Agama Islam Perak. Substantive Federal Court 2018 framework holding that consent of BOTH parents required for valid conversion of minor children, structurally distinctive Malaysian Federal Court ruling on cross framework, foundation for subsequent 2024 Federal Court / Federal Syariah Court welfare substantive register, structurally distinctive globally only modern Federal Court ruling on unilateral framework directly relevant to parental-alienation cases involving religious-conversion."
     },
     {
       "year": 2016,
@@ -117,7 +120,7 @@
     {
       "year": 2022,
       "title": "Anwar Ibrahim premiership + Madani framework + Royal Family-Law Reform Roundtable framework",
-      "description": "Anwar Ibrahim Pakatan Harapan-led Madani Government inaugurated 24 November 2022 — substantively distinctive Malaysian post-Mahathir-era reform-trajectory framework. Royal Family-Law Reform Roundtable framework + Islamic Family Law (Federal Territories) Amendment Bill 2024 framework + continuing Federal Court Indira Gandhi 2018 + Lina Joy 2007 jurisprudence framework + continuing Madani institutional context affecting subsequent reform-trajectory and family-law-implementation. Foundational pre-2024 Madani-era framework affecting subsequent constitutional-democratic-trajectory and welfare-of-the-child substantive register evolution."
+      "description": "Anwar Ibrahim Pakatan Harapan-led Madani Government inaugurated 24 November 2022."
     },
     {
       "year": 2024,

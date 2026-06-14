@@ -4,7 +4,9 @@
   "name": "Sierra Leone (Republic of Sierra Leone)",
   "jurisdiction_code": "SL",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Sierra Leone is a West African mixed-legal-system republic combining English common-law substantive heritage (via colonial inheritance) with customary-law personal-status jurisdiction operating through Local Courts under the Local Courts Act 2011. Family-law framework operates under the Child Rights Act 2007, the Christian Marriage Act, the Mohammedan Marriage Act, the Civil Marriage Act, the Customary Marriage and Divorce Act 2009, and the Devolution of Estates Act 2007. Parental responsibility and child custody are governed by Child Rights Act Part VI. The Supreme Court of Sierra Leone is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, and Local Courts for customary-law matters. Psychology profession is regulated through the Ministry of Health and Sanitation framework. Sierra Leone is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Child Rights Act s. 1. Sierra Leone is non-Hague Convention.",
@@ -56,22 +58,22 @@
     {
       "year": 1787,
       "title": "Province of Freedom + Sierra-Leone-Company + freed-slave-settlement framework",
-      "description": "Province of Freedom established 22 May 1787 by Sierra Leone Company under abolitionist Granville Sharp — substantively distinctive globally British-abolitionist-freed-slave-settlement-on-African-coast framework. Foundational pre-1808-Crown-Colony framework affecting subsequent constitutional-administrative-trajectory and West African common-law substantive heritage."
+      "description": "Province of Freedom established 22 May 1787 by Sierra Leone Company under abolitionist Granville Sharp."
     },
     {
       "year": 1808,
       "title": "Sierra Leone Crown Colony + British-administration framework",
-      "description": "Sierra Leone Crown Colony established 1 January 1808 with Freetown as capital — substantively distinctive West African British-Crown-Colony framework. Subsequent 1896 British Protectorate over Sierra Leone hinterland. Foundational pre-1961-independence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Sierra Leone Crown Colony established 1 January 1808 with Freetown as capital. Subsequent 1896 British Protectorate over Sierra Leone hinterland."
     },
     {
       "year": 1961,
       "title": "Independence + Westminster-framework + Commonwealth-realm framework",
-      "description": "Sierra Leone achieved independence from the United Kingdom 27 April 1961 — substantively distinctive West African Westminster-framework-+-Commonwealth-realm framework with Queen Elizabeth II as initial Queen of Sierra Leone. Foundational pre-1971-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Sierra Leone achieved independence from the United Kingdom 27 April 1961."
     },
     {
       "year": 1971,
       "title": "Republic transition + Stevens-presidency + APC-one-party-state framework",
-      "description": "Sierra Leone became a republic 19 April 1971 under Siaka Stevens presidency — substantively distinctive West African Commonwealth-republic-+-APC-one-party-state framework. Foundational pre-1991-2002-Civil-War framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Sierra Leone became a republic 19 April 1971 under Siaka Stevens presidency."
     },
     {
       "year": 1990,
@@ -81,22 +83,22 @@
     {
       "year": 1991,
       "title": "Sierra Leone Civil War + RUF-+-Foday-Sankoh-+-blood-diamonds framework",
-      "description": "Sierra Leone Civil War 23 March 1991-18 January 2002 — substantively distinctive West African post-Cold-War-civil-war framework. RUF (Revolutionary United Front) under Foday Sankoh with Charles Taylor backing. Estimated 50,000-300,000 deaths + 2.6 million displaced substantively reshaping demographic framework. Substantive blood-diamonds framework affecting subsequent constitutional-democratic-trajectory and Special Court for Sierra Leone establishment 2002."
+      "description": "Sierra Leone Civil War 23 March 1991-18 January 2002. RUF (Revolutionary United Front) under Foday Sankoh with Charles Taylor backing. Estimated 50,000-300,000 deaths, 2.6 million displaced substantively reshaping demographic framework."
     },
     {
       "year": 2007,
       "title": "Child Rights Act + Devolution-of-Estates-Act framework",
-      "description": "Federal Child Rights Act 2007 enacted codifying best-interests-of-the-child principle (s. 1), parental responsibility, custody, and children's protection provisions. Devolution of Estates Act 2007 codifying inheritance provisions. Substantively significant West African child-rights-+-inheritance-modernisation framework affecting subsequent reform-trajectory."
+      "description": "Federal Child Rights Act 2007 enacted codifying best principle (s. 1), parental responsibility, custody, and children's protection provisions. Devolution of Estates Act 2007 codifying inheritance provisions."
     },
     {
       "year": 2009,
       "title": "Customary Marriage and Divorce Act + multi-track-marriage-framework consolidation",
-      "description": "Customary Marriage and Divorce Act 2009 enacted establishing federal statute on customary marriage and divorce — substantively significant West African multi-track-marriage-framework consolidation (Christian + Mohammedan + Civil + Customary). Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "Customary Marriage and Divorce Act 2009 enacted establishing federal statute on customary marriage and divorce — substantively significant West African multi consolidation (Christian, Mohammedan, Civil, Customary)."
     },
     {
       "year": 2011,
       "title": "Local Courts Act + customary-law-jurisdiction framework",
-      "description": "Local Courts Act 2011 enacted establishing Local Courts for customary-law jurisdiction — substantively significant West African customary-court framework. Foundational substantive customary-court framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Local Courts Act 2011 enacted establishing Local Courts for customary-law jurisdiction — substantively significant West African customary-court framework."
     },
     {
       "year": 2023,

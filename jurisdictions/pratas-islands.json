@@ -4,7 +4,9 @@
   "name": "Pratas Islands (Dongsha Islands / 東沙群島)",
   "jurisdiction_code": "XX-PRA",
   "legal_system": "civil-law",
-  "language": ["zh"],
+  "language": [
+    "zh"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "The Pratas Islands (Dongsha Islands / 東沙群島 Dōngshā Qúndǎo) are a northern South China Sea archipelago comprising one main coral island (Pratas Island / Dongsha Island ~1.7 km²) and two associated atolls (North Vereker Bank and South Vereker Bank), located ~340 km southwest of Kaohsiung, Taiwan and ~260 km southeast of mainland China's Guangdong Province coast — structurally distinctive globally as the only South China Sea feature controlled by Taiwan/Republic of China continuously since 1946 without subsequent loss to mainland PRC, and as the northernmost feature of the disputed South China Sea claimed territory. The Pratas Islands are administered by Taiwan as part of Cijin District, Kaohsiung City (since 2007), and house Taiwan Coast Guard Administration personnel and a small civilian-research staff at the Dongsha Atoll Research Station and Dongsha Marine National Park (Taiwan's first marine national park, established 17 January 2007). Pratas Island hosts a 1,550-metre runway capable of supporting Taiwan Air Force C-130 transport operations. The Pratas Islands are claimed by the People's Republic of China as part of the broader South China Sea claim but have never been under PRC physical control (unlike the Paracels which PRC seized from South Vietnam in 1974). Family-law framework operates under the Civil Code of the Republic of China (中華民國民法 1929) applied via Kaohsiung City administrative framework. Parental authority and child custody operate under Civil Code Book IV — Family Articles 1084-1090 (親權 / chinquan / parental authority) as amended by the 2007 Family Law reforms removing patriarchal presumption in favour of best-interests-of-child standard. The Taiwan Supreme Court is the apex domestic court for civil and criminal matters from Pratas Islands via Taiwan administration. The Pratas Islands are silent on 'parental alienation' as a statutory label. Taiwan is not a UN member and not a party to the Hague Convention 1980 — Pratas Islands non-Hague status applies.",
@@ -56,47 +58,47 @@
     {
       "year": 1907,
       "title": "Japanese-Phosphate-mining + early-20th-century-occupation framework",
-      "description": "Japanese phosphate-mining concession at Pratas Island 1907-1909 by Nishizawa Yoshiji — substantively distinctive South China Sea Japanese-pre-WWI-occupation framework. Subsequent 1909 Chinese diplomatic protest + 1909 settlement with Japan recognising Chinese sovereignty. Foundational pre-1929-ROC-Civil-Code framework affecting subsequent constitutional-administrative-trajectory and multi-state-claim-trajectory."
+      "description": "Japanese phosphate-mining concession at Pratas Island 1907-1909 by Nishizawa Yoshiji. Subsequent 1909 Chinese diplomatic protest, 1909 settlement with Japan recognising Chinese sovereignty."
     },
     {
       "year": 1929,
       "title": "Civil Code of the Republic of China + civil-law-substantive-heritage framework",
-      "description": "Civil Code of the Republic of China 1929 establishing substantive civil-law framework — substantively significant South China Sea ROC-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including Book IV articles 1084-1090 governing 親權 (parental authority)."
+      "description": "Civil Code of the Republic of China 1929 establishing substantive civil-law framework — substantively significant South China Sea ROC framework."
     },
     {
       "year": 1939,
       "title": "Japanese-WWII-occupation + Pratas-as-Higashi-Sha framework",
-      "description": "Japanese WWII occupation of Pratas Islands 1939 — renamed Higashi-Sha (東沙) — substantively distinctive South China Sea Japanese-WWII-occupation framework. Subsequent 1946 ROC reassertion of Pratas Islands control following defeat of Japan. Foundational pre-1946-ROC-control framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Japanese WWII occupation of Pratas Islands 1939. Subsequent 1946 ROC reassertion of Pratas Islands control following defeat of Japan."
     },
     {
       "year": 1946,
       "title": "ROC reassertion of Pratas Islands control + continuous-Taiwan-control framework",
-      "description": "Republic of China reasserted control of Pratas Islands 1946 following defeat of Japan in WWII — substantively distinctive globally only-South-China-Sea-feature-controlled-by-Taiwan/ROC-continuously-since-1946-without-subsequent-loss-to-mainland-PRC framework. Foundational substantive 79+ year continuous Taiwan-control framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Republic of China reasserted control of Pratas Islands 1946 following defeat of Japan in WWII."
     },
     {
       "year": 1947,
       "title": "ROC eleven-dash-line + nine-dash-line-historical-foundation framework",
-      "description": "Republic of China Ministry of the Interior published map with eleven-dash-line (subsequently reduced to nine-dash-line by PRC) including Pratas Islands — substantively distinctive South China Sea ROC-historical-foundation-of-nine-dash-line framework. Foundational substantive South-China-Sea-claim framework affecting subsequent constitutional-democratic-trajectory and PRC-claim-without-physical-control-of-Pratas framework."
+      "description": "Republic of China Ministry of the Interior published map with eleven-dash-line (subsequently reduced to nine-dash-line by PRC) including Pratas Islands."
     },
     {
       "year": 1992,
       "title": "Republic-of-China-UNCRC-non-ratification + non-UN-member framework",
-      "description": "Taiwan non-UN-member status following 1971 UN General Assembly Resolution 2758 — substantively distinctive globally Taiwan-non-UN-member-non-UNCRC-non-Hague-Convention framework. Foundational substantive non-international-treaty-membership framework persisting through subsequent reform-trajectory affecting cross-border-jurisdiction-practice."
+      "description": "Taiwan non-UN-member status following 1971 UN General Assembly Resolution 2758."
     },
     {
       "year": 2007,
       "title": "Dongsha Marine National Park + Kaohsiung-City-administrative-integration framework",
-      "description": "Taiwan Executive Yuan established Dongsha Marine National Park 17 January 2007 — substantively distinctive globally Taiwan's-first-marine-national-park-on-South-China-Sea-disputed-territory framework. Pratas Islands integrated into Cijin District, Kaohsiung City. Substantive marine-conservation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Taiwan Executive Yuan established Dongsha Marine National Park 17 January 2007. Pratas Islands integrated into Cijin District, Kaohsiung City."
     },
     {
       "year": 2007,
       "title": "Taiwan 2007 Family Law reforms + best-interests-of-child-standard framework",
-      "description": "Taiwan 2007 Family Law reforms amending ROC Civil Code Book IV articles 1084-1090 removing patriarchal presumption in favour of best-interests-of-child standard — substantively significant South China Sea Taiwan-family-law-modernisation framework. Foundational substantive best-interests-of-child framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Taiwan 2007 Family Law reforms amending ROC Civil Code Book IV articles 1084-1090 removing patriarchal presumption in favour of best standard — substantively significant South China Sea Taiwan framework."
     },
     {
       "year": 2020,
       "title": "PRC South-China-Sea-territorial-tension + Pratas-Islands-strategic-importance framework",
-      "description": "PRC increased South-China-Sea territorial tension 2020-onwards substantively affecting Pratas Islands strategic-importance framework — substantively distinctive South China Sea Taiwan-PRC-Pratas-Islands-strategic-tension framework. Substantive Taiwan Coast Guard Administration reinforcement framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "PRC increased South-China-Sea territorial tension 2020-onwards substantively affecting Pratas Islands strategic-importance framework."
     },
     {
       "year": 2023,

@@ -4,7 +4,9 @@
   "name": "Barbados",
   "jurisdiction_code": "BB",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Barbados is a Caribbean common-law republic (republic since 30 November 2021) whose family-law framework operates under the Family Law Act 1981 (CAP 214), the Child Care Board Act, the Maintenance Act, and the Minors Act. Parental responsibility and child custody are governed by Family Law Act Part V. The Court of Appeal of Barbados is the apex domestic court for civil and criminal matters; the Caribbean Court of Justice (CCJ) is the final appellate court — Barbados is among the founding members of the CCJ's appellate jurisdiction (transferring from JCPC in 2005). Family-law matters are heard at first instance in the Magistrates' Family Court and Supreme Court (Family Division). Psychology profession is regulated through the Paramedical Professions Council under the Ministry of Health and Wellness. Barbados is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle codified in Family Law Act s. 5. Barbados is non-Hague Convention.",
@@ -55,27 +57,27 @@
     {
       "year": 1627,
       "title": "British colonisation + sugar-plantation-economy + slavery framework",
-      "description": "British colonisation of Barbados 17 February 1627 by Henry Powell — substantively distinctive Caribbean British-colonial-+-sugar-plantation-+-slavery framework. Foundational substantive sugar-plantation-economy + slavery-economy framework affecting subsequent constitutional-democratic-trajectory through 1834 abolition. Foundational pre-1838-Slavery-Abolition-Act framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "British colonisation of Barbados 17 February 1627 by Henry Powell."
     },
     {
       "year": 1838,
       "title": "Slavery-Abolition-Act + post-emancipation framework",
-      "description": "Slavery Abolition Act 1833 effective 1 August 1834 + Emancipation 1838 — substantively distinctive Caribbean Slavery-Abolition-+-post-emancipation framework. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+      "description": "Slavery Abolition Act 1833 effective 1 August 1834, Emancipation 1838. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1966,
       "title": "Independence + Westminster-framework + Commonwealth-realm framework",
-      "description": "Barbados achieved independence from the United Kingdom 30 November 1966 — substantively distinctive Caribbean Westminster-framework-+-Commonwealth-realm framework with Queen Elizabeth II as initial Queen of Barbados. Initially retained Judicial Committee of the Privy Council as final appellate court. Foundational pre-2005-CCJ-transfer-+-2021-republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Barbados achieved independence from the United Kingdom 30 November 1966. Initially retained Judicial Committee of the Privy Council as final appellate court."
     },
     {
       "year": 1971,
       "title": "Minors Act + minors-rights-codification framework",
-      "description": "Minors Act 1971 (CAP 215) enacted establishing federal statute on minors' rights and welfare — substantively significant Caribbean minors-rights framework. Foundational pre-1981-Family-Law-Act framework affecting subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Minors Act 1971 (CAP 215) enacted establishing federal statute on minors' rights and welfare — substantively significant Caribbean minors-rights framework."
     },
     {
       "year": 1981,
       "title": "Family Law Act + comprehensive-family-law-codification framework",
-      "description": "Federal Family Law Act 1981 (CAP 214) enacted codifying comprehensive family-law framework including welfare-of-the-child principle (s. 5), marriage, parental responsibility, custody, and matrimonial property — substantively significant Caribbean comprehensive-family-law-codification framework. Foundational substantive family-law framework persisting through subsequent reform-trajectory."
+      "description": "Federal Family Law Act 1981 (CAP 214) enacted codifying comprehensive family-law framework including welfare principle (s. 5), marriage, parental responsibility, custody, and matrimonial property — substantively significant Caribbean comprehensive framework."
     },
     {
       "year": 1990,
@@ -85,17 +87,17 @@
     {
       "year": 2001,
       "title": "Magistrates' Family Court + specialised-family-court framework",
-      "description": "Magistrates' Family Court framework consolidated 2001 establishing specialised family-court framework — substantively significant Caribbean specialised-family-court framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "Magistrates' Family Court framework consolidated 2001 establishing specialised family-court framework — substantively significant Caribbean specialised-family-court framework."
     },
     {
       "year": 2005,
       "title": "CCJ appellate jurisdiction transfer + founding-member framework",
-      "description": "Barbados transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 16 April 2005 — substantively distinctive Caribbean founding-member-of-CCJ-appellate-jurisdiction framework. Substantive Caribbean Court of Justice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Barbados transferred final appellate jurisdiction from JCPC to Caribbean Court of Justice 16 April 2005."
     },
     {
       "year": 2021,
       "title": "Republic transition + Mia-Mottley-+-Sandra-Mason framework",
-      "description": "Barbados became a republic effective 30 November 2021 — substantively distinctive Caribbean removing-Queen-as-Head-of-State framework. President Sandra Mason inaugurated; Mia Mottley continued as Prime Minister. Substantive 55-year anniversary of independence + republic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Barbados became a republic effective 30 November 2021. President Sandra Mason inaugurated; Mia Mottley continued as Prime Minister."
     },
     {
       "year": 2023,

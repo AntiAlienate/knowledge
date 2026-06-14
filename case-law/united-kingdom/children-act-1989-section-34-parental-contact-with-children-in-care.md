@@ -106,6 +106,8 @@ The statutory framework for contact with a child who is in local-authority care.
 - [Children Act 1989, s.91 — Effect and Duration of Orders](children-act-1989-section-91-effect-and-duration-of-orders.md)
 - [Children Act 1989, s.91A — Barring Orders: Further Provision](children-act-1989-section-91A-barring-order-further-provision.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

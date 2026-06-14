@@ -4,7 +4,9 @@
   "name": "Sweden (Sverige)",
   "jurisdiction_code": "SE",
   "legal_system": "civil-law",
-  "language": ["sv"],
+  "language": [
+    "sv"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Sweden is a Nordic civil-law unitary kingdom whose family-court framework operates under the Föräldrabalken (Children and Parents Code, FB) of 1949 as substantially amended. Joint custody (gemensam vårdnad) is the statutory default in Sweden including for parents who never lived together; this places Sweden among the strongest joint-custody-default jurisdictions in Europe. The Högsta domstolen (Supreme Court) is the apex court for civil and criminal matters; family-law decisions reach the Supreme Court via the Hovrätt (Court of Appeal) following Tingsrätt (District Court) determinations. Psychology profession is regulated under the Hälso- och sjukvårdens ansvarsnämnd (HSAN) and the Socialstyrelsen (National Board of Health and Welfare) under the Patientsäkerhetslagen 2010:659 — psychologist (legitimerad psykolog) is a statutorily protected title requiring a licence issued by Socialstyrelsen. Sweden is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets bästa (best-interests-of-the-child) welfare standard.",
@@ -61,27 +63,27 @@
     {
       "year": 1734,
       "title": "Sveriges Rikes Lag 1734 + civil-law-substantive-heritage framework",
-      "description": "Sveriges Rikes Lag 1734 (Swedish Code of 1734) — substantively distinctive Nordic Swedish-Civil-Code-substantive-heritage framework. Foundational pre-1949-Föräldrabalken framework affecting subsequent constitutional-administrative-trajectory and civil-law tradition."
+      "description": "Sveriges Rikes Lag 1734 (Swedish Code of 1734)."
     },
     {
       "year": 1734,
       "title": "Sveriges Rikes Lag + Code-of-1734 framework",
-      "description": "Sveriges Rikes Lag 1734 (Swedish Code of 1734) substantively significant Nordic comprehensive civil-code framework — substantively significant Nordic Swedish-Civil-Code-substantive-heritage framework. Foundational pre-1949-Föräldrabalken framework affecting subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Sveriges Rikes Lag 1734 (Swedish Code of 1734) substantively significant Nordic comprehensive civil-code framework — substantively significant Nordic Swedish framework."
     },
     {
       "year": 1949,
       "title": "Föräldrabalken enacted + family-law-foundational framework",
-      "description": "Children and Parents Code (Föräldrabalken FB) enacted 1949 — substantively significant Nordic foundational federal civil-code framework for family law in Sweden. Foundational substantive children-and-parents-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Children and Parents Code (Föräldrabalken FB) enacted 1949 — substantively significant Nordic foundational federal civil-code framework for family law in Sweden."
     },
     {
       "year": 1990,
       "title": "Sweden ratifies UN Convention on the Rights of the Child + early-Nordic-ratification framework",
-      "description": "Sweden ratified UNCRC 29 June 1990 — substantively distinctive Nordic early-UNCRC-ratification framework. Foundational barnets-bästa framework integration with subsequent 2006 vårdnadsreform substantive doctrine."
+      "description": "Sweden ratified UNCRC 29 June 1990. Foundational barnets-bästa framework integration with subsequent 2006 vårdnadsreform substantive doctrine."
     },
     {
       "year": 1998,
       "title": "1998 vårdnadsreform + joint-custody-default-+-god-kontakt framework",
-      "description": "1998 Custody reform strengthened the joint-custody-default and introduced the close-and-good-contact (god kontakt) standard — substantively distinctive globally strongest-joint-custody-default-regime-in-Europe framework. Foundational substantive joint-custody framework persisting through subsequent 2006-vårdnadsreform-balancing reform-trajectory."
+      "description": "1998 Custody reform strengthened the joint-custody-default and introduced the close (god kontakt) standard."
     },
     {
       "year": 2006,
@@ -91,22 +93,22 @@
     {
       "year": 2010,
       "title": "Patientsäkerhetslagen 2010:659 + Socialstyrelsen-statutory-title-protection framework",
-      "description": "Patientsäkerhetslagen 2010:659 (Patient Safety Act) consolidated health-and-social-care professional regulation effective 1 January 2011 — substantively distinctive Nordic federal-statutory-psychology-regulator framework with statutorily protected title 'legitimerad psykolog' requiring Socialstyrelsen licence. Substantive evaluator-quality anchor for court-appointed psychological assessments."
+      "description": "Patientsäkerhetslagen 2010:659 (Patient Safety Act) consolidated health professional regulation effective 1 January 2011. Substantive evaluator-quality anchor for court-appointed psychological assessments."
     },
     {
       "year": 2020,
       "title": "FN:s barnkonvention as Swedish law + UNCRC-as-Swedish-law framework",
-      "description": "UN CRC incorporated into Swedish law 1 January 2020 by Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter — substantively distinctive globally constitutional-level-incorporation-of-UN-CRC-as-Swedish-law framework. Strengthens children's-rights paramountcy in family-court decision-making affecting subsequent reform-trajectory."
+      "description": "UN CRC incorporated into Swedish law 1 January 2020 by Lag (2018:1197) om Förenta nationernas konvention om barnets rättigheter."
     },
     {
       "year": 2021,
       "title": "2021 vårdnadsreform + risk-of-harm-+-shared-care-balance framework",
-      "description": "2021 vårdnadsreform (Vårdnad, boende och umgänge 2021) further strengthening risk-of-harm balancing against shared-care provisions — substantively significant Nordic continuing-balancing-reform framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "2021 vårdnadsreform (Vårdnad, boende och umgänge 2021) further strengthening risk-of-harm balancing against shared-care provisions — substantively significant Nordic continuing-balancing-reform framework."
     },
     {
       "year": 2022,
       "title": "Sweden NATO accession application + end of 200-year non-alignment + family-law-implementation framework",
-      "description": "Sweden NATO accession application submitted 18 May 2022 following Russian invasion of Ukraine 24 February 2022 — substantively distinctive globally end-of-200-year-Swedish-military-non-alignment framework dating to 1814 + structurally distinctive Nordic Russia-Ukraine-war-precipitated NATO-accession framework + parallel Finland NATO application framework + subsequent Sweden NATO accession effective 7 March 2024 + structurally distinctive globally only modern Western European NATO member ending sustained non-alignment + substantive constitutional-democratic-trajectory framework affecting subsequent family-court NATO-context-jurisdiction-cluster including Ukrainian-displaced-family family-law-implementation framework."
+      "description": "Sweden NATO accession application submitted 18 May 2022 following Russian invasion of Ukraine 24 February 2022."
     },
     {
       "year": 2023,

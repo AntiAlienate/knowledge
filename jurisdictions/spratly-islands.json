@@ -4,7 +4,13 @@
   "name": "Spratly Islands (南沙群島 / Quần đảo Trường Sa / Kepulauan Spratly / Kapuluan ng Kalayaan)",
   "jurisdiction_code": "XX-SPR",
   "legal_system": "mixed",
-  "language": ["zh", "vi", "tl", "en", "ms"],
+  "language": [
+    "zh",
+    "vi",
+    "tl",
+    "en",
+    "ms"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "The Spratly Islands (南沙群島 / Quần đảo Trường Sa / Kepulauan Spratly / Kapuluan ng Kalayaan) are a South China Sea disputed archipelago of ~100 small islands, cays, atolls, and reefs spread across ~425,000 km² of maritime area — structurally distinctive globally as the only territorial dispute simultaneously claimed in whole or in part by six state-level entities (People's Republic of China, Taiwan/Republic of China, Vietnam, Philippines, Malaysia, Brunei), making it the most-multi-state-claimed contemporary territorial dispute. The Spratlys are also the subject of the South China Sea Arbitration (Republic of the Philippines v People's Republic of China) Permanent Court of Arbitration award of 12 July 2016 — finding the PRC's 'nine-dash-line' historical-rights claim to be incompatible with UNCLOS, but with PRC rejecting the tribunal's jurisdiction and refusing to participate. Active occupations: PRC controls 7 islands/reefs (with extensive 2013-2017 artificial-island construction at Fiery Cross, Subi, Mischief Reef etc), Vietnam controls ~21 features, Philippines controls 9 features (including Pag-asa/Thitu with permanent civilian population ~200), Taiwan controls Itu Aba (largest natural island, ~46 ha), Malaysia controls 5 features, Brunei claims but does not occupy any. Family-law framework varies by occupying state — PRC features operate under Chinese Civil Code (Sansha City, Hainan administrative framework); Vietnam-controlled features operate under Vietnamese Family and Marriage Law 2014 (Khánh Hòa Province administrative framework); Philippines-controlled features operate under the Family Code of the Philippines 1987 (Kalayaan Municipality, Palawan administrative framework); Taiwan-controlled Itu Aba operates under Taiwan Civil Code (Kaohsiung City administrative framework); Malaysia-controlled features operate under the Federal Constitution + Sabah administrative framework. The Spratlys are silent on 'parental alienation' as a statutory label. Hague Convention 1980 applicability varies by occupying state — Philippines (acceded 1994), China mainland (non-party), Vietnam (non-party), Malaysia (non-party), Brunei (non-party), Taiwan (not a UN member, not a party).",
@@ -76,47 +82,47 @@
     {
       "year": 1933,
       "title": "French sovereignty assertion + French-Indochina-Spratly-claim framework",
-      "description": "France formally claimed Spratly Islands 14 April 1933 — substantively distinctive South China Sea French-Indochina-Spratly-claim framework beginning modern multi-state-claim era. Foundational pre-1956-Philippines-Cloma-claim framework affecting subsequent constitutional-administrative-trajectory and six-state multi-claimant trajectory."
+      "description": "France formally claimed Spratly Islands 14 April 1933."
     },
     {
       "year": 1956,
       "title": "Tomás-Cloma-Philippines-claim + Kalayaan-discovery framework",
-      "description": "Philippine entrepreneur Tomás Cloma claimed parts of Spratly Islands as 'Kalayaan' (Freedom Land) 15 May 1956 — substantively distinctive South China Sea Philippine-private-citizen-claim-+-state-incorporation framework. Foundational pre-1978-Kalayaan-Municipality framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Philippine entrepreneur Tomás Cloma claimed parts of Spratly Islands as 'Kalayaan' (Freedom Land) 15 May 1956."
     },
     {
       "year": 1978,
       "title": "Kalayaan Municipality + Philippine-Marcos-administrative-incorporation framework",
-      "description": "Philippine President Marcos established Kalayaan Municipality of Palawan Province 11 June 1978 (Presidential Decree 1596) — substantively distinctive South China Sea Philippine-formal-administrative-incorporation framework. Foundational substantive Philippine-Kalayaan-Municipality framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory."
+      "description": "Philippine President Marcos established Kalayaan Municipality of Palawan Province 11 June 1978 (Presidential Decree 1596)."
     },
     {
       "year": 1982,
       "title": "UNCLOS + UN-Convention-on-Law-of-the-Sea framework",
-      "description": "UN Convention on the Law of the Sea 10 December 1982 (entered into force 16 November 1994) — substantively distinctive globally UN-Convention-on-Law-of-the-Sea-+-200-nautical-mile-EEZ framework. Foundational substantive 2016 South China Sea Arbitration PCA Award legal-basis framework affecting subsequent reform-trajectory."
+      "description": "UN Convention on the Law of the Sea 10 December 1982 (entered into force 16 November 1994)."
     },
     {
       "year": 1988,
       "title": "Johnson South Reef Skirmish + Sino-Vietnamese-naval-clash framework",
-      "description": "Sino-Vietnamese naval skirmish at Johnson South Reef 14 March 1988 — substantively distinctive South China Sea Sino-Vietnamese-armed-clash framework. ~64 Vietnamese sailors killed; PRC gained control of multiple reefs. Substantive demographic and constitutional-democratic-trajectory framework affecting subsequent reform-trajectory and 2013-2017 PRC artificial-island construction."
+      "description": "Sino-Vietnamese naval skirmish at Johnson South Reef 14 March 1988. ~64 Vietnamese sailors killed; PRC gained control of multiple reefs."
     },
     {
       "year": 2002,
       "title": "DOC + ASEAN-China-Declaration-on-Conduct-of-Parties framework",
-      "description": "Declaration on the Conduct of Parties in the South China Sea (DOC) 4 November 2002 between ASEAN and China — substantively distinctive South China Sea ASEAN-China-DOC framework. Foundational substantive DOC framework persisting through ongoing Code of Conduct (COC) negotiations affecting subsequent reform-trajectory."
+      "description": "Declaration on the Conduct of Parties in the South China Sea (DOC) 4 November 2002 between ASEAN and China."
     },
     {
       "year": 2012,
       "title": "Scarborough Shoal standoff + PRC-Philippines-confrontation framework",
-      "description": "Scarborough Shoal standoff April-June 2012 between PRC and Philippines — substantively distinctive South China Sea PRC-de-facto-control-of-Scarborough-Shoal framework. Foundational pre-2013-Philippines-v-China-arbitration framework affecting subsequent reform-trajectory."
+      "description": "Scarborough Shoal standoff April-June 2012 between PRC and Philippines."
     },
     {
       "year": 2013,
       "title": "Philippines v China arbitration + UNCLOS-Annex-VII-+-PRC-artificial-island-construction framework",
-      "description": "Republic of the Philippines initiated UNCLOS Annex VII arbitration against People's Republic of China 22 January 2013 — substantively distinctive South China Sea UNCLOS-Annex-VII-arbitration framework. PRC commenced extensive artificial-island construction at Fiery Cross, Subi, Mischief Reef and other features 2013-2017 — substantively distinctive globally largest-contemporary-artificial-island-construction-in-disputed-territory adding ~3,200 acres of artificial land framework."
+      "description": "Republic of the Philippines initiated UNCLOS Annex VII arbitration against People's Republic of China 22 January 2013. PRC commenced extensive artificial-island construction at Fiery Cross, Subi, Mischief Reef and other features 2013-2017."
     },
     {
       "year": 2016,
       "title": "South China Sea Arbitration PCA Award + nine-dash-line-incompatibility-with-UNCLOS framework",
-      "description": "Permanent Court of Arbitration Award 12 July 2016 — substantively distinctive globally apex-international-arbitration-award-finding-PRC-nine-dash-line-historical-rights-claim-incompatible-with-UNCLOS framework. PRC rejected tribunal jurisdiction and refused to participate. Substantive major-contemporary-apex-international-arbitration-award-without-losing-party-compliance framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Permanent Court of Arbitration Award 12 July 2016. PRC rejected tribunal jurisdiction and refused to participate."
     },
     {
       "year": 2025,
@@ -126,7 +132,7 @@
     {
       "year": 2024,
       "title": "Continuing PRC-Philippines-+-Vietnam-incidents + 2023-Second-Thomas-Shoal-clash + 2024-Sandy-Cay-Subi-Reef context framework",
-      "description": "Continuing PRC-Philippines-Vietnam Spratly Islands incidents 2023-2024 including Second Thomas Shoal water-cannon clashes 22 October 2023 + August 2023 + 2024 Sandy Cay-Subi Reef sovereignty-flag-planting confrontations + continuing 2024 Philippine-PRC bilateral-tension context — substantively distinctive South China Sea ongoing-multi-state-multi-incident framework. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Continuing PRC-Philippines-Vietnam Spratly Islands incidents 2023-2024 including Second Thomas Shoal water-cannon clashes 22 October 2023, August 2023, 2024 Sandy Cay-Subi Reef sovereignty-flag-planting confrontations, continuing 2024 Philippine-PRC bilateral-tension context."
     }
   ],
   "structural_findings": [

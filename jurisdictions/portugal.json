@@ -4,7 +4,9 @@
   "name": "Portugal",
   "jurisdiction_code": "PT",
   "legal_system": "civil-law",
-  "language": ["pt"],
+  "language": [
+    "pt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Portugal is a civil-law unitary republic whose family-court framework operates under the Código Civil (Civil Code) Book IV (Direito da Família) and the Regime Geral do Processo Tutelar Cível (RGPTC, Lei 141/2015). Parental responsibilities (responsabilidades parentais) are governed by Código Civil arts. 1901-1912; the 2008 reform (Lei 61/2008) established joint exercise of parental responsibilities as the default following divorce/separation. The Supremo Tribunal de Justiça (STJ, Lisbon) is the apex court for civil matters; family-law decisions reach STJ via Tribunal da Relação (Court of Appeal) following first-instance Juízo de Família e Menores determinations. Psychology profession is regulated under the Ordem dos Psicólogos Portugueses (OPP) established by Lei 57/2008 — statutory professional-order regime with title protection. Portugal is silent on 'parental alienation' as a statutory label; STJ practice operates substantively under the superior interesse da criança welfare standard.",
@@ -63,17 +65,17 @@
     {
       "year": 1867,
       "title": "Código Civil 1867 + Seabra-Code + first-modern-Portuguese-civil-code framework",
-      "description": "Código Civil 1867 (Seabra Code) enacted 1 July 1867 — first modern Portuguese civil-code drawing on French civil-law substantive heritage. Foundational pre-1966-Code framework affecting subsequent reform-trajectory."
+      "description": "Código Civil 1867 (Seabra Code) enacted 1 July 1867 — first modern Portuguese civil-code drawing on French civil-law substantive heritage."
     },
     {
       "year": 1966,
       "title": "Código Civil 1966 + comprehensive-revision framework",
-      "description": "Código Civil 1966 enacted Decreto-Lei 47344 of 25 November 1966 comprehensively revising 1867 Seabra Code. Substantively significant 20th-century Portuguese civil-codification framework persisting through subsequent reform-trajectory affecting contemporary family-law-jurisprudence."
+      "description": "Código Civil 1966 enacted Decreto-Lei 47344 of 25 November 1966 comprehensively revising 1867 Seabra Code."
     },
     {
       "year": 1974,
       "title": "Carnation Revolution 25 April 1974 + democratic-transition framework",
-      "description": "Carnation Revolution 25 April 1974 substantively ending Estado Novo authoritarian framework — substantively distinctive Iberian democratic-transition framework. Foundational pre-1976-Constitution framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "Carnation Revolution 25 April 1974 substantively ending Estado Novo authoritarian framework."
     },
     {
       "year": 1976,
@@ -108,7 +110,7 @@
     {
       "year": 2019,
       "title": "CPLP framework + Lusophone-cooperation + cross-border-jurisdiction framework",
-      "description": "CPLP (Community of Portuguese-Speaking Countries) framework consolidation through 2010s-2020s substantively affecting Lusophone cross-border-jurisdiction-practice with Brazil, Angola, Mozambique, Cabo Verde, Guinea-Bissau, São Tomé, East Timor. Substantively distinctive Iberian Lusophone-CPLP-framework."
+      "description": "CPLP (Community of Portuguese-Speaking Countries) framework consolidation through 2010s-2020s substantively affecting Lusophone cross with Brazil, Angola, Mozambique, Cabo Verde, Guinea-Bissau, São Tomé, East Timor."
     },
     {
       "year": 2021,

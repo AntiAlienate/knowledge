@@ -4,7 +4,10 @@
   "name": "Pakistan (Islamic Republic of Pakistan / پاکستان)",
   "jurisdiction_code": "PK",
   "legal_system": "mixed",
-  "language": ["ur", "en"],
+  "language": [
+    "ur",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Pakistan is a South Asian mixed-legal-system Islamic republic combining English common-law procedural inheritance with Muslim personal-law substantive heritage. Family law for Muslims operates under the Guardians and Wards Act 1890 (GWA, federal), the Muslim Family Laws Ordinance 1961 (MFLO), and the West Pakistan Family Courts Act 1964 — heard by Family Courts. Custody (hizanat) is governed by GWA s. 7 and MFLO with Hanafi jurisprudential basis (with adjustments per the schools of relevant communities). The Supreme Court of Pakistan (Adalat-e-Uzma) is the apex court for civil, criminal and constitutional matters; the Federal Shariat Court (Adalat-e-Vifaqi-e-Shariat) operates parallel jurisdiction over the Islamic conformity of laws. Psychology profession regulation is administered through provincial Healthcare Commission frameworks and the Pakistan Psychological Association (PPA). Pakistan is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-minor standard. Pakistan acceded to the Hague Convention 1980 effective 1 March 2017.",
@@ -67,7 +70,7 @@
     {
       "year": 1937,
       "title": "Muslim Personal Law (Shariat) Application Act 1937",
-      "description": "Muslim Personal Law (Shariat) Application Act 1937 originally enacted under British India — declaring Muslim personal-status matters governed by Hanafi-Shariat-law. Foundational substantive anchor for Muslim personal-status framework that persists in Pakistan post-1947-independence."
+      "description": "Muslim Personal Law (Shariat) Application Act 1937 originally enacted under British India — declaring Muslim personal-status matters governed by Hanafi-Shariat-law."
     },
     {
       "year": 1947,

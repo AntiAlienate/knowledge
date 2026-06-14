@@ -114,7 +114,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ## Editorial notes
 
-- Primary-source order: echr.coe.int + [HUDOC](https://hudoc.echr.coe.int/) for case-law (Lombardo / Strumia / Improta / Neulinger / X v Latvia); Convention text cited from echr.coe.int; Council of Europe Committee of Ministers + Commissioner for institutional execution.
+- Primary-source order: echr.coe.int + [HUDOC](https://hudoc.echr.coe.int/) for case-law (Lombardo / Strumia / Improta / Neulinger / X v Latvia); Convention text cited from echr.coe.int; [Council of Europe](https://www.coe.int/) Committee of Ministers + Commissioner for institutional execution.
 - Bilingual ECHR convention (English + French) preserved; [HUDOC](https://hudoc.echr.coe.int/) publishes bilingually with national translations.
 - Strasbourg Italian triptych Lombardo+Strumia+Improta foregrounded as the leading Article 8 PA-adjacent jurisprudence — engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and structurally analogous to subsequent [BVerfG](https://www.bundesverfassungsgericht.de/) and SCJN apex engagement.
 - Multi-tier international critique-anchor structure (Strasbourg Art 8 + UN Alsalem 2022 + MESECVI 2023 + LATAM5 domestic-apex Colombia/Belgium) recognised in structural_findings[4] as convergent international PA-construct framing.
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

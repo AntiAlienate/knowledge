@@ -4,7 +4,10 @@
   "name": "Finland (Suomi / Finland)",
   "jurisdiction_code": "FI",
   "legal_system": "civil-law",
-  "language": ["fi", "sv"],
+  "language": [
+    "fi",
+    "sv"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Finland is a Nordic civil-law unitary republic whose family-court framework operates under the Laki lapsen huollosta ja tapaamisoikeudesta (Act on Child Custody and Right of Access) 1983, substantially amended by Lain muutos 190/2019 in force 1 December 2019. Custody (huolto) is jointly held by default; the 2019 reform strengthened the focus on the child's right to maintain contact with both parents and introduced explicit provisions on supervised contact (valvotut tapaamiset). The Korkein oikeus (Supreme Court of Finland, Helsinki) is the apex court for civil matters; family-law decisions reach Korkein oikeus via the Hovioikeus (Court of Appeal) following first-instance Käräjäoikeus (District Court) determinations. Psychology profession is regulated under the Laki terveydenhuollon ammattihenkilöistä 1994 (Health Care Professionals Act) operated by Valvira (National Supervisory Authority for Welfare and Health). Finland is silent on 'parental alienation' as a statutory label; courts operate substantively under the lapsen etu (best-interests-of-the-child) welfare standard.",
@@ -59,7 +62,7 @@
     {
       "year": 1919,
       "title": "Constitution Act 1919 + Republic-from-monarchy framework",
-      "description": "Constitution Act of Finland (Suomen hallitusmuoto) 17 July 1919 establishing republican presidential framework — substantively distinctive Nordic republican framework (vs Sweden, Denmark, Norway monarchies). Foundational pre-2000-constitutional-reform framework affecting subsequent family-law-jurisprudence."
+      "description": "Constitution Act of Finland (Suomen hallitusmuoto) 17 July 1919 establishing republican presidential framework."
     },
     {
       "year": 1939,
@@ -69,12 +72,12 @@
     {
       "year": 1983,
       "title": "Laki lapsen huollosta ja tapaamisoikeudesta + joint-custody-default framework",
-      "description": "Child Custody and Right of Access Act 1983/361 enacted; joint-custody (huolto) default. § 1 codifies the lapsen etu welfare standard. § 6 establishes joint custody as the default. Foundational family-law framework for subsequent reform-trajectory."
+      "description": "Child Custody and Right of Access Act 1983/361 enacted; joint-custody (huolto) default. § 1 codifies the lapsen etu welfare standard. § 6 establishes joint custody as the default."
     },
     {
       "year": 1991,
       "title": "Finland ratifies UN Convention on the Rights of the Child",
-      "description": "Finland ratified the UNCRC on 20 June 1991 — establishing lapsen etu best-interests-of-the-child substantive doctrine within Finnish civil-law framework. Substantive integration into UNCRC framework affecting subsequent family-law-jurisprudence."
+      "description": "Finland ratified the UNCRC on 20 June 1991 — establishing lapsen etu best substantive doctrine within Finnish civil-law framework."
     },
     {
       "year": 1994,
@@ -99,7 +102,7 @@
     {
       "year": 2020,
       "title": "COVID-19 pandemic + Finnish-family-court-digital-transformation + remote-hearings framework",
-      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Finland — substantively distinctive accelerated-digital-transformation-of-Finnish-family-courts framework. Käräjäoikeus + Hovioikeus operations adapted via remote-hearings framework + Hague Convention 1980 cross-border child-return proceedings continuing through remote-hearings framework + Lain muutos 190/2019 implementation continuing through pandemic-trajectory + lapsenoikeusasiavaltuutettu (Ombudsperson for Children) institutional position addressing pandemic-impact on child-rights framework + substantive demographic and family-law-implementation framework affecting subsequent post-pandemic reform-trajectory and Finland NATO accession 2023 framework."
+      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Finland."
     },
     {
       "year": 2023,

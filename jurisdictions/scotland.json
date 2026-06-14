@@ -4,7 +4,11 @@
   "name": "Scotland",
   "jurisdiction_code": "UK-SCO",
   "legal_system": "mixed",
-  "language": ["en", "sco", "gd"],
+  "language": [
+    "en",
+    "sco",
+    "gd"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-05-31",
   "summary": "Scotland is a mixed civil-common (Scottish hybrid) jurisdiction whose family courts apply the Children (Scotland) Act 1995 welfare test (s.11, s.11(7C)) as reformed by the Children (Scotland) Act 2020. Scotland produced the strongest single Scottish judicial PA finding to date in NF v AF [2025] CSOH 13 (Lord Stuart), which characterised a parent's knowingly false allegations against the other parent as direct emotional abuse of the child. The institutional landscape is institutional-voice + judicial-output dominated rather than bar-based: practitioner identity sits with Shared Parenting Scotland (recognition camp) and Scottish Women's Aid + Engender (critique camp) rather than with a named Faculty of Advocates PA bar.",
@@ -130,12 +134,12 @@
   "key_developments": [
     {
       "year": 1707,
-      "description": "Acts of Union 1707 + post-Union-Scotland-retains-separate-legal-system — substantively distinctive globally Acts-of-Union-preserving-Scottish-legal-system framework. Foundational substantive 318+ year separate-Scottish-legal-system framework persisting through 2014 Scottish independence referendum + 2026 onwards Scotland-as-distinct-jurisdiction framework affecting subsequent constitutional-democratic-trajectory and civil-law-substantive-+-common-law-procedural mixed-jurisdiction.",
+      "description": "Acts of Union 1707, post.",
       "url": "https://www.legislation.gov.uk/aep/Ann/6/11"
     },
     {
       "year": 1830,
-      "description": "Court of Session Act 1830 + Inner-House-and-Outer-House-division — substantively distinctive globally Scottish-Court-of-Session-Inner-House-+-Outer-House-bicameral-apex-court framework. Foundational substantive bicameral-apex-court framework persisting through 21st century affecting subsequent constitutional-democratic-trajectory and Outer-House-NF-v-AF-2025-decision.",
+      "description": "Court of Session Act 1830, Inner.",
       "url": "https://www.legislation.gov.uk/ukpga/Geo4/11/69/contents"
     },
     {
@@ -145,7 +149,7 @@
     },
     {
       "year": 1998,
-      "description": "Scotland Act 1998 + Scottish Parliament establishment + devolution framework — substantively distinctive UK Scottish-devolution framework with devolved competence over family-law-and-welfare matters. Foundational substantive Scottish-Parliament-+-devolved-Scottish-Government framework persisting through subsequent reform-trajectory affecting family-law-implementation.",
+      "description": "Scotland Act 1998, Scottish Parliament establishment, devolution framework.",
       "url": "https://www.legislation.gov.uk/ukpga/1998/46/contents"
     },
     {
@@ -155,7 +159,7 @@
     },
     {
       "year": 2011,
-      "description": "Children's Hearings (Scotland) Act 2011 + Children's Hearings System constitutionalisation — substantively distinctive globally Scottish-Children's-Hearings-System-panels-+-Reporter-+-compulsory-supervision-orders framework distinct from sheriff court family-law proceedings. Foundational substantive Children's-Hearings-welfare-jurisdiction framework affecting subsequent reform-trajectory.",
+      "description": "Children's Hearings (Scotland) Act 2011, Children's Hearings System constitutionalisation.",
       "url": "https://www.legislation.gov.uk/asp/2011/1/contents"
     },
     {
@@ -170,7 +174,7 @@
     },
     {
       "year": 2024,
-      "description": "United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024 + UNCRC-as-Scottish-law — substantively distinctive globally UNCRC-incorporated-into-Scottish-domestic-law framework effective 16 July 2024 (following 2021 reference back from UK Supreme Court reconsideration). Substantive children's-rights-paramountcy framework affecting subsequent reform-trajectory.",
+      "description": "United Nations Convention on the Rights of the Child (Incorporation) (Scotland) Act 2024, UNCRC.",
       "url": "https://www.legislation.gov.uk/asp/2024/1/contents"
     },
     {

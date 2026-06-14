@@ -4,7 +4,9 @@
   "name": "Niger (Republic of Niger / République du Niger)",
   "jurisdiction_code": "NE",
   "legal_system": "mixed",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Niger is a West African Sahel mixed-legal-system republic combining French civil-law substantive heritage (via colonial inheritance) with Maliki Islamic-law personal-status provisions and customary-law jurisdiction (largely uncodified). Niger is structurally distinctive within the corpus as one of the few states without a comprehensive Family or Persons and Family Code — family-law operates through dispersed statutes (Marriage Ordinance, Custom Codification regulations) supplemented heavily by uncodified customary-law and Maliki Islamic-law for relevant communities. Parental authority and child custody are governed by case-law and the Civil Code of 1804 (Napoleonic, residual application). The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance), customary courts, and Islamic-law tribunals (Tribunaux des Affaires Coutumières). Psychology profession is regulated through the Ministry of Health framework. Niger is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Niger is non-Hague Convention.",
@@ -55,12 +57,12 @@
     {
       "year": 1960,
       "title": "Niger independence + Hamani Diori founding-presidency",
-      "description": "Niger independence 3 August 1960 from France — Hamani Diori first president 1960-1974 substantively distinctive Sahel founding-presidency framework. Foundational pre-1974-coup framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Niger independence 3 August 1960 from France."
     },
     {
       "year": 1974,
       "title": "1974 Niger coup + Kountché 13-year-military-rule framework",
-      "description": "1974 Niger coup d'état 15 April 1974 led by Colonel Seyni Kountché ending Diori presidency — substantively distinctive Sahel recurring-coup framework. Subsequent 13-year-military-rule 1974-1987 substantially affecting political-institutional framework persisting through subsequent democratic-trajectory."
+      "description": "1974 Niger coup d'état 15 April 1974 led by Colonel Seyni Kountché ending Diori presidency. Subsequent 13 1974-1987 substantially affecting political-institutional framework persisting through subsequent democratic-trajectory."
     },
     {
       "year": 1990,
@@ -70,17 +72,17 @@
     {
       "year": 1993,
       "title": "Multi-party transition + Constitution + democratic-trajectory framework",
-      "description": "Multi-party transition 1991-1993 — Constitution of Niger 1992 adopted by referendum substantively reforming political-institutional framework. Substantively significant Sahel democratic-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Multi-party transition 1991-1993 — Constitution of Niger 1992 adopted by referendum substantively reforming political-institutional framework."
     },
     {
       "year": 1995,
       "title": "Custom Codification regulations + customary-law-framework consolidation",
-      "description": "Regulatory framework codifying selected customary-law personal-status provisions — substantively distinctive Sahel customary-law-codification framework. Foundational pre-2010 customary-law framework supplemented by uncodified customary-law applied by Tribunaux des Affaires Coutumières."
+      "description": "Regulatory framework codifying selected customary-law personal-status provisions. Foundational pre-2010 customary-law framework supplemented by uncodified customary-law applied by Tribunaux des Affaires Coutumières."
     },
     {
       "year": 1996,
       "title": "1996 Niger coup + Maïnassara + recurring-coup-pattern framework",
-      "description": "1996 Niger coup 27 January 1996 led by Colonel Ibrahim Baré Maïnassara substantively disrupting political-institutional framework. Subsequent 1999 coup + Maïnassara assassination substantively distinctive Sahel recurring-coup pattern affecting subsequent constitutional-democratic-trajectory."
+      "description": "1996 Niger coup 27 January 1996 led by Colonel Ibrahim Baré Maïnassara substantively disrupting political-institutional framework."
     },
     {
       "year": 2010,
@@ -95,7 +97,7 @@
     {
       "year": 2023,
       "title": "2023 Niger coup + Tchiani + post-Western-disengagement-Russian-Wagner-realignment framework",
-      "description": "2023 Niger coup 26 July 2023 led by General Abdourahamane Tchiani ending Bazoum presidency. Substantively distinctive Sahel post-Western-disengagement-Russian-Wagner-realignment framework (alongside Mali 2020, Burkina Faso 2022) — French withdrawal from Niger December 2023. Substantive cross-border-jurisdiction-practice framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "2023 Niger coup 26 July 2023 led by General Abdourahamane Tchiani ending Bazoum presidency."
     },
     {
       "year": 2023,

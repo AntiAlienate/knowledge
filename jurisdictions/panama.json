@@ -4,7 +4,9 @@
   "name": "Panama (Republic of Panama / República de Panamá)",
   "jurisdiction_code": "PA",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Panama is a Central American civil-law republic whose family-law framework operates under the Family Code 1994 (Código de la Familia, Law 3 of 1994), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Family Code arts. 308-359. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados Seccionales de Familia). Psychology profession is regulated under the Colegio Nacional de Psicólogos and Ministerio de Salud licensing framework. Panama is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 481. Panama acceded to the Hague Convention 1980 effective 1 May 1994 — among the earliest Latin American accessions in the corpus.",
@@ -42,22 +44,22 @@
     {
       "year": 1903,
       "title": "Panama independence from Colombia + US Canal Treaty + foundational framework",
-      "description": "Panama declared independence 3 November 1903 from Colombia with US support — substantively distinctive US-facilitated independence framework. Hay-Bunau-Varilla Treaty 18 November 1903 establishing Panama Canal Zone US-jurisdiction-enclave. Foundational US-Panama dual-sovereignty-arrangement persisting through 1999."
+      "description": "Panama declared independence 3 November 1903 from Colombia with US support. Hay-Bunau-Varilla Treaty 18 November 1903 establishing Panama Canal Zone US-jurisdiction-enclave. Foundational US-Panama dual-sovereignty-arrangement persisting through 1999."
     },
     {
       "year": 1972,
       "title": "Constitution 1972 + Torrijos military-populist framework",
-      "description": "Constitution of Panama adopted 11 October 1972 (substantially amended 1978, 1983, 1994, 2004) — establishing presidential republic framework under Omar Torrijos military-populist framework. Substantively distinctive military-dominant political-institutional framework persisting through 1989."
+      "description": "Constitution of Panama adopted 11 October 1972 (substantially amended 1978, 1983, 1994, 2004) — establishing presidential republic framework under Omar Torrijos military-populist framework."
     },
     {
       "year": 1977,
       "title": "Torrijos-Carter Treaties + Canal sovereignty transfer trajectory",
-      "description": "Torrijos-Carter Treaties signed 7 September 1977 — establishing 31 December 1999 Canal sovereignty transfer to Panama. Substantively distinctive sovereignty-restoration trajectory affecting cross-border-jurisdiction practice. Foundational framework for contemporary Panama-US relationship."
+      "description": "Torrijos-Carter Treaties signed 7 September 1977 — establishing 31 December 1999 Canal sovereignty transfer to Panama. Foundational framework for contemporary Panama-US relationship."
     },
     {
       "year": 1989,
       "title": "US Operation Just Cause + Noriega arrest + democratic-transition framework",
-      "description": "US Operation Just Cause 20 December 1989 — Manuel Noriega ousted and arrested. Substantively distinctive 20th-century US-Caribbean military-intervention pattern. Subsequent democratic-transition trajectory establishing contemporary constitutional-democratic framework affecting family-law-modernisation."
+      "description": "US Operation Just Cause 20 December 1989 — Manuel Noriega ousted and arrested. Subsequent democratic-transition trajectory establishing contemporary constitutional-democratic framework affecting family-law-modernisation."
     },
     {
       "year": 1990,
@@ -72,7 +74,7 @@
     {
       "year": 1999,
       "title": "Canal sovereignty transfer + Mireya Moscoso presidency + millennium framework",
-      "description": "Panama Canal sovereignty transfer 31 December 1999 — substantively distinctive sovereignty-restoration completion. Mireya Moscoso first female president 1999-2004. Substantive shift in cross-border-jurisdiction practice with full sovereignty restoration affecting family-law-implementation."
+      "description": "Panama Canal sovereignty transfer 31 December 1999. Mireya Moscoso first female president 1999-2004. Substantive shift in cross-border-jurisdiction practice with full sovereignty restoration affecting family-law-implementation."
     },
     {
       "year": 2014,

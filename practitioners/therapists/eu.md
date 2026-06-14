@@ -436,7 +436,7 @@
 - **Regulatory body:** Academic (social-psychology PhD); **not BIG-registered as a clinician** (academic researcher, not treating practitioner)
 - **Registration number:** Not applicable (academic)
 - **Specialty:** Interpersonal relationships; youth studies; **divorce dynamics, parent-child relationships, coparenting and ouderverstoting**; impact of bitter divorces on children
-- **Stance:** middle (research-led, *not* PASG-aligned)
+- **Stance:** middle (research-led, *not* [PASG](https://pasg.info/)-aligned)
 - **Stance source:** Finkenauer (forthcoming/recent) *De knel van ouderverstoting – over de complexe dynamiek van geblokkeerde ouder-kind relaties*, *Systeemtherapie* 35(1) https://www.tijdschriftsysteemtherapie.nl/inhoud/tijdschrift_artikel/ST-35-1-08/ ; UU press release *Bitter divorces have limited influence on quality of children's lives* https://www.uu.nl/en/news/bitter-divorces-have-limited-influence-on-quality-of-childrens-lives ; collaborative work with Margreet Visser & Esther Kluwer on *Kinderen uit de Knel* follow-up (De Viersprong, https://deviersprong.nl/over-de-viersprong/over-de-viersprong-onderzoek/vechtscheidingsbehandeling-kinderen-uit-de-knel)
 - **Programs / publications:**
   - *De knel van ouderverstoting* (Systeemtherapie 2023 / 2024)
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

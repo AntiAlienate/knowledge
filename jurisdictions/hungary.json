@@ -4,7 +4,9 @@
   "name": "Hungary (Magyarország)",
   "jurisdiction_code": "HU",
   "legal_system": "civil-law",
-  "language": ["hu"],
+  "language": [
+    "hu"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Hungary is a civil-law unitary republic whose family-law framework was substantially modernised by the Polgári Törvénykönyv (Civil Code, Law V of 2013, Ptk) in force 15 March 2014. Parental authority (szülői felügyelet) is governed by Ptk Book Four (Family Law) §§ 4:146-4:201. The Kúria (Curia, Budapest) is the apex court for civil and criminal matters; the Alkotmánybíróság (Constitutional Court) operates a separate constitutional-review jurisdiction. Family-law matters proceed first-instance through Járásbíróság (District Courts) with appeals to Törvényszék (Regional Courts) and the Ítélőtábla (Court of Appeal). Psychology profession is regulated under the Magyar Pszichológiai Társaság (MPT) and the Magyar Pszichológusok Érdekvédelmi Egyesülete (MPEE), with Ministry-of-Human-Capacities licensing requirements. Hungary is silent on 'parental alienation' as a statutory label; courts operate substantively under the gyermek mindenek felett álló érdeke (best-interests-of-the-child) standard.",
@@ -105,7 +107,7 @@
     {
       "year": 2022,
       "title": "Hungary Child Protection Referendum + EU Court of Justice CJEU C-769/22 framework",
-      "description": "Hungary Child Protection Referendum (Gyermekvédelmi Népszavazás) 3 April 2022 alongside parliamentary election + Hungarian LGBTQ+ Propaganda Law of 2021 (Anti-Paedophilia Law of 15 June 2021 substantively restricting LGBTQ+ content access to minors) + EU Commission referral to Court of Justice of the European Union CJEU Case C-769/22 (Commission v Hungary) 18 December 2022 — substantively distinctive EU-Hungary rule-of-law contestation framework + structurally distinctive globally only modern EU member-state subject to formal Article 7 TEU procedure + CJEU Article 258 TFEU referral on family-law-content-restriction framework + foundational substantive EU-Hungary family-law-policy contestation framework affecting subsequent Kúria + Alkotmánybíróság best-interests substantive register evolution."
+      "description": "Hungary Child Protection Referendum (Gyermekvédelmi Népszavazás) 3 April 2022 alongside parliamentary election, Hungarian LGBTQ+ Propaganda Law of 2021 (Anti-Paedophilia Law of 15 June 2021 substantively restricting LGBTQ+ content access to minors), EU Commission referral to Court of Justice of the European Union CJEU Case C-769/22 (Commission v Hungary) 18 December 2022."
     },
     {
       "year": 2023,
@@ -123,7 +125,7 @@
     "Constitutional Art. XVI children's-rights provision provides a constitutional-level overlay that operates as the welfare-paramountcy anchor — structurally similar to Ireland (Art. 42A) and South Africa (Const. s. 28(2)) within the corpus.",
     "Alkotmánybíróság established 1990 is among the earliest CEE constitutional courts post-democratic transition — places Hungary within the early-post-Communist-constitutional-court cluster (with Czech 1993, Slovak 1993, Polish 1985 transformed 1997).",
     "Ptk 2013/2014 represents one of the major CEE civil-code modernisations alongside Czech 2014, Romanian 2011, Lithuanian 2001 modernisations — Dutch BW 1992 + Quebec Civil Code 1991 + German BGB comparative substrates.",
-    "Ninth Amendment 2020 + Hungarian family framework places Hungary within the conservative-constitutional-family-form-codification cluster — substantively distinctive within EU member states. Substantial EU-rule-of-law contestation around judicial independence and constitutional changes post-2011.",
+    "Ninth Amendment 2020, Hungarian family framework places Hungary within the conservative cluster. Substantial EU contestation around judicial independence and constitutional changes post-2011.",
     "Multi-layer substantive-statutory framework: 1989-Round-Table-Talks + 1990-democratic-transition-+-Alkotmánybíróság-established + 1990-Council-of-Europe-membership + 1991-UNCRC-ratification + 1992-ECHR-ratification + 2004-EU-accession + 2011-Alaptörvény-adopted-Art-XVI-children's-rights + 2013-Ptk-adopted + 2014-Ptk-in-force-Book-Four-Family-Law + 2020-Ninth-Amendment-Hungarian-family-framework + 2024-Kúria-Alkotmánybíróság-best-interests-EU-rule-of-law-context.",
     "Psychology profession regulation operates less centrally than federal-statutory regimes elsewhere in the corpus — MPT + MPEE peak-body ethics + Ministry-of-Human-Capacities licensing rather than unified statutory professional-order regime."
   ],

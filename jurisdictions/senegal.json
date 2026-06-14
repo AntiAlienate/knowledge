@@ -4,8 +4,12 @@
   "name": "Senegal (Republic of Senegal / République du Sénégal)",
   "jurisdiction_code": "SN",
   "legal_system": "civil-law",
-  "language": ["fr"],
-  "language_secondary": ["wo"],
+  "language": [
+    "fr"
+  ],
+  "language_secondary": [
+    "wo"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Senegal is a West African civil-law republic whose family-law framework operates under the Family Code 1972 (Code de la famille, Law 72-61) drawing on French civil-law substantive heritage with provisions for Islamic-law personal-status applicable to Muslim parties. Parental authority and child custody are governed by Family Code arts. 277-302. The Supreme Court of Senegal (Cour suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance), with specialised Family-Tribunal procedure. Psychology profession is regulated through the Ministry of Health framework with the Association of Senegalese Psychologists operating professional standards. Senegal is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard codified in Family Code art. 277. Senegal acceded to the Hague Convention 1980 effective 1 November 2012.",
@@ -59,7 +63,7 @@
     {
       "year": 1972,
       "title": "Family Code 1972 (Code de la famille, Law 72-61)",
-      "description": "Federal Family Code enacted 12 June 1972, in force 1 January 1973 — substantively codifying French civil-law substantive heritage with provisions for Islamic-law personal-status applicable to Muslim parties (Senegal ~95% Muslim). Arts. 277-302 govern parental authority and child custody. Substantively distinctive within West African Francophone cluster for explicit Islamic-law personal-status hybrid codification."
+      "description": "Federal Family Code enacted 12 June 1972, in force 1 January 1973 — substantively codifying French civil-law substantive heritage with provisions for Islamic-law personal-status applicable to Muslim parties (Senegal ~95% Muslim). Arts. 277-302 govern parental authority and child custody."
     },
     {
       "year": 1990,
@@ -94,7 +98,7 @@
     {
       "year": 2024,
       "title": "Bassirou Diomaye Faye presidency + political-democratic-transition + Constitutional reform context",
-      "description": "Bassirou Diomaye Faye won presidential election 24 March 2024 — substantively distinctive democratic transition with youngest African president (44 years old) representing PASTEF party. Substantive constitutional-reform context affecting subsequent legal-administrative framework."
+      "description": "Bassirou Diomaye Faye won presidential election 24 March 2024. Substantive constitutional-reform context affecting subsequent legal-administrative framework."
     },
     {
       "year": 2023,
@@ -142,7 +146,6 @@
   "editorial_notes": [
     "Senegal jurisdiction sidecar v1.1 — deepened 2026-06-08 from 2 to 10 key_developments with full Senghor-to-contemporary trajectory: 1960-Senegal-independence-+-Senghor-presidency-+-Constitution + 1972-Family-Code-1972-Code-de-la-famille + 1990-UNCRC-ratification-+-African-Charter-Children + 2001-Constitution-+-Wade-administration + 2008-Code-of-Criminal-Procedure-reform-+-Constitutional-Court + 2012-Hague-1980-accession-+-Sall-presidency + 2013-Law-on-Trafficking-+-child-protection + 2018-DV-Protection-+-Code-modernisation + 2024-Bassirou-Diomaye-Faye-presidency-+-democratic-transition + 2025-Cour-suprême-+-Conseil-constitutionnel-interest-of-the-child.",
     "Civil-law framework (French civil-law + Islamic-law personal-status hybrid). Family Code 1972 + Constitution 2001 + Hague Convention 1980 accession 2012 + Law on Trafficking 2005/2013 + African Charter on Rights and Welfare of Child 1990/1998.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Family Code arts. 277-302 + Constitution + African Charter framework without doctrinal 'parental alienation' label.",
-    "Joins West-African + Francophone-Africa + civil-law + Islamic-law-hybrid (substantively distinctive within West African Francophone cluster) + Hague-Convention-1980-early-Francophone-West-Africa + post-2024-democratic-transition-Faye-PASTEF-youngest-African-president + African-Charter-on-Rights-and-Welfare-of-Child + Senghor-Wade-Sall-Faye-presidency-trajectory + Muslim-95-percent-demographic-context clusters within the corpus."
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive interest-of-the-child analysis under Family Code arts. 277-302 + Constitution + African Charter framework without doctrinal 'parental alienation' label."
   ]
 }

@@ -4,7 +4,9 @@
   "name": "Mali (Republic of Mali / République du Mali)",
   "jurisdiction_code": "ML",
   "legal_system": "mixed",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Mali is a West African Sahel mixed-legal-system republic combining French civil-law substantive heritage (via colonial inheritance) with Islamic-law personal-status provisions (Maliki jurisprudence) and customary-law jurisdiction. Family-law framework operates under the Persons and Family Code 2011 (Code des Personnes et de la Famille, Law 2011-087) — substantial Maliki-influenced revision replacing the 1962 Marriage and Guardianship Code. Parental authority and child custody are governed by Persons and Family Code arts. 504-547. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. Mali is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Mali is non-Hague Convention.",
@@ -48,7 +50,7 @@
     {
       "year": 1960,
       "title": "Mali independence + Modibo Keïta founding-presidency + African-Socialism framework",
-      "description": "Mali independence 22 September 1960 from France following Mali Federation dissolution with Senegal. Modibo Keïta first president 1960-1968 substantively distinctive African-Socialism framework. Foundational pre-1968-coup framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Mali independence 22 September 1960 from France following Mali Federation dissolution with Senegal."
     },
     {
       "year": 1962,
@@ -58,7 +60,7 @@
     {
       "year": 1968,
       "title": "Moussa Traoré coup + 23-year-military-rule framework",
-      "description": "Moussa Traoré coup d'état 19 November 1968 ending Keïta presidency — substantively distinctive Sahel military-coup framework. Subsequent 23-year-military-rule 1968-1991 substantially affecting political-institutional framework persisting through subsequent democratic-trajectory."
+      "description": "Moussa Traoré coup d'état 19 November 1968 ending Keïta presidency. Subsequent 23 1968-1991 substantially affecting political-institutional framework persisting through subsequent democratic-trajectory."
     },
     {
       "year": 1990,
@@ -73,17 +75,17 @@
     {
       "year": 2009,
       "title": "2009 draft Persons and Family Code withdrawn + social-mobilisation framework",
-      "description": "2009 draft Code introducing secularising reforms was withdrawn 27 August 2009 after substantial social mobilisation (Maliki-Islamic-influenced HCIM-led protests). Substantively distinctive Sahel secularising-reform-failure framework. Foundational pre-2011 substantive-revision framework."
+      "description": "2009 draft Code introducing secularising reforms was withdrawn 27 August 2009 after substantial social mobilisation (Maliki-Islamic-influenced HCIM-led protests). Foundational pre-2011 substantive-revision framework."
     },
     {
       "year": 2011,
       "title": "Persons and Family Code 2011 + Maliki-Islamic-law-influence framework",
-      "description": "Federal Persons and Family Code enacted Law 2011-087 of 30 December 2011 with substantial Maliki Islamic-law influence — substantive Maliki-influenced revision replacing 1962 Code. Arts. 504-547 govern parental authority and child custody. Substantively distinctive Sahel Maliki-influenced family-law-codification framework."
+      "description": "Federal Persons and Family Code enacted Law 2011-087 of 30 December 2011 with substantial Maliki Islamic-law influence — substantive Maliki-influenced revision replacing 1962 Code. Arts. 504-547 govern parental authority and child custody."
     },
     {
       "year": 2012,
       "title": "Mali Civil War 2012-2015 + Tuareg rebellion + Northern-Mali-context + MINUSMA",
-      "description": "Mali Civil War 16 January 2012-onwards — Tuareg MNLA rebellion in Northern Mali + Islamist-jihadist groups (AQIM, Ansar Dine). UN MINUSMA peacekeeping mission 2013-2023. Substantive 21st-century African armed-conflict framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+      "description": "Mali Civil War 16 January 2012-onwards — Tuareg MNLA rebellion in Northern Mali, Islamist-jihadist groups (AQIM, Ansar Dine). UN MINUSMA peacekeeping mission 2013-2023."
     },
     {
       "year": 2020,
@@ -93,7 +95,7 @@
     {
       "year": 2023,
       "title": "ECOWAS withdrawal + AES (Alliance of Sahel States) framework + 2023 Constitution",
-      "description": "Mali, Burkina Faso, Niger ECOWAS withdrawal January 2024 (announced 28 January 2024) following 2022-2023 sanctions framework — substantively distinctive Sahel regional-alignment realignment framework. Alliance of Sahel States (Alliance des États du Sahel — AES) framework established 2023-2024. Mali 2023 Constitution adopted by referendum 18 June 2023 substantively reforming political-institutional framework. Substantively significant Sahel institutional context affecting subsequent family-law adjudication."
+      "description": "Mali, Burkina Faso, Niger ECOWAS withdrawal January 2024 (announced 28 January 2024) following 2022-2023 sanctions framework. Alliance of Sahel States (Alliance des États du Sahel — AES) framework established 2023-2024. Mali 2023 Constitution adopted by referendum 18 June 2023 substantively reforming political-institutional framework. Substantively significant Sahel institutional context affecting subsequent family-law adjudication."
     },
     {
       "year": 2024,

@@ -4,7 +4,9 @@
   "name": "Georgia (საქართველო)",
   "jurisdiction_code": "GE",
   "legal_system": "civil-law",
-  "language": ["ka"],
+  "language": [
+    "ka"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Georgia is a South Caucasus civil-law unitary republic whose family-law framework operates under the Civil Code of Georgia 1997 (substantively reformed by Civil Code amendments of 2017 and Family Mediation Law 2019), Book V (Family Law) governing marriage, parental rights and child custody. Parental rights and child custody are governed by Civil Code arts. 1197-1250. The Supreme Court of Georgia (საქართველოს უზენაესი სასამართლო) is the apex court for civil and criminal matters; the Constitutional Court of Georgia (საქართველოს საკონსტიტუციო სასამართლო) operates constitutional review. Family-law matters are heard at first instance in the City/District Courts. Psychology profession is regulated through the Ministry of Internally Displaced Persons, Labour, Health and Social Affairs framework with the Georgian Psychologists Association operating professional standards. Georgia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard codified in Civil Code art. 1198. Georgia acceded to the Hague Convention 1980 effective 1 October 1997. Georgia is a Council of Europe member subject to ECHR jurisdiction.",
@@ -67,47 +69,47 @@
     {
       "year": 1921,
       "title": "Soviet-Georgia-+-Democratic-Republic-of-Georgia-dissolution framework",
-      "description": "Red Army invasion of Democratic Republic of Georgia February-March 1921 + Sovietisation of Georgia — substantively distinctive South Caucasus Soviet-Georgia-1921-1991 framework. Subsequent 70-year Soviet-Georgia framework persisting through 1991 Georgian independence. Foundational pre-1991-independence framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Red Army invasion of Democratic Republic of Georgia February-March 1921, Sovietisation of Georgia. Subsequent 70-year Soviet-Georgia framework persisting through 1991 Georgian independence."
     },
     {
       "year": 1991,
       "title": "Georgian independence + post-Soviet-republic framework",
-      "description": "Georgia declared independence 9 April 1991 — substantively distinctive South Caucasus post-Soviet-republic framework. Subsequent 1991-1992 civil war + Eduard Shevardnadze presidency 1992-2003 affecting subsequent constitutional-democratic-trajectory."
+      "description": "Georgia declared independence 9 April 1991. Subsequent 1991-1992 civil war, Eduard Shevardnadze presidency 1992-2003 affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1995,
       "title": "Constitution of Georgia + parliamentary-republic framework",
-      "description": "Constitution of Georgia adopted 24 August 1995 establishing parliamentary republic framework — substantively distinctive South Caucasus parliamentary-republic-constitutional-anchor framework. Subsequent 2010 constitutional amendments shifting to semi-presidential then back to parliamentary republic. Foundational substantive constitutional anchor for contemporary family-law jurisprudence."
+      "description": "Constitution of Georgia adopted 24 August 1995 establishing parliamentary republic framework. Subsequent 2010 constitutional amendments shifting to semi-presidential then back to parliamentary republic."
     },
     {
       "year": 1997,
       "title": "Civil Code of Georgia + Book-V-Family-Law-+-Hague-Convention-accession framework",
-      "description": "Federal Civil Code of Georgia enacted 26 June 1997 — substantively distinctive South Caucasus post-Soviet-Civil-Code framework codifying family-law in Book V (arts. 1197-1250). Georgia acceded to the Hague Convention 1980 effective 1 October 1997 — substantively distinctive globally among-earliest-post-Soviet-Hague-accessions framework. Foundational substantive Civil Code + Hague framework affecting subsequent reform-trajectory."
+      "description": "Federal Civil Code of Georgia enacted 26 June 1997. 1197-1250). Georgia acceded to the Hague Convention 1980 effective 1 October 1997."
     },
     {
       "year": 1999,
       "title": "Council of Europe membership + ECHR-applicability framework",
-      "description": "Georgia joined the Council of Europe 27 April 1999 — substantively distinctive South Caucasus Council-of-Europe-+-ECHR-applicability framework. Substantive ECHR-jurisdiction framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+      "description": "Georgia joined the Council of Europe 27 April 1999."
     },
     {
       "year": 2003,
       "title": "Rose Revolution + Mikheil-Saakashvili-+-pro-Western-reform framework",
-      "description": "Rose Revolution November 2003 + Mikheil Saakashvili presidency 2004-2013 — substantively distinctive South Caucasus pro-Western-reform framework. Substantive demographic and family-law-implementation reform framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Rose Revolution November 2003, Mikheil Saakashvili presidency 2004-2013."
     },
     {
       "year": 2008,
       "title": "Russia-Georgia War + South-Ossetia-+-Abkhazia-Russian-recognition framework",
-      "description": "Russia-Georgia War 7-12 August 2008 — substantively distinctive South Caucasus Russia-Georgia-War-+-Russian-recognition-of-South-Ossetia-+-Abkhazia framework 26 August 2008. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and cross-border-jurisdiction-practice with breakaway territories."
+      "description": "Russia-Georgia War 7-12 August 2008. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and cross with breakaway territories."
     },
     {
       "year": 2017,
       "title": "Civil Code 2017 amendments + family-law-modernisation framework",
-      "description": "Substantive Civil Code 2017 amendments to family-law provisions — substantively significant South Caucasus family-law-modernisation framework. Foundational substantive family-law-implementation framework persisting through subsequent reform-trajectory."
+      "description": "Substantive Civil Code 2017 amendments to family-law provisions — substantively significant South Caucasus family-law-modernisation framework."
     },
     {
       "year": 2019,
       "title": "Code on the Rights of the Child + Law on Mediation + Council-of-Europe-influenced framework",
-      "description": "Federal Code on the Rights of the Child 5004-IIs of 20 September 2019 + Law on Mediation of 18 September 2019 — substantively distinctive South Caucasus Code-on-Rights-of-the-Child-+-Family-Mediation-Law framework aligned with UNCRC obligations + Council of Europe child-protection standards. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Federal Code on the Rights of the Child 5004-IIs of 20 September 2019, Law on Mediation of 18 September 2019."
     },
     {
       "year": 2023,

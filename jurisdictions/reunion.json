@@ -4,7 +4,9 @@
   "name": "Réunion (La Réunion)",
   "jurisdiction_code": "RE",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Réunion is an Indian Ocean civil-law French overseas department and region (Département et région d'outre-mer / DROM) — structurally distinctive globally as the only state-level Indian Ocean entity directly integrated into a European Union member state (since 1946 departmental integration), and as the most ethnically pluralistic French DROM with Creole, Tamil Indian, Muslim, Chinese, and African heritage populations descending from sugar plantation labour migrations. Family-law framework operates under the French Civil Code applied directly as in metropolitan France. Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387. The Court of Appeal of Saint-Denis is the apex domestic appellate court; final appellate jurisdiction lies with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal Judiciaire de Saint-Denis. Psychology profession is regulated through the French Republic professional framework as applicable in Réunion. Réunion is silent on 'parental alienation' as a statutory label; courts operate substantively under the French interest-of-the-child standard. Réunion is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -48,22 +50,22 @@
     {
       "year": 1638,
       "title": "French claim + colonial-era sugar-plantation framework",
-      "description": "Réunion claimed by France 1638 (then 'Île Bourbon') — substantively distinctive Indian Ocean French colonial framework. Subsequent sugar-plantation development through 18th-19th centuries substantively shaping Creole + Tamil Indian + Muslim + Chinese + African population composition through engagé labour migrations. Foundational multi-ethnic-population framework for contemporary family-law-cross-cutting-areas."
+      "description": "Réunion claimed by France 1638 (then 'Île Bourbon'). Subsequent sugar-plantation development through 18th-19th centuries substantively shaping Creole, Tamil Indian, Muslim, Chinese, African population composition through engagé labour migrations. Foundational multi-ethnic-population framework for contemporary family."
     },
     {
       "year": 1848,
       "title": "Abolition of slavery + post-slavery-engagé-labour framework",
-      "description": "Abolition of slavery in Réunion 20 December 1848 — substantively reshaping plantation-labour framework. Subsequent engagé (indentured-labour) migrations from India (Tamil/Telugu), Mozambique, and China substantively shaping multi-ethnic population. Foundational demographic framework affecting subsequent family-law-cross-cutting-areas."
+      "description": "Abolition of slavery in Réunion 20 December 1848 — substantively reshaping plantation-labour framework. Subsequent engagé (indentured-labour) migrations from India (Tamil/Telugu), Mozambique, and China substantively shaping multi-ethnic population."
     },
     {
       "year": 1946,
       "title": "Departmental integration + DOM status + post-WWII framework",
-      "description": "Réunion achieved departmental status (Département d'outre-mer / DOM) 19 March 1946 (Loi 46-451) — among the first French overseas DOMs alongside Martinique, Guadeloupe, French Guiana. Substantively distinctive Indian Ocean departmental-integration framework — only Indian Ocean state-level entity directly integrated into European-Union-Member-State."
+      "description": "Réunion achieved departmental status (Département d'outre-mer / DOM) 19 March 1946 (Loi 46-451) — among the first French overseas DOMs alongside Martinique, Guadeloupe, French Guiana."
     },
     {
       "year": 1973,
       "title": "EU integration + Outermost Region (OMR) framework",
-      "description": "Réunion entered European Economic Community 1973 as part of France. Subsequent Outermost Region (région ultrapériphérique / OMR) status under TFEU Article 349 — substantively distinctive EU-Indian-Ocean-Member-State-territory framework affecting cross-border-jurisdiction-practice. Foundational EU-treaty framework."
+      "description": "Réunion entered European Economic Community 1973 as part of France. Subsequent Outermost Region (région ultrapériphérique / OMR) status under TFEU Article 349. Foundational EU-treaty framework."
     },
     {
       "year": 1983,
@@ -78,17 +80,17 @@
     {
       "year": 2003,
       "title": "DROM consolidation 2003 + constitutional reform + territorial-collectivity framework",
-      "description": "Constitutional reform 28 March 2003 substantively consolidating DROM status as Département et région d'outre-mer (DROM) — substantively distinctive single-territorial-collectivity framework. Substantive constitutional anchor for contemporary family-law jurisprudence within French-civil-law DROM framework."
+      "description": "Constitutional reform 28 March 2003 substantively consolidating DROM status as Département et région d'outre-mer (DROM). Substantive constitutional anchor for contemporary family-law jurisprudence within French-civil-law DROM framework."
     },
     {
       "year": 2010,
       "title": "Chikungunya outbreak 2005-2006 + public-health framework + Cyclone Béjisa 2014",
-      "description": "Chikungunya outbreak 2005-2006 substantively affected Réunion (over 260,000 cases) — substantively distinctive Indian Ocean public-health framework. Subsequent Cyclone Béjisa January 2014 reconstruction trajectory. Substantive demographic and family-law-implementation context."
+      "description": "Chikungunya outbreak 2005-2006 substantively affected Réunion (over 260,000 cases). Subsequent Cyclone Béjisa January 2014 reconstruction trajectory. Substantive demographic and family-law-implementation context."
     },
     {
       "year": 2018,
       "title": "Gilets Jaunes Réunion 2018 + cost-of-living protests + DROM-context",
-      "description": "Gilets Jaunes (Yellow Vests) Réunion protests November-December 2018 — substantively distinctive Indian Ocean cost-of-living-protest framework. Substantive socio-economic context affecting DROM-administrative framework including family-law-implementation."
+      "description": "Gilets Jaunes (Yellow Vests) Réunion protests November-December 2018. Substantive socio-economic context affecting DROM-administrative framework including family-law-implementation."
     },
     {
       "year": 2023,

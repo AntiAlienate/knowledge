@@ -4,10 +4,12 @@
   "name": "Ghana (Republic of Ghana)",
   "jurisdiction_code": "GH",
   "legal_system": "mixed (English common-law + customary law + Islamic personal-status)",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "Ghana is a common-law jurisdiction operating tripartite-pluralism family-law framework (English common-law + customary law + Islamic personal-status) under the Constitution 1992. Family courts operate under the Matrimonial Causes Act 1971 (Act 367) for statutory marriages, customary courts for customary marriages, and Marriage of Mohammedans Ordinance for Muslim marriages. The Children's Act 1998 (Act 560) provides comprehensive child-rights framework implementing UN CRC + African Charter on Rights and Welfare of the Child. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of Ghana has applied welfare-of-the-child paramount standard under Children's Act s. 2. The Commission on Human Rights and Administrative Justice (CHRAJ) and Department of Social Welfare have informed institutional position. Ghana is the first African country to ratify UN CRC (29 January 1990) — substantively distinctive globally early-ratification framework.",
+  "summary": "Ghana is a common-law jurisdiction operating tripartite-pluralism family-law framework (English common-law, customary law, Islamic personal-status) under the Constitution 1992. Family courts operate under the Matrimonial Causes Act 1971 (Act 367) for statutory marriages, customary courts for customary marriages, and Marriage of Mohammedans Ordinance for Muslim marriages. The Children's Act 1998 (Act 560) provides comprehensive child-rights framework implementing UN CRC, African Charter on Rights and Welfare of the Child. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of Ghana has applied welfare paramount standard under Children's Act s. 2. The Commission on Human Rights and Administrative Justice (CHRAJ) and Department of Social Welfare have informed institutional position. Ghana is the first African country to ratify UN CRC (29 January 1990).",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -86,7 +88,7 @@
     {
       "year": 1990,
       "title": "Ghana ratifies UN Convention on the Rights of the Child — first African country",
-      "description": "Ghana ratified UN CRC 29 January 1990 — first African country to ratify UN CRC. Substantively distinctive globally early-ratification framework establishing trajectory toward Constitution 1992 art. 28 + Children's Act 1998 child-rights codification."
+      "description": "Ghana ratified UN CRC 29 January 1990 — first African country to ratify UN CRC. 28, Children's Act 1998 child-rights codification."
     },
     {
       "year": 1992,
@@ -126,11 +128,10 @@
   ],
   "structural_findings": [
     "Ghana operates a structurally distinctive mixed common-law family-law framework with tripartite-pluralism — English common-law statutory marriages under Matrimonial Causes Act 1971 + customary law for customary marriages + Islamic personal-status law for Muslims — coordinated by Children's Act 1998 + Constitution 1992 art. 28 child-rights framework.",
-    "Ghana is the first African country to ratify UN CRC (29 January 1990) — substantively distinctive globally early-ratification framework establishing trajectory toward comprehensive child-rights codification.",
+    "Ghana is the first African country to ratify UN CRC (29 January 1990).",
     "Intestate Succession Law 1985 (PNDCL 111) is substantively significant African widow-and-children-rights reform — addressing colonial-era discriminatory framework and operationally creating distinctive widow-rights framework within West African common-law cluster."
   ],
   "editorial_notes": [
-    "Ghana's first-African-UN-CRC-ratification framework operates as substantively distinctive globally early-ratification data point — operationally distinguishing Ghana from later-ratifying African jurisdictions and from Western common-law jurisdictions.",
     "Tripartite legal pluralism (English common-law + customary law + Islamic personal-status) operationally creates structurally distinctive Ghanaian family-law architecture — making Ghana a critical West African comparative-law data point."
   ]
 }

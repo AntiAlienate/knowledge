@@ -4,7 +4,10 @@
   "name": "Israel (ישראל / إسرائيل)",
   "jurisdiction_code": "IL",
   "legal_system": "mixed",
-  "language": ["he", "ar"],
+  "language": [
+    "he",
+    "ar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Israel operates a mixed-legal-system framework combining common-law procedural inheritance, civil-law statutory layers, and religious-court personal-status jurisdiction. Family-court matters are governed by the Family Court Law 1995 (חוק בית המשפט לענייני משפחה) for civil matters and by the religious courts of the recognised communities (Jewish — Beit Din; Muslim — Sharia courts; Christian and Druze courts) for personal-status matters under their respective jurisdictions. Custody, residence and contact are governed by the Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) with the welfare-of-the-child standard codified in s. 17. The Supreme Court of Israel (בית המשפט העליון) is the apex court for civil matters and operates the High Court of Justice (בג\"ץ / Bagatz) constitutional-review jurisdiction. Psychology profession is regulated under the Psychologists Law 1977 (חוק הפסיכולוגים) operated by the Ministry of Health Psychologists Registration Board. Israel is silent on 'parental alienation' as a statutory label; family-court practice operates substantively under the welfare standard. Israeli social-services and child-welfare literature has engaged the PA-construct critically since the 2010s.",
@@ -113,7 +116,7 @@
     {
       "year": 2018,
       "title": "Basic Law: Israel as the Nation-State of the Jewish People + family-law-intersection framework",
-      "description": "Basic Law: Israel as the Nation-State of the Jewish People 5778-2018 enacted 19 July 2018 — substantively distinctive quasi-constitutional Basic Law framework affecting Israel's constitutional architecture. Subsequent High Court of Justice (HCJ) 5555/18 Adalah v Knesset judgment 8 July 2021 upholding Basic Law constitutionality + structurally distinctive globally only modern Basic-Law-Nation-State framework with continuing institutional debate. Substantive family-law-implementation framework intersection via Hebrew-as-state-language framework affecting Arab-Israeli + non-Jewish family-court proceedings + Rabbinical Court personal-status framework + subsequent constitutional-democratic-trajectory."
+      "description": "Basic Law: Israel as the Nation-State of the Jewish People 5778-2018 enacted 19 July 2018. Subsequent High Court of Justice (HCJ) 5555/18 Adalah v Knesset judgment 8 July 2021 upholding Basic Law constitutionality, structurally distinctive globally only modern Basic framework with continuing institutional debate. Substantive family-law-implementation framework intersection via Hebrew framework affecting Arab-Israeli, non-Jewish family-court proceedings, Rabbinical Court personal-status framework, subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2023,

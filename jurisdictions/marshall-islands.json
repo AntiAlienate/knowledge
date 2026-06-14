@@ -4,7 +4,10 @@
   "name": "Marshall Islands (Republic of the Marshall Islands / Aolepān Aorōkin M̧ajeļ)",
   "jurisdiction_code": "MH",
   "legal_system": "common-law",
-  "language": ["en", "mh"],
+  "language": [
+    "en",
+    "mh"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Marshall Islands is a Pacific Island common-law republic in Compact of Free Association with the United States (Compact 1986, renewed 2003) — structurally distinctive globally as a Compact-of-Free-Association state with full sovereignty but defense and certain economic relationships with the US. Family-law framework operates under the Marshall Islands Code Title 26 (Family Code), drawing on US-derivative common-law substantive heritage via Compact framework and prior US Trust Territory of the Pacific Islands administration. Parental responsibility and child custody are governed by Family Code Chapters 1-7. The Supreme Court of the Marshall Islands is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Section) and District Courts. Customary-law jurisdiction operates in parallel via the Traditional Rights Court (Wāto'kebar) for customary-land and chiefly-title matters. Psychology profession is regulated through the Ministry of Health framework. Marshall Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Marshall Islands is non-Hague Convention.",
@@ -55,22 +58,22 @@
     {
       "year": 1885,
       "title": "German Marshall Islands Protectorate + colonial-administration framework",
-      "description": "German Marshall Islands Protectorate established 13 September 1885 — substantively distinctive Pacific German-colonial framework. Subsequent Japanese mandate 1914-1944 + US Trust Territory of the Pacific Islands 1947-1986. Foundational pre-Compact-of-Free-Association framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "German Marshall Islands Protectorate established 13 September 1885. Subsequent Japanese mandate 1914-1944, US Trust Territory of the Pacific Islands 1947-1986."
     },
     {
       "year": 1946,
       "title": "Bikini Atoll nuclear testing + 67-tests + Castle-Bravo framework",
-      "description": "US Bikini Atoll nuclear testing 1946-1958 — 67 nuclear tests including Castle Bravo 1 March 1954 (15-megaton, largest US nuclear test). Substantively distinctive globally most-nuclear-tests-on-state-level-jurisdiction-relative-to-population framework. Substantive Marshallese radiation-displacement framework affecting subsequent demographic and family-law-implementation framework. Subsequent 1986 Compact-of-Free-Association $150 million Nuclear Claims Tribunal."
+      "description": "US Bikini Atoll nuclear testing 1946-1958 — 67 nuclear tests including Castle Bravo 1 March 1954 (15-megaton, largest US nuclear test). Subsequent 1986 Compact $150 million Nuclear Claims Tribunal."
     },
     {
       "year": 1979,
       "title": "Constitution of the Marshall Islands + self-government framework",
-      "description": "Constitution of the Marshall Islands adopted 1 May 1979 establishing self-government within US Trust Territory framework. Substantively distinctive Pacific traditional-iroij-+-democratic-republic hybrid framework. Foundational pre-1986-Compact framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of the Marshall Islands adopted 1 May 1979 establishing self-government within US Trust Territory framework."
     },
     {
       "year": 1986,
       "title": "Compact of Free Association + sovereign-status framework",
-      "description": "Compact of Free Association with US established 21 October 1986 establishing Marshall Islands' sovereign status — substantively distinctive Pacific Compact-of-Free-Association framework (with Micronesia and Palau). Substantive defense-and-economic-relationship framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Compact of Free Association with US established 21 October 1986 establishing Marshall Islands' sovereign status."
     },
     {
       "year": 1991,
@@ -90,7 +93,7 @@
     {
       "year": 2015,
       "title": "Marshall Islands nuclear lawsuit + ICJ-and-US-courts framework",
-      "description": "Marshall Islands nuclear lawsuit filed 24 April 2014 at ICJ and US federal courts against nuclear-armed states (UK, India, Pakistan accepted ICJ jurisdiction) seeking nuclear disarmament. ICJ dismissed claims 5 October 2016 for lack of jurisdictional basis. Substantively distinctive globally state-level-jurisdiction-suing-nuclear-states framework affecting subsequent international-law-trajectory."
+      "description": "Marshall Islands nuclear lawsuit filed 24 April 2014 at ICJ and US federal courts against nuclear-armed states (UK, India, Pakistan accepted ICJ jurisdiction) seeking nuclear disarmament. ICJ dismissed claims 5 October 2016 for lack of jurisdictional basis."
     },
     {
       "year": 2023,

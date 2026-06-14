@@ -4,7 +4,9 @@
   "name": "Saint-Martin (French side of Saint Martin / Sint Maarten island)",
   "jurisdiction_code": "MF",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saint-Martin is a Caribbean civil-law French overseas collectivity (Collectivité d'outre-mer / COM) — structurally distinctive globally as the only state-level entity sharing a single island with a different state's legal-system framework (Dutch Sint Maarten on the southern side of the same island, under Kingdom of the Netherlands constituent-country framework). Saint-Martin and Sint Maarten share the island of Saint Martin (French side) / Sint Maarten (Dutch side) under the 1648 Treaty of Concordia partition. Saint-Martin achieved COM autonomy from Guadeloupe DROM on 22 February 2007 via 2003 referendum. Family-law framework operates under the French Civil Code with COM-specific adaptations under the Organic Law 2007-223 (Statut). Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387. The Court of Appeal of Basse-Terre (Guadeloupe) has jurisdiction over Saint-Martin matters; final appellate jurisdiction lies with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal de Première Instance de Saint-Martin (Marigot). Cross-border family-law coordination with neighboring Dutch Sint Maarten operates through diplomatic arrangements between France and the Kingdom of the Netherlands. Psychology profession is regulated through the French Republic professional framework as applicable in Saint-Martin. Saint-Martin is silent on 'parental alienation' as a statutory label; courts operate substantively under the French interest-of-the-child standard. Saint-Martin is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -62,22 +64,22 @@
     {
       "year": 1648,
       "title": "Treaty of Concordia + island-partition + shared-island-framework",
-      "description": "Treaty of Concordia 23 March 1648 between France and Dutch Republic partitioned the island of Saint Martin into French (north ~53 km²) and Dutch (south ~34 km²) portions — substantively distinctive globally only-state-level-entity-sharing-single-island-with-different-state's-legal-system-framework framework. Foundational substantive 377+ year shared-island framework persisting through 21st century affecting subsequent constitutional-administrative-trajectory."
+      "description": "Treaty of Concordia 23 March 1648 between France and Dutch Republic partitioned the island of Saint Martin into French (north ~53 km²) and Dutch (south ~34 km²) portions."
     },
     {
       "year": 1804,
       "title": "Code civil des Français + Napoleon-Code framework",
-      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in French Saint-Martin — substantively significant Caribbean French-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 371-387 governing autorité parentale and child custody."
+      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in French Saint-Martin — substantively significant Caribbean French framework. 371-387 governing autorité parentale and child custody."
     },
     {
       "year": 1848,
       "title": "Abolition of slavery + Victor-Schœlcher-decree framework",
-      "description": "Slavery abolished in French Saint-Martin under the Second Republic via Victor Schœlcher decree 27 April 1848 — substantively distinctive globally Second-French-Republic-Schœlcher-abolition framework. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+      "description": "Slavery abolished in French Saint-Martin under the Second Republic via Victor Schœlcher decree 27 April 1848. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1946,
       "title": "Guadeloupe-DROM-integration + Saint-Martin-as-Guadeloupe-arrondissement framework",
-      "description": "Guadeloupe DROM established 19 March 1946 — Saint-Martin integrated as arrondissement of Guadeloupe DROM under loi de départementalisation. Foundational pre-2007-COM-separation framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Guadeloupe DROM established 19 March 1946 — Saint-Martin integrated as arrondissement of Guadeloupe DROM under loi de départementalisation."
     },
     {
       "year": 1983,
@@ -87,22 +89,22 @@
     {
       "year": 2003,
       "title": "COM autonomy referendum + 76-percent-in-favour framework",
-      "description": "Saint-Martin voted 76% in favour of COM autonomy from Guadeloupe DROM 7 December 2003 — substantively distinctive Caribbean French-DROM-to-COM-separation framework. Substantive self-determination framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Saint-Martin voted 76% in favour of COM autonomy from Guadeloupe DROM 7 December 2003."
     },
     {
       "year": 2007,
       "title": "Organic Law 2007-223 + COM-autonomy-effective framework",
-      "description": "Federal Organic Law 2007-223 of 21 February 2007 establishing Saint-Martin's COM autonomy effective 22 February 2007 — substantively distinctive Caribbean COM-Assemblée framework with own Assembly, Council, and President. Substantive constitutional-administrative framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Organic Law 2007-223 of 21 February 2007 establishing Saint-Martin's COM autonomy effective 22 February 2007."
     },
     {
       "year": 2010,
       "title": "Sint-Maarten-becomes-Kingdom-of-the-Netherlands-constituent-country + island-bilateral-framework",
-      "description": "Sint Maarten (Dutch side) became Kingdom of the Netherlands constituent country 10 October 2010 (10-10-10 framework) — substantively distinctive Caribbean island-bilateral-framework-with-DROM/COM-French-side-and-Kingdom-of-the-Netherlands-constituent-country-Dutch-side framework. Substantive cross-border family-law coordination on single island with French-Republic + Kingdom-of-the-Netherlands diplomatic arrangements affecting subsequent cross-border-jurisdiction-practice."
+      "description": "Sint Maarten (Dutch side) became Kingdom of the Netherlands constituent country 10 October 2010 (10-10-10 framework). Substantive cross-border family-law coordination on single island with French-Republic, Kingdom diplomatic arrangements affecting subsequent cross."
     },
     {
       "year": 2017,
       "title": "Hurricane Irma + Saint-Martin-devastation + reconstruction framework",
-      "description": "Hurricane Irma 6 September 2017 substantively devastated Saint-Martin — substantively distinctive Caribbean climate-disaster framework. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory affecting subsequent constitutional-democratic-trajectory."
+      "description": "Hurricane Irma 6 September 2017 substantively devastated Saint-Martin. Substantive demographic and family-law-implementation disruption through post-disaster reconstruction trajectory affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 2023,

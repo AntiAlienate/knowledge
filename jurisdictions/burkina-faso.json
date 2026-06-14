@@ -4,7 +4,9 @@
   "name": "Burkina Faso",
   "jurisdiction_code": "BF",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Burkina Faso is a West African Sahel civil-law unitary republic whose family-law framework operates under the Persons and Family Code 1989 (Code des Personnes et de la Famille, Decree 89/PRES/SASA-RM) drawing on French civil-law substantive heritage with substantial codification of customary-law and Islamic-law marriage provisions for relevant communities. Parental authority and child custody are governed by Persons and Family Code arts. 510-565. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Council (Conseil Constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. Burkina Faso is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Burkina Faso acceded to the Hague Convention 1980 effective 1 May 1992 — earliest African Hague accession in the corpus.",
@@ -53,7 +55,7 @@
     {
       "year": 1984,
       "title": "Sankara presidency + revolutionary reforms (1983-1987)",
-      "description": "Thomas Sankara assumed presidency 4 August 1983 — substantively distinctive revolutionary-Marxist-Pan-African presidency including women's-rights reforms, land redistribution, anti-colonial policies. Assassinated 15 October 1987 by Blaise Compaoré coup. Sankara reforms substantively affected family-law reform pipeline that resulted in 1989 Persons and Family Code."
+      "description": "Thomas Sankara assumed presidency 4 August 1983. Assassinated 15 October 1987 by Blaise Compaoré coup. Sankara reforms substantively affected family-law reform pipeline that resulted in 1989 Persons and Family Code."
     },
     {
       "year": 1989,
@@ -88,7 +90,7 @@
     {
       "year": 2024,
       "title": "ECOWAS withdrawal + Sahel States Alliance + regional realignment",
-      "description": "Burkina Faso (with Mali, Niger) announced ECOWAS withdrawal January 2024 (effective January 2025) and formed Sahel States Alliance (Alliance of Sahel States, AES) — substantively distinctive regional-realignment affecting cross-border family-law engagement. Substantive demographic displacement context affecting family-law-implementation."
+      "description": "Burkina Faso (with Mali, Niger) announced ECOWAS withdrawal January 2024 (effective January 2025) and formed Sahel States Alliance (Alliance of Sahel States, AES). Substantive demographic displacement context affecting family-law-implementation."
     },
     {
       "year": 2023,

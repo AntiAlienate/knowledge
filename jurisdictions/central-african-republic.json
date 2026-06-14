@@ -4,7 +4,10 @@
   "name": "Central African Republic (CAR / République Centrafricaine)",
   "jurisdiction_code": "CF",
   "legal_system": "civil-law",
-  "language": ["fr", "sg"],
+  "language": [
+    "fr",
+    "sg"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Central African Republic is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1997 (Code de la Famille, Law 97.013) drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 269-301. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. CAR is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. CAR is non-Hague Convention.",
@@ -48,7 +51,7 @@
     {
       "year": 1960,
       "title": "CAR independence + Dacko presidency + Bokassa coup context",
-      "description": "Central African Republic achieved independence 13 August 1960 from France under David Dacko presidency 1960-1965. Jean-Bédel Bokassa 1966 coup beginning of substantively distinctive recurring-coup-d'état pattern. Bokassa self-proclaimed Emperor 1976-1979 — among the most-distinctive African autocratic regimes."
+      "description": "Central African Republic achieved independence 13 August 1960 from France under David Dacko presidency 1960-1965. Bokassa self-proclaimed Emperor 1976-1979 — among the most-distinctive African autocratic regimes."
     },
     {
       "year": 1990,
@@ -58,7 +61,7 @@
     {
       "year": 1995,
       "title": "Constitution 1995 + multi-party transition",
-      "description": "Constitution of the Central African Republic adopted 28 December 1994 by referendum (substantially amended 2004, 2016) — establishing semi-presidential republic framework. Substantively distinctive recurring constitutional-reform-and-political-instability pattern."
+      "description": "Constitution of the Central African Republic adopted 28 December 1994 by referendum (substantially amended 2004, 2016) — establishing semi-presidential republic framework."
     },
     {
       "year": 1997,
@@ -68,7 +71,7 @@
     {
       "year": 2003,
       "title": "Bozizé coup d'état + recurring-coup pattern continuation",
-      "description": "François Bozizé coup d'état 15 March 2003 ended Ange-Félix Patassé presidency. Substantively distinctive recurring-coup-d'état pattern continuation: 2003, 2013, 2014 substantive political-institutional disruption affecting family-law-implementation."
+      "description": "François Bozizé coup d'état 15 March 2003 ended Ange-Félix Patassé presidency."
     },
     {
       "year": 2013,

@@ -4,7 +4,10 @@
   "name": "Faroe Islands (Føroyar / Færøerne)",
   "jurisdiction_code": "FO",
   "legal_system": "civil-law",
-  "language": ["fo", "da"],
+  "language": [
+    "fo",
+    "da"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Faroe Islands is a North Atlantic civil-law autonomous territory of the Kingdom of Denmark operating under the Home Rule Act 1948 (Lov om Færøernes Hjemmestyre) and Takeover Act 2005 (Lov om de færøske myndigheders overtagelse af sager og sagsområder). Family-law framework operates under Faroese family-law statutes (with substantial Danish family-law residual application) and the Faroese Children's Code (Lov um børn og foreldur). Parental responsibility (foreldraábyrgd) and child custody are governed by the Faroese family-law framework adapted to Faroese conditions. The High Court of the Faroe Islands (Føroya Eystrasta Útgardur) is the apex domestic court; final appellate jurisdiction was retained with the Danish Supreme Court (Højesteret). Family-law matters are heard at first instance in the Court of the Faroe Islands. Psychology profession is regulated through the Faroese Healthcare Authority framework. Faroe Islands is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child standard. Faroe Islands is a Hague Convention 1980 party via Danish territorial extension effective 1 July 1991.",
@@ -65,12 +68,12 @@
     {
       "year": 1946,
       "title": "Faroese independence referendum 1946 + autonomy-determination framework",
-      "description": "Faroese independence referendum 14 September 1946 — narrowly voted for independence (50.74% vs 49.26%) but result annulled by Denmark. Subsequent negotiations leading to 1948 Home Rule Act compromise framework. Foundational referendum framework affecting subsequent autonomy-trajectory."
+      "description": "Faroese independence referendum 14 September 1946 — narrowly voted for independence (50.74% vs 49.26%) but result annulled by Denmark. Subsequent negotiations leading to 1948 Home Rule Act compromise framework."
     },
     {
       "year": 1948,
       "title": "Home Rule Act + autonomous-territory framework consolidation",
-      "description": "Lov om Færøernes Hjemmestyre (Home Rule Act) 23 March 1948 establishing Faroe Islands' autonomous-territory framework within Kingdom of Denmark — substantively distinctive Nordic autonomy framework. Foundational pre-2005-Takeover-Act framework establishing Faroese-legislative-competence baseline."
+      "description": "Lov om Færøernes Hjemmestyre (Home Rule Act) 23 March 1948 establishing Faroe Islands' autonomous-territory framework within Kingdom of Denmark. Foundational pre framework establishing Faroese-legislative-competence baseline."
     },
     {
       "year": 1991,
@@ -80,7 +83,7 @@
     {
       "year": 2001,
       "title": "Faroese independence referendum proposal 2001 + non-occurrence + autonomy-discussions",
-      "description": "Faroese independence referendum scheduled 26 May 2001 cancelled following economic-disagreement with Denmark — substantively distinctive autonomy-referendum-cancellation framework. Subsequent independence-discussions continuing through 2010s-2020s affecting Faroese constitutional-democratic-trajectory."
+      "description": "Faroese independence referendum scheduled 26 May 2001 cancelled following economic-disagreement with Denmark. Subsequent independence-discussions continuing through 2010s-2020s affecting Faroese constitutional-democratic-trajectory."
     },
     {
       "year": 2005,
@@ -90,7 +93,7 @@
     {
       "year": 2010,
       "title": "Faroese Constitution drafting + ongoing-discussions + sovereignty-framework",
-      "description": "Faroese Constitution drafting initiated 2010s — substantively distinctive autonomy-territory-constitution drafting pattern. Subsequent constitutional-reform discussions continuing through 2020s affecting Faroese constitutional-democratic-trajectory and family-law-implementation framework."
+      "description": "Faroese Constitution drafting initiated 2010s. Subsequent constitutional-reform discussions continuing through 2020s affecting Faroese constitutional-democratic-trajectory and family-law-implementation framework."
     },
     {
       "year": 2017,

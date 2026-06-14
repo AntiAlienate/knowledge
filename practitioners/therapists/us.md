@@ -372,7 +372,7 @@ San Rafael · CA · Independent custody-evaluation practice (San Rafael, CA)
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)*
 - Parenting Plan & Child Custody Evaluations: Using Decision Trees (2013) — *Professional Resource Press (co-author)*
-- AFCC Model Standards contributions (2006) — *AFCC*
+- [AFCC](https://www.afccnet.org/) Model Standards contributions (2006) — *AFCC*
 
 **Verification:**
 - <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

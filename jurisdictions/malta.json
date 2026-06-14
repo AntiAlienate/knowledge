@@ -4,7 +4,10 @@
   "name": "Malta",
   "jurisdiction_code": "MT",
   "legal_system": "mixed",
-  "language": ["mt", "en"],
+  "language": [
+    "mt",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Malta is a Mediterranean unitary republic operating a mixed-legal-system framework combining common-law procedural inheritance from the British colonial period with civil-law substantive law (Civil Code rooted in the Code Napoléon tradition). Family-law matters are heard by specialised Civil Court (Family Section) under the Civil Code (Chapter 16 of the Laws of Malta). Parental authority is governed by Civil Code arts. 131-149. The Court of Appeal and ultimately the Constitutional Court of Malta operate as the apex courts; the Constitutional Court operates a separate constitutional-review jurisdiction. Psychology profession is regulated under the Psychology Profession Act of 2004 establishing the Malta Psychology Profession Board. Malta is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Malta is an EU Member State (acceded 1 May 2004) and Council of Europe member.",
@@ -95,7 +98,7 @@
     {
       "year": 2017,
       "title": "Marriage Equality Act 2017 + same-sex marriage legalised",
-      "description": "Marriage Equality Act 2017 enacted 12 July 2017, effective 1 September 2017 — Malta becoming the first Catholic-majority country to legalise same-sex marriage. Substantively distinctive within EU Catholic-majority cluster. Substantive amendments to Civil Code marriage provisions."
+      "description": "Marriage Equality Act 2017 enacted 12 July 2017, effective 1 September 2017 — Malta becoming the first Catholic-majority country to legalise same-sex marriage. Substantive amendments to Civil Code marriage provisions."
     },
     {
       "year": 2018,
@@ -148,7 +151,6 @@
   "editorial_notes": [
     "Malta jurisdiction sidecar v1.1 — deepened 2026-06-08 from 3 to 10 key_developments with full Civil-Code-to-contemporary trajectory: 1870-Civil-Code-Code-Napoléon-tradition + 1964-Malta-independence-+-Constitution-+-Council-of-Europe-membership-trajectory + 1990-UNCRC-ratification-+-Hague-1980-accession + 2004-EU-accession-+-Psychology-Profession-Act + 2008-Eurozone-+-Schengen + 2011-Divorce-legalised-referendum + 2014-Civil-Unions-Act-same-sex-registered-partnerships + 2017-Marriage-Equality-Act-first-Catholic-majority-country + 2018-Cohabitation-Act-+-GIGESC-2015 + 2024-Court-of-Appeal-+-Constitutional-Court-welfare-of-the-child-EU-integrated.",
     "Mediterranean mixed-legal-system framework (Civil Code Code Napoléon tradition + Family Section + Psychology Profession Act 2004 + Constitution 1964 + Council of Europe/ECHR + Hague Convention 1980 + EU acquis + Eurozone + Schengen + Civil Unions 2014 + Marriage Equality 2017).",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Civil Code arts. 131-149 + ECHR Article 8 framework without doctrinal 'parental alienation' label.",
-    "Joins Mediterranean-mixed-jurisdiction (with Cyprus) + post-British-colonial-mixed-legal-system + Code-Napoléon-civil-law-substrate + Council-of-Europe-1965-ECHR-1967 + Hague-1980-Eastern-Mediterranean + EU-member-state-2004 + Eurozone-2008-Schengen-2007 + federal-statutory psychology regulator (Malta Psychology Profession Board with Cyprus Board, Greek 991/1979, Romanian CPR) + late-divorce-legalisation-2011 (with Ireland 1996, Vatican non-divorce) + first-Catholic-majority-same-sex-marriage-2017 (substantively distinctive globally — Italy, Spain, Portugal followed in different timings) + GIGESC-2015-comprehensive-gender-recognition-globally-distinctive clusters within the corpus."
+    "PA-recognition: silent statutory + no-apex-position + silent regulator — substantive welfare-of-the-child analysis under Civil Code arts. 131-149 + ECHR Article 8 framework without doctrinal 'parental alienation' label."
   ]
 }

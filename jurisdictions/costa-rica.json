@@ -4,7 +4,9 @@
   "name": "Costa Rica (Republic of Costa Rica / República de Costa Rica)",
   "jurisdiction_code": "CR",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Costa Rica is a Central American civil-law republic whose family-law framework operates under the Family Code 1973 (Código de Familia, Law 5476) — among the earlier comprehensive Latin American Family Codes. The Family Code was substantively reformed by Law 7689 of 1997, Law 8101 of 2001 (Responsible Parenthood Law) and subsequent modernisation. Parental authority (patria potestad) and child custody are governed by Family Code arts. 140-160. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Chamber (Sala Constitucional) operates within the Supreme Court with constitutional review jurisdiction. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated under the Colegio de Profesionales en Psicología de Costa Rica (Psychology Professional College Law 1977) — among the earliest Latin American statutory psychology professional regulation. Costa Rica is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1998 art. 5. Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999.",
@@ -69,22 +71,22 @@
     {
       "year": 1821,
       "title": "Costa Rican independence + Central-American-Federation framework",
-      "description": "Costa Rican independence 15 September 1821 from Spain + subsequent Central American Federation membership 1823-1838 — substantively distinctive Central American post-Spanish-independence framework. Foundational pre-1948-army-abolition framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Costa Rican independence 15 September 1821 from Spain, subsequent Central American Federation membership 1823-1838."
     },
     {
       "year": 1948,
       "title": "Costa Rican-Civil-War + army-abolition + 1949-Constitution framework",
-      "description": "Costa Rican Civil War March-April 1948 + José Figueres Ferrer junta + army abolition 1 December 1948 (Article 12 of Constitution) — substantively distinctive globally only-Central-American-state-without-standing-army-since-1948 framework. Constitution of Costa Rica 7 November 1949 establishing presidential republic + Sala Constitucional foundation. Foundational substantive 78-year demilitarised-republic framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Costa Rican Civil War March-April 1948, José Figueres Ferrer junta, army abolition 1 December 1948 (Article 12 of Constitution). Constitution of Costa Rica 7 November 1949 establishing presidential republic, Sala Constitucional foundation."
     },
     {
       "year": 1973,
       "title": "Family Code 1973 + early-Latin-American-Family-Code framework",
-      "description": "Federal Family Code 5476 of 21 December 1973 — substantively distinctive globally among-earlier-comprehensive-Latin-American-Family-Codes framework. Foundational substantive Costa-Rican-Family-Code framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Federal Family Code 5476 of 21 December 1973."
     },
     {
       "year": 1977,
       "title": "Psychology Professional College Law + earliest-Latin-American-statutory-psychology-regulation framework",
-      "description": "Federal Law 6144 of 28 November 1977 establishing Colegio de Profesionales en Psicología de Costa Rica — substantively distinctive globally among-earliest-Latin-American-statutory-psychology-regulation framework. Foundational substantive psychology-profession-regulation framework persisting through subsequent reform-trajectory."
+      "description": "Federal Law 6144 of 28 November 1977 establishing Colegio de Profesionales en Psicología de Costa Rica."
     },
     {
       "year": 1990,
@@ -94,22 +96,22 @@
     {
       "year": 1997,
       "title": "Family Code Reform Law 7689 + family-law-modernisation framework",
-      "description": "Substantive Family Code reform Law 7689 1997 — substantively significant Central American family-law-modernisation framework. Substantive family-law-implementation framework affecting subsequent 1998 Children and Adolescents Code reform-trajectory."
+      "description": "Substantive Family Code reform Law 7689 1997 — substantively significant Central American family-law-modernisation framework."
     },
     {
       "year": 1998,
       "title": "Children and Adolescents Code (Law 7739) + superior-interest-codification framework",
-      "description": "Federal Code (Ley 7739, Código de la Niñez y la Adolescencia) 30 January 1998 enacted codifying superior-interest-of-the-child principle (art. 5) aligned with UNCRC obligations — substantively significant Central American child-protection framework. Foundational substantive children's-rights framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Federal Code (Ley 7739, Código de la Niñez y la Adolescencia) 30 January 1998 enacted codifying superior principle (art. 5) aligned with UNCRC obligations — substantively significant Central American child-protection framework."
     },
     {
       "year": 1999,
       "title": "Hague Convention 1980 accession + earlier-Latin-American-Hague-accession framework",
-      "description": "Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999 — substantively distinctive Central American among-earlier-Latin-American-Hague-accessions framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+      "description": "Costa Rica acceded to the Hague Convention 1980 effective 1 March 1999."
     },
     {
       "year": 2001,
       "title": "Responsible Parenthood Law (Law 8101) + earliest-Latin-American-responsible-parenthood-codification framework",
-      "description": "Federal Law 8101 (Ley de Paternidad Responsable) of 27 April 2001 enacted establishing responsible parenthood and paternity establishment as legal obligation — substantively distinctive globally among-earliest-Latin-American-codifications-addressing-responsible-parenthood-and-paternity-establishment-as-legal-obligation framework. Substantive family-law-implementation framework affecting subsequent reform-trajectory."
+      "description": "Federal Law 8101 (Ley de Paternidad Responsable) of 27 April 2001 enacted establishing responsible parenthood and paternity establishment as legal obligation."
     },
     {
       "year": 2022,

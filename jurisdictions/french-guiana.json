@@ -4,7 +4,9 @@
   "name": "French Guiana (Guyane / Guyane française)",
   "jurisdiction_code": "GF",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "French Guiana is a South American civil-law French overseas department and region (Département et région d'outre-mer / DROM) — structurally distinctive globally as the only South American French DROM and the location of the European Space Agency's Guiana Space Centre (Kourou). Population is composed of Creole, Amerindian (multiple indigenous nations including Kalina, Wayampi, Teko, Wayana, Lokono, Pahikwene), Maroon (Bushinengue including Aluku, Ndjuka, Saramaka, Paramaka), Brazilian, Haitian, and metropolitan French populations. Family-law framework operates under the French Civil Code applied directly as in metropolitan France, with limited Amerindian customary-status accommodations under the 2007 Article 75 framework. Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387. The Court of Appeal of Cayenne is the apex domestic appellate court; final appellate jurisdiction lies with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal Judiciaire de Cayenne. Cross-border family-law coordination with neighboring Brazil and Suriname operates through standard France-Brazil/Suriname arrangements. Psychology profession is regulated through the French Republic professional framework as applicable in French Guiana. French Guiana is silent on 'parental alienation' as a statutory label; courts operate substantively under the French interest-of-the-child standard. French Guiana is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -55,27 +57,27 @@
     {
       "year": 1664,
       "title": "French colonisation begins + Cayenne foundation framework",
-      "description": "French colonisation of Guiana commenced 1664 with Cayenne foundation. Substantively distinctive South American French-colonial framework persisting through subsequent centuries affecting demographic and family-law-implementation framework including Amerindian (Kalina, Wayampi, Teko, Wayana, Lokono, Pahikwene) population and Maroon (Aluku, Ndjuka, Saramaka, Paramaka) populations."
+      "description": "French colonisation of Guiana commenced 1664 with Cayenne foundation."
     },
     {
       "year": 1852,
       "title": "Devil's Island penal-colony 1852-1953 + bagne-distinctive framework",
-      "description": "French Guiana penal-colony (bagne / Devil's Island) 1852-1953 — substantively distinctive globally-significant penal-colony framework hosting ~70,000 prisoners over 100 years including Alfred Dreyfus 1895-1899. Substantive demographic and historical-significance framework affecting French Guiana's contemporary positioning."
+      "description": "French Guiana penal-colony (bagne / Devil's Island) 1852-1953. Substantive demographic and historical-significance framework affecting French Guiana's contemporary positioning."
     },
     {
       "year": 1946,
       "title": "Departmental integration + DOM status + post-WWII framework",
-      "description": "French Guiana achieved departmental status (Département d'outre-mer / DOM) 19 March 1946 (Loi 46-451) — among the first French overseas DOMs alongside Martinique, Guadeloupe, Réunion. Substantively distinctive globally only-South-American-French-DROM framework — only EU and French presence in continental South America."
+      "description": "French Guiana achieved departmental status (Département d'outre-mer / DOM) 19 March 1946 (Loi 46-451) — among the first French overseas DOMs alongside Martinique, Guadeloupe, Réunion."
     },
     {
       "year": 1964,
       "title": "Guiana Space Centre (Kourou) opening + ESA-EU space-framework",
-      "description": "Guiana Space Centre (Centre Spatial Guyanais / CSG) opened 14 April 1964 — substantively distinctive globally European Space Agency major space launch facility. Substantive space-economy framework affecting French Guiana's geopolitical positioning and family-law-cross-cutting-areas including expat-family contexts."
+      "description": "Guiana Space Centre (Centre Spatial Guyanais / CSG) opened 14 April 1964. Substantive space-economy framework affecting French Guiana's geopolitical positioning and family including expat-family contexts."
     },
     {
       "year": 1973,
       "title": "EU integration + Outermost Region (OMR) framework",
-      "description": "French Guiana entered European Economic Community 1973 as part of France. Subsequent Outermost Region (région ultrapériphérique / OMR) status under TFEU Article 349 — substantively distinctive EU-South-American-Member-State-territory framework. Foundational EU-treaty framework affecting cross-border-jurisdiction-practice with neighbouring Brazil and Suriname."
+      "description": "French Guiana entered European Economic Community 1973 as part of France. Subsequent Outermost Region (région ultrapériphérique / OMR) status under TFEU Article 349. Foundational EU-treaty framework affecting cross with neighbouring Brazil and Suriname."
     },
     {
       "year": 1983,
@@ -90,12 +92,12 @@
     {
       "year": 2007,
       "title": "Constitution Article 75 framework + Amerindian customary-status consolidation",
-      "description": "Constitution Article 75 framework consolidated 2007 — substantively significant Amerindian customary-status (statut civil de droit local) framework for certain Amerindian populations in French Guiana. Substantively distinctive recognised-indigenous-personal-status framework within French Republic affecting family-law-implementation."
+      "description": "Constitution Article 75 framework consolidated 2007 — substantively significant Amerindian customary-status (statut civil de droit local) framework for certain Amerindian populations in French Guiana."
     },
     {
       "year": 2017,
       "title": "Movement 500 Frères + 2017 social-crisis + 500-million-euro-package",
-      "description": "Movement 500 Frères (500 Brothers) social-crisis March-April 2017 substantively disrupting French Guiana political-institutional framework — €1.085 billion accord-de-Guyane settlement. Substantive socio-economic crisis framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation."
+      "description": "Movement 500 Frères (500 Brothers) social-crisis March-April 2017 substantively disrupting French Guiana political-institutional framework — €1.085 billion accord-de-Guyane settlement."
     },
     {
       "year": 2023,

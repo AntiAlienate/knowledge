@@ -4,7 +4,11 @@
   "name": "Luxembourg (Grand-Duché de Luxembourg / Großherzogtum Luxemburg)",
   "jurisdiction_code": "LU",
   "legal_system": "civil-law",
-  "language": ["fr", "de", "lb"],
+  "language": [
+    "fr",
+    "de",
+    "lb"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Luxembourg is a civil-law jurisdiction whose family courts (Tribunal d'arrondissement — Juge aux affaires familiales / JAF) operate under the Code civil (Napoleonic-inheritance with substantial reform) and the Loi du 27 juin 2018 instituant le juge aux affaires familiales. The statutory framework is silent on the 'aliénation parentale' label. The Cour de cassation and Cour d'appel develop intérêt supérieur de l'enfant jurisprudence under Code civil + EU Brussels IIb framework. Luxembourg's trilingual (French/German/Luxembourgish) framework + EU-institution-hosting position + substantial cross-border family-law caseload (expatriate population ~47% of residents) operationally creates distinctive Western European cross-border family-law adjudication framework.",
@@ -76,7 +80,7 @@
     {
       "year": 1957,
       "title": "EU founding member + Treaty of Rome framework",
-      "description": "Luxembourg founding member of European Economic Community 25 March 1957 — substantively foundational European integration framework affecting subsequent cross-border family-law adjudication trajectory."
+      "description": "Luxembourg founding member of European Economic Community 25 March 1957."
     },
     {
       "year": 1993,

@@ -4,7 +4,9 @@
   "name": "Gabon (Gabonese Republic / République Gabonaise)",
   "jurisdiction_code": "GA",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Gabon is a Central African civil-law unitary republic whose family-law framework operates under the Civil Code (Code Civil) drawing on French civil-law substantive heritage, supplemented by Law 19/89 on the Civil Code (Family Provisions) and Law 39/2010 on Children's Rights Protection. Parental authority and child custody are governed by Civil Code arts. 373-396. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Gabon is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Gabon acceded to the Hague Convention 1980 effective 1 February 2011.",
@@ -55,27 +57,27 @@
     {
       "year": 1960,
       "title": "Gabon independence + Léon M'ba founding-presidency",
-      "description": "Gabon independence 17 August 1960 from France — establishing presidential republic framework. Léon M'ba first president 1961-1967 substantively significant founding-presidency framework. Foundational pre-Bongo-dynasty framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Gabon independence 17 August 1960 from France — establishing presidential republic framework. Léon M'ba first president 1961-1967 substantively significant founding-presidency framework."
     },
     {
       "year": 1967,
       "title": "Omar Bongo presidency + Bongo-dynasty 42-year-framework",
-      "description": "Omar Bongo Ondimba assumed presidency 28 November 1967 following Léon M'ba's death — substantively distinctive African extended-presidency 1967-2009 (42 years). Substantively distinctive Africa Bongo-dynasty pattern affecting political-institutional framework persisting through subsequent constitutional-democratic-trajectory."
+      "description": "Omar Bongo Ondimba assumed presidency 28 November 1967 following Léon M'ba's death."
     },
     {
       "year": 1989,
       "title": "Law 19/89 on Civil Code Family Provisions",
-      "description": "Federal Civil Code Family Provisions enacted 14 December 1989 drawing on French civil-law substantive heritage. Arts. 373-396 govern parental authority and child custody. Substantively significant family-law-codification framework persisting through subsequent reform-trajectory."
+      "description": "Federal Civil Code Family Provisions enacted 14 December 1989 drawing on French civil-law substantive heritage. Arts. 373-396 govern parental authority and child custody."
     },
     {
       "year": 1990,
       "title": "Gabon ratifies UN Convention on the Rights of the Child + multi-party transition",
-      "description": "Gabon ratified the UNCRC on 9 February 1994 — substantively significant child-rights framework integration. Substantive multi-party democratic transition 1990 following national conference establishing contemporary constitutional framework affecting subsequent family-law-modernisation."
+      "description": "Gabon ratified the UNCRC on 9 February 1994 — substantively significant child-rights framework integration."
     },
     {
       "year": 2009,
       "title": "Ali Bongo Ondimba presidency + dynastic-succession framework",
-      "description": "Ali Bongo Ondimba (son of Omar Bongo) elected President 30 August 2009 — substantively distinctive African dynastic-succession framework following Omar Bongo's death 8 June 2009. Subsequent re-election 2016 (contested) substantively significant democratic-legitimacy framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Ali Bongo Ondimba (son of Omar Bongo) elected President 30 August 2009."
     },
     {
       "year": 2010,
@@ -95,7 +97,7 @@
     {
       "year": 2023,
       "title": "2023 Gabon coup d'état + Brice Oligui Nguema + Bongo-dynasty-end framework",
-      "description": "2023 Gabon coup d'état 30 August 2023 led by General Brice Oligui Nguema substantively ending 56-year Bongo-dynasty framework. Substantive transitional-government framework affecting subsequent constitutional-democratic-trajectory and family-law-implementation. Substantively distinctive African coup-end-of-dynasty framework."
+      "description": "2023 Gabon coup d'état 30 August 2023 led by General Brice Oligui Nguema substantively ending 56-year Bongo-dynasty framework."
     },
     {
       "year": 2022,

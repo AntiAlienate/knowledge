@@ -4,7 +4,9 @@
   "name": "Saint-Pierre and Miquelon (Saint-Pierre-et-Miquelon)",
   "jurisdiction_code": "PM",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Saint-Pierre and Miquelon is a North Atlantic civil-law French overseas collectivity (Collectivité d'outre-mer / COM) — structurally distinctive globally as the only remaining French jurisdiction in continental North America following the 1763 Treaty of Paris cession of New France to Britain and the 1803 Louisiana Purchase. Located off the coast of Newfoundland, Canada (~25 km from Newfoundland), it represents the last vestige of New France in North America. Family-law framework operates under the French Civil Code with COM-specific adaptations under the Organic Law 2007-223 framework. Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387. The Court of Appeal of Saint-Pierre-et-Miquelon (Tribunal Supérieur d'Appel) is the apex domestic appellate court; final appellate jurisdiction lies with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal de Première Instance de Saint-Pierre-et-Miquelon. Cross-border family-law coordination with neighboring Canada operates through standard France-Canada arrangements. Psychology profession is regulated through the French Republic professional framework as applicable in Saint-Pierre-et-Miquelon. Saint-Pierre and Miquelon is silent on 'parental alienation' as a statutory label; courts operate substantively under the French interest-of-the-child standard. Saint-Pierre and Miquelon is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -55,37 +57,37 @@
     {
       "year": 1604,
       "title": "Samuel-de-Champlain-naming + early-French-claim framework",
-      "description": "Samuel de Champlain named Saint-Pierre 1604 — substantively distinctive North Atlantic early-French-claim framework. Subsequent intermittent French-British control through 1763 Treaty of Paris affecting subsequent constitutional-administrative-trajectory."
+      "description": "Samuel de Champlain named Saint-Pierre 1604. Subsequent intermittent French-British control through 1763 Treaty of Paris affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1763,
       "title": "Treaty of Paris + retention-by-France-+-last-vestige-of-New-France framework",
-      "description": "Treaty of Paris 10 February 1763 ended Seven Years' War — substantively distinctive globally most-of-New-France-ceded-to-Britain-with-Saint-Pierre-and-Miquelon-retained-by-France framework. Foundational substantive 262+ year last-remaining-French-jurisdiction-in-continental-North-America framework persisting through 21st century."
+      "description": "Treaty of Paris 10 February 1763 ended Seven Years' War."
     },
     {
       "year": 1803,
       "title": "Louisiana Purchase + structural-distinctiveness-reinforced framework",
-      "description": "Louisiana Purchase 30 April 1803 — substantively distinctive North Atlantic French-territorial-presence-in-North-America-reduction framework. Saint-Pierre and Miquelon's distinctive position reinforced as the only remaining French jurisdiction in continental North America. Foundational substantive constitutional-administrative-distinctiveness framework persisting through subsequent reform-trajectory."
+      "description": "Louisiana Purchase 30 April 1803. Saint-Pierre and Miquelon's distinctive position reinforced as the only remaining French jurisdiction in continental North America."
     },
     {
       "year": 1804,
       "title": "Code civil des Français + Napoleon-Code framework",
-      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in Saint-Pierre and Miquelon — substantively significant North Atlantic French-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 371-387 governing autorité parentale and child custody."
+      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in Saint-Pierre and Miquelon — substantively significant North Atlantic French framework. 371-387 governing autorité parentale and child custody."
     },
     {
       "year": 1816,
       "title": "Treaty of Paris 1814 + return-of-Saint-Pierre-and-Miquelon-to-France-after-Napoleonic-occupation framework",
-      "description": "Treaty of Paris 30 May 1814 + Saint-Pierre and Miquelon returned to France 22 June 1816 following 1793-1816 British occupation during Napoleonic Wars — substantively distinctive North Atlantic French-retention-after-British-occupation framework. Foundational substantive constitutional-administrative framework persisting through subsequent reform-trajectory."
+      "description": "Treaty of Paris 30 May 1814, Saint-Pierre and Miquelon returned to France 22 June 1816 following 1793-1816 British occupation during Napoleonic Wars."
     },
     {
       "year": 1920,
       "title": "US Prohibition + smuggling-economy framework",
-      "description": "US Prohibition 1920-1933 substantively transformed Saint-Pierre and Miquelon into smuggling-base for Canadian-and-French-alcohol-to-USA — substantively distinctive North Atlantic Prohibition-era-smuggling-economy framework with Al Capone-related operations. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+      "description": "US Prohibition 1920-1933 substantively transformed Saint-Pierre and Miquelon into smuggling-base for Canadian. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1976,
       "title": "Department status + transition framework",
-      "description": "Saint-Pierre and Miquelon achieved departmental status (DOM) 19 July 1976 — substantively distinctive North Atlantic département-d'outre-mer framework. Subsequent 1985 Territorial Collectivity transition + 2003 COM-status under Organic Law framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Saint-Pierre and Miquelon achieved departmental status (DOM) 19 July 1976."
     },
     {
       "year": 1983,
@@ -95,7 +97,7 @@
     {
       "year": 2007,
       "title": "Organic Law 2007-223 + COM-statut-framework + Assemblée framework",
-      "description": "Organic Law 2007-223 of 21 February 2007 establishing modern Collectivité d'outre-mer (COM) statut framework applicable to Saint-Pierre-et-Miquelon — substantively significant North Atlantic COM-Assemblée framework. Foundational substantive COM framework persisting through subsequent reform-trajectory affecting constitutional-democratic-trajectory."
+      "description": "Organic Law 2007-223 of 21 February 2007 establishing modern Collectivité d'outre-mer (COM) statut framework applicable to Saint — substantively significant North Atlantic COM-Assemblée framework."
     },
     {
       "year": 2023,

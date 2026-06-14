@@ -4,7 +4,9 @@
   "name": "Antigua and Barbuda",
   "jurisdiction_code": "AG",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Antigua and Barbuda is a Caribbean common-law constitutional monarchy whose family-law framework operates under the Divorce Act, the Marriage Act, the Maintenance of Children Act, the Status of Children Act, and case-law applying the welfare-of-the-child principle. Parental responsibility and child custody are governed by case-law and Maintenance of Children Act provisions. The Eastern Caribbean Supreme Court (Court of Appeal sitting for Antigua and Barbuda) is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Ministry of Health, Wellness and the Environment framework. Antigua and Barbuda is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Antigua and Barbuda is non-Hague Convention.",
@@ -67,12 +69,12 @@
     {
       "year": 1967,
       "title": "Associated State of Antigua + internal-self-government framework",
-      "description": "Antigua became Associated State of West Indies 27 February 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs. Foundational pre-independence framework affecting subsequent constitutional-democratic trajectory."
+      "description": "Antigua became Associated State of West Indies 27 February 1967 — establishing internal-self-government framework with United Kingdom retaining defence and foreign affairs."
     },
     {
       "year": 1981,
       "title": "Antigua and Barbuda independence + Vere Bird presidency-of-government",
-      "description": "Antigua and Barbuda achieved independence from the United Kingdom 1 November 1981 — establishing constitutional monarchy framework retaining JCPC as final appellate court. Vere Bird (Sr.) Antigua Labour Party first prime minister 1981-1994 — substantively distinctive founding-prime-minister framework affecting subsequent political-institutional trajectory."
+      "description": "Antigua and Barbuda achieved independence from the United Kingdom 1 November 1981 — establishing constitutional monarchy framework retaining JCPC as final appellate court. Vere Bird (Sr.) Antigua Labour Party first prime minister 1981-1994."
     },
     {
       "year": 1991,
@@ -82,7 +84,7 @@
     {
       "year": 1994,
       "title": "Lester Bird premiership + Antigua Labour Party dynastic-continuation",
-      "description": "Lester Bird (son of Vere Bird Sr.) Antigua Labour Party premiership 1994-2004 — substantively distinctive Caribbean dynastic-political-leadership pattern. Subsequent ALP defeat 2004 ending 28-year-Bird-family-dynasty framework."
+      "description": "Lester Bird (son of Vere Bird Sr.) Antigua Labour Party premiership 1994-2004. Subsequent ALP defeat 2004 ending 28 framework."
     },
     {
       "year": 1997,

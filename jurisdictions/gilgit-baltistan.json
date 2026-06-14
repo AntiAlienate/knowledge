@@ -4,7 +4,11 @@
   "name": "Gilgit-Baltistan (GB)",
   "jurisdiction_code": "PK-GB",
   "legal_system": "mixed",
-  "language": ["ur", "en", "shi"],
+  "language": [
+    "ur",
+    "en",
+    "shi"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Gilgit-Baltistan (GB / گلگت بلتستان) is a South Asian Trans-Himalayan mixed common-law/Islamic-personal-law Pakistani-administered self-governing region — structurally distinctive globally as the only Pakistani-administered Kashmir territory pending provisional-province constitutional status (Prime Minister Imran Khan announced GB as a 'provisional fifth province' on 1 November 2020 — pending constitutional amendment), as the only Pakistani-administered territory bordering all three other Kashmir conflict states (India, China, Afghanistan in the Wakhan Corridor), and as the host territory of the China-Pakistan Economic Corridor (CPEC) entry into Pakistan via the Karakoram Highway through the Khunjerab Pass. Unlike Azad Kashmir, GB has a distinct constitutional status — historically governed under the Gilgit Agency framework, then the Northern Areas Council framework, now the Gilgit-Baltistan Order 2018 framework. Family-law framework operates under a dual common-law (English-derived via Pakistani inheritance) + Muslim Personal Law (Shariat) Application Act 1937 framework — Muslim Personal Law applies to the predominantly-Muslim population (~99%, including a substantial Shi'a population in Baltistan and Hunza/Gilgit areas). Parental authority and child custody operate under the Guardians and Wards Act 1890 supplemented by Hanafi-school Sunni, Twelver-Shi'a, and Ismaili-Shi'a personal-law frameworks. The Supreme Appellate Court of Gilgit-Baltistan is the apex appellate court; the Pakistani Supreme Court's appellate jurisdiction is contested. GB is silent on 'parental alienation' as a statutory label. Pakistan is a Hague Convention 1980 party (acceded 1 March 2017) — GB Hague applicability operates via Pakistani territorial extension subject to GB's distinctive constitutional status.",
@@ -62,47 +66,47 @@
     {
       "year": 1846,
       "title": "Treaty of Amritsar + Dogra-Princely-State-of-J&K-Gilgit-Baltistan-territory framework",
-      "description": "Treaty of Amritsar 16 March 1846 establishing Dogra Princely State of Jammu and Kashmir under Maharaja Gulab Singh — substantively distinctive Trans-Himalayan Dogra-Princely-State-of-J&K-Gilgit-Baltistan-as-northern-territory framework. Foundational pre-1947-Gilgit-Scouts-uprising framework affecting subsequent constitutional-administrative-trajectory and Kashmir-dispute-trajectory."
+      "description": "Treaty of Amritsar 16 March 1846 establishing Dogra Princely State of Jammu and Kashmir under Maharaja Gulab Singh."
     },
     {
       "year": 1889,
       "title": "Gilgit Agency + British-frontier-administration framework",
-      "description": "Gilgit Agency established by British 1 August 1889 — substantively distinctive Trans-Himalayan British-frontier-administration framework. Subsequent Gilgit Lease 26 March 1935 transferring administration from Princely State of J&K to British India. Foundational pre-1947-accession framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Gilgit Agency established by British 1 August 1889. Subsequent Gilgit Lease 26 March 1935 transferring administration from Princely State of J&K to British India."
     },
     {
       "year": 1947,
       "title": "GB accession to Pakistan + Gilgit-Scouts-uprising-+-separate-accession-path framework",
-      "description": "Gilgit Agency and Baltistan acceded to Pakistan November 1947 following Gilgit Scouts uprising 1 November 1947 — substantively distinctive globally only-Pakistani-administered-territory-with-separate-accession-path-from-broader-Kashmir-question framework. Foundational substantive 78-year Pakistani-GB administration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Gilgit Agency and Baltistan acceded to Pakistan November 1947 following Gilgit Scouts uprising 1 November 1947."
     },
     {
       "year": 1990,
       "title": "Pakistan ratifies UN Convention on the Rights of the Child + GB-applicability framework",
-      "description": "Pakistan ratified UNCRC 12 November 1990 with applicability to GB — establishing welfare-of-the-child substantive doctrine within Pakistani-derivative-common-law framework applicable to GB. Foundational substantive child-rights framework integration affecting subsequent reform-trajectory."
+      "description": "Pakistan ratified UNCRC 12 November 1990 with applicability to GB — establishing welfare substantive doctrine within Pakistani framework applicable to GB."
     },
     {
       "year": 2009,
       "title": "GB Empowerment and Self-Governance Order + autonomous-self-governing-region framework",
-      "description": "Pakistani Presidential Order 2009 (Gilgit-Baltistan Empowerment and Self-Governance Order) establishing GB as autonomous self-governing region with own Legislative Assembly and Council — substantively distinctive globally formal-beginning-of-GB-self-governance framework. Substantive constitutional-democratic-trajectory framework affecting subsequent 2018 Order reform-trajectory."
+      "description": "Pakistani Presidential Order 2009 (Gilgit-Baltistan Empowerment and Self-Governance Order) establishing GB as autonomous self-governing region with own Legislative Assembly and Council."
     },
     {
       "year": 2013,
       "title": "China-Pakistan-Economic-Corridor + CPEC-Karakoram-Highway-+-Khunjerab-Pass framework",
-      "description": "China-Pakistan Economic Corridor (CPEC) announced 2013 with primary entry into Pakistan via Karakoram Highway through Khunjerab Pass in GB — substantively distinctive globally only-Kashmir-conflict-jurisdiction-central-to-active-Belt-and-Road-Initiative-infrastructure-corridor framework. Substantive 62-billion-USD CPEC framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "China-Pakistan Economic Corridor (CPEC) announced 2013 with primary entry into Pakistan via Karakoram Highway through Khunjerab Pass in GB."
     },
     {
       "year": 2017,
       "title": "Pakistani Hague Convention 1980 accession + GB-territorial-extension framework",
-      "description": "Pakistan acceded to the Hague Convention 1980 effective 1 March 2017 — GB Hague applicability via Pakistani territorial extension subject to GB's distinctive constitutional status. Foundational substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+      "description": "Pakistan acceded to the Hague Convention 1980 effective 1 March 2017 — GB Hague applicability via Pakistani territorial extension subject to GB's distinctive constitutional status."
     },
     {
       "year": 2018,
       "title": "Gilgit-Baltistan Order 2018 + current-constitutional-governance framework",
-      "description": "Pakistani Presidential Order 2018 (Gilgit-Baltistan Order) establishing GB current governance framework — substantively distinctive Trans-Himalayan current-GB-constitutional-framework. Foundational substantive 2018 Order framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Pakistani Presidential Order 2018 (Gilgit-Baltistan Order) establishing GB current governance framework."
     },
     {
       "year": 2020,
       "title": "Provisional fifth province announcement + Imran-Khan-PTI-+-pending-constitutional-amendment framework",
-      "description": "Prime Minister Imran Khan announced GB as 'provisional fifth province' 1 November 2020 — substantively distinctive globally only-Pakistani-administered-Kashmir-territory-pending-provisional-province-constitutional-status framework. Pending constitutional amendment. Substantive constitutional-democratic-trajectory framework affecting subsequent reform-trajectory."
+      "description": "Prime Minister Imran Khan announced GB as 'provisional fifth province' 1 November 2020. Pending constitutional amendment."
     },
     {
       "year": 2023,

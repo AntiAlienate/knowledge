@@ -4,7 +4,9 @@
   "name": "Cabo Verde (Republic of Cabo Verde / República de Cabo Verde)",
   "jurisdiction_code": "CV",
   "legal_system": "civil-law",
-  "language": ["pt"],
+  "language": [
+    "pt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Cabo Verde is an Atlantic African civil-law republic whose family-law framework operates under the Civil Code (Código Civil) drawing on Portuguese civil-law substantive heritage, substantially supplemented by Law 50/V/98 (Family Code) and Law 86/IV/2009 (Code of Children and Adolescents). Parental responsibility (responsabilidade parental) and child custody are governed by Family Code arts. 125-148. The Supreme Court of Justice (Tribunal Supremo de Justiça) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family and Minors' Court (Tribunal de Família e dos Menores). Psychology profession is regulated through the Cape Verdean Order of Psychologists. Cabo Verde is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Code of Children and Adolescents art. 4. Cabo Verde acceded to the Hague Convention 1980 effective 1 January 2018.",
@@ -55,12 +57,12 @@
     {
       "year": 1975,
       "title": "Cabo Verde independence + PAIGC framework + post-Carnation-Revolution",
-      "description": "Cabo Verde independence 5 July 1975 from Portugal following Carnation Revolution 25 April 1974. Substantively distinctive Lusophone Atlantic African independence framework via PAIGC (African Party for the Independence of Guinea and Cape Verde) framework. Initial union with Guinea-Bissau before 1980 dissolution. Foundational pre-multipartyism framework."
+      "description": "Cabo Verde independence 5 July 1975 from Portugal following Carnation Revolution 25 April 1974. Initial union with Guinea-Bissau before 1980 dissolution. Foundational pre-multipartyism framework."
     },
     {
       "year": 1980,
       "title": "Cabo Verde-Guinea-Bissau separation + PAICV framework",
-      "description": "Cabo Verde-Guinea-Bissau separation 14 November 1980 following Guinea-Bissau coup — PAIGC renamed PAICV (African Party for the Independence of Cabo Verde). Substantively distinctive Lusophone-African political-restructuring framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Cabo Verde-Guinea-Bissau separation 14 November 1980 following Guinea-Bissau coup — PAIGC renamed PAICV (African Party for the Independence of Cabo Verde)."
     },
     {
       "year": 1991,
@@ -80,7 +82,7 @@
     {
       "year": 2008,
       "title": "Middle-Income-Country graduation + UN-LDC-graduation distinctive framework",
-      "description": "Cabo Verde graduated from UN Least Developed Country (LDC) status 1 January 2008 — substantively distinctive globally (only second LDC graduation globally after Botswana 1994). Substantive socioeconomic-development framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Cabo Verde graduated from UN Least Developed Country (LDC) status 1 January 2008."
     },
     {
       "year": 2009,
@@ -90,7 +92,7 @@
     {
       "year": 2010,
       "title": "Special Partnership with EU + CPLP-framework + African-democratic-leader framework",
-      "description": "Cabo Verde Special Partnership Agreement with European Union 5 November 2007 + Mobility Partnership 2008 substantively reshaping cross-border-jurisdiction-practice. CPLP (Community of Portuguese-Speaking Countries) framework substantively significant. Substantively distinctive African democratic-stability framework."
+      "description": "Cabo Verde Special Partnership Agreement with European Union 5 November 2007, Mobility Partnership 2008 substantively reshaping cross. CPLP (Community of Portuguese-Speaking Countries) framework substantively significant."
     },
     {
       "year": 2018,

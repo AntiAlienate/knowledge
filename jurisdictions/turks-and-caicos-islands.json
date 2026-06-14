@@ -4,7 +4,9 @@
   "name": "Turks and Caicos Islands (TCI)",
   "jurisdiction_code": "TC",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Turks and Caicos Islands (TCI) is a Caribbean common-law British Overseas Territory whose family-law framework operates under the Matrimonial Causes Ordinance and the Children Ordinance 2014 drawing on English Children Act 1989 model. Parental responsibility and child custody are governed by Children Ordinance 2014 Part II. The Court of Appeal of the Turks and Caicos Islands is the apex domestic appellate court; final appellate jurisdiction was retained with the Judicial Committee of the Privy Council in London. Family-law matters are heard at first instance in the Supreme Court (Family Division) and Magistrates' Court. Psychology profession is regulated through the Ministry of Health framework. TCI is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. TCI is a Hague Convention 1980 party via UK territorial extension effective 1 August 1986.",
@@ -55,12 +57,12 @@
     {
       "year": 1962,
       "title": "TCI separation from Jamaica + BOT consolidation",
-      "description": "Turks and Caicos Islands administratively separated from Jamaica following Jamaican independence 6 August 1962 — becoming separate British Dependent Territory. Substantively distinctive Caribbean BOT-status-retention pattern (alongside Cayman Islands). Foundational constitutional framework for subsequent self-government-trajectory."
+      "description": "Turks and Caicos Islands administratively separated from Jamaica following Jamaican independence 6 August 1962 — becoming separate British Dependent Territory. Foundational constitutional framework for subsequent self-government-trajectory."
     },
     {
       "year": 1976,
       "title": "TCI Constitution 1976 + ministerial-government framework",
-      "description": "Turks and Caicos Islands Constitution Order 1976 (substantially amended 1988, 2006, 2011) establishing internal-self-government framework with Governor representing the Crown and elected House of Assembly. Foundational pre-2009-direct-rule framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Turks and Caicos Islands Constitution Order 1976 (substantially amended 1988, 2006, 2011) establishing internal-self-government framework with Governor representing the Crown and elected House of Assembly."
     },
     {
       "year": 1986,
@@ -80,7 +82,7 @@
     {
       "year": 2009,
       "title": "TCI Commission of Inquiry + UK direct rule 2009-2012 + corruption-and-governance-failure framework",
-      "description": "TCI Commission of Inquiry under Sir Robin Auld 2008-2009 substantively documented governance failures and corruption. UK direct rule imposed 14 August 2009 — substantively distinctive UK-BOT-direct-rule pattern persisting until 2012. Subsequent reform package consolidation. Substantive governance-restoration trajectory affecting family-law-implementation framework."
+      "description": "TCI Commission of Inquiry under Sir Robin Auld 2008-2009 substantively documented governance failures and corruption. UK direct rule imposed 14 August 2009. Subsequent reform package consolidation. Substantive governance-restoration trajectory affecting family-law-implementation framework."
     },
     {
       "year": 2011,

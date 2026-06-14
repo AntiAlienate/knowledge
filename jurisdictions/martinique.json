@@ -4,7 +4,9 @@
   "name": "Martinique",
   "jurisdiction_code": "MQ",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Martinique is a Caribbean civil-law French overseas department and region (Département et région d'outre-mer / DROM) — structurally distinctive globally as the birthplace of the négritude movement led by Aimé Césaire (1913-2008), Mayor of Fort-de-France for 56 years (1945-2001) and co-founder with Léopold Sédar Senghor and Léon-Gontran Damas of the négritude intellectual movement asserting Black cultural identity. Martinique was also the birthplace of Frantz Fanon (1925-1961), psychiatrist and decolonisation theorist (Peau noire, masques blancs / Les Damnés de la terre), and Édouard Glissant (1928-2011), theorist of créolité and Antillean identity. Family-law framework operates under the French Civil Code applied directly as in metropolitan France. Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 371-387. The Court of Appeal of Fort-de-France is the apex domestic appellate court; final appellate jurisdiction lies with the French Court of Cassation in Paris. Family-law matters are heard at first instance in the Tribunal Judiciaire de Fort-de-France. Psychology profession is regulated through the French Republic professional framework as applicable in Martinique. Martinique is silent on 'parental alienation' as a statutory label; courts operate substantively under the French interest-of-the-child standard. Martinique is a Hague Convention 1980 party via French Republic territorial extension effective 1 December 1983.",
@@ -48,37 +50,37 @@
     {
       "year": 1635,
       "title": "French colonisation + Compagnie-des-Îles-de-l'Amérique framework",
-      "description": "French colonisation of Martinique commenced 1 September 1635 under Pierre Belain d'Esnambuc + Compagnie des Îles de l'Amérique — substantively distinctive Caribbean French-colonial framework. Subsequent 1664 Compagnie française des Indes occidentales takeover + 1674 Royal Domain integration affecting subsequent constitutional-administrative-trajectory."
+      "description": "French colonisation of Martinique commenced 1 September 1635 under Pierre Belain d'Esnambuc, Compagnie des Îles de l'Amérique. Subsequent 1664 Compagnie française des Indes occidentales takeover, 1674 Royal Domain integration affecting subsequent constitutional-administrative-trajectory."
     },
     {
       "year": 1685,
       "title": "Code Noir + slavery-+-colonial-administration framework",
-      "description": "Code Noir March 1685 enacted by Louis XIV applicable in Martinique — substantively distinctive Caribbean systematised-slavery-+-colonial-administration framework. Foundational substantive demographic and family-law-implementation framework persisting through subsequent reform-trajectory through 1848 abolition."
+      "description": "Code Noir March 1685 enacted by Louis XIV applicable in Martinique."
     },
     {
       "year": 1804,
       "title": "Code civil des Français + Napoleon framework",
-      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in Martinique — substantively significant Caribbean French-Civil-Code-substantive-heritage framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory affecting family-law-implementation including arts. 371-387 governing autorité parentale and child custody."
+      "description": "Code civil des Français (later Code Napoléon) 21 March 1804 applicable in Martinique — substantively significant Caribbean French framework. 371-387 governing autorité parentale and child custody."
     },
     {
       "year": 1848,
       "title": "Abolition of slavery + Victor-Schœlcher-decree framework",
-      "description": "Slavery abolished in Martinique under the Second Republic via Victor Schœlcher decree 27 April 1848 — substantively distinctive globally Second-French-Republic-Schœlcher-abolition framework (effective Martinique 22 May 1848 following slave-uprising). Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
+      "description": "Slavery abolished in Martinique under the Second Republic via Victor Schœlcher decree 27 April 1848. Substantive demographic and family-law-implementation transformation affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1902,
       "title": "Mount Pelée eruption + Saint-Pierre-destruction framework",
-      "description": "Mount Pelée eruption 8 May 1902 destroying Saint-Pierre (then capital) with ~28,000-30,000 fatalities — substantively distinctive globally deadliest-volcanic-eruption-of-20th-century framework. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Fort-de-France-capital-relocation."
+      "description": "Mount Pelée eruption 8 May 1902 destroying Saint-Pierre (then capital) with ~28,000-30,000 fatalities. Substantive demographic and family-law-implementation disruption affecting subsequent constitutional-democratic-trajectory and Fort."
     },
     {
       "year": 1939,
       "title": "Aimé Césaire + Cahier d'un retour au pays natal + négritude-movement-launch framework",
-      "description": "Aimé Césaire publishes Cahier d'un retour au pays natal 1939 — substantively distinctive globally birthplace-of-négritude-movement framework. Subsequent négritude movement leadership with Léopold Sédar Senghor and Léon-Gontran Damas + Frantz Fanon (Peau noire, masques blancs 1952) + Édouard Glissant (créolité) intellectual heritage affecting subsequent constitutional-democratic-trajectory."
+      "description": "Aimé Césaire publishes Cahier d'un retour au pays natal 1939. Subsequent négritude movement leadership with Léopold Sédar Senghor and Léon-Gontran Damas, Frantz Fanon (Peau noire, masques blancs 1952), Édouard Glissant (créolité) intellectual heritage affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1946,
       "title": "Departmental integration + Aimé-Césaire-rapporteur framework",
-      "description": "Martinique achieved departmental status (DOM) 19 March 1946 under loi de départementalisation — substantively distinctive Caribbean among-first-French-overseas-DOMs framework. Aimé Césaire served as deputy and rapporteur of loi de départementalisation — substantively distinctive globally Martinique's-DROM-integration-authored-by-its-leading-intellectual-figure framework. Substantive Mayor-of-Fort-de-France 56-year tenure (1945-2001) affecting subsequent constitutional-democratic-trajectory."
+      "description": "Martinique achieved departmental status (DOM) 19 March 1946 under loi de départementalisation. Aimé Césaire served as deputy and rapporteur of loi de départementalisation. Substantive Mayor 56-year tenure (1945-2001) affecting subsequent constitutional-democratic-trajectory."
     },
     {
       "year": 1983,
@@ -88,7 +90,7 @@
     {
       "year": 2015,
       "title": "Collectivité territoriale de Martinique + single-territorial-collectivity framework",
-      "description": "Collectivité territoriale de Martinique established 1 January 2015 merging department + regional council into single territorial collectivity — substantively distinctive Caribbean single-territorial-collectivity-with-Assemblée-de-Martinique framework. Substantive constitutional-administrative framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Collectivité territoriale de Martinique established 1 January 2015 merging department, regional council into single territorial collectivity."
     },
     {
       "year": 2023,

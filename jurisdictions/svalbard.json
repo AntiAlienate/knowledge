@@ -4,7 +4,9 @@
   "name": "Svalbard (Spitsbergen)",
   "jurisdiction_code": "SJ",
   "legal_system": "civil-law",
-  "language": ["no"],
+  "language": [
+    "no"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Svalbard (also known historically as Spitsbergen) is an Arctic civil-law autonomous-status territory of Norway — structurally distinctive globally as subject to the unique Svalbard Treaty 1920 (effective 1925) under which Norway exercises sovereignty subject to specific limitations: citizens of treaty parties (~46 states as of 2025) have equal rights to access and conduct commercial activities, the territory is demilitarised, and a maximum-15% tax regime applies. Svalbard is the only state-level entity globally where any treaty-party national may settle without visa or work permit. Family-law framework operates under Norwegian Marriage Act and Norwegian Children Act applied through the Svalbard Act 1925 with Svalbard-specific adaptations. Parental responsibility (foreldreansvar) and child custody are governed by Norwegian family-law principles. Sysselmesteren på Svalbard (Governor of Svalbard) exercises executive jurisdiction; the Norwegian judicial framework applies. Family-law matters are heard at first instance in the Court of Nord-Troms og Senja (covering Svalbard). Psychology profession is regulated through the Norwegian Healthcare Authority. Svalbard is silent on 'parental alienation' as a statutory label; courts operate substantively under the Norwegian best-interests-of-the-child standard. Svalbard is a Hague Convention 1980 party via Norwegian territorial extension effective 1 April 1989.",
@@ -56,27 +58,27 @@
     {
       "year": 1596,
       "title": "Willem Barentsz discovery + post-discovery-no-sovereignty framework",
-      "description": "Willem Barentsz Dutch expedition discovered Svalbard 17 June 1596 — substantively distinctive Arctic post-discovery-no-sovereignty framework persisting through 1920 Svalbard Treaty (over 300 years). Foundational pre-Treaty terra-nullius framework affecting subsequent international-law-trajectory."
+      "description": "Willem Barentsz Dutch expedition discovered Svalbard 17 June 1596."
     },
     {
       "year": 1920,
       "title": "Svalbard Treaty signed + Spitsbergen-Treaty framework",
-      "description": "International treaty (Treaty Concerning the Archipelago of Spitsbergen) signed 9 February 1920 at Paris Peace Conference establishing Norwegian sovereignty over Svalbard with specific limitations including equal access for treaty-party nationals, demilitarisation, and maximum-15% tax regime. Substantively distinctive globally only-international-treaty-with-equal-access-regime-for-treaty-parties framework."
+      "description": "International treaty (Treaty Concerning the Archipelago of Spitsbergen) signed 9 February 1920 at Paris Peace Conference establishing Norwegian sovereignty over Svalbard with specific limitations including equal access for treaty-party nationals, demilitarisation, and maximum-15% tax regime."
     },
     {
       "year": 1925,
       "title": "Svalbard Act + treaty entry into force",
-      "description": "Federal Svalbard Act (Svalbardloven) enacted 17 July 1925; Svalbard Treaty entered into force 14 August 1925 — substantively significant Arctic governance framework. Foundational substantive-territorial-administration framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Svalbard Act (Svalbardloven) enacted 17 July 1925; Svalbard Treaty entered into force 14 August 1925 — substantively significant Arctic governance framework."
     },
     {
       "year": 1941,
       "title": "Operation Gauntlet + German occupation + WWII framework",
-      "description": "Operation Gauntlet (UK-Canadian raid) 25 August – 3 September 1941 evacuating Svalbard population. Subsequent German occupation 1943-1944 substantively distinctive Arctic WWII framework. Foundational post-WWII reconstruction framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Operation Gauntlet (UK-Canadian raid) 25 August – 3 September 1941 evacuating Svalbard population."
     },
     {
       "year": 1971,
       "title": "Soviet/Russian mining settlements + Barentsburg-Pyramiden framework",
-      "description": "Soviet/Russian mining settlements Barentsburg (continuing) and Pyramiden (abandoned 1998) substantively distinctive globally Russian-permanent-presence-in-NATO-state-territory framework. Substantive Cold-War-era + post-Soviet Russian-Arctic-presence framework affecting subsequent geopolitical-positioning."
+      "description": ""
     },
     {
       "year": 1989,
@@ -91,7 +93,7 @@
     {
       "year": 2008,
       "title": "Svalbard Global Seed Vault opening + global-significance framework",
-      "description": "Svalbard Global Seed Vault opened 26 February 2008 substantively distinctive globally most-significant-biodiversity-preservation-facility framework. Substantive Arctic biodiversity-preservation framework affecting subsequent constitutional-administrative-trajectory and global scientific-collaboration framework."
+      "description": ""
     },
     {
       "year": 2014,

@@ -4,7 +4,10 @@
   "name": "Philippines",
   "jurisdiction_code": "PH",
   "legal_system": "mixed",
-  "language": ["en", "tl"],
+  "language": [
+    "en",
+    "tl"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Philippines is a Southeast Asian mixed-legal-system unitary republic combining Spanish civil-law substantive heritage with American common-law procedural inheritance. Family law operates under the Family Code of the Philippines (Executive Order 209/1987) for non-Muslim matters and the Code of Muslim Personal Laws (Presidential Decree 1083/1977) for Muslim matters heard by Shari'a District Courts. Parental authority is governed by Family Code arts. 209-233; joint exercise during marriage is the statutory default with parental authority over the child of unwed parents lodged in the mother. The Philippines does not have divorce — it operates annulment, legal separation, and recently the Family Court framework with Republic Act 8369/1997 Family Courts Act. The Supreme Court (Korte Suprema) is the apex court for civil, criminal, constitutional, and administrative matters. Psychology profession is regulated under the Psychology Act of 2009 (Republic Act 10029) establishing the Professional Regulatory Board of Psychology under the Professional Regulation Commission. Philippines is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Philippines acceded to the Hague Convention 1980 effective 1 March 2016.",
@@ -61,17 +64,17 @@
     {
       "year": 1946,
       "title": "Philippines independence + Manuel Roxas + Third-Republic framework",
-      "description": "Philippines independence 4 July 1946 from the United States — Manuel Roxas first president of independent Third Republic. Substantively distinctive Southeast Asian US-territorial-independence framework. Foundational pre-Marcos framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Philippines independence 4 July 1946 from the United States — Manuel Roxas first president of independent Third Republic."
     },
     {
       "year": 1972,
       "title": "Marcos Martial Law + 21-year-authoritarian framework",
-      "description": "Ferdinand Marcos Martial Law declaration 23 September 1972 — substantively distinctive Southeast Asian 14-year-authoritarian framework 1972-1986. Substantial Marcos-era political-institutional framework affecting subsequent constitutional-democratic-trajectory and family-law-modernisation."
+      "description": "Ferdinand Marcos Martial Law declaration 23 September 1972."
     },
     {
       "year": 1986,
       "title": "EDSA Revolution + Cory Aquino + democratic-restoration framework",
-      "description": "EDSA People Power Revolution 22-25 February 1986 ending Marcos era. Cory Aquino first female president 1986-1992 — substantively distinctive Southeast Asian Catholic-democratic-restoration framework. Substantive constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
+      "description": "EDSA People Power Revolution 22-25 February 1986 ending Marcos era. Cory Aquino first female president 1986-1992. Substantive constitutional-democratic-trajectory affecting subsequent family-law-modernisation."
     },
     {
       "year": 1987,
@@ -96,7 +99,7 @@
     {
       "year": 2016,
       "title": "Hague Convention 1980 accession + Duterte presidency framework",
-      "description": "Philippines acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2016 — substantively significant Asian Hague-accession framework. Rodrigo Duterte inaugurated 30 June 2016 substantively distinctive Southeast Asian populist-authoritarian framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Philippines acceded to the Hague Convention 1980 on Child Abduction effective 1 March 2016 — substantively significant Asian Hague-accession framework."
     },
     {
       "year": 2018,
@@ -106,17 +109,17 @@
     {
       "year": 2022,
       "title": "Marcos Jr. presidency + dynastic-return framework",
-      "description": "Bongbong Marcos (Ferdinand Marcos Jr.) inaugurated 30 June 2022 — substantively distinctive Southeast Asian Marcos-dynastic-return framework 36 years after 1986 EDSA Revolution. Sara Duterte vice-president. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
+      "description": "Bongbong Marcos (Ferdinand Marcos Jr.) inaugurated 30 June 2022. Sara Duterte vice-president. Substantive constitutional-democratic-trajectory affecting subsequent family-law-implementation."
     },
     {
       "year": 2023,
       "title": "Duterte ICC investigation + cooperation-framework + family-law-impact context",
-      "description": "International Criminal Court (ICC) Pre-Trial Chamber I authorisation 26 January 2023 resuming investigation of former President Rodrigo Duterte's war-on-drugs framework 2016-2022 — substantively distinctive globally only modern ICC investigation of former-Philippine-President framework + Marcos Jr. administration declining ICC cooperation framework 2023 + structurally distinctive Marcos-Duterte coalition fracture 2024 framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory + Supreme Court of the Philippines jurisprudence + Family Code 1987 framework implementation + welfare-of-the-child substantive register evolution + foundation for subsequent 2024 Absolute Divorce Bill framework."
+      "description": "International Criminal Court (ICC) Pre-Trial Chamber I authorisation 26 January 2023 resuming investigation of former President Rodrigo Duterte's war-on-drugs framework 2016-2022. administration declining ICC cooperation framework 2023, structurally distinctive Marcos-Duterte coalition fracture 2024 framework, substantively significant institutional context affecting subsequent constitutional-democratic-trajectory, Supreme Court of the Philippines jurisprudence, Family Code 1987 framework implementation, welfare substantive register evolution, foundation for subsequent 2024 Absolute Divorce Bill framework."
     },
     {
       "year": 2024,
       "title": "Supreme Court of the Philippines — welfare-of-the-child substantive register + Absolute Divorce Bill framework",
-      "description": "Supreme Court of the Philippines continues to develop welfare-of-the-child jurisprudence under Family Code 1987 arts. 209-233 + Family Courts Act + Hague Convention 1980 framework in custody disputes. Absolute Divorce Bill (House Bill 9349) passed House of Representatives 22 May 2024 — substantively distinctive Philippines globally only-major-jurisdiction-without-divorce-civil-framework potentially reform-trajectory affecting subsequent family-law-modernisation. Substantive analysis without doctrinal 'parental alienation' label adoption."
+      "description": "Supreme Court of the Philippines continues to develop welfare jurisprudence under Family Code 1987 arts. 209-233, Family Courts Act, Hague Convention 1980 framework in custody disputes. Absolute Divorce Bill (House Bill 9349) passed House of Representatives 22 May 2024. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [

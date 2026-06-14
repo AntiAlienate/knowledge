@@ -4,7 +4,9 @@
   "name": "Angola (Republic of Angola / República de Angola)",
   "jurisdiction_code": "AO",
   "legal_system": "civil-law",
-  "language": ["pt"],
+  "language": [
+    "pt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Angola is a Southern African civil-law republic whose family-law framework operates under the Family Code 1988 (Código da Família, Law 1/88) drawing on Portuguese civil-law substantive heritage with significant socialist-civil-law adaptations. Parental power (poder paternal) and child custody are governed by Family Code arts. 127-153. The Supreme Court of Angola (Tribunal Supremo) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Provincial Courts (Tribunal Provincial), with specialised Family-Court procedure. Psychology profession is regulated through the Ministry of Health framework with the Angolan Order of Psychologists operating professional standards. Angola is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 127. Angola is non-Hague Convention.",
@@ -65,7 +67,7 @@
     {
       "year": 1988,
       "title": "Family Code 1988 (Código da Família, Law 1/88)",
-      "description": "Federal Family Code enacted 1988 with socialist-civil-law adaptations on Portuguese civil-law substantive heritage. Arts. 127-153 govern parental power (poder paternal) and child custody. Foundational substantive substrate that persists in contemporary Angolan family-law framework — even after 1992 democratic-multi-party transition."
+      "description": "Federal Family Code enacted 1988 with socialist-civil-law adaptations on Portuguese civil-law substantive heritage. Arts. 127-153 govern parental power (poder paternal) and child custody."
     },
     {
       "year": 1990,

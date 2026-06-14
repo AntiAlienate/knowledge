@@ -4,7 +4,9 @@
   "name": "El Salvador (Republic of El Salvador / República de El Salvador)",
   "jurisdiction_code": "SV",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "El Salvador is a Central American civil-law republic whose family-law framework operates under the Family Code 1993 (Código de Familia, Decree 677 of 1993, effective 1 October 1994), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 206-247. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Chamber (Sala de lo Constitucional) operates within the Supreme Court with constitutional review jurisdiction. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Junta de Vigilancia de la Profesión de Psicología under the Ministerio de Salud framework. El Salvador is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Code art. 350. El Salvador acceded to the Hague Convention 1980 effective 1 May 2001.",
@@ -55,17 +57,17 @@
     {
       "year": 1821,
       "title": "El Salvador independence + Central-American-Federation framework",
-      "description": "El Salvador independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework. Foundational Central-American-Federation framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "El Salvador independence 15 September 1821 from Spain as part of Captaincy General of Guatemala. Subsequent Federal Republic of Central America 1823-1841 framework."
     },
     {
       "year": 1932,
       "title": "La Matanza 1932 + Farabundo Martí + indigenous-massacre framework",
-      "description": "La Matanza (the massacre) January 1932 — estimated 10,000-40,000 indigenous Pipil and peasants killed by military government following peasant uprising led by Farabundo Martí. Substantively distinctive Central American 20th-century indigenous-mass-atrocity framework affecting subsequent demographic and family-law-implementation framework."
+      "description": "La Matanza (the massacre) January 1932 — estimated 10,000-40,000 indigenous Pipil and peasants killed by military government following peasant uprising led by Farabundo Martí."
     },
     {
       "year": 1980,
       "title": "Salvadoran Civil War 1979-1992 + FMLN-government conflict",
-      "description": "Salvadoran Civil War 1979-1992 between FMLN guerrilla forces and US-backed government. Substantive 12-year conflict with estimated 75,000 killed substantially affected political-institutional framework. Foundational pre-Peace-Accords framework affecting subsequent democratic-trajectory."
+      "description": "Salvadoran Civil War 1979-1992 between FMLN guerrilla forces and US-backed government. Substantive 12-year conflict with estimated 75,000 killed substantially affected political-institutional framework."
     },
     {
       "year": 1990,
@@ -95,12 +97,12 @@
     {
       "year": 2019,
       "title": "Bukele presidency + Bitcoin-Law + mega-prison + state-of-exception framework",
-      "description": "Nayib Bukele elected President 3 February 2019 (Nuevas Ideas). Subsequent Bitcoin-Law 2021 + Centro de Confinamiento del Terrorismo (CECOT) mega-prison + state-of-exception 27 March 2022 (continuing) substantively reshaping political-institutional framework. Substantively distinctive Central-American populist-authoritarian framework affecting family-law-cross-cutting-areas including detained-parent custody contexts."
+      "description": "Nayib Bukele elected President 3 February 2019 (Nuevas Ideas). Subsequent Bitcoin-Law 2021, Centro de Confinamiento del Terrorismo (CECOT) mega-prison, state-of-exception 27 March 2022 (continuing) substantively reshaping political-institutional framework."
     },
     {
       "year": 2022,
       "title": "State of exception March 2022 + CONNA institutional framework + detained-parent custody contexts",
-      "description": "El Salvador state-of-exception declared 27 March 2022 substantively distinctive Central-American mass-detention framework with 70,000+ detentions through 2022-2024. Substantively significant for detained-parent custody contexts. CONNA (Consejo Nacional de la Niñez y la Adolescencia) institutional position addressing PA-related issues within LEPINA Law + Family Code 1993 framework. Substantively significant Central American institutional context affecting subsequent family-law adjudication."
+      "description": "Substantively significant for detained-parent custody contexts. CONNA (Consejo Nacional de la Niñez y la Adolescencia) institutional position addressing PA-related issues within LEPINA Law, Family Code 1993 framework. Substantively significant Central American institutional context affecting subsequent family-law adjudication."
     },
     {
       "year": 2024,

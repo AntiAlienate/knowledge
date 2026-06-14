@@ -4,7 +4,9 @@
   "name": "Venezuela (Bolivarian Republic of Venezuela / República Bolivariana de Venezuela)",
   "jurisdiction_code": "VE",
   "legal_system": "civil-law",
-  "language": ["es"],
+  "language": [
+    "es"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Venezuela is a South American civil-law federal republic whose family-law framework operates under the Civil Code (Código Civil, 1982 revision) supplemented by the Organic Law for the Protection of Children and Adolescents (LOPNNA, 2007 reform of 1998 LOPNA). Parental authority (patria potestad) — termed 'parental responsibility' (responsabilidad de crianza) post-2007 — and child custody are governed by LOPNNA arts. 358-389. The Supreme Tribunal of Justice (Tribunal Supremo de Justicia) is the apex court for civil and criminal matters, with the Constitutional Chamber (Sala Constitucional) operating constitutional review. Family-law matters are heard at first instance in the Children and Adolescents Protection Courts (Tribunales de Protección de Niños, Niñas y Adolescentes). Psychology profession is regulated through the Federación de Psicólogos de Venezuela. Venezuela has Constitutional Chamber jurisprudence addressing parental alienation substantively (Sala Constitucional decisions 2010-2018 on co-parenting and the alienating-parent doctrine) — among the more developed Latin American case-law on substantive PA-equivalent dynamics in the corpus, while remaining statutorily silent on the term. Venezuela acceded to the Hague Convention 1980 effective 1 January 1997.",
@@ -55,22 +57,22 @@
     {
       "year": 1811,
       "title": "Venezuelan independence + Bolívar-+-Gran-Colombia framework",
-      "description": "Venezuelan independence declared 5 July 1811 — substantively distinctive South American Bolívar-+-Gran-Colombia framework. Subsequent 1830 dissolution of Gran Colombia establishing independent Venezuela. Foundational substantive 215+ year independent-republic framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Venezuelan independence declared 5 July 1811. Subsequent 1830 dissolution of Gran Colombia establishing independent Venezuela."
     },
     {
       "year": 1862,
       "title": "Civil Code 1862 + Andrés-Bello-civil-law-substantive-heritage framework",
-      "description": "Federal Civil Code 1862 enacted based on Andrés Bello / Chilean Civil Code substantive heritage — substantively significant South American Bello-Civil-Code-derivative framework. Foundational substantive civil-law framework persisting through subsequent reform-trajectory including 1982 revision affecting family-law-implementation."
+      "description": "Federal Civil Code 1862 enacted based on Andrés Bello / Chilean Civil Code substantive heritage — substantively significant South American Bello framework."
     },
     {
       "year": 1958,
       "title": "Punto-Fijo-Pact + democratic-restoration framework",
-      "description": "Punto Fijo Pact 31 October 1958 ending Marcos Pérez Jiménez dictatorship 1952-1958 — substantively distinctive South American Punto-Fijo-bipartisan-democratic-restoration framework. Substantive 40-year AD-COPEI democratic framework persisting through subsequent 1999 Chávez-presidency affecting constitutional-democratic-trajectory."
+      "description": "Punto Fijo Pact 31 October 1958 ending Marcos Pérez Jiménez dictatorship 1952-1958. Substantive 40-year AD-COPEI democratic framework persisting through subsequent 1999 Chávez-presidency affecting constitutional-democratic-trajectory."
     },
     {
       "year": 1982,
       "title": "Civil Code 1982 revision + Bolivarian-civil-law-modernisation framework",
-      "description": "Federal Civil Code revision 1982 substantively reshaping family-law-implementation framework — substantively significant South American civil-law-modernisation framework. Foundational substantive civil-law framework persisting through subsequent LOPNA-LOPNNA reform-trajectory."
+      "description": "Federal Civil Code revision 1982 substantively reshaping family-law-implementation framework — substantively significant South American civil-law-modernisation framework."
     },
     {
       "year": 1990,
@@ -80,27 +82,27 @@
     {
       "year": 1997,
       "title": "Hague Convention 1980 accession + Hague-Latin-American-cluster framework",
-      "description": "Venezuela acceded to the Hague Convention 1980 effective 1 January 1997 — substantively significant South American Hague-accession framework. Substantive cross-border-jurisdiction-practice framework affecting subsequent reform-trajectory."
+      "description": "Venezuela acceded to the Hague Convention 1980 effective 1 January 1997 — substantively significant South American Hague-accession framework."
     },
     {
       "year": 1998,
       "title": "LOPNA + Organic-Law-for-the-Protection-of-Children-and-Adolescents framework",
-      "description": "Federal Organic Law for the Protection of Children and Adolescents (LOPNA) 1998 enacted aligned with UNCRC obligations — substantively significant South American child-protection framework. Foundational pre-2007-LOPNNA-reform framework affecting subsequent reform-trajectory."
+      "description": "Federal Organic Law for the Protection of Children and Adolescents (LOPNA) 1998 enacted aligned with UNCRC obligations — substantively significant South American child-protection framework."
     },
     {
       "year": 1999,
       "title": "Chávez-presidency + 1999-Constitution-of-Bolivarian-Republic framework",
-      "description": "Hugo Chávez Frías presidency 2 February 1999 + Constitution of Bolivarian Republic of Venezuela 1999 — substantively distinctive South American Bolivarian-republic-renaming-+-21st-century-socialism framework. Substantive constitutional-democratic-trajectory framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Hugo Chávez Frías presidency 2 February 1999, Constitution of Bolivarian Republic of Venezuela 1999."
     },
     {
       "year": 2007,
       "title": "LOPNNA reform + co-parenting-+-parental-responsibility-codification framework",
-      "description": "LOPNA substantially reformed becoming LOPNNA 2007 — substantively significant South American co-parenting-+-parental-responsibility-codification framework. Patria potestad renamed responsabilidad de crianza. Foundational substantive co-parenting framework affecting subsequent Sala Constitucional PA-equivalent jurisprudence 2010-2018."
+      "description": "LOPNA substantially reformed becoming LOPNNA 2007 — substantively significant South American co-parenting-+-parental-responsibility-codification framework. Patria potestad renamed responsabilidad de crianza."
     },
     {
       "year": 2018,
       "title": "Venezuelan migration crisis + cross-border-family-disruption + Hague-implementation framework",
-      "description": "Venezuelan migration crisis substantially accelerating 2018-2024 reaching 7.7+ million emigrants by 2024 — structurally distinctive globally largest Western-Hemisphere migration-crisis framework + structurally distinctive Latin-American cross-border-family-disruption framework affecting subsequent Hague Convention 1980 cross-border child-return proceedings between Venezuela + Colombia + Peru + Ecuador + Chile + Brazil + USA + Spain + substantively significant LOPNNA 2007 framework implementation challenge + responsabilidad de crianza framework challenge across Venezuelan-diaspora-jurisdiction framework + foundational substantive cross-border-jurisdiction-practice framework affecting subsequent Sala Constitucional jurisprudence + Tribunal Supremo de Justicia substantive register evolution."
+      "description": "Venezuelan migration crisis substantially accelerating 2018-2024 reaching 7.7+ million emigrants by 2024."
     },
     {
       "year": 2023,

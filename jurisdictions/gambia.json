@@ -4,7 +4,9 @@
   "name": "Gambia (Republic of The Gambia)",
   "jurisdiction_code": "GM",
   "legal_system": "mixed",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "The Gambia is a West African mixed-legal-system republic combining English common-law substantive heritage (via colonial inheritance) with Islamic-law personal-status jurisdiction (operating through Cadi/Sharia Courts under the Cadi Court Act) and customary-law jurisdiction via District Tribunals. Family-law framework operates under the Children's Act 2005, the Christian Marriage Act, the Mohammedan Marriage and Divorce Act, the Civil Marriage Act, and the Customary Marriage and Divorce Act. Parental responsibility and child custody are governed by Children's Act Part IV. The Supreme Court of The Gambia is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division), Magistrates' Courts, Cadi Courts for Muslim personal-status matters, and District Tribunals for customary-law matters. Psychology profession is regulated through the Ministry of Health framework. The Gambia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Children's Act s. 4. The Gambia is non-Hague Convention.",
@@ -54,12 +56,12 @@
     {
       "year": 1970,
       "title": "Republic transition + Dawda Jawara presidency framework",
-      "description": "The Gambia became a republic 24 April 1970 — Dawda Jawara presidency 1970-1994 substantively significant African long-presidency framework (29 years total). Foundational pre-1994-coup framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "The Gambia became a republic 24 April 1970 — Dawda Jawara presidency 1970-1994 substantively significant African long-presidency framework (29 years total)."
     },
     {
       "year": 1981,
       "title": "1981 Gambia coup attempt + Senegambia Confederation",
-      "description": "1981 Gambia coup attempt 30 July 1981 led by Kukoi Samba Sanyang substantively disrupting political-institutional framework — Senegalese military intervention restored Jawara. Subsequent Senegambia Confederation 1982-1989 substantively distinctive West African confederation framework. Substantive bi-national-confederation framework affecting cross-border-jurisdiction-practice."
+      "description": "1981 Gambia coup attempt 30 July 1981 led by Kukoi Samba Sanyang substantively disrupting political-institutional framework — Senegalese military intervention restored Jawara. Substantive bi-national-confederation framework affecting cross."
     },
     {
       "year": 1990,
@@ -69,12 +71,12 @@
     {
       "year": 1994,
       "title": "Yahya Jammeh coup d'état + 22-year-authoritarian framework",
-      "description": "Yahya Jammeh coup d'état 22 July 1994 ending Jawara presidency — substantively distinctive African 22-year-authoritarian framework 1994-2017. Substantive political-institutional disruption affecting family-law-implementation framework persisting through subsequent democratic-transition trajectory."
+      "description": "Yahya Jammeh coup d'état 22 July 1994 ending Jawara presidency. Substantive political-institutional disruption affecting family-law-implementation framework persisting through subsequent democratic-transition trajectory."
     },
     {
       "year": 1997,
       "title": "Constitution of the Gambia 1997 + Jammeh-era constitutional framework",
-      "description": "Constitution of the Second Republic of The Gambia 1997 adopted 8 August 1996 (effective 16 January 1997) establishing Jammeh-era presidential republic framework. Foundational pre-2017-transition framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Constitution of the Second Republic of The Gambia 1997 adopted 8 August 1996 (effective 16 January 1997) establishing Jammeh-era presidential republic framework."
     },
     {
       "year": 2005,
@@ -89,7 +91,7 @@
     {
       "year": 2017,
       "title": "Adama Barrow + Jammeh exile + democratic-transition framework",
-      "description": "Adama Barrow elected President 1 December 2016 ending 22-year Jammeh era. Jammeh exile January 2017 substantively distinctive African post-authoritarian democratic-transition framework. Substantive Truth, Reconciliation and Reparations Commission (TRRC) 2018-2021 framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Adama Barrow elected President 1 December 2016 ending 22-year Jammeh era."
     },
     {
       "year": 2023,

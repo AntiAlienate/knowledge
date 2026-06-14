@@ -4,7 +4,9 @@
   "name": "Australian Antarctic Territory (AAT)",
   "jurisdiction_code": "AQ-AU",
   "legal_system": "common-law",
-  "language": ["en"],
+  "language": [
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Australian Antarctic Territory (AAT) is an Antarctic common-law Australian external territory comprising the sector of Antarctica south of 60°S between 45°E and 160°E longitude (excluding the French Adélie Land sector at 136°E-142°E) — structurally distinctive globally as the single largest national Antarctic territorial claim by area (~5.9 million km², 42% of the Antarctic continent). AAT was transferred from UK to Australian sovereignty by the Australian Antarctic Territory Acceptance Act 1933 (Cth) effective 24 August 1936. AAT is one of seven national Antarctic territorial claims operating under the 1959 Antarctic Treaty's claim-suspension framework (article IV). AAT has no permanent civilian population — only seasonal Australian Antarctic Division research staff at Davis, Mawson, Casey, and Macquarie Island (Sub-Antarctic) research stations. Family-law framework is theoretical given the absence of permanent civilian population, but operates under Australian Commonwealth law applied via the AAT Acceptance Act 1933 and Australian Antarctic Territory Act 1954. Parental authority and child custody would in principle operate under the Family Law Act 1975 (Cth). Australian Federal Court and Family Court of Australia have jurisdiction over AAT matters; final appellate jurisdiction lies with the High Court of Australia. AAT is silent on 'parental alienation' as a statutory label. AAT is a Hague Convention 1980 party via Australian territorial extension.",
@@ -69,37 +71,37 @@
     {
       "year": 1841,
       "title": "James Clark Ross + Victoria-Land-discovery framework",
-      "description": "Captain James Clark Ross discovered Victoria Land (part of present-day AAT) January 1841 — substantively distinctive Antarctic Anglo-pre-claim-territorial-discovery framework. Foundational pre-1933-AAT-Acceptance-Act framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Captain James Clark Ross discovered Victoria Land (part of present-day AAT) January 1841."
     },
     {
       "year": 1911,
       "title": "Australasian Antarctic Expedition + Mawson-pre-claim-exploration framework",
-      "description": "Australasian Antarctic Expedition 1911-1914 led by Sir Douglas Mawson — substantively distinctive Antarctic pre-AAT-Acceptance-Act exploration framework establishing Australian-presence-in-Antarctic claim foundation. Foundational pre-1933 framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "Australasian Antarctic Expedition 1911-1914 led by Sir Douglas Mawson."
     },
     {
       "year": 1929,
       "title": "BANZARE expedition + AAT-claim-foundation framework",
-      "description": "British, Australian and New Zealand Antarctic Research Expedition (BANZARE) 1929-1931 led by Sir Douglas Mawson establishing AAT claim foundation — substantively distinctive Antarctic pre-1933-AAT-Acceptance-Act framework. Foundational substantive Australian-Antarctic-territorial-claim framework affecting subsequent constitutional-administrative-trajectory."
+      "description": "British, Australian and New Zealand Antarctic Research Expedition (BANZARE) 1929-1931 led by Sir Douglas Mawson establishing AAT claim foundation."
     },
     {
       "year": 1933,
       "title": "AAT Acceptance Act + UK-sovereignty-transfer framework",
-      "description": "Federal Act 1933 accepting UK transfer of AAT sovereignty to Australia effective 24 August 1936 — substantively distinctive globally only-Antarctic-territorial-claim-transferred-between-two-states-in-formal-sovereignty-transfer framework. Foundational substantive 90+ year Australian-Antarctic-sovereignty framework persisting through subsequent reform-trajectory."
+      "description": "Federal Act 1933 accepting UK transfer of AAT sovereignty to Australia effective 24 August 1936."
     },
     {
       "year": 1954,
       "title": "AAT Act 1954 + Mawson-Station-+-governance-framework",
-      "description": "Federal Act 1954 establishing AAT governance framework with Australian Capital Territory law applied with local modifications. Mawson Station established 13 February 1954 as first permanent Australian Antarctic research station — substantively distinctive Antarctic Australian-Antarctic-Division-research-presence framework. Foundational substantive research-station framework affecting subsequent constitutional-democratic-trajectory."
+      "description": "Federal Act 1954 establishing AAT governance framework with Australian Capital Territory law applied with local modifications. Mawson Station established 13 February 1954 as first permanent Australian Antarctic research station."
     },
     {
       "year": 1959,
       "title": "Antarctic Treaty + article-IV-claim-suspension framework",
-      "description": "Antarctic Treaty signed 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV — substantively distinctive globally Antarctic-claim-suspension framework. AAT claim suspended pending Treaty term. Foundational substantive Antarctic-Treaty-System framework affecting subsequent constitutional-administrative-trajectory and cross-border-jurisdiction-practice."
+      "description": "Antarctic Treaty signed 1 December 1959 (entered into force 23 June 1961) suspending Antarctic territorial claims under article IV. AAT claim suspended pending Treaty term."
     },
     {
       "year": 1975,
       "title": "Family Law Act 1975 + AAT-applicability framework",
-      "description": "Australian Family Law Act 1975 (Cth) applicable in AAT for parental responsibility and child custody — theoretical given absence of permanent civilian population. Foundational substantive family-law framework persisting through subsequent reform-trajectory affecting family-law-implementation."
+      "description": "Australian Family Law Act 1975 (Cth) applicable in AAT for parental responsibility and child custody — theoretical given absence of permanent civilian population."
     },
     {
       "year": 1987,
@@ -109,7 +111,7 @@
     {
       "year": 1998,
       "title": "Madrid Protocol + Antarctic-environmental-protection framework",
-      "description": "Madrid Protocol on Environmental Protection to the Antarctic Treaty 4 October 1991 (entered into force 14 January 1998) — substantively distinctive Antarctic environmental-protection-50-year-mining-prohibition framework. Substantive Antarctic-Treaty-System framework affecting subsequent constitutional-administrative-trajectory and Antarctic-jurisdiction-practice."
+      "description": "Madrid Protocol on Environmental Protection to the Antarctic Treaty 4 October 1991 (entered into force 14 January 1998)."
     },
     {
       "year": 2023,

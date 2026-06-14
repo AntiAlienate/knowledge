@@ -4,10 +4,13 @@
   "name": "India (Republic of India / भारत गणराज्य)",
   "jurisdiction_code": "IN",
   "legal_system": "mixed (English common-law + personal-status laws — Hindu, Muslim, Christian, Parsi, secular)",
-  "language": ["en", "hi"],
+  "language": [
+    "en",
+    "hi"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "India is a federal common-law jurisdiction with personal-status legal pluralism — Hindu Marriage Act 1955 + Hindu Adoptions and Maintenance Act 1956 + Hindu Minority and Guardianship Act 1956 (HMGA) governing Hindu families; Muslim Personal Law (Shariat) Application Act 1937 governing Muslims; Indian Christian Marriage Act 1872 + Divorce Act 1869 governing Christians; Parsi Marriage and Divorce Act 1936 governing Parsis; and the secular Special Marriage Act 1954 + Guardians and Wards Act 1890 (GWA) available across communities. The Constitution of India 1950 establishes constitutional framework. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of India in Yashita Sahu v State of Rajasthan (2020) and Tejaswini Gaud v Shekhar Tewari (2019) has applied welfare-of-the-child paramount standard. India ratified UN CRC 1992. India is NOT a Hague Convention 1980 signatory — substantively distinctive globally for non-signatory G20 status creating distinctive cross-border-abduction framework.",
+  "summary": "India is a federal common-law jurisdiction with personal-status legal pluralism — Hindu Marriage Act 1955, Hindu Adoptions and Maintenance Act 1956, Hindu Minority and Guardianship Act 1956 (HMGA) governing Hindu families; Muslim Personal Law (Shariat) Application Act 1937 governing Muslims; Indian Christian Marriage Act 1872, Divorce Act 1869 governing Christians; Parsi Marriage and Divorce Act 1936 governing Parsis; and the secular Special Marriage Act 1954, Guardians and Wards Act 1890 (GWA) available across communities. The Constitution of India 1950 establishes constitutional framework. The statutory framework is silent on the 'parental alienation' label. The Supreme Court of India in Yashita Sahu v State of Rajasthan (2020) and Tejaswini Gaud v Shekhar Tewari (2019) has applied welfare paramount standard. India ratified UN CRC 1992. India is NOT a Hague Convention 1980 signatory.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -131,11 +134,8 @@
   ],
   "structural_findings": [
     "India operates a structurally distinctive mixed common-law family-law framework with personal-status legal pluralism — Hindu personal-status statutes (HMA, HMGA) + Muslim Personal Law Application Act 1937 + Christian/Parsi personal-status statutes + secular GWA 1890 + Special Marriage Act 1954 — coordinated by Constitution of India 1950 framework and Supreme Court welfare-paramount jurisprudence.",
-    "India is NOT a Hague Convention 1980 signatory — substantively distinctive globally for non-signatory G20 status. Operationally creates distinctive cross-border-abduction framework with Supreme Court applying welfare-paramount standard rather than Hague return-mechanism — particularly significant for India-US and India-UK cross-border family-law cases.",
-    "Personal-status legal pluralism operationally creates structurally distinctive Indian family-law framework requiring per-personal-law-system analysis — substantively distinctive from other common-law jurisdictions (UK, Australia, Canada) and from African pluralism (Nigeria, Kenya)."
+    "India is NOT a Hague Convention 1980 signatory. Operationally creates distinctive cross-border-abduction framework with Supreme Court applying welfare-paramount standard rather than Hague return-mechanism — particularly significant for India-US and India-UK cross-border family-law cases.",
+    "Personal-status legal pluralism operationally creates structurally distinctive Indian family-law framework requiring per analysis."
   ],
-  "editorial_notes": [
-    "India's non-signatory status to Hague Convention 1980 is substantively distinctive globally for G20 status — operationally creating distinctive India-cross-border-family-law jurisdiction structurally requiring welfare-paramount analysis rather than Hague return-mechanism.",
-    "Personal-status legal pluralism (Hindu + Muslim + Christian + Parsi + secular) is substantively distinctive globally — making India a critical comparative-law data point for personal-status-pluralism family-law architecture."
-  ]
+  "editorial_notes": []
 }
