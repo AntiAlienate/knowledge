@@ -394,7 +394,7 @@ London · England · High Court of Justice, Family Division; Chair Family Proced
 *Multi-disciplinary set of barristers' chambers with offices in London + Birmingham + Bristol + Leicester + Manchester; specialisms including family law (private + public children + finance + international family); SRA-recognised set*
 London + Birmingham (multi-site) · England (UK-wide practice) · No5 Chambers — multi-disciplinary barristers set
 
-**Stance:** Institutional cross-reference: No5 Chambers is a multi-disciplinary English barristers set with a significant family-law practice including private-law children proceedings. Cross-linked from practitioners/lawyers/asia.json (in.luthra-geeta + in.malhotra-anil entries) for the international-family-law collaboration register where Indian senior counsel collaborate with English family chambers on cross-border PA-adjacent matters (Hague Convention return cases, Brussels IIa/IIb, NRI custody). No5 Chambers does not carry a chambers-level PA-construct position statement; individual practitioners engage PA matters under English Children Act 1989 + post-Re Y [2026] EWFC 38 evaluator-quality framework. Institutional entry cross-link rather than individual-practitioner entry.
+**Stance:** Institutional cross-reference: No5 Chambers is a multi-disciplinary English barristers set with a significant family-law practice including private-law children proceedings. Cross-linked from practitioners/lawyers/asia.json (in.luthra-geeta + in.malhotra-anil entries) for the international-family-law collaboration register where Indian senior counsel collaborate with English family chambers on cross-border PA-adjacent matters (Hague Convention return cases, Brussels IIa/IIb, NRI custody). No5 Chambers does not carry a chambers-level PA-construct position statement; individual practitioners engage PA matters under English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) + post-Re Y [2026] EWFC 38 evaluator-quality framework. Institutional entry cross-link rather than individual-practitioner entry.
 
 **Verification:**
 - <https://www.no5.com/>
@@ -416,6 +416,8 @@ London + Birmingham (multi-site) · England (UK-wide practice) · No5 Chambers �
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

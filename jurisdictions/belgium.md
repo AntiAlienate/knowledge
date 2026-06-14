@@ -35,7 +35,7 @@ Belgium is a federal civil-law jurisdiction structurally shaped by its community
 ### [Cour de cassation](https://www.courdecassation.fr/) de Belgique / Hof van Cassatie
 <https://www.cass.be/>
 - **Cass. 6 mars 2025, C.24.0157.F — addresses inexécution des décisions du tribunal de la famille relatives à l'hébergement under art. 387ter [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/). NOT a PA-construct-qualifying apex decision; the [Cour de cassation](https://www.courdecassation.fr/) has not yet ruled on the scientific validity of the parental-alienation construct.** (2025) — middle
-- **No apex Cour de cassation / Hof van Cassatie ruling has been issued qualifying or disqualifying the PA/PAS construct. This places Belgium with the Netherlands and Germany in the EU6 'no-apex-PA-position' cluster, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).** (2026) — middle
+- **No apex [Cour de cassation](https://www.courdecassation.fr/) / Hof van Cassatie ruling has been issued qualifying or disqualifying the PA/PAS construct. This places Belgium with the Netherlands and Germany in the EU6 'no-apex-PA-position' cluster, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).** (2026) — middle
 
 ### Cour constitutionnelle / Grondwettelijk Hof
 <https://www.const-court.be/>
@@ -62,7 +62,7 @@ Belgian Cour de cassation and Cours d'appel anonymise minor children consistentl
 ## Key developments
 
 - **1993** — Loi du 8 novembre 1993 protégeant le titre de psychologue — federal title-protection psychologue / titelbescherming psycholoog. — <https://www.compsy.be/>
-- **1995** — Code civil art. 374-374ter — autorité parentale (exercice conjoint principe) and droit aux relations personnelles (art. 374bis grand-parents). — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
+- **1995** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 374-374ter — autorité parentale (exercice conjoint principe) and droit aux relations personnelles (art. 374bis grand-parents). — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
 - **2007** — Code civil art. 387ter — inexécution des décisions relatives à l'hébergement; astreinte, désignation provisoire, droit aux relations modifiées. The substantive remedies provision subsequently engaged in Cass. 6 mars 2025. — <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>
 - **2013** — 30.7.2013 — Loi portant création d'un Tribunal de la famille et de la jeunesse (familierechtbank) — unified specialist family-court forum. — <https://www.ejustice.just.fgov.be/cgi_loi/change_lg.pl?language=fr&la=F&cn=2013073018&table_name=loi>
 - **2013** — Decreet Integrale Jeugdhulp (Vlaamse Gemeenschap) — Opgroeien-architectuur for Vlaams jeugdhulp delivery. — <https://www.opgroeien.be/>
@@ -128,6 +128,8 @@ Belgian Cour de cassation and Cours d'appel anonymise minor children consistentl
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

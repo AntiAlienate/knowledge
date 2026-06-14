@@ -100,7 +100,7 @@ Sole custody of all three daughters granted to the father (A.L.) effective 16 Ja
 ## Editorial notes
 
 - Anonymisation: party initials A.L. (father) and K.D. (mother), and children's initials D.D. / J.L. / K.D.M.D.L., are preserved exactly as the Ontario Superior Court of Justice anonymised them in the reported style L.(A.G.) v D.(K.B.); no further re-identifying information has been added beyond what is on the face of the reported judgment and the Globe and Mail / Canadian Children's Rights Council secondary sources.
-- Primary citation: 93 O.R. (3d) 409 is the official Ontario Reports citation; the [CanLII](https://www.canlii.org/) neutral identifier 2009 CanLII 943 (ON SC) is the database neutral citation. The CTDJ page (https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/) was used to retrieve verbatim McWatt J paragraph text at paras [93], [151] and [153].
+- Primary citation: 93 O.R. (3d) 409 is the official Ontario Reports citation; the [CanLII](https://www.canlii.org/) neutral identifier 2009 [CanLII](https://www.canlii.org/) 943 (ON SC) is the database neutral citation. The CTDJ page (https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/) was used to retrieve verbatim McWatt J paragraph text at paras [93], [151] and [153].
 - Verbatim holdings on the PA framework at paras [93] ('campaign... to alienate') and [151] ('tantamount to emotional abuse') are quoted exactly as they appear on the CTDJ jurisprudence transcript of the McWatt J judgment; operative order text at [153] is reproduced with ellipses where the order disposes of subsidiary procedural matters that are not material to the PA holding.
 - Inclusion rationale: although L.(A.G.) v D.(K.B.) sits outside a strict ten-year window from current decision-date, it is included in the AntiAlienate case-study set because it is the paradigm modern Canadian PA custody-reversal authority, the methodological template (long-range expert prediction → judicial vindication → decisive remedy + out-of-country reunification programme) that Re Y [2026] EWFC 38, [Cassazione](https://www.cortedicassazione.it/) 9691/2022 and [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 are now correcting in their respective jurisdictions, and the standing reference point in Bala-and-Fidler's subsequent empirical and doctrinal commentary.
 - Critical Randy Rand disclosure (added 2026-05-26): Subsequent to L.(A.G.) v D.(K.B.), Dr. Randy Rand's California psychology licence has been inactive since 2009 following California Board of Psychology disciplinary findings of 'gross negligence, unprofessional conduct, and dishonesty,' and the Family Workshop has subsequently been reframed as an 'educational workshop' operating outside the licensed-psychologist regulatory framework. That regulatory context was not in the public record at the time of McWatt J's 16 January 2009 order and would not have been before the court. The case-study does not retrospectively impugn the trial judge's reasoning; it does change how the case reads for any contemporary Canadian practitioner considering similar therapeutic-industrial remedies. See Re Y [2026] EWFC 38 (England) and the [BVerfG](https://www.bundesverfassungsgericht.de/) / OLG Frankfurt German line for the modern regulated-expert correction.
@@ -113,6 +113,8 @@ Sole custody of all three daughters granted to the father (A.L.) effective 16 Ja
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

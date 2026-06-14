@@ -72,7 +72,7 @@ Children and family parties are identified by initials only in published judgmen
 - Brazil is the OUTLIER LATAM jurisdiction: while every other Latin American apex court has consolidated against PA recognition between 2017 and 2025 (Argentina CSJN, Chile CS, Colombia CC, Mexico SCJN, Peru CS), Brazil remains the sole jurisdiction with an express statutory PA regime — Lei 12.318/2010.
 - Brazil and Spain are the world's only two statutory PA jurisdictions, and they legislate in opposite directions: Brazil recognises PA expressly (Lei 12.318/2010), Spain inadmits PA via Ley Orgánica 8/2021 (LOPIVI) — establishing the global statutory binary.
 - The IBDFAM family-law academy is recognition-aligned and supported the original 2010 enactment; the CFP-CFESS joint Nota Técnica 4/2022 is the principal institutional critique from the psy-disciplines.
-- STF ADI 6273/2019 was dismissed on standing (não conhecimento) — there is no merits ruling on the constitutionality of Lei 12.318/2010, leaving the statutory regime constitutionally untested at the apex level.
+- [STF](https://portal.stf.jus.br/) ADI 6273/2019 was dismissed on standing (não conhecimento) — there is no merits ruling on the constitutionality of Lei 12.318/2010, leaving the statutory regime constitutionally untested at the apex level.
 - STJ Terceira Turma has built a 'no-automaticity' doctrine (REsp 1.859.228/SP + REsp 2.108.750/GO) that moderates Lei 12.318/2010 by (i) requiring graduated application of art. 6º remedies, (ii) preserving the child's emotional stability in current placement, and (iii) requiring independent evidentiary treatment of cross-allegations of abuse.
 
 ## See also
@@ -117,6 +117,8 @@ Children and family parties are identified by initials only in published judgmen
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

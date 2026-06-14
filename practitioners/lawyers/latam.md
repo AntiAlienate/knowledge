@@ -152,7 +152,7 @@ Porto Alegre · Rio Grande do Sul · Themis - Gênero, Justiça e Direitos Human
 **Stance:** Named lawyer behind the first [STF](https://portal.stf.jus.br/) constitutional challenge to Lei 12.318/2010 (ADI 6273/2019, dismissed unanimously by Pleno for lack of standing 17.12.2021, Rel. Min. Rosa Weber — merits untouched). Themis institutional PA-critique series sustains the position that Lei 12.318 functions as gender-based violence against women and risk to children. Co-signatory on feminist-coalition material underpinning UN SR Reem Alsalem's 2022 and 2025 calls for revocation. The single most direct interlocutor for the critique camp at apex-court level in Brazil.
 
 **Publications:**
-- [STF](https://portal.stf.jus.br/) ADI 6273/2019 (challenged Lei 12.318/2010 constitutionality) (2021) — *STF (dismissed 17.12.2021, Rel. Min. Rosa Weber)* — <https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=478866&ori=1>
+- [STF](https://portal.stf.jus.br/) ADI 6273/2019 (challenged Lei 12.318/2010 constitutionality) (2021) — *[STF](https://portal.stf.jus.br/) (dismissed 17.12.2021, Rel. Min. Rosa Weber)* — <https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=478866&ori=1>
 - Entenda porque revogar Lei de Alienação Parental é importante para mulheres e crianças (2022) — *Themis* — <https://themis.org.br/entenda-porque-revogar-lei-de-alienacao-parental-e-importante-para-mulheres-e-criancas/>
 - Entenda como Lei de Alienação Parental pode ser considerada violência de gênero contra mulheres e representar risco às crianças (2022) — *Themis* — <https://themis.org.br/entenda-como-lei-de-alienacao-parental-pode-ser-considerada-violencia-de-genero-contra-mulheres-e-representar-risco-as-criancas/>
 
@@ -557,6 +557,8 @@ Mendoza · Mendoza · Universidad Nacional de Cuyo; IDIBE (consultor académico)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

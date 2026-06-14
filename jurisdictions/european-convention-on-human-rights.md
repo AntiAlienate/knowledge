@@ -37,7 +37,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 - **Neulinger and Shuruk v Switzerland [GC], no. 41615/07, 6 July 2010 — Hague return + Art 8 analysis. Foundational Grand Chamber engagement with cross-border parental disputes; subsequently nuanced by X v Latvia [GC] (2013).** (2010) — middle
 - **X v Latvia [GC], no. 27853/09, 26 November 2013 — Hague return + Art 8; Grand Chamber refines Neulinger framework. Domestic courts must conduct a genuine examination of best-interests factors but cannot revisit Hague return decision substantively.** (2013) — middle
 
-### European Court of Human Rights — Chamber (First / Second / Third / Fourth / Fifth Sections)
+### [European Court of Human Rights](https://www.echr.coe.int/) — Chamber (First / Second / Third / Fourth / Fifth Sections)
 <https://www.echr.coe.int/chambers-and-grand-chamber>
 - **STRASBOURG ITALIAN TRIPTYCH on Article 8 PA-adjacent obligations: Lombardo v Italy (App no 25704/11, 29 January 2013) + Strumia v Italy (App no 53377/13, 23 June 2016) + Improta v Italy (App no 66396/14, 4 May 2017). Three Article 8 Italy cases establishing the procedural-due-diligence standard subsequently engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022. Substantive obligation: Italian authorities failed to take 'adequate and effective measures' to enable parent-child contact.** (2017) — critique — [`lombardo-v-italy-echr-25704-11-2013`](../case-studies/lombardo-v-italy-echr-25704-11-2013.md)
 - **Lombardo v Italy (App no 25704/11, 29 January 2013) — First Section. Article 8 violation: Italian authorities failed to enforce contact rights of the father; insufficient procedural measures to restore parent-child relations. Foundational Strasbourg Italian PA-adjacent decision.** (2013) — critique — [`lombardo-v-italy-echr-25704-11-2013`](../case-studies/lombardo-v-italy-echr-25704-11-2013.md)
@@ -50,7 +50,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ## Professional regulators
 
-- **Council of Europe — Steering Committee on Human Rights (CDDH)** — Council of Europe intergovernmental body coordinating member state human-rights policy. No PA-specific Steering Committee position; engagement happens at Court level. — <https://www.coe.int/en/web/human-rights-intergovernmental-cooperation>
+- **[Council of Europe](https://www.coe.int/) — Steering Committee on Human Rights (CDDH)** — Council of Europe intergovernmental body coordinating member state human-rights policy. No PA-specific Steering Committee position; engagement happens at Court level. — <https://www.coe.int/en/web/human-rights-intergovernmental-cooperation>
 - **Council of Europe Commissioner for Human Rights** — Independent Commissioner promoting awareness and observance of human rights in Council of Europe member states. Has issued thematic reports on children's rights but no PA-construct-specific position. — <https://www.coe.int/en/web/commissioner>
 - **GREVIO — Group of Experts on Action against Violence against Women and Domestic Violence** — Independent expert body monitoring Istanbul Convention (CETS 210) implementation. GREVIO reports have engaged the structural risks of PA-construct deployment in DV contexts. Mid-Term Horizontal Review (2022) and country reports include critique-camp concerns parallel to UN Special Rapporteur Alsalem framing. — <https://www.coe.int/en/web/istanbul-convention/grevio>
 - **UN Special Rapporteur on Violence against Women, its Causes and Consequences — Reem Alsalem** — UN Special Rapporteur Reem Alsalem (Sudan/UK) Report A/HRC/53/36 (12 August 2022) addresses the PA construct as a tactic against DV-survivor mothers in family courts. Subsequently cited by Corte Constitucional Colombia in T-526/2023 and IEFH/IGVM Belgium Recommandation 2023/001 + multiple LATAM5 institutional anchors. Operationalised internationally as critique-anchor reference. — <https://www.ohchr.org/en/special-procedures/sr-violence-against-women>
@@ -85,7 +85,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 - INSTITUTIONAL CONVERGENCE WITH UN ALSALEM REPORT + MESECVI: The UN Special Rapporteur Alsalem Report A/HRC/53/36 (12.8.2022) + MESECVI Declaration 13.4.2023 + Strasbourg Article 8 jurisprudence + LATAM5 institutional anchors (Corte Constitucional Colombia T-526/2023; IEFH/IGVM Belgium 2023/001) converge on a multi-tier international critique-anchor structure. Strasbourg + UN + Inter-American + domestic-apex layers operate in tandem.
 - HAGUE CONVENTION INTERSECTION: [ECtHR](https://www.echr.coe.int/) engages [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return proceedings under Art 8 — leading line Neulinger and Shuruk v Switzerland [GC] (2010) + X v Latvia [GC] (2013). Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
 - EXECUTION SUPERVISION VIA COMMITTEE OF MINISTERS: Article 46 ECHR obliges member states to abide by [ECtHR](https://www.echr.coe.int/) judgments. Committee of Ministers supervises execution. Italian execution of Lombardo / Strumia / Improta supervised under this process. Execution layer operationalises Strasbourg standards at member-state level beyond the individual case.
-- NO PA-CONSTRUCT-SPECIFIC ECHR JUDGMENT: The Strasbourg court has not directly assessed the scientific validity of the PA / PAS construct as a clinical category. ECtHR jurisprudence engages PA-adjacent fact-patterns via Article 8 procedural-due-diligence standard rather than via construct-validity analysis. Distinct from [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany) approach which descalibratea PAS at the construct level.
+- NO PA-CONSTRUCT-SPECIFIC ECHR JUDGMENT: The Strasbourg court has not directly assessed the scientific validity of the PA / PAS construct as a clinical category. [ECtHR](https://www.echr.coe.int/) jurisprudence engages PA-adjacent fact-patterns via Article 8 procedural-due-diligence standard rather than via construct-validity analysis. Distinct from [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany) approach which descalibratea PAS at the construct level.
 
 ## See also
 
@@ -116,7 +116,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 - Primary-source order: echr.coe.int + [HUDOC](https://hudoc.echr.coe.int/) for case-law (Lombardo / Strumia / Improta / Neulinger / X v Latvia); Convention text cited from echr.coe.int; Council of Europe Committee of Ministers + Commissioner for institutional execution.
 - Bilingual ECHR convention (English + French) preserved; [HUDOC](https://hudoc.echr.coe.int/) publishes bilingually with national translations.
-- Strasbourg Italian triptych Lombardo+Strumia+Improta foregrounded as the leading Article 8 PA-adjacent jurisprudence — engaged in Cassazione 9691/2022 (Italy) and structurally analogous to subsequent [BVerfG](https://www.bundesverfassungsgericht.de/) and SCJN apex engagement.
+- Strasbourg Italian triptych Lombardo+Strumia+Improta foregrounded as the leading Article 8 PA-adjacent jurisprudence — engaged in [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and structurally analogous to subsequent [BVerfG](https://www.bundesverfassungsgericht.de/) and SCJN apex engagement.
 - Multi-tier international critique-anchor structure (Strasbourg Art 8 + UN Alsalem 2022 + MESECVI 2023 + LATAM5 domestic-apex Colombia/Belgium) recognised in structural_findings[4] as convergent international PA-construct framing.
 - Hague Convention intersection (Neulinger + X v Latvia GC) preserved in structural_findings[5] — Hague return proceedings under Art 8 scrutiny.
 - ECHR jurisdiction treated as supranational entity (legal_system: supranational) covering 46 Council of Europe member states; supplementary to domestic-apex jurisdictions under Art 35(1).
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

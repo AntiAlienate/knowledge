@@ -39,7 +39,7 @@ The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *
 
 Document specific incidents tagged to specific strategy numbers. Example log entry:
 
-> 2026-04-15, 18:42 — Child reported mother said "your father is dangerous" (Baker Strategy #8 — telling the child the targeted parent is dangerous). Witness: maternal grandmother present. Evidence: child's spontaneous statement at exchange.
+> 2026-04-15, 18:42 — Child reported mother said "your father is dangerous" ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Strategy #8 — telling the child the targeted parent is dangerous). Witness: maternal grandmother present. Evidence: child's spontaneous statement at exchange.
 
 Researcher-named strategies beat parent-coined descriptions every time in court filings.
 
@@ -70,6 +70,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

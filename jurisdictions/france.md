@@ -46,7 +46,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
 <https://www.conseil-constitutionnel.fr/>
 - **Aucune décision QPC ou DC directement consacrée au SAP / à l'aliénation parentale à la date de génération; le [Conseil constitutionnel](https://www.conseil-constitutionnel.fr/) n'a pas pris position sur le construit.** (2026) — middle
 
-### Cour de cassation — Chambre criminelle
+### [Cour de cassation](https://www.courdecassation.fr/) — Chambre criminelle
 <https://www.courdecassation.fr/>
 - **Contentieux de la non-représentation d'enfant (art. 227-7 CP) — la chambre criminelle traite les enlèvements parentaux sans mobiliser le SAP comme catégorie d'analyse; la question de l'aliénation parentale demeure cantonnée à la 1re Civ et à l'appréciation des juges du fond.** (2026) — middle
 
@@ -69,7 +69,7 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 
 ## Key developments
 
-- **2002** — Loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale — refonte du Code civil (arts. 371-1 et s.), pose la coparentalité comme principe et le JAF comme juge naturel. — <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000776352>
+- **2002** — Loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale — refonte du [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) (arts. 371-1 et s.), pose la coparentalité comme principe et le JAF comme juge naturel. — <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000776352>
 - **2007** — Loi n° 2007-293 du 5 mars 2007 réformant la protection de l'enfance — institue notamment le CRIP départemental et structure le signalement / l'information préoccupante. — <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000823100>
 - **2013** — 26 juin 2013 — Cass. 1re Civ. n° 12-14.392 : rejet du pourvoi, la 1re Civ shielde l'appréciation souveraine de la cour d'appel de Rennes sans consacrer le SAP. Décision-pivot : ni recognition ni critique apex (middle). — <https://www.courdecassation.fr/decision/5fca5949f2e58f009e7af00c>
 - **2018** — Rapport d'activité MIVILUDES — signaux de vigilance sur le SAP comme construit potentiellement instrumentalisable; PAS un ban (nuance préservée). — <https://www.miviludes.interieur.gouv.fr/>
@@ -142,6 +142,8 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

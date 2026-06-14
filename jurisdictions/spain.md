@@ -72,7 +72,7 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 - Spain and Brazil are the world's only two statutory PA jurisdictions and they point in opposite directions: Spain (LOPIVI 2021 Disp. ad. 17ª) inadmits SAP, Brazil (Lei 12.318/2010) recognises alienação parental.
 - LOPIVI Disp. ad. 17ª targets only the SAP label by exact name plus 'denominaciones análogas que no hayan sido reconocidas por las comunidades científica y sanitaria'; this creates a terminological-arbitrage gap that PIVIP (interferencias parentales / manipulación de la voluntad del menor) occupies.
 - There is no unified national COP position on PA/SAP. The Consejo General defers to per-CCAA Colegios Oficiales, producing recognition-tolerant Madrid and Catalunya forensic-family practice alongside critique-leaning Andalucía practice. This per-CCAA variation is the opposite of the unified national regulator pattern seen in Germany (BDP) and the United Kingdom (ACP / [BPS](https://www.bps.org.uk/)).
-- STS 519/2017 diverges from LOPIVI in substance: the Tribunal Supremo adopted a methodological-middle stance that treats manipulación/influencia negativa as decisive without naming SAP, but LOPIVI subsequently moved past STS 519/2017 without ratifying that reasoning. The legislator did not adopt the TS framing.
+- STS 519/2017 diverges from LOPIVI in substance: the [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) adopted a methodological-middle stance that treats manipulación/influencia negativa as decisive without naming SAP, but LOPIVI subsequently moved past STS 519/2017 without ratifying that reasoning. The legislator did not adopt the TS framing.
 - Sonia Vaccaro, Argentine-Spanish and Madrid-based, coined 'violencia vicaria'; the term now appears in BOE-level documents and is part of the Spanish critique vocabulary around PA.
 - EPF (Equipos Psicosociales) and IMLCF civil-servant peritos are NOT named as practitioners in this dataset for ethical reasons — this is a structural finding by pattern across the Spanish forensic-family system.
 - Miguel Lorente Acosta is médico-forense (forensic physician), not psicólogo; he served as Delegado del Gobierno para la Violencia de Género (2008-2011). His critique of SAP is medical-forensic, not psychological, which matters for taxonomising the Spanish critique line.
@@ -123,6 +123,8 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

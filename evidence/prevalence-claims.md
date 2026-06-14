@@ -88,7 +88,7 @@ A **point estimate produced by multiplying three uncertain proportions**. It is 
 
 From [Harman et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/) §1 (verbatim of their own 2016 summary): "Results indicated that **13.4% of parents reported being the targets of PABs which, based on the U.S. population at the time of the survey, generalizes to an estimated 22,141,650 adults in the U.S.** Notably, about half of the sample rated their experience as 'severe' (Harman, Leder-Elder, & Biringen, 2016)." Also reported in the 2019 paper §4: "13.4% of parents (or **9.03% of the entire sample**) had been alienated from one or more of their children ([Harman et al.](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2016)."
 
-### 2.4 The authors' own caveats (verbatim, Harman et al. 2019 §1)
+### 2.4 The authors' own caveats (verbatim, [Harman et al. 2019](https://pubmed.ncbi.nlm.nih.gov/30080055/) §1)
 
 > "Whether a parent feels they are being alienated from a child can be very different than if they actually are. Parents who engage in PABs sometimes believe they are the targets of PA themselves, and some parents who are the targets of PABs do not label their experience as such. ... Second, the poll was limited to North Carolina residents."
 
@@ -191,7 +191,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 **Sample.** 470 Italian adults from separated/divorced families. Not a general-population sample. **Establishes correlation between PA exposure and adult distress (r = 0.239, p < 0.01)**; not a prevalence figure.
 
-### 5.3 Verrocchio, Baker & Bernet (2016)
+### 5.3 Verrocchio, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Bernet (2016)
 
 **Citation.** Verrocchio, M. C., Baker, A. J. L., & Bernet, W. (2016). Associations between exposure to alienating behaviors, anxiety, and depression in an Italian sample of adults. *Journal of Forensic Sciences*, 61(3), 692–698. https://doi.org/10.1111/1556-4029.13046 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 27122408.
 
@@ -289,7 +289,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 ### 10.3 The published exchange
 
 - [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Rosen, L., Dickson, S., O'Sullivan, C., & Hayes, J. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study (2020). *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4), 213–248. https://doi.org/10.1080/26904586.2022.2036286
-- Meier, J. S., et al. (2022). Harman and Lorandos' false critique of Meier et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2), 92–135. https://doi.org/10.1080/26904586.2022.2086659
+- [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., et al. (2022). Harman and Lorandos' false critique of Meier et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2), 92–135. https://doi.org/10.1080/26904586.2022.2086659
 
 Meier et al.'s verbatim characterisation: Harman and Lorandos' work is "agenda-driven, filled with error, and does more to obfuscate the issues than to shed light on courts' practices."
 
@@ -320,7 +320,7 @@ UN General Assembly. (2023). *Custody, violence against women and violence again
 
 ### 11.4 What the report does *not* engage with
 
-The Alsalem report does **not** engage in detail with the Harman 2016 / 2019 prevalence figures, the Verrocchio outcomes literature, or the Saini middle-position critique. Its critique of PA is **conceptual / forensic-misuse** rather than a methodological dissection of the prevalence numbers. The PA-recognition camp has used this as grounds to argue the report is one-sided; the camp critical of PA argues it is a faithful summary of the conceptual problems.
+The Alsalem report does **not** engage in detail with the Harman 2016 / 2019 prevalence figures, the Verrocchio outcomes literature, or the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) middle-position critique. Its critique of PA is **conceptual / forensic-misuse** rather than a methodological dissection of the prevalence numbers. The PA-recognition camp has used this as grounds to argue the report is one-sided; the camp critical of PA argues it is a faithful summary of the conceptual problems.
 
 ### 11.5 The institutional landscape
 
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

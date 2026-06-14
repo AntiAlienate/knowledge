@@ -58,7 +58,7 @@
 - **Registration number:** **not publicly displayed**
 - **Specialty:** PA / Eltern-Kind-Entfremdung; international child-abduction mediation; expert testimony in German and Cross-border family proceedings; consensus model for early intervention
 - **Stance:** recognition
-- **Stance source:** Kodjoe & Koeppel — credited with initiating the German PAS-debate in the late 1990s (German PAS-Arbeitsgemeinschaft; see Boch-Galhau / Kodjoe / Andritzky / Koeppel update https://oudervervreemding.wordpress.com/2011/11/01/27/) ; PASG Stockholm 2018 presentation "Consensus Model in Germany with interdisciplinary cooperation: early intervention as best prevention" — referenced via PASG event archive https://www.pasg.info/ ; Jugendamtwatch (2014) translated interview http://jugendamtwatch.blogspot.com/2014/04/pas-ursula-kodjoe-dipl-psychologin-zu.html ; Vaeternotruf entry https://www.vaeternotruf.de/ursula-kodjoe.htm ; recent NZZ profile *Eltern-Kind-Entfremdung: Wie ein Vater um seine Tochter kämpft* https://www.nzz.ch/gesellschaft/eltern-kind-entfremdung-wie-ein-vater-um-seine-tochter-kaempft-ld.1776632
+- **Stance source:** Kodjoe & Koeppel — credited with initiating the German PAS-debate in the late 1990s (German PAS-Arbeitsgemeinschaft; see Boch-Galhau / Kodjoe / Andritzky / Koeppel update https://oudervervreemding.wordpress.com/2011/11/01/27/) ; [PASG](https://pasg.info/) Stockholm 2018 presentation "Consensus Model in Germany with interdisciplinary cooperation: early intervention as best prevention" — referenced via PASG event archive https://www.pasg.info/ ; Jugendamtwatch (2014) translated interview http://jugendamtwatch.blogspot.com/2014/04/pas-ursula-kodjoe-dipl-psychologin-zu.html ; Vaeternotruf entry https://www.vaeternotruf.de/ursula-kodjoe.htm ; recent NZZ profile *Eltern-Kind-Entfremdung: Wie ein Vater um seine Tochter kämpft* https://www.nzz.ch/gesellschaft/eltern-kind-entfremdung-wie-ein-vater-um-seine-tochter-kaempft-ld.1776632
 - **Programs / publications:**
   - Co-author of the 2011 *PA / PAS Update* with Boch-Galhau, Andritzky and Koeppel
   - Co-author of the 2006 chapter (with Boch-Galhau) in *International Handbook of PAS* (Charles C Thomas)
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

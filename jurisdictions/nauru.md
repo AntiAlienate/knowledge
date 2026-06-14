@@ -51,7 +51,7 @@ Nauruan family-court decisions are anonymised per Supreme Court practice using i
 
 - Nauru operates a mixed common-law/customary-law framework with republican constitutional structure — places Nauru in the Pacific independent-republic cluster.
 - World's smallest UN member state by land area (~21 km²) is structurally distinctive globally — third-smallest sovereign state overall after Vatican City and Monaco.
-- High Court of Australia as apex appellate court 1976-2018 was structurally distinctive globally — only sovereign-state appellate-jurisdiction arrangement with another sovereign state's apex court via bilateral statute.
+- [High Court of Australia](https://www.hcourt.gov.au/) as apex appellate court 1976-2018 was structurally distinctive globally — only sovereign-state appellate-jurisdiction arrangement with another sovereign state's apex court via bilateral statute.
 - Australian Pacific Solution Regional Processing Centre is structurally distinctive globally — only sovereign-state offshore asylum-processing arrangement with extensive international human-rights litigation footprint.
 - Non-Hague-Convention-1980 status is structurally distinctive — one of few UN-member states not party to Hague Abduction Convention.
 - Phosphate-mining-driven economy and post-mining environmental devastation are structurally distinctive — only sovereign state where ~80% of land area is rendered uninhabitable by historical phosphate strip-mining.
@@ -83,6 +83,8 @@ Nauruan family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

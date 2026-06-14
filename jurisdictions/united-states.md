@@ -84,7 +84,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 ## Structural findings
 
 - NO FEDERAL FAMILY-COURT JURISDICTION: PA is litigated almost entirely at the state level under state Family Codes with substantial substantive and procedural variation. The federal exceptions are ICWA (Indian children) and Hague Convention implementing statutes (international parental abduction). Federalist fragmentation is the defining US structural feature distinguishing the US from every other v2 jurisdiction.
-- STATE-BY-STATE REGULATOR FRAGMENTATION: 50 + DC separate state psychology boards. ASPPB provides EPPP coordination but is not itself a regulator. Federal CPA-analogue does not exist. No single national-level credentialing test for PA evaluators; AFCC Model Standards function as the de facto national practice standard absent a federal regulator.
+- STATE-BY-STATE REGULATOR FRAGMENTATION: 50 + DC separate state psychology boards. ASPPB provides EPPP coordination but is not itself a regulator. Federal CPA-analogue does not exist. No single national-level credentialing test for PA evaluators; [AFCC](https://www.afccnet.org/) Model Standards function as the de facto national practice standard absent a federal regulator.
 - [DSM-5-TR](https://www.appi.org/products/dsm) CAPRD V995.51 / Z62.898 (Child Affected by Parental Relationship Distress) is the load-bearing US institutional reference — relational V/Z-code (not a diagnosis of the child as 'alienated'). Bernet, Wamboldt & Narrow (2016) JAACAP framework paper is the most-cited US institutional reference in the PA debate. International parallel is [ICD-11](https://icd.who.int/) QE52.0 caregiver-child relationship problem and contested QE52.01 psychological-abuse framing.
 - APA INSTITUTIONAL POSTURE: APA Resolution on Male Violence (1996, reaffirmed) + APA 2019 Resolution on Maltreatment of Children + APA 2022 Guidelines together produce a posture that recognises relational distress and child maltreatment frameworks but has NOT endorsed PA as a stand-alone diagnostic entity. [AACAP](https://www.aacap.org/) Practice Parameter 2011 similarly engages alienation behaviours within differential-diagnosis frame without endorsing PAS-as-syndrome.
 - INSTITUTIONAL ANCHORS: AFCC (Model Standards 2006/2022 + IPV Guidelines 2016) is the de facto national practice-standard body. [AAML](https://www.aaml.org/) voluntary academy. State-level Friend of the Court / Family Court Services analogues — Michigan FOC is the principal US institutional vehicle most directly analogous to Ontario OCL / England [Cafcass](https://www.cafcass.gov.uk/).
@@ -121,7 +121,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 
 ## Editorial notes
 
-- Primary-source order: state Family Codes via [Cornell LII](https://www.law.cornell.edu/) / state legislatures cited first; SCOTUS + state appellate courts for case-law; APA + AACAP + AFCC for institutional positions; CA DCA license search for regulatory disclosure verification (Randy Rand EdD canonical example).
+- Primary-source order: state Family Codes via [Cornell LII](https://www.law.cornell.edu/) / state legislatures cited first; SCOTUS + state appellate courts for case-law; APA + [AACAP](https://www.aacap.org/) + AFCC for institutional positions; CA DCA license search for regulatory disclosure verification (Randy Rand EdD canonical example).
 - US is treated as a federal jurisdiction; six high-volume PA-litigation states are statutorily foregrounded (California / Texas / New York / Florida / Massachusetts / Michigan / Colorado); smaller states referenced where institutionally relevant.
 - [DSM-5-TR](https://www.appi.org/products/dsm) CAPRD V995.51 / Z62.898 is foregrounded as the load-bearing US institutional reference; [Bernet et al.](https://pasg.info/) 2016 JAACAP framework paper noted as most-cited US PA-debate reference.
 - Adult-party naming in published US family-court decisions is the norm and is recognised in anonymisation_convention; this distinguishes US case-law from UK / AU / SA reporting conventions and produces a distinctively rich named-evaluator base for PA litigation.
@@ -131,6 +131,8 @@ US state-court family-law decisions vary significantly: California / New York ro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

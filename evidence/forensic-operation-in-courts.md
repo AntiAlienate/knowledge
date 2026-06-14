@@ -57,7 +57,7 @@
 
 **Symmetry in non-abuse cases (verbatim).** "Virtual parity is apparent in the non-abuse alienation cases, where win rates are 58% (fathers) and 56% (mothers). In contrast, when abuse and alienation are cross-alleged, this parity disappears (fathers win 66%; mothers 52%)."
 
-**Calibration against independent CSA base-rates.** Meier notes (verbatim): "Outside research undertaken by impartial researchers indicates that child sexual abuse claims in custody litigation are considered valid – even by conservative evaluators – 50–72% of the time (Thoennes and Tjaden 1990, Faller 1998, Trocmé and Bala 2005). Intentionally false allegations are even rarer." Against that 50–72% baseline, Meier's 2% court-crediting (1/51) when fathers cross-claim alienation is a fall-off of roughly an order of magnitude.
+**Calibration against independent CSA base-rates.** [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) notes (verbatim): "Outside research undertaken by impartial researchers indicates that child sexual abuse claims in custody litigation are considered valid – even by conservative evaluators – 50–72% of the time (Thoennes and Tjaden 1990, Faller 1998, Trocmé and Bala 2005). Intentionally false allegations are even rarer." Against that 50–72% baseline, Meier's 2% court-crediting (1/51) when fathers cross-claim alienation is a fall-off of roughly an order of magnitude.
 
 **Limitations the authors themselves declare (verbatim).** "The core limitation of the Study stems from its data source: since most trial courts do not publish their opinions (online or otherwise), the majority of the opinions analyzed were appellate decisions. This means that the dataset over-represents cases that are appealed and under-represents non-appealed cases. … We found that mothers losing custody were over-represented in the appeals; there were lower custody loss rates among the non-appealed cases."
 
@@ -151,7 +151,7 @@
 
 **Evaluator-recommended custody for known abusers (verbatim, from Davis et al. 2011 / Morrill et al. 2005, cited by [Saunders](https://www.ovw.usdoj.gov/)).** "A small to substantial minority (between 10 and 39%) of abusers receive primary physical or joint custody."
 
-### 4.2 Saunders, Faller & Tolman (2011) and Bow & Quinnell (2001) — training-gap evidence
+### 4.2 [Saunders](https://www.ovw.usdoj.gov/), Faller & Tolman (2011) and Bow & Quinnell (2001) — training-gap evidence
 
 **Saunders et al. 2011.** NIJ Award 2007-WG-BX-0013. https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf — The foundational 465-evaluator survey. Core finding (cited via Saunders 2015): evaluators with more extensive IPV training were significantly more likely to recommend protective custody for survivor-mothers and to recognise coercive-controlling abuse; evaluators endorsing "patriarchal beliefs" were more likely to recommend unsafe custody arrangements. **[secondary verification only]** for exact percentages.
 
@@ -244,7 +244,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 Coverage corroboration: https://www.jurist.org/news/2025/09/un-special-rapporteur-calls-for-repeal-of-harmful-brazilian-parental-alienation-law/ and https://www.miragenews.com/special-rapporteur-urges-brazil-to-repeal-1526314/
 
-**Honest caveat.** The OHCHR press release itself was inaccessible at direct WebFetch at compilation (403); the quoted text is from Jurist's and Mirage's reproduction of the OHCHR statement and a Geneva UN account on X. **[Secondary verification only]** for any wording not in the Jurist/Mirage/X coverage. The bill currently under consideration in the Brazilian National Congress is the proposal to repeal Lei nº 12.318/2010 and remove the concept of "parental alienation" from Brazilian federal law including Law 13.431/2017.
+**Honest caveat.** The [OHCHR](https://www.ohchr.org/) press release itself was inaccessible at direct WebFetch at compilation (403); the quoted text is from Jurist's and Mirage's reproduction of the OHCHR statement and a Geneva UN account on X. **[Secondary verification only]** for any wording not in the Jurist/Mirage/X coverage. The bill currently under consideration in the Brazilian National Congress is the proposal to repeal Lei nº 12.318/2010 and remove the concept of "parental alienation" from Brazilian federal law including Law 13.431/2017.
 
 ---
 
@@ -317,7 +317,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 - **Meier et al. 2022 rebuttals.** *J Family Trauma, Child Custody & Child Development* 19(2) and 19(3-4).
 - **[Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204).** *J Child Custody* 16(2):140–169. doi:10.1080/15379418.2019.1613204. DOJ OVW Award #2011-TA-AX-K006.
 - **Saunders 2015.** *J Child Custody* 12(1):71–92. doi:10.1080/15379418.2015.1037052. // Saunders/Faller/Tolman 2011 NIJ Award 2007-WG-BX-0013.
-- **Saini/Johnston/Fidler/Bala 2016.** In *Parenting Plan Evaluations* (2nd ed.). OUP. doi:10.1093/med:psych/9780199396580.003.0013.
+- **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016.** In *Parenting Plan Evaluations* (2nd ed.). OUP. doi:10.1093/med:psych/9780199396580.003.0013.
 - **Alsalem 2023.** A/HRC/53/36.
 - **OHCHR Brazil press release** 2025-09-03.
 - **GREVIO 3rd General Report 2022.** [Council of Europe](https://www.coe.int/).
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

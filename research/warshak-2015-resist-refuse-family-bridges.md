@@ -47,7 +47,7 @@ Components:
 - Maintained gains at follow-up in most cases
 - Some cases regressed when post-intervention support was inadequate
 
-Subsequent peer-reviewed evaluations (Warshak 2015, 2018, 2020) confirmed:
+Subsequent peer-reviewed evaluations ([Warshak](https://warshak.com/family-bridges/) 2015, 2018, 2020) confirmed:
 - [Family Bridges](https://warshak.com/family-bridges/) achieves reunification where prior interventions failed
 - Outcomes correlate with quality of post-workshop support
 - The 4-day intensive + transfer model is more effective than incremental approaches in severe cases
@@ -77,7 +77,7 @@ The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 - [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) practice guidelines
 - Reunification therapist training programs
 
-Family Bridges is one of approximately 5-7 named reunification interventions with published outcome data (others: Multi-Modal Family Intervention, Overcoming Barriers, Reunification Therapy by Friedlander-Walters).
+[Family Bridges](https://warshak.com/family-bridges/) is one of approximately 5-7 named reunification interventions with published outcome data (others: Multi-Modal Family Intervention, Overcoming Barriers, Reunification Therapy by Friedlander-Walters).
 
 ## Comparative Placement
 
@@ -113,6 +113,8 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

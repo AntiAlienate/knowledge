@@ -48,7 +48,7 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 ## Key developments
 
 - **1827** — Cherokee Nation Constitution of 26 July 1827 — first Indian tribal written constitution modelled on US Constitution. Among 'Five Civilized Tribes' constitutional reforms.
-- **1831** — Foundational US Supreme Court decision of 18 March 1831 establishing Indian tribes as 'domestic dependent nations' under federal-trust framework.
+- **1831** — Foundational [US Supreme Court](https://www.supremecourt.gov/) decision of 18 March 1831 establishing Indian tribes as 'domestic dependent nations' under federal-trust framework.
 - **1832** — Foundational US Supreme Court decision of 3 March 1832 establishing Cherokee Nation sovereignty over internal affairs free from state interference.
 - **1838** — Trail of Tears 1838-1839 — forced relocation of ~16,000 Cherokee from southeastern US to Indian Territory (Oklahoma), with ~4,000 deaths.
 - **1976** — Cherokee Nation Constitution of 1976 establishing modern Cherokee Nation governance framework — substantially reformed 1999.
@@ -89,6 +89,8 @@ Cherokee Nation family-court decisions are anonymised per Cherokee Nation Suprem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

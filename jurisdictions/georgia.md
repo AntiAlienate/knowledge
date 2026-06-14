@@ -67,7 +67,7 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 
 ## Editorial notes
 
-- Georgia jurisdiction sidecar — civil-law post-Soviet South Caucasus with Council of Europe + ECHR membership. Civil Code 1997 Book V + 2017 amendments + Code on Rights of the Child 2019 + Family Mediation Law 2019 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1997.
+- Georgia jurisdiction sidecar — civil-law post-Soviet South Caucasus with [Council of Europe](https://www.coe.int/) + ECHR membership. Civil Code 1997 Book V + 2017 amendments + Code on Rights of the Child 2019 + Family Mediation Law 2019 + [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1997.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins South Caucasus + civil-law + post-Soviet + ECHR + Hague Convention clusters within the corpus.
 
@@ -75,6 +75,8 @@ Georgian family-court decisions are anonymised per Supreme Court practice using 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

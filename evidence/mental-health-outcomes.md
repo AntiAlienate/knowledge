@@ -137,7 +137,7 @@ See §1.1 above for citation. The PMC full text reports:
 
 ### 2.2 Controlled comparisons of suicidality (PA-exposed vs. non-exposed)
 
-**Status.** **Not publicly confirmed.** No peer-reviewed controlled study was identified that directly compared suicidality *rates* in PA-affected versus matched non-PA comparison groups using validated suicide-risk instruments. The Ben-Ami & Baker (2012) study (§5.1) measured depression and well-being with comparison groups but, on available abstract evidence, did not separately report suicide-attempt or completed-suicide outcomes — see citation in §5.
+**Status.** **Not publicly confirmed.** No peer-reviewed controlled study was identified that directly compared suicidality *rates* in PA-affected versus matched non-PA comparison groups using validated suicide-risk instruments. The Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2012) study (§5.1) measured depression and well-being with comparison groups but, on available abstract evidence, did not separately report suicide-attempt or completed-suicide outcomes — see citation in §5.
 
 ### 2.3 Longitudinal suicide-risk data
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

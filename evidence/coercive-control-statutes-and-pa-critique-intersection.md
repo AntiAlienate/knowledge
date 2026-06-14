@@ -54,7 +54,7 @@ The coercive-control statutory reform wave (E&W 2015 + Scotland 2018 + NI 2021 +
 Where PA-construct deployment is contested in family-court contexts, coercive-control framing operates as the principal alternative explanatory lens. Belgium IEFH/IGVM Recommandation 2023/001 makes this explicit: 'le syndrome d'aliénation parentale ne peut être utilisé pour minimiser la violence entre (ex-)partenaires.' Chile Ley 21.675/2024 violencia vicaria operates as direct conceptual substitution.
 
 ### 3. Anglophone CC criminalisation distinct from continental civil-law approaches
-Anglophone jurisdictions (UK constituent jurisdictions + Australia) have predominantly pursued coercive-control via criminal-statutory reform. Continental civil-law jurisdictions (France + Belgium + Spain + Italy) have predominantly pursued via institutional-regulatory + academic-conceptual routes (contrôle coercitif Gruev-Vintila + IEFH/IGVM Recommandation + violencia vicaria Vaccaro coinage + Cassazione 9691/2022).
+Anglophone jurisdictions (UK constituent jurisdictions + Australia) have predominantly pursued coercive-control via criminal-statutory reform. Continental civil-law jurisdictions (France + Belgium + Spain + Italy) have predominantly pursued via institutional-regulatory + academic-conceptual routes (contrôle coercitif Gruev-Vintila + IEFH/IGVM Recommandation + violencia vicaria Vaccaro coinage + [Cassazione](https://www.cortedicassazione.it/) 9691/2022).
 
 ### 4. Scotland 2018 + NI 2021 strongest UK statutory models
 Within UK constituent jurisdictions, Scotland's Domestic Abuse Act 2018 + NI's Domestic Abuse and Civil Proceedings Act 2021 operate stronger coercive-control statutory frameworks than E&W's Serious Crime Act 2015 s.76. Both Scottish + NI statutes treat psychological + economic + emotional abuse as substantive offence rather than narrower 'controlling behaviour' framing.
@@ -97,6 +97,8 @@ National coercive-control statutory reforms converge with multi-tier internation
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md*
+
+
 
 
 

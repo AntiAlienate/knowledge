@@ -57,7 +57,7 @@ Across 8 jurisdictions surveyed, evaluator-quality concerns surface independentl
 ### 3. FLA s.121 anonymisation precludes named-evaluator route in Australia
 **Australian operational distinction**: FLA s.121 anonymisation regime prevents named-evaluator case-law equivalent to Re Y. Schedule 2 reform (2023 Amendment Act, in force 6.5.2024) is the structural alternative — addressing evaluator-quality through statutory CCR regime rather than appellate-named-evaluator decisions.
 
-### 4. Re Y's UK-wide reach via HCPC statutory framework
+### 4. Re Y's UK-wide reach via [HCPC](https://www.hcpc-uk.org/) statutory framework
 **Cross-constituent UK reach**: Re Y formally an E&W decision but HCPC-registration requirement applies UK-wide via Health and Social Care Act 2008 HCPC statutory framework (Scotland + Northern Ireland + Wales constituent jurisdictions). Distinguishes Re Y from purely-jurisdictional apex decisions.
 
 ### 5. Statutory PA inadmission (Spain LOPIVI) does NOT address evaluator-quality directly
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

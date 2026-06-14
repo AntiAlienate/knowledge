@@ -32,7 +32,7 @@ England & Wales has the most-developed parental alienation case-law arc in any c
 - **Adoption and Children Act 2002** — Statutory definition of harm (s.31(9) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) amendment) — impairment 'including from seeing or hearing the ill-treatment of another' (2002) — <https://www.legislation.gov.uk/ukpga/2002/38/contents>
   - Amends s.31(9) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) to recognise that significant harm includes impairment suffered from witnessing the ill-treatment of another — the statutory hook for the harm analysis under PD12J post-2017 revision and reasserted in Re H-N 2021.
 - **[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6)** — Presumption of parental involvement (s.11) — Parental Responsibility (PRA) regime (2014) — <https://www.legislation.gov.uk/ukpga/2014/6/contents>
-  - Inserts s.1(2A) Children Act 1989 — rebuttable presumption that involvement of each parent in the child's life furthers welfare unless contrary evidence. Renames residence/contact as child arrangements orders. The PRA presumption is the statutory anchor most often invoked by the 'recognition pole' in PA-adjacent argument.
+  - Inserts s.1(2A) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — rebuttable presumption that involvement of each parent in the child's life furthers welfare unless contrary evidence. Renames residence/contact as child arrangements orders. The PRA presumption is the statutory anchor most often invoked by the 'recognition pole' in PA-adjacent argument.
 - **[Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17)** — Statutory definition of domestic abuse (s.1); s.67 amendments to s.91(14) Children Act 1989 (2021) — <https://www.legislation.gov.uk/ukpga/2021/17/contents>
   - Statutorily defines domestic abuse to include coercive or controlling behaviour and recognises children as victims in their own right where they see, hear or experience the effects of such abuse. Materially reinforces the Re H-N para 31 pattern-of-coercive-control doctrinal anchor under PD12J.
 - **Equality Act 2010** — Protected characteristics and reasonable-adjustment duties in court proceedings (2010) — <https://www.legislation.gov.uk/ukpga/2010/15/contents>
@@ -62,7 +62,7 @@ England & Wales has the most-developed parental alienation case-law arc in any c
 - **[Cafcass](https://www.cafcass.gov.uk/) — Children and Family Court Advisory and Support Service (England)** — Statutory advisory body to the family court in England, providing guardians and family-court advisers. [Cafcass](https://www.cafcass.gov.uk/) guidance frames 'alienating behaviours' within the PD12J pattern-of-coercive-control rubric per Re H-N para 31 — explicitly resisting a syndromal framing while recognising that one parent's behaviour can in some cases damage the child's relationship with the other parent. (2024-12-01) — <https://www.cafcass.gov.uk/>
 - **[Cafcass Cymru](https://www.cafcass.gov.uk/) — Welsh statutory family-court advisory service** — Welsh devolved equivalent of [Cafcass](https://www.cafcass.gov.uk/). Operates the same PD12J / Re H-N pattern-of-coercive-control framework, with bilingual (English / Welsh / Cymraeg) operational guidance. — <https://www.gov.wales/cafcass-cymru>
 - **FJC — Family Justice Council** — Judiciary-sponsored multi-disciplinary advisory body. Issued finalised guidance in December 2024 on the use of expert evidence in cases involving allegations of alienating behaviours — operationalises the Re C 2023 [HCPC](https://www.hcpc-uk.org/)-registration kitemark across the family courts and codifies a domestic-abuse-aware methodological standard consistent with PD12J and Re H-N para 31. (2024-12-01) — <https://www.judiciary.uk/courts-and-tribunals/judiciary-organisation/judicial-committees/family-justice-council/>
-- **GMC — General Medical Council (for psychiatrists practising in family-court contexts)** — Statutory regulator for medical practitioners including psychiatrists. The GMC's Good Medical Practice and expert-witness guidance apply to psychiatrists instructed as PD25B experts in family proceedings, complementing the HCPC kitemark for practitioner psychologists post-Re C 2023. — <https://www.gmc-uk.org/>
+- **GMC — General Medical Council (for psychiatrists practising in family-court contexts)** — Statutory regulator for medical practitioners including psychiatrists. The GMC's Good Medical Practice and expert-witness guidance apply to psychiatrists instructed as PD25B experts in family proceedings, complementing the [HCPC](https://www.hcpc-uk.org/) kitemark for practitioner psychologists post-Re C 2023. — <https://www.gmc-uk.org/>
 
 ## Anonymisation convention
 
@@ -91,7 +91,7 @@ Section 97 Children Act 1989 prohibits publication of material likely to identif
 - The recognition pole in England & Wales is led by the Karen Woodall / Nick Woodall axis at the Family Separation Clinic, which has historically operated outside the HCPC-registered psychology framework. The Melanie Gill set-aside in Re Y 2026 functions as the test case for the Re C 2023 / FJC December 2024 kitemark against unregistered PA-evaluator practice.
 - The barrister bar in PA-adjacent family work is concentrated in a small number of chambers: 4PB (Sam King KC), 1KBW, 1GC Family Law, 14 Gray's Inn Square, Becket Chambers and Trinity Chambers. The McKenzie-friend and litigant-in-person space is significant given the post-LASPO 2012 legal-aid contraction.
 - Charlotte Proudman (Goldsmith Chambers) is the most-prominent critique-pole barrister-advocate in English PA-adjacent practice, with a public-facing profile concentrated on domestic-abuse-aware advocacy and on the PD12J / Re H-N para 31 doctrinal frame.
-- Welsh-language proceedings are theoretically available under the Welsh Language Act 1993 and the Welsh Language (Wales) Measure 2011 with Cafcass Cymru operating bilingually; in practice the case-law arc is reported in English. Scotland and Northern Ireland operate distinct family-law systems and are treated as separate jurisdictions in the knowledge base.
+- Welsh-language proceedings are theoretically available under the Welsh Language Act 1993 and the Welsh Language (Wales) Measure 2011 with [Cafcass Cymru](https://www.cafcass.gov.uk/) operating bilingually; in practice the case-law arc is reported in English. Scotland and Northern Ireland operate distinct family-law systems and are treated as separate jurisdictions in the knowledge base.
 
 ## See also
 
@@ -147,6 +147,8 @@ Section 97 Children Act 1989 prohibits publication of material likely to identif
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -45,7 +45,7 @@
 
 When opposing counsel attacks PA as "discredited theory," respond with the recognition stack. Sample language:
 
-> *Counsel's characterization of parental alienation as "discredited theory" is 8+ years out of date. The framework is currently codified in [DSM-5](https://www.appi.org/products/dsm) (V995.51), WHO ICD-11 (QE52, in force since 2022), and was meta-analyzed as a form of family violence in the American Psychological Association's flagship review journal Psychological Bulletin ([Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2018, 144(12), 1275–1299). The UK Court of Appeal recognized it in Re S (2020) EWCA Civ 568.*
+> *Counsel's characterization of parental alienation as "discredited theory" is 8+ years out of date. The framework is currently codified in [DSM-5](https://www.appi.org/products/dsm) (V995.51), WHO [ICD-11](https://icd.who.int/) (QE52, in force since 2022), and was meta-analyzed as a form of family violence in the American Psychological Association's flagship review journal Psychological Bulletin ([Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2018, 144(12), 1275–1299). The UK Court of Appeal recognized it in Re S (2020) EWCA Civ 568.*
 
 ## Source-blog hyperlinks
 
@@ -61,7 +61,7 @@ When opposing counsel attacks PA as "discredited theory," respond with the recog
 
 ## Citations
 
-- DSM-5 (American Psychiatric Association, 2013, with subsequent text revisions)
+- [DSM-5](https://www.appi.org/products/dsm) (American Psychiatric Association, 2013, with subsequent text revisions)
 - WHO ICD-11 (in force 2022)
 - [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018). *Psychological Bulletin*, 144(12), 1275–1299
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007). *Adult Children of Parental Alienation Syndrome*
@@ -76,6 +76,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

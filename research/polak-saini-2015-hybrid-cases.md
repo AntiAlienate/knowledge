@@ -72,7 +72,7 @@ Hybrid cases tend to produce orders that:
 | Bernet 5 criteria | Diagnostic gatekeeper (pure alienation?) |
 | Friedlander-Walters MMFI | 4-category severity typology |
 | [Warshak](https://warshak.com/family-bridges/) resist-refuse | Continuum from affinity to alienated |
-| **Polak-Saini hybrid** | **Multi-dimensional assessment for messy-middle cases** |
+| **Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) hybrid** | **Multi-dimensional assessment for messy-middle cases** |
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Operational targeted-parent guidance |
 | Harman family-violence | Paradigm shift to abuse model |
 
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

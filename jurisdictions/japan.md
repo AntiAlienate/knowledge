@@ -99,7 +99,7 @@ Japanese Supreme Court and High Court judgments may name adult parties in publis
 
 1. **Japanese Law Translation Database** — <https://www.japaneselawtranslation.go.jp/> (Ministry of Justice of Japan) [en]
 2. **e-Gov 法令検索 (e-Gov Law Search)** — <https://elaws.e-gov.go.jp/> (Government of Japan) [ja]
-3. **[Supreme Court of Japan](https://www.courts.go.jp/english/) (最高裁判所)** — <https://www.courts.go.jp/saikosai/> (Supreme Court of Japan) [ja]
+3. **[Supreme Court of Japan](https://www.courts.go.jp/english/) (最高裁判所)** — <https://www.courts.go.jp/saikosai/> ([Supreme Court of Japan](https://www.courts.go.jp/english/)) [ja]
 4. **Courts in Japan (裁判所)** — <https://www.courts.go.jp/> (Supreme Court of Japan) [ja]
 5. **Ministry of Justice — Act No. 33 of 2024 reform information** — <https://www.moj.go.jp/MINJI/minji07_00316.html> (Ministry of Justice of Japan) [ja]
 6. **Ministry of Health, Labour and Welfare (MHLW)** — <https://www.mhlw.go.jp/> (MHLW Japan) [ja]
@@ -120,6 +120,8 @@ Japanese Supreme Court and High Court judgments may name adult parties in publis
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

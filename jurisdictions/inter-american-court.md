@@ -28,7 +28,7 @@ The [Inter-American Court of Human Rights](https://corteidh.or.cr/) (Corte Inter
 
 ## Apex courts
 
-### Inter-American Court of Human Rights (IACtHR)
+### [Inter-American Court of Human Rights](https://corteidh.or.cr/) (IACtHR)
 <https://www.corteidh.or.cr/>
 
 ### Inter-American Commission on Human Rights ([IACHR](https://www.oas.org/en/IACHR/))
@@ -92,6 +92,8 @@ IACtHR decisions are anonymised per IACtHR practice using initials or first-name
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

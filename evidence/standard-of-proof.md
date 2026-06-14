@@ -307,7 +307,7 @@ These are not legal advice. They are example skeletons of the kind of framing th
 ### 11.4 Critical
 
 - The **admissibility threshold is logically prior to the substantive standard of proof**, and a finding that depends on expert testimony that fails *Daubert / Frye* / PD 25B / Cass. 9691/2022's pseudoscience filter effectively fails the substantive standard too — not because the standard has been raised, but because there is no admissible evidence to weigh.
-- *Re Y* [2026] EWFC 38, Cass. 9691/2022, and BVerfG 1 BvR 1076/23 each make this point from a different doctrinal vocabulary. They are converging, jurisdictionally diverse, on the same operative rule: an alienating-behaviour finding has to be built on facts of conduct properly tried, with expert evidence that meets the relevant competence and reliability filters. The civil standard of proof has not changed; the discipline required to reach it has.
+- *Re Y* [2026] EWFC 38, Cass. 9691/2022, and [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 each make this point from a different doctrinal vocabulary. They are converging, jurisdictionally diverse, on the same operative rule: an alienating-behaviour finding has to be built on facts of conduct properly tried, with expert evidence that meets the relevant competence and reliability filters. The civil standard of proof has not changed; the discipline required to reach it has.
 
 ---
 
@@ -331,6 +331,8 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 **Compiled** 2026-05-25 for the AntiAlienate knowledge repository (CC BY 4.0).
 **Compiler note.** Where the published text of a judgment or article was not directly accessible at compilation, the citation is marked **[secondary verification only]** and should be re-checked against the original. Where a specific factual proposition asked for could not be located in a primary source, it is marked **not publicly confirmed** rather than fabricated.
+
+
 
 
 

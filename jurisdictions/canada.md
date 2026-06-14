@@ -76,7 +76,7 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 - **2016** — Williamson v. Williamson 2016 BCCA 87 — BC Court of Appeal — canonical Canadian citation for residential reunification-programme litigation (Family Reflections Reunification Program Reay BC). — <https://www.canlii.org/en/bc/bcca/doc/2016/2016bcca87/2016bcca87.html>
 - **2017** — Child, Youth and Family Services Act 2017 (Ontario, CYFSA) — replaces prior CFSA; s.89 OCL Legal Representation authority. — <https://www.ontario.ca/laws/statute/17c14>
 - **2020** — Quebec — 'Rebâtir la confiance' report on domestic violence in family court (December 2020). Doctrinal anchor for Quebec critique-camp policy infrastructure. — <https://www.scf.gouv.qc.ca/>
-- **2021** — 1.3.2021 — [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) in force — rewrites Divorce Act s.16 with non-exhaustive best-interests factor list including explicit s.16(3)(j) family-violence factor; replaces custody/access terminology with parenting time / decision-making responsibility / contact. — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
+- **2021** — 1.3.2021 — [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) in force — rewrites [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16 with non-exhaustive best-interests factor list including explicit s.16(3)(j) family-violence factor; replaces custody/access terminology with parenting time / decision-making responsibility / contact. — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
 - **2024** — 2024 — National Association of Women and the Law (NAWL) brief to FEWO calling for STATUTORY BAN on PA accusations in Canadian family law. Load-bearing critique-camp policy anchor. — <https://nawl.ca/>
 
 ## Structural findings
@@ -129,6 +129,8 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

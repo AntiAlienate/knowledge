@@ -33,7 +33,7 @@ Five of the six EU apex decisions in this sequence (Italy ×3 + Germany + Spain 
 Within the EU sequence, **Spain LOPIVI 2021 Disposición adicional 17ª** is the only statutory PA-inadmission law worldwide. Outside the EU, **Brazil Lei 12.318/2010** is the only world statutory PA-recognition law. The two statutory anchors point in opposite directions — Spanish inadmission via apex line vs Brazilian recognition via apex line. EU continental jurisprudence aligns with the Spanish direction.
 
 ### 3. Italian apex line is doctrinally densest
-Three Cassazione ordinanze (13217/2021 + 9691/2022 + 4595/2025) within four years produce the EU's strongest construct-critique line. Combined with **Riforma Cartabia D.lgs. 149/2022** statutory CTU restriction and the prior **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) Article 8 procedural-due-diligence standard, Italy operates the EU's most integrated apex-court + statute + Strasbourg multi-layer critique architecture.
+Three [Cassazione](https://www.cortedicassazione.it/) ordinanze (13217/2021 + 9691/2022 + 4595/2025) within four years produce the EU's strongest construct-critique line. Combined with **Riforma Cartabia D.lgs. 149/2022** statutory CTU restriction and the prior **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) Article 8 procedural-due-diligence standard, Italy operates the EU's most integrated apex-court + statute + Strasbourg multi-layer critique architecture.
 
 ### 4. German constitutional dimension distinct
 **[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** is the only constitutional-court-level construct decision in the EU sequence. Other apex decisions (Italian Cassazione + Spanish [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) + Polish Sąd Najwyższy) operate at civil/supreme-court level. The German constitutional articulation adds a Grundgesetz Art. 6 parental-rights + Art. 2(1) children's-personality-rights dimension absent from the other decisions.
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

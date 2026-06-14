@@ -124,7 +124,7 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 - Experts: a court-appointed psychologist and a [Cafcass](https://www.cafcass.gov.uk/) officer are referred to in the publicly available secondary record as having been involved in the underlying proceedings; their names are not publicly catalogued in the materials reviewed, and they are therefore listed in the experts array under the schema-required 'name' field as 'Court-appointed psychologist (name not publicly stated in available materials)' and '[Cafcass](https://www.cafcass.gov.uk/) officer (name not publicly stated in available materials)' rather than fabricating identifiers. To be confirmed against the [BAILII](https://www.bailii.org/) full text when retrievable.
 - The procedural-history figure of '8 years / 36 hearings / 10 professionals' is taken from the Centre for Social Injustice 2019 family court judgments digest, which is a credible secondary catalogue but has not been verified against the [BAILII](https://www.bailii.org/) judgment directly at this time.
 - Counsel array is empty; the publicly available secondary record does not catalogue counsel for the parties in Re A and the [BAILII](https://www.bailii.org/) front-sheet could not be retrieved.
-- Paragraph references for the verbatim quotations are not given in the publicly available secondary record (which paraphrases or quotes without paragraph citation); the paragraph fields are flagged accordingly and should be updated against the BAILII text when bot-protection allows direct retrieval.
+- Paragraph references for the verbatim quotations are not given in the publicly available secondary record (which paraphrases or quotes without paragraph citation); the paragraph fields are flagged accordingly and should be updated against the [BAILII](https://www.bailii.org/) text when bot-protection allows direct retrieval.
 - Sub-citation: the BAILII path '/ew/cases/EWFC/OJ/2019/B56.html' uses 'OJ' for the Family Court (older / official judgments stream) which is the established BAILII convention for this case; the citation '[2019] EWFC B56' is the neutral citation as universally used in the practitioner record.
 - Re S [2020] EWCA Civ 568 is recorded in comparative_jurisprudence and subsequent_reception without case_study_ref pending a separate case-study entry in the AntiAlienate knowledge base.
 - The source MD attributes the substantive lessons of the case in part to the broader practitioner commentary that grew up around it (Wildblood J's 'teaching points' and the 'every agency' framing). This case-study entry preserves the doctrinal teaching but is careful to draw the line between (a) the HHJ Wildblood QC primary judgment text, (b) the Re Y [2026] retrospective audit, and (c) the practitioner gloss; the holding field reflects (a), the verbatim_quotes field is restricted to (a), the comparative_jurisprudence and subsequent_reception fields carry (b) and (c).
@@ -134,6 +134,8 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

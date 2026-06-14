@@ -72,7 +72,7 @@ Melbourne · VIC · Director, Dialogue in Growth (Melbourne); Founding Director,
 *PhD (USC PA lab); MCAP (Master of Counselling and Psychotherapy); Clinical PACFA*
 Mittagong · NSW · Bowral Road Counselling & Psychotherapy Centre, Mittagong NSW (Southern Highlands); NDIS specialist practitioner; AU Govt National Redress Scheme approved Trauma-Informed Support Practitioner
 
-**Stance:** Twin-study PhD via the University of the Sunshine Coast PA lab focused on adult child survivors of Severe Parental Alienation (SPA). Founding member of the Transcending Alienation Practitioners and Professionals Group (TAPP); PASG member. Featured on Psychiatry & Psychotherapy Podcast Episode 159 on parental alienation. Not AHPRA-registered psychologist — PACFA Clinical is the regulatory analogue. NSW Southern Highlands recognition-camp clinician and gateway to TAPP practitioner network.
+**Stance:** Twin-study PhD via the University of the Sunshine Coast PA lab focused on adult child survivors of Severe Parental Alienation (SPA). Founding member of the Transcending Alienation Practitioners and Professionals Group (TAPP); [PASG](https://pasg.info/) member. Featured on Psychiatry & Psychotherapy Podcast Episode 159 on parental alienation. Not AHPRA-registered psychologist — PACFA Clinical is the regulatory analogue. NSW Southern Highlands recognition-camp clinician and gateway to TAPP practitioner network.
 
 **Publications:**
 - PhD twin study on adult child survivors of Severe Parental Alienation (SPA) (2020) — *University of the Sunshine Coast (USC PA Lab)*
@@ -333,6 +333,8 @@ Multi (federal) · AU (national) · Federal Circuit and Family Court of Australi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

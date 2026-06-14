@@ -52,7 +52,7 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 - ZKJ (2023) — Zimmermann/Fichtner/Walper/Lux/Kindler, ZKJ 2023, 43 / 83
   - DJI-anchored multi-author critique of PA/EKE construct — cited by the [BVerfG](https://www.bundesverfassungsgericht.de/) itself as authority for the refuted-status holding.
 - OLG Frankfurt am Main, 7. Familiensenat (Kassel) (2026) — Beschluss 7 UF 88/25 vom 5.1.2026 — <https://www.olg-frankfurt.justiz.hessen.de/>
-  - Operationalised the BVerfG holding by setting Sachverständigen-Mindestanforderungen for PA-framed proceedings — see companion case study.
+  - Operationalised the [BVerfG](https://www.bundesverfassungsgericht.de/) holding by setting Sachverständigen-Mindestanforderungen for PA-framed proceedings — see companion case study.
 
 ## See also
 
@@ -80,6 +80,8 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

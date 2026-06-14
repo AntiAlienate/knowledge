@@ -65,7 +65,7 @@ The full framework is detailed in the book, but the headline strategies organize
 
 ## Comparative Note
 
-The Baker-Fine 17 strategies sit alongside:
+The [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies sit alongside:
 - **Bernet's 5 essential criteria** (2008) — diagnostic gatekeeper
 - **Friedlander-Walters' 4-category typology** (2010) — severity stratification
 - **[Warshak's](https://warshak.com/family-bridges/) resist-refuse continuum** (2015) — clinical conceptualization
@@ -95,6 +95,8 @@ Where Bernet diagnoses and Harman conceptualizes, Baker-Fine **operationalizes**
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not therapeutic or legal advice. The Baker-Fine framework is most effective when applied with guidance from a qualified PA-informed therapist and family-law attorney.
+
+
 
 
 

@@ -336,7 +336,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ### Strong consensus (high confidence)
 
 1. **Pattern conduct of the kind described as "parental alienating behaviours" can and does cause significant psychological harm to children.** This is supported by qualitative work ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007; Verhaar, Matthewson & Bentley 2022), Italian and U.S. quantitative studies (Verrocchio program; Harman, Leder-Elder & Biringen 2019), and direct judicial findings (McWatt J., Wildblood J., the South African ZAGPJHC 801 judgment). Sequelae documented across studies include depression, anxiety, substance use, impaired trust and attachment, suicidal ideation, and intergenerational transmission.
-2. **Severe alienating conduct *can* meet the existing diagnostic criteria for Child Psychological Abuse (DSM-5 V995.51 / ICD-11 QE52.0 caregiver–child relationship problem).** This is a defensible *application* of existing categories — not a recognition of "parental alienation" as a freestanding diagnosis.
+2. **Severe alienating conduct *can* meet the existing diagnostic criteria for Child Psychological Abuse ([DSM-5](https://www.appi.org/products/dsm) V995.51 / [ICD-11](https://icd.who.int/) QE52.0 caregiver–child relationship problem).** This is a defensible *application* of existing categories — not a recognition of "parental alienation" as a freestanding diagnosis.
 3. **Statutory recognition exists.** Brazil's Lei 12.318/2010 explicitly calls the conduct "abuso moral." UK law's coercive-control and psychological-abuse provisions ([Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17) ss.1, 3) reach the conduct without naming it. Multiple national courts have found that documented alienating behaviour constitutes emotional abuse or significant harm.
 
 ### Contested (moderate confidence on either side)
@@ -365,7 +365,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - Verhaar, Matthewson & Bentley (2022) *Children* 9(4):475 — https://www.mdpi.com/2227-9067/9/4/475
 - Verrocchio, Marchetti & Fulcheri (2015) *Front. Psychol.* 6:1760 — https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01760/full
 - Bernet (Ed.) (2010) *Parental Alienation, DSM-5, and ICD-11* — Charles C. Thomas
-- Baker (2007) *Adult Children of PAS* — W. W. Norton
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) *Adult Children of PAS* — W. W. Norton
 - Harman, Leder-Elder & Biringen (2019) *Child. & Youth Serv. Rev.* 106:104471 — https://www.sciencedirect.com/science/article/abs/pii/S0190740919306164
 - Brazil Lei 12.318/2010 — https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm
 - UK [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17) — https://www.legislation.gov.uk/ukpga/2021/17
@@ -377,7 +377,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - Cass. n. 7041/2013; Cass. n. 13217/2021 (Italy) — https://www.giustiziainsieme.it/it/minori-e-famiglia/1759
 - APA Statement on PAS (2008) — https://www.apa.org/news/press/releases/2008/01/pas-syndrome
 - APSAC Position Statement (2022) — https://apsac.org/wp-content/uploads/2023/05/APSAC-Position-Statement-PAS.pdf
-- Meier et al. (2020) *J. Soc. Welfare & Fam. L.* 42(1):92-105 — https://scholarship.law.gwu.edu/faculty_publications/1456/
+- [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2020) *J. Soc. Welfare & Fam. L.* 42(1):92-105 — https://scholarship.law.gwu.edu/faculty_publications/1456/
 - [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) *J. Child Custody* 16(2):140-169 — https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf
 - Dallam & Silberg (2016) *J. Child Custody* 13(2-3):134-143 — https://irp-cdn.multiscreensite.com/0dab915e/files/uploaded/10.16%20Jrnl%20Child%20Custody%20Reunif%20Harm%20copy.pdf
 - [Mercer & Silberg](https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974) (Eds.) (2023) *Challenging Parental Alienation* — Routledge
@@ -388,6 +388,8 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ---
 
 *Compiled 2026-05-25 for AntiAlienate-knowledge (CC BY 4.0). Items marked **\[secondary verification only]** require direct re-verification against the original source before publication.*
+
+
 
 
 

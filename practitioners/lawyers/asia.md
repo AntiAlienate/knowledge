@@ -20,7 +20,7 @@ The Asia recognition-camp apex jurisprudence skews PA-recognition unlike the EU 
 
 ### Geeta Luthra, Senior Advocate
 *Senior Advocate, [Supreme Court of India](https://main.sci.gov.in/) (designated 2007); LLM + MPhil Cambridge; IAFL Fellow*
-New Delhi · Delhi ([Supreme Court of India](https://main.sci.gov.in/)) · Geeta Luthra & Associates / Independent Senior Counsel, [Supreme Court of India](https://main.sci.gov.in/); Chamber 47, Supreme Court of India, New Delhi
+New Delhi · Delhi ([Supreme Court of India](https://main.sci.gov.in/)) · Geeta Luthra & Associates / Independent Senior Counsel, [Supreme Court of India](https://main.sci.gov.in/); Chamber 47, [Supreme Court of India](https://main.sci.gov.in/), New Delhi
 
 **Stance:** India's most directly verifiable senior-counsel PA-recognition anchor: named counsel for the respondent mother in Lt Col Vivek Singh v Romani Singh (Civil Appeal 3962/2016, (2017) 3 SCC 231), the Supreme Court of India's most explicit parental-alienation judgment holding welfare-of-the-child paramount and naming PA as a litigable harm. Recognition stance is inherent to the successful argument: PA-as-litigable-harm framing carried the case for the respondent mother and became the apex PA authority in Indian jurisprudence. IAFL India fellow profile and multiple inter-country custody habeas-corpus matters reinforce the recognition register. Country_code: IN.
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -269,7 +269,7 @@ London · ON · Distinguished University Professor Emerita, King's University Co
 **Publications:**
 - Parental alienation cases: Experiences of Ontario legal and mental health professionals (with Bala) (2025) — *Family Court Review 63:491* — <https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.70001>
 - Parental alienation: A retrospective study of the experiences of children and parents in Ontario (with Bala) (2024) — *University of New Brunswick Law Journal 62* — <https://journals.lib.unb.ca/index.php/unblj/article/download/34796/1882530454>
-- Children Who Resist Postseparation Parental Contact (with Bala and Saini) (2013) — *Oxford University Press / American Psychology-Law Society*
+- Children Who Resist Postseparation Parental Contact (with Bala and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)) (2013) — *Oxford University Press / American Psychology-Law Society*
 - Bill C-223 brief to House of Commons (2024) — *House of Commons Justice Committee* — <https://www.ourcommons.ca/Content/Committee/451/JUST/Brief/BR14053603/br-external/Jointly01-e.pdf>
 
 **Verification:**
@@ -365,7 +365,7 @@ Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney
 
 **Publications:**
 - L.(A.G.) v D.(K.B.), 2009 — counsel for OCL on behalf of the children (2009) — *Ontario Superior Court of Justice* — <https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/>
-- Supreme Court of Canada docket 36850 — OCL counsel appearance (2016) — *Supreme Court of Canada* — <https://www.scc-csc.ca/cases-dossiers/search-recherche/36850/>
+- [Supreme Court of Canada](https://www.scc-csc.ca/) docket 36850 — OCL counsel appearance (2016) — *Supreme Court of Canada* — <https://www.scc-csc.ca/cases-dossiers/search-recherche/36850/>
 
 **Verification:**
 - <https://www.ontario.ca/page/office-childrens-lawyer>
@@ -396,6 +396,8 @@ Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

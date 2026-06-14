@@ -105,7 +105,7 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 
 | Post URL | Relevance |
 |----------|-----------|
-| https://www.antialienate.com/blog/reunification-therapy-guide | Family Bridges model |
+| https://www.antialienate.com/blog/reunification-therapy-guide | [Family Bridges](https://warshak.com/family-bridges/) model |
 | https://www.antialienate.com/blog/court-ordered-therapy-pa | court-order framework |
 | https://www.antialienate.com/blog/reunification-therapy-pa-recovery-roadmap | outcome expectations |
 | https://www.antialienate.com/blog/parental-alienation-research-evidence | foundational evidence |
@@ -120,6 +120,8 @@ Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute clinical or legal advice. Reunification protocol selection requires assessment by qualified mental-health professionals and court order.*
+
+
 
 
 

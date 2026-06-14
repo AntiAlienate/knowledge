@@ -37,7 +37,7 @@ Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychol
 
 **Contact:** doc@warshak.com
 
-*Notes: TX licensure not publicly confirmed via specific license number on warshak.com; UT Southwestern faculty profile verifies academic affiliation. Family Bridges co-developer with Randy Rand — see excluded[] for the canonical regulatory disclosure on Rand.*
+*Notes: TX licensure not publicly confirmed via specific license number on warshak.com; UT Southwestern faculty profile verifies academic affiliation. [Family Bridges](https://warshak.com/family-bridges/) co-developer with Randy Rand — see excluded[] for the canonical regulatory disclosure on Rand.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:de.boch-galhau-wilfrid`, `practitioner:us.bernet-william`
 
@@ -81,7 +81,7 @@ Pasadena (CA practice history); Washington licensure · WA · Independent clinic
 
 **Contact:** Contact form at https://drcraigchildressblog.com/
 
-*Notes: WA psychology license #61538481 per practice blog. Recognition-camp framing but anchored in [DSM-5](https://www.appi.org/products/dsm) attachment language rather than [PASG](https://pasg.info/) Five-Factor Model; useful for parents seeking diagnostic rigour outside PASG.*
+*Notes: WA psychology license #61538481 per practice blog. Recognition-camp framing but anchored in [DSM-5](https://www.appi.org/products/dsm) attachment language rather than [PASG](https://pasg.info/) Five-Factor Model; useful for parents seeking diagnostic rigour outside [PASG](https://pasg.info/).*
 
 **See also:** `jurisdiction:united-states`
 
@@ -309,7 +309,7 @@ Corte Madera · CA · Independent practice (Corte Madera, CA); retired-status pr
 
 **Contact:** Not publicly confirmed on personal site; route via [AFCC](https://www.afccnet.org/) https://www.afccnet.org/
 
-*Notes: Retired / semi-retired status; current CA licensure status not publicly confirmed. Active practice contact is the principal gap. Kelly-Johnston 2001 is canonical for every AFCC-aligned evaluator.*
+*Notes: Retired / semi-retired status; current CA licensure status not publicly confirmed. Active practice contact is the principal gap. Kelly-Johnston 2001 is canonical for every [AFCC](https://www.afccnet.org/)-aligned evaluator.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:de.boch-galhau-wilfrid`, `practitioner:us.johnston-janet`
 
@@ -414,7 +414,7 @@ Northampton · MA · Maconda Brown O'Connor Professor, Smith College School for 
 *PhD; ABPP Board Certified*
 Newton · MA · Director, Center of Excellence for Children, Families and the Law, William James College (Newton, MA); co-founder Overcoming Barriers Family Camp (OBFC)
 
-**Stance:** Co-founder (with Matthew Sullivan) of the Overcoming Barriers Family Camp — a 5-day attachment-informed PCCP intensive. 20+ years Director of Forensic Services & Training, Children and the Law Program, Massachusetts General Hospital. OBFC is the most-frequently court-ordered 'middle' intervention; also sits inside the Geffner et al. (2022) critique alongside Family Bridges and TPFF.
+**Stance:** Co-founder (with Matthew Sullivan) of the Overcoming Barriers Family Camp — a 5-day attachment-informed PCCP intensive. 20+ years Director of Forensic Services & Training, Children and the Law Program, Massachusetts General Hospital. OBFC is the most-frequently court-ordered 'middle' intervention; also sits inside the Geffner et al. (2022) critique alongside Family Bridges and [TPFF](https://turningpointsforfamilies.com/).
 
 **Publications:**
 - Overcoming Parent-Child Contact Problems: Family-Based Interventions (2016) — *Oxford University Press (Deutsch, Sullivan et al. eds.)* — <https://www.amazon.com/dp/0190235209>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

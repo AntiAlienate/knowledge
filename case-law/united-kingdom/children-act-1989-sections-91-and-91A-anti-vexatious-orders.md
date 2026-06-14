@@ -194,6 +194,8 @@ Section 91A operates alongside **Practice Direction 12J** (Family Procedure Rule
 - **Statute citations:** Children Act 1989 (1989 c.41), sections 91 + 91A (s.91A inserted by Domestic Abuse Act 2021 c.17 s.67(1), in force 19 May 2022)
 - **Status:** Crown copyright; published under the [Open Government Licence v3.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/) — verbatim reproduction permitted.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

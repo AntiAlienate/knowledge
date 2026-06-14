@@ -92,7 +92,7 @@ These critiques refine the application but do not undermine the behavioral-indic
 
 ## Related entries
 
-- [research/bernet-2010.md](./bernet-2010.md) — 5 essential criteria (incorporates Baker's 8)
+- [research/bernet-2010.md](./bernet-2010.md) — 5 essential criteria (incorporates [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8)
 - [research/harman-kruk-hines-2018.md](./harman-kruk-hines-2018.md) — family-violence behavior reframe
 - [research/warshak-2010.md](./warshak-2010.md) — [Family Bridges](https://warshak.com/family-bridges/) reunification protocol
 - [research/reay-2015.md](./reay-2015.md) — Family Reflections protocol
@@ -105,6 +105,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

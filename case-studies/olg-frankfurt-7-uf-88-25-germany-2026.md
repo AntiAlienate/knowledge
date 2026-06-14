@@ -68,7 +68,7 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 
 1. **Pressemitteilung Nr. 03/2026 — Beeinflussung des Kindes durch Elternteil (OLG Frankfurt am Main, 14.01.2026)** — <https://www.olg-frankfurt.justiz.hessen.de/presse/pressemitteilungen> (Hessisches Justizministerium / OLG Frankfurt am Main) [de] — accessed 2026-05-30
 2. **Mindestanforderungen an die Qualität von Sachverständigengutachten im Kindschaftsrecht, 3. Aufl. 2025** — <https://www.brak.de/> (Bundesrechtsanwaltskammer (BRAK) / Deutscher Familiengerichtstag (DFGT)) [de] — accessed 2026-05-30
-3. **BVerfG 17.11.2023 – 1 BvR 1076/23 (foundational constitutional ruling applied here)** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de] — accessed 2026-05-30
+3. **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23 (foundational constitutional ruling applied here)** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de] — accessed 2026-05-30
 4. **DAV FamR 3/26 — Lead editorial on OLG Frankfurt 7 UF 88/25** — <https://anwaltverein.de/de/zeitschriften/famr> (Deutscher Anwaltverein) [de] — accessed 2026-05-30
 5. **FamRZ Redaktionsmeldung 30.10.2025 — Vorab-Notiz auf BRAK/DFGT 3. Aufl. 2025** — <https://www.famrz.de/> (FamRZ) [de] — accessed 2026-05-30
 
@@ -90,6 +90,8 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

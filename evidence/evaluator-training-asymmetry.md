@@ -28,7 +28,7 @@
 
 **Citation.** [Saunders](https://www.ovw.usdoj.gov/), D. G., Faller, K. C., & Tolman, R. M. (2011). *Child custody evaluators' beliefs about domestic abuse allegations: Their relationship to evaluator demographics, background, domestic violence knowledge and custody-visitation recommendations*. Final Technical Report submitted to the National Institute of Justice, October 31, 2011. NCJ Document No. 238891. NIJ Award No. 2007-WG-BX-0013. URL: https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf
 
-This is the foundational empirical text underlying every subsequent claim in the [Saunders](https://www.ovw.usdoj.gov/) program. It is a 188-page NIJ Final Technical Report submitted June 2012; the related peer-reviewed journal articles (Saunders 2015 in *Journal of Child Custody*; Saunders, Tolman, & Faller 2013 in *Journal of Family Psychology*) draw on the same dataset.
+This is the foundational empirical text underlying every subsequent claim in the [Saunders](https://www.ovw.usdoj.gov/) program. It is a 188-page NIJ Final Technical Report submitted June 2012; the related peer-reviewed journal articles ([Saunders](https://www.ovw.usdoj.gov/) 2015 in *Journal of Child Custody*; Saunders, Tolman, & Faller 2013 in *Journal of Family Psychology*) draw on the same dataset.
 
 **Verbatim purpose statement (Executive Summary, p. 4).**
 
@@ -190,11 +190,11 @@ Stahl's core position across his published work, as best reconstructable from pr
 
 **Currently active Stahl training programme.** "Advanced Issues in Child Custody and Parenting Evaluations" co-presented with the American Academy of Forensic Psychology. URL: https://concept.paloaltou.edu/course/AAFP-Advanced-Issues-in-Child-Custody-and-Parenting-Evaluations — Domestic violence is one of four "common areas" Stahl's curriculum covers.
 
-**Honest disclosure.** Stahl is a long-standing AFCC member and a widely-respected practitioner; his books are standard reading on US custody-evaluation continuing-education syllabi. He is not, on the record, hostile to recognising DV — his position is that DV and alienation each need to be properly assessed and that the evaluator's job is precisely to make that differential. The asymmetry critique (Saunders, [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Alsalem) is *not* that Stahl personally is ignorant; it is that the standardised practitioner *training* he and others have spent decades building is structurally weighted toward the "differential" framework in a way that — empirically, per [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) — produces gender-asymmetric custody outcomes when applied to abuse-alleging mothers.
+**Honest disclosure.** Stahl is a long-standing [AFCC](https://www.afccnet.org/) member and a widely-respected practitioner; his books are standard reading on US custody-evaluation continuing-education syllabi. He is not, on the record, hostile to recognising DV — his position is that DV and alienation each need to be properly assessed and that the evaluator's job is precisely to make that differential. The asymmetry critique (Saunders, [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Alsalem) is *not* that Stahl personally is ignorant; it is that the standardised practitioner *training* he and others have spent decades building is structurally weighted toward the "differential" framework in a way that — empirically, per [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) — produces gender-asymmetric custody outcomes when applied to abuse-alleging mothers.
 
 ---
 
-## 3. The Drozd & Olesen 2004 decision tree and the 2010 Meier critique
+## 3. The Drozd & Olesen 2004 decision tree and the 2010 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) critique
 
 ### 3.1 The original decision-tree paper
 
@@ -460,7 +460,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 - **More DV-content training predicts more child-safe evaluator recommendations.** Saunders 2011 (workshop and lecture attendance most strongly associated with positive outcomes); Haselschwerdt, Hardesty, & Hans (2011); Morrill et al. (2005) on judges. Directionality unambiguous; magnitude qualified by observational design.
 - **The Drozd/Olesen 2004 decision-tree framework is the most-cited differential-assessment training tradition in US custody-evaluation practice**, with documented intra-field disagreement (Meier 2010 critique; Drozd & Olesen 2010 response) about whether its operational application systematically routes evaluators toward alienation findings in abuse cases.
-- **UK Cafcass and Australian Family-Law-Amendment-Act-2023 represent the most policy-advanced international approaches** to the DV-versus-alienation ordering question, but operational implementation gaps remain (Ministry of Justice Harm Report 2020 was the UK precipitating finding; 2024-2025 Cafcass policy is the response).
+- **UK [Cafcass](https://www.cafcass.gov.uk/) and Australian Family-Law-Amendment-Act-2023 represent the most policy-advanced international approaches** to the DV-versus-alienation ordering question, but operational implementation gaps remain (Ministry of Justice Harm Report 2020 was the UK precipitating finding; 2024-2025 Cafcass policy is the response).
 
 ### 10.4 Contested
 
@@ -524,7 +524,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### Cross-references within the AntiAlienate evidence corpus
 
-- `evidence-forensic-operation-in-courts.md` §1 (Meier 2020 in full); §3 (Silberg-Dallam 2019 in full); §4 (Saunders / training-asymmetry high-level synthesis); §5 (Saini/Johnston/Fidler/Bala 2016 centrist position).
+- `evidence-forensic-operation-in-courts.md` §1 (Meier 2020 in full); §3 (Silberg-Dallam 2019 in full); §4 (Saunders / training-asymmetry high-level synthesis); §5 ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 centrist position).
 - `evidence-pa-as-child-abuse.md` §2 (WHO [ICD-11](https://icd.who.int/) status of PA).
 - `evidence-international-institutional-positions.md` (CEDAW, GREVIO, UN Alsalem).
 - `evidence-reunification-outcomes.md` (Kayden's Law context; reunification camps; California SB 331 cross-reference).
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

@@ -40,7 +40,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ### Cochemer Modell / AG Cochem-Zell (historical reference)
 <https://www.ag-cochem.justiz.rlp.de/>
-- **Cochem-Zell working-group model (Cochemer Praxis) — historically cited as a cooperation-imperative paradigm; the original interdisciplinary working group around Familienrichter Jürgen Rudolph was discontinued in 2008 following his retirement. Subsequent 'Cochem-style' practice elsewhere is not institutionally continuous and has been critiqued (Istanbul Convention art. 31, BVerfG 2023, GREVIO) for under-weighting violence.** (2008) — middle
+- **Cochem-Zell working-group model (Cochemer Praxis) — historically cited as a cooperation-imperative paradigm; the original interdisciplinary working group around Familienrichter Jürgen Rudolph was discontinued in 2008 following his retirement. Subsequent 'Cochem-style' practice elsewhere is not institutionally continuous and has been critiqued (Istanbul Convention art. 31, [BVerfG](https://www.bundesverfassungsgericht.de/) 2023, GREVIO) for under-weighting violence.** (2008) — middle
 
 ## Professional regulators
 
@@ -119,6 +119,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

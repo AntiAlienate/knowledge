@@ -12,7 +12,7 @@ STS 519/2017 es la primera sentencia en la que la Sala Primera del [Tribunal Sup
 
 ## Procedural history
 
-1) Sentencia firme de divorcio de abril de 2009 que atribuía la guarda y custodia exclusiva a la madre (Dña. Juana). 2) Demanda de modificación de medidas presentada por el padre (D. Juan Ignacio) solicitando la guarda y custodia compartida de la hija común. 3) Juzgado de Primera Instancia núm. 3 de Elche (DIRECCION000) dicta sentencia el 5 de marzo de 2014 acordando la custodia compartida en periodos semanales alternos con cambio de progenitor los domingos a las 20:00 h. 4) Audiencia Provincial de Alicante, Sección 9ª, sentencia de 25 de abril de 2016, confirma la custodia compartida. 5) La madre interpone recurso de casación (núm. 2831/2016) ante la Sala Primera del Tribunal Supremo al amparo del art. 477.2.3º LEC alegando interés casacional, sosteniendo la oposición de la menor y la inconveniencia de la modificación. 6) STS 519/2017 de 22 de septiembre DESESTIMA el recurso de casación y confirma íntegramente el régimen de custodia compartida.
+1) Sentencia firme de divorcio de abril de 2009 que atribuía la guarda y custodia exclusiva a la madre (Dña. Juana). 2) Demanda de modificación de medidas presentada por el padre (D. Juan Ignacio) solicitando la guarda y custodia compartida de la hija común. 3) Juzgado de Primera Instancia núm. 3 de Elche (DIRECCION000) dicta sentencia el 5 de marzo de 2014 acordando la custodia compartida en periodos semanales alternos con cambio de progenitor los domingos a las 20:00 h. 4) Audiencia Provincial de Alicante, Sección 9ª, sentencia de 25 de abril de 2016, confirma la custodia compartida. 5) La madre interpone recurso de casación (núm. 2831/2016) ante la Sala Primera del [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) al amparo del art. 477.2.3º LEC alegando interés casacional, sosteniendo la oposición de la menor y la inconveniencia de la modificación. 6) STS 519/2017 de 22 de septiembre DESESTIMA el recurso de casación y confirma íntegramente el régimen de custodia compartida.
 
 ## Experts
 
@@ -103,6 +103,8 @@ Desestima el recurso de casación interpuesto por la madre. Confirma la sentenci
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

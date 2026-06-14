@@ -51,7 +51,7 @@ Bernet co-led the successful campaign for [ICD-11](https://icd.who.int/) inclusi
 ## Key Publications
 
 - Bernet, W. (2008). Parental alienation disorder and DSM-V. *American Journal of Family Therapy*, 36(5), 349-366.
-- Bernet, W., et al. (2010). Parental alienation, DSM-5, and [ICD-11](https://icd.who.int/). *American Journal of Family Therapy*, 38(2), 76-187.
+- Bernet, W., et al. (2010). Parental alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/). *American Journal of Family Therapy*, 38(2), 76-187.
 - Bernet, W., et al. (2018). Reliability and validity of the five-factor parental alienation scale (FFPAS). *Frontiers in Psychology*, 9, 1996.
 - Bernet, W., & Greenhill, L. L. (2022). The [Parental Alienation Study Group](https://pasg.info/). *Journal of the American Academy of Child & Adolescent Psychiatry*, 61(3), 354-356.
 
@@ -102,6 +102,8 @@ Bernet's role: gatekeeper. Apply his 5 before applying any other framework.
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Diagnostic application of the Bernet 5 criteria requires a qualified mental-health professional. Forensic application in custody proceedings requires a court-appointed evaluator.
+
+
 
 
 

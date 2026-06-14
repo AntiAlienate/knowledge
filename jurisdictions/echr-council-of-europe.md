@@ -13,7 +13,7 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 
 ## Statutory framework
 
-- **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) 1950 (Council of Europe Treaty Series No. 5)** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) (1950) — <https://www.echr.coe.int/>
+- **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) 1950 ([Council of Europe](https://www.coe.int/) Treaty Series No. 5)** — [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) (1950) — <https://www.echr.coe.int/>
   - Convention for the Protection of Human Rights and Fundamental Freedoms signed 4 November 1950 effective 3 September 1953 — foundational multi-state human-rights framework.
 - **[ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (Right to respect for private and family life)** — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (1950) — <https://www.echr.coe.int/>
   - Foundational ECHR Article establishing right to respect for private and family life, home and correspondence — primary family-law human-rights provision.
@@ -22,7 +22,7 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 - **ECHR Article 34 (Individual Petition)** — ECHR Article 34 (1950) — <https://www.echr.coe.int/>
   - ECHR Article establishing individual-petition framework for [ECtHR](https://www.echr.coe.int/) jurisdiction — modern multi-state individual-petition framework.
 - **Marckx v Belgium 1979 (foundational Article 8 family-law jurisprudence)** — Marckx v Belgium (1979) — <https://hudoc.echr.coe.int/>
-  - Foundational ECtHR judgment of 13 June 1979 establishing Article 8 illegitimate-child-rights framework — substantially influential on subsequent EU member-state family-law reforms.
+  - Foundational [ECtHR](https://www.echr.coe.int/) judgment of 13 June 1979 establishing Article 8 illegitimate-child-rights framework — substantially influential on subsequent EU member-state family-law reforms.
 
 ## Apex courts
 
@@ -81,7 +81,7 @@ ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' de
 
 ## Sources
 
-1. **European Court of Human Rights** — <https://www.echr.coe.int/> (European Court of Human Rights) [en]
+1. **[European Court of Human Rights](https://www.echr.coe.int/)** — <https://www.echr.coe.int/> (European Court of Human Rights) [en]
 2. **Council of Europe** — <https://www.coe.int/> (Council of Europe) [en]
 3. **[HUDOC](https://hudoc.echr.coe.int/) ECHR Database** — <https://hudoc.echr.coe.int/> (European Court of Human Rights) [en]
 
@@ -95,6 +95,8 @@ ECtHR decisions are anonymised per ECtHR practice using initials or 'X' / 'Y' de
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

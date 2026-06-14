@@ -209,7 +209,7 @@ Nairobi · Kenya national · FIDA Kenya — Federation of Women Lawyers (Kenya)
 *Institutional — women-lawyer association, founded 1989 / registered 1990; registered legal-aid NGO under Societies Act (Tanzania); operates via advocates regulated by the Tanganyika Law Society; Family Mediation Centre*
 Dar es Salaam (HQ; with regional offices Dodoma / Mwanza / Tanga / Arusha) · Tanzania national · Tanzania Women Lawyers Association (TAWLA)
 
-**Stance:** Tanzania's largest women-and-children legal-aid organisation and operator of the Family Mediation Centre — natural institutional landing-place for any PA-adjacent custody / ADR collaboration in Tanzania. TAWLA Family Mediation Centre programme page (https://www.tawla.or.tz/portfolio/legal-aid-services/) frames child custody and maintenance via ADR under the Law of Marriage Act 1971 and the Law of the Child Act 2009. PA-construct critique is implicit in TAWLA's juvenile-detainees and child-labour advocacy outputs and family-mediation programme rather than explicit in a published PA position-paper. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
+**Stance:** Tanzania's largest women-and-children legal-aid organisation and operator of the Family Mediation Centre — natural institutional landing-place for any PA-adjacent custody / ADR collaboration in Tanzania. TAWLA Family Mediation Centre programme page (https://www.tawla.or.tz/portfolio/legal-aid-services/) frames child custody and maintenance via ADR under the Law of Marriage Act 1971 and the Law of the Child Act 2009. PA-construct critique is implicit in TAWLA's juvenile-detainees and child-labour advocacy outputs and family-mediation programme rather than explicit in a published PA position-paper. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023), [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
 
 **Publications:**
 - TAWLA Family Mediation Centre programme materials (2023) — *TAWLA* — <https://www.tawla.or.tz/portfolio/legal-aid-services/>
@@ -234,7 +234,7 @@ Dar es Salaam (HQ; with regional offices Dodoma / Mwanza / Tanga / Arusha) · Ta
 *Institutional — Pan-African women's-rights legal network, established 1993 (Ghana chapter); registered NGO; coordinates with Ghana Bar Association / Legal Aid (General Legal Council)*
 Accra · Ghana national (Volta, Western and Greater Accra regions) · WiLDAF Ghana
 
-**Stance:** Ghana's leading women's-rights legal-development network — institutional family-law-education interlocutor for PA-adjacent custody work in Ghana. WiLDAF Ghana programmes page (https://site.wildaf-ghana.org/access-to-justice/) describes Family Law Education covering Marriage and Divorce, Child Protection, GBV legislation, and inheritance under the Children's Act 1998 (Act 560), the Matrimonial Causes Act 1971 (Act 367) and the Domestic Violence Act 2007 (Act 732). PA-construct critique is implicit in WiLDAF Ghana's documented Family Law Education curriculum and legal-aid services in Volta / Western / Greater Accra regions rather than explicit in a published PA position-paper. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
+**Stance:** Ghana's leading women's-rights legal-development network — institutional family-law-education interlocutor for PA-adjacent custody work in Ghana. WiLDAF Ghana programmes page (https://site.wildaf-ghana.org/access-to-justice/) describes Family Law Education covering Marriage and Divorce, Child Protection, GBV legislation, and inheritance under the Children's Act 1998 (Act 560), the Matrimonial Causes Act 1971 (Act 367) and the Domestic Violence Act 2007 (Act 732). PA-construct critique is implicit in WiLDAF Ghana's documented Family Law Education curriculum and legal-aid services in Volta / Western / Greater Accra regions rather than explicit in a published PA position-paper. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023), Cassazione 9691/2022 (Italy) and Re Y [2026] EWFC 38 as comparative authority for PA-construct critique in DV contexts.
 
 **Publications:**
 - Family Law Education curriculum (GBV, marriage / divorce, child-protection, inheritance) (2023) — *WiLDAF Ghana* — <https://site.wildaf-ghana.org/access-to-justice/>
@@ -277,7 +277,7 @@ Pretoria · Gauteng · University of Pretoria Faculty of Law (UNESCO Chair in Ed
 
 **Contact:** UP Department of Private Law, Pretoria; CCL central email centreforchildlaw@up.ac.za ; +27 12 420 4502
 
-*Notes: General Council of the Bar of South Africa — admitted advocate of the High Court of South Africa. UNESCO Chair in Education Law in Africa (UP) + Chair in Children's Rights in a Sustainable World (Leiden) + Chair UN Committee on the Rights of the Child 2023-2025 independently verifiable. PA-specific public stance not publicly confirmed; middle stance by institutional / constitutional-children's-rights frame.*
+*Notes: General Council of the Bar of South Africa — admitted advocate of the High Court of South Africa. UNESCO Chair in Education Law in Africa (UP) + Chair in Children's Rights in a Sustainable World (Leiden) + Chair UN [Committee on the Rights of the Child](https://www.ohchr.org/en/treaty-bodies/crc) 2023-2025 independently verifiable. PA-specific public stance not publicly confirmed; middle stance by institutional / constitutional-children's-rights frame.*
 
 **See also:** `jurisdiction:africa`, `jurisdiction:south-africa`, `practitioner:za.ozah-karabo`, `practitioner:za.centre-for-child-law`, `practitioner:za.de-jong-madelene`
 
@@ -375,6 +375,8 @@ Pretoria · Gauteng · Centre for Child Law (CCL), Faculty of Law, University of
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

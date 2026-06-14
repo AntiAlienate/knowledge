@@ -131,7 +131,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 - Family Justice Council (2022) — Guidance on responding to allegations of alienating behaviour (consultation 2022, finalised 2024) — <https://www.judiciary.uk/guidance-and-resources/family-justice-council/>
   - FJC guidance expressly grounded in Re H-N's pattern-of-behaviour framework and its insistence that fact-finding on the abuse allegations is the precondition for any consideration of alienating-behaviour framing.
 - [Cafcass](https://www.cafcass.gov.uk/) (2022) — [Cafcass](https://www.cafcass.gov.uk/) private-law operating framework revisions post Re H-N — <https://www.cafcass.gov.uk/>
-  - Cafcass (the First Intervener) revised its safeguarding and welfare-reporting practice in light of Re H-N, including the proposal endorsed at paragraphs 38-40 for enhanced pre-fact-finding involvement.
+  - [Cafcass](https://www.cafcass.gov.uk/) (the First Intervener) revised its safeguarding and welfare-reporting practice in light of Re H-N, including the proposal endorsed at paragraphs 38-40 for enhanced pre-fact-finding involvement.
 - Transparency Project (2021) — Jack Harrison — 'Re H-N [2021] EWCA 448: The Court of Appeal considers domestic abuse' — <https://transparencyproject.org.uk/re-h-n-2021-ewca-448-the-court-of-appeal-considers-domestic-abuse/>
   - Welcomes the pattern-of-behaviour framing as important; characterises the judgment as evolutionary not revolutionary ('a Kylie and not a Home Alone 3'); warns that proper implementation depends on hearing time the underfunded family courts cannot deliver and specifically critiques judges focused on a mother's 'mental health rather than on the allegations of domestic abuse'.
 - Transparency Project (2022) — 'Mind the Gap — the welfare decisions for H-N, a child' (multi-part series) — <https://transparencyproject.org.uk/mind-the-gap-the-welfare-decisions-for-h-n-a-child-part-one/>
@@ -186,6 +186,8 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

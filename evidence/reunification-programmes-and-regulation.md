@@ -50,7 +50,7 @@ The five-centre architecture is the HK operational analogue to Singapore CAPS + 
 ### 10. India — Court-appointed counsellor mechanism + Family Court Act 1984
 **Family Court Act 1984** establishes specialist Family Courts (e.g., Patiala House New Delhi) with statutory authority to appoint counsellors, social-welfare experts and psychologists. **Ms Iti Kanungo (Principal Counsellor, Family Court Patiala House)** served as court-appointed evaluator in Vivek Singh v Romani Singh (2017) 3 SCC 231.
 
-India's court-attached counsellor mechanism is the structural counterpart to FCFCOA Family Report Writers (AU) + Cafcass (UK-E&W) + CAPS (Singapore) + Family Advocate (SA). Cross-link: case-study:vivek-singh-v-romani-singh-2017-india + jurisdiction:india.
+India's court-attached counsellor mechanism is the structural counterpart to FCFCOA Family Report Writers (AU) + [Cafcass](https://www.cafcass.gov.uk/) (UK-E&W) + CAPS (Singapore) + Family Advocate (SA). Cross-link: case-study:vivek-singh-v-romani-singh-2017-india + jurisdiction:india.
 
 ### 11. Italy — Consulenza Tecnica d'Ufficio (CTU) + post-Riforma Cartabia restriction
 **CTU (Consulenza Tecnica d'Ufficio)** — court-appointed expert mechanism in Italian civil procedure. **Riforma Cartabia D.lgs. 149/2022** (in force 2023) restricts CTU evaluations based on PAS construct. Italian operational reunification work happens within CTU framework with post-Riforma constraints.
@@ -69,7 +69,7 @@ Lorentzhuis Kinderen uit de Knel programme (Justine van Lawick + Margreet Visser
 - **Extra-regulator NGO programme** (US [Family Bridges](https://warshak.com/family-bridges/); Canadian Family Reflections).
 - **Methodological-advisory framework** (NL Methode SAT; NJI Richtlijn 2020 + Lorentzhuis methodology).
 
-Cross-jurisdictional reunification programmes operate via at least three distinct regulatory routes. The US extra-regulator pattern (Family Bridges as 'educational workshop' outside CABOP) is structurally distinctive.
+Cross-jurisdictional reunification programmes operate via at least three distinct regulatory routes. The US extra-regulator pattern ([Family Bridges](https://warshak.com/family-bridges/) as 'educational workshop' outside CABOP) is structurally distinctive.
 
 ### 2. Court-attached institutional vehicles widespread
 Eight of twelve jurisdictions surveyed operate court-attached institutional welfare-evaluator vehicles: UK Cafcass + Cafcass Cymru + AU FRW + Singapore CAPS + HK SWD Centres + SA Family Advocate + India Family Court counsellors + Italian CTU. The pattern is the dominant cross-jurisdictional regulatory route.
@@ -119,6 +119,8 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+
+
 
 
 

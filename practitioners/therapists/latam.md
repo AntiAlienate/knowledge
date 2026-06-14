@@ -394,7 +394,7 @@ Chile has **no institutional doctrinal anchor on PA** — alienación parental i
   - IChTF YouTube content on family therapy in separation processes
 - **Primary contact:** IChTF, Santiago de Chile — via https://www.linkedin.com/company/instituto-chileno-de-terapia-familiar institutional channel
 - **Tier:** 2
-- **Hook:** The single Chilean middle-camp family-therapy institutional voice — the natural Chilean clinical voice when the article needs neither full PASG-recognition nor full SAP-abolitionist framing.
+- **Hook:** The single Chilean middle-camp family-therapy institutional voice — the natural Chilean clinical voice when the article needs neither full [PASG](https://pasg.info/)-recognition nor full SAP-abolitionist framing.
 
 ### Chile — entries considered and excluded
 - **Soledad Espinoza** — no primary source retrievable confirming a Chilean clinical psychologist by that name working on PA. **Not publicly confirmed** — excluded.
@@ -442,6 +442,8 @@ Chile has **no institutional doctrinal anchor on PA** — alienación parental i
 15. **Vania Apablaza** (CL) — name not retrievable; not publicly confirmed.
 16. **Corporación Humanas** (CL) — no PA-specific institutional position publicly retrievable.
 17. **Programa SENAME / mejor niñez** (CL) — no PA-specific institutional doctrine; Chile has no institutional clinical engagement on PA.
+
+
 
 
 

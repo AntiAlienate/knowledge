@@ -61,7 +61,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 Bernet (2010) led a multi-year campaign to add **"Parental Alienation"** as a standalone diagnostic code. The campaigns:
 
-- **DSM-5 campaign (2010-2013)** — did not succeed. PA was not added as a standalone diagnosis.
+- **[DSM-5](https://www.appi.org/products/dsm) campaign (2010-2013)** — did not succeed. PA was not added as a standalone diagnosis.
 - **[DSM-5-TR](https://www.appi.org/products/dsm) (2022)** — V995.51 + V61.29 retained but no standalone PA code.
 - **[ICD-11](https://icd.who.int/) campaign (2015-2018)** — same outcome; standalone PA code rejected.
 - **2018 Harman/Kruk/Hines reframe** — the field strategically pivoted toward "alienating behaviors" (PABs) at the **behaviors** level, leveraging existing codes (V995.51, QE52) — which has proved more workable + Daubert-survivable than the syndromal frame would have been.
@@ -70,7 +70,7 @@ Bernet (2010) led a multi-year campaign to add **"Parental Alienation"** as a st
 
 For PA-context expert testimony or motion language:
 
-> *The Respondent's documented pattern of conduct meets DSM-5 V995.51 (Child Psychological Abuse) — specifically, nonaccidental verbal/symbolic acts that have caused significant psychological harm to the child, as documented in [evidence pack] per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) and Bernet's 5 essential criteria (Bernet 2010). The child's resulting presentation meets DSM-5 V61.29 (Child Affected by Parental Relationship Distress) and ICD-11 QE52 (Caregiver-Child Relationship Problem). Where weaponized illness is documented, additional codes V300.19 (DSM) / 6D52 (ICD-11) apply.*
+> *The Respondent's documented pattern of conduct meets DSM-5 V995.51 (Child Psychological Abuse) — specifically, nonaccidental verbal/symbolic acts that have caused significant psychological harm to the child, as documented in [evidence pack] per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) and Bernet's 5 essential criteria (Bernet 2010). The child's resulting presentation meets DSM-5 V61.29 (Child Affected by Parental Relationship Distress) and [ICD-11](https://icd.who.int/) QE52 (Caregiver-Child Relationship Problem). Where weaponized illness is documented, additional codes V300.19 (DSM) / 6D52 (ICD-11) apply.*
 
 This anchors PA harm in **internationally recognized diagnostic systems** without requiring a controversial standalone "PA" diagnosis — exactly the Daubert-survivable behavior-frame approach.
 
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

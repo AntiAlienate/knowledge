@@ -205,7 +205,7 @@ Cardiff · Wales · Cardiff University, School of Law and Politics (primary); Un
 *Welsh national federation of local Women's Aid groups*
 Cardiff · Wales (national) · Wales-specific national domestic-violence-survivor federation
 
-**Stance:** Wales-specific federation; preferred channel for any Welsh-language critique-camp engagement. WWA shares the UK Women's Aid federation-wide position framing PA as 'a dangerous and harmful concept'. WWA-specific published PA briefing not publicly confirmed as a standalone document; position sourced from the federation-wide Women's Aid stance and from Cafcass Cymru parent-facing guidance.
+**Stance:** Wales-specific federation; preferred channel for any Welsh-language critique-camp engagement. WWA shares the UK Women's Aid federation-wide position framing PA as 'a dangerous and harmful concept'. WWA-specific published PA briefing not publicly confirmed as a standalone document; position sourced from the federation-wide Women's Aid stance and from [Cafcass Cymru](https://www.cafcass.gov.uk/) parent-facing guidance.
 
 **Verification:**
 - <https://welshwomensaid.org.uk/>
@@ -467,6 +467,8 @@ Chester / North Wales circuit · Wales (Welsh-medium placeholder) · Linenhall C
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -92,12 +92,14 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 
 **Researcher / clinician:**
 1. *Parental Alienation: The Cult of the Self* (Harman & Biringen)
-2. *Working With Alienated Children and Families* (Baker & Sauber)
+2. *Working With Alienated Children and Families* ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Sauber)
 3. [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001 paper + follow-up literature via [Connected Papers](https://www.connectedpapers.com/)
 
 ---
 
 *Open PR if a book belongs on this shelf. Criterion: peer-reviewed, court-cited, or written by a named expert with a public record of work in the field.*
+
+
 
 
 
