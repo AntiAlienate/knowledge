@@ -229,3 +229,104 @@ Hoge Raad and Gerechtshof family-chamber judgments anonymise minor children cons
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Netherlands (Koninkrijk der Nederlanden)
+
+### Is parental alienation illegal in Netherlands (Koninkrijk der Nederlanden)?
+
+In Netherlands (Koninkrijk der Nederlanden) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in Netherlands (Koninkrijk der Nederlanden)?
+
+The primary statutory basis in Netherlands (Koninkrijk der Nederlanden) is Burgerlijk Wetboek (BW) Boek 1 arts. 245-377h — Personen- en familierecht — ouderlijk gezag en omgang. Authoritative text: <https://wetten.overheid.nl/BWBR0002656>.
+
+### What can a parent do if their child is being withheld from them in Netherlands (Koninkrijk der Nederlanden)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Netherlands (Koninkrijk der Nederlanden)'s best-interests-of-the-child framework (Burgerlijk Wetboek (BW) Boek 1 arts. 245-377h) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/netherlands/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Netherlands (Koninkrijk der Nederlanden)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Netherlands (Koninkrijk der Nederlanden) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Netherlands (Koninkrijk der Nederlanden)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Netherlands (Koninkrijk der Nederlanden) is Burgerlijk Wetboek (BW) Boek 1 arts. 245-377h — Personen- en familierecht — ouderlijk gezag en omgang. Authoritative text: <https://wetten.overheid.nl/BWBR0002656>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Netherlands (Koninkrijk der Nederlanden)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Netherlands (Koninkrijk der Nederlanden)'s best-interests-of-the-child framework (Burgerlijk Wetboek (BW) Boek 1 arts. 245-377h) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Personen- en familierecht — ouderlijk gezag en omgang",
+      "legislationIdentifier": "Burgerlijk Wetboek (BW) Boek 1 arts. 245-377h",
+      "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
+      "url": "https://wetten.overheid.nl/BWBR0002656",
+      "datePublished": "1995",
+      "description": "Primary statutory basis for parental authority (ouderlijk gezag) and contact (omgang) — substantively restructured since 1995. Art. 247 establishes ouderlijk gezag framework, art. 377a addresses contact rights, art. 250 establishes bijzonder curator child-representation mechanism."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Promotion of Continued Parenthood and Careful Divorce Act",
+      "legislationIdentifier": "Wet bevordering voortgezet ouderschap en zorgvuldige scheiding 2009",
+      "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
+      "url": "https://wetten.overheid.nl/BWBR0024729",
+      "datePublished": "2009",
+      "description": "Effective 1 March 2009. Introduces ouderschapsplan (parenting plan) requirement for divorce, parallel custody continuation post-divorce as default, and emphasis on voortgezet ouderschap (continued parenthood) — substantively transformative reform."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Youth Act 2015",
+      "legislationIdentifier": "Jeugdwet 2015",
+      "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
+      "url": "https://wetten.overheid.nl/BWBR0034925",
+      "datePublished": "2015",
+      "description": "Effective 1 January 2015. Decentralises youth-care framework to municipalities (gemeenten) — substantively significant for jeugdbescherming framework intersecting with PA-related disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Reform of Child Protection Measures Act",
+      "legislationIdentifier": "Wet herziening kinderbeschermingsmaatregelen 2015",
+      "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
+      "url": "https://wetten.overheid.nl/BWBR0033833",
+      "datePublished": "2015",
+      "description": "Effective 1 January 2015. Restructures child-protection-measures framework (ondertoezichtstelling, uithuisplaatsing) — substantively significant for child-protection-PA-intersection cases."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "legislationIdentifier": "Istanbul Convention art. 31",
+      "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
+      "url": "https://rm.coe.int/168008482e",
+      "datePublished": "2015",
+      "description": "Ratified by Netherlands 18 November 2015, in force 1 March 2016. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection of DV allegations."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

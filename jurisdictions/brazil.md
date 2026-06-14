@@ -226,3 +226,104 @@ Children and family parties are identified by initials only in published judgmen
 - [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Brazil (República Federativa do Brasil)
+
+### Is parental alienation illegal in Brazil (República Federativa do Brasil)?
+
+In Brazil (República Federativa do Brasil) parental alienation is expressly named and codified in statute. The apex court accepts the construct.
+
+### What law covers withholding a child from a parent in Brazil (República Federativa do Brasil)?
+
+The primary statutory basis in Brazil (República Federativa do Brasil) is Lei n° 12.318/2010 (Lei da Alienação Parental) — Dispõe sobre a alienação parental e altera o art. 236 da Lei n° 8.069/1990. Authoritative text: <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm>.
+
+### What can a parent do if their child is being withheld from them in Brazil (República Federativa do Brasil)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Brazil (República Federativa do Brasil)'s best-interests-of-the-child framework (Lei n° 12.318/2010 (Lei da Alienação Parental)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/brazil/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Brazil (República Federativa do Brasil)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Brazil (República Federativa do Brasil) parental alienation is expressly named and codified in statute. The apex court accepts the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Brazil (República Federativa do Brasil)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Brazil (República Federativa do Brasil) is Lei n° 12.318/2010 (Lei da Alienação Parental) — Dispõe sobre a alienação parental e altera o art. 236 da Lei n° 8.069/1990. Authoritative text: <https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Brazil (República Federativa do Brasil)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Brazil (República Federativa do Brasil)'s best-interests-of-the-child framework (Lei n° 12.318/2010 (Lei da Alienação Parental)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Dispõe sobre a alienação parental e altera o art. 236 da Lei n° 8.069/1990",
+      "legislationIdentifier": "Lei n° 12.318/2010 (Lei da Alienação Parental)",
+      "jurisdiction": "Brazil (República Federativa do Brasil)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
+      "datePublished": "2010",
+      "description": "World's first statutory codification of alienação parental as juridical concept. Art. 2° defines alienação parental; art. 4° establishes provisional measures; art. 6° enumerates judicial remedies. Substantively foundational for global PA-recognition statutory framework — heavily cited by PASG-aligned advocates internationally."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Do Poder Familiar",
+      "legislationIdentifier": "Código Civil arts. 1.630 a 1.638",
+      "jurisdiction": "Brazil (República Federativa do Brasil)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm",
+      "datePublished": "2002",
+      "description": "Primary statutory basis for parental authority under the 2002 Código Civil (Lei n° 10.406/2002). Establishes joint exercise of poder familiar (art. 1.631) and grounds for suspensão/destituição (arts. 1.637-1.638)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Lei n° 8.069/1990 — Estatuto da Criança e do Adolescente",
+      "legislationIdentifier": "Estatuto da Criança e do Adolescente (ECA, Lei n° 8.069/1990)",
+      "jurisdiction": "Brazil (República Federativa do Brasil)",
+      "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
+      "datePublished": "1990",
+      "description": "Substantively foundational child-rights framework enacted 13 July 1990 implementing CF/1988 art. 227 and UN CRC. Establishes melhor interesse da criança standard and Conselhos Tutelares structure."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Mecanismos para coibir a violência doméstica e familiar contra a mulher",
+      "legislationIdentifier": "Lei n° 11.340/2006 (Lei Maria da Penha)",
+      "jurisdiction": "Brazil (República Federativa do Brasil)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
+      "datePublished": "2006",
+      "description": "Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases where PA allegations are deployed to deflect DV findings."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Estabelece o significado da expressão 'guarda compartilhada' e dispõe sobre sua aplicação",
+      "legislationIdentifier": "Lei n° 13.058/2014 (guarda compartilhada)",
+      "jurisdiction": "Brazil (República Federativa do Brasil)",
+      "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13058.htm",
+      "datePublished": "2014",
+      "description": "Establishes guarda compartilhada (shared custody) as the default post-separation framework — substantively transformative shift from sole-custody default to gender-equal shared-custody framework."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -184,3 +184,86 @@ Norwegian family-law decisions are anonymised per Høyesterett practice using in
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Norway (Norge)
+
+### Is parental alienation illegal in Norway (Norge)?
+
+In Norway (Norge) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Norway (Norge)?
+
+The primary statutory basis in Norway (Norge) is Barnelova ch. 5 — Foreldreansvar (Parental responsibility). Authoritative text: <https://lovdata.no/dokument/NL/lov/1981-04-08-7>.
+
+### What can a parent do if their child is being withheld from them in Norway (Norge)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Norway (Norge)'s best-interests-of-the-child framework (Barnelova ch. 5) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/norway/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Norway (Norge)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Norway (Norge) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Norway (Norge)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Norway (Norge) is Barnelova ch. 5 — Foreldreansvar (Parental responsibility). Authoritative text: <https://lovdata.no/dokument/NL/lov/1981-04-08-7>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Norway (Norge)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Norway (Norge)'s best-interests-of-the-child framework (Barnelova ch. 5) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Foreldreansvar (Parental responsibility)",
+      "legislationIdentifier": "Barnelova ch. 5",
+      "jurisdiction": "Norway (Norge)",
+      "url": "https://lovdata.no/dokument/NL/lov/1981-04-08-7",
+      "datePublished": "1981",
+      "description": "Statutory basis for parental responsibility. § 34 establishes joint parental responsibility as the default for married and cohabiting parents; § 35 governs sole parental responsibility cases for parents who did not live together. Central provisions for any PA-adjacent custody-modification analysis."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Fast bosted og samvær (Residence and contact)",
+      "legislationIdentifier": "Barnelova ch. 6-7",
+      "jurisdiction": "Norway (Norge)",
+      "url": "https://lovdata.no/dokument/NL/lov/1981-04-08-7",
+      "datePublished": "1981",
+      "description": "Statutory framework for residence and contact arrangements. § 36 governs fast bosted (residence); § 42-44 govern samvær (contact). § 48 establishes barnets beste as the decisive standard."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Lov om helsepersonell mv.",
+      "legislationIdentifier": "Helsepersonelloven 1999 (Health Personnel Act)",
+      "jurisdiction": "Norway (Norge)",
+      "url": "https://lovdata.no/dokument/NL/lov/1999-07-02-64",
+      "datePublished": "1999",
+      "description": "Federal statute regulating health personnel including psychologists. Statutorily protected title 'psykolog' requires autorisasjon issued by Helsedirektoratet. Statutory anchor for evaluator-quality in court-appointed psychological assessments."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -238,3 +238,156 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Canada
+
+### Is parental alienation illegal in Canada?
+
+In Canada parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Canada?
+
+The primary statutory basis in Canada is Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021) — Divorce Act — best-interests-of-the-child standard. Authoritative text: <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>.
+
+### What is the leading court decision on parental alienation in Canada?
+
+The leading apex decision is Supreme Court of Canada is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017). (2001). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in Canada?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework (Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/canada/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Canada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Canada parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Canada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Canada is Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021) — Divorce Act — best-interests-of-the-child standard. Authoritative text: <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in Canada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is Supreme Court of Canada is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017). (2001). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Canada?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework (Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Divorce Act — best-interests-of-the-child standard",
+      "legislationIdentifier": "Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021)",
+      "jurisdiction": "Canada",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
+      "datePublished": "1985",
+      "description": "Federal substantive statute for divorce and parenting after divorce. Bill C-78 (in force 1 March 2021) rewrote s.16 with a non-exhaustive best-interests factor list including the explicit s.16(3)(j) family-violence factor and replaced 'custody / access' terminology with 'parenting time / decision-making responsibility / contact'. The substantive Canadian federal hook through which PA-adjacent fact-patterns are decided in divorce-jurisdiction cases."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Divorce Act s.16(3)(j) — family-violence factor",
+      "legislationIdentifier": "Divorce Act s.16(3)(j)",
+      "jurisdiction": "Canada",
+      "url": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
+      "datePublished": "2021",
+      "description": "Bill C-78 inserted explicit family-violence factor into s.16(3) requiring courts to consider any family violence, its nature, seriousness and frequency, and its impact on the child's safety and well-being. The substantive evidential frame against which PA-adjacent allegations are now decided in federal divorce-jurisdiction proceedings."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children's Law Reform Act (Ontario) — parenting orders for unmarried parents",
+      "legislationIdentifier": "Children's Law Reform Act R.S.O. 1990, c. C.12 (Ontario)",
+      "jurisdiction": "Canada",
+      "url": "https://www.ontario.ca/laws/statute/90c12",
+      "datePublished": "1990",
+      "description": "Ontario provincial substantive statute for unmarried parents' parenting orders. s.24 best-interests-of-the-child test and s.112 Office of the Children's Lawyer Clinical Investigator authority. Substantive Ontario hook for PA-adjacent fact-patterns outside the Divorce Act."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Child, Youth and Family Services Act 2017 (CYFSA) — Ontario child-protection statute",
+      "legislationIdentifier": "Child, Youth and Family Services Act 2017 (Ontario)",
+      "jurisdiction": "Canada",
+      "url": "https://www.ontario.ca/laws/statute/17c14",
+      "datePublished": "2017",
+      "description": "Ontario child-protection statute replacing the prior CFSA. s.89 Office of the Children's Lawyer Legal Representation authority. Provides the child-protection statutory hook within which OCL Clinical Investigator reports operationalise PA-construct engagement when child-protection concerns intersect with parenting disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Code civil du Quebec — droit de la famille (Livre II)",
+      "legislationIdentifier": "Code civil du Quebec (CCQ) Livre deuxième - De la famille (art. 522-612)",
+      "jurisdiction": "Canada",
+      "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
+      "datePublished": "1991",
+      "description": "Quebec civil-law substantive code of family law. Articles relatifs à la filiation, l'autorité parentale, la garde, la tutelle. Quebec is the only Canadian province operating under civil-law tradition; PA-construct adjudication in Quebec runs through CCQ + Cour supérieure du Québec rather than common-law provincial-statute frame."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Loi sur la protection de la jeunesse — protection de la jeunesse Quebec",
+      "legislationIdentifier": "Loi sur la protection de la jeunesse (LPJ, Quebec)",
+      "jurisdiction": "Canada",
+      "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/P-34.1",
+      "datePublished": "1977",
+      "description": "Statut quebecois de protection de la jeunesse administre par la Direction de la protection de la jeunesse (DPJ). Cadre quebecois dans lequel les situations PA-adjacent intersectees avec preoccupations de protection peuvent etre evaluees. Distinct du regime federal de la Loi sur le divorce."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Supreme Court of Canada is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).",
+      "datePublished": "2001",
+      "courtName": "Supreme Court of Canada"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Williamson v. Williamson 2016 BCCA 87",
+      "datePublished": "2016",
+      "courtName": "Provincial Courts of Appeal (Ontario CA / BCCA / Quebec CA / Alberta CA / etc.)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Provincial appellate courts review trial-level family-court PA decisions; no apex restriction analogous to England-and-Wales Re Y [2026] EWFC 38 on unregulated evaluators has been established at provincial-appellate level. Regulator scrutiny of PA-evaluator qualifications happens case-by-case rather than via single apex restriction.",
+      "datePublished": "2026",
+      "courtName": "Provincial Courts of Appeal (Ontario CA / BCCA / Quebec CA / Alberta CA / etc.)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "L.A.G. v. D.K.B., 2009 CanLII 6452 (ON SC)",
+      "datePublished": "2009",
+      "courtName": "Provincial Superior Courts — Ontario SCJ / Cour supérieure du Québec / BC SC / Alberta KB",
+      "url": "https://knowledge.antialienate.com/case-studies/lag-v-dkb-2009-ontario/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Provincial superior courts (Ontario SCJ, Cour supérieure du Québec, BC Supreme Court, Alberta Court of King's Bench) are the principal trial-level forum for PA-adjacent fact-patterns. The bulk of Canadian PA reasoning happens here, informed by OCL / provincial-equivalent reporting officers and CPA-affiliated forensic experts.",
+      "datePublished": "2026",
+      "courtName": "Provincial Superior Courts — Ontario SCJ / Cour supérieure du Québec / BC SC / Alberta KB"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

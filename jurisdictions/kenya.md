@@ -223,3 +223,104 @@ Kenyan High Court and Court of Appeal family-law judgments anonymise minor child
 - [Parallel Parenting High Conflict Survival Guide](https://www.antialienate.com/blog/parallel-parenting-high-conflict-survival-guide)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Kenya (Republic of Kenya / Jamhuri ya Kenya)
+
+### Is parental alienation illegal in Kenya (Republic of Kenya / Jamhuri ya Kenya)?
+
+In Kenya (Republic of Kenya / Jamhuri ya Kenya) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in Kenya (Republic of Kenya / Jamhuri ya Kenya)?
+
+The primary statutory basis in Kenya (Republic of Kenya / Jamhuri ya Kenya) is Constitution of Kenya 2010 art. 53 — Constitutional child-rights framework. Authoritative text: <https://www.kenyalaw.org/lex/actview.xql?actid=Const2010>.
+
+### What can a parent do if their child is being withheld from them in Kenya (Republic of Kenya / Jamhuri ya Kenya)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Kenya (Republic of Kenya / Jamhuri ya Kenya)'s best-interests-of-the-child framework (Constitution of Kenya 2010 art. 53) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/kenya/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Kenya (Republic of Kenya / Jamhuri ya Kenya)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Kenya (Republic of Kenya / Jamhuri ya Kenya) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Kenya (Republic of Kenya / Jamhuri ya Kenya)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Kenya (Republic of Kenya / Jamhuri ya Kenya) is Constitution of Kenya 2010 art. 53 — Constitutional child-rights framework. Authoritative text: <https://www.kenyalaw.org/lex/actview.xql?actid=Const2010>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Kenya (Republic of Kenya / Jamhuri ya Kenya)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Kenya (Republic of Kenya / Jamhuri ya Kenya)'s best-interests-of-the-child framework (Constitution of Kenya 2010 art. 53) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitutional child-rights framework",
+      "legislationIdentifier": "Constitution of Kenya 2010 art. 53",
+      "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
+      "url": "https://www.kenyalaw.org/lex/actview.xql?actid=Const2010",
+      "datePublished": "2010",
+      "description": "Constitution of Kenya 2010 art. 53 establishing constitutionally-grounded child-rights framework including BIC paramount standard. Constitution art. 170 establishes Kadhi courts for Muslim personal-status matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Comprehensive child-rights statute",
+      "legislationIdentifier": "Children Act 2022 (No. 29 of 2022)",
+      "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
+      "url": "https://www.kenyalaw.org/akn/ke/act/2022/29",
+      "datePublished": "2022",
+      "description": "Children Act 2022 effective 26 July 2022 replacing 2001 Children Act. Establishes parental responsibility framework, BIC paramount standard, child-participation rights, and child-protection-measures. Substantively transformative 21st-century Kenyan child-rights reform."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Comprehensive marriage statute",
+      "legislationIdentifier": "Marriage Act 2014 (No. 4 of 2014)",
+      "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
+      "url": "https://www.kenyalaw.org/akn/ke/act/2014/4",
+      "datePublished": "2014",
+      "description": "Marriage Act 2014 consolidating five categories of marriage (Christian, civil, customary, Hindu, Islamic). Substantively significant institutional reform unifying Kenyan marriage framework with respect for legal pluralism."
+    },
+    {
+      "@type": "Legislation",
+      "name": "DV-protection statute",
+      "legislationIdentifier": "Protection Against Domestic Violence Act 2015",
+      "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
+      "url": "https://www.kenyalaw.org/akn/ke/act/2015/2",
+      "datePublished": "2015",
+      "description": "Protection Against Domestic Violence Act 2015 establishing DV-protection framework with protection-order procedure. Substantively significant for DV-PA-allegation intersection cases."
+    },
+    {
+      "@type": "Legislation",
+      "name": "International child-rights ratifications",
+      "legislationIdentifier": "Kenya ratifies UN CRC + African Charter on Rights and Welfare of the Child",
+      "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
+      "url": "https://www.unicef.org/kenya/",
+      "datePublished": "1990",
+      "description": "Kenya ratified UN CRC 30 July 1990. Ratified African Charter on the Rights and Welfare of the Child 25 July 2000. Substantively foundational international child-rights framework subsequently incorporated via Constitution 2010 art. 53 and Children Act 2022."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

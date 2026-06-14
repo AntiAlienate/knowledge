@@ -231,3 +231,104 @@ Singapore Family Justice Courts impose STRICT anonymisation: all parties in divo
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Singapore (Republic of Singapore / 新加坡共和国)
+
+### Is parental alienation illegal in Singapore (Republic of Singapore / 新加坡共和国)?
+
+In Singapore (Republic of Singapore / 新加坡共和国) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in Singapore (Republic of Singapore / 新加坡共和国)?
+
+The primary statutory basis in Singapore (Republic of Singapore / 新加坡共和国) is Women's Charter (Act No. 18 of 1961, Cap. 353) — Primary civil marriage and divorce statute. Authoritative text: <https://sso.agc.gov.sg/Act/WC1961>.
+
+### What can a parent do if their child is being withheld from them in Singapore (Republic of Singapore / 新加坡共和国)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Singapore (Republic of Singapore / 新加坡共和国)'s best-interests-of-the-child framework (Women's Charter (Act No. 18 of 1961, Cap. 353)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/singapore/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Singapore (Republic of Singapore / 新加坡共和国)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Singapore (Republic of Singapore / 新加坡共和国) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Singapore (Republic of Singapore / 新加坡共和国)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Singapore (Republic of Singapore / 新加坡共和国) is Women's Charter (Act No. 18 of 1961, Cap. 353) — Primary civil marriage and divorce statute. Authoritative text: <https://sso.agc.gov.sg/Act/WC1961>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Singapore (Republic of Singapore / 新加坡共和国)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Singapore (Republic of Singapore / 新加坡共和国)'s best-interests-of-the-child framework (Women's Charter (Act No. 18 of 1961, Cap. 353)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Primary civil marriage and divorce statute",
+      "legislationIdentifier": "Women's Charter (Act No. 18 of 1961, Cap. 353)",
+      "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
+      "url": "https://sso.agc.gov.sg/Act/WC1961",
+      "datePublished": "1961",
+      "description": "Women's Charter 1961 establishing civil marriage and divorce framework for non-Muslim Singaporeans. Substantively foundational 20th-century Singapore family-law statute — extensively amended including Part X welfare-of-children framework and Maintenance of Parents Act 1995 intersection."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Islamic personal-status statute",
+      "legislationIdentifier": "Administration of Muslim Law Act (AMLA, Cap. 3)",
+      "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
+      "url": "https://sso.agc.gov.sg/Act/AMLA1966",
+      "datePublished": "1966",
+      "description": "Administration of Muslim Law Act (AMLA) 1966 establishing Syariah Court framework for Muslim personal-status matters including marriage, divorce, and custody. Substantively significant Islamic personal-status framework operating in parallel with Women's Charter framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Justice Courts establishment",
+      "legislationIdentifier": "Family Justice Act 2014",
+      "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
+      "url": "https://sso.agc.gov.sg/Act/FJA2014",
+      "datePublished": "2014",
+      "description": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. Substantively transformative institutional reform."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Guardianship and custody statute",
+      "legislationIdentifier": "Guardianship of Infants Act (Cap. 122)",
+      "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
+      "url": "https://sso.agc.gov.sg/Act/GIA1934",
+      "datePublished": "1934",
+      "description": "Guardianship of Infants Act 1934 establishing guardianship and custody framework for non-divorce contexts. Substantively foundational pre-Women's-Charter children's-law statute — operationally significant for non-marital and non-divorce custody disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Hague Convention implementation",
+      "legislationIdentifier": "International Child Abduction Act 2010 (Cap. 143C)",
+      "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
+      "url": "https://sso.agc.gov.sg/Act/ICAA2010",
+      "datePublished": "2010",
+      "description": "International Child Abduction Act 2010 implementing 1980 Hague Convention obligations. Singapore acceded to 1980 Hague Convention 28 December 2010 (in force 1 March 2011). Substantively significant international-abduction framework."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

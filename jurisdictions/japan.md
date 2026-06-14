@@ -229,3 +229,104 @@ Japanese Supreme Court and High Court judgments may name adult parties in publis
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Japan (日本国 / Nihon-koku)
+
+### Is parental alienation illegal in Japan (日本国 / Nihon-koku)?
+
+In Japan (日本国 / Nihon-koku) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in Japan (日本国 / Nihon-koku)?
+
+The primary statutory basis in Japan (日本国 / Nihon-koku) is 民法 (Minpō) arts. 766-839 — Civil Code — parental authority and custody provisions. Authoritative text: <https://elaws.e-gov.go.jp/document?lawid=129AC0000000089>.
+
+### What can a parent do if their child is being withheld from them in Japan (日本国 / Nihon-koku)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Japan (日本国 / Nihon-koku)'s best-interests-of-the-child framework (民法 (Minpō) arts. 766-839) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/japan/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Japan (日本国 / Nihon-koku)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Japan (日本国 / Nihon-koku) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Japan (日本国 / Nihon-koku)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Japan (日本国 / Nihon-koku) is 民法 (Minpō) arts. 766-839 — Civil Code — parental authority and custody provisions. Authoritative text: <https://elaws.e-gov.go.jp/document?lawid=129AC0000000089>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Japan (日本国 / Nihon-koku)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Japan (日本国 / Nihon-koku)'s best-interests-of-the-child framework (民法 (Minpō) arts. 766-839) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Code — parental authority and custody provisions",
+      "legislationIdentifier": "民法 (Minpō) arts. 766-839",
+      "jurisdiction": "Japan (日本国 / Nihon-koku)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=129AC0000000089",
+      "datePublished": "1898",
+      "description": "Primary statutory basis for parental authority (親権 shinken) and custody — substantively foundational since 1898 Meiji Civil Code. Art. 766 governs post-divorce custody and visitation; restructured by 2024 amendment introducing joint custody (effective 2026)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Code Partial Amendment 2024 — joint custody framework",
+      "legislationIdentifier": "民法一部改正 (令和6年法律33号)",
+      "jurisdiction": "Japan (日本国 / Nihon-koku)",
+      "url": "https://www.moj.go.jp/MINJI/minji07_00337.html",
+      "datePublished": "2024",
+      "description": "Reiwa 6 (2024) Civil Code Partial Amendment introducing joint custody (共同親権 kyōdō shinken) as elective option post-divorce, effective 2026. Substantively transformative reform ending Japan's distinctive sole-custody default."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Act for Implementation of the Convention on the Civil Aspects of International Child Abduction",
+      "legislationIdentifier": "ハーグ条約実施法 (Hague Convention Implementation Act)",
+      "jurisdiction": "Japan (日本国 / Nihon-koku)",
+      "url": "https://www.mofa.go.jp/mofaj/gaiko/hague/index.html",
+      "datePublished": "2014",
+      "description": "Japan acceded to 1980 Hague Abduction Convention 24 January 2014, in force 1 April 2014. Implementation Act establishes Central Authority procedure — substantively significant for international-abduction framework, addressing persistent international concern."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Kaji-jiken Tetsuzuki Hō",
+      "legislationIdentifier": "家事事件手続法 (Domestic Relations Case Procedure Act)",
+      "jurisdiction": "Japan (日本国 / Nihon-koku)",
+      "url": "https://elaws.e-gov.go.jp/document?lawid=423AC0000000052",
+      "datePublished": "2013",
+      "description": "Procedural code for family-court proceedings (effective 2013) replacing prior 1947 framework. Establishes mediation (調停 chōtei) and adjudication (審判 shinpan) procedures applicable to custody/visitation disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "United Nations Convention on the Rights of the Child",
+      "legislationIdentifier": "Japan ratifies UN CRC",
+      "jurisdiction": "Japan (日本国 / Nihon-koku)",
+      "url": "https://www.mofa.go.jp/mofaj/gaiko/jido/",
+      "datePublished": "1994",
+      "description": "Japan ratified UN CRC 22 April 1994 (effective 22 May 1994). Establishes 子の福祉 (ko-no-fukushi, welfare-of-the-child) standard with international-treaty grounding."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

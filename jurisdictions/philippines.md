@@ -186,3 +186,86 @@ Philippine family-law decisions of higher courts (CA, SC) are typically publishe
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Philippines
+
+### Is parental alienation illegal in the Philippines?
+
+In the Philippines parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in the Philippines?
+
+The primary statutory basis in the Philippines is Family Code (EO 209/1987) arts. 209-233 — Family Code — Parental authority. Authoritative text: <https://lawphil.net/>.
+
+### What can a parent do if their child is being withheld from them in the Philippines?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Philippines's best-interests-of-the-child framework (Family Code (EO 209/1987) arts. 209-233) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/philippines/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in the Philippines?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In the Philippines parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in the Philippines?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in the Philippines is Family Code (EO 209/1987) arts. 209-233 — Family Code — Parental authority. Authoritative text: <https://lawphil.net/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in the Philippines?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Philippines's best-interests-of-the-child framework (Family Code (EO 209/1987) arts. 209-233) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Code — Parental authority",
+      "legislationIdentifier": "Family Code (EO 209/1987) arts. 209-233",
+      "jurisdiction": "Philippines",
+      "url": "https://lawphil.net/",
+      "datePublished": "1987",
+      "description": "Federal statute on family law. Arts. 209-233 govern parental authority; joint exercise during marriage is the statutory default. The Philippines does not have divorce — annulment and legal separation operate as alternatives."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Courts Act 1997",
+      "legislationIdentifier": "Family Courts Act (RA 8369/1997)",
+      "jurisdiction": "Philippines",
+      "url": "https://lawphil.net/",
+      "datePublished": "1997",
+      "description": "Federal statute establishing specialised Family Courts with jurisdiction over family-law matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Psychology Act of 2009",
+      "legislationIdentifier": "Psychology Act (RA 10029/2009)",
+      "jurisdiction": "Philippines",
+      "url": "https://lawphil.net/",
+      "datePublished": "2009",
+      "description": "Federal statute regulating the psychology profession. Establishes the Professional Regulatory Board of Psychology under the Professional Regulation Commission. Statutory title protection for psychologist and psychometrician."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

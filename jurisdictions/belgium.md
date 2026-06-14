@@ -237,3 +237,104 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 - [Supervised Visits Belgium Parental Alienation](https://www.antialienate.com/blog/supervised-visits-belgium-parental-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Belgium (Royaume de Belgique / Koninkrijk België)
+
+### Is parental alienation illegal in Belgium (Royaume de Belgique / Koninkrijk België)?
+
+In Belgium (Royaume de Belgique / Koninkrijk België) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in Belgium (Royaume de Belgique / Koninkrijk België)?
+
+The primary statutory basis in Belgium (Royaume de Belgique / Koninkrijk België) is Code civil arts. 371-387ter — Autorité parentale / Ouderlijk gezag. Authoritative text: <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>.
+
+### What can a parent do if their child is being withheld from them in Belgium (Royaume de Belgique / Koninkrijk België)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Belgium (Royaume de Belgique / Koninkrijk België)'s best-interests-of-the-child framework (Code civil arts. 371-387ter) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/belgium/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Belgium (Royaume de Belgique / Koninkrijk België)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Belgium (Royaume de Belgique / Koninkrijk België) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Belgium (Royaume de Belgique / Koninkrijk België)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Belgium (Royaume de Belgique / Koninkrijk België) is Code civil arts. 371-387ter — Autorité parentale / Ouderlijk gezag. Authoritative text: <https://www.ejustice.just.fgov.be/cgi_loi/loi.pl>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Belgium (Royaume de Belgique / Koninkrijk België)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Belgium (Royaume de Belgique / Koninkrijk België)'s best-interests-of-the-child framework (Code civil arts. 371-387ter) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Autorité parentale / Ouderlijk gezag",
+      "legislationIdentifier": "Code civil arts. 371-387ter",
+      "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
+      "datePublished": "1995",
+      "description": "Primary statutory basis for parental authority — restructured by Loi du 13 avril 1995 establishing autorité parentale conjointe (joint parental authority). Substantively foundational current parental-authority framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Loi tendant à privilégier l'hébergement égalitaire de l'enfant dont les parents sont séparés",
+      "legislationIdentifier": "Loi du 18 juillet 2006 (hébergement égalitaire)",
+      "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
+      "datePublished": "2006",
+      "description": "Establishes hébergement égalitaire (egalitarian residence / week) as default-presumption post-separation framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Loi portant création d'un tribunal de la famille et de la jeunesse",
+      "legislationIdentifier": "Loi du 30 juillet 2013 (Tribunal de la famille et de la jeunesse)",
+      "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
+      "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
+      "datePublished": "2013",
+      "description": "Establishes Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014 — substantively significant institutional reform unifying Belgian family-law procedural framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitutional child-rights framework",
+      "legislationIdentifier": "Constitution belge art. 22bis",
+      "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
+      "url": "https://www.const-court.be/en/basic-text/belgian-constitution",
+      "datePublished": "2008",
+      "description": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "legislationIdentifier": "Convention d'Istanbul art. 31",
+      "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
+      "url": "https://rm.coe.int/168008482e",
+      "datePublished": "2016",
+      "description": "Ratified by Belgium 14 March 2016, in force 1 July 2016. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection of DV allegations."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

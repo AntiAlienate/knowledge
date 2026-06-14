@@ -180,3 +180,86 @@ Danish family-law decisions are anonymised per Højesteret and Landsret practice
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Denmark (Danmark)
+
+### Is parental alienation illegal in Denmark (Danmark)?
+
+In Denmark (Danmark) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Denmark (Danmark)?
+
+The primary statutory basis in Denmark (Danmark) is Forældreansvarsloven 2007 — Parental Responsibility Act 2007. Authoritative text: <https://www.retsinformation.dk/eli/lta/2007/499>.
+
+### What can a parent do if their child is being withheld from them in Denmark (Danmark)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Denmark (Danmark)'s best-interests-of-the-child framework (Forældreansvarsloven 2007) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/denmark/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Denmark (Danmark)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Denmark (Danmark) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Denmark (Danmark)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Denmark (Danmark) is Forældreansvarsloven 2007 — Parental Responsibility Act 2007. Authoritative text: <https://www.retsinformation.dk/eli/lta/2007/499>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Denmark (Danmark)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Denmark (Danmark)'s best-interests-of-the-child framework (Forældreansvarsloven 2007) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Parental Responsibility Act 2007",
+      "legislationIdentifier": "Forældreansvarsloven 2007",
+      "jurisdiction": "Denmark (Danmark)",
+      "url": "https://www.retsinformation.dk/eli/lta/2007/499",
+      "datePublished": "2007",
+      "description": "Federal statute consolidating parental responsibility, residence and contact. § 4 establishes joint parental responsibility as the default. § 17 governs decisions on residence; § 19-21 govern contact. § 4 also codifies the barnets bedste welfare standard as decisive."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Court Administration Act 2018",
+      "legislationIdentifier": "Lov om Familieretshuset 2018",
+      "jurisdiction": "Denmark (Danmark)",
+      "url": "https://www.retsinformation.dk/eli/lta/2018/1702",
+      "datePublished": "2018",
+      "description": "Established Familieretshuset (the Family Court Administration) and the Familieretten specialist family court at District Court level. In force 1 April 2019. Substantial restructuring of the family-law pathway with administrative-first determination by Familieretshuset and judicial review by Familieretten for contested matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Psychology Act 1993",
+      "legislationIdentifier": "Psykologloven 1993",
+      "jurisdiction": "Denmark (Danmark)",
+      "url": "https://www.retsinformation.dk/eli/lta/1993/494",
+      "datePublished": "1993",
+      "description": "Federal statute regulating the psychology profession. Statutorily protected title 'psykolog' requires autorisasjon issued by Psykolognævnet under the Ministry of Social Affairs. Statutory anchor for evaluator-quality."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

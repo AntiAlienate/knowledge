@@ -182,3 +182,95 @@ Portuguese family-law decisions are anonymised per STJ convention using initials
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Portugal
+
+### Is parental alienation illegal in Portugal?
+
+In Portugal parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Portugal?
+
+The primary statutory basis in Portugal is Código Civil arts. 1901-1912 — Responsabilidades parentais (Parental responsibilities). Authoritative text: <https://dre.pt/dre/legislacao-consolidada/decreto-lei/1966-34509075>.
+
+### What can a parent do if their child is being withheld from them in Portugal?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Portugal's best-interests-of-the-child framework (Código Civil arts. 1901-1912) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/portugal/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Portugal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Portugal parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Portugal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Portugal is Código Civil arts. 1901-1912 — Responsabilidades parentais (Parental responsibilities). Authoritative text: <https://dre.pt/dre/legislacao-consolidada/decreto-lei/1966-34509075>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Portugal?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Portugal's best-interests-of-the-child framework (Código Civil arts. 1901-1912) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Responsabilidades parentais (Parental responsibilities)",
+      "legislationIdentifier": "Código Civil arts. 1901-1912",
+      "jurisdiction": "Portugal",
+      "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1966-34509075",
+      "datePublished": "2008",
+      "description": "Federal civil-code basis for parental responsibilities. Lei 61/2008 reform in force 30 November 2008 established joint exercise of parental responsibilities as the default following divorce/separation. Art. 1906 governs the regime of exercise; art. 1907-1908 govern alteration of the regime."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Regime Geral do Processo Tutelar Cível",
+      "legislationIdentifier": "Lei 141/2015 — RGPTC",
+      "jurisdiction": "Portugal",
+      "url": "https://dre.pt/dre/legislacao-consolidada/lei/2015-79202050",
+      "datePublished": "2015",
+      "description": "Procedural framework for tutelar cível (civil-tutelary) proceedings before the Juízo de Família e Menores. Governs custody-modification, contact-enforcement, and audição da criança (hearing of the child) procedures."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Estatuto da Ordem dos Psicólogos Portugueses",
+      "legislationIdentifier": "Lei 57/2008 — Ordem dos Psicólogos Portugueses",
+      "jurisdiction": "Portugal",
+      "url": "https://dre.pt/dre/legislacao-consolidada/lei/2008-138562088",
+      "datePublished": "2008",
+      "description": "Federal statute establishing the Ordem dos Psicólogos Portugueses (OPP) as the statutory professional-order regulator. Statutory title protection for 'psicólogo'; mandatory cédula profissional for practising psychologists; disciplinary jurisdiction over registered members."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitutional family and parental-responsibility provisions",
+      "legislationIdentifier": "Constituição da República Portuguesa art. 36/5",
+      "jurisdiction": "Portugal",
+      "url": "https://dre.pt/dre/legislacao-consolidada/decreto-lei/1976-34520775",
+      "datePublished": "1976",
+      "description": "Constitutional basis for family and parental-responsibility law. Art. 36/5 establishes that parents have the right and duty of education and maintenance of the children; cited in welfare-paramountcy analyses."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

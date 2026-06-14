@@ -248,3 +248,104 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Italy (Repubblica Italiana)
+
+### Is parental alienation illegal in Italy (Repubblica Italiana)?
+
+In Italy (Repubblica Italiana) parental alienation is neither prohibited nor named in statute. The apex court has rejected the construct as pseudoscientific.
+
+### What law covers withholding a child from a parent in Italy (Repubblica Italiana)?
+
+The primary statutory basis in Italy (Repubblica Italiana) is Codice civile arts. 315-bis à 337-octies — Responsabilità genitoriale e diritti e doveri del figlio. Authoritative text: <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile>.
+
+### What can a parent do if their child is being withheld from them in Italy (Repubblica Italiana)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Italy (Repubblica Italiana)'s best-interests-of-the-child framework (Codice civile arts. 315-bis à 337-octies) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/italy/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Italy (Repubblica Italiana)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Italy (Repubblica Italiana) parental alienation is neither prohibited nor named in statute. The apex court has rejected the construct as pseudoscientific."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Italy (Repubblica Italiana)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Italy (Repubblica Italiana) is Codice civile arts. 315-bis à 337-octies — Responsabilità genitoriale e diritti e doveri del figlio. Authoritative text: <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Italy (Repubblica Italiana)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Italy (Repubblica Italiana)'s best-interests-of-the-child framework (Codice civile arts. 315-bis à 337-octies) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Responsabilità genitoriale e diritti e doveri del figlio",
+      "legislationIdentifier": "Codice civile arts. 315-bis à 337-octies",
+      "jurisdiction": "Italy (Repubblica Italiana)",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:codice.civile",
+      "datePublished": "2013",
+      "description": "Primary statutory basis for parental responsibility — restructured by D.lgs. 28 dicembre 2013 n. 154 replacing potestà genitoriale with responsabilità genitoriale. Establishes affidamento condiviso (shared custody) framework under arts. 337-ter et seq."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Disposizioni in materia di separazione dei genitori e affidamento condiviso dei figli",
+      "legislationIdentifier": "Legge 8 febbraio 2006 n. 54 (affidamento condiviso)",
+      "jurisdiction": "Italy (Repubblica Italiana)",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-08;54",
+      "datePublished": "2006",
+      "description": "Establishes affidamento condiviso (shared parental responsibility) as default post-separation framework — substantively transformative gender-equal parental-rights reform."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Tutela delle vittime di violenza domestica e di genere",
+      "legislationIdentifier": "Legge 19 luglio 2019 n. 69 (Codice Rosso)",
+      "jurisdiction": "Italy (Repubblica Italiana)",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-07-19;69",
+      "datePublished": "2019",
+      "description": "Codice Rosso strengthens DV-protection framework with expedited judicial procedure — substantively significant DV-PA-allegation intersection mechanism."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "legislationIdentifier": "Convenzione di Istanbul art. 31",
+      "jurisdiction": "Italy (Repubblica Italiana)",
+      "url": "https://rm.coe.int/168008482e",
+      "datePublished": "2014",
+      "description": "Ratified by Italy 10 September 2013, in force 1 August 2014. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Riforma del processo civile e del processo per le persone, per i minorenni e per le famiglie",
+      "legislationIdentifier": "D.lgs. 10 ottobre 2022 n. 149 (riforma Cartabia)",
+      "jurisdiction": "Italy (Repubblica Italiana)",
+      "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;149",
+      "datePublished": "2022",
+      "description": "Riforma Cartabia comprehensively restructures family-law procedure, establishing Tribunale per le persone, per i minorenni e per le famiglie (effective 17 October 2024) — substantively significant procedural reform."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -227,3 +227,104 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Australia (Commonwealth of Australia)
+
+### Is parental alienation illegal in Australia (Commonwealth of Australia)?
+
+In Australia (Commonwealth of Australia) parental alienation is neither prohibited nor named in statute. The apex court applies the underlying conduct within the best-interests-of-the-child framework rather than as a free-standing diagnostic label.
+
+### What law covers withholding a child from a parent in Australia (Commonwealth of Australia)?
+
+The primary statutory basis in Australia (Commonwealth of Australia) is Family Law Act 1975 (Cth) Part VII — Children — parental responsibility and parenting orders. Authoritative text: <https://www.legislation.gov.au/C2004A00275/latest/text>.
+
+### What can a parent do if their child is being withheld from them in Australia (Commonwealth of Australia)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Australia (Commonwealth of Australia)'s best-interests-of-the-child framework (Family Law Act 1975 (Cth) Part VII) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/australia/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Australia (Commonwealth of Australia)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Australia (Commonwealth of Australia) parental alienation is neither prohibited nor named in statute. The apex court applies the underlying conduct within the best-interests-of-the-child framework rather than as a free-standing diagnostic label."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Australia (Commonwealth of Australia)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Australia (Commonwealth of Australia) is Family Law Act 1975 (Cth) Part VII — Children — parental responsibility and parenting orders. Authoritative text: <https://www.legislation.gov.au/C2004A00275/latest/text>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Australia (Commonwealth of Australia)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Australia (Commonwealth of Australia)'s best-interests-of-the-child framework (Family Law Act 1975 (Cth) Part VII) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children — parental responsibility and parenting orders",
+      "legislationIdentifier": "Family Law Act 1975 (Cth) Part VII",
+      "jurisdiction": "Australia (Commonwealth of Australia)",
+      "url": "https://www.legislation.gov.au/C2004A00275/latest/text",
+      "datePublished": "1975",
+      "description": "Primary statutory basis for Australian family law — substantively foundational since 1975 establishing no-fault divorce framework. Part VII (children) extensively amended by 2006, 2011, 2023 reforms. Section 60CC enumerates BIC considerations."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Amendment Act effective 6 May 2024",
+      "legislationIdentifier": "Family Law Amendment Act 2023 (Cth)",
+      "jurisdiction": "Australia (Commonwealth of Australia)",
+      "url": "https://www.legislation.gov.au/C2023A00087/latest/text",
+      "datePublished": "2023",
+      "description": "Substantively transformative 2023 amendment effective 6 May 2024 — repealing s 61DA presumption of equal shared parental responsibility and the related compulsory consideration of equal/substantial-and-significant time. Restructures s 60CC BIC framework and codifies non-acceptance of pseudo-scientific concepts in parenting matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Hague Abduction Convention implementation",
+      "legislationIdentifier": "Family Law (Child Abduction Convention) Regulations 1986",
+      "jurisdiction": "Australia (Commonwealth of Australia)",
+      "url": "https://www.legislation.gov.au/F1996B02756/latest/text",
+      "datePublished": "1986",
+      "description": "Australia ratified 1980 Hague Abduction Convention 29 October 1986 (in force 1 January 1987). Regulations implement Hague Convention obligations — substantively significant international-abduction framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "United Nations Convention on the Rights of the Child",
+      "legislationIdentifier": "Australia ratifies UN CRC",
+      "jurisdiction": "Australia (Commonwealth of Australia)",
+      "url": "https://www.dfat.gov.au/international-relations/themes/human-rights/treaties",
+      "datePublished": "1990",
+      "description": "Australia ratified UN CRC 17 December 1990 (in force 16 January 1991). Establishes international child-rights framework informing Family Law Act BIC interpretation."
+    },
+    {
+      "@type": "Legislation",
+      "name": "FCFCOA establishment",
+      "legislationIdentifier": "Federal Circuit and Family Court of Australia Act 2021 (Cth)",
+      "jurisdiction": "Australia (Commonwealth of Australia)",
+      "url": "https://www.legislation.gov.au/C2021A00013/latest/text",
+      "datePublished": "2021",
+      "description": "FCFCOA established 1 September 2021 merging Family Court of Australia and Federal Circuit Court of Australia. Substantively significant institutional reform consolidating Australian family-law judiciary into unified two-division court structure."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

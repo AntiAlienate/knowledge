@@ -235,3 +235,104 @@ Family Court of New Zealand proceedings under the Care of Children Act 2004 are 
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in New Zealand (Aotearoa New Zealand)
+
+### Is parental alienation illegal in New Zealand (Aotearoa New Zealand)?
+
+In New Zealand (Aotearoa New Zealand) parental alienation is neither prohibited nor named in statute. Case-law application within CoCA framework.
+
+### What law covers withholding a child from a parent in New Zealand (Aotearoa New Zealand)?
+
+The primary statutory basis in New Zealand (Aotearoa New Zealand) is Care of Children Act 2004 (CoCA) — Primary children's-law statute. Authoritative text: <https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317233.html>.
+
+### What can a parent do if their child is being withheld from them in New Zealand (Aotearoa New Zealand)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under New Zealand (Aotearoa New Zealand)'s best-interests-of-the-child framework (Care of Children Act 2004 (CoCA)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/new-zealand/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in New Zealand (Aotearoa New Zealand)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In New Zealand (Aotearoa New Zealand) parental alienation is neither prohibited nor named in statute. Case-law application within CoCA framework."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in New Zealand (Aotearoa New Zealand)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in New Zealand (Aotearoa New Zealand) is Care of Children Act 2004 (CoCA) — Primary children's-law statute. Authoritative text: <https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317233.html>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in New Zealand (Aotearoa New Zealand)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under New Zealand (Aotearoa New Zealand)'s best-interests-of-the-child framework (Care of Children Act 2004 (CoCA)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Primary children's-law statute",
+      "legislationIdentifier": "Care of Children Act 2004 (CoCA)",
+      "jurisdiction": "New Zealand (Aotearoa New Zealand)",
+      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317233.html",
+      "datePublished": "2004",
+      "description": "Care of Children Act 2004 (CoCA) enacted 21 November 2004 effective 1 July 2005 replacing Guardianship Act 1968. Establishes welfare-and-best-interests-of-the-child paramount standard (s 4), parenting-orders framework, and Treaty of Waitangi / tikanga Māori considerations (s 5(f)). Substantively foundational current NZ family-law statute."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Court establishment",
+      "legislationIdentifier": "Family Court Act 1980",
+      "jurisdiction": "New Zealand (Aotearoa New Zealand)",
+      "url": "https://www.legislation.govt.nz/act/public/1980/0161/latest/DLM42253.html",
+      "datePublished": "1980",
+      "description": "Family Court Act 1980 establishing specialised Family Court (Te Kōti Whānau) as division of District Court. Substantively foundational institutional framework — restructured via 2013 Family Court Reform Act."
+    },
+    {
+      "@type": "Legislation",
+      "name": "DV-protection statute",
+      "legislationIdentifier": "Family Violence Act 2018",
+      "jurisdiction": "New Zealand (Aotearoa New Zealand)",
+      "url": "https://www.legislation.govt.nz/act/public/2018/0046/latest/DLM7159322.html",
+      "datePublished": "2018",
+      "description": "Family Violence Act 2018 (effective 1 July 2019) replacing Domestic Violence Act 1995. Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Hague Convention implementation",
+      "legislationIdentifier": "Hague Abduction Convention (Care of Children Act 2004 Part 2 subpart 4)",
+      "jurisdiction": "New Zealand (Aotearoa New Zealand)",
+      "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317854.html",
+      "datePublished": "1991",
+      "description": "New Zealand ratified 1980 Hague Convention 18 May 1991 (in force 1 August 1991). CoCA Part 2 subpart 4 implements Hague Convention obligations — substantively significant international-abduction framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children's strategic framework statute",
+      "legislationIdentifier": "Children's Act 2014",
+      "jurisdiction": "New Zealand (Aotearoa New Zealand)",
+      "url": "https://www.legislation.govt.nz/act/public/2014/0040/latest/DLM5501618.html",
+      "datePublished": "2014",
+      "description": "Children's Act 2014 (renamed Oranga Tamariki Act 1989 framework) establishing strategic framework for children's wellbeing. Substantively significant Oranga Tamariki framework intersection with CoCA family-law adjudication."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

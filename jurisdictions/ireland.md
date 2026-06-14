@@ -192,3 +192,104 @@ Irish family-law decisions are anonymised per long-standing practice in family-l
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Ireland (Éire)
+
+### Is parental alienation illegal in Ireland (Éire)?
+
+In Ireland (Éire) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Ireland (Éire)?
+
+The primary statutory basis in Ireland (Éire) is Guardianship of Infants Act 1964 (as amended) — Guardianship of Infants Act 1964 — primary custody and guardianship statute. Authoritative text: <https://www.irishstatutebook.ie/eli/1964/act/7/enacted/en/html>.
+
+### What can a parent do if their child is being withheld from them in Ireland (Éire)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Ireland (Éire)'s best-interests-of-the-child framework (Guardianship of Infants Act 1964 (as amended)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/ireland/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Ireland (Éire)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Ireland (Éire) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Ireland (Éire)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Ireland (Éire) is Guardianship of Infants Act 1964 (as amended) — Guardianship of Infants Act 1964 — primary custody and guardianship statute. Authoritative text: <https://www.irishstatutebook.ie/eli/1964/act/7/enacted/en/html>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Ireland (Éire)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Ireland (Éire)'s best-interests-of-the-child framework (Guardianship of Infants Act 1964 (as amended)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Guardianship of Infants Act 1964 — primary custody and guardianship statute",
+      "legislationIdentifier": "Guardianship of Infants Act 1964 (as amended)",
+      "jurisdiction": "Ireland (Éire)",
+      "url": "https://www.irishstatutebook.ie/eli/1964/act/7/enacted/en/html",
+      "datePublished": "1964",
+      "description": "Primary statutory basis for custody, access and guardianship in Ireland. Section 3 establishes the welfare of the child as the first and paramount consideration. Substantively amended by the Children and Family Relationships Act 2015 to provide automatic guardianship for unmarried fathers in specified circumstances."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children and Family Relationships Act 2015",
+      "legislationIdentifier": "Children and Family Relationships Act 2015",
+      "jurisdiction": "Ireland (Éire)",
+      "url": "https://www.irishstatutebook.ie/eli/2015/act/9/enacted/en/html",
+      "datePublished": "2015",
+      "description": "Modernised the framework for guardianship, custody and access. Recognised diverse family structures and introduced statutory provisions for cohabiting partners and assisted human reproduction. Reformed unmarried fathers' guardianship provisions."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Bunreacht na hÉireann Article 42A — Children's Rights",
+      "legislationIdentifier": "Constitution of Ireland — Article 42A",
+      "jurisdiction": "Ireland (Éire)",
+      "url": "https://www.irishstatutebook.ie/eli/cons/en/html",
+      "datePublished": "2012",
+      "description": "Constitutional children's-rights provision inserted by the Thirty-first Amendment of the Constitution (Children) Act 2012, in force May 2015. Establishes that the State shall, as far as practicable, vindicate the rights of all children. Cited in welfare-paramountcy analyses including PA-adjacent custody-modification."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Law Act 1995 — divorce and separation",
+      "legislationIdentifier": "Family Law Act 1995",
+      "jurisdiction": "Ireland (Éire)",
+      "url": "https://www.irishstatutebook.ie/eli/1995/act/26/enacted/en/html",
+      "datePublished": "1995",
+      "description": "Primary statutory framework for judicial separation; sits alongside the Family Law (Divorce) Act 1996 enacted following the 1995 constitutional referendum legalising divorce in Ireland."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Health and Social Care Professionals Act 2005 (CORU)",
+      "legislationIdentifier": "Health and Social Care Professionals Act 2005",
+      "jurisdiction": "Ireland (Éire)",
+      "url": "https://www.irishstatutebook.ie/eli/2005/act/27/enacted/en/html",
+      "datePublished": "2005",
+      "description": "Statutory framework establishing CORU (the Health and Social Care Professionals Council) and the registration boards. Psychologists Register opened 1 March 2023; statutory title protection for 'psychologist' phased in from the same date."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

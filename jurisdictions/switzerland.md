@@ -195,3 +195,104 @@ Swiss family-law decisions are anonymised per BGer convention using initials (e.
 - [Parental Alienation Against Father](https://www.antialienate.com/blog/parental-alienation-against-father)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Switzerland (Schweiz / Suisse / Svizzera)
+
+### Is parental alienation illegal in Switzerland (Schweiz / Suisse / Svizzera)?
+
+In Switzerland (Schweiz / Suisse / Svizzera) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Switzerland (Schweiz / Suisse / Svizzera)?
+
+The primary statutory basis in Switzerland (Schweiz / Suisse / Svizzera) is ZGB art. 296-298 — Elterliche Sorge / Autorité parentale (Parental authority). Authoritative text: <https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de>.
+
+### What can a parent do if their child is being withheld from them in Switzerland (Schweiz / Suisse / Svizzera)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Switzerland (Schweiz / Suisse / Svizzera)'s best-interests-of-the-child framework (ZGB art. 296-298) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/switzerland/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Switzerland (Schweiz / Suisse / Svizzera)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Switzerland (Schweiz / Suisse / Svizzera) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Switzerland (Schweiz / Suisse / Svizzera)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Switzerland (Schweiz / Suisse / Svizzera) is ZGB art. 296-298 — Elterliche Sorge / Autorité parentale (Parental authority). Authoritative text: <https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Switzerland (Schweiz / Suisse / Svizzera)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Switzerland (Schweiz / Suisse / Svizzera)'s best-interests-of-the-child framework (ZGB art. 296-298) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Elterliche Sorge / Autorité parentale (Parental authority)",
+      "legislationIdentifier": "ZGB art. 296-298",
+      "jurisdiction": "Switzerland (Schweiz / Suisse / Svizzera)",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de",
+      "datePublished": "2014",
+      "description": "Federal civil-code basis for parental authority. Since the 1 July 2014 reform (joint-authority default amendment) joint parental authority applies by default regardless of marital status, with sole authority reserved for circumstances where it serves the child's welfare. Central provisions for any PA-adjacent custody-modification analysis."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Persönlicher Verkehr / Relations personnelles (Personal contact)",
+      "legislationIdentifier": "ZGB art. 273",
+      "jurisdiction": "Switzerland (Schweiz / Suisse / Svizzera)",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de",
+      "datePublished": "1976",
+      "description": "Federal civil-code basis for the right of personal contact between non-residential parent and child. Substantive hook for PA-adjacent contact-enforcement disputes. BGer practice treats refusal of contact and obstruction by the residential parent as factors under the Kindeswohl welfare analysis without endorsing PAS as a diagnostic label."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Kindesschutz / Protection de l'enfant (Child protection)",
+      "legislationIdentifier": "ZGB art. 307-315",
+      "jurisdiction": "Switzerland (Schweiz / Suisse / Svizzera)",
+      "url": "https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de",
+      "datePublished": "1976",
+      "description": "Federal civil-code basis for child-protection measures (Beistandschaft, Obhutsentzug, fremdplatzierung). Operationalised by KESB at first instance. Cited in PA-adjacent fact-patterns where sustained alienating conduct triggers protective intervention."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Federal Civil Procedure Code — family-court procedure",
+      "legislationIdentifier": "ZPO (Zivilprozessordnung) art. 295-302",
+      "jurisdiction": "Switzerland (Schweiz / Suisse / Svizzera)",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2010/262/de",
+      "datePublished": "2011",
+      "description": "Federal civil-procedure framework that since 1 January 2011 unified cantonal civil procedure. Art. 295-302 govern family-court procedure including child-hearing arrangements and expert evidence."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Federal Act on Psychology Professions",
+      "legislationIdentifier": "PsyG 2011 (Psychologieberufegesetz)",
+      "jurisdiction": "Switzerland (Schweiz / Suisse / Svizzera)",
+      "url": "https://www.fedlex.admin.ch/eli/cc/2012/796/de",
+      "datePublished": "2011",
+      "description": "Federal statute in force 1 April 2013 providing statutory title protection for psychologists and psychotherapists, regulating postgraduate training and the PsyKo (Psychologieberufekommission). Statutory anchor for evaluator-quality in court-appointed psychological assessments in family-court proceedings."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

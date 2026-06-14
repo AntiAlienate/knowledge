@@ -183,3 +183,77 @@ Thai family-court decisions are anonymised per Supreme Court practice using init
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Thailand (ประเทศไทย)
+
+### Is parental alienation illegal in Thailand (ประเทศไทย)?
+
+In Thailand (ประเทศไทย) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Thailand (ประเทศไทย)?
+
+The primary statutory basis in Thailand (ประเทศไทย) is Civil and Commercial Code Book 5 arts. 1566-1598/14 — CCC Book 5 — Family. Authoritative text: <https://www.krisdika.go.th/>.
+
+### What can a parent do if their child is being withheld from them in Thailand (ประเทศไทย)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Thailand (ประเทศไทย)'s best-interests-of-the-child framework (Civil and Commercial Code Book 5 arts. 1566-1598/14) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/thailand/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Thailand (ประเทศไทย)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Thailand (ประเทศไทย) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Thailand (ประเทศไทย)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Thailand (ประเทศไทย) is Civil and Commercial Code Book 5 arts. 1566-1598/14 — CCC Book 5 — Family. Authoritative text: <https://www.krisdika.go.th/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Thailand (ประเทศไทย)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Thailand (ประเทศไทย)'s best-interests-of-the-child framework (Civil and Commercial Code Book 5 arts. 1566-1598/14) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "CCC Book 5 — Family",
+      "legislationIdentifier": "Civil and Commercial Code Book 5 arts. 1566-1598/14",
+      "jurisdiction": "Thailand (ประเทศไทย)",
+      "url": "https://www.krisdika.go.th/",
+      "datePublished": "1935",
+      "description": "Federal civil code governing family law including parental power (amnaj pokkrong); joint exercise during marriage is the statutory default. Substantially amended over time."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Juvenile and Family Court and Procedure Act",
+      "legislationIdentifier": "Juvenile and Family Court and Procedure Act 2010",
+      "jurisdiction": "Thailand (ประเทศไทย)",
+      "url": "https://www.krisdika.go.th/",
+      "datePublished": "2010",
+      "description": "Federal procedural statute for specialised Juvenile and Family Courts."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

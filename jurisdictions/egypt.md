@@ -229,3 +229,149 @@ Egyptian family courts treat personal-status proceedings with confidentiality; m
 - [How To File Police Report Custody Dispute Belgium](https://www.antialienate.com/blog/how-to-file-police-report-custody-dispute-belgium)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Egypt (مصر / Miṣr)
+
+### Is parental alienation illegal in Egypt (مصر / Miṣr)?
+
+In Egypt (مصر / Miṣr) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Egypt (مصر / Miṣr)?
+
+The primary statutory basis in Egypt (مصر / Miṣr) is Constitution of Egypt 2014 art. 80 — Constitution of Egypt 2014 — children's rights. Authoritative text: <https://www.constituteproject.org/constitution/Egypt_2014>.
+
+### What is the leading court decision on parental alienation in Egypt (مصر / Miṣr)?
+
+The leading apex decision is Supreme Constitutional Court is the apex constitutional court. No PA-construct-specific apex decision identified. Has addressed Personal Status Law constitutional challenges including Coptic remarriage and divorce questions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in Egypt (مصر / Miṣr)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Egypt (مصر / Miṣr)'s best-interests-of-the-child framework (Constitution of Egypt 2014 art. 80) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/egypt/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Egypt (مصر / Miṣr)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Egypt (مصر / Miṣr) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Egypt (مصر / Miṣr)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Egypt (مصر / Miṣr) is Constitution of Egypt 2014 art. 80 — Constitution of Egypt 2014 — children's rights. Authoritative text: <https://www.constituteproject.org/constitution/Egypt_2014>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in Egypt (مصر / Miṣr)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is Supreme Constitutional Court is the apex constitutional court. No PA-construct-specific apex decision identified. Has addressed Personal Status Law constitutional challenges including Coptic remarriage and divorce questions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Egypt (مصر / Miṣr)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Egypt (مصر / Miṣr)'s best-interests-of-the-child framework (Constitution of Egypt 2014 art. 80) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitution of Egypt 2014 — children's rights",
+      "legislationIdentifier": "Constitution of Egypt 2014 art. 80",
+      "jurisdiction": "Egypt (مصر / Miṣr)",
+      "url": "https://www.constituteproject.org/constitution/Egypt_2014",
+      "datePublished": "2014",
+      "description": "Art. 80: state commitment to protect children + best-interests principle. Constitutional backdrop for child-welfare reasoning in Egyptian family courts."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Personal Status Law — substantive family law for Muslim families",
+      "legislationIdentifier": "Personal Status Law No. 25 of 1929 (as amended) + Law No. 100 of 1985 + Law No. 1 of 2000",
+      "jurisdiction": "Egypt (مصر / Miṣr)",
+      "url": "https://manshurat.org/",
+      "datePublished": "1929",
+      "description": "Substantive Personal Status Law for Muslim families. Law No. 100 of 1985 + Law No. 1 of 2000 amendments. Governs marriage, divorce, custody (حضانة hadana), maintenance and inheritance under classical Islamic jurisprudence. Hadana custody age thresholds vary by school (Hanafi default 15 for boys / marriage for girls in current Egyptian application)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Courts Law 10/2004 — specialist family-court forum",
+      "legislationIdentifier": "Family Courts Law No. 10 of 2004",
+      "jurisdiction": "Egypt (مصر / Miṣr)",
+      "url": "https://manshurat.org/",
+      "datePublished": "2004",
+      "description": "Establishes specialist Family Courts (محاكم الأسرة maḥākim al-usra) as the procedural forum for all personal-status disputes. Includes Family Dispute Resolution Offices (مكاتب تسوية النزاعات الأسرية) requiring pre-trial mediation. Procedural framework within which hadana custody disputes are litigated."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Child Law 12/1996 — substantive child-welfare statute",
+      "legislationIdentifier": "Child Law No. 12 of 1996 (as amended by Law 126 of 2008)",
+      "jurisdiction": "Egypt (مصر / Miṣr)",
+      "url": "https://manshurat.org/",
+      "datePublished": "1996",
+      "description": "Substantive child-welfare statute. Establishes child-protection framework + age of majority. Law 126/2008 amendments strengthened protection provisions. Operates alongside Personal Status Law in determining best-interests in custody disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "NCCM — statutory child-rights body",
+      "legislationIdentifier": "Presidential Decree 54 of 1988 — National Council for Childhood and Motherhood (NCCM)",
+      "jurisdiction": "Egypt (مصر / Miṣr)",
+      "url": "https://www.nccm-egypt.org/",
+      "datePublished": "1988",
+      "description": "Presidential Decree 54/1988 establishes the National Council for Childhood and Motherhood (المجلس القومي للطفولة والأمومة) as the statutory child-rights body. NCCM coordinates child-protection policy and advises on legislation. Middle/critique-leaning institutional anchor (per 2016 personal-status-reform position)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Religious-community personal-status frameworks (non-Muslim)",
+      "legislationIdentifier": "Coptic Orthodox Personal Status By-laws + Jewish Religious-Court Frameworks",
+      "jurisdiction": "Egypt (مصر / Miṣr)",
+      "url": "https://www.constituteproject.org/",
+      "datePublished": "1938",
+      "description": "Non-Muslim Egyptian families (Coptic Christian + Jewish) operate under religious-community personal-status frameworks rather than Islamic-law Personal Status. Coptic Orthodox 1938 by-laws govern Coptic marriages and custody. Parallel jurisdictional architecture."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Supreme Constitutional Court is the apex constitutional court. No PA-construct-specific apex decision identified. Has addressed Personal Status Law constitutional challenges including Coptic remarriage and divorce questions.",
+      "datePublished": "2026",
+      "courtName": "Supreme Constitutional Court of Egypt (المحكمة الدستورية العليا)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Court of Cassation is the apex court for civil and criminal matters. Personal Status Chamber reviews family-law cassation petitions. No PA-construct-specific apex decision identified.",
+      "datePublished": "2026",
+      "courtName": "Court of Cassation (محكمة النقض)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Specialist Family Courts established by Law 10/2004",
+      "datePublished": "2026",
+      "courtName": "Family Courts (محاكم الأسرة) + Family Dispute Resolution Offices"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Religious-community personal-status frameworks operate for non-Muslim families. Coptic Orthodox 1938 by-laws + Jewish religious-court frameworks parallel to Islamic Personal Status. Family-court structure handles procedural matters; substantive rules vary by community.",
+      "datePublished": "2026",
+      "courtName": "Personal Status Departments — religious-community jurisdictions (Coptic Orthodox / Jewish)"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

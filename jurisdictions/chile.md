@@ -236,3 +236,155 @@ Las sentencias de la Corte Suprema chilena y de las Cortes de Apelaciones public
 - [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Chile
+
+### Is parental alienation illegal in Chile?
+
+In Chile parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label.
+
+### What law covers withholding a child from a parent in Chile?
+
+The primary statutory basis in Chile is Ley 19.968 de 2004 — Tribunales de Familia — Ley 19.968 — crea los Tribunales de Familia y los Consejeros Técnicos. Authoritative text: <https://www.bcn.cl/leychile/navegar?idNorma=229557>.
+
+### What is the leading court decision on parental alienation in Chile?
+
+The leading apex decision is Corte Suprema Sala Cuarta (Mixta) (2024). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in Chile?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Chile's best-interests-of-the-child framework (Ley 19.968 de 2004 — Tribunales de Familia) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/chile/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Chile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Chile parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Chile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Chile is Ley 19.968 de 2004 — Tribunales de Familia — Ley 19.968 — crea los Tribunales de Familia y los Consejeros Técnicos. Authoritative text: <https://www.bcn.cl/leychile/navegar?idNorma=229557>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in Chile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is Corte Suprema Sala Cuarta (Mixta) (2024). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Chile?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Chile's best-interests-of-the-child framework (Ley 19.968 de 2004 — Tribunales de Familia) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley 19.968 — crea los Tribunales de Familia y los Consejeros Técnicos",
+      "legislationIdentifier": "Ley 19.968 de 2004 — Tribunales de Familia",
+      "jurisdiction": "Chile",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=229557",
+      "datePublished": "2004",
+      "description": "Ley orgánica que crea los Tribunales de Familia chilenos como tribunales especializados. Establece los Consejeros/as Técnicos/as como evaluadores in-court (psicólogos, asistentes sociales) que actúan como asesores de los jueces de familia. Cadre procedural sustantivo bajo el cual se litigan las disputas de cuidado personal y régimen comunicacional en Chile."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley 20.066 — Violencia Intrafamiliar",
+      "legislationIdentifier": "Ley 20.066 de 2005 — Violencia Intrafamiliar (VIF)",
+      "jurisdiction": "Chile",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=242648",
+      "datePublished": "2005",
+      "description": "Marco normativo de violencia intrafamiliar. Cadre evidencial bajo el cual las disputas familiares con alegaciones de violencia se litigan. Las situaciones donde se invoca AP frecuentemente intersectan con procesos VIF; el rechazo institucional 2024 al SAP se ancla parcialmente en este marco."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley 20.680 — modifica art. 224 Código Civil; corresponsabilidad parental",
+      "legislationIdentifier": "Ley 20.680 de 2013 — corresponsabilidad parental",
+      "jurisdiction": "Chile",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1054158",
+      "datePublished": "2013",
+      "description": "Reforma legal que introduce el principio de corresponsabilidad parental modificando el art. 224 del Código Civil chileno. Establece que ambos padres deben velar por el cuidado personal del hijo en conjunto y que la decisión sobre cuidado personal procede del acuerdo o, en su defecto, del tribunal."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley 21.430 — Garantías Integrales NNA",
+      "legislationIdentifier": "Ley 21.430 de 2022 — Garantías y Protección Integral de los Derechos de la Niñez y Adolescencia",
+      "jurisdiction": "Chile",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1173643",
+      "datePublished": "2022",
+      "description": "Ley estatutaria de garantías integrales para NNA. Da rango legal a la Defensoría de la Niñez y articula el sistema chileno de garantías de derechos de la niñez. Cadre sustantivo del interés superior del niño bajo el cual los tribunales chilenos resuelven disputas de cuidado personal."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley 21.067 — crea la Defensoría de los Derechos de la Niñez",
+      "legislationIdentifier": "Ley 21.067 de 2018 — Defensoría de la Niñez",
+      "jurisdiction": "Chile",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1115204",
+      "datePublished": "2018",
+      "description": "Ley que crea la Defensoría de la Niñez como corporación autónoma de derecho público con función de promoción y protección de derechos de NNA. Defensor actual: Anuar Quesille Vera (designado octubre 2023). No ha emitido pronunciamiento autónomo PA-específico — segundo silencio institucional convergente con CdPCh."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley 21.675 — Ley Integral; art. 5 tipifica violencia vicaria",
+      "legislationIdentifier": "Ley 21.675 de 2024 — Ley Integral contra la Violencia hacia las Mujeres",
+      "jurisdiction": "Chile",
+      "url": "https://www.bcn.cl/leychile/navegar?idNorma=1203713",
+      "datePublished": "2024",
+      "description": "Ley estatutaria fundamental que tipifica la VIOLENCIA VICARIA en el art. 5 — definida como acto u omisión del agresor que afecta a hijos/as u otras personas significativas para la mujer. La sustitución conceptual de la violencia vicaria por el marco SAP-como-VIF opera como contracara de la proscripción institucional del SAP. Ley en vigencia desde 2024."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Corte Suprema Sala Cuarta (Mixta)",
+      "datePublished": "2024",
+      "courtName": "Corte Suprema de Justicia de Chile — Sala Cuarta (Mixta)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "ENERO 2023",
+      "datePublished": "2023",
+      "courtName": "Corte Suprema de Justicia de Chile — Sala Cuarta (Mixta)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Tribunal Pleno realiza control de constitucionalidad de proyectos de ley en sede de informe consultivo. Sin sentencia apex PA-específica.",
+      "datePublished": "2026",
+      "courtName": "Corte Suprema de Justicia de Chile — Tribunal Pleno (control de constitucionalidad de proyectos de ley)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Tribunal Constitucional",
+      "datePublished": "2026",
+      "courtName": "Tribunal Constitucional de Chile"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "17 Cortes de Apelaciones (Arica, Iquique, Antofagasta, Copiapó, La Serena, Valparaíso, Santiago, San Miguel, Rancagua, Talca, Chillán, Concepción, Temuco, Valdivia, Puerto Montt, Coyhaique, Punta Arenas)",
+      "datePublished": "2026",
+      "courtName": "Cortes de Apelaciones — Salas Civiles / Familia"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

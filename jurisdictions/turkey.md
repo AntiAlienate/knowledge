@@ -181,3 +181,86 @@ Turkish family-law decisions are anonymised per Yargıtay practice; published Ya
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Türkiye (Republic of Türkiye)
+
+### Is parental alienation illegal in Türkiye (Republic of Türkiye)?
+
+In Türkiye (Republic of Türkiye) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Türkiye (Republic of Türkiye)?
+
+The primary statutory basis in Türkiye (Republic of Türkiye) is Türk Medeni Kanunu (TMK) arts. 182, 323, 335-336 — Turkish Civil Code Book Two — Family Law (parental authority and contact). Authoritative text: <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf>.
+
+### What can a parent do if their child is being withheld from them in Türkiye (Republic of Türkiye)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Türkiye (Republic of Türkiye)'s best-interests-of-the-child framework (Türk Medeni Kanunu (TMK) arts. 182, 323, 335-336) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/turkey/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Türkiye (Republic of Türkiye)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Türkiye (Republic of Türkiye) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Türkiye (Republic of Türkiye)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Türkiye (Republic of Türkiye) is Türk Medeni Kanunu (TMK) arts. 182, 323, 335-336 — Turkish Civil Code Book Two — Family Law (parental authority and contact). Authoritative text: <https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Türkiye (Republic of Türkiye)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Türkiye (Republic of Türkiye)'s best-interests-of-the-child framework (Türk Medeni Kanunu (TMK) arts. 182, 323, 335-336) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Turkish Civil Code Book Two — Family Law (parental authority and contact)",
+      "legislationIdentifier": "Türk Medeni Kanunu (TMK) arts. 182, 323, 335-336",
+      "jurisdiction": "Türkiye (Republic of Türkiye)",
+      "url": "https://www.mevzuat.gov.tr/MevzuatMetin/1.5.4721.pdf",
+      "datePublished": "2001",
+      "description": "Federal civil-code basis for parental authority (velâyet) and personal relationship (kişisel ilişki). TMK 4721/2001 in force 1 January 2002. Art. 182 governs assignment of velâyet on divorce; art. 323 governs the right of personal relationship between the non-custodial parent and the child."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Law on Establishment and Duties of Family Courts",
+      "legislationIdentifier": "Aile Mahkemelerinin Kuruluş ve Görevleri Hakkında Kanun (Law 4787/2003)",
+      "jurisdiction": "Türkiye (Republic of Türkiye)",
+      "url": "https://www.mevzuat.gov.tr/mevzuatmetin/1.5.4787.pdf",
+      "datePublished": "2003",
+      "description": "Federal statute establishing specialised Aile Mahkemeleri (Family Courts) with jurisdiction over family-law matters. In force 18 January 2003. Family courts are first-instance specialised courts; appeals lie to the Bölge Adliye Mahkemesi (regional appellate court) and ultimately Yargıtay."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitutional Court individual-application jurisdiction",
+      "legislationIdentifier": "Anayasa Mahkemesi individual-application jurisdiction (2012)",
+      "jurisdiction": "Türkiye (Republic of Türkiye)",
+      "url": "https://www.anayasa.gov.tr/en/",
+      "datePublished": "2012",
+      "description": "Türkiye's Constitutional Court individual-application jurisdiction in force 23 September 2012 — provides constitutional review pathway for family-court determinations engaging Constitutional rights and ECHR provisions. Cited in Strasbourg-adjacent family-law jurisprudence."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

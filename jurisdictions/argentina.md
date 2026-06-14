@@ -260,3 +260,150 @@ CSJN anonimiza por iniciales (P., B. E. G. c/ B., K. E.); la SCBA y demás fuero
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Argentina
+
+### Is parental alienation illegal in Argentina?
+
+In Argentina parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label.
+
+### What law covers withholding a child from a parent in Argentina?
+
+The primary statutory basis in Argentina is Ley 24.270/1993 — Impedimento de contacto de los hijos menores con sus padres no convivientes — Ley de Impedimento de Contacto. Authoritative text: <http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/691/norma.htm>.
+
+### What is the leading court decision on parental alienation in Argentina?
+
+The leading apex decision is P., B. E. G. c/ B., K. E. s/ medidas precautorias (7.10.2021) (2021). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in Argentina?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Argentina's best-interests-of-the-child framework (Ley 24.270/1993 — Impedimento de contacto de los hijos menores con sus padres no convivientes) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/argentina/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Argentina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Argentina parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Argentina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Argentina is Ley 24.270/1993 — Impedimento de contacto de los hijos menores con sus padres no convivientes — Ley de Impedimento de Contacto. Authoritative text: <http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/691/norma.htm>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in Argentina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is P., B. E. G. c/ B., K. E. s/ medidas precautorias (7.10.2021) (2021). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Argentina?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Argentina's best-interests-of-the-child framework (Ley 24.270/1993 — Impedimento de contacto de los hijos menores con sus padres no convivientes) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley de Impedimento de Contacto",
+      "legislationIdentifier": "Ley 24.270/1993 — Impedimento de contacto de los hijos menores con sus padres no convivientes",
+      "jurisdiction": "Argentina",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/0-4999/691/norma.htm",
+      "datePublished": "1993",
+      "description": "Operative statutory hook for recognition of alienating conduct. Tipifica penalmente al progenitor conviviente que ilegalmente impide u obstruye el contacto del menor con el progenitor no conviviente. Es la base estatutaria primaria invocada en casos de alienación parental — no el CCyC art. 671, que sólo funciona como deber civil correlativo."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Régimen de responsabilidad parental",
+      "legislationIdentifier": "Código Civil y Comercial de la Nación (CCyC), Ley 26.994/2014, arts. 638–704",
+      "jurisdiction": "Argentina",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm",
+      "datePublished": "2014",
+      "description": "Unifica el régimen de responsabilidad parental tras el Código Civil de Vélez. Establece el principio de coparentalidad y el cuidado personal compartido como regla."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Deber de no entorpecer el contacto del hijo con el otro progenitor",
+      "legislationIdentifier": "CCyC art. 671 — Deberes de los progenitores",
+      "jurisdiction": "Argentina",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/235000-239999/235975/norma.htm",
+      "datePublished": "2014",
+      "description": "Indirect-hook civil correlativo del tipo penal de Ley 24.270. No es la fuente operativa de recognition (corrección preservada: Ley 24.270 es la fuente operativa, no CCyC 671) sino el deber civil sustantivo invocado en sede de familia para fundar medidas cautelares y revinculaciones."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Derechos individuales y jerarquía constitucional de los tratados de derechos humanos (CDN)",
+      "legislationIdentifier": "Constitución Nacional, arts. 14, 18, 19, 75 inc. 22",
+      "jurisdiction": "Argentina",
+      "url": "https://www.argentina.gob.ar/constitucion-nacional",
+      "datePublished": "1994",
+      "description": "Art. 75 inc. 22 da jerarquía constitucional a la Convención sobre los Derechos del Niño (CDN). Marco supralegal del interés superior del niño invocado por CSJN en P.B.E.G. 2021."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley de Protección Integral",
+      "legislationIdentifier": "Ley 26.061/2005 — Protección integral de los derechos de niñas, niños y adolescentes",
+      "jurisdiction": "Argentina",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110778/norma.htm",
+      "datePublished": "2005",
+      "description": "Anclaje del interés superior del niño y del derecho del niño a ser oído. Base normativa de la anonimización por iniciales en sede de familia."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley de Violencia contra las Mujeres",
+      "legislationIdentifier": "Ley 26.485/2009 — Protección integral para prevenir, sancionar y erradicar la violencia contra las mujeres",
+      "jurisdiction": "Argentina",
+      "url": "http://servicios.infoleg.gob.ar/infolegInternet/anexos/150000-154999/152155/norma.htm",
+      "datePublished": "2009",
+      "description": "Tipifica violencia simbólica y psicológica; eje central del registro crítico contra SAP/AP como herramienta de revictimización."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "P., B. E. G. c/ B., K. E. s/ medidas precautorias (7.10.2021)",
+      "datePublished": "2021",
+      "courtName": "Corte Suprema de Justicia de la Nación (CSJN)",
+      "url": "https://knowledge.antialienate.com/case-studies/csjn-p-b-e-g-c-b-k-e-2021-argentina/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "'E.J.M. y otro c/ S.R.K.' (1.12.2021)",
+      "datePublished": "2021",
+      "courtName": "Cámara Nacional de Apelaciones en lo Civil (CNCiv) — Sala J"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Jurisprudencia provincial de familia en línea de moderación: anonimización por iniciales, aplicación de Ley 24.270 e invocación de CCyC art. 671 como deber civil correlativo",
+      "datePublished": "2024",
+      "courtName": "Suprema Corte de Justicia de la Provincia de Buenos Aires (SCBA)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Línea casatoria de moderación procesal en materia de familia",
+      "datePublished": "2024",
+      "courtName": "Cámara de Casación Civil (Tribunal Constitucional analog)"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

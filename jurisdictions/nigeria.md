@@ -230,3 +230,104 @@ Nigerian Supreme Court and Court of Appeal published judgments typically name ad
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Nigeria (Federal Republic of Nigeria)
+
+### Is parental alienation illegal in Nigeria (Federal Republic of Nigeria)?
+
+In Nigeria (Federal Republic of Nigeria) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in Nigeria (Federal Republic of Nigeria)?
+
+The primary statutory basis in Nigeria (Federal Republic of Nigeria) is Constitution of the Federal Republic of Nigeria 1999 — Constitution as foundational framework. Authoritative text: <https://www.constituteproject.org/constitution/Nigeria_2011>.
+
+### What can a parent do if their child is being withheld from them in Nigeria (Federal Republic of Nigeria)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Nigeria (Federal Republic of Nigeria)'s best-interests-of-the-child framework (Constitution of the Federal Republic of Nigeria 1999) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/nigeria/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Nigeria (Federal Republic of Nigeria)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Nigeria (Federal Republic of Nigeria) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Nigeria (Federal Republic of Nigeria)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Nigeria (Federal Republic of Nigeria) is Constitution of the Federal Republic of Nigeria 1999 — Constitution as foundational framework. Authoritative text: <https://www.constituteproject.org/constitution/Nigeria_2011>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Nigeria (Federal Republic of Nigeria)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Nigeria (Federal Republic of Nigeria)'s best-interests-of-the-child framework (Constitution of the Federal Republic of Nigeria 1999) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitution as foundational framework",
+      "legislationIdentifier": "Constitution of the Federal Republic of Nigeria 1999",
+      "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
+      "url": "https://www.constituteproject.org/constitution/Nigeria_2011",
+      "datePublished": "1999",
+      "description": "Constitution 1999 (amended 2011) establishing federal framework. Chapter IV fundamental rights and chapter II directive principles inform child-rights framework. Section 38 freedom of religion underpins Islamic personal-status law in northern states."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Comprehensive child-rights statute",
+      "legislationIdentifier": "Child Rights Act 2003 (federal)",
+      "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
+      "url": "https://www.refworld.org/docid/5568201f4.html",
+      "datePublished": "2003",
+      "description": "Federal-level child-rights framework implementing UN CRC and African Charter on the Rights and Welfare of the Child. Requires state-level domestication — adopted by 36 states as of 2026. Establishes BIC standard and Child Rights Implementation Committee."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Statutory marriage and divorce statute",
+      "legislationIdentifier": "Matrimonial Causes Act 1970 (federal)",
+      "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
+      "url": "https://www.nigeria-law.org/",
+      "datePublished": "1970",
+      "description": "Federal statutory framework for statutory (Christian/civil) marriages. Section 71 addresses custody and welfare considerations. Substantively foundational federal-level family-law statute operating for statutory-marriage divorces."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Islamic law implementation in northern states",
+      "legislationIdentifier": "Sharia Penal Code Law (Zamfara State 1999 et seq.)",
+      "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
+      "url": "https://www.refworld.org/docid/49997afc1a.html",
+      "datePublished": "1999",
+      "description": "Post-1999 Sharia law implementation in 12 northern states (Zamfara, Sokoto, Kebbi, Niger, Kano, Katsina, Kaduna, Jigawa, Yobe, Borno, Bauchi, Gombe). Substantively significant federal-pluralism framework with Sharia personal-status jurisdiction in northern states."
+    },
+    {
+      "@type": "Legislation",
+      "name": "International child-rights ratifications",
+      "legislationIdentifier": "Nigeria ratifies UN CRC + African Charter on Rights and Welfare of the Child",
+      "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
+      "url": "https://www.unicef.org/nigeria/child-rights-act-2003",
+      "datePublished": "1991",
+      "description": "Nigeria ratified UN CRC 19 April 1991. Ratified African Charter on the Rights and Welfare of the Child 23 July 2001. Substantively foundational international child-rights framework subsequently incorporated via Child Rights Act 2003."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

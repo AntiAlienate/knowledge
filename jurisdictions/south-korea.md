@@ -184,3 +184,77 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in South Korea (Republic of Korea / 대한민국)
+
+### Is parental alienation illegal in South Korea (Republic of Korea / 대한민국)?
+
+In South Korea (Republic of Korea / 대한민국) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in South Korea (Republic of Korea / 대한민국)?
+
+The primary statutory basis in South Korea (Republic of Korea / 대한민국) is Civil Act Book IV arts. 909-927 — Civil Act — Parental authority (친권). Authoritative text: <https://www.law.go.kr/>.
+
+### What can a parent do if their child is being withheld from them in South Korea (Republic of Korea / 대한민국)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under South Korea (Republic of Korea / 대한민국)'s best-interests-of-the-child framework (Civil Act Book IV arts. 909-927) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/south-korea/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in South Korea (Republic of Korea / 대한민국)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In South Korea (Republic of Korea / 대한민국) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in South Korea (Republic of Korea / 대한민국)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in South Korea (Republic of Korea / 대한민국) is Civil Act Book IV arts. 909-927 — Civil Act — Parental authority (친권). Authoritative text: <https://www.law.go.kr/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in South Korea (Republic of Korea / 대한민국)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under South Korea (Republic of Korea / 대한민국)'s best-interests-of-the-child framework (Civil Act Book IV arts. 909-927) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Act — Parental authority (친권)",
+      "legislationIdentifier": "Civil Act Book IV arts. 909-927",
+      "jurisdiction": "South Korea (Republic of Korea / 대한민국)",
+      "url": "https://www.law.go.kr/",
+      "datePublished": "1958",
+      "description": "Federal civil code governing parental authority. Substantially amended by 2005 reform (gajokje replacing hojuje) and 2011 reform abolishing hojuje. Joint exercise during marriage is the statutory default."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Litigation Act (가사소송법)",
+      "legislationIdentifier": "Family Litigation Act 1990",
+      "jurisdiction": "South Korea (Republic of Korea / 대한민국)",
+      "url": "https://www.law.go.kr/",
+      "datePublished": "1990",
+      "description": "Federal procedural statute for Family Court proceedings."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -184,3 +184,77 @@ Ukrainian family-law decisions are anonymised per Supreme Court practice using i
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Ukraine (Україна)
+
+### Is parental alienation illegal in Ukraine (Україна)?
+
+In Ukraine (Україна) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Ukraine (Україна)?
+
+The primary statutory basis in Ukraine (Україна) is Family Code of Ukraine (Сімейний кодекс) Law 2947-III of 2002 — Family Code — Parental rights and obligations. Authoritative text: <https://zakon.rada.gov.ua/laws/show/2947-14>.
+
+### What can a parent do if their child is being withheld from them in Ukraine (Україна)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Ukraine (Україна)'s best-interests-of-the-child framework (Family Code of Ukraine (Сімейний кодекс) Law 2947-III of 2002) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/ukraine/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Ukraine (Україна)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Ukraine (Україна) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Ukraine (Україна)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Ukraine (Україна) is Family Code of Ukraine (Сімейний кодекс) Law 2947-III of 2002 — Family Code — Parental rights and obligations. Authoritative text: <https://zakon.rada.gov.ua/laws/show/2947-14>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Ukraine (Україна)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Ukraine (Україна)'s best-interests-of-the-child framework (Family Code of Ukraine (Сімейний кодекс) Law 2947-III of 2002) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Code — Parental rights and obligations",
+      "legislationIdentifier": "Family Code of Ukraine (Сімейний кодекс) Law 2947-III of 2002",
+      "jurisdiction": "Ukraine (Україна)",
+      "url": "https://zakon.rada.gov.ua/laws/show/2947-14",
+      "datePublished": "2002",
+      "description": "Federal statute on family law in force 1 January 2004. Arts. 121-170 govern parental rights and obligations; joint exercise during marriage is the statutory default. Welfare-of-the-child standard codified."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Law on the Judicial System and Status of Judges",
+      "legislationIdentifier": "Law on Judicial System (2016 reform)",
+      "jurisdiction": "Ukraine (Україна)",
+      "url": "https://zakon.rada.gov.ua/laws/show/1402-19",
+      "datePublished": "2016",
+      "description": "Federal statute reforming the Ukrainian court system. Restructured the Supreme Court and established the three-tier judicial system with reformed apex jurisdiction."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

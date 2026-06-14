@@ -236,3 +236,150 @@ STRICT anonymisation per Matrimonial Causes Rules (Cap. 179A): all parties in pr
 - [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Hong Kong Special Administrative Region
+
+### Is parental alienation illegal in Hong Kong Special Administrative Region?
+
+In Hong Kong Special Administrative Region parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label.
+
+### What law covers withholding a child from a parent in Hong Kong Special Administrative Region?
+
+The primary statutory basis in Hong Kong Special Administrative Region is Matrimonial Proceedings and Property Ordinance (Cap. 192) — Matrimonial Proceedings and Property Ordinance — substantive matrimonial relief. Authoritative text: <https://www.elegislation.gov.hk/hk/cap192>.
+
+### What is the leading court decision on parental alienation in Hong Kong Special Administrative Region?
+
+The leading apex decision is Court of Final Appeal is the apex court of Hong Kong under the Basic Law. Has not issued a PA-construct-specific apex decision. Welfare-paramountcy doctrine under Cap. 13 applies; PA-adjacent reasoning has not reached the CFA on PA grounds. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in Hong Kong Special Administrative Region?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Hong Kong Special Administrative Region's best-interests-of-the-child framework (Matrimonial Proceedings and Property Ordinance (Cap. 192)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/hong-kong/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Hong Kong Special Administrative Region?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Hong Kong Special Administrative Region parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Hong Kong Special Administrative Region?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Hong Kong Special Administrative Region is Matrimonial Proceedings and Property Ordinance (Cap. 192) — Matrimonial Proceedings and Property Ordinance — substantive matrimonial relief. Authoritative text: <https://www.elegislation.gov.hk/hk/cap192>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in Hong Kong Special Administrative Region?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is Court of Final Appeal is the apex court of Hong Kong under the Basic Law. Has not issued a PA-construct-specific apex decision. Welfare-paramountcy doctrine under Cap. 13 applies; PA-adjacent reasoning has not reached the CFA on PA grounds. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Hong Kong Special Administrative Region?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Hong Kong Special Administrative Region's best-interests-of-the-child framework (Matrimonial Proceedings and Property Ordinance (Cap. 192)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Matrimonial Proceedings and Property Ordinance — substantive matrimonial relief",
+      "legislationIdentifier": "Matrimonial Proceedings and Property Ordinance (Cap. 192)",
+      "jurisdiction": "Hong Kong Special Administrative Region",
+      "url": "https://www.elegislation.gov.hk/hk/cap192",
+      "datePublished": "1972",
+      "description": "Substantive Hong Kong matrimonial relief statute. Includes provisions on custody, care and control, access and welfare. The substantive hook under which PA-adjacent fact-patterns are litigated alongside the Guardianship of Minors Ordinance."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Matrimonial Causes Ordinance — divorce jurisdiction",
+      "legislationIdentifier": "Matrimonial Causes Ordinance (Cap. 179)",
+      "jurisdiction": "Hong Kong Special Administrative Region",
+      "url": "https://www.elegislation.gov.hk/hk/cap179",
+      "datePublished": "1972",
+      "description": "Substantive HK divorce jurisdiction statute. Operates alongside Cap. 192 for the substantive relief and Cap. 179A (Matrimonial Causes Rules) for procedural matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Matrimonial Causes Rules — procedural rules",
+      "legislationIdentifier": "Matrimonial Causes Rules (Cap. 179A)",
+      "jurisdiction": "Hong Kong Special Administrative Region",
+      "url": "https://www.elegislation.gov.hk/hk/cap179A",
+      "datePublished": "1973",
+      "description": "Procedural rules operating under Cap. 179. Establish the strict anonymisation convention for proceedings concerning children — 'H' (Husband/Father), 'W' (Wife/Mother), single-letter pseudonym for child."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Guardianship of Minors Ordinance — welfare paramountcy",
+      "legislationIdentifier": "Guardianship of Minors Ordinance (Cap. 13)",
+      "jurisdiction": "Hong Kong Special Administrative Region",
+      "url": "https://www.elegislation.gov.hk/hk/cap13",
+      "datePublished": "1971",
+      "description": "s.3 welfare paramountcy provision — 'in any proceedings before any court… the court… shall regard the best interests of the minor as the first and paramount consideration'. The substantive Hong Kong welfare standard against which PA-adjacent fact-patterns are decided."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Court of the District Court — first-instance family forum",
+      "legislationIdentifier": "Family Court (Establishment) — Family Court of the District Court",
+      "jurisdiction": "Hong Kong Special Administrative Region",
+      "url": "https://www.judiciary.hk/en/about_us/family.html",
+      "datePublished": "1995",
+      "description": "Family Court is the specialist family-law division of the District Court. First-instance forum for divorce, custody and access disputes. Appeals lie to the Court of Appeal of the High Court."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children Proceedings (Parental Responsibility) Bill — proposed (first floated 2015; revisited 2024)",
+      "legislationIdentifier": "Supplementary Legislation Bill — Children Proceedings (Parental Responsibility) Bill",
+      "jurisdiction": "Hong Kong Special Administrative Region",
+      "url": "https://www.legco.gov.hk/",
+      "datePublished": "2015",
+      "description": "Proposed Bill flowing from the Law Reform Commission of Hong Kong 2005 report on Custody and Access (Children's Custody Sub-committee, Hon Mr Justice Saunders chair). Would introduce a Parental Responsibility Model replacing the existing custody / access terminology. First floated 2015, revisited LegCo 2024. NOT YET ENACTED as of 2026."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Court of Final Appeal is the apex court of Hong Kong under the Basic Law. Has not issued a PA-construct-specific apex decision. Welfare-paramountcy doctrine under Cap. 13 applies; PA-adjacent reasoning has not reached the CFA on PA grounds.",
+      "datePublished": "2026",
+      "courtName": "Hong Kong Court of Final Appeal (CFA)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "H v W [2021] HKCA 733",
+      "datePublished": "2021",
+      "courtName": "Court of Appeal of the High Court",
+      "url": "https://knowledge.antialienate.com/case-studies/h-v-w-2021-hkca-733-hong-kong/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Court of First Instance hears more serious family proceedings as well as appeals from the Family Court of the District Court in certain matters. PA-adjacent fact-patterns can be argued at this level under Cap. 13 welfare paramountcy.",
+      "datePublished": "2026",
+      "courtName": "High Court of Hong Kong — Court of First Instance"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "First-instance specialist family-law forum. The bulk of HK PA-adjacent fact-patterns are decided here under Cap. 13 + Cap. 192 informed by Social Investigation Reports (SIR) prepared by the Social Welfare Department and Single Joint Expert (SJE) clinical-psychology evidence.",
+      "datePublished": "2026",
+      "courtName": "Family Court of the District Court"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

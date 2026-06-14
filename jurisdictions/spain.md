@@ -232,3 +232,150 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Spain
+
+### Is parental alienation illegal in Spain?
+
+In Spain parental alienation is expressly excluded from family-violence proceedings by statute. The apex court treats the behaviour but not the syndrome label.
+
+### What law covers withholding a child from a parent in Spain?
+
+The primary statutory basis in Spain is LO 8/2021, Disposición adicional decimoséptima — Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI). Authoritative text: <https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347>.
+
+### What is the leading court decision on parental alienation in Spain?
+
+The leading apex decision is STS 519/2017, de 22 de septiembre (Sala Primera, ponente Arroyo Fiestas) (2017). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in Spain?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Spain's best-interests-of-the-child framework (LO 8/2021, Disposición adicional decimoséptima) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/spain/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Spain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Spain parental alienation is expressly excluded from family-violence proceedings by statute. The apex court treats the behaviour but not the syndrome label."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Spain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Spain is LO 8/2021, Disposición adicional decimoséptima — Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI). Authoritative text: <https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in Spain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is STS 519/2017, de 22 de septiembre (Sala Primera, ponente Arroyo Fiestas) (2017). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Spain?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Spain's best-interests-of-the-child framework (LO 8/2021, Disposición adicional decimoséptima) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI)",
+      "legislationIdentifier": "LO 8/2021, Disposición adicional decimoséptima",
+      "jurisdiction": "Spain",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347",
+      "datePublished": "2021",
+      "description": "Disp. ad. 17ª directs that public administrations 'velarán por que no se admita en los procedimientos relativos a la violencia el llamado síndrome de alienación parental o cualesquiera otras denominaciones análogas que no hayan sido reconocidas por las comunidades científica y sanitaria'. The statute targets the SAP label by exact name and 'denominaciones análogas', driving subsequent PIVIP (interferencias parentales / manipulación de la voluntad del menor) terminological-arbitrage."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género (LIVG)",
+      "legislationIdentifier": "LO 1/2004",
+      "jurisdiction": "Spain",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760",
+      "datePublished": "2004",
+      "description": "Gender-violence framework that conditions how family courts read PA-style allegations; LOPIVI Disp. ad. 17ª operates within this gender-violence reading."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres",
+      "legislationIdentifier": "LO 3/2007",
+      "jurisdiction": "Spain",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115",
+      "datePublished": "2007",
+      "description": "Equality framework cited alongside LIVG in feminist juridical critiques of SAP."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial — artículo 232 (publicidad de actuaciones judiciales)",
+      "legislationIdentifier": "LOPJ art. 232",
+      "jurisdiction": "Spain",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+      "datePublished": "1985",
+      "description": "Basis for anonymisation of judgments involving minors; Tribunal Supremo and Audiencias Provinciales sentences in family matters are published with initials per CENDOJ practice."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Código Civil — De los efectos comunes a la nulidad, separación y divorcio (guarda y custodia, responsabilidad parental)",
+      "legislationIdentifier": "Código Civil arts. 92-95",
+      "jurisdiction": "Spain",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763",
+      "datePublished": "1889",
+      "description": "Core statutory basis for custody (guarda y custodia) and parental responsibility decisions in which PA-style facts are litigated."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Ley 15/2005, de 8 de julio, por la que se modifican el Código Civil y la Ley de Enjuiciamiento Civil en materia de separación y divorcio",
+      "legislationIdentifier": "Ley 15/2005",
+      "jurisdiction": "Spain",
+      "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2005-11864",
+      "datePublished": "2005",
+      "description": "Custodia compartida reform that opened the structural space in which manipulación/influencia negativa arguments became frequent in Spanish family law."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "STS 519/2017, de 22 de septiembre (Sala Primera, ponente Arroyo Fiestas)",
+      "datePublished": "2017",
+      "courtName": "Tribunal Supremo, Sala Primera (Sala de lo Civil)",
+      "url": "https://knowledge.antialienate.com/case-studies/sts-519-2017-spain/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "STC 130/2024",
+      "datePublished": "2024",
+      "courtName": "Tribunal Constitucional"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "AP Madrid Sección 22ª",
+      "datePublished": "2022",
+      "courtName": "Audiencias Provinciales (per-CCAA family-law line)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "AP Barcelona Sección 12ª",
+      "datePublished": "2022",
+      "courtName": "Audiencias Provinciales (per-CCAA family-law line)"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

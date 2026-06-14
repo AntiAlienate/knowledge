@@ -183,3 +183,86 @@ Malaysian family-law decisions are anonymised per Federal Court practice; Syaria
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Malaysia
+
+### Is parental alienation illegal in Malaysia?
+
+In Malaysia parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Malaysia?
+
+The primary statutory basis in Malaysia is Law Reform (Marriage and Divorce) Act 1976 (Act 164) ss. 88-100 — LRA 1976 — Custody (non-Muslim). Authoritative text: <https://lom.agc.gov.my/>.
+
+### What can a parent do if their child is being withheld from them in Malaysia?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Malaysia's best-interests-of-the-child framework (Law Reform (Marriage and Divorce) Act 1976 (Act 164) ss. 88-100) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/malaysia/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Malaysia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Malaysia parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Malaysia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Malaysia is Law Reform (Marriage and Divorce) Act 1976 (Act 164) ss. 88-100 — LRA 1976 — Custody (non-Muslim). Authoritative text: <https://lom.agc.gov.my/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Malaysia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Malaysia's best-interests-of-the-child framework (Law Reform (Marriage and Divorce) Act 1976 (Act 164) ss. 88-100) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "LRA 1976 — Custody (non-Muslim)",
+      "legislationIdentifier": "Law Reform (Marriage and Divorce) Act 1976 (Act 164) ss. 88-100",
+      "jurisdiction": "Malaysia",
+      "url": "https://lom.agc.gov.my/",
+      "datePublished": "1976",
+      "description": "Federal statute governing non-Muslim family law in Peninsular Malaysia (extended to Sabah and Sarawak). Ss. 88-100 govern custody on dissolution of marriage."
+    },
+    {
+      "@type": "Legislation",
+      "name": "State-level Islamic Family Law Enactments",
+      "legislationIdentifier": "Selangor Islamic Family Law Enactment 2003 (and equivalents in other states)",
+      "jurisdiction": "Malaysia",
+      "url": "https://www2.esyariah.gov.my/",
+      "datePublished": "2003",
+      "description": "State-level statutes governing Muslim family law. Each state has its own enactment; Selangor 2003 is widely cited as the modernised template. Govern hadanah and Islamic family-law matters via Syariah Courts."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Allied Health Professions Act 2016",
+      "legislationIdentifier": "Allied Health Professions Act 2016 (Act 774)",
+      "jurisdiction": "Malaysia",
+      "url": "https://lom.agc.gov.my/",
+      "datePublished": "2016",
+      "description": "Federal statute regulating allied health professions including psychologists via the Allied Health Professions Council. Phased commencement implementation."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -228,3 +228,104 @@ Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (syg
 - [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Poland (Rzeczpospolita Polska)
+
+### Is parental alienation illegal in Poland (Rzeczpospolita Polska)?
+
+In Poland (Rzeczpospolita Polska) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in Poland (Rzeczpospolita Polska)?
+
+The primary statutory basis in Poland (Rzeczpospolita Polska) is Kodeks rodzinny i opiekuńczy (KRO) — Family and Guardianship Code 1964. Authoritative text: <https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059>.
+
+### What can a parent do if their child is being withheld from them in Poland (Rzeczpospolita Polska)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Poland (Rzeczpospolita Polska)'s best-interests-of-the-child framework (Kodeks rodzinny i opiekuńczy (KRO)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/poland/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Poland (Rzeczpospolita Polska)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Poland (Rzeczpospolita Polska) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Poland (Rzeczpospolita Polska)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Poland (Rzeczpospolita Polska) is Kodeks rodzinny i opiekuńczy (KRO) — Family and Guardianship Code 1964. Authoritative text: <https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Poland (Rzeczpospolita Polska)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Poland (Rzeczpospolita Polska)'s best-interests-of-the-child framework (Kodeks rodzinny i opiekuńczy (KRO)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family and Guardianship Code 1964",
+      "legislationIdentifier": "Kodeks rodzinny i opiekuńczy (KRO)",
+      "jurisdiction": "Poland (Rzeczpospolita Polska)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059",
+      "datePublished": "1964",
+      "description": "Primary statutory basis for Polish family law — substantively foundational 1964 code amended multiple times including 2015 reform. Establishes władza rodzicielska (parental authority) framework, dobro dziecka standard, and post-divorce custody framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Code of Civil Procedure",
+      "legislationIdentifier": "Kodeks postępowania cywilnego (KPC)",
+      "jurisdiction": "Poland (Rzeczpospolita Polska)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296",
+      "datePublished": "1964",
+      "description": "Procedural code for civil proceedings including family-law matters. Substantively significant procedural framework for custody disputes and contact-refusal cases."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Law on Counteracting Domestic Violence",
+      "legislationIdentifier": "Ustawa o przeciwdziałaniu przemocy domowej (2005, amended 2023)",
+      "jurisdiction": "Poland (Rzeczpospolita Polska)",
+      "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493",
+      "datePublished": "2005",
+      "description": "DV-protection framework establishing Niebieska Karta procedure and 2023 amendment introducing stronger DV-protection mechanisms — substantively significant for DV-PA-allegation intersection cases."
+    },
+    {
+      "@type": "Legislation",
+      "name": "International abduction + EU coordination framework",
+      "legislationIdentifier": "Hague Convention (Polish ratification + EU Regulation 2019/1111 Brussels IIb)",
+      "jurisdiction": "Poland (Rzeczpospolita Polska)",
+      "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111",
+      "datePublished": "1992",
+      "description": "Poland ratified 1980 Hague Convention 1 November 1992. EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters. Substantively significant international-abduction framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "legislationIdentifier": "Istanbul Convention art. 31",
+      "jurisdiction": "Poland (Rzeczpospolita Polska)",
+      "url": "https://rm.coe.int/168008482e",
+      "datePublished": "2015",
+      "description": "Poland ratified Council of Europe Istanbul Convention 27 April 2015, in force 1 August 2015. 2020 PiS Government withdrawal attempt subsequently halted; Convention retained under Tusk Government from December 2023. Art. 31 requires contact/custody decisions take account of violence."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

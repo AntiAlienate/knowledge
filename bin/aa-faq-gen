@@ -1,0 +1,326 @@
+#!/usr/bin/env python3
+"""
+aa-faq-gen — P2 AEO (AI Answer-Engine Optimisation) per kb-dominance-protocol.
+
+For each jurisdiction passed (or top-50 by default) this generates:
+  1) A markdown FAQ block (4-6 Q&A) with direct first-sentence answers
+     phrased exactly the way humans and AI engines ask them
+     ("Is parental alienation illegal in {country}?", "What law covers
+     withholding a child in {country}?", etc.).
+  2) A JSON-LD <script type="application/ld+json"> block holding a
+     schema.org FAQPage entity (+ Legislation entities for cited statutes,
+     + LegalCase entities for cited apex cases).
+
+Both blocks are appended (idempotent — they replace prior aa-faq-gen output
+between fenced markers) to jurisdictions/<slug>.md so MkDocs renders them on
+the public page and the JSON-LD lifts the citation signal for AI engines.
+
+Usage:
+  aa-faq-gen <recovery-or-arch-work-root> [slug ...]
+
+If no slugs given, the script operates on a built-in TOP_50 list of
+jurisdictions by traffic potential per the protocol.
+"""
+from __future__ import annotations
+import json
+import pathlib
+import sys
+import textwrap
+
+START = "<!-- AA-FAQ-START -->"
+END = "<!-- AA-FAQ-END -->"
+
+TOP_50 = [
+    # G7 + obvious anchors
+    "united-states", "united-kingdom", "germany", "france", "italy",
+    "spain", "canada", "japan", "australia", "brazil",
+    # EU heavyweights
+    "netherlands", "belgium", "ireland", "poland", "sweden",
+    "norway", "denmark", "finland", "austria", "switzerland",
+    "portugal", "greece", "czech-republic", "hungary", "romania",
+    # Anglo + Pacific
+    "new-zealand", "south-africa", "india", "singapore", "hong-kong",
+    "malaysia", "philippines", "indonesia", "south-korea", "korea",
+    # Latam
+    "mexico", "argentina", "chile", "colombia", "peru",
+    # MENA + Africa
+    "israel", "turkey", "egypt", "morocco", "kenya", "nigeria",
+    # Other commonly-searched
+    "russia", "ukraine", "thailand", "vietnam",
+]
+
+# Map recognition tokens to plain-English answer fragments.
+STATUTORY_PHRASE = {
+    "silent": "neither prohibited nor named in statute",
+    "recognised": "expressly named and codified in statute",
+    "recognized": "expressly named and codified in statute",
+    "recognition": "expressly named and codified in statute",
+    "explicit": "expressly named in statute",
+    "rejected": "expressly excluded from statute",
+    "partial": "partially named in statute",
+    "inadmissible": "expressly excluded from family-violence proceedings by statute",
+    "inadmits": "expressly excluded from family-violence proceedings by statute",
+    "indirect-hook": "not named directly in statute, but the parental-responsibility framework is the practical hook",
+}
+
+APEX_PHRASE = {
+    "silent": "the apex court has not ruled on the construct",
+    "critique": "the apex court has rejected the construct as pseudoscientific",
+    "middle": "the apex court treats the behaviour but not the syndrome label",
+    "recognised": "the apex court accepts the construct",
+    "recognized": "the apex court accepts the construct",
+    "recognition": "the apex court accepts the construct",
+    "rejected": "the apex court has expressly rejected the construct",
+    "partial": "the apex court partially accepts the construct",
+    "no-apex-position": "no apex-court ruling has been issued",
+    "case-law application within bic": "the apex court applies the underlying conduct within the best-interests-of-the-child framework rather than as a free-standing diagnostic label",
+}
+
+
+def country_phrase(name):
+    """Return the form to use after a preposition (e.g. 'in {name}').
+    Adds 'the' for jurisdictions that take it (United Kingdom, United States,
+    Netherlands, Philippines, etc.)."""
+    if not name:
+        return name
+    needs_the = (
+        name.startswith("United ")
+        or name in {"Netherlands", "Philippines", "Czech Republic", "Bahamas"}
+    )
+    if needs_the:
+        return f"the {name}"
+    return name
+
+
+def statutory_phrase(status):
+    if not status:
+        return None
+    return STATUTORY_PHRASE.get(status.lower(), status)
+
+
+def apex_phrase(status):
+    if not status:
+        return None
+    return APEX_PHRASE.get(status.lower(), status)
+
+
+def cite_primary_statute(jd):
+    sf = jd.get("statutory_framework") or []
+    if not sf:
+        return None
+    return sf[0]  # first listed is primary
+
+
+def cite_apex_decision(jd):
+    for ac in jd.get("apex_courts") or []:
+        for kd in ac.get("key_decisions") or []:
+            return ac, kd
+    return None, None
+
+
+def build_faq(jd):
+    name = jd.get("name") or jd.get("id", "this jurisdiction")
+    cp = country_phrase(name)
+    poss = f"{cp}'s" if not cp.lower().startswith("the ") else f"{cp[4:]}'s"
+    status = jd.get("pa_recognition_status") or {}
+    stat = statutory_phrase(status.get("statutory"))
+    apex = apex_phrase(status.get("apex_court_position"))
+    primary = cite_primary_statute(jd)
+    ac, kd = cite_apex_decision(jd)
+
+    faqs = []
+
+    # Q1: legality
+    if stat or apex:
+        bits = []
+        if stat:
+            bits.append(f"In {cp} parental alienation is {stat}.")
+        if apex:
+            bits.append(f"{apex[0].upper() + apex[1:]}.")
+        ans = " ".join(bits)
+    else:
+        ans = (
+            f"{poss} statutory framework does not name parental alienation "
+            f"directly; courts assess the underlying conduct under the "
+            f"best-interests-of-the-child standard."
+        )
+    faqs.append((
+        f"Is parental alienation illegal in {cp}?",
+        ans,
+    ))
+
+    # Q2: primary statute on withholding contact
+    if primary:
+        cite = primary.get("citation", "")
+        title = primary.get("title", "")
+        url = primary.get("url", "")
+        sentence = (
+            f"The primary statutory basis in {cp} is {cite}"
+            + (f" — {title}" if title else "")
+            + "."
+        )
+        if url:
+            sentence += f" Authoritative text: <{url}>."
+        faqs.append((
+            f"What law covers withholding a child from a parent in {cp}?",
+            sentence,
+        ))
+
+    # Q3: apex case
+    if kd:
+        cap = kd.get("caption", "")
+        stance = kd.get("stance", "")
+        year = kd.get("year", "")
+        bits = []
+        if cap:
+            bits.append(cap.split(" — ")[0] if " — " in cap else cap)
+        if year:
+            bits.append(f"({year})")
+        stance_text = ""
+        if stance == "critique":
+            stance_text = " The court treated parental-alienation labelling critically."
+        elif stance in {"recognised", "recognized", "recognition"}:
+            stance_text = " The court accepted the parental-alienation construct."
+        elif stance == "middle":
+            stance_text = " The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+        sentence = f"The leading apex decision is {' '.join(bits)}.{stance_text}"
+        faqs.append((
+            f"What is the leading court decision on parental alienation in {cp}?",
+            sentence,
+        ))
+
+    # Q4: practical
+    faqs.append((
+        f"What can a parent do if their child is being withheld from them in {cp}?",
+        f"Apply to the family court with jurisdiction over the child's habitual "
+        f"residence. The court will assess the application under {poss} "
+        f"best-interests-of-the-child framework"
+        + (f" ({primary['citation']})" if primary else "")
+        + " and may order specific contact, mediation, or — in serious cases — "
+        + "investigation by the child-protection authority. A parent in this "
+        + "situation should document the pattern of contact-interference and "
+        + "obtain local family-law advice before applying.",
+    ))
+
+    return faqs
+
+
+def render_faq_markdown(jd, faqs):
+    name = jd.get("name") or jd.get("id", "")
+    out = [f"## FAQ — Parental alienation in {name}", ""]
+    for q, a in faqs:
+        out.append(f"### {q}")
+        out.append("")
+        out.append(a)
+        out.append("")
+    return "\n".join(out).rstrip() + "\n"
+
+
+def render_json_ld(jd, faqs, public_base="https://knowledge.antialienate.com"):
+    slug = jd.get("id", "")
+    name = jd.get("name") or slug
+    url = f"{public_base}/jurisdictions/{slug}/"
+    graph = []
+
+    # FAQPage
+    graph.append({
+        "@type": "FAQPage",
+        "@id": f"{url}#faq",
+        "mainEntity": [
+            {
+                "@type": "Question",
+                "name": q,
+                "acceptedAnswer": {"@type": "Answer", "text": a},
+            }
+            for q, a in faqs
+        ],
+    })
+
+    # Legislation entities (one per statutory_framework entry, capped at 6)
+    for s in (jd.get("statutory_framework") or [])[:6]:
+        entry = {
+            "@type": "Legislation",
+            "name": s.get("title") or s.get("citation"),
+            "legislationIdentifier": s.get("citation"),
+            "jurisdiction": name,
+        }
+        if s.get("url"):
+            entry["url"] = s["url"]
+        if s.get("year"):
+            entry["datePublished"] = str(s["year"])
+        if s.get("relevance"):
+            entry["description"] = s["relevance"]
+        graph.append(entry)
+
+    # LegalCase entities (one per key_decision, capped at 4)
+    for ac in (jd.get("apex_courts") or [])[:4]:
+        court_name = ac.get("name")
+        for kd in (ac.get("key_decisions") or [])[:2]:
+            entry = {
+                "@type": "LegalCase",
+                "name": kd.get("caption", "").split(" — ")[0],
+                "datePublished": str(kd.get("year")) if kd.get("year") else None,
+                "courtName": court_name,
+            }
+            if kd.get("case_study_ref"):
+                entry["url"] = f"{public_base}/case-studies/{kd['case_study_ref']}/"
+            # Strip Nones
+            entry = {k: v for k, v in entry.items() if v}
+            graph.append(entry)
+
+    ld = {
+        "@context": "https://schema.org",
+        "@graph": graph,
+    }
+    body = json.dumps(ld, ensure_ascii=False, indent=2)
+    return f'<script type="application/ld+json">\n{body}\n</script>\n'
+
+
+def upsert_block(md_text, block_body):
+    block = f"{START}\n\n{block_body}\n\n{END}\n"
+    if START in md_text and END in md_text:
+        s = md_text.index(START)
+        e = md_text.index(END) + len(END)
+        # Drop a trailing newline immediately after END if present so we don't
+        # accumulate blank lines on each idempotent run.
+        if e < len(md_text) and md_text[e] == "\n":
+            e += 1
+        return md_text[:s].rstrip() + "\n\n" + block + md_text[e:].lstrip("\n")
+    # Append at end
+    return md_text.rstrip() + "\n\n" + block
+
+
+def process(root, slug):
+    jp = root / "jurisdictions" / f"{slug}.json"
+    mp = root / "jurisdictions" / f"{slug}.md"
+    if not jp.exists():
+        return f"skip {slug}: no JSON"
+    if not mp.exists():
+        return f"skip {slug}: no MD"
+    jd = json.loads(jp.read_text())
+    faqs = build_faq(jd)
+    md_block = render_faq_markdown(jd, faqs)
+    ld_block = render_json_ld(jd, faqs)
+    body = md_block + "\n" + ld_block
+    md_text = mp.read_text()
+    new = upsert_block(md_text, body.rstrip())
+    if new != md_text:
+        mp.write_text(new)
+        return f"updated {slug}.md (FAQ + JSON-LD)"
+    return f"unchanged {slug}"
+
+
+def main():
+    if len(sys.argv) < 2:
+        print(__doc__)
+        return 2
+    root = pathlib.Path(sys.argv[1])
+    slugs = sys.argv[2:] or TOP_50
+    for slug in slugs:
+        out = process(root, slug)
+        print(out)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

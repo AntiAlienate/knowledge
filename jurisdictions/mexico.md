@@ -235,3 +235,156 @@ Las sentencias de la SCJN, los Tribunales Colegiados de Circuito y los Tribunale
 - [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in México
+
+### Is parental alienation illegal in México?
+
+In México parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label.
+
+### What law covers withholding a child from a parent in México?
+
+The primary statutory basis in México is Constitución Política de los Estados Unidos Mexicanos (CPEUM) art. 4 — CPEUM art. 4 — interés superior del menor. Authoritative text: <https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf>.
+
+### What is the leading court decision on parental alienation in México?
+
+The leading apex decision is Acción de Inconstitucionalidad 11/2016 (Oaxaca) (2017). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in México?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under México's best-interests-of-the-child framework (Constitución Política de los Estados Unidos Mexicanos (CPEUM) art. 4) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/mexico/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in México?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In México parental alienation is not named directly in statute, but the parental-responsibility framework is the practical hook. The apex court treats the behaviour but not the syndrome label."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in México?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in México is Constitución Política de los Estados Unidos Mexicanos (CPEUM) art. 4 — CPEUM art. 4 — interés superior del menor. Authoritative text: <https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in México?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is Acción de Inconstitucionalidad 11/2016 (Oaxaca) (2017). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in México?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under México's best-interests-of-the-child framework (Constitución Política de los Estados Unidos Mexicanos (CPEUM) art. 4) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "CPEUM art. 4 — interés superior del menor",
+      "legislationIdentifier": "Constitución Política de los Estados Unidos Mexicanos (CPEUM) art. 4",
+      "jurisdiction": "México",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "datePublished": "1917",
+      "description": "Principio constitucional del interés superior del menor (incorporado por reforma de 2011 con el principio pro persona art. 1 CPEUM). Estándar substantivo bajo el cual se decide cualquier disputa de patria potestad y guarda y custodia en proceso familiar mexicano. Anclaje doctrinal de la SCJN en AI 11/2016 y AI 74/2024."
+    },
+    {
+      "@type": "Legislation",
+      "name": "CPEUM art. 14 — seguridad jurídica",
+      "legislationIdentifier": "Constitución Política de los Estados Unidos Mexicanos (CPEUM) art. 14",
+      "jurisdiction": "México",
+      "url": "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf",
+      "datePublished": "1917",
+      "description": "Garantía de seguridad jurídica y prohibición de leyes vagas / arbitrarias. Fundamento de la declaración de invalidez SCJN en AI 11/2016 sobre la definición vaga de alienación parental ('transformación de la conciencia') en el art. 336 Bis B del Código Civil de Oaxaca."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Convención CDN art. 3 — interés superior del niño",
+      "legislationIdentifier": "Convención sobre los Derechos del Niño art. 3",
+      "jurisdiction": "México",
+      "url": "https://www.ohchr.org/es/instruments-mechanisms/instruments/convention-rights-child",
+      "datePublished": "1989",
+      "description": "Tratado de derechos humanos con jerarquía constitucional en México (art. 133 CPEUM + tesis SCJN Contradicción 293/2011). Estándar interamericano del interés superior del niño aplicado por la SCJN en AI 11/2016 junto al art. 4 CPEUM."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Convención Interamericana para Prevenir, Sancionar y Erradicar la Violencia contra la Mujer",
+      "legislationIdentifier": "Convención de Belém do Pará",
+      "jurisdiction": "México",
+      "url": "https://www.oas.org/juridico/spanish/tratados/a-61.html",
+      "datePublished": "1994",
+      "description": "Tratado interamericano sobre violencia contra la mujer. Citado por la Defensoría de los Derechos Humanos del Pueblo de Oaxaca en su impugnación constitucional contra el Decreto 1380, conectando la lectura crítica de la alienación parental con el marco normativo de violencia contra la mujer."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Código Civil CDMX art. 323 Septimus — alienación parental (DEROGADO)",
+      "legislationIdentifier": "Código Civil para el Distrito Federal art. 323 Septimus (DEROGADO 2017)",
+      "jurisdiction": "México",
+      "url": "https://data.consejeria.cdmx.gob.mx/portal_old/uploads/gacetas/45dd2c91d1abe9caa6cae9e7eaef2b5b.pdf",
+      "datePublished": "2014",
+      "description": "Artículo del Código Civil CDMX que tipificaba la alienación parental como causal autónoma de suspensión de la patria potestad. DEROGADO en 2017 por la Asamblea Legislativa de la CDMX siguiendo la línea doctrinal anticipada por la SCJN en AI 11/2016. Distintivo del giro CDMX hacia la posición intermedia."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Código Civil de Oaxaca arts. 336 Bis B / 429 Bis A / 459 fracción IV — invalidados por AI 11/2016",
+      "legislationIdentifier": "Código Civil para el Estado de Oaxaca arts. 336 Bis B, 429 Bis A, 459 (INVALIDADOS PARCIALMENTE)",
+      "jurisdiction": "México",
+      "url": "https://www.scjn.gob.mx/",
+      "datePublished": "2016",
+      "description": "Decreto 1380 publicado 2 enero 2016 reformó el Código Civil de Oaxaca. INVALIDADAS por SCJN AI 11/2016: (a) definición vaga de alienación parental ('transformación de la conciencia'); (b) automatismo sancionatorio de suspensión / pérdida de patria potestad; (c) art. 459 fracción IV. SUBSISTE el deber afirmativo del progenitor custodio de promover el respeto y contacto con el otro progenitor."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Acción de Inconstitucionalidad 11/2016 (Oaxaca)",
+      "datePublished": "2017",
+      "courtName": "Suprema Corte de Justicia de la Nación (SCJN) — Tribunal Pleno",
+      "url": "https://knowledge.antialienate.com/case-studies/scjn-ai-11-2016-oaxaca-mexico/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Acción de Inconstitucionalidad 74/2024 (Tlaxcala)",
+      "datePublished": "2025",
+      "courtName": "Suprema Corte de Justicia de la Nación (SCJN) — Tribunal Pleno"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Primera Sala SCJN resuelve amparos directos / amparos en revisión en materia familiar bajo el estándar del interés superior del menor (art. 4 CPEUM + CDN art. 3). Línea jurisprudencial sobre custodia compartida y régimen de convivencias que opera el filtro doctrinal de AI 11/2016 a nivel de caso individual.",
+      "datePublished": "2026",
+      "courtName": "Suprema Corte de Justicia de la Nación — Primera Sala (materia familiar)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Tribunales Colegiados conocen amparos en materia familiar (segunda instancia federal). Línea de jurisprudencia que aplica el marco SCJN AI 11/2016 a casos individuales de patria potestad / guarda y custodia con conductas alienadoras alegadas.",
+      "datePublished": "2026",
+      "courtName": "Tribunales Colegiados de Circuito — materia familiar"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Salas Familiares de los Tribunales Superiores de Justicia estatales (CDMX, Estado de México, Jalisco, Nuevo León, etc.) son el foro de segunda instancia local en derecho de familia. La primera instancia opera vía Juzgados Familiares estatales. Conductas alienadoras alegadas se litigan principalmente a este nivel bajo Códigos Civiles estatales.",
+      "datePublished": "2026",
+      "courtName": "Tribunales Superiores de Justicia estatales — Salas Familiares"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

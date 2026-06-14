@@ -200,3 +200,111 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 - [Re Engaging Alienated Teen Beyond Court](https://www.antialienate.com/blog/re-engaging-alienated-teen-beyond-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in United Kingdom
+
+### Is parental alienation illegal in the United Kingdom?
+
+In the United Kingdom parental alienation is neither prohibited nor named in statute. The apex court accepts the construct.
+
+### What law covers withholding a child from a parent in the United Kingdom?
+
+The primary statutory basis in the United Kingdom is Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995 — UK constituent children-law statutes. Authoritative text: <https://www.legislation.gov.uk/>.
+
+### What is the leading court decision on parental alienation in the United Kingdom?
+
+The leading apex decision is UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in the United Kingdom?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United Kingdom's best-interests-of-the-child framework (Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/united-kingdom/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in the United Kingdom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In the United Kingdom parental alienation is neither prohibited nor named in statute. The apex court accepts the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in the United Kingdom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in the United Kingdom is Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995 — UK constituent children-law statutes. Authoritative text: <https://www.legislation.gov.uk/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in the United Kingdom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in the United Kingdom?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United Kingdom's best-interests-of-the-child framework (Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "UK constituent children-law statutes",
+      "legislationIdentifier": "Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995",
+      "jurisdiction": "United Kingdom",
+      "url": "https://www.legislation.gov.uk/",
+      "datePublished": "1995",
+      "description": "Each UK constituent jurisdiction operates distinct substantive children-law architecture. See per-constituent sidecars: jurisdiction:england-and-wales + jurisdiction:scotland + jurisdiction:northern-ireland + jurisdiction:wales."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Health and Social Care Act 2008 — HCPC UK-wide statutory framework",
+      "legislationIdentifier": "Health and Social Care Act 2008 (HCPC regulator framework)",
+      "jurisdiction": "United Kingdom",
+      "url": "https://www.legislation.gov.uk/ukpga/2008/14",
+      "datePublished": "2008",
+      "description": "Statutory framework for the Health and Care Professions Council (HCPC) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children and Families Act 2014 — Cafcass framework + family-court reforms",
+      "legislationIdentifier": "Children and Families Act 2014",
+      "jurisdiction": "United Kingdom",
+      "url": "https://www.legislation.gov.uk/ukpga/2014/6",
+      "datePublished": "2014",
+      "description": "UK-wide statutory framework reforming family-court procedure and establishing Cafcass operational mandate (E&W); Cafcass Cymru is devolved Welsh Government equivalent."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions.",
+      "datePublished": "2026",
+      "courtName": "UK Supreme Court"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "England-and-Wales (Re Y [2026] EWFC 38 McFarlane P + English Re-arc); Scotland (NF v AF [2025] CSOH 13 Lord Stuart); Northern Ireland (A Father v A Mother (No.2) 2022 O'Hara J); Wales (unified with E&W substantive). See per-country jurisdiction sidecars.",
+      "datePublished": "2026",
+      "courtName": "Constituent jurisdiction apex",
+      "url": "https://knowledge.antialienate.com/case-studies/re-y-2026-ewfc-38/"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

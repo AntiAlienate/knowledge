@@ -245,3 +245,151 @@ US state-court family-law decisions vary significantly: California / New York ro
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in United States
+
+### Is parental alienation illegal in the United States?
+
+In the United States parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in the United States?
+
+The primary statutory basis in the United States is California Family Code §§ 3010, 3011, 3020-3032 — California Family Code — joint custody, best-interests standard, family-violence factor. Authoritative text: <https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=FAM>.
+
+### What is the leading court decision on parental alienation in the United States?
+
+The leading apex decision is Federal apex court. Has addressed parental fundamental rights in Troxel v Granville 530 US 57 (2000) (third-party visitation) and Santosky v Kramer 455 US 745 (1982) (parental rights termination) but has NOT issued a parental-alienation-construct-engaging decision. PA construct adjudication has not reached the federal apex. (2000). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+
+### What can a parent do if their child is being withheld from them in the United States?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United States's best-interests-of-the-child framework (California Family Code §§ 3010, 3011, 3020-3032) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/united-states/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in the United States?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In the United States parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in the United States?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in the United States is California Family Code §§ 3010, 3011, 3020-3032 — California Family Code — joint custody, best-interests standard, family-violence factor. Authoritative text: <https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=FAM>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in the United States?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is Federal apex court. Has addressed parental fundamental rights in Troxel v Granville 530 US 57 (2000) (third-party visitation) and Santosky v Kramer 455 US 745 (1982) (parental rights termination) but has NOT issued a parental-alienation-construct-engaging decision. PA construct adjudication has not reached the federal apex. (2000). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in the United States?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United States's best-interests-of-the-child framework (California Family Code §§ 3010, 3011, 3020-3032) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "California Family Code — joint custody, best-interests standard, family-violence factor",
+      "legislationIdentifier": "California Family Code §§ 3010, 3011, 3020-3032",
+      "jurisdiction": "United States",
+      "url": "https://leginfo.legislature.ca.gov/faces/codes_displayexpandedbranch.xhtml?tocCode=FAM",
+      "datePublished": "1992",
+      "description": "California substantive Family Code. §3011 best-interest factors including history of family violence (§3011(a)(2)) and contact with both parents (§3011(a)(4)) plus §3044 rebuttable presumption against custody/joint custody for perpetrator of DV within prior 5 years. The substantive California hook for PA-adjacent fact-pattern adjudication."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Texas Family Code — conservatorship and possession",
+      "legislationIdentifier": "Texas Family Code Chapter 153 (Conservatorship, Possession, Access)",
+      "jurisdiction": "United States",
+      "url": "https://statutes.capitol.texas.gov/?link=FA",
+      "datePublished": "1995",
+      "description": "Texas substantive Family Code Chapter 153. §153.002 best interest of the child standard; §153.131 parental preference (rebuttable presumption appointing parents as joint managing conservators); §153.133 joint managing conservatorship if in best interest. Texas operates a conservatorship vs custody terminology distinct from common-law jurisdictions but functionally equivalent for PA-adjacent fact-patterns."
+    },
+    {
+      "@type": "Legislation",
+      "name": "New York Domestic Relations Law / Family Court Act — custody and visitation",
+      "legislationIdentifier": "New York Domestic Relations Law § 240 + Family Court Act Article 6",
+      "jurisdiction": "United States",
+      "url": "https://www.nysenate.gov/legislation/laws/DOM/240",
+      "datePublished": "1962",
+      "description": "New York substantive matrimonial / domestic-relations statute (DRL §240 custody and visitation) plus Family Court Act Article 6 (custody and visitation proceedings in Family Court). Tropea v Tropea 87 NY2d 727 (1996) established the BIOC relocation framework. PA-adjacent fact-patterns are decided here under BIOC standard."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Florida Statutes Chapter 61 — Dissolution of Marriage; Support; Time-Sharing",
+      "legislationIdentifier": "Florida Statutes Chapter 61 (Dissolution of Marriage)",
+      "jurisdiction": "United States",
+      "url": "http://www.leg.state.fl.us/Statutes/index.cfm?App_mode=Display_Statute&URL=0000-0099/0061/0061ContentsIndex.html",
+      "datePublished": "2008",
+      "description": "Florida substantive family-law statute. §61.13 parenting plan + parental responsibility + time-sharing schedule + best-interest factors. §61.13(3)(a)-(t) twenty-factor enumerated BIOC test. Florida operates a time-sharing terminology distinct from custody but functionally equivalent for PA-adjacent fact-patterns."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Massachusetts General Laws Chapter 208 §31 — custody of children",
+      "legislationIdentifier": "Massachusetts General Laws Chapter 208 §31",
+      "jurisdiction": "United States",
+      "url": "https://malegislature.gov/Laws/GeneralLaws/PartII/TitleIII/Chapter208/Section31",
+      "datePublished": "1986",
+      "description": "Massachusetts substantive divorce statute. §31 sole / shared legal custody, sole / shared physical custody, best-interests standard. Substantive Massachusetts hook for PA-adjacent fact-patterns."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Michigan Child Custody Act § 722.23 — best interests factor list + Friend of the Court Act",
+      "legislationIdentifier": "Michigan Compiled Laws § 722.23 (Best Interests of the Child) + Friend of the Court Act",
+      "jurisdiction": "United States",
+      "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-23",
+      "datePublished": "1970",
+      "description": "Michigan substantive Child Custody Act. §722.23 twelve-factor BIOC test. Michigan Friend of the Court Act establishes Friend of the Court office attached to each circuit court — the Michigan institutional analogue to Ontario OCL / England Cafcass / South Africa Family Advocate. Tsimhoni v Eibschitz-Tsimhoni 2015 was litigated under this statutory framework."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Federal apex court. Has addressed parental fundamental rights in Troxel v Granville 530 US 57 (2000) (third-party visitation) and Santosky v Kramer 455 US 745 (1982) (parental rights termination) but has NOT issued a parental-alienation-construct-engaging decision. PA construct adjudication has not reached the federal apex.",
+      "datePublished": "2000",
+      "courtName": "Supreme Court of the United States (SCOTUS)"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Tropea v Tropea 87 NY2d 727 (1996)",
+      "datePublished": "1996",
+      "courtName": "State Supreme Courts (50 + DC) — family-law appellate jurisdiction"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "In re Marriage of Humphries 2024 COA 92",
+      "datePublished": "2024",
+      "courtName": "State Intermediate Appellate Courts (Court of Appeals / Appellate Division / etc.)",
+      "url": "https://knowledge.antialienate.com/case-studies/in-re-marriage-of-humphries-2024-coa-92/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Tsimhoni v Eibschitz-Tsimhoni (Oakland County Michigan Family Division, 2015)",
+      "datePublished": "2015",
+      "courtName": "State Circuit / Superior / Family Courts — first-instance trial-level",
+      "url": "https://knowledge.antialienate.com/case-studies/tsimhoni-v-eibschitz-tsimhoni-michigan-2015/"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

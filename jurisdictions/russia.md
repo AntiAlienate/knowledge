@@ -192,3 +192,86 @@ Russian family-court decisions are anonymised per Supreme Court practice using i
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Russia (Russian Federation / Российская Федерация)
+
+### Is parental alienation illegal in Russia (Russian Federation / Российская Федерация)?
+
+In Russia (Russian Federation / Российская Федерация) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Russia (Russian Federation / Российская Федерация)?
+
+The primary statutory basis in Russia (Russian Federation / Российская Федерация) is Family Code of the Russian Federation 1995 (223-FZ) arts. 54-79 — Family Code — Parental rights and custody. Authoritative text: <https://www.consultant.ru/>.
+
+### What can a parent do if their child is being withheld from them in Russia (Russian Federation / Российская Федерация)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Russia (Russian Federation / Российская Федерация)'s best-interests-of-the-child framework (Family Code of the Russian Federation 1995 (223-FZ) arts. 54-79) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/russia/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Russia (Russian Federation / Российская Федерация)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Russia (Russian Federation / Российская Федерация) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Russia (Russian Federation / Российская Федерация)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Russia (Russian Federation / Российская Федерация) is Family Code of the Russian Federation 1995 (223-FZ) arts. 54-79 — Family Code — Parental rights and custody. Authoritative text: <https://www.consultant.ru/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Russia (Russian Federation / Российская Федерация)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Russia (Russian Federation / Российская Федерация)'s best-interests-of-the-child framework (Family Code of the Russian Federation 1995 (223-FZ) arts. 54-79) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Code — Parental rights and custody",
+      "legislationIdentifier": "Family Code of the Russian Federation 1995 (223-FZ) arts. 54-79",
+      "jurisdiction": "Russia (Russian Federation / Российская Федерация)",
+      "url": "https://www.consultant.ru/",
+      "datePublished": "1995",
+      "description": "Federal Family Code enacted post-Soviet effective 1 March 1996. Arts. 54-79 govern parental rights and child custody. Substantially amended over subsequent decades."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Code",
+      "legislationIdentifier": "Civil Code of the Russian Federation Parts I-IV",
+      "jurisdiction": "Russia (Russian Federation / Российская Федерация)",
+      "url": "https://www.consultant.ru/",
+      "datePublished": "1994",
+      "description": "Federal Civil Code enacted post-Soviet, comprising Parts I-IV (1994-2007); Part III governs inheritance affecting family-law matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Law on Basic Guarantees of the Rights of the Child",
+      "legislationIdentifier": "Federal Law on Basic Guarantees of the Rights of the Child 124-FZ of 1998",
+      "jurisdiction": "Russia (Russian Federation / Российская Федерация)",
+      "url": "https://www.consultant.ru/",
+      "datePublished": "1998",
+      "description": "Federal children's rights statute aligned with UNCRC obligations."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

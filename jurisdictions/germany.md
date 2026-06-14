@@ -232,3 +232,142 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 - [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Germany
+
+### Is parental alienation illegal in Germany?
+
+In Germany parental alienation is neither prohibited nor named in statute. The apex court has rejected the construct as pseudoscientific.
+
+### What law covers withholding a child from a parent in Germany?
+
+The primary statutory basis in Germany is BGB § 1684 — Umgang des Kindes mit den Eltern (Right of contact between child and parents). Authoritative text: <https://www.gesetze-im-internet.de/bgb/__1684.html>.
+
+### What is the leading court decision on parental alienation in Germany?
+
+The leading apex decision is BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 (2023). The court treated parental-alienation labelling critically.
+
+### What can a parent do if their child is being withheld from them in Germany?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Germany's best-interests-of-the-child framework (BGB § 1684) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/germany/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Germany?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Germany parental alienation is neither prohibited nor named in statute. The apex court has rejected the construct as pseudoscientific."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Germany?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Germany is BGB § 1684 — Umgang des Kindes mit den Eltern (Right of contact between child and parents). Authoritative text: <https://www.gesetze-im-internet.de/bgb/__1684.html>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the leading court decision on parental alienation in Germany?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The leading apex decision is BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 (2023). The court treated parental-alienation labelling critically."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Germany?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Germany's best-interests-of-the-child framework (BGB § 1684) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Umgang des Kindes mit den Eltern (Right of contact between child and parents)",
+      "legislationIdentifier": "BGB § 1684",
+      "jurisdiction": "Germany",
+      "url": "https://www.gesetze-im-internet.de/bgb/__1684.html",
+      "datePublished": "1979",
+      "description": "Primary statutory basis for contact/Umgangsrecht; used as the hook by recognition-camp practitioners to plead PA, and by critique-camp courts to refuse PA-labelled enforcement where Kindeswohl is contraindicated."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche (Modification of court decisions)",
+      "legislationIdentifier": "BGB § 1696",
+      "jurisdiction": "Germany",
+      "url": "https://www.gesetze-im-internet.de/bgb/__1696.html",
+      "datePublished": "1998",
+      "description": "Schwellenwert ('triftige, das Wohl des Kindes nachhaltig berührende Gründe') for modifying custody/contact orders; central in PA-adjacent transfer-of-residence disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Gesetz über das Verfahren in Familiensachen und in den Angelegenheiten der freiwilligen Gerichtsbarkeit",
+      "legislationIdentifier": "FamFG §§ 155, 156, 158, 159, 163",
+      "jurisdiction": "Germany",
+      "url": "https://www.gesetze-im-internet.de/famfg/",
+      "datePublished": "2009",
+      "description": "Procedural code for family courts; § 155 Vorrang- und Beschleunigungsgebot, § 158 Verfahrensbeistand, § 163 Sachverständigengutachten (basis for the BRAK/DFGT Mindestanforderungen 3. Aufl. 2025 quality-standard regime for psychological reports)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Kinder- und Jugendhilfegesetz (Achtes Sozialgesetzbuch)",
+      "legislationIdentifier": "SGB VIII (KJHG)",
+      "jurisdiction": "Germany",
+      "url": "https://www.gesetze-im-internet.de/sgb_8/",
+      "datePublished": "1990",
+      "description": "Jugendamt mandate and Kindeswohl framework; informs Verfahrensbeistand cooperation and PETRA-Projekt-style intensive interventions."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence (Sorge- und Besuchsrecht und Sicherheit)",
+      "legislationIdentifier": "Istanbul Convention art. 31",
+      "jurisdiction": "Germany",
+      "url": "https://rm.coe.int/168008482e",
+      "datePublished": "2018",
+      "description": "Ratified by Germany 2017, in force 1.2.2018. Art. 31 requires that contact/custody decisions take account of violence; GREVIO Baseline Evaluation Report on Germany (2022) and 1st thematic report criticise residual Cochem-style 'cooperation imperative' and PA-labelled deflection of DV allegations — a key plank of the BVerfG 2023 reasoning."
+    },
+    {
+      "@type": "LegalCase",
+      "name": "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23",
+      "datePublished": "2023",
+      "courtName": "Bundesverfassungsgericht (BVerfG)",
+      "url": "https://knowledge.antialienate.com/case-studies/bverfg-1-bvr-1076-23-germany-2023/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "OLG Frankfurt, Beschluss vom 5.1.2026 - 7 UF 88/25",
+      "datePublished": "2026",
+      "courtName": "Oberlandesgericht Frankfurt am Main (OLG Frankfurt)",
+      "url": "https://knowledge.antialienate.com/case-studies/olg-frankfurt-7-uf-88-25-germany-2026/"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "BGH is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites BGB § 1696 Schwellenwert.",
+      "datePublished": "2026",
+      "courtName": "Bundesgerichtshof (BGH) — XII. Zivilsenat"
+    },
+    {
+      "@type": "LegalCase",
+      "name": "Cochem-Zell working-group model (Cochemer Praxis)",
+      "datePublished": "2008",
+      "courtName": "Cochemer Modell / AG Cochem-Zell (historical reference)"
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

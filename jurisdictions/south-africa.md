@@ -231,3 +231,104 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in South Africa (Republic of South Africa)
+
+### Is parental alienation illegal in South Africa (Republic of South Africa)?
+
+In South Africa (Republic of South Africa) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in South Africa (Republic of South Africa)?
+
+The primary statutory basis in South Africa (Republic of South Africa) is Constitution of the Republic of South Africa 1996 s 28 — Constitutional child-rights framework. Authoritative text: <https://www.gov.za/documents/constitution-republic-south-africa-1996>.
+
+### What can a parent do if their child is being withheld from them in South Africa (Republic of South Africa)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under South Africa (Republic of South Africa)'s best-interests-of-the-child framework (Constitution of the Republic of South Africa 1996 s 28) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/south-africa/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in South Africa (Republic of South Africa)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In South Africa (Republic of South Africa) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in South Africa (Republic of South Africa)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in South Africa (Republic of South Africa) is Constitution of the Republic of South Africa 1996 s 28 — Constitutional child-rights framework. Authoritative text: <https://www.gov.za/documents/constitution-republic-south-africa-1996>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in South Africa (Republic of South Africa)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under South Africa (Republic of South Africa)'s best-interests-of-the-child framework (Constitution of the Republic of South Africa 1996 s 28) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitutional child-rights framework",
+      "legislationIdentifier": "Constitution of the Republic of South Africa 1996 s 28",
+      "jurisdiction": "South Africa (Republic of South Africa)",
+      "url": "https://www.gov.za/documents/constitution-republic-south-africa-1996",
+      "datePublished": "1996",
+      "description": "Constitution s 28 establishing constitutionally-grounded child-rights framework including s 28(2) best as paramount standard."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Comprehensive child-rights statute",
+      "legislationIdentifier": "Children's Act 38 of 2005",
+      "jurisdiction": "South Africa (Republic of South Africa)",
+      "url": "https://www.gov.za/documents/childrens-act",
+      "datePublished": "2005",
+      "description": "Primary statutory basis for child-rights framework — effective 1 April 2010 replacing 1983 Child Care Act. Establishes parental responsibilities and rights (s 18) framework, BIC standard (s 7), child-participation rights (s 10), and Children's Court jurisdiction."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Divorce statute",
+      "legislationIdentifier": "Divorce Act 70 of 1979",
+      "jurisdiction": "South Africa (Republic of South Africa)",
+      "url": "https://www.gov.za/documents/divorce-act",
+      "datePublished": "1979",
+      "description": "Divorce statutory framework establishing no-fault divorce grounds. Section 6 addresses welfare-of-children considerations in divorce proceedings. Substantively foundational pre-Children's-Act framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Advocate's Office statutory basis",
+      "legislationIdentifier": "Mediation in Certain Divorce Matters Act 24 of 1987",
+      "jurisdiction": "South Africa (Republic of South Africa)",
+      "url": "https://www.gov.za/documents/mediation-certain-divorce-matters-act",
+      "datePublished": "1987",
+      "description": "Establishes Family Advocate's Office (under Department of Justice) providing expert-mediation function in divorce-related parenting disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "DV-protection statute",
+      "legislationIdentifier": "Domestic Violence Act 116 of 1998",
+      "jurisdiction": "South Africa (Republic of South Africa)",
+      "url": "https://www.gov.za/documents/domestic-violence-act",
+      "datePublished": "1998",
+      "description": "DV-protection framework establishing protection-order procedure. Substantively significant for DV-PA-allegation intersection cases — invoked in subsequent contact-refusal litigation."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

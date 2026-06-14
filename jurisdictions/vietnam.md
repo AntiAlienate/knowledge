@@ -174,3 +174,77 @@ Vietnamese family-court decisions are anonymised per Supreme People's Court prac
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Vietnam (Việt Nam)
+
+### Is parental alienation illegal in Vietnam (Việt Nam)?
+
+In Vietnam (Việt Nam) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Vietnam (Việt Nam)?
+
+The primary statutory basis in Vietnam (Việt Nam) is Law on Marriage and Family 52/2014/QH13 arts. 69-96 — Marriage and Family Law 2014. Authoritative text: <https://thuvienphapluat.vn/>.
+
+### What can a parent do if their child is being withheld from them in Vietnam (Việt Nam)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Vietnam (Việt Nam)'s best-interests-of-the-child framework (Law on Marriage and Family 52/2014/QH13 arts. 69-96) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/vietnam/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Vietnam (Việt Nam)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Vietnam (Việt Nam) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Vietnam (Việt Nam)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Vietnam (Việt Nam) is Law on Marriage and Family 52/2014/QH13 arts. 69-96 — Marriage and Family Law 2014. Authoritative text: <https://thuvienphapluat.vn/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Vietnam (Việt Nam)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Vietnam (Việt Nam)'s best-interests-of-the-child framework (Law on Marriage and Family 52/2014/QH13 arts. 69-96) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Marriage and Family Law 2014",
+      "legislationIdentifier": "Law on Marriage and Family 52/2014/QH13 arts. 69-96",
+      "jurisdiction": "Vietnam (Việt Nam)",
+      "url": "https://thuvienphapluat.vn/",
+      "datePublished": "2014",
+      "description": "Federal statute on family law in force 1 January 2015. Arts. 69-96 govern parental rights and obligations; joint exercise during marriage is the statutory default. Welfare standard codified."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Code 2015",
+      "legislationIdentifier": "Civil Code 91/2015/QH13",
+      "jurisdiction": "Vietnam (Việt Nam)",
+      "url": "https://thuvienphapluat.vn/",
+      "datePublished": "2015",
+      "description": "Federal civil code in force 1 January 2017 — substantial modernisation of Vietnamese private law."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

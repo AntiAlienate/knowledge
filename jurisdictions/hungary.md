@@ -178,3 +178,77 @@ Hungarian family-law decisions are anonymised per Kúria practice.
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Hungary (Magyarország)
+
+### Is parental alienation illegal in Hungary (Magyarország)?
+
+In Hungary (Magyarország) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Hungary (Magyarország)?
+
+The primary statutory basis in Hungary (Magyarország) is Ptk Book Four (Law V of 2013) §§ 4:146-4:201 — Civil Code Book Four — Family Law (Parental authority). Authoritative text: <https://net.jogtar.hu/jogszabaly?docid=A1300005.TV>.
+
+### What can a parent do if their child is being withheld from them in Hungary (Magyarország)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Hungary (Magyarország)'s best-interests-of-the-child framework (Ptk Book Four (Law V of 2013) §§ 4:146-4:201) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/hungary/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Hungary (Magyarország)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Hungary (Magyarország) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Hungary (Magyarország)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Hungary (Magyarország) is Ptk Book Four (Law V of 2013) §§ 4:146-4:201 — Civil Code Book Four — Family Law (Parental authority). Authoritative text: <https://net.jogtar.hu/jogszabaly?docid=A1300005.TV>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Hungary (Magyarország)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Hungary (Magyarország)'s best-interests-of-the-child framework (Ptk Book Four (Law V of 2013) §§ 4:146-4:201) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Code Book Four — Family Law (Parental authority)",
+      "legislationIdentifier": "Ptk Book Four (Law V of 2013) §§ 4:146-4:201",
+      "jurisdiction": "Hungary (Magyarország)",
+      "url": "https://net.jogtar.hu/jogszabaly?docid=A1300005.TV",
+      "datePublished": "2013",
+      "description": "Federal civil-code basis for parental authority. Law V of 2013 (Ptk) in force 15 March 2014 substantially modernised Hungarian private law. § 4:152 establishes joint exercise of parental authority as the default during marriage and cohabitation; § 4:164 governs determination of parental authority on separation with the welfare standard governing."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Fundamental Law — Children's Rights",
+      "legislationIdentifier": "Alaptörvény (Fundamental Law) Art. XVI",
+      "jurisdiction": "Hungary (Magyarország)",
+      "url": "https://net.jogtar.hu/jogszabaly?docid=A1100425.ATV",
+      "datePublished": "2011",
+      "description": "Constitutional children's-rights provision under the Fundamental Law in force 1 January 2012. Art. XVI(1) establishes that every child has the right to the protection and care necessary for proper physical, mental and moral development."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -187,3 +187,86 @@ Romanian family-law decisions are anonymised per ICCJ practice using initials. P
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Romania (România)
+
+### Is parental alienation illegal in Romania (România)?
+
+In Romania (România) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Romania (România)?
+
+The primary statutory basis in Romania (România) is Codul Civil arts. 483-512 — New Civil Code Book Two — Parental authority. Authoritative text: <https://legislatie.just.ro/Public/DetaliiDocument/109884>.
+
+### What can a parent do if their child is being withheld from them in Romania (România)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Romania (România)'s best-interests-of-the-child framework (Codul Civil arts. 483-512) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/romania/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Romania (România)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Romania (România) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Romania (România)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Romania (România) is Codul Civil arts. 483-512 — New Civil Code Book Two — Parental authority. Authoritative text: <https://legislatie.just.ro/Public/DetaliiDocument/109884>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Romania (România)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Romania (România)'s best-interests-of-the-child framework (Codul Civil arts. 483-512) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "New Civil Code Book Two — Parental authority",
+      "legislationIdentifier": "Codul Civil arts. 483-512",
+      "jurisdiction": "Romania (România)",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/109884",
+      "datePublished": "2009",
+      "description": "Federal civil-code basis for parental authority. Law 287/2009 (New Civil Code) in force 1 October 2011. Art. 503 establishes joint exercise of parental authority by both parents. Art. 263 establishes the interesul superior al copilului standard as decisive in all decisions concerning the child."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Law on the protection and promotion of the rights of the child",
+      "legislationIdentifier": "Law 272/2004 — Protection of the Child",
+      "jurisdiction": "Romania (România)",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/53528",
+      "datePublished": "2004",
+      "description": "Federal child-protection statute providing the framework for the welfare-paramountcy standard and the Direcția Generală de Asistență Socială și Protecția Copilului (DGASPC) child-protection authorities."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Law establishing the College of Psychologists",
+      "legislationIdentifier": "Law 213/2004 — Colegiul Psihologilor",
+      "jurisdiction": "Romania (România)",
+      "url": "https://legislatie.just.ro/Public/DetaliiDocument/52464",
+      "datePublished": "2004",
+      "description": "Federal statute establishing the Colegiul Psihologilor din România (CPR) as the statutory professional-order regulator. Statutory title protection for 'psiholog'; mandatory CPR membership for practising psychologists; disciplinary jurisdiction."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

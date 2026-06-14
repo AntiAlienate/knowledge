@@ -222,3 +222,104 @@ India is a mixed common-law / personal-law jurisdiction whose family courts appl
 - [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in India (Republic of India / भारत गणराज्य)
+
+### Is parental alienation illegal in India (Republic of India / भारत गणराज्य)?
+
+In India (Republic of India / भारत गणराज्य) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in India (Republic of India / भारत गणराज्य)?
+
+The primary statutory basis in India (Republic of India / भारत गणराज्य) is Constitution of India 1950 — Constitutional framework. Authoritative text: <https://www.constitutionofindia.net/>.
+
+### What can a parent do if their child is being withheld from them in India (Republic of India / भारत गणराज्य)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under India (Republic of India / भारत गणराज्य)'s best-interests-of-the-child framework (Constitution of India 1950) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/india/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in India (Republic of India / भारत गणराज्य)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In India (Republic of India / भारत गणराज्य) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in India (Republic of India / भारत गणराज्य)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in India (Republic of India / भारत गणराज्य) is Constitution of India 1950 — Constitutional framework. Authoritative text: <https://www.constitutionofindia.net/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in India (Republic of India / भारत गणराज्य)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under India (Republic of India / भारत गणराज्य)'s best-interests-of-the-child framework (Constitution of India 1950) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitutional framework",
+      "legislationIdentifier": "Constitution of India 1950",
+      "jurisdiction": "India (Republic of India / भारत गणराज्य)",
+      "url": "https://www.constitutionofindia.net/",
+      "datePublished": "1950",
+      "description": "Constitution of India 1950 establishing constitutional framework. Art. 39(f) directive principle requiring State to ensure children develop healthy and dignified circumstances; Art. 21 fundamental right to life with substantive constitutional jurisprudence on child-welfare framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Hindu personal-status guardianship statute",
+      "legislationIdentifier": "Hindu Minority and Guardianship Act 1956 (HMGA)",
+      "jurisdiction": "India (Republic of India / भारत गणराज्य)",
+      "url": "https://www.indiacode.nic.in/handle/123456789/1648",
+      "datePublished": "1956",
+      "description": "Hindu Minority and Guardianship Act 1956 establishing guardianship framework for Hindu minors. Section 6 establishes natural guardianship framework — historically father-priority subsequently moderated by Supreme Court jurisprudence (Githa Hariharan v RBI 1999)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Secular guardianship statute",
+      "legislationIdentifier": "Guardians and Wards Act 1890 (GWA)",
+      "jurisdiction": "India (Republic of India / भारत गणराज्य)",
+      "url": "https://www.indiacode.nic.in/handle/123456789/2399",
+      "datePublished": "1890",
+      "description": "Guardians and Wards Act 1890 establishing secular guardianship framework available across personal-status communities. Section 17 welfare-of-the-minor framework. Substantively foundational pre-personal-law guardianship framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Hindu marriage and divorce statute",
+      "legislationIdentifier": "Hindu Marriage Act 1955",
+      "jurisdiction": "India (Republic of India / भारत गणराज्य)",
+      "url": "https://www.indiacode.nic.in/handle/123456789/1560",
+      "datePublished": "1955",
+      "description": "Hindu Marriage Act 1955 establishing Hindu marriage and divorce framework. Section 26 addresses custody of children in matrimonial proceedings. Substantively foundational Hindu personal-status statute."
+    },
+    {
+      "@type": "Legislation",
+      "name": "DV-protection statute",
+      "legislationIdentifier": "Protection of Women from Domestic Violence Act 2005 (PWDVA)",
+      "jurisdiction": "India (Republic of India / भारत गणराज्य)",
+      "url": "https://www.indiacode.nic.in/handle/123456789/2031",
+      "datePublished": "2005",
+      "description": "Protection of Women from Domestic Violence Act 2005 establishing DV-protection framework with protection-order procedure. Substantively significant for DV-PA-allegation intersection cases."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

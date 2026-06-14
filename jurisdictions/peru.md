@@ -187,3 +187,86 @@ Peruvian family-court decisions are anonymised per Supreme Court practice using 
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Peru (Republic of Peru / República del Perú)
+
+### Is parental alienation illegal in Peru (Republic of Peru / República del Perú)?
+
+In Peru (Republic of Peru / República del Perú) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Peru (Republic of Peru / República del Perú)?
+
+The primary statutory basis in Peru (Republic of Peru / República del Perú) is Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III) — Civil Code Book III — Family Law. Authoritative text: <https://www.pj.gob.pe/>.
+
+### What can a parent do if their child is being withheld from them in Peru (Republic of Peru / República del Perú)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Peru (Republic of Peru / República del Perú)'s best-interests-of-the-child framework (Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/peru/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Peru (Republic of Peru / República del Perú)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Peru (Republic of Peru / República del Perú) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Peru (Republic of Peru / República del Perú)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Peru (Republic of Peru / República del Perú) is Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III) — Civil Code Book III — Family Law. Authoritative text: <https://www.pj.gob.pe/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Peru (Republic of Peru / República del Perú)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Peru (Republic of Peru / República del Perú)'s best-interests-of-the-child framework (Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Code Book III — Family Law",
+      "legislationIdentifier": "Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III)",
+      "jurisdiction": "Peru (Republic of Peru / República del Perú)",
+      "url": "https://www.pj.gob.pe/",
+      "datePublished": "1984",
+      "description": "Federal Civil Code Book III on Family Law. Arts. 418-471 govern patria potestad and child custody."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children and Adolescents Code",
+      "legislationIdentifier": "Children and Adolescents Code 2000 (Law 27337)",
+      "jurisdiction": "Peru (Republic of Peru / República del Perú)",
+      "url": "https://www.pj.gob.pe/",
+      "datePublished": "2000",
+      "description": "Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Colegio de Psicólogos Law",
+      "legislationIdentifier": "Colegio de Psicólogos Law 23019 of 1980",
+      "jurisdiction": "Peru (Republic of Peru / República del Perú)",
+      "url": "https://www.cpsp.pe/",
+      "datePublished": "1980",
+      "description": "Federal statute establishing Colegio de Psicólogos del Perú — among earliest Latin American statutory psychology regulation."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

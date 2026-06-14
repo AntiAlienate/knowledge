@@ -181,3 +181,95 @@ Israeli family-court decisions are anonymised per published practice using eithe
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Israel (ישראל / إسرائيل)
+
+### Is parental alienation illegal in Israel (ישראל / إسرائيل)?
+
+In Israel (ישראל / إسرائيل) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Israel (ישראל / إسرائيل)?
+
+The primary statutory basis in Israel (ישראל / إسرائيل) is Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17 — Capacity and Guardianship Law — Welfare of the Child. Authoritative text: <https://www.nevo.co.il/law_html/Law01/077_001.htm>.
+
+### What can a parent do if their child is being withheld from them in Israel (ישראל / إسرائيل)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Israel (ישראל / إسرائيل)'s best-interests-of-the-child framework (Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/israel/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Israel (ישראל / إسرائيل)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Israel (ישראל / إسرائيل) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Israel (ישראל / إسرائيل)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Israel (ישראל / إسرائيل) is Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17 — Capacity and Guardianship Law — Welfare of the Child. Authoritative text: <https://www.nevo.co.il/law_html/Law01/077_001.htm>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Israel (ישראל / إسرائيل)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Israel (ישראל / إسرائيل)'s best-interests-of-the-child framework (Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Capacity and Guardianship Law — Welfare of the Child",
+      "legislationIdentifier": "Capacity and Guardianship Law 1962 (חוק הכשרות המשפטית והאפוטרופסות) s. 17",
+      "jurisdiction": "Israel (ישראל / إسرائيل)",
+      "url": "https://www.nevo.co.il/law_html/Law01/077_001.htm",
+      "datePublished": "1962",
+      "description": "Federal statutory basis for custody and guardianship. § 17 codifies the welfare-of-the-child standard as the governing principle for parental decision-making and dispute resolution. Substantive hook for PA-adjacent custody-modification analysis."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Family Court Law 1995",
+      "legislationIdentifier": "Family Court Law 1995 (חוק בית המשפט לענייני משפחה)",
+      "jurisdiction": "Israel (ישראל / إسرائيل)",
+      "url": "https://www.nevo.co.il/law_html/Law01/255_001.htm",
+      "datePublished": "1995",
+      "description": "Established the specialised civil Family Courts (Beit Mishpat L'inyenei Mishpacha) with jurisdiction over family-law matters including custody, contact, child-maintenance and property. Operates in parallel with the religious-court jurisdiction over personal-status matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Psychologists Law 1977",
+      "legislationIdentifier": "Psychologists Law 1977 (חוק הפסיכולוגים)",
+      "jurisdiction": "Israel (ישראל / إسرائيل)",
+      "url": "https://www.nevo.co.il/law_html/Law01/180_006.htm",
+      "datePublished": "1977",
+      "description": "Federal statute establishing the Psychologists Registration Board under the Ministry of Health. Statutorily protected title 'psychologist' requires registration; statutory regulation of the specialisation tracks (clinical, educational, developmental, rehabilitation, occupational, medical, social)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Basic Law: Human Dignity and Liberty",
+      "legislationIdentifier": "Basic Law: Human Dignity and Liberty 1992",
+      "jurisdiction": "Israel (ישראל / إسرائيل)",
+      "url": "https://www.nevo.co.il/law_html/Law01/184_001.htm",
+      "datePublished": "1992",
+      "description": "Quasi-constitutional Basic Law cited in Supreme Court reasoning on welfare and parental rights. Operates as the constitutional anchor for proportionality analysis in family-court appellate review."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

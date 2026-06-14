@@ -184,3 +184,77 @@ Moroccan family-court decisions are anonymised per Court of Cassation practice u
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Morocco (Kingdom of Morocco / المملكة المغربية)
+
+### Is parental alienation illegal in Morocco (Kingdom of Morocco / المملكة المغربية)?
+
+In Morocco (Kingdom of Morocco / المملكة المغربية) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Morocco (Kingdom of Morocco / المملكة المغربية)?
+
+The primary statutory basis in Morocco (Kingdom of Morocco / المملكة المغربية) is Moudawana (Family Code) Law 70-03 arts. 163-186 — Moudawana — Custody and guardianship. Authoritative text: <https://www.justice.gov.ma/>.
+
+### What can a parent do if their child is being withheld from them in Morocco (Kingdom of Morocco / المملكة المغربية)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Morocco (Kingdom of Morocco / المملكة المغربية)'s best-interests-of-the-child framework (Moudawana (Family Code) Law 70-03 arts. 163-186) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/morocco/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Morocco (Kingdom of Morocco / المملكة المغربية)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Morocco (Kingdom of Morocco / المملكة المغربية) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Morocco (Kingdom of Morocco / المملكة المغربية)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Morocco (Kingdom of Morocco / المملكة المغربية) is Moudawana (Family Code) Law 70-03 arts. 163-186 — Moudawana — Custody and guardianship. Authoritative text: <https://www.justice.gov.ma/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Morocco (Kingdom of Morocco / المملكة المغربية)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Morocco (Kingdom of Morocco / المملكة المغربية)'s best-interests-of-the-child framework (Moudawana (Family Code) Law 70-03 arts. 163-186) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Moudawana — Custody and guardianship",
+      "legislationIdentifier": "Moudawana (Family Code) Law 70-03 arts. 163-186",
+      "jurisdiction": "Morocco (Kingdom of Morocco / المملكة المغربية)",
+      "url": "https://www.justice.gov.ma/",
+      "datePublished": "2004",
+      "description": "Federal Family Code drawn from Maliki Islamic-law tradition with substantial 2004 modernisation reforms. Arts. 163-186 govern hadana (custody) and wilaya (guardianship)."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Code of Civil Procedure",
+      "legislationIdentifier": "Code of Civil Procedure",
+      "jurisdiction": "Morocco (Kingdom of Morocco / المملكة المغربية)",
+      "url": "https://www.justice.gov.ma/",
+      "datePublished": "1974",
+      "description": "Federal procedural code applicable to Family Sections of Court of First Instance."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

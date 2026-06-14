@@ -179,3 +179,77 @@ Finnish family-law decisions are anonymised per Korkein oikeus practice using in
 - [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Finland (Suomi / Finland)
+
+### Is parental alienation illegal in Finland (Suomi / Finland)?
+
+In Finland (Suomi / Finland) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Finland (Suomi / Finland)?
+
+The primary statutory basis in Finland (Suomi / Finland) is Laki lapsen huollosta ja tapaamisoikeudesta 1983/361 — Act on Child Custody and Right of Access. Authoritative text: <https://www.finlex.fi/fi/laki/ajantasa/1983/19830361>.
+
+### What can a parent do if their child is being withheld from them in Finland (Suomi / Finland)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Finland (Suomi / Finland)'s best-interests-of-the-child framework (Laki lapsen huollosta ja tapaamisoikeudesta 1983/361) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/finland/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Finland (Suomi / Finland)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Finland (Suomi / Finland) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Finland (Suomi / Finland)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Finland (Suomi / Finland) is Laki lapsen huollosta ja tapaamisoikeudesta 1983/361 — Act on Child Custody and Right of Access. Authoritative text: <https://www.finlex.fi/fi/laki/ajantasa/1983/19830361>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Finland (Suomi / Finland)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Finland (Suomi / Finland)'s best-interests-of-the-child framework (Laki lapsen huollosta ja tapaamisoikeudesta 1983/361) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Act on Child Custody and Right of Access",
+      "legislationIdentifier": "Laki lapsen huollosta ja tapaamisoikeudesta 1983/361",
+      "jurisdiction": "Finland (Suomi / Finland)",
+      "url": "https://www.finlex.fi/fi/laki/ajantasa/1983/19830361",
+      "datePublished": "1983",
+      "description": "Federal statute governing child custody (huolto) and right of access (tapaamisoikeus). § 1 codifies the lapsen etu welfare standard. § 6 establishes joint custody as the default. Substantially amended by Lain muutos 190/2019 in force 1 December 2019 to strengthen contact provisions and introduce supervised-contact framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Health Care Professionals Act 1994",
+      "legislationIdentifier": "Laki terveydenhuollon ammattihenkilöistä 1994/559",
+      "jurisdiction": "Finland (Suomi / Finland)",
+      "url": "https://www.finlex.fi/fi/laki/ajantasa/1994/19940559",
+      "datePublished": "1994",
+      "description": "Federal statute regulating health care professionals including psychologists. Statutorily protected title 'psykologi' requires registration with Valvira. Statutory anchor for evaluator-quality."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

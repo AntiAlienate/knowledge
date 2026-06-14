@@ -182,3 +182,95 @@ Austrian family-law decisions are anonymised per OGH convention using initials o
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Austria (Österreich)
+
+### Is parental alienation illegal in Austria (Österreich)?
+
+In Austria (Österreich) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Austria (Österreich)?
+
+The primary statutory basis in Austria (Österreich) is ABGB §§ 158-186 — Obsorge (Parental authority). Authoritative text: <https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622>.
+
+### What can a parent do if their child is being withheld from them in Austria (Österreich)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Austria (Österreich)'s best-interests-of-the-child framework (ABGB §§ 158-186) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/austria/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Austria (Österreich)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Austria (Österreich) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Austria (Österreich)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Austria (Österreich) is ABGB §§ 158-186 — Obsorge (Parental authority). Authoritative text: <https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Austria (Österreich)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Austria (Österreich)'s best-interests-of-the-child framework (ABGB §§ 158-186) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Obsorge (Parental authority)",
+      "legislationIdentifier": "ABGB §§ 158-186",
+      "jurisdiction": "Austria (Österreich)",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622",
+      "datePublished": "2013",
+      "description": "Federal civil-code basis for parental authority. KindNamRÄG 2013 reform in force 1 February 2013 established joint Obsorge as the default arrangement. Central provisions for PA-adjacent custody-modification analysis."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Kontaktrecht (Personal contact)",
+      "legislationIdentifier": "ABGB § 187",
+      "jurisdiction": "Austria (Österreich)",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=10001622",
+      "datePublished": "2013",
+      "description": "Federal civil-code basis for the right of personal contact between non-residential parent and child. Substantive hook for PA-adjacent contact-enforcement disputes."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Federal Non-Contentious Proceedings Act",
+      "legislationIdentifier": "Außerstreitgesetz (AußStrG)",
+      "jurisdiction": "Austria (Österreich)",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20003047",
+      "datePublished": "2003",
+      "description": "Procedural framework for family-court proceedings (Pflegschaftsverfahren). Governs Familiengerichtshilfe (family-court assistance service) involvement and Sachverständigengutachten (expert evidence) in custody/contact matters."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Federal Psychology Profession Act",
+      "legislationIdentifier": "Psychologengesetz 2013 (PG 2013)",
+      "jurisdiction": "Austria (Österreich)",
+      "url": "https://www.ris.bka.gv.at/GeltendeFassung.wxe?Abfrage=Bundesnormen&Gesetzesnummer=20008552",
+      "datePublished": "2013",
+      "description": "Federal statute in force 1 July 2014 providing statutory title protection for psychologists. Statutory anchor for evaluator-quality in court-appointed psychological assessments."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

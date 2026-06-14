@@ -180,3 +180,86 @@ Greek family-law decisions are anonymised per Areios Pagos and Efeteio practice 
 - [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Greece (Ελλάδα)
+
+### Is parental alienation illegal in Greece (Ελλάδα)?
+
+In Greece (Ελλάδα) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Greece (Ελλάδα)?
+
+The primary statutory basis in Greece (Ελλάδα) is Astikos Kodikas arts. 1510-1541 (as amended by Law 4800/2021) — Civil Code Book Four — Parental Responsibility. Authoritative text: <https://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEzH9d6xfVpRXdtvSoClrL8MLkAOIxR75gtiDow6HlTE-JInJ48_97uHrMts-zFzeyCiBSQOpYnTy36MacmUFCx2ppFvBej56Mmc8Qdb8ZfRJqZnsIAdk8Lv_e6czmhEembNmZCMxLMtUQy90eFJoXLZdj7t0a7G4EOPtsOd0qSltFA-EurxA-w>.
+
+### What can a parent do if their child is being withheld from them in Greece (Ελλάδα)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Greece (Ελλάδα)'s best-interests-of-the-child framework (Astikos Kodikas arts. 1510-1541 (as amended by Law 4800/2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/greece/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Greece (Ελλάδα)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Greece (Ελλάδα) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Greece (Ελλάδα)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Greece (Ελλάδα) is Astikos Kodikas arts. 1510-1541 (as amended by Law 4800/2021) — Civil Code Book Four — Parental Responsibility. Authoritative text: <https://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEzH9d6xfVpRXdtvSoClrL8MLkAOIxR75gtiDow6HlTE-JInJ48_97uHrMts-zFzeyCiBSQOpYnTy36MacmUFCx2ppFvBej56Mmc8Qdb8ZfRJqZnsIAdk8Lv_e6czmhEembNmZCMxLMtUQy90eFJoXLZdj7t0a7G4EOPtsOd0qSltFA-EurxA-w>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Greece (Ελλάδα)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Greece (Ελλάδα)'s best-interests-of-the-child framework (Astikos Kodikas arts. 1510-1541 (as amended by Law 4800/2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Civil Code Book Four — Parental Responsibility",
+      "legislationIdentifier": "Astikos Kodikas arts. 1510-1541 (as amended by Law 4800/2021)",
+      "jurisdiction": "Greece (Ελλάδα)",
+      "url": "https://www.et.gr/idocs-nph/search/pdfViewerForm.html?args=5C7QrtC22wEzH9d6xfVpRXdtvSoClrL8MLkAOIxR75gtiDow6HlTE-JInJ48_97uHrMts-zFzeyCiBSQOpYnTy36MacmUFCx2ppFvBej56Mmc8Qdb8ZfRJqZnsIAdk8Lv_e6czmhEembNmZCMxLMtUQy90eFJoXLZdj7t0a7G4EOPtsOd0qSltFA-EurxA-w",
+      "datePublished": "2021",
+      "description": "Federal civil-code basis for parental responsibility. Law 4800/2021 (in force 16 September 2021) substantially reformed the AK family-law framework: strengthened joint-exercise of parental responsibility; introduced presumption of minimum 1/3 contact-time; established statutory grounds for sanctioning sustained obstruction of contact. Central provisions for any PA-adjacent custody-modification analysis."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Νόμος 4800/2021 — Reform of family-law framework",
+      "legislationIdentifier": "Law 4800/2021 explanatory memorandum",
+      "jurisdiction": "Greece (Ελλάδα)",
+      "url": "https://www.hellenicparliament.gr/Nomothetiko-Ergo/Anazitisi-Nomothetikou-Ergou?law_id=ca5ed2c9-3deb-4d3a-ad8a-ad7e0098b30b",
+      "datePublished": "2021",
+      "description": "Explanatory memorandum and parliamentary debate for Law 4800/2021 explicitly engaged the parental-alienation construct as part of the policy basis for the reform. Makes Greece notable within the corpus for legislative-record engagement with PA reasoning without statutory codification of PAS as a diagnostic label."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Psychologists Act",
+      "legislationIdentifier": "Law 991/1979 — Psychologists Act",
+      "jurisdiction": "Greece (Ελλάδα)",
+      "url": "https://www.minedu.gov.gr/",
+      "datePublished": "1979",
+      "description": "Federal statute regulating the psychology profession. Statutory licensing under the Ministry of Health. Statutory anchor for evaluator-quality in court-appointed psychological assessments."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -183,3 +183,86 @@ Indonesian family-court decisions are anonymised per Mahkamah Agung practice usi
 - [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Indonesia
+
+### Is parental alienation illegal in Indonesia?
+
+In Indonesia parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Indonesia?
+
+The primary statutory basis in Indonesia is Marriage Law 1/1974 (Undang-Undang Perkawinan) arts. 41-49 — Marriage Law 1974 — Parental responsibilities. Authoritative text: <https://peraturan.bpk.go.id/>.
+
+### What can a parent do if their child is being withheld from them in Indonesia?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Indonesia's best-interests-of-the-child framework (Marriage Law 1/1974 (Undang-Undang Perkawinan) arts. 41-49) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/indonesia/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Indonesia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Indonesia parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Indonesia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Indonesia is Marriage Law 1/1974 (Undang-Undang Perkawinan) arts. 41-49 — Marriage Law 1974 — Parental responsibilities. Authoritative text: <https://peraturan.bpk.go.id/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Indonesia?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Indonesia's best-interests-of-the-child framework (Marriage Law 1/1974 (Undang-Undang Perkawinan) arts. 41-49) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Marriage Law 1974 — Parental responsibilities",
+      "legislationIdentifier": "Marriage Law 1/1974 (Undang-Undang Perkawinan) arts. 41-49",
+      "jurisdiction": "Indonesia",
+      "url": "https://peraturan.bpk.go.id/",
+      "datePublished": "1974",
+      "description": "Federal statute governing marriage and parental responsibilities. Substantially amended by Law 16/2019 (raising minimum marriage age to 19). Arts. 41-49 govern parental rights and obligations including custody on dissolution of marriage."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Compilation of Islamic Law — Custody",
+      "legislationIdentifier": "Kompilasi Hukum Islam (KHI 1991) arts. 105-112",
+      "jurisdiction": "Indonesia",
+      "url": "https://peraturan.bpk.go.id/",
+      "datePublished": "1991",
+      "description": "Federal compilation of Islamic personal-law norms in force for Muslims via Religious Courts. Arts. 105-112 govern hadana (custody) provisions on Shafi'i jurisprudential basis."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Law on the Profession of Psychologist",
+      "legislationIdentifier": "Law 23/2022 — Psychologist Profession",
+      "jurisdiction": "Indonesia",
+      "url": "https://peraturan.bpk.go.id/",
+      "datePublished": "2022",
+      "description": "Federal statute establishing the statutory framework for the psychology profession. Statutory title protection and HIMPSI professional-order regulation."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

@@ -251,3 +251,104 @@ La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties fa
 - [The Legal Landscape Parental Alienation 2025](https://www.antialienate.com/blog/the-legal-landscape-parental-alienation-2025)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in France (République française)
+
+### Is parental alienation illegal in France (République française)?
+
+In France (République française) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct.
+
+### What law covers withholding a child from a parent in France (République française)?
+
+The primary statutory basis in France (République française) is Code civil arts. 371-1 à 373-2-13 — Autorité parentale. Authoritative text: <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/>.
+
+### What can a parent do if their child is being withheld from them in France (République française)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under France (République française)'s best-interests-of-the-child framework (Code civil arts. 371-1 à 373-2-13) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/france/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in France (République française)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In France (République française) parental alienation is neither prohibited nor named in statute. The apex court has not ruled on the construct."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in France (République française)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in France (République française) is Code civil arts. 371-1 à 373-2-13 — Autorité parentale. Authoritative text: <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in France (République française)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under France (République française)'s best-interests-of-the-child framework (Code civil arts. 371-1 à 373-2-13) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Autorité parentale",
+      "legislationIdentifier": "Code civil arts. 371-1 à 373-2-13",
+      "jurisdiction": "France (République française)",
+      "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/",
+      "datePublished": "2002",
+      "description": "Primary statutory basis for parental authority and residence — restructured by Loi n° 2002-305 du 4 mars 2002 relative à l'autorité parentale. Establishes joint exercise of parental authority (art. 372) and the intérêt supérieur de l'enfant standard."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Critères du juge aux affaires familiales",
+      "legislationIdentifier": "Code civil art. 373-2-11",
+      "jurisdiction": "France (République française)",
+      "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426842",
+      "datePublished": "2002",
+      "description": "Enumerates criteria the JAF considers including pratique antérieure, sentiments de l'enfant, aptitude des parents — used in contact-refusal litigation."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Loi relative aux violences faites spécifiquement aux femmes",
+      "legislationIdentifier": "Loi n° 2010-769 (loi sur les violences faites aux femmes)",
+      "jurisdiction": "France (République française)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000022454032",
+      "datePublished": "2010",
+      "description": "Introduces ordonnance de protection (Code civil art. 515-9) — central in DV-PA-allegation intersection."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Loi visant à agir contre les violences au sein de la famille",
+      "legislationIdentifier": "Loi n° 2019-1480 (loi Pradié)",
+      "jurisdiction": "France (République française)",
+      "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000039684243",
+      "datePublished": "2019",
+      "description": "Strengthens ordonnance de protection regime and limits contact orders where DV is established — a key plank of the institutional-caution position."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "legislationIdentifier": "Convention d'Istanbul art. 31",
+      "jurisdiction": "France (République française)",
+      "url": "https://rm.coe.int/168008482e",
+      "datePublished": "2014",
+      "description": "Ratified by France 4 July 2014, in force 1 November 2014. Art. 31 requires contact/custody decisions take account of violence — invoked by GREVIO reports critiquing residual PA-labelled deflection."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

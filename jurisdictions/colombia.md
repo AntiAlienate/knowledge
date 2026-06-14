@@ -229,3 +229,104 @@ Las sentencias de la Corte Constitucional en sede de tutela anonimizan a NNA med
 - [Who Is Antialienate For](https://www.antialienate.com/blog/who-is-antialienate-for)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Colombia (República de Colombia)
+
+### Is parental alienation illegal in Colombia (República de Colombia)?
+
+In Colombia (República de Colombia) parental alienation is neither prohibited nor named in statute. Case-law application within constitutional framework.
+
+### What law covers withholding a child from a parent in Colombia (República de Colombia)?
+
+The primary statutory basis in Colombia (República de Colombia) is Constitución Política de Colombia 1991 art. 44 — Constitutional child-rights framework. Authoritative text: <https://www.constitucioncolombia.com/titulo-2/capitulo-2/articulo-44>.
+
+### What can a parent do if their child is being withheld from them in Colombia (República de Colombia)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Colombia (República de Colombia)'s best-interests-of-the-child framework (Constitución Política de Colombia 1991 art. 44) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/colombia/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Colombia (República de Colombia)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Colombia (República de Colombia) parental alienation is neither prohibited nor named in statute. Case-law application within constitutional framework."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Colombia (República de Colombia)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Colombia (República de Colombia) is Constitución Política de Colombia 1991 art. 44 — Constitutional child-rights framework. Authoritative text: <https://www.constitucioncolombia.com/titulo-2/capitulo-2/articulo-44>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Colombia (República de Colombia)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Colombia (República de Colombia)'s best-interests-of-the-child framework (Constitución Política de Colombia 1991 art. 44) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Constitutional child-rights framework",
+      "legislationIdentifier": "Constitución Política de Colombia 1991 art. 44",
+      "jurisdiction": "Colombia (República de Colombia)",
+      "url": "https://www.constitucioncolombia.com/titulo-2/capitulo-2/articulo-44",
+      "datePublished": "1991",
+      "description": "Constitution art. 44 declaring children's rights as fundamental and prevailing over others' rights. Establishes interés superior del niño as constitutionally-grounded paramount standard."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Comprehensive child-rights statute",
+      "legislationIdentifier": "Código de la Infancia y la Adolescencia (CIA, Ley 1098 of 2006)",
+      "jurisdiction": "Colombia (República de Colombia)",
+      "url": "https://www.icbf.gov.co/cargues/avance/docs/ley_1098_2006.htm",
+      "datePublished": "2006",
+      "description": "Ley 1098 of 2006 establishing comprehensive child-rights framework implementing UN CRC and Constitution art. 44. Establishes Sistema Nacional de Bienestar Familiar (SNBF) and interés superior del niño paramount standard at federal level."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Patria potestad / responsabilidad parental",
+      "legislationIdentifier": "Código Civil arts. 250-323",
+      "jurisdiction": "Colombia (República de Colombia)",
+      "url": "https://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html",
+      "datePublished": "1873",
+      "description": "Primary statutory basis for parental authority — substantively foundational since 1873 Código Civil de la República de Colombia (effective 1887) with multiple subsequent amendments. Establishes patria potestad framework subsequently modernised toward responsabilidad parental framework."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Comprehensive women's violence-protection statute",
+      "legislationIdentifier": "Ley 1257 of 2008 (Ley de Violencia contra las Mujeres)",
+      "jurisdiction": "Colombia (República de Colombia)",
+      "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34054",
+      "datePublished": "2008",
+      "description": "Ley 1257 of 2008 establishing comprehensive DV-protection framework with violencia de género types definition. Substantively significant for DV-PA-allegation intersection cases."
+    },
+    {
+      "@type": "Legislation",
+      "name": "International child-rights ratification + constitutional incorporation",
+      "legislationIdentifier": "Colombia ratifies UN CRC + bloque de constitucionalidad incorporation",
+      "jurisdiction": "Colombia (República de Colombia)",
+      "url": "https://www.icbf.gov.co/",
+      "datePublished": "1991",
+      "description": "Colombia ratified UN CRC 28 January 1991 (Ley 12 of 1991). Constitution 1991 art. 93 bloque de constitucionalidad framework operationally incorporating UN CRC at constitutional rank."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->

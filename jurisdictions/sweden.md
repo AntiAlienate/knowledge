@@ -184,3 +184,86 @@ Swedish family-law decisions are anonymised per Högsta domstolen and Hovrätt c
 - [Child Alienation Understanding Impact Children](https://www.antialienate.com/blog/child-alienation-understanding-impact-children)
 
 <!-- AA-CROSSLINK-END -->
+
+<!-- AA-FAQ-START -->
+
+## FAQ — Parental alienation in Sweden (Sverige)
+
+### Is parental alienation illegal in Sweden (Sverige)?
+
+In Sweden (Sverige) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued.
+
+### What law covers withholding a child from a parent in Sweden (Sverige)?
+
+The primary statutory basis in Sweden (Sverige) is Föräldrabalken (FB) ch. 6 — Children and Parents Code, Chapter 6 — Custody, Residence and Contact (Vårdnad, Boende och Umgänge). Authoritative text: <https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381>.
+
+### What can a parent do if their child is being withheld from them in Sweden (Sverige)?
+
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Sweden (Sverige)'s best-interests-of-the-child framework (Föräldrabalken (FB) ch. 6) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "FAQPage",
+      "@id": "https://knowledge.antialienate.com/jurisdictions/sweden/#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Is parental alienation illegal in Sweden (Sverige)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "In Sweden (Sverige) parental alienation is neither prohibited nor named in statute. No apex-court ruling has been issued."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What law covers withholding a child from a parent in Sweden (Sverige)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "The primary statutory basis in Sweden (Sverige) is Föräldrabalken (FB) ch. 6 — Children and Parents Code, Chapter 6 — Custody, Residence and Contact (Vårdnad, Boende och Umgänge). Authoritative text: <https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381>."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What can a parent do if their child is being withheld from them in Sweden (Sverige)?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Sweden (Sverige)'s best-interests-of-the-child framework (Föräldrabalken (FB) ch. 6) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+          }
+        }
+      ]
+    },
+    {
+      "@type": "Legislation",
+      "name": "Children and Parents Code, Chapter 6 — Custody, Residence and Contact (Vårdnad, Boende och Umgänge)",
+      "legislationIdentifier": "Föräldrabalken (FB) ch. 6",
+      "jurisdiction": "Sweden (Sverige)",
+      "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381",
+      "datePublished": "1949",
+      "description": "Federal civil-code basis for custody, residence and contact. Joint custody (gemensam vårdnad) operates as the statutory default. § 6:2a establishes that the child's best interest shall be decisive in all decisions on custody, residence and contact. Central provisions for any PA-adjacent custody-modification analysis."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Barnets bästa (Best interests of the child)",
+      "legislationIdentifier": "Föräldrabalken (FB) ch. 6 § 2a",
+      "jurisdiction": "Sweden (Sverige)",
+      "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381",
+      "datePublished": "2006",
+      "description": "Welfare-standard provision establishing barnets bästa as decisive in custody/residence/contact decisions. Inserted in the 2006 vårdnadsreform (custody reform) which strengthened the best-interests standard and the focus on the child's need for close and good contact with both parents."
+    },
+    {
+      "@type": "Legislation",
+      "name": "Patient Safety Act 2010:659",
+      "legislationIdentifier": "Patientsäkerhetslagen 2010:659",
+      "jurisdiction": "Sweden (Sverige)",
+      "url": "https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/patientsakerhetslag-2010659_sfs-2010-659",
+      "datePublished": "2010",
+      "description": "Federal statute regulating health and social-care professions including psychologists. Statutorily protected title 'legitimerad psykolog' requires a licence issued by Socialstyrelsen. Statutory anchor for evaluator-quality in court-appointed psychological assessments."
+    }
+  ]
+}
+</script>
+
+<!-- AA-FAQ-END -->
