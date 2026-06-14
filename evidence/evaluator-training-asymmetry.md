@@ -100,7 +100,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 ### 1.4 [Saunders](https://www.ovw.usdoj.gov/) (2015) — research-based recommendations synthesised
 
-**Citation.** Saunders, D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71-92. https://doi.org/10.1080/15379418.2015.1037052 — Open author copy: https://www.law.buffalo.edu/content/dam/law/restricted-assets/pdf/cle/161118/rodwin-4.pdf
+**Citation.** [Saunders](https://www.ovw.usdoj.gov/), D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71-92. https://doi.org/10.1080/15379418.2015.1037052 — Open author copy: https://www.law.buffalo.edu/content/dam/law/restricted-assets/pdf/cle/161118/rodwin-4.pdf
 
 **Verbatim abstract.**
 
@@ -214,7 +214,7 @@ This paper is among the foundational practitioner texts on differential assessme
 
 **Citation.** Drozd, L. M., & Olesen, N. W. (2010). Abuse and alienation are each real: A response to a critique by Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). *Journal of Child Custody*, 7(4), 253-265. Semantic Scholar: https://www.semanticscholar.org/paper/Abuse-and-Alienation-Are-Each-Real:-A-Response-to-a-Drozd-Olesen/0a6a39cae9bb06f7ce608414e17cd8bb00aebcc5
 
-The Drozd/Olesen response defends the decision tree on the grounds that both abuse and alienation are real phenomena that real evaluators encounter in real cases, that the tree is properly understood as a *disconfirmatory* tool (i.e., it requires the evaluator to rule out abuse *before* concluding alienation), and that Meier's critique conflates the tree's intended use with its frequently-incompetent application in the field. **[Secondary verification only]** for verbatim quotes; the article was paywalled at compilation.
+The Drozd/Olesen response defends the decision tree on the grounds that both abuse and alienation are real phenomena that real evaluators encounter in real cases, that the tree is properly understood as a *disconfirmatory* tool (i.e., it requires the evaluator to rule out abuse *before* concluding alienation), and that [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) critique conflates the tree's intended use with its frequently-incompetent application in the field. **[Secondary verification only]** for verbatim quotes; the article was paywalled at compilation.
 
 ### 3.4 Why the 2010 exchange matters for the training question
 

@@ -79,7 +79,7 @@
 
 **Citation.** Harman, J. J., & Lorandos, D. (2021). Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law*, 27(2), 184–208 [sometimes paginated 187–208]. https://doi.org/10.1037/law0000301 — Preprint on ResearchGate: https://www.researchgate.net/publication/347071869 — Author publications page: https://jenniferjillharman.com/
 
-**Core claim.** Harman & Lorandos attempted to re-analyse and critique the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) dataset/methodology and reported they could not replicate Meier's finding of systematic gender bias. **[secondary verification only]** for the full abstract verbatim; APA paywalled it at compilation.
+**Core claim.** Harman & Lorandos attempted to re-analyse and critique the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) dataset/methodology and reported they could not replicate [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) finding of systematic gender bias. **[secondary verification only]** for the full abstract verbatim; APA paywalled it at compilation.
 
 **Honest disclosure.** Lorandos is a well-known U.S. attorney who has represented parents accused of being alienators and who has co-authored multiple pro-PA texts. Harman is a Colorado State University social psychologist publishing extensively in defence of the PA construct. This is relevant context for weighing the critique — not a reason to dismiss it.
 
@@ -299,7 +299,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 
 ### 8.3 Moderate confidence
 
-- **Training asymmetry — PA training is widely commercially available; DV training is patchier and less standardised — is itself a driver.** Saunders 2015 and Saunders 2011 establish more-DV-training → safer recommendations; Alsalem 2023 ¶62 documents the supply asymmetry and commercial incentive structure. **[secondary verification only]** for any claim that head-to-head training-effect RCTs exist; they do not.
+- **Training asymmetry — PA training is widely commercially available; DV training is patchier and less standardised — is itself a driver.** [Saunders](https://www.ovw.usdoj.gov/) 2015 and Saunders 2011 establish more-DV-training → safer recommendations; Alsalem 2023 ¶62 documents the supply asymmetry and commercial incentive structure. **[secondary verification only]** for any claim that head-to-head training-effect RCTs exist; they do not.
 - **Children placed with a court-determined-abusive parent following a PA finding suffer measurable mental-health deterioration including suicidality.** Silberg-Dallam 2019 (13% → 33% suicidality). Small snowball sample; consistent with broader maltreatment-outcomes literature in `evidence-mental-health-outcomes.md`.
 
 ### 8.4 Low confidence / not established

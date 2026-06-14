@@ -121,7 +121,7 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 | **ABC v XYZ 2023 SCC OnLine Del 6099** | Delhi HC | Kait J. & Bansal Krishna J. | Two-judge Division Bench |
 | **A v B 2026 SCC OnLine Del 276** | Delhi HC | Kshetarpal J. & Vaidyanathan Shankar J. | Two-judge Division Bench |
 | **H v W [2021] HKCA 733** | HKCA | Lam VP + Yuen JA + B Chu J | Three-judge CofA |
-| **Cassazione 9691/2022** | Cass. Sez. I Civile | Collegial three-judge ordinanza + rapporteur | Collegial + rapporteur |
+| **[Cassazione](https://www.cortedicassazione.it/) 9691/2022** | Cass. Sez. I Civile | Collegial three-judge ordinanza + rapporteur | Collegial + rapporteur |
 | **[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** | [BVerfG](https://www.bundesverfassungsgericht.de/) | Senate composition | Constitutional senate |
 | **SCJN AI 11/2016** | SCJN Tribunal Pleno | Tribunal Pleno + Piña Hernández ponente | Hybrid pleno + ponente |
 | **T-526/2023 Colombia** | Corte Const. Sala 3 | Three-judge Sala + M.P. Fajardo Rivera | Sala + Magistrado Ponente |

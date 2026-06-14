@@ -118,7 +118,7 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 
 ## Editorial notes
 
-- Primary-source order: federal Moniteur belge / Cour de cassation cited first; IEFH/IGVM Recommandation 2023/001 is foregrounded as the structurally unique critique anchor; CODE + Ligue des familles + yapaka.be follow at civil-society level; community-level decrees (FWB + Vlaams) cited last.
+- Primary-source order: federal Moniteur belge / [Cour de cassation](https://www.courdecassation.fr/) cited first; IEFH/IGVM Recommandation 2023/001 is foregrounded as the structurally unique critique anchor; CODE + Ligue des familles + yapaka.be follow at civil-society level; community-level decrees (FWB + Vlaams) cited last.
 - Bilingualism strictly preserved: FR and NL parallel terms given throughout (Tribunal de la famille / familierechtbank; Cour de cassation / Hof van Cassatie; Commission des psychologues / Psychologencommissie; IEFH/IGVM).
 - Cross-border NL+BE Nederlandstalige knowledge-space and FR+BE francophone knowledge-space overlaps explicitly recognised in structural_findings[3] and [4]; deepening of NL or FR jurisdictions must take account of this shared circuit.
 - Belgium is treated as a federal jurisdiction with community/linguistic-level institutional differences flagged where material; the Deutschsprachige Gemeinschaft (Eupen-Malmedy) is briefly noted at language[]=['nl','fr','de'] but no separate institutional analysis is given at this v1.0.

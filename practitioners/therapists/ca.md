@@ -429,7 +429,7 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
   - Primary source: <https://www.lfcc.on.ca/>
 - **Dr Anne Lazenbatt** — Out-of-scope: UK-based (Queen's University Belfast); already noted in UK therapists borderline. Not Canadian-licensed.
   - Primary source: <https://pure.qub.ac.uk/en/persons/anne-lazenbatt>
-- **Dr Joan B. Kelly, PhD** — Out-of-scope: US-based (Northern California); already in /practitioners/therapists/us. Trains Canadian AFCC assessors but holds no Canadian licensure. Cross-referenced only.
+- **Dr Joan B. Kelly, PhD** — Out-of-scope: US-based (Northern California); already in /practitioners/therapists/us. Trains Canadian [AFCC](https://www.afccnet.org/) assessors but holds no Canadian licensure. Cross-referenced only.
   - Primary source: <https://www.afccnet.org/>
 - **Linda [Gottlieb](https://turningpointsforfamilies.com/), LMFT, LCSW-R** — Out-of-scope: US-based (New York); already in /practitioners/therapists/us. Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) takes Canadian referrals but [Gottlieb](https://turningpointsforfamilies.com/) is not Canadian-licensed. Cross-referenced only.
   - Primary source: <https://turningpointsforfamilies.com/>

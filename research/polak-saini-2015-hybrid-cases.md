@@ -114,7 +114,7 @@ These critiques are real but the alternative (forced binary classification of in
 
 ## Sources
 
-- Polak & Saini 2015 paper DOI: https://doi.org/10.1080/10502556.2015.1012532
+- Polak & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2015 paper DOI: https://doi.org/10.1080/10502556.2015.1012532
 - Saini extended bibliography: https://socialwork.utoronto.ca/profiles/michael-saini/
 - [AFCC](https://www.afccnet.org/) integration: https://www.afccnet.org/
 

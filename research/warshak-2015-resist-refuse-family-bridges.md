@@ -84,7 +84,7 @@ The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 | Framework | Function |
 |-----------|----------|
 | Bernet 5 criteria | Diagnostic gatekeeper (is this alienation?) |
-| **Warshak continuum** | **Severity + type stratification (what kind?)** |
+| **[Warshak](https://warshak.com/family-bridges/) continuum** | **Severity + type stratification (what kind?)** |
 | Friedlander-Walters MMFI | Hybrid case typology |
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Targeted-parent operational guidance |
 | **[Family Bridges](https://warshak.com/family-bridges/)** | **Severe-case reunification intervention** |

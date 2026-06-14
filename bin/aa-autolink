@@ -219,13 +219,16 @@ def process_file(path):
 
 def main():
     EXCLUDE_DIRS = {".git", ".venv", "_site", "docs", "node_modules", "bin"}
-    EXCLUDE_TOPDIRS = {"case-law"}  # case-law entries are dense reference docs, already heavily linked
+    # case-law/<jur>/<slug>.md entries are dense verbatim statute references with
+    # their own curated link blocks. SKIP only those (depth >= 3 in case-law/).
+    # Process case-law top-level roundup pages (depth == 2) like 2024-2026-rulings.md.
     total = changed = total_links = 0
     for path in RECOVERY.rglob("*.md"):
         if any(part in EXCLUDE_DIRS for part in path.parts):
             continue
         rel = path.relative_to(RECOVERY)
-        if rel.parts and rel.parts[0] in EXCLUDE_TOPDIRS:
+        # Skip case-law/<jur>/<slug>.md but process case-law/<roundup>.md
+        if rel.parts and rel.parts[0] == "case-law" and len(rel.parts) >= 3:
             continue
         total += 1
         n = process_file(path)

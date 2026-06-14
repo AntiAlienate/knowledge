@@ -36,7 +36,7 @@ London · England · Co-founder and lead therapist, Family Separation Clinic (Lo
 
 **Contact:** https://www.familyseparationclinic.com/contact/
 
-*Notes: Unregulated practitioner; not [HCPC](https://www.hcpc-uk.org/); not BPS-chartered. 2015 BACP sanction (lacked Sincerity, Integrity, Competence and Wisdom) publicly disclosed via The Custody Minefield. Post-Re Y [2026] EWFC 38 framework means she should not be instructed as a psychologist-expert in Family Court proceedings.*
+*Notes: Unregulated practitioner; not [HCPC](https://www.hcpc-uk.org/); not [BPS](https://www.bps.org.uk/)-chartered. 2015 BACP sanction (lacked Sincerity, Integrity, Competence and Wisdom) publicly disclosed via The Custody Minefield. Post-Re Y [2026] EWFC 38 framework means she should not be instructed as a psychologist-expert in Family Court proceedings.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `case-study:nf-v-af-2025-csoh-13-scotland`, `practitioner:uk-ews.woodall-nick`, `practitioner:de.rucker-stefan`
 
@@ -59,7 +59,7 @@ London · England · Co-founder and partner, Family Separation Clinic LLP; indep
 
 **Contact:** https://www.nickwoodall.net/contact
 
-*Notes: HCPC / BPS chartered status not publicly confirmed; assumed unregulated relative to Re Y regulatory bar. Same post-Re Y instruction exposure as Karen Woodall.*
+*Notes: [HCPC](https://www.hcpc-uk.org/) / BPS chartered status not publicly confirmed; assumed unregulated relative to Re Y regulatory bar. Same post-Re Y instruction exposure as Karen Woodall.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.woodall-karen`, `practitioner:de.rucker-stefan`
 

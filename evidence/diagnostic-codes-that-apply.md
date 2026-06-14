@@ -40,7 +40,7 @@
 - **Z69.011** — Encounter for mental health services for perpetrator of parental child abuse.
 These are billable encounter codes and can sit alongside the V995.51/T74.32XA principal code.
 
-**Why this code matters for PA-pattern conduct.** Under the verbatim DSM-5 definition, three of the enumerated example behaviours — "berating, disparaging, or humiliating the child," "threatening the child," and "scapegoating of the child" — overlap directly with conduct described by [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), [Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/) and others as core alienating behaviour. A clinician who documents that a parent has engaged in nonaccidental verbal or symbolic acts (e.g. recorded denigration of the other parent in the child's presence, instruction that the other parent is dangerous, coercion of loyalty) that have caused or have reasonable potential to cause significant psychological harm has satisfied the textual elements of V995.51.
+**Why this code matters for PA-pattern conduct.** Under the verbatim [DSM-5](https://www.appi.org/products/dsm) definition, three of the enumerated example behaviours — "berating, disparaging, or humiliating the child," "threatening the child," and "scapegoating of the child" — overlap directly with conduct described by [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), [Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/) and others as core alienating behaviour. A clinician who documents that a parent has engaged in nonaccidental verbal or symbolic acts (e.g. recorded denigration of the other parent in the child's presence, instruction that the other parent is dangerous, coercion of loyalty) that have caused or have reasonable potential to cause significant psychological harm has satisfied the textual elements of V995.51.
 
 ---
 
@@ -169,7 +169,7 @@ That is the operative WHO instruction. QE52.0 is the WHO-blessed code.
 
 (Source: WHO [ICD-11](https://icd.who.int/) MMS entity 1334495652, mirrored at https://www.findacode.com/icd-11/code-1334495652.html.) Listed synonyms include "Personal history of psychological maltreatment," "Child emotional abuse," "Child verbal abuse," and "Hostility towards or scapegoating of child."
 
-**Operational use.** QE82.2 is the ICD-11 code used by clinicians treating **adult survivors** of childhood PA-pattern conduct that crossed the psychological-abuse threshold. Where the child is still a minor and active alienation is occurring, the appropriate live coding is **QE52.0** (caregiver-child relationship problem) combined where warranted with substantive mental-health diagnoses (PTSD, depressive disorder, adjustment disorder).
+**Operational use.** QE82.2 is the [ICD-11](https://icd.who.int/) code used by clinicians treating **adult survivors** of childhood PA-pattern conduct that crossed the psychological-abuse threshold. Where the child is still a minor and active alienation is occurring, the appropriate live coding is **QE52.0** (caregiver-child relationship problem) combined where warranted with substantive mental-health diagnoses (PTSD, depressive disorder, adjustment disorder).
 
 ---
 
@@ -231,7 +231,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 ### 3.3 Cross-jurisdictional clinical practice
 
-**United States.** [DSM-5-TR](https://www.appi.org/products/dsm) is dominant in U.S. clinical practice. Forensic evaluators code in DSM-5-TR narrative + ICD-10-CM for billing. Most state custody evaluation rules ([AFCC](https://www.afccnet.org/) Model Standards, state-specific custody-evaluator licensing) require the evaluator to identify the diagnostic basis for any clinical finding; "V61.20 + V61.29" reports are routine, "V995.51" reports are less common but defensibly used where the evidentiary threshold is met.
+**United States.** [DSM-5-TR](https://www.appi.org/products/dsm) is dominant in U.S. clinical practice. Forensic evaluators code in [DSM-5-TR](https://www.appi.org/products/dsm) narrative + ICD-10-CM for billing. Most state custody evaluation rules ([AFCC](https://www.afccnet.org/) Model Standards, state-specific custody-evaluator licensing) require the evaluator to identify the diagnostic basis for any clinical finding; "V61.20 + V61.29" reports are routine, "V995.51" reports are less common but defensibly used where the evidentiary threshold is met.
 
 **United Kingdom.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service in England and Wales) takes the strongest publicly stated position of any major Western family-court services body: it explicitly avoids the term "parental alienation." [Cafcass](https://www.cafcass.gov.uk/) guidance, verbatim:
 

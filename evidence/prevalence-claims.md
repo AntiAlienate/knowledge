@@ -394,8 +394,8 @@ Contributor-invitation content. The literature converges on these elements:
 
 - "Bernet (2010) **estimated** approximately 740,000 US children may be affected by PA — derived by multiplying ~20% of children in separated households × ~25% in high-conflict disputes × ~25% who become alienated. A probability estimate, not a measurement."
 - "[Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)(2016) found in the first US representative-poll that 13.4% of US parents reported **feeling targeted** by PABs, extrapolating to ~22 million. Their 2019 three-poll follow-up produced higher figures (35.5% US / 32% Canada / 39.1% non-reciprocating US). The authors caution these are self-reports of feeling targeted, not measurements of confirmed alienation."
-- "Hine, Harman et al. (2025) found that depending on question-wording, **between 39% and 59% of UK separated parents** reported PAB exposure, with 36.5% non-reciprocal targets. The range itself is the most important finding."
-- "Saini, Johnston, Fidler & Bala (2016), reviewing 58 empirical studies using GRADE-adapted criteria, concluded: **'to date there are no defensible estimates of the prevalence of parental alienation.'**"
+- "Hine, [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)(2025) found that depending on question-wording, **between 39% and 59% of UK separated parents** reported PAB exposure, with 36.5% non-reciprocal targets. The range itself is the most important finding."
+- "[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016), reviewing 58 empirical studies using GRADE-adapted criteria, concluded: **'to date there are no defensible estimates of the prevalence of parental alienation.'**"
 
 ### Unacceptable framings
 
@@ -417,7 +417,7 @@ Contributor-invitation content. The literature converges on these elements:
 - Harman, Leder-Elder & Biringen (2016), NC poll: https://doi.org/10.1016/j.childyouth.2016.04.021
 - Hine, Harman, Leder-Elder & Bates (2025), UK separated parents: https://link.springer.com/article/10.1007/s10896-025-00910-4
 - Hine, Harman, Leder-Elder & Bates (2026), UK 18–25: https://doi.org/10.3389/fpubh.2026.1803173
-- Bernet, von Boch-Galhau, Baker & Morrison (2010), DSM-V / [ICD-11](https://icd.who.int/): https://doi.org/10.1080/01926180903586583
+- Bernet, von Boch-Galhau, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Morrison (2010), DSM-V / [ICD-11](https://icd.who.int/): https://doi.org/10.1080/01926180903586583
 - Bernet, Baker & Verrocchio (2015), SCL-90-R Italian: https://doi.org/10.1111/1556-4029.12681 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 - Verrocchio, Marchetti & Fulcheri (2015): https://doi.org/10.3389/fpsyg.2015.01760
 - Verrocchio, Baker & Bernet (2016): https://doi.org/10.1111/1556-4029.13046 — https://pubmed.ncbi.nlm.nih.gov/27122408/
@@ -426,7 +426,7 @@ Contributor-invitation content. The literature converges on these elements:
 - Bentley & Matthewson (2020): https://doi.org/10.1080/01926187.2020.1775531
 - Harman & Lorandos (2021): https://doi.org/10.1037/law0000301
 - [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2022) "Trouble with H&L": https://doi.org/10.1080/26904586.2022.2036286
-- Meier et al. (2022) "False critique": https://doi.org/10.1080/26904586.2022.2086659
+- [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2022) "False critique": https://doi.org/10.1080/26904586.2022.2086659
 - Alsalem A/HRC/53/36: https://www.ohchr.org/en/documents/thematic-reports/ahrc5336-custody-violence-against-women-and-violence-against-children (PDF: https://documents.un.org/doc/undoc/gen/g23/070/18/pdf/g2307018.pdf)
 - Neilson (2018) FREDA report on Canadian PA cases: cited by Alsalem fn 23.
 - Gomide et al. (2016) Brazilian study: *Paidéia* 26(65), 291–298, cited by Alsalem fn 27.

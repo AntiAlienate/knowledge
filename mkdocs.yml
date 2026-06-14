@@ -107,27 +107,31 @@ nav:
     - Step-Parent Dynamics: playbooks/step-parent-dynamics.md
 
   - Knowledge Base:
-    - Case Law (statutes + judgments): case-law/
-    - Jurisdictions (by country): jurisdictions/
-    - Case Studies: case-studies/
-    - Evidence & Research: evidence/
+    - Overview: case-law/README.md
+    - Case Law (statutes + judgments): case-law/README.md
+    - Jurisdictions (by country): jurisdictions/README.md
+    - Case Studies: case-studies/README.md
+    - Evidence & Research: evidence/README.md
 
   - People:
-    - Influencers: influencers/
-    - Practitioners (lawyers + therapists): practitioners/
+    - Overview: influencers/README.md
+    - Influencers: influencers/README.md
+    - Practitioners (lawyers + therapists): practitioners/README.md
 
   - Resources:
-    - Templates: templates/
+    - Overview: resources/README.md
     - Research Databases: resources/research-databases.md
     - Key Books: resources/key-books.md
-    - Clinical Materials: clinical/
-    - Comparative Analyses: comparative/
-    - Tools: tools/
+    - Templates: templates/README.md
+    - Clinical Materials: clinical/README.md
+    - Comparative Analyses: comparative/README.md
+    - Tools: tools/README.md
 
   - About:
-    - Open Source: open-source/
-    - Verified Publishers: publishers/
-    - Community: community/
+    - Overview: open-source/README.md
+    - Open Source: open-source/README.md
+    - Verified Publishers: publishers/README.md
+    - Community: community/README.md
     - Contributing: CONTRIBUTING.md
 
 not_in_nav: |

@@ -199,7 +199,7 @@ From the PMC full text (§1.1):
 
 ### 4.2 Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2012) — alcohol abuse
 
-Ben-Ami & Baker (§3.1) reported higher alcohol-abuse rates in PA-exposed adults than in the comparison group. **[secondary verification only]** for specific effect-size statistics.
+Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (§3.1) reported higher alcohol-abuse rates in PA-exposed adults than in the comparison group. **[secondary verification only]** for specific effect-size statistics.
 
 ### 4.3 Adverse Childhood Experiences (ACE) framework — PA not yet an ACE category
 

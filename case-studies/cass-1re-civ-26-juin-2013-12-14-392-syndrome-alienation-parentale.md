@@ -61,7 +61,7 @@ The *dispositif* (operative part) reads, in essence:
 - **Juge aux affaires familiales** of the relevant first-instance court (Rennes catchment) – the original JAF whose residence order was modified on appeal. The individual is **not named** in the public arrêt.
 - **The court-appointed *enquêteur social*** – the social investigator whose report was treated as the *fait nouveau*. Not publicly named.
 - **[Cour de cassation](https://www.courdecassation.fr/), 1re chambre civile** – panel as recorded on the face of the arrêt: **M. Charruault, président** ; **M. Savatier, conseiller rapporteur** ; **Mme Petit, premier avocat général**.
-- **Avocats aux Conseils:** **SCP Richard** and **SCP Waquet, Farge et Hazan**, two of the leading firms of *avocats au Conseil d'État et à la Cour de cassation*.
+- **Avocats aux Conseils:** **SCP Richard** and **SCP Waquet, Farge et Hazan**, two of the leading firms of *avocats au Conseil d'État et à la [Cour de cassation](https://www.courdecassation.fr/)*.
 
 The author of the first prominent French academic case note is **Sophie Paricard**, *maître de conférences-HDR* at the University of Toulouse 1 Capitole and director of the Institut de droit privé, EA 1920 (CUFR Albi). Her commentary appeared in *Droit de la famille* in November 2013 under the title *"Le syndrome d'aliénation parentale reconnu par la Cour de cassation : les premiers pas d'une révolution dans le contentieux familial ?"* ([Lexis 360 link, paywalled](https://lexis360.lexisnexis.fr/droit-document/article/droit-famille/11-2013/152_PS_FAM_FAM1311CM00152.htm)).
 

@@ -180,7 +180,7 @@ Clearwater · FL · The Center For Human Potential of America, Inc. (Clearwater,
 *PhD (Clinical Psychology); APA Fellow (2013)*
 Denver · CO · Independent clinical psychology / consultation practice (Denver, CO); formerly Rose Medical Center 1975-2020
 
-**Stance:** Popular-press recognition-camp voice via extensive Psychology Today PA series (>1M aggregate views per bio). Couples-skills frame (The Power of Two, New Harbinger). Recognition-leaning but framed as 'conflict resolution' rather than PASG-core five-factor.
+**Stance:** Popular-press recognition-camp voice via extensive Psychology Today PA series (>1M aggregate views per bio). Couples-skills frame (The Power of Two, New Harbinger). Recognition-leaning but framed as 'conflict resolution' rather than [PASG](https://pasg.info/)-core five-factor.
 
 **Publications:**
 - The Power of Two: Secrets to a Strong & Loving Marriage (1997) — *New Harbinger*
@@ -348,7 +348,7 @@ Newport Beach · CA · Independent forensic psychology practice (Newport Beach, 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)* — <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
 - Parenting Plan & Child Custody Evaluations: Using Decision Trees (2013) — *Professional Resource Press*
-- AFCC Model Standards for Child Custody Evaluations (co-editor) (2006) — *AFCC*
+- [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (co-editor) (2006) — *AFCC*
 - AFCC Guidelines for Examining Intimate Partner Violence (2016) — *AFCC*
 
 **Verification:**

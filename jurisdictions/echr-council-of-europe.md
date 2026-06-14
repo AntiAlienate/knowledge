@@ -50,12 +50,12 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 - **1959** — [European Court of Human Rights](https://www.echr.coe.int/) established 21 January 1959 — modern multi-state human-rights court.
 - **1979** — Foundational [ECtHR](https://www.echr.coe.int/) judgment of 13 June 1979 establishing Article 8 illegitimate-child-rights framework.
 - **1998** — Protocol 11 to the ECHR effective 1 November 1998 — establishing permanent [ECtHR](https://www.echr.coe.int/) + replacing previous Commission/Court two-tier framework with single individual-petition framework.
-- **2010** — Protocol 14 to the ECHR effective 1 June 2010 — comprehensive ECtHR procedural reform.
+- **2010** — Protocol 14 to the ECHR effective 1 June 2010 — comprehensive [ECtHR](https://www.echr.coe.int/) procedural reform.
 - **2022** — Russia expelled from [Council of Europe](https://www.coe.int/) on 16 March 2022 following Russian invasion of Ukraine — first member-state expulsion in [Council of Europe](https://www.coe.int/) history.
 
 ## Structural findings
 
-- ECHR / Council of Europe operates a supranational meta-legal-system framework — places ECHR in the unique multi-state-human-rights supranational cluster.
+- ECHR / [Council of Europe](https://www.coe.int/) operates a supranational meta-legal-system framework — places ECHR in the unique multi-state-human-rights supranational cluster.
 - Only modern multi-state human-rights court with binding individual-petition framework is structurally distinctive globally — Article 34 individual-petition framework.
 - Central jurisdictional framework for Article 8 right to private and family life is structurally distinctive globally — foundational family-law human-rights provision binding on 46 member states.
 - Subject of the largest single body of family-law-relevant international human-rights jurisprudence in the world is structurally distinctive globally — 100,000+ cases decided since ECtHR establishment 1959.

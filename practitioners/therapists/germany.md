@@ -211,7 +211,7 @@ Munich · Bayern · Deutsches Jugendinstitut (DJI) Munich (Direktorin); LMU Munc
 *Diplom-Psychologe; Dr. (1998); Fachpsychologe fur Rechtspsychologie BDP/DGPs; forensischer Sachverstandiger; Mediator*
 Munich · Bayern · Private practice Munich (joerg-fichtner.de); past DJI Hochkonflikthaftigkeit project lead author 2010
 
-**Stance:** Co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the article cited by [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23. Lead author of the DJI 2010 *Hochkonflikthaftigkeit in Trennungsfamilien — Wissenschaftlicher Abschlussbericht*. Major correction vs. surface assumption: Fichtner is frequently miscategorised as recognition camp because of his forensic family-court Sachverstandigen practice, but he is in fact a co-signatory of the principal German PAS-critique article cited by the BVerfG.
+**Stance:** Co-signatory of Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the article cited by [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23. Lead author of the DJI 2010 *Hochkonflikthaftigkeit in Trennungsfamilien — Wissenschaftlicher Abschlussbericht*. Major correction vs. surface assumption: Fichtner is frequently miscategorised as recognition camp because of his forensic family-court Sachverstandigen practice, but he is in fact a co-signatory of the principal German PAS-critique article cited by the [BVerfG](https://www.bundesverfassungsgericht.de/).
 
 **Publications:**
 - Verdorbener Wein in neuen Schlauchen (2023) — *ZKJ 2023 (with Zimmermann, Walper, Lux, Kindler)* — <https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869>
@@ -342,7 +342,7 @@ Berlin · Berlin · MiKK e.V. — Internationales Mediationszentrum fur Familien
 *Familienrichter a.D. (Amtsgericht Cochem until 2008); Autor; internationaler Referent zu Kinderrecht und Familienkonfliktbearbeitung*
 Cochem · Rheinland-Pfalz · Amtsgericht Cochem (a.D.); independent author / international lecturer
 
-**Stance:** Originator of the Cochemer Modell (Familiengericht Cochem-Zell 1992-2008) — interdisciplinary cooperation between Familiengericht, Jugendamt, Beratungsstellen and Rechtsanwalten, conceptually absorbed into the 2009 FamFG-Reform. Author of *Du bist mein Kind — Die Cochemer Praxis* (Schwarzkopf & Schwarzkopf 2007). Position is middle camp: methodological / interdisciplinary focus, no PASG alignment. Important correction: Cochem-Zell no longer practices the Cochemer Modell — discontinued at the Cochem Familiengericht after Rudolph's 2008 retirement; survives as exportable method label only.
+**Stance:** Originator of the Cochemer Modell (Familiengericht Cochem-Zell 1992-2008) — interdisciplinary cooperation between Familiengericht, Jugendamt, Beratungsstellen and Rechtsanwalten, conceptually absorbed into the 2009 FamFG-Reform. Author of *Du bist mein Kind — Die Cochemer Praxis* (Schwarzkopf & Schwarzkopf 2007). Position is middle camp: methodological / interdisciplinary focus, no [PASG](https://pasg.info/) alignment. Important correction: Cochem-Zell no longer practices the Cochemer Modell — discontinued at the Cochem Familiengericht after Rudolph's 2008 retirement; survives as exportable method label only.
 
 **Publications:**
 - Du bist mein Kind — Die Cochemer Praxis, Wege zu einem menschlicheren Familienrecht (2007) — *Schwarzkopf & Schwarzkopf, ISBN 978-3-89602-784-7*
