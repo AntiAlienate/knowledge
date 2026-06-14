@@ -56,7 +56,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 > "Typically, the parent-child relational problem is associated with impaired functioning in behavioral, cognitive, or affective domains. Examples of behavioral problems include inadequate parental control, supervision, and involvement with the child; parental overprotection; excessive parental pressure; arguments that escalate to threats of physical violence; and avoidance without resolution of problems. Cognitive problems may include negative attributions of the other's intentions, hostility toward or scapegoating of the other, and unwarranted feelings of estrangement. Affective problems may include feelings of sadness, apathy, or anger about the other individual in the relationship."
 
-(Text reproduced from DSM-5 pages 715–716 as quoted in the SCCMHA *V-Codes (DSM-5) & Z Codes (ICD-10) Relational Problems* clinical-handout PDF at https://www.sccmha.org/userfiles/filemanager/34147/ and corroborated against the Bernet, Wamboldt & Narrow 2016 CAPRD reproduction; **[secondary verification only]** for exact pagination.)
+(Text reproduced from [DSM-5](https://www.appi.org/products/dsm) pages 715–716 as quoted in the SCCMHA *V-Codes (DSM-5) & Z Codes (ICD-10) Relational Problems* clinical-handout PDF at https://www.sccmha.org/userfiles/filemanager/34147/ and corroborated against the Bernet, Wamboldt & Narrow 2016 CAPRD reproduction; **[secondary verification only]** for exact pagination.)
 
 **The phrase "unwarranted feelings of estrangement"** is the textual hook in DSM-5 that most directly mirrors the descriptive content of "alienation" without requiring the clinician to adopt a contested syndrome label.
 
@@ -212,7 +212,7 @@ The defensive practice that has emerged across reputable forensic-evaluator trai
 3. Code the relational problem (V61.20 / Z62.820 + V61.29 / Z62.898) **always**, where the relational pattern is documented.
 4. Code child psychological abuse (V995.51 / T74.32XA "Confirmed" or T76.32XA "Suspected") **only when the evaluator has independent evidence sufficient to meet the "significant psychological harm or reasonable potential to result in significant psychological harm" threshold,** and after differential-diagnosis ruling-out of estrangement secondary to actual maltreatment by the rejected parent.
 5. Cite the **APSAC 2022 differential-diagnosis position** (see §4 below) as the standard for the ruling-out step.
-6. **Avoid** writing "parental alienation syndrome," "parental alienation disorder," "PAS," or "PARP" in the diagnosis line. Use those terms — if at all — only in the *narrative* portion of the report as a descriptive label for a behavioural pattern, with citation, and explicitly note their non-status in [DSM-5-TR](https://www.appi.org/products/dsm) and ICD-11.
+6. **Avoid** writing "parental alienation syndrome," "parental alienation disorder," "PAS," or "PARP" in the diagnosis line. Use those terms — if at all — only in the *narrative* portion of the report as a descriptive label for a behavioural pattern, with citation, and explicitly note their non-status in [DSM-5-TR](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/).
 
 This strategy gives the report:
 - billable codes (so insurance/treatment access is possible);
@@ -339,7 +339,7 @@ Bernet, Wamboldt & Narrow (2016) (full citation §1.3 above) is the article that
 
 The ICD-11 history is documented in detail in `/evidence/international-institutional-positions.md` §1.2–1.3. Summary: PA was initially considered, was added as an index term for QE52.0, then was **formally removed in February 2020** following commentary highlighting misuse. WHO's operative direction is to code PA-pattern presentations to QE52.0.
 
-### 6.5 [PASG](https://pasg.info/) 2022 proposal — PARP — not adopted in DSM-5-TR
+### 6.5 [PASG](https://pasg.info/) 2022 proposal — PARP — not adopted in [DSM-5-TR](https://www.appi.org/products/dsm)
 
 Documented in §1.4 above.
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

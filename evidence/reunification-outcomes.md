@@ -297,7 +297,7 @@ The Spring 2022 issue of the *Journal of Family Trauma, Child Custody & Child De
 
 **Citation.** [Authors not directly verified at compilation]. Reunification therapies for parental alienation: Tenets, empirical evidence, commonalities, and differences. *Journal of Family Trauma, Child Custody & Child Development*, 19(3–4). https://doi.org/10.1080/26904586.2022.2080147 **[secondary verification only]** — DOI confirmed via Taylor & Francis listing https://www.tandfonline.com/doi/abs/10.1080/26904586.2022.2080147 .
 
-**Core conclusion (paraphrased from publisher record).** "Examines six intensive reunification therapies including Family Bridges and Turning Points for Families, concluding that many program tenets are questionable, and that outcome studies are too weakly designed and implemented to provide evidence of the programs' effectiveness."
+**Core conclusion (paraphrased from publisher record).** "Examines six intensive reunification therapies including [Family Bridges](https://warshak.com/family-bridges/) and Turning Points for Families, concluding that many program tenets are questionable, and that outcome studies are too weakly designed and implemented to provide evidence of the programs' effectiveness."
 
 ---
 
@@ -410,7 +410,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 
 | Source | Direct access | Notes |
 |---|---|---|
-| Warshak 2010 (Family Bridges FCR) | Yes (full PDF) | Abstract and methods quoted verbatim |
+| [Warshak](https://warshak.com/family-bridges/) 2010 (Family Bridges FCR) | Yes (full PDF) | Abstract and methods quoted verbatim |
 | Warshak & Otis 2010 | No | Citation verified via Family Bridges Institute publications list |
 | Warshak 2019 (J Divorce & Remarriage) | No | Abstract quoted from publisher record |
 | Reay 2015 (Family Reflections) | No | Outcome figure cross-confirmed in [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

@@ -74,7 +74,7 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 ## Subsequent reception
 
 - Doctrine universitaire française — Sophie Paricard, Université Toulouse 1 Capitole (2013) — Sophie Paricard, « Le syndrome d'aliénation parentale reconnu par la [Cour de cassation](https://www.courdecassation.fr/) : les premiers pas d'une révolution dans le contentieux familial ? », Droit de la famille n° 11, novembre 2013, comm. 152 — <https://lexis360.lexisnexis.fr/droit-document/article/droit-famille/11-2013/152_PS_FAM_FAM1311CM00152.htm>
-  - Première note d'arrêt académique de référence (LexisNexis, revue Droit de la famille). Paricard qualifie l'arrêt de « premiers pas d'une révolution » dans le contentieux familial français, tout en signalant que la Cour de cassation ne s'est pas prononcée sur la validité clinique du SAP. La note est devenue, depuis, la référence doctrinale standard pour l'analyse de l'arrêt.
+  - Première note d'arrêt académique de référence (LexisNexis, revue Droit de la famille). Paricard qualifie l'arrêt de « premiers pas d'une révolution » dans le contentieux familial français, tout en signalant que la [Cour de cassation](https://www.courdecassation.fr/) ne s'est pas prononcée sur la validité clinique du SAP. La note est devenue, depuis, la référence doctrinale standard pour l'analyse de l'arrêt.
 - Pratique professionnelle française — Maître Michèle Bauer (barreau de Bordeaux) (2013) — Michèle Bauer, « Le syndrome d'aliénation parentale reconnu par la Cour de cassation », Légavox, juillet 2013 — <https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/syndrome-alienation-parentale-reconnu-cour-13249.htm>
   - Note de pratique destinée aux avocats du droit de la famille. Lecture pro-reconnaissance présentant l'arrêt comme un point d'inflexion stratégique pour les conseils des parents évincés.
 - Associations françaises de parents — ACALPA (Association contre l'aliénation parentale et pour le lien familial) (2013) — ACALPA, Rapport d'activité 2013 (cite Cass. 1re civ. 26 juin 2013 comme jurisprudence apicale de référence) — <https://www.acalpa.info/wp-content/uploads/2016/08/2013-RAPPORT-ACTIVITE-ACALPA.pdf>
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

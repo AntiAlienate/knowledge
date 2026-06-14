@@ -389,7 +389,7 @@
   - Co-founder Lorentzhuis (1984)
 - **Primary contact:** Lorentzhuis https://www.lorentzhuis.nl/ (institutional address Haarlem); Taos Institute profile page contact above
 - **Tier:** 1
-- **Hook:** **The single most operationally significant Dutch contribution to the PA / high-conflict-divorce field** — *No Kids in the Middle* is the Netherlands' export to Routledge and to the European intervention canon. Not PASG-aligned; explicitly avoids "alienator/alienated" labelling.
+- **Hook:** **The single most operationally significant Dutch contribution to the PA / high-conflict-divorce field** — *No Kids in the Middle* is the Netherlands' export to Routledge and to the European intervention canon. Not [PASG](https://pasg.info/)-aligned; explicitly avoids "alienator/alienated" labelling.
 - **Notes:** Treat as the recommended bridge clinician — engages PA dynamics inside a multi-family-group, non-blame frame and has been adopted by Dutch youth-care services (De Viersprong evaluation https://deviersprong.nl/over-de-viersprong/over-de-viersprong-onderzoek/vechtscheidingsbehandeling-kinderen-uit-de-knel).
 
 ### 2. Dr Sietske Dijkstra, PhD
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

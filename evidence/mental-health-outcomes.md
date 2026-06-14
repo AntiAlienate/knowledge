@@ -347,7 +347,7 @@ Across the studies in §§1–7, the recurring limitations are:
 
 1. **Sample selection bias.** Most adult-outcome studies recruit through PA-support networks, online targeted-parent communities, or convenience snowball sampling. People who self-identify as alienation victims are the ones who respond. This inflates effect estimates relative to true population effects.
 2. **Retrospective recall.** Almost all "long-term outcome" studies are adult recall of childhood conditions, vulnerable to mood-congruent memory effects, narrative reconstruction, and reverse causation (depressed adults may recall their childhoods as more alienating).
-3. **Absence of comparison groups.** Qualitative studies (Baker 2007; Bentley & Matthewson 2020; Verhaar et al. 2022) have no non-PA-exposed controls. Quantitative studies typically use either a single sample or compare to general-population norms rather than to a matched high-conflict-divorce comparison group, making it hard to isolate PA effects from generic divorce-conflict effects.
+3. **Absence of comparison groups.** Qualitative studies ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007; Bentley & Matthewson 2020; Verhaar et al. 2022) have no non-PA-exposed controls. Quantitative studies typically use either a single sample or compare to general-population norms rather than to a matched high-conflict-divorce comparison group, making it hard to isolate PA effects from generic divorce-conflict effects.
 4. **Construct overlap with justified estrangement.** Children who reject a parent for *valid reasons* (abuse, neglect, frightening behaviour) may end up classified as "alienated" by partisan evaluators — and conversely, genuinely alienated children may be mis-classified as estranged. The PA construct, as measured in most outcome studies, does not cleanly separate these populations.
 5. **Cross-sectional design.** With the exception of the Chinese left-behind-children longitudinal studies (Qin 2022; Zhang 2024) and a handful of others, the literature is overwhelmingly cross-sectional, precluding strong causal inference.
 6. **Heterogeneity of operationalisation.** "Parental alienating behaviours" is variously measured by the Baker Strategy Questionnaire, by Bernet's PARQ-based work, by clinical case identification, and by self-report endorsement of single items. Effect sizes are not directly comparable across studies.
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

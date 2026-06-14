@@ -134,7 +134,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 > "A small to substantial minority (between 10 and 39%) of abusers receive primary physical or joint custody (Davis, O'Sullivan, Susser, & Fields, 2011; Morrill, Dai, Dunn, Sung, & Smith, 2005), or they might receive joint legal custody without physical custody (Bow & Boxer, 2003; [Saunders](https://www.ovw.usdoj.gov/), Faller, & Tolman, 2011), an arrangement that can have serious ramifications (Conner, 2011)."
 
-### 1.5 What the Saunders program does and does not establish
+### 1.5 What the [Saunders](https://www.ovw.usdoj.gov/) program does and does not establish
 
 **Does establish (high confidence).** A real, measurable asymmetry exists in the operational practice of US custody evaluators circa 2007-2011: most directly inquire about DV (94%) but a minority (only 38% always) use a validated DV screening instrument; only ~23% spontaneously generate coercive-control hypotheses for a vignette explicitly depicting coercive-controlling violence; ~25-30% baseline estimates of false maternal allegations; and a constellation of beliefs (false-allegation, alienating-mother, dismiss-DV, sexist core values) co-vary with custody recommendations that disfavour the alleged-survivor parent.
 
@@ -255,7 +255,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 **Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92-105. https://doi.org/10.1080/09649069.2020.1701941 — Open repository copy: https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2712&context=faculty_publications — NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859.
 
-**The 4,338-case dataset's evaluator slicing.** Meier 2020's published article focuses primarily on the gender-asymmetric outcome gradient (mothers losing custody at twice the rate when fathers cross-claim alienation). The *evaluator-appointment effect* is a secondary analysis. **[Secondary verification only]** for the specific within-dataset finding that outcomes for protective mothers worsened where custody evaluators were appointed; the relevant statistics, where reported in the NIJ Final Report (NCJ 304419), are not reproduced in the published *Journal of Social Welfare and Family Law* abstract or main empirical tables that were directly accessible at compilation, and the full Final Report's tables on evaluator/GAL appointment slicing were not directly extractable. The qualitative finding — that evaluator and GAL involvement in PA-cross-claim cases was associated with worse outcomes for protective mothers — is also reproduced in [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) Tables 2-5 and discussed in `evidence-forensic-operation-in-courts.md` §3.
+**The 4,338-case dataset's evaluator slicing.** [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)'s published article focuses primarily on the gender-asymmetric outcome gradient (mothers losing custody at twice the rate when fathers cross-claim alienation). The *evaluator-appointment effect* is a secondary analysis. **[Secondary verification only]** for the specific within-dataset finding that outcomes for protective mothers worsened where custody evaluators were appointed; the relevant statistics, where reported in the NIJ Final Report (NCJ 304419), are not reproduced in the published *Journal of Social Welfare and Family Law* abstract or main empirical tables that were directly accessible at compilation, and the full Final Report's tables on evaluator/GAL appointment slicing were not directly extractable. The qualitative finding — that evaluator and GAL involvement in PA-cross-claim cases was associated with worse outcomes for protective mothers — is also reproduced in [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) Tables 2-5 and discussed in `evidence-forensic-operation-in-courts.md` §3.
 
 **[Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) corroboration on evaluator/GAL effects.** From the verbatim text already reproduced in `evidence-forensic-operation-in-courts.md` §3:
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

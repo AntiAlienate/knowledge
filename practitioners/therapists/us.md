@@ -367,7 +367,7 @@ Newport Beach · CA · Independent forensic psychology practice (Newport Beach, 
 *PhD; CA Licensed Psychologist*
 San Rafael · CA · Independent custody-evaluation practice (San Rafael, CA)
 
-**Stance:** Court-appointed custody and dependency evaluations; co-editor with Drozd & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Parenting Plan Evaluations (Oxford, 2016) and Parenting Plan & Child Custody Evaluations (PRP, 2013). Contributor to AFCC Model Standards — part of the AFCC evaluator-training canon.
+**Stance:** Court-appointed custody and dependency evaluations; co-editor with Drozd & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Parenting Plan Evaluations (Oxford, 2016) and Parenting Plan & Child Custody Evaluations (PRP, 2013). Contributor to [AFCC](https://www.afccnet.org/) Model Standards — part of the AFCC evaluator-training canon.
 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)*
@@ -462,7 +462,7 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
   - Primary source: <https://www.nytimes.com/2003/06/09/nyregion/richard-gardner-72-dies-cited-syndrome-in-custody-fights.html>
 - **Steven Pumphrey, PhD** — Unverifiable at directory standard: no practice site, no court records, and no peer-reviewed PA publication surfaced via primary-source search. Excluded for absence of verifiable footprint, not for regulatory reason.
   - Primary source: <https://www.google.com/search?q=%22Steven+Pumphrey%22+%22parental+alienation%22>
-- **Jennifer Hardman, LMFT (purported)** — Unverifiable: no such person publicly verifiable in the PA literature. The closest verifiable name is Jennifer J. Harman, PhD (Colorado State University, PASG Board, recognition camp) — included in entries[] as us.harman-jennifer-j as the corrected canonical entry. Original v1.0 source brief categorised 'Hardman' under critique camp, which is inconsistent with Harman's recognition-camp record.
+- **Jennifer Hardman, LMFT (purported)** — Unverifiable: no such person publicly verifiable in the PA literature. The closest verifiable name is Jennifer J. Harman, PhD (Colorado State University, [PASG](https://pasg.info/) Board, recognition camp) — included in entries[] as us.harman-jennifer-j as the corrected canonical entry. Original v1.0 source brief categorised 'Hardman' under critique camp, which is inconsistent with Harman's recognition-camp record.
   - Primary source: <https://www.libarts.colostate.edu/people/jharman/>
 - **William G. Austin, PhD** — Borderline category fit: verified active practitioner (Lakewood, CO; child-custody-services.com) but his published stance is parental-gatekeeping research / methodologically middle without strong public PA-specific positioning. Excluded as borderline; eligible for re-inclusion in a future revision if a clearer primary-source PA stance is documented.
   - Primary source: <https://www.child-custody-services.com/>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

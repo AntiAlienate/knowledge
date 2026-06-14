@@ -113,7 +113,7 @@ New Delhi / London · Delhi ([Supreme Court of India](https://main.sci.gov.in/))
 - <https://nludelhi.ac.in/faculty/dr-pinky-anand/>
 - <https://delhistudygroup.org/our-team/mrs-pinky-anand/>
 
-**Contact:** Chamber Supreme Court of India / via No5 Chambers London +44 845 210 5555; Delhi Study Group https://delhistudygroup.org/our-team/mrs-pinky-anand/
+**Contact:** Chamber [Supreme Court of India](https://main.sci.gov.in/) / via No5 Chambers London +44 845 210 5555; Delhi Study Group https://delhistudygroup.org/our-team/mrs-pinky-anand/
 
 *Notes: Senior Advocate 2007; former ASG 2014-2018 verified via Wikipedia and No5 Chambers profile; IAFL India fellow profile confirmed; Bar Council registration number not publicly displayed.*
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

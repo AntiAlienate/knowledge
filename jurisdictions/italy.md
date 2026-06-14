@@ -108,7 +108,7 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 
 ## Sources
 
-1. **Italgiure — Banca dati della giurisprudenza della [Corte di Cassazione](https://www.cortedicassazione.it/)** — <https://www.italgiure.giustizia.it/> (Corte Suprema di Cassazione — CED) [it]
+1. **Italgiure — Banca dati della giurisprudenza della [Corte di Cassazione](https://www.cortedicassazione.it/)** — <https://www.italgiure.giustizia.it/> (Corte Suprema di [Cassazione](https://www.cortedicassazione.it/) — CED) [it]
 2. **Corte Suprema di Cassazione — sito istituzionale** — <https://www.cortedicassazione.it/> (Corte Suprema di Cassazione) [it]
 3. **Ministero della Salute — sito istituzionale e nota 25 maggio 2012 sulla PAS** — <https://www.salute.gov.it/> (Ministero della Salute) [it]
 4. **Consiglio Nazionale dell'Ordine degli Psicologi (CNOP)** — <https://www.psy.it/> (CNOP) [it]
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

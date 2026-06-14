@@ -82,7 +82,7 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 ## Sources
 
 1. **[European Court of Human Rights](https://www.echr.coe.int/)** — <https://www.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/)) [en]
-2. **[Council of Europe](https://www.coe.int/)** — <https://www.coe.int/> (Council of Europe) [en]
+2. **[Council of Europe](https://www.coe.int/)** — <https://www.coe.int/> ([Council of Europe](https://www.coe.int/)) [en]
 3. **[HUDOC](https://hudoc.echr.coe.int/) ECHR Database** — <https://hudoc.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/)) [en]
 
 ## Editorial notes
@@ -95,6 +95,8 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

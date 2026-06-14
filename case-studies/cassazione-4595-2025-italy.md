@@ -176,7 +176,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 - PRIMARY SOURCE: il principio di diritto enunciato al § 10 dell'ordinanza riguarda l'ascolto degli infradodicenni dotati di capacità di discernimento ed è espressamente vincolato per il giudice del rinvio (insieme ai principi enunciati ai §§ 12, 12.1, 18, 18.1, 18.2).
 - NON VERIFICABILE DA FONTE PRIMARIA: l'ECLI 'ECLI:IT:CASS:2025:4595CIV' è ricostruito secondo la convenzione di codifica ECLI italiana per la [Cassazione](https://www.cortedicassazione.it/) civile (anno + numero + 'CIV'); non sempre compare nel testo dell'ordinanza, né italgiure pubblica ECLI formalmente assegnati per tutte le ordinanze del 2025 nello stesso modo in cui lo fa per le sentenze più recenti — verifica da completare su italgiure.giustizia.it.
 - NON VERIFICABILE DA FONTE PRIMARIA: l'identità del CTU di primo grado (Tribunale di Modena) e della psicologa dei Servizi Sociali NON è pubblicata nel testo dell'ordinanza; le rispettive figure professionali sono ricostruite dal testo della motivazione ma le identità nominali restano protette dall'anonimizzazione ex D.Lgs. 196/2003 art. 52.
-- NON VERIFICABILE DA FONTE PRIMARIA: l'identità nominale dei genitori e dei minori è coperta dall'anonimizzazione disposta nel dispositivo ex art. 52 D.Lgs. 196/2003; le iniziali Ri.El., Mo.Ma., Mo.Lo., Mo.Ja. sono quelle pubblicate nel testo del provvedimento secondo la convenzione delle 'iniziali doppie' della Cassazione civile.
+- NON VERIFICABILE DA FONTE PRIMARIA: l'identità nominale dei genitori e dei minori è coperta dall'anonimizzazione disposta nel dispositivo ex art. 52 D.Lgs. 196/2003; le iniziali Ri.El., Mo.Ma., Mo.Lo., Mo.Ja. sono quelle pubblicate nel testo del provvedimento secondo la convenzione delle 'iniziali doppie' della [Cassazione](https://www.cortedicassazione.it/) civile.
 - POSIZIONE NELLA TRIADE: Cass. 4595/2025 chiude la triade apicale italiana 13217/2021 → 9691/2022 → 4595/2025 (con pronuncia ponte 3576/2024). Specifico contributo proprio di 4595/2025: (a) applica la ratio della linea a un caso in cui la sigla 'PAS' non è pronunciata dal CTU né dalla Corte d'Appello (è il calco lessicale del costrutto a sorreggere il decreto); (b) ancora la critica metodologica alla diagnosi-senza-condotta al dovere CEDU–Istanbul Convention di screening autonomo della violenza domestica; (c) consolida la non delegabilità dell'ascolto del minore al CTU, con principio di diritto vincolante per il giudice del rinvio; (d) recepisce esplicitamente la nota Ministero Salute 29.05.2020 in motivazione (passaggio assente in 9691/2022).
 - RICEZIONE CLINICO-FORENSE CRITICA: Mazzeo, Manotti e la rete CISMAI hanno utilizzato Cass. 4595/2025 come avallo apicale del proprio posizionamento metodologico critico-PA. La letteratura clinico-forense pro-PA italiana (cfr. Centro Studi Livatino, Pingitore in alcune annotazioni — qui usato come fonte primaria della cronologia dei commenti, NON come avallo della posizione editoriale AntiAlienate) ha invece letto 4595/2025 in modo più contenuto, enfatizzando il bilanciamento del § 17 (divieto speculare di presumere strumentalità delle allegazioni PA quando provengono dal genitore violento).
 
@@ -185,6 +185,8 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

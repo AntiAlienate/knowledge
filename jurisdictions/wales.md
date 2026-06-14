@@ -53,7 +53,7 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ## Structural findings
 
 - WALES SHARES UNIFIED ENGLAND-AND-WALES JUDICIAL HIERARCHY: No Welsh-specific apex line distinct from the English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026). [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) + Family Procedure Rules 2010 substantive frame.
-- CAFCASS CYMRU IS THE WELSH INSTITUTIONAL DIFFERENTIATOR: Devolved Welsh Government Sponsored Public Body distinct from English Cafcass. Operates own welfare-reporting framework + policy guidance. Welsh-language operational requirement under Welsh Language Measure 2011.
+- CAFCASS CYMRU IS THE WELSH INSTITUTIONAL DIFFERENTIATOR: Devolved Welsh Government Sponsored Public Body distinct from English [Cafcass](https://www.cafcass.gov.uk/). Operates own welfare-reporting framework + policy guidance. Welsh-language operational requirement under Welsh Language Measure 2011.
 - DOUGHTY/MAXWELL/SLATER 2018 IS THE CANONICAL WELSH ACADEMIC ANCHOR: Welsh-Government-commissioned April 2018 'Review of Research and Case Law on Parental Alienation' frames PA as a 'belief system' rather than empirically grounded clinical concept. Source document on which Cafcass Cymru policy on PA derives. Dr Julie Doughty (Cardiff University School of Law and Politics) is the load-bearing Welsh academic figure.
 - WELSH FAMILY BAR DOMINATED BY PUBLIC-LAW CHILDREN PRACTICE: 30 Park Place + 9 Park Place + Queen Square Chambers are the leading Welsh family chambers. PA-experienced practitioners cluster at public-law children rather than private-law children practice. Welsh-language capacity at Linenhall Chambers.
 - CRITIQUE-CAMP INSTITUTIONAL ANCHOR: Welsh Women's Aid carries federation-aligned critique-camp position. No Welsh recognition-camp clinical practice anchor identified at directory standard. Welsh institutional landscape critique-leaning.
@@ -87,6 +87,8 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
