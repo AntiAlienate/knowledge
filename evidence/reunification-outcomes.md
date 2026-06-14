@@ -360,7 +360,7 @@ Additional verbatim provisions in the same paragraph:
 
 | Programme | Programme-produced outcome study | Independent peer-reviewed outcome study |
 |---|---|---|
-| Family Bridges | Yes — [Warshak](https://warshak.com/family-bridges/) 2010 (n=23), [Warshak](https://warshak.com/family-bridges/) 2019 (n=83) | **No** |
+| [Family Bridges](https://warshak.com/family-bridges/) | Yes — [Warshak](https://warshak.com/family-bridges/) 2010 (n=23), [Warshak](https://warshak.com/family-bridges/) 2019 (n=83) | **No** |
 | Family Reflections | Yes — Reay 2015 (n=22 children / 12 families) | **No** |
 | Turning Points for Families | Yes — [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 (n=55 children / 30 families; analysed videos from 15) — *but commissioned by [Gottlieb](https://turningpointsforfamilies.com/), who supplied all source materials* | **No** |
 | [AB-PA](https://drcachildress.org/) ([Childress](https://drcachildress.org/)) | **No peer-reviewed outcome study identified** | **No** |
@@ -411,7 +411,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Source | Direct access | Notes |
 |---|---|---|
 | [Warshak](https://warshak.com/family-bridges/) 2010 (Family Bridges FCR) | Yes (full PDF) | Abstract and methods quoted verbatim |
-| Warshak & Otis 2010 | No | Citation verified via Family Bridges Institute publications list |
+| [Warshak](https://warshak.com/family-bridges/) & Otis 2010 | No | Citation verified via Family Bridges Institute publications list |
 | Warshak 2019 (J Divorce & Remarriage) | No | Abstract quoted from publisher record |
 | Reay 2015 (Family Reflections) | No | Outcome figure cross-confirmed in [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 |
 | [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 ([TPFF](https://turningpointsforfamilies.com/)) | Yes (full PDF) | Methods, results, COI quoted verbatim |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

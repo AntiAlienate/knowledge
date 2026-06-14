@@ -90,3 +90,39 @@ The current version (operative January 1, 2026 under SB 899 / Stats. 2024 Ch. 54
 - [Florida Statute § 61.13 — Time-Sharing Factors](florida-statute-61-13-time-sharing-factors.md) (existing entry)
 - [Washington RCW 26.09.187 — Parenting Plan Criteria](washington-rcw-26-09-187-parenting-plan-criteria.md) (existing entry)
 - [Kansas Statutes Annotated § 23-3203 — Custody Factors](ksa-23-3203-kansas-custody-factors.md) (existing entry)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+
+<!-- AA-CROSSLINK-END -->

@@ -69,7 +69,7 @@ London · England · Co-founder and partner, Family Separation Clinic LLP; indep
 *DCounsPsy; CPsychol; AFBPsS; [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist (PYL protected title); Deputy Chair [BPS](https://www.bps.org.uk/) Training Committee for Counselling Psychology; [BPS](https://www.bps.org.uk/) Expert Witness Advisory Group*
 Teesside · England · Principal Psychologist and founder, Family Psychology Solutions CIC (Teesside University-supported)
 
-**Stance:** The only UK CPsychol + [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist with a sustained PA-specific publication record. PhD thesis (Cardiff Metropolitan) 'Powerlessness, betrayal, abuse: The trauma of parental alienation' frames PA as trauma; BPS The Psychologist series articulates a recognition-camp clinical position. Distinguished from the Woodalls precisely because she meets the Re Y [2026] EWFC 38 regulatory bar — [HCPC](https://www.hcpc-uk.org/) + CPsychol + AFBPsS + BPS Expert Witness Advisory Group. Position is recognition-camp; survives the post-Re Y instruction test.
+**Stance:** The only UK CPsychol + [HCPC](https://www.hcpc-uk.org/)-registered Counselling Psychologist with a sustained PA-specific publication record. PhD thesis (Cardiff Metropolitan) 'Powerlessness, betrayal, abuse: The trauma of parental alienation' frames PA as trauma; [BPS](https://www.bps.org.uk/) The Psychologist series articulates a recognition-camp clinical position. Distinguished from the Woodalls precisely because she meets the Re Y [2026] EWFC 38 regulatory bar — [HCPC](https://www.hcpc-uk.org/) + CPsychol + AFBPsS + BPS Expert Witness Advisory Group. Position is recognition-camp; survives the post-Re Y instruction test.
 
 **Publications:**
 - Powerlessness, betrayal, abuse: The trauma of parental alienation (DCounsPsy thesis) (2014) — *Cardiff Metropolitan University*
@@ -203,7 +203,7 @@ London · England · UCL Psychoanalysis Unit (Visiting Professor); Great Ormond 
 <sub>ID: `uk-ews.glaser-danya`</sub>
 
 ### Dr Hannah Jones
-*ForenPsyD; CPsychol; AFBPsS; [HCPC](https://www.hcpc-uk.org/)-registered Forensic Psychologist (PYL protected title; specific HCPC number not publicly confirmed); Stage 2 Assessor for BPS Qualification in Forensic Psychology*
+*ForenPsyD; CPsychol; AFBPsS; [HCPC](https://www.hcpc-uk.org/)-registered Forensic Psychologist (PYL protected title; specific [HCPC](https://www.hcpc-uk.org/) number not publicly confirmed); Stage 2 Assessor for BPS Qualification in Forensic Psychology*
 London · England · Senior Lecturer, Centre for Psychiatry & Mental Health, Queen Mary University of London; Programme Director MSc Forensic Psychology & Mental Health (BPS-accredited); independent forensic-psychology expert-witness practice
 
 **Stance:** A regulated UK Chartered Forensic Psychologist who explicitly rejects standalone-PA diagnosis — publicly quoted (Transparency Project) as 'true alienation ... is rare enough that it does not need its own concept'. The critique-camp answer to 'who should the court be instructing?' post-Re Y: trauma-informed and domestic-abuse-informed forensic assessment of parents in Family Court as an alternative to the PA-diagnosis expert pipeline. Survives the Re Y regulatory bar squarely.
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

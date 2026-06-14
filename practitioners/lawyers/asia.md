@@ -432,7 +432,7 @@ New York · United States (Japan-facing practice) · The Law Office of Jeremy D.
 
 ### Indira Jaising, Senior Advocate (Lawyers Collective co-founder)
 *Senior Advocate (designated 1986, first woman so designated by Bombay HC); former Additional Solicitor General of India 2009-2014; Lawyers Collective co-founder 1981*
-Mumbai / New Delhi · Maharashtra / Supreme Court of India · Independent Senior Counsel; Lawyers Collective (co-founder)
+Mumbai / New Delhi · Maharashtra / [Supreme Court of India](https://main.sci.gov.in/) · Independent Senior Counsel; Lawyers Collective (co-founder)
 
 **Stance:** Critique-adjacent register anchor for the Indian PA debate. Institutional architect of India's Protection of Women from Domestic Violence Act 2005 + apex-court counsel in Githa Hariharan v Reserve Bank of India (1999) 2 SCC 228 (mother as natural guardian on par with father). Lawyers Collective co-founder 1981 institutionalised the women's-rights / DV-protection bar in India. Explicit PA-specific public stance not located in primary sources; classified critique on the strength of her DV-Act drafting and women's-rights apex-court register, which underpins any critique-camp framing of PA-as-DV-shield concerns. Country_code: IN.
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

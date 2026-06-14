@@ -172,7 +172,7 @@ Again, "alienation" and "child abuse and domestic violence" are coordinate enume
 
 > "Special issues such as allegations of domestic violence, substance abuse, alienating behaviors, sexual abuse; relocation requests; and, sexual orientation issues require specialized knowledge and training. … When evaluators lack specialized training in particular areas of concern for the evaluation, they shall either decline the appointment or obtain the necessary training."
 
-**The asymmetry critique.** Saunders and others argue that the [AFCC](https://www.afccnet.org/) standards' coordinate listing of "domestic violence" and "alienating behaviors" — without any statement that abuse must be assessed and ruled in or out *before* alienation hypotheses are entertained — is itself the policy locus of the problem. The standards permit, but do not require, the disconfirmatory ordering that the empirical literature implies. **Honest counter-reading:** [AFCC](https://www.afccnet.org/) does separately require generalised "neutrality" training (Section 1.2(b)(18)) and explicit bias-inspection language at multiple points; the standards are not silent on the risk, only soft on the operational ordering.
+**The asymmetry critique.** [Saunders](https://www.ovw.usdoj.gov/) and others argue that the [AFCC](https://www.afccnet.org/) standards' coordinate listing of "domestic violence" and "alienating behaviors" — without any statement that abuse must be assessed and ruled in or out *before* alienation hypotheses are entertained — is itself the policy locus of the problem. The standards permit, but do not require, the disconfirmatory ordering that the empirical literature implies. **Honest counter-reading:** [AFCC](https://www.afccnet.org/) does separately require generalised "neutrality" training (Section 1.2(b)(18)) and explicit bias-inspection language at multiple points; the standards are not silent on the risk, only soft on the operational ordering.
 
 ### 2.2 Stahl, Philip M. — the practitioner defense of the evaluator role
 
@@ -263,7 +263,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 > "In 73% of cases for which we had data, the GAL sided with the perpetrator against the child."
 
-**The Joan Meier training programme as a downstream policy response.** Meier currently delivers, through the National Family Violence Law Center at GW Law, a 12-hour evaluator training for Colorado that satisfies the state's HB-1228 requirement (the predecessor to HB23-1178 discussed in §8 below) covering DV, child abuse, child sexual abuse, trauma, and coercive control. URL: https://plum-clover-wxm9.squarespace.com/https/wwwlawgwuedu/national-family-violence-law-center/joanmeier — Note: URL structure suggests this is a third-party reproduction; the National Family Violence Law Center primary site is https://www.law.gwu.edu/national-family-violence-law-center. **[Secondary verification only]** for the precise contents of the Colorado 12-hour curriculum.
+**The Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) training programme as a downstream policy response.** Meier currently delivers, through the National Family Violence Law Center at GW Law, a 12-hour evaluator training for Colorado that satisfies the state's HB-1228 requirement (the predecessor to HB23-1178 discussed in §8 below) covering DV, child abuse, child sexual abuse, trauma, and coercive control. URL: https://plum-clover-wxm9.squarespace.com/https/wwwlawgwuedu/national-family-violence-law-center/joanmeier — Note: URL structure suggests this is a third-party reproduction; the National Family Violence Law Center primary site is https://www.law.gwu.edu/national-family-violence-law-center. **[Secondary verification only]** for the precise contents of the Colorado 12-hour curriculum.
 
 ---
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

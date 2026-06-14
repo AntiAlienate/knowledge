@@ -72,6 +72,8 @@ Inserted by the **Domestic Abuse Act 2021** (in force 28 February 2022) to opera
 - [Children Act 1989, s.41 — Representation of Child](children-act-1989-section-41-representation-of-child.md)
 - [Children and Families Act 2014, s.11 — Parental Involvement](children-and-families-act-2014-section-11-parental-involvement.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

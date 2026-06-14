@@ -367,7 +367,7 @@ Newport Beach · CA · Independent forensic psychology practice (Newport Beach, 
 *PhD; CA Licensed Psychologist*
 San Rafael · CA · Independent custody-evaluation practice (San Rafael, CA)
 
-**Stance:** Court-appointed custody and dependency evaluations; co-editor with Drozd & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Parenting Plan Evaluations (Oxford, 2016) and Parenting Plan & Child Custody Evaluations (PRP, 2013). Contributor to [AFCC](https://www.afccnet.org/) Model Standards — part of the AFCC evaluator-training canon.
+**Stance:** Court-appointed custody and dependency evaluations; co-editor with Drozd & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Parenting Plan Evaluations (Oxford, 2016) and Parenting Plan & Child Custody Evaluations (PRP, 2013). Contributor to [AFCC](https://www.afccnet.org/) Model Standards — part of the [AFCC](https://www.afccnet.org/) evaluator-training canon.
 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)*
@@ -470,7 +470,7 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
   - Primary source: <https://www.legacy.com/us/obituaries/name/steven-miller-obituary>
 - **Demosthenes Lorandos, PhD, JD** — Retired from active clinical psychology practice; covered in the US lawyers directory as a JD / forensic-litigator entry. Co-author with Bernet of Parental Alienation: Science and Law (Charles C. Thomas, 2020) — historically central to recognition-camp courtroom strategy, but no longer in scope for the therapists directory.
   - Primary source: <https://www.psychlaw.net/>
-- **Barbara Jo Fidler, PhD** — Out of scope (Canada): Toronto-based; reserved for the Canada therapists directory. Co-author with Bala / Hurst / Sullivan of the FCR PCCP / RRD synthesis literature. Cross-border PASG / OBFC axis.
+- **Barbara Jo Fidler, PhD** — Out of scope (Canada): Toronto-based; reserved for the Canada therapists directory. Co-author with Bala / Hurst / Sullivan of the FCR PCCP / RRD synthesis literature. Cross-border [PASG](https://pasg.info/) / OBFC axis.
   - Primary source: <https://www.barbarajofidler.com/>
 - **Karen Woodall and Nick Woodall** — Out of scope (United Kingdom): Family Separation Clinic (London) operators; reserved for the United Kingdom therapists directory.
   - Primary source: <https://familyseparationclinic.com/>
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

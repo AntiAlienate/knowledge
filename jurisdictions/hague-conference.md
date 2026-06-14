@@ -56,7 +56,7 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 
 ## Structural findings
 
-- Hague Conference / Hague Convention 1980 operates a supranational meta-legal-system framework — places [HCCH](https://www.hcch.net/) in the unique multi-state private-international-law cluster.
+- Hague Conference / [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) operates a supranational meta-legal-system framework — places [HCCH](https://www.hcch.net/) in the unique multi-state private-international-law cluster.
 - Only modern multi-state framework specifically for international-child-abduction is structurally distinctive globally — Hague Convention 1980.
 - Foundational framework for international child-protection via [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) is structurally distinctive globally.
 - Hague Convention 1980 91+ contracting parties is structurally distinctive globally — largest multi-state private-international-law convention framework.
@@ -94,6 +94,8 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

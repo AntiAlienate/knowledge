@@ -139,7 +139,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 4. **Il Sole 24 Ore — NT+ Diritto, 'La [Cassazione](https://www.cortedicassazione.it/) frena sulla Sindrome da alienazione parentale (PAS): stop a sillogismi implausibili'** — <https://ntplusdiritto.ilsole24ore.com/art/la-cassazione-frena-sindrome-alienazione-parentale-pas-stop-sillogismi-implausibili-AE93sxK> (Il Sole 24 Ore — NT+ Diritto) [it] — accessed 2026-05-30
 5. **Alley Oop — Il Sole 24 Ore, '[Cassazione](https://www.cortedicassazione.it/) sconfessa la Pas, controverso il costrutto scientifico'** — <https://alleyoop.ilsole24ore.com/2021/05/19/cassazione-sconfessa-la-pas-controverso-costrutto-scientifico/> (Il Sole 24 Ore — Alley Oop) [it] — accessed 2026-05-30
 6. **Studio Donne, 'La PAS non esiste: la [Cassazione](https://www.cortedicassazione.it/) blocca la sindrome da alienazione parentale'** — <https://studiodonne.it/2021/05/31/la-pas-non-esiste-la-cassazione-blocca-la-sindrome-da-alienazione-parentale/> (Studio Donne) [it] — accessed 2026-05-30
-7. **D.i.Re — Donne in Rete contro la violenza, 'Violenza, PAS. Ordinanza della Cassazione fondamentale'** — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/> (D.i.Re ONG) [it] — accessed 2026-05-30
+7. **D.i.Re — Donne in Rete contro la violenza, 'Violenza, PAS. Ordinanza della [Cassazione](https://www.cortedicassazione.it/) fondamentale'** — <https://www.direcontrolaviolenza.it/violenza-pas-ordinanza-della-cassazione-fondamentale-andrebbero-riviste-tante-sentenze-alla-luce-di-questo-testo/> (D.i.Re ONG) [it] — accessed 2026-05-30
 8. **Iris UniPa — 'Sindrome da alienazione parentale e configurazione giuridica di illecito endofamiliare: nota a margine di Cass. 13217/2021'** — <https://iris.unipa.it/handle/10447/637297> (Università degli Studi di Palermo — IRIS) [it] — accessed 2026-05-30
 9. **Marco Pingitore, 'Luci e ombre dell'ordinanza della Cassazione n. 13217/21 in tema di PAS e Sindrome Madre Malevola'** — <https://blog.marcopingitore.it/luci-e-ombre-dellordinanza-della-cassazione-n-13217-21-in-tema-di-pas-e-sindrome-madre-malevola/2021/05/23/5545/> (blog.marcopingitore.it) [it] — accessed 2026-05-30
 10. **Avv. Margherita Corriere, scheda '[Corte di Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 13217/2021'** — <https://www.avvmargheritacorriere.it/art130621_a.html> (Studio Legale Margherita Corriere) [it] — accessed 2026-05-30
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

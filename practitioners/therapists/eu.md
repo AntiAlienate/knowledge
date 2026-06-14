@@ -426,7 +426,7 @@
   - Former chair Triversum (Alkmaar)
 - **Primary contact:** Choy Consultants contact via https://www.choyconsultants.nl/
 - **Tier:** 2
-- **Hook:** The senior Dutch systems-therapy voice — useful when an article needs a non-PASG Dutch clinical authority on high-conflict divorce who outranks van Lawick on seniority but not on programme reach.
+- **Hook:** The senior Dutch systems-therapy voice — useful when an article needs a non-[PASG](https://pasg.info/) Dutch clinical authority on high-conflict divorce who outranks van Lawick on seniority but not on programme reach.
 - **Notes:** Long career; PA-specific *peer-reviewed* publication record is thinner than van Lawick's — Tier 2 reflects that.
 
 ### 4. Prof Dr Catrin Finkenauer
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

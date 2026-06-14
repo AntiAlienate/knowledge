@@ -350,7 +350,7 @@ Across the studies in §§1–7, the recurring limitations are:
 3. **Absence of comparison groups.** Qualitative studies ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007; Bentley & Matthewson 2020; Verhaar et al. 2022) have no non-PA-exposed controls. Quantitative studies typically use either a single sample or compare to general-population norms rather than to a matched high-conflict-divorce comparison group, making it hard to isolate PA effects from generic divorce-conflict effects.
 4. **Construct overlap with justified estrangement.** Children who reject a parent for *valid reasons* (abuse, neglect, frightening behaviour) may end up classified as "alienated" by partisan evaluators — and conversely, genuinely alienated children may be mis-classified as estranged. The PA construct, as measured in most outcome studies, does not cleanly separate these populations.
 5. **Cross-sectional design.** With the exception of the Chinese left-behind-children longitudinal studies (Qin 2022; Zhang 2024) and a handful of others, the literature is overwhelmingly cross-sectional, precluding strong causal inference.
-6. **Heterogeneity of operationalisation.** "Parental alienating behaviours" is variously measured by the Baker Strategy Questionnaire, by Bernet's PARQ-based work, by clinical case identification, and by self-report endorsement of single items. Effect sizes are not directly comparable across studies.
+6. **Heterogeneity of operationalisation.** "Parental alienating behaviours" is variously measured by the [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Strategy Questionnaire, by Bernet's PARQ-based work, by clinical case identification, and by self-report endorsement of single items. Effect sizes are not directly comparable across studies.
 7. **Publication and ideological bias.** The field is polarised; outcome studies are predominantly published by an interconnected group of authors (Bernet, Baker, Verrocchio, [Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/), Matthewson) and rebutted by another interconnected group (Mercer, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler, Bala, Silberg, Dallam). Independent replication by neutral teams is sparse.
 
 ---
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

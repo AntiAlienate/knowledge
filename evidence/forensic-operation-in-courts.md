@@ -91,7 +91,7 @@
 
 **Citation 2.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C. S., & Rosen, L. (2022). Harman and Lorandos' false critique of [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(2). https://doi.org/10.1080/26904586.2022.2086659 — OJP: https://www.ojp.gov/library/publications/harman-and-lorandos-false-critique-meier-et-als-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4540319
 
-**Summary of rebuttal points (paraphrased — primary text was paywalled at compilation; **[secondary verification only]** for verbatim quotes).** [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. argue that (1) most of the "methodological information" Harman & Lorandos claimed was withheld was in fact publicly available before their article appeared; (2) Harman & Lorandos' attempted re-analyses contained coding errors; (3) the statistically significant findings that survive correct re-analysis remain consistent with Meier et al.'s original conclusions; and (4) Harman & Lorandos' five claimed findings of pro-father gender bias did not hold after correction. The UN Special Rapporteur's 2023 report cites both papers and adopts Meier's findings as evidentially load-bearing (see §6.2 below; A/HRC/53/36 footnote 169).
+**Summary of rebuttal points (paraphrased — primary text was paywalled at compilation; **[secondary verification only]** for verbatim quotes).** [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. argue that (1) most of the "methodological information" Harman & Lorandos claimed was withheld was in fact publicly available before their article appeared; (2) Harman & Lorandos' attempted re-analyses contained coding errors; (3) the statistically significant findings that survive correct re-analysis remain consistent with [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s original conclusions; and (4) Harman & Lorandos' five claimed findings of pro-father gender bias did not hold after correction. The UN Special Rapporteur's 2023 report cites both papers and adopts Meier's findings as evidentially load-bearing (see §6.2 below; A/HRC/53/36 footnote 169).
 
 ---
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 
