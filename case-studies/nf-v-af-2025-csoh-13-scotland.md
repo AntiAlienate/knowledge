@@ -96,7 +96,7 @@ Residence order in favour of the pursuer refused. No contact order made (includi
 1. **NF v AF [2025] CSOH 13 — Opinion of Lord Stuart, 5 February 2025 (PDF)** — <https://www.scotcourts.gov.uk/media/ba1nsc4o/2025csoh13-nf-against-af.pdf> (Scottish Courts and Tribunals Service) [en] — accessed 2026-05-30
 2. **Lord Stuart — judicial profile** — <https://judiciary.scot/home/judiciary/judicial-office-holders/senators-of-the-college-of-justice/lord-stuart> (Judiciary of Scotland) [en] — accessed 2026-05-30
 3. **Emotional Abuse and Parental Alienation in Child Welfare: Comprehensive Commentary on NF v AF [2025] CSOH 13** — <https://www.casemine.com/commentary/uk/emotional-abuse-and-parental-alienation-in-child-welfare:-comprehensive-commentary-on-nf-v-af-2025-csoh-13/view> (CaseMine) [en] — accessed 2026-05-30
-4. **Children (Scotland) Act 1995** — <https://www.legislation.gov.uk/ukpga/1995/36/contents> (legislation.gov.uk) [en] — accessed 2026-05-30
+4. **Children (Scotland) Act 1995** — <https://www.legislation.gov.uk/ukpga/1995/36/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 5. **NJDB v JEG [2012] UKSC 21 / 2012 SC (UKSC) 293 — UK Supreme Court judgment** — <https://www.supremecourt.uk/cases/uksc-2010-0224> (UK Supreme Court) [en] — accessed 2026-05-30
 6. **Brodies LLP — Sarah Lilley, Parental alienation in Scottish child law** — <https://brodies.com/insights/family-law/parental-alienation-in-scottish-child-law/> (Brodies LLP) [en] — accessed 2026-05-30
 7. **SKO Family Law — Caroline Millar, Parental alienation in Scotland** — <https://www.sko-family.co.uk/news/parental-alienation-in-scotland/> (SKO Family Law) [en] — accessed 2026-05-30
@@ -108,7 +108,7 @@ Residence order in favour of the pursuer refused. No contact order made (includi
 ## Editorial notes
 
 - Children's identities anonymised by Lord Stuart as 'Mary' and 'Anne'; preserved.
-- Dr MacKinlay's full given name and HCPC / BPS registration numbers are not set out in the published opinion; her qualifications are confirmed only as 'Chartered Clinical Psychologist' per Lord Stuart's para [31].
+- Dr MacKinlay's full given name and [HCPC](https://www.hcpc-uk.org/) / [BPS](https://www.bps.org.uk/) registration numbers are not set out in the published opinion; her qualifications are confirmed only as 'Chartered Clinical Psychologist' per Lord Stuart's para [31].
 - Counsel first names: 'Bain' (lay rep for pursuer), 'Bowan KC' (senior for defender), 'Cartwright' (junior for defender), 'Allison' (counsel for curator ad litem). Full given names are not set out in the published opinion front sheet.
 - A 'Mr Templeton' appears as a defender's witness on the digital-forensic provenance of the illicit materials (para [44]); his full name, credentials and instructing party are not publicly confirmed beyond the judgment text.
 - Shared Parenting Scotland's post-judgment institutional response specifically on NF v AF is not publicly confirmed as a discrete piece at time of writing.

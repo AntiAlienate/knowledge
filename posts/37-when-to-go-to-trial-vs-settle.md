@@ -11,7 +11,7 @@
 
 ### 1. Is the alienating behavior pattern documented to the court's standard?
 
-If your evidence pack (per [posts/20-document-pa-complete-evidence-guide.md](./20-document-pa-complete-evidence-guide.md)) demonstrates Baker's 8 indicators over 12+ months, trial is viable. If the pattern is real but the documentation is fragmentary, settlement (with structural conditions like therapy + reporting requirements) may serve the child better.
+If your evidence pack (per [posts/20-document-pa-complete-evidence-guide.md](./20-document-pa-complete-evidence-guide.md)) demonstrates [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators over 12+ months, trial is viable. If the pattern is real but the documentation is fragmentary, settlement (with structural conditions like therapy + reporting requirements) may serve the child better.
 
 ### 2. Has the alienator shown any capacity for course-correction?
 

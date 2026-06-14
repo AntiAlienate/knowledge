@@ -1,6 +1,6 @@
 # If You're Dating an Alienator — The Survival Letter Nobody Wrote You
 
-> **TL;DR.** Adult-children-of-PA research (Baker 2007, 2010) is consistent: the alienating parent's new partner becomes the *second voice* — the corroborating witness. Often without realizing it. You don't have to leave them. You don't have to confront them. You just have to stop being the second voice in a campaign you never signed up for. Doubt is the first protective move.
+> **TL;DR.** Adult-children-of-PA research ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007, 2010) is consistent: the alienating parent's new partner becomes the *second voice* — the corroborating witness. Often without realizing it. You don't have to leave them. You don't have to confront them. You just have to stop being the second voice in a campaign you never signed up for. Doubt is the first protective move.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/significant-others-of-alienators](https://www.antialienate.com/blog/significant-others-of-alienators).**

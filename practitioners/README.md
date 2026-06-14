@@ -27,7 +27,7 @@ Targeted parents, accused parents, and family lawyers all need to find practitio
 
 ### Therapists
 
-- **United States** — coming next (Family Bridges-affiliated, AB-PA practitioners, trauma-informed alternatives)
+- **United States** — coming next ([Family Bridges](https://warshak.com/family-bridges/)-affiliated, [AB-PA](https://drcachildress.org/) practitioners, trauma-informed alternatives)
 - **United Kingdom** — coming next (Family Separation Clinic, NHS-affiliated)
 - Other regions — coming as research completes
 
@@ -98,7 +98,7 @@ PRs that add unverified entries, guess stance, or use second-hand stance attribu
 
 ## Related sections
 
-- [Influencers](../influencers/) — field-defining researchers and clinicians (Bernet, Warshak, Baker, Silberg, etc.) — *different from this directory which is practising lawyers and therapists*
+- [Influencers](../influencers/) — field-defining researchers and clinicians (Bernet, [Warshak](https://warshak.com/family-bridges/), [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Silberg, etc.) — *different from this directory which is practising lawyers and therapists*
 - [Case Studies](../case-studies/) — 26 deeply-investigated cases, many of which name the lawyers and experts who appeared
 - [Press → Influencer Outreach](../press/influencer-outreach.md) — separate outreach list focused on field-level academic/clinical figures
 

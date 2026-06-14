@@ -16,7 +16,7 @@ Togo is a West African civil-law unitary republic whose family-law framework ope
 - **Persons and Family Code 2012 (Law 2012-014) arts. 269-302** — Persons and Family Code — Parental authority and custody (2012) — <https://www.coursupreme.tg/>
   - Federal Persons and Family Code drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification. Arts. 269-302 govern parental authority and child custody.
 - **Children's Code 2007 (Law 2007-017)** — Children's Code (2007) — <https://www.coursupreme.tg/>
-  - Federal Children's Code aligned with UNCRC obligations.
+  - Federal Children's Code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

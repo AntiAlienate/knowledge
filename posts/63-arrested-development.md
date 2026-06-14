@@ -1,6 +1,6 @@
 # Arrested Development — How Parental Alienation Freezes a Child's Growth
 
-> **TL;DR.** Alienated children grow chronologically; developmentally they often freeze at the age the alienation began. Five domains arrest: emotional vocabulary, co-regulation capacity, theory of mind, autobiographical memory integration, identity exploration. The neurobiology defers — doesn't complete — developmental tasks under chronic relational threat. Baker's longitudinal data shows rapid developmental gains within months of safe re-contact. The clock does start again.
+> **TL;DR.** Alienated children grow chronologically; developmentally they often freeze at the age the alienation began. Five domains arrest: emotional vocabulary, co-regulation capacity, theory of mind, autobiographical memory integration, identity exploration. The neurobiology defers — doesn't complete — developmental tasks under chronic relational threat. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) longitudinal data shows rapid developmental gains within months of safe re-contact. The clock does start again.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/arrested-development-parental-alienation](https://www.antialienate.com/blog/arrested-development-parental-alienation).**

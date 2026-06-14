@@ -1,6 +1,6 @@
 # Spotting Parental Alienation — The Early Warning Signs Most Parents Miss Until It's Late
 
-> **TL;DR.** Most parents recognize parental alienation only after 6–18 months of campaign. The early signs look like "normal" co-parenting friction. Four-tier early-warning system: 17 perpetrator strategies (Baker 2007) · 8 child behavioral indicators · 5 communication-pattern shifts · 3 environmental signals. Catching alienation at warning-sign stage is roughly 10× easier to address than at full-campaign stage.
+> **TL;DR.** Most parents recognize parental alienation only after 6–18 months of campaign. The early signs look like "normal" co-parenting friction. Four-tier early-warning system: 17 perpetrator strategies ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) · 8 child behavioral indicators · 5 communication-pattern shifts · 3 environmental signals. Catching alienation at warning-sign stage is roughly 10× easier to address than at full-campaign stage.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/spotting-parental-alienation-early-warning-signs](https://www.antialienate.com/blog/spotting-parental-alienation-early-warning-signs).**
@@ -59,15 +59,15 @@ Single incidents are noise. **Patterns across all four tiers are signal.**
 
 ## Why catching it early matters
 
-Reunification research (Reay, 2015; Warshak, 2010; Fidler & Bala, 2010) is consistent: alienation caught at warning-sign stage is roughly 10× easier to address than at full-campaign stage. The window narrows. Documentation widens it.
+Reunification research (Reay, 2015; [Warshak](https://warshak.com/family-bridges/), 2010; Fidler & Bala, 2010) is consistent: alienation caught at warning-sign stage is roughly 10× easier to address than at full-campaign stage. The window narrows. Documentation widens it.
 
 ## The clinical and legal anchors
 
 This is not paranoia. It is clinically codified harm:
 
-- **Harman, Kruk & Hines (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence
-- **DSM-5 V995.51** — Child Psychological Abuse
-- **WHO ICD-11 QE52** — Caregiver-Child Relationship Problem
+- **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence
+- **[DSM-5](https://www.appi.org/products/dsm) V995.51** — Child Psychological Abuse
+- **WHO [ICD-11](https://icd.who.int/) QE52** — Caregiver-Child Relationship Problem
 - **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568 — UK Court of Appeal recognition
 
 ## Source-blog hyperlinks
@@ -89,7 +89,7 @@ This is not paranoia. It is clinically codified harm:
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
 - Reay, K. M. (2015). *Family Reflections: A Promising Therapeutic Program.*
-- Warshak, R. A. (2010). *Family Bridges: Using insights from social science to reconnect parents and alienated children.*
+- Warshak, R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children.*
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
 - DSM-5 V995.51 — Child Psychological Abuse
 - WHO ICD-11 QE52 — Caregiver-Child Relationship Problem

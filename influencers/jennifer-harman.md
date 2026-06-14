@@ -12,16 +12,16 @@ Social psychologist whose work has established population-level prevalence estim
 
 ## Key contributions
 
-- ***Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*** (Harman, Kruk, Hines — Psychological Bulletin, 2018) — the field's most-cited sociological framing piece.
-- **Prevalence research** — Harman et al. estimate ~3.8% of US adults report being targets of PA, representing approximately 22 million people.
+- ***Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*** ([Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/), Hines — Psychological Bulletin, 2018) — the field's most-cited sociological framing piece.
+- **Prevalence research** — [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)estimate ~3.8% of US adults report being targets of PA, representing approximately 22 million people.
 - TED Talk: ["Parental Alienation: The Silent Epidemic"](https://www.youtube.com/watch?v=mldKZJSjpDw) — accessible public-facing introduction.
 - Multiple peer-reviewed studies operationalising PA conduct at population scale.
 
 ## Where to find her work
 
 - CSU faculty page: https://psychology.colostate.edu/faculty/jennifer-harman/
-- Google Scholar: https://scholar.google.com/citations?user=harman+jennifer+parental+alienation
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Harman+Jennifer+parental+alienation
+- [Google Scholar](https://scholar.google.com/): https://scholar.google.com/citations?user=harman+jennifer+parental+alienation
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/?term=Harman+Jennifer+parental+alienation
 
 ## Why she matters here
 

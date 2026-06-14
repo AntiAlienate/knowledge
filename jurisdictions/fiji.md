@@ -33,7 +33,7 @@ Fijian family-court decisions are anonymised per Supreme Court practice using in
 
 - **1970** — Fiji achieved independence from the United Kingdom.
 - **1987** — Fiji became a republic following 1987 coups.
-- **2003** — Federal Family Law Act enacted (effective 2005) replacing prior matrimonial-causes framework. Draws on Australian Family Law Act 1975 model.
+- **2003** — Federal Family Law Act enacted (effective 2005) replacing prior matrimonial-causes framework. Draws on Australian [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) model.
 
 ## Structural findings
 

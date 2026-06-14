@@ -15,7 +15,7 @@ Did the evaluator:
 - Interview both parents?
 - Observe parent-child interaction in **both** homes?
 - Review collateral records (school, medical, prior court orders)?
-- Apply a structured PA-screening framework (Bernet's 5 criteria, Baker's 8 indicators)?
+- Apply a structured PA-screening framework (Bernet's 5 criteria, [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators)?
 - Document the alienating-behaviors assessment, not just the child's stated wishes?
 
 Gaps in any of these are admissible-weight challenges.

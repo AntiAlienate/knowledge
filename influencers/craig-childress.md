@@ -6,7 +6,7 @@ last_verified: "2026-05-25"
 license: "CC BY 4.0"
 ---
 
-# Dr. Craig Childress, Psy.D. — Attachment-Based PA Framework
+# Dr. Craig [Childress](https://drcachildress.org/), Psy.D. — Attachment-Based PA Framework
 
 Clinical psychologist who developed an alternative-framing approach to PA grounded in attachment theory, personality-disorder dynamics, and DSM diagnostic codes. His framing is contested within the field but influential among practitioners working with severe cases.
 

@@ -16,7 +16,7 @@ Tajikistan is a Central Asian civil-law unitary republic whose family-law framew
 - **Family Code 1998 arts. 61-87** — Family Code — Parental rights and custody (1998) — <https://www.mmk.tj/>
   - Federal Family Code enacted post-Soviet. Arts. 61-87 govern parental rights and child custody.
 - **Law on the Protection of the Rights of the Child 2015** — Law on the Protection of the Rights of the Child (2015) — <https://www.mmk.tj/>
-  - Federal children's rights statute aligned with UNCRC obligations.
+  - Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

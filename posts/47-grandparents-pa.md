@@ -36,7 +36,7 @@ There is no neutral middle.
 
 - **Belgium**: **Civil Code Art. 375bis** explicitly grants grandparents (and other persons with an established affective bond) a *droit aux relations personnelles* — a legal right to personal contact
 - **United States**: **Troxel v. Granville** (US Supreme Court 2000, 530 U.S. 57) confirmed parental rights are constitutionally protected, but every state has a grandparent-visitation statute permitting petition where a substantial pre-existing bond exists
-- **Europe-wide**: **ECHR Article 8** "family life" protection extends beyond the nuclear unit. *Bondavalli v. Italy* (2015) line: once a bond is established, the state has a positive obligation to protect it
+- **Europe-wide**: **[ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1)** "family life" protection extends beyond the nuclear unit. *Bondavalli v. Italy* (2015) line: once a bond is established, the state has a positive obligation to protect it
 
 ## Source-blog hyperlinks
 
@@ -56,7 +56,7 @@ There is no neutral middle.
 - *Troxel v. Granville*, 530 U.S. 57 (2000)
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12
 - Drew, L. M., & Smith, P. K. (2002). Implications for grandparents when they lose contact with their grandchildren. *Educational Gerontology, 28*(8), 627–640.
-- Baker, A. J. L. (2010). The relevance of parental alienation in elderly grandparents' contact loss. *Journal of Intergenerational Relationships.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2010). The relevance of parental alienation in elderly grandparents' contact loss. *Journal of Intergenerational Relationships.*
 
 ## Disclaimer
 

@@ -1,6 +1,6 @@
 # Protecting Your Mental Health as a Targeted Parent — The Survival Manual Nobody Hands You
 
-> **TL;DR.** Targeted parents have measurably elevated rates of complex PTSD, ambiguous grief, and clinical depression. The clinical patterns have names: Ambiguous Loss (Boss, 1999), Complex PTSD (Herman, 1992 / WHO ICD-11 6B41), Gaslighting Injury. Most therapists were never taught them. 5 self-care pillars + therapist-screening questions + emergency-help criteria. Self-care is not selfish. It is the long-game strategy.
+> **TL;DR.** Targeted parents have measurably elevated rates of complex PTSD, ambiguous grief, and clinical depression. The clinical patterns have names: Ambiguous Loss (Boss, 1999), Complex PTSD (Herman, 1992 / WHO [ICD-11](https://icd.who.int/) 6B41), Gaslighting Injury. Most therapists were never taught them. 5 self-care pillars + therapist-screening questions + emergency-help criteria. Self-care is not selfish. It is the long-game strategy.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent](https://www.antialienate.com/blog/protecting-your-mental-health-as-a-targeted-parent).**
@@ -25,8 +25,8 @@
 
 Most graduate programs include **zero hours** of training on PA dynamics. So ask explicitly:
 
-- "Have you read Baker (2007), Bernet (2010), Warshak (2010)?"
-- "Are you familiar with Harman, Kruk & Hines (2018)?"
+- "Have you read [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007), Bernet (2010), [Warshak](https://warshak.com/family-bridges/) (2010)?"
+- "Are you familiar with [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)?"
 - "How do you frame the alienating parent's behavior?"
 
 If the answers are vague, find someone else.
@@ -78,7 +78,7 @@ This is anchored in the same framework that codifies PA itself as a recognized h
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Baker, A. J. L., & Verrocchio, M. C. (2015). Parental bonding and parental alienation as correlates of psychological maltreatment in adults. *Journal of Child and Family Studies, 24*(7), 2179–2192.
 - WHO ICD-11 6B41 — Complex Post-Traumatic Stress Disorder.
-- DSM-5 V995.51 — Child Psychological Abuse.
+- [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse.
 
 ## Disclaimer
 

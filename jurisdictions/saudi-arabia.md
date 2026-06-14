@@ -38,7 +38,7 @@ Saudi Arabian family-law decisions are typically not published; when published, 
 
 - Saudi Arabia operates a structurally distinctive religious-law framework within the corpus — Hanbali jurisprudential basis with 2022 first-codification reform. Distinctive among corpus jurisdictions as a primary-Hanbali jurisdiction.
 - Non-Hague Convention status (not party to the 1980 Child Abduction Convention) is structurally significant — places Saudi Arabia in the corpus's non-Hague cluster alongside Iran, Pakistan (partial), and several Gulf jurisdictions. Relevant to cross-border-displacement custody matters.
-- Psychology profession regulation through SCFHS statutory licensing operates the federal-statutory psychology regulator pattern — sits alongside HCPC UK + HPCSA SA within the corpus's federal-statutory regulator group, distinctively under religious-law sovereignty.
+- Psychology profession regulation through SCFHS statutory licensing operates the federal-statutory psychology regulator pattern — sits alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA within the corpus's federal-statutory regulator group, distinctively under religious-law sovereignty.
 
 ## See also
 

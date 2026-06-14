@@ -24,7 +24,7 @@
 
 ### 1.1 Verhaar, Matthewson & Bentley (2022) — qualitative adult outcomes
 
-**Citation.** Verhaar, S., Matthewson, M. L., & Bentley, C. (2022). The impact of parental alienating behaviours on the mental health of adults alienated in childhood. *Children*, 9(4), 475. https://doi.org/10.3390/children9040475 — PubMed 35455519 — open-access full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC9026878/
+**Citation.** Verhaar, S., Matthewson, M. L., & Bentley, C. (2022). The impact of parental alienating behaviours on the mental health of adults alienated in childhood. *Children*, 9(4), 475. https://doi.org/10.3390/children9040475 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 35455519 — open-access full text: https://pmc.ncbi.nlm.nih.gov/articles/PMC9026878/
 
 **Sample / method.** International convenience sample of n = 20 adults (age 26–59, M = 41.05; 60% female) who self-identified as alienated in childhood. Semi-structured interviews; reflexive thematic analysis. Alienating parent was the mother in 75% of cases, the father in 25%. Mean age at parental separation = 6.9 years.
 
@@ -51,7 +51,7 @@
 
 **Citation.** Verrocchio, M. C., Marchetti, D., & Fulcheri, M. (2015). Perceived parental functioning, self-esteem, and psychological distress in adults whose parents are separated/divorced. *Frontiers in Psychology*, 6, 1760. https://doi.org/10.3389/fpsyg.2015.01760
 
-**Sample / method.** 470 Italian adults (M = 25.4 years, SD = 6.13; 55.5% female) with separated/divorced parents; mean age at separation 12.7 years. Self-report battery: Baker Strategy Questionnaire (α = 0.94), Parental Bonding Instrument, Rosenberg Self-Esteem Scale (α = 0.82), Symptom Checklist-90-Revised Global Severity Index (α = 0.98).
+**Sample / method.** 470 Italian adults (M = 25.4 years, SD = 6.13; 55.5% female) with separated/divorced parents; mean age at separation 12.7 years. Self-report battery: [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Strategy Questionnaire (α = 0.94), Parental Bonding Instrument, Rosenberg Self-Esteem Scale (α = 0.82), Symptom Checklist-90-Revised Global Severity Index (α = 0.98).
 
 **Key statistical findings.**
 - Correlation of exposure to alienating behaviours with current psychological distress (GSI): **r = 0.239, p < 0.01**
@@ -241,7 +241,7 @@ Adult retrospective reports of educational/career attainment deficits attributed
 
 **Citation.** Miralles, P., Godoy, C., & Hidalgo, M. D. (2023). Long-term emotional consequences of parental alienation exposure in children of divorced parents: A systematic review. *Current Psychology*, 42, 12055–12069. https://doi.org/10.1007/s12144-021-02537-2 — URL: https://link.springer.com/article/10.1007/s12144-021-02537-2 (published online 2021; print 2023)
 
-**Method (from publicly visible metadata).** Systematic literature search across PsycInfo, MEDLINE, SCOPUS, Web of Science, PubMed, Cochrane Library, DART-Europe, ProQuest, Wiley, TESEO and Dialnet (initial search Feb 2019, updated Dec 2019).
+**Method (from publicly visible metadata).** Systematic literature search across PsycInfo, MEDLINE, SCOPUS, Web of Science, PubMed, [Cochrane Library](https://www.cochranelibrary.com/), DART-Europe, ProQuest, Wiley, TESEO and Dialnet (initial search Feb 2019, updated Dec 2019).
 
 **Headline (from publicly visible abstract excerpt).** "Although the emotional consequences of childhood exposure to parental alienation behaviors in children and adolescents of divorced parents are known, there is scarce evidence on their long-term consequences in adulthood."
 
@@ -281,7 +281,7 @@ See §1.6. Self-reported reduced or delayed educational/career attainment attrib
 
 ## 7. Comparison to other forms of child maltreatment
 
-### 7.1 Harman, Kruk & Hines (2018) — explicit comparison frame
+### 7.1 [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) — explicit comparison frame
 
 **Citation.** Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental alienating behaviors: An unacknowledged form of family violence. *Psychological Bulletin*, 144(12), 1275–1299. https://doi.org/10.1037/bul0000175 — PubMed 30475019 — URL: https://pubmed.ncbi.nlm.nih.gov/30475019/
 
@@ -297,7 +297,7 @@ See §1.6. Self-reported reduced or delayed educational/career attainment attrib
 
 ## 8. Honest counter-evidence and methodological critique
 
-### 8.1 Saini, Johnston, Fidler & Bala (2016) — *Empirical Studies of Alienation*
+### 8.1 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) — *Empirical Studies of Alienation*
 
 **Citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting plan evaluations: Applied research for the family court* (2nd ed., pp. 374–430). New York: Oxford University Press. Open PDF (Nevada Courts session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
@@ -319,11 +319,11 @@ Mercer, J. (2021). Critiquing assumptions about parental alienation: Part 2. Cau
 
 **Citation.** Doughty, J., Maxwell, N., & Slater, T. (2020). Professional responses to "parental alienation": Research-informed practice. *Journal of Social Welfare and Family Law*, 42(1), 68–79. https://doi.org/10.1080/09649069.2020.1701938 — URL: https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701938
 
-Related original commissioned review: Doughty, J., Maxwell, N., & Slater, T. (2018). *Review of research and case law on parental alienation*. Cardiff: CASCADE / Cafcass Cymru. URL: https://orca.cardiff.ac.uk/id/eprint/112511/
+Related original commissioned review: Doughty, J., Maxwell, N., & Slater, T. (2018). *Review of research and case law on parental alienation*. Cardiff: CASCADE / [Cafcass Cymru](https://www.cafcass.gov.uk/). URL: https://orca.cardiff.ac.uk/id/eprint/112511/
 
 **Headline finding (from secondary summary).** "Robust scientific and empirical studies on how parental alienation is or should be identified, understood, assessed and treated are lacking, the majority being US studies with methodological limitations." Issues identified: lack of representative sampling, small samples, over-reliance on retrospective accounts, scales/tests lacking credible evidentiary basis, **absence of longitudinal research**, lack of research controls.
 
-### 8.4 Silberg & Dallam (2019) — abuse-misidentification critique
+### 8.4 [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — abuse-misidentification critique
 
 **Citation.** Silberg, J., & Dallam, S. (2019). Abusers gaining custody in family courts: A case series of overturned decisions. *Journal of Child Custody*, 16(2), 140–169. https://doi.org/10.1080/15379418.2019.1613204 — open PDF: https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf
 
@@ -331,7 +331,7 @@ Related original commissioned review: Doughty, J., Maxwell, N., & Slater, T. (20
 
 **Headline finding (secondary summary).** Two-thirds of the mothers in these cases were pathologised by the court for advocating for their children's safety; judges who ordered children into custody with later-validated abusive parents relied substantially on custody evaluators or guardians ad litem who accused mothers of attempting to alienate or coach the child.
 
-**Why load-bearing.** Directly empirically grounds the concern that **PA-claim findings can misidentify justified estrangement from an abusive parent as "alienation,"** with severe child outcomes. Note: a case series of 27 self-selected overturned cases is itself not population-prevalence evidence and has been critiqued (e.g., by PASG-affiliated authors); it must be read as a clinical-legal warning, not an epidemiological refutation of PA.
+**Why load-bearing.** Directly empirically grounds the concern that **PA-claim findings can misidentify justified estrangement from an abusive parent as "alienation,"** with severe child outcomes. Note: a case series of 27 self-selected overturned cases is itself not population-prevalence evidence and has been critiqued (e.g., by [PASG](https://pasg.info/)-affiliated authors); it must be read as a clinical-legal warning, not an epidemiological refutation of PA.
 
 ### 8.5 Rebuttals to the critics — for balance
 

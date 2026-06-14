@@ -44,7 +44,7 @@ Danish family-law decisions are anonymised per Højesteret and Landsret practice
 
 - Denmark sits structurally within the Nordic civil-law cluster alongside Sweden + Norway + Finland + Iceland — Forældreansvarsloven 2007 joint-custody default + Familieretshuset 2019 administrative-first pathway + Psykologloven 1993 autorisasjon.
 - Familieretshuset reform creates a structurally distinctive single-entry administrative pathway that processes the majority of family disputes administratively, with judicial review only for contested matters. Distinctive among corpus jurisdictions for the prominent administrative-first family-law architecture.
-- Psykolognævnet statutory-autorisasjon regime places Denmark among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL + OPP PT + Helsedirektoratet NO.
+- Psykolognævnet statutory-autorisasjon regime places Denmark among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL + OPP PT + Helsedirektoratet NO.
 
 ## See also
 

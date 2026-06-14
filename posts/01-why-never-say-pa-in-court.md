@@ -1,6 +1,6 @@
 # Why You Should Never Say "Parental Alienation" in Court
 
-> **TL;DR.** The phrase "parental alienation" is costing parents custody. Opposing counsel hears it and runs a script: call it discredited theory, watch the judge go neutral to appear impartial, your evidence gets buried in a semantic fight. The fix is surgical: stop arguing the *theory*, start documenting the *behaviors*. Cite Harman, Kruk & Hines (2018), not "PAS." Same facts. Different frame. Completely different outcome.
+> **TL;DR.** The phrase "parental alienation" is costing parents custody. Opposing counsel hears it and runs a script: call it discredited theory, watch the judge go neutral to appear impartial, your evidence gets buried in a semantic fight. The fix is surgical: stop arguing the *theory*, start documenting the *behaviors*. Cite [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018), not "PAS." Same facts. Different frame. Completely different outcome.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court).**
@@ -9,7 +9,7 @@
 
 ## The Daubert problem
 
-"Parental Alienation Syndrome" (PAS) was never accepted into DSM-5. After *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993), opposing counsel has a standing playbook: attack "PAS" as discredited theory, the judge goes neutral to preserve impartiality, and your evidence — however damning — gets buried under a semantic fight. **You win the principle. You lose the kid.**
+"Parental Alienation Syndrome" (PAS) was never accepted into [DSM-5](https://www.appi.org/products/dsm). After *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993), opposing counsel has a standing playbook: attack "PAS" as discredited theory, the judge goes neutral to preserve impartiality, and your evidence — however damning — gets buried under a semantic fight. **You win the principle. You lose the kid.**
 
 ## The language to swap (in every filing)
 
@@ -54,7 +54,7 @@ This is the document opposing counsel cannot easily dismiss.
 
 ## Related entries
 
-- [posts/04-the-17-strategies.md](./04-the-17-strategies.md) — Baker's strategy vocabulary (behavior-level)
+- [posts/04-the-17-strategies.md](./04-the-17-strategies.md) — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) strategy vocabulary (behavior-level)
 - [posts/51-documenting-pa-comprehensive.md](./51-documenting-pa-comprehensive.md) — 5-pillar evidence framework
 - [posts/52-documenting-alienation-court-tactical.md](./52-documenting-alienation-court-tactical.md) — daily tactical checklist
 - [research/harman-kruk-hines-2018.md](../research/harman-kruk-hines-2018.md)

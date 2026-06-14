@@ -47,15 +47,15 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 
 ## Canada
 
-### CanLII (Canadian Legal Information Institute)
+### [CanLII](https://www.canlii.org/) (Canadian Legal Information Institute)
 - **URL:** https://www.canlii.org
 - **Coverage:** Federal + provincial Canadian case law and statutes. Bilingual EN/FR.
 - **API:** Free API on request.
-- **Best for:** Searching Canadian PA appellate authority, finding federal/provincial Divorce Act jurisprudence.
+- **Best for:** Searching Canadian PA appellate authority, finding federal/provincial [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) jurisprudence.
 
 ## United Kingdom & Ireland
 
-### BAILII (British and Irish Legal Information Institute)
+### [BAILII](https://www.bailii.org/) (British and Irish Legal Information Institute)
 - **URL:** https://www.bailii.org
 - **Coverage:** E&W, Scotland, NI, Ireland — case law and selected legislation.
 - **Best for:** Looking up Re C [2023], Re P [2024], and other recent E&W Family Division and Court of Appeal rulings. **Free, no registration.**
@@ -67,17 +67,17 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 
 ## European Court of Human Rights
 
-### HUDOC (ECHR official database)
+### [HUDOC](https://hudoc.echr.coe.int/) (ECHR official database)
 - **URL:** https://hudoc.echr.coe.int
 - **Coverage:** Every ECHR judgment, decision, and admissibility ruling. EN/FR.
 - **Best for:** Pulling the full text of Strand Lobben v Norway, Improta v Italy, Petrov v Bulgaria, and any other Article 8 family-life rulings.
 
 ## Australia
 
-### AustLII (Australasian Legal Information Institute)
+### [AustLII](https://www.austlii.edu.au/) (Australasian Legal Information Institute)
 - **URL:** https://www.austlii.edu.au
 - **Coverage:** AU federal + state case law and statutes; also NZ, PNG, Pacific.
-- **Best for:** Family Law Act 1975, FCFCOA decisions, state-by-state family-law variations.
+- **Best for:** [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text), FCFCOA decisions, state-by-state family-law variations.
 
 ## India
 
@@ -102,7 +102,7 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 
 ### Government statute repositories
 
-Each country / jurisdiction's official statute portal is the canonical source. See [/jurisdictions/](../jurisdictions/) for the per-jurisdiction list (we link directly to official portals where possible: legislature.gov, e-legislation.de, legislation.gov.uk, etc.).
+Each country / jurisdiction's official statute portal is the canonical source. See [/jurisdictions/](../jurisdictions/) for the per-jurisdiction list (we link directly to official portals where possible: legislature.gov, e-legislation.de, [legislation.gov.uk](https://www.legislation.gov.uk/), etc.).
 
 ### Academic case databases
 
@@ -116,7 +116,7 @@ For any PA / custody / family-court issue:
 
 1. **Start with your jurisdiction's primary statute** — find it in [/jurisdictions/](../jurisdictions/).
 2. **Look for binding appellate authority** in the relevant national database above (BAILII for E&W, AustLII for AU, etc.).
-3. **Check for ECHR Article 8 anchors** in HUDOC if you're in a Council-of-Europe state.
+3. **Check for [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) anchors** in HUDOC if you're in a Council-of-Europe state.
 4. **Pair with the Bernet framework** — see [/research/](../research/) and [/open-source/infographics/bernet-5-factor.png](../open-source/infographics/bernet-5-factor.png).
 
 ## Verified upstream publishers

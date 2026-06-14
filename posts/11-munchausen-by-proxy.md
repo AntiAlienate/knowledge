@@ -1,6 +1,6 @@
 # Munchausen by Proxy / Factitious Disorder Imposed on Another — When Illness Becomes the Weapon
 
-> **TL;DR.** Factitious Disorder Imposed on Another (FDIA, formerly "Munchausen by Proxy" / MBP) is codified in DSM-5 V300.19 and WHO ICD-11 6D52 (Caregiver-Fabricated Illness in a Child). In PA cases, illness fabrication is one of Baker's 17 strategies — used to cancel exchanges, paint the targeted parent as causing distress, and recruit medical professionals into the alienating narrative. The school nurse's log is the most accurate documentary witness.
+> **TL;DR.** Factitious Disorder Imposed on Another (FDIA, formerly "Munchausen by Proxy" / MBP) is codified in [DSM-5](https://www.appi.org/products/dsm) V300.19 and WHO [ICD-11](https://icd.who.int/) 6D52 (Caregiver-Fabricated Illness in a Child). In PA cases, illness fabrication is one of [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 17 strategies — used to cancel exchanges, paint the targeted parent as causing distress, and recruit medical professionals into the alienating narrative. The school nurse's log is the most accurate documentary witness.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/munchausen-by-proxy](https://www.antialienate.com/blog/munchausen-by-proxy).**

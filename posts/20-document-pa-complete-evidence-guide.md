@@ -1,6 +1,6 @@
 # How to Document Parental Alienation — The Complete Evidence Guide
 
-> **TL;DR.** Comprehensive evidence guide synthesizing the 5-pillar framework + 6 systematic methods + 3-stage organization for court-ready PA documentation. Pairs with #51 (Comprehensive Framework) and #52 (Tactical Daily Checklist). Builds the evidence chain from first incident to courtroom exhibit. Behavior frame, not syndrome frame. Cite Harman, Kruk & Hines (2018).
+> **TL;DR.** Comprehensive evidence guide synthesizing the 5-pillar framework + 6 systematic methods + 3-stage organization for court-ready PA documentation. Pairs with #51 (Comprehensive Framework) and #52 (Tactical Daily Checklist). Builds the evidence chain from first incident to courtroom exhibit. Behavior frame, not syndrome frame. Cite [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018).
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/how-to-document-parental-alienation-complete-evidence-guide](https://www.antialienate.com/blog/how-to-document-parental-alienation-complete-evidence-guide).**
@@ -11,7 +11,7 @@
 
 ### Stage 1 — Capture
 
-- **Daily journal** with 7 fields: date+time, factual event, location, people, Baker strategy category (1-17), observable impact on child, evidence captured
+- **Daily journal** with 7 fields: date+time, factual event, location, people, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) strategy category (1-17), observable impact on child, evidence captured
 - **Digital communications** screenshotted with metadata: sender · date · time · full thread context
 - **Audio/video recordings** — one-party-consent or two-party-consent? Check your jurisdiction. Consult an attorney before recording
 - **Child's spontaneous statements** — captured exactly, never coached, never prompted
@@ -60,7 +60,7 @@ Do NOT say "Parental Alienation Syndrome" in court filings — opposing counsel 
 
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.*
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993).
 - *Re C (Parental Alienation: Instruction of Expert)* [2023] EWHC 345 (Fam).
 

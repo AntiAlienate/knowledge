@@ -8,7 +8,7 @@ last_reviewed: 2026-05-18
 
 ## TL;DR
 
-Amy J.L. Baker's **Eight Behavioural Manifestations** is the most widely-used clinical and forensic framework for identifying parental alienation in children. Derived from Baker's longitudinal qualitative research with adult children of PA (Baker 2007), the eight markers identify the constellation of child behaviours consistent with induced rejection of a parent (as opposed to justified estrangement). Used by trained evaluators in custody assessments, expert testimony, and court-ordered reunification programs worldwide.
+Amy J.L. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) **Eight Behavioural Manifestations** is the most widely-used clinical and forensic framework for identifying parental alienation in children. Derived from Baker's longitudinal qualitative research with adult children of PA (Baker 2007), the eight markers identify the constellation of child behaviours consistent with induced rejection of a parent (as opposed to justified estrangement). Used by trained evaluators in custody assessments, expert testimony, and court-ordered reunification programs worldwide.
 
 ## The Eight Behavioural Manifestations
 
@@ -91,14 +91,14 @@ Amy J.L. Baker's **Eight Behavioural Manifestations** is the most widely-used cl
 
 - **Bernet Five-Factor Model**: complementary clinical framework
 - **Drozd-Olesen Decision Tree**: differential alienation/estrangement/abuse
-- **Saini empirical assessment**: structured interview protocol
+- **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) empirical assessment**: structured interview protocol
 - **Verrocchio adult-outcome questionnaire**: retrospective adult assessment
 
 ## Training and certification
 
 - Multiple peer-reviewed publications by Baker on application
 - Family Court Review professional education
-- AFCC (Association of Family and Conciliation Courts) training
+- [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) training
 - International continuing-education programs
 
 ## Citing posts

@@ -45,7 +45,7 @@ Sample pleadings (diary template, interrogatories), pamphlets on attorney manage
 Curated set of foundational research papers, including:
 
 - Brain-development effects of father absence (NCBI/PMC5330336)
-- Warshak 2014 consensus on 50/50 custody
+- [Warshak](https://warshak.com/family-bridges/) 2014 consensus on 50/50 custody
 - *A Silent Epidemic: Parental Alienation* (Psychiatric Times)
 - Troxel v. Granville (SCOTUS 530 US 57)
 - Bias in family court (ABA paper)

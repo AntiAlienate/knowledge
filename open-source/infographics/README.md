@@ -18,7 +18,7 @@ The diagnostic spine: five factors that distinguish PA from estrangement.
 
 The eight observable child-behaviour markers Bernet uses to identify alienation.
 
-### Strand Lobben v Norway — ECHR Article 8 doctrine
+### Strand Lobben v Norway — [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) doctrine
 
 ![Strand Lobben v Norway — ECHR Article 8 doctrine](./strand-lobben.png)
 
@@ -30,7 +30,7 @@ The Grand Chamber case requiring states to actively support family-ties restorat
 
 Brazilian statute defining alienação parental + 7 conduct categories + remedies. Constitutionality reaffirmed STF ADI 2024.
 
-### Family Bridges / Warshak — Welcoming Our Children Home
+### [Family Bridges](https://warshak.com/family-bridges/) / [Warshak](https://warshak.com/family-bridges/) — Welcoming Our Children Home
 
 ![Family Bridges / Warshak — Welcoming Our Children Home](./family-bridges.png)
 
@@ -38,17 +38,17 @@ Four-day residential reunification intensive + 90-day aftercare. The leading evi
 
 ## Statistics
 
-### ICD-11 QE52.2 — Caregiver-child relationship problem
+### [ICD-11](https://icd.who.int/) QE52.2 — Caregiver-child relationship problem
 
 ![ICD-11 QE52.2 — Caregiver-child relationship problem](./icd11-qe52-2.png)
 
 WHO clinical code naming the dynamic. In force since 2022.
 
-### DSM-5-TR V61.29 — Child affected by parental relationship distress
+### [DSM-5-TR](https://www.appi.org/products/dsm) V61.29 — Child affected by parental relationship distress
 
 ![DSM-5-TR V61.29 — Child affected by parental relationship distress](./dsm5tr-v6129.png)
 
-Companion to ICD-11 QE52.2. The DSM-5-TR Z-code for children harmed by parental conflict.
+Companion to ICD-11 QE52.2. The [DSM-5](https://www.appi.org/products/dsm)-TR Z-code for children harmed by parental conflict.
 
 ### 85% of children with behavioural disorders come from fatherless homes
 
@@ -90,7 +90,7 @@ Every parent with parental responsibility can pull EVERYTHING the school/doctor/
 
 ## Tactics
 
-### Three things to prepare before Cafcass / GAL / court-psychologist interview
+### Three things to prepare before [Cafcass](https://www.cafcass.gov.uk/) / GAL / court-psychologist interview
 
 ![Three things to prepare before Cafcass / GAL / court-psychologist interview](./cafcass-prep.png)
 

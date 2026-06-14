@@ -1,4 +1,4 @@
-# The 17 Strategies of Parental Alienation — Baker's Canonical Taxonomy
+# The 17 Strategies of Parental Alienation — [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) Canonical Taxonomy
 
 > **TL;DR.** Amy Baker's foundational research (Baker 2007, *Adult Children of Parental Alienation Syndrome*; Baker & Fine, 2013) catalogued 17 specific behavioral strategies alienating parents use. The taxonomy gives targeted parents the *vocabulary* clinicians and courts actually use — and removes the framing problem that "Parental Alienation Syndrome" still triggers under Daubert. **Use the strategy names, not "PAS."**
 
@@ -33,7 +33,7 @@ Drawn from Baker's empirical interviews with 40 adults who experienced PA as chi
 
 For 33 years (1985–2018), the "Parental Alienation Syndrome" framing was Daubert-attacked in US courts as discredited theory. Baker's strategy taxonomy reframes the harm at the **behavior level** rather than the **syndrome level** — and behavior-level claims survive *Daubert v. Merrell Dow* (1993, 509 U.S. 579) much more reliably. The UK High Court in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam) consolidated the parallel English standard.
 
-The 2018 **Harman, Kruk & Hines** *Psychological Bulletin* meta-analysis built directly on Baker's strategy framework — establishing alienating *behaviors* (PABs) as a recognized form of family violence.
+The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *Psychological Bulletin* meta-analysis built directly on Baker's strategy framework — establishing alienating *behaviors* (PABs) as a recognized form of family violence.
 
 ## How to use the taxonomy in court documentation
 

@@ -46,7 +46,7 @@ Israeli family-court decisions are anonymised per published practice using eithe
 ## Structural findings
 
 - Israel operates a structurally distinctive mixed-jurisdiction model within the corpus — common-law procedural inheritance + civil-law statutory layers + religious-court personal-status jurisdiction. The religious-court parallel jurisdiction (Beit Din for Jewish matters; Sharia courts for Muslim; Christian and Druze courts) means that some custody-adjacent matters route through religious-court adjudication rather than civil Family Courts.
-- Psychologists Law 1977 statutory regulation places Israel among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE — with seven distinct statutorily-recognised specialisation tracks.
+- Psychologists Law 1977 statutory regulation places Israel among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE — with seven distinct statutorily-recognised specialisation tracks.
 - Israeli family-court practice has engaged the PA-construct critically since the 2010s with social-services and child-welfare literature substantially aligned with the global critique camp. Hebrew-language social-work and women's-rights research from this period sits structurally alongside the European critique register documented elsewhere in the corpus.
 
 ## See also

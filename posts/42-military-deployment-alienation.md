@@ -32,7 +32,7 @@ Even in non-UDPCVA states, most have **deployment-specific statutes**. Check you
 
 UK service members benefit from:
 - **Armed Forces (Service Complaints and Financial Assistance) Act 2015** — administrative protections
-- **Children Act 1989** — courts consider deployment as a factor, not a reason for permanent change
+- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)** — courts consider deployment as a factor, not a reason for permanent change
 - **Practice Direction 12J** — domestic-abuse + alienation framework applies (see [case-law/united-kingdom/re-h-n-2021-ewca-civ-448.md](../case-law/united-kingdom/re-h-n-2021-ewca-civ-448.md))
 
 Belgium / France / Germany / NL each have similar national-service or armed-forces family-protection frameworks.
@@ -69,7 +69,7 @@ Most states have specific return-to-pre-deployment-status motions. File on day 1
 
 ### 4. Cite the PA framework
 
-Combine deployment-statute protections with PA-pattern documentation. The alienator's conduct during deployment is exactly the Baker 8-indicator pattern — observable, documentable, court-cognizable.
+Combine deployment-statute protections with PA-pattern documentation. The alienator's conduct during deployment is exactly the [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8-indicator pattern — observable, documentable, court-cognizable.
 
 ### 5. JAG + family-law specialist
 

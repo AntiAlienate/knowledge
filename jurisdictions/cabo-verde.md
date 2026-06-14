@@ -3,7 +3,7 @@
 **Jurisdiction code:** `CV` · **Legal system:** civil-law  
 **Language(s):** pt  
 
-Cabo Verde is an Atlantic African civil-law republic whose family-law framework operates under the Civil Code (Código Civil) drawing on Portuguese civil-law substantive heritage, substantially supplemented by Law 50/V/98 (Family Code) and Law 86/IV/2009 (Code of Children and Adolescents). Parental responsibility (responsabilidade parental) and child custody are governed by Family Code arts. 125-148. The Supreme Court of Justice (Tribunal Supremo de Justiça) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family and Minors' Court (Tribunal de Família e dos Menores). Psychology profession is regulated through the Cape Verdean Order of Psychologists. Cabo Verde is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Code of Children and Adolescents art. 4. Cabo Verde acceded to the Hague Convention 1980 effective 1 January 2018.
+Cabo Verde is an Atlantic African civil-law republic whose family-law framework operates under the Civil Code (Código Civil) drawing on Portuguese civil-law substantive heritage, substantially supplemented by Law 50/V/98 (Family Code) and Law 86/IV/2009 (Code of Children and Adolescents). Parental responsibility (responsabilidade parental) and child custody are governed by Family Code arts. 125-148. The Supreme Court of Justice (Tribunal Supremo de Justiça) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family and Minors' Court (Tribunal de Família e dos Menores). Psychology profession is regulated through the Cape Verdean Order of Psychologists. Cabo Verde is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Code of Children and Adolescents art. 4. Cabo Verde acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 January 2018.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Cabo Verde is an Atlantic African civil-law republic whose family-law framework 
 - **Family Code Law 50/V/98 arts. 125-148** — Family Code — Parental responsibility and custody (1998) — <https://www.tribunalsupremo.cv/>
   - Federal Family Code drawing on Portuguese civil-law substantive heritage. Arts. 125-148 govern responsabilidade parental and child custody.
 - **Code of Children and Adolescents Law 86/IV/2009** — Code of Children and Adolescents (2009) — <https://www.tribunalsupremo.cv/>
-  - Federal Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations.
+  - Federal Code codifying superior-interest-of-the-child principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

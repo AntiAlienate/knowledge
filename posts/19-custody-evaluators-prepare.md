@@ -51,7 +51,7 @@ A custody evaluator — usually a licensed forensic psychologist or social worke
 
 ## The Daubert frame
 
-Don't say "Parental Alienation Syndrome" in the evaluation. Say **"documented alienating behaviors."** Cite **Harman, Kruk & Hines (2018)** *Psychological Bulletin* meta-analysis. The behavior frame survives expert challenge; the syndrome frame often doesn't (*Daubert v. Merrell Dow*, 509 U.S. 579 (1993); UK *Re C* [2023] EWHC 345 (Fam)).
+Don't say "Parental Alienation Syndrome" in the evaluation. Say **"documented alienating behaviors."** Cite **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** *Psychological Bulletin* meta-analysis. The behavior frame survives expert challenge; the syndrome frame often doesn't (*Daubert v. Merrell Dow*, 509 U.S. 579 (1993); UK *Re C* [2023] EWHC 345 (Fam)).
 
 ## Psychological testing — what to expect
 
@@ -77,7 +77,7 @@ Don't say "Parental Alienation Syndrome" in the evaluation. Say **"documented al
 
 ## Citations
 
-- AFCC (Association of Family and Conciliation Courts) — Custody Evaluation Guidelines
+- [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) — Custody Evaluation Guidelines
 - APA — Guidelines for Child Custody Evaluations in Family Law Proceedings (2010)
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin*, 144(12), 1275–1299.
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993)

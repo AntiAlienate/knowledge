@@ -6,13 +6,13 @@ last_verified: "2026-05-25"
 license: "CC BY 4.0"
 ---
 
-# Dr. Richard Warshak, PhD — Reunification Protocol Architect
+# Dr. Richard [Warshak](https://warshak.com/family-bridges/), PhD — Reunification Protocol Architect
 
 Clinical psychologist who developed the leading evidence-based reunification intensive for severely alienated children. Multiple peer-reviewed follow-ups show durable repair when ordered by the court with custodial enforcement behind it.
 
 ## Key contributions
 
-- **Family Bridges Workshop** — 4-day residential reunification intensive with the targeted parent and the resistant child(ren), followed by ≥90 days of structured aftercare with parent coaching. See [/open-source/infographics/family-bridges.png](../open-source/infographics/family-bridges.png).
+- **[Family Bridges](https://warshak.com/family-bridges/) Workshop** — 4-day residential reunification intensive with the targeted parent and the resistant child(ren), followed by ≥90 days of structured aftercare with parent coaching. See [/open-source/infographics/family-bridges.png](../open-source/infographics/family-bridges.png).
 - ***Welcoming Our Children Home: A Guide to Counseling Parents and Children Who Have Been Through a Severe Alienation*** — the practitioner's manual.
 - **2014 Consensus Statement on Shared Parenting** — 110-signatory peer-reviewed consensus on shared-parenting outcomes. PDF: https://www.5thjudicialdistrict.com/wp-content/uploads/family-court/family-court-services/14-2014WarshakConsensusAttachment.pdf
 - ***Divorce Poison: How to Protect Your Family from Bad-mouthing and Brainwashing*** — accessible parent-facing book.
@@ -20,7 +20,7 @@ Clinical psychologist who developed the leading evidence-based reunification int
 ## Where to find his work
 
 - Personal site: https://www.warshak.com/
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Warshak+Richard
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/?term=Warshak+Richard
 - Family Bridges programme: https://www.warshak.com/family-bridges/
 
 ## Why he matters here

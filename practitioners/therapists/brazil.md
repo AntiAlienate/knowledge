@@ -12,7 +12,7 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 
 ## Stance codes
 
-- `recognition` — treats AP as a real, assessable phenomenon; uses Lei 12.318/2010 framing; IBDFAM / GARI-PA / PASG-aligned; publishes perícia methods.
+- `recognition` — treats AP as a real, assessable phenomenon; uses Lei 12.318/2010 framing; IBDFAM / GARI-PA / [PASG](https://pasg.info/)-aligned; publishes perícia methods.
 - `critique` — argues Lei 12.318/2010 is scientifically weak (Gardner-derived SAP), gender-biased, weaponised against DV-survivor mothers / child-sexual-abuse-disclosing children; supports CFP NT 4/2022 and / or revocation (PL 1.372/2023).
 - `middle` — recognises some inter-parental conflict dynamics exist but rejects the AP/SAP frame as a diagnostic; emphasises procedural safeguards (perícia ética, Resolução CFP 11/2018 depoimento especial), best-interest evaluation without PA shortcut.
 - `institutional` — federal / regional regulators or conselhos with a binding professional doctrine.
@@ -203,7 +203,7 @@ Brazilian psicólogos clínicos, psicólogos jurídicos, peritos psicológicos f
 ### 11. Profa Leila Maria Torraca de Brito, PhD (CRP-05)
 - **Country / city:** BR / Rio de Janeiro
 - **Practice / affiliation:** Professora Titular aposentada do **Instituto de Psicologia da UERJ**; ex-coordenadora do Curso de Especialização em Psicologia Jurídica UERJ
-- **Practice URLs:** Google Scholar https://scholar.google.com/citations?user=pyf8_N0AAAAJ&hl=pt-BR ; Escavador https://www.escavador.com/sobre/7720071/leila-maria-torraca-de-brito ; ResearchGate https://www.researchgate.net/scientific-contributions/Leila-Maria-Torraca-de-Brito-2048493816
+- **Practice URLs:** [Google Scholar](https://scholar.google.com/) https://scholar.google.com/citations?user=pyf8_N0AAAAJ&hl=pt-BR ; Escavador https://www.escavador.com/sobre/7720071/leila-maria-torraca-de-brito ; ResearchGate https://www.researchgate.net/scientific-contributions/Leila-Maria-Torraca-de-Brito-2048493816
 - **Regulatory body:** **CRP-05** (RJ); Psicologia Santa Úrsula 1978; PhD Psicologia Clínica PUC-Rio 1999; pós-doc UFPR 2007 + PUC-MG 2012
 - **Registration number:** **not publicly displayed**
 - **Specialty:** Psicologia jurídica; guarda de filhos; **escuta de crianças no sistema de justiça**; crítica acadêmica à transposição da SAP de Gardner para a Lei 12.318/2010

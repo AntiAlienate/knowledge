@@ -14,9 +14,9 @@ last_reviewed: 2026-05-15
 location_tags: [united-states, international, dsm-5, icd-11, diagnostic-criteria, bernet, parental-alienation-study-group]
 ---
 
-# Bernet, W. (2010) — Parental Alienation, DSM-5, and ICD-11
+# Bernet, W. (2010) — Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)
 
-> **TL;DR.** William Bernet's edited 2010 volume is the foundational reference for the modern PA diagnostic framework. It established the **5 essential criteria** (all must be present for the diagnosis) that operate as the gatekeeper distinguishing alienation from justified estrangement, and led the multi-year campaign for DSM-5 and ICD-11 inclusion. Co-founder of the Parental Alienation Study Group (PASG, ~1,000+ members across 60+ countries).
+> **TL;DR.** William Bernet's edited 2010 volume is the foundational reference for the modern PA diagnostic framework. It established the **5 essential criteria** (all must be present for the diagnosis) that operate as the gatekeeper distinguishing alienation from justified estrangement, and led the multi-year campaign for DSM-5 and ICD-11 inclusion. Co-founder of the [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/), ~1,000+ members across 60+ countries).
 
 **Maintained by Alan Markson · Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../../LICENSE)
 
@@ -35,7 +35,7 @@ All five must be present for a diagnosis of parental alienation:
 1. The child **actively rejects** a previously loved parent
 2. The rejection is **disproportionate** to anything that parent has done
 3. The child is **exposed to alienating behaviors** by the favored parent
-4. The child exhibits **Baker's 8 behavioral indicators**
+4. The child exhibits **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators**
 5. There is **no justified estrangement** (abuse, neglect, profound mismatch)
 
 This 5-criterion framework is the gatekeeper that distinguishes alienation (engineered rejection) from justified estrangement (proportional response to harm). Used in clinical assessment and increasingly in court doctrine.
@@ -48,7 +48,7 @@ Bernet led the multi-year campaign for explicit PA inclusion in DSM-5 and ICD-11
 - **DSM-5 V61.29** Child Affected by Parental Relationship Distress
 - **WHO ICD-11 QE52** Caregiver-Child Relationship Problem (in force 2022)
 
-The 2018 **Harman, Kruk & Hines** *Psychological Bulletin* meta-analysis subsequently reframed the field at the *behaviors* level (PABs) — a strategic move that survives Daubert challenges in a way that the older "PAS" framing did not.
+The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *Psychological Bulletin* meta-analysis subsequently reframed the field at the *behaviors* level (PABs) — a strategic move that survives Daubert challenges in a way that the older "PAS" framing did not.
 
 ## Parental Alienation Study Group (PASG)
 

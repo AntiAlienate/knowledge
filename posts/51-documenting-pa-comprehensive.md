@@ -1,6 +1,6 @@
 # Documenting Parental Alienation for Court — The Comprehensive Evidence Framework
 
-> **TL;DR.** Most targeted parents have a thousand stories and zero admissible evidence. The framework: 5 pillars of evidence (disparagement, gatekeeping, fostering fear, erasing presence, enmeshment) · 6 systematic methods (journal, digital comms, audio/video, school/medical, witnesses, child statements) · 3-stage organization (filing system, master log, timeline). Use the Daubert-survivable "behavior frame" not the contested "syndrome frame." Cite Harman, Kruk & Hines (2018).
+> **TL;DR.** Most targeted parents have a thousand stories and zero admissible evidence. The framework: 5 pillars of evidence (disparagement, gatekeeping, fostering fear, erasing presence, enmeshment) · 6 systematic methods (journal, digital comms, audio/video, school/medical, witnesses, child statements) · 3-stage organization (filing system, master log, timeline). Use the Daubert-survivable "behavior frame" not the contested "syndrome frame." Cite [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018).
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/documenting-parental-alienation-for-court](https://www.antialienate.com/blog/documenting-parental-alienation-for-court).**
@@ -95,9 +95,9 @@ The UK High Court in **Re C (Parental Alienation: Instruction of Expert)** [2023
 ## Citations
 
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- DSM-5 V995.51 — Child Psychological Abuse
-- WHO ICD-11 QE52 — Caregiver-Child Relationship Problem
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse
+- WHO [ICD-11](https://icd.who.int/) QE52 — Caregiver-Child Relationship Problem
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993)
 - *Re C (Parental Alienation: Instruction of Expert)* [2023] EWHC 345 (Fam)
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12

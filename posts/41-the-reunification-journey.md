@@ -1,6 +1,6 @@
 # The Reunification Journey — What It Actually Looks Like
 
-> **TL;DR.** Reunification isn't a movie scene. It's a slow, structured, often non-linear process that unfolds over months — sometimes years. The research (Warshak 2010, Reay 2015, Sullivan & Kelly 2001) gives us the shape: graduated reintroduction, regulated affect, sustained presence. This is the realistic 5-phase arc, from first reach-out through stable relationship.
+> **TL;DR.** Reunification isn't a movie scene. It's a slow, structured, often non-linear process that unfolds over months — sometimes years. The research ([Warshak](https://warshak.com/family-bridges/) 2010, Reay 2015, Sullivan & Kelly 2001) gives us the shape: graduated reintroduction, regulated affect, sustained presence. This is the realistic 5-phase arc, from first reach-out through stable relationship.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/the-reunification-journey](https://www.antialienate.com/blog/the-reunification-journey).**
@@ -53,10 +53,10 @@ The targeted parent's job: stay regulated. Disconfirm the alienator-installed fe
 
 | Source | Finding |
 |---|---|
-| Warshak (2010) Family Bridges | 95% acute restoration; 78% maintained at 1yr |
+| Warshak (2010) [Family Bridges](https://warshak.com/family-bridges/) | 95% acute restoration; 78% maintained at 1yr |
 | Reay (2015) Family Reflections | Comparable outcomes, alternate protocol |
 | Sullivan & Kelly (2001) | Family-system approach essential |
-| Baker (2007) adult-outcomes | Majority of adult children of PA re-establish contact in their 20s-40s |
+| [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) adult-outcomes | Majority of adult children of PA re-establish contact in their 20s-40s |
 | Fidler & Bala (2010) | Targeted parent's regulated affect = strongest predictor |
 
 ## The 4 risks during reunification

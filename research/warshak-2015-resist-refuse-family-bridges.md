@@ -9,7 +9,7 @@ related_research: [Baker 2007, Baker-Fine 2014, Bernet 2008, Friedlander-Walters
 location_tags: [global, english-language, clinical-intervention]
 ---
 
-# Warshak 2010-2020 — Resist-Refuse Dynamics + Family Bridges Intervention
+# [Warshak](https://warshak.com/family-bridges/) 2010-2020 — Resist-Refuse Dynamics + [Family Bridges](https://warshak.com/family-bridges/) Intervention
 
 ## TL;DR
 
@@ -60,7 +60,7 @@ Family Bridges has been criticized by some researchers and clinicians:
 - Limited sample sizes in the published outcome studies
 - Concerns about coercion of older children
 
-Warshak has addressed these in subsequent publications, noting that the alternative — leaving severely alienated children with the alienating parent — has its own well-documented harms (Baker 2007 longitudinal data).
+Warshak has addressed these in subsequent publications, noting that the alternative — leaving severely alienated children with the alienating parent — has its own well-documented harms ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 longitudinal data).
 
 ## Key Publications
 
@@ -74,7 +74,7 @@ Warshak has addressed these in subsequent publications, noting that the alternat
 The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 - Custody-evaluation reports (often cited alongside Bernet's 5 criteria as complementary frameworks)
 - Court-ordered reunification therapy literature
-- AFCC (Association of Family and Conciliation Courts) practice guidelines
+- [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) practice guidelines
 - Reunification therapist training programs
 
 Family Bridges is one of approximately 5-7 named reunification interventions with published outcome data (others: Multi-Modal Family Intervention, Overcoming Barriers, Reunification Therapy by Friedlander-Walters).

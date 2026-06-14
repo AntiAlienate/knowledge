@@ -15,11 +15,11 @@ Harman & Lorandos (2023) published the **largest meta-analytic synthesis to date
 
 ## Background
 
-Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Family-Justice consultations, WHO retraction of ICD-11 caregiver-child relationship problem code QE52.0) characterizing PA as lacking empirical basis, Harman and Lorandos undertook systematic review responding to those characterizations.
+Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Family-Justice consultations, WHO retraction of [ICD-11](https://icd.who.int/) caregiver-child relationship problem code QE52.0) characterizing PA as lacking empirical basis, Harman and Lorandos undertook systematic review responding to those characterizations.
 
 ## Methodology
 
-- Systematic literature search across PsycInfo, PubMed, Westlaw, Web of Science, Google Scholar
+- Systematic literature search across PsycInfo, [PubMed](https://pubmed.ncbi.nlm.nih.gov/), Westlaw, Web of Science, [Google Scholar](https://scholar.google.com/)
 - Inclusion criteria: peer-reviewed empirical study reporting quantitative or qualitative data on PA construct
 - 213 studies meeting criteria, spanning 1985-2022
 - Quality assessment via Joanna Briggs Institute critical-appraisal instruments
@@ -29,7 +29,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 
 ### 1. Construct validity
 
-- PA factor structure consistently identified across independent samples (Baker, Bernet, Harman, Saini, Polak, Verrocchio, Verhaar)
+- PA factor structure consistently identified across independent samples ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Bernet, Harman, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Polak, Verrocchio, Verhaar)
 - Five-Factor Model (Bernet 2018) achieves acceptable confirmatory-factor-analysis fit indices in independent samples
 - Distinct from estrangement (justified rejection due to abuse, neglect, poor parenting)
 
@@ -57,7 +57,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 
 ### 5. Methodological refutations
 
-- Addresses Mercer (2019, 2021), Meier (2020), Milchman (2017, 2019) critiques
+- Addresses Mercer (2019, 2021), [Meier (2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)), Milchman (2017, 2019) critiques
 - Documents that contested studies were selectively cited or misrepresented in prior reviews
 - Identifies confirmation bias in critic-of-PA literature
 
@@ -70,7 +70,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 
 ## Key co-cited works
 
-- Bernet, W. (2018) *Parental Alienation, DSM-5, and ICD-11*. CRC Press
+- Bernet, W. (2018) *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and ICD-11*. CRC Press
 - Baker, A.J.L., & Sauber, S.R. (Eds.) (2013) *Working With Alienated Children and Families*. Routledge
 - Harman, J.J., Kruk, E., & Hines, D. (2018) *Parental alienating behaviors: An unacknowledged form of family violence*. Psychological Bulletin, 144(12), 1275-1299
 - Lorandos, D., & Bernet, W. (Eds.) (2020) *Parental Alienation — Science and Law*. Charles C. Thomas
@@ -88,7 +88,7 @@ Following 2018-2020 statements by some policy bodies (HCR Spain, certain UK Fami
 
 - Harman, J.J., & Lorandos, D. (2023). Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law*. https://doi.org/10.1037/law0000379
 - Harman, J.J., Lorandos, D., Florian, M.J., & Hines, D.A. (2023). Developmental psychology and the scientific status of parental alienation. *Developmental Psychology*. https://doi.org/10.1037/dev0001577
-- Harman, J.J., Saunders, L., & Afifi, T. (2022). Evaluating Critiques of Parental Alienation: Comments on Meier 2020. *Family Court Review*
+- Harman, J.J., [Saunders](https://www.ovw.usdoj.gov/), L., & Afifi, T. (2022). Evaluating Critiques of Parental Alienation: Comments on Meier 2020. *Family Court Review*
 
 ---
 

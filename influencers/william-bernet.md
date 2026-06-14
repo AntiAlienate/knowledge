@@ -8,19 +8,19 @@ license: "CC BY 4.0"
 
 # Dr. William Bernet, MD — Foundational PA Researcher
 
-Professor Emeritus of Psychiatry at Vanderbilt; founding member of the Parental Alienation Study Group. The single most-cited author in the field. Author/editor of multiple textbooks. The diagnostic spine of practitioner PA work comes from his framework.
+Professor Emeritus of Psychiatry at Vanderbilt; founding member of the [Parental Alienation Study Group](https://pasg.info/). The single most-cited author in the field. Author/editor of multiple textbooks. The diagnostic spine of practitioner PA work comes from his framework.
 
 ## Key contributions
 
 - **5-Factor Model of Parental Alienation** (Bernet, 2010; refined 2020) — the diagnostic differential for distinguishing PA from estrangement. See [/open-source/infographics/bernet-5-factor.png](../open-source/infographics/bernet-5-factor.png).
 - **Eight Behavioural Manifestations** — the observable child-behaviour markers. See [/open-source/infographics/eight-manifestations.png](../open-source/infographics/eight-manifestations.png).
-- ***Parental Alienation, DSM-5, and ICD-11*** (Charles C Thomas, 2010) — the field's foundational textbook.
+- ***Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*** (Charles C Thomas, 2010) — the field's foundational textbook.
 - ***Foundations of Parental Alienation*** (Charles C Thomas, 2020, with Lorandos) — the multi-disciplinary standard reference.
 - Lead advocate for WHO inclusion of ICD-11 QE52.2 "Caregiver-child relationship problem" (in force 2022). See [/open-source/infographics/icd11-qe52-2.png](../open-source/infographics/icd11-qe52-2.png).
 
 ## Where to find his work
 
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Bernet+William+parental+alienation
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/?term=Bernet+William+parental+alienation
 - Parental Alienation Study Group: https://pasg.info/
 - Publisher (Charles C Thomas Publisher): https://www.ccthomas.com/
 

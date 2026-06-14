@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GB-EAW` · **Legal system:** common-law  
 **Language(s):** en, cy  
 
-Alias entry for the unified England-and-Wales jurisdiction. Substantive content is carried by jurisdiction:england-and-wales. This stub resolves backwards-compatible refs from existing files that use the abbreviation 'uk-ews'. See jurisdiction:england-and-wales for full substantive coverage of Children Act 1989, Family Procedure Rules 2010, English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026), Cafcass + HCPC institutional architecture.
+Alias entry for the unified England-and-Wales jurisdiction. Substantive content is carried by jurisdiction:england-and-wales. This stub resolves backwards-compatible refs from existing files that use the abbreviation 'uk-ews'. See jurisdiction:england-and-wales for full substantive coverage of [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41), Family Procedure Rules 2010, English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026), [Cafcass](https://www.cafcass.gov.uk/) + [HCPC](https://www.hcpc-uk.org/) institutional architecture.
 
 ## PA recognition status
 
@@ -13,7 +13,7 @@ Alias entry for the unified England-and-Wales jurisdiction. Substantive content 
 
 ## Statutory framework
 
-- **Children Act 1989 + Children and Families Act 2014 + Family Procedure Rules 2010** — E&W substantive children-law statutory frame (see jurisdiction:england-and-wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
+- **Children Act 1989 + [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) + Family Procedure Rules 2010** — E&W substantive children-law statutory frame (see jurisdiction:england-and-wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
   - Substantive content carried by jurisdiction:england-and-wales.
 
 ## Apex courts
@@ -24,7 +24,7 @@ Alias entry for the unified England-and-Wales jurisdiction. Substantive content 
 
 ## Professional regulators
 
-- **HCPC + Cafcass + BPS** — See jurisdiction:england-and-wales for substantive regulatory coverage. — <https://www.hcpc-uk.org/>
+- **HCPC + Cafcass + [BPS](https://www.bps.org.uk/)** — See jurisdiction:england-and-wales for substantive regulatory coverage. — <https://www.hcpc-uk.org/>
 
 ## Anonymisation convention
 

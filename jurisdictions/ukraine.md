@@ -44,7 +44,7 @@ Ukrainian family-law decisions are anonymised per Supreme Court practice using i
 ## Structural findings
 
 - Ukraine sits structurally within the post-Soviet civil-law cluster — Family Code 2004 + welfare-standard family-court framework + Constitutional Court constitutional-review.
-- Post-2022 invasion context produces distinctive cross-border-displacement custody-matters cluster — Ukrainian families displaced to Poland + Germany + Czechia + other EU member states + further afield generate Hague Convention 1980 cross-border matters and parallel domestic-and-foreign custody proceedings. Sits structurally adjacent to the cross-border-abduction-and-PA-intersection evidence page within the corpus.
+- Post-2022 invasion context produces distinctive cross-border-displacement custody-matters cluster — Ukrainian families displaced to Poland + Germany + Czechia + other EU member states + further afield generate [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) cross-border matters and parallel domestic-and-foreign custody proceedings. Sits structurally adjacent to the cross-border-abduction-and-PA-intersection evidence page within the corpus.
 - Psychology profession regulation operates through Ministry of Health framework + UPA peak-body ethics oversight rather than unified statutory professional-chamber regime.
 
 ## See also

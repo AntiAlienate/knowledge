@@ -16,7 +16,7 @@ Turkmenistan is a Central Asian civil-law unitary republic whose family-law fram
 - **Family Code of Turkmenistan 2012 arts. 71-99** — Family Code — Parental rights and custody (2012) — <https://www.minjust.gov.tm/>
   - Federal Family Code enacted 2012 (replacing 1969 Soviet-era Code on Marriage and Family). Arts. 71-99 govern parental rights and child custody.
 - **Law on State Guarantees of the Rights of the Child 2014** — Law on State Guarantees of the Rights of the Child (2014) — <https://www.minjust.gov.tm/>
-  - Federal children's rights statute aligned with UNCRC obligations.
+  - Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

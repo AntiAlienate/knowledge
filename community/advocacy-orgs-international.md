@@ -103,7 +103,7 @@ Italian child-abuse coordination body; broadly PA-sceptical position. Italy's PA
 
 We are actively seeking verified contacts for:
 - Polish PA support organisations (a "Stowarzyszenie Colibri" reference did not resolve to a clearly PA-focused body)
-- Belgian francophone advocacy (Benoît Van Dieren's work is referenced in PASG circles but lacks a current authoritative public site)
+- Belgian francophone advocacy (Benoît Van Dieren's work is referenced in [PASG](https://pasg.info/) circles but lacks a current authoritative public site)
 - Dedicated Italian PA advocacy
 - Czech, Slovak, Romanian, Hungarian regional bodies
 - Sub-Saharan African and Asian regional bodies

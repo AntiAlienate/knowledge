@@ -38,7 +38,7 @@ The President set aside alienating-behaviour findings made in 2019–2020 becaus
 
 ### 1.4 The s.31 Children Act threshold
 
-Section 31(2) of the Children Act 1989 allows a care or supervision order only where the court is satisfied that the child is suffering, or likely to suffer, significant harm attributable to the care given being below what a parent would reasonably give. ([legislation.gov.uk](https://www.legislation.gov.uk/ukpga/1989/41/part/IV).) Standard: civil balance of probabilities (*Re B*; *Re S-B*); the future-harm limb is tested by the *Re H* "real possibility" formulation. ([Child Protection Resource](https://childprotectionresource.online/category/the-law/key-legal-principles/significant-harm-key-legal-principles/).)
+Section 31(2) of the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) allows a care or supervision order only where the court is satisfied that the child is suffering, or likely to suffer, significant harm attributable to the care given being below what a parent would reasonably give. ([legislation.gov.uk](https://www.legislation.gov.uk/ukpga/1989/41/part/IV).) Standard: civil balance of probabilities (*Re B*; *Re S-B*); the future-harm limb is tested by the *Re H* "real possibility" formulation. ([Child Protection Resource](https://childprotectionresource.online/category/the-law/key-legal-principles/significant-harm-key-legal-principles/).)
 
 **PA application.** When alienation conduct is alleged to amount to s.31 "significant harm," the standard is unchanged but the evidence must be cogently calibrated to the proposition's gravity. *Re Y*'s warning is that courts not skip that rigour by leaning on a diagnostic label.
 
@@ -66,7 +66,7 @@ In US state family courts the default standard for custody-affecting findings, i
 
 ### 2.3 The unresolved *Santosky*-extension question
 
-The hard question for PA litigation is whether, when an alienating-conduct finding drives a custody transfer that *functionally* terminates the relationship between the child and the formerly resident parent (e.g., a 90-day no-contact "reunification" order, or a permanent custody flip with supervised-only contact), the *Santosky* logic — that the **gravity** of the deprivation triggers a heightened due-process standard — should extend. The US appellate record on that exact point is thin. The question is doctrinally live and has been pressed in academic commentary (e.g., Joan Meier's family-courts scholarship — see §9.2), but is **not publicly confirmed** to have been resolved by any US federal appellate court on PA facts at the time of compilation.
+The hard question for PA litigation is whether, when an alienating-conduct finding drives a custody transfer that *functionally* terminates the relationship between the child and the formerly resident parent (e.g., a 90-day no-contact "reunification" order, or a permanent custody flip with supervised-only contact), the *Santosky* logic — that the **gravity** of the deprivation triggers a heightened due-process standard — should extend. The US appellate record on that exact point is thin. The question is doctrinally live and has been pressed in academic commentary (e.g., Joan [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) family-courts scholarship — see §9.2), but is **not publicly confirmed** to have been resolved by any US federal appellate court on PA facts at the time of compilation.
 
 ### 2.4 California Family Code §3041 — clear and convincing for non-parent custody
 
@@ -106,7 +106,7 @@ The ECtHR does not impose a uniform substantive standard of proof on member-stat
 
 ### 3.4 France
 
-French civil procedure operates on the *intime conviction* / free conviction of the judge in family matters, with the burden allocated under articles 9 and 1353 of the Code de procédure civile and Code civil respectively. The leading Court of Cassation decision in PA territory is *Cass. 1re civ., 26 juin 2013, n° 12-14.392*, which held that PA / "syndrome d'aliénation parentale" cannot found a custody decision without "*éléments objectifs*" (objective evidence). (See the AntiAlienate case-study file: [cass-1re-civ-26-juin-2013-12-14-392](case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md).) **[secondary verification only]** for the verbatim quotation from the published arrêt.
+French civil procedure operates on the *intime conviction* / free conviction of the judge in family matters, with the burden allocated under articles 9 and 1353 of the Code de procédure civile and [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) respectively. The leading Court of Cassation decision in PA territory is *Cass. 1re civ., 26 juin 2013, n° 12-14.392*, which held that PA / "syndrome d'aliénation parentale" cannot found a custody decision without "*éléments objectifs*" (objective evidence). (See the AntiAlienate case-study file: [cass-1re-civ-26-juin-2013-12-14-392](case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md).) **[secondary verification only]** for the verbatim quotation from the published arrêt.
 
 ---
 
@@ -215,7 +215,7 @@ The *standard of proof* question (how convinced must the factfinder be?) is logi
 
 **Operative competence standard, ¶3.1.** PD 25B requires that the expert's area of competence be appropriate to the issue, that the expert have sufficient experience and remain active in the field, that they have undertaken appropriate training/quality-assurance activity within the last year, that they have a working knowledge of and comply with relevant Practice Directions, and that they identify where their opinion lies in relation to other accepted mainstream views and the overall spectrum of opinion in the UK.
 
-**Comparison with *Daubert*.** PD 25B is not as formally articulated as *Daubert*'s four-factor test but in practice imposes similar reliability and mainstream-acceptance controls. *Re Y* [2026] EWFC 38 used these controls to set aside alienating-behaviour findings where the expert was not HCPC-registered or BPS-chartered — the English-law equivalent of a failed *Daubert* admissibility challenge.
+**Comparison with *Daubert*.** PD 25B is not as formally articulated as *Daubert*'s four-factor test but in practice imposes similar reliability and mainstream-acceptance controls. *Re Y* [2026] EWFC 38 used these controls to set aside alienating-behaviour findings where the expert was not [HCPC](https://www.hcpc-uk.org/)-registered or [BPS](https://www.bps.org.uk/)-chartered — the English-law equivalent of a failed *Daubert* admissibility challenge.
 
 ### 7.4 Italy — Cass. 9691/2022 as a *Daubert*-light filter
 
@@ -225,7 +225,7 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ## 8. Where standard of proof and harm threshold interact
 
-**8.1 DSM-5 / ICD-11.** DSM-5 V995.51 (Child Psychological Abuse, Confirmed) and ICD-11 QE52.0 (Caregiver-child relationship problem) are documented in [evidence-diagnostic-codes-that-apply.md](evidence-diagnostic-codes-that-apply.md). They are *clinical* classifications, not *legal* standards. A court finding that alienating conduct constitutes child psychological abuse is governed by the applicable statutory standard — typically preponderance (US child-welfare) or balance of probabilities (UK s.31, Canadian provincial, Australian s 140), with clear-and-convincing reserved for permanent termination.
+**8.1 [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/).** DSM-5 V995.51 (Child Psychological Abuse, Confirmed) and ICD-11 QE52.0 (Caregiver-child relationship problem) are documented in [evidence-diagnostic-codes-that-apply.md](evidence-diagnostic-codes-that-apply.md). They are *clinical* classifications, not *legal* standards. A court finding that alienating conduct constitutes child psychological abuse is governed by the applicable statutory standard — typically preponderance (US child-welfare) or balance of probabilities (UK s.31, Canadian provincial, Australian s 140), with clear-and-convincing reserved for permanent termination.
 
 **8.2 Cross-allegation asymmetry.** When PA is alleged as a defence to abuse, the *same* civil standard governs both findings doctrinally. The Meier 2020 empirical question (§9.2) is whether the de facto standard operates lower for PA than for the abuse it defeats — contested.
 
@@ -235,7 +235,7 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ## 9. The standard-of-proof debate in the PA literature
 
-### 9.1 Saini, Johnston, Fidler & Bala (2016)
+### 9.1 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)
 
 **Citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical studies of alienation. In Drozd, Saini, & Olesen (eds), *Parenting Plan Evaluations* (2nd ed., pp. 374–430). OUP. [Nevada Courts PDF](https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf); [ResearchGate](https://www.researchgate.net/publication/306386344_Empirical_Studies_of_Alienation_Applied_Research_for_the_Family_Court).
 
@@ -253,7 +253,7 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ### 9.3 Mercer and the Harman / Lorandos / Bernet defence
 
-Mercer's *Journal of Child Custody* critiques argue PA findings frequently rest on circular or unfalsifiable reasoning that would not survive serious admissibility testing **[secondary verification only]**; documented in [evidence-pa-as-child-abuse.md](evidence-pa-as-child-abuse.md). On the other side, Harman, Bernet, Lorandos and PASG (see [evidence-evaluator-training-asymmetry.md](evidence-evaluator-training-asymmetry.md)) defend the proposition that properly trained evaluators produce findings meeting conventional admissibility and proof standards. The dispute is largely empirical: whether such evaluators are in fact deployed, and whether their methodology in fact survives a competence challenge of the kind *Re Y* applied.
+Mercer's *Journal of Child Custody* critiques argue PA findings frequently rest on circular or unfalsifiable reasoning that would not survive serious admissibility testing **[secondary verification only]**; documented in [evidence-pa-as-child-abuse.md](evidence-pa-as-child-abuse.md). On the other side, Harman, Bernet, Lorandos and [PASG](https://pasg.info/) (see [evidence-evaluator-training-asymmetry.md](evidence-evaluator-training-asymmetry.md)) defend the proposition that properly trained evaluators produce findings meeting conventional admissibility and proof standards. The dispute is largely empirical: whether such evaluators are in fact deployed, and whether their methodology in fact survives a competence challenge of the kind *Re Y* applied.
 
 ---
 

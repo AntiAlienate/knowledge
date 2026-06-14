@@ -7,15 +7,15 @@
 
 ## Why this case matters
 
-Sir Andrew McFarlane P, sitting in the Family Court (EWFC), set aside first-instance findings of 'alienating behaviour' that had been built on the evidence of Ms Melanie Gill, who was not on the HCPC Practitioner Psychologist register and not a Chartered Member of the British Psychological Society at the relevant date. Re Y is the leading recent English authority on expert quality in PA-framed family proceedings, sitting at the end of the modern English arc Re A → Re S → Re H-N → Re C → Re Y. It does not abolish 'alienating behaviour' as a finding category; it requires that any psychological evidence supporting such a finding come from a regulated practitioner whose register entry can be checked.
+Sir Andrew McFarlane P, sitting in the Family Court (EWFC), set aside first-instance findings of 'alienating behaviour' that had been built on the evidence of Ms Melanie Gill, who was not on the [HCPC](https://www.hcpc-uk.org/) Practitioner Psychologist register and not a Chartered Member of the British Psychological Society at the relevant date. Re Y is the leading recent English authority on expert quality in PA-framed family proceedings, sitting at the end of the modern English arc Re A → Re S → Re H-N → Re C → Re Y. It does not abolish 'alienating behaviour' as a finding category; it requires that any psychological evidence supporting such a finding come from a regulated practitioner whose register entry can be checked.
 
 ## Procedural history
 
-The proceedings concerned welfare and contact arrangements for the subject child Y under the Children Act 1989. An expert report was obtained from Ms Melanie Gill, who described herself as a 'parental alienation specialist'. The first-instance court relied on Ms Gill's report when making findings of alienating behaviour against one of the parents. The matter came before Sir Andrew McFarlane P, who was asked to consider whether Ms Gill's evidence met the requirements of FPR Part 25 and the Re C [2023] EWHC 345 (Fam) line on regulated-only expert psychology. McFarlane P set aside the findings that had been built on Ms Gill's report.
+The proceedings concerned welfare and contact arrangements for the subject child Y under the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41). An expert report was obtained from Ms Melanie Gill, who described herself as a 'parental alienation specialist'. The first-instance court relied on Ms Gill's report when making findings of alienating behaviour against one of the parents. The matter came before Sir Andrew McFarlane P, who was asked to consider whether Ms Gill's evidence met the requirements of FPR Part 25 and the Re C [2023] EWHC 345 (Fam) line on regulated-only expert psychology. McFarlane P set aside the findings that had been built on Ms Gill's report.
 
 ## Experts
 
-- **Melanie Gill** — self-described 'parental alienation specialist'; not on the HCPC Practitioner Psychologist register and not a Chartered Member of the BPS at the relevant date (instructed by appointed in the proceedings below) — see practitioner `uk.gill-melanie`
+- **Melanie Gill** — self-described 'parental alienation specialist'; not on the HCPC Practitioner Psychologist register and not a Chartered Member of the [BPS](https://www.bps.org.uk/) at the relevant date (instructed by appointed in the proceedings below) — see practitioner `uk.gill-melanie`
 
 ## Holding
 
@@ -25,7 +25,7 @@ Findings of 'alienating behaviour' in Children Act 1989 proceedings cannot be su
 
 **judgment summary** (en):
 
-> Expert evidence on parental alienation in the Family Court must come from a regulated practitioner — quote text to be confirmed from BAILII / judiciary.uk full judgment.
+> Expert evidence on parental alienation in the Family Court must come from a regulated practitioner — quote text to be confirmed from [BAILII](https://www.bailii.org/) / judiciary.uk full judgment.
 
 <https://www.bailii.org/ew/cases/EWFC/HCJ/2026/38.html>
 
@@ -69,7 +69,7 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 4. **Re C [2023] EWHC 345 (Fam) — President's guidance on regulated-only expert psychology** — <https://www.bailii.org/ew/cases/EWHC/Fam/2023/345.html> (BAILII) [en] — accessed 2026-05-30
 5. **Health and Care Professions Council — Practitioner Psychologist register search** — <https://www.hcpc-uk.org/check-the-register/> (Health and Care Professions Council) [en] — accessed 2026-05-30
 6. **British Psychological Society — Chartered Member register** — <https://www.bps.org.uk/find-psychologist> (British Psychological Society) [en] — accessed 2026-05-30
-7. **Children Act 1989** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> (legislation.gov.uk) [en] — accessed 2026-05-30
+7. **Children Act 1989** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 
 ## Editorial notes
 

@@ -24,7 +24,7 @@ Janet R. Johnston and Joan B. Kelly developed the **Hostile Aggressive Parenting
 - Proposed alternative: focus on child's behavior + dynamics rather than diagnostic syndrome
 - Foundational integration of estrangement vs alienation differentiation
 
-### Kelly & Johnston (2001) "The Alienated Child: A Reformulation of Parental Alienation Syndrome" Family Court Review 39(3)
+### [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) (2001) "The Alienated Child: A Reformulation of Parental Alienation Syndrome" Family Court Review 39(3)
 - Reframed PA from diagnostic syndrome to child-focused construct
 - Emphasized the child's experience and behavior over the parent's pathology
 - Multifactorial model: severity range from mild to severe
@@ -47,7 +47,7 @@ The Johnston-Kelly approach proved influential because:
 - In some jurisdictions (esp. older case-law tradition), HAP citations are MORE persuasive than PA citations because they're seen as less 'fringe'
 - US courts in pre-2010 decisions frequently cited Johnston-Kelly
 - Australian Family Court continues to cite Johnston-Kelly framework
-- Integrated with modern PA framework (Bernet 2018, Baker 2007) in expert testimony
+- Integrated with modern PA framework (Bernet 2018, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007) in expert testimony
 
 ## Citing posts
 

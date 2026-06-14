@@ -11,8 +11,8 @@ The repository, hosted at [github.com/AntiAlienate/antialienate-knowledge](https
 
 - **30 jurisdictions** (US states + Canadian provinces + UK + EU member states + Australia)
 - **9 step-by-step playbooks** covering the first 90 days, court preparation, reunification therapy, teenage cases, cross-border / Hague Convention abduction, false-accusation defence, and grandparent rights
-- **9 reference pages** on the field's leading clinicians and researchers including William Bernet (Vanderbilt), Richard Warshak, Amy J.L. Baker, Bill Eddy, Jennifer Harman, Edward Kruk, Karen Woodall, Craig Childress, and Demosthenes Lorandos
-- **A live auto-accumulator** that polls PubMed, CrossRef, CourtListener, BAILII, and Reddit every 25 minutes and pushes new findings into a daily digest
+- **9 reference pages** on the field's leading clinicians and researchers including William Bernet (Vanderbilt), Richard [Warshak](https://warshak.com/family-bridges/), Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Bill Eddy, Jennifer Harman, Edward Kruk, Karen Woodall, Craig [Childress](https://drcachildress.org/), and Demosthenes Lorandos
+- **A live auto-accumulator** that polls [PubMed](https://pubmed.ncbi.nlm.nih.gov/), CrossRef, CourtListener, [BAILII](https://www.bailii.org/), and Reddit every 25 minutes and pushes new findings into a daily digest
 - **38 shareable reference cards** for vocabulary, statistics, frameworks, and tactics
 - **A community section** routing parents to relevant advocacy organisations and peer-support spaces internationally
 

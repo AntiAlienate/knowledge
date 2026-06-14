@@ -14,7 +14,7 @@ You've just realised your child is being turned against you. Or you've been figh
 - [ ] **Pick one therapist** who *understands PA dynamics* (most don't). Use the [Influencers](../influencers/) directory to find clinicians in your region or someone they've trained.
 - [ ] **Stop arguing with the other parent over text.** Every message you send is potential exhibit material. Switch to BIFF (Brief, Informative, Friendly, Firm) — see [Bill Eddy's resources](../influencers/bill-eddy.md).
 - [ ] **Tell two people you trust.** Isolation is the alienator's friend. You need at least two humans who know what's happening and can witness your conduct.
-- [ ] **Do NOT confront your child.** Saying "your mum/dad is lying to you" makes the alienation deeper. Read *Divorce Poison* (Warshak) before you say anything to the child about the other parent.
+- [ ] **Do NOT confront your child.** Saying "your mum/dad is lying to you" makes the alienation deeper. Read *Divorce Poison* ([Warshak](https://warshak.com/family-bridges/)) before you say anything to the child about the other parent.
 
 ---
 
@@ -37,7 +37,7 @@ You've just realised your child is being turned against you. Or you've been figh
 - [ ] **Family lawyer who has handled PA cases before.** Ask: "How many alienation matters have you taken to final hearing?" If they pause, find someone else.
 - [ ] **Forensic evaluator or therapist for the child** (only if you have any court order in place — unilateral therapy can backfire). The [Influencers](../influencers/) directory lists who trains them.
 - [ ] **Financial buffer.** Litigation in PA cases averages 18–36 months. Open a separate account, set up automatic transfers, and assume legal costs of $20k–$150k+ (jurisdiction-dependent).
-- [ ] **Find one peer.** Other targeted parents. Try [r/ParentalAlienation](https://www.reddit.com/r/ParentalAlienation/) or local PASG-affiliated support groups. Vet aggressively — these communities have their share of bad actors.
+- [ ] **Find one peer.** Other targeted parents. Try [r/ParentalAlienation](https://www.reddit.com/r/ParentalAlienation/) or local [PASG](https://pasg.info/)-affiliated support groups. Vet aggressively — these communities have their share of bad actors.
 
 ---
 
@@ -82,7 +82,7 @@ These tank targeted-parent cases more than anything else:
 3. **Hiring the cheapest lawyer.** Family law has wide variance in skill. A specialist costs more upfront and far less over the case lifetime.
 4. **Going public on social media.** Anonymised, vague, peer-group support is fine. Public posts are screenshot-collected and used against you.
 5. **Confronting third parties** (teachers, in-laws) without lawyer sign-off.
-6. **Giving up between hearings.** Many parents abandon contact "to give the child peace." Almost every reunification expert (Warshak, Baker, Childress) considers this catastrophic — the child reads abandonment as confirmation of the alienating narrative.
+6. **Giving up between hearings.** Many parents abandon contact "to give the child peace." Almost every reunification expert (Warshak, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), [Childress](https://drcachildress.org/)) considers this catastrophic — the child reads abandonment as confirmation of the alienating narrative.
 
 ---
 

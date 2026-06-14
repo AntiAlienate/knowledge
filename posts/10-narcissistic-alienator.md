@@ -60,7 +60,7 @@ Common observable patterns (clinically significant when present in combination +
 - Eddy, B. (2008). *Splitting: Protecting Yourself While Divorcing Someone with Borderline or Narcissistic Personality Disorder.*
 - Eddy, B. (2014). *5 Types of People Who Can Ruin Your Life.* TarcherPerigee.
 - Hare, R. D., & Babiak, P. (2006). *Snakes in Suits.* HarperCollins.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 

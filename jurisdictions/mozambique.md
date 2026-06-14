@@ -3,7 +3,7 @@
 **Jurisdiction code:** `MZ` · **Legal system:** civil-law  
 **Language(s):** pt  
 
-Mozambique is a Southern/East African civil-law republic whose family-law framework operates under the Family Law 10/2004 (Lei da Família), drawing on Portuguese civil-law substantive heritage with substantial modernisation reforms. Parental rights and child custody are governed by Family Law arts. 304-340. The Supreme Court of Mozambique (Tribunal Supremo) is the apex court for civil and criminal matters; the Constitutional Council (Conselho Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Judicial Court of First Instance (Tribunal Judicial de Primeira Instância), with specialised Family-Court procedure. Psychology profession is regulated through the Ministry of Health framework with the Mozambican Association of Psychologists operating professional standards. Mozambique is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Law art. 304. Mozambique acceded to the Hague Convention 1980 effective 1 December 2022.
+Mozambique is a Southern/East African civil-law republic whose family-law framework operates under the Family Law 10/2004 (Lei da Família), drawing on Portuguese civil-law substantive heritage with substantial modernisation reforms. Parental rights and child custody are governed by Family Law arts. 304-340. The Supreme Court of Mozambique (Tribunal Supremo) is the apex court for civil and criminal matters; the Constitutional Council (Conselho Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Judicial Court of First Instance (Tribunal Judicial de Primeira Instância), with specialised Family-Court procedure. Psychology profession is regulated through the Ministry of Health framework with the Mozambican Association of Psychologists operating professional standards. Mozambique is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Family Law art. 304. Mozambique acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 December 2022.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Mozambique is a Southern/East African civil-law republic whose family-law framew
 - **Family Law 10/2004 arts. 304-340** — Family Law — Parental authority and custody (2004) — <https://www.ts.gov.mz/>
   - Federal Family Law drawing on Portuguese civil-law substantive heritage with substantial 2004 modernisation reforms. Arts. 304-340 govern parental authority and child custody.
 - **Child Promotion and Protection Law 7/2008** — Child Promotion and Protection Law (2008) — <https://www.ts.gov.mz/>
-  - Federal children's protection statute aligned with UNCRC obligations.
+  - Federal children's protection statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

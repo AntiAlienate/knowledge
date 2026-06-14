@@ -12,9 +12,9 @@
 | Jurisdiction | Name | Statutory anchor |
 |---|---|---|
 | US | Guardian ad Litem (GAL) | varies by state; "attorney for the child" in NY |
-| UK | Children's Guardian (CAFCASS) | Children Act 1989 |
+| UK | Children's Guardian (CAFCASS) | [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) |
 | Belgium | *avocat de l'enfant* | Civil Code Art. 931 + Loi du 30 juillet 2013 |
-| Australia | Independent Children's Lawyer (ICL) | Family Law Act 1975 s. 68L |
+| Australia | Independent Children's Lawyer (ICL) | [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) s. 68L |
 
 The job is identical: represent the child's interests in proceedings — not yours, not your ex's, not the system's.
 
@@ -83,7 +83,7 @@ The *avocat de l'enfant* under Belgian Civil Code Art. 931 (as reformed by the *
 
 ## Citations
 
-- AFCC — Association of Family and Conciliation Courts (GAL practice standards)
+- [AFCC](https://www.afccnet.org/) — Association of Family and Conciliation Courts (GAL practice standards)
 - National Association of Counsel for Children (NACC) — model GAL standards
 - US Children Act 1989; CAFCASS practice direction
 - Belgian Civil Code Art. 931; Loi du 30 juillet 2013 (BE)

@@ -3,7 +3,7 @@
 **Jurisdiction code:** `DE` · **Legal system:** civil-law  
 **Language(s):** de  
 
-Germany is a civil-law jurisdiction whose family courts operate under the BGB (Bürgerliches Gesetzbuch), FamFG and SGB VIII. The statutory framework is silent on 'parental alienation' as a label, and since the Bundesverfassungsgericht's 2023 decision (1 BvR 1076/23) the apex court has expressly characterised PAS as 'überkommen' (outdated) and 'widerlegt' (refuted). This places Germany in the institutional-critique camp, an inversion of the pattern seen in most PASG-active jurisdictions.
+Germany is a civil-law jurisdiction whose family courts operate under the [BGB](https://www.gesetze-im-internet.de/bgb/) (Bürgerliches Gesetzbuch), FamFG and SGB VIII. The statutory framework is silent on 'parental alienation' as a label, and since the Bundesverfassungsgericht's 2023 decision (1 BvR 1076/23) the apex court has expressly characterised PAS as 'überkommen' (outdated) and 'widerlegt' (refuted). This places Germany in the institutional-critique camp, an inversion of the pattern seen in most [PASG](https://pasg.info/)-active jurisdictions.
 
 ## PA recognition status
 
@@ -46,7 +46,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the BGB (B
 
 - **Bundespsychotherapeutenkammer (BPtK)** — Keine öffentliche Stellungnahme zum Konstrukt 'Parental Alienation / PAS' (nicht öffentlich verifiziert über das BPtK-Stellungnahmen-Archiv 2024-2026). BPtK ist die berufsrechtliche Dachkammer für approbierte Psychotherapeut:innen und reguliert Familiengutachten nur mittelbar über die Berufsordnungen der Länderkammern. — <https://www.bptk.de/>
 - **Deutsche Gesellschaft für Psychologie (DGPs)** — Keine öffentliche Verbandsposition zum PA-Konstrukt; einschlägige Mitglieder (z. B. Walper, Kindler über DJI-Anbindung) vertreten individuell die Kritik-Linie, die das BVerfG 2023 zitiert. — <https://www.dgps.de/>
-- **Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN)** — Keine spezifische Stellungnahme zu PA/PAS; ICD-11 (in Deutschland 2022-2027 Migrationsphase) enthält Code QE52.0 'caregiver-child relationship problem' — DGPPN hat hierzu keine eigene PA-bezogene Leitlinie publiziert. — <https://www.dgppn.de/>
+- **Deutsche Gesellschaft für Psychiatrie und Psychotherapie, Psychosomatik und Nervenheilkunde (DGPPN)** — Keine spezifische Stellungnahme zu PA/PAS; [ICD-11](https://icd.who.int/) (in Deutschland 2022-2027 Migrationsphase) enthält Code QE52.0 'caregiver-child relationship problem' — DGPPN hat hierzu keine eigene PA-bezogene Leitlinie publiziert. — <https://www.dgppn.de/>
 - **Berufsverband Deutscher Psychologinnen und Psychologen (BDP)** — Berufsverband (nicht Kammer); keine öffentliche Verbandsposition zum PA-Konstrukt verifiziert. — <https://www.bdp-verband.de/>
 - **BAG-EUK (Bundesarbeitsgemeinschaft Eltern-Kind-Entfremdung)** — Recognition-camp Interessenverband; NICHT als eingetragener Verein im Vereinsregister verifizierbar (Stand 2026 — nicht öffentlich verifiziert). Strukturell nicht mit den o. g. Kammern/Fachgesellschaften gleichzustellen. — <https://www.bag-euk.de/>
 

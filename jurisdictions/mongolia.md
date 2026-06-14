@@ -16,7 +16,7 @@ Mongolia is a Central/East Asian civil-law parliamentary republic whose family-l
 - **Family Law of Mongolia 1999 arts. 24-37** — Family Law — Parental rights and child custody (1999) — <https://www.legalinfo.mn/>
   - Federal family-law statute. Arts. 24-37 govern parental rights and child custody. Substantively revised 2019.
 - **Law on the Rights of the Child 2016** — Law on the Rights of the Child (2016) — <https://www.legalinfo.mn/>
-  - Federal statute codifying children's rights consistent with UNCRC obligations.
+  - Federal statute codifying children's rights consistent with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

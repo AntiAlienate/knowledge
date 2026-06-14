@@ -9,7 +9,7 @@
 **Standards:** Primary sources only — national register entries where searchable, practice / institutional website, peer-reviewed publications, court records, named press. Where a fact could not be confirmed from a public primary source it is flagged "**not publicly confirmed**".
 
 **Stance taxonomy:**
-- `recognition` — treats parental alienation / Eltern-Kind-Entfremdung / aliénation parentale / alienazione genitoriale / ouderverstoting as a real, assessable phenomenon; operates or endorses PA-specific assessment, expert-witness or reunification work; typically PASG-aligned.
+- `recognition` — treats parental alienation / Eltern-Kind-Entfremdung / aliénation parentale / alienazione genitoriale / ouderverstoting as a real, assessable phenomenon; operates or endorses PA-specific assessment, expert-witness or reunification work; typically [PASG](https://pasg.info/)-aligned.
 - `critique` — argues the PA construct (especially Gardner's SAP) is operationalised against DV / coercive-control survivors (predominantly mothers and children); advocates DV/trauma-informed alternatives and tighter regulation of expert witnesses.
 - `middle` — engages both alienating-behaviour and family-violence frames; differential-diagnosis or systemic / multi-family approach; not aligned with PASG and not in the abolitionist critique camp.
 
@@ -24,7 +24,7 @@
 
 **Cross-references to other antialienate-knowledge directories:**
 - **Wilfrid von Boch-Galhau, MD** (Germany), **Asunción Tejedor Huerta, PhD** (Spain) and **Sietske Dijkstra, PhD** (Netherlands) already have full entries in `/influencers/`. Practitioner-level operational detail (current practice address, regulatory status, recent activity) is added here; they remain primary entries in the influencer set.
-- US-based PASG core (William Bernet, Amy Baker, Richard Warshak, Linda Gottlieb) — full entries in `/practitioners-us-therapists.md`. Verrocchio (IT) and Tejedor (ES) are the principal European co-authors with Baker / Bernet.
+- US-based PASG core (William Bernet, Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Richard [Warshak](https://warshak.com/family-bridges/), Linda [Gottlieb](https://turningpointsforfamilies.com/)) — full entries in `/practitioners-us-therapists.md`. Verrocchio (IT) and Tejedor (ES) are the principal European co-authors with Baker / Bernet.
 - Canada — Hubert Van Gijseghem (PhD, Université de Montréal, ret.) is Belgian-born / Quebec-practising; full entry is held in `/practitioners-ca-therapists.md` (cross-listed at end of FR section for completeness because his French-language publications form much of the francophone recognition literature).
 
 ---
@@ -33,7 +33,7 @@
 
 ### 1. Dr Wilfrid von Boch-Galhau, MD
 - **Country / city:** DE / Würzburg (Bavaria)
-- **Practice / affiliation:** Independent psychiatric / psychotherapeutic practice, *Oberer Dallenbergweg 15, 97082 Würzburg*; co-founder PAS-Arbeitsgemeinschaft; founding member, Parental Alienation Study Group (PASG)
+- **Practice / affiliation:** Independent psychiatric / psychotherapeutic practice, *Oberer Dallenbergweg 15, 97082 Würzburg*; co-founder PAS-Arbeitsgemeinschaft; founding member, [Parental Alienation Study Group](https://pasg.info/) (PASG)
 - **Practice URL:** http://www.drvboch.de/ (older site; current activity status — see Notes)
 - **Regulatory body:** **Approbation** as *Facharzt für Psychiatrie, Psychosomatische Medizin und Psychotherapie* (Bayerische Landesärztekammer, https://www.blaek.de/); ResearchGate scholarly profile https://www.researchgate.net/scientific-contributions/Wilfrid-von-Boch-Galhau-2021148597
 - **Registration number:** **not publicly displayed**
@@ -129,7 +129,7 @@
   - DIU *Expertise judiciaire en psychiatrie de l'enfant* (Paris-Cité)
 - **Primary contact:** Contact form via https://www.mauriceberger.net/ ; Centre Médical de l'Argentière (Lyon) institutional address; **no direct email / phone on CV**
 - **Tier:** 1
-- **Hook:** France's most prolific senior pédopsychiatre on the critique side of the SAP / aliénation parentale debate; the natural French counterpart to Joan Meier (US) or Adrienne Barnett (UK).
+- **Hook:** France's most prolific senior pédopsychiatre on the critique side of the SAP / aliénation parentale debate; the natural French counterpart to Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (US) or Adrienne Barnett (UK).
 - **Notes:** His critique is anchored in DV-protective and child-violence work, not in the abolitionist tradition — useful for showing the French critique is clinically rather than ideologically motivated.
 
 ### 2. Dr Paul Bensussan
@@ -144,7 +144,7 @@
 - **Programs / publications:**
   - *La Dictature de l'émotion* (co-author, public-debate book on victimology and false allegations)
   - Numerous expert reports cited in French press in CSA / custody-overlap cases
-  - Active candidate (publicly stated) to have *SAP / parental alienation disorder* recognised in DSM-5 — unsuccessful
+  - Active candidate (publicly stated) to have *SAP / parental alienation disorder* recognised in [DSM-5](https://www.appi.org/products/dsm) — unsuccessful
 - **Primary contact:** Contact via https://www.paulbensussan.fr/ ; practice in Versailles — **specific street address / phone not publicly displayed**
 - **Tier:** 1
 - **Hook:** France's most visible PA-recognition expert witness, and the centre of an ongoing professional-conduct complaint — a flashpoint figure for any French PA debate.
@@ -432,7 +432,7 @@
 ### 4. Prof Dr Catrin Finkenauer
 - **Country / city:** NL / Utrecht
 - **Practice / affiliation:** **Hoogleraar Jeugdstudies** (Professor of Youth Studies), Department of Interdisciplinary Social Science, **Universiteit Utrecht** ; lead, divorce-and-family dossier UU
-- **Practice URL:** UU staff page https://www.uu.nl/staff/CFinkenauer ; UU news https://www.uu.nl/nieuws/even-kennismaken-hoogleraar-jeugdstudies-catrin-finkenauer ; UU divorce dossier https://www.uu.nl/en/research/dossiers/divorce-and-family ; *Systeemtherapie* author page https://www.tijdschriftsysteemtherapie.nl/auteurs/overzicht_auteurs/over_de_auteur/Finkenauer ; Google Scholar https://scholar.google.nl/citations?user=ZouuGtQAAAAJ&hl=nl ; ResearchGate https://www.researchgate.net/profile/Catrin-Finkenauer
+- **Practice URL:** UU staff page https://www.uu.nl/staff/CFinkenauer ; UU news https://www.uu.nl/nieuws/even-kennismaken-hoogleraar-jeugdstudies-catrin-finkenauer ; UU divorce dossier https://www.uu.nl/en/research/dossiers/divorce-and-family ; *Systeemtherapie* author page https://www.tijdschriftsysteemtherapie.nl/auteurs/overzicht_auteurs/over_de_auteur/Finkenauer ; [Google Scholar](https://scholar.google.com/) https://scholar.google.nl/citations?user=ZouuGtQAAAAJ&hl=nl ; ResearchGate https://www.researchgate.net/profile/Catrin-Finkenauer
 - **Regulatory body:** Academic (social-psychology PhD); **not BIG-registered as a clinician** (academic researcher, not treating practitioner)
 - **Registration number:** Not applicable (academic)
 - **Specialty:** Interpersonal relationships; youth studies; **divorce dynamics, parent-child relationships, coparenting and ouderverstoting**; impact of bitter divorces on children

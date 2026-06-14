@@ -3,7 +3,7 @@
 **Jurisdiction code:** `XK` · **Legal system:** civil-law  
 **Language(s):** sq, sr  
 
-Kosovo is a Balkan civil-law unitary republic — partially recognised internationally — whose family-law framework operates under the Family Law 2004 (Law 2004/32, drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms) supplemented by Law 06/L-084 on Child Protection 2019. Parental rights and child custody are governed by Family Law arts. 130-155. The Supreme Court of Kosovo is the apex court for civil and criminal matters; the Constitutional Court (Gjykata Kushtetuese) operates separate constitutional review. Family-law matters are heard at first instance in the Basic Courts (Gjykatat Themelore). Psychology profession is regulated through the Order of Psychologists of Kosovo. Kosovo is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Kosovo is not a Hague Convention 1980 party due to partial recognition (cannot accede via UN/Hague Conference standard accession). Kosovo applies ECHR jurisprudence per Constitution art. 22 directly applicable, though not a Council of Europe member due to recognition constraint.
+Kosovo is a Balkan civil-law unitary republic — partially recognised internationally — whose family-law framework operates under the Family Law 2004 (Law 2004/32, drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms) supplemented by Law 06/L-084 on Child Protection 2019. Parental rights and child custody are governed by Family Law arts. 130-155. The Supreme Court of Kosovo is the apex court for civil and criminal matters; the Constitutional Court (Gjykata Kushtetuese) operates separate constitutional review. Family-law matters are heard at first instance in the Basic Courts (Gjykatat Themelore). Psychology profession is regulated through the Order of Psychologists of Kosovo. Kosovo is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Kosovo is not a [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) party due to partial recognition (cannot accede via UN/Hague Conference standard accession). Kosovo applies ECHR jurisprudence per Constitution art. 22 directly applicable, though not a Council of Europe member due to recognition constraint.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Kosovo is a Balkan civil-law unitary republic — partially recognised internati
 - **Family Law 2004 (Law 2004/32) arts. 130-155** — Family Law — Parental rights and custody (2004) — <https://www.gjyqesori-rks.org/>
   - Federal Family Law drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms. Arts. 130-155 govern parental rights and child custody.
 - **Law on Child Protection 2019 (Law 06/L-084)** — Law on Child Protection (2019) — <https://www.gjyqesori-rks.org/>
-  - Federal Law on Child Protection codifying child welfare provisions aligned with UNCRC obligations.
+  - Federal Law on Child Protection codifying child welfare provisions aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **Constitution 2008 art. 22 — direct ECHR application** — Constitution — Direct ECHR application (2008) — <https://www.gjk-ks.org/>
   - Constitutional provision making ECHR directly applicable in Kosovo despite non-membership in Council of Europe.
 

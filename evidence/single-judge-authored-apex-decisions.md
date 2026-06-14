@@ -5,7 +5,7 @@ A focused thematic synthesis of the structural pattern of single-judge authored 
 ## Single-judge apex decisions in the corpus
 
 ### England and Wales — Sir Andrew McFarlane P
-**Re Y [2026] EWFC 38** — Sir Andrew McFarlane P sitting alone (as President of the Family Division of the High Court). The decision establishes the UK-wide evaluator-quality apex authority via the HCPC-registration requirement. McFarlane P is also the author of the broader English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026).
+**Re Y [2026] EWFC 38** — Sir Andrew McFarlane P sitting alone (as President of the Family Division of the High Court). The decision establishes the UK-wide evaluator-quality apex authority via the [HCPC](https://www.hcpc-uk.org/)-registration requirement. McFarlane P is also the author of the broader English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026).
 
 The Re-arc is structurally distinctive in the corpus: a single senior judicial author developing apex doctrine across multiple appellate decisions. The authorial-consistency pattern lends doctrinal coherence to the English Re-arc that contrasts with multi-author lines (e.g., Italian Cassazione triad: Sez. I different rapporteurs across 13217/2021 + 9691/2022 + 4595/2025).
 

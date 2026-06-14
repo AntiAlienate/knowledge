@@ -8,7 +8,7 @@
 
 ## 1. Peer-reviewed clinical / empirical evidence that PA causes harm meeting child-abuse thresholds
 
-### 1.1 Harman, Kruk & Hines (2018) — *Psychological Bulletin* (APA flagship journal)
+### 1.1 [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) — *Psychological Bulletin* (APA flagship journal)
 
 **Citation.** Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental alienating behaviors: An unacknowledged form of family violence. *Psychological Bulletin*, 144(12), 1275–1299. https://doi.org/10.1037/bul0000175 — PMID 30475019. URL: https://pubmed.ncbi.nlm.nih.gov/30475019/
 
@@ -34,15 +34,15 @@
 
 **Citation.** Verrocchio, M. C., Marchetti, D., & Fulcheri, M. (2015). Perceived parental functioning, self-esteem, and psychological distress in adults whose parents are separated/divorced. *Frontiers in Psychology*, 6, 1760. https://doi.org/10.3389/fpsyg.2015.01760 — URL: https://www.frontiersin.org/articles/10.3389/fpsyg.2015.01760/full
 
-**What it shows.** Retrospective study of Italian adults of separated/divorced parents linking perceived alienating behaviours with elevated psychological distress and reduced self-esteem. Companion paper: Verrocchio, M. C., Baker, A. J. L., & Marchetti, D. (2015). Adult report of childhood exposure to parental alienation at different developmental time periods. *Journal of Family Therapy*, 40(4). Also: Verrocchio, Baker & Bernet (2016) Symptom Checklist-90-Revised study in *Annali dell'Istituto Superiore di Sanità* (PMID 25613416). https://pubmed.ncbi.nlm.nih.gov/25613416/
+**What it shows.** Retrospective study of Italian adults of separated/divorced parents linking perceived alienating behaviours with elevated psychological distress and reduced self-esteem. Companion paper: Verrocchio, M. C., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Marchetti, D. (2015). Adult report of childhood exposure to parental alienation at different developmental time periods. *Journal of Family Therapy*, 40(4). Also: Verrocchio, Baker & Bernet (2016) Symptom Checklist-90-Revised study in *Annali dell'Istituto Superiore di Sanità* (PMID 25613416). https://pubmed.ncbi.nlm.nih.gov/25613416/
 
 **\[secondary verification only]** for exact effect-size quotes; the empirical association between recalled alienating behaviour and adult distress is well established in the Verrocchio program of research, but quoting specific coefficients requires direct access to the published article.
 
 ---
 
-### 1.4 Bernet (2010, ed.); Bernet, von Boch-Galhau, Baker & Morrison (2010) — DSM-5/ICD-11 proposal and prevalence estimate
+### 1.4 Bernet (2010, ed.); Bernet, von Boch-Galhau, Baker & Morrison (2010) — [DSM-5](https://www.appi.org/products/dsm)/ICD-11 proposal and prevalence estimate
 
-**Citation.** Bernet, W. (Ed.). (2010). *Parental Alienation, DSM-5, and ICD-11*. Springfield, IL: Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental alienation, DSM-V, and ICD-11. *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
+**Citation.** Bernet, W. (Ed.). (2010). *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)*. Springfield, IL: Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental alienation, DSM-V, and ICD-11. *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
 
 **The 740,000 figure.** Bernet's widely-cited estimate works as follows: ~20% of U.S. children live in separated/divorced households; ~25% of those separations are high-conflict; ~25% of children in high-conflict separations become alienated → approximately 1% of U.S. children, or **~740,000 children and adolescents**. **\[secondary verification only]** — the calculation appears across Bernet's published work but the specific 740,000 figure is an *estimate*, not an epidemiologically validated prevalence.
 
@@ -72,7 +72,7 @@
 
 **What the evidence supports (high confidence).** Long-term exposure to a pattern of alienating behaviours is associated with measurable adverse mental-health outcomes in adulthood: depression, anxiety, substance use, trust difficulties, suicidal ideation, and intergenerational transmission. Multiple independent research groups across multiple countries report convergent qualitative and quantitative findings.
 
-**What the evidence does not yet establish (lower confidence).** That the construct "parental alienation" is a valid, reliable *diagnosis* in the medical sense; that prevalence figures (e.g., 740,000 in the U.S.) are epidemiologically robust; that alienation can be cleanly distinguished from estrangement secondary to actual abuse in every contested case. See Saini, Johnston, Fidler & Bala (2016) below.
+**What the evidence does not yet establish (lower confidence).** That the construct "parental alienation" is a valid, reliable *diagnosis* in the medical sense; that prevalence figures (e.g., 740,000 in the U.S.) are epidemiologically robust; that alienation can be cleanly distinguished from estrangement secondary to actual abuse in every contested case. See [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) below.
 
 ---
 
@@ -106,7 +106,7 @@
 
 ### 2.3 DSM-5 — V995.51 Child Psychological Abuse
 
-**Citation.** *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* (American Psychiatric Association, 2013), and DSM-5-TR (2022). Code **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (and T76.32XA Suspected). Defined as "non-accidental verbal or symbolic acts by a child's parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child."
+**Citation.** *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* (American Psychiatric Association, 2013), and [DSM-5-TR](https://www.appi.org/products/dsm) (2022). Code **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (and T76.32XA Suspected). Defined as "non-accidental verbal or symbolic acts by a child's parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child."
 
 **Crucial nuance.** DSM-5 does **not** list "parental alienation" as a discrete diagnosis. Bernet's proposal for a stand-alone diagnosis was rejected. The pro-PA-as-abuse argument is that *severe* alienating conduct *meets the existing criteria* for V995.51, not that PA itself is a DSM diagnosis. See Bernet, Wamboldt & Narrow (2016), *Journal of the American Academy of Child & Adolescent Psychiatry*. **\[secondary verification only]** for the exact JAACAP citation.
 
@@ -128,7 +128,7 @@ WHO further stated that "inclusion of a term for search purposes does not signif
 
 ---
 
-### 2.5 United Kingdom — Domestic Abuse Act 2021, s.1 and s.3
+### 2.5 United Kingdom — [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17), s.1 and s.3
 
 **Citation.** *Domestic Abuse Act 2021*, c. 17. URL: https://www.legislation.gov.uk/ukpga/2021/17
 
@@ -154,7 +154,7 @@ WHO further stated that "inclusion of a term for search purposes does not signif
 
 ## 3. Judicial findings characterising PA conduct as abuse
 
-### 3.1 *L. (A.G.) v. D. (K.B.)*, 2009 CanLII 943 (ON SC), Ont. Sup. Ct. (McWatt J.)
+### 3.1 *L. (A.G.) v. D. (K.B.)*, 2009 [CanLII](https://www.canlii.org/) 943 (ON SC), Ont. Sup. Ct. (McWatt J.)
 
 **Citation.** *L.(A.G.) v. D.(K.B.)*, 2009 CanLII 943 (Ontario Superior Court of Justice), Justice Faye E. McWatt presiding. Summary URL: https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/ ; APA *Monitor* coverage: https://www.apa.org/monitor/2009/04/alienation
 
@@ -168,7 +168,7 @@ WHO further stated that "inclusion of a term for search purposes does not signif
 
 ### 3.2 *Re A (Children) (Parental alienation)* [2019] EWFC B56 (Wildblood J.)
 
-**Citation.** *Re A (Children: Parental alienation)* [2019] EWFC B56, HHJ Stephen Wildblood QC. Available via BAILII (https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html) and CaseMine.
+**Citation.** *Re A (Children: Parental alienation)* [2019] EWFC B56, HHJ Stephen Wildblood QC. Available via [BAILII](https://www.bailii.org/) (https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html) and CaseMine.
 
 **Verbatim (judgment).** The judge held it "beyond doubt" that "in the long-term, what has occurred within this family will cause these children **significant and long-term emotional harm**, even if they cannot understand that now," characterising the mother's conduct as "deeply harmful" and placing the cause of harm "squarely with the mother."
 
@@ -217,7 +217,7 @@ These all require direct retrieval of the judgment text before any pull-quote ca
 
 ## 4. Professional body positions
 
-### 4.1 Parental Alienation Study Group (PASG)
+### 4.1 [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 
 **Source.** https://www.pasg.info/about
 
@@ -235,7 +235,7 @@ These all require direct retrieval of the judgment text before any pull-quote ca
 
 ---
 
-### 4.3 Association of Family and Conciliation Courts (AFCC)
+### 4.3 Association of Family and Conciliation Courts ([AFCC](https://www.afccnet.org/))
 
 **Source.** https://www.afccnet.org/
 
@@ -263,7 +263,7 @@ These all require direct retrieval of the judgment text before any pull-quote ca
 
 ---
 
-### 4.6 British Psychological Society (BPS), American Bar Association (ABA)
+### 4.6 British Psychological Society ([BPS](https://www.bps.org.uk/)), American Bar Association (ABA)
 
 Neither body has issued a categorical position equating PA with child abuse. The ABA Family Law Section has published practice materials (including the 2020 Lorandos/Bernet treatise distributed via ABA channels — https://www.americanbar.org/content/dam/aba-cms-dotorg/products/inv/book/409057869/chap-5130249.pdf), but ABA publication of a treatise is not an organisational endorsement. **\[secondary verification only]** — both bodies should be checked again before any claim of position is made.
 
@@ -277,7 +277,7 @@ See section 2.4 above. WHO has formally removed "parental alienation" as an ICD-
 
 ## 5. The strongest peer-reviewed critiques — PA should **not** be classified as child abuse
 
-### 5.1 Meier, Dickson, O'Sullivan, Rosen & Hayes (2020) — *Journal of Social Welfare and Family Law*
+### 5.1 [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Dickson, O'Sullivan, Rosen & Hayes (2020) — *Journal of Social Welfare and Family Law*
 
 **Citation.** Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 — full study: GW Law Faculty Publications, https://scholarship.law.gwu.edu/faculty_publications/1456/ ; SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062
 
@@ -289,7 +289,7 @@ See section 2.4 above. WHO has formally removed "parental alienation" as an ICD-
 
 ---
 
-### 5.2 Silberg & Dallam (2019) — "Abusers gaining custody"
+### 5.2 [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — "Abusers gaining custody"
 
 **Citation.** Silberg, J. L., & Dallam, S. (2019). Abusers gaining custody in family courts: A case series of overturned decisions. *Journal of Child Custody*, 16(2), 140–169. https://doi.org/10.1080/15379418.2019.1613204 — PDF: https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf
 
@@ -305,7 +305,7 @@ See section 2.4 above. WHO has formally removed "parental alienation" as an ICD-
 
 ---
 
-### 5.4 Mercer & Silberg (Eds.) (2023) — *Challenging Parental Alienation*
+### 5.4 [Mercer & Silberg](https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974) (Eds.) (2023) — *Challenging Parental Alienation*
 
 **Citation.** Mercer, J., & Silberg, J. L. (Eds.). (2023). *Challenging Parental Alienation: New Directions for Professionals and Parents*. Routledge.
 
@@ -382,7 +382,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 - Dallam & Silberg (2016) *J. Child Custody* 13(2-3):134-143 — https://irp-cdn.multiscreensite.com/0dab915e/files/uploaded/10.16%20Jrnl%20Child%20Custody%20Reunif%20Harm%20copy.pdf
 - Mercer & Silberg (Eds.) (2023) *Challenging Parental Alienation* — Routledge
 - Saini, Johnston, Fidler & Bala (2016) "Empirical studies of alienation" in *Parenting Plan Evaluations* (2nd ed., OUP) — https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
-- Johnston & Sullivan (2020) *Family Court Review* 58(2):270-292 — https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
+- [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) *Family Court Review* 58(2):270-292 — https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
 - UN OHCHR press release on Brazil law (Sept 2025; Special Rapporteur Reem Alsalem) — https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
 
 ---

@@ -52,7 +52,7 @@ When even one parent does this consistently, the loyalty conflict often resolves
 
 - Garrity, C. B., & Baris, M. A. (1994). *Caught in the Middle: Protecting the Children of High-Conflict Divorce.* Jossey-Bass.
 - Johnston, J. R., & Roseby, V. (1997). *In the Name of the Child.* Free Press.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 

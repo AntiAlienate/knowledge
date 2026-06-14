@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GT` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Guatemala is a Central American civil-law republic whose family-law framework operates under the Civil Code 1963 (Decreto Ley 106) Book I (Persons and Family), supplemented by the Children and Adolescents Protection Code 2003 (Decreto 27-2003) and the Family Court Law. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 252-282. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Corte de Constitucionalidad) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos de Guatemala under the Professional Colleges Law. Guatemala is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Protection Code art. 5. Guatemala acceded to the Hague Convention 1980 effective 1 May 2002.
+Guatemala is a Central American civil-law republic whose family-law framework operates under the Civil Code 1963 (Decreto Ley 106) Book I (Persons and Family), supplemented by the Children and Adolescents Protection Code 2003 (Decreto 27-2003) and the Family Court Law. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 252-282. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Corte de Constitucionalidad) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos de Guatemala under the Professional Colleges Law. Guatemala is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Protection Code art. 5. Guatemala acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 2002.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Guatemala is a Central American civil-law republic whose family-law framework op
 - **Civil Code 1963 (Decreto Ley 106) arts. 252-282** — Civil Code Book I — Persons and Family (1963) — <https://www.oj.gob.gt/>
   - Federal Civil Code Book I on Persons and Family. Arts. 252-282 govern patria potestad and child custody.
 - **Children and Adolescents Protection Code 2003 (Decreto 27-2003)** — Children and Adolescents Protection Code (2003) — <https://www.oj.gob.gt/>
-  - Federal Children and Adolescents Protection Code aligned with UNCRC obligations.
+  - Federal Children and Adolescents Protection Code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

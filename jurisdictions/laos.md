@@ -16,7 +16,7 @@ Laos is a Southeast Asian socialist-civil-law unitary state whose family-law fra
 - **Family Law 1990 (revised 2008) arts. 25-40** — Family Law — Parental rights and custody (1990) — <https://www.na.gov.la/>
   - Federal family-law statute. Arts. 25-40 govern parental rights and child custody. Substantively revised 2008.
 - **Law on the Protection of the Rights and Interests of Children 2007** — Law on Protection of Children's Rights and Interests (2007) — <https://www.na.gov.la/>
-  - Federal children's protection statute consistent with UNCRC obligations.
+  - Federal children's protection statute consistent with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

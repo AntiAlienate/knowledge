@@ -3,7 +3,7 @@
 **Jurisdiction code:** `FR` · **Legal system:** civil-law  
 **Language(s):** fr  
 
-France is a civil-law jurisdiction whose family courts operate through the juge aux affaires familiales (JAF) under the Code civil (autorité parentale arts. 371-1 et s.) and the Code de l'organisation judiciaire. The statutory framework is silent on 'syndrome d'aliénation parentale' (SAP) as a label, and the Cour de cassation, 1re Chambre civile, 26 juin 2013 (n° 12-14.392) shielded the cour d'appel's appréciation souveraine without consecrating SAP as a recognised construct. The PA landscape is institutionally asymmetric — no autorité publique has endorsed SAP; the recognition camp rests on roughly three clinicians (Bensussan, Delfieu, Biolley) plus one NGO (ACALPA / Olga Odinetz), with zero university chair and zero société savante endorsement.
+France is a civil-law jurisdiction whose family courts operate through the juge aux affaires familiales (JAF) under the [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) (autorité parentale arts. 371-1 et s.) and the Code de l'organisation judiciaire. The statutory framework is silent on 'syndrome d'aliénation parentale' (SAP) as a label, and the Cour de cassation, 1re Chambre civile, 26 juin 2013 (n° 12-14.392) shielded the cour d'appel's appréciation souveraine without consecrating SAP as a recognised construct. The PA landscape is institutionally asymmetric — no autorité publique has endorsed SAP; the recognition camp rests on roughly three clinicians (Bensussan, Delfieu, Biolley) plus one NGO (ACALPA / Olga Odinetz), with zero university chair and zero société savante endorsement.
 
 ## PA recognition status
 

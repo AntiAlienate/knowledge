@@ -34,7 +34,7 @@
 
 ## How courts handle MCA in PA cases
 
-When MCA is documented, the court's calculus shifts: the alienating parent's "concern for the child" reframes as *child psychological abuse* under DSM-5 V995.51. This often triggers custody modification + child-protection-services involvement under mandatory-reporting frameworks.
+When MCA is documented, the court's calculus shifts: the alienating parent's "concern for the child" reframes as *child psychological abuse* under [DSM-5](https://www.appi.org/products/dsm) V995.51. This often triggers custody modification + child-protection-services involvement under mandatory-reporting frameworks.
 
 The UK Court of Appeal recognized this pattern explicitly in *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568 — religious-group involvement was the unusual feature, but the substantive holding addressed engineered child distress + medicalization.
 
@@ -55,7 +55,7 @@ The UK Court of Appeal recognized this pattern explicitly in *Re S (Parental Ali
 
 - Roesler, T. A., & Jenny, C. (2009). *Medical Child Abuse.* American Academy of Pediatrics.
 - DSM-5 V300.19 — FDIA · DSM-5 V995.51 — Child Psychological Abuse
-- WHO ICD-11 6D52 — Caregiver-Fabricated Illness in a Child
+- WHO [ICD-11](https://icd.who.int/) 6D52 — Caregiver-Fabricated Illness in a Child
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568
 
 ## Disclaimer

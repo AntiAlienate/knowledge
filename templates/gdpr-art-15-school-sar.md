@@ -28,7 +28,7 @@ This is one of the most under-used evidence-gathering tools in PA cases. Schools
 >
 > I am writing to make a Subject Access Request under Article 15 of the [EU GDPR / UK GDPR] and the Data Protection Act 2018 for personal data concerning my child, [child's full name], date of birth [DOB], currently enrolled at [school name] in [year group / class].
 >
-> I am the child's [father / mother] and hold parental responsibility under [s. 2(1) of the Children Act 1989 / equivalent in your jurisdiction]. A copy of [the birth certificate / court order confirming parental responsibility] is enclosed.
+> I am the child's [father / mother] and hold parental responsibility under [s. 2(1) of the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) / equivalent in your jurisdiction]. A copy of [the birth certificate / court order confirming parental responsibility] is enclosed.
 >
 > Please provide, in any reasonably accessible format:
 >

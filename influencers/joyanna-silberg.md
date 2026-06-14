@@ -14,8 +14,8 @@ Anyone serious about PA literacy must read Silberg — her critique is what good
 
 ## Key contributions
 
-- **Mercer & Silberg (2016)**, "Recommended treatments for 'parental alienation syndrome' (PAS) may cause children foreseeable and lasting psychological harm," *Journal of Child Custody*.
-- **Silberg & Dallam (2019)**, "Abusers gaining custody in family courts," *Journal of Child Custody* — case series on overturned custody orders that is the headline document used by safeguarding groups and the Center for Judicial Excellence.
+- **[Mercer & Silberg (2016](https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974))**, "Recommended treatments for 'parental alienation syndrome' (PAS) may cause children foreseeable and lasting psychological harm," *Journal of Child Custody*.
+- **[Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204))**, "Abusers gaining custody in family courts," *Journal of Child Custody* — case series on overturned custody orders that is the headline document used by safeguarding groups and the Center for Judicial Excellence.
 
 ## Where to find her work
 

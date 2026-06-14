@@ -3,7 +3,7 @@
 **Jurisdiction code:** `CG` · **Legal system:** civil-law  
 **Language(s):** fr  
 
-The Republic of the Congo (Congo-Brazzaville) is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1984 (Code de la Famille, Law 73/84 of 17 October 1984) drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 322-345. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. Republic of the Congo is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Republic of the Congo acceded to the Hague Convention 1980 effective 1 March 2009.
+The Republic of the Congo (Congo-Brazzaville) is a Central African civil-law unitary republic whose family-law framework operates under the Family Code 1984 (Code de la Famille, Law 73/84 of 17 October 1984) drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Parental authority and child custody are governed by Family Code arts. 322-345. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Grande Instance). Psychology profession is regulated through the Ministry of Health framework. Republic of the Congo is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Republic of the Congo acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2009.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ The Republic of the Congo (Congo-Brazzaville) is a Central African civil-law uni
 - **Family Code 1984 (Law 73/84) arts. 322-345** — Family Code — Parental authority and custody (1984) — <https://www.justice.gouv.cg/>
   - Federal Family Code drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 322-345 govern parental authority and child custody.
 - **Law on Child Protection 2010 (Law 4-2010)** — Law on Child Protection (2010) — <https://www.justice.gouv.cg/>
-  - Federal Law on Child Protection aligned with UNCRC obligations.
+  - Federal Law on Child Protection aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

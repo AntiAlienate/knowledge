@@ -41,7 +41,7 @@ location_tags: [europe, european-union, brussels-iib, cross-border, hague-integr
 
 The child's **habitual residence** at the time the court is seised determines jurisdiction. This is the procedural anchor when a parent has moved a child cross-border to a different EU member state.
 
-### Article 22 — Hague Convention 1980 integration
+### Article 22 — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) integration
 
 When Hague return proceedings are pending under Brussels IIb, the receiving state's court has **6 weeks** to adjudicate. Procedural deadlines for each stage are specified.
 

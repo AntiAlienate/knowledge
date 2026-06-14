@@ -2,11 +2,11 @@
 
 **Court:** European Court of Human Rights (Section)  
 **Decided:** 2017-05-04  
-**Panel:** First Section, Chamber of seven judges; President Linos-Alexandre Sicilianos; Italian judge ex officio Guido Raimondi (Court President at the relevant time). The full seven-judge bench is recorded on the face of the judgment in HUDOC.  
+**Panel:** First Section, Chamber of seven judges; President Linos-Alexandre Sicilianos; Italian judge ex officio Guido Raimondi (Court President at the relevant time). The full seven-judge bench is recorded on the face of the judgment in [HUDOC](https://hudoc.echr.coe.int/).  
 
 ## Why this case matters
 
-Chamber judgment of the First Section of the European Court of Human Rights finding Italy in violation of Article 8 ECHR for failing to enforce a father's contact rights with his very young daughter. The Court held that the cumulative delays of the Naples Tribunale per i minorenni — roughly a year before any binding contact order, approximately 15 months for the court-appointed expert report, and the Court of Appeal's refusal to commission an updated assessment — amounted to a breach of Italy's positive obligation under Article 8 to act with exceptional diligence in proceedings concerning a young child's relationship with the non-resident parent. Improta sits in a continuing line of ECtHR judgments against Italy (Lombardo 2013; Strumia 2016; Solarino, R.V. and Others) holding that institutional passivity in the face of a resident parent's unilateral restriction of contact is itself an Article 8 violation.
+Chamber judgment of the First Section of the European Court of Human Rights finding Italy in violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) for failing to enforce a father's contact rights with his very young daughter. The Court held that the cumulative delays of the Naples Tribunale per i minorenni — roughly a year before any binding contact order, approximately 15 months for the court-appointed expert report, and the Court of Appeal's refusal to commission an updated assessment — amounted to a breach of Italy's positive obligation under Article 8 to act with exceptional diligence in proceedings concerning a young child's relationship with the non-resident parent. Improta sits in a continuing line of ECtHR judgments against Italy (Lombardo 2013; Strumia 2016; Solarino, R.V. and Others) holding that institutional passivity in the face of a resident parent's unilateral restriction of contact is itself an Article 8 violation.
 
 ## Procedural history
 

@@ -13,9 +13,9 @@ related_research: [Baker 2007 adult studies, Baker-Fine 2014, Harman 2018, Fried
 
 ## TL;DR
 
-Dr William Bernet (Vanderbilt University, Emeritus Professor of Psychiatry) is the most-cited author in the modern parental-alienation literature. From 2008 onward, he led the Parental Alienation Disorder Work Group's formal effort to include "Parental Alienation Disorder" in DSM-5. Although the standalone diagnosis was rejected, the DSM-5 work group accepted relational-distress codes (V61.29 — Child Affected by Parental Relationship Distress) that practitioners now use to operationalize PA in clinical and forensic settings. Bernet also led the successful campaign to include "Caregiver-child relationship problem" (QE52) in ICD-11. His 5-criteria diagnostic framework remains the field's diagnostic gatekeeper.
+Dr William Bernet (Vanderbilt University, Emeritus Professor of Psychiatry) is the most-cited author in the modern parental-alienation literature. From 2008 onward, he led the Parental Alienation Disorder Work Group's formal effort to include "Parental Alienation Disorder" in [DSM-5](https://www.appi.org/products/dsm). Although the standalone diagnosis was rejected, the DSM-5 work group accepted relational-distress codes (V61.29 — Child Affected by Parental Relationship Distress) that practitioners now use to operationalize PA in clinical and forensic settings. Bernet also led the successful campaign to include "Caregiver-child relationship problem" (QE52) in [ICD-11](https://icd.who.int/). His 5-criteria diagnostic framework remains the field's diagnostic gatekeeper.
 
-## The 5 Essential Criteria (Bernet et al., 2010)
+## The 5 Essential Criteria ([Bernet et al.](https://pasg.info/), 2010)
 
 ALL FIVE must be present to consider parental alienation as the working clinical formulation:
 
@@ -23,7 +23,7 @@ ALL FIVE must be present to consider parental alienation as the working clinical
 2. **The presence of a prior positive relationship** between the child and the now-rejected parent.
 3. **The absence of abuse, neglect, or seriously deficient parenting** on the part of the now-rejected parent.
 4. **The use of multiple alienating behaviors** on the part of the favored parent.
-5. **The exhibition of many or all of the eight behavioral manifestations** of alienation by the child (Baker's 8 indicators).
+5. **The exhibition of many or all of the eight behavioral manifestations** of alienation by the child ([Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators).
 
 If any criterion is missing, the diagnostic formulation shifts — possibly to estrangement, justified resistance, or alternative attachment dynamics. The framework's diagnostic power lies in its exclusionary rigor: it protects against both false positives (mislabeling abuse) and false negatives (dismissing real alienation).
 
@@ -53,7 +53,7 @@ ICD-11 inclusion provides:
 - Bernet, W. (2008). Parental alienation disorder and DSM-V. *American Journal of Family Therapy*, 36(5), 349-366.
 - Bernet, W., et al. (2010). Parental alienation, DSM-5, and ICD-11. *American Journal of Family Therapy*, 38(2), 76-187.
 - Bernet, W., et al. (2018). Reliability and validity of the five-factor parental alienation scale (FFPAS). *Frontiers in Psychology*, 9, 1996.
-- Bernet, W., & Greenhill, L. L. (2022). The Parental Alienation Study Group. *Journal of the American Academy of Child & Adolescent Psychiatry*, 61(3), 354-356.
+- Bernet, W., & Greenhill, L. L. (2022). The [Parental Alienation Study Group](https://pasg.info/). *Journal of the American Academy of Child & Adolescent Psychiatry*, 61(3), 354-356.
 
 ## Clinical Application
 
@@ -74,7 +74,7 @@ The 5 criteria operate as a structured screening protocol — courts that adopt 
 | Baker (2007) | Adult-outcomes empirical study | Long-term harm evidence |
 | Baker-Fine (2014) | 17 practitioner strategies | Operational guidance |
 | Friedlander-Walters (2010) | MMFI typology | Severity stratification |
-| Warshak (2015) | Resist-refuse continuum | Clinical conceptualization |
+| [Warshak](https://warshak.com/family-bridges/) (2015) | Resist-refuse continuum | Clinical conceptualization |
 | Harman (2018) | Family-violence reframe | Paradigm shift to abuse model |
 
 Bernet's role: gatekeeper. Apply his 5 before applying any other framework.

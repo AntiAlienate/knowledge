@@ -18,7 +18,7 @@ Iceland is a Nordic civil-law unitary republic whose family-law framework operat
 - **Lög um heilbrigðisstarfsmenn 34/2012** — Health Care Personnel Act 34/2012 (2012) — <https://www.althingi.is/lagas/nuna/2012034.html>
   - Federal statute regulating health care professionals including psychologists. Statutorily protected title 'sálfræðingur' requires licence issued by Embætti landlæknis (Directorate of Health).
 - **Law 19/2013 — UN CRC incorporation** — UN CRC as Icelandic law (2013) — <https://www.althingi.is/lagas/nuna/2013019.html>
-  - Federal statute incorporating UN Convention on the Rights of the Child into Icelandic law in force 20 February 2013 — provides direct domestic-law standing for CRC provisions in family-court decision-making.
+  - Federal statute incorporating [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) into Icelandic law in force 20 February 2013 — provides direct domestic-law standing for CRC provisions in family-court decision-making.
 
 ## Apex courts
 

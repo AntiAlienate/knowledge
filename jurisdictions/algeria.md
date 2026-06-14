@@ -16,7 +16,7 @@ Algeria is a North African mixed-legal-system republic combining French civil-la
 - **Family Code 1984 (Ordonnance 05-02 amendments 2005) arts. 64-72** — Family Code — Custody and guardianship (1984) — <https://www.joradp.dz/>
   - Federal Family Code drawn from Maliki Islamic-law tradition. Substantially amended 2005 (Ordonnance 05-02) raising marriage age, codifying judicial divorce, expanding custody provisions. Arts. 64-72 govern hadana (custody) and wilaya (guardianship).
 - **Law on Child Protection 12-15 of 2015** — Law on Child Protection (2015) — <https://www.joradp.dz/>
-  - Federal children's protection statute aligned with UNCRC obligations.
+  - Federal children's protection statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

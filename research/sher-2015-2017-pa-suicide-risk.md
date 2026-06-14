@@ -62,7 +62,7 @@ The targeted-parent-mental-health research stack:
 - **Boss (1999)** — ambiguous loss framework
 - **Sher (2015, 2017)** — elevated suicide risk + broader mental-health impact (this entry)
 - **Harman/Kruk/Hines (2018)** — family-violence reframe (frames PA as harm to both child + targeted parent)
-- **Baker (2007)** — adult-children-of-PA outcomes
+- **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — adult-children-of-PA outcomes
 - **Schore (2001), van der Kolk (2014)** — neuroscience underpinning
 
 Combined: a complete clinical-evidence base supporting both **child harm** and **targeted-parent harm** as named, documented, treatable clinical conditions.

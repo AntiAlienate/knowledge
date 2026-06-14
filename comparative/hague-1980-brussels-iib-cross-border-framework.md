@@ -15,7 +15,7 @@ International parental-alienation cases typically involve multiple overlapping l
 
 ## The Three Instruments
 
-### Hague Convention 1980 — Child Abduction
+### [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) — Child Abduction
 **Full name**: Hague Convention on the Civil Aspects of International Child Abduction (1980)
 
 **Purpose**: Provides for the prompt RETURN of children wrongfully removed or retained across borders.
@@ -31,7 +31,7 @@ International parental-alienation cases typically involve multiple overlapping l
 
 **Key principle**: NOT about custody merits. About prompt return + custody-merits litigation in country of habitual residence.
 
-### Hague Convention 1996 — Parental Responsibility
+### [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) — Parental Responsibility
 **Full name**: Hague Convention on Jurisdiction, Applicable Law, Recognition, Enforcement and Co-operation in respect of Parental Responsibility and Measures for the Protection of Children (1996)
 
 **Purpose**: Allocates JURISDICTION between countries for ongoing parental-responsibility decisions; provides for RECOGNITION of foreign orders.
@@ -119,7 +119,7 @@ Key recent jurisprudence:
 
 The Art. 13(b) tension reflects the underlying conflict between Hague's prompt-return imperative and ECHR's positive-obligation family-life doctrine.
 
-## ECHR Article 8 Interaction
+## [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) Interaction
 
 For Council of Europe states, Hague return procedures must respect ECHR Article 8 family-life. Strand Lobben + Improta + Bondavalli line doctrine applies:
 - State has positive obligation to take effective measures
@@ -156,7 +156,7 @@ See repo's jurisdiction-specific entries for national framework details:
 | Post | URL |
 |------|-----|
 | International Custody Battles | https://antialienate.com/blog/international-custody-battles-your-rights |
-| Article 8 ECHR Stack | https://antialienate.com/blog/article-8-echr-parental-alienation |
+| [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) Stack | https://antialienate.com/blog/article-8-echr-parental-alienation |
 | Non-Hague Jurisdiction Complications | https://antialienate.com/blog/when-international-authorities-intervene-custody-dual-citizen |
 | Global Crackdown PA Laws | https://antialienate.com/blog/global-crackdown-parental-alienation-laws |
 

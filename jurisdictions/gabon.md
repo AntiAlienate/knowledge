@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GA` · **Legal system:** civil-law  
 **Language(s):** fr  
 
-Gabon is a Central African civil-law unitary republic whose family-law framework operates under the Civil Code (Code Civil) drawing on French civil-law substantive heritage, supplemented by Law 19/89 on the Civil Code (Family Provisions) and Law 39/2010 on Children's Rights Protection. Parental authority and child custody are governed by Civil Code arts. 373-396. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Gabon is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Gabon acceded to the Hague Convention 1980 effective 1 February 2011.
+Gabon is a Central African civil-law unitary republic whose family-law framework operates under the Civil Code (Code Civil) drawing on French civil-law substantive heritage, supplemented by Law 19/89 on the Civil Code (Family Provisions) and Law 39/2010 on Children's Rights Protection. Parental authority and child custody are governed by Civil Code arts. 373-396. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Gabon is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Gabon acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 2011.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Gabon is a Central African civil-law unitary republic whose family-law framework
 - **Civil Code (Law 19/89 on Family) arts. 373-396** — Civil Code Family Provisions — Parental authority (1989) — <https://www.justice.gouv.ga/>
   - Federal Civil Code Family Provisions drawing on French civil-law substantive heritage. Arts. 373-396 govern parental authority and child custody.
 - **Law on Children's Rights Protection 2010 (Law 39/2010)** — Law on Children's Rights Protection (2010) — <https://www.justice.gouv.ga/>
-  - Federal Law on Children's Rights Protection aligned with UNCRC obligations.
+  - Federal Law on Children's Rights Protection aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

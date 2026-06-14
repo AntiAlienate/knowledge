@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GB-NIR` · **Legal system:** common-law  
 **Language(s):** en, ga  
 
-Northern Ireland operates a distinct common-law family-law jurisdiction within the United Kingdom. The substantive statute is the Children (Northern Ireland) Order 1995 (Sewel-style Order in Council mirroring Children Act 1989 but distinct), litigated in the High Court of Justice and Court of Judicature of Northern Ireland. The Lady Chief Justice Rt Hon Dame Siobhan Keegan DBE KC (sworn 2.9.2021, first woman LCJ in NI history) was previously a family-law silk and Senior Family Judge of the High Court NI (2020-2021), giving NI's family judiciary unusual structural sophistication. The clearest current NI judicial engagement with alienating-style dynamic — without explicit PA label — is Mr Justice O'Hara's August 2022 judgment in A Father v A Mother (re NI, male child aged 10) (No. 2). Institutionally the critique pole is Women's Aid Federation NI (WAFNI), whose 25 June 2020 PA briefing is the only NI-specific WA published institutional position. NI Family Bar Association (Bar of NI) is institutional bar gateway.
+Northern Ireland operates a distinct common-law family-law jurisdiction within the United Kingdom. The substantive statute is the Children (Northern Ireland) Order 1995 (Sewel-style Order in Council mirroring [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) but distinct), litigated in the High Court of Justice and Court of Judicature of Northern Ireland. The Lady Chief Justice Rt Hon Dame Siobhan Keegan DBE KC (sworn 2.9.2021, first woman LCJ in NI history) was previously a family-law silk and Senior Family Judge of the High Court NI (2020-2021), giving NI's family judiciary unusual structural sophistication. The clearest current NI judicial engagement with alienating-style dynamic — without explicit PA label — is Mr Justice O'Hara's August 2022 judgment in A Father v A Mother (re NI, male child aged 10) (No. 2). Institutionally the critique pole is Women's Aid Federation NI (WAFNI), whose 25 June 2020 PA briefing is the only NI-specific WA published institutional position. NI Family Bar Association (Bar of NI) is institutional bar gateway.
 
 ## PA recognition status
 
@@ -44,10 +44,10 @@ Northern Ireland operates a distinct common-law family-law jurisdiction within t
 
 - **Bar of Northern Ireland — Family Bar Association** — NI Family Bar Association is the institutional gateway to the practising NI family bar. No formal NI-specific PA position issued; engagement at individual-practitioner level. — <https://www.barofni.com/>
 - **Law Society of Northern Ireland** — Statutory regulator for NI solicitors. No PA-specific NI position. — <https://www.lawsoc-ni.org/>
-- **Northern Ireland Guardian Ad Litem Agency (NIGALA)** — NI's statutory child-welfare reporting body — NI analogue to England's Cafcass and Wales' Cafcass Cymru. Provides guardian ad litem service in family proceedings. No NI-specific PA position; engagement at individual-case welfare-report level. — <https://nigala.hscni.net/>
+- **Northern Ireland Guardian Ad Litem Agency (NIGALA)** — NI's statutory child-welfare reporting body — NI analogue to England's [Cafcass](https://www.cafcass.gov.uk/) and Wales' Cafcass Cymru. Provides guardian ad litem service in family proceedings. No NI-specific PA position; engagement at individual-case welfare-report level. — <https://nigala.hscni.net/>
 - **Women's Aid Federation Northern Ireland (WAFNI)** — NI federation-aligned women's-aid body. 25 June 2020 PA briefing is the ONLY NI-specific WA published institutional position on the parental-alienation construct. Critique-camp institutional anchor for NI. — <https://www.womensaidni.org/>
-- **Health and Care Professions Council (HCPC)** — UK-wide statutory regulator for practitioner psychologists. Applies in NI. No NI-specific PA position. — <https://www.hcpc-uk.org/>
-- **British Psychological Society — Northern Ireland branch** — BPS NI branch — operational subsidiary of UK-wide BPS. No NI-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/northern-ireland>
+- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — UK-wide statutory regulator for practitioner psychologists. Applies in NI. No NI-specific PA position. — <https://www.hcpc-uk.org/>
+- **British Psychological Society — Northern Ireland branch** — [BPS](https://www.bps.org.uk/) NI branch — operational subsidiary of UK-wide BPS. No NI-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/northern-ireland>
 - **Queen's University Belfast (QUB) — Dr Mairead McCormack DChild 2021** — QUB-based DChild 2021 thesis is the only NI-specific empirical study of how PA is treated by NI family-court professionals. Single NI academic anchor in PA-specific field. — <https://pure.qub.ac.uk/>
 
 ## Anonymisation convention
@@ -89,7 +89,7 @@ NI family-court judgments anonymise children by initial; adult parties may be na
 ## Sources
 
 1. **Judiciary NI — judiciaryni.uk** — <https://www.judiciaryni.uk/> (Judiciary of Northern Ireland) [en]
-2. **UK Legislation — legislation.gov.uk (NI)** — <https://www.legislation.gov.uk/> (UK Government) [en]
+2. **UK Legislation — [legislation.gov.uk](https://www.legislation.gov.uk/) (NI)** — <https://www.legislation.gov.uk/> (UK Government) [en]
 3. **Bar of Northern Ireland** — <https://www.barofni.com/> (Bar of NI) [en]
 4. **Law Society of NI** — <https://www.lawsoc-ni.org/> (LSNI) [en]
 5. **NIGALA — Northern Ireland Guardian Ad Litem Agency** — <https://nigala.hscni.net/> (HSCNI) [en]

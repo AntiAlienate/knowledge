@@ -16,7 +16,7 @@ Equatorial Guinea is a Central African civil-law republic — structurally disti
 - **Civil Code 1889 (Spanish-derivative residual) arts. 154-171** — Civil Code — Patria potestad (residual) (1889) — <https://www.tribunalsupremogq.gq/>
   - Federal Civil Code drawing on Spanish Civil Code 1889 substantive heritage applied residually.
 - **Law 5/1999 on Children** — Law on Children (1999) — <https://www.tribunalsupremogq.gq/>
-  - Federal Law on Children aligned in part with UNCRC obligations.
+  - Federal Law on Children aligned in part with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

@@ -3,7 +3,7 @@
 **Jurisdiction code:** `LI` · **Legal system:** civil-law  
 **Language(s):** de  
 
-Liechtenstein is a Central European civil-law constitutional monarchy whose family-law framework operates under the General Civil Code (Allgemeines Bürgerliches Gesetzbuch, ABGB — adopted from Austria with substantial modernisation) supplemented by the Children and Youth Act 2008 (Kinder- und Jugendgesetz). Parental responsibility (Obsorge) and child custody are governed by ABGB §§ 137-186. The Supreme Court of Liechtenstein (Oberster Gerichtshof) is the apex court for civil and criminal matters; the Constitutional Court (Staatsgerichtshof) operates separate constitutional review. Family-law matters are heard at first instance in the Princely Court (Fürstliches Landgericht). Psychology profession is regulated through the Liechtenstein Office of Public Health (Amt für Gesundheit) framework. Liechtenstein is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Liechtenstein acceded to the Hague Convention 1980 effective 1 February 1998. Liechtenstein is a Council of Europe member subject to ECHR jurisdiction.
+Liechtenstein is a Central European civil-law constitutional monarchy whose family-law framework operates under the General Civil Code (Allgemeines Bürgerliches Gesetzbuch, ABGB — adopted from Austria with substantial modernisation) supplemented by the Children and Youth Act 2008 (Kinder- und Jugendgesetz). Parental responsibility (Obsorge) and child custody are governed by ABGB §§ 137-186. The Supreme Court of Liechtenstein (Oberster Gerichtshof) is the apex court for civil and criminal matters; the Constitutional Court (Staatsgerichtshof) operates separate constitutional review. Family-law matters are heard at first instance in the Princely Court (Fürstliches Landgericht). Psychology profession is regulated through the Liechtenstein Office of Public Health (Amt für Gesundheit) framework. Liechtenstein is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Liechtenstein acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 1998. Liechtenstein is a Council of Europe member subject to ECHR jurisdiction.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Liechtenstein is a Central European civil-law constitutional monarchy whose fami
 - **General Civil Code (ABGB) §§ 137-186** — General Civil Code — Parental responsibility (Obsorge) (1812) — <https://www.gesetze.li/>
   - Federal civil code adopted from Austria with substantial modernisation. §§ 137-186 govern parental responsibility and child custody.
 - **Children and Youth Act 2008 (Kinder- und Jugendgesetz)** — Children and Youth Act (2008) — <https://www.gesetze.li/>
-  - Federal Children and Youth Act codifying child welfare provisions aligned with UNCRC obligations.
+  - Federal Children and Youth Act codifying child welfare provisions aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

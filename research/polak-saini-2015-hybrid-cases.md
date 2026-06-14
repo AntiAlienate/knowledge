@@ -9,7 +9,7 @@ related_research: [Friedlander-Walters 2010, Bernet 2008, Warshak 2015, Fidler-B
 location_tags: [global, english-language, hybrid-cases, clinical-framework]
 ---
 
-# Polak & Saini 2015 — Hybrid Cases: The "Messy Middle" of Parental Alienation
+# Polak & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2015 — Hybrid Cases: The "Messy Middle" of Parental Alienation
 
 ## TL;DR
 
@@ -53,7 +53,7 @@ Polak and Saini argue: hybrid cases require intervention targeting BOTH the alie
 Polak-Saini reinforces what good evaluators already did: don't conclude "alienation" or "estrangement" from a single dimension. Triangulate across multiple data sources and multiple dimensions before formulating an opinion.
 
 ### For Reunification Therapy
-Pure alienation may respond to alienating-parent-focused interventions (e.g., Family Bridges). Pure estrangement requires rejected-parent rehabilitation. Hybrid cases require BOTH:
+Pure alienation may respond to alienating-parent-focused interventions (e.g., [Family Bridges](https://warshak.com/family-bridges/)). Pure estrangement requires rejected-parent rehabilitation. Hybrid cases require BOTH:
 - Address alienating behaviors of favored parent
 - Provide therapeutic support to address rejected parent's deficits
 - Acknowledge to the child that BOTH sets of concerns are valid
@@ -71,9 +71,9 @@ Hybrid cases tend to produce orders that:
 |-----------|----------|
 | Bernet 5 criteria | Diagnostic gatekeeper (pure alienation?) |
 | Friedlander-Walters MMFI | 4-category severity typology |
-| Warshak resist-refuse | Continuum from affinity to alienated |
+| [Warshak](https://warshak.com/family-bridges/) resist-refuse | Continuum from affinity to alienated |
 | **Polak-Saini hybrid** | **Multi-dimensional assessment for messy-middle cases** |
-| Baker-Fine 17 strategies | Operational targeted-parent guidance |
+| [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Operational targeted-parent guidance |
 | Harman family-violence | Paradigm shift to abuse model |
 
 Polak-Saini complements Warshak's resist-refuse continuum by providing the assessment dimensions that locate a case on the continuum. Where Warshak says "continuum exists," Polak-Saini says "here are the dimensions to assess location."
@@ -87,7 +87,7 @@ Polak-Saini complements Warshak's resist-refuse continuum by providing the asses
 
 Polak-Saini hybrid framing is now standard in:
 - Canadian custody-evaluation practice
-- AFCC (Association of Family and Conciliation Courts) practitioner guidelines
+- [AFCC](https://www.afccnet.org/) (Association of Family and Conciliation Courts) practitioner guidelines
 - US court-appointed parenting coordinator training
 - Cited in Re C [2023] EWHC 345 (UK) reasoning
 - Cited in Cass civ 1re French rulings post-2017

@@ -48,7 +48,7 @@ Appellate consolidation of the post-Re C [2023] line: residence-transfer orders 
 
 ### Strand Lobben and Others v Norway, Grand Chamber 2019 (App. no. 37283/13)
 
-Article 8 ECHR positive-obligations doctrine: states must actively support family-ties restoration — not merely observe their failure. The pan-European anchor for PA cases that escalate to Strasbourg. *"Article 8 imposes a positive obligation on the State, going beyond procedural fairness, to take measures to facilitate the reunification of parent and child"* (§ 205).
+[Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) positive-obligations doctrine: states must actively support family-ties restoration — not merely observe their failure. The pan-European anchor for PA cases that escalate to Strasbourg. *"Article 8 imposes a positive obligation on the State, going beyond procedural fairness, to take measures to facilitate the reunification of parent and child"* (§ 205).
 
 ### Improta v Italy, App. no. 66396/14 (Chamber, 2021)
 

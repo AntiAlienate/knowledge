@@ -21,7 +21,7 @@ The institutionally-weighted critique base is anchored by the NZ Family Violence
 ## Recognition camp
 
 ### Jill Goldson, MA (Hons), CQSW
-*MA (Hons); CQSW; post-graduate qualification in Parental Alienation Studies (Institute of Family Therapy, Malta 2022); Resolution Institute Fellow; AMINZ Associate; Ministry of Justice approved Family Dispute Resolution provider; PASG member*
+*MA (Hons); CQSW; post-graduate qualification in Parental Alienation Studies (Institute of Family Therapy, Malta 2022); Resolution Institute Fellow; AMINZ Associate; Ministry of Justice approved Family Dispute Resolution provider; [PASG](https://pasg.info/) member*
 Auckland · Auckland · Director, The Family Matters Centre, Auckland; private mediation and counselling practice
 
 **Stance:** Single highest-profile NZ recognition-camp clinician. The Goldson Model (child-inclusive separation mediation framework) has been adopted by the NZ government for the 'Bridging the Gap' online child-inclusive mediation programme — making this the only NZ recognition-camp methodological framework with government-adopted status. Self-described work focus: 'I help separated parents and the professionals who work with them, to understand the benefits of child inclusive mediation and how to manage issues of parental alienation' (jillgoldson.co.nz). Family Matters Centre PA page differentiates conflict-reaction, justified rejection and true PA. Trained 2018 with Karen Woodall at the Family Separation Clinic London; post-graduate qualification in Parental Alienation Studies, Institute of Family Therapy (Malta) 2022. Not NZ Psychologists Board-registered — counsellor / social-work / mediator scope under NZAC + MOJ FDR regulatory footing, not s.133 specialist report writer.
@@ -270,7 +270,7 @@ Dunedin · Otago · Associate Professor (retired/honorary status not publicly co
 *PhD; Professor and Alexander McMillan Leading Thinker Chair in Childhood Studies; Director, Children's Issues Centre, Faculty of Law, University of Otago*
 Dunedin · Otago · Children's Issues Centre, Faculty of Law, University of Otago
 
-**Stance:** Single most-cited NZ academic middle-camp voice with explicit AFCC alienation-conference platform presence — the natural NZ counterpart to AU's Belinda Fehlberg or Helen Rhoades. Taylor presented 'The Role of Children in 1980 Hague Child Convention Proceedings and Other High Conflict Parenting Disputes (Estrangement Alienation Relocation and Entrenched Conflict)' at AFCC Preconference Institute 'Alienation? Myths Complexities and Possibilities' (Adelaide); Taylor, Gollop & Liebergreen (2019) 'Parenting Arrangements After Separation Study: Evaluating the 2014 Family Law Reforms. Family Justice Professionals' Perspectives' NZLFRRp 8 (identifies alienation as one of the concerns raised by NZ family-justice professionals); Otago Law Review inaugural professorial lecture (2023). Law-faculty-affiliated childhood-studies academic, not psychology-scope. Children's Issues Centre is the citable NZ institutional gateway for child-inclusive practice research.
+**Stance:** Single most-cited NZ academic middle-camp voice with explicit [AFCC](https://www.afccnet.org/) alienation-conference platform presence — the natural NZ counterpart to AU's Belinda Fehlberg or Helen Rhoades. Taylor presented 'The Role of Children in 1980 Hague Child Convention Proceedings and Other High Conflict Parenting Disputes (Estrangement Alienation Relocation and Entrenched Conflict)' at AFCC Preconference Institute 'Alienation? Myths Complexities and Possibilities' (Adelaide); Taylor, Gollop & Liebergreen (2019) 'Parenting Arrangements After Separation Study: Evaluating the 2014 Family Law Reforms. Family Justice Professionals' Perspectives' NZLFRRp 8 (identifies alienation as one of the concerns raised by NZ family-justice professionals); Otago Law Review inaugural professorial lecture (2023). Law-faculty-affiliated childhood-studies academic, not psychology-scope. Children's Issues Centre is the citable NZ institutional gateway for child-inclusive practice research.
 
 **Publications:**
 - Parenting Arrangements After Separation Study: Evaluating the 2014 Family Law Reforms. Family Justice Professionals' Perspectives (2019) — *NZ Law Foundation Family Law Reports* — <https://nzlii.org/nz/journals/NZLFRRp/2019/8.html>
@@ -459,7 +459,7 @@ London · England (cross-jurisdictional) · Family Separation Clinic, London (UK
   - Primary source: <https://profiles.auckland.ac.nz/f-goodyear-smith>
 - **Dr Nikki Coleman** — Unverifiable at directory standard: c.18-20 years youth-mental-health experience (Christchurch SWRB social worker / CBT therapist) but no PA-specific publication or stance located. Possible confusion with Dr Joshua Coleman (US). Direct enquiry required.
   - Primary source: <https://swrb.govt.nz/>
-- **Family Bridges NZ facilitators** — Unverifiable at directory standard: workshop delivered in AU by Stan Korosi (withdrawn 2024). No NZ-resident Family Bridges facilitator located in public record.
+- **[Family Bridges](https://warshak.com/family-bridges/) NZ facilitators** — Unverifiable at directory standard: workshop delivered in AU by Stan Korosi (withdrawn 2024). No NZ-resident Family Bridges facilitator located in public record.
   - Primary source: <https://highconflictinstitute.com/providers/yvonne-moriarty/>
 
 

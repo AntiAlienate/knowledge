@@ -1,4 +1,4 @@
-# Harman, Kruk & Hines (2018) — Parental Alienating Behaviors: An Unacknowledged Form of Family Violence
+# [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) — Parental Alienating Behaviors: An Unacknowledged Form of Family Violence
 
 > **TL;DR.** Meta-analysis published in *Psychological Bulletin* (APA flagship review journal) establishing parental alienating behaviors (PABs) as a recognized form of family violence with measurable harm to children. Currently the strongest single academic citation for treating PA as a clinical reality in client-facing content; supersedes the contested "Parental Alienation Syndrome" framing by reframing harm at the *behavior* level rather than the *syndrome* level.
 
@@ -28,7 +28,7 @@
 ### Avoid:
 
 - Citing as if it were case law — it is research, not legally binding precedent.
-- Treating it as the only anchor — pair with at least one of {DSM-5 V995.51, ICD-11 QE52} when invoking clinical authority.
+- Treating it as the only anchor — pair with at least one of {[DSM-5](https://www.appi.org/products/dsm) V995.51, [ICD-11](https://icd.who.int/) QE52} when invoking clinical authority.
 - Quoting holdings without verifying the pinpoint — the original paper is 25 pages; cite specific findings.
 
 ## Related entries in this knowledge base

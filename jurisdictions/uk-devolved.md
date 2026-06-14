@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GB` · **Legal system:** common-law  
 **Language(s):** en, sco, gd, ga, cy  
 
-United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Ireland and Wales — the three UK constituent jurisdictions distinct from England-and-Wales for substantive children-law purposes (Scotland is wholly separate; NI operates under Children (NI) Order 1995; Wales shares unified E&W judicial hierarchy but with Cafcass Cymru devolved Welsh Government institutional differentiation). Constituent jurisdictions with v1.0 sidecars: Scotland (NF v AF 2025 CSOH 13 Lord Stuart strongest Scottish PA finding), Northern Ireland (Children NI Order 1995 + O'Hara J A Father v A Mother No. 2 2022 + LCJ Keegan first woman in NI history), Wales (Cafcass Cymru + Doughty 2018 Welsh-Government-commissioned review framing PA as 'belief system'). Practitioner identity: SCO institutional-voice (SPS recognition + SWA/Engender critique); NI judicial+institutional (Keegan LCJ + WAFNI critique); WLS academic-anchored (Cardiff Doughty + Welsh Women's Aid).
+United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Ireland and Wales — the three UK constituent jurisdictions distinct from England-and-Wales for substantive children-law purposes (Scotland is wholly separate; NI operates under Children (NI) Order 1995; Wales shares unified E&W judicial hierarchy but with [Cafcass Cymru](https://www.cafcass.gov.uk/) devolved Welsh Government institutional differentiation). Constituent jurisdictions with v1.0 sidecars: Scotland (NF v AF 2025 CSOH 13 Lord Stuart strongest Scottish PA finding), Northern Ireland (Children NI Order 1995 + O'Hara J A Father v A Mother No. 2 2022 + LCJ Keegan first woman in NI history), Wales (Cafcass Cymru + Doughty 2018 Welsh-Government-commissioned review framing PA as 'belief system'). Practitioner identity: SCO institutional-voice (SPS recognition + SWA/Engender critique); NI judicial+institutional (Keegan LCJ + WAFNI critique); WLS academic-anchored (Cardiff Doughty + Welsh Women's Aid).
 
 ## PA recognition status
 
@@ -17,7 +17,7 @@ United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Irel
   - Substantive Scottish children-law architecture. See jurisdiction:scotland for detail.
 - **Children (Northern Ireland) Order 1995** — Children (NI) Order 1995 — substantive NI children-law statute (1995) — <https://www.legislation.gov.uk/nisi/1995/755>
   - Substantive NI children-law statute (Sewel-style Order in Council). See jurisdiction:northern-ireland for detail.
-- **Children Act 1989 (UK / E&W applies in Wales)** — Children Act 1989 — substantive E&W statute applying in Wales (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
+- **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W applies in Wales)** — Children Act 1989 — substantive E&W statute applying in Wales (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
   - Wales shares unified England-and-Wales statutory frame. See jurisdiction:wales for institutional devolution detail (Cafcass Cymru + Doughty 2018).
 
 ## Apex courts
@@ -41,7 +41,7 @@ United Kingdom devolved-jurisdictions aggregate covering Scotland, Northern Irel
 ## Professional regulators
 
 - **Devolved institutional anchors** — Scotland: Shared Parenting Scotland (recognition) + Scottish Women's Aid + Engender (critique) — institutional-voice dominant rather than bar-based. Northern Ireland: Bar of NI Family Bar Association + NIGALA + WAFNI (25.6.2020 PA briefing only NI-specific WA position). Wales: Cafcass Cymru (devolved Welsh Government 2001) + Cardiff University Dr Julie Doughty research base + Welsh Women's Aid. See per-country sidecars for detail. — <https://www.judiciary.scot/>
-- **Common UK regulatory layer — HCPC + BPS (UK-wide)** — Health and Care Professions Council (HCPC) is the UK-wide statutory regulator for practitioner psychologists applying in all three devolved jurisdictions. British Psychological Society (BPS) operates UK-wide. No devolved-jurisdiction-specific PA position. Post-Re Y EWFC 38 (E&W 2026) HCPC-registration requirement for PA evaluators flows UK-wide. — <https://www.hcpc-uk.org/>
+- **Common UK regulatory layer — [HCPC](https://www.hcpc-uk.org/) + [BPS](https://www.bps.org.uk/) (UK-wide)** — Health and Care Professions Council (HCPC) is the UK-wide statutory regulator for practitioner psychologists applying in all three devolved jurisdictions. British Psychological Society (BPS) operates UK-wide. No devolved-jurisdiction-specific PA position. Post-Re Y EWFC 38 (E&W 2026) HCPC-registration requirement for PA evaluators flows UK-wide. — <https://www.hcpc-uk.org/>
 
 ## Anonymisation convention
 
@@ -77,7 +77,7 @@ Each constituent jurisdiction operates distinct anonymisation conventions (Court
 
 ## Sources
 
-1. **UK Legislation — legislation.gov.uk** — <https://www.legislation.gov.uk/> (UK Government) [en]
+1. **UK Legislation — [legislation.gov.uk](https://www.legislation.gov.uk/)** — <https://www.legislation.gov.uk/> (UK Government) [en]
 2. **UK Supreme Court** — <https://www.supremecourt.uk/> (UK Supreme Court) [en]
 3. **Judiciary of Scotland** — <https://www.judiciary.scot/> (Judiciary of Scotland) [en]
 4. **Judiciary of Northern Ireland** — <https://www.judiciaryni.uk/> (Judiciary NI) [en]

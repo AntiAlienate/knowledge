@@ -48,7 +48,7 @@ See [posts/59-international-authorities-involved.md](./59-international-authorit
 
 Some abducting parents disguise an alienation campaign as a "Hague abduction" — they take the child, then claim the left parent is dangerous. The receiving court may apply the 13(b) grave-risk frame, accept the coached child's statements, and refuse return.
 
-**Counter-play:** documented PA-pattern evidence (the 4 cross-cultural constants from [posts/18-pa-cross-cultural.md](./18-pa-cross-cultural.md)) plus ECHR Article 8 jurisprudence on coached refusal (*Solarino v. Italy*, *Mincheva v. Bulgaria*) can re-frame the 13(b) defense as itself the alienation tool.
+**Counter-play:** documented PA-pattern evidence (the 4 cross-cultural constants from [posts/18-pa-cross-cultural.md](./18-pa-cross-cultural.md)) plus [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) jurisprudence on coached refusal (*Solarino v. Italy*, *Mincheva v. Bulgaria*) can re-frame the 13(b) defense as itself the alienation tool.
 
 ## Source-blog hyperlinks
 

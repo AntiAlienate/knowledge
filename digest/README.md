@@ -6,10 +6,10 @@ Daily digests of fresh PA-related material from public legal-research sources, p
 
 | Source | Coverage | Auth |
 |---|---|---|
-| **PubMed** (E-utilities) | Clinical & academic research | none |
+| **[PubMed](https://pubmed.ncbi.nlm.nih.gov/)** (E-utilities) | Clinical & academic research | none |
 | **CrossRef** REST | Academic papers + DOI metadata | none |
 | **CourtListener** | US federal + state appellate opinions | account |
-| **BAILII** recent-decisions | UK/IE family-court rulings | none (scrape) |
+| **[BAILII](https://www.bailii.org/)** recent-decisions | UK/IE family-court rulings | none (scrape) |
 
 ## File format
 
@@ -21,9 +21,9 @@ These are **research leads** auto-pulled by keyword match. Verify against primar
 
 ## Future sources (when access available)
 
-- **HUDOC** — JS-rendered, needs Playwright-style scraping
+- **[HUDOC](https://hudoc.echr.coe.int/)** — JS-rendered, needs Playwright-style scraping
 - **OpenAlex** — academic graph
-- **Indian Kanoon**, **CanLII** — same scrape-friendly model as BAILII
+- **Indian Kanoon**, **[CanLII](https://www.canlii.org/)** — same scrape-friendly model as BAILII
 - **EUR-Lex** — EU legal database (has API)
 
 ## Generator

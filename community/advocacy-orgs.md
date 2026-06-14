@@ -11,7 +11,7 @@ Independent advocacy organisations doing policy work, research dissemination, an
 
 ## International
 
-### Parental Alienation Study Group (PASG)
+### [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 - **URL:** https://pasg.info/
 - **Founded:** 2013
 - **What it does:** International association of mental-health and legal professionals studying PA. Annual conferences, peer-reviewed publication coordination, position statements. Bernet and many of the field's leading researchers participate.

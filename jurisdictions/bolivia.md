@@ -16,7 +16,7 @@ Bolivia is an Andean South American mixed-legal-system plurinational state combi
 - **Family and Family-Procedural Code 2014 (Law 603) arts. 35-49** — Family and Family-Procedural Code — Parental authority and custody (2014) — <https://www.tsj.bo/>
   - Federal Family Code replacing 1972 Family Code. Arts. 35-49 govern parental authority and child custody.
 - **Niñez y Adolescencia Code 2014 (Law 548)** — Children and Adolescents Code (2014) — <https://www.tsj.bo/>
-  - Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations.
+  - Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **Constitution 2009 — Indigenous Originary Peasant Jurisdiction (JIOC) arts. 190-192** — Constitution — Indigenous Originary Peasant Jurisdiction (2009) — <https://www.tcpbolivia.bo/>
   - Constitutional recognition of Indigenous Originary Peasant Jurisdiction (JIOC) as parallel jurisdiction — structurally distinctive within the corpus.
 

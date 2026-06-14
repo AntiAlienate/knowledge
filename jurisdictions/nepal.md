@@ -16,7 +16,7 @@ Nepal is a South Asian mixed-legal-system federal democratic republic combining 
 - **Muluki Civil Code 2017 Part 3 Chapter 7 (arts. 119-130)** — Muluki Civil Code — Parental authority (2017) — <https://www.supremecourt.gov.np/>
   - Federal Civil Code effective 17 August 2018 — comprehensive replacement of 1963 Muluki Ain. Arts. 119-130 govern parental authority and child custody.
 - **Act Relating to Children 2018 (Bal Sambandhi Ain)** — Act Relating to Children (2018) — <https://www.supremecourt.gov.np/>
-  - Federal Act on Children aligned with UNCRC obligations.
+  - Federal Act on Children aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

@@ -8,12 +8,12 @@
 
 ## Table of contents
 
-1. The Meier program at GW Law — empirical custody outcomes when PA is cross-claimed
+1. The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) program at GW Law — empirical custody outcomes when PA is cross-claimed
 2. The Harman & Lorandos critique and the Meier rebuttals
-3. Silberg & Dallam (2019) — overturned-decisions case series
-4. Custody-evaluator role and the asymmetry of forensic training (Saunders 2015)
-5. The middle-ground forensic literature — Saini, Johnston, Fidler & Bala (2016)
-6. The international institutional response — GREVIO, UN OHCHR, CEDAW, WHO ICD-11
+3. [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — overturned-decisions case series
+4. Custody-evaluator role and the asymmetry of forensic training ([Saunders](https://www.ovw.usdoj.gov/) 2015)
+5. The middle-ground forensic literature — [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)
+6. The international institutional response — GREVIO, UN OHCHR, CEDAW, WHO [ICD-11](https://icd.who.int/)
 7. High-profile U.S. trial-court records (Tsimhoni; cross-references)
 8. Synthesis — confidence levels by claim
 
@@ -289,7 +289,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ### 8.1 High confidence
 
 - **In U.S. family courts, when a mother alleges abuse by the father and he cross-claims PA, courts credit the abuse claim much less often and she loses custody much more often.** Meier 2020 (n=4,338 coded cases, full-census, peer-reviewed, NIJ-funded); Silberg-Dallam 2019 case-mechanism series; Alsalem 2023.
-- **PA is not a clinical diagnosis.** Rejected by APA DSM-5 process; removed from WHO ICD-11 foundation layer Feb 2020. Saini/Johnston/Fidler/Bala 2016 explicit; cross-ref `evidence-pa-as-child-abuse.md` §2.
+- **PA is not a clinical diagnosis.** Rejected by APA [DSM-5](https://www.appi.org/products/dsm) process; removed from WHO ICD-11 foundation layer Feb 2020. Saini/Johnston/Fidler/Bala 2016 explicit; cross-ref `evidence-pa-as-child-abuse.md` §2.
 - **The international human-rights system has formally identified PA use in custody decisions as a documented problem.** UN OHCHR/CEDAW/Council of Europe GREVIO concurring positions.
 
 ### 8.2 Moderate–high confidence

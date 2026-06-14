@@ -52,8 +52,8 @@ Irish family-law decisions are anonymised per long-standing practice in family-l
 ## Structural findings
 
 - Ireland sits structurally adjacent to the UK constituent jurisdictions within the corpus: common-law system + welfare-paramountcy framework + statutory psychology regulator (CORU/PSI). Distinct from the UK in that Article 42A of the Constitution provides a constitutional children's-rights overlay that the UK constituents lack at constitutional level.
-- CORU Psychologists Register opening 1 March 2023 places Ireland among the federal/statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT — with statutory title protection phased in from 2023 making it among the newest such regimes in the corpus.
-- 2023 Department of Justice PA consultation produced no statutory amendment recommendation. This places Ireland alongside England-and-Wales (Cafcass position paper) + Scotland (no statutory PA reform) + Australia (post-2023 Amendment Act welfare-and-safety reframing) in the cluster of jurisdictions that conducted a national-level PA-construct policy review and concluded against statutory codification.
+- CORU Psychologists Register opening 1 March 2023 places Ireland among the federal/statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT — with statutory title protection phased in from 2023 making it among the newest such regimes in the corpus.
+- 2023 Department of Justice PA consultation produced no statutory amendment recommendation. This places Ireland alongside England-and-Wales ([Cafcass](https://www.cafcass.gov.uk/) position paper) + Scotland (no statutory PA reform) + Australia (post-2023 Amendment Act welfare-and-safety reframing) in the cluster of jurisdictions that conducted a national-level PA-construct policy review and concluded against statutory codification.
 
 ## See also
 

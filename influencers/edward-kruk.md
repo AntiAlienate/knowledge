@@ -21,7 +21,7 @@ Social worker and academic who has built the empirical case for the equal-shared
 
 - ICSP: https://www.twohomes.org/
 - UBC faculty: https://socialwork.ubc.ca/people/edward-kruk/
-- Google Scholar: https://scholar.google.com/citations?user=Kruk+Edward+shared+parenting
+- [Google Scholar](https://scholar.google.com/): https://scholar.google.com/citations?user=Kruk+Edward+shared+parenting
 
 ## Why he matters here
 

@@ -16,7 +16,7 @@ Azerbaijan is a South Caucasus civil-law unitary republic whose family-law frame
 - **Family Code of the Republic of Azerbaijan 1999 arts. 49-79** — Family Code — Parental rights and custody (1999) — <https://www.e-qanun.az/>
   - Federal Family Code enacted effective 1 September 2000. Arts. 49-79 govern parental rights and child custody. Substantively amended over subsequent decades.
 - **Law on the Rights of the Child 499-IQ of 1998** — Law on the Rights of the Child (1998) — <https://www.e-qanun.az/>
-  - Federal children's rights statute aligned with UNCRC obligations.
+  - Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

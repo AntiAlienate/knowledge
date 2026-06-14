@@ -1,6 +1,6 @@
 # How to Prove Psychological Damage in Parental Alienation Cases
 
-> **TL;DR.** Proving the *child's psychological damage* from PA — not just the alienating parent's behaviors — is the higher evidentiary threshold many cases fail. The 4-layer evidence stack: (1) clinical signs (Baker's 8), (2) developmental arrest (5 domains), (3) functional impairment (school + social), (4) third-party documentation (PA-trained child therapist · school records · forensic evaluator). Anchored in DSM-5 V995.51 + ICD-11 QE52 + Harman, Kruk & Hines (2018).
+> **TL;DR.** Proving the *child's psychological damage* from PA — not just the alienating parent's behaviors — is the higher evidentiary threshold many cases fail. The 4-layer evidence stack: (1) clinical signs ([Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8), (2) developmental arrest (5 domains), (3) functional impairment (school + social), (4) third-party documentation (PA-trained child therapist · school records · forensic evaluator). Anchored in [DSM-5](https://www.appi.org/products/dsm) V995.51 + [ICD-11](https://icd.who.int/) QE52 + [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018).
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/how-to-prove-psychological-damage](https://www.antialienate.com/blog/how-to-prove-psychological-damage).**

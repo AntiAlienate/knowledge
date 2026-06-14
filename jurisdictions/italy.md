@@ -3,7 +3,7 @@
 **Jurisdiction code:** `IT` · **Legal system:** civil-law  
 **Language(s):** it  
 
-Italy carries the European Union's most fully developed statute-and-case-law stance against the use of the so-called Parental Alienation Syndrome (PAS) and its lexical equivalents in family-court Consulenze Tecniche d'Ufficio (CTU). The Corte di Cassazione Sezione I Civile has issued a closing triad of critique ordinances — Cass. 13217/2021, Cass. 9691/2022 (the 'Massaro' case) and Cass. 4595/2025 — anchored statutorily in the Codice Civile bigenitorialità framework and procedurally reinforced by the 2022 Riforma Cartabia (D.lgs. 149/2022, artt. 473-bis ss. c.p.c.). The domestic apex line is complemented vertically by an ECHR Strasbourg cluster (Lombardo, Improta, Strumia, Bondavalli, Solarino, R.V.) finding repeated Italian Article 8 violations on contact-enforcement, and institutionally by the 2012 Ministero della Salute nota and the CISMAI / ONPI critique axis.
+Italy carries the European Union's most fully developed statute-and-case-law stance against the use of the so-called Parental Alienation Syndrome (PAS) and its lexical equivalents in family-court Consulenze Tecniche d'Ufficio (CTU). The Corte di Cassazione Sezione I Civile has issued a closing triad of critique ordinances — Cass. 13217/2021, Cass. 9691/2022 (the 'Massaro' case) and Cass. 4595/2025 — anchored statutorily in the [Codice Civile](https://www.brocardi.it/codice-civile/) bigenitorialità framework and procedurally reinforced by the 2022 Riforma Cartabia (D.lgs. 149/2022, artt. 473-bis ss. c.p.c.). The domestic apex line is complemented vertically by an ECHR Strasbourg cluster (Lombardo, Improta, Strumia, Bondavalli, Solarino, R.V.) finding repeated Italian Article 8 violations on contact-enforcement, and institutionally by the 2012 Ministero della Salute nota and the CISMAI / ONPI critique axis.
 
 ## PA recognition status
 
@@ -114,7 +114,7 @@ La Corte di Cassazione anonimizza d'ufficio le parti dei procedimenti in materia
 4. **Consiglio Nazionale dell'Ordine degli Psicologi (CNOP)** — <https://www.psy.it/> (CNOP) [it]
 5. **Famiglia e Diritto — rivista (Wolters Kluwer / IPSOA)** — <https://www.edicolaprofessionale.com/famigliaediritto> (Wolters Kluwer Italia / IPSOA) [it]
 6. **Diritto.it — portale giuridico** — <https://www.diritto.it/> (Diritto.it) [it]
-7. **HUDOC — European Court of Human Rights case-law database** — <https://hudoc.echr.coe.int/> (Council of Europe — ECHR) [en]
+7. **[HUDOC](https://hudoc.echr.coe.int/) — European Court of Human Rights case-law database** — <https://hudoc.echr.coe.int/> (Council of Europe — ECHR) [en]
 8. **GREVIO Italy Baseline Evaluation Report (January 2020)** — <https://www.coe.int/en/web/istanbul-convention/italy> (Council of Europe — GREVIO) [en]
 9. **Cass. civ. Sez. I ord. 24 marzo 2022 n. 9691 — testo integrale (Studio Ruffinotti repository)** — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf> (Studio Legale Ruffinotti (repository)) [it]
 10. **Normattiva — portale ufficiale della legislazione vigente** — <https://www.normattiva.it/> (Istituto Poligrafico e Zecca dello Stato) [it]

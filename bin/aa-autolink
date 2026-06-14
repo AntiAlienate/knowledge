@@ -1,0 +1,199 @@
+#!/usr/bin/env python3
+"""aa-autolink — inline-link bare references in narrative prose.
+
+Many narrative pages name papers, statutes, authors, and organisations
+without hyperlinking. Adam called this out on /the-debate/recognition-vs-critique
+(26+ evidence pages had 0 inline links despite 1000-9000 words of body).
+
+This script scans every .md body and, for each pattern, replaces the FIRST
+occurrence per page with an inline markdown link. Frontmatter, code blocks,
+existing markdown links, and the AA-CITE/AA-CROSSLINK appended blocks are
+all skipped. Idempotent: re-running produces no further changes once each
+first-occurrence is linked.
+
+Run order in aa-sync: after aa-cite + aa-crosslink (which append bottom
+blocks), so the autolinker can skip those blocks unambiguously.
+"""
+import pathlib, re
+
+RECOVERY = pathlib.Path("/tmp/.aa-secrets/recovery")
+
+# (regex_pattern, url) — first match per page is wrapped in [text](url).
+# Order matters: more specific patterns first, generic last.
+LINKS = [
+    # ── Statutes & primary law ──
+    (r"\bChildren Act 1989\b", "https://www.legislation.gov.uk/ukpga/1989/41"),
+    (r"\bChildren and Families Act 2014\b", "https://www.legislation.gov.uk/ukpga/2014/6"),
+    (r"\bDomestic Abuse Act 2021\b", "https://www.legislation.gov.uk/ukpga/2021/17"),
+    (r"\bICARA\b", "https://www.law.cornell.edu/uscode/text/22/chapter-97"),
+    (r"\bUCCJEA\b", "https://www.uniformlaws.org/committees/community-home?CommunityKey=4f1a06b2-4951-4eaf-8569-2eb87e3e8e93"),
+    (r"\bDivorce Act\b(?:\s*\(Canada\))?", "https://laws-lois.justice.gc.ca/eng/acts/d-3.4/"),
+    (r"\bBill C-78\b", "https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/"),
+    (r"\bFamily Law Act 1975\b", "https://www.legislation.gov.au/C2004A00275/latest/text"),
+    (r"\bBGB\b", "https://www.gesetze-im-internet.de/bgb/"),
+    (r"\bCodice Civile\b", "https://www.brocardi.it/codice-civile/"),
+    (r"\bCode civil\b(?:\s*français)?", "https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/"),
+
+    # ── Treaties & conventions ──
+    (r"\bHague Convention 1980\b", "https://www.hcch.net/en/instruments/conventions/full-text/?cid=24"),
+    (r"\bHague Convention 1996\b", "https://www.hcch.net/en/instruments/conventions/full-text/?cid=70"),
+    (r"\bUNCRC\b", "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child"),
+    (r"\bUN Convention on the Rights of the Child\b", "https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child"),
+    (r"\bECHR Article 8\b", "https://www.legislation.gov.uk/ukpga/1998/42/schedule/1"),
+    (r"\bArticle 8 (?:of the )?ECHR\b", "https://www.legislation.gov.uk/ukpga/1998/42/schedule/1"),
+    (r"\bEuropean Convention on Human Rights\b", "https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005"),
+
+    # ── Diagnostic systems ──
+    (r"\bDSM-5-TR\b", "https://www.appi.org/products/dsm"),
+    (r"\bDSM-5\b", "https://www.appi.org/products/dsm"),
+    (r"\bICD-11\b", "https://icd.who.int/"),
+
+    # ── Courts & databases ──
+    (r"\bHUDOC\b", "https://hudoc.echr.coe.int/"),
+    (r"\bBAILII\b", "https://www.bailii.org/"),
+    (r"\bCanLII\b", "https://www.canlii.org/"),
+    (r"\bAustLII\b", "https://www.austlii.edu.au/"),
+    (r"\blegislation\.gov\.uk\b", "https://www.legislation.gov.uk/"),
+    (r"\bCornell LII\b", "https://www.law.cornell.edu/"),
+
+    # ── Recognition-camp figures & works ──
+    (r"\bHarman et al\.?\s*(?:\(?(?:2018|2019)\)?)?", "https://pubmed.ncbi.nlm.nih.gov/30080055/"),
+    (r"\bHarman, Kruk(?:,?\s*&\s*Hines)?\b", "https://pubmed.ncbi.nlm.nih.gov/30080055/"),
+    (r"\bBernet et al\.?", "https://pasg.info/"),
+    (r"\bLorandos\s*&\s*Bernet\b", "https://www.ccthomas.com/details.cfm?P_ISBN13=9780398093259"),
+    (r"\bLorandos,\s*Bernet,?\s*&\s*Sauber\b", "https://www.ccthomas.com/details.cfm?P_ISBN13=9780398088804"),
+    (r"\bBaker(?:'s)?(?:\s+(?:adult-children\s+)?research)?\b", "https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation"),
+    (r"\bWarshak(?:'s)?(?:\s+Family\s+Bridges)?\b", "https://warshak.com/family-bridges/"),
+    (r"\bChildress(?:'s)?(?:\s+AB-PA)?\b", "https://drcachildress.org/"),
+    (r"\bGottlieb(?:'s)?(?:\s+TPFF)?\b", "https://turningpointsforfamilies.com/"),
+    (r"\bFamily Bridges\b", "https://warshak.com/family-bridges/"),
+    (r"\bTPFF\b", "https://turningpointsforfamilies.com/"),
+    (r"\bAB-PA\b", "https://drcachildress.org/"),
+
+    # ── Critique-camp figures & works ──
+    (r"\bMercer\s*&\s*Silberg(?:\s+(?:\(?2016\)?|2023))?\b", "https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974"),
+    (r"\bSilberg\s*&\s*Dallam(?:\s*(?:\(?2019\)?))?\b", "https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204"),
+    (r"\bMeier(?:'s|,?\s*J\.?S?\.?)?(?:\s*(?:\(?2020\)?|\s+US\s+studies?))?\b", "https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941"),
+    (r"\bSaunders(?:'s)?\b", "https://www.ovw.usdoj.gov/"),
+
+    # ── Middle-ground figures & works ──
+    (r"\bKelly\s*&\s*Johnston\b", "https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x"),
+    (r"\bKelly/Johnston\b", "https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x"),
+    (r"\bJohnston\s*&\s*Sullivan\b", "https://onlinelibrary.wiley.com/journal/17446171"),
+    (r"\bFidler,?\s*Bala,?\s*(?:&\s*)?Birnbaum\b", "https://global.oup.com/academic/product/children-who-resist-postseparation-parental-contact-9780199895496"),
+    (r"\bSaini(?:,?\s*M)?(?:\s+et\s+al\.?)?\b", "https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535"),
+
+    # ── Organisations ──
+    (r"\bPASG\b", "https://pasg.info/"),
+    (r"\bParental Alienation Study Group\b", "https://pasg.info/"),
+    (r"\bAFCC\b", "https://www.afccnet.org/"),
+    (r"\bAACAP\b", "https://www.aacap.org/"),
+    (r"\bAAML\b", "https://www.aaml.org/"),
+    (r"\bAPA Ethics Code\b", "https://www.apa.org/ethics/code"),
+    (r"\bCafcass(?:\s+Cymru)?\b", "https://www.cafcass.gov.uk/"),
+    (r"\bHCPC\b", "https://www.hcpc-uk.org/"),
+    (r"\bBPS\b", "https://www.bps.org.uk/"),
+    (r"\bResolution\b(?=\s*\(UK\))", "https://resolution.org.uk/"),
+
+    # ── Research databases ──
+    (r"\bPubMed\b", "https://pubmed.ncbi.nlm.nih.gov/"),
+    (r"\bCochrane(?:\s+Library)?\b", "https://www.cochranelibrary.com/"),
+    (r"\bPsycNet\b", "https://psycnet.apa.org/"),
+    (r"\bGoogle Scholar\b", "https://scholar.google.com/"),
+    (r"\bOSF\b(?!\.)", "https://osf.io/"),
+]
+
+# Compile patterns once
+COMPILED = [(re.compile(p), u) for p, u in LINKS]
+
+
+def find_link_spans(text):
+    """Yield (start, end) of every existing markdown link or image so we don't double-link inside them."""
+    for m in re.finditer(r"!?\[[^\]]*\]\([^)]*\)", text):
+        yield m.span()
+    # Also code fences and inline code
+    for m in re.finditer(r"```.*?```", text, flags=re.S):
+        yield m.span()
+    for m in re.finditer(r"`[^`]+`", text):
+        yield m.span()
+    # Headings with link-like syntax are fine; URL bare links
+    for m in re.finditer(r"https?://\S+", text):
+        yield m.span()
+
+
+def in_excluded_span(pos, spans):
+    return any(s <= pos < e for s, e in spans)
+
+
+def autolink_body(body):
+    """Apply LINKS to body. First occurrence per pattern only. Idempotent."""
+    changes = 0
+    for pat, url in COMPILED:
+        spans = list(find_link_spans(body))
+        for m in pat.finditer(body):
+            if in_excluded_span(m.start(), spans):
+                continue
+            # Build replacement
+            text = m.group(0)
+            replacement = f"[{text}]({url})"
+            body = body[: m.start()] + replacement + body[m.end():]
+            changes += 1
+            break  # only first occurrence per pattern per page
+    return body, changes
+
+
+def process_file(path):
+    try:
+        content = path.read_text()
+    except Exception:
+        return None
+    # Split off frontmatter
+    fm = ""
+    m = re.match(r"^(---\n.*?\n---\n)", content, flags=re.S)
+    if m:
+        fm = m.group(1)
+        body = content[m.end():]
+    else:
+        body = content
+    # Split off AA-CITE and AA-CROSSLINK blocks (they have their own links)
+    cite_match = re.search(r"<!-- AA-CITE-START -->.*?<!-- AA-CITE-END -->", body, flags=re.S)
+    crosslink_match = re.search(r"<!-- AA-CROSSLINK-START -->.*?<!-- AA-CROSSLINK-END -->", body, flags=re.S)
+    # Find earliest cut-off
+    cut_indices = [m.start() for m in [cite_match, crosslink_match] if m]
+    if cut_indices:
+        cut = min(cut_indices)
+        narrative = body[:cut]
+        tail = body[cut:]
+    else:
+        narrative = body
+        tail = ""
+    new_narrative, n = autolink_body(narrative)
+    if n == 0:
+        return None
+    new_content = fm + new_narrative + tail
+    if new_content == content:
+        return None
+    path.write_text(new_content)
+    return n
+
+
+def main():
+    EXCLUDE_DIRS = {".git", ".venv", "_site", "docs", "node_modules", "bin"}
+    EXCLUDE_TOPDIRS = {"case-law"}  # case-law entries are dense reference docs, already heavily linked
+    total = changed = total_links = 0
+    for path in RECOVERY.rglob("*.md"):
+        if any(part in EXCLUDE_DIRS for part in path.parts):
+            continue
+        rel = path.relative_to(RECOVERY)
+        if rel.parts and rel.parts[0] in EXCLUDE_TOPDIRS:
+            continue
+        total += 1
+        n = process_file(path)
+        if n:
+            changed += 1
+            total_links += n
+    print(f"aa-autolink: processed {total} .md files; updated {changed}; added {total_links} inline links")
+
+
+if __name__ == "__main__":
+    main()

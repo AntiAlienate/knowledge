@@ -6,28 +6,28 @@ A focused thematic synthesis of the children's-rights-paramountcy doctrine as de
 
 The children's-rights-paramountcy doctrine flows from three intersecting international-law sources:
 
-### UN Convention on the Rights of the Child (1989) art. 3
+### [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) (1989) art. 3
 > **Article 3(1)**: In all actions concerning children, whether undertaken by public or private social welfare institutions, courts of law, administrative authorities or legislative bodies, the best interests of the child shall be **a primary consideration**.
 
 UN CRC art. 3(1) frames best-interests as **A** primary consideration (not THE paramount consideration). The CRC formulation is structurally weaker than national jurisdictions that adopt the paramountcy framing.
 
-### Hague Convention 1980 + Belém do Pará + regional treaties
+### [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Belém do Pará + regional treaties
 Multilateral conventions reinforce the international-law backdrop without overriding national paramountcy framings.
 
 ### National-constitutional framings
-National constitutional provisions and apex case-law develop the paramountcy doctrine with varying intensity. The strongest paramountcy framings appear in common-law jurisdictions following the Children Act 1989 (E&W) substantive frame; civil-law jurisdictions tend toward "primary consideration" or "interés superior" framings.
+National constitutional provisions and apex case-law develop the paramountcy doctrine with varying intensity. The strongest paramountcy framings appear in common-law jurisdictions following the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (E&W) substantive frame; civil-law jurisdictions tend toward "primary consideration" or "interés superior" framings.
 
 ## Cross-jurisdictional paramountcy framings
 
 ### Strong-paramountcy formulations (paramount / first and paramount)
 
-**England and Wales** — **Children Act 1989 s.1(1)**: "When a court determines any question with respect to (a) the upbringing of a child… the child's welfare shall be the court's PARAMOUNT consideration." Pure paramountcy formulation — child's welfare overrides all other considerations. Subsequently reinforced by the Children and Families Act 2014 s.11(2)(a) parental-involvement presumption operating within the paramountcy frame. Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
+**England and Wales** — **Children Act 1989 s.1(1)**: "When a court determines any question with respect to (a) the upbringing of a child… the child's welfare shall be the court's PARAMOUNT consideration." Pure paramountcy formulation — child's welfare overrides all other considerations. Subsequently reinforced by the [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) s.11(2)(a) parental-involvement presumption operating within the paramountcy frame. Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
 
 **Scotland** — **Children (Scotland) Act 1995 s.11(7)**: "the welfare of the child concerned shall be his or her PARAMOUNT consideration." Mirrors E&W formulation. Subsequent s.11(7A)-(7E) protective factors operate within the paramountcy frame. Cross-link: case-study:nf-v-af-2025-csoh-13-scotland + jurisdiction:scotland.
 
 **Northern Ireland** — **Children (NI) Order 1995 art. 3(1)**: paramountcy formulation parallel to Children Act 1989 s.1(1) and Children (Scotland) Act 1995 s.11(7). Cross-link: jurisdiction:northern-ireland.
 
-**Australia** — **Family Law Act 1975 (Cth) s.60CC (post-2023 Amendment Act rewrite)**: best-interests test reformed with safety primacy — the child's safety must be protected as the primary consideration. The 2023 Amendment Act removed the prior "two-tier" primary/additional consideration structure. Cross-link: case-study:green-and-green-2024-fedcfamc1f-896 + jurisdiction:australia.
+**Australia** — **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.60CC (post-2023 Amendment Act rewrite)**: best-interests test reformed with safety primacy — the child's safety must be protected as the primary consideration. The 2023 Amendment Act removed the prior "two-tier" primary/additional consideration structure. Cross-link: case-study:green-and-green-2024-fedcfamc1f-896 + jurisdiction:australia.
 
 **New Zealand** — **Care of Children Act 2004 s.5(a)**: child's safety must be protected as the primary consideration. Safety-primary formulation parallel to AU post-reform. Cross-link: jurisdiction:new-zealand.
 
@@ -116,7 +116,7 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 C
 | **Netherlands** | BW + Jeugdwet | Substantive best-interests | NJI Richtlijn 2020 + Expertteam 2021 |
 | **Japan** | Civil Code art. 766 (post-2024) | Child-focused arrangements | Act No. 33 of 2024 |
 | **United States** | State Family Codes — variable formulations | State-level best-interests | Tsimhoni 2015 + Humphries 2024 |
-| **Canada** | Divorce Act s.16 + provincial statutes | Best-interests (post-Bill C-78 2021) | LAG v DKB 2009 + Williamson 2016 BCCA |
+| **Canada** | [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16 + provincial statutes | Best-interests (post-[Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) 2021) | LAG v DKB 2009 + Williamson 2016 BCCA |
 | **Poland** | Konstytucja RP art. 48 + 71 + KRiO | Constitutional family-life protection | SN III CZP 20/25 |
 | **ECHR (supranational)** | Art 8 + Neulinger/X v Latvia GC | Procedural-due-diligence best-interests | Strasbourg Italian triptych |
 

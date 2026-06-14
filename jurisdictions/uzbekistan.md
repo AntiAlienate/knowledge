@@ -3,7 +3,7 @@
 **Jurisdiction code:** `UZ` · **Legal system:** civil-law  
 **Language(s):** uz  
 
-Uzbekistan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code 1998 (Oilaviy Kodeks, substantially amended) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Family Code arts. 65-87. The Supreme Court of Uzbekistan (O'zbekiston Respublikasi Oliy sudi) is the apex court for civil and criminal matters; the Constitutional Court (Konstitutsiyaviy sud) operates separate constitutional review. Family-law matters are heard at first instance in District/City Inter-District Civil Courts. Psychology profession is regulated through the Ministry of Health framework. Uzbekistan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 65. Uzbekistan acceded to the Hague Convention 1980 effective 1 August 2000.
+Uzbekistan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code 1998 (Oilaviy Kodeks, substantially amended) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Family Code arts. 65-87. The Supreme Court of Uzbekistan (O'zbekiston Respublikasi Oliy sudi) is the apex court for civil and criminal matters; the Constitutional Court (Konstitutsiyaviy sud) operates separate constitutional review. Family-law matters are heard at first instance in District/City Inter-District Civil Courts. Psychology profession is regulated through the Ministry of Health framework. Uzbekistan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 65. Uzbekistan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 August 2000.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Uzbekistan is a Central Asian civil-law unitary republic whose family-law framew
 - **Family Code 1998 arts. 65-87** — Family Code — Parental rights and custody (1998) — <https://www.lex.uz/>
   - Federal Family Code enacted post-Soviet. Arts. 65-87 govern parental rights and child custody. Substantially amended over subsequent decades.
 - **Law on the Rights of the Child 2008** — Law on the Rights of the Child (2008) — <https://www.lex.uz/>
-  - Federal children's rights statute aligned with UNCRC obligations.
+  - Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

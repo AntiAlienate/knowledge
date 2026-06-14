@@ -63,7 +63,7 @@ The child in this configuration has:
 - A secondary caregiver (favored parent) who doesn't override grandma
 - A targeted parent (you) who is structurally absent from daily life
 
-When the child reaches adolescence, the pattern often shifts. Adolescents start to notice the grandparent's bias as a *pattern* — not as truth. This is the reunification opening to watch for, per Baker's adult-outcomes research.
+When the child reaches adolescence, the pattern often shifts. Adolescents start to notice the grandparent's bias as a *pattern* — not as truth. This is the reunification opening to watch for, per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) adult-outcomes research.
 
 ## Source-blog hyperlinks
 
@@ -85,7 +85,7 @@ When the child reaches adolescence, the pattern often shifts. Adolescents start 
 - French Civil Code Art. 371-4
 - Italian Civil Code Art. 317-bis
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.*
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 
 ## Disclaimer
 

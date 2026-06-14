@@ -3,7 +3,7 @@
 **Jurisdiction code:** `KZ` · **Legal system:** civil-law  
 **Language(s):** kk, ru  
 
-Kazakhstan is a Central Asian civil-law unitary republic whose family-law framework operates under the Code on Marriage (Matrimony) and Family of 26 December 2011 (No. 518-IV) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Code arts. 60-77. The Supreme Court of Kazakhstan (Қазақстан Республикасының Жоғарғы Соты) is the apex court for civil and criminal matters; the Constitutional Court (restructured 2023 from Constitutional Council) operates constitutional review. Family-law matters are heard at first instance in District/City Specialised Inter-District Court for Civil Cases. Psychology profession is regulated through the Ministry of Healthcare framework. Kazakhstan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Code art. 61. Kazakhstan acceded to the Hague Convention 1980 effective 1 September 2013.
+Kazakhstan is a Central Asian civil-law unitary republic whose family-law framework operates under the Code on Marriage (Matrimony) and Family of 26 December 2011 (No. 518-IV) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Code arts. 60-77. The Supreme Court of Kazakhstan (Қазақстан Республикасының Жоғарғы Соты) is the apex court for civil and criminal matters; the Constitutional Court (restructured 2023 from Constitutional Council) operates constitutional review. Family-law matters are heard at first instance in District/City Specialised Inter-District Court for Civil Cases. Psychology profession is regulated through the Ministry of Healthcare framework. Kazakhstan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Code art. 61. Kazakhstan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 September 2013.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Kazakhstan is a Central Asian civil-law unitary republic whose family-law framew
 - **Code on Marriage (Matrimony) and Family 2011 (No. 518-IV) arts. 60-77** — Code on Marriage and Family — Parental rights and custody (2011) — <https://www.adilet.zan.kz/>
   - Federal Code on Marriage and Family enacted replacing 1998 Marriage and Family Law. Arts. 60-77 govern parental rights and child custody.
 - **Law on Rights of the Child 345-II of 2002** — Law on Rights of the Child (2002) — <https://www.adilet.zan.kz/>
-  - Federal children's rights statute aligned with UNCRC obligations.
+  - Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

@@ -7,7 +7,7 @@ A focused thematic synthesis of how federalism and constitutional-jurisdictional
 ### Cluster A — Maximum federal fragmentation
 Jurisdictions where substantive family-law operates predominantly at sub-federal level, producing maximal PA-doctrine fragmentation.
 
-**United States** — NO federal family-court jurisdiction. PA is litigated almost entirely at the state level under 50+ state Family Codes with substantial substantive and procedural variation. Federal exceptions: ICWA (Indian children) + Hague Convention implementing statutes (ICARA). Federal CPA-analogue does not exist; 50+ state psychology boards. Federalist fragmentation is the defining US structural feature distinguishing US from every other v2 jurisdiction. Cross-link: jurisdiction:united-states.
+**United States** — NO federal family-court jurisdiction. PA is litigated almost entirely at the state level under 50+ state Family Codes with substantial substantive and procedural variation. Federal exceptions: ICWA (Indian children) + Hague Convention implementing statutes ([ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97)). Federal CPA-analogue does not exist; 50+ state psychology boards. Federalist fragmentation is the defining US structural feature distinguishing US from every other v2 jurisdiction. Cross-link: jurisdiction:united-states.
 
 **Mexico** — 32 Códigos Civiles estatales heterogéneos + Código Civil Federal supletorio. Family proceedings litigated at state level; doctrine apex SCJN (AI 11/2016) operates as precedent vinculante for all state Civil Codes on constitutional questions of PA-figura validity. **Federalismo descentralizado + doctrina apex unificada** — tension structural between state-legislative pro-AP reforms and apex-court constitutional filter (sistemáticamente desactivada via AI 11/2016 + 74/2024). Cross-link: jurisdiction:mexico.
 
@@ -16,9 +16,9 @@ Jurisdictions where substantive family-law operates predominantly at sub-federal
 ### Cluster B — Federal jurisdiction unified at apex
 Jurisdictions with federal apex unification and meaningful federal substantive law alongside state-level operational variation.
 
-**Australia** — Federal Family Law Act 1975 (Cth) governs married couples; provincial family-law statutes govern unmarried couples in parallel. FCFCOA (2021 merger Family Court of Australia + Federal Circuit Court) provides unified federal forum. 2023 Amendment Act Schedule 2 reforms federal-statutory architecture. AHPRA + PsyBA federal regulator architecture. Federal unification at FCFCOA level + Schedule 2 statutory unification produces structurally distinctive federal-unitary blend. Cross-link: jurisdiction:australia.
+**Australia** — Federal [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) governs married couples; provincial family-law statutes govern unmarried couples in parallel. FCFCOA (2021 merger Family Court of Australia + Federal Circuit Court) provides unified federal forum. 2023 Amendment Act Schedule 2 reforms federal-statutory architecture. AHPRA + PsyBA federal regulator architecture. Federal unification at FCFCOA level + Schedule 2 statutory unification produces structurally distinctive federal-unitary blend. Cross-link: jurisdiction:australia.
 
-**Canada** — Bifurcated federal-provincial: Bill C-78 (1.3.2021) Divorce Act governs married couples; provincial statutes (Ontario CLRA + Quebec CCQ + BC FLA + Alberta FLA) govern unmarried. Provincial-college regulator fragmentation (CPO Ontario + OPQ Quebec + CPBA-BC + CAP Alberta). Federal CPA is professional body NOT regulator — provincial-regulator fragmentation produces no single national-level credentialing test for PA evaluators. Cross-link: jurisdiction:canada.
+**Canada** — Bifurcated federal-provincial: [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) (1.3.2021) [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) governs married couples; provincial statutes (Ontario CLRA + Quebec CCQ + BC FLA + Alberta FLA) govern unmarried. Provincial-college regulator fragmentation (CPO Ontario + OPQ Quebec + CPBA-BC + CAP Alberta). Federal CPA is professional body NOT regulator — provincial-regulator fragmentation produces no single national-level credentialing test for PA evaluators. Cross-link: jurisdiction:canada.
 
 **Brazil** — Federal Lei 12.318/2010 + state-level operational variation. Statutory unification at federal level produces operational unification distinct from US 50-state fragmentation. CFP + CFESS federal regulator framework. Cross-link: jurisdiction:brazil.
 
@@ -29,13 +29,13 @@ Jurisdictions with federal apex unification and meaningful federal substantive l
 ### Cluster C — Unitary jurisdictions
 Jurisdictions with unified family-law architecture without significant federalism-fragmentation.
 
-**England and Wales** — Unified E&W jurisdiction under Children Act 1989. UK Supreme Court is final court of appeal for all UK constituent jurisdictions but each (E&W + Scotland + NI) operates distinct substantive children-law architecture. Re Y EWFC 38 operates UK-wide via HCPC statutory framework. Cross-link: jurisdiction:england-and-wales.
+**England and Wales** — Unified E&W jurisdiction under [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41). UK Supreme Court is final court of appeal for all UK constituent jurisdictions but each (E&W + Scotland + NI) operates distinct substantive children-law architecture. Re Y EWFC 38 operates UK-wide via [HCPC](https://www.hcpc-uk.org/) statutory framework. Cross-link: jurisdiction:england-and-wales.
 
 **Scotland** — Distinct substantive children-law (Children (Scotland) Act 1995 + 2020) within unified UK. Cross-link: jurisdiction:scotland.
 
 **Northern Ireland** — Distinct substantive children-law (Children (NI) Order 1995) within unified UK. Cross-link: jurisdiction:northern-ireland.
 
-**Wales** — Shares unified E&W substantive frame with Cafcass Cymru devolved Welsh Government institutional differentiation. Cross-link: jurisdiction:wales.
+**Wales** — Shares unified E&W substantive frame with [Cafcass Cymru](https://www.cafcass.gov.uk/) devolved Welsh Government institutional differentiation. Cross-link: jurisdiction:wales.
 
 **Italy** — Unified Italian Civil Code + Cassazione apex. Riforma Cartabia D.lgs. 149/2022 + Cassazione triad operate at unified national level. Cross-link: jurisdiction:italy.
 
@@ -43,7 +43,7 @@ Jurisdictions with unified family-law architecture without significant federalis
 
 **Spain** — Constitutional unified Código Civil + LOPIVI 2021 + STS 519/2017 apex; significant institutional variation at Comunidad Autónoma level (Catalunya Codi civil + País Vasco + Aragón + Navarra). Cross-link: jurisdiction:spain.
 
-**France** — Unified Code civil + Cour de cassation. Cross-link: jurisdiction:france.
+**France** — Unified [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) + Cour de cassation. Cross-link: jurisdiction:france.
 
 **Netherlands** — Unified Burgerlijk Wetboek + Jeugdwet (Jeugdwet 2015 decentralises jeugdhulp to gemeenten — operational not substantive fragmentation). Cross-link: jurisdiction:netherlands.
 
@@ -68,7 +68,7 @@ Jurisdictions with unified family-law architecture without significant federalis
 ## Structural observations
 
 ### 1. US maximum federal fragmentation distinctive
-The US 50-state fragmentation pattern is structurally distinctive in the corpus. No federal family-court jurisdiction; no federal substantive family-law statute (excepting ICWA + ICARA Hague-implementation); no federal psychology regulator (50+ state boards). The fragmentation produces a distinctively diverse but doctrinally heterogeneous PA-jurisprudence base. **AFCC Model Standards** function as the de facto national US practice standard absent a federal regulator — the closest US analogue to federal harmonisation.
+The US 50-state fragmentation pattern is structurally distinctive in the corpus. No federal family-court jurisdiction; no federal substantive family-law statute (excepting ICWA + ICARA Hague-implementation); no federal psychology regulator (50+ state boards). The fragmentation produces a distinctively diverse but doctrinally heterogeneous PA-jurisprudence base. **[AFCC](https://www.afccnet.org/) Model Standards** function as the de facto national US practice standard absent a federal regulator — the closest US analogue to federal harmonisation.
 
 ### 2. Mexico 32-state CC + apex SCJN unified doctrine
 Mexico's pattern — 32 state Civil Codes + federal apex SCJN constitutional precedent — produces **federalismo descentralizado + doctrina apex unificada**. SCJN AI 11/2016 + AI 74/2024 systematically deactivate state-legislative pro-AP automaticidad sanctions through constitutional filter while preserving state-substantive flexibility on AP-figura recognition. Distinctive model balancing federal-apex unification + state-substantive variation.
@@ -103,9 +103,9 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 | **Brazil** | Federal-unified | Lei 12.318/2010 + ECA | state operational variation | CFP + CFESS federal | CRP/CRESS regional |
 | **Argentina** | Federal + provincial colegios | CCyC 2014 + leyes federales | provincial procedural | FePRA + AAPS | 7 provincial Colegios |
 | **India** | Federal + personal-law | HMA + HMGA + FCA 1984 + GWA | state operational | RCI + NMC + IPS + IAPP | state institutional |
-| **UK constituents** | 4 constituent unitary | UKSC apex + HCPC UK-wide | E&W CA1989 + SCO + NI + WLS | HCPC + GMC + BPS | constituent-level institutional |
-| **Italy** | Unitary | Codice Civile + Riforma Cartabia | nil | CNOP federal | varies |
-| **Germany** | Federal-unitary | BGB + Grundgesetz | Land institutional | BÄK + BPtK federal | Land-level institutional |
+| **UK constituents** | 4 constituent unitary | UKSC apex + HCPC UK-wide | E&W CA1989 + SCO + NI + WLS | HCPC + GMC + [BPS](https://www.bps.org.uk/) | constituent-level institutional |
+| **Italy** | Unitary | [Codice Civile](https://www.brocardi.it/codice-civile/) + Riforma Cartabia | nil | CNOP federal | varies |
+| **Germany** | Federal-unitary | [BGB](https://www.gesetze-im-internet.de/bgb/) + Grundgesetz | Land institutional | BÄK + BPtK federal | Land-level institutional |
 | **Spain** | Unitary + autonomic | Código Civil + LOPIVI | Catalunya Codi civil + autonomies | COP federal | provincial colegios |
 | **France** | Unitary | Code civil | nil | Ordre des Médecins | nil |
 | **Netherlands** | Unitary + decentralised jeugdhulp | BW + Jeugdwet 2015 | gemeentelijke jeugdhulp | NIP + NVvP voluntary | nil |

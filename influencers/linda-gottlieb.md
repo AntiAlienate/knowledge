@@ -1,10 +1,10 @@
-# Linda J. Gottlieb, LMFT, LCSW-R
+# Linda J. [Gottlieb](https://turningpointsforfamilies.com/), LMFT, LCSW-R
 
-Founder of Turning Points for Families (TPFF). One of the most operationally important — and contested — figures in the field.
+Founder of Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)). One of the most operationally important — and contested — figures in the field.
 
 ## Why she matters here
 
-Gottlieb runs a four-day intensive reunification programme used by US and Canadian courts in severe-alienation cases. Her programme is widely ordered, widely defended, and widely criticised. If you are considering or fighting a court-ordered intensive reunification programme — Family Bridges, TPFF, Transitioning Families, Overcoming Barriers — you need to understand what TPFF actually does and how it is critiqued.
+Gottlieb runs a four-day intensive reunification programme used by US and Canadian courts in severe-alienation cases. Her programme is widely ordered, widely defended, and widely criticised. If you are considering or fighting a court-ordered intensive reunification programme — [Family Bridges](https://warshak.com/family-bridges/), TPFF, Transitioning Families, Overcoming Barriers — you need to understand what TPFF actually does and how it is critiqued.
 
 ## Credentials & affiliation
 

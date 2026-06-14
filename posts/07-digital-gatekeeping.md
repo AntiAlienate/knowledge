@@ -1,6 +1,6 @@
 # Digital Gatekeeping — How Modern Alienation Hides in Your Phone
 
-> **TL;DR.** Modern parental alienation increasingly happens at the device layer — blocked calls, deleted messages, "lost" voicemails, social-media account changes, video-call sabotage. These behaviors fit Baker's strategy #3 (interfering with communication) and #4 (interfering with symbolic communication). Document them with metadata or they don't exist in court.
+> **TL;DR.** Modern parental alienation increasingly happens at the device layer — blocked calls, deleted messages, "lost" voicemails, social-media account changes, video-call sabotage. These behaviors fit [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) strategy #3 (interfering with communication) and #4 (interfering with symbolic communication). Document them with metadata or they don't exist in court.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/digital-gatekeeping](https://www.antialienate.com/blog/digital-gatekeeping).**
@@ -26,7 +26,7 @@ For blocked calls: keep your own call log showing attempted contact + duration s
 
 ## The legal frame
 
-Digital gatekeeping fits **Baker's strategy #3** (interfering with communication) and **#4** (interfering with symbolic communication). These are documented alienating behaviors per Harman, Kruk & Hines (2018) — actionable in family court without invoking the contested "PAS" framing.
+Digital gatekeeping fits **Baker's strategy #3** (interfering with communication) and **#4** (interfering with symbolic communication). These are documented alienating behaviors per [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) — actionable in family court without invoking the contested "PAS" framing.
 
 ## Source-blog hyperlinks
 

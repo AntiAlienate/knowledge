@@ -25,7 +25,7 @@ These ranges are for *one* party. Both parties typically incur similar costs.
 1. **Lawyer hourly rate × hours** — the largest line item by far
 2. **Custody evaluator / psychologue forensique** — €3,000-€15,000 per evaluation, sometimes split between parties
 3. **Reunification therapy** — €100-€200/session × 30-60 sessions, usually targeted-parent-funded
-4. **Intensive reunification programs** (Family Bridges, Family Reflections) — $25,000-$40,000 per program
+4. **Intensive reunification programs** ([Family Bridges](https://warshak.com/family-bridges/), Family Reflections) — $25,000-$40,000 per program
 5. **Travel** for cross-border / cross-state custody — variable but commonly €2,000-€10,000/year
 6. **Lost income** — court days, evaluation appointments, recovery time = often 5-10% of annual income
 

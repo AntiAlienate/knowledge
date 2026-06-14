@@ -10,7 +10,7 @@ Your lawyer is your most expensive resource. Use them well.
 
 1. "How many cases involving alienation behaviors have you taken to a contested final hearing?"
 2. "Which clinicians or evaluators do you usually work with on these matters?"
-3. "Have you read [Warshak / Bernet / Baker / Eddy] — and which authors do you find most credible?"
+3. "Have you read [Warshak / Bernet / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Eddy] — and which authors do you find most credible?"
 
 If they hedge on all three, keep looking. PA cases need lawyers who've lived them, not generalists.
 

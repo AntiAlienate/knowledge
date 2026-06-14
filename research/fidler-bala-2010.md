@@ -90,11 +90,11 @@ The 2010 *Family Court Review* special issue on PA was a watershed moment in the
 | Article | Authors | Contribution |
 |---|---|---|
 | **Fidler & Bala** | Comprehensive review (this entry) |
-| Warshak | Family Bridges intensive protocol |
+| [Warshak](https://warshak.com/family-bridges/) | [Family Bridges](https://warshak.com/family-bridges/) intensive protocol |
 | Reay | Family Reflections (alternate intensive) |
 | Friedlander & Walters | MMFI outpatient + 4-category typology |
-| Bernet et al. | DSM-5/ICD-11 inclusion arguments |
-| Saini | Custody-evaluation considerations |
+| [Bernet et al.](https://pasg.info/) | [DSM-5](https://www.appi.org/products/dsm)/ICD-11 inclusion arguments |
+| [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) | Custody-evaluation considerations |
 | Templer et al. | Empirical-research review |
 
 This entire 2010 special issue is foundational. Fidler & Bala is the most-cited single piece from it.

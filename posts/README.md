@@ -25,7 +25,7 @@ Topics covered:
 - Court strategy (admissibility, expert witnesses, jurisdiction-specific)
 - Tactics (alienator playbook + targeted-parent responses)
 - Special situations (narcissistic co-parent, military deployment, grandparents, long-distance custody)
-- Clinical (reunification therapy, therapist gatekeeping, DSM-5 inclusion)
+- Clinical (reunification therapy, therapist gatekeeping, [DSM-5](https://www.appi.org/products/dsm) inclusion)
 
 ---
 

@@ -9,7 +9,7 @@
 **Standards:** Primary sources only — national register entries where searchable, practice / institutional website, peer-reviewed publications, court records, named press. Where a fact could not be confirmed from a public primary source it is flagged "**not publicly confirmed**".
 
 **Stance taxonomy:**
-- `recognition` — treats alienação parental / alienación parental as a real, assessable phenomenon; operates or endorses PA-specific assessment, expert-witness or reunification work; typically PASG / CEAP / GARI-PA-aligned.
+- `recognition` — treats alienação parental / alienación parental as a real, assessable phenomenon; operates or endorses PA-specific assessment, expert-witness or reunification work; typically [PASG](https://pasg.info/) / CEAP / GARI-PA-aligned.
 - `critique` — argues the PA construct (especially Gardner's SAP) is operationalised against DV / coercive-control survivors (predominantly mothers and children); advocates DV/trauma-informed alternatives and tighter regulation of expert witnesses; supports repeal of Lei 12.318/2010 or jurisprudential proscription as in Colombia 2023.
 - `middle` — engages both alienating-behaviour and family-violence frames; differential-diagnosis or systemic / multi-family approach; not aligned with PASG and not in the abolitionist critique camp.
 
@@ -112,7 +112,7 @@ Brazil's clinical-psychology terrain is **uniquely polarised** in 2026. The **CF
 ### 5. Profa Leila Maria Torraca de Brito, PhD
 - **Country / city:** BR / Rio de Janeiro
 - **Practice / affiliation:** Professora Titular aposentada do Instituto de Psicologia da **UERJ**; ex-coordenadora do Curso de Especialização em Psicologia Jurídica UERJ; pesquisadora em psicologia jurídica e direitos da infância
-- **Practice URLs:** Google Scholar https://scholar.google.com/citations?user=pyf8_N0AAAAJ&hl=pt-BR ; Escavador https://www.escavador.com/sobre/7720071/leila-maria-torraca-de-brito ; ResearchGate https://www.researchgate.net/scientific-contributions/Leila-Maria-Torraca-de-Brito-2048493816
+- **Practice URLs:** [Google Scholar](https://scholar.google.com/) https://scholar.google.com/citations?user=pyf8_N0AAAAJ&hl=pt-BR ; Escavador https://www.escavador.com/sobre/7720071/leila-maria-torraca-de-brito ; ResearchGate https://www.researchgate.net/scientific-contributions/Leila-Maria-Torraca-de-Brito-2048493816
 - **Regulatory body:** **CRP-05** (Rio de Janeiro) — Psicóloga (Universidade Santa Úrsula 1978; PhD Psicologia Clínica PUC-Rio 1999; pós-doc UFPR 2007 + PUC-MG 2012)
 - **Registration number:** **not publicly displayed**
 - **Specialty:** Psicologia jurídica; guarda de filhos; escuta de crianças no sistema de justiça; adolescentes em conflito com a lei; **crítica acadêmica à transposição da SAP de Gardner para a Lei 12.318/2010**
@@ -176,7 +176,7 @@ Mexico's PA-clinical landscape is **sparse but polarised**: SCJN's 2021 *Protoco
 
 ### 1. Dr Alejandro Mendoza-Amaro, MD PhD
 - **Country / city:** MX / Morelia, Michoacán (Xengua 106, Col. Bosque Camelinas, C.P. 58290)
-- **Practice / affiliation:** **Jefe de Enseñanza e Investigación, Hospital Psiquiátrico "Dr. José Torres Orozco"** (Secretaría de Salud de Michoacán) since Aug 2018; **Presidente del Capítulo Hispano de Global Action for Research Integrity in Parental Alienation (GARI-PA)**; **Miembro Parental Alienation Study Group (PASG) since 31 March 2019**; **Delegado Científico Asociación Mexicana de Padres de Familia Separados (AMPFS)** since Jan 2018; **Miembro Comité Científico CEAP Argentina**
+- **Practice / affiliation:** **Jefe de Enseñanza e Investigación, Hospital Psiquiátrico "Dr. José Torres Orozco"** (Secretaría de Salud de Michoacán) since Aug 2018; **Presidente del Capítulo Hispano de Global Action for Research Integrity in Parental Alienation (GARI-PA)**; **Miembro [Parental Alienation Study Group](https://pasg.info/) (PASG) since 31 March 2019**; **Delegado Científico Asociación Mexicana de Padres de Familia Separados (AMPFS)** since Jan 2018; **Miembro Comité Científico CEAP Argentina**
 - **Practice URLs:** https://mendozaphd.wixsite.com/website ; LinkedIn https://www.linkedin.com/in/alejandromendozaamaromdphd/ ; Aprende en Línea CV https://aprendeenlinea.cr/cv-alejandro-mendoza-amaro/ ; ResearchGate https://www.researchgate.net/profile/Alejandro-Amaro-4
 - **Regulatory body:** **Cédula Profesional / SEP** as Médico Cirujano y Partero (MD 1999-2006) + Lic. Psicología Educativa (1997-2001) + Maestría en Ciencias de la Salud (2008-2011) + PhD Psicología (2015-2018, Universidad de Guadalajara). **Cédula number not publicly displayed.**
 - **Registration number:** **not publicly displayed**

@@ -1,6 +1,6 @@
 # A Mother's Battle — A Story Whose Shape You'll Recognize Whether You're a Mother or a Father
 
-> **TL;DR.** Fictional 5-scene vignette synthesizing patterns from the longitudinal PA literature. The post is anchored in **Harman, Kruk & Hines (2018)** finding that parental alienation victimization is **gender-symmetric** — roughly equal prevalence between mothers and fathers. The cultural narrative (PA as mostly a fathers'-rights issue) has not caught up to the data. The shape of the experience is the same. So is the reunification path: be the door that refuses to close.
+> **TL;DR.** Fictional 5-scene vignette synthesizing patterns from the longitudinal PA literature. The post is anchored in **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** finding that parental alienation victimization is **gender-symmetric** — roughly equal prevalence between mothers and fathers. The cultural narrative (PA as mostly a fathers'-rights issue) has not caught up to the data. The shape of the experience is the same. So is the reunification path: be the door that refuses to close.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/a-mothers-battle](https://www.antialienate.com/blog/a-mothers-battle).**
@@ -51,7 +51,7 @@ This is fiction synthesizing patterns from the longitudinal PA literature. The c
 
 - **Harman, Kruk & Hines (2018)** — *Psychological Bulletin* meta-analysis: PA victimization is **gender-symmetric** (roughly equal prevalence between mothers and fathers). The cultural narrative that PA is mostly a "fathers'-rights" issue has not caught up to the data.
 - **Boss (1999)** — *Ambiguous Loss.* The signature wound. Grief without a funeral.
-- **Baker (2007)** — longitudinal adult-children data. Many alienated children eventually re-engage. The most common turning point is not a court ruling but a life event that reframes the old story.
+- **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — longitudinal adult-children data. Many alienated children eventually re-engage. The most common turning point is not a court ruling but a life event that reframes the old story.
 - **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568 — UK Court of Appeal recognition of a mother-targeted case. The legal architecture is increasingly gender-neutral.
 - **Bondavalli v. Italy** (ECHR 2015) — applies regardless of which parent is targeted.
 
@@ -79,7 +79,7 @@ This is fiction synthesizing patterns from the longitudinal PA literature. The c
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors: An Unacknowledged Form of Family Violence. *Psychological Bulletin, 144*(12), 1275–1299.
 - Boss, P. (1999). *Ambiguous Loss.* Harvard University Press.
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.*
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568.
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12.
 

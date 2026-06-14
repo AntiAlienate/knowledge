@@ -1,6 +1,6 @@
 # Article 8 Motion Templates — Ready-to-Adapt Language for Any of 46 ECHR States
 
-> **TL;DR.** A copy-and-adapt template pack for ECHR Article 8 motions in parental-alienation cases. Each template cites the strongest available case-law stack and frames the specific procedural ask. Use these as starting points — never as plug-and-play. Always have a qualified family-law attorney in your jurisdiction adapt to local procedure.
+> **TL;DR.** A copy-and-adapt template pack for [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) motions in parental-alienation cases. Each template cites the strongest available case-law stack and frames the specific procedural ask. Use these as starting points — never as plug-and-play. Always have a qualified family-law attorney in your jurisdiction adapt to local procedure.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/article-8-motion-template-pack](https://www.antialienate.com/blog/article-8-motion-template-pack).**
@@ -29,7 +29,7 @@ For wait-list / scheduling delays that have become months-long:
 
 For when the State / opposing counsel argues "the child's rejection has now become entrenched":
 
-> *Per Mincheva v Bulgaria (ECHR 2010, App. no. 21558/03), the State cannot invoke the consequences of its own enforcement failure — including the child's now-deepened resistance — as a justification for further declining to act. The N-year delay in the present matter has produced precisely the outcome that delay tends to produce; the Court rejected this circular reasoning in Mincheva. The same logic applies here. The Court is respectfully asked to: (a) order graduated reintroduction therapy per the Warshak (2010) / Reay (2015) protocols; (b) impose continued enforcement measures during the reintroduction process; (c) decline to characterize the entrenched resistance as a substantive obstacle to the State's enforcement duty.*
+> *Per Mincheva v Bulgaria (ECHR 2010, App. no. 21558/03), the State cannot invoke the consequences of its own enforcement failure — including the child's now-deepened resistance — as a justification for further declining to act. The N-year delay in the present matter has produced precisely the outcome that delay tends to produce; the Court rejected this circular reasoning in Mincheva. The same logic applies here. The Court is respectfully asked to: (a) order graduated reintroduction therapy per the [Warshak](https://warshak.com/family-bridges/) (2010) / Reay (2015) protocols; (b) impose continued enforcement measures during the reintroduction process; (c) decline to characterize the entrenched resistance as a substantive obstacle to the State's enforcement duty.*
 
 ## Template 5 — Cross-border child removal (within EU)
 
@@ -41,13 +41,13 @@ For when the resident parent has moved the child to another EU member state:
 
 For US-citizen targeted parents whose child is in an ECHR-state country:
 
-> *The applicant is a citizen of the United States whose child has been [wrongfully removed to / alienated within] [European state]. The applicant invokes: (1) the Hague Convention on the Civil Aspects of International Child Abduction (1980) as implemented by ICARA, 22 U.S.C. § 9001 et seq.; (2) the European Court of Human Rights' Article 8 jurisprudence directly binding on this Court, including Bondavalli v Italy (2015), Improta v Italy (2017), and Pisică v Moldova (2024); (3) Council Regulation (EU) 2019/1111 (Brussels IIb) where applicable. The Court is respectfully asked to [specific relief]. The applicant has notified the US State Department Office of Children's Issues (case #) and coordinated with the US Embassy/Consulate in [city].*
+> *The applicant is a citizen of the United States whose child has been [wrongfully removed to / alienated within] [European state]. The applicant invokes: (1) the Hague Convention on the Civil Aspects of International Child Abduction (1980) as implemented by [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97), 22 U.S.C. § 9001 et seq.; (2) the European Court of Human Rights' Article 8 jurisprudence directly binding on this Court, including Bondavalli v Italy (2015), Improta v Italy (2017), and Pisică v Moldova (2024); (3) Council Regulation (EU) 2019/1111 (Brussels IIb) where applicable. The Court is respectfully asked to [specific relief]. The applicant has notified the US State Department Office of Children's Issues (case #) and coordinated with the US Embassy/Consulate in [city].*
 
 ## Template 7 — Expert assessment with PA-specific terms of reference
 
 For requesting a court-appointed PA expert:
 
-> *The Court is respectfully asked to appoint an expert under [Civil Code 1253ter/4 (Belgium) / §730 (US) / Section 7 (UK)] with the following terms of reference: (a) document any alienating behaviors per Baker's 8 indicators (2007); (b) assess whether the child's stated position meets the disproportionality test of Bernet's 5 essential criteria (2010); (c) rule out justified estrangement; (d) recommend a graduated reintroduction protocol per Warshak (2010) or Reay (2015); (e) provide assessment in a Daubert-survivable behavior-frame format (Harman/Kruk/Hines 2018), not in syndrome-frame format. Three names are proposed: [list]. The expert's report should be filed within [N] days.*
+> *The Court is respectfully asked to appoint an expert under [Civil Code 1253ter/4 (Belgium) / §730 (US) / Section 7 (UK)] with the following terms of reference: (a) document any alienating behaviors per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators (2007); (b) assess whether the child's stated position meets the disproportionality test of Bernet's 5 essential criteria (2010); (c) rule out justified estrangement; (d) recommend a graduated reintroduction protocol per Warshak (2010) or Reay (2015); (e) provide assessment in a Daubert-survivable behavior-frame format (Harman/Kruk/Hines 2018), not in syndrome-frame format. Three names are proposed: [list]. The expert's report should be filed within [N] days.*
 
 ## Template 8 — Transfer of residence (intractable PA cases)
 
@@ -92,7 +92,7 @@ For severe entrenched cases where conventional remedies have failed:
 - *Z.J. v Lithuania*, App. no. 60092/12, ECHR 2022
 - *Pisică v Moldova*, App. no. 23641/17, ECHR 2024
 - Council Regulation (EU) 2019/1111 (Brussels IIb)
-- Hague Convention 1980; ICARA 22 U.S.C. § 9001
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24); ICARA 22 U.S.C. § 9001
 - *Re W (Children)* [2012] EWCA Civ 999; *Re C [2023] EWHC 345 (Fam)*
 - BGH XII ZB 565/15 (Germany 2018); Cass civ 1ère 22 mars 2023 (France); Cassazione 9691/2022 (Italy)
 

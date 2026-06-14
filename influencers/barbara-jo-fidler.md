@@ -11,7 +11,7 @@ Fidler co-authored the field's most balanced practitioner text — *Children Who
 - PhD, registered clinical-forensic psychologist
 - Accredited family mediator (Ontario)
 - Private practice, Toronto
-- Senior trainer, Association of Family and Conciliation Courts (AFCC)
+- Senior trainer, Association of Family and Conciliation Courts ([AFCC](https://www.afccnet.org/))
 - Co-recipient (with Bala) of AFCC's top award for promoting dialogue on PA
 
 ## Key contributions

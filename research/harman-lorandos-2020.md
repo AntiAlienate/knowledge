@@ -37,7 +37,7 @@ location_tags: [united-states, harman-lorandos, jurisprudential-review, court-ou
 
 1. **Acceptance is increasing, not decreasing** — courts more willing to consider alienation claims year over year (despite the public narrative)
 2. **40-50% of substantiated PA cases produce custody modification** — sometimes residency flip, more often joint custody with structural conditions
-3. **Documentation quality is the single biggest outcome predictor** — Bernet 5-criteria + Baker 8-indicators framing succeeds at ~3x the rate of "I just feel alienated"
+3. **Documentation quality is the single biggest outcome predictor** — Bernet 5-criteria + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8-indicators framing succeeds at ~3x the rate of "I just feel alienated"
 4. **Behavior-frame > syndrome-frame** — courts increasingly disfavor "PAS" framing; "alienating behaviors" succeeds more often
 5. **GAL/Section-7 quality varies enormously** — court-appointed experts with PA training produce different conclusions than untrained generalists
 
@@ -84,7 +84,7 @@ These critiques refine but do not undermine the core empirical contribution: thi
 
 - DOI: https://doi.org/10.1080/26904586.2020.1808203
 - Harman: Colorado State University, Department of Psychology
-- Lorandos: Lorandos Joshi PC; PASG legal advisor
+- Lorandos: Lorandos Joshi PC; [PASG](https://pasg.info/) legal advisor
 
 ## Related entries
 

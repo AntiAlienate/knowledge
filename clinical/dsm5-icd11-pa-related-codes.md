@@ -9,7 +9,7 @@ last_reviewed: 2026-05-17
 location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related, court-evidence]
 ---
 
-# DSM-5 + ICD-11 Diagnostic Codes Relevant to PA
+# [DSM-5](https://www.appi.org/products/dsm) + [ICD-11](https://icd.who.int/) Diagnostic Codes Relevant to PA
 
 > **TL;DR.** Although **"Parental Alienation" itself was not added as a standalone DSM-5 or ICD-11 diagnosis** (the inclusion campaigns led by Bernet did not succeed for a standalone code), the diagnostic systems do contain related codes that clinicians + courts use to capture PA-pattern harm. This reference catalogs those codes with practical court-application notes.
 
@@ -23,7 +23,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 > "Nonaccidental verbal or symbolic acts by a child's parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child."
 
-**PA-relevance:** This is the most-cited DSM-5 code for documented PA harm. The 8 Baker indicators map directly onto "nonaccidental verbal or symbolic acts." Court-evidence framing uses this code to operationalize PA harm in a DSM-recognized way.
+**PA-relevance:** This is the most-cited DSM-5 code for documented PA harm. The 8 [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) indicators map directly onto "nonaccidental verbal or symbolic acts." Court-evidence framing uses this code to operationalize PA harm in a DSM-recognized way.
 
 **Use in court:** Expert witnesses + custody evaluators can document the alienating parent's conduct as meeting V995.51 criteria — providing diagnostic-system anchoring without requiring a separate "PA" diagnosis.
 
@@ -62,7 +62,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 Bernet (2010) led a multi-year campaign to add **"Parental Alienation"** as a standalone diagnostic code. The campaigns:
 
 - **DSM-5 campaign (2010-2013)** — did not succeed. PA was not added as a standalone diagnosis.
-- **DSM-5-TR (2022)** — V995.51 + V61.29 retained but no standalone PA code.
+- **[DSM-5-TR](https://www.appi.org/products/dsm) (2022)** — V995.51 + V61.29 retained but no standalone PA code.
 - **ICD-11 campaign (2015-2018)** — same outcome; standalone PA code rejected.
 - **2018 Harman/Kruk/Hines reframe** — the field strategically pivoted toward "alienating behaviors" (PABs) at the **behaviors** level, leveraging existing codes (V995.51, QE52) — which has proved more workable + Daubert-survivable than the syndromal frame would have been.
 

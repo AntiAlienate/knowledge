@@ -11,7 +11,7 @@
 
 1. *"Have you handled a case where the child was refusing contact and you needed to keep that contact in place?"* — looking for: yes, with specific outcomes
 2. *"Do you frame these cases as parental alienation syndrome, or as alienating behaviors?"* — correct answer: **behaviors** (Daubert-survivable)
-3. *"What's your view on Bondavalli, Improta, and the ECHR Article 8 line?"* — non-EU lawyers: substitute Troxel + Abbott
+3. *"What's your view on Bondavalli, Improta, and the [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) line?"* — non-EU lawyers: substitute Troxel + Abbott
 4. *"How do you handle a Section 7 / GAL report that doesn't address coaching?"* — looking for: cross-examination plan
 5. *"What's your relationship with [local supervised-visitation network]?"* — looking for: knows the wait-list reality
 6. *"Have you motioned for an Article 1253ter/4 modality 4 (private psychologue)?"* (Belgium) / *"Have you motioned for a 730 evaluator?"* (CA) / *"a Section 7 specialist with PA training?"* (UK) — looking for: yes, knows the workaround

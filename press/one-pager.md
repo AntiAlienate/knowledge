@@ -37,8 +37,8 @@ The largest open-source knowledge base on parental alienation. Free. CC BY 4.0. 
 ## Suggested interview subjects
 
 - Alan Markson — project cataloguer
-- William Bernet (Vanderbilt; founder, Parental Alienation Study Group) — for academic context
-- Richard Warshak (clinical psychologist; *Divorce Poison*) — for clinical framing
+- William Bernet (Vanderbilt; founder, [Parental Alienation Study Group](https://pasg.info/)) — for academic context
+- Richard [Warshak](https://warshak.com/family-bridges/) (clinical psychologist; *Divorce Poison*) — for clinical framing
 - Bill Eddy (High Conflict Institute) — for practitioner perspective
 - Karen Woodall (UK Family Separation Clinic) — for European perspective
 

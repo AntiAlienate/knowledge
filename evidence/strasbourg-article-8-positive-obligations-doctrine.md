@@ -4,7 +4,7 @@ A focused thematic synthesis of the European Court of Human Rights (ECHR) Articl
 
 ## The doctrinal architecture
 
-### Article 8 ECHR (1950)
+### [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (1950)
 > **Article 8 — Right to respect for private and family life**
 > 1. Everyone has the right to respect for his private and family life, his home and his correspondence.
 > 2. There shall be no interference by a public authority with the exercise of this right except such as is in accordance with the law and is necessary in a democratic society in the interests of national security, public safety or the economic well-being of the country, for the prevention of disorder or crime, for the protection of health or morals, or for the protection of the rights and freedoms of others.
@@ -81,7 +81,7 @@ Cassazione 13217/2021 + 9691/2022 + 4595/2025 + Riforma Cartabia D.lgs. 149/2022
 French Cour de cassation 12-14.392 (2013) operates substantive engagement with custody jurisprudence; CIIVISE Durand 2024 institutional engagement post-dates the Italian triptych. Strasbourg Art 8 doctrine cited in French domestic family-law contexts but no comparable doctrinal-densely-integrated engagement. Cross-link: jurisdiction:france.
 
 ### Hague Convention intersection
-Strasbourg engages Hague Convention 1980 return proceedings under Art 8 — leading line **Neulinger and Shuruk v Switzerland [GC] (2010)** + **X v Latvia [GC] (2013)**. Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
+Strasbourg engages [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return proceedings under Art 8 — leading line **Neulinger and Shuruk v Switzerland [GC] (2010)** + **X v Latvia [GC] (2013)**. Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
 
 ### Other EU member states
 - **Germany BVerfG 1 BvR 1076/23** operates within Convention-conform interpretation of Grundgesetz; substantive PAS-construct critique aligns with Strasbourg Art 8 best-interests standard.

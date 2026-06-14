@@ -25,16 +25,16 @@ This page maps each common court-submission claim back to those seven pages.
 ### Claim 1: Pattern conduct of the kind described as parental-alienating behaviour can cause significant psychological harm to children
 
 **Primary support:**
-- Harman, Kruk & Hines (2018) *Psychological Bulletin* 144(12):1275-1299 — peer-reviewed APA flagship-journal characterisation as a form of family violence
+- [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) *Psychological Bulletin* 144(12):1275-1299 — peer-reviewed APA flagship-journal characterisation as a form of family violence
 - Verhaar, Matthewson & Bentley (2022) *Children* 9(4):475 — within-sample 90% mental-health difficulties, 55% depression/anxiety, 30% suicidal ideation
 - Qin et al. (2022) Chinese longitudinal n=877 — alienation → later depression, γ04 = 1.85, p<0.001
-- Bernet, Baker & Verrocchio (2015) SCL-90-R n=739 Italian adults — quantitative association with adult distress
+- Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) SCL-90-R n=739 Italian adults — quantitative association with adult distress
 
 **Cross-references:** [Mental-Health Outcomes](mental-health-outcomes.md) §1-5
 
 **Anticipated critique:** Mercer (2021) Parts 1-2 + Doughty/Maxwell/Slater (2020) on methodology limitations of self-selected retrospective samples. **Counter:** acknowledge methodological caveats, distinguish behaviour-and-outcome claim from diagnosis claim.
 
-### Claim 2: Severe parental-alienating conduct can meet existing DSM-5 / ICD-11 child-psychological-abuse criteria
+### Claim 2: Severe parental-alienating conduct can meet existing [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/) child-psychological-abuse criteria
 
 **Primary support:**
 - DSM-5 V995.51 / T74.32XA (Confirmed) and T76.32XA (Suspected) Child Psychological Abuse — verbatim definition supports application to alienation-pattern conduct
@@ -50,7 +50,7 @@ This page maps each common court-submission claim back to those seven pages.
 
 **Primary support:**
 - Brazil Lei 12.318/2010 (most explicit statutory regime; called "abuso moral")
-- UK Domestic Abuse Act 2021 ss.1, 3 (reaches alienating conduct via coercive control + psychological abuse + child-victim provisions)
+- UK [Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17) ss.1, 3 (reaches alienating conduct via coercive control + psychological abuse + child-victim provisions)
 - 18 jurisdictions documented in [Global Comparison Matrix](../case-studies/global-comparison.md)
 - 26 case studies showing judicial handling across jurisdictions
 
@@ -75,9 +75,9 @@ This page maps each common court-submission claim back to those seven pages.
 ### Claim 5: Reunification programmes have published outcome claims but lack independent peer-reviewed efficacy data
 
 **Primary support:**
-- Family Bridges (Warshak 2010 + 2019) — programme-team published outcomes; no independent evaluation
-- TPFF (Harman/Saunders/Afifi 2022) — 96.4% staff-judged reconnection BUT validated communication scale showed no significant change (B = −0.003, p > 0.05); declared COI
-- AB-PA (Childress) — no peer-reviewed outcome study identified
+- [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/) 2010 + 2019) — programme-team published outcomes; no independent evaluation
+- [TPFF](https://turningpointsforfamilies.com/) (Harman/[Saunders](https://www.ovw.usdoj.gov/)/Afifi 2022) — 96.4% staff-judged reconnection BUT validated communication scale showed no significant change (B = −0.003, p > 0.05); declared COI
+- [AB-PA](https://drcachildress.org/) ([Childress](https://drcachildress.org/)) — no peer-reviewed outcome study identified
 - MMFI (Friedlander & Walters 2010) — own admission "*no reports of controlled empirical studies*"
 - OBFC (Sullivan/Ward/Deutsch 2010) — 6-month follow-up of 5 families
 - Transitioning Families — own paper explicitly disclaims having outcome data
@@ -89,8 +89,8 @@ This page maps each common court-submission claim back to those seven pages.
 ### Claim 6: There is documented gender-asymmetric outcome data in US family-court PA cases
 
 **Primary support:**
-- Meier et al. (2020) — 4,338 NIJ-coded cases. Fathers' cross-claims of alienation **virtually double** mothers' risk of losing custody when claiming abuse. CSA claims proved 1/51 (2%) when fathers cross-claimed alienation.
-- Silberg & Dallam (2019) — 27 turned-around cases. 88% new abuse incidents. 73% GAL aligned with perpetrator. 67% mothers pathologized. 21% child pornography findings post-reversal.
+- [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2020) — 4,338 NIJ-coded cases. Fathers' cross-claims of alienation **virtually double** mothers' risk of losing custody when claiming abuse. CSA claims proved 1/51 (2%) when fathers cross-claimed alienation.
+- [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — 27 turned-around cases. 88% new abuse incidents. 73% GAL aligned with perpetrator. 67% mothers pathologized. 21% child pornography findings post-reversal.
 - UN Special Rapporteur Alsalem A/HRC/53/36 — international institutional confirmation of gender-asymmetric application
 
 **Cross-references:** [Forensic Operation in Courts](forensic-operation-in-courts.md) §1-3
@@ -102,7 +102,7 @@ This page maps each common court-submission claim back to those seven pages.
 **Primary support:**
 - Saunders (2015) NCJFCJ guidebook — verbatim on PAS misuse and evaluator-training survey statistics
 - Re Y [2026] EWFC 38 — McFarlane P set-aside on the back of unregulated-expert appointment
-- Cafcass 2024 verbatim rejection of PA as diagnosis label requiring evaluator-balanced training
+- [Cafcass](https://www.cafcass.gov.uk/) 2024 verbatim rejection of PA as diagnosis label requiring evaluator-balanced training
 
 **Cross-references:** [Forensic Operation in Courts §4](forensic-operation-in-courts.md); [Case Studies → Re Y](../case-studies/re-y-experts-and-alienating-behaviour-2026-ewfc-38.md); [Playbooks → Evaluator Selection](../playbooks/evaluator-selection.md)
 
@@ -118,7 +118,7 @@ WHO removed it from ICD-11. DSM-5 declined to include it. APA has no position. A
 
 ### Anti-claim 2: "Approximately 740,000 US children suffer from parental alienation"
 
-This is Bernet's *calculation chain* (~20% × ~25% × ~25%), not an epidemiological measurement. Each multiplier is itself an estimate. Saini, Johnston, Fidler & Bala (2016, p. 380): **"to date there are no defensible estimates of the prevalence or incidence of the problem."** Citing 740,000 as a measured prevalence will be successfully impeached on cross.
+This is Bernet's *calculation chain* (~20% × ~25% × ~25%), not an epidemiological measurement. Each multiplier is itself an estimate. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016, p. 380): **"to date there are no defensible estimates of the prevalence or incidence of the problem."** Citing 740,000 as a measured prevalence will be successfully impeached on cross.
 
 **Source review:** [Prevalence Claims Under Scrutiny](prevalence-claims.md)
 
@@ -134,7 +134,7 @@ The widely-cited Family Bridges figure is the *maintained-gains* rate at 90-day 
 
 ### Anti-claim 4: "A child's rejection of one parent is itself evidence of alienation by the other"
 
-Directly contradicted by APSAC 2022 Position Statement, Saini/Johnston/Fidler/Bala 2016 differential-diagnosis framework, Kelly & Johnston 2001 resist-refuse model, and the entire 2010+ practitioner literature. Single-construct PA findings on this basis are the methodological error that Re Y [2026], BVerfG 1 BvR 1076/23, and Cass.civ.I 9691/2022 all rejected.
+Directly contradicted by APSAC 2022 Position Statement, Saini/Johnston/Fidler/Bala 2016 differential-diagnosis framework, [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001 resist-refuse model, and the entire 2010+ practitioner literature. Single-construct PA findings on this basis are the methodological error that Re Y [2026], BVerfG 1 BvR 1076/23, and Cass.civ.I 9691/2022 all rejected.
 
 **Source review:** [Forensic Operation in Courts §4](forensic-operation-in-courts.md); [Diagnostic Codes That DO Apply §4](diagnostic-codes-that-apply.md); [Glossary](../glossary/glossary.md) on "Resist-Refuse Dynamics"
 
@@ -166,7 +166,7 @@ Cafcass, the Bernet/Wamboldt/Narrow 2016 CAPRD framework, ICD-11 QE52.0, and mos
 
 ### For an opposition skeleton argument (defending against tactical PA claim)
 
-> *"The other party invites the court to make a finding of 'parental alienation' against the respondent mother. The court is asked to do so before fact-finding on the respondent's allegations of domestic abuse. This is the procedural error that the Court of Appeal in Re Y [2026] EWFC 38 set aside. Per Re Y (McFarlane P) and Re H-N [2021] EWCA Civ 448 (McFarlane P + Sharp PQBD + King LJ), fact-finding on abuse allegations must precede any expert assessment on alienation. The proposed expert [name] is not registered with the HCPC or chartered by the BPS, contrary to the requirement now established under Re Y. We invite the court to direct fact-finding first and to refuse the proposed expert appointment."*
+> *"The other party invites the court to make a finding of 'parental alienation' against the respondent mother. The court is asked to do so before fact-finding on the respondent's allegations of domestic abuse. This is the procedural error that the Court of Appeal in Re Y [2026] EWFC 38 set aside. Per Re Y (McFarlane P) and Re H-N [2021] EWCA Civ 448 (McFarlane P + Sharp PQBD + King LJ), fact-finding on abuse allegations must precede any expert assessment on alienation. The proposed expert [name] is not registered with the [HCPC](https://www.hcpc-uk.org/) or chartered by the [BPS](https://www.bps.org.uk/), contrary to the requirement now established under Re Y. We invite the court to direct fact-finding first and to refuse the proposed expert appointment."*
 
 ---
 

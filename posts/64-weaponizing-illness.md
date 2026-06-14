@@ -1,6 +1,6 @@
 # Weaponizing Illness — A Story That Names What Most Therapists Won't
 
-> **TL;DR.** A short fictional vignette anchored in **DSM-5 V300.19** (Factitious Disorder Imposed on Another, formerly "Munchausen by Proxy") and **WHO ICD-11 6D52** (Caregiver-Fabricated Illness in a Child). The pattern: a child's "sudden illnesses" arriving within 48 hours of every exchange weekend, with no contemporaneous outside-clinician record. Most pediatricians receive zero training on FDIA. The school nurse's log is often the most accurate documentary witness. Naming is the precondition for changing it.
+> **TL;DR.** A short fictional vignette anchored in **[DSM-5](https://www.appi.org/products/dsm) V300.19** (Factitious Disorder Imposed on Another, formerly "Munchausen by Proxy") and **WHO [ICD-11](https://icd.who.int/) 6D52** (Caregiver-Fabricated Illness in a Child). The pattern: a child's "sudden illnesses" arriving within 48 hours of every exchange weekend, with no contemporaneous outside-clinician record. Most pediatricians receive zero training on FDIA. The school nurse's log is often the most accurate documentary witness. Naming is the precondition for changing it.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/weaponizing-illness-fiction](https://www.antialienate.com/blog/weaponizing-illness-fiction).**
@@ -58,7 +58,7 @@ This is fiction. The clinical anchors are not.
 - **DSM-5 V995.51** — Child Psychological Abuse (the broader frame)
 - **Roesler & Jenny (2009)** — *Medical Child Abuse* — the framework used in pediatric forensic assessment today
 - **Sanders & Bursch (2002)** — *Munchausen by Proxy: A Survey of Pediatric Forensic Issues*
-- **Baker (2007)** — illness-fabrication included among the 17 strategies of parental alienation
+- **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — illness-fabrication included among the 17 strategies of parental alienation
 
 ## Why this often goes unnamed
 

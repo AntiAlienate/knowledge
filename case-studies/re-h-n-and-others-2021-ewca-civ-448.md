@@ -7,11 +7,11 @@
 
 ## Parties
 
-Four conjoined appeals, all anonymised: **Re B-B**, **Re T**, **Re H-N**, and **Re H**. All involved private-law Children Act 1989 proceedings in which mothers alleged domestic abuse by fathers and the trial courts had either declined to hear the allegations, narrowly framed them, or made findings perceived to undervalue patterns of coercive and controlling behaviour. Adult parties are not publicly named in the judgment (standard for s.97 CA 1989 reporting restrictions).
+Four conjoined appeals, all anonymised: **Re B-B**, **Re T**, **Re H-N**, and **Re H**. All involved private-law [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) proceedings in which mothers alleged domestic abuse by fathers and the trial courts had either declined to hear the allegations, narrowly framed them, or made findings perceived to undervalue patterns of coercive and controlling behaviour. Adult parties are not publicly named in the judgment (standard for s.97 CA 1989 reporting restrictions).
 
 The court granted intervener status to four organisations, recognising the importance of the issues:
 
-1. **Cafcass** (First Intervener)
+1. **[Cafcass](https://www.cafcass.gov.uk/)** (First Intervener)
 2. **Rights of Women, Women's Aid Federation of England, Welsh Women's Aid, Rape Crisis England & Wales** (Second Intervener)
 3. **Families Need Fathers** (Third Intervener)
 4. **The Association of Lawyers for Children** (Fourth Intervener)

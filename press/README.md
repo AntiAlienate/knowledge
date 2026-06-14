@@ -8,7 +8,7 @@ This folder contains pre-launch press materials for the AntiAlienate knowledge-b
 
 - **[release-v1.md](release-v1.md)** — Initial launch release. "Largest open-source PA knowledge base."
 - **[release-v2-evidence-launch.md](release-v2-evidence-launch.md)** — Evidence-corpus angle. "10-page primary-source evidence base." Strongest standalone news angle for trade press (Above the Law, Bloomberg Law, BBC Family Court, Above the Law).
-- **[release-v3-knowledge-base-comprehensive.md](release-v3-knowledge-base-comprehensive.md)** — Comprehensive angle. "26 cases, 18 jurisdictions, 10 evidence pages, 12 playbooks." Strongest for general legal/family-law press and for organisational endorsements (PASG, advocacy orgs, professional associations).
+- **[release-v3-knowledge-base-comprehensive.md](release-v3-knowledge-base-comprehensive.md)** — Comprehensive angle. "26 cases, 18 jurisdictions, 10 evidence pages, 12 playbooks." Strongest for general legal/family-law press and for organisational endorsements ([PASG](https://pasg.info/), advocacy orgs, professional associations).
 
 ### Supporting materials
 
@@ -33,7 +33,7 @@ This folder contains pre-launch press materials for the AntiAlienate knowledge-b
 
 - **Three releases ≠ three launches.** They're three angles to fit the audience. Pick one as the primary and send tailored variants to specialist outlets.
 - **Organic before paid** — HN/Reddit pickup justifies paid wire spend; paid wire without organic underneath is mostly SEO trail
-- **Influencer endorsement > press pickup** — a single retweet from Bernet, Warshak, or Silberg compounds for years
+- **Influencer endorsement > press pickup** — a single retweet from Bernet, [Warshak](https://warshak.com/family-bridges/), or Silberg compounds for years
 - **Truthful claims only** — every numerical claim in v2 and v3 must be verifiable from the live repo at time of release
 - **No paid placements in journalism outlets** — the open-source ethos forbids it and would taint future earned-media credibility
 

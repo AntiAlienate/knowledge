@@ -29,7 +29,7 @@ location_tags: [clinical, forensic-assessment, custody-evaluation, mmpi, aspect,
 
 **ASPECT (Ackerman-Schoendorf Scales for Parent Evaluation of Custody)** — 56-item questionnaire administered to each parent. Yields scales on Observational, Social, Cognitive-Emotional. Limitation: dated (1992); critiqued for limited normative data.
 
-**Bricklin Perceptual Scales (BPS)** — Child-administered (ages 6+). Measures child's perceptions of each parent on 32 items. PA-relevance: can detect coaching when paired with collateral interviews. Limitation: child self-report; vulnerable to coaching unless cross-validated.
+**Bricklin Perceptual Scales ([BPS](https://www.bps.org.uk/))** — Child-administered (ages 6+). Measures child's perceptions of each parent on 32 items. PA-relevance: can detect coaching when paired with collateral interviews. Limitation: child self-report; vulnerable to coaching unless cross-validated.
 
 **Parent-Child Relationship Inventory (PCRI)** — Parent self-report of relationship with child. 78 items, 7 scales. Useful for comparing parent reports against each other + against child's BPS.
 
@@ -41,7 +41,7 @@ location_tags: [clinical, forensic-assessment, custody-evaluation, mmpi, aspect,
 
 ### 4. PA-specific instruments (emerging)
 
-**Baker's 17 Strategies Scale** — Adult retrospective measure of childhood alienation. 17 items based on Baker (2007) qualitative research.
+**[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 17 Strategies Scale** — Adult retrospective measure of childhood alienation. 17 items based on Baker (2007) qualitative research.
 
 **Bernet-led PA Behaviors Indicator** — Structured assessment of alienating behaviors per Bernet (2010) 5 essential criteria. Used by PA-specialist forensic evaluators.
 

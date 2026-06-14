@@ -3,7 +3,7 @@
 **Jurisdiction code:** `PE` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Peru is an Andean South American civil-law republic whose family-law framework operates under the Civil Code 1984 (Código Civil, Decreto Legislativo 295) Book III (Family Law), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 418-471, supplemented by the Children and Adolescents Code 2000 (Law 27337). The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos del Perú (Law 23019/1980). Peru is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. IX. Peru acceded to the Hague Convention 1980 effective 1 August 2001.
+Peru is an Andean South American civil-law republic whose family-law framework operates under the Civil Code 1984 (Código Civil, Decreto Legislativo 295) Book III (Family Law), drawing on Spanish civil-law substantive heritage with substantial modernisation. Parental authority (patria potestad) and child custody are governed by Civil Code arts. 418-471, supplemented by the Children and Adolescents Code 2000 (Law 27337). The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional) operates separate constitutional review. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated through the Colegio de Psicólogos del Perú (Law 23019/1980). Peru is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code art. IX. Peru acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 August 2001.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Peru is an Andean South American civil-law republic whose family-law framework o
 - **Civil Code 1984 (Decreto Legislativo 295) arts. 418-471 (Book III)** — Civil Code Book III — Family Law (1984) — <https://www.pj.gob.pe/>
   - Federal Civil Code Book III on Family Law. Arts. 418-471 govern patria potestad and child custody.
 - **Children and Adolescents Code 2000 (Law 27337)** — Children and Adolescents Code (2000) — <https://www.pj.gob.pe/>
-  - Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations.
+  - Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **Colegio de Psicólogos Law 23019 of 1980** — Colegio de Psicólogos Law (1980) — <https://www.cpsp.pe/>
   - Federal statute establishing Colegio de Psicólogos del Perú — among earliest Latin American statutory psychology regulation.
 

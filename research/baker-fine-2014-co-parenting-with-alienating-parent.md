@@ -10,7 +10,7 @@ related_research: [Baker 2007 adult studies, Bernet 2008 DSM proposal, Friedland
 location_tags: [global, english-language, practitioner-guide]
 ---
 
-# Baker & Fine 2014 — Co-Parenting with an Alienating Parent: The 17-Strategy Framework
+# [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Fine 2014 — Co-Parenting with an Alienating Parent: The 17-Strategy Framework
 
 ## TL;DR
 
@@ -68,7 +68,7 @@ Baker-Fine has become a standard reference for:
 The Baker-Fine 17 strategies sit alongside:
 - **Bernet's 5 essential criteria** (2008) — diagnostic gatekeeper
 - **Friedlander-Walters' 4-category typology** (2010) — severity stratification
-- **Warshak's resist-refuse continuum** (2015) — clinical conceptualization
+- **[Warshak's](https://warshak.com/family-bridges/) resist-refuse continuum** (2015) — clinical conceptualization
 - **Harman's family-violence framework** (2018) — paradigm shift to abuse model
 
 Where Bernet diagnoses and Harman conceptualizes, Baker-Fine **operationalizes** — turning the framework into something a targeted parent can DO this week.

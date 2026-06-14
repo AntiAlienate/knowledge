@@ -16,13 +16,13 @@ Statutory anonymisation regimes prevent the naming of parties + children + evalu
 ### Cluster 2 — Initial / pseudonym anonymisation
 Anonymisation by initial or pseudonym is standard for children + frequently for adult parties.
 
-**England and Wales** — Practice Direction 27A reporting restrictions + Children Act 1989 s.97. First-name pseudonyms (e.g., 'Mary') or two-letter initials (e.g., 'NF'). Adult parties are typically pseudonymised; expert witnesses may be named in non-judgmental discussion but not in operative findings. Cross-link: jurisdiction:england-and-wales.
+**England and Wales** — Practice Direction 27A reporting restrictions + [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.97. First-name pseudonyms (e.g., 'Mary') or two-letter initials (e.g., 'NF'). Adult parties are typically pseudonymised; expert witnesses may be named in non-judgmental discussion but not in operative findings. Cross-link: jurisdiction:england-and-wales.
 
 **Scotland** — Court of Session and sheriff court family-law judgments anonymise children by initial; NF v AF [2025] CSOH 13 uses two-letter party initials per Scottish family-law convention. Cross-link: jurisdiction:scotland.
 
 **Northern Ireland** — Anonymisation by initial. A Father v A Mother (re NI, male child aged 10) (No. 2) August 2022 uses descriptor-based anonymisation. Cross-link: jurisdiction:northern-ireland.
 
-**Wales** — Shares unified England-and-Wales convention. Cafcass Cymru reports use Welsh-language descriptors. Cross-link: jurisdiction:wales.
+**Wales** — Shares unified England-and-Wales convention. [Cafcass Cymru](https://www.cafcass.gov.uk/) reports use Welsh-language descriptors. Cross-link: jurisdiction:wales.
 
 **South Africa** — Children anonymised by initial; adult parties typically referenced by initial as well (e.g., T.L.D v B.G; ZDE v CE). Forensic-assessment experts (HPCSA-registered) ARE NAMED in published case reports — distinctive SA convention preserving expert accountability while protecting child identity. Cross-link: jurisdiction:south-africa.
 

@@ -14,7 +14,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 
 ## Major Named Frameworks
 
-### Family Bridges (Warshak, Otis, Rand & Rand)
+### [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/), Otis, Rand & Rand)
 - **Best for**: Severe alienation with court-ordered transfer of custody
 - **Format**: 4-day intensive residential workshop + aftercare planning
 - **Cost (US)**: ~$20,000-$40,000 privately; sometimes court-ordered with cost-shifting
@@ -55,7 +55,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 - **Best for**: post-judgment high-conflict cases with weak compliance with orders
 - **Format**: Court-appointed neutral parenting coordinator; binding mini-decisions; ongoing facilitation
 - **Cost (US)**: $150-$400/hour; cost-shifted between parents
-- **Outcome data**: AFCC guidelines + outcomes literature; effective at reducing court re-filings
+- **Outcome data**: [AFCC](https://www.afccnet.org/) guidelines + outcomes literature; effective at reducing court re-filings
 - **Critiques**: not therapy per se; lacks teeth in severe-alienation cases without judicial reinforcement
 
 ## Indication Matrix
@@ -66,7 +66,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 | Severe alienation, court NOT willing to transfer custody | Overcoming Barriers OR specialized outpatient | Less aggressive but still intensive |
 | Moderate alienation, both parents capable | Multi-Modal Family Intervention | Outpatient flexibility with structured framework |
 | Mild alienation, intact custody | Traditional reunification therapy | Sufficient for less-entrenched cases |
-| Hybrid case (alienation + legitimate concerns) | MMFI or Polak-Saini-informed outpatient | Addresses both dimensions |
+| Hybrid case (alienation + legitimate concerns) | MMFI or Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)-informed outpatient | Addresses both dimensions |
 | High-conflict but not classic PA | Parenting Coordination | Procedural support without therapeutic ambitions |
 | Older teen who flatly refuses | Family Bridges (with transfer) OR pause + accept reality | Few effective interventions for entrenched older-teen refusal |
 

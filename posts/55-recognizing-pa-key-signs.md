@@ -1,6 +1,6 @@
 # Recognizing Parental Alienation — The Key Signs That Distinguish It From Everything Else
 
-> **TL;DR.** By the time most parents search "signs of parental alienation," they are confirming what they already half-know. The recognition framework rests on three layers: Bernet's 5 essential criteria, Baker's 8 behavioral indicators, and Fidler & Bala's 4 differential markers (PA vs. justified estrangement). All five of Bernet's criteria must be present. The pattern has names. The names have clinical and legal authority.
+> **TL;DR.** By the time most parents search "signs of parental alienation," they are confirming what they already half-know. The recognition framework rests on three layers: Bernet's 5 essential criteria, [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators, and Fidler & Bala's 4 differential markers (PA vs. justified estrangement). All five of Bernet's criteria must be present. The pattern has names. The names have clinical and legal authority.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/recognizing-parental-alienation-key-signs](https://www.antialienate.com/blog/recognizing-parental-alienation-key-signs).**
@@ -54,9 +54,9 @@ The criteria above must be **present and persistent.**
 
 ## The clinical and legal anchors
 
-- **DSM-5 V995.51** — Child Psychological Abuse
-- **WHO ICD-11 QE52** — Caregiver-Child Relationship Problem
-- **Harman, Kruk & Hines (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence
+- **[DSM-5](https://www.appi.org/products/dsm) V995.51** — Child Psychological Abuse
+- **WHO [ICD-11](https://icd.who.int/) QE52** — Caregiver-Child Relationship Problem
+- **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Psychological Bulletin* meta-analysis: PA as family violence
 - **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568 — UK Court of Appeal recognition
 - **Solarino v. Italy** (ECHR 2017) — courts may not rubber-stamp a child's stated refusal without examining its origin
 

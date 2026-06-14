@@ -3,7 +3,7 @@
 **Jurisdiction code:** `DO` · **Legal system:** civil-law  
 **Language(s):** es  
 
-The Dominican Republic is a Caribbean civil-law republic whose family-law framework operates under the Civil Code (Código Civil, drawing on French Napoleonic Code substantive heritage via 19th-century adoption) supplemented by the Code for the System of Protection and Fundamental Rights of Children and Adolescents 2003 (Law 136-03, replacing 1994 Code for Minors). Parental authority (autoridad parental) and child custody are governed by Civil Code arts. 371-387 and Law 136-03 Title II. The Supreme Court of Justice (Suprema Corte de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional, established 2010) operates separate constitutional review. Family-law matters are heard at first instance in the Children and Adolescents Courts (Tribunales de Niños, Niñas y Adolescentes). Psychology profession is regulated through the Colegio Dominicano de Psicólogos (CODOPSI). The Dominican Republic is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Law 136-03 art. 5. The Dominican Republic acceded to the Hague Convention 1980 effective 1 November 2004.
+The Dominican Republic is a Caribbean civil-law republic whose family-law framework operates under the Civil Code (Código Civil, drawing on French Napoleonic Code substantive heritage via 19th-century adoption) supplemented by the Code for the System of Protection and Fundamental Rights of Children and Adolescents 2003 (Law 136-03, replacing 1994 Code for Minors). Parental authority (autoridad parental) and child custody are governed by Civil Code arts. 371-387 and Law 136-03 Title II. The Supreme Court of Justice (Suprema Corte de Justicia) is the apex court for civil and criminal matters; the Constitutional Court (Tribunal Constitucional, established 2010) operates separate constitutional review. Family-law matters are heard at first instance in the Children and Adolescents Courts (Tribunales de Niños, Niñas y Adolescentes). Psychology profession is regulated through the Colegio Dominicano de Psicólogos (CODOPSI). The Dominican Republic is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Law 136-03 art. 5. The Dominican Republic acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 November 2004.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ The Dominican Republic is a Caribbean civil-law republic whose family-law framew
 - **Civil Code arts. 371-387** — Civil Code — Parental authority and custody (1884) — <https://www.poderjudicial.gob.do/>
   - Federal Civil Code drawing on French Napoleonic Code substantive heritage via 19th-century adoption. Arts. 371-387 govern autoridad parental and child custody.
 - **Code for the System of Protection and Fundamental Rights of Children and Adolescents 2003 (Law 136-03)** — Code for Children and Adolescents Protection (2003) — <https://www.poderjudicial.gob.do/>
-  - Federal Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations, replacing 1994 Code for Minors.
+  - Federal Code codifying superior-interest-of-the-child principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations, replacing 1994 Code for Minors.
 
 ## Apex courts
 

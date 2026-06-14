@@ -39,12 +39,12 @@ Norwegian family-law decisions are anonymised per Høyesterett practice using in
 
 - **1981** — Children Act enacted 8 April 1981 — foundational federal statute for family law.
 - **1999** — Health Personnel Act enacted 2 July 1999, in force 1 January 2001; statutorily protected title 'psykolog' requiring Helsedirektoratet autorisasjon.
-- **2003** — UN Convention on the Rights of the Child incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions.
+- **2003** — [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) incorporated into Norwegian law via Menneskerettsloven (Human Rights Act) 1999 amendment effective 1 October 2003 — provides direct domestic-law standing for CRC provisions.
 
 ## Structural findings
 
 - Norway sits structurally within the Nordic civil-law cluster alongside Sweden + Denmark + Finland + Iceland — Barnelova + Helsepersonelloven 1999 + UN CRC incorporated as domestic law. Joint parental responsibility statutory default for married/cohabiting parents.
-- Helsepersonelloven 1999 statutory-autorisasjon regime places Norway among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL + OPP PT — Helsedirektoratet-issued autorisasjon as the statutory mechanism.
+- Helsepersonelloven 1999 statutory-autorisasjon regime places Norway among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psychologists Law 1977 IL + OPP PT — Helsedirektoratet-issued autorisasjon as the statutory mechanism.
 - Norwegian family-court practice has engaged the PA-construct critically since the 2010s within women's-rights and DV-protective discourse — substantively aligned with the Nordic critique register documented across Sweden and Denmark.
 
 ## See also

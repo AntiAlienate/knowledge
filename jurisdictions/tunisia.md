@@ -3,7 +3,7 @@
 **Jurisdiction code:** `TN` · **Legal system:** mixed  
 **Language(s):** ar, fr  
 
-Tunisia is a North African mixed-legal-system republic combining French civil-law substantive heritage (via Protectorate inheritance) with Maliki-school Islamic-law personal-status jurisdiction codified in the Code of Personal Status 1956 (Majalla al-Ahwal al-Shakhsiyya). Tunisia's 1956 Code is structurally distinctive as the most progressive MENA-region family-law statute — abolishing polygamy outright (art. 18), requiring judicial-only divorce, codifying gender equality in inheritance and child custody. Custody (hadana) and guardianship (wilaya) are governed by Code of Personal Status arts. 54-67. The Court of Cassation (محكمة التعقيب) is the apex court for civil and criminal matters; the Constitutional Court (المحكمة الدستورية) operates constitutional review. Family-law matters are heard at first instance in Family Sections of the Court of First Instance. Psychology profession is regulated through the Ministry of Health framework. Tunisia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Code of Personal Status art. 67. Tunisia acceded to the Hague Convention 1980 effective 1 July 2017.
+Tunisia is a North African mixed-legal-system republic combining French civil-law substantive heritage (via Protectorate inheritance) with Maliki-school Islamic-law personal-status jurisdiction codified in the Code of Personal Status 1956 (Majalla al-Ahwal al-Shakhsiyya). Tunisia's 1956 Code is structurally distinctive as the most progressive MENA-region family-law statute — abolishing polygamy outright (art. 18), requiring judicial-only divorce, codifying gender equality in inheritance and child custody. Custody (hadana) and guardianship (wilaya) are governed by Code of Personal Status arts. 54-67. The Court of Cassation (محكمة التعقيب) is the apex court for civil and criminal matters; the Constitutional Court (المحكمة الدستورية) operates constitutional review. Family-law matters are heard at first instance in Family Sections of the Court of First Instance. Psychology profession is regulated through the Ministry of Health framework. Tunisia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Code of Personal Status art. 67. Tunisia acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 July 2017.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Tunisia is a North African mixed-legal-system republic combining French civil-la
 - **Code of Personal Status 1956 arts. 54-67** — Code of Personal Status — Custody and guardianship (1956) — <https://www.justice.gov.tn/>
   - Federal Personal Status Code — structurally distinctive as most progressive MENA-region statute. Arts. 54-67 govern hadana (custody) and wilaya (guardianship).
 - **Child Protection Code 1995** — Child Protection Code (1995) — <https://www.justice.gov.tn/>
-  - Federal children's protection code aligned with UNCRC obligations.
+  - Federal children's protection code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

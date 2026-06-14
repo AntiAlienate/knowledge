@@ -6,14 +6,14 @@ The shortlist of books that shaped the field. Buy them, read them, cite them. An
 
 ## Foundational / Theory
 
-### *Divorce Poison* — Richard A. Warshak (rev. ed. 2010)
+### *Divorce Poison* — Richard A. [Warshak](https://warshak.com/family-bridges/) (rev. ed. 2010)
 The most accessible introduction to PA dynamics for parents. Warshak's "PARENTal alienation" framing has been adopted into courts worldwide. Read this first if you're newly affected.
 - [Author page](http://www.warshak.com/)
 
-### *Parental Alienation, DSM-5, and ICD-11* — William Bernet, ed. (2010)
+### *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)* — William Bernet, ed. (2010)
 The academic case for diagnostic recognition. Edited volume with contributions from international researchers. Required reading before arguing diagnosis in court.
 
-### *Adult Children of Parental Alienation Syndrome* — Amy J. L. Baker (2007)
+### *Adult Children of Parental Alienation Syndrome* — Amy J. L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)
 Qualitative study of 40 adults raised by alienating parents. Long-term outcomes — the data behind "alienation is child abuse."
 
 ### *Working With Alienated Children and Families* — Baker & Sauber, eds. (2013)
@@ -93,7 +93,7 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 **Researcher / clinician:**
 1. *Parental Alienation: The Cult of the Self* (Harman & Biringen)
 2. *Working With Alienated Children and Families* (Baker & Sauber)
-3. Kelly & Johnston 2001 paper + follow-up literature via [Connected Papers](https://www.connectedpapers.com/)
+3. [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001 paper + follow-up literature via [Connected Papers](https://www.connectedpapers.com/)
 
 ---
 

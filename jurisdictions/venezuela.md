@@ -3,7 +3,7 @@
 **Jurisdiction code:** `VE` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Venezuela is a South American civil-law federal republic whose family-law framework operates under the Civil Code (Código Civil, 1982 revision) supplemented by the Organic Law for the Protection of Children and Adolescents (LOPNNA, 2007 reform of 1998 LOPNA). Parental authority (patria potestad) — termed 'parental responsibility' (responsabilidad de crianza) post-2007 — and child custody are governed by LOPNNA arts. 358-389. The Supreme Tribunal of Justice (Tribunal Supremo de Justicia) is the apex court for civil and criminal matters, with the Constitutional Chamber (Sala Constitucional) operating constitutional review. Family-law matters are heard at first instance in the Children and Adolescents Protection Courts (Tribunales de Protección de Niños, Niñas y Adolescentes). Psychology profession is regulated through the Federación de Psicólogos de Venezuela. Venezuela has Constitutional Chamber jurisprudence addressing parental alienation substantively (Sala Constitucional decisions 2010-2018 on co-parenting and the alienating-parent doctrine) — among the more developed Latin American case-law on substantive PA-equivalent dynamics in the corpus, while remaining statutorily silent on the term. Venezuela acceded to the Hague Convention 1980 effective 1 January 1997.
+Venezuela is a South American civil-law federal republic whose family-law framework operates under the Civil Code (Código Civil, 1982 revision) supplemented by the Organic Law for the Protection of Children and Adolescents (LOPNNA, 2007 reform of 1998 LOPNA). Parental authority (patria potestad) — termed 'parental responsibility' (responsabilidad de crianza) post-2007 — and child custody are governed by LOPNNA arts. 358-389. The Supreme Tribunal of Justice (Tribunal Supremo de Justicia) is the apex court for civil and criminal matters, with the Constitutional Chamber (Sala Constitucional) operating constitutional review. Family-law matters are heard at first instance in the Children and Adolescents Protection Courts (Tribunales de Protección de Niños, Niñas y Adolescentes). Psychology profession is regulated through the Federación de Psicólogos de Venezuela. Venezuela has Constitutional Chamber jurisprudence addressing parental alienation substantively (Sala Constitucional decisions 2010-2018 on co-parenting and the alienating-parent doctrine) — among the more developed Latin American case-law on substantive PA-equivalent dynamics in the corpus, while remaining statutorily silent on the term. Venezuela acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 January 1997.
 
 ## PA recognition status
 
@@ -38,7 +38,7 @@ Venezuelan family-court decisions are anonymised per Constitutional Chamber prac
 
 - **1982** — Federal Civil Code revision.
 - **1997** — Venezuela acceded to the Hague Convention 1980 effective 1 January 1997.
-- **1998** — Federal Organic Law enacted aligned with UNCRC obligations.
+- **1998** — Federal Organic Law enacted aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 - **2007** — LOPNA substantially reformed becoming LOPNNA — codified co-parenting framework and parental responsibility concept.
 - **2014** — Constitutional Chamber decisions addressing co-parenting and alienating-parent doctrine substantively — among more developed Latin American substantive case-law.
 

@@ -4,7 +4,7 @@ Practical tooling references for targeted parents, self-represented litigants, a
 
 ## Index
 
-- [Free Legal Research Tools](./legal-research.md) — curated index of free authoritative legal databases (CourtListener, BAILII, HUDOC, CanLII, AustLII, Indian Kanoon, and more).
+- [Free Legal Research Tools](./legal-research.md) — curated index of free authoritative legal databases (CourtListener, [BAILII](https://www.bailii.org/), [HUDOC](https://hudoc.echr.coe.int/), [CanLII](https://www.canlii.org/), [AustLII](https://www.austlii.edu.au/), Indian Kanoon, and more).
 
 ---
 

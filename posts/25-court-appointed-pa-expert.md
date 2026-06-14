@@ -19,13 +19,13 @@
 
 1. **Motion** under Civil Code Article 1253ter/4 (or equivalent) requesting expert appointment
 2. **Justification**: cite the specific PA-relevant indicators — refusal protocol, age-inappropriate language, splitting language, polarized affect
-3. **Cite ECHR Article 8 obligations**: *Bondavalli v. Italy*, *Solarino v. Italy* establish that courts must investigate the *origin* of refusal, not rubber-stamp it
+3. **Cite [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) obligations**: *Bondavalli v. Italy*, *Solarino v. Italy* establish that courts must investigate the *origin* of refusal, not rubber-stamp it
 4. **Propose 3 names** from the local register of forensic psychologists with PA experience (or request that the court draw from such a register)
 5. **Request a Daubert-style framing**: the expert is to assess **alienating behaviors** (PABs), not "PAS" — see [posts/01-why-never-say-pa-in-court.md](./01-why-never-say-pa-in-court.md)
 
 ## The 5 questions to propose for the expert's terms of reference
 
-1. Are alienating behaviors documented per Baker's 8-indicator framework?
+1. Are alienating behaviors documented per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8-indicator framework?
 2. Is the child's refusal disproportionate to the targeted parent's actual conduct?
 3. Has justified estrangement (abuse, neglect) been ruled out per Bernet's 5 essential criteria?
 4. What is the child's developmental risk if the current pattern continues?
@@ -70,7 +70,7 @@
 - *Bondavalli v. Italy*, App. no. 35532/12, ECHR 2015
 - *Solarino v. Italy*, App. no. 76171/13, ECHR 2017
 - *Re C (Parental Alienation; Instruction of Expert)* [2023] EWHC 345 (Fam)
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer

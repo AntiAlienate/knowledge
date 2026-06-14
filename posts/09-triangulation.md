@@ -15,7 +15,7 @@
 - Child is asked to choose ("who do you want to live with?")
 - Child is rewarded for taking the alienator's side and punished for affection toward the targeted parent
 
-These map onto **Baker's strategies #9, #11, #12, #7, and #5**.
+These map onto **[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) strategies #9, #11, #12, #7, and #5**.
 
 ## The Bowen mechanism
 

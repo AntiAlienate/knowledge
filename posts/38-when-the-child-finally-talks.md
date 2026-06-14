@@ -1,6 +1,6 @@
 # When the Child Finally Reaches Out — How to Show Up Without Scaring Them Off
 
-> **TL;DR.** When a long-alienated child finally sends the text, the email, the cautious message — the next 7 days set the trajectory for the next 7 years. The instinct is to flood with relief, history, explanation. The science says do the opposite. This is the 5-rule protocol for the first reach-out, adapted from Warshak's Family Bridges aftercare and Reay's Family Reflections reintegration.
+> **TL;DR.** When a long-alienated child finally sends the text, the email, the cautious message — the next 7 days set the trajectory for the next 7 years. The instinct is to flood with relief, history, explanation. The science says do the opposite. This is the 5-rule protocol for the first reach-out, adapted from [Warshak's Family Bridges](https://warshak.com/family-bridges/) aftercare and Reay's Family Reflections reintegration.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/when-the-child-finally-talks](https://www.antialienate.com/blog/when-the-child-finally-talks).**
@@ -87,9 +87,9 @@ It often does. Mid-arc, the child may go silent for weeks or send a hostile mess
 
 ## Citations
 
-- Warshak, R. A. (2010). Family Bridges. *Family Court Review*, 48(1), 48-80.
+- Warshak, R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). Family Reflections. *American Journal of Family Therapy*, 43(2), 197-207.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer
 

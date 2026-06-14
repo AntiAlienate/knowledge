@@ -17,7 +17,7 @@ Dijkstra's 2020 paper on mothers losing contact with daughters after divorce is 
 ## Key contributions
 
 - **"'I did not see my daughters for years': The impact of coercive control on post-divorce relationships between mothers and children"**, *Journal of Gender-Based Violence*, 2020.
-- **"Listening to children and parents: Seven dimensions to untangle high-conflict divorce"** in *The UN Convention on the Rights of the Child* (Brill, 2016).
+- **"Listening to children and parents: Seven dimensions to untangle high-conflict divorce"** in *The [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)* (Brill, 2016).
 
 ## Where to find her work
 

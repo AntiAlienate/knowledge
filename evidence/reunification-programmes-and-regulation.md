@@ -1,23 +1,23 @@
 # Evidence — Reunification Programmes and Their Regulation
 
-A cross-jurisdictional thematic synthesis of structured reunification programmes deployed in PA-adjacent fact-patterns, compiled from the AntiAlienate knowledge base v2 corpus. Programme regulation operates differently across jurisdictions: some operate within mainstream regulatory architecture (UK Cafcass + AU FCFCOA FRW pool); others operate as identified extra-regulatory NGO programmes (US Family Bridges + Canada Family Reflections); others are court-attached institutional vehicles (Singapore CAPS + Hong Kong SIR/SJE). CC BY 4.0.
+A cross-jurisdictional thematic synthesis of structured reunification programmes deployed in PA-adjacent fact-patterns, compiled from the AntiAlienate knowledge base v2 corpus. Programme regulation operates differently across jurisdictions: some operate within mainstream regulatory architecture (UK [Cafcass](https://www.cafcass.gov.uk/) + AU FCFCOA FRW pool); others operate as identified extra-regulatory NGO programmes (US [Family Bridges](https://warshak.com/family-bridges/) + Canada Family Reflections); others are court-attached institutional vehicles (Singapore CAPS + Hong Kong SIR/SJE). CC BY 4.0.
 
 ## The reunification-programme landscape
 
 ### 1. United States — Family Bridges + Overcoming Barriers Family Camp
-**Family Bridges** — programme developed by Richard A. Warshak with co-developer Randy Rand EdD; operates as an 'educational workshop' outside California Board of Psychology (CABOP) statutory oversight following Randy Rand's CA psychology license becoming inactive in 2009 (disciplinary action: gross negligence, unprofessional conduct, dishonesty). Family Bridges has been cited in US custody decisions (Tsimhoni v Eibschitz-Tsimhoni Michigan 2015) and Canadian decisions (Williamson v Williamson 2016 BCCA 87 — discussed alongside Family Reflections).
+**Family Bridges** — programme developed by Richard A. [Warshak](https://warshak.com/family-bridges/) with co-developer Randy Rand EdD; operates as an 'educational workshop' outside California Board of Psychology (CABOP) statutory oversight following Randy Rand's CA psychology license becoming inactive in 2009 (disciplinary action: gross negligence, unprofessional conduct, dishonesty). Family Bridges has been cited in US custody decisions (Tsimhoni v Eibschitz-Tsimhoni Michigan 2015) and Canadian decisions (Williamson v Williamson 2016 BCCA 87 — discussed alongside Family Reflections).
 
-**Overcoming Barriers Family Camp** — AFCC-affiliated programme. Operates within Association of Family and Conciliation Courts institutional networks. Generally referenced in US custody decisions involving reunification orders post-prolonged contact frustration.
+**Overcoming Barriers Family Camp** — [AFCC](https://www.afccnet.org/)-affiliated programme. Operates within Association of Family and Conciliation Courts institutional networks. Generally referenced in US custody decisions involving reunification orders post-prolonged contact frustration.
 
 ### 2. Canada — Family Reflections Reunification Program (BC)
 **Family Reflections Reunification Program (Kathleen Reay, BC)** — the only Canadian-based residential reunification programme regularly named in Canadian custody judgments. **Williamson v Williamson 2016 BCCA 87** is the canonical Canadian citation. Operates outside statutory psychology regulator framework; Reay was previously a Canadian Psychological Association affiliate.
 
 Canadian provincial-regulator fragmentation (CPO Ontario / OPQ Quebec / CPBA-BC / CAP Alberta) means reunification-programme regulation operates jurisdiction-by-jurisdiction. Cross-link: jurisdiction:canada.
 
-### 3. England & Wales — Cafcass institutional framework + post-Re Y HCPC requirement
+### 3. England & Wales — Cafcass institutional framework + post-Re Y [HCPC](https://www.hcpc-uk.org/) requirement
 England and Wales does NOT operate residential reunification programmes equivalent to Family Bridges. Instead operates: **Cafcass** (Children and Family Court Advisory and Support Service) — statutory body conducting s.7 welfare reports and providing Children's Guardian / Family Court Advisor services.
 
-**Post-Re Y [2026] EWFC 38**: HCPC-registration requirement for PA evaluators flows UK-wide via HCPC statutory framework. Any reunification-oriented expert work must be by HCPC-registered or BPS-chartered practitioner. Excluded exemplar: Melanie Gill (not HCPC-registered, not BPS-chartered, Re Y findings set aside on her assessment). Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
+**Post-Re Y [2026] EWFC 38**: HCPC-registration requirement for PA evaluators flows UK-wide via HCPC statutory framework. Any reunification-oriented expert work must be by HCPC-registered or [BPS](https://www.bps.org.uk/)-chartered practitioner. Excluded exemplar: Melanie Gill (not HCPC-registered, not BPS-chartered, Re Y findings set aside on her assessment). Cross-link: case-study:re-y-2026-ewfc-38 + jurisdiction:england-and-wales.
 
 ### 4. Scotland — Court of Session welfare-and-abuse framing
 Scotland does not operate residential reunification programmes; **NF v AF [2025] CSOH 13** (Lord Stuart) addresses alienating conduct as direct emotional abuse without reunification-programme route. Scottish institutional infrastructure operates at sheriff court welfare-and-care level with Cafcass-Cymru-equivalent absent. Cross-link: jurisdiction:scotland.

@@ -35,7 +35,7 @@ Most jurisdictions have ethical codes requiring:
 - consideration of all attachment figures
 - documentation of clinical reasoning
 
-A complaint to the licensing board (APA, BPS, COPMA in Belgium, etc.) for breach of these obligations is on-record and discoverable.
+A complaint to the licensing board (APA, [BPS](https://www.bps.org.uk/), COPMA in Belgium, etc.) for breach of these obligations is on-record and discoverable.
 
 ### Track 3 — Request collateral interview
 
@@ -53,7 +53,7 @@ See [posts/25-court-appointed-pa-expert.md](./25-court-appointed-pa-expert.md). 
 
 ## Sample motion language
 
-> *The current treating therapist has provided written recommendations regarding contact without having (a) interviewed the targeted parent, (b) observed parent-child interaction in the targeted parent's home, or (c) considered the published methodology for assessing alienating-behaviors patterns (Bernet 2010, Baker 2007). The Court is respectfully asked to limit the weight of these recommendations and order a court-appointed forensic-psychological evaluation under Article 1253ter/4 / §730 / Section 7 [adjust to jurisdiction].*
+> *The current treating therapist has provided written recommendations regarding contact without having (a) interviewed the targeted parent, (b) observed parent-child interaction in the targeted parent's home, or (c) considered the published methodology for assessing alienating-behaviors patterns (Bernet 2010, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007). The Court is respectfully asked to limit the weight of these recommendations and order a court-appointed forensic-psychological evaluation under Article 1253ter/4 / §730 / Section 7 [adjust to jurisdiction].*
 
 ## Source-blog hyperlinks
 
@@ -72,8 +72,8 @@ See [posts/25-court-appointed-pa-expert.md](./25-court-appointed-pa-expert.md). 
 
 - *Re C (Parental Alienation; Instruction of Expert)* [2023] EWHC 345 (Fam)
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993)
-- APA Ethics Code (2017), Standard 9.01 (assessment basis)
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.*
+- [APA Ethics Code](https://www.apa.org/ethics/code) (2017), Standard 9.01 (assessment basis)
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 
 ## Disclaimer

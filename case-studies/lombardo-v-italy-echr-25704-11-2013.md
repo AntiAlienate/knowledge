@@ -3,7 +3,7 @@
 **ECLI:** `ECLI:CE:ECHR:2013:0129JUD002570411`  
 **Court:** European Court of Human Rights (Second Section)  
 **Decided:** 2013-01-29  
-**Panel:** Chamber of seven judges, Second Section, sitting under Article 26 § 1 of the Convention; Italian national judge Guido Raimondi participating under Rule 26 of the Rules of Court (full composition as published in the HUDOC judgment file applies)  
+**Panel:** Chamber of seven judges, Second Section, sitting under Article 26 § 1 of the Convention; Italian national judge Guido Raimondi participating under Rule 26 of the Rules of Court (full composition as published in the [HUDOC](https://hudoc.echr.coe.int/) judgment file applies)  
 
 ## Why this case matters
 
@@ -80,7 +80,7 @@ Article 8 of the Convention imposes positive obligations on the State that go be
 
 ## Outcome
 
-Violation of Article 8 ECHR found unanimously. Just satisfaction awarded under Article 41 of the Convention to the applicant in respect of non-pecuniary damage and costs and expenses (exact euro figures as set out in the dispositif of the HUDOC judgment file; not reproduced in the open-source press release). Judgment final on 29 April 2013 pursuant to Article 44 § 2. No Grand Chamber referral. Judgment delivered in French only; translation into English not officially published by the Registry. Execution of the judgment was supervised by the Committee of Ministers of the Council of Europe under Article 46 § 2 of the Convention, as part of the cluster of Italian Article 8 enforcement-of-contact cases.
+Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) found unanimously. Just satisfaction awarded under Article 41 of the Convention to the applicant in respect of non-pecuniary damage and costs and expenses (exact euro figures as set out in the dispositif of the HUDOC judgment file; not reproduced in the open-source press release). Judgment final on 29 April 2013 pursuant to Article 44 § 2. No Grand Chamber referral. Judgment delivered in French only; translation into English not officially published by the Registry. Execution of the judgment was supervised by the Committee of Ministers of the Council of Europe under Article 46 § 2 of the Convention, as part of the cluster of Italian Article 8 enforcement-of-contact cases.
 
 ## Comparative jurisprudence
 
@@ -125,12 +125,12 @@ Violation of Article 8 ECHR found unanimously. Just satisfaction awarded under A
 
 1. **Lombardo c. Italie, no. 25704/11, arrêt du 29 janvier 2013 (texte intégral, en français)** — <https://hudoc.echr.coe.int/eng?i=001-116127> (European Court of Human Rights — HUDOC database) [fr] — accessed 2026-05-30
 2. **ECHR Registrar's press release no. ECHR 030 (2013), 29 January 2013 — Chamber judgments concerning Italy (including Lombardo v. Italy no. 25704/11)** — <https://hudoc.echr.coe.int/app/conversion/pdf/?library=ECHR&id=003-4239317-5042749&filename=003-4239317-5042749.pdf> (European Court of Human Rights — Registry) [en] — accessed 2026-05-30
-3. **European Convention on Human Rights — Article 8 (Right to respect for private and family life)** — <https://www.echr.coe.int/documents/d/echr/convention_ENG> (Council of Europe) [en] — accessed 2026-05-30
+3. **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) — Article 8 (Right to respect for private and family life)** — <https://www.echr.coe.int/documents/d/echr/convention_ENG> (Council of Europe) [en] — accessed 2026-05-30
 4. **HUDOC case-law database — search interface for application no. 25704/11** — <https://hudoc.echr.coe.int/eng#{%22appno%22:[%2225704/11%22]}> (European Court of Human Rights) [en] — accessed 2026-05-30
 5. **Strasbourg Observers — Article 8 family life / enforcement-of-contact case-law tracker** — <https://strasbourgobservers.com/category/article-8/> (Ghent University Human Rights Centre / Strasbourg Observers blog) [en] — accessed 2026-05-30
 6. **Centre for Global Law and Justice (St John's University School of Law) — ECtHR Confirms Child's Interest in Establishing Paternity, Parent's Right to Enforcement of Visitation, 6 February 2013** — <https://cglj.org/2013/02/06/ecthr-confirms-childs-interest-in-establishing-paternity-parents-right-to-enforcement-of-visitation/> (Centre for Global Law and Justice) [en] — accessed 2026-05-30
 7. **Università di Padova, Centro di Ateneo per i Diritti Umani — Index of ECHR judgments against Italy on Article 8 violations (Part 1)** — <https://unipd-centrodirittiumani.it/en/topics/european-court-of-human-rights-judgements-against-italy-on-violations-of-article-8-echr-part-1> (Università di Padova — Centro di Ateneo per i Diritti Umani 'Antonio Papisca') [en] — accessed 2026-05-30
-8. **BAILII — European Court of Human Rights judgments 2013 (index)** — <https://www.bailii.org/eu/cases/ECHR/2013/> (British and Irish Legal Information Institute) [en] — accessed 2026-05-30
+8. **[BAILII](https://www.bailii.org/) — European Court of Human Rights judgments 2013 (index)** — <https://www.bailii.org/eu/cases/ECHR/2013/> (British and Irish Legal Information Institute) [en] — accessed 2026-05-30
 9. **Council of Europe — Department for the Execution of Judgments of the European Court of Human Rights (HUDOC-EXEC), Italy cluster on enforcement of contact rights** — <https://hudoc.exec.coe.int/eng> (Council of Europe — Committee of Ministers) [en] — accessed 2026-05-30
 10. **Boiano, La Cassazione disconosce la scientificità della c.d. sindrome da alienazione parentale (Giustizia Insieme, 15 July 2022) — anchors Cass. 9691/2022 in the ECHR Italian Article 8 cluster including Lombardo** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme) [it] — accessed 2026-05-30
 

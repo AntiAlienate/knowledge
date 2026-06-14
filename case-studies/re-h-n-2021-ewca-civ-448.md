@@ -11,13 +11,13 @@ Re H-N is the modern English Court of Appeal restatement of how the Family Court
 
 ## Procedural history
 
-Four conjoined second-tier private-law Children Act 1989 appeals (case numbers B4/2020/1872, B4/2020/1874, B4/2020/1918, B4/2020/1945) from HHJ Tolson QC (Re H-N and Re H), HHJ Evans-Gordon (Re T), and HHJ Scarratt (Re B-B). At a case management hearing on 22 December 2020 King LJ set the parameters; four interveners (Cafcass; Women's Aid / Women's Aid Wales / Rape Crisis / Rights of Women; Families Need Fathers; Association of Lawyers for Children) were admitted. The conjoined hearing took place over three days on 19-21 January 2021. Judgment was handed down remotely at 10:00am on 30 March 2021.
+Four conjoined second-tier private-law [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) appeals (case numbers B4/2020/1872, B4/2020/1874, B4/2020/1918, B4/2020/1945) from HHJ Tolson QC (Re H-N and Re H), HHJ Evans-Gordon (Re T), and HHJ Scarratt (Re B-B). At a case management hearing on 22 December 2020 King LJ set the parameters; four interveners ([Cafcass](https://www.cafcass.gov.uk/); Women's Aid / Women's Aid Wales / Rape Crisis / Rights of Women; Families Need Fathers; Association of Lawyers for Children) were admitted. The conjoined hearing took place over three days on 19-21 January 2021. Judgment was handed down remotely at 10:00am on 30 March 2021.
 
 ## Counsel
 
 - **Christopher Hames KC** (Leading counsel) — instructed by Goodman Ray Solicitors for Appellant Mother (Re H-N)
 - **Camini Kumar** (Junior counsel) — instructed by Goodman Ray Solicitors for Appellant Mother (Re H-N)
-- **Charlotte Baker** (Junior counsel) — instructed by Goodman Ray Solicitors for Appellant Mother (Re H-N)
+- **Charlotte [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)** (Junior counsel) — instructed by Goodman Ray Solicitors for Appellant Mother (Re H-N)
 - **Janet Bazley KC** (Leading counsel) — instructed by Bindmans LLP for Respondent Father (Re H-N)
 - **Jessica Lee** (Junior counsel) — instructed by Bindmans LLP for Respondent Father (Re H-N)
 - **Costanza Bertoni** (Junior counsel) — instructed by Bindmans LLP for Respondent Father (Re H-N)
@@ -115,7 +115,7 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 - **Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38** (UK-EWS) — [`re-y-2026-ewfc-38`](./re-y-2026-ewfc-38.md) — Later in the English arc; Sir Andrew McFarlane P (the author of the leading judgment in Re H-N) sets aside findings of 'alienating behaviour' built on an unregulated PA-specialist report. Re H-N is the procedural anchor — fact-finding on DA allegations must be done properly first — that Re Y completes on the expert-quality flank.
 - **Re A (Children) (Parental Alienation) [2019] EWFC B56** (UK-EWS) — Earliest of the modern English PA arc (Re A → Re S → Re H-N → Re C → Re Y). Re H-N corrects the pre-2021 tendency for serious DA allegations to be brushed aside as 'high-conflict' or 'alienation' without proper adjudication.
 - **Re S [2020] EWCA Civ 568** (UK-EWS) — Court of Appeal least-harmful welfare analysis in PA-framed proceedings; immediately precedes Re H-N in the modern English arc.
-- **Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam)** (UK-EWS) — Sir Andrew McFarlane P's later guidance restricting expert psychology in PA-framed proceedings to HCPC-registered practitioner psychologists; sits between Re H-N (procedural anchor) and Re Y (expert-quality remedy) in the arc.
+- **Re C (Parental Alienation: Instruction of Expert) [2023] EWHC 345 (Fam)** (UK-EWS) — Sir Andrew McFarlane P's later guidance restricting expert psychology in PA-framed proceedings to [HCPC](https://www.hcpc-uk.org/)-registered practitioner psychologists; sits between Re H-N (procedural anchor) and Re Y (expert-quality remedy) in the arc.
 - **F v M [2021] EWFC 4** (UK-EWS) — Hayden J's parallel landmark on coercive and controlling behaviour, expressly endorsed and quoted by the Court of Appeal in Re H-N at paragraphs 29-30 as essential reading for the Family judiciary.
 - **Re L; Re V; Re M; Re H (Contact: Domestic Violence) [2000] 2 FCR 404; [2000] 2 FLR 334** (UK-EWS) — The 2000 Court of Appeal conjoined-four-appeal predecessor expressly invoked at paragraph 24 of Re H-N as the historical seminal moment in the family court's approach to domestic violence.
 - **BVerfG 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten — parallel critique of the alienation framing operating to displace proper fact-finding on Kindeswohl/Art. 6 Abs. 2 GG grounds.
@@ -154,13 +154,13 @@ Appeals in Re B-B, Re T and Re H-N allowed and remitted for further case managem
 
 ## Sources
 
-1. **Re H-N and Others (children) (domestic abuse: finding of fact hearings) [2021] EWCA Civ 448 — BAILII listing** — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html> (BAILII (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
+1. **Re H-N and Others (children) (domestic abuse: finding of fact hearings) [2021] EWCA Civ 448 — [BAILII](https://www.bailii.org/) listing** — <https://www.bailii.org/ew/cases/EWCA/Civ/2021/448.html> (BAILII (British and Irish Legal Information Institute)) [en] — accessed 2026-05-30
 2. **Re H-N and Others (children) (domestic abuse: finding of fact hearings) — Approved Judgment PDF** — <https://www.judiciary.uk/wp-content/uploads/2022/07/H-N-and-Others-children-judgment-1.pdf> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 3. **Judiciary case page — Re H-N and Others (children) (domestic abuse: finding of fact hearings)** — <https://www.judiciary.uk/judgments/re-h-n-and-others-children-domestic-abuse-finding-of-fact-hearings/> (Courts and Tribunals Judiciary) [en] — accessed 2026-05-30
 4. **Practice Direction 12J — Child Arrangements & Contact Orders: Domestic Abuse and Harm** — <https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j> (Ministry of Justice) [en] — accessed 2026-05-30
 5. **Assessing risk of harm to children and parents in private law children cases (Harm Panel Report, June 2020)** — <https://www.gov.uk/government/publications/assessing-risk-of-harm-to-children-and-parents-in-private-law-children-cases> (Ministry of Justice) [en] — accessed 2026-05-30
 6. **F v M [2021] EWFC 4 (Hayden J)** — <https://www.bailii.org/ew/cases/EWFC/HCJ/2021/4.html> (BAILII) [en] — accessed 2026-05-30
-7. **Children Act 1989** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> (legislation.gov.uk) [en] — accessed 2026-05-30
+7. **Children Act 1989** — <https://www.legislation.gov.uk/ukpga/1989/41/contents> ([legislation.gov.uk](https://www.legislation.gov.uk/)) [en] — accessed 2026-05-30
 8. **Transparency Project — Re H-N [2021] EWCA 448: The Court of Appeal considers domestic abuse (Jack Harrison)** — <https://transparencyproject.org.uk/re-h-n-2021-ewca-448-the-court-of-appeal-considers-domestic-abuse/> (The Transparency Project) [en] — accessed 2026-05-30
 9. **Transparency Project — Mind the Gap: the welfare decisions for H-N, a child (Part One)** — <https://transparencyproject.org.uk/mind-the-gap-the-welfare-decisions-for-h-n-a-child-part-one/> (The Transparency Project) [en] — accessed 2026-05-30
 10. **7BR Chambers — Re H and other case digest** — <https://www.7br.co.uk/wp-content/uploads/2021/05/Re-H-and-other-case-digest.pdf> (7BR Chambers) [en] — accessed 2026-05-30

@@ -34,7 +34,7 @@ For court purposes, every attempted contact + every blocked/refused/intercepted 
 - Postal mail with delivery confirmation
 - App-based co-parenting tools (OurFamilyWizard, Talking Parents, AppClose) — court-admissible logs
 
-This documentation feeds directly into ECHR Article 8 enforcement-failure motions ([case-law/echr/improta-v-italy-2017.md](../case-law/echr/improta-v-italy-2017.md)).
+This documentation feeds directly into [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) enforcement-failure motions ([case-law/echr/improta-v-italy-2017.md](../case-law/echr/improta-v-italy-2017.md)).
 
 ### Pillar 4 — In-person windows, prioritized
 
@@ -60,7 +60,7 @@ When a long-distance targeted parent has 12+ months of documented attempted cont
 
 - Order the child to spend specified time with the targeted parent
 - Impose financial penalties for refusal (Belgian astreinte / UK enforcement orders / US contempt)
-- Order graduated reintroduction therapy (Warshak 2010 / Reay 2015 protocols)
+- Order graduated reintroduction therapy ([Warshak](https://warshak.com/family-bridges/) 2010 / Reay 2015 protocols)
 
 ## Source-blog hyperlinks
 

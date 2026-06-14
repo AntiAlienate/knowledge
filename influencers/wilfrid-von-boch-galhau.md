@@ -11,7 +11,7 @@ Von Boch-Galhau translated Gardner into German, has written the standard German-
 - MD, psychiatrist, psychotherapist
 - Specialist in psychosomatic medicine
 - Private practice (retired), Würzburg, Germany
-- Member, Parental Alienation Study Group (PASG)
+- Member, [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 - Former member, Würzburg interdisciplinary group on parental separation
 
 ## Key contributions

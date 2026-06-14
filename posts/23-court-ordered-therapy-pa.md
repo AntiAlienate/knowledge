@@ -17,13 +17,13 @@
 
 ## The 5 conditions for court-ordered therapy that actually works
 
-1. **Therapist specifically PA-trained** — Family Bridges, Overcoming Barriers, or equivalent
+1. **Therapist specifically PA-trained** — [Family Bridges](https://warshak.com/family-bridges/), Overcoming Barriers, or equivalent
 2. **Reunification protocol structured** — sequenced contact reintroduction, not "let's see how it goes"
 3. **Compliance monitored by the court** — both parents attend; missed sessions reported
 4. **Confidentiality limited** — therapist must report obstruction or coaching to the court
 5. **Targeted parent NOT scapegoated** — therapy frames the *family system* dysfunction, not "what did you do to deserve this"
 
-When all 5 are met: meta-analytic effect sizes are moderate-to-large for restored contact (Warshak 2010, Sullivan & Kelly 2001).
+When all 5 are met: meta-analytic effect sizes are moderate-to-large for restored contact ([Warshak](https://warshak.com/family-bridges/) 2010, Sullivan & Kelly 2001).
 
 ## The 4 ways therapy gets weaponized
 

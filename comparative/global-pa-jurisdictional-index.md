@@ -14,18 +14,18 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 
 ## Region: British Isles (2)
 
-- [United Kingdom](../case-law/united-kingdom/) — Children Act 1989 + Re C [2023] EWHC 345 4-part test + Re S [2010] EWCA Civ 219 (Cult)
+- [United Kingdom](../case-law/united-kingdom/) — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) + Re C [2023] EWHC 345 4-part test + Re S [2010] EWCA Civ 219 (Cult)
 - [Ireland](../case-law/ireland/) — Guardianship of Children + Family Relationships Acts
 
 ## Region: Western Europe (10)
 
 - [France](../case-law/france/) — Code Civil arts. 371-1 à 377 + Loi Taubira 2002 + Penal 227-5 (criminal non-représentation)
-- [Germany](../case-law/germany/) — BGB §§ 1626-1697b + Sahin v Germany [GC] + Sommerfeld v Germany [GC] + Zaunegger
+- [Germany](../case-law/germany/) — [BGB](https://www.gesetze-im-internet.de/bgb/) §§ 1626-1697b + Sahin v Germany [GC] + Sommerfeld v Germany [GC] + Zaunegger
 - [Belgium](../case-law/belgium/) — Civil Code 374/375bis/387ter + Penal 432 (criminal) + Family Court Act 2013
 - [Netherlands](../case-law/netherlands/) — Burgerlijk Wetboek Boek 1 + Omgangsregeling
 - [Switzerland](../case-law/switzerland/) — ZGB Art. 273-275a + BGer + ECHR
 - [Austria](../case-law/austria/) — ABGB KindNamRÄG 2013 + Sporer v Austria + Hoffmann v Austria
-- [Italy](../case-law/italy/) — Codice Civile art. 337-bis to octies + Bondavalli + Improta + Solarino
+- [Italy](../case-law/italy/) — [Codice Civile](https://www.brocardi.it/codice-civile/) art. 337-bis to octies + Bondavalli + Improta + Solarino
 - [Portugal](../case-law/portugal/) — CC art. 1906 + Lei 61/2008 + STJ + Lusophone gateway
 - [Spain](../case-law/spain/) — CC custodia compartida + TS 257/2013 + LO 8/2021 + Iglesias Casarrubios
 - [Greece](../case-law/greece/) — Astikos Kodikas + Law 4800/2021 reform
@@ -70,9 +70,9 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 
 ## Region: North America (4)
 
-- [United States](../case-law/united-states/) — CA Family Code 3011/3020 + UCCJEA framework
+- [United States](../case-law/united-states/) — CA Family Code 3011/3020 + [UCCJEA](https://www.uniformlaws.org/committees/community-home?CommunityKey=4f1a06b2-4951-4eaf-8569-2eb87e3e8e93) framework
 - [Mexico](../case-law/mexico/) — Codigo Civil + Hague framework + 2014 LGDNNA + US-Mexico cross-border
-- [Canada](../case-law/canada/) — Federal Divorce Act + Bill C-78 2021 reform + Gordon v Goertz + Barendregt
+- [Canada](../case-law/canada/) — Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) + [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) 2021 reform + Gordon v Goertz + Barendregt
 - [Canada/Quebec](../case-law/canada-quebec/) — CCQ + Code de procedure civile (civil-law tradition)
 
 ## Region: Latin America (5)
@@ -107,7 +107,7 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 
 ## Region: Oceania (2)
 
-- [Australia](../case-law/australia/) — Family Law Act 1975 + 2024 amendments
+- [Australia](../case-law/australia/) — [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + 2024 amendments
 - [New Zealand](../case-law/new-zealand/) — Care of Children Act 2004
 
 ## Region: Africa (3)
@@ -126,18 +126,18 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
   - **Ignaccolo-Zenide v Romania (2000)** — standalone deep-dive — foundational
   - **Sahin & Sommerfeld v Germany [GC] (2003)** — standalone deep-dive — hearing the child + Art. 14
   - **Pedersen v Norway (2022)** — standalone deep-dive — Strand Lobben follow-up
-  - Plus 35+ others in HUDOC
+  - Plus 35+ others in [HUDOC](https://hudoc.echr.coe.int/)
 
 ## Research Layer (14+)
 
 - Bernet 2008-2020 — 5 essential criteria + DSM/ICD advocacy
-- Baker 2007 — Adult outcomes longitudinal
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 — Adult outcomes longitudinal
 - Baker & Fine 2014 — 17 strategies practitioner framework
 - Friedlander & Walters 2010 — MMFI 4-category typology
 - Fidler & Bala 2010 — Most-cited PA review
-- Warshak 2010-2020 — Resist-refuse continuum + Family Bridges
-- Polak & Saini 2015 — Hybrid cases multi-dimensional assessment
-- Harman, Kruk & Hines 2018 — Family-violence paradigm shift
+- [Warshak](https://warshak.com/family-bridges/) 2010-2020 — Resist-refuse continuum + [Family Bridges](https://warshak.com/family-bridges/)
+- Polak & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2015 — Hybrid cases multi-dimensional assessment
+- [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) 2018 — Family-violence paradigm shift
 - Birnbaum & Bala 2010 — Canadian PA judicial response
 - Sher 2015-2017 — Targeted-parent suicide risk
 - Templer-Matthewson-Haines-Cox 2017 — PA intervention systematic review
@@ -145,7 +145,7 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 ## Clinical Layer
 
 - Forensic assessment tools (MMPI, ASPECT, Bricklin, CAPI)
-- DSM-5 + ICD-11 PA-related codes (V61.29, V995.51, QE52, 6D52, 6B41)
+- [DSM-5](https://www.appi.org/products/dsm) + [ICD-11](https://icd.who.int/) PA-related codes (V61.29, V995.51, QE52, 6D52, 6B41)
 - Reunification therapy frameworks survey (Family Bridges + Overcoming Barriers + MMFI + others)
 - Custody evaluation protocols
 
@@ -165,7 +165,7 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 This index. Plus additional comparative essays:
 - Civil-law vs common-law PA jurisprudence
 - Criminal anti-non-représentation jurisdictions (BE, FR, BG)
-- ECHR Article 8 doctrine evolution timeline
+- [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) doctrine evolution timeline
 - Hague 1980 + Brussels IIb interaction matrix
 
 ## How to Use This Index

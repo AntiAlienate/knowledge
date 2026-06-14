@@ -6,7 +6,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ## Academic & Clinical Research
 
-### PubMed (NIH/NLM) — free
+### [PubMed](https://pubmed.ncbi.nlm.nih.gov/) (NIH/NLM) — free
 - URL: https://pubmed.ncbi.nlm.nih.gov/
 - Coverage: 35M+ biomedical & clinical citations
 - PA-relevant queries: `"parental alienation"`, `"alienating behaviors"`, `"resist-refuse dynamics"`
@@ -19,9 +19,9 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 - API: https://api.crossref.org/ — no auth
 - Best for: catching PA papers PubMed misses (law journals, social work, family-studies)
 
-### Google Scholar — free (browser only)
+### [Google Scholar](https://scholar.google.com/) — free (browser only)
 - URL: https://scholar.google.com/
-- Use the "Cited by" graph to map influence forward from foundational papers (Gardner 1985, Warshak 2001, Bernet 2010)
+- Use the "Cited by" graph to map influence forward from foundational papers (Gardner 1985, [Warshak](https://warshak.com/family-bridges/) 2001, Bernet 2010)
 - Set up alerts on `"parental alienation"` for weekly digests
 - Limitation: no API; respect rate limits
 
@@ -30,7 +30,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 - Family & Juvenile Law eJournal: working papers and pre-prints from family-law academics
 - Best for: catching legal-academic arguments before they hit law-review print
 
-### PsycNet (APA) — paywalled, abstracts free
+### [PsycNet](https://psycnet.apa.org/) (APA) — paywalled, abstracts free
 - URL: https://psycnet.apa.org/
 - Gold standard for clinical psychology citations. Most law libraries provide access.
 
@@ -64,7 +64,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ## UK / Ireland Case Law
 
-### BAILII — free
+### [BAILII](https://www.bailii.org/) — free
 - URL: https://www.bailii.org/
 - Coverage: UK + Ireland court decisions, Family Court (EWFC), Court of Appeal (EWCA Civ), High Court (EWHC)
 - Recent decisions feed: https://www.bailii.org/recent-decisions.html
@@ -84,7 +84,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ## EU / International
 
-### HUDOC (European Court of Human Rights) — free
+### [HUDOC](https://hudoc.echr.coe.int/) (European Court of Human Rights) — free
 - URL: https://hudoc.echr.coe.int/
 - Article 8 (right to family life) jurisprudence
 - Best for: regional cross-border PA arguments
@@ -101,7 +101,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ## Australia & New Zealand
 
-### AustLII — free
+### [AustLII](https://www.austlii.edu.au/) — free
 - URL: https://www.austlii.edu.au/
 - Sister site to BAILII covering AU + NZ + Pacific
 
@@ -112,7 +112,7 @@ The Highway's pointer list for primary-source PA research and case law. Free / l
 
 ## Canada
 
-### CanLII — free
+### [CanLII](https://www.canlii.org/) — free
 - URL: https://www.canlii.org/
 - Federal + provincial; strong family-law coverage
 

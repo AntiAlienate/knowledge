@@ -3,7 +3,7 @@
 **Jurisdiction code:** `KG` · **Legal system:** civil-law  
 **Language(s):** ky, ru  
 
-Kyrgyzstan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code of the Kyrgyz Republic 2003 (Үй-бүлө кодекси) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Family Code arts. 63-94. The Supreme Court of the Kyrgyz Republic (Кыргыз Республикасынын Жогорку Соту) is the apex court for civil and criminal matters; the Constitutional Court (Конституциялык сот, restructured 2021) operates constitutional review. Family-law matters are heard at first instance in the District/City Courts. Psychology profession is regulated through the Ministry of Health framework. Kyrgyzstan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 63. Kyrgyzstan acceded to the Hague Convention 1980 effective 1 May 2012.
+Kyrgyzstan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code of the Kyrgyz Republic 2003 (Үй-бүлө кодекси) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Family Code arts. 63-94. The Supreme Court of the Kyrgyz Republic (Кыргыз Республикасынын Жогорку Соту) is the apex court for civil and criminal matters; the Constitutional Court (Конституциялык сот, restructured 2021) operates constitutional review. Family-law matters are heard at first instance in the District/City Courts. Psychology profession is regulated through the Ministry of Health framework. Kyrgyzstan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 63. Kyrgyzstan acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 May 2012.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Kyrgyzstan is a Central Asian civil-law unitary republic whose family-law framew
 - **Family Code of the Kyrgyz Republic 2003 arts. 63-94** — Family Code — Parental rights and custody (2003) — <https://www.cbd.minjust.gov.kg/>
   - Federal Family Code enacted post-Soviet. Arts. 63-94 govern parental rights and child custody.
 - **Children's Code 2012 (revised)** — Children's Code (2012) — <https://www.cbd.minjust.gov.kg/>
-  - Federal Children's Code aligned with UNCRC obligations.
+  - Federal Children's Code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

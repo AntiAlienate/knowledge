@@ -25,10 +25,10 @@ In scenarios 1 and 2, your input matters. In scenario 3, your input is limited t
 ### Credentials minimum
 - Licensed psychologist (PhD/PsyD) or psychiatrist (MD) in the relevant jurisdiction
 - Forensic specialty certification or equivalent CE/supervised hours
-- AFCC member (Association of Family and Conciliation Courts) — or equivalent body in your jurisdiction
+- [AFCC](https://www.afccnet.org/) member (Association of Family and Conciliation Courts) — or equivalent body in your jurisdiction
 
 ### Methodology markers (positive)
-- Applies the resist-refuse framework (Kelly/Johnston 2001) — describes alienation as *one* possible cause of resistance, not the assumed cause
+- Applies the resist-refuse framework ([Kelly/Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001) — describes alienation as *one* possible cause of resistance, not the assumed cause
 - Uses structured assessment instruments AND collateral information AND direct child interviews — triangulates rather than relying on parent self-report
 - Has training in *both* PA dynamics and domestic-violence assessment (this dual training is critical)
 - Can articulate the difference between mild / moderate / severe cases and matches intervention to severity
@@ -69,7 +69,7 @@ For each: pull public records (board licensing site, appellate-decision searches
 
 Examples of credible objections:
 - "Dr. X has no documented training in domestic-violence assessment, which is methodologically inadequate for a case involving allegations of abuse."
-- "Dr. Y's published methodology applies a single-construct PA framework which has been superseded in the field by the differentiated approach (Kelly & Johnston 2001; Saini et al. 2016)."
+- "Dr. Y's published methodology applies a single-construct PA framework which has been superseded in the field by the differentiated approach ([Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001; [Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016)."
 - "Dr. Z has a referral relationship with [reunification provider], creating financial interest in a particular case outcome."
 
 Examples of weak objections:
@@ -168,9 +168,9 @@ Second-opinion battles can be expensive and can read as litigation tactics if no
 | Region | Body / process |
 |---|---|
 | **US** | State-level licensing; AFCC professional development standards; *Daubert*/*Frye* admissibility tests for methodology |
-| **UK** | Cafcass / Children's Guardian standard; Section 7 reports; expert witness instruction via Practice Direction 25B |
+| **UK** | [Cafcass](https://www.cafcass.gov.uk/) / Children's Guardian standard; Section 7 reports; expert witness instruction via Practice Direction 25B |
 | **Canada** | Provincial bar associations; Voice of the Child Reports; specialist assessor lists |
-| **Australia** | Family Report Writers under Family Law Act 1975; ICL (Independent Children's Lawyer) involvement |
+| **Australia** | Family Report Writers under [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text); ICL (Independent Children's Lawyer) involvement |
 | **EU civil-law systems** | Court-appointed forensic psychologists (peritos / Gutachter / experts judiciaires); typically less party input on selection |
 
 ---

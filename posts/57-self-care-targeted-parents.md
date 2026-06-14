@@ -1,6 +1,6 @@
 # Self-Care for Targeted Parents — 7 Daily Practices That Don't Require an Apology
 
-> **TL;DR.** The wellness industrial complex sells transformation. You need maintenance. 7 daily practices · 4 weekly anchors · 2 monthly resets · "minimum viable day" floor for crisis weeks. Anchored in Boss (1999), Herman (1992), Walker (2013), and ICD-11 6B41. Self-care is not selfish. It is the long-game strategy.
+> **TL;DR.** The wellness industrial complex sells transformation. You need maintenance. 7 daily practices · 4 weekly anchors · 2 monthly resets · "minimum viable day" floor for crisis weeks. Anchored in Boss (1999), Herman (1992), Walker (2013), and [ICD-11](https://icd.who.int/) 6B41. Self-care is not selfish. It is the long-game strategy.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/self-care-for-targeted-parents](https://www.antialienate.com/blog/self-care-for-targeted-parents).**
@@ -66,7 +66,7 @@ That's the floor. Below the floor is unsustainable; above the floor is bonus. **
 
 ## Why this matters operationally
 
-Reunification windows often arrive *months or years* after the worst point (Baker, 2007 longitudinal data). When that window opens, your child needs to find a parent who is regulated, present, and available — not depleted, manic, or angry. **Your maintenance is their reunion infrastructure.**
+Reunification windows often arrive *months or years* after the worst point ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), 2007 longitudinal data). When that window opens, your child needs to find a parent who is regulated, present, and available — not depleted, manic, or angry. **Your maintenance is their reunion infrastructure.**
 
 ## Source-blog hyperlinks
 

@@ -95,7 +95,7 @@ For a quick orientation, start with **[Global Comparison Matrix](global-comparis
 
 - A clean US appellate reversal of a core PA finding — see [the gap-documentation page](open-question-clean-us-appellate-reversal-of-pa-finding.md)
 - **Japan post-reform SCJ case-law** — joint-custody reform (Law No. 33/2024) takes effect April 2026; revisit in 2027
-- Joan Meier's case series follow-ups with cite-checkable case names
+- Joan [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) case series follow-ups with cite-checkable case names
 - Belgian Cour de cassation / Hof van Cassatie family-law PA decisions
 - Italian first-instance and appellate cases applying 9691/2022 correctly (4595/2025 is a corrective; we need a positive-application case)
 - Hong Kong Court of First Instance family-division cases (we have the CA case)

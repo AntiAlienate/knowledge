@@ -8,9 +8,9 @@ last_reviewed: 2026-05-18
 
 ## TL;DR
 
-When parental alienation reaches the severe end of the spectrum, courts and clinicians deploy structured **reunification protocols**. The four most-cited programs are: **Family Bridges** (USA, 4-day intensive), **Turning Points for Families** (USA, 5-day intensive), **Welcome Back Pikes Peak** (USA, outpatient), and **Espace-Rencontres** (France/Belgium, neutral-venue supervised contact). Each addresses a different severity range and procedural posture.
+When parental alienation reaches the severe end of the spectrum, courts and clinicians deploy structured **reunification protocols**. The four most-cited programs are: **[Family Bridges](https://warshak.com/family-bridges/)** (USA, 4-day intensive), **Turning Points for Families** (USA, 5-day intensive), **Welcome Back Pikes Peak** (USA, outpatient), and **Espace-Rencontres** (France/Belgium, neutral-venue supervised contact). Each addresses a different severity range and procedural posture.
 
-## Family Bridges (Warshak & Otis)
+## Family Bridges ([Warshak](https://warshak.com/family-bridges/) & Otis)
 
 - **Format**: 4-day intensive educational workshop with rejecting child(ren) and rejected parent
 - **Setting**: residential, off-site, no contact with favored parent during program
@@ -44,7 +44,7 @@ When parental alienation reaches the severe end of the spectrum, courts and clin
 - **Method**: facilitated parent-child contact with gradient toward unsupervised; reports to court
 - **Funding**: state-subsidized in France (FNAR network), Belgium (Fédération Wallonie-Bruxelles), Quebec
 - **Legal basis**:
-  - **France**: ordered by JAF under Code civil art. 373-2-9; 154 centers as of 2024
+  - **France**: ordered by JAF under [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 373-2-9; 154 centers as of 2024
   - **Belgium**: Code judiciaire art. 387; ~80 centers across regions
   - **Quebec**: Article 33 Civil Code; CIUSSS / community network
 - **Evidence base**: 80% of supervised contact arrangements evolve to unsupervised within 18 months (FNAR 2022 statistics)

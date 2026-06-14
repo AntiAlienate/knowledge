@@ -45,7 +45,7 @@ Romanian family-law decisions are anonymised per ICCJ practice using initials. P
 ## Structural findings
 
 - Romania sits structurally within the CEE civil-law cluster alongside Poland + Czechia + Hungary + Bulgaria — modernised Civil Code 2011 + welfare-standard family-court framework + Constitutional Court constitutional-review jurisdiction.
-- CPR statutory professional-order regime (Law 213/2004) places Romania among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psykolognævnet DK + Helsedirektoratet NO + Valvira FI + Embætti landlæknis IS + OPP PT + Psychologists Law 1977 IL.
+- CPR statutory professional-order regime (Law 213/2004) places Romania among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psykolognævnet DK + Helsedirektoratet NO + Valvira FI + Embætti landlæknis IS + OPP PT + Psychologists Law 1977 IL.
 - Substantial Strasbourg jurisprudence on Romanian contact-enforcement (Lafargue v. Romania, Iosub Caras v. Romania, and others) engages Article 8 positive-obligations framework — sits structurally alongside the Italian triptych (Bondavalli + Improta + Strumia) documented elsewhere in the corpus.
 
 ## See also

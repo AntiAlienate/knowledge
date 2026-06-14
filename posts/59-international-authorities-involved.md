@@ -52,7 +52,7 @@ The gap comes from authority opacity, mediation cycles, court backlogs, translat
 2. **Hague Children's Liaison Judges Network** (administrative arrangement, 1998) — ask your lawyer to invoke
 3. **Eurojust / EJN-civil** for EU cases — judicial cooperation acceleration
 4. **INTERPOL Yellow Notice** if location is unknown
-5. **ECHR Article 8 complaint** after domestic remedies exhausted
+5. **[ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) complaint** after domestic remedies exhausted
 
 ## The parallel criminal track (often forgotten)
 

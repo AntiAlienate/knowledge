@@ -1,6 +1,6 @@
 # PA vs Estrangement — How Family Courts Now Tell the Difference
 
-> **TL;DR.** Family courts increasingly distinguish *alienation* (engineered rejection) from *justified estrangement* (proportional response to the targeted parent's actual conduct) using a converging international framework: Bernet's 5 essential criteria + Baker's 8 child indicators + Fidler & Bala's 4 differential markers + ECHR Solarino v. Italy (2017). UK courts apply it through Re S (2020) + Re C (2023). The same child's "I don't want to see my dad" is interpreted entirely differently depending on which framework applies.
+> **TL;DR.** Family courts increasingly distinguish *alienation* (engineered rejection) from *justified estrangement* (proportional response to the targeted parent's actual conduct) using a converging international framework: Bernet's 5 essential criteria + [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 child indicators + Fidler & Bala's 4 differential markers + ECHR Solarino v. Italy (2017). UK courts apply it through Re S (2020) + Re C (2023). The same child's "I don't want to see my dad" is interpreted entirely differently depending on which framework applies.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/pa-vs-estrangement-courts](https://www.antialienate.com/blog/pa-vs-estrangement-courts).**
@@ -72,7 +72,7 @@ If your case is framed as **estrangement** and the court accepts that framing, t
 
 ## Citations
 
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.*
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).*
 - Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). *Family Court Review*, 48(1), 10–47.
 - *Solarino v. Italy*, ECHR 2017, App. no. 76171/13.

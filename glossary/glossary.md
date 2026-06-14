@@ -10,13 +10,13 @@ The vocabulary you'll see in court papers, clinical reports, academic articles, 
 A pattern in which one parent acts — through words, behaviour, or restriction of contact — to damage the child's relationship with the other parent. Distinct from a child's *organic* rejection of a parent for legitimate reasons (abuse, neglect). PA describes the *behaviour*; the child's resulting state is *alienation*.
 
 ### Parental Alienation Syndrome (PAS)
-Term coined by Richard Gardner (1985) for the cluster of symptoms in a child who has been alienated. **Use with caution in court** — PAS is not in the DSM-5 and many judges flinch from the term. Most modern practitioners argue *behaviours* and *resist-refuse dynamics* rather than diagnose a *syndrome*.
+Term coined by Richard Gardner (1985) for the cluster of symptoms in a child who has been alienated. **Use with caution in court** — PAS is not in the [DSM-5](https://www.appi.org/products/dsm) and many judges flinch from the term. Most modern practitioners argue *behaviours* and *resist-refuse dynamics* rather than diagnose a *syndrome*.
 
 ### Resist-Refuse Dynamics (RRD)
 Joan Kelly & Janet Johnston's (2001) framework. A child's resistance or refusal to see a parent falls on a spectrum with multiple possible causes — alienation is one, but so are realistic estrangement (justified by parent's actual conduct), affinity (developmentally normal closeness to one parent), enmeshment, and others. Sophisticated evaluators use RRD rather than a binary "alienated / not alienated" framing.
 
 ### Alienating Behaviours
-Specific acts that can produce alienation. Baker & Fine's 17-behaviour list is the most cited:
+Specific acts that can produce alienation. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Fine's 17-behaviour list is the most cited:
 1. Bad-mouthing the other parent
 2. Limiting contact
 3. Erasing the other parent from the child's life
@@ -54,11 +54,11 @@ The American Psychiatric Association's *Diagnostic and Statistical Manual of Men
 - V61.29: Child Affected by Parental Relationship Distress
 - V995.51: Child Psychological Abuse
 
-### ICD-11
+### [ICD-11](https://icd.who.int/)
 The World Health Organisation's *International Classification of Diseases, 11th revision*. ICD-11 includes the code **QE52.0: Caregiver-child relationship problem**, which can be applied to PA-pattern cases. Active debate continues over more specific recognition.
 
 ### Mild / Moderate / Severe alienation
-Warshak's severity framework:
+[Warshak's](https://warshak.com/family-bridges/) severity framework:
 - **Mild**: child resists transitions but maintains relationship once with targeted parent
 - **Moderate**: child resists contact and shows hostility but warms over a visit
 - **Severe**: child refuses contact entirely; sustained hostility; immune to evidence
@@ -86,18 +86,18 @@ The same concept under different labels:
 - **EU civil-law systems**: variations on "custody" + "parental authority"
 
 ### Child Arrangements Order
-UK Children Act 1989 term for the post-2014 replacement of separate "contact" and "residence" orders. Covers where the child lives and with whom they spend time.
+UK [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) term for the post-2014 replacement of separate "contact" and "residence" orders. Covers where the child lives and with whom they spend time.
 
 ### Best Interests of the Child
 The overriding statutory principle in most family-law jurisdictions. Specific factor lists vary — UK's "welfare checklist" (CA 1989 s.1(3)), most US states use a similar list, etc.
 
-### Article 8 ECHR
-Article 8 of the European Convention on Human Rights — right to respect for private and family life. Frequently argued in PA cases at the European Court of Human Rights (ECtHR) when domestic family courts have failed to protect a parent-child relationship.
+### [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1)
+Article 8 of the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) — right to respect for private and family life. Frequently argued in PA cases at the European Court of Human Rights (ECtHR) when domestic family courts have failed to protect a parent-child relationship.
 
 ### Section 91(14) Order
 UK provision (CA 1989 s.91(14)) restricting future applications without permission of the court. Sometimes used against alienating parents engaging in vexatious applications, sometimes against targeted parents to limit "harassment" — context-dependent.
 
-### CAFCASS / Cafcass Cymru / Children's Guardian
+### CAFCASS / [Cafcass Cymru](https://www.cafcass.gov.uk/) / Children's Guardian
 England & Wales — Children and Family Court Advisory and Support Service. The body of social workers and family-court advisers who assess children and report to the court. Cafcass involvement is standard in contested family-court cases.
 
 ### Section 7 Report
@@ -107,7 +107,7 @@ UK term for a welfare report ordered by the court, typically prepared by Cafcass
 US/Canadian term for the equivalent: a court-appointed mental-health professional assesses the family and makes recommendations.
 
 ### Reunification Therapy
-Specialised family therapy aimed at restoring a damaged parent-child relationship after alienation. Distinct from general family counselling. Programs include Family Bridges (Warshak), Family Reflections (Childress), Overcoming Barriers Family Camp, Transitioning Families.
+Specialised family therapy aimed at restoring a damaged parent-child relationship after alienation. Distinct from general family counselling. Programs include [Family Bridges](https://warshak.com/family-bridges/) (Warshak), Family Reflections ([Childress](https://drcachildress.org/)), Overcoming Barriers Family Camp, Transitioning Families.
 
 ### Hague Convention (1980)
 The Hague Convention on the Civil Aspects of International Child Abduction. Provides for prompt return of children wrongfully removed across borders. [See cross-border playbook.](../playbooks/cross-border-hague.md)
@@ -155,7 +155,7 @@ Co-parenting model for high-conflict cases. Each parent makes decisions independ
 ## Statistical / epidemiological terms
 
 ### Prevalence
-What proportion of separated families experience PA. Harman et al. estimates run 11–15% of US adults reporting having experienced PA in childhood. International figures vary by methodology.
+What proportion of separated families experience PA. [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)estimates run 11–15% of US adults reporting having experienced PA in childhood. International figures vary by methodology.
 
 ### Gender symmetry
 PA occurs roughly evenly across mother- and father-targeted patterns when prevalence is measured directly (Harman, Lorandos). Family-court samples skew toward father-targeted because of who comes to court — beware reading court samples as prevalence.

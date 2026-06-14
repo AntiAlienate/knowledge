@@ -19,7 +19,7 @@ This converts each exclusion from invisible non-inclusion into a **documented de
 
 | Cluster | Count | Character |
 |---|---:|---|
-| Unverifiable | 120 | No public primary-source record located via systematic search across regulator registries, LinkedIn, ResearchGate, university bios, peer-reviewed PubMed/Crossref, and judgment text (court-appointed expert). Distinct from "does not exist" — the practitioner may exist but failed the directory-quality verification threshold. |
+| Unverifiable | 120 | No public primary-source record located via systematic search across regulator registries, LinkedIn, ResearchGate, university bios, peer-reviewed [PubMed](https://pubmed.ncbi.nlm.nih.gov/)/Crossref, and judgment text (court-appointed expert). Distinct from "does not exist" — the practitioner may exist but failed the directory-quality verification threshold. |
 | Other | 91 | Mixed: includes structural-non-discrete entities (e.g. Argentine "mediación familiar" practiced via multiple discrete entities), placeholder records, and reasons not cleanly captured by the other clusters. |
 | Out-of-scope | 16 | Verified practitioners whose primary professional identity falls outside the receiving file's scope (e.g. attorney appearing in a therapists file, post-traumatic-growth coach appearing in a forensic-evaluator file). These are typically re-routed to the correct file in subsequent passes. |
 | Regulatory | 6 | License inactive, struck off, suspended, or otherwise regulatorily out-of-status with the receiving jurisdiction's professional regulator. Primary-source-required. |
@@ -29,7 +29,7 @@ This converts each exclusion from invisible non-inclusion into a **documented de
 ## Cluster-by-cluster dignification
 
 ### Unverifiable (120)
-These are **not** an indictment of the practitioners named. The verification threshold for the directory is intentionally high: HCPC/HPCSA/APBs registration, public practice site, peer-reviewed publication record, or court-appointed expert role in a published judgment. Many practitioners legitimately work outside this footprint — private practice without a website, paper-publication in journals not indexed in CrossRef, registration in a regulator whose register is not publicly searchable. The exclusion records the verification gap; it does not record an evaluative judgment of the practitioner's work.
+These are **not** an indictment of the practitioners named. The verification threshold for the directory is intentionally high: [HCPC](https://www.hcpc-uk.org/)/HPCSA/APBs registration, public practice site, peer-reviewed publication record, or court-appointed expert role in a published judgment. Many practitioners legitimately work outside this footprint — private practice without a website, paper-publication in journals not indexed in CrossRef, registration in a regulator whose register is not publicly searchable. The exclusion records the verification gap; it does not record an evaluative judgment of the practitioner's work.
 
 **What an unverifiable exclusion means**: at the moment of corpus compilation, primary-source verification could not be completed within the directory's editorial standard. The entry remains available for promotion when new sources surface.
 
@@ -70,9 +70,9 @@ Exclusions are not concentrated on one side of the recognition-vs-critique regis
 
 ## Comparative posture
 
-Most PA-active practitioner directories in the public domain (PASG member registry, BAPAA practitioners list, various national professional-association rosters) operate by inclusion-only with no documented exclusion register. The AntiAlienate corpus's documented-exclusion approach is structurally adjacent to:
+Most PA-active practitioner directories in the public domain ([PASG](https://pasg.info/) member registry, BAPAA practitioners list, various national professional-association rosters) operate by inclusion-only with no documented exclusion register. The AntiAlienate corpus's documented-exclusion approach is structurally adjacent to:
 
-- **Cochrane systematic-review methodology**: studies excluded from a meta-analysis are documented with reasons, not silently dropped.
+- **[Cochrane](https://www.cochranelibrary.com/) systematic-review methodology**: studies excluded from a meta-analysis are documented with reasons, not silently dropped.
 - **Peer-review desk-rejection logs**: journals that publish desk-rejection statistics with cluster-categorised reasons (e.g. "scope mismatch", "methodological concerns", "outside review remit").
 - **Open-source security advisory databases (CVE, GHSA)**: every excluded vulnerability report carries a documented "not-applicable" reason rather than disappearing.
 

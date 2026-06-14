@@ -25,7 +25,7 @@ Genuine DV cases can be reframed as alienation when:
 - Reunification orders force children back into contact with parents whose abuse has been documented but minimised
 - Custody is awarded to the abusing parent on the basis of PA findings
 
-Joan Meier's US studies and Silberg/Dallam's case series both document this pattern occurring in court records.
+Joan [Meier's US studies](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) and Silberg/Dallam's case series both document this pattern occurring in court records.
 
 ### The reality
 **Both happen.** They happen frequently. They sometimes happen in the same case. The job — for parents, lawyers, evaluators, and judges — is to distinguish which pattern this case is, with intellectual honesty and case-specific evidence rather than camp affiliation.
@@ -95,7 +95,7 @@ Reducing your engagement with the child or the case "to protect" the child often
 Same point from the other direction: insist on evaluators trained in *both* PA dynamics and DV assessment. A pure-DV evaluator may not see legitimate alienation when it exists; a pure-PA evaluator may not see legitimate trauma when it exists.
 
 ### Beware "reunification" as a default
-Court-ordered reunification programmes (Family Bridges, TPFF, etc.) are designed for severe-alienation cases. Applied to genuine DV cases, they can re-traumatise children. If reunification is being proposed in a case with documented DV, your lawyer should argue for trauma-informed alternatives (graduated, supervised, therapeutic contact rather than intensive immersive programmes).
+Court-ordered reunification programmes ([Family Bridges](https://warshak.com/family-bridges/), [TPFF](https://turningpointsforfamilies.com/), etc.) are designed for severe-alienation cases. Applied to genuine DV cases, they can re-traumatise children. If reunification is being proposed in a case with documented DV, your lawyer should argue for trauma-informed alternatives (graduated, supervised, therapeutic contact rather than intensive immersive programmes).
 
 ---
 
@@ -149,7 +149,7 @@ If you can't afford a lawyer in a DV/PA-overlap case (and many parents can't):
 - [Documentation System](documentation-system.md) — what records to keep, both directions
 - [Evaluator Selection](evaluator-selection.md) — how to push for cross-trained assessors
 - Joan Meier's empirical work on PA + DV custody outcomes (US data) — [GW Law page](https://www.law.gwu.edu/joan-meier)
-- The Mercer & Silberg 2023 edited volume *Challenging Parental Alienation*
+- The [Mercer & Silberg 2023](https://www.tandfonline.com/doi/abs/10.1080/15379418.2016.1219974) edited volume *Challenging Parental Alienation*
 - The Harman/Kruk/Hines 2018 paper *Parental alienating behaviors: An unacknowledged form of family violence*
 
 Read both. Then form your own view of the case in front of you, not your view of the literature.

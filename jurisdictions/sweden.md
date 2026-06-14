@@ -45,7 +45,7 @@ Swedish family-law decisions are anonymised per Högsta domstolen and Hovrätt c
 ## Structural findings
 
 - Sweden sits structurally within the Nordic civil-law cluster — strongest joint-custody-default regime in Europe (joint custody applies including for parents who never lived together) + barnets bästa welfare standard + UN CRC incorporated as Swedish law since 2020. Distinctive among corpus jurisdictions for the constitutional-level incorporation of UN CRC.
-- Patientsäkerhetslagen 2010:659 statutory-licence regime places Sweden among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE — with Socialstyrelsen-issued legitimation as the statutory mechanism.
+- Patientsäkerhetslagen 2010:659 statutory-licence regime places Sweden among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE — with Socialstyrelsen-issued legitimation as the statutory mechanism.
 - Swedish family-law contains no statutory references to PAS / parental alienation. The 2006 vårdnadsreform deliberately balanced the close-and-good-contact (god kontakt) provisions with explicit risk-of-harm considerations following critique that earlier framing produced contact-promotion in DV-overlap cases — structurally similar to the Australian 2023 Amendment Act re-balancing.
 
 ## See also

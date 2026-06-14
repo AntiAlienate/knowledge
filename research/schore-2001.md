@@ -52,7 +52,7 @@ Schore (2001) provides the **neuroscientific grounding** for what courts increas
 | **Critical** | 0-3 yrs | Right-brain + OFC primary attachment circuitry forms | PA harm during this window is most durable |
 | **Sensitive** | 3-7 yrs | Internal-working-model consolidation | PA harm produces measurable affect-regulation deficits |
 | **Plastic** | 7-12 yrs | Continued limbic refinement | PA harm + early adolescent reunification still produces good outcomes |
-| **Adolescent** | 12+ yrs | Identity consolidation; PA harm intersects with peer-identity processes | Reunification harder but possible (Warshak 2010 protocol cohort skews here) |
+| **Adolescent** | 12+ yrs | Identity consolidation; PA harm intersects with peer-identity processes | Reunification harder but possible ([Warshak](https://warshak.com/family-bridges/) 2010 protocol cohort skews here) |
 
 ## Critiques + limitations
 

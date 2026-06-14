@@ -56,7 +56,7 @@ documented in PA-targeted-parent populations.
 3. **Reconstruct identity** — "parent" remains your identity even when contact is suspended
 4. **Normalize ambivalence** — love + anger + grief can coexist
 5. **Revise attachment** — preserve internal relationship; release external control
-6. **Discover hope** — the child usually understands eventually (Baker 2007 adult-outcomes data supports this)
+6. **Discover hope** — the child usually understands eventually ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 adult-outcomes data supports this)
 
 ## Why courts cite this work
 

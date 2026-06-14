@@ -3,7 +3,7 @@
 **Jurisdiction code:** `HT` · **Legal system:** civil-law  
 **Language(s):** fr, ht  
 
-Haiti is a Caribbean civil-law republic whose family-law framework operates under the Civil Code (Code Civil, drawing on French Napoleonic Code substantive heritage via 1825 adoption) supplemented by the Decree of 8 October 1982 on Marital Equality and the 2014 Children's Rights Code (Code de Protection de l'Enfant). Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 367-389. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Superior Court of Auditors and Administrative Disputes (Cour Supérieure des Comptes et du Contentieux Administratif) operates within the administrative jurisdiction. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Association Haïtienne de Psychologie under Ministry of Public Health framework. Haiti is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Haiti acceded to the Hague Convention 1980 effective 1 February 2013.
+Haiti is a Caribbean civil-law republic whose family-law framework operates under the Civil Code (Code Civil, drawing on French Napoleonic Code substantive heritage via 1825 adoption) supplemented by the Decree of 8 October 1982 on Marital Equality and the 2014 Children's Rights Code (Code de Protection de l'Enfant). Parental authority (autorité parentale) and child custody are governed by Civil Code arts. 367-389. The Court of Cassation (Cour de Cassation) is the apex court for civil and criminal matters; the Superior Court of Auditors and Administrative Disputes (Cour Supérieure des Comptes et du Contentieux Administratif) operates within the administrative jurisdiction. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Association Haïtienne de Psychologie under Ministry of Public Health framework. Haiti is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Haiti acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 2013.
 
 ## PA recognition status
 
@@ -18,7 +18,7 @@ Haiti is a Caribbean civil-law republic whose family-law framework operates unde
 - **Decree of 8 October 1982 on Marital Equality** — Decree on Marital Equality (1982) — <https://www.haiti.gouv.ht/>
   - Federal Decree codifying marital equality and parental responsibility framework.
 - **Children's Rights Code 2014 (Code de Protection de l'Enfant)** — Children's Rights Code (2014) — <https://www.haiti.gouv.ht/>
-  - Federal Code aligned with UNCRC obligations.
+  - Federal Code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

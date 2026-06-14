@@ -8,7 +8,7 @@ license: "CC BY 4.0"
 
 # Karen Woodall — UK Practitioner-Researcher
 
-Family psychotherapist and one of the most influential UK voices on parental alienation. Founder of the Family Separation Clinic (London). Trains UK family-court practitioners, Cafcass officers, and judges on alienation assessment and intervention.
+Family psychotherapist and one of the most influential UK voices on parental alienation. Founder of the Family Separation Clinic (London). Trains UK family-court practitioners, [Cafcass](https://www.cafcass.gov.uk/) officers, and judges on alienation assessment and intervention.
 
 ## Key contributions
 

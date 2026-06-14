@@ -10,7 +10,7 @@ last_reviewed: 2026-05-18
 
 ## TL;DR
 
-William Bernet's **Five-Factor Model** is the gold-standard differential-diagnosis framework for parental alienation. Co-developed with Amy J.L. Baker and refined across multiple publications, the FFM specifies five necessary conditions — **ALL must be met** before PA may be diagnosed. The model's strength is preventing both **false positives** (mislabeling estrangement as alienation) and **false negatives** (missing real alienation). Used in clinical assessment, expert testimony, custody evaluation, and reunification therapy worldwide.
+William Bernet's **Five-Factor Model** is the gold-standard differential-diagnosis framework for parental alienation. Co-developed with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) and refined across multiple publications, the FFM specifies five necessary conditions — **ALL must be met** before PA may be diagnosed. The model's strength is preventing both **false positives** (mislabeling estrangement as alienation) and **false negatives** (missing real alienation). Used in clinical assessment, expert testimony, custody evaluation, and reunification therapy worldwide.
 
 ## The Five Factors
 
@@ -92,15 +92,15 @@ The five-factor structure prevents:
 
 - **Baker Eight Behavioural Manifestations**: child-symptom-focused (Factor 5 detail)
 - **Drozd-Olesen Decision Tree**: comprehensive differential alienation/estrangement/abuse
-- **Saini empirical assessment**: structured-interview protocol
+- **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) empirical assessment**: structured-interview protocol
 - **Garber Hybrid Cases framework**: cases with elements of both
 
 ## Reception
 
 - Adopted by Family Court Review professional education curriculum
-- Cited in AFCC training materials
+- Cited in [AFCC](https://www.afccnet.org/) training materials
 - Referenced in Harman & Lorandos 2023 meta-analytic confirmation
-- Disputed in some PA-skeptical literature (Meier, Mercer) — but methodologically robust against those critiques
+- Disputed in some PA-skeptical literature ([Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941), Mercer) — but methodologically robust against those critiques
 
 ## Citing posts
 
@@ -113,7 +113,7 @@ The five-factor structure prevents:
 
 ## Sources
 
-- Bernet, W. (Ed.) (2018). *Parental Alienation, DSM-5, and ICD-11*. Springfield IL: Charles C. Thomas
+- Bernet, W. (Ed.) (2018). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*. Springfield IL: Charles C. Thomas
 - Bernet, W., & Baker, A.J.L. (2013). Parental alienation, DSM-5, and ICD-11: Response to critics. *Journal of the American Academy of Psychiatry and the Law*, 41(1), 98-104
 - Bernet, W., Wamboldt, M.Z., & Narrow, W.E. (2016). Child affected by parental relationship distress. *Journal of the American Academy of Child & Adolescent Psychiatry*, 55(7), 571-579
 - Lorandos, D., & Bernet, W. (Eds.) (2020). *Parental Alienation — Science and Law*. Charles C. Thomas

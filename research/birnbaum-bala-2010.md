@@ -61,7 +61,7 @@ Together: a complete common-law-jurisdiction empirical + doctrinal evidence base
 
 The Canadian PA jurisprudential context has specific strengths:
 
-- **Best-interests-of-the-child** under the Divorce Act + provincial family-law statutes
+- **Best-interests-of-the-child** under the [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) + provincial family-law statutes
 - **R v Mohan** [1994] 2 SCR 9 — expert-evidence admissibility (Canadian Daubert analog)
 - **D.B.S. v S.R.G.** [2006] 2 SCR 231 — child-support principles
 - **Family Justice Reform** in Ontario (post-2021) — focuses on PA among other categories
@@ -110,7 +110,7 @@ These refine the application but don't undermine the core contribution.
 - [research/harman-lorandos-2020.md](./harman-lorandos-2020.md) — US-equivalent 25-year survey
 - [research/bernet-2010.md](./bernet-2010.md) — 5 essential diagnostic criteria
 - [research/baker-2007.md](./baker-2007.md) — 8 behavioral indicators
-- [research/warshak-2010.md](./warshak-2010.md) — Family Bridges intensive
+- [research/warshak-2010.md](./warshak-2010.md) — [Family Bridges](https://warshak.com/family-bridges/) intensive
 - [research/reay-2015.md](./reay-2015.md) — Family Reflections intensive
 - [research/friedlander-walters-2010.md](./friedlander-walters-2010.md) — MMFI + typology
 - [research/harman-kruk-hines-2018.md](./harman-kruk-hines-2018.md) — family-violence reframe

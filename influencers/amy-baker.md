@@ -6,7 +6,7 @@ last_verified: "2026-05-25"
 license: "CC BY 4.0"
 ---
 
-# Dr. Amy J.L. Baker, PhD — Adult-Children-of-Alienation Researcher
+# Dr. Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), PhD — Adult-Children-of-Alienation Researcher
 
 Developmental psychologist whose qualitative research with adults who experienced PA as children built much of the field's empirical base. Author of the foundational *Adult Children of Parental Alienation Syndrome*.
 
@@ -20,7 +20,7 @@ Developmental psychologist whose qualitative research with adults who experience
 ## Where to find her work
 
 - Personal site: https://amyjlbaker.com/
-- PubMed: https://pubmed.ncbi.nlm.nih.gov/?term=Baker+Amy+parental+alienation
+- [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/?term=Baker+Amy+parental+alienation
 - Books via Norton, Routledge, New Harbinger publishers.
 
 ## Why she matters here

@@ -31,7 +31,7 @@ This column is the most damaging — and the most legally documentable.
 
 ## Why this matters legally
 
-Parental alienation has been meta-analyzed as a form of family violence — **Harman, Kruk & Hines (2018)**, *Psychological Bulletin*. **DSM-5 V995.51** codes it as Child Psychological Abuse. **WHO ICD-11 QE52** captures it internationally. The UK Court of Appeal recognized it explicitly in **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568. This is not a "bitter ex" pattern. It is a clinically and legally codified one.
+Parental alienation has been meta-analyzed as a form of family violence — **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)**, *Psychological Bulletin*. **[DSM-5](https://www.appi.org/products/dsm) V995.51** codes it as Child Psychological Abuse. **WHO [ICD-11](https://icd.who.int/) QE52** captures it internationally. The UK Court of Appeal recognized it explicitly in **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568. This is not a "bitter ex" pattern. It is a clinically and legally codified one.
 
 ## What NOT to do
 
@@ -64,7 +64,7 @@ The propaganda campaign WANTS your response. Silence + documentation is the surg
 ## Citations
 
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
-- Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - DSM-5 V995.51; WHO ICD-11 QE52.
 - *Re S (Parental Alienation: Cult)* [2020] EWCA Civ 568.
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12.

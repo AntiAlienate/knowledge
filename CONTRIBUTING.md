@@ -18,9 +18,9 @@ For every factual claim, citation, statistic, judgment, or expert opinion:
 
 | Topic | Primary source |
 |---|---|
-| Court judgment | The judgment itself (BAILII / CanLII / AustLII / HUDOC / SAFLII / state-court records / Légifrance / CENDOJ / Italgiure / De Rechtspraak / sn.pl / stj.jus.br / indiankanoon.org / scjn.gob.mx / saij.gob.ar / elitigation.sg / etc.) |
+| Court judgment | The judgment itself ([BAILII](https://www.bailii.org/) / [CanLII](https://www.canlii.org/) / [AustLII](https://www.austlii.edu.au/) / [HUDOC](https://hudoc.echr.coe.int/) / SAFLII / state-court records / Légifrance / CENDOJ / Italgiure / De Rechtspraak / sn.pl / stj.jus.br / indiankanoon.org / scjn.gob.mx / saij.gob.ar / elitigation.sg / etc.) |
 | Statute | The official gazette or legislative-text portal in the jurisdiction |
-| Peer-reviewed paper | The published article (publisher URL + DOI + PubMed/PMC mirror if available) |
+| Peer-reviewed paper | The published article (publisher URL + DOI + [PubMed](https://pubmed.ncbi.nlm.nih.gov/)/PMC mirror if available) |
 | Professional-body position | The body's own published statement (not a third-party summary) |
 | Journalism | Named-reporter article in a verifiable outlet |
 | Government / institutional guidance | The official publication portal |
@@ -109,11 +109,18 @@ Everything in the repository is CC BY 4.0. By contributing, you license your con
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

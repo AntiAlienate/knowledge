@@ -3,7 +3,7 @@
 **Jurisdiction code:** `MV` · **Legal system:** religious-law  
 **Language(s):** dv  
 
-Maldives is a South Asian religious-law republic whose family-law framework operates under the Family Act 4/2000 (effective 1 July 2001) drawing on Shafi'i Islamic jurisprudence. The 2008 Constitution provides at art. 10 that 'no law contrary to any tenet of Islam shall be enacted in the Maldives'. Custody (hadana) and guardianship (wilaya) are governed by Family Act arts. 35-52. The Supreme Court of Maldives (Dhivehi Raajjeyge Supreme Court) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Court (Famyly Court) — a specialised first-instance family court established as part of the post-2008 judicial reform. Psychology profession is regulated through the Maldives Allied Health Services Council under the Ministry of Health framework. Maldives is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Maldives acceded to the Hague Convention 1980 effective 1 March 2017 — among the few Muslim-majority states acceded.
+Maldives is a South Asian religious-law republic whose family-law framework operates under the Family Act 4/2000 (effective 1 July 2001) drawing on Shafi'i Islamic jurisprudence. The 2008 Constitution provides at art. 10 that 'no law contrary to any tenet of Islam shall be enacted in the Maldives'. Custody (hadana) and guardianship (wilaya) are governed by Family Act arts. 35-52. The Supreme Court of Maldives (Dhivehi Raajjeyge Supreme Court) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Court (Famyly Court) — a specialised first-instance family court established as part of the post-2008 judicial reform. Psychology profession is regulated through the Maldives Allied Health Services Council under the Ministry of Health framework. Maldives is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Maldives acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2017 — among the few Muslim-majority states acceded.
 
 ## PA recognition status
 
@@ -18,7 +18,7 @@ Maldives is a South Asian religious-law republic whose family-law framework oper
 - **Constitution 2008 art. 10 — Islam as basic principle** — Constitution — Islam as basic principle (2008) — <https://www.judiciary.gov.mv/>
   - Constitutional provision that no law contrary to any tenet of Islam shall be enacted in the Maldives.
 - **Child Rights Protection Act 19/2019** — Child Rights Protection Act (2019) — <https://www.judiciary.gov.mv/>
-  - Federal Children's Rights Protection Act aligned with UNCRC obligations.
+  - Federal Children's Rights Protection Act aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

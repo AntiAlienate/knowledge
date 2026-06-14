@@ -1,6 +1,6 @@
 # Evidence — Cross-Border Parental Abduction and PA-Adjacent Intersection
 
-A focused thematic synthesis of how the Hague Convention 1980 on the Civil Aspects of International Child Abduction intersects with PA-adjacent fact-patterns, compiled from the AntiAlienate knowledge base v2 corpus. Cross-border parental-removal cases under the Hague Convention frequently engage alienating-conduct claims; the convention's prompt-return mandate creates structural tensions with PA-adjacent reasoning. CC BY 4.0.
+A focused thematic synthesis of how the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on the Civil Aspects of International Child Abduction intersects with PA-adjacent fact-patterns, compiled from the AntiAlienate knowledge base v2 corpus. Cross-border parental-removal cases under the Hague Convention frequently engage alienating-conduct claims; the convention's prompt-return mandate creates structural tensions with PA-adjacent reasoning. CC BY 4.0.
 
 ## The Hague Convention 1980 architecture
 
@@ -37,7 +37,7 @@ Cross-link: jurisdiction:european-convention-on-human-rights.
 ## Cross-jurisdictional Hague + PA practice
 
 ### United States
-US federal **International Child Abduction Remedies Act (ICARA, 22 USC §§ 9001-9011)** implements the Convention. Federal district courts have concurrent jurisdiction with state courts for Hague return petitions. Art 13(1)(b) grave-risk jurisprudence has developed substantially (e.g., *Monasky v Taglieri* 140 S Ct 719 (2020) on habitual residence; *Golan v Saada* 142 S Ct 1880 (2022) on ameliorative measures). PA-adjacent intersection: Art 13(2) child-objection cases routinely engage alienating-conduct claims. Cross-link: jurisdiction:united-states.
+US federal **International Child Abduction Remedies Act ([ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97), 22 USC §§ 9001-9011)** implements the Convention. Federal district courts have concurrent jurisdiction with state courts for Hague return petitions. Art 13(1)(b) grave-risk jurisprudence has developed substantially (e.g., *Monasky v Taglieri* 140 S Ct 719 (2020) on habitual residence; *Golan v Saada* 142 S Ct 1880 (2022) on ameliorative measures). PA-adjacent intersection: Art 13(2) child-objection cases routinely engage alienating-conduct claims. Cross-link: jurisdiction:united-states.
 
 ### United Kingdom
 UK **Child Abduction and Custody Act 1985** implements the Convention; UK Supreme Court engages Article 8 + Hague in *Re E (Children) (Abduction: Custody Appeal)* [2011] UKSC 27 + subsequent line. Engagement with Strasbourg Neulinger and Shuruk. Cross-link: jurisdiction:united-kingdom.

@@ -11,7 +11,7 @@
 
 | Region | Documented prevalence | Notable container variance |
 |---|---|---|
-| **Western Europe** | ~10-15% of high-conflict separations (Bernet 2010, PASG estimates) | Strong court infrastructure, weak enforcement |
+| **Western Europe** | ~10-15% of high-conflict separations (Bernet 2010, [PASG](https://pasg.info/) estimates) | Strong court infrastructure, weak enforcement |
 | **United States** | ~11-15% (Harman/Kruk/Hines 2018) | High litigation, varied state-level recognition |
 | **Latin America** | Significant; cultural family-honor framing common (Aguilar 2013) | Extended-family triangulation amplified |
 | **East Asia (Japan, Korea)** | Severely under-recognized; "sole custody" norm masks PA (Jones 2012) | Joint custody legally absent until 2024 in Japan |
@@ -60,10 +60,10 @@ If you're in a cross-cultural separation (different countries, different cultura
 
 ## Citations
 
-- Bernet, W. (2010). *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
+- Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental alienating behaviors: An unacknowledged form of family violence. *Psychological Bulletin*, 144(12), 1275–1299.
 - Aguilar, J. M. (2013). *Síndrome de Alienación Parental.* Almuzara.
-- UN Convention on the Rights of the Child, Art. 9
+- [UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child), Art. 9
 - Hague Convention on the Civil Aspects of International Child Abduction (1980)
 
 ## Disclaimer

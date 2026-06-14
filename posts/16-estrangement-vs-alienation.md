@@ -20,7 +20,7 @@
 
 ## Why courts care about the distinction
 
-A justified estrangement is not legally actionable as harm — it's a child's protective response to documented behavior. A documented alienation IS legally actionable: it's psychological abuse (DSM-5 V995.51), often family violence under recent reframings (Harman, Kruk & Hines, 2018), and grounds for custody modification in many jurisdictions.
+A justified estrangement is not legally actionable as harm — it's a child's protective response to documented behavior. A documented alienation IS legally actionable: it's psychological abuse ([DSM-5](https://www.appi.org/products/dsm) V995.51), often family violence under recent reframings ([Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/), 2018), and grounds for custody modification in many jurisdictions.
 
 **The same child's "I don't want to see my dad" is interpreted entirely differently by the court depending on which framework applies.** Get the framing wrong and the case loses on the wrong axis.
 
@@ -31,10 +31,10 @@ To distinguish alienation from estrangement, all 5 must be present:
 1. The child actively rejects a previously loved parent
 2. The rejection is disproportionate to anything that parent has done
 3. The child is exposed to alienating behaviors by the favored parent
-4. The child exhibits Baker's 8 behavioral indicators
+4. The child exhibits [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 behavioral indicators
 5. The child does not have *justified* estrangement (abuse, neglect, profound mismatch)
 
-(Bernet, 2010 — *Parental Alienation, DSM-5, and ICD-11.*)
+(Bernet, 2010 — *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/).*)
 
 ## Where this gets weaponized
 

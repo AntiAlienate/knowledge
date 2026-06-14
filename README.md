@@ -41,7 +41,7 @@ The goal: be the single most comprehensive open-source reference on parental ali
 | **[/open-source/infographics/](./open-source/infographics/)** | Shareable knowledge cards — vocabulary, statistics, frameworks, tactics | 38 + index |
 | **[/tools/legal-research.md](./tools/legal-research.md)** | Free authoritative legal databases | 12 |
 | **[/publishers/](./publishers/)** | Verified Upstream Publishers we mirror or credit | 2 |
-| **[/digest/](./digest/)** | Daily auto-accumulated finds from PubMed / CrossRef / CourtListener / BAILII / Reddit | Rolling |
+| **[/digest/](./digest/)** | Daily auto-accumulated finds from [PubMed](https://pubmed.ncbi.nlm.nih.gov/) / CrossRef / CourtListener / [BAILII](https://www.bailii.org/) / Reddit | Rolling |
 | **[/press/](./press/)** | Press kit for the open-source launch (draft, pre-distribution) | 5 |
 
 ## How this is maintained
@@ -85,11 +85,18 @@ CC BY 4.0 unless otherwise noted on individual files. Attribution: [AntiAlienate
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

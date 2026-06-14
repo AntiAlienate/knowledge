@@ -3,7 +3,7 @@
 **Jurisdiction code:** `BJ` · **Legal system:** civil-law  
 **Language(s):** fr  
 
-Benin is a West African civil-law unitary republic whose family-law framework operates under the Persons and Family Code 2004 (Code des Personnes et de la Famille, Law 2002-07) drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification, abolition of polygamy for civil marriages (replaced by monogamous marriage default), and codification of customary-law marriage provisions. Parental authority and child custody are governed by Persons and Family Code arts. 411-451. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Benin is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Benin acceded to the Hague Convention 1980 effective 1 February 2018.
+Benin is a West African civil-law unitary republic whose family-law framework operates under the Persons and Family Code 2004 (Code des Personnes et de la Famille, Law 2002-07) drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification, abolition of polygamy for civil marriages (replaced by monogamous marriage default), and codification of customary-law marriage provisions. Parental authority and child custody are governed by Persons and Family Code arts. 411-451. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the Constitutional Court (Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Health framework. Benin is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Benin acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 February 2018.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Benin is a West African civil-law unitary republic whose family-law framework op
 - **Persons and Family Code 2004 (Law 2002-07) arts. 411-451** — Persons and Family Code — Parental authority and custody (2004) — <https://www.coursupreme.bj/>
   - Federal Persons and Family Code drawing on French civil-law substantive heritage with substantial modernisation including gender equality codification and monogamy default. Arts. 411-451 govern parental authority and child custody.
 - **Children's Code 2015 (Law 2015-08)** — Children's Code (2015) — <https://www.coursupreme.bj/>
-  - Federal Children's Code aligned with UNCRC obligations.
+  - Federal Children's Code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

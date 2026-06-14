@@ -4,7 +4,7 @@ Pointer pages. We don't reprint other people's work — we tell you where to fin
 
 ## Pages
 
-- **[Research databases](research-databases.md)** — PubMed, CourtListener, BAILII, CrossRef, HUDOC, AustLII, CanLII, and the rest of the open-research stack
+- **[Research databases](research-databases.md)** — [PubMed](https://pubmed.ncbi.nlm.nih.gov/), CourtListener, [BAILII](https://www.bailii.org/), CrossRef, [HUDOC](https://hudoc.echr.coe.int/), [AustLII](https://www.austlii.edu.au/), [CanLII](https://www.canlii.org/), and the rest of the open-research stack
 - **[Key books](key-books.md)** — the shortlist that shaped the field, annotated with reading-order suggestions
 
 ## Related sections

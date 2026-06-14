@@ -3,7 +3,7 @@
 **Jurisdiction code:** `BY` · **Legal system:** civil-law  
 **Language(s):** be, ru  
 
-Belarus is an Eastern European civil-law unitary republic whose family-law framework operates under the Code on Marriage and Family of the Republic of Belarus 1999 (Кодэкс аб шлюбе і сям'і, Law 278-Z), drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Code arts. 67-86. The Supreme Court of the Republic of Belarus (Вярхоўны суд) is the apex court for civil and criminal matters; the Constitutional Court (Канстытуцыйны суд) operates constitutional review. Family-law matters are heard at first instance in District/Regional Courts. Psychology profession is regulated through the Ministry of Health framework with the Belarusian Society of Psychologists operating professional standards. Belarus is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Code art. 67. Belarus acceded to the Hague Convention 1980 effective 1 April 1998 — earliest post-Soviet accession alongside Romania.
+Belarus is an Eastern European civil-law unitary republic whose family-law framework operates under the Code on Marriage and Family of the Republic of Belarus 1999 (Кодэкс аб шлюбе і сям'і, Law 278-Z), drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Code arts. 67-86. The Supreme Court of the Republic of Belarus (Вярхоўны суд) is the apex court for civil and criminal matters; the Constitutional Court (Канстытуцыйны суд) operates constitutional review. Family-law matters are heard at first instance in District/Regional Courts. Psychology profession is regulated through the Ministry of Health framework with the Belarusian Society of Psychologists operating professional standards. Belarus is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Code art. 67. Belarus acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 April 1998 — earliest post-Soviet accession alongside Romania.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Belarus is an Eastern European civil-law unitary republic whose family-law frame
 - **Code on Marriage and Family 1999 (278-Z) arts. 67-86** — Code on Marriage and Family — Parental rights and custody (1999) — <https://www.pravo.by/>
   - Federal Code on Marriage and Family enacted post-Soviet. Arts. 67-86 govern parental rights and child custody. Substantially amended over subsequent decades.
 - **Law on the Rights of the Child 2206-XII of 1993** — Law on the Rights of the Child (1993) — <https://www.pravo.by/>
-  - Federal children's rights statute enacted post-Soviet aligned with UNCRC obligations.
+  - Federal children's rights statute enacted post-Soviet aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

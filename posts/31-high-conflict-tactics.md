@@ -37,7 +37,7 @@
 
 **Tactic:** request to move the child for "a job opportunity" or "to be near family."
 **Why it works:** sympathetic framing; courts sometimes grant before fully assessing impact.
-**Counter:** cite Hague Convention 1980 (if cross-border) + state-level relocation tests; document the practical impact on contact.
+**Counter:** cite [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) (if cross-border) + state-level relocation tests; document the practical impact on contact.
 
 ### 6. The financial chokehold
 
@@ -53,7 +53,7 @@
 
 ## The meta-pattern
 
-Each tactic individually looks defensible. Strung together, they form a recognizable behavior pattern (Baker 2007's 8 indicators + Harman/Kruk/Hines 2018's PAB framework). The court's pattern-recognition develops case by case — your job is to make the pattern documentable and visible, not to argue any single tactic in isolation.
+Each tactic individually looks defensible. Strung together, they form a recognizable behavior pattern ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007's 8 indicators + Harman/Kruk/Hines 2018's PAB framework). The court's pattern-recognition develops case by case — your job is to make the pattern documentable and visible, not to argue any single tactic in isolation.
 
 ## What NOT to do
 

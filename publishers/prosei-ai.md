@@ -23,7 +23,7 @@ We acknowledge Prosei as a Verified Upstream Curator for that tool-set compositi
 
 - AI-assisted document drafting (motions, declarations, discovery)
 - Case-management tooling for self-represented litigants
-- Research tool integrating 12 authoritative databases (CourtListener, CanLII, AustLII, Indian Kanoon, Cornell LII, Justia, Federal Register, Congress.gov, etc.)
+- Research tool integrating 12 authoritative databases (CourtListener, [CanLII](https://www.canlii.org/), [AustLII](https://www.austlii.edu.au/), Indian Kanoon, [Cornell LII](https://www.law.cornell.edu/), Justia, Federal Register, Congress.gov, etc.)
 - State-specific procedural information
 - Pro Se Dad Family Court Survival Guide
 - Motion templates

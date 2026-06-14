@@ -1,6 +1,6 @@
 # The Custody-Evaluator Training Asymmetry Debate: A Primary-Source Evidence Base
 
-> **Purpose.** A balanced, citation-led evidence base examining **the empirical and policy debate over the adequacy of US custody-evaluator training in domestic violence (DV) versus parental alienation (PA) frameworks**. Are court-appointed custody evaluators systematically under-trained on DV and over-trained on PA, and does that asymmetry shape the contested custody outcomes documented in Meier 2020 and Silberg-Dallam 2019? The Saunders 2011-2015 program of research at the University of Michigan says yes. AFCC-aligned practitioner-defenders (Stahl, Drozd, Olesen, the centrist Saini/Johnston/Fidler/Bala chapter) argue back that the construct of "alienation" is real, that decision-tree differential assessment is the answer, and that blanket condemnation of evaluator practice is unwarranted. Prepared for the AntiAlienate knowledge repository (CC BY 4.0). Primary-source-led, verbatim quotation throughout. **"Not publicly confirmed"** is used wherever a specific empirical claim could not be tied to a primary source. **[secondary verification only]** marks claims sourced from a reproduction or summary rather than a directly-accessed primary text.
+> **Purpose.** A balanced, citation-led evidence base examining **the empirical and policy debate over the adequacy of US custody-evaluator training in domestic violence (DV) versus parental alienation (PA) frameworks**. Are court-appointed custody evaluators systematically under-trained on DV and over-trained on PA, and does that asymmetry shape the contested custody outcomes documented in [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) and Silberg-Dallam 2019? The [Saunders](https://www.ovw.usdoj.gov/) 2011-2015 program of research at the University of Michigan says yes. [AFCC](https://www.afccnet.org/)-aligned practitioner-defenders (Stahl, Drozd, Olesen, the centrist [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala chapter) argue back that the construct of "alienation" is real, that decision-tree differential assessment is the answer, and that blanket condemnation of evaluator practice is unwarranted. Prepared for the AntiAlienate knowledge repository (CC BY 4.0). Primary-source-led, verbatim quotation throughout. **"Not publicly confirmed"** is used wherever a specific empirical claim could not be tied to a primary source. **[secondary verification only]** marks claims sourced from a reproduction or summary rather than a directly-accessed primary text.
 >
 > **Compilation date.** 2026-05-25. URLs verified at compilation. Companion to the eight earlier `/evidence/` pages, in particular `evidence-forensic-operation-in-courts.md` §4 (which introduces this material at a high level), `evidence-reunification-outcomes.md` (Kayden's Law and reunification camps), and `evidence-international-institutional-positions.md` (CEDAW, GREVIO, Alsalem).
 
@@ -90,7 +90,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 ### 1.3 Saunders, Tolman & Faller (2013) — Journal of Family Psychology peer-reviewed companion
 
-**Citation.** Saunders, D. G., Tolman, R. M., & Faller, K. C. (2013). Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology*, 27(3), 473-483. https://doi.org/10.1037/a0032164 — PubMed: https://pubmed.ncbi.nlm.nih.gov/23647501/
+**Citation.** Saunders, D. G., Tolman, R. M., & Faller, K. C. (2013). Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology*, 27(3), 473-483. https://doi.org/10.1037/a0032164 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/): https://pubmed.ncbi.nlm.nih.gov/23647501/
 
 **Verbatim abstract** (reproduced from PubMed indexing).
 
@@ -255,7 +255,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 **Citation.** Meier, J. S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92-105. https://doi.org/10.1080/09649069.2020.1701941 — Open repository copy: https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2712&context=faculty_publications — NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859.
 
-**The 4,338-case dataset's evaluator slicing.** Meier 2020's published article focuses primarily on the gender-asymmetric outcome gradient (mothers losing custody at twice the rate when fathers cross-claim alienation). The *evaluator-appointment effect* is a secondary analysis. **[Secondary verification only]** for the specific within-dataset finding that outcomes for protective mothers worsened where custody evaluators were appointed; the relevant statistics, where reported in the NIJ Final Report (NCJ 304419), are not reproduced in the published *Journal of Social Welfare and Family Law* abstract or main empirical tables that were directly accessible at compilation, and the full Final Report's tables on evaluator/GAL appointment slicing were not directly extractable. The qualitative finding — that evaluator and GAL involvement in PA-cross-claim cases was associated with worse outcomes for protective mothers — is also reproduced in Silberg & Dallam (2019) Tables 2-5 and discussed in `evidence-forensic-operation-in-courts.md` §3.
+**The 4,338-case dataset's evaluator slicing.** Meier 2020's published article focuses primarily on the gender-asymmetric outcome gradient (mothers losing custody at twice the rate when fathers cross-claim alienation). The *evaluator-appointment effect* is a secondary analysis. **[Secondary verification only]** for the specific within-dataset finding that outcomes for protective mothers worsened where custody evaluators were appointed; the relevant statistics, where reported in the NIJ Final Report (NCJ 304419), are not reproduced in the published *Journal of Social Welfare and Family Law* abstract or main empirical tables that were directly accessible at compilation, and the full Final Report's tables on evaluator/GAL appointment slicing were not directly extractable. The qualitative finding — that evaluator and GAL involvement in PA-cross-claim cases was associated with worse outcomes for protective mothers — is also reproduced in [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) Tables 2-5 and discussed in `evidence-forensic-operation-in-courts.md` §3.
 
 **Silberg & Dallam 2019 corroboration on evaluator/GAL effects.** From the verbatim text already reproduced in `evidence-forensic-operation-in-courts.md` §3:
 
@@ -297,7 +297,7 @@ Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the u
 
 ## 7. International evaluator-training landscapes — UK, Australia, Canada
 
-### 7.1 United Kingdom — Cafcass and PD12J
+### 7.1 United Kingdom — [Cafcass](https://www.cafcass.gov.uk/) and PD12J
 
 **Cafcass Domestic Abuse Practice Policy.** Cafcass (the Children and Family Court Advisory and Support Service for England) is the statutory body that provides Family Court Advisers (FCAs) — broadly analogous to US custody evaluators / GALs — for private-law child arrangements cases. Cafcass published an updated Domestic Abuse Practice Policy in October 2024 (subsequently withdrawn and replaced in January 2025). URL: https://www.cafcass.gov.uk/domestic-abuse-practice-policy
 
@@ -494,7 +494,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - **Stahl, P. M.** (1999, 2014). *Complex Issues in Child Custody Evaluations* / *Conducting Child Custody Evaluations: From Basic to Complex Issues*. Sage.
 - **Stahl & Isman (2016)** — Understanding and evaluating alienation in high-conflict custody cases. *Wisconsin Journal of Family Law* 36(1).
 - **Saini, Johnston, Fidler & Bala (2016)** — Empirical studies of alienation. In Drozd, Saini & Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374-430). Oxford University Press. PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf — Treated in full in `evidence-forensic-operation-in-courts.md` §5.
-- **Johnston & Sullivan (2020)** — Parental alienation: In search of common ground for a more differentiated theory. *Family Court Review*. https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
+- **[Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020)** — Parental alienation: In search of common ground for a more differentiated theory. *Family Court Review*. https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
 - **Fidler & Bala (2020)** — Concepts, controversies and conundrums of "alienation": Lessons learned in a decade and reflections on challenges ahead. *Family Court Review*. https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.12488
 - **Harman & Lorandos (2021)** — Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law* 27(2):184-208. https://doi.org/10.1037/law0000301
 - **Meier et al. (2022a)** — The trouble with Harman and Lorandos' parental alienation allegations in family court study. *J Family Trauma, Child Custody & Child Development* 19(3-4):295-317.
@@ -525,7 +525,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 ### Cross-references within the AntiAlienate evidence corpus
 
 - `evidence-forensic-operation-in-courts.md` §1 (Meier 2020 in full); §3 (Silberg-Dallam 2019 in full); §4 (Saunders / training-asymmetry high-level synthesis); §5 (Saini/Johnston/Fidler/Bala 2016 centrist position).
-- `evidence-pa-as-child-abuse.md` §2 (WHO ICD-11 status of PA).
+- `evidence-pa-as-child-abuse.md` §2 (WHO [ICD-11](https://icd.who.int/) status of PA).
 - `evidence-international-institutional-positions.md` (CEDAW, GREVIO, UN Alsalem).
 - `evidence-reunification-outcomes.md` (Kayden's Law context; reunification camps; California SB 331 cross-reference).
 - `build-jurisdictions.py` — repository state-by-state implementation tracker.

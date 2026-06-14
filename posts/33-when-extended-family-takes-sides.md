@@ -46,7 +46,7 @@ In Belgium, [case-law/belgium/civil-code-art-375bis-grandparents.md](../case-law
 - **Peer-support groups** for targeted parents — people who get it without explanation
 - **A trauma-informed therapist** who can hold the wider grief
 - **A small circle of certainty** — not opinion-shapers, just witnesses to your continuity
-- **Long-game patience** — adult children of PA frequently re-establish contact across the entire family map (Baker 2007)
+- **Long-game patience** — adult children of PA frequently re-establish contact across the entire family map ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007)
 
 ## Source-blog hyperlinks
 

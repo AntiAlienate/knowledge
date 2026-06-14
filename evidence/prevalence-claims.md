@@ -8,9 +8,9 @@
 
 ## Why this page exists
 
-The PA discourse runs on a small number of headline numbers — **740,000 US children** (Bernet 2010), **1% of US children** (Bernet's derived rate), **13.4% / 22 million US parents** (Harman et al. 2016), **35.5% / 39.1% / 22 million** (Harman et al. 2019), **75% of Italian adults** (Bernet, Baker & Verrocchio 2015), **98.3% of UK 18–25-year-olds** (Hine et al. 2026). These end up in court testimony, legislative testimony, press releases, and advocacy material, often un-attributed or with methodology scrubbed.
+The PA discourse runs on a small number of headline numbers — **740,000 US children** (Bernet 2010), **1% of US children** (Bernet's derived rate), **13.4% / 22 million US parents** ([Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2016), **35.5% / 39.1% / 22 million** (Harman et al. 2019), **75% of Italian adults** (Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio 2015), **98.3% of UK 18–25-year-olds** (Hine et al. 2026). These end up in court testimony, legislative testimony, press releases, and advocacy material, often un-attributed or with methodology scrubbed.
 
-The honest position — supported by the pro-recognition camp's own caveats *and* by the most methodologically rigorous middle-ground review (Saini, Johnston, Fidler & Bala, 2016) — is that **the field has no defensible population-prevalence estimate**, while PA-pattern behaviour and its sequelae in those affected are empirically robust at the qualitative and within-sample-correlational level. This page lays out the actual source material so the repository can cite these numbers truthfully.
+The honest position — supported by the pro-recognition camp's own caveats *and* by the most methodologically rigorous middle-ground review ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala, 2016) — is that **the field has no defensible population-prevalence estimate**, while PA-pattern behaviour and its sequelae in those affected are empirically robust at the qualitative and within-sample-correlational level. This page lays out the actual source material so the repository can cite these numbers truthfully.
 
 ---
 
@@ -25,7 +25,7 @@ The honest position — supported by the pro-recognition camp's own caveats *and
 7. Templer, Matthewson, Haines & Cox 2017 systematic review
 8. Cross-national / non-English prevalence work
 9. Bentley & Matthewson 2020 — qualitative, not prevalence
-10. The Harman & Lorandos vs. Meier exchange
+10. The Harman & Lorandos vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) exchange
 11. UN OHCHR / Alsalem A/HRC/53/36 on the empirical basis of PA claims
 12. Forensic implications — does "1% / 740,000" survive Daubert/Frye scrutiny?
 13. What WOULD a defensible prevalence study look like? (contributor invitation)
@@ -38,11 +38,11 @@ The honest position — supported by the pro-recognition camp's own caveats *and
 
 ### 1.1 The primary source
 
-**Citation.** Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental Alienation, DSM-V, and ICD-11. *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583 — companion volume: Bernet, W. (Ed.) (2010). *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas Publisher. **[secondary verification only]** for the exact verbatim wording of the 740,000 derivation — the full Bernet et al. (2010) AJFT 38(2) issue is paywalled and ResearchGate access returned HTTP 403 at compilation. The calculation as widely reported by both Bernet's collaborators and his critics is identical.
+**Citation.** Bernet, W., von Boch-Galhau, W., Baker, A. J. L., & Morrison, S. L. (2010). Parental Alienation, DSM-V, and [ICD-11](https://icd.who.int/). *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583 — companion volume: Bernet, W. (Ed.) (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and ICD-11.* Charles C. Thomas Publisher. **[secondary verification only]** for the exact verbatim wording of the 740,000 derivation — the full [Bernet et al.](https://pasg.info/) (2010) AJFT 38(2) issue is paywalled and ResearchGate access returned HTTP 403 at compilation. The calculation as widely reported by both Bernet's collaborators and his critics is identical.
 
 ### 1.2 The calculation chain
 
-As reproduced in Harman, Leder-Elder & Biringen (2019, §1, abstract and introduction): "researchers have had to rely on probability estimates based on factors such as the number of divorced families there are in a given population and the number of these families that are considered 'high conflict.' Using such estimation procedures, **an estimated 1% of all children are alienated from a parental figure to some degree (see Bernet, 2010; Warshak, 2015).**"
+As reproduced in Harman, Leder-Elder & Biringen (2019, §1, abstract and introduction): "researchers have had to rely on probability estimates based on factors such as the number of divorced families there are in a given population and the number of these families that are considered 'high conflict.' Using such estimation procedures, **an estimated 1% of all children are alienated from a parental figure to some degree (see Bernet, 2010; [Warshak](https://warshak.com/family-bridges/), 2015).**"
 
 The chain Bernet presents:
 
@@ -174,7 +174,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ### 5.1 Bernet, Baker & Verrocchio (2015) — SCL-90-R study
 
-**Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — PubMed 25613416 — https://pubmed.ncbi.nlm.nih.gov/25613416/
+**Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 
 **Sample.** N = 739 adults in Chieti, Italy. Retrospective survey: Baker Strategy Questionnaire (childhood PA exposure) + SCL-90-R (current symptomatology).
 
@@ -243,7 +243,7 @@ A figure circulating in PA-critical secondary sources is "82% of 39 studies low 
 
 **Citation.** Templer, K., Matthewson, M., Haines, J., & Cox, G. (2017). Recommendations for best practice in response to parental alienation: Findings from a systematic review. *Journal of Family Therapy*, 39(1), 103–122. https://doi.org/10.1111/1467-6427.12137 — URL: https://onlinelibrary.wiley.com/doi/abs/10.1111/1467-6427.12137
 
-**Search.** Medline, Embase, PsycINFO, Cochrane Central Register of Controlled Trials, conference abstracts.
+**Search.** Medline, Embase, PsycINFO, [Cochrane](https://www.cochranelibrary.com/) Central Register of Controlled Trials, conference abstracts.
 
 **Yield.** **Ten** articles met inclusion (peer-reviewed journal articles or books in English on psychological or legal intervention for PA).
 

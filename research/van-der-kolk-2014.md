@@ -65,7 +65,7 @@ van der Kolk is increasingly cited in expert testimony to:
 - Establish the developmental-trauma framework as scientifically grounded (suitable for Daubert)
 - Quantify the harm to children of long-term alienation in biological terms, not merely emotional ones
 - Support orders for trauma-informed reunification therapy rather than generic family therapy
-- Frame the ECHR Article 8 enforcement-failure argument: state failure to enforce contact produces measurable, brain-level developmental harm to the child ([case-law/echr/lombardo-v-italy-2013.md](../case-law/echr/lombardo-v-italy-2013.md))
+- Frame the [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) enforcement-failure argument: state failure to enforce contact produces measurable, brain-level developmental harm to the child ([case-law/echr/lombardo-v-italy-2013.md](../case-law/echr/lombardo-v-italy-2013.md))
 
 ## Critiques + limitations
 

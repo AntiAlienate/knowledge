@@ -3,7 +3,7 @@
 **Jurisdiction code:** `MG` · **Legal system:** civil-law  
 **Language(s):** mg, fr  
 
-Madagascar is an Indian Ocean civil-law republic whose family-law framework operates under the Civil Code (Code Civil) drawing on French civil-law substantive heritage with substantial codification of customary-law and Merina/Betsileo traditional matrimonial-property provisions (notably the 'fitampoha' marriage-property tradition). Family-law framework operates under Law 2007-022 on Marriage, Law 2007-023 on Filiation, Law 2007-024 on Parental Authority, and Law 2017-014 on Child Protection. Parental authority and child custody are governed by Law 2007-024 arts. 1-30. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the High Constitutional Court (Haute Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Public Health framework. Madagascar is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Madagascar acceded to the Hague Convention 1980 effective 1 September 2004.
+Madagascar is an Indian Ocean civil-law republic whose family-law framework operates under the Civil Code (Code Civil) drawing on French civil-law substantive heritage with substantial codification of customary-law and Merina/Betsileo traditional matrimonial-property provisions (notably the 'fitampoha' marriage-property tradition). Family-law framework operates under Law 2007-022 on Marriage, Law 2007-023 on Filiation, Law 2007-024 on Parental Authority, and Law 2017-014 on Child Protection. Parental authority and child custody are governed by Law 2007-024 arts. 1-30. The Supreme Court (Cour Suprême) is the apex court for civil and criminal matters; the High Constitutional Court (Haute Cour Constitutionnelle) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance). Psychology profession is regulated through the Ministry of Public Health framework. Madagascar is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Madagascar acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 September 2004.
 
 ## PA recognition status
 
@@ -18,7 +18,7 @@ Madagascar is an Indian Ocean civil-law republic whose family-law framework oper
 - **Law 2007-022 on Marriage + Law 2007-023 on Filiation** — Laws on Marriage and Filiation (2007) — <https://www.justice.gov.mg/>
   - Federal Laws on Marriage and Filiation reform.
 - **Law 2017-014 on Child Protection** — Law on Child Protection (2017) — <https://www.justice.gov.mg/>
-  - Federal Law on Child Protection aligned with UNCRC obligations.
+  - Federal Law on Child Protection aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

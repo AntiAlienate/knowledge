@@ -8,7 +8,7 @@ A cross-jurisdictional thematic summary of judicial findings, statutory provisio
 **Lord Stuart**, Court of Session Outer House, 5 February 2025. The strongest single Scottish judicial PA finding to date. Lord Stuart held that the defender's knowingly false allegations against the pursuer constituted direct emotional abuse of the children, the abuse arising from the alienating behaviour itself. The decision frames the issue under welfare/abuse rather than the contested 'parental alienation syndrome' label. Cross-link: case-study:nf-v-af-2025-csoh-13-scotland.
 
 ### England & Wales — Re Y [2026] EWFC 38
-**Sir Andrew McFarlane P**. While primarily an evaluator-quality decision, Re Y operates within the broader Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) in which sustained alienating conduct can establish emotional-abuse grounds under Children Act 1989 s.31. Cross-link: case-study:re-y-2026-ewfc-38.
+**Sir Andrew McFarlane P**. While primarily an evaluator-quality decision, Re Y operates within the broader Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026) in which sustained alienating conduct can establish emotional-abuse grounds under [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.31. Cross-link: case-study:re-y-2026-ewfc-38.
 
 ### Northern Ireland — A Father v A Mother (No. 2) August 2022
 **Mr Justice O'Hara**, High Court Family Division NI. Found one parent's 'core belief that he had been wronged' incompatible with facilitating contact. Clearest NI judicial engagement with alienating-style dynamic without explicit PA label — substantively a child-emotional-welfare finding.

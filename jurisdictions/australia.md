@@ -3,7 +3,7 @@
 **Jurisdiction code:** `AU` · **Legal system:** common-law  
 **Language(s):** en  
 
-Australia is a federal common-law jurisdiction whose family-law architecture is the Family Law Act 1975 (Cth) as substantially reshaped by the Family Law Amendment Act 2023 (in force 6 May 2024). Schedule 2 of the 2023 Amendment Act rewrote the Court Children's Report (CCR) regime, repealed the s.61DA presumption of equal shared parental responsibility, and rewrote s.60CC best-interests with safety primacy. The Federal Circuit and Family Court of Australia (FCFCOA), formed by the 2021 merger of the Family Court of Australia and Federal Circuit Court, is the operational forum. FLA s.121 imposes a strict anonymisation regime — no individual CCR writer or party may be named in published reporting. Green & Green [2024] FedCFamC1F 896 is the principal post-reform PA-engaging FCFCOA case study. Practitioner regulation runs through AHPRA / Psychology Board of Australia (PsyBA).
+Australia is a federal common-law jurisdiction whose family-law architecture is the [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) as substantially reshaped by the Family Law Amendment Act 2023 (in force 6 May 2024). Schedule 2 of the 2023 Amendment Act rewrote the Court Children's Report (CCR) regime, repealed the s.61DA presumption of equal shared parental responsibility, and rewrote s.60CC best-interests with safety primacy. The Federal Circuit and Family Court of Australia (FCFCOA), formed by the 2021 merger of the Family Court of Australia and Federal Circuit Court, is the operational forum. FLA s.121 imposes a strict anonymisation regime — no individual CCR writer or party may be named in published reporting. Green & Green [2024] FedCFamC1F 896 is the principal post-reform PA-engaging FCFCOA case study. Practitioner regulation runs through AHPRA / Psychology Board of Australia (PsyBA).
 
 ## PA recognition status
 
@@ -26,7 +26,7 @@ Australia is a federal common-law jurisdiction whose family-law architecture is 
 - **Federal Circuit and Family Court of Australia Act 2021 (Cth)** — FCFCOA Act 2021 — merges the Family Court of Australia and Federal Circuit Court (2021) — <https://www.legislation.gov.au/Details/C2021A00013>
   - Constitutes the FCFCOA as the unified federal family-law forum (Division 1 — superior court of record; Division 2 — Federal Circuit equivalent). Operational platform for all post-2021 Australian family-law proceedings including Green & Green [2024] FedCFamC1F 896.
 - **Health Practitioner Regulation National Law Act 2009 (as adopted in each State and Territory)** — Health Practitioner Regulation National Law — AHPRA framework (2009) — <https://www.ahpra.gov.au/>
-  - National scheme establishing AHPRA and the Psychology Board of Australia (PsyBA). AHPRA registration is the load-bearing statutory credential for any Court Children's Report writer or court-appointed expert. The Australian counterpart to UK HCPC, Canadian provincial colleges, and US state psychology boards.
+  - National scheme establishing AHPRA and the Psychology Board of Australia (PsyBA). AHPRA registration is the load-bearing statutory credential for any Court Children's Report writer or court-appointed expert. The Australian counterpart to UK [HCPC](https://www.hcpc-uk.org/), Canadian provincial colleges, and US state psychology boards.
 - **Australian Law Reform Commission Inquiry 135 (2019) — Family Law System review** — ALRC Inquiry 135 — 'Family Law for the Future' (March 2019) (2019) — <https://www.alrc.gov.au/publication/family-law-for-the-future-an-inquiry-into-the-family-law-system-alrc-report-135/>
   - Comprehensive ALRC review of the Australian family-law system; the policy-evidence anchor for the 2023 Amendment Act's repeal of s.61DA and rewrite of s.60CC. ALRC recommendations on family-violence-informed decision-making form the doctrinal backbone of the 2023 reforms.
 
@@ -100,7 +100,7 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 2. **Federal Register of Legislation — Family Law Amendment Act 2023** — <https://www.legislation.gov.au/Details/C2023A00087> (Australian Government — Office of Parliamentary Counsel) [en]
 3. **Federal Circuit and Family Court of Australia (FCFCOA)** — <https://www.fcfcoa.gov.au/> (FCFCOA) [en]
 4. **High Court of Australia** — <https://www.hcourt.gov.au/> (High Court of Australia) [en]
-5. **AustLII — Australian case-law database** — <https://www.austlii.edu.au/> (Australasian Legal Information Institute) [en]
+5. **[AustLII](https://www.austlii.edu.au/) — Australian case-law database** — <https://www.austlii.edu.au/> (Australasian Legal Information Institute) [en]
 6. **Australian Health Practitioner Regulation Agency (AHPRA) / Psychology Board of Australia** — <https://www.psychologyboard.gov.au/> (AHPRA / PsyBA) [en]
 7. **Australian Psychological Society (APS)** — <https://psychology.org.au/> (APS) [en]
 8. **Australian Law Reform Commission — Inquiry 135 'Family Law for the Future'** — <https://www.alrc.gov.au/publication/family-law-for-the-future-an-inquiry-into-the-family-law-system-alrc-report-135/> (ALRC) [en]

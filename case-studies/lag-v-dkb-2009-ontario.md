@@ -1,6 +1,6 @@
 # L. (A.G.) v. D. (K.B.) (2009), 93 O.R. (3d) 409 (Ont. S.C.J.)
 
-**Neutral citation:** 2009 CanLII 943 (ON SC)  
+**Neutral citation:** 2009 [CanLII](https://www.canlii.org/) 943 (ON SC)  
 **Court:** Ontario Superior Court of Justice  
 **Decided:** 2009-01-16  
 **Panel:** The Hon. Justice Faye E. McWatt, sitting alone  

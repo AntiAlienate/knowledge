@@ -14,9 +14,9 @@ Curated references to foundational and current research on parental alienation, 
 
 ## Foundational frameworks
 
-- **William Bernet — *Parental Alienation, DSM-5, and ICD-11*** (Bernet 2010; 2020) — establishes the 5-Factor Model and the eight behavioural manifestations. The diagnostic spine of the field.
-- **Richard Warshak — *Family Bridges* / *Welcoming Our Children Home*** — peer-reviewed evidence base for the leading reunification-intensive protocol.
-- **William Bernet et al. — *Foundations of Parental Alienation* (Charles C Thomas, 2020)** — the multi-disciplinary standard reference work. Cited extensively in the academic and judicial literature.
+- **William Bernet — *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*** (Bernet 2010; 2020) — establishes the 5-Factor Model and the eight behavioural manifestations. The diagnostic spine of the field.
+- **Richard [Warshak](https://warshak.com/family-bridges/) — *[Family Bridges](https://warshak.com/family-bridges/)* / *Welcoming Our Children Home*** — peer-reviewed evidence base for the leading reunification-intensive protocol.
+- **William [Bernet et al.](https://pasg.info/) — *Foundations of Parental Alienation* (Charles C Thomas, 2020)** — the multi-disciplinary standard reference work. Cited extensively in the academic and judicial literature.
 
 ## Brain & developmental research
 
@@ -44,7 +44,7 @@ Curated references to foundational and current research on parental alienation, 
 ## Statutory anchors
 
 - **ICD-11 QE52.2** (WHO, in force 2022) — *Caregiver-child relationship problem*. The clinical code that names the dynamic.
-- **DSM-5-TR** (APA, 2022) — includes *Child affected by parental relationship distress* (V61.29).
+- **[DSM-5-TR](https://www.appi.org/products/dsm)** (APA, 2022) — includes *Child affected by parental relationship distress* (V61.29).
 
 ## Verified upstream publishers
 

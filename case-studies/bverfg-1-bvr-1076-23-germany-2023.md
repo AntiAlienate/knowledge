@@ -7,11 +7,11 @@
 
 ## Why this case matters
 
-Germany's Federal Constitutional Court held that a family-court decision relying on the PAS construct is not constitutionally tenable. Rn. 34 of the Kammerbeschluss describes PAS as an outdated concept regarded in the relevant scientific literature as refuted, and cites the DJI-anchored Zimmermann/Fichtner/Walper/Lux/Kindler 2023 ZKJ critique as authority. The OLG Köln decisions were annulled and remanded. The ruling has moved the German PA-critique camp from minority position to institutional mainstream — the inverse of most other PASG-active jurisdictions.
+Germany's Federal Constitutional Court held that a family-court decision relying on the PAS construct is not constitutionally tenable. Rn. 34 of the Kammerbeschluss describes PAS as an outdated concept regarded in the relevant scientific literature as refuted, and cites the DJI-anchored Zimmermann/Fichtner/Walper/Lux/Kindler 2023 ZKJ critique as authority. The OLG Köln decisions were annulled and remanded. The ruling has moved the German PA-critique camp from minority position to institutional mainstream — the inverse of most other [PASG](https://pasg.info/)-active jurisdictions.
 
 ## Procedural history
 
-Underlying family proceedings concerned Umgangsregelung (contact regulation) under §§ 1684, 1696 BGB. The Amtsgericht obtained a Sachverständigengutachten in 2020 that framed the children's contact-refusal through a PAS lens. The OLG Köln Beschwerdesenat issued the impugned orders on 8 May 2023 and 17 May 2023 (II-25 UF 19/23), relying on that PAS-framed Gutachten. The mother brought a Verfassungsbeschwerde under Art. 93 Abs. 1 Nr. 4a GG / § 90 BVerfGG, invoking Art. 6 Abs. 2 Satz 1 GG (elterliches Erziehungsrecht) and Art. 103 Abs. 1 GG (Anspruch auf rechtliches Gehör). The 2. Kammer des Ersten Senats decided unanimously on 17.11.2023, annulling the OLG Köln Beschlüsse and remanding.
+Underlying family proceedings concerned Umgangsregelung (contact regulation) under §§ 1684, 1696 [BGB](https://www.gesetze-im-internet.de/bgb/). The Amtsgericht obtained a Sachverständigengutachten in 2020 that framed the children's contact-refusal through a PAS lens. The OLG Köln Beschwerdesenat issued the impugned orders on 8 May 2023 and 17 May 2023 (II-25 UF 19/23), relying on that PAS-framed Gutachten. The mother brought a Verfassungsbeschwerde under Art. 93 Abs. 1 Nr. 4a GG / § 90 BVerfGG, invoking Art. 6 Abs. 2 Satz 1 GG (elterliches Erziehungsrecht) and Art. 103 Abs. 1 GG (Anspruch auf rechtliches Gehör). The 2. Kammer des Ersten Senats decided unanimously on 17.11.2023, annulling the OLG Köln Beschlüsse and remanding.
 
 ## Counsel
 

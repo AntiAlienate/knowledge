@@ -83,7 +83,7 @@ When you've exhausted every legal route and the teen refuses all contact:
 
 ## Adult children of PA — what the research shows
 
-Baker's foundational work with adult children of PA (interviewed in their 20s–50s) found:
+[Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) foundational work with adult children of PA (interviewed in their 20s–50s) found:
 
 - **Most eventually reconnect** — usually in their 20s–30s
 - **The trigger is often a life event:** their own child, a divorce, the alienating parent's death

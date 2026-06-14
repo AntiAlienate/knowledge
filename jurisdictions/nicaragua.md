@@ -3,7 +3,7 @@
 **Jurisdiction code:** `NI` · **Legal system:** civil-law  
 **Language(s):** es  
 
-Nicaragua is a Central American civil-law republic whose family-law framework operates under the Family Code 2014 (Código de Familia, Law 870 of 2014, effective 8 April 2015) — comprehensive modern codification replacing prior Civil Code provisions. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 264-281. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated under the Asociación de Psicólogos de Nicaragua and Ministerio de Salud licensing framework. Nicaragua is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1998 art. 9. Nicaragua acceded to the Hague Convention 1980 effective 1 March 2001.
+Nicaragua is a Central American civil-law republic whose family-law framework operates under the Family Code 2014 (Código de Familia, Law 870 of 2014, effective 8 April 2015) — comprehensive modern codification replacing prior Civil Code provisions. Parental authority (autoridad parental) and child custody are governed by Family Code arts. 264-281. The Supreme Court of Justice (Corte Suprema de Justicia) is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the Family Courts (Juzgados de Familia). Psychology profession is regulated under the Asociación de Psicólogos de Nicaragua and Ministerio de Salud licensing framework. Nicaragua is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Children and Adolescents Code 1998 art. 9. Nicaragua acceded to the [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) effective 1 March 2001.
 
 ## PA recognition status
 
@@ -16,7 +16,7 @@ Nicaragua is a Central American civil-law republic whose family-law framework op
 - **Family Code 2014 (Law 870 of 2014) arts. 264-281** — Family Code — Parental authority and custody (2014) — <https://www.poderjudicial.gob.ni/>
   - Federal Family Code effective 8 April 2015 — comprehensive modern codification replacing prior Civil Code provisions. Arts. 264-281 govern autoridad parental and child custody.
 - **Children and Adolescents Code 1998 (Law 287)** — Children and Adolescents Code (1998) — <https://www.poderjudicial.gob.ni/>
-  - Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with UNCRC obligations.
+  - Federal Children and Adolescents Code codifying superior-interest-of-the-child principle aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

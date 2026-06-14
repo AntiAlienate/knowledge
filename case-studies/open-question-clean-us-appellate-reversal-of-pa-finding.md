@@ -35,7 +35,7 @@ The originating brief named four specific candidates worth pursuing:
 - ***Lisa F. v. Eric S.*** (New York family court reversal)
 - ***In re Marriage of Salah*** (California appellate)
 - ***Spadaro v. Spadaro*** (any state)
-- Any of the 27 "turned-around" cases in **Silberg & Dallam, "Abusers gaining custody in family courts: A case series of over turned decisions"** (Journal of Child Custody, 2019)
+- Any of the 27 "turned-around" cases in **[Silberg & Dallam](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204), "Abusers gaining custody in family courts: A case series of over turned decisions"** (Journal of Child Custody, 2019)
 
 **Result for *Lisa F. v. Eric S.***: No published opinion under that caption was located. The closest matches retrieved were *J.F. v. D.F.*, 2018 NY Slip Op 51829(U) (N.Y. Sup. Ct. Monroe Cty. 2018) ([Justia](https://law.justia.com/cases/new-york/other-courts/2018/2018-ny-slip-op-51829-u.html)) and *Matter of E.S. v. S.S.*, 2019 NY Slip Op 50401(U) ([Justia](https://law.justia.com/cases/new-york/other-courts/2019/2019-ny-slip-op-50401-u.html)) — but neither is an appellate reversal of a PA finding. *J.F. v. D.F.* is a Supreme Court (trial-level) custody decision **applying** PA reasoning, not reversing it. The original *Lisa F. v. Eric S.* citation is **not publicly confirmed** from the sources accessed in this search.
 
@@ -45,7 +45,7 @@ The originating brief named four specific candidates worth pursuing:
 
 **Result for Silberg & Dallam 27-case series**: The Silberg & Dallam (2019) paper, *Abusers gaining custody in family courts: A case series of over turned decisions*, 16(2) **Journal of Child Custody** 140 ([Taylor & Francis abstract](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204); [Leadership Council mirror PDF](https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf)) studies 27 US cases in which an initial custody order placing a child with an alleged-abuser parent was later "turned around." Critically, the paper's own description of the corpus shows that the turn-arounds were **predominantly at the trial level on subsequent motions** — through later evidentiary hearings, modifications, or escapes of the children to majority — **not by clean appellate reversal of the original PA finding**. The paper anonymises the cases. The specific case captions, courts, and citations of the 27 are **not publicly confirmed** in the published article, and were not independently re-identified in this search within the time budget. (This itself is a methodological feature of Silberg & Dallam's design: the cases are described as a *clinical* case series, not a legal-authority dataset.)
 
-### 2. Joan Meier / DV LEAP / National Family Violence Law Center
+### 2. Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) / DV LEAP / National Family Violence Law Center
 
 Joan Meier (GW Law) is the leading US scholar-litigator working at the intersection of domestic-violence advocacy and family-court PA scepticism. She founded the **Domestic Violence Legal Empowerment and Appeals Project (DV LEAP)** in 2003 to litigate appeals in custody cases involving PA / abuse interaction ([DV LEAP](https://www.dvleap.org/), [GW Law profile](https://www.law.gwu.edu/joan-s-meier), [National Family Violence Law Center at GW](https://www.nfvlc.org/https/wwwlawgwuedu/national-family-violence-law-center/joanmeier)).
 

@@ -23,7 +23,7 @@ It typically involves:
 
 ## The two dominant approaches
 
-### Family Bridges (Warshak)
+### [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/))
 - 4-day immersive intervention
 - Targeted parent and child only
 - Educational + experiential model — teaches the child about the dynamics that produced their hostility
@@ -31,7 +31,7 @@ It typically involves:
 - Best for: severe cases where standard therapy has failed
 - [warshak.com](http://www.warshak.com/)
 
-### Family Reflections (Childress, Multi-Modal Family Intervention)
+### Family Reflections ([Childress](https://drcachildress.org/), Multi-Modal Family Intervention)
 - Step-up custody change ("protective separation") followed by structured contact rebuilding
 - Frames the rejection as a child-protective issue
 - Most controversial and most aggressive of the protocols
@@ -55,7 +55,7 @@ Red flags:
 - "I'll figure it out as we go"
 - "I treat the family as a whole" without explanation of who attends when
 - Refuses to commit to milestones or reports
-- Has not heard of Warshak, Childress, Family Bridges, or PASG
+- Has not heard of Warshak, Childress, Family Bridges, or [PASG](https://pasg.info/)
 - Charges a flat upfront fee with no protocol description
 
 ---
@@ -108,7 +108,7 @@ Sometimes it does. When it does:
 
 ## Long view
 
-The data from Baker's adult-children-of-PA work suggests that most alienated children do eventually reconnect with the targeted parent. Often it takes until their 20s. Often it follows a life event (their own divorce, their own child being born, the alienating parent's death).
+The data from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) adult-children-of-PA work suggests that most alienated children do eventually reconnect with the targeted parent. Often it takes until their 20s. Often it follows a life event (their own divorce, their own child being born, the alienating parent's death).
 
 That is bleak. It is also true. Plan for it.
 

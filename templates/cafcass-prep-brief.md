@@ -7,7 +7,7 @@ last_verified: "2026-05-25"
 license: "CC BY 4.0"
 ---
 
-# Cafcass / GAL / Court-Psychologist Interview Prep Brief
+# [Cafcass](https://www.cafcass.gov.uk/) / GAL / Court-Psychologist Interview Prep Brief
 
 The court-appointed officer's report is often the single most influential document in a child-arrangements case. Walk in cold and you're at the mercy of whatever framing was planted before you arrived. Walk in prepared with this brief and you reshape the conversation.
 

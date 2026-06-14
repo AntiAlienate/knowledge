@@ -16,7 +16,7 @@ Guinea is a West African civil-law unitary republic whose family-law framework o
 - **Civil Code 1983 arts. 376-415** — Civil Code — Parental authority and custody (1983) — <https://www.coursupreme.gov.gn/>
   - Federal Civil Code drawing on French civil-law substantive heritage with codification of customary-law marriage provisions. Arts. 376-415 govern parental authority and child custody.
 - **Children's Code 2008 (Law L/2008/011/AN)** — Children's Code (2008) — <https://www.coursupreme.gov.gn/>
-  - Federal Children's Code aligned with UNCRC obligations.
+  - Federal Children's Code aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

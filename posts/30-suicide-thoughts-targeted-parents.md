@@ -56,7 +56,7 @@ This is not weakness. This is the predictable response to a specific kind of har
 
 ## The reality you are living in
 
-Reunification rates for severely alienated families improve markedly when the child reaches adolescence and begins to question the favored-parent narrative. The research (Baker 2007, Bernet 2010) shows adult children of PA frequently re-initiate contact in their 20s-40s, often expressing remorse for their childhood rejection. The question is not whether your child will eventually understand. The question is whether you will be alive when they do.
+Reunification rates for severely alienated families improve markedly when the child reaches adolescence and begins to question the favored-parent narrative. The research ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007, Bernet 2010) shows adult children of PA frequently re-initiate contact in their 20s-40s, often expressing remorse for their childhood rejection. The question is not whether your child will eventually understand. The question is whether you will be alive when they do.
 
 You will be. Stay.
 

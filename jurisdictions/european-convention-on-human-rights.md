@@ -1,9 +1,9 @@
-# European Convention on Human Rights / European Court of Human Rights (ECHR)
+# [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) / European Court of Human Rights (ECHR)
 
 **Jurisdiction code:** `COE` · **Legal system:** supranational  
 **Language(s):** en, fr  
 
-The European Convention on Human Rights (ECHR, Rome 1950, in force 1953) and the European Court of Human Rights (Strasbourg) constitute the supranational human-rights jurisdiction binding the 46 member states of the Council of Europe. ECHR Article 8 (right to respect for private and family life) is the principal Convention article engaged in parental-alienation litigation: the substantive obligation on member states' authorities to take adequate and effective measures to enable parent-child relations to be restored. The STRASBOURG TRIPTYCH on Italy — Lombardo v Italy (App no 25704/11, 2013), Improta v Italy (App no 66396/14, 2017), Strumia v Italy (App no 53377/13, 2016) — established the Article 8 procedural-due-diligence standard subsequently engaged in Cassazione 9691/2022. ECHR jurisdiction is supplementary to domestic remedies (Art 35(1) exhaustion principle) but binds member states' courts and authorities under the doctrine of European consensus and margin of appreciation.
+The European Convention on Human Rights (ECHR, Rome 1950, in force 1953) and the European Court of Human Rights (Strasbourg) constitute the supranational human-rights jurisdiction binding the 46 member states of the Council of Europe. [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) (right to respect for private and family life) is the principal Convention article engaged in parental-alienation litigation: the substantive obligation on member states' authorities to take adequate and effective measures to enable parent-child relations to be restored. The STRASBOURG TRIPTYCH on Italy — Lombardo v Italy (App no 25704/11, 2013), Improta v Italy (App no 66396/14, 2017), Strumia v Italy (App no 53377/13, 2016) — established the Article 8 procedural-due-diligence standard subsequently engaged in Cassazione 9691/2022. ECHR jurisdiction is supplementary to domestic remedies (Art 35(1) exhaustion principle) but binds member states' courts and authorities under the doctrine of European consensus and margin of appreciation.
 
 ## PA recognition status
 
@@ -25,9 +25,9 @@ The European Convention on Human Rights (ECHR, Rome 1950, in force 1953) and the
   - Restructured the Strasbourg court into the present single full-time European Court of Human Rights (in force 1.11.1998), replacing the prior Commission + Court structure. Established the modern Chamber + Grand Chamber architecture under which the PA-adjacent Italian triptych was decided.
 - **Protocol 15 (2013)** — Protocol No. 15 — subsidiarity and margin of appreciation (2013) — <https://www.echr.coe.int/protocol-fifteen>
   - Adds explicit references to subsidiarity and the doctrine of margin of appreciation to the Convention preamble (in force 1.8.2021). Reduces the time limit for applications from six months to four months. Frames how Strasbourg engages domestic PA-adjacent decisions — member states retain primary responsibility under subsidiarity.
-- **UN Convention on the Rights of the Child (CRC) art. 9** — UN CRC art. 9 — right to maintain contact with both parents (1989) — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+- **[UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) (CRC) art. 9** — UN CRC art. 9 — right to maintain contact with both parents (1989) — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
   - Art 9(3) UN CRC: 'States Parties shall respect the right of the child who is separated from one or both parents to maintain personal relations and direct contact with both parents on a regular basis, except if it is contrary to the child's best interests.' Frequently invoked alongside ECHR Art 8 in Strasbourg PA-adjacent reasoning. All Council of Europe member states are CRC parties.
-- **Hague Convention on the Civil Aspects of International Child Abduction 1980** — Hague Convention 1980 — international child abduction (1980) — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
+- **Hague Convention on the Civil Aspects of International Child Abduction 1980** — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) — international child abduction (1980) — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
   - Multi-lateral treaty for return of internationally abducted children. The Strasbourg court engages Hague-Convention return proceedings under ECHR Art 8 — leading line including Neulinger and Shuruk v Switzerland (Grand Chamber 2010) and X v Latvia (Grand Chamber 2013). Intersects with PA-adjacent fact-patterns in cross-border parental-removal cases.
 
 ## Apex courts
@@ -59,7 +59,7 @@ The European Convention on Human Rights (ECHR, Rome 1950, in force 1953) and the
 
 ## Anonymisation convention
 
-ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy; Strumia v Italy). The Rules of Court permit applicant anonymity in exceptional cases (Rule 47(4)). Children involved are typically referenced by initial or anonymised descriptor. ECHR judgments are published in HUDOC bilingual database (English and French; some translations into other languages). Member states' execution proceedings under Art 46 are public via Committee of Ministers documentation.
+ECtHR judgments name applicants in full (e.g., Lombardo v Italy; Improta v Italy; Strumia v Italy). The Rules of Court permit applicant anonymity in exceptional cases (Rule 47(4)). Children involved are typically referenced by initial or anonymised descriptor. ECHR judgments are published in [HUDOC](https://hudoc.echr.coe.int/) bilingual database (English and French; some translations into other languages). Member states' execution proceedings under Art 46 are public via Committee of Ministers documentation.
 
 ## Key developments
 

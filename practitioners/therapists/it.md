@@ -17,7 +17,7 @@ L'autorita regolatoria della professione psicologica e il Consiglio Nazionale de
 - Andrea Mazzeo (psichiatra forense, Lecce) e l'autore italiano della monografia critica piu citata in lingua italiana — *PAS: una sindrome inventata* — coniando l'espressione 'sindrome inventata' che e divenuta marker lessicale del polo critico italiano.
 - Esiste una sentenza di rilievo costituzionale tangente: il Tribunale di Cosenza (decreto 2017) e successivi provvedimenti hanno respinto perizie fondate sulla PAS richiamando la nota Ministero della Salute 2012 — base documentale poi assorbita da Cass. 9691/2022.
 - La presenza italiana cross-jurisdictional e essenzialmente nulla: a differenza dell'Argentina (Vaccaro a Madrid) o della Germania (rete DACH-NL), non risultano clinici italiani significativi attivi in altre giurisdizioni sul tema PA. Italia resta self-contained.
-- Massimo Ammaniti (Sapienza, psicoanalisi infantile) e voce di middle-leaning recognition piuttosto che recognition pura: il suo corpus principale e psicoanalitico-evolutivo e le sue posizioni sull'AP sono sfumate e non PASG-aligned.
+- Massimo Ammaniti (Sapienza, psicoanalisi infantile) e voce di middle-leaning recognition piuttosto che recognition pura: il suo corpus principale e psicoanalitico-evolutivo e le sue posizioni sull'AP sono sfumate e non [PASG](https://pasg.info/)-aligned.
 
 ## Recognition camp
 
@@ -143,10 +143,10 @@ Roma · Lazio · LUMSA Universita di Roma; Sapienza (affiliazione di ricerca); C
 <sub>ID: `it.lubrano-lavadera-anna`</sub>
 
 ### Prof.ssa Maria Cristina Verrocchio, PhD
-*Professore Ordinario di Psicologia Clinica, Universita G. d'Annunzio Chieti-Pescara; psicologa e psicoterapeuta; membro PASG (Parental Alienation Study Group)*
+*Professore Ordinario di Psicologia Clinica, Universita G. d'Annunzio Chieti-Pescara; psicologa e psicoterapeuta; membro PASG ([Parental Alienation Study Group](https://pasg.info/))*
 Chieti-Pescara · Abruzzo · Universita degli Studi G. d'Annunzio Chieti-Pescara, Dipartimento di Scienze Psicologiche, della Salute e del Territorio; AIPG Associazione Italiana di Psicologia Giuridica
 
-**Stance:** Voce italiana PASG-aligned (Parental Alienation Study Group). Prima autrice italiana di studio empirico peer-reviewed su esiti di salute mentale in adulti che riferiscono storia di alienazione genitoriale, in coautoria con Amy Baker: Baker & Verrocchio (2013) 'Italian college students' recollections of parental alienation', *Children and Youth Services Review*. Co-autrice con Daniela Marchetti di *L'intervento nei casi di alienazione genitoriale*. Profilo su sito AIPG.
+**Stance:** Voce italiana PASG-aligned (Parental Alienation Study Group). Prima autrice italiana di studio empirico peer-reviewed su esiti di salute mentale in adulti che riferiscono storia di alienazione genitoriale, in coautoria con Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation): Baker & Verrocchio (2013) 'Italian college students' recollections of parental alienation', *Children and Youth Services Review*. Co-autrice con Daniela Marchetti di *L'intervento nei casi di alienazione genitoriale*. Profilo su sito AIPG.
 
 **Publications:**
 - Italian college students' recollections of parental alienation (2013) — *Children and Youth Services Review (con A. J. L. Baker)*
@@ -215,7 +215,7 @@ Firenze · Toscana · Crescere Insieme / Bigenitorialita Toscana (ONG)
 *Medico chirurgo; specialista in psichiatria; psichiatra forense; gia dirigente medico ASL Lecce; perito del Tribunale di Lecce*
 Lecce · Puglia · Studio privato Lecce; collaborazioni Telefono Rosa, D.i.Re; autore presso editori indipendenti / Edizioni Psiconline
 
-**Stance:** Voce critica italiana piu prominente in lingua italiana. Autore della monografia *PAS: una sindrome inventata* (Edizioni Psiconline, 2013) e di numerosi articoli su riviste e blog specializzati che articolano la critica al costrutto PAS sul piano (i) nosografico (assenza dal DSM-5 e dall'ICD-11), (ii) epistemologico (Gardner come fonte primaria non sottoposta a peer review), e (iii) forense (uso strumentale in casi di denuncia di abuso/violenza domestica). L'espressione 'sindrome inventata' e divenuta marker lessicale del polo critico italiano. Citato nella cadena documentale recepita da Cass. 9691/2022.
+**Stance:** Voce critica italiana piu prominente in lingua italiana. Autore della monografia *PAS: una sindrome inventata* (Edizioni Psiconline, 2013) e di numerosi articoli su riviste e blog specializzati che articolano la critica al costrutto PAS sul piano (i) nosografico (assenza dal [DSM-5](https://www.appi.org/products/dsm) e dall'[ICD-11](https://icd.who.int/)), (ii) epistemologico (Gardner come fonte primaria non sottoposta a peer review), e (iii) forense (uso strumentale in casi di denuncia di abuso/violenza domestica). L'espressione 'sindrome inventata' e divenuta marker lessicale del polo critico italiano. Citato nella cadena documentale recepita da Cass. 9691/2022.
 
 **Publications:**
 - PAS: una sindrome inventata (2013) — *Edizioni Psiconline*

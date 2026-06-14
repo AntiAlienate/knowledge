@@ -78,7 +78,7 @@ Judges read both literatures (or should). A submission that ignores the contrary
 ## Strongest works on each side
 
 ### Recognition — required reading
-- **[Bernet, W. (Ed.)](https://www.ccthomas.com/) (2010). *Parental Alienation, DSM-5, and ICD-11*.** CC Thomas. — [Google Books](https://books.google.com/books?id=Parental+Alienation+DSM-5+ICD-11)
+- **[Bernet, W. (Ed.)](https://www.ccthomas.com/) (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*.** CC Thomas. — [Google Books](https://books.google.com/books?id=Parental+Alienation+DSM-5+ICD-11)
 - **[Lorandos, D., Bernet, W., & Sauber, S.R. (Eds.) (2013). *Parental Alienation: The Handbook for Mental Health and Legal Professionals*](https://www.ccthomas.com/details.cfm?P_ISBN13=9780398088804).** CC Thomas.
 - **[Lorandos, D., & Bernet, W. (Eds.) (2020). *Parental Alienation: Science and Law*](https://www.ccthomas.com/details.cfm?P_ISBN13=9780398093259).** CC Thomas.
 - **[Baker, A.J.L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*](https://wwnorton.com/books/9780393705195).** Norton.
@@ -104,8 +104,8 @@ Judges read both literatures (or should). A submission that ignores the contrary
 
 1. **Read primary sources, not summaries.** Both camps caricature each other. The actual papers are more nuanced than the camp wars suggest.
 2. **Distinguish weak and strong versions.** "PA does not exist" is the weak critique; "PA framings have been misapplied in court" is the strong critique. "Anyone resisting contact is alienated" is the weak recognition; "differential diagnosis matters, and severe cases warrant structured intervention" is the strong recognition.
-3. **Notice the middle.** Kelly, Johnston, Fidler, Bala, Saini — these are not "in the middle" in a wishy-washy sense. They have written the most empirically grounded work in the field. They are the consensus the public debate ignores.
-4. **Track who funds and who teaches whom.** Both camps have institutional networks. Knowing whether an evaluator was trained by Childress vs. by Saunders vs. by AFCC tells you something about the framework they're applying.
+3. **Notice the middle.** Kelly, Johnston, Fidler, Bala, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) — these are not "in the middle" in a wishy-washy sense. They have written the most empirically grounded work in the field. They are the consensus the public debate ignores.
+4. **Track who funds and who teaches whom.** Both camps have institutional networks. Knowing whether an evaluator was trained by [Childress](https://drcachildress.org/) vs. by [Saunders](https://www.ovw.usdoj.gov/) vs. by [AFCC](https://www.afccnet.org/) tells you something about the framework they're applying.
 5. **Match the literature to the case.** Not every case is severe. Not every case is mild. Most cases are hybrid. The literature you cite should match what the case actually is.
 
 ---

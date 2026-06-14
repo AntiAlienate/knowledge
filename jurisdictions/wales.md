@@ -3,7 +3,7 @@
 **Jurisdiction code:** `GB-WLS` · **Legal system:** common-law  
 **Language(s):** en, cy  
 
-Wales operates within the unified Bar of England and Wales and shares the Children Act 1989 / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via Cafcass Cymru (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English Cafcass. The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which Cafcass Cymru policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.
+Wales operates within the unified Bar of England and Wales and shares the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) / Family Procedure Rules 2010 substantive frame with England. Family-court infrastructure is administered locally via [Cafcass Cymru](https://www.cafcass.gov.uk/) (Children and Family Court Advisory and Support Service for Wales) — devolved to the Welsh Government and producing its own welfare-reporting framework distinct from English Cafcass. The Welsh-jurisdiction PA debate is academically anchored almost entirely on Dr Julie Doughty (Cardiff University School of Law and Politics), whose Welsh-Government-commissioned Doughty/Maxwell/Slater 'Review of Research and Case Law on Parental Alienation' (April 2018) is the source document on which Cafcass Cymru policy derives — and the canonical Welsh academic anchor framing PA as a 'belief system' rather than empirically grounded clinical concept.
 
 ## PA recognition status
 
@@ -35,8 +35,8 @@ Wales operates within the unified Bar of England and Wales and shares the Childr
 - **Cafcass Cymru — Welsh Government Sponsored Public Body** — Welsh family-court advisory and support service. Cafcass Cymru policy on PA derives from the Doughty/Maxwell/Slater 2018 Welsh-Government-commissioned review framing PA as a 'belief system' rather than clinical syndrome. Methodologically cautious institutional position. — <https://gov.wales/cafcass-cymru>
 - **Welsh Government — Department for Social Justice + Social Services and Integration Directorate** — Welsh Government commissioned the Doughty/Maxwell/Slater 2018 literature review on PA. Welsh-Government-level institutional engagement positioning PA as policy-research question rather than clinical category. — <https://gov.wales/>
 - **Welsh Women's Aid** — Welsh federation-aligned women's-aid body. Carries federation-aligned critique-camp position for Welsh-language outreach. Subsidiary to Women's Aid Federation England positioning. — <https://welshwomensaid.org.uk/>
-- **Health and Care Professions Council (HCPC)** — UK-wide statutory regulator for practitioner psychologists. Applies in Wales. No Welsh-specific PA position. — <https://www.hcpc-uk.org/>
-- **British Psychological Society — Wales branch** — BPS Wales branch — operational subsidiary of UK-wide BPS. No Welsh-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/wales>
+- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/))** — UK-wide statutory regulator for practitioner psychologists. Applies in Wales. No Welsh-specific PA position. — <https://www.hcpc-uk.org/>
+- **British Psychological Society — Wales branch** — [BPS](https://www.bps.org.uk/) Wales branch — operational subsidiary of UK-wide BPS. No Welsh-specific PA position. — <https://www.bps.org.uk/about-us/our-locations/wales>
 - **Cardiff University School of Law and Politics — Dr Julie Doughty research base** — Cardiff University is the institutional research base for Welsh PA academic engagement via Dr Julie Doughty. Doughty/Maxwell/Slater 2018 review is the canonical Welsh academic anchor. Research-pole institutional engagement. — <https://www.cardiff.ac.uk/people/view/38456-doughty-julie>
 
 ## Anonymisation convention
@@ -72,7 +72,7 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 
 1. **Welsh Government — gov.wales** — <https://gov.wales/> (Welsh Government) [en]
 2. **Cafcass Cymru** — <https://gov.wales/cafcass-cymru> (Welsh Government) [en]
-3. **UK Legislation — legislation.gov.uk** — <https://www.legislation.gov.uk/> (UK Government) [en]
+3. **UK Legislation — [legislation.gov.uk](https://www.legislation.gov.uk/)** — <https://www.legislation.gov.uk/> (UK Government) [en]
 4. **Cardiff University School of Law and Politics** — <https://www.cardiff.ac.uk/law-politics> (Cardiff University) [en]
 5. **Welsh Women's Aid** — <https://welshwomensaid.org.uk/> (Welsh Women's Aid) [en]
 

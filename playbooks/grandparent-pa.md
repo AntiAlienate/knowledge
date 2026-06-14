@@ -31,12 +31,12 @@ Your own adult child is alienating the grandchild from the other parent. This is
 | Region | Grandparent contact rights |
 |---|---|
 | **US** | Varies wildly by state; ~half permit grandparent visitation petitions; *Troxel v. Granville* (2000) limits scope |
-| **UK** | No automatic right; must apply for permission to make contact application under Children Act 1989 s.10 |
+| **UK** | No automatic right; must apply for permission to make contact application under [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.10 |
 | **Canada** | Provincial variation; some provinces (BC, Alberta) have express provisions |
-| **Australia** | Family Law Act 1975 s.65C — grandparents can apply for parenting orders |
+| **Australia** | [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) s.65C — grandparents can apply for parenting orders |
 | **EU** | Variable; many systems recognise grandparent contact as part of best-interests analysis |
 | **France** | Article 371-4 Code Civil: child has right to maintain relations with ascendants |
-| **Germany** | §1685 BGB: grandparents have right of access if it serves child's welfare |
+| **Germany** | §1685 [BGB](https://www.gesetze-im-internet.de/bgb/): grandparents have right of access if it serves child's welfare |
 
 Check your specific jurisdiction's [page](../jurisdictions/) — and consult a family lawyer.
 

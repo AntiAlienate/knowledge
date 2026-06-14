@@ -19,7 +19,7 @@ location_tags: [australia, international, templer, systematic-review, interventi
 
 # Templer, Matthewson, Haines & Cox (2017) — Systematic Review of PA Interventions
 
-> **TL;DR.** Kate Templer + colleagues at University of Tasmania published the **leading systematic review of PA-intervention effectiveness** in *Journal of Family Therapy*. The review synthesized 10+ years of intervention studies and produced **best-practice recommendations** that have become reference doctrine for clinicians + family-court systems globally. Established that intensive structured interventions (Family Bridges, Family Reflections) substantially outperform unstructured family therapy in severe PA cases.
+> **TL;DR.** Kate Templer + colleagues at University of Tasmania published the **leading systematic review of PA-intervention effectiveness** in *Journal of Family Therapy*. The review synthesized 10+ years of intervention studies and produced **best-practice recommendations** that have become reference doctrine for clinicians + family-court systems globally. Established that intensive structured interventions ([Family Bridges](https://warshak.com/family-bridges/), Family Reflections) substantially outperform unstructured family therapy in severe PA cases.
 
 **Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../../LICENSE)
 
@@ -41,7 +41,7 @@ location_tags: [australia, international, templer, systematic-review, interventi
 ### Finding 1 — Intensive structured > generic family therapy
 
 For severely alienated children (Friedlander & Walters tier 4):
-- **Family Bridges** (Warshak 2010): ~95% acute restoration, ~78% maintained at 1yr
+- **Family Bridges** ([Warshak](https://warshak.com/family-bridges/) 2010): ~95% acute restoration, ~78% maintained at 1yr
 - **Family Reflections** (Reay 2015): comparable outcomes (smaller sample)
 - **Multi-Modal Family Intervention** (Friedlander & Walters 2010): moderate-severe cases, longer outpatient format
 - **Standard family therapy without PA-specialist training**: substantially worse outcomes; sometimes harmful

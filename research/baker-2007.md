@@ -14,7 +14,7 @@ last_reviewed: 2026-05-16
 location_tags: [united-states, international, baker, 8-indicators, adult-outcomes, qualitative-research]
 ---
 
-# Baker, A. J. L. (2007) — Adult Children of Parental Alienation Syndrome
+# [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007) — Adult Children of Parental Alienation Syndrome
 
 > **TL;DR.** Amy Baker's 2007 book is the **foundational qualitative-research reference** in PA. Based on in-depth interviews with 40 adult children who had been alienated from a parent in childhood, it established the **8 behavioral indicators** of alienating parents that became one of Bernet's 5 essential diagnostic criteria. Also documents the long-term adult outcomes — depression, substance use, relationship instability, eventual reunification patterns.
 
@@ -63,7 +63,7 @@ Baker (2007) provides:
 - **Outcomes** that establish harm (the depression, substance use, attachment data)
 - **Time-doctrine support** — the longer the alienation, the harder the reunification (consistent with the ECHR Lombardo line)
 
-Used in expert testimony and motion citations alongside Bernet 2010, Harman/Kruk/Hines 2018, Warshak 2010.
+Used in expert testimony and motion citations alongside Bernet 2010, Harman/Kruk/Hines 2018, [Warshak](https://warshak.com/family-bridges/) 2010.
 
 ## Critiques
 
@@ -94,7 +94,7 @@ These critiques refine the application but do not undermine the behavioral-indic
 
 - [research/bernet-2010.md](./bernet-2010.md) — 5 essential criteria (incorporates Baker's 8)
 - [research/harman-kruk-hines-2018.md](./harman-kruk-hines-2018.md) — family-violence behavior reframe
-- [research/warshak-2010.md](./warshak-2010.md) — Family Bridges reunification protocol
+- [research/warshak-2010.md](./warshak-2010.md) — [Family Bridges](https://warshak.com/family-bridges/) reunification protocol
 - [research/reay-2015.md](./reay-2015.md) — Family Reflections protocol
 - [research/schore-2001.md](./schore-2001.md) — neuroscience of attachment disruption
 

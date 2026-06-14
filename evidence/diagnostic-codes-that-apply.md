@@ -1,10 +1,10 @@
 # Diagnostic Codes That DO Apply to Parental-Alienating Conduct: A Primary-Source Evidence Base
 
-> **Purpose.** A primary-source, citation-led evidence page on the **existing DSM-5 / DSM-5-TR and ICD-11 diagnostic codes that can defensibly be used to capture parental-alienating conduct and its sequelae**, prepared for the AntiAlienate knowledge repository (CC BY 4.0). The page is written for the practitioner audience: clinicians filling out billing forms, forensic evaluators writing court reports, custody lawyers cross-examining experts, and policy advocates who need to separate the discredited "parental alienation syndrome / disorder" framing from the live diagnostic infrastructure that already exists.
+> **Purpose.** A primary-source, citation-led evidence page on the **existing [DSM-5](https://www.appi.org/products/dsm) / [DSM-5-TR](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/) diagnostic codes that can defensibly be used to capture parental-alienating conduct and its sequelae**, prepared for the AntiAlienate knowledge repository (CC BY 4.0). The page is written for the practitioner audience: clinicians filling out billing forms, forensic evaluators writing court reports, custody lawyers cross-examining experts, and policy advocates who need to separate the discredited "parental alienation syndrome / disorder" framing from the live diagnostic infrastructure that already exists.
 >
 > **The framing.** Prior pages in this series have documented in detail that:
 > - WHO refused to include "parental alienation" as an ICD-11 health term and **formally removed** the index term in 2020 (see `/evidence/international-institutional-positions.md` §1);
-> - APA, APSAC, BPS and PASG-critical bodies have rejected "PAS" as a syndrome (id. §§5–7);
+> - APA, APSAC, [BPS](https://www.bps.org.uk/) and [PASG](https://pasg.info/)-critical bodies have rejected "PAS" as a syndrome (id. §§5–7);
 > - Bernet's DSM-5 inclusion proposal was rejected by the APA Task Force (see `/evidence/pa-as-child-abuse.md` §1.4).
 > This page does **not** re-argue those points. It catalogues what **is** in the diagnostic manuals and can therefore be coded, billed, cited in court, and survived under *Daubert* / *Frye*.
 >
@@ -40,7 +40,7 @@
 - **Z69.011** — Encounter for mental health services for perpetrator of parental child abuse.
 These are billable encounter codes and can sit alongside the V995.51/T74.32XA principal code.
 
-**Why this code matters for PA-pattern conduct.** Under the verbatim DSM-5 definition, three of the enumerated example behaviours — "berating, disparaging, or humiliating the child," "threatening the child," and "scapegoating of the child" — overlap directly with conduct described by Baker, Harman, Kruk and others as core alienating behaviour. A clinician who documents that a parent has engaged in nonaccidental verbal or symbolic acts (e.g. recorded denigration of the other parent in the child's presence, instruction that the other parent is dangerous, coercion of loyalty) that have caused or have reasonable potential to cause significant psychological harm has satisfied the textual elements of V995.51.
+**Why this code matters for PA-pattern conduct.** Under the verbatim DSM-5 definition, three of the enumerated example behaviours — "berating, disparaging, or humiliating the child," "threatening the child," and "scapegoating of the child" — overlap directly with conduct described by [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), [Harman, Kruk](https://pubmed.ncbi.nlm.nih.gov/30080055/) and others as core alienating behaviour. A clinician who documents that a parent has engaged in nonaccidental verbal or symbolic acts (e.g. recorded denigration of the other parent in the child's presence, instruction that the other parent is dangerous, coercion of loyalty) that have caused or have reasonable potential to cause significant psychological harm has satisfied the textual elements of V995.51.
 
 ---
 
@@ -72,7 +72,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 **The Bernet/Wamboldt/Narrow 2016 CAPRD article — the load-bearing argument that CAPRD covers PA-pattern conduct.**
 
-**Citation.** Bernet, W., Wamboldt, M. Z., & Narrow, W. E. (2016). Child Affected by Parental Relationship Distress. *Journal of the American Academy of Child & Adolescent Psychiatry*, 55(7), 571–579. https://doi.org/10.1016/j.jaac.2016.04.018 — PMID 27343884. URL: https://pubmed.ncbi.nlm.nih.gov/27343884/ and https://www.jaacap.org/article/S0890-8567(16)30175-7/abstract (full-text returned HTTP 403 at compilation; abstract accessible via PubMed).
+**Citation.** Bernet, W., Wamboldt, M. Z., & Narrow, W. E. (2016). Child Affected by Parental Relationship Distress. *Journal of the American Academy of Child & Adolescent Psychiatry*, 55(7), 571–579. https://doi.org/10.1016/j.jaac.2016.04.018 — PMID 27343884. URL: https://pubmed.ncbi.nlm.nih.gov/27343884/ and https://www.jaacap.org/article/S0890-8567(16)30175-7/abstract (full-text returned HTTP 403 at compilation; abstract accessible via [PubMed](https://pubmed.ncbi.nlm.nih.gov/)).
 
 **The four CAPRD scenarios identified by the authors (paraphrased from the article abstract):**
 1. children may react to **parental intimate partner distress**;
@@ -231,9 +231,9 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 ### 3.3 Cross-jurisdictional clinical practice
 
-**United States.** DSM-5-TR is dominant in U.S. clinical practice. Forensic evaluators code in DSM-5-TR narrative + ICD-10-CM for billing. Most state custody evaluation rules (AFCC Model Standards, state-specific custody-evaluator licensing) require the evaluator to identify the diagnostic basis for any clinical finding; "V61.20 + V61.29" reports are routine, "V995.51" reports are less common but defensibly used where the evidentiary threshold is met.
+**United States.** DSM-5-TR is dominant in U.S. clinical practice. Forensic evaluators code in DSM-5-TR narrative + ICD-10-CM for billing. Most state custody evaluation rules ([AFCC](https://www.afccnet.org/) Model Standards, state-specific custody-evaluator licensing) require the evaluator to identify the diagnostic basis for any clinical finding; "V61.20 + V61.29" reports are routine, "V995.51" reports are less common but defensibly used where the evidentiary threshold is met.
 
-**United Kingdom.** Cafcass (the Children and Family Court Advisory and Support Service in England and Wales) takes the strongest publicly stated position of any major Western family-court services body: it explicitly avoids the term "parental alienation." Cafcass guidance, verbatim:
+**United Kingdom.** [Cafcass](https://www.cafcass.gov.uk/) (the Children and Family Court Advisory and Support Service in England and Wales) takes the strongest publicly stated position of any major Western family-court services body: it explicitly avoids the term "parental alienation." Cafcass guidance, verbatim:
 
 > "Cafcass do not use or refer to the term 'parental alienation' which is often framed as a condition or syndrome."
 
@@ -265,7 +265,7 @@ APSAC then enumerates the rival hypotheses that must be ruled out — including 
 
 **Operational implication for V995.51 coding.** Under the APSAC differential-diagnosis guardrail, a finding that a parent has committed "child psychological abuse" by alienating conduct (V995.51 / T74.32XA Confirmed) requires the evaluator to have ruled out the rival hypotheses. Where the rule-out is incomplete, the conservative coding is V61.20 + V61.29 (relational problem) with V995.51 "Suspected" (T76.32XA) if a clinical concern persists.
 
-### 4.2 Saini, Johnston, Fidler & Bala (2016) — the differential-diagnosis framework
+### 4.2 [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) — the differential-diagnosis framework
 
 **Primary citation.** Saini, M., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. In L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374–430). Oxford University Press. Nevada courts mirror at https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf (direct fetch returned a binary PDF; the chapter is widely cited and the headline framework is summarised across the secondary literature — **[secondary verification only]** for verbatim text).
 

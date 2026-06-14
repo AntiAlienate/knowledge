@@ -11,7 +11,7 @@ last_reviewed: 2026-05-18
 
 ## TL;DR
 
-Richard Warshak & Mark Otis published the **foundational outcome study** for the Family Bridges intensive reunification program in *Family Court Review* 48(1) in 2010. Of 22 children court-ordered into the 4-day residential intensive workshop with their rejected parent (no contact with favoured parent during program), **17 of 22 (77%) achieved restoration of their relationship with the rejected parent within the 4-day workshop**. Follow-up assessments at 3 months to 2+ years showed durable improvement in most cases. Established empirical basis for intensive-residential reunification as effective severe-PA intervention.
+Richard [Warshak](https://warshak.com/family-bridges/) & Mark Otis published the **foundational outcome study** for the [Family Bridges](https://warshak.com/family-bridges/) intensive reunification program in *Family Court Review* 48(1) in 2010. Of 22 children court-ordered into the 4-day residential intensive workshop with their rejected parent (no contact with favoured parent during program), **17 of 22 (77%) achieved restoration of their relationship with the rejected parent within the 4-day workshop**. Follow-up assessments at 3 months to 2+ years showed durable improvement in most cases. Established empirical basis for intensive-residential reunification as effective severe-PA intervention.
 
 ## Study background
 

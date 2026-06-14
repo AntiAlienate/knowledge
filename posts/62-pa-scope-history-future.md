@@ -1,6 +1,6 @@
 # Parental Alienation — Scope, History, and the Future of a Maturing Field
 
-> **TL;DR.** Parental alienation has a controversial origin (Gardner, 1985) and a maturing future. ~11–15% of post-divorce families show some PA dynamics; ~1–3% severe. The 2018 reframing by Harman, Kruk & Hines in *Psychological Bulletin* (PA as a recognized form of family violence) was the inflection point that made the framework Daubert-survivable in court. You are not at the end of an unwinnable history. You are in the middle of a maturing one.
+> **TL;DR.** Parental alienation has a controversial origin (Gardner, 1985) and a maturing future. ~11–15% of post-divorce families show some PA dynamics; ~1–3% severe. The 2018 reframing by [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) in *Psychological Bulletin* (PA as a recognized form of family violence) was the inflection point that made the framework Daubert-survivable in court. You are not at the end of an unwinnable history. You are in the middle of a maturing one.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/parental-alienation-scope-history-future](https://www.antialienate.com/blog/parental-alienation-scope-history-future).**
@@ -10,9 +10,9 @@
 ## Scope today (2026)
 
 - **~11–15%** of post-divorce families show some parental alienation dynamics (Bernet)
-- **~1–3%** severe (Harman et al.)
+- **~1–3%** severe ([Harman et al.](https://pubmed.ncbi.nlm.nih.gov/30080055/))
 - Recognized internationally as a form of **family violence** (Harman, Kruk & Hines, 2018, *Psychological Bulletin*)
-- Codified clinically: **DSM-5 V995.51** (Child Psychological Abuse) + **WHO ICD-11 QE52** (Caregiver-Child Relationship Problem)
+- Codified clinically: **[DSM-5](https://www.appi.org/products/dsm) V995.51** (Child Psychological Abuse) + **WHO [ICD-11](https://icd.who.int/) QE52** (Caregiver-Child Relationship Problem)
 - Court of Appeal recognition in the UK: **Re S (Parental Alienation: Cult)** [2020] EWCA Civ 568
 - Expert testimony framework consolidated in the UK: **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam)
 
@@ -24,7 +24,7 @@
 | 1976 | Wallerstein & Kelly publish *Surviving the Breakup* — first major divorce-impact longitudinal study |
 | 1985 | Richard Gardner coins **Parental Alienation Syndrome (PAS)** — controversial introduction |
 | 1987–2010 | PAS controversy era; Daubert admissibility battles in US courts |
-| 2007 | Amy Baker publishes *Adult Children of PAS* — first empirical longitudinal foundation |
+| 2007 | Amy [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) publishes *Adult Children of PAS* — first empirical longitudinal foundation |
 | 2010 | Bernet leads DSM-5 inclusion campaign; rejected as standalone diagnosis but related codes (V995.51) included; Brazil enacts world's first national PA-specific statute (Lei 12.318/2010) |
 | 2018 | **Harman, Kruk & Hines** reframe in *Psychological Bulletin* — PA as family violence. The reframe survives Daubert |
 | 2020–2023 | UK *Re S* CoA recognition; WHO ICD-11 QE52 enters force (2022); UK *Re C* expert framework consolidated (2023) |

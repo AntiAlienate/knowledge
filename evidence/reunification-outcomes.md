@@ -8,16 +8,16 @@
 
 ## Table of contents
 
-1. Family Bridges (Warshak)
+1. [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/))
 2. Family Reflections Reunification Program (Reay)
-3. Turning Points for Families / TPFF (Gottlieb)
-4. AB-PA — Childress's Attachment-Based Model
+3. Turning Points for Families / [TPFF](https://turningpointsforfamilies.com/) ([Gottlieb](https://turningpointsforfamilies.com/))
+4. [AB-PA](https://drcachildress.org/) — [Childress's](https://drcachildress.org/) Attachment-Based Model
 5. Multi-Modal Family Intervention (Friedlander & Walters)
 6. Overcoming Barriers Family Camp (Sullivan, Ward & Deutsch)
 7. Transitioning Families (Greenberg)
 8. The Mercer/Silberg/Dallam critique tradition
 9. The Geffner et al. (2022) symposium critique
-10. The Saini/Johnston/Fidler/Bala middle position
+10. The [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala middle position
 11. Forensic / statutory use of program outcomes
 12. Synthesis — what can honestly be said to a court
 
@@ -83,7 +83,7 @@
 
 **Sample / method [secondary verification only — full text was not directly accessible at compilation].** Pilot program described as run in 2012 with 22 children in 12 families; described follow-ups at end of retreat plus 3, 6, 9, and 12 months. Outcome data collected by the programme.
 
-**Reported headline figure (secondary-source paraphrase confirmed in Harman et al. 2022 literature review).** "An initial evaluation of the Family Reflections program found a 95% reunification success rate after 12 months post-intervention for twelve families (22 children; Reay, 2015)." (Harman, Saunders & Afifi 2022, p. 3; full citation §3.1 below.)
+**Reported headline figure (secondary-source paraphrase confirmed in [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 literature review).** "An initial evaluation of the Family Reflections program found a 95% reunification success rate after 12 months post-intervention for twelve families (22 children; Reay, 2015)." (Harman, [Saunders](https://www.ovw.usdoj.gov/) & Afifi 2022, p. 3; full citation §3.1 below.)
 
 **Honest methodological caveats.**
 - Programme-conducted evaluation; no independent raters.
@@ -98,7 +98,7 @@
 
 ### 3.1 Harman, Saunders & Afifi (2022) — the Colorado State outcome paper
 
-**Citation.** Harman, J. J., Saunders, L., & Afifi, T. (2022). Evaluation of the Turning Points for Families (TPFF) program for severely alienated children. *Journal of Family Therapy*, 44(2), [pagination per print issue — online first 2021; DOI as below]. https://doi.org/10.1111/1467-6427.12366 — open-access mirror via Texas AFCC: https://texasafcc.org/wp-content/uploads/2024/10/Evaluation-of-the-Turning-Points-for-Families.pdf — OSF data and materials: https://osf.io/b3uyn/
+**Citation.** Harman, J. J., Saunders, L., & Afifi, T. (2022). Evaluation of the Turning Points for Families (TPFF) program for severely alienated children. *Journal of Family Therapy*, 44(2), [pagination per print issue — online first 2021; DOI as below]. https://doi.org/10.1111/1467-6427.12366 — open-access mirror via Texas [AFCC](https://www.afccnet.org/): https://texasafcc.org/wp-content/uploads/2024/10/Evaluation-of-the-Turning-Points-for-Families.pdf — [OSF](https://osf.io/) data and materials: https://osf.io/b3uyn/
 
 **Verbatim abstract.** "The Turning Points for Families (TPFF) therapeutic intervention program for severely alienated children and their alienated parent was evaluated to determine whether it was safe, did not cause harm, and led to positive changes in the alienated parent–alienated child relationship. Court orders and video recordings of the 4-day intervention were reviewed for indications of improvements over the course of the intervention in relational communication, social support and communal coping, which refers to the family members jointly 'owning' a problem and proactively taking responsibility for it together. Improvements in the parent–child relationships were noted, and the TPFF helped to improve family members' communal coping scores. Participation did not lead to negative changes on any measure. This preliminary evidence indicates that TPFF, similar to other therapeutic structural interventions, is a safe and effective treatment option for severely alienated children."
 
@@ -157,9 +157,9 @@ AB-PA requires a **"protective separation"** between child and allegedly alienat
 
 **Citation.** Friedlander, S., & Walters, M. G. (2010). When a child rejects a parent: Tailoring the intervention to fit the problem. *Family Court Review*, 48(1), 98–111. https://doi.org/10.1111/j.1744-1617.2009.01291.x — open-access scan: https://www.42br.com/_files/content/Multimodal_Family_InterventionFriedlander_&_Walters.pdf
 
-**Programme rationale (verbatim from paper).** "Although there have been recent clinical accounts of interventions with such families that appear to be helpful (Baker & Andre, 2008; Everett, 2006; Sullivan, Ward, & Deutsch, 2010; Ward, 2007; Weitzman, 2004; Warshak, 2010), **there are no reports of controlled empirical studies of the efficacy of such interventions.**" (emphasis added)
+**Programme rationale (verbatim from paper).** "Although there have been recent clinical accounts of interventions with such families that appear to be helpful ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Andre, 2008; Everett, 2006; Sullivan, Ward, & Deutsch, 2010; Ward, 2007; Weitzman, 2004; Warshak, 2010), **there are no reports of controlled empirical studies of the efficacy of such interventions.**" (emphasis added)
 
-**Typology contributed by the article.** Friedlander & Walters refine Kelly & Johnston's (2001) typology of resist/refuse dynamics into:
+**Typology contributed by the article.** Friedlander & Walters refine [Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x)'s (2001) typology of resist/refuse dynamics into:
 - "Pure" or non-hybrid alienation cases (rare in their sample — ~15%)
 - Estrangement (rejection based on real experiences with the rejected parent)
 - Enmeshment (over-bonded relationship with preferred parent)
@@ -253,7 +253,7 @@ AB-PA requires a **"protective separation"** between child and allegedly alienat
 - Conflict of interest: programme creator commissioned the evaluation and supplied all materials.
 - Harm assessment limited to absence of running-away / self-injury *during* the 4-day intervention.
 
-### 8.3 Silberg & Dallam (2019) — 27-case turned-around series
+### 8.3 [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — 27-case turned-around series
 
 **Citation.** Silberg, J., & Dallam, S. (2019). Abusers gaining custody in family courts: A case series of overturned decisions. *Journal of Child Custody*, 16(2), 140–169. https://doi.org/10.1080/15379418.2019.1613204 — open-access copy: https://leadershipcouncil.org/wp-content/uploads/2023/08/Silberg-and-Dallam-2019-Abusers-gaining-custody-in-family-courts.pdf
 
@@ -318,7 +318,7 @@ The Spring 2022 issue of the *Journal of Family Trauma, Child Custody & Child De
 
 **Citation.** Templer, K., Matthewson, M., Haines, J., & Cox, G. (2017). Recommendations for best practice in response to parental alienation: Findings from a systematic review. *Journal of Family Therapy*, 39(1), 103–122. https://doi.org/10.1111/1467-6427.12137 **[secondary verification only]** for full text; abstract and conclusions verified via Wiley DOI record and Monash University publication listing https://research.monash.edu/en/publications/recommendations-for-best-practice-in-response-to-parental-alienat/ .
 
-**Method.** Systematic review of Medline, Embase, PsycINFO and the Cochrane Central Register; included peer-reviewed psychological or legal intervention articles in English. **10 articles met inclusion criteria.**
+**Method.** Systematic review of Medline, Embase, PsycINFO and the [Cochrane](https://www.cochranelibrary.com/) Central Register; included peer-reviewed psychological or legal intervention articles in English. **10 articles met inclusion criteria.**
 
 **Core conclusions (paraphrased).** "Changes in custodial or residential arrangements in favour of the targeted parent are effective in ameliorating parental alienation, and specialized family therapy addressing the alienation is effective in restoring family relationships and family functioning." However, the review explicitly notes the limited number and design quality of the available studies — 10 included studies for a clinical question of this consequence is itself a *finding* about the evidence base.
 
@@ -428,7 +428,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Reunification therapies six-programme synthesis 2022 | No (full text) | DOI verified; conclusions paraphrased from publisher record |
 | Saini, Johnston, Fidler & Bala 2016 chapter | Yes (PDF, not legibly extractable) | Conclusions paraphrased from secondary citations across literature |
 | Templer, Matthewson, Haines & Cox 2017 | No (full text) | Abstract and conclusions verified via Wiley DOI and Monash listing |
-| 34 U.S.C. § 10446(k) (Kayden's Law) | Yes (statute text via Cornell LII) | Subsection (k)(3)(B)(iii) quoted verbatim |
+| 34 U.S.C. § 10446(k) (Kayden's Law) | Yes (statute text via [Cornell LII](https://www.law.cornell.edu/)) | Subsection (k)(3)(B)(iii) quoted verbatim |
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.

@@ -1,4 +1,4 @@
-# Parental Alienation Is Recognized — APA, WHO, CDC, NIH, ABA, DSM-5, ICD-11
+# Parental Alienation Is Recognized — APA, WHO, CDC, NIH, ABA, [DSM-5](https://www.appi.org/products/dsm), [ICD-11](https://icd.who.int/)
 
 > **TL;DR.** When opposing counsel calls PA "discredited theory," they're 8 years out of date. As of 2026 the framework is recognized by the American Psychological Association (Families resource), the World Health Organization (ICD-11 QE52), the CDC (caregiver-child relationship harm framework), the NIH (psychological-maltreatment research portfolio), the American Bar Association (Family Law Section practice materials), DSM-5 (V995.51 Child Psychological Abuse + V300.19 FDIA), and ICD-11 (QE52 + 6D52 + 6B41).
 
@@ -22,8 +22,8 @@
 
 ### Peer-reviewed research consensus
 
-- **Harman, Kruk & Hines (2018)** — *Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*, *Psychological Bulletin* 144(12), 1275–1299. APA flagship review journal. **The most-cited current academic anchor.**
-- **Baker (2007)** — *Adult Children of Parental Alienation Syndrome.* Foundational longitudinal study.
+- **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*, *Psychological Bulletin* 144(12), 1275–1299. APA flagship review journal. **The most-cited current academic anchor.**
+- **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — *Adult Children of Parental Alienation Syndrome.* Foundational longitudinal study.
 - **Bernet (2010)** — *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
 - **Fidler & Bala (2010)** — *Children Resisting Postseparation Contact*, *Family Court Review* 48(1), 10–47.
 

@@ -13,9 +13,9 @@ Regional aggregate jurisdiction covering Asian PA-construct landscape. Asian com
 
 ## Statutory framework
 
-- **UN Convention on the Rights of the Child art. 3 + art. 9** — UN CRC — children's rights paramountcy + contact with both parents (1989) — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
+- **[UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) art. 3 + art. 9** — UN CRC — children's rights paramountcy + contact with both parents (1989) — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
   - All Asian constituent jurisdictions are CRC parties. Art. 3 best-interests paramountcy + Art. 9(3) right to maintain contact with both parents operationalised in national legislation.
-- **Hague Convention 1980 on Civil Aspects of International Child Abduction** — Hague Convention 1980 — Asia accession patterns (1980) — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
+- **[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) on Civil Aspects of International Child Abduction** — Hague Convention 1980 — Asia accession patterns (1980) — <https://www.hcch.net/en/instruments/conventions/full-text/?cid=24>
   - Japan acceded 2014; Singapore 2010; Hong Kong (via UK) 1996; India NOT acceded. Asian Hague-accession patterns intersect with PA-adjacent cross-border parental-removal cases.
 
 ## Apex courts

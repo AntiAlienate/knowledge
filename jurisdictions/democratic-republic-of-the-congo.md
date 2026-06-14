@@ -16,7 +16,7 @@ The Democratic Republic of the Congo is a Central African civil-law unitary repu
 - **Family Code 1987 (Law 87-010, as amended by Law 16/008 of 2016) arts. 317-340** — Family Code — Parental authority and custody (1987) — <https://www.cour-constitutionnelle.cd/>
   - Federal Family Code drawing on Belgian civil-law substantive heritage with codification of customary-law marriage provisions. Substantially amended by Law 16/008 of 2016. Arts. 317-340 govern parental authority and child custody.
 - **Law on Child Protection 2009 (Law 09/001)** — Law on Child Protection (2009) — <https://www.cour-constitutionnelle.cd/>
-  - Federal Law on Child Protection aligned with UNCRC obligations.
+  - Federal Law on Child Protection aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

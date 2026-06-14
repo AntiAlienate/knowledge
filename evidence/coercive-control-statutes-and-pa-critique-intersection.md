@@ -75,7 +75,7 @@ National coercive-control statutory reforms converge with multi-tier internation
 
 | Jurisdiction | Statute / framework | Year | Type | PA-adjacent intersection |
 |---|---|---|---|---|
-| **England & Wales** | Serious Crime Act 2015 s.76 | 2015 | Criminal — controlling/coercive behaviour | Re-frames evidential backdrop for Children Act 1989 cases |
+| **England & Wales** | Serious Crime Act 2015 s.76 | 2015 | Criminal — controlling/coercive behaviour | Re-frames evidential backdrop for [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) cases |
 | **Scotland** | Domestic Abuse (Scotland) Act 2018 | 2018 | Criminal — broader course-of-conduct | NF v AF 2025 CSOH 13 + Children (Scotland) Act 1995 s.11 |
 | **Northern Ireland** | DACPA (NI) 2021 | 2021 (in force 21.2.2022) | Criminal — NI-specific | Operates alongside Children (NI) Order 1995 |
 | **France** | contrôle coercitif (academic) + CIIVISE 2024 | 2024 | Academic-institutional | Gruev-Vintila Paris Nanterre + CIIVISE Durand |

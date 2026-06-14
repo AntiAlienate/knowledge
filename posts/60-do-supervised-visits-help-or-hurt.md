@@ -37,7 +37,7 @@ Permanent supervised visits without these are not protection — they are a wall
 
 ## The warm-vs-sterile environment factor
 
-Research (Sullivan & Kelly, 2001; Saini, Black, Lin & Léveillé, 2017) consistently finds that supervised visits in warm, child-friendly settings have meaningfully better relational outcomes than clinical sterile rooms. Belgium's *Espaces Rencontres* model has drawn criticism for over-clinicalization.
+Research (Sullivan & Kelly, 2001; [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Black, Lin & Léveillé, 2017) consistently finds that supervised visits in warm, child-friendly settings have meaningfully better relational outcomes than clinical sterile rooms. Belgium's *Espaces Rencontres* model has drawn criticism for over-clinicalization.
 
 ## The case-law backstop
 

@@ -1,6 +1,6 @@
 # US Parent, Child in Europe — The Complete Cross-Atlantic Playbook
 
-> **TL;DR.** If you're a US citizen and your child has been wrongfully removed to, or alienated within, an ECHR-state country, you have a powerful 4-layer toolkit: (1) Hague 1980 + ICARA 22 USC §9001 federal enforcement; (2) ECHR Article 8 directly binding on the receiving state's courts; (3) US State Department Office of Children's Issues; (4) bilateral consular leverage. Most US family lawyers don't know layers 2-4. This is the playbook.
+> **TL;DR.** If you're a US citizen and your child has been wrongfully removed to, or alienated within, an ECHR-state country, you have a powerful 4-layer toolkit: (1) Hague 1980 + [ICARA](https://www.law.cornell.edu/uscode/text/22/chapter-97) 22 USC §9001 federal enforcement; (2) [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) directly binding on the receiving state's courts; (3) US State Department Office of Children's Issues; (4) bilateral consular leverage. Most US family lawyers don't know layers 2-4. This is the playbook.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/usa-parent-child-in-europe-playbook](https://www.antialienate.com/blog/usa-parent-child-in-europe-playbook).**
@@ -9,7 +9,7 @@
 
 ## The 4 legal layers (use them all, in this order)
 
-### Layer 1 — Hague Convention 1980 + ICARA
+### Layer 1 — [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + ICARA
 
 For wrongful removal (across borders without consent):
 

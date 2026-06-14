@@ -1,6 +1,6 @@
 # The Cost of Parental Alienation — Documented Across 4 Domains
 
-> **TL;DR.** PA is not a private grievance. It is a measurable harm with documented costs across 4 domains: (1) the child's clinical outcomes (depression, anxiety, substance use, suicidality — Baker 2007 longitudinal data), (2) the targeted parent's mental health (complex PTSD, ambiguous grief, depression — Boss 1999, Herman 1992), (3) the targeted parent's economic costs (legal fees averaging $50K–$300K through trial), (4) public-health and judicial-system costs.
+> **TL;DR.** PA is not a private grievance. It is a measurable harm with documented costs across 4 domains: (1) the child's clinical outcomes (depression, anxiety, substance use, suicidality — [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 longitudinal data), (2) the targeted parent's mental health (complex PTSD, ambiguous grief, depression — Boss 1999, Herman 1992), (3) the targeted parent's economic costs (legal fees averaging $50K–$300K through trial), (4) public-health and judicial-system costs.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/the-cost-of-parental-alienation](https://www.antialienate.com/blog/the-cost-of-parental-alienation).**
@@ -21,7 +21,7 @@ Adult-children-of-PA longitudinal data (Baker, 2007; Baker & Verrocchio, 2015):
 
 ## Domain 2 — Targeted parent mental health
 
-- **Complex PTSD** (Herman 1992; WHO ICD-11 6B41) — chronic stress + powerlessness + relational injury
+- **Complex PTSD** (Herman 1992; WHO [ICD-11](https://icd.who.int/) 6B41) — chronic stress + powerlessness + relational injury
 - **Ambiguous grief** (Boss 1999) — grief for a child who is alive but psychologically unreachable
 - **Clinical depression** at rates significantly above general population
 - **Documented increased mortality risk** in some longitudinal studies

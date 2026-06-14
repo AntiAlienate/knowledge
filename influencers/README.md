@@ -4,8 +4,8 @@ Reference pages for the people whose work parents, lawyers, and researchers in t
 
 ## Field-defining researchers & clinicians
 
-- **[William Bernet, MD](william-bernet.md)** — Vanderbilt; founder of the Parental Alienation Study Group (PASG)
-- **[Richard A. Warshak, PhD](richard-warshak.md)** — author of *Divorce Poison*; creator of Family Bridges
+- **[William Bernet, MD](william-bernet.md)** — Vanderbilt; founder of the [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
+- **[Richard A. Warshak, PhD](richard-warshak.md)** — author of *Divorce Poison*; creator of [Family Bridges](https://warshak.com/family-bridges/)
 - **[Amy J. L. Baker, PhD](amy-baker.md)** — author of *Adult Children of Parental Alienation Syndrome*
 - **[Bill Eddy, LCSW, Esq.](bill-eddy.md)** — co-founder, High Conflict Institute; BIFF method
 - **[Jennifer Harman, PhD](jennifer-harman.md)** — Colorado State University; PA prevalence research
@@ -17,7 +17,7 @@ Reference pages for the people whose work parents, lawyers, and researchers in t
 - **[Craig Childress, PsyD](craig-childress.md)** — Multi-Modal Family Intervention; attachment-based PA model
 - **[Demosthenes Lorandos, JD, PhD](demosthenes-lorandos.md)** — expert witness; *Parental Alienation Handbook*
 - **[J. Michael Bone, PhD](michael-bone.md)** — Florida-based PA expert witness; "Four Criteria" framework
-- **[Linda J. Gottlieb, LMFT, LCSW-R](linda-gottlieb.md)** — Turning Points for Families (TPFF) intensive reunification
+- **[Linda J. Gottlieb, LMFT, LCSW-R](linda-gottlieb.md)** — Turning Points for Families ([TPFF](https://turningpointsforfamilies.com/)) intensive reunification
 
 ## Resist-refuse framework
 
@@ -27,7 +27,7 @@ Reference pages for the people whose work parents, lawyers, and researchers in t
 ## Canadian legal-academic axis
 
 - **[Nicholas (Nick) Bala, LLM](nick-bala.md)** — Queen's University Law; *Children Who Resist Postseparation Parental Contact*
-- **[Barbara Jo Fidler, PhD, C.Psych.](barbara-jo-fidler.md)** — clinical counterpart to Bala; AFCC senior trainer
+- **[Barbara Jo Fidler, PhD, C.Psych.](barbara-jo-fidler.md)** — clinical counterpart to Bala; [AFCC](https://www.afccnet.org/) senior trainer
 
 ## European voices
 

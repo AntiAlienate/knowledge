@@ -16,7 +16,7 @@ São Tomé and Príncipe is an Atlantic African civil-law republic whose family-
 - **Family Code Law 2/77 (with subsequent amendments) arts. 1875-1910** — Family Code — Parental responsibility and custody (1977) — <https://www.tribunais.st/>
   - Federal Family Code drawing on Portuguese civil-law substantive heritage. Arts. 1875-1910 govern responsabilidade parental and child custody.
 - **Law on Promotion and Protection of Children 2006 (Law 2/2006)** — Law on Promotion and Protection of Children (2006) — <https://www.tribunais.st/>
-  - Federal Law on Children's Protection aligned with UNCRC obligations.
+  - Federal Law on Children's Protection aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

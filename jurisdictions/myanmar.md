@@ -20,7 +20,7 @@ Myanmar is a Southeast Asian mixed-legal-system state combining English common-l
 - **Guardians and Wards Act 1890** — Guardians and Wards Act (1890) — <https://www.unionsupremecourt.gov.mm/>
   - Colonial-era federal statute on guardianship — applies across religious communities residually.
 - **Child Rights Law 2019** — Child Rights Law (2019) — <https://www.unionsupremecourt.gov.mm/>
-  - Federal children's-rights statute aligned with UNCRC; replaced 1993 Child Law.
+  - Federal children's-rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child); replaced 1993 Child Law.
 
 ## Apex courts
 

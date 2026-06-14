@@ -64,7 +64,7 @@ Document, in writing, every attempted contact with the therapist + every refusal
 ## Citations
 
 - *Re C (Parental Alienation; Instruction of Expert)* [2023] EWHC 345 (Fam)
-- APA Ethics Code (2017), Standard 9.01
+- [APA Ethics Code](https://www.apa.org/ethics/code) (2017), Standard 9.01
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review*, 48(1), 10-47.
 
 ## Disclaimer

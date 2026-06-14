@@ -260,11 +260,18 @@ Fix shipped:
 The lesson: serial single-file commits + per-commit CI = race conditions. Atomic multi-file commits are the canonical fix.
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
 
 **Topic baseline (independently verifiable):**
 

@@ -53,7 +53,7 @@ After 90 days the patterns leap off the page: "every other weekend has a conflic
 
 Do **not** say "Parental Alienation Syndrome." Opposing counsel will invoke *Daubert v. Merrell Dow* (1993, 509 U.S. 579) and attack it as discredited theory.
 
-Say: **"documented alienating behaviors."** Cite **Harman, Kruk & Hines (2018)** *Psychological Bulletin* meta-analysis establishing PA as a recognized form of family violence. Use **Baker & Fine (2013)**'s named 17 strategies as your category vocabulary. Researcher-named beats parent-coined every time. The UK High Court confirmed this framework in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam).
+Say: **"documented alienating behaviors."** Cite **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** *Psychological Bulletin* meta-analysis establishing PA as a recognized form of family violence. Use **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Fine (2013)**'s named 17 strategies as your category vocabulary. Researcher-named beats parent-coined every time. The UK High Court confirmed this framework in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam).
 
 ## Source-blog hyperlinks
 
@@ -72,7 +72,7 @@ Say: **"documented alienating behaviors."** Cite **Harman, Kruk & Hines (2018)**
 
 - Baker, A. J. L., & Fine, P. R. (2013). *Co-Parenting with a Toxic Ex* (the 17 strategies vocabulary).
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
-- DSM-5 V995.51 — Child Psychological Abuse.
+- [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse.
 - *Daubert v. Merrell Dow Pharmaceuticals*, 509 U.S. 579 (1993).
 - *Re C (Parental Alienation: Instruction of Expert)* [2023] EWHC 345 (Fam).
 

@@ -13,7 +13,7 @@ Anonymised. The case concerned a father's attempt to re-establish a relationship
 
 The proceedings had run for years. The father had repeatedly sought enforcement of contact orders; the mother had repeatedly failed to promote the children's relationship with him. Over time, the children themselves became resistant to contact and ultimately rejected their father.
 
-By the time of the judgment, the case had reached the stage where the court had to decide what could – if anything – still be done. An attempt to transfer residence to the father had already been tried and had failed. The professionals involved (Cafcass, therapeutic services, the school) had not co-ordinated effectively, and the children's resistance was by then entrenched.
+By the time of the judgment, the case had reached the stage where the court had to decide what could – if anything – still be done. An attempt to transfer residence to the father had already been tried and had failed. The professionals involved ([Cafcass](https://www.cafcass.gov.uk/), therapeutic services, the school) had not co-ordinated effectively, and the children's resistance was by then entrenched.
 
 ## Key facts
 
@@ -26,7 +26,7 @@ By the time of the judgment, the case had reached the stage where the court had 
 
 ## Procedural posture
 
-A welfare and enforcement hearing in long-running private-law Children Act 1989 proceedings. HHJ Wildblood QC used the judgment partly as a case-specific decision and partly as a public-interest statement about systemic failure.
+A welfare and enforcement hearing in long-running private-law [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) proceedings. HHJ Wildblood QC used the judgment partly as a case-specific decision and partly as a public-interest statement about systemic failure.
 
 ## The judgment
 
@@ -67,7 +67,7 @@ For affected parents, the brutal honesty of the judgment – the judge effective
 
 ## Sources
 
-- [Re A (Children) (Parental Alienation) [2019] EWFC B56 on BAILII](https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html)
+- [Re A (Children) (Parental Alienation) [2019] EWFC B56 on [BAILII](https://www.bailii.org/)](https://www.bailii.org/ew/cases/EWFC/OJ/2019/B56.html)
 - [Parklane Plowden – "Too little and too late"](https://www.parklaneplowden.co.uk/the-courts-attitude-to-parental-alienation-in-2019-too-little-and-too-late/)
 - [Family Law Partners – Parental Alienation update](https://www.familylawpartners.co.uk/blog/parental-alienation-an-update/)
 - [Becket Chambers – "Duty to identify"](https://becket-chambers.co.uk/articles/parental-alienation-the-duty-to-identify-at-an-early-stage-or-risk-getting-it-wrong/)

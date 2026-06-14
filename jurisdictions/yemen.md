@@ -16,7 +16,7 @@ Yemen is a MENA religious-law republic whose family-law framework operates under
 - **Personal Status Law 20/1992 arts. 138-158** — Personal Status Law — Custody and guardianship (1992) — <https://www.moj.gov.ye/>
   - Federal Personal Status Law drawing on Shafi'i and Zaydi Shia jurisprudence (Zaydi being distinctive to Yemen). Arts. 138-158 govern hadana (custody) and wilaya (guardianship).
 - **Rights of the Child Law 45/2002** — Rights of the Child Law (2002) — <https://www.moj.gov.ye/>
-  - Federal children's rights statute aligned with UNCRC obligations.
+  - Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations.
 
 ## Apex courts
 

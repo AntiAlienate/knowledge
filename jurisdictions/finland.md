@@ -41,7 +41,7 @@ Finnish family-law decisions are anonymised per Korkein oikeus practice using in
 ## Structural findings
 
 - Finland sits structurally within the Nordic civil-law cluster alongside Sweden + Norway + Denmark + Iceland — joint-custody default + lapsen etu welfare standard + Valvira statutory psychology regulator.
-- Valvira statutory-registration regime places Finland among the federal-statutory psychology regulator group within the corpus alongside HCPC UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psykolognævnet DK + Helsedirektoratet NO.
+- Valvira statutory-registration regime places Finland among the federal-statutory psychology regulator group within the corpus alongside [HCPC](https://www.hcpc-uk.org/) UK + HPCSA SA + APBs IN + PsyG CH + PG 2013 AT + CORU IE + Socialstyrelsen SE + Psykolognævnet DK + Helsedirektoratet NO.
 - 2019 contact-provisions reform structurally similar to the Swedish 2006 vårdnadsreform — strengthening the close-and-good-contact framework while introducing safeguarding mechanisms (supervised-contact framework). Distinct from the Australian 2023 reform's safety-primary re-balancing.
 
 ## See also
