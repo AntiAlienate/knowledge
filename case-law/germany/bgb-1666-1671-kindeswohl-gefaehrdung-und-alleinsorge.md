@@ -156,3 +156,39 @@ Sections 1666 and 1671 together provide the **two principal mechanisms by which 
 - **Statute citation:** Bürgerliches Gesetzbuch (BGB), Buch 4 (Familienrecht), Abschnitt 2 (Verwandtschaft), Titel 5 (Elterliche Sorge), §§ 1666 + 1671
 - **Codification history:** Substantive 1998 reform via Kindschaftsrechtsreformgesetz (KindRG); § 1666(3) measure list substantially expanded by Gesetz zur Erleichterung familiengerichtlicher Maßnahmen bei Gefährdung des Kindeswohls of 4 July 2008 (in force 12 July 2008); 1671 amended to align with § 1626a unmarried-parent custody reforms (2013).
 - **Status:** German federal statutes (Bundesgesetze) are public-domain; published officially by the Bundesministerium der Justiz at gesetze-im-internet.de.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Sommerfeld](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Sommerfeld%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Narcissistic Personality Disorder Parental Alienation Connection](https://www.antialienate.com/blog/narcissistic-personality-disorder-parental-alienation-connection)
+
+<!-- AA-CROSSLINK-END -->
