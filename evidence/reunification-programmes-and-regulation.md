@@ -25,7 +25,7 @@ Scotland does not operate residential reunification programmes; **NF v AF [2025]
 ### 5. New Zealand — Goldson Family Matters Centre + Bridging the Gap programme
 **Goldson Family Matters Centre (Jill Goldson, Auckland)** — principal NZ recognition-camp clinical practice. The **Goldson Model** has been adopted by the NZ government for child-inclusive mediation in the 'Bridging the Gap' programme. Operates within NZ Psychologists Board (NZPB) statutory psychology regulator framework + 2018 Joint Practice Note for Specialist Report Writers (multi-party signature: PFCJ + MoJ + NZLS + NZPB + NZPsS + NZCCP).
 
-Distinct from US Family Bridges + Canadian Family Reflections in operating within mainstream regulator framework rather than outside it. Cross-link: jurisdiction:new-zealand.
+Distinct from US [Family Bridges](https://warshak.com/family-bridges/) + Canadian Family Reflections in operating within mainstream regulator framework rather than outside it. Cross-link: jurisdiction:new-zealand.
 
 ### 6. Australia — FCFCOA Family Report Writers (FRW) pool + Court Children's Report
 **FCFCOA Family Report Writers Network (FRW pool)** — administered by Federal Circuit and Family Court of Australia. Post-Family Law Amendment Act 2023 Schedule 2 (in force 6 May 2024), **Court Children's Report (CCR)** replaces the prior 'family report' label with tighter standard. AHPRA / Psychology Board of Australia statutory registration is the load-bearing credential.
@@ -40,7 +40,7 @@ CAPS operates as load-bearing Singapore institutional anchor — court-attached 
 ### 8. Hong Kong — SWD Specialised Co-parenting Support Centres + HKFWS PCC
 **Five Specialised Co-parenting Support Centres** under Social Welfare Department (SWD) funding: Hong Kong Family Welfare Society (HKFWS) Parenting and Co-Parenting Centre (PCC) + Caritas Hong Kong + International Social Service Hong Kong + St James' Settlement + others. Operational PA-adjacent reunification-support delivery sits at PCC level rather than at HKCSS umbrella level.
 
-The five-centre architecture is the HK operational analogue to Singapore CAPS + [Cafcass](https://www.cafcass.gov.uk/) / Cafcass Cymru E&W/Wales + Australian FRW pool. Cross-link: case-study:h-v-w-2021-hkca-733-hong-kong + jurisdiction:hong-kong.
+The five-centre architecture is the HK operational analogue to Singapore CAPS + [Cafcass](https://www.cafcass.gov.uk/) / [Cafcass Cymru](https://www.cafcass.gov.uk/) E&W/Wales + Australian FRW pool. Cross-link: case-study:h-v-w-2021-hkca-733-hong-kong + jurisdiction:hong-kong.
 
 ### 9. South Africa — Family Advocate office + 2021 Forensic Assessment Standards
 **Office of the Family Advocate** (Mediation in Certain Divorce Matters Act 24/1987) — substantive SA institutional analogue to Cafcass + FRW + CAPS. Family Advocates assist the High Court by enquiring into the welfare of minor or dependent children. Operational PA-adjacent engagement happens via individual-case forensic assessment.
@@ -98,7 +98,7 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 |---|---|---|---|
 | **United States** | Family Bridges ([Warshak](https://warshak.com/family-bridges/) + Rand) + Overcoming Barriers Family Camp ([AFCC](https://www.afccnet.org/)) | Extra-regulator 'educational workshop' (post-Rand 2009) | Active, contested |
 | **Canada** | Family Reflections Reunification Program (Reay BC) | Provincial-college fragmentation | Active, contested |
-| **England & Wales** | Cafcass + Children's Guardian framework | Statutory body + HCPC post-Re Y kitemark | Mainstream regulator |
+| **England & Wales** | Cafcass + Children's Guardian framework | Statutory body + [HCPC](https://www.hcpc-uk.org/) post-Re Y kitemark | Mainstream regulator |
 | **Wales** | Cafcass Cymru | Welsh Government devolved statutory body | Mainstream regulator |
 | **Northern Ireland** | NIGALA Guardian Ad Litem Agency | Statutory body within NI HSC framework | Mainstream regulator |
 | **Scotland** | Sheriff court welfare-and-care + Children's Hearings | Court-attached, no residential programme | Welfare-route |
@@ -119,6 +119,8 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+
+
 
 
 

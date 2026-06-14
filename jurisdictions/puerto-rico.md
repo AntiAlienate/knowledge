@@ -64,7 +64,7 @@ Puerto Rican family-court decisions are anonymised per Supreme Court practice us
 
 1. **Judicial Branch of Puerto Rico (Rama Judicial)** — <https://www.poderjudicial.pr/> (Judicial Branch) [es,en]
 2. **Colegio de Profesionales de la Psicología** — <https://www.colegiopsico.org/> (Colegio de Psicólogos) [es,en]
-3. **US Supreme Court** — <https://www.supremecourt.gov/> (US Supreme Court) [en]
+3. **[US Supreme Court](https://www.supremecourt.gov/)** — <https://www.supremecourt.gov/> (US Supreme Court) [en]
 
 ## Editorial notes
 
@@ -76,6 +76,8 @@ Puerto Rican family-court decisions are anonymised per Supreme Court practice us
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

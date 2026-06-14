@@ -112,7 +112,7 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 
 ## Editorial notes
 
-- Primary-source order: SAFLII for case-law (TLD v BG + ZDE v CE); gov.za for statutes (Children's Act + Divorce Act + Maintenance Act + Domestic Violence Act); HPCSA + SACSSP for regulatory; SCA + ConCourt for appellate.
+- Primary-source order: SAFLII for case-law (TLD v BG + ZDE v CE); gov.za for statutes (Children's Act + [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) + Maintenance Act + Domestic Violence Act); HPCSA + SACSSP for regulatory; SCA + ConCourt for appellate.
 - SA case-citation convention preserved: provincial-division ZAGPJHC + ZAWCHC + ZAGPPHC + ZAKZNDB + ZAECPEHC + ZAFSHC + ZASCA (SCA appellate) + ZACC (Constitutional Court).
 - Multilingual context: SA family-law judgments are predominantly English with Afrikaans, isiZulu and isiXhosa party submissions; the four working languages of family-court practice are English + Afrikaans (predominantly Western Cape / Northern Cape) + isiZulu (KZN) + isiXhosa (Eastern Cape).
 - Africa-aggregate africa.json therapist v2 file recognises SA as the only African jurisdiction with clinical-level PA practitioner record. Other African jurisdictions surface only at institutional or feminist-legal collective level; SA-specific jurisdiction sidecar is therefore the load-bearing African coverage at v1.0.
@@ -122,6 +122,8 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

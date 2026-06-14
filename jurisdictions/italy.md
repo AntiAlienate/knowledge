@@ -28,7 +28,7 @@ Italy carries the European Union's most fully developed statute-and-case-law sta
 - **D.Lgs. 10 ottobre 2022 n. 149 — Riforma Cartabia** — Attuazione della L. 206/2021 — rito unitario delle persone, dei minorenni e delle famiglie (artt. 473-bis ss. c.p.c.) (2022) — <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;149>
   - Codifica in via legislativa ciò che Cass. 9691/2022 aveva enucleato in via interpretativa: vincoli metodologici al CTU, divieto di delega al consulente dell'accertamento della violenza domestica, standard probatori più stringenti. L'art. 473-bis.25 c.p.c. e gli artt. 473-bis.42 ss. costituiscono il nuovo baseline procedurale per le CTU psicologiche in materia di affidamento.
 - **D.Lgs. 30 giugno 2003 n. 196 art. 52** — Codice in materia di protezione dei dati personali — anonimizzazione delle pronunce in materia di famiglia e minori (2003) — <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2003-06-30;196>
-  - Base normativa dell'anonimizzazione d'ufficio delle parti nei provvedimenti Cassazione in materia di famiglia (iniziali, sigle, redazione di soggetti minorenni) — regola editoriale rigorosamente seguita anche dalle case study della knowledge base.
+  - Base normativa dell'anonimizzazione d'ufficio delle parti nei provvedimenti [Cassazione](https://www.cortedicassazione.it/) in materia di famiglia (iniziali, sigle, redazione di soggetti minorenni) — regola editoriale rigorosamente seguita anche dalle case study della knowledge base.
 - **Legge 27 giugno 2013 n. 77 — ratifica Convenzione di Istanbul** — Convenzione del Consiglio d'Europa sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica (2013) — <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2013-06-27;77>
   - La ratifica italiana della Convenzione di Istanbul è invocata da Cass. 4595/2025 (artt. 3, 26, 31, 32, 48) come fonte degli obblighi di screening della violenza domestica che non possono essere supplementati né elusi dall'adesione a una diagnosi PA-orientata; il GREVIO Italy Baseline Report (gennaio 2020) ha esplicitamente segnalato l'uso improprio del costrutto PA come strumento di vittimizzazione secondaria.
 
@@ -108,7 +108,7 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 
 ## Sources
 
-1. **Italgiure — Banca dati della giurisprudenza della Corte di Cassazione** — <https://www.italgiure.giustizia.it/> (Corte Suprema di Cassazione — CED) [it]
+1. **Italgiure — Banca dati della giurisprudenza della [Corte di Cassazione](https://www.cortedicassazione.it/)** — <https://www.italgiure.giustizia.it/> (Corte Suprema di Cassazione — CED) [it]
 2. **Corte Suprema di Cassazione — sito istituzionale** — <https://www.cortedicassazione.it/> (Corte Suprema di Cassazione) [it]
 3. **Ministero della Salute — sito istituzionale e nota 25 maggio 2012 sulla PAS** — <https://www.salute.gov.it/> (Ministero della Salute) [it]
 4. **Consiglio Nazionale dell'Ordine degli Psicologi (CNOP)** — <https://www.psy.it/> (CNOP) [it]
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -42,7 +42,7 @@ Monegasque family-court decisions are anonymised per Court of Revision practice 
 ## Structural findings
 
 - Monaco operates a French-civil-law family-law framework — places Monaco in the French-civil-law cluster alongside France, Belgium, Luxembourg.
-- Council of Europe + ECHR membership (2004) is among the more recent European-state ECHR-accession trajectories in the corpus.
+- [Council of Europe](https://www.coe.int/) + ECHR membership (2004) is among the more recent European-state ECHR-accession trajectories in the corpus.
 - [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 1993 places Monaco as among earliest European Hague accessions within the corpus.
 - Micro-state status (~36,000 population, ~2 km²) is structurally distinctive within the corpus.
 
@@ -70,6 +70,8 @@ Monegasque family-court decisions are anonymised per Court of Revision practice 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

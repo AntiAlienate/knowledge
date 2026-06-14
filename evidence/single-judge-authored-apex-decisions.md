@@ -28,7 +28,7 @@ Debbie Ong J's two-limb doctrine (court cannot force children to love a parent +
 
 Cross-link: case-study:ten-v-teo-2020-sghcf-20-singapore + jurisdiction:singapore.
 
-### Italy — Cassazione I Civile rapporteurs
+### Italy — [Cassazione](https://www.cortedicassazione.it/) I Civile rapporteurs
 **Cassazione 13217/2021** + **Cassazione 9691/2022** + **Cassazione 4595/2025** — Italian Court of Cassation First Civil Section. Three-judge panel ordinanze rather than single-judge — but each decision is authored by a specific rapporteur (relatore). The doctrinal-rapporteur pattern operates within the Italian Cassazione collegial framework.
 
 The Italian Cassazione triad is structurally distinct from the English Re-arc: collegial three-judge authorship rather than single-judge sustained-authorial pattern. The Italian triad's doctrinal coherence is institutional-collegial rather than authorial-individual.
@@ -122,7 +122,7 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 | **A v B 2026 SCC OnLine Del 276** | Delhi HC | Kshetarpal J. & Vaidyanathan Shankar J. | Two-judge Division Bench |
 | **H v W [2021] HKCA 733** | HKCA | Lam VP + Yuen JA + B Chu J | Three-judge CofA |
 | **Cassazione 9691/2022** | Cass. Sez. I Civile | Collegial three-judge ordinanza + rapporteur | Collegial + rapporteur |
-| **BVerfG 1 BvR 1076/23** | BVerfG | Senate composition | Constitutional senate |
+| **[BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23** | BVerfG | Senate composition | Constitutional senate |
 | **SCJN AI 11/2016** | SCJN Tribunal Pleno | Tribunal Pleno + Piña Hernández ponente | Hybrid pleno + ponente |
 | **T-526/2023 Colombia** | Corte Const. Sala 3 | Three-judge Sala + M.P. Fajardo Rivera | Sala + Magistrado Ponente |
 | **SN III CZP 20/25 Poland** | SN Izba Cywilna | 3-judge composition art.390§1 | Collegial 3-judge |
@@ -137,6 +137,8 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md*
+
+
 
 
 

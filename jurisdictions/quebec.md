@@ -71,7 +71,7 @@ Quebec family-court decisions are anonymised per Quebec court practice using ini
 
 1. **Cour d'appel du Québec** — <https://courdappelduquebec.ca/> (Quebec Government) [fr]
 2. **LégisQuébec** — <https://www.legisquebec.gouv.qc.ca/> (Quebec Government) [fr]
-3. **Supreme Court of Canada** — <https://www.scc-csc.ca/> (Canadian Government) [en]
+3. **[Supreme Court of Canada](https://www.scc-csc.ca/)** — <https://www.scc-csc.ca/> (Canadian Government) [en]
 
 ## Editorial notes
 
@@ -83,6 +83,8 @@ Quebec family-court decisions are anonymised per Quebec court practice using ini
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

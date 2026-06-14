@@ -130,13 +130,15 @@ Application granted; counter-application dismissed. The Moosa J order of 5 June 
 - Christie Els: the Bregman Moodley practitioner-canon summary identifies Christie Els as the named father's expert in the proceedings. This is the Africa-therapists-v2 directory record; the SAFLII headnote does not independently name Els on the public extract.
 - Parenting-coordinator chronology: per the Bregman Moodley practitioner-canon summary, Dr Lynette Mary Roux acted as parenting coordinator until 18 March 2021, when she was succeeded by Adv Vicky Olivier (whose appointment ran until 17 August 2021). The reasoning records that 'three different parenting coordinators had been appointed and none retained' but the public extract does not identify the third coordinator.
 - The Without Prejudice and De Rebus listings reflect standing SA legal-publishing-magazine secondary coverage of post-Children's Act parental-alienation jurisprudence. A discrete Without Prejudice or De Rebus case note specifically on T.L.D v B.G is not publicly confirmed at time of writing.
-- Adams J did not adopt 'parental alienation syndrome' as a diagnostic label; the judgment operates in recognition-register through the Children's Act 38 of 2005 best-interests framework and the High Court's upper-guardian jurisdiction. This is the doctrinal feature on which the case is structurally insulated from a BVerfG-style PAS-construct critique.
+- Adams J did not adopt 'parental alienation syndrome' as a diagnostic label; the judgment operates in recognition-register through the Children's Act 38 of 2005 best-interests framework and the High Court's upper-guardian jurisdiction. This is the doctrinal feature on which the case is structurally insulated from a [BVerfG](https://www.bundesverfassungsgericht.de/)-style PAS-construct critique.
 
 *Author: Alan Markson.*
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

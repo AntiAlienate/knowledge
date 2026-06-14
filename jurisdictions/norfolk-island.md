@@ -62,7 +62,7 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 ## Sources
 
 1. **Federal Circuit and Family Court of Australia** — <https://www.fcfcoa.gov.au/> (FCFCOA) [en]
-2. **High Court of Australia** — <https://www.hcourt.gov.au/> (High Court) [en]
+2. **[High Court of Australia](https://www.hcourt.gov.au/)** — <https://www.hcourt.gov.au/> (High Court) [en]
 3. **Norfolk Island Government / Norfolk Island Regional Council** — <https://www.norfolkisland.gov.nf/> (Norfolk Island Regional Council) [en]
 
 ## Editorial notes
@@ -75,6 +75,8 @@ Norfolk Island family-court decisions are anonymised per Federal Circuit and Fam
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

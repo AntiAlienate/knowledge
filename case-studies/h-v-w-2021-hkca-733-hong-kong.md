@@ -112,7 +112,7 @@ Appeal allowed on grounds 1, 3 and 4 (the parental-alienation ground 2 was not s
 - Counsel for the Father and the Mother are not enumerated in the publicly available case digests; the counsel array is left empty pending retrieval of the front sheet of the HKLII full judgment text.
 - Mr N (the Mother's romantic partner and prospective Singapore employer) is referenced in the judgment background but is not a party; he is not separately enumerated.
 - Parental-alienation ground (Ground 2) was pleaded but was not separately disposed of by the Court of Appeal because the appeal succeeded on Grounds 1, 3 and 4; H v W is accordingly recorded in the AntiAlienate corpus as an appellate-pleading record for parental alienation in Hong Kong rather than as a free-standing appellate ruling on parental alienation.
-- Cross-links: comparative_jurisprudence runs Re Y (England, modern recognition-with-expert-quality line) → Cassazione 9691/2022 (Italy, critique line) → [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany, constitutional critique line) → NF v AF (Scotland, recognition-with-Chartered-Clinical-Psychologist line). references run to practitioner:hk.wong-raphael (HK family-law solicitor in the AntiAlienate Asia lawyers v2 file) and practitioner:hk.acsvaw (HK women's-rights NGO in the AntiAlienate Asia therapists v2 file) and jurisdiction:hong-kong.
+- Cross-links: comparative_jurisprudence runs Re Y (England, modern recognition-with-expert-quality line) → [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy, critique line) → [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany, constitutional critique line) → NF v AF (Scotland, recognition-with-Chartered-Clinical-Psychologist line). references run to practitioner:hk.wong-raphael (HK family-law solicitor in the AntiAlienate Asia lawyers v2 file) and practitioner:hk.acsvaw (HK women's-rights NGO in the AntiAlienate Asia therapists v2 file) and jurisdiction:hong-kong.
 - Schema v1.0 PASS: all required fields present (schema_version, slug, caption, jurisdiction_code, decision_date, court, license, author, summary, holding, sources); judges have name; experts have name; children.sex uses enum value 'female'; references use the canonical pattern ^(case-study|practitioner|jurisdiction|evidence):[a-z0-9.-]+$; sources have title and url; author 'Alan Markson'; license 'CC-BY-4.0'.
 
 *Author: Alan Markson.*
@@ -120,6 +120,8 @@ Appeal allowed on grounds 1, 3 and 4 (the parental-alienation ground 2 was not s
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

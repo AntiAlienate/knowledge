@@ -52,7 +52,7 @@
 
 ### 2. Dipl-Psych Ursula Kodjoe
 - **Country / city:** DE / Emmendingen (Baden-Württemberg)
-- **Practice / affiliation:** Independent practice in mediation, systemic family therapy and PA-related expert consulting, Emmendingen; long-standing freelance consultant (until 2005) to the *Bundesministerium der Justiz* and the French *Ministère de la Justice* on international child-custody disputes; PASG-aligned (recurring speaker, Nordic Conference Stockholm 2018; Brussels 2021)
+- **Practice / affiliation:** Independent practice in mediation, systemic family therapy and PA-related expert consulting, Emmendingen; long-standing freelance consultant (until 2005) to the *Bundesministerium der Justiz* and the French *Ministère de la Justice* on international child-custody disputes; [PASG](https://pasg.info/)-aligned (recurring speaker, Nordic Conference Stockholm 2018; Brussels 2021)
 - **Practice URL:** LinkedIn (institutional verification) https://de.linkedin.com/in/ursula-kodjoe-b2815340 ; PASG external resources https://www.pasg.info/external-resources
 - **Regulatory body:** **Diplom-Psychologin** + **Diplom-Sozialpädagogin** (German diploma psychologist / social pedagogue); systemic family therapist and mediator; the *Diplom-Psychologin* title pre-dates the 2020 *PsychThG* reform and remains validly entitled to private-practice work as a therapist when registered with the Land *Psychotherapeutenkammer*. Specific Land Approbation / chamber number **not publicly displayed**.
 - **Registration number:** **not publicly displayed**
@@ -323,7 +323,7 @@
 - **Programs / publications:**
   - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2013) — first peer-reviewed Italian-sample PA mental-health study (n=257, Chieti)
   - Verrocchio & Marchetti — Italian-language intervention guidance
-  - Verrocchio / Baker / Bernet collaborative outputs across the 2010s
+  - Verrocchio / [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) / Bernet collaborative outputs across the 2010s
 - **Primary contact:** UniCh institutional email (https://www.unich.it/) ; LinkedIn DM https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/
 - **Tier:** 1
 - **Hook:** The principal Italian academic-clinician operating inside the PASG (Baker / Bernet) recognition framework; her Chieti-sample data is the Italian recognition camp's most-cited empirical study.
@@ -508,7 +508,7 @@
 **Honest gaps:**
 - **Germany:** No critique-camp practising German clinician verified at directory standard in this batch — the German critique tradition runs predominantly through legal academics (e.g. von Hippel) and feminist NGOs rather than named clinicians; a follow-up pass on the DGPPN / DGfPI is needed.
 - **France:** Berger is the sole verified critique-camp clinician at Tier 1; a follow-up pass on FENAMEF / Fondation pour l'Enfance evaluators would help.
-- **Italy:** Zero critique-camp clinicians at directory standard — the Italian critique runs through the Cassazione case-law itself (Massaro 2022; ord. 4595/2025 — both in `/case-studies/`) and through legal scholarship, not through named treating clinicians who have published on the topic. This is a structural finding, not a research gap.
+- **Italy:** Zero critique-camp clinicians at directory standard — the Italian critique runs through the [Cassazione](https://www.cortedicassazione.it/) case-law itself (Massaro 2022; ord. 4595/2025 — both in `/case-studies/`) and through legal scholarship, not through named treating clinicians who have published on the topic. This is a structural finding, not a research gap.
 - **Belgium:** Only one entry verified to directory standard. The Belgian field is structurally small; the working population on this topic is mostly francophone mediation / academic — a follow-up pass on Femmes de Droit, Yapaka (https://www.yapaka.be/sites/yapaka.be/files/actualite/_alie_nation_parentale_rapport_final.pdf) and the *Code* analysis (https://lacode.be/wp-content/uploads/2023/10/Analyse_Lalienation-parentale-un-concept-a-risques-pour-les-enfants-et-leurs-droits_Oct2023.pdf) would help.
 - **Netherlands:** No critique-camp clinician at directory standard — the closest is Dijkstra in the middle-camp; the Dutch critique runs through *Schadefonds* compensation case-law and the *Knel*-evaluation rather than through named clinicians explicitly opposing the PA frame.
 
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

@@ -10,7 +10,7 @@ L'autorita regolatoria della professione psicologica e il Consiglio Nazionale de
 
 ## Structural findings
 
-- L'Italia detiene la giurisprudenza apicale piu strutturata dell'Unione Europea contro l'utilizzo della PAS in sede di CTU: Cassazione I Civ. ord. 9691/2022, anticipata da ord. 13217/2021 e confermata da ord. 4595/2025, vincola il giudice a verificare il fondamento scientifico delle ipotesi peritali e richiama la posizione del Ministero della Salute. E' la sequenza apicale piu serrata in area UE, paragonabile a STS 519/2017 (Spagna) ma con tre pronunce ravvicinate anziche una.
+- L'Italia detiene la giurisprudenza apicale piu strutturata dell'Unione Europea contro l'utilizzo della PAS in sede di CTU: [Cassazione](https://www.cortedicassazione.it/) I Civ. ord. 9691/2022, anticipata da ord. 13217/2021 e confermata da ord. 4595/2025, vincola il giudice a verificare il fondamento scientifico delle ipotesi peritali e richiama la posizione del Ministero della Salute. E' la sequenza apicale piu serrata in area UE, paragonabile a STS 519/2017 (Spagna) ma con tre pronunce ravvicinate anziche una.
 - Il polo critico ha tre anchor istituzionali distinti e convergenti: (i) CISMAI come rete clinico-istituzionale di servizi anti-maltrattamento; (ii) la linea editoriale di *Maltrattamento e Abuso all'Infanzia* (FrancoAngeli, dir. Foti/Bianchi); (iii) GREVIO Italy 2020 come anchor sovranazionale. Le ONG femministe D.i.Re e Telefono Rosa forniscono il quarto vettore.
 - Il polo del riconoscimento e geograficamente concentrato su tre poli accademico-professionali: Torino-forense (Gulotta, Universita di Torino), asse Sapienza-LUMSA-Cortina (Malagoli Togliatti, Lubrano Lavadera, Ammaniti), e SIPGI Genova (Pingitore). La diffusione editoriale principale e attraverso Raffaello Cortina, FrancoAngeli (sezione giuridico-peritale), e Maggioli (manualistica peritale, p.e. APS-I di Camerini).
 - La Riforma Cartabia (D.lgs. 149/2022, artt. 473-bis ss. c.p.c.) ha codificato in via legislativa cio che Cass. 9691/2022 aveva enucleato in via interpretativa: il CTU non puo accertare la violenza domestica al posto del giudice e deve attenersi a protocolli metodologicamente validati. Cio stringe ulteriormente lo spazio operativo per CTU fondate sulla PAS.
@@ -455,6 +455,8 @@ Strasburgo (sede CoE) · Internazionale - cross-jurisdictional · Consiglio d'Eu
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

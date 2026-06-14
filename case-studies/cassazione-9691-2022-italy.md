@@ -93,7 +93,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 
 ## Subsequent reception
 
-- Cassazione, Sez. I Civile (2025) — Cass. civ., Sez. I, ord. n. 4595/2025
+- [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile (2025) — Cass. civ., Sez. I, ord. n. 4595/2025
   - Ulteriore tappa della linea apicale critica successiva a Cass. 9691/2022 e a Cass. 13217/2021 — consolida l'inammissibilità di CTU PAS-fondate e affronta in modo articolato l'interferenza tra allegazioni di violenza domestica e diagnosi di alienazione genitoriale [cfr. blog Pingitore 2025; Diritto.it 2025].
 - Parlamento — Riforma Cartabia / D.lgs. 10 ottobre 2022 n. 149 (2022) — D.lgs. 149/2022, artt. 473-bis ss. c.p.c. (rito unitario per le persone, i minorenni e le famiglie) — <https://www.gazzettaufficiale.it/eli/id/2022/10/17/22G00158/sg>
   - Codifica successiva (entrata in vigore 28 febbraio 2023) dei principi di qualità della CTU in materia familiare e del divieto, per il CTU, di intervenire come 'parte terza adjudicante' nei casi di violenza domestica; passaggio normativo in parte responsivo alla critica metodologica veicolata da Cass. 9691/2022 [cfr. Diritto.it 2023].
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

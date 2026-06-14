@@ -18,7 +18,7 @@ Sorge-und-Umgangs-Verfahren before an unnamed Familiengericht (Amtsgericht) with
 
 ## Holding
 
-A Sachverständigengutachten whose central reasoning rests on PAS or Eltern-Kind-Entfremdung as a construct is nicht tragfähig as a basis for residence- or contact-altering family-court orders. A child's refusal of contact with one parent cannot be inferred pauschal to be manipulation by the other parent; multi-factorial causal analysis is required. Sibling differentiation must be preserved. Repeated-appointment evaluators must meet the BRAK/DFGT *Mindestanforderungen* 3. Aufl. 2025 standard (Approbation, forensic Fachkunde, Methodentransparenz) in addition to the BVerfG-derived prohibition on PAS as construct.
+A Sachverständigengutachten whose central reasoning rests on PAS or Eltern-Kind-Entfremdung as a construct is nicht tragfähig as a basis for residence- or contact-altering family-court orders. A child's refusal of contact with one parent cannot be inferred pauschal to be manipulation by the other parent; multi-factorial causal analysis is required. Sibling differentiation must be preserved. Repeated-appointment evaluators must meet the BRAK/DFGT *Mindestanforderungen* 3. Aufl. 2025 standard (Approbation, forensic Fachkunde, Methodentransparenz) in addition to the [BVerfG](https://www.bundesverfassungsgericht.de/)-derived prohibition on PAS as construct.
 
 ## Verbatim
 
@@ -90,6 +90,8 @@ AG-Anordnung der Aufenthaltswechsel zum Vater aufgehoben; alleinige elterliche S
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

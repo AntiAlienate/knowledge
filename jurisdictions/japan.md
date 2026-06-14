@@ -83,7 +83,7 @@ Japanese Supreme Court and High Court judgments may name adult parties in publis
 - CRITIQUE REGISTER LAWYER-LED + NGO-LED NOT CLINICIAN-LED: Japan's PA-discourse is led by lawyers (JFBA family-law committee) and NGO organisers (Joint Custody Support National Liaison Council recognition + WAN critique) — NOT by named clinical psychologists with peer-reviewed PA publications. No Japanese clinician-led PA-critique publication comparable to German Zimmermann / Walper / Fichtner cluster or Spanish Vaccaro coinage has been located.
 - STATUTORY PSYCHOLOGY-PROFESSION RECENT: Certified Public Psychologist Act 2015 (in force 2017) created Japan's first statutory psychology profession (公認心理師 / Kōnin Shinrishi). Eight years old in 2026 — the Japanese statutory-regulator architecture is still maturing. Voluntary Rinshō Shinrishi (臨床心理士) register pre-dates and coexists. Dual-track architecture similar to NZ HPCAA-psychologist vs NZAC-counsellor split.
 - FAMILY COURT INVESTIGATOR (家庭裁判所調査官) NON-ENUMERABLE: Family Court Investigators act as in-court evaluators preparing reports for Family Court judges. Identities are NOT publicly enumerable by court-system policy — structurally analogous to Australia FLA s.121 protection of CCR writers, though for different statutory reasons (Japan procedural rather than statutory).
-- NO APEX SUPREME COURT PA-CONSTRUCT DECISION: The Supreme Court of Japan has not issued a PA-construct-specific apex decision. Pre-2024 Supreme Court decisions on visitation (面会交流) and child-welfare engaged alienation-adjacent reasoning without adopting PAS as clinical label. The 1947→2026 reform was structured legislatively, NOT apex-judicially.
+- NO APEX SUPREME COURT PA-CONSTRUCT DECISION: The [Supreme Court of Japan](https://www.courts.go.jp/english/) has not issued a PA-construct-specific apex decision. Pre-2024 Supreme Court decisions on visitation (面会交流) and child-welfare engaged alienation-adjacent reasoning without adopting PAS as clinical label. The 1947→2026 reform was structured legislatively, NOT apex-judicially.
 - HAGUE-CONVENTION STRUCTURAL CONFLICT PRE-REFORM: The pre-reform sole-custody Art. 819 regime created structural conflict with Hague Convention return obligations (Japan acceded 2014). Recognition-camp argument that joint-custody reform was structurally necessary to resolve Hague compliance gaps.
 
 ## See also
@@ -120,6 +120,8 @@ Japanese Supreme Court and High Court judgments may name adult parties in publis
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

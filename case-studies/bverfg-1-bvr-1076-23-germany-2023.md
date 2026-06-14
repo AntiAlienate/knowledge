@@ -43,7 +43,7 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 
 - **Re Y [2026] EWFC 38** (UK-EWS) — England & Wales — McFarlane P set aside an unregulated PA-evaluator's findings; complementary critique of evaluator quality.
 - **NF v AF [2025] CSOH 13** (UK-SCO) — Scotland — Lord Stuart found PA constitutes direct emotional abuse; pointed in the opposite direction to [BVerfG](https://www.bundesverfassungsgericht.de/) on the PA construct itself.
-- **OLG Frankfurt 7 UF 88/25** (DE) — [`olg-frankfurt-7-uf-88-25-germany-2026`](./olg-frankfurt-7-uf-88-25-germany-2026.md) — Companion German OLG decision (Jan 2026) that operationalises this BVerfG ruling at OLG level via Sachverständigen-Mindestanforderungen.
+- **OLG Frankfurt 7 UF 88/25** (DE) — [`olg-frankfurt-7-uf-88-25-germany-2026`](./olg-frankfurt-7-uf-88-25-germany-2026.md) — Companion German OLG decision (Jan 2026) that operationalises this [BVerfG](https://www.bundesverfassungsgericht.de/) ruling at OLG level via Sachverständigen-Mindestanforderungen.
 - **CFP Nota Técnica nº 4/2022** (BR) — Brazil — Conselho Federal de Psicologia institutional position cautioning against AP construct misuse; complementary institutional critique.
 - **[Council of Europe](https://www.coe.int/) Istanbul Convention art. 31** (INT) — GREVIO 2022 Germany evaluation framing on alienation allegations and DV-survivor protection.
 
@@ -64,7 +64,7 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 ## Sources
 
 1. **BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17. November 2023 - 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de] — accessed 2026-05-30
-2. **Volltext (PDF) — 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2023/11/rk20231117_1bvr107623.pdf> (Bundesverfassungsgericht) [de] — accessed 2026-05-30
+2. **Volltext (PDF) — 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Downloads/DE/2023/11/rk20231117_1bvr107623.pdf> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de] — accessed 2026-05-30
 3. **Zimmermann/Fichtner/Walper/Lux/Kindler, Verdorbener Wein in neuen Schläuchen — ZKJ 2023, 43 und 83** — <https://www.dji.de/> (Deutsches Jugendinstitut / ZKJ) [de] — accessed 2026-05-30
 
 ## Editorial notes
@@ -80,6 +80,8 @@ OLG Köln Beschlüsse vom 8.5.2023 und 17.5.2023 (II-25 UF 19/23) aufgehoben; Sa
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

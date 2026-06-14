@@ -17,7 +17,7 @@ Sri Lanka is a South Asian mixed-legal-system unitary republic combining Roman-D
   - Federal statute governing general marriage and divorce matters.
 - **Muslim Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1951** — Muslim Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) (1951) — <https://www.parliament.lk/>
   - Federal statute governing Muslim personal-status matters via Quazi Courts.
-- **Kandyan Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1952** — Kandyan Marriage and Divorce Act (1952) — <https://www.parliament.lk/>
+- **Kandyan Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1952** — Kandyan Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) (1952) — <https://www.parliament.lk/>
   - Federal statute governing Kandyan Sinhalese personal-status matters.
 
 ## Apex courts
@@ -70,6 +70,8 @@ Sri Lankan family-court decisions are anonymised per Supreme Court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

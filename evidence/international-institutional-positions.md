@@ -39,7 +39,7 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 ## Professional-regulator / learned-society positions
 
 ### Critique-camp (formal published position against)
-- **Italy** — CNOP (Consiglio Nazionale Ordine degli Psicologi) institutional commentary on Cassazione 13217/2021 + 9691/2022 line.
+- **Italy** — CNOP (Consiglio Nazionale Ordine degli Psicologi) institutional commentary on [Cassazione](https://www.cortedicassazione.it/) 13217/2021 + 9691/2022 line.
 - **Brazil** — Conselho Federal de Psicologia (CFP) Nota Técnica 4/2022 + CFESS. Brazil's two professional regulators issued formal positions while statute (Lei 12.318/2010) codifies AP — institutional critique pole roughly balances clinical recognition pole.
 - **Argentina** — FePRA Pronunciamiento 14.12.2019 + 7 provincial Colegios professional positions against SAP/AP as diagnostic category.
 - **Colombia** — COLPSIC Posición Gremial 16.11.2023 (deliberate pivot from 2017 recognition-leaning Concepto Técnico). Distinguishes 'SAP' (rejected) from 'alienación parental' (describable relational phenomenon).
@@ -80,6 +80,8 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/international-institutional-positions.md*
+
+
 
 
 

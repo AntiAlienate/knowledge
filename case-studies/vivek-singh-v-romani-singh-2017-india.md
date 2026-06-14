@@ -15,7 +15,7 @@ Custody / guardianship dispute over the minor son of the parties arising from ma
 
 ## Experts
 
-- **Ms Iti Kanungo** — Principal Counsellor, Family Court at Patiala House Courts Complex, New Delhi (instructed by Supreme Court of India (court-appointed evaluator)) — see practitioner `in.kanungo-iti`
+- **Ms Iti Kanungo** — Principal Counsellor, Family Court at Patiala House Courts Complex, New Delhi (instructed by [Supreme Court of India](https://main.sci.gov.in/) (court-appointed evaluator)) — see practitioner `in.kanungo-iti`
 
 ## Holding
 
@@ -87,6 +87,8 @@ Custody / guardianship determination made by reference to the child's best inter
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

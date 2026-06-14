@@ -15,7 +15,7 @@ Wales operates within the unified Bar of England and Wales and shares the [Child
 
 - **[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W)** — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — substantive children-law statute (applies in Wales) (1989) — <https://www.legislation.gov.uk/ukpga/1989/41>
   - Substantive statute applying in Wales as part of the unified England-and-Wales legal jurisdiction. s.1 welfare paramountcy + s.1(2A) presumption of parental involvement frame the substantive standard. [Cafcass Cymru](https://www.cafcass.gov.uk/) produces s.7 welfare reports within this statutory frame.
-- **Children and Family Court Advisory and Support Service (Wales) — [Cafcass Cymru](https://www.cafcass.gov.uk/) regulations** — Cafcass Cymru — devolved Welsh service (2001) — <https://gov.wales/cafcass-cymru>
+- **Children and Family Court Advisory and Support Service (Wales) — [Cafcass Cymru](https://www.cafcass.gov.uk/) regulations** — [Cafcass Cymru](https://www.cafcass.gov.uk/) — devolved Welsh service (2001) — <https://gov.wales/cafcass-cymru>
   - Cafcass Cymru was established as a Welsh Government Sponsored Public Body in 2001 — devolved from English Cafcass. Operates its own welfare-reporting framework + practice guidance. The Welsh institutional analogue to English Cafcass.
 - **Welsh Language Measure 2011** — Welsh Language (Wales) Measure 2011 (2011) — <https://www.legislation.gov.uk/mwa/2011/1>
   - Welsh Language Standards apply to Welsh public bodies including Cafcass Cymru. Welsh-medium family-court provision is structurally required; Welsh-language capacity in PA-adjacent practice clusters at Linenhall Chambers.
@@ -52,7 +52,7 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 
 ## Structural findings
 
-- WALES SHARES UNIFIED ENGLAND-AND-WALES JUDICIAL HIERARCHY: No Welsh-specific apex line distinct from the English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026). Children Act 1989 + Family Procedure Rules 2010 substantive frame.
+- WALES SHARES UNIFIED ENGLAND-AND-WALES JUDICIAL HIERARCHY: No Welsh-specific apex line distinct from the English Re-arc (Re A 2019 → Re S 2020 → Re H-N 2021 → Re C 2023 → Re Y 2026). [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) + Family Procedure Rules 2010 substantive frame.
 - CAFCASS CYMRU IS THE WELSH INSTITUTIONAL DIFFERENTIATOR: Devolved Welsh Government Sponsored Public Body distinct from English Cafcass. Operates own welfare-reporting framework + policy guidance. Welsh-language operational requirement under Welsh Language Measure 2011.
 - DOUGHTY/MAXWELL/SLATER 2018 IS THE CANONICAL WELSH ACADEMIC ANCHOR: Welsh-Government-commissioned April 2018 'Review of Research and Case Law on Parental Alienation' frames PA as a 'belief system' rather than empirically grounded clinical concept. Source document on which Cafcass Cymru policy on PA derives. Dr Julie Doughty (Cardiff University School of Law and Politics) is the load-bearing Welsh academic figure.
 - WELSH FAMILY BAR DOMINATED BY PUBLIC-LAW CHILDREN PRACTICE: 30 Park Place + 9 Park Place + Queen Square Chambers are the leading Welsh family chambers. PA-experienced practitioners cluster at public-law children rather than private-law children practice. Welsh-language capacity at Linenhall Chambers.
@@ -87,6 +87,8 @@ Wales shares the unified England-and-Wales family-court anonymisation convention
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -31,7 +31,7 @@ Adviesrapport aangeboden januari 2021; beleidsreactie minister Dekker (VVD) voor
 - **NJI Richtlijn 'Scheiding en problemen van jeugdigen' (herzien 2020, projectleider dr. Inge van der Valk UU)** (NL) — Tweede kernanchordocument van de Nederlandse drie-document positionele architectuur. NJI Richtlijn 2020 prefereert de terminologie 'contactverlies' en 'geblokkeerde ouder-kindrelaties' boven 'ouderverstoting' — methodologisch parallel aan de Expertteam-voorbehouden. Beide documenten samen vormen de klinisch-en-beleidsmatige Nederlandse middle-stance positie.
 - **Kinderombudsman Adviesrapport KOM003/2014 'Vechtende ouders, het kind in de knel' (Marc Dullaert)** (NL) — Derde kernanchordocument van de Nederlandse drie-document positionele architectuur en de vroegste Nederlandse institutionele engagement met het PA-construct (kwalificeerde ouderverstoting als 'ernstige vorm van kindermishandeling'). Het Expertteam 2021 nuanceert deze 2014-positie met methodologische voorbehouden — verschuiving van child-maltreatment-framing naar complex-divorce-framing.
 - **Hoge Raad 15 februari 2005, ECLI:NL:HR:2005:AR8250 (Strafkamer)** (NL) — [`hoge-raad-2005-ar8250-netherlands`](./hoge-raad-2005-ar8250-netherlands.md) — Enige Hoge Raad-uitspraak die de strafrechtelijke WvSr art. 279 (onttrekking aan het wettig gezag) toepast in familie-rechtelijk cross-statute context. Hoge Raad heeft géén PAS-construct-specifieke apex uitspraak gedaan; de Nederlandse positie zit niet op apex-niveau maar in de drie-document architectuur (Expertteam 2021 + NJI 2020 + Kinderombudsman 2014).
-- **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23 ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/), Duitsland)** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Comparative apex critique. Het Duitse [BVerfG](https://www.bundesverfassungsgericht.de/) kwalificeert SAP als 'verouderd en wetenschappelijk weerlegd'. Nederlandse positie via Expertteam 2021 + NJI 2020 is methodologisch voorbehouden + middle-stance — niet zo expliciet kritisch als BVerfG maar evenmin recognition-leaning.
+- **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23 ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/), Duitsland)** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — Comparative apex critique. Het Duitse [BVerfG](https://www.bundesverfassungsgericht.de/) kwalificeert SAP als 'verouderd en wetenschappelijk weerlegd'. Nederlandse positie via Expertteam 2021 + NJI 2020 is methodologisch voorbehouden + middle-stance — niet zo expliciet kritisch als [BVerfG](https://www.bundesverfassungsgericht.de/) maar evenmin recognition-leaning.
 
 ## Subsequent reception
 
@@ -74,6 +74,8 @@ Adviesrapport aangeboden januari 2021; beleidsreactie minister Dekker (VVD) voor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

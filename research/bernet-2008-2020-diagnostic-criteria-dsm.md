@@ -33,7 +33,7 @@ Bernet led the Parental Alienation Disorder Work Group's formal proposal to incl
 
 Outcome: PAD as a standalone diagnosis was rejected. However:
 - **V61.29 (Child Affected by Parental Relationship Distress)** was retained — frequently used to code PA presentations
-- The DSM-5 text expanded discussion of children affected by interparental conflict
+- The [DSM-5](https://www.appi.org/products/dsm) text expanded discussion of children affected by interparental conflict
 - The rejection was procedural (insufficient research consensus) rather than substantive
 
 ## [ICD-11](https://icd.who.int/) Inclusion (2018-2019)
@@ -94,7 +94,7 @@ Bernet's role: gatekeeper. Apply his 5 before applying any other framework.
 - Bernet 2010 5-criteria paper DOI: https://doi.org/10.1080/01926180903586583
 - Frontiers in Psychology 2018 FFPAS: https://doi.org/10.3389/fpsyg.2018.01996
 - [Parental Alienation Study Group](https://pasg.info/): https://www.parentalalienationstudygroup.com/
-- ICD-11 QE52: https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1393837731
+- [ICD-11](https://icd.who.int/) QE52: https://icd.who.int/browse11/l-m/en#/http%3a%2f%2fid.who.int%2ficd%2fentity%2f1393837731
 - DSM-5 V61.29: https://www.psychiatry.org/psychiatrists/practice/dsm
 
 ---
@@ -102,6 +102,8 @@ Bernet's role: gatekeeper. Apply his 5 before applying any other framework.
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Diagnostic application of the Bernet 5 criteria requires a qualified mental-health professional. Forensic application in custody proceedings requires a court-appointed evaluator.
+
+
 
 
 

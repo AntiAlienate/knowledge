@@ -122,7 +122,7 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 - The 'every agency [at] fault' framing for which Re A is often colloquially invoked is, on the face of the publicly available material, NOT a verbatim phrase from HHJ Wildblood QC's 2019 judgment. The exact verbatim phrasing 'every agency involved in these proceedings can be seen to have been at fault' (with CAFCASS, the children's solicitor, the local authority and the court as the named agencies) is from Sir Andrew McFarlane P's 2026 retrospective audit in Re Y [2026] EWFC 38 of a 2019-era process. The verbatim_quotes array therefore deliberately does NOT include that phrase as a Re A quotation; it is correctly catalogued as a Re Y verbatim that descends intellectually from Re A's framing.
 - Subject children anonymised as 'A' per the standard EWFC convention and the heavy anonymisation HHJ Wildblood QC directed at publication. Number, ages and sex of the children are not stated on the face of the publicly available material and 'not_stated' is used per the schema enum.
 - Experts: a court-appointed psychologist and a [Cafcass](https://www.cafcass.gov.uk/) officer are referred to in the publicly available secondary record as having been involved in the underlying proceedings; their names are not publicly catalogued in the materials reviewed, and they are therefore listed in the experts array under the schema-required 'name' field as 'Court-appointed psychologist (name not publicly stated in available materials)' and '[Cafcass](https://www.cafcass.gov.uk/) officer (name not publicly stated in available materials)' rather than fabricating identifiers. To be confirmed against the [BAILII](https://www.bailii.org/) full text when retrievable.
-- The procedural-history figure of '8 years / 36 hearings / 10 professionals' is taken from the Centre for Social Injustice 2019 family court judgments digest, which is a credible secondary catalogue but has not been verified against the BAILII judgment directly at this time.
+- The procedural-history figure of '8 years / 36 hearings / 10 professionals' is taken from the Centre for Social Injustice 2019 family court judgments digest, which is a credible secondary catalogue but has not been verified against the [BAILII](https://www.bailii.org/) judgment directly at this time.
 - Counsel array is empty; the publicly available secondary record does not catalogue counsel for the parties in Re A and the BAILII front-sheet could not be retrieved.
 - Paragraph references for the verbatim quotations are not given in the publicly available secondary record (which paraphrases or quotes without paragraph citation); the paragraph fields are flagged accordingly and should be updated against the BAILII text when bot-protection allows direct retrieval.
 - Sub-citation: the BAILII path '/ew/cases/EWFC/OJ/2019/B56.html' uses 'OJ' for the Family Court (older / official judgments stream) which is the established BAILII convention for this case; the citation '[2019] EWFC B56' is the neutral citation as universally used in the practitioner record.
@@ -134,6 +134,8 @@ Heavily anonymised judgment ordered to be published in the public interest. Find
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

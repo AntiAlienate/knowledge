@@ -64,7 +64,7 @@ Use alongside [launch-copy.md](launch-copy.md) for the actual outreach copy. Per
 ### Existing (verified earlier)
 | # | Org | Primary contact | Source | Hook |
 |---|-----|----------------|--------|------|
-| 21 | **[PASG](https://pasg.info/)** | [Contact form](https://pasg.info/contact/) | [pasg.info](https://pasg.info) | Annual PASG conference; 60+ countries; offer KB as free CC-BY resource |
+| 21 | **[PASG](https://pasg.info/)** | [Contact form](https://pasg.info/contact/) | [pasg.info](https://pasg.info) | Annual [PASG](https://pasg.info/) conference; 60+ countries; offer KB as free CC-BY resource |
 | 22 | **National Parents Organization (NPO)** US | [Contact form](https://nationalparentsorganization.org/contact-us); 617-431-8019 | [nationalparentsorganization.org](https://nationalparentsorganization.org/) | Shared Parenting Report Card grading US states |
 | 23 | **Both Parents Matter Cymru** *(⚠️ closing Dec 2025)* | INFO@FNF-BPM.ORG.UK | [fnf-bpm.org.uk](https://www.fnf-bpm.org.uk/info/contact.htm) | Acknowledge wind-down; KB as legacy resource |
 | 24 | **Australian Brotherhood of Fathers** | info@theabf.com.au | [theabf.com.au](https://theabf.com.au/contact-us/) | Joint Select Committee submissions; Leith Erikson's national media work |
@@ -179,6 +179,8 @@ AntiAlienate.com
 ---
 
 *Verified 2026-05-25. Re-verify before any outreach more than 3 months later — academic emails change with moves, org contacts change with restructures.*
+
+
 
 
 

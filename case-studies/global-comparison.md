@@ -55,7 +55,7 @@ The US has 50 distinct state-level family-law systems and no clear apex directio
 Reading the matrix over time:
 - **2010-2017** — recognition era. India endorses PAS (2017); Brazil legislates explicitly (2010); France's Cass.civ.1 cites SAP (2013); Mexico CDMX codifies (2014); Italy *had* used PA reasoning at first-instance and intermediate-appellate level.
 - **2018-2022** — retreat begins. France retreats via ministerial circulaire + Loi du 30 juillet 2020; Mexico CDMX repeals (2017); Italian [Cassazione](https://www.cortedicassazione.it/) signals rejection (Cass. 13217/2021); Brazilian STJ articulates "no-automaticity"; UK starts assembling the procedural framework that will become Re Y.
-- **2023-2025** — consolidation of the procedural-fact-first frame. BVerfG (Germany, 2023) calls PAS "scientifically refuted." T.L.D v B.G (South Africa, 2023) operationalises a structured-remedy approach. Italian [Cassazione](https://www.cortedicassazione.it/) cements the 9691/2022 line. UK Re Y (2026) lands. Poland counter-trends.
+- **2023-2025** — consolidation of the procedural-fact-first frame. [BVerfG](https://www.bundesverfassungsgericht.de/) (Germany, 2023) calls PAS "scientifically refuted." T.L.D v B.G (South Africa, 2023) operationalises a structured-remedy approach. Italian [Cassazione](https://www.cortedicassazione.it/) cements the 9691/2022 line. UK Re Y (2026) lands. Poland counter-trends.
 
 The global direction of travel — not unidirectional, but with a clear centre of gravity — is toward **fact-first, evidence-skeptical, jurisdiction-specific frameworks that distinguish documented behaviour from contested diagnosis**. India and Poland's positions are real outliers but real ones; future case investigations should track whether they hold or join the consensus.
 
@@ -80,6 +80,8 @@ Last regenerated: 2026-05-25.
 ---
 
 *Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0*
+
+
 
 
 

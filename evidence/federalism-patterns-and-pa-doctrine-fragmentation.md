@@ -89,7 +89,7 @@ UK 4-constituent jurisdiction (E&W + Scotland + NI + Wales-as-institutional-sub-
 India operates federal + personal-law fragmentation simultaneously. Federal HMA + HMGA apply to Hindus; parallel Muslim/Christian/Parsi/Special Marriage Act personal-law statutes operate for other communities. Personal-law fragmentation adds doctrinal complexity alongside federal-state-level variation. Vivek Singh 2017 SC operates unification at Supreme Court apex; Delhi HC binomial (ABC v XYZ + A v B) operates at state-level appellate.
 
 ### 8. Unitary EU jurisdictions doctrinally most coherent
-Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Netherlands + Belgium at federal level) produce doctrinally most coherent PA-apex jurisprudence. The EU 2017-2025 apex sequence (STS 519 ES + Cassazione triad IT + [BVerfG](https://www.bundesverfassungsgericht.de/) DE + SN III CZP 20/25 PL) operates within unitary-jurisdictional architectures.
+Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Netherlands + Belgium at federal level) produce doctrinally most coherent PA-apex jurisprudence. The EU 2017-2025 apex sequence (STS 519 ES + [Cassazione](https://www.cortedicassazione.it/) triad IT + [BVerfG](https://www.bundesverfassungsgericht.de/) DE + SN III CZP 20/25 PL) operates within unitary-jurisdictional architectures.
 
 ## Comparative federalism pattern table
 
@@ -128,6 +128,8 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md*
+
+
 
 
 

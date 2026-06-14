@@ -41,7 +41,7 @@ location_tags: [united-states, international, baker, 8-indicators, adult-outcome
 
 These 8 are **observable behaviors**, not internal states — making them suitable for documentation, expert testimony, and Daubert-survivable analysis (Harman/Kruk/Hines 2018 incorporates them).
 
-## Adult-outcomes findings (Baker's qualitative data)
+## Adult-outcomes findings ([Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) qualitative data)
 
 From the n=40 adult interviews:
 
@@ -105,6 +105,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

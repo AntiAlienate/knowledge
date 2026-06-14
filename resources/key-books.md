@@ -82,7 +82,7 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 
 **Newly targeted parent (first 30 days):**
 1. *Divorce Poison* ([Warshak](https://warshak.com/family-bridges/))
-2. *Surviving Parental Alienation* (Baker & Fine)
+2. *Surviving Parental Alienation* ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Fine)
 3. *BIFF for CoParent Communication* (Eddy)
 
 **Preparing for court:**
@@ -98,6 +98,8 @@ Celebrity case; mainstream-accessible storytelling around custody conflict and a
 ---
 
 *Open PR if a book belongs on this shelf. Criterion: peer-reviewed, court-cited, or written by a named expert with a public record of work in the field.*
+
+
 
 
 

@@ -77,7 +77,7 @@ Singapore · Singapore (city-state) · AWARE Singapore; member of regional and g
 *Founded 1997; Hong Kong's leading women's-rights NGO concerning sexual and gender-based violence; operates RainLily one-stop crisis-intervention centre for survivors of sexual violence (established 2000, first in HK)*
 Hong Kong · Hong Kong SAR · ACSVAW; RainLily one-stop crisis-intervention centre; member of regional and global women's-rights coalitions
 
-**Stance:** Institutional critique-register anchor for the Hong Kong PA-construct debate. ACSVAW and RainLily carry the DV / sexual-violence-survivor-protective register in HK family-law reform discourse and have engaged the Domestic and Cohabitation Relationships Violence Ordinance Cap. 189 reform conversation. PA-specific public position-paper not located in primary sources; classified critique on the strength of ACSVAW's structural sexual-violence and gender-based-violence policy register. Comparative-reception relevance to BVerfG 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: HK.
+**Stance:** Institutional critique-register anchor for the Hong Kong PA-construct debate. ACSVAW and RainLily carry the DV / sexual-violence-survivor-protective register in HK family-law reform discourse and have engaged the Domestic and Cohabitation Relationships Violence Ordinance Cap. 189 reform conversation. PA-specific public position-paper not located in primary sources; classified critique on the strength of ACSVAW's structural sexual-violence and gender-based-violence policy register. Comparative-reception relevance to [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany 2023) as authority for PA-construct critique in DV contexts. Country_code: HK.
 
 **Publications:**
 - RainLily one-stop crisis-intervention centre (Hong Kong) (2000) — *ACSVAW*
@@ -352,6 +352,8 @@ Hong Kong · Hong Kong SAR · HKCSS; convener role across HKFWS, Caritas, ISS-HK
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

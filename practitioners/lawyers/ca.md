@@ -158,7 +158,7 @@ Toronto · ON · Benmor Family Law Group, Toronto
 ## Critique camp
 
 ### Suzanne Zaccour, BCL, LLB, LLM, DPhil (Oxon)
-*BCL/LLB (McGill); LLM (Toronto); DPhil (Oxford); LSO member (called 2021); former Supreme Court of Canada law clerk 2019-2020*
+*BCL/LLB (McGill); LLM (Toronto); DPhil (Oxford); LSO member (called 2021); former [Supreme Court of Canada](https://www.scc-csc.ca/) law clerk 2019-2020*
 Ottawa · ON · National Association of Women and the Law (NAWL / ANFD) — Director of Legal Affairs
 
 **Stance:** Single most-published Canadian critique-camp lawyer on PA — the Canadian counterpart to Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). Quebec-data-driven scholarship: three peer-reviewed articles ('Parental Alienation in Quebec Custody Litigation' (2018) 30 Can. J. Fam. L.; 'Does Domestic Violence Disappear from Parental Alienation Cases? Five Lessons from Quebec' (2021) 33 Can. J. Fam. L. 301; 'Parental alienation: The one-size-fits-none theory' (2024) Law360 Canada). Lead spokesperson for the January 2024 NAWL-led 250+-organisation coalition to ban PA accusations in family court. Co-author of the 2024 NAWL FEWO brief 'Banning Parental Alienation Accusations in Family Court' — the apex Canadian critique-camp policy document. Ontario-barred, not Quebec-barred, despite Quebec-data corpus.
@@ -264,7 +264,7 @@ Kingston · ON · William R. Lederman Distinguished Professor of Law, Queen's Un
 *PhD; RSW (Ontario College of Social Workers); LLM; Distinguished University Professor Emerita*
 London · ON · Distinguished University Professor Emerita, King's University College at Western University (Social Work / Childhood and Youth Studies); Adjunct, McGill School of Social Work
 
-**Stance:** Social-work half of the Bala-Birnbaum-Saini triumvirate — pair with Bala for the full differentiated-approach package. Co-author with Bala of 'Parental alienation cases: Experiences of Ontario legal and mental health professionals' (2025) 63 Family Court Review 491 and 'Parental alienation: A retrospective study of the experiences of children and parents in Ontario' (2024) U.N.B.L.J. 62. Co-author with Bala and Saini of Children Who Resist Postseparation Parental Contact (Oxford UP, 2013).
+**Stance:** Social-work half of the Bala-Birnbaum-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) triumvirate — pair with Bala for the full differentiated-approach package. Co-author with Bala of 'Parental alienation cases: Experiences of Ontario legal and mental health professionals' (2025) 63 Family Court Review 491 and 'Parental alienation: A retrospective study of the experiences of children and parents in Ontario' (2024) U.N.B.L.J. 62. Co-author with Bala and Saini of Children Who Resist Postseparation Parental Contact (Oxford UP, 2013).
 
 **Publications:**
 - Parental alienation cases: Experiences of Ontario legal and mental health professionals (with Bala) (2025) — *Family Court Review 63:491* — <https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.70001>
@@ -396,6 +396,8 @@ Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

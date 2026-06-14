@@ -34,7 +34,7 @@ France has not enacted dedicated coercive-control criminal statute but has devel
 **Sonia Vaccaro 'violencia vicaria' coinage** (Vaccaro & Barea 2009, Desclée de Brouwer) provides the Spanish individual-clinician academic anchor for substitutive critique-camp framing. LOPIVI 2021 Disposición adicional 17ª provides statutory inadmission of SAP label. Together operate as Spanish multi-layer critique framework. Cross-link: jurisdiction:spain.
 
 ### 10. Italy — DV statutory framework + [Cassazione](https://www.cortedicassazione.it/) 9691/2022 + Riforma Cartabia
-Italian DV statutory framework (Codice Rosso reform 2019) operates alongside the [Cassazione](https://www.cortedicassazione.it/) critique line (13217/2021 + 9691/2022 + 4595/2025) + Riforma Cartabia D.lgs. 149/2022. Cassazione 9691/2022 engages PAS-construct disqualification while preserving DV-protective procedural-due-diligence under Article 8. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
+Italian DV statutory framework (Codice Rosso reform 2019) operates alongside the [Cassazione](https://www.cortedicassazione.it/) critique line (13217/2021 + 9691/2022 + 4595/2025) + Riforma Cartabia D.lgs. 149/2022. [Cassazione](https://www.cortedicassazione.it/) 9691/2022 engages PAS-construct disqualification while preserving DV-protective procedural-due-diligence under Article 8. Cross-link: case-study:cassazione-9691-2022-italy + jurisdiction:italy.
 
 ### 11. South Africa — Domestic Violence Act 116/1998 (amended by Act 14/2021)
 **Domestic Violence Act 116/1998 amended by Domestic Violence Amendment Act 14/2021** expands coercive-control and digital-abuse coverage. Re-frames evidential backdrop for SA family-court PA-adjacent dispute assessment. Cross-link: jurisdiction:south-africa.
@@ -97,6 +97,8 @@ National coercive-control statutory reforms converge with multi-tier internation
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md*
+
+
 
 
 

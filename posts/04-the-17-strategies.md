@@ -31,7 +31,7 @@ Drawn from [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+al
 
 ## Why this taxonomy matters legally
 
-For 33 years (1985–2018), the "Parental Alienation Syndrome" framing was Daubert-attacked in US courts as discredited theory. Baker's strategy taxonomy reframes the harm at the **behavior level** rather than the **syndrome level** — and behavior-level claims survive *Daubert v. Merrell Dow* (1993, 509 U.S. 579) much more reliably. The UK High Court in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam) consolidated the parallel English standard.
+For 33 years (1985–2018), the "Parental Alienation Syndrome" framing was Daubert-attacked in US courts as discredited theory. [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) strategy taxonomy reframes the harm at the **behavior level** rather than the **syndrome level** — and behavior-level claims survive *Daubert v. Merrell Dow* (1993, 509 U.S. 579) much more reliably. The UK High Court in **Re C (Parental Alienation: Instruction of Expert)** [2023] EWHC 345 (Fam) consolidated the parallel English standard.
 
 The 2018 **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/)** *Psychological Bulletin* meta-analysis built directly on Baker's strategy framework — establishing alienating *behaviors* (PABs) as a recognized form of family violence.
 
@@ -70,6 +70,8 @@ Educational content. **Not legal or clinical advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

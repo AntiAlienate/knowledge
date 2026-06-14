@@ -112,7 +112,7 @@ This page maps each common court-submission claim back to those seven pages.
 
 ### Anti-claim 1: "Parental Alienation Syndrome is a recognised medical diagnosis"
 
-WHO removed it from [ICD-11](https://icd.who.int/). [DSM-5](https://www.appi.org/products/dsm) declined to include it. APA has no position. APSAC actively cautions against it. The Italian [Cassazione](https://www.cortedicassazione.it/), BVerfG, French Cass.civ.1, Spanish TS, and [Cafcass](https://www.cafcass.gov.uk/) have all explicitly distanced themselves from the diagnostic framing. Asserting this in a US federal Daubert hearing or a UK family-court submission will get the testimony excluded.
+WHO removed it from [ICD-11](https://icd.who.int/). [DSM-5](https://www.appi.org/products/dsm) declined to include it. APA has no position. APSAC actively cautions against it. The Italian [Cassazione](https://www.cortedicassazione.it/), [BVerfG](https://www.bundesverfassungsgericht.de/), French Cass.civ.1, Spanish TS, and [Cafcass](https://www.cafcass.gov.uk/) have all explicitly distanced themselves from the diagnostic framing. Asserting this in a US federal Daubert hearing or a UK family-court submission will get the testimony excluded.
 
 **Source review:** [International Institutional Positions](international-institutional-positions.md); [Diagnostic Codes That DO Apply §7](diagnostic-codes-that-apply.md)
 
@@ -197,6 +197,8 @@ For jurisdiction-specific guidance, start with the [Case Studies Global Comparis
 *This page is a distillation, not a substitute. Cite the underlying evidence pages and the primary sources they document. CC BY 4.0.*
 
 — Catalogued by Alan Markson · [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
+
+
 
 
 

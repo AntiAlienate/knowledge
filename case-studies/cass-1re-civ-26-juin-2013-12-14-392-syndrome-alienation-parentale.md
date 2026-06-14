@@ -12,7 +12,7 @@
 - **Défendeur au pourvoi (respondent):** **M. X...**, the father.
 - **Child concerned:** a daughter, born **2010** (age 3 at the date of the arrêt). She is unnamed in the public text.
 - **Avocat général (advocate-general) before the Court of Cassation:** Mme Petit, premier avocat général.
-- **Avocats aux Conseils (counsel before the Conseil d'État and Cour de cassation):** **SCP Richard** (for one party) and **SCP Waquet, Farge et Hazan** (for the other), as recorded on the face of the arrêt ([Légifrance text](https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/)).
+- **Avocats aux Conseils (counsel before the Conseil d'État and [Cour de cassation](https://www.courdecassation.fr/)):** **SCP Richard** (for one party) and **SCP Waquet, Farge et Hazan** (for the other), as recorded on the face of the arrêt ([Légifrance text](https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/)).
 
 ## Background
 
@@ -98,6 +98,8 @@ For the wider European picture, this French arrêt should be read alongside the 
 - [Cairn – academic case note in *Cahiers critiques de thérapie familiale* (2018)](https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr)
 - [Mon droit, mes libertés – overview of French SAP jurisprudence](https://www.mondroitmeslibertes.fr/la-famille/crises-familiales/le-syndrome-de-lalienation-parentale/)
 - [Code civil, Article 373-2-13 (Légifrance)](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/)
+
+
 
 
 

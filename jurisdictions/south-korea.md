@@ -57,7 +57,7 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 
 ## Sources
 
-1. **Supreme Court of Korea** — <https://www.scourt.go.kr/> (Supreme Court) [ko,en]
+1. **[Supreme Court of Korea](https://eng.scourt.go.kr/)** — <https://www.scourt.go.kr/> (Supreme Court) [ko,en]
 2. **Constitutional Court of Korea** — <https://www.ccourt.go.kr/> (Constitutional Court) [ko,en]
 3. **Korea Law Service** — <https://www.law.go.kr/> (Korea Ministry of Government Legislation) [ko,en]
 
@@ -71,6 +71,8 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

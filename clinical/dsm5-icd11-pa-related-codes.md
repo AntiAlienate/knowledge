@@ -33,7 +33,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 **PA-relevance:** Captures the child's harm rather than the parent's conduct. Useful when the focus is on the child's mental-health presentation as a consequence of inter-parental dynamics. Less stigmatizing for the child than V995.51.
 
-### DSM-5: V300.19 / F68.A — Factitious Disorder Imposed on Another (formerly Munchausen by Proxy)
+### [DSM-5](https://www.appi.org/products/dsm): V300.19 / F68.A — Factitious Disorder Imposed on Another (formerly Munchausen by Proxy)
 
 > "Falsification of physical or psychological signs or symptoms, or induction of injury or disease, in another, associated with identified deception... the individual presents another individual (victim) to others as ill, impaired, or injured."
 
@@ -51,7 +51,7 @@ location_tags: [clinical, dsm-5, icd-11, diagnostic-codes, who, apa, pa-related,
 
 **PA-relevance:** WHO equivalent of DSM's V300.19 / F68.A. Same medical-child-abuse pattern, [ICD-11](https://icd.who.int/) code. Useful in international or WHO-context cases.
 
-### ICD-11: 6B41 — Complex Post-Traumatic Stress Disorder
+### [ICD-11](https://icd.who.int/): 6B41 — Complex Post-Traumatic Stress Disorder
 
 > "Complex PTSD develops following exposure to an event or series of events of an extremely threatening or horrific nature, most commonly prolonged or repetitive events from which escape is difficult or impossible."
 
@@ -120,6 +120,8 @@ Wiki entry, not clinical or legal advice. Diagnostic-code application requires q
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

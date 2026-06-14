@@ -86,7 +86,7 @@ Il giudice di merito non può fondare un provvedimento di affidamento sulla diag
 
 <https://www.ecnews.it/app/uploads/sites/4/2025/03/Famiglia.pdf>
 
-**Sintesi della motivazione della Corte d'Appello di Bologna che la Cassazione qualifica come 'erronea'** (it):
+**Sintesi della motivazione della Corte d'Appello di Bologna che la [Cassazione](https://www.cortedicassazione.it/) qualifica come 'erronea'** (it):
 
 > [le denunce penali] non hanno diretta rilevanza in questa sede
 
@@ -151,7 +151,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ## Sources
 
 1. **[Corte di Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ordinanza n. 4595 del 21 febbraio 2025 — testo integrale (PDF 'Famiglia.pdf')** — <https://www.ecnews.it/app/uploads/sites/4/2025/03/Famiglia.pdf> (Euroconference / EcNews (riproduzione del provvedimento depositato)) [it] — accessed 2026-05-30
-2. **Italgiure — banca dati ufficiale della Corte di Cassazione (ricerca per numero 4595/2025, Sez. I Civile, R.G. 11558/2024)** — <https://www.italgiure.giustizia.it/sncass/> (Corte Suprema di Cassazione — CED) [it] — accessed 2026-05-30
+2. **Italgiure — banca dati ufficiale della [Corte di Cassazione](https://www.cortedicassazione.it/) (ricerca per numero 4595/2025, Sez. I Civile, R.G. 11558/2024)** — <https://www.italgiure.giustizia.it/sncass/> (Corte Suprema di Cassazione — CED) [it] — accessed 2026-05-30
 3. **Blog dott. Marco Pingitore, 'La Cassazione su ascolto minore, alienazione parentale, responsabilità genitoriale, violenza domestica e affidamento ai Servizi Sociali'** — <https://blog.marcopingitore.it/la-cassazione-su-ascolto-minore-alienazione-parentale-responsabilita-genitoriale-violenza-domestica-e-affidamento-ai-servizi-sociali/2025/03/02/7478/> (blog.marcopingitore.it) [it] — accessed 2026-05-30
 4. **AIAF — commento a Cass. 3576/2024 (pronuncia ponte espressamente citata da Cass. 4595/2025 al § 11.3)** — <https://aiaf-avvocati.it/articolo/1827/cassazione-ordinanza-n-35762024-pubblicata-il-giorno-8-febbraio-2024> (Associazione Italiana degli Avvocati per la Famiglia e i Minori) [it] — accessed 2026-05-30
 5. **APF — 'L'evoluzione della giurisprudenza di legittimità in tema di alienazione genitoriale: da sindrome a colpa d'autore'** — <https://www.avvocatipersonefamiglie.it/notizie/numero-speciale-pas/l%E2%80%99evoluzione-della-giurisprudenza-di-legittimita-in-tema-di-alienazione-genitoriale-da-sindrome-a-colpa-d%E2%80%99autore/> (Avvocati per le Persone e le Famiglie) [it] — accessed 2026-05-30
@@ -162,7 +162,7 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 10. **GREVIO Baseline Evaluation Report on Italy (gennaio 2020) — cornice sovranazionale richiamata in motivazione tramite il filtro CEDU I.M. e altri c. Italia 2022** — <https://rm.coe.int/grevio-report-italy-first-baseline-evaluation/168099724e> ([Council of Europe](https://www.coe.int/) — GREVIO) [en] — accessed 2026-05-30
 11. **CEDU, Talpis c. Italia, ricorso n. 41237/14, sentenza 2 marzo 2017 (espressamente citata da Cass. 4595/2025)** — <https://hudoc.echr.coe.int/eng?i=001-171994> (Corte Europea dei Diritti dell'Uomo — [HUDOC](https://hudoc.echr.coe.int/)) [en] — accessed 2026-05-30
 12. **CEDU, I.M. e altri c. Italia, ricorso n. 25426/20, sentenza 10 novembre 2022 (espressamente citata da Cass. 4595/2025)** — <https://hudoc.echr.coe.int/eng?i=001-220870> (Corte Europea dei Diritti dell'Uomo — [HUDOC](https://hudoc.echr.coe.int/)) [en] — accessed 2026-05-30
-13. **Convenzione di Istanbul — [Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence (CETS 210)** — <https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=210> (Council of Europe) [en] — accessed 2026-05-30
+13. **Convenzione di Istanbul — [Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence (CETS 210)** — <https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=210> ([Council of Europe](https://www.coe.int/)) [en] — accessed 2026-05-30
 14. **D.lgs. 10 ottobre 2022 n. 149 — Riforma Cartabia (Gazzetta Ufficiale)** — <https://www.gazzettaufficiale.it/eli/id/2022/10/17/22G00158/sg> (Gazzetta Ufficiale della Repubblica Italiana) [it] — accessed 2026-05-30
 
 ## Editorial notes
@@ -185,6 +185,8 @@ Cassa con rinvio. La Sez. I accoglie in parte i primi due motivi, dichiara assor
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

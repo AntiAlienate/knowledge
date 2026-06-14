@@ -2,7 +2,7 @@
 
 ## Jurisdictional context
 
-Germany has crossed an institutional inflection point on the so-called Parental Alienation construct (PAS / Eltern-Kind-Entfremdung) between 2023 and 2026. The apex reference is [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23, in which the First Senate characterised PAS / Eltern-Kind-Entfremdung as an *uberkommene und fachwissenschaftlich als widerlegt geltende* construct and held that an Umgangsregelung cannot be justified by a one-sided PAS-framing without a Gesamtwurdigung anchored in the Kindeswohl. This is the highest-rank German constitutional-court signal against PAS-as-diagnosis to date (see case-study:bverfg-1-bvr-1076-23-germany-2023). The [BVerfG](https://www.bundesverfassungsgericht.de/) explicitly drew on the Deutsches Jugendinstitut (DJI)-anchored Zimmermann / Fichtner / Walper / Lux / Kindler (2023) ZKJ critique 'Verdorbener Wein in neuen Schlauchen' as scientific authority — meaning the critique-camp scholars are the BVerfG's own cited authority, not a minority position.
+Germany has crossed an institutional inflection point on the so-called Parental Alienation construct (PAS / Eltern-Kind-Entfremdung) between 2023 and 2026. The apex reference is [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23, in which the First Senate characterised PAS / Eltern-Kind-Entfremdung as an *uberkommene und fachwissenschaftlich als widerlegt geltende* construct and held that an Umgangsregelung cannot be justified by a one-sided PAS-framing without a Gesamtwurdigung anchored in the Kindeswohl. This is the highest-rank German constitutional-court signal against PAS-as-diagnosis to date (see case-study:bverfg-1-bvr-1076-23-germany-2023). The [BVerfG](https://www.bundesverfassungsgericht.de/) explicitly drew on the Deutsches Jugendinstitut (DJI)-anchored Zimmermann / Fichtner / Walper / Lux / Kindler (2023) ZKJ critique 'Verdorbener Wein in neuen Schlauchen' as scientific authority — meaning the critique-camp scholars are the [BVerfG](https://www.bundesverfassungsgericht.de/)'s own cited authority, not a minority position.
 
 The constitutional line has since been reinforced by OLG Frankfurt am Main 05.01.2026 — 7 UF 88/25, which both labelled PAS a *pseudowissenschaftliche Hypothese* and imposed Sachverstandigen-Mindestanforderungen (multimodaler Ansatz, no one-sided selection of interview partners) for any Gutachten touching alleged alienation dynamics (see case-study:olg-frankfurt-7-uf-88-25-germany-2026). The statutory baseline remains §§ 1684 [BGB](https://www.gesetze-im-internet.de/bgb/) (Umgangsforderungspflicht / Wohlverhaltensgebot) and 1696 [BGB](https://www.gesetze-im-internet.de/bgb/) (Abanderung fur triftige Grunde), with FamFG §159 on the Kindesanhorung and the [BGH](https://www.bundesgerichtshof.de/) 1980 / 2009 line treating Umgangsausschluss as ultima ratio. Practitioner regulation runs through Approbation als Psychologische:r oder Arztliche:r Psychotherapeut:in (PsychThG-Reform 2020), Kammerregistrierung bei der jeweiligen Landes-Psychotherapeutenkammer, and — for forensic Sachverstandige — Fachpsycholog:in fur Rechtspsychologie BDP/DGPs.
 
@@ -47,7 +47,7 @@ Wurzburg · Bayern · Private practice Wurzburg-Steinbachtal; long-standing [PAS
 *Diplom-Psychologin + Diplom-Sozialpadagogin; systemische Familientherapeutin; BAFM-Mediatorin*
 Emmendingen · Baden-Wurttemberg · Independent practice Emmendingen; [PASG](https://pasg.info/) external resources contributor
 
-**Stance:** Co-initiator (with Koeppel, late 1990s) of the German PAS-Arbeitsgemeinschaft. 2018 [PASG](https://pasg.info/) Stockholm presentation advocates a Consensus Model in Germany with interdisciplinary cooperation; recurring expert voice in NZZ / Spiegel coverage of Eltern-Kind-Entfremdung. Position is PASG-aligned recognition with consensus-model bridge to mediation.
+**Stance:** Co-initiator (with Koeppel, late 1990s) of the German PAS-Arbeitsgemeinschaft. 2018 [PASG](https://pasg.info/) Stockholm presentation advocates a Consensus Model in Germany with interdisciplinary cooperation; recurring expert voice in NZZ / Spiegel coverage of Eltern-Kind-Entfremdung. Position is [PASG](https://pasg.info/)-aligned recognition with consensus-model bridge to mediation.
 
 **Publications:**
 - Kodjoe & Koeppel — initiation of the German PAS-Debate (PAS-Arbeitsgemeinschaft) (1998) — *PAS-Arbeitsgemeinschaft (late 1990s)*
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

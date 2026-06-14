@@ -50,7 +50,7 @@ Russian family-court decisions are anonymised per Supreme Court practice using i
 
 - Russia operates a post-Soviet civil-law federal framework — Family Code 1995 was foundational for subsequent CIS/post-Soviet codifications (Kazakhstan, Belarus, Ukraine, Uzbekistan).
 - [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) accession 2011 places Russia in the Hague Eastern European cluster.
-- Russia's 2022 exit from the Council of Europe terminated ECHR jurisdiction — structurally distinctive within the corpus as the only jurisdiction transitioning OUT of supranational human-rights framework. ECHR case-law remains advisory but no longer binding.
+- Russia's 2022 exit from the [Council of Europe](https://www.coe.int/) terminated ECHR jurisdiction — structurally distinctive within the corpus as the only jurisdiction transitioning OUT of supranational human-rights framework. ECHR case-law remains advisory but no longer binding.
 - Psychology profession regulation through Russian Psychological Society + Ministry of Health framework — lacks unified federal-statutory psychology regulator.
 
 ## See also
@@ -78,6 +78,8 @@ Russian family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -80,7 +80,7 @@ Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (syg
 ## Structural findings
 
 - UCHWAŁA III CZP 20/25 SN (3.10.2025) JEST APIKALNYM POLSKIM ORZECZENIEM W PRZEDMIOCIE ALIENACJI RODZICIELSKIEJ. SN przywraca skuteczność statutowego mechanizmu egzekucji kontaktów wobec rodzica alienującego (art. 598¹⁶ § 1 k.p.c.) BEZ sięgania po kliniczną diagnozę PAS i przy poszanowaniu konstytucyjnej ochrony życia rodzinnego. Polski wkład w europejską dyskusję sądów najwyższych obok Cass. 9691/2022 Włochy + STS 519/2017 Hiszpania + [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 Niemcy.
-- BIEGUN PRO-EGZEKUCYJNY W EU: III CZP 20/25 reprezentuje ODRĘBNY pro-egzekucyjny biegun europejskiej dyskusji apex. Włochy Cass. 9691/2022 dyskwalifikuje konstrukt PAS w postępowaniu rodzinnym; Hiszpania STS 519/2017 utrzymuje custodia compartida bez endorsement SAP; Niemcy BVerfG 1 BvR 1076/23 dyskwalifikuje SAP jako 'przedawniony i naukowo obalony'; Polska SN III CZP 20/25 przywraca skuteczność egzekucji kontaktów bez sięgania po klinikę PAS. Polski apex jest egzekucyjny-nie-kliniczny.
+- BIEGUN PRO-EGZEKUCYJNY W EU: III CZP 20/25 reprezentuje ODRĘBNY pro-egzekucyjny biegun europejskiej dyskusji apex. Włochy Cass. 9691/2022 dyskwalifikuje konstrukt PAS w postępowaniu rodzinnym; Hiszpania STS 519/2017 utrzymuje custodia compartida bez endorsement SAP; Niemcy [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 dyskwalifikuje SAP jako 'przedawniony i naukowo obalony'; Polska SN III CZP 20/25 przywraca skuteczność egzekucji kontaktów bez sięgania po klinikę PAS. Polski apex jest egzekucyjny-nie-kliniczny.
 - WĄSKA INTERPRETACJA WYROKU TK SK 3/20: SN dokonuje wąskiej interpretacji wyroku TK z 22.6.2022. Konstytucyjny immunitet rodzica sprawującego pieczę obejmuje TYLKO przypadki autonomicznej postawy dziecka; gdy postawa dziecka jest skutkiem zachowania alienującego rodzica sprawującego pieczę, sankcja pieniężna z art. 598¹⁶ § 1 k.p.c. pozostaje dopuszczalna. Aktywny obowiązek przeciwdziałania niechęci dziecka do kontaktów.
 - OPINIODAWCZE ZESPOŁY SĄDOWYCH SPECJALISTÓW (OZSS): Ustawowy mechanizm opiniowania w sprawach rodzinnych. OZSS są polskim instytucjonalnym analogiem [Cafcass](https://www.cafcass.gov.uk/) UK / Family Advocate ZA / CAPS Singapur / FRW Australia. PA-adjacentne stany faktyczne wchodzą do akt sądowych przez opinie OZSS.
 - ARCHITEKTURA REGULACYJNA ASYMETRYCZNA: Psychiatrzy regulowani statutowo przez Naczelną Izbę Lekarską (NIL); PSYCHOLODZY BEZ EFEKTYWNEGO REGULATORA STATUTOWEGO — Ustawa o zawodzie psychologa 2001 nie weszła w pełni w życie, brak Krajowej Rady Psychologów. Polskie Towarzystwo Psychologiczne (PTP) funkcjonuje jako stowarzyszenie zawodowe, nie regulator. Słabsza architektura niż UK [HCPC](https://www.hcpc-uk.org/), niemiecki BÄK czy hiszpański COP.
@@ -122,6 +122,8 @@ Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (syg
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

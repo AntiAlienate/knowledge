@@ -24,7 +24,7 @@ United Kingdom umbrella jurisdiction covering all four constituent jurisdictions
 
 ### [UK Supreme Court](https://www.supremecourt.uk/)
 <https://www.supremecourt.uk/>
-- **UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions.** (2026) — middle
+- **[UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions.** (2026) — middle
 
 ### Constituent jurisdiction apex
 <https://www.judiciary.uk/>
@@ -32,7 +32,7 @@ United Kingdom umbrella jurisdiction covering all four constituent jurisdictions
 
 ## Professional regulators
 
-- **Health and Care Professions Council (HCPC) — UK-wide statutory regulator** — UK-wide statutory regulator for practitioner psychologists and allied health professions under Health and Social Care Act 2008. Applies in all four UK jurisdictions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide. — <https://www.hcpc-uk.org/>
+- **Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) — UK-wide statutory regulator** — UK-wide statutory regulator for practitioner psychologists and allied health professions under Health and Social Care Act 2008. Applies in all four UK jurisdictions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide. — <https://www.hcpc-uk.org/>
 - **General Medical Council (GMC) — UK-wide medical regulator** — UK-wide statutory regulator for medical practitioners including psychiatrists. Applies in all four UK jurisdictions. No UK-wide PA-specific position. — <https://www.gmc-uk.org/>
 - **British Psychological Society ([BPS](https://www.bps.org.uk/)) — UK-wide voluntary** — UK-wide voluntary professional society. Operates Scottish + NI + Wales branches alongside England. No UK-wide PA-specific position. — <https://www.bps.org.uk/>
 - **Royal College of Psychiatrists — UK-wide voluntary** — UK-wide voluntary professional body of psychiatrists. [ICD-11](https://icd.who.int/) caregiver-child relationship problem (QE52.0) coding is available without committing the College to a PA position. — <https://www.rcpsych.ac.uk/>
@@ -79,13 +79,15 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 
 - UK umbrella jurisdiction — substantive content carried by constituent per-country sidecars (england-and-wales, scotland, northern-ireland, wales, uk-devolved aggregate).
 - Resolves backwards-compatible refs from existing files pointing to jurisdiction:united-kingdom.
-- UK Supreme Court as UK-wide final court of appeal preserved in structural_findings[0]; UK-wide regulator layer (HCPC + GMC + BPS) preserved in structural_findings[1].
+- UK Supreme Court as UK-wide final court of appeal preserved in structural_findings[0]; UK-wide regulator layer (HCPC + GMC + [BPS](https://www.bps.org.uk/)) preserved in structural_findings[1].
 - Re Y EWFC 38 as UK-wide evaluator-quality apex preserved in structural_findings[2] (HCPC-registration kitemark flows UK-wide via HCPC statutory framework).
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

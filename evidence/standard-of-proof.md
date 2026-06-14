@@ -281,7 +281,7 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 ### 10.4 ECHR application — two-point framing
 
-> 1. Article 6(1) violation: the State's domestic court founded a fact-determination altering the Applicant's family-life relationship on expert evidence whose scientific reliability was not established to the standard now required by comparable Council-of-Europe jurisprudence (cf. Cass. 9691/2022; BVerfG 1 BvR 1076/23).
+> 1. Article 6(1) violation: the State's domestic court founded a fact-determination altering the Applicant's family-life relationship on expert evidence whose scientific reliability was not established to the standard now required by comparable Council-of-Europe jurisprudence (cf. Cass. 9691/2022; [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23).
 > 2. Article 8 violation: the interference was not "necessary in a democratic society" because the supporting fact-finding rested on an empirically unsupported diagnostic construct (cf. WHO [ICD-11](https://icd.who.int/) FAQ, 2020, confirming the removal of "parental alienation" as an index term).
 
 ---
@@ -301,7 +301,7 @@ These are not legal advice. They are example skeletons of the kind of framing th
 ### 11.3 Contested
 
 - Whether a custody flip that *de facto* terminates the parent–child relationship through PA-driven change of residence requires **clear-and-convincing evidence** under the *Santosky v. Kramer* due-process logic remains unresolved on US PA facts in the published federal appellate record at compilation.
-- Whether the same formal civil standard is applied *symmetrically* to PA findings and to the abuse allegations they often defeat is the heart of the Meier (2020) critique. The empirical answer is contested; the doctrinal answer is that it should be.
+- Whether the same formal civil standard is applied *symmetrically* to PA findings and to the abuse allegations they often defeat is the heart of the [Meier (2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)) critique. The empirical answer is contested; the doctrinal answer is that it should be.
 - Whether *Briginshaw*-style "cogent evidence for cogent consequences" gloss adds anything to the *Re B* formulation, or merely re-describes it, is a long-running Anglo-Australian doctrinal argument that has no settled answer.
 
 ### 11.4 Critical
@@ -331,6 +331,8 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 **Compiled** 2026-05-25 for the AntiAlienate knowledge repository (CC BY 4.0).
 **Compiler note.** Where the published text of a judgment or article was not directly accessible at compilation, the citation is marked **[secondary verification only]** and should be re-checked against the original. Where a specific factual proposition asked for could not be located in a primary source, it is marked **not publicly confirmed** rather than fabricated.
+
+
 
 
 

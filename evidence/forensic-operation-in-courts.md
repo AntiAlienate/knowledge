@@ -25,7 +25,7 @@
 
 **Citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., Dickson, S., O'Sullivan, C., Rosen, L., & Hayes, J. (2020). U.S. child custody outcomes in cases involving parental alienation and abuse allegations: what do the data show? *Journal of Social Welfare and Family Law*, 42(1), 92–105. https://doi.org/10.1080/09649069.2020.1701941 — Open repository copy: https://scholarship.law.gwu.edu/faculty_publications/1456/ and https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=2712&context=faculty_publications — SSRN preprint: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062
 
-**NIJ funder citation.** Meier, J. S., et al. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* (Final Technical Report, NIJ Award 2014-MU-CX-0859). National Institute of Justice, NCJ 304419. https://nij.ojp.gov/library/publications/child-custody-outcomes-cases-involving-parental-alienation-and-abuse — Data archived at ICPSR: https://www.icpsr.umich.edu/web/NACJD/studies/37331
+**NIJ funder citation.** [Meier, J](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). S., et al. (2019). *Child Custody Outcomes in Cases Involving Parental Alienation and Abuse Allegations* (Final Technical Report, NIJ Award 2014-MU-CX-0859). National Institute of Justice, NCJ 304419. https://nij.ojp.gov/library/publications/child-custody-outcomes-cases-involving-parental-alienation-and-abuse — Data archived at ICPSR: https://www.icpsr.umich.edu/web/NACJD/studies/37331
 
 **Verbatim abstract.** "Family court and abuse professionals have long been polarized over the use of parental alienation claims to discredit a mother alleging that the father has been abusive or is unsafe for the children. This paper reports the findings from an empirical study of ten years of U.S. cases involving abuse and alienation claims. The findings confirm that mothers' claims of abuse, especially child physical or sexual abuse, increase their risk of losing custody, and that fathers' cross-claims of alienation virtually double that risk. Alienation's impact is gender-specific; fathers alleging mothers are abusive are not similarly undermined when mothers cross-claim alienation. In non-abuse cases, however, the data suggest that alienation has a more gender-neutral impact. These nuanced findings may help abuse and alienation professionals find some common ground."
 
@@ -147,7 +147,7 @@
 
 > "Unfortunately, an all too common practice in such cases is for evaluators to diagnose children who exhibit a very strong bond and alignment with one parent and, simultaneously, a strong rejection of the other parent, as suffering from 'parental alienation syndrome' or 'PAS.' Under relevant evidentiary standards, the court should not accept this testimony. The theory positing the existence of 'PAS' has been discredited by the scientific community."
 
-**Quantitative findings on evaluator practice (verbatim).** 23% of evaluators in the Saunders et al. (2011) survey "focused on coercive-controlling aspects of a vignette in forming their assessment hypotheses"; only 38% reported "always" using a standardised IPV screening instrument; 37% never used one. 60% in Bow & Boxer (2003) did not use specialised IPV questionnaires.
+**Quantitative findings on evaluator practice (verbatim).** 23% of evaluators in the [Saunders](https://www.ovw.usdoj.gov/) et al. (2011) survey "focused on coercive-controlling aspects of a vignette in forming their assessment hypotheses"; only 38% reported "always" using a standardised IPV screening instrument; 37% never used one. 60% in Bow & Boxer (2003) did not use specialised IPV questionnaires.
 
 **Evaluator-recommended custody for known abusers (verbatim, from Davis et al. 2011 / Morrill et al. 2005, cited by Saunders).** "A small to substantial minority (between 10 and 39%) of abusers receive primary physical or joint custody."
 
@@ -231,7 +231,7 @@ This is the most-cited "centrist" review of the PA empirical literature. Its aut
 
 ### 6.3 UN [OHCHR](https://www.ohchr.org/) press release — Brazil (September 2025)
 
-**Citation.** OHCHR, *Brazil: Parliament must repeal harmful parental alienation law, says Special Rapporteur*. Press release, 3 September 2025. https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
+**Citation.** [OHCHR](https://www.ohchr.org/), *Brazil: Parliament must repeal harmful parental alienation law, says Special Rapporteur*. Press release, 3 September 2025. https://www.ohchr.org/en/press-releases/2025/09/brazil-parliament-must-repeal-harmful-parental-alienation-law-says-special
 
 **Verbatim direct quotes by Reem Alsalem (via OHCHR/Jurist/Mirage News coverage).**
 > "This initiative, led by a group of feminist congresswomen, is an important step by legislators to bring Brazil in line with international human rights standards established under binding international and regional human rights treaties and standards on gender equality and child protection."
@@ -289,8 +289,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ### 8.1 High confidence
 
 - **In U.S. family courts, when a mother alleges abuse by the father and he cross-claims PA, courts credit the abuse claim much less often and she loses custody much more often.** Meier 2020 (n=4,338 coded cases, full-census, peer-reviewed, NIJ-funded); Silberg-Dallam 2019 case-mechanism series; Alsalem 2023.
-- **PA is not a clinical diagnosis.** Rejected by APA [DSM-5](https://www.appi.org/products/dsm) process; removed from WHO ICD-11 foundation layer Feb 2020. Saini/Johnston/Fidler/Bala 2016 explicit; cross-ref `evidence-pa-as-child-abuse.md` §2.
-- **The international human-rights system has formally identified PA use in custody decisions as a documented problem.** UN OHCHR/CEDAW/Council of Europe GREVIO concurring positions.
+- **PA is not a clinical diagnosis.** Rejected by APA [DSM-5](https://www.appi.org/products/dsm) process; removed from WHO [ICD-11](https://icd.who.int/) foundation layer Feb 2020. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 explicit; cross-ref `evidence-pa-as-child-abuse.md` §2.
+- **The international human-rights system has formally identified PA use in custody decisions as a documented problem.** UN OHCHR/CEDAW/[Council of Europe](https://www.coe.int/) GREVIO concurring positions.
 
 ### 8.2 Moderate–high confidence
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

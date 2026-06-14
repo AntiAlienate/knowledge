@@ -18,13 +18,13 @@
 | **[DSM-5](https://www.appi.org/products/dsm) V61.29** | Child Affected by Parental Relationship Distress | American Psychiatric Association |
 | **WHO [ICD-11](https://icd.who.int/) QE52** | Caregiver-Child Relationship Problem | World Health Organization |
 | **WHO [ICD-11](https://icd.who.int/) 6D52** | Caregiver-Fabricated Illness in a Child | World Health Organization |
-| **WHO ICD-11 6B41** | Complex Post-Traumatic Stress Disorder | World Health Organization |
+| **WHO [ICD-11](https://icd.who.int/) 6B41** | Complex Post-Traumatic Stress Disorder | World Health Organization |
 
 ### Peer-reviewed research consensus
 
 - **[Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)** — *Parental Alienating Behaviors: An Unacknowledged Form of Family Violence*, *Psychological Bulletin* 144(12), 1275–1299. APA flagship review journal. **The most-cited current academic anchor.**
 - **[Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007)** — *Adult Children of Parental Alienation Syndrome.* Foundational longitudinal study.
-- **Bernet (2010)** — *Parental Alienation, DSM-5, and ICD-11.* Charles C. Thomas.
+- **Bernet (2010)** — *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and ICD-11.* Charles C. Thomas.
 - **Fidler & Bala (2010)** — *Children Resisting Postseparation Contact*, *Family Court Review* 48(1), 10–47.
 
 ### Professional / institutional bodies
@@ -76,6 +76,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

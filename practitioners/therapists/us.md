@@ -23,7 +23,7 @@ Regulatory disclosure: Randy Rand, EdD (co-developer of [Family Bridges](https:/
 *PhD (Clinical Psychology)*
 Dallas · TX · Independent practice (Dallas, TX); Clinical Professor of Psychology, UT Southwestern Medical Center; co-developer [Family Bridges](https://warshak.com/family-bridges/) reunification workshop
 
-**Stance:** Author of the most-cited [Family Bridges](https://warshak.com/family-bridges/) outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed Family Bridges with Randy Rand (now excluded — see excluded[]). Position is [PASG](https://pasg.info/)-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
+**Stance:** Author of the most-cited [Family Bridges](https://warshak.com/family-bridges/) outcomes paper ([Warshak](https://warshak.com/family-bridges/) 2010, Family Court Review 48(1):48-80) and the 2019 outcomes follow-up in Journal of Divorce & Remarriage. Co-developed [Family Bridges](https://warshak.com/family-bridges/) with Randy Rand (now excluded — see excluded[]). Position is [PASG](https://pasg.info/)-aligned classical recognition; popular-press book Divorce Poison (HarperCollins, rev. 2010).
 
 **Publications:**
 - Family Bridges: Using Insights from Social Science to Reconnect Parents and Alienated Children (2010) — *Family Court Review 48(1):48-80* — <https://onlinelibrary.wiley.com/doi/10.1111/j.1744-1617.2009.01288.x>
@@ -59,7 +59,7 @@ New York City · NY · Turning Points for Families ([TPFF](https://turningpoints
 
 **Contact:** NYLmft@gmail.com
 
-*Notes: NY licensure verifiable via NY Office of the Professions search; practice statement on lindagottlieb.com confirms [PASG](https://pasg.info/)-aligned framing. TPFF practitioner claim of 1,500+ adversarial-custody testimonies is self-reported.*
+*Notes: NY licensure verifiable via NY Office of the Professions search; practice statement on lindagottlieb.com confirms [PASG](https://pasg.info/)-aligned framing. [TPFF](https://turningpointsforfamilies.com/) practitioner claim of 1,500+ adversarial-custody testimonies is self-reported.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:us.warshak-richard`
 
@@ -69,7 +69,7 @@ New York City · NY · Turning Points for Families ([TPFF](https://turningpoints
 *PsyD (Clinical Psychology)*
 Pasadena (CA practice history); Washington licensure · WA · Independent clinical psychology practice; author Attachment-Based Model of Parental Alienation ([AB-PA](https://drcachildress.org/))
 
-**Stance:** Author of An Attachment-Based Model of Parental Alienation: Foundations (Oaksong Press, 2015). Operates the [AB-PA](https://drcachildress.org/) framework anchored in [DSM-5](https://www.appi.org/products/dsm) attachment / delusional pathway language. Recognition-camp internal dissident: openly critical of both [AFCC](https://www.afccnet.org/) evaluator training and the PASG Five-Factor Model.
+**Stance:** Author of An Attachment-Based Model of Parental Alienation: Foundations (Oaksong Press, 2015). Operates the [AB-PA](https://drcachildress.org/) framework anchored in [DSM-5](https://www.appi.org/products/dsm) attachment / delusional pathway language. Recognition-camp internal dissident: openly critical of both [AFCC](https://www.afccnet.org/) evaluator training and the [PASG](https://pasg.info/) Five-Factor Model.
 
 **Publications:**
 - An Attachment-Based Model of Parental Alienation: Foundations (2015) — *Oaksong Press* — <https://www.amazon.com/dp/0996114505>
@@ -295,7 +295,7 @@ San Diego · CA · Founding President, Institute on Violence, Abuse & Trauma (IV
 
 ### Joan B. Kelly, PhD
 *PhD (Clinical Psychology)*
-Corte Madera · CA · Independent practice (Corte Madera, CA); retired-status practitioner; AFCC fellow
+Corte Madera · CA · Independent practice (Corte Madera, CA); retired-status practitioner; [AFCC](https://www.afccnet.org/) fellow
 
 **Stance:** Architect (with Janet Johnston) of the 'alienated child' reformulation, the single most-cited middle-ground PA paper ([Kelly & Johnston](https://onlinelibrary.wiley.com/doi/10.1111/j.174-1617.2001.tb00609.x) 2001, FCR 39(3):249-266). RRD (Resist-Refuse Dynamics) framing originator. Co-author with Wallerstein of Surviving the Breakup (1980).
 
@@ -456,7 +456,7 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 
 ## Excluded (with documented reason)
 
-- **Randy Rand, EdD** — Regulatory exclusion: California Board of Psychology recorded his psychology licence as inactive since 2009 following BOP disciplinary action (findings included gross negligence, unprofessional conduct, and dishonesty). The Family Bridges / Family Workshop programme — originally co-developed with Richard Warshak — subsequently operated as an 'educational workshop' framework outside California Board of Psychology oversight. This is the canonical US regulatory disclosure for any reader auditing reunification-camp credentials. Licence status verifiable via CA DCA license search.
+- **Randy Rand, EdD** — Regulatory exclusion: California Board of Psychology recorded his psychology licence as inactive since 2009 following BOP disciplinary action (findings included gross negligence, unprofessional conduct, and dishonesty). The Family Bridges / Family Workshop programme — originally co-developed with Richard [Warshak](https://warshak.com/family-bridges/) — subsequently operated as an 'educational workshop' framework outside California Board of Psychology oversight. This is the canonical US regulatory disclosure for any reader auditing reunification-camp credentials. Licence status verifiable via CA DCA license search.
   - Primary source: <https://search.dca.ca.gov/>
 - **Richard A. Gardner, MD** — Deceased (2003). Historical originator of the term 'Parental Alienation Syndrome' (PAS) and the eight-symptom Gardner framework; foundational to the recognition camp but not active practice. Retained in excluded[] as the canonical historical anchor; cited in nearly all subsequent PA literature on both recognition and critique sides.
   - Primary source: <https://www.nytimes.com/2003/06/09/nyregion/richard-gardner-72-dies-cited-syndrome-in-custody-fights.html>
@@ -478,13 +478,15 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
   - Primary source: <https://sietske-dijkstra.nl/>
 - **S. Richard Sauber, PhD** — Unverifiable at directory standard: clinical-practice site and current FL licensure status could not be re-confirmed via primary source within the directory-quality window. Co-editor with Lorandos / Bernet of The International Handbook of Parental Alienation Syndrome (Charles C. Thomas, 2013) — historically recognition-camp; eligible for re-inclusion when a current primary-source clinical record is re-verified.
   - Primary source: <https://mqa-internet.doh.state.fl.us/MQASearchServices/HealthCareProviders>
-- **Marianne Wamboldt, MD and William E. Narrow, MD MPH** — Institutional co-authors (not active PA-clinical practitioners): Wamboldt (Children's Hospital Colorado / University of Colorado) and Narrow (DSM-5 Task Force) co-authored Bernet, Wamboldt & Narrow (2016) JAACAP CAPRD framework paper — the apex US institutional reference. Their inclusion here is as the institutional CAPRD anchor; they do not operate PA-clinical practices in the directory sense. Cross-linked from us.bernet-william.
+- **Marianne Wamboldt, MD and William E. Narrow, MD MPH** — Institutional co-authors (not active PA-clinical practitioners): Wamboldt (Children's Hospital Colorado / University of Colorado) and Narrow ([DSM-5](https://www.appi.org/products/dsm) Task Force) co-authored Bernet, Wamboldt & Narrow (2016) JAACAP CAPRD framework paper — the apex US institutional reference. Their inclusion here is as the institutional CAPRD anchor; they do not operate PA-clinical practices in the directory sense. Cross-linked from us.bernet-william.
   - Primary source: <https://doi.org/10.1016/j.jaac.2016.04.018>
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

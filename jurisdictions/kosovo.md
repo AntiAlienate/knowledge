@@ -45,7 +45,7 @@ Kosovar family-court decisions are anonymised per Supreme Court practice using i
 ## Structural findings
 
 - Kosovo operates a Yugoslav-civil-law-derivative European-codification-influenced family-law framework — places Kosovo in the Western-Balkan civil-law cluster with Serbia, Montenegro, North Macedonia, Bosnia and Herzegovina.
-- Partial international recognition status is structurally distinctive within the corpus — Kosovo cannot accede to Hague Convention or Council of Europe via standard mechanisms despite operating ECHR-aligned framework.
+- Partial international recognition status is structurally distinctive within the corpus — Kosovo cannot accede to Hague Convention or [Council of Europe](https://www.coe.int/) via standard mechanisms despite operating ECHR-aligned framework.
 - Direct ECHR application via Constitution art. 22 despite non-CoE-membership is structurally distinctive within the corpus — Kosovo is the only state directly applying ECHR without CoE membership in the corpus.
 - Non-Hague Convention status due to recognition constraint, not policy choice — structurally distinct from policy-driven non-Hague jurisdictions.
 
@@ -74,6 +74,8 @@ Kosovar family-court decisions are anonymised per Supreme Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

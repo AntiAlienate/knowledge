@@ -212,7 +212,7 @@ London · Ontario · Distinguished University Professor Emerita, School of Socia
 *PhD and MSW (University of Toronto); BSW (Lakehead); Registered Social Worker (OCSWSSW)*
 Toronto · Ontario · Professor and Factor-Inwentash Chair in Law and Social Work, Factor-Inwentash Faculty of Social Work, University of Toronto; cross-appointed Faculty of Law
 
-**Stance:** Social-work co-author of the canonical Canadian differential model (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2013, OUP). [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) (2008) Evidence Base of Custody and Access Evaluations remains the reference Canadian methodological audit of evaluator quality. AFCC-aligned differential approach to parent-child contact problems with formal Faculty-of-Law cross-appointment. Cleanest U of T-affiliated middle voice for academic citation.
+**Stance:** Social-work co-author of the canonical Canadian differential model (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2013, OUP). [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) (2008) Evidence Base of Custody and Access Evaluations remains the reference Canadian methodological audit of evaluator quality. [AFCC](https://www.afccnet.org/)-aligned differential approach to parent-child contact problems with formal Faculty-of-Law cross-appointment. Cleanest U of T-affiliated middle voice for academic citation.
 
 **Publications:**
 - Children Who Resist Post-Separation Parental Contact: A Differential Approach (2013) — *Oxford University Press (co-author with Fidler and Bala)*
@@ -342,7 +342,7 @@ Montreal · Quebec · Ordre des psychologues du Quebec — statutory francophone
 *PhD; Registered Clinical-Developmental Psychologist (College of Psychologists of Ontario, since 1987); Accredited Family Mediator (OAFM #407)*
 Toronto · Ontario · Private practice (Toronto); founding member Family Solutions Toronto; editorial board Family Court Review; AFCC Overcoming Barriers HCDC staff psychologist
 
-**Stance:** Most-cited Canadian PA practitioner across both camps. Children Who Resist Post-Separation Parental Contact (Fidler, Bala & Saini, OUP 2013) is the AFCC-aligned middle-ground textbook referenced across US, UK, AU and EU evaluator literature. Quoted by CTV News (2019) supporting WHO/[ICD-11](https://icd.who.int/) recognition: 'I actually lose sleep over these families.' Operates the Families Moving Forward multi-day reunification intervention. Middle-camp but recognition-tilting; functions as cross-jurisdictional anchor through AFCC Overcoming Barriers HCDC staff role and FCR editorial work — directly cross-links to US-based AFCC infrastructure.
+**Stance:** Most-cited Canadian PA practitioner across both camps. Children Who Resist Post-Separation Parental Contact (Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), OUP 2013) is the AFCC-aligned middle-ground textbook referenced across US, UK, AU and EU evaluator literature. Quoted by CTV News (2019) supporting WHO/[ICD-11](https://icd.who.int/) recognition: 'I actually lose sleep over these families.' Operates the Families Moving Forward multi-day reunification intervention. Middle-camp but recognition-tilting; functions as cross-jurisdictional anchor through AFCC Overcoming Barriers HCDC staff role and FCR editorial work — directly cross-links to US-based AFCC infrastructure.
 
 **Publications:**
 - Children Who Resist Post-Separation Parental Contact: A Differential Approach for Legal and Mental Health Professionals (2013) — *Oxford University Press (with Nicholas Bala and Michael A. Saini)* — <https://global.oup.com/academic/product/children-who-resist-post-separation-parental-contact-9780199895496>
@@ -389,7 +389,7 @@ Kingston · Ontario · Professor, Faculty of Law, Queen's University; co-author 
 *BComm; LLB; Law Society of Ontario*
 Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody Battle (New Harbinger 2014)
 
-**Stance:** Co-author with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (US) and J. Michael Bone (US) of *The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation* (New Harbinger 2014). Most-prominent Canadian lawyer in the [PASG](https://pasg.info/) / recognition-camp policy network with sustained cross-border US referral practice. Functions as the Canadian Ludmer equivalent of the US PASG legal-policy anchor; cross-links to /practitioners/lawyers/canada and to US-based recognition-camp lawyer infrastructure.
+**Stance:** Co-author with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (US) and J. Michael Bone (US) of *The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation* (New Harbinger 2014). Most-prominent Canadian lawyer in the [PASG](https://pasg.info/) / recognition-camp policy network with sustained cross-border US referral practice. Functions as the Canadian Ludmer equivalent of the US [PASG](https://pasg.info/) legal-policy anchor; cross-links to /practitioners/lawyers/canada and to US-based recognition-camp lawyer infrastructure.
 
 **Publications:**
 - The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation (2014) — *New Harbinger Publications (with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) and J. Michael Bone)*
@@ -446,6 +446,8 @@ Toronto · Ontario · Ludmer Law (Toronto); co-author The High-Conflict Custody 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

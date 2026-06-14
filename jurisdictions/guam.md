@@ -58,7 +58,7 @@ Guamanian family-court decisions are anonymised per Supreme Court practice using
 
 1. **Guam Courts** — <https://www.guamcourts.gov/> (Judiciary) [en,ch]
 2. **Department of Public Health and Social Services** — <https://www.dphss.guam.gov/> (DPHSS) [en,ch]
-3. **[US Supreme Court](https://www.supremecourt.gov/)** — <https://www.supremecourt.gov/> (US Supreme Court) [en]
+3. **[US Supreme Court](https://www.supremecourt.gov/)** — <https://www.supremecourt.gov/> ([US Supreme Court](https://www.supremecourt.gov/)) [en]
 
 ## Editorial notes
 
@@ -70,6 +70,8 @@ Guamanian family-court decisions are anonymised per Supreme Court practice using
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

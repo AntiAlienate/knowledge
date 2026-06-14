@@ -41,13 +41,13 @@ For severely alienated children where contact has been near-zero for an extended
 
 ## Outcome data [Warshak](https://warshak.com/family-bridges/) reports
 
-- Of 23 children attending Family Bridges between 2002–2010 ([Warshak's](https://warshak.com/family-bridges/) reported sample): 22 of 23 left the workshop with restored relationships with the targeted parent
+- Of 23 children attending [Family Bridges](https://warshak.com/family-bridges/) between 2002–2010 ([Warshak's](https://warshak.com/family-bridges/) reported sample): 22 of 23 left the workshop with restored relationships with the targeted parent
 - 1-year follow-up: 18 of 23 maintained restored relationships
 - The 5 who reverted: typically returned to alienating parent's primary residence prematurely
 
 ## Why courts cite this article
 
-Warshak (2010) gives courts a **structured, evidence-based intervention** to order — alternative to the binary of "force the visit" vs "respect the child's wishes." It also explicitly addresses the *Mincheva v. Bulgaria*-type problem: that respecting a coached refusal cements the alienation.
+[Warshak](https://warshak.com/family-bridges/) (2010) gives courts a **structured, evidence-based intervention** to order — alternative to the binary of "force the visit" vs "respect the child's wishes." It also explicitly addresses the *Mincheva v. Bulgaria*-type problem: that respecting a coached refusal cements the alienation.
 
 ## Critiques (acknowledge in court submissions)
 
@@ -90,6 +90,8 @@ Wiki entry, not clinical advice.
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com)**
+
+
 
 
 

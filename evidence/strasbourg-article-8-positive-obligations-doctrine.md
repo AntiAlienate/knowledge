@@ -64,7 +64,7 @@ The standard imposes a result-orientation: measures that prove ineffective despi
 
 ## [Cassazione](https://www.cortedicassazione.it/) 9691/2022 integration
 
-**Italian Cassazione 9691/2022 (24 marzo 2022)** is the principal example of how a domestic apex court incorporates Strasbourg Article 8 procedural-due-diligence doctrine alongside PAS-construct disqualification:
+**Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (24 marzo 2022)** is the principal example of how a domestic apex court incorporates Strasbourg Article 8 procedural-due-diligence doctrine alongside PAS-construct disqualification:
 
 - The Cassazione recognises Strasbourg Art 8 positive obligations as the procedural frame for parent-child contact restoration.
 - The Cassazione disqualifies PAS-construct deployment in CTU (Consulenza Tecnica d'Ufficio) evaluations as 'pseudoscientific fundamental'.
@@ -107,7 +107,7 @@ Strasbourg engages [Hague Convention 1980](https://www.hcch.net/en/instruments/c
 The Lombardo + Strumia + Improta sequence establishes the PA-adjacent Article 8 positive-obligation doctrine and remains the load-bearing Strasbourg reference. All subsequent Strasbourg PA-adjacent engagement builds on this base.
 
 ### 2. Procedural-due-diligence vs construct-validity
-**Strasbourg engages PA-adjacent fact-patterns at the PROCEDURAL-DUE-DILIGENCE level rather than the CONSTRUCT-VALIDITY level.** [ECtHR](https://www.echr.coe.int/) jurisprudence does not adjudicate whether PAS / PA is a scientifically valid clinical construct (distinct from BVerfG 2023 which does). Strasbourg operates one level up: regardless of whether PA is a valid construct, member states must take adequate and effective measures to enable contact restoration where contact is obstructed.
+**Strasbourg engages PA-adjacent fact-patterns at the PROCEDURAL-DUE-DILIGENCE level rather than the CONSTRUCT-VALIDITY level.** [ECtHR](https://www.echr.coe.int/) jurisprudence does not adjudicate whether PAS / PA is a scientifically valid clinical construct (distinct from [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 which does). Strasbourg operates one level up: regardless of whether PA is a valid construct, member states must take adequate and effective measures to enable contact restoration where contact is obstructed.
 
 ### 3. Domestic apex integration is uneven
 Italian Cassazione 9691/2022 is the principal example of doctrinally dense Strasbourg + domestic apex integration. Other EU member-state apex decisions engage Strasbourg implicitly or via Convention-conform interpretation but lack equivalent doctrinal density.
@@ -132,6 +132,8 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
+
+
 
 
 

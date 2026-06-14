@@ -28,7 +28,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 ### [Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) ([BVerfG](https://www.bundesverfassungsgericht.de/))
 <https://www.bundesverfassungsgericht.de/>
-- **BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 — characterising PAS as 'überkommene und wissenschaftlich nicht haltbare bzw. widerlegte Konstrukte' (translation_en: 'outdated and scientifically untenable or refuted constructs')** (2023) — critique — [`bverfg-1-bvr-1076-23-germany-2023`](../case-studies/bverfg-1-bvr-1076-23-germany-2023.md)
+- **[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 — characterising PAS as 'überkommene und wissenschaftlich nicht haltbare bzw. widerlegte Konstrukte' (translation_en: 'outdated and scientifically untenable or refuted constructs')** (2023) — critique — [`bverfg-1-bvr-1076-23-germany-2023`](../case-studies/bverfg-1-bvr-1076-23-germany-2023.md)
 
 ### Oberlandesgericht Frankfurt am Main (OLG Frankfurt)
 <https://ordentliche-gerichtsbarkeit.hessen.de/olg-frankfurt>
@@ -97,7 +97,7 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 
 ## Sources
 
-1. **BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17. November 2023 - 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> (Bundesverfassungsgericht) [de]
+1. **BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17. November 2023 - 1 BvR 1076/23** — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html> ([Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/)) [de]
 2. **Zimmermann/Walper/Fichtner/Lux/Kindler — Zur Kritik am Konstrukt 'Parental Alienation' / 'Eltern-Kind-Entfremdung'** — <https://www.dji.de/themen/familie/eltern-kind-entfremdung-pa.html> (Zeitschrift für Kindschaftsrecht und Jugendhilfe (ZKJ) / Deutsches Jugendinstitut (DJI)) [de]
 3. **Deutsches Jugendinstitut — Themenseite Familie / Eltern-Kind-Entfremdung** — <https://www.dji.de/> (DJI München) [de]
 4. **OLG Frankfurt am Main — Pressemitteilung zur Senatsentscheidung 7 UF 88/25 vom 5.1.2026** — <https://ordentliche-gerichtsbarkeit.hessen.de/olg-frankfurt/presse> (Oberlandesgericht Frankfurt am Main) [de]
@@ -119,6 +119,8 @@ BVerfG- und OLG-Beschlüsse anonymisieren Kinder typischerweise als 'Kind 1', 'K
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

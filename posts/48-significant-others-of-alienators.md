@@ -60,7 +60,7 @@ If your partner's behavior is being documented in court (and the [European Court
 ## Citations
 
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- Baker, A. J. L. (2010). Adult recall of parental alienation in a community sample. *Journal of Divorce & Remarriage, 51*(1), 16–35.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2010). Adult recall of parental alienation in a community sample. *Journal of Divorce & Remarriage, 51*(1), 16–35.
 - Eddy, B. (2014). *5 Types of People Who Can Ruin Your Life.* TarcherPerigee.
 - *Bondavalli v. Italy*, ECHR 2015, App. no. 35532/12.
 
@@ -71,6 +71,8 @@ Educational content. **Not relationship advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

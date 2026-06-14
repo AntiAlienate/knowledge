@@ -40,7 +40,7 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 - **Re S [2020] EWCA Civ 568** (UK-EWS) — English Court of Appeal — least-harmful welfare analysis in PA-framed proceedings.
 - **Re H-N [2021] EWCA Civ 448** (UK-EWS) — English Court of Appeal guidance on findings-of-fact processes where unsupported allegations operate to sever contact.
 - **[BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23** (DE) — [`bverfg-1-bvr-1076-23-germany-2023`](./bverfg-1-bvr-1076-23-germany-2023.md) — German Federal Constitutional Court constitutional critique of PAS-based Sachverständigengutachten — parallel critique of evaluator quality on different doctrinal grounds (constitutional Art. 6 Abs. 2 GG / Kindeswohl rather than [HCPC](https://www.hcpc-uk.org/) regulation).
-- **OLG Frankfurt 7 UF 88/25** (DE) — [`olg-frankfurt-7-uf-88-25-germany-2026`](./olg-frankfurt-7-uf-88-25-germany-2026.md) — Companion German OLG decision operationalising [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 at OLG level via Sachverständigen-Mindestanforderungen — the German functional counterpart to Re Y's HCPC-registration requirement.
+- **OLG Frankfurt 7 UF 88/25** (DE) — [`olg-frankfurt-7-uf-88-25-germany-2026`](./olg-frankfurt-7-uf-88-25-germany-2026.md) — Companion German OLG decision operationalising [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 at OLG level via Sachverständigen-Mindestanforderungen — the German functional counterpart to Re Y's [HCPC](https://www.hcpc-uk.org/)-registration requirement.
 - **NF v AF [2025] CSOH 13** (UK-SCO) — [`nf-v-af-2025-csoh-13-scotland`](./nf-v-af-2025-csoh-13-scotland.md) — Scottish Outer House decision (Lord Stuart) where the expert was a Chartered Clinical Psychologist whose evidence was 'unchallenged' (para [31]) — the kind of evidence base that would not be exposed to Re Y set-aside risk.
 - **Family Law Amendment Act 2023 (Cth) Sch 2 (Australia — Court Children's Reports reform)** (AU) — Parallel statutory tightening of expert-evidence standards in family proceedings.
 
@@ -73,8 +73,8 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 
 ## Editorial notes
 
-- Full judgment text not retrievable at time of writing ([BAILII](https://www.bailii.org/) bot-protection wall); reconstruction relies on the secondary practitioner-press digest line and the standing characterisation of the case in the AntiAlienate knowledge base (companion BVerfG and OLG Frankfurt case studies; UK devolved lawyers file). All operative paragraph numbers and the precise verbatim wording are flagged for verification against the [BAILII](https://www.bailii.org/) / judiciary.uk full text before publication.
-- Decision date 2026-02-10 is the best-available reconstruction; the precise hand-down date will be confirmed from BAILII / judiciary.uk metadata.
+- Full judgment text not retrievable at time of writing ([BAILII](https://www.bailii.org/) bot-protection wall); reconstruction relies on the secondary practitioner-press digest line and the standing characterisation of the case in the AntiAlienate knowledge base (companion [BVerfG](https://www.bundesverfassungsgericht.de/) and OLG Frankfurt case studies; UK devolved lawyers file). All operative paragraph numbers and the precise verbatim wording are flagged for verification against the [BAILII](https://www.bailii.org/) / judiciary.uk full text before publication.
+- Decision date 2026-02-10 is the best-available reconstruction; the precise hand-down date will be confirmed from [BAILII](https://www.bailii.org/) / judiciary.uk metadata.
 - Subject child anonymised as 'Y' per the standard EWFC convention; party identities are anonymised on the face of the judgment.
 - Counsel for the parties is not yet enumerated in this entry; will be added from the front sheet of the BAILII text once retrieved.
 - Melanie Gill is the named unregulated evaluator on the record; she is the subject of the existing excluded-with-reasons entry in the AntiAlienate UK practitioners directory under `practitioner:uk-ews.gill-melanie`.
@@ -87,6 +87,8 @@ First-instance findings of 'alienating behaviour' built on Ms Melanie Gill's unr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

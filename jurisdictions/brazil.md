@@ -36,7 +36,7 @@ Brazil is the world's only PA-recognition statutory jurisdiction, having enacted
 - **REsp 2.108.750/GO — cross-allegation symmetrical evidentiary discipline: where the record contains sexual-abuse allegations against the parent invoking alienation, the family court may not collapse the abuse evaluation into the PA framework; perícia under art. 5º must independently engage with the abuse allegations** (2024) — middle — [`stj-resp-2108750-go-2024`](../case-studies/stj-resp-2108750-go-2024.md)
 - **REsp 1.654.111/DF (Rel. Min. Villas Bôas Cueva) — early no-automaticity formulation, precursor to the 2024 line** (2017) — middle
 
-### [Supremo Tribunal Federal](https://portal.stf.jus.br/) (STF)
+### [Supremo Tribunal Federal](https://portal.stf.jus.br/) ([STF](https://portal.stf.jus.br/))
 <https://portal.stf.jus.br/>
 - **ADI 6273/2019 — Ação Direta de Inconstitucionalidade challenging Lei 12.318/2010 dismissed on standing (não conhecimento); no merits ruling on the constitutionality of the statute** (2019) — middle
 
@@ -99,7 +99,7 @@ Children and family parties are identified by initials only in published judgmen
 2. **Lei nº 8.069, de 13 de julho de 1990 — Estatuto da Criança e do Adolescente (ECA)** — <https://www.planalto.gov.br/ccivil_03/leis/l8069.htm> (Planalto) [pt]
 3. **Constituição da República Federativa do Brasil de 1988** — <https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm> (Planalto) [pt]
 4. **STJ — Jurisprudência (scon)** — <https://scon.stj.jus.br/SCON/> (Superior Tribunal de Justiça) [pt]
-5. **STF — Jurisprudência** — <https://portal.stf.jus.br/> (Supremo Tribunal Federal) [pt]
+5. **STF — Jurisprudência** — <https://portal.stf.jus.br/> ([Supremo Tribunal Federal](https://portal.stf.jus.br/)) [pt]
 6. **IBDFAM — Instituto Brasileiro de Direito de Família** — <https://ibdfam.org.br/> (IBDFAM) [pt]
 7. **Conselho Federal de Psicologia — Nota Técnica nº 4/2022 (joint with CFESS)** — <https://site.cfp.org.br/> (Conselho Federal de Psicologia) [pt]
 8. **ConJur — Consultor Jurídico (legal commentary)** — <https://www.conjur.com.br/> (ConJur) [pt]
@@ -117,6 +117,8 @@ Children and family parties are identified by initials only in published judgmen
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

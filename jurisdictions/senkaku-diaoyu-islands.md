@@ -70,7 +70,7 @@ Senkaku/Diaoyu-related decisions are anonymised per Japanese court practice usin
 ## Sources
 
 1. **Japanese Ministry of Foreign Affairs** — <https://www.mofa.go.jp/> (Japanese Government) [ja]
-2. **Supreme Court of Japan** — <https://www.courts.go.jp/> (Japanese Government) [ja]
+2. **[Supreme Court of Japan](https://www.courts.go.jp/english/)** — <https://www.courts.go.jp/> (Japanese Government) [ja]
 
 ## Editorial notes
 
@@ -82,6 +82,8 @@ Senkaku/Diaoyu-related decisions are anonymised per Japanese court practice usin
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

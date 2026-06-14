@@ -17,7 +17,7 @@ Australia is a federal common-law jurisdiction whose family-law architecture is 
   - Substantive best-interests test for parenting orders. The 2023 Amendment Act Schedule 1 rewrote s.60CC to prioritise the safety of the child and persons caring for the child, removed the prior 'two-tier' primary/additional consideration structure, and inserted explicit guidance on family violence. PA-adjacent fact-patterns are decided here under the welfare standard.
 - **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.61DA (repealed by 2023 Amendment Act)** — [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) — presumption of equal shared parental responsibility (REPEALED 6.5.2024) (2006) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Repealed by Schedule 1 of the Family Law Amendment Act 2023 (in force 6 May 2024). The former s.61DA presumption was a Howard-government 2006 reform that the 2023 Amendment Act removed in response to ALRC Inquiry 135 (2019) and Joint Select Committee 2021 evidence that the presumption was being misapplied in family-violence cases. Repeal is the load-bearing 2023 structural shift in Australian custody law.
-- **Family Law Act 1975 (Cth) s.121** — Family Law Act 1975 — restriction on publication of court proceedings (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
+- **[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) s.121** — Family Law Act 1975 — restriction on publication of court proceedings (1975) — <https://www.legislation.gov.au/Details/C2023C00404>
   - Strict anonymisation regime forbidding the naming of parties, children, witnesses, judges in some contexts, and individual Court Children's Report writers in publications of Australian family-court proceedings. s.121 is the structural reason no named-evaluator PA case-law equivalent to Re Y [2026] EWFC 38 (England & Wales) exists in citable Australian form, even where equivalent quality concerns motivated the 2023 Sch 2 reform.
 - **Family Law Amendment Act 2023 Schedule 2 — Court Children's Report regime** — Court Children's Report (CCR) — replaces 'family report' label and tightens evaluator standards (2023) — <https://www.legislation.gov.au/Details/C2023A00087>
   - Schedule 2 of the 2023 Amendment Act (in force 6 May 2024) replaces the prior 'family report' label with the tighter Court Children's Report standard, formalises the FCFCOA Family Report Writers Network (FRW pool) as the institutional vehicle, and operationalises evaluator-quality standards parallel in policy intent to the Re Y [2026] EWFC 38 reform in England & Wales.
@@ -99,7 +99,7 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 1. **Federal Register of Legislation — Family Law Act 1975 (Cth) consolidated** — <https://www.legislation.gov.au/Details/C2023C00404> (Australian Government — Office of Parliamentary Counsel) [en]
 2. **Federal Register of Legislation — Family Law Amendment Act 2023** — <https://www.legislation.gov.au/Details/C2023A00087> (Australian Government — Office of Parliamentary Counsel) [en]
 3. **Federal Circuit and Family Court of Australia (FCFCOA)** — <https://www.fcfcoa.gov.au/> (FCFCOA) [en]
-4. **High Court of Australia** — <https://www.hcourt.gov.au/> (High Court of Australia) [en]
+4. **[High Court of Australia](https://www.hcourt.gov.au/)** — <https://www.hcourt.gov.au/> (High Court of Australia) [en]
 5. **[AustLII](https://www.austlii.edu.au/) — Australian case-law database** — <https://www.austlii.edu.au/> (Australasian Legal Information Institute) [en]
 6. **Australian Health Practitioner Regulation Agency (AHPRA) / Psychology Board of Australia** — <https://www.psychologyboard.gov.au/> (AHPRA / PsyBA) [en]
 7. **Australian Psychological Society (APS)** — <https://psychology.org.au/> (APS) [en]
@@ -118,6 +118,8 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -123,7 +123,7 @@ Cassatieberoep verworpen; de veroordeling van het Gerechtshof Amsterdam (werkstr
 - Parties anonymised on Rechtspraak.nl per the Hoge Raad's privacy convention in family-adjacent criminal arrests; the entry preserves that anonymisation strictly.
 - Verbatim Dutch quotation 'degene die mede het gezag … onttrekken' is the consensus formulation of the decisive ratio as quoted in the FJR 2010/24 case-note (Dorhout), the Stichting VKC practitioner guide, and the Stichting KOG note. It is presented here in Dutch with an English translation per the schema's verbatim_quotes contract.
 - BW Boek 1 art. 247–253 are the civil-law backdrop establishing ouderlijk gezag and the omgangsregeling that art. 279 Sr operates upon; they are listed in sources as the statutory anchor without implying that the Hoge Raad construed them directly in this arrest.
-- The arrest is silent on the clinical or doctrinal vocabulary of ouderverstoting / parental alienation. Comparative cross-links to BVerfG 1 BvR 1076/23, [Cassazione](https://www.cortedicassazione.it/) 9691/2022, and Re Y [2026] EWFC 38 are made on the basis of comparable underlying conduct (court-ordered contact obstruction by a co-custodial parent), not on shared diagnostic vocabulary.
+- The arrest is silent on the clinical or doctrinal vocabulary of ouderverstoting / parental alienation. Comparative cross-links to [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23, [Cassazione](https://www.cortedicassazione.it/) 9691/2022, and Re Y [2026] EWFC 38 are made on the basis of comparable underlying conduct (court-ordered contact obstruction by a co-custodial parent), not on shared diagnostic vocabulary.
 - Dutch practitioner consensus, including VBS Advocaten and Rutten x Welling, is that art. 279 Sr should be treated as a last-resort remedy, with civil family-court enforcement of the omgangsregeling normally exhausted first.
 - The arrest operates gender-neutrally and symmetrically: both resident parents who deny contact and contact parents who fail to return the child can be prosecuted under art. 279 Sr (see Stichting KOG and the subsequent Rb Maastricht 2009 / Rb Haarlem 2009 applications).
 
@@ -132,6 +132,8 @@ Cassatieberoep verworpen; de veroordeling van het Gerechtshof Amsterdam (werkstr
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

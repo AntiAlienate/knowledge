@@ -68,7 +68,7 @@ From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 
 [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007 study transformed PA from a contested clinical theory to an empirical research domain. The study's findings have been:
 
-- Replicated in multiple subsequent quantitative studies (Baker & Brassard 2013, Verrocchio 2019, Bentley & Matthewson 2020)
+- Replicated in multiple subsequent quantitative studies ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Brassard 2013, Verrocchio 2019, Bentley & Matthewson 2020)
 - Cited in over 800 peer-reviewed publications and court filings
 - Used as evidentiary foundation in custody litigation worldwide
 - Translated into framework for assessment, treatment, and prevention
@@ -104,6 +104,8 @@ From this longitudinal data, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker
 ---
 
 *By Alan Markson · CC BY 4.0 · Disclaimer: This entry is educational reference material and does not constitute legal or clinical advice.*
+
+
 
 
 

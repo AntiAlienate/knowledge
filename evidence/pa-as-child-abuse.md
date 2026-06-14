@@ -52,7 +52,7 @@
 
 ### 1.5 [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) — adult retrospective qualitative outcomes
 
-**Citation.** Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*. New York: W. W. Norton.
+**Citation.** [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*. New York: W. W. Norton.
 
 **What it found.** Forty self-identified adults exposed to alienation in childhood; recurrent themes of (1) low self-esteem/self-hatred, (2) depression, (3) drug/alcohol problems, (4) lack of trust, (5) alienation from own children, (6) divorce, and (7) other life-course problems.
 
@@ -108,7 +108,7 @@
 
 **Citation.** *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* (American Psychiatric Association, 2013), and [DSM-5-TR](https://www.appi.org/products/dsm) (2022). Code **V995.51 / T74.32XA — Child Psychological Abuse, Confirmed** (and T76.32XA Suspected). Defined as "non-accidental verbal or symbolic acts by a child's parent or caregiver that result, or have reasonable potential to result, in significant psychological harm to the child."
 
-**Crucial nuance.** DSM-5 does **not** list "parental alienation" as a discrete diagnosis. Bernet's proposal for a stand-alone diagnosis was rejected. The pro-PA-as-abuse argument is that *severe* alienating conduct *meets the existing criteria* for V995.51, not that PA itself is a DSM diagnosis. See Bernet, Wamboldt & Narrow (2016), *Journal of the American Academy of Child & Adolescent Psychiatry*. **\[secondary verification only]** for the exact JAACAP citation.
+**Crucial nuance.** [DSM-5](https://www.appi.org/products/dsm) does **not** list "parental alienation" as a discrete diagnosis. Bernet's proposal for a stand-alone diagnosis was rejected. The pro-PA-as-abuse argument is that *severe* alienating conduct *meets the existing criteria* for V995.51, not that PA itself is a DSM diagnosis. See Bernet, Wamboldt & Narrow (2016), *Journal of the American Academy of Child & Adolescent Psychiatry*. **\[secondary verification only]** for the exact JAACAP citation.
 
 ---
 
@@ -116,7 +116,7 @@
 
 **Citation.** WHO, *International Classification of Diseases, 11th Revision ([ICD-11](https://icd.who.int/))*. Category **QE52.0 Caregiver–child relationship problem**: "substantial and sustained dissatisfaction within a caregiver–child relationship, including a parental relationship, associated with significant disturbance in functioning."
 
-**WHO official position (VERBATIM).** WHO's FAQ on parental alienation (URL: https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation) explains that the index terms "parental alienation" and "parental estrangement" were **removed** from ICD-11 because:
+**WHO official position (VERBATIM).** WHO's FAQ on parental alienation (URL: https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation) explains that the index terms "parental alienation" and "parental estrangement" were **removed** from [ICD-11](https://icd.who.int/) because:
 
 1. "Parental alienation is an issue relevant to specific judicial contexts" and "will not contribute to health statistics."
 2. "There are no evidence-based health care interventions specifically for parental alienation."
@@ -325,7 +325,7 @@ See section 2.4 above. WHO has formally removed "parental alienation" as an ICD-
 
 ---
 
-### 5.6 GREVIO (Council of Europe) and UN [OHCHR](https://www.ohchr.org/) (2025)
+### 5.6 GREVIO ([Council of Europe](https://www.coe.int/)) and UN [OHCHR](https://www.ohchr.org/) (2025)
 
 See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for repeal of Brazil's Lei 12.318/2010). These are the two strongest contemporary international-institutional positions critical of how PA is operationalised in law.
 
@@ -353,7 +353,7 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 
 > *Parental-alienating conduct, sustained over time and at sufficient severity, can constitute child psychological abuse under existing DSM-5/ICD-11 criteria and is treated as such by some statutes (Brazil) and many individual court judgments (UK, Canada, South Africa, U.S. state-level decisions). The harms to children — depression, anxiety, trauma reactions, suicidal ideation, impaired attachment, intergenerational transmission — are documented across multiple research programmes in multiple countries.*
 >
-> *At the same time, the empirical evidence base has acknowledged quality limitations (Saini et al. 2016); "parental alienation" is not a recognised diagnosis in DSM-5 or ICD-11; major bodies including the APA, APSAC, WHO, GREVIO, and most recently the UN Special Rapporteur on violence against women have raised serious concerns about the *use* of PA framing in family courts — in particular, that PA cross-claims can be deployed to defeat credible abuse allegations and reverse custody to abusers (Meier 2020; [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)).*
+> *At the same time, the empirical evidence base has acknowledged quality limitations ([Saini et al](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535). 2016); "parental alienation" is not a recognised diagnosis in DSM-5 or ICD-11; major bodies including the APA, APSAC, WHO, GREVIO, and most recently the UN Special Rapporteur on violence against women have raised serious concerns about the *use* of PA framing in family courts — in particular, that PA cross-claims can be deployed to defeat credible abuse allegations and reverse custody to abusers ([Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)).*
 >
 > *Any case for "PA as child abuse" that is intellectually honest must (a) ground the claim in **behaviour and outcome**, not in a contested diagnostic label; (b) acknowledge the asymmetric forensic misuse documented by Meier and others; and (c) treat APSAC's caution — that "a child's avoidance of a parent is not sufficient evidence of psychological abuse by the other parent" — as a non-negotiable epistemic guardrail.*
 
@@ -388,6 +388,8 @@ See §2.6 (GREVIO) and §2.1 (Reem Alsalem, UN Special Rapporteur, calling for r
 ---
 
 *Compiled 2026-05-25 for AntiAlienate-knowledge (CC BY 4.0). Items marked **\[secondary verification only]** require direct re-verification against the original source before publication.*
+
+
 
 
 

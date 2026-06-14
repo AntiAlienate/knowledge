@@ -145,3 +145,40 @@ California's three-statute architecture (§§ 3011 + 3020 + 3040) is **the most 
 - **Statute citations:** Cal. Fam. Code §§ 3011, 3020, 3040
 - **Recent amendments:** § 3011 amended by Stats. 2023, Ch. 493, Sec. 2 (SB 599) effective 1 January 2024 — adds the written-reasons requirement at (a)(5)(A) on safety-implicated custody orders. § 3020 amended by Stats. 2019, Ch. 551, Sec. 2 (SB 495) effective 1 January 2020 — adds (d) sex/gender-identity exclusion. § 3040 amended for the 2024 mental-illness reasons-finding requirement at (d).
 - **Status:** Public domain — California state statutes are not subject to copyright (general principle that government-authored law is public domain).
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+
+<!-- AA-CROSSLINK-END -->

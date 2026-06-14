@@ -81,7 +81,7 @@
 
 ### 1.4 Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) — SCL-90-R study (the "739 Italian adults" study)
 
-**Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — URL: https://pubmed.ncbi.nlm.nih.gov/25613416/
+**Citation.** Bernet, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — URL: https://pubmed.ncbi.nlm.nih.gov/25613416/
 
 **Sample / method.** 739 Italian adults surveyed in Chieti retrospectively about childhood PA exposure (Baker Strategy Questionnaire) and current symptomatology (SCL-90-R).
 
@@ -283,7 +283,7 @@ See §1.6. Self-reported reduced or delayed educational/career attainment attrib
 
 ### 7.1 [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) — explicit comparison frame
 
-**Citation.** Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental alienating behaviors: An unacknowledged form of family violence. *Psychological Bulletin*, 144(12), 1275–1299. https://doi.org/10.1037/bul0000175 — PubMed 30475019 — URL: https://pubmed.ncbi.nlm.nih.gov/30475019/
+**Citation.** Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental alienating behaviors: An unacknowledged form of family violence. *Psychological Bulletin*, 144(12), 1275–1299. https://doi.org/10.1037/bul0000175 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 30475019 — URL: https://pubmed.ncbi.nlm.nih.gov/30475019/
 
 **Verbatim from abstract.** "Despite affecting millions of families around the world, parental alienation has been largely unacknowledged or denied by legal and health professionals as a form of family violence. This complex form of aggression entails a parental figure engaging in the long-term use of a variety of aggressive behaviors to harm the relationship between their child and another parental figure, and/or to hurt the other parental figure directly because of their relationship with their child. Like other forms of family violence, parental alienation has serious and negative consequences for family members, yet victims are often blamed for their experience. … a formal review and comparison of parental alienating behaviors and outcomes to child abuse and intimate partner violence has been sorely needed."
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

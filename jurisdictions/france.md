@@ -21,7 +21,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
   - Pose l'obligation pour chaque parent de maintenir les relations personnelles de l'enfant avec l'autre parent; mobilisé tant par le camp recognition (pour caractériser un 'parent aliénant') que par le camp critique (pour articuler le contrôle coercitif avec la mise en danger).
 - **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 373-2-11** — Critères du JAF pour statuer sur les modalités d'exercice de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426847>
   - Énumère les critères (pratique antérieure, sentiments de l'enfant, aptitude des parents, expertises, pressions/violences subies); article central dans Cass 1re Civ 26.6.2013 n° 12-14.392 où la 1re Civ a refusé de contrôler l'appréciation souveraine de la cour d'appel.
-- **Code civil art. 373-2-12** — Enquête sociale ordonnée par le juge (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426848>
+- **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 373-2-12** — Enquête sociale ordonnée par le juge (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426848>
   - Fondement procédural de l'enquête sociale et de l'expertise psychologique/psychiatrique au stade JAF; cadre dans lequel s'inscrivent les rapports d'expertise mobilisant ou critiquant le SAP.
 - **Code civil art. 373-2-13** — Modification à tout moment des décisions relatives à l'exercice de l'autorité parentale (2002) — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426849>
   - Permet la révision à tout moment des décisions relatives à l'autorité parentale (translation_en: 'modification at any time'); fonde les requêtes en transfert de résidence dans les dossiers SAP-cadrés.
@@ -33,7 +33,7 @@ France is a civil-law jurisdiction whose family courts operate through the juge 
   - Aligne le droit français sur les recommandations CIIVISE 2023; encadre la suspension de l'exercice de l'autorité parentale en cas de violences intrafamiliales — ressort hostile à toute lecture SAP des refus de contact.
 - **Loi n° 2024-1247 du 30 décembre 2024** — Loi visant à reconnaître le contrôle coercitif (Durand-influenced; Gruev-Vintila academic anchor) (2024) — <https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050880856>
   - Reconnaissance législative du contrôle coercitif (coercive control) — concept porté académiquement par Andreea Gruev-Vintila (Université Paris Nanterre); déplace le cadre interprétatif des refus de contact du registre SAP vers celui des violences psychologiques systémiques.
-- **Règlement (UE) 2016/679 (RGPD) + Loi Informatique et Libertés (LIL)** — Anonymisation des décisions de justice — open data Légifrance/Cour de cassation (2018) — <https://www.cnil.fr/fr/reglement-europeen-protection-donnees>
+- **Règlement (UE) 2016/679 (RGPD) + Loi Informatique et Libertés (LIL)** — Anonymisation des décisions de justice — open data Légifrance/[Cour de cassation](https://www.courdecassation.fr/) (2018) — <https://www.cnil.fr/fr/reglement-europeen-protection-donnees>
   - Base juridique de l'anonymisation des décisions publiées (M. X / Mme Y, initiales); contraint la manière dont les arrêts familiaux apparaissent dans Recueil/JuriCA/Légifrance.
 
 ## Apex courts
@@ -116,7 +116,7 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 
 1. **Légifrance — Code civil (arts. 371-1 et s.) consolidé** — <https://www.legifrance.gouv.fr/codes/texte_lc/LEGITEXT000006070721/> (Direction de l'information légale et administrative (DILA)) [fr]
 2. **Cour de cassation — arrêt 1re Civ., 26 juin 2013, n° 12-14.392** — <https://www.courdecassation.fr/decision/5fca5949f2e58f009e7af00c> (Cour de cassation) [fr]
-3. **Conseil constitutionnel — recueil des décisions** — <https://www.conseil-constitutionnel.fr/decisions> (Conseil constitutionnel) [fr]
+3. **[Conseil constitutionnel](https://www.conseil-constitutionnel.fr/) — recueil des décisions** — <https://www.conseil-constitutionnel.fr/decisions> (Conseil constitutionnel) [fr]
 4. **JuriCA — base des arrêts des cours d'appel** — <https://www.courdecassation.fr/recherche-judilibre> (Cour de cassation / DILA) [fr]
 5. **Dalloz / Cairn — doctrine et revues juridiques** — <https://www.dalloz.fr/> (Éditions Dalloz / Cairn.info) [fr]
 6. **Recueil Cassation — Bulletin officiel des arrêts** — <https://www.courdecassation.fr/publications/bulletin> (Cour de cassation) [fr]
@@ -142,6 +142,8 @@ La Cour de cassation anonymise les parties familiales par initiales (M. X / Mme 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

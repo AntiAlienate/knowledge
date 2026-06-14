@@ -99,7 +99,7 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 [
 | **England & Wales** | [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.1(1) | Welfare PARAMOUNT consideration | Re Y EWFC 38 2026 |
 | **Scotland** | Children (Scotland) Act 1995 s.11(7) | Welfare PARAMOUNT consideration | NF v AF 2025 CSOH 13 |
 | **Northern Ireland** | Children (NI) Order 1995 art. 3(1) | Welfare paramount consideration | A Father v A Mother (No.2) 2022 |
-| **Wales** | Children Act 1989 s.1(1) | Welfare PARAMOUNT (unified E&W) | unified with E&W |
+| **Wales** | [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) s.1(1) | Welfare PARAMOUNT (unified E&W) | unified with E&W |
 | **South Africa** | Constitution 1996 s.28(2) | CONSTITUTIONAL paramount importance | TLD v BG 2023 ZAGPJHC 801 |
 | **Australia** | FLA s.60CC (post-2023) | Safety PRIMARY consideration | Green & Green 2024 FedCFamC1F 896 |
 | **New Zealand** | CoCA 2004 s.5(a) | Safety primary consideration | — (institutional rather than apex case-law) |
@@ -110,7 +110,7 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 [
 | **Argentina** | CCyC art. 671 + UN CRC bloque | Best-interests | CSJN P.B.E.G 2021 |
 | **Colombia** | Const. art. 44 | PREVALENCE over other rights | Corte Const. T-526/2023 |
 | **Brazil** | Const. 1988 art. 227 + ECA | ABSOLUTA PRIORIDADE | STJ Andrighi line 2024 |
-| **Italy** | Civil Code + Cassazione | Best-interests via procedural-due-diligence | Cassazione 9691/2022 |
+| **Italy** | Civil Code + [Cassazione](https://www.cortedicassazione.it/) | Best-interests via procedural-due-diligence | Cassazione 9691/2022 |
 | **Germany** | Grundgesetz Art. 6(2) + 2(1) | Parental rights + child personality rights | [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 |
 | **Spain** | Const. art. 39 + Código Civil art. 154 + LOPIVI | Interés superior + statutory inadmission | STS 519/2017 + LOPIVI 17ª |
 | **Netherlands** | BW + Jeugdwet | Substantive best-interests | NJI Richtlijn 2020 + Expertteam 2021 |
@@ -128,6 +128,8 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 [
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
+
+
 
 
 

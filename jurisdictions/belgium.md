@@ -32,9 +32,9 @@ Belgium is a federal civil-law jurisdiction structurally shaped by its community
 
 ## Apex courts
 
-### Cour de cassation de Belgique / Hof van Cassatie
+### [Cour de cassation](https://www.courdecassation.fr/) de Belgique / Hof van Cassatie
 <https://www.cass.be/>
-- **Cass. 6 mars 2025, C.24.0157.F — addresses inexécution des décisions du tribunal de la famille relatives à l'hébergement under art. 387ter Code civil. NOT a PA-construct-qualifying apex decision; the Cour de cassation has not yet ruled on the scientific validity of the parental-alienation construct.** (2025) — middle
+- **Cass. 6 mars 2025, C.24.0157.F — addresses inexécution des décisions du tribunal de la famille relatives à l'hébergement under art. 387ter [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/). NOT a PA-construct-qualifying apex decision; the Cour de cassation has not yet ruled on the scientific validity of the parental-alienation construct.** (2025) — middle
 - **No apex Cour de cassation / Hof van Cassatie ruling has been issued qualifying or disqualifying the PA/PAS construct. This places Belgium with the Netherlands and Germany in the EU6 'no-apex-PA-position' cluster, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).** (2026) — middle
 
 ### Cour constitutionnelle / Grondwettelijk Hof
@@ -128,6 +128,8 @@ Belgian Cour de cassation and Cours d'appel anonymise minor children consistentl
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

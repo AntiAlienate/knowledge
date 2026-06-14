@@ -66,7 +66,7 @@ J&K family-court decisions are anonymised per Indian High Court practice using i
 
 1. **High Court of Jammu and Kashmir and Ladakh** — <https://jkhighcourt.nic.in/> (Indian Government) [en]
 2. **India Code** — <https://www.indiacode.nic.in/> (Indian Government) [en]
-3. **Supreme Court of India** — <https://main.sci.gov.in/> (Indian Government) [en]
+3. **[Supreme Court of India](https://main.sci.gov.in/)** — <https://main.sci.gov.in/> (Indian Government) [en]
 
 ## Editorial notes
 
@@ -78,6 +78,8 @@ J&K family-court decisions are anonymised per Indian High Court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

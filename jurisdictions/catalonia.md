@@ -73,7 +73,7 @@ Catalan family-court decisions are anonymised per Catalan court practice using i
 
 1. **Parlament de Catalunya** — <https://www.parlament.cat/> (Catalan Government) [ca]
 2. **Tribunal Superior de Justícia de Catalunya** — <https://www.poderjudicial.es/> (Spanish Government) [ca]
-3. **Tribunal Constitucional de España** — <https://www.tribunalconstitucional.es/> (Spanish Government) [es]
+3. **[Tribunal Constitucional](https://www.tribunalconstitucional.es/) de España** — <https://www.tribunalconstitucional.es/> (Spanish Government) [es]
 
 ## Editorial notes
 
@@ -85,6 +85,8 @@ Catalan family-court decisions are anonymised per Catalan court practice using i
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

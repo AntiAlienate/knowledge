@@ -31,7 +31,7 @@ Chile: Boletín 10.516-18 (proyecto que reconocía SAP como acto constitutivo de
 - Brazil IBDFAM/RS leadership transitioned September 2025 (Conrado Paulino da Rosa removed by IBDFAM National Board 19.9.2025; firm role unaffected per IBDFAM Nota Oficial). Entry preserved with note flagging the institutional transition.
 - Eduardo Cárdenas (AR) confusion in v1: the original brief listed him as 'ASAPMI president' — primary-source check confirmed Cárdenas was an ex-Juez de Familia whose 2000 La Ley article 'El abuso de la denuncia de abuso' introduced SAP/PA into Argentine practitioner discourse. ASAPMI's institutional stance is opposite. Cárdenas's role is historical-doctrinal and is preserved under the AR therapists file (ar.cardenas-eduardo).
 - Sonia Vaccaro — Argentine-born, Madrid-based, coiner of 'violencia vicaria' — is the only Argentine practitioner currently active in global PA-critique discourse with a peer-reviewed book (Vaccaro & Barea 2009, Desclée de Brouwer). Primary-listed under Spain therapists, cross-referenced from AR therapists. The 'violencia vicaria' frame she developed is the doctrinal hinge of Chile's Ley 21.675/2024 substitution of SAP-as-VIF.
-- Cross-jurisdictional doctrinal traffic 2023-2025: Corte Constitucional Colombia T-526/23 → cited by Diario Constitucional Chile (16.2.2024); Italian Cassazione 9691/2022 (Acierno) → reciprocally cited by Colombian and Chilean commentary; German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) → comparative anchor for European/LATAM critique convergence.
+- Cross-jurisdictional doctrinal traffic 2023-2025: Corte Constitucional Colombia T-526/23 → cited by Diario Constitucional Chile (16.2.2024); Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Acierno) → reciprocally cited by Colombian and Chilean commentary; German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) → comparative anchor for European/LATAM critique convergence.
 - Recognition pole has not produced comparable cross-LATAM citation traffic. IBDFAM (Brazil) doctrine is country-specific to Lei 12.318/2010; Mizrahi (AR) doctrine is country-specific to CCyC 2014 + Ley 24.270. No regional recognition-camp institutional vehicle equivalent to ABOFEM or Sisma Mujer.
 - Femicidio/violencia vicaria substitution as critique-camp legislative strategy: Chile Ley 21.675/2024 is the regional pilot. Spain LOPIVI Disp. ad. 17a (2021) inadmission and Italy Cassazione 9691/2022 jurisprudential line are precedents. LATAM jurisdictions other than Brazil are tracking the European critique trajectory.
 - Tier 1 named-counsel interlocutor density: BR 4 (Dias, Madaleno, Pereira, Cruz/Themis), MX 2 (Peimbert, Ríos), AR 1 (Mizrahi), CO 2 (Cabrera/Sisma, Fajardo magistrada — institutional only), CL 0 individual at apex (Muñoz as institutional). Reflects the asymmetric LATAM institutional architecture.
@@ -149,7 +149,7 @@ Ciudad Autónoma de Buenos Aires · CABA · Independent practice (Buenos Aires);
 *Advogada; sócia Themis; AAIG; Mestre em Direitos Humanos; OAB/RS 40.946*
 Porto Alegre · Rio Grande do Sul · Themis - Gênero, Justiça e Direitos Humanos; Associação Nacional de Advogadas pela Igualdade de Gênero (AAIG)
 
-**Stance:** Named lawyer behind the first STF constitutional challenge to Lei 12.318/2010 (ADI 6273/2019, dismissed unanimously by Pleno for lack of standing 17.12.2021, Rel. Min. Rosa Weber — merits untouched). Themis institutional PA-critique series sustains the position that Lei 12.318 functions as gender-based violence against women and risk to children. Co-signatory on feminist-coalition material underpinning UN SR Reem Alsalem's 2022 and 2025 calls for revocation. The single most direct interlocutor for the critique camp at apex-court level in Brazil.
+**Stance:** Named lawyer behind the first [STF](https://portal.stf.jus.br/) constitutional challenge to Lei 12.318/2010 (ADI 6273/2019, dismissed unanimously by Pleno for lack of standing 17.12.2021, Rel. Min. Rosa Weber — merits untouched). Themis institutional PA-critique series sustains the position that Lei 12.318 functions as gender-based violence against women and risk to children. Co-signatory on feminist-coalition material underpinning UN SR Reem Alsalem's 2022 and 2025 calls for revocation. The single most direct interlocutor for the critique camp at apex-court level in Brazil.
 
 **Publications:**
 - STF ADI 6273/2019 (challenged Lei 12.318/2010 constitutionality) (2021) — *STF (dismissed 17.12.2021, Rel. Min. Rosa Weber)* — <https://portal.stf.jus.br/noticias/verNoticiaDetalhe.asp?idConteudo=478866&ori=1>
@@ -557,6 +557,8 @@ Mendoza · Mendoza · Universidad Nacional de Cuyo; IDIBE (consultor académico)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -18,7 +18,7 @@ Between September 2017 and October 2025, six continental European apex jurisdict
 ### 4. Germany — [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 – 1 BvR 1076/23
 **[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (Federal Constitutional Court).** Constitutional Court qualifies SAP as "veraltet und wissenschaftlich widerlegt" (outdated and scientifically refuted). PAS-based Sachverständigengutachten constitutionally untenable under Grundgesetz Art. 6(2) parental rights + Art. 2(1) children's personality rights. The strongest constitutional-level construct critique in continental EU. Cross-link: case-study:bverfg-1-bvr-1076-23-germany-2023 + jurisdiction:germany.
 
-### 5. Italy — Cassazione Civile Sez. I, sentenza 4595/2025
+### 5. Italy — [Cassazione](https://www.cortedicassazione.it/) Civile Sez. I, sentenza 4595/2025
 **Italian Court of Cassation, First Civil Section.** Most recent Cassazione PAS-critique decision consolidating the 13217/2021 → 9691/2022 doctrinal line. Combined with the **Riforma Cartabia D.lgs. 149/2022** statutory restriction on CTU PAS-based assessments, the Italian apex critique becomes the EU's strongest statute-and-caselaw integrated stance. Cross-link: jurisdiction:italy.
 
 ### 6. Poland — Sąd Najwyższy III CZP 20/25 (3 października 2025)
@@ -45,7 +45,7 @@ Poland's **SN III CZP 20/25** is the only EU apex decision operating a **pro-enf
 SN III CZP 20/25 is the **first apex Central and Eastern European decision** in the modern EU PA-apex sequence. Prior EU apex engagement was concentrated in southern/western EU (Italy + Spain) + central EU (Germany). Polish entry extends the sequence eastward.
 
 ### 7. Strasbourg Article 8 procedural-due-diligence cuts across
-The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) establishes the Article 8 procedural-due-diligence standard that operates ABOVE domestic apex decisions. Italian Cassazione 9691/2022 explicitly engages this standard; German BVerfG operates within Convention-conform interpretation of Grundgesetz. The Strasbourg layer cuts ACROSS the EU sequence as a constraining standard rather than being part of the sequence itself. Cross-link: jurisdiction:european-convention-on-human-rights.
+The **Strasbourg Italian triptych** (Lombardo 2013 + Strumia 2016 + Improta 2017) establishes the Article 8 procedural-due-diligence standard that operates ABOVE domestic apex decisions. Italian Cassazione 9691/2022 explicitly engages this standard; German [BVerfG](https://www.bundesverfassungsgericht.de/) operates within Convention-conform interpretation of Grundgesetz. The Strasbourg layer cuts ACROSS the EU sequence as a constraining standard rather than being part of the sequence itself. Cross-link: jurisdiction:european-convention-on-human-rights.
 
 ### 8. Comparative outside the sequence
 - **France** — [Cour de cassation](https://www.courdecassation.fr/) 12-14.392 (2013) is the foundational French Cassation engagement preceding the EU sequence; subsequent CIIVISE Durand 2024 institutional engagement. Cross-link: jurisdiction:france.
@@ -73,6 +73,8 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+
+
 
 
 

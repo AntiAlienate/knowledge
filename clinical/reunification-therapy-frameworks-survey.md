@@ -78,7 +78,7 @@ When alienation has substantially disrupted a parent-child relationship, court-o
 - **Court endorsement increases effectiveness** — voluntary alone often fails when alienating parent doesn't cooperate
 
 ### Custody Transfer
-- **Required**: Family Bridges (typically)
+- **Required**: [Family Bridges](https://warshak.com/family-bridges/) (typically)
 - **Sometimes**: Overcoming Barriers (depends on case)
 - **Rare**: MMFI, Traditional Outpatient
 
@@ -139,6 +139,8 @@ Choose a reunification framework based on:
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: Educational summary, not clinical recommendation. Selection of reunification therapy framework requires consultation with a qualified PA-informed therapist and family-law attorney familiar with the specific case dynamics. Outcomes vary substantially across cases.
+
+
 
 
 

@@ -28,7 +28,7 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 
 ## Apex courts
 
-### Tribunal Supremo, Sala Primera (Sala de lo Civil)
+### [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/), Sala Primera (Sala de lo Civil)
 <https://www.poderjudicial.es/search/indexAN.jsp>
 - **STS 519/2017, de 22 de septiembre (Sala Primera, ponente Arroyo Fiestas)** (2017) — middle — [`sts-519-2017-spain`](../case-studies/sts-519-2017-spain.md)
 
@@ -123,6 +123,8 @@ Tribunal Supremo sentences are anonymised per LOPJ art. 232 and CENDOJ publicati
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

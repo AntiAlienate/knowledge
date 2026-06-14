@@ -191,7 +191,7 @@ Mexico's PA-clinical landscape is **sparse but polarised**: SCJN's 2021 *Protoco
   - Multiple Hospital Torres Orozco research outputs on PA + suicidology overlap
 - **Primary contact:** dr_mendoza@outlook.com ; +52 144 3273 0494 ; Xengua 106, Col. Bosque Camelinas, C.P. 58290, Morelia/Michoacán
 - **Tier:** 1
-- **Hook:** **The single most institutionally connected Mexican PA-recognition clinician** — PASG + GARI-PA + CEAP + AMPFS + a public-sector psychiatric hospital chieftaincy. Any Hispanophone PASG conversation routes through him. Cross-listed in /influencers/ candidate set.
+- **Hook:** **The single most institutionally connected Mexican PA-recognition clinician** — [PASG](https://pasg.info/) + GARI-PA + CEAP + AMPFS + a public-sector psychiatric hospital chieftaincy. Any Hispanophone PASG conversation routes through him. Cross-listed in /influencers/ candidate set.
 
 ### 2. INSTITUTIONAL — [Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/) (SCJN) / Protocolo para Juzgar con Perspectiva de Infancia y Adolescencia
 - **Country / city:** MX / Ciudad de México (federal)
@@ -442,6 +442,8 @@ Chile has **no institutional doctrinal anchor on PA** — alienación parental i
 15. **Vania Apablaza** (CL) — name not retrievable; not publicly confirmed.
 16. **Corporación Humanas** (CL) — no PA-specific institutional position publicly retrievable.
 17. **Programa SENAME / mejor niñez** (CL) — no PA-specific institutional doctrine; Chile has no institutional clinical engagement on PA.
+
+
 
 
 

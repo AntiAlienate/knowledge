@@ -28,7 +28,7 @@ The ECHR has interpreted "respect for family life" as imposing **positive obliga
 
 ## How to invoke this in domestic court
 
-Cite the ECHR jurisprudence directly in motions to your national court. National courts of all 46 Council of Europe member states are bound by ECHR rulings. A motion that reads:
+Cite the ECHR jurisprudence directly in motions to your national court. National courts of all 46 [Council of Europe](https://www.coe.int/) member states are bound by ECHR rulings. A motion that reads:
 
 > *Per the [European Court of Human Rights](https://www.echr.coe.int/)' established Article 8 jurisprudence — Bondavalli v. Italy (2015), Improta v. Italy (2017), Strumia v. Italy (2016) — the State's failure to enforce contact orders against the obstructing parent is itself a violation of the [European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005). This Court is bound by that jurisprudence.*
 
@@ -36,7 +36,7 @@ Cite the ECHR jurisprudence directly in motions to your national court. National
 
 ## When to file an ECHR application directly
 
-After domestic remedies are exhausted (typically: trial court → appeal → cassation), you can file an Article 8 application directly with the European Court of Human Rights in Strasbourg. The application is free. Forms are available at https://www.echr.coe.int. Time limit: 4 months from the final domestic decision (reduced from 6 months by Protocol 15, in force since August 2021).
+After domestic remedies are exhausted (typically: trial court → appeal → cassation), you can file an Article 8 application directly with the [European Court of Human Rights](https://www.echr.coe.int/) in Strasbourg. The application is free. Forms are available at https://www.echr.coe.int. Time limit: 4 months from the final domestic decision (reduced from 6 months by Protocol 15, in force since August 2021).
 
 ## Source-blog hyperlinks
 
@@ -69,6 +69,8 @@ Educational content. **Not legal advice.**
 ---
 
 **Author byline:** Alan Markson · **License:** [CC BY 4.0](../LICENSE) · **Originally published at [antialienate.com](https://www.antialienate.com).**
+
+
 
 
 

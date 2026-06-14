@@ -104,7 +104,7 @@ Las sentencias de la SCJN, los Tribunales Colegiados de Circuito y los Tribunale
 
 ## Sources
 
-1. **Suprema Corte de Justicia de la Nación (SCJN)** — <https://www.scjn.gob.mx/> (SCJN) [es]
+1. **[Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/) (SCJN)** — <https://www.scjn.gob.mx/> (SCJN) [es]
 2. **Diario Oficial de la Federación (DOF)** — <https://www.dof.gob.mx/> (Gobierno de México) [es]
 3. **Cámara de Diputados — LeyesBiblio (legislación federal consolidada)** — <https://www.diputados.gob.mx/LeyesBiblio/> (Cámara de Diputados del H. Congreso de la Unión) [es]
 4. **Comisión Nacional de los Derechos Humanos (CNDH)** — <https://www.cndh.org.mx/> (CNDH) [es]
@@ -126,6 +126,8 @@ Las sentencias de la SCJN, los Tribunales Colegiados de Circuito y los Tribunale
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

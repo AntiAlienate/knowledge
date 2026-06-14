@@ -50,7 +50,7 @@ Polak and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluat
 ## Clinical Implications
 
 ### For Custody Evaluations
-Polak-Saini reinforces what good evaluators already did: don't conclude "alienation" or "estrangement" from a single dimension. Triangulate across multiple data sources and multiple dimensions before formulating an opinion.
+Polak-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) reinforces what good evaluators already did: don't conclude "alienation" or "estrangement" from a single dimension. Triangulate across multiple data sources and multiple dimensions before formulating an opinion.
 
 ### For Reunification Therapy
 Pure alienation may respond to alienating-parent-focused interventions (e.g., [Family Bridges](https://warshak.com/family-bridges/)). Pure estrangement requires rejected-parent rehabilitation. Hybrid cases require BOTH:
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

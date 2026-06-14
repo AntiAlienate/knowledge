@@ -19,10 +19,10 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
   - Article 6(1) right to a fair hearing within a reasonable time. Article 6 issues frequently arise in PA-adjacent fact-patterns where domestic-court delays compound contact frustration — engaged in tandem with Article 8 in the Strasbourg Italian triptych.
 - **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) Article 13** — ECHR Article 13 — right to an effective remedy (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
   - Article 13 right to an effective remedy at national level for Convention-protected rights. Frequently invoked where domestic civil enforcement mechanisms fail to enforce contact orders effectively.
-- **European Convention on Human Rights Article 35** — ECHR Article 35 — admissibility criteria (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
+- **[European Convention on Human Rights](https://www.coe.int/en/web/conventions/full-list?module=treaty-detail&treatynum=005) Article 35** — ECHR Article 35 — admissibility criteria (1950) — <https://www.echr.coe.int/documents/d/echr/Convention_ENG>
   - Art 35(1) exhaustion-of-domestic-remedies principle + Art 35(2) other admissibility criteria. Applicants must exhaust domestic remedies (typically national supreme court / constitutional court) before approaching Strasbourg. Six-month rule subsequently reduced to four months by Protocol 15.
 - **Protocol 11 (1994) — restructuring** — Protocol No. 11 — full-time Court restructuring (1998) (1994) — <https://www.echr.coe.int/protocol-eleven>
-  - Restructured the Strasbourg court into the present single full-time European Court of Human Rights (in force 1.11.1998), replacing the prior Commission + Court structure. Established the modern Chamber + Grand Chamber architecture under which the PA-adjacent Italian triptych was decided.
+  - Restructured the Strasbourg court into the present single full-time [European Court of Human Rights](https://www.echr.coe.int/) (in force 1.11.1998), replacing the prior Commission + Court structure. Established the modern Chamber + Grand Chamber architecture under which the PA-adjacent Italian triptych was decided.
 - **Protocol 15 (2013)** — Protocol No. 15 — subsidiarity and margin of appreciation (2013) — <https://www.echr.coe.int/protocol-fifteen>
   - Adds explicit references to subsidiarity and the doctrine of margin of appreciation to the Convention preamble (in force 1.8.2021). Reduces the time limit for applications from six months to four months. Frames how Strasbourg engages domestic PA-adjacent decisions — member states retain primary responsibility under subsidiarity.
 - **[UN Convention on the Rights of the Child](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) (CRC) art. 9** — UN CRC art. 9 — right to maintain contact with both parents (1989) — <https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child>
@@ -44,7 +44,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 - **Strumia v Italy (App no 53377/13, 23 June 2016) — First Section. Article 8 violation: Italian authorities failed to safeguard father-child relationship after mother's alienating behaviour. Engages procedural-due-diligence standard.** (2016) — critique — [`strumia-v-italy-echr-53377-13-2016`](../case-studies/strumia-v-italy-echr-53377-13-2016.md)
 - **Improta v Italy (App no 66396/14, 4 May 2017) — First Section. Article 8 violation: Italian authorities' failure to enforce contact and effectively address alienating behaviour by primary carer. Consolidates the Lombardo+Strumia line.** (2017) — critique — [`improta-v-italy-echr-66396-14-2017`](../case-studies/improta-v-italy-echr-66396-14-2017.md)
 
-### Council of Europe — Committee of Ministers (execution of ECHR judgments)
+### [Council of Europe](https://www.coe.int/) — Committee of Ministers (execution of ECHR judgments)
 <https://www.coe.int/en/web/cm>
 - **Council of Europe Committee of Ministers supervises execution of Strasbourg judgments under Article 46 ECHR. Italian execution of Lombardo / Strumia / Improta supervised via Committee resolutions. Execution-process layer that operationalises Article 8 PA-adjacent obligations at member-state level.** (2026) — middle
 
@@ -74,7 +74,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 - **2017** — 4 May 2017 — Improta v Italy (App no 66396/14): Art 8 violation; consolidates Lombardo+Strumia line on procedural-due-diligence standard. — <https://hudoc.echr.coe.int/>
 - **2021** — 1 August 2021 — Protocol No. 15 enters force; subsidiarity and margin of appreciation explicit in Convention preamble; time limit reduced from 6 to 4 months. — <https://www.echr.coe.int/protocol-fifteen>
 - **2022** — 12 August 2022 — UN Special Rapporteur Reem Alsalem Report A/HRC/53/36 addresses PA construct as tactic against DV-survivor mothers. Critique-anchor reference subsequently cited internationally. — <https://www.ohchr.org/en/special-procedures/sr-violence-against-women>
-- **2022** — Cassazione 9691/2022 (Italy) engages the Strasbourg triptych Article 8 obligations alongside PAS-construct disqualification; doctrinal articulation of how Italian domestic apex incorporates Strasbourg standard. — <https://www.cortedicassazione.it/>
+- **2022** — [Cassazione](https://www.cortedicassazione.it/) 9691/2022 (Italy) engages the Strasbourg triptych Article 8 obligations alongside PAS-construct disqualification; doctrinal articulation of how Italian domestic apex incorporates Strasbourg standard. — <https://www.cortedicassazione.it/>
 
 ## Structural findings
 
@@ -83,7 +83,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 - ARTICLE 8 POSITIVE OBLIGATIONS DOCTRINE: ECHR jurisprudence treats parent-child relations as engaging not only negative obligations (states must not interfere) but POSITIVE obligations (states must protect family life). PA-adjacent fact-patterns are framed as positive-obligation cases: where domestic authorities fail to enforce contact effectively, Article 8 is violated.
 - DOCTRINE OF MARGIN OF APPRECIATION: Member states have a margin of appreciation in family-law decisions but this margin narrows in matters affecting the right to family life. Protocol 15 (2013) added explicit reference to subsidiarity and margin of appreciation to the Convention preamble. Strasbourg engagement with PA-adjacent cases preserves member-state primary responsibility while imposing minimum-standard procedural duties.
 - INSTITUTIONAL CONVERGENCE WITH UN ALSALEM REPORT + MESECVI: The UN Special Rapporteur Alsalem Report A/HRC/53/36 (12.8.2022) + MESECVI Declaration 13.4.2023 + Strasbourg Article 8 jurisprudence + LATAM5 institutional anchors (Corte Constitucional Colombia T-526/2023; IEFH/IGVM Belgium 2023/001) converge on a multi-tier international critique-anchor structure. Strasbourg + UN + Inter-American + domestic-apex layers operate in tandem.
-- HAGUE CONVENTION INTERSECTION: ECtHR engages [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return proceedings under Art 8 — leading line Neulinger and Shuruk v Switzerland [GC] (2010) + X v Latvia [GC] (2013). Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
+- HAGUE CONVENTION INTERSECTION: [ECtHR](https://www.echr.coe.int/) engages [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) return proceedings under Art 8 — leading line Neulinger and Shuruk v Switzerland [GC] (2010) + X v Latvia [GC] (2013). Cross-border parental-removal cases intersect with PA-adjacent fact-patterns; Hague return analysis under Art 8 best-interests scrutiny preserves member-state apex responsibility.
 - EXECUTION SUPERVISION VIA COMMITTEE OF MINISTERS: Article 46 ECHR obliges member states to abide by ECtHR judgments. Committee of Ministers supervises execution. Italian execution of Lombardo / Strumia / Improta supervised under this process. Execution layer operationalises Strasbourg standards at member-state level beyond the individual case.
 - NO PA-CONSTRUCT-SPECIFIC ECHR JUDGMENT: The Strasbourg court has not directly assessed the scientific validity of the PA / PAS construct as a clinical category. ECtHR jurisprudence engages PA-adjacent fact-patterns via Article 8 procedural-due-diligence standard rather than via construct-validity analysis. Distinct from [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (Germany) approach which descalibratea PAS at the construct level.
 
@@ -110,7 +110,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 5. **GREVIO — Group of Experts on Action against Violence against Women** — <https://www.coe.int/en/web/istanbul-convention/grevio> (Council of Europe) [en]
 6. **UN Special Rapporteur on Violence against Women — Reem Alsalem** — <https://www.ohchr.org/en/special-procedures/sr-violence-against-women> ([OHCHR](https://www.ohchr.org/)) [en]
 7. **MESECVI — Follow-up Mechanism Belém do Pará Convention** — <https://www.oas.org/en/cim/mesecvi.asp> (OAS / Inter-American Commission of Women) [en]
-8. **Hague Conference on Private International Law (HCCH)** — <https://www.hcch.net/> (HCCH) [en]
+8. **Hague Conference on Private International Law ([HCCH](https://www.hcch.net/))** — <https://www.hcch.net/> (HCCH) [en]
 
 ## Editorial notes
 
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

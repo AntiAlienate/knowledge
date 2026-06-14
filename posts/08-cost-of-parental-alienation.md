@@ -63,7 +63,7 @@ Indirect costs: time off work, missed career advancement, geographic limitations
 ## Citations
 
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
-- Baker, A. J. L., & Verrocchio, M. C. (2015). *Journal of Child and Family Studies*, 24(7), 2179–2192.
+- [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Verrocchio, M. C. (2015). *Journal of Child and Family Studies*, 24(7), 2179–2192.
 - Boss, P. (1999). *Ambiguous Loss.*
 - Herman, J. L. (1992). *Trauma and Recovery.*
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). *Psychological Bulletin*, 144(12), 1275–1299.
@@ -75,6 +75,8 @@ Educational content. **Not clinical or legal advice.**
 ---
 
 **CC BY 4.0 · [antialienate.com](https://www.antialienate.com) · Alan Markson**
+
+
 
 
 

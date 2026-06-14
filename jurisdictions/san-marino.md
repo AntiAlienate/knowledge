@@ -45,7 +45,7 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 
 - San Marino operates an Italian-civil-law-influenced family-law framework — places San Marino in the Italian-civil-law-tradition cluster with Italy within the corpus.
 - World's oldest extant republic (traditionally 301 CE) is structurally distinctive within the corpus.
-- Council of Europe + ECHR membership + Hague Convention accession places San Marino in the European Hague/ECHR intersection cluster.
+- [Council of Europe](https://www.coe.int/) + ECHR membership + Hague Convention accession places San Marino in the European Hague/ECHR intersection cluster.
 - Micro-state status (~34,000 population, ~61 km²) is structurally distinctive within the corpus.
 
 ## See also
@@ -72,6 +72,8 @@ Sammarinese family-court decisions are anonymised per Council of Twelve practice
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -231,7 +231,7 @@ New Delhi (Tilak Marg) · Delhi NCT · Principal Counsellor, Family Court at Pat
 **Stance:** Single named court-appointed mental-health-adjacent evaluator on the record in India's apex PA-recognition Supreme Court judgment, Lt Col Vivek Singh v Romani Singh (2017) 3 SCC 231 (Bench Chelameswar J. + Sikri J., decided 13 February 2017). Ms Kanungo submitted the psychological/sociological report dated 12 December 2016 on the child's preferences, which the Supreme Court engaged when defining 'The Parental Alienation Syndrome' and assessing whether the child's stated preference for the father reflected alienation effects. Only individual Indian Family Court counsellor whose work has been engaged by the Supreme Court when defining PAS; structural counterpart of English CAFCASS or Australian FCFCOA Family Report Writer. Classified as forensic-evaluator (court-attached differential practice, not partisan recognition or critique).
 
 **Publications:**
-- Court-submitted psychological/sociological report dated 12 December 2016 on child's preferences in Lt Col Vivek Singh v Romani Singh (2016) — *Family Court Patiala House, New Delhi; engaged by Supreme Court of India in (2017) 3 SCC 231* — <https://main.sci.gov.in/judgment/judis/44566.pdf>
+- Court-submitted psychological/sociological report dated 12 December 2016 on child's preferences in Lt Col Vivek Singh v Romani Singh (2016) — *Family Court Patiala House, New Delhi; engaged by [Supreme Court of India](https://main.sci.gov.in/) in (2017) 3 SCC 231* — <https://main.sci.gov.in/judgment/judis/44566.pdf>
 
 **Verification:**
 - <https://session.delhi.gov.in/session/patiala-house>
@@ -529,7 +529,7 @@ New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic par
   - Primary source: <https://www.endvawnow.org/uploads/browser/files/staying_alive_-_6th_monitoring_report.pdf>
 - **Centre for Social Research (CSR), New Delhi** — Verified women's-rights advocacy NGO founded 1983, director Dr Ranjana Kumari; no PA-specific publication or programme located. Out-of-scope and unsourced for PA.
   - Primary source: <https://www.csrindia.org/ranjana-kumari/>
-- **Majlis Legal Centre, Mumbai** — Adjacent / out-of-scope for therapists directory: women's-rights legal-services organisation founded by Flavia Agnes; carries DV-protective critique register but no clinical-services PA stance located. Belongs in lawyer-side / institutional-critique register rather than therapists directory. Comparative-reception relevance: would engage BVerfG 1 BvR 1076/23 as authority for PA-construct critique in DV contexts.
+- **Majlis Legal Centre, Mumbai** — Adjacent / out-of-scope for therapists directory: women's-rights legal-services organisation founded by Flavia Agnes; carries DV-protective critique register but no clinical-services PA stance located. Belongs in lawyer-side / institutional-critique register rather than therapists directory. Comparative-reception relevance: would engage [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 as authority for PA-construct critique in DV contexts.
   - Primary source: <https://majlislaw.com/>
 - **MASUM (Mahila Sarvangeen Utkarsh Mandal), Pune** — Adjacent / out-of-scope for therapists directory: women's-rights / health-rights grassroots NGO; carries DV-protective register but no clinical-services PA stance located. Listed for institutional-critique register completeness; comparative-reception relevance to BVerfG 1 BvR 1076/23.
   - Primary source: <https://masum.org.in/>
@@ -552,6 +552,8 @@ New Delhi (Ghitorni) · Delhi NCT · Sakshi (registered NGO 1992); strategic par
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

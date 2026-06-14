@@ -235,7 +235,7 @@ Bristol · England · St John's Chambers (Bristol); Author, childprotectionresou
 *Barrister (Bar of England & Wales; called 1995); Qualified arbitrator and mediator; BSB-regulated*
 London · England · 5 St Andrew's Hill (5SAH), London — Joint Head of Family Team, Deputy Head of Chambers
 
-**Stance:** Rare UK barrister with arbitrator/mediator dual hat — opens ADR-route PA work. Successful appeal for applicant mother in Re T (A Child) (s.9(6) Children Act 1989 orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam); successful appeal preventing publication of named-parent High Court PA judgment (mother as appellant). Position is procedural-middle (Family Procedure Rules / ADR) grounded in successful-mother-appellant practice.
+**Stance:** Rare UK barrister with arbitrator/mediator dual hat — opens ADR-route PA work. Successful appeal for applicant mother in Re T (A Child) (s.9(6) [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) orders: Exceptional Circumstances: Parental Alienation) [2024] EWHC 59 (Fam); successful appeal preventing publication of named-parent High Court PA judgment (mother as appellant). Position is procedural-middle (Family Procedure Rules / ADR) grounded in successful-mother-appellant practice.
 
 **Publications:**
 - High Court confirms the importance of a young person's wishes and feelings when considering if a child arrangements order should be made beyond the age of 16 (2024) — *5SAH Knowledge Hub* — <https://www.5sah.co.uk/knowledge-hub/articles/2024-04-24/high-court-confirms-the-importance-of-a-young-persons-wishes-and-feelings-when-considering-if-a-child-arrangements-order-should-be-made-beyond-the-age-of-16>
@@ -416,6 +416,8 @@ London + Birmingham (multi-site) · England (UK-wide practice) · No5 Chambers �
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

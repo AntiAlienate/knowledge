@@ -71,7 +71,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 - **1985** — Richard Gardner — coinage of 'Parental Alienation Syndrome' (Cresskill NJ private publication; Creative Therapeutics 1992). Foundational PAS-construct introduction subsequently anchoring the recognition-camp US clinical literature. — <https://www.amazon.com/Parental-Alienation-Syndrome-differentiation-fabricated/dp/0933812426>
 - **1996** — Tropea v Tropea 87 NY2d 727 (1996) — New York Court of Appeals — relocation BIOC framework. — <https://law.justia.com/cases/new-york/court-of-appeals/1996/87-n-y-2d-727-0.html>
 - **2000** — Troxel v Granville 530 US 57 (2000) — Supreme Court of the United States — fundamental parental-rights frame for third-party visitation. — <https://supreme.justia.com/cases/federal/us/530/57/>
-- **2006** — AFCC Model Standards for Child Custody Evaluations (2006, updated 2022) — de facto national US practice standard for custody evaluation. — <https://www.afccnet.org/>
+- **2006** — [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (2006, updated 2022) — de facto national US practice standard for custody evaluation. — <https://www.afccnet.org/>
 - **2011** — [AACAP](https://www.aacap.org/) Practice Parameter for Child Custody Evaluation (2011) — engages alienation behaviours within differential-diagnosis frame without endorsing PAS-as-syndrome. — <https://www.aacap.org/>
 - **2013** — [DSM-5](https://www.appi.org/products/dsm) — Child Affected by Parental Relationship Distress (CAPRD) V/Z-code (V995.51 / Z62.898) introduced. — <https://www.psychiatry.org/psychiatrists/practice/dsm>
 - **2015** — Tsimhoni v Eibschitz-Tsimhoni (Oakland County Michigan Family Division, 2015) — high-profile state-trial-level PA case engaging the Michigan FOC framework and §722.23 BIOC twelve-factor test. — <https://www.canlii.org/>
@@ -114,7 +114,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 3. **National Center for State Courts (NCSC)** — <https://www.ncsc.org/> (NCSC) [en]
 4. **Association of Family and Conciliation Courts (AFCC)** — <https://www.afccnet.org/> (AFCC) [en]
 5. **American Psychological Association (APA)** — <https://www.apa.org/> (APA) [en]
-6. **American Academy of Child and Adolescent Psychiatry (AACAP)** — <https://www.aacap.org/> (AACAP) [en]
+6. **American Academy of Child and Adolescent Psychiatry ([AACAP](https://www.aacap.org/))** — <https://www.aacap.org/> (AACAP) [en]
 7. **Association of State and Provincial Psychology Boards (ASPPB)** — <https://www.asppb.net/> (ASPPB) [en]
 8. **California Department of Consumer Affairs — license search** — <https://search.dca.ca.gov/> (California DCA) [en]
 9. **[DSM-5](https://www.appi.org/products/dsm)-TR — Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition, Text Revision** — <https://www.psychiatry.org/psychiatrists/practice/dsm> (American Psychiatric Association) [en]
@@ -131,6 +131,8 @@ US state-court family-law decisions vary significantly: California / New York ro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

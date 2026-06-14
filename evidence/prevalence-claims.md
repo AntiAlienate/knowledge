@@ -86,7 +86,7 @@ A **point estimate produced by multiplying three uncertain proportions**. It is 
 
 ### 2.3 Headline figures (as reported by the authors and re-stated in [Harman et al. 2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/)
 
-From Harman et al. (2019) §1 (verbatim of their own 2016 summary): "Results indicated that **13.4% of parents reported being the targets of PABs which, based on the U.S. population at the time of the survey, generalizes to an estimated 22,141,650 adults in the U.S.** Notably, about half of the sample rated their experience as 'severe' (Harman, Leder-Elder, & Biringen, 2016)." Also reported in the 2019 paper §4: "13.4% of parents (or **9.03% of the entire sample**) had been alienated from one or more of their children (Harman et al., 2016)."
+From [Harman et al. (2019)](https://pubmed.ncbi.nlm.nih.gov/30080055/) §1 (verbatim of their own 2016 summary): "Results indicated that **13.4% of parents reported being the targets of PABs which, based on the U.S. population at the time of the survey, generalizes to an estimated 22,141,650 adults in the U.S.** Notably, about half of the sample rated their experience as 'severe' (Harman, Leder-Elder, & Biringen, 2016)." Also reported in the 2019 paper §4: "13.4% of parents (or **9.03% of the entire sample**) had been alienated from one or more of their children (Harman et al., 2016)."
 
 ### 2.4 The authors' own caveats (verbatim, Harman et al. 2019 §1)
 
@@ -174,7 +174,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ### 5.1 Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) — SCL-90-R study
 
-**Citation.** Bernet, W., Baker, A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — https://pubmed.ncbi.nlm.nih.gov/25613416/
+**Citation.** Bernet, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Verrocchio, M. C. (2015). Symptom Checklist-90-Revised scores in adult children exposed to alienating behaviors: An Italian sample. *Journal of Forensic Sciences*, 60(2), 357–362. https://doi.org/10.1111/1556-4029.12681 — [PubMed](https://pubmed.ncbi.nlm.nih.gov/) 25613416 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 
 **Sample.** N = 739 adults in Chieti, Italy. Retrospective survey: Baker Strategy Questionnaire (childhood PA exposure) + SCL-90-R (current symptomatology).
 
@@ -205,7 +205,7 @@ From the abstract: "6.7% of the parents had children who were moderately to seve
 
 ### 6.1 Citation and access
 
-**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. Chapter 13 (pp. 374–430) in L. Drozd, M. Saini, & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed.). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — open PDF (Nevada Supreme Court session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
+**Citation.** [Saini, M](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)., Johnston, J. R., Fidler, B. J., & Bala, N. (2016). Empirical Studies of Alienation. Chapter 13 (pp. 374–430) in L. Drozd, M. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), & N. Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed.). Oxford University Press. https://doi.org/10.1093/med:psych/9780199396580.003.0013 — open PDF (Nevada Supreme Court session materials): https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf
 
 ### 6.2 Methodology
 
@@ -284,7 +284,7 @@ This is the central scholarly battle over PA in family courts. It is not strictl
 
 ### 10.2 Harman & Lorandos (2021) — the critique
 
-**Citation.** Harman, J. J., & Lorandos, D. (2021). Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law*, 27(2), 184–208. https://doi.org/10.1037/law0000301 — **[secondary verification only]** for verbatim text. Their claim: "many inaccurate and misleading statements" in Meier; "at least 30 conceptual and methodological problems."
+**Citation.** Harman, J. J., & Lorandos, D. (2021). Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law*, 27(2), 184–208. https://doi.org/10.1037/law0000301 — **[secondary verification only]** for verbatim text. Their claim: "many inaccurate and misleading statements" in [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); "at least 30 conceptual and methodological problems."
 
 ### 10.3 The published exchange
 
@@ -417,7 +417,7 @@ Contributor-invitation content. The literature converges on these elements:
 - Harman, Leder-Elder & Biringen (2016), NC poll: https://doi.org/10.1016/j.childyouth.2016.04.021
 - Hine, Harman, Leder-Elder & Bates (2025), UK separated parents: https://link.springer.com/article/10.1007/s10896-025-00910-4
 - Hine, Harman, Leder-Elder & Bates (2026), UK 18–25: https://doi.org/10.3389/fpubh.2026.1803173
-- Bernet, von Boch-Galhau, Baker & Morrison (2010), DSM-V / ICD-11: https://doi.org/10.1080/01926180903586583
+- Bernet, von Boch-Galhau, Baker & Morrison (2010), DSM-V / [ICD-11](https://icd.who.int/): https://doi.org/10.1080/01926180903586583
 - Bernet, Baker & Verrocchio (2015), SCL-90-R Italian: https://doi.org/10.1111/1556-4029.12681 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 - Verrocchio, Marchetti & Fulcheri (2015): https://doi.org/10.3389/fpsyg.2015.01760
 - Verrocchio, Baker & Bernet (2016): https://doi.org/10.1111/1556-4029.13046 — https://pubmed.ncbi.nlm.nih.gov/27122408/
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

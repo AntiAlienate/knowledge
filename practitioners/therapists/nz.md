@@ -288,7 +288,7 @@ Dunedin · Otago · Children's Issues Centre, Faculty of Law, University of Otag
 
 **Contact:** Via Children's Issues Centre University of Otago; cic@otago.ac.nz
 
-*Notes: Law-faculty-affiliated childhood-studies academic, not psychology-scope. Children's Issues Centre is citable NZ institutional gateway for child-inclusive practice research. [AFCC](https://www.afccnet.org/) Adelaide preconference role is the most directly verifiable NZ AFCC-aligned voice.*
+*Notes: Law-faculty-affiliated childhood-studies academic, not psychology-scope. Children's Issues Centre is citable NZ institutional gateway for child-inclusive practice research. [AFCC](https://www.afccnet.org/) Adelaide preconference role is the most directly verifiable NZ [AFCC](https://www.afccnet.org/)-aligned voice.*
 
 **See also:** `jurisdiction:new-zealand`, `practitioner:nz.goldson-jill`, `practitioner:nz.elizabeth-vivienne`, `practitioner:nz.atwool-nicola`, `practitioner:nz.nz-fc-specialist-report-writers`, `practitioner:nz.nzccp`
 
@@ -466,6 +466,8 @@ London · England (cross-jurisdictional) · Family Separation Clinic, London (UK
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

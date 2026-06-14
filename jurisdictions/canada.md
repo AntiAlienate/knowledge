@@ -18,7 +18,7 @@ Canada operates a bifurcated federal common-law / Quebec civil-law architecture 
 - **[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16(3)(j)** — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16(3)(j) — family-violence factor (2021) — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
   - [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) inserted explicit family-violence factor into s.16(3) requiring courts to consider any family violence, its nature, seriousness and frequency, and its impact on the child's safety and well-being. The substantive evidential frame against which PA-adjacent allegations are now decided in federal divorce-jurisdiction proceedings.
 - **Children's Law Reform Act R.S.O. 1990, c. C.12 (Ontario)** — Children's Law Reform Act (Ontario) — parenting orders for unmarried parents (1990) — <https://www.ontario.ca/laws/statute/90c12>
-  - Ontario provincial substantive statute for unmarried parents' parenting orders. s.24 best-interests-of-the-child test and s.112 Office of the Children's Lawyer Clinical Investigator authority. Substantive Ontario hook for PA-adjacent fact-patterns outside the Divorce Act.
+  - Ontario provincial substantive statute for unmarried parents' parenting orders. s.24 best-interests-of-the-child test and s.112 Office of the Children's Lawyer Clinical Investigator authority. Substantive Ontario hook for PA-adjacent fact-patterns outside the [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/).
 - **Child, Youth and Family Services Act 2017 (Ontario)** — Child, Youth and Family Services Act 2017 (CYFSA) — Ontario child-protection statute (2017) — <https://www.ontario.ca/laws/statute/17c14>
   - Ontario child-protection statute replacing the prior CFSA. s.89 Office of the Children's Lawyer Legal Representation authority. Provides the child-protection statutory hook within which OCL Clinical Investigator reports operationalise PA-construct engagement when child-protection concerns intersect with parenting disputes.
 - **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec (CCQ) Livre deuxième - De la famille (art. 522-612)** — [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec — droit de la famille (Livre II) (1991) — <https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991>
@@ -76,7 +76,7 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 - **2016** — Williamson v. Williamson 2016 BCCA 87 — BC Court of Appeal — canonical Canadian citation for residential reunification-programme litigation (Family Reflections Reunification Program Reay BC). — <https://www.canlii.org/en/bc/bcca/doc/2016/2016bcca87/2016bcca87.html>
 - **2017** — Child, Youth and Family Services Act 2017 (Ontario, CYFSA) — replaces prior CFSA; s.89 OCL Legal Representation authority. — <https://www.ontario.ca/laws/statute/17c14>
 - **2020** — Quebec — 'Rebâtir la confiance' report on domestic violence in family court (December 2020). Doctrinal anchor for Quebec critique-camp policy infrastructure. — <https://www.scf.gouv.qc.ca/>
-- **2021** — 1.3.2021 — Bill C-78 in force — rewrites Divorce Act s.16 with non-exhaustive best-interests factor list including explicit s.16(3)(j) family-violence factor; replaces custody/access terminology with parenting time / decision-making responsibility / contact. — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
+- **2021** — 1.3.2021 — [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) in force — rewrites Divorce Act s.16 with non-exhaustive best-interests factor list including explicit s.16(3)(j) family-violence factor; replaces custody/access terminology with parenting time / decision-making responsibility / contact. — <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>
 - **2024** — 2024 — National Association of Women and the Law (NAWL) brief to FEWO calling for STATUTORY BAN on PA accusations in Canadian family law. Load-bearing critique-camp policy anchor. — <https://nawl.ca/>
 
 ## Structural findings
@@ -108,7 +108,7 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 
 1. **Department of Justice Canada — laws-lois.justice.gc.ca** — <https://laws-lois.justice.gc.ca/> (Department of Justice Canada) [en]
 2. **[CanLII](https://www.canlii.org/) — Canadian Legal Information Institute** — <https://www.canlii.org/> (Canadian Legal Information Institute) [en]
-3. **Supreme Court of Canada** — <https://www.scc-csc.ca/> (Supreme Court of Canada) [en]
+3. **[Supreme Court of Canada](https://www.scc-csc.ca/)** — <https://www.scc-csc.ca/> (Supreme Court of Canada) [en]
 4. **Office of the Children's Lawyer (Ontario)** — <https://www.ontario.ca/page/office-childrens-lawyer> (Ministry of the Attorney General (Ontario)) [en]
 5. **Société québécoise d'information juridique (SOQUIJ)** — <https://soquij.qc.ca/> (Gouvernement du Québec) [fr]
 6. **College of Psychologists of Ontario (CPO/CPBAO)** — <https://www.cpbao.ca/> (CPO) [en]
@@ -118,7 +118,7 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 
 ## Editorial notes
 
-- Primary-source order: laws-lois.justice.gc.ca for federal statutes; CanLII for case-law (LAG v DKB + Williamson + SCC); provincial law-society / college sources for regulatory; SOQUIJ for francophone Quebec material; OCL for Ontario institutional.
+- Primary-source order: laws-lois.justice.gc.ca for federal statutes; [CanLII](https://www.canlii.org/) for case-law (LAG v DKB + Williamson + SCC); provincial law-society / college sources for regulatory; SOQUIJ for francophone Quebec material; OCL for Ontario institutional.
 - Bilingualism strictly preserved: French and English parallel terms given ([Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Québec / Civil Code; Cour supérieure du Québec / Quebec Superior Court; Ordre des psychologues du Québec / Order of Psychologists of Quebec).
 - Canada is treated as a federal jurisdiction with material provincial differences flagged; the four most-populous provinces (Ontario / Quebec / BC / Alberta) are statutorily foregrounded; smaller-province Family Law Acts and Colleges are referenced where institutionally relevant.
 - Quebec civil-law tradition is institutionally distinct from anglophone-common-law Canada — recognised in statutory_framework (CCQ + LPJ) and structural_findings[6].
@@ -129,6 +129,8 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -323,13 +323,15 @@ Bogotá D.C. · Cundinamarca (sede nacional); cobertura nacional · Defensoría 
   - Primary source: <https://sismamujer.org/>
 - **Peritos psicólogos forenses en juzgados de familia (Bogotá, Medellín, Cali)** — ethical-naming safeguard — siguiendo regla editorial aplicada al patrón Argentina (AR), no se nombran peritos psicólogos forenses individuales operando en juzgados de familia colombianos salvo que sean también autores publicados con posición pública documentable. Los/as peritos del aparato pericial colombiano (Defensorías de Familia, ICBF; CTI Fiscalía; Medicina Legal) operan bajo encargo judicial y su naming requeriría confirmación primaria caso-a-caso. Se excluye categóricamente como entrada general.
   - Primary source: <https://www.icbf.gov.co/>
-- **[Corte Suprema de Justicia](https://www.csjn.gov.ar/) — Sala Civil (línea pre-2023)** — structural exclusion — la Corte Suprema de Justicia Sala Civil mantuvo una línea jurisprudencial pre-2023 que no aplicaba perspectiva de género en casos invocando AP (criticada explícitamente por T-526/23 de la Corte Constitucional). No es una entrada institucional crítica sino una contraparte jurisdiccional cuya línea fue corregida por la Corte Constitucional. Documentada en jurisdictional_context como contexto pero no como entrada per se.
+- **[Corte Suprema de Justicia](https://www.csjn.gov.ar/) — Sala Civil (línea pre-2023)** — structural exclusion — la [Corte Suprema de Justicia](https://www.csjn.gov.ar/) Sala Civil mantuvo una línea jurisprudencial pre-2023 que no aplicaba perspectiva de género en casos invocando AP (criticada explícitamente por T-526/23 de la Corte Constitucional). No es una entrada institucional crítica sino una contraparte jurisdiccional cuya línea fue corregida por la Corte Constitucional. Documentada en jurisdictional_context como contexto pero no como entrada per se.
   - Primary source: <https://cortesuprema.gov.co/>
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

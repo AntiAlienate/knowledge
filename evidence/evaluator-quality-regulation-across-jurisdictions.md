@@ -52,7 +52,7 @@ HK structural specificity: H v W [2021] HKCA 733 (Lam VP, Yuen JA, B Chu J) enga
 Across 8 jurisdictions surveyed, evaluator-quality concerns surface independently but are addressed through **structurally diverse routes**: apex case-law (E&W) + statute-and-rules (Australia + Italy) + professional standards (SA) + academic-legal critique (NZ) + institutional advisory (NL) + institutional integration (Singapore + HK). The route taken depends on the jurisdiction's regulatory architecture maturity and judicial-output capacity.
 
 ### 2. Re Y EWFC 38 is the strongest apex case-law route
-**England and Wales Re Y [2026] EWFC 38** is the strongest single apex case-law evaluator-quality decision in the corpus. McFarlane P's HCPC-registration kitemark requirement flows UK-wide via HCPC statutory framework. The named-evaluator (Melanie Gill) approach is operationally significant — directly disciplines individual practice through Court of Appeal precedent.
+**England and Wales Re Y [2026] EWFC 38** is the strongest single apex case-law evaluator-quality decision in the corpus. McFarlane P's [HCPC](https://www.hcpc-uk.org/)-registration kitemark requirement flows UK-wide via HCPC statutory framework. The named-evaluator (Melanie Gill) approach is operationally significant — directly disciplines individual practice through Court of Appeal precedent.
 
 ### 3. FLA s.121 anonymisation precludes named-evaluator route in Australia
 **Australian operational distinction**: FLA s.121 anonymisation regime prevents named-evaluator case-law equivalent to Re Y. Schedule 2 reform (2023 Amendment Act, in force 6.5.2024) is the structural alternative — addressing evaluator-quality through statutory CCR regime rather than appellate-named-evaluator decisions.
@@ -104,6 +104,8 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 ---
 
 *Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+
+
 
 
 

@@ -42,7 +42,7 @@ Azerbaijani family-court decisions are anonymised per Supreme Court practice usi
 
 ## Structural findings
 
-- Azerbaijan operates a post-Soviet civil-law framework with Council of Europe + ECHR membership — places Azerbaijan in the post-Soviet civil-law + ECHR cluster alongside Armenia and Georgia within the corpus.
+- Azerbaijan operates a post-Soviet civil-law framework with [Council of Europe](https://www.coe.int/) + ECHR membership — places Azerbaijan in the post-Soviet civil-law + ECHR cluster alongside Armenia and Georgia within the corpus.
 - Non-Hague Convention status places Azerbaijan in the non-Hague South Caucasus cluster — structural distinction from Hague-acceding Armenia and Georgia.
 - Civil-law framework without explicit Islamic-law personal-status jurisdiction distinguishes Azerbaijan from MENA religious-law cluster despite Muslim-majority demography.
 
@@ -71,6 +71,8 @@ Azerbaijani family-court decisions are anonymised per Supreme Court practice usi
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

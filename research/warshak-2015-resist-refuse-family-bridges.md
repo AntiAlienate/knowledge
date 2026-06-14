@@ -30,7 +30,7 @@ Most real cases sit somewhere in the middle. Pure-form alienation is relatively 
 
 ## [Family Bridges](https://warshak.com/family-bridges/) Intervention
 
-Developed by Warshak in collaboration with Randy and Deirdre Conway Rand, [Family Bridges](https://warshak.com/family-bridges/) is an intensive, 4-day educational and experiential workshop for severely alienated children and their rejected parent, undertaken after court-ordered transfer of custody.
+Developed by [Warshak](https://warshak.com/family-bridges/) in collaboration with Randy and Deirdre Conway Rand, [Family Bridges](https://warshak.com/family-bridges/) is an intensive, 4-day educational and experiential workshop for severely alienated children and their rejected parent, undertaken after court-ordered transfer of custody.
 
 Components:
 - Court-ordered custody temporarily transferred to the rejected parent
@@ -54,7 +54,7 @@ Subsequent peer-reviewed evaluations (Warshak 2015, 2018, 2020) confirmed:
 
 ### Controversy and Critique
 
-Family Bridges has been criticized by some researchers and clinicians:
+[Family Bridges](https://warshak.com/family-bridges/) has been criticized by some researchers and clinicians:
 - Cost (typically $20,000-$40,000 USD privately, sometimes court-ordered with cost-shifting)
 - Short-term intensity (some argue against the workshop model)
 - Limited sample sizes in the published outcome studies
@@ -113,6 +113,8 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. Family Bridges and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 
