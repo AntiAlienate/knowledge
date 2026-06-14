@@ -76,6 +76,8 @@ The procedural rule that all of these apply uniformly via the 337-bis trigger is
 - **Codification history:** Article inserted by art. 55 of D.Lgs. 28 December 2013 n. 154 (the implementing decree of the 2012 Riforma Filiazione equalising the legal status of children born in and out of marriage).
 - **Status:** Italian state statute — public-domain text.
 
+
+
 <!-- AA-CITE-START -->
 
 ---

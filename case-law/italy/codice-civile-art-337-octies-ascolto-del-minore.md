@@ -102,3 +102,40 @@ Both the old art. 337-octies and the new art. 473-bis 4-5 c.p.c. operationalise 
 - **Codification history:** Article inserted by art. 55 of D.Lgs. 28 December 2013 n. 154 (reformulating art. 155-sexies abrogated by the same decree); abrogated by art. 1 paragraph 5 of D.Lgs. 10 October 2022 n. 149 (Riforma Cartabia), effective 28 February 2023. Transitional rule at art. 35(1) D.Lgs. 149/2022 preserves application to proceedings instituted before that date.
 - **Current law citation:** Codice di Procedura Civile artt. 473-bis 4 (Diritto del minore all'ascolto) + 473-bis 5 (Modalità dell'ascolto) + 152-quinquies disp. att. c.p.c. (technical regulations on audio-visual recording).
 - **Status:** Italian state statute — public-domain text.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Bondavalli](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bondavalli%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Narcissistic Personality Disorder Parental Alienation Connection](https://www.antialienate.com/blog/narcissistic-personality-disorder-parental-alienation-connection)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+
+<!-- AA-CROSSLINK-END -->
