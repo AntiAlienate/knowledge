@@ -84,3 +84,43 @@ The Italian Cassazione's PA-aware jurisprudence under art. 337-quater is in part
 - **Codification history:** Article inserted by art. 55 of D.Lgs. 28 December 2013 n. 154, which reformulated and renumbered the content previously in art. 155-bis c.c. (introduced by Law 54/2006 — the affido condiviso reform of 8 February 2006).
 - **Key Cassazione interpretation:** Cass. civ. Sez. I, ordinanza n. 31571 del 9 dicembre 2024 (affidamento super-esclusivo as extreme-gravity residual measure); Cass. civ. Sez. I, ordinanza n. 18828 del 4 luglio 2023 (affido esclusivo grounded in established unfitness of other parent); Cass. civ. Sez. I, n. 9764 dell'8 aprile 2019 (PA-pattern conduct as ground for exclusive custody).
 - **Status:** Italian state statute — public-domain text.
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Lombardo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lombardo%22]})
+- [HUDOC search: Bondavalli](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Bondavalli%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+- [HUDOC search: Strumia](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Strumia%22]})
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [How To Win Against Narcissist In Court Custody Alienation](https://www.antialienate.com/blog/how-to-win-against-narcissist-in-court-custody-alienation)
+- [Narcissistic Personality Disorder Parental Alienation Connection](https://www.antialienate.com/blog/narcissistic-personality-disorder-parental-alienation-connection)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+
+<!-- AA-CROSSLINK-END -->
