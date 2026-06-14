@@ -193,7 +193,7 @@ Denver · CO · Independent clinical psychology / consultation practice (Denver,
 
 **Contact:** https://therapyhelp.com/ contact form
 
-*Notes: APA Fellow (2013). Recognition-leaning, popular-press framing rather than PASG-core; Psychology Today readership functions as recognition-camp megaphone.*
+*Notes: APA Fellow (2013). Recognition-leaning, popular-press framing rather than [PASG](https://pasg.info/)-core; Psychology Today readership functions as recognition-camp megaphone.*
 
 **See also:** `jurisdiction:united-states`
 
@@ -348,7 +348,7 @@ Newport Beach · CA · Independent forensic psychology practice (Newport Beach, 
 **Publications:**
 - Parenting Plan Evaluations: Applied Research for the Family Court (2nd ed.) (2016) — *Oxford University Press (Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen eds.)* — <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
 - Parenting Plan & Child Custody Evaluations: Using Decision Trees (2013) — *Professional Resource Press*
-- [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (co-editor) (2006) — *AFCC*
+- [AFCC](https://www.afccnet.org/) Model Standards for Child Custody Evaluations (co-editor) (2006) — *[AFCC](https://www.afccnet.org/)*
 - AFCC Guidelines for Examining Intimate Partner Violence (2016) — *AFCC*
 
 **Verification:**
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

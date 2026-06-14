@@ -58,9 +58,9 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 - ECHR / [Council of Europe](https://www.coe.int/) operates a supranational meta-legal-system framework — places ECHR in the unique multi-state-human-rights supranational cluster.
 - Only modern multi-state human-rights court with binding individual-petition framework is structurally distinctive globally — Article 34 individual-petition framework.
 - Central jurisdictional framework for Article 8 right to private and family life is structurally distinctive globally — foundational family-law human-rights provision binding on 46 member states.
-- Subject of the largest single body of family-law-relevant international human-rights jurisprudence in the world is structurally distinctive globally — 100,000+ cases decided since ECtHR establishment 1959.
+- Subject of the largest single body of family-law-relevant international human-rights jurisprudence in the world is structurally distinctive globally — 100,000+ cases decided since [ECtHR](https://www.echr.coe.int/) establishment 1959.
 - Article 8 family-life jurisprudence framework (Marckx + Olsson + Johansen + many more) is structurally distinctive globally — only multi-state binding-jurisprudence framework on family-law human-rights provisions.
-- Russia 2022 expulsion is structurally distinctive within Council of Europe cluster — first member-state expulsion in Council of Europe history.
+- Russia 2022 expulsion is structurally distinctive within [Council of Europe](https://www.coe.int/) cluster — first member-state expulsion in Council of Europe history.
 - Council of Europe Committee of Ministers ECHR implementation supervision body is structurally distinctive globally — only modern multi-state human-rights compliance supervision framework.
 - ECHR Protocol 11 establishment of permanent ECtHR + individual-petition framework is structurally distinctive globally — only modern multi-state human-rights court with individual-petition framework.
 - ECHR Member State Convention-compatibility framework via national-court application is structurally distinctive globally.
@@ -95,6 +95,8 @@ The ECHR / [Council of Europe](https://www.coe.int/) ([European Convention on Hu
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

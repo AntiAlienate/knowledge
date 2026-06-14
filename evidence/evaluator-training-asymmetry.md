@@ -116,7 +116,7 @@ The following are verbatim excerpts from the Executive Summary, pp. 6-12.
 
 **Verbatim on state-level training requirements (Evaluator Education, p. 78).**
 
-> "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; Saunders et al., 2011). In a 2003 survey (Bow & Boxer), nearly all had IPV education and they attended a median of four seminars and read a median of 18 books or articles regarding IPV."
+> "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; [Saunders](https://www.ovw.usdoj.gov/) et al., 2011). In a 2003 survey (Bow & Boxer), nearly all had IPV education and they attended a median of four seminars and read a median of 18 books or articles regarding IPV."
 
 **Verbatim on the National Council of Juvenile and Family Court Judges guidebook (Dalton, Drozd, & Wong 2006), quoted via Saunders (pp. 78-79).**
 
@@ -218,7 +218,7 @@ The Drozd/Olesen response defends the decision tree on the grounds that both abu
 
 ### 3.4 Why the 2010 exchange matters for the training question
 
-The Drozd/Olesen vs. Meier exchange is the most-cited paradigmatic dispute in the literature on how custody evaluators should be trained to handle the abuse-vs-alienation cross-claim. Saunders 2015 (§1.4 above) explicitly quotes the NCJFCJ guidebook position (Dalton, Drozd, & Wong 2006) that DV is its own specialty and that basic training is insufficient; note that Drozd herself co-authored that very guidebook, indicating that the substantive intra-field disagreement is more about the operational ordering and the empirical adequacy of available training than about whether DV should be assessed at all.
+The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) exchange is the most-cited paradigmatic dispute in the literature on how custody evaluators should be trained to handle the abuse-vs-alienation cross-claim. Saunders 2015 (§1.4 above) explicitly quotes the NCJFCJ guidebook position (Dalton, Drozd, & Wong 2006) that DV is its own specialty and that basic training is insufficient; note that Drozd herself co-authored that very guidebook, indicating that the substantive intra-field disagreement is more about the operational ordering and the empirical adequacy of available training than about whether DV should be assessed at all.
 
 ---
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

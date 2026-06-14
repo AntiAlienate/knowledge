@@ -15,3 +15,38 @@ PA-relevant clinical assessment tools, frameworks, and diagnostic-code reference
 - [Evidence](../evidence/) — research base behind clinical practice
 - [Influencers](../influencers/) — clinicians active in the field
 - [Playbooks](../playbooks/) — practical guides for parents
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [APA Ethics Code](https://www.apa.org/ethics/code)
+- [AACAP — American Academy of Child and Adolescent Psychiatry](https://www.aacap.org/)
+- [AFCC standards of practice](https://www.afccnet.org/Resource-Center/Practice-Guidelines-and-Standards)
+- [DSM-5-TR (American Psychiatric Association)](https://www.appi.org/products/dsm)
+- [ICD-11 (World Health Organization)](https://icd.who.int/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Theory Clinical Academic Guide](https://www.antialienate.com/blog/parental-alienation-theory-clinical-academic-guide)
+- [Weaponized Therapy How Therapists Become Tools Of Parental Alienation](https://www.antialienate.com/blog/weaponized-therapy-how-therapists-become-tools-of-parental-alienation)
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [How To Prove Psychological Damage From Parental Alienation](https://www.antialienate.com/blog/how-to-prove-psychological-damage-from-parental-alienation)
+
+<!-- AA-CROSSLINK-END -->

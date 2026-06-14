@@ -144,16 +144,18 @@ Violation of [Article 8 ECHR](https://www.legislation.gov.uk/ukpga/1998/42/sched
 - JUST SATISFACTION QUANTUM: the exact euro figures awarded under Article 41 for non-pecuniary damage and for costs and expenses are set out in the operative part (dispositif) of the [HUDOC](https://hudoc.echr.coe.int/) judgment file; the open-source Registry press release does not reproduce them. Practitioners citing this case for damages comparison should consult the [HUDOC](https://hudoc.echr.coe.int/) text directly.
 - GOVERNMENT AGENT: in the period 2010–2013 the Italian Government was represented before the ECHR by Agent Ersiliagrazia Spatafora and Co-Agent Paola Accardo. The specific allocation between Agent and Co-Agent for application no. 25704/11 is to be confirmed against the front matter of the [HUDOC](https://hudoc.echr.coe.int/) judgment file; this case study lists both.
 - APPLICANT'S COUNSEL: [HUDOC](https://hudoc.echr.coe.int/) records that the applicant was represented before the Court by G. Romano, a lawyer practising in Benevento, Italy. Full given name not reproduced in publicly indexed sources.
-- ECLI: the ECLI 'ECLI:CE:ECHR:2013:0129JUD002570411' is constructed in conformity with the European Court of Human Rights ECLI convention (CE / ECHR / year / 0129 [date in MMDD format] / JUD [judgment] / 002570411 [application number, zero-padded]). The Court routinely assigns ECLIs in this format to its published judgments.
+- ECLI: the ECLI 'ECLI:CE:ECHR:2013:0129JUD002570411' is constructed in conformity with the [European Court of Human Rights](https://www.echr.coe.int/) ECLI convention (CE / ECHR / year / 0129 [date in MMDD format] / JUD [judgment] / 002570411 [application number, zero-padded]). The Court routinely assigns ECLIs in this format to its published judgments.
 - DOCTRINAL POSITION: Lombardo stands in a direct genealogical line from Hokkanen v. Finland (no. 19823/92, 23 September 1994) — the first major Strasbourg articulation of the positive duty to enforce parental contact — and Kutzner v. Germany (no. 46544/99, 26 February 2002). It is the foundational case of the Italian Article 8 enforcement cluster (alongside Piazzi v. Italy, 2010), which the Court has continued to develop in Bondavalli (2015), Strumia (2016) and Improta (2017).
 - COMPARATIVE CONTEXT — POST-MASSARO ITALIAN APEX LINE: the Italian Court of Cassation's PAS-critical line (Cass. 13217/2021, Cass. 9691/2022 'Massaro', Cass. 4595/2025) operates downstream of Lombardo. The Italian apex courts work within the Strasbourg Article 8 framework Lombardo consolidated, but pull in the opposite enforcement direction in the specific sub-set of cases where the alleged 'obstruction' is in fact a protected refusal of contact (e.g. in domestic-violence contexts). The two lines are complementary, not contradictory: Lombardo polices State inaction in cases of unjustified obstruction; Cass. 9691/2022 polices State over-action in cases of pseudo-scientifically diagnosed 'obstruction'. Together they delimit the legitimate enforcement perimeter.
-- TRANSLATION CAVEAT: the verbatim French quotations are reproduced exactly as published by HUDOC, including italics and citation conventions of the Court. The English translations are working translations by the author; they are not endorsed by the Registry and should be cited as such.
+- TRANSLATION CAVEAT: the verbatim French quotations are reproduced exactly as published by [HUDOC](https://hudoc.echr.coe.int/), including italics and citation conventions of the Court. The English translations are working translations by the author; they are not endorsed by the Registry and should be cited as such.
 
 *Author: Alan Markson.*
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

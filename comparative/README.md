@@ -12,3 +12,31 @@ Cross-jurisdictional comparative materials for PA-context family law.
 - [Jurisdictions](../jurisdictions/) — per-country jurisdiction sidecars (~536 sidecars covering global family-law systems)
 - [Case Law](../case-law/) — statutes and judgments with verbatim text
 - [Evidence](../evidence/) — research-grounded analyses
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference](https://www.hcch.net/)
+- [OECD Family Database](https://www.oecd.org/els/family/database.htm)
+- [Council of Europe](https://www.coe.int/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Global Crackdown Parental Alienation Laws](https://www.antialienate.com/blog/global-crackdown-parental-alienation-laws)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Parental Alienation Laws By Country](https://www.antialienate.com/blog/parental-alienation-laws-by-country)
+- [People Against Parental Alienation Global Movement](https://www.antialienate.com/blog/people-against-parental-alienation-global-movement)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+
+<!-- AA-CROSSLINK-END -->

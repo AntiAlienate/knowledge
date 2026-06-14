@@ -115,7 +115,7 @@ These critiques are real but the alternative (forced binary classification of in
 ## Sources
 
 - Polak & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) 2015 paper DOI: https://doi.org/10.1080/10502556.2015.1012532
-- Saini extended bibliography: https://socialwork.utoronto.ca/profiles/michael-saini/
+- [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) extended bibliography: https://socialwork.utoronto.ca/profiles/michael-saini/
 - [AFCC](https://www.afccnet.org/) integration: https://www.afccnet.org/
 
 ---
@@ -123,6 +123,8 @@ These critiques are real but the alternative (forced binary classification of in
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical advice. The Polak-Saini hybrid framework requires application by a qualified clinician familiar with the multi-dimensional assessment methodology.
+
+
 
 
 

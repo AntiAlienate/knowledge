@@ -74,7 +74,7 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 - **2022** — [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ord. n. 9691 del 24 marzo 2022 (Genovese Pres. / Caiazzo rel. / Parise / Scalia / Campese) — il provvedimento simbolo, caso Laura Massaro: il richiamo alla PAS e a ogni suo corollario, anche inconsapevole, non può dirsi legittimo. Battaglia simbolo delle reti italiane critico-PAS (Differenza Donna, Telefono Rosa). — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf>
 - **2022** — Riforma Cartabia — D.Lgs. 10 ottobre 2022 n. 149 (rito unitario delle persone, dei minorenni e delle famiglie, artt. 473-bis ss. c.p.c.) — codifica in via legislativa i vincoli metodologici al CTU e il divieto di delega dell'accertamento della violenza domestica al consulente. — <https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;149>
 - **2022** — Bondavalli c. Italia / Solarino c. Italia / R.V. c. Italia — ulteriori violazioni Strasburgo dell'art. 8 CEDU che consolidano il cluster italiano post-Lombardo/Improta/Strumia. — <https://hudoc.echr.coe.int/>
-- **2025** — Cassazione, Sez. I Civile, ord. n. 4595 del 21 febbraio 2025 (Acierno Pres. / Tricomi / Iofrida / Reggiani / Russo rel.) — chiude la triade apicale cassando una Corte d'Appello (Bologna) che non aveva pronunciato la sigla 'PAS' ma ne aveva utilizzato il calco lessicale ('processo progressivo e cronico di denigrazione e delegittimazione della figura paterna', 'funzionamento personologico simbiotico'); ancora il principio alla Convenzione di Istanbul e alla giurisprudenza CEDU. — <https://www.italgiure.giustizia.it/>
+- **2025** — [Cassazione](https://www.cortedicassazione.it/), Sez. I Civile, ord. n. 4595 del 21 febbraio 2025 (Acierno Pres. / Tricomi / Iofrida / Reggiani / Russo rel.) — chiude la triade apicale cassando una Corte d'Appello (Bologna) che non aveva pronunciato la sigla 'PAS' ma ne aveva utilizzato il calco lessicale ('processo progressivo e cronico di denigrazione e delegittimazione della figura paterna', 'funzionamento personologico simbiotico'); ancora il principio alla Convenzione di Istanbul e alla giurisprudenza CEDU. — <https://www.italgiure.giustizia.it/>
 
 ## Structural findings
 
@@ -133,6 +133,8 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

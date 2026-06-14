@@ -200,6 +200,8 @@ The Brazilian PA Law has been internationally controversial. Recognition-camp co
 - **Reform:** Lei nº 14.340, de 18 de maio de 2022 (revoked Art. 6(VII); added Art. 5 § 4º; added Art. 8-A; reformulated Art. 4 sole paragraph)
 - **Status:** Public domain — Brazilian federal law (Planalto.gov.br is the canonical government source).
 
+
+
 <!-- AA-CITE-START -->
 
 ---

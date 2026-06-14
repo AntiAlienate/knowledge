@@ -89,7 +89,7 @@ The resist-refuse continuum is the most-cited diagnostic conceptualization in:
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine 17 strategies | Targeted-parent operational guidance |
 | **[Family Bridges](https://warshak.com/family-bridges/)** | **Severe-case reunification intervention** |
 
-Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) and operational intervention ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine, [Family Bridges](https://warshak.com/family-bridges/)). The continuum gives clinicians and courts language for the messy middle.
+[Warshak's](https://warshak.com/family-bridges/) role: conceptual bridge between binary diagnostic frameworks (Bernet) and operational intervention ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation)-Fine, [Family Bridges](https://warshak.com/family-bridges/)). The continuum gives clinicians and courts language for the messy middle.
 
 ## Citing Posts
 
@@ -113,6 +113,8 @@ Warshak's role: conceptual bridge between binary diagnostic frameworks (Bernet) 
 By Alan Markson. Licensed under CC BY 4.0.
 
 Disclaimer: This summary is educational, not clinical or legal advice. [Family Bridges](https://warshak.com/family-bridges/) and similar intensive reunification interventions are court-ordered programs requiring qualified clinical operators and careful pre-screening. Consult a PA-informed therapist and family-law attorney for case-specific guidance.
+
+
 
 
 

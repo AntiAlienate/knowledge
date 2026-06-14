@@ -213,7 +213,7 @@ Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alien
 
 ## 5. Adult-life sequelae
 
-### 5.1 Baker (2007) — *Adult Children of Parental Alienation Syndrome*
+### 5.1 [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) — *Adult Children of Parental Alienation Syndrome*
 
 **Citation.** Baker, A. J. L. (2007). *Adult Children of Parental Alienation Syndrome: Breaking the Ties That Bind*. New York: W. W. Norton.
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

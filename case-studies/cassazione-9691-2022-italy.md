@@ -125,7 +125,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 1. **[Cassazione](https://www.cortedicassazione.it/) Civile, sez. I, ord. 24 marzo 2022, n. 9691 — testo integrale (PDF)** — <https://www.studioruffinotti.it/wp-content/uploads/2022/12/Cass-civ.-sez.-I-ord.-24-marzo-2022-n.-9691.pdf> (Studio Legale Ruffinotti (riproduzione del testo integrale dell'ordinanza)) [it] — accessed 2026-05-30
 2. **Italgiure — banca dati ufficiale della [Corte di Cassazione](https://www.cortedicassazione.it/) (ricerca per numero 9691/2022, Sez. I Civile)** — <https://www.italgiure.giustizia.it/sncass/> (Corte Suprema di [Cassazione](https://www.cortedicassazione.it/) — CED) [it] — accessed 2026-05-30
 3. **Differenza Donna — 'Pubblichiamo ordinanza di cassazione n 9691/2022: la [Cassazione](https://www.cortedicassazione.it/) dà ragione a Laura Massaro'** — <https://www.differenzadonna.org/news/la-cassazione-da-ragione-a-laura-massaro-ha-vinto-laura-abbiamo-vinto-tutte/> (Differenza Donna ONG) [it] — accessed 2026-05-30
-4. **Boiano, 'La Cassazione disconosce la scientificità della c.d. sindrome da alienazione parentale. Commento a Cass. Civ. 24 marzo 2022 n. 9691'** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme) [it] — accessed 2026-05-30
+4. **Boiano, 'La [Cassazione](https://www.cortedicassazione.it/) disconosce la scientificità della c.d. sindrome da alienazione parentale. Commento a Cass. Civ. 24 marzo 2022 n. 9691'** — <https://www.giustiziainsieme.it/it/minori-e-famiglia/2395-la-cassazione-disconosce-la-scientificita-della-c-d-sindrome-da-alienazione-parentale-commento-a-cass-civ-ord-24-marzo-2022-n-9691> (Giustizia Insieme) [it] — accessed 2026-05-30
 5. **Diritti Fondamentali — 'Cassazione: la Sindrome da Alienazione Parentale (PAS) è illegittima'** — <https://dirittifondamentali.it/2022/04/06/cassazione-la-sindrome-da-alienazione-parentale-pas-e-illegittima-cass-civ-sez-i-ord-24-marzo-2022-n-9691/> (Diritti Fondamentali — rivista quadrimestrale online) [it] — accessed 2026-05-30
 6. **Cammino Diritto — 'Sull'illegittimità del richiamo alla c.d. sindrome da alienazione parentale (PAS) per far venire meno la responsabilità genitoriale'** — <https://rivista.camminodiritto.it/articolo.asp?id=9647> (Rivista Cammino Diritto) [it] — accessed 2026-05-30
 7. **Blog ilcaso.it — 'I provvedimenti de potestate tra alienazione parentale e ascolto del minore. Nota a Cass. Civ. 9691/2022'** — <https://blog.ilcaso.it/news_1982/26-10-22/I_provvedimenti_de_potestate_tra_alienazione_parentale_e_ascolto_del_minore-_il_punto_della_Cassazione_Nota_a_Cass_Civ_9691-2022> (ilcaso.it) [it] — accessed 2026-05-30
@@ -150,6 +150,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Roma — sezione specializzat
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -236,7 +236,7 @@ Munich · Bayern · Private practice Munich (joerg-fichtner.de); past DJI Hochko
 *Dr. (psychologist); lead author of the ZKJ 2023 critique. Specific Approbation / chamber registration not publicly confirmed.*
 Munich (DJI environment) · Bayern · DJI environment (specific institutional affiliation not publicly confirmed at directory standard)
 
-**Stance:** Lead-author placement on Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the central German PAS-critique article cited by BVerfG 17.11.2023 — 1 BvR 1076/23. Primary institutional affiliation not publicly confirmed at directory standard.
+**Stance:** Lead-author placement on Zimmermann / Fichtner / Walper / Lux / Kindler (2023) *Verdorbener Wein in neuen Schlauchen* ZKJ 2023 — the central German PAS-critique article cited by [BVerfG](https://www.bundesverfassungsgericht.de/) 17.11.2023 — 1 BvR 1076/23. Primary institutional affiliation not publicly confirmed at directory standard.
 
 **Publications:**
 - Verdorbener Wein in neuen Schlauchen (2023) — *ZKJ 2023 (lead author, with Fichtner, Walper, Lux, Kindler)* — <https://www.fachportal-paedagogik.de/literatur/vollanzeige.html?FId=3440869>
@@ -411,6 +411,8 @@ Berlin · Berlin · Bundesweiter Fachverband (Diakonie / AWO / Caritas / DRK / P
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

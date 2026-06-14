@@ -85,7 +85,7 @@
 
 ---
 
-### 2.2 The Meier rebuttals (2022)
+### 2.2 The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) rebuttals (2022)
 
 **Citation 1.** Meier, J. S., Dickson, S., O'Sullivan, C., & Rosen, L. (2022). The trouble with Harman and Lorandos' parental alienation allegations in family court study. *Journal of Family Trauma, Child Custody & Child Development*, 19(3-4), 295–317. https://doi.org/10.1080/26904586.2022.2036286 — NIJ archive: https://nij.ojp.gov/library/publications/trouble-harman-and-lorandos-parental-alienation-allegations-family-court-study — SSRN: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4051833
 
@@ -299,7 +299,7 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 
 ### 8.3 Moderate confidence
 
-- **Training asymmetry — PA training is widely commercially available; DV training is patchier and less standardised — is itself a driver.** [Saunders](https://www.ovw.usdoj.gov/) 2015 and Saunders 2011 establish more-DV-training → safer recommendations; Alsalem 2023 ¶62 documents the supply asymmetry and commercial incentive structure. **[secondary verification only]** for any claim that head-to-head training-effect RCTs exist; they do not.
+- **Training asymmetry — PA training is widely commercially available; DV training is patchier and less standardised — is itself a driver.** [Saunders](https://www.ovw.usdoj.gov/) 2015 and [Saunders](https://www.ovw.usdoj.gov/) 2011 establish more-DV-training → safer recommendations; Alsalem 2023 ¶62 documents the supply asymmetry and commercial incentive structure. **[secondary verification only]** for any claim that head-to-head training-effect RCTs exist; they do not.
 - **Children placed with a court-determined-abusive parent following a PA finding suffer measurable mental-health deterioration including suicidality.** Silberg-Dallam 2019 (13% → 33% suicidality). Small snowball sample; consistent with broader maltreatment-outcomes literature in `evidence-mental-health-outcomes.md`.
 
 ### 8.4 Low confidence / not established
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

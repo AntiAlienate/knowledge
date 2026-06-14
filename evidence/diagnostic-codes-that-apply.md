@@ -46,7 +46,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 ### 1.2 V61.20 / Z62.820 — Parent-Child Relational Problem
 
-**Location in DSM-5.** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, sub-section "Relational Problems," DSM-5 pages 715–716 ([DSM-5-TR](https://www.appi.org/products/dsm) ~ pp. 811).
+**Location in [DSM-5](https://www.appi.org/products/dsm).** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, sub-section "Relational Problems," DSM-5 pages 715–716 ([DSM-5-TR](https://www.appi.org/products/dsm) ~ pp. 811).
 
 **DSM-5 use criterion, verbatim.**
 
@@ -175,7 +175,7 @@ That is the operative WHO instruction. QE52.0 is the WHO-blessed code.
 
 ### 2.3 QE51 block — Problem associated with interactions with spouse or partner
 
-- **QE51.0 — Relationship distress with spouse or partner**: per WHO ICD-11 MMS entity 848664338 (mirror https://www.findacode.com/icd-11/code-848664338.html), defined as "substantial and sustained dissatisfaction with a spouse or intimate partner associated with significant disturbance in functioning." **[secondary verification only]**
+- **QE51.0 — Relationship distress with spouse or partner**: per WHO [ICD-11](https://icd.who.int/) MMS entity 848664338 (mirror https://www.findacode.com/icd-11/code-848664338.html), defined as "substantial and sustained dissatisfaction with a spouse or intimate partner associated with significant disturbance in functioning." **[secondary verification only]**
 - **QE51.1 — History of spouse or partner violence**.
 - **QE51.Y / QE51.Z** — Other specified / unspecified.
 
@@ -239,7 +239,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 (Source: [Cafcass](https://www.cafcass.gov.uk/), "Alienating Behaviours," https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours.) [Cafcass](https://www.cafcass.gov.uk/) instead uses the descriptive phrase "alienating behaviour," which it defines as "an ongoing pattern of negative attitudes and communication about the other parent or carer that have the potential or intention to undermine, manipulate or even destroy a child's relationship with their other parent." [Cafcass](https://www.cafcass.gov.uk/) FCAs work within the Child Impact Assessment Framework (CIAF) (https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf), which integrates assessment of domestic abuse, harmful parental conflict, alienating behaviours, and parenting-capacity issues. UK NHS and independent psychologists working on family-court instructions code in ICD-10 / ICD-11; the [Cafcass](https://www.cafcass.gov.uk/) position effectively prevents the use of "PAS" or "PAD" in court-instructed reports.
 
-**Australia / New Zealand.** Mixed practice; the Family Court of Australia accepts evidence framed in DSM-5-TR and ICD-11 terms, with reluctance to accept "PAS" as a discrete diagnosis. Court-appointed Family Consultants frame reports using "child's resistance to spending time with a parent" language and document specific parental conduct without invoking syndrome labels — consistent with the [Cafcass](https://www.cafcass.gov.uk/) model.
+**Australia / New Zealand.** Mixed practice; the Family Court of Australia accepts evidence framed in [DSM-5-TR](https://www.appi.org/products/dsm) and ICD-11 terms, with reluctance to accept "PAS" as a discrete diagnosis. Court-appointed Family Consultants frame reports using "child's resistance to spending time with a parent" language and document specific parental conduct without invoking syndrome labels — consistent with the [Cafcass](https://www.cafcass.gov.uk/) model.
 
 **EU.** ICD-10/ICD-11 dominant. Multiple Member State court bodies have explicitly criticised "PAS" as a diagnostic label (Italian Supreme Court [Cassazione](https://www.cortedicassazione.it/) No. 9691/2022; Spanish 2021 LO 8/2021 / Ley Rhodes prohibition on the use of "PAS" or unfounded approaches to PA in custody decisions involving abuse allegations; see cross-reference). Clinical coding under QE52.0 is widespread in EU child-mental-health practice.
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

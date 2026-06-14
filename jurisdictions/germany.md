@@ -71,7 +71,7 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 - EDITORIAL CORRECTION: Joerg Fichtner is a critique-camp author (co-author of ZKJ 2023 with Zimmermann/Walper/Lux/Kindler), not a recognition-camp practitioner — earlier drafts that placed him on the recognition side are corrected here.
 - EDITORIAL CORRECTION: Reinhart Wolff is excluded from this jurisdiction overview's professional-regulator and practitioner lists for safeguarding reasons; the exclusion is editorial-policy-based and is not a comment on his academic outputs.
 - EDITORIAL CORRECTION: BAG-EUK is not Vereinsregister-verifiable as of generation date and is flagged 'nicht öffentlich verifiziert' rather than treated as a peer body to BPtK/DGPs/DGPPN.
-- Cross-jurisdictional reference pattern: Italian, Spanish, Austrian, French and Polish jurisdiction files cross-link to BVerfG 1 BvR 1076/23 and to the ZKJ critique team as comparative authority — Germany is the most-referenced jurisdiction in the AntiAlienate case-study corpus.
+- Cross-jurisdictional reference pattern: Italian, Spanish, Austrian, French and Polish jurisdiction files cross-link to [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 and to the ZKJ critique team as comparative authority — Germany is the most-referenced jurisdiction in the AntiAlienate case-study corpus.
 
 ## See also
 
@@ -119,6 +119,8 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

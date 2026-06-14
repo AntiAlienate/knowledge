@@ -137,7 +137,7 @@ Paris · Île-de-France · Cabinet Cyril Braniste; Barreau de Paris
 *Rechtsanwältin; Bevollmächtigte (counsel of record) [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23*
 Köln · Nordrhein-Westfalen · Rechtsanwaltsgemeinschaft Hohenzollernring 25 (Köln); Rechtsanwaltskammer Köln
 
-**Stance:** Counsel of record (Bevollmächtigte) for the constitutional complainant in [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23, Beschluss vom 17.11.2023 (1. Senat, 3. Kammer). [BVerfG](https://www.bundesverfassungsgericht.de/) annulled OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' and therefore did not provide a kindeswohlorientierte basis. The only attorney in 2026 Germany with a published BVerfG win that explicitly classifies PAS as pseudoscientific — the single named-counsel anchor for any DE constitutional-litigation outreach on PA / Eltern-Kind-Entfremdung.
+**Stance:** Counsel of record (Bevollmächtigte) for the constitutional complainant in [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23, Beschluss vom 17.11.2023 (1. Senat, 3. Kammer). [BVerfG](https://www.bundesverfassungsgericht.de/) annulled OLG Köln 25 UF 19/23 transfer-of-residence order on the holding that 'Eltern-Kind-Entfremdung' as cited 'knüpft an das überholte und wissenschaftlich widerlegte Konzept des Parental Alienation Syndrome (PAS) an' and therefore did not provide a kindeswohlorientierte basis. The only attorney in 2026 Germany with a published [BVerfG](https://www.bundesverfassungsgericht.de/) win that explicitly classifies PAS as pseudoscientific — the single named-counsel anchor for any DE constitutional-litigation outreach on PA / Eltern-Kind-Entfremdung.
 
 **Publications:**
 - BVerfG 1 BvR 1076/23, Beschluss vom 17.11.2023 — Bevollmächtigte for the constitutional complainant (2023) — *[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (1. Senat, 3. Kammer)* — <https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html>
@@ -352,7 +352,7 @@ Paris · Île-de-France · Ordre des avocats au Conseil d'État et à la [Cour d
 **Stance:** Opposing counsel in Cass. 1re civ., 26 juin 2013, n° 12-14.392 — the first apex French SAP-recognition arrêt. Substantive PA position outside this filing is not in the public record; stance assignment 'middle' reflects opposite-side filing posture on the recognition arrêt rather than a confirmed critique-camp publication. Included for record-completeness and historic-litigant attribution on the FR PA-recognition arrêt.
 
 **Publications:**
-- Cass. 1re civ., 26 juin 2013, n° 12-14.392 — opposing counsel (2013) — *Cour de cassation* — <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
+- Cass. 1re civ., 26 juin 2013, n° 12-14.392 — opposing counsel (2013) — *[Cour de cassation](https://www.courdecassation.fr/)* — <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
 
 **Verification:**
 - <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/>
@@ -512,6 +512,8 @@ Liège · Wallonie · Leleu-avocat (Liège); ULiège Faculté de droit (Doyen); 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

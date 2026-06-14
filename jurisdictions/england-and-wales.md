@@ -88,7 +88,7 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 - The Family Justice Council December 2024 finalised guidance is the institutional multiplier that operationalises the Re C 2023 [HCPC](https://www.hcpc-uk.org/)-registration kitemark across every family court in England & Wales. It converts an appellate-court methodological standard into binding day-to-day procedural practice for PD25B expert instruction in PA-adjacent cases.
 - Re Y 2026 EWFC 38 is the regulatory-disclosure case of the Re-arc: McFarlane P sets aside a child-arrangements order made on the basis of an unregulated PA-evaluator's report (Melanie Gill, [HCPC](https://www.hcpc-uk.org/)-unregistered), with an 'every agency at fault' framing that addresses local-authority, [Cafcass](https://www.cafcass.gov.uk/), and expert-instruction failures together. (Note: the 'every agency at fault' formulation belongs to Re Y 2026, not to Re A 2019.)
 - The English critique pole is institutionally anchored rather than individual-clinician dominant — the principal anchors are [HCPC](https://www.hcpc-uk.org/) (statutory regulator), [BPS](https://www.bps.org.uk/) DCAFCASS-adjacent position, ACP-UK, the FJC December 2024 finalised guidance, and [Cafcass](https://www.cafcass.gov.uk/) / [Cafcass Cymru](https://www.cafcass.gov.uk/) as statutory advisory bodies. This is structurally distinct from the United States ([Childress](https://drcachildress.org/), Bernet as individual recognition-pole anchors) or Italy (Mazzeo as individual critique-pole anchor).
-- The recognition pole in England & Wales is led by the Karen Woodall / Nick Woodall axis at the Family Separation Clinic, which has historically operated outside the HCPC-registered psychology framework. The Melanie Gill set-aside in Re Y 2026 functions as the test case for the Re C 2023 / FJC December 2024 kitemark against unregistered PA-evaluator practice.
+- The recognition pole in England & Wales is led by the Karen Woodall / Nick Woodall axis at the Family Separation Clinic, which has historically operated outside the [HCPC](https://www.hcpc-uk.org/)-registered psychology framework. The Melanie Gill set-aside in Re Y 2026 functions as the test case for the Re C 2023 / FJC December 2024 kitemark against unregistered PA-evaluator practice.
 - The barrister bar in PA-adjacent family work is concentrated in a small number of chambers: 4PB (Sam King KC), 1KBW, 1GC Family Law, 14 Gray's Inn Square, Becket Chambers and Trinity Chambers. The McKenzie-friend and litigant-in-person space is significant given the post-LASPO 2012 legal-aid contraction.
 - Charlotte Proudman (Goldsmith Chambers) is the most-prominent critique-pole barrister-advocate in English PA-adjacent practice, with a public-facing profile concentrated on domestic-abuse-aware advocacy and on the PD12J / Re H-N para 31 doctrinal frame.
 - Welsh-language proceedings are theoretically available under the Welsh Language Act 1993 and the Welsh Language (Wales) Measure 2011 with [Cafcass Cymru](https://www.cafcass.gov.uk/) operating bilingually; in practice the case-law arc is reported in English. Scotland and Northern Ireland operate distinct family-law systems and are treated as separate jurisdictions in the knowledge base.
@@ -147,6 +147,8 @@ Section 97 [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) pro
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

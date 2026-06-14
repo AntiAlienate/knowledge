@@ -79,13 +79,15 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 
 - UK umbrella jurisdiction — substantive content carried by constituent per-country sidecars (england-and-wales, scotland, northern-ireland, wales, uk-devolved aggregate).
 - Resolves backwards-compatible refs from existing files pointing to jurisdiction:united-kingdom.
-- [UK Supreme Court](https://www.supremecourt.uk/) as UK-wide final court of appeal preserved in structural_findings[0]; UK-wide regulator layer (HCPC + GMC + [BPS](https://www.bps.org.uk/)) preserved in structural_findings[1].
+- [UK Supreme Court](https://www.supremecourt.uk/) as UK-wide final court of appeal preserved in structural_findings[0]; UK-wide regulator layer ([HCPC](https://www.hcpc-uk.org/) + GMC + [BPS](https://www.bps.org.uk/)) preserved in structural_findings[1].
 - Re Y EWFC 38 as UK-wide evaluator-quality apex preserved in structural_findings[2] (HCPC-registration kitemark flows UK-wide via HCPC statutory framework).
 
 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

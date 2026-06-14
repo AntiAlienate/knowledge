@@ -407,7 +407,7 @@ Contributor-invitation content. The literature converges on these elements:
 
 ### The strongest defensible framing
 
-"The PA literature has not yet produced a defensible population-prevalence estimate — Saini, Johnston, Fidler & Bala (2016) flagged this and the gap remains. What is established with high confidence is that PA-pattern behaviour occurs, that in those affected it produces measurable elevations in depression, anxiety, PTSD symptoms, and suicidality (Verhaar 2022; Verrocchio 2015, 2016; [Bernet et al.](https://pasg.info/) 2015; Harman 2019; Hine 2026), and that no validated population study has been funded. The most important next step is a properly designed prevalence study; we advocate for it."
+"The PA literature has not yet produced a defensible population-prevalence estimate — [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) flagged this and the gap remains. What is established with high confidence is that PA-pattern behaviour occurs, that in those affected it produces measurable elevations in depression, anxiety, PTSD symptoms, and suicidality (Verhaar 2022; Verrocchio 2015, 2016; [Bernet et al.](https://pasg.info/) 2015; Harman 2019; Hine 2026), and that no validated population study has been funded. The most important next step is a properly designed prevalence study; we advocate for it."
 
 ---
 
@@ -418,7 +418,7 @@ Contributor-invitation content. The literature converges on these elements:
 - Hine, Harman, Leder-Elder & Bates (2025), UK separated parents: https://link.springer.com/article/10.1007/s10896-025-00910-4
 - Hine, Harman, Leder-Elder & Bates (2026), UK 18–25: https://doi.org/10.3389/fpubh.2026.1803173
 - Bernet, von Boch-Galhau, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Morrison (2010), DSM-V / [ICD-11](https://icd.who.int/): https://doi.org/10.1080/01926180903586583
-- Bernet, Baker & Verrocchio (2015), SCL-90-R Italian: https://doi.org/10.1111/1556-4029.12681 — https://pubmed.ncbi.nlm.nih.gov/25613416/
+- Bernet, [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015), SCL-90-R Italian: https://doi.org/10.1111/1556-4029.12681 — https://pubmed.ncbi.nlm.nih.gov/25613416/
 - Verrocchio, Marchetti & Fulcheri (2015): https://doi.org/10.3389/fpsyg.2015.01760
 - Verrocchio, Baker & Bernet (2016): https://doi.org/10.1111/1556-4029.13046 — https://pubmed.ncbi.nlm.nih.gov/27122408/
 - Saini, Johnston, Fidler & Bala (2016): https://doi.org/10.1093/med:psych/9780199396580.003.0013 (open PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf)
@@ -434,6 +434,8 @@ Contributor-invitation content. The literature converges on these elements:
 ---
 
 *End of evidence page. Maintained under CC BY 4.0. Corrections, additional primary sources, and especially direct verification of the verbatim Bernet (2010) 740,000 derivation are invited via pull request to the AntiAlienate knowledge repository.*
+
+
 
 
 

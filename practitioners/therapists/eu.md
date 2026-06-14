@@ -313,7 +313,7 @@
 
 ### 2. Prof Maria Cristina Verrocchio, PhD
 - **Country / city:** IT / Chieti-Pescara (Abruzzo)
-- **Practice / affiliation:** **Professore Ordinario (Full Professor) of Clinical Psychology**, Università degli Studi "G. d'Annunzio" Chieti-Pescara; psicologa e psicoterapeuta; member, [Parental Alienation Study Group](https://pasg.info/) (PASG)
+- **Practice / affiliation:** **Professore Ordinario (Full Professor) of Clinical Psychology**, Università degli Studi "G. d'Annunzio" Chieti-Pescara; psicologa e psicoterapeuta; member, [Parental Alienation Study Group](https://pasg.info/) ([PASG](https://pasg.info/))
 - **Practice URL:** University profile https://www.unich.it/ugov/person/3340 (institutional); LinkedIn https://www.linkedin.com/in/maria-cristina-verrocchio-1879b759/ ; AIPG https://aipgitalia.org/teams/maria-cristina-verrocchio/ ; alienazione.genitoriale.com archive https://www.alienazioneparentale.it/intervista-a-maria-cristina-verrocchio/2015/10/
 - **Regulatory body:** **Ordine degli Psicologi della Regione Abruzzo** (Sez. A psicologa-psicoterapeuta)
 - **Registration number:** **not publicly displayed**
@@ -519,6 +519,8 @@
 - **Marc Lormans** (BE) — no Belgian register entry, publication or named press coverage found; not publicly verifiable.
 
 All four are excluded pending a more specific identifier (Ordine / chamber number, named publication, institutional affiliation). If the brief intended different individuals than the search returned, please supply additional context.
+
+
 
 
 

@@ -63,7 +63,7 @@ Cass. 1re civ., 26 juin 2013, n° 12-14.392 (publié au Bulletin) est la premiè
 
 ## Outcome
 
-REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdecassation.fr/), Première Chambre civile, rejette le pourvoi formé par Mme Y... contre l'arrêt de la Cour d'appel de Rennes du 29 novembre 2011 ; condamne Mme Y... aux dépens ; rejette les demandes formées au titre de l'article 700 du Code de procédure civile. L'arrêt de Rennes — qui avait transféré la résidence habituelle de l'enfant chez le père au motif qu'« un syndrome d'aliénation parentale s'était instauré dans la vie de l'enfant » — est donc définitivement confirmé. Publication : Bulletin des arrêts des chambres civiles (Bull. civ. I), ce qui signale que la Cour de cassation a entendu donner à la décision une portée précédentielle dépassant l'espèce.
+REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdecassation.fr/), Première Chambre civile, rejette le pourvoi formé par Mme Y... contre l'arrêt de la Cour d'appel de Rennes du 29 novembre 2011 ; condamne Mme Y... aux dépens ; rejette les demandes formées au titre de l'article 700 du Code de procédure civile. L'arrêt de Rennes — qui avait transféré la résidence habituelle de l'enfant chez le père au motif qu'« un syndrome d'aliénation parentale s'était instauré dans la vie de l'enfant » — est donc définitivement confirmé. Publication : Bulletin des arrêts des chambres civiles (Bull. civ. I), ce qui signale que la [Cour de cassation](https://www.courdecassation.fr/) a entendu donner à la décision une portée précédentielle dépassant l'espèce.
 
 ## Comparative jurisprudence
 
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

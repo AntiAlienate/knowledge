@@ -103,7 +103,7 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 
 ## Sources
 
-1. **[European Court of Human Rights](https://www.echr.coe.int/) — Convention and judgments ([HUDOC](https://hudoc.echr.coe.int/))** — <https://www.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/) / Council of Europe) [en]
+1. **[European Court of Human Rights](https://www.echr.coe.int/) — Convention and judgments ([HUDOC](https://hudoc.echr.coe.int/))** — <https://www.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/) / [Council of Europe](https://www.coe.int/)) [en]
 2. **[HUDOC](https://hudoc.echr.coe.int/) — case-law database** — <https://hudoc.echr.coe.int/> ([European Court of Human Rights](https://www.echr.coe.int/)) [en]
 3. **Council of Europe — Committee of Ministers (execution of judgments)** — <https://www.coe.int/en/web/cm> (Council of Europe) [en]
 4. **Council of Europe Commissioner for Human Rights** — <https://www.coe.int/en/web/commissioner> (Council of Europe) [en]
@@ -125,6 +125,8 @@ The [European Convention on Human Rights](https://www.coe.int/en/web/conventions
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

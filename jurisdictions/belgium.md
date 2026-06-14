@@ -119,7 +119,7 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 ## Editorial notes
 
 - Primary-source order: federal Moniteur belge / [Cour de cassation](https://www.courdecassation.fr/) cited first; IEFH/IGVM Recommandation 2023/001 is foregrounded as the structurally unique critique anchor; CODE + Ligue des familles + yapaka.be follow at civil-society level; community-level decrees (FWB + Vlaams) cited last.
-- Bilingualism strictly preserved: FR and NL parallel terms given throughout (Tribunal de la famille / familierechtbank; Cour de cassation / Hof van Cassatie; Commission des psychologues / Psychologencommissie; IEFH/IGVM).
+- Bilingualism strictly preserved: FR and NL parallel terms given throughout (Tribunal de la famille / familierechtbank; [Cour de cassation](https://www.courdecassation.fr/) / Hof van Cassatie; Commission des psychologues / Psychologencommissie; IEFH/IGVM).
 - Cross-border NL+BE Nederlandstalige knowledge-space and FR+BE francophone knowledge-space overlaps explicitly recognised in structural_findings[3] and [4]; deepening of NL or FR jurisdictions must take account of this shared circuit.
 - Belgium is treated as a federal jurisdiction with community/linguistic-level institutional differences flagged where material; the Deutschsprachige Gemeinschaft (Eupen-Malmedy) is briefly noted at language[]=['nl','fr','de'] but no separate institutional analysis is given at this v1.0.
 - Preserved corrections from be.json therapist v2: (i) Roland Coenen not verifiable as PA-specific author (pedagogy non-punitive + adolescent systemics Tamaris); (ii) Reine Vander Linden specialty is perinatal not PA, yapaka corpus touches PA via early garde-alternée debate.
@@ -128,6 +128,8 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

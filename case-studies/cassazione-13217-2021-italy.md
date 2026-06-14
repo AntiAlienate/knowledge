@@ -120,7 +120,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
   - Annotazione accademica universitaria che colloca Cass. 13217/2021 nella dogmatica dell'illecito endofamiliare.
 - Centro Studi Livatino — voci critiche del fronte opposto (2022) — Centro Studi Livatino, '[Cassazione](https://www.cortedicassazione.it/): nuovo stop all'alienazione parentale' — <https://www.centrostudilivatino.it/cassazione-nuovo-stop-allalienazione-parentale/>
   - Lettura di segno opposto dal fronte che difende l'utilizzabilità clinica/forense del costrutto AP — termine di paragone per documentare la frattura italiana del dibattito post-13217.
-- L-JUS / Centro Studi Livatino (2023) — Bianchini, 'Riflessioni in tema di alienazione parentale e giustizia a misura di minore. Dalle sentenze della Cassazione alle Linee Guida europee' — <https://l-jus.it/riflessioni-in-tema-di-alienazione-parentale-e-giustizia-a-misura-di-minore-dalle-sentenze-della-cassazione-alle-linee-guida-europee/>
+- L-JUS / Centro Studi Livatino (2023) — Bianchini, 'Riflessioni in tema di alienazione parentale e giustizia a misura di minore. Dalle sentenze della [Cassazione](https://www.cortedicassazione.it/) alle Linee Guida europee' — <https://l-jus.it/riflessioni-in-tema-di-alienazione-parentale-e-giustizia-a-misura-di-minore-dalle-sentenze-della-cassazione-alle-linee-guida-europee/>
   - Rassegna giurisprudenziale post-Cartabia che inquadra Cass. 13217/2021 come capostipite dell'orientamento successivamente confermato da 9691/2022 e dalle Linee Guida europee per una giustizia a misura di minore.
 
 ## See also
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
