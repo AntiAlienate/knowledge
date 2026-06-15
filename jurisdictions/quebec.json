@@ -4,7 +4,10 @@
   "name": "Quebec (Province of Quebec / Province de Québec)",
   "jurisdiction_code": "CA-QC",
   "legal_system": "civil-law",
-  "language": ["fr", "en"],
+  "language": [
+    "fr",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Quebec is a North American civil-law constituent province of Canada — structurally distinctive globally as the only French-civil-law jurisdiction in North America with continuous French-civil-law tradition since 1664 (predating Louisiana civil-law adoption by ~144 years), as the largest civil-law subnational jurisdiction within a common-law federal state by population (~8.7 million) and area (~1.5 million km²), and as the only Canadian province operating its own complete Civil Code (Code civil du Québec / CCQ 1994) replacing the Civil Code of Lower Canada 1866 (which itself replaced French Coutume de Paris 1664 through the 1763 British conquest and Quebec Act 1774). The CCQ is the only modern major civil-code recodification in North America (effective 1 January 1994). Quebec's civil-law tradition was constitutionally protected by the Quebec Act 1774, Constitutional Act 1791, and Constitution Act 1867 (s. 92(13) provincial jurisdiction over property and civil rights), reflecting unique historical compromise allowing French-civil-law preservation within British/Canadian common-law federal framework. Family-law framework operates under the Civil Code of Quebec Book Two — The Family (Articles 365-612) and the Quebec Code of Civil Procedure 2016, with parental authority under Articles 597-612 and child custody under Articles 514-521 of the CCQ supplemented by the Divorce Act 1985 (federal). Quebec is the only Canadian province that has signed but not formally ratified the federal Family Orders and Agreements Enforcement Assistance Act 1986 within its own civil-law framework. The Court of Appeal of Quebec is the apex appellate court for civil and criminal matters from Quebec; final appellate jurisdiction lies with the Supreme Court of Canada. Quebec is silent on 'parental alienation' as a statutory label in CCQ, though the term has been considered by Quebec Superior Court and Court of Appeal in case law including Droit de la famille — 132997 (2013 QCCA 1856). Canada is a Hague Convention 1980 party (acceded 1 December 1983) — Quebec Hague applicability via the federal Loi sur les aspects civils de l'enlèvement international et interprovincial d'enfants 1985 (Quebec implementation statute) and the federal An Act to Implement a Convention for the Civil Aspects of International Child Abduction 1985.",
@@ -114,7 +117,7 @@
     {
       "year": 2023,
       "title": "Legault CAQ Government + Bill 31 housing-reform + Protecteur-du-citoyen + Quebec-family-law-reform-Bill-2 framework",
-      "description": "François Legault (CAQ) Premier framework continuing through 2023 with Quebec National Assembly institutional positions addressing PA-related issues within Civil Code of Quebec Book Two Articles 365-612 framework applied via Court of Appeal of Quebec. Protecteur du citoyen (Quebec Ombudsperson) institutional positions affecting cross-border family-law adjudication. Continuing Quebec Bill 2 Family Law Reform Act framework (Loi portant sur la réforme du droit de la famille en matière de filiation et modifiant le Code civil 2022) substantively significant institutional context. Substantively significant North American Canadian-civil-law-province institutional jurisprudential development."
+      "description": "François Legault (CAQ) Premier framework continuing through 2023 with Quebec National Assembly institutional positions addressing PA-related issues within Civil Code of Quebec Book Two Articles 365-612 framework applied via Court of Appeal of Quebec. Protecteur du citoyen (Quebec Ombudsperson) institutional positions affecting cross-border family-law adjudication."
     },
     {
       "year": 2024,

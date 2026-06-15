@@ -4,7 +4,12 @@
   "name": "Delhi / National Capital Territory of Delhi (NCT) (दिल्ली)",
   "jurisdiction_code": "IN-DL",
   "legal_system": "common-law",
-  "language": ["en", "hi", "pa", "ur"],
+  "language": [
+    "en",
+    "hi",
+    "pa",
+    "ur"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Delhi (दिल्ली in Hindi) / officially the National Capital Territory of Delhi (NCT) is a North Indian common-law Indian Union Territory + national capital city — structurally distinctive globally as the only Indian Union Territory with constitutional Article 239AA special-status framework providing for a Legislative Assembly with substantially expanded legislative competence (inserted by Constitution (Sixty-Ninth Amendment) Act 1991, comprehensive Delhi state-like framework), as the seat of the Indian Federal Government (Indian Parliament, Indian Supreme Court, Rashtrapati Bhavan, Indian Cabinet Secretariat, Prime Minister's Office), as the largest Indian metropolitan jurisdiction by population (~33 million in greater Delhi NCR / ~16 million within NCT Delhi alone — the largest Indian metropolitan population) and the second-largest in the world (after Tokyo Greater Tokyo Area), and as the most contested modern Indian sub-state-vs-federal constitutional jurisdiction (multiple Supreme Court constitutional cases including Government of National Capital Territory of Delhi v Union of India (2018, 2023, 2024) defining the constitutional jurisdiction split between the elected NCT Government and the Lieutenant Governor appointed by the President of India). Delhi has been continuously inhabited since ~6th century BCE and was capital of multiple historical Indian empires/sultanates/Mughal dynasty 1638-1857. Following 1947 Partition, Delhi became a Part-C State 1950-1956, then Union Territory 1956-1991, then NCT under Article 239AA 1991-present. Delhi NCT comprises ~1,484 km² with a population of ~16.7 million. Family-law framework operates under the federal Indian common-law framework (Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, Christian Marriage Act 1872, Parsi Marriage and Divorce Act 1936, Special Marriage Act 1954, Guardians and Wards Act 1890) applied via NCT administrative framework. The Delhi High Court (established 31 October 1966) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Delhi is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Delhi is governed by the Indian non-ratification status.",
@@ -121,7 +126,7 @@
     {
       "year": 2025,
       "title": "BJP Delhi-Assembly-election-win + Rekha Gupta CM + post-AAP-decade framework",
-      "description": "BJP Delhi Assembly election win February 2025 ending AAP 12-year framework + Rekha Gupta Chief Minister February 2025 framework + continuing post-AAP-decade Delhi NCT framework with continuing GNCTD Amendment Act 2021 + Delhi Services Act 2023 federal-vs-NCT contestation framework + Delhi High Court + Supreme Court of India institutional positions addressing PA-related issues within Hindu Marriage Act 1955 + Guardians and Wards Act 1890 framework. Substantively significant North Indian-Union-Territory institutional jurisprudential development."
+      "description": "BJP Delhi Assembly election win February 2025 ending AAP 12-year framework, Rekha Gupta Chief Minister February 2025 framework, continuing post-AAP-decade Delhi NCT framework with continuing GNCTD Amendment Act 2021, Delhi Services Act 2023 federal-vs-NCT contestation framework, Delhi High Court, Supreme Court of India institutional positions addressing PA-related issues within Hindu Marriage Act 1955, Guardians and Wards Act 1890 framework."
     },
     {
       "year": 2024,

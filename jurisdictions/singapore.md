@@ -218,7 +218,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
       "url": "https://sso.agc.gov.sg/Act/AMLA1966",
       "datePublished": "1966",
-      "description": "Administration of Muslim Law Act (AMLA) 1966 establishing Syariah Court framework for Muslim personal-status matters including marriage, divorce, and custody. Substantively significant Islamic personal-status framework operating in parallel with Women's Charter framework."
+      "description": "Administration of Muslim Law Act (AMLA) 1966 establishing Syariah Court framework for Muslim personal-status matters including marriage, divorce, and custody."
     },
     {
       "@type": "Legislation",
@@ -245,7 +245,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
       "url": "https://sso.agc.gov.sg/Act/ICAA2010",
       "datePublished": "2010",
-      "description": "International Child Abduction Act 2010 implementing 1980 Hague Convention obligations. Singapore acceded to 1980 Hague Convention 28 December 2010 (in force 1 March 2011). Substantively significant international-abduction framework."
+      "description": "International Child Abduction Act 2010 implementing 1980 Hague Convention obligations. Singapore acceded to 1980 Hague Convention 28 December 2010 (in force 1 March 2011)."
     }
   ]
 }

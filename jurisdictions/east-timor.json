@@ -4,7 +4,10 @@
   "name": "East Timor (Timor-Leste / Democratic Republic of Timor-Leste / República Democrática de Timor-Leste)",
   "jurisdiction_code": "TL",
   "legal_system": "civil-law",
-  "language": ["pt", "tet"],
+  "language": [
+    "pt",
+    "tet"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "East Timor (Timor-Leste) is a Southeast Asian civil-law unitary republic whose family-law framework operates under the Civil Code 2011 (Código Civil, Law 10/2011 effective 1 September 2011) drawing on Portuguese civil-law substantive heritage with Indonesian-civil-code-transition influence, supplemented by Law 8/2010 on Domestic Violence and the Penal Code 2009 child-protection provisions. Parental responsibility (responsabilidade parental) and child custody are governed by Civil Code arts. 1758-1805. The Court of Appeal of Timor-Leste (Tribunal de Recurso) is the apex domestic court for civil and criminal matters; constitutional review jurisdiction lies with the Court of Appeal. Family-law matters are heard at first instance in the District Courts (Tribunais Distritais). Psychology profession is regulated through the Ministry of Health framework. East Timor is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard codified in Civil Code arts. 1771-1775. East Timor is non-Hague Convention.",
@@ -94,7 +97,7 @@
     {
       "year": 2023,
       "title": "ASEAN observer + Provedoria dos Direitos Humanos e Justiça + Xanana Gusmão government",
-      "description": "Timor-Leste ASEAN observer status continuing 2022-2023 with substantive ASEAN accession trajectory expected 2025-2026. Xanana Gusmão government (CNRT) 2023-onwards. Provedoria dos Direitos Humanos e Justiça (PDHJ — Ombudsperson) institutional position addressing PA-related issues within Civil Code 2011 + Law on Child Protection 2016 framework. Substantively significant Lusophone Southeast Asian institutional jurisprudential development."
+      "description": "Timor-Leste ASEAN observer status continuing 2022-2023 with substantive ASEAN accession trajectory expected 2025-2026. Xanana Gusmão government (CNRT) 2023-onwards. Provedoria dos Direitos Humanos e Justiça (PDHJ — Ombudsperson) institutional position addressing PA-related issues within Civil Code 2011, Law on Child Protection 2016 framework."
     },
     {
       "year": 2024,

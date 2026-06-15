@@ -4,7 +4,9 @@
   "name": "Czechia (Česko / Czech Republic)",
   "jurisdiction_code": "CZ",
   "legal_system": "civil-law",
-  "language": ["cs"],
+  "language": [
+    "cs"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Czechia is a civil-law unitary republic whose family-law framework was substantially modernised by the New Civil Code (Občanský zákoník, Law 89/2012) in force 1 January 2014. Parental responsibility (rodičovská odpovědnost) is governed by §§ 858-880 of the New Civil Code. The Supreme Court (Nejvyšší soud, Brno) is the apex civil-court of cassation; the Constitutional Court (Ústavní soud, Brno) operates a separate constitutional-review jurisdiction. Family-law matters are heard first-instance by Okresní soud (District Courts) with appeals to Krajský soud (Regional Courts). Psychology profession is regulated under Law 96/2004 on non-medical health professions and the Czech Psychological Society (Českomoravská psychologická společnost / ČMPS) operates ethics oversight. Czechia is silent on 'parental alienation' as a statutory label; courts operate substantively under the nejlepší zájem dítěte (best-interests-of-the-child) standard. The Constitutional Court has produced jurisprudence on parental-contact enforcement engaging the European Convention positive-obligations framework.",
@@ -112,7 +114,7 @@
     {
       "year": 2023,
       "title": "Pavel presidency + Fiala government + Veřejný-ochránce-práv + continuing-Czech-family-court framework",
-      "description": "Petr Pavel Presidency framework March 2023-onwards with Fiala ODS-STAN-Pirates-KDU-ČSL coalition Government Czechia continuing through 2023. Veřejný ochránce práv (Czech Ombudsman) institutional positions addressing PA-related issues within Občanský zákoník §§ 858-880 framework applied via Okresní soud + Krajský soud framework. Continuing ECHR Article 8 positive-obligations parental-contact-enforcement jurisprudence framework substantively significant institutional context. Substantively significant CEE civil-law institutional jurisprudential development."
+      "description": "Petr Pavel Presidency framework March 2023-onwards with Fiala ODS coalition Government Czechia continuing through 2023. Veřejný ochránce práv (Czech Ombudsman) institutional positions addressing PA-related issues within Občanský zákoník §§ 858-880 framework applied via Okresní soud, Krajský soud framework."
     },
     {
       "year": 2024,

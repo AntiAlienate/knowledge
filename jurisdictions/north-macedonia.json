@@ -4,7 +4,10 @@
   "name": "North Macedonia (Северна Македонија)",
   "jurisdiction_code": "MK",
   "legal_system": "civil-law",
-  "language": ["mk", "sq"],
+  "language": [
+    "mk",
+    "sq"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "North Macedonia is a Western Balkans civil-law unitary republic whose family-law framework operates under the Закон за семејството (Law on the Family) of 1992 as substantially amended. Parental rights (родителски права) are governed by arts. 45-79; joint exercise during marriage is the statutory default. The Врховен суд (Supreme Court of North Macedonia, Skopje) is the apex court for civil and criminal matters; the Уставен суд (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under Ministry of Health licensing framework with the Комора на психолози на Република Северна Македонија (Chamber of Psychologists) operating professional standards. North Macedonia is silent on 'parental alienation' as a statutory label; courts operate substantively under the најдобар интерес на детето (best-interests-of-the-child) standard. Council of Europe member.",
@@ -78,7 +81,7 @@
     {
       "year": 2009,
       "title": "Hague Convention 1980 succession",
-      "description": "North Macedonia succession to Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 December 1991 (succession to SFR Yugoslavia 1991 accession). Hague-1980 framework substantively significant for cross-border-displacement custody matters."
+      "description": "North Macedonia succession to Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 December 1991 (succession to SFR Yugoslavia 1991 accession)."
     },
     {
       "year": 2019,
@@ -93,7 +96,7 @@
     {
       "year": 2023,
       "title": "Народен правобранител + EU-accession negotiations continuation + Bulgaria-veto framework resolution",
-      "description": "Народен правобранител (Ombudsperson) institutional position addressing PA-related issues within Закон за семејството framework. EU accession negotiations continuation through 2023 with Bulgaria-veto framework resolution pending constitutional amendments addressing Bulgarian minority recognition. Substantively significant Balkans institutional jurisprudential development establishing trajectory toward 2024 substantive register."
+      "description": "Народен правобранител (Ombudsperson) institutional position addressing PA-related issues within Закон за семејството framework. EU accession negotiations continuation through 2023 with Bulgaria-veto framework resolution pending constitutional amendments addressing Bulgarian minority recognition."
     },
     {
       "year": 2024,

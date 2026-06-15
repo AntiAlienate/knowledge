@@ -4,7 +4,10 @@
   "name": "Kosovo (Republic of Kosovo / Republika e Kosovës)",
   "jurisdiction_code": "XK",
   "legal_system": "civil-law",
-  "language": ["sq", "sr"],
+  "language": [
+    "sq",
+    "sr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Kosovo is a Balkan civil-law unitary republic — partially recognised internationally — whose family-law framework operates under the Family Law 2004 (Law 2004/32, drawing on Yugoslav civil-law substantive heritage with European-codification-influenced reforms) supplemented by Law 06/L-084 on Child Protection 2019. Parental rights and child custody are governed by Family Law arts. 130-155. The Supreme Court of Kosovo is the apex court for civil and criminal matters; the Constitutional Court (Gjykata Kushtetuese) operates separate constitutional review. Family-law matters are heard at first instance in the Basic Courts (Gjykatat Themelore). Psychology profession is regulated through the Order of Psychologists of Kosovo. Kosovo is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard. Kosovo is not a Hague Convention 1980 party due to partial recognition (cannot accede via UN/Hague Conference standard accession). Kosovo applies ECHR jurisprudence per Constitution art. 22 directly applicable, though not a Council of Europe member due to recognition constraint.",
@@ -102,12 +105,12 @@
     {
       "year": 2023,
       "title": "Council of Europe Parliamentary Assembly recommendation + CoE-membership-trajectory",
-      "description": "Council of Europe Parliamentary Assembly recommendation April 2023 favouring Kosovo membership in Council of Europe — substantively significant given Constitution Art. 22 direct-ECHR application but no formal CoE membership. CoE membership process subsequently constrained by Russian-Serbian non-recognition coordination."
+      "description": "Council of Europe Parliamentary Assembly recommendation April 2023 favouring Kosovo membership in Council of Europe. 22 direct-ECHR application but no formal CoE membership. CoE membership process subsequently constrained by Russian-Serbian non-recognition coordination."
     },
     {
       "year": 2022,
       "title": "Visa liberalisation framework + Ombudsperson Institution + Kosovo-Serbia normalisation negotiations",
-      "description": "Kosovo visa liberalisation framework granted EU 2022 (effective 1 January 2024) substantively significant Balkans EU-integration framework. Ombudsperson Institution addressing PA-related issues within Family Law 2004 + Law on Child Protection 2019 framework. Kosovo-Serbia normalisation negotiations 2022-2023 substantively significant Balkans institutional context. Substantively significant Western Balkans institutional jurisprudential development."
+      "description": "Ombudsperson Institution addressing PA-related issues within Family Law 2004, Law on Child Protection 2019 framework."
     },
     {
       "year": 2024,

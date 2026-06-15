@@ -4,7 +4,10 @@
   "name": "Iraq (Republic of Iraq / جمهورية العراق)",
   "jurisdiction_code": "IQ",
   "legal_system": "mixed",
-  "language": ["ar", "ku"],
+  "language": [
+    "ar",
+    "ku"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Iraq is a MENA mixed-legal-system federal republic combining French civil-law substantive heritage (via Egyptian Civil Code transplant) with Hanafi/Ja'fari Islamic-law personal-status jurisdiction (Sunni-Shia hybrid framework). Family-law framework operates under the Personal Status Law 188/1959 — structurally distinctive as among the most progressive Arab personal-status statutes of the Hashemite/Republican era, codifying unified Sunni-Shia application (rather than parallel community courts). Custody (hadana) and guardianship (wilaya) are governed by Personal Status Law arts. 57-58. The Federal Court of Cassation (محكمة التمييز الاتحادية) is the apex court for civil and criminal matters; the Federal Supreme Court (المحكمة الاتحادية العليا) operates constitutional review. Personal-status courts (Sharia/Civil) operate first-instance Muslim personal-status jurisdiction. The Kurdistan Region operates a parallel Personal Status Law framework under the Kurdistan Regional Government. Psychology profession is regulated through the Ministry of Health framework. Iraq is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Iraq is non-Hague Convention.",
@@ -75,7 +78,7 @@
     {
       "year": 1994,
       "title": "Iraq ratifies UN Convention on the Rights of the Child",
-      "description": "Iraq ratified the UNCRC on 15 June 1994 (with reservation to Art. 14(1) on freedom of religion) — framing the family-law-reform trajectory toward best-interest-of-the-child substantive doctrine. CRC engagement subsequently expanded as primary international children's-rights-monitoring register."
+      "description": "Iraq ratified the UNCRC on 15 June 1994 (with reservation to Art. 14(1) on freedom of religion). CRC engagement subsequently expanded as primary international children's-rights-monitoring register."
     },
     {
       "year": 2005,
@@ -100,7 +103,7 @@
     {
       "year": 2023,
       "title": "Sudani government framework + KRG family-law coordination + Independent High Commission for Human Rights",
-      "description": "Mohammed Shia' al-Sudani (Coordination Framework) presidency 2022-onwards continuing through 2023. Kurdistan Regional Government (KRG) family-law coordination framework substantively significant for federal-regional cross-jurisdictional family-law adjudication. Independent High Commission for Human Rights of Iraq institutional position addressing PA-related issues within Personal Status Law 188/1959 unified-codification framework. Substantively significant Mesopotamian institutional jurisprudential development establishing trajectory toward 2024 sectarian-amendment proposal context."
+      "description": "Mohammed Shia' al-Sudani (Coordination Framework) presidency 2022-onwards continuing through 2023. Independent High Commission for Human Rights of Iraq institutional position addressing PA-related issues within Personal Status Law 188/1959 unified-codification framework."
     },
     {
       "year": 2025,

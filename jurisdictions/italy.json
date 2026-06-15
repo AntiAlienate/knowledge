@@ -4,7 +4,9 @@
   "name": "Italy (Repubblica Italiana)",
   "jurisdiction_code": "IT",
   "legal_system": "civil-law",
-  "language": ["it"],
+  "language": [
+    "it"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Italy is a civil-law jurisdiction whose family courts (Tribunale per i minorenni and Tribunale ordinario sezione famiglia) operate under the Codice civile arts. 315-bis to 337-octies (responsabilità genitoriale) and the Codice di procedura civile. The Corte di cassazione Sezione I civile in Cass. civ. ord. n. 13217/2021 and ord. n. 9691/2022 expressly characterised PAS as pseudoscientific ('priva di base scientifica') and excluded its use as a diagnostic category in custody proceedings. This places Italy firmly in the institutional-critique camp, alongside Germany (BVerfG 2023) and Spain (CGPJ guides). The Consiglio Superiore di Sanità has not validated PAS as a clinical diagnosis.",
@@ -33,7 +35,7 @@
       "title": "Tutela delle vittime di violenza domestica e di genere",
       "year": 2019,
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-07-19;69",
-      "relevance": "Codice Rosso strengthens DV-protection framework with expedited judicial procedure — substantively significant DV-PA-allegation intersection mechanism."
+      "relevance": "Codice Rosso strengthens DV-protection framework with expedited judicial procedure."
     },
     {
       "citation": "Convenzione di Istanbul art. 31",
@@ -47,7 +49,7 @@
       "title": "Riforma del processo civile e del processo per le persone, per i minorenni e per le famiglie",
       "year": 2022,
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;149",
-      "relevance": "Riforma Cartabia comprehensively restructures family-law procedure, establishing Tribunale per le persone, per i minorenni e per le famiglie (effective 17 October 2024) — substantively significant procedural reform."
+      "relevance": "Riforma Cartabia comprehensively restructures family-law procedure, establishing Tribunale per le persone, per i minorenni e per le famiglie (effective 17 October 2024)."
     }
   ],
   "apex_courts": [
@@ -86,7 +88,7 @@
     {
       "year": 2006,
       "title": "Legge 54/2006 — affidamento condiviso established as default",
-      "description": "Legge 8 febbraio 2006 n. 54 establishing affidamento condiviso (shared parental responsibility) as default post-separation framework. Substantively transformative shift from sole-custody default to gender-equal shared-custody framework — substantively significant 21st-century reform."
+      "description": "Legge 8 febbraio 2006 n. 54 establishing affidamento condiviso (shared parental responsibility) as default post-separation framework. Substantively transformative shift from sole-custody default to gender-equal shared-custody framework."
     },
     {
       "year": 2013,
@@ -101,27 +103,27 @@
     {
       "year": 2019,
       "title": "Codice Rosso n. 69/2019 — DV-protection framework strengthening",
-      "description": "Legge 19 luglio 2019 n. 69 (Codice Rosso) strengthening DV-protection framework with expedited judicial procedure for DV crimes. Substantively significant DV-protection reform shaping subsequent affidamento jurisprudence."
+      "description": "Legge 19 luglio 2019 n. 69 (Codice Rosso) strengthening DV-protection framework with expedited judicial procedure for DV crimes."
     },
     {
       "year": 2021,
       "title": "Cass. civ. ord. n. 13217/2021 — PAS pseudoscientific characterisation",
-      "description": "Corte di cassazione Sezione I civile ordinanza n. 13217 of 17 May 2021 expressly characterising PAS as pseudoscientific ('priva di base scientifica') and excluding its use as a diagnostic category in custody proceedings. Substantively significant apex-court ruling establishing Italy in the institutional-critique cluster alongside Germany (BVerfG 2023) and Spain (CGPJ guides)."
+      "description": "Corte di cassazione Sezione I civile ordinanza n. 13217 of 17 May 2021 expressly characterising PAS as pseudoscientific ('priva di base scientifica') and excluding its use as a diagnostic category in custody proceedings."
     },
     {
       "year": 2022,
       "title": "Cass. civ. ord. n. 9691/2022 + riforma Cartabia n. 149/2022",
-      "description": "Corte di cassazione Sezione I civile ordinanza n. 9691 of 24 March 2022 reaffirming PAS pseudoscientific characterisation. D.lgs. 10 ottobre 2022 n. 149 (riforma Cartabia) comprehensively restructuring family-law procedure establishing Tribunale per le persone, per i minorenni e per le famiglie (effective 17 October 2024) — substantively significant procedural reform."
+      "description": "Corte di cassazione Sezione I civile ordinanza n. 9691 of 24 March 2022 reaffirming PAS pseudoscientific characterisation. D.lgs. 10 ottobre 2022 n. 149 (riforma Cartabia) comprehensively restructuring family-law procedure establishing Tribunale per le persone, per i minorenni e per le famiglie (effective 17 October 2024)."
     },
     {
       "year": 2023,
       "title": "Cass. civ. ord. n. 9691/2023 reaffirmation + CTU quality-standard framework",
-      "description": "Additional Corte di cassazione Sezione I civile 2023 ordinanze reaffirming PAS pseudoscientific characterisation framework — operationally consolidating the post-2021-2022 institutional-critique register. Substantively significant Consulenza Tecnica d'Ufficio (CTU) quality-standard framework development with CNF (Consiglio Nazionale Forense) + Ordine degli Psicologi guidance addressing PAS-syndromic framing in CTU reports. Establishes trajectory toward post-2024 Tribunale per le persone unified-court PAS-critique consolidation."
+      "description": "Additional Corte di cassazione Sezione I civile 2023 ordinanze reaffirming PAS pseudoscientific characterisation framework — operationally consolidating the post-2021-2022 institutional-critique register. Establishes trajectory toward post-2024 Tribunale per le persone unified-court PAS-critique consolidation."
     },
     {
       "year": 2024,
       "title": "Tribunale per le persone, per i minorenni e per le famiglie — unified family court operational",
-      "description": "Tribunale per le persone, per i minorenni e per le famiglie operational 17 October 2024 unifying previously fragmented family-law jurisdiction (Tribunale per i minorenni + Tribunale ordinario sezione famiglia). Substantively significant institutional-reform consolidating Italian family-law procedural framework — operating under interesse superiore del minore standard with apex-court PAS-critique register."
+      "description": "Tribunale per le persone, per i minorenni e per le famiglie operational 17 October 2024 unifying previously fragmented family-law jurisdiction (Tribunale per i minorenni, Tribunale ordinario sezione famiglia)."
     }
   ],
   "structural_findings": [

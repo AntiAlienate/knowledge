@@ -4,7 +4,10 @@
   "name": "Kyrgyzstan (Kyrgyz Republic / Кыргыз Республикасы)",
   "jurisdiction_code": "KG",
   "legal_system": "civil-law",
-  "language": ["ky", "ru"],
+  "language": [
+    "ky",
+    "ru"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Kyrgyzstan is a Central Asian civil-law unitary republic whose family-law framework operates under the Family Code of the Kyrgyz Republic 2003 (Үй-бүлө кодекси) — federal civil-code framework drawing on post-Soviet civil-law tradition. Parental rights and child custody are governed by Family Code arts. 63-94. The Supreme Court of the Kyrgyz Republic (Кыргыз Республикасынын Жогорку Соту) is the apex court for civil and criminal matters; the Constitutional Court (Конституциялык сот, restructured 2021) operates constitutional review. Family-law matters are heard at first instance in the District/City Courts. Psychology profession is regulated through the Ministry of Health framework. Kyrgyzstan is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-interests standard codified in Family Code art. 63. Kyrgyzstan acceded to the Hague Convention 1980 effective 1 May 2012.",
@@ -60,7 +63,7 @@
     {
       "year": 1993,
       "title": "Constitution of the Kyrgyz Republic 1993 + Kyrgyzstan ratifies UNCRC",
-      "description": "Constitution of the Kyrgyz Republic adopted 5 May 1993 — establishing parliamentary republic framework (subsequently amended multiple times). Kyrgyzstan ratified the UNCRC on 7 October 1994 — framing the post-Soviet family-law-reform trajectory toward best-interest-of-the-child substantive doctrine."
+      "description": "Constitution of the Kyrgyz Republic adopted 5 May 1993 — establishing parliamentary republic framework (subsequently amended multiple times). Kyrgyzstan ratified the UNCRC on 7 October 1994."
     },
     {
       "year": 2003,
@@ -100,7 +103,7 @@
     {
       "year": 2023,
       "title": "2021 Constitution implementation framework + Akylbek Japarov premiership + Children's Rights Ombudsperson",
-      "description": "Constitution 2021 implementation framework continuing through 2023 under restructured constitutional framework. Akylbek Japarov premiership 2023 transition framework. Akyikatchy (Ombudsperson) institutional position addressing PA-related issues within Family Code + Children's Code 2012 framework. Substantively significant Central Asian institutional jurisprudential development."
+      "description": "Constitution 2021 implementation framework continuing through 2023 under restructured constitutional framework. Akylbek Japarov premiership 2023 transition framework. Akyikatchy (Ombudsperson) institutional position addressing PA-related issues within Family Code, Children's Code 2012 framework."
     },
     {
       "year": 2025,

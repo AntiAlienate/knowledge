@@ -4,7 +4,10 @@
   "name": "Macau (Macao Special Administrative Region of the People's Republic of China / 中華人民共和國澳門特別行政區 / Região Administrativa Especial de Macau da República Popular da China)",
   "jurisdiction_code": "MO",
   "legal_system": "civil-law",
-  "language": ["zh", "pt"],
+  "language": [
+    "zh",
+    "pt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Macau (Macao SAR) is an East Asian civil-law Special Administrative Region of the People's Republic of China — operating under 'One Country, Two Systems' framework with high autonomy under the Macau Basic Law 1993. Macau is structurally distinctive globally as the only Portuguese-civil-law SAR — retaining Portuguese-derivative civil-law substantive framework distinct from mainland PRC. Family-law framework operates under the Civil Code 1999 (Código Civil de Macau, Decree-Law 39/99/M, effective 1 November 1999) drawing on Portuguese Civil Code 1966 substantive heritage. Parental responsibility (responsabilidade parental) and child custody are governed by Civil Code arts. 1736-1789. The Court of Final Appeal (Tribunal de Última Instância) is the apex court for civil and criminal matters; constitutional matters fall within the SAR judicial framework. Family-law matters are heard at first instance in the Court of First Instance (Tribunal Judicial de Base). Psychology profession is regulated through the Health Bureau framework. Macau is silent on 'parental alienation' as a statutory label; courts operate substantively under the superior-interest-of-the-child standard. Macau is a Hague Convention 1980 party via PRC territorial extension to Macau effective 1 March 1999.",
@@ -94,7 +97,7 @@
     {
       "year": 2023,
       "title": "Sam Hou Fai presidency + post-COVID-recovery framework + 25-year handover anniversary preparation",
-      "description": "Sam Hou Fai (Chief Executive 2024-onwards) framework transition. Post-COVID-recovery framework substantively significant institutional context affecting demographic and family-law adjudication. 25-year handover anniversary preparation 2023 substantively significant institutional context. Provedoria de Justiça (Ombudsperson) institutional position addressing PA-related issues within Civil Code framework. Substantively significant SAR institutional jurisprudential development."
+      "description": "Sam Hou Fai (Chief Executive 2024-onwards) framework transition. Provedoria de Justiça (Ombudsperson) institutional position addressing PA-related issues within Civil Code framework."
     },
     {
       "year": 2024,

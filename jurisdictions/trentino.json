@@ -4,7 +4,12 @@
   "name": "Trentino (Provincia Autonoma di Trento / Trentin)",
   "jurisdiction_code": "IT-TN",
   "legal_system": "civil-law",
-  "language": ["it", "lld", "mhn", "cim"],
+  "language": [
+    "it",
+    "lld",
+    "mhn",
+    "cim"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Trentino (officially Provincia Autonoma di Trento / Provinz Trient / Trentin) is an Alpine civil-law autonomous province of the Italian Republic — the southern Italian-language counterpart to South Tyrol within the broader Trentino-Alto Adige autonomous region — structurally distinctive globally as the only EU member-state subnational entity operating four constitutionally-protected linguistic minority frameworks (Ladin in the Fassa Valley; Mòcheno in the Mòcheno Valley/Bersntol; Cimbrian in Lusern; and Italian as majority language), as the central jurisdiction of three of Italy's six recognised linguistic-island-isolate communities (Ladin Fassa, Mòcheno Bersntol, Cimbrian Lusern — distinct Walser-Bavarian Germanic-language islands within Italian autonomous province), and as the southern co-equal partner with South Tyrol in the unique Trentino-Alto Adige two-province autonomous-region framework where each constituent province (Trentino + South Tyrol) holds equivalent autonomy and the regional layer functions primarily as a coordinator. Trentino's autonomous-province framework was established by Italian Constitutional Law 1/1948 of 26 February 1948 (as integrated into the broader Trentino-Alto Adige Statuto Speciale 1972), comprehensively re-established by Italian Constitutional Law 1/1971 + the 1971 Pacchetto agreement. The 1972 Statuto Speciale per il Trentino-Alto Adige (modified by Constitutional Law 2/2001) grants Trentino exclusive legislative competence over agriculture, forests, tourism, mountain economy, and various other matters. Family-law framework operates under the Italian Civil Code (Codice Civile 1942, as amended by Law 54/2006 Joint Custody Reform) applied via Trentino autonomous-province administrative framework with Ladin, Mòcheno, and Cimbrian language-rights protections. Parental authority (responsabilità genitoriale) and child custody operate under Italian Civil Code Articles 315-342-bis as amended. The Trento Court of Appeal is the apex appellate court for Trentino civil and criminal matters; final appellate jurisdiction lies with the Italian Court of Cassation and the Italian Constitutional Court. Trentino is silent on 'parental alienation' as a statutory label. Italy is a Hague Convention 1980 party (acceded 22 February 1985) — Trentino Hague applicability via Italian territorial extension.",
@@ -121,7 +126,7 @@
     {
       "year": 2023,
       "title": "Maurizio Fugatti Lega Government + Consiglio Provinciale + Difensore Civico + Magnifica Comunità di Fiemme framework",
-      "description": "Maurizio Fugatti (Lega) President framework continuing through 2023 with Consiglio Provinciale di Trento institutional positions addressing PA-related issues within Italian Codice Civile arts. 315-342-bis + Statuto Speciale 1972 framework applied via Corte d'Appello di Trento. Difensore Civico institutional positions affecting cross-border family-law adjudication. Magnifica Comunità di Fiemme + Comuni di Fassa + Bersntol Mòcheno + Lusern Cimbrian institutional positions on linguistic-minority frameworks substantively significant institutional context. Substantively significant Alpine Italian-autonomous-province institutional jurisprudential development."
+      "description": "Maurizio Fugatti (Lega) President framework continuing through 2023 with Consiglio Provinciale di Trento institutional positions addressing PA-related issues within Italian Codice Civile arts. 315-342-bis, Statuto Speciale 1972 framework applied via Corte d'Appello di Trento. Difensore Civico institutional positions affecting cross-border family-law adjudication."
     },
     {
       "year": 2024,

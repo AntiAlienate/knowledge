@@ -313,7 +313,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
       "datePublished": "2013",
-      "description": "Establishes Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014 — substantively significant institutional reform unifying Belgian family-law procedural framework."
+      "description": "Establishes Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014."
     },
     {
       "@type": "Legislation",
@@ -322,7 +322,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
       "url": "https://www.const-court.be/en/basic-text/belgian-constitution",
       "datePublished": "2008",
-      "description": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification."
+      "description": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard."
     },
     {
       "@type": "Legislation",

@@ -227,7 +227,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "India (Republic of India / भारत गणराज्य)",
       "url": "https://www.indiacode.nic.in/handle/123456789/2031",
       "datePublished": "2005",
-      "description": "Protection of Women from Domestic Violence Act 2005 establishing DV-protection framework with protection-order procedure. Substantively significant for DV-PA-allegation intersection cases."
+      "description": "Protection of Women from Domestic Violence Act 2005 establishing DV-protection framework with protection-order procedure."
     }
   ]
 }

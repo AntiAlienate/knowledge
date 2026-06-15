@@ -4,7 +4,9 @@
   "name": "Albania (Shqipëria)",
   "jurisdiction_code": "AL",
   "legal_system": "civil-law",
-  "language": ["sq"],
+  "language": [
+    "sq"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Albania is a Western Balkans civil-law unitary republic whose family-law framework operates under the Family Code (Kodi i Familjes, Law 9062/2003) in force 21 December 2003. Parental responsibility (përgjegjësia prindërore) is governed by Kodi i Familjes arts. 215-255; joint exercise during marriage is the statutory default. The Gjykata e Lartë (High Court of Albania, Tirana) is the apex court for civil and criminal matters; the Gjykata Kushtetuese (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated under Law 40/2016 (On the Profession of Psychologist) establishing the Urdhri i Psikologut (Order of Psychologists) — statutory professional-order regime. Albania is silent on 'parental alienation' as a statutory label; courts operate substantively under the interesi më i lartë i fëmijës (best-interests-of-the-child) standard. Council of Europe member; ECHR Strasbourg jurisprudence applies.",
@@ -60,7 +62,7 @@
     {
       "year": 1992,
       "title": "Albania ratifies UN Convention on the Rights of the Child",
-      "description": "Albania ratified the UNCRC on 27 February 1992 — among the early post-Communist ratifications — framing the post-Communist family-law-reform trajectory toward best-interests-of-the-child substantive doctrine."
+      "description": "Albania ratified the UNCRC on 27 February 1992."
     },
     {
       "year": 1995,
@@ -100,7 +102,7 @@
     {
       "year": 2023,
       "title": "Avokati i Popullit + Rama government third-term + 2023 EU-accession-trajectory acceleration",
-      "description": "Edi Rama (Socialist Party) third-term government 2021-2025 continuing through 2023. Avokati i Popullit (People's Advocate / Ombudsperson) institutional position addressing PA-related issues within Kodi i Familjes framework. 2023 EU-accession-trajectory acceleration through cluster-opening framework substantively significant Balkans institutional context. Substantively significant Balkans institutional jurisprudential development."
+      "description": "Edi Rama (Socialist Party) third-term government 2021-2025 continuing through 2023. Avokati i Popullit (People's Advocate / Ombudsperson) institutional position addressing PA-related issues within Kodi i Familjes framework."
     },
     {
       "year": 2024,

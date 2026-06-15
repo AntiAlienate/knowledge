@@ -236,7 +236,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
       "url": "https://www.refworld.org/docid/49997afc1a.html",
       "datePublished": "1999",
-      "description": "Post-1999 Sharia law implementation in 12 northern states (Zamfara, Sokoto, Kebbi, Niger, Kano, Katsina, Kaduna, Jigawa, Yobe, Borno, Bauchi, Gombe). Substantively significant federal-pluralism framework with Sharia personal-status jurisdiction in northern states."
+      "description": "Post-1999 Sharia law implementation in 12 northern states (Zamfara, Sokoto, Kebbi, Niger, Kano, Katsina, Kaduna, Jigawa, Yobe, Borno, Bauchi, Gombe)."
     },
     {
       "@type": "Legislation",

@@ -4,7 +4,12 @@
   "name": "Friuli-Venezia Giulia (Friûl-Vignesie Julie / Furlanija-Julijska krajina)",
   "jurisdiction_code": "IT-FVG",
   "legal_system": "civil-law",
-  "language": ["it", "fur", "sl", "de"],
+  "language": [
+    "it",
+    "fur",
+    "sl",
+    "de"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Friuli-Venezia Giulia (Friûl-Vignesie Julie in Friulian / Furlanija-Julijska krajina in Slovene / officially Regione Autonoma Friuli Venezia Giulia / Friulian: Regjon Autonome Friûl Vignesie Julie) is a North-eastern Italian Alpine-Adriatic civil-law autonomous region of the Italian Republic — structurally distinctive globally as the only Italian autonomous region with three constitutionally-protected linguistic minorities (Friulian as recognised regional language; Slovene as recognised cross-border minority language; German as recognised minority language in the Sauris-Timau-Sappada Carnia communes), as the central jurisdiction of post-WWII Italo-Yugoslav border-dispute resolution including the 1947 Free Territory of Trieste framework (Treaty of Peace with Italy Annex VI-VII, 1947), the 1954 London Memorandum of Understanding (provisional Italian/Yugoslav administration of Free Territory zones), and the 1975 Treaty of Osimo (definitive Italo-Yugoslav border-establishment), and as the last Italian autonomous region established (Statuto Speciale 31 January 1963, ~15 years after the first wave of Italian autonomous regions — establishment delayed due to Trieste-area sovereignty resolution). Friuli-Venezia Giulia's autonomy framework was established by Italian Constitutional Law 1/1963 of 31 January 1963 (Statuto Speciale della Regione Friuli-Venezia Giulia). The region operates a four-province framework (Udine / Pordenone / Gorizia / Trieste). Family-law framework operates under the Italian Civil Code (Codice Civile 1942, as amended by Law 54/2006 Joint Custody Reform) applied via Friuli-Venezia Giulia autonomous-region administrative framework with Friulian, Slovene, and German language-rights protections. Parental authority (responsabilità genitoriale) and child custody operate under Italian Civil Code Articles 315-342-bis as amended. The Court of Appeal of Trieste is the apex regional appellate court for Friuli-Venezia Giulia civil and criminal matters; final appellate jurisdiction lies with the Italian Court of Cassation and the Italian Constitutional Court. Friuli-Venezia Giulia is silent on 'parental alienation' as a statutory label. Italy is a Hague Convention 1980 party (acceded 22 February 1985) — Friuli-Venezia Giulia Hague applicability via Italian territorial extension.",
@@ -121,7 +126,7 @@
     {
       "year": 2023,
       "title": "Fedriga Lega Government + Consiglio-Regionale + Difensore-Civico + GO!2025 framework",
-      "description": "Massimiliano Fedriga (Lega) President framework continuing 2023-onwards following April 2023 regional elections with Consiglio Regionale del Friuli Venezia Giulia institutional positions addressing PA-related issues within Italian Codice Civile arts. 315-342-bis framework applied via Corte d'Appello di Trieste. Difensore Civico (Regional Ombudsperson) institutional positions affecting cross-border family-law adjudication. GO!2025 Nova Gorica-Gorizia European Capital of Culture cross-border framework substantively significant institutional context. Substantively significant Alpine-Adriatic Italian-autonomous-region institutional jurisprudential development."
+      "description": "Massimiliano Fedriga (Lega) President framework continuing 2023-onwards following April 2023 regional elections with Consiglio Regionale del Friuli Venezia Giulia institutional positions addressing PA-related issues within Italian Codice Civile arts. 315-342-bis framework applied via Corte d'Appello di Trieste. Difensore Civico (Regional Ombudsperson) institutional positions affecting cross-border family-law adjudication."
     },
     {
       "year": 2024,

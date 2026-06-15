@@ -236,7 +236,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Colombia (República de Colombia)",
       "url": "https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=34054",
       "datePublished": "2008",
-      "description": "Ley 1257 of 2008 establishing comprehensive DV-protection framework with violencia de género types definition. Substantively significant for DV-PA-allegation intersection cases."
+      "description": "Ley 1257 of 2008 establishing comprehensive DV-protection framework with violencia de género types definition."
     },
     {
       "@type": "Legislation",

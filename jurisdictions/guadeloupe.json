@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "Guadeloupe is a French Département d'Outre-Mer / Région d'Outre-Mer (DOM-ROM) operating French civil-law family-law framework under Code civil arts. 371-1 to 387ter (autorité parentale). Family courts operate under the Loi du 27 juin 2018 instituant le juge aux affaires familiales (JAF) framework with French civil-law procedural framework via Tribunal Judiciaire de Pointe-à-Pitre and Tribunal Judiciaire de Basse-Terre. The statutory framework is silent on the 'aliénation parentale' label. The Cour d'appel de Basse-Terre and Cour de cassation develop intérêt supérieur de l'enfant jurisprudence within French DOM framework. EU Brussels IIb framework applies — operationally significant for cross-border family-law adjudication including expatriate-population and metropolitan-France diaspora cases. Substantively significant Caribbean French overseas department framework.",
+  "summary": "Guadeloupe is a French Département d'Outre-Mer / Région d'Outre-Mer (DOM-ROM) operating French civil-law family-law framework under Code civil arts. 371-1 to 387ter (autorité parentale). Family courts operate under the Loi du 27 juin 2018 instituant le juge aux affaires familiales (JAF) framework with French civil-law procedural framework via Tribunal Judiciaire de Pointe-à-Pitre and Tribunal Judiciaire de Basse-Terre. The statutory framework is silent on the 'aliénation parentale' label. The Cour d'appel de Basse-Terre and Cour de cassation develop intérêt supérieur de l'enfant jurisprudence within French DOM framework. EU Brussels IIb framework applies — operationally significant for cross-border family-law adjudication including expatriate-population and metropolitan-France diaspora cases.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -88,12 +88,12 @@
     {
       "year": 1982,
       "title": "Decentralisation laws + Region creation framework",
-      "description": "Decentralisation laws 1982 (Loi Defferre) creating Guadeloupe Region — substantively significant institutional reform establishing dual department + region framework."
+      "description": "Decentralisation laws 1982 (Loi Defferre) creating Guadeloupe Region."
     },
     {
       "year": 1993,
       "title": "Loi du 22 décembre 1993 — autorité parentale conjointe framework",
-      "description": "Loi du 22 décembre 1993 applicable to Guadeloupe as French DOM establishing autorité parentale conjointe framework. Substantively significant gender-equal parental-rights reform."
+      "description": "Loi du 22 décembre 1993 applicable to Guadeloupe as French DOM establishing autorité parentale conjointe framework."
     },
     {
       "year": 2002,
@@ -108,17 +108,17 @@
     {
       "year": 2018,
       "title": "Loi du 27 juin 2018 — JAF framework applicable to DOM",
-      "description": "Loi du 27 juin 2018 establishing JAF framework applicable to Guadeloupe Tribunal Judiciaire framework. Substantively significant institutional reform consolidating French DOM family-law procedural framework."
+      "description": "Loi du 27 juin 2018 establishing JAF framework applicable to Guadeloupe Tribunal Judiciaire framework."
     },
     {
       "year": 2019,
       "title": "Loi Pradié 2019 + ordonnance de protection framework + Brussels IIb",
-      "description": "Loi Pradié 2019 applicable to Guadeloupe as French DOM. EU Regulation 2019/1111 Brussels IIb subsequently effective 1 August 2022. Substantively significant for DV-PA-allegation intersection cases and cross-border family-law adjudication."
+      "description": "Loi Pradié 2019 applicable to Guadeloupe as French DOM. EU Regulation 2019/1111 Brussels IIb subsequently effective 1 August 2022."
     },
     {
       "year": 2022,
       "title": "Continuing social-tensions framework + Caribbean integration framework + AFD framework",
-      "description": "Continuing post-2009 social-tensions framework through 2022. Caribbean integration framework substantively significant for cross-border family-law adjudication with neighbouring Anglophone Caribbean states. Agence Française de Développement (AFD) framework substantively significant institutional context."
+      "description": "Continuing post-2009 social-tensions framework through 2022."
     },
     {
       "year": 2024,
@@ -128,11 +128,10 @@
   ],
   "structural_findings": [
     "Guadeloupe operates structurally as French DOM-ROM civil-law family-law framework — French Code civil + Loi 2018 JAF + EU Brussels IIb applicable as French DOM — with substantive intérêt supérieur de l'enfant analysis consistent with metropolitan France institutional-critique register without doctrinal 'aliénation parentale' label adoption.",
-    "Guadeloupe's substantial metropolitan-France diaspora and Caribbean cross-border framework operationally creates distinctive cross-border family-law adjudication context — substantively significant for cross-border family-law adjudication including expatriate-population cases.",
+    "Guadeloupe's substantial metropolitan-France diaspora and Caribbean cross-border framework operationally creates distinctive cross-border family-law adjudication context.",
     "Caribbean DOM framework (alongside Martinique, French Guiana, Mayotte, Réunion) operationally creates structurally distinctive French overseas department family-law adjudication framework — substantively distinguishing DOM framework from COM (collectivité d'outre-mer) framework (New Caledonia, French Polynesia, Wallis and Futuna)."
   ],
   "editorial_notes": [
-    "Guadeloupe's French DOM status operationally creates full French civil-law framework applicability — substantively distinguishing DOM framework from COM framework where local-law adaptation competence may apply.",
-    "Cross-border family-law adjudication with neighbouring Anglophone Caribbean states substantively significant institutional context — making Guadeloupe a critical French-Caribbean comparative-law data point."
+    "Guadeloupe's French DOM status operationally creates full French civil-law framework applicability — substantively distinguishing DOM framework from COM framework where local-law adaptation competence may apply."
   ]
 }

@@ -296,7 +296,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Australia (Commonwealth of Australia)",
       "url": "https://www.legislation.gov.au/F1996B02756/latest/text",
       "datePublished": "1986",
-      "description": "Australia ratified 1980 Hague Abduction Convention 29 October 1986 (in force 1 January 1987). Regulations implement Hague Convention obligations — substantively significant international-abduction framework."
+      "description": "Australia ratified 1980 Hague Abduction Convention 29 October 1986 (in force 1 January 1987). Regulations implement Hague Convention obligations."
     },
     {
       "@type": "Legislation",
@@ -314,7 +314,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Australia (Commonwealth of Australia)",
       "url": "https://www.legislation.gov.au/C2021A00013/latest/text",
       "datePublished": "2021",
-      "description": "FCFCOA established 1 September 2021 merging Family Court of Australia and Federal Circuit Court of Australia. Substantively significant institutional reform consolidating Australian family-law judiciary into unified two-division court structure."
+      "description": "FCFCOA established 1 September 2021 merging Family Court of Australia and Federal Circuit Court of Australia."
     }
   ]
 }

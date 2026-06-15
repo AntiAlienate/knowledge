@@ -4,7 +4,11 @@
   "name": "Bremen / Freie Hansestadt Bremen (Free Hanseatic City of Bremen)",
   "jurisdiction_code": "DE-HB",
   "legal_system": "civil-law",
-  "language": ["de", "en", "nds"],
+  "language": [
+    "de",
+    "en",
+    "nds"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Bremen (German: Freie Hansestadt Bremen 'Free Hanseatic City of Bremen') is a Northern German civil-law constituent Land of the Federal Republic of Germany — structurally distinctive globally as the smallest German Land by area (~419 km² — ~0.12% of German land area, smallest of all 16 German Länder) and as the smallest German Land by population (~680,000 — ~0.8% of German population, smallest of all 16 German Länder), as the only non-contiguous German Land in modern Federal Republic of Germany framework (Bremen Land comprises two non-contiguous sub-territorial entities: City of Bremen (Stadtgemeinde Bremen) ~326 km² inland on Weser river + City of Bremerhaven (Stadtgemeinde Bremerhaven) ~93 km² on North Sea coast ~60 km downstream — distinct from rest-of-German-Land territorial framework), as one of three German Stadtstaaten (city-state Länder operating simultaneously as Land + municipality — Bremen + Hamburg + Berlin, distinct from rest-of-German-Länder territorial framework), and as one of two modern German Länder with continuous Hanseatic League framework historical-cultural-political lineage operating in formal current-Land-name designation (Freie Hansestadt Bremen — alongside Hamburg 'Freie und Hansestadt Hamburg' — only two modern jurisdictions globally with formal Hanseatic prefix in current sub-national jurisdiction name, with Bremen's Hansa membership 1260+ continuous through Hanseatic League dissolution 1862 + formal Free Hanseatic City designation continuous through Imperial Free City framework 1646-1806 + Free City of Bremen 1815-1933 + Free Hanseatic City of Bremen 1949+). Bremen historically operated under Hanseatic League 1260-1862 + Imperial Free City 1646-1806 + Free City of Bremen 1815-1933 + Nazi German Gau-system 1933-1945 + post-1945 American Zone of Occupation 1945-1949 (the only post-WWII US enclave in the British Zone, established to facilitate American troop movements via Bremen ports) + Federal Republic of Germany 1949+. Bremen comprises ~419 km² with a population of ~680,000. Family-law framework operates under the federal German civil-law framework (Bürgerliches Gesetzbuch BGB 1896 Family Law portion + German Family-Law Reform Act 2024) applied uniformly across German Länder. The Hanseatic Oberlandesgericht Bremen is the apex regional court; final appellate jurisdiction lies with the Federal Court of Justice of Germany. Bremen is silent on 'parental alienation' as a statutory label. Germany is a Hague Convention 1980 signatory and party (acceded 27 September 1990 effective 1 December 1990) — Bremen is governed by German Hague-Convention-1980 framework.",
@@ -128,7 +132,7 @@
     {
       "year": 2023,
       "title": "Bovenschulte SPD-Greens-Die Linke Government + Bremische Bürgerschaft + Bürgerbeauftragter framework",
-      "description": "Andreas Bovenschulte (SPD) Bürgermeister framework continuing through 2023 with SPD-Greens-Die Linke coalition Senate Bremen following May 2023 elections. Bremische Bürgerschaft + Bürgerbeauftragter (Bremen Citizens' Ombudsperson) institutional positions addressing PA-related issues within German Federal BGB framework applied uniformly across Bremen Land + continuing non-contiguous Bremen-Bremerhaven Stadtstaat dual-municipality framework. Substantively significant Northern German Free-Hanseatic-City institutional jurisprudential development."
+      "description": "Andreas Bovenschulte (SPD) Bürgermeister framework continuing through 2023 with SPD-Greens-Die Linke coalition Senate Bremen following May 2023 elections. Bremische Bürgerschaft, Bürgerbeauftragter (Bremen Citizens' Ombudsperson) institutional positions addressing PA-related issues within German Federal BGB framework applied uniformly across Bremen Land, continuing non-contiguous Bremen-Bremerhaven Stadtstaat dual-municipality framework."
     },
     {
       "year": 2024,

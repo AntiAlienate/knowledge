@@ -218,7 +218,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Japan (日本国 / Nihon-koku)",
       "url": "https://www.mofa.go.jp/mofaj/gaiko/hague/index.html",
       "datePublished": "2014",
-      "description": "Japan acceded to 1980 Hague Abduction Convention 24 January 2014, in force 1 April 2014. Implementation Act establishes Central Authority procedure — substantively significant for international-abduction framework, addressing persistent international concern."
+      "description": "Japan acceded to 1980 Hague Abduction Convention 24 January 2014, in force 1 April 2014. Implementation Act establishes Central Authority procedure."
     },
     {
       "@type": "Legislation",

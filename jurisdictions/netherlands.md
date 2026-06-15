@@ -298,7 +298,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
       "url": "https://wetten.overheid.nl/BWBR0034925",
       "datePublished": "2015",
-      "description": "Effective 1 January 2015. Decentralises youth-care framework to municipalities (gemeenten) — substantively significant for jeugdbescherming framework intersecting with PA-related disputes."
+      "description": "Effective 1 January 2015. Decentralises youth-care framework to municipalities (gemeenten)."
     },
     {
       "@type": "Legislation",
@@ -307,7 +307,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
       "url": "https://wetten.overheid.nl/BWBR0033833",
       "datePublished": "2015",
-      "description": "Effective 1 January 2015. Restructures child-protection-measures framework (ondertoezichtstelling, uithuisplaatsing) — substantively significant for child-protection-PA-intersection cases."
+      "description": "Effective 1 January 2015. Restructures child-protection-measures framework (ondertoezichtstelling, uithuisplaatsing)."
     },
     {
       "@type": "Legislation",

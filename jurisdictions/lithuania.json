@@ -4,7 +4,9 @@
   "name": "Lithuania (Lietuva)",
   "jurisdiction_code": "LT",
   "legal_system": "civil-law",
-  "language": ["lt"],
+  "language": [
+    "lt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Lithuania is a Baltic civil-law unitary republic whose family-law framework operates under the Civil Code (Civilinis kodeksas) of 2000 (Law VIII-1864) in force 1 July 2001. Parental rights and duties (tėvų teisės ir pareigos) are governed by Civilinis kodeksas Book Three (Family Law) arts. 3.156-3.197; joint exercise during marriage is the statutory default. The Lietuvos Aukščiausiasis Teismas (Supreme Court of Lithuania, Vilnius) is the apex court for civil and criminal matters; the Konstitucinis Teismas (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under Ministry of Health licensing framework with the Lietuvos psichologų sąjunga (Lithuanian Psychological Society) peak-body ethics oversight. Lithuania is silent on 'parental alienation' as a statutory label; courts operate substantively under the vaiko geriausių interesų (best-interests-of-the-child) standard.",
@@ -53,7 +55,7 @@
     {
       "year": 1991,
       "title": "Lithuania ratifies UN Convention on the Rights of the Child",
-      "description": "Lithuania ratified the UNCRC on 31 January 1992 — among the earliest post-Soviet ratifications — framing the post-Soviet family-law-reform trajectory toward best-interests-of-the-child substantive doctrine."
+      "description": "Lithuania ratified the UNCRC on 31 January 1992."
     },
     {
       "year": 1992,
@@ -93,7 +95,7 @@
     {
       "year": 2023,
       "title": "Civil Union Law debate + Vaikų teisių apsaugos kontrolierius institutional position",
-      "description": "Lithuanian civil union law (Civilinės sąjungos įstatymas) legislative debate 2022-2023 addressing same-sex partnership framework under Constitution Art. 38 + ECHR Article 8 framework. Vaikų teisių apsaugos kontrolierius (Ombudsperson for Children's Rights) institutional position addressing PA-related issues within Civilinis kodeksas Book Three + UN CRC framework. Substantively significant Baltic institutional jurisprudential development."
+      "description": "Lithuanian civil union law (Civilinės sąjungos įstatymas) legislative debate 2022-2023 addressing same-sex partnership framework under Constitution Art. 38, ECHR Article 8 framework. Vaikų teisių apsaugos kontrolierius (Ombudsperson for Children's Rights) institutional position addressing PA-related issues within Civilinis kodeksas Book Three, UN CRC framework."
     },
     {
       "year": 2024,
@@ -103,7 +105,7 @@
     {
       "year": 2022,
       "title": "Lithuania-Belarus + Lithuania-Russia border-securitisation + Belarus-migration-crisis + family-law-cross-border-context framework",
-      "description": "Russian invasion of Ukraine 24 February 2022 + Belarus-Russia-border-securitisation framework + Lithuania 2021-2022 Belarus migration-crisis framework + Lithuania-Belarus border-fence-construction 2022 + Lithuania-Kaliningrad rail-transit-dispute June 2022 + structurally distinctive Baltic-NATO-front-line state framework + substantively significant institutional context affecting subsequent constitutional-democratic-trajectory and family-law-implementation under Civilinis kodeksas Book Three + Hague Convention 1980 cross-border implementation framework + Ukrainian-displaced-family family-court adjudication framework + vaiko geriausių interesų substantive register evolution."
+      "description": ""
     }
   ],
   "structural_findings": [

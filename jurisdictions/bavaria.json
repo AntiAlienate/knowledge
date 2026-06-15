@@ -4,7 +4,10 @@
   "name": "Bavaria / Freistaat Bayern (Free State of Bavaria)",
   "jurisdiction_code": "DE-BY",
   "legal_system": "civil-law",
-  "language": ["de", "en"],
+  "language": [
+    "de",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Bavaria (German: Freistaat Bayern 'Free State of Bavaria') is a Southern German civil-law constituent Land of the Federal Republic of Germany — structurally distinctive globally as the largest German Land by area (~70,550 km² — ~19.7% of German land area, largest of all 16 German Länder), as one of three German Länder operating formal 'Free State' (Freistaat) designation (Bavaria + Saxony + Thuringia — historical Free State designation deriving from post-WWI Weimar Republic 1918 abolition of constitutional monarchy framework + post-1945 Bavarian Constitution 1946 re-adoption, distinct from rest-of-German-Länder which operate Land designation), as the central jurisdiction of the most distinctive modern German sub-national constitutional framework operating without ratification of Federal Basic Law 1949 (Bavarian Landtag refused to ratify Federal Basic Law of Germany 8 May 1949 with vote 101-63-9 abstentions — Bavaria continues to operate under Federal Basic Law via the German Federal Constitutional Court's 1959 'Solange I' framework recognising Basic Law applicability despite Bavarian non-ratification, only German Land with formal constitutional non-ratification framework), and as the central jurisdiction of one of the most distinctive modern German sub-national cultural-political-identity frameworks (Bavarian cultural-political-identity framework — Bayernpartei + Christlich-Soziale Union CSU Bavarian-exclusive federal political party, formal Bavarian dialect + Lederhosen + Oktoberfest + Maximilianeum + Bayerische Verfassung 1946 framework, distinct from rest-of-Germany's cultural-political-identity framework). Bavaria operated under the Kingdom of Bavaria 1806-1918 + Free State of Bavaria 1918-1933 + Nazi German Gau-system 1933-1945 + post-1945 American Zone of Occupation 1945-1949 + Bavarian Constitution 1946 + Federal Republic of Germany 1949+. Bavaria comprises ~70,550 km² with a population of ~13.4 million. Family-law framework operates under the federal German civil-law framework (Bürgerliches Gesetzbuch BGB 1896 Family Law portion + German Family-Law Reform Act 2024) applied uniformly across German Länder. The Bavarian Oberlandesgericht is the apex regional court; final appellate jurisdiction lies with the Federal Court of Justice of Germany (Bundesgerichtshof). Bavaria is silent on 'parental alienation' as a statutory label. Germany is a Hague Convention 1980 signatory and party (acceded 27 September 1990 effective 1 December 1990) — Bavaria is governed by German Hague-Convention-1980 framework.",
@@ -121,7 +124,7 @@
     {
       "year": 2023,
       "title": "Söder CSU-Freie-Wähler coalition + Bavarian Landtag + continuing-Free-State-+-non-ratification-framework",
-      "description": "Markus Söder (CSU) Minister-President framework continuing through 2023 with CSU-Freie-Wähler coalition Government Bavaria 2023-onwards following October 2023 Landtag elections (CSU 37.0% + Freie Wähler 15.8%). Bavarian Landtag institutional positions addressing PA-related issues within German Federal BGB framework applied uniformly across Bavarian Land + continuing Bavarian non-ratification of Federal Basic Law framework via Federal Constitutional Court Solange I 1959 framework. Substantively significant Southern German Land institutional jurisprudential development."
+      "description": "Markus Söder (CSU) Minister-President framework continuing through 2023 with CSU-Freie-Wähler coalition Government Bavaria 2023-onwards following October 2023 Landtag elections (CSU 37.0%, Freie Wähler 15.8%). Bavarian Landtag institutional positions addressing PA-related issues within German Federal BGB framework applied uniformly across Bavarian Land, continuing Bavarian non-ratification of Federal Basic Law framework via Federal Constitutional Court Solange I 1959 framework."
     },
     {
       "year": 2024,

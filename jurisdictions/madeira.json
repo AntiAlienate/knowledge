@@ -4,7 +4,9 @@
   "name": "Madeira (Região Autónoma da Madeira / Autonomous Region of Madeira)",
   "jurisdiction_code": "PT-MAD",
   "legal_system": "civil-law",
-  "language": ["pt"],
+  "language": [
+    "pt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Madeira (Região Autónoma da Madeira / RAM) is a North-eastern Atlantic civil-law autonomous region of the Portuguese Republic comprising the Madeira archipelago (Madeira Island + Porto Santo + Desertas + Selvagens) located ~1,000 km southwest of mainland Portugal and ~700 km west of Morocco — structurally distinctive globally as one of only two Portuguese autonomous regions (with the Azores) constitutionally established under Portuguese Constitution 1976 Article 6 (modified subsequently), as one of nine EU 'outermost regions' (Régions ultrapériphériques / RUP) operating under EU Treaty Article 349 special-regime framework, and as the central jurisdiction of the Estatuto Político-Administrativo da Região Autónoma da Madeira 1991 (modernised 2006) which establishes Madeira's distinctive legislative-assembly framework with Lei Orgânica autonomy. Madeira has the constitutional power to enact regional legislative acts (decretos legislativos regionais) within its statutorily defined competence including specific powers over family-law-adjacent matters such as guardianship and child welfare. Family-law framework operates under the Portuguese Civil Code (Código Civil 1966, as amended) applied via Madeira regional administrative framework with Madeira-specific regulatory decrees in some areas. Parental authority (responsabilidade parental) and child custody operate under Portuguese Civil Code Articles 1877-1920 as substantially amended by Lei 61/2008 (Joint Parental Responsibility Reform). The Tribunal da Relação de Lisboa has jurisdiction over Madeira appellate matters (the Madeira Judicial District 'Comarca da Madeira' is integrated into the Lisbon Court of Appeals system); final appellate jurisdiction lies with the Portuguese Supreme Court of Justice (Supremo Tribunal de Justiça). Madeira is silent on 'parental alienation' as a statutory label. Portugal is a Hague Convention 1980 party (acceded 6 December 1983) — Madeira Hague applicability via Portuguese territorial extension.",
@@ -120,7 +122,7 @@
     {
       "year": 2023,
       "title": "Miguel Albuquerque PSD Government + Assembleia-Legislativa + Provedor-de-Justiça framework",
-      "description": "Miguel Albuquerque (PSD) Presidency framework continuing through 2023 with Assembleia Legislativa da Região Autónoma da Madeira institutional positions addressing PA-related issues within Portuguese Civil Code Articles 1877-1920 (Lei 61/2008 amendment) framework applied via Tribunal da Relação de Lisboa Madeira Judicial District. Portuguese Provedor de Justiça institutional positions affecting cross-border family-law adjudication. Continuing British residential community framework + Atlantic strategic position framework substantively significant institutional context. Substantively significant eastern-Atlantic Portuguese-autonomous-region institutional jurisprudential development."
+      "description": "Miguel Albuquerque (PSD) Presidency framework continuing through 2023 with Assembleia Legislativa da Região Autónoma da Madeira institutional positions addressing PA-related issues within Portuguese Civil Code Articles 1877-1920 (Lei 61/2008 amendment) framework applied via Tribunal da Relação de Lisboa Madeira Judicial District. Portuguese Provedor de Justiça institutional positions affecting cross-border family-law adjudication."
     },
     {
       "year": 2024,

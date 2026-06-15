@@ -4,7 +4,9 @@
   "name": "Moldova (Republica Moldova)",
   "jurisdiction_code": "MD",
   "legal_system": "civil-law",
-  "language": ["ro"],
+  "language": [
+    "ro"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Moldova is an Eastern European civil-law unitary republic whose family-law framework operates under the Family Code (Codul familiei, Law 1316/2000) in force 26 April 2001. Parental rights and obligations (drepturile și obligațiile părintești) are governed by Codul familiei arts. 58-78; joint exercise during marriage is the statutory default. The Curtea Supremă de Justiție (Supreme Court of Justice, Chișinău) is the apex court for civil and criminal matters; the Curtea Constituțională (Constitutional Court) operates separate constitutional-review jurisdiction. Psychology profession is regulated under Law 102/2017 (On the Profession of Psychologist) establishing the Comisia Națională a Psihologilor (National Commission of Psychologists). Moldova is silent on 'parental alienation' as a statutory label; courts operate substantively under the interesul superior al copilului (best-interests-of-the-child) standard. Council of Europe member; ECHR Strasbourg jurisprudence applies.",
@@ -60,7 +62,7 @@
     {
       "year": 1993,
       "title": "Moldova ratifies UN Convention on the Rights of the Child",
-      "description": "Moldova ratified the UNCRC on 26 January 1993 — framing the post-Soviet family-law-reform trajectory toward best-interests-of-the-child substantive doctrine. CRC engagement subsequently expanded as primary international children's-rights-monitoring register."
+      "description": "Moldova ratified the UNCRC on 26 January 1993. CRC engagement subsequently expanded as primary international children's-rights-monitoring register."
     },
     {
       "year": 1994,
@@ -75,7 +77,7 @@
     {
       "year": 1998,
       "title": "Hague Convention 1980 accession",
-      "description": "Moldova acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 July 1998 — among the earliest post-Soviet Hague accessions in the corpus alongside Belarus 1998, Romania 1993. Hague-1980 framework subsequently substantively significant for cross-border-displacement custody matters."
+      "description": "Moldova acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 July 1998 — among the earliest post-Soviet Hague accessions in the corpus alongside Belarus 1998, Romania 1993."
     },
     {
       "year": 2000,
@@ -100,7 +102,7 @@
     {
       "year": 2023,
       "title": "EU accession negotiations initiation + Sandu government framework + Transnistria cross-border framework",
-      "description": "Moldova EU accession negotiations initiated December 2023 (alongside Ukraine) substantively accelerating post-Soviet EU-integration trajectory. Maia Sandu (PAS) presidency 2020-onwards continuing through 2023. Ombudsperson institutional position addressing PA-related issues within Codul familiei + Constitution + EU-acquis framework. Transnistria continuing cross-border family-law adjudication framework. Substantively significant Eastern European institutional jurisprudential development."
+      "description": "Moldova EU accession negotiations initiated December 2023 (alongside Ukraine) substantively accelerating post-Soviet EU-integration trajectory. Maia Sandu (PAS) presidency 2020-onwards continuing through 2023. Ombudsperson institutional position addressing PA-related issues within Codul familiei, Constitution, EU-acquis framework. Transnistria continuing cross-border family-law adjudication framework."
     },
     {
       "year": 2024,

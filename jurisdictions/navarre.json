@@ -4,7 +4,10 @@
   "name": "Navarre (Navarra / Nafarroa / Foral Community of Navarre)",
   "jurisdiction_code": "ES-NC",
   "legal_system": "civil-law",
-  "language": ["es", "eu"],
+  "language": [
+    "es",
+    "eu"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Navarre (Navarra in Spanish / Nafarroa in Basque / Foral Community of Navarre / Comunidad Foral de Navarra) is a Northern Iberian civil-law foral community of the Kingdom of Spain — structurally distinctive globally as the only Spanish autonomous community holding the constitutional designation 'Foral Community' (Comunidad Foral) rather than 'Autonomous Community' (Comunidad Autónoma), and as the only EU member-state subnational jurisdiction operating its constitutional framework derived from a medieval Kingdom (Kingdom of Navarre 824-1620) continuously preserved through the 1841 Ley Paccionada (Bilateral Law of 16 August 1841) following the First Carlist War, the only Spanish jurisdiction with a bilateral-treaty constitutional foundation between Crown and Foral institutions. Navarre's Foral Civil Law tradition (Derecho Civil Foral de Navarra) derives from the medieval Fuero General de Navarra (~13th century) and was formally compiled in the 1973 Compilation of the Foral Civil Law of Navarre (Compilación del Derecho Civil Foral de Navarra / Fuero Nuevo). Navarre operates the Convenio Económico (Economic Agreement) fiscal autonomy framework distinct from but parallel to the Basque Concierto Económico — making Navarre the second EU subnational with full fiscal autonomy. Family-law framework operates under the Compilation of the Foral Civil Law of Navarre 1973 (as amended 2019 by Ley Foral 21/2019 — comprehensive Fuero Nuevo modernisation) Chapter VI Family Law, with parental authority and child custody provisions distinct from Spanish national Código Civil framework. The Tribunal Superior de Justicia de Navarra (TSJN) is the apex appellate court for Navarrese-civil-law matters; final appellate jurisdiction on Spanish constitutional questions lies with the Spanish Constitutional Court. Navarre is silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 party (acceded 16 June 1987) — Navarrese Hague applicability via Spanish federal extension subject to Navarrese Foral Civil Law application framework.",
@@ -121,7 +124,7 @@
     {
       "year": 2023,
       "title": "María Chivite PSN-PSOE Government + Parlamento-de-Navarra + Defensor-del-Pueblo + EH-Bildu-coalition framework",
-      "description": "María Chivite (PSN-PSOE) President framework continuing 2023-onwards with Parlamento de Navarra institutional positions addressing PA-related issues within Compilación del Derecho Civil Foral de Navarra (Fuero Nuevo) Chapter VI Family Law framework applied via Tribunal Superior de Justicia de Navarra. EH-Bildu-Geroa-Bai coalition support framework substantively significant institutional context. Defensor del Pueblo de Navarra institutional positions affecting cross-border family-law adjudication. Substantively significant Northern Iberian foral-community institutional jurisprudential development."
+      "description": "María Chivite (PSN-PSOE) President framework continuing 2023-onwards with Parlamento de Navarra institutional positions addressing PA-related issues within Compilación del Derecho Civil Foral de Navarra (Fuero Nuevo) Chapter VI Family Law framework applied via Tribunal Superior de Justicia de Navarra. Defensor del Pueblo de Navarra institutional positions affecting cross-border family-law adjudication."
     },
     {
       "year": 2024,

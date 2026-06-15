@@ -311,7 +311,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Italy (Repubblica Italiana)",
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2019-07-19;69",
       "datePublished": "2019",
-      "description": "Codice Rosso strengthens DV-protection framework with expedited judicial procedure — substantively significant DV-PA-allegation intersection mechanism."
+      "description": "Codice Rosso strengthens DV-protection framework with expedited judicial procedure."
     },
     {
       "@type": "Legislation",
@@ -329,7 +329,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Italy (Repubblica Italiana)",
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2022-10-10;149",
       "datePublished": "2022",
-      "description": "Riforma Cartabia comprehensively restructures family-law procedure, establishing Tribunale per le persone, per i minorenni e per le famiglie (effective 17 October 2024) — substantively significant procedural reform."
+      "description": "Riforma Cartabia comprehensively restructures family-law procedure, establishing Tribunale per le persone, per i minorenni e per le famiglie (effective 17 October 2024)."
     }
   ]
 }

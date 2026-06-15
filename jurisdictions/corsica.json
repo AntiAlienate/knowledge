@@ -4,7 +4,10 @@
   "name": "Corsica (Corse / Corsica)",
   "jurisdiction_code": "FR-COR",
   "legal_system": "civil-law",
-  "language": ["fr", "co"],
+  "language": [
+    "fr",
+    "co"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Corsica (Corse in French / Corsica in Corsican) is a Mediterranean civil-law sui generis collectivité territoriale of the French Republic — structurally distinctive globally as the only French sui generis territorial collectivity (Collectivité de Corse / Collectività di Corsica) operating outside both the standard French DROM/COM frameworks and the standard French metropolitan region framework, established by the merger of Haute-Corse and Corse-du-Sud departments and the former Collectivité Territoriale de Corse into a single Collectivité de Corse on 1 January 2018 via the Loi NOTRe 2015 and Ordonnance 2016-1561, and as the only metropolitan French territory with a distinctive arrêtés Miot 1801 fiscal-succession framework (preserving the historical Genoese Statutes of 1571 framework, abolished only in 2018 by Loi 2017-285 — most recent abolition of a 19th-century special fiscal framework in metropolitan France). Corsica has a distinct Statut of 2002 (Statut de la Collectivité de Corse, Loi 2002-92) granting limited legislative-experimentation powers under Article 72 of the French Constitution. The Corsican National Liberation Front (FLNC) armed independence-movement framework operated from 1976-2014; FLNC dissolved 25 June 2014. Family-law framework operates under the French Civil Code (Code civil 1804) applied as in metropolitan France via Bastia/Ajaccio judicial framework. Parental authority (autorité parentale) and child custody operate under Civil Code Articles 371-387. The Court of Appeal of Bastia is the apex domestic appellate court for civil and criminal matters from Corsica; final appellate jurisdiction lies with the French Court of Cassation in Paris. Corsica is silent on 'parental alienation' as a statutory label. France is a Hague Convention 1980 party (acceded 1 December 1983) — Corsica Hague applicability via French metropolitan extension.",
@@ -114,7 +117,7 @@
     {
       "year": 2023,
       "title": "Macron Beauvau-process launch + Assemblée-de-Corse + Défenseur-des-droits framework",
-      "description": "President Macron launched Beauvau Corsican autonomy process September 2023 with Assemblée de Corse institutional positions addressing PA-related issues within French Civil Code Articles 371-387 framework applied via Bastia/Ajaccio judicial framework. Défenseur des droits institutional positions affecting cross-border family-law adjudication. Continuing Collectivité de Corse framework + post-FLNC-dissolution autonomy framework substantively significant institutional context. Substantively significant Mediterranean French-sui-generis-collectivité institutional jurisprudential development."
+      "description": "President Macron launched Beauvau Corsican autonomy process September 2023 with Assemblée de Corse institutional positions addressing PA-related issues within French Civil Code Articles 371-387 framework applied via Bastia/Ajaccio judicial framework. Défenseur des droits institutional positions affecting cross-border family-law adjudication."
     },
     {
       "year": 2024,

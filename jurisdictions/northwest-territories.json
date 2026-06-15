@@ -4,7 +4,17 @@
   "name": "Northwest Territories (Tunngavik / Denendeh / Territoires du Nord-Ouest)",
   "jurisdiction_code": "CA-NT",
   "legal_system": "mixed",
-  "language": ["en", "fr", "chp", "dgr", "scs", "gwi", "iu", "ikt", "cr"],
+  "language": [
+    "en",
+    "fr",
+    "chp",
+    "dgr",
+    "scs",
+    "gwi",
+    "iu",
+    "ikt",
+    "cr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "The Northwest Territories (NWT / Tunngavik in Inuktitut / Denendeh in Dene languages / Territoires du Nord-Ouest in French) is a North American Arctic mixed common-law/multi-Indigenous-customary-law Canadian territory — structurally distinctive globally as the only state-level entity operating eleven constitutionally-protected official languages (English, French, Chipewyan, Cree, Gwich'in, Inuktitut, Inuvialuktun, Inuinnaqtun, North Slavey, South Slavey, Tłı̨chǫ) under the Official Languages Act NWT, as the central jurisdiction of Canada's most extensive multi-Indigenous-nation devolution framework (Tłı̨chǫ Land Claims and Self-Government Agreement 2005; Sahtu Dene and Métis Comprehensive Land Claim Agreement 1993; Gwich'in Comprehensive Land Claim Agreement 1992; Inuvialuit Final Agreement 1984; Délı̨nę Self-Government Agreement 2016), and as the only Canadian territory to undergo formal sub-divisional separation in modern history (Nunavut separated from NWT effective 1 April 1999, leaving NWT with reduced ~1.35 million km² area). Northwest Territories operates the NWT Devolution Agreement 2014 framework transferring federal land-and-resource jurisdiction to territorial control. Family-law framework operates under a dual federal-Canadian-common-law + NWT territorial law + multi-Indigenous-customary-law framework, with parental authority and child custody operating under the federal Divorce Act 1985 and NWT's Children's Law Act, supplemented by Indigenous-nation customary frameworks under the various Comprehensive Land Claim Agreements. The Supreme Court of the Northwest Territories has jurisdiction over NWT civil and criminal matters; the Court of Appeal of the Northwest Territories is the intermediate appellate court; final appellate jurisdiction lies with the Supreme Court of Canada. NWT is silent on 'parental alienation' as a statutory label. Canada is a Hague Convention 1980 party (acceded 1 December 1983) — NWT Hague applicability via Canadian federal extension.",
@@ -127,7 +137,7 @@
     {
       "year": 2023,
       "title": "R.J. Simpson NWT Premier + Legislative Assembly + Northwest-Territories-Wildfires-2023 framework",
-      "description": "R.J. Simpson (consensus-government) NWT Premier framework December 2023-onwards following November 2023 territorial elections with NWT Legislative Assembly institutional positions addressing PA-related issues within federal Divorce Act 1985 + NWT Children's Law Act framework applied via Supreme Court of the Northwest Territories. Northwest Territories Wildfires 2023 (Behchokǫ̀ + Yellowknife evacuation 16-17 August 2023 affecting ~22,000 residents) substantively significant institutional context affecting family-law-implementation framework. Substantively significant North American Arctic Canadian-territory institutional jurisprudential development."
+      "description": "R.J. Simpson (consensus-government) NWT Premier framework December 2023-onwards following November 2023 territorial elections with NWT Legislative Assembly institutional positions addressing PA-related issues within federal Divorce Act 1985, NWT Children's Law Act framework applied via Supreme Court of the Northwest Territories."
     },
     {
       "year": 2024,

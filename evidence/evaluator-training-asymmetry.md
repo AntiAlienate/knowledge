@@ -376,7 +376,7 @@ PD12J is the binding procedural rule for England and Wales family courts when DV
 
 > "**Custody evaluator training.** Training applies to 'guardians ad litem, custody evaluators, mediators, and child custody recommending counselors, and others who are deemed appropriate by the Judicial Council.'"
 
-**On the asymmetry question.** SB 331 is the first US state statute (post-Kayden's-Law) to explicitly include custody evaluators in its mandatory training framework alongside judicial officers. It does not name "parental alienation" or "PAS" anywhere in the bill text; its operative mechanism is to (a) restrict reunification treatments to those with scientifically valid evidence of efficacy and (b) ensure court-appointed evaluators have the specialised DV/child-abuse training the Saunders framework recommends.
+**On the asymmetry question.** SB 331 is the first US state statute (post-Kayden's-Law) to explicitly include custody evaluators in its mandatory training framework alongside judicial officers. It does not name "parental alienation" or "PAS" anywhere in the bill text; its operative mechanism is to (a) restrict reunification treatments to those with scientifically valid evidence of efficacy and (b) ensure court-appointed evaluators have the specialised DV/child-abuse training the [Saunders](https://www.ovw.usdoj.gov/) framework recommends.
 
 ### 8.3 Colorado — HB23-1178 ("Court Personnel and Domestic Violence Awareness")
 
@@ -469,7 +469,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### 10.5 Not established
 
-- **Direct causal experimental evidence that the training asymmetry, as opposed to other co-varying factors (evaluator professional background, jurisdiction, individual evaluator caseload composition), produces the gender-asymmetric Meier 2020 outcomes.** No RCT or quasi-experimental study has been published as of compilation. This is the most important open empirical gap.
+- **Direct causal experimental evidence that the training asymmetry, as opposed to other co-varying factors (evaluator professional background, jurisdiction, individual evaluator caseload composition), produces the gender-asymmetric [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) outcomes.** No RCT or quasi-experimental study has been published as of compilation. This is the most important open empirical gap.
 - **Jurisdiction-portable findings outside the US.** UK, Australian, and Canadian operational research on the question is much thinner than the US literature; the UK Ministry of Justice Harm Report (2020) is the closest equivalent but addresses a different framework (private-law family court process generally, not evaluator training specifically).
 - **Whether the post-Kayden's-Law statutory training floors actually change evaluator recommendation patterns at the population level.** No published post-2022 replication of the Saunders 2011 vignette study; no published Kayden's-Law-state vs. non-Kayden's-Law-state comparative outcome study; contributor-invitation territory.
 - **The portability of the Saunders 2011 / Meier 2020 findings to court-based evaluators (court-employed, salaried) vs. private-practice evaluators (paid-per-case).** Saunders 2011 found court-based evaluators less likely to endorse false-allegation beliefs than private evaluators, suggesting that the commercial-incentive structure on the private side is operationally relevant; but the effect-size has not been directly causally tested.
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

@@ -4,7 +4,12 @@
   "name": "Melilla (Ciudad Autónoma de Melilla / مليلية)",
   "jurisdiction_code": "ES-ML",
   "legal_system": "civil-law",
-  "language": ["es", "ar", "ber", "en"],
+  "language": [
+    "es",
+    "ar",
+    "ber",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Melilla (Spanish: Ciudad Autónoma de Melilla / Arabic: مليلية Maliliyya / Berber: ⵎⵍⵉⵍⵜ Mlilt) is a North African civil-law Autonomous City of the Kingdom of Spain — structurally distinctive globally as one of two modern European Union sub-national territories located on the African mainland (alongside Ceuta — distinct from rest-of-EU-sub-national-territories located in Europe or non-African overseas territories), as one of two Spanish Autonomous Cities (Ciudades Autónomas — Ceuta + Melilla, constitutionally distinct sui generis territorial framework under Constitution of Spain 1978 Article 144(b) + Statute of Autonomy of Melilla 1995), as the longest-continuously-Spanish sub-national territory globally (Melilla under Spanish control since 17 September 1497 — formal Spanish framework 1497-present 528+ years, longer than any other modern Spanish sub-national territory including Spain itself's modern territorial framework, predating Christopher Columbus' first Atlantic crossing by 5 years), as the central jurisdiction of one of the most contested modern Spanish-Moroccan sovereignty frameworks (Morocco maintains formal sovereignty claim over Melilla since Moroccan independence 1956 — distinct from rest-of-Spanish-sub-national territorial framework where sovereignty is uncontested), and as a distinctive multi-religious + multi-cultural Spanish sub-national jurisdiction (~50% Christian + ~45% Muslim + ~5% Jewish + ~1% Hindu Spanish-Indian-community + others — distinctive multi-religious + Spanish-Sephardic-Jewish-community + Spanish-Indian-Sindhi-community framework, distinct from rest-of-Spanish-sub-national-territorial Christian-majority framework). Melilla historically operated under Phoenician 7th century BCE + Carthaginian + Roman Rusaddir + Visigothic + Byzantine + Arab Berber Caliphate framework 700s CE + various Berber dynasties + Spanish 1497+ (Pedro de Estopiñán Castilian conquest 17 September 1497 — beginning of formal Spanish framework) + Spanish Plaza de Soberanía framework 1497-1995 + Autonomous City of Melilla 1995+. Melilla comprises ~12 km² with a population of ~85,000. Family-law framework operates under the federal Spanish civil-law framework (Spanish Civil Code 1889 Family Law portion) applied uniformly across Spanish sub-national territories. The Court of First Instance and Instruction of Melilla is the primary trial court; the Superior Court of Justice of Andalusia, Ceuta and Melilla is the apex regional appellate court; final appellate jurisdiction lies with the Supreme Court of Spain. Melilla is silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 signatory and party (acceded 16 June 1987 effective 1 September 1987) — Melilla is governed by Spanish Hague-Convention-1980 framework.",
@@ -120,7 +125,7 @@
     {
       "year": 2023,
       "title": "Juan-José-Imbroda PP Government + Asamblea-de-Melilla + Defensor-del-Pueblo + Spain-Morocco-rapprochement framework",
-      "description": "Juan José Imbroda (PP) President framework continuing through 2023 following May 2023 elections with Asamblea de Melilla institutional positions addressing PA-related issues within Spanish Civil Code 1889 framework applied via Tribunal Superior de Justicia de Andalucía Ceuta y Melilla. Defensor del Pueblo institutional positions affecting cross-border family-law adjudication. Continuing Spain-Morocco rapprochement framework (April 2022+ Pedro Sánchez recognition of Moroccan Western-Sahara autonomy plan) substantively significant institutional context. Substantively significant North African Spanish-Autonomous-City institutional jurisprudential development."
+      "description": "Juan José Imbroda (PP) President framework continuing through 2023 following May 2023 elections with Asamblea de Melilla institutional positions addressing PA-related issues within Spanish Civil Code 1889 framework applied via Tribunal Superior de Justicia de Andalucía Ceuta y Melilla. Defensor del Pueblo institutional positions affecting cross-border family-law adjudication."
     },
     {
       "year": 2024,

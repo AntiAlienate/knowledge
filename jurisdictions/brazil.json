@@ -4,7 +4,9 @@
   "name": "Brazil (República Federativa do Brasil)",
   "jurisdiction_code": "BR",
   "legal_system": "civil-law",
-  "language": ["pt"],
+  "language": [
+    "pt"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "Brazil is a civil-law jurisdiction whose family courts (Varas de Família) operate under the Código Civil arts. 1.630 to 1.638 (poder familiar), Estatuto da Criança e do Adolescente (ECA, Lei n° 8.069/1990), and the Lei n° 12.318/2010 da Alienação Parental — the world's first statutory codification of 'alienação parental' as a juridical concept. The Superior Tribunal de Justiça (STJ) has applied the statute in cases such as REsp 1.629.994/RJ (2017) and REsp 1.722.030/PR (2019) while the Conselho Federal de Psicologia (CFP) Resolução CFP n° 13/2022 has expressed institutional caution against PAS-syndromic framing — placing Brazil in a structurally distinctive position with statutory recognition but professional-regulator critique.",
@@ -40,7 +42,7 @@
       "title": "Mecanismos para coibir a violência doméstica e familiar contra a mulher",
       "year": 2006,
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
-      "relevance": "Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases where PA allegations are deployed to deflect DV findings."
+      "relevance": ""
     },
     {
       "citation": "Lei n° 13.058/2014 (guarda compartilhada)",
@@ -86,7 +88,7 @@
     {
       "year": 2002,
       "title": "Código Civil (Lei n° 10.406/2002) — pátrio poder replaced by poder familiar",
-      "description": "Código Civil promulgated 10 January 2002 (Lei n° 10.406) replacing 1916 pátrio poder with poder familiar (joint parental authority) framework. Substantively transformative shift to gender-equal parental-rights framework — substantively significant 21st-century Brazilian family-law reform."
+      "description": "Código Civil promulgated 10 January 2002 (Lei n° 10.406) replacing 1916 pátrio poder with poder familiar (joint parental authority) framework. Substantively transformative shift to gender-equal parental-rights framework."
     },
     {
       "year": 2006,
@@ -96,7 +98,7 @@
     {
       "year": 2008,
       "title": "Lei n° 11.698/2008 — guarda compartilhada introduced (non-default)",
-      "description": "Lei n° 11.698/2008 introducing guarda compartilhada (shared custody) as non-default option requiring parental consensus — substantively significant transitional reform preceding the 2014 default-shared-custody framework."
+      "description": "Lei n° 11.698/2008 introducing guarda compartilhada (shared custody) as non-default option requiring parental consensus."
     },
     {
       "year": 2010,
@@ -106,22 +108,22 @@
     {
       "year": 2014,
       "title": "Lei n° 13.058/2014 — guarda compartilhada as default",
-      "description": "Lei n° 13.058/2014 establishing guarda compartilhada (shared custody) as the default post-separation framework — substantively transformative shift from sole-custody default. Substantively significant gender-equal shared-custody reform operating alongside Lei n° 12.318/2010 alienação parental framework."
+      "description": "Lei n° 13.058/2014 establishing guarda compartilhada (shared custody) as the default post-separation framework — substantively transformative shift from sole-custody default."
     },
     {
       "year": 2017,
       "title": "STJ REsp 1.629.994/RJ — alienação parental jurisprudence",
-      "description": "STJ Terceira Turma REsp 1.629.994/RJ (2017) applying Lei n° 12.318/2010 in custody dispute. Establishes precedent for apex-court application of alienação parental statutory framework — substantively significant for global PA-recognition jurisprudential development."
+      "description": "STJ Terceira Turma REsp 1.629.994/RJ (2017) applying Lei n° 12.318/2010 in custody dispute. Establishes precedent for apex-court application of alienação parental statutory framework."
     },
     {
       "year": 2019,
       "title": "STJ REsp 1.722.030/PR + STF jurisprudence — apex-court alienação parental refinement",
-      "description": "STJ Quarta Turma REsp 1.722.030/PR (2019) and contemporaneous STJ jurisprudence refining application of Lei n° 12.318/2010 within melhor interesse da criança framework. Substantively significant apex-court jurisprudential refinement balancing alienação parental statutory recognition with DV-intersection considerations — establishing trajectory toward CFP Resolução n° 13/2022 institutional-caution position. Substantively foundational for ongoing tension between juridical recognition and clinical-psychology critique registers."
+      "description": "STJ Quarta Turma REsp 1.722.030/PR (2019) and contemporaneous STJ jurisprudence refining application of Lei n° 12.318/2010 within melhor interesse da criança framework. Substantively foundational for ongoing tension between juridical recognition and clinical-psychology critique registers."
     },
     {
       "year": 2022,
       "title": "CFP Resolução n° 13/2022 — psychologist institutional caution",
-      "description": "Conselho Federal de Psicologia Resolução CFP n° 13/2022 establishing institutional caution against PAS-syndromic framing in custody-evaluation psychological reports — substantively significant professional-regulator divergence from statutory recognition framework. Places Brazil in structurally distinctive position with statutory recognition (Lei 12.318/2010) but professional-regulator critique (CFP Resolução 13/2022)."
+      "description": "Conselho Federal de Psicologia Resolução CFP n° 13/2022 establishing institutional caution against PAS-syndromic framing in custody-evaluation psychological reports. Places Brazil in structurally distinctive position with statutory recognition (Lei 12.318/2010) but professional-regulator critique (CFP Resolução 13/2022)."
     },
     {
       "year": 2024,

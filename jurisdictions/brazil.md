@@ -221,8 +221,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "legislationIdentifier": "Lei n° 11.340/2006 (Lei Maria da Penha)",
       "jurisdiction": "Brazil (República Federativa do Brasil)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2004-2006/2006/lei/l11340.htm",
-      "datePublished": "2006",
-      "description": "Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases where PA allegations are deployed to deflect DV findings."
+      "datePublished": "2006"
     },
     {
       "@type": "Legislation",

@@ -209,7 +209,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Poland (Rzeczpospolita Polska)",
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640430296",
       "datePublished": "1964",
-      "description": "Procedural code for civil proceedings including family-law matters. Substantively significant procedural framework for custody disputes and contact-refusal cases."
+      "description": "Procedural code for civil proceedings including family-law matters."
     },
     {
       "@type": "Legislation",
@@ -218,7 +218,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Poland (Rzeczpospolita Polska)",
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU20051801493",
       "datePublished": "2005",
-      "description": "DV-protection framework establishing Niebieska Karta procedure and 2023 amendment introducing stronger DV-protection mechanisms — substantively significant for DV-PA-allegation intersection cases."
+      "description": "DV-protection framework establishing Niebieska Karta procedure and 2023 amendment introducing stronger DV-protection mechanisms."
     },
     {
       "@type": "Legislation",
@@ -227,7 +227,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Poland (Rzeczpospolita Polska)",
       "url": "https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:32019R1111",
       "datePublished": "1992",
-      "description": "Poland ratified 1980 Hague Convention 1 November 1992. EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters. Substantively significant international-abduction framework."
+      "description": "Poland ratified 1980 Hague Convention 1 November 1992. EU Regulation 2019/1111 Brussels IIb effective 1 August 2022 coordinating cross-border family-law matters."
     },
     {
       "@type": "Legislation",

@@ -4,7 +4,9 @@
   "name": "Yemen (Republic of Yemen / الجمهورية اليمنية)",
   "jurisdiction_code": "YE",
   "legal_system": "religious-law",
-  "language": ["ar"],
+  "language": [
+    "ar"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Yemen is a MENA religious-law republic whose family-law framework operates under the Personal Status Law 20/1992 (Qanun al-Ahwal al-Shakhsiyya) drawing on Shafi'i and Zaydi Shia jurisprudence (the latter distinctive to Yemeni Islam). Custody (hadana) and guardianship (wilaya) are governed by Personal Status Law arts. 138-158. The Supreme Court (المحكمة العليا) is the apex court for civil and criminal matters; the Supreme Constitutional Court operates constitutional review. Personal-status matters are heard at first instance in Personal Status Courts. Psychology profession is regulated through the Ministry of Public Health and Population framework; no unified federal-statutory psychology regulator exists. Yemen is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Yemen is non-Hague Convention.",
@@ -94,7 +96,7 @@
     {
       "year": 2023,
       "title": "PLC framework + UN-OCHA refugee coordination + Houthi parallel-jurisdiction development",
-      "description": "Presidential Leadership Council (PLC) framework continuation through 2023 with constrained operational capacity. UN-OCHA refugee coordination framework substantively significant for displaced-family family-law adjudication including cross-border (Saudi Arabia/Oman) coordination. Houthi parallel-jurisdiction development including Sana'a-based family-law adjudication framework. Substantively significant Arabian Peninsula institutional context affecting fragmented family-law implementation."
+      "description": "Presidential Leadership Council (PLC) framework continuation through 2023 with constrained operational capacity. Houthi parallel-jurisdiction development including Sana'a-based family-law adjudication framework."
     },
     {
       "year": 2024,

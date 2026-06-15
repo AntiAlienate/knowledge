@@ -4,7 +4,11 @@
   "name": "Telangana (తెలంగాణ)",
   "jurisdiction_code": "IN-TG",
   "legal_system": "common-law",
-  "language": ["en", "te", "ur"],
+  "language": [
+    "en",
+    "te",
+    "ur"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-06",
   "summary": "Telangana (తెలంగాణ in Telugu) is a South Indian common-law constituent state of the Indian Republic — structurally distinctive globally as the most recently-formed Indian state in modern history (29th state of India formed via Andhra Pradesh Reorganisation Act 2014 effective 2 June 2014), as the only Indian state formed via formal bifurcation from a pre-existing Indian state in modern history (separating from Andhra Pradesh after ~45 years of Telangana separate-statehood movement framework 1969-2014), and as the only Indian state inheriting Article 371-D constitutional framework via post-bifurcation succession (Article 371-D regional-equality framework operates in both successor states Andhra Pradesh and Telangana post-2014). Telangana comprises ~112,077 km² with a population of ~38 million, with Hyderabad as the state capital (shared with Andhra Pradesh as joint capital 2014-2024 under Section 5 of the Andhra Pradesh Reorganisation Act 2014; Hyderabad became exclusive Telangana capital 2 June 2024 following expiration of the 10-year joint-capital period). Family-law framework operates under the federal Indian common-law framework (Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, Guardians and Wards Act 1890) applied via state administrative framework. The Telangana High Court (established 1 January 2019 at Hyderabad, separating from Andhra Pradesh High Court) is the apex domestic appellate court; final appellate jurisdiction lies with the Supreme Court of India. Telangana is silent on 'parental alienation' as a statutory label. India is a Hague Convention 1980 signatory but not a party — Telangana is governed by the Indian non-ratification status.",
@@ -119,7 +123,7 @@
     {
       "year": 2024,
       "title": "Telangana High Court + Supreme Court — best-interests-of-the-child substantive register + Revanth Reddy government framework",
-      "description": "Telangana High Court (Hyderabad) and Supreme Court of India continue to develop best-interests-of-the-child jurisprudence under Hindu Marriage Act 1955 + Muslim Personal Law (Shariat) Application Act 1937 + Guardians and Wards Act 1890 framework in custody disputes within Revanth Reddy (INC) Chief Ministership from 7 December 2023 — substantively significant Telangana governance transition. Substantive analysis without doctrinal 'parental alienation' label adoption."
+      "description": "Telangana High Court (Hyderabad) and Supreme Court of India continue to develop best jurisprudence under Hindu Marriage Act 1955, Muslim Personal Law (Shariat) Application Act 1937, Guardians and Wards Act 1890 framework in custody disputes within Revanth Reddy (INC) Chief Ministership from 7 December 2023. Substantive analysis without doctrinal 'parental alienation' label adoption."
     }
   ],
   "structural_findings": [

@@ -4,7 +4,10 @@
   "name": "Brunei Darussalam (نڬارا بروني دارالسلام)",
   "jurisdiction_code": "BN",
   "legal_system": "mixed",
-  "language": ["ms", "en"],
+  "language": [
+    "ms",
+    "en"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Brunei Darussalam is a Southeast Asian mixed-legal-system absolute monarchy combining English common-law substantive heritage (via colonial inheritance) with Islamic-law (Syariah) personal-status jurisdiction over Muslims. Family law for Muslims operates under the Islamic Family Law Order 1999 (Perintah Undang-Undang Keluarga Islam) with custody (hadana) provisions at arts. 88-95; non-Muslims operate under the Married Women Act and English common-law residual framework. The Supreme Court (Mahkamah Agung) is the apex court for civil and criminal matters; the Syariah Courts of Appeal operate apex jurisdiction over Islamic personal-status matters. Psychology profession is regulated under the Ministry of Health framework; no unified federal-statutory psychology regulator exists. Brunei is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Brunei is non-Hague Convention.",
@@ -70,7 +73,7 @@
     {
       "year": 1995,
       "title": "Brunei ratifies UN Convention on the Rights of the Child",
-      "description": "Brunei ratified the UNCRC on 27 December 1995 with reservations to Arts. 14 (freedom of religion), 20 (alternative care including kafala), and 21 (adoption) — framing the family-law-reform trajectory within Islamic-law-bounded best-interest-of-the-child substantive doctrine."
+      "description": "Brunei ratified the UNCRC on 27 December 1995 with reservations to Arts. 14 (freedom of religion), 20 (alternative care including kafala), and 21 (adoption)."
     },
     {
       "year": 1999,
@@ -100,7 +103,7 @@
     {
       "year": 2023,
       "title": "MHWS framework + JAKIM-Brunei coordination + ASEAN family-law cooperation framework",
-      "description": "Ministry of Health Wellness Services (MHWS) institutional framework addressing PA-related issues within Islamic Family Law Order 1999 + Married Women Act + Children and Young Persons Act framework. JAKIM (Department of Islamic Development Malaysia) — JAKIM-Brunei coordination framework substantively significant ASEAN family-law cooperation framework. Substantively significant Southeast Asian Sultanate institutional jurisprudential development."
+      "description": "Ministry of Health Wellness Services (MHWS) institutional framework addressing PA-related issues within Islamic Family Law Order 1999, Married Women Act, Children and Young Persons Act framework. JAKIM (Department of Islamic Development Malaysia)."
     },
     {
       "year": 2024,

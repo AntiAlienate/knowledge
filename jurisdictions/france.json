@@ -4,7 +4,9 @@
   "name": "France (République française)",
   "jurisdiction_code": "FR",
   "legal_system": "civil-law",
-  "language": ["fr"],
+  "language": [
+    "fr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
   "summary": "France is a civil-law jurisdiction whose family courts (juge aux affaires familiales, JAF) operate under the Code civil arts. 371-1 to 373-2-13 (autorité parentale) and the Code de procédure civile. The statutory framework is silent on the 'parental alienation' label as a diagnostic category; the Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant (best-interests-of-the-child standard) to contact-refusal cases. The Haute Autorité de Santé (HAS) has not validated 'aliénation parentale' as a clinical diagnosis. France sits in the institutional-caution camp, with the Conseil supérieur du travail social and Défenseure des droits expressing critique of PA-labelled deflection of domestic-violence allegations.",
@@ -76,12 +78,12 @@
     {
       "year": 1970,
       "title": "Loi n° 70-459 — puissance paternelle replaced by autorité parentale conjointe",
-      "description": "Loi n° 70-459 du 4 juin 1970 relative à l'autorité parentale replacing 1804 puissance paternelle with autorité parentale conjointe (joint parental authority). Substantively transformative shift to gender-equal parental-rights framework — substantively significant 20th-century French family-law reform."
+      "description": "Loi n° 70-459 du 4 juin 1970 relative à l'autorité parentale replacing 1804 puissance paternelle with autorité parentale conjointe (joint parental authority). Substantively transformative shift to gender-equal parental-rights framework."
     },
     {
       "year": 1987,
       "title": "Loi Malhuret n° 87-570 — joint custody framework after divorce",
-      "description": "Loi n° 87-570 du 22 juillet 1987 (loi Malhuret) introducing joint exercise of parental authority following divorce — substantively significant pre-2002 reform establishing the trajectory toward the current art. 372 joint-exercise framework."
+      "description": "Loi n° 87-570 du 22 juillet 1987 (loi Malhuret) introducing joint exercise of parental authority following divorce. 372 joint-exercise framework."
     },
     {
       "year": 1990,
@@ -96,12 +98,12 @@
     {
       "year": 2010,
       "title": "Loi n° 2010-769 — ordonnance de protection introduced",
-      "description": "Loi du 9 juillet 2010 relative aux violences faites spécifiquement aux femmes introducing ordonnance de protection (Code civil art. 515-9) — emergency civil-protection-order framework for DV victims. Substantively significant DV-PA-allegation intersection mechanism."
+      "description": "Loi du 9 juillet 2010 relative aux violences faites spécifiquement aux femmes introducing ordonnance de protection (Code civil art. 515-9) — emergency civil-protection-order framework for DV victims."
     },
     {
       "year": 2013,
       "title": "Loi n° 2013-404 — mariage pour tous + same-sex parental authority",
-      "description": "Loi n° 2013-404 du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe extending parental-authority framework to same-sex couples. Substantively significant 21st-century French family-law inclusivity reform."
+      "description": "Loi n° 2013-404 du 17 mai 2013 ouvrant le mariage aux couples de personnes de même sexe extending parental-authority framework to same-sex couples."
     },
     {
       "year": 2014,
@@ -111,17 +113,17 @@
     {
       "year": 2019,
       "title": "Loi Pradié n° 2019-1480 — DV framework strengthening",
-      "description": "Loi n° 2019-1480 du 28 décembre 2019 visant à agir contre les violences au sein de la famille strengthening ordonnance de protection regime, limiting contact orders where DV is established, and introducing bracelet anti-rapprochement. Substantively significant DV-protection reform."
+      "description": "Loi n° 2019-1480 du 28 décembre 2019 visant à agir contre les violences au sein de la famille strengthening ordonnance de protection regime, limiting contact orders where DV is established, and introducing bracelet anti-rapprochement."
     },
     {
       "year": 2023,
       "title": "Défenseure des droits + CIIVISE — PA institutional-critique register",
-      "description": "Défenseure des droits Claire Hédon and CIIVISE (Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants) issuing public statements characterising 'syndrome d'aliénation parentale' as pseudoscientific and warning of its instrumentalisation to deflect DV allegations. Substantively significant institutional-critique register consistent with European apex-court trajectory (BVerfG 2023, ECtHR rulings)."
+      "description": "Défenseure des droits Claire Hédon and CIIVISE (Commission indépendante sur l'inceste et les violences sexuelles faites aux enfants) issuing public statements characterising 'syndrome d'aliénation parentale' as pseudoscientific and warning of its instrumentalisation to deflect DV allegations."
     },
     {
       "year": 2022,
       "title": "Loi n° 2022-1089 (réforme de l'expertise judiciaire) + CNB framework",
-      "description": "Loi n° 2022-1089 du 30 juillet 2022 portant réforme de la justice civile and Conseil National des Barreaux (CNB) framework refining expertise judiciaire framework operationally applicable to expertises psychologiques in JAF proceedings. Substantively significant procedural-reform framework operationally affecting subsequent JAF adjudication of PA-allegation cases — establishing trajectory toward Défenseure des droits + CIIVISE 2023 institutional-critique register."
+      "description": "Loi n° 2022-1089 du 30 juillet 2022 portant réforme de la justice civile and Conseil National des Barreaux (CNB) framework refining expertise judiciaire framework operationally applicable to expertises psychologiques in JAF proceedings."
     },
     {
       "year": 2024,

@@ -4,7 +4,10 @@
   "name": "Cyprus (Κύπρος / Kıbrıs)",
   "jurisdiction_code": "CY",
   "legal_system": "mixed",
-  "language": ["el", "tr"],
+  "language": [
+    "el",
+    "tr"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Cyprus is a Mediterranean unitary republic operating a mixed-legal-system framework combining common-law procedural inheritance from the British colonial period with civil-law statutory layers and the family-court jurisdictions for the recognised religious communities. Family-law matters are heard by specialised Family Courts (Οικογενειακά Δικαστήρια) under the Family Courts Law of 1990. Parental responsibility (γονική μέριμνα) is governed by the Children Law Cap. 352 as amended. The Supreme Court of Cyprus (Ανώτατο Δικαστήριο) operates as the apex court for civil and criminal matters and as the Constitutional Court. Psychology profession is regulated under the Psychologists Registration Law of 1995 (as amended) operated by the Cyprus Psychologists' Board (Συμβούλιο Εγγραφής Ψυχολόγων). Cyprus is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Cyprus is a Council of Europe member; ECHR Strasbourg jurisprudence applies.",
@@ -71,7 +74,7 @@
     {
       "year": 1991,
       "title": "Cyprus ratifies UN Convention on the Rights of the Child + Hague Convention 1980 accession",
-      "description": "Cyprus ratified the UNCRC on 7 February 1991. Concurrently, Cyprus acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 February 1995. Substantively significant for cross-border-displacement custody matters."
+      "description": "Cyprus ratified the UNCRC on 7 February 1991. Concurrently, Cyprus acceded to the Hague Convention on the Civil Aspects of International Child Abduction 1980 effective 1 February 1995."
     },
     {
       "year": 1990,
@@ -106,7 +109,7 @@
     {
       "year": 2023,
       "title": "Commissioner for the Rights of the Child institutional position + family-law implementation framework",
-      "description": "Commissioner for the Rights of the Child (Επίτροπος Προστασίας των Δικαιωμάτων του Παιδιού) institutional position addressing PA-related issues within Children Law Cap. 352 + Family Courts Law 1990 framework. Multiple Supreme Court decisions 2022-2023 developing welfare-of-the-child interpretation including allegations of one-parent obstruction of the other-parent relationship. Substantively significant Mediterranean institutional jurisprudential development."
+      "description": "Commissioner for the Rights of the Child (Επίτροπος Προστασίας των Δικαιωμάτων του Παιδιού) institutional position addressing PA-related issues within Children Law Cap. 352, Family Courts Law 1990 framework. Multiple Supreme Court decisions 2022-2023 developing welfare interpretation including allegations of one-parent obstruction of the other-parent relationship."
     },
     {
       "year": 2024,

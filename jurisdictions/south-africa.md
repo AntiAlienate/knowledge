@@ -238,7 +238,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "South Africa (Republic of South Africa)",
       "url": "https://www.gov.za/documents/domestic-violence-act",
       "datePublished": "1998",
-      "description": "DV-protection framework establishing protection-order procedure. Substantively significant for DV-PA-allegation intersection cases — invoked in subsequent contact-refusal litigation."
+      "description": "DV-protection framework establishing protection-order procedure."
     }
   ]
 }

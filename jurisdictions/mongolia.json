@@ -4,7 +4,9 @@
   "name": "Mongolia (Монгол Улс)",
   "jurisdiction_code": "MN",
   "legal_system": "civil-law",
-  "language": ["mn"],
+  "language": [
+    "mn"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "Mongolia is a Central/East Asian civil-law parliamentary republic whose family-law framework operates under the Family Law of Mongolia 1999 (revised 2019) governing marriage, parental rights and child custody. Parental rights are governed by arts. 24-37 of the Family Law. The Supreme Court of Mongolia (Улсын Дээд Шүүх) is the apex court for civil and criminal matters; the Constitutional Court (Үндсэн Хуулийн Цэц) operates separate constitutional review. Family-law matters are heard at first instance in the District (Sum) Courts under specialised family-procedure rules. Psychology profession is regulated under the Ministry of Health framework with the Mongolian Psychological Association operating professional standards. Mongolia is silent on 'parental alienation' as a statutory label; courts operate substantively under the child's-best-interests standard codified in Family Law art. 25. Mongolia is non-Hague Convention.",
@@ -65,7 +67,7 @@
     {
       "year": 1990,
       "title": "Mongolia ratifies UN Convention on the Rights of the Child",
-      "description": "Mongolia ratified the UNCRC on 5 July 1990, among the earliest state parties — one year after CRC adoption 20 November 1989. The UNCRC ratification framed the post-communist family-law-reform trajectory toward best-interest-of-the-child substantive doctrine."
+      "description": "Mongolia ratified the UNCRC on 5 July 1990, among the earliest state parties — one year after CRC adoption 20 November 1989."
     },
     {
       "year": 1992,
@@ -80,7 +82,7 @@
     {
       "year": 2002,
       "title": "Civil Code of Mongolia enacted + post-Soviet civil-codification framework",
-      "description": "Civil Code of Mongolia (Иргэний хууль) enacted 10 January 2002 + effective 1 September 2002 replacing 1994 Civil Code + post-Soviet civil-law-codification framework — substantively significant Mongolian post-Soviet civil-law modernisation framework. Substantive Civil Code 2002 framework codifying contract + property + family-adjacent + tort + inheritance frameworks in modern civil-law structure + foundation for subsequent 2016 Children's Rights Law + 2019 Family Law revision + 2024 Supreme Court family-law substantive register. Structurally distinctive within post-Soviet Central Asian civil-law modernisation cluster alongside Russia (1994/1995 Civil Code Parts I/II), Kazakhstan (1994 Civil Code), and Uzbekistan (1996 Civil Code) frameworks."
+      "description": "Civil Code of Mongolia (Иргэний хууль) enacted 10 January 2002, effective 1 September 2002 replacing 1994 Civil Code, post-Soviet civil-law-codification framework. Substantive Civil Code 2002 framework codifying contract, property, family-adjacent, tort, inheritance frameworks in modern civil-law structure, foundation for subsequent 2016 Children's Rights Law, 2019 Family Law revision, 2024 Supreme Court family-law substantive register. Structurally distinctive within post-Soviet Central Asian civil-law modernisation cluster alongside Russia (1994/1995 Civil Code Parts I/II), Kazakhstan (1994 Civil Code), and Uzbekistan (1996 Civil Code) frameworks."
     },
     {
       "year": 2008,

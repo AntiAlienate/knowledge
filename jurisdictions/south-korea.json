@@ -4,7 +4,9 @@
   "name": "South Korea (Republic of Korea / 대한민국)",
   "jurisdiction_code": "KR",
   "legal_system": "civil-law",
-  "language": ["ko"],
+  "language": [
+    "ko"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
   "summary": "South Korea is an East Asian civil-law unitary republic whose family-law framework operates under the Civil Act (민법) Book IV (Relatives) and Family Litigation Act 1990 (가사소송법). Parental authority (친권) is governed by Civil Act arts. 909-927; the 2005 reform shifted from hojuje (patriarchal household head) to gajokje (family register) and 2011 reform abolished hojuje. Joint exercise during marriage is the statutory default. The Supreme Court of Korea (대법원) is the apex court for civil and criminal matters; the Constitutional Court (헌법재판소) operates separate constitutional-review jurisdiction. Specialised Family Courts (가정법원) operate at first instance. Psychology profession is regulated under the Mental Health Act framework with Korean Psychological Association (KPA) operating professional standards; Korean Clinical Psychology Association (KCPA) administers the Clinical Psychologist (임상심리사) qualification. South Korea is silent on 'parental alienation' as a statutory label; courts operate substantively under the chiae uichunjuui (child's best interests) standard. South Korea acceded to the Hague Convention 1980 effective 1 March 2013.",
@@ -85,7 +87,7 @@
     {
       "year": 2008,
       "title": "Multicultural Families Support Act + cross-border-family-law foundation",
-      "description": "Multicultural Families Support Act (다문화가족지원법) enacted 21 March 2008 + effective 22 September 2008 — substantively significant Korean cross-border-family-law framework foundation. Substantive Multicultural Families Support Act framework establishing legal-protection + integration-support + child-protection framework for cross-border-marriage families + relevant to subsequent Hague Convention 1980 accession 2013 + 2024 Supreme Court friendly-parent + best-interest jurisprudence. Foundation for Korean cross-border-parental-abduction + cross-border-PA-cases framework given rapid growth in cross-border marriages (~20% of Korean marriages 2010s)."
+      "description": "Multicultural Families Support Act (다문화가족지원법) enacted 21 March 2008, effective 22 September 2008. Substantive Multicultural Families Support Act framework establishing legal-protection, integration-support, child-protection framework for cross-border-marriage families, relevant to subsequent Hague Convention 1980 accession 2013, 2024 Supreme Court friendly-parent, best-interest jurisprudence. Foundation for Korean cross, cross framework given rapid growth in cross-border marriages (~20% of Korean marriages 2010s)."
     },
     {
       "year": 2013,
@@ -110,7 +112,7 @@
     {
       "year": 2023,
       "title": "Family Litigation Act revisions + Mediation framework reinforcement",
-      "description": "Family Litigation Act (가사소송법) revisions 2022-2023 strengthening family-court mediation (조정) framework under Civil Act arts. 909-927 and refining post-divorce visitation enforcement (면접교섭) procedures. Substantively significant procedural-reform framework — operationally affecting subsequent Family Court adjudication of contact-refusal cases with substantive best-interest-of-the-child analysis. Establishes trajectory toward 2024 Supreme Court Family Chamber friendly-parent jurisprudence."
+      "description": "Family Litigation Act (가사소송법) revisions 2022-2023 strengthening family-court mediation (조정) framework under Civil Act arts. 909-927 and refining post-divorce visitation enforcement (면접교섭) procedures. Establishes trajectory toward 2024 Supreme Court Family Chamber friendly-parent jurisprudence."
     },
     {
       "year": 2024,

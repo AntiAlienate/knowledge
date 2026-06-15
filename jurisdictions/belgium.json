@@ -11,7 +11,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "Belgium is a federal civil-law jurisdiction whose family courts (Tribunal de la famille / Familierechtbank, established 1 September 2014) operate under the Code civil arts. 371-387ter (autorité parentale / ouderlijk gezag) and the Loi du 30 juillet 2013 portant création d'un tribunal de la famille et de la jeunesse. The statutory framework is silent on the 'parental alienation' label. The Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant under Code civil and Constitution art. 22bis. Belgium operationally is a substantively significant institutional-critique data point through the Commission Femmes-Justice and Délégué général aux droits de l'enfant (DGDE) / Kinderrechtencommissaris reports — particularly addressing PA-labelled DV-deflection patterns. The 2006 hébergement égalitaire (egalitarian residence) framework under Loi du 18 juillet 2006 establishes default-shared-residence presumption.",
+  "summary": "Belgium is a federal civil-law jurisdiction whose family courts (Tribunal de la famille / Familierechtbank, established 1 September 2014) operate under the Code civil arts. 371-387ter (autorité parentale / ouderlijk gezag) and the Loi du 30 juillet 2013 portant création d'un tribunal de la famille et de la jeunesse. The statutory framework is silent on the 'parental alienation' label. The Cour de cassation has not endorsed PAS as a syndrome but applies l'intérêt supérieur de l'enfant under Code civil and Constitution art. 22bis. The 2006 hébergement égalitaire (egalitarian residence) framework under Loi du 18 juillet 2006 establishes default-shared-residence presumption.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -37,14 +37,14 @@
       "title": "Loi portant création d'un tribunal de la famille et de la jeunesse",
       "year": 2013,
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
-      "relevance": "Establishes Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014 — substantively significant institutional reform unifying Belgian family-law procedural framework."
+      "relevance": "Establishes Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014."
     },
     {
       "citation": "Constitution belge art. 22bis",
       "title": "Constitutional child-rights framework",
       "year": 2008,
       "url": "https://www.const-court.be/en/basic-text/belgian-constitution",
-      "relevance": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification."
+      "relevance": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard."
     },
     {
       "citation": "Convention d'Istanbul art. 31",
@@ -80,12 +80,12 @@
     {
       "year": 1974,
       "title": "Loi du 1er juillet 1974 — gender equality + parental authority reform",
-      "description": "Loi du 1er juillet 1974 establishing gender equality in marriage and modernising parental-authority framework — substantively significant 20th-century Belgian family-law reform preceding 1995 autorité parentale conjointe codification."
+      "description": "Loi du 1er juillet 1974 establishing gender equality in marriage and modernising parental-authority framework."
     },
     {
       "year": 1991,
       "title": "Belgium ratifies UN Convention on the Rights of the Child",
-      "description": "Belgium ratified UN CRC 16 December 1991 (in force 15 January 1992). Substantively significant international child-rights framework — Cour de cassation has recognised art. 3-1 (intérêt supérieur de l'enfant) direct effect in Belgian law."
+      "description": "Belgium ratified UN CRC 16 December 1991 (in force 15 January 1992). 3-1 (intérêt supérieur de l'enfant) direct effect in Belgian law."
     },
     {
       "year": 1995,
@@ -100,12 +100,12 @@
     {
       "year": 2008,
       "title": "Constitution art. 22bis — child-rights constitutional codification",
-      "description": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard. Substantively significant constitutional codification reinforcing UN CRC implementation."
+      "description": "Constitution art. 22bis amendment 22 December 2008 establishing constitutionally-grounded child-rights framework including intérêt supérieur de l'enfant standard."
     },
     {
       "year": 2013,
       "title": "Loi du 30 juillet 2013 — Tribunal de la famille et de la jeunesse established",
-      "description": "Loi du 30 juillet 2013 establishing specialised Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014. Substantively significant institutional reform unifying Belgian family-law procedural framework consolidating previously fragmented family-law jurisdiction."
+      "description": "Loi du 30 juillet 2013 establishing specialised Tribunal de la famille et de la jeunesse / Familie- en jeugdrechtbank effective 1 September 2014."
     },
     {
       "year": 2016,
@@ -115,17 +115,17 @@
     {
       "year": 2019,
       "title": "DGDE + Kinderrechtencommissaris reports — institutional-critique register",
-      "description": "Délégué général aux droits de l'enfant (DGDE, Communauté française) and Kinderrechtencommissaris (Vlaamse Gemeenschap) institutional reports 2018-2019 addressing child-rights framework operation including PA-labelled DV-deflection patterns. Substantively significant Belgian institutional-critique register."
+      "description": "Délégué général aux droits de l'enfant (DGDE, Communauté française) and Kinderrechtencommissaris (Vlaamse Gemeenschap) institutional reports 2018-2019 addressing child-rights framework operation including PA-labelled DV-deflection patterns."
     },
     {
       "year": 2021,
       "title": "Loi du 1er juillet 2021 — féminicide statutory framework + DV-protection reinforcement",
-      "description": "Loi du 1er juillet 2021 + subsequent féminicide statutory framework reform reinforcing DV-protection framework. Substantively significant gender-violence-protection reform shaping subsequent family-law adjudication on DV-PA-allegation intersection cases."
+      "description": "Loi du 1er juillet 2021, subsequent féminicide statutory framework reform reinforcing DV-protection framework."
     },
     {
       "year": 2022,
       "title": "Cour constitutionnelle + Tribunal de la famille jurisprudence — hébergement égalitaire interpretation framework",
-      "description": "Cour constitutionnelle + Tribunal de la famille jurisprudence 2020-2022 substantively developing hébergement égalitaire (Loi du 18 juillet 2006) interpretation framework — addressing implementation issues including DV-intersection cases and hébergement égalitaire-derogation criteria under Code civil arts. 374 et seq. Substantively significant institutional jurisprudential refinement of distinctive Belgian shared-residence default-presumption framework — establishing trajectory toward 2024 Cour de cassation substantive register."
+      "description": "Cour constitutionnelle, Tribunal de la famille jurisprudence 2020-2022 substantively developing hébergement égalitaire (Loi du 18 juillet 2006) interpretation framework — addressing implementation issues including DV-intersection cases and hébergement égalitaire-derogation criteria under Code civil arts. 374 et seq."
     },
     {
       "year": 2024,

@@ -4,7 +4,11 @@
   "name": "Aragon (Aragón / Aragó)",
   "jurisdiction_code": "ES-AR",
   "legal_system": "civil-law",
-  "language": ["es", "ca", "an"],
+  "language": [
+    "es",
+    "ca",
+    "an"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-05",
   "summary": "Aragon (Aragón in Spanish / Aragó in Catalan / Aragonese ethnic territory) is a Northern Iberian civil-law autonomous community of the Kingdom of Spain — structurally distinctive globally as the EU subnational jurisdiction operating the most comprehensive recodified Foral Civil Law tradition (Código del Derecho Foral de Aragón / CDFA 2011), as the only EU member-state subnational jurisdiction with a Foral civil-code recodification consolidated as a single comprehensive Código (Code) rather than a Compilation (Compilación), and as the central historical territory of the Crown of Aragon (1162-1715) — the medieval Mediterranean composite monarchy that included Catalonia, Valencia, Mallorca, Sardinia, Sicily, Naples, and the Athenian Duchy. Aragon's distinct civil-law tradition (Derecho Civil Aragonés) derives from the medieval Fueros de Aragón (Compilation of Huesca 1247 by Vidal de Canellas) and Observancias del Reino de Aragón (~14th century), was preserved through the 1707 Decretos de Nueva Planta following the War of the Spanish Succession (despite abolition of Aragonese political institutions), formally compiled in the 1967 Compilation of Civil Law of Aragon (Compilación del Derecho Civil de Aragón), and comprehensively recodified as the Código del Derecho Foral de Aragón 2011 in four books: Book I Persons and Family, Book II Property, Book III Successions, Book IV Obligations. Family-law framework operates under CDFA Book I Persons and Family, with particularly distinctive joint-custody-presumption framework (custodia compartida) under Article 80 — Aragon was the first Spanish jurisdiction to legislate strong joint-custody presumption (Ley 2/2010 of 26 May 2010, effective 8 September 2010), preceding Catalan 2010 reform by ~4 months. Aragon also operates distinct juvenile-emancipation framework (emancipación under CDFA Article 4) at 14 years with parental consent (vs Spanish national 18) — youngest emancipation threshold in EU. The Tribunal Superior de Justicia de Aragón (TSJA) is the apex appellate court for Aragonese-civil-law matters. Aragon is silent on 'parental alienation' as a statutory label. Spain is a Hague Convention 1980 party (acceded 16 June 1987) — Aragonese Hague applicability via Spanish federal extension subject to Aragonese Foral Civil Law application framework.",
@@ -126,7 +130,7 @@
     {
       "year": 2023,
       "title": "Cortes de Aragón + PP-VOX coalition + Justicia de Aragón Ombudsperson + continuing-CDFA framework",
-      "description": "Cortes de Aragón and Justicia de Aragón (regional Ombudsperson) institutional positions addressing PA-related issues within CDFA 2011 Book I Persons and Family Article 80 joint-custody-presumption framework. PP-VOX coalition Government Aragón 2023-onwards under Jorge Azcón (PP) Presidency framework. Substantive Tribunal Superior de Justicia de Aragón continuing application of CDFA Article 80 framework affecting cross-border family-law adjudication. Substantively significant Northern Iberian institutional jurisprudential development."
+      "description": "Cortes de Aragón and Justicia de Aragón (regional Ombudsperson) institutional positions addressing PA-related issues within CDFA 2011 Book I Persons and Family Article 80 joint-custody-presumption framework. PP-VOX coalition Government Aragón 2023-onwards under Jorge Azcón (PP) Presidency framework. Substantive Tribunal Superior de Justicia de Aragón continuing application of CDFA Article 80 framework affecting cross-border family-law adjudication."
     }
   ],
   "structural_findings": [

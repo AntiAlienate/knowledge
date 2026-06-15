@@ -224,7 +224,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "New Zealand (Aotearoa New Zealand)",
       "url": "https://www.legislation.govt.nz/act/public/2018/0046/latest/DLM7159322.html",
       "datePublished": "2018",
-      "description": "Family Violence Act 2018 (effective 1 July 2019) replacing Domestic Violence Act 1995. Substantively significant DV-protection framework — invoked in DV-PA-allegation intersection cases."
+      "description": "Family Violence Act 2018 (effective 1 July 2019) replacing Domestic Violence Act 1995."
     },
     {
       "@type": "Legislation",
@@ -233,7 +233,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "New Zealand (Aotearoa New Zealand)",
       "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317854.html",
       "datePublished": "1991",
-      "description": "New Zealand ratified 1980 Hague Convention 18 May 1991 (in force 1 August 1991). CoCA Part 2 subpart 4 implements Hague Convention obligations — substantively significant international-abduction framework."
+      "description": "New Zealand ratified 1980 Hague Convention 18 May 1991 (in force 1 August 1991). CoCA Part 2 subpart 4 implements Hague Convention obligations."
     },
     {
       "@type": "Legislation",
@@ -242,7 +242,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "New Zealand (Aotearoa New Zealand)",
       "url": "https://www.legislation.govt.nz/act/public/2014/0040/latest/DLM5501618.html",
       "datePublished": "2014",
-      "description": "Children's Act 2014 (renamed Oranga Tamariki Act 1989 framework) establishing strategic framework for children's wellbeing. Substantively significant Oranga Tamariki framework intersection with CoCA family-law adjudication."
+      "description": "Children's Act 2014 (renamed Oranga Tamariki Act 1989 framework) establishing strategic framework for children's wellbeing."
     }
   ]
 }

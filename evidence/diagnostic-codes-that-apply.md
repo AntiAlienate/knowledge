@@ -227,7 +227,7 @@ The Bernet/Wamboldt/Narrow 2016 JAACAP article (§1.3 above) is the load-bearing
 - Smith Slep, Heyman & Foran (2015). Child maltreatment in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed [DSM-5](https://www.appi.org/products/dsm) (2013) and were being considered for [ICD-11](https://icd.who.int/); argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
 - Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in [DSM-5](https://www.appi.org/products/dsm), and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The [DSM-5](https://www.appi.org/products/dsm) Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
 
-These two 2015 *Family Process* papers are the methodological backbone for the proposition that the DSM-5 relational-problem and maltreatment codes have field-tested reliability adequate for forensic use.
+These two 2015 *Family Process* papers are the methodological backbone for the proposition that the [DSM-5](https://www.appi.org/products/dsm) relational-problem and maltreatment codes have field-tested reliability adequate for forensic use.
 
 ### 3.3 Cross-jurisdictional clinical practice
 
@@ -396,7 +396,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 ### 8.1 High confidence
 
 - **V995.51 / T74.32XA Child Psychological Abuse, V61.20 / Z62.820 Parent-Child Relational Problem, V61.29 / Z62.898 Child Affected by Parental Relationship Distress, and QE52.0 Caregiver-child relationship problem all defensibly apply to severe PA-pattern conduct given adequate clinical documentation.** These codes are in the published, peer-reviewed, copyright-protected primary diagnostic manuals (DSM-5, [DSM-5-TR](https://www.appi.org/products/dsm), [ICD-11](https://icd.who.int/)). Their textual content covers the observable behavioural pattern described in the PA literature. They are billable, court-citable, and survive *Daubert* / *Frye* scrutiny in ways that "PAS" and "PAD" do not.
-- **QE82.2 Personal history of psychological abuse** is the operative ICD-11 code for adult survivors of childhood PA-pattern conduct that crossed the psychological-abuse threshold.
+- **QE82.2 Personal history of psychological abuse** is the operative [ICD-11](https://icd.who.int/) code for adult survivors of childhood PA-pattern conduct that crossed the psychological-abuse threshold.
 - **WHO's explicit direction** to clinicians and coders is that QE52.0 covers PA-pattern presentations: *"Users may classify cases to 'caregiver-child relationship problem'."* This is the WHO-blessed pathway.
 
 ### 8.2 Moderate confidence
@@ -432,7 +432,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 **Bernet group proposals.**
 - Bernet, W. (Ed.) (2010). *Parental Alienation, DSM-5, and ICD-11*. Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). *American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
 - Madaan, V., & Habib, P. (2013). Book review of *Parental Alienation, DSM-5, and ICD-11*. *The Journal of Clinical Psychiatry*, 74(3), e220. https://doi.org/10.4088/JCP.12bk08344. URL: https://www.psychiatrist.com/jcp/parental-alienation-ltemgtdsm-ltemgt-ltemgticd-ltemgt/
-- [PASG](https://pasg.info/) (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L.) (2022, draft 2022-08-29). *Draft of the Proposal for Parental Alienation Relational Problem to be Added to DSM-5-TR.* https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr
+- [PASG](https://pasg.info/) (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L.) (2022, draft 2022-08-29). *Draft of the Proposal for Parental Alienation Relational Problem to be Added to [DSM-5-TR](https://www.appi.org/products/dsm).* https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr
 - Bernet, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., Narrow, W. E., & Wamboldt, M. Z. (2023, draft 2023-09-01). *Proposal for a Correction and Clarification to Parent-Child Relational Problem.* https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf
 - Bernet, W., Greenhill, L. L., et al. (2022). The Five-Factor Model for the Diagnosis of Parental Alienation. *Journal of the American Academy of Child & Adolescent Psychiatry*. https://www.jaacap.org/article/S0890-8567(21)02046-3/abstract — **[secondary verification only]** (full text returned HTTP 403 at compilation)
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

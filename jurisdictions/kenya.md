@@ -214,7 +214,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
       "url": "https://www.kenyalaw.org/akn/ke/act/2014/4",
       "datePublished": "2014",
-      "description": "Marriage Act 2014 consolidating five categories of marriage (Christian, civil, customary, Hindu, Islamic). Substantively significant institutional reform unifying Kenyan marriage framework with respect for legal pluralism."
+      "description": "Marriage Act 2014 consolidating five categories of marriage (Christian, civil, customary, Hindu, Islamic)."
     },
     {
       "@type": "Legislation",
@@ -223,7 +223,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
       "url": "https://www.kenyalaw.org/akn/ke/act/2015/2",
       "datePublished": "2015",
-      "description": "Protection Against Domestic Violence Act 2015 establishing DV-protection framework with protection-order procedure. Substantively significant for DV-PA-allegation intersection cases."
+      "description": "Protection Against Domestic Violence Act 2015 establishing DV-protection framework with protection-order procedure."
     },
     {
       "@type": "Legislation",
