@@ -118,3 +118,35 @@ The statutory ban on **in-person cross-examination of one party by another in fa
 - [Domestic Abuse Act 2021, s.63 — Special Measures in Family Proceedings](domestic-abuse-act-2021-section-63-special-measures-family.md)
 - [Serious Crime Act 2015, s.76 — Controlling/Coercive (DAA 2021 amended)](serious-crime-act-2015-section-76-controlling-coercive.md)
 - [Re H-N and Others (Children) [2021] EWCA Civ 448](re-h-n-2021-ewca-civ-448.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+
+<!-- AA-CROSSLINK-END -->

@@ -127,6 +127,8 @@ The **criminal offence** of controlling or coercive behaviour in an intimate or 
 - [Children Act 1989, s.31 — Care and Supervision Orders (s.31(9) harm definition)](children-act-1989-section-31-care-and-supervision-orders.md)
 - [Children Act 1989, s.91A — Barring Orders](children-act-1989-section-91A-barring-order-further-provision.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

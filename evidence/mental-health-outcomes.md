@@ -384,7 +384,7 @@ Across the studies in §§1–7, the recurring limitations are:
 - **A validated population prevalence of PA-related suicidality, SUD, or completed suicide.** No controlled epidemiological dataset exists. Within-sample percentages from qualitative studies (e.g., 30% suicidal ideation in n = 20) should not be cited as prevalence.
 - **PA as a formally validated Adverse Childhood Experience.** PA is not in the original ACE 10-item scale; pilot work to add PA items has been undertaken but has not — at this compilation — reached confirmatory cross-validation in independent population samples.
 - **Quantitative meta-analytic comparison of PA-exposure effect sizes to physical-abuse or sexual-abuse effect sizes on standard outcomes.** No such meta-analysis was identified. [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018) make the argumentative case for analogous harm but do not quantitatively compare effect sizes.
-- **A quantitative literature on academic performance, employment, or marital stability in PA-exposed adults derived from longitudinal cohorts.** Not publicly confirmed; the field relies on retrospective adult self-report (Bentley & Matthewson 2020) and qualitative themes (Baker 2007).
+- **A quantitative literature on academic performance, employment, or marital stability in PA-exposed adults derived from longitudinal cohorts.** Not publicly confirmed; the field relies on retrospective adult self-report (Bentley & Matthewson 2020) and qualitative themes ([Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2007).
 - **The claim that "740,000 U.S. children are alienated."** This is Bernet's *estimate* (~20% of children in divorced households × ~25% high-conflict × ~25% severely alienated → ~1% of all U.S. children), not an epidemiologically validated measurement.
 
 ### 9.4 What an honest advocate should and should not say
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

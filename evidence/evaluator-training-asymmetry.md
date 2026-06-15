@@ -239,7 +239,7 @@ The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/0964906
 
 **The [Saunders](https://www.ovw.usdoj.gov/) 2015 baseline.**
 
-> "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; [Saunders](https://www.ovw.usdoj.gov/) et al., 2011)." (Saunders 2015, p. 78)
+> "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; [Saunders](https://www.ovw.usdoj.gov/) et al., 2011)." ([Saunders](https://www.ovw.usdoj.gov/) 2015, p. 78)
 
 That is, *at compilation of the 2015 paper*, only 15 US states had any statutorily-required training for custody evaluators, and even within those states the required content and depth varied. There is no national licensure of custody evaluators in the US; this is the structural reason a competency framework cannot be uniformly enforced.
 
@@ -424,7 +424,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 - Saunders, Faller, & Tolman (2011) — cross-sectional survey, n=465 evaluators, vignette-based recommendation measure; **observational, no random assignment to training conditions.**
 - Saunders, Tolman, & Faller (2013) — multivariate analysis of the same dataset; **same limitation.**
-- Meier et al. (2020) — full-census coded review of 4,338 published appellate-weighted decisions 2005-2014; **case-level outcomes by stated PA cross-claim; no evaluator-training-profile data on the individual cases.**
+- [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2020) — full-census coded review of 4,338 published appellate-weighted decisions 2005-2014; **case-level outcomes by stated PA cross-claim; no evaluator-training-profile data on the individual cases.**
 - [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — 27-case turned-around series, snowball-sampled; **mechanism-documenting, not prevalence-establishing.**
 - Bow & Boxer (2003); Bow & Quinnell (2001) — survey of evaluator practice patterns; **descriptive, no outcome linkage.**
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

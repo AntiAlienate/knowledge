@@ -88,3 +88,39 @@ Section 63 was implemented through the [Family Procedure (Amendment No. 2) Rules
 - [Children Act 1989, s.31 — Care and Supervision Orders (s.31(9) harm definition)](children-act-1989-section-31-care-and-supervision-orders.md)
 - [Children Act 1989, s.91A — Barring Orders](children-act-1989-section-91A-barring-order-further-provision.md)
 - [Re H-N and Others (Children) [2021] EWCA Civ 448](re-h-n-2021-ewca-civ-448.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [False Accusations The Weaponization Of Abuse In Family Court](https://www.antialienate.com/blog/false-accusations-the-weaponization-of-abuse-in-family-court)
+- [Are Fathers Discriminated Against In Family Court](https://www.antialienate.com/blog/are-fathers-discriminated-against-in-family-court)
+- [Narcissistic Alienator Family Court](https://www.antialienate.com/blog/narcissistic-alienator-family-court)
+- [Medical Child Abuse When Alienators Recruit Healthcare Providers](https://www.antialienate.com/blog/medical-child-abuse-when-alienators-recruit-healthcare-providers)
+- [Parental Alienation Abuse Criminal Offense](https://www.antialienate.com/blog/parental-alienation-abuse-criminal-offense)
+
+<!-- AA-CROSSLINK-END -->

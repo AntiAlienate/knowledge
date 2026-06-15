@@ -210,6 +210,8 @@ New Zealand's **Care of Children Act 2004** (CoCA, in force 1 Jul 2005) governs 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

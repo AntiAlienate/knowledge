@@ -209,7 +209,7 @@ London · England · Senior Lecturer, Centre for Psychiatry & Mental Health, Que
 **Stance:** A regulated UK Chartered Forensic Psychologist who explicitly rejects standalone-PA diagnosis — publicly quoted (Transparency Project) as 'true alienation ... is rare enough that it does not need its own concept'. The critique-camp answer to 'who should the court be instructing?' post-Re Y: trauma-informed and domestic-abuse-informed forensic assessment of parents in Family Court as an alternative to the PA-diagnosis expert pipeline. Survives the Re Y regulatory bar squarely.
 
 **Publications:**
-- QMUL MSc Forensic Psychology & Mental Health (Programme Director, BPS-accredited) (2020) — *Queen Mary University of London*
+- QMUL MSc Forensic Psychology & Mental Health (Programme Director, [BPS](https://www.bps.org.uk/)-accredited) (2020) — *Queen Mary University of London*
 - Expert-witness reports in UK family proceedings (trauma-informed framework) (2023) — *Family Court (anonymised judgments)*
 - Transparency Project commentary on PA-expert pipeline (2023) — *Transparency Project* — <https://transparencyproject.org.uk/parental-alienation-experts/>
 
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

@@ -77,6 +77,8 @@ The combination of [s.1](domestic-abuse-act-2021-section-1-definition.md) and s.
 - [Children Act 1989, s.91A — Barring Orders (DAA 2021 amendment)](children-act-1989-section-91A-barring-order-further-provision.md)
 - [Re H-N and Others (Children) [2021] EWCA Civ 448](re-h-n-2021-ewca-civ-448.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

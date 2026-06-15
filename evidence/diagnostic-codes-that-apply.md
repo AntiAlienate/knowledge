@@ -190,7 +190,7 @@ Many U.S. clinical billing systems still operate on ICD-10-CM (not yet [ICD-11](
 - **Z62.820** — Parent-biological child conflict (the [DSM-5](https://www.appi.org/products/dsm) V61.20 partner).
 - **Z62.821** — Parent-adopted child conflict.
 - **Z62.822** — Parent-foster child conflict.
-- **Z62.898** — Other specified problems related to upbringing (DSM-5 V61.29 partner; the CAPRD code).
+- **Z62.898** — Other specified problems related to upbringing ([DSM-5](https://www.appi.org/products/dsm) V61.29 partner; the CAPRD code).
 - **Z62.810** — Personal history of physical and sexual abuse in childhood.
 - **Z62.811** — Personal history of psychological abuse in childhood.
 - **T74.32XA / T76.32XA** — Child psychological abuse, confirmed / suspected, initial encounter.
@@ -335,7 +335,7 @@ The APA DSM-5 Task Force did not adopt the Bernet 2010 proposal. The reasons giv
 
 Bernet, Wamboldt & Narrow (2016) (full citation §1.3 above) is the article that secured the CAPRD-as-the-vehicle position. By placing parental alienation as the extreme tail of the fourth CAPRD scenario (unfair disparagement of one parent by another), the Bernet group secured a peer-reviewed JAACAP citation that does *not* depend on DSM/APA recognising "PAS" or "PAD" as a discrete diagnosis.
 
-### 6.4 ICD-11 inclusion / removal sequence
+### 6.4 [ICD-11](https://icd.who.int/) inclusion / removal sequence
 
 The ICD-11 history is documented in detail in `/evidence/international-institutional-positions.md` §1.2–1.3. Summary: PA was initially considered, was added as an index term for QE52.0, then was **formally removed in February 2020** following commentary highlighting misuse. WHO's operative direction is to code PA-pattern presentations to QE52.0.
 
@@ -385,7 +385,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 >
 > "I have considered the full differential consistent with the APSAC (2022) Position Statement and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016), including direct maltreatment by [rejected parent], witnessed inter-parental violence, [rejected parent's] mental health or substance use, prior poor relationship, and developmentally appropriate preference. On the evidence reviewed, [rule-out finding].
 >
-> "[Where threshold met:] On the documented evidence of sustained, nonaccidental, verbal and symbolic acts by [favoured parent] toward [child] that have caused or have reasonable potential to cause significant psychological harm, the presentation also meets criteria for Child Psychological Abuse, Confirmed (V995.51 / T74.32XA) (DSM-5-TR p. 813). [Mandated-reporting status: filed / not filed because already known to CPS / etc.]
+> "[Where threshold met:] On the documented evidence of sustained, nonaccidental, verbal and symbolic acts by [favoured parent] toward [child] that have caused or have reasonable potential to cause significant psychological harm, the presentation also meets criteria for Child Psychological Abuse, Confirmed (V995.51 / T74.32XA) ([DSM-5-TR](https://www.appi.org/products/dsm) p. 813). [Mandated-reporting status: filed / not filed because already known to CPS / etc.]
 >
 > "[Where threshold not met:] The documented inter-parental conduct does not at this time, on the available evidence, meet the threshold for Child Psychological Abuse; the matter is best characterised as Parent-Child Relational Problem and Child Affected by Parental Relationship Distress, with continued clinical monitoring."
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 
