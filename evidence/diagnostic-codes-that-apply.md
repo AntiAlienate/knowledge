@@ -101,7 +101,7 @@ The [PASG](https://pasg.info/) draft proposed five PARP criteria, verbatim from 
 
 ---
 
-### 1.5 Adjacent DSM-5 codes occasionally relevant in PA-pattern cases
+### 1.5 Adjacent [DSM-5](https://www.appi.org/products/dsm) codes occasionally relevant in PA-pattern cases
 
 - **309.81 / F43.10 — Posttraumatic Stress Disorder (PTSD)** — if the child meets full criteria.
 - **309.0–309.9 / F43.2x — Adjustment Disorders** — useful intermediate code for sub-PTSD distress in a child responding to high-conflict separation.
@@ -286,7 +286,7 @@ Jean Mercer (developmental psychology) and Joyanna Silberg (child trauma special
 
 ### 4.4 Case-law sensitivity to which code is applied
 
-U.S. and Canadian family-court decisions increasingly turn on the specific diagnostic language used by the evaluator. Reviewing-court reversals (cross-referenced to `/evidence/forensic-operation-in-courts.md`) often pivot on whether the evaluator wrote "V61.20 Parent-Child Relational Problem" (low-stakes, accepted) versus "Parental Alienation Syndrome" (high-stakes, increasingly rejected as not in [DSM-5-TR](https://www.appi.org/products/dsm)). Evaluators using the [DSM-5-TR](https://www.appi.org/products/dsm) / ICD-11 codes have a substantially stronger appellate footing.
+U.S. and Canadian family-court decisions increasingly turn on the specific diagnostic language used by the evaluator. Reviewing-court reversals (cross-referenced to `/evidence/forensic-operation-in-courts.md`) often pivot on whether the evaluator wrote "V61.20 Parent-Child Relational Problem" (low-stakes, accepted) versus "Parental Alienation Syndrome" (high-stakes, increasingly rejected as not in [DSM-5-TR](https://www.appi.org/products/dsm)). Evaluators using the [DSM-5-TR](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/) codes have a substantially stronger appellate footing.
 
 ---
 
@@ -373,7 +373,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 7.3 What you SHOULD NOT do
 
-- Write "Parental Alienation Syndrome (PAS)" or "Parental Alienation Disorder (PAD)" in the diagnosis line. Those are not DSM-5-TR or ICD-11 entities.
+- Write "Parental Alienation Syndrome (PAS)" or "Parental Alienation Disorder (PAD)" in the diagnosis line. Those are not [DSM-5-TR](https://www.appi.org/products/dsm) or ICD-11 entities.
 - Cite Richard Gardner's foundational PAS writings without acknowledging the substantive critiques (see `/evidence/pa-as-child-abuse.md` §3 and `/evidence/international-institutional-positions.md` §2).
 - Code V995.51 Confirmed without explicit documentation of the differential-diagnosis ruling-out.
 - Treat the child's resistance to a parent as, by itself, evidence of alienating conduct by the other parent. APSAC's 2022 guardrail expressly forbids this single-construct inference.
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

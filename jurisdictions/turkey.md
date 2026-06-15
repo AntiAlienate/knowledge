@@ -89,7 +89,7 @@ The operative framework is the [Türk Medeni Kanunu (TMK — Turkish Civil Code,
 
 **The PA-construct question.** The [Türk Psikologlar Derneği (Turkish Psychological Association)](https://www.psikolog.org.tr/) has not formally endorsed *Ebeveynsel Yabancılaştırma Sendromu* (PAS) as a diagnostic category. The dominant Turkish forensic-psychology framing is *yabancılaştırma davranışı* (alienating behaviour) treated as a behavioural pattern under the *çocuğun üstün yararı* framework. The [Yargıtay](https://www.yargitay.gov.tr/) has applied behaviour-based analysis without endorsing the syndrome construct.
 
-**Hague Convention 1980 implementation.** Turkey is a Hague 1980 contracting state. The Central Authority operates through the [Ministry of Justice — General Directorate of International Law and Foreign Relations (Adalet Bakanlığı Uluslararası Hukuk ve Dış İlişkiler Genel Müdürlüğü)](https://uhdigm.adalet.gov.tr/). Implementation has been criticised by Hague monitoring reports — return rates are below comparable contracting states.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Turkey is a Hague 1980 contracting state. The Central Authority operates through the [Ministry of Justice — General Directorate of International Law and Foreign Relations (Adalet Bakanlığı Uluslararası Hukuk ve Dış İlişkiler Genel Müdürlüğü)](https://uhdigm.adalet.gov.tr/). Implementation has been criticised by Hague monitoring reports — return rates are below comparable contracting states.
 
 **Get local counsel.** *Avukat* (member of the *Baro* of the relevant province) is recommended for any Aile Mahkemesi matter. The [Türkiye Barolar Birliği (Union of Turkish Bar Associations)](https://www.barobirlik.org.tr/) maintains practitioner directories. *Adli yardım* (legal aid) is income-tested via the local *Baro*.
 
@@ -184,6 +184,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

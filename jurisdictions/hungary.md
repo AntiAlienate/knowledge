@@ -86,7 +86,7 @@ The operative framework is the [Polgári Törvénykönyv (Ptk. — Civil Code, L
 
 **The PA-construct question.** The [Magyar Pszichológiai Társaság](https://www.mpt.hu/) has been methodologically cautious about the *Szülői Elidegenítés Szindróma* (PAS) label. Hungarian family-court practice has applied behaviour-based analysis (*kapcsolatszakadás* — contact rupture) under the *gyermek érdeke* framework. The [Kúria (Supreme Court)](https://kuria-birosag.hu/) has not endorsed PAS as a syndrome amenable to diagnostic testing.
 
-**Hague Convention 1980 + Brussels IIb.** Hungary is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministry of Justice (Igazságügyi Minisztérium)](https://igazsagugyiminiszterium.kormany.hu/). Cross-border EU cases engage Brussels IIb. The [Pesti Központi Kerületi Bíróság](https://birosag.hu/) has exclusive first-instance jurisdiction for Hague return applications.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Hungary is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministry of Justice (Igazságügyi Minisztérium)](https://igazsagugyiminiszterium.kormany.hu/). Cross-border EU cases engage Brussels IIb. The [Pesti Központi Kerületi Bíróság](https://birosag.hu/) has exclusive first-instance jurisdiction for Hague return applications.
 
 **Get local counsel.** *Ügyvéd* (member of the [Magyar Ügyvédi Kamara](https://www.muk.hu/)) is recommended for any contested family-court matter. The Hungarian Bar Association maintains family-law specialist directories. *Jogi segítségnyújtás* (legal aid) is income-tested via the [Igazságügyi Hivatal](https://igazsagugyihivatal.gov.hu/).
 
@@ -172,6 +172,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

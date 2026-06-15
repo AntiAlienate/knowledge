@@ -94,7 +94,7 @@ The operative framework is the [Family Code of the Philippines (Executive Order 
 
 **The PA-construct question.** The [Psychological Association of the Philippines](https://www.pap.ph/) has not endorsed *Parental Alienation Syndrome* as a diagnostic category. Philippine family-court practice applies the *best interests of the child* framework with the *SWO report* as evidence. The Supreme Court has not endorsed PAS as a syndrome.
 
-**Hague Convention 1980 implementation.** The Philippines acceded to the Hague Convention in 2016. The Central Authority operates through the [Office of the Court Administrator, Supreme Court](https://sc.judiciary.gov.ph/). Implementation is recent and developing; expect procedural variability.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** The Philippines acceded to the Hague Convention in 2016. The Central Authority operates through the [Office of the Court Administrator, Supreme Court](https://sc.judiciary.gov.ph/). Implementation is recent and developing; expect procedural variability.
 
 **Get local counsel.** *Attorney* (member of the [Integrated Bar of the Philippines (IBP)](https://www.ibp.ph/)) with Family Court practice. The IBP Family Law Committee maintains specialist directories. *Public Attorney's Office (PAO)* provides means-tested legal representation. The [Philippine Association of Family Law Practitioners](https://www.papflp.com/) is a key practitioner forum.
 

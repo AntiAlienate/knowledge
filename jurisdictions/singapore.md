@@ -146,7 +146,7 @@ The principle is the *welfare of the child as paramount* — codified in GIA s.3
 
 **The PA-construct question.** The [Singapore Psychological Society](https://singaporepsychologicalsociety.org/) has been methodologically cautious about the *Parental Alienation Syndrome* label. FJC practice has consistently applied behaviour-based analysis under the welfare-paramountcy framework. The [Court of Appeal in TAU v TAT (2018) SGCA 50](https://www.elitigation.sg/) and subsequent decisions apply behavioural-pattern analysis without endorsing the syndrome.
 
-**Hague Convention 1980 implementation.** Singapore is a Hague 1980 contracting state via the [International Child Abduction Act (Cap. 143C)](https://sso.agc.gov.sg/Act/ICAA2010). The Central Authority operates through the [Ministry of Social and Family Development](https://www.msf.gov.sg/). Hague return proceedings go to the Family Court.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Singapore is a Hague 1980 contracting state via the [International Child Abduction Act (Cap. 143C)](https://sso.agc.gov.sg/Act/ICAA2010). The Central Authority operates through the [Ministry of Social and Family Development](https://www.msf.gov.sg/). Hague return proceedings go to the Family Court.
 
 **Get local counsel.** *Advocate and solicitor* (member of the [Law Society of Singapore](https://www.lawsociety.org.sg/)) with family-law practice. The [Singapore Academy of Law](https://www.sal.org.sg/) maintains specialist directories. *Legal Aid Bureau* provides means-tested representation; *Pro Bono SG* (formerly Law Society Pro Bono Services) handles unmet-need cases. The [Family Justice Support Network](https://www.familyjusticesupport.sg/) provides community-track support.
 
@@ -259,6 +259,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

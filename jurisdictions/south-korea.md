@@ -88,7 +88,7 @@ The operative framework is the [Civil Act (민법, *Minbeop*)](https://elaw.klri
 
 **The PA-construct question.** The [Korean Psychological Association](https://www.koreanpsychology.or.kr/) has been methodologically cautious about the *Parental Alienation Syndrome* label. Korean family-court practice has applied behavioural-pattern analysis under the welfare-paramountcy framework. The [Supreme Court of Korea (대법원)](https://eng.scourt.go.kr/) has not endorsed PAS as a diagnostic category.
 
-**Hague Convention 1980 implementation.** South Korea acceded to the Hague Convention in 2012 and the implementing [Hague Convention Implementation Act (헤이그 국제아동탈취협약 이행에 관한 법률)](https://elaw.klri.re.kr/) operates through the [Ministry of Justice (법무부)](https://www.moj.go.kr/) Central Authority. Hague return proceedings go to the Seoul Family Court.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** South Korea acceded to the Hague Convention in 2012 and the implementing [Hague Convention Implementation Act (헤이그 국제아동탈취협약 이행에 관한 법률)](https://elaw.klri.re.kr/) operates through the [Ministry of Justice (법무부)](https://www.moj.go.kr/) Central Authority. Hague return proceedings go to the Seoul Family Court.
 
 **Get local counsel.** *변호사* (attorney, member of the [Korean Bar Association](http://www.koreanbar.or.kr/)) is recommended for any Family Court matter. The Korean Bar Association maintains family-law specialist directories. *법률구조* (legal aid) is means-tested via the [Korea Legal Aid Corporation (대한법률구조공단)](https://www.klac.or.kr/). The [Korean Society of Family Law](https://www.family.or.kr/) is the principal academic and practitioner forum.
 

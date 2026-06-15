@@ -86,7 +86,7 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 
 ## Editorial notes
 
-- Hague Conference / Hague Convention 1980 Framework jurisdiction sidecar — supranational meta-legal-system multi-state private-international-law framework (Hague Convention 1980 on International Child Abduction + [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) on Child Protection + Hague Convention 2007 on Child Support + Hague Convention 1965 on Service Abroad + Hague Conference Statute 1955 + Hague Permanent Bureau + Central Authority Network + INCADAT International Child Abduction Database + Article 11 6-week guideline + Article 13 grave-risk + child-objection exceptions). Only modern multi-state framework specifically for international-child-abduction globally + Hague Convention 1980 91+ contracting parties largest multi-state private-international-law convention + first multi-state expedited-return framework + only multi-state framework with both grave-risk and child-objection structured exceptions + only modern major multi-state convention framework without centralised apex court.
+- Hague Conference / [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Framework jurisdiction sidecar — supranational meta-legal-system multi-state private-international-law framework (Hague Convention 1980 on International Child Abduction + [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) on Child Protection + Hague Convention 2007 on Child Support + Hague Convention 1965 on Service Abroad + Hague Conference Statute 1955 + Hague Permanent Bureau + Central Authority Network + INCADAT International Child Abduction Database + Article 11 6-week guideline + Article 13 grave-risk + child-objection exceptions). Only modern multi-state framework specifically for international-child-abduction globally + Hague Convention 1980 91+ contracting parties largest multi-state private-international-law convention + first multi-state expedited-return framework + only multi-state framework with both grave-risk and child-objection structured exceptions + only modern major multi-state convention framework without centralised apex court.
 - PA-recognition: silent statutory + no-apex-position + silent regulator.
 - Joins supranational + multi-state-private-international-law + [HCCH](https://www.hcch.net/)-framework cluster + Hague-Convention-1980-international-child-abduction-globally-distinctive + Hague-Convention-1996-child-protection + Hague-Convention-2007-child-support + Central-Authority-Network + INCADAT-jurisprudence-database + Article-11-6-week-return-guideline + Article-13-grave-risk-child-objection-exceptions + no-centralised-Hague-apex-court + Hague-trilogy-integrated-family-law-framework clusters within the corpus.
 
@@ -94,6 +94,8 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

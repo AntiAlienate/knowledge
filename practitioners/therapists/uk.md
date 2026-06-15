@@ -83,7 +83,7 @@ Teesside · England · Principal Psychologist and founder, Family Psychology Sol
 
 **Contact:** https://fpscic.org/ contact form
 
-*Notes: [HCPC](https://www.hcpc-uk.org/) PYL registration verified (Counselling Psychologist protected title); [BPS](https://www.bps.org.uk/) Chartered Member and Associate Fellow (CPsychol, AFBPsS) verified via [BPS](https://www.bps.org.uk/) public listing; BPS Expert Witness Advisory Group membership verified. Meets Re Y regulatory bar squarely.*
+*Notes: [HCPC](https://www.hcpc-uk.org/) PYL registration verified (Counselling Psychologist protected title); [BPS](https://www.bps.org.uk/) Chartered Member and Associate Fellow (CPsychol, AFBPsS) verified via [BPS](https://www.bps.org.uk/) public listing; [BPS](https://www.bps.org.uk/) Expert Witness Advisory Group membership verified. Meets Re Y regulatory bar squarely.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.woodall-karen`
 
@@ -304,7 +304,7 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
   - Primary source: <https://www.safehandsthinkingminds.co.uk/>
 - **Dr Anne Lazenbatt** — Strong DV/child-maltreatment record at Queen's University Belfast but no PA-specific publication or court testimony verifiable. Excluded for absence of PA-specific footprint; Northern Ireland scope outside England & Wales directory.
   - Primary source: <https://pure.qub.ac.uk/en/persons/anne-lazenbatt>
-- **Professor Jane L. Ireland** — HCPC-registered Forensic Psychologist with substantial Family Court expert-witness work; PA-specific stance not publicly confirmed; her 2012 FJC-commissioned report is methodological not PA-specific. Excluded for absence of explicit PA-specific public position.
+- **Professor Jane L. Ireland** — [HCPC](https://www.hcpc-uk.org/)-registered Forensic Psychologist with substantial Family Court expert-witness work; PA-specific stance not publicly confirmed; her 2012 FJC-commissioned report is methodological not PA-specific. Excluded for absence of explicit PA-specific public position.
   - Primary source: <https://www.uclan.ac.uk/academics/professor-jane-ireland>
 - **Sue Atkins** — UK parenting coach; not a regulated clinician; no PA-specific public position verifiable. Category fit: belongs in parenting-influencers list rather than therapists directory.
   - Primary source: <https://sueatkinsparentingcoach.com/>
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

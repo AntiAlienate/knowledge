@@ -363,7 +363,7 @@ Across the studies in §§1–7, the recurring limitations are:
 
 - **Adults who self-identify as childhood PA-exposed report elevated rates of depressive and anxiety symptoms on validated instruments.** Convergent quantitative evidence: Verrocchio Marchetti & Fulcheri (2015) Italian n = 470 — sig. correlation r = 0.239 with SCL-90-R GSI; Verrocchio [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Bernet (2016) Italian n = 509 — sig. mediation pathway to depression and trait/state anxiety; Bernet [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) Italian n = 739 — "strong and statistically significant" SCL-90-R associations. Convergent qualitative evidence: [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) n = 40; Bentley & Matthewson (2020) n = 10; Verhaar et al. (2022) n = 20.
 - **Exposure to alienating behaviours is statistically separable from generic poor parenting / parental-bonding effects.** Verrocchio Marchetti & Fulcheri (2015) hierarchical regression; [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Verrocchio (2015) — PA was associated with psychological maltreatment over and above the effects of parental bonding in both intact and non-intact families.
-- **Cumulative exposure across developmental stages compounds psychological-maltreatment outcomes** (dose-response-like pattern). Verrocchio Baker & Marchetti (2018) Italian n = 361.
+- **Cumulative exposure across developmental stages compounds psychological-maltreatment outcomes** (dose-response-like pattern). Verrocchio [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) & Marchetti (2018) Italian n = 361.
 
 ### 9.2 Moderate confidence
 
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

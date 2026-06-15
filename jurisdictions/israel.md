@@ -91,7 +91,7 @@ Israel operates a **religion-pluralist personal-law architecture** unique among 
 
 **The PA-construct question.** The [Israeli Psychological Association](https://www.psychology.org.il/) has been methodologically cautious. Israeli civil-court practice (Family Court and Supreme Court Family Appeals Division) has applied behaviour-based analysis under the *טובת הילד* framework. The 2022 [Schnit Committee Report](https://www.gov.il/) on family-law reform reinforced this approach.
 
-**Hague Convention 1980 implementation.** Israel is a Hague 1980 contracting state via the [Hague Convention Return of Abducted Children Law 5751-1991](https://www.nevo.co.il/). The Central Authority operates through the [Ministry of Justice — State Attorney's Office](https://www.gov.il/). Hague return proceedings go to the Family Court — known for expeditious handling.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Israel is a Hague 1980 contracting state via the [Hague Convention Return of Abducted Children Law 5751-1991](https://www.nevo.co.il/). The Central Authority operates through the [Ministry of Justice — State Attorney's Office](https://www.gov.il/). Hague return proceedings go to the Family Court — known for expeditious handling.
 
 **Get local counsel.** *Orech Din* (advocate, member of the [Israel Bar Association](https://www.israelbar.org.il/)) with family-law practice. The IBA Family Law Committee maintains specialist directories. *Sayuah Mishpati* (legal aid) is means-tested via the Ministry of Justice. Religious-court matters require an advocate with that court's specific qualifications (e.g., *Toena rabbanit* for the Rabbinical Court).
 
@@ -195,6 +195,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

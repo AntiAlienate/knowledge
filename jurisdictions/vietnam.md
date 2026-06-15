@@ -84,7 +84,7 @@ The operative framework is the [Luật Hôn nhân và Gia đình (Marriage and F
 
 **The PA-construct question.** The Vietnamese Psychology Association has not endorsed *Parental Alienation Syndrome* as a diagnostic category. Vietnamese family-court practice applies the *quyền và lợi ích hợp pháp của con* framework — child welfare is assessed through *Báo cáo của cán bộ tư pháp* (Court Officer's Report) rather than expert psychological reports in most cases.
 
-**Hague Convention 1980.** **Vietnam is not a Hague 1980 contracting state.** Cross-border parental abduction with Vietnam as origin or destination is litigated through Vietnamese courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases. Vietnam has acceded to some bilateral agreements on civil and criminal cooperation.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24).** **Vietnam is not a Hague 1980 contracting state.** Cross-border parental abduction with Vietnam as origin or destination is litigated through Vietnamese courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases. Vietnam has acceded to some bilateral agreements on civil and criminal cooperation.
 
 **Get local counsel.** *Luật sư* (member of the [Vietnam Bar Federation (Liên đoàn Luật sư Việt Nam)](https://liendoanluatsu.org.vn/)) is required for court proceedings. The VBF maintains practitioner directories. *Trợ giúp pháp lý* (legal aid) is means-tested via the [National Legal Aid Agency](https://tgpl.moj.gov.vn/) under the Ministry of Justice.
 
@@ -170,6 +170,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 
