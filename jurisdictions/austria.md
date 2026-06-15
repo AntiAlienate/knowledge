@@ -90,7 +90,7 @@ The operative framework is the [Allgemeines Bürgerliches Gesetzbuch (ABGB)](htt
 
 **The PA-construct question.** Austrian practice has historically been more receptive to the *Parental Alienation Syndrome* framing than Germany or Italy, but the [Berufsverband Österreichischer PsychologInnen (BÖP)](https://www.boep.or.at/) has not adopted PAS as a diagnostic category, and the [Oberster Gerichtshof (OGH)](https://www.ogh.gv.at/) has consistently applied the *Kindeswohl* analysis without endorsing the syndrome construct. Argue the behaviours under the §§ 138/159 framework rather than reaching for syndrome terminology.
 
-**Hague Convention 1980 + Brussels IIb.** Austria is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Bundesministerium für Justiz](https://www.justiz.gv.at/). Cross-border EU cases engage Brussels IIb.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Austria is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Bundesministerium für Justiz](https://www.justiz.gv.at/). Cross-border EU cases engage Brussels IIb.
 
 **Get local counsel.** *Rechtsanwalt* (member of *Rechtsanwaltskammer*) is recommended for any contested *Obsorge* or *Kontaktrecht* matter. The [Österreichischer Rechtsanwaltskammertag (ÖRAK)](https://www.rechtsanwaelte.at/) maintains family-law specialist directories. *Verfahrenshilfe* (legal aid) is means-tested. The [Familiengerichtshilfe](https://www.justiz.gv.at/) provides free welfare-investigation services as part of court procedure.
 
@@ -194,6 +194,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

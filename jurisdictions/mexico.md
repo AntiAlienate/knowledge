@@ -267,7 +267,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "Acción de Inconstitucionalidad 11/2016 (Oaxaca)",
       "datePublished": "2017",
-      "courtName": "Suprema Corte de Justicia de la Nación (SCJN) — Tribunal Pleno",
+      "courtName": "[Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/) (SCJN) — Tribunal Pleno",
       "url": "https://knowledge.antialienate.com/case-studies/scjn-ai-11-2016-oaxaca-mexico/"
     },
     {

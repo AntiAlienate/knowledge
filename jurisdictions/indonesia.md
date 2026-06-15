@@ -100,7 +100,7 @@ The presumption shifts at age 12 ([KHI art. 105](https://www.hukumonline.com/)) 
 
 **The PA-construct question.** Indonesian family-court practice has been methodologically cautious about *Parental Alienation Syndrome* labels. The [Himpunan Psikologi Indonesia (HIMPSI)](https://himpsi.or.id/) has not adopted PAS as a diagnostic category. The dominant Indonesian forensic-psychology framing is *perilaku alienasi orangtua* (parental-alienation behaviour) treated as a pattern of conduct under the UU 35/2014 child-welfare framework.
 
-**Hague Convention 1980.** **Indonesia is not a Hague 1980 contracting state.** Cross-border parental abduction with Indonesia as origin or destination is litigated through Indonesian Pengadilan Negeri / Agama or via diplomatic channels rather than Hague return proceedings.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24).** **Indonesia is not a Hague 1980 contracting state.** Cross-border parental abduction with Indonesia as origin or destination is litigated through Indonesian Pengadilan Negeri / Agama or via diplomatic channels rather than Hague return proceedings.
 
 **Get local counsel.** *Advokat* (member of [PERADI](https://www.peradi.or.id/) — Perhimpunan Advokat Indonesia) is mandatory in court proceedings. Specialisation via [APSI](https://apsi.or.id/) (Asosiasi Pengacara Syariah Indonesia) for Pengadilan Agama matters. *Bantuan hukum* (legal aid) is means-tested via UU 16/2011 on Legal Aid. *Lembaga Bantuan Hukum (LBH)* network provides pro-bono representation in human-rights-related family matters.
 
@@ -195,6 +195,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

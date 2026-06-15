@@ -484,7 +484,7 @@ New Delhi · Delhi · Independent practice (New Delhi); Bar Council of Delhi
 
 ### Karuna Nundy, Senior Advocate
 *Senior Advocate [Supreme Court of India](https://main.sci.gov.in/) (designated 2024); TIME 100 (2022-23)*
-New Delhi · Delhi ([Supreme Court of India](https://main.sci.gov.in/)) · Independent Senior Counsel, Supreme Court of India
+New Delhi · Delhi ([Supreme Court of India](https://main.sci.gov.in/)) · Independent Senior Counsel, [Supreme Court of India](https://main.sci.gov.in/)
 
 **Stance:** Most recent Indian senior-counsel designation (2024) in the women's-rights critique-adjacent camp. RIT Foundation v Union of India (marital rape, Delhi HC + pending SC) anchors the contemporary women's-rights apex-court register. Justice Verma Committee submissions and Right to Food Act drafting contributions reinforce the register. PA-specific public stance not located in primary sources; classified critique on the strength of her women's-rights and DV-protection register. Generationally the natural next-decade voice on the PA-recognition vs DV-protection intersection. Country_code: IN.
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

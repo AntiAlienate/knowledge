@@ -434,7 +434,7 @@ Newton · MA · Director, Center of Excellence for Children, Families and the La
 
 ### Matthew J. Sullivan, PhD
 *PhD; CA Licensed Psychologist*
-Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto, CA); co-founder OBFC; past President AFCC International (2019-20)
+Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto, CA); co-founder OBFC; past President [AFCC](https://www.afccnet.org/) International (2019-20)
 
 **Stance:** OBFC family camp co-founder; [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) common-ground synthesis in FCR is the most-recent middle-camp bridging document. 2012 AFCC California Joseph Drown Award; 2019-20 AFCC International President. Institutional middle-camp voice.
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

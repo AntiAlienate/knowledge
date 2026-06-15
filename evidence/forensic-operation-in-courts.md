@@ -288,7 +288,7 @@ The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)â€
 
 ### 8.1 High confidence
 
-- **In U.S. family courts, when a mother alleges abuse by the father and he cross-claims PA, courts credit the abuse claim much less often and she loses custody much more often.** Meier 2020 (n=4,338 coded cases, full-census, peer-reviewed, NIJ-funded); Silberg-Dallam 2019 case-mechanism series; Alsalem 2023.
+- **In U.S. family courts, when a mother alleges abuse by the father and he cross-claims PA, courts credit the abuse claim much less often and she loses custody much more often.** [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (n=4,338 coded cases, full-census, peer-reviewed, NIJ-funded); Silberg-Dallam 2019 case-mechanism series; Alsalem 2023.
 - **PA is not a clinical diagnosis.** Rejected by APA [DSM-5](https://www.appi.org/products/dsm) process; removed from WHO [ICD-11](https://icd.who.int/) foundation layer Feb 2020. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 explicit; cross-ref `evidence-pa-as-child-abuse.md` Â§2.
 - **The international human-rights system has formally identified PA use in custody decisions as a documented problem.** UN [OHCHR](https://www.ohchr.org/)/CEDAW/[Council of Europe](https://www.coe.int/) GREVIO concurring positions.
 
@@ -327,6 +327,8 @@ The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)â€
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

@@ -228,7 +228,7 @@ In Germany parental alienation is neither prohibited nor named in statute. The a
 
 ### What law covers withholding a child from a parent in Germany?
 
-The primary statutory basis in Germany is BGB § 1684 — Umgang des Kindes mit den Eltern (Right of contact between child and parents). Authoritative text: <https://www.gesetze-im-internet.de/bgb/__1684.html>.
+The primary statutory basis in Germany is [BGB](https://www.gesetze-im-internet.de/bgb/) § 1684 — Umgang des Kindes mit den Eltern (Right of contact between child and parents). Authoritative text: <https://www.gesetze-im-internet.de/bgb/__1684.html>.
 
 ### What is the leading court decision on parental alienation in Germany?
 

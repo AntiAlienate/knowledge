@@ -82,7 +82,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 The authors describe reactions as including "the onset or exacerbation of psychological symptoms, somatic complaints, an internal loyalty conflict, and, in the extreme, parental alienation, leading to loss of a parent-child relationship." **[secondary verification only]** — abstract text per [PubMed](https://pubmed.ncbi.nlm.nih.gov/) PMID 27343884 and the published abstract reproduced at https://pure.johnshopkins.edu/en/publications/child-affected-by-parental-relationship-distress/.
 
-**Why this is the most important single sentence in the diagnostic-coding debate.** Bernet, Wamboldt & Narrow are the principal architects of the DSM-5 / [DSM-5-TR](https://www.appi.org/products/dsm)-era reformulation of how to code PA-pattern presentations. By placing "parental alienation" inside the published CAPRD article as the extreme tail of the fourth CAPRD scenario, they secured a peer-reviewed JAACAP citation that family-court evaluators can use to argue **CAPRD (V61.29 / Z62.898) covers PA-pattern conduct without requiring DSM to recognise "PAS" or "PAD" as a discrete diagnosis.** This is the move that allows balanced clinical practice today.
+**Why this is the most important single sentence in the diagnostic-coding debate.** Bernet, Wamboldt & Narrow are the principal architects of the [DSM-5](https://www.appi.org/products/dsm) / [DSM-5-TR](https://www.appi.org/products/dsm)-era reformulation of how to code PA-pattern presentations. By placing "parental alienation" inside the published CAPRD article as the extreme tail of the fourth CAPRD scenario, they secured a peer-reviewed JAACAP citation that family-court evaluators can use to argue **CAPRD (V61.29 / Z62.898) covers PA-pattern conduct without requiring DSM to recognise "PAS" or "PAD" as a discrete diagnosis.** This is the move that allows balanced clinical practice today.
 
 ---
 
@@ -241,7 +241,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 **Australia / New Zealand.** Mixed practice; the Family Court of Australia accepts evidence framed in [DSM-5-TR](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/) terms, with reluctance to accept "PAS" as a discrete diagnosis. Court-appointed Family Consultants frame reports using "child's resistance to spending time with a parent" language and document specific parental conduct without invoking syndrome labels — consistent with the [Cafcass](https://www.cafcass.gov.uk/) model.
 
-**EU.** ICD-10/ICD-11 dominant. Multiple Member State court bodies have explicitly criticised "PAS" as a diagnostic label (Italian Supreme Court [Cassazione](https://www.cortedicassazione.it/) No. 9691/2022; Spanish 2021 LO 8/2021 / Ley Rhodes prohibition on the use of "PAS" or unfounded approaches to PA in custody decisions involving abuse allegations; see cross-reference). Clinical coding under QE52.0 is widespread in EU child-mental-health practice.
+**EU.** ICD-10/[ICD-11](https://icd.who.int/) dominant. Multiple Member State court bodies have explicitly criticised "PAS" as a diagnostic label (Italian Supreme Court [Cassazione](https://www.cortedicassazione.it/) No. 9691/2022; Spanish 2021 LO 8/2021 / Ley Rhodes prohibition on the use of "PAS" or unfounded approaches to PA in custody decisions involving abuse allegations; see cross-reference). Clinical coding under QE52.0 is widespread in EU child-mental-health practice.
 
 **Canada.** [DSM-5-TR](https://www.appi.org/products/dsm) dominant in clinical practice; ICD-10-CA for billing. Provincial child-welfare statutes recognise "emotional harm" as a child-protection ground (e.g., Ontario *Child, Youth and Family Services Act, 2017* s. 74(2)(f)), which provides a statutory hook that does not depend on DSM/ICD coding at all.
 
@@ -364,7 +364,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 7.2 What you CAN defensibly testify to without invoking "PAS"
 
-- The DSM-5 / DSM-5-TR codes themselves (V61.20, V61.29, V995.51).
+- The DSM-5 / [DSM-5-TR](https://www.appi.org/products/dsm) codes themselves (V61.20, V61.29, V995.51).
 - The DSM-5 textual examples ("berating, disparaging, or humiliating the child"; "scapegoating of the child"; "unwarranted feelings of estrangement").
 - The Bernet/Wamboldt/Narrow 2016 *JAACAP* article placing PA inside CAPRD.
 - The APSAC 2022 differential-diagnosis framework.
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

@@ -87,7 +87,7 @@ The operative framework is the [Laki lapsen huollosta ja tapaamisoikeudesta (Chi
 
 **The PA-construct question.** The [Suomen Psykologiliitto](https://www.psyli.fi/) and the [Korkein oikeus](https://korkeinoikeus.fi/) (Supreme Court) have not endorsed *vanhempivieraannuttaminen-oireyhtymä* (PAS) as a diagnostic category. Finnish practice applies *vieraannuttaminen* as a behavioural pattern under LapsK §§ 2/10, not as a syndrome diagnosis.
 
-**Hague Convention 1980 + Brussels IIb.** Finland is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Oikeusministeriö](https://oikeusministerio.fi/). Cross-border EU cases engage Brussels IIb.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Finland is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Oikeusministeriö](https://oikeusministerio.fi/). Cross-border EU cases engage Brussels IIb.
 
 **Get local counsel.** *Asianajaja* (advocate, member of *Suomen Asianajajaliitto*) is recommended for any contested *huolto*/*tapaamisoikeus* matter. The [Finnish Bar Association](https://asianajajaliitto.fi/) maintains family-law specialist directories. *Oikeusapu* (legal aid) is income-tested. *Oikeusturvavakuutus* (legal-expense insurance) is widely included in home insurance and covers most costs.
 
@@ -173,6 +173,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

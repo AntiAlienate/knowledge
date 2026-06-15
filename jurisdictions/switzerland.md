@@ -107,7 +107,7 @@ Most contact disputes outside divorce go to the KESB. *Anhörung des Kindes* (he
 
 **Linguistic communities.** Switzerland operates four official languages. Procedure runs in the cantonal language. German-speaking cantons follow Germanic family-law doctrine; Romandie (Geneva, Vaud, Neuchâtel, Jura, Fribourg, Valais) follows Latin civil-law tradition.
 
-**Hague Convention 1980.** Switzerland is a Hague 1980 contracting state. The Central Authority operates through the [Bundesamt für Justiz (BJ)](https://www.bj.admin.ch/).
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24).** Switzerland is a Hague 1980 contracting state. The Central Authority operates through the [Bundesamt für Justiz (BJ)](https://www.bj.admin.ch/).
 
 **Get local counsel.** *Rechtsanwalt / Anwältin* (member of cantonal bar — *Anwaltskammer*) is recommended for any contested matter. The [Schweizerischer Anwaltsverband (SAV)](https://www.sav-fsa.ch/) maintains family-law specialist directories. *Unentgeltliche Rechtspflege* (legal aid) is means-tested via the cantonal court.
 
@@ -220,6 +220,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

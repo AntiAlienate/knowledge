@@ -292,7 +292,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "P., B. E. G. c/ B., K. E. s/ medidas precautorias (7.10.2021)",
       "datePublished": "2021",
-      "courtName": "Corte Suprema de Justicia de la Nación (CSJN)",
+      "courtName": "[Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/) (CSJN)",
       "url": "https://knowledge.antialienate.com/case-studies/csjn-p-b-e-g-c-b-k-e-2021-argentina/"
     },
     {

@@ -143,7 +143,7 @@ The operative framework is the [Care of Children Act 2004 (CoCA)](https://www.le
 
 **The PA-construct question.** The [New Zealand Psychological Society](https://www.psychology.org.nz/) has been methodologically cautious about the *Parental Alienation Syndrome* label. The dominant NZ forensic-psychology framing is *contact-resistance* and *contact-refusal* treated as behavioural patterns under the CoCA s.5 welfare-principles framework. The [Court of Appeal in R v G (2008) NZFLR 235](https://www.bailii.org/) and subsequent decisions have applied behaviour-based analysis without endorsing the syndrome construct.
 
-**Hague Convention 1980 implementation.** New Zealand is a Hague 1980 contracting state. The Central Authority operates through the [Ministry of Justice](https://www.justice.govt.nz/family/looking-after-children/care-of-children/international-child-abduction/). NZ Hague-Convention practice is well-developed and the courts move quickly on return applications.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** New Zealand is a Hague 1980 contracting state. The Central Authority operates through the [Ministry of Justice](https://www.justice.govt.nz/family/looking-after-children/care-of-children/international-child-abduction/). NZ Hague-Convention practice is well-developed and the courts move quickly on return applications.
 
 **Get local counsel.** *Lawyer* (admitted to the bar by the New Zealand Law Society) with Family Court practice. The [New Zealand Law Society](https://www.lawsociety.org.nz/) maintains family-law specialist directories. *Legal aid* is means-tested via [Legal Services Agency](https://www.justice.govt.nz/courts/going-to-court/legal-aid/). The [Family Law Section](https://www.lawsociety.org.nz/practice-areas/family-law) is the principal practitioner forum.
 
@@ -256,6 +256,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

@@ -101,7 +101,7 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 ## Sources
 
 1. **[Cour de cassation](https://www.courdecassation.fr/), civ. 1, 26 juin 2013, n° 12-14.392 — texte intégral (Publié au bulletin)** — <https://www.legifrance.gouv.fr/juri/id/JURITEXT000027631592/> (Légifrance — Direction de l'information légale et administrative (Premier ministre)) [fr] — accessed 2026-05-30
-2. **[Cour de cassation](https://www.courdecassation.fr/) — portail Judilibre (recherche n° de pourvoi 12-14.392)** — <https://www.courdecassation.fr/acces-rapide-judilibre> (Cour de cassation) [fr] — accessed 2026-05-30
+2. **[Cour de cassation](https://www.courdecassation.fr/) — portail Judilibre (recherche n° de pourvoi 12-14.392)** — <https://www.courdecassation.fr/acces-rapide-judilibre> ([Cour de cassation](https://www.courdecassation.fr/)) [fr] — accessed 2026-05-30
 3. **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — Article 373-2-11 (critères du juge aux affaires familiales statuant sur les modalités d'exercice de l'autorité parentale)** — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426686/> (Légifrance) [fr] — accessed 2026-05-30
 4. **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — Article 373-2-12 (enquête sociale en matière d'autorité parentale)** — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426687/> (Légifrance) [fr] — accessed 2026-05-30
 5. **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — Article 373-2-13 (modification des décisions relatives à l'exercice de l'autorité parentale à tout moment)** — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/> (Légifrance) [fr] — accessed 2026-05-30
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

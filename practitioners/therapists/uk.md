@@ -83,7 +83,7 @@ Teesside · England · Principal Psychologist and founder, Family Psychology Sol
 
 **Contact:** https://fpscic.org/ contact form
 
-*Notes: [HCPC](https://www.hcpc-uk.org/) PYL registration verified (Counselling Psychologist protected title); [BPS](https://www.bps.org.uk/) Chartered Member and Associate Fellow (CPsychol, AFBPsS) verified via BPS public listing; BPS Expert Witness Advisory Group membership verified. Meets Re Y regulatory bar squarely.*
+*Notes: [HCPC](https://www.hcpc-uk.org/) PYL registration verified (Counselling Psychologist protected title); [BPS](https://www.bps.org.uk/) Chartered Member and Associate Fellow (CPsychol, AFBPsS) verified via [BPS](https://www.bps.org.uk/) public listing; BPS Expert Witness Advisory Group membership verified. Meets Re Y regulatory bar squarely.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.woodall-karen`
 
@@ -300,7 +300,7 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
   - Primary source: <https://www.thebureauinvestigates.com/stories/2026-02-27/dont-use-unregulated-psychologists-top-judge-rules>
 - **Dr Emma Katz** — Category fit: pure academic researcher (Edge Hill University — NOT Birmingham City University as in earlier source brief); no clinical or therapeutic practice. Belongs in /influencers/ rather than /therapists/ directory. Stance if added would be critique.
   - Primary source: <https://www.edgehill.ac.uk/departments/academic/social-sciences/staff/dr-emma-katz/>
-- **Dr Karen Treisman MBE** — HCPC-registered Clinical Psychologist (Safe Hands Thinking Minds) but no public PA-specific position or PA-case practice verifiable at directory standard. Excluded for absence of PA-specific footprint, not for regulatory reason.
+- **Dr Karen Treisman MBE** — [HCPC](https://www.hcpc-uk.org/)-registered Clinical Psychologist (Safe Hands Thinking Minds) but no public PA-specific position or PA-case practice verifiable at directory standard. Excluded for absence of PA-specific footprint, not for regulatory reason.
   - Primary source: <https://www.safehandsthinkingminds.co.uk/>
 - **Dr Anne Lazenbatt** — Strong DV/child-maltreatment record at Queen's University Belfast but no PA-specific publication or court testimony verifiable. Excluded for absence of PA-specific footprint; Northern Ireland scope outside England & Wales directory.
   - Primary source: <https://pure.qub.ac.uk/en/persons/anne-lazenbatt>
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

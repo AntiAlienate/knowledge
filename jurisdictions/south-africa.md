@@ -139,7 +139,7 @@ The operative framework is the [Children's Act 38 of 2005](https://www.justice.g
 
 **Constitutional dimensions.** The Constitutional Court in *De Reuck v Director of Public Prosecutions, WLD* 2004 (1) SA 406 (CC) elevated the s.28(2) paramountcy principle. Subsequent jurisprudence including *S v M* 2008 (3) SA 232 (CC) (Sachs J) applies this in custody contexts.
 
-**Hague Convention 1980.** South Africa is a Hague 1980 contracting state. The Central Authority operates through the [Office of the Chief Family Advocate](https://www.justice.gov.za/familyadv/famadvoc.htm).
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24).** South Africa is a Hague 1980 contracting state. The Central Authority operates through the [Office of the Chief Family Advocate](https://www.justice.gov.za/familyadv/famadvoc.htm).
 
 **Get local counsel.** *Attorney* and *advocate* are the divided-profession structure. The [Law Society of South Africa](https://www.lssa.org.za/) and the [General Council of the Bar](https://www.sabar.co.za/) maintain practitioner directories. The [Family Law Forum](https://www.familylawforum.org.za/) and individual provincial law society family-law committees provide accreditation. *Legal aid* is means-tested via [Legal Aid South Africa](https://www.legal-aid.co.za/).
 
@@ -252,6 +252,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

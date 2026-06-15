@@ -134,13 +134,13 @@ The operative framework is the [Guardianship of Minors Ordinance (Cap. 13)](http
 
 **Mandatory mediation.** Under Practice Direction 15.10, the court refers most contested children's matters to mediation before contested adjudication. *Children's Cases Programme* (CCP) requires a *Children's Dispute Resolution* hearing in disputed-parenting cases. The court also appoints a *Social Welfare Officer* under the Social Welfare Department to investigate and report on welfare matters — equivalent to a CAFCASS report.
 
-**The Hong Kong reform context.** The Law Reform Commission of Hong Kong's [Report on Child Custody and Access (2005)](https://www.hkreform.gov.hk/) recommended a shift from *custody/access* to *joint parental responsibility* terminology, mirroring the English Children Act 1989 framework. Implementation has been partial — the recommended Children Proceedings Ordinance has not been enacted, and HK family courts continue to use *custody* and *access* terminology while applying welfare-paramountcy substantively.
+**The Hong Kong reform context.** The Law Reform Commission of Hong Kong's [Report on Child Custody and Access (2005)](https://www.hkreform.gov.hk/) recommended a shift from *custody/access* to *joint parental responsibility* terminology, mirroring the English [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) framework. Implementation has been partial — the recommended Children Proceedings Ordinance has not been enacted, and HK family courts continue to use *custody* and *access* terminology while applying welfare-paramountcy substantively.
 
 **Contact enforcement.** Court-ordered *access* can be enforced via *committal* for contempt of court, transfer of *custody*, or — in extremis — *care or supervision order* under GMO s.13. The High Court's *parens patriae* jurisdiction remains available for serious welfare interventions. Criminal exposure under [Offences against the Person Ordinance (Cap. 212) s.42](https://www.elegislation.gov.hk/hk/cap212) (*abduction of a child under 14*) is available where the obstruction reaches abduction threshold.
 
 **The PA-construct question.** The [Hong Kong Psychological Society](https://www.hkps.org.hk/) has been methodologically cautious. HK family-court practice has applied the underlying conduct under the welfare-paramountcy framework — Re S (A Minor: Child Abduction) [1996] 2 HKLR 9 (CA) and subsequent decisions consistently apply behaviour-based analysis without endorsing *Parental Alienation Syndrome* as a syndrome.
 
-**Hague Convention 1980 application.** Hong Kong was extended to the Hague 1980 Convention by the United Kingdom in 1997, and the [Child Abduction and Custody Ordinance (Cap. 512)](https://www.elegislation.gov.hk/hk/cap512) implements it. **Critical jurisdictional issue post-1997:** the Convention applies between Hong Kong and other contracting parties, but **Hague Convention return proceedings between Hong Kong and Mainland China are governed by the [2017 Arrangement on Reciprocal Recognition](https://www.doj.gov.hk/) rather than the Convention itself.**
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) application.** Hong Kong was extended to the Hague 1980 Convention by the United Kingdom in 1997, and the [Child Abduction and Custody Ordinance (Cap. 512)](https://www.elegislation.gov.hk/hk/cap512) implements it. **Critical jurisdictional issue post-1997:** the Convention applies between Hong Kong and other contracting parties, but **Hague Convention return proceedings between Hong Kong and Mainland China are governed by the [2017 Arrangement on Reciprocal Recognition](https://www.doj.gov.hk/) rather than the Convention itself.**
 
 **Get local counsel.** *Solicitor* and *Barrister* are the divided profession (English-derived). The [Law Society of Hong Kong](https://www.hklawsoc.org.hk/) and the [Hong Kong Bar Association](https://www.hkba.org/) maintain family-law specialist directories. *Legal Aid* is means-tested via the [Legal Aid Department](https://www.lad.gov.hk/). The [Hong Kong Family Law Association](https://www.hkfla.org/) is the principal practitioner forum.
 
@@ -302,6 +302,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 **Referenced in this page:**
 
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 - [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
 
 **Topic baseline (independently verifiable):**

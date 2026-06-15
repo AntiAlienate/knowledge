@@ -88,7 +88,7 @@ The operative framework is the [Astikos Kodikas (Αστικός Κώδικας, 
 
 **The PA-construct question.** The [Hellenic Psychological Society](https://www.elpse.com/) and the [Hellenic Association of Forensic Psychiatry](https://www.hellenicforensic.gr/) have not endorsed *Σύνδρομο Γονικής Αποξένωσης* (PAS) as a diagnostic category. Greek family-court practice applies the *κακή άσκηση γονικής μέριμνας* framework under AK arts. 1518/1532 — argue the behaviours under those articles, not the syndrome.
 
-**Hague Convention 1980 + Brussels IIb.** Greece is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Υπουργείο Δικαιοσύνης](https://www.ministryofjustice.gr/). Cross-border EU cases engage Brussels IIb.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Greece is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Υπουργείο Δικαιοσύνης](https://www.ministryofjustice.gr/). Cross-border EU cases engage Brussels IIb.
 
 **Get local counsel.** *Δικηγόρος* (advocate, member of *Δικηγορικός Σύλλογος*) is mandatory for proceedings before the Monomeles Protodikeio. The [Plenary of Greek Bar Associations](https://www.olomeleia.gr/) and the [Athens Bar Association](https://www.dsa.gr/) maintain family-law specialist directories. *Νομική βοήθεια* (legal aid) is income-tested via Law 3226/2004.
 
@@ -183,6 +183,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

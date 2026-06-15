@@ -95,7 +95,7 @@ The principle is the *welfare of the child as paramount* — codified in GIA 196
 
 **The PA-construct question.** The [Malaysian Psychiatric Association](https://psychiatry-malaysia.org/) and the Malaysian Society of Clinical Psychology have not adopted *Parental Alienation Syndrome* as a diagnostic category. Malaysian family-court practice (civil) has applied behaviour-based analysis under the welfare-paramountcy framework without endorsing the syndrome construct.
 
-**Hague Convention 1980.** **Malaysia is not a Hague 1980 contracting state.** Cross-border parental abduction with Malaysia as origin or destination is litigated through Malaysian courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24).** **Malaysia is not a Hague 1980 contracting state.** Cross-border parental abduction with Malaysia as origin or destination is litigated through Malaysian courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases.
 
 **Get local counsel.** *Advocate and solicitor* (member of the [Malaysian Bar](https://www.malaysianbar.org.my/)) for civil court matters; *Peguam Syarie* for Mahkamah Syariah matters. The Malaysian Bar Family Law Committee maintains practitioner directories. *Legal aid* is means-tested via the [Legal Aid Department (Jabatan Bantuan Guaman)](https://www.jbg.gov.my/) and the [Bar Council Legal Aid Centre (BCLAC)](https://www.malaysianbar.org.my/).
 
@@ -190,6 +190,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

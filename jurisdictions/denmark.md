@@ -92,7 +92,7 @@ This two-stage structure typically requires 3–6 months in non-emergency cases.
 
 **The PA-construct question.** The [Dansk Psykolog Forening](https://www.dp.dk/) has been methodologically cautious about the *Parental Alienation Syndrome* label. Danish forensic-psychology practice applies *samværssabotage* (contact sabotage) as a behavioural pattern rather than a syndrome diagnosis. [Højesteret](https://www.hoejesteret.dk/) jurisprudence consistently applies the *barnets bedste* analysis without recourse to syndrome labelling.
 
-**Hague Convention 1980 + Brussels IIb.** Denmark is a Hague 1980 contracting state. **Denmark has an opt-out from EU justice/home-affairs cooperation** — Brussels IIb does NOT apply in Denmark; cross-border EU cases use the [Nordic Family Convention 1931](https://www.nordregio.org/) (within Nordic countries) and the Hague 1996 Convention more broadly. The Central Authority operates through the [Familieretshuset](https://familieretshuset.dk/).
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Denmark is a Hague 1980 contracting state. **Denmark has an opt-out from EU justice/home-affairs cooperation** — Brussels IIb does NOT apply in Denmark; cross-border EU cases use the [Nordic Family Convention 1931](https://www.nordregio.org/) (within Nordic countries) and the Hague 1996 Convention more broadly. The Central Authority operates through the [Familieretshuset](https://familieretshuset.dk/).
 
 **Get local counsel.** *Advokat* (member of *Advokatsamfundet*) is recommended for any Familieretten matter. The [Danish Bar and Law Society](https://www.advokatsamfundet.dk/) maintains the family-law specialist directory. *Fri proces* (free legal aid) is means-tested. *Retshjælpsforsikring* (legal-expense insurance, typically included in home insurance) covers most costs.
 
@@ -187,6 +187,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 
