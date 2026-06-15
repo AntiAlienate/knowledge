@@ -146,7 +146,7 @@ The *Instituto Colombiano de Bienestar Familiar (ICBF)* is the federal child-pro
 
 **The PA-construct question.** The [Colegio Colombiano de Psicólogos (COLPSIC)](https://colpsic.org.co/) has been methodologically cautious about the *Síndrome de Alienación Parental* (SAP) label. Colombian family-court practice has tended to apply behaviour-based analysis under the *prevalente* framework. The Corte Constitucional has not endorsed PAS as a diagnostic category.
 
-**Hague Convention 1980 implementation.** Colombia is a Hague 1980 contracting state. The Central Authority operates through the [Instituto Colombiano de Bienestar Familiar (ICBF)](https://www.icbf.gov.co/). Implementation has been substantial.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Colombia is a Hague 1980 contracting state. The Central Authority operates through the [Instituto Colombiano de Bienestar Familiar (ICBF)](https://www.icbf.gov.co/). Implementation has been substantial.
 
 **Get local counsel.** *Abogado* (with *tarjeta profesional* from the [Consejo Superior de la Judicatura](https://www.ramajudicial.gov.co/)). *Defensoría del Pueblo* provides constitutional protection-oriented representation. *ICBF* and *Comisarías de Familia* are non-litigant but provide structured family-law intervention.
 
@@ -259,6 +259,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

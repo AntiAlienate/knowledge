@@ -146,7 +146,7 @@ The operative framework is the [Código Civil arts. 222–243](https://www.bcn.c
 
 **The PA-construct question.** The [Colegio de Psicólogos de Chile](https://colegiopsicologos.cl/) has been methodologically cautious about the *Síndrome de Alienación Parental* (SAP) label. Chilean family-court practice applies the *interés superior* framework with the *Consejo Técnico* report as the evidence base. The *Corte Suprema* has not endorsed PAS as a diagnostic category but has consistently treated alienating conduct as a *causal* for cuidado personal modification.
 
-**Hague Convention 1980 implementation.** Chile is a Hague 1980 contracting state. The Central Authority operates through the [Corporación de Asistencia Judicial](https://www.cajmetro.cl/). Hague return proceedings go to the *Tribunales de Familia* of Santiago.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Chile is a Hague 1980 contracting state. The Central Authority operates through the [Corporación de Asistencia Judicial](https://www.cajmetro.cl/). Hague return proceedings go to the *Tribunales de Familia* of Santiago.
 
 **Get local counsel.** *Abogado* (member of the [Colegio de Abogados de Chile](https://www.colegioabogados.cl/)) with family-court practice. The *Colegio de Abogados* maintains specialist directories. *Corporación de Asistencia Judicial* provides means-tested legal aid. *Postítulos en Derecho de Familia* via Universidad de Chile, Universidad Católica, and Universidad Diego Portales are the recognised academic accreditations.
 
@@ -310,6 +310,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

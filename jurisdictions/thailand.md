@@ -89,7 +89,7 @@ The operative framework is the [ประมวลกฎหมายแพ่ง
 
 **The PA-construct question.** Thai family-court practice has not formally endorsed *Parental Alienation Syndrome* as a diagnostic category. Cases are litigated under the welfare-paramountcy framework with the *family advisor* welfare assessment as the evidence base. The [Supreme Court of Thailand (Dika Court)](https://www.supremecourt.or.th/) has not endorsed PAS as a syndrome.
 
-**Hague Convention 1980 implementation.** Thailand acceded to the Hague Convention in 2002. The Central Authority operates through the [Ministry of Foreign Affairs](https://www.mfa.go.th/). Hague return proceedings go to the Bangkok-area Juvenile and Family Court for international cases. Implementation has been substantial.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Thailand acceded to the Hague Convention in 2002. The Central Authority operates through the [Ministry of Foreign Affairs](https://www.mfa.go.th/). Hague return proceedings go to the Bangkok-area Juvenile and Family Court for international cases. Implementation has been substantial.
 
 **Get local counsel.** *ทนายความ* (advocate, member of the [Lawyers Council of Thailand](http://www.lawyerscouncil.or.th/)) with family-law practice. The Lawyers Council maintains specialist directories. *Legal Aid Office* provides means-tested representation. Foreign parents should also consider engaging counsel familiar with international family-law conventions.
 

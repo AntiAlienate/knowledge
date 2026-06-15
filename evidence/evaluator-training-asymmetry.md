@@ -237,7 +237,7 @@ The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/0964906
 
 ### 4.2 Adoption — how widely required?
 
-**The Saunders 2015 baseline.**
+**The [Saunders](https://www.ovw.usdoj.gov/) 2015 baseline.**
 
 > "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; Saunders et al., 2011)." (Saunders 2015, p. 78)
 
@@ -291,7 +291,7 @@ The Harman/Lorandos position is the most-cited contemporary published defence of
 
 > "Parental alienation is undoubtedly a lucrative endeavour that allow experts to provide their services in family proceedings for a fee. Training programmes and conferences, which have proliferated on a global scale over the last two decades, provide yet another stream of income."
 
-Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the underlying construct of one-parent-undermining-the-other-parent occurs in real cases; the Meier/Saunders camp is not wrong that the operational application of that construct in US courts produces empirically-documented gender-asymmetric custody outcomes. The training-asymmetry question is whether the *training infrastructure* — overwhelmingly delivered as paid CPD on the PA-construct side and patchily delivered, often grant-dependent, on the DV-construct side — exacerbates or mitigates the operational drift.
+Honest reading of this dispute: the Harman/Lorandos camp is not wrong that the underlying construct of one-parent-undermining-the-other-parent occurs in real cases; the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)/Saunders camp is not wrong that the operational application of that construct in US courts produces empirically-documented gender-asymmetric custody outcomes. The training-asymmetry question is whether the *training infrastructure* — overwhelmingly delivered as paid CPD on the PA-construct side and patchily delivered, often grant-dependent, on the DV-construct side — exacerbates or mitigates the operational drift.
 
 ---
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

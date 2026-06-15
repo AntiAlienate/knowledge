@@ -92,7 +92,7 @@ The operative framework is the [Codul Civil (Law 287/2009, in force 1 October 20
 
 **The PA-construct question.** The [Colegiul Psihologilor din România](https://www.copsi.ro/) has not formally endorsed *Sindromul de Alienare Parentală* (PAS) as a diagnostic category. Romanian family-court practice applies behaviour-based analysis under the *interesul superior al copilului* framework. The [Înalta Curte de Casație și Justiție](https://www.scj.ro/) has not endorsed PAS as a syndrome but has applied behaviour-based analysis in custody-modification cases.
 
-**Hague Convention 1980 + Brussels IIb.** Romania is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministerul Justiției](https://www.just.ro/). Cross-border EU cases engage Brussels IIb (Regulation 2019/1111). The *Judecătoria sector 1 București* has exclusive first-instance jurisdiction for Hague return applications.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Romania is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministerul Justiției](https://www.just.ro/). Cross-border EU cases engage Brussels IIb (Regulation 2019/1111). The *Judecătoria sector 1 București* has exclusive first-instance jurisdiction for Hague return applications.
 
 **Get local counsel.** *Avocat* (member of a *Barou*) with family-law practice. The [Uniunea Națională a Barourilor din România (UNBR)](https://www.unbr.ro/) maintains specialist directories. *Asistență judiciară* (legal aid) is income-tested via the *Barou*. The Bucharest Bar Family Law Committee is a key practitioner forum.
 
@@ -192,6 +192,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 - [HUDOC search: Lafargue](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lafargue%22]})
 - [HUDOC search: Caras](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Caras%22]})
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

@@ -116,7 +116,7 @@ These are billable conditions and can co-occur with V995.51 / V61.20 / V61.29.
 
 ## 2. The [ICD-11](https://icd.who.int/) codes that apply
 
-The structure of [ICD-11](https://icd.who.int/) differs from DSM-5. PA-pattern conduct is coded inside **Chapter 24 — Factors influencing health status or contact with health services** (the analogue of the V/Z-codes). The relevant block is "Problems associated with interactions with caregivers, parents, or other family members."
+The structure of [ICD-11](https://icd.who.int/) differs from [DSM-5](https://www.appi.org/products/dsm). PA-pattern conduct is coded inside **Chapter 24 — Factors influencing health status or contact with health services** (the analogue of the V/Z-codes). The relevant block is "Problems associated with interactions with caregivers, parents, or other family members."
 
 ### 2.1 QE52.0 — Caregiver-child relationship problem
 
@@ -321,7 +321,7 @@ In all 50 U.S. states, mental-health professionals are mandated reporters of sus
 
 ### 6.1 The Bernet 2010 proposal for DSM-5
 
-**Citation.** Bernet, W. (Ed.). (2010). *Parental Alienation, DSM-5, and ICD-11*. Springfield, IL: Charles C. Thomas Publisher, Ltd. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). Parental alienation, DSM-V, and ICD-11. *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583. Book review by Madaan & Habib (2013), *The Journal of Clinical Psychiatry*, 74(3), e220, https://doi.org/10.4088/JCP.12bk08344.
+**Citation.** Bernet, W. (Ed.). (2010). *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)*. Springfield, IL: Charles C. Thomas Publisher, Ltd. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). Parental alienation, DSM-V, and ICD-11. *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583. Book review by Madaan & Habib (2013), *The Journal of Clinical Psychiatry*, 74(3), e220, https://doi.org/10.4088/JCP.12bk08344.
 
 **Bernet's 2010 core definition, verbatim from Madaan & Habib's reproduction of p. 3 of the Bernet edited volume:**
 
@@ -381,7 +381,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 7.4 Sample language for a balanced clinical formulation
 
-> "[Child], aged [n], presents with [symptom cluster] in the context of high inter-parental conflict following the [parents'] separation in [year]. On clinical interview, behavioural observation, collateral interview, and review of [records], the dyad shows the pattern described in DSM-5-TR at p. 715 as Parent-Child Relational Problem (V61.20 / Z62.820): [list specific behavioural, cognitive, and affective manifestations]. The child's symptomatic presentation is consistent with Child Affected by Parental Relationship Distress (V61.29 / Z62.898) (DSM-5-TR p. 716; Bernet, Wamboldt & Narrow, 2016).
+> "[Child], aged [n], presents with [symptom cluster] in the context of high inter-parental conflict following the [parents'] separation in [year]. On clinical interview, behavioural observation, collateral interview, and review of [records], the dyad shows the pattern described in [DSM-5-TR](https://www.appi.org/products/dsm) at p. 715 as Parent-Child Relational Problem (V61.20 / Z62.820): [list specific behavioural, cognitive, and affective manifestations]. The child's symptomatic presentation is consistent with Child Affected by Parental Relationship Distress (V61.29 / Z62.898) (DSM-5-TR p. 716; Bernet, Wamboldt & Narrow, 2016).
 >
 > "I have considered the full differential consistent with the APSAC (2022) Position Statement and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016), including direct maltreatment by [rejected parent], witnessed inter-parental violence, [rejected parent's] mental health or substance use, prior poor relationship, and developmentally appropriate preference. On the evidence reviewed, [rule-out finding].
 >
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

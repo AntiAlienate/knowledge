@@ -133,7 +133,7 @@ The operative framework is the [Children Act 2022 (Act No. 29 of 2022)](http://k
 
 **The PA-construct question.** The [Kenya Psychological Association](https://kpa.or.ke/) has not formally endorsed *Parental Alienation Syndrome* as a diagnostic category. Kenyan family-court practice applies the *best interests* framework with the *Children's Officer* welfare assessment as the principal evidence base. The Court of Appeal in *Re J & Others (Children) [2018] eKLR* has applied behaviour-based analysis without endorsing the syndrome construct.
 
-**Hague Convention 1980 implementation.** Kenya is a Hague 1980 contracting state via the 2007 accession. The Central Authority operates through the [Office of the Attorney General — Department of Children's Services](https://www.statelaw.go.ke/). Implementation has been substantial but resource-constrained.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Kenya is a Hague 1980 contracting state via the 2007 accession. The Central Authority operates through the [Office of the Attorney General — Department of Children's Services](https://www.statelaw.go.ke/). Implementation has been substantial but resource-constrained.
 
 **Get local counsel.** *Advocate* (member of the [Law Society of Kenya](https://lsk.or.ke/)) with family-law practice. The LSK Family Law Committee maintains specialist directories. *Legal aid* is provided via [Kituo Cha Sheria](https://kituochasheria.or.ke/) and the [National Legal Aid Service (NLAS)](https://nlas.go.ke/) under the [Legal Aid Act 2016](http://kenyalaw.org/).
 
@@ -246,6 +246,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

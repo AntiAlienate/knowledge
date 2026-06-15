@@ -98,7 +98,7 @@ The operative framework is the [Mudawwana al-Usra (Family Code, Law 70-03 of 200
 
 **The PA-construct question.** The [Société Marocaine de Psychiatrie](https://www.smp.ma/) has not endorsed *Syndrome d'Aliénation Parentale* as a diagnostic category. Moroccan family-court practice applies the *maṣlaḥat al-ṭifl* framework with welfare reports from the *Bureau de réconciliation* and court-appointed *expert* where commissioned.
 
-**Hague Convention 1980 implementation.** Morocco is a Hague 1980 contracting state via the 2010 accession. The Central Authority operates through the [Ministry of Justice (Wizārat al-ʿAdl)](https://www.justice.gov.ma/). Implementation has been substantial but operates within the constraints of the parallel personal-status framework — return orders may be made but enforcement requires coordination with the Family Court.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Morocco is a Hague 1980 contracting state via the 2010 accession. The Central Authority operates through the [Ministry of Justice (Wizārat al-ʿAdl)](https://www.justice.gov.ma/). Implementation has been substantial but operates within the constraints of the parallel personal-status framework — return orders may be made but enforcement requires coordination with the Family Court.
 
 **Get local counsel.** *Muḥāmī* (advocate) — member of a regional Bar (e.g. [Ordre des Avocats de Rabat](https://www.barreau-rabat.com/), [Ordre des Avocats de Casablanca](https://www.avocats-casablanca.ma/)) with family-law practice. *Assistance judiciaire* is means-tested.
 

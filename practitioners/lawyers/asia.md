@@ -501,7 +501,7 @@ New Delhi · Delhi ([Supreme Court of India](https://main.sci.gov.in/)) · Indep
 - <https://time.com/6160414/marital-rape-india-karuna-nundy-interview/>
 - <https://asia.nd.edu/events/2024/03/22/gender-justice-and-joy-legal-travels-through-the-patriarchy-suppressed-speech-and-corporate-crime-lecture-by-karuna-nundy/>
 
-**Contact:** Chamber Supreme Court of India, New Delhi; SKOCH profile https://skoch.in/karuna-nundy/
+**Contact:** Chamber [Supreme Court of India](https://main.sci.gov.in/), New Delhi; SKOCH profile https://skoch.in/karuna-nundy/
 
 *Notes: Senior Advocate designation 2024 (SCI) verified; TIME 100 (2022-23) confirmed via TIME primary source. PA-specific stance not on public record; carried as critique register anchor by analogy with women's-rights and marital-rape apex-court work. Bar Council registration number not publicly displayed.*
 
@@ -611,6 +611,8 @@ Hong Kong (Central) · Hong Kong SAR · Sir Oswald Cheung's Chambers; Hong Kong 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

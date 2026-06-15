@@ -370,7 +370,7 @@ Across the studies in §§1–7, the recurring limitations are:
 > Supported by primary evidence but with significant methodological caveats; not yet replicated at scale.
 
 - **Suicidal ideation rates appear elevated in adult PA-exposed samples** (Verhaar et al. 2022 reported 30% within their n = 20 qualitative sample; consistent with the qualitative theme literature). **No controlled comparison study of suicide-attempt or completed-suicide rates was located.**
-- **Substance/alcohol misuse appears elevated** in PA-exposed adults (Verhaar et al. 2022 reported 55% adolescent-onset alcohol use, 35% cannabis use within n = 20; Ben-Ami & Baker 2012 reported higher alcohol-abuse rates in PA-exposed vs. comparison adults).
+- **Substance/alcohol misuse appears elevated** in PA-exposed adults (Verhaar et al. 2022 reported 55% adolescent-onset alcohol use, 35% cannabis use within n = 20; Ben-Ami & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 2012 reported higher alcohol-abuse rates in PA-exposed vs. comparison adults).
 - **Insecure adult attachment styles are associated with retrospectively reported PA exposure** (Ben-Ami & Baker 2012).
 - **Longitudinal evidence that child-reported alienation toward parents predicts later depression exists** — but only in the Chinese rural left-behind-children context (Qin et al. 2022 n = 877; Zhang et al. 2024 n = 909), where the construct overlaps only partially with the Western PA-by-one-parent-against-the-other forensic construct.
 - **Intergenerational transmission of PA is reported in qualitative adult-outcome samples** (Verhaar et al. 2022: 50% of n = 20 were now targeted parents). **A population-level transmission rate is not established.**
@@ -406,6 +406,8 @@ Across the studies in §§1–7, the recurring limitations are:
 **Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
+
+
 
 
 

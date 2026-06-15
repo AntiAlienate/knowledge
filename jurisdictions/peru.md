@@ -94,7 +94,7 @@ The operative framework is the [Código Civil arts. 418–471](https://www.gob.p
 
 **The PA-construct question.** The [Colegio de Psicólogos del Perú](https://cpsp.pe/) has not formally endorsed *Síndrome de Alienación Parental* (SAP) as a diagnostic category. Peruvian family-court practice has tended to apply behaviour-based analysis under the *interés superior* framework. The [Tribunal Constitucional](https://tc.gob.pe/) has not endorsed PAS as a syndrome.
 
-**Hague Convention 1980 implementation.** Peru is a Hague 1980 contracting state. The Central Authority operates through the [Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)](https://www.gob.pe/mimp). Hague return proceedings go to the *Juzgado de Familia* of Lima for international cases.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Peru is a Hague 1980 contracting state. The Central Authority operates through the [Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)](https://www.gob.pe/mimp). Hague return proceedings go to the *Juzgado de Familia* of Lima for international cases.
 
 **Get local counsel.** *Abogado* (member of a regional [Colegio de Abogados](https://www.cal.org.pe/)) with family-law practice. The *Colegio de Abogados de Lima* maintains family-law specialist directories. *Defensa Pública* (public defender) provides means-tested representation via the Ministerio de Justicia.
 

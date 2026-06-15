@@ -141,7 +141,7 @@ The principle is *مصلحة الطفل* (interest of the child) — articulated
 
 **The PA-construct question.** Egyptian family-court practice has not adopted *Parental Alienation Syndrome* as a diagnostic category — the *Egyptian Psychiatric Society* and the *Egyptian Association for Psychology* have not endorsed PAS. Egyptian *qadi* (judge) family-court practice applies the *maslaha* (interest) framework with welfare reports from the *Bureau for Family Settlement* and court-appointed *khabīr* (expert) where commissioned.
 
-**Hague Convention 1980 status.** **Egypt is not a Hague 1980 contracting state.** Cross-border parental abduction with Egypt as origin or destination is litigated through Egyptian Family Court or via diplomatic channels rather than Hague return proceedings. **Critical fact for foreign parents:** an Egyptian court will apply Egyptian personal-status law (typically with maternal preference under hadana), creating substantial jurisdictional risk for the non-Egyptian parent.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) status.** **Egypt is not a Hague 1980 contracting state.** Cross-border parental abduction with Egypt as origin or destination is litigated through Egyptian Family Court or via diplomatic channels rather than Hague return proceedings. **Critical fact for foreign parents:** an Egyptian court will apply Egyptian personal-status law (typically with maternal preference under hadana), creating substantial jurisdictional risk for the non-Egyptian parent.
 
 **Get local counsel.** *Muḥāmī* (advocate, member of the [Egyptian Bar Association (نقابة المحامين المصرية)](https://www.egytbar.org/)) with family-court practice. The Egyptian Bar Association maintains specialist directories. *Mu'ūnah qaḍā'iya* (legal aid) is available through the Egyptian Bar Association and the [National Council for Women](https://ncw.gov.eg/) for women-pursued matters.
 
@@ -299,6 +299,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

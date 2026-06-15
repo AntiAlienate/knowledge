@@ -203,7 +203,7 @@ London · England · UCL Psychoanalysis Unit (Visiting Professor); Great Ormond 
 <sub>ID: `uk-ews.glaser-danya`</sub>
 
 ### Dr Hannah Jones
-*ForenPsyD; CPsychol; AFBPsS; [HCPC](https://www.hcpc-uk.org/)-registered Forensic Psychologist (PYL protected title; specific [HCPC](https://www.hcpc-uk.org/) number not publicly confirmed); Stage 2 Assessor for BPS Qualification in Forensic Psychology*
+*ForenPsyD; CPsychol; AFBPsS; [HCPC](https://www.hcpc-uk.org/)-registered Forensic Psychologist (PYL protected title; specific [HCPC](https://www.hcpc-uk.org/) number not publicly confirmed); Stage 2 Assessor for [BPS](https://www.bps.org.uk/) Qualification in Forensic Psychology*
 London · England · Senior Lecturer, Centre for Psychiatry & Mental Health, Queen Mary University of London; Programme Director MSc Forensic Psychology & Mental Health (BPS-accredited); independent forensic-psychology expert-witness practice
 
 **Stance:** A regulated UK Chartered Forensic Psychologist who explicitly rejects standalone-PA diagnosis — publicly quoted (Transparency Project) as 'true alienation ... is rare enough that it does not need its own concept'. The critique-camp answer to 'who should the court be instructing?' post-Re Y: trauma-informed and domestic-abuse-informed forensic assessment of parents in Family Court as an alternative to the PA-diagnosis expert pipeline. Survives the Re Y regulatory bar squarely.
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

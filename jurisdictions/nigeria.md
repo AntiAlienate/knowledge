@@ -146,7 +146,7 @@ For non-Muslim parents, the federal route via Matrimonial Causes Act is the typi
 
 **The PA-construct question.** The [Nigerian Psychological Association](https://npa.org.ng/) has not formally endorsed *Parental Alienation Syndrome* as a diagnostic category. Nigerian family-court practice applies the welfare-paramountcy framework with *Probation Officer* welfare reports as the principal evidence base.
 
-**Hague Convention 1980 status.** **Nigeria is not a Hague 1980 contracting state.** Cross-border parental abduction with Nigeria as origin or destination is litigated through Nigerian courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases involving Nigeria.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) status.** **Nigeria is not a Hague 1980 contracting state.** Cross-border parental abduction with Nigeria as origin or destination is litigated through Nigerian courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases involving Nigeria.
 
 **Get local counsel.** *Legal Practitioner* (member of the [Nigerian Bar Association](https://nigerianbar.org.ng/)) with family-law practice. The NBA Section on Family Law maintains specialist directories. *Legal Aid Council of Nigeria* provides means-tested representation. *FIDA Nigeria (International Federation of Women Lawyers)* and *Women's Aid Collective (WACOL)* provide pro-bono services in family-violence-related matters.
 
@@ -259,6 +259,10 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

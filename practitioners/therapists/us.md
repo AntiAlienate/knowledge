@@ -436,7 +436,7 @@ Newton · MA · Director, Center of Excellence for Children, Families and the La
 *PhD; CA Licensed Psychologist*
 Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto, CA); co-founder OBFC; past President [AFCC](https://www.afccnet.org/) International (2019-20)
 
-**Stance:** OBFC family camp co-founder; [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) common-ground synthesis in FCR is the most-recent middle-camp bridging document. 2012 [AFCC](https://www.afccnet.org/) California Joseph Drown Award; 2019-20 AFCC International President. Institutional middle-camp voice.
+**Stance:** OBFC family camp co-founder; [Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020) common-ground synthesis in FCR is the most-recent middle-camp bridging document. 2012 [AFCC](https://www.afccnet.org/) California Joseph Drown Award; 2019-20 [AFCC](https://www.afccnet.org/) International President. Institutional middle-camp voice.
 
 **Publications:**
 - Overcoming Barriers Family Camp: A Therapeutic Intervention for High-Conflict Custody Cases (2010) — *Family Court Review 48(1):116-135 (Sullivan, Ward & Deutsch)*
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
