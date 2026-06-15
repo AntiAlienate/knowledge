@@ -314,7 +314,7 @@ The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)�
 
 - **[Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (FCO Study).** *J Soc Welfare & Family Law* 42(1):92–105. doi:10.1080/09649069.2020.1701941. NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859.
 - **Harman & Lorandos 2021.** *Psychology, Public Policy, and Law* 27(2):184–208. doi:10.1037/law0000301.
-- **Meier et al. 2022 rebuttals.** *J Family Trauma, Child Custody & Child Development* 19(2) and 19(3-4).
+- **[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. 2022 rebuttals.** *J Family Trauma, Child Custody & Child Development* 19(2) and 19(3-4).
 - **[Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204).** *J Child Custody* 16(2):140–169. doi:10.1080/15379418.2019.1613204. DOJ OVW Award #2011-TA-AX-K006.
 - **[Saunders](https://www.ovw.usdoj.gov/) 2015.** *J Child Custody* 12(1):71–92. doi:10.1080/15379418.2015.1037052. // [Saunders](https://www.ovw.usdoj.gov/)/Faller/Tolman 2011 NIJ Award 2007-WG-BX-0013.
 - **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016.** In *Parenting Plan Evaluations* (2nd ed.). OUP. doi:10.1093/med:psych/9780199396580.003.0013.
@@ -327,6 +327,8 @@ The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)�
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

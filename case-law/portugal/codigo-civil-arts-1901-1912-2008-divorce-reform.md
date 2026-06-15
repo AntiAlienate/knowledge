@@ -183,6 +183,8 @@ Portugal's **Código Civil** arts. 1901–1912 governs *responsabilidades parent
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

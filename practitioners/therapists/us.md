@@ -448,7 +448,7 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 
 **Contact:** https://sullydoc.com/contact/ ; 411 Kipling St, Palo Alto, CA
 
-*Notes: CA Licensed Psychologist verifiable via CA BOP. Past AFCC International President (2019-20). OBFC operationally critiqued by trauma camp (Geffner et al. 2022); same caveat as Deutsch.*
+*Notes: CA Licensed Psychologist verifiable via CA BOP. Past [AFCC](https://www.afccnet.org/) International President (2019-20). OBFC operationally critiqued by trauma camp (Geffner et al. 2022); same caveat as Deutsch.*
 
 **See also:** `jurisdiction:united-states`, `practitioner:us.deutsch-robin`, `practitioner:us.johnston-janet`
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

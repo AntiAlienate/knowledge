@@ -239,7 +239,7 @@ The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/0964906
 
 **The [Saunders](https://www.ovw.usdoj.gov/) 2015 baseline.**
 
-> "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; Saunders et al., 2011)." (Saunders 2015, p. 78)
+> "Fifteen states require some form of training for evaluators and most evaluators report receiving at least some IPV training (Bow & Boxer, 2003; [Saunders](https://www.ovw.usdoj.gov/) et al., 2011)." (Saunders 2015, p. 78)
 
 That is, *at compilation of the 2015 paper*, only 15 US states had any statutorily-required training for custody evaluators, and even within those states the required content and depth varied. There is no national licensure of custody evaluators in the US; this is the structural reason a competency framework cannot be uniformly enforced.
 
@@ -390,7 +390,7 @@ PD12J is the binding procedural rule for England and Wales family courts when DV
 
 > "**Domestic Violence Evidence.** Courts must consider 'evidence of past sexual or physical abuse … restraining orders … arrests or convictions … and any other documentation of abuse.'"
 
-**On the asymmetry question.** Colorado HB23-1178 — together with its predecessor HB-1228, under which the Joan Meier 12-hour evaluator training is delivered — is among the most operationally specific state implementations of the Kayden's-Law / Saunders-framework approach. Colorado *explicitly* prohibits reunification orders predicated on severing the child's bond with a protective parent, which is the operational locus of the Silberg-Dallam pattern.
+**On the asymmetry question.** Colorado HB23-1178 — together with its predecessor HB-1228, under which the Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 12-hour evaluator training is delivered — is among the most operationally specific state implementations of the Kayden's-Law / Saunders-framework approach. Colorado *explicitly* prohibits reunification orders predicated on severing the child's bond with a protective parent, which is the operational locus of the Silberg-Dallam pattern.
 
 ### 8.4 Maryland — HB 1191 (2025)
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

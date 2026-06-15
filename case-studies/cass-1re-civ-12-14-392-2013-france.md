@@ -107,7 +107,7 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 5. **[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) — Article 373-2-13 (modification des décisions relatives à l'exercice de l'autorité parentale à tout moment)** — <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006426688/> (Légifrance) [fr] — accessed 2026-05-30
 6. **Sophie Paricard, « Le syndrome d'aliénation parentale reconnu par la [Cour de cassation](https://www.courdecassation.fr/) : les premiers pas d'une révolution dans le contentieux familial ? » — Droit de la famille n° 11, novembre 2013, comm. 152** — <https://lexis360.lexisnexis.fr/droit-document/article/droit-famille/11-2013/152_PS_FAM_FAM1311CM00152.htm> (LexisNexis — Droit de la famille) [fr] — accessed 2026-05-30
 7. **Michèle Bauer, « Le syndrome d'aliénation parentale reconnu par la [Cour de cassation](https://www.courdecassation.fr/) » (note de pratique)** — <https://www.legavox.fr/blog/michele-bauer-avocat-bordeaux/syndrome-alienation-parentale-reconnu-cour-13249.htm> (Légavox) [fr] — accessed 2026-05-30
-8. **Michèle Bauer, « Le syndrome d'aliénation parentale reconnu par la Cour de cassation » (version site auteur)** — <https://michelebaueravocatbordeaux.fr/syndrome-dalienation-parentale-reconnu-cour-cassation/> (michelebaueravocatbordeaux.fr) [fr] — accessed 2026-05-30
+8. **Michèle Bauer, « Le syndrome d'aliénation parentale reconnu par la [Cour de cassation](https://www.courdecassation.fr/) » (version site auteur)** — <https://michelebaueravocatbordeaux.fr/syndrome-dalienation-parentale-reconnu-cour-cassation/> (michelebaueravocatbordeaux.fr) [fr] — accessed 2026-05-30
 9. **Bénédicte Lavaud-Legendre et al., « De l'aliénation parentale aux dynamiques familiales aliénantes » — Cahiers critiques de thérapie familiale et de pratiques de réseaux 2018/2 (n° 61), p. 109** — <https://shs.cairn.info/revue-cahiers-critiques-de-therapie-familiale-2018-2-page-109?lang=fr> (Cairn — Éditions érès) [fr] — accessed 2026-05-30
 10. **ACALPA — Rapport d'activité 2013** — <https://www.acalpa.info/wp-content/uploads/2016/08/2013-RAPPORT-ACTIVITE-ACALPA.pdf> (Association contre l'aliénation parentale et pour le lien familial (ACALPA)) [fr] — accessed 2026-05-30
 11. **Loi n° 2020-936 du 30 juillet 2020 visant à protéger les victimes de violences conjugales** — <https://www.legifrance.gouv.fr/loda/id/JORFTEXT000042176652/> (Légifrance — Journal officiel de la République française) [fr] — accessed 2026-05-30
@@ -131,6 +131,8 @@ REJET du pourvoi (et non cassation). La [Cour de cassation](https://www.courdeca
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
