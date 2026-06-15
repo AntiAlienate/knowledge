@@ -123,6 +123,35 @@ Singapore Family Justice Courts impose STRICT anonymisation: all parties in divo
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Singapore
+
+Singapore operates a **religion-pluralist personal-law architecture** with two court systems for family matters:
+- **Family Justice Courts (FJC)** — for non-Muslims governed by the [Women's Charter (Cap. 353)](https://sso.agc.gov.sg/Act/WC1961) and the [Guardianship of Infants Act (Cap. 122)](https://sso.agc.gov.sg/Act/GIA1934).
+- **Syariah Court** — for Muslims under the [Administration of Muslim Law Act (Cap. 3)](https://sso.agc.gov.sg/Act/AMLA1966), applying Singapore-codified Islamic family law.
+
+The principle is the *welfare of the child as paramount* — codified in GIA s.3 and Women's Charter s.125, with the [Family Justice Act 2014](https://sso.agc.gov.sg/Act/FJA2014) restructuring the FJC architecture.
+
+**Procedural pathway — the Family Justice Courts.** The FJC architecture includes:
+- *Family Court* — first-instance for parenting matters
+- *Family Division of the High Court* — high-value/complex matters
+- *Family Justice Appeals* — appellate level
+
+**Mandatory child-focused mediation.** Under the [Family Justice Rules](https://sso.agc.gov.sg/SL/FJA2014-S813-2014), the FJC strongly prefers a *Child-Inclusive Dispute Resolution (CIDR)* approach. *Family Court Counselling and Psychological Services (CCPS)* officers conduct welfare assessments and counselling. The *Custody Evaluation Report* and *Child Representative* (s.11 of Women's Charter — equivalent of Children's Guardian) framework provides the structural counter-balance to alienating-parent influence.
+
+**The 2024 family-law reforms.** The [Family Justice Reform Act 2023](https://sso.agc.gov.sg/) substantially restructured FJC procedure (in force 2024). Key changes: simplified divorce track for amicable cases, strengthened therapeutic-justice approach, expanded use of CIDR, mandatory parenting programmes (*Mandatory Counselling and Mediation*). The reforms explicitly target alienation-pattern litigation by accelerating welfare resolution.
+
+**Contact enforcement.** Where an *access* order is being ignored, the FJC can find contempt of court under the inherent contempt jurisdiction. Sentences include fines, suspended imprisonment, or actual imprisonment in the most serious cases. The court can also vary the *care and control* / *access* allocation, transferring primary residence to favour the targeted parent in sustained-obstruction cases. The [Penal Code s.317](https://sso.agc.gov.sg/Act/PC1871) and the *International Child Abduction Act* provide criminal-track tools where the obstruction reaches abduction threshold.
+
+**The PA-construct question.** The [Singapore Psychological Society](https://singaporepsychologicalsociety.org/) has been methodologically cautious about the *Parental Alienation Syndrome* label. FJC practice has consistently applied behaviour-based analysis under the welfare-paramountcy framework. The [Court of Appeal in TAU v TAT (2018) SGCA 50](https://www.elitigation.sg/) and subsequent decisions apply behavioural-pattern analysis without endorsing the syndrome.
+
+**Hague Convention 1980 implementation.** Singapore is a Hague 1980 contracting state via the [International Child Abduction Act (Cap. 143C)](https://sso.agc.gov.sg/Act/ICAA2010). The Central Authority operates through the [Ministry of Social and Family Development](https://www.msf.gov.sg/). Hague return proceedings go to the Family Court.
+
+**Get local counsel.** *Advocate and solicitor* (member of the [Law Society of Singapore](https://www.lawsociety.org.sg/)) with family-law practice. The [Singapore Academy of Law](https://www.sal.org.sg/) maintains specialist directories. *Legal Aid Bureau* provides means-tested representation; *Pro Bono SG* (formerly Law Society Pro Bono Services) handles unmet-need cases. The [Family Justice Support Network](https://www.familyjusticesupport.sg/) provides community-track support.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Singapore (Republic of Singapore / 新加坡共和国)

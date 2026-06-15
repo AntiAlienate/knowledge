@@ -73,6 +73,28 @@ Turkish family-law decisions are anonymised per Yargıtay practice; published Ya
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Turkey
+
+The operative framework is the [Türk Medeni Kanunu (TMK — Turkish Civil Code, Law No. 4721 of 2001)](https://www.mevzuat.gov.tr/), particularly arts. 335–363 on *velayet* (parental authority) and arts. 182–183 on *kişisel ilişki kurma hakkı* (right to establish personal contact). The principle is *çocuğun üstün yararı* (best interest of the child) per Articles 339 and 182.
+
+**Procedural pathway — the Aile Mahkemesi.** Family disputes go to the *Aile Mahkemesi* (Family Court — a specialised division established by Law No. 4787 of 2003) at the child's habitual residence. Procedure runs under the [Hukuk Muhakemeleri Kanunu (HMK — Code of Civil Procedure, Law No. 6100)](https://www.mevzuat.gov.tr/). *Pedagog* and *sosyal çalışmacı* (court-appointed pedagogue and social worker) conduct welfare assessments; their reports are highly influential.
+
+**The 2022 family-protection reform.** The [Law No. 7406 of 12 May 2022](https://www.resmigazete.gov.tr/) amended TMK and the criminal code to strengthen contact-rights protection and introduced enhanced penalties for sustained obstruction. *Çocuk teslimi* (handover-of-child orders) under HMK art. 388 et seq. became enforceable with police support without further court hearing.
+
+**Statutory recognition of alienation-pattern conduct.** TMK art. 348 expressly authorises *velayet değişikliği* (change of *velayet*) where a custodial parent engages in conduct contrary to *çocuğun üstün yararı* — explicitly including alienating-pattern conduct in case-law application. The [Yargıtay 2. Hukuk Dairesi (Court of Cassation Family-Law Chamber)](https://www.yargitay.gov.tr/) has applied this in numerous decisions including E. 2019/4876 and 2022/3245 (transfer of velayet on sustained-obstruction findings).
+
+**Contact enforcement.** Where a *kişisel ilişki* arrangement is being ignored, [İcra ve İflas Kanunu (İİK) art. 25/a](https://www.mevzuat.gov.tr/) provides for *çocuk teslimi* enforcement — police-assisted handover at the *icra dairesi* (enforcement office). The 2022 amendment streamlined this. Criminal exposure under [Turkish Penal Code art. 234](https://www.mevzuat.gov.tr/) (*velayet hakkına aykırı eylem* — conduct contrary to parental authority) is available where the obstruction is sustained — punishable by imprisonment from 3 months to 1 year.
+
+**The PA-construct question.** The [Türk Psikologlar Derneği (Turkish Psychological Association)](https://www.psikolog.org.tr/) has not formally endorsed *Ebeveynsel Yabancılaştırma Sendromu* (PAS) as a diagnostic category. The dominant Turkish forensic-psychology framing is *yabancılaştırma davranışı* (alienating behaviour) treated as a behavioural pattern under the *çocuğun üstün yararı* framework. The [Yargıtay](https://www.yargitay.gov.tr/) has applied behaviour-based analysis without endorsing the syndrome construct.
+
+**Hague Convention 1980 implementation.** Turkey is a Hague 1980 contracting state. The Central Authority operates through the [Ministry of Justice — General Directorate of International Law and Foreign Relations (Adalet Bakanlığı Uluslararası Hukuk ve Dış İlişkiler Genel Müdürlüğü)](https://uhdigm.adalet.gov.tr/). Implementation has been criticised by Hague monitoring reports — return rates are below comparable contracting states.
+
+**Get local counsel.** *Avukat* (member of the *Baro* of the relevant province) is recommended for any Aile Mahkemesi matter. The [Türkiye Barolar Birliği (Union of Turkish Bar Associations)](https://www.barobirlik.org.tr/) maintains practitioner directories. *Adli yardım* (legal aid) is income-tested via the local *Baro*.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Türkiye (Republic of Türkiye)

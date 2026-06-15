@@ -70,6 +70,28 @@ Hungarian family-law decisions are anonymised per Kúria practice.
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Hungary
+
+The operative framework is the [Polgári Törvénykönyv (Ptk. — Civil Code, Law V of 2013)](https://net.jogtar.hu/), particularly Book Fourth on family law (*Negyedik Könyv* — *Családjog*), arts. 4:152–4:189 on *szülői felügyelet* (parental responsibility) and arts. 4:178–4:181 on *kapcsolattartás* (contact). The principle is *gyermek érdeke* (interest of the child) per art. 4:2 (3).
+
+**The 2013 Civil Code reform.** The 2013 Ptk. consolidated Hungarian family law (previously in the 1952 Csjt. — Családjogi törvény) into the unified Civil Code. Key features: structured *szülői felügyelet* allocation, codified *kapcsolattartás* right and duty, explicit *kötelezettség* to facilitate the child's relationship with the other parent (art. 4:185).
+
+**Procedural pathway — the Járásbíróság.** Family disputes go to the *járásbíróság* (district court) of the child's habitual residence. For divorce-related custody, the *törvényszék* (regional court) handles primary proceedings. Procedure runs under the [Polgári perrendtartás (Pp. — Code of Civil Procedure, Law CXXX of 2016)](https://net.jogtar.hu/) special family-procedure track. The *gyámhatóság* (Guardianship Authority — administrative agency) handles *kapcsolattartás* arrangements administratively and intervenes in cooperation with the court.
+
+**Statutory recognition of contact-obstruction.** [Ptk. art. 4:185](https://net.jogtar.hu/) explicitly requires both parents to refrain from any conduct that would impair the child's relationship with the other parent and to facilitate *kapcsolattartás*. Breach is grounds for modification of the *szülői felügyelet* allocation under art. 4:171 — courts have been willing to transfer *szülői felügyelet* in sustained-obstruction cases.
+
+**Contact enforcement.** Where a contact order is being ignored, the *gyámhatóság* can impose administrative *bírság* (escalating fines) under Ministerial Decree 149/1997. Court-administered enforcement under Pp. proceeds via *végrehajtás* (execution) including police-assisted handover. Criminal exposure under [Btk. § 211 — Kiskorú elhelyezésének megváltoztatása](https://net.jogtar.hu/) (changing the placement of a minor) is available where the obstruction reaches abduction threshold — punishable by imprisonment up to 3 years.
+
+**The PA-construct question.** The [Magyar Pszichológiai Társaság](https://www.mpt.hu/) has been methodologically cautious about the *Szülői Elidegenítés Szindróma* (PAS) label. Hungarian family-court practice has applied behaviour-based analysis (*kapcsolatszakadás* — contact rupture) under the *gyermek érdeke* framework. The [Kúria (Supreme Court)](https://kuria-birosag.hu/) has not endorsed PAS as a syndrome amenable to diagnostic testing.
+
+**Hague Convention 1980 + Brussels IIb.** Hungary is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministry of Justice (Igazságügyi Minisztérium)](https://igazsagugyiminiszterium.kormany.hu/). Cross-border EU cases engage Brussels IIb. The [Pesti Központi Kerületi Bíróság](https://birosag.hu/) has exclusive first-instance jurisdiction for Hague return applications.
+
+**Get local counsel.** *Ügyvéd* (member of the [Magyar Ügyvédi Kamara](https://www.muk.hu/)) is recommended for any contested family-court matter. The Hungarian Bar Association maintains family-law specialist directories. *Jogi segítségnyújtás* (legal aid) is income-tested via the [Igazságügyi Hivatal](https://igazsagugyihivatal.gov.hu/).
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Hungary (Magyarország)

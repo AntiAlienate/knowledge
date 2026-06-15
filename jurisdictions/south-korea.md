@@ -72,6 +72,28 @@ Korean family-law decisions are anonymised per Supreme Court practice using init
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in South Korea
+
+The operative framework is the [Civil Act (민법, *Minbeop*)](https://elaw.klri.re.kr/) arts. 909–927 (*친권* / parental rights), the [Family Litigation Act (가사소송법)](https://elaw.klri.re.kr/), and the [Family Welfare Act (가족복지법)](https://elaw.klri.re.kr/). The principle is *the welfare and best interests of the child* per [Civil Act art. 912](https://elaw.klri.re.kr/) (substantially amended 2007 and 2014).
+
+**Procedural pathway — the Seoul Family Court (가정법원).** Family disputes go to the *Family Court* (서울가정법원 and regional equivalents — separate from general civil courts since 1963). For divorce-related custody, the *조정* (mediation / conciliation) phase under the [Family Litigation Act art. 50](https://elaw.klri.re.kr/) is mandatory before contested adjudication. The *가사조사관* (Family Court Investigator) conducts a welfare investigation equivalent of a CAFCASS report; their report carries significant weight.
+
+**The 2007 reform.** Civil Act art. 909 was amended in 2007 to establish *공동친권* (joint parental rights) as the default post-divorce, replacing the previous father-priority allocation. The 2014 amendment further strengthened the welfare-paramountcy principle and the structured *친권* allocation analysis. Pre-2007 cases are governed by the prior father-priority regime — a critical fact in long-running disputes.
+
+**Contact rights and enforcement.** [Civil Act art. 837-2](https://elaw.klri.re.kr/) (*면접교섭권* — right of contact / visitation) explicitly grants the non-custodial parent (and, since the 2017 amendment, grandparents in defined circumstances) a right to contact. Enforcement against systematic obstruction runs through the Family Court's *이행명령* (compliance order) and *과태료* (administrative fine) mechanisms. Sustained obstruction can result in *친권 변경* (transfer of parental rights) under Civil Act art. 909-2.
+
+**Criminal exposure.** [Criminal Act art. 287](https://elaw.klri.re.kr/) (*미성년자 약취·유인* — abduction or inducement of a minor) and art. 288 (*추행 등 목적 약취·유인*) criminalise serious abduction-pattern conduct, punishable by imprisonment up to 10 years.
+
+**The PA-construct question.** The [Korean Psychological Association](https://www.koreanpsychology.or.kr/) has been methodologically cautious about the *Parental Alienation Syndrome* label. Korean family-court practice has applied behavioural-pattern analysis under the welfare-paramountcy framework. The [Supreme Court of Korea (대법원)](https://eng.scourt.go.kr/) has not endorsed PAS as a diagnostic category.
+
+**Hague Convention 1980 implementation.** South Korea acceded to the Hague Convention in 2012 and the implementing [Hague Convention Implementation Act (헤이그 국제아동탈취협약 이행에 관한 법률)](https://elaw.klri.re.kr/) operates through the [Ministry of Justice (법무부)](https://www.moj.go.kr/) Central Authority. Hague return proceedings go to the Seoul Family Court.
+
+**Get local counsel.** *변호사* (attorney, member of the [Korean Bar Association](http://www.koreanbar.or.kr/)) is recommended for any Family Court matter. The Korean Bar Association maintains family-law specialist directories. *법률구조* (legal aid) is means-tested via the [Korea Legal Aid Corporation (대한법률구조공단)](https://www.klac.or.kr/). The [Korean Society of Family Law](https://www.family.or.kr/) is the principal academic and practitioner forum.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in South Korea (Republic of Korea / 대한민국)
