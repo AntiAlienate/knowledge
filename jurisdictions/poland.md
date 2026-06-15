@@ -123,87 +123,25 @@ Sąd Najwyższy publikuje uchwały na sn.pl z anonimizacją stron i dziecka (syg
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Poland
 
+The operative framework is the [Kodeks rodzinny i opiekuńczy (KRO)](https://isap.sejm.gov.pl/) arts. 92–112 (*władza rodzicielska* — parental authority), with [art. 113 KRO](https://isap.sejm.gov.pl/) governing *kontakty z dzieckiem* (contact with the child). The principle is *dobro dziecka* (welfare of the child) as paramount. Polish courts default to *wspólne wykonywanie władzy rodzicielskiej* (joint exercise of parental authority) unless welfare considerations require otherwise.
 
+**Procedural pathway — the Sąd Rejonowy / Sąd Okręgowy.** Family disputes go to the *sąd rejonowy, wydział rodzinny i nieletnich* at the child's habitual residence (per [Kodeks postępowania cywilnego (KPC) art. 569](https://isap.sejm.gov.pl/)). For divorce-related custody, the *sąd okręgowy* handles the primary proceedings under [KPC arts. 425 et seq.](https://isap.sejm.gov.pl/). The *kurator sądowy* (court probation officer) and *rodzinny ośrodek diagnostyczno-konsultacyjny (RODK)* conduct welfare investigations equivalent to a CAFCASS report.
 
+**Contact enforcement — art. 598^15 KPC.** Where a court-ordered *kontakt z dzieckiem* is being ignored, [KPC art. 598^15](https://isap.sejm.gov.pl/) allows the court to **order payment of a specified amount of money to the entitled parent for each violation** of the contact arrangement. This is one of the strongest contact-enforcement mechanisms in EU family law. Procedure runs in two phases: a *zagrożenie* (warning of payment) under art. 598^15 § 1, then *nakazanie zapłaty* (order to pay) under art. 598^15 § 2 if the warning is breached.
 
+**The PA-construct question.** Polish family-court practice has been more receptive to the *Parental Alienation* construct than the Western European institutional-critique camp — the *Polskie Towarzystwo Psychologiczne (PTP)* has not issued a hard rejection. However, the *Najwyższy Sąd Administracyjny* and *Sąd Najwyższy* have not endorsed PAS as a syndrome amenable to diagnostic testing, and the EU consensus is shifting Polish practice toward behaviour-based rather than syndrome-based analysis. Argue the underlying conduct under KRO arts. 95–98 (*wykonywanie władzy rodzicielskiej*).
 
+**Hague Convention 1980 + Brussels IIb.** Poland is a Hague 1980 contracting state and an EU Member State, so Brussels IIb (Regulation 2019/1111) applies for intra-EU jurisdiction. The Hague Central Authority is the *Ministerstwo Sprawiedliwości, Departament Współpracy Międzynarodowej i Praw Człowieka*. Cross-border cases also engage [Brussels IIb arts. 1, 7, 9, 21, 27](case-law/european-union/brussels-iib-regulation-2019-1111-articles-1-7-9-21-27.md).
 
+**Criminal exposure.** [Kodeks karny art. 211](https://isap.sejm.gov.pl/) (*uprowadzenie lub zatrzymanie małoletniego wbrew woli osoby powołanej do opieki*) criminalises abduction or retention of a minor against the will of the person legally authorised — punishable by up to 3 years' imprisonment. The 2019 amendment broadened applicability to within-Poland contact obstruction in serious cases.
 
+**Get local counsel.** *Adwokat* or *radca prawny* with practice before the family court. The [Naczelna Rada Adwokacka](https://www.adwokatura.pl/) and the [Krajowa Izba Radców Prawnych](https://kirp.pl/) maintain referral directories. *Pomoc prawna z urzędu* (state-appointed legal aid) is income-tested. The [Stowarzyszenie Sędziów Rodzinnych w Polsce](https://www.srrp.pl/) is the family-court judges' association — useful for procedural-practice guidance.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

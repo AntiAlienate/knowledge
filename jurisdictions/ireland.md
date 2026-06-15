@@ -84,87 +84,25 @@ Irish family-law decisions are anonymised per long-standing practice in family-l
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Ireland
 
+The operative framework is the [Guardianship of Infants Act 1964](https://www.irishstatutebook.ie/eli/1964/act/7/) (substantially amended by the [Children and Family Relationships Act 2015](https://www.irishstatutebook.ie/eli/2015/act/9/)), the [Family Law Act 1995](https://www.irishstatutebook.ie/eli/1995/act/26/), and the [Family Law (Divorce) Act 1996](https://www.irishstatutebook.ie/eli/1996/act/33/). The constitutional touchstone is [Article 42A of the Constitution of Ireland](https://www.irishstatutebook.ie/eli/cons/) (inserted by the 31st Amendment, 2012) — the *paramount and best interests of the child* principle elevated to constitutional rank.
 
+**Procedural pathway — the District Court / Circuit Court.** *Guardianship*, *custody*, and *access* applications under the GIA 1964 typically go to the District Court; complex cases or divorce-related parenting matters go to the Circuit Court. The procedure is *in camera* (closed court) — a critical privacy protection. The *Probation and Welfare Service* and *Tusla — Child and Family Agency* are the structural equivalents of state child-protection authorities; *Section 32 reports* (welfare reports commissioned by the court under the Guardianship of Infants Act 1964 s.32) are the principal independent evidence source.
 
+**The 2015 reform reshaped parental terminology.** The Children and Family Relationships Act 2015 replaced *guardianship/custody/access* with a more granular framework distinguishing *guardianship* (decision-making rights), *custody* (day-to-day care), and *access* (contact). Same-sex parental rights, cohabitant-parent rights, and step-parent guardianship were significantly extended.
 
+**Contact enforcement.** Court-ordered *access* can be enforced via *attachment and committal* under the District Court Rules, or *contempt of court* in the Circuit Court. The 2015 Act introduced *parenting orders* and *enforcement orders* with structured escalation. The court can order *compensatory access* (additional access time to make up for missed visits) — useful in alienating-conduct cases where each missed visit needs to be both penalised and remedied.
 
+**The PA-construct question.** Irish family courts have not adopted *Parental Alienation Syndrome* as a diagnostic category. The [Psychological Society of Ireland (PSI)](https://www.psychologicalsociety.ie/) has not issued a positive endorsement. The High Court in [N. (Otherwise K.) v. K. [1986] ILRM 75](https://www.bailii.org/) and subsequent welfare-paramountcy decisions apply the underlying conduct (contact-interference patterns, denigration, manipulation) under the s.31 best-interests framework rather than as a syndrome. The 2022 [Family Justice Strategy](https://www.gov.ie/) reaffirmed this approach.
 
+**Hague Convention 1980 + Brussels IIb.** Ireland is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Department of Justice — Child Abduction Section](https://www.justice.ie/). Cross-border cases within the EU engage Brussels IIb (Regulation 2019/1111).
 
+**Get local counsel.** *Solicitor* and *barrister* are the divided-profession structure. The [Law Society of Ireland](https://www.lawsociety.ie/) and the [Bar of Ireland](https://www.lawlibrary.ie/) maintain family-law specialist directories. The [Family Lawyers Association of Ireland (FLAI)](https://www.flai.ie/) is the principal practitioner forum. *Legal Aid Board* civil legal aid is means-tested.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

@@ -74,87 +74,25 @@ Portuguese family-law decisions are anonymised per STJ convention using initials
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Portugal
 
+The operative framework is the [Código Civil arts. 1877 a 1922](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=775&tabela=leis) (*responsabilidades parentais* — terminology updated by Lei 61/2008 from the older *poder paternal*) and the [Regime Geral do Processo Tutelar Cível (RGPTC, Lei 141/2015)](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2384&tabela=leis). The principle is *exercício conjunto das responsabilidades parentais* with the *superior interesse da criança* as paramount.
 
+**Procedural pathway — the Tribunal de Família e Menores.** File at the *Juízo de Família e Menores* of the *Tribunal Judicial* of the child's *domicílio*. Procedure runs under the RGPTC with a *fase conciliatória* (Art. 35 RGPTC — mandatory conference attempt before contested adjudication) led by the judge and supported by the *Equipa Multidisciplinar de Assessoria aos Tribunais (EMAT)*. EMAT's social-psychological reports are highly influential.
 
+**Statutory recognition of *incumprimento*.** [RGPTC Art. 41 (*incumprimento*)](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=2384&tabela=leis) explicitly addresses non-compliance with parental-responsibility regimes: the court can apply *sanção pecuniária compulsória* (escalating fines), order *terapia familiar*, alter the regime in favour of the *progenitor cumpridor*, or refer for criminal prosecution. **Criminal exposure** lies under [Código Penal art. 249 — *subtração de menor*](https://www.pgdlisboa.pt/leis/lei_mostra_articulado.php?nid=109&tabela=leis), punishable by up to 5 years' imprisonment for serious systematic obstrucción.
 
+**Procedural specifics.** *Acordo de regulação das responsabilidades parentais* (parental-responsibility agreement) is the routine output; *judicial homologação* gives it executive force. *Audição da criança* (hearing the child) under Art. 5 RGPTC is mandatory from age 12 (and earlier if the child has *capacidade para compreender o assunto*). The [Comissão de Proteção de Crianças e Jovens (CPCJ)](https://www.cnpdpcj.gov.pt/) handles administrative child-protection track; the *Tribunal* handles judicial track.
 
+**The PA-construct question.** Portuguese family-court practice has been methodologically cautious about the *Síndrome de Alienação Parental* (SAP) label. The [Ordem dos Psicólogos Portugueses](https://www.ordemdospsicologos.pt/) and the [Sociedade Portuguesa de Psicologia Forense](https://www.spppf.pt/) have not adopted PAS as a diagnostic category. The dominant approach is to assess *alienação parental* as a *comportamento parental disfuncional* under the EMAT framework, not as a free-standing syndrome.
 
+**Hague Convention 1980 implementation.** Portugal is a Hague 1980 contracting state. The Autoridade Central operates through the [Direção-Geral da Reinserção e Serviços Prisionais (DGRSP)](https://dgrsp.justica.gov.pt/). Implementation has been substantial.
 
+**Get local counsel.** *Advogado* (Ordem dos Advogados) is mandatory in family proceedings. *Especialista em Direito da Família e das Crianças* via the [Ordem dos Advogados](https://portal.oa.pt/) is the recognised accreditation. *Apoio judiciário* (legal aid) is income-tested via the [Instituto da Segurança Social](https://www.seg-social.pt/). The [Associação Portuguesa de Mediadores de Conflitos (APMC)](https://www.apmcconflitos.org/) and the [Sistema de Mediação Familiar](https://www.dgaj.justica.gov.pt/) provide structured family mediation.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

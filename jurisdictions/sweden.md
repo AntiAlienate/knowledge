@@ -76,87 +76,25 @@ Swedish family-law decisions are anonymised per Högsta domstolen and Hovrätt c
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Sweden
 
+The operative framework is the [Föräldrabalken (FB)](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381/) — the Parental Code — particularly *kap. 6* on *vårdnad, boende och umgänge* (custody, residence and contact). The principle is *barnets bästa* (child's best interests) as paramount. Sweden's default position post-separation is *gemensam vårdnad* (joint custody) unless one parent is *uppenbart olämplig* (manifestly unsuitable) per FB 6:5.
 
+**The 2024 reform — *trygg uppväxt*.** The 2024 amendments to FB ch. 6 (in force 1 July 2024) introduced an explicit duty to consider *risk att barnet far illa* (risk that the child suffers harm) and substantially strengthened the court's authority to override the joint-custody default where one parent is engaging in conduct that harms the child's relationship with the other. This is the most significant post-Hague-2014 Swedish family-law reform.
 
+**Procedural pathway — the Tingsrätt.** Family disputes go to the *tingsrätt* (district court) of the child's *hemvist*. Procedure under [Rättegångsbalken](https://www.riksdagen.se/) follows the *familjerättsligt mål* track. **Mandatory cooperation talks** (*samarbetssamtal* under FB 5:3) at the *socialtjänst* (social services) precede contested litigation in most cases. *Familjerätten* (Family Law Office at the municipal social services) issues *upplysningar* (information statements) and *vårdnadsutredningar* (custody investigations) — these reports are the principal evidence base in contested matters.
 
+**Contact enforcement — FB 21 ch.** Where a court-ordered *umgänge* is being ignored, [FB kap. 21](https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/foraldrabalk-1949381_sfs-1949-381/) provides for *verkställighet*: escalating *vite* (fines), *hämtning* (police-supported handover in extremis), and ultimately *byte av boende* (change of residence). Swedish courts have been increasingly willing to use *byte av boende* where one parent's contact-obstruction is sustained and serious.
 
+**The PA-construct question.** The [Socialstyrelsen](https://www.socialstyrelsen.se/) and the [Sveriges psykologförbund](https://www.psykologforbundet.se/) have not endorsed *Parental Alienation Syndrome* as a diagnostic category. Swedish *socialtjänst* and family-court practice has consistently applied a behaviour-based analysis (*umgängessabotage* — contact sabotage) rather than syndrome labelling. The 2022 [Barnafrid](https://liu.se/en/research/barnafrid) National Centre report reinforced this methodological caution.
 
+**Hague Convention 1980 + Brussels IIb.** Sweden is a Hague 1980 contracting state and EU Member State. The Central Authority operates through the *Utrikesdepartementet* (Ministry of Foreign Affairs). Cross-border cases engage Brussels IIb.
 
+**Get local counsel.** *Advokat* (member of *Sveriges advokatsamfund*) is recommended for any contested family-court matter. The [Swedish Bar Association](https://www.advokatsamfundet.se/) maintains a family-law specialist directory. *Rättsskydd* (legal-expense insurance, typically included in home insurance) and *rättshjälp* (state legal aid, means-tested) cover most costs. *Familjerätten* at the municipal level provides free mediation support.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

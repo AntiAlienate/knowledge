@@ -72,87 +72,27 @@ Norwegian family-law decisions are anonymised per Høyesterett practice using in
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Norway
 
+The operative framework is the [Lov om barn og foreldre (Barneloven, 1981)](https://lovdata.no/dokument/NL/lov/1981-04-08-7) — the Children Act — particularly Chapter 5 on *foreldreansvar, fast bosted og samvær* (parental responsibility, fixed residence, contact). The principle is *barnets beste* (child's best interests) per Barneloven § 48. Norway's default is *felles foreldreansvar* (joint parental responsibility) unless welfare considerations require otherwise per § 35.
 
+**Procedural pathway — the Tingrett.** Family disputes go to the *tingrett* (district court) of the child's *bosted*. **Mandatory mediation** (*mekling*) at the [Familievernkontoret](https://www.bufdir.no/familie/familievernet/) precedes contested litigation under [Barneloven § 51](https://lovdata.no/) — both parents must obtain a *meklingsattest* before issuing. Exemptions apply for *vold i nære relasjoner* (intimate-partner violence) and welfare emergencies.
 
+**The post-2025 framework.** The 2024-2025 Barneloven amendments (in force 2025) strengthened the requirements for handling cases involving *vold* and *seksuelle overgrep* allegations, introducing a *risikovurdering* (risk assessment) step before contact decisions are made. This affects both genuine-DV cases and alienation patterns that masquerade as DV claims — the structured risk-assessment process is designed to surface the truth.
 
+**Contact enforcement — Barneloven § 65.** Where a court-ordered *samvær* is being ignored, [Barneloven § 65](https://lovdata.no/) provides for *tvangsbot* (coercive fines, set as a daily amount payable to the State per missed visit). The 2018 amendment raised the per-day maximum significantly. Where *tvangsbot* is ineffective and the obstruction is sustained, *flytting av fast bosted* (transfer of fixed residence) becomes the court's available remedy.
 
+**The PA-construct question.** The [Norsk psykologforening](https://www.psykologforeningen.no/) has been cautious about the *Parental Alienation Syndrome* label. The dominant Norwegian forensic-psychology framing is *bortmanipulering* / *samværssabotasje* (contact-manipulation / contact-sabotage) treated as a behavioural pattern. *Sakkyndig* (court-appointed expert) reports follow the [Den rettsmedisinske kommisjon](https://www.rettsmedisin.no/) methodology — argue the conduct, not the syndrome.
 
+**Hague Convention 1980 + Brussels IIb.** Norway is a Hague 1980 contracting state. As Norway is not an EU Member State, Brussels IIb does not directly apply — cross-border matters within the EEA use the [Lugano Convention](https://eur-lex.europa.eu/) for jurisdiction questions. The Central Authority operates through the [Justis- og beredskapsdepartementet](https://www.regjeringen.no/).
 
+**Criminal exposure.** [Straffeloven § 261 (omsorgsunndragelse)](https://lovdata.no/dokument/NL/lov/2005-05-20-28/) criminalises *omsorgsunndragelse* (withholding a minor from the person entitled to custody) — punishable by up to 2 years' imprisonment, raised to 6 years where the child is taken abroad. Serious systematic contact-obstruction can reach this threshold.
 
+**Get local counsel.** *Advokat* (member of *Den Norske Advokatforening*) is recommended for any contested family-court matter. The [Norwegian Bar Association](https://www.advokatforeningen.no/) maintains the family-law specialist directory. *Fri rettshjelp* (free legal aid, income-tested) and *rettshjelpsforsikring* cover most costs. *Familievernkontoret* provides free mediation.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 
