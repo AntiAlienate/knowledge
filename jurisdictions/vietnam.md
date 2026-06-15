@@ -66,6 +66,30 @@ Vietnamese family-court decisions are anonymised per Supreme People's Court prac
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Vietnam
+
+The operative framework is the [Luật Hôn nhân và Gia đình (Marriage and Family Law, Law No. 52/2014/QH13)](https://thuvienphapluat.vn/), particularly arts. 69–84 on *quyền và nghĩa vụ của cha mẹ* (rights and duties of parents) and arts. 81–84 on post-divorce *quyền nuôi con* (custody) and *quyền thăm con* (contact). The principle is *quyền và lợi ích hợp pháp của con* (rights and lawful interests of the child) per art. 81(3).
+
+**Default position.** Where parents are married, parental authority is jointly exercised per art. 69. On divorce, the court allocates *quyền nuôi con* (direct custody) to one parent — typically determined by the child's best interests, with consideration of children's age (under 3 there is a maternal-preference per art. 81(3)) and the child's expressed wishes from age 7+.
+
+**Procedural pathway — the Tòa án Nhân dân Cấp huyện.** Family disputes go to the *Tòa án Nhân dân cấp huyện* (district People's Court) of the defendant's residence (per the [Code of Civil Procedure 2015](https://thuvienphapluat.vn/) art. 39). For divorce-related custody, the divorce court has primary jurisdiction. The *Hội đồng nhân dân* and *Hội Liên hiệp Phụ nữ* (local Women's Union) often play informal mediating roles before contested adjudication.
+
+**Mandatory mediation.** Under Marriage and Family Law art. 52 and the [Mediation Law 2020](https://thuvienphapluat.vn/), most divorce-and-custody matters require *hòa giải* (mediation) before contested adjudication. The court-annexed mediation track at the *Tòa án* is the routine path.
+
+**Contact enforcement.** Where a court-ordered *quyền thăm con* (contact) is being ignored, the [Law on Enforcement of Civil Judgments 2008](https://thuvienphapluat.vn/) authorises *Chi cục Thi hành án dân sự* (Civil Judgment Enforcement Office) to enforce via *phạt hành chính* (administrative fines). Sustained obstruction is grounds for *thay đổi người trực tiếp nuôi con* (change of direct-custody parent) under art. 84.
+
+**Criminal exposure.** [Criminal Code 2015 art. 153](https://thuvienphapluat.vn/) (*tội chiếm đoạt người dưới 16 tuổi* — appropriation of a person under 16) is available for serious systematic abduction-pattern conduct, punishable by imprisonment from 3 to 7 years.
+
+**The PA-construct question.** The Vietnamese Psychology Association has not endorsed *Parental Alienation Syndrome* as a diagnostic category. Vietnamese family-court practice applies the *quyền và lợi ích hợp pháp của con* framework — child welfare is assessed through *Báo cáo của cán bộ tư pháp* (Court Officer's Report) rather than expert psychological reports in most cases.
+
+**Hague Convention 1980.** **Vietnam is not a Hague 1980 contracting state.** Cross-border parental abduction with Vietnam as origin or destination is litigated through Vietnamese courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases. Vietnam has acceded to some bilateral agreements on civil and criminal cooperation.
+
+**Get local counsel.** *Luật sư* (member of the [Vietnam Bar Federation (Liên đoàn Luật sư Việt Nam)](https://liendoanluatsu.org.vn/)) is required for court proceedings. The VBF maintains practitioner directories. *Trợ giúp pháp lý* (legal aid) is means-tested via the [National Legal Aid Agency](https://tgpl.moj.gov.vn/) under the Ministry of Justice.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Vietnam (Việt Nam)

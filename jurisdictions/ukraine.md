@@ -72,6 +72,30 @@ Ukrainian family-law decisions are anonymised per Supreme Court practice using i
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Ukraine
+
+The operative framework is the [Сімейний кодекс України (СК України — Family Code of Ukraine, 2002)](https://zakon.rada.gov.ua/laws/show/2947-14), particularly arts. 141–172 on *батьківські права та обов'язки* (parental rights and duties) and arts. 153–158 on *виховання* (upbringing) and *спілкування* (contact). The principle is *якнайкраще забезпечення інтересів дитини* (best interests of the child) per arts. 7 and 155.
+
+**Default — equal parental rights.** Both parents have equal rights and duties per SK art. 141 — the principle of *рівність батьків* (equality of parents) is constitutionally entrenched in Art. 51 of the Constitution. Either parent (or both) can apply to vary the post-separation arrangement.
+
+**The wartime context (2022–).** Since February 2022, the operational reality of Ukrainian family law has been shaped by the full-scale invasion. Many *суди* (courts) in occupied or contested territories have been displaced; the [Council of Judges of Ukraine](https://court.gov.ua/) has issued continuity guidance. Cross-border movement of children for refugee or evacuation reasons has generated unique jurisdictional issues — coordinated through the [Ministry of Social Policy](https://www.msp.gov.ua/) and the [Ombudsman for Children](https://npm.gov.ua/).
+
+**Procedural pathway — the Місцевий суд.** Family disputes go to the *місцевий суд* (local court) of the child's *місце проживання*. Procedure under the [Цивільний процесуальний кодекс (ЦПК — Code of Civil Procedure)](https://zakon.rada.gov.ua/) special family-procedure track. The *Служба у справах дітей* (Child Welfare Service — administrative agency) issues *висновок* (welfare reports) under SK art. 19; this report is highly influential and effectively required.
+
+**Contact enforcement.** Where a court-ordered *порядок участі у вихованні* (contact order) is being ignored, [Law of Ukraine "On Enforcement Proceedings"](https://zakon.rada.gov.ua/) authorises *Державну виконавчу службу* (State Enforcement Service) to enforce through escalating *штрафи* (fines). Sustained obstruction is grounds for *позбавлення батьківських прав* (deprivation of parental rights) under SK art. 164 — Ukrainian courts have been willing to use this remedy in egregious cases.
+
+**Criminal exposure.** [Кримінальний кодекс art. 146](https://zakon.rada.gov.ua/) (*незаконне позбавлення волі або викрадення*) and art. 169 (*незаконні дії щодо усиновлення*) provide criminal-track tools for serious abduction-pattern conduct.
+
+**The PA-construct question.** Ukrainian family-court practice has not adopted *Parental Alienation Syndrome* as a formal diagnostic category. Cases are litigated under the *якнайкраще забезпечення інтересів дитини* framework with the *Служба у справах дітей* report as evidence. The [Verkhovnyi Sud (Supreme Court)](https://supreme.court.gov.ua/) has applied behaviour-based analysis in recent decisions.
+
+**Hague Convention 1980 implementation.** Ukraine is a Hague 1980 contracting state via the 2006 accession. The Central Authority operates through the [Ministry of Justice](https://minjust.gov.ua/). **Wartime caveat:** Hague return proceedings involving Russia have been substantially impaired since 2022. For Hague matters with non-Russia contracting states, the procedure operates more or less normally despite the war, with the [Київський апеляційний суд](https://kia.court.gov.ua/) handling many international cases.
+
+**Get local counsel.** *Адвокат* (member of the [Національна асоціація адвокатів України (NAAU)](https://en.unba.org.ua/)) is recommended for any contested matter. The NAAU maintains family-law specialist directories. *Безоплатна правова допомога* (free legal aid) is income-tested via the [Coordination Centre for Legal Aid](https://legalaid.gov.ua/).
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Ukraine (Україна)

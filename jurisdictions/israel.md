@@ -73,6 +73,30 @@ Israeli family-court decisions are anonymised per published practice using eithe
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Israel
+
+Israel operates a **religion-pluralist personal-law architecture** unique among modern states: marriage and divorce are exclusively religious-court matters (Jewish, Muslim, Christian, Druze, Bahá'í courts), while custody, contact and maintenance can be heard in **either** the religious court that handled the divorce **or** the civil [Family Court (בית המשפט לענייני משפחה)](https://www.gov.il/) at the petitioner's election. This *concurrent jurisdiction* is the most distinctive feature of Israeli family law.
+
+**The operative civil framework.** The [Capacity and Guardianship Law 5722-1962 (חוק הכשרות המשפטית והאפוטרופסות)](https://www.nevo.co.il/) — particularly §§ 14–25 on parental responsibility — and the [Family Court Law 5755-1995](https://www.nevo.co.il/) provide the civil-court framework. The principle is *טובת הילד* (welfare of the child) per § 17 — codified as the *paramount consideration*.
+
+**Procedural pathway — the Family Court vs religious court.** The applicant's election binds for the duration of the proceedings (*sa'if 25* doctrine — the *race to file* is operationally critical). **Practical implication:** if the other parent files first in a religious court that applies a different welfare standard, jurisdiction is locked there. *Take procedural advice quickly.* The Family Court applies civil welfare-paramountcy; religious courts apply their respective religious-law standards.
+
+**The Tender Years Doctrine — abolished in 2023.** Until 2023, Capacity and Guardianship Law § 25 contained a maternal-preference presumption for children under 6 (the *Tender Years Doctrine* / *חזקת הגיל הרך*). **The 2023 amendment (Law 8230) abolished this presumption** for civil-court matters. Religious courts continue to apply their own doctrines (which vary). This is the most significant Israeli family-law reform since 1995.
+
+**The Yechidah la-Sayuah (welfare service).** The Family Court is supported by the *יחידת הסיוע ליד בית המשפט לענייני משפחה* (Welfare Service to the Family Court — equivalent of a CAFCASS unit). Welfare assessments by *עובדי הסעד* (social workers) carry significant weight. The court can also order *תסקיר* (welfare report) from the *רישוי משפטים* network.
+
+**Contact enforcement.** Court-ordered *הסדרי קשר* (contact arrangements) can be enforced via *הפרת צו בית משפט* (breach of court order) proceedings, *קנס* (fines), and ultimately *מאסר על תנאי* (suspended imprisonment). Criminal exposure under [Penal Law 5737-1977 § 373 (חטיפת קטין)](https://www.nevo.co.il/) (abduction of a minor) is available for serious systematic obstruction — punishable by up to 7 years' imprisonment.
+
+**The PA-construct question.** The [Israeli Psychological Association](https://www.psychology.org.il/) has been methodologically cautious. Israeli civil-court practice (Family Court and Supreme Court Family Appeals Division) has applied behaviour-based analysis under the *טובת הילד* framework. The 2022 [Schnit Committee Report](https://www.gov.il/) on family-law reform reinforced this approach.
+
+**Hague Convention 1980 implementation.** Israel is a Hague 1980 contracting state via the [Hague Convention Return of Abducted Children Law 5751-1991](https://www.nevo.co.il/). The Central Authority operates through the [Ministry of Justice — State Attorney's Office](https://www.gov.il/). Hague return proceedings go to the Family Court — known for expeditious handling.
+
+**Get local counsel.** *Orech Din* (advocate, member of the [Israel Bar Association](https://www.israelbar.org.il/)) with family-law practice. The IBA Family Law Committee maintains specialist directories. *Sayuah Mishpati* (legal aid) is means-tested via the Ministry of Justice. Religious-court matters require an advocate with that court's specific qualifications (e.g., *Toena rabbanit* for the Rabbinical Court).
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Israel (ישראל / إسرائيل)

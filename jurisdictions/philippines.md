@@ -74,6 +74,32 @@ Philippine family-law decisions of higher courts (CA, SC) are typically publishe
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in the Philippines
+
+The operative framework is the [Family Code of the Philippines (Executive Order 209 of 1987, as amended)](https://www.officialgazette.gov.ph/), particularly arts. 209–233 on *parental authority and responsibility* (*patria potestas*). The principle is the *best interests of the child* — codified across multiple statutes including [Republic Act No. 7610 — Special Protection of Children Against Child Abuse, Exploitation and Discrimination Act](https://lawphil.net/statutes/repacts/ra1992/ra_7610_1992.html) and [RA 9523, RA 9344](https://lawphil.net/).
+
+**Default position.** Both parents jointly exercise parental authority per Family Code art. 211 — the *patria potestas* is shared. In case of disagreement, the *father's decision* historically prevailed (an old patriarchal default), but the [Supreme Court in Pacaña-Contreras v Rovira G.R. No. 168785 (2013)](https://sc.judiciary.gov.ph/) has consistently elevated the *best interests* override.
+
+**No divorce in Philippine law.** This is the critical fact for foreign parents: **the Philippines has no general divorce statute** — Muslims excepted under [Presidential Decree 1083 (Code of Muslim Personal Laws)](https://lawphil.net/). Marriages are dissolved only via *annulment* (Family Code arts. 35-54) or *declaration of nullity* (Family Code art. 36 — psychological incapacity). Custody disputes therefore arise typically in *legal separation* or *annulment* proceedings, or where parents were never married (where art. 176 RA 9255 governs).
+
+**Procedural pathway — the Regional Trial Court.** Family-law matters go to the *Regional Trial Court — Family Court* designated under [RA 8369 — Family Courts Act of 1997](https://lawphil.net/statutes/repacts/ra1997/ra_8369_1997.html) at the petitioner's domicile. *Social Welfare Officer* (SWO) reports under RA 7610 are highly influential.
+
+**The tender years rule.** [Family Code art. 213](https://www.officialgazette.gov.ph/) provides that **no child under 7 shall be separated from the mother** unless the court finds compelling reasons otherwise. This is more rigid than corresponding doctrines in most common-law jurisdictions. The Supreme Court has applied it consistently while allowing limited exceptions (*Sombong v Court of Appeals* G.R. No. 111876, 1996).
+
+**Contact enforcement.** Court-ordered visitation can be enforced via *contempt of court* under [Rule 71 of the Revised Rules of Court](https://lawphil.net/). The [Family Court Act](https://lawphil.net/) provides for specialised handling. Sustained obstruction is grounds for modification of custody, but transfers to the targeted parent require strong evidence given the strong art. 213 maternal-preference.
+
+**Criminal exposure.** [Revised Penal Code arts. 270–271](https://lawphil.net/) (*kidnapping and serious illegal detention of a minor* and *inducing a minor to abandon his home*) provide criminal-track tools. RA 7610 provides additional protection-pattern offences.
+
+**The PA-construct question.** The [Psychological Association of the Philippines](https://www.pap.ph/) has not endorsed *Parental Alienation Syndrome* as a diagnostic category. Philippine family-court practice applies the *best interests of the child* framework with the *SWO report* as evidence. The Supreme Court has not endorsed PAS as a syndrome.
+
+**Hague Convention 1980 implementation.** The Philippines acceded to the Hague Convention in 2016. The Central Authority operates through the [Office of the Court Administrator, Supreme Court](https://sc.judiciary.gov.ph/). Implementation is recent and developing; expect procedural variability.
+
+**Get local counsel.** *Attorney* (member of the [Integrated Bar of the Philippines (IBP)](https://www.ibp.ph/)) with Family Court practice. The IBP Family Law Committee maintains specialist directories. *Public Attorney's Office (PAO)* provides means-tested legal representation. The [Philippine Association of Family Law Practitioners](https://www.papflp.com/) is a key practitioner forum.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Philippines

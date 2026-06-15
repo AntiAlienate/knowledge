@@ -79,6 +79,34 @@ Russian family-court decisions are anonymised per Supreme Court practice using i
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Russia
+
+The operative framework is the [Семейный кодекс Российской Федерации (СК РФ — Family Code, 1995)](http://www.consultant.ru/document/cons_doc_LAW_8982/), particularly arts. 61–68 on *родительские права* (parental rights) and arts. 65–66 on the structure of joint exercise and contact. The principle is *интересы ребёнка* (interests of the child) per art. 65(2).
+
+**Default position.** Both parents have equal rights and duties; *совместное осуществление родительских прав* (joint exercise of parental rights) continues by operation of law after separation per art. 61. The 2021 amendment to art. 66 strengthened the right of the non-resident parent to participate in *воспитание* (upbringing) and *образование* (education) decisions.
+
+**Procedural pathway — the Mировой суд / Pайонный суд.** Family disputes go to:
+- *Мировой суд* (Magistrate Court) — for non-contested custody / contact matters
+- *Pайонный суд* (District Court) — for contested custody, divorce-related parenting, complex matters
+
+Procedure under the [Гражданский процессуальный кодекс (ГПК РФ — Code of Civil Procedure)](http://www.consultant.ru/) special family-procedure track. *Орган опеки и попечительства* (Guardianship and Trusteeship Body — administrative agency under each *Муниципалитет*) appears as the statutory child-welfare body and conducts welfare assessments. Their *заключение* (conclusion) is highly influential under SK art. 78.
+
+**Contact enforcement.** Where a court-ordered *порядок общения* (contact order) is being ignored, the [Федеральный закон №229-ФЗ "Об исполнительном производстве"](http://www.consultant.ru/) provides for *судебных приставов-исполнителей* (court-appointed bailiffs) to enforce. Escalating penalties under the [Кодекс об административных правонарушениях (КоАП) art. 5.35](http://www.consultant.ru/) (*неисполнение родителями обязанностей по воспитанию*) start with administrative fines and escalate to *лишение родительских прав* (deprivation of parental rights) under SK art. 69 in extreme cases.
+
+**The 2020 constitutional amendment.** The 2020 constitutional amendments elevated *защита детей* (protection of children) and the family as a "union of a man and a woman" to constitutional rank (Art. 67.1). Practical implication: same-sex parental claims face additional constitutional barriers; international removal cases involving same-sex families have been litigated against a hostile constitutional backdrop.
+
+**Criminal exposure.** [Уголовный кодекс art. 126](http://www.consultant.ru/) (*похищение человека* — kidnapping, applicable to minor abduction) and art. 156 (*неисполнение обязанностей по воспитанию*) are available for serious systematic conduct. Imprisonment of up to 15 years for serious kidnapping cases.
+
+**The PA-construct question.** The [Российское психологическое общество](http://psyrus.ru/) has not formally endorsed *Синдром отчуждения родителя* (PAS) as a diagnostic category. Russian family-court practice applies the *интересы ребёнка* framework with the *орган опеки* report as the principal evidence base, treating alienating conduct behaviourally rather than diagnostically.
+
+**Hague Convention 1980 implementation.** Russia acceded to the Hague Convention in 2011 via [Federal Law N 102-FZ](http://www.consultant.ru/). The Central Authority operates through the [Министерство просвещения](https://edu.gov.ru/). **However**, since 2022 the practical implementation of Hague return proceedings between Russia and EU/G7 states has been substantially impaired by sanctions, diplomatic restrictions, and selective enforcement. Cross-border PA cases with Russia have become significantly more difficult to litigate via Hague channels.
+
+**Get local counsel.** *Адвокат* (member of the [Федеральная палата адвокатов](https://fparf.ru/)) is recommended for any contested matter. The Federal Bar Chamber and regional Bar Associations maintain practitioner directories. *Бесплатная юридическая помощь* (free legal aid) is means-tested via the [Министерство юстиции](https://minjust.gov.ru/) gosuslugi portal.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Russia (Russian Federation / Российская Федерация)
