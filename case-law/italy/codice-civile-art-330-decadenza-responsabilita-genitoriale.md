@@ -1,0 +1,75 @@
+---
+title: "Codice Civile, art. 330 — Decadenza dalla responsabilità genitoriale sui figli"
+jurisdiction: italy
+type: statute
+citation: "Codice Civile, art. 330"
+date_in_force: "1942-03-16"
+last_amended: "current (Lex 219/2012 + D.lgs. 154/2013 'responsabilità genitoriale' terminology)"
+status: in-force
+authoritative_url: https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art330.html
+tags:
+  - decadenza
+  - responsabilita-genitoriale
+  - grave-pregiudizio
+  - allontanamento
+  - maximum-remedy
+pa_relevance: high
+---
+
+# Codice Civile, art. 330 — Decadenza dalla responsabilità genitoriale sui figli
+
+**Jurisdiction:** Italy · **Citation:** Codice Civile, art. 333 · **Authoritative source:** [brocardi.it — art. 330](https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art330.html)
+
+The **maximum civil-law remedy** in Italian family law against parental misconduct: *decadenza dalla responsabilità genitoriale* (deprivation of parental authority). Applies only at the higher threshold of *grave pregiudizio* (serious prejudice) to the child — a threshold the Cassazione has interpreted as requiring sustained and severe violations of parental duties. Most-severe-cases tool in PA litigation; rarely invoked at first instance, but central to the doctrine's overall architecture.
+
+## Verbatim text (current consolidated)
+
+> **Art. 330 — Decadenza dalla responsabilità genitoriale sui figli**
+>
+> Il giudice può pronunziare la decadenza dalla responsabilità genitoriale quando il genitore viola o trascura i doveri ad essa inerenti o abusa dei relativi poteri con grave pregiudizio del figlio.
+>
+> In tale caso, per gravi motivi, il giudice può ordinare l'allontanamento del figlio dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore.
+
+## English working translation
+
+> **Art. 330 — Deprivation of parental authority over the children**
+>
+> The judge may pronounce the deprivation of parental authority when the parent violates or neglects the duties inherent in it, or abuses the related powers with serious prejudice to the child.
+>
+> In such a case, for serious reasons, the judge may order the removal of the child from the family residence, or the removal of the parent or cohabitant who mistreats or abuses the minor.
+
+## Why this matters for PA
+
+- **The maximum-tier remedy.** Italian civil law has a three-step graduated response to parental misconduct: (1) [art. 333](codice-civile-art-333-condotta-pregiudizievole.md) — *provvedimenti convenienti* against *pregiudizievole* conduct; (2) **art. 330 — decadenza** for the higher *grave pregiudizio* threshold; (3) [art. 332](https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art332.html) — *reintegrazione* when conditions are met. The Cassazione applies a graduated-escalation doctrine: art. 333 first, escalation to art. 330 only when intermediate measures fail.
+- **Three-element threshold.** Art. 330 requires: (a) *violazione* (violation) OR *trascuranza* (neglect) OR *abuso* (abuse) of parental duties or powers; (b) *grave* (serious) — the severity qualifier; (c) *pregiudizio* (prejudice) to the child. The Cassazione has held that all three elements must coexist; mere violation without *grave pregiudizio* falls under art. 333 not 330.
+- **Use in PA cases.** Decadenza is invoked in the most extreme alienation-pattern cases — where sustained alienating conduct over years has caused documented serious harm to the child, and where intermediate measures under art. 333 have demonstrably failed. The [Cassazione Sez. I civile](https://www.cortedicassazione.it/) has applied art. 330 in cases such as Cass. ord. n. 23804/2022 (sustained alienating conduct + refusal to engage with therapeutic intervention).
+- **Allontanamento — second clause.** As under art. 333, the court can also order *allontanamento* — but under art. 330 it is gated by *gravi motivi* (serious reasons). In sustained-PA cases that have reached the art. 330 threshold, *allontanamento* of the alienating parent is one of the principal remedies available.
+- **Effect on parental authority — note on terminology.** Pre-2013 the article spoke of *potestà genitoriale*; the [D.lgs. 154/2013](https://www.brocardi.it/) replaced this with *responsabilità genitoriale* (parental responsibility) — a shift in legal-doctrinal framing emphasising duty over power. *Decadenza* under art. 330 deprives the parent of decision-making authority but not of the underlying status of *genitore*; *adozione* (adoption) under separate legislation severs the underlying status.
+
+## Procedural application post-Riforma Cartabia (2022-2026)
+
+- Pre-Cartabia, decadenza proceedings ran exclusively in the *Tribunale per i Minorenni*. After the [Riforma Cartabia (D.lgs. 149/2022)](https://www.brocardi.it/), competence will pass to the new *Tribunale della Famiglia* during the 2024-2026 transition.
+- *Pubblico Ministero* has standing to bring decadenza proceedings; this is the principal procedural route in cases where the child-welfare interest is best advanced through prosecution rather than direct litigation by the targeted parent.
+- The substantive criminal liability for the harmful conduct (e.g. art. 572 c.p. *maltrattamenti contro familiari e conviventi*) often runs in parallel; criminal conviction is *strong evidence* but not a *prerequisite* for art. 330 decadenza.
+
+## Relationship to art. 333 (pregiudizievole)
+
+- Art. 333 (lower-tier) — *condotta pregiudizievole*; flexible *provvedimenti convenienti*; revocable.
+- Art. 330 (higher-tier) — *decadenza dalla responsabilità genitoriale*; requires *grave pregiudizio*; finalisation requires art. 332 reintegrazione proceedings.
+- The Cassazione's graduated-escalation doctrine means art. 333 must usually be exhausted (or shown demonstrably inadequate) before art. 330 is sought.
+
+## Use in alienating-conduct cases (apex jurisprudence)
+
+- [Cass. Sez. I civile, ord. n. 13217/2021](https://www.cortedicassazione.it/) — rejected SAP diagnostic framing while reaffirming the art. 330/333 graduated framework for sustained-alienation cases.
+- [Cass. Sez. I civile, ord. n. 9691/2022](https://www.cortedicassazione.it/) — applied art. 333 *allontanamento* in a PA-pattern case; affirmed that PA-pattern conduct can justify graduated-tier remedy without recourse to syndrome diagnosis.
+- [Cass. Sez. I civile, ord. n. 23804/2022](https://www.cortedicassazione.it/) — applied art. 330 decadenza in extreme sustained-PA case where art. 333 measures had been refused/circumvented.
+
+## Related entries
+
+- [Codice Civile, art. 316 — Responsabilità genitoriale](codice-civile-art-316-responsabilita-genitoriale.md)
+- [Codice Civile, art. 333 — Condotta pregiudizievole (intermediate)](codice-civile-art-333-condotta-pregiudizievole.md)
+- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
+- [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
+- [Codice Civile, art. 337-quater — Affidamento esclusivo](codice-civile-art-337-quater-affidamento-esclusivo.md)
+- [Codice Civile, art. 337-sexies — Casa familiare e residenza](codice-civile-art-337-sexies-family-home-and-residence.md)
+- [Codice Civile, art. 337-septies — Figli maggiorenni](codice-civile-art-337-septies-figli-maggiorenni.md)
