@@ -75,6 +75,32 @@ Malaysian family-law decisions are anonymised per Federal Court practice; Syaria
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Malaysia
+
+Malaysia operates a **religion-pluralist personal-law architecture** with two parallel court systems for family matters:
+- **Mahkamah Syariah** (Sharia courts) — for Muslims (~60% of the population), state-by-state administration under each state's *Enakmen Undang-Undang Keluarga Islam*.
+- **Mahkamah Sivil** (Civil courts — High Court of Malaya / High Court of Sabah and Sarawak) — for non-Muslims governed by the [Law Reform (Marriage and Divorce) Act 1976 (Act 164)](https://www.kpwkm.gov.my/) and the [Guardianship of Infants Act 1961 (Act 351)](https://www.kpwkm.gov.my/).
+
+The principle is the *welfare of the child as paramount* — codified in GIA 1961 s.11 (civil court) and elaborated in each state's Sharia family-law enactment.
+
+**Procedural pathway — choice of court.** Determined by religion of the parents. **Critical cross-religion issue:** where one parent converts to Islam after marriage and disputes arise, jurisdictional conflicts between Mahkamah Syariah and Mahkamah Sivil have generated significant case law. The [Federal Court in Indira Gandhi a/p Mutho v Pengarah Jabatan Agama Islam Perak [2018] 1 MLJ 545](https://www.kehakiman.gov.my/) clarified that the Mahkamah Sivil has jurisdiction over child custody where the marriage was contracted under civil law, even if one parent has subsequently converted.
+
+**Substantive framework — civil courts.** GIA 1961 ss.5–11 govern guardianship; LRA 1976 ss.92–101 govern custody on divorce. The principle is welfare-paramountcy. The [Federal Court in Mahabir Prasad v Mahabir Prasad [1981] 2 MLJ 326](https://www.kehakiman.gov.my/) and subsequent decisions establish: (a) the maternal-preference for *tender years* children (under 7) is rebuttable, not absolute, (b) the wishes of children of sufficient age are considered, (c) economic disparity between parents is not determinative.
+
+**Substantive framework — Sharia courts.** Each state's *Enakmen Undang-Undang Keluarga Islam* applies *hadhanah* (custody) under classical Islamic law, with state-level variations. The *Jabatan Kehakiman Syariah Malaysia (JKSM)* coordinates Sharia-court practice federally.
+
+**Contact enforcement.** Civil court orders are enforceable via contempt of court (LRA 1976 s.102; civil contempt jurisdiction). The Federal Court has been increasingly willing to use contempt to enforce contact in obstruction cases. Criminal exposure under [Penal Code (Act 574) s.361](https://www.agc.gov.my/) (*kidnapping from lawful guardianship*) is available where the obstruction reaches abduction threshold — punishable by up to 7 years' imprisonment.
+
+**The PA-construct question.** The [Malaysian Psychiatric Association](https://psychiatry-malaysia.org/) and the Malaysian Society of Clinical Psychology have not adopted *Parental Alienation Syndrome* as a diagnostic category. Malaysian family-court practice (civil) has applied behaviour-based analysis under the welfare-paramountcy framework without endorsing the syndrome construct.
+
+**Hague Convention 1980.** **Malaysia is not a Hague 1980 contracting state.** Cross-border parental abduction with Malaysia as origin or destination is litigated through Malaysian courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases.
+
+**Get local counsel.** *Advocate and solicitor* (member of the [Malaysian Bar](https://www.malaysianbar.org.my/)) for civil court matters; *Peguam Syarie* for Mahkamah Syariah matters. The Malaysian Bar Family Law Committee maintains practitioner directories. *Legal aid* is means-tested via the [Legal Aid Department (Jabatan Bantuan Guaman)](https://www.jbg.gov.my/) and the [Bar Council Legal Aid Centre (BCLAC)](https://www.malaysianbar.org.my/).
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Malaysia

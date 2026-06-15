@@ -127,6 +127,28 @@ Family Court of New Zealand proceedings under the Care of Children Act 2004 are 
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in New Zealand
+
+The operative framework is the [Care of Children Act 2004 (CoCA)](https://www.legislation.govt.nz/act/public/2004/0090/latest/) — particularly s.4 (welfare and best interests of the child as paramount), s.5 (principles relevant to welfare and best interests, including the s.5(f) *Treaty of Waitangi / tikanga Māori* considerations unique to NZ), and ss.40–48 on *parenting orders*.
+
+**Procedural pathway — the Family Court.** Family disputes go to the *Family Court* (a specialist division of the District Court) at the child's habitual residence. The Family Court Reform Act 2013 introduced *mandatory pre-court Family Dispute Resolution (FDR)* under the [Family Dispute Resolution Act 2013](https://www.legislation.govt.nz/act/public/2013/0079/latest/) — both parents must attend an FDR conference and obtain a *certificate* before issuing in most parenting matters. Exemptions apply for urgency, family violence, and child-protection concerns.
+
+**The Lawyer for the Child.** Under CoCA s.7, the Family Court can appoint a *Lawyer for the Child* — the structural counter-balance to alienating-parent influence. This is roughly equivalent to England's Children's Guardian; the Lawyer for the Child meets the child, files a report, and advocates for the welfare-and-best-interests outcome regardless of either parent's position.
+
+**The Treaty of Waitangi dimension.** Under CoCA s.5(f), the court must consider the child's connection with their *whānau, hapū and iwi* — Māori extended-family structures. In alienation cases involving a Māori child or whānau, this is a critical pleading point: alienating-parent conduct that severs the child's connection with their *whakapapa* (lineage) is a freestanding welfare concern in NZ law that doesn't exist in most other jurisdictions.
+
+**Contact enforcement.** Where a *parenting order* is being ignored, [CoCA ss.68–73](https://www.legislation.govt.nz/) authorise progressive enforcement: *admonishment*, *bond for compliance*, *community work*, *fine*, and ultimately *variation* or *transfer of day-to-day care*. The Family Court has been increasingly willing to use the *variation of day-to-day care* remedy in sustained-obstruction cases. Criminal exposure under [Crimes Act 1961 s.210](https://www.legislation.govt.nz/act/public/1961/0043/latest/) (*abduction of young person under 16*) is available where the obstruction reaches systematic abduction-pattern threshold.
+
+**The PA-construct question.** The [New Zealand Psychological Society](https://www.psychology.org.nz/) has been methodologically cautious about the *Parental Alienation Syndrome* label. The dominant NZ forensic-psychology framing is *contact-resistance* and *contact-refusal* treated as behavioural patterns under the CoCA s.5 welfare-principles framework. The [Court of Appeal in R v G (2008) NZFLR 235](https://www.bailii.org/) and subsequent decisions have applied behaviour-based analysis without endorsing the syndrome construct.
+
+**Hague Convention 1980 implementation.** New Zealand is a Hague 1980 contracting state. The Central Authority operates through the [Ministry of Justice](https://www.justice.govt.nz/family/looking-after-children/care-of-children/international-child-abduction/). NZ Hague-Convention practice is well-developed and the courts move quickly on return applications.
+
+**Get local counsel.** *Lawyer* (admitted to the bar by the New Zealand Law Society) with Family Court practice. The [New Zealand Law Society](https://www.lawsociety.org.nz/) maintains family-law specialist directories. *Legal aid* is means-tested via [Legal Services Agency](https://www.justice.govt.nz/courts/going-to-court/legal-aid/). The [Family Law Section](https://www.lawsociety.org.nz/practice-areas/family-law) is the principal practitioner forum.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in New Zealand (Aotearoa New Zealand)

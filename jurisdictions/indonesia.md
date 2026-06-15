@@ -75,6 +75,37 @@ Indonesian family-court decisions are anonymised per Mahkamah Agung practice usi
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Indonesia
+
+Indonesia operates a **religion-pluralist personal-law architecture** with three concurrent court systems for family matters:
+- **Pengadilan Agama** (Religious / Sharia courts) — for Muslims (~87% of the population) governed by the [Kompilasi Hukum Islam (KHI)](https://www.hukumonline.com/) under [Undang-Undang No. 1 Tahun 1974 tentang Perkawinan](https://peraturan.bpk.go.id/) as amended by UU 16/2019.
+- **Pengadilan Negeri** (General courts) — for non-Muslims governed by *Burgerlijk Wetboek* (Dutch civil-code inheritance) and the 1974 Marriage Law.
+- **Pengadilan Tata Usaha Negara** — administrative court, relevant only for state-act review.
+
+The principle is *kepentingan terbaik bagi anak* (best interests of the child) per [Undang-Undang No. 35 Tahun 2014](https://peraturan.bpk.go.id/) (Perlindungan Anak — Child Protection Law, amending UU 23/2002).
+
+**Procedural pathway — choice of court.** Determined by the religion of the parties at the time of marriage. For Muslim parents, file *gugatan hak asuh anak* (custody application) at the Pengadilan Agama of the child's habitual residence. For non-Muslims, file at the Pengadilan Negeri. *Pengadilan Tinggi* (High Court) is the appellate forum; the [Mahkamah Agung (Supreme Court)](https://www.mahkamahagung.go.id/) is final.
+
+**Substantive framework.** The 1974 Marriage Law and the KHI distinguish:
+- *Hak hadlanah* (custody — typically maternal-preference for children under 12 in Islamic law)
+- *Hak walayah* (guardianship — typically paternal in Islamic law)
+- *Hak nafkah* (maintenance — primary parental duty)
+- *Hak kunjungan* (contact / visitation rights)
+
+The presumption shifts at age 12 ([KHI art. 105](https://www.hukumonline.com/)) when the child can elect parental preference. The [Mahkamah Konstitusi](https://www.mkri.id/) and Mahkamah Agung have increasingly applied the *kepentingan terbaik anak* override to the default presumptions.
+
+**Contact enforcement.** Court orders are enforceable via the *eksekusi* mechanism through the *Panitera* of the issuing court. The 2024 Mahkamah Agung Peraturan No. 5 strengthened enforcement against contempt of family-court orders. Criminal exposure under [KUHP art. 330](https://www.kuhp.online/) (*menarik orang yang belum dewasa dari kekuasaan yang sah*) is available where the obstruction reaches abduction threshold — punishable by up to 7 years' imprisonment.
+
+**The PA-construct question.** Indonesian family-court practice has been methodologically cautious about *Parental Alienation Syndrome* labels. The [Himpunan Psikologi Indonesia (HIMPSI)](https://himpsi.or.id/) has not adopted PAS as a diagnostic category. The dominant Indonesian forensic-psychology framing is *perilaku alienasi orangtua* (parental-alienation behaviour) treated as a pattern of conduct under the UU 35/2014 child-welfare framework.
+
+**Hague Convention 1980.** **Indonesia is not a Hague 1980 contracting state.** Cross-border parental abduction with Indonesia as origin or destination is litigated through Indonesian Pengadilan Negeri / Agama or via diplomatic channels rather than Hague return proceedings.
+
+**Get local counsel.** *Advokat* (member of [PERADI](https://www.peradi.or.id/) — Perhimpunan Advokat Indonesia) is mandatory in court proceedings. Specialisation via [APSI](https://apsi.or.id/) (Asosiasi Pengacara Syariah Indonesia) for Pengadilan Agama matters. *Bantuan hukum* (legal aid) is means-tested via UU 16/2011 on Legal Aid. *Lembaga Bantuan Hukum (LBH)* network provides pro-bono representation in human-rights-related family matters.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Indonesia

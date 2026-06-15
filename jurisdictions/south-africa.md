@@ -123,6 +123,28 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in South Africa
+
+The operative framework is the [Children's Act 38 of 2005](https://www.justice.gov.za/legislation/acts/2005-038%20childrensact.pdf), particularly s.7 (best-interests-of-the-child checklist), s.18 (parental responsibilities and rights), and ss.21–22 (acquisition of full parental responsibilities and rights by unmarried fathers — substantially expanded from common-law position). The Constitution of the Republic of South Africa 1996 s.28(2) elevates the *paramountcy of the child's best interests* to constitutional rank.
+
+**Procedural pathway — the Children's Court / High Court.** *Children's Court* (a court of the Magistrate's Court division) handles routine parenting matters under the Children's Act. *High Court* (any Division) has *upper guardian* jurisdiction over every minor in its area and concurrent jurisdiction in complex cases. *Family Advocate* (an officer of the [Office of the Family Advocate](https://www.justice.gov.za/familyadv/famadvoc.htm) under the Department of Justice) provides the structural counter-balance: an independent welfare investigation, equivalent of England's Children's Guardian. The Family Advocate's report is highly influential.
+
+**Mandatory mediation.** Under the [Mediation in Certain Divorce Matters Act 24 of 1987](https://www.justice.gov.za/legislation/acts/1987-024.pdf) and the Children's Act ss.33–34, *parenting plan mediation* is required for most contested matters. Where parents reach agreement, the *parenting plan* is registered with the Family Advocate or made an order of court — becoming enforceable as an order.
+
+**Contact enforcement.** Where a parenting plan or court order is being ignored, the court can hold the obstructing parent in *contempt of court* under common-law contempt jurisdiction. Sentences include fines, suspended imprisonment, or — in the most severe cases — actual imprisonment. The Children's Court can also vary the *parental responsibilities and rights* allocation, transferring *primary residence* or *contact* arrangements to favour the targeted parent.
+
+**The PA-construct question.** The [Health Professions Council of South Africa (HPCSA)](https://www.hpcsa.co.za/) has not endorsed *Parental Alienation Syndrome* as a diagnostic category. South African family-court practice has applied the behavioural-pattern framing under the Children's Act s.7 best-interests checklist — particularly s.7(1)(b) (*the attitude of the parents... towards the child*), s.7(1)(c) (*capacity of the parents... to provide... the emotional needs of the child*), and s.7(1)(f) (*need to remain in the care of his or her parent*).
+
+**Constitutional dimensions.** The Constitutional Court in *De Reuck v Director of Public Prosecutions, WLD* 2004 (1) SA 406 (CC) elevated the s.28(2) paramountcy principle. Subsequent jurisprudence including *S v M* 2008 (3) SA 232 (CC) (Sachs J) applies this in custody contexts.
+
+**Hague Convention 1980.** South Africa is a Hague 1980 contracting state. The Central Authority operates through the [Office of the Chief Family Advocate](https://www.justice.gov.za/familyadv/famadvoc.htm).
+
+**Get local counsel.** *Attorney* and *advocate* are the divided-profession structure. The [Law Society of South Africa](https://www.lssa.org.za/) and the [General Council of the Bar](https://www.sabar.co.za/) maintain practitioner directories. The [Family Law Forum](https://www.familylawforum.org.za/) and individual provincial law society family-law committees provide accreditation. *Legal aid* is means-tested via [Legal Aid South Africa](https://www.legal-aid.co.za/).
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in South Africa (Republic of South Africa)
