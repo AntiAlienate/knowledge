@@ -75,3 +75,35 @@ The complete statutory rejection is reinforced by Article 26.1.a) (within the *p
 - [Germany — BVerfG 1 BvR 1076/23 (2023)](../../case-studies/bverfg-1-bvr-1076-23-germany-2023.md)
 - [Brazil — Lei 12.318/2010 verbatim](../brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md)
 - [UK — Re C [2023] EWHC 345 (Fam)](../united-kingdom/re-c-2023-ewhc-345-fam.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Syndrome Complete Guide](https://www.antialienate.com/blog/parental-alienation-syndrome-complete-guide)
+- [Adult Children Of Parental Alienation](https://www.antialienate.com/blog/adult-children-of-parental-alienation)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Parental Alienation Belgium Complete Legal Guide](https://www.antialienate.com/blog/parental-alienation-belgium-complete-legal-guide)
+- [Parental Alienation Uk Complete Guide](https://www.antialienate.com/blog/parental-alienation-uk-complete-guide)
+
+<!-- AA-CROSSLINK-END -->

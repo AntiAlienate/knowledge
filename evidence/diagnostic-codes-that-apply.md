@@ -208,7 +208,7 @@ The U.S. transition timetable for [ICD-11](https://icd.who.int/) remains under C
 The defensive practice that has emerged across reputable forensic-evaluator training in the United States and Canada is:
 
 1. Document the **specific observable conduct** of each parent and the **specific observable distress** of the child.
-2. Cross-reference that conduct to the **DSM-5 verbatim examples** (e.g., "berating, disparaging, humiliating" → V995.51 example; "unwarranted feelings of estrangement" → V61.20 example).
+2. Cross-reference that conduct to the **[DSM-5](https://www.appi.org/products/dsm) verbatim examples** (e.g., "berating, disparaging, humiliating" → V995.51 example; "unwarranted feelings of estrangement" → V61.20 example).
 3. Code the relational problem (V61.20 / Z62.820 + V61.29 / Z62.898) **always**, where the relational pattern is documented.
 4. Code child psychological abuse (V995.51 / T74.32XA "Confirmed" or T76.32XA "Suspected") **only when the evaluator has independent evidence sufficient to meet the "significant psychological harm or reasonable potential to result in significant psychological harm" threshold,** and after differential-diagnosis ruling-out of estrangement secondary to actual maltreatment by the rejected parent.
 5. Cite the **APSAC 2022 differential-diagnosis position** (see §4 below) as the standard for the ruling-out step.
@@ -337,7 +337,7 @@ Bernet, Wamboldt & Narrow (2016) (full citation §1.3 above) is the article that
 
 ### 6.4 [ICD-11](https://icd.who.int/) inclusion / removal sequence
 
-The ICD-11 history is documented in detail in `/evidence/international-institutional-positions.md` §1.2–1.3. Summary: PA was initially considered, was added as an index term for QE52.0, then was **formally removed in February 2020** following commentary highlighting misuse. WHO's operative direction is to code PA-pattern presentations to QE52.0.
+The [ICD-11](https://icd.who.int/) history is documented in detail in `/evidence/international-institutional-positions.md` §1.2–1.3. Summary: PA was initially considered, was added as an index term for QE52.0, then was **formally removed in February 2020** following commentary highlighting misuse. WHO's operative direction is to code PA-pattern presentations to QE52.0.
 
 ### 6.5 [PASG](https://pasg.info/) 2022 proposal — PARP — not adopted in [DSM-5-TR](https://www.appi.org/products/dsm)
 
@@ -395,7 +395,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 8.1 High confidence
 
-- **V995.51 / T74.32XA Child Psychological Abuse, V61.20 / Z62.820 Parent-Child Relational Problem, V61.29 / Z62.898 Child Affected by Parental Relationship Distress, and QE52.0 Caregiver-child relationship problem all defensibly apply to severe PA-pattern conduct given adequate clinical documentation.** These codes are in the published, peer-reviewed, copyright-protected primary diagnostic manuals (DSM-5, DSM-5-TR, ICD-11). Their textual content covers the observable behavioural pattern described in the PA literature. They are billable, court-citable, and survive *Daubert* / *Frye* scrutiny in ways that "PAS" and "PAD" do not.
+- **V995.51 / T74.32XA Child Psychological Abuse, V61.20 / Z62.820 Parent-Child Relational Problem, V61.29 / Z62.898 Child Affected by Parental Relationship Distress, and QE52.0 Caregiver-child relationship problem all defensibly apply to severe PA-pattern conduct given adequate clinical documentation.** These codes are in the published, peer-reviewed, copyright-protected primary diagnostic manuals (DSM-5, [DSM-5-TR](https://www.appi.org/products/dsm), ICD-11). Their textual content covers the observable behavioural pattern described in the PA literature. They are billable, court-citable, and survive *Daubert* / *Frye* scrutiny in ways that "PAS" and "PAD" do not.
 - **QE82.2 Personal history of psychological abuse** is the operative ICD-11 code for adult survivors of childhood PA-pattern conduct that crossed the psychological-abuse threshold.
 - **WHO's explicit direction** to clinicians and coders is that QE52.0 covers PA-pattern presentations: *"Users may classify cases to 'caregiver-child relationship problem'."* This is the WHO-blessed pathway.
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

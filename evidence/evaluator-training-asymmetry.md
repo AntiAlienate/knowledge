@@ -243,7 +243,7 @@ The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/0964906
 
 That is, *at compilation of the 2015 paper*, only 15 US states had any statutorily-required training for custody evaluators, and even within those states the required content and depth varied. There is no national licensure of custody evaluators in the US; this is the structural reason a competency framework cannot be uniformly enforced.
 
-**The post-Kayden's Law shift (2022 onward; see §8 below).** Federal incentive funding (STOP grants conditioned on state adoption of Kayden's-Law-aligned standards) is the principal driver of expanded state-level adoption of training requirements aligned with the Saunders framework. As of compilation (May 2026), California, Colorado, Maryland, Tennessee, and Utah have all enacted Kayden's-Law-style statutes that materially increase the training requirements applied to custody evaluators, GALs, child and family investigators, and parental responsibilities evaluators (per the National Safe Parents Organization's tracking, https://www.nationalsafeparents.org/kaydens-law.html).
+**The post-Kayden's Law shift (2022 onward; see §8 below).** Federal incentive funding (STOP grants conditioned on state adoption of Kayden's-Law-aligned standards) is the principal driver of expanded state-level adoption of training requirements aligned with the [Saunders](https://www.ovw.usdoj.gov/) framework. As of compilation (May 2026), California, Colorado, Maryland, Tennessee, and Utah have all enacted Kayden's-Law-style statutes that materially increase the training requirements applied to custody evaluators, GALs, child and family investigators, and parental responsibilities evaluators (per the National Safe Parents Organization's tracking, https://www.nationalsafeparents.org/kaydens-law.html).
 
 **What is *not* publicly confirmed.** That the post-2022 statutory training requirements have, at the level of measurable evaluator recommendation patterns, produced the changes the Saunders framework predicts. No post-Kayden's-Law evaluator-level replication of the Saunders 2011 vignette study has been published as of compilation.
 
@@ -435,7 +435,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 3. **A large enough N of evaluators (probably ≥ 60 per arm) and of cases per evaluator (probably ≥ 10) to detect mid-sized intervention effects** in a multilevel model.
 4. **Multi-year follow-up** to capture longitudinal child outcomes — including the mental-health deterioration trajectory documented in Silberg-Dallam 2019 Table 5.
 
-**Why this study has not been done.** (1) US custody evaluators are not licensed as a single profession; the sampling frame is hard to construct. (2) Random assignment to "training arms" is ethically defensible (control arm = current standard) but practically difficult to enforce. (3) Court records are not uniformly accessible. (4) Funding has been intermittent — NIJ funded both the Saunders 2011 and the Meier 2020 programmes; no comparably-resourced randomised-design funding has been awarded as of compilation.
+**Why this study has not been done.** (1) US custody evaluators are not licensed as a single profession; the sampling frame is hard to construct. (2) Random assignment to "training arms" is ethically defensible (control arm = current standard) but practically difficult to enforce. (3) Court records are not uniformly accessible. (4) Funding has been intermittent — NIJ funded both the Saunders 2011 and the [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) programmes; no comparably-resourced randomised-design funding has been awarded as of compilation.
 
 **Contributor invitation.** This is one of the most important contributor-research opportunities in the AntiAlienate evidence repository. Researchers with access to a defined evaluator population in a Kayden's-Law-implementing state (California, Colorado, Maryland, Tennessee, Utah) and IRB capacity to run a quasi-experimental cohort comparison post-2024 vs. pre-2024 evaluator-recommendation patterns would substantially advance the field.
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

@@ -219,7 +219,7 @@ London · England · Senior Lecturer, Centre for Psychiatry & Mental Health, Que
 
 **Contact:** h.jones@qmul.ac.uk ; +44 (0)20 7882 2043
 
-*Notes: CPsychol + AFBPsS + [HCPC](https://www.hcpc-uk.org/) PYL Forensic Psychologist verified via QMUL institutional profile and BPS public listing. Meets Re Y regulatory bar squarely.*
+*Notes: CPsychol + AFBPsS + [HCPC](https://www.hcpc-uk.org/) PYL Forensic Psychologist verified via QMUL institutional profile and [BPS](https://www.bps.org.uk/) public listing. Meets Re Y regulatory bar squarely.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.craig-jaime`
 
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
