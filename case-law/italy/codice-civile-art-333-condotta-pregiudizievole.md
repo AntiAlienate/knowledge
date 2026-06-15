@@ -1,0 +1,72 @@
+---
+title: "Codice Civile, art. 333 — Condotta del genitore pregiudizievole ai figli"
+jurisdiction: italy
+type: statute
+citation: "Codice Civile, art. 333"
+date_in_force: "1942-03-16"
+last_amended: "current (Lex 219/2012 + D.lgs. 154/2013 updates)"
+status: in-force
+authoritative_url: https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art333.html
+tags:
+  - condotta-pregiudizievole
+  - allontanamento
+  - provvedimenti-convenienti
+  - intermediate-remedy
+  - tribunale-per-i-minorenni
+pa_relevance: high
+---
+
+# Codice Civile, art. 333 — Condotta del genitore pregiudizievole ai figli
+
+**Jurisdiction:** Italy · **Citation:** Codice Civile, art. 333 · **Authoritative source:** [brocardi.it — art. 333](https://www.brocardi.it/codice-civile/libro-primo/titolo-ix/capo-i/art333.html)
+
+The **intermediate remedy** for parental conduct that does not rise to the threshold of *decadenza dalla responsabilità genitoriale* (deprivation of parental authority under art. 330) but is nonetheless *pregiudizievole* (prejudicial) to the child. Highly important in PA cases because it is the **most-used statutory hook** for judicial intervention short of suspension or removal of parental authority. The court can adopt *provvedimenti convenienti* (any appropriate measures) — open-textured discretion — including the radical step of *allontanamento* (removal) of the parent from the family residence.
+
+## Verbatim text (current consolidated)
+
+> **Art. 333 — Condotta del genitore pregiudizievole ai figli**
+>
+> Quando la condotta di uno o di entrambi i genitori non è tale da dare luogo alla pronuncia di decadenza prevista dall'articolo 330, ma appare comunque pregiudizievole al figlio, il giudice, secondo le circostanze, può adottare i provvedimenti convenienti e può anche disporre l'allontanamento di lui dalla residenza familiare ovvero l'allontanamento del genitore o convivente che maltratta o abusa del minore.
+>
+> Tali provvedimenti sono revocabili in qualsiasi momento.
+
+## English working translation
+
+> **Art. 333 — Conduct of the parent prejudicial to the children**
+>
+> When the conduct of one or both parents is not such as to give rise to the pronouncement of deprivation provided by Article 330, but nevertheless appears prejudicial to the child, the judge, according to the circumstances, may adopt the appropriate measures and may also order the removal of the child from the family residence, or the removal of the parent or cohabitant who mistreats or abuses the minor.
+>
+> Such measures are revocable at any time.
+
+## Why this matters for PA
+
+- **The middle-tier remedy.** Italian family law distinguishes three response-levels to harmful parental conduct: (1) art. 333 *pregiudizievole* — flexible intermediate measures; (2) art. 330 *decadenza* — deprivation of *responsabilità genitoriale*; (3) art. 332 *reintegrazione*. The art. 333 *provvedimenti convenienti* are the workhorse remedy in PA cases — the court can intervene without the higher art. 330 threshold.
+- **Open-textured *provvedimenti convenienti*.** The Cassazione has interpreted "appropriate measures" broadly: forced therapeutic intervention; *psicoterapia familiare*; *coordinatore genitoriale* (parenting coordinator); modifica del *regime di affidamento*; *affido al servizio sociale* (placement under social-services supervision); supervised contact at *spazi neutri*; in severe cases, *allontanamento* of one parent from the *residenza familiare*. The flexibility is the article's principal value in PA contexts.
+- **Removal — *allontanamento*.** The second clause authorises the radical step of removing either (a) the child from the family residence or (b) the prejudicial parent from the residence. In severe sustained-alienation cases, *allontanamento* of the alienating parent is one of the strongest remedies Italian law provides — recently applied by the [Cassazione Sez. I civile in cases including ord. n. 9691/2022](https://www.cortedicassazione.it/) and various Tribunale per i Minorenni decisions.
+- **Revocability — *revocabili in qualsiasi momento*.** Measures under art. 333 are non-final and can be varied as circumstances change. This calibrates well with the dynamic nature of PA cases where engagement with therapy may produce rapid behavioural change.
+
+## Procedural application post-Riforma Cartabia (2022-2026)
+
+- Pre-Cartabia, art. 333 proceedings ran in the *Tribunale per i Minorenni* (juvenile court). After the [Riforma Cartabia (D.lgs. 149/2022)](https://www.brocardi.it/), the *Tribunale per i Minorenni* will be progressively absorbed into the new *Tribunale della Famiglia* (in force 2024-2026 transition).
+- The art. 473-bis et seq. of the Codice di Procedura Civile (introduced by the Riforma Cartabia) now provides the unified family-procedure framework within which art. 333 substantive measures are applied. The *ricorso ex art. 333* is the standard procedural vehicle.
+- *Pubblico Ministero presso il Tribunale per i Minorenni* has standing to bring proceedings under art. 333 — useful in cases where the child-welfare interest is best advanced by the prosecution rather than the targeted parent (who may face hostility from the alienating parent during direct litigation).
+
+## Relationship to art. 330 (decadenza)
+
+- Art. 330 (*decadenza dalla responsabilità genitoriale*) is the higher-threshold remedy: the parent must have *violato o trascurato i doveri ad essa inerenti o abusa dei relativi poteri con grave pregiudizio*.
+- Art. 333 *pregiudizievole* is the lower-threshold remedy: harmful conduct that does not reach the art. 330 *grave pregiudizio* threshold but is nonetheless prejudicial.
+- The Cassazione (Sez. I civile) has consistently applied a sliding-scale doctrine — art. 333 first, escalation to art. 330 only when intermediate measures fail.
+
+## Use in alienating-conduct cases
+
+- The Cassazione has applied art. 333 in PA-pattern cases including those cited in [Cass. ord. n. 13217/2021](https://www.cortedicassazione.it/) and [ord. n. 9691/2022](https://www.cortedicassazione.it/) — both of which **rejected the SAP diagnostic framing** while applying behavioural-conduct analysis under art. 333.
+- This is the correct litigation framing in Italy: do **not** seek a *consulenza tecnica d'ufficio (CTU)* on whether the child has *Sindrome di Alienazione Parentale*; do seek a CTU on whether the conduct of one or both parents is *pregiudizievole* to the child within the meaning of art. 333. The Cassazione's behaviour-based methodology requires this framing.
+
+## Related entries
+
+- [Codice Civile, art. 316 — Responsabilità genitoriale](codice-civile-art-316-responsabilita-genitoriale.md)
+- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
+- [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
+- [Codice Civile, art. 337-quater — Affidamento esclusivo](codice-civile-art-337-quater-affidamento-esclusivo.md)
+- [Codice Civile, art. 337-sexies — Casa familiare e residenza](codice-civile-art-337-sexies-family-home-and-residence.md)
+- [Codice Civile, art. 337-septies — Figli maggiorenni](codice-civile-art-337-septies-figli-maggiorenni.md)
