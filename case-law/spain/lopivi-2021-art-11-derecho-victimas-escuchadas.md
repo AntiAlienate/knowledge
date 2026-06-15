@@ -76,6 +76,8 @@ The complete statutory rejection is reinforced by Article 26.1.a) (within the *p
 - [Brazil — Lei 12.318/2010 verbatim](../brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md)
 - [UK — Re C [2023] EWHC 345 (Fam)](../united-kingdom/re-c-2023-ewhc-345-fam.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
