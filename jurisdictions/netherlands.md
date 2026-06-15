@@ -202,21 +202,6 @@ Hoge Raad and Gerechtshof family-chamber judgments anonymise minor children cons
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -299,7 +284,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Promotion of Continued Parenthood and Careful Divorce Act",
+      "name": "Promotion of Continued Parenthood and Careful [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/)",
       "legislationIdentifier": "Wet bevordering voortgezet ouderschap en zorgvuldige scheiding 2009",
       "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
       "url": "https://wetten.overheid.nl/BWBR0024729",
@@ -326,7 +311,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "name": "[Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence",
       "legislationIdentifier": "Istanbul Convention art. 31",
       "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
       "url": "https://rm.coe.int/168008482e",
@@ -338,6 +323,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

@@ -274,7 +274,7 @@ The "parental alienation" code that briefly appeared in the foundation layer of 
 
 **Judicial outcome.** On 28 July 2017, the Michigan Supreme Court ordered Gorcyca publicly censured, finding she had committed legal error by holding the children in contempt and committing them to the juvenile facility. Source: https://www.detroitnews.com/story/news/local/oakland-county/2017/07/28/gorcyca-michigan-supreme-court/104085914/ and https://ballotpedia.org/Lisa_Ortlieb_Gorcyca
 
-**Why load-bearing.** The Tsimhoni proceedings exemplify the operational mechanics documented in Meier 2020 and Silberg-Dallam 2019: judicial reliance on the alienation framing, custody transfer to the alleged-abusive parent, isolation from the protective parent, and use of "reunification camps" of the type the UN Special Rapporteur explicitly recommends be prohibited (A/HRC/53/36 ¶74(l)). The Michigan Supreme Court's censure is one of very few documented instances of formal judicial discipline for PA-driven decision-making.
+**Why load-bearing.** The Tsimhoni proceedings exemplify the operational mechanics documented in [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) and Silberg-Dallam 2019: judicial reliance on the alienation framing, custody transfer to the alleged-abusive parent, isolation from the protective parent, and use of "reunification camps" of the type the UN Special Rapporteur explicitly recommends be prohibited (A/HRC/53/36 ¶74(l)). The Michigan Supreme Court's censure is one of very few documented instances of formal judicial discipline for PA-driven decision-making.
 
 Cross-reference: this case is also catalogued in the AntiAlienate `case-studies/` directory.
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

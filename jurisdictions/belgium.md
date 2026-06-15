@@ -210,21 +210,6 @@ Belgian [Cour de cassation](https://www.courdecassation.fr/) and Cours d'appel a
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -247,7 +232,7 @@ The *parquet* (procureur du Roi) decides whether to prosecute. **Most first-time
 
 **The PA-construct question.** The Conseil supérieur de la santé belge (avis no 9484 of 2018) is **critique-camp**: PAS / *syndrome d'aliénation parentale* should not be used as a diagnostic category. Belgian Tribunal de la famille practice is consistent — argue the behaviours, not the syndrome.
 
-**Linguistic communities.** Belgium operates three linguistic communities (French, Dutch, German). Court language follows the territorial principle. The German-speaking community's judicial structure runs under the same Code civil but proceedings are in German at the *Eupener Gerichts* — important if you live in the East Cantons.
+**Linguistic communities.** Belgium operates three linguistic communities (French, Dutch, German). Court language follows the territorial principle. The German-speaking community's judicial structure runs under the same [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) but proceedings are in German at the *Eupener Gerichts* — important if you live in the East Cantons.
 
 **Get local counsel.** *Avocat* is recommended at first instance and required on appeal. The [Ordre des Barreaux Francophones et Germanophone (Avocats.be)](https://avocats.be/) and the [Orde van Vlaamse Balies](https://www.advocaat.be/) maintain *specialist droit familial* directories. *Aide juridique* (legal aid) is income-tested via the *Bureau d'Aide Juridique* of your *Barreau*.
 
@@ -341,7 +326,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "name": "[Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence",
       "legislationIdentifier": "Convention d'Istanbul art. 31",
       "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
       "url": "https://rm.coe.int/168008482e",
@@ -353,6 +338,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

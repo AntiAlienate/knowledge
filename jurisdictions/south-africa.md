@@ -204,22 +204,6 @@ South African High Court and Supreme Court of Appeal family-law judgments anonym
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
-
 
 <!-- AA-FAQ-START -->
 
@@ -292,7 +276,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "Divorce statute",
-      "legislationIdentifier": "Divorce Act 70 of 1979",
+      "legislationIdentifier": "[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 70 of 1979",
       "jurisdiction": "South Africa (Republic of South Africa)",
       "url": "https://www.gov.za/documents/divorce-act",
       "datePublished": "1979",
@@ -321,6 +305,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

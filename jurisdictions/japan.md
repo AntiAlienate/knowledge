@@ -202,22 +202,6 @@ Japanese Supreme Court and High Court judgments may name adult parties in publis
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
-
 
 <!-- AA-FAQ-START -->
 
@@ -319,6 +303,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

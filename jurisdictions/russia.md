@@ -160,27 +160,6 @@ Russian family-court decisions are anonymised per Supreme Court practice using i
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Referenced in this page:**
-
-- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
-- [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
-
 
 <!-- AA-FAQ-START -->
 
@@ -257,13 +236,34 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Russia (Russian Federation / Российская Федерация)",
       "url": "https://www.consultant.ru/",
       "datePublished": "1998",
-      "description": "Federal children's rights statute aligned with UNCRC obligations."
+      "description": "Federal children's rights statute aligned with [UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child) obligations."
     }
   ]
 }
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
+- [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

@@ -205,21 +205,6 @@ Spain is the world's only PA-inadmission statutory jurisdiction via LOPIVI 2021 
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -335,7 +320,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Spain",
       "url": "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
       "datePublished": "1985",
-      "description": "Basis for anonymisation of judgments involving minors; Tribunal Supremo and Audiencias Provinciales sentences in family matters are published with initials per CENDOJ practice."
+      "description": "Basis for anonymisation of judgments involving minors; [Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/) and Audiencias Provinciales sentences in family matters are published with initials per CENDOJ practice."
     },
     {
       "@type": "Legislation",
@@ -366,7 +351,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "STC 130/2024",
       "datePublished": "2024",
-      "courtName": "Tribunal Constitucional"
+      "courtName": "[Tribunal Constitucional](https://www.tribunalconstitucional.es/)"
     },
     {
       "@type": "LegalCase",
@@ -385,6 +370,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

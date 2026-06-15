@@ -201,25 +201,6 @@ Germany is a civil-law jurisdiction whose family courts operate under the [BGB](
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Referenced in this page:**
-
-- [ICD-11 (WHO)](https://icd.who.int/)
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -229,7 +210,7 @@ If contact has just stopped, the operative law is [BGB § 1684](https://www.gese
 
 **Procedural pathway.** File an *Antrag auf Regelung des Umgangs* at the Familiengericht of the child's habitual residence (örtliche Zuständigkeit per [FamFG § 152](https://www.gesetze-im-internet.de/famfg/__152.html)). A *Verfahrensbeistand* (children's procedural guardian per FamFG § 158) will normally be appointed; this is the structural counter-balance to alienating-parent influence. The Jugendamt (youth welfare office under SGB VIII) is heard but not the decision-maker.
 
-**A critical 2023 inflection point.** The [Bundesverfassungsgericht's Beschluss of 17 November 2023 (1 BvR 1076/23)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html) characterised the *Parental Alienation Syndrome* (PAS) construct as *"überkommen und wissenschaftlich nicht haltbar bzw. widerlegt"* (outdated and scientifically untenable or refuted). German family courts now reject PA-syndrome framing in expert reports. This means: **do not** ask your court for a *PAS-Diagnose*; instead document the alienating behaviours themselves (refusal of handovers, blocked phone contact, denigration, parental-loyalty conflict) and ask the court to apply BGB § 1684 / § 1696 directly. Recent practice is consistent with [OLG Frankfurt, Beschluss vom 5.1.2026 — 7 UF 88/25](../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md), which applied the BVerfG reasoning to a concrete case.
+**A critical 2023 inflection point.** The [Bundesverfassungsgericht's Beschluss of 17 November 2023 (1 BvR 1076/23)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html) characterised the *Parental Alienation Syndrome* (PAS) construct as *"überkommen und wissenschaftlich nicht haltbar bzw. widerlegt"* (outdated and scientifically untenable or refuted). German family courts now reject PA-syndrome framing in expert reports. This means: **do not** ask your court for a *PAS-Diagnose*; instead document the alienating behaviours themselves (refusal of handovers, blocked phone contact, denigration, parental-loyalty conflict) and ask the court to apply [BGB](https://www.gesetze-im-internet.de/bgb/) § 1684 / § 1696 directly. Recent practice is consistent with [OLG Frankfurt, Beschluss vom 5.1.2026 — 7 UF 88/25](../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md), which applied the [BVerfG](https://www.bundesverfassungsgericht.de/) reasoning to a concrete case.
 
 **If the other parent ignores a court-made Umgangsregelung,** apply for *Vollstreckung* under FamFG § 89 — the court can impose an *Ordnungsgeld* up to €25,000 or *Ordnungshaft*. Documentation of each missed contact is critical; keep contemporaneous notes, screenshots of messages, and any third-party witnesses (school, club). The §1696 BGB *Abänderung* threshold ("triftige, das Wohl des Kindes nachhaltig berührende Gründe") is what your court will apply to vary an existing order.
 
@@ -337,7 +318,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence (Sorge- und Besuchsrecht und Sicherheit)",
+      "name": "[Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence (Sorge- und Besuchsrecht und Sicherheit)",
       "legislationIdentifier": "Istanbul Convention art. 31",
       "jurisdiction": "Germany",
       "url": "https://rm.coe.int/168008482e",
@@ -348,7 +329,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23",
       "datePublished": "2023",
-      "courtName": "Bundesverfassungsgericht (BVerfG)",
+      "courtName": "[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (BVerfG)",
       "url": "https://knowledge.antialienate.com/case-studies/bverfg-1-bvr-1076-23-germany-2023/"
     },
     {
@@ -360,9 +341,9 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "LegalCase",
-      "name": "BGH is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites BGB § 1696 Schwellenwert.",
+      "name": "[BGH](https://www.bundesgerichtshof.de/) is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites BGB § 1696 Schwellenwert.",
       "datePublished": "2026",
-      "courtName": "Bundesgerichtshof (BGH) — XII. Zivilsenat"
+      "courtName": "[Bundesgerichtshof](https://www.bundesgerichtshof.de/) (BGH) — XII. Zivilsenat"
     },
     {
       "@type": "LegalCase",
@@ -376,6 +357,26 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [ICD-11 (WHO)](https://icd.who.int/)
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
+
 <!-- AA-CROSSLINK-START -->
 
 ---
@@ -385,7 +386,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 - [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
 - [Parental Alienation Vs Estrangement How Courts Tell The Difference](https://www.antialienate.com/blog/parental-alienation-vs-estrangement-how-courts-tell-the-difference)
 - [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
 - [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
-- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
 
 <!-- AA-CROSSLINK-END -->

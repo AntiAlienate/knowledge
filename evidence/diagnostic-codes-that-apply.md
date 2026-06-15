@@ -64,7 +64,7 @@ These are billable encounter codes and can sit alongside the V995.51/T74.32XA pr
 
 ### 1.3 V61.29 / Z62.898 — Child Affected by Parental Relationship Distress (CAPRD)
 
-**Location in [DSM-5](https://www.appi.org/products/dsm).** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, "Relational Problems," DSM-5 pages 715–716.
+**Location in [DSM-5](https://www.appi.org/products/dsm).** Section III, *Other Conditions That May Be a Focus of Clinical Attention*, "Relational Problems," [DSM-5](https://www.appi.org/products/dsm) pages 715–716.
 
 **DSM-5 definition, verbatim.**
 
@@ -237,7 +237,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 > "[Cafcass](https://www.cafcass.gov.uk/) do not use or refer to the term 'parental alienation' which is often framed as a condition or syndrome."
 
-(Source: [Cafcass](https://www.cafcass.gov.uk/), "Alienating Behaviours," https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours.) [Cafcass](https://www.cafcass.gov.uk/) instead uses the descriptive phrase "alienating behaviour," which it defines as "an ongoing pattern of negative attitudes and communication about the other parent or carer that have the potential or intention to undermine, manipulate or even destroy a child's relationship with their other parent." [Cafcass](https://www.cafcass.gov.uk/) FCAs work within the Child Impact Assessment Framework (CIAF) (https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf), which integrates assessment of domestic abuse, harmful parental conflict, alienating behaviours, and parenting-capacity issues. UK NHS and independent psychologists working on family-court instructions code in ICD-10 / ICD-11; the [Cafcass](https://www.cafcass.gov.uk/) position effectively prevents the use of "PAS" or "PAD" in court-instructed reports.
+(Source: [Cafcass](https://www.cafcass.gov.uk/), "Alienating Behaviours," https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/alienating-behaviours.) [Cafcass](https://www.cafcass.gov.uk/) instead uses the descriptive phrase "alienating behaviour," which it defines as "an ongoing pattern of negative attitudes and communication about the other parent or carer that have the potential or intention to undermine, manipulate or even destroy a child's relationship with their other parent." [Cafcass](https://www.cafcass.gov.uk/) FCAs work within the Child Impact Assessment Framework (CIAF) (https://www.cafcass.gov.uk/parent-carer-or-family-member/applications-child-arrangements-order/how-your-family-court-adviser-makes-their-assessment-your-childs-welfare-and-best-interests/child-impact-assessment-framework-ciaf), which integrates assessment of domestic abuse, harmful parental conflict, alienating behaviours, and parenting-capacity issues. UK NHS and independent psychologists working on family-court instructions code in ICD-10 / [ICD-11](https://icd.who.int/); the [Cafcass](https://www.cafcass.gov.uk/) position effectively prevents the use of "PAS" or "PAD" in court-instructed reports.
 
 **Australia / New Zealand.** Mixed practice; the Family Court of Australia accepts evidence framed in [DSM-5-TR](https://www.appi.org/products/dsm) and ICD-11 terms, with reluctance to accept "PAS" as a discrete diagnosis. Court-appointed Family Consultants frame reports using "child's resistance to spending time with a parent" language and document specific parental conduct without invoking syndrome labels — consistent with the [Cafcass](https://www.cafcass.gov.uk/) model.
 
@@ -358,7 +358,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 ### 7.1 What you CAN defensibly write in a forensic report
 
 - "The clinical presentation meets [DSM-5-TR](https://www.appi.org/products/dsm) criteria for **V61.20 / Z62.820 Parent-Child Relational Problem** in the [child]–[rejected parent] dyad, with specific behavioural manifestations including [list]."
-- "The clinical presentation also meets DSM-5-TR criteria for **V61.29 / Z62.898 Child Affected by Parental Relationship Distress**, in that the child shows [list of effects] in response to documented inter-parental conflict and disparagement of the [rejected parent] by the [favoured parent]."
+- "The clinical presentation also meets [DSM-5-TR](https://www.appi.org/products/dsm) criteria for **V61.29 / Z62.898 Child Affected by Parental Relationship Distress**, in that the child shows [list of effects] in response to documented inter-parental conflict and disparagement of the [rejected parent] by the [favoured parent]."
 - "Where the documented disparagement and instruction of the child against the [rejected parent] is sustained, nonaccidental, and verbal/symbolic in character, and where the documented child distress satisfies the threshold of significant psychological harm or reasonable potential for such harm under DSM-5-TR p. 719, the clinical presentation also meets criteria for **V995.51 / T74.32XA Child Psychological Abuse, Confirmed** (or T76.32XA Suspected, pending further investigation)."
 - "These findings have been made after differential-diagnosis ruling-out of estrangement secondary to maltreatment by the [rejected parent], consistent with the APSAC 2022 Position Statement and the [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016) multiple-hypotheses framework."
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

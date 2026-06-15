@@ -62,7 +62,7 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 - [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) 91+ contracting parties is structurally distinctive globally — largest multi-state private-international-law convention framework.
 - Central Authority Network framework is structurally distinctive globally — only modern multi-state administrative-cooperation framework specifically for international family-law matters.
 - INCADAT International Child Abduction Database is structurally distinctive globally — only multi-state jurisprudence collection for specific Convention framework.
-- Hague Convention 1980 Article 11 6-week return-decision guideline is structurally distinctive globally — first multi-state expedited-return framework for international-child-abduction.
+- [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) Article 11 6-week return-decision guideline is structurally distinctive globally — first multi-state expedited-return framework for international-child-abduction.
 - Hague Convention 1980 Article 13 grave-risk + child-objection exceptions framework is structurally distinctive globally — only multi-state framework with both grave-risk and child-objection structured exceptions.
 - No centralised Hague apex court framework operating via contracting-state national apex court interpretation is structurally distinctive globally — only modern major multi-state convention framework without centralised apex court.
 - Hague Convention 1980 + [Hague Convention 1996](https://www.hcch.net/en/instruments/conventions/full-text/?cid=70) + Hague Convention 2007 trilogy frameworks operate as integrated international family-law-jurisdiction-recognition-enforcement framework.
@@ -94,6 +94,8 @@ The Hague Conference on Private International Law ([HCCH](https://www.hcch.net/)
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

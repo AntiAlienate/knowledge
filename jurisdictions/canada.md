@@ -211,21 +211,6 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -233,13 +218,13 @@ Canadian provincial-superior-court family-law judgments anonymise minor children
 
 Canada operates a **bifurcated federal common-law / Quebec civil-law** architecture. The federal [Divorce Act (R.S.C. 1985, c.3 (2nd Supp.))](case-law/canada/divorce-act-section-16-best-interests-of-the-child.md), substantially amended by [Bill C-78 (in force 1 March 2021)](case-law/canada/divorce-act-1985-amended-2021-bill-c78-maximum-contact.md), governs married couples and prescribes a best-interests-of-the-child analysis at [s.16](case-law/canada/divorce-act-section-16-best-interests-of-the-child.md). Provincial statutes run in parallel for unmarried parents: Ontario CLRA, Quebec [CCQ + Loi sur la protection de la jeunesse](case-law/canada-quebec/code-civil-quebec-autorite-parentale.md), BC Family Law Act, Alberta Family Law Act.
 
-**The 2021 framework changes the vocabulary.** Bill C-78 replaced *custody* and *access* with **decision-making responsibility** and **parenting time**. *Mobility / relocation* is now expressly regulated by [Divorce Act ss.16.1 and 16.92](case-law/canada/divorce-act-sections-16-1-and-16-92-parenting-orders-and-relocation.md), which prescribe a notice regime and the factors a court considers when one parent proposes to relocate with the child.
+**The 2021 framework changes the vocabulary.** [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) replaced *custody* and *access* with **decision-making responsibility** and **parenting time**. *Mobility / relocation* is now expressly regulated by [Divorce Act ss.16.1 and 16.92](case-law/canada/divorce-act-sections-16-1-and-16-92-parenting-orders-and-relocation.md), which prescribe a notice regime and the factors a court considers when one parent proposes to relocate with the child.
 
 **The s.16(3) best-interests list.** The federal best-interests framework is non-hierarchical except that the child's *safety, security and well-being* is primary. The [s.16(3)(j) family-violence factor](case-law/canada/divorce-act-section-16-best-interests-of-the-child.md) requires courts to consider any family violence and its impact. The [s.16(6) maximum-contact factor](case-law/canada/divorce-act-1985-amended-2021-bill-c78-maximum-contact.md) preserves the principle that a child should have as much contact with each parent as is consistent with their best interests — but as a factor, not as a presumption.
 
-**Procedural pathway.** Federal Divorce Act matters go to the Superior Court of the province (Ontario Superior Court of Justice, Cour supérieure du Québec, BC Supreme Court, Alberta Court of King's Bench, etc.). Provincial Family Court hears unmarried-parent matters in most provinces. File a *Notice of Family Claim* or *Application* — procedure varies by province. *Mandatory information programs* (MIP-equivalents) are required in most provinces before contested motions. The *Office of the Children's Lawyer (OCL)* in Ontario, the *Independent Children's Lawyer* in BC, and equivalent provincial bodies represent children in contested cases.
+**Procedural pathway.** Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) matters go to the Superior Court of the province (Ontario Superior Court of Justice, Cour supérieure du Québec, BC Supreme Court, Alberta Court of King's Bench, etc.). Provincial Family Court hears unmarried-parent matters in most provinces. File a *Notice of Family Claim* or *Application* — procedure varies by province. *Mandatory information programs* (MIP-equivalents) are required in most provinces before contested motions. The *Office of the Children's Lawyer (OCL)* in Ontario, the *Independent Children's Lawyer* in BC, and equivalent provincial bodies represent children in contested cases.
 
-**Quebec — civil law difference.** Quebec operates under the *Code civil du Québec* (arts. 597 et seq. on *autorité parentale*) and procedure under the *Code de procédure civile*. The principle is *autorité parentale conjointe* exercised in the *intérêt de l'enfant*. The [Loi sur la protection de la jeunesse](https://www.legisquebec.gouv.qc.ca/) governs state-protection interventions; the *Directeur de la protection de la jeunesse (DPJ)* is the equivalent of an English local authority.
+**Quebec — civil law difference.** Quebec operates under the *[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Québec* (arts. 597 et seq. on *autorité parentale*) and procedure under the *Code de procédure civile*. The principle is *autorité parentale conjointe* exercised in the *intérêt de l'enfant*. The [Loi sur la protection de la jeunesse](https://www.legisquebec.gouv.qc.ca/) governs state-protection interventions; the *Directeur de la protection de la jeunesse (DPJ)* is the equivalent of an English local authority.
 
 **The PA-construct question.** Canadian common-law family courts have applied the underlying conduct (contact-interference, denigration, parental loyalty conflict) under the s.16 best-interests framework rather than as a free-standing diagnostic label. The Ontario Court of Appeal in [A.M. v C.H. 2019 ONCA 764](https://www.canlii.org/en/on/onca/) and BC equivalents have cautioned against accepting "parental alienation" expert evidence framed as a syndrome. The 2024 [Canadian Bar Association Family Law Section guidance](https://www.cba.org/Sections/Family-Law/) takes a similar middle position.
 
@@ -261,7 +246,7 @@ The primary statutory basis in Canada is Divorce Act R.S.C. 1985, c.3 (2nd Supp.
 
 ### What is the leading court decision on parental alienation in Canada?
 
-The leading apex decision is Supreme Court of Canada is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017). (2001). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+The leading apex decision is [Supreme Court of Canada](https://www.scc-csc.ca/) is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017). (2001). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
 
 ### What can a parent do if their child is being withheld from them in Canada?
 
@@ -383,7 +368,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "LegalCase",
-      "name": "L.A.G. v. D.K.B., 2009 CanLII 6452 (ON SC)",
+      "name": "L.A.G. v. D.K.B., 2009 [CanLII](https://www.canlii.org/) 6452 (ON SC)",
       "datePublished": "2009",
       "courtName": "Provincial Superior Courts — Ontario SCJ / Cour supérieure du Québec / BC SC / Alberta KB",
       "url": "https://knowledge.antialienate.com/case-studies/lag-v-dkb-2009-ontario/"
@@ -399,6 +384,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

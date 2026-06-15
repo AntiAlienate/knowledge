@@ -213,26 +213,6 @@ US state-court family-law decisions vary significantly: California / New York ro
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Referenced in this page:**
-
-- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
-- [ICD-11 (WHO)](https://icd.who.int/)
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -240,7 +220,7 @@ US state-court family-law decisions vary significantly: California / New York ro
 
 There is **no federal family-court jurisdiction**. Custody and visitation are governed by state law, with the [UCCJEA](https://www.uniformlaws.org/) (Uniform Child Custody Jurisdiction and Enforcement Act, adopted by every state except Massachusetts) determining which state has subject-matter jurisdiction (typically the child's *home state* — the state where the child has lived for the six months preceding the application).
 
-**Procedural pathway.** File in the state of the child's home-state UCCJEA jurisdiction. Each state's Family Code prescribes the best-interests framework; major examples:
+**Procedural pathway.** File in the state of the child's home-state [UCCJEA](https://www.uniformlaws.org/committees/community-home?CommunityKey=4f1a06b2-4951-4eaf-8569-2eb87e3e8e93) jurisdiction. Each state's Family Code prescribes the best-interests framework; major examples:
 
 - **California** — [Family Code §§ 3011, 3020, 3040](california-family-code-3011-3020-3040-verbatim.md) (best-interests + frequent-and-continuing-contact preference), [§ 3027](california-family-code-3027-child-abuse-allegations.md) (abuse-allegation triage + CWS investigation), [§ 3027.1](california-family-code-3027-1-sanctions-false-abuse-accusations.md) (sanctions for *knowingly false* abuse accusations), [§ 3044](california-family-code-3044-domestic-violence-presumption.md) (DV presumption against custody; SB 899 strengthens it operative 2026-01-01).
 - **Florida** — [Florida Statute § 61.13](florida-statute-61-13-time-sharing-factors.md) (time-sharing factors).
@@ -371,7 +351,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "United States",
       "url": "https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-722-23",
       "datePublished": "1970",
-      "description": "Michigan substantive Child Custody Act. §722.23 twelve-factor BIOC test. Michigan Friend of the Court Act establishes Friend of the Court office attached to each circuit court — the Michigan institutional analogue to Ontario OCL / England Cafcass / South Africa Family Advocate. Tsimhoni v Eibschitz-Tsimhoni 2015 was litigated under this statutory framework."
+      "description": "Michigan substantive Child Custody Act. §722.23 twelve-factor BIOC test. Michigan Friend of the Court Act establishes Friend of the Court office attached to each circuit court — the Michigan institutional analogue to Ontario OCL / England [Cafcass](https://www.cafcass.gov.uk/) / South Africa Family Advocate. Tsimhoni v Eibschitz-Tsimhoni 2015 was litigated under this statutory framework."
     },
     {
       "@type": "LegalCase",
@@ -404,6 +384,28 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [DSM-5-TR (APA)](https://www.appi.org/products/dsm)
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [ICARA — Cornell LII](https://www.law.cornell.edu/uscode/text/22/chapter-97)
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

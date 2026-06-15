@@ -378,7 +378,7 @@ San Rafael · CA · Independent custody-evaluation practice (San Rafael, CA)
 - <https://global.oup.com/academic/product/parenting-plan-evaluations-9780199396580>
 - <https://www.afccnet.org/>
 
-**Contact:** No standalone practice website surfaced; route via AFCC California chapter
+**Contact:** No standalone practice website surfaced; route via [AFCC](https://www.afccnet.org/) California chapter
 
 *Notes: Co-author of the AFCC evaluator-training canon; practice contact is the principal gap. CA licensure verifiable via CA BOP.*
 
@@ -485,6 +485,8 @@ Palo Alto · CA · Independent forensic/clinical psychology practice (Palo Alto,
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

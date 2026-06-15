@@ -200,21 +200,6 @@ FLA s.121 imposes strict anonymisation: parties, children, witnesses (and in som
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -228,7 +213,7 @@ The operative framework is the [Family Law Act 1975 (Cth)](case-law/australia/fa
 
 **The Magellan / Lighthouse pathway.** Where significant family-violence or child-abuse allegations exist, the FCFCOA's *Lighthouse* model (national rollout) prioritises risk-screening at the front of proceedings. *Magellan* (the long-running specialist track for serious child-abuse allegations) continues. The targeted-parent strategy is to engage with these pathways early, not avoid them — they are designed to surface the truth of competing safety claims.
 
-**The PA-construct question.** Australian family law's apex authority [U v U (2002) 211 CLR 238 (HCA 36)](case-law/australia/u-v-u-2002-hca-36.md) endorsed a substance-over-form approach. The 2024 [Royal Commission / ALRC reform path](https://www.alrc.gov.au/) reinforced that the court applies the underlying conduct within the best-interests-of-the-child framework rather than as a free-standing diagnostic label. *AFCC Australian Chapter* and the [Family Law Council](https://www.ag.gov.au/) practice frameworks operationalise this.
+**The PA-construct question.** Australian family law's apex authority [U v U (2002) 211 CLR 238 (HCA 36)](case-law/australia/u-v-u-2002-hca-36.md) endorsed a substance-over-form approach. The 2024 [Royal Commission / ALRC reform path](https://www.alrc.gov.au/) reinforced that the court applies the underlying conduct within the best-interests-of-the-child framework rather than as a free-standing diagnostic label. *[AFCC](https://www.afccnet.org/) Australian Chapter* and the [Family Law Council](https://www.ag.gov.au/) practice frameworks operationalise this.
 
 **International abduction.** Australia is a Hague 1980 contracting state via the [Family Law (Child Abduction Convention) Regulations 1986](https://www.legislation.gov.au/). For a removal abroad, contact the [International Family Law Section, Attorney-General's Department](https://www.ag.gov.au/families-and-marriage/international-family-law) immediately.
 
@@ -246,7 +231,7 @@ In Australia (Commonwealth of Australia) parental alienation is neither prohibit
 
 ### What law covers withholding a child from a parent in Australia (Commonwealth of Australia)?
 
-The primary statutory basis in Australia (Commonwealth of Australia) is Family Law Act 1975 (Cth) Part VII — Children — parental responsibility and parenting orders. Authoritative text: <https://www.legislation.gov.au/C2004A00275/latest/text>.
+The primary statutory basis in Australia (Commonwealth of Australia) is [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) Part VII — Children — parental responsibility and parenting orders. Authoritative text: <https://www.legislation.gov.au/C2004A00275/latest/text>.
 
 ### What can a parent do if their child is being withheld from them in Australia (Commonwealth of Australia)?
 
@@ -336,6 +321,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

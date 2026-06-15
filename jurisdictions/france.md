@@ -224,21 +224,6 @@ La [Cour de cassation](https://www.courdecassation.fr/) anonymise les parties fa
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -272,7 +257,7 @@ In France (République française) parental alienation is neither prohibited nor
 
 ### What law covers withholding a child from a parent in France (République française)?
 
-The primary statutory basis in France (République française) is Code civil arts. 371-1 à 373-2-13 — Autorité parentale. Authoritative text: <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/>.
+The primary statutory basis in France (République française) is [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) arts. 371-1 à 373-2-13 — Autorité parentale. Authoritative text: <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/>.
 
 ### What can a parent do if their child is being withheld from them in France (République française)?
 
@@ -350,7 +335,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "name": "[Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence",
       "legislationIdentifier": "Convention d'Istanbul art. 31",
       "jurisdiction": "France (République française)",
       "url": "https://rm.coe.int/168008482e",
@@ -362,6 +347,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

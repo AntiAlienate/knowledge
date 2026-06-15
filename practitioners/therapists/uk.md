@@ -74,7 +74,7 @@ Teesside · England · Principal Psychologist and founder, Family Psychology Sol
 **Publications:**
 - Powerlessness, betrayal, abuse: The trauma of parental alienation (DCounsPsy thesis) (2014) — *Cardiff Metropolitan University*
 - Parental alienation: time to notice, time to intervene (New Voices) (2017) — *The Psychologist ([BPS](https://www.bps.org.uk/))* — <https://www.bps.org.uk/psychologist/new-voices-parental-alienation-time-notice-time-intervene>
-- Parental alienation: time to make a difference (2019) — *The Psychologist (BPS)* — <https://www.bps.org.uk/psychologist/parental-alienation-time-make-difference>
+- Parental alienation: time to make a difference (2019) — *The Psychologist ([BPS](https://www.bps.org.uk/))* — <https://www.bps.org.uk/psychologist/parental-alienation-time-make-difference>
 
 **Verification:**
 - <https://fpscic.org/>
@@ -242,7 +242,7 @@ London · England · Association of Clinical Psychologists UK (ACP-UK, Chair); F
 
 **Contact:** via https://acpuk.org.uk/contact/
 
-*Notes: HCPC Clinical & Forensic Psychologist + CPsychol verified; ACP-UK Chair role public; FJC membership verified via FJC public composition lists. Lead authorship of 2022 BPS/FJC Guidance is the load-bearing item.*
+*Notes: [HCPC](https://www.hcpc-uk.org/) Clinical & Forensic Psychologist + CPsychol verified; ACP-UK Chair role public; FJC membership verified via FJC public composition lists. Lead authorship of 2022 BPS/FJC Guidance is the load-bearing item.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.jones-hannah`, `practitioner:uk-ews.glaser-danya`
 
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

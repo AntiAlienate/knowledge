@@ -151,7 +151,7 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 
 - PRIMARY SOURCE: il testo integrale dell'ordinanza è stato verificato sul PDF pubblicato da Avv. Margherita Corriere (riproduzione fedele del provvedimento depositato in cancelleria con timbro 'DEPOSITATO IN CANCELLERIA' del 17 maggio 2021). Tutte le citazioni in italiano nei verbatim_quotes sono testuali da quel PDF; le traduzioni inglesi sono dell'autore (Alan Markson).
 - PRIMARY SOURCE: composizione del collegio (Genovese Pres., Iofrida, Lamorgese, Caiazzo rel., Scalia), R.G.N. 10327/2020, R.G. Cron. 13217, oggetto 'Affido minori', udienza camerale 22.01.2021, deposito 17.05.2021, dispositivo di cassa con rinvio alla Corte d'Appello di Brescia: tutti verificati dal frontespizio e dalla parte finale del PDF primario.
-- PRIMARY SOURCE: la procedura passa Tribunale di Treviso → Corte d'Appello di Venezia (decreto 16.12.2019) → Cassazione, R.G.N. 10327/2020. Verificato dalla pagina 'Rilevato che' del PDF primario.
+- PRIMARY SOURCE: la procedura passa Tribunale di Treviso → Corte d'Appello di Venezia (decreto 16.12.2019) → [Cassazione](https://www.cortedicassazione.it/), R.G.N. 10327/2020. Verificato dalla pagina 'Rilevato che' del PDF primario.
 - PRIMARY SOURCE: i precedenti di legittimità interni esplicitamente citati nell'ordinanza sono Cass. 6919/2016 (verifica fattuale dei comportamenti denunciati come PAS-significativi, indipendentemente dal giudizio sulla validità scientifica della patologia, e tutela della bigenitorialità) e Cass. 7041/2013 (obbligo per il giudice di merito di verificare il fondamento scientifico della CTU che presenti devianze dalla scienza medica ufficiale e sia oggetto di critiche del mondo accademico internazionale), oltre a Cass. 28244/2019 (sul criterio dell'esclusivo interesse del minore nell'affidamento). Verificato dalla pagina 'Considerato in diritto' del PDF primario.
 - PRIMARY SOURCE: l'ordinanza qualifica la decisione d'appello come 'inammissibile valutazione di tatertyp, ovvero configurando, a carico della ricorrente, nei rapporti con la figlia minore, una sorta di colpa d'autore connessa alla postulata sindrome' — è questa la cifra metodologica nuova (tatertyp / colpa d'autore) che la dottrina successiva ha enucleato come architrave della 13217/2021 (Tommaseo, Giustizia Insieme 2021).
 - NON VERIFICABILE DA FONTE PRIMARIA: l'ECLI 'ECLI:IT:CASS:2021:13217CIV' è ricostruito secondo la convenzione di codifica ECLI italiana per la Cassazione civile (anno + numero + 'CIV'); non compare nel testo dell'ordinanza, né italgiure pubblica un ECLI formalmente assegnato per le ordinanze del 2021 nello stesso modo in cui lo fa per le sentenze più recenti.
@@ -167,6 +167,8 @@ Cassa con rinvio. Decreto della Corte d'Appello di Venezia del 16 dicembre 2019 
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

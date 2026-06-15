@@ -222,7 +222,7 @@ The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/0964906
 
 ---
 
-## 4. The 2015 NCJFCJ/Saunders evaluator competency framework and its adoption
+## 4. The 2015 NCJFCJ/[Saunders](https://www.ovw.usdoj.gov/) evaluator competency framework and its adoption
 
 ### 4.1 The recommended competencies
 
@@ -279,7 +279,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 2. The "pro-PA-recognition" practitioner camp's evaluator training framework — built around the construct of parental alienating behaviors (PABs), structured assessment, and the differential decision-tree tradition (Drozd, Stahl, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler) — is *adequately* trained in DV and not biased against survivor-mothers.
 3. The asymmetry-of-training thesis (Saunders) overstates the empirical robustness of the Saunders 2011 survey and understates the genuine, peer-reviewed clinical literature documenting PA as a real and assessable phenomenon.
 
-**[Secondary verification only]** for the verbatim text of Harman & Lorandos 2021 — *Psychology, Public Policy, and Law* is APA-paywalled and the full PDF was not directly extractable at compilation. The above summary is reconstructed from the article's published abstract and from Meier et al.'s 2022 rebuttals (which quote the critique extensively).
+**[Secondary verification only]** for the verbatim text of Harman & Lorandos 2021 — *Psychology, Public Policy, and Law* is APA-paywalled and the full PDF was not directly extractable at compilation. The above summary is reconstructed from the article's published abstract and from [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s 2022 rebuttals (which quote the critique extensively).
 
 ### 6.2 The Meier 2022 rebuttals
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

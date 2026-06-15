@@ -168,32 +168,12 @@ Each constituent jurisdiction operates distinct anonymisation conventions. See p
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Referenced in this page:**
-
-- [ICD-11 (WHO)](https://icd.who.int/)
-- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
 ## What this means if your child is being withheld from you in the United Kingdom
 
-If contact has just stopped in England & Wales, the operative law is the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — specifically [s.8](children-act-1989-section-8.md) (Child Arrangements Orders) framed by the welfare paramountcy of [s.1](children-act-1989-section-1.md) and the [s.1(2A) "parental involvement" rebuttable presumption](children-and-families-act-2014-section-11-parental-involvement.md) introduced by the Children and Families Act 2014. Scotland operates under the Children (Scotland) Act 1995; Northern Ireland under the Children (NI) Order 1995. Each constituent jurisdiction is structurally similar but the procedure differs.
+If contact has just stopped in England & Wales, the operative law is the [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) — specifically [s.8](children-act-1989-section-8.md) (Child Arrangements Orders) framed by the welfare paramountcy of [s.1](children-act-1989-section-1.md) and the [s.1(2A) "parental involvement" rebuttable presumption](children-and-families-act-2014-section-11-parental-involvement.md) introduced by the [Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6). Scotland operates under the Children (Scotland) Act 1995; Northern Ireland under the Children (NI) Order 1995. Each constituent jurisdiction is structurally similar but the procedure differs.
 
 **Procedural pathway (England & Wales).** Before issuing in the Family Court, you must (unless an exemption applies) attend a [Mediation Information and Assessment Meeting (MIAM)](children-and-families-act-2014-section-10-miam.md) per CFA 2014 s.10. Exemptions in FPR PD 3A include "evidence of domestic violence or abuse" and "child protection concerns". If those apply, file your C100 directly. The court will appoint a CAFCASS officer (the [Children's Guardian under CA 1989 s.41](children-act-1989-section-41-representation-of-child.md)) in *specified proceedings* — their independent welfare assessment is the structural counter-balance to alienating-parent influence in your case.
 
@@ -203,7 +183,7 @@ If contact has just stopped in England & Wales, the operative law is the [Childr
 
 **Expert evidence is gate-kept.** [CFA 2014 s.13](children-and-families-act-2014-section-13-expert-evidence.md) limits expert reports (including psychological assessment of the child) to what is "necessary to assist the court to resolve the proceedings justly." Following [Re C [2023] EWHC 345 (Fam)](re-c-2023-ewhc-345-fam.md), PA is not a "syndrome" amenable to diagnostic testing — the court controls who can opine on alienating behaviours and what qualifications they need. The [2024 Family Justice Council guidance on alienating behaviours](https://www.judiciary.uk/) and CAFCASS's 2024 *Working with Children Affected by Parental Alienation* practice framework operationalise the post-Re-C framework.
 
-**If repeat applications are themselves the alienating pattern,** the court can make a [barring order under CA 1989 s.91(14) / s.91A](children-act-1989-section-91A-barring-order-further-provision.md). The s.91A expansion (Domestic Abuse Act 2021, in force 28 Feb 2022) explicitly authorises the order where the litigation pattern puts *another individual* — including the targeted parent — at risk of harm. Sir Andrew McFarlane P's 2022 President's Guidance pushed back against the previous "exceptional case" practice.
+**If repeat applications are themselves the alienating pattern,** the court can make a [barring order under CA 1989 s.91(14) / s.91A](children-act-1989-section-91A-barring-order-further-provision.md). The s.91A expansion ([Domestic Abuse Act 2021](https://www.legislation.gov.uk/ukpga/2021/17), in force 28 Feb 2022) explicitly authorises the order where the litigation pattern puts *another individual* — including the targeted parent — at risk of harm. Sir Andrew McFarlane P's 2022 President's Guidance pushed back against the previous "exceptional case" practice.
 
 **Get local counsel.** [The Law Society Family Law accreditation](https://www.lawsociety.org.uk/) and [Resolution](https://resolution.org.uk/) directories are the starting points. Legal Aid is available in domestic-abuse cases via the LAA's evidence-of-DA gateway. Where alienation is unfolding fast, an urgent without-notice application under FPR Part 18 may be appropriate, but courts are sceptical of without-notice contact applications absent genuine emergency.
 
@@ -219,11 +199,11 @@ In the United Kingdom parental alienation is neither prohibited nor named in sta
 
 ### What law covers withholding a child from a parent in the United Kingdom?
 
-The primary statutory basis in the United Kingdom is Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995 — UK constituent children-law statutes. Authoritative text: <https://www.legislation.gov.uk/>.
+The primary statutory basis in the United Kingdom is [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995 — UK constituent children-law statutes. Authoritative text: <https://www.legislation.gov.uk/>.
 
 ### What is the leading court decision on parental alienation in the United Kingdom?
 
-The leading apex decision is UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
+The leading apex decision is [UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing.
 
 ### What can a parent do if their child is being withheld from them in the United Kingdom?
 
@@ -282,7 +262,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Health and Social Care Act 2008 — HCPC UK-wide statutory framework",
+      "name": "Health and Social Care Act 2008 — [HCPC](https://www.hcpc-uk.org/) UK-wide statutory framework",
       "legislationIdentifier": "Health and Social Care Act 2008 (HCPC regulator framework)",
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/ukpga/2008/14",
@@ -291,7 +271,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Children and Families Act 2014 — Cafcass framework + family-court reforms",
+      "name": "Children and Families Act 2014 — [Cafcass](https://www.cafcass.gov.uk/) framework + family-court reforms",
       "legislationIdentifier": "Children and Families Act 2014",
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/ukpga/2014/6",
@@ -316,6 +296,27 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [ICD-11 (WHO)](https://icd.who.int/)
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

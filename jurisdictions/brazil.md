@@ -199,22 +199,6 @@ Children and family parties are identified by initials only in published judgmen
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
-
 
 <!-- AA-FAQ-START -->
 
@@ -273,7 +257,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Brazil (República Federativa do Brasil)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
       "datePublished": "2010",
-      "description": "World's first statutory codification of alienação parental as juridical concept. Art. 2° defines alienação parental; art. 4° establishes provisional measures; art. 6° enumerates judicial remedies. Substantively foundational for global PA-recognition statutory framework — heavily cited by PASG-aligned advocates internationally."
+      "description": "World's first statutory codification of alienação parental as juridical concept. Art. 2° defines alienação parental; art. 4° establishes provisional measures; art. 6° enumerates judicial remedies. Substantively foundational for global PA-recognition statutory framework — heavily cited by [PASG](https://pasg.info/)-aligned advocates internationally."
     },
     {
       "@type": "Legislation",
@@ -316,6 +300,22 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

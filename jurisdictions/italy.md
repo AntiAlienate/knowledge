@@ -215,27 +215,6 @@ La [Corte di Cassazione](https://www.cortedicassazione.it/) anonimizza d'ufficio
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Referenced in this page:**
-
-- [HUDOC search: Lombardo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lombardo%22]})
-- [HUDOC search: Strumia](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Strumia%22]})
-- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
 
 <!-- AA-PRACTICAL-START -->
 
@@ -247,7 +226,7 @@ The operative framework is the [Codice civile arts. 315-bis a 337-octies](https:
 
 **The 30-day relocation duty — your strongest statutory lever.** [Codice civile art. 337-sexies](codice-civile-art-337-sexies-family-home-and-residence.md) imposes a **peremptory** duty on each parent to notify the other within 30 days of any change of residence or domicile. Failure obliges the parent in breach to pay damages to both the other parent and the children for *"la difficoltà di reperire il soggetto"*. If your co-parent has moved without notice, document this and raise it in your Tribunale filing — it is one of the strongest statutory tools against silent-relocation alienation.
 
-**The Cassazione's PA position is clear.** [Cassazione Sez. I civile, ordinanza n. 13217/2021](https://www.cortedicassazione.it/) and [ordinanza n. 9691/2022](https://www.cortedicassazione.it/) expressly characterised PAS as *"privo di base scientifica"* (without scientific basis) and excluded its use as a diagnostic category in custody proceedings. The 2020 *Ministero della Salute* position is upstream of this jurisprudence. **Do not** ask your court for a *consulenza tecnica d'ufficio* (CTU) framed around a *diagnosi di PAS*; argue the behaviours under the [art. 337-ter](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md) (*provvedimenti riguardo ai figli*) discretion of the court.
+**The [Cassazione](https://www.cortedicassazione.it/)'s PA position is clear.** [Cassazione Sez. I civile, ordinanza n. 13217/2021](https://www.cortedicassazione.it/) and [ordinanza n. 9691/2022](https://www.cortedicassazione.it/) expressly characterised PAS as *"privo di base scientifica"* (without scientific basis) and excluded its use as a diagnostic category in custody proceedings. The 2020 *Ministero della Salute* position is upstream of this jurisprudence. **Do not** ask your court for a *consulenza tecnica d'ufficio* (CTU) framed around a *diagnosi di PAS*; argue the behaviours under the [art. 337-ter](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md) (*provvedimenti riguardo ai figli*) discretion of the court.
 
 **Where exclusive custody is appropriate.** [Codice civile art. 337-quater](codice-civile-art-337-quater-affidamento-esclusivo.md) authorises *affidamento esclusivo* where joint exercise would be *"contrario all'interesse del minore"* — the apex provision in cases where one parent's alienating conduct is sustained and serious. The Cassazione (Sez. I ord. n. 9691/2022) has applied this where contact-interference patterns are documented even without invoking a PA *syndrome* label.
 
@@ -336,7 +315,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Council of Europe Convention on preventing and combating violence against women and domestic violence",
+      "name": "[Council of Europe](https://www.coe.int/) Convention on preventing and combating violence against women and domestic violence",
       "legislationIdentifier": "Convenzione di Istanbul art. 31",
       "jurisdiction": "Italy (Repubblica Italiana)",
       "url": "https://rm.coe.int/168008482e",
@@ -357,6 +336,28 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HUDOC search: Lombardo](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Lombardo%22]})
+- [HUDOC search: Strumia](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Strumia%22]})
+- [HUDOC search: Improta](https://hudoc.echr.coe.int/eng#{%22fulltext%22:[%22Improta%22]})
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 

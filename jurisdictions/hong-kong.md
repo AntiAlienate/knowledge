@@ -205,26 +205,6 @@ STRICT anonymisation per Matrimonial Causes Rules (Cap. 179A): all parties in pr
 
 
 
-<!-- AA-CITE-START -->
-
----
-
-## Sources & authoritative references
-
-**Referenced in this page:**
-
-- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
-
-**Topic baseline (independently verifiable):**
-
-- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
-- [UN Treaty Collection — international treaties](https://treaties.un.org/)
-- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
-- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
-- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
-
-<!-- AA-CITE-END -->
-
 
 <!-- AA-FAQ-START -->
 
@@ -340,7 +320,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Hong Kong Special Administrative Region",
       "url": "https://www.legco.gov.hk/",
       "datePublished": "2015",
-      "description": "Proposed Bill flowing from the Law Reform Commission of Hong Kong 2005 report on Custody and Access (Children's Custody Sub-committee, Hon Mr Justice Saunders chair). Would introduce a Parental Responsibility Model replacing the existing custody / access terminology. First floated 2015, revisited LegCo 2024. NOT YET ENACTED as of 2026."
+      "description": "Proposed Bill flowing from the Law Reform Commission of Hong Kong 2005 report on Custody and Access (Children's Custody Sub-committee, Hon Mr Justice [Saunders](https://www.ovw.usdoj.gov/) chair). Would introduce a Parental Responsibility Model replacing the existing custody / access terminology. First floated 2015, revisited LegCo 2024. NOT YET ENACTED as of 2026."
     },
     {
       "@type": "LegalCase",
@@ -372,6 +352,26 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41)
+
+**Topic baseline (independently verifiable):**
+
+- [HCCH — Hague Conference on Private International Law](https://www.hcch.net/)
+- [UN Treaty Collection — international treaties](https://treaties.un.org/)
+- [OHCHR — UN Human Rights Office](https://www.ohchr.org/)
+- [Council of Europe Treaties](https://www.coe.int/en/web/conventions/)
+- [UNICEF CRC — Convention on the Rights of the Child](https://www.unicef.org/child-rights-convention)
+
+<!-- AA-CITE-END -->
 
 <!-- AA-CROSSLINK-START -->
 
