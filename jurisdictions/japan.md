@@ -121,87 +121,27 @@ Japanese Supreme Court and High Court judgments may name adult parties in publis
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Japan
 
+The operative framework is the [Minpō (民法 Civil Code)](https://www.japaneselawtranslation.go.jp/) arts. 766–839 (*親子 / 親権 / 監護*) and the *Jinji Soshōhō* (人事訴訟法 — Personal Status Litigation Act). The most important contextual fact is the **transition from sole custody (単独親権 *tandoku shinken*) to joint custody (共同親権 *kyōdō shinken*)** introduced by the Civil Code Partial Amendment 2024 (Reiwa 6) — **effective 2026**.
 
+**Pre-2026 regime context.** Until 2026 Japan operated a default *tandoku shinken* (sole-custody) framework on divorce, with the practical consequence that the non-resident parent frequently lost all decision-making authority and often most contact. The international community (including the EU Parliament resolution 2020) and the [Hague 1980 implementation reviews](https://www.hcch.net/) had repeatedly criticised this regime for failing to protect targeted-parent rights and for tacitly enabling abduction-and-retention patterns.
 
+**Post-2026 regime — joint custody by default in many cases.** Under the 2024 amendment, divorcing parents can now elect *kyōdō shinken* (joint custody) and family courts may order it on the *child's best-interests* analysis (子の利益 *ko no rieki*). Sole custody remains available where joint exercise would be inconsistent with the child's interests (e.g. documented family violence, sustained alienating conduct). Expect transitional litigation through 2026–2027 as the courts and practitioners develop a body of post-amendment case law.
 
+**Procedural pathway — the Katei Saibansho.** Family disputes go to the *家庭裁判所 Katei Saibansho* (Family Court). Procedure typically begins with **mandatory mediation (調停 *chōtei*)** before contested litigation. *Chōtei* is led by professional mediators (調停委員); failure to settle leads to a *shimpan* (審判 — court determination) or *soshō* (訴訟 — litigation) phase. The *katei chōsakan* (家庭裁判所調査官 — family-court investigator) is the structural equivalent of an English CAFCASS officer; their welfare investigation is highly influential.
 
+**Hague 1980 implementation.** Japan acceded to the Hague Convention in 2014 and its implementing [Hague Convention Implementation Act (Act No. 48 of 2013)](https://www.moj.go.jp/) operates through the [Ministry of Foreign Affairs Central Authority](https://www.mofa.go.jp/fp/hr_ha/page22e_000843.html). Implementation has been improving but criticism continues that return orders are made but enforcement is patchy.
 
+**Contact enforcement.** Where a court-ordered visitation (面会交流 *menkai kōryū*) is being ignored, application for *enforcement* (履行勧告 *rikō kankoku* or 間接強制 *kansetsu kyōsei*) is the route. *Kansetsu kyōsei* imposes escalating financial penalties; effectiveness varies by family court.
 
+**The PA-construct question.** The *Saikō Saibansho* (最高裁判所 — Supreme Court) has not endorsed PAS as a syndrome. *Shinrigaku* (心理学 — psychology) practice in Japan has tended to be methodologically cautious about diagnostic labels; argue the behaviours within the *ko no rieki* framework.
 
+**Get local counsel.** *Bengoshi* (弁護士 — bar-admitted attorney) is recommended for any contested family-court matter. The [Nihon Bengoshi Rengōkai (Japan Federation of Bar Associations — JFBA)](https://www.nichibenren.or.jp/) maintains family-law specialist directories. *Hōritsu fujo* (法律扶助 — legal aid) is available via the *Hōterasu* (Japan Legal Support Center).
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

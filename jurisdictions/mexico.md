@@ -127,87 +127,25 @@ Las sentencias de la SCJN, los Tribunales Colegiados de Circuito y los Tribunale
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Mexico
 
+Mexico operates a **federal civil-law architecture with significant state-by-state variation** under [Código Civil federal arts. 411–448](https://www.diputados.gob.mx/LeyesBiblio/index.htm) and each entidad federativa's *Código Civil* (notably the highly-developed [Ciudad de México Código Civil](https://www.congresocdmx.gob.mx/) which has codified *alienación parental* by name) and *Código Familiar* (Hidalgo, Morelos, San Luis Potosí, Zacatecas have stand-alone family codes). Always check the substantive code that applies in the entidad of the child's habitual residence.
 
+**Statutory codification of alienación parental.** A growing number of state codes — most notably the CDMX Código Civil art. 323-Septimus — define *alienación parental* and authorise judicial measures up to and including modification of *patria potestad* / *guarda y custodia*. The federal *Suprema Corte de Justicia de la Nación (SCJN)* has not yet issued a unifying *jurisprudencia* on the construct, leading to state-by-state divergence on evidentiary standards.
 
+**Procedural pathway — the Juzgado de lo Familiar.** File at the *Juzgado de lo Familiar* of the child's *domicilio* (per each entidad's *Código de Procedimientos Civiles*). The procedure includes a *juicio oral familiar* in most modernised state codes (CDMX, Estado de México, Nuevo León, Jalisco). The *Sistema Nacional para el Desarrollo Integral de la Familia (DIF)* and the *Procuraduría de Protección de Niñas, Niños y Adolescentes* are the structural equivalents of state child-protection authorities.
 
+**The Hague Convention 1980 implementation.** Mexico is a Hague 1980 contracting state via the [Convención sobre los Aspectos Civiles de la Sustracción Internacional de Menores](https://aplicaciones.sre.gob.mx/tratados/). The *Secretaría de Relaciones Exteriores* is the Central Authority. Implementation has been uneven historically; recent SCJN amparo decisions have reinforced compliance.
 
+**Contact enforcement.** Where a court-ordered *régimen de convivencias* is being ignored, application for *medidas de apremio* (escalating fines, *arresto* in extremis) is the route under each entidad's *Código de Procedimientos Civiles* (CDMX CPC arts. 73 bis, 311). Serious *retención ilegítima de menor* may reach the criminal track via [Código Penal Federal art. 366 ter](https://www.diputados.gob.mx/LeyesBiblio/index.htm) (*tráfico de menores*) or equivalent state offences.
 
+**Apex authority.** The [Suprema Corte de Justicia de la Nación (SCJN)](https://www.scjn.gob.mx/) has issued amparo decisions on *guarda y custodia*, the *interés superior del niño* (Ley General de los Derechos de Niñas, Niños y Adolescentes 2014), and the Hague Convention. Look for *tesis aisladas* and *jurisprudencias* on the topic via the SCJN *Semanario Judicial de la Federación*.
 
+**Get local counsel.** *Abogado* (Licenciado en Derecho) with *cédula profesional* is the basic requirement; *especialización en Derecho Familiar* via UNAM, ITAM, or Tec de Monterrey postgraduate programmes is recommended for contested matters. *Defensoría Pública* is income-tested via the *Consejo de la Judicatura Federal*. The [Barra Mexicana, Colegio de Abogados](https://www.bma.org.mx/) and the [Ilustre y Nacional Colegio de Abogados de México](https://www.incam.org/) maintain family-law specialist directories.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

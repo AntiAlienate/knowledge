@@ -118,87 +118,25 @@ Children and family parties are identified by initials only in published judgmen
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Brazil
 
+Brazil has **the world's first statutory codification** of parental alienation as a juridical concept: the [Lei nº 12.318/2010 — Lei da Alienação Parental](case-law/brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md). This is the controlling instrument and you should expect a Brazilian family-court (Vara de Família) judge to apply it directly.
 
+**What Lei 12.318/2010 actually does.** Art. 2º defines *alienação parental* as conduct by a parent (or third party with custody/guardianship) that interferes with the child's psychological development *para que repudie genitor ou que cause prejuízo ao estabelecimento ou à manutenção de vínculos*. Non-exhaustive examples include: realising a *campanha de desqualificação* against the other parent, hindering exercise of *autoridade parental*, blocking contact, omitting information about the child, presenting false accusations, changing residence without justified motive. Art. 6º authorises escalating *medidas* — warning, fines, supervised visitation, ampliação do regime de convivência with the targeted parent, transfer of custody, even suspension of *poder familiar* in the most serious cases.
 
+**Procedural pathway — the Vara de Família.** File at the *Vara de Família* of the child's *foro do domicílio* (per [CPC art. 53, I](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) and ECA). Procedure follows the [Código de Processo Civil](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2015/lei/l13105.htm) and the [Estatuto da Criança e do Adolescente (ECA, Lei nº 8.069/1990)](https://www.planalto.gov.br/ccivil_03/leis/l8069.htm). The [Código Civil arts. 1.630 a 1.638](https://www.planalto.gov.br/ccivil_03/leis/2002/l10406compilada.htm) (*poder familiar*) provide the substantive backdrop.
 
+**Burden of proof note.** Art. 5º of Lei 12.318/2010 establishes that *indícios* of alienação parental authorise the judge to order, *de ofício* or on application, a *perícia psicológica ou biopsicossocial*. Brazilian family-court practice has converged on multi-disciplinary teams (*equipe técnica do juízo*) to evaluate alienating conduct rather than single-expert syndrome diagnoses.
 
+**Apex court application.** The [Superior Tribunal de Justiça (STJ)](https://www.stj.jus.br/) has applied Lei 12.318/2010 in cases such as REsp 1.629.994/RJ (2017) and REsp 1.722.030/PR (2019), upholding both the multi-disciplinary evaluation model and the escalating-sanctions architecture of art. 6º. The Conselho Nacional de Justiça (CNJ) Resolução 350/2020 standardises Vara de Família practice.
 
+**The international dimension.** Brazil is a Hague 1980 contracting state; international removal goes through the [Autoridade Central Administrativa Federal (ACAF)](https://www.gov.br/mdh/pt-br) at the Ministério dos Direitos Humanos e da Cidadania.
 
+**Get local counsel.** *Advogado* is mandatory in family proceedings. The [Ordem dos Advogados do Brasil (OAB)](https://www.oab.org.br/) certifies *Especialista em Direito de Família* via the *Escola Superior de Advocacia*. *Defensoria Pública* provides legal representation income-tested. The [Instituto Brasileiro de Direito de Família (IBDFAM)](https://ibdfam.org.br/) is the principal scholarly and practitioner network.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 

@@ -152,87 +152,25 @@ CSJN anonimiza por iniciales (P., B. E. G. c/ B., K. E.); la SCBA y demás fuero
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
 
+## What this means if your child is being withheld from you in Argentina
 
+The operative framework is the [Código Civil y Comercial de la Nación (CCyCN, Ley 26.994)](case-law/argentina/codigo-civil-y-comercial-2015-arts-638-655-pa-recognition.md), in force since August 2015. The CCyCN expressly regulates *responsabilidad parental* (arts. 638 a 655 — replacing the former *patria potestad*), the principle of *cuidado personal compartido* as default (art. 651), and the *plan de parentalidad* mechanism (art. 655). The structural framing is *interés superior del niño* per [Ley 26.061 de Protección Integral de los Derechos de Niñas, Niños y Adolescentes](https://servicios.infoleg.gob.ar/infolegInternet/anexos/110000-114999/110778/norma.htm) and the [Convención sobre los Derechos del Niño](https://www.unicef.org/argentina/convencion-sobre-los-derechos-del-nino) (constitucionalizada via art. 75 inc. 22 of the Constitución).
 
+**Statutory recognition of obstrucción al vínculo.** CCyCN arts. 652 (*derecho y deber de comunicación*) and 654 (*relación entre los progenitores e hijos*) explicitly require both parents to facilitate the relationship of the child with the other. Argentine doctrine and jurisprudence treat repeated *obstrucción del régimen de comunicación* as a breach of this *deber* and as grounds for judicial intervention including reversal of *cuidado personal*.
 
+**Procedural pathway — the Juzgado de Familia.** File at the *Juzgado de Familia* of the child's *domicilio*. Procedure runs under each provincia's *Código Procesal Civil y Comercial* (CABA's is highly developed; provincias vary). The *Asesor de Menores* (Public Defender for Minors) represents the child's interests independently of either parent — this is the structural counter-balance to alienating-parent influence. *Equipos técnicos interdisciplinarios* (psychologists, social workers attached to the court) conduct welfare evaluations.
 
+**Hague Convention 1980 implementation.** Argentina is a Hague 1980 contracting state, with the Autoridad Central operating through the *Dirección General de Asuntos Jurídicos del Ministerio de Relaciones Exteriores*. Implementation has been substantial; the *Corte Suprema de Justicia de la Nación (CSJN)* has reinforced Convention compliance in numerous decisions including *S., D. c. P., F. J.* (Fallos 343:259).
 
+**The PA-construct question.** The CSJN has not endorsed *Síndrome de Alienación Parental* (SAP) as a diagnostic category. Argentine practice in the *Juzgados de Familia* is to assess the underlying conduct (incumplimiento del régimen, denigración, manipulación) under the CCyCN responsabilidad-parental framework. Some provincial codes (e.g. provincia de Buenos Aires) have introduced statutory references to *obstrucción del vínculo*; these are increasingly applied without recourse to syndrome labelling.
 
+**Contact enforcement.** *Astreintes* (escalating daily fines under CCyCN art. 804) are the principal civil enforcement mechanism. *Sanciones conminatorias* in extreme cases. Criminal exposure under [Código Penal art. 149](https://servicios.infoleg.gob.ar/infolegInternet/anexos/15000-19999/16546/texact.htm) (*impedimento de contacto de menor con su padre no conviviente*, Ley 24.270) is available where the obstrucción is systematic and serious.
 
+**Get local counsel.** *Abogado* (matrícula del Colegio Público de Abogados de la jurisdicción correspondiente) is mandatory. *Especialización en Derecho de Familia* via the *Asociación Argentina de Profesores de Derecho Procesal* or postgraduate programmes (UBA, Universidad Católica Argentina) is recommended. *Patrocinio jurídico gratuito* (legal aid) via the *Defensoría Oficial* or the *Patrocinio Jurídico Gratuito* programmes of the *Facultades de Derecho* of state universities.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!-- AA-PRACTICAL-END -->
 
 <!-- AA-FAQ-START -->
 
