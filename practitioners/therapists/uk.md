@@ -229,7 +229,7 @@ London · England · Senior Lecturer, Centre for Psychiatry & Mental Health, Que
 *Consultant Clinical & Forensic Psychologist; [HCPC](https://www.hcpc-uk.org/)-registered Clinical & Forensic Psychologist; Chartered Psychologist (CPsychol); Chair Association of Clinical Psychologists UK (ACP-UK); member Family Justice Council*
 London · England · Association of Clinical Psychologists UK (ACP-UK, Chair); Family Justice Council member; lead author 2022 [BPS](https://www.bps.org.uk/) / FJC Guidance on Psychologists as Expert Witnesses in the Family Courts of England and Wales
 
-**Stance:** Craig literally wrote the rules McFarlane P enforced in Re Y [2026] EWFC 38. Lead author of the 2022 BPS / FJC Guidance on Psychologists as Expert Witnesses in the Family Courts of England and Wales — the framework Re Y operationalises at the instruction stage. Cleanest UK source for 'what regulated practice looks like' in PA-allegation cases. Sits at the intersection of clinical leadership (ACP-UK Chair) and FJC policymaking; uniquely placed for policy interviews.
+**Stance:** Craig literally wrote the rules McFarlane P enforced in Re Y [2026] EWFC 38. Lead author of the 2022 [BPS](https://www.bps.org.uk/) / FJC Guidance on Psychologists as Expert Witnesses in the Family Courts of England and Wales — the framework Re Y operationalises at the instruction stage. Cleanest UK source for 'what regulated practice looks like' in PA-allegation cases. Sits at the intersection of clinical leadership (ACP-UK Chair) and FJC policymaking; uniquely placed for policy interviews.
 
 **Publications:**
 - Psychologists as Expert Witnesses in the Family Courts of England and Wales: Standards, Competencies and Expectations (lead author) (2022) — *BPS / FJC Guidance* — <https://www.bps.org.uk/guideline/psychologists-expert-witnesses-family-courts-england-wales>
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

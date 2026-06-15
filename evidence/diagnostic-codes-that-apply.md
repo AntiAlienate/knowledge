@@ -224,7 +224,7 @@ This strategy gives the report:
 
 The Bernet/Wamboldt/Narrow 2016 JAACAP article (§1.3 above) is the load-bearing citation when a forensic evaluator wants to argue that **CAPRD covers PA-pattern conduct**. Where the evaluator instead wants to argue that the conduct rises to **psychological abuse**, the corresponding doctrinal citations are:
 
-- Smith Slep, Heyman & Foran (2015). Child maltreatment in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed DSM-5 (2013) and were being considered for [ICD-11](https://icd.who.int/); argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
+- Smith Slep, Heyman & Foran (2015). Child maltreatment in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed [DSM-5](https://www.appi.org/products/dsm) (2013) and were being considered for [ICD-11](https://icd.who.int/); argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
 - Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in DSM-5, and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The DSM-5 Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
 
 These two 2015 *Family Process* papers are the methodological backbone for the proposition that the DSM-5 relational-problem and maltreatment codes have field-tested reliability adequate for forensic use.
@@ -369,7 +369,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 - The Bernet/Wamboldt/Narrow 2016 *JAACAP* article placing PA inside CAPRD.
 - The APSAC 2022 differential-diagnosis framework.
 - The [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 multiple-hypotheses approach.
-- WHO's direction (per the published ICD-11 FAQ) that QE52.0 covers these presentations.
+- WHO's direction (per the published [ICD-11](https://icd.who.int/) FAQ) that QE52.0 covers these presentations.
 
 ### 7.3 What you SHOULD NOT do
 
@@ -407,7 +407,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 ### 8.3 Low confidence / not established
 
 - **"Parental Alienation Syndrome" (Gardner 1985), "Parental Alienation Disorder" (Bernet 2010), and "Parental Alienation Relational Problem" ([PASG](https://pasg.info/) 2022 draft) are not established as discrete diagnoses in [DSM-5-TR](https://www.appi.org/products/dsm) or ICD-11.** They have been rejected or non-adopted by the APA DSM Task Force, by WHO, and (separately) criticised as scientifically unfounded by the European Parliament, the UN Special Rapporteur on Violence against Women, the Italian Supreme Court (Cass. 9691/2022), and APSAC.
-- **The Bernet "Five-Factor Model" (2022)** is a proposed operational diagnostic algorithm published in JAACAP; it has not been adopted as a DSM-5-TR or ICD-11 diagnostic standard. Its use in forensic-evaluator practice is contested.
+- **The Bernet "Five-Factor Model" (2022)** is a proposed operational diagnostic algorithm published in JAACAP; it has not been adopted as a [DSM-5-TR](https://www.appi.org/products/dsm) or ICD-11 diagnostic standard. Its use in forensic-evaluator practice is contested.
 - **Coding V995.51 against a parent on the basis of the child's resistance alone, without independent evidence of the parent's specific conduct and without differential-diagnosis ruling-out of estrangement secondary to maltreatment by the rejected parent,** is not consistent with APSAC 2022 or with mainstream forensic practice. The conservative coding in such a case is V61.20 + V61.29.
 
 ### 8.4 The bottom line
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

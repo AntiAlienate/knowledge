@@ -77,3 +77,35 @@ Where these conditions are met, art. 332 provides the formal restoration route. 
 - [Codice Civile, art. 333 — Condotta pregiudizievole (intermediate)](codice-civile-art-333-condotta-pregiudizievole.md)
 - [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
 - [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Co Regulation Skill Matters More Than Explanations](https://www.antialienate.com/blog/co-regulation-skill-matters-more-than-explanations)
+- [How To Get Lost Time Back Alienated Parent](https://www.antialienate.com/blog/how-to-get-lost-time-back-alienated-parent)
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [What Alienating Parents Tell New Partners](https://www.antialienate.com/blog/what-alienating-parents-tell-new-partners)
+
+<!-- AA-CROSSLINK-END -->
