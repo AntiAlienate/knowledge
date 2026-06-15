@@ -122,6 +122,36 @@ Las sentencias de la Corte Constitucional en sede de tutela anonimizan a NNA med
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Colombia
+
+The operative framework is the [Código Civil arts. 253–262](https://www.funcionpublica.gov.co/) and the [Código de la Infancia y la Adolescencia (Ley 1098 de 2006)](case-law/colombia/codigo-civil-arts-253-262-codigo-de-la-infancia-2006.md). The principle is *interés superior del niño, niña y adolescente* per Ley 1098 art. 8, with constitutional rank under [Constitución art. 44](https://www.corteconstitucional.gov.co/) — the *paramount and prevalent* nature of children's rights is uniquely strong in Colombian constitutional doctrine.
+
+**Default position.** *Patria potestad* (parental authority) is jointly exercised under Código Civil arts. 288–289. *Custodia y cuidado personal* allocation post-separation follows Código Civil art. 253, with *interés superior* override.
+
+**Procedural pathway — Comisaría de Familia + Juzgado de Familia.** Colombia operates a two-track family-law architecture:
+- **Comisaría de Familia** (Family Commissary — administrative agency) handles routine custody, visitation, food-support matters under [Ley 575 de 2000](https://www.funcionpublica.gov.co/) and Ley 1098. The *Comisario* makes administrative decisions enforceable through *medidas de protección*.
+- **Juzgado de Familia** (Family Court — judicial track) handles contested matters, divorce-related custody, and appeals from Comisaría decisions. Procedure under [Código General del Proceso (Ley 1564 de 2012)](https://www.funcionpublica.gov.co/).
+
+The *Instituto Colombiano de Bienestar Familiar (ICBF)* is the federal child-protection agency; the *Defensoría de Familia* (Family Defender — attached to ICBF) appears in both administrative and judicial proceedings and provides welfare reports under Ley 1098 art. 79.
+
+**Statutory recognition of obstruction.** Ley 1098 art. 23 explicitly recognises the *custodia y cuidado personal* as a right of the child, and the constitutional *prevalente* doctrine requires courts to apply welfare-paramountcy. The [Corte Constitucional](https://www.corteconstitucional.gov.co/) in Sentencia T-292/04 and subsequent tutela decisions has applied *prevalencia* to contact-obstruction cases.
+
+**Contact enforcement.** Where a *régimen de visitas* is being ignored, the [Código General del Proceso art. 305](https://www.funcionpublica.gov.co/) and Ley 1098 mechanisms authorise *medidas de apremio* (coercive measures), including *multas* (fines) and ultimately *suspensión de la patria potestad* (suspension of parental authority).
+
+**The constitutional tutela track.** Colombian targeted parents have a uniquely powerful constitutional tool: the *acción de tutela* (constitutional action for protection of fundamental rights). Where contact obstruction violates the child's *derechos fundamentales* under Constitución art. 44, a tutela can be filed at any court and decided within 10 days. The [Corte Constitucional](https://www.corteconstitucional.gov.co/) reviews via *revisión eventual* and has produced significant family-law jurisprudence.
+
+**Criminal exposure.** [Código Penal art. 230A](https://www.suin-juriscol.gov.co/) (*ejercicio arbitrario de la custodia*) explicitly criminalises *retención* of a minor against a court-ordered custodial arrangement — punishable by imprisonment from 1 to 3 years. This is one of the most specific criminal contact-obstruction provisions in Latin America.
+
+**The PA-construct question.** The [Colegio Colombiano de Psicólogos (COLPSIC)](https://colpsic.org.co/) has been methodologically cautious about the *Síndrome de Alienación Parental* (SAP) label. Colombian family-court practice has tended to apply behaviour-based analysis under the *prevalente* framework. The Corte Constitucional has not endorsed PAS as a diagnostic category.
+
+**Hague Convention 1980 implementation.** Colombia is a Hague 1980 contracting state. The Central Authority operates through the [Instituto Colombiano de Bienestar Familiar (ICBF)](https://www.icbf.gov.co/). Implementation has been substantial.
+
+**Get local counsel.** *Abogado* (with *tarjeta profesional* from the [Consejo Superior de la Judicatura](https://www.ramajudicial.gov.co/)). *Defensoría del Pueblo* provides constitutional protection-oriented representation. *ICBF* and *Comisarías de Familia* are non-litigant but provide structured family-law intervention.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Colombia (República de Colombia)

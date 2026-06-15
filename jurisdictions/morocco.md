@@ -72,6 +72,38 @@ Moroccan family-court decisions are anonymised per Court of Cassation practice u
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Morocco
+
+The operative framework is the [Mudawwana al-Usra (Family Code, Law 70-03 of 2004)](https://www.justice.gov.ma/) — the modernised Moroccan family law replacing the 1958 Mudawwana. The principle is *maṣlaḥat al-ṭifl* (interest of the child) per Mudawwana art. 169, given constitutional rank by the [2011 Constitution art. 32](https://www.maroc.ma/).
+
+**Substantive framework.** Mudawwana arts. 163–186 regulate *ḥaḍāna* (custody) and *zayāra* (visitation):
+- *Ḥaḍāna* is allocated by Mudawwana art. 171 with maternal preference until *bulūgh* (puberty) — typically age 15 for boys, age 15 (or marriage) for girls, after which the child chooses.
+- *Zayāra* (visitation) for the non-custodial parent is regulated under art. 180–184 — the court determines a *régime de visite* on the *maṣlaḥat al-ṭifl* standard.
+- *Wilāya* (legal guardianship — financial and educational decisions) typically remains with the father even when ḥaḍāna is maternal, creating the parallel-authority structure unique to Islamic family law.
+
+**Procedural pathway — the Tribunal de la Famille.** Family disputes go to the *Maḥkamat al-Usra* (Family Court — *Tribunal de la Famille*) at the petitioner's residence under Mudawwana. Procedure under the [Code of Civil Procedure (Dahir 1-74-447 of 1974)](https://www.justice.gov.ma/). The 2004 Mudawwana introduced *réconciliation* (mediation/reconciliation) as a mandatory pre-litigation step in divorce-related custody matters.
+
+**The 2004 Mudawwana reforms.** The 2004 family-code reform substantially elevated maternal and child rights compared to the 1958 Mudawwana, introducing:
+- Equal *wilāya* (legal guardianship) of the mother in cases of incapacity or absence of the father
+- Better enforcement of *zayāra* through the Family Court
+- *Naffaqa* (maintenance) reform with stronger enforcement
+
+**A 2024 reform initiative.** A Royal-Decree commission established in 2022 produced a draft revision of the Mudawwana in 2024 aimed at further modernising custody, visitation, and *wilāya* allocation. The draft is under public consultation; check current status. The reform may substantially restructure ḥaḍāna/wilāya allocation.
+
+**Contact enforcement.** Where a court-ordered *zayāra* is being ignored, the [Code of Civil Procedure art. 440 et seq.](https://www.justice.gov.ma/) authorises *exécution forcée* through the *Bureau d'Exécution* of the Family Court. Sustained obstruction is grounds for *transfert de la ḥaḍāna* (transfer of custody) — the [Cour de Cassation Chambre du Statut Personnel](https://www.cspj.ma/) has applied this in recent decisions.
+
+**Criminal exposure.** [Code Pénal art. 477](https://www.justice.gov.ma/) (*non-représentation d'enfant*) and arts. 471–472 (*enlèvement d'enfant*) provide criminal-track tools. Penalties scale up for repeated offences and for cases involving cross-border removal.
+
+**The PA-construct question.** The [Société Marocaine de Psychiatrie](https://www.smp.ma/) has not endorsed *Syndrome d'Aliénation Parentale* as a diagnostic category. Moroccan family-court practice applies the *maṣlaḥat al-ṭifl* framework with welfare reports from the *Bureau de réconciliation* and court-appointed *expert* where commissioned.
+
+**Hague Convention 1980 implementation.** Morocco is a Hague 1980 contracting state via the 2010 accession. The Central Authority operates through the [Ministry of Justice (Wizārat al-ʿAdl)](https://www.justice.gov.ma/). Implementation has been substantial but operates within the constraints of the parallel personal-status framework — return orders may be made but enforcement requires coordination with the Family Court.
+
+**Get local counsel.** *Muḥāmī* (advocate) — member of a regional Bar (e.g. [Ordre des Avocats de Rabat](https://www.barreau-rabat.com/), [Ordre des Avocats de Casablanca](https://www.avocats-casablanca.ma/)) with family-law practice. *Assistance judiciaire* is means-tested.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Morocco (Kingdom of Morocco / المملكة المغربية)

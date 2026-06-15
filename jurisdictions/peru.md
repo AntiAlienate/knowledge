@@ -74,6 +74,32 @@ Peruvian family-court decisions are anonymised per Supreme Court practice using 
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Peru
+
+The operative framework is the [Código Civil arts. 418–471](https://www.gob.pe/) on *patria potestad* and *tenencia* (custody) and the [Código de los Niños y Adolescentes (Ley 27337)](https://www.gob.pe/). The principle is *interés superior del niño y del adolescente* per Constitución art. 4 and CNA art. IX.
+
+**Default position.** *Patria potestad* is jointly exercised under Código Civil arts. 418–419. On separation, *tenencia* (de facto custody) allocation follows CNA arts. 81–87, with the welfare-paramountcy override.
+
+**Procedural pathway — the Juzgado de Familia.** Family disputes go to the *Juzgado de Familia* (Family Court — under the [Ley Orgánica del Poder Judicial](https://www.gob.pe/)) of the child's habitual residence. Procedure under the [Código Procesal Civil arts. 547](https://www.gob.pe/) special family-procedure track. The *Equipo Multidisciplinario* (multi-disciplinary court team — psychologists, social workers) conducts welfare assessments under CNA art. 150.
+
+**Statutory recognition of *tenencia compartida*.** [Ley 29269 (2008)](https://www.gob.pe/) introduced *tenencia compartida* (shared custody) as a possible regime where appropriate to the child's interest. *Régimen de visitas* (visitation regime) is regulated under CNA arts. 88–91 and applies to the non-custodial parent.
+
+**Statutory recognition of obstruction.** [CNA art. 86](https://www.gob.pe/) explicitly recognises the right of the non-custodial parent to maintain contact and requires the custodial parent to facilitate the régimen de visitas. Breach is grounds for *variación de la tenencia* (variation of custody) under CNA art. 84.
+
+**Contact enforcement.** Where a *régimen de visitas* is being ignored, the [Código Procesal Civil art. 716](https://www.gob.pe/) and CNA mechanisms authorise *apercibimientos* (warnings), *multas* (fines), and ultimately *variación de la tenencia*. Peruvian Juzgados de Familia have been moderately willing to use tenencia-transfer in sustained-obstruction cases.
+
+**Criminal exposure.** [Código Penal art. 147](https://www.gob.pe/) (*sustracción de menor* — taking a minor from custody) is available for serious systematic obstruction, punishable by imprisonment up to 4 years.
+
+**The PA-construct question.** The [Colegio de Psicólogos del Perú](https://cpsp.pe/) has not formally endorsed *Síndrome de Alienación Parental* (SAP) as a diagnostic category. Peruvian family-court practice has tended to apply behaviour-based analysis under the *interés superior* framework. The [Tribunal Constitucional](https://tc.gob.pe/) has not endorsed PAS as a syndrome.
+
+**Hague Convention 1980 implementation.** Peru is a Hague 1980 contracting state. The Central Authority operates through the [Ministerio de la Mujer y Poblaciones Vulnerables (MIMP)](https://www.gob.pe/mimp). Hague return proceedings go to the *Juzgado de Familia* of Lima for international cases.
+
+**Get local counsel.** *Abogado* (member of a regional [Colegio de Abogados](https://www.cal.org.pe/)) with family-law practice. The *Colegio de Abogados de Lima* maintains family-law specialist directories. *Defensa Pública* (public defender) provides means-tested representation via the Ministerio de Justicia.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Peru (Republic of Peru / República del Perú)

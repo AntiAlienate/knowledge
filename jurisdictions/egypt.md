@@ -121,6 +121,32 @@ Egyptian family courts treat personal-status proceedings with confidentiality; m
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Egypt
+
+Egypt operates a **religion-pluralist personal-law architecture**:
+- For **Muslims** (~90% of the population) — Sharia-based personal-status law under [Law No. 1 of 2000 (Personal Status Procedure)](https://www.cc.gov.eg/) and the substantive [Decree-Law No. 25 of 1929 (as amended by Law No. 100 of 1985 and subsequent reforms)](https://www.cc.gov.eg/). The Hanafi school provides the default for unaddressed matters.
+- For **Christians** (Coptic, Catholic, Orthodox, Protestant) and **Jews** — their respective religious-community personal-status laws apply, with civil enforcement.
+
+The principle is *مصلحة الطفل* (interest of the child) — articulated in [Child Law No. 12 of 1996 as amended by Law No. 126 of 2008](https://www.nccm.gov.eg/) art. 3.
+
+**Substantive framework — Muslim personal law.** [Law No. 100 of 1985 art. 20](https://www.cc.gov.eg/) (as amended 2005) regulates *hadana* (custody). The default rule: maternal custody until age 15 (raised from age 10 in 2005). Visitation (*ru'ya*) for the non-custodial parent is regulated under art. 20 and Law No. 1 of 2000 art. 65. **A 2024 amendment proposal** introduced by the *Ministry of Justice* would substantially expand non-custodial-parent contact rights but had not been enacted as of mid-2026 — check current status.
+
+**Procedural pathway — the محكمة الأسرة (Family Court).** Family disputes go to the *Maḥkamat al-Usra* (Family Court — created by Law No. 10 of 2004) at the petitioner's residence. The Family Court has both first-instance jurisdiction and an integrated *Bureau for Family Settlement* providing mandatory pre-litigation mediation under Law No. 10 of 2004 art. 6.
+
+**Contact enforcement.** Where a court-ordered *ru'ya* (visitation) is being ignored, [Law No. 1 of 2000 art. 70](https://www.cc.gov.eg/) authorises the court to impose *تنفيذ جبري* (forced execution) through the *Niyaba al-Tanfīdh* (Execution Public Prosecution). Sustained obstruction is grounds for *تحويل الحضانة* (transfer of hadana) — the *Maḥkamat al-Naqḍ* (Court of Cassation) has applied this in cases such as Naqd Aḥwāl Shakhṣiya 156/2019.
+
+**Criminal exposure.** [Penal Code art. 292](https://www.cc.gov.eg/) (*kidnapping of a child* — *khaṭf*) and art. 290 (*forced detention*) provide criminal-track tools for serious obstruction. The 2008 child-law amendments introduced additional offences for non-compliance with custody arrangements.
+
+**The PA-construct question.** Egyptian family-court practice has not adopted *Parental Alienation Syndrome* as a diagnostic category — the *Egyptian Psychiatric Society* and the *Egyptian Association for Psychology* have not endorsed PAS. Egyptian *qadi* (judge) family-court practice applies the *maslaha* (interest) framework with welfare reports from the *Bureau for Family Settlement* and court-appointed *khabīr* (expert) where commissioned.
+
+**Hague Convention 1980 status.** **Egypt is not a Hague 1980 contracting state.** Cross-border parental abduction with Egypt as origin or destination is litigated through Egyptian Family Court or via diplomatic channels rather than Hague return proceedings. **Critical fact for foreign parents:** an Egyptian court will apply Egyptian personal-status law (typically with maternal preference under hadana), creating substantial jurisdictional risk for the non-Egyptian parent.
+
+**Get local counsel.** *Muḥāmī* (advocate, member of the [Egyptian Bar Association (نقابة المحامين المصرية)](https://www.egytbar.org/)) with family-court practice. The Egyptian Bar Association maintains specialist directories. *Mu'ūnah qaḍā'iya* (legal aid) is available through the Egyptian Bar Association and the [National Council for Women](https://ncw.gov.eg/) for women-pursued matters.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Egypt (مصر / Miṣr)

@@ -128,6 +128,30 @@ Las sentencias de la Corte Suprema chilena y de las Cortes de Apelaciones public
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Chile
+
+The operative framework is the [Código Civil arts. 222–243](https://www.bcn.cl/leychile/) on *cuidado personal* (personal care) and *relación directa y regular* (direct and regular contact), together with [Ley 19.947 de Matrimonio Civil](case-law/chile/codigo-civil-cuidado-personal-relacion-directa.md) and [Ley 19.968 Tribunales de Familia](case-law/chile/ley-19947-2004-tribunales-de-familia-cuidado-personal-compartido.md). The principle is *interés superior del niño, niña o adolescente* (best interests of the child) per [Ley 20.066](https://www.bcn.cl/leychile/).
+
+**Default — cuidado personal compartido.** [Law 20.680 (Ley Amaya, 2013)](https://www.bcn.cl/leychile/) substantially reformed Chilean family law to introduce *cuidado personal compartido* (shared personal care) as a possible default when parents reach agreement. Where there is no agreement, Código Civil art. 225 establishes maternal-preference for de facto care unless judicially varied — but the reformed art. 225 explicitly requires courts to consider both parents on the *interés superior* standard.
+
+**Procedural pathway — the Tribunal de Familia.** Family disputes go to the *Juzgado de Familia* of the child's residence under the Ley 19.968 procedural framework. Procedure is *oral, concentrada y desformalizada* (oral, concentrated, deformalised). *Consejo Técnico* (Technical Council — interdisciplinary team of psychologists and social workers attached to the court) conducts welfare assessments under Ley 19.968 art. 5.
+
+**Statutory recognition of obstruction.** Código Civil art. 229 explicitly recognises *régimen comunicacional* (contact regime) and authorises the court to order *cuidado personal* transfer where the resident parent obstructs contact. The *Corte Suprema* has applied this in numerous cases, including *Rol 13.566-2018* (transfer of cuidado personal on sustained-obstruction findings).
+
+**Contact enforcement.** Where a *régimen comunicacional* is being ignored, [Ley 19.968 art. 66](https://www.bcn.cl/) authorises *apremio* (escalating coercive measures) including *arresto* (detention up to 15 days, renewable) under Código Civil art. 232. Sustained obstruction is grounds for *cuidado personal* transfer.
+
+**Criminal exposure.** [Código Penal art. 355](https://www.bcn.cl/) (*sustracción de menores* — abduction of minors) and art. 358 (*retención ilegítima*) provide criminal-track tools for serious systematic obstruction.
+
+**The PA-construct question.** The [Colegio de Psicólogos de Chile](https://colegiopsicologos.cl/) has been methodologically cautious about the *Síndrome de Alienación Parental* (SAP) label. Chilean family-court practice applies the *interés superior* framework with the *Consejo Técnico* report as the evidence base. The *Corte Suprema* has not endorsed PAS as a diagnostic category but has consistently treated alienating conduct as a *causal* for cuidado personal modification.
+
+**Hague Convention 1980 implementation.** Chile is a Hague 1980 contracting state. The Central Authority operates through the [Corporación de Asistencia Judicial](https://www.cajmetro.cl/). Hague return proceedings go to the *Tribunales de Familia* of Santiago.
+
+**Get local counsel.** *Abogado* (member of the [Colegio de Abogados de Chile](https://www.colegioabogados.cl/)) with family-court practice. The *Colegio de Abogados* maintains specialist directories. *Corporación de Asistencia Judicial* provides means-tested legal aid. *Postítulos en Derecho de Familia* via Universidad de Chile, Universidad Católica, and Universidad Diego Portales are the recognised academic accreditations.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Chile
