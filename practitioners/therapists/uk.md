@@ -232,7 +232,7 @@ London · England · Association of Clinical Psychologists UK (ACP-UK, Chair); F
 **Stance:** Craig literally wrote the rules McFarlane P enforced in Re Y [2026] EWFC 38. Lead author of the 2022 [BPS](https://www.bps.org.uk/) / FJC Guidance on Psychologists as Expert Witnesses in the Family Courts of England and Wales — the framework Re Y operationalises at the instruction stage. Cleanest UK source for 'what regulated practice looks like' in PA-allegation cases. Sits at the intersection of clinical leadership (ACP-UK Chair) and FJC policymaking; uniquely placed for policy interviews.
 
 **Publications:**
-- Psychologists as Expert Witnesses in the Family Courts of England and Wales: Standards, Competencies and Expectations (lead author) (2022) — *BPS / FJC Guidance* — <https://www.bps.org.uk/guideline/psychologists-expert-witnesses-family-courts-england-wales>
+- Psychologists as Expert Witnesses in the Family Courts of England and Wales: Standards, Competencies and Expectations (lead author) (2022) — *[BPS](https://www.bps.org.uk/) / FJC Guidance* — <https://www.bps.org.uk/guideline/psychologists-expert-witnesses-family-courts-england-wales>
 - New guidance tightens framework for instructing psychologist experts in family proceedings (2022) — *Bond Solon* — <https://www.bondsolon.com/news-and-insights/new-guidance-tightens-framework-for-instructing-psychologist-experts-in-family-proceedings/>
 - ACP-UK Chair public commentary on PA-expert pipeline (2023) — *Transparency Project* — <https://transparencyproject.org.uk/parental-alienation-experts/>
 
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

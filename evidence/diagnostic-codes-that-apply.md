@@ -225,7 +225,7 @@ This strategy gives the report:
 The Bernet/Wamboldt/Narrow 2016 JAACAP article (§1.3 above) is the load-bearing citation when a forensic evaluator wants to argue that **CAPRD covers PA-pattern conduct**. Where the evaluator instead wants to argue that the conduct rises to **psychological abuse**, the corresponding doctrinal citations are:
 
 - Smith Slep, Heyman & Foran (2015). Child maltreatment in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed [DSM-5](https://www.appi.org/products/dsm) (2013) and were being considered for [ICD-11](https://icd.who.int/); argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
-- Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in DSM-5, and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The DSM-5 Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
+- Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in [DSM-5](https://www.appi.org/products/dsm), and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The DSM-5 Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
 
 These two 2015 *Family Process* papers are the methodological backbone for the proposition that the DSM-5 relational-problem and maltreatment codes have field-tested reliability adequate for forensic use.
 
@@ -373,7 +373,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 7.3 What you SHOULD NOT do
 
-- Write "Parental Alienation Syndrome (PAS)" or "Parental Alienation Disorder (PAD)" in the diagnosis line. Those are not [DSM-5-TR](https://www.appi.org/products/dsm) or ICD-11 entities.
+- Write "Parental Alienation Syndrome (PAS)" or "Parental Alienation Disorder (PAD)" in the diagnosis line. Those are not [DSM-5-TR](https://www.appi.org/products/dsm) or [ICD-11](https://icd.who.int/) entities.
 - Cite Richard Gardner's foundational PAS writings without acknowledging the substantive critiques (see `/evidence/pa-as-child-abuse.md` §3 and `/evidence/international-institutional-positions.md` §2).
 - Code V995.51 Confirmed without explicit documentation of the differential-diagnosis ruling-out.
 - Treat the child's resistance to a parent as, by itself, evidence of alienating conduct by the other parent. APSAC's 2022 guardrail expressly forbids this single-construct inference.
@@ -412,7 +412,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 8.4 The bottom line
 
-The diagnostic infrastructure that PA-pattern conduct needs **already exists** — under different names. Clinicians and forensic evaluators who code under V995.51, V61.20, V61.29 in DSM-5-TR and under QE52.0, QE82.2 in ICD-11 can give parents, children, courts, and insurers the documentation they need without making the contested claim that "parental alienation" itself is a syndrome or disorder. The PA-as-diagnosis debate is real and important, but it is **not** the debate that needs to be won in order to code and bill severe PA-pattern conduct today. The codes that apply, apply.
+The diagnostic infrastructure that PA-pattern conduct needs **already exists** — under different names. Clinicians and forensic evaluators who code under V995.51, V61.20, V61.29 in [DSM-5-TR](https://www.appi.org/products/dsm) and under QE52.0, QE82.2 in ICD-11 can give parents, children, courts, and insurers the documentation they need without making the contested claim that "parental alienation" itself is a syndrome or disorder. The PA-as-diagnosis debate is real and important, but it is **not** the debate that needs to be won in order to code and bill severe PA-pattern conduct today. The codes that apply, apply.
 
 ---
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 
