@@ -72,6 +72,32 @@ Danish family-law decisions are anonymised per Højesteret and Landsret practice
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Denmark
+
+The operative framework is the [Forældreansvarsloven (FAL — Parental Responsibility Act)](https://www.retsinformation.dk/) of 2007 (substantially amended 2019), particularly §§ 1–12 on *forældremyndighed* (parental authority) and §§ 19–22 on *samvær* (contact). The principle is *barnets bedste* (child's best interests) per FAL § 1.
+
+**Default is shared parental authority.** Post-separation, *fælles forældremyndighed* (joint parental authority) continues by operation of law unless a court orders otherwise per FAL § 11. The 2019 amendment ("*Familieretshuset-reformen*") restructured Danish family procedure substantially.
+
+**Procedural pathway — the Familieretshus + Familieretten.** Denmark operates a two-stage architecture unique in Scandinavia:
+- **Familieretshus** (Family House) handles the administrative phase: mandatory counselling, mediation, welfare assessment. Most non-contested matters resolve here.
+- **Familieretten** (Family Court — a specialised division of the *byret*) handles contested matters that the Familieretshus could not resolve.
+
+This two-stage structure typically requires 3–6 months in non-emergency cases. Welfare evaluations conducted by the *Familieretshus* under the [Lov om Familieretshuset](https://www.retsinformation.dk/) are highly influential in the Familieretten phase.
+
+**Contact enforcement.** Where a court-ordered *samvær* is being ignored, [FAL § 39](https://www.retsinformation.dk/) authorises *fogedretten* (enforcement court) to impose *tvangsbøder* (coercive fines per missed visit). In severe sustained cases, the Familieretten can order *erstatningssamvær* (compensatory contact — additional time to make up for missed visits) or **transfer of *forældremyndighed* / *bopæl* (parental authority / residence) to the targeted parent**. The 2019 reform strengthened these enforcement tools.
+
+**Criminal exposure.** [Straffeloven § 215](https://www.retsinformation.dk/) (*børnebortførelse* — child abduction) criminalises systematic withholding of a child from the person legally entitled. Punishable by imprisonment up to 4 years (raised to 8 years for cross-border cases). Recent Højesteret jurisprudence has clarified that sustained obstruction inside Denmark can reach this threshold.
+
+**The PA-construct question.** The [Dansk Psykolog Forening](https://www.dp.dk/) has been methodologically cautious about the *Parental Alienation Syndrome* label. Danish forensic-psychology practice applies *samværssabotage* (contact sabotage) as a behavioural pattern rather than a syndrome diagnosis. [Højesteret](https://www.hoejesteret.dk/) jurisprudence consistently applies the *barnets bedste* analysis without recourse to syndrome labelling.
+
+**Hague Convention 1980 + Brussels IIb.** Denmark is a Hague 1980 contracting state. **Denmark has an opt-out from EU justice/home-affairs cooperation** — Brussels IIb does NOT apply in Denmark; cross-border EU cases use the [Nordic Family Convention 1931](https://www.nordregio.org/) (within Nordic countries) and the Hague 1996 Convention more broadly. The Central Authority operates through the [Familieretshuset](https://familieretshuset.dk/).
+
+**Get local counsel.** *Advokat* (member of *Advokatsamfundet*) is recommended for any Familieretten matter. The [Danish Bar and Law Society](https://www.advokatsamfundet.dk/) maintains the family-law specialist directory. *Fri proces* (free legal aid) is means-tested. *Retshjælpsforsikring* (legal-expense insurance, typically included in home insurance) covers most costs.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Denmark (Danmark)

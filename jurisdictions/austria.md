@@ -74,6 +74,28 @@ Austrian family-law decisions are anonymised per OGH convention using initials o
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Austria
+
+The operative framework is the [Allgemeines Bürgerliches Gesetzbuch (ABGB)](https://www.ris.bka.gv.at/) — particularly arts. 138–189 on *Obsorge* (parental authority — terminology updated by the [KindNamRÄG 2013](case-law/austria/abgb-kindschaftsrecht-anderungsgesetz-2013.md)) and the [Außerstreitgesetz (AußStrG)](https://www.ris.bka.gv.at/) procedural code. The principle is *Kindeswohl* (welfare of the child) per ABGB § 138, with ten specific *Kindeswohl-Kriterien* enumerated in § 138 (1)–(10).
+
+**Procedural pathway — the Bezirksgericht.** Family disputes go to the *Bezirksgericht* (district court) of the child's *gewöhnlicher Aufenthalt*. Procedure runs under the *Außerstreitverfahren* (non-contentious procedure). The court is supported by the *Familiengerichtshilfe* (Family Court Assistance) — a multi-disciplinary unit conducting welfare assessments, equivalent of CAFCASS. Their reports under [§ 106a AußStrG](https://www.ris.bka.gv.at/) are highly influential.
+
+**The 2013 KindNamRÄG reform.** The [Kindschafts- und Namensrechts-Änderungsgesetz 2013](case-law/austria/abgb-kindschaftsrecht-anderungsgesetz-2013.md) restructured Austrian parental-rights law. Key features: detailed *Kindeswohl* criteria in § 138; explicit recognition of the *Bindung an beide Elternteile* (bond with both parents) factor; structured *Pflege und Erziehung* allocation; *Kontaktrecht* renamed *Recht auf persönlichen Verkehr*.
+
+**Statutory recognition of *Wohlverhaltensgebot*.** ABGB § 159 explicitly requires both parents to refrain from any behaviour that would impair the child's relationship with the other parent. **This is one of the strongest statutory anti-alienation provisions in EU family law.** Breach of the Wohlverhaltensgebot is grounds for modification of the *Obsorge* allocation, increased *Kontaktrecht* for the affected parent, or — in serious cases — transfer of *hauptsächliche Pflege und Erziehung*.
+
+**Contact enforcement.** [AußStrG § 110](https://www.ris.bka.gv.at/) (*Erzwingung der persönlichen Verkehrsregelung*) authorises escalating *Geldstrafe* (fines), *Beugestrafen* (coercive penalties), and in extremis *zwangsweise Durchsetzung* (police-supported handover). Criminal exposure under [StGB § 195](https://www.ris.bka.gv.at/) (*Entziehung eines Minderjährigen*) is available where the obstruction is systematic and serious.
+
+**The PA-construct question.** Austrian practice has historically been more receptive to the *Parental Alienation Syndrome* framing than Germany or Italy, but the [Berufsverband Österreichischer PsychologInnen (BÖP)](https://www.boep.or.at/) has not adopted PAS as a diagnostic category, and the [Oberster Gerichtshof (OGH)](https://www.ogh.gv.at/) has consistently applied the *Kindeswohl* analysis without endorsing the syndrome construct. Argue the behaviours under the §§ 138/159 framework rather than reaching for syndrome terminology.
+
+**Hague Convention 1980 + Brussels IIb.** Austria is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Bundesministerium für Justiz](https://www.justiz.gv.at/). Cross-border EU cases engage Brussels IIb.
+
+**Get local counsel.** *Rechtsanwalt* (member of *Rechtsanwaltskammer*) is recommended for any contested *Obsorge* or *Kontaktrecht* matter. The [Österreichischer Rechtsanwaltskammertag (ÖRAK)](https://www.rechtsanwaelte.at/) maintains family-law specialist directories. *Verfahrenshilfe* (legal aid) is means-tested. The [Familiengerichtshilfe](https://www.justiz.gv.at/) provides free welfare-investigation services as part of court procedure.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Austria (Österreich)

@@ -71,6 +71,28 @@ Finnish family-law decisions are anonymised per Korkein oikeus practice using in
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Finland
+
+The operative framework is the [Laki lapsen huollosta ja tapaamisoikeudesta (Child Custody and Right of Access Act, 361/1983)](https://www.finlex.fi/fi/laki/ajantasa/1983/19830361), substantially amended by Law 190/2019 (in force 1 December 2019). The principle is *lapsen etu* (child's best interest) per LapsK § 4.
+
+**The 2019 amendment introduced *vuoroasuminen*.** Law 190/2019 explicitly recognised *vuoroasuminen* (alternating residence — equal-time joint physical custody) as a permissible arrangement, codifying what had been case-law practice. The amendment also strengthened the court's duty to address *vieraannuttaminen* (alienation) and the duty of both parents to facilitate the child's relationship with the other parent.
+
+**Procedural pathway — the Käräjäoikeus.** Family disputes go to the *käräjäoikeus* (district court) of the child's habitual residence. **Mandatory mediation** (*sovittelu*) at the *perheasioiden sovittelu* (family mediation service operated by the municipal social services) precedes contested adjudication in most matters under LapsK § 4. Welfare reports (*olosuhdeselvitys*) are commissioned from the *sosiaalitoimi* (municipal social services) and are highly influential in contested cases.
+
+**Statutory recognition of alienation.** [LapsK § 2](https://www.finlex.fi/) as amended in 2019 explicitly requires both parents to refrain from any action that would impair the child's relationship with the other parent, and § 10 lists *kykenemättömyys yhteistyöhön* (inability to cooperate) and *vieraannuttaminen* (alienating conduct) as factors the court must consider in custody allocation. This is structurally similar to Austria's *Wohlverhaltensgebot*.
+
+**Contact enforcement — Laki lapsen huoltoa ja tapaamisoikeutta koskevan päätöksen täytäntöönpanosta (619/1996).** The enforcement statute authorises *uhkasakko* (coercive fine — set as a specified amount payable per missed visit) and *noutomääräys* (police-supported handover) in serious cases. The 2019 reform strengthened enforcement tools including faster timetabling. Sustained obstruction is grounds for modification of *huolto* (custody) to the targeted parent under LapsK § 12.
+
+**The PA-construct question.** The [Suomen Psykologiliitto](https://www.psyli.fi/) and the [Korkein oikeus](https://korkeinoikeus.fi/) (Supreme Court) have not endorsed *vanhempivieraannuttaminen-oireyhtymä* (PAS) as a diagnostic category. Finnish practice applies *vieraannuttaminen* as a behavioural pattern under LapsK §§ 2/10, not as a syndrome diagnosis.
+
+**Hague Convention 1980 + Brussels IIb.** Finland is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Oikeusministeriö](https://oikeusministerio.fi/). Cross-border EU cases engage Brussels IIb.
+
+**Get local counsel.** *Asianajaja* (advocate, member of *Suomen Asianajajaliitto*) is recommended for any contested *huolto*/*tapaamisoikeus* matter. The [Finnish Bar Association](https://asianajajaliitto.fi/) maintains family-law specialist directories. *Oikeusapu* (legal aid) is income-tested. *Oikeusturvavakuutus* (legal-expense insurance) is widely included in home insurance and covers most costs.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Finland (Suomi / Finland)

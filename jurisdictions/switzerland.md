@@ -87,6 +87,32 @@ Swiss family-law decisions are anonymised per BGer convention using initials (e.
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Switzerland
+
+The operative framework is the [Schweizerisches Zivilgesetzbuch (ZGB)](https://www.fedlex.admin.ch/eli/cc/24/233_245_233/de) — particularly arts. 273 ff. on *persönlicher Verkehr* (personal contact) and arts. 296 ff. on *elterliche Sorge* (parental authority). The principle is *Kindeswohl* (welfare of the child). Since the 2014 reform, **joint parental authority (gemeinsame elterliche Sorge) is the default** post-separation per ZGB art. 296.
+
+**Procedural pathway — the Kindes- und Erwachsenenschutzbehörde (KESB) + cantonal courts.** Switzerland operates a two-track structure unique among European jurisdictions:
+- The **KESB** (Child and Adult Protection Authority — one per regional district) handles administrative track: regulating *persönlicher Verkehr*, child-welfare interventions, foster care.
+- The **kantonale Familiengericht** (cantonal family court — naming varies by canton) handles divorce/separation-related custody matters under the [Zivilprozessordnung (ZPO)](https://www.fedlex.admin.ch/) procedural code.
+
+Most contact disputes outside divorce go to the KESB. *Anhörung des Kindes* (hearing the child) under ZGB art. 298 is generally required from age 6 upwards in KESB practice.
+
+**The KESB system — practical implications.** KESB decisions are administrative orders enforceable via the cantonal *Verwaltungsgericht* on appeal. The KESB can order *Beistandschaft* (court-appointed support — equivalent to a Children's Guardian), *Anordnung über den persönlichen Verkehr* (contact order), or in serious cases *Entzug der Obhut* (removal of de facto care). Decisions can be made quickly (often within weeks) in urgent cases — advantageous for targeted parents where contact has just stopped.
+
+**Contact enforcement.** Where a KESB or court-ordered *persönlicher Verkehr* is being ignored, the [Strafgesetzbuch art. 220](https://www.fedlex.admin.ch/) (*Entziehen von Minderjährigen* — withholding a minor) is the principal criminal-track tool, punishable by imprisonment up to 3 years or a monetary penalty. The 2024 reform increased the maximum sentence for systematic cross-border cases. Civil enforcement under ZPO art. 343 allows escalating *Ordnungsbusse* (administrative fines) and ultimately *Vollstreckung mit polizeilicher Gewalt* (police-assisted handover) in extreme cases.
+
+**The PA-construct question.** The [Schweizerische Föderation der Psychologinnen und Psychologen (FSP)](https://www.psychologie.ch/) has been methodologically cautious; no positive endorsement of *Parental Alienation Syndrome*. The dominant Swiss forensic-psychology framing is *Loyalitätskonflikt* (loyalty conflict) and *Kontaktverweigerung* treated as behavioural patterns. Cantonal courts and the [Bundesgericht](https://www.bger.ch/) apply the *Kindeswohl* analysis without recourse to a syndrome label. BGer 5A_904/2020 and subsequent jurisprudence consistently apply behaviour-based analysis.
+
+**Linguistic communities.** Switzerland operates four official languages. Procedure runs in the cantonal language. German-speaking cantons follow Germanic family-law doctrine; Romandie (Geneva, Vaud, Neuchâtel, Jura, Fribourg, Valais) follows Latin civil-law tradition.
+
+**Hague Convention 1980.** Switzerland is a Hague 1980 contracting state. The Central Authority operates through the [Bundesamt für Justiz (BJ)](https://www.bj.admin.ch/).
+
+**Get local counsel.** *Rechtsanwalt / Anwältin* (member of cantonal bar — *Anwaltskammer*) is recommended for any contested matter. The [Schweizerischer Anwaltsverband (SAV)](https://www.sav-fsa.ch/) maintains family-law specialist directories. *Unentgeltliche Rechtspflege* (legal aid) is means-tested via the cantonal court.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Switzerland (Schweiz / Suisse / Svizzera)

@@ -72,6 +72,28 @@ Greek family-law decisions are anonymised per Areios Pagos and Efeteio practice 
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Greece
+
+The operative framework is the [Astikos Kodikas (Αστικός Κώδικας, Greek Civil Code)](https://www.dsanet.gr/), particularly arts. 1505–1541 on *γονική μέριμνα* (parental responsibility / *goniki merimna*), substantially reformed by [Law 4800/2021](https://www.kodiko.gr/) — the "*Σύγχρονη Πολιτεία και Πολιτική για την Οικογένεια*" reform. The principle is *συμφέρον του τέκνου* (interest of the child) per AK art. 1511.
+
+**The 2021 reform changed the default.** Pre-2021 Greek family law operated a strong maternal-preference default. Law 4800/2021 established **shared parental responsibility (από κοινού γονική μέριμνα) as the post-separation norm**, introduced a presumption of *συνεπιμέλεια* (shared care) where practicable, and strengthened the *δικαίωμα επικοινωνίας* (right of contact) of the non-resident parent. **AK art. 1520, as amended, establishes a minimum 1/3 contact-time presumption** for the non-resident parent — one of the strongest statutory contact-rights guarantees in EU family law.
+
+**Procedural pathway — the Monomeles Protodikeio.** Family disputes go to the *Μονομελές Πρωτοδικείο* (single-judge first-instance court) of the child's habitual residence under the [Κώδικας Πολιτικής Δικονομίας (Code of Civil Procedure)](https://www.kodiko.gr/) special family-procedure track (arts. 591 et seq.). Procedure is *τακτική διαδικασία* with expedited timetabling for parental-responsibility matters. **Mandatory mediation** (*υποχρεωτική διαμεσολάβηση*) under Law 4640/2019 precedes contested adjudication in most family matters.
+
+**The 2021 reform's anti-alienation provisions.** AK art. 1518 as amended explicitly identifies *παρεμπόδιση της επικοινωνίας* (obstruction of contact) as a *κακή άσκηση γονικής μέριμνας* (improper exercise of parental responsibility) — grounds for the court to modify the *γονική μέριμνα* allocation. AK art. 1532, as amended, codifies the *κακή άσκηση* analysis with specific reference to contact-obstruction patterns.
+
+**Contact enforcement.** [Code of Civil Procedure art. 950 (*emmesi ektelesi*)](https://www.kodiko.gr/) allows escalating coercive measures including *χρηματική ποινή* (monetary penalty per missed contact) and *προσωπική κράτηση* (personal arrest in extremis). Criminal exposure under [Penal Code art. 358](https://www.kodiko.gr/) (*παραβίαση δικαστικής απόφασης*) is available where the contact-obstruction is sustained.
+
+**The PA-construct question.** The [Hellenic Psychological Society](https://www.elpse.com/) and the [Hellenic Association of Forensic Psychiatry](https://www.hellenicforensic.gr/) have not endorsed *Σύνδρομο Γονικής Αποξένωσης* (PAS) as a diagnostic category. Greek family-court practice applies the *κακή άσκηση γονικής μέριμνας* framework under AK arts. 1518/1532 — argue the behaviours under those articles, not the syndrome.
+
+**Hague Convention 1980 + Brussels IIb.** Greece is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Υπουργείο Δικαιοσύνης](https://www.ministryofjustice.gr/). Cross-border EU cases engage Brussels IIb.
+
+**Get local counsel.** *Δικηγόρος* (advocate, member of *Δικηγορικός Σύλλογος*) is mandatory for proceedings before the Monomeles Protodikeio. The [Plenary of Greek Bar Associations](https://www.olomeleia.gr/) and the [Athens Bar Association](https://www.dsa.gr/) maintain family-law specialist directories. *Νομική βοήθεια* (legal aid) is income-tested via Law 3226/2004.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Greece (Ελλάδα)
