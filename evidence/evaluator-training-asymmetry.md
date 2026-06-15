@@ -277,7 +277,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 1. The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) dataset cannot be re-replicated to support a gender-asymmetric conclusion when re-coded by their methodology.
 2. The "pro-PA-recognition" practitioner camp's evaluator training framework — built around the construct of parental alienating behaviors (PABs), structured assessment, and the differential decision-tree tradition (Drozd, Stahl, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler) — is *adequately* trained in DV and not biased against survivor-mothers.
-3. The asymmetry-of-training thesis ([Saunders](https://www.ovw.usdoj.gov/)) overstates the empirical robustness of the Saunders 2011 survey and understates the genuine, peer-reviewed clinical literature documenting PA as a real and assessable phenomenon.
+3. The asymmetry-of-training thesis ([Saunders](https://www.ovw.usdoj.gov/)) overstates the empirical robustness of the [Saunders](https://www.ovw.usdoj.gov/) 2011 survey and understates the genuine, peer-reviewed clinical literature documenting PA as a real and assessable phenomenon.
 
 **[Secondary verification only]** for the verbatim text of Harman & Lorandos 2021 — *Psychology, Public Policy, and Law* is APA-paywalled and the full PDF was not directly extractable at compilation. The above summary is reconstructed from the article's published abstract and from [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s 2022 rebuttals (which quote the critique extensively).
 
@@ -464,7 +464,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### 10.4 Contested
 
-- **The magnitude and operational significance of the asymmetry per Stahl, Drozd, Harman/Lorandos.** The [AFCC](https://www.afccnet.org/)-aligned practitioner-defense position is that the construct of one-parent-undermining-the-other is real, that the decision-tree differential-assessment tradition is methodologically sound, and that the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)/Saunders critique overstates the magnitude of operational bias in current evaluator practice. The Meier 2022 rebuttals dispute the Harman/Lorandos re-analyses; the underlying empirical question — is the contemporary practitioner mainstream operationally biased against survivor-mothers? — is not closed at the level of consensus across the published literature.
+- **The magnitude and operational significance of the asymmetry per Stahl, Drozd, Harman/Lorandos.** The [AFCC](https://www.afccnet.org/)-aligned practitioner-defense position is that the construct of one-parent-undermining-the-other is real, that the decision-tree differential-assessment tradition is methodologically sound, and that the [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)/Saunders critique overstates the magnitude of operational bias in current evaluator practice. The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 2022 rebuttals dispute the Harman/Lorandos re-analyses; the underlying empirical question — is the contemporary practitioner mainstream operationally biased against survivor-mothers? — is not closed at the level of consensus across the published literature.
 - **Whether bias-inspection training (implicit-bias work; patriarchal-norms self-inventory) actually changes evaluator recommendations.** Saunders 2015 recommends it; the Project Implicit literature supports the *measurement* of implicit bias; no published evaluator-population intervention study demonstrates downstream recommendation change.
 
 ### 10.5 Not established
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

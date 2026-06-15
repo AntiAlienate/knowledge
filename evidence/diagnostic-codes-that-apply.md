@@ -225,7 +225,7 @@ This strategy gives the report:
 The Bernet/Wamboldt/Narrow 2016 JAACAP article (§1.3 above) is the load-bearing citation when a forensic evaluator wants to argue that **CAPRD covers PA-pattern conduct**. Where the evaluator instead wants to argue that the conduct rises to **psychological abuse**, the corresponding doctrinal citations are:
 
 - Smith Slep, Heyman & Foran (2015). Child maltreatment in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/. Reviews the operationalised definitions of maltreatment that informed [DSM-5](https://www.appi.org/products/dsm) (2013) and were being considered for [ICD-11](https://icd.who.int/); argues that "primary healthcare providers and clinicians who see children and families are poised to help screen for, identify, prevent, and treat child maltreatment" using these definitions.
-- Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in [DSM-5](https://www.appi.org/products/dsm), and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The DSM-5 Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
+- Wamboldt, Cordaro & Clarke (2015). Parent-child relational problem: field trial results, changes in [DSM-5](https://www.appi.org/products/dsm), and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/. The [DSM-5](https://www.appi.org/products/dsm) Field Trial for PCRP: weighted prevalence in a clinical sample 34%; interrater kappa 0.58 (0.40, 0.72) — good interrater reliability; clinicians found PCRP criteria "clinically useful and an improvement over the brief description of PCRP that was presented in DSM-IV."
 
 These two 2015 *Family Process* papers are the methodological backbone for the proposition that the DSM-5 relational-problem and maltreatment codes have field-tested reliability adequate for forensic use.
 
@@ -395,7 +395,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 8.1 High confidence
 
-- **V995.51 / T74.32XA Child Psychological Abuse, V61.20 / Z62.820 Parent-Child Relational Problem, V61.29 / Z62.898 Child Affected by Parental Relationship Distress, and QE52.0 Caregiver-child relationship problem all defensibly apply to severe PA-pattern conduct given adequate clinical documentation.** These codes are in the published, peer-reviewed, copyright-protected primary diagnostic manuals (DSM-5, [DSM-5-TR](https://www.appi.org/products/dsm), ICD-11). Their textual content covers the observable behavioural pattern described in the PA literature. They are billable, court-citable, and survive *Daubert* / *Frye* scrutiny in ways that "PAS" and "PAD" do not.
+- **V995.51 / T74.32XA Child Psychological Abuse, V61.20 / Z62.820 Parent-Child Relational Problem, V61.29 / Z62.898 Child Affected by Parental Relationship Distress, and QE52.0 Caregiver-child relationship problem all defensibly apply to severe PA-pattern conduct given adequate clinical documentation.** These codes are in the published, peer-reviewed, copyright-protected primary diagnostic manuals (DSM-5, [DSM-5-TR](https://www.appi.org/products/dsm), [ICD-11](https://icd.who.int/)). Their textual content covers the observable behavioural pattern described in the PA literature. They are billable, court-citable, and survive *Daubert* / *Frye* scrutiny in ways that "PAS" and "PAD" do not.
 - **QE82.2 Personal history of psychological abuse** is the operative ICD-11 code for adult survivors of childhood PA-pattern conduct that crossed the psychological-abuse threshold.
 - **WHO's explicit direction** to clinicians and coders is that QE52.0 covers PA-pattern presentations: *"Users may classify cases to 'caregiver-child relationship problem'."* This is the WHO-blessed pathway.
 
@@ -418,7 +418,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 
 ## Source list (URLs verified at compilation 2026-05-25)
 
-**Primary DSM-5 / DSM-5-TR sources.**
+**Primary DSM-5 / [DSM-5-TR](https://www.appi.org/products/dsm) sources.**
 - American Psychiatric Association (2013, 2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* and *Fifth Edition Text Revision*. Copyrighted; primary text not directly fetchable; verbatim quotations herein reproduced from multiple secondary academic sources marked **[secondary verification only]**.
 - Bernet, W., Wamboldt, M. Z., & Narrow, W. E. (2016). Child Affected by Parental Relationship Distress. *Journal of the American Academy of Child & Adolescent Psychiatry*, 55(7), 571–579. https://doi.org/10.1016/j.jaac.2016.04.018 — PMID 27343884. URL: https://pubmed.ncbi.nlm.nih.gov/27343884/
 - Wamboldt, M., Cordaro Jr, A., & Clarke, D. (2015). Parent-child relational problem: field trial results, changes in DSM-5, and proposed changes for ICD-11. *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

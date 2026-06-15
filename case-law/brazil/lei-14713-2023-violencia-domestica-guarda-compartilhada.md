@@ -86,6 +86,8 @@ PA-relevance is bidirectional: (a) the reform protects victims of genuine domest
 - [Lei nº 12.318/2010 — Lei da Alienação Parental + Código Civil](law-12318-2010-parental-alienation-law-civil-code.md)
 - [Estatuto da Criança e do Adolescente (ECA, Lei 8.069/1990) — overview entries](https://www.planalto.gov.br/ccivil_03/leis/l8069.htm)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

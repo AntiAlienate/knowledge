@@ -242,7 +242,7 @@ London · England · Association of Clinical Psychologists UK (ACP-UK, Chair); F
 
 **Contact:** via https://acpuk.org.uk/contact/
 
-*Notes: [HCPC](https://www.hcpc-uk.org/) Clinical & Forensic Psychologist + CPsychol verified; ACP-UK Chair role public; FJC membership verified via FJC public composition lists. Lead authorship of 2022 BPS/FJC Guidance is the load-bearing item.*
+*Notes: [HCPC](https://www.hcpc-uk.org/) Clinical & Forensic Psychologist + CPsychol verified; ACP-UK Chair role public; FJC membership verified via FJC public composition lists. Lead authorship of 2022 [BPS](https://www.bps.org.uk/)/FJC Guidance is the load-bearing item.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.jones-hannah`, `practitioner:uk-ews.glaser-danya`
 
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 
