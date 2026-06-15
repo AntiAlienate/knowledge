@@ -249,7 +249,7 @@ These two 2015 *Family Process* papers are the methodological backbone for the p
 
 ## 4. The boundary question: V995.51 (abuse) vs. V61.20 / V61.29 (relational problem)
 
-This is where the most contested decisions are made. The [DSM-5](https://www.appi.org/products/dsm) textual threshold is the words "significant psychological harm to the child" or "reasonable potential to result" in such harm. There is no DSM-5 algorithmic threshold; clinical judgement governs.
+This is where the most contested decisions are made. The [DSM-5](https://www.appi.org/products/dsm) textual threshold is the words "significant psychological harm to the child" or "reasonable potential to result" in such harm. There is no [DSM-5](https://www.appi.org/products/dsm) algorithmic threshold; clinical judgement governs.
 
 ### 4.1 The APSAC 2022 differential-diagnosis guardrail
 
@@ -407,7 +407,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 ### 8.3 Low confidence / not established
 
 - **"Parental Alienation Syndrome" (Gardner 1985), "Parental Alienation Disorder" (Bernet 2010), and "Parental Alienation Relational Problem" ([PASG](https://pasg.info/) 2022 draft) are not established as discrete diagnoses in [DSM-5-TR](https://www.appi.org/products/dsm) or [ICD-11](https://icd.who.int/).** They have been rejected or non-adopted by the APA DSM Task Force, by WHO, and (separately) criticised as scientifically unfounded by the European Parliament, the UN Special Rapporteur on Violence against Women, the Italian Supreme Court (Cass. 9691/2022), and APSAC.
-- **The Bernet "Five-Factor Model" (2022)** is a proposed operational diagnostic algorithm published in JAACAP; it has not been adopted as a [DSM-5-TR](https://www.appi.org/products/dsm) or ICD-11 diagnostic standard. Its use in forensic-evaluator practice is contested.
+- **The Bernet "Five-Factor Model" (2022)** is a proposed operational diagnostic algorithm published in JAACAP; it has not been adopted as a [DSM-5-TR](https://www.appi.org/products/dsm) or [ICD-11](https://icd.who.int/) diagnostic standard. Its use in forensic-evaluator practice is contested.
 - **Coding V995.51 against a parent on the basis of the child's resistance alone, without independent evidence of the parent's specific conduct and without differential-diagnosis ruling-out of estrangement secondary to maltreatment by the rejected parent,** is not consistent with APSAC 2022 or with mainstream forensic practice. The conservative coding in such a case is V61.20 + V61.29.
 
 ### 8.4 The bottom line
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

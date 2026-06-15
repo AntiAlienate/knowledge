@@ -406,7 +406,7 @@ PD12J is the binding procedural rule for England and Wales family courts when DV
 
 ### 8.5 Other state-level activity
 
-**Tennessee and Utah** have also enacted Kayden's-Law-aligned legislation per the National Safe Parents Organization tracking (https://www.nationalsafeparents.org/kaydens-law.html). **Pennsylvania** had Kayden's Law named after a Pennsylvania case (Kayden Mancuso) and has passed a state-level version mandating that judges put child safety first in custody judgments (https://pccyfs.org/1400-2/). **New York** and **Connecticut** have pending or active reform efforts but no enacted statute equivalent to SB 331 or HB23-1178 as of compilation; both states' courts continue to use the discretionary evaluator-appointment framework documented in the Saunders 2011 baseline. **[Secondary verification only]** for state-by-state implementation specifics — the most authoritative tracker is the National Safe Parents Organization, and AntiAlienate maintains its own state-by-state jurisdictions tracker (see `build-jurisdictions.py` in the repository root).
+**Tennessee and Utah** have also enacted Kayden's-Law-aligned legislation per the National Safe Parents Organization tracking (https://www.nationalsafeparents.org/kaydens-law.html). **Pennsylvania** had Kayden's Law named after a Pennsylvania case (Kayden Mancuso) and has passed a state-level version mandating that judges put child safety first in custody judgments (https://pccyfs.org/1400-2/). **New York** and **Connecticut** have pending or active reform efforts but no enacted statute equivalent to SB 331 or HB23-1178 as of compilation; both states' courts continue to use the discretionary evaluator-appointment framework documented in the [Saunders](https://www.ovw.usdoj.gov/) 2011 baseline. **[Secondary verification only]** for state-by-state implementation specifics — the most authoritative tracker is the National Safe Parents Organization, and AntiAlienate maintains its own state-by-state jurisdictions tracker (see `build-jurisdictions.py` in the repository root).
 
 ### 8.6 What is and is not changed by the state-level reforms
 
@@ -483,7 +483,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - **Saunders, Faller, & Tolman (2011)** — *Child custody evaluators' beliefs about domestic abuse allegations*. NIJ Final Technical Report, NCJ 238891, NIJ Award 2007-WG-BX-0013. https://www.ojp.gov/pdffiles1/nij/grants/238891.pdf — The 465-evaluator survey; foundational text.
 - **Saunders, Tolman, & Faller (2013)** — Factors associated with child custody evaluators' recommendations in cases of intimate partner violence. *Journal of Family Psychology* 27(3):473-483. https://doi.org/10.1037/a0032164 — Peer-reviewed multivariate companion.
 - **Saunders (2015)** — Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody* 12(1):71-92. https://doi.org/10.1080/15379418.2015.1037052 — Practice-recommendations synthesis.
-- **Meier et al. (2020)** — U.S. child custody outcomes in cases involving parental alienation and abuse allegations. *Journal of Social Welfare and Family Law* 42(1):92-105. https://doi.org/10.1080/09649069.2020.1701941 — NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859. The 4,338-case dataset.
+- **[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2020)** — U.S. child custody outcomes in cases involving parental alienation and abuse allegations. *Journal of Social Welfare and Family Law* 42(1):92-105. https://doi.org/10.1080/09649069.2020.1701941 — NIJ Final Report NCJ 304419, NIJ Award 2014-MU-CX-0859. The 4,338-case dataset.
 - **[Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204))** — Abusers gaining custody in family courts. *Journal of Child Custody* 16(2):140-169. https://doi.org/10.1080/15379418.2019.1613204 — DOJ OVW Award #2011-TA-AX-K006. The 27-case turned-around series.
 
 ### Practitioner-defense / centrist literature
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
