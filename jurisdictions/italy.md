@@ -228,7 +228,7 @@ The operative framework is the [Codice civile arts. 315-bis a 337-octies](https:
 
 **The [Cassazione](https://www.cortedicassazione.it/)'s PA position is clear.** [Cassazione Sez. I civile, ordinanza n. 13217/2021](https://www.cortedicassazione.it/) and [ordinanza n. 9691/2022](https://www.cortedicassazione.it/) expressly characterised PAS as *"privo di base scientifica"* (without scientific basis) and excluded its use as a diagnostic category in custody proceedings. The 2020 *Ministero della Salute* position is upstream of this jurisprudence. **Do not** ask your court for a *consulenza tecnica d'ufficio* (CTU) framed around a *diagnosi di PAS*; argue the behaviours under the [art. 337-ter](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md) (*provvedimenti riguardo ai figli*) discretion of the court.
 
-**Where exclusive custody is appropriate.** [Codice civile art. 337-quater](codice-civile-art-337-quater-affidamento-esclusivo.md) authorises *affidamento esclusivo* where joint exercise would be *"contrario all'interesse del minore"* — the apex provision in cases where one parent's alienating conduct is sustained and serious. The Cassazione (Sez. I ord. n. 9691/2022) has applied this where contact-interference patterns are documented even without invoking a PA *syndrome* label.
+**Where exclusive custody is appropriate.** [Codice civile art. 337-quater](codice-civile-art-337-quater-affidamento-esclusivo.md) authorises *affidamento esclusivo* where joint exercise would be *"contrario all'interesse del minore"* — the apex provision in cases where one parent's alienating conduct is sustained and serious. The [Cassazione](https://www.cortedicassazione.it/) (Sez. I ord. n. 9691/2022) has applied this where contact-interference patterns are documented even without invoking a PA *syndrome* label.
 
 **Hearing the child.** Under [art. 337-octies superseded by cpc art. 473-bis 4](codice-civile-art-337-octies-poteri-del-giudice-ascolto-minore.md) (post-Cartabia), children aged 12+ (and younger if capable of *discernimento*) must be heard unless their welfare contraindicates. In alienation contexts this is contested: courts increasingly use *ascolto* via *psicologo del Tribunale* rather than direct judicial questioning, recognising that captured wishes may not be authentic.
 
@@ -336,6 +336,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
 
 <!-- AA-CITE-START -->
 

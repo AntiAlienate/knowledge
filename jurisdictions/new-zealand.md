@@ -127,88 +127,6 @@ Family Court of New Zealand proceedings under the Care of Children Act 2004 are 
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in New Zealand (Aotearoa New Zealand)
@@ -309,6 +227,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
 
 <!-- AA-CITE-START -->
 

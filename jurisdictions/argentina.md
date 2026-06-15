@@ -162,7 +162,7 @@ The operative framework is the [Código Civil y Comercial de la Nación (CCyCN, 
 
 **Procedural pathway — the Juzgado de Familia.** File at the *Juzgado de Familia* of the child's *domicilio*. Procedure runs under each provincia's *Código Procesal Civil y Comercial* (CABA's is highly developed; provincias vary). The *Asesor de Menores* (Public Defender for Minors) represents the child's interests independently of either parent — this is the structural counter-balance to alienating-parent influence. *Equipos técnicos interdisciplinarios* (psychologists, social workers attached to the court) conduct welfare evaluations.
 
-**Hague Convention 1980 implementation.** Argentina is a Hague 1980 contracting state, with the Autoridad Central operating through the *Dirección General de Asuntos Jurídicos del Ministerio de Relaciones Exteriores*. Implementation has been substantial; the *Corte Suprema de Justicia de la Nación (CSJN)* has reinforced Convention compliance in numerous decisions including *S., D. c. P., F. J.* (Fallos 343:259).
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Argentina is a Hague 1980 contracting state, with the Autoridad Central operating through the *Dirección General de Asuntos Jurídicos del Ministerio de Relaciones Exteriores*. Implementation has been substantial; the *[Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/) (CSJN)* has reinforced Convention compliance in numerous decisions including *S., D. c. P., F. J.* (Fallos 343:259).
 
 **The PA-construct question.** The CSJN has not endorsed *Síndrome de Alienación Parental* (SAP) as a diagnostic category. Argentine practice in the *Juzgados de Familia* is to assess the underlying conduct (incumplimiento del régimen, denigración, manipulación) under the CCyCN responsabilidad-parental framework. Some provincial codes (e.g. provincia de Buenos Aires) have introduced statutory references to *obstrucción del vínculo*; these are increasingly applied without recourse to syndrome labelling.
 
@@ -292,7 +292,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "P., B. E. G. c/ B., K. E. s/ medidas precautorias (7.10.2021)",
       "datePublished": "2021",
-      "courtName": "[Corte Suprema de Justicia de la Nación](https://www.csjn.gov.ar/) (CSJN)",
+      "courtName": "Corte Suprema de Justicia de la Nación (CSJN)",
       "url": "https://knowledge.antialienate.com/case-studies/csjn-p-b-e-g-c-b-k-e-2021-argentina/"
     },
     {
@@ -319,11 +319,16 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

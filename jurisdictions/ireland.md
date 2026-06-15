@@ -98,7 +98,7 @@ The operative framework is the [Guardianship of Infants Act 1964](https://www.ir
 
 **The PA-construct question.** Irish family courts have not adopted *Parental Alienation Syndrome* as a diagnostic category. The [Psychological Society of Ireland (PSI)](https://www.psychologicalsociety.ie/) has not issued a positive endorsement. The High Court in [N. (Otherwise K.) v. K. [1986] ILRM 75](https://www.bailii.org/) and subsequent welfare-paramountcy decisions apply the underlying conduct (contact-interference patterns, denigration, manipulation) under the s.31 best-interests framework rather than as a syndrome. The 2022 [Family Justice Strategy](https://www.gov.ie/) reaffirmed this approach.
 
-**Hague Convention 1980 + Brussels IIb.** Ireland is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Department of Justice — Child Abduction Section](https://www.justice.ie/). Cross-border cases within the EU engage Brussels IIb (Regulation 2019/1111).
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Ireland is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Department of Justice — Child Abduction Section](https://www.justice.ie/). Cross-border cases within the EU engage Brussels IIb (Regulation 2019/1111).
 
 **Get local counsel.** *Solicitor* and *barrister* are the divided-profession structure. The [Law Society of Ireland](https://www.lawsociety.ie/) and the [Bar of Ireland](https://www.lawlibrary.ie/) maintain family-law specialist directories. The [Family Lawyers Association of Ireland (FLAI)](https://www.flai.ie/) is the principal practitioner forum. *Legal Aid Board* civil legal aid is means-tested.
 
@@ -205,11 +205,16 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

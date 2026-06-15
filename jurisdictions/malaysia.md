@@ -75,88 +75,6 @@ Malaysian family-law decisions are anonymised per Federal Court practice; Syaria
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Malaysia
@@ -239,6 +157,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
 
 <!-- AA-CITE-START -->
 

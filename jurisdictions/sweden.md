@@ -90,7 +90,7 @@ The operative framework is the [Föräldrabalken (FB)](https://www.riksdagen.se/
 
 **The PA-construct question.** The [Socialstyrelsen](https://www.socialstyrelsen.se/) and the [Sveriges psykologförbund](https://www.psykologforbundet.se/) have not endorsed *Parental Alienation Syndrome* as a diagnostic category. Swedish *socialtjänst* and family-court practice has consistently applied a behaviour-based analysis (*umgängessabotage* — contact sabotage) rather than syndrome labelling. The 2022 [Barnafrid](https://liu.se/en/research/barnafrid) National Centre report reinforced this methodological caution.
 
-**Hague Convention 1980 + Brussels IIb.** Sweden is a Hague 1980 contracting state and EU Member State. The Central Authority operates through the *Utrikesdepartementet* (Ministry of Foreign Affairs). Cross-border cases engage Brussels IIb.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Sweden is a Hague 1980 contracting state and EU Member State. The Central Authority operates through the *Utrikesdepartementet* (Ministry of Foreign Affairs). Cross-border cases engage Brussels IIb.
 
 **Get local counsel.** *Advokat* (member of *Sveriges advokatsamfund*) is recommended for any contested family-court matter. The [Swedish Bar Association](https://www.advokatsamfundet.se/) maintains a family-law specialist directory. *Rättsskydd* (legal-expense insurance, typically included in home insurance) and *rättshjälp* (state legal aid, means-tested) cover most costs. *Familjerätten* at the municipal level provides free mediation support.
 
@@ -179,11 +179,16 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

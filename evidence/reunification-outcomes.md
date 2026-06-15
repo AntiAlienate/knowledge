@@ -424,7 +424,7 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Mercer 2019 critique | No (full text) | Quoted via [Harman et al. ](https://pubmed.ncbi.nlm.nih.gov/30080055/)2022 reference and Mercer's *ChildMyths* blog |
 | [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) (27-case series) | Yes (full PDF) | Abstract, statistics, methods quoted verbatim |
 | Mercer & Drew 2022 (Geffner symposium [TPFF](https://turningpointsforfamilies.com/)/OBFC) | No (full text) | Publisher record; conclusions paraphrased |
-| Building Family Bridges critique 2022 | No (full text) | DOI verified; authors and full content **not publicly confirmed** at compilation |
+| Building [Family Bridges](https://warshak.com/family-bridges/) critique 2022 | No (full text) | DOI verified; authors and full content **not publicly confirmed** at compilation |
 | Reunification therapies six-programme synthesis 2022 | No (full text) | DOI verified; conclusions paraphrased from publisher record |
 | [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala 2016 chapter | Yes (PDF, not legibly extractable) | Conclusions paraphrased from secondary citations across literature |
 | Templer, Matthewson, Haines & Cox 2017 | No (full text) | Abstract and conclusions verified via Wiley DOI and Monash listing |
@@ -432,6 +432,8 @@ For a parent, lawyer or judge considering whether to pursue or oppose one of the
 | Colorado HB23-1178 | No (full bill text not directly extracted) | Key requirement verified via ABA Journal and ProPublica reporting |
 
 End of evidence page.
+
+
 
 
 

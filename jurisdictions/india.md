@@ -118,13 +118,13 @@ India is a mixed common-law / personal-law jurisdiction whose family courts appl
 
 ## What this means if your child is being withheld from you in India
 
-India operates a **religion-pluralist personal-law architecture**: custody is governed by the Hindu Minority and Guardianship Act 1956, Muslim personal law, the Indian Christian Marriage Act 1872, and the Parsi Marriage and Divorce Act 1936, all framed by the welfare-of-the-child principle codified in the [Guardians and Wards Act 1890 (GWA) s.17](https://indiankanoon.org/doc/1244725/) and reinforced by the [Hindu Marriage Act 1955 s.26](https://indiankanoon.org/doc/1284729/). The Supreme Court has consistently held that the **welfare of the minor is the paramount consideration**, overriding personal-law presumptions.
+India operates a **religion-pluralist personal-law architecture**: custody is governed by the Hindu Minority and Guardianship Act 1956, Muslim personal law, the Indian Christian Marriage Act 1872, and the Parsi Marriage and [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) 1936, all framed by the welfare-of-the-child principle codified in the [Guardians and Wards Act 1890 (GWA) s.17](https://indiankanoon.org/doc/1244725/) and reinforced by the [Hindu Marriage Act 1955 s.26](https://indiankanoon.org/doc/1284729/). The Supreme Court has consistently held that the **welfare of the minor is the paramount consideration**, overriding personal-law presumptions.
 
 **Procedural pathway — the Family Court.** File at the *Family Court* of the child's *ordinary residence* (under the [Family Courts Act 1984](https://indiankanoon.org/doc/1471353/)), or at the District Court where Family Courts have not been established. The procedure runs under the *Code of Civil Procedure 1908* with family-court-specific simplifications. A guardian *ad litem* may be appointed; the *Child Welfare Committee (CWC)* under the [Juvenile Justice (Care and Protection of Children) Act 2015](https://indiankanoon.org/doc/77723/) handles protection-track matters.
 
 **Habeas corpus is a recognised alternative.** Where a parent has unlawfully removed a child, *habeas corpus* under [Article 226](https://indiankanoon.org/doc/1712542/) (High Court) or [Article 32](https://indiankanoon.org/doc/981147/) (Supreme Court) is a routine route for urgent recovery. The seminal authority is *Nithya Anand Raghavan v. State of NCT of Delhi* (2017) 8 SCC 454, which clarified the interplay of habeas corpus and welfare jurisdiction. The Supreme Court's *Tejaswini Gaud v. Shekhar Jagdish Prasad Tewari* (2019) 7 SCC 42 reaffirms the welfare paramountcy.
 
-**The Hague Convention 1980.** **India is not a Hague Convention contracting state.** This is a critical fact: there is no automatic return remedy for a child abducted from India to a Hague state, or from a Hague state to India. The 2018 Justice Rajesh Bindal Committee Report recommended accession but it has not happened. Practical implication: cross-border parental abduction with India as either origin or destination is litigated through Indian habeas corpus and welfare jurisdiction rather than Hague return proceedings.
+**The [Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24).** **India is not a Hague Convention contracting state.** This is a critical fact: there is no automatic return remedy for a child abducted from India to a Hague state, or from a Hague state to India. The 2018 Justice Rajesh Bindal Committee Report recommended accession but it has not happened. Practical implication: cross-border parental abduction with India as either origin or destination is litigated through Indian habeas corpus and welfare jurisdiction rather than Hague return proceedings.
 
 **The PA-construct question.** Indian family courts and the Supreme Court have not endorsed *Parental Alienation Syndrome* as a diagnostic category. The dominant approach is welfare-paramountcy: courts examine the underlying conduct (contact-interference patterns, denigration, refusal of access) under the GWA s.17 framework without reaching for a syndrome label. The Bombay High Court's *Vishwajit P. Mhaske v. Smt. Sushma V. Mhaske* (Bombay HC 2018) and similar High Court decisions are illustrative.
 
@@ -235,11 +235,16 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

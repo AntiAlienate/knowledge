@@ -86,7 +86,7 @@ The operative framework is the [Lov om barn og foreldre (Barneloven, 1981)](http
 
 **The PA-construct question.** The [Norsk psykologforening](https://www.psykologforeningen.no/) has been cautious about the *Parental Alienation Syndrome* label. The dominant Norwegian forensic-psychology framing is *bortmanipulering* / *samværssabotasje* (contact-manipulation / contact-sabotage) treated as a behavioural pattern. *Sakkyndig* (court-appointed expert) reports follow the [Den rettsmedisinske kommisjon](https://www.rettsmedisin.no/) methodology — argue the conduct, not the syndrome.
 
-**Hague Convention 1980 + Brussels IIb.** Norway is a Hague 1980 contracting state. As Norway is not an EU Member State, Brussels IIb does not directly apply — cross-border matters within the EEA use the [Lugano Convention](https://eur-lex.europa.eu/) for jurisdiction questions. The Central Authority operates through the [Justis- og beredskapsdepartementet](https://www.regjeringen.no/).
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Norway is a Hague 1980 contracting state. As Norway is not an EU Member State, Brussels IIb does not directly apply — cross-border matters within the EEA use the [Lugano Convention](https://eur-lex.europa.eu/) for jurisdiction questions. The Central Authority operates through the [Justis- og beredskapsdepartementet](https://www.regjeringen.no/).
 
 **Criminal exposure.** [Straffeloven § 261 (omsorgsunndragelse)](https://lovdata.no/dokument/NL/lov/2005-05-20-28/) criminalises *omsorgsunndragelse* (withholding a minor from the person entitled to custody) — punishable by up to 2 years' imprisonment, raised to 6 years where the child is taken abroad. Serious systematic contact-obstruction can reach this threshold.
 
@@ -177,6 +177,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+
 <!-- AA-CITE-START -->
 
 ---
@@ -185,6 +186,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 **Referenced in this page:**
 
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 - [OHCHR — UNCRC](https://www.ohchr.org/en/instruments-mechanisms/instruments/convention-rights-child)
 
 **Topic baseline (independently verifiable):**

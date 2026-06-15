@@ -135,7 +135,7 @@ The operative framework is the [Kodeks rodzinny i opiekuńczy (KRO)](https://isa
 
 **The PA-construct question.** Polish family-court practice has been more receptive to the *Parental Alienation* construct than the Western European institutional-critique camp — the *Polskie Towarzystwo Psychologiczne (PTP)* has not issued a hard rejection. However, the *Najwyższy Sąd Administracyjny* and *Sąd Najwyższy* have not endorsed PAS as a syndrome amenable to diagnostic testing, and the EU consensus is shifting Polish practice toward behaviour-based rather than syndrome-based analysis. Argue the underlying conduct under KRO arts. 95–98 (*wykonywanie władzy rodzicielskiej*).
 
-**Hague Convention 1980 + Brussels IIb.** Poland is a Hague 1980 contracting state and an EU Member State, so Brussels IIb (Regulation 2019/1111) applies for intra-EU jurisdiction. The Hague Central Authority is the *Ministerstwo Sprawiedliwości, Departament Współpracy Międzynarodowej i Praw Człowieka*. Cross-border cases also engage [Brussels IIb arts. 1, 7, 9, 21, 27](case-law/european-union/brussels-iib-regulation-2019-1111-articles-1-7-9-21-27.md).
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) + Brussels IIb.** Poland is a Hague 1980 contracting state and an EU Member State, so Brussels IIb (Regulation 2019/1111) applies for intra-EU jurisdiction. The Hague Central Authority is the *Ministerstwo Sprawiedliwości, Departament Współpracy Międzynarodowej i Praw Człowieka*. Cross-border cases also engage [Brussels IIb arts. 1, 7, 9, 21, 27](case-law/european-union/brussels-iib-regulation-2019-1111-articles-1-7-9-21-27.md).
 
 **Criminal exposure.** [Kodeks karny art. 211](https://isap.sejm.gov.pl/) (*uprowadzenie lub zatrzymanie małoletniego wbrew woli osoby powołanej do opieki*) criminalises abduction or retention of a minor against the will of the person legally authorised — punishable by up to 3 years' imprisonment. The 2019 amendment broadened applicability to within-Poland contact obstruction in serious cases.
 
@@ -244,11 +244,16 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

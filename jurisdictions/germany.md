@@ -212,7 +212,7 @@ If contact has just stopped, the operative law is [BGB § 1684](https://www.gese
 
 **A critical 2023 inflection point.** The [Bundesverfassungsgericht's Beschluss of 17 November 2023 (1 BvR 1076/23)](https://www.bundesverfassungsgericht.de/SharedDocs/Entscheidungen/DE/2023/11/rk20231117_1bvr107623.html) characterised the *Parental Alienation Syndrome* (PAS) construct as *"überkommen und wissenschaftlich nicht haltbar bzw. widerlegt"* (outdated and scientifically untenable or refuted). German family courts now reject PA-syndrome framing in expert reports. This means: **do not** ask your court for a *PAS-Diagnose*; instead document the alienating behaviours themselves (refusal of handovers, blocked phone contact, denigration, parental-loyalty conflict) and ask the court to apply [BGB](https://www.gesetze-im-internet.de/bgb/) § 1684 / § 1696 directly. Recent practice is consistent with [OLG Frankfurt, Beschluss vom 5.1.2026 — 7 UF 88/25](../case-studies/olg-frankfurt-7-uf-88-25-germany-2026.md), which applied the [BVerfG](https://www.bundesverfassungsgericht.de/) reasoning to a concrete case.
 
-**If the other parent ignores a court-made Umgangsregelung,** apply for *Vollstreckung* under FamFG § 89 — the court can impose an *Ordnungsgeld* up to €25,000 or *Ordnungshaft*. Documentation of each missed contact is critical; keep contemporaneous notes, screenshots of messages, and any third-party witnesses (school, club). The §1696 BGB *Abänderung* threshold ("triftige, das Wohl des Kindes nachhaltig berührende Gründe") is what your court will apply to vary an existing order.
+**If the other parent ignores a court-made Umgangsregelung,** apply for *Vollstreckung* under FamFG § 89 — the court can impose an *Ordnungsgeld* up to €25,000 or *Ordnungshaft*. Documentation of each missed contact is critical; keep contemporaneous notes, screenshots of messages, and any third-party witnesses (school, club). The §1696 [BGB](https://www.gesetze-im-internet.de/bgb/) *Abänderung* threshold ("triftige, das Wohl des Kindes nachhaltig berührende Gründe") is what your court will apply to vary an existing order.
 
 **Get local counsel.** Family law in Germany is *Anwaltszwang* (mandatory representation) at the OLG level and strongly recommended at the AG level. The [Deutscher Familiengerichtstag](https://www.dfgt.de/) maintains specialist directories. *Verfahrenskostenhilfe* (legal aid) is available where income-tested. *Mediation* under the Cochem-style practice still exists but is no longer institutionally continuous — and the Istanbul Convention art. 31 + 2022 GREVIO report have criticised cooperation-imperative models that under-weight evidence of violence.
 
@@ -232,7 +232,7 @@ The primary statutory basis in Germany is BGB § 1684 — Umgang des Kindes mit 
 
 ### What is the leading court decision on parental alienation in Germany?
 
-The leading apex decision is BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 (2023). The court treated parental-alienation labelling critically.
+The leading apex decision is [BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 (2023). The court treated parental-alienation labelling critically.
 
 ### What can a parent do if their child is being withheld from them in Germany?
 
@@ -356,6 +356,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
 
 <!-- AA-CITE-START -->
 

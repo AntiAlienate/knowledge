@@ -83,7 +83,7 @@ Teesside · England · Principal Psychologist and founder, Family Psychology Sol
 
 **Contact:** https://fpscic.org/ contact form
 
-*Notes: [HCPC](https://www.hcpc-uk.org/) PYL registration verified (Counselling Psychologist protected title); BPS Chartered Member and Associate Fellow (CPsychol, AFBPsS) verified via BPS public listing; BPS Expert Witness Advisory Group membership verified. Meets Re Y regulatory bar squarely.*
+*Notes: [HCPC](https://www.hcpc-uk.org/) PYL registration verified (Counselling Psychologist protected title); [BPS](https://www.bps.org.uk/) Chartered Member and Associate Fellow (CPsychol, AFBPsS) verified via BPS public listing; BPS Expert Witness Advisory Group membership verified. Meets Re Y regulatory bar squarely.*
 
 **See also:** `jurisdiction:england-and-wales`, `case-study:re-y-2026-ewfc-38`, `practitioner:uk-ews.woodall-karen`
 
@@ -296,7 +296,7 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 
 ## Excluded (with documented reason)
 
-- **Melanie Gill** — Regulatory exclusion: unregulated PA-evaluator; not HCPC-registered; not BPS-chartered; no clinical or therapeutic regulated practice. Sir Andrew McFarlane P in Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (20 February 2026) set aside findings of alienating behaviour made on the basis of her assessment and held going forward that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the BPS.' Direct UK parallel to the US directory's exclusion of Randy Rand and to Germany's safeguarding-grounds exclusion of Reinhart Wolff.
+- **Melanie Gill** — Regulatory exclusion: unregulated PA-evaluator; not [HCPC](https://www.hcpc-uk.org/)-registered; not BPS-chartered; no clinical or therapeutic regulated practice. Sir Andrew McFarlane P in Re Y (Experts and Alienating Behaviour: The Modern Approach) [2026] EWFC 38 (20 February 2026) set aside findings of alienating behaviour made on the basis of her assessment and held going forward that 'permission should not be given for the instruction of an expert psychologist who is neither registered by a relevant statutory body, nor chartered by the BPS.' Direct UK parallel to the US directory's exclusion of Randy Rand and to Germany's safeguarding-grounds exclusion of Reinhart Wolff.
   - Primary source: <https://www.thebureauinvestigates.com/stories/2026-02-27/dont-use-unregulated-psychologists-top-judge-rules>
 - **Dr Emma Katz** — Category fit: pure academic researcher (Edge Hill University — NOT Birmingham City University as in earlier source brief); no clinical or therapeutic practice. Belongs in /influencers/ rather than /therapists/ directory. Stance if added would be critique.
   - Primary source: <https://www.edgehill.ac.uk/departments/academic/social-sciences/staff/dr-emma-katz/>
@@ -317,6 +317,8 @@ Bristol · England · Centre for Gender and Violence Research, School for Policy
 ---
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+
+
 
 
 

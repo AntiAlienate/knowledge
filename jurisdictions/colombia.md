@@ -122,88 +122,6 @@ Las sentencias de la Corte Constitucional en sede de tutela anonimizan a NNA med
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Colombia (República de Colombia)
@@ -304,6 +222,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 </script>
 
 <!-- AA-FAQ-END -->
+
 
 <!-- AA-CITE-START -->
 

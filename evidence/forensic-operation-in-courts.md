@@ -280,7 +280,7 @@ Cross-reference: this case is also catalogued in the AntiAlienate `case-studies/
 
 ### 7.2 Investigative journalism corroboration
 
-The Meier–Silberg–Dallam case-pattern has been documented in mainstream investigative journalism, including by ProPublica, NPR, The New York Times, and the Bureau of Investigative Journalism. Where the AntiAlienate repository cites these, it should mark them as **secondary reporting** rather than primary peer-reviewed evidence. Specific URLs are reserved to the dedicated reporting page so this evidence document remains primary-source-led.
+The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941)–Silberg–Dallam case-pattern has been documented in mainstream investigative journalism, including by ProPublica, NPR, The New York Times, and the Bureau of Investigative Journalism. Where the AntiAlienate repository cites these, it should mark them as **secondary reporting** rather than primary peer-reviewed evidence. Specific URLs are reserved to the dedicated reporting page so this evidence document remains primary-source-led.
 
 ---
 
@@ -327,6 +327,8 @@ The Meier–Silberg–Dallam case-pattern has been documented in mainstream inve
 ---
 
 *Compiled 2026-05-25. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0) consistent with the AntiAlienate knowledge repository. All quoted text is from primary sources as cited; secondary-source reproductions are explicitly marked. Where verbatim primary-source quotation could not be verified at compilation, the marker **[secondary verification only]** is used. Where a specific empirical claim could not be tied to any primary source, "**not publicly confirmed**" or "**not established**" is used.*
+
+
 
 
 

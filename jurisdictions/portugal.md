@@ -88,7 +88,7 @@ The operative framework is the [Código Civil arts. 1877 a 1922](https://www.pgd
 
 **The PA-construct question.** Portuguese family-court practice has been methodologically cautious about the *Síndrome de Alienação Parental* (SAP) label. The [Ordem dos Psicólogos Portugueses](https://www.ordemdospsicologos.pt/) and the [Sociedade Portuguesa de Psicologia Forense](https://www.spppf.pt/) have not adopted PAS as a diagnostic category. The dominant approach is to assess *alienação parental* as a *comportamento parental disfuncional* under the EMAT framework, not as a free-standing syndrome.
 
-**Hague Convention 1980 implementation.** Portugal is a Hague 1980 contracting state. The Autoridade Central operates through the [Direção-Geral da Reinserção e Serviços Prisionais (DGRSP)](https://dgrsp.justica.gov.pt/). Implementation has been substantial.
+**[Hague Convention 1980](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24) implementation.** Portugal is a Hague 1980 contracting state. The Autoridade Central operates through the [Direção-Geral da Reinserção e Serviços Prisionais (DGRSP)](https://dgrsp.justica.gov.pt/). Implementation has been substantial.
 
 **Get local counsel.** *Advogado* (Ordem dos Advogados) is mandatory in family proceedings. *Especialista em Direito da Família e das Crianças* via the [Ordem dos Advogados](https://portal.oa.pt/) is the recognised accreditation. *Apoio judiciário* (legal aid) is income-tested via the [Instituto da Segurança Social](https://www.seg-social.pt/). The [Associação Portuguesa de Mediadores de Conflitos (APMC)](https://www.apmcconflitos.org/) and the [Sistema de Mediação Familiar](https://www.dgaj.justica.gov.pt/) provide structured family mediation.
 
@@ -186,11 +186,16 @@ Apply to the family court with jurisdiction over the child's habitual residence.
 
 <!-- AA-FAQ-END -->
 
+
 <!-- AA-CITE-START -->
 
 ---
 
 ## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [HCCH — 1980 Convention](https://www.hcch.net/en/instruments/conventions/full-text/?cid=24)
 
 **Topic baseline (independently verifiable):**
 

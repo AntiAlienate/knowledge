@@ -226,7 +226,7 @@ The Drozd/Olesen vs. [Meier](https://www.tandfonline.com/doi/abs/10.1080/0964906
 
 ### 4.1 The recommended competencies
 
-Saunders 2015 (§1.4) and the underlying 2011 NIJ report consolidate a competency framework for evaluators handling cases with DV allegations. The framework's core elements (paraphrased from Saunders 2015 pp. 78-82 and Implications for Practice pp. 13-15 of the 2011 report) are:
+[Saunders](https://www.ovw.usdoj.gov/) 2015 (§1.4) and the underlying 2011 NIJ report consolidate a competency framework for evaluators handling cases with DV allegations. The framework's core elements (paraphrased from Saunders 2015 pp. 78-82 and Implications for Practice pp. 13-15 of the 2011 report) are:
 
 1. **Routine use of a validated DV screening instrument** — not reliance on general personality measures (MMPI etc.) alone.
 2. **Specific knowledge of post-separation violence** — the period when custody disputes unfold is the period of *highest* lethality risk for survivors.
@@ -281,7 +281,7 @@ That is, *at compilation of the 2015 paper*, only 15 US states had any statutori
 
 **[Secondary verification only]** for the verbatim text of Harman & Lorandos 2021 — *Psychology, Public Policy, and Law* is APA-paywalled and the full PDF was not directly extractable at compilation. The above summary is reconstructed from the article's published abstract and from [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s 2022 rebuttals (which quote the critique extensively).
 
-### 6.2 The Meier 2022 rebuttals
+### 6.2 The [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 2022 rebuttals
 
 **Cross-reference.** Treated in full in `evidence-forensic-operation-in-courts.md` §2.2. The rebuttals (Meier et al. 2022a in *Journal of Family Trauma, Child Custody & Child Development* 19(3-4) and 2022b in same journal 19(2)) argue that the Harman & Lorandos re-analyses contain coding errors and that the surviving statistically-significant findings remain consistent with Meier's original gender-asymmetry conclusion.
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
