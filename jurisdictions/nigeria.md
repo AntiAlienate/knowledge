@@ -227,7 +227,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
       "url": "https://www.nigeria-law.org/",
       "datePublished": "1970",
-      "description": "Federal statutory framework for statutory (Christian/civil) marriages. Section 71 addresses custody and welfare considerations. Substantively foundational federal-level family-law statute operating for statutory-marriage divorces."
+      "description": "Federal statutory framework for statutory (Christian/civil) marriages. Section 71 addresses custody and welfare considerations. foundational federal-level family-law statute operating for statutory-marriage divorces."
     },
     {
       "@type": "Legislation",
@@ -245,7 +245,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Nigeria (Federal Republic of Nigeria)",
       "url": "https://www.unicef.org/nigeria/child-rights-act-2003",
       "datePublished": "1991",
-      "description": "Nigeria ratified UN CRC 19 April 1991. Ratified African Charter on the Rights and Welfare of the Child 23 July 2001. Substantively foundational international child-rights framework subsequently incorporated via Child Rights Act 2003."
+      "description": "Nigeria ratified UN CRC 19 April 1991. Ratified African Charter on the Rights and Welfare of the Child 23 July 2001. foundational international child-rights framework subsequently incorporated via Child Rights Act 2003."
     }
   ]
 }

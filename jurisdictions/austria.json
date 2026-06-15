@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Austria is a civil-law federal republic whose family-court framework operates under the Allgemeines bürgerliches Gesetzbuch (ABGB) and the Außerstreitgesetz (AußStrG). Parental authority (Obsorge) is governed by ABGB §§ 158-186, with joint Obsorge the default following the 2013 Kindschafts- und Namensrechts-Änderungsgesetz (KindNamRÄG 2013). Personal contact (Kontaktrecht) is governed by ABGB § 187. The Oberster Gerichtshof (OGH, Vienna) is the apex court in civil matters; family-law decisions reach OGH via Revisionsrekurs from regional appellate courts. Psychology profession is regulated under the federal Psychologengesetz 2013 (PG 2013) with statutory title protection. Austria is silent on 'parental alienation' as a statutory label; OGH practice operates substantively under the Kindeswohl welfare standard.",
+  "summary": "Austria is a civil-law federal republic whose family-court framework operates under the Allgemeines bürgerliches Gesetzbuch (ABGB) and the Außerstreitgesetz (AußStrG). Parental authority (Obsorge) is governed by ABGB §§ 158-186, with joint Obsorge the default following the 2013 Kindschafts- und Namensrechts-Änderungsgesetz (KindNamRÄG 2013). Personal contact (Kontaktrecht) is governed by ABGB § 187. The Oberster Gerichtshof (OGH, Vienna) is the apex court in civil matters; family-law decisions reach OGH via Revisionsrekurs from regional appellate courts. Psychology profession is regulated under the federal Psychologengesetz 2013 (PG 2013) with statutory title protection. Austria is silent on 'parental alienation' as a statutory label; OGH practice applies the Kindeswohl welfare standard.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -125,7 +125,7 @@
     {
       "year": 2024,
       "title": "OGH + Familiengerichtshilfe — Kindeswohl substantive register + post-KindNamRÄG framework",
-      "description": "Oberster Gerichtshof continues to develop Kindeswohl jurisprudence under ABGB §§ 158-187 + AußStrG + BVG-Kinderrechte framework in custody and contact disputes via Revisionsrekurs from Oberlandesgerichte. Substantive analysis without doctrinal 'parental alienation' label adoption — unlike Germany's BVerfG 1 BvR 1076/23 PAS-engagement, OGH operates substantively under Kindeswohl welfare standard within Familiengerichtshilfe-multidisciplinary-support framework."
+      "description": "Oberster Gerichtshof continues to develop Kindeswohl jurisprudence under ABGB §§ 158-187, AußStrG, BVG-Kinderrechte framework in custody and contact disputes via Revisionsrekurs from Oberlandesgerichte. Substantive analysis without doctrinal 'parental alienation' label adoption — unlike Germany's BVerfG 1 BvR 1076/23 PAS-engagement, OGH applies Kindeswohl welfare standard within Familiengerichtshilfe-multidisciplinary-support framework."
     }
   ],
   "structural_findings": [
@@ -164,7 +164,7 @@
   "editorial_notes": [
     "Austria jurisdiction sidecar v1.1 — deepened 2026-06-09 from 3 to 10 key_developments with full ABGB-to-contemporary trajectory: 1811-Allgemeines-bürgerliches-Gesetzbuch-Habsburg-era + 1918-Republic-from-Habsburg-collapse + 1945-Second-Republic-+-Allied-occupation-+-State-Treaty-1955 + 1992-UNCRC-ratification + 1995-EU-accession + 2003-Außerstreitgesetz-reform + 2011-Children's-Rights-Constitutional-Act-+-BVG-Kinderrechte + 2013-KindNamRÄG-2013-+-PG-2013 + 2014-PG-2013-in-force + 2024-OGH-+-Familiengerichtshilfe-Kindeswohl.",
     "Austria jurisdiction sidecar establishes the Austrian civil-law framework within the corpus alongside Germany and Switzerland. ABGB + AußStrG + OGH + PG 2013 federal-statutory psychology regulator.",
-    "PA-recognition: silent statutory + no-apex-position + silent regulator. OGH operates substantively under Kindeswohl. Distinct from Germany BVerfG-PAS-engagement.",
+    "PA-recognition: silent statutory, no-apex-position, silent regulator. OGH applies Kindeswohl. Distinct from Germany BVerfG-PAS-engagement.",
     "Joins EU6+ civil-law cluster + ABGB-1811-second-oldest-continuously-operating-civil-code-globally + Children's-Rights-Constitutional-Act-2011-BVG-Kinderrechte + Habsburg-era-civil-codification + EU-1995-accession + Familiengerichtshilfe-multidisciplinary-support-distinctive + federal-statutory psychology regulator group within the corpus."
   ]
 }

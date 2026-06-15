@@ -10,7 +10,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Afghanistan is a South/Central Asian religious-law state operating under a Hanafi-Sunni Sharia framework. Following the August 2021 Taliban takeover, the prior 2004 Constitution and Civil Code 1977 framework were effectively suspended; the Islamic Emirate of Afghanistan governs by Hanafi Sharia interpretation under Taliban-issued decrees. The 1977 Civil Code (Qanun-e Madani) drawing on Hanafi jurisprudence with Egyptian civil-code influence formally governs civil matters where not displaced by Taliban decrees. Custody (hadana) and guardianship (wilaya) are governed by Civil Code arts. 234-256 within the residual framework. The Supreme Court framework was restructured post-2021; the Supreme Court of the Islamic Emirate operates under Hanafi Sharia. Family-law matters are heard at first instance in Primary Courts. Psychology profession regulation is uncertain post-2021. Afghanistan is silent on 'parental alienation' as a statutory label; courts operate substantively under Hanafi Sharia welfare-of-the-child framework. Afghanistan is non-Hague Convention.",
+  "summary": "Afghanistan is a South/Central Asian religious-law state operating under a Hanafi-Sunni Sharia framework. Following the August 2021 Taliban takeover, the prior 2004 Constitution and Civil Code 1977 framework were effectively suspended; the Islamic Emirate of Afghanistan governs by Hanafi Sharia interpretation under Taliban-issued decrees. The 1977 Civil Code (Qanun-e Madani) drawing on Hanafi jurisprudence with Egyptian civil-code influence formally governs civil matters where not displaced by Taliban decrees. Custody (hadana) and guardianship (wilaya) are governed by Civil Code arts. 234-256 within the residual framework. The Supreme Court framework was restructured post-2021; the Supreme Court of the Islamic Emirate operates under Hanafi Sharia. Family-law matters are heard at first instance in Primary Courts. Psychology profession regulation is uncertain post-2021. Afghanistan is silent on 'parental alienation' as a statutory label; courts apply Hanafi Sharia welfare framework. Afghanistan is non-Hague Convention.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -57,7 +57,7 @@
     {
       "year": 1977,
       "title": "Civil Code 1977 (Qanun-e Madani)",
-      "description": "Federal Civil Code enacted 1977 (under President Mohammed Daoud Khan administration) drawing on Hanafi jurisprudence with significant Egyptian civil-code influence (Sanhuri-tradition transplant). Arts. 234-256 govern hadana (custody) and wilaya (guardianship). Substantively retained as residual framework where not displaced by post-2021 Taliban decrees."
+      "description": "Federal Civil Code enacted 1977 (under President Mohammed Daoud Khan administration) drawing on Hanafi jurisprudence with significant Egyptian civil-code influence (Sanhuri-tradition transplant). Arts. 234-256 govern hadana (custody) and wilaya (guardianship). retained as residual framework where not displaced by post-2021 Taliban decrees."
     },
     {
       "year": 1994,
@@ -87,7 +87,7 @@
     {
       "year": 2021,
       "title": "Taliban takeover August 2021 + Islamic Emirate restoration + framework suspension",
-      "description": "Taliban takeover 15 August 2021 ending Islamic Republic era. Islamic Emirate of Afghanistan re-established. 2004 Constitution substantively suspended; Elimination of Violence Against Women Law 2009 effectively suspended; governance by Taliban decrees under strict Hanafi-Deobandi Sharia interpretation. Subsequent decrees substantially constraining women's rights including in family-law domain."
+      "description": "Taliban takeover 15 August 2021 ending Islamic Republic era. Islamic Emirate of Afghanistan re-established. 2004 Constitution suspended; Elimination of Violence Against Women Law 2009 effectively suspended; governance by Taliban decrees under strict Hanafi-Deobandi Sharia interpretation. Subsequent decrees substantially constraining women's rights including in family-law domain."
     },
     {
       "year": 2022,
@@ -106,7 +106,7 @@
     }
   ],
   "structural_findings": [
-    "Afghanistan operates a Hanafi-Sunni-Deobandi Sharia religious-law framework — structurally distinctive within the corpus as a state under unilateral religious-law governance post-2021 with prior 2004-Islamic-Republic constitutional framework substantively suspended.",
+    "Afghanistan operates a Hanafi-Sunni-Deobandi Sharia religious-law framework — structurally distinctive within the corpus as a state under unilateral religious-law governance post-2021 with prior 2004-Islamic-Republic constitutional framework suspended.",
     "Post-2021 governance by decree under Hanafi-Deobandi Sharia interpretation is structurally distinctive within the corpus — places Afghanistan within the Shariah-as-supreme-law-decree-based-governance cluster alongside Iran 1979 (Iran maintains formal Constitution), Saudi Arabia (Quran-and-Sunnah-as-Constitution Basic Law 1992), and historically Taliban 1996-2001.",
     "Civil Code 1977 + Egyptian civil-code-influence pattern (Sanhuri-tradition transplant) places Afghanistan in the Egyptian-civil-code-transplant cluster alongside Syria, Iraq, Jordan, Libya, and select Gulf states within the residual framework — distinctive within the religious-law constitutional regime cluster.",
     "Multi-phase legal-system evolution: 1923-Amanullah-modernisation + 1977-Civil-Code-Egyptian-influence + 1996-2001-First-Taliban-regime + 2001-Bonn-Agreement + 2004-Constitution-Islamic-Republic + 2009-EVAW-Law + 2017-Shia-Personal-Status-Law + 2021-Taliban-takeover-Islamic-Emirate-restoration + 2022-2024-decree-based-governance — most discontinuous-codification trajectory within the corpus.",

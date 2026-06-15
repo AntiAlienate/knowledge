@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Montenegro is a Western Balkans civil-law unitary republic whose family-law framework operates under the Porodični zakon (Family Code) of 2007. Parental rights (roditeljska prava) are governed by Porodični zakon arts. 60-94; joint exercise during marriage is the statutory default. The Vrhovni sud Crne Gore (Supreme Court of Montenegro, Podgorica) is the apex court for civil and criminal matters; the Ustavni sud (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated through Ministry of Health framework and the Crnogorska društvo psihologa (Montenegrin Psychological Association) peak-body ethics oversight. Montenegro is silent on 'parental alienation' as a statutory label; courts operate substantively under the najbolji interes djeteta (best-interests-of-the-child) standard. Council of Europe member; ECHR Strasbourg jurisprudence applies.",
+  "summary": "Montenegro is a Western Balkans civil-law unitary republic whose family-law framework operates under the Porodični zakon (Family Code) of 2007. Parental rights (roditeljska prava) are governed by Porodični zakon arts. 60-94; joint exercise during marriage is the statutory default. The Vrhovni sud Crne Gore (Supreme Court of Montenegro, Podgorica) is the apex court for civil and criminal matters; the Ustavni sud (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated through Ministry of Health framework and the Crnogorska društvo psihologa (Montenegrin Psychological Association) peak-body ethics oversight. Montenegro is silent on 'parental alienation' as a statutory label; courts apply the najbolji interes djeteta (best) standard. Council of Europe member; ECHR Strasbourg jurisprudence applies.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -65,7 +65,7 @@
     {
       "year": 2007,
       "title": "Porodični zakon 2007 (Family Code)",
-      "description": "Family Code enacted 14 August 2007 — substantively modernising family-law within post-independence framework. Arts. 60-94 govern parental rights with joint exercise during marriage as statutory default. Welfare standard codified."
+      "description": "Family Code enacted 14 August 2007 — modernising family-law within post-independence framework. Arts. 60-94 govern parental rights with joint exercise during marriage as statutory default. Welfare standard codified."
     },
     {
       "year": 2010,
@@ -90,7 +90,7 @@
     {
       "year": 2022,
       "title": "Constitutional Court reform + judicial-system contestation",
-      "description": "Constitutional Court operational tension 2022 with subsequent reform — substantively affecting individual-constitutional-complaint pathway for family-court determinations. Broader judicial-system contestation linked to EU-rule-of-law engagement."
+      "description": "Constitutional Court operational tension 2022 with subsequent reform — affecting individual-constitutional-complaint pathway for family-court determinations. Broader judicial-system contestation linked to EU engagement."
     },
     {
       "year": 2023,

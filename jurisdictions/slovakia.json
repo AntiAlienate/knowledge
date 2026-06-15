@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Slovakia is a civil-law unitary republic whose family-law framework operates under the Zákon o rodine (Family Act) Law 36/2005. Parental rights and obligations (rodičovské práva a povinnosti) are governed by Zákon o rodine §§ 28-47; joint exercise during marriage is the statutory default. The Najvyšší súd (Supreme Court of the Slovak Republic, Bratislava) is the apex court for civil and criminal matters; the Ústavný súd (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated under the Slovenská komora psychológov (SKP) Chamber of Psychologists. Slovakia is silent on 'parental alienation' as a statutory label; courts operate substantively under the najlepší záujem dieťaťa (best-interests-of-the-child) standard.",
+  "summary": "Slovakia is a civil-law unitary republic whose family-law framework operates under the Zákon o rodine (Family Act) Law 36/2005. Parental rights and obligations (rodičovské práva a povinnosti) are governed by Zákon o rodine §§ 28-47; joint exercise during marriage is the statutory default. The Najvyšší súd (Supreme Court of the Slovak Republic, Bratislava) is the apex court for civil and criminal matters; the Ústavný súd (Constitutional Court) operates separate constitutional-review and individual-constitutional-complaint jurisdiction. Psychology profession is regulated under the Slovenská komora psychológov (SKP) Chamber of Psychologists. Slovakia is silent on 'parental alienation' as a statutory label; courts apply the najlepší záujem dieťaťa (best) standard.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -82,7 +82,7 @@
     {
       "year": 2005,
       "title": "Zákon o rodine 36/2005 (Family Act)",
-      "description": "Family Act enacted 19 January 2005, in force 1 April 2005 — substantively modernising family-law replacing 1963 Family Act. §§ 28-47 govern parental rights and obligations within civil-law tradition. § 24 establishes the najlepší záujem dieťaťa welfare standard."
+      "description": "Family Act enacted 19 January 2005, in force 1 April 2005 — modernising family-law replacing 1963 Family Act. §§ 28-47 govern parental rights and obligations within civil-law tradition. § 24 establishes the najlepší záujem dieťaťa welfare standard."
     },
     {
       "year": 2014,

@@ -195,7 +195,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Brazil (República Federativa do Brasil)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2010/lei/l12318.htm",
       "datePublished": "2010",
-      "description": "World's first statutory codification of alienação parental as juridical concept. Art. 2° defines alienação parental; art. 4° establishes provisional measures; art. 6° enumerates judicial remedies. Substantively foundational for global PA-recognition statutory framework — heavily cited by [PASG](https://pasg.info/)-aligned advocates internationally."
+      "description": "World's first statutory codification of alienação parental as juridical concept. Art. 2° defines alienação parental; art. 4° establishes provisional measures; art. 6° enumerates judicial remedies. foundational for global PA-recognition statutory framework — heavily cited by [PASG](https://pasg.info/)-aligned advocates internationally."
     },
     {
       "@type": "Legislation",
@@ -213,7 +213,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Brazil (República Federativa do Brasil)",
       "url": "https://www.planalto.gov.br/ccivil_03/leis/l8069.htm",
       "datePublished": "1990",
-      "description": "Substantively foundational child-rights framework enacted 13 July 1990 implementing CF/1988 art. 227 and UN CRC. Establishes melhor interesse da criança standard and Conselhos Tutelares structure."
+      "description": "foundational child-rights framework enacted 13 July 1990 implementing CF/1988 art. 227 and UN CRC. Establishes melhor interesse da criança standard and Conselhos Tutelares structure."
     },
     {
       "@type": "Legislation",
@@ -230,7 +230,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Brazil (República Federativa do Brasil)",
       "url": "https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2014/lei/l13058.htm",
       "datePublished": "2014",
-      "description": "Establishes guarda compartilhada (shared custody) as the default post-separation framework — substantively transformative shift from sole-custody default to gender-equal shared-custody framework."
+      "description": "Establishes guarda compartilhada (shared custody) as the default post-separation framework — transformative shift from sole-custody default to gender-equal shared-custody framework."
     }
   ]
 }

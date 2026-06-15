@@ -209,7 +209,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
       "url": "https://sso.agc.gov.sg/Act/WC1961",
       "datePublished": "1961",
-      "description": "Women's Charter 1961 establishing civil marriage and divorce framework for non-Muslim Singaporeans. Substantively foundational 20th-century Singapore family-law statute — extensively amended including Part X welfare-of-children framework and Maintenance of Parents Act 1995 intersection."
+      "description": "Women's Charter 1961 establishing civil marriage and divorce framework for non-Muslim Singaporeans. foundational 20th-century Singapore family-law statute — extensively amended including Part X welfare-of-children framework and Maintenance of Parents Act 1995 intersection."
     },
     {
       "@type": "Legislation",
@@ -227,7 +227,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
       "url": "https://sso.agc.gov.sg/Act/FJA2014",
       "datePublished": "2014",
-      "description": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. Substantively transformative institutional reform."
+      "description": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. transformative institutional reform."
     },
     {
       "@type": "Legislation",
@@ -236,7 +236,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Singapore (Republic of Singapore / 新加坡共和国)",
       "url": "https://sso.agc.gov.sg/Act/GIA1934",
       "datePublished": "1934",
-      "description": "Guardianship of Infants Act 1934 establishing guardianship and custody framework for non-divorce contexts. Substantively foundational pre-Women's-Charter children's-law statute — operationally significant for non-marital and non-divorce custody disputes."
+      "description": "Guardianship of Infants Act 1934 establishing guardianship and custody framework for non-divorce contexts. foundational pre-Women's-Charter children's-law statute — operationally significant for non-marital and non-divorce custody disputes."
     },
     {
       "@type": "Legislation",

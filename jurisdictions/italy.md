@@ -302,7 +302,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Italy (Repubblica Italiana)",
       "url": "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:legge:2006-02-08;54",
       "datePublished": "2006",
-      "description": "Establishes affidamento condiviso (shared parental responsibility) as default post-separation framework — substantively transformative gender-equal parental-rights reform."
+      "description": "Establishes affidamento condiviso (shared parental responsibility) as default post-separation framework — transformative gender-equal parental-rights reform."
     },
     {
       "@type": "Legislation",

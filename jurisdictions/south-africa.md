@@ -220,7 +220,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "South Africa (Republic of South Africa)",
       "url": "https://www.gov.za/documents/divorce-act",
       "datePublished": "1979",
-      "description": "Divorce statutory framework establishing no-fault divorce grounds. Section 6 addresses welfare-of-children considerations in divorce proceedings. Substantively foundational pre-Children's-Act framework."
+      "description": "Divorce statutory framework establishing no-fault divorce grounds. Section 6 addresses welfare-of-children considerations in divorce proceedings. foundational pre-Children's-Act framework."
     },
     {
       "@type": "Legislation",

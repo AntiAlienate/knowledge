@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Iran is a religious-law theocratic republic whose family-law framework operates under the Civil Code (Qanun-e Madani, 1928, as substantially amended) and the Family Protection Law 1391 (2013) — the post-revolutionary modernised family-law statute. Custody (hizanat) and guardianship (walayat) are governed by Civil Code arts. 1168-1180 (Twelver Shia Jaʿfari jurisprudential basis) and the Family Protection Law 2013. The Supreme Court of Iran (Divan-e Aaliye Keshvar) is the apex court for civil and criminal matters; Family Courts (Dadgah-e Khanevadeh) operate as first-instance specialised courts. Psychology profession is regulated under the Psychology and Counseling Organization of Iran (Sazman-e Nezam-e Ravanshenasi va Mosharaverat) established by Law 1379/2003. Iran is silent on 'parental alienation' as a statutory label; courts operate substantively under the maslahat-e tifl (welfare-of-the-child) standard mediated by Twelver Shia jurisprudence. Iran is non-Hague Convention (not party to the 1980 Child Abduction Convention).",
+  "summary": "Iran is a religious-law theocratic republic whose family-law framework operates under the Civil Code (Qanun-e Madani, 1928, as substantially amended) and the Family Protection Law 1391 (2013) — the post-revolutionary modernised family-law statute. Custody (hizanat) and guardianship (walayat) are governed by Civil Code arts. 1168-1180 (Twelver Shia Jaʿfari jurisprudential basis) and the Family Protection Law 2013. The Supreme Court of Iran (Divan-e Aaliye Keshvar) is the apex court for civil and criminal matters; Family Courts (Dadgah-e Khanevadeh) operate as first-instance specialised courts. Psychology profession is regulated under the Psychology and Counseling Organization of Iran (Sazman-e Nezam-e Ravanshenasi va Mosharaverat) established by Law 1379/2003. Iran is silent on 'parental alienation' as a statutory label; courts apply the maslahat-e tifl (welfare) standard mediated by Twelver Shia jurisprudence. Iran is non-Hague Convention (not party to the 1980 Child Abduction Convention).",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -63,7 +63,7 @@
     {
       "year": 1928,
       "title": "Qanun-e Madani (Civil Code) enacted — Books 1-2",
-      "description": "Iran's foundational Civil Code Books 1-2 enacted 1928 (under Reza Shah administration) — drawing on French Civil Code structural model with Twelver Shia Ja'fari jurisprudential substantive substrate. Book 2 Title IX (arts. 1168-1180) governs custody (hizanat) and guardianship (walayat). Substantively retained as the foundational civil framework that persists in contemporary Iran."
+      "description": "Iran's foundational Civil Code Books 1-2 enacted 1928 (under Reza Shah administration) — drawing on French Civil Code structural model with Twelver Shia Ja'fari jurisprudential substantive substrate. Book 2 Title IX (arts. 1168-1180) governs custody (hizanat) and guardianship (walayat). retained as the foundational civil framework that persists in contemporary Iran."
     },
     {
       "year": 1967,
@@ -103,12 +103,12 @@
     {
       "year": 2020,
       "title": "COVID-19 pandemic + family-court-disruption + maslahat-e tifl framework",
-      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Iran — one of Middle East's earliest + most severe pandemic-impact frameworks. Supreme Court of Iran + Family Courts (Dadgāh-e Khānevādeh) operations substantively disrupted + family-court hearings substantially deferred + maslahat-e tifl (welfare-of-the-child) jurisprudence development continuing within remote-hearing framework + custody-and-ḥażānat decisions affected by pandemic-era public-health-emergency framework + substantive Iranian diaspora cross-border-jurisdiction-practice disruption affecting subsequent post-pandemic family-law-implementation framework."
+      "description": "COVID-19 pandemic March 2020 onwards affecting Iran — one of Middle East's earliest, most severe pandemic-impact frameworks. Supreme Court of Iran, Family Courts (Dadgāh-e Khānevādeh) operations substantively disrupted, family-court hearings substantially deferred, maslahat-e tifl (welfare) jurisprudence development continuing within remote-hearing framework, custody-and-ḥażānat decisions affected by pandemic-era public-health-emergency framework, substantive Iranian diaspora cross disruption affecting subsequent post-pandemic family-law-implementation framework."
     },
     {
       "year": 2023,
       "title": "Hijab and Chastity Law debate + family-law amendment proposals",
-      "description": "Hijab and Chastity Law (Lā'iḥeh-yi Hijāb va 'Effat) legislative debate 2022-2023 substantively affecting women's-rights framework under Twelver Shia Ja'fari constitutional framework. Multiple Family Protection Law 2013 amendment proposals addressing custody-age framework (ḥażānat) and maintenance provisions."
+      "description": "Hijab and Chastity Law (Lā'iḥeh-yi Hijāb va 'Effat) legislative debate 2022-2023 affecting women's-rights framework under Twelver Shia Ja'fari constitutional framework. Multiple Family Protection Law 2013 amendment proposals addressing custody-age framework (ḥażānat) and maintenance provisions."
     },
     {
       "year": 2024,

@@ -278,7 +278,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Australia (Commonwealth of Australia)",
       "url": "https://www.legislation.gov.au/C2004A00275/latest/text",
       "datePublished": "1975",
-      "description": "Primary statutory basis for Australian family law — substantively foundational since 1975 establishing no-fault divorce framework. Part VII (children) extensively amended by 2006, 2011, 2023 reforms. Section 60CC enumerates BIC considerations."
+      "description": "Primary statutory basis for Australian family law — foundational since 1975 establishing no-fault divorce framework. Part VII (children) extensively amended by 2006, 2011, 2023 reforms. Section 60CC enumerates BIC considerations."
     },
     {
       "@type": "Legislation",
@@ -287,7 +287,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Australia (Commonwealth of Australia)",
       "url": "https://www.legislation.gov.au/C2023A00087/latest/text",
       "datePublished": "2023",
-      "description": "Substantively transformative 2023 amendment effective 6 May 2024 — repealing s 61DA presumption of equal shared parental responsibility and the related compulsory consideration of equal/substantial-and-significant time. Restructures s 60CC BIC framework and codifies non-acceptance of pseudo-scientific concepts in parenting matters."
+      "description": "transformative 2023 amendment effective 6 May 2024 — repealing s 61DA presumption of equal shared parental responsibility and the related compulsory consideration of equal/substantial-and-significant time. Restructures s 60CC BIC framework and codifies non-acceptance of pseudo-scientific concepts in parenting matters."
     },
     {
       "@type": "Legislation",

@@ -4,10 +4,12 @@
   "name": "Bhutan (Kingdom of Bhutan / འབྲུག་རྒྱལ་ཁབ་)",
   "jurisdiction_code": "BT",
   "legal_system": "mixed",
-  "language": ["dz"],
+  "language": [
+    "dz"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Bhutan is a South Asian mixed-legal-system constitutional monarchy combining Buddhist customary-law substantive heritage (drawing on Driglam Namzha cultural codification and the historical Tsa Yig legal tradition) with English common-law procedural inheritance. Bhutan is structurally distinctive globally — only Mahayana Buddhist constitutional-monarchy jurisdiction in the corpus, and the only state pursuing the Gross National Happiness (GNH) framework as constitutional policy. Family-law framework operates under the Marriage Act 1980 (revised 1996), the Inheritance Act 1980, the Child Care and Protection Act 2011, and the Domestic Violence Prevention Act 2013. Parental responsibility and child custody are governed by Child Care and Protection Act and case-law applying the welfare-of-the-child principle. The Supreme Court of Bhutan is the apex court for civil and criminal matters; constitutional review jurisdiction lies with the Supreme Court. Family-law matters are heard at first instance in the District Courts (Dzongkhag Courts). Psychology profession is regulated through the Bhutan Medical and Health Council. Bhutan is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child principle. Bhutan is non-Hague Convention.",
+  "summary": "Bhutan is a South Asian mixed-legal-system constitutional monarchy combining Buddhist customary-law substantive heritage (drawing on Driglam Namzha cultural codification and the historical Tsa Yig legal tradition) with English common-law procedural inheritance. Bhutan is structurally distinctive globally — only Mahayana Buddhist constitutional-monarchy jurisdiction in the corpus, and the only state pursuing the Gross National Happiness (GNH) framework as constitutional policy. Family-law framework operates under the Marriage Act 1980 (revised 1996), the Inheritance Act 1980, the Child Care and Protection Act 2011, and the Domestic Violence Prevention Act 2013. Parental responsibility and child custody are governed by Child Care and Protection Act and case-law applying the welfare principle. The Supreme Court of Bhutan is the apex court for civil and criminal matters; constitutional review jurisdiction lies with the Supreme Court. Family-law matters are heard at first instance in the District Courts (Dzongkhag Courts). Psychology profession is regulated through the Bhutan Medical and Health Council. Bhutan is silent on 'parental alienation' as a statutory label; courts apply the welfare principle. Bhutan is non-Hague Convention.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -81,7 +83,7 @@
     {
       "year": 1996,
       "title": "Marriage Act revision 1996",
-      "description": "Marriage Act 1980 substantively revised 1996 — modernising marriage, divorce, parental rights, and custody provisions within the codified family-law framework. Currently operative version alongside Inheritance Act 1980."
+      "description": "Marriage Act 1980 revised 1996 — modernising marriage, divorce, parental rights, and custody provisions within the codified family-law framework. Currently operative version alongside Inheritance Act 1980."
     },
     {
       "year": 2008,
@@ -101,7 +103,7 @@
     {
       "year": 2017,
       "title": "Civil and Criminal Procedure Code revision + judicial-administrative consolidation",
-      "description": "Civil and Criminal Procedure Code substantively revised 2017 consolidating procedural framework for District (Dzongkhag) Court family-law proceedings. Twenty Dzongkhag Courts operate first-instance jurisdiction with High Court intermediate appellate jurisdiction and Supreme Court of Bhutan apex jurisdiction."
+      "description": "Civil and Criminal Procedure Code revised 2017 consolidating procedural framework for District (Dzongkhag) Court family-law proceedings. Twenty Dzongkhag Courts operate first-instance jurisdiction with High Court intermediate appellate jurisdiction and Supreme Court of Bhutan apex jurisdiction."
     },
     {
       "year": 2024,

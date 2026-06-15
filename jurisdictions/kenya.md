@@ -205,7 +205,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
       "url": "https://www.kenyalaw.org/akn/ke/act/2022/29",
       "datePublished": "2022",
-      "description": "Children Act 2022 effective 26 July 2022 replacing 2001 Children Act. Establishes parental responsibility framework, BIC paramount standard, child-participation rights, and child-protection-measures. Substantively transformative 21st-century Kenyan child-rights reform."
+      "description": "Children Act 2022 effective 26 July 2022 replacing 2001 Children Act. Establishes parental responsibility framework, BIC paramount standard, child-participation rights, and child-protection-measures. transformative 21st-century Kenyan child-rights reform."
     },
     {
       "@type": "Legislation",
@@ -232,7 +232,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Kenya (Republic of Kenya / Jamhuri ya Kenya)",
       "url": "https://www.unicef.org/kenya/",
       "datePublished": "1990",
-      "description": "Kenya ratified UN CRC 30 July 1990. Ratified African Charter on the Rights and Welfare of the Child 25 July 2000. Substantively foundational international child-rights framework subsequently incorporated via Constitution 2010 art. 53 and Children Act 2022."
+      "description": "Kenya ratified UN CRC 30 July 1990. Ratified African Charter on the Rights and Welfare of the Child 25 July 2000. foundational international child-rights framework subsequently incorporated via Constitution 2010 art. 53 and Children Act 2022."
     }
   ]
 }

@@ -11,7 +11,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Sri Lanka is a South Asian mixed-legal-system unitary republic combining Roman-Dutch civil-law substantive heritage with English common-law procedural inheritance, plus religious-community personal laws (Kandyan Sinhalese, Thesawalamai Tamil, Muslim). Family law operates under the General Marriage Ordinance 1907 and Civil Procedure Code for general matters, with Kandyan Marriage and Divorce Act 1952, Thesawalamai (Jaffna Tamils), and Muslim Marriage and Divorce Act 1951 for community-specific matters. Custody is governed by general law via District Courts. The Supreme Court of Sri Lanka is the apex court for civil, criminal, constitutional and administrative matters. Psychology profession regulation is administered through the Sri Lanka Medical Council framework with the Sri Lanka Psychological Association operating professional standards. Sri Lanka is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Sri Lanka acceded to the Hague Convention 1980 effective 1 August 2002.",
+  "summary": "Sri Lanka is a South Asian mixed-legal-system unitary republic combining Roman-Dutch civil-law substantive heritage with English common-law procedural inheritance, plus religious-community personal laws (Kandyan Sinhalese, Thesawalamai Tamil, Muslim). Family law operates under the General Marriage Ordinance 1907 and Civil Procedure Code for general matters, with Kandyan Marriage and Divorce Act 1952, Thesawalamai (Jaffna Tamils), and Muslim Marriage and Divorce Act 1951 for community-specific matters. Custody is governed by general law via District Courts. The Supreme Court of Sri Lanka is the apex court for civil, criminal, constitutional and administrative matters. Psychology profession regulation is administered through the Sri Lanka Medical Council framework with the Sri Lanka Psychological Association operating professional standards. Sri Lanka is silent on 'parental alienation' as a statutory label; courts apply the welfare standard. Sri Lanka acceded to the Hague Convention 1980 effective 1 August 2002.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -70,12 +70,12 @@
     {
       "year": 1907,
       "title": "General Marriage Ordinance",
-      "description": "Federal General Marriage Ordinance enacted 1907 — operating governing general marriage and divorce matters not covered by community-specific personal laws. Substantively retained in independent Ceylon/Sri Lanka post-1948-independence."
+      "description": "Federal General Marriage Ordinance enacted 1907 — operating governing general marriage and divorce matters not covered by community-specific personal laws. retained in independent Ceylon/Sri Lanka post-1948-independence."
     },
     {
       "year": 1948,
       "title": "Ceylon independence + reception of pre-1948 statutory framework",
-      "description": "Ceylon independence 4 February 1948 from United Kingdom — Dominion of Ceylon 1948-1972, Republic of Sri Lanka 1972, Democratic Socialist Republic of Sri Lanka 1978. Pre-1948 colonial-era statutory framework substantively retained including General Marriage Ordinance 1907 and Roman-Dutch civil-law substrate."
+      "description": "Ceylon independence 4 February 1948 from United Kingdom — Dominion of Ceylon 1948-1972, Republic of Sri Lanka 1972, Democratic Socialist Republic of Sri Lanka 1978. Pre-1948 colonial-era statutory framework retained including General Marriage Ordinance 1907 and Roman-Dutch civil-law substrate."
     },
     {
       "year": 1951,

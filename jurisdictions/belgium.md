@@ -295,7 +295,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
       "datePublished": "1995",
-      "description": "Primary statutory basis for parental authority — restructured by Loi du 13 avril 1995 establishing autorité parentale conjointe (joint parental authority). Substantively foundational current parental-authority framework."
+      "description": "Primary statutory basis for parental authority — restructured by Loi du 13 avril 1995 establishing autorité parentale conjointe (joint parental authority). foundational current parental-authority framework."
     },
     {
       "@type": "Legislation",

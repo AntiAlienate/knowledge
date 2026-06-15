@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Denmark is a Nordic civil-law unitary kingdom whose family-court framework was substantially restructured by the 2019 Familieretshuset reform (Lov om Familieretshuset 2018) which created a single-entry administrative-and-judicial pathway for family disputes. The Forældreansvarsloven 2007 (Parental Responsibility Act) governs joint parental responsibility (forældremyndighed), residence (bopæl) and contact (samvær); joint custody is the statutory default. Family-law cases proceed through Familieretshuset administrative determination, then the Familieretten (specialist family court) at District Court level, the Landsret (High Court of Appeal), and the Højesteret (Supreme Court of Denmark, Copenhagen). Psychology profession is regulated under the Psykologloven (Psychology Act) of 1993 with autorisasjon issued by Psykolognævnet under the Ministry of Social Affairs. Denmark is silent on 'parental alienation' as a statutory label; courts operate substantively under the barnets bedste (best-interests-of-the-child) welfare standard.",
+  "summary": "Denmark is a Nordic civil-law unitary kingdom whose family-court framework was substantially restructured by the 2019 Familieretshuset reform (Lov om Familieretshuset 2018) which created a single-entry administrative-and-judicial pathway for family disputes. The Forældreansvarsloven 2007 (Parental Responsibility Act) governs joint parental responsibility (forældremyndighed), residence (bopæl) and contact (samvær); joint custody is the statutory default. Family-law cases proceed through Familieretshuset administrative determination, then the Familieretten (specialist family court) at District Court level, the Landsret (High Court of Appeal), and the Højesteret (Supreme Court of Denmark, Copenhagen). Psychology profession is regulated under the Psykologloven (Psychology Act) of 1993 with autorisasjon issued by Psykolognævnet under the Ministry of Social Affairs. Denmark is silent on 'parental alienation' as a statutory label; courts apply the barnets bedste (best) welfare standard.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -63,7 +63,7 @@
     {
       "year": 1849,
       "title": "Danish Constitution 1849 + Junigrundloven + constitutional-monarchy framework",
-      "description": "Danish Constitution (Junigrundloven) adopted 5 June 1849 substantively reforming Danish absolute-monarchy framework to constitutional-monarchy. Foundational constitutional anchor persisting through subsequent constitutional-amendment-trajectory affecting contemporary family-law-jurisprudence."
+      "description": "Danish Constitution (Junigrundloven) adopted 5 June 1849 reforming Danish absolute-monarchy framework to constitutional-monarchy. Foundational constitutional anchor persisting through subsequent constitutional-amendment-trajectory affecting contemporary family-law-jurisprudence."
     },
     {
       "year": 1953,
@@ -98,7 +98,7 @@
     {
       "year": 2014,
       "title": "Brussels IIa Regulation + 2019 Brussels IIb framework + cross-border-jurisdiction",
-      "description": "Brussels IIa Regulation (EC 2201/2003) framework operating in Denmark via parallel agreement (Denmark family-law-opt-out within EU framework). Subsequent Brussels IIb Regulation (EU 2019/1111) framework substantively reforming cross-border-jurisdiction-and-recognition-and-enforcement for matrimonial-and-parental-responsibility-matters."
+      "description": "Brussels IIa Regulation (EC 2201/2003) framework operating in Denmark via parallel agreement (Denmark family within EU framework). Subsequent Brussels IIb Regulation (EU 2019/1111) framework reforming cross for matrimonial."
     },
     {
       "year": 2019,

@@ -206,7 +206,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "New Zealand (Aotearoa New Zealand)",
       "url": "https://www.legislation.govt.nz/act/public/2004/0090/latest/DLM317233.html",
       "datePublished": "2004",
-      "description": "Care of Children Act 2004 (CoCA) enacted 21 November 2004 effective 1 July 2005 replacing Guardianship Act 1968. Establishes welfare-and-best-interests-of-the-child paramount standard (s 4), parenting-orders framework, and Treaty of Waitangi / tikanga Māori considerations (s 5(f)). Substantively foundational current NZ family-law statute."
+      "description": "Care of Children Act 2004 (CoCA) enacted 21 November 2004 effective 1 July 2005 replacing Guardianship Act 1968. Establishes welfare paramount standard (s 4), parenting-orders framework, and Treaty of Waitangi / tikanga Māori considerations (s 5(f)). foundational current NZ family-law statute."
     },
     {
       "@type": "Legislation",
@@ -215,7 +215,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "New Zealand (Aotearoa New Zealand)",
       "url": "https://www.legislation.govt.nz/act/public/1980/0161/latest/DLM42253.html",
       "datePublished": "1980",
-      "description": "Family Court Act 1980 establishing specialised Family Court (Te Kōti Whānau) as division of District Court. Substantively foundational institutional framework — restructured via 2013 Family Court Reform Act."
+      "description": "Family Court Act 1980 establishing specialised Family Court (Te Kōti Whānau) as division of District Court. foundational institutional framework — restructured via 2013 Family Court Reform Act."
     },
     {
       "@type": "Legislation",

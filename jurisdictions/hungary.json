@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Hungary is a civil-law unitary republic whose family-law framework was substantially modernised by the Polgári Törvénykönyv (Civil Code, Law V of 2013, Ptk) in force 15 March 2014. Parental authority (szülői felügyelet) is governed by Ptk Book Four (Family Law) §§ 4:146-4:201. The Kúria (Curia, Budapest) is the apex court for civil and criminal matters; the Alkotmánybíróság (Constitutional Court) operates a separate constitutional-review jurisdiction. Family-law matters proceed first-instance through Járásbíróság (District Courts) with appeals to Törvényszék (Regional Courts) and the Ítélőtábla (Court of Appeal). Psychology profession is regulated under the Magyar Pszichológiai Társaság (MPT) and the Magyar Pszichológusok Érdekvédelmi Egyesülete (MPEE), with Ministry-of-Human-Capacities licensing requirements. Hungary is silent on 'parental alienation' as a statutory label; courts operate substantively under the gyermek mindenek felett álló érdeke (best-interests-of-the-child) standard.",
+  "summary": "Hungary is a civil-law unitary republic whose family-law framework was substantially modernised by the Polgári Törvénykönyv (Civil Code, Law V of 2013, Ptk) in force 15 March 2014. Parental authority (szülői felügyelet) is governed by Ptk Book Four (Family Law) §§ 4:146-4:201. The Kúria (Curia, Budapest) is the apex court for civil and criminal matters; the Alkotmánybíróság (Constitutional Court) operates a separate constitutional-review jurisdiction. Family-law matters proceed first-instance through Járásbíróság (District Courts) with appeals to Törvényszék (Regional Courts) and the Ítélőtábla (Court of Appeal). Psychology profession is regulated under the Magyar Pszichológiai Társaság (MPT) and the Magyar Pszichológusok Érdekvédelmi Egyesülete (MPEE), with Ministry licensing requirements. Hungary is silent on 'parental alienation' as a statutory label; courts apply the gyermek mindenek felett álló érdeke (best) standard.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -92,7 +92,7 @@
     {
       "year": 2013,
       "title": "Ptk adopted (Polgári Törvénykönyv / Civil Code Law V of 2013)",
-      "description": "New Civil Code (Ptk, Law V of 2013) adopted 11 February 2013 — substantively modernising Hungarian private law replacing 1959 Civil Code. Among the major CEE civil-code modernisations alongside Czech 2014, Romanian 2011 modernisations. Drawing on Dutch BW 1992 + Quebec Civil Code 1991 + German BGB comparative substrates."
+      "description": "New Civil Code (Ptk, Law V of 2013) adopted 11 February 2013 — modernising Hungarian private law replacing 1959 Civil Code. Among the major CEE civil-code modernisations alongside Czech 2014, Romanian 2011 modernisations. Drawing on Dutch BW 1992, Quebec Civil Code 1991, German BGB comparative substrates."
     },
     {
       "year": 2014,

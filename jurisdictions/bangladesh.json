@@ -10,7 +10,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Bangladesh is a South Asian mixed-legal-system unitary republic combining English common-law procedural inheritance with religious-community personal laws (Muslim, Hindu, Christian, Buddhist). Family law for Muslims operates under the Guardians and Wards Act 1890 (federal), the Muslim Family Laws Ordinance 1961, and the Family Courts Ordinance 1985 — heard by Family Courts. Custody (hizanat) is governed by GWA s. 7 and Hanafi jurisprudence. The Supreme Court of Bangladesh (Bangladesh Supreme Court) operates the Appellate Division and the High Court Division as the apex jurisdictions. Psychology profession regulation is administered through the Bangladesh Medical and Dental Council framework with the Bangladesh Clinical Psychology Society operating professional standards. Bangladesh is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-minor standard. Bangladesh is non-Hague Convention.",
+  "summary": "Bangladesh is a South Asian mixed-legal-system unitary republic combining English common-law procedural inheritance with religious-community personal laws (Muslim, Hindu, Christian, Buddhist). Family law for Muslims operates under the Guardians and Wards Act 1890 (federal), the Muslim Family Laws Ordinance 1961, and the Family Courts Ordinance 1985 — heard by Family Courts. Custody (hizanat) is governed by GWA s. 7 and Hanafi jurisprudence. The Supreme Court of Bangladesh (Bangladesh Supreme Court) operates the Appellate Division and the High Court Division as the apex jurisdictions. Psychology profession regulation is administered through the Bangladesh Medical and Dental Council framework with the Bangladesh Clinical Psychology Society operating professional standards. Bangladesh is silent on 'parental alienation' as a statutory label; courts apply the welfare standard. Bangladesh is non-Hague Convention.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -80,7 +80,7 @@
     {
       "year": 1971,
       "title": "Bangladesh independence + reception of pre-1971 statutory framework",
-      "description": "Bangladesh declared independence 26 March 1971, recognised internationally following 16 December 1971 victory in Bangladesh Liberation War. Constitution of Bangladesh adopted 4 November 1972 (effective 16 December 1972) — establishing parliamentary democratic-republic framework. Pre-1971 colonial-era and Pakistan-era statutory framework substantively retained including GWA 1890, MFLO 1961, and other personal-status statutes."
+      "description": "Bangladesh declared independence 26 March 1971, recognised internationally following 16 December 1971 victory in Bangladesh Liberation War. Constitution of Bangladesh adopted 4 November 1972 (effective 16 December 1972) — establishing parliamentary democratic-republic framework. Pre-1971 colonial-era and Pakistan-era statutory framework retained including GWA 1890, MFLO 1961, and other personal-status statutes."
     },
     {
       "year": 1985,
@@ -100,7 +100,7 @@
     {
       "year": 2010,
       "title": "Domestic Violence (Prevention and Protection) Act 2010",
-      "description": "Federal Domestic Violence (Prevention and Protection) Act enacted 12 October 2010 — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. The law substantively reaches inter-parental conduct affecting children but operates parallel to — not as a replacement of — the GWA + MFLO + Family Courts Ordinance custody framework."
+      "description": "Federal Domestic Violence (Prevention and Protection) Act enacted 12 October 2010 — establishing protection orders, mandatory-reporting obligations, multi-disciplinary response framework, and explicit recognition of psychological violence within the family unit. The law reaches inter-parental conduct affecting children but operates parallel to — not as a replacement of — the GWA, MFLO, Family Courts Ordinance custody framework."
     },
     {
       "year": 2013,

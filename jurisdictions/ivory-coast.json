@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Côte d'Ivoire is a West African civil-law republic whose family-law framework operates under the Family Code (Civil Code Book I, as substantially amended by Law 64-375 of 1964 and Law 83-799 of 1983, with major reform via Law 2019-573 of 2019) governing marriage, parental authority and child custody. Parental authority and child custody are governed by Civil Code arts. 17-29 (post-2019 reform). The Supreme Court (Cour suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance), with specialised Family-Tribunal procedure. Psychology profession is regulated through the Ministry of Health framework. Côte d'Ivoire is silent on 'parental alienation' as a statutory label; courts operate substantively under the interest-of-the-child standard. Côte d'Ivoire is non-Hague Convention.",
+  "summary": "Côte d'Ivoire is a West African civil-law republic whose family-law framework operates under the Family Code (Civil Code Book I, as substantially amended by Law 64-375 of 1964 and Law 83-799 of 1983, with major reform via Law 2019-573 of 2019) governing marriage, parental authority and child custody. Parental authority and child custody are governed by Civil Code arts. 17-29 (post-2019 reform). The Supreme Court (Cour suprême) is the apex court for civil and criminal matters; the Constitutional Council (Conseil constitutionnel) operates separate constitutional review. Family-law matters are heard at first instance in the Court of First Instance (Tribunal de Première Instance), with specialised Family-Tribunal procedure. Psychology profession is regulated through the Ministry of Health framework. Côte d'Ivoire is silent on 'parental alienation' as a statutory label; courts apply the interest standard. Côte d'Ivoire is non-Hague Convention.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -21,7 +21,7 @@
       "title": "Civil Code Book I — Marriage and Family",
       "year": 1964,
       "url": "https://www.justice.gouv.ci/",
-      "relevance": "Federal Civil Code drawing on French civil-law substantive heritage. Substantively reformed 1983 (Law 83-799) and 2019 (Law 2019-573) — 2019 reform codifying gender-equal marriage, parental authority and divorce provisions."
+      "relevance": "Federal Civil Code drawing on French civil-law substantive heritage. reformed 1983 (Law 83-799) and 2019 (Law 2019-573) — 2019 reform codifying gender-equal marriage, parental authority and divorce provisions."
     }
   ],
   "apex_courts": [
@@ -85,7 +85,7 @@
     {
       "year": 2016,
       "title": "Constitution 2016 + Third-Republic framework",
-      "description": "Constitution of Côte d'Ivoire 2016 adopted 30 October 2016 by referendum — substantively reforming political-institutional framework establishing Third Republic. Substantive constitutional anchor for contemporary family-law jurisprudence including reformed family-law framework."
+      "description": "Constitution of Côte d'Ivoire 2016 adopted 30 October 2016 by referendum — reforming political-institutional framework establishing Third Republic. Substantive constitutional anchor for contemporary family-law jurisprudence including reformed family-law framework."
     },
     {
       "year": 2019,
@@ -95,7 +95,7 @@
     {
       "year": 2023,
       "title": "ECOWAS Court of Justice + Conseil National des Droits de l'Homme institutional framework + AfCFTA implementation",
-      "description": "Côte d'Ivoire continuing ECOWAS Court of Justice framework participation 2023 substantively affecting cross-border family-law adjudication. Conseil National des Droits de l'Homme (CNDH) institutional position addressing PA-related issues within Law 2019-573, Civil Code framework."
+      "description": "Côte d'Ivoire continuing ECOWAS Court of Justice framework participation 2023 affecting cross-border family-law adjudication. Conseil National des Droits de l'Homme (CNDH) institutional position addressing PA-related issues within Law 2019-573, Civil Code framework."
     },
     {
       "year": 2024,

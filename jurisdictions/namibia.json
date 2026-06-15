@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Namibia is a Southern African mixed-legal-system republic combining Roman-Dutch civil-law substantive heritage (via South African Cape Colony administration) with English common-law procedural inheritance and customary-law personal-status jurisdiction via Community Courts (under the Community Courts Act 10/2003). Family-law framework operates under the Child Care and Protection Act 3/2015, Marriage Act 25/1961, Married Persons Equality Act 1/1996, and Recognition of Customary Marriages Bill (pending). Parental responsibility and child custody are governed by Child Care and Protection Act Parts III-IV. The Supreme Court of Namibia is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Health Professions Councils of Namibia under the Allied Health Professions Council framework with the Psychology Association of Namibia operating professional standards. Namibia is silent on 'parental alienation' as a statutory label; courts operate substantively under the best-interests-of-the-child principle codified in Child Care and Protection Act s. 3. Namibia is non-Hague Convention.",
+  "summary": "Namibia is a Southern African mixed-legal-system republic combining Roman-Dutch civil-law substantive heritage (via South African Cape Colony administration) with English common-law procedural inheritance and customary-law personal-status jurisdiction via Community Courts (under the Community Courts Act 10/2003). Family-law framework operates under the Child Care and Protection Act 3/2015, Marriage Act 25/1961, Married Persons Equality Act 1/1996, and Recognition of Customary Marriages Bill (pending). Parental responsibility and child custody are governed by Child Care and Protection Act Parts III-IV. The Supreme Court of Namibia is the apex court for civil and criminal matters. Family-law matters are heard at first instance in the High Court (Family Division) and Magistrates' Courts. Psychology profession is regulated through the Health Professions Councils of Namibia under the Allied Health Professions Council framework with the Psychology Association of Namibia operating professional standards. Namibia is silent on 'parental alienation' as a statutory label; courts apply the best principle codified in Child Care and Protection Act s. 3. Namibia is non-Hague Convention.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -63,7 +63,7 @@
     {
       "year": 1904,
       "title": "Herero and Namaqua genocide + German-colonial framework",
-      "description": "Herero and Namaqua genocide 1904-1908 by German Empire. Foundational pre framework substantively affecting subsequent demographic and constitutional-democratic-trajectory."
+      "description": "Herero and Namaqua genocide 1904-1908 by German Empire."
     },
     {
       "year": 1920,
@@ -88,7 +88,7 @@
     {
       "year": 1996,
       "title": "Married Persons Equality Act",
-      "description": "Federal statute on marital equality and parental rights post-independence — Act 1/1996 substantively reforming colonial-era marital framework."
+      "description": "Federal statute on marital equality and parental rights post-independence — Act 1/1996 reforming colonial-era marital framework."
     },
     {
       "year": 2003,

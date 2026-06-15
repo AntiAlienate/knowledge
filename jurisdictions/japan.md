@@ -200,7 +200,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Japan (日本国 / Nihon-koku)",
       "url": "https://elaws.e-gov.go.jp/document?lawid=129AC0000000089",
       "datePublished": "1898",
-      "description": "Primary statutory basis for parental authority (親権 shinken) and custody — substantively foundational since 1898 Meiji Civil Code. Art. 766 governs post-divorce custody and visitation; restructured by 2024 amendment introducing joint custody (effective 2026)."
+      "description": "Primary statutory basis for parental authority (親権 shinken) and custody — foundational since 1898 Meiji Civil Code. Art. 766 governs post-divorce custody and visitation; restructured by 2024 amendment introducing joint custody (effective 2026)."
     },
     {
       "@type": "Legislation",
@@ -209,7 +209,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Japan (日本国 / Nihon-koku)",
       "url": "https://www.moj.go.jp/MINJI/minji07_00337.html",
       "datePublished": "2024",
-      "description": "Reiwa 6 (2024) Civil Code Partial Amendment introducing joint custody (共同親権 kyōdō shinken) as elective option post-divorce, effective 2026. Substantively transformative reform ending Japan's distinctive sole-custody default."
+      "description": "Reiwa 6 (2024) Civil Code Partial Amendment introducing joint custody (共同親権 kyōdō shinken) as elective option post-divorce, effective 2026. transformative reform ending Japan's distinctive sole-custody default."
     },
     {
       "@type": "Legislation",

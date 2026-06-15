@@ -4,10 +4,12 @@
   "name": "Myanmar (Republic of the Union of Myanmar / ပြည်ထောင်စုသမ္မတ မြန်မာနိုင်ငံ)",
   "jurisdiction_code": "MM",
   "legal_system": "mixed",
-  "language": ["my"],
+  "language": [
+    "my"
+  ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Myanmar is a Southeast Asian mixed-legal-system state combining English common-law substantive heritage (via colonial inheritance) with religious-community personal laws — Buddhist law (for Burmese Buddhists, via the Burma Buddhist Women's Special Marriage Act 1954 and customary Dhammathat tradition), Hindu law, Christian law, and Islamic law. Family law for Burmese Buddhists operates under customary Dhammathat with statutory supplementation; Muslim personal status operates under the Burma Muslim Dissolution of Marriages Act 1953. The Supreme Court of the Union (ပြည်ထောင်စုတရားလွှတ်တော်ချုပ်) is the apex court for civil and criminal matters; the Constitutional Tribunal operates separate constitutional review. Family-law matters are heard at first instance in District Courts. Psychology profession is regulated through the Ministry of Health framework. Myanmar is silent on 'parental alienation' as a statutory label; courts operate substantively under the welfare-of-the-child standard. Myanmar is non-Hague Convention.",
+  "summary": "Myanmar is a Southeast Asian mixed-legal-system state combining English common-law substantive heritage (via colonial inheritance) with religious-community personal laws — Buddhist law (for Burmese Buddhists, via the Burma Buddhist Women's Special Marriage Act 1954 and customary Dhammathat tradition), Hindu law, Christian law, and Islamic law. Family law for Burmese Buddhists operates under customary Dhammathat with statutory supplementation; Muslim personal status operates under the Burma Muslim Dissolution of Marriages Act 1953. The Supreme Court of the Union (ပြည်ထောင်စုတရားလွှတ်တော်ချုပ်) is the apex court for civil and criminal matters; the Constitutional Tribunal operates separate constitutional review. Family-law matters are heard at first instance in District Courts. Psychology profession is regulated through the Ministry of Health framework. Myanmar is silent on 'parental alienation' as a statutory label; courts apply the welfare standard. Myanmar is non-Hague Convention.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",

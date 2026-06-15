@@ -10,7 +10,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Finland is a Nordic civil-law unitary republic whose family-court framework operates under the Laki lapsen huollosta ja tapaamisoikeudesta (Act on Child Custody and Right of Access) 1983, substantially amended by Lain muutos 190/2019 in force 1 December 2019. Custody (huolto) is jointly held by default; the 2019 reform strengthened the focus on the child's right to maintain contact with both parents and introduced explicit provisions on supervised contact (valvotut tapaamiset). The Korkein oikeus (Supreme Court of Finland, Helsinki) is the apex court for civil matters; family-law decisions reach Korkein oikeus via the Hovioikeus (Court of Appeal) following first-instance Käräjäoikeus (District Court) determinations. Psychology profession is regulated under the Laki terveydenhuollon ammattihenkilöistä 1994 (Health Care Professionals Act) operated by Valvira (National Supervisory Authority for Welfare and Health). Finland is silent on 'parental alienation' as a statutory label; courts operate substantively under the lapsen etu (best-interests-of-the-child) welfare standard.",
+  "summary": "Finland is a Nordic civil-law unitary republic whose family-court framework operates under the Laki lapsen huollosta ja tapaamisoikeudesta (Act on Child Custody and Right of Access) 1983, substantially amended by Lain muutos 190/2019 in force 1 December 2019. Custody (huolto) is jointly held by default; the 2019 reform strengthened the focus on the child's right to maintain contact with both parents and introduced explicit provisions on supervised contact (valvotut tapaamiset). The Korkein oikeus (Supreme Court of Finland, Helsinki) is the apex court for civil matters; family-law decisions reach Korkein oikeus via the Hovioikeus (Court of Appeal) following first-instance Käräjäoikeus (District Court) determinations. Psychology profession is regulated under the Laki terveydenhuollon ammattihenkilöistä 1994 (Health Care Professionals Act) operated by Valvira (National Supervisory Authority for Welfare and Health). Finland is silent on 'parental alienation' as a statutory label; courts apply the lapsen etu (best) welfare standard.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -67,7 +67,7 @@
     {
       "year": 1939,
       "title": "Winter War + Continuation War + post-WWII framework",
-      "description": "Winter War 30 November 1939 – 13 March 1940 (Finland-Soviet Union) and Continuation War 1941-1944 substantively shaping Finnish 20th-century trajectory. Substantive territorial losses (Karelia) substantially affected demographic and family-law-implementation framework. Subsequent Cold War-era Finlandisation framework affecting cross-border-jurisdiction-practice."
+      "description": "Winter War 30 November 1939 – 13 March 1940 (Finland-Soviet Union) and Continuation War 1941-1944 shaping Finnish 20th-century trajectory. Substantive territorial losses (Karelia) substantially affected demographic and family-law-implementation framework. Subsequent Cold War-era Finlandisation framework affecting cross."
     },
     {
       "year": 1983,
@@ -102,7 +102,7 @@
     {
       "year": 2020,
       "title": "COVID-19 pandemic + Finnish-family-court-digital-transformation + remote-hearings framework",
-      "description": "COVID-19 pandemic March 2020 onwards substantively affecting Finland."
+      "description": "COVID-19 pandemic March 2020 onwards affecting Finland."
     },
     {
       "year": 2023,

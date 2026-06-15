@@ -9,7 +9,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-04",
-  "summary": "Czechia is a civil-law unitary republic whose family-law framework was substantially modernised by the New Civil Code (Občanský zákoník, Law 89/2012) in force 1 January 2014. Parental responsibility (rodičovská odpovědnost) is governed by §§ 858-880 of the New Civil Code. The Supreme Court (Nejvyšší soud, Brno) is the apex civil-court of cassation; the Constitutional Court (Ústavní soud, Brno) operates a separate constitutional-review jurisdiction. Family-law matters are heard first-instance by Okresní soud (District Courts) with appeals to Krajský soud (Regional Courts). Psychology profession is regulated under Law 96/2004 on non-medical health professions and the Czech Psychological Society (Českomoravská psychologická společnost / ČMPS) operates ethics oversight. Czechia is silent on 'parental alienation' as a statutory label; courts operate substantively under the nejlepší zájem dítěte (best-interests-of-the-child) standard. The Constitutional Court has produced jurisprudence on parental-contact enforcement engaging the European Convention positive-obligations framework.",
+  "summary": "Czechia is a civil-law unitary republic whose family-law framework was substantially modernised by the New Civil Code (Občanský zákoník, Law 89/2012) in force 1 January 2014. Parental responsibility (rodičovská odpovědnost) is governed by §§ 858-880 of the New Civil Code. The Supreme Court (Nejvyšší soud, Brno) is the apex civil-court of cassation; the Constitutional Court (Ústavní soud, Brno) operates a separate constitutional-review jurisdiction. Family-law matters are heard first-instance by Okresní soud (District Courts) with appeals to Krajský soud (Regional Courts). Psychology profession is regulated under Law 96/2004 on non-medical health professions and the Czech Psychological Society (Českomoravská psychologická společnost / ČMPS) operates ethics oversight. Czechia is silent on 'parental alienation' as a statutory label; courts apply the nejlepší zájem dítěte (best) standard. The Constitutional Court has produced jurisprudence on parental-contact enforcement engaging the European Convention positive-obligations framework.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "no-apex-position",
@@ -99,7 +99,7 @@
     {
       "year": 2012,
       "title": "New Civil Code (Občanský zákoník Law 89/2012) adopted",
-      "description": "New Civil Code (Občanský zákoník, Law 89/2012) adopted 3 February 2012 — substantively modernising Czech private law replacing 1964 Civil Code + 1963 Family Act. Among the major CEE civil-code modernisations alongside Hungarian 2014, Romanian 2011 modernisations."
+      "description": "New Civil Code (Občanský zákoník, Law 89/2012) adopted 3 February 2012 — modernising Czech private law replacing 1964 Civil Code, 1963 Family Act. Among the major CEE civil-code modernisations alongside Hungarian 2014, Romanian 2011 modernisations."
     },
     {
       "year": 2014,

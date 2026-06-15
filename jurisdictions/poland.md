@@ -200,7 +200,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Poland (Rzeczpospolita Polska)",
       "url": "https://isap.sejm.gov.pl/isap.nsf/DocDetails.xsp?id=WDU19640090059",
       "datePublished": "1964",
-      "description": "Primary statutory basis for Polish family law — substantively foundational 1964 code amended multiple times including 2015 reform. Establishes władza rodzicielska (parental authority) framework, dobro dziecka standard, and post-divorce custody framework."
+      "description": "Primary statutory basis for Polish family law — foundational 1964 code amended multiple times including 2015 reform. Establishes władza rodzicielska (parental authority) framework, dobro dziecka standard, and post-divorce custody framework."
     },
     {
       "@type": "Legislation",

@@ -227,7 +227,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Colombia (República de Colombia)",
       "url": "https://www.secretariasenado.gov.co/senado/basedoc/codigo_civil.html",
       "datePublished": "1873",
-      "description": "Primary statutory basis for parental authority — substantively foundational since 1873 Código Civil de la República de Colombia (effective 1887) with multiple subsequent amendments. Establishes patria potestad framework subsequently modernised toward responsabilidad parental framework."
+      "description": "Primary statutory basis for parental authority — foundational since 1873 Código Civil de la República de Colombia (effective 1887) with multiple subsequent amendments. Establishes patria potestad framework subsequently modernised toward responsabilidad parental framework."
     },
     {
       "@type": "Legislation",

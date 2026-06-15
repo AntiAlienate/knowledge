@@ -12,7 +12,7 @@
   ],
   "license": "CC-BY-4.0",
   "generated": "2026-06-11",
-  "summary": "Singapore is a common-law jurisdiction with parallel Syariah Court framework for Muslim personal-status matters under the Administration of Muslim Law Act (AMLA). Family courts operate under the Family Justice Courts (established 1 October 2014 under the Family Justice Act 2014) consolidating Family Court, Youth Court, Family Division of the High Court. The Women's Charter 1961 (extensively amended) governs civil marriage and divorce; AMLA governs Muslim personal-status. The Guardianship of Infants Act and Women's Charter Part X establish welfare standard. The statutory framework is silent on the 'parental alienation' label. The Court of Appeal of Singapore has addressed contact-refusal cases applying welfare standard. Singapore's 2014 Family Justice Courts establishment, Family Justice Reform 2014 represents substantively foundational institutional reform.",
+  "summary": "Singapore is a common-law jurisdiction with parallel Syariah Court framework for Muslim personal-status matters under the Administration of Muslim Law Act (AMLA). Family courts operate under the Family Justice Courts (established 1 October 2014 under the Family Justice Act 2014) consolidating Family Court, Youth Court, Family Division of the High Court. The Women's Charter 1961 (extensively amended) governs civil marriage and divorce; AMLA governs Muslim personal-status. The Guardianship of Infants Act and Women's Charter Part X establish welfare standard. The statutory framework is silent on the 'parental alienation' label. The Court of Appeal of Singapore has addressed contact-refusal cases applying welfare standard. Singapore's 2014 Family Justice Courts establishment, Family Justice Reform 2014 represents foundational institutional reform.",
   "pa_recognition_status": {
     "statutory": "silent",
     "apex_court_position": "silent",
@@ -24,7 +24,7 @@
       "title": "Primary civil marriage and divorce statute",
       "year": 1961,
       "url": "https://sso.agc.gov.sg/Act/WC1961",
-      "relevance": "Women's Charter 1961 establishing civil marriage and divorce framework for non-Muslim Singaporeans. Substantively foundational 20th-century Singapore family-law statute — extensively amended including Part X welfare-of-children framework and Maintenance of Parents Act 1995 intersection."
+      "relevance": "Women's Charter 1961 establishing civil marriage and divorce framework for non-Muslim Singaporeans. foundational 20th-century Singapore family-law statute — extensively amended including Part X welfare-of-children framework and Maintenance of Parents Act 1995 intersection."
     },
     {
       "citation": "Administration of Muslim Law Act (AMLA, Cap. 3)",
@@ -38,14 +38,14 @@
       "title": "Family Justice Courts establishment",
       "year": 2014,
       "url": "https://sso.agc.gov.sg/Act/FJA2014",
-      "relevance": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. Substantively transformative institutional reform."
+      "relevance": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. transformative institutional reform."
     },
     {
       "citation": "Guardianship of Infants Act (Cap. 122)",
       "title": "Guardianship and custody statute",
       "year": 1934,
       "url": "https://sso.agc.gov.sg/Act/GIA1934",
-      "relevance": "Guardianship of Infants Act 1934 establishing guardianship and custody framework for non-divorce contexts. Substantively foundational pre-Women's-Charter children's-law statute — operationally significant for non-marital and non-divorce custody disputes."
+      "relevance": "Guardianship of Infants Act 1934 establishing guardianship and custody framework for non-divorce contexts. foundational pre-Women's-Charter children's-law statute — operationally significant for non-marital and non-divorce custody disputes."
     },
     {
       "citation": "International Child Abduction Act 2010 (Cap. 143C)",
@@ -76,22 +76,22 @@
     {
       "year": 1934,
       "title": "Guardianship of Infants Act 1934 — pre-Women's-Charter framework foundation",
-      "description": "Guardianship of Infants Act 1934 establishing guardianship and custody framework under British colonial administration. Substantively foundational pre-independence children's-law statute continuing post-1965 independence."
+      "description": "Guardianship of Infants Act 1934 establishing guardianship and custody framework under British colonial administration. foundational pre-independence children's-law statute continuing post-1965 independence."
     },
     {
       "year": 1961,
       "title": "Women's Charter 1961 — civil marriage and divorce framework",
-      "description": "Women's Charter (Act No. 18 of 1961) enacted 1961 establishing civil marriage and divorce framework for non-Muslim Singaporeans. Substantively foundational post-colonial family-law statute — among the most substantial post-colonial family-law reforms regionally."
+      "description": "Women's Charter (Act No. 18 of 1961) enacted 1961 establishing civil marriage and divorce framework for non-Muslim Singaporeans. foundational post-colonial family-law statute — among the most substantial post-colonial family-law reforms regionally."
     },
     {
       "year": 1965,
       "title": "Singapore Independence + bijural family-law inheritance",
-      "description": "Singapore Independence 9 August 1965 inheriting bijural family-law architecture (English common-law + Syariah personal-status for Muslims). Substantively foundational post-independence family-law architecture continuing through 21st century."
+      "description": "Singapore Independence 9 August 1965 inheriting bijural family-law architecture (English common-law, Syariah personal-status for Muslims). foundational post-independence family-law architecture continuing through 21st century."
     },
     {
       "year": 1966,
       "title": "Administration of Muslim Law Act (AMLA) 1966 — Syariah Court framework",
-      "description": "Administration of Muslim Law Act (AMLA) 1966 establishing Syariah Court framework for Muslim personal-status matters. Substantively foundational post-independence Islamic personal-status framework operating in parallel with Women's Charter framework."
+      "description": "Administration of Muslim Law Act (AMLA) 1966 establishing Syariah Court framework for Muslim personal-status matters. foundational post-independence Islamic personal-status framework operating in parallel with Women's Charter framework."
     },
     {
       "year": 1995,
@@ -111,7 +111,7 @@
     {
       "year": 2014,
       "title": "Family Justice Act 2014 + Family Justice Courts establishment",
-      "description": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. Substantively transformative institutional reform."
+      "description": "Family Justice Act 2014 (Act 27 of 2014) establishing Family Justice Courts effective 1 October 2014 consolidating Family Court, Youth Court, Family Division of the High Court. transformative institutional reform."
     },
     {
       "year": 2017,
@@ -136,7 +136,7 @@
   ],
   "structural_findings": [
     "Singapore operates a structurally distinctive mixed common-law, Islamic personal-status family-law framework.",
-    "Bijural family-law architecture (English common-law + Syariah personal-status for Muslims) operationally creates structurally distinctive Southeast Asian comparative-law data point — substantively distinguishing Singapore framework from Malaysian dual-court framework (where Syariah court framework operates under federal-state framework rather than unified Family Justice Courts framework)."
+    "Bijural family-law architecture (English common-law, Syariah personal-status for Muslims) operationally creates structurally distinctive Southeast Asian comparative-law data point — distinguishing Singapore framework from Malaysian dual-court framework (where Syariah court framework operates under federal-state framework rather than unified Family Justice Courts framework)."
   ],
   "editorial_notes": [
     "Women's Charter 1961 + AMLA 1966 parallel-framework architecture operationally creates structurally distinctive Singapore family-law data point — making Singapore a critical Southeast Asian comparative-law jurisdiction for bijural family-law analysis."

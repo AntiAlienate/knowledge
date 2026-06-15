@@ -209,7 +209,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "India (Republic of India / भारत गणराज्य)",
       "url": "https://www.indiacode.nic.in/handle/123456789/2399",
       "datePublished": "1890",
-      "description": "Guardians and Wards Act 1890 establishing secular guardianship framework available across personal-status communities. Section 17 welfare-of-the-minor framework. Substantively foundational pre-personal-law guardianship framework."
+      "description": "Guardians and Wards Act 1890 establishing secular guardianship framework available across personal-status communities. Section 17 welfare framework. foundational pre-personal-law guardianship framework."
     },
     {
       "@type": "Legislation",
@@ -218,7 +218,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "India (Republic of India / भारत गणराज्य)",
       "url": "https://www.indiacode.nic.in/handle/123456789/1560",
       "datePublished": "1955",
-      "description": "Hindu Marriage Act 1955 establishing Hindu marriage and divorce framework. Section 26 addresses custody of children in matrimonial proceedings. Substantively foundational Hindu personal-status statute."
+      "description": "Hindu Marriage Act 1955 establishing Hindu marriage and divorce framework. Section 26 addresses custody of children in matrimonial proceedings. foundational Hindu personal-status statute."
     },
     {
       "@type": "Legislation",

@@ -289,7 +289,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Netherlands (Koninkrijk der Nederlanden)",
       "url": "https://wetten.overheid.nl/BWBR0024729",
       "datePublished": "2009",
-      "description": "Effective 1 March 2009. Introduces ouderschapsplan (parenting plan) requirement for divorce, parallel custody continuation post-divorce as default, and emphasis on voortgezet ouderschap (continued parenthood) — substantively transformative reform."
+      "description": "Effective 1 March 2009. Introduces ouderschapsplan (parenting plan) requirement for divorce, parallel custody continuation post-divorce as default, and emphasis on voortgezet ouderschap (continued parenthood) — transformative reform."
     },
     {
       "@type": "Legislation",
