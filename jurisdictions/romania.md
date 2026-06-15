@@ -74,6 +74,30 @@ Romanian family-law decisions are anonymised per ICCJ practice using initials. P
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Romania
+
+The operative framework is the [Codul Civil (Law 287/2009, in force 1 October 2011)](https://legislatie.just.ro/), particularly arts. 483–512 on *autoritatea părintească* (parental authority) and arts. 496–504 on *exercitarea autorității părintești* (exercise of parental authority) post-separation. The principle is *interesul superior al copilului* (best interest of the child) per [Law 272/2004 on Promotion and Protection of Children's Rights](https://legislatie.just.ro/) art. 2.
+
+**Default — joint parental authority.** Romanian Civil Code art. 503 establishes *autoritate părintească comună* (joint parental authority) as the default post-divorce, with both parents exercising decision-making jointly. Allocation of *locuința minorului* (the child's residence) is separately determined under art. 400.
+
+**Procedural pathway — the Judecătoria.** Family disputes go to the *judecătoria* (district court) of the child's habitual residence (per [Codul de procedură civilă art. 114](https://legislatie.just.ro/)). For divorce-related custody, the *tribunal* (regional court) handles primary proceedings. Procedure runs under the special family-procedure track. The *Direcția Generală de Asistență Socială și Protecția Copilului (DGASPC)* — the County Directorate for Social Assistance and Child Protection — appears as the structural child-welfare body and conducts welfare assessments under Law 272/2004.
+
+**Statutory recognition of contact obligation.** [Codul Civil art. 496](https://legislatie.just.ro/) explicitly requires both parents to facilitate the child's relationship with the other parent and to refrain from any conduct that would impair the relationship. Breach is grounds for modification of the *locuința minorului* allocation under art. 403.
+
+**Contact enforcement.** Where a court-ordered *programul de vizitare* (visitation schedule) is being ignored, [Codul de procedură civilă art. 910–913](https://legislatie.just.ro/) and [Law 304/2022](https://legislatie.just.ro/) provide for enforcement via *executor judecătoresc* (court bailiff) with escalating *amendă* (fines) and police-supported handover where necessary.
+
+**Criminal exposure.** [Codul penal art. 379](https://legislatie.just.ro/) (*nerespectarea măsurilor privind încredințarea minorului*) explicitly criminalises non-compliance with custody arrangements — punishable by imprisonment up to 1 year or fine. This is one of the most specific criminal contact-obstruction provisions in EU family law.
+
+**The PA-construct question.** The [Colegiul Psihologilor din România](https://www.copsi.ro/) has not formally endorsed *Sindromul de Alienare Parentală* (PAS) as a diagnostic category. Romanian family-court practice applies behaviour-based analysis under the *interesul superior al copilului* framework. The [Înalta Curte de Casație și Justiție](https://www.scj.ro/) has not endorsed PAS as a syndrome but has applied behaviour-based analysis in custody-modification cases.
+
+**Hague Convention 1980 + Brussels IIb.** Romania is a Hague 1980 contracting state and an EU Member State. The Central Authority operates through the [Ministerul Justiției](https://www.just.ro/). Cross-border EU cases engage Brussels IIb (Regulation 2019/1111). The *Judecătoria sector 1 București* has exclusive first-instance jurisdiction for Hague return applications.
+
+**Get local counsel.** *Avocat* (member of a *Barou*) with family-law practice. The [Uniunea Națională a Barourilor din România (UNBR)](https://www.unbr.ro/) maintains specialist directories. *Asistență judiciară* (legal aid) is income-tested via the *Barou*. The Bucharest Bar Family Law Committee is a key practitioner forum.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Romania (România)

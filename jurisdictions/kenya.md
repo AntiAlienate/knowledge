@@ -115,6 +115,30 @@ Kenyan High Court and Court of Appeal family-law judgments anonymise minor child
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Kenya
+
+The operative framework is the [Children Act 2022 (Act No. 29 of 2022)](http://kenyalaw.org/) — the modernised statute replacing the Children Act 2001 — particularly ss.93–117 on *parental responsibility, custody and contact*. The principle is the *best interests of the child as paramount* — codified at s.8 and constitutional via [Constitution of Kenya 2010 art. 53(2)](http://kenyalaw.org/kl/index.php?id=398).
+
+**Default position.** *Parental responsibility* is exercised jointly by both parents per Children Act 2022 s.93. The 2022 Act substantially restructured the prior 2001 framework to introduce explicit *joint parental responsibility* by default and to align with the [African Charter on the Rights and Welfare of the Child](case-law/kenya/) and the Convention on the Rights of the Child.
+
+**Procedural pathway — the Children's Court / High Court.** Family disputes under the Children Act 2022 go to the *Children's Court* (a specialist division of the Magistrate's Court) under [Children Act 2022 s.74](http://kenyalaw.org/). For complex or high-value matters, the *High Court Family Division* has concurrent jurisdiction. Procedure under the [Children (Practice and Procedure) Rules 2022](http://kenyalaw.org/) which prescribe specialised family-procedure rules.
+
+**The Department of Children's Services.** The *Department of Children's Services* (under the Ministry of Labour and Social Protection) is the federal child-welfare agency. *Children's Officers* conduct welfare assessments and may appear as the *Friend of the Court* (equivalent of a Children's Guardian) under Children Act 2022 s.79.
+
+**Contact enforcement.** Where a court-ordered *contact* is being ignored, the Children's Court can issue *enforcement orders* under Children Act 2022 s.115, including escalating *parenting orders*. Sustained obstruction is grounds for variation of the *parental responsibility* allocation under s.108. *Contempt of court* under inherent jurisdiction is also available.
+
+**Criminal exposure.** [Penal Code (Cap 63) s.174](http://kenyalaw.org/) (*kidnapping from lawful guardianship*) is available for serious systematic obstruction — punishable by imprisonment up to 7 years.
+
+**The PA-construct question.** The [Kenya Psychological Association](https://kpa.or.ke/) has not formally endorsed *Parental Alienation Syndrome* as a diagnostic category. Kenyan family-court practice applies the *best interests* framework with the *Children's Officer* welfare assessment as the principal evidence base. The Court of Appeal in *Re J & Others (Children) [2018] eKLR* has applied behaviour-based analysis without endorsing the syndrome construct.
+
+**Hague Convention 1980 implementation.** Kenya is a Hague 1980 contracting state via the 2007 accession. The Central Authority operates through the [Office of the Attorney General — Department of Children's Services](https://www.statelaw.go.ke/). Implementation has been substantial but resource-constrained.
+
+**Get local counsel.** *Advocate* (member of the [Law Society of Kenya](https://lsk.or.ke/)) with family-law practice. The LSK Family Law Committee maintains specialist directories. *Legal aid* is provided via [Kituo Cha Sheria](https://kituochasheria.or.ke/) and the [National Legal Aid Service (NLAS)](https://nlas.go.ke/) under the [Legal Aid Act 2016](http://kenyalaw.org/).
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Kenya (Republic of Kenya / Jamhuri ya Kenya)

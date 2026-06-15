@@ -71,6 +71,30 @@ Thai family-court decisions are anonymised per Supreme Court practice using init
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Thailand
+
+The operative framework is the [ประมวลกฎหมายแพ่งและพาณิชย์ (Civil and Commercial Code — CCC)](https://www.krisdika.go.th/), particularly Book V (*Family Code*) Chapter II on *parental power* (*อำนาจปกครอง*, arts. 1564-1582). The principle is *welfare of the child* per CCC art. 1566 and the [Child Protection Act B.E. 2546 (2003)](https://www.krisdika.go.th/).
+
+**Default position.** *Parental power* is jointly exercised by both parents during marriage per CCC art. 1566. On divorce, the court allocates *parental power* to one parent unless the spouses agree to share it — CCC art. 1521. The 2008 amendment to art. 1521 substantially strengthened the welfare-paramountcy override.
+
+**Procedural pathway — the Juvenile and Family Court.** Family disputes go to the *ศาลเยาวชนและครอบครัว* (Juvenile and Family Court — separate court system under the [Juvenile and Family Court and Procedure Act B.E. 2553 (2010)](https://www.krisdika.go.th/) of the petitioner's residence. Procedure runs with specialised family-procedure rules including the *family advisor* mechanism — court-appointed psychologist or social worker who conducts welfare investigation.
+
+**The Family Advisor system.** Thai Juvenile and Family Courts include a *family advisor* — *ที่ปรึกษากฎหมาย* — who is not an advocate for either party but a court-appointed welfare investigator. Their report under the Act is highly influential and effectively required in contested custody matters.
+
+**Contact enforcement.** Where a court-ordered visitation arrangement is being ignored, the Juvenile and Family Court can impose *contempt fines* under the Civil Procedure Code and ultimately *modify* the parental-power allocation. The court has been increasingly willing to use parental-power transfer in sustained-obstruction cases.
+
+**Criminal exposure.** [Penal Code (Criminal Code) s.317](https://www.krisdika.go.th/) (*kidnapping a child under 15*) and s.318 are available for serious systematic obstruction. Penalties scale up to 15 years' imprisonment for serious cases.
+
+**The PA-construct question.** Thai family-court practice has not formally endorsed *Parental Alienation Syndrome* as a diagnostic category. Cases are litigated under the welfare-paramountcy framework with the *family advisor* welfare assessment as the evidence base. The [Supreme Court of Thailand (Dika Court)](https://www.supremecourt.or.th/) has not endorsed PAS as a syndrome.
+
+**Hague Convention 1980 implementation.** Thailand acceded to the Hague Convention in 2002. The Central Authority operates through the [Ministry of Foreign Affairs](https://www.mfa.go.th/). Hague return proceedings go to the Bangkok-area Juvenile and Family Court for international cases. Implementation has been substantial.
+
+**Get local counsel.** *ทนายความ* (advocate, member of the [Lawyers Council of Thailand](http://www.lawyerscouncil.or.th/)) with family-law practice. The Lawyers Council maintains specialist directories. *Legal Aid Office* provides means-tested representation. Foreign parents should also consider engaging counsel familiar with international family-law conventions.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Thailand (ประเทศไทย)

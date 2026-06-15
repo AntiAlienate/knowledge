@@ -122,6 +122,36 @@ Nigerian Supreme Court and Court of Appeal published judgments typically name ad
 
 *Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
+<!-- AA-PRACTICAL-START -->
+
+## What this means if your child is being withheld from you in Nigeria
+
+Nigeria operates a **religion-pluralist personal-law architecture** layered over a federal common-law structure:
+- For Christians and customary-law families — the [Matrimonial Causes Act (Cap. M7 LFN 2004)](https://nigerianlawguru.com/) and state-level [Child's Rights Act 2003](https://nigerianlawguru.com/) (adopted with variations by 27+ of 36 states) provide the substantive framework.
+- For Muslims (predominantly in the 12 northern Sharia-implementing states) — Sharia-based Personal Status law via state-level *Penal Code* and *Sharia Courts* (created under the 2000 Sharia Penal Codes).
+- For customary-law unions — applicable customary law of the parties' community.
+
+The principle is *best interests of the child* per Child's Rights Act 2003 s.1 and the [Constitution of the Federal Republic of Nigeria 1999 s.42(2)](https://nigerianlawguru.com/).
+
+**Procedural pathway — depends on personal-law system.**
+- **Federal High Court / State High Court — Family Division** — for Matrimonial Causes Act and CRA 2003 matters
+- **Customary Court** — for customary-law unions; appeal to Customary Court of Appeal
+- **Sharia Court** — for Muslim personal-status matters in implementing states; appeal to Sharia Court of Appeal
+
+For non-Muslim parents, the federal route via Matrimonial Causes Act is the typical pathway. *Probation Officers* and *Welfare Officers* under the CRA 2003 conduct welfare assessments.
+
+**Substantive framework — federal.** Matrimonial Causes Act ss.71-72 regulate custody and access on divorce; CRA 2003 ss.4-15 establish parental responsibilities. The default is welfare-paramountcy under CRA 2003 s.1. *Tender Years Doctrine* historically applies for children under 7 (maternal preference) but is rebuttable on best-interests analysis.
+
+**Contact enforcement.** Court-ordered access can be enforced via *contempt of court* under inherent contempt jurisdiction. Sustained obstruction is grounds for variation of custody allocation. *Criminal Code Act s.371* (Southern states) and *Penal Code s.273* (Northern states) provide criminal-track tools for systematic obstruction (*abduction of a child*).
+
+**The PA-construct question.** The [Nigerian Psychological Association](https://npa.org.ng/) has not formally endorsed *Parental Alienation Syndrome* as a diagnostic category. Nigerian family-court practice applies the welfare-paramountcy framework with *Probation Officer* welfare reports as the principal evidence base.
+
+**Hague Convention 1980 status.** **Nigeria is not a Hague 1980 contracting state.** Cross-border parental abduction with Nigeria as origin or destination is litigated through Nigerian courts or via diplomatic channels rather than Hague return proceedings. This is a critical fact in cross-border PA cases involving Nigeria.
+
+**Get local counsel.** *Legal Practitioner* (member of the [Nigerian Bar Association](https://nigerianbar.org.ng/)) with family-law practice. The NBA Section on Family Law maintains specialist directories. *Legal Aid Council of Nigeria* provides means-tested representation. *FIDA Nigeria (International Federation of Women Lawyers)* and *Women's Aid Collective (WACOL)* provide pro-bono services in family-violence-related matters.
+
+<!-- AA-PRACTICAL-END -->
+
 <!-- AA-FAQ-START -->
 
 ## FAQ — Parental alienation in Nigeria (Federal Republic of Nigeria)
