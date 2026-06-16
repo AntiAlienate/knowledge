@@ -78,6 +78,8 @@ This is the Irish parallel to UK Children Act 1989 s. 1 — see [UK s. 1 (welfar
 - [UK — Children Act 1989 s. 8 (child arrangements orders)](../united-kingdom/children-act-1989-section-8.md)
 - [UK — Children Act 1989 s. 11J (enforcement orders)](../united-kingdom/children-act-1989-section-11J-enforcement-orders-verbatim.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
