@@ -458,7 +458,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### 10.3 Moderate confidence
 
-- **More DV-content training predicts more child-safe evaluator recommendations.** Saunders 2011 (workshop and lecture attendance most strongly associated with positive outcomes); Haselschwerdt, Hardesty, & Hans (2011); Morrill et al. (2005) on judges. Directionality unambiguous; magnitude qualified by observational design.
+- **More DV-content training predicts more child-safe evaluator recommendations.** [Saunders](https://www.ovw.usdoj.gov/) 2011 (workshop and lecture attendance most strongly associated with positive outcomes); Haselschwerdt, Hardesty, & Hans (2011); Morrill et al. (2005) on judges. Directionality unambiguous; magnitude qualified by observational design.
 - **The Drozd/Olesen 2004 decision-tree framework is the most-cited differential-assessment training tradition in US custody-evaluation practice**, with documented intra-field disagreement ([Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) 2010 critique; Drozd & Olesen 2010 response) about whether its operational application systematically routes evaluators toward alienation findings in abuse cases.
 - **UK [Cafcass](https://www.cafcass.gov.uk/) and Australian Family-Law-Amendment-Act-2023 represent the most policy-advanced international approaches** to the DV-versus-alienation ordering question, but operational implementation gaps remain (Ministry of Justice Harm Report 2020 was the UK precipitating finding; 2024-2025 [Cafcass](https://www.cafcass.gov.uk/) policy is the response).
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
