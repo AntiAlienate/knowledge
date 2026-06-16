@@ -445,7 +445,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### 10.1 High confidence
 
-- **The [Saunders](https://www.ovw.usdoj.gov/) 2011 survey of 465 US custody evaluators documented a real and quantifiable variation in evaluator practice on DV screening, coercive-control hypothesis generation, and false-allegation belief endorsement.** Saunders, Faller, & Tolman (2011) NIJ Final Report; Saunders, Tolman, & Faller (2013) *Journal of Family Psychology* 27(3):473-483; Saunders (2015) *Journal of Child Custody* 12(1):71-92.
+- **The [Saunders](https://www.ovw.usdoj.gov/) 2011 survey of 465 US custody evaluators documented a real and quantifiable variation in evaluator practice on DV screening, coercive-control hypothesis generation, and false-allegation belief endorsement.** [Saunders](https://www.ovw.usdoj.gov/), Faller, & Tolman (2011) NIJ Final Report; Saunders, Tolman, & Faller (2013) *Journal of Family Psychology* 27(3):473-483; Saunders (2015) *Journal of Child Custody* 12(1):71-92.
 - **Evaluator beliefs about false allegations and parental alienation co-vary with custody recommendations that disfavour alleged-survivor parents.** Saunders 2011 Tables 6-10; multivariate analysis in Saunders, Tolman, & Faller 2013.
 - **Patriarchal-norms and just-world core beliefs are the strongest single predictors of evaluator recommendation patterns** — stronger than demographic variables (age, gender) and stronger than self-reported IPV knowledge. Saunders, Tolman, & Faller (2013) multivariate analysis.
 - **The [AFCC](https://www.afccnet.org/) Model Standards (2006) treat DV training and "alienating behaviors" training as coordinate requirements with no operational ordering**, leaving the disconfirmatory-ordering implementation entirely to individual evaluator practice. [AFCC](https://www.afccnet.org/) Model Standards § 1.2(b)(3), 1.2(c)(2), 1.2(c)(5).
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
