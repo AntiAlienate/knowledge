@@ -228,6 +228,8 @@ Denmark's **Forældreansvarsloven** (Parental Responsibility Act 2007, in force 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
