@@ -103,6 +103,8 @@ The *Hæstiréttur* has not issued a leading judgment expressly framed around *f
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
