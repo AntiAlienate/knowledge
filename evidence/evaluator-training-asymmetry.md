@@ -430,7 +430,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 **What a definitive study would require.**
 
-1. **A random-assignment or stepped-wedge design** in which a defined population of custody evaluators within a defined jurisdiction is randomly assigned to (a) standard CPD as currently practised, (b) a Saunders-framework-aligned DV-emphasis training package (≥ 12 hours covering screening, coercive control, post-separation violence, trauma-informed test interpretation, bias inspection), or (c) a control of equivalent total hours on an unrelated topic.
+1. **A random-assignment or stepped-wedge design** in which a defined population of custody evaluators within a defined jurisdiction is randomly assigned to (a) standard CPD as currently practised, (b) a [Saunders](https://www.ovw.usdoj.gov/)-framework-aligned DV-emphasis training package (≥ 12 hours covering screening, coercive control, post-separation violence, trauma-informed test interpretation, bias inspection), or (c) a control of equivalent total hours on an unrelated topic.
 2. **Pre-registered outcome measures** at the case level — coded by blind raters from court records — including (i) the rate at which the evaluator recommends primary custody to a clearly-identifiable abuser, (ii) the rate at which the evaluator characterises a child's rejection of an alleged-abuser parent as an alienation indicator vs. an estrangement indicator, (iii) the rate at which judges adopt evaluator recommendations.
 3. **A large enough N of evaluators (probably ≥ 60 per arm) and of cases per evaluator (probably ≥ 10) to detect mid-sized intervention effects** in a multilevel model.
 4. **Multi-year follow-up** to capture longitudinal child outcomes — including the mental-health deterioration trajectory documented in Silberg-Dallam 2019 Table 5.
@@ -498,7 +498,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - **Fidler & Bala (2020)** — Concepts, controversies and conundrums of "alienation": Lessons learned in a decade and reflections on challenges ahead. *Family Court Review*. https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.12488
 - **Harman & Lorandos (2021)** — Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law* 27(2):184-208. https://doi.org/10.1037/law0000301
 - **[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2022a)** — The trouble with Harman and Lorandos' parental alienation allegations in family court study. *J Family Trauma, Child Custody & Child Development* 19(3-4):295-317.
-- **[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2022b)** — Harman and Lorandos' false critique of Meier et al.'s family court study. *J Family Trauma, Child Custody & Child Development* 19(2).
+- **[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2022b)** — Harman and Lorandos' false critique of [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al.'s family court study. *J Family Trauma, Child Custody & Child Development* 19(2).
 
 ### Professional standards and judicial-bench texts
 
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
