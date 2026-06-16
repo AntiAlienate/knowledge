@@ -80,6 +80,8 @@ The **third-party contact provision** in German family law — establishing cont
 - [BGB §§ 1666 + 1671 (Kindeswohlgefährdung + Alleinsorge)](bgb-1666-1671-kindeswohl-gefaehrdung-und-alleinsorge.md)
 - [BGH XII ZB 565/2018](bgh-xii-zb-565-2018.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

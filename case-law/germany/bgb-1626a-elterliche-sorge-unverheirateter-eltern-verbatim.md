@@ -103,6 +103,8 @@ The **operative provision** for parental responsibility allocation between unmar
 - [BGB § 1685 (third-party contact)](bgb-1685-grandparents-siblings-contact-verbatim.md)
 - [BGH XII ZB 565/2018](bgh-xii-zb-565-2018.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
