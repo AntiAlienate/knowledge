@@ -97,6 +97,8 @@ The **child-handover and foster-placement provision** in German family law. § 1
 - [BGB § 1685 (third-party contact)](bgb-1685-grandparents-siblings-contact-verbatim.md)
 - [BGH XII ZB 565/2018](bgh-xii-zb-565-2018.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
