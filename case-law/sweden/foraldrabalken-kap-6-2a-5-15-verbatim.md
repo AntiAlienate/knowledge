@@ -119,6 +119,8 @@ These authorities establish the Swedish operative position: alienating-conduct i
 - [Föräldrabalken kap 6 — Parental rights overview](foraldrabalken-chapter-6-parental-rights.md)
 - [Föräldrabalken — shared custody presumption](foraldrabalken-shared-custody-presumption.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

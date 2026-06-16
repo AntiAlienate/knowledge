@@ -422,7 +422,7 @@ PD12J is the binding procedural rule for England and Wales family courts when DV
 
 The literature on custody-evaluator training asymmetry has, at compilation, *no* published randomised or quasi-experimental study that compares custody outcomes by evaluator-training profile. The closest published designs are:
 
-- Saunders, Faller, & Tolman (2011) — cross-sectional survey, n=465 evaluators, vignette-based recommendation measure; **observational, no random assignment to training conditions.**
+- [Saunders](https://www.ovw.usdoj.gov/), Faller, & Tolman (2011) — cross-sectional survey, n=465 evaluators, vignette-based recommendation measure; **observational, no random assignment to training conditions.**
 - Saunders, Tolman, & Faller (2013) — multivariate analysis of the same dataset; **same limitation.**
 - [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2020) — full-census coded review of 4,338 published appellate-weighted decisions 2005-2014; **case-level outcomes by stated PA cross-claim; no evaluator-training-profile data on the individual cases.**
 - [Silberg & Dallam (2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204)) — 27-case turned-around series, snowball-sampled; **mechanism-documenting, not prevalence-establishing.**
@@ -497,7 +497,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 - **[Johnston & Sullivan](https://onlinelibrary.wiley.com/journal/17446171) (2020)** — Parental alienation: In search of common ground for a more differentiated theory. *Family Court Review*. https://onlinelibrary.wiley.com/doi/10.1111/fcre.12472
 - **Fidler & Bala (2020)** — Concepts, controversies and conundrums of "alienation": Lessons learned in a decade and reflections on challenges ahead. *Family Court Review*. https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.12488
 - **Harman & Lorandos (2021)** — Allegations of family violence in court: How parental alienation affects judicial outcomes. *Psychology, Public Policy, and Law* 27(2):184-208. https://doi.org/10.1037/law0000301
-- **Meier et al. (2022a)** — The trouble with Harman and Lorandos' parental alienation allegations in family court study. *J Family Trauma, Child Custody & Child Development* 19(3-4):295-317.
+- **[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) et al. (2022a)** — The trouble with Harman and Lorandos' parental alienation allegations in family court study. *J Family Trauma, Child Custody & Child Development* 19(3-4):295-317.
 - **Meier et al. (2022b)** — Harman and Lorandos' false critique of Meier et al.'s family court study. *J Family Trauma, Child Custody & Child Development* 19(2).
 
 ### Professional standards and judicial-bench texts
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

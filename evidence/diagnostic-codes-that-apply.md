@@ -329,7 +329,7 @@ In all 50 U.S. states, mental-health professionals are mandated reporters of sus
 
 ### 6.2 Rejection by APA Task Force
 
-The APA DSM-5 Task Force did not adopt the Bernet 2010 proposal. The reasons given by the Task Force (per APA records cited in `/evidence/pa-as-child-abuse.md` §1.4 and in the Bensussan 2017 *Encéphale* review, https://pubmed.ncbi.nlm.nih.gov/29169785/) centred on insufficient empirical validation of the proposed syndrome and the existence of adequate adjacent relational-problem coding.
+The APA [DSM-5](https://www.appi.org/products/dsm) Task Force did not adopt the Bernet 2010 proposal. The reasons given by the Task Force (per APA records cited in `/evidence/pa-as-child-abuse.md` §1.4 and in the Bensussan 2017 *Encéphale* review, https://pubmed.ncbi.nlm.nih.gov/29169785/) centred on insufficient empirical validation of the proposed syndrome and the existence of adequate adjacent relational-problem coding.
 
 ### 6.3 The CAPRD vehicle (2016) — the doctrinal "win" for the Bernet group
 
@@ -422,7 +422,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - American Psychiatric Association (2013, 2022). *Diagnostic and Statistical Manual of Mental Disorders, Fifth Edition* and *Fifth Edition Text Revision*. Copyrighted; primary text not directly fetchable; verbatim quotations herein reproduced from multiple secondary academic sources marked **[secondary verification only]**.
 - Bernet, W., Wamboldt, M. Z., & Narrow, W. E. (2016). Child Affected by Parental Relationship Distress. *Journal of the American Academy of Child & Adolescent Psychiatry*, 55(7), 571–579. https://doi.org/10.1016/j.jaac.2016.04.018 — PMID 27343884. URL: https://pubmed.ncbi.nlm.nih.gov/27343884/
 - Wamboldt, M., Cordaro Jr, A., & Clarke, D. (2015). Parent-child relational problem: field trial results, changes in DSM-5, and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/
-- Smith Slep, A. M., Heyman, R. E., & Foran, H. M. (2015). Child maltreatment in DSM-5 and ICD-11. *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/
+- Smith Slep, A. M., Heyman, R. E., & Foran, H. M. (2015). Child maltreatment in DSM-5 and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/
 - Bensussan, P. (2017). Parental alienation, child psychological abuse and DSM-5. *Encéphale*, 43(6), 510–515. https://doi.org/10.1016/j.encep.2017.08.003 — PMID 29169785. URL: https://pubmed.ncbi.nlm.nih.gov/29169785/
 
 **Primary ICD-11 sources.**
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 
