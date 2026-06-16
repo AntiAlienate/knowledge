@@ -524,7 +524,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### Cross-references within the AntiAlienate evidence corpus
 
-- `evidence-forensic-operation-in-courts.md` §1 ([Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) in full); §3 (Silberg-Dallam 2019 in full); §4 (Saunders / training-asymmetry high-level synthesis); §5 ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 centrist position).
+- `evidence-forensic-operation-in-courts.md` §1 ([Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) in full); §3 (Silberg-Dallam 2019 in full); §4 ([Saunders](https://www.ovw.usdoj.gov/) / training-asymmetry high-level synthesis); §5 ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 centrist position).
 - `evidence-pa-as-child-abuse.md` §2 (WHO [ICD-11](https://icd.who.int/) status of PA).
 - `evidence-international-institutional-positions.md` (CEDAW, GREVIO, UN Alsalem).
 - `evidence-reunification-outcomes.md` (Kayden's Law context; reunification camps; California SB 331 cross-reference).
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
