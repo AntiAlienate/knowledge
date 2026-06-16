@@ -99,6 +99,8 @@ The Bundesgerichtshof has applied § 1666 BGB to sustained alienating-conduct ca
 - [BGB §§ 1626 + 1685 (FGG-AmlG 2009)](bgb-1626-1685-fgg-amlg-2009.md)
 - [BGB §§ 1626 + 1697b (elterliche Sorge framework)](bgb-1626-1697b-elterliche-sorge.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
