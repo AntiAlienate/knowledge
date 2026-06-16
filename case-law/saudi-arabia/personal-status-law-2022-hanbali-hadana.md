@@ -207,6 +207,8 @@ Saudi Arabia enacted its **first codified Personal Status Law in 2022** (Royal D
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---

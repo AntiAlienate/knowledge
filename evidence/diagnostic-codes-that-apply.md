@@ -364,7 +364,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 7.2 What you CAN defensibly testify to without invoking "PAS"
 
-- The DSM-5 / [DSM-5-TR](https://www.appi.org/products/dsm) codes themselves (V61.20, V61.29, V995.51).
+- The [DSM-5](https://www.appi.org/products/dsm) / [DSM-5-TR](https://www.appi.org/products/dsm) codes themselves (V61.20, V61.29, V995.51).
 - The DSM-5 textual examples ("berating, disparaging, or humiliating the child"; "scapegoating of the child"; "unwarranted feelings of estrangement").
 - The Bernet/Wamboldt/Narrow 2016 *JAACAP* article placing PA inside CAPRD.
 - The APSAC 2022 differential-diagnosis framework.
@@ -425,7 +425,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - Smith Slep, A. M., Heyman, R. E., & Foran, H. M. (2015). Child maltreatment in DSM-5 and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/
 - Bensussan, P. (2017). Parental alienation, child psychological abuse and DSM-5. *Encéphale*, 43(6), 510–515. https://doi.org/10.1016/j.encep.2017.08.003 — PMID 29169785. URL: https://pubmed.ncbi.nlm.nih.gov/29169785/
 
-**Primary ICD-11 sources.**
+**Primary [ICD-11](https://icd.who.int/) sources.**
 - World Health Organization. ICD-11 for Mortality and Morbidity Statistics. https://icd.who.int/browse11/l-m/en — entity 547677013 (QE52.0 Caregiver-child relationship problem); entity 1703296220 (QE82 Personal history of maltreatment); entity 1334495652 (QE82.2 Personal history of psychological abuse); entity 848664338 (QE51.0 Relationship distress with spouse or partner). Mirror at findacode.com used for definition text on compilation (https://www.findacode.com/icd-11/code-547677013.html etc.) — **[secondary verification only]** for the WHO MMS-browser entity text.
 - World Health Organization. *Parental alienation* — Frequently Asked Questions. https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 
