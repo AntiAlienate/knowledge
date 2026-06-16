@@ -503,7 +503,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 ### Professional standards and judicial-bench texts
 
 - **[AFCC](https://www.afccnet.org/) Model Standards of Practice for Child Custody Evaluation (May 2006).** https://www.afccnet.org/Portals/0/Committees/ModelStdsChildCustodyEvalSept2006.pdf
-- **NCJFCJ Guidebook (Dalton, Drozd, & Wong 2006)** — *Navigating Custody and Visitation Evaluations in Cases with Domestic Violence: A Judge's Guide*. National Council of Juvenile and Family Court Judges. Quoted extensively in Saunders 2015.
+- **NCJFCJ Guidebook (Dalton, Drozd, & Wong 2006)** — *Navigating Custody and Visitation Evaluations in Cases with Domestic Violence: A Judge's Guide*. National Council of Juvenile and Family Court Judges. Quoted extensively in [Saunders](https://www.ovw.usdoj.gov/) 2015.
 - **APA Guidelines for Child Custody Evaluations in Family Law Proceedings.** https://www.apa.org/about/policy/child-custody-evaluations.pdf
 - **[Cafcass](https://www.cafcass.gov.uk/) Domestic Abuse Practice Policy (January 2025 update).** https://www.cafcass.gov.uk/domestic-abuse-practice-policy
 - **Practice Direction 12J — Child Arrangements & Contact Orders: Domestic Abuse and Harm.** Family Procedure Rules 2010 (England and Wales). https://www.justice.gov.uk/courts/procedure-rules/family/practice_directions/pd_part_12j
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
