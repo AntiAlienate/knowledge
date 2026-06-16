@@ -414,7 +414,7 @@ PD12J is the binding procedural rule for England and Wales family courts when DV
 
 **Not yet established (moderate confidence).** Whether the raised statutory floor actually changes evaluator recommendation patterns at the population level. There is no published post-Kayden's-Law replication of the [Saunders](https://www.ovw.usdoj.gov/) 2011 vignette study; this is the most important gap in the empirical literature.
 
-**Not addressed by any current state statute.** The *core belief* predictors that Saunders 2011 found explained more variance than knowledge-content variables — patriarchal norms, just-world endorsement, social-dominance orientation. No state statute has yet required evaluators to engage with implicit-bias work as a condition of court appointment.
+**Not addressed by any current state statute.** The *core belief* predictors that [Saunders](https://www.ovw.usdoj.gov/) 2011 found explained more variance than knowledge-content variables — patriarchal norms, just-world endorsement, social-dominance orientation. No state statute has yet required evaluators to engage with implicit-bias work as a condition of court appointment.
 
 ---
 
@@ -490,7 +490,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 - **Drozd & Olesen (2004)** — Is it abuse, alienation, and/or estrangement? A decision tree. *Journal of Child Custody* 1(3):65-106. doi:10.1300/J190v01n03_05.
 - **Drozd & Olesen (2010)** — Abuse and alienation are each real: A response to a critique by Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). *Journal of Child Custody* 7(4):253-265.
-- **Meier (2010)** — Getting real about abuse and alienation: A critique of Drozd and Olesen's decision tree. *Journal of Child Custody* 7(4):219-252. https://doi.org/10.1080/15379418.2010.521032
+- **[Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (2010)** — Getting real about abuse and alienation: A critique of Drozd and Olesen's decision tree. *Journal of Child Custody* 7(4):219-252. https://doi.org/10.1080/15379418.2010.521032
 - **Stahl, P. M.** (1999, 2014). *Complex Issues in Child Custody Evaluations* / *Conducting Child Custody Evaluations: From Basic to Complex Issues*. Sage.
 - **Stahl & Isman (2016)** — Understanding and evaluating alienation in high-conflict custody cases. *Wisconsin Journal of Family Law* 36(1).
 - **[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Johnston, Fidler & Bala (2016)** — Empirical studies of alienation. In Drozd, [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) & Olesen (Eds.), *Parenting Plan Evaluations: Applied Research for the Family Court* (2nd ed., pp. 374-430). Oxford University Press. PDF: https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf — Treated in full in `evidence-forensic-operation-in-courts.md` §5.
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

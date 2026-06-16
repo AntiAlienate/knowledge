@@ -87,6 +87,8 @@ These authorities establish that, while Norway has not codified "parental aliena
 - [Barnelova 1981 — Parental responsibility overview](barnelova-1981-parental-responsibility.md)
 - [Barneloven 1981 — Strand Lobben + Pedersen ECtHR line](barneloven-1981-strand-lobben-pedersen-line.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
