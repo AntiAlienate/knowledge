@@ -435,7 +435,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 3. **A large enough N of evaluators (probably ≥ 60 per arm) and of cases per evaluator (probably ≥ 10) to detect mid-sized intervention effects** in a multilevel model.
 4. **Multi-year follow-up** to capture longitudinal child outcomes — including the mental-health deterioration trajectory documented in Silberg-Dallam 2019 Table 5.
 
-**Why this study has not been done.** (1) US custody evaluators are not licensed as a single profession; the sampling frame is hard to construct. (2) Random assignment to "training arms" is ethically defensible (control arm = current standard) but practically difficult to enforce. (3) Court records are not uniformly accessible. (4) Funding has been intermittent — NIJ funded both the Saunders 2011 and the [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) programmes; no comparably-resourced randomised-design funding has been awarded as of compilation.
+**Why this study has not been done.** (1) US custody evaluators are not licensed as a single profession; the sampling frame is hard to construct. (2) Random assignment to "training arms" is ethically defensible (control arm = current standard) but practically difficult to enforce. (3) Court records are not uniformly accessible. (4) Funding has been intermittent — NIJ funded both the [Saunders](https://www.ovw.usdoj.gov/) 2011 and the [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) programmes; no comparably-resourced randomised-design funding has been awarded as of compilation.
 
 **Contributor invitation.** This is one of the most important contributor-research opportunities in the AntiAlienate evidence repository. Researchers with access to a defined evaluator population in a Kayden's-Law-implementing state (California, Colorado, Maryland, Tennessee, Utah) and IRB capacity to run a quasi-experimental cohort comparison post-2024 vs. pre-2024 evaluator-recommendation patterns would substantially advance the field.
 
@@ -524,7 +524,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### Cross-references within the AntiAlienate evidence corpus
 
-- `evidence-forensic-operation-in-courts.md` §1 (Meier 2020 in full); §3 (Silberg-Dallam 2019 in full); §4 (Saunders / training-asymmetry high-level synthesis); §5 ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 centrist position).
+- `evidence-forensic-operation-in-courts.md` §1 ([Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) in full); §3 (Silberg-Dallam 2019 in full); §4 (Saunders / training-asymmetry high-level synthesis); §5 ([Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)/Johnston/Fidler/Bala 2016 centrist position).
 - `evidence-pa-as-child-abuse.md` §2 (WHO [ICD-11](https://icd.who.int/) status of PA).
 - `evidence-international-institutional-positions.md` (CEDAW, GREVIO, UN Alsalem).
 - `evidence-reunification-outcomes.md` (Kayden's Law context; reunification camps; California SB 331 cross-reference).
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 

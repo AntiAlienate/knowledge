@@ -395,7 +395,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 8.1 High confidence
 
-- **V995.51 / T74.32XA Child Psychological Abuse, V61.20 / Z62.820 Parent-Child Relational Problem, V61.29 / Z62.898 Child Affected by Parental Relationship Distress, and QE52.0 Caregiver-child relationship problem all defensibly apply to severe PA-pattern conduct given adequate clinical documentation.** These codes are in the published, peer-reviewed, copyright-protected primary diagnostic manuals (DSM-5, [DSM-5-TR](https://www.appi.org/products/dsm), [ICD-11](https://icd.who.int/)). Their textual content covers the observable behavioural pattern described in the PA literature. They are billable, court-citable, and survive *Daubert* / *Frye* scrutiny in ways that "PAS" and "PAD" do not.
+- **V995.51 / T74.32XA Child Psychological Abuse, V61.20 / Z62.820 Parent-Child Relational Problem, V61.29 / Z62.898 Child Affected by Parental Relationship Distress, and QE52.0 Caregiver-child relationship problem all defensibly apply to severe PA-pattern conduct given adequate clinical documentation.** These codes are in the published, peer-reviewed, copyright-protected primary diagnostic manuals ([DSM-5](https://www.appi.org/products/dsm), [DSM-5-TR](https://www.appi.org/products/dsm), [ICD-11](https://icd.who.int/)). Their textual content covers the observable behavioural pattern described in the PA literature. They are billable, court-citable, and survive *Daubert* / *Frye* scrutiny in ways that "PAS" and "PAD" do not.
 - **QE82.2 Personal history of psychological abuse** is the operative [ICD-11](https://icd.who.int/) code for adult survivors of childhood PA-pattern conduct that crossed the psychological-abuse threshold.
 - **WHO's explicit direction** to clinicians and coders is that QE52.0 covers PA-pattern presentations: *"Users may classify cases to 'caregiver-child relationship problem'."* This is the WHO-blessed pathway.
 
@@ -430,7 +430,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - World Health Organization. *Parental alienation* — Frequently Asked Questions. https://www.who.int/standards/classifications/frequently-asked-questions/parental-alienation
 
 **Bernet group proposals.**
-- Bernet, W. (Ed.) (2010). *Parental Alienation, DSM-5, and ICD-11*. Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). *American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
+- Bernet, W. (Ed.) (2010). *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)*. Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). *American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
 - Madaan, V., & Habib, P. (2013). Book review of *Parental Alienation, DSM-5, and ICD-11*. *The Journal of Clinical Psychiatry*, 74(3), e220. https://doi.org/10.4088/JCP.12bk08344. URL: https://www.psychiatrist.com/jcp/parental-alienation-ltemgtdsm-ltemgt-ltemgticd-ltemgt/
 - [PASG](https://pasg.info/) (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L.) (2022, draft 2022-08-29). *Draft of the Proposal for Parental Alienation Relational Problem to be Added to [DSM-5-TR](https://www.appi.org/products/dsm).* https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr
 - Bernet, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., Narrow, W. E., & Wamboldt, M. Z. (2023, draft 2023-09-01). *Proposal for a Correction and Clarification to Parent-Child Relational Problem.* https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 
