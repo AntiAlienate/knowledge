@@ -423,7 +423,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - Bernet, W., Wamboldt, M. Z., & Narrow, W. E. (2016). Child Affected by Parental Relationship Distress. *Journal of the American Academy of Child & Adolescent Psychiatry*, 55(7), 571–579. https://doi.org/10.1016/j.jaac.2016.04.018 — PMID 27343884. URL: https://pubmed.ncbi.nlm.nih.gov/27343884/
 - Wamboldt, M., Cordaro Jr, A., & Clarke, D. (2015). Parent-child relational problem: field trial results, changes in [DSM-5](https://www.appi.org/products/dsm), and proposed changes for [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 33–47. https://doi.org/10.1111/famp.12123 — PMID 25581470. URL: https://pubmed.ncbi.nlm.nih.gov/25581470/
 - Smith Slep, A. M., Heyman, R. E., & Foran, H. M. (2015). Child maltreatment in [DSM-5](https://www.appi.org/products/dsm) and [ICD-11](https://icd.who.int/). *Family Process*, 54(1), 17–32. https://doi.org/10.1111/famp.12131 — PMID 25615555. URL: https://pubmed.ncbi.nlm.nih.gov/25615555/
-- Bensussan, P. (2017). Parental alienation, child psychological abuse and DSM-5. *Encéphale*, 43(6), 510–515. https://doi.org/10.1016/j.encep.2017.08.003 — PMID 29169785. URL: https://pubmed.ncbi.nlm.nih.gov/29169785/
+- Bensussan, P. (2017). Parental alienation, child psychological abuse and [DSM-5](https://www.appi.org/products/dsm). *Encéphale*, 43(6), 510–515. https://doi.org/10.1016/j.encep.2017.08.003 — PMID 29169785. URL: https://pubmed.ncbi.nlm.nih.gov/29169785/
 
 **Primary [ICD-11](https://icd.who.int/) sources.**
 - World Health Organization. [ICD-11](https://icd.who.int/) for Mortality and Morbidity Statistics. https://icd.who.int/browse11/l-m/en — entity 547677013 (QE52.0 Caregiver-child relationship problem); entity 1703296220 (QE82 Personal history of maltreatment); entity 1334495652 (QE82.2 Personal history of psychological abuse); entity 848664338 (QE51.0 Relationship distress with spouse or partner). Mirror at findacode.com used for definition text on compilation (https://www.findacode.com/icd-11/code-547677013.html etc.) — **[secondary verification only]** for the WHO MMS-browser entity text.
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

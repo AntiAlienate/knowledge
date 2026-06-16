@@ -134,6 +134,8 @@ This entry addresses sensitive territory. The framework descriptions are drawn f
 - [Brazil — Lei 14.713/2023 (DV exception)](../brazil/lei-14713-2023-violencia-domestica-guarda-compartilhada.md)
 - [Spain — LOPIVI 2021 art. 11](../spain/lopivi-2021-art-11-derecho-victimas-escuchadas.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
