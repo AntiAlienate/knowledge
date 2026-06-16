@@ -153,6 +153,8 @@ Cross-border enforcement of contact orders is governed by Brussels IIb Arts. 36-
 - [UK — Children Act 1989 s. 91A (barring orders)](../united-kingdom/children-act-1989-section-91A-barring-order-further-provision.md)
 - [Brazil — Lei 12.318/2010 art. 6º (graduated sanctions)](../brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
