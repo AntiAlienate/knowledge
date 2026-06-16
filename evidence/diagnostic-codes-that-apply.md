@@ -431,7 +431,7 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 
 **Bernet group proposals.**
 - Bernet, W. (Ed.) (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*. Charles C. Thomas. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). *American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583
-- Madaan, V., & Habib, P. (2013). Book review of *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)*. *The Journal of Clinical Psychiatry*, 74(3), e220. https://doi.org/10.4088/JCP.12bk08344. URL: https://www.psychiatrist.com/jcp/parental-alienation-ltemgtdsm-ltemgt-ltemgticd-ltemgt/
+- Madaan, V., & Habib, P. (2013). Book review of *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/)*. *The Journal of Clinical Psychiatry*, 74(3), e220. https://doi.org/10.4088/JCP.12bk08344. URL: https://www.psychiatrist.com/jcp/parental-alienation-ltemgtdsm-ltemgt-ltemgticd-ltemgt/
 - [PASG](https://pasg.info/) (Bernet, W., & [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L.) (2022, draft 2022-08-29). *Draft of the Proposal for Parental Alienation Relational Problem to be Added to [DSM-5-TR](https://www.appi.org/products/dsm).* https://www.pasg.info/external-resources/draft-of-the-proposal-for-parental-alienation-relational-problem-to-be-added-to-dsm-5-tr
 - Bernet, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., Narrow, W. E., & Wamboldt, M. Z. (2023, draft 2023-09-01). *Proposal for a Correction and Clarification to Parent-Child Relational Problem.* https://static1.squarespace.com/static/652b4267cc223c56e83ab445/t/65487532947d7600523b86e6/1699247410655/Proposal,+2023-09-01.pdf
 - Bernet, W., Greenhill, L. L., et al. (2022). The Five-Factor Model for the Diagnosis of Parental Alienation. *Journal of the American Academy of Child & Adolescent Psychiatry*. https://www.jaacap.org/article/S0890-8567(21)02046-3/abstract — **[secondary verification only]** (full text returned HTTP 403 at compilation)
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 

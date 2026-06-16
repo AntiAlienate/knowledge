@@ -453,7 +453,7 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 
 ### 10.2 Moderate–high confidence
 
-- **The training asymmetry — PA-construct CPD is widely commercially available; equivalent DV-construct training is patchier, less standardised, and more grant-dependent — is itself a structural driver of evaluator recommendation patterns.** Saunders 2015 §§ on Evaluator Education; Alsalem A/HRC/53/36 ¶62 on the commercial-incentive structure. Inferential rather than directly experimental.
+- **The training asymmetry — PA-construct CPD is widely commercially available; equivalent DV-construct training is patchier, less standardised, and more grant-dependent — is itself a structural driver of evaluator recommendation patterns.** [Saunders](https://www.ovw.usdoj.gov/) 2015 §§ on Evaluator Education; Alsalem A/HRC/53/36 ¶62 on the commercial-incentive structure. Inferential rather than directly experimental.
 - **Custody evaluator and GAL recommendations are heavily determinative of US custody outcomes when DV and PA are cross-alleged**, and the operational pattern is gender-asymmetric. [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) (4,338-case dataset); [Silberg & Dallam 2019](https://www.tandfonline.com/doi/abs/10.1080/15379418.2019.1613204) (67% of judges relied on evaluator/GAL who disbelieved abuse; 73% of GALs sided with perpetrator); cross-ref `evidence-forensic-operation-in-courts.md` §§1, 3.
 
 ### 10.3 Moderate confidence
@@ -535,6 +535,8 @@ The literature on custody-evaluator training asymmetry has, at compilation, *no*
 **Document license.** CC BY 4.0 — see https://creativecommons.org/licenses/by/4.0/ for reuse terms. Compiled for the AntiAlienate knowledge repository, https://github.com/AntiAlienate/antialienate-knowledge.
 
 **Compilation provenance.** Primary-source-led; verbatim quotation used wherever the underlying article PDF was directly accessible at compilation. "**[secondary verification only]**" marks every claim sourced from a reproduction or summary rather than a directly-extracted primary text. "**Not publicly confirmed**" used wherever a specific empirical claim could not be tied to a primary source. URL access verified 2026-05-25.
+
+
 
 
 
