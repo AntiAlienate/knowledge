@@ -111,6 +111,8 @@ The reform wave reshaped the German framework via the 2013 ZRBV. Other Council o
 - [Norway — Barnelova § 31 (child's right to influence)](../norway/barnelova-1981-s-31-childs-right-to-influence-verbatim.md)
 - [Brazil — Lei 12.318/2010 + Lei 14.713/2023](../brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
