@@ -68,7 +68,7 @@ The **apex-tier remedy** in Austrian family law against parental misconduct. ABG
 ## Use in alienating-conduct cases
 
 - The Austrian Oberster Gerichtshof has applied § 181 in PA-pattern cases including [7 Ob 161/20w](https://www.ogh.gv.at/) line and following authorities
-- Where Obsorge has been withdrawn, modification under § 182 ABGB (Wiederherstellung) operates as the rehabilitation route — the Austrian parallel to [BGB § 1696](../germany/bgb-1696-abanderung-gerichtlicher-entscheidungen-verbatim.md) and [Italy CC art. 332](../italy/codice-civile-art-332-reintegrazione-responsabilita-genitoriale.md)
+- The Austrian rehabilitation route — analogous to [BGB § 1696](../germany/bgb-1696-abanderung-gerichtlicher-entscheidungen-verbatim.md) and [Italy CC art. 332](../italy/codice-civile-art-332-reintegrazione-responsabilita-genitoriale.md) — operates through the general modification framework in the *Außerstreitgesetz*; ABGB § 182 codifies the proportionality cap on § 181 measures rather than the rehabilitation route — see [§ 182 entry](abgb-182-proportionality-cap-verbatim.md)
 - The graduated-escalation doctrine means § 181 is reserved for cases where less-invasive remedies have been exhausted — the structural commitment to proportionality
 
 ## Cross-reference
@@ -87,6 +87,8 @@ The **apex-tier remedy** in Austrian family law against parental misconduct. ABG
 - [Austria — ABGB §§ 159 + 187](abgb-159-187-wohlverhaltensgebot-kontaktrecht-verbatim.md)
 - [Austria — ABGB Kindschaftsrecht-Änderungsgesetz 2013](abgb-kindschaftsrecht-anderungsgesetz-2013.md)
 - [Austria — ABGB arts. 138-189](abgb-arts-138-189-2013-kindgrec-reform.md)
+
+
 
 <!-- AA-CITE-START -->
 
