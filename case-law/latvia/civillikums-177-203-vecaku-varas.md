@@ -221,6 +221,8 @@ Disclaimer: Educational summary, not legal advice. Consult a qualified Latvian f
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
