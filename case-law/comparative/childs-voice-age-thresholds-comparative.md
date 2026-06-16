@@ -24,7 +24,7 @@ A comparative-law map of **how each domestic system hears the child and weights 
 
 The eight jurisdictions covered here cluster into two structural patterns:
 
-- **Fixed statutory age thresholds** (Italy, Germany, Norway, Iceland) — explicit age at which mandatory hearing applies
+- **Fixed statutory age thresholds** (Italy, Norway, Iceland) — explicit age at which mandatory hearing applies (Germany was in this group pre-KJSG 2021 but now operates a near-universal personal-hearing standard regardless of age)
 - **Capacity-based assessment** (Sweden, England & Wales, Spain) — no fixed age; the court assesses the child's age and maturity case-by-case
 
 Austria operates a hybrid model with both an age floor and a capacity overlay.
@@ -34,7 +34,7 @@ Austria operates a hybrid model with both an age floor and a capacity overlay.
 | Jurisdiction | Mandatory hearing age | Enhanced-weight age | Statute | Key feature |
 |---|---|---|---|---|
 | **Italy** | 12 (mandatory) | discretionary <12 if capable | CC art. 337-octies | Child must be heard in all custody decisions affecting them; *ascolto del minore* is a procedural right |
-| **Germany** | 14 (mandatory) | 3+ where child's relationship affected | § 159 FamFG | *Anhörung des Kindes*; even very young children heard via *Verfahrensbeistand* (guardian ad litem) |
+| **Germany** | No age threshold post-KJSG 2021 — court must personally hear child + obtain personal impression in all child-affecting proceedings | Narrow subsection (2) exceptions only | § 159 FamFG (KJSG 2021 reform) | *Anhörung des Kindes* + *persönlicher Eindruck*; 2021 reform removed prior age-14 threshold — see [§ 159 verbatim entry](../germany/famfg-159-anhorung-des-kindes-verbatim.md) |
 | **Austria** | 10 (mandatory) | 14 (consent rights for medical/parental-responsibility) | § 105 AußStrG + § 173 ABGB | Two-step threshold; *Kinder- und Jugendhilfe* facilitates hearings |
 | **Norway** | 7 (mandatory) | 12 (heavy weight) | Barnelova § 31 | Earliest statutory age across these jurisdictions; child's view weighty from age 7 |
 | **Sweden** | No fixed age | "age and maturity" | Föräldrabalken kap 6 § 2a final paragraph | Capacity-based; *barnets vilja* (child's will) considered with maturity-appropriate weight |
@@ -44,9 +44,11 @@ Austria operates a hybrid model with both an age floor and a capacity overlay.
 
 ## Structural typology
 
-### Type 1 — Statutory-age fixed framework (Italy, Germany, Norway, Iceland, Spain)
+### Type 1 — Statutory-age fixed framework (Italy, Norway, Iceland, Spain)
 
-The court has a procedural obligation to hear the child at a specified age (7 in Norway; 10 in Austria; 12 in Italy/Iceland/Spain; 14 in Germany). Below that age the hearing is *discretionary* — but typically conducted via specialist intermediary (Verfahrensbeistand, *curatore speciale*, *guardian ad litem* equivalent) where the child's relationship is centrally at issue.
+The court has a procedural obligation to hear the child at a specified age (7 in Norway; 10 in Austria; 12 in Italy/Iceland/Spain). Below that age the hearing is *discretionary* — but typically conducted via specialist intermediary (Verfahrensbeistand, *curatore speciale*, *guardian ad litem* equivalent) where the child's relationship is centrally at issue.
+
+*Germany historically fell into this group with an age-14 mandatory threshold under § 159 FamFG. The 2021 Kinder- und Jugendstärkungsgesetz (KJSG) reform removed the age threshold; Germany now operates a near-universal personal-hearing standard regardless of age. See [FamFG § 159 verbatim entry](../germany/famfg-159-anhorung-des-kindes-verbatim.md). Germany has shifted closer to Type 2.*
 
 The doctrinal advantage: procedural certainty — practitioners know when the child must be heard, and the child's procedural rights are clear-cut.
 
@@ -131,6 +133,8 @@ The professional task is to differentiate (a) genuine welfare-protective rejecti
 - [Iceland — Barnalög arts. 28 + 34 + 46](../iceland/barnalog-76-2003-arts-28-34-46-verbatim.md)
 - [Spain — LOPIVI 2021 art. 11](../spain/lopivi-2021-art-11-derecho-victimas-escuchadas.md)
 - [UK — Children Act 1989 s. 1](../united-kingdom/children-act-1989-section-1.md)
+
+
 
 
 
