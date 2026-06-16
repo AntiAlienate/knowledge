@@ -138,6 +138,8 @@ The Brazilian Lei 14.713/2023 (DV exception to shared custody) illustrates the l
 
 This entry summarises a complex jurisprudential landscape. Practitioners should consult the per-jurisdiction entries for primary-source citations. The recognition-status taxonomy is the author's analytical structure, drawing on the per-jurisdiction summaries — not a formal academic taxonomy.
 
+
+
 <!-- AA-CITE-START -->
 
 ---
