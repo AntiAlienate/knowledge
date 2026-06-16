@@ -319,7 +319,7 @@ In all 50 U.S. states, mental-health professionals are mandated reporters of sus
 
 ## 6. The Bernet group's "Parental Alienation Disorder / Relational Problem" proposals — historical summary
 
-### 6.1 The Bernet 2010 proposal for DSM-5
+### 6.1 The Bernet 2010 proposal for [DSM-5](https://www.appi.org/products/dsm)
 
 **Citation.** Bernet, W. (Ed.). (2010). *Parental Alienation, DSM-5, and [ICD-11](https://icd.who.int/)*. Springfield, IL: Charles C. Thomas Publisher, Ltd. Companion article: Bernet, W., von Boch-Galhau, W., [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L., & Morrison, S. L. (2010). Parental alienation, DSM-V, and [ICD-11](https://icd.who.int/). *The American Journal of Family Therapy*, 38(2), 76–187. https://doi.org/10.1080/01926180903586583. Book review by Madaan & Habib (2013), *The Journal of Clinical Psychiatry*, 74(3), e220, https://doi.org/10.4088/JCP.12bk08344.
 
@@ -412,7 +412,7 @@ The diagnostic-recognition arc — Gardner 1985 PAS → Bernet 2010 PAD proposal
 
 ### 8.4 The bottom line
 
-The diagnostic infrastructure that PA-pattern conduct needs **already exists** — under different names. Clinicians and forensic evaluators who code under V995.51, V61.20, V61.29 in [DSM-5-TR](https://www.appi.org/products/dsm) and under QE52.0, QE82.2 in ICD-11 can give parents, children, courts, and insurers the documentation they need without making the contested claim that "parental alienation" itself is a syndrome or disorder. The PA-as-diagnosis debate is real and important, but it is **not** the debate that needs to be won in order to code and bill severe PA-pattern conduct today. The codes that apply, apply.
+The diagnostic infrastructure that PA-pattern conduct needs **already exists** — under different names. Clinicians and forensic evaluators who code under V995.51, V61.20, V61.29 in [DSM-5-TR](https://www.appi.org/products/dsm) and under QE52.0, QE82.2 in [ICD-11](https://icd.who.int/) can give parents, children, courts, and insurers the documentation they need without making the contested claim that "parental alienation" itself is a syndrome or disorder. The PA-as-diagnosis debate is real and important, but it is **not** the debate that needs to be won in order to code and bill severe PA-pattern conduct today. The codes that apply, apply.
 
 ---
 
@@ -454,6 +454,8 @@ The diagnostic infrastructure that PA-pattern conduct needs **already exists** �
 - `/evidence/mental-health-outcomes.md` — adult sequelae of childhood exposure.
 - `/evidence/reunification-outcomes.md` — caveats on intensive reunification interventions.
 - `/evidence/prevalence-claims.md` — the 740,000-figure and other prevalence claims, examined.
+
+
 
 
 
