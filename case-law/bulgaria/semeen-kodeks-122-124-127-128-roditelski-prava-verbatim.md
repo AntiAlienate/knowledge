@@ -139,6 +139,8 @@ Bulgaria is doctrinally distinctive among SE-European jurisdictions because the 
 
 - [Bulgaria — Семеен кодекс 2009 overview](semeen-kodeks-2009-roditelski-prava.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---

@@ -155,6 +155,8 @@ Slovakia is doctrinally distinctive among CEE jurisdictions because the 2005 Zá
 
 - [Slovakia — Zákon o rodine 36/2005 overview](zakon-o-rodine-36-2005-rodicovska-prava.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
