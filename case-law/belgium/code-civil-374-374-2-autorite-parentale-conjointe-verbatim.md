@@ -112,6 +112,8 @@ Belgium is doctrinally distinctive in European family law because the 2006 loi i
 - [Belgium — Family Court Act 2013](family-court-act-2013.md)
 - [Belgium — Penal Code art. 432](penal-code-art-432.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
