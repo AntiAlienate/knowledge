@@ -1,0 +1,145 @@
+---
+title: "Code civil belge arts. 374 + 374/2 — Autorité parentale conjointe + hébergement égalitaire (verbatim)"
+jurisdiction: belgium
+type: statute
+citation: "Code civil belge arts. 374, 374/2"
+date_in_force: "2006-09-14 (loi du 18 juillet 2006 — hébergement égalitaire); current consolidated"
+last_amended: "current"
+status: in-force
+authoritative_url: https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel
+tags:
+  - autorite-parentale-conjointe
+  - hebergement-egalitaire
+  - code-civil-374
+  - bigenitorialita
+  - loi-2006-18-juillet
+pa_relevance: high
+---
+
+# Code civil belge arts. 374 + 374/2 — Autorité parentale conjointe + hébergement égalitaire (verbatim)
+
+**Jurisdiction:** Belgium · **Citation:** *Code civil belge* arts. 374, 374/2 · **Authoritative source:** [ejustice.just.fgov.be — Code civil](https://www.ejustice.just.fgov.be/eli/loi/1804/03/21/1804032150/justel)
+
+The **joint parental authority + equal-residence** framework in Belgian family law. Code civil art. 374 establishes the principle of joint exercise of *autorité parentale* by both parents irrespective of cohabitation, and art. 374/2 (introduced by the *loi du 18 juillet 2006*) establishes the *hébergement égalitaire* (equal residence) default — the structural priority for equal time-sharing between the parents. The provisions are the Belgian structural parallel to:
+- [Italy Codice Civile art. 337-ter (provvedimenti riguardo ai figli + bigenitorialità)](../italy/codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
+- [France Code civil arts. 372-373-2-9 (exercice en commun + résidence)](../france/code-civil-371-1-377-autorite-parentale.md)
+- [Germany BGB §§ 1626 + 1671 (gemeinsame elterliche Sorge)](../germany/bgb-1626-1684-elterliche-sorge-umgang-verbatim.md)
+- [Spain Código Civil art. 92 (custodia compartida)](../spain/codigo-civil-arts-92-154-156-158-patria-potestad-y-custodia.md)
+
+Belgium is doctrinally distinctive in European family law because the 2006 loi introduced *hébergement égalitaire* as a *legal priority* (priorité légale) — the court must consider the equal-residence arrangement first and explain departures. This is structurally stronger than the equivalent provisions in DE, FR, IT, ES, where shared residence is one option among many.
+
+## Verbatim text (current consolidated)
+
+### Article 374 du Code civil — Autorité parentale conjointe
+
+> **§ 1er.** Lorsque les père et mère ne vivent pas ensemble, l'exercice de l'autorité parentale reste conjoint et la présomption prévue à l'article 373, alinéa 2, s'applique.
+>
+> A défaut d'accord sur l'organisation de l'hébergement de l'enfant, sur les décisions importantes concernant sa santé, son éducation, sa formation, ses loisirs et son orientation religieuse ou philosophique ou si cet accord lui paraît contraire à l'intérêt de l'enfant, le tribunal de la famille compétent peut confier l'exercice exclusif de l'autorité parentale à l'un des père et mère.
+>
+> **§ 2.** Dans tous les cas, le tribunal peut, soit d'office, soit à la demande du procureur du Roi ou de l'un des père et mère, déterminer les décisions d'éducation qui ne pourront être prises que de l'accord des deux parents.
+>
+> Il peut aussi déterminer les conditions dans lesquelles le parent qui n'exerce pas l'autorité parentale peut avoir des relations personnelles avec l'enfant. Ces relations ne peuvent être refusées que pour des motifs très graves. Ce parent conserve le droit de surveiller l'éducation de l'enfant. Il pourra obtenir, de l'autre parent ou de tiers, toutes informations utiles à ce sujet et s'adresser au tribunal de la famille dans l'intérêt de l'enfant.
+
+### Article 374/2 du Code civil — Hébergement égalitaire
+
+> **§ 1er.** Lorsqu'il est saisi, le tribunal examine prioritairement, à la demande d'un des parents au moins, la possibilité de fixer l'hébergement de l'enfant de manière égalitaire entre ses parents.
+>
+> Toutefois, si le tribunal estime que l'hébergement égalitaire n'est pas la formule la plus appropriée, il peut décider de fixer un hébergement non égalitaire.
+>
+> Le tribunal statue en tout état de cause par un jugement spécialement motivé, en tenant compte des circonstances concrètes de la cause et de l'intérêt des enfants et des parents.
+
+## English working translation
+
+### Article 374 Code civil — Joint parental authority
+
+> **§ 1.** Where the father and mother do not live together, the exercise of parental authority remains joint and the presumption provided for in article 373, paragraph 2, applies.
+>
+> Failing agreement on the organisation of the child's residence, on the important decisions concerning the child's health, education, training, leisure activities, and religious or philosophical orientation, or if such agreement appears to it contrary to the interest of the child, the competent *tribunal de la famille* (family court) may entrust the exclusive exercise of parental authority to one of the father or mother.
+>
+> **§ 2.** In all cases, the court may, either of its own motion or at the request of the Public Prosecutor or one of the parents, determine the educational decisions that may only be taken with the agreement of both parents.
+>
+> It may also determine the conditions under which the parent who does not exercise parental authority may have personal relations with the child. These relations may be refused only on *very serious grounds* (*motifs très graves*). This parent retains the right to supervise the child's education. He/she may obtain, from the other parent or third parties, all useful information on this subject and apply to the family court in the interest of the child.
+
+### Article 374/2 Code civil — Equal residence
+
+> **§ 1.** Where it is seized, the court examines *as a priority* (*prioritairement*), at the request of at least one of the parents, the possibility of fixing the child's residence on an *equal basis* (*manière égalitaire*) between the parents.
+>
+> However, if the court considers that equal residence is not the most appropriate formula, it may decide to fix a *non-equal* (*non égalitaire*) residence.
+>
+> The court rules in all cases by a *specially reasoned judgment* (*jugement spécialement motivé*), taking into account the concrete circumstances of the case and the interest of the children and parents.
+
+## Why this matters for PA
+
+- **Joint exercise + non-cohabitation continuity (art. 374 § 1 al. 1).** *L'exercice de l'autorité parentale reste conjoint.* The exercise of parental authority *remains* joint where the parents do not live together. This is the structural starting point: separation does not by itself disturb joint exercise. In PA-pattern cases this means the alienating parent's de facto sole exercise of decision-making is *not* the lawful default — joint exercise is the default.
+- **The "motifs très graves" threshold for contact refusal (art. 374 § 2 al. 2).** *Ces relations ne peuvent être refusées que pour des motifs très graves.* Personal relations between the child and the non-resident parent *can be refused only on very serious grounds*. This is one of the highest-bar contact-refusal standards in European family law — *très graves* is a higher threshold than the Dutch *ernstig nadeel* or the German *Kindeswohlgefährdung*. In PA-pattern cases this provides strong structural protection against alienating-parent-driven contact-refusal applications.
+- **Equal-residence priority (art. 374/2 § 1).** *Le tribunal examine prioritairement … la possibilité de fixer l'hébergement de l'enfant de manière égalitaire.* The court examines, *as a priority*, equal residence. This is the doctrinally distinctive Belgian feature — *prioritarily* (prioritarily) means the court's structural starting point is equal residence, not a neutral choice between options. Departures must be specially reasoned (*spécialement motivé*).
+- **The PA-pattern significance of the priority + reasoning requirement.** In PA-pattern cases the alienating parent typically advocates for sole or majority residence. Article 374/2 § 1 al. 3 requires the court to specially reason any departure from equal residence — this means the court must address the alienation-pattern findings in the residence reasoning. Sustained alienating conduct can support departure from equal residence *in favour of the targeted parent* — the equal-residence priority does not lock in the alienating parent's status quo.
+- **Exclusive authority transfer (art. 374 § 1 al. 2).** *Le tribunal de la famille compétent peut confier l'exercice exclusif de l'autorité parentale à l'un des père et mère.* The family court may entrust *exclusive* authority to one parent. This is the apex-tier remedy — used in sustained PA cases where joint exercise has demonstrably failed because of one parent's conduct.
+- **Information access right (art. 374 § 2 al. 2).** *Il pourra obtenir, de l'autre parent ou de tiers, toutes informations utiles.* The non-exercising parent retains the right to obtain all useful information. This is doctrinally important in PA-pattern cases — even where exclusive authority is transferred, the alienated parent retains structural information access. This prevents the alienating parent from severing all parental connection.
+- **Public Prosecutor standing (art. 374 § 2 al. 1).** *À la demande du procureur du Roi.* The Public Prosecutor has standing to apply for protective measures. This is the Belgian equivalent of the Austrian *Kinder- und Jugendhilfe* standing under [ABGB § 181](../austria/abgb-181-entzug-der-obsorge-verbatim.md) and the Italian Pubblico Ministero standing — providing structural openness for state-driven welfare intervention in PA cases where the targeted parent is unable to litigate effectively.
+
+## Procedural application
+
+- The competent court is the *tribunal de la famille* (family court — division of the *tribunal de première instance*)
+- The proceedings are governed by the Code judiciaire arts. 1253ter to 1253octies
+- The *Service Social* (social service) or court-appointed expert provides welfare assessment
+- The child age 12+ is heard under art. 1004/1 Code judiciaire; younger children can be heard at the court's discretion
+- Appellate review to the *cour d'appel* + cassation to the *Cour de cassation* are available
+- The *jugement spécialement motivé* requirement under art. 374/2 § 1 al. 3 means appellate review on insufficient-reasoning grounds is structurally available
+
+## Use in alienating-conduct cases
+
+- The Cour de cassation has confirmed that the *motifs très graves* threshold under art. 374 § 2 al. 2 cannot be satisfied by speculative or aggregated harm — *Cass. 9 octobre 2014* (C.13.0530.F)
+- The *cour d'appel de Bruxelles* and *cour d'appel de Liège* have developed parallel jurisprudence on the alienating-conduct framework — sustained alienating conduct can engage exclusive authority transfer under art. 374 § 1 al. 2
+- The art. 374/2 *spécialement motivé* requirement provides the structural framework for the court to address PA-pattern findings in residence reasoning
+- Where contact is restricted under art. 374 § 2 al. 2, the courts typically order *espace neutre* (neutral-space contact) supervised by the [Service de Médiation Familiale](https://www.justice.belgium.be/) or *espace-rencontre* (meeting space)
+
+## Cross-reference
+
+- [Belgium — Civil Code art. 375bis (grandparents' contact right)](civil-code-art-375bis-grandparents.md) — the kinship-contact framework alongside art. 374
+- [Belgium — Family Court Act 2013](family-court-act-2013.md) — the procedural framework
+- [Belgium — Penal Code art. 432 (non-représentation d'enfant)](penal-code-art-432.md) — the criminal-enforcement framework
+- [Italy — Codice Civile art. 337-ter (parallel bigenitorialità)](../italy/codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
+- [France — Code civil art. 372-373-2-9 (parallel exercice en commun)](../france/code-civil-371-1-377-autorite-parentale.md)
+- [Germany — BGB §§ 1626 + 1671 (parallel gemeinsame elterliche Sorge)](../germany/bgb-1626-1684-elterliche-sorge-umgang-verbatim.md)
+- [Spain — Código Civil art. 92 (parallel custodia compartida)](../spain/codigo-civil-arts-92-154-156-158-patria-potestad-y-custodia.md)
+- [Comparative — welfare-checklist statutory comparative](../comparative/welfare-checklist-statutory-comparative.md)
+- [Comparative — cooperation-duty statutory map](../comparative/cooperation-duty-statutory-map-nordic-dach.md)
+
+## Related entries
+
+- [Belgium — Civil Code art. 375bis (grandparents)](civil-code-art-375bis-grandparents.md)
+- [Belgium — Family Court Act 2013](family-court-act-2013.md)
+- [Belgium — Penal Code art. 432](penal-code-art-432.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Belgium Parental Alienation Equal Custody Enforcement](https://www.antialienate.com/blog/belgium-parental-alienation-equal-custody-enforcement)
+- [Echr Article 8 Parental Alienation Weapon](https://www.antialienate.com/blog/echr-article-8-parental-alienation-weapon)
+- [Keyser Advocaten Breaking Parental Alienation Taboo Belgium](https://www.antialienate.com/blog/keyser-advocaten-breaking-parental-alienation-taboo-belgium)
+- [Lawyer Ethics False Documents Parental Alienation Belgium](https://www.antialienate.com/blog/lawyer-ethics-false-documents-parental-alienation-belgium)
+- [Military Parents Guide Parental Alienation Deployment](https://www.antialienate.com/blog/military-parents-guide-parental-alienation-deployment)
+
+<!-- AA-CROSSLINK-END -->
