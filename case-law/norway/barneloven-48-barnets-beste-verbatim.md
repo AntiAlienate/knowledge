@@ -103,6 +103,8 @@ Norway is doctrinally distinctive among the Nordic jurisdictions because § 48 s
 - [Norway — barneloven § 31](barnelova-1981-s-31-childs-right-to-influence-verbatim.md)
 - [Norway — Strand Lobben + Pedersen line](barneloven-1981-strand-lobben-pedersen-line.md)
 
+
+
 <!-- AA-CITE-START -->
 
 ---
