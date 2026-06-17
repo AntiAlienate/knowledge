@@ -149,6 +149,8 @@ The **principal criminal-law provision** on child abduction in Germany. StGB § 
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
