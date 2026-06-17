@@ -262,6 +262,8 @@ Judges decide on patterns, not on speeches.
 
 
 
+
+
 <!-- AA-CITE-START -->
 
 ---
