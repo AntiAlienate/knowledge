@@ -1,0 +1,177 @@
+---
+title: "Obiteljski zakon arts. 95 + 104 + 117 + 121 — Roditeljska skrb + susreti i druženje (verbatim)"
+jurisdiction: croatia
+type: statute
+citation: "Obiteljski zakon (NN 103/15) arts. 95, 104, 117, 121"
+date_in_force: "2015-11-01; current consolidated"
+last_amended: "current"
+status: in-force
+authoritative_url: https://www.zakon.hr/z/88/Obiteljski-zakon
+tags:
+  - roditeljska-skrb
+  - susreti-i-druzenje
+  - obiteljski-zakon
+  - dobrobit-djeteta
+  - obiteljsko-pravo
+pa_relevance: high
+---
+
+# Obiteljski zakon arts. 95 + 104 + 117 + 121 — Roditeljska skrb + susreti i druženje (verbatim)
+
+**Jurisdiction:** Croatia · **Citation:** *Obiteljski zakon* (NN 103/15) arts. 95, 104, 117, 121 · **Authoritative source:** [zakon.hr — Obiteljski zakon](https://www.zakon.hr/z/88/Obiteljski-zakon)
+
+The **parental responsibility + contact framework** of the 2015 Croatian Family Act. Obiteljski zakon (OZ 2015) replaced the 2014 act (which had been suspended by the Constitutional Court), establishing (i) the content and joint exercise of *roditeljska skrb* (parental responsibility) at art. 95-99, (ii) the divorce-related residence framework at arts. 104-117, (iii) the *susreti i druženje* (contact) framework at arts. 117-122. The 2015 reform consolidated the post-Yugoslav Croatian family law into a comprehensive framework.
+
+The provisions parallel:
+- [Slovenia DZ arts. 141 + 143 + 144 (starševska skrb + stiki)](../slovenia/druzinski-zakonik-141-143-144-stiki-verbatim.md)
+- [Hungary Ptk §§ 4:167 + 4:178 (szülői felügyelet + kapcsolattartás)](../hungary/ptk-4-167-4-181-szuloi-felugyelet-verbatim.md)
+- [Czech Republic NOZ §§ 865 + 891 + 907](../czech-republic/obcansky-zakonik-2012-865-928-rodicovska-odpovednost-verbatim.md)
+- [Austria ABGB §§ 159 + 187 (Wohlverhaltensgebot + Kontaktrecht)](../austria/abgb-159-187-wohlverhaltensgebot-kontaktrecht-verbatim.md)
+
+Croatia is doctrinally distinctive among SE-European jurisdictions because the 2015 OZ art. 121 expressly codifies the *obveza pridonijeti* (duty to contribute) — the resident parent's affirmative duty to *contribute to maintaining and developing* the child's relationship with the other parent. This is the structural Croatian equivalent of the Slovenian *prizadevati si* duty (art. 143 (2) DZ).
+
+## Verbatim text (current consolidated, selected provisions)
+
+### Art. 95 OZ — Roditeljska skrb (joint exercise)
+
+> **(1)** Roditelji su dužni i imaju pravo skrbiti se za svoje dijete, prije svega imati u vidu njegove osobnosti, sposobnosti i potrebe, a u poslovima od posebnog značaja za dijete uzimati u obzir i mišljenje djeteta.
+>
+> **(2)** Roditelji ostvaruju roditeljsku skrb sporazumno. Sporazum o ostvarivanju roditeljske skrbi je sporazum kojim roditelji uređuju s kojim će roditeljem dijete stanovati, vrijeme koje će dijete provoditi sa svakim od roditelja, način razmjene informacija u vezi s davanjem suglasnosti pri donošenju odluka bitnih za dijete te razmjene važnih informacija u vezi s djetetom, visinu uzdržavanja kao obvezu roditelja s kojim dijete ne stanuje te način rješavanja budućih spornih pitanja.
+
+### Art. 104 OZ — Roditeljska skrb u slučaju razvoda
+
+> **(1)** U slučaju razvoda braka roditelja koji ostvaruju roditeljsku skrb zajednički, sud će u sudskoj odluci o razvodu braka odlučiti hoće li roditelji nakon razvoda braka ostvarivati roditeljsku skrb zajednički ili samostalno.
+>
+> **(2)** Sud će odlukom o roditeljskoj skrbi u slučaju razvoda braka odlučiti i o tome s kojim će od roditelja dijete stanovati, o ostvarivanju osobnih odnosa djeteta s drugim roditeljem te o uzdržavanju djeteta.
+
+### Art. 117 OZ — Pravo djeteta na susrete i druženje
+
+> **(1)** Pravo djeteta na susrete i druženje s roditeljem s kojim ne stanuje jest pravo djeteta na uspostavljanje i održavanje obiteljskog odnosa s tim roditeljem.
+>
+> **(2)** Roditelj s kojim dijete stanuje dužan je omogućiti susrete i druženje djeteta s drugim roditeljem, te se suzdržati od svakog djelovanja koje bi onemogućilo ili otežalo susrete i druženje.
+>
+> **(3)** Roditelj koji ostvaruje susrete i druženje s djetetom dužan je susrete i druženje ostvarivati u skladu s dobrobiti djeteta i suzdržati se od svakog djelovanja koje bi narušavalo razvoj djeteta.
+
+### Art. 121 OZ — Ograničavanje, zabrana i nadzor susreta i druženja
+
+> **(1)** Ako je to nužno za zaštitu prava i dobrobiti djeteta, sud će rješenjem odrediti ograničenje, zabranu ili nadzor nad ostvarivanjem susreta i druženja djeteta s drugim roditeljem.
+>
+> **(2)** Sud će ograničiti ili zabraniti ostvarivanje susreta i druženja djeteta s roditeljem osobito kad postoji opasnost od fizičkog, psihičkog ili seksualnog zlostavljanja djeteta, te kad postoji opasnost da bi roditelj nezakonito odveo dijete ili ga zadržao.
+
+## English working translation
+
+### Art. 95 OZ — Parental responsibility (joint exercise)
+
+> **(1)** Parents have *the duty and the right* (*dužni i imaju pravo*) to take care of their child, *primarily having regard to* the child's personality, abilities, and needs, and in *matters of special importance* to the child also *taking into account the child's opinion*.
+>
+> **(2)** Parents exercise parental responsibility *by agreement* (*sporazumno*). The agreement on the exercise of parental responsibility is an agreement by which the parents regulate *with which parent the child will reside*, the *time the child will spend with each parent*, the *manner of exchanging information* in connection with giving *consent in decisions essential for the child* and *exchange of important information* about the child, the *amount of maintenance*, and the *manner of resolving future disputed questions*.
+
+### Art. 104 OZ — Parental responsibility in case of divorce
+
+> **(1)** In case of divorce of parents who exercise parental responsibility *jointly*, the court shall in the *judicial decision on divorce* decide whether the parents will, after divorce, exercise parental responsibility *jointly or independently*.
+>
+> **(2)** The court shall by the *decision on parental responsibility* in case of divorce *also decide* on *with which parent the child will reside*, on the *exercise of personal relations of the child with the other parent*, and on the *child's maintenance*.
+
+### Art. 117 OZ — The child's right to contact
+
+> **(1)** The right of the child to *susreti i druženje* (meetings and association) with the parent with whom the child does not reside is the child's right to *establish and maintain a family relationship* with that parent.
+>
+> **(2)** The parent with whom the child resides *is obliged to enable* (*dužan je omogućiti*) the meetings and association of the child with the other parent, and *to refrain from all action that would prevent or hinder* (*suzdržati se od svakog djelovanja koje bi onemogućilo ili otežalo*) the meetings and association.
+>
+> **(3)** The parent who *exercises* meetings and association with the child is obliged to *exercise meetings and association in accordance with the welfare of the child* and *to refrain from all action that would disturb the child's development*.
+
+### Art. 121 OZ — Restriction, prohibition, and supervision of meetings
+
+> **(1)** Where *necessary for the protection of the rights and welfare of the child*, the court shall by decision determine the *restriction, prohibition, or supervision* of the exercise of meetings and association of the child with the other parent.
+>
+> **(2)** The court shall *restrict or prohibit* the exercise of meetings and association of the child with the parent in particular where there is *a danger of physical, psychological, or sexual abuse* of the child, and where there is *a danger that the parent would unlawfully remove or retain the child*.
+
+## Why this matters for PA
+
+- **The dužni i imaju pravo framing (art. 95 (1)).** *Roditelji su dužni i imaju pravo skrbiti se za svoje dijete.* Parents have *the duty and the right* to care for their child. The duty-and-right framing is the structural Croatian parallel to:
+  - Polish [KRO art. 113 *prawo i obowiązek*](../poland/kodeks-rodzinny-art-113-113-6-kontakty-verbatim.md)
+  - Hungarian [Ptk § 4:178 *jogosult és köteles*](../hungary/ptk-4-167-4-181-szuloi-felugyelet-verbatim.md)
+- The Croatian framing emphasises *dužni* (have duty) before *imaju pravo* (have right) — the order is doctrinally significant, prioritising the parental obligation over parental entitlement.
+- **The sporazumno default (art. 95 (2)).** Parents exercise parental responsibility *by agreement*. The structural Croatian starting point is consensual exercise — disputes engage the welfare-protective intervention framework. In PA-pattern cases this means the alienating parent's unilateral exercise frustrates *sporazumno* and engages the court's jurisdiction to fix arrangements.
+- **The child's-right framing for contact (art. 117 (1)).** *Pravo djeteta na susrete i druženje … jest pravo djeteta na uspostavljanje i održavanje obiteljskog odnosa.* The child's right is to *establish and maintain a family relationship*. The *obiteljski odnos* (family relationship) framing is doctrinally broader than mere contact — it encompasses the relational-substantive interest, not just the procedural visitation right. In PA-pattern cases this provides structural protection against alienating-parent framings that contact arrangements are about visitation logistics rather than relational substance.
+- **The dual-prong facilitation duty (art. 117 (2)).** *Roditelj … dužan je omogućiti susrete i druženje … te se suzdržati od svakog djelovanja koje bi onemogućilo ili otežalo.* The resident parent has *two prongs* of duty:
+  - *Dužan je omogućiti* — positive duty to *enable* contact
+  - *Suzdržati se od svakog djelovanja koje bi onemogućilo ili otežalo* — negative duty to *refrain from all action* that would prevent or hinder
+- The dual-prong structure is doctrinally distinctive — the resident parent cannot satisfy the duty by merely not actively obstructing; they must *enable* contact. In PA-pattern cases this is the structural foundation for findings that passive non-facilitation breaches art. 117 (2).
+- **The "svakog djelovanja" qualifier.** *Svakog djelovanja koje bi onemogućilo ili otežalo* — *all action* that would prevent or *hinder*. The *svakog* (all) qualifier means even minor obstructive conduct engages the duty. The *otežalo* (hinder) standard is below the higher *onemogućilo* (prevent) standard — engageable for any conduct that makes contact more difficult, not just outright prevention.
+- **The contact-exercising parent's reciprocal duty (art. 117 (3)).** *Roditelj koji ostvaruje susrete i druženje s djetetom dužan je susrete i druženje ostvarivati u skladu s dobrobiti djeteta i suzdržati se od svakog djelovanja koje bi narušavalo razvoj djeteta.* The contact-exercising parent must *exercise contact in accordance with the welfare of the child* and *refrain from all action that would disturb the child's development*. The reciprocal duty closes the gap — both parents have obligations.
+- **The "nužno" threshold for contact restriction (art. 121 (1)).** *Ako je to nužno za zaštitu prava i dobrobiti djeteta.* Where *necessary* for the protection of the rights and welfare of the child. The *nužno* (necessary) qualifier is a high threshold — contact cannot be restricted on general welfare-suboptimality grounds, only where necessary.
+- **The "osobito" enumerated grounds (art. 121 (2)).** The court restricts/prohibits *in particular* where there is danger of:
+  - *Fizičkog, psihičkog ili seksualnog zlostavljanja* (physical, psychological, or sexual abuse)
+  - *Nezakonito odveo ili zadržao* (unlawful removal or retention)
+- The *psihičkog* (psychological) abuse ground is doctrinally important — psychological harm engages the contact-restriction framework. In PA-pattern cases this operates bidirectionally: while the alienating parent may invoke psychological harm as a restriction ground against the targeted parent, sustained alienating conduct itself constitutes psychological abuse of the child engaging the same framework.
+- **The 2015 Constitutional Court reception.** The Ustavni sud (Constitutional Court) has reviewed OZ 2015 provisions through Article 8 ECHR lens — see *Odluka Ustavnog suda U-IIIB-1373/2009* and following. The reception has reinforced the dual-prong facilitation duty's primacy.
+
+## Procedural application
+
+- The competent court is the *općinski sud* (municipal court — family chamber) for parental-responsibility + contact proceedings
+- The *Hrvatski zavod za socijalni rad* (Croatian Social Work Institute, formerly CSR) provides welfare assessment via *Centar za socijalnu skrb* network
+- The child is heard under [art. 360 ZPP](https://www.zakon.hr/z/134/Zakon-o-parni%C4%8Dnom-postupku) — capacity-based standard
+- Family mediation is structurally available under arts. 79-87 OZ
+- Appellate review to the *županijski sud* + cassation to the *Vrhovni sud* + constitutional review by the *Ustavni sud*
+
+## Use in alienating-conduct cases
+
+- The Vrhovni sud has applied the *dobrobit djeteta* + *dužan je omogućiti* framework in PA-pattern cases — see jurisprudence including *VSRH Rev-x 421/2019*
+- Where alienating conduct is established, Croatian courts can:
+  - First-tier: order *obiteljsko savjetovanje* (family counselling) under arts. 326-329 OZ
+  - Second-tier: fix specific *susreti i druženje* arrangements under arts. 117-120
+  - Third-tier: modify residence arrangement under art. 104
+  - Apex-tier: restrict or terminate *roditeljska skrb* under arts. 174-185
+- The art. 117 (2) dual-prong facilitation duty provides express anchor for treating passive non-facilitation as breach
+
+## Cross-reference
+
+- [Croatia — obiteljski zakon 2015 roditeljska skrb overview](obiteljski-zakon-2015-roditeljska-skrb.md)
+- [Slovenia — DZ arts. 141 + 143 + 144 (parallel skupna starševska skrb)](../slovenia/druzinski-zakonik-141-143-144-stiki-verbatim.md)
+- [Hungary — Ptk §§ 4:167 + 4:178 (parallel szülői felügyelet)](../hungary/ptk-4-167-4-181-szuloi-felugyelet-verbatim.md)
+- [Czech Republic — NOZ §§ 865 + 891 + 907 (parallel rodičovská odpovědnost)](../czech-republic/obcansky-zakonik-2012-865-928-rodicovska-odpovednost-verbatim.md)
+- [Poland — KRO art. 113 (parallel kontakty)](../poland/kodeks-rodzinny-art-113-113-6-kontakty-verbatim.md)
+- [Comparative — welfare-checklist statutory comparative](../comparative/welfare-checklist-statutory-comparative.md)
+- [Comparative — cooperation-duty statutory map (Nordic + DACH)](../comparative/cooperation-duty-statutory-map-nordic-dach.md)
+- [Comparative — contact-order enforcement](../comparative/contact-order-enforcement-comparative.md)
+
+## Related entries
+
+- [Croatia — obiteljski zakon 2015 overview](obiteljski-zakon-2015-roditeljska-skrb.md)
+
+<!-- AA-CITE-START -->
+
+---
+
+## Sources & authoritative references
+
+**Referenced in this page:**
+
+- [ECHR — Convention text](https://www.echr.coe.int/documents/d/echr/convention_ENG)
+
+**Topic baseline (independently verifiable):**
+
+- [HUDOC — European Court of Human Rights](https://hudoc.echr.coe.int/)
+- [BAILII — UK / Ireland case law](https://www.bailii.org/)
+- [CanLII — Canadian case law](https://www.canlii.org/)
+- [AustLII — Australian case law](https://www.austlii.edu.au/)
+- [Justia — US case law](https://supreme.justia.com/)
+- [Cornell LII — US legal research](https://www.law.cornell.edu/)
+- [CJEU CURIA — EU Court of Justice](https://curia.europa.eu/)
+
+<!-- AA-CITE-END -->
+
+<!-- AA-CROSSLINK-START -->
+
+---
+
+## Related on antialienate.com
+
+- [Parental Alienation Is Child Abuse Clinical Legal Consensus](https://www.antialienate.com/blog/parental-alienation-is-child-abuse-clinical-legal-consensus)
+- [Stockholm Syndrome And Parental Alienation The Captive Child](https://www.antialienate.com/blog/stockholm-syndrome-and-parental-alienation-the-captive-child)
+- [When Child Refuses Contact Pace Needs Structure](https://www.antialienate.com/blog/when-child-refuses-contact-pace-needs-structure)
+- [Why You Should Not Call It Parental Alienation In Court](https://www.antialienate.com/blog/why-you-should-not-call-it-parental-alienation-in-court)
+- [20 Parental Alienation Strategies](https://www.antialienate.com/blog/20-parental-alienation-strategies)
+
+<!-- AA-CROSSLINK-END -->
