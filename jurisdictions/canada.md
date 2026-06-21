@@ -305,7 +305,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Divorce Act s.16(3)(j) — family-violence factor",
+      "name": "[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) s.16(3)(j) — family-violence factor",
       "legislationIdentifier": "Divorce Act s.16(3)(j)",
       "jurisdiction": "Canada",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",

@@ -322,7 +322,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "France (République française)",
       "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000022454032",
       "datePublished": "2010",
-      "description": "Introduces ordonnance de protection (Code civil art. 515-9) — central in DV-PA-allegation intersection."
+      "description": "Introduces ordonnance de protection ([Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) art. 515-9) — central in DV-PA-allegation intersection."
     },
     {
       "@type": "Legislation",
