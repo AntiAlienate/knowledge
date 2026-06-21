@@ -274,7 +274,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "Children — parental responsibility and parenting orders",
-      "legislationIdentifier": "Family Law Act 1975 (Cth) Part VII",
+      "legislationIdentifier": "[Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) Part VII",
       "jurisdiction": "Australia (Commonwealth of Australia)",
       "url": "https://www.legislation.gov.au/C2004A00275/latest/text",
       "datePublished": "1975",

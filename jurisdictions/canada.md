@@ -296,12 +296,12 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "Legislation",
-      "name": "Divorce Act — best-interests-of-the-child standard",
+      "name": "[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) — best-interests-of-the-child standard",
       "legislationIdentifier": "Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)",
       "jurisdiction": "Canada",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
       "datePublished": "1985",
-      "description": "Federal substantive statute for divorce and parenting after divorce. Bill C-78 (in force 1 March 2021) rewrote s.16 with a non-exhaustive best-interests factor list including the explicit s.16(3)(j) family-violence factor and replaced 'custody / access' terminology with 'parenting time / decision-making responsibility / contact'. The substantive Canadian federal hook through which PA-adjacent fact-patterns are decided in divorce-jurisdiction cases."
+      "description": "Federal substantive statute for divorce and parenting after divorce. [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) (in force 1 March 2021) rewrote s.16 with a non-exhaustive best-interests factor list including the explicit s.16(3)(j) family-violence factor and replaced 'custody / access' terminology with 'parenting time / decision-making responsibility / contact'. The substantive Canadian federal hook through which PA-adjacent fact-patterns are decided in divorce-jurisdiction cases."
     },
     {
       "@type": "Legislation",

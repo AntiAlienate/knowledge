@@ -291,7 +291,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "Autorité parentale / Ouderlijk gezag",
-      "legislationIdentifier": "Code civil arts. 371-387ter",
+      "legislationIdentifier": "[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) arts. 371-387ter",
       "jurisdiction": "Belgium (Royaume de Belgique / Koninkrijk België)",
       "url": "https://www.ejustice.just.fgov.be/cgi_loi/loi.pl",
       "datePublished": "1995",

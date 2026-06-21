@@ -292,7 +292,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche (Modification of court decisions)",
-      "legislationIdentifier": "BGB § 1696",
+      "legislationIdentifier": "[BGB](https://www.gesetze-im-internet.de/bgb/) § 1696",
       "jurisdiction": "Germany",
       "url": "https://www.gesetze-im-internet.de/bgb/__1696.html",
       "datePublished": "1998",
@@ -329,7 +329,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23",
       "datePublished": "2023",
-      "courtName": "[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (BVerfG)",
+      "courtName": "[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) ([BVerfG](https://www.bundesverfassungsgericht.de/))",
       "url": "https://knowledge.antialienate.com/case-studies/bverfg-1-bvr-1076-23-germany-2023/"
     },
     {
