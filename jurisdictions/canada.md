@@ -242,7 +242,7 @@ In Canada parental alienation is not named directly in statute, but the parental
 
 ### What law covers withholding a child from a parent in Canada?
 
-The primary statutory basis in Canada is [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021) — Divorce Act — best-interests-of-the-child standard. Authoritative text: <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>.
+The primary statutory basis in Canada is [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021) — [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) — best-interests-of-the-child standard. Authoritative text: <https://laws-lois.justice.gc.ca/eng/acts/D-3.4/>.
 
 ### What is the leading court decision on parental alienation in Canada?
 
@@ -250,7 +250,7 @@ The leading apex decision is [Supreme Court of Canada](https://www.scc-csc.ca/) 
 
 ### What can a parent do if their child is being withheld from them in Canada?
 
-Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework (Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework (Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
 
 <script type="application/ld+json">
 {
@@ -281,7 +281,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What is the leading court decision on parental alienation in Canada?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The leading apex decision is Supreme Court of Canada is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017). (2001). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+            "text": "The leading apex decision is [Supreme Court of Canada](https://www.scc-csc.ca/) is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017). (2001). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
           }
         },
         {
@@ -333,7 +333,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec — droit de la famille (Livre II)",
-      "legislationIdentifier": "Code civil du Quebec (CCQ) Livre deuxième - De la famille (art. 522-612)",
+      "legislationIdentifier": "[Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) du Quebec (CCQ) Livre deuxième - De la famille (art. 522-612)",
       "jurisdiction": "Canada",
       "url": "https://www.legisquebec.gouv.qc.ca/fr/document/lc/CCQ-1991",
       "datePublished": "1991",

@@ -207,7 +207,7 @@ The leading apex decision is [UK Supreme Court](https://www.supremecourt.uk/) is
 
 ### What can a parent do if their child is being withheld from them in the United Kingdom?
 
-Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United Kingdom's best-interests-of-the-child framework (Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United Kingdom's best-interests-of-the-child framework ([Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
 
 <script type="application/ld+json">
 {
@@ -238,7 +238,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What is the leading court decision on parental alienation in the United Kingdom?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The leading apex decision is UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
+            "text": "The leading apex decision is [UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions. (2026). The court took a middle position — recognising patterns of conduct but rejecting the syndrome framing."
           }
         },
         {
@@ -263,7 +263,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "Health and Social Care Act 2008 — [HCPC](https://www.hcpc-uk.org/) UK-wide statutory framework",
-      "legislationIdentifier": "Health and Social Care Act 2008 (HCPC regulator framework)",
+      "legislationIdentifier": "Health and Social Care Act 2008 ([HCPC](https://www.hcpc-uk.org/) regulator framework)",
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/ukpga/2008/14",
       "datePublished": "2008",
@@ -272,11 +272,11 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6) — [Cafcass](https://www.cafcass.gov.uk/) framework + family-court reforms",
-      "legislationIdentifier": "Children and Families Act 2014",
+      "legislationIdentifier": "[Children and Families Act 2014](https://www.legislation.gov.uk/ukpga/2014/6)",
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/ukpga/2014/6",
       "datePublished": "2014",
-      "description": "UK-wide statutory framework reforming family-court procedure and establishing Cafcass operational mandate (E&W); Cafcass Cymru is devolved Welsh Government equivalent."
+      "description": "UK-wide statutory framework reforming family-court procedure and establishing [Cafcass](https://www.cafcass.gov.uk/) operational mandate (E&W); Cafcass Cymru is devolved Welsh Government equivalent."
     },
     {
       "@type": "LegalCase",

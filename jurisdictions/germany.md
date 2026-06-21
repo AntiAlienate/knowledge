@@ -236,7 +236,7 @@ The leading apex decision is [BVerfG](https://www.bundesverfassungsgericht.de/),
 
 ### What can a parent do if their child is being withheld from them in Germany?
 
-Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Germany's best-interests-of-the-child framework (BGB § 1684) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Germany's best-interests-of-the-child framework ([BGB](https://www.gesetze-im-internet.de/bgb/) § 1684) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
 
 <script type="application/ld+json">
 {
@@ -267,7 +267,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What is the leading court decision on parental alienation in Germany?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The leading apex decision is BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 (2023). The court treated parental-alienation labelling critically."
+            "text": "The leading apex decision is [BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23 (2023). The court treated parental-alienation labelling critically."
           }
         },
         {
@@ -343,7 +343,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "[BGH](https://www.bundesgerichtshof.de/) is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites BGB § 1696 Schwellenwert.",
       "datePublished": "2026",
-      "courtName": "[Bundesgerichtshof](https://www.bundesgerichtshof.de/) (BGH) — XII. Zivilsenat"
+      "courtName": "[Bundesgerichtshof](https://www.bundesgerichtshof.de/) ([BGH](https://www.bundesgerichtshof.de/)) — XII. Zivilsenat"
     },
     {
       "@type": "LegalCase",

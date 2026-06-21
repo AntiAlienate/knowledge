@@ -278,7 +278,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "ENERO 2023",
       "datePublished": "2023",
-      "courtName": "Corte Suprema de Justicia de Chile — Sala Cuarta (Mixta)"
+      "courtName": "[Corte Suprema de Justicia](https://www.csjn.gov.ar/) de Chile — Sala Cuarta (Mixta)"
     },
     {
       "@type": "LegalCase",
@@ -290,7 +290,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "[Tribunal Constitucional](https://www.tribunalconstitucional.es/)",
       "datePublished": "2026",
-      "courtName": "Tribunal Constitucional de Chile"
+      "courtName": "[Tribunal Constitucional](https://www.tribunalconstitucional.es/) de Chile"
     },
     {
       "@type": "LegalCase",

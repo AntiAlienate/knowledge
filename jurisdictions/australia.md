@@ -235,7 +235,7 @@ The primary statutory basis in Australia (Commonwealth of Australia) is [Family 
 
 ### What can a parent do if their child is being withheld from them in Australia (Commonwealth of Australia)?
 
-Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Australia (Commonwealth of Australia)'s best-interests-of-the-child framework (Family Law Act 1975 (Cth) Part VII) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Australia (Commonwealth of Australia)'s best-interests-of-the-child framework ([Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) (Cth) Part VII) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
 
 <script type="application/ld+json">
 {

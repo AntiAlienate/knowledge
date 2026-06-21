@@ -344,7 +344,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "STS 519/2017, de 22 de septiembre (Sala Primera, ponente Arroyo Fiestas)",
       "datePublished": "2017",
-      "courtName": "Tribunal Supremo, Sala Primera (Sala de lo Civil)",
+      "courtName": "[Tribunal Supremo](https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunal-Supremo/), Sala Primera (Sala de lo Civil)",
       "url": "https://knowledge.antialienate.com/case-studies/sts-519-2017-spain/"
     },
     {

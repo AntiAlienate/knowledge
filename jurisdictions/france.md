@@ -261,7 +261,7 @@ The primary statutory basis in France (République française) is [Code civil](h
 
 ### What can a parent do if their child is being withheld from them in France (République française)?
 
-Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under France (République française)'s best-interests-of-the-child framework (Code civil arts. 371-1 à 373-2-13) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under France (République française)'s best-interests-of-the-child framework ([Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) arts. 371-1 à 373-2-13) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
 
 <script type="application/ld+json">
 {

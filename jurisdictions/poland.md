@@ -236,7 +236,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Poland (Rzeczpospolita Polska)",
       "url": "https://rm.coe.int/168008482e",
       "datePublished": "2015",
-      "description": "Poland ratified Council of Europe Istanbul Convention 27 April 2015, in force 1 August 2015. 2020 PiS Government withdrawal attempt subsequently halted; Convention retained under Tusk Government from December 2023. Art. 31 requires contact/custody decisions take account of violence."
+      "description": "Poland ratified [Council of Europe](https://www.coe.int/) Istanbul Convention 27 April 2015, in force 1 August 2015. 2020 PiS Government withdrawal attempt subsequently halted; Convention retained under Tusk Government from December 2023. Art. 31 requires contact/custody decisions take account of violence."
     }
   ]
 }
