@@ -254,7 +254,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "UK constituent children-law statutes",
-      "legislationIdentifier": "Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995",
+      "legislationIdentifier": "[Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995",
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/",
       "datePublished": "1995",
@@ -267,7 +267,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/ukpga/2008/14",
       "datePublished": "2008",
-      "description": "Statutory framework for the Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide."
+      "description": "Statutory framework for the Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 [HCPC](https://www.hcpc-uk.org/)-registration kitemark for PA evaluators applies UK-wide."
     },
     {
       "@type": "Legislation",
@@ -282,7 +282,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "[UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions.",
       "datePublished": "2026",
-      "courtName": "UK Supreme Court"
+      "courtName": "[UK Supreme Court](https://www.supremecourt.uk/)"
     },
     {
       "@type": "LegalCase",

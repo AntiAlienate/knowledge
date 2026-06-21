@@ -283,7 +283,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "Umgang des Kindes mit den Eltern (Right of contact between child and parents)",
-      "legislationIdentifier": "BGB § 1684",
+      "legislationIdentifier": "[BGB](https://www.gesetze-im-internet.de/bgb/) § 1684",
       "jurisdiction": "Germany",
       "url": "https://www.gesetze-im-internet.de/bgb/__1684.html",
       "datePublished": "1979",
@@ -327,7 +327,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "LegalCase",
-      "name": "BVerfG, Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23",
+      "name": "[BVerfG](https://www.bundesverfassungsgericht.de/), Beschluss der 2. Kammer des Ersten Senats vom 17.11.2023 - 1 BvR 1076/23",
       "datePublished": "2023",
       "courtName": "[Bundesverfassungsgericht](https://www.bundesverfassungsgericht.de/) (BVerfG)",
       "url": "https://knowledge.antialienate.com/case-studies/bverfg-1-bvr-1076-23-germany-2023/"

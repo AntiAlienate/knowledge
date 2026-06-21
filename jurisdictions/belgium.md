@@ -283,7 +283,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What can a parent do if their child is being withheld from them in Belgium (Royaume de Belgique / Koninkrijk België)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Belgium (Royaume de Belgique / Koninkrijk België)'s best-interests-of-the-child framework (Code civil arts. 371-387ter) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Belgium (Royaume de Belgique / Koninkrijk België)'s best-interests-of-the-child framework ([Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) arts. 371-387ter) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
           }
         }
       ]
