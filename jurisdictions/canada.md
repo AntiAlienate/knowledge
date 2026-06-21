@@ -297,7 +297,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     {
       "@type": "Legislation",
       "name": "[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) — best-interests-of-the-child standard",
-      "legislationIdentifier": "Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)",
+      "legislationIdentifier": "[Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)",
       "jurisdiction": "Canada",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
       "datePublished": "1985",
@@ -310,7 +310,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Canada",
       "url": "https://laws-lois.justice.gc.ca/eng/acts/D-3.4/",
       "datePublished": "2021",
-      "description": "Bill C-78 inserted explicit family-violence factor into s.16(3) requiring courts to consider any family violence, its nature, seriousness and frequency, and its impact on the child's safety and well-being. The substantive evidential frame against which PA-adjacent allegations are now decided in federal divorce-jurisdiction proceedings."
+      "description": "[Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) inserted explicit family-violence factor into s.16(3) requiring courts to consider any family violence, its nature, seriousness and frequency, and its impact on the child's safety and well-being. The substantive evidential frame against which PA-adjacent allegations are now decided in federal divorce-jurisdiction proceedings."
     },
     {
       "@type": "Legislation",

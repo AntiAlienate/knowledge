@@ -341,7 +341,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "LegalCase",
-      "name": "[BGH](https://www.bundesgerichtshof.de/) is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites BGB § 1696 Schwellenwert.",
+      "name": "[BGH](https://www.bundesgerichtshof.de/) is the matrimonial/family-law revision court (XII. Zivilsenat); has not as of 2026 issued a leading judgment explicitly adopting or rejecting the PA construct, but routinely cites [BGB](https://www.gesetze-im-internet.de/bgb/) § 1696 Schwellenwert.",
       "datePublished": "2026",
       "courtName": "[Bundesgerichtshof](https://www.bundesgerichtshof.de/) ([BGH](https://www.bundesgerichtshof.de/)) — XII. Zivilsenat"
     },
