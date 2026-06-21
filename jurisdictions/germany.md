@@ -275,7 +275,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What can a parent do if their child is being withheld from them in Germany?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Germany's best-interests-of-the-child framework (BGB § 1684) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Germany's best-interests-of-the-child framework ([BGB](https://www.gesetze-im-internet.de/bgb/) § 1684) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
           }
         }
       ]
@@ -323,7 +323,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Germany",
       "url": "https://rm.coe.int/168008482e",
       "datePublished": "2018",
-      "description": "Ratified by Germany 2017, in force 1.2.2018. Art. 31 requires that contact/custody decisions take account of violence; GREVIO Baseline Evaluation Report on Germany (2022) and 1st thematic report criticise residual Cochem-style 'cooperation imperative' and PA-labelled deflection of DV allegations — a key plank of the BVerfG 2023 reasoning."
+      "description": "Ratified by Germany 2017, in force 1.2.2018. Art. 31 requires that contact/custody decisions take account of violence; GREVIO Baseline Evaluation Report on Germany (2022) and 1st thematic report criticise residual Cochem-style 'cooperation imperative' and PA-labelled deflection of DV allegations — a key plank of the [BVerfG](https://www.bundesverfassungsgericht.de/) 2023 reasoning."
     },
     {
       "@type": "LegalCase",

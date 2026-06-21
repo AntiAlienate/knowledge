@@ -246,7 +246,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What can a parent do if their child is being withheld from them in the United Kingdom?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United Kingdom's best-interests-of-the-child framework (Children Act 1989 (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under United Kingdom's best-interests-of-the-child framework ([Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) (UK / E&W) + Children (Scotland) Acts 1995/2020 + Children (NI) Order 1995) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
           }
         }
       ]
@@ -267,7 +267,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/ukpga/2008/14",
       "datePublished": "2008",
-      "description": "Statutory framework for the Health and Care Professions Council (HCPC) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide."
+      "description": "Statutory framework for the Health and Care Professions Council ([HCPC](https://www.hcpc-uk.org/)) as the UK-wide statutory regulator for practitioner psychologists and allied health professions. Post-Re Y EWFC 38 HCPC-registration kitemark for PA evaluators applies UK-wide."
     },
     {
       "@type": "Legislation",
@@ -276,11 +276,11 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "United Kingdom",
       "url": "https://www.legislation.gov.uk/ukpga/2014/6",
       "datePublished": "2014",
-      "description": "UK-wide statutory framework reforming family-court procedure and establishing [Cafcass](https://www.cafcass.gov.uk/) operational mandate (E&W); Cafcass Cymru is devolved Welsh Government equivalent."
+      "description": "UK-wide statutory framework reforming family-court procedure and establishing [Cafcass](https://www.cafcass.gov.uk/) operational mandate (E&W); [Cafcass Cymru](https://www.cafcass.gov.uk/) is devolved Welsh Government equivalent."
     },
     {
       "@type": "LegalCase",
-      "name": "UK Supreme Court is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions.",
+      "name": "[UK Supreme Court](https://www.supremecourt.uk/) is the final court of appeal for civil matters across all UK jurisdictions. Has not issued PA-construct-specific apex decision but reviews family-law appeals from all four constituent jurisdictions.",
       "datePublished": "2026",
       "courtName": "UK Supreme Court"
     },

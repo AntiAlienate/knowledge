@@ -250,7 +250,7 @@ The leading apex decision is [Supreme Court of Canada](https://www.scc-csc.ca/) 
 
 ### What can a parent do if their child is being withheld from them in Canada?
 
-Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework (Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
+Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework ([Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying.
 
 <script type="application/ld+json">
 {
@@ -289,7 +289,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What can a parent do if their child is being withheld from them in Canada?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework (Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by Bill C-78, in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
+            "text": "Apply to the family court with jurisdiction over the child's habitual residence. The court will assess the application under Canada's best-interests-of-the-child framework (Divorce Act R.S.C. 1985, c.3 (2nd Supp.) s.16 (as amended by [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/), in force 1.3.2021)) and may order specific contact, mediation, or — in serious cases — investigation by the child-protection authority. A parent in this situation should document the pattern of contact-interference and obtain local family-law advice before applying."
           }
         }
       ]
@@ -350,7 +350,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
     },
     {
       "@type": "LegalCase",
-      "name": "Supreme Court of Canada is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).",
+      "name": "[Supreme Court of Canada](https://www.scc-csc.ca/) is the apex appellate court for federal and provincial law. Has addressed s.16 best-interests reasoning in Young v. Young [1993] 4 SCR 3 and Gordon v. Goertz [1996] 2 SCR 27 + Van de Perre v. Edwards [2001] 2 SCR 1014 but has NOT issued a parental-alienation-construct-engaging apex decision. Canada clusters with AU + NL + BE + DE + NZ in the 'no-apex-PA-position' bloc, distinct from Italy (Cass. 9691/2022) and Spain (STS 519/2017).",
       "datePublished": "2001",
       "courtName": "Supreme Court of Canada"
     },

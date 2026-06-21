@@ -284,7 +284,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
           "name": "What law covers withholding a child from a parent in France (République française)?",
           "acceptedAnswer": {
             "@type": "Answer",
-            "text": "The primary statutory basis in France (République française) is Code civil arts. 371-1 à 373-2-13 — Autorité parentale. Authoritative text: <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/>."
+            "text": "The primary statutory basis in France (République française) is [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) arts. 371-1 à 373-2-13 — Autorité parentale. Authoritative text: <https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136213/>."
           }
         },
         {

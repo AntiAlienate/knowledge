@@ -280,7 +280,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "Primera Sala SCJN resuelve amparos directos / amparos en revisión en materia familiar bajo el estándar del interés superior del menor (art. 4 CPEUM + CDN art. 3). Línea jurisprudencial sobre custodia compartida y régimen de convivencias que opera el filtro doctrinal de AI 11/2016 a nivel de caso individual.",
       "datePublished": "2026",
-      "courtName": "Suprema Corte de Justicia de la Nación — Primera Sala (materia familiar)"
+      "courtName": "[Suprema Corte de Justicia de la Nación](https://www.scjn.gob.mx/) — Primera Sala (materia familiar)"
     },
     {
       "@type": "LegalCase",

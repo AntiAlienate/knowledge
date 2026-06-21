@@ -284,7 +284,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "@type": "LegalCase",
       "name": "Tribunal Pleno realiza control de constitucionalidad de proyectos de ley en sede de informe consultivo. Sin sentencia apex PA-específica.",
       "datePublished": "2026",
-      "courtName": "Corte Suprema de Justicia de Chile — Tribunal Pleno (control de constitucionalidad de proyectos de ley)"
+      "courtName": "[Corte Suprema de Justicia](https://www.csjn.gov.ar/) de Chile — Tribunal Pleno (control de constitucionalidad de proyectos de ley)"
     },
     {
       "@type": "LegalCase",
