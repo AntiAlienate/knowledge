@@ -1,0 +1,1784 @@
+{
+  "type": "case-law",
+  "license": "CC-BY-4.0",
+  "generated": "2026-06-22T04:40:19Z",
+  "count": 269,
+  "jurisdictions": {
+    "algeria": [
+      {
+        "jurisdiction": "algeria",
+        "slug": "code-famille-1984-2005-amendments",
+        "title": "Algeria Code de la Famille 1984 + 2005 Reform",
+        "html_url": "https://knowledge.antialienate.com/case-law/algeria/code-famille-1984-2005-amendments/"
+      }
+    ],
+    "argentina": [
+      {
+        "jurisdiction": "argentina",
+        "slug": "codigo-civil-y-comercial-2015-arts-638-655-pa-recognition",
+        "title": "Argentina — Código Civil y Comercial 2015 (arts. 638–655) + Buenos Aires Province PA draft",
+        "html_url": "https://knowledge.antialienate.com/case-law/argentina/codigo-civil-y-comercial-2015-arts-638-655-pa-recognition/"
+      },
+      {
+        "jurisdiction": "argentina",
+        "slug": "codigo-civil-y-comercial-638-655-706-responsabilidad-parental-verbatim",
+        "title": "Código Civil y Comercial arts. 638 + 641 + 651 + 652 + 655 + 706 — Responsabilidad parental + cuidado personal compartido (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/argentina/codigo-civil-y-comercial-638-655-706-responsabilidad-parental-verbatim/"
+      },
+      {
+        "jurisdiction": "argentina",
+        "slug": "codigo-civil-y-comercial-638-660-responsabilidad-parental",
+        "title": "Argentina Codigo Civil y Comercial — Responsabilidad Parental (arts. 638-660)",
+        "html_url": "https://knowledge.antialienate.com/case-law/argentina/codigo-civil-y-comercial-638-660-responsabilidad-parental/"
+      }
+    ],
+    "australia": [
+      {
+        "jurisdiction": "australia",
+        "slug": "family-law-act-1975-amended-2024-meaningful-relationship",
+        "title": "Australia — Family Law Act 1975 amended 2024 (meaningful relationship duty)",
+        "html_url": "https://knowledge.antialienate.com/case-law/australia/family-law-act-1975-amended-2024-meaningful-relationship/"
+      },
+      {
+        "jurisdiction": "australia",
+        "slug": "family-law-act-s60cc",
+        "title": "Family Law Act 1975 (Cth), Section 60CC — Best Interests Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/australia/family-law-act-s60cc/"
+      },
+      {
+        "jurisdiction": "australia",
+        "slug": "family-law-act-s60cc-verbatim-2024-reform",
+        "title": "Family Law Act 1975 s. 60CC — Best interests of the child (verbatim, post FLAA 2023 / 6 May 2024)",
+        "html_url": "https://knowledge.antialienate.com/case-law/australia/family-law-act-s60cc-verbatim-2024-reform/"
+      },
+      {
+        "jurisdiction": "australia",
+        "slug": "u-v-u-2002-hca-36",
+        "title": "U v U — [2002] HCA 36 (Australian High Court on Relocation + Best Interests)",
+        "html_url": "https://knowledge.antialienate.com/case-law/australia/u-v-u-2002-hca-36/"
+      }
+    ],
+    "austria": [
+      {
+        "jurisdiction": "austria",
+        "slug": "abgb-138-kindeswohl-checklist-verbatim",
+        "title": "ABGB § 138 — Kindeswohl-Checklist (verbatim, 12 statutory factors)",
+        "html_url": "https://knowledge.antialienate.com/case-law/austria/abgb-138-kindeswohl-checklist-verbatim/"
+      },
+      {
+        "jurisdiction": "austria",
+        "slug": "abgb-159-187-wohlverhaltensgebot-kontaktrecht-verbatim",
+        "title": "ABGB §§ 159 + 187 — Wohlverhaltensgebot + Recht auf persönliche Kontakte (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/austria/abgb-159-187-wohlverhaltensgebot-kontaktrecht-verbatim/"
+      },
+      {
+        "jurisdiction": "austria",
+        "slug": "abgb-181-entzug-der-obsorge-verbatim",
+        "title": "ABGB § 181 — Entziehung oder Einschränkung der Obsorge (verbatim, Absatz 1)",
+        "html_url": "https://knowledge.antialienate.com/case-law/austria/abgb-181-entzug-der-obsorge-verbatim/"
+      },
+      {
+        "jurisdiction": "austria",
+        "slug": "abgb-182-proportionality-cap-verbatim",
+        "title": "ABGB § 182 — Proportionality cap on § 181 measures (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/austria/abgb-182-proportionality-cap-verbatim/"
+      },
+      {
+        "jurisdiction": "austria",
+        "slug": "abgb-arts-138-189-2013-kindgrec-reform",
+        "title": "Austria — ABGB arts. 138-189 + 2013 KindNamRÄG reform",
+        "html_url": "https://knowledge.antialienate.com/case-law/austria/abgb-arts-138-189-2013-kindgrec-reform/"
+      },
+      {
+        "jurisdiction": "austria",
+        "slug": "abgb-kindschaftsrecht-anderungsgesetz-2013",
+        "title": "Austria ABGB — KindNamRAG 2013",
+        "html_url": "https://knowledge.antialienate.com/case-law/austria/abgb-kindschaftsrecht-anderungsgesetz-2013/"
+      }
+    ],
+    "bangladesh": [
+      {
+        "jurisdiction": "bangladesh",
+        "slug": "family-courts-ordinance-1985-personal-laws",
+        "title": "Bangladesh Family Courts Ordinance 1985 + Personal Laws",
+        "html_url": "https://knowledge.antialienate.com/case-law/bangladesh/family-courts-ordinance-1985-personal-laws/"
+      }
+    ],
+    "belgium": [
+      {
+        "jurisdiction": "belgium",
+        "slug": "civil-code-art-375bis-grandparents",
+        "title": "Belgian Civil Code Article 375bis — Grandparents' Right to Contact",
+        "html_url": "https://knowledge.antialienate.com/case-law/belgium/civil-code-art-375bis-grandparents/"
+      },
+      {
+        "jurisdiction": "belgium",
+        "slug": "code-civil-374-374-2-autorite-parentale-conjointe-verbatim",
+        "title": "Code civil belge arts. 374 + 374/2 — Autorité parentale conjointe + hébergement égalitaire (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/belgium/code-civil-374-374-2-autorite-parentale-conjointe-verbatim/"
+      },
+      {
+        "jurisdiction": "belgium",
+        "slug": "family-court-act-2013",
+        "title": "Belgium — Loi du 30 juillet 2013 (Tribunal de la famille)",
+        "html_url": "https://knowledge.antialienate.com/case-law/belgium/family-court-act-2013/"
+      },
+      {
+        "jurisdiction": "belgium",
+        "slug": "penal-code-art-432",
+        "title": "Belgian Penal Code Art. 432 — Non-représentation d'enfant",
+        "html_url": "https://knowledge.antialienate.com/case-law/belgium/penal-code-art-432/"
+      }
+    ],
+    "brazil": [
+      {
+        "jurisdiction": "brazil",
+        "slug": "law-12318-2010-parental-alienation-law-civil-code",
+        "title": "Brazil — Law 12.318/2010 (first explicit Parental Alienation statute worldwide)",
+        "html_url": "https://knowledge.antialienate.com/case-law/brazil/law-12318-2010-parental-alienation-law-civil-code/"
+      },
+      {
+        "jurisdiction": "brazil",
+        "slug": "lei-12318-2010-lei-da-alienacao-parental-verbatim",
+        "title": "Brazilian Lei nº 12.318/2010 — Lei da Alienação Parental",
+        "html_url": "https://knowledge.antialienate.com/case-law/brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim/"
+      },
+      {
+        "jurisdiction": "brazil",
+        "slug": "lei-14713-2023-violencia-domestica-guarda-compartilhada",
+        "title": "Lei nº 14.713 de 2023 — Risco de violência doméstica como impedimento à guarda compartilhada",
+        "html_url": "https://knowledge.antialienate.com/case-law/brazil/lei-14713-2023-violencia-domestica-guarda-compartilhada/"
+      }
+    ],
+    "bulgaria": [
+      {
+        "jurisdiction": "bulgaria",
+        "slug": "semeen-kodeks-122-124-127-128-roditelski-prava-verbatim",
+        "title": "Семеен кодекс чл. 122 + 124 + 127 + 128 — Родителски права и задължения + лични отношения (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/bulgaria/semeen-kodeks-122-124-127-128-roditelski-prava-verbatim/"
+      },
+      {
+        "jurisdiction": "bulgaria",
+        "slug": "semeen-kodeks-2009-roditelski-prava",
+        "title": "Balgariya Semeen Kodeks (2009)",
+        "html_url": "https://knowledge.antialienate.com/case-law/bulgaria/semeen-kodeks-2009-roditelski-prava/"
+      }
+    ],
+    "canada": [
+      {
+        "jurisdiction": "canada",
+        "slug": "divorce-act-1985-amended-2021-bill-c78-maximum-contact",
+        "title": "Canada — Divorce Act 1985 amended 2021 (Bill C-78) + provincial frameworks",
+        "html_url": "https://knowledge.antialienate.com/case-law/canada/divorce-act-1985-amended-2021-bill-c78-maximum-contact/"
+      },
+      {
+        "jurisdiction": "canada",
+        "slug": "divorce-act-2021-amendments-parenting-orders",
+        "title": "Canada Divorce Act 2021 Amendments — Parenting Orders",
+        "html_url": "https://knowledge.antialienate.com/case-law/canada/divorce-act-2021-amendments-parenting-orders/"
+      },
+      {
+        "jurisdiction": "canada",
+        "slug": "divorce-act-s16-best-interests-verbatim-bill-c78",
+        "title": "Divorce Act s. 16 — Best interests of the child (verbatim, post Bill C-78, effective 2021-03-01)",
+        "html_url": "https://knowledge.antialienate.com/case-law/canada/divorce-act-s16-best-interests-verbatim-bill-c78/"
+      },
+      {
+        "jurisdiction": "canada",
+        "slug": "divorce-act-section-16-best-interests-of-the-child",
+        "title": "Divorce Act (Canada) section 16 — Best interests of the child",
+        "html_url": "https://knowledge.antialienate.com/case-law/canada/divorce-act-section-16-best-interests-of-the-child/"
+      },
+      {
+        "jurisdiction": "canada",
+        "slug": "divorce-act-sections-16-1-and-16-92-parenting-orders-and-relocation",
+        "title": "Divorce Act (Canada) sections 16.1 + 16.92 — Parenting orders + Relocation factors",
+        "html_url": "https://knowledge.antialienate.com/case-law/canada/divorce-act-sections-16-1-and-16-92-parenting-orders-and-relocation/"
+      }
+    ],
+    "canada-quebec": [
+      {
+        "jurisdiction": "canada-quebec",
+        "slug": "code-civil-quebec-autorite-parentale",
+        "title": "Quebec Code civil + Code de procedure civile — Autorité Parentale",
+        "html_url": "https://knowledge.antialienate.com/case-law/canada-quebec/code-civil-quebec-autorite-parentale/"
+      }
+    ],
+    "chile": [
+      {
+        "jurisdiction": "chile",
+        "slug": "codigo-civil-225-227-229-cuidado-personal-rdr-verbatim",
+        "title": "Código Civil arts. 225 + 227 + 229 — Cuidado personal + Relación directa y regular (verbatim, Ley 20.680/2013)",
+        "html_url": "https://knowledge.antialienate.com/case-law/chile/codigo-civil-225-227-229-cuidado-personal-rdr-verbatim/"
+      },
+      {
+        "jurisdiction": "chile",
+        "slug": "codigo-civil-cuidado-personal-relacion-directa",
+        "title": "Chile Codigo Civil — Cuidado Personal + Relacion Directa y Regular",
+        "html_url": "https://knowledge.antialienate.com/case-law/chile/codigo-civil-cuidado-personal-relacion-directa/"
+      },
+      {
+        "jurisdiction": "chile",
+        "slug": "ley-19947-2004-tribunales-de-familia-cuidado-personal-compartido",
+        "title": "Chile — Ley 19.947/2004 + Tribunales de Familia + 2013 cuidado personal compartido",
+        "html_url": "https://knowledge.antialienate.com/case-law/chile/ley-19947-2004-tribunales-de-familia-cuidado-personal-compartido/"
+      }
+    ],
+    "china": [
+      {
+        "jurisdiction": "china",
+        "slug": "civil-code-2021-marriage-family-non-hague",
+        "title": "China Civil Code 2021 — Marriage and Family Book",
+        "html_url": "https://knowledge.antialienate.com/case-law/china/civil-code-2021-marriage-family-non-hague/"
+      },
+      {
+        "jurisdiction": "china",
+        "slug": "marriage-law-2001-civil-code-2021-arts-1058-1086",
+        "title": "China — Civil Code 2021 arts. 1058–1086 + 2024 reforms + non-Hague status",
+        "html_url": "https://knowledge.antialienate.com/case-law/china/marriage-law-2001-civil-code-2021-arts-1058-1086/"
+      }
+    ],
+    "colombia": [
+      {
+        "jurisdiction": "colombia",
+        "slug": "codigo-civil-arts-253-262-codigo-de-la-infancia-2006",
+        "title": "Colombia — Código Civil arts. 253–262 + Código de la Infancia y Adolescencia 2006 + 2024 PA bill",
+        "html_url": "https://knowledge.antialienate.com/case-law/colombia/codigo-civil-arts-253-262-codigo-de-la-infancia-2006/"
+      },
+      {
+        "jurisdiction": "colombia",
+        "slug": "codigo-infancia-adolescencia-ley-1098-2006",
+        "title": "Colombia Codigo de Infancia y Adolescencia + Codigo Civil — Patria Potestad y Custodia",
+        "html_url": "https://knowledge.antialienate.com/case-law/colombia/codigo-infancia-adolescencia-ley-1098-2006/"
+      }
+    ],
+    "comparative": [
+      {
+        "jurisdiction": "comparative",
+        "slug": "cee-cooperation-duty-contact-comparative",
+        "title": "CEE cooperation-duty + contact-framework comparative — PL, CZ, HU, RO, SI, HR",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/cee-cooperation-duty-contact-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "childs-voice-age-thresholds-comparative",
+        "title": "Child's voice in custody and contact — age-threshold comparative (IT/DE/AT/NO/SE/IS/ES/UK)",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/childs-voice-age-thresholds-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "commonwealth-welfare-checklist-comparative",
+        "title": "Commonwealth welfare-checklist comparative — UK, IE, AU, NZ, CA",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/commonwealth-welfare-checklist-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "contact-order-enforcement-comparative",
+        "title": "Enforcement of contact orders — sanctions and compulsion comparative",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/contact-order-enforcement-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "cooperation-duty-statutory-map-nordic-dach",
+        "title": "Cooperation-duty statutory map — Nordic + DACH comparative (Wohlverhaltensgebot family)",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/cooperation-duty-statutory-map-nordic-dach/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "cross-border-pa-hague-1980-brussels-iib",
+        "title": "Cross-border parental alienation — Hague 1980, Hague 1996, Brussels IIb intersection",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/cross-border-pa-hague-1980-brussels-iib/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "dv-allegations-pa-bidirectionality-comparative",
+        "title": "Domestic violence allegations and parental alienation — bidirectional-risk comparative",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/dv-allegations-pa-bidirectionality-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "expert-evidence-admissibility-comparative",
+        "title": "Expert evidence in PA cases — admissibility + evidential standards comparative",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/expert-evidence-admissibility-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "graduated-remedy-ladder-it-de-at-uk",
+        "title": "Graduated-remedy ladder for alienating-conduct cases — Italy, Germany, Austria, UK comparative",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/graduated-remedy-ladder-it-de-at-uk/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "index-comparative-doctrinal-layer",
+        "title": "Comparative-doctrinal layer — index and navigation",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/index-comparative-doctrinal-layer/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "latin-america-pa-recognition-comparative",
+        "title": "Latin American PA-recognition comparative — BR, MX, AR, CO, CL",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/latin-america-pa-recognition-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "mediterranean-shared-care-comparative",
+        "title": "Mediterranean shared-care + alternating-residence comparative — IT, FR, ES, PT, GR",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/mediterranean-shared-care-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "nordic-welfare-paramountcy-comparative",
+        "title": "Nordic welfare-paramountcy comparative — SE, NO, DK, FI, IS",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/nordic-welfare-paramountcy-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "pa-recognition-status-comparative",
+        "title": "Parental alienation — recognition-status comparative across jurisdictions",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/pa-recognition-status-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "therapeutic-intervention-paradigms-comparative",
+        "title": "Therapeutic intervention paradigms in PA cases — court-ordered programs comparative",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/therapeutic-intervention-paradigms-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "unmarried-fathers-parental-responsibility-comparative",
+        "title": "Unmarried fathers' acquisition of parental responsibility — cross-jurisdictional comparative",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/unmarried-fathers-parental-responsibility-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "welfare-checklist-statutory-comparative",
+        "title": "Welfare-checklist statutory comparative — AT, DE, FR, UK, IE",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/welfare-checklist-statutory-comparative/"
+      }
+    ],
+    "croatia": [
+      {
+        "jurisdiction": "croatia",
+        "slug": "obiteljski-zakon-2015-95-104-117-roditeljska-skrb-verbatim",
+        "title": "Obiteljski zakon arts. 95 + 104 + 117 + 121 — Roditeljska skrb + susreti i druženje (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/croatia/obiteljski-zakon-2015-95-104-117-roditeljska-skrb-verbatim/"
+      },
+      {
+        "jurisdiction": "croatia",
+        "slug": "obiteljski-zakon-2015-roditeljska-skrb",
+        "title": "Hrvatska Obiteljski Zakon (NN 103/2015)",
+        "html_url": "https://knowledge.antialienate.com/case-law/croatia/obiteljski-zakon-2015-roditeljska-skrb/"
+      }
+    ],
+    "czech-republic": [
+      {
+        "jurisdiction": "czech-republic",
+        "slug": "civil-code-2014-arts-865-907-mandatory-mediation",
+        "title": "Czech Republic — Občanský zákoník 2014 (arts. 865–907) + mandatory mediation",
+        "html_url": "https://knowledge.antialienate.com/case-law/czech-republic/civil-code-2014-arts-865-907-mandatory-mediation/"
+      },
+      {
+        "jurisdiction": "czech-republic",
+        "slug": "novy-obcansky-zakonik-2012-rodinne-pravo",
+        "title": "Cesko Novy obcansky zakonik (NOZ 2012) — Rodinne pravo",
+        "html_url": "https://knowledge.antialienate.com/case-law/czech-republic/novy-obcansky-zakonik-2012-rodinne-pravo/"
+      },
+      {
+        "jurisdiction": "czech-republic",
+        "slug": "obcansky-zakonik-2012-865-928-rodicovska-odpovednost-verbatim",
+        "title": "Občanský zákoník §§ 865-928 — Rodičovská odpovědnost + styk s dítětem (verbatim selections)",
+        "html_url": "https://knowledge.antialienate.com/case-law/czech-republic/obcansky-zakonik-2012-865-928-rodicovska-odpovednost-verbatim/"
+      }
+    ],
+    "denmark": [
+      {
+        "jurisdiction": "denmark",
+        "slug": "foraeldreansvarsloven-2007-2024-amendments",
+        "title": "Denmark — Forældreansvarsloven 2007 + 2024 amendments + Familieretshuset",
+        "html_url": "https://knowledge.antialienate.com/case-law/denmark/foraeldreansvarsloven-2007-2024-amendments/"
+      },
+      {
+        "jurisdiction": "denmark",
+        "slug": "foraeldreansvarsloven-4-11-21-samvaer-verbatim",
+        "title": "Forældreansvarsloven §§ 4 + 11 + 21 — Barnets ret + fælles forældremyndighed + samvær (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/denmark/foraeldreansvarsloven-4-11-21-samvaer-verbatim/"
+      },
+      {
+        "jurisdiction": "denmark",
+        "slug": "foraldreansvarsloven-2007-parental-responsibility",
+        "title": "Danmark Foraldreansvarsloven (Parental Responsibility Act 2007)",
+        "html_url": "https://knowledge.antialienate.com/case-law/denmark/foraldreansvarsloven-2007-parental-responsibility/"
+      }
+    ],
+    "echr": [
+      {
+        "jurisdiction": "echr",
+        "slug": "bondavalli-v-italy-2015",
+        "title": "Bondavalli v. Italy — ECHR (2015), App. no. 35532/12",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/bondavalli-v-italy-2015/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "cengiz-kilic-v-turkey-2011",
+        "title": "Cengiz Kılıç v. Turkey — ECHR (2011), App. no. 16192/06",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/cengiz-kilic-v-turkey-2011/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "echr-article-8-right-to-respect-for-private-and-family-life",
+        "title": "ECHR Article 8 — Right to respect for private and family life",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/echr-article-8-right-to-respect-for-private-and-family-life/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "iglesias-casarrubios-v-spain-2016",
+        "title": "Iglesias Casarrubios and Cantalapiedra Iglesias v. Spain — ECHR (2016), App. no. 23298/12",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/iglesias-casarrubios-v-spain-2016/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "improta-v-italy-2017",
+        "title": "Improta v. Italy — ECHR (2017), App. no. 66396/14",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/improta-v-italy-2017/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "lombardo-v-italy-2013",
+        "title": "Lombardo v. Italy — ECHR (2013), App. no. 25704/11",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/lombardo-v-italy-2013/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "mincheva-v-bulgaria-2010",
+        "title": "Mincheva v. Bulgaria — ECHR (2010), App. no. 21558/03",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/mincheva-v-bulgaria-2010/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "pisica-v-moldova-2024",
+        "title": "Pisică v. Republic of Moldova — ECHR (2024), App. no. 23641/17",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/pisica-v-moldova-2024/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "solarino-v-italy-2017",
+        "title": "Solarino v. Italy — ECHR (2017), App. no. 76171/13",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/solarino-v-italy-2017/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "strand-lobben-v-norway-2019",
+        "title": "Strand Lobben and Others v. Norway — ECHR Grand Chamber (2019), App. no. 37283/13",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/strand-lobben-v-norway-2019/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "strumia-v-italy-2016",
+        "title": "Strumia v. Italy — ECHR (2016), App. no. 53377/13",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/strumia-v-italy-2016/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "tapayeva-v-russia-2021",
+        "title": "Tapayeva and Others v. Russia — ECHR (2021), App. no. 24757/18",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/tapayeva-v-russia-2021/"
+      },
+      {
+        "jurisdiction": "echr",
+        "slug": "zj-v-lithuania-2022",
+        "title": "Z.J. v. Lithuania — ECHR (2022), App. no. 60092/12",
+        "html_url": "https://knowledge.antialienate.com/case-law/echr/zj-v-lithuania-2022/"
+      }
+    ],
+    "egypt": [
+      {
+        "jurisdiction": "egypt",
+        "slug": "personal-status-law-25-1929-100-1985-2025-reforms",
+        "title": "Egypt Personal Status Law — Custody Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/egypt/personal-status-law-25-1929-100-1985-2025-reforms/"
+      }
+    ],
+    "estonia": [
+      {
+        "jurisdiction": "estonia",
+        "slug": "perekonnaseadus-2010-vanemate-oigused",
+        "title": "Eesti Perekonnaseadus (2010) — Vanemate Oigused",
+        "html_url": "https://knowledge.antialienate.com/case-law/estonia/perekonnaseadus-2010-vanemate-oigused/"
+      }
+    ],
+    "ethiopia": [
+      {
+        "jurisdiction": "ethiopia",
+        "slug": "revised-family-code-2000-fdre-framework",
+        "title": "Ethiopia Revised Family Code 2000 — Federal + Regional Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/ethiopia/revised-family-code-2000-fdre-framework/"
+      }
+    ],
+    "european-court-of-human-rights": [
+      {
+        "jurisdiction": "european-court-of-human-rights",
+        "slug": "bondavalli-v-italy-2015-expert-mismanagement",
+        "title": "Bondavalli v. Italy (2015)",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-court-of-human-rights/bondavalli-v-italy-2015-expert-mismanagement/"
+      },
+      {
+        "jurisdiction": "european-court-of-human-rights",
+        "slug": "ignaccolo-zenide-v-romania-2000-foundational",
+        "title": "Ignaccolo-Zenide v. Romania, no. 31679/96 (25 January 2000)",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-court-of-human-rights/ignaccolo-zenide-v-romania-2000-foundational/"
+      },
+      {
+        "jurisdiction": "european-court-of-human-rights",
+        "slug": "improta-v-italy-2017-positive-obligation",
+        "title": "Improta v. Italy, no. 66396/14 (4 May 2017)",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-court-of-human-rights/improta-v-italy-2017-positive-obligation/"
+      },
+      {
+        "jurisdiction": "european-court-of-human-rights",
+        "slug": "pedersen-others-v-norway-2022-follow-up",
+        "title": "Pedersen and Others v. Norway, no. 39710/15 (10 March 2022)",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-court-of-human-rights/pedersen-others-v-norway-2022-follow-up/"
+      },
+      {
+        "jurisdiction": "european-court-of-human-rights",
+        "slug": "sahin-sommerfeld-v-germany-2003-hearing-the-child",
+        "title": "Sahin v Germany [GC] + Sommerfeld v Germany [GC] (8 July 2003) — The Hearing-the-Child Pair",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-court-of-human-rights/sahin-sommerfeld-v-germany-2003-hearing-the-child/"
+      },
+      {
+        "jurisdiction": "european-court-of-human-rights",
+        "slug": "solarino-v-italy-2017-protracted-inaction",
+        "title": "Solarino v. Italy (2017)",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-court-of-human-rights/solarino-v-italy-2017-protracted-inaction/"
+      },
+      {
+        "jurisdiction": "european-court-of-human-rights",
+        "slug": "strand-lobben-v-norway-grand-chamber-2019",
+        "title": "Strand Lobben and Others v. Norway [GC], no. 37283/13 (10 September 2019)",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-court-of-human-rights/strand-lobben-v-norway-grand-chamber-2019/"
+      }
+    ],
+    "european-union": [
+      {
+        "jurisdiction": "european-union",
+        "slug": "brussels-iib-regulation-2019-1111-articles-1-7-9-21-27",
+        "title": "Brussels IIb Regulation — Council Regulation (EU) 2019/1111",
+        "html_url": "https://knowledge.antialienate.com/case-law/european-union/brussels-iib-regulation-2019-1111-articles-1-7-9-21-27/"
+      }
+    ],
+    "finland": [
+      {
+        "jurisdiction": "finland",
+        "slug": "lapsenhuoltolaki-1-9-10-tapaamisoikeus-verbatim",
+        "title": "Lapsenhuoltolaki §§ 1 + 9 + 10 — Lapsen huolto + tapaamisoikeus + mielipide (verbatim, 2019 reform)",
+        "html_url": "https://knowledge.antialienate.com/case-law/finland/lapsenhuoltolaki-1-9-10-tapaamisoikeus-verbatim/"
+      },
+      {
+        "jurisdiction": "finland",
+        "slug": "lapsenhuoltolaki-1983-2019-reform",
+        "title": "Suomi Lapsenhuoltolaki (Child Custody Act 1983 + 2019 reform)",
+        "html_url": "https://knowledge.antialienate.com/case-law/finland/lapsenhuoltolaki-1983-2019-reform/"
+      },
+      {
+        "jurisdiction": "finland",
+        "slug": "marriage-act-234-1929-children-and-divorce-act-361-1983",
+        "title": "Finland — Marriage Act 234/1929 + Child Custody and Right of Access Act 361/1983",
+        "html_url": "https://knowledge.antialienate.com/case-law/finland/marriage-act-234-1929-children-and-divorce-act-361-1983/"
+      }
+    ],
+    "france": [
+      {
+        "jurisdiction": "france",
+        "slug": "cass-civ-1ere-22-mars-2023",
+        "title": "Cass. civ. 1ère, 22 mars 2023, n° 22-20.064 — French Cour de cassation on Coached Child Refusal",
+        "html_url": "https://knowledge.antialienate.com/case-law/france/cass-civ-1ere-22-mars-2023/"
+      },
+      {
+        "jurisdiction": "france",
+        "slug": "code-civil-371-1-377-autorite-parentale",
+        "title": "France Code Civil — Autorité Parentale (arts. 371-1 à 377)",
+        "html_url": "https://knowledge.antialienate.com/case-law/france/code-civil-371-1-377-autorite-parentale/"
+      },
+      {
+        "jurisdiction": "france",
+        "slug": "code-civil-371-377-loi-2024",
+        "title": "France — Code civil arts. 371–377 + Loi 2024-873 (violence intrafamiliale)",
+        "html_url": "https://knowledge.antialienate.com/case-law/france/code-civil-371-377-loi-2024/"
+      },
+      {
+        "jurisdiction": "france",
+        "slug": "code-civil-373-2-11-criteres-jaf-verbatim",
+        "title": "Code civil art. 373-2-11 — Critères du JAF (verbatim, 6 statutory factors)",
+        "html_url": "https://knowledge.antialienate.com/case-law/france/code-civil-373-2-11-criteres-jaf-verbatim/"
+      }
+    ],
+    "germany": [
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1626-1684-elterliche-sorge-umgang-verbatim",
+        "title": "BGB §§ 1626 & 1684 — Elterliche Sorge & Umgang des Kindes mit den Eltern",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1626-1684-elterliche-sorge-umgang-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1626-1685-fgg-amlg-2009",
+        "title": "Germany — BGB §§1626–1685 + FamFG 2009 + BVerfG joint-PR jurisprudence",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1626-1685-fgg-amlg-2009/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1626-1697b-elterliche-sorge",
+        "title": "Deutschland BGB §§ 1626-1697b — Elterliche Sorge",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1626-1697b-elterliche-sorge/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1626a-elterliche-sorge-unverheirateter-eltern-verbatim",
+        "title": "BGB § 1626a — Elterliche Sorge nicht miteinander verheirateter Eltern (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1626a-elterliche-sorge-unverheirateter-eltern-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1632-verbleibensanordnung-verbatim",
+        "title": "BGB § 1632 — Herausgabe des Kindes; Verbleibensanordnung bei Familienpflege (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1632-verbleibensanordnung-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1666-1671-kindeswohl-gefaehrdung-und-alleinsorge",
+        "title": "BGB §§ 1666 & 1671 — Welfare endangerment + sole custody during separation",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1666-1671-kindeswohl-gefaehrdung-und-alleinsorge/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1666-kindeswohlgefahrdung-verbatim",
+        "title": "BGB § 1666 — Gerichtliche Maßnahmen bei Gefährdung des Kindeswohls (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1666-kindeswohlgefahrdung-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1666a-verhaltnismassigkeit-verbatim",
+        "title": "BGB § 1666a — Grundsatz der Verhältnismäßigkeit; Vorrang öffentlicher Hilfen (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1666a-verhaltnismassigkeit-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1685-grandparents-siblings-contact-verbatim",
+        "title": "BGB § 1685 — Umgang des Kindes mit anderen Bezugspersonen (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1685-grandparents-siblings-contact-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1696-abanderung-gerichtlicher-entscheidungen-verbatim",
+        "title": "BGB § 1696 — Abänderung gerichtlicher Entscheidungen und gerichtlich gebilligter Vergleiche (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1696-abanderung-gerichtlicher-entscheidungen-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgb-1697a-kindeswohlprinzip-verbatim",
+        "title": "BGB § 1697a — Kindeswohlprinzip (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgb-1697a-kindeswohlprinzip-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "bgh-xii-zb-565-2018",
+        "title": "BGH XII ZB 565/15 — German Federal Court of Justice on Coached Child Wishes",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/bgh-xii-zb-565-2018/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "famfg-156-hinwirken-auf-einvernehmen-verbatim",
+        "title": "FamFG § 156 — Hinwirken auf Einvernehmen (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/famfg-156-hinwirken-auf-einvernehmen-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "famfg-158-verfahrensbeistand-verbatim",
+        "title": "FamFG § 158 — Bestellung eines Verfahrensbeistands (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/famfg-158-verfahrensbeistand-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "famfg-159-anhorung-des-kindes-verbatim",
+        "title": "FamFG § 159 — Persönliche Anhörung des Kindes (verbatim, post-2022 reform)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/famfg-159-anhorung-des-kindes-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "famfg-163-sachverstandigengutachten-verbatim",
+        "title": "FamFG § 163 — Sachverständigengutachten (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/famfg-163-sachverstandigengutachten-verbatim/"
+      },
+      {
+        "jurisdiction": "germany",
+        "slug": "stgb-235-entziehung-minderjahriger-verbatim",
+        "title": "StGB § 235 — Entziehung Minderjähriger (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/germany/stgb-235-entziehung-minderjahriger-verbatim/"
+      }
+    ],
+    "ghana": [
+      {
+        "jurisdiction": "ghana",
+        "slug": "childrens-act-1998-matrimonial-causes-act",
+        "title": "Ghana Children's Act 1998 + Matrimonial Causes Act 1971",
+        "html_url": "https://knowledge.antialienate.com/case-law/ghana/childrens-act-1998-matrimonial-causes-act/"
+      }
+    ],
+    "greece": [
+      {
+        "jurisdiction": "greece",
+        "slug": "astikos-kodikas-1442-1444-parental-care",
+        "title": "Ellada Astikos Kodikas — Goniki Merimna Reform (Law 4800/2021)",
+        "html_url": "https://knowledge.antialienate.com/case-law/greece/astikos-kodikas-1442-1444-parental-care/"
+      },
+      {
+        "jurisdiction": "greece",
+        "slug": "astikos-kodikas-1510-1513-1518-synepimeleia-verbatim",
+        "title": "Αστικός Κώδικας arts. 1510 + 1513 + 1518 — Γονική μέριμνα + συνεπιμέλεια + επικοινωνία (verbatim, post Ν. 4800/2021)",
+        "html_url": "https://knowledge.antialienate.com/case-law/greece/astikos-kodikas-1510-1513-1518-synepimeleia-verbatim/"
+      },
+      {
+        "jurisdiction": "greece",
+        "slug": "civil-code-arts-1505-1518-shared-parental-care-law-4800-2021",
+        "title": "Greece — Civil Code arts. 1505-1518 + Law 4800/2021 shared parental care reform",
+        "html_url": "https://knowledge.antialienate.com/case-law/greece/civil-code-arts-1505-1518-shared-parental-care-law-4800-2021/"
+      }
+    ],
+    "hague-conference-on-private-international-law": [
+      {
+        "jurisdiction": "hague-conference-on-private-international-law",
+        "slug": "hague-convention-1980-articles",
+        "title": "Hague Convention 1980 — Civil Aspects of International Child Abduction",
+        "html_url": "https://knowledge.antialienate.com/case-law/hague-conference-on-private-international-law/hague-convention-1980-articles/"
+      }
+    ],
+    "hong-kong": [
+      {
+        "jurisdiction": "hong-kong",
+        "slug": "guardianship-of-minors-ordinance-art-3-cap-13",
+        "title": "Hong Kong — Guardianship of Minors Ordinance (Cap. 13) + post-handover framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/hong-kong/guardianship-of-minors-ordinance-art-3-cap-13/"
+      },
+      {
+        "jurisdiction": "hong-kong",
+        "slug": "matrimonial-causes-ordinance-guardianship-of-minors",
+        "title": "Hong Kong Matrimonial Causes Ordinance + Guardianship of Minors Ordinance",
+        "html_url": "https://knowledge.antialienate.com/case-law/hong-kong/matrimonial-causes-ordinance-guardianship-of-minors/"
+      }
+    ],
+    "hungary": [
+      {
+        "jurisdiction": "hungary",
+        "slug": "civil-code-2013-arts-4-146-4-181-joint-parental-supervision",
+        "title": "Hungary — Civil Code 2013 arts. 4:146–4:181 + Kúria jurisprudence + Brussels IIb",
+        "html_url": "https://knowledge.antialienate.com/case-law/hungary/civil-code-2013-arts-4-146-4-181-joint-parental-supervision/"
+      },
+      {
+        "jurisdiction": "hungary",
+        "slug": "ptk-4-167-4-181-szuloi-felugyelet-verbatim",
+        "title": "Ptk IV. könyv §§ 4:167 + 4:171 + 4:178-181 — Szülői felügyelet + kapcsolattartás (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/hungary/ptk-4-167-4-181-szuloi-felugyelet-verbatim/"
+      },
+      {
+        "jurisdiction": "hungary",
+        "slug": "ptk-iv-konyv-csaladjog-2013",
+        "title": "Magyarorszag Polgari Torvenykonyv (Ptk 2013) — Csaladjog (Book IV)",
+        "html_url": "https://knowledge.antialienate.com/case-law/hungary/ptk-iv-konyv-csaladjog-2013/"
+      }
+    ],
+    "iceland": [
+      {
+        "jurisdiction": "iceland",
+        "slug": "barnalog-2003-parental-responsibility",
+        "title": "Island Barnalog 76/2003 — Foraldraabyrgo",
+        "html_url": "https://knowledge.antialienate.com/case-law/iceland/barnalog-2003-parental-responsibility/"
+      },
+      {
+        "jurisdiction": "iceland",
+        "slug": "barnalog-76-2003-art-43-childs-right-to-be-heard-verbatim",
+        "title": "Barnalög art. 43 — Child's right to be heard (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/iceland/barnalog-76-2003-art-43-childs-right-to-be-heard-verbatim/"
+      },
+      {
+        "jurisdiction": "iceland",
+        "slug": "barnalog-76-2003-arts-28-34-46-verbatim",
+        "title": "Barnalög nr. 76/2003 — arts. 28 + 34 + 46 (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/iceland/barnalog-76-2003-arts-28-34-46-verbatim/"
+      }
+    ],
+    "india": [
+      {
+        "jurisdiction": "india",
+        "slug": "family-law-framework-non-hague",
+        "title": "India — Family Law Framework + Non-Hague Status",
+        "html_url": "https://knowledge.antialienate.com/case-law/india/family-law-framework-non-hague/"
+      },
+      {
+        "jurisdiction": "india",
+        "slug": "guardians-and-wards-act-1890-hindu-minority-act-1956",
+        "title": "India — Guardians and Wards Act 1890 + Hindu Minority and Guardianship Act 1956",
+        "html_url": "https://knowledge.antialienate.com/case-law/india/guardians-and-wards-act-1890-hindu-minority-act-1956/"
+      }
+    ],
+    "indonesia": [
+      {
+        "jurisdiction": "indonesia",
+        "slug": "marriage-law-1974-child-protection-law-2002",
+        "title": "Indonesia — Marriage Law 1974 + Child Protection Law 2002",
+        "html_url": "https://knowledge.antialienate.com/case-law/indonesia/marriage-law-1974-child-protection-law-2002/"
+      }
+    ],
+    "iran": [
+      {
+        "jurisdiction": "iran",
+        "slug": "family-protection-law-2013-shia-jurisprudence",
+        "title": "Iran Family Protection Law 2013 + Civil Code — Shia Jurisprudence Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/iran/family-protection-law-2013-shia-jurisprudence/"
+      }
+    ],
+    "ireland": [
+      {
+        "jurisdiction": "ireland",
+        "slug": "guardianship-children-family-relationships-acts",
+        "title": "Ireland — Guardianship of Infants Act 1964 + Children and Family Relationships Act 2015",
+        "html_url": "https://knowledge.antialienate.com/case-law/ireland/guardianship-children-family-relationships-acts/"
+      },
+      {
+        "jurisdiction": "ireland",
+        "slug": "guardianship-of-infants-act-1964-family-law-act-2019",
+        "title": "Ireland — Guardianship of Infants Act 1964 + Family Law Act 2019",
+        "html_url": "https://knowledge.antialienate.com/case-law/ireland/guardianship-of-infants-act-1964-family-law-act-2019/"
+      },
+      {
+        "jurisdiction": "ireland",
+        "slug": "guardianship-of-infants-act-1964-s3-welfare-paramountcy-verbatim",
+        "title": "Guardianship of Infants Act 1964, s. 3 — Welfare paramountcy (verbatim, post-CFRA 2015)",
+        "html_url": "https://knowledge.antialienate.com/case-law/ireland/guardianship-of-infants-act-1964-s3-welfare-paramountcy-verbatim/"
+      }
+    ],
+    "israel": [
+      {
+        "jurisdiction": "israel",
+        "slug": "capacity-guardianship-law-1962-rabbinical-interplay",
+        "title": "Israel Capacity and Guardianship Law 1962 + Rabbinical-Civil Interplay",
+        "html_url": "https://knowledge.antialienate.com/case-law/israel/capacity-guardianship-law-1962-rabbinical-interplay/"
+      },
+      {
+        "jurisdiction": "israel",
+        "slug": "legal-capacity-and-guardianship-law-1962-rabbinical-civil-dual",
+        "title": "Israel — Legal Capacity and Guardianship Law 1962 + dual rabbinical/civil framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/israel/legal-capacity-and-guardianship-law-1962-rabbinical-civil-dual/"
+      }
+    ],
+    "italy": [
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-316-responsabilita-genitoriale",
+        "title": "Codice Civile art. 316 — Responsabilità genitoriale",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-316-responsabilita-genitoriale/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-330-decadenza-responsabilita-genitoriale",
+        "title": "Codice Civile, art. 330 — Decadenza dalla responsabilità genitoriale sui figli",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-330-decadenza-responsabilita-genitoriale/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-332-reintegrazione-responsabilita-genitoriale",
+        "title": "Codice Civile, art. 332 — Reintegrazione nella responsabilità genitoriale",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-332-reintegrazione-responsabilita-genitoriale/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-333-condotta-pregiudizievole",
+        "title": "Codice Civile, art. 333 — Condotta del genitore pregiudizievole ai figli",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-333-condotta-pregiudizievole/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-bis-octies",
+        "title": "Italy — Codice Civile Art. 337-bis to 337-octies (Affidamento + Family Court Powers)",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-bis-octies/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-bis-procedural-trigger",
+        "title": "Codice Civile art. 337-bis — Ambito di applicazione",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-bis-procedural-trigger/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-octies-ascolto-del-minore",
+        "title": "Codice Civile art. 337-octies — Poteri del giudice e ascolto del minore",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-octies-ascolto-del-minore/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-quater-affidamento-esclusivo",
+        "title": "Codice Civile art. 337-quater — Affidamento ad un solo genitore",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-quater-affidamento-esclusivo/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-quater-affidamento-esclusivo-verbatim",
+        "title": "Codice Civile, art. 337-quater — Affidamento a un solo genitore (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-quater-affidamento-esclusivo-verbatim/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-quinquies-revisione",
+        "title": "Codice Civile art. 337-quinquies — Revisione delle disposizioni",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-quinquies-revisione/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-septies-figli-maggiorenni",
+        "title": "Codice Civile, art. 337-septies — Disposizioni in favore dei figli maggiorenni",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-septies-figli-maggiorenni/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-sexies-family-home-and-residence",
+        "title": "Codice Civile, art. 337-sexies — Assegnazione della casa familiare e prescrizioni in tema di residenza",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-sexies-family-home-and-residence/"
+      },
+      {
+        "jurisdiction": "italy",
+        "slug": "codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli",
+        "title": "Codice Civile art. 337-ter — Provvedimenti riguardo ai figli",
+        "html_url": "https://knowledge.antialienate.com/case-law/italy/codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli/"
+      }
+    ],
+    "japan": [
+      {
+        "jurisdiction": "japan",
+        "slug": "civil-code-arts-818-819-824-2-shared-custody-2024-reform-verbatim",
+        "title": "民法 (Civil Code) arts. 818 + 819 + 824-2 — Joint custody + alternation framework (verbatim, 2024 reform)",
+        "html_url": "https://knowledge.antialienate.com/case-law/japan/civil-code-arts-818-819-824-2-shared-custody-2024-reform-verbatim/"
+      },
+      {
+        "jurisdiction": "japan",
+        "slug": "civil-code-arts-818-820-sole-custody-tradition-2024-reform",
+        "title": "Japan — Civil Code arts. 818-820 + 2024 joint-custody reform (Reiwa 6, first since 1898)",
+        "html_url": "https://knowledge.antialienate.com/case-law/japan/civil-code-arts-818-820-sole-custody-tradition-2024-reform/"
+      }
+    ],
+    "kenya": [
+      {
+        "jurisdiction": "kenya",
+        "slug": "children-act-2022-parental-responsibility",
+        "title": "Kenya Children Act 2022 — Parental Responsibility",
+        "html_url": "https://knowledge.antialienate.com/case-law/kenya/children-act-2022-parental-responsibility/"
+      },
+      {
+        "jurisdiction": "kenya",
+        "slug": "childrens-act-2022-marriage-act-2014",
+        "title": "Kenya — Children's Act 2022 + Marriage Act 2014",
+        "html_url": "https://knowledge.antialienate.com/case-law/kenya/childrens-act-2022-marriage-act-2014/"
+      }
+    ],
+    "korea": [
+      {
+        "jurisdiction": "korea",
+        "slug": "civil-act-arts-909-927-2025-joint-custody-default",
+        "title": "South Korea — Civil Act arts. 909–927 + 2025 joint-custody default reform",
+        "html_url": "https://knowledge.antialienate.com/case-law/korea/civil-act-arts-909-927-2025-joint-custody-default/"
+      }
+    ],
+    "latvia": [
+      {
+        "jurisdiction": "latvia",
+        "slug": "civillikums-177-203-vecaku-varas",
+        "title": "Latvija Civillikums — Pirma Dala (Vecaku Varas, Bernu Tiesibas)",
+        "html_url": "https://knowledge.antialienate.com/case-law/latvia/civillikums-177-203-vecaku-varas/"
+      }
+    ],
+    "libya": [
+      {
+        "jurisdiction": "libya",
+        "slug": "marriage-divorce-law-1984-post-2011-instability",
+        "title": "Libya Marriage and Divorce Law 1984 — Post-2011 Instability Context",
+        "html_url": "https://knowledge.antialienate.com/case-law/libya/marriage-divorce-law-1984-post-2011-instability/"
+      }
+    ],
+    "lithuania": [
+      {
+        "jurisdiction": "lithuania",
+        "slug": "civilinis-kodeksas-3-156-3-178-tevu-valdzia",
+        "title": "Lietuva Civilinis Kodeksas — Trecioji Knyga (Family Law)",
+        "html_url": "https://knowledge.antialienate.com/case-law/lithuania/civilinis-kodeksas-3-156-3-178-tevu-valdzia/"
+      }
+    ],
+    "malaysia": [
+      {
+        "jurisdiction": "malaysia",
+        "slug": "lra-1976-syariah-courts-parallel-jurisdiction",
+        "title": "Malaysia LRA 1976 + Syariah Courts — Dual-System Family Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/malaysia/lra-1976-syariah-courts-parallel-jurisdiction/"
+      }
+    ],
+    "mexico": [
+      {
+        "jurisdiction": "mexico",
+        "slug": "civil-code-codeqr-federal-state-pa-statutes",
+        "title": "Mexico — Federal Civil Code + state PA statutes (CDMX, Estado de México, Nuevo León)",
+        "html_url": "https://knowledge.antialienate.com/case-law/mexico/civil-code-codeqr-federal-state-pa-statutes/"
+      },
+      {
+        "jurisdiction": "mexico",
+        "slug": "codigo-civil-cdmx-art-323-septimus-alienacion-parental-verbatim",
+        "title": "Código Civil CDMX art. 323 Septimus — Alienación parental (verbatim, reforma 2014)",
+        "html_url": "https://knowledge.antialienate.com/case-law/mexico/codigo-civil-cdmx-art-323-septimus-alienacion-parental-verbatim/"
+      },
+      {
+        "jurisdiction": "mexico",
+        "slug": "codigo-civil-hague-framework",
+        "title": "Mexico — Código Civil + Hague Convention Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/mexico/codigo-civil-hague-framework/"
+      }
+    ],
+    "morocco": [
+      {
+        "jurisdiction": "morocco",
+        "slug": "moudawana-2004-family-code-reform",
+        "title": "Morocco Moudawana 2004 — Family Code Reform",
+        "html_url": "https://knowledge.antialienate.com/case-law/morocco/moudawana-2004-family-code-reform/"
+      }
+    ],
+    "netherlands": [
+      {
+        "jurisdiction": "netherlands",
+        "slug": "burgerlijk-wetboek-1-251-377-jeugdwet-2015",
+        "title": "Netherlands — BW 1:251–377 + Jeugdwet 2015 + mandatory ouderschapsplan",
+        "html_url": "https://knowledge.antialienate.com/case-law/netherlands/burgerlijk-wetboek-1-251-377-jeugdwet-2015/"
+      },
+      {
+        "jurisdiction": "netherlands",
+        "slug": "burgerlijk-wetboek-boek-1-omgangsregeling",
+        "title": "Netherlands — Burgerlijk Wetboek Boek 1 (Parental Responsibility + Contact)",
+        "html_url": "https://knowledge.antialienate.com/case-law/netherlands/burgerlijk-wetboek-boek-1-omgangsregeling/"
+      },
+      {
+        "jurisdiction": "netherlands",
+        "slug": "bw-1-377a-omgangsregeling-verbatim",
+        "title": "Burgerlijk Wetboek 1:377a — Recht op omgang (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/netherlands/bw-1-377a-omgangsregeling-verbatim/"
+      }
+    ],
+    "new-zealand": [
+      {
+        "jurisdiction": "new-zealand",
+        "slug": "care-of-children-act-2004",
+        "title": "Care of Children Act 2004 (NZ) — Day-to-Day Care + Contact Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/new-zealand/care-of-children-act-2004/"
+      },
+      {
+        "jurisdiction": "new-zealand",
+        "slug": "care-of-children-act-2004-amendments-2025",
+        "title": "New Zealand — Care of Children Act 2004 + 2025 amendments + Trans-Tasman framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/new-zealand/care-of-children-act-2004-amendments-2025/"
+      },
+      {
+        "jurisdiction": "new-zealand",
+        "slug": "care-of-children-act-s4-5-6-verbatim-2025-amendments",
+        "title": "Care of Children Act 2004 ss. 4 + 5 + 6 — Welfare and best interests + principles + child's views (verbatim, post-2025 amendments)",
+        "html_url": "https://knowledge.antialienate.com/case-law/new-zealand/care-of-children-act-s4-5-6-verbatim-2025-amendments/"
+      }
+    ],
+    "nigeria": [
+      {
+        "jurisdiction": "nigeria",
+        "slug": "child-rights-act-2003-matrimonial-causes-act",
+        "title": "Nigeria Child Rights Act 2003 + Matrimonial Causes Act 1970 — Custody Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/nigeria/child-rights-act-2003-matrimonial-causes-act/"
+      },
+      {
+        "jurisdiction": "nigeria",
+        "slug": "matrimonial-causes-act-1970-childs-rights-act-2003",
+        "title": "Nigeria — Matrimonial Causes Act 1970 + Child's Rights Act 2003",
+        "html_url": "https://knowledge.antialienate.com/case-law/nigeria/matrimonial-causes-act-1970-childs-rights-act-2003/"
+      }
+    ],
+    "norway": [
+      {
+        "jurisdiction": "norway",
+        "slug": "barnelova-1981-parental-responsibility",
+        "title": "Norway Barnelova — Lov om barn og foreldre (1981)",
+        "html_url": "https://knowledge.antialienate.com/case-law/norway/barnelova-1981-parental-responsibility/"
+      },
+      {
+        "jurisdiction": "norway",
+        "slug": "barnelova-1981-s-31-childs-right-to-influence-verbatim",
+        "title": "Barnelova § 31 — Child's right to influence decisions (verbatim, official EN translation)",
+        "html_url": "https://knowledge.antialienate.com/case-law/norway/barnelova-1981-s-31-childs-right-to-influence-verbatim/"
+      },
+      {
+        "jurisdiction": "norway",
+        "slug": "barnelova-1981-ss-42-43-samvaersrett-verbatim",
+        "title": "Barnelova §§ 42-43a — Samværsrett + supervised access (verbatim, official EN translation)",
+        "html_url": "https://knowledge.antialienate.com/case-law/norway/barnelova-1981-ss-42-43-samvaersrett-verbatim/"
+      },
+      {
+        "jurisdiction": "norway",
+        "slug": "barneloven-1981-strand-lobben-pedersen-line",
+        "title": "Norway — Barneloven 1981 + Barnevernloven 2021 + ECHR Strand Lobben/Pedersen line",
+        "html_url": "https://knowledge.antialienate.com/case-law/norway/barneloven-1981-strand-lobben-pedersen-line/"
+      },
+      {
+        "jurisdiction": "norway",
+        "slug": "barneloven-48-barnets-beste-verbatim",
+        "title": "Barnelova § 48 — Det viktigaste omsynet til barnets beste (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/norway/barneloven-48-barnets-beste-verbatim/"
+      }
+    ],
+    "pakistan": [
+      {
+        "jurisdiction": "pakistan",
+        "slug": "guardians-and-wards-act-1890-family-courts-act-1964",
+        "title": "Pakistan — Guardians and Wards Act 1890 + Family Courts Act 1964",
+        "html_url": "https://knowledge.antialienate.com/case-law/pakistan/guardians-and-wards-act-1890-family-courts-act-1964/"
+      },
+      {
+        "jurisdiction": "pakistan",
+        "slug": "muslim-family-laws-ordinance-guardians-wards-act",
+        "title": "Pakistan Muslim Family Laws Ordinance 1961 + Guardians and Wards Act 1890",
+        "html_url": "https://knowledge.antialienate.com/case-law/pakistan/muslim-family-laws-ordinance-guardians-wards-act/"
+      }
+    ],
+    "peru": [
+      {
+        "jurisdiction": "peru",
+        "slug": "codigo-civil-arts-418-446-2024-codigo-de-ninos",
+        "title": "Peru — Código Civil + Código de los Niños y Adolescentes 2024",
+        "html_url": "https://knowledge.antialienate.com/case-law/peru/codigo-civil-arts-418-446-2024-codigo-de-ninos/"
+      },
+      {
+        "jurisdiction": "peru",
+        "slug": "codigo-civil-codigo-ninos-adolescentes",
+        "title": "Peru Codigo Civil + Codigo de los Ninos y Adolescentes",
+        "html_url": "https://knowledge.antialienate.com/case-law/peru/codigo-civil-codigo-ninos-adolescentes/"
+      }
+    ],
+    "philippines": [
+      {
+        "jurisdiction": "philippines",
+        "slug": "family-code-1987-no-divorce-non-hague",
+        "title": "Philippines Family Code 1987 — Custody Framework + No-Divorce Context",
+        "html_url": "https://knowledge.antialienate.com/case-law/philippines/family-code-1987-no-divorce-non-hague/"
+      }
+    ],
+    "poland": [
+      {
+        "jurisdiction": "poland",
+        "slug": "kodeks-rodzinny-art-113-113-6-kontakty-verbatim",
+        "title": "Kodeks rodzinny i opiekuńczy art. 113 + 113¹-113⁶ — Kontakty z dzieckiem (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/poland/kodeks-rodzinny-art-113-113-6-kontakty-verbatim/"
+      },
+      {
+        "jurisdiction": "poland",
+        "slug": "kodeks-rodzinny-i-opiekunczy-art-95-114a",
+        "title": "Poland — Kodeks rodzinny i opiekuńczy (KRO) arts. 95–114a + 2023 alienation amendments",
+        "html_url": "https://knowledge.antialienate.com/case-law/poland/kodeks-rodzinny-i-opiekunczy-art-95-114a/"
+      },
+      {
+        "jurisdiction": "poland",
+        "slug": "kodeks-rodzinny-opiekunczy-kro-jurisprudence",
+        "title": "Polska Kodeks Rodzinny i Opiekunczy (KRO) — Wladza Rodzicielska",
+        "html_url": "https://knowledge.antialienate.com/case-law/poland/kodeks-rodzinny-opiekunczy-kro-jurisprudence/"
+      }
+    ],
+    "portugal": [
+      {
+        "jurisdiction": "portugal",
+        "slug": "codigo-civil-art-1906-lei-61-2008",
+        "title": "Portugal Codigo Civil art. 1906 + Lei 61/2008",
+        "html_url": "https://knowledge.antialienate.com/case-law/portugal/codigo-civil-art-1906-lei-61-2008/"
+      },
+      {
+        "jurisdiction": "portugal",
+        "slug": "codigo-civil-art-1906-responsabilidades-parentais-verbatim",
+        "title": "Código Civil art. 1906 — Exercício das responsabilidades parentais em caso de divórcio (verbatim, Lei 61/2008 + 65/2020)",
+        "html_url": "https://knowledge.antialienate.com/case-law/portugal/codigo-civil-art-1906-responsabilidades-parentais-verbatim/"
+      },
+      {
+        "jurisdiction": "portugal",
+        "slug": "codigo-civil-arts-1901-1912-2008-divorce-reform",
+        "title": "Portugal — Código Civil arts. 1901–1912 + 2008 divorce reform + lusophone framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/portugal/codigo-civil-arts-1901-1912-2008-divorce-reform/"
+      }
+    ],
+    "romania": [
+      {
+        "jurisdiction": "romania",
+        "slug": "codul-civil-art-262-264-396-505-autoritatea-parinteasca-verbatim",
+        "title": "Codul civil arts. 262 + 264 + 396 + 401 + 487 + 505 — Autoritatea părintească + relațiile personale (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/romania/codul-civil-art-262-264-396-505-autoritatea-parinteasca-verbatim/"
+      },
+      {
+        "jurisdiction": "romania",
+        "slug": "codul-civil-art-262-403-autoritatea-parinteasca",
+        "title": "Romania Codul Civil — Autoritatea Parinteasca",
+        "html_url": "https://knowledge.antialienate.com/case-law/romania/codul-civil-art-262-403-autoritatea-parinteasca/"
+      },
+      {
+        "jurisdiction": "romania",
+        "slug": "codul-civil-arts-483-512-2024-amendments",
+        "title": "Romania — Codul civil arts. 483–512 + ICCJ jurisprudence + Ignaccolo-Zenide foundational",
+        "html_url": "https://knowledge.antialienate.com/case-law/romania/codul-civil-arts-483-512-2024-amendments/"
+      }
+    ],
+    "russia": [
+      {
+        "jurisdiction": "russia",
+        "slug": "semeyniy-kodeks-1995-post-2022-echr-withdrawal",
+        "title": "Russia Semeyniy Kodeks 1995 — Post-2022 Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/russia/semeyniy-kodeks-1995-post-2022-echr-withdrawal/"
+      }
+    ],
+    "saudi-arabia": [
+      {
+        "jurisdiction": "saudi-arabia",
+        "slug": "personal-status-law-2022-hanbali-hadana",
+        "title": "Saudi Arabia — Personal Status Law 2022 (first codified family law)",
+        "html_url": "https://knowledge.antialienate.com/case-law/saudi-arabia/personal-status-law-2022-hanbali-hadana/"
+      },
+      {
+        "jurisdiction": "saudi-arabia",
+        "slug": "personal-status-law-2022-shariah-framework",
+        "title": "Saudi Arabia Personal Status Law 2022 — First Codification of Family Law",
+        "html_url": "https://knowledge.antialienate.com/case-law/saudi-arabia/personal-status-law-2022-shariah-framework/"
+      }
+    ],
+    "serbia": [
+      {
+        "jurisdiction": "serbia",
+        "slug": "porodicni-zakon-2005-roditeljska-prava",
+        "title": "Srbija Porodicni Zakon (18/2005)",
+        "html_url": "https://knowledge.antialienate.com/case-law/serbia/porodicni-zakon-2005-roditeljska-prava/"
+      }
+    ],
+    "singapore": [
+      {
+        "jurisdiction": "singapore",
+        "slug": "womens-charter-arts-122-129-guardianship-of-infants-act",
+        "title": "Singapore — Women's Charter arts. 122–129 + Guardianship of Infants Act",
+        "html_url": "https://knowledge.antialienate.com/case-law/singapore/womens-charter-arts-122-129-guardianship-of-infants-act/"
+      },
+      {
+        "jurisdiction": "singapore",
+        "slug": "womens-charter-guardianship-of-infants-act",
+        "title": "Singapore Women's Charter + Guardianship of Infants Act",
+        "html_url": "https://knowledge.antialienate.com/case-law/singapore/womens-charter-guardianship-of-infants-act/"
+      }
+    ],
+    "slovakia": [
+      {
+        "jurisdiction": "slovakia",
+        "slug": "zakon-o-rodine-24-25-28-rodicovska-zodpovednost-verbatim",
+        "title": "Zákon o rodine §§ 24 + 25 + 28 — Rodičovská zodpovednosť + styk + úprava (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/slovakia/zakon-o-rodine-24-25-28-rodicovska-zodpovednost-verbatim/"
+      },
+      {
+        "jurisdiction": "slovakia",
+        "slug": "zakon-o-rodine-36-2005-rodicovska-prava",
+        "title": "Slovensko Zakon o rodine 36/2005",
+        "html_url": "https://knowledge.antialienate.com/case-law/slovakia/zakon-o-rodine-36-2005-rodicovska-prava/"
+      }
+    ],
+    "slovenia": [
+      {
+        "jurisdiction": "slovenia",
+        "slug": "druzinski-zakonik-141-143-144-stiki-verbatim",
+        "title": "Družinski zakonik arts. 141 + 143 + 144 — Skupna starševska skrb + stiki (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/slovenia/druzinski-zakonik-141-143-144-stiki-verbatim/"
+      },
+      {
+        "jurisdiction": "slovenia",
+        "slug": "druzinski-zakonik-2017-druzinske-pravo",
+        "title": "Slovenija Druzinski Zakonik (DZ) 2017",
+        "html_url": "https://knowledge.antialienate.com/case-law/slovenia/druzinski-zakonik-2017-druzinske-pravo/"
+      }
+    ],
+    "south-africa": [
+      {
+        "jurisdiction": "south-africa",
+        "slug": "childrens-act-38-2005-best-interests-section-7",
+        "title": "South Africa — Children's Act 38 of 2005 + Section 7 best-interest factors",
+        "html_url": "https://knowledge.antialienate.com/case-law/south-africa/childrens-act-38-2005-best-interests-section-7/"
+      },
+      {
+        "jurisdiction": "south-africa",
+        "slug": "childrens-act-38-of-2005",
+        "title": "South Africa — Children's Act 38 of 2005",
+        "html_url": "https://knowledge.antialienate.com/case-law/south-africa/childrens-act-38-of-2005/"
+      }
+    ],
+    "south-korea": [
+      {
+        "jurisdiction": "south-korea",
+        "slug": "civil-act-family-litigation-act-parental-authority",
+        "title": "South Korea Civil Act + Family Litigation Act — Parental Authority",
+        "html_url": "https://knowledge.antialienate.com/case-law/south-korea/civil-act-family-litigation-act-parental-authority/"
+      }
+    ],
+    "spain": [
+      {
+        "jurisdiction": "spain",
+        "slug": "codigo-civil-art-92-94-156-custodia-compartida-verbatim",
+        "title": "Código Civil arts. 92 + 94 + 156 — Patria potestad + custodia + régimen de visitas (verbatim, post LO 8/2021)",
+        "html_url": "https://knowledge.antialienate.com/case-law/spain/codigo-civil-art-92-94-156-custodia-compartida-verbatim/"
+      },
+      {
+        "jurisdiction": "spain",
+        "slug": "codigo-civil-arts-92-154-156-158-patria-potestad-y-custodia",
+        "title": "Código Civil español — arts. 92, 154, 156, 158",
+        "html_url": "https://knowledge.antialienate.com/case-law/spain/codigo-civil-arts-92-154-156-158-patria-potestad-y-custodia/"
+      },
+      {
+        "jurisdiction": "spain",
+        "slug": "codigo-civil-arts-92-94-156-strumia-2022",
+        "title": "Spain — Código Civil arts. 92-94, 156 + Tribunal Supremo PA jurisprudence",
+        "html_url": "https://knowledge.antialienate.com/case-law/spain/codigo-civil-arts-92-94-156-strumia-2022/"
+      },
+      {
+        "jurisdiction": "spain",
+        "slug": "codigo-civil-custodia-compartida-ts-jurisprudence",
+        "title": "Espana Codigo Civil — Custodia Compartida + Sindrome de Alienacion Parental",
+        "html_url": "https://knowledge.antialienate.com/case-law/spain/codigo-civil-custodia-compartida-ts-jurisprudence/"
+      },
+      {
+        "jurisdiction": "spain",
+        "slug": "lopivi-2021-art-11-derecho-victimas-escuchadas",
+        "title": "Ley Orgánica 8/2021 (LOPIVI), Artículo 11 — Derecho de las víctimas a ser escuchadas (inadmissió del 'Síndrome de Alienación Parental')",
+        "html_url": "https://knowledge.antialienate.com/case-law/spain/lopivi-2021-art-11-derecho-victimas-escuchadas/"
+      },
+      {
+        "jurisdiction": "spain",
+        "slug": "tribunal-supremo-sap-pa-doctrine",
+        "title": "Tribunal Supremo (Spain) — Coached Refusal + Alienating Behaviors Doctrine Line",
+        "html_url": "https://knowledge.antialienate.com/case-law/spain/tribunal-supremo-sap-pa-doctrine/"
+      }
+    ],
+    "sri-lanka": [
+      {
+        "jurisdiction": "sri-lanka",
+        "slug": "marriage-and-divorce-ordinance-19-roman-dutch-tesawalamai",
+        "title": "Sri Lanka — Marriage and Divorce Ordinance + Roman-Dutch + Tesawalamai + Muslim personal laws",
+        "html_url": "https://knowledge.antialienate.com/case-law/sri-lanka/marriage-and-divorce-ordinance-19-roman-dutch-tesawalamai/"
+      }
+    ],
+    "sweden": [
+      {
+        "jurisdiction": "sweden",
+        "slug": "foraldrabalken-chapter-6-parental-rights",
+        "title": "Sverige Foraldrabalken Chapter 6",
+        "html_url": "https://knowledge.antialienate.com/case-law/sweden/foraldrabalken-chapter-6-parental-rights/"
+      },
+      {
+        "jurisdiction": "sweden",
+        "slug": "foraldrabalken-kap-6-2a-5-15-verbatim",
+        "title": "Föräldrabalken kap 6 §§ 2a + 5 + 15 — barnets bästa, vårdnadsbeslut, umgängesrätt (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/sweden/foraldrabalken-kap-6-2a-5-15-verbatim/"
+      },
+      {
+        "jurisdiction": "sweden",
+        "slug": "foraldrabalken-kap-6-2a-barnets-basta-verbatim",
+        "title": "Föräldrabalken 6 kap. 2a § — Barnets bästa (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/sweden/foraldrabalken-kap-6-2a-barnets-basta-verbatim/"
+      },
+      {
+        "jurisdiction": "sweden",
+        "slug": "foraldrabalken-shared-custody-presumption",
+        "title": "Sweden — Föräldrabalken 6 kap + 2006 shared-custody presumption + 2021 strengthened risk-assessment",
+        "html_url": "https://knowledge.antialienate.com/case-law/sweden/foraldrabalken-shared-custody-presumption/"
+      }
+    ],
+    "switzerland": [
+      {
+        "jurisdiction": "switzerland",
+        "slug": "zgb-296-298-rev-2014-shared-parental-authority",
+        "title": "Switzerland — ZGB arts. 296–298 + 2014 shared parental authority reform",
+        "html_url": "https://knowledge.antialienate.com/case-law/switzerland/zgb-296-298-rev-2014-shared-parental-authority/"
+      },
+      {
+        "jurisdiction": "switzerland",
+        "slug": "zgb-307-308-kindesschutzmassnahmen-verbatim",
+        "title": "ZGB arts. 307 + 308 — Kindesschutzmaßnahmen + Beistandschaft (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/switzerland/zgb-307-308-kindesschutzmassnahmen-verbatim/"
+      },
+      {
+        "jurisdiction": "switzerland",
+        "slug": "zgb-art-273-275a-elterliche-sorge",
+        "title": "Schweizerisches Zivilgesetzbuch — Art. 273-275a: Personal Relations & Parental Alienation",
+        "html_url": "https://knowledge.antialienate.com/case-law/switzerland/zgb-art-273-275a-elterliche-sorge/"
+      }
+    ],
+    "taiwan": [
+      {
+        "jurisdiction": "taiwan",
+        "slug": "civil-code-1085-1090-parental-rights",
+        "title": "Taiwan Civil Code (1930) + Family Procedure Act (2012)",
+        "html_url": "https://knowledge.antialienate.com/case-law/taiwan/civil-code-1085-1090-parental-rights/"
+      }
+    ],
+    "thailand": [
+      {
+        "jurisdiction": "thailand",
+        "slug": "civil-commercial-code-family-courts-act",
+        "title": "Thailand Civil and Commercial Code + Family Courts Act",
+        "html_url": "https://knowledge.antialienate.com/case-law/thailand/civil-commercial-code-family-courts-act/"
+      }
+    ],
+    "tunisia": [
+      {
+        "jurisdiction": "tunisia",
+        "slug": "personal-status-code-1956-bourguiba-reform",
+        "title": "Tunisia Code of Personal Status 1956 — Bourguiba Reform",
+        "html_url": "https://knowledge.antialienate.com/case-law/tunisia/personal-status-code-1956-bourguiba-reform/"
+      }
+    ],
+    "turkey": [
+      {
+        "jurisdiction": "turkey",
+        "slug": "civil-code-2001-art-336-355-hague-1980",
+        "title": "Türkiye — Civil Code 2001 (arts. 336–355) + Hague 1980 + ECHR",
+        "html_url": "https://knowledge.antialienate.com/case-law/turkey/civil-code-2001-art-336-355-hague-1980/"
+      },
+      {
+        "jurisdiction": "turkey",
+        "slug": "turk-medeni-kanunu-2001-velayet",
+        "title": "Turkey Turk Medeni Kanunu (2001) — Velayet",
+        "html_url": "https://knowledge.antialienate.com/case-law/turkey/turk-medeni-kanunu-2001-velayet/"
+      }
+    ],
+    "uae": [
+      {
+        "jurisdiction": "uae",
+        "slug": "personal-status-law-28-2005-2024-amendments",
+        "title": "UAE — Federal Personal Status Law 28/2005 + 2024 amendments + non-Muslim civil family law",
+        "html_url": "https://knowledge.antialienate.com/case-law/uae/personal-status-law-28-2005-2024-amendments/"
+      }
+    ],
+    "ukraine": [
+      {
+        "jurisdiction": "ukraine",
+        "slug": "simeyniy-kodeks-141-155-batkivski-prava",
+        "title": "Ukraina Simeyniy Kodeks — Batkivski Prava",
+        "html_url": "https://knowledge.antialienate.com/case-law/ukraine/simeyniy-kodeks-141-155-batkivski-prava/"
+      }
+    ],
+    "uncrc": [
+      {
+        "jurisdiction": "uncrc",
+        "slug": "un-crc-general-comment-14-best-interests-as-primary-consideration",
+        "title": "UN CRC General Comment No. 14 (2013) — Best interests of the child as a primary consideration",
+        "html_url": "https://knowledge.antialienate.com/case-law/uncrc/un-crc-general-comment-14-best-interests-as-primary-consideration/"
+      },
+      {
+        "jurisdiction": "uncrc",
+        "slug": "uncrc-articles-3-9-12-best-interests-non-separation-views-of-child",
+        "title": "UN Convention on the Rights of the Child — Articles 3, 9, and 12",
+        "html_url": "https://knowledge.antialienate.com/case-law/uncrc/uncrc-articles-3-9-12-best-interests-non-separation-views-of-child/"
+      }
+    ],
+    "united-arab-emirates": [
+      {
+        "jurisdiction": "united-arab-emirates",
+        "slug": "personal-status-law-2005-2022-reforms",
+        "title": "UAE Personal Status Law — Custody Framework + Expat Complexity",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-arab-emirates/personal-status-law-2005-2022-reforms/"
+      }
+    ],
+    "united-kingdom": [
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-1",
+        "title": "Children Act 1989 section 1 — Welfare of the child",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-1/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-11",
+        "title": "Children Act 1989 section 11 — General principles and supplementary provisions",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-11/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-11J-enforcement-orders-verbatim",
+        "title": "Children Act 1989, s. 11J — Enforcement orders (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-11J-enforcement-orders-verbatim/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-11O-compensation-orders-verbatim",
+        "title": "Children Act 1989, s. 11O — Compensation for financial loss (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-11O-compensation-orders-verbatim/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-12-parental-responsibility-residence-verbatim",
+        "title": "Children Act 1989, s. 12 — Residence and parental responsibility (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-12-parental-responsibility-residence-verbatim/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-16-family-assistance-orders",
+        "title": "Children Act 1989 section 16 — Family assistance orders",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-16-family-assistance-orders/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-31-care-and-supervision-orders",
+        "title": "Children Act 1989, Section 31 — Care and Supervision Orders",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-31-care-and-supervision-orders/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-34-parental-contact-with-children-in-care",
+        "title": "Children Act 1989, Section 34 — Parental Contact with Children in Care",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-34-parental-contact-with-children-in-care/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-38-interim-orders",
+        "title": "Children Act 1989, Section 38 — Interim Care and Supervision Orders",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-38-interim-orders/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-4-fathers-parental-responsibility-verbatim",
+        "title": "Children Act 1989, s. 4 — Acquisition of parental responsibility by father (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-4-fathers-parental-responsibility-verbatim/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-41-representation-of-child",
+        "title": "Children Act 1989, Section 41 — Representation of Child (Children's Guardian)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-41-representation-of-child/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-7-welfare-reports-verbatim",
+        "title": "Children Act 1989, s. 7 — Welfare reports (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-7-welfare-reports-verbatim/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-8",
+        "title": "Children Act 1989 section 8 — Child arrangements orders and other orders with respect to children",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-8/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-91-effect-and-duration-of-orders",
+        "title": "Children Act 1989, Section 91 — Effect and Duration of Orders, including s.91(14) Barring Orders",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-91-effect-and-duration-of-orders/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-section-91A-barring-order-further-provision",
+        "title": "Children Act 1989, Section 91A — Section 91(14) Orders: Further Provision (2022 amendment)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-section-91A-barring-order-further-provision/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-sections-11J-11O-enforcement-orders",
+        "title": "Children Act 1989 ss.11J & 11O — Enforcement orders + financial compensation",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-sections-11J-11O-enforcement-orders/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-act-1989-sections-91-and-91A-anti-vexatious-orders",
+        "title": "Children Act 1989 ss.91 + 91A — Effect/duration of orders + s.91(14) anti-vexatious-application restrictions",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-act-1989-sections-91-and-91A-anti-vexatious-orders/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-and-families-act-2014-section-10-miam",
+        "title": "Children and Families Act 2014, Section 10 — Family Mediation Information and Assessment Meetings (MIAMs)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-and-families-act-2014-section-10-miam/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-and-families-act-2014-section-11-parental-involvement",
+        "title": "Children and Families Act 2014, Section 11 — Welfare of the Child: Parental Involvement",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-and-families-act-2014-section-11-parental-involvement/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-and-families-act-2014-section-13-expert-evidence",
+        "title": "Children and Families Act 2014, Section 13 — Control of Expert Evidence and Assessments in Children Proceedings",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-and-families-act-2014-section-13-expert-evidence/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "children-and-families-act-2014-section-14-26-week-time-limit",
+        "title": "Children and Families Act 2014, Section 14 — 26-Week Time Limit for Care, Supervision and Family Proceedings",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/children-and-families-act-2014-section-14-26-week-time-limit/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "domestic-abuse-act-2021-section-1-definition",
+        "title": "Domestic Abuse Act 2021, Section 1 — Statutory Definition of Domestic Abuse",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/domestic-abuse-act-2021-section-1-definition/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "domestic-abuse-act-2021-section-2-personally-connected",
+        "title": "Domestic Abuse Act 2021, Section 2 — Definition of 'Personally Connected'",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/domestic-abuse-act-2021-section-2-personally-connected/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "domestic-abuse-act-2021-section-63-special-measures-family",
+        "title": "Domestic Abuse Act 2021, Section 63 — Special Measures in Family Proceedings: Victims of Domestic Abuse",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/domestic-abuse-act-2021-section-63-special-measures-family/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "mfpa-1984-part-4b-cross-examination-ban",
+        "title": "Matrimonial and Family Proceedings Act 1984, Part 4B — Prohibition of Cross-Examination in Person (ss.31Q–31U)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/mfpa-1984-part-4b-cross-examination-ban/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "re-c-2023-ewhc-345-fam",
+        "title": "Re C (Parental Alienation: Instruction of Expert) — [2023] EWHC 345 (Fam)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/re-c-2023-ewhc-345-fam/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "re-d-2007-ukhl-51",
+        "title": "Re D (A Child) (Abduction: Rights of Custody) — [2007] UKHL 51",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/re-d-2007-ukhl-51/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "re-h-n-2021-ewca-civ-448",
+        "title": "Re H-N and Others (children) — EWCA Civ 448 (2021)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/re-h-n-2021-ewca-civ-448/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "re-s-2010-ewca-civ-219",
+        "title": "Re S (Transfer of Residence) [2010] EWCA Civ 219",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/re-s-2010-ewca-civ-219/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "re-s-2020-ewca-civ-568",
+        "title": "Re S (Parental Alienation: Cult) — [2020] EWCA Civ 568",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/re-s-2020-ewca-civ-568/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "re-s-parental-alienation-cult-2020",
+        "title": "Re S (Parental Alienation: Cult) [2020] EWCA Civ 568",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/re-s-parental-alienation-cult-2020/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "re-w-2012-ewca-civ-999",
+        "title": "Re W (Children) [2012] EWCA Civ 999 — Transfer of Residence in Intractable PA Cases",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/re-w-2012-ewca-civ-999/"
+      },
+      {
+        "jurisdiction": "united-kingdom",
+        "slug": "serious-crime-act-2015-section-76-controlling-coercive",
+        "title": "Serious Crime Act 2015, Section 76 — Controlling or Coercive Behaviour in an Intimate or Family Relationship",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-kingdom/serious-crime-act-2015-section-76-controlling-coercive/"
+      }
+    ],
+    "united-states": [
+      {
+        "jurisdiction": "united-states",
+        "slug": "abbott-v-abbott-2010",
+        "title": "Abbott v. Abbott — 560 U.S. 1 (2010)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/abbott-v-abbott-2010/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "california-family-code-3011-3020",
+        "title": "California Family Code §§ 3011, 3020, 3040 — Best Interests + Custody Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/california-family-code-3011-3020/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "california-family-code-3011-3020-3040-verbatim",
+        "title": "California Family Code §§ 3011, 3020, 3040 — Verbatim text",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/california-family-code-3011-3020-3040-verbatim/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "california-family-code-3027-1-sanctions-false-abuse-accusations",
+        "title": "California Family Code Section 3027.1 — Sanctions for Knowingly False Child-Abuse Accusations",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/california-family-code-3027-1-sanctions-false-abuse-accusations/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "california-family-code-3027-child-abuse-allegations",
+        "title": "California Family Code Section 3027 — Allegations of Child Abuse During Custody Proceedings",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/california-family-code-3027-child-abuse-allegations/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "california-family-code-3044-domestic-violence-presumption",
+        "title": "California Family Code Section 3044 — Domestic Violence Presumption Against Custody",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/california-family-code-3044-domestic-violence-presumption/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "florida-statute-61-13-time-sharing-factors",
+        "title": "Florida Statute § 61.13(3) — Time-sharing Factors",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/florida-statute-61-13-time-sharing-factors/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "icara-22-usc-chapter-97",
+        "title": "ICARA — International Child Abduction Remedies Act (22 U.S.C. §§ 9001-9011)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/icara-22-usc-chapter-97/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "ksa-23-3203-kansas-custody-factors",
+        "title": "K.S.A. 23-3203 — Kansas Custody, Residency and Parenting Time Factors",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/ksa-23-3203-kansas-custody-factors/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "troxel-v-granville-2000",
+        "title": "Troxel v. Granville — 530 U.S. 57 (2000)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/troxel-v-granville-2000/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "washington-rcw-26-09-187-parenting-plan-criteria",
+        "title": "Washington RCW 26.09.187 — Criteria for establishing permanent parenting plan",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/washington-rcw-26-09-187-parenting-plan-criteria/"
+      }
+    ],
+    "usa": [
+      {
+        "jurisdiction": "usa",
+        "slug": "uccjea-icara-state-frameworks-overview",
+        "title": "USA — UCCJEA + ICARA + state custody frameworks + Troxel grandparent rights",
+        "html_url": "https://knowledge.antialienate.com/case-law/usa/uccjea-icara-state-frameworks-overview/"
+      }
+    ],
+    "vietnam": [
+      {
+        "jurisdiction": "vietnam",
+        "slug": "law-on-marriage-and-family-2014-civil-code-2015",
+        "title": "Vietnam — Law on Marriage and Family 2014 + Civil Code 2015",
+        "html_url": "https://knowledge.antialienate.com/case-law/vietnam/law-on-marriage-and-family-2014-civil-code-2015/"
+      },
+      {
+        "jurisdiction": "vietnam",
+        "slug": "marriage-family-law-52-2014-non-hague",
+        "title": "Vietnam Law on Marriage and Family 52/2014 — Custody Framework",
+        "html_url": "https://knowledge.antialienate.com/case-law/vietnam/marriage-family-law-52-2014-non-hague/"
+      }
+    ]
+  }
+}
