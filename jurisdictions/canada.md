@@ -319,7 +319,7 @@ Apply to the family court with jurisdiction over the child's habitual residence.
       "jurisdiction": "Canada",
       "url": "https://www.ontario.ca/laws/statute/90c12",
       "datePublished": "1990",
-      "description": "Ontario provincial substantive statute for unmarried parents' parenting orders. s.24 best-interests-of-the-child test and s.112 Office of the Children's Lawyer Clinical Investigator authority. Substantive Ontario hook for PA-adjacent fact-patterns outside the Divorce Act."
+      "description": "Ontario provincial substantive statute for unmarried parents' parenting orders. s.24 best-interests-of-the-child test and s.112 Office of the Children's Lawyer Clinical Investigator authority. Substantive Ontario hook for PA-adjacent fact-patterns outside the [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/)."
     },
     {
       "@type": "Legislation",
