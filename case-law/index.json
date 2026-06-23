@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-23T12:34:10Z",
-  "count": 276,
+  "generated": "2026-06-23T13:07:15Z",
+  "count": 277,
   "jurisdictions": {
     "algeria": [
       {
@@ -1774,6 +1774,12 @@
         "slug": "ksa-23-3203-kansas-custody-factors",
         "title": "K.S.A. 23-3203 — Kansas Custody, Residency and Parenting Time Factors",
         "html_url": "https://knowledge.antialienate.com/case-law/united-states/ksa-23-3203-kansas-custody-factors/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "new-york-dr-240-eschbach-tropea-verbatim",
+        "title": "New York — Domestic Relations Law § 240 + Eschbach/Tropea jurisprudence (verbatim + leading authorities)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/new-york-dr-240-eschbach-tropea-verbatim/"
       },
       {
         "jurisdiction": "united-states",
