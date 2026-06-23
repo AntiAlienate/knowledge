@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-23T01:10:10Z",
-  "count": 273,
+  "generated": "2026-06-23T01:43:36Z",
+  "count": 274,
   "jurisdictions": {
     "algeria": [
       {
@@ -830,6 +830,12 @@
         "slug": "guardians-and-wards-act-1890-hindu-minority-act-1956",
         "title": "India — Guardians and Wards Act 1890 + Hindu Minority and Guardianship Act 1956",
         "html_url": "https://knowledge.antialienate.com/case-law/india/guardians-and-wards-act-1890-hindu-minority-act-1956/"
+      },
+      {
+        "jurisdiction": "india",
+        "slug": "guardians-and-wards-act-1890-s7-17-19-hindu-minority-act-s6-13-verbatim",
+        "title": "India — Guardians and Wards Act 1890 ss. 7 + 17 + 19 + Hindu Minority and Guardianship Act 1956 ss. 6 + 13 (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/india/guardians-and-wards-act-1890-s7-17-19-hindu-minority-act-s6-13-verbatim/"
       }
     ],
     "indonesia": [
