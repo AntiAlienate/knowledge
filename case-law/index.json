@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-23T00:03:59Z",
-  "count": 271,
+  "generated": "2026-06-23T00:37:37Z",
+  "count": 272,
   "jurisdictions": {
     "algeria": [
       {
@@ -306,6 +306,12 @@
         "slug": "expert-evidence-admissibility-comparative",
         "title": "Expert evidence in PA cases — admissibility + evidential standards comparative",
         "html_url": "https://knowledge.antialienate.com/case-law/comparative/expert-evidence-admissibility-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "global-pa-recognition-synthesis",
+        "title": "Global PA-recognition synthesis — regional + statutory + jurisprudential frameworks",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/global-pa-recognition-synthesis/"
       },
       {
         "jurisdiction": "comparative",
