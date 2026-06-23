@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-23T02:15:48Z",
-  "count": 275,
+  "generated": "2026-06-23T12:34:10Z",
+  "count": 276,
   "jurisdictions": {
     "algeria": [
       {
@@ -1780,6 +1780,12 @@
         "slug": "tennessee-tca-36-6-101-best-interests-verbatim",
         "title": "Tennessee — TCA § 36-6-101 + § 36-6-106 + § 36-6-404 — Best interests + parenting plan (verbatim, post-2018 amendments)",
         "html_url": "https://knowledge.antialienate.com/case-law/united-states/tennessee-tca-36-6-101-best-interests-verbatim/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "texas-family-code-153-001-153-002-153-134-verbatim",
+        "title": "Texas — Family Code §§ 153.001 + 153.002 + 153.134 — Best interests + conservatorship (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/texas-family-code-153-001-153-002-153-134-verbatim/"
       },
       {
         "jurisdiction": "united-states",
