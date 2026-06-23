@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-22T23:31:20Z",
-  "count": 270,
+  "generated": "2026-06-23T00:03:59Z",
+  "count": 271,
   "jurisdictions": {
     "algeria": [
       {
@@ -294,6 +294,12 @@
         "slug": "dv-allegations-pa-bidirectionality-comparative",
         "title": "Domestic violence allegations and parental alienation — bidirectional-risk comparative",
         "html_url": "https://knowledge.antialienate.com/case-law/comparative/dv-allegations-pa-bidirectionality-comparative/"
+      },
+      {
+        "jurisdiction": "comparative",
+        "slug": "east-asian-joint-custody-reform-comparative",
+        "title": "East Asian joint-custody reform comparative — JP, KR, TW, CN, HK",
+        "html_url": "https://knowledge.antialienate.com/case-law/comparative/east-asian-joint-custody-reform-comparative/"
       },
       {
         "jurisdiction": "comparative",
