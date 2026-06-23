@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-23T01:43:36Z",
-  "count": 274,
+  "generated": "2026-06-23T02:15:48Z",
+  "count": 275,
   "jurisdictions": {
     "algeria": [
       {
@@ -197,6 +197,12 @@
       }
     ],
     "canada-quebec": [
+      {
+        "jurisdiction": "canada-quebec",
+        "slug": "code-civil-quebec-art-32-33-599-606-verbatim",
+        "title": "Quebec — Code civil arts. 32 + 33 + 599 + 600 + 604 + 606 — Welfare + autorité parentale (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/canada-quebec/code-civil-quebec-art-32-33-599-606-verbatim/"
+      },
       {
         "jurisdiction": "canada-quebec",
         "slug": "code-civil-quebec-autorite-parentale",
