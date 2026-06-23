@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-23T00:37:37Z",
-  "count": 272,
+  "generated": "2026-06-23T01:10:10Z",
+  "count": 273,
   "jurisdictions": {
     "algeria": [
       {
@@ -1762,6 +1762,12 @@
         "slug": "ksa-23-3203-kansas-custody-factors",
         "title": "K.S.A. 23-3203 — Kansas Custody, Residency and Parenting Time Factors",
         "html_url": "https://knowledge.antialienate.com/case-law/united-states/ksa-23-3203-kansas-custody-factors/"
+      },
+      {
+        "jurisdiction": "united-states",
+        "slug": "tennessee-tca-36-6-101-best-interests-verbatim",
+        "title": "Tennessee — TCA § 36-6-101 + § 36-6-106 + § 36-6-404 — Best interests + parenting plan (verbatim, post-2018 amendments)",
+        "html_url": "https://knowledge.antialienate.com/case-law/united-states/tennessee-tca-36-6-101-best-interests-verbatim/"
       },
       {
         "jurisdiction": "united-states",
