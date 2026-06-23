@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-22T22:57:30Z",
-  "count": 269,
+  "generated": "2026-06-22T23:31:20Z",
+  "count": 270,
   "jurisdictions": {
     "algeria": [
       {
@@ -979,6 +979,12 @@
       }
     ],
     "korea": [
+      {
+        "jurisdiction": "korea",
+        "slug": "civil-act-arts-909-837-2-2025-joint-authority-verbatim",
+        "title": "민법 (Civil Act) arts. 909 + 909-2 + 837 + 837-2 — Joint parental authority + custody + visitation (verbatim, post-2025 reform)",
+        "html_url": "https://knowledge.antialienate.com/case-law/korea/civil-act-arts-909-837-2-2025-joint-authority-verbatim/"
+      },
       {
         "jurisdiction": "korea",
         "slug": "civil-act-arts-909-927-2025-joint-custody-default",
