@@ -1,0 +1,134 @@
+---
+title: "Estonia — Perekonnaseadus (Family Law Act) 2010 §§ 116 + 118 + 137 + 143 — Parental rights + joint exercise + custody (verbatim)"
+jurisdiction: estonia
+type: statute
+citation: "Perekonnaseadus (Family Law Act, RT I 2009, 60, 395) §§ 116, 118, 137, 143"
+date_in_force: "2010-07-01; current consolidated"
+last_amended: "current"
+status: in-force
+authoritative_url: https://www.riigiteataja.ee/en/eli/509072021015/consolide
+tags:
+  - perekonnaseadus
+  - hooldusoigus
+  - joint-parental-rights
+  - estonia
+  - welfare-of-the-child
+pa_relevance: high
+---
+
+# Estonia — Perekonnaseadus (Family Law Act) 2010 §§ 116 + 118 + 137 + 143 — Parental rights + joint exercise + custody (verbatim)
+
+**Jurisdiction:** Estonia · **Citation:** *Perekonnaseadus* (Family Law Act, RT I 2009, 60, 395) §§ 116, 118, 137, 143 · **Authoritative source:** [riigiteataja.ee — Perekonnaseadus](https://www.riigiteataja.ee/en/eli/509072021015/consolide)
+
+The **parental rights and joint-exercise framework** of Estonian family law. Perekonnaseadus (Family Law Act) came into force 2010-07-01, replacing the 1995 Family Code. The reform aligned Estonian family law with the broader European welfare-paramountcy + joint-exercise cluster and codified a modern parental-rights framework structured around the child's welfare. The framework establishes:
+- **§ 116** — content of parental rights (*vanema õigused ja kohustused*)
+- **§ 118** — welfare-paramountcy standard
+- **§ 137** — joint exercise of parental rights
+- **§ 143** — court determination of parental-rights arrangements
+
+The provisions parallel:
+- [Latvia Civil Law arts. 177-206 (parental authority framework)](../latvia/civil-law-arts-177-206-parental-authority.md) — parallel Baltic-region framework
+- [Lithuania Civil Code Book Three (parental rights)](../lithuania/civil-code-book-three.md) — parallel Baltic-region framework
+- [Finland Lapsenhuoltolaki §§ 1 + 9 + 10](../finland/lapsenhuoltolaki-1-9-10-tapaamisoikeus-verbatim.md) — parallel Nordic-adjacent framework
+- [Germany BGB §§ 1626 + 1684](../germany/bgb-1626-1684-elterliche-sorge-umgang-verbatim.md) — parallel civil-law framework
+
+Estonia is doctrinally distinctive among Baltic jurisdictions because the 2010 Perekonnaseadus was one of the first post-Soviet Baltic recodifications to expressly integrate welfare-paramountcy + joint-parental-rights principles at statute level. The framework operates alongside the *Sotsiaalhoolekande seadus* (Social Welfare Act) child-protection framework and the *Lapse õiguste konventsioon* (UN CRC) directly incorporated into Estonian law.
+
+## Verbatim text (current consolidated)
+
+### § 116 Perekonnaseadus — Content of parental rights and obligations
+
+> **(1)** Parents have equal parental rights and obligations with respect to their children unless the law provides otherwise.
+>
+> **(2)** Parental rights include the *right and obligation to care for a child* (*isikuhooldusõigus*), which comprises the right and obligation to care for the person of the child, and the *right and obligation to administer the property of a child* (*varahooldusõigus*).
+>
+> **(3)** Parents must exercise their parental rights in the interests of the child.
+
+### § 118 Perekonnaseadus — Welfare of the child
+
+> Parents must ensure the welfare of the child.
+
+### § 137 Perekonnaseadus — Joint exercise of parental rights
+
+> **(1)** If parents have joint parental rights, they shall exercise their parental rights and perform their parental obligations jointly and by mutual agreement, having in mind the welfare of the child in all respects.
+>
+> **(2)** In case of disagreement between the parents on a matter which is important to the child, the court may, on the application of one of the parents, grant the right to decide on such a matter to one of the parents. The right of decision-making may be granted by the court to one parent under such conditions as it deems fit.
+>
+> **(3)** Each parent may decide independently on matters relating to the child's daily life. As a rule, daily life matters are the decisions occurring on a frequent basis which do not have a lasting effect on the development of the child.
+
+### § 143 Perekonnaseadus — Contact of the child with the parent
+
+> **(1)** A child has the right to personal contact with both parents. Each parent has the obligation and the right to maintain personal contact with his or her child.
+>
+> **(2)** The parent shall refrain from any acts which harm the relations of the child with the other parent or make the upbringing of the child difficult. The same rule applies if the child is in the care of another person.
+>
+> **(3)** The court determines the contact of a parent with the child in a manner corresponding to the welfare of the child. The court may also decide that a contact right is to be exercised in the presence of a third party who is competent to promote such contact.
+>
+> **(4)** The court may restrict or terminate the right of personal contact of a parent or a person specified in § 143(2) with the child or the exercise of the previous court decision if this is necessary in order to ensure the welfare of the child. The court may restrict or terminate the right of personal contact for a specific period or permanently.
+
+## Why this matters for PA
+
+- **The equal-rights presumption (§ 116(1)).** *Parents have equal parental rights and obligations with respect to their children unless the law provides otherwise.* The structural Estonian starting point is equality — the framework does not embed maternal or paternal presumption. In alienation-pattern cases the alienating parent's structural claim to sole parental rights must overcome the equal-rights presumption.
+- **The right-and-obligation framing (§ 116(2)).** *Right and obligation to care for a child.* The framing as both a *right* and an *obligation* (õigus ja kohustus) is doctrinally distinctive — parental care is not just an entitlement but an affirmative duty. The structural Estonian parallel to:
+  - Polish [KRO art. 113 § 1 prawo i obowiązek](../poland/kodeks-rodzinny-art-113-113-6-kontakty-verbatim.md)
+  - Hungarian [Ptk § 4:178 jogosult és köteles](../hungary/ptk-4-167-4-181-szuloi-felugyelet-verbatim.md)
+  - Chilean [CC art. 229 derecho y deber](../chile/codigo-civil-225-227-229-cuidado-personal-rdr-verbatim.md)
+- In alienation-pattern cases this framing closes the structural gap where the targeted parent could be passive — passivity in the face of alienation is not lawful given the obligation prong.
+- **The welfare-orientation duty (§ 116(3)).** *Parents must exercise their parental rights in the interests of the child.* Structural anchor for treating conduct contrary to welfare (including sustained alienating conduct) as ultra vires the parental-rights authorization.
+- **The unqualified welfare standard (§ 118).** *Parents must ensure the welfare of the child.* One of the simplest and strongest welfare-paramountcy formulations in Europe — no qualifiers, no exceptions. In alienation-pattern cases welfare-contrary conduct violates § 118 directly.
+- **The joint-exercise default (§ 137(1)).** *If parents have joint parental rights, they shall exercise their parental rights and perform their parental obligations jointly and by mutual agreement, having in mind the welfare of the child in all respects.* Joint + mutual-agreement + welfare-oriented — three combined structural anchors. In alienation-pattern cases the alienating parent's unilateral exercise breaches the mutual-agreement requirement.
+- **The court-adjudication framework for disagreements (§ 137(2)).** *In case of disagreement between the parents on a matter which is important to the child, the court may, on the application of one of the parents, grant the right to decide on such a matter to one of the parents.* Doctrinally distinctive — Estonian law permits *matter-specific* decision-right transfer rather than requiring wholesale reallocation. In alienation-pattern cases the targeted parent can seek decision-right transfer for specific issues (school choice, medical, religious upbringing) without requiring total reallocation.
+- **The daily-life-decisions carve-out (§ 137(3)).** *Each parent may decide independently on matters relating to the child's daily life. As a rule, daily life matters are the decisions occurring on a frequent basis which do not have a lasting effect on the development of the child.* The daily/significant distinction is codified — the *lasting effect on development* prong is the test. Alienating-parent unilateral decisions on non-daily matters engage the joint-exercise requirement.
+- **The § 143(1) dual-right framing.** *A child has the right to personal contact with both parents. Each parent has the obligation and the right to maintain personal contact with his or her child.* The dual framing — child's right + parents' right-and-obligation — provides structural protection. In alienation-pattern cases:
+  - The child's right operates against alienating-parent framings of contact as the child's discretionary choice
+  - The parent's obligation-and-right closes the passivity gap for targeted parents
+- **The § 143(2) anti-obstruction duty.** *The parent shall refrain from any acts which harm the relations of the child with the other parent or make the upbringing of the child difficult.* This is the doctrinally distinctive Estonian anti-alienation provision — direct codification. The framing is operationally rigorous:
+  - *Any acts* — no minimum-severity threshold
+  - *Harm the relations of the child with the other parent* — express relational-harm framing (not just contact-obstruction)
+  - *Or make the upbringing of the child difficult* — extends beyond contact to upbringing generally
+- The structural Estonian parallel to:
+  - Slovenian [DZ art. 143(2) opustiti vse](../slovenia/druzinski-zakonik-141-143-144-stiki-verbatim.md)
+  - Croatian [OZ art. 117(2) suzdržati se od svakog djelovanja](../croatia/obiteljski-zakon-2015-95-104-117-roditeljska-skrb-verbatim.md)
+  - Chilean [CC art. 229 no obstaculizará](../chile/codigo-civil-225-227-229-cuidado-personal-rdr-verbatim.md)
+  - Russian [Family Code art. 66(1) shall not interfere](../russia/family-code-arts-54-55-65-66-verbatim.md)
+- The § 143(2) *any acts which harm the relations* framing is one of the most operationally comprehensive anti-alienation codifications in European law — sustained alienating conduct that harms the child's relationship with the targeted parent engages § 143(2) directly.
+- **The § 143(2) same-rule extension.** *The same rule applies if the child is in the care of another person.* The anti-obstruction duty extends to non-parent caregivers (guardians, foster parents, grandparents). Prevents evasion via placement.
+- **The § 143(3) supervised-contact framework.** *The court may also decide that a contact right is to be exercised in the presence of a third party who is competent to promote such contact.* The *promote such contact* framing is doctrinally significant — the supervisor's function is not just monitoring but active promotion of the parent-child relationship. In alienation-pattern cases this operates as a therapeutic-intervention mechanism.
+- **The § 143(4) proportional restriction framework.** *The court may restrict or terminate … if this is necessary in order to ensure the welfare of the child.* Restrictions must be *necessary*, and can be *specific period or permanent* — providing operational flexibility. In alienation-pattern cases the restriction can operate against the alienating parent's contact for defined therapeutic-intervention periods rather than requiring permanent measures.
+
+## Procedural application
+
+- The competent court is the *county court* (*maakohus*) as court of first instance for family matters
+- The *Sotsiaalkindlustusamet* (Social Insurance Board) child-protection department provides welfare assessment via *lastekaitsetöötaja* (child-protection worker)
+- The child is heard under § 143 + Code of Civil Procedure — capacity-based standard
+- *Perelepitus* (family mediation) is structurally available under [Perelepituse seadus 2023](https://www.riigiteataja.ee/) — 2023 reform introducing mandatory mediation in specified family-court cases
+- Appellate review to the *circuit court* (*ringkonnakohus*) + cassation to the *Supreme Court of Estonia* (*Riigikohus*)
+
+## Use in alienating-conduct cases
+
+- The Riigikohus has applied the § 143(2) anti-obstruction framework in cases including *Riigikohtu Tsiviilkolleegium 3-2-1-64-11* and subsequent authorities
+- Where alienating conduct is established, Estonian courts can:
+  - First-tier: order *perelepitus* under the 2023 mediation framework
+  - Second-tier: fix specific contact arrangements under § 143(3) with therapeutic-intervention *promote such contact* framing
+  - Third-tier: transfer specific decision-rights under § 137(2) matter-specific framework
+  - Apex-tier: modify parental-rights allocation under § 143(4) welfare-necessity framework
+- The § 143(2) *any acts which harm the relations* provision provides the doctrinally strongest direct anti-alienation anchor in Baltic law
+- The § 137(2) matter-specific decision-right transfer provides operational flexibility for tailored PA-protective orders without requiring total reallocation
+
+## Cross-reference
+
+- [Latvia — Civil Law arts. 177-206](../latvia/civil-law-arts-177-206-parental-authority.md) — parallel Baltic framework
+- [Lithuania — Civil Code Book Three](../lithuania/civil-code-book-three.md) — parallel Baltic framework
+- [Finland — Lapsenhuoltolaki §§ 1+9+10](../finland/lapsenhuoltolaki-1-9-10-tapaamisoikeus-verbatim.md) — parallel Nordic-adjacent framework
+- [Germany — BGB §§ 1626 + 1684](../germany/bgb-1626-1684-elterliche-sorge-umgang-verbatim.md) — parallel civil-law framework
+- [Slovenia — DZ arts. 141+143+144](../slovenia/druzinski-zakonik-141-143-144-stiki-verbatim.md) — parallel anti-obstruction duty
+- [Croatia — OZ arts. 95+104+117+121](../croatia/obiteljski-zakon-2015-95-104-117-roditeljska-skrb-verbatim.md) — parallel anti-obstruction duty
+- [Russia — Family Code arts. 54+55+65+66](../russia/family-code-arts-54-55-65-66-verbatim.md) — parallel non-interference duty
+- [Comparative — Global PA-recognition synthesis](../comparative/global-pa-recognition-synthesis.md)
+- [Comparative — welfare-checklist statutory](../comparative/welfare-checklist-statutory-comparative.md)
+
+## Related entries
+
+- [Estonia — Perekonnaseadus 2010 vanemate õigused overview](perekonnaseadus-2010-vanemate-oigused.md)
+- [Slovenia — DZ arts. 141+143+144](../slovenia/druzinski-zakonik-141-143-144-stiki-verbatim.md)
+- [Russia — Family Code arts. 54+55+65+66](../russia/family-code-arts-54-55-65-66-verbatim.md)
