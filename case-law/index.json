@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T12:12:59Z",
-  "count": 294,
+  "generated": "2026-07-13T12:33:07Z",
+  "count": 295,
   "jurisdictions": {
     "algeria": [
       {
@@ -1525,6 +1525,12 @@
       }
     ],
     "taiwan": [
+      {
+        "jurisdiction": "taiwan",
+        "slug": "civil-code-1055-1055-1-1084-1090-parental-rights-verbatim",
+        "title": "Taiwan Minfa arts. 1055 · 1055-1 · 1055-2 · 1084 · 1086 · 1089 · 1089-1 · 1090 — Parental Rights and Meeting-Interaction (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/taiwan/civil-code-1055-1055-1-1084-1090-parental-rights-verbatim/"
+      },
       {
         "jurisdiction": "taiwan",
         "slug": "civil-code-1085-1090-parental-rights",
