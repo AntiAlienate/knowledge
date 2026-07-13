@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T13:20:13Z",
-  "count": 297,
+  "generated": "2026-07-13T13:38:44Z",
+  "count": 298,
   "jurisdictions": {
     "algeria": [
       {
@@ -862,6 +862,12 @@
         "slug": "marriage-law-1974-child-protection-law-2002",
         "title": "Indonesia — Marriage Law 1974 + Child Protection Law 2002",
         "html_url": "https://knowledge.antialienate.com/case-law/indonesia/marriage-law-1974-child-protection-law-2002/"
+      },
+      {
+        "jurisdiction": "indonesia",
+        "slug": "uu-1-1974-perkawinan-uu-23-2002-perlindungan-anak-verbatim",
+        "title": "Indonesia UU 1/1974 Perkawinan arts. 41 · 45 · 47 · 49 and UU 23/2002 Perlindungan Anak arts. 14 · 26 (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/indonesia/uu-1-1974-perkawinan-uu-23-2002-perlindungan-anak-verbatim/"
       }
     ],
     "iran": [
