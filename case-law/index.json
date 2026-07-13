@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-06-24T11:35:04Z",
-  "count": 279,
+  "generated": "2026-07-13T10:28:47Z",
+  "count": 285,
   "jurisdictions": {
     "algeria": [
       {
@@ -525,6 +525,12 @@
     "estonia": [
       {
         "jurisdiction": "estonia",
+        "slug": "perekonnaseadus-2010-arts-116-118-137-143-verbatim",
+        "title": "Estonia — Perekonnaseadus (Family Law Act) 2010 §§ 116 + 118 + 137 + 143 — Parental rights + joint exercise + custody (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/estonia/perekonnaseadus-2010-arts-116-118-137-143-verbatim/"
+      },
+      {
+        "jurisdiction": "estonia",
         "slug": "perekonnaseadus-2010-vanemate-oigused",
         "title": "Eesti Perekonnaseadus (2010) — Vanemate Oigused",
         "html_url": "https://knowledge.antialienate.com/case-law/estonia/perekonnaseadus-2010-vanemate-oigused/"
@@ -889,6 +895,12 @@
     "israel": [
       {
         "jurisdiction": "israel",
+        "slug": "capacity-and-guardianship-law-5722-1962-arts-14-15-17-19-verbatim",
+        "title": "Israel — Capacity and Guardianship Law 5722-1962 arts. 14 + 15 + 17 + 19 (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/israel/capacity-and-guardianship-law-5722-1962-arts-14-15-17-19-verbatim/"
+      },
+      {
+        "jurisdiction": "israel",
         "slug": "capacity-guardianship-law-1962-rabbinical-interplay",
         "title": "Israel Capacity and Guardianship Law 1962 + Rabbinical-Civil Interplay",
         "html_url": "https://knowledge.antialienate.com/case-law/israel/capacity-guardianship-law-1962-rabbinical-interplay/"
@@ -1044,6 +1056,12 @@
         "slug": "civilinis-kodeksas-3-156-3-178-tevu-valdzia",
         "title": "Lietuva Civilinis Kodeksas — Trecioji Knyga (Family Law)",
         "html_url": "https://knowledge.antialienate.com/case-law/lithuania/civilinis-kodeksas-3-156-3-178-tevu-valdzia/"
+      },
+      {
+        "jurisdiction": "lithuania",
+        "slug": "civilinis-kodeksas-3-156-3-178-tevu-valdzia-verbatim",
+        "title": "Lithuania Civilinis Kodeksas Book Three §§ 3.156 · 3.159 · 3.165 · 3.168 · 3.170 · 3.175 · 3.176 — Parental Rights and Contact (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/lithuania/civilinis-kodeksas-3-156-3-178-tevu-valdzia-verbatim/"
       }
     ],
     "malaysia": [
@@ -1052,6 +1070,14 @@
         "slug": "lra-1976-syariah-courts-parallel-jurisdiction",
         "title": "Malaysia LRA 1976 + Syariah Courts — Dual-System Family Framework",
         "html_url": "https://knowledge.antialienate.com/case-law/malaysia/lra-1976-syariah-courts-parallel-jurisdiction/"
+      }
+    ],
+    "malta": [
+      {
+        "jurisdiction": "malta",
+        "slug": "civil-code-art-143a-shared-parental-authority-2020-reform-verbatim",
+        "title": "Malta — Civil Code art. 143A — Shared parental authority (verbatim, Act XIV of 2020 reform)",
+        "html_url": "https://knowledge.antialienate.com/case-law/malta/civil-code-art-143a-shared-parental-authority-2020-reform-verbatim/"
       }
     ],
     "mexico": [
@@ -1174,6 +1200,12 @@
         "slug": "guardians-and-wards-act-1890-family-courts-act-1964",
         "title": "Pakistan — Guardians and Wards Act 1890 + Family Courts Act 1964",
         "html_url": "https://knowledge.antialienate.com/case-law/pakistan/guardians-and-wards-act-1890-family-courts-act-1964/"
+      },
+      {
+        "jurisdiction": "pakistan",
+        "slug": "guardians-and-wards-act-1890-pakistan-s17-19-25-verbatim",
+        "title": "Pakistan — Guardians and Wards Act 1890 ss. 17 + 19 + 25 (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/pakistan/guardians-and-wards-act-1890-pakistan-s17-19-25-verbatim/"
       },
       {
         "jurisdiction": "pakistan",
@@ -1442,6 +1474,12 @@
         "slug": "zgb-296-298-rev-2014-shared-parental-authority",
         "title": "Switzerland — ZGB arts. 296–298 + 2014 shared parental authority reform",
         "html_url": "https://knowledge.antialienate.com/case-law/switzerland/zgb-296-298-rev-2014-shared-parental-authority/"
+      },
+      {
+        "jurisdiction": "switzerland",
+        "slug": "zgb-298-298a-298b-2014-rev-shared-parental-care-verbatim",
+        "title": "Switzerland — ZGB arts. 298 + 298a + 298b — Joint parental care post-2014 reform (verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/switzerland/zgb-298-298a-298b-2014-rev-shared-parental-care-verbatim/"
       },
       {
         "jurisdiction": "switzerland",
