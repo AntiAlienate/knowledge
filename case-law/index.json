@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T11:06:21Z",
-  "count": 288,
+  "generated": "2026-07-13T11:16:56Z",
+  "count": 289,
   "jurisdictions": {
     "algeria": [
       {
@@ -1542,6 +1542,12 @@
         "slug": "turk-medeni-kanunu-2001-velayet",
         "title": "Turkey Turk Medeni Kanunu (2001) — Velayet",
         "html_url": "https://knowledge.antialienate.com/case-law/turkey/turk-medeni-kanunu-2001-velayet/"
+      },
+      {
+        "jurisdiction": "turkey",
+        "slug": "turk-medeni-kanunu-335-346-323-324-velayet-kisisel-iliski-verbatim",
+        "title": "Turkey Türk Medeni Kanunu arts. 323 · 324 · 335 · 336 · 337 · 339 · 342 · 346 — Velayet and Kişisel İlişki (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/turkey/turk-medeni-kanunu-335-346-323-324-velayet-kisisel-iliski-verbatim/"
       }
     ],
     "uae": [
