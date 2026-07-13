@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T11:26:21Z",
-  "count": 290,
+  "generated": "2026-07-13T11:36:38Z",
+  "count": 291,
   "jurisdictions": {
     "algeria": [
       {
@@ -1246,6 +1246,12 @@
         "slug": "family-code-1987-no-divorce-non-hague",
         "title": "Philippines Family Code 1987 — Custody Framework + No-Divorce Context",
         "html_url": "https://knowledge.antialienate.com/case-law/philippines/family-code-1987-no-divorce-non-hague/"
+      },
+      {
+        "jurisdiction": "philippines",
+        "slug": "family-code-arts-209-233-parental-authority-verbatim",
+        "title": "Philippines Family Code (EO 209) arts. 209 · 211 · 212 · 213 · 214 · 220 · 225 · 231 · 232 · 233 — Parental Authority and Custody (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/philippines/family-code-arts-209-233-parental-authority-verbatim/"
       }
     ],
     "poland": [
