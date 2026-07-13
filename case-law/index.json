@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T11:36:38Z",
-  "count": 291,
+  "generated": "2026-07-13T11:46:42Z",
+  "count": 292,
   "jurisdictions": {
     "algeria": [
       {
@@ -1527,6 +1527,12 @@
       }
     ],
     "thailand": [
+      {
+        "jurisdiction": "thailand",
+        "slug": "civil-commercial-code-book-v-1520-1584-parental-power-verbatim",
+        "title": "Thailand Civil and Commercial Code Book V sections 1520 · 1521 · 1522 · 1566 · 1567 · 1582 · 1584/1 — Amnat Pokkrong and Right of Contact (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/thailand/civil-commercial-code-book-v-1520-1584-parental-power-verbatim/"
+      },
       {
         "jurisdiction": "thailand",
         "slug": "civil-commercial-code-family-courts-act",
