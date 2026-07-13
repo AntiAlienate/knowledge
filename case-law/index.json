@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T12:33:07Z",
-  "count": 295,
+  "generated": "2026-07-13T13:01:09Z",
+  "count": 296,
   "jurisdictions": {
     "algeria": [
       {
@@ -1357,6 +1357,12 @@
       }
     ],
     "singapore": [
+      {
+        "jurisdiction": "singapore",
+        "slug": "womens-charter-122-129-guardianship-of-infants-act-verbatim",
+        "title": "Singapore Women's Charter sections 122 · 124 · 125 · 126 · 127 · 128 · 129 and Guardianship of Infants Act sections 3 · 5 · 8 · 9 (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/singapore/womens-charter-122-129-guardianship-of-infants-act-verbatim/"
+      },
       {
         "jurisdiction": "singapore",
         "slug": "womens-charter-arts-122-129-guardianship-of-infants-act",
