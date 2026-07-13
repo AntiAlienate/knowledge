@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T10:42:15Z",
-  "count": 286,
+  "generated": "2026-07-13T10:55:52Z",
+  "count": 287,
   "jurisdictions": {
     "algeria": [
       {
@@ -1552,6 +1552,12 @@
         "slug": "simeyniy-kodeks-141-155-batkivski-prava",
         "title": "Ukraina Simeyniy Kodeks — Batkivski Prava",
         "html_url": "https://knowledge.antialienate.com/case-law/ukraine/simeyniy-kodeks-141-155-batkivski-prava/"
+      },
+      {
+        "jurisdiction": "ukraine",
+        "slug": "simeyniy-kodeks-141-163-batkivski-prava-verbatim",
+        "title": "Ukraine Simeyniy Kodeks arts. 141 · 150 · 153 · 157 · 158 · 159 · 160 · 162 — Rivnist and Spilkuvannya (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/ukraine/simeyniy-kodeks-141-163-batkivski-prava-verbatim/"
       }
     ],
     "uncrc": [
