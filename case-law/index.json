@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T13:01:09Z",
-  "count": 296,
+  "generated": "2026-07-13T13:20:13Z",
+  "count": 297,
   "jurisdictions": {
     "algeria": [
       {
@@ -1071,6 +1071,12 @@
       }
     ],
     "malaysia": [
+      {
+        "jurisdiction": "malaysia",
+        "slug": "lra-1976-gia-1961-civil-track-verbatim",
+        "title": "Malaysia Law Reform (Marriage and Divorce) Act 1976 s. 87 · 88 · 91 · 92 · 96 · 98 and Guardianship of Infants Act 1961 s. 3 · 5 · 8 · 10 (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/malaysia/lra-1976-gia-1961-civil-track-verbatim/"
+      },
       {
         "jurisdiction": "malaysia",
         "slug": "lra-1976-syariah-courts-parallel-jurisdiction",
