@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T11:16:56Z",
-  "count": 289,
+  "generated": "2026-07-13T11:26:21Z",
+  "count": 290,
   "jurisdictions": {
     "algeria": [
       {
@@ -1232,6 +1232,12 @@
         "slug": "codigo-civil-codigo-ninos-adolescentes",
         "title": "Peru Codigo Civil + Codigo de los Ninos y Adolescentes",
         "html_url": "https://knowledge.antialienate.com/case-law/peru/codigo-civil-codigo-ninos-adolescentes/"
+      },
+      {
+        "jurisdiction": "peru",
+        "slug": "codigo-ninos-adolescentes-arts-74-88-patria-potestad-tenencia-verbatim",
+        "title": "Peru Código de los Niños y Adolescentes arts. 74 · 81 · 84 · 85 · 86 · 88 — Patria potestad, tenencia y régimen de visitas (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/peru/codigo-ninos-adolescentes-arts-74-88-patria-potestad-tenencia-verbatim/"
       }
     ],
     "philippines": [
