@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T10:55:52Z",
-  "count": 287,
+  "generated": "2026-07-13T11:06:21Z",
+  "count": 288,
   "jurisdictions": {
     "algeria": [
       {
@@ -1331,6 +1331,12 @@
       }
     ],
     "serbia": [
+      {
+        "jurisdiction": "serbia",
+        "slug": "porodicni-zakon-2005-arts-67-78-roditeljsko-pravo-verbatim",
+        "title": "Serbia Porodični zakon arts. 60 · 67 · 68 · 71 · 76 · 77 · 78 — Roditeljsko pravo and lični odnosi (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/serbia/porodicni-zakon-2005-arts-67-78-roditeljsko-pravo-verbatim/"
+      },
       {
         "jurisdiction": "serbia",
         "slug": "porodicni-zakon-2005-roditeljska-prava",
