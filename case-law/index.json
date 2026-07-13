@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T10:28:47Z",
-  "count": 285,
+  "generated": "2026-07-13T10:42:15Z",
+  "count": 286,
   "jurisdictions": {
     "algeria": [
       {
@@ -1035,6 +1035,12 @@
       }
     ],
     "latvia": [
+      {
+        "jurisdiction": "latvia",
+        "slug": "civillikums-177-183-vecaku-varas-verbatim",
+        "title": "Latvia Civillikums arts. 177 · 178 · 178.1 · 178.2 · 179 · 181 · 182 · 183 — Aizgadniba and Saskarsme (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/latvia/civillikums-177-183-vecaku-varas-verbatim/"
+      },
       {
         "jurisdiction": "latvia",
         "slug": "civillikums-177-203-vecaku-varas",
