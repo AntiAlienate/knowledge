@@ -1,8 +1,8 @@
 {
   "type": "case-law",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T11:58:09Z",
-  "count": 293,
+  "generated": "2026-07-13T12:12:59Z",
+  "count": 294,
   "jurisdictions": {
     "algeria": [
       {
@@ -1413,6 +1413,12 @@
       }
     ],
     "south-korea": [
+      {
+        "jurisdiction": "south-korea",
+        "slug": "civil-act-arts-837-909-925-chinkwon-verbatim",
+        "title": "South Korea Civil Act arts. 837 · 837-2 · 909 · 909-2 · 912 · 913 · 924 · 924-2 — Chinkwon and Right of Visitation (Verbatim)",
+        "html_url": "https://knowledge.antialienate.com/case-law/south-korea/civil-act-arts-837-909-925-chinkwon-verbatim/"
+      },
       {
         "jurisdiction": "south-korea",
         "slug": "civil-act-family-litigation-act-parental-authority",
