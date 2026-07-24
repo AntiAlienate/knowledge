@@ -1,0 +1,75 @@
+name: Build & Deploy knowledge.antialienate.com
+
+# Git is the single source of truth: every push to main is validated, built,
+# and deployed to Firebase Hosting. A failing build/validation leaves the live
+# site untouched on the last good version.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+
+concurrency:
+  group: kb-deploy
+  cancel-in-progress: false
+
+jobs:
+  build-deploy:
+    if: github.repository == 'AntiAlienate/knowledge'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install build deps
+        run: pip install -r requirements.txt
+
+      - name: Regenerate manifest + case-law JSON
+        run: |
+          python bin/aa-build manifest
+          python bin/aa-build caselaw
+
+      - name: Stage content into docs/
+        run: |
+          rm -rf docs && mkdir -p docs
+          for d in */; do
+            name="${d%/}"
+            case "$name" in docs|_site|.git|.github|node_modules|.venv) continue ;; esac
+            if find "$name" -maxdepth 3 -name "*.md" -print -quit | grep -q .; then ln -s "../$name" "docs/$name"; fi
+          done
+          for f in README.md CONTRIBUTING.md LICENSE LICENSE-DATA; do
+            [ -f "$f" ] && ln -s "../$f" "docs/$f" || true
+          done
+          [ -f manifest.json ] && ln -s ../manifest.json docs/manifest.json
+          [ -d schemas ] && ln -s ../schemas docs/schemas
+
+      - name: Build site
+        run: mkdocs build --site-dir _site
+
+      - name: Validate artifacts (gate — deploy only if the data contract holds)
+        run: |
+          python - <<'PY'
+          import json, sys, os
+          for f in ["_site/manifest.json", "_site/case-law/index.json", "_site/case-studies/index.json"]:
+              assert os.path.exists(f), f"MISSING: {f}"
+              json.load(open(f))  # must be valid JSON
+          assert os.path.isdir("_site/schemas"), "MISSING: _site/schemas"
+          cl = json.load(open("_site/case-law/index.json"))
+          assert cl.get("count", 0) > 200, f"case-law count suspicious: {cl.get('count')}"
+          print("contract OK:", cl["count"], "case-law entries")
+          PY
+
+      - name: Deploy to Firebase Hosting
+        run: |
+          npm install -g firebase-tools@13 >/dev/null 2>&1
+          firebase deploy --only hosting:knowledge --project antialienate-knowledge \
+            --non-interactive --token "${{ secrets.FIREBASE_TOKEN }}"
+
+      - name: Post-deploy smoke test
+        run: |
+          sleep 10
+          ct=$(curl -sI "https://knowledge.antialienate.com/manifest.json" | grep -i '^content-type' || true)
+          echo "live manifest content-type: $ct"
+          echo "$ct" | grep -qi "application/json" || { echo "SMOKE FAIL: manifest not JSON"; exit 1; }
