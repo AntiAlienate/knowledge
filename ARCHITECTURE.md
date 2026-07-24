@@ -144,6 +144,12 @@ python bin/aa-build urls           # opt-in HEAD-check of every URL (slow)
 
 CI runs `validate` + `refs` + `render` on every push to `main` and every PR. The `render` step also acts as drift detection: if a rendered MD differs from the JSON-derived output, the build fails. This forces JSON-edit-then-render rather than direct MD edits.
 
+## Deploy pipeline
+
+Git is the single source of truth for `knowledge.antialienate.com`. Every push to `main` runs `.github/workflows/deploy.yml`: checkout → regenerate `manifest.json` and `case-law/*.json` via `bin/aa-build` → `mkdocs build` → deploy `_site/` to Firebase Hosting → smoke test. A failing validation, build, or smoke test leaves the live site untouched on the last good version — the previous deploy stays.
+
+There is no other supported deploy path. Direct `firebase deploy` from a workstation would fight the pipeline's single-writer contract and is not permitted; if the deploy Action is broken, fix the workflow rather than hand-deploying.
+
 ## Push pipeline
 
 ```bash
