@@ -12,7 +12,8 @@
     "practitioner": "<country_code lowercase>.<slug>  e.g. de.zimmermann-walper-fichtner",
     "case-study": "<slug>  e.g. bverfg-1-bvr-1076-23-germany-2023",
     "jurisdiction": "<filename stem under jurisdictions/>  e.g. germany",
-    "evidence": "<filename stem under evidence/>  e.g. alienating-tactics-as-child-abuse"
+    "evidence": "<filename stem under evidence/>  e.g. alienating-tactics-as-child-abuse",
+    "case-law": "<jurisdiction>/<slug> under case-law/  e.g. united-states/troxel-v-granville-2000"
   },
   "cross_link_format": "<type>:<id>  e.g. case-study:bverfg-1-bvr-1076-23-germany-2023",
   "consumption": {
@@ -26,13 +27,15 @@
     "practitioners_therapists": 19,
     "practitioners_lawyers": 10,
     "case_studies": 35,
+    "case_law": 298,
     "jurisdictions": 359,
     "evidence_pages": 27
   },
   "indexes": {
     "practitioners_therapists": "https://knowledge.antialienate.com/practitioners/therapists/index.json",
     "practitioners_lawyers": "https://knowledge.antialienate.com/practitioners/lawyers/index.json",
-    "case_studies": "https://knowledge.antialienate.com/case-studies/index.json"
+    "case_studies": "https://knowledge.antialienate.com/case-studies/index.json",
+    "case_law": "https://knowledge.antialienate.com/case-law/index.json"
   },
   "jurisdictions": [
     {

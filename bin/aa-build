@@ -776,6 +776,19 @@ def cmd_manifest(args) -> int:
                 continue
             evidence.append({"id": f.stem, "html_url": f"{SITE_BASE}/evidence/{f.stem}/"})
 
+    # case-law: counted independently of cmd_caselaw's run order (aa-sync runs
+    # manifest BEFORE caselaw), using the identical skip rule (README + top-level
+    # loose files with <2 path parts) so counts.case_law matches case-law/index.json.
+    # Without this the RAG "walks the manifest" and silently skips the entire
+    # case-law corpus, which has its own case-law/index.json but was never linked.
+    case_law_count = 0
+    if CASE_LAW.exists():
+        for f in CASE_LAW.rglob("*.md"):
+            rel = f.relative_to(CASE_LAW)
+            if f.stem == "README" or len(rel.parts) < 2:
+                continue
+            case_law_count += 1
+
     manifest = {
         "manifest_version": "1.0",
         "repository": "AntiAlienate/knowledge",
@@ -787,6 +800,7 @@ def cmd_manifest(args) -> int:
             "case-study": "<slug>  e.g. bverfg-1-bvr-1076-23-germany-2023",
             "jurisdiction": "<filename stem under jurisdictions/>  e.g. germany",
             "evidence": "<filename stem under evidence/>  e.g. alienating-tactics-as-child-abuse",
+            "case-law": "<jurisdiction>/<slug> under case-law/  e.g. united-states/troxel-v-granville-2000",
         },
         "cross_link_format": "<type>:<id>  e.g. case-study:bverfg-1-bvr-1076-23-germany-2023",
         "consumption": {
@@ -800,6 +814,7 @@ def cmd_manifest(args) -> int:
             "practitioners_therapists": len(practitioners["therapists"]),
             "practitioners_lawyers": len(practitioners["lawyers"]),
             "case_studies": len(case_studies),
+            "case_law": case_law_count,
             "jurisdictions": len(jurisdictions),
             "evidence_pages": len(evidence),
         },
@@ -807,12 +822,13 @@ def cmd_manifest(args) -> int:
             "practitioners_therapists": f"{RAW_BASE}/practitioners/therapists/index.json",
             "practitioners_lawyers": f"{RAW_BASE}/practitioners/lawyers/index.json",
             "case_studies": f"{RAW_BASE}/case-studies/index.json",
+            "case_law": f"{RAW_BASE}/case-law/index.json",
         },
         "jurisdictions": jurisdictions,
         "evidence": evidence,
     }
     (REPO_ROOT / "manifest.json").write_text(json.dumps(manifest, indent=2, ensure_ascii=False) + "\n")
-    print(f"manifest: written; {len(practitioners['therapists'])} v2 therapist files, {len(case_studies)} case studies, {len(jurisdictions)} jurisdictions, {len(evidence)} evidence pages")
+    print(f"manifest: written; {len(practitioners['therapists'])} v2 therapist files, {len(case_studies)} case studies, {case_law_count} case-law entries, {len(jurisdictions)} jurisdictions, {len(evidence)} evidence pages")
     return 0
 
 
