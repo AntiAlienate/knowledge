@@ -5,23 +5,25 @@ jurisdiction:
   primary: Japan (national)
   binding_on: All Japanese family courts
   origin_country: Japan
-  legal_basis: Civil Code (民法) amendment passed 17 May 2024; in force from 2026
+  legal_basis: Act No. 33 of 2024 amending the Civil Code (民法); passed by the National Diet 17 May 2024; entered into force 1 April 2026
 citation_strength: landmark — Japan's first national framework for joint custody after decades of sole-custody-only regime
-last_reviewed: 2026-05-17
-location_tags: [japan, asia, civil-code-amendment, joint-custody, kyodo-shinken, sole-custody-end, hague-context]
+last_reviewed: 2026-08-01
+location_tags: [japan, asia, civil-code-amendment, joint-custody, kyodo-shinken, sole-custody-end, hague-context, in-force-2026]
 ---
 
 # Japan — 2024 Joint Parental Authority Amendment (共同親権)
 
-> **TL;DR.** Japan's 2024 Civil Code amendment **introduced joint parental authority (kyodo shinken, 共同親権) for the first time in Japan's modern history** — ending the sole-custody-only regime that had governed since the 1947 Civil Code. The reform is in force from 2026 and represents one of the most significant family-law shifts in any major jurisdiction in the past 40 years. Critical context for cross-border PA cases involving Japanese parents.
+> **✅ Status update (2026-08-01): the reform is now in force.** Act No. 33 of 2024, amending the Civil Code (民法), was passed by the National Diet on 17 May 2024 and **entered into force on 1 April 2026**. Japanese family courts have been operating under the joint-parental-authority (kyodo shinken, 共同親権) framework since that date. First-instance implementation cases are now working through the courts; early-implementation observations will be added to this entry as they become citable from primary sources.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../LICENSE)
+> **TL;DR.** Japan's 2024 Civil Code amendment **introduced joint parental authority (kyodo shinken, 共同親権) for the first time in Japan's modern history** — ending the sole-custody-only regime that had governed since the 1947 Civil Code. The reform entered into force on **1 April 2026** and represents one of the most significant family-law shifts in any major jurisdiction in the past 40 years. Critical context for cross-border PA cases involving Japanese parents.
+
+**Maintained by Alan Markson · Last reviewed:** 2026-08-01 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 
 ## Citation
 
-> Japan Civil Code amendment, passed by the National Diet on 17 May 2024 — introducing joint parental authority provisions; in force from 2026.
+> Act No. 33 of 2024 (令和6年法律第33号) — Amendment to the Civil Code (民法) introducing joint parental authority provisions. Passed by the National Diet on 17 May 2024; entered into force 1 April 2026. Ministry of Justice guidance: https://www.moj.go.jp/MINJI/minji07_00357.html
 
 ## What changed
 
@@ -34,20 +36,28 @@ location_tags: [japan, asia, civil-code-amendment, joint-custody, kyodo-shinken,
 - Estimated 500,000+ Japanese non-custodial parents had effectively zero contact with their children
 - Japan repeatedly criticized at ECHR + UN CRC committee level
 
-### After 2024 reform
+### After 2024 reform, in force from 1 April 2026
 
-- **Joint parental authority** is now possible — though not automatic
-- Parents can agree on joint custody; court can also order it
-- Specific provisions for ongoing decision-making framework
+- **Joint parental authority** is now available — though not automatic
+- Parents can agree on joint custody; the court can also order it, including over one parent's objection where the child's welfare so requires
+- Specific statutory provisions for the ongoing decision-making framework between separated parents
 - Enforcement mechanisms for contact orders are strengthened
 - Hague Convention compliance (Japan ratified 2014) becomes more workable
+- Documented domestic-violence and child-abuse cases retain sole-custody pathways (carve-outs)
+
+### Since commencement (1 April 2026)
+
+- Japanese family courts have been operating under the joint-authority framework since 1 April 2026
+- First-instance implementation cases are working through the courts; formal appellate guidance on the new provisions is not yet available in reported form
+- The Ministry of Justice has published implementation guidance for practitioners and prospective parties (https://www.moj.go.jp/MINJI/minji07_00357.html)
+- This entry will be updated with citable appellate authority as reported decisions accumulate
 
 ### Limits of the reform
 
-- Sole custody remains an option (it's not mandatory joint)
-- The 2024 amendment doesn't retroactively apply to existing sole-custody orders
-- Family courts retain wide discretion
-- Implementation through 2026+ will determine practical impact
+- Sole custody remains an option (it is not mandatory joint)
+- The 2024 amendment does not retroactively apply to existing sole-custody orders — pre-2026-04-01 orders remain in force under their original terms
+- Family courts retain wide discretion on when joint authority is appropriate
+- The DV/abuse carve-outs preserve sole-custody outcomes where those risks are found
 
 ## Why this matters for cross-border PA cases
 
