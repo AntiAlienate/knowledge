@@ -18,6 +18,8 @@ pa_relevance: high
 
 # Ley Orgánica 8/2021 (LOPIVI), Artículo 11 — Derecho de las víctimas a ser escuchadas (inadmissió del "Síndrome de Alienación Parental")
 
+> **📌 Update (2026-08-02): Spain is proposing to harden this prohibition.** On 5 May 2026 the Consejo de Ministros approved in first reading a draft reform of LO 8/2021 that would extend the SAP-inadmission language to cover "SAP or any of its reformulations" and bar reports based on such approaches. See the companion file [Spain LO 8/2021 hardening reform 2026](../../statutes/spain-lo-8-2021-hardening-reform-2026.md) for the timeline and sourcing. The 2021 text below remains in force pending the reform.
+
 **Jurisdiction:** Spain · **Citation:** Ley Orgánica 8/2021, de 4 de junio, de protección integral a la infancia y la adolescencia frente a la violencia (LOPIVI), art. 11 · **Authoritative source:** [BOE-A-2021-9347](https://www.boe.es/buscar/act.php?id=BOE-A-2021-9347)
 
 The **world's only statutory inadmission of "Síndrome de Alienación Parental" (SAP)**. Article 11.3 of LOPIVI explicitly directs public authorities (including courts and family-court practitioners) **not** to admit theoretical approaches or criteria without scientific support that presume adult interference or manipulation — including the so-called *síndrome de alienación parental*. This is the strongest statutory rejection of the PA-syndrome construct anywhere in the world.
