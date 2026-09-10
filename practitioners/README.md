@@ -18,7 +18,7 @@ Targeted parents, accused parents, and family lawyers all need to find practitio
 
 ### Lawyers
 
-- **[United States](lawyers/us.md)** — 11 verified entries; JSON: [us.json](lawyers/us.json)
+- **[United States](lawyers/us.md)** — 23 verified entries; JSON: [us.json](lawyers/us.json)
 - **United Kingdom** — coming next (Charlotte Proudman, Right to Equality, FNF panel barristers)
 - **Canada** — coming next (Bala-associated practitioners; Martinson tradition)
 - **Australia / NZ** — coming next (post-2024 reform)

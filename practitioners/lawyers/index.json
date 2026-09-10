@@ -391,7 +391,7 @@
       "country": "United States",
       "country_code": "US",
       "schema_version": "2.0",
-      "entries_count": 11,
+      "entries_count": 23,
       "excluded_count": 8,
       "entry_ids": [
         "us.joshi-ashish",
@@ -404,7 +404,19 @@
         "us.drew-margaret",
         "us.tabashneck-stephanie",
         "us.eddy-william-bill",
-        "us.martinson-donna-j"
+        "us.martinson-donna-j",
+        "us.bruch-carol-s",
+        "us.griffin-virginia-e",
+        "us.schnider-robert-a",
+        "us.tippins-timothy-m",
+        "us.steinberger-chaim",
+        "us.trager-jordan-e",
+        "us.fischel-wolovick-lisa",
+        "us.susser-kim",
+        "us.roe-michael",
+        "us.platt-stacey",
+        "us.hoffman-robert",
+        "us.hirschberg-david"
       ],
       "excluded_ids": [
         "us.goldberg-joseph",

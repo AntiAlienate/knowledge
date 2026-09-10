@@ -4,11 +4,12 @@
   "country_code": "US",
   "type": "lawyers",
   "license": "CC-BY-4.0",
-  "generated": "2026-05-31",
+  "generated": "2026-09-10",
   "jurisdictional_context": "The United States has no federal family-court jurisdiction: divorce, custody, and parental alienation (PA) litigation are governed almost entirely by state codes (California Family Code §§ 3010-3048, Texas Family Code Chapter 153, New York Domestic Relations Law § 240, Florida Statutes Chapter 61, Illinois Marriage and Dissolution of Marriage Act 750 ILCS 5/, Massachusetts G.L. c. 208 § 31, Michigan Child Custody Act 722.23, and analogous codes in the remaining states). This fragments PA practice into 50+ doctrinal envelopes with substantial variation in best-interest standards, the treatment of intimate-partner-violence findings, and the admissibility of PA-related expert testimony under each state's Daubert or Frye analogue. The only federal anchor is the Violence Against Women Act (VAWA) 2022 reauthorization, which incorporated the Keeping Children Safe from Family Violence Act (Kayden's Law) as a state-incentive grant programme conditioning federal funding on adoption of specified evidentiary and expert-witness reforms.\n\nState bar associations are the regulators (admission, discipline, MCLE); the American Bar Association (ABA) sets non-binding model rules and publishes the practitioner literature (most notably Joshi's Litigating Parental Alienation, ABA Publishing 2021, the ABA's only book-length PA litigation manual). The two specialty professional bodies that anchor US family-law PA practice are the Association of Family and Conciliation Courts (AFCC) — interdisciplinary, AFCC Model Standards for Child Custody Evaluations (2006) and AFCC Guidelines for Examining Intimate Partner Violence (2016) function as de facto national practice standards — and the American Academy of Matrimonial Lawyers (AAML), a fellowship limited to ~1,650 board-certified family-law specialists nationally. AAML Fellow status is the highest US family-law credential and is correlated with the recognition-axis position (PA as legitimate litigation construct) because AAML's CLE programming and Journal of the American Academy of Matrimonial Lawyers have historically platformed the PASG-aligned literature.\n\nThe PA practitioner-axis structure in US legal practice runs along the same recognition-vs-DV-survivor-aligned fault line as the German BVerfG 1 BvR 1076/23 (2023) and Italian Cassazione 9691/2022 case-law axis: PASG / AAML-aligned attorneys (Joshi, Lorandos, Leving, Jamieson) frame PA as a discrete diagnosable phenomenon worth litigating to outcome; DV / family-violence-aligned attorneys (Meier at GW Law's National Family Violence Law Center, Kleinman at Adler & Kleinman, Griffin at Child Justice Inc., Drew at UMass Law) frame the PA construct as systematically misused against domestic-violence survivors in custody proceedings. AFCC-aligned middle-camp practitioners (Tabashneck dual-credentialed PsyD/JD, Eddy at High Conflict Institute) operate the high-conflict / differential-diagnosis vocabulary that the family bench most often defaults to when neither pure-recognition nor pure-critique framing controls the case."
   ,
   "structural_findings": [
-    "11 verified US-admitted JD entries — the US legal landscape is state-fragmented (no federal family-court jurisdiction), so practice axes track state bar admissions rather than a national regulator. Stance is documented from primary publications, statutes co-authored, NIJ/VAWA legislative drafting credits, and named press coverage; never inferred.",
+    "23 verified entries — the US legal landscape is state-fragmented (no federal family-court jurisdiction), so practice axes track state bar admissions rather than a national regulator. Stance is documented from primary publications, statutes co-authored, NIJ/VAWA legislative drafting credits, and named press coverage; never inferred.",
+    "September 2026 state-bar expansion: 12 entries added across California, New York, Illinois, Texas and Florida — 5 recognition (Griffin CA, Steinberger NY, Trager NY, Roe IL, Hoffman TX), 3 critique (Bruch CA, Fischel-Wolovick NY, Susser NY) and 4 middle (Schnider CA, Tippins NY, Platt IL, Hirschberg FL). Each was checked against the relevant official bar record (State Bar of California, NYS Unified Court System registration data, Illinois ARDC, State Bar of Texas, The Florida Bar directory). Currently practising critique-camp attorneys with a citable body of work proved hardest to verify outside New York: in California the critique position is carried by an academic, and no Texas, Florida, Illinois or Pennsylvania critique-camp attorney met the directory standard in this pass. No Pennsylvania entry met the standard; candidates remain under review.",
     "Recognition-axis attorneys are typically AAML (American Academy of Matrimonial Lawyers) members or AAML-platformed authors and route their practice through the ABA Section of Family Law and PASG-affiliated conference circuit. Joshi (ABA-published treatise author, MI/NY/DC/US Supreme Court bars) is the apex US recognition-camp lawyer; Lorandos (PsychLaw founder, co-author with Bernet of Parental Alienation: Science and Law) is the appellate-case-catalogue architect; Jamieson holds Florida Bar Board Certification in Marital & Family Law (the highest FL credential); Leving is the legislative-drafting outlier (Illinois Joint Custody Law and Illinois Virtual Visitation statute co-author).",
     "Critique-axis attorneys are typically DV / family-violence-aligned and route practice through the National Family Violence Law Center at GW Law (Meier), Child Justice Inc. (Griffin), UMass School of Law / Routledge academic press (Drew), or Adler & Kleinman / Oxford UP / Nova Southeastern (Kleinman). Meier is the most-cited US critique-camp scholar (NIJ-funded 2019 empirical study; co-drafter Kayden's Law incorporated into VAWA 2022); Kleinman holds the Oxford UP authorship (Domestic Abuse, Child Custody, and Visitation, 2017); Griffin operates the only US legal-services organisation explicitly built to appeal PA-based custody decisions.",
     "AFCC / middle-axis practitioners in the US lawyer directory are thin because most AFCC-aligned figures are PhD / PsyD clinicians or evaluators rather than JDs. The two JD entries here are Tabashneck (dual-credentialed PsyD/JD, MA AFCC chapter president, Petrie-Flom / Harvard Law) and Eddy (CA CFLS for 15 years, High Conflict Institute co-founder, Pepperdine Straus Institute faculty) — both function as bridging vocabulary providers rather than litigators-to-outcome.",
@@ -301,6 +302,300 @@
       "references": [
         "jurisdiction:united-states",
         "practitioner:us.eddy-william-bill"
+      ]
+    },
+    {
+      "id": "us.bruch-carol-s",
+      "name": "Carol S. Bruch, JD",
+      "credentials": "JD (UC Berkeley School of Law); Professor Emerita and Research Professor of Law, UC Davis; CA bar licence inactive since 2015",
+      "registration_number": "CA Bar #56403",
+      "city": "Davis",
+      "region": "CA",
+      "affiliation": "Professor Emerita and Research Professor of Law, University of California, Davis School of Law",
+      "stance": "critique",
+      "stance_notes": "Author of an academic legal critique of parental-alienation theory. Her 2001 Family Law Quarterly essay concludes that 'PAS as developed and purveyed by Richard Gardner has neither a logical nor a scientific basis' and that parental alienation, 'although more refined in its understanding of child-parent difficulties, entails intrusive, coercive, unsubstantiated remedies of its own.' The revised 2002 version (Child and Family Law Quarterly) credits Kelly/Johnston-school clinicians with 'helpful clinical insights' while arguing that some of their special-master proposals conflict with California law on the delegation of judicial authority. Academic commentary rather than trial litigation.",
+      "publications": [
+        {"title": "Parental Alienation Syndrome and Parental Alienation: Getting It Wrong in Child Custody Cases", "year": 2001, "venue": "Family Law Quarterly 35(3):527-552"},
+        {"title": "Parental Alienation Syndrome and Alienated Children – getting it wrong in child custody cases", "year": 2002, "venue": "Child and Family Law Quarterly 14(4):381", "url": "https://law.ucdavis.edu/sites/g/files/dgvnsk10866/files/media/documents/bruch.pdf"}
+      ],
+      "urls": [
+        "https://apps.calbar.ca.gov/attorney/Licensee/Detail/56403",
+        "https://law.ucdavis.edu/sites/g/files/dgvnsk10866/files/media/documents/bruch.pdf"
+      ],
+      "contact": "Not publicly confirmed",
+      "verification_notes": "State Bar of California licensee record #56403 checked 2026-09-10: admitted 1973; licence status Inactive since 5 January 2015; no public discipline listed. Stance quotations taken directly from the full texts of the 2001 (FLQ) and 2002 (CFLQ) articles. Current faculty title taken from the articles' author notes because the UC Davis profile page was not reachable; current activity in the field not verified.",
+      "references": [
+        "jurisdiction:us-california"
+      ]
+    },
+    {
+      "id": "us.griffin-virginia-e",
+      "name": "Virginia E. Griffin",
+      "credentials": "JD; State Bar of California (admitted 2020); MA Educational Psychology and school-psychologist credential (per firm bio)",
+      "registration_number": "CA Bar #330929",
+      "city": "Beverly Hills",
+      "region": "CA",
+      "affiliation": "Founder, Griffin Donnell and Associates, APC",
+      "stance": "recognition",
+      "stance_notes": "In her 2022 'Plea to the Judiciary: How to Approach Cases of Parental Alienation' she urges judges to 'become thoroughly educated on parental alienation.' She says PA 'has been made needlessly and unjustifiably controversial' and that family codes 'increasingly recognize not only the phenomenon of alienation, but also that it is a serious form of child psychological abuse.' She also warns that California's coercive-control DVRO provision (Fam. Code 6320) can be 'manipulated by nefarious litigants who are pursuing an alienation agenda.' Her firm's Lobbying page says she urged the California Senate to reconsider SB 616 (Rubio, 2022) so that 'all victims of psychological abuse and parental alienation' could obtain remedies. Her 2024 Family Transitions article responds to Garber and Simon's critique of the Five Factor Model. It is more conciliatory: it calls for professionals not to 'become polarized' and notes that Garber and Simon themselves see value in the FFM.",
+      "publications": [
+        {"title": "Building a Better Way: A Lawyer's Response to Benjamin D. Garber and Robert A. Simon", "year": 2024, "venue": "Family Transitions 65(1):49-64", "url": "https://doi.org/10.1080/28375300.2024.2313378"},
+        {"title": "Plea to the Judiciary: How to Approach Cases of Parental Alienation", "year": 2022, "venue": "Griffin Donnell and Associates website", "url": "https://griffindonnell.com/articles/lobbying/plea-to-the-judiciary-how-to-approach-cases-of-parental-alienation"}
+      ],
+      "urls": [
+        "https://apps.calbar.ca.gov/attorney/Licensee/Detail/330929",
+        "https://griffindonnell.com/articles/lobbying/plea-to-the-judiciary-how-to-approach-cases-of-parental-alienation",
+        "https://griffindonnell.com/meet-our-team"
+      ],
+      "contact": "https://griffindonnell.com/contact-us",
+      "verification_notes": "State Bar of California licensee record #330929 checked 2026-09-10: Active, admitted 21 May 2020, no public discipline listed. Stance quotations read directly from the firm-hosted 2022 article. 2024 Family Transitions article confirmed via Crossref metadata (sole author). Legislative advocacy on SB 616 and Kayden's Law is described on the firm's own pages and was not independently verified; psychology credentials per firm bio, not independently verified.",
+      "references": [
+        "jurisdiction:us-california"
+      ]
+    },
+    {
+      "id": "us.schnider-robert-a",
+      "name": "Hon. Robert A. Schnider (Ret.)",
+      "credentials": "JD (UC Berkeley, 1970); retired Judge, Los Angeles Superior Court (Family Law)",
+      "registration_number": "CA Bar #49060",
+      "city": "Sherman Oaks",
+      "region": "CA",
+      "affiliation": "Private neutral, Alternative Resolution Center (ARC); retired Judge, Los Angeles Superior Court",
+      "stance": "middle",
+      "stance_notes": "Co-author, with psychologist Lyn R. Greenberg (lead author), of a series of works on early intervention in resistance-refusal dynamics (2012-2020). The 2020 Family Court Review article observes that the narratives presented to judges are often polarized — either 'abuse' or 'alienation' — 'rarely reflecting the complexity of poor parenting, exposure to conflict, developmental issues, parent and child vulnerabilities that more often underlie these cases.' It accepts 'legitimate criticisms' that Gardner's early conceptualization 'overemphasized blaming the preferred parent' and 'ignored real risk factors like intimate partner violence', while also criticizing positions that deny children can be influenced against a parent. AFCC-style resist/refuse framing, written from the position of a former judicial officer now working as a private neutral rather than an advocate.",
+      "publications": [
+        {"title": "We're Still Taking X-Rays but the Patient is Dying: What Keeps us from Intervening More Quickly in Resist-Refuse Cases? (with Lyn R. Greenberg)", "year": 2020, "venue": "Family Court Review 58(2):488-506", "url": "https://www.lyngreenbergphd.com/pdf/2022_new_zealand_presentation/Greenberg_and_Schnider,_Still_taking_xrays_but_the_patient_is_dying,_earlier_intervention.pdf"},
+        {"title": "Early Intervention with Resistance/Refusal Dynamics and Hybrid Cases (with Lyn R. Greenberg and Julie Jackson)", "year": 2019, "venue": "In Greenberg, Fidler & Saini (eds.), Evidence-Informed Interventions for Court-Involved Families, Oxford University Press"},
+        {"title": "Catching Them Before Too Much Damage is Done: Early Intervention with Resistance-Refusal Dynamics (with Lyn R. Greenberg and Lynda Doi Fick)", "year": 2016, "venue": "Family Court Review 54(4):548-563"},
+        {"title": "Keeping the Developmental Frame: Child-Centered Conjoint Therapy (with Lyn R. Greenberg and Lynda Doi Fick)", "year": 2012, "venue": "Journal of Child Custody 9(1-2):39-68"}
+      ],
+      "urls": [
+        "https://apps.calbar.ca.gov/attorney/Licensee/Detail/49060",
+        "https://arc4adr.com/panelists/hon-robert-a-schnider/"
+      ],
+      "contact": "https://arc4adr.com/panelists/hon-robert-a-schnider/",
+      "verification_notes": "State Bar of California licensee record #49060 checked 2026-09-10: Active (status 'Judge' 2002-2008), admitted 1971, no public discipline listed. Identity matched across the bar record, the ARC panelist bio and the 2020 Family Court Review author note. Stance quotations read from the 2020 article text hosted on the co-author's website; other publications confirmed via Crossref metadata. Individual contribution to co-authored work cannot be separated.",
+      "references": [
+        "jurisdiction:us-california"
+      ]
+    },
+    {
+      "id": "us.tippins-timothy-m",
+      "name": "Timothy M. Tippins",
+      "credentials": "JD (Albany Law School); admitted NY 1975; Adjunct Professor, Albany Law School (per professional bio)",
+      "registration_number": "NY Reg. #1281575",
+      "city": "East Greenbush",
+      "region": "NY",
+      "affiliation": "Private practice (trial counsel and consultant to family-law practitioners); MatLaw Systems CLE faculty",
+      "stance": "middle",
+      "stance_notes": "His published work centres on the quality and limits of custody-evaluation evidence rather than on endorsing or rejecting parental alienation as such. Co-author, with psychologist Jeffrey P. Wittmann, of 'Empirical and Ethical Problems with Custody Recommendations: A Call for Clinical Humility and Judicial Vigilance' (Family Court Review, 2005). His professional bio describes a practice with 'special emphasis on the presentation and cross-examination of expert mental health testimony'. His 2019 New York Law Journal column 'Parental Alienation: What a Concept!' examines a trial court's definition of the term in J.F. v. D.F.; the full column is paywalled and its conclusions are not characterized here.",
+      "publications": [
+        {"title": "Empirical and Ethical Problems with Custody Recommendations: A Call for Clinical Humility and Judicial Vigilance (with Jeffrey P. Wittmann)", "year": 2005, "venue": "Family Court Review 43(2):193-222", "url": "https://doi.org/10.1111/j.1744-1617.2005.00019.x"},
+        {"title": "Parental Alienation: What a Concept! (Matrimonial Practice column)", "year": 2019, "venue": "New York Law Journal", "url": "https://www.law.com/newyorklawjournal/2019/01/11/parental-alienation-what-a-concept/"}
+      ],
+      "urls": [
+        "https://matlaw.com/bios/",
+        "https://matlaw.com/family-court-review/",
+        "https://data.ny.gov/resource/eqw2-r5nb.json?registration_number=1281575"
+      ],
+      "contact": "https://matlaw.com/bios/",
+      "verification_notes": "NYS Unified Court System attorney registration record (public dataset on data.ny.gov), re-checked 2026-09-10: registration #1281575, Currently registered, admitted 1975 (Third Department), East Greenbush. The UCS online attorney search, which also displays public discipline, was not reachable by automated access; no public discipline was found in web searches. FCR 2005 citation confirmed via Crossref; bio facts from the MatLaw Systems faculty page; NYLJ 2019 column confirmed by title, author and summary only.",
+      "references": [
+        "jurisdiction:us-new-york"
+      ]
+    },
+    {
+      "id": "us.steinberger-chaim",
+      "name": "Chaim Steinberger",
+      "credentials": "JD; admitted NY 1995; admitted EDNY, SDNY and US Supreme Court (per firm CV)",
+      "registration_number": "NY Reg. #2645505",
+      "city": "New York",
+      "region": "NY",
+      "affiliation": "Principal, Chaim Steinberger, P.C.; former Chair, ABA Family Law Section Custody Committee (2018-2020) (per firm CV)",
+      "stance": "recognition",
+      "stance_notes": "Author of 'Father? What Father? Parental Alienation and Its Effects on Children' (NYSBA Family Law Review, Spring 2006; reprinted in the Appellate Divisions' Law Guardian Reporter, August 2006). The article adopts the definition that PAS 'occurs when one parent campaigns successfully to manipulate his or her children to despise the other parent despite the absence of legitimate reasons' and discusses remedies including increased contact with, and in severe cases custody transfer to, the rejected parent. His firm site has a dedicated parental-alienation practice page stating that he 'has been litigating alienation cases for over two decades'.",
+      "publications": [
+        {"title": "Father? What Father? Parental Alienation and Its Effects on Children", "year": 2006, "venue": "NYSBA Family Law Review (Spring 2006); reprinted in Law Guardian Reporter (August 2006)", "url": "https://www.manhattan-law.com/pubs/effects-of-parental-alienation/"}
+      ],
+      "urls": [
+        "https://www.manhattan-law.com/pubs/chaim-steinbergers-c-v/",
+        "https://www.manhattan-law.com/parental-alienation-lawyer-nyc/",
+        "https://data.ny.gov/resource/eqw2-r5nb.json?registration_number=2645505"
+      ],
+      "contact": "https://www.manhattan-law.com/parental-alienation-lawyer-nyc/",
+      "verification_notes": "NYS Unified Court System attorney registration record (public dataset on data.ny.gov), re-checked 2026-09-10: registration #2645505, Currently registered, admitted 1995 (Second Department), Chaim Steinberger, P.C., New York. The UCS online attorney search, which also displays public discipline, was not reachable by automated access; no public discipline was found in web searches. Publication, admissions and ABA/NYSBA roles from the firm-hosted CV and article pages. The firm's statement that courts have cited the article was not independently verified and is not relied on.",
+      "references": [
+        "jurisdiction:us-new-york"
+      ]
+    },
+    {
+      "id": "us.trager-jordan-e",
+      "name": "Jordan E. Trager",
+      "credentials": "JD; admitted NY 1995, EDNY and SDNY 1996; certified divorce and family-law mediator (per firm bio)",
+      "registration_number": "NY Reg. #2666071",
+      "city": "Carle Place",
+      "region": "NY",
+      "affiliation": "Partner, Wisselman Harounian Family Law",
+      "stance": "recognition",
+      "stance_notes": "His firm bio states that 'for many years Jordan led the Parental Alienation Awareness Organization, a not-for-profit dedicated to educating the public and legal community on this challenging issue', that he presented at an international parental-alienation conference in Toronto on the psychological harms of parental alienation to the alienated child, and lists parental-alienation issues among his practice areas. A 2025 practice article on the firm's website (no explicit byline) states that 'parental alienation is becoming increasingly accepted by the courts' and advises proving both the alienation and 'the extensive damage that parental alienation has done to the child' through qualified experts.",
+      "publications": [
+        {"title": "Proving Parental Alienation and Psychological Damages to the Child at Trial", "year": 2025, "venue": "Wisselman Harounian Family Law website (unbylined practice article)", "url": "https://lawjaw.com/practices/divorce/equitable-distribution/proving-parental-alienation-and-psychological-damages-to-the-child-at-trial/"}
+      ],
+      "urls": [
+        "https://lawjaw.com/attorneys/jordan-e-trager/",
+        "https://data.ny.gov/resource/eqw2-r5nb.json?registration_number=2666071"
+      ],
+      "contact": "https://lawjaw.com/attorneys/jordan-e-trager/",
+      "verification_notes": "NYS Unified Court System attorney registration record (public dataset on data.ny.gov), re-checked 2026-09-10: registration #2666071, Currently registered, admitted 1995 (Second Department), Wisselman Harounian Family Law, Carle Place. The UCS online attorney search, which also displays public discipline, was not reachable by automated access; no public discipline was found in web searches. Parental-alienation roles and presentations are from the firm bio and were not independently verified. The 2025 practice article carries no explicit byline; attribution rests on its reference to him. A 2019 New York Law Journal article listed in his bio is omitted because its title could not be confirmed.",
+      "references": [
+        "jurisdiction:us-new-york"
+      ]
+    },
+    {
+      "id": "us.fischel-wolovick-lisa",
+      "name": "Lisa Fischel-Wolovick, JD, MSW",
+      "credentials": "JD; MSW; admitted NY 1989 (per firm bio and NYS registration record)",
+      "registration_number": "NY Reg. #2296879",
+      "city": "New York",
+      "region": "NY",
+      "affiliation": "Private practice (Manhattan); graduate program in Forensic Psychology, John Jay College of Criminal Justice (CUNY) (per firm bio)",
+      "stance": "critique",
+      "stance_notes": "Her 2020 article 'Battered mothers and children in the courts: A lawyer's view' states in its abstract that 'gender-biased theories of parental alienation' have 'undermined legislation intended to protect victims of domestic violence and their children', and that limited court transparency 'has further contributed to its reliance on empirically weak gender-biased parental alienation theories'; it recommends trauma-informed judicial practice and neutral court-watch observers. Her Oxford University Press book 'Traumatic Divorce and Separation' (2018) includes a 'Parental Alienation' section in chapter 4 (per the table of contents on her firm site). Firm bio describes her as having 'represented battered women for over thirty-five years'.",
+      "publications": [
+        {"title": "Battered mothers and children in the courts: A lawyer's view", "year": 2020, "venue": "International Journal of Applied Psychoanalytic Studies 17(3)", "url": "https://doi.org/10.1002/aps.1669"},
+        {"title": "The experience of domestic violence survivors in the US family courts: gender bias in the court", "year": 2021, "venue": "The International Journal of Forensic Psychotherapy 3(1)", "url": "https://doi.org/10.33212/ijfp.v3n1.2021.43"},
+        {"title": "Traumatic Divorce and Separation: The Impact of Domestic Violence and Substance Abuse in Custody and Divorce", "year": 2018, "venue": "Oxford University Press"}
+      ],
+      "urls": [
+        "https://wolovicklaw.com/bio.php",
+        "https://wolovicklaw.com/publications.php",
+        "https://data.ny.gov/resource/eqw2-r5nb.json?registration_number=2296879"
+      ],
+      "contact": "https://wolovicklaw.com/bio.php",
+      "verification_notes": "NYS Unified Court System attorney registration record (public dataset on data.ny.gov), re-checked 2026-09-10: registration #2296879, Currently registered, admitted 1989 (First Department), New York. The UCS online attorney search, which also displays public discipline, was not reachable by automated access; no public discipline was found in web searches. Stance quotations taken from the 2020 article's published abstract (Crossref metadata). The 2018 book and its 'Parental Alienation' section heading confirmed via the table of contents on her firm site.",
+      "references": [
+        "jurisdiction:us-new-york"
+      ]
+    },
+    {
+      "id": "us.susser-kim",
+      "name": "Kim Susser",
+      "credentials": "JD; admitted NY 1990 (per NYS registration record)",
+      "registration_number": "NY Reg. #2308443",
+      "city": "New York",
+      "region": "NY",
+      "affiliation": "Law Office of Kim Susser (family law and domestic violence); former Director, Matrimonial & Family Law Unit, New York Legal Assistance Group (per her own site)",
+      "stance": "critique",
+      "stance_notes": "Author of the custody chapter 'Litigating Custody and Visitation in Domestic Violence Cases' in the Lawyer's Manual on Domestic Violence (6th ed., 2015), published under the Appellate Division, First Department and the NYS Judicial Committee on Women in the Courts. Its 'Parental Alienation' section states that a victim's protective efforts 'may be misinterpreted by courts, lawyers, and experts as parental alienation', that 'the attorney for the victim should vigorously challenge it via oral argument or preliminary motion', and refers to 'this fictional syndrome'; it also notes the 'friendly parent' factor 'is used against domestic violence victims'. Earlier work: 'Weighing the Domestic Violence Factor in Custody Cases' (Fordham Urban Law Journal, 2000).",
+      "publications": [
+        {"title": "Litigating Custody and Visitation in Domestic Violence Cases (ch. 15)", "year": 2015, "venue": "Lawyer's Manual on Domestic Violence: Representing the Victim, 6th ed. (Davis, Leidholdt & Watson eds.), Appellate Division, First Department / NYS Judicial Committee on Women in the Courts"},
+        {"title": "Weighing the Domestic Violence Factor in Custody Cases: Tipping the Scales in Favor of Protecting Victims & Children", "year": 2000, "venue": "Fordham Urban Law Journal 27:875"}
+      ],
+      "urls": [
+        "https://www.kimsusser.com/",
+        "https://www.specialedlawyer.com/kim-susser-1",
+        "https://data.ny.gov/resource/eqw2-r5nb.json?registration_number=2308443"
+      ],
+      "contact": "https://www.kimsusser.com/",
+      "verification_notes": "NYS Unified Court System attorney registration record (public dataset on data.ny.gov), re-checked 2026-09-10: registration #2308443, Currently registered, admitted 1990 (Third Department), Law Office of Kim Susser, New York. The UCS online attorney search, which also displays public discipline, was not reachable by automated access; no public discipline was found in web searches. Chapter text and contributor note read from a full-text copy of the 6th edition of the Lawyer's Manual (the official nycourts.gov copy was not reachable by automated access). The Fordham article is taken from her own publications list.",
+      "references": [
+        "jurisdiction:us-new-york"
+      ]
+    },
+    {
+      "id": "us.roe-michael",
+      "name": "Michael F. Roe",
+      "credentials": "JD (University of San Diego School of Law); admitted Illinois 1992; certified divorce mediator and guardian ad litem (per firm bio)",
+      "city": "DeKalb",
+      "region": "IL",
+      "affiliation": "Law Offices of Michael F. Roe, LLC (DeKalb and Geneva, IL); author of the Illinois Divorce Lawyer Blog",
+      "stance": "recognition",
+      "stance_notes": "In a September 2026 post announcing his book, Roe writes: 'I take parental alienation seriously as a real and damaging phenomenon. I have watched it destroy relationships between loving parents and their children.' His May 2025 post says that in Illinois, parental alienation 'is recognized as a form of emotional abuse' and that 'many GALs and judges do not fully understand this phenomenon.' His firm bio says his practice involves high-conflict custody cases with personality-disorder issues and parental alienation. He has blogged on the subject since at least 2007, and he describes himself as a longstanding member of the Parental Alienation Study Group.",
+      "publications": [
+        {"title": "The Guardian ad Litem and Parental Alienation (book, as announced on the author's blog)", "year": 2026, "venue": "Illinois Divorce Lawyer Blog announcement, 3 September 2026 (publisher and ISBN not verified)", "url": "https://www.illinoisdivorcelawyerblog.com/the-guardian-ad-litem-and-parental-alienation-new-book-on-amazon/"},
+        {"title": "DuPage Divorce: What is Parental Alienation in Illinois law?", "year": 2025, "venue": "Illinois Divorce Lawyer Blog", "url": "https://www.illinoisdivorcelawyerblog.com/dupage-divorce-what-is-parental-alienation-in-illinois-law/"}
+      ],
+      "urls": [
+        "https://www.illinois-attorney.net/lawyers/michael-f-roe/",
+        "https://www.illinoisdivorcelawyerblog.com/dupage-divorce-what-is-parental-alienation-in-illinois-law/",
+        "https://www.iardc.org/Lawyer/Search"
+      ],
+      "contact": "https://www.illinois-attorney.net/contact-us/",
+      "verification_notes": "Illinois ARDC lawyer record checked 2026-09-10: admitted 7 May 1992; Active and authorized to practice law; no public discipline or pending proceedings. ARDC does not display a registration number. Education, mediator and GAL credentials and practice focus from the firm bio; stance quotations read directly from his own blog posts. Parental Alienation Study Group membership is self-reported and was not checked against a roster.",
+      "references": [
+        "jurisdiction:us-illinois"
+      ]
+    },
+    {
+      "id": "us.platt-stacey",
+      "name": "Stacey E. Platt, JD",
+      "credentials": "JD cum laude (New York University, 1991); admitted Illinois 1991; Curt and Linda Rodin Clinical Professor of Law and Social Justice",
+      "city": "Chicago",
+      "region": "IL",
+      "affiliation": "Associate Director, Civitas ChildLaw Center and Clinic, Loyola University Chicago School of Law; President (2023-2024), Association of Family and Conciliation Courts (AFCC)",
+      "stance": "middle",
+      "stance_notes": "Platt co-authored 'Gatekeeping by Allegations' (Family Court Review, 2020), which places confirmed, unfounded and fabricated maltreatment allegations 'within the context of resist and refusal dynamics'. The article calls for early screening protocols 'to differentiate allegations of alienation from other types of harm' and asks child protection services 'to refrain from \"taking sides\"'. This is the AFCC-style resist/refuse framing, not a pure recognition or critique position. She co-presented 'Allegations of Child Abuse during Child Custody Disputes' in AFCC's Special Webinar Series on Parent-Child Contact Problems (2020) and has presented widely on the child's voice in high-conflict custody cases. Her background includes domestic-violence and child-protection work at the Legal Assistance Foundation of Chicago.",
+      "publications": [
+        {"title": "Gatekeeping by Allegations: An Examination of Verified, Unfounded, and Fabricated Allegations of Child Maltreatment Within the Context of Resist and Refusal Dynamics (with Michael Saini and Taina Laajasalo)", "year": 2020, "venue": "Family Court Review 58(2):417-431", "url": "https://doi.org/10.1111/fcre.12480"},
+        {"title": "Set Another Place at the Table: Child Participation in Family Separation Cases", "year": 2016, "venue": "Cardozo Journal of Conflict Resolution 17(3)"}
+      ],
+      "urls": [
+        "https://www.luc.edu/law/faculty/facultyandadministrationprofiles/platt-stacey-e.shtml",
+        "https://www.luc.edu/law/stories/faculty-profiles/stacey-platt-family-advocate/",
+        "https://www.iardc.org/Lawyer/Search"
+      ],
+      "contact": "https://www.luc.edu/law/faculty/facultyandadministrationprofiles/platt-stacey-e.shtml",
+      "verification_notes": "Illinois ARDC lawyer record checked 2026-09-10: admitted 7 November 1991; Active and authorized to practice law; no public discipline or pending proceedings. Title, education, AFCC presidency and publications from the Loyola faculty profile. Family Court Review citation and abstract confirmed via Crossref; full article text not reviewed. Individual contribution to the co-authored article cannot be separated.",
+      "references": [
+        "jurisdiction:us-illinois"
+      ]
+    },
+    {
+      "id": "us.hoffman-robert",
+      "name": "Robert S. Hoffman",
+      "credentials": "JD (Baylor University, 1986); licensed in Texas since 1986",
+      "registration_number": "TX Bar #09788350",
+      "city": "Houston",
+      "region": "TX",
+      "affiliation": "Law Office of Robert S. Hoffman, P.L.L.C.",
+      "stance": "recognition",
+      "stance_notes": "In recorded talks for Families Divided TV (2022 and 2025) he treats parental alienation as a distinct, litigable dynamic: he advises against trying these cases as ordinary 'he said, she said' disputes, recommends presenting them 'as if they are scientific cases, medical cases', and says counsel should educate the court on what parental alienation is and 'the fact that it's child abuse'. He lists elements to establish — a prior good relationship with the rejected parent, the child's rejection of that parent, and that the rejection results from 'the undue influence of the other parent' — and recommends at least one qualified expert witness to assess whether alienation is present. Quotations are from the videos' auto-generated captions.",
+      "publications": [
+        {"title": "Litigating a Parental Alienation Case (video talk)", "year": 2022, "venue": "Families Divided TV (YouTube)", "url": "https://www.youtube.com/watch?v=f6yLfMrDLnE"},
+        {"title": "How is a Case of Parental Alienation Handled in Court? (video segment)", "year": 2025, "venue": "Families Divided TV (YouTube)", "url": "https://www.youtube.com/watch?v=MjFlFZlInjU"}
+      ],
+      "urls": [
+        "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=172204",
+        "https://www.youtube.com/watch?v=f6yLfMrDLnE"
+      ],
+      "contact": "https://www.texasbar.com/AM/Template.cfm?Section=Find_A_Lawyer&template=/Customsource/MemberDirectory/MemberDirectoryDetail.cfm&ContactID=172204",
+      "verification_notes": "State Bar of Texas profile checked 2026-09-10: Eligible to Practice in Texas; bar card 09788350; licensed 7 November 1986; primary practice area Family; no public disciplinary history. Stance taken from his own statements in two Families Divided TV videos (auto-generated captions, not a certified transcript). A board certification in family law mentioned in a self-provided video bio is not shown on the State Bar profile and is not claimed here. The firm website did not resolve on 2026-09-10.",
+      "references": [
+        "jurisdiction:us-texas"
+      ]
+    },
+    {
+      "id": "us.hirschberg-david",
+      "name": "David L. Hirschberg",
+      "credentials": "JD; Florida Bar Board Certified in Marital and Family Law; Fellow, AAML and IAFL (per firm bio)",
+      "registration_number": "FL Bar #667552",
+      "city": "Boca Raton",
+      "region": "FL",
+      "affiliation": "Shareholder, Gladstone, Weissman, Hirschberg & Schneider, P.A.",
+      "stance": "middle",
+      "stance_notes": "Co-authored, with forensic psychologist Deborah O. Day, Psy.D., 'Resist and Refuse Dynamics: Alienation is Not the Only Answer'. The article says a fractured parent-child relationship 'is not a \"good guy, bad guy analysis.\" It is not a question of \"alienation or not alienation\"', and that such fractures 'must be analyzed as part of the complex family system in which they occur.' It places families on a 'Continuum of Family Dynamics' (healthy attachment, preferred attachment, alignment, enmeshment, estrangement, parental alienation behavior). It also uses a parental-gatekeeping framework that separates justified from unjustified gatekeeping, noting that protective gatekeeping can arise from domestic violence, substance abuse or child abuse, and it cites Friedlander & Walters (Family Court Review, 2016) on the resist/refuse dynamic. This is AFCC-style multi-factor, resist/refuse vocabulary, so the stance is 'middle'.",
+      "publications": [
+        {"title": "Resist and Refuse Dynamics: Alienation is Not the Only Answer (with Deborah O. Day, Psy.D.)", "year": 2024, "venue": "AAML Florida Chapter", "url": "https://aamlflorida.org/resist-and-refuse-dynamics-alienation-is-not-the-only-answer/"}
+      ],
+      "urls": [
+        "https://web.archive.org/web/20260910213508/https://www.floridabar.org/directories/find-mbr/?lName=Hirschberg&fName=David",
+        "https://aamlflorida.org/resist-and-refuse-dynamics-alienation-is-not-the-only-answer/",
+        "https://www.gwhslaw.com/about-us/david-l-hirschberg/"
+      ],
+      "contact": "https://www.gwhslaw.com/contact-us/",
+      "verification_notes": "The Florida Bar member directory record was confirmed on 13 September 2026: FL Bar #667552, Member in Good Standing, Eligible to Practice Law in Florida, Board Certified in Marital and Family Law, Boca Raton. The itemised discipline-history panel on the individual profile page renders only in a browser and was not read. Article text and co-authorship confirmed on the AAML Florida Chapter site. Fellowships per firm bio.",
+      "references": [
+        "jurisdiction:us-florida"
       ]
     }
   ],

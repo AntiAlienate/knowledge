@@ -6,7 +6,7 @@ Open directory of lawyers (barristers, solicitors, advocates, attorneys) who wor
 
 | Country / Region | Markdown | Machine-readable JSON | Schema | Entries |
 |---|---|---|---|---|
-| **United States** | [us.md](us.md) | [us.json](us.json) | **v2.0** | 11 verified + 8 excluded |
+| **United States** | [us.md](us.md) | [us.json](us.json) | **v2.0** | 23 verified + 8 excluded |
 | **United Kingdom (E&W)** | [uk.md](uk.md) | [uk.json](uk.json) | **v2.0** | 16 (14 lawyers + 2 judges) + 1 excluded |
 | **UK Devolved (SCO/NIR/WLS)** | [uk-devolved.md](uk-devolved.md) | [uk-devolved.json](uk-devolved.json) | **v2.0** | 20 verified (9 SCO + 5 NIR + 6 WLS) + 10 excluded |
 | **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | **v2.0** | 15 verified + 10 excluded |
