@@ -9,7 +9,7 @@ Open directory of lawyers (barristers, solicitors, advocates, attorneys) who wor
 | **United States** | [us.md](us.md) | [us.json](us.json) | **v2.0** | 23 verified + 8 excluded |
 | **United Kingdom (E&W)** | [uk.md](uk.md) | [uk.json](uk.json) | **v2.0** | 16 (14 lawyers + 2 judges) + 1 excluded |
 | **UK Devolved (SCO/NIR/WLS)** | [uk-devolved.md](uk-devolved.md) | [uk-devolved.json](uk-devolved.json) | **v2.0** | 20 verified (9 SCO + 5 NIR + 6 WLS) + 10 excluded |
-| **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | **v2.0** | 15 verified + 10 excluded |
+| **Canada** | [ca.md](ca.md) | [ca.json](ca.json) | **v2.0** | 19 verified + 10 excluded |
 | **Australia** | [au.md](au.md) | [au.json](au.json) | **v2.0** | 14 verified |
 | **New Zealand** | [nz.md](nz.md) | [nz.json](nz.json) | **v2.0** | 17 verified + 6 excluded |
 | **EU (DE/FR/ES/IT/NL/BE)** | [eu.md](eu.md) | [eu.json](eu.json) | **v2.0** | 19 verified across 6 countries + 21 excluded |

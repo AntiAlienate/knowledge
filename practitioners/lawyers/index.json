@@ -132,7 +132,7 @@
       "country": "Canada",
       "country_code": "CA",
       "schema_version": "2.0",
-      "entries_count": 15,
+      "entries_count": 19,
       "excluded_count": 10,
       "entry_ids": [
         "ca.niman-harold",
@@ -149,7 +149,11 @@
         "ca.amissah-ocran-charles",
         "ca.mccarty-elizabeth",
         "ca.pinsky-lawrence-i-z",
-        "ca.martinson-donna-j"
+        "ca.martinson-donna-j",
+        "ca.hawkins-kimberley",
+        "ca.boyd-john-paul",
+        "ca.koshan-jennifer",
+        "ca.chapman-frances"
       ],
       "excluded_ids": [
         "ca.balbi-lonny",

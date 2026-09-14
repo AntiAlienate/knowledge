@@ -6,18 +6,19 @@ Canada operates a split federal/provincial family-law regime: divorce, corollary
 
 The regulators are the provincial Law Societies (Law Society of Ontario; Law Society of British Columbia; Barreau du Quebec for common-law-trained barristers and Chambre des notaires for civilist notaries; Law Society of Alberta; analogous bodies in every other province/territory). The Office of the Children's Lawyer (OCL), Ministry of the Attorney General, Ontario, is the institutional child-voice mechanism in Ontario and operates a panel of private-bar counsel appointed to represent children's interests in custody, access, and child-protection matters — analogous to England's [Cafcass](https://www.cafcass.gov.uk/). British Columbia's equivalent function is performed ad hoc through s. 211 reports and via Legal Services Society / Hear the Child reports rather than a single statutory office. Quebec maintains the Tribunal de la jeunesse / Chambre de la jeunesse and a child-representation mechanism via the Directeur de la protection de la jeunesse.
 
-The PA practitioner-axis structure in Canada runs along the same recognition-vs-DV-survivor-aligned fault line documented in the US, German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) and Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 case law: recognition-camp lawyers (Niman, Wowk, Ludmer, Colman, MacLean, Benmor) frame PA as a litigable phenomenon worth pursuing under the s. 16 best-interests test and the s. 16.1 reverse-parenting / transfer-of-residence remedy line; critique-camp lawyers (Zaccour at NAWL/ANFD, Cross at Luke's Place, Neilson at UNB / FREDA Centre) frame the PA construct as systematically misused against domestic-violence survivors, with NAWL leading a January 2024 250+-organisation coalition to ban PA accusations in family court and the 2024 NAWL FEWO brief 'Banning Parental Alienation Accusations in Family Court' as the apex critique-camp policy document; [AFCC](https://www.afccnet.org/)-aligned middle-camp practitioners (Bala at Queen's, Birnbaum at King's/Western, plus retired Justice Donna J. Martinson of the BC Supreme Court) operate the differentiated-approach framework codified in Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Children Who Resist Postseparation Parental Contact (Oxford University Press / American Psychology-Law Society, 2013), which is the most-cited Canadian PA framework across all three camps. Federal policy framing is supplied by Justice Canada through the [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) family-violence amendments and supporting departmental guidance.
+The PA practitioner-axis structure in Canada runs along the same recognition-vs-DV-survivor-aligned fault line documented in the US, German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) and Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 case law: recognition-camp lawyers (Niman, Wowk, Ludmer, Colman, MacLean, Benmor) frame PA as a litigable phenomenon worth pursuing under the s. 16 best-interests test and the s. 16.1 reverse-parenting / transfer-of-residence remedy line; critique-camp lawyers (Zaccour at NAWL/ANFD, Cross at Luke's Place, Neilson at UNB / FREDA Centre) frame the PA construct as systematically misused against domestic-violence survivors, with NAWL leading a January 2024 250+-organisation coalition to ban PA accusations in family court and the 2024 NAWL FEWO brief 'Banning Parental Alienation Accusations in Family Court' as the apex critique-camp policy document; [AFCC](https://www.afccnet.org/)-aligned middle-camp practitioners (Bala at Queen's, Birnbaum at King's/Western, plus retired Justice Donna J. Martinson of the BC Supreme Court) operate the differentiated-approach framework codified in Fidler, Bala & [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), Children Who Resist Postseparation Parental Contact (Oxford University Press / American Psychology-Law Society, 2013), which is the most-cited Canadian PA framework across all three camps. Federal policy framing is supplied by Justice Canada through the Bill C-78 family-violence amendments and supporting departmental guidance.
 
 ## Structural findings
 
 - 15 verified v1.0 Canadian-admitted entries migrate to v2.0 (14 living practitioners + 1 retired judge). Stance distribution: recognition 6 (Niman, Wowk, Ludmer, Colman, MacLean, Benmor); critique 3 (Zaccour, Cross, Neilson); middle 5 (Bala, Birnbaum, Amissah-Ocran, McCarty, Pinsky); retired-judge / cross-jurisdictional 1 (Martinson). All firm / faculty URLs verified live as of v1.0 publication 2026-05-25.
+- September 2026 expansion: 4 entries added — Hawkins (BC, critique), Boyd (AB/BC, middle), Koshan (AB, critique) and Chapman (ON, critique) — bringing the file to 19 entries: recognition 6, critique 6, middle 6, institutional 1. Each was checked against the Law Society of British Columbia, Law Society of Alberta or Law Society of Ontario directory. Alberta is represented for the first time, through academic and arbitral rather than litigating voices, and the additions correct the earlier recognition-heavy skew. No Quebec entry met the directory standard in this pass: Barreau du Québec member detail pages sit behind a CAPTCHA, and candidates' documented positions came mainly from media quotations. Quebec remains the principal coverage gap.
 - Recognition-axis lawyers cluster in Ontario (Niman, Wowk, Ludmer, Colman, Benmor) with one BC anchor (MacLean, KC). Ludmer is the apex Canadian recognition-camp lawyer: co-author with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) and J. Michael Bone of The High-Conflict Custody Battle (New Harbinger, 2014) — the most-cited Canadian-authored target-parent practitioner manual — co-drafter of Bill C-560 (defeated 2014 equal-shared-parenting bill), co-founder of Lawyers for Shared Parenting, and the natural anchor for any [Family Bridges](https://warshak.com/family-bridges/) Canada referral pipeline. Niman is lead counsel of record on L.(A.G.) v D.(K.B.), 93 O.R. (3d) 409 (Ont. S.C.J. 2009) (McWatt J.) — the single most-cited Ontario PA judgment.
 - Critique-axis lawyers are concentrated around NAWL/ANFD (Zaccour), Luke's Place / Durham Region (Cross), and University of New Brunswick / FREDA Centre (Neilson). Zaccour is the most-published Canadian critique-camp lawyer on PA — three peer-reviewed articles (2018 Canadian Journal of Family Law on Quebec custody litigation; 2021 Canadian Journal of Family Law 33:301 'Does Domestic Violence Disappear from Parental Alienation Cases? Five Lessons from Quebec'; 2024 Law360 Canada 'one-size-fits-none theory') plus the 2024 NAWL FEWO brief and lead spokesperson for the January 2024 NAWL-led 250+-organisation coalition. Neilson authored the only Canadian empirical PA case-analysis (2018 FREDA Centre report Parental Alienation Empirical Analysis: Child Best Interests or Parental Rights?) — the Canadian counterpart to Joan [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) US NIJ study.
-- Middle / [AFCC](https://www.afccnet.org/)-axis practitioners are anchored by the Bala-Birnbaum-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) Oxford University Press differentiated-approach framework (Children Who Resist Postseparation Parental Contact, 2013) and the 2020 Family Court Review special issue Bala co-edited. Bala is the single most-cited Canadian academic on PA across both camps — recognition and critique camps both engage with the differentiated approach. Bala also won the 2022 Dena Moyal Distinguished Service Award ([AFCC](https://www.afccnet.org/) Ontario).
-- OCL institutional axis: Elizabeth McCarty (counsel for the Office of the Children's Lawyer in L.(A.G.) v D.(K.B.) and at [Supreme Court of Canada](https://www.scc-csc.ca/) docket 36850) is included as institutional middle-camp contact — approach only via institutional channel, not as stance-aligned litigation practitioner. The OCL operates Ontario's child-voice / [Cafcass](https://www.cafcass.gov.uk/)-equivalent mechanism via a panel of appointed private-bar counsel.
+- Middle / AFCC-axis practitioners are anchored by the Bala-Birnbaum-Saini Oxford University Press differentiated-approach framework (Children Who Resist Postseparation Parental Contact, 2013) and the 2020 Family Court Review special issue Bala co-edited. Bala is the single most-cited Canadian academic on PA across both camps — recognition and critique camps both engage with the differentiated approach. Bala also won the 2022 Dena Moyal Distinguished Service Award (AFCC Ontario).
+- OCL institutional axis: Elizabeth McCarty (counsel for the Office of the Children's Lawyer in L.(A.G.) v D.(K.B.) and at Supreme Court of Canada docket 36850) is included as institutional middle-camp contact — approach only via institutional channel, not as stance-aligned litigation practitioner. The OCL operates Ontario's child-voice / Cafcass-equivalent mechanism via a panel of appointed private-bar counsel.
 - Quebec-bar named-case enumeration gap: Zaccour catalogues Quebec PA case law in her 2018 and 2021 Canadian Journal of Family Law articles but does not name counsel of record per case, and SOQUIJ named-counsel extraction lies outside the public-internet verification budget. The Barreau du Quebec PA litigation bar is therefore under-represented in this directory; this is a documented v1.0 limitation preserved into v2.0.
-- Comparative cross-axis anchors: the Italian [Cassazione](https://www.cortedicassazione.it/) 9691/2022 ruling is the trans-Atlantic critique-camp reference Canadian DV-aligned lawyers cite as authority for the proposition that PA cannot be evidentiary-validly imposed against protective parents; the German [BVerfG](https://www.bundesverfassungsgericht.de/) 1 BvR 1076/23 (2023) ruling is the parallel recognition-camp reference. Re Y (Reunification of Father and Daughter Following Court-Ordered Cessation of Contact) [2026] EWFC 38 (Cobb J.) is the UK comparative anchor for any Canadian Bala-style differentiated-approach argument — Bala's published commentary on the differentiated approach maps directly onto the analytical structure Cobb J. deployed in Re Y.
-- Cross-border recognition-axis link: Ludmer and Bala are the two Canadian practitioners who anchor the cross-border recognition-axis cite circle with US apex practitioner Demosthenes Lorandos (PsychLaw / Bernet co-author, Parental Alienation: Science and Law, 2020) and US apex scholar Richard [Warshak](https://warshak.com/family-bridges/) ([Family Bridges](https://warshak.com/family-bridges/) co-architect; Divorce Poison author) — Ludmer's New Harbinger co-authorship with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) and J. Michael Bone, and Bala's Oxford UP triumvirate co-authorship with Fidler and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535), are the documented evidentiary anchors.
+- Comparative cross-axis anchors: the Italian Cassazione 9691/2022 ruling is the trans-Atlantic critique-camp reference Canadian DV-aligned lawyers cite as authority for the proposition that PA cannot be evidentiary-validly imposed against protective parents; the German BVerfG 1 BvR 1076/23 (2023) ruling is the parallel recognition-camp reference. Re Y (Reunification of Father and Daughter Following Court-Ordered Cessation of Contact) [2026] EWFC 38 (Cobb J.) is the UK comparative anchor for any Canadian Bala-style differentiated-approach argument — Bala's published commentary on the differentiated approach maps directly onto the analytical structure Cobb J. deployed in Re Y.
+- Cross-border recognition-axis link: Ludmer and Bala are the two Canadian practitioners who anchor the cross-border recognition-axis cite circle with US apex practitioner Demosthenes Lorandos (PsychLaw / Bernet co-author, Parental Alienation: Science and Law, 2020) and US apex scholar Richard [Warshak](https://warshak.com/family-bridges/) (Family Bridges co-architect; Divorce Poison author) — Ludmer's New Harbinger co-authorship with Amy J.L. Baker and J. Michael Bone, and Bala's Oxford UP triumvirate co-authorship with Fidler and Saini, are the documented evidentiary anchors.
 - Three tier-3 entries flagged for v1.0 verification gap preserved into v2.0: Steve Benmor (recognition; LSO Certified Specialist credential signal but standalone published PA-specific stance source not publicly confirmed); Lawrence Pinsky, KC (middle; senior MB family-law silk with arbitration / mediation specialism, included for jurisdictional completeness despite missing standalone PA stance source); Charles Amissah-Ocran (middle; counsel for respondent mother in L.(A.G.) v D.(K.B.), included for case-record completeness, not stance-aligned).
 - Retired-judge / cross-jurisdictional entry: Hon. Donna J. Martinson, KC (formerly QC), retired BC Supreme Court Justice (1998-2009), is the most-published retired Canadian judge on the PA / DV intersection. Her FVFL Brief 20 (March 2023, FREDA Centre) 'Treating Children as Full Rights Bearers: Independent Legal Representation for Children in Family Violence and/or Resist-Refuse Contact Cases' is the spine citation for any child-as-full-rights-bearer / Independent Legal Representation argument in Canadian PA litigation. She is also cross-listed in the just-migrated US lawyers v2.0 directory at id us.martinson-donna-j with stance cross-jurisdictional; her primary directory placement is here as ca.martinson-donna-j with stance middle.
 
@@ -72,10 +73,10 @@ Toronto · ON · Wowk Law, Toronto (previously Niman Gelgoot and Associates LLP,
 *B.Comm; LLB (University of Toronto, 1985); LSO member (year of call not publicly confirmed)*
 Toronto · ON · Ludmer Law, Toronto
 
-**Stance:** Apex Canadian recognition-camp lawyer and the [Family Bridges](https://warshak.com/family-bridges/) Canada anchor. Co-author with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) and J. Michael Bone of The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation (New Harbinger, 2014) — the most-cited Canadian-authored target-parent practitioner manual. Co-drafter of Bill C-560 (Canada's proposed equal-shared-parenting legislation, defeated 2014). Advisory board member of the Parental Alienation Awareness Organization and the International Support Network for Alienated Families. Co-founder of Lawyers for Shared Parenting. Cross-border recognition-axis link with US apex lawyer-psychologist Demosthenes Lorandos and US apex scholar Richard [Warshak](https://warshak.com/family-bridges/) ([Family Bridges](https://warshak.com/family-bridges/) co-architect).
+**Stance:** Apex Canadian recognition-camp lawyer and the Family Bridges Canada anchor. Co-author with Amy J.L. Baker and J. Michael Bone of The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation (New Harbinger, 2014) — the most-cited Canadian-authored target-parent practitioner manual. Co-drafter of Bill C-560 (Canada's proposed equal-shared-parenting legislation, defeated 2014). Advisory board member of the Parental Alienation Awareness Organization and the International Support Network for Alienated Families. Co-founder of Lawyers for Shared Parenting. Cross-border recognition-axis link with US apex lawyer-psychologist Demosthenes Lorandos and US apex scholar Richard Warshak (Family Bridges co-architect).
 
 **Publications:**
-- The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation (2014) — *New Harbinger Publications (with Amy J.L. [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) and J. Michael Bone)* — <https://www.newharbinger.com/author/brian-ludmer/>
+- The High-Conflict Custody Battle: Protect Yourself and Your Kids from a Toxic Divorce, False Accusations, and Parental Alienation (2014) — *New Harbinger Publications (with Amy J.L. Baker and J. Michael Bone)* — <https://www.newharbinger.com/author/brian-ludmer/>
 - Bill C-560 (equal shared parenting bill — co-drafter; defeated 2014) (2014) — *Parliament of Canada*
 
 **Verification:**
@@ -158,10 +159,10 @@ Toronto · ON · Benmor Family Law Group, Toronto
 ## Critique camp
 
 ### Suzanne Zaccour, BCL, LLB, LLM, DPhil (Oxon)
-*BCL/LLB (McGill); LLM (Toronto); DPhil (Oxford); LSO member (called 2021); former [Supreme Court of Canada](https://www.scc-csc.ca/) law clerk 2019-2020*
+*BCL/LLB (McGill); LLM (Toronto); DPhil (Oxford); LSO member (called 2021); former Supreme Court of Canada law clerk 2019-2020*
 Ottawa · ON · National Association of Women and the Law (NAWL / ANFD) — Director of Legal Affairs
 
-**Stance:** Single most-published Canadian critique-camp lawyer on PA — the Canadian counterpart to Joan [Meier](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941). Quebec-data-driven scholarship: three peer-reviewed articles ('Parental Alienation in Quebec Custody Litigation' (2018) 30 Can. J. Fam. L.; 'Does Domestic Violence Disappear from Parental Alienation Cases? Five Lessons from Quebec' (2021) 33 Can. J. Fam. L. 301; 'Parental alienation: The one-size-fits-none theory' (2024) Law360 Canada). Lead spokesperson for the January 2024 NAWL-led 250+-organisation coalition to ban PA accusations in family court. Co-author of the 2024 NAWL FEWO brief 'Banning Parental Alienation Accusations in Family Court' — the apex Canadian critique-camp policy document. Ontario-barred, not Quebec-barred, despite Quebec-data corpus.
+**Stance:** Single most-published Canadian critique-camp lawyer on PA — the Canadian counterpart to Joan Meier. Quebec-data-driven scholarship: three peer-reviewed articles ('Parental Alienation in Quebec Custody Litigation' (2018) 30 Can. J. Fam. L.; 'Does Domestic Violence Disappear from Parental Alienation Cases? Five Lessons from Quebec' (2021) 33 Can. J. Fam. L. 301; 'Parental alienation: The one-size-fits-none theory' (2024) Law360 Canada). Lead spokesperson for the January 2024 NAWL-led 250+-organisation coalition to ban PA accusations in family court. Co-author of the 2024 NAWL FEWO brief 'Banning Parental Alienation Accusations in Family Court' — the apex Canadian critique-camp policy document. Ontario-barred, not Quebec-barred, despite Quebec-data corpus.
 
 **Publications:**
 - Parental Alienation in Quebec Custody Litigation (2018) — *Canadian Journal of Family Law 30* — <https://www.canlii.org/en/commentary/doc/2018CanLIIDocs10698>
@@ -213,13 +214,13 @@ Durham Region · ON · Luke's Place (Durham Region, ON) — Legal Director; inde
 *BA(Hons); LLB; PhD (Law, London School of Economics); Law Society of New Brunswick (practised 1979-1986 and 1988-1992 before academia)*
 Fredericton · NB · Professor Emerita, Department of Sociology, University of New Brunswick; Research Associate, Muriel McQueen Fergusson Centre for Family Violence Research
 
-**Stance:** Author of the only Canadian-level empirical PA case-analysis (Parental Alienation Empirical Analysis: Child Best Interests or Parental Rights?, FREDA Centre, 2018) — the Canadian counterpart to Joan [Meier's](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) US NIJ study. Subsequent FREDA Centre work 'Parental Alienation Belief Versus Child Best Interests: Family Law in Crisis' (2023) extends the critique-camp framing. Brief on [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) ([Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) amendments) to the House of Commons Justice Committee. Co-presenter on the GBV Learning Network / Western University webinar 'The misuse of alienation in domestic violence cases in family court' (2021).
+**Stance:** Author of the only Canadian-level empirical PA case-analysis (Parental Alienation Empirical Analysis: Child Best Interests or Parental Rights?, FREDA Centre, 2018) — the Canadian counterpart to Joan Meier's US NIJ study. Subsequent FREDA Centre work 'Parental Alienation Belief Versus Child Best Interests: Family Law in Crisis' (2023) extends the critique-camp framing. Brief on Bill C-78 (Divorce Act amendments) to the House of Commons Justice Committee. Co-presenter on the GBV Learning Network / Western University webinar 'The misuse of alienation in domestic violence cases in family court' (2021).
 
 **Publications:**
 - Parental Alienation Empirical Analysis: Child Best Interests or Parental Rights? (2018) — *FREDA Centre* — <https://www.fredacentre.com/wp-content/uploads/Parental-Alienation-Linda-Neilson.pdf>
 - Parental Alienation Belief Versus Child Best Interests: Family Law in Crisis (2023) — *FREDA Centre*
 - The misuse of alienation in domestic violence cases in family court (webinar) (2021) — *GBV Learning Network / Western University*
-- Brief on [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) ([Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) amendments) (2018) — *House of Commons Standing Committee on Justice and Human Rights*
+- Brief on Bill C-78 (Divorce Act amendments) (2018) — *House of Commons Standing Committee on Justice and Human Rights*
 
 **Verification:**
 - <https://www.unb.ca/faculty-staff/directory/arts-fr-sociology/neilson-linda.html>
@@ -233,16 +234,86 @@ Fredericton · NB · Professor Emerita, Department of Sociology, University of N
 
 <sub>ID: `ca.neilson-linda-c`</sub>
 
+### Kimberley (Kim) L. Hawkins
+*JD (University of Victoria); Master's in International Human Rights Law (University of Oxford); Law Society of British Columbia, called 2005*
+Vancouver · BC · Director of Legal Service Grants, Law Foundation of British Columbia; founding Executive Director, Rise Women's Legal Centre (former)
+
+**Stance:** Co-author with Haley Hrymak of Rise Women's Legal Centre's 'Why Can't Everyone Just Get Along? How BC's Family Law System Puts Survivors in Danger' (January 2021), whose 'Alienation' section reports that 56% of the project's survey respondents were accused of alienating their children, and describes women avoiding raising violence for fear of appearing to alienate. The report also states that downplaying safety needs 'to avoid being labelled as selfish or alienating has the effect of erasing family violence.' Co-author with Zara Suleman and Haley Hrymak of 'Are We Ready to Change? A Lawyer's Guide to Keeping Women and Children Safe in BC's Family Law System' (May 2021), which names 'the distraction from family violence claims through retaliatory claims of parental alienation' as one way the myth that violence is partly the non-violent family member's responsibility plays out.
+
+**Publications:**
+- Why Can't Everyone Just Get Along? How BC's Family Law System Puts Survivors in Danger (with Haley Hrymak) (2021) — *Rise Women's Legal Centre* — <https://www.courthouselibrary.ca/sites/default/files/inline-files/Why%20Cant%20Everyone%20Just%20Get%20Along%20Rise%20Womens%20Legal.pdf>
+- Are We Ready to Change? A Lawyer's Guide to Keeping Women and Children Safe in BC's Family Law System (with Zara Suleman and Haley Hrymak) (2021) — *Rise Women's Legal Centre* — <https://static1.squarespace.com/static/64220f300321233050a209ec/t/65de6f55f519a2291d9eb2ea/1709076310333/Are-We-Ready-to-Change.pdf>
+
+**Verification:**
+- <https://www.lawsociety.bc.ca/lsbc/apps/lkup/directory/mbr-search.cfm?txt_search_type=begins&txt_last_nm=Hawkins&txt_given_nm=&txt_city=&member_search=Search&is_submitted=1&results_no=50>
+- <https://www.lawfoundationbc.org/about-us/staff/>
+- <https://www.courthouselibrary.ca/sites/default/files/inline-files/Why%20Cant%20Everyone%20Just%20Get%20Along%20Rise%20Womens%20Legal.pdf>
+
+**Contact:** https://www.lawfoundationbc.org/about-us/staff/
+
+*Notes: Law Society of British Columbia Lawyer Directory checked September 2026: Practising; called 16 September 2005; practice restrictions none; discipline history (since 1983) none; current regulatory proceedings none. Directory profile links are session-specific, so the search URL is cited. Current role, degrees and former Rise directorship confirmed on the Law Foundation of BC staff page. Quoted passages read directly from both Rise report PDFs; the reports are co-authored institutional publications, so individual attribution of specific passages cannot be separated. No sole-authored PA publication was located.*
+
+**See also:** `jurisdiction:canada`
+
+<sub>ID: `ca.hawkins-kimberley`</sub>
+
+### Prof. Jennifer Koshan
+*BSc (Calgary); LLB (Calgary, 1988); LLM (UBC, 1997); Law Society of Alberta member (non-practising)*
+Calgary · AB · Professor, Faculty of Law, University of Calgary; UCalgary Research Excellence Chair in Family Violence
+
+**Stance:** In a 2021 ABlawg post on Alberta's Family Law Act, Koshan writes that women 'may be particularly at risk of being labelled as alienating where they raise family violence against their ex-partners in parenting proceedings in Alberta', citing the Rise report, Sheehy & Boyd (2020) and Neilson (2018), and describes the Court of Appeal's ruling that expert evidence is not required for a finding of alienation (VMB v KRB, 2014 ABCA 334) as being followed 'in a troubling context of increasing allegations of parental alienation'. The post argues for amending the Family Law Act to adopt a more expansive definition of family violence. In 'Challenging Myths and Stereotypes in Domestic Violence Cases' (2023) 35:1 Can J Fam L 33, she writes that the myth that women lie about violence 'has been recast as "parental alienation"', and that women who seek to limit contact to protect their children 'are then labelled as alienating or vindictive'.
+
+**Publications:**
+- Family Violence and Family Law in Alberta: The Need for Legislative Reform and Expansive Statutory Interpretation (2021) — *ABlawg (University of Calgary Faculty of Law)* — <https://ablawg.ca/2021/11/03/family-violence-and-family-law-in-alberta-the-need-for-legislative-reform-and-expansive-statutory-interpretation/>
+- Challenging Myths and Stereotypes in Domestic Violence Cases (2023) — *Canadian Journal of Family Law 35:1, 33* — <https://commons.allard.ubc.ca/cgi/viewcontent.cgi?article=1099&context=can-j-fam-l>
+
+**Verification:**
+- <https://profiles.ucalgary.ca/jennifer-koshan>
+- <https://web.archive.org/web/2023id_/https://ablawg.ca/2021/11/03/family-violence-and-family-law-in-alberta-the-need-for-legislative-reform-and-expansive-statutory-interpretation/>
+- <https://web.archive.org/web/2024id_/https://commons.allard.ubc.ca/cgi/viewcontent.cgi?article=1099&context=can-j-fam-l>
+
+**Contact:** https://profiles.ucalgary.ca/jennifer-koshan
+
+*Notes: University of Calgary profile confirms the professorship, Research Excellence Chair and degrees. Law Society of Alberta directory lists 'S. Jennifer Koshan', Non-Practising, enrolled 1989; the match to the professor rests on name and the LLB-1988 / enrolment-1989 sequence. Both publications were read from Internet Archive copies of the cited URLs because the live sites block automated access. The directory's itemised discipline-history panel could not be displayed for this name. Academic commentary rather than family-law litigation.*
+
+**See also:** `jurisdiction:canada`
+
+<sub>ID: `ca.koshan-jennifer`</sub>
+
+### Prof. Frances E. Chapman
+*JD and LLM (University of Western Ontario); PhD in Law (Osgoode Hall Law School); Law Society of Ontario licensee since 2003 (Not Practising Law – Employed)*
+Thunder Bay · ON · Professor of Law, Bora Laskin Faculty of Law, Lakehead University
+
+**Stance:** In her April 2026 brief to the House of Commons Standing Committee on Justice and Human Rights on Bill C-223, Chapman argues that the Divorce Act's 'friendly parent' provisions and parental-alienation allegations harm women, stating that 'PA continues to be misused in Canadian family court proceedings involving IPV' and describing the Bill's proposed PA provisions as 'a very solid first step'. The same brief says 'there is no one-size-fits-all solution, but the polarization of the concepts is unhelpful.' Her 2021 University of Edinburgh seminar abstract states that 'parental alienation does exist but should be reserved for these rare and specific cases' and that 'women are being mislabelled as disordered alienators at the cost of their children.'
+
+**Publications:**
+- The "Friendly Parent" Provisions and Parental Alienation Allegations Harm Women (brief on Bill C-223) (2026) — *House of Commons Standing Committee on Justice and Human Rights* — <https://www.ourcommons.ca/Content/Committee/451/JUST/Brief/BR14006565/br-external/ChapmanFrancesE-e.pdf>
+- At the Intersection of Discrediting, Degradation & Denigration: The Criminal Justice System, Coercive Control, Parental Alienation and "Institutional Gaslighting" (seminar) (2021) — *Centre for Criminal Justice Studies, Edinburgh Law School* — <https://www.law.ed.ac.uk/news-events/events/cjs-seminar-intersection-discrediting-degradation-denigration-criminal-justice>
+- Domestic Violence and Parental Alienation (CPD presentation) (2023) — *Thunder Bay Law Association Fall Conference*
+
+**Verification:**
+- <https://lsodirectory.lso.ca/licensee-detail/?lawsocietynumber=47553N>
+- <https://www.lakeheadu.ca/users/C/fchapman>
+- <https://www.ourcommons.ca/Content/Committee/451/JUST/Brief/BR14006565/br-external/ChapmanFrancesE-e.pdf>
+
+**Contact:** https://www.lakeheadu.ca/users/C/fchapman
+
+*Notes: Law Society of Ontario directory record checked September 2026: Frances Elizabeth Chapman, Lawyer (L1), LSO #47553N, licensed 8 July 2003, status Not Practising Law – Employed (Lakehead University); practice conditions, regulatory proceedings, orders, undertakings and findings all shown as none. Lakehead profile confirms the professorship, degrees and research areas including parental alienation. Stance taken from the full text of her Justice Committee brief and the Edinburgh Law School seminar abstract; the content of the 2023 Thunder Bay Law Association talk was not reviewed.*
+
+**See also:** `jurisdiction:canada`
+
+<sub>ID: `ca.chapman-frances`</sub>
+
 ## Middle / methodological camp
 
 ### Prof. Nicholas C. Bala, L.S.M., BA, JD (Queen's), LLM (Harvard)
 *L.S.M.; BA; JD (Queen's); LLM (Harvard); William R. Lederman Distinguished Professor of Law (Queen's). Academic — provincial Law Society membership / call year not publicly confirmed on faculty profile.*
 Kingston · ON · William R. Lederman Distinguished Professor of Law, Queen's University Faculty of Law
 
-**Stance:** Single most-cited Canadian academic on PA across both camps — the differentiated-approach framework that recognition and critique camps both engage with. Co-author with Barbara Jo Fidler and Michael A. [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Children Who Resist Postseparation Parental Contact: A Differential Approach (Oxford University Press / American Psychology-Law Society, 2013) — the most-cited Canadian-authored PA framework. Co-editor of the 2020 Family Court Review special issue on PA and children resisting contact. Bala, Birnbaum & Farshait, 'Children Resisting Contact & Parental Alienation: Strategies for Lawyers in High Conflict Parenting Cases' (May 2024). 2022 Dena Moyal Distinguished Service Award ([AFCC](https://www.afccnet.org/) Ontario). UK comparative cross-link: his differentiated-approach analytical structure maps directly onto Cobb J.'s analysis in Re Y (Reunification of Father and Daughter Following Court-Ordered Cessation of Contact) [2026] EWFC 38.
+**Stance:** Single most-cited Canadian academic on PA across both camps — the differentiated-approach framework that recognition and critique camps both engage with. Co-author with Barbara Jo Fidler and Michael A. Saini of Children Who Resist Postseparation Parental Contact: A Differential Approach (Oxford University Press / American Psychology-Law Society, 2013) — the most-cited Canadian-authored PA framework. Co-editor of the 2020 Family Court Review special issue on PA and children resisting contact. Bala, Birnbaum & Farshait, 'Children Resisting Contact & Parental Alienation: Strategies for Lawyers in High Conflict Parenting Cases' (May 2024). 2022 Dena Moyal Distinguished Service Award (AFCC Ontario). UK comparative cross-link: his differentiated-approach analytical structure maps directly onto Cobb J.'s analysis in Re Y (Reunification of Father and Daughter Following Court-Ordered Cessation of Contact) [2026] EWFC 38.
 
 **Publications:**
-- Children Who Resist Postseparation Parental Contact: A Differential Approach for Legal and Mental Health Professionals (2013) — *Oxford University Press / American Psychology-Law Society (with Fidler and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535))* — <https://global.oup.com/academic/product/children-who-resist-postseparation-parental-contact-9780199895496>
+- Children Who Resist Postseparation Parental Contact: A Differential Approach for Legal and Mental Health Professionals (2013) — *Oxford University Press / American Psychology-Law Society (with Fidler and Saini)* — <https://global.oup.com/academic/product/children-who-resist-postseparation-parental-contact-9780199895496>
 - Special Issue on PA and children resisting contact (co-editor) (2020) — *Family Court Review*
 - Children Resisting Contact & Parental Alienation: Strategies for Lawyers in High Conflict Parenting Cases (with Birnbaum and Farshait) (2024) — *[CanLII](https://www.canlii.org/) Commentary* — <https://www.canlii.org/en/commentary/doc/2024CanLIIDocs921>
 - Parental Alienation Myths, Realities & Uncertainties: A Canadian Study, 1989-2008 (with Hunt and McCarney) (2010) — *Canadian family law literature*
@@ -264,12 +335,12 @@ Kingston · ON · William R. Lederman Distinguished Professor of Law, Queen's Un
 *PhD; RSW (Ontario College of Social Workers); LLM; Distinguished University Professor Emerita*
 London · ON · Distinguished University Professor Emerita, King's University College at Western University (Social Work / Childhood and Youth Studies); Adjunct, McGill School of Social Work
 
-**Stance:** Social-work half of the Bala-Birnbaum-[Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) triumvirate — pair with Bala for the full differentiated-approach package. Co-author with Bala of 'Parental alienation cases: Experiences of Ontario legal and mental health professionals' (2025) 63 Family Court Review 491 and 'Parental alienation: A retrospective study of the experiences of children and parents in Ontario' (2024) U.N.B.L.J. 62. Co-author with Bala and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535) of Children Who Resist Postseparation Parental Contact (Oxford UP, 2013).
+**Stance:** Social-work half of the Bala-Birnbaum-Saini triumvirate — pair with Bala for the full differentiated-approach package. Co-author with Bala of 'Parental alienation cases: Experiences of Ontario legal and mental health professionals' (2025) 63 Family Court Review 491 and 'Parental alienation: A retrospective study of the experiences of children and parents in Ontario' (2024) U.N.B.L.J. 62. Co-author with Bala and Saini of Children Who Resist Postseparation Parental Contact (Oxford UP, 2013).
 
 **Publications:**
 - Parental alienation cases: Experiences of Ontario legal and mental health professionals (with Bala) (2025) — *Family Court Review 63:491* — <https://onlinelibrary.wiley.com/doi/abs/10.1111/fcre.70001>
 - Parental alienation: A retrospective study of the experiences of children and parents in Ontario (with Bala) (2024) — *University of New Brunswick Law Journal 62* — <https://journals.lib.unb.ca/index.php/unblj/article/download/34796/1882530454>
-- Children Who Resist Postseparation Parental Contact (with Bala and [Saini](https://global.oup.com/academic/product/parenting-plan-evaluations-9780190089535)) (2013) — *Oxford University Press / American Psychology-Law Society*
+- Children Who Resist Postseparation Parental Contact (with Bala and Saini) (2013) — *Oxford University Press / American Psychology-Law Society*
 - Bill C-223 brief to House of Commons (2024) — *House of Commons Justice Committee* — <https://www.ourcommons.ca/Content/Committee/451/JUST/Brief/BR14053603/br-external/Jointly01-e.pdf>
 
 **Verification:**
@@ -332,12 +403,12 @@ Winnipeg · MB · Taylor McCaffrey LLP, Winnipeg
 *KC (formerly QC); LL.M.; retired Justice, Supreme Court of British Columbia (1998-30 June 2009); previously Provincial Court of British Columbia; Saskatchewan / federal bar pre-bench (Crown and defence counsel)*
 Vancouver · BC · Retired Justice, Supreme Court of British Columbia; Research Associate, FREDA Centre; Adjunct, SFU School of Criminology and Allard School of Law, UBC
 
-**Stance:** Most-published retired Canadian judge on the PA / DV intersection. Her FREDA Brief 20 (March 2023) 'Treating Children as Full Rights Bearers: Independent Legal Representation for Children in Family Violence and/or Resist-Refuse Contact Cases' is the spine citation for any child-as-full-rights-bearer / Independent Legal Representation argument in Canadian PA litigation. Subsequent FVFL Brief 5 (2021) 'The 2021 [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/): Using statutory interpretation principles to support substantive equality for women and children in family violence cases' and FVFL Brief 9 (Dec 2021) 'Implementing Children's Participation Rights in All Family Court Cases' (with Raven) extend the framework. Trajectory bridges both camps — A.A. v S.N.A., 2009 BCSC 387 was an extreme-PA finding (mother barred from contact >1 year; subsequently overturned on appeal) whereas her later writing centres family-violence-aware judicial roles. Cross-listed at id us.martinson-donna-j in the US lawyers v2.0 directory with stance cross-jurisdictional; primary jurisdictional placement is here. Retired judge — cite, do not solicit as litigation practitioner.
+**Stance:** Most-published retired Canadian judge on the PA / DV intersection. Her FREDA Brief 20 (March 2023) 'Treating Children as Full Rights Bearers: Independent Legal Representation for Children in Family Violence and/or Resist-Refuse Contact Cases' is the spine citation for any child-as-full-rights-bearer / Independent Legal Representation argument in Canadian PA litigation. Subsequent FVFL Brief 5 (2021) 'The 2021 Divorce Act: Using statutory interpretation principles to support substantive equality for women and children in family violence cases' and FVFL Brief 9 (Dec 2021) 'Implementing Children's Participation Rights in All Family Court Cases' (with Raven) extend the framework. Trajectory bridges both camps — A.A. v S.N.A., 2009 BCSC 387 was an extreme-PA finding (mother barred from contact >1 year; subsequently overturned on appeal) whereas her later writing centres family-violence-aware judicial roles. Cross-listed at id us.martinson-donna-j in the US lawyers v2.0 directory with stance cross-jurisdictional; primary jurisdictional placement is here. Retired judge — cite, do not solicit as litigation practitioner.
 
 **Publications:**
 - A.A. v. S.N.A., 2009 BCSC 387 (extreme PA finding; mother barred from contact >1 year; subsequently overturned on appeal) (2009) — *BC Supreme Court*
 - Treating Children as Full Rights Bearers: Independent Legal Representation for Children in Family Violence and/or Resist-Refuse Contact Cases (FVFL Brief 20) (2023) — *FREDA Centre* — <https://www.fredacentre.com/wp-content/uploads/Martinson-FVFL-Brief-March-2023.pdf>
-- The 2021 [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/): Using statutory interpretation principles to support substantive equality for women and children in family violence cases (FVFL Brief 5, with Jackson) (2021) — *FREDA Centre*
+- The 2021 Divorce Act: Using statutory interpretation principles to support substantive equality for women and children in family violence cases (FVFL Brief 5, with Jackson) (2021) — *FREDA Centre*
 - Implementing Children's Participation Rights in All Family Court Cases (FVFL Brief 9, with Raven) (2021) — *FREDA Centre*
 - Family Violence and Parenting Assessments: Law, Skills and Social Context (with Jackson) (2019) — *FREDA Centre*
 - Family Violence and Evolving Judicial Roles: Judges as Equality Guardians in Family Law Cases (2017) — *Canadian Journal of Family Law 30(1):11* — <https://www.canlii.org/en/commentary/doc/2017CanLIIDocs3962>
@@ -355,17 +426,42 @@ Vancouver · BC · Retired Justice, Supreme Court of British Columbia; Research 
 
 <sub>ID: `ca.martinson-donna-j`</sub>
 
+### John-Paul E. Boyd, KC
+*KC; called to the bar of British Columbia 2000; member, Law Society of Alberta; family-law arbitrator, mediator and parenting coordinator*
+Calgary · AB · John-Paul Boyd Arbitration Chambers; former Executive Director, Canadian Research Institute for Law and the Family (University of Calgary)
+
+**Stance:** Author of 'Alienated Children in Family Law Disputes in British Columbia' (Canadian Research Institute for Law and the Family, July 2015), a review of BC case law and social-science literature. The paper notes that alienation claims 'are also often unfounded' and concludes that the child's best interests 'must be the lodestone,' that responses should resist 'an all-or-nothing, black-and-white proposition,' and that allegations call for early assessment distinguishing 'non-pathological resistance,' 'realistic estrangement' and parental alienation. The paper endorses Jaffe, Ashbourne and Mamo's principles, which begin with protecting the child and primary parent from abuse and family violence. In Slaw columns (2015) he argued that the primary purpose of therapeutic interventions 'should be restoring the child' rather than the parent-child relationship, and proposed focusing on the child's 'attachment disruption' instead of blame-based alienation or estrangement allegations.
+
+**Publications:**
+- Alienated Children in Family Law Disputes in British Columbia (2015) — *Canadian Research Institute for Law and the Family* — <https://ucalgary.scholaris.ca/server/api/core/bitstreams/d86e8b2e-b5f1-49a8-8351-5672b26fae0a/content>
+- Therapeutic Interventions and the Alienated Child: Whose Interests Are We Serving, and How Are We Serving Them? (2015) — *Slaw* — <https://www.slaw.ca/2015/07/10/therapeutic-interventions-and-the-alienated-child-whose-interests-are-we-serving-and-how-are-we-serving-them/>
+- Have We Been Mishandling Our Alienation Cases? Let's Try a Different Approach (2015) — *Slaw* — <https://www.slaw.ca/2015/10/16/have-we-been-mishandling-our-alienation-cases-lets-try-a-different-approach/>
+- When Children Refuse to Visit: Alienation and Estrangement in Family Law Disputes (Part 1 of 3) (2015) — *LawNow Magazine (Centre for Public Legal Education Alberta)* — <https://www.boydarbitration.ca/s/When-Children-Refuse-to-Visit-Alienation-and-Estrangement-in-Family-Law-Disputes-LawNow-Magazine.pdf>
+
+**Verification:**
+- <https://www.lawsociety.bc.ca/lsbc/apps/lkup/directory/mbr-search.cfm?txt_search_type=begins&txt_last_nm=Boyd&txt_given_nm=&txt_city=&member_search=Search&is_submitted=1&results_no=50>
+- <https://www.boydarbitration.ca/about-johnpaul-boyd>
+- <https://ucalgary.scholaris.ca/server/api/core/bitstreams/d86e8b2e-b5f1-49a8-8351-5672b26fae0a/content>
+
+**Contact:** https://www.boydarbitration.ca/about-johnpaul-boyd
+
+*Notes: Law Society of British Columbia Lawyer Directory checked September 2026: Practising; called 19 May 2000; primary location Calgary, AB; practice restrictions, discipline history (since 1983) and current regulatory proceedings all none. Law Society of Alberta directory lists him as Practising (enrolled 2014). The CRILF paper, both Slaw columns and the LawNow article were opened; quotations taken from the paper's text. Stance rests on 2015 writings; his current work is neutral dispute resolution rather than advocacy.*
+
+**See also:** `jurisdiction:canada`
+
+<sub>ID: `ca.boyd-john-paul`</sub>
+
 ## Institutional anchors
 
 ### Elizabeth McCarty
 *LSO member (year of call not publicly confirmed)*
 Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney General, Ontario — 393 University Ave., 14th Floor, Toronto
 
-**Stance:** OCL institutional line for any child-voice / [Cafcass](https://www.cafcass.gov.uk/)-equivalent reform conversation in Ontario. Counsel for OCL on behalf of the children in L.(A.G.) v D.(K.B.), 2009 and at [Supreme Court of Canada](https://www.scc-csc.ca/) docket 36850. Institutional role — approach only via institutional channel, not as a stance-aligned practitioner.
+**Stance:** OCL institutional line for any child-voice / Cafcass-equivalent reform conversation in Ontario. Counsel for OCL on behalf of the children in L.(A.G.) v D.(K.B.), 2009 and at Supreme Court of Canada docket 36850. Institutional role — approach only via institutional channel, not as a stance-aligned practitioner.
 
 **Publications:**
 - L.(A.G.) v D.(K.B.), 2009 — counsel for OCL on behalf of the children (2009) — *Ontario Superior Court of Justice* — <https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/>
-- [Supreme Court of Canada](https://www.scc-csc.ca/) docket 36850 — OCL counsel appearance (2016) — *[Supreme Court of Canada](https://www.scc-csc.ca/)* — <https://www.scc-csc.ca/cases-dossiers/search-recherche/36850/>
+- Supreme Court of Canada docket 36850 — OCL counsel appearance (2016) — *Supreme Court of Canada* — <https://www.scc-csc.ca/cases-dossiers/search-recherche/36850/>
 
 **Verification:**
 - <https://www.ontario.ca/page/office-childrens-lawyer>
@@ -395,214 +491,7 @@ Toronto · ON · Office of the Children's Lawyer (OCL), Ministry of the Attorney
 
 ---
 
-*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
 <!-- AA-CITE-START -->
 
