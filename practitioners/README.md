@@ -23,7 +23,10 @@ Targeted parents, accused parents, and family lawyers all need to find practitio
 - **[Canada](lawyers/ca.md)** — 19 verified entries; JSON: [ca.json](lawyers/ca.json)
 - **Australia / NZ** — coming next (post-2024 reform)
 - **EU member states** — coming next (DE / FR / ES / IT / NL / BE)
-- **Asia / Africa** — coming next (IN / SG / HK / ZA)
+- **[India](therapists/india.md)** — 18 verified entries; JSON: [india.json](therapists/india.json)
+- **[Asia (non-India)](therapists/asia.md)** — SG / HK / JP; JSON: [asia.json](therapists/asia.json)
+- **[Africa](therapists/africa.md)** — ZA / KE / NG / EG; JSON: [africa.json](therapists/africa.json)
+- **[Middle East & Türkiye](therapists/me.md)** — TR / IL / LB / JO / AE / QA / SA; JSON: [me.json](therapists/me.json)
 
 ### Therapists
 

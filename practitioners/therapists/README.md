@@ -29,6 +29,7 @@ Open directory of therapists, psychologists, and clinical social workers who wor
 | **India** | [india.md](india.md) | [india.json](india.json) | **v2.0** | 14 verified + 21 excluded |
 | **Asia (non-IN: SG/HK/JP/KR)** | [asia.md](asia.md) | [asia.json](asia.json) | **v2.0** | 8 verified + 16 excluded |
 | **Africa (ZA + KE/NG/EG)** | [africa.md](africa.md) | [africa.json](africa.json) | **v2.0** | 20 verified + 6 excluded |
+| **Middle East & Türkiye (TR/IL/LB/JO/AE/QA/SA)** | [me.md](me.md) | [me.json](me.json) | **v2.0** | 15 verified |
 
 **19 country/regional files are now schema v2.0 (JSON-canonical).** The `.md` is rendered from the JSON by `bin/aa-build render`. The legacy v1.0 format is largely migrated; brazil.json + mexico.json + eu.json + latam.json remain as backwards-link continuity legacy files superseded by per-country v2 deepenings + jurisdiction sidecars. See [/ARCHITECTURE.md](../../ARCHITECTURE.md) for the architecture spec and `/manifest.json` for the canonical enumeration for downstream consumers.
 

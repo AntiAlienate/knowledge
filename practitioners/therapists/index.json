@@ -667,6 +667,35 @@
         "us.sauber-richard",
         "us.wamboldt-marianne-and-narrow-william"
       ]
+    },
+    {
+      "path": "practitioners/therapists/me.json",
+      "json_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/me.json",
+      "md_url": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/therapists/me.md",
+      "html_url": "https://github.com/AntiAlienate/antialienate-knowledge/blob/main/practitioners/therapists/me.json",
+      "country": "Middle East & Türkiye",
+      "country_code": "MEA",
+      "schema_version": "2.0",
+      "entries_count": 15,
+      "excluded_count": 0,
+      "entry_ids": [
+        "tr.torun-fuat",
+        "tr.torun-sebahat-dilek",
+        "tr.karatas-kasim",
+        "il.kibenson-bar-on-inbal",
+        "il.klimi-dana",
+        "il.flashman-alan",
+        "il.rackman-center",
+        "tr.adli-destek",
+        "lb.lopsy",
+        "jo.ncfa",
+        "jo.sjd-family-reconciliation",
+        "ae.adjd",
+        "ae.fjc",
+        "qa.wifaq",
+        "sa.shaml"
+      ],
+      "excluded_ids": []
     }
   ]
 }

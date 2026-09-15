@@ -1,0 +1,375 @@
+{
+  "schema_version": "2.0",
+  "country": "Middle East & Türkiye",
+  "country_code": "MEA",
+  "type": "therapists",
+  "license": "CC-BY-4.0",
+  "generated": "2026-09-15",
+  "jurisdictional_context": "Post-separation child contact across the Middle East and Türkiye is governed primarily by personal-status law rather than by a unified civil family code. In the Gulf states, custody (hadanah) and guardianship (wilayah) are allocated under federal or national personal-status statutes — the UAE Federal Decree-Law No. 41 of 2024, the Saudi Personal Status Law of 2022 and their analogues — and disputes normally pass through a court-annexed family guidance or reconciliation stage before litigation. In Lebanon, personal-status matters including custody sit with the recognised religious-community courts rather than with a civil family court, so custody ages and procedure differ by community. In Jordan, Sharia courts hold personal-status jurisdiction for Muslims and church courts for Christians, with court-annexed reconciliation offices attached to the Sharia courts. Türkiye, by contrast, applies a civil code: the Turkish Civil Code governs custody (velayet) and the child's personal relationship with the non-resident parent, and Law no. 7343 of 2021 moved enforcement of handover and contact orders away from coercive execution proceedings to judicial support and victim services directorates operating child meeting centres. Israel applies civil family-court jurisdiction alongside religious courts for personal status.\n\nThe consequence for this directory is that the documented actors in most of the region are institutions rather than individually published clinicians: statutory family guidance sections, ministry-run contact and handover centres, professional regulators and national family councils. Extensive searching in English and Arabic located no psychologist, psychiatrist, social worker or family therapist in the six Gulf jurisdictions with a public, citable body of work on parental alienation or contact refusal, and none in Jordan; those jurisdictions are represented institutionally, which reflects what is publicly documented rather than the level of clinical activity.\n\nIsrael and Türkiye are the two jurisdictions in this file with a developed professional literature. Israel has an explicit, documented professional exchange on contact refusal (סרבנות קשר) and parental alienation (ניכור הורי): the Rackman Center's 2020 position paper, with a signed expert opinion by a child psychiatrist appended, and a published rebuttal by a university academic writing with a retired family-court judge. Both sides are entered here from their own documents. Türkiye has a Turkish-language literature originating in a 2011 psychiatric review and extending to peer-reviewed survey work with targeted parents, alongside social-work research into how family-court experts encounter the construct in practice.",
+  "structural_findings": [
+    "15 verified entries across Türkiye, Israel, Lebanon, Jordan, the UAE, Qatar and Saudi Arabia. Stance distribution: recognition 4, middle 1, critique 2, institutional 8. The institutional majority is a finding about what is publicly documented in the region, not a judgement about clinical practice.",
+    "Egypt is deliberately NOT in this file. Its entry (eg.nccm, the National Council for Childhood and Motherhood) remains in africa.json, where it was first published. WHO's EMRO region straddles North Africa and the Middle East, and moving the entry would have broken an existing cross-link ID for no reader benefit.",
+    "Gulf states (UAE, Saudi Arabia, Qatar, Kuwait, Bahrain, Oman): no named clinician met the directory standard. Searches in English and in Arabic (التنفير الوالدي / الاغتراب الوالدي) across indexed literature, Gulf university faculties and conference programmes returned no psychologist, psychiatrist, social worker or family therapist with a public, citable body of relevant work. The four Gulf entries are therefore statutory bodies, each verified from its own published materials. Kuwait's Ministry of Justice Family Consultations Department was verified to the same standard and is queued for the next pass.",
+    "Türkiye: no critique-camp voice was located. The Turkish-language literature found is recognition-leaning or descriptive, and no Turkish women's-rights or domestic-violence body with a published position on the construct surfaced. This is recorded as a search gap, not as a claim about Turkish professional consensus.",
+    "Israel is the only jurisdiction here with both camps documented in their own words, through a traceable 2020 exchange: the Rackman Center position paper (with Dr Flashman's signed expert opinion appended) and the Marcus / Kibenson Bar-On rebuttal. Entries state each party's own position only; neither side's characterisation of the other is reproduced as fact. A forensic-evaluator entry (Prof. Moshe Almagor) was verified but queued for the next pass.",
+    "Registration numbers are absent throughout this file. Türkiye operates no single open public register of physician titles, psychologists or social workers; Lebanon publishes no searchable physician index; and the Israeli Ministry of Health practitioners register and the social workers register are JavaScript applications that resisted automated retrieval. Each entry states what was and was not confirmed rather than implying a register check that did not happen.",
+    "One named Lebanese clinician, first author of the only Lebanon-specific parental-alienation publication located, was held back from publication because no Lebanese register permits licensure verification and the stance label was genuinely arguable between recognition and middle on the paper's own wording. The draft is retained internally for a later pass."
+  ],
+  "entries": [
+    {
+      "id": "tr.torun-fuat",
+      "name": "Prof. Dr. Fuat Torun",
+      "credentials": "Psychiatrist (psikiyatri uzmanı); author-affiliation on 2021-2023 peer-reviewed international papers: Department of Psychiatry, Istanbul Yeni Yüzyıl University School of Medicine. His own official site states associate professorship (doçent) from 2013 and professorship from 2019. No public statutory register exists in Türkiye against which a physician title can be independently confirmed by an open lookup.",
+      "city": "Istanbul",
+      "region": "Türkiye (TR)",
+      "affiliation": "Department of Psychiatry, Istanbul Yeni Yüzyıl University School of Medicine (affiliation as printed on his 2021 American Journal of Family Therapy and 2023 Journal of Family Issues papers); private psychiatric/psychotherapy practice, Istanbul; previously University of Health Sciences Ümraniye Training and Research Hospital (per his own CV page)",
+      "stance": "recognition",
+      "stance_notes": "Torun is the earliest and most sustained Turkish-language author on parental alienation: his 2011 review in Psikiyatride Güncel Yaklaşımlar introduced the construct to Turkish psychiatric literature and he authored the Turkish monograph 'Ebeveyne Yabancılaşma Sendromu' (Psikonet, 2017). He uses the syndrome framing while expressly recording the dispute over it — his own 2011 abstract states: 'Birçok araştırmacı çocuklardaki bu yabancılaşmaya ebeveyn yabancılaştırma sendromu kavramını kullanmaktadır. Buna karşın bu kavramın geçerliği üzerindeki tartışmalar halen devam etmektedir.' ('Many researchers use the concept of parental alienation syndrome for this alienation in children. However, debates about the validity of this concept are still ongoing.') His stated purpose there is to describe the presentation, set out the differential diagnosis against abuse, and convey the validity debate to health professionals. His later empirical work with targeted parents in Türkiye (American Journal of Family Therapy 2022; Journal of Family Issues 2023, with S. D. Torun and M. Matthewson) treats parental alienation as a researchable phenomenon and reports targeted parents' own view that professionals lack sufficient knowledge of it. Classified recognition on the strength of that published body of work, with the validity debate acknowledged in his own words rather than dismissed.",
+      "publications": [
+        {"title": "Ebeveyn Yabancılaştırma Sendromu (Parental Alienation Syndrome)", "year": 2011, "venue": "Psikiyatride Güncel Yaklaşımlar / Current Approaches in Psychiatry, 3(3), 466-482", "url": "https://dergipark.org.tr/tr/pub/pgy/article/133403"},
+        {"title": "Bir olgu üzerinden ebeveyn yabancılaştırma sendromu (Parental alienation syndrome through a case)", "year": 2011, "venue": "Anadolu Psikiyatri Dergisi, 12(2), 167-168"},
+        {"title": "Ebeveyne Yabancılaşma Sendromu (book)", "year": 2017, "venue": "Psikonet Yayınları, Istanbul; ISBN 978-605-83368-3-4", "url": "https://www.fuattorun.com/?pnum=6&pt=Bilimsel+Yay%C4%B1nlar%C4%B1m"},
+        {"title": "Ebeveyn Yabancılaşma Sendromu (book chapter in 'Şiddet ve Travmaya Psikiyatrik Bakış', ed. Lut Tamam)", "year": 2020, "venue": "Akademisyen Kitabevi", "url": "https://www.fuattorun.com/?pnum=6&pt=Bilimsel+Yay%C4%B1nlar%C4%B1m"},
+        {"title": "Parental Alienation: Targeted Parent Experience in Turkey (with S. D. Torun and M. Matthewson)", "year": 2022, "venue": "The American Journal of Family Therapy, 50(2), 195-204", "url": "https://www.tandfonline.com/doi/full/10.1080/01926187.2021.1895903"},
+        {"title": "Targeted Fathers' Beliefs in a Just World (with S. D. Torun and M. Matthewson)", "year": 2023, "venue": "Journal of Family Issues, 44(11), 3043-3056"}
+      ],
+      "urls": [
+        "https://www.fuattorun.com/",
+        "https://www.fuattorun.com/?pnum=2&pt=Hakk%C4%B1mda",
+        "https://www.fuattorun.com/?pnum=6&pt=Bilimsel+Yay%C4%B1nlar%C4%B1m",
+        "https://dergipark.org.tr/tr/pub/pgy/article/133403",
+        "https://www.tandfonline.com/doi/full/10.1080/01926187.2021.1895903"
+      ],
+      "contact": "https://www.fuattorun.com/",
+      "verification_notes": "Authorship of the 2011 Psikiyatride Güncel Yaklaşımlar review (DOI 10.5455/cap.20110321, vol. 3 no. 3, pp. 466-482) was confirmed on the DergiPark article page, which shows him as sole author and carries both the Turkish and English abstracts quoted above. Crossref metadata for DOI 10.1080/01926187.2021.1895903 records him as first author with affiliation 'Department of Psychiatry, Istanbul Yeniyüzyıl University, School of Medicine', The American Journal of Family Therapy 50(2), 195-204 (online publication 9 March 2021; issue year 2022). Crossref metadata for DOI 10.1177/0192513X221126749 records the same affiliation, Journal of Family Issues 44(11), 3043-3056 (online 14 September 2022; issue year 2023). The 2011 Anadolu Psikiyatri Dergisi case report and the 2017 Psikonet book are listed on his own publications page and the case report also appears in the reference list of his 2011 review; no independent publisher page for the case report was opened, so no URL is given. Title history (doçent 2013, profesör 2019) and the Ümraniye hospital history are stated on his own site only; Türkiye operates no single open public register of physician titles, so these were not independently confirmed. A link on his site labelled '56. Ulusal Psikiyatri Kongresi Ebeveyne Yabancılaşma Sendromu Sunumu' points to a YouTube video, which was not opened and is not relied on. A hospital page at gophastanesi.com.tr redirects (HTTP 301) to a Medical Park / İstinye University hospital page, so his current hospital of practice is not asserted here.",
+      "references": [
+        "jurisdiction:turkey"
+      ]
+    },
+    {
+      "id": "tr.torun-sebahat-dilek",
+      "name": "Prof. Dr. Sebahat Dilek Torun",
+      "credentials": "MD (Marmara University Faculty of Medicine, English programme, 1997); MSc Public Health, Marmara University; PhD Public Health, Marmara University; Professor of Public Health. Listed on the Yeditepe University faculty page as Prof. Dr., Faculty of Medicine, Department of Internal Medical Sciences, Public Health Division.",
+      "city": "Istanbul",
+      "region": "Türkiye (TR)",
+      "affiliation": "Yeditepe University Faculty of Medicine, Department of Internal Medical Sciences, Public Health Division, Istanbul (current); Department of Public Health, Bahçeşehir University School of Medicine (affiliation printed on her 2021-2023 parental-alienation papers)",
+      "stance": "recognition",
+      "stance_notes": "Torun is an epidemiologist and public-health physician who co-authored the two peer-reviewed survey studies of targeted parents in Türkiye, with Fuat Torun and Mandy Matthewson. Both papers treat parental alienation as a measurable exposure and report findings in the targeted parents' own terms; the Journal of Family Issues abstract states in the authors' own words that 'Targeted fathers reported lower beliefs in a just world than non-targeted fathers' and that 'Targeted fathers who reported that mental health and legal professionals have sufficient knowledge of parental alienation had higher belief in a just world scores than targeted parents who believed professionals have insufficient knowledge.' Her Yeditepe faculty page lists both parental-alienation papers among her selected publications. Classified recognition on the basis of this published empirical work; she is a public-health researcher rather than a family-court clinician, and no statement by her on the diagnostic status of the construct was located.",
+      "publications": [
+        {"title": "Parental Alienation: Targeted Parent Experience in Turkey (with F. Torun and M. Matthewson)", "year": 2022, "venue": "The American Journal of Family Therapy, 50(2), 195-204", "url": "https://www.tandfonline.com/doi/full/10.1080/01926187.2021.1895903"},
+        {"title": "Targeted Fathers' Beliefs in a Just World (with F. Torun and M. Matthewson)", "year": 2023, "venue": "Journal of Family Issues, 44(11), 3043-3056"}
+      ],
+      "urls": [
+        "https://yeditepe.edu.tr/en/academic-staff/8233",
+        "https://yeditepe.edu.tr/tr/akademik-kadro/8233",
+        "https://www.tandfonline.com/doi/full/10.1080/01926187.2021.1895903"
+      ],
+      "contact": "https://yeditepe.edu.tr/en/academic-staff/8233",
+      "verification_notes": "The Yeditepe University faculty page (English and Turkish versions) confirms the title Prof. Dr., the Public Health Division of the Faculty of Medicine, the Marmara University MD/MSc/PhD sequence, and lists both parental-alienation papers as her own publications. Crossref metadata for DOI 10.1080/01926187.2021.1895903 and DOI 10.1177/0192513X221126749 records her affiliation at the time of both papers as 'Department of Public Health, Bahçeşehir University, School of Medicine', i.e. the affiliation changed between publication and the present faculty listing. The Journal of Family Issues abstract quoted above was read from Crossref metadata for that DOI; the publisher page (journals.sagepub.com) returned HTTP 403 and a reader-proxy attempt returned a bot-verification page, so no SAGE URL is cited. Her institutional email is displayed on the faculty page in an obscured form and is therefore not reproduced. She is the spouse and long-standing co-author of Fuat Torun (the two have co-published since 2002 on unrelated public-health topics); they are listed here as separate researchers with separate records.",
+      "references": [
+        "jurisdiction:turkey"
+      ]
+    },
+    {
+      "id": "tr.karatas-kasim",
+      "name": "Prof. Dr. Kasım Karataş",
+      "credentials": "Professor of Social Work (Prof. Dr.), Hacettepe University Faculty of Economics and Administrative Sciences, Department of Social Work, as shown on the university's AVESIS academic staff system. Qualified social worker (sosyal hizmet uzmanı) background; thesis supervisor in the Hacettepe Institute of Social Sciences Social Work programme.",
+      "city": "Ankara",
+      "region": "Türkiye (TR)",
+      "affiliation": "Hacettepe Üniversitesi, İktisadi ve İdari Bilimler Fakültesi, Sosyal Hizmet Bölümü (Hacettepe University, Faculty of Economics and Administrative Sciences, Department of Social Work), Ankara",
+      "stance": "middle",
+      "stance_notes": "Karataş co-authored (with his doctoral student Görkem Yurdakul Muncuk) a qualitative study of how social workers attached to the family courts at the Ankara and Ankara West courthouses view parental alienation, drawn from a 2022 Hacettepe master's thesis he supervised. The authors' own conclusion is cautiously worded rather than diagnostic: 'Çocuğun bir ebeveyni yüzünden diğer ebeveyniyle olan ilişkisini sonlandırması duygusal istismar olabilmekle birlikte çocuğun gelişim sürecinin olumsuz etkilenmesine yol açabilmektedir.' ('A child ending the relationship with one parent because of the other may amount to emotional abuse, and can also lead to the child's developmental process being adversely affected.') They report that court social workers meet such cases frequently but that 'sosyal hizmet müdahalesinin sınırlı olduğu' (social work intervention is limited), and recommend securing the child's participation, careful analysis of family dynamics, an individualised intervention plan for each family and an interdisciplinary approach. Classified middle: the work engages the construct as encountered in Turkish family-court practice and is framed around professional-role limits and the child's best interests rather than around endorsing or rejecting a syndrome.",
+      "publications": [
+        {"title": "Ebeveyn Yabancılaştırma Sendromunun Sosyal Hizmet Uzmanları Tarafından Değerlendirilmesi (Evaluation of Parental Alienation Syndrome by Social Workers), with G. Yurdakul Muncuk", "year": 2025, "venue": "Afyon Kocatepe Üniversitesi Sosyal Bilimler Dergisi, 27(3), 1205-1223", "url": "https://dergipark.org.tr/tr/pub/akusosbil/article/1317063"},
+        {"title": "Supervisor of the master's thesis 'Ebeveyn Yabancılaştırma Sendromu: Çocuklar, Ebeveynler ve Sosyal Hizmet Uzmanları Üzerinden Bir Değerlendirme' (G. Yurdakul), Hacettepe University Institute of Social Sciences, Department of Social Work", "year": 2022, "venue": "Hacettepe Üniversitesi Sosyal Bilimler Enstitüsü"}
+      ],
+      "urls": [
+        "https://avesis.hacettepe.edu.tr/kkaratas",
+        "https://avesis.hacettepe.edu.tr/kkaratas/yayinlar",
+        "https://dergipark.org.tr/tr/pub/akusosbil/article/1317063",
+        "https://dergipark.org.tr/en/download/article-file/3220549"
+      ],
+      "contact": "https://avesis.hacettepe.edu.tr/kkaratas",
+      "verification_notes": "The Hacettepe AVESIS profile confirms the title Prof. and the institutional unit 'İktisadi Ve İdari Bilimler Fakültesi, Sosyal Hizmet Bölümü'; his AVESIS publication list carries the article as 'Evaluation of Parental Alienation Syndrome by Social Workers', Afyon Kocatepe Üniversitesi Sosyal Bilimler Dergisi, vol. 27 no. 3, pp. 1205-1223, 2025 (TR Dizin indexed). Crossref metadata for DOI 10.32709/akusosbil.1317063 gives the same volume, issue, pages and year and lists both authors with Hacettepe University affiliation. The article PDF was read directly: the footnotes print his department affiliation and record that the paper derives from the 2022 master's thesis prepared under his supervision by Görkem Yurdakul; the Turkish sentences quoted above are verbatim from that PDF. An administrative role as coordinator of a child rights centre appeared only in a third-party search snippet and is not asserted here, as it was not seen on the AVESIS page. No registration number is recorded: Türkiye has no single public register of social workers open to lookup.",
+      "references": [
+        "jurisdiction:turkey"
+      ]
+    },
+    {
+      "id": "il.kibenson-bar-on-inbal",
+      "name": "Dr Inbal Kibenson Bar-On",
+      "credentials": "Doctorate (titled 'ד\"ר' on her own signed publication); stated affiliation: Department of Counseling and Human Development, University of Haifa",
+      "city": "Haifa",
+      "region": "Haifa District, Israel",
+      "affiliation": "Department of Counseling and Human Development, University of Haifa (as printed on her own September 2020 paper)",
+      "stance": "recognition",
+      "stance_notes": "Co-author, with retired Jerusalem family court judge Philip Marcus, of a September 2020 critical review titled 'כישלון קשר ילד-הורה: סיבות, אבחון, וטיפול בישראל' ('Child-parent contact failure: causes, diagnosis and treatment in Israel'), written as a response to the Rackman Center position paper. Her stance is recognition-camp but explicitly differentiating rather than absolutist: the paper opens by listing multiple possible causes of contact breakdown, expressly including adolescent rebellion, rejection of the child by the parent, 'תגובת הילד להתעללות בו או בבן משפחתו על ידי ההורה שנדחה' ('the child's reaction to abuse of the child or a family member by the rejected parent'), parental mental illness and addiction, alongside conduct by one parent that causes the child to end contact with the other. The authors accept that the term is contested and often misused — 'קיימת כיום נטייה... לעשות שימוש מוגבר ונרחב במונח ניכור הורי כדרך לבטא כל קושי בקשר' ('there is today a tendency to make increased and expansive use of the term parental alienation as a way of expressing any difficulty in contact') — and argue for distinguishing alienation from other variants of contact breakdown: 'אנו רואים חשיבות רבה לעריכת הבחנה בין ניכור הורי לווריאציות אחרות של ניתוק קשר'. Where a parent causes unjustified severance, they characterise it as 'התעללות פסיכולוגית בילד' ('psychological abuse of the child').",
+      "publications": [
+        {"title": "כישלון קשר ילד-הורה: סיבות, אבחון, וטיפול בישראל — עיון ביקורתי בנייר עמדה 'סרבנות קשר וניכור הורי', מכון רקמן, אפריל 2020 (with Philip Marcus)", "year": 2020, "venue": "Self-published professional review (PDF)", "url": "https://shared-parenting.co.il/wp-content/uploads/2020/10/%D7%9B%D7%91%D7%95%D7%93-%D7%94%D7%A9%D7%95%D7%A4%D7%98-%D7%91%D7%93%D7%99%D7%9E%D7%95%D7%A1-%D7%A4%D7%99%D7%9C%D7%99%D7%A4-%D7%9E%D7%A8%D7%9B%D7%95%D7%A1-%D7%95%D7%93%D7%A8-%D7%A2%D7%A0%D7%91%D7%9C-%D7%91%D7%A8-%D7%90%D7%95%D7%9F-%D7%94%D7%97%D7%95%D7%92-%D7%9C%D7%99%D7%99%D7%A2%D7%95%D7%A5-%D7%95%D7%9C%D7%94%D7%AA%D7%A4%D7%AA%D7%97%D7%95%D7%AA-%D7%94%D7%90%D7%93%D7%9D-%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA-%D7%97%D7%99%D7%A4%D7%94.pdf"}
+      ],
+      "urls": [
+        "https://shared-parenting.co.il/wp-content/uploads/2020/10/%D7%9B%D7%91%D7%95%D7%93-%D7%94%D7%A9%D7%95%D7%A4%D7%98-%D7%91%D7%93%D7%99%D7%9E%D7%95%D7%A1-%D7%A4%D7%99%D7%9C%D7%99%D7%A4-%D7%9E%D7%A8%D7%9B%D7%95%D7%A1-%D7%95%D7%93%D7%A8-%D7%A2%D7%A0%D7%91%D7%9C-%D7%91%D7%A8-%D7%90%D7%95%D7%9F-%D7%94%D7%97%D7%95%D7%92-%D7%9C%D7%99%D7%99%D7%A2%D7%95%D7%A5-%D7%95%D7%9C%D7%94%D7%AA%D7%A4%D7%AA%D7%97%D7%95%D7%AA-%D7%94%D7%90%D7%93%D7%9D-%D7%90%D7%95%D7%A0%D7%99%D7%91%D7%A8%D7%A1%D7%99%D7%98%D7%AA-%D7%97%D7%99%D7%A4%D7%94.pdf"
+      ],
+      "contact": "Not publicly confirmed (an email address appears on her own signed 2020 paper; no official institutional page located)",
+      "verification_notes": "The full PDF was downloaded and its text extracted and read directly; her name, doctoral title and departmental affiliation appear on the title page ('דר' ענבל בר-און קיבנסון, החוג ליעוץ ולהתפתחות האדם, אוניברסיטת חיפה') and she signs the document at the end as 'ענבל קיבנסון בר און'. Her academic affiliation could NOT be independently verified against an official University of Haifa page: the university's research portal (cris.haifa.ac.il) is behind a Cloudflare challenge that blocked both direct requests and a reader proxy, and a guessed person-page URL returned 404. Professional registration (psychologist or social worker) was not verified and no register entry was located; the registries concerned are JavaScript applications that returned no readable records. Her document references a December 2019 literature review on parental alienation that it states she prepared for the Ministry of Labour and Welfare with Yoav Maza'ah; that review was not located or opened and is therefore not listed as a publication. Name transliteration varies (Kibenson / Kibbenson; Bar-On / Bar On).",
+      "references": [
+        "jurisdiction:israel"
+      ]
+    },
+    {
+      "id": "il.klimi-dana",
+      "name": "Dana Klimi",
+      "credentials": "Clinical social worker (עו\"ס קלינית); certified couples and family therapist; certified supervisor (as listed on her professional directory profile)",
+      "city": "Kibbutz Megiddo",
+      "region": "Northern District, Israel",
+      "affiliation": "Director, Michael Center — the external therapeutic and consulting unit of the Neve Michael emergency centres for children and adolescents (Emunah); private clinic, Kibbutz Megiddo",
+      "stance": "recognition",
+      "stance_notes": "Klimi treats parental alienation and contact breakdown as a clinical phenomenon requiring structured intervention, writing in her own July 2021 article that 'משפחות החוות גירושין עתירי קונפליקט מגיעות לעתים למצבי ניכור הורי ונתק בקשר של הילדים עם אחד ההורים, המעוררים מצוקה ופוגעים בילדים בטווח הארוך' ('families experiencing high-conflict divorce sometimes reach states of parental alienation and severed contact between the children and one parent, which cause distress and harm children in the long term'). Her companion article sets out a 'driving force' model that she describes as 'מודל מערכתי המשלב בין רכיבים ותובנות הלקוחים מהגישות מוכרות לטיפול במצבי ניכור הורי' ('a systemic model combining components and insights drawn from established approaches to treating parental alienation'), distinguishing three types of case by their primary driver: narcissistic injury, anxiety-symbiosis, and deficits arising from parental dysfunction. The formulation is treatment-oriented and differentiating by driver rather than framed as a single syndrome; no statement was located in which she addresses the construct-validity debate directly.",
+      "publications": [
+        {"title": "ניכור הורי ונתקים בקשר - מאפייני התופעה, סיבות ודרכי טיפול", "year": 2021, "venue": "פסיכולוגיה עברית (Hebrew Psychology)", "url": "https://www.hebpsy.net/articles.asp?id=4165"},
+        {"title": "מודל הכוח המניע לטיפול במצבי ניכור ונתקים בקשר: שלושה סוגים של 'מנועים' ודגשים לתכנון ההתערבות", "year": 2021, "venue": "פסיכולוגיה עברית (Hebrew Psychology)", "url": "https://www.hebpsy.net/articles.asp?id=4171"}
+      ],
+      "urls": [
+        "https://www.hebpsy.net/articles.asp?id=4165",
+        "https://www.hebpsy.net/articles.asp?id=4171",
+        "https://www.hebpsy.net/showprofile.asp?id=59654"
+      ],
+      "contact": "Via her professional directory profile at https://www.hebpsy.net/showprofile.asp?id=59654",
+      "verification_notes": "Two signed articles on parental alienation and contact breakdown were opened directly on the Hebrew Psychology professional platform, both dated July 2021, with her credentials and role stated in the author line. Her professional directory profile displays a social-worker register number and a family-therapist certification number, but that directory is a self-maintained professional listing and NOT an official register, so no registration_number is recorded here. Registration could not be verified against the Ministry of Welfare and Social Security social workers register (gov.il/he/service/social-workers-index): the register's search function is a JavaScript application and direct API requests were blocked by Cloudflare. Her directorship of the Michael Center unit is as described on her own profile and in her article author lines; the Neve Michael Children's Home website was opened and does not describe a unit under that name, so the affiliation is not independently corroborated.",
+      "references": [
+        "jurisdiction:israel"
+      ]
+    },
+    {
+      "id": "il.flashman-alan",
+      "name": "Dr Alan (Aharon) Flashman, MD",
+      "credentials": "MD (New York University); BA (Columbia University); residency training in paediatrics, general psychiatry and child psychiatry, Albert Einstein College of Medicine, New York; recognised in Israel as a specialist in child and adolescent psychiatry (all per his own signed curriculum vitae appended to his February 2020 expert opinion)",
+      "city": "Be'er Sheva",
+      "region": "Southern District, Israel",
+      "affiliation": "Private practice in child psychiatry and general psychiatry, Be'er Sheva (since 1983, per his own signed CV); formerly acting director, Child Psychiatry Unit, Soroka Medical Centre, Be'er Sheva; former teaching roles in mental health at Ben-Gurion University of the Negev, the Hebrew University of Jerusalem and Tel Aviv University",
+      "stance": "critique",
+      "stance_notes": "Flashman's position is stated in a signed expert opinion (chavat da'at mumche) dated February 2020, prepared at the request of Prof. Ruth Halperin-Kaddari and appended in full to the Rackman Center position paper on contact refusal and parental alienation. He writes that there is no accepted scientific body of knowledge underpinning the proposed syndrome: 'אין גוף ידע מדעי שמקובל בעיני רוב המומחים בתחום שמבסס את התסמונת' ('there is no body of scientific knowledge accepted by most experts in the field that establishes the syndrome'). He separately writes that children may refuse contact for reasons belonging to the relationship with that parent alone and not necessarily through the fault of the other parent. His stated conclusion is procedural rather than absolute: 'מינוי \"מומחה לניכור הורי\" אינו שומר על ניטרליות אלא מכריע את הכף בטרם עת' ('appointing an \"expert in parental alienation\" does not preserve neutrality but rather tips the scales prematurely'), adding that any court-appointed expert may address PAS as they see fit. In an August 2023 Times of Israel blog post under his own byline he writes that Gardner's theory 'has been dismissed by medical, psychiatric and psychological associations' and describes its application in Israeli family courts in strongly critical terms.",
+      "publications": [
+        {"title": "חוות דעת מומחה — מומחיות בתחום ניכור הורי ומעמדה בתיקים משפטיים (Expert opinion on the existence of expertise in parental alienation and the standing of that claimed expertise in legal cases), appended to the Rackman Center position paper", "year": 2020, "venue": "Appendix to 'סרבנות קשר וניכור הורי', Rackman Center for the Advancement of the Status of Women, Bar-Ilan University", "url": "https://fs.knesset.gov.il/24/Committees/24_cs_bg_616340.pdf"},
+        {"title": "'Parental Alienation' - Israel and the World", "year": 2023, "venue": "The Times of Israel (Blogs)", "url": "https://blogs.timesofisrael.com/parental-alienation-israel-and-the-world/"}
+      ],
+      "urls": [
+        "https://fs.knesset.gov.il/24/Committees/24_cs_bg_616340.pdf",
+        "https://blogs.timesofisrael.com/parental-alienation-israel-and-the-world/",
+        "https://blogs.timesofisrael.com/author/alan-flashman/",
+        "https://alanflashman.com/"
+      ],
+      "contact": "https://alanflashman.com/",
+      "verification_notes": "Identity confirmed across three sources opened directly: the signed Hebrew expert opinion appended to the Rackman Center position paper (signature line 'ד\"ר אהרן (אלן) פלשמן', letterhead 'פסיכיאטר כללי ולילדים ולנוער', Be'er Sheva address, email aflashman@gmail.com and alanflashman.com), his personal professional site, and his Times of Israel author page and blog posts. The signed opinion's letterhead does carry a medical licence number and a specialist number, but the digits in that PDF's text layer are demonstrably corrupted (dates and years in the same document render incorrectly, e.g. the February 2020 date renders as '04 פברואר /1/1'), so no registration number is recorded here. Registration was NOT independently verified against the Israeli Ministry of Health practitioners register: that register (practitioners.health.gov.il) is a JavaScript application and returned no readable records through a reader proxy. Still active and publishing: Times of Israel posts by this author appear through 2026. Credentials listed are as stated in his own signed CV and blog biography, not independently confirmed against the awarding institutions.",
+      "references": [
+        "jurisdiction:israel"
+      ]
+    },
+    {
+      "id": "il.rackman-center",
+      "name": "The Ruth and Emanuel Rackman Center for the Advancement of the Status of Women, Bar-Ilan University",
+      "credentials": "Founded 2001 within the Faculty of Law, Bar-Ilan University; academic legal centre combining research, individual legal representation and policy advocacy in Israeli family law; publishes position papers addressed to decision-makers and submits comments to Knesset committees",
+      "city": "Ramat Gan",
+      "region": "Tel Aviv District, Israel",
+      "affiliation": "Faculty of Law, Bar-Ilan University",
+      "stance": "critique",
+      "stance_notes": "Institutional critique anchor for the Israeli contact-refusal debate, justified from the Center's own April 2020 position paper 'סרבנות קשר וניכור הורי: רקע תאורטי, אבחון ושיטות טיפול בראי עיקרון טובת הילד' ('Contact refusal and parental alienation: theoretical background, diagnosis and treatment methods in light of the best-interests-of-the-child principle'), authored by Adv. Avishag Uzrad, Prof. Ruth Halperin-Kaddari and Adv. Osnat Prince. The paper argues that the rise in use of the term in litigation does not necessarily indicate a rise in the phenomenon itself, and that no such treatment speciality exists: 'לא קיימת בעולם הטיפול מומחיות בניכור הורי - לא בתחום הפסיכולוגיה ולא בתחום העבודה הסוציאלית' ('no expertise in parental alienation exists in the treatment world — neither in psychology nor in social work'), noting that parental alienation is absent from the closed statutory lists of recognised specialisations under the Psychologists Regulations 1979 and the social-work expertise rules. It further objects to the same professional serving as both diagnostician and treating clinician, and to coercive remedies such as forced custody transfer and out-of-home placement. The Center states that it acts as an organisation providing legal advice and representation to women in family law, and that the material was also placed before the Supreme Court in an application to join as amicus curiae.",
+      "publications": [
+        {"title": "סרבנות קשר וניכור הורי: רקע תאורטי, אבחון ושיטות טיפול בראי עיקרון טובת הילד", "year": 2020, "venue": "Rackman Center for the Advancement of the Status of Women, Bar-Ilan University (copy hosted by the Knesset for committee background)", "url": "https://fs.knesset.gov.il/24/Committees/24_cs_bg_616340.pdf"}
+      ],
+      "urls": [
+        "https://fs.knesset.gov.il/24/Committees/24_cs_bg_616340.pdf",
+        "https://rackmancenter.com/%D7%A1%D7%A8%D7%91%D7%A0%D7%95%D7%AA-%D7%A7%D7%A9%D7%A8-%D7%95%D7%A0%D7%99%D7%9B%D7%95%D7%A8-%D7%94%D7%95%D7%A8%D7%99/",
+        "https://rackmancenter.com/en/about-2/",
+        "https://rackmancenter.com/en/position-papers-and-publications/"
+      ],
+      "contact": "Rackman.Center@biu.ac.il; Faculty of Law, Bar-Ilan University, Ramat Gan 5290002; tel. 03-5318895 (per the Center's own About page)",
+      "verification_notes": "The full position paper was retrieved as a PDF from the Knesset file server and its text extracted and read directly; authorship, April 2020 date and the Rackman Center copyright line appear on the document itself. The Center's own website carries a page announcing the position paper (dated 23 August 2020 on that page) and a separate page setting out its position on misuse of the term. Institutional details (founded 2001, Faculty of Law, Bar-Ilan University, contact details) are taken from the Center's own English About page. Note that the Center's current English 'Position Papers and Publications' index and its Hebrew position-paper list, both opened, do not presently list this 2020 paper among the items displayed; the paper is nonetheless verified from the Center's own dedicated page for it and from the document's own copyright attribution. This is an academic legal centre, not a mental-health provider; it is included as an institutional actor with a documented role in contact-refusal matters.",
+      "references": [
+        "jurisdiction:israel"
+      ]
+    },
+    {
+      "id": "tr.adli-destek",
+      "name": "Adli Destek ve Mağdur Hizmetleri Dairesi Başkanlığı (Directorate of Judicial Support and Victim Services), Ministry of Justice",
+      "credentials": "Statutory body of the T.C. Adalet Bakanlığı (Ministry of Justice), established by the Presidential Decree on Support for Victims of Crime published 10 June 2020. Its Çocuk Hizmetleri Daire Başkanlığı (Child Services Department) is responsible for activities relating to the execution of judgments and interim measures on child handover and the establishment of personal relationship with the child.",
+      "city": "Ankara",
+      "region": "Türkiye (TR)",
+      "affiliation": "T.C. Adalet Bakanlığı (Republic of Türkiye, Ministry of Justice); local Adli Destek ve Mağdur Hizmetleri Müdürlükleri in courthouses nationwide",
+      "stance": "institutional",
+      "stance_notes": "This is the statutory body that now carries out contact and handover orders in Türkiye, and is the institutional anchor for the 2021-2023 reform of that process. Law no. 7343 (Official Gazette, 30 November 2021, no. 31675) amended the Child Protection Law no. 5395 so that, in the Directorate's own words, 'daha önce icra yoluyla zorla yerine getirilen çocuk teslimi veya çocukla kişisel ilişki kurulmasına dair ilâm veya tedbir kararları, artık belirlenen teslim mekânlarında adli destek ve mağdur hizmetleri müdürlükleri ... tarafından yerine getirilmektedir' ('judgments or interim measures on child handover or the establishment of personal relationship with the child, previously enforced coercively through execution proceedings, are now carried out by the judicial support and victim services directorates at designated handover venues'). The implementing regulation was published on 4 August 2022 (Official Gazette no. 31913); the new procedure began in 11 provincial centres on 4 April 2022 and applied nationwide from 8 May 2023. The published guidance states that operations take place in child-friendly 'çocuk görüşme merkezleri' (child meeting centres) through uzmanlar (experts), that they are conducted 'daha çok rızaya dayalı olarak' (mostly on a consensual basis) with contact first established with the parties and the children, that counselling on parenting roles is offered where needed, and that no fee is charged. The Directorate does not use the vocabulary of parental alienation; its framing is the constitutional and Civil Code right of the child to personal and direct contact with both parents and the çocuğun üstün yararı (best interests of the child) standard. Listed as the institutional entry for Türkiye on that basis.",
+      "publications": [
+        {"title": "Çocuk Teslimi ve Çocukla Kişisel İlişki Kurulması Sürecine İlişkin Rehber (Guide to the process of child handover and establishment of personal relationship with the child)", "year": 2023, "venue": "T.C. Adalet Bakanlığı Adli Destek ve Mağdur Hizmetleri Dairesi Başkanlığı, with UNICEF Türkiye and Başkent University CEKAMER", "url": "https://magdur.adalet.gov.tr/Resimler/SayfaDokuman/26122023154225C%CC%A7OCUK_TESLI%CC%87MI%CC%87_REHBER.pdf"},
+        {"title": "Çocuk Teslimi ve Çocukla Kişisel İlişki Tesisine Yönelik İş ve İşlemler (official process page)", "year": 2022, "venue": "Adli Destek ve Mağdur Hizmetleri Dairesi Başkanlığı", "url": "https://magdur.adalet.gov.tr/Home/SayfaDetay/cocuk-teslimi-ve-cocukla-kisisel-iliski-tesisine-yonelik-is-ve-islemler"},
+        {"title": "Çocuk Teslimi ve Çocukla Kişisel İlişki Kurulması Sürecine İlişkin Sıkça Sorulan Sorular (official FAQ)", "year": 2023, "venue": "Adli Destek ve Mağdur Hizmetleri Dairesi Başkanlığı", "url": "https://magdur.adalet.gov.tr/Home/SayfaDetay/cocuk-teslimi-ve-cocukla-kisisel-iliski-kurulmasi-surecine-iliskin-sikca-sorulan-sorular"}
+      ],
+      "urls": [
+        "https://magdur.adalet.gov.tr/",
+        "https://magdur.adalet.gov.tr/Home/SayfaDetay/cocuk-teslimi-ve-cocukla-kisisel-iliski-tesisine-yonelik-is-ve-islemler",
+        "https://magdur.adalet.gov.tr/Home/SayfaDetay/cocuk-teslimi-ve-cocukla-kisisel-iliski-kurulmasi-surecine-iliskin-sikca-sorulan-sorular",
+        "https://magdur.adalet.gov.tr/Resimler/SayfaDokuman/26122023154225C%CC%A7OCUK_TESLI%CC%87MI%CC%87_REHBER.pdf"
+      ],
+      "contact": "Devlet Mahallesi, Vekaletler Caddesi No: 2/1, Çankaya/Ankara; tel +90 312 549 37 01; magdur@adalet.gov.tr (as published on https://magdur.adalet.gov.tr/)",
+      "verification_notes": "The official site confirms the body's name, its place within the Ministry of Justice, its Child Services Department's remit over child handover and personal-relationship orders, and the postal address, telephone number and email reproduced above. The December 2023 guide PDF was downloaded and its text extracted locally; the Turkish passages quoted are verbatim from the Minister's foreword and the Directorate's preface, which also give the Law no. 7343 Official Gazette reference (30 November 2021, no. 31675), the implementing regulation (4 August 2022, no. 31913), the 4 April 2022 start in 11 provincial centres and the 8 May 2023 nationwide roll-out. The guide names its academic and departmental authors and carries the standard disclaimer that the views expressed are the authors' own and do not reflect the official position of the Ministry, UNICEF Türkiye or Başkent University CEKAMER; the legislative and procedural facts cited here are taken from the official foreword and the Directorate's own web pages rather than from the authored chapters. Where no such directorate exists locally, the orders are executed by civil-court clerk offices designated by the Ministry.",
+      "references": [
+        "jurisdiction:turkey"
+      ]
+    },
+    {
+      "id": "lb.lopsy",
+      "name": "Lebanese Order of Psychologists (LOPsy) / نقابة النفسانيين في لبنان",
+      "credentials": "Statutory professional order for psychologists and psychotherapists in Lebanon. Its own About page states that 'law no. 8 was issued on February 10 of 2017 making it mandatory for practicing psychologists to join the order and earn a professional license after', and that the Order manages its affairs 'in accordance with the rules stipulated in the law no. 254/2022'. Its Resources page publishes both texts as 'Law 8: licensure - القانون ٨/٢٠١٧: تنظيم مهنة النفساني في لبنان' and 'Law 254: creation of the Lebanese order of Psychologists - القانون ٢٥٤: انشاء نقابة النفسانيين في لبنان'.",
+      "city": "Beirut",
+      "region": "Lebanon (national regulator)",
+      "affiliation": "Lebanese Order of Psychologists; licensing operated with the Ministry of Public Health (work permit committee) and the Ministry of Education and Higher Education (colloquium exam committee), per the Order's own history page",
+      "stance": "institutional",
+      "stance_notes": "Included as the Lebanese regulatory anchor rather than for any position on the PA construct: no PA-specific, contact-refusal-specific or custody-specific statement by the Order was located in its published legal documents, guidelines or site pages. The Order operates a public professional directory (1,882 listed licensed professionals at the time of checking), filterable by licence type (Clinical / Educational), psychotherapy specialisation and a 'Child and Adolescent' sub-specialty, which makes it the practical licensure-verification route for named Lebanese psychologists. Its published 'LOPsy Guidelines for Assessments and Evaluations' address assessment competence generally and instruct that 'Psychologists strive to consider the multiple and global settings (e.g., forensic, education, integrated care) in which services are being provided', without addressing custody or child-contact evaluation specifically. In a country where personal-status matters sit with recognised religious-community courts, the Order states that its 'activities are purely professional, free from any partisan, ideological or religious commitment'. Country_code: LB.",
+      "urls": [
+        "https://lopsy.org/lopsy-org/about-us",
+        "https://lopsy.org/members",
+        "https://lopsy.org/resources",
+        "https://lopsy.org/web/content/1591?unique=bcadd4baa88c93dd2fb9fd8c11ffb409243ef91e&download=true"
+      ],
+      "contact": "https://lopsy.org/contactus",
+      "verification_notes": "The public directory at https://lopsy.org/members was opened and is searchable via a 'search' query parameter; it reported 1,882 matches unfiltered at the time of checking. The guidelines PDF was downloaded and read in full text. No registration numbers are displayed in the directory, so none is recorded here. A Ministry of Public Health news listing carries a headline referring to a Lebanese Order of Psychologists 'Forum on the Contemporary Family'; the article body could not be retrieved and nothing about that forum is asserted in this entry.",
+      "references": [
+        "jurisdiction:lebanon"
+      ]
+    },
+    {
+      "id": "jo.ncfa",
+      "name": "National Council for Family Affairs (NCFA) / المجلس الوطني لشؤون الأسرة",
+      "credentials": "Established by Law No. 27 of 2001. Its own About page states: 'تأسس المجلس الوطني لشؤون الأسرة بموجب قانون رقم 27 لعام 2001 برئاسة جلالة الملكة رانيا العبدالله المعظمة' — 'The National Council for Family Affairs was established under Law No. 27 of 2001, chaired by Her Majesty Queen Rania Al Abdullah.'",
+      "city": "Amman",
+      "region": "Jordan (national coordinating body)",
+      "affiliation": "National Council for Family Affairs, Jordan",
+      "stance": "institutional",
+      "stance_notes": "Jordan's statutory umbrella and coordinating body for family policy, included for its documented role in family counselling and child protection rather than for any position on the PA construct, which was not located in its published material. Its About page describes the Council as working 'كمظلة داعمة للتنسيق وتيسير عمل الشركاء من المؤسسات الوطنية الحكومية وغير الحكومية والمؤسسات الدولية والقطاع الخاص العاملة في مجال الأسرة' — 'as a supporting umbrella for coordinating and facilitating the work of partners from national governmental and non-governmental institutions, international institutions and the private sector working in the field of the family.' Its published studies list includes an evaluative study of family counselling centres (الدراسة التقييمية لمراكز الإرشاد الأسري, 2019) and a national study on violence against children in Jordan (2019-2020), placing post-separation family counselling and child protection within its documented remit. No statement on parental alienation, contact refusal or post-separation child contact was located. Country_code: JO.",
+      "publications": [
+        {"title": "الدراسة التقييمية لمراكز الإرشاد الأسري (Evaluative Study of Family Counselling Centres)", "year": 2019, "venue": "National Council for Family Affairs, Jordan", "url": "https://ncfa.org.jo/AR/List/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA"}
+      ],
+      "urls": [
+        "https://ncfa.org.jo/AR/Pages/%D8%B9%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3",
+        "https://ncfa.org.jo/AR/List/%D8%A7%D9%84%D8%AF%D8%B1%D8%A7%D8%B3%D8%A7%D8%AA"
+      ],
+      "contact": "https://ncfa.org.jo/AR/Pages/%D8%B9%D9%86_%D8%A7%D9%84%D9%85%D8%AC%D9%84%D8%B3",
+      "verification_notes": "The Arabic About page and the Arabic studies list were opened and confirmed to carry the quoted establishment law and the listed study titles and years. The English-language path (ncfa.org.jo/en/page/about-us) resolves to the same Arabic content and ncfa.org.jo/en returns 404, so Arabic URLs are cited. Individual study PDFs are served through JavaScript postbacks and could not be opened directly; the study is therefore cited to the studies-list page on which its title and year appear. The NCFA's family-counselling strategy work is referenced in secondary reporting but no primary strategy document was opened, and nothing about it is asserted here.",
+      "references": [
+        "jurisdiction:jordan"
+      ]
+    },
+    {
+      "id": "jo.sjd-family-reconciliation",
+      "name": "Supreme Judge Department — Family Reconciliation, Mediation and Conciliation Offices / دائرة قاضي القضاة — مكاتب الإصلاح والوساطة والتوفيق الأسري",
+      "credentials": "Government department administering Jordan's Sharia courts. The official General Budget Department chapter for the Supreme Judge Department gives its legal framework as 'Sharia Courts Formation Law No.(19) of 1972 and amendments thereto, and Supreme Judge Department's Administrative Organization bylaw No. (18) of 1993 and amendments thereto', and its mission as 'Achieving justice in the community, preserving the rights of women and children, protecting the family and disseminating the Sharia and legal culture.'",
+      "city": "Amman",
+      "region": "Jordan (court-annexed service, national)",
+      "affiliation": "Supreme Judge Department (دائرة قاضي القضاة), Hashemite Kingdom of Jordan; offices attached to Sharia courts",
+      "stance": "institutional",
+      "stance_notes": "Jordan's court-annexed family conciliation and counselling service, included for its documented role in family disputes handled by the Sharia courts rather than for any position on the PA construct, which does not appear in its published material. The official budget chapter for the Department lists, among its stated priority outcomes, 'Increase the numbers of family reform offices', 'Institutionalize guidance and advocacy work in family reform offices', 'Promote relationships with the partner sectors in the guidance field and family rehabilitation', 'Promote relationship with human, family and child rights organizations' and 'Contribute to promoting the family cohesion', and it reports a performance measure for the 'Number of rehabilitation and family guidance centers'. The Department's own website carries a section headed 'الإصلاح والوساطة والتوفيق الأسري' (family reconciliation, mediation and conciliation) linking to a 'مديرية الإصلاح والتوفيق الاسري' (Family Reconciliation and Conciliation Directorate). Personal-status jurisdiction in Jordan sits with Sharia courts for Muslims and church courts for Christians; this entry describes the structure factually and takes no position on it. Country_code: JO.",
+      "publications": [
+        {"title": "Chapter 1201: Supreme Judge Department — budget chapter stating establishment, legal framework, mission, priorities and performance indicators", "year": 2023, "venue": "General Budget Department, Hashemite Kingdom of Jordan (priorities stated for 2023-2025)", "url": "https://gbd.gov.jo/uploads/files/gbd/law-min/2023/en/1201.pdf"}
+      ],
+      "urls": [
+        "https://gbd.gov.jo/uploads/files/gbd/law-min/2023/en/1201.pdf",
+        "https://sjd.gov.jo/Pages/viewpage.aspx?pageID=200"
+      ],
+      "contact": "https://sjd.gov.jo/",
+      "verification_notes": "The General Budget Department PDF was downloaded and read as text; all quoted phrases are verbatim from that document, including its own English spelling ('family reform offices'). The Supreme Judge Department website is JavaScript-rendered and largely resists automated retrieval: direct curl returned a 118-byte response and a reader proxy returned only accessibility chrome, but a fetch of pageID=200 confirmed the page is titled 'الإصلاح والوساطة والتوفيق الأسري - دائرة قاضي القضاه' and displays a link labelled 'مديرية الإصلاح والتوفيق الاسري'. No staffing composition, qualification requirements or custody/visitation role of these offices was confirmed from a primary source, and none is asserted. Jordanian broadcaster Al Mamlaka (8 September 2026) reported, from the annual Sharia courts report, that the offices contributed to preserving the cohesion of more than 9,000 families and converted more than 35,000 cases into consensual agreements during 2025; those figures are secondary reporting and are recorded here only as such.",
+      "references": [
+        "jurisdiction:jordan"
+      ]
+    },
+    {
+      "id": "ae.adjd",
+      "name": "Abu Dhabi Judicial Department (ADJD) — Family Guidance Section / Management of Alternative Solutions to Resolve Disputes",
+      "credentials": "Emirate-level judicial authority of Abu Dhabi; operates the court-annexed Family Guidance Section, described on ADJD's own page as founded 10 October 1998; family guidance is the statutorily required pre-litigation stage for most personal-status disputes under Article 16 of Federal Law No. 28 of 2005",
+      "city": "Abu Dhabi",
+      "region": "Emirate of Abu Dhabi",
+      "affiliation": "Abu Dhabi Judicial Department, Government of Abu Dhabi, United Arab Emirates",
+      "stance": "institutional",
+      "stance_notes": "ADJD's own published Family Guidance Program booklet states that for the majority of personal-status disputes 'the court cannot be approached directly and instead the parties must first attend family guidance, according to Article 16 of Federal Law No. 28 of 2005 concerning personal status matters.' The same booklet describes sessions conducted by an independent third party 'known as the Family Counsellor', and states that where agreement is reached it is 'signed by the family guidance judge; such an agreement shall be treated as a legally binding order which may not be challenged by way of appeal unless it violates the provisions of the law.' ADJD's Family Guidance page lists the section's subject-matter as including 'Custody: Proof of custody, removal of custody, joint custody, visitation of the the children (parenting time)' and 'Rights of the children subject of custody: Child support, housing costs, school fees, custody fees.' Classified institutional as a court-annexed statutory counselling service with a documented role in custody and contact matters; ADJD publishes no position on parental alienation as a clinical construct, and none was located.",
+      "urls": [
+        "https://www.adjd.gov.ae/en/pages/family-guidance.aspx",
+        "https://www.adjd.gov.ae/EN/Documents/family-booklet-English.pdf",
+        "https://www.adjd.gov.ae/ar/pages/family-guidance.aspx"
+      ],
+      "contact": "https://www.adjd.gov.ae/en/pages/family-guidance.aspx (case registration is electronic; sessions described on ADJD's page as conducted by remote videoconferencing)",
+      "verification_notes": "Existence and mandate verified directly from two ADJD-operated primary sources: the English Family Guidance page at adjd.gov.ae (HTTP 200 on re-check) and ADJD's own 15-page 'Family Guidance Program — Management of alternative solutions to resolve disputes and family guidance section' booklet hosted at adjd.gov.ae (HTTP 200; PDF downloaded and text extracted locally, quotations above taken verbatim from that extraction). The booklet additionally records that the Family Programme 'is a concept introduced in 2020 by Abu Dhabi Judicial Department; the first of its kind in the GCC region', and that in 2017 ADJD signed an agreement with the Angelical Church and the Orthodox Coptic Church in Abu Dhabi so that non-Muslims may engage in family guidance through those bodies. NOT verified: the number, names, professional qualifications, or health-regulator licensure of individual family guidance counsellors — ADJD's published materials name no individuals and state no licensing requirement, and no counsellor roster was located on any official page. No ADJD publication using the term 'parental alienation' or any Arabic equivalent was located. The booklet carries no printed publication date, so no publication year is asserted here. The Arabic page was retrieved via the r.jina.ai reader proxy because the site is JavaScript-rendered.",
+      "references": [
+        "jurisdiction:united-arab-emirates"
+      ]
+    },
+    {
+      "id": "ae.fjc",
+      "name": "Federal Judicial Council of the United Arab Emirates (Al-Majlis Al-Qada'i Al-Ittihadi)",
+      "credentials": "Federal judicial rule-making body of the UAE; issuing authority of the 2025 regulatory decisions implementing Federal Decree-Law No. (41) of 2024 (Federal Personal Status Law), announced through the UAE Ministry of Justice",
+      "city": "Abu Dhabi",
+      "region": "Federal (United Arab Emirates)",
+      "affiliation": "Federal Judicial Council / Ministry of Justice, United Arab Emirates",
+      "stance": "institutional",
+      "stance_notes": "The UAE Ministry of Justice announced, in an item dated Friday 28 November 2025, that the Federal Judicial Council introduced five new regulatory decisions implementing Federal Decree-Law No. (41) of 2024, the Federal Personal Status Law. On that page the Ministry states that 'Resolution No. (67) of 2025 — Family Guidance Regulation' 'grants family counselors a broader role in resolving disputes amicably and give their agreements the force of an executive deed', and that 'Resolution No. (68) of 2025 — Visitation Regulation' was 'introduced to provide clear legal framework for visitation rules while prioritizing the child's psychological and social well-being.' The official consolidated text of the Personal Status Law on the UAE Legislation portal allocates court competence over, among other matters, 'Custody, visitation, and related issues' (Article 3, Clause 3(b)). Classified institutional: a federal rule-making body whose published instruments govern post-separation child contact and the counsellors who mediate it; it publishes no position on parental alienation as a clinical construct, and none was located.",
+      "publications": [
+        {"title": "The Federal Judicial Council Introduces Five New Regulatory Decisions to Implement the New Federal Personal Status Law", "year": 2025, "venue": "Ministry of Justice, United Arab Emirates — Media Center", "url": "https://www.moj.gov.ae/en/media-center/news/28/11/2025/the-federal-judicial-council-introduces-five-new-regulatory-decisions-to-implement-the-new-federal.aspx"},
+        {"title": "Federal Decree-Law On the Issuance of the Personal Status Law (Federal Decree-Law No. (41) of 2024)", "year": 2024, "venue": "UAE Legislation portal (uaelegislation.gov.ae), Government of the United Arab Emirates", "url": "https://uaelegislation.gov.ae/en/legislations/2770"}
+      ],
+      "urls": [
+        "https://www.moj.gov.ae/en/media-center/news/28/11/2025/the-federal-judicial-council-introduces-five-new-regulatory-decisions-to-implement-the-new-federal.aspx",
+        "https://uaelegislation.gov.ae/en/legislations/2770"
+      ],
+      "contact": "https://www.moj.gov.ae/en/media-center/news/28/11/2025/the-federal-judicial-council-introduces-five-new-regulatory-decisions-to-implement-the-new-federal.aspx",
+      "verification_notes": "The existence, issuing body, parent law and date of the five regulatory decisions were verified on the UAE Ministry of Justice's own media-centre page (HTTP 200 on re-check), which is the primary source for every quotation attributed to the Ministry above. The text of the Personal Status Law, including the Article 3(3)(b) allocation of competence over 'Custody, visitation, and related issues', was read on the Government of the UAE's official uaelegislation.gov.ae record for the Decree-Law, retrieved via the r.jina.ai reader proxy because the portal is JavaScript-rendered; a direct download of the portal's PDF endpoint returned an HTML shell rather than the document. NOT verified: the full operative text of Resolution No. (67) of 2025 and Resolution No. (68) of 2025 themselves — only the Ministry's own summary of each was located on a government domain, and the summaries are quoted here rather than paraphrased or sharpened. Commercial legal databases render Resolution No. 68 of 2025 under the style 'Federal Administrative Decision No. 68/2025 — On the Visitation Regulation of Children Under Custody'; because that wording was not confirmed on a government source, the Ministry's own styling is used above. No UAE federal instrument or announcement using the term 'parental alienation' or an Arabic equivalent was located.",
+      "references": [
+        "jurisdiction:united-arab-emirates"
+      ]
+    },
+    {
+      "id": "qa.wifaq",
+      "name": "Family Consulting Center (Wifaq) — مركز الاستشارات العائلية (وفاق)",
+      "credentials": "Private Qatari institution of public interest, established 13 November 2002; supervised by the Qatar Foundation for Social Work; free services launched 24 August 2003; operates a Parental Care Section within its Counseling Department",
+      "city": "Doha",
+      "region": "State of Qatar",
+      "affiliation": "Family Consulting Center (Wifaq), under the Qatar Foundation for Social Work",
+      "stance": "institutional",
+      "stance_notes": "Wifaq's own site states that the centre was 'established by Her Highness Sheikha Moza Bint Nasser, may God protect her, on 13 November 2002', that it is 'a private Qatari institution of public interest' and that it is 'supervised by the Qatar Foundation for Social Work'. Qatar's official government services portal, Hukoomi, states that the service is delivered by the Parental Care Section of Wifaq's Counseling Department, and that this section 'supervises the mechanism for implementing judicial rulings and judgments and amicable agreements about regulating custodial issues for children of divorcees or children of broken families who have family disputes'; the listed services include 'Providing a safe environment for the child, where the Parental Care Section acts as a link between the child and parents' and 'Preparing and rehabilitating children for the stage that follows the separation or divorce of parents, as well as sparing them the negative effects of divorce.' Wifaq's own services page separately lists a Family Reconciliation Service that handles disputes and mediation in cases 'referred by courts or agencies', alongside psychological consultations and a psychological testing and measurement service. Classified institutional as a court-referral-receiving family counselling body with a documented role in implementing custody and contact arrangements; no Wifaq position on parental alienation as a construct was located.",
+      "publications": [
+        {"title": "Parental Care Service (Family Consulting Center (Wifaq)) — official service description", "year": 2023, "venue": "Hukoomi, the official government portal of the State of Qatar", "url": "https://hukoomi.gov.qa/en/services/custody-parental-services"}
+      ],
+      "urls": [
+        "https://www.wifaq.org.qa/en/about/12",
+        "https://www.wifaq.org.qa/en/about/19",
+        "https://hukoomi.gov.qa/en/services/custody-parental-services"
+      ],
+      "contact": "https://www.wifaq.org.qa/en/contacts ; hotline 16003 or +974 4406 9902 (both listed on the Hukoomi service page)",
+      "verification_notes": "Founding date, founder, legal status and supervising body were verified on Wifaq's own 'Establishment of The Center' page, and the service list on Wifaq's own services page (both HTTP 200 on re-check). The Parental Care Section's mandate, the court-implementation wording and the contact numbers were verified on Hukoomi, the State of Qatar's official government portal, which carries a 'Published on 11 Sep 2023' date used as the publication year above; that page returns HTTP 403 to direct automated requests and was read through the r.jina.ai reader proxy. NOT verified: the number, names, professional qualifications or Department of Healthcare Professions (DHP) licensure of Wifaq's consultants and counsellors — no staff roster or licence listing appears on any official page located, and no individual is named here. No Wifaq publication using the term 'parental alienation' or an Arabic equivalent was located.",
+      "references": [
+        "jurisdiction:qatar"
+      ]
+    },
+    {
+      "id": "sa.shaml",
+      "name": "Ministry of Justice (Saudi Arabia) — 'Shaml' centres for enforcing custody, viewing and visitation rulings (مبادرة تنفيذ أحكام الحضانة والرؤية والزيارة «شمل»)",
+      "credentials": "Initiative of the Saudi Ministry of Justice under the National Transformation Programme / Vision 2030, delivered through specialised centres in partnership with the non-profit sector; listed as a completed initiative on the Ministry's own initiatives register",
+      "city": "Riyadh (initiative headquarters; centres distributed across the regions of the Kingdom)",
+      "region": "Kingdom of Saudi Arabia",
+      "affiliation": "Ministry of Justice, Kingdom of Saudi Arabia",
+      "stance": "institutional",
+      "stance_notes": "The Ministry of Justice's own initiatives register describes 'تنفيذ أحكام الحضانة والرؤية والزيارة (شمل)' as an initiative aiming 'to provide a suitable and safe environment for implementing custody, viewing and visitation rulings through specialised centres, in partnership with the non-profit sector', seeking 'to safeguard the rights of the child and preserve the privacy of the family, through providing psychological and social support to the parties concerned' (translation of the Ministry's Arabic text). The Saudi Press Agency records the Minister of Justice launching the initiative on 6 Jumada al-Ula 1441 AH / 1 January 2020 with 19 specialised centres prepared across all regions, stating that it addresses 'the negative psychological and social effects resulting from implementing these rulings in places not prepared for the child' and provides 'social and psychological support to the parties to the dispute (the parents — and the children)' (translation). A later Saudi Press Agency item dated 30 November 2020 reports 21 centres delivering more than 85,000 services to 34,000 beneficiaries annually, and lists among the initiative's aims 'creating a safe and sound environment for handing over the child in custody', 'raising the parents' awareness of the importance of stability after separation', and 'providing assistance to the court in pending cases requiring social and psychological reporting' (translation). Classified institutional as a ministry-run, court-linked service for enforcing contact and handover orders; the Ministry publishes no position on parental alienation as a clinical construct, and none was located.",
+      "publications": [
+        {"title": "وزير العدل يدشّن مبادرة \"شمل\" لتوفير مراكز تنفيذ أحكام الحضانة والرؤية والزيارة (Minister of Justice launches the 'Shaml' initiative providing centres for enforcing custody, viewing and visitation rulings)", "year": 2020, "venue": "Saudi Press Agency (SPA)", "url": "https://www.spa.gov.sa/2017314"},
+        {"title": "وزارة العدل: 21 مركزاً في \"شمل\" تقدم 85 ألف خدمة لـ34 ألف مستفيد سنوياً (Ministry of Justice: 21 'Shaml' centres deliver 85,000 services to 34,000 beneficiaries annually)", "year": 2020, "venue": "Saudi Press Agency (SPA)", "url": "https://www.spa.gov.sa/2163909"}
+      ],
+      "urls": [
+        "https://www.moj.gov.sa/ar/Ministry/vision2030/Pages/Initiative.aspx",
+        "https://www.spa.gov.sa/2017314",
+        "https://www.spa.gov.sa/2163909"
+      ],
+      "contact": "https://www.moj.gov.sa/ar/Ministry/Pages/ContactUs.aspx",
+      "verification_notes": "The initiative's existence, description and 'completed' status were verified on the Saudi Ministry of Justice's own initiatives register at moj.gov.sa, read through the r.jina.ai reader proxy because the portal is JavaScript-rendered; the Arabic text quoted in translation above is taken verbatim from that retrieval. The launch date, launching minister, initial centre count and operational statistics were verified on two dated Saudi Press Agency items (both HTTP 200 on re-check), SPA being the official state news agency; each SPA item carries its own Hijri and Gregorian date, which is the basis for the publication years given. Arabic originals were read and are translated here; no wording has been strengthened in translation. NOT verified: the current number of operating centres (sources give 19 at launch in January 2020 and 21 as at November 2020, and no later official figure was located), the identity or professional licensure of the social and psychological specialists staffing the centres, and the identity of the non-profit operating partners. No Saudi Ministry of Justice document using the term 'parental alienation' or an Arabic equivalent was located.",
+      "references": [
+        "jurisdiction:saudi-arabia"
+      ]
+    }
+  ],
+  "excluded": []
+}
