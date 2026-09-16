@@ -21,7 +21,7 @@ location_tags: [canada, international, fidler-bala, family-court-review, postsep
 
 > **TL;DR.** Barbara Jo Fidler + Nicholas Bala's 2010 *Family Court Review* article is the **most-cited PA review article in family-court literature globally**. A 38-page comprehensive synthesis of clinical + legal + research perspectives on children who resist postseparation contact. Established the **conceptual map** courts now use to distinguish severity tiers + select appropriate interventions. Foundational reference for any PA-context expert testimony.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

@@ -21,7 +21,7 @@ location_tags: [australia, international, templer, systematic-review, interventi
 
 > **TL;DR.** Kate Templer + colleagues at University of Tasmania published the **leading systematic review of PA-intervention effectiveness** in *Journal of Family Therapy*. The review synthesized 10+ years of intervention studies and produced **best-practice recommendations** that have become reference doctrine for clinicians + family-court systems globally. Established that intensive structured interventions ([Family Bridges](https://warshak.com/family-bridges/), Family Reflections) substantially outperform unstructured family therapy in severe PA cases.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

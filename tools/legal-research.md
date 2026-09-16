@@ -28,7 +28,7 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 - **URL:** https://law.justia.com
 - **Coverage:** [US Supreme Court](https://www.supremecourt.gov/), federal courts, state statutes by chapter, US Codes annotated.
 - **API:** No formal API, but pages are scrape-friendly.
-- **Best for:** Looking up specific state-statute citations (already used extensively across the [/jurisdictions/](../jurisdictions/) index).
+- **Best for:** Looking up specific state-statute citations (already used extensively across the [/jurisdictions/](../jurisdictions/README.md) index).
 
 ### Cornell Legal Information Institute (LII)
 - **URL:** https://www.law.cornell.edu
@@ -102,7 +102,7 @@ All of these are **free at point of use**. Several offer APIs. Several require f
 
 ### Government statute repositories
 
-Each country / jurisdiction's official statute portal is the canonical source. See [/jurisdictions/](../jurisdictions/) for the per-jurisdiction list (we link directly to official portals where possible: legislature.gov, e-legislation.de, [legislation.gov.uk](https://www.legislation.gov.uk/), etc.).
+Each country / jurisdiction's official statute portal is the canonical source. See [/jurisdictions/](../jurisdictions/README.md) for the per-jurisdiction list (we link directly to official portals where possible: legislature.gov, e-legislation.de, [legislation.gov.uk](https://www.legislation.gov.uk/), etc.).
 
 ### Academic case databases
 
@@ -114,10 +114,10 @@ Each country / jurisdiction's official statute portal is the canonical source. S
 
 For any PA / custody / family-court issue:
 
-1. **Start with your jurisdiction's primary statute** — find it in [/jurisdictions/](../jurisdictions/).
+1. **Start with your jurisdiction's primary statute** — find it in [/jurisdictions/](../jurisdictions/README.md).
 2. **Look for binding appellate authority** in the relevant national database above ([BAILII](https://www.bailii.org/) for E&W, [AustLII](https://www.austlii.edu.au/) for AU, etc.).
 3. **Check for [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) anchors** in [HUDOC](https://hudoc.echr.coe.int/) if you're in a Council-of-Europe state.
-4. **Pair with the Bernet framework** — see [/research/](../research/) and [/open-source/infographics/bernet-5-factor.png](../open-source/infographics/bernet-5-factor.png).
+4. **Pair with the Bernet framework** — see [/research/](../research/README.md) and [/open-source/infographics/bernet-5-factor.png](../open-source/infographics/bernet-5-factor.png).
 
 ## Verified upstream publishers
 

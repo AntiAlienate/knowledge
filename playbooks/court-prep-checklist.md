@@ -9,7 +9,7 @@ For your first contested hearing on PA-related matters. Adapt to your jurisdicti
 - [ ] **Final witness list confirmed** with lawyer. Each witness has a reason — the judge will ask.
 - [ ] **Documentary exhibits indexed** chronologically *and* thematically. Most jurisdictions require both.
 - [ ] **Mock cross-examination** with lawyer or a trusted friend playing opposing counsel. You should be able to stay calm when triggered.
-- [ ] **Read the latest case in your jurisdiction** on PA from [case-law](../case-law/). The judge has likely read it too.
+- [ ] **Read the latest case in your jurisdiction** on PA from [case-law](../case-law/README.md). The judge has likely read it too.
 
 ---
 
@@ -104,7 +104,7 @@ Everything you say should serve one of those three. If a sentence doesn't — cu
 
 ---
 
-*See also: [Templates](../templates/) for sample witness-statement structures, evaluator-request letters, and BIFF-pattern communications.*
+*See also: [Templates](../templates/README.md) for sample witness-statement structures, evaluator-request letters, and BIFF-pattern communications.*
 
 
 

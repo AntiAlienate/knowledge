@@ -64,7 +64,7 @@ It's not punishment for past breaches (use ordinary contempt for that — see yo
 
 - [Astreintes — vocabulary card](../open-source/infographics/astreintes.png)
 - [Astreintes filing — tactic card](../open-source/infographics/astreintes-filing.png)
-- [Belgium jurisdiction page](../jurisdictions/) (TODO link when /jurisdictions/belgium.md added)
+- [Belgium jurisdiction page](../jurisdictions/README.md) (TODO link when /jurisdictions/belgium.md added)
 - [France — Cour de cassation line on contact obstruction](../case-law/2024-2026-rulings.md)
 
 

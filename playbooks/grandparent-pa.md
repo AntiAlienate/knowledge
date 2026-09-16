@@ -38,7 +38,7 @@ Your own adult child is alienating the grandchild from the other parent. This is
 | **France** | Article 371-4 Code Civil: child has right to maintain relations with ascendants |
 | **Germany** | §1685 [BGB](https://www.gesetze-im-internet.de/bgb/): grandparents have right of access if it serves child's welfare |
 
-Check your specific jurisdiction's [page](../jurisdictions/) — and consult a family lawyer.
+Check your specific jurisdiction's [page](../jurisdictions/README.md) — and consult a family lawyer.
 
 ---
 
@@ -127,7 +127,7 @@ If you find yourself here:
 
 ---
 
-*See also: [First 90 Days](first-90-days.md) for the parent's playbook. [Documentation System](documentation-system.md) — grandparents need this too. [Resources](../resources/) for books on adult children of PA.*
+*See also: [First 90 Days](first-90-days.md) for the parent's playbook. [Documentation System](documentation-system.md) — grandparents need this too. [Resources](../resources/README.md) for books on adult children of PA.*
 
 
 

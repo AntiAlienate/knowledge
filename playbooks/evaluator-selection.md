@@ -181,7 +181,7 @@ Second-opinion battles can be expensive and can read as litigation tactics if no
 - [Documentation System](documentation-system.md) — what the evaluator will and won't see
 - [Court Prep Checklist](court-prep-checklist.md) — what happens after the report lands
 - [Working With Your Lawyer](working-with-lawyer.md) — coordinating evaluator strategy with counsel
-- [Influencers](../influencers/) — many of the named figures train evaluators; knowing who trained whom is intelligence
+- [Influencers](../influencers/README.md) — many of the named figures train evaluators; knowing who trained whom is intelligence
 
 ---
 

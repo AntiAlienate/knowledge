@@ -123,7 +123,7 @@ Judges read both literatures (or should). A submission that ignores the contrary
 ## Cross-references
 
 - [Glossary](../glossary/glossary.md) — vocabulary used by both camps
-- [Influencers](../influencers/) — full profile pages on figures named above
+- [Influencers](../influencers/README.md) — full profile pages on figures named above
 - [Playbooks: Accused of Alienation](../playbooks/accused-of-alienation.md) — practical implications when the critique is being used against you
 - [Resources: Key Books](../resources/key-books.md) — extended reading lists across both camps
 - [Resources: Research Databases](../resources/research-databases.md) — where to find primary sources

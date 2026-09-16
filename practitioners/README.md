@@ -101,8 +101,8 @@ PRs that add unverified entries, guess stance, or use second-hand stance attribu
 
 ## Related sections
 
-- [Influencers](../influencers/) — field-defining researchers and clinicians (Bernet, [Warshak](https://warshak.com/family-bridges/), [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Silberg, etc.) — *different from this directory which is practising lawyers and therapists*
-- [Case Studies](../case-studies/) — 26 deeply-investigated cases, many of which name the lawyers and experts who appeared
+- [Influencers](../influencers/README.md) — field-defining researchers and clinicians (Bernet, [Warshak](https://warshak.com/family-bridges/), [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), Silberg, etc.) — *different from this directory which is practising lawyers and therapists*
+- [Case Studies](../case-studies/README.md) — 26 deeply-investigated cases, many of which name the lawyers and experts who appeared
 - [Press → Influencer Outreach](../press/influencer-outreach.md) — separate outreach list focused on field-level academic/clinical figures
 
 ---

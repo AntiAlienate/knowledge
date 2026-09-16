@@ -181,10 +181,10 @@ PA occurs roughly evenly across mother- and father-targeted patterns when preval
 
 ## Cross-references
 
-- [Influencers](../influencers/) — the people whose work created and contests this vocabulary
-- [Playbooks](../playbooks/) — concrete steps for applying these concepts in real situations
-- [Resources](../resources/) — primary-source databases for deeper reading on any term above
-- [Templates](../templates/) — court-ready documents using this language correctly
+- [Influencers](../influencers/README.md) — the people whose work created and contests this vocabulary
+- [Playbooks](../playbooks/README.md) — concrete steps for applying these concepts in real situations
+- [Resources](../resources/README.md) — primary-source databases for deeper reading on any term above
+- [Templates](../templates/README.md) — court-ready documents using this language correctly
 
 ---
 

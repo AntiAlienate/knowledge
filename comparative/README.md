@@ -9,9 +9,9 @@ Cross-jurisdictional comparative materials for PA-context family law.
 
 ## Related sections
 
-- [Jurisdictions](../jurisdictions/) — per-country jurisdiction sidecars (~536 sidecars covering global family-law systems)
-- [Case Law](../case-law/) — statutes and judgments with verbatim text
-- [Evidence](../evidence/) — research-grounded analyses
+- [Jurisdictions](../jurisdictions/README.md) — per-country jurisdiction sidecars (~536 sidecars covering global family-law systems)
+- [Case Law](../case-law/README.md) — statutes and judgments with verbatim text
+- [Evidence](../evidence/README.md) — research-grounded analyses
 
 
 

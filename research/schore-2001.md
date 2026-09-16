@@ -21,7 +21,7 @@ location_tags: [united-states, international, neuroscience, attachment, affect-r
 
 > **TL;DR.** Allan Schore's 2001 *Infant Mental Health Journal* paper established the **neurobiological basis for attachment-disruption damage** during critical developmental windows. The right-brain affect-regulation circuitry is shaped in the first 2-3 years through the primary caregiver dyad; disruptions during this window produce measurable, durable changes to limbic-cortical connectivity. **This is the neuroscience backbone of the "passage of time has irreversible consequences" doctrine that the ECHR Italian-line jurisprudence (Lombardo, Bondavalli, Improta) operationalizes legally.**
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

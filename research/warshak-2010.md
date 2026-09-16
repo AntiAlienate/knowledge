@@ -21,7 +21,7 @@ location_tags: [united-states, international, family-court-review, warshak, fami
 
 > **TL;DR.** Richard [Warshak's](https://warshak.com/family-bridges/) 2010 *Family Court Review* article is the **canonical reunification-protocol reference** in PA jurisprudence. It introduced "[Family Bridges](https://warshak.com/family-bridges/)" — a structured 4-day educational intervention for severely alienated children — and established the social-science basis for **graduated reintroduction with court-supported residency change**. Cited in court orders worldwide; the protocol that *Sullivan & Kelly (2001)* and *Fidler & Bala (2010)* operationalize.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-15 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

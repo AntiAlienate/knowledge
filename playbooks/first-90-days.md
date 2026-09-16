@@ -2,7 +2,7 @@
 
 You've just realised your child is being turned against you. Or you've been fighting it for months and are starting to lose hope. This is what to do — week by week — so the next 90 days build evidence and stability instead of burning you out.
 
-> **This is not legal advice.** Every jurisdiction is different. Read alongside the [Case Law](../case-law/) section for your region and consult a family lawyer for anything court-bound.
+> **This is not legal advice.** Every jurisdiction is different. Read alongside the [Case Law](../case-law/README.md) section for your region and consult a family lawyer for anything court-bound.
 
 ---
 
@@ -11,7 +11,7 @@ You've just realised your child is being turned against you. Or you've been figh
 **Goal: stabilise yourself so you can think clearly.**
 
 - [ ] **Get sleep.** Targeted parents lose decision-making capacity when sleep-deprived. Non-negotiable: 7 hours a night, even if it means melatonin or a GP visit.
-- [ ] **Pick one therapist** who *understands PA dynamics* (most don't). Use the [Influencers](../influencers/) directory to find clinicians in your region or someone they've trained.
+- [ ] **Pick one therapist** who *understands PA dynamics* (most don't). Use the [Influencers](../influencers/README.md) directory to find clinicians in your region or someone they've trained.
 - [ ] **Stop arguing with the other parent over text.** Every message you send is potential exhibit material. Switch to BIFF (Brief, Informative, Friendly, Firm) — see [Bill Eddy's resources](../influencers/bill-eddy.md).
 - [ ] **Tell two people you trust.** Isolation is the alienator's friend. You need at least two humans who know what's happening and can witness your conduct.
 - [ ] **Do NOT confront your child.** Saying "your mum/dad is lying to you" makes the alienation deeper. Read *Divorce Poison* ([Warshak](https://warshak.com/family-bridges/)) before you say anything to the child about the other parent.
@@ -35,7 +35,7 @@ You've just realised your child is being turned against you. Or you've been figh
 **Goal: stop fighting alone.**
 
 - [ ] **Family lawyer who has handled PA cases before.** Ask: "How many alienation matters have you taken to final hearing?" If they pause, find someone else.
-- [ ] **Forensic evaluator or therapist for the child** (only if you have any court order in place — unilateral therapy can backfire). The [Influencers](../influencers/) directory lists who trains them.
+- [ ] **Forensic evaluator or therapist for the child** (only if you have any court order in place — unilateral therapy can backfire). The [Influencers](../influencers/README.md) directory lists who trains them.
 - [ ] **Financial buffer.** Litigation in PA cases averages 18–36 months. Open a separate account, set up automatic transfers, and assume legal costs of $20k–$150k+ (jurisdiction-dependent).
 - [ ] **Find one peer.** Other targeted parents. Try [r/ParentalAlienation](https://www.reddit.com/r/ParentalAlienation/) or local [PASG](https://pasg.info/)-affiliated support groups. Vet aggressively — these communities have their share of bad actors.
 
@@ -68,7 +68,7 @@ You'll feel like nothing is happening. That's normal. PA cases move in geologica
 
 - [ ] **Review your documentation with your lawyer.** Identify the 3–5 strongest incidents that show a *pattern* (not isolated events).
 - [ ] **Consider a forensic-evaluation request** if the case is heading to a contested hearing. Only with lawyer input — bad evaluators worsen cases.
-- [ ] **Get expert-witness names from the [Influencers](../influencers/) list** — lawyers who've handled PA matters know who to call.
+- [ ] **Get expert-witness names from the [Influencers](../influencers/README.md) list** — lawyers who've handled PA matters know who to call.
 - [ ] **Map the long game.** Reunification is a 6-month-to-multi-year process even after a favourable order. Plan accordingly.
 
 ---
@@ -99,11 +99,11 @@ That is the foundation. Everything from here is execution.
 ---
 
 *Linked reading:*
-- [Influencers directory](../influencers/) — clinicians, lawyers, researchers
+- [Influencers directory](../influencers/README.md) — clinicians, lawyers, researchers
 - [Key books shelf](../resources/key-books.md) — reading order by situation
-- [Case law](../case-law/) — citable rulings by region
-- [Templates](../templates/) — communication formats, court submissions, evaluator request letters
-- [Community](../community/) — where other targeted parents talk
+- [Case law](../case-law/README.md) — citable rulings by region
+- [Templates](../templates/README.md) — communication formats, court submissions, evaluator request letters
+- [Community](../community/README.md) — where other targeted parents talk
 
 *Authored by the AntiAlienate.com collective. Reviewed against published PA-clinician guidance. Not legal advice.*
 

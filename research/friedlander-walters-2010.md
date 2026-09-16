@@ -21,7 +21,7 @@ location_tags: [united-states, international, friedlander-walters, multi-modal-f
 
 > **TL;DR.** Steven Friedlander + Marjorie Gans Walters' 2010 *Family Court Review* article introduced the **Multi-Modal Family Intervention (MMFI)** — an **outpatient** reunification protocol designed as an alternative to the intensive [Family Bridges](https://warshak.com/family-bridges/) ([Warshak](https://warshak.com/family-bridges/) 2010) and Family Reflections (Reay 2015) workshop formats. Critically, the authors introduced the **four-category typology** distinguishing alienation severity, which became foundational for tailoring reunification interventions to case severity.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

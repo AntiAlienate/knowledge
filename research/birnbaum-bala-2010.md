@@ -17,7 +17,7 @@ location_tags: [canada, birnbaum-bala, jurisprudential-review, canadian-family-c
 
 > **TL;DR.** Rachel Birnbaum (Western University) + Nicholas Bala (Queen's University Law) — leading Canadian PA scholars — published a foundational survey of how Canadian family courts have handled parental-alienation allegations. Established that Canadian courts increasingly recognize PA when properly framed, and that the **child's stated wishes cannot be the sole determinative factor** when alienating influence is documented. The Canadian-jurisdiction analog to Harman/Lorandos 2020 (US).
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

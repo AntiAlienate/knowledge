@@ -18,7 +18,7 @@ location_tags: [united-states, international, van-der-kolk, body-keeps-score, de
 
 > **TL;DR.** Bessel van der Kolk's 2014 *The Body Keeps the Score* is the **defining text** for the developmental-trauma + somatic clinical framework. It synthesizes 30+ years of research on how trauma — especially attachment-disrupting trauma in children — alters body, brain, and behavior. Critical reference for **proving the psychological damage** of parental alienation in court, and for understanding why standard talk therapy alone often fails to repair PA-induced harm.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

@@ -58,7 +58,7 @@ Judges decide on patterns, not on speeches.
 
 - [GDPR Art. 15 — pull the school's file](./gdpr-art-15-school-sar.md)
 - [Bernet 5-Factor Model](../open-source/infographics/bernet-5-factor.png)
-- [Documenting parental alienation for court](../jurisdictions/) (see your jurisdiction)
+- [Documenting parental alienation for court](../jurisdictions/README.md) (see your jurisdiction)
 
 
 ---

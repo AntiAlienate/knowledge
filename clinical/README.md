@@ -12,9 +12,9 @@ PA-relevant clinical assessment tools, frameworks, and diagnostic-code reference
 
 ## Related sections
 
-- [Evidence](../evidence/) — research base behind clinical practice
-- [Influencers](../influencers/) — clinicians active in the field
-- [Playbooks](../playbooks/) — practical guides for parents
+- [Evidence](../evidence/README.md) — research base behind clinical practice
+- [Influencers](../influencers/README.md) — clinicians active in the field
+- [Playbooks](../playbooks/README.md) — practical guides for parents
 
 
 

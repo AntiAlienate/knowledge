@@ -44,9 +44,9 @@ Reddit hosts some of the most active peer-to-peer parental-alienation and family
 
 - Verified legal advice (some r/AskFamilyLawyers responses excepted).
 - Jurisdiction-specific procedural detail (varies by user's location and expertise).
-- Peer-reviewed research (see [/research/](../research/) for that).
+- Peer-reviewed research (see [/research/](../research/README.md) for that).
 
-For verified legal references, the [/jurisdictions/](../jurisdictions/) and [/tools/legal-research.md](../tools/legal-research.md) sections are the right starting point.
+For verified legal references, the [/jurisdictions/](../jurisdictions/README.md) and [/tools/legal-research.md](../tools/legal-research.md) sections are the right starting point.
 
 
 ---

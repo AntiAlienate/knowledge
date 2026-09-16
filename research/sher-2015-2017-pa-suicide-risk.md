@@ -17,7 +17,7 @@ location_tags: [united-states, international, sher, psychiatria-danubina, suicid
 
 > **TL;DR.** Leo Sher's clinical psychiatry articles in *Psychiatria Danubina* (2015) and *International Journal of Adolescent Medicine and Health* (2017) established that **targeted parents in parental alienation face significantly elevated suicide risk** compared to general population. Sher's 2015 study reported ~7-fold elevation in some samples. These articles named the clinical population + provided the evidence base for trauma-informed targeted-parent therapy.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-17 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

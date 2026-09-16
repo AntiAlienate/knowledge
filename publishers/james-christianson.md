@@ -18,7 +18,7 @@ license: "CC BY 4.0"
 
 James Christianson is an independent fathers'-rights publisher and self-represented-litigant educator based in Seattle, Washington. He publishes one of the most consistently maintained per-jurisdiction reference catalogues in the fathers'-rights field at [flow.page/fathersrights](https://flow.page/fathersrights), and operates the **How I Got Custody** brand across YouTube, Instagram, TikTok, and Facebook.
 
-The AntiAlienate jurisdictional wiki ([/jurisdictions/](../jurisdictions/)) builds substantially on his per-jurisdiction catalogue. We acknowledge his work as an upstream verified source and credit him in the YAML frontmatter of every jurisdictional page that draws from his index.
+The AntiAlienate jurisdictional wiki ([/jurisdictions/](../jurisdictions/README.md)) builds substantially on his per-jurisdiction catalogue. We acknowledge his work as an upstream verified source and credit him in the YAML frontmatter of every jurisdictional page that draws from his index.
 
 ## Why we credit him
 
@@ -30,7 +30,7 @@ Crediting upstream contributors openly is part of how a small field grows into a
 
 ### Per-jurisdiction legal references
 
-A catalogue of custody factors, contempt mechanisms, case-law research tools, and statutory citations, organised by US state and several international jurisdictions (Australia, Canada, Netherlands, UK & Ireland). See [/jurisdictions/](../jurisdictions/) for the AntiAlienate-mirrored set.
+A catalogue of custody factors, contempt mechanisms, case-law research tools, and statutory citations, organised by US state and several international jurisdictions (Australia, Canada, Netherlands, UK & Ireland). See [/jurisdictions/](../jurisdictions/README.md) for the AntiAlienate-mirrored set.
 
 ### Court-evidence proofs (his own case)
 
@@ -51,7 +51,7 @@ Curated set of foundational research papers, including:
 - Bias in family court (ABA paper)
 - Fiebert review on bidirectional intimate-partner violence
 
-See [/research/](../research/) for the AntiAlienate-mirrored set.
+See [/research/](../research/README.md) for the AntiAlienate-mirrored set.
 
 ### Media
 
@@ -67,8 +67,8 @@ The *How I Got Custody* YouTube channel hosts long-form interviews and tactical 
 
 ## Editorial notes
 
-- We mirror his per-jurisdiction links into [/jurisdictions/](../jurisdictions/) and credit him in each page's YAML frontmatter under `contributing_publishers`.
-- We mirror his research catalogue into [/research/](../research/) with the same attribution pattern.
+- We mirror his per-jurisdiction links into [/jurisdictions/](../jurisdictions/README.md) and credit him in each page's YAML frontmatter under `contributing_publishers`.
+- We mirror his research catalogue into [/research/](../research/README.md) with the same attribution pattern.
 - We do not republish his copyrighted pamphlets/templates — those remain his work and should be obtained from his site directly.
 
 ---

@@ -63,7 +63,7 @@ This reads as the stable parent. Even if the other side is alienating you, the s
 If a PA accusation is heading to court, an evaluation will eventually be ordered. You have a strategic interest in:
 
 - Being the party who first proposes evaluation (looks confident, not defensive)
-- Influencing the choice of evaluator (prefer ones trained in PA dynamics — read [Influencers](../influencers/))
+- Influencing the choice of evaluator (prefer ones trained in PA dynamics — read [Influencers](../influencers/README.md))
 - Ensuring the evaluation considers *both parents'* conduct, not just yours
 
 Talk to your lawyer about a proposed evaluation order before the other side files one.
@@ -121,7 +121,7 @@ A PA accusation, defended properly, can actually clarify your case in your favou
 
 ---
 
-*See also: [Documentation System](documentation-system.md), [Working With Your Lawyer](working-with-lawyer.md), [Influencers](../influencers/) for evaluator selection criteria.*
+*See also: [Documentation System](documentation-system.md), [Working With Your Lawyer](working-with-lawyer.md), [Influencers](../influencers/README.md) for evaluator selection criteria.*
 
 
 

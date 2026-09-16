@@ -114,7 +114,7 @@ That is bleak. It is also true. Plan for it.
 
 ---
 
-*See also: [First 90 Days](first-90-days.md), [Working With Your Lawyer](working-with-lawyer.md), [Influencers](../influencers/) for the people behind these protocols.*
+*See also: [First 90 Days](first-90-days.md), [Working With Your Lawyer](working-with-lawyer.md), [Influencers](../influencers/README.md) for the people behind these protocols.*
 
 
 

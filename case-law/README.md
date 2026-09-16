@@ -8,8 +8,8 @@ Cross-jurisdiction reference for parental-alienation and custody case law.
 
 See also:
 
-- [/landmark-cases/](../landmark-cases/) — the foundational cases everyone should be able to cite from memory (Troxel v Granville, Strand Lobben, Re C [2023], etc.)
-- [/jurisdictions/](../jurisdictions/) — per-jurisdiction legal-reference pages with statutes and procedural mechanisms.
+- [/landmark-cases/](../landmark-cases/README.md) — the foundational cases everyone should be able to cite from memory (Troxel v Granville, Strand Lobben, Re C [2023], etc.)
+- [/jurisdictions/](../jurisdictions/README.md) — per-jurisdiction legal-reference pages with statutes and procedural mechanisms.
 - [/tools/legal-research.md](../tools/legal-research.md) — free authoritative databases for primary-source verification.
 
 ## Verification protocol

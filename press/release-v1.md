@@ -38,7 +38,7 @@ AntiAlienate.com is an open knowledge initiative dedicated to supporting familie
 
 ---
 
-*Editor's note: a one-page fact sheet, the full repository link, and high-resolution image assets are available at [github.com/AntiAlienate/antialienate-knowledge/tree/main/press](./).*
+*Editor's note: a one-page fact sheet, the full repository link, and high-resolution image assets are available at [github.com/AntiAlienate/antialienate-knowledge/tree/main/press](release-v1.md).*
 
 — END —
 

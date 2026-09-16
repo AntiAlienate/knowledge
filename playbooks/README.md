@@ -25,11 +25,11 @@ What to actually do, in order, when you're in the middle of it.
 
 ## Related
 
-- [The Debate](../the-debate/) — recognition vs critique literatures (read before evaluator selection or DV-overlap cases)
-- [Templates](../templates/) — concrete documents (letters, statements, request forms)
-- [Case law](../case-law/) — citable rulings by region
-- [Influencers](../influencers/) — clinicians and lawyers behind the methods these playbooks use
-- [Resources](../resources/) — research databases and key books
+- [The Debate](../the-debate/README.md) — recognition vs critique literatures (read before evaluator selection or DV-overlap cases)
+- [Templates](../templates/README.md) — concrete documents (letters, statements, request forms)
+- [Case law](../case-law/README.md) — citable rulings by region
+- [Influencers](../influencers/README.md) — clinicians and lawyers behind the methods these playbooks use
+- [Resources](../resources/README.md) — research databases and key books
 
 ---
 

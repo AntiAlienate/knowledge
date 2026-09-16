@@ -18,7 +18,7 @@ location_tags: [united-states, harman-lorandos, jurisprudential-review, court-ou
 
 > **TL;DR.** Harman & Lorandos analyzed **967 published U.S. PA-related court decisions over 25 years** (1985-2018) — the largest empirical study of how American courts have actually adjudicated parental-alienation claims. Key findings: courts increasingly recognize alienation as a pattern (not just a "label"), substantiated PA changes custody outcomes ~40-50% of the time, and the trajectory is toward acceptance — not rejection — of the underlying behavioral framework when properly framed.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 

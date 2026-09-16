@@ -9,10 +9,10 @@ Pointer pages. We don't reprint other people's work — we tell you where to fin
 
 ## Related sections
 
-- **[Influencers](../influencers/)** — the people whose work you'll find in those databases
-- **[Community](../community/)** — where parents and advocates discuss what they find
-- **[Case law](../case-law/)** — our curated rulings index (read it alongside the database links above)
-- **[Digest](../digest/)** — fresh finds, auto-accumulated daily
+- **[Influencers](../influencers/README.md)** — the people whose work you'll find in those databases
+- **[Community](../community/README.md)** — where parents and advocates discuss what they find
+- **[Case law](../case-law/README.md)** — our curated rulings index (read it alongside the database links above)
+- **[Digest](../digest/README.md)** — fresh finds, auto-accumulated daily
 
 ---
 

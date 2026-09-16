@@ -151,7 +151,7 @@ You may be the new partner of either a targeted parent or an alienating parent. 
 - Your role is supportive, not central; the bio-parent relationship is the one being fought for
 - Your patience matters — these cases take years
 - Your own grief is real — you may attach to children who reject you for reasons that have nothing to do with you
-- Find your own support — partner peer groups for step-parents in PA situations exist (see [community/](../community/))
+- Find your own support — partner peer groups for step-parents in PA situations exist (see [community/](../community/README.md))
 
 ### If you partner an alienating parent
 - This is harder to read but worth reading. If you are seeing your partner engage in patterns described in this repository — bad-mouthing the other parent, restricting contact, encouraging the child to call you "mum/dad" — you have a difficult choice
@@ -188,7 +188,7 @@ If a step-parent is centrally involved in a PA case, the legal strategy still ta
 - [Documentation System](documentation-system.md) — capturing step-parent involvement
 - [Accused of Alienation](accused-of-alienation.md) — for the other-side perspective
 - [Working With Your Lawyer](working-with-lawyer.md) — strategic placement of step-parent issues
-- [Community](../community/) — peer groups for step-parents and blended families in PA dynamics
+- [Community](../community/README.md) — peer groups for step-parents and blended families in PA dynamics
 
 ---
 

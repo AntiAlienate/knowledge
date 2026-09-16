@@ -18,7 +18,7 @@ location_tags: [united-states, international, ambiguous-loss, grief-theory, boss
 
 > **TL;DR.** Pauline Boss's 1999 book established the **ambiguous loss** framework — loss that lacks the closure of death (and therefore the social rituals that help survivors complete normal grief). Originally developed for families of MIA soldiers and dementia patients, the framework has become the **clinical reference** for understanding **targeted-parent grief in long-term parental alienation**: the child is alive, but the relationship has been engineered out of existence, and the brain cannot complete normal grief.
 
-**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../../LICENSE)
+**Maintained by Alan Markson · Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 
 ---
 
