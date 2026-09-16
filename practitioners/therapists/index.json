@@ -12,8 +12,8 @@
       "country": "Africa",
       "country_code": "AFR",
       "schema_version": "2.0",
-      "entries_count": 20,
-      "excluded_count": 6,
+      "entries_count": 33,
+      "excluded_count": 5,
       "entry_ids": [
         "za.carr-leonard",
         "za.roux-lynette",
@@ -34,13 +34,25 @@
         "ng.nacp",
         "ng.project-alert",
         "ng.wacol",
-        "eg.nccm"
+        "eg.nccm",
+        "za.de-wit",
+        "gh.psychology-council",
+        "gh.department-social-welfare",
+        "gh.dv-secretariat",
+        "ng.nasow",
+        "ke.wanjao-jane",
+        "ke.sdcs",
+        "ug.nca",
+        "tz.mocdgwsg-social-welfare",
+        "et.mowsa",
+        "zw.ahpcz",
+        "na.swpbn",
+        "na.lac"
       ],
       "excluded_ids": [
         "za.grobler-jean",
         "za.welman-mark",
         "za.grosse-adele",
-        "za.de-wit",
         "za.ebersohn-sinta",
         "za.watson-howard"
       ]
