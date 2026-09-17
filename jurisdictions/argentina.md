@@ -150,7 +150,7 @@ CSJN anonimiza por iniciales (P., B. E. G. c/ B., K. E.); la SCBA y demás fuero
 
 ---
 
-*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
 <!-- AA-PRACTICAL-START -->
 

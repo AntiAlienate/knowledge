@@ -73,7 +73,7 @@ The global direction of travel — not unidirectional, but with a clear centre o
 
 ## Maintenance
 
-This matrix is regenerated whenever a new case study lands. If you spot a row that no longer reflects the most recent apex direction in a jurisdiction, [open an issue](https://github.com/AntiAlienate/antialienate-knowledge/issues) with the citation. We update within 24 hours.
+This matrix is regenerated whenever a new case study lands. If you spot a row that no longer reflects the most recent apex direction in a jurisdiction, [open an issue](https://github.com/AntiAlienate/knowledge/issues) with the citation. We update within 24 hours.
 
 Last regenerated: 2026-05-25.
 

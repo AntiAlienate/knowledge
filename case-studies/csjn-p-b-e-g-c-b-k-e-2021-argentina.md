@@ -150,7 +150,7 @@ CSJN (7-X-2021, CSJ 1813/2018/RH1): hace lugar al recurso de queja, acepta en su
 
 ---
 
-*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/antialienate-knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
+*Licensed CC BY 4.0 — [AntiAlienate Knowledge](https://github.com/AntiAlienate/knowledge). Source of truth is the sibling `.json`; this `.md` is rendered. Do not hand-edit.*
 
 
 

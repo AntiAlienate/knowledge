@@ -71,7 +71,7 @@ Beyond the four primary Asian common-law jurisdictions, the trans-Tasman AU+NZ r
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/asian-apex-recognition-cluster-2017-2026.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/asian-apex-recognition-cluster-2017-2026.md*
 
 
 

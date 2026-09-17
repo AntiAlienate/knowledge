@@ -156,7 +156,7 @@ Read both. Then form your own view of the case in front of you, not your view of
 
 ---
 
-*This page deliberately gives equal weight to both case profiles because both are real and both are mishandled. If you believe a specific paragraph misrepresents your situation or position, [open an issue](https://github.com/AntiAlienate/antialienate-knowledge/issues) — we will refine within 24 hours.*
+*This page deliberately gives equal weight to both case profiles because both are real and both are mishandled. If you believe a specific paragraph misrepresents your situation or position, [open an issue](https://github.com/AntiAlienate/knowledge/issues) — we will refine within 24 hours.*
 
 — Catalogued by Alan Markson · CC BY 4.0
 

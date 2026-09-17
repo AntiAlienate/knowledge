@@ -4,7 +4,7 @@
 
 **Researcher:** Claude (Opus 4.7), automated research run, May 2026
 **Time budget:** ~25–30 minutes within a single research session
-**Repo context:** [github.com/AntiAlienate/antialienate-knowledge](https://github.com/AntiAlienate/antialienate-knowledge) (CC BY 4.0). At the date of this page, the repo held 26 case studies from eight jurisdictions but **zero clean US appellate reversals of a PA finding**. *In re Marriage of Humphries, 2024 COA 92* (Colorado Court of Appeals) is the closest US entry and is included as a [mixed-disposition case](./in-re-marriage-of-humphries-2024-coa-92.md), not a clean reversal.
+**Repo context:** [github.com/AntiAlienate/knowledge](https://github.com/AntiAlienate/knowledge) (CC BY 4.0). At the date of this page, the repo held 26 case studies from eight jurisdictions but **zero clean US appellate reversals of a PA finding**. *In re Marriage of Humphries, 2024 COA 92* (Colorado Court of Appeals) is the closest US entry and is included as a [mixed-disposition case](./in-re-marriage-of-humphries-2024-coa-92.md), not a clean reversal.
 
 This page documents (a) what was searched, (b) what was found, (c) why none of the candidates qualify as a clean reversal under the repo's evidentiary standards, and (d) what would have to be true for the gap to close.
 

@@ -7,7 +7,7 @@
 
 **[CITY / DATE]** — AntiAlienate.com today announced the public release of an open-source reference repository on parental alienation that aggregates international case law, peer-reviewed research, practitioner playbooks, court-ready templates, and jurisdiction-by-jurisdiction legal references — all available free under a CC BY 4.0 licence.
 
-The repository, hosted at [github.com/AntiAlienate/antialienate-knowledge](https://github.com/AntiAlienate/antialienate-knowledge), spans:
+The repository, hosted at [github.com/AntiAlienate/knowledge](https://github.com/AntiAlienate/knowledge), spans:
 
 - **30 jurisdictions** (US states + Canadian provinces + UK + EU member states + Australia)
 - **9 step-by-step playbooks** covering the first 90 days, court preparation, reunification therapy, teenage cases, cross-border / Hague Convention abduction, false-accusation defence, and grandparent rights
@@ -38,7 +38,7 @@ AntiAlienate.com is an open knowledge initiative dedicated to supporting familie
 
 ---
 
-*Editor's note: a one-page fact sheet, the full repository link, and high-resolution image assets are available at [github.com/AntiAlienate/antialienate-knowledge/tree/main/press](release-v1.md).*
+*Editor's note: a one-page fact sheet, the full repository link, and high-resolution image assets are available at [github.com/AntiAlienate/knowledge/tree/main/press](release-v1.md).*
 
 — END —
 

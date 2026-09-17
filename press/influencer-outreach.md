@@ -114,7 +114,7 @@ just opened a fully open-source knowledge base on PA that draws on
 [SPECIFIC THING THEY PUBLISHED], and I wanted you to see it before we
 share it more widely.
 
-Repo: github.com/AntiAlienate/antialienate-knowledge
+Repo: github.com/AntiAlienate/knowledge
 
 A few highlights you may want to look at first:
 - /influencers/[their-page].md — your reference page (please let us know
@@ -152,7 +152,7 @@ it would be both incomplete and intellectually dishonest. We wanted you
 to see how we've represented the critique before we share the resource
 more widely.
 
-Repo: github.com/AntiAlienate/antialienate-knowledge
+Repo: github.com/AntiAlienate/knowledge
 Your reference page: /influencers/[their-page].md
 
 If our framing of your work misrepresents your position in any way,

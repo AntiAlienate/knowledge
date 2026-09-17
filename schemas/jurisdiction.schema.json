@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/jurisdiction.schema.json",
+  "$id": "https://raw.githubusercontent.com/AntiAlienate/knowledge/main/schemas/jurisdiction.schema.json",
   "title": "Jurisdiction File",
   "description": "Per-jurisdiction overview describing legal-system context, statutory framework, apex-court jurisprudence on parental alienation, and references into case studies + practitioners. The .md sibling is rendered from this JSON at build time.",
   "type": "object",

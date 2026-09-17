@@ -70,7 +70,7 @@ To ingest:
 
 ```python
 import json, urllib.request
-url = "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/lawyers/us.json"
+url = "https://raw.githubusercontent.com/AntiAlienate/knowledge/main/practitioners/lawyers/us.json"
 data = json.loads(urllib.request.urlopen(url).read())
 for p in data["practitioners"]:
     print(p["name"], p["stance"])
@@ -107,7 +107,7 @@ PRs that add unverified entries, guess stance, or use second-hand stance attribu
 
 ---
 
-*CC BY 4.0 · [AntiAlienate.com](https://www.antialienate.com) · Canonical machine-readable JSON URLs at https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/<type>/<country>.json*
+*CC BY 4.0 · [AntiAlienate.com](https://www.antialienate.com) · Canonical machine-readable JSON URLs at https://raw.githubusercontent.com/AntiAlienate/knowledge/main/practitioners/<type>/<country>.json*
 
 
 

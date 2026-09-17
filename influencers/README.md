@@ -62,7 +62,7 @@ PRs welcome.
 
 ---
 
-*Every entry is curated from public-source verification. If you spot inaccuracies in your own profile, [open an issue](https://github.com/AntiAlienate/antialienate-knowledge/issues) — we'll update within 24 hours.*
+*Every entry is curated from public-source verification. If you spot inaccuracies in your own profile, [open an issue](https://github.com/AntiAlienate/knowledge/issues) — we'll update within 24 hours.*
 
 — [AntiAlienate.com](https://www.antialienate.com) · CC BY 4.0
 

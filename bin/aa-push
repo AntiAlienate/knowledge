@@ -12,7 +12,7 @@ Usage:
   aa-push --branch <name> ...             # push to branch instead of main (PR workflow)
   aa-push --base <repo-root> ...          # explicit local repo root (default: cwd)
   aa-push --token-file PATH               # default: /tmp/.aa-secrets/gh
-  aa-push --repo OWNER/REPO               # default: AntiAlienate/antialienate-knowledge
+  aa-push --repo OWNER/REPO               # default: AntiAlienate/knowledge
 
 Behaviour:
   - Paths must be relative to the repo root, or absolute under --base.
@@ -32,7 +32,7 @@ import sys
 import urllib.error
 import urllib.request
 
-DEFAULT_REPO = "AntiAlienate/antialienate-knowledge"
+DEFAULT_REPO = "AntiAlienate/knowledge"
 DEFAULT_TOKEN = "/tmp/.aa-secrets/gh"
 BINARY_EXT = {".png", ".jpg", ".jpeg", ".gif", ".webp", ".pdf", ".zip", ".woff", ".woff2", ".ttf", ".ico"}
 

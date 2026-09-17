@@ -4,7 +4,7 @@
 The largest open-source knowledge base on parental alienation. Free. CC BY 4.0. No paywall.
 
 ## Where to find it
-[github.com/AntiAlienate/antialienate-knowledge](https://github.com/AntiAlienate/antialienate-knowledge)
+[github.com/AntiAlienate/knowledge](https://github.com/AntiAlienate/knowledge)
 
 ## What's in it (at launch)
 

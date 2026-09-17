@@ -79,7 +79,7 @@ Triptych establishes Article 8 procedural-due-diligence positive obligation: mem
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/international-institutional-positions.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/international-institutional-positions.md*
 
 
 

@@ -130,7 +130,7 @@ Anonymisation conventions structurally shape the citable apex-jurisprudence base
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/anonymisation-conventions-across-jurisdictions.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/anonymisation-conventions-across-jurisdictions.md*
 
 
 

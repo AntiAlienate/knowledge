@@ -136,7 +136,7 @@ Several apex authoring judges in the corpus have demonstrated subsequent judicia
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/single-judge-authored-apex-decisions.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/single-judge-authored-apex-decisions.md*
 
 
 

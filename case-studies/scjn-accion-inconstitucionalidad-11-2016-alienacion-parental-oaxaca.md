@@ -8,8 +8,8 @@ This file is preserved for inbound-link continuity. The canonical version carrie
 
 ---
 
-*Canonical JSON: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/scjn-ai-11-2016-oaxaca-mexico.json*  
-*Discovery: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json*
+*Canonical JSON: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/case-studies/scjn-ai-11-2016-oaxaca-mexico.json*  
+*Discovery: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/manifest.json*
 
 
 

@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/case-study.schema.json",
+  "$id": "https://raw.githubusercontent.com/AntiAlienate/knowledge/main/schemas/case-study.schema.json",
   "title": "Case Study File",
   "description": "Structured representation of a parental-alienation judicial decision. The .md sibling is rendered from this JSON at build time. Children and family parties are anonymised per the deciding court's privacy convention.",
   "type": "object",

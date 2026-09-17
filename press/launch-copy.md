@@ -17,7 +17,7 @@ Hi HN — we've been building the largest open-source reference on
 parental alienation: case law, research, playbooks, jurisdiction guides,
 and templates, all free under CC BY 4.0.
 
-Repo: github.com/AntiAlienate/antialienate-knowledge
+Repo: github.com/AntiAlienate/knowledge
 
 What's there:
 - 9 step-by-step playbooks (first 90 days, court prep, reunification
@@ -64,7 +64,7 @@ Sharing because some of you may find this useful.
 We've put together what we believe is the largest open-source reference
 on parental alienation. It's free, no signup, no email collection.
 
-Link: github.com/AntiAlienate/antialienate-knowledge
+Link: github.com/AntiAlienate/knowledge
 
 Most directly relevant if you're in the middle of a case:
 - /playbooks/first-90-days.md — week-by-week if you've just realised
@@ -94,7 +94,7 @@ Similar to r/ParentalAlienation but emphasise:
 1/ We just opened the largest open-source knowledge base on parental
    alienation. Free. CC BY 4.0. No paywall.
 
-   github.com/AntiAlienate/antialienate-knowledge
+   github.com/AntiAlienate/knowledge
 
 2/ Why open-source? Because the references targeted parents and their
    lawyers need are scattered across paywalled journals, $200/mo legal
@@ -130,7 +130,7 @@ Similar to r/ParentalAlienation but emphasise:
 7/ Not legal advice. CC BY 4.0. PRs welcome — translations,
    jurisdictional additions, clinician corrections.
 
-   Link again: github.com/AntiAlienate/antialienate-knowledge
+   Link again: github.com/AntiAlienate/knowledge
 ```
 
 ---
@@ -141,7 +141,7 @@ Similar to r/ParentalAlienation but emphasise:
 We've just released what we believe is the largest open-source knowledge
 base on parental alienation — free under CC BY 4.0.
 
-🔗 github.com/AntiAlienate/antialienate-knowledge
+🔗 github.com/AntiAlienate/knowledge
 
 For family lawyers, clinicians, and researchers working on cases involving
 alienating behaviours, the repository consolidates in one place:

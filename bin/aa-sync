@@ -9,7 +9,7 @@ What it does:
   2. Per-file diff arch-work/jurisdictions/ → recovery/jurisdictions/
      - Copy local over remote ONLY when local kd_count > remote kd_count
      - This protects any sidecar Archon has deepened beyond my local
-  3. Commit + push to AntiAlienate/antialienate-knowledge main
+  3. Commit + push to AntiAlienate/knowledge main
   4. mkdocs build with root-symlink staging, gated on _site/index.html existing
   5. firebase deploy --only hosting:knowledge
 
@@ -233,7 +233,7 @@ def main():
             return 0
 
     if not RECOVERY.exists():
-        print(f"missing clone at {RECOVERY}; run `git clone https://github.com/AntiAlienate/antialienate-knowledge.git recovery` first", file=sys.stderr)
+        print(f"missing clone at {RECOVERY}; run `git clone https://github.com/AntiAlienate/knowledge.git recovery` first", file=sys.stderr)
         return 1
 
     # 1. pull-rebase (catches Archon). Stash tracked changes only — untracked

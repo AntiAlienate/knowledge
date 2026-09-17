@@ -112,7 +112,7 @@ PRs from contributors with on-the-ground verification welcome.
 
 ---
 
-*Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Last expanded 2026-05-25. Missing an org you rely on? [Open a PR.](https://github.com/AntiAlienate/antialienate-knowledge/pulls)*
+*Maintained by the [AntiAlienate.com](https://www.antialienate.com) knowledge collective. Last expanded 2026-05-25. Missing an org you rely on? [Open a PR.](https://github.com/AntiAlienate/knowledge/pulls)*
 
 
 

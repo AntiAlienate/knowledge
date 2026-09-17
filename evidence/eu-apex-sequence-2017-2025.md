@@ -72,7 +72,7 @@ Spain LOPIVI 2021 Disposición adicional 17ª (statute, not apex case) complemen
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/eu-apex-sequence-2017-2025.md*
 
 
 

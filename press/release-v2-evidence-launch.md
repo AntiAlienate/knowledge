@@ -7,7 +7,7 @@
 
 **[CITY / DATE]** — AntiAlienate.com today published a 10-part, ~55,000-word primary-source evidence base on parental alienation — the most comprehensive open-access compilation of peer-reviewed research, statutory text, judicial findings, and professional-body positions on the field's most contested claims.
 
-The corpus, hosted at [github.com/AntiAlienate/antialienate-knowledge/tree/main/evidence](https://github.com/AntiAlienate/antialienate-knowledge/tree/main/evidence), addresses ten distinct evidentiary questions that arise in family-court cases, clinical practice, and policy debate:
+The corpus, hosted at [github.com/AntiAlienate/knowledge/tree/main/evidence](https://github.com/AntiAlienate/knowledge/tree/main/evidence), addresses ten distinct evidentiary questions that arise in family-court cases, clinical practice, and policy debate:
 
 1. **PA as Child Abuse** — the strongest evidence for and against the proposition with verbatim [DSM-5](https://www.appi.org/products/dsm)/ICD-11 code text and Brazil's Lei 12.318/2010 ("abuso moral") statutory language
 2. **Mental-Health Outcomes** — quantitative outcomes data including Chinese longitudinal samples (n=877, n=909) and Italian SCL-90-R (n=739 Italian adults)
@@ -44,7 +44,7 @@ AntiAlienate.com is an open knowledge initiative dedicated to supporting familie
 
 ---
 
-*Editor's note: a one-page fact sheet, the full repository link, primary-source citation list, and high-resolution image assets are available at [github.com/AntiAlienate/antialienate-knowledge/tree/main/press](release-v2-evidence-launch.md).*
+*Editor's note: a one-page fact sheet, the full repository link, primary-source citation list, and high-resolution image assets are available at [github.com/AntiAlienate/knowledge/tree/main/press](release-v2-evidence-launch.md).*
 
 — END —
 

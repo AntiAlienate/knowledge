@@ -42,8 +42,8 @@ See [../README.md](../README.md). Primary-source verification on every entry; st
 
 ---
 
-*Canonical JSON: `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/practitioners/lawyers/<country>.json`*
-*Discovery: `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json`*
+*Canonical JSON: `https://raw.githubusercontent.com/AntiAlienate/knowledge/main/practitioners/lawyers/<country>.json`*
+*Discovery: `https://raw.githubusercontent.com/AntiAlienate/knowledge/main/manifest.json`*
 
 
 

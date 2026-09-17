@@ -86,7 +86,7 @@ Densest LATAM critique routed through colegios profesionales. CEDAW 2016 Informe
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/alienating-tactics-as-child-abuse.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/alienating-tactics-as-child-abuse.md*
 
 
 

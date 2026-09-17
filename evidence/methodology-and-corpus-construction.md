@@ -155,7 +155,7 @@ Future work focuses on (a) per-country v2 deepenings for remaining legacy files 
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/methodology-and-corpus-construction.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/methodology-and-corpus-construction.md*
 
 
 

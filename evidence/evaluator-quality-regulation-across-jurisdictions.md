@@ -103,7 +103,7 @@ The exemplar-disclosure pattern is operationally significant — named regulator
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/evaluator-quality-regulation-across-jurisdictions.md*
 
 
 

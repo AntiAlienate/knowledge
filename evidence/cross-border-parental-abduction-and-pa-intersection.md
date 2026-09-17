@@ -128,7 +128,7 @@ India (not acceded) + the Asian apex cluster's recognition-pole doctrine (Vivek 
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/cross-border-parental-abduction-and-pa-intersection.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/cross-border-parental-abduction-and-pa-intersection.md*
 
 
 

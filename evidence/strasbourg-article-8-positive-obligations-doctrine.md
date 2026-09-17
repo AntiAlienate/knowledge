@@ -131,7 +131,7 @@ Strasbourg supports use of coercive enforcement measures (fines, contempt findin
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/strasbourg-article-8-positive-obligations-doctrine.md*
 
 
 

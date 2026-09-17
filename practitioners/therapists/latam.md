@@ -2,7 +2,7 @@
 
 **Schema version:** 1.0
 **Last updated:** 2026-05-25
-**License:** CC BY 4.0 (intended for github.com/AntiAlienate/antialienate-knowledge)
+**License:** CC BY 4.0 (intended for github.com/AntiAlienate/knowledge)
 **Region:** LATAM (BR / MX / AR / CO / CL)
 **Scope:** Latin-American psychiatrists, psychologists (clinical / forensic / academic), psicólogos peritos, and clinical social workers who have (a) worked PA cases as treating clinician or court-appointed expert (perito forense / perito judicial), (b) published on alienação parental / alienación parental in a peer-reviewed venue or recognised professional publication, or (c) publicly stated a sourced stance (recognition / critique / middle) on PA. Institutional entries (national psychology councils, national child-protection bodies, victim-services networks) are listed where the institution itself has issued a sourced PA position.
 

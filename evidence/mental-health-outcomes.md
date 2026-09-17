@@ -403,7 +403,7 @@ Across the studies in §§1–7, the recurring limitations are:
 
 **Verification status.** Every primary citation has a DOI or URL. Where the primary text was not accessible at compilation, "**[secondary verification only]**" appears against that line. Where a specific empirical claim was sought but could not be sourced to a primary publication, "**Not publicly confirmed**" appears.
 
-**Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/antialienate-knowledge).
+**Reuse.** CC BY 4.0 — attribution: AntiAlienate Knowledge Repository (github.com/AntiAlienate/knowledge).
 
 **Companion document.** See `evidence-pa-as-child-abuse.md` in the same repository for the parallel evidence base on the legal / statutory / abuse-framing literature.
 

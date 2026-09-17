@@ -22,8 +22,8 @@ REPO_ROOT = pathlib.Path(os.environ.get("AA_REPO_ROOT", pathlib.Path.cwd()))
 PRACTITIONERS = REPO_ROOT / "practitioners"
 CASE_STUDIES = REPO_ROOT / "case-studies"
 JURISDICTIONS = REPO_ROOT / "jurisdictions"
-RAW_BASE = "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main"
-SITE_BASE = "https://github.com/AntiAlienate/antialienate-knowledge/blob/main"
+RAW_BASE = "https://raw.githubusercontent.com/AntiAlienate/knowledge/main"
+SITE_BASE = "https://github.com/AntiAlienate/knowledge/blob/main"
 
 
 def load_json(p: pathlib.Path) -> dict | None:
@@ -353,7 +353,7 @@ def render_html(data: dict) -> str:
 <body>
 <header>
   <h1>AntiAlienate Knowledge — Analytics Dashboard</h1>
-  <div class="meta">Generated {esc(data['generated'])} · CC BY 4.0 · <a href="{SITE_BASE}" style="color:#aac">github.com/AntiAlienate/antialienate-knowledge</a> · <a href="{RAW_BASE}/manifest.json" style="color:#aac">manifest.json</a></div>
+  <div class="meta">Generated {esc(data['generated'])} · CC BY 4.0 · <a href="{SITE_BASE}" style="color:#aac">github.com/AntiAlienate/knowledge</a> · <a href="{RAW_BASE}/manifest.json" style="color:#aac">manifest.json</a></div>
 </header>
 <nav>
   <a href="#overview">Overview</a>

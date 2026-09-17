@@ -118,7 +118,7 @@ Across the corpus, institutional court-attached welfare-evaluator architecture d
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/reunification-programmes-and-regulation.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/reunification-programmes-and-regulation.md*
 
 
 

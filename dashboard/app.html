@@ -147,7 +147,7 @@ ul.feed li .meta{color:var(--dim);font-size:11px;margin-top:2px}
   <section class="view active" id="view-overview">
     <h2>Mission Overview</h2>
     <div class="cards">
-      <div class="card"><div class="label">Repo entries</div><div class="num" id="ov-repo">…</div><div class="sub">AntiAlienate/antialienate-knowledge</div></div>
+      <div class="card"><div class="label">Repo entries</div><div class="num" id="ov-repo">…</div><div class="sub">AntiAlienate/knowledge</div></div>
       <div class="card"><div class="label">Jurisdictions covered</div><div class="num" id="ov-jur">…</div><div class="sub">global case-law + statutes</div></div>
       <div class="card"><div class="label">FB posts shipped</div><div class="num" id="ov-fb">…</div><div class="sub">1/hour rate-limited</div></div>
       <div class="card"><div class="label">Videos pushed</div><div class="num" id="ov-vid">…</div><div class="sub">Alan Markson, HeyGen vertical 1080×1920</div></div>
@@ -218,7 +218,7 @@ ul.feed li .meta{color:var(--dim);font-size:11px;margin-top:2px}
   <section class="view" id="view-backfill">
     <h2>Backfill — Vault → Repo</h2>
     <div class="cards" style="margin-bottom:14px">
-      <div class="card"><div class="label">Migrated</div><div class="num gold">30 / 65</div><div class="sub">posts in AntiAlienate/antialienate-knowledge/posts</div><div class="bar"><i style="width:46%"></i></div></div>
+      <div class="card"><div class="label">Migrated</div><div class="num gold">30 / 65</div><div class="sub">posts in AntiAlienate/knowledge/posts</div><div class="bar"><i style="width:46%"></i></div></div>
       <div class="card"><div class="label">Pending</div><div class="num">35</div><div class="sub">highest-leverage next</div></div>
       <div class="card"><div class="label">Last push</div><div class="num" style="font-size:14px;line-height:1.5"><span id="bf-last">—</span></div></div>
     </div>
@@ -269,7 +269,7 @@ ul.feed li .meta{color:var(--dim);font-size:11px;margin-top:2px}
 
   <!-- LIVE COMMITS -->
   <section class="view" id="view-commits">
-    <h2>Live Commits — AntiAlienate/antialienate-knowledge</h2>
+    <h2>Live Commits — AntiAlienate/knowledge</h2>
     <div style="color:var(--dim);font-size:12px;margin-bottom:10px">
       Most recent commits on <code>main</code>. Click SHA to open on GitHub.
     </div>
@@ -310,7 +310,7 @@ ul.feed li .meta{color:var(--dim);font-size:11px;margin-top:2px}
 
 <script>
 // ---------- Bootstrap data (overridden by live fetch below) ----------
-const REPO = "AntiAlienate/antialienate-knowledge";
+const REPO = "AntiAlienate/knowledge";
 const RAW_BASE = `https://raw.githubusercontent.com/${REPO}/main`;
 const API_BASE = `https://api.github.com/repos/${REPO}`;
 const TZ_LABEL = Intl.DateTimeFormat().resolvedOptions().timeZone || "local";
@@ -811,7 +811,7 @@ VIDEOS.forEach(v=>{
   const slug=v.name.replace(/^\d+-/,'').replace(/-captioned\.mp4$|\.mp4$/,'');
   const blogUrl=`https://www.antialienate.com/blog/${slug}`;
   const localUrl=v.name;
-  const repoUrl=`https://github.com/AntiAlienate/antialienate-knowledge/blob/main/videos/${v.name}`;
+  const repoUrl=`https://github.com/AntiAlienate/knowledge/blob/main/videos/${v.name}`;
   tr.innerHTML=`<td>#${v.n}</td>
     <td><a href="${localUrl}" target="_blank">▶ ${v.name}</a></td>
     <td>${v.sz}</td>
@@ -937,20 +937,20 @@ const NODE_URLS={
   sahin:"https://hudoc.echr.coe.int/eng?i=001-61194",
   pedersen:"https://hudoc.echr.coe.int/eng",
   rec23:"https://www.bailii.org/ew/cases/EWHC/Fam/",
-  penal432:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/belgium",
-  mouda:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/morocco",
-  psl22:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/saudi-arabia",
-  ifpa13:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/iran",
-  khi91:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/indonesia",
-  kid22:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/kenya",
-  chra03:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/nigeria",
-  gwa1890:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/case-law/pakistan",
-  baker:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
-  bernet:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
-  harman18:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
-  harman23:"https://github.com/AntiAlienate/antialienate-knowledge/blob/main/research/harman-lorandos-2023-meta-analysis-pa-empirical-base.md",
-  warshak:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research",
-  saini:"https://github.com/AntiAlienate/antialienate-knowledge/tree/main/research"
+  penal432:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/belgium",
+  mouda:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/morocco",
+  psl22:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/saudi-arabia",
+  ifpa13:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/iran",
+  khi91:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/indonesia",
+  kid22:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/kenya",
+  chra03:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/nigeria",
+  gwa1890:"https://github.com/AntiAlienate/knowledge/tree/main/case-law/pakistan",
+  baker:"https://github.com/AntiAlienate/knowledge/tree/main/research",
+  bernet:"https://github.com/AntiAlienate/knowledge/tree/main/research",
+  harman18:"https://github.com/AntiAlienate/knowledge/tree/main/research",
+  harman23:"https://github.com/AntiAlienate/knowledge/blob/main/research/harman-lorandos-2023-meta-analysis-pa-empirical-base.md",
+  warshak:"https://github.com/AntiAlienate/knowledge/tree/main/research",
+  saini:"https://github.com/AntiAlienate/knowledge/tree/main/research"
 };
 // jurisdictions auto-resolve via JUR_CODES values map (national codes → repo folder)
 const NODE_TO_SLUG={

@@ -7,7 +7,7 @@
 
 **[CITY / DATE]** — AntiAlienate.com today announced the public release of the world's most comprehensive open-source reference repository on parental alienation, consolidating ~100,000 words of primary-source citations, deeply-investigated case studies, step-by-step practitioner playbooks, and shareable educational material — all available free under a CC BY 4.0 licence.
 
-The repository, hosted at [github.com/AntiAlienate/antialienate-knowledge](https://github.com/AntiAlienate/antialienate-knowledge), now spans:
+The repository, hosted at [github.com/AntiAlienate/knowledge](https://github.com/AntiAlienate/knowledge), now spans:
 
 - **26 deeply-investigated case studies** across **18 jurisdictions** (UK / Canada / US / ECHR / AU / Germany / France / Spain / Italy / Netherlands / Brazil / Mexico / Argentina / Poland / India / Singapore / Hong Kong / South Africa) — with named participants, journalism trails, and doctrinal-arc analysis. Includes the landmark UK *Re Y* [2026] EWFC 38 Melanie Gill set-aside, the Brazilian STJ "no-automaticity" doctrine on Lei 12.318/2010, the German [BVerfG](https://www.bundesverfassungsgericht.de/) and Italian Cass. 9691/2022 constitutional rejections of PAS as pseudoscience, and Argentina's CSJN explicit recognition.
 - **10-page primary-source evidence corpus** (~55,000 words) covering PA-as-child-abuse evidence, mental-health outcomes, reunification-therapy outcomes (no programme has independent peer-reviewed efficacy data), forensic court operation ([Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) NIJ-funded 4,338-case dataset), international institutional positions (WHO/UN/CoE/APA/APSAC), prevalence claims, diagnostic codes that actually apply, evaluator training asymmetry, standard-of-proof analysis, and a practitioner distillation
@@ -22,19 +22,19 @@ The repository, hosted at [github.com/AntiAlienate/antialienate-knowledge](https
 ### What makes the project distinct
 
 - **Open-source under CC BY 4.0** — adapt, translate, share, build on
-- **Both sides represented** with primary-source quotation throughout — the repo's [`/the-debate/`](https://github.com/AntiAlienate/antialienate-knowledge/tree/main/the-debate) section maps recognition vs. critique honestly
+- **Both sides represented** with primary-source quotation throughout — the repo's [`/the-debate/`](https://github.com/AntiAlienate/knowledge/tree/main/the-debate) section maps recognition vs. critique honestly
 - **Continuously updated** — background agent adds fresh court rulings and academic citations daily
 - **Cross-jurisdictional depth** — common-law (UK/US/Canada/AU/SG/HK/India), civil-law (DE/FR/ES/IT/NL/BR/MX/AR/PL), regional human-rights ([ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) cluster: Lombardo → Strumia → Improta), constitutional courts ([BVerfG](https://www.bundesverfassungsgericht.de/), Italian [Cassazione](https://www.cortedicassazione.it/), Argentine CSJN, Polish Sąd Najwyższy)
 - **Honest gaps openly documented** — including the absence of a clean US appellate reversal of a substantive PA finding, the lack of independent peer-reviewed reunification-program outcome data, and the absence of defensible population prevalence estimates
-- **Practitioner-actionable distillations** — the [`What Court Submissions Can Honestly Claim`](https://github.com/AntiAlienate/antialienate-knowledge/blob/main/evidence/what-court-submissions-can-claim.md) page translates the evidence corpus into operational filing language for both sides
+- **Practitioner-actionable distillations** — the [`What Court Submissions Can Honestly Claim`](https://github.com/AntiAlienate/knowledge/blob/main/evidence/what-court-submissions-can-claim.md) page translates the evidence corpus into operational filing language for both sides
 
 ### Editorial standards
 
-Material is curated by independent contributors and reviewed against [CONTRIBUTING.md](https://github.com/AntiAlienate/antialienate-knowledge/blob/main/CONTRIBUTING.md). Primary-source citation with a working URL is required on every load-bearing claim. Where children's identities are anonymised in published judgments, the writeup works within that anonymisation. Where a fact could not be verified, the writeup says so.
+Material is curated by independent contributors and reviewed against [CONTRIBUTING.md](https://github.com/AntiAlienate/knowledge/blob/main/CONTRIBUTING.md). Primary-source citation with a working URL is required on every load-bearing claim. Where children's identities are anonymised in published judgments, the writeup works within that anonymisation. Where a fact could not be verified, the writeup says so.
 
 ### Distribution channels
 
-The full repository is at [github.com/AntiAlienate/antialienate-knowledge](https://github.com/AntiAlienate/antialienate-knowledge). A web-based reading view is in preparation at `knowledge.antialienate.com`. Pull requests are welcomed from clinicians, lawyers, and affected parents in any jurisdiction.
+The full repository is at [github.com/AntiAlienate/knowledge](https://github.com/AntiAlienate/knowledge). A web-based reading view is in preparation at `knowledge.antialienate.com`. Pull requests are welcomed from clinicians, lawyers, and affected parents in any jurisdiction.
 
 ### About AntiAlienate.com
 
@@ -46,7 +46,7 @@ AntiAlienate.com is an open knowledge initiative dedicated to supporting familie
 
 ---
 
-*Editor's note: a one-page fact sheet, full repository links, primary-source citation lists, and high-resolution image assets are available at [github.com/AntiAlienate/antialienate-knowledge/tree/main/press](release-v3-knowledge-base-comprehensive.md).*
+*Editor's note: a one-page fact sheet, full repository links, primary-source citation lists, and high-resolution image assets are available at [github.com/AntiAlienate/knowledge/tree/main/press](release-v3-knowledge-base-comprehensive.md).*
 
 — END —
 

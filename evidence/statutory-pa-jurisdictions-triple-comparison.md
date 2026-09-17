@@ -145,7 +145,7 @@ The three statutory routes represent different institutional responses to the sa
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/statutory-pa-jurisdictions-triple-comparison.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/statutory-pa-jurisdictions-triple-comparison.md*
 
 
 

@@ -78,12 +78,12 @@ All evidence pages cross-link to per-jurisdiction sidecars under `/jurisdictions
 ## Discovery
 
 Evidence pages enumerated in `/manifest.json` discovery endpoint. Downstream RAG consumers can access:
-- `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json` (discovery)
-- `https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/<filename>.md` (canonical)
+- `https://raw.githubusercontent.com/AntiAlienate/knowledge/main/manifest.json` (discovery)
+- `https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/<filename>.md` (canonical)
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/README.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/README.md*
 
 
 

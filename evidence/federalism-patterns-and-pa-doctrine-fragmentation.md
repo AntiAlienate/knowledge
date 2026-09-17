@@ -127,7 +127,7 @@ Unitary EU jurisdictions (Italy + Germany + France + Spain at central level + Ne
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/federalism-patterns-and-pa-doctrine-fragmentation.md*
 
 
 

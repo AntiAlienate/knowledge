@@ -96,7 +96,7 @@ National coercive-control statutory reforms converge with multi-tier internation
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/coercive-control-statutes-and-pa-critique-intersection.md*
 
 
 

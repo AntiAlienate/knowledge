@@ -113,7 +113,7 @@ The UN human-rights system functions as a cross-jurisdictional Global South wome
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/global-south-womens-rights-critique-register.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/global-south-womens-rights-critique-register.md*
 
 
 

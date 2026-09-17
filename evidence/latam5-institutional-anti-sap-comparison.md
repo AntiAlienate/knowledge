@@ -60,7 +60,7 @@ Legend: ✓ = formal critique-camp position; ○ = institutional silence; ✗ = 
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/latam5-institutional-anti-sap-comparison.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/latam5-institutional-anti-sap-comparison.md*
 
 
 

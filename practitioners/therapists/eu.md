@@ -2,7 +2,7 @@
 
 **Schema version:** 1.0
 **Last updated:** 2026-05-27
-**License:** CC BY 4.0 (intended for github.com/AntiAlienate/antialienate-knowledge)
+**License:** CC BY 4.0 (intended for github.com/AntiAlienate/knowledge)
 **Region:** EU (DE / FR / ES / IT / NL / BE)
 **Scope:** EU-member-state psychiatrists, psychologists (clinical / forensic / academic), psychotherapists and clinical social workers who have (a) worked PA cases as treating clinician or court-appointed expert, (b) published on PA in a peer-reviewed venue or recognised professional publication, or (c) publicly stated a sourced stance (recognition / critique / middle) on PA. Stance is sourced, not inferred.
 

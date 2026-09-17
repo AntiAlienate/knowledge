@@ -92,7 +92,7 @@ In each case the documented exclusion is treated as a feature of epistemic rigou
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/documented-exclusions-as-corpus-methodology.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/documented-exclusions-as-corpus-methodology.md*
 
 
 

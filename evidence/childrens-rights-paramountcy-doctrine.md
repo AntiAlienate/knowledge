@@ -127,7 +127,7 @@ Strasbourg Article 8 best-interests operates at supranational level binding 46 [
 
 ---
 
-*Canonical: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
+*Canonical: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/evidence/childrens-rights-paramountcy-doctrine.md*
 
 
 

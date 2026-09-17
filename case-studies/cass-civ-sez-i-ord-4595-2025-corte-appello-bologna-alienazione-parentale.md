@@ -8,8 +8,8 @@ This file is preserved for inbound-link continuity. The canonical version carrie
 
 ---
 
-*Canonical JSON: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/case-studies/cassazione-4595-2025-italy.json*  
-*Discovery: https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/manifest.json*
+*Canonical JSON: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/case-studies/cassazione-4595-2025-italy.json*  
+*Discovery: https://raw.githubusercontent.com/AntiAlienate/knowledge/main/manifest.json*
 
 
 

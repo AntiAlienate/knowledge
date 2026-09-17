@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/AntiAlienate/antialienate-knowledge/main/schemas/practitioner.schema.json",
+  "$id": "https://raw.githubusercontent.com/AntiAlienate/knowledge/main/schemas/practitioner.schema.json",
   "title": "Practitioner Directory File",
   "description": "Single source of truth for a per-country practitioner directory. The .md sibling is rendered from this JSON at build time. Schema v2.0 adds the references field for cross-linking to case studies, jurisdictions, and other practitioners.",
   "type": "object",
