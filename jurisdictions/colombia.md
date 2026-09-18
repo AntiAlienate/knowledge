@@ -126,7 +126,7 @@ Las sentencias de la Corte Constitucional en sede de tutela anonimizan a NNA med
 
 ## What this means if your child is being withheld from you in Colombia
 
-The operative framework is the [Código Civil arts. 253–262](https://www.funcionpublica.gov.co/) and the [Código de la Infancia y la Adolescencia (Ley 1098 de 2006)](case-law/colombia/codigo-civil-arts-253-262-codigo-de-la-infancia-2006.md). The principle is *interés superior del niño, niña y adolescente* per Ley 1098 art. 8, with constitutional rank under [Constitución art. 44](https://www.corteconstitucional.gov.co/) — the *paramount and prevalent* nature of children's rights is uniquely strong in Colombian constitutional doctrine.
+The operative framework is the [Código Civil arts. 253–262](https://www.funcionpublica.gov.co/) and the [Código de la Infancia y la Adolescencia (Ley 1098 de 2006)](../case-law/colombia/codigo-civil-arts-253-262-codigo-de-la-infancia-2006.md). The principle is *interés superior del niño, niña y adolescente* per Ley 1098 art. 8, with constitutional rank under [Constitución art. 44](https://www.corteconstitucional.gov.co/) — the *paramount and prevalent* nature of children's rights is uniquely strong in Colombian constitutional doctrine.
 
 **Default position.** *Patria potestad* (parental authority) is jointly exercised under Código Civil arts. 288–289. *Custodia y cuidado personal* allocation post-separation follows Código Civil art. 253, with *interés superior* override.
 

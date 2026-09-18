@@ -24,7 +24,7 @@ The **three structural pillars** of Danish family law. Forældreansvarsloven (Pa
 
 Denmark is doctrinally distinctive among the Nordic jurisdictions because Forældreansvarsloven framings contact as the *child's* right (not the parent's right) and codifies the resident parent's duty to facilitate contact. The provisions parallel:
 - [Norway barneloven §§ 42 + 43 (samværsrett)](../norway/barnelova-1981-ss-42-43-samvaersrett-verbatim.md)
-- [Sweden Föräldrabalken 6 kap. 2a (barnets bästa)](foraldrabalken-kap-6-2a-barnets-basta-verbatim.md)
+- [Sweden Föräldrabalken 6 kap. 2a (barnets bästa)](../sweden/foraldrabalken-kap-6-2a-barnets-basta-verbatim.md)
 - [Iceland barnalög 2003 (forsjá)](../iceland/barnalog-2003-parental-responsibility.md)
 - [Finland Lapsenhuoltolaki (custody + access)](../finland/lapsenhuoltolaki-1983-2019-reform.md)
 

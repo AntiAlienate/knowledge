@@ -93,7 +93,7 @@ Norway is doctrinally distinctive among the Nordic jurisdictions because § 48 s
 - [Denmark — Forældreansvarsloven §§ 4 + 11 + 21 (parallel barnets bedste)](../denmark/foraeldreansvarsloven-4-11-21-samvaer-verbatim.md)
 - [Finland — Lapsenhuoltolaki §§ 1 + 9 + 10 (parallel lapsen etu)](../finland/lapsenhuoltolaki-1-9-10-tapaamisoikeus-verbatim.md)
 - [Iceland — barnalög arts. 28 + 34 + 46 (parallel forsjá + umgengni)](../iceland/barnalog-76-2003-arts-28-34-46-verbatim.md)
-- [ECHR — Strand Lobben v Norway (Article 8)](../european-court-of-human-rights/strand-lobben-v-norway-2019.md)
+- [ECHR — Strand Lobben v Norway (Article 8)](../echr/strand-lobben-v-norway-2019.md)
 - [Comparative — welfare-checklist statutory comparative](../comparative/welfare-checklist-statutory-comparative.md)
 - [Comparative — cooperation-duty statutory map (Nordic + DACH)](../comparative/cooperation-duty-statutory-map-nordic-dach.md)
 

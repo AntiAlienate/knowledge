@@ -150,7 +150,7 @@ Finland's 2019 reform express *vuoroasuminen* codification is the structurally m
 - [Comparative — cooperation-duty statutory map (Nordic + DACH)](cooperation-duty-statutory-map-nordic-dach.md)
 - [Comparative — PA recognition-status](pa-recognition-status-comparative.md)
 - [Comparative — child's voice age thresholds](childs-voice-age-thresholds-comparative.md)
-- [ECHR — Strand Lobben v Norway (Norway procedural)](../european-court-of-human-rights/strand-lobben-v-norway-2019.md)
+- [ECHR — Strand Lobben v Norway (Norway procedural)](../echr/strand-lobben-v-norway-2019.md)
 
 ## Related entries
 

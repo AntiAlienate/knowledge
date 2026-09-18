@@ -82,7 +82,7 @@ New York: best-interests + preponderance for custody modifications; clear and co
 
 ### 3.1 [ECtHR](https://www.echr.coe.int/) — Article 6 and Article 8
 
-The [ECtHR](https://www.echr.coe.int/) does not impose a uniform substantive standard of proof on member-state family courts; standards of proof sit within the margin of appreciation. What the Court polices are (i) Article 6 fair-hearing rights and (ii) Article 8 family-life rights, requiring interferences to be "in accordance with the law" and "necessary in a democratic society." ([Guide on Article 6 — civil limb PDF](https://rm.coe.int/1680304c4c); [Parental Rights factsheet](https://www.echr.coe.int/documents/d/echr/FS_Parental_ENG).) Italy's PA-overlapping cluster (*Lombardo*, *Strumia*, *Improta*) turns on positive contact obligations rather than substantive proof — but Strasbourg engages where domestic courts use weak or unscientific fact-finding for coercive contact decisions. See case-study files: [Lombardo](case-studies/lombardo-v-italy-echr-25704-11-2013.md), [Strumia](case-studies/strumia-v-italy-echr-53377-13-2016.md), [Improta](case-studies/improta-v-italy-echr-66396-14-2017.md).
+The [ECtHR](https://www.echr.coe.int/) does not impose a uniform substantive standard of proof on member-state family courts; standards of proof sit within the margin of appreciation. What the Court polices are (i) Article 6 fair-hearing rights and (ii) Article 8 family-life rights, requiring interferences to be "in accordance with the law" and "necessary in a democratic society." ([Guide on Article 6 — civil limb PDF](https://rm.coe.int/1680304c4c); [Parental Rights factsheet](https://www.echr.coe.int/documents/d/echr/FS_Parental_ENG).) Italy's PA-overlapping cluster (*Lombardo*, *Strumia*, *Improta*) turns on positive contact obligations rather than substantive proof — but Strasbourg engages where domestic courts use weak or unscientific fact-finding for coercive contact decisions. See case-study files: [Lombardo](../case-studies/lombardo-v-italy-echr-25704-11-2013.md), [Strumia](../case-studies/strumia-v-italy-echr-53377-13-2016.md), [Improta](../case-studies/improta-v-italy-echr-66396-14-2017.md).
 
 ### 3.2 Italy — *Cass. civ., sez. I, ord.* 24 marzo 2022, n. 9691 (the *Massaro* ordinance)
 
@@ -106,7 +106,7 @@ The [ECtHR](https://www.echr.coe.int/) does not impose a uniform substantive sta
 
 ### 3.4 France
 
-French civil procedure operates on the *intime conviction* / free conviction of the judge in family matters, with the burden allocated under articles 9 and 1353 of the Code de procédure civile and [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) respectively. The leading Court of Cassation decision in PA territory is *Cass. 1re civ., 26 juin 2013, n° 12-14.392*, which held that PA / "syndrome d'aliénation parentale" cannot found a custody decision without "*éléments objectifs*" (objective evidence). (See the AntiAlienate case-study file: [cass-1re-civ-26-juin-2013-12-14-392](case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md).) **[secondary verification only]** for the verbatim quotation from the published arrêt.
+French civil procedure operates on the *intime conviction* / free conviction of the judge in family matters, with the burden allocated under articles 9 and 1353 of the Code de procédure civile and [Code civil](https://www.legifrance.gouv.fr/codes/id/LEGITEXT000006070721/) respectively. The leading Court of Cassation decision in PA territory is *Cass. 1re civ., 26 juin 2013, n° 12-14.392*, which held that PA / "syndrome d'aliénation parentale" cannot found a custody decision without "*éléments objectifs*" (objective evidence). (See the AntiAlienate case-study file: [cass-1re-civ-26-juin-2013-12-14-392](../case-studies/cass-1re-civ-26-juin-2013-12-14-392-syndrome-alienation-parentale.md).) **[secondary verification only]** for the verbatim quotation from the published arrêt.
 
 ---
 
@@ -132,7 +132,7 @@ French civil procedure operates on the *intime conviction* / free conviction of 
 
 ### 4.3 *Green & Green* [2024] FedCFamC1F 896
 
-The post-reform interim decision in *Green & Green* — already documented in the AntiAlienate case-study file at [case-studies/green-and-green-2024-fedcfamc1f-896.md](case-studies/green-and-green-2024-fedcfamc1f-896.md) — applied the *Banks & Banks* [2015] FamCAFC 36 interim-stage caution rule rather than determining the alienation question on the merits. The court therefore did not reach a final s 140 / *Briginshaw* assessment of the alienation allegation; it deferred it to trial. That is the structurally honest answer in a post-2024-reform interim context: serious allegations on both sides, *Briginshaw* evidence required, *Banks* says don't try to resolve at interim.
+The post-reform interim decision in *Green & Green* — already documented in the AntiAlienate case-study file at [case-studies/green-and-green-2024-fedcfamc1f-896.md](../case-studies/green-and-green-2024-fedcfamc1f-896.md) — applied the *Banks & Banks* [2015] FamCAFC 36 interim-stage caution rule rather than determining the alienation question on the merits. The court therefore did not reach a final s 140 / *Briginshaw* assessment of the alienation allegation; it deferred it to trial. That is the structurally honest answer in a post-2024-reform interim context: serious allegations on both sides, *Briginshaw* evidence required, *Banks* says don't try to resolve at interim.
 
 ---
 
@@ -156,7 +156,7 @@ The post-reform interim decision in *Green & Green* — already documented in th
 
 ### 5.2 *L. (A.G.) v. D. (K.B.)* — Ontario Superior Court (McWatt J, 2009)
 
-**Citation.** *L. (A.G.) v. D. (K.B.)*, decided by McWatt J of the Ontario Superior Court of Justice on 16 January 2009. Case summary: [CLTD case database](https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/); contemporaneous reporting: [APA Monitor on Psychology](https://www.apa.org/monitor/2009/04/alienation); [Globe and Mail](https://www.theglobeandmail.com/life/courts-can-rescue-kids-from-an-alienating-parent/article1343343/). AntiAlienate case-study file: [l-ag-v-d-kb-2009-ontario-mcwatt](case-studies/l-ag-v-d-kb-2009-ontario-mcwatt.md).
+**Citation.** *L. (A.G.) v. D. (K.B.)*, decided by McWatt J of the Ontario Superior Court of Justice on 16 January 2009. Case summary: [CLTD case database](https://ctdj.ca/en/jurisprudence/l-a-g-v-d-k-b/); contemporaneous reporting: [APA Monitor on Psychology](https://www.apa.org/monitor/2009/04/alienation); [Globe and Mail](https://www.theglobeandmail.com/life/courts-can-rescue-kids-from-an-alienating-parent/article1343343/). AntiAlienate case-study file: [l-ag-v-d-kb-2009-ontario-mcwatt](../case-studies/l-ag-v-d-kb-2009-ontario-mcwatt.md).
 
 **Standard applied.** The Ontario civil standard — balance of probabilities, *F.H. v. McDougall* — supplemented by Dr Barbara Fidler's clinical-psychological expert evidence as the diagnostic input. The case is sometimes cited (mainly by PA proponents) as a model of how a balance-of-probabilities standard, properly applied with expert evidence, supports a coercive remedy (custody flip, no-contact-except-for-counselling). It is also cited (mainly by PA critics) as an example of how that standard, applied to an alienation framework, can lead to outcomes that *Re B / F.H.* themselves would not require.
 
@@ -166,15 +166,15 @@ The post-reform interim decision in *Green & Green* — already documented in th
 
 ### 6.1 South Africa
 
-Civil standard: balance of probabilities (*Pillay v Krishna* 1946 AD 946 at 952–953; *Stellenbosch Farmers' Winery Group Ltd v Martell et Cie* 2003 (1) SA 11 (SCA)). Applied to alienation findings in *TLD v BG* [2023] ZAGPJHC 801 — see [case-studies/tld-v-bg-2023-zagpjhc-801](case-studies/tld-v-bg-2023-zagpjhc-801-south-africa-parental-alienation.md). **[secondary verification only]** for the verbatim *Pillay v Krishna* formulation.
+Civil standard: balance of probabilities (*Pillay v Krishna* 1946 AD 946 at 952–953; *Stellenbosch Farmers' Winery Group Ltd v Martell et Cie* 2003 (1) SA 11 (SCA)). Applied to alienation findings in *TLD v BG* [2023] ZAGPJHC 801 — see [case-studies/tld-v-bg-2023-zagpjhc-801](../case-studies/tld-v-bg-2023-zagpjhc-801-south-africa-parental-alienation.md). **[secondary verification only]** for the verbatim *Pillay v Krishna* formulation.
 
 ### 6.2 Singapore and Hong Kong
 
-Singapore Family Justice Courts apply civil balance of probabilities; *TEN v TEO* [2020] SGHCF 20 (see [case-studies/ten-v-teo-2020-sghcf-20](case-studies/ten-v-teo-2020-sghcf-20-singapore-parental-alienation.md)) applies that standard to an alienation finding. Hong Kong is structurally identical (*Solicitor (24/07) v Law Society of Hong Kong* (2008) 11 HKCFAR 117, per Lord Hoffmann NPJ, applying *Re B*); applied in *H v W* [2021] HKCA 733 — see [case-studies/h-v-w-2021-hkca-733](case-studies/h-v-w-2021-hkca-733-hong-kong-court-appeal-parental-alienation-relocation.md).
+Singapore Family Justice Courts apply civil balance of probabilities; *TEN v TEO* [2020] SGHCF 20 (see [case-studies/ten-v-teo-2020-sghcf-20](../case-studies/ten-v-teo-2020-sghcf-20-singapore-parental-alienation.md)) applies that standard to an alienation finding. Hong Kong is structurally identical (*Solicitor (24/07) v Law Society of Hong Kong* (2008) 11 HKCFAR 117, per Lord Hoffmann NPJ, applying *Re B*); applied in *H v W* [2021] HKCA 733 — see [case-studies/h-v-w-2021-hkca-733](../case-studies/h-v-w-2021-hkca-733-hong-kong-court-appeal-parental-alienation-relocation.md).
 
 ### 6.3 India
 
-Preponderance of probabilities. The Supreme Court engaged the PA literature in *Vivek Singh v Romani Singh* (2017) 3 SCC 231 (see [case-studies/vivek-singh-v-romani-singh](case-studies/vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md)), treating alienation as a welfare consideration without converting it into a heightened-standard finding.
+Preponderance of probabilities. The Supreme Court engaged the PA literature in *Vivek Singh v Romani Singh* (2017) 3 SCC 231 (see [case-studies/vivek-singh-v-romani-singh](../case-studies/vivek-singh-v-romani-singh-2017-3-scc-231-supreme-court-india.md)), treating alienation as a welfare consideration without converting it into a heightened-standard finding.
 
 ---
 
@@ -201,7 +201,7 @@ The *standard of proof* question (how convinced must the factfinder be?) is logi
 3. **Error rate / controlling standards** — "the known or potential rate of error" and "the existence and maintenance of standards controlling the technique's operation" (p. 594).
 4. **General acceptance** — relevant but "not a necessary precondition to the admissibility of scientific evidence" (p. 595).
 
-**PA application.** Whether PA expert testimony survives a *Daubert* challenge is jurisdiction- and methodology-specific. The proposition that some individuals exhibit observable alienating *behaviours* is largely uncontested empirically and generally survives *Daubert*. The proposition that there is a definable *syndrome* (PAS) with diagnostic criteria, known error rate, and accepted methodology has been repeatedly contested with mixed results. See [evidence-international-institutional-positions.md](evidence-international-institutional-positions.md) and [PASG bibliography](https://ckm.vumc.org/pasg/content/empirical-studies-alienation).
+**PA application.** Whether PA expert testimony survives a *Daubert* challenge is jurisdiction- and methodology-specific. The proposition that some individuals exhibit observable alienating *behaviours* is largely uncontested empirically and generally survives *Daubert*. The proposition that there is a definable *syndrome* (PAS) with diagnostic criteria, known error rate, and accepted methodology has been repeatedly contested with mixed results. See [evidence-international-institutional-positions.md](international-institutional-positions.md) and [PASG bibliography](https://ckm.vumc.org/pasg/content/empirical-studies-alienation).
 
 ### 7.2 *Frye v. United States*, 293 F. 1013 (D.C. Cir. 1923)
 
@@ -225,7 +225,7 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ## 8. Where standard of proof and harm threshold interact
 
-**8.1 [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/).** [DSM-5](https://www.appi.org/products/dsm) V995.51 (Child Psychological Abuse, Confirmed) and [ICD-11](https://icd.who.int/) QE52.0 (Caregiver-child relationship problem) are documented in [evidence-diagnostic-codes-that-apply.md](evidence-diagnostic-codes-that-apply.md). They are *clinical* classifications, not *legal* standards. A court finding that alienating conduct constitutes child psychological abuse is governed by the applicable statutory standard — typically preponderance (US child-welfare) or balance of probabilities (UK s.31, Canadian provincial, Australian s 140), with clear-and-convincing reserved for permanent termination.
+**8.1 [DSM-5](https://www.appi.org/products/dsm) / [ICD-11](https://icd.who.int/).** [DSM-5](https://www.appi.org/products/dsm) V995.51 (Child Psychological Abuse, Confirmed) and [ICD-11](https://icd.who.int/) QE52.0 (Caregiver-child relationship problem) are documented in [evidence-diagnostic-codes-that-apply.md](diagnostic-codes-that-apply.md). They are *clinical* classifications, not *legal* standards. A court finding that alienating conduct constitutes child psychological abuse is governed by the applicable statutory standard — typically preponderance (US child-welfare) or balance of probabilities (UK s.31, Canadian provincial, Australian s 140), with clear-and-convincing reserved for permanent termination.
 
 **8.2 Cross-allegation asymmetry.** When PA is alleged as a defence to abuse, the *same* civil standard governs both findings doctrinally. The [Meier 2020](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941) empirical question (§9.2) is whether the de facto standard operates lower for PA than for the abuse it defeats — contested.
 
@@ -253,7 +253,7 @@ As §3.2 above sets out, Cass. 9691/2022 imports a *Daubert*-style admissibility
 
 ### 9.3 Mercer and the Harman / Lorandos / Bernet defence
 
-Mercer's *Journal of Child Custody* critiques argue PA findings frequently rest on circular or unfalsifiable reasoning that would not survive serious admissibility testing **[secondary verification only]**; documented in [evidence-pa-as-child-abuse.md](evidence-pa-as-child-abuse.md). On the other side, Harman, Bernet, Lorandos and [PASG](https://pasg.info/) (see [evidence-evaluator-training-asymmetry.md](evidence-evaluator-training-asymmetry.md)) defend the proposition that properly trained evaluators produce findings meeting conventional admissibility and proof standards. The dispute is largely empirical: whether such evaluators are in fact deployed, and whether their methodology in fact survives a competence challenge of the kind *Re Y* applied.
+Mercer's *Journal of Child Custody* critiques argue PA findings frequently rest on circular or unfalsifiable reasoning that would not survive serious admissibility testing **[secondary verification only]**; documented in [evidence-pa-as-child-abuse.md](pa-as-child-abuse.md). On the other side, Harman, Bernet, Lorandos and [PASG](https://pasg.info/) (see [evidence-evaluator-training-asymmetry.md](evaluator-training-asymmetry.md)) defend the proposition that properly trained evaluators produce findings meeting conventional admissibility and proof standards. The dispute is largely empirical: whether such evaluators are in fact deployed, and whether their methodology in fact survives a competence challenge of the kind *Re Y* applied.
 
 ---
 
@@ -325,7 +325,7 @@ These are not legal advice. They are example skeletons of the kind of framing th
 
 **Literature.** [Saini et al. (2016) — Nevada Courts PDF](https://nvcourts.gov/__data/assets/pdf_file/0021/43941/Session_2-_Saini_Johnston_Fidler_Bala_Alienation_2016.pdf); [Meier (2020) — XY Online PDF](https://xyonline.net/sites/xyonline.net/files/2020-05/Meier,%20U.S.%20child%20custody%20outcomes%20in%20cases%20involving%20parental%20alienation%20and%20abuse%20allegations%202020.pdf); [Meier — Taylor & Francis](https://www.tandfonline.com/doi/abs/10.1080/09649069.2020.1701941); [SSRN companion](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3448062); [PASG bibliography](https://ckm.vumc.org/pasg/content/empirical-studies-alienation).
 
-**Cross-references.** [evidence-pa-as-child-abuse.md](evidence-pa-as-child-abuse.md); [evidence-international-institutional-positions.md](evidence-international-institutional-positions.md); [evidence-diagnostic-codes-that-apply.md](evidence-diagnostic-codes-that-apply.md); [evidence-evaluator-training-asymmetry.md](evidence-evaluator-training-asymmetry.md); [Cass. 9691/2022 case study](case-studies/cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md); [Re Y case study](case-studies/re-y-experts-and-alienating-behaviour-2026-ewfc-38.md); [Green & Green case study](case-studies/green-and-green-2024-fedcfamc1f-896.md); [L(AG) v D(KB) case study](case-studies/l-ag-v-d-kb-2009-ontario-mcwatt.md); [BVerfG case study](case-studies/bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md).
+**Cross-references.** [evidence-pa-as-child-abuse.md](pa-as-child-abuse.md); [evidence-international-institutional-positions.md](international-institutional-positions.md); [evidence-diagnostic-codes-that-apply.md](diagnostic-codes-that-apply.md); [evidence-evaluator-training-asymmetry.md](evaluator-training-asymmetry.md); [Cass. 9691/2022 case study](case-studies/cass-civ-sez-i-ord-9691-2022-massaro-alienazione-parentale.md); [Re Y case study](../case-studies/re-y-experts-and-alienating-behaviour-2026-ewfc-38.md); [Green & Green case study](../case-studies/green-and-green-2024-fedcfamc1f-896.md); [L(AG) v D(KB) case study](../case-studies/l-ag-v-d-kb-2009-ontario-mcwatt.md); [BVerfG case study](case-studies/bverfg-1-bvr-1076-23-eltern-kind-entfremdung-2023.md).
 
 ---
 

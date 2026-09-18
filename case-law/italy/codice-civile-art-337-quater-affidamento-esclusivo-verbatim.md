@@ -67,7 +67,7 @@ The Cassazione has applied art. 337-quater in alienating-conduct cases:
 - **Cass. Sez. I civile, ord. n. 9691/2022** — applied the framework alongside art. 333 measures
 - **The second-paragraph anti-weaponisation sanction** has been applied where alienating parents make manifestly unfounded counter-applications for sole custody — see Italian first-instance jurisprudence on art. 96 CPC interaction
 
-The art. 337-quater route is the principal Italian operational tool for custody reallocation in established alienation cases — the structural parallel to German [BGB § 1671](bgb-1666-1671-kindeswohl-gefaehrdung-und-alleinsorge.md), Austrian § 177 ABGB, and the English *Re S* child-arrangements-order reallocation line.
+The art. 337-quater route is the principal Italian operational tool for custody reallocation in established alienation cases — the structural parallel to German [BGB § 1671](../germany/bgb-1666-1671-kindeswohl-gefaehrdung-und-alleinsorge.md), Austrian § 177 ABGB, and the English *Re S* child-arrangements-order reallocation line.
 
 ## Cross-reference
 

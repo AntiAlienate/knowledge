@@ -122,7 +122,7 @@ Children and family parties are identified by initials only in published judgmen
 
 ## What this means if your child is being withheld from you in Brazil
 
-Brazil has **the world's first statutory codification** of parental alienation as a juridical concept: the [Lei nº 12.318/2010 — Lei da Alienação Parental](case-law/brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md). This is the controlling instrument and you should expect a Brazilian family-court (Vara de Família) judge to apply it directly.
+Brazil has **the world's first statutory codification** of parental alienation as a juridical concept: the [Lei nº 12.318/2010 — Lei da Alienação Parental](../case-law/brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md). This is the controlling instrument and you should expect a Brazilian family-court (Vara de Família) judge to apply it directly.
 
 **What Lei 12.318/2010 actually does.** Art. 2º defines *alienação parental* as conduct by a parent (or third party with custody/guardianship) that interferes with the child's psychological development *para que repudie genitor ou que cause prejuízo ao estabelecimento ou à manutenção de vínculos*. Non-exhaustive examples include: realising a *campanha de desqualificação* against the other parent, hindering exercise of *autoridade parental*, blocking contact, omitting information about the child, presenting false accusations, changing residence without justified motive. Art. 6º authorises escalating *medidas* — warning, fines, supervised visitation, ampliação do regime de convivência with the targeted parent, transfer of custody, even suspension of *poder familiar* in the most serious cases.
 
