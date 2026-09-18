@@ -2,7 +2,7 @@
   "manifest_version": "1.0",
   "repository": "AntiAlienate/knowledge",
   "license": "CC-BY-4.0",
-  "generated": "2026-07-13T13:38:43Z",
+  "generated": "2026-09-18T03:57:04Z",
   "schemas": {
     "practitioner": "https://knowledge.antialienate.com/schemas/practitioner.schema.json",
     "case-study": "https://knowledge.antialienate.com/schemas/case-study.schema.json",
@@ -24,12 +24,12 @@
     "license": "CC BY 4.0 — attribute to AntiAlienate Knowledge with link."
   },
   "counts": {
-    "practitioners_therapists": 19,
+    "practitioners_therapists": 20,
     "practitioners_lawyers": 10,
     "case_studies": 35,
-    "case_law": 298,
+    "case_law": 299,
     "jurisdictions": 359,
-    "evidence_pages": 27
+    "evidence_pages": 28
   },
   "indexes": {
     "practitioners_therapists": "https://knowledge.antialienate.com/practitioners/therapists/index.json",
@@ -1579,6 +1579,10 @@
     {
       "id": "strasbourg-article-8-positive-obligations-doctrine",
       "html_url": "https://knowledge.antialienate.com/evidence/strasbourg-article-8-positive-obligations-doctrine/"
+    },
+    {
+      "id": "uk-fjc-guidance-2024",
+      "html_url": "https://knowledge.antialienate.com/evidence/uk-fjc-guidance-2024/"
     },
     {
       "id": "what-court-submissions-can-claim",
