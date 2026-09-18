@@ -26,7 +26,7 @@ Primary-source and case-law entries grounding this analysis:
 
 - [Hague Conference on Private International Law — overview](../hague-conference-on-private-international-law/non-hague-jurisdiction-framework.md)
 - [Brussels IIb (EU) 2019/1111 — Arts. 1, 7, 9, 21, 27](../european-union/brussels-iib-regulation-2019-1111-articles-1-7-9-21-27.md)
-- ECHR cumulative: [*X v Latvia* (2013, GC)](../echr/) line on Hague return and Art. 8 ECHR
+- ECHR cumulative: [*X v Latvia* (2013, GC)](../echr/README.md) line on Hague return and Art. 8 ECHR
 - [Pisica v Moldova (2024)](../echr/pisica-v-moldova-2024.md) — recent ECtHR enforcement-failure judgment
 
 ## Structural overview

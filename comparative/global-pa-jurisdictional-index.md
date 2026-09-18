@@ -14,111 +14,111 @@ This is the single navigation hub for AntiAlienate's comprehensive case-law repo
 
 ## Region: British Isles (2)
 
-- [United Kingdom](../case-law/united-kingdom/) — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) + Re C [2023] EWHC 345 4-part test + Re S [2010] EWCA Civ 219 (Cult)
-- [Ireland](../case-law/ireland/) — Guardianship of Children + Family Relationships Acts
+- [United Kingdom](../case-law/united-kingdom/README.md) — [Children Act 1989](https://www.legislation.gov.uk/ukpga/1989/41) + Re C [2023] EWHC 345 4-part test + Re S [2010] EWCA Civ 219 (Cult)
+- [Ireland](../case-law/ireland/README.md) — Guardianship of Children + Family Relationships Acts
 
 ## Region: Western Europe (10)
 
-- [France](../case-law/france/) — Code Civil arts. 371-1 à 377 + Loi Taubira 2002 + Penal 227-5 (criminal non-représentation)
-- [Germany](../case-law/germany/) — [BGB](https://www.gesetze-im-internet.de/bgb/) §§ 1626-1697b + Sahin v Germany [GC] + Sommerfeld v Germany [GC] + Zaunegger
-- [Belgium](../case-law/belgium/) — Civil Code 374/375bis/387ter + Penal 432 (criminal) + Family Court Act 2013
-- [Netherlands](../case-law/netherlands/) — Burgerlijk Wetboek Boek 1 + Omgangsregeling
-- [Switzerland](../case-law/switzerland/) — ZGB Art. 273-275a + BGer + ECHR
-- [Austria](../case-law/austria/) — ABGB KindNamRÄG 2013 + Sporer v Austria + Hoffmann v Austria
-- [Italy](../case-law/italy/) — [Codice Civile](https://www.brocardi.it/codice-civile/) art. 337-bis to octies + Bondavalli + Improta + Solarino
-- [Portugal](../case-law/portugal/) — CC art. 1906 + Lei 61/2008 + STJ + Lusophone gateway
-- [Spain](../case-law/spain/) — CC custodia compartida + TS 257/2013 + LO 8/2021 + Iglesias Casarrubios
-- [Greece](../case-law/greece/) — Astikos Kodikas + Law 4800/2021 reform
+- [France](../case-law/france/README.md) — Code Civil arts. 371-1 à 377 + Loi Taubira 2002 + Penal 227-5 (criminal non-représentation)
+- [Germany](../case-law/germany/README.md) — [BGB](https://www.gesetze-im-internet.de/bgb/) §§ 1626-1697b + Sahin v Germany [GC] + Sommerfeld v Germany [GC] + Zaunegger
+- [Belgium](../case-law/belgium/README.md) — Civil Code 374/375bis/387ter + Penal 432 (criminal) + Family Court Act 2013
+- [Netherlands](../case-law/netherlands/README.md) — Burgerlijk Wetboek Boek 1 + Omgangsregeling
+- [Switzerland](../case-law/switzerland/README.md) — ZGB Art. 273-275a + BGer + ECHR
+- [Austria](../case-law/austria/README.md) — ABGB KindNamRÄG 2013 + Sporer v Austria + Hoffmann v Austria
+- [Italy](../case-law/italy/README.md) — [Codice Civile](https://www.brocardi.it/codice-civile/) art. 337-bis to octies + Bondavalli + Improta + Solarino
+- [Portugal](../case-law/portugal/README.md) — CC art. 1906 + Lei 61/2008 + STJ + Lusophone gateway
+- [Spain](../case-law/spain/README.md) — CC custodia compartida + TS 257/2013 + LO 8/2021 + Iglesias Casarrubios
+- [Greece](../case-law/greece/README.md) — Astikos Kodikas + Law 4800/2021 reform
 
 ## Region: Nordic (5 — COMPLETE)
 
-- [Norway](../case-law/norway/) — Barnelova + 2013 coercive fines + Strand Lobben v Norway [GC] reckoning
-- [Sweden](../case-law/sweden/) — Föräldrabalken Ch. 6 + samarbetsförmåga
-- [Denmark](../case-law/denmark/) — Forældreansvarsloven 2007 + 2019 Familieretshuset
-- [Finland](../case-law/finland/) — Lapsenhuoltolaki + 2019 vuoroasuminen
-- [Iceland](../case-law/iceland/) — Barnalög 76/2003 + Art. 28a anti-alienation (2021)
+- [Norway](../case-law/norway/README.md) — Barnelova + 2013 coercive fines + Strand Lobben v Norway [GC] reckoning
+- [Sweden](../case-law/sweden/README.md) — Föräldrabalken Ch. 6 + samarbetsförmåga
+- [Denmark](../case-law/denmark/README.md) — Forældreansvarsloven 2007 + 2019 Familieretshuset
+- [Finland](../case-law/finland/README.md) — Lapsenhuoltolaki + 2019 vuoroasuminen
+- [Iceland](../case-law/iceland/README.md) — Barnalög 76/2003 + Art. 28a anti-alienation (2021)
 
 ## Region: Central Europe (5)
 
-- [Czech Republic](../case-law/czech-republic/) — NOZ 2012 + stridava pece + I.US 3216/13
-- [Slovakia](../case-law/slovakia/) — Zakon o rodine 36/2005 + stridava starostlivost
-- [Hungary](../case-law/hungary/) — Ptk Book IV csaladjog + 3110/2020 (II.18.) AB
-- [Poland](../case-law/poland/) — KRO + 2008 reform + Ignaccolo-Zenide spirit
-- [Slovenia](../case-law/slovenia/) — Družinski zakonik 2017 + CSD to family courts
+- [Czech Republic](../case-law/czech-republic/README.md) — NOZ 2012 + stridava pece + I.US 3216/13
+- [Slovakia](../case-law/slovakia/README.md) — Zakon o rodine 36/2005 + stridava starostlivost
+- [Hungary](../case-law/hungary/README.md) — Ptk Book IV csaladjog + 3110/2020 (II.18.) AB
+- [Poland](../case-law/poland/README.md) — KRO + 2008 reform + Ignaccolo-Zenide spirit
+- [Slovenia](../case-law/slovenia/README.md) — Družinski zakonik 2017 + CSD to family courts
 
 ## Region: Baltic (3 — COMPLETE)
 
-- [Lithuania](../case-law/lithuania/) — Civilinis kodeksas Book Three + LAT
-- [Latvia](../case-law/latvia/) — Civillikums 1937/1993 + Satversmes tiesa
-- [Estonia](../case-law/estonia/) — Perekonnaseadus 2010 + e-Court digital procedure
+- [Lithuania](../case-law/lithuania/README.md) — Civilinis kodeksas Book Three + LAT
+- [Latvia](../case-law/latvia/README.md) — Civillikums 1937/1993 + Satversmes tiesa
+- [Estonia](../case-law/estonia/README.md) — Perekonnaseadus 2010 + e-Court digital procedure
 
 ## Region: South-Eastern Europe / Balkans (4)
 
-- [Romania](../case-law/romania/) — Codul Civil 287/2009 + Ignaccolo-Zenide v Romania (foundational ECHR)
-- [Bulgaria](../case-law/bulgaria/) — Semeen kodeks 2009 + Penal 182 (criminal)
-- [Croatia](../case-law/croatia/) — Obiteljski zakon NN 103/2015 + Art. 96 anti-alienation
-- [Serbia](../case-law/serbia/) — Porodični zakon 2005 + V.A.M. v Serbia
+- [Romania](../case-law/romania/README.md) — Codul Civil 287/2009 + Ignaccolo-Zenide v Romania (foundational ECHR)
+- [Bulgaria](../case-law/bulgaria/README.md) — Semeen kodeks 2009 + Penal 182 (criminal)
+- [Croatia](../case-law/croatia/README.md) — Obiteljski zakon NN 103/2015 + Art. 96 anti-alienation
+- [Serbia](../case-law/serbia/README.md) — Porodični zakon 2005 + V.A.M. v Serbia
 
 ## Region: Post-Soviet Eastern Europe (2)
 
-- [Ukraine](../case-law/ukraine/) — Simeyniy Kodeks + WARTIME displacement PA patterns (~6.5M refugees)
-- [Russia](../case-law/russia/) — Semeyniy Kodeks 1995 + post-2022 ECHR withdrawal context
+- [Ukraine](../case-law/ukraine/README.md) — Simeyniy Kodeks + WARTIME displacement PA patterns (~6.5M refugees)
+- [Russia](../case-law/russia/README.md) — Semeyniy Kodeks 1995 + post-2022 ECHR withdrawal context
 
 ## Region: Eurasia Bridge (1)
 
-- [Turkey](../case-law/turkey/) — Turk Medeni Kanunu 2001 + Yargitay + ECHR member + ~7M diaspora
+- [Turkey](../case-law/turkey/README.md) — Turk Medeni Kanunu 2001 + Yargitay + ECHR member + ~7M diaspora
 
 ## Region: North America (4)
 
-- [United States](../case-law/united-states/) — CA Family Code 3011/3020 + [UCCJEA](https://www.uniformlaws.org/committees/community-home?CommunityKey=4f1a06b2-4951-4eaf-8569-2eb87e3e8e93) framework
-- [Mexico](../case-law/mexico/) — Codigo Civil + Hague framework + 2014 LGDNNA + US-Mexico cross-border
-- [Canada](../case-law/canada/) — Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) + [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) 2021 reform + Gordon v Goertz + Barendregt
-- [Canada/Quebec](../case-law/canada-quebec/) — CCQ + Code de procedure civile (civil-law tradition)
+- [United States](../case-law/united-states/README.md) — CA Family Code 3011/3020 + [UCCJEA](https://www.uniformlaws.org/committees/community-home?CommunityKey=4f1a06b2-4951-4eaf-8569-2eb87e3e8e93) framework
+- [Mexico](../case-law/mexico/README.md) — Codigo Civil + Hague framework + 2014 LGDNNA + US-Mexico cross-border
+- [Canada](../case-law/canada/README.md) — Federal [Divorce Act](https://laws-lois.justice.gc.ca/eng/acts/d-3.4/) + [Bill C-78](https://laws-lois.justice.gc.ca/eng/AnnualStatutes/2019_16/) 2021 reform + Gordon v Goertz + Barendregt
+- [Canada/Quebec](../case-law/canada-quebec/README.md) — CCQ + Code de procedure civile (civil-law tradition)
 
 ## Region: Latin America (5)
 
 - [Brazil](../statutes/brazil-lei-12318-2010.md) — Lei 12.318/2010 (PA criminalization, world-first explicit statute)
-- [Argentina](../case-law/argentina/) — CCCN 2014 + CSJN Fallos 333:1376 (SAP recognition)
-- [Chile](../case-law/chile/) — CC + Ley 20.680/2013 Amor de Papa reform
-- [Colombia](../case-law/colombia/) — Ley 1098/2006 + ICBF administrative-first model
-- [Peru](../case-law/peru/) — CC + Codigo de los Ninos y Adolescentes 2000
+- [Argentina](../case-law/argentina/README.md) — CCCN 2014 + CSJN Fallos 333:1376 (SAP recognition)
+- [Chile](../case-law/chile/README.md) — CC + Ley 20.680/2013 Amor de Papa reform
+- [Colombia](../case-law/colombia/README.md) — Ley 1098/2006 + ICBF administrative-first model
+- [Peru](../case-law/peru/README.md) — CC + Codigo de los Ninos y Adolescentes 2000
 
 ## Region: Asia (12)
 
-- [India](../case-law/india/) — Family Law Framework + non-Hague complications
-- [Pakistan](../case-law/pakistan/) — MFLO 1961 + GWA 1890 + Federal Shariat Court
-- [Singapore](../case-law/singapore/) — Women's Charter + GIA + Family Justice Act 2014
-- [Japan](../case-law/japan/) — 2024 Joint Custody Reform (major shift)
-- [South Korea](../case-law/south-korea/) — Civil Act + Family Litigation Act + 2007 hoju-je abolition
-- [Indonesia](../case-law/indonesia/) — Marriage Law 1974 + Child Protection Law 2002 + non-Hague
-- [Vietnam](../case-law/vietnam/) — Law on Marriage and Family 52/2014 + non-Hague
-- [China (Mainland)](../case-law/china/) — Civil Code 2021 Book V + non-Hague (1.4B + 60M diaspora)
-- [Hong Kong](../case-law/hong-kong/) — MCO + GMO + Hague signatory (gateway distinction from Mainland)
-- [Malaysia](../case-law/malaysia/) — LRA 1976 + Syariah parallel jurisdiction + Indira Gandhi [2018] landmark
-- [Israel](../case-law/israel/) — Capacity & Guardianship Law 1962 + rabbinical interplay
-- [Iran/etc planned](../case-law/iran/) — pending
+- [India](../case-law/india/README.md) — Family Law Framework + non-Hague complications
+- [Pakistan](../case-law/pakistan/README.md) — MFLO 1961 + GWA 1890 + Federal Shariat Court
+- [Singapore](../case-law/singapore/README.md) — Women's Charter + GIA + Family Justice Act 2014
+- [Japan](../case-law/japan/README.md) — 2024 Joint Custody Reform (major shift)
+- [South Korea](../case-law/south-korea/README.md) — Civil Act + Family Litigation Act + 2007 hoju-je abolition
+- [Indonesia](../case-law/indonesia/README.md) — Marriage Law 1974 + Child Protection Law 2002 + non-Hague
+- [Vietnam](../case-law/vietnam/README.md) — Law on Marriage and Family 52/2014 + non-Hague
+- [China (Mainland)](../case-law/china/README.md) — Civil Code 2021 Book V + non-Hague (1.4B + 60M diaspora)
+- [Hong Kong](../case-law/hong-kong/README.md) — MCO + GMO + Hague signatory (gateway distinction from Mainland)
+- [Malaysia](../case-law/malaysia/README.md) — LRA 1976 + Syariah parallel jurisdiction + Indira Gandhi [2018] landmark
+- [Israel](../case-law/israel/README.md) — Capacity & Guardianship Law 1962 + rabbinical interplay
+- [Iran/etc planned](../case-law/iran/README.md) — pending
 
 ## Region: Middle East / Gulf (4)
 
-- [United Arab Emirates](../case-law/united-arab-emirates/) — PSL 2005 + 2022 Federal Decree-Law civil-framework reform + DIFC/ADGM
-- [Saudi Arabia](../case-law/saudi-arabia/) — PSL 2022 (first codification) + Sharia framework + Vision 2030
-- [Egypt](../case-law/egypt/) — PSL 25/1929 + 100/1985 + 2008 + Hague signatory + Coptic ecclesiastical parallel
-- [Israel](../case-law/israel/) — Capacity & Guardianship Law 1962 (cross-listed with Asia)
+- [United Arab Emirates](../case-law/united-arab-emirates/README.md) — PSL 2005 + 2022 Federal Decree-Law civil-framework reform + DIFC/ADGM
+- [Saudi Arabia](../case-law/saudi-arabia/README.md) — PSL 2022 (first codification) + Sharia framework + Vision 2030
+- [Egypt](../case-law/egypt/README.md) — PSL 25/1929 + 100/1985 + 2008 + Hague signatory + Coptic ecclesiastical parallel
+- [Israel](../case-law/israel/README.md) — Capacity & Guardianship Law 1962 (cross-listed with Asia)
 
 ## Region: Oceania (2)
 
-- [Australia](../case-law/australia/) — [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + 2024 amendments
-- [New Zealand](../case-law/new-zealand/) — Care of Children Act 2004
+- [Australia](../case-law/australia/README.md) — [Family Law Act 1975](https://www.legislation.gov.au/C2004A00275/latest/text) + 2024 amendments
+- [New Zealand](../case-law/new-zealand/README.md) — Care of Children Act 2004
 
 ## Region: Africa (3)
 
-- [South Africa](../case-law/south-africa/) — Children's Act 38 of 2005 + Ubuntu jurisprudence
-- [Kenya](../case-law/kenya/) — Children Act 2022 + ACRWC + EAC
-- [Nigeria](../case-law/nigeria/) — CRA 2003 + MCA 1970 + plural-law (statutory + customary + Sharia)
+- [South Africa](../case-law/south-africa/README.md) — Children's Act 38 of 2005 + Ubuntu jurisprudence
+- [Kenya](../case-law/kenya/README.md) — Children Act 2022 + ACRWC + EAC
+- [Nigeria](../case-law/nigeria/README.md) — CRA 2003 + MCA 1970 + plural-law (statutory + customary + Sharia)
 
 ## Region: Supranational (1)
 
-- [Council of Europe / ECHR](../case-law/european-court-of-human-rights/) — Article 8 contact-enforcement doctrine
+- [Council of Europe / ECHR](../case-law/european-court-of-human-rights/README.md) — Article 8 contact-enforcement doctrine
   - **Strand Lobben v Norway [GC] (2019)** — standalone deep-dive — landmark
   - **Improta v Italy (2017)** — standalone deep-dive — positive obligation
   - **Solarino v Italy (2017)** — standalone deep-dive — protracted inaction

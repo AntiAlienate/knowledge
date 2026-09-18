@@ -9,7 +9,7 @@ Honest reference on the contested status of parental alienation. Required readin
 ## Related
 
 - [Influencers](../influencers/README.md) — profile pages on figures in both camps
-- [Glossary](../glossary/) — vocabulary used by both sides
+- [Glossary](../glossary/glossary.md) — vocabulary used by both sides
 - [Resources](../resources/README.md) — primary-source databases and key books
 
 ---

@@ -31,7 +31,7 @@ Under s.11 of the Children (Scotland) Act 1995, a parent's course of knowingly f
 
 ## Verbatim
 
-**[74](x)** (en):
+**[74]** (en):
 
 > In light of [the] above conclusions, in my judgment, the defender has engaged in a course of conduct where she has knowingly made false and increasingly serious allegations against the pursuer concerning abuse of the children, including sexual abuse, and deliberately misrepresented the children's medical symptoms in support of those false allegations, all with the intention of alienating the pursuer from the children.
 

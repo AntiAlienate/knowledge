@@ -149,7 +149,7 @@ Cross-border enforcement of contact orders is governed by Brussels IIb Arts. 36-
 
 - [Germany — BGB § 1684 (3) Umgangspflegschaft](../germany/bgb-1626-1684-elterliche-sorge-umgang-verbatim.md)
 - [Belgium — Penal Code art. 432](../belgium/penal-code-art-432-parental-alienation.md)
-- [France — Code civil art. 373-2-11](../france/)
+- [France — Code civil art. 373-2-11](../france/README.md)
 - [UK — Children Act 1989 s. 91A (barring orders)](../united-kingdom/children-act-1989-section-91A-barring-order-further-provision.md)
 - [Brazil — Lei 12.318/2010 art. 6º (graduated sanctions)](../brazil/lei-12318-2010-lei-da-alienacao-parental-verbatim.md)
 

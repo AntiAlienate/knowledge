@@ -121,7 +121,7 @@ Kenyan High Court and Court of Appeal family-law judgments anonymise minor child
 
 The operative framework is the [Children Act 2022 (Act No. 29 of 2022)](http://kenyalaw.org/) — the modernised statute replacing the Children Act 2001 — particularly ss.93–117 on *parental responsibility, custody and contact*. The principle is the *best interests of the child as paramount* — codified at s.8 and constitutional via [Constitution of Kenya 2010 art. 53(2)](http://kenyalaw.org/kl/index.php?id=398).
 
-**Default position.** *Parental responsibility* is exercised jointly by both parents per Children Act 2022 s.93. The 2022 Act substantially restructured the prior 2001 framework to introduce explicit *joint parental responsibility* by default and to align with the [African Charter on the Rights and Welfare of the Child](case-law/kenya/) and the Convention on the Rights of the Child.
+**Default position.** *Parental responsibility* is exercised jointly by both parents per Children Act 2022 s.93. The 2022 Act substantially restructured the prior 2001 framework to introduce explicit *joint parental responsibility* by default and to align with the [African Charter on the Rights and Welfare of the Child](../case-law/kenya/README.md) and the Convention on the Rights of the Child.
 
 **Procedural pathway — the Children's Court / High Court.** Family disputes under the Children Act 2022 go to the *Children's Court* (a specialist division of the Magistrate's Court) under [Children Act 2022 s.74](http://kenyalaw.org/). For complex or high-value matters, the *High Court Family Division* has concurrent jurisdiction. Procedure under the [Children (Practice and Procedure) Rules 2022](http://kenyalaw.org/) which prescribe specialised family-procedure rules.
 

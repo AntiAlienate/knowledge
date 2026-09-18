@@ -76,7 +76,7 @@ For severe entrenched cases where conventional remedies have failed:
 - [posts/25-court-appointed-pa-expert.md](./25-court-appointed-pa-expert.md)
 - [posts/29-emergency-motions-pa.md](./29-emergency-motions-pa.md)
 - [posts/66-usa-parent-child-in-europe-playbook.md](./66-usa-parent-child-in-europe-playbook.md)
-- [case-law/echr/](../case-law/echr/) — all 9 [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) cases
+- [case-law/echr/](../case-law/echr/README.md) — all 9 [ECHR Article 8](https://www.legislation.gov.uk/ukpga/1998/42/schedule/1) cases
 
 ## Citations
 

@@ -15,7 +15,7 @@ The goal: be the single most comprehensive open-source reference on parental ali
 | **In a cross-border / international case** | [/playbooks/cross-border-hague.md](./playbooks/cross-border-hague.md) |
 | **In a case involving DV and PA allegations** | [/playbooks/pa-and-domestic-violence.md](./playbooks/pa-and-domestic-violence.md) |
 | **Vetting / working with a lawyer** | [/playbooks/working-with-lawyer.md](./playbooks/working-with-lawyer.md) |
-| **Needing the vocabulary** | [/glossary/](./glossary/) — definitions, what to use, what to avoid |
+| **Needing the vocabulary** | [/glossary/](./glossary/glossary.md) — definitions, what to use, what to avoid |
 | **Trying to understand the field's actual debate** | [/the-debate/recognition-vs-critique.md](./the-debate/recognition-vs-critique.md) |
 | **Wanting to read real cases, not citation lists** | [/case-studies/](case-studies/README.md) — 8 cases deeply investigated, named participants, journalism trail |
 | **Looking for peer support** | [/community/](community/README.md) — Reddit subreddits + advocacy orgs (intl) |
@@ -30,7 +30,7 @@ The goal: be the single most comprehensive open-source reference on parental ali
 | **[/case-studies/](case-studies/README.md)** | Real PA cases deeply investigated — named participants, journalism trail, doctrinal arcs (UK / Canada / US / EU / AU) | 8 + index |
 | **[/templates/](templates/README.md)** | Practical artefacts — letters, log templates, prep briefs, communication patterns | 9 + index |
 | **[/resources/](resources/README.md)** | Where the evidence lives — research databases + the key-books reading shelf | 2 + index |
-| **[/glossary/](./glossary/)** | PA vocabulary — definitions, what to use in court, what to avoid | 1 + index |
+| **[/glossary/](./glossary/glossary.md)** | PA vocabulary — definitions, what to use in court, what to avoid | 1 + index |
 | **[/the-debate/](the-debate/README.md)** | Recognition vs critique — both camps mapped honestly with strongest works | 1 + index |
 | **[/jurisdictions/](jurisdictions/README.md)** | Per-country / per-US-state legal-reference pages | 30 |
 | **[/landmark-cases/](landmark-cases/README.md)** | Foundational cases everyone should be able to cite | Curated |
