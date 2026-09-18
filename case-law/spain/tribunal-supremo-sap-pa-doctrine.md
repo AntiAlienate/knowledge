@@ -92,7 +92,7 @@ Spanish PA cases benefit from citing the full European stack — all reach compa
 
 - [case-law/echr/solarino-v-italy-2017.md](../echr/solarino-v-italy-2017.md)
 - [case-law/germany/bgh-xii-zb-565-2018.md](../germany/bgh-xii-zb-565-2018.md)
-- [case-law/italy/cassazione-9691-2022.md](../italy/cassazione-9691-2022.md)
+- [case-law/italy/cassazione-9691-2022.md](../../case-studies/cassazione-9691-2022-italy.md)
 - [case-law/france/cass-civ-1ere-22-mars-2023.md](../france/cass-civ-1ere-22-mars-2023.md)
 - [research/harman-kruk-hines-2018.md](../../research/harman-kruk-hines-2018.md)
 

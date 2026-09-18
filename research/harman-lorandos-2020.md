@@ -92,7 +92,7 @@ These critiques refine but do not undermine the core empirical contribution: thi
 - [research/baker-2007.md](./baker-2007.md) — 8 indicators
 - [research/bernet-2010.md](./bernet-2010.md) — 5 essential criteria
 - [case-law/united-kingdom/re-c-2023-ewhc-345-fam.md](../case-law/united-kingdom/re-c-2023-ewhc-345-fam.md)
-- [case-law/italy/cassazione-9691-2022.md](../case-law/italy/cassazione-9691-2022.md)
+- [case-law/italy/cassazione-9691-2022.md](../case-studies/cassazione-9691-2022-italy.md)
 
 ## Disclaimer
 

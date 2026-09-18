@@ -94,7 +94,7 @@ Cross-border French PA cases benefit from citing all five — the ECHR decision 
 
 - [case-law/echr/solarino-v-italy-2017.md](../echr/solarino-v-italy-2017.md)
 - [case-law/germany/bgh-xii-zb-565-2018.md](../germany/bgh-xii-zb-565-2018.md)
-- [case-law/italy/cassazione-9691-2022.md](../italy/cassazione-9691-2022.md)
+- [case-law/italy/cassazione-9691-2022.md](../../case-studies/cassazione-9691-2022-italy.md)
 - [case-law/united-kingdom/re-c-2023-ewhc-345-fam.md](../united-kingdom/re-c-2023-ewhc-345-fam.md)
 
 ## Disclaimer

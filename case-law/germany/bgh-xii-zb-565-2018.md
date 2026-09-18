@@ -90,7 +90,7 @@ All four reach the same conclusion: child's stated wishes cannot be the sole bas
 
 - [case-law/echr/solarino-v-italy-2017.md](../echr/solarino-v-italy-2017.md)
 - [case-law/united-kingdom/re-c-2023-ewhc-345-fam.md](../united-kingdom/re-c-2023-ewhc-345-fam.md)
-- [case-law/italy/cassazione-9691-2022.md](../italy/cassazione-9691-2022.md)
+- [case-law/italy/cassazione-9691-2022.md](../../case-studies/cassazione-9691-2022-italy.md)
 - [case-law/united-kingdom/re-h-n-2021-ewca-civ-448.md](../united-kingdom/re-h-n-2021-ewca-civ-448.md)
 
 ## Disclaimer

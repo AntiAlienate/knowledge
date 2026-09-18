@@ -72,7 +72,7 @@ The art. 337-quater route is the principal Italian operational tool for custody 
 ## Cross-reference
 
 - [Codice Civile, art. 337-ter — cooperation/non-disparagement framework](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md) — the shared-custody default
-- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
+- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis-octies.md)
 - [Codice Civile, art. 337-sexies — Casa familiare](codice-civile-art-337-sexies-family-home-and-residence.md)
 - [Codice Civile, art. 330 — Decadenza (parallel apex-tier)](codice-civile-art-330-decadenza-responsabilita-genitoriale.md)
 - [Codice Civile, art. 333 — Condotta pregiudizievole (intermediate)](codice-civile-art-333-condotta-pregiudizievole.md)

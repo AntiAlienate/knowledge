@@ -78,7 +78,7 @@ Even when the parquet *classes sans suite*, the PV becomes:
 
 - [case-law/belgium/civil-code-art-374.md](./civil-code-art-374.md) *(seed)*
 - [case-law/belgium/civil-code-art-387ter.md](./civil-code-art-387ter.md) *(seed)*
-- [case-law/belgium/civil-code-art-375bis.md](./civil-code-art-375bis.md) *(seed)*
+- [case-law/belgium/civil-code-art-375bis.md](civil-code-art-375bis-grandparents.md) *(seed)*
 - [case-law/echr/bondavalli-v-italy-2015.md](../echr/bondavalli-v-italy-2015.md)
 - [case-law/echr/improta-v-italy-2017.md](../echr/improta-v-italy-2017.md)
 

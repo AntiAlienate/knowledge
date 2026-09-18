@@ -48,7 +48,7 @@ Two distinct duties bundled in one article: (1) the family-home is assigned with
 ## Related entries
 
 - [Codice Civile, art. 316 — Responsabilità genitoriale](codice-civile-art-316-responsabilita-genitoriale.md)
-- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
+- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis-octies.md)
 - [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
 - [Codice Civile, art. 337-quater — Affidamento esclusivo](codice-civile-art-337-quater-affidamento-esclusivo.md)
 - [Codice Civile, art. 337-quinquies — Revisione delle disposizioni](codice-civile-art-337-quinquies-revisione-disposizioni.md)

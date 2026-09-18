@@ -68,7 +68,7 @@ The **maximum civil-law remedy** in Italian family law against parental miscondu
 
 - [Codice Civile, art. 316 — Responsabilità genitoriale](codice-civile-art-316-responsabilita-genitoriale.md)
 - [Codice Civile, art. 333 — Condotta pregiudizievole (intermediate)](codice-civile-art-333-condotta-pregiudizievole.md)
-- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
+- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis-octies.md)
 - [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
 - [Codice Civile, art. 337-quater — Affidamento esclusivo](codice-civile-art-337-quater-affidamento-esclusivo.md)
 - [Codice Civile, art. 337-sexies — Casa familiare e residenza](codice-civile-art-337-sexies-family-home-and-residence.md)

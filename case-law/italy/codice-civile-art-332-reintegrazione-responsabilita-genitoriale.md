@@ -75,7 +75,7 @@ Where these conditions are met, art. 332 provides the formal restoration route. 
 - [Codice Civile, art. 316 — Responsabilità genitoriale](codice-civile-art-316-responsabilita-genitoriale.md)
 - [Codice Civile, art. 330 — Decadenza (maximum tier)](codice-civile-art-330-decadenza-responsabilita-genitoriale.md)
 - [Codice Civile, art. 333 — Condotta pregiudizievole (intermediate)](codice-civile-art-333-condotta-pregiudizievole.md)
-- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
+- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis-octies.md)
 - [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
 
 

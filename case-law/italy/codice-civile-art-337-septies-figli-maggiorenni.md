@@ -47,7 +47,7 @@ Italian law's recognition that parental responsibility — and its corresponding
 ## Related entries
 
 - [Codice Civile, art. 316 — Responsabilità genitoriale](codice-civile-art-316-responsabilita-genitoriale.md)
-- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis.md)
+- [Codice Civile, art. 337-bis — Ambito di applicazione](codice-civile-art-337-bis-octies.md)
 - [Codice Civile, art. 337-ter — Provvedimenti riguardo ai figli](codice-civile-art-337-ter-provvedimenti-riguardo-ai-figli.md)
 - [Codice Civile, art. 337-sexies — Casa familiare e residenza](codice-civile-art-337-sexies-family-home-and-residence.md)
 - [Codice Civile, art. 337-octies — Poteri del giudice e ascolto del minore](codice-civile-art-337-octies-poteri-del-giudice-ascolto-minore.md)

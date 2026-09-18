@@ -69,7 +69,7 @@ This is why citing the Italian-line ECHR cases is particularly effective in Ital
 
 ## How this connects to Cassazione 9691/2022
 
-The Italian Supreme Court's 2022 ruling on parental alienation (see [case-law/italy/cassazione-9691-2022.md](./cassazione-9691-2022.md)) interpreted Art. 337-bis et seq. as supporting:
+The Italian Supreme Court's 2022 ruling on parental alienation (see [case-law/italy/cassazione-9691-2022.md](../../case-studies/cassazione-9691-2022-italy.md)) interpreted Art. 337-bis et seq. as supporting:
 
 - **Alienating behaviors as legally cognizable** under the best-interests test
 - **No syndromal labeling required** — behaviors observable per Baker's 8 indicators suffice
@@ -100,7 +100,7 @@ Sample Italian motion language:
 
 ## Related entries
 
-- [case-law/italy/cassazione-9691-2022.md](./cassazione-9691-2022.md)
+- [case-law/italy/cassazione-9691-2022.md](../../case-studies/cassazione-9691-2022-italy.md)
 - [case-law/echr/bondavalli-v-italy-2015.md](../echr/bondavalli-v-italy-2015.md)
 - [case-law/echr/strumia-v-italy-2016.md](../echr/strumia-v-italy-2016.md)
 - [case-law/echr/improta-v-italy-2017.md](../echr/improta-v-italy-2017.md)
