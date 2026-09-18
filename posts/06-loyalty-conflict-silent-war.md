@@ -44,8 +44,8 @@ When even one parent does this consistently, the loyalty conflict often resolves
 
 ## Related entries
 
-- [posts/31-two-parent-neutrality.md](./31-two-parent-neutrality.md) *(seed)*
-- [posts/32-binary-thinking-splitting.md](./32-binary-thinking-splitting.md) *(seed)*
+- posts/31-two-parent-neutrality.md *(seed)*
+- posts/32-binary-thinking-splitting.md *(seed)*
 - [posts/45-coparenting-with-alienator.md](./45-coparenting-with-alienator.md)
 
 ## Citations

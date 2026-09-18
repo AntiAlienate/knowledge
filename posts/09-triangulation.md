@@ -38,8 +38,8 @@ Two-parent neutrality breaks triangulation. When the targeted parent refuses to 
 ## Related entries
 
 - [posts/06-loyalty-conflict-silent-war.md](./06-loyalty-conflict-silent-war.md)
-- [posts/31-two-parent-neutrality.md](./31-two-parent-neutrality.md) *(seed)*
-- [posts/29-parentification.md](./29-parentification.md) *(seed)*
+- posts/31-two-parent-neutrality.md *(seed)*
+- posts/29-parentification.md *(seed)*
 - [posts/04-the-17-strategies.md](./04-the-17-strategies.md)
 
 ## Citations

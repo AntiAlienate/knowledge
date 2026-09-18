@@ -56,7 +56,7 @@ Indirect costs: time off work, missed career advancement, geographic limitations
 
 ## Related entries
 
-- [posts/30-psychological-destruction-of-alienated-children.md](./30-psychological-destruction-of-alienated-children.md) *(seed)*
+- posts/30-psychological-destruction-of-alienated-children.md *(seed)*
 - [posts/56-protecting-mental-health-targeted-parent.md](./56-protecting-mental-health-targeted-parent.md)
 - [posts/63-arrested-development.md](./63-arrested-development.md)
 

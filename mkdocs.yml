@@ -128,7 +128,6 @@ nav:
     - Tools: tools/README.md
 
   - About:
-    - Overview: open-source/README.md
     - Open Source: open-source/README.md
     - Verified Publishers: publishers/README.md
     - Community: community/README.md

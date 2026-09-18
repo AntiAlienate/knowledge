@@ -1,6 +1,6 @@
 # Re-Engaging the Alienated Teenager — Different Rules for the Adolescent Window
 
-> **TL;DR.** Re-engaging an alienated teenager is fundamentally different from re-engaging a younger child. Teens have built an identity around the rejection. Direct attempts to "correct" the narrative trigger defensive collapse. [Warshak's Family Bridges](https://warshak.com/family-bridges/) data tells us what works: present-tense presence, zero history, sustained-over-months consistency. The adolescent window is also a developmental opportunity — teens start to notice patterns the alienator hopes they won't.
+> **TL;DR.** Re-engaging an alienated teenager is fundamentally different from re-engaging a younger child. Teens have built an identity around the rejection. Direct attempts to "correct" the narrative trigger defensive collapse. [Warshak's Family Bridges](https://warshak.com/) data tells us what works: present-tense presence, zero history, sustained-over-months consistency. The adolescent window is also a developmental opportunity — teens start to notice patterns the alienator hopes they won't.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/re-engaging-alienated-teen](https://www.antialienate.com/blog/re-engaging-alienated-teen).**
@@ -52,7 +52,7 @@ Adolescents test. They go silent for 2-6 weeks then return. Each test is the ali
 
 | Source | Finding |
 |---|---|
-| [Warshak](https://warshak.com/family-bridges/) (2010) [Family Bridges](https://warshak.com/family-bridges/) | Adolescents in intensive intervention show high acute restoration rates, ~80% maintained at 1yr |
+| [Warshak](https://warshak.com/) (2010) [Family Bridges](https://warshak.com/) | Adolescents in intensive intervention show high acute restoration rates, ~80% maintained at 1yr |
 | Reay (2015) Family Reflections | Comparable outcomes, alternate protocol |
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) adult-outcomes | Many former alienated children re-establish contact in their 20s-40s, often expressing remorse |
 | Fidler & Bala (2010) | Adolescent resistance often "frozen" — yields when targeted parent stops trying to thaw it |
@@ -99,7 +99,7 @@ Your job during the asleep phase: stay findable. Stay calm. Stay yours.
 
 ## Citations
 
-- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *Family Court Review*, 48(1), 48-80.
+- [Warshak](https://warshak.com/), R. A. (2010). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). *American Journal of Family Therapy*, 43(2), 197-207.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*
 - Fidler, B. J., & Bala, N. (2010). *Family Court Review*, 48(1), 10-47.

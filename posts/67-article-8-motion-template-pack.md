@@ -29,7 +29,7 @@ For wait-list / scheduling delays that have become months-long:
 
 For when the State / opposing counsel argues "the child's rejection has now become entrenched":
 
-> *Per Mincheva v Bulgaria (ECHR 2010, App. no. 21558/03), the State cannot invoke the consequences of its own enforcement failure — including the child's now-deepened resistance — as a justification for further declining to act. The N-year delay in the present matter has produced precisely the outcome that delay tends to produce; the Court rejected this circular reasoning in Mincheva. The same logic applies here. The Court is respectfully asked to: (a) order graduated reintroduction therapy per the [Warshak](https://warshak.com/family-bridges/) (2010) / Reay (2015) protocols; (b) impose continued enforcement measures during the reintroduction process; (c) decline to characterize the entrenched resistance as a substantive obstacle to the State's enforcement duty.*
+> *Per Mincheva v Bulgaria (ECHR 2010, App. no. 21558/03), the State cannot invoke the consequences of its own enforcement failure — including the child's now-deepened resistance — as a justification for further declining to act. The N-year delay in the present matter has produced precisely the outcome that delay tends to produce; the Court rejected this circular reasoning in Mincheva. The same logic applies here. The Court is respectfully asked to: (a) order graduated reintroduction therapy per the [Warshak](https://warshak.com/) (2010) / Reay (2015) protocols; (b) impose continued enforcement measures during the reintroduction process; (c) decline to characterize the entrenched resistance as a substantive obstacle to the State's enforcement duty.*
 
 ## Template 5 — Cross-border child removal (within EU)
 
@@ -47,7 +47,7 @@ For US-citizen targeted parents whose child is in an ECHR-state country:
 
 For requesting a court-appointed PA expert:
 
-> *The Court is respectfully asked to appoint an expert under [Civil Code 1253ter/4 (Belgium) / §730 (US) / Section 7 (UK)] with the following terms of reference: (a) document any alienating behaviors per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators (2007); (b) assess whether the child's stated position meets the disproportionality test of Bernet's 5 essential criteria (2010); (c) rule out justified estrangement; (d) recommend a graduated reintroduction protocol per [Warshak](https://warshak.com/family-bridges/) (2010) or Reay (2015); (e) provide assessment in a Daubert-survivable behavior-frame format (Harman/Kruk/Hines 2018), not in syndrome-frame format. Three names are proposed: [list]. The expert's report should be filed within [N] days.*
+> *The Court is respectfully asked to appoint an expert under [Civil Code 1253ter/4 (Belgium) / §730 (US) / Section 7 (UK)] with the following terms of reference: (a) document any alienating behaviors per [Baker's](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) 8 indicators (2007); (b) assess whether the child's stated position meets the disproportionality test of Bernet's 5 essential criteria (2010); (c) rule out justified estrangement; (d) recommend a graduated reintroduction protocol per [Warshak](https://warshak.com/) (2010) or Reay (2015); (e) provide assessment in a Daubert-survivable behavior-frame format (Harman/Kruk/Hines 2018), not in syndrome-frame format. Three names are proposed: [list]. The expert's report should be filed within [N] days.*
 
 ## Template 8 — Transfer of residence (intractable PA cases)
 

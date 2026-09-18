@@ -69,7 +69,7 @@ Many PA cases fail not on whether the alienator's behaviors are documented, but 
 ## Related entries
 
 - [posts/63-arrested-development.md](./63-arrested-development.md) — the 5 domains of developmental arrest
-- [posts/30-psychological-destruction-of-alienated-children.md](./30-psychological-destruction-of-alienated-children.md) *(seed)*
+- posts/30-psychological-destruction-of-alienated-children.md *(seed)*
 - [posts/20-document-pa-complete-evidence-guide.md](./20-document-pa-complete-evidence-guide.md)
 - [posts/53-guardian-ad-litem.md](./53-guardian-ad-litem.md)
 

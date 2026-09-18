@@ -25,7 +25,7 @@
 
 Most graduate programs include **zero hours** of training on PA dynamics. So ask explicitly:
 
-- "Have you read [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007), Bernet (2010), [Warshak](https://warshak.com/family-bridges/) (2010)?"
+- "Have you read [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007), Bernet (2010), [Warshak](https://warshak.com/) (2010)?"
 - "Are you familiar with [Harman, Kruk & Hines](https://pubmed.ncbi.nlm.nih.gov/30080055/) (2018)?"
 - "How do you frame the alienating parent's behavior?"
 

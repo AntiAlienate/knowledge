@@ -69,7 +69,7 @@ Even when the criminal case isn't pursued, the PV becomes:
 
 - [posts/13-echr-article-8.md](./13-echr-article-8.md) *(seed — EU legal weapon)*
 - [posts/45-coparenting-with-alienator.md](./45-coparenting-with-alienator.md)
-- [posts/44-make-parenting-plan-together.md](./44-make-parenting-plan-together.md)
+- posts/44-make-parenting-plan-together.md
 
 ## Citations
 

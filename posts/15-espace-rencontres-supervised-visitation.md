@@ -53,7 +53,7 @@ See [posts/61-supervised-visits-belgium.md](./61-supervised-visits-belgium.md) f
 ## Related entries
 
 - [posts/61-supervised-visits-belgium.md](./61-supervised-visits-belgium.md) — 4 modalities + workarounds
-- [posts/60-supervised-visits-help-or-hurt.md](./60-supervised-visits-help-or-hurt.md) — when supervised contact helps vs hurts
+- [posts/60-supervised-visits-help-or-hurt.md](./60-do-supervised-visits-help-or-hurt.md) — when supervised contact helps vs hurts
 - [posts/14-belgium-equal-custody-paradise.md](./14-belgium-equal-custody-paradise.md)
 - [case-law/echr/improta-v-italy-2017.md](../case-law/echr/improta-v-italy-2017.md)
 - [case-law/belgium/penal-code-art-432.md](../case-law/belgium/penal-code-art-432.md)

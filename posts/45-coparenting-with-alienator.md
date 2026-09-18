@@ -60,7 +60,7 @@ Their belief in the curated narrative is not your problem to solve. Defending in
 - **Therapist for yourself** — ideally PA-specialist or familiar with ambiguous-loss framework (Boss 1999)
 - **Peer support** — other targeted parents who don't need you to explain
 - **Lawyer who specializes in PA cases** — see [posts/22-choosing-pa-lawyer.md](./22-choosing-pa-lawyer.md)
-- **Structured parenting plan** — see [posts/44-parenting-plan-together.md](./44-parenting-plan-together.md)
+- **Structured parenting plan** — see posts/44-parenting-plan-together.md
 - **A daily routine the child can rely on at your house** — predictability is reparative
 
 ## What harms

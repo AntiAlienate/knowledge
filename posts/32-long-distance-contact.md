@@ -60,7 +60,7 @@ When a long-distance targeted parent has 12+ months of documented attempted cont
 
 - Order the child to spend specified time with the targeted parent
 - Impose financial penalties for refusal (Belgian astreinte / UK enforcement orders / US contempt)
-- Order graduated reintroduction therapy ([Warshak](https://warshak.com/family-bridges/) 2010 / Reay 2015 protocols)
+- Order graduated reintroduction therapy ([Warshak](https://warshak.com/) 2010 / Reay 2015 protocols)
 
 ## Source-blog hyperlinks
 
@@ -80,7 +80,7 @@ When a long-distance targeted parent has 12+ months of documented attempted cont
 
 - *Improta v. Italy*, App. no. 66396/14, ECHR 2017
 - *Strand Lobben and Others v. Norway*, App. no. 37283/13, ECHR Grand Chamber 2019
-- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *Family Court Review*, 48(1), 48-80.
+- [Warshak](https://warshak.com/), R. A. (2010). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). *American Journal of Family Therapy*, 43(2), 197-207.
 
 ## Disclaimer

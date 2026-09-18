@@ -1,6 +1,6 @@
 # The Reunification Journey — What It Actually Looks Like
 
-> **TL;DR.** Reunification isn't a movie scene. It's a slow, structured, often non-linear process that unfolds over months — sometimes years. The research ([Warshak](https://warshak.com/family-bridges/) 2010, Reay 2015, Sullivan & Kelly 2001) gives us the shape: graduated reintroduction, regulated affect, sustained presence. This is the realistic 5-phase arc, from first reach-out through stable relationship.
+> **TL;DR.** Reunification isn't a movie scene. It's a slow, structured, often non-linear process that unfolds over months — sometimes years. The research ([Warshak](https://warshak.com/) 2010, Reay 2015, Sullivan & Kelly 2001) gives us the shape: graduated reintroduction, regulated affect, sustained presence. This is the realistic 5-phase arc, from first reach-out through stable relationship.
 
 **Author:** Alan Markson · **Last reviewed:** 2026-05-16 · **License:** [CC BY 4.0](../LICENSE)
 **Originally published at [antialienate.com/blog/the-reunification-journey](https://www.antialienate.com/blog/the-reunification-journey).**
@@ -53,7 +53,7 @@ The targeted parent's job: stay regulated. Disconfirm the alienator-installed fe
 
 | Source | Finding |
 |---|---|
-| [Warshak](https://warshak.com/family-bridges/) (2010) [Family Bridges](https://warshak.com/family-bridges/) | 95% acute restoration; 78% maintained at 1yr |
+| [Warshak](https://warshak.com/) (2010) [Family Bridges](https://warshak.com/) | 95% acute restoration; 78% maintained at 1yr |
 | Reay (2015) Family Reflections | Comparable outcomes, alternate protocol |
 | Sullivan & Kelly (2001) | Family-system approach essential |
 | [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) (2007) adult-outcomes | Majority of adult children of PA re-establish contact in their 20s-40s |
@@ -86,7 +86,7 @@ Years of sustained presence is exhausting. Self-care isn't optional during the r
 
 ## The honest truth
 
-Reunification is possible. It happens. The [Warshak](https://warshak.com/family-bridges/) data + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) adult-outcomes data + clinical literature all support that. AND — it's slower, more non-linear, and more painful than anyone wants to admit. The targeted parents who get there share one trait above all others: **they outlasted the alienation through regulated, calm, consistent presence**, decade after decade if needed.
+Reunification is possible. It happens. The [Warshak](https://warshak.com/) data + [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation) adult-outcomes data + clinical literature all support that. AND — it's slower, more non-linear, and more painful than anyone wants to admit. The targeted parents who get there share one trait above all others: **they outlasted the alienation through regulated, calm, consistent presence**, decade after decade if needed.
 
 Your child needs you to stay alive long enough for them to come back. That's the mission.
 
@@ -109,7 +109,7 @@ Your child needs you to stay alive long enough for them to come back. That's the
 
 ## Citations
 
-- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). [Family Bridges](https://warshak.com/family-bridges/). *Family Court Review*, 48(1), 48-80.
+- [Warshak](https://warshak.com/), R. A. (2010). [Family Bridges](https://warshak.com/). *Family Court Review*, 48(1), 48-80.
 - Reay, K. M. (2015). Family Reflections. *American Journal of Family Therapy*, 43(2), 197-207.
 - Sullivan, M. J., & Kelly, J. B. (2001). *Family Court Review*, 39(3), 299-315.
 - [Baker](https://pubmed.ncbi.nlm.nih.gov/?term=Baker+AJL+parental+alienation), A. J. L. (2007). *Adult Children of Parental Alienation Syndrome.*

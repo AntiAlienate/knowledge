@@ -34,7 +34,7 @@ The child's defense of the alienator is *not evidence that the alienator is righ
 
 ## Related entries
 
-- [posts/30-psychological-destruction-of-alienated-children.md](./30-psychological-destruction-of-alienated-children.md) *(seed)*
+- posts/30-psychological-destruction-of-alienated-children.md *(seed)*
 - [posts/63-arrested-development.md](./63-arrested-development.md)
 - [posts/55-recognizing-pa-key-signs.md](./55-recognizing-pa-key-signs.md)
 - [case-law/echr/solarino-v-italy-2017.md](../case-law/echr/solarino-v-italy-2017.md)

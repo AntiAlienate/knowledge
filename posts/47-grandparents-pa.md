@@ -47,7 +47,7 @@ There is no neutral middle.
 ## Related entries
 
 - [posts/46-step-parents-pa.md](./46-step-parents-pa.md) — paired relational-network post
-- [posts/31-two-parent-neutrality.md](./31-two-parent-neutrality.md) *(seed)*
+- posts/31-two-parent-neutrality.md *(seed)*
 - [posts/45-coparenting-with-alienator.md](./45-coparenting-with-alienator.md)
 
 ## Citations

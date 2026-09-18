@@ -70,8 +70,8 @@ This is fiction synthesizing patterns from the longitudinal PA literature. The c
 ## Related entries
 
 - [posts/56-protecting-mental-health-targeted-parent.md](./56-protecting-mental-health-targeted-parent.md) — Ambiguous Loss + Complex PTSD framework
-- [posts/41-reunification-journey.md](./41-reunification-journey.md) *(seed)*
-- [posts/40-re-engage-alienated-teen.md](./40-re-engage-alienated-teen.md) *(seed)*
+- [posts/41-reunification-journey.md](./41-the-reunification-journey.md) *(seed)*
+- [posts/40-re-engage-alienated-teen.md](./40-re-engaging-alienated-teen.md) *(seed)*
 - [posts/64-weaponizing-illness.md](./64-weaponizing-illness.md) — paired narrative-format companion
 
 ## Citations

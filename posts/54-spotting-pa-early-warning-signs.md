@@ -59,7 +59,7 @@ Single incidents are noise. **Patterns across all four tiers are signal.**
 
 ## Why catching it early matters
 
-Reunification research (Reay, 2015; [Warshak](https://warshak.com/family-bridges/), 2010; Fidler & Bala, 2010) is consistent: alienation caught at warning-sign stage is roughly 10× easier to address than at full-campaign stage. The window narrows. Documentation widens it.
+Reunification research (Reay, 2015; [Warshak](https://warshak.com/), 2010; Fidler & Bala, 2010) is consistent: alienation caught at warning-sign stage is roughly 10× easier to address than at full-campaign stage. The window narrows. Documentation widens it.
 
 ## The clinical and legal anchors
 
@@ -89,7 +89,7 @@ This is not paranoia. It is clinically codified harm:
 - Harman, J. J., Kruk, E., & Hines, D. A. (2018). Parental Alienating Behaviors. *Psychological Bulletin, 144*(12), 1275–1299.
 - Bernet, W. (2010). *Parental Alienation, [DSM-5](https://www.appi.org/products/dsm), and [ICD-11](https://icd.who.int/).* Charles C. Thomas.
 - Reay, K. M. (2015). *Family Reflections: A Promising Therapeutic Program.*
-- [Warshak](https://warshak.com/family-bridges/), R. A. (2010). *[Family Bridges](https://warshak.com/family-bridges/): Using insights from social science to reconnect parents and alienated children.*
+- [Warshak](https://warshak.com/), R. A. (2010). *[Family Bridges](https://warshak.com/): Using insights from social science to reconnect parents and alienated children.*
 - Fidler, B. J., & Bala, N. (2010). Children resisting postseparation contact with a parent. *Family Court Review, 48*(1), 10–47.
 - [DSM-5](https://www.appi.org/products/dsm) V995.51 — Child Psychological Abuse
 - WHO [ICD-11](https://icd.who.int/) QE52 — Caregiver-Child Relationship Problem

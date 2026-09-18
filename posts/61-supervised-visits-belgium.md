@@ -62,7 +62,7 @@ Cite *Improta v. Italy* (2017) and *Bondavalli v. Italy* (2015) directly in the 
 
 ## Related entries
 
-- [posts/60-supervised-visits-help-or-hurt.md](./60-supervised-visits-help-or-hurt.md) — when supervised visits help vs. hurt (the doctrine conflation)
+- [posts/60-supervised-visits-help-or-hurt.md](./60-do-supervised-visits-help-or-hurt.md) — when supervised visits help vs. hurt (the doctrine conflation)
 - `case-law/echr/improta-v-italy-2017.md` *(seed — the wait-list weapon)*
 - `case-law/echr/bondavalli-v-italy-2015.md` *(seed)*
 - `case-law/belgium/civ-art-1253ter-4.md` *(seed)*
